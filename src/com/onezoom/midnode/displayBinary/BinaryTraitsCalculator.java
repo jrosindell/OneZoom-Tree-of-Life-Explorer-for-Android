@@ -34,7 +34,10 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		}
 	}
 	
-	
+	public String toString() {
+		if (name1 == null) return "null";
+		else return name1;
+	}
 
 	private void setNames(String cutname) {
 		int lengthcut = cutname.indexOf('{');

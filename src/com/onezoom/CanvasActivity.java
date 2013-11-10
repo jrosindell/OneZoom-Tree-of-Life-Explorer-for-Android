@@ -28,10 +28,11 @@ public class CanvasActivity extends Activity{
 		if (started) return;
 		else started = true;
 		
-		fulltree = MidNode.createNode(null, selectedString, false);
+		fulltree = MidNode.createNode(null, selectedString, false, 0);
+		fulltree.recalculate(200, 900, 0.5f);
 	}
 
-	public MidNode getFullTree() {
+	public MidNode getTreeRoot() {
 		return fulltree;
 	}
 	

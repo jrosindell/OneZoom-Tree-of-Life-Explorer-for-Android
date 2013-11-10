@@ -26,7 +26,7 @@ public class TreeView extends View {
 	protected void onDraw(Canvas canvas) {
 		// TODO Auto-generated method stub
 		super.onDraw(canvas);
-		if (client.getFullTree() != null)
-			client.getFullTree().drawElement(canvas);
+		if (client.getTreeRoot() != null)
+			client.getTreeRoot().drawElement(canvas);
 	}
 }

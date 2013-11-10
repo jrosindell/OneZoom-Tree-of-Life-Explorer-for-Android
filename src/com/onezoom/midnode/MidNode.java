@@ -1,6 +1,9 @@
 package com.onezoom.midnode;
 
+import java.util.ArrayList;
+
 import android.graphics.Canvas;
+import android.util.Log;
 
 import com.onezoom.midnode.displayBinary.BinaryFactory;
 
@@ -11,19 +14,23 @@ public abstract class MidNode {
 	protected static PositionCalculator positionCalculator = factory.createPositionCalculator();
 	
 	//stores position information like bezier, xvar, etc...
-	protected PositionData positionData = factory.createPositionData(); 
+	public PositionData positionData = factory.createPositionData(); 
 	//stores metadata and methods for retrieving them
 	protected TraitsCaculator traitsCaculator = factory.createTraitsCaculator();
 
-	protected MidNode[] children = new MidNode[2];
+	public MidNode child1;
+	public MidNode child2;
+	public int childIndex;
 	protected MidNode parent = null;
 	
-	public static MidNode createNode (MidNode pNode, String data, boolean buildOneNode) {
+	public static MidNode createNode (MidNode pNode, String data, boolean buildOneNode, int childIndex) {
 		assert pNode != null;
+		assert (childIndex == 0) || (childIndex == 1) || (childIndex == 2);
+		
 		if (data.charAt(0) == '(')
-			return new InteriorNode(pNode, data, buildOneNode);
+			return new InteriorNode(pNode, data, buildOneNode, childIndex);
 		else
-			return new LeafNode(pNode, data);
+			return new LeafNode(pNode, data, childIndex);
 	}
 	
 	public static void setScreenSize(int left, int bottom, int width, int height) {
@@ -34,11 +41,20 @@ public abstract class MidNode {
 		visualizer.drawElement(canvas, this);
 	}
 	
-	public void recalculate() {
-		positionCalculator.recalculate();
+	public void recalculate(float xp, float yp, float ws) {
+		positionCalculator.recalculate(this, xp, yp, ws);
 	}
 	
 	public void moveScreenPosition(int xp, int yp, float ws) {
 		PositionData.setScreenPosition(xp, yp, ws);
 	}
+	
+	public String toString() {
+		String returnString = traitsCaculator.toString();
+		if (this.child1 != null) returnString += this.child1.toString();
+		if (this.child2 != null) returnString += this.child2.toString();
+		return returnString;
+	}
+	
+	public MidNode getParent() { return parent; }
 }

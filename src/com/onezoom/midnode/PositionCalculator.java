@@ -1,5 +1,5 @@
 package com.onezoom.midnode;
 
 public interface PositionCalculator {
-	public void recalculate();
+	public void recalculate(MidNode midNode, float xp, float yp, float ws);
 }

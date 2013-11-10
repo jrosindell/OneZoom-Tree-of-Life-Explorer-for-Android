@@ -2,20 +2,22 @@ package com.onezoom.midnode;
 
 public class InteriorNode extends MidNode {
 
-	public InteriorNode(MidNode pNode, String data, boolean buildOneNode) {
+	public InteriorNode(MidNode pNode, String data, boolean buildOneNode, int childIndex) {
+		this.childIndex = childIndex;
+		
 		if (buildOneNode)
 			buildOneInteriorNode(pNode, data);
 		else 
-			buildFullSubtree(pNode, data);
+			buildFullSubtree(pNode, data, childIndex);
 	}
 
-	private void buildFullSubtree(MidNode pNode, String data) {
+	private void buildFullSubtree(MidNode pNode, String data, int childIndex) {
 		String[] childrenStrings = buildOneInteriorNode(pNode, data);
 		String child1String = childrenStrings[0];
 		String child2String = childrenStrings[1];
 		
-		this.children[0] = MidNode.createNode(this, child1String, false);
-		this.children[1] = MidNode.createNode(this, child2String, false);
+		this.child1 = MidNode.createNode(this, child1String, false, 1);
+		this.child2 = MidNode.createNode(this, child2String, false, 2);
 	}
 
 	private String[] buildOneInteriorNode(MidNode pNode, String data) {
@@ -42,6 +44,8 @@ public class InteriorNode extends MidNode {
 		String[] childrenStrings = new String[2];
 		childrenStrings[0] = child1String;
 		childrenStrings[1] = child2String;
+		
+		precalculator.preCalcOneInteriorNode(this);
 		
 		return childrenStrings;
 	}
