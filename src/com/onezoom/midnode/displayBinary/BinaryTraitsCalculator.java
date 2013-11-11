@@ -7,7 +7,7 @@ import com.onezoom.midnode.TraitsCaculator;
 import com.onezoom.midnode.Utility;
 
 public class BinaryTraitsCalculator implements TraitsCaculator{
-	public static float timelim;
+	public static float timelim = -1;
 	public float lengthbr;
 	public String name1, name2, cname;
 	public String popstab, redlist;
@@ -239,6 +239,11 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		this.richness_val = Integer.parseInt(temp.substring(0, cut));
 		this.lengthbr = Float.parseFloat(temp.substring(cut + 1));
 		return data.substring(0, lengthcut1);
+	}
+
+	@Override
+	public float getLengthbr() {
+		return lengthbr;
 	}
 
 

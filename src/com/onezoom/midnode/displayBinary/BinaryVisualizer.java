@@ -27,8 +27,10 @@ public class BinaryVisualizer implements Visualizer{
 	
 	@Override
 	public void drawElement(Canvas canvas, MidNode midNode) {
-		if (midNode.child1 != null && midNode.positionData.dvar) drawElement(canvas, midNode.child1);
-		if (midNode.child2 != null && midNode.positionData.dvar) drawElement(canvas, midNode.child2);
+		if (midNode.child1 != null && midNode.positionData.dvar && midNode.traitsCaculator.getLengthbr() 
+				> BinaryTraitsCalculator.timelim) drawElement(canvas, midNode.child1);
+		if (midNode.child2 != null && midNode.positionData.dvar && midNode.traitsCaculator.getLengthbr() 
+				> BinaryTraitsCalculator.timelim) drawElement(canvas, midNode.child2);
 		
 		if (midNode.positionData.gvar == false) return;
 		MidNode.countDrawElement++;

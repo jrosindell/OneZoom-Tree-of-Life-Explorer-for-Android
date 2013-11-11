@@ -27,7 +27,7 @@ public abstract class PositionData {
 		ws = ws * factor;
 	}
 
-	public void setScreenPosition(float xp2, float yp2, float ws2) {
+	public static void setScreenPosition(float xp2, float yp2, float ws2) {
 		xp = xp2;
 		yp = yp2;
 		ws = ws2;

@@ -43,7 +43,7 @@ public abstract class MidNode {
 	}
 	
 	public void recalculate(float xp, float yp, float ws) {
-		positionData.setScreenPosition(xp, yp, ws);
+		PositionData.setScreenPosition(xp, yp, ws);
 		positionCalculator.recalculate(this, xp, yp, ws);
 	}
 	

@@ -205,6 +205,14 @@ public class TreeView extends View {
 		this.scaleCenterY = scaleCenterY;
 	}
 	
+	public boolean isDuringInteraction() {
+		return duringInteraction;
+	}
+
+	public void setDuringInteraction(boolean duringInteraction) {
+		this.duringInteraction = duringInteraction;
+	}
+
 	private void drawLoading(Canvas canvas) {
 		String text = "loading...";
 		Paint textPaint = new Paint();

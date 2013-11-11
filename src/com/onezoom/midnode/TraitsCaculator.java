@@ -7,4 +7,5 @@ public interface TraitsCaculator{
 	void setColor(MidNode midNode);
 	void concalc(MidNode midNode);
 	int getColor();
+	float getLengthbr();
 }

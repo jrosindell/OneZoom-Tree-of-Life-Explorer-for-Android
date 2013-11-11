@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+        
+    <item
+        android:id = "@+id/grow_play"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/playcolor"
+        android:showAsAction="always" /> 
+        
+     <item
+        android:id = "@+id/grow_pause"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/pausecolor"
+        android:showAsAction="always" /> 
+    
+     <item
+        android:id = "@+id/grow_stop"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/stopcolor"
+        android:showAsAction="always" /> 
+     
+     <item
+        android:id = "@+id/grow_reverse"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/revertcolor"
+        android:showAsAction="always" /> 
+     
+     <item
+        android:id = "@+id/grow_close"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/closecolor"
+        android:showAsAction="always" /> 
+        
+
+</menu>
