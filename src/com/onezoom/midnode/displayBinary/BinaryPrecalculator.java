@@ -7,12 +7,16 @@ import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Precalculator;
 
 public class BinaryPrecalculator implements Precalculator {
-	private float partl1 = 0.55f; // size of line
-	private float ratioOfChild1 = 1/1.3f;
-	private float ratioOfChild2 = 1/2.25f;
-	private float angleOfChild1Right = (float) (0.22f * Math.PI);
-	private float angleOfChild2Left = (float) (0.46f * Math.PI);
-	private float rootAngle = (float) (Math.PI * 3 / 2);
+	private static final float partl1 = 0.55f; // size of line
+	private static final float ratioOfChild1 = 1/1.3f;
+	private static final float ratioOfChild2 = 1/2.25f;
+	private static final float angleOfChild1Right = (float) (0.22f * Math.PI);
+	private static final float angleOfChild2Left = (float) (0.46f * Math.PI);
+	private static final float leafmult = 3.2f;
+	private static final float posmult = leafmult -2f;
+	private static final float partc = 0.4f;
+
+	private static float rootAngle = (float) (Math.PI * 3 / 2);
 	
 	@Override
 	public void preCalcWholeTree(MidNode tree) {
@@ -39,11 +43,21 @@ public class BinaryPrecalculator implements Precalculator {
 			assert interiorNode.childIndex == 2;
 			precalcAsLeftChildren(interiorNode.positionData, parent.positionData);
 		}
+		precalcInteriorCircle(interiorNode.positionData);
 	}
 
 	@Override
 	public void preCalcOneLeafNode(LeafNode leafNode) {
 		assert leafNode != null;		
+		MidNode parent = leafNode.getParent();
+		if (leafNode.childIndex == 1) {
+			precalcAsRightChildren(leafNode.positionData, parent.positionData);
+		} else {
+			assert leafNode.childIndex == 2;
+			precalcAsLeftChildren(leafNode.positionData, parent.positionData);
+		}
+		precalcLeafShape(leafNode.positionData);
+		//TODO: leaf node needs more precalc
 	}
 	
 	private void precalcOneNode(MidNode node) {
@@ -125,6 +139,18 @@ public class BinaryPrecalculator implements Precalculator {
 				-(((positionData.bezr)-(partl1*ratioOfChild2))/2.0f)*getCos90Pre(positionData.arcAngle); // x refernece point for both children
 		positionData.nexty2 = (1.3f*getSin(positionData.arcAngle))
 				-(((positionData.bezr)-(partl1*ratioOfChild2))/2.0f)*getSin90Pre(positionData.arcAngle); // y reference point for both children	}
+	}
+	
+	private void precalcInteriorCircle(PositionData positionData) {
+		positionData.arcx = positionData.bezex;
+		positionData.arcy = positionData.bezey;
+		positionData.arcr = positionData.bezr / 2;
+	}
+	
+	private void precalcLeafShape(PositionData positionData) {
+		positionData.arcx = positionData.bezex  + posmult * getCos(positionData.arcAngle);
+		positionData.arcy = positionData.bezey + posmult * getSin(positionData.arcAngle);
+		positionData.arcr = leafmult * partc;
 	}
 	
 	private float getCos(Float angle) { return (float) Math.cos(angle); }

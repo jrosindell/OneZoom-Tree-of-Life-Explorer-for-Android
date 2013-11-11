@@ -11,17 +11,19 @@ public class CanvasActivity extends Activity{
 	private String selectedItem, selectedString;
 	private MidNode fulltree;
 	private boolean started = false;
+	private MemoryThread thread;
+	private boolean threadStarted = false;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
+		thread = new MemoryThread(this);
 		retrieveData();
 	}
 
 	@Override
 	protected void onStart() {
-		// TODO Auto-generated method stub
 		super.onStart();
 //		
 //		//only start the activity once
@@ -29,11 +31,29 @@ public class CanvasActivity extends Activity{
 		else started = true;
 		
 		fulltree = MidNode.createNode(null, selectedString, false, 0);
-		fulltree.recalculate(200, 900, 0.5f);
+		fulltree.init();
+		MidNode.setScreenSize(0, 0, 800, 1200);
+		fulltree.recalculate(200, 900, 1f);
+		
+		if (!threadStarted) {
+			threadStarted = true;
+			thread.start();
+		}
 	}
+	
+	@Override
+	protected void onDestroy() {
+		super.onDestroy();
+		thread.requestStop();
+	}
+
 
 	public MidNode getTreeRoot() {
 		return fulltree;
+	}
+	
+	public void recalculate() {
+		thread.recalculate();
 	}
 	
 	/**
@@ -62,4 +82,5 @@ public class CanvasActivity extends Activity{
 			selectedString = Data.newTetrapodsString;
 		}		
 	}
+
 }
