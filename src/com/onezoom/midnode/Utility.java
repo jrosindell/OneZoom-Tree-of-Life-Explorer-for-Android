@@ -130,4 +130,72 @@ public class Utility {
 		return colortoreturn;
 	}
 
+	public static String geologicAge(InteriorNode midNode) {
+		float lengthbr = midNode.traitsCaculator.getLengthbr();
+		if (lengthbr > 253.8)
+			return ("pre Triassic Period");
+		else if (lengthbr > 203.6)
+			return ("Triassic Period");
+		else if (lengthbr > 150.8)
+			return ("Jurassic Period");
+		else if (lengthbr > 70.6)
+			return ("Cretaceous Period");
+		else if (lengthbr > 28.4)
+			return ("Paleogene Period");
+		else if (lengthbr > 3.6)
+			return ("Neogene Period");
+		else
+			return ("Quaternary Period");
+	}
+
+	public static String conservationStatus(LeafNode midNode) {
+		if (midNode.traitsCaculator.getRedlist() != null) {
+			return "Conservation status: " + conconvert(midNode.traitsCaculator.getRedlist());
+		} else {
+			return "Conservation status: " + ("Not Evaluated");
+		}
+	}
+
+	public static String populationStability(LeafNode midNode) {
+		String popstab = midNode.traitsCaculator.getPopstab();
+		String redlist = midNode.traitsCaculator.getRedlist();
+		if (popstab != null && popstab.equals("D"))
+			return "population decreasing";
+		else if (popstab != null && popstab.equals("I"))
+			return "population increasing";
+		else if (popstab != null && popstab.equals("S"))
+			return "population stable";
+		else if (redlist != null
+				&& (redlist.equals("EX") || redlist.equals("EW")))
+			return "population extinct";
+		else if (redlist == null
+				|| (!(redlist.equals("EX") && !redlist.equals("EW"))))
+			return "population stability unknown";
+		else
+			return "population stability unknown";
+	}
+	
+	private static  String conconvert(String conservation) {
+		if (conservation.equals("EX"))
+			return ("Extinct");
+		if (conservation.equals("EW"))
+			return ("Extinct in the Wild");
+		if (conservation.equals("CR"))
+			return ("Critically Endangered");
+		if (conservation.equals("EN"))
+			return ("Endangered");
+		if (conservation.equals("VU"))
+			return ("Vulnerable");
+		if (conservation.equals("NT"))
+			return ("Near Threatened");
+		if (conservation.equals("LC"))
+			return ("Least Concern");
+		if (conservation.equals("DD"))
+			return ("Data Deficient");
+		if (conservation.equals("NE"))
+			return ("Not Evaluated");
+		else
+			return ("Not Evaluated");
+	}
+
 }

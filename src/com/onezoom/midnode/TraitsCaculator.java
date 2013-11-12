@@ -8,4 +8,10 @@ public interface TraitsCaculator{
 	void concalc(MidNode midNode);
 	int getColor();
 	float getLengthbr();
+	int getRichness();
+	String getCname();
+	String getName1();
+	String getName2();
+	String getRedlist();
+	String getPopstab();
 }

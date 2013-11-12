@@ -20,6 +20,7 @@ public class TreeView extends View {
 	private CanvasActivity client;
 	private GestureDetector gestureDetector;
 	private ScaleGestureDetector scaleDetector;
+	private boolean treeBeingInitialized = false;
 	private boolean duringRecalculation = false;
 	private boolean duringInteraction = false;
 	private Bitmap cachedBitmap;
@@ -81,10 +82,9 @@ public class TreeView extends View {
 	protected void onDraw(Canvas canvas) {
 		// TODO Auto-generated method stub
 		super.onDraw(canvas);
-		if (client.getTreeRoot() == null) {
+		if (!treeBeingInitialized) {
 			drawLoading(canvas);
-		}
-		if (client.getTreeRoot() != null) {
+		} else {
 			if (!duringRecalculation && !duringInteraction){
 				drawElementAndCache(canvas);
 			} else {
@@ -149,6 +149,14 @@ public class TreeView extends View {
 		client.recalculate();
 	}
 	
+	public boolean isTreeBeingInitialized() {
+		return treeBeingInitialized;
+	}
+
+	public void setTreeBeingInitialized(boolean treeBeingInitialized) {
+		this.treeBeingInitialized = treeBeingInitialized;
+	}
+
 	public boolean isDuringRecalculation() {
 		return duringRecalculation;
 	}

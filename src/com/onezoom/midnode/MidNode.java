@@ -38,7 +38,7 @@ public abstract class MidNode {
 	
 	public void drawElement(Canvas canvas) {
 		countDrawElement = 0;
-		visualizer.drawElement(canvas, this);
+		visualizer.drawTree(canvas, this);
 		Log.d("debug", "zzzzzzzzzzzzzz" + countDrawElement);
 	}
 	

@@ -246,5 +246,35 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		return lengthbr;
 	}
 
+	@Override
+	public int getRichness() {
+		return richness_val;
+	}
+
+	@Override
+	public String getCname() {
+		return cname;
+	}
+
+	@Override
+	public String getName1() {
+		return name1;
+	}
+
+	@Override
+	public String getName2() {
+		return name2;
+	}
+
+	@Override
+	public String getRedlist() {
+		return redlist;
+	}
+
+	@Override
+	public String getPopstab() {
+		return popstab;
+	}
+
 
 }

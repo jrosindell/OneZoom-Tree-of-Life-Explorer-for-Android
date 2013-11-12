@@ -10,7 +10,7 @@ import android.os.Looper;
 import android.os.Message;
 
 class GrowthThread extends Thread {
-	Handler handler = new growthHandler();
+	Handler handler;
 	CanvasActivity client;
 	boolean started = false;
 	boolean pause = false;
@@ -41,7 +41,7 @@ class GrowthThread extends Thread {
 			// now, the handler will automatically bind to the
 			// Looper that is attached to the current thread
 			// You don't need to specify the Looper explicitly
-			handler = new growthHandler();
+			handler = new growthHandler(client);
 
 			// After the following line the thread will start
 			// running the message loop and will not normally
@@ -78,6 +78,7 @@ class GrowthThread extends Thread {
 	}
 	
 	public void Pause() {
+		pause = true;
 		handler.sendEmptyMessage(MSG_PAUSE);
 	}
 	
@@ -93,49 +94,53 @@ class GrowthThread extends Thread {
 	public void Stop() {
 		handler.sendEmptyMessage(MSG_STOP);
 	}
+}
 
-	class growthHandler extends Handler {
-		@Override
-		public void handleMessage(Message msg) {
-			switch (msg.what) {
-			case MSG_PLAY:
-				BinaryTraitsCalculator.timelim -= 4;
-				client.treeView.setDuringInteraction(false);
-				client.treeView.postInvalidate();
-				if (BinaryTraitsCalculator.timelim > 0)
-					sendEmptyMessageDelayed(MSG_PLAY, 400);
-				break;
-		
-			case MSG_PAUSE:
-				pause = true;
-				handler.removeMessages(MSG_PLAY);
-				break;
-		
-			case MSG_STOP:
-				client.treeView.setDuringInteraction(false);
-				client.treeView.postInvalidate();
-				handler.removeMessages(MSG_PLAY);
-				handler.removeMessages(MSG_REVERT);
-				BinaryTraitsCalculator.timelim = -1;
-				break;
-		
-			case MSG_REVERT:
-				BinaryTraitsCalculator.timelim += 4;
-				client.treeView.setDuringInteraction(false);
-				client.treeView.postInvalidate();
-				if (BinaryTraitsCalculator.timelim < 400)
-					sendEmptyMessageDelayed(MSG_REVERT, 400);
-				break;
-			
-			case MSG_CLOSE:
-				BinaryTraitsCalculator.timelim = -1;
-				client.treeView.setDuringInteraction(false);
-				client.treeView.postInvalidate();
-				break;
+class growthHandler extends Handler {
+	CanvasActivity client;
+	public growthHandler(CanvasActivity activity) {
+		client = activity;
+	}
+
+	@Override
+	public void handleMessage(Message msg) {
+		switch (msg.what) {
+		case GrowthThread.MSG_PLAY:
+			BinaryTraitsCalculator.timelim -= 4;
+			client.treeView.setDuringInteraction(false);
+			client.treeView.postInvalidate();
+			if (BinaryTraitsCalculator.timelim > 0)
+				sendEmptyMessageDelayed(GrowthThread.MSG_PLAY, 400);
+			break;
 	
-			default:
-				break;
-			}
+		case GrowthThread.MSG_PAUSE:
+			removeMessages(GrowthThread.MSG_PLAY);
+			break;
+	
+		case GrowthThread.MSG_STOP:
+			client.treeView.setDuringInteraction(false);
+			client.treeView.postInvalidate();
+			removeMessages(GrowthThread.MSG_PLAY);
+			removeMessages(GrowthThread.MSG_REVERT);
+			BinaryTraitsCalculator.timelim = -1;
+			break;
+	
+		case GrowthThread.MSG_REVERT:
+			BinaryTraitsCalculator.timelim += 4;
+			client.treeView.setDuringInteraction(false);
+			client.treeView.postInvalidate();
+			if (BinaryTraitsCalculator.timelim < 400)
+				sendEmptyMessageDelayed(GrowthThread.MSG_REVERT, 400);
+			break;
+		
+		case GrowthThread.MSG_CLOSE:
+			BinaryTraitsCalculator.timelim = -1;
+			client.treeView.setDuringInteraction(false);
+			client.treeView.postInvalidate();
+			break;
+
+		default:
+			break;
 		}
 	}
 }

@@ -51,11 +51,6 @@ public class CanvasActivity extends Activity{
 		if (started) return;
 		else started = true;
 		
-		fulltree = MidNode.createNode(null, selectedString, false, 0);
-		fulltree.init();
-		MidNode.setScreenSize(0, 0, 800, 1200);
-		fulltree.recalculate(200, 900, 1f);
-		
 		if (!threadStarted) {
 			threadStarted = true;
 			memoryThread.start();
@@ -72,6 +67,14 @@ public class CanvasActivity extends Activity{
 
 	public MidNode getTreeRoot() {
 		return fulltree;
+	}
+	
+	public void initialization() {
+		fulltree = MidNode.createNode(null, selectedString, false, 0);
+		fulltree.init();
+		MidNode.setScreenSize(0, 0, 800, 1200);
+		fulltree.recalculate(200, 900, 1f);
+		treeView.setTreeBeingInitialized(true);		
 	}
 	
 	public void recalculate() {
@@ -193,5 +196,4 @@ public class CanvasActivity extends Activity{
 	private void inflateGrowMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.grow, menu);
 	}
-
 }

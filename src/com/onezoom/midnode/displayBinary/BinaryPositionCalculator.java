@@ -33,14 +33,15 @@ public class BinaryPositionCalculator implements PositionCalculator {
 				midNode.positionData.bezc1x,
 				midNode.positionData.bezc2x);
 		
+		midNode.positionData.gxmax = maxAndMinX[0] + midNode.positionData.bezr / 2;
+		midNode.positionData.gxmin = maxAndMinX[1] - midNode.positionData.bezr / 2;
+		
 		maxAndMinY = findMaxAndMin(
 				midNode.positionData.bezsy,
 				midNode.positionData.bezey,
 				midNode.positionData.bezc1y,
 				midNode.positionData.bezc2y);
 		
-		midNode.positionData.gxmax = maxAndMinX[0] + midNode.positionData.bezr / 2;
-		midNode.positionData.gxmin = maxAndMinX[1] - midNode.positionData.bezr / 2;
 		midNode.positionData.gymax = maxAndMinY[0] + midNode.positionData.bezr / 2;
 		midNode.positionData.gymin = maxAndMinY[1] - midNode.positionData.bezr / 2;
 		
@@ -86,7 +87,7 @@ public class BinaryPositionCalculator implements PositionCalculator {
 		midNode.positionData.hymax = max;
 		
 		min = findMin(
-				midNode.positionData.hxmin,
+				midNode.positionData.hymin,
 				midNode.positionData.nexty1 + midNode.positionData.nextr1 * midNode.child1.positionData.hymin,
 				midNode.positionData.nexty2 + midNode.positionData.nextr2 * midNode.child2.positionData.hymin);
 		midNode.positionData.hymin = min;
