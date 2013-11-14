@@ -1,0 +1,124 @@
+index    parent   name                      common                    redlist   popstab  
+15       14       lutillus_Melomys          Grassland Melomys         LC        U        
+16       14       burtoni_Melomys           Grassland Melomys         LC        S        
+17       13       frigicola_Melomys         Snow Mountains Grassland Melomys  LC        U        
+20       19       rattoides_Mammelomys      Lowland Mammelomys        LC        U        
+21       19       rufescens_Melomys         Black-tailed Melomys      LC        S        
+22       18       moncktoni_Paramelomys     Moncton's Paramelomys     LC        U        
+24       23       mollis_Paramelomys        Montane Soft-furred Paramelomys  LC        S        
+25       23       capensis_Melomys          Cape York Melomys         LC        S        
+26       10       platyops_Paramelomys      Common Lowland Paramelomys  LC        S        
+31       30       rubicola_Melomys          Bramble Cay Melomys       CR        U        
+32       30       spechti_Melomys                                     NE        U        
+33       29       bougainville_Melomys      Bougainville Melomys      DD        U        
+35       34       rubex_Paramelomys         Mountain Paramelomys      LC        S        
+36       34       steini_Paramelomys        Stein's Paramelomys       DD        U        
+38       37       fellowsi_Protochromys     Red-bellied Protochromys  LC        U        
+39       37       fraterculus_Melomys       Manusela Melomys          CR        D        
+46       45       talaudium_Melomys         Long-tailed Talaud Melomys  EN        D        
+47       45       caurinus_Melomys          Short-tailed Talaud Melomys  EN        D        
+49       48       leucogaster_Melomys       White-bellied Melomys     LC        S        
+50       48       fulgens_Melomys           Seram Long-tailed Melomys  DD        U        
+51       43       arcium_Melomys            Rossel Island Melomys     DD        U        
+53       52       lorentzii_Paramelomys     Lorentz's Paramelomys     LC        U        
+54       52       naso_Paramelomys          Long-nosed Paramelomys    LC        U        
+55       41       aerosus_Melomys           Dusky Seram Melomys       EN        D        
+59       58       cervinipes_Melomys        Fawn-footed Melomys       LC        S        
+60       58       dollmani_Melomys          Dollman's Melomys         LC        S        
+61       57       lanosus_Mammelomys        Highland Mammelomys       LC        U        
+63       62       levipes_Paramelomys       Papuan Lowland Paramelomys  DD        U        
+64       62       obiensis_Melomys          Obi Island Melomys        LC        U        
+68       67       caudimaculatus_Uromys     White-tailed Giant Rat    LC        S        
+69       67       siebersi_Uromys           Great Key Island Uromys   DD        U        
+71       70       neobritannicus_Uromys     Bismarck Giant Rat        EN        D        
+72       70       rex_Uromys                King Rat                  EN        D        
+74       73       hadrourus_Uromys          Pygmy White-tailed Rat    VU        S        
+75       73       anak_Uromys               Black-tailed Giant Rat    LC        U        
+79       78       macrurus_Mesembriomys     Golden-backed Tree Rat    LC        U        
+80       78       gouldii_Mesembriomys      Black-footed Tree Rat     NT        D        
+81       77       conditor_Leporillus       Greater Stick-nest Rat    VU        S        
+82       76       penicillatus_Conilurus    Brush-tailed Rabbit Rat   NT        D        
+86       85       woodwardi_Zyzomys         Kimberley Rock Rat        LC        S        
+87       85       argurus_Zyzomys           Common Rock Rat           LC        S        
+88       84       pedunculatus_Zyzomys      Central Rock Rat          CR        U        
+90       89       maini_Zyzomys             Arnhem Land Rock Rat      NT        D        
+91       89       palatilis_Zyzomys                                   NE        U        
+95       94       aquilo_Notomys            Northern Hopping Mouse    EN        D        
+96       94       alexis_Notomys            Spinifex Hopping Mouse    LC        S        
+97       93       fuscus_Notomys            Dusky Hopping Mouse       VU        U        
+99       98       mitchellii_Notomys        Mitchell's Hopping Mouse  LC        S        
+100      98       cervinus_Notomys          Fawn Hopping Mouse        VU        D        
+112      111      calabyi_Pseudomys         Kakadu Pebble Mouse       VU        D        
+113      111      laborifex_Pseudomys                                 NE        U        
+114      110      albocinereus_Pseudomys    Ash-grey Mouse            LC        S        
+115      109      chapmani_Pseudomys        Western Pebble Mouse      LC        S        
+117      116      nanus_Pseudomys           Western Chestnut Mouse    LC        D        
+118      116      desertor_Pseudomys        Desert Mouse              LC        D        
+120      119      oralis_Pseudomys          Hastings River Mouse      VU        D        
+121      119      pilligaensis_Pseudomys    Pilliga Mouse             DD        D        
+123      122      novaehollandiae_Pseudomys  New Holland Mouse         VU        D        
+124      122      delicatulus_Pseudomys     Delicate Mouse            LC        U        
+128      127      johnsoni_Pseudomys        Central Pebble Mouse      LC        S        
+129      127      glaucus_Pseudomys         Blue-grey Mouse           EX        U        
+130      126      apodemoides_Pseudomys     Silky Mouse               LC        S        
+131      125      gracilicaudatus_Pseudomys  Eastern Chestnut Mouse    LC        D        
+136      135      occidentalis_Pseudomys    Western Mouse             LC        U        
+137      135      bolami_Pseudomys          Bolam's Mouse             LC        S        
+138      134      higginsi_Pseudomys        Long-tailed Mouse         LC        S        
+139      133      fuscus_Mastacomys         Broad-toothed Mouse       NT        D        
+142      141      patrius_Pseudomys         Eastern Pebble Mouse      LC        U        
+143      141      fieldi_Pseudomys          Shark Bay Mouse           VU        I        
+144      140      hermannsburgensis_Pseudomys  Sandy Inland Mouse        LC        S        
+145      103      fumeus_Pseudomys          Smoky Mouse               EN        D        
+147      146      shortridgei_Pseudomys     Heath Mouse               NT        D        
+148      146      australis_Pseudomys       Plains Mouse              VU        D        
+150      149      lakedownensis_Leggadina   Northern Short-tailed Mouse  LC        U        
+151      149      forresti_Leggadina        Central Short-tailed Mouse  LC        U        
+152      2        harringtoni_Desmomys      Harrington's Rat          LC        U        
+159      158      tullbergi_Praomys         Tullberg's Praomys        LC        S        
+160      158      morio_Praomys             Cameroon Praomys          EN        D        
+161      157      rostratus_Praomys         Forest Soft-furred Mouse  LC        U        
+162      156      mutoni_Praomys            Muton's Soft-furred Mouse  DD        U        
+164      163      jacksoni_Praomys          Jackson's Praomys         LC        S        
+165      163      minor_Praomys             Least Praomys             DD        U        
+168      167      hartwigi_Praomys          Hartwig's Praomys         EN        D        
+169      167      obscurus_Praomys                                    EN        D        
+170      166      delectorum_Praomys        Delectable Soft-furred Mouse  NT        S        
+171      153      misonnei_Praomys          Misonne's Praomys         LC        S        
+182      181      wilhelmina_Paraleptomys   Short-haired Hydromyine   DD        U        
+183      181      rufilatus_Paraleptomys    Northern Hydromyine       EN        U        
+185      184      occidentalis_Pseudohydromys  Western Shrew Mouse       DD        U        
+186      184      murinus_Pseudohydromys    Eastern Shrew Mouse       LC        U        
+188      187      ellermani_Pseudohydromys  One-toothed Shrew Mouse   LC        U        
+189      187      fuscus_Pseudohydromys     Mottled-tailed Shrew Mouse  LC        S        
+190      178      nouhuysi_Lorentzimys      Long-footed Tree Mouse    LC        S        
+193      192      signatus_Leptomys         Fly River Leptomys        LC        U        
+194      192      elegans_Leptomys          Large Leptomys            LC        U        
+195      191      ernstmayri_Leptomys       Ernst Mayr's Leptomys     LC        U        
+197      196      albidens_Coccymys         White-toothed Mouse       DD        U        
+198      196      ruemmleri_Coccymys        Rummler's Mouse           LC        U        
+203      202      mayeri_Pogonomelomys      Shaw Mayer's Pogonomelomys  LC        U        
+204      202      bruijni_Pogonomelomys                               NE        U        
+205      201      sevia_Abeomelomys         Menzies' Mouse            LC        U        
+206      200      imitator_Anisomys         Uneven-toothed Rat        LC        S        
+208      207      richardsoni_Microhydromys  Groove-toothed Shrew Mouse  DD        U        
+209      207      musseri_Microhydromys     Musser's Shrew Mouse      DD        U        
+213      212      salebrosus_Solomys        Bougainville Giant Rat    EN        D        
+214      212      sapientis_Solomys         Isabel Giant Rat          EN        D        
+215      211      salamonis_Solomys         Florida Giant Rat         DD        U        
+217      216      ponceleti_Solomys         Poncelet's Giant Rat      CR        D        
+218      216      spriggsarum_Solomys                                 NE        U        
+219      173      moncktoni_Crossomys       Earless Water Rat         LC        U        
+227      226      istapantap_Mallomys       Subalpine Woolly Rat      LC        U        
+228      226      gunung_Mallomys           Alpine Woolly Rat         EN        D        
+229      225      aroaensis_Mallomys        De Vis's Woolly Rat       LC        U        
+230      224      rothschildi_Mallomys      Rothschild's Woolly Rat   LC        S        
+231      223      asper_Parahydromys        Waterside Rat             LC        U        
+233      232      elegans_Macruromys        Lesser Small-toothed Rat  DD        U        
+234      232      major_Macruromys          Greater Small-toothed Rat  LC        S        
+237      236      lamia_Chiruromys          Broad-headed Tree Mouse   LC        U        
+238      236      forbesi_Chiruromys        Forbes's Tree Mouse       LC        S        
+239      235      vates_Chiruromys          Lesser Tree Mouse         LC        S        
+242      241      dammermani_Hyomys         Western White-eared Giant Rat  DD        U        
+243      241      goliath_Hyomys            Eastern White-eared Giant Rat  LC        U        
+244      240      barbatus_Xenuromys        Rock-dwelling Giant Rat   LC        U        

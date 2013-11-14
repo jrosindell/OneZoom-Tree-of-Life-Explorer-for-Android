@@ -1,0 +1,156 @@
+index    parent   name                      common                    redlist   popstab  
+7        6        plumbeus_Nilopegamys      Ethiopian Amphibious Rat  CR        U        
+8        6        goslingi_Colomys          African Wading Rat        LC        S        
+9        5        ellioti_Golunda           Indian Bush-rat           LC        S        
+11       10       armandvillei_Papagomys    Armandville's Papagomys   NT        D        
+12       10       rintjanus_Komodomys       Nusa Tenggara Komodomys   VU        S        
+25       24       barbarus_Lemniscomys      Barbary Lemniscomys       LC        S        
+26       24       zebra_Lemniscomys         Heuglin's Lemniscomys     LC        S        
+27       23       bellieri_Lemniscomys      Bellier's Lemniscomys     LC        S        
+29       28       roseveari_Lemniscomys     Rosevear's Lemniscomys    DD        U        
+30       28       macculus_Lemniscomys      Buffoon Lemniscomys       LC        S        
+32       31       mittendorfi_Lemniscomys   Mittendorf's Lemniscomys  VU        S        
+33       31       rosalia_Lemniscomys       Single-striped Grass Mouse  LC        S        
+34       20       linulus_Lemniscomys       Senegal Lemniscomys       LC        U        
+37       36       hoogstraali_Lemniscomys   Hoogstraal's Lemniscomys  DD        U        
+38       36       striatus_Lemniscomys      Typical Lemniscomys       LC        I        
+39       35       griselda_Lemniscomys      Griselda's Lemniscomys    LC        S        
+42       41       parvus_Pithecheir         Malay Peninsula Pithecheir  DD        U        
+43       41       melanurus_Pithecheir      Javan Pithecheir          VU        D        
+44       40       ohiensis_Srilankamys      Ohiya Rat                 VU        D        
+50       49       arrogans_Rattus           Western New Guinea Mountain Rat  LC        S        
+51       49       pococki_Rattus            Pocock's Highland Rat     LC        U        
+53       52       niobe_Rattus              Moss-forest Rat           LC        S        
+54       52       arfakiensis_Rattus                                  NE        U        
+56       55       omichlodes_Rattus         Arianus's Rat             DD        U        
+57       55       richardsoni_Rattus        Glacier Rat               VU        D        
+60       59       vandeuseni_Rattus         Van Deusen's Rat          EN        D        
+61       59       verecundus_Rattus         Slender Rat               LC        S        
+62       58       ceramicus_Nesoromys       Seram Island Mountain Rat  EN        D        
+64       63       imberbis_Muriculus        Ethiopian Striped Mouse   LC        D        
+65       63       millardi_Dacnomys         Millard's Rat             DD        U        
+67       66       canus_Eropeplus           Sulawesi Soft-furred Rat  VU        D        
+68       66       meyeri_Lenomys            Meyer's Lenomys           LC        D        
+74       73       fratrorum_Bunomys         Northeastern Peninsula Bunomys  VU        D        
+75       73       prolatus_Bunomys          Tambusisi Bunomys         EN        D        
+77       76       chrysocomus_Bunomys       Common Bunomys            LC        S        
+78       76       andrewsi_Bunomys          Andrew's Bunomys          LC        U        
+79       71       coelestis_Bunomys         Lampobatang Bunomys       CR        D        
+80       70       penitus_Bunomys           Montane Bunomys           NT        D        
+81       69       fulva_Vernaya             Vernay's Climbing Mouse   LC        U        
+94       93       speciosus_Apodemus        Large Japanese Field Mouse  LC        S        
+95       93       latronum_Apodemus         Large-eared Field Mouse   LC        U        
+96       92       draco_Apodemus            South China Field Mouse   LC        S        
+98       97       argenteus_Apodemus        Small Japanese Field Mouse  LC        S        
+99       97       gurkha_Apodemus           Himalayan Wood Mouse      EN        D        
+101      100      peninsulae_Apodemus       Korean Field Mouse        LC        S        
+102      100      semotus_Apodemus          Taiwan Field Mouse        LC        U        
+104      103      chevrieri_Apodemus        Chevrier's Field Mouse    LC        U        
+105      103      agrarius_Apodemus         Striped Field Mouse       LC        S        
+111      110      sylvaticus_Apodemus       Long-tailed Field Mouse   LC        S        
+112      110      alpicola_Apodemus         Alpine Field Mouse        LC        U        
+113      109      rusiges_Apodemus          Kashmir Field Mouse       LC        U        
+114      108      flavicollis_Apodemus      Yellow-necked Field Mouse  LC        S        
+115      107      hyrcanicus_Apodemus       Hyrcanian Field Mouse     NT        D        
+119      118      pallipes_Apodemus         Himalayan Field Mouse     LC        U        
+120      118      witherbyi_Apodemus        Steppe Field Mouse        LC        U        
+121      117      uralensis_Apodemus        Herb Field Mouse          LC        S        
+122      116      ponticus_Apodemus         Black Sea Field Mouse     LC        U        
+124      123      epimelas_Apodemus         Western Broad-toothed Field Mouse  LC        S        
+125      123      mystacinus_Apodemus       Broad-toothed Field Mouse  LC        S        
+127      126      muenninki_Tokudaia        Okinawa Spiny Rat         CR        D        
+128      126      osimensis_Tokudaia        Amami Spiny Rat           EN        D        
+134      133      niloticus_Arvicanthis     African Grass Rat         LC        U        
+135      133      rufinus_Arvicanthis       Guinean Arvicanthis       LC        U        
+136      132      ansorgei_Arvicanthis      Sudanian Arvicanthis      LC        U        
+137      131      neumanni_Arvicanthis      Somali Grass Rat          LC        U        
+139      138      nairobae_Arvicanthis      Nairobi Grass Rat         LC        S        
+140      138      blicki_Arvicanthis        Blick's Grass Rat         NT        U        
+141      129      abyssinicus_Arvicanthis   Abyssinian Grass Rat      LC        S        
+145      144      mackenziei_Berylmys       Kenneth's White-toothed Rat  DD        U        
+146      144      manipulus_Berylmys        Manipur White-toothed Rat  DD        U        
+147      143      berdmorei_Berylmys        Berdmore's Berylmy        LC        S        
+148      142      bowersi_Berylmys          Bower's White-toothed Rat  LC        D        
+154      153      bengalensis_Bandicota     Lesser Bandicoot Rat      LC        I        
+155      153      indica_Bandicota          Greater Bandicoot Rat     LC        I        
+156      152      savilei_Bandicota         Savile's Bandicoot Rat    LC        S        
+157      151      sodyi_Kadarsanomys        Javan Bamboo Rat          VU        D        
+159      158      pallidus_Phloeomys        Northern Luzon Phloeomys  LC        S        
+160      158      cumingi_Phloeomys         Southern Luzon Phloeomys  VU        D        
+161      149      mindorensis_Anonymomys    Mindoro Forest Anonymomys  DD        U        
+169      168      erythroleucus_Mastomys    Guinea Multimammate Mouse  LC        S        
+170      168      shortridgei_Mastomys      Shortridge's Mastomys     LC        S        
+171      167      kollmannspergeri_Mastomys  Kollmannsperger's Mastomys  LC        S        
+172      166      angolensis_Myomyscus      Angolan Multimammate Mouse  LC        S        
+175      174      huberti_Mastomys          Hubert's Mastomys         LC        I        
+176      174      pernanus_Mastomys         Dwarf Mastomys            DD        U        
+177      173      coucha_Mastomys           Southern African Mastomys  LC        S        
+178      164      natalensis_Mastomys       Natal Mastomys            LC        S        
+183      182      carillus_Hylomyscus       Angolan Hylomyscus        LC        U        
+184      182      stella_Hylomyscus         Stella Hylomyscus         LC        S        
+186      185      grandis_Hylomyscus        Mt Oku Hylomyscus         CR        D        
+187      185      aeta_Hylomyscus           Beaded Hylomyscus         LC        S        
+190      189      alleni_Hylomyscus         Allen's Hylomyscus        LC        S        
+191      189      baeri_Hylomyscus          Baer's Hylomyscus         EN        D        
+192      188      denniae_Hylomyscus        Montane Hylomyscus        LC        S        
+193      179      parvus_Hylomyscus         Lesser Hylomyscus         LC        S        
+195      194      pumilio_Rhabdomys         Four-striped Grass Mouse  LC        S        
+196      194      dilectus_Rhabdomys                                  NE        U        
+208      207      lunaris_Hybomys           Moon Striped Mouse        VU        S        
+209      207      basilii_Hybomys           Bioko Hybomys             EN        U        
+210      206      trivirgatus_Hybomys       Temminck's Striped Mouse  LC        S        
+211      205      badius_Hybomys            Cameroon Highland Hybomys  EN        D        
+213      212      planifrons_Hybomys        Liberian Forest Hybomys   LC        S        
+214      212      univittatus_Hybomys       Peters' Hybomys           LC        S        
+216      215      defua_Dephomys            Defua Rat                 LC        U        
+217      215      eburneae_Dephomys                                   NE        U        
+222      221      neobritannicus_Hydromys   New Britain Water Rat     DD        U        
+223      221      habbema_Hydromys                                    NE        U        
+224      220      chrysogaster_Hydromys     Common Water Rat          LC        U        
+226      225      hussoni_Hydromys          Western Water Rat         DD        U        
+227      225      shawmayeri_Hydromys                                 NE        U        
+228      218      myoides_Xeromys           False Water Rat           VU        D        
+233      232      bagobus_Bullimus          Mindanao Bullimus         LC        S        
+234      232      luzonicus_Bullimus        Luzon Bullimus            LC        U        
+236      235      echinatus_Tarsomys        Spiny Tarsomys            VU        D        
+237      235      apoensis_Tarsomys         Dusky Tarsomys            LC        S        
+238      230      adustus_Tryphomys         Luzon Tryphomys           DD        U        
+240      239      latidens_Abditomys        Luzon Broad-toothed Rat   DD        U        
+241      239      sibuanus_Limnomys         White-bellied Limnomys    LC        S        
+246      245      macrocercus_Tateomys      Long-tailed Sulawesian Shrew Rat  DD        U        
+247      245      rhinogradoides_Tateomys   Tate's Sulawesian Shrew Rat  DD        S        
+248      244      naso_Melasmothrix         Diurnal Sulawesian Shrew Rat  DD        U        
+251      250      beccarii_Margaretamys     Spiny Lowland Margaretamys  VU        D        
+252      250      elegans_Margaretamys      Elegant Margaretamys      NT        D        
+253      249      parvus_Margaretamys       Lesser Margaretamys       DD        U        
+255      254      leucura_Echiothrix        Northern Sulawesi Echiothrix  EN        D        
+256      254      centrosa_Echiothrix       Central Sulawesi Echiothrix  VU        D        
+264      263      macmillani_Grammomys      Macmillan's Thicket Rat   LC        U        
+265      263      cometes_Grammomys         Mozambique Thicket Rat    LC        U        
+266      262      gigas_Grammomys           Giant Thicket Rat         EN        D        
+268      267      caniceps_Grammomys        Gray-headed Thicket Rat   DD        U        
+269      267      minnae_Grammomys          Ethiopian Thicket Rat     VU        D        
+273      272      aridulus_Grammomys        Arid Thicket Rat          DD        U        
+274      272      dryas_Grammomys           Forest Thicket Rat        NT        D        
+275      271      buntingi_Grammomys        Bunting's Grammomys       DD        U        
+277      276      dolichurus_Grammomys      Woodland Thicket Rat      LC        U        
+278      276      ibeanus_Grammomys         Ruwenzori Thicket Rat     LC        U        
+280      279      kuru_Grammomys            Eastern Rainforest Grammomys  LC        U        
+281      279      poensis_Grammomys                                   NE        U        
+285      284      nigricauda_Thallomys      Black-tailed Tree Rat     LC        U        
+286      284      shortridgei_Thallomys     Shortridge's Rat          DD        U        
+287      283      paedulcus_Thallomys       Acacia Rat                LC        U        
+288      282      loringi_Thallomys         Loring's Rat              LC        U        
+290      289      hildegardeae_Zelotomys    Hildegarde's Broad-headed Mouse  LC        S        
+291      289      woosnami_Zelotomys        Woosnam's Broad-headed Mouse  LC        S        
+297      296      kempi_Thamnomys           Kemp's Thicket Rat        VU        U        
+298      296      major_Thamnomys                                     NE        U        
+299      295      venustus_Thamnomys        Charming Thicket Rat      VU        D        
+301      300      ornatus_Oenomys           Ghana Rufous-nosed Rat    LC        U        
+302      300      hypoxanthus_Oenomys       Rufous-nosed Rats         LC        S        
+303      293      okuensis_Lamottemys       Mount Oku Rat             EN        D        
+304      292      longicaudatus_Stochomys   Target Rat                LC        U        
+308      307      infraluteus_Sundamys      Mountain Sundamys         LC        U        
+309      307      maxi_Sundamys             Javan Sundamys            EN        D        
+310      306      muelleri_Sundamys         Muller's Sundamys         LC        D        
+311      305      canus_Lenothrix           Sundaic Lenothrix         LC        U        

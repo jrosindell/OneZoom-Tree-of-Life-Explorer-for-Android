@@ -1,0 +1,6 @@
+index    parent   name         common       hxmax      hxmin      hymax      hymin     
+0        -1                    Mammals      2.7688375  -1.5297157  0.275      -3.3774486 
+1        0        null         null         3.5169888  -0.4479823  0.9343947  -2.700683 
+2        0        MONOTREMATA_egg-laying  Monotremes   0.275      -3.0981102  1.504588   -3.1510854 
+3        2        Tachyglossidae  Echidnas     0.6648406  -2.3612094  0.32387993  -3.8027484 
+4        3        Zaglossus    null         1.9610374  -1.7788414  0.55929774  -3.6551409 

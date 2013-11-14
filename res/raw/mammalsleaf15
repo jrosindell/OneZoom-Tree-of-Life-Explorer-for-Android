@@ -1,0 +1,113 @@
+index    parent   name                      common                    redlist   popstab  
+17       16       typus_Otomys              Typical Vlei Rat          LC        D        
+18       16       orestes_Otomys                                      NE        U        
+20       19       dartmouthi_Otomys                                   NE        U        
+21       19       jacksoni_Otomys                                     NE        U        
+22       14       uzungwensis_Otomys                                  NE        U        
+23       13       sloggetti_Myotomys                                  NE        U        
+25       24       irroratus_Otomys          Southern African Vlei Rat  LC        S        
+26       24       angoniensis_Otomys        Angoni Vlei Rat           LC        S        
+27       11       laminatus_Otomys          Laminate Vlei Rat         LC        S        
+32       31       cuanzensis_Otomys         Cuanza Vlei Rat           LC        S        
+33       31       maximus_Otomys                                      NE        U        
+34       30       occidentalis_Otomys       Western Vlei Rat          VU        D        
+35       29       denti_Otomys              Dent's Vlei Rat           LC        D        
+38       37       burtoni_Otomys            Burton's Vlei Rat         EN        D        
+39       37       dollmani_Otomys                                     NE        U        
+40       36       tropicalis_Otomys         Tropical Vlei Rat         LC        S        
+45       44       barbouri_Otomys           Barbour's Vlei Rat        EN        D        
+46       44       anchietae_Otomys          Angolan Vlei Rat          LC        U        
+47       43       lacustris_Otomys          Tanzanian Vlei Rat        VU        D        
+48       42       unisulcatus_Myotomys                                NE        U        
+49       41       saundersiae_Otomys        Saunder's Vlei Rat        LC        U        
+51       50       littledalei_Parotomys     Littledale's Whistling Rat  LC        S        
+52       50       brantsii_Parotomys        Brants's Whistling Rat    LC        S        
+53       7        legata_Diplothrix         Ryukyus Islands Tree Rat  EN        D        
+60       59       celebensis_Crunomys       Sulawesi Shrew Mouse      DD        D        
+61       59       melanius_Crunomys         Mindanao Shrew Mouse      VU        D        
+62       58       fallax_Crunomys           Luzon Shrew Mouse         DD        U        
+63       57       luzonensis_Archboldomys   Isarog Shrew Mouse        VU        S        
+67       66       mindorensis_Chrotomys     Lowland Chrotomys         NT        D        
+68       66       whiteheadi_Chrotomys      Montane Chrotomys         LC        U        
+69       65       gonzalesi_Chrotomys       Isarog Chrotomys          NT        D        
+70       64       silaceus_Chrotomys        Blazed Luzon Chrotomys    LC        U        
+72       71       soricoides_Rhynchomys     Northern Luzon Rhynchomys  NT        D        
+73       71       isarogensis_Rhynchomys    Isarog Rhynchomys         VU        S        
+80       79       abrae_Apomys              Luzon Cordillera Apomys   DD        U        
+81       79       microdon_Apomys           Small Luzon Apomys        LC        U        
+82       78       insignis_Apomys           Mindanao Montane Forest Apomys  NT        D        
+83       77       sacobianus_Apomys         Long-nosed Luzon Apomys   DD        U        
+84       76       datae_Apomys              Northern Luzon Apomys     LC        U        
+86       85       hylocetes_Apomys          Mindanao Mossy Forest Apomys  LC        S        
+87       85       musculus_Apomys           Least Philippine Apomys   LC        S        
+88       74       littoralis_Apomys         Mindanao Lowland Apomys   DD        U        
+93       92       schadenbergi_Crateromys   Luzon Crateromys          EN        D        
+94       92       australis_Crateromys      Dinagat Crateromys        CR        U        
+95       91       paulus_Crateromys         Ilin Crateromys           DD        U        
+97       96       melanurus_Carpomys        Large Luzon Carpomys      DD        U        
+98       96       phaeurus_Carpomys         Small Luzon Carpomys      LC        U        
+101      100      dentatus_Batomys          Large-toothed Batomys     DD        U        
+102      100      salomonseni_Batomys       Mindanao Batomys          LC        S        
+103      99       granti_Batomys            Luzon Batomys             NT        D        
+111      110      ruppi_Stenocephalemys     Rupp's Mouse              DD        U        
+112      110      yemeni_Myomyscus          Yemeni Mouse              LC        U        
+113      109      verreauxii_Myomyscus      Verreaux's Mouse          LC        S        
+114      108      albipes_Stenocephalemys   Ethiopian White-footed Mouse  LC        S        
+117      116      brockmani_Myomyscus       Brockman's Myomyscus      LC        S        
+118      116      daltoni_Praomys           Dalton's Mouse            LC        S        
+119      115      derooi_Praomys            Deroo's Mouse             LC        S        
+121      120      griseicauda_Stenocephalemys  Gray-tailed Narrow-headed Rat  LC        D        
+122      120      albocaudata_Stenocephalemys  Ethiopian Narrow-headed Rat  LC        S        
+128      127      verschureni_Praomys       Verschuren's Swamp Rat    DD        U        
+129      127      lukolelae_Praomys         Lukolela Swamp Rat        LC        U        
+130      126      longipes_Malacomys        Big-eared Swamp Rat       LC        U        
+131      125      cansdalei_Malacomys       Cansdale's Swamp Rat      LC        U        
+132      124      edwardsi_Malacomys        Edward's Swamp Rat        LC        U        
+133      123      crumpi_Diomys             Crump's Mouse             DD        U        
+140      139      taerae_Taeromys           Northeastern Mountain Taeromys  DD        U        
+141      139      punicans_Taeromys         Reddish-furred Taeromys   DD        U        
+142      138      celebensis_Taeromys       Long-tailed Taeromys      LC        D        
+143      137      arcuatus_Taeromys         Southeastern Mountain Taeromys  DD        S        
+144      136      hamatus_Taeromys          Central Mountain Taeromys  DD        U        
+146      145      microbullatus_Taeromys    Small-eared Taeromys      DD        U        
+147      145      callitrichus_Taeromys     Greater Taeromys          DD        U        
+152      151      siporanus_Leopoldamys     Mentawai Archipelago Leopoldamys  EN        D        
+153      151      neilli_Leopoldamys        Neill's Leopoldamys       DD        U        
+154      150      sabanus_Leopoldamys       Long-tailed Giant Rat     LC        S        
+157      156      ciliatus_Leopoldamys      Sundaic Mountain Leopoldamys  LC        D        
+158      156      edwardsi_Leopoldamys      Edward's Rat              LC        U        
+159      155      milleti_Leopoldamys       Millet's Leopoldamys      LC        S        
+160      148      dominator_Paruromys       Giant Sulawesi Rat        LC        S        
+161      3        chiropus_Chiromyscus      Indochinese Chiromyscus   LC        S        
+168      167      emini_Cricetomys          Forest Giant Pouched Rat  LC        S        
+169      167      kivuensis_Cricetomys                                NE        U        
+171      170      gambianus_Cricetomys      Gambian Rat               LC        S        
+172      170      ansorgei_Cricetomys                                 NE        U        
+174      173      hindei_Beamys             Long-tailed Pouched Rat   LC        D        
+175      173      major_Beamys                                        NE        U        
+177      176      mearnsi_Saccostomus       East African Pouched Mouse  LC        S        
+178      176      campestris_Saccostomus    Pouched Mouse             LC        S        
+182      181      shortridgei_Petromyscus   Shortridge's Rock Mouse   LC        S        
+183      181      barbouri_Petromyscus      Barbour's Rock Mouse      LC        S        
+185      184      monticularis_Petromyscus  Brukkaros Pygmy Rock Mouse  LC        S        
+186      184      collinus_Petromyscus      Pygmy Rock Mouse          LC        S        
+187      179      brooksi_Delanymys         Delany's Mouse            VU        D        
+197      196      uralensis_Spalax          Kazakhstan Blind Mole Rat  NT        U        
+198      196      giganteus_Spalax          Giant Blind Mole Rat      VU        D        
+199      195      zemni_Spalax              Podolian Mole Rat         VU        D        
+200      194      arenarius_Spalax          Sandy Mole Rat            EN        D        
+201      193      graecus_Spalax            Balkan Blind Mole Rat     NT        U        
+202      192      microphthalmus_Spalax     Greater Blind Mole Rat    LC        S        
+205      204      ehrenbergi_Spalax         Middle East Blind Mole Rat  DD        D        
+206      204      nehringi_Spalax           Nehring's Bilind Mole Rat  DD        U        
+207      203      leucodon_Spalax           Lesser Blind Mole Rat     DD        D        
+208      190      albicaudatus_Mystromys    White-tailed Mouse        EN        D        
+213      212      elburzensis_Calomyscus    Goodwin's Brush-tailed Mouse  LC        U        
+214      212      mystax_Calomyscus         Afghan Mouse-like Hamster  LC        S        
+215      211      baluchi_Calomyscus        Baluchi Brush-tailed Mouse  LC        U        
+218      217      bailwardi_Calomyscus      Mouse-like Hamster        LC        U        
+219      217      grandis_Calomyscus        Noble Calomyscus          DD        U        
+220      216      tsolovi_Calomyscus        Syrian Calomyscus         DD        U        
+222      221      hotsoni_Calomyscus        Hotson's Brush-tailed Mouse  LC        U        
+223      221      urartensis_Calomyscus     Urar Calomyscus           LC        U        
+224      188      ferrugineus_Deomys        Congo Forest Mouse        LC        S        

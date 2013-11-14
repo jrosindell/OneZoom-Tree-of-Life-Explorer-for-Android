@@ -1,0 +1,137 @@
+index    parent   name                      common                    redlist   popstab  
+18       17       littoralis_Crocidura      Butiaba Naked-tailed Shrew  LC        U        
+19       17       armenica_Crocidura        Armenian Shrew            DD        U        
+21       20       negligens_Crocidura       Peninsular Shrew          LC        U        
+22       20       malayana_Crocidura        Malayan Shrew             LC        U        
+23       15       hirta_Crocidura           Lesser Red Musk Shrew     LC        U        
+26       25       fumosa_Crocidura          Smoky White-toothed Shrew  VU        D        
+27       25       somalica_Crocidura        Somali Shrew              LC        U        
+28       24       longipes_Crocidura        Savanna Swamp Shrew       DD        U        
+29       13       religiosa_Crocidura       Egyptian Pygmy Shrew      DD        U        
+32       31       shantungensis_Crocidura   Asian Lesser White-toothed Shrew  LC        S        
+33       31       suaveolens_Crocidura      Lesser Shrew              LC        S        
+34       30       grandis_Crocidura         Greater Mindanao Shrew    DD        U        
+35       11       phaeura_Crocidura         Guramba Shrew             EN        U        
+36       10       macmillani_Crocidura      Macmillan's Shrew         VU        U        
+41       40       nicobarica_Crocidura      Nicobar Shrew             CR        D        
+42       40       sicula_Crocidura          Sicilian Shrew            LC        U        
+43       39       yankariensis_Crocidura    Yankari Shrew             LC        S        
+44       38       zimmermanni_Crocidura     Cretan Shrew              VU        D        
+45       37       batesi_Crocidura          Bate's Shrew              LC        S        
+49       48       polia_Crocidura           Fuscous Shrew             DD        U        
+50       48       foxi_Crocidura            Fox's Shrew               LC        U        
+51       47       elgonius_Crocidura        Elgon Shrew               LC        D        
+52       46       jenkinsi_Crocidura        Jenkin's Shrew            CR        D        
+53       6        goliath_Crocidura         Goliath Shrew             LC        U        
+56       55       schoutedeni_Paracrocidura  Lesser Large-headed Shrew  LC        U        
+57       55       maxima_Paracrocidura      Greater Large-headed Shrew  NT        D        
+58       54       graueri_Paracrocidura     Grauer's Large-headed Shrew  DD        U        
+59       4        pearsoni_Solisorex        Pearson's Long-clawed Shrew  EN        D        
+72       71       lixus_Suncus              Greater Dwarf Shrew       LC        U        
+73       71       aequatorius_Suncus                                  CR        D        
+74       70       malayanus_Suncus          Malayan Pgymy Shrew       DD        U        
+75       69       dayi_Suncus               Day's Shrew               EN        D        
+76       68       mertensi_Suncus           Flores Shrew              EN        D        
+78       77       infinitesimus_Suncus      Least Dwarf Shrew         LC        U        
+79       77       etruscus_Suncus           Etruscan Shrew            LC        U        
+82       81       hosei_Suncus              Bornean Pgymy Shrew       DD        U        
+83       81       ater_Suncus               Black Shrew               DD        U        
+84       80       fellowesgordoni_Suncus    Ceylon Pygmy Shrew        EN        D        
+90       89       varilla_Suncus            Lesser Dwarf Shrew        LC        U        
+91       89       montanus_Suncus           Hill Shrew                VU        D        
+92       88       remyi_Suncus              Gabon Dwarf Shrew         LC        U        
+93       87       stoliczkanus_Suncus       Anderson's Shrew          LC        U        
+95       94       madagascariensis_Suncus   Madagascan Shrew          LC        U        
+96       94       murinus_Suncus            House Shrew               LC        S        
+97       85       zeylanicus_Suncus         Ceylon Jungle Shrew       EN        D        
+98       64       polli_Congosorex          Greater Congo Shrew       DD        U        
+99       63       somereni_Scutisorex       Armored Shrew             LC        U        
+105      104      johnstoni_Sylvisorex      Johnston's Forest Shrew   LC        U        
+106      104      morio_Sylvisorex          Arrogant Shrew            EN        D        
+108      107      vulcanorum_Sylvisorex     Volcano Shrew             NT        D        
+109      107      ollula_Sylvisorex         Forest Musk Shrew         LC        U        
+112      111      howelli_Sylvisorex        Howell's Forest Shrew     EN        D        
+113      111      isabellae_Sylvisorex      Bioko Forest Shrew        EN        D        
+114      110      lunaris_Sylvisorex        Moon Forest Shrew         VU        D        
+117      116      oriundus_Sylvisorex       Lesser Forest Shrew       DD        U        
+118      116      megalura_Suncus           Climbing Shrew            LC        U        
+120      119      granti_Sylvisorex         Grant's Forest Shrew      LC        U        
+121      119      camerunensis_Sylvisorex                             VU        D        
+122      100      pulchellum_Diplomesodon   Piebald Shrew             LC        S        
+123      61       feroculus_Feroculus       Kelaart's Long-clawed Shrew  EN        D        
+130      129      longicaudatus_Myosorex    Long-tailed Forest Shrew  VU        D        
+131      129      blarina_Myosorex          Montane Mouse Shrew       EN        D        
+132      128      eisentrauti_Myosorex      Eisentraut's Mouse Shrew  CR        D        
+135      134      schalleri_Myosorex        Schaller's Mouse Shrew    DD        U        
+136      134      rumpii_Myosorex           Rumpi Mouse Shrew         EN        D        
+137      133      tenuis_Myosorex           Thin Mouse Shrew          DD        U        
+141      140      cafer_Myosorex            Dark-footed Forest Shrew  LC        U        
+142      140      babaulti_Myosorex         Babault's Mouse Shrew     NT        D        
+143      139      varius_Myosorex           Forest Shrew              LC        S        
+145      144      okuensis_Myosorex         Oku Mouse Shrew           EN        D        
+146      144      geata_Myosorex            Geata Mouse Shrew         EN        D        
+147      125      sclateri_Myosorex         Sclater's Mouse Shrew     NT        D        
+150      149      polulus_Surdisorex        Mt. Kenya Mole Shrew      VU        S        
+151      149      norae_Surdisorex          Aberdare Mole Shrew       VU        S        
+152      148      suncoides_Ruwenzorisorex  Ruwenzori Shrew           VU        U        
+158      157      roumanicus_Erinaceus      Northern White-breasted Hedgehog  LC        S        
+159      157      concolor_Erinaceus        Southern White-breasted Hedgehog  LC        U        
+161      160      europaeus_Erinaceus       Northern Hedgehog         LC        S        
+162      160      amurensis_Erinaceus       Amur Hedgehog             LC        S        
+166      165      albiventris_Atelerix      Four-toed Hedgehog        LC        S        
+167      165      sclateri_Atelerix         Somali Hedgehog           LC        U        
+168      164      algirus_Atelerix          Algerian Hedgehog         LC        U        
+169      163      frontalis_Atelerix        Southern African Hedgehog  LC        S        
+174      173      aethiopicus_Paraechinus   Desert Hedgehog           LC        S        
+175      173      micropus_Paraechinus      Indian Hedgehog           LC        D        
+176      172      hypomelas_Paraechinus     Brandt's Hedgehog         LC        U        
+178      177      auritus_Hemiechinus       Long-eared Hedgehog       LC        U        
+179      177      collaris_Hemiechinus      Collared Hedgehog         LC        U        
+181      180      dauuricus_Mesechinus      Daurian Hedgehog          LC        S        
+182      180      hughi_Mesechinus          Hugh's Hedgehog           LC        D        
+186      185      hainanensis_Neohylomys    Hainan Gymnure            EN        D        
+187      185      sinensis_Neotetracus      Shrew Gymnure             LC        U        
+189      188      suillus_Hylomys           Short-tailed Gymnure      LC        S        
+190      188      parvus_Hylomys            Dwarf Gymnure             VU        D        
+193      192      aureospinula_Podogymnura  Dinagat Gymnure           EN        D        
+194      192      truei_Podogymnura         Mindanao Gymnure          LC        S        
+195      191      gymnura_Echinosorex       Moonrat                   LC        U        
+211      210      micrura_Euroscaptor       Himalayan Mole            LC        U        
+212      210      klossi_Euroscaptor        Kloss's Mole              LC        U        
+213      209      parvidens_Euroscaptor     Small-toothed Mole        DD        U        
+215      214      grandis_Euroscaptor       Greater Chinese Mole      LC        U        
+216      214      longirostris_Euroscaptor  Long-nosed Mole           LC        U        
+217      207      mizura_Euroscaptor        Japanese Mountain Mole    LC        D        
+221      220      wogura_Mogera             Japanese Mole             LC        S        
+222      220      tokudae_Mogera            Sado Mole                 NT        D        
+223      219      imaizumii_Mogera          Small Japanese Mole       LC        S        
+224      218      insularis_Mogera          Insular Mole              LC        U        
+226      225      occidentalis_Talpa        Iberian Mole              LC        S        
+227      225      altaica_Talpa             Siberian Mole             LC        U        
+228      204      levantis_Talpa            Levant Mole               LC        S        
+232      231      europaea_Talpa            Common Mole               LC        S        
+233      231      romana_Talpa              Roman Mole                LC        S        
+234      230      caeca_Talpa               Blind Mole                LC        U        
+235      229      davidiana_Talpa           Pere David's Mole         DD        U        
+237      236      caucasica_Talpa           Caucasian Mole            LC        U        
+238      236      stankovici_Talpa          Balkan Mole               LC        U        
+239      201      leucura_Parascaptor       White-tailed Mole         LC        U        
+241      240      moschatus_Scaptochirus    Short-faced Mole          LC        U        
+242      240      uchidai_Mogera            Senkaku Mole              DD        U        
+243      199      fusicaudus_Scaptonyx      Long-tailed Mole          LC        U        
+251      250      townsendii_Scapanus       Townsend's Mole           LC        S        
+252      250      orarius_Scapanus          Coast Mole                LC        S        
+253      249      latimanus_Scapanus        Broad-footed Mole         LC        S        
+254      248      aquaticus_Scalopus        Eastern Mole              LC        S        
+255      247      breweri_Parascalops       Hairy-tailed Mole         LC        S        
+256      246      oweni_Scapanulus          Gansu Mole                LC        U        
+259      258      talpoides_Urotrichus      Japanese Shrew Mole       LC        S        
+260      258      pilirostris_Dymecodon     True's Shrew Mole         LC        S        
+261      257      gibbsii_Neurotrichus      Shrew-mole                LC        S        
+262      244      cristata_Condylura        Star-nosed Mole           LC        S        
+264      263      pyrenaicus_Galemys        Pyrenean Desman           VU        D        
+265      263      moschata_Desmana          Russian Desman            VU        D        
+268      267      investigator_Uropsilus    Inquisitive Shrew Mole    DD        U        
+269      267      soricipes_Uropsilus       Chinese Shrew Mole        LC        U        
+271      270      andersoni_Uropsilus       Anderson's Shrew Mole     DD        U        
+272      270      gracilis_Uropsilus        Gracile Shrew Mole        LC        U        

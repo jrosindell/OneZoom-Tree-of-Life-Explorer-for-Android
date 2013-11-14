@@ -1,0 +1,113 @@
+index    parent   name                      common                    redlist   popstab  
+17       16       antinorii_Sorex           Valais Shrew              DD        U        
+18       16       araneus_Sorex             Common Shrew              LC        S        
+19       15       granarius_Sorex           Iberian Shrew             LC        U        
+20       14       coronatus_Sorex           Crowned Shrew             LC        S        
+22       21       daphaenodon_Sorex         Large-toothed Siberian Shrew  LC        S        
+23       21       satunini_Sorex            Caucasian Shrew           LC        U        
+25       24       tundrensis_Sorex          Tundra Shrew              LC        S        
+26       24       asper_Sorex               Tien Shan Shrew           LC        U        
+28       27       maritimensis_Sorex        Maritime Shrew            LC        D        
+29       27       arcticus_Sorex            Arctic Shrew              LC        S        
+30       10       samniticus_Sorex          Appenine Shrew            LC        U        
+31       9        excelsus_Sorex            Highland Shrew            LC        U        
+36       35       caecutiens_Sorex          Laxmann's Shrew           LC        S        
+37       35       shinto_Sorex              Shinto Shrew              LC        S        
+38       34       roboratus_Sorex           Flat-skulled Shrew        LC        U        
+40       39       unguiculatus_Sorex        Long-clawed Shrew         LC        S        
+41       39       isodon_Sorex              Even-toothed Shrew        LC        U        
+42       32       raddei_Sorex              Radde's Shrew             LC        U        
+43       7        mirabilis_Sorex           Ussuri Shrew              DD        U        
+49       48       volnuchini_Sorex          Caucasian Pygmy Shrew     LC        U        
+50       48       buchariensis_Sorex        Pamir Shrew               LC        U        
+51       47       minutus_Sorex             Eurasian Pygmy Shrew      LC        S        
+52       46       gracillimus_Sorex         Slender Shrew             LC        S        
+53       45       hosonoi_Sorex             Azumi Shrew               LC        U        
+54       44       minutissimus_Sorex        Eurasian Least Shrew      LC        U        
+55       5        alpinus_Sorex             Alpine Shrew              NT        D        
+65       64       neomexicanus_Sorex        New Mexico Shrew          DD        U        
+66       64       monticolus_Sorex          Dusky Shrew               LC        S        
+68       67       pacificus_Sorex           Pacific Shrew             LC        S        
+69       67       vagrans_Sorex             Vagrant Shrew             LC        S        
+72       71       palustris_Sorex           American Water Shrew      LC        S        
+73       71       bendirii_Sorex            Marsh Shrew               LC        U        
+74       70       leucogaster_Sorex         Paramushir Shrew          DD        U        
+75       61       haydeni_Sorex             Prairie Shrew             LC        S        
+77       76       hoyi_Sorex                American Pygmy Shrew      LC        S        
+78       76       nanus_Sorex               Dwarf Shrew               LC        U        
+81       80       jacksoni_Sorex            Saint Lawrence Island Shrew  LC        U        
+82       80       dispar_Sorex              Long-tailed Shrew         LC        U        
+84       83       bairdi_Sorex              Baird's Shrew             LC        U        
+85       83       tenellus_Sorex            Inyo Shrew                LC        S        
+87       86       ugyunak_Sorex             Barren Ground Shrew       LC        S        
+88       86       preblei_Sorex             Preble's Shrew            LC        U        
+92       91       longirostris_Sorex        Southeastern Shrew        LC        S        
+93       91       cinereus_Sorex            Cinereus Shrew            LC        S        
+94       90       portenkoi_Sorex           Portenko's Shrew          DD        U        
+95       89       ornatus_Sorex             Ornate Shrew              LC        S        
+96       56       fumeus_Sorex              Smoky Shrew               LC        S        
+99       98       trowbridgii_Sorex         Trowbridge's Shrew        LC        S        
+100      98       merriami_Sorex            Merriam's Shrew           LC        U        
+101      97       arizonae_Sorex            Arizona Shrew             LC        U        
+104      103      quadraticauda_Blarinella  Asiatic Short-tailed Shrew  NT        D        
+105      103      griselda_Blarinella       Indochinese Short-tailed Shrew  LC        U        
+106      102      wardi_Blarinella          Burmese Short-tailed Shrew  LC        U        
+116      115      merriami_Cryptotis        Merriam's Small-eared Shrew  LC        S        
+117      115      mayensis_Cryptotis        Yucatan Small-eared Shrew  LC        D        
+119      118      nigrescens_Cryptotis      Blackish Small-eared Shrew  LC        S        
+120      118      mera_Cryptotis            Darien Small Eared Shrew  EN        D        
+121      113      magna_Cryptotis           Big Mexican Small-eared Shrew  VU        D        
+124      123      orophila_Cryptotis        Central American Least Shrew  DD        U        
+125      123      tropicalis_Cryptotis      Tropical Small-eared Shrew  DD        U        
+126      122      parva_Cryptotis           Least Shrew               LC        S        
+129      128      hondurensis_Cryptotis     Honduran Small-eared Shrew  DD        U        
+130      128      goodwini_Cryptotis        Goodwin's Broad-clawed Shrew  LC        S        
+131      127      meridensis_Cryptotis      Merida Small-eared Shrew  LC        S        
+134      133      medellinia_Cryptotis      Medellin Small-eared Shrew  LC        S        
+135      133      thomasi_Cryptotis         Thomas' Small-eared Shrew  LC        S        
+136      132      equatoris_Cryptotis       Ecuadorean Small-eared Shrew  LC        S        
+138      137      squamipes_Cryptotis       Scaly-footed Small-eared Shrew  LC        U        
+139      137      montivaga_Cryptotis       Ecuadorean Small-eared Shrew  LC        S        
+145      144      obscura_Cryptotis         Grizzled Mexican Small-eared Shrew  VU        D        
+146      144      peregrina_Cryptotis       Oaxacan Broad-clawed Shrew  DD        U        
+148      147      phillipsii_Cryptotis      Phillip's Small-eared Shrew  VU        D        
+149      147      nelsoni_Cryptotis         Nelson's Small Eared Shrew  CR        U        
+150      142      mexicana_Cryptotis        Mexican Small-eared Shrew  LC        D        
+153      152      griseoventris_Cryptotis   Guatamalan Small Eared Shrew  VU        D        
+154      152      goldmani_Cryptotis        Goldman's Broad-clawed Shrew  LC        S        
+155      151      alticola_Cryptotis        Central Mexican Broad-clawed Shrew  DD        U        
+157      156      gracilis_Cryptotis        Talamancan Small-eared Shrew  VU        D        
+158      156      endersi_Cryptotis         Ender's Small-eared Shrew  EN        U        
+162      161      carolinensis_Blarina      Southern Short-tailed Shrew  LC        S        
+163      161      peninsulae_Blarina                                  NE        U        
+164      160      brevicauda_Blarina        Northern Short-tailed Shrew  LC        S        
+165      159      hylophaga_Blarina         Elliot's Short-tailed Shrew  LC        S        
+175      174      fumidus_Episoriculus      Taiwan Brown-toothed Shrew  LC        U        
+176      174      sodalis_Chodsigoa         Lesser Taiwanese Shrew    DD        U        
+177      173      leucops_Episoriculus      Long-tailed Brown-toothed Shrew  LC        U        
+179      178      caudatus_Episoriculus     Hodgson's Brown-toothed Shrew  LC        U        
+180      178      macrurus_Episoriculus     Arboreal Brown-toothed Shrew  LC        U        
+182      181      nigrescens_Soriculus      Himalayan Shrew           LC        U        
+183      181      parca_Chodsigoa           Lowe's Shrew              LC        U        
+187      186      parva_Chodsigoa           Pygmy Brown-toothed Shrew  DD        U        
+188      186      lamula_Chodsigoa          Lamulate Shrew            LC        U        
+189      185      smithii_Chodsigoa         Smith's Shrew             NT        D        
+191      190      hypsibia_Chodsigoa        De Winton's Shrew         LC        U        
+192      190      salenskii_Chodsigoa       Salenski's Shrew          DD        U        
+198      197      platycephalus_Chimarrogale  Japanese Water Shrew      LC        D        
+199      197      sumatrana_Chimarrogale    Sumatran Water Shrew      DD        U        
+200      196      hantu_Chimarrogale        Malayan Water Shrew       NT        D        
+201      195      himalayica_Chimarrogale   Himalayan Water Shrew     LC        U        
+202      194      styani_Chimarrogale       Chinese Water Shrew       LC        U        
+203      193      phaeura_Chimarrogale      Bornean Water Shrew       EN        D        
+207      206      anomalus_Neomys           Mediterranean Water Shrew  LC        D        
+208      206      teres_Neomys              Transcaucasian Water Shrew  LC        U        
+209      205      fodiens_Neomys            Eurasian Water Shrew      LC        S        
+210      204      elegans_Nectogale         Elegant Water Shrew       LC        U        
+214      213      yamashinai_Anourosorex    Taiwanese Mole Shrew      LC        U        
+215      213      squamipes_Anourosorex     Mole-shrew                LC        U        
+216      212      assamensis_Anourosorex    Assam Mole Shrew          LC        U        
+217      211      schmidi_Anourosorex       Giant Mole Shrew          DD        U        
+220      219      evotis_Notiosorex         Large-eared Grey Shrew    LC        U        
+221      219      crawfordi_Notiosorex      Desert Shrew              LC        S        
+222      218      gigas_Megasorex           Mexican Shrew             LC        U        

@@ -1,0 +1,102 @@
+index    parent   name                      common                    redlist   popstab  
+6        5        nikolausi_Megadendromus   Nikolaus's Mouse          DD        U        
+7        5        batesi_Prionomys          Dollman's Tree Mouse      DD        U        
+17       16       peruviensis_Neusticomys   Peruvian Fish-eating Rat  LC        S        
+18       16       oyapocki_Neusticomys      Oyapock's Fish-eating Rat  DD        D        
+19       15       mussoi_Neusticomys        Musso's Fish-eating Rat   EN        D        
+21       20       venezuelae_Neusticomys    Venezuelan Fish-eating Rat  VU        D        
+22       20       monticolus_Neusticomys    Montane Fish-eating Rat   LC        D        
+26       25       underwoodi_Rheomys        Underwood's Water Mouse   LC        S        
+27       25       thomasi_Rheomys           Thomas's Water Mouse      NT        U        
+28       24       mexicanus_Rheomys         Mexican Water Mouse       EN        U        
+29       23       raptor_Rheomys            Goldman's Water Mouse     LC        S        
+35       34       pittieri_Ichthyomys       Pittier's Crab-eating Rat  VU        D        
+36       34       hydrobates_Ichthyomys     Crab-eating Rat           NT        D        
+37       33       tweedii_Ichthyomys        Tweedy's Crab-eating Rat  DD        U        
+38       32       stolzmanni_Ichthyomys     Stolzmann's Crab-eating Rat  DD        U        
+39       31       leander_Anotomys          Aquatic Rat               VU        D        
+40       30       trichotis_Chibchanomys    Chibchan Water Mouse      DD        U        
+48       47       hirsutus_Sigmodon         Southern Cotton Rat       LC        I        
+49       47       hispidus_Sigmodon         Hispid Cotton Rat         LC        I        
+51       50       toltecus_Sigmodon         Toltec Cotton Rat         LC        U        
+52       50       zanjonensis_Sigmodon                                NE        U        
+53       45       fulviventer_Sigmodon      Tawny-bellied Cotton Rat  LC        S        
+54       44       arizonae_Sigmodon         Arizona Cotton Rat        LC        U        
+57       56       ochrognathus_Sigmodon     Yellow-nosed Cotton Rat   LC        U        
+58       56       alstoni_Sigmodon          Alston's Cotton Rat       LC        U        
+59       55       inopinatus_Sigmodon       Unexpected Cotton Rat     VU        D        
+62       61       mascotensis_Sigmodon      Jaliscan Cotton Rat       LC        S        
+63       61       peruanus_Sigmodon         Peruvian Cotton Rat       LC        S        
+65       64       planifrons_Sigmodon       Miahuatlan Cotton Rat     EN        D        
+66       64       alleni_Sigmodon           Allen's Cotton Rat        VU        D        
+67       41       leucotis_Sigmodon         White-eared Cotton Rat    LC        U        
+74       73       fulviventer_Tylomys       Fulvous-bellied Climbing Rat  DD        U        
+75       73       tumbalensis_Tylomys       Tumbala Climbing Rat      CR        D        
+76       72       watsoni_Tylomys           Watson's Climbing Rat     LC        S        
+78       77       bullaris_Tylomys          Chiapan Climbing Rat      CR        D        
+79       77       mirae_Tylomys             Mira Climbing Rat         LC        U        
+81       80       nudicaudus_Tylomys        Peter's Climbing Rat      LC        S        
+82       80       panamensis_Tylomys        Panama Climbing Rat       DD        U        
+83       69       phyllotis_Ototylomys      Big-eared Climbing Rat    LC        S        
+85       84       hatti_Otonyctomys         Hatt's Vesper Mouse       LC        U        
+86       84       sumichrasti_Nyctomys      Vesper Rat                LC        S        
+99       98       betulina_Sicista          Northern Birch Mouse      LC        U        
+100      98       armenica_Sicista          Armenian Birch Mouse      EN        D        
+101      97       tianshanica_Sicista       Tien Shan Birch Mouse     LC        U        
+103      102      kluchorica_Sicista        Kluchor Birch Mouse       NT        U        
+104      102      napaea_Sicista            Altai Birch Mouse         LC        U        
+106      105      pseudonapaea_Sicista      Gray Birch Mouse          DD        U        
+107      105      concolor_Sicista          Chinese Birch Mouse       LC        U        
+111      110      severtzovi_Sicista        Severtzov's Birch Mouse   LC        S        
+112      110      subtilis_Sicista          Southern Birch Mouse      LC        D        
+113      109      caudata_Sicista           Long-tailed Birch Mouse   DD        U        
+116      115      strandi_Sicista           Strand's Birch Mouse      LC        S        
+117      115      kazbegica_Sicista         Kazbeg Birch Mouse        EN        U        
+118      114      caucasica_Sicista         Caucasian Birch Mouse     VU        U        
+122      121      trinotatus_Zapus          Pacific Jumping Mouse     LC        U        
+123      121      hudsonius_Zapus           Meadow Jumping Mouse      LC        S        
+124      120      princeps_Zapus            Pacific Jumping Mouse     LC        S        
+126      125      insignis_Napaeozapus      Woodland Jumping Mouse    LC        S        
+127      125      setchuanus_Eozapus        Chinese Jumping Mouse     LC        U        
+134      133      crassicauda_Salpingotus   Thick-tailed Pygmy Jerboa  DD        U        
+135      133      pallidus_Salpingotus      Pale Pygmy Jerboa         DD        U        
+136      132      heptneri_Salpingotus      Heptner's Pygmy Jerboa    DD        U        
+137      131      thomasi_Salpingotus                                 NE        U        
+139      138      michaelis_Salpingotulus   Baluchistan Pygmy Jerboa  DD        U        
+140      138      kozlovi_Salpingotus       Kozlov's Pygmy Jerboa     LC        U        
+141      129      paradoxus_Cardiocranius   Five-toed Pygmy Jerboa    DD        U        
+142      128      ctenodactylus_Paradipus   Comb-toed Jerboa          LC        U        
+143      91       naso_Euchoreutes          Long-eared Jerboa         LC        U        
+148      147      sungorus_Stylodipus       Mongolian Three-toed Jerboa  LC        D        
+149      147      telum_Stylodipus          Thick-tailed Three-toed Jerboa  LC        D        
+150      146      andrewsi_Stylodipus       Andrews's Three-toed Jerboa  LC        U        
+151      145      sagitta_Dipus             Hairy-footed Jerboa       LC        S        
+155      154      orientalis_Jaculus        Greater Egyptian Jerboa   LC        S        
+156      154      blanfordi_Jaculus         Blanford's Jerboa         LC        D        
+157      153      jaculus_Jaculus           Lesser Egyptian Jerboa    LC        U        
+158      152      lichtensteini_Eremodipus  Lichtenstein's Jerboa     LC        U        
+161      160      platyurus_Pygeretmus      Lesser Fat-tailed Jerboa  LC        U        
+162      160      shitkovi_Pygeretmus                                 NE        U        
+163      159      pumilio_Pygeretmus        Dwarf Fat-tailed Jerboa   LC        U        
+164      88       bobrinskii_Allactodipus   Bobrinski's Jerboa        LC        U        
+171      170      hotsoni_Allactaga         Hotson's Five-toed Jerboa  LC        U        
+172      170      balikunica_Allactaga      Balikun Jerboa            LC        U        
+173      169      elater_Allactaga          Small Five-toed Jerboa    LC        D        
+174      168      vinogradovi_Allactaga     Vinogradov's Jerboa       NT        D        
+177      176      severtzovi_Allactaga      Svertzov's Jerboa         LC        U        
+178      176      firouzi_Allactaga         Iranian Jerboa            DD        U        
+179      175      bullata_Allactaga         Gobi Jerboa               LC        U        
+182      181      euphratica_Allactaga      Euphrates Jerboa          NT        D        
+183      181      williamsi_Allactaga                                 LC        D        
+184      180      sibirica_Allactaga        Siberian Jerboa           LC        U        
+186      185      tetradactyla_Allactaga    Four-toed Jerboa          VU        U        
+187      185      major_Allactaga           Great Jerboa              LC        D        
+192      191      pusillus_Anomalurus       Dwarf Scaly-tailed Squirrel  LC        U        
+193      191      derbianus_Anomalurus      Derby's Flying Squirrel   LC        U        
+195      194      beecrofti_Anomalurus      Beecroft's Flying Squirrel  LC        U        
+196      194      pelii_Anomalurus          Pel's Flying Squirrel     DD        U        
+199      198      zenkeri_Idiurus           Pygmy Scaly-tailed Flying Squirrel  LC        U        
+200      198      macrotis_Idiurus          Long-eared Flying Squirrel  LC        U        
+201      197      insignis_Zenkerella       Cameroon Scaly-tail       LC        U        
+203      202      surdaster_Pedetes         East African Spring-hare  LC        U        
+204      202      capensis_Pedetes          Springhaas                LC        U        

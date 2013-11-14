@@ -1,0 +1,128 @@
+index    parent   name                      common                    redlist   popstab  
+13       12       papillosa_Kerivoula       Papillose Woolly Bat      LC        U        
+14       12       lenis_Kerivoula           Lenis Woolly Bat          LC        U        
+15       11       pellucida_Kerivoula       Clear-winged Woolly Bat   NT        D        
+16       10       lanosa_Kerivoula          Lesser Woolly Bat         LC        U        
+18       17       myrella_Kerivoula         Manaus Island Woolly Bat  DD        U        
+19       17       muscina_Kerivoula         Fly River Woolly Bat      LC        U        
+23       22       intermedia_Kerivoula      Small Woolly Bat          NT        D        
+24       22       minuta_Kerivoula          Least Woolly Bat          NT        D        
+26       25       smithii_Kerivoula         Smith's Woolly Bat        LC        U        
+27       25       picta_Kerivoula           Painted Bat               LC        U        
+28       20       whiteheadi_Kerivoula      Whitehead's Woolly Bat    LC        U        
+29       7        flora_Kerivoula           Flores Woolly Bat         VU        D        
+35       34       hardwickii_Kerivoula      Common Woolly Bat         LC        S        
+36       34       cuprosa_Kerivoula         Copper Woolly Bat         DD        U        
+37       33       phalaena_Kerivoula        Spurrell's Woolly Bat     LC        U        
+38       32       eriophora_Kerivoula       Ethiopian Woolly Bat      DD        U        
+39       31       argentata_Kerivoula       Damara Woolly Bat         LC        U        
+40       30       agnella_Kerivoula         Louisiade Woolly Bat      DD        U        
+43       42       atrox_Phoniscus           Groove-toothed Trumpet-eared Bat  NT        D        
+44       42       aerosa_Phoniscus          Dubious Trumpet-eared Bat  DD        U        
+46       45       jagorii_Phoniscus         Peters's Trumpet-eared Bat  LC        U        
+47       45       papuensis_Phoniscus       Golden-tipped Bat         LC        U        
+58       57       hilgendorfi_Murina        Greater Tube-nosed Bat    LC        U        
+59       57       leucogaster_Murina        Rufous Tube-nosed Bat     DD        U        
+60       56       fusca_Murina              Dusky Tube-nosed Bat      DD        U        
+61       55       tenebrosa_Murina          Gloomy Tube-nosed Bat     CR        U        
+62       54       suilla_Murina             Brown Tube-nosed Bat      LC        U        
+63       53       aurata_Murina             Little Tube-nosed Bat     LC        U        
+64       52       ussuriensis_Murina        Ussuri Tube-nosed Bat     LC        U        
+67       66       florium_Murina            Flute-nosed Bat           LC        U        
+68       66       silvatica_Murina                                    NE        U        
+69       65       tubinaris_Murina          Scully's Tube-nosed Bat   LC        U        
+73       72       huttoni_Murina            Hutton's Tube-nosed Bat   LC        U        
+74       72       aenea_Murina              Bronze Tube-nosed Bat     VU        D        
+75       71       cyclotis_Murina           Round-eared Tube-nosed Bat  LC        U        
+77       76       rozendaali_Murina         Gilded Tube-nosed Bat     VU        D        
+78       76       puta_Murina               Taiwanese Tube-nosed Bat  NT        U        
+79       49       grisea_Murina                                       NE        U        
+81       80       mordax_Harpiocephalus     Greater Hairy-winged Bat  DD        U        
+82       80       harpia_Harpiocephalus     Lesser Hairy-winged Bat   LC        D        
+83       3        rueppellii_Scoteanax      Greater Broad-nosed Bat   LC        D        
+93       92       machadoi_Glauconycteris   Machado's Butterfly Bat   DD        U        
+94       92       variegata_Glauconycteris  Butterfly Bat             LC        U        
+96       95       kenyacola_Glauconycteris  Kenyan Wattled Bat        DD        U        
+97       95       egeria_Glauconycteris     Bibundi Bat               DD        U        
+99       98       humeralis_Glauconycteris  Allen's Spotted Bat       DD        U        
+100      98       beatrix_Glauconycteris    Beatrix's Bat             LC        U        
+102      101      alboguttata_Glauconycteris  Allen's Striped Bat       LC        U        
+103      101      argentata_Glauconycteris  Silvered Bat              LC        U        
+105      104      gleni_Glauconycteris      Glen's Wattled Bat        DD        U        
+106      104      poensis_Glauconycteris    Abo Bat                   LC        U        
+107      87       superba_Glauconycteris    Pied Bat                  LC        U        
+110      109      wintoni_Laephotis         De Winton's Long-eared Bat  LC        U        
+111      109      botswanae_Laephotis       Botswanan Long-eared Bat  LC        U        
+113      112      angolensis_Laephotis      Angolan Long-eared Bats   DD        U        
+114      112      namibensis_Laephotis      Namib Long-eared Bat      LC        S        
+115      85       hemprichii_Otonycteris    Desert Long-eared Bat     LC        U        
+122      121      finlaysoni_Vespadelus     Finlayson's Cave Bat      LC        S        
+123      121      troughtoni_Vespadelus     Eastern Cave Bat          LC        S        
+125      124      pumilus_Vespadelus        Eastern Forest Bat        LC        D        
+126      124      caurinus_Vespadelus       Northern Cave Bat         LC        S        
+127      119      darlingtoni_Vespadelus    Large Forest Bat          LC        S        
+128      118      douglasorum_Vespadelus    Yellow-lipped Cave Bat    LC        U        
+131      130      regulus_Vespadelus        Southern Forest Bat       LC        S        
+132      130      vulturnus_Vespadelus      Little Forest Bat         LC        D        
+133      129      baverstocki_Vespadelus    Inland Forest Bat         LC        S        
+135      134      robustula_Tylonycteris    Greater Bamboo Bat        LC        U        
+136      134      pachypus_Tylonycteris     Lesser Bamboo Bat         LC        U        
+144      143      neocaledonicus_Chalinolobus  New Caledonia Wattled Bat  EN        D        
+145      143      gouldii_Chalinolobus      Gould's Wattled Bat       LC        S        
+146      142      nigrogriseus_Chalinolobus  Hoary Wattled Bat         LC        S        
+149      148      morio_Chalinolobus        Chocolate Wattled Bat     LC        S        
+150      148      picatus_Chalinolobus      Little Pied Bat           NT        D        
+151      147      dwyeri_Chalinolobus       Large-eared Pied Bat      NT        D        
+152      140      tuberculatus_Chalinolobus  New Zealand Long-tailed Bat  VU        D        
+156      155      affinis_Falsistrellus     Chocolate Pipistrelle     LC        U        
+157      155      petersi_Falsistrellus     Peters's Pipistrelle      DD        U        
+158      154      mordax_Falsistrellus      Pungent Pipistrelle       DD        U        
+160      159      tasmaniensis_Falsistrellus  Eastern False Pipistrelle  LC        D        
+161      159      mackenziei_Falsistrellus  Western False Pipistrelle  NT        D        
+165      164      helios_Neoromicia                                   NE        U        
+166      164      nanus_Neoromicia                                    NE        U        
+167      163      arabicus_Hypsugo                                    NE        U        
+168      162      imbricatus_Hypsugo                                  NE        U        
+170      169      hesperus_Pipistrellus     Western Pipistrelle       LC        S        
+171      169      musciculus_Hypsugo                                  NE        U        
+181      180      kolombatovici_Plecotus    Kolombatovic's Long-eared Bat  LC        D        
+182      180      austriacus_Plecotus       Gray Big-eared Bat        LC        U        
+183      179      teneriffae_Plecotus       Canary Big-eared Bat      EN        D        
+185      184      taivanus_Plecotus         Taiwan Long-eared Bat     NT        D        
+186      184      auritus_Plecotus          Brown Big-eared Bat       LC        S        
+189      188      townsendii_Corynorhinus   Townsend's Big-eared Bat  LC        S        
+190      188      mexicanus_Corynorhinus    Mexican Big-eared Bat     NT        D        
+191      187      rafinesquii_Corynorhinus  Rafinesque's Big-eared Bat  LC        I        
+193      192      phyllotis_Idionycteris    Allen's Big-eared Bat     LC        S        
+194      192      maculatum_Euderma         Spotted Bat               LC        S        
+196      195      leucomelas_Barbastella    Asian Barbastelle         LC        U        
+197      195      barbastellus_Barbastella  Barbastelle               NT        D        
+200      199      rueppellii_Pipistrellus   Ruppel's Pipistrelle      LC        U        
+201      199      crassulus_Hypsugo                                   NE        U        
+202      198      nanulus_Pipistrellus      Tiny Pipistrelle          LC        U        
+210      209      tumida_Rhogeessa          Black-winged Little Yellow Bat  LC        S        
+211      209      aeneus_Rhogeessa          Yucatan Yellow Bat        LC        S        
+212      208      io_Rhogeessa              Thomas's Yellow Bat       LC        U        
+213      207      minutilla_Rhogeessa       Tiny Yellow Bat           VU        D        
+215      214      genowaysi_Rhogeessa       Genoways's Yellow Bat     EN        D        
+216      214      parvula_Rhogeessa         Little Yellow Bat         LC        S        
+217      205      gracilis_Rhogeessa        Slender Yellow Bat        LC        U        
+218      204      mira_Rhogeessa            Least Yellow Bat          VU        S        
+219      203      alleni_Rhogeessa          Allen's Yellow Bat        LC        S        
+227      226      lasiopterus_Nyctalus      Giant Noctule             NT        D        
+228      226      leisleri_Nyctalus         LEISLER'S BAT             LC        U        
+229      225      aviator_Nyctalus          Birdlike Noctule          NT        D        
+230      224      montanus_Nyctalus         Mountain Noctule          LC        D        
+231      223      azoreum_Nyctalus          Azorean Bat               EN        D        
+234      233      plancyi_Nyctalus          Chinese Noctule           LC        U        
+235      233      furvus_Nyctalus           Japanese Noctule          VU        D        
+236      232      noctula_Nyctalus          Noctule                   LC        U        
+238      237      doriae_Hesperoptenus      False Serotine Bat        DD        U        
+239      237      denticulus_Eudiscopus     Disk-footed Bat           DD        U        
+244      243      bodenheimeri_Hypsugo                                NE        U        
+245      243      ariel_Hypsugo                                       NE        U        
+247      246      alaschanicus_Hypsugo                                NE        U        
+248      246      savii_Hypsugo                                       NE        U        
+250      249      vordermanni_Hypsugo                                 NE        U        
+251      249      macrotis_Hypsugo                                    NE        U        
+252      240      cadornae_Hypsugo                                    NE        U        

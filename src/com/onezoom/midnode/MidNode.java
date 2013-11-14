@@ -5,7 +5,7 @@ import android.util.Log;
 
 import com.onezoom.midnode.displayBinary.BinaryFactory;
 
-public abstract class MidNode {
+public abstract class MidNode{
 	public static int countDrawElement = 0;
 	private static Factory factory = new BinaryFactory();
 	protected static Precalculator precalculator = factory.createPrecalculator();

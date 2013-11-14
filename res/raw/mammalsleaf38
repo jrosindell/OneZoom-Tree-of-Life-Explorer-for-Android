@@ -1,0 +1,123 @@
+index    parent   name                      common                    redlist   popstab  
+7        6        volans_Cynocephalus       Philippine Flying Lemur   LC        S        
+8        6        variegates_Galeopterus                              NE        U        
+19       18       splendidula_Tupaia        Ruddy Treeshrew           LC        D        
+20       18       tana_Tupaia               Large Treeshrew           LC        D        
+21       17       gracilis_Tupaia           Slender Treeshrew         LC        D        
+23       22       nicobarica_Tupaia         Nicobar Treeshrew         EN        D        
+24       22       belangeri_Tupaia          Northern Treeshrew        LC        S        
+27       26       chrysogaster_Tupaia       Golden-bellied Treeshrew  EN        D        
+28       26       dorsalis_Tupaia           Striped Treeshrew         DD        D        
+29       25       glis_Tupaia               Common Treeshrew          LC        D        
+30       14       minor_Tupaia              Lesser Treeshrew          LC        D        
+34       33       moellendorffi_Tupaia      Calamian Treeshrew        DD        U        
+35       33       palawanensis_Tupaia       Palawan Treeshrew         LC        S        
+37       36       javanica_Tupaia           Horsfield's Treeshrew     LC        D        
+38       36       picta_Tupaia              Painted Treeshrew         LC        D        
+39       31       longipes_Tupaia           Long-footed Treeshrew     LC        D        
+40       12       montana_Tupaia            Mountain Treeshrew        LC        U        
+42       41       melanura_Dendrogale       Bornean Smooth-tailed Treeshrew  DD        D        
+43       41       murina_Dendrogale         Northern Smooth-tailed Treeshrew  LC        D        
+45       44       everetti_Urogale          Mindanao Treeshrew        LC        S        
+46       44       ellioti_Anathana          Madras Treeshrew          LC        D        
+47       9        lowii_Ptilocercus         Pen-tailed Treeshrew      LC        D        
+51       50       paradoxus_Solenodon       Haitian Solenodon         EN        D        
+52       50       cubanus_Solenodon         Almiqui                   EN        D        
+61       60       centralis_Cabassous       Northern Naked-tailed Armadillo  DD        U        
+62       60       tatouay_Cabassous         Greater Naked-tailed Armadillo  LC        U        
+64       63       chacoensis_Cabassous      Chacoan Naked-tailed Armadillo  NT        U        
+65       63       unicinctus_Cabassous      Cabasu                    LC        U        
+67       66       tricinctus_Tolypeutes     Brazilian Three-banded Armadillo  VU        D        
+68       66       matacus_Tolypeutes        Southern Three-banded Armadillo  NT        D        
+69       57       maximus_Priodontes        Giant Armadillo           VU        D        
+73       72       vellerosus_Chaetophractus  Screaming Hairy Armadillo  LC        U        
+74       72       nationi_Chaetophractus    Andean Hairy Armadillo    VU        D        
+75       71       villosus_Chaetophractus   Large Hairy Armadillo     LC        U        
+77       76       sexcinctus_Euphractus     Six-banded Armadillo      LC        U        
+78       76       pichiy_Zaedyus            Pichi                     NT        D        
+83       82       novemcinctus_Dasypus      Common Long-nosed Armadillo  LC        I        
+84       82       pilosus_Dasypus           Hairy Long-nosed Armadillo  VU        D        
+85       81       septemcinctus_Dasypus     Brazilian Lesser Long-nosed Armadillo  LC        U        
+87       86       sabanicola_Dasypus        Llanos Long-nosed Armadillo  LC        U        
+88       86       kappleri_Dasypus          Greater Long-nosed Armadillo  LC        U        
+89       79       hybridus_Dasypus          Southern Long-nosed Armadillo  NT        D        
+91       90       retusus_Calyptophractus   Greater Fairy Armadillo   NE        U        
+92       90       truncatus_Chlamyphorus    Lesser Fairy Armadillo    DD        D        
+97       96       variegatus_Bradypus       Bolivian Three-toed Sloth  LC        U        
+98       96       tridactylus_Bradypus      Pale-throated Sloth       LC        U        
+99       95       torquatus_Bradypus        Maned Sloth               EN        D        
+101      100      hoffmanni_Choloepus       Hoffmann's Two-toed Sloth  LC        U        
+102      100      didactylus_Choloepus      Linne's Two-toed Sloth    LC        U        
+106      105      tetradactyla_Tamandua     Collared Anteater         LC        U        
+107      105      mexicana_Tamandua         Northern Tamandua         LC        U        
+108      104      tridactyla_Myrmecophaga   Giant Anteater            NT        D        
+109      103      didactylus_Cyclopes       Pygmy Anteater            LC        U        
+126      125      drouhardi_Microgale       Striped Shrew Tenrec      LC        D        
+127      125      taiva_Microgale           Taiva Shrew Tenrec        LC        D        
+128      124      cowani_Microgale          Cowan's Shrew Tenrec      LC        D        
+129      123      talazaci_Microgale        Talzac's Shrew Tenrec     LC        D        
+130      122      gracilis_Microgale        Gracile Shrew Tenrec      LC        D        
+131      121      dryas_Microgale           Tree Shrew Tenrec         VU        D        
+132      120      longicaudata_Microgale    Lesser Long-tailed Shrew Tenrec  LC        D        
+133      119      brevicaudata_Microgale    Short-tailed Shrew Tenrec  LC        D        
+137      136      principula_Microgale      Greater Long-tailed Shrew Tenrec  LC        D        
+138      136      pusilla_Microgale         Lesser Shrew Tenrec       LC        S        
+140      139      dobsoni_Microgale         Dobson's Shrew Tenrec     LC        D        
+141      139      thomasi_Microgale         Thomas' Shrew Tenrec      LC        D        
+142      134      parvula_Microgale         Pygmy Shrew Tenrec        LC        D        
+144      143      tetradactylus_Oryzorictes  Four-toed Mole Tenrec     DD        U        
+145      143      hova_Oryzorictes          Hova Mole Tenrec          LC        D        
+146      116      aurita_Geogale            Large-eared Tenrec        LC        U        
+150      149      ruwenzorii_Micropotamogale  Rwenzori Otter Shrew      NT        U        
+151      149      lamottei_Micropotamogale  Nimba Otter Shrew         EN        D        
+152      148      velox_Potamogale          Giant Otter-shrew         LC        D        
+153      147      mergulus_Limnogale        Aquatic Tenrec            VU        U        
+157      156      semispinosus_Hemicentetes  Lowland Streaked Tenrec   LC        U        
+158      156      nigriceps_Hemicentetes    Highland Streaked Tenrec  LC        U        
+159      155      ecaudatus_Tenrec          Common Tenrec             LC        S        
+161      160      telfairi_Echinops         Lesser Hedgehog Tenrec    LC        S        
+162      160      setosus_Setifer           Greater Hedgehog Tenrec   LC        S        
+170      169      septentrionalis_Amblysomus  Highveld Golden Mole      NT        U        
+171      169      hottentotus_Amblysomus    Hottentot Golden Mole     LC        U        
+172      168      corriae_Amblysomus        Fynbos Golden Mole        NT        U        
+173      167      marleyi_Amblysomus        Marley's Golden Mole      EN        U        
+175      174      gunningi_Neamblysomus     Gunning's Golden Mole     EN        U        
+176      174      julianae_Neamblysomus     Juliana's Golden Mole     VU        U        
+177      165      obtusirostris_Calcochloris  Yellow Golden Mole        LC        U        
+180      179      stuhlmanni_Chrysochloris  Stuhlmann's Golden Mole   LC        U        
+181      179      visagiei_Chrysochloris    Visagie's Golden Mole     DD        U        
+182      178      asiatica_Chrysochloris    Cape Golden Mole          LC        U        
+188      187      tytonis_Calcochloris      Somali Golden Mole        DD        U        
+189      187      arendsi_Carpitalpa        Arend's Golden Mole       VU        U        
+190      186      leucorhinus_Calcochloris  Congo Golden Mole         DD        U        
+191      185      duthieae_Chlorotalpa      Duthie's Golden Mole      VU        U        
+192      184      sclateri_Chlorotalpa      Sclater's Golden Mole     LC        U        
+194      193      villosus_Chrysospalax     Rough-haired Golden Mole  VU        U        
+195      193      trevelyani_Chrysospalax   Giant Golden Mole         EN        U        
+205      204      fuscipes_Elephantulus     Dusky-footed Elephant Shrew  DD        U        
+206      204      fuscus_Elephantulus       Dusky Elephant Shrew      DD        U        
+207      203      brachyrhynchus_Elephantulus  Short-snouted Elephant Shrew  LC        U        
+209      208      rupestris_Elephantulus    Western Rock Elephant Shrew  LC        U        
+210      208      intufi_Elephantulus       Bushveld Elephant Shrew   LC        S        
+212      211      rufescens_Elephantulus    Rufous Elephant-shrew     LC        S        
+213      211      revoili_Elephantulus      Somali Elephant Shrew     DD        U        
+215      214      myurus_Elephantulus       Eastern Rock Elephant Shrew  LC        S        
+216      214      edwardii_Elephantulus     Cape Elephant Shrew       LC        U        
+217      199      rozeti_Elephantulus       North African Elephant Shrew  LC        U        
+218      198      proboscideus_Macroscelides  Round-eared Elephant Shrew  LC        U        
+219      197      tetradactylus_Petrodromus  Four-toed Sengi           LC        S        
+222      221      chrysopygus_Rhynchocyon   Golden-rumped Elephant Shrew  EN        D        
+223      221      petersi_Rhynchocyon       Black And Rufous Elephant Shrew  VU        U        
+224      220      cirnei_Rhynchocyon        Checkered Sengi           NT        U        
+225      111      afer_Orycteropus          Aardvark                  LC        U        
+231      230      arboreus_Dendrohyrax      Southern Tree Hyrax       LC        U        
+232      230      dorsalis_Dendrohyrax      Western Tree Hyrax        LC        U        
+233      229      brucei_Heterohyrax        Bush Hyrax                LC        U        
+234      228      capensis_Procavia         Rock Hyrax                LC        U        
+238      237      senegalensis_Trichechus   African Manatee           VU        U        
+239      237      manatus_Trichechus        American Manatee          VU        D        
+240      236      inunguis_Trichechus       Amazonian Manatee         VU        D        
+241      235      dugon_Dugong              Dugong                    VU        U        
+244      243      africana_Loxodonta        African Elephant          NT        I        
+245      243      cyclotis_Loxodonta                                  NE        U        
+246      242      maximus_Elephas           Asian Elephant            EN        D        

@@ -1,0 +1,108 @@
+index    parent   name                      common                    redlist   popstab  
+14       13       airensis_Acomys           Western Saharan Spiny Mouse  LC        S        
+15       13       seurati_Acomys            Seurat's Spiny Mouse      LC        S        
+17       16       dimidiatus_Acomys         Arabian Spiny Mouse       LC        U        
+18       16       cahirinus_Acomys          Cairo Spiny Mouse         LC        S        
+19       11       chudeaui_Acomys                                     NE        U        
+21       20       minous_Acomys             Crete Spiny Mouse         DD        U        
+22       20       kempi_Acomys              Kemp's Spiny Mouse        LC        S        
+25       24       johannis_Acomys           Johan's Spiny Mouse       LC        S        
+26       24       cineraceus_Acomys         Gray Spiny Mouse          LC        S        
+27       23       cilicicus_Acomys          Asia Minor Spiny Mouse    DD        U        
+29       28       wilsoni_Acomys            Wilson's Spiny Mouse      LC        S        
+30       28       spinosissimus_Acomys      Spiny Mouse               LC        S        
+31       7        percivali_Acomys          Percival's Spiny Mouse    LC        S        
+35       34       nesiotes_Acomys           Cyprus Spiny Mouse        DD        U        
+36       34       ignitus_Acomys            Fiery Spiny Mouse         LC        S        
+37       33       russatus_Acomys           Golden Spiny Mouse        LC        U        
+39       38       subspinosus_Acomys        Cape Spiny Mouse          LC        S        
+40       38       mullah_Acomys             Mullah Spiny Mouse        LC        U        
+41       5        louisae_Acomys            Louise's Spiny Mouse      LC        S        
+42       4        ruddi_Uranomys            Rudd's Bristle-furred Rat  LC        D        
+51       50       brunneus_Lophuromys                                 NE        U        
+52       50       zena_Lophuromys                                     NE        U        
+53       49       flavopunctatus_Lophuromys  Yellow-spotted Brush-furred Rat  LC        U        
+54       48       chrysopus_Lophuromys      Ethiopian Forest Brush-furred Rat  LC        U        
+55       47       brevicaudus_Lophuromys    Short-tailed Brush-furred Rat  NT        D        
+56       46       melanonyx_Lophuromys      Black-clawed Brush-furred Rat  VU        U        
+57       45       nudicaudus_Lophuromys     Fire-bellied Brush-furred Rat  LC        U        
+61       60       sikapusi_Lophuromys       Rusty-bellied Brush-furred Rat  LC        U        
+62       60       ansorgei_Lophuromys                                 NE        U        
+63       59       eisentrauti_Lophuromys                              EN        D        
+65       64       luteogaster_Lophuromys    Yellow-bellied Brush-furred Rat  LC        U        
+66       64       aquilus_Lophuromys                                  NE        U        
+69       68       medicaudatus_Lophuromys   Medium-tailed Brush-furred Rat  VU        D        
+70       68       rahmi_Lophuromys          Rahm's Brush-furred Rat   EN        U        
+71       67       woosnami_Lophuromys       Woosnam's Brush-furred Rat  LC        U        
+81       80       cremoriventer_Niviventer  Sundaic Arboreal Niviventer  VU        D        
+82       80       hinpoon_Niviventer        Limestone Niviventer      DD        U        
+83       79       andersoni_Niviventer      Anderson's Niviventer     LC        U        
+84       78       coninga_Niviventer        Spiny Taiwan Niviventer   LC        U        
+85       77       niviventer_Niviventer     Himalayan White-bellied Rat  LC        U        
+86       76       brahma_Niviventer         Brahma White-bellied Rat  LC        S        
+88       87       culturatus_Niviventer     Soft-furred Taiwan Niviventer  NT        D        
+89       87       langbianis_Niviventer     Lang Bian White-bellied Rat  LC        D        
+91       90       confucianus_Niviventer    Confucian Niviventer      LC        S        
+92       90       excelsior_Niviventer      Sichuan Niviventer        LC        U        
+95       94       tenaster_Niviventer       Indochinese Mountain Niviventer  LC        U        
+96       94       fulvescens_Niviventer     Chestnut White-bellied Rat  LC        D        
+97       93       lepturus_Niviventer       Montane Javan Niviventer  LC        S        
+101      100      fraternus_Niviventer      Montane Sumatran Niviventer  LC        U        
+102      100      rapit_Niviventer          Montane Bornean Niviventer  LC        U        
+103      99       cameroni_Niviventer       Cameron Highlands Niviventer  VU        D        
+104      98       eha_Niviventer            Little Himalayan Rat      LC        S        
+113      112      orangiae_Mus              Free State Pygmy Mouse    LC        U        
+114      112      neavei_Mus                Neave's Mouse             DD        U        
+115      111      mattheyi_Mus              Matthey's Mouse           LC        S        
+117      116      setzeri_Mus               Setzer's Mouse            LC        S        
+118      116      bufo_Mus                  Toad Mouse                LC        S        
+120      119      triton_Mus                Gray-bellied Mouse        LC        S        
+121      119      baoulei_Mus               Baoule's Mouse            LC        S        
+123      122      oubanguii_Mus             Oubangui Mouse            DD        U        
+124      122      minutoides_Mus            Pygmy Mouse               LC        S        
+131      130      indutus_Mus               Desert Pygmy Mouse        LC        S        
+132      130      tenellus_Mus              Delicate Mouse            LC        S        
+133      129      setulosus_Mus             Peter's Mouse             LC        S        
+134      128      sorella_Mus               Thomas's Mouse            LC        S        
+135      127      goundae_Mus               Gounda Mouse              DD        U        
+138      137      haussa_Mus                Hausa Mouse               LC        S        
+139      137      musculoides_Mus                                     LC        U        
+140      136      mahomet_Mus               Mahomet Mouse             LC        S        
+141      125      callewaerti_Mus           Callewaert's Mouse        LC        U        
+146      145      cervicolor_Mus            Fawn-colored Mouse        LC        S        
+147      145      spretus_Mus               Algerian Mouse            LC        S        
+149      148      terricolor_Mus            Earth-colored Mouse       LC        S        
+150      148      cookii_Mus                Cook's Mouse              LC        S        
+151      143      musculus_Mus              House Mouse               LC        S        
+155      154      booduga_Mus               Common Indian Field Mouse  LC        S        
+156      154      caroli_Mus                Ryukyu Mouse              LC        S        
+157      153      macedonicus_Mus           Balkan Short-tailed Mouse  LC        S        
+158      152      spicilegus_Mus            Mound-building Mouse      LC        D        
+163      162      fernandoni_Mus            Ceylon Spiny Mouse        EN        D        
+164      162      saxicola_Mus              Brown Spiny Mouse         LC        S        
+165      161      phillipsi_Mus             Wroughton's Small Spiny Mouse  LC        S        
+167      166      shortridgei_Mus           Shortridge's Mouse        LC        S        
+168      166      platythrix_Mus            Brown Spiny Mouse         LC        S        
+173      172      pahari_Mus                Gairdner's Shrewmouse     LC        S        
+174      172      famulus_Mus               Bonhote's Mouse           EN        D        
+175      171      crociduroides_Mus         Sumatran Shrewlike Mouse  DD        U        
+176      170      mayori_Mus                Mayor's Mouse             VU        U        
+177      169      vulcani_Mus               Javan Shrew-like Mouse    VU        S        
+184      183      stannarius_Aethomys       Tinfields Rock Rat        DD        U        
+185      183      namaquensis_Micaelamys                              NE        U        
+186      182      bocagei_Aethomys          Bocage's Rock Rat         LC        U        
+188      187      thomasi_Aethomys          Thomas's Rock Rat         LC        U        
+189      187      nyikae_Aethomys           Nyika Rock Rat            LC        U        
+191      190      kaiseri_Aethomys          Kaiser's Rock Rat         LC        U        
+192      190      granti_Micaelamys                                   NE        U        
+196      195      ineptus_Aethomys          Tete Veld Aethomys        LC        U        
+197      195      chrysophilus_Aethomys     Red Rock Rat              LC        U        
+198      194      hindei_Aethomys           Hinde's Rock Rat          LC        U        
+199      193      silindensis_Aethomys      Selinda Veld Rat          DD        U        
+205      204      campanae_Pelomys          Bell Groove-toothed Swamp Rat  LC        U        
+206      204      minor_Pelomys             Least Groove-toothed Swamp Rat  LC        U        
+207      203      hopkinsi_Pelomys          Hopkins's Groove-toothed Swamp Rat  DD        U        
+208      202      fallax_Pelomys            Creek Groove-toothed Swamp Rat  LC        U        
+209      201      isseli_Pelomys            Issel's Groove-toothed Swamp Rat  DD        U        
+211      210      dybowskii_Mylomys         African Groove-toothed Rat  LC        U        
+212      210      rex_Mylomys               Ethiopian Mylomys         DD        U        

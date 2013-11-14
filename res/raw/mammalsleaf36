@@ -1,0 +1,132 @@
+index    parent   name                      common                    redlist   popstab  
+13       12       luzoniensis_Cynopterus    Peters's Fruit Bat        LC        S        
+14       12       minutus_Cynopterus        Minute Fruit Bat          LC        D        
+15       11       brachyotis_Cynopterus     Lesser Dog-faced Fruit Bat  LC        U        
+16       10       sphinx_Cynopterus         Greater Shortnosed Fruit Bat  LC        I        
+19       18       titthaecheilus_Cynopterus  Indonesian Short-nosed Fruit Bat  LC        S        
+20       18       horsfieldii_Cynopterus    Horsfield's Fruit Bat     LC        U        
+21       17       nusatenggara_Cynopterus   Nusatenggara Short-nosed Fruit Bat  LC        S        
+26       25       niphanae_Megaerops        Ratanaworabhan's Fruit Bat  LC        U        
+27       25       kusnotoi_Megaerops        Javan Tailless Fruit Bat  VU        D        
+28       24       ecaudatus_Megaerops       Temminck's Tailless Fruit Bat  LC        U        
+29       23       wetmorei_Megaerops        White-collared Fruit Bat  VU        D        
+31       30       jagori_Ptenochirus        Greater Musky Fruit Bat   LC        S        
+32       30       minor_Ptenochirus         Lesser Musky Fruit Bat    LC        S        
+34       33       brooksi_Dyacopterus       Brooks's Dyak Fruit Bat   VU        D        
+35       33       spadiceus_Dyacopterus     Dayak Fruit Bat           NT        D        
+38       37       maculata_Balionycteris    Spotted-winged Fruit Bat  LC        U        
+39       37       melanocephalus_Chironax   Black-capped Fruit Bat    LC        U        
+41       40       aequalis_Aethalops        Borneo Fruit Bat          LC        U        
+42       40       alecto_Aethalops          Pygmy Fruit Bat           LC        U        
+45       44       fischeri_Haplonycteris    Fischer's Pygmy Fruit Bat  LC        S        
+46       44       cartilagonodus_Otopteropus  Luzon Fruit Bat           LC        D        
+47       43       paucidentata_Alionycteris  Mindanao Pygmy Fruit Bat  LC        S        
+51       50       lucasi_Penthetor          Lucas's Short-nosed Fruit Bat  LC        D        
+52       50       nigrescens_Thoopterus     Swift Fruit Bat           LC        U        
+53       49       salimalii_Latidens        Salim Ali's Fruit Bat     EN        D        
+54       48       blanfordi_Sphaerias       Blandford's Fruit Bat     LC        U        
+62       61       cephalotes_Nyctimene      Pallas's Tube-nosed Bat   LC        U        
+63       61       masalai_Nyctimene         Demonic Tube-nosed Bat    DD        U        
+64       60       rabori_Nyctimene          Philippine Tube-nosed Fruit Bat  EN        D        
+65       59       malaitensis_Nyctimene     Malaita Tube-nosed Bat    DD        U        
+66       58       vizcaccia_Nyctimene       Umboi Tube-nosed Bat      LC        U        
+70       69       minutus_Nyctimene         Lesser Tube-nosed Fruit Bat  VU        D        
+71       69       albiventer_Nyctimene      Common Tube-nosed Bat     LC        S        
+72       68       draconilla_Nyctimene      Lesser Tube-nosed Bat     DD        U        
+74       73       cyclotis_Nyctimene        Round-eared Tube-nosed Bat  DD        U        
+75       73       certans_Nyctimene         Mountain Tube-nosed Bat   LC        S        
+78       77       robinsoni_Nyctimene       Eastern Tube-nosed Bat    LC        U        
+79       77       major_Nyctimene           Island Tube-nosed Bat     LC        U        
+80       76       aello_Nyctimene           Greater Tube-nosed Bat    LC        S        
+81       55       raptor_Paranyctimene      Unstriped Tube-nosed Bat  LC        U        
+95       94       ahoenobarbus_Sus          Palawan Bearded Pig       VU        D        
+96       94       barbatus_Sus              Bearded Pig               VU        D        
+97       93       philippensis_Sus          Philippine Warty Pig      VU        D        
+99       98       bucculentus_Sus           Indo-chinese Warty Pig    DD        U        
+100      98       verrucosus_Sus            Javan Warty Pig           EN        D        
+103      102      celebensis_Sus            Sulawesi Warty Pig        NT        D        
+104      102      cebifrons_Sus             Visayan Warty Pig         CR        D        
+106      105      scrofa_Sus                Eurasian Wild Pig         LC        U        
+107      105      salvanius_Sus                                       NE        U        
+108      90       meinertzhageni_Hylochoerus  Forest Hog                LC        D        
+110      109      porcus_Potamochoerus      Red River Hog             LC        D        
+111      109      larvatus_Potamochoerus    Bushpig                   LC        S        
+113      112      aethiopicus_Phacochoerus  Desert Warthog            LC        D        
+114      112      africanus_Phacochoerus    Common Warthog            LC        S        
+117      116      togeanensis_Babyrousa     Togian Islands Babirusa   EN        D        
+118      116      celebensis_Babyrousa      Sulawesi Babirusa         VU        D        
+120      119      babyrussa_Babyrousa       Hairy Babirusa            VU        D        
+121      119      bolabatuensis_Babyrousa                             NE        U        
+124      123      pecari_Tayassu            White-lipped Peccary      NT        D        
+125      123      wagneri_Catagonus         Chacoan Peccary           EN        D        
+126      122      tajacu_Pecari             Collared Peccary          LC        S        
+129      128      bactrianus_Camelus        Bactrian Camel            NE        U        
+130      128      dromedarius_Camelus       Dromedary                 NE        U        
+132      131      vicugna_Vicugna           Vicuna                    LC        I        
+133      131      glama_Lama                Llama                     NE        U        
+139      138      unicornis_Rhinoceros      Indian Rhinoceros         VU        I        
+140      138      sondaicus_Rhinoceros      Javan Rhinoceros          CR        U        
+142      141      simum_Ceratotherium       White Rhinoceros          NT        I        
+143      141      bicornis_Diceros          Black Rhinoceros          CR        I        
+144      136      sumatrensis_Dicerorhinus  Sumatran Rhinoceros       CR        D        
+148      147      pinchaque_Tapirus         Mountain Tapir            EN        D        
+149      147      terrestris_Tapirus        Lowland Tapir             VU        D        
+150      146      bairdii_Tapirus           Baird's Tapir             EN        D        
+151      145      indicus_Tapirus           Asian Tapir               EN        D        
+157      156      burchellii_Equus          Burchell's Zebra          NE        U        
+158      156      zebra_Equus               Mountain Zebra            VU        U        
+159      155      grevyi_Equus              Grevy's Zebra             EN        S        
+161      160      asinus_Equus              Donkey                    NE        U        
+162      160      kiang_Equus               Kiang                     LC        S        
+163      153      hemionus_Equus            Asiatic Wild Ass          EN        D        
+164      152      caballus_Equus            Horse                     NE        U        
+174      173      malayanus_Helarctos       Malayan Sun Bear          VU        D        
+175      173      ursinus_Melursus          Sloth Bear                VU        D        
+176      172      americanus_Ursus          American Black Bear       LC        I        
+179      178      maritimus_Ursus           Polar Bear                VU        D        
+180      178      arctos_Ursus              Brown Bear                LC        S        
+181      177      thibetanus_Ursus          Asiatic Black Bear        VU        D        
+182      170      ornatus_Tremarctos        Andean Bear               VU        D        
+183      169      melanoleuca_Ailuropoda    Giant Panda               EN        D        
+192      191      adustus_Canis             Side-striped Jackal       LC        S        
+193      191      aureus_Canis              Golden Jackal             LC        I        
+194      190      mesomelas_Canis           Black-backed Jackal       LC        S        
+197      196      simensis_Canis            Ethiopian Wolf            EN        D        
+198      196      latrans_Canis             Coyote                    LC        I        
+199      195      lupus_Canis               Grey Wolf                 LC        S        
+204      203      gymnocercus_Lycalopex                               NE        U        
+205      203      culpaeus_Lycalopex                                  NE        U        
+207      206      fulvipes_Lycalopex                                  NE        U        
+208      206      griseus_Lycalopex                                   NE        U        
+209      201      sechurae_Lycalopex                                  NE        U        
+210      200      vetulus_Lycalopex                                   NE        U        
+213      212      pictus_Lycaon             African Wild Dog          EN        D        
+214      212      venaticus_Speothos        Bush Dog                  NT        U        
+215      211      brachyurus_Chrysocyon     Maned Wolf                NT        U        
+218      217      thous_Cerdocyon           Crab-eating Fox           LC        S        
+219      217      alpinus_Cuon              Dhole                     EN        D        
+220      216      microtis_Atelocynus       Short-eared Dog           NT        D        
+221      185      procyonoides_Nyctereutes  Racoon Dog                LC        S        
+229      228      ferrilata_Vulpes          Tibetan Fox               LC        U        
+230      228      corsac_Vulpes             Corsac Fox                LC        U        
+232      231      rueppellii_Vulpes         Ruppell's Fox             LC        U        
+233      231      vulpes_Vulpes             Red Fox                   LC        S        
+236      235      macrotis_Vulpes           Kit Fox                   LC        D        
+237      235      velox_Vulpes              Swift Fox                 LC        S        
+238      234      lagopus_Vulpes                                      NE        U        
+240      239      cana_Vulpes               Blanford's Fox            LC        U        
+241      239      zerda_Vulpes              Fennec Fox                LC        U        
+244      243      bengalensis_Vulpes        Bengal Fox                LC        D        
+245      243      chama_Vulpes              Cape Fox                  LC        S        
+246      242      pallida_Vulpes            Pale Fox                  DD        U        
+248      247      cinereoargenteus_Urocyon  Grey Fox                  LC        S        
+249      247      littoralis_Urocyon        Island Fox                CR        D        
+250      222      megalotis_Otocyon         Bat-eared Fox             LC        U        
+254      253      crassicaudata_Manis       Indian Pangolin           NT        D        
+255      253      pentadactyla_Manis        Chinese Pangolin          EN        D        
+257      256      culionensis_Manis         Philippine Pangolin       NT        D        
+258      256      javanica_Manis            Sunda Pangolin            EN        D        
+261      260      tetradactyla_Manis                                  NE        U        
+262      260      gigantea_Manis                                      NE        U        
+264      263      temminckii_Manis                                    NE        U        
+265      263      tricuspis_Manis                                     NE        U        

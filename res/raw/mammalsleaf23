@@ -1,0 +1,184 @@
+index    parent   name                      common                    redlist   popstab  
+12       11       leche_Kobus               Southern Lechwe           LC        S        
+13       11       megaceros_Kobus           Nile Lechwe               EN        D        
+14       10       ellipsiprymnus_Kobus      Waterbuck                 LC        D        
+16       15       vardonii_Kobus            Puku                      NT        D        
+17       15       kob_Kobus                 Kob                       LC        D        
+20       19       arundinum_Redunca         Southern Reedbuck         LC        S        
+21       19       redunca_Redunca           Bohor Reedbuck            LC        D        
+22       18       fulvorufula_Redunca       Mountain Reedbuck         LC        S        
+23       7        capreolus_Pelea           Grey Rhebok               LC        S        
+26       25       guentheri_Madoqua         Guenther's Dik-dik        LC        S        
+27       25       piacentinii_Madoqua       Silver Dik-dik            DD        D        
+28       24       pygmaeus_Neotragus        Royal Antelope            LC        D        
+37       36       spekii_Tragelaphus        Sitatunga                 LC        D        
+38       36       eurycerus_Tragelaphus     Bongo                     NT        D        
+39       35       scriptus_Tragelaphus      Bushbuck                  LC        S        
+40       34       imberbis_Tragelaphus      Lesser Kudu               NT        D        
+43       42       derbianus_Taurotragus                               NE        U        
+44       42       oryx_Taurotragus                                    NE        U        
+45       41       strepsiceros_Tragelaphus  Greater Kudu              LC        S        
+46       32       angasii_Tragelaphus       Nyala                     LC        S        
+47       31       buxtoni_Tragelaphus       Mountain Nyala            EN        D        
+49       48       quadricornis_Tetracerus   Four-horned Antelope      VU        D        
+50       48       tragocamelus_Boselaphus   Nilgai                    LC        S        
+56       55       bonasus_Bison             European Bison            VU        I        
+57       55       bison_Bison               American Bison            NT        S        
+58       54       grunniens_Bos                                       NE        U        
+60       59       sauveli_Bos               Grey Ox                   CR        U        
+61       59       taurus_Bos                Cows                      NE        U        
+63       62       javanicus_Bos             Banteng                   EN        D        
+64       62       frontalis_Bos             Gaur                      NE        U        
+68       67       quarlesi_Bubalus          Mountain Anoa             EN        D        
+69       67       depressicornis_Bubalus    Anoa                      EN        D        
+71       70       mindorensis_Bubalus       Mindoro Dwarf Buffalo     CR        D        
+72       70       bubalis_Bubalus                                     NE        U        
+73       65       caffer_Syncerus           African Buffalo           LC        D        
+85       84       alfredi_Rusa              Phillipine Spotted Deer   EN        D        
+86       84       elaphus_Cervus            Red Deer                  LC        I        
+87       83       duvaucelii_Rucervus       Barasingha                VU        D        
+89       88       timorensis_Rusa           Javan Rusa                VU        D        
+90       88       nippon_Cervus             Sika Deer                 LC        I        
+92       91       davidianus_Elaphurus      Pere David's Deer         EW        I        
+93       91       eldii_Rucervus            Eld's Deer                EN        D        
+95       94       albirostris_Przewalskium  White-lipped Deer         VU        U        
+96       94       unicolor_Rusa             Sambar                    VU        D        
+97       79       marianna_Rusa             Philippine Deer           VU        D        
+98       78       dama_Dama                 Fallow Deer               LC        U        
+101      100      calamianensis_Axis        Calamanian Deer           EN        D        
+102      100      axis_Axis                 Chital                    LC        U        
+104      103      kuhlii_Axis               Bawean Deer               CR        S        
+105      103      porcinus_Axis             Hog Deer                  EN        D        
+112      111      rooseveltorum_Muntiacus   Roosevelts' Muntjac       DD        D        
+113      111      feae_Muntiacus            Fea's Muntjac             DD        U        
+114      110      gongshanensis_Muntiacus   Gongshan Muntjac          DD        D        
+115      109      muntjak_Muntiacus         Southern Red Muntjac      LC        D        
+117      116      crinifrons_Muntiacus      Black Muntjac             VU        D        
+118      116      reevesi_Muntiacus         Reeves' Muntjac           LC        D        
+119      107      atherodes_Muntiacus       Bornean Yellow Muntjac    LC        D        
+120      106      cephalophus_Elaphodus     Tufted Deer               NT        D        
+131      130      temama_Mazama             Central American Red Brocket  DD        D        
+132      130      americana_Mazama          Red Brocket               DD        U        
+133      129      pandora_Mazama            Yucatan Brown Brocket     VU        D        
+135      134      gouazoubira_Mazama        Gray Brocket              LC        D        
+136      134      chunyi_Mazama             Chunyi                    VU        D        
+138      137      nana_Mazama               Brazilian Dwarf Brocket   DD        U        
+139      137      bricenii_Mazama           Merida Brocket            VU        D        
+140      126      rufina_Mazama             Dwarf Red Brocket         VU        D        
+142      141      virginianus_Odocoileus    White-tailed Deer         LC        S        
+143      141      hemionus_Odocoileus       Mule Deer                 LC        S        
+147      146      bisulcus_Hippocamelus     Patagonian Huemul         EN        D        
+148      146      antisensis_Hippocamelus   Taruca                    VU        D        
+149      145      bezoarticus_Ozotoceros    Pampas Deer               NT        D        
+150      144      dichotomus_Blastocerus    Marsh Deer                VU        D        
+152      151      mephistophiles_Pudu       Northern Pudu             VU        D        
+153      151      puda_Pudu                 Southern Pudu             VU        D        
+154      122      tarandus_Rangifer         Reindeer                  LC        S        
+158      157      capreolus_Capreolus       European Roe Deer         LC        I        
+159      157      pygargus_Capreolus        SIBERIAN ROE DEER         LC        D        
+160      156      inermis_Hydropotes        Chinese Water Deer        VU        D        
+162      161      alces_Alces               Eurasian Elk              LC        I        
+163      161      americanus_Alces          Moose                     LC        S        
+169      168      leucogaster_Moschus       Himalayan Muskdeer        EN        D        
+170      168      chrysogaster_Moschus      Alpine Musk Deer          EN        D        
+171      167      cupreus_Moschus           Kashmir Muskdeer          EN        D        
+172      166      fuscus_Moschus            Black Musk Deer           EN        D        
+174      173      berezovskii_Moschus       Forest Musk Deer          EN        D        
+175      173      anhuiensis_Moschus        Anhui Musk Deer           EN        D        
+176      164      moschiferus_Moschus       Siberian Musk Deer        VU        D        
+179      178      camelopardalis_Giraffa    Giraffe                   LC        D        
+180      178      johnstoni_Okapia          Okapi                     NT        S        
+181      177      americana_Antilocapra     Pronghorn                 LC        S        
+187      186      kanchil_Tragulus          Lesser Oriental Chevrotain  LC        U        
+188      186      javanicus_Tragulus        Javan Chevrotain          DD        U        
+189      185      williamsoni_Tragulus      Williamson's Chevrotain   DD        D        
+192      191      versicolor_Tragulus       Silver-backed Chevrotain  DD        D        
+193      191      napu_Tragulus             Greater Oriental Chevrotain  LC        D        
+194      190      nigricans_Tragulus        Balabac Mouse Deer        EN        D        
+195      183      aquaticus_Hyemoschus      Water Chevrotain          LC        D        
+196      182      meminna_Moschiola         White-spotted Chevrotain  LC        U        
+213      212      aduncus_Tursiops          Indo-pacific Bottlenose Dolphin  DD        U        
+214      212      truncatus_Tursiops        Common Bottlenose Dolphin  LC        U        
+216      215      coeruleoalba_Stenella     Striped Dolphin           LC        U        
+217      215      clymene_Stenella          Clymene Dolphin           DD        U        
+220      219      delphis_Delphinus         Short-beaked Common Dolphin  LC        U        
+221      219      capensis_Delphinus        Long-beaked Common Dolphin  DD        U        
+222      218      attenuata_Stenella        Pantropical Spotted Dolphin  LC        U        
+223      209      frontalis_Stenella        Atlantic Spotted Dolphin  DD        U        
+225      224      chinensis_Sousa           Indo-pacific Hump-backed Dolphin  NT        D        
+226      224      teuszii_Sousa             Atlantic Humpbacked Dolphin  VU        D        
+227      207      orca_Orcinus              Killer Whale              DD        U        
+232      231      acutus_Lagenorhynchus     Atlantic White-sided Dolphin  LC        U        
+233      231      griseus_Grampus           Risso's Dolphin           LC        U        
+235      234      brevirostris_Orcaella     Irrawaddy Dolphin         VU        D        
+236      234      longirostris_Stenella     Spinner Dolphin           DD        U        
+237      229      hosei_Lagenodelphis       Fraser's Dolphin          LC        U        
+239      238      albirostris_Lagenorhynchus  White-beaked Dolphin      LC        U        
+240      238      fluviatilis_Sotalia       Estuarine Dolphin         DD        U        
+248      247      commersonii_Cephalorhynchus  Commerson's Dolphin       DD        U        
+249      247      eutropia_Cephalorhynchus  Chilean Dolphin           NT        D        
+250      246      hectori_Cephalorhynchus   Hector's Dolphin          EN        D        
+251      245      heavisidii_Cephalorhynchus  Heaviside's Dolphin       DD        U        
+254      253      obliquidens_Lagenorhynchus  Pacific White-sided Dolphin  LC        U        
+255      253      obscurus_Lagenorhynchus   Dusky Dolphin             DD        U        
+257      256      cruciger_Lagenorhynchus   Hourglass Dolphin         LC        U        
+258      256      australis_Lagenorhynchus  Peale's Dolphin           DD        U        
+260      259      borealis_Lissodelphis     Northern Right Whale Dolphin  LC        U        
+261      259      peronii_Lissodelphis      Southern Right Whale Dolphin  DD        U        
+265      264      macrorhynchus_Globicephala  Short-finned Pilot Whale  DD        U        
+266      264      melas_Globicephala        Long-finned Pilot Whale   DD        U        
+268      267      crassidens_Pseudorca      False Killer Whale        DD        U        
+269      267      attenuata_Feresa          Pygmy Killer Whale        DD        U        
+270      262      electra_Peponocephala     Melon-headed Whale        LC        U        
+271      241      bredanensis_Steno         Rough-toothed Dolphin     LC        U        
+276      275      dioptrica_Phocoena        Spectacled Porpoise       DD        U        
+277      275      phocoena_Phocoena         Harbour Porpoise          LC        U        
+278      274      phocaenoides_Neophocaena  Finless Porpoise          VU        D        
+279      273      dalli_Phocoenoides        Dall's Porpoise           LC        U        
+281      280      spinipinnis_Phocoena      Burmeister's Porpoise     DD        U        
+282      280      sinus_Phocoena            Vaquita                   CR        D        
+284      283      leucas_Delphinapterus     Beluga                    NT        U        
+285      283      monoceros_Monodon         Narwhal                   NT        U        
+288      287      blainvillei_Pontoporia    Franciscana               VU        D        
+289      287      geoffrensis_Inia          Boto                      DD        U        
+290      286      vexillifer_Lipotes        Changjiang Dolphin        CR        U        
+297      296      europaeus_Mesoplodon      Gervais' Beaked Whale     DD        U        
+298      296      bairdii_Berardius         Baird's Beaked Whale      DD        U        
+299      295      ginkgodens_Mesoplodon     Ginkgo-toothed Beaked Whale  DD        U        
+301      300      bowdoini_Mesoplodon       Andrew's Beaked Whale     DD        U        
+302      300      peruvianus_Mesoplodon     Pygmy Beaked Whale        DD        U        
+307      306      traversii_Mesoplodon      Spade-toothed Whale       DD        U        
+308      306      layardii_Mesoplodon       Strap-toothed Whale       DD        U        
+309      305      densirostris_Mesoplodon   Blainville's Beaked Whale  DD        U        
+310      304      hectori_Mesoplodon        Hector's Beaked Whale     DD        U        
+311      303      mirus_Mesoplodon          True's Beaked Whale       DD        U        
+314      313      bidens_Mesoplodon         Sowerby's Beaked Whale    DD        U        
+315      313      arnuxii_Berardius         Arnoux's Beaked Whale     DD        U        
+316      312      shepherdi_Tasmacetus      Shepherd's Beaked Whale   DD        U        
+321      320      pacificus_Indopacetus     Indo-pacific Beaked Whale  DD        U        
+322      320      planifrons_Hyperoodon     Southern Bottlenose Whale  LC        U        
+323      319      grayi_Mesoplodon          Gray's Beaked Whale       DD        U        
+325      324      ampullatus_Hyperoodon     North Atlantic Bottlenose Whale  DD        U        
+326      324      stejnegeri_Mesoplodon     Stejneger's Beaked Whale  DD        U        
+328      327      cavirostris_Ziphius       Cuvier's Beaked Whale     LC        U        
+329      327      carlhubbsi_Mesoplodon     Hubbs' Beaked Whale       DD        U        
+331      330      gangetica_Platanista      South Asian River Dolphin  EN        D        
+332      330      minor_Platanista                                    NE        U        
+335      334      breviceps_Kogia           Pygmy Sperm Whale         DD        U        
+336      334      sima_Kogia                Dwarf Sperm Whale         DD        U        
+337      333      catodon_Physeter                                    NE        U        
+344      343      novaeangliae_Megaptera    Humpback Whale            LC        I        
+345      343      physalus_Balaenoptera     Fin Whale                 EN        U        
+346      342      musculus_Balaenoptera     Blue Whale                EN        I        
+347      341      robustus_Eschrichtius     Gray Whale                LC        S        
+349      348      edeni_Balaenoptera        Bryde's Whale             DD        U        
+350      348      borealis_Balaenoptera     Sei Whale                 EN        U        
+352      351      bonaerensis_Balaenoptera  Antarctic Minke Whale     DD        U        
+353      351      acutorostrata_Balaenoptera  Common Minke Whale        LC        S        
+358      357      glacialis_Eubalaena       North Atlantic Right Whale  EN        U        
+359      357      japonica_Eubalaena        North Pacific Right Whale  EN        U        
+360      356      australis_Eubalaena       Southern Right Whale      LC        I        
+361      355      mysticetus_Balaena        Bowhead Whale             LC        I        
+362      354      marginata_Caperea         Pygmy Right Whale         DD        U        
+364      363      amphibius_Hippopotamus    Common Hippopotamus       VU        D        
+365      363      liberiensis_Hexaprotodon                            NE        U        

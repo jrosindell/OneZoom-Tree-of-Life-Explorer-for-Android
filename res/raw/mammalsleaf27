@@ -1,0 +1,121 @@
+index    parent   name                      common                    redlist   popstab  
+15       14       platycephalus_Crossarchus  Cameroon Cusimanse        LC        U        
+16       14       obscurus_Crossarchus      Common Cusimanse          LC        U        
+17       13       alexandri_Crossarchus     Alexander's Cusimanse     LC        D        
+18       12       ansorgei_Crossarchus      Ansorge's Cusimanse       DD        U        
+21       20       hirtula_Helogale          Somali Dwarf Mongoose     LC        S        
+22       20       parvula_Helogale          Common Dwarf Mongoose     LC        S        
+24       23       gambianus_Mungos          Gambian Mongoose          LC        S        
+25       23       mungo_Mungos              Banded Mongoose           LC        S        
+26       10       albicauda_Ichneumia       White-tailed Mongoose     LC        S        
+27       9        suricatta_Suricata        Meerkat                   LC        U        
+30       29       crassicauda_Bdeogale      Bushy-tailed Mongoose     LC        U        
+31       29       nigripes_Bdeogale         Black-footed Mogoose      LC        D        
+32       28       jacksoni_Bdeogale         Jackson's Mongoose        NT        D        
+33       7        kuhni_Liberiictis         Liberian Mongoose         VU        D        
+35       34       selousi_Paracynictis      Selous' Mongoose          LC        U        
+36       34       penicillata_Cynictis      Yellow Mongoose           LC        S        
+44       43       javanicus_Herpestes       Small Asian Mongoose      LC        U        
+45       43       edwardsi_Herpestes                                  NE        U        
+46       42       urva_Herpestes            Crab-eating Mongoose      LC        S        
+48       47       brachyurus_Herpestes      Short-tailed Mongoose     LC        U        
+49       47       fuscus_Herpestes          Indian Brown Mongoose     VU        D        
+50       40       naso_Herpestes            Long-nosed Mongoose       LC        D        
+52       51       vitticollis_Herpestes     Stripe-necked Mongoose    LC        S        
+53       51       smithii_Herpestes         Ruddy Mongoose            LC        D        
+55       54       semitorquatus_Herpestes   Collared Mongoose         DD        D        
+56       54       ichneumon_Herpestes       Egyptian Mongoose         LC        S        
+59       58       pulverulenta_Galerella                              NE        U        
+60       58       flavescens_Galerella                                NE        U        
+62       61       sanguinea_Galerella                                 NE        U        
+63       61       ochracea_Galerella                                  NE        U        
+64       4        dybowskii_Dologale        Pousargues' Mongoose      DD        U        
+66       65       melleri_Rhynchogale       Meller's Mongoose         LC        U        
+67       65       paludinosus_Atilax        Marsh Mongoose            LC        D        
+72       71       grandidieri_Galidictis    Giant-striped Mongoose    EN        D        
+73       71       fasciata_Galidictis       Broad-striped Mongoose    NT        D        
+74       70       elegans_Galidia           Malagasy Ring-tailed Mongoose  LC        U        
+75       69       decemlineata_Mungotictis  Malagasy Narrow-striped Mongoose  VU        U        
+76       68       concolor_Salanoia         Brown-tailed Mongoose     VU        U        
+88       87       maculata_Genetta          Central African Large-spotted Genet  LC        U        
+89       87       pardina_Genetta           West African Large-spotted Genet  LC        U        
+90       86       poensis_Genetta           King Genet                DD        U        
+91       85       angolensis_Genetta        Miombo Genet              LC        U        
+94       93       abyssinica_Genetta        Ethiopian Genet           LC        U        
+95       93       thierryi_Genetta          Hausa Genet               LC        U        
+96       92       johnstoni_Genetta         Johnston's Genet          VU        D        
+98       97       tigrina_Genetta           South African Large-spotted Genet  LC        U        
+99       97       genetta_Genetta           Common Genet              LC        S        
+102      101      servalina_Genetta         Servaline Genet           LC        U        
+103      101      cristata_Genetta          Crested Genet             VU        D        
+104      100      victoriae_Genetta         Giant Genet               LC        U        
+107      106      pardicolor_Prionodon      Spotted Linsang           LC        U        
+108      106      linsang_Prionodon         Banded Linsang            LC        D        
+110      109      richardsonii_Poiana       African Linsang           LC        U        
+111      109      leightoni_Poiana          Leighton's Linsang        DD        D        
+112      80       piscivora_Genetta         Aquatic Genet             DD        U        
+117      116      megaspila_Viverra         Large-spotted Civet       VU        D        
+118      116      civettina_Viverra         Malabar Civet             CR        U        
+120      119      zibetha_Viverra           Large Indian Civet        NT        D        
+121      119      tangalunga_Viverra        Malay Civet               LC        S        
+122      114      indica_Viverricula        Small Indian Civet        LC        S        
+123      113      civetta_Civettictis       African Civet             LC        U        
+131      130      zeylonensis_Paradoxurus   Golden Palm Civet         VU        D        
+132      130      jerdoni_Paradoxurus       Brown Palm Civet          LC        U        
+133      129      hermaphroditus_Paradoxurus  Common Palm Civet         LC        S        
+135      134      larvata_Paguma            Masked Palm Civet         LC        D        
+136      134      binturong_Arctictis       Binturong                 VU        D        
+137      127      musschenbroekii_Macrogalidia  Brown Palm Civet          VU        D        
+138      126      trivirgata_Arctogalidia   Small-toothed Palm Civet  LC        D        
+139      125      binotata_Nandinia         African Palm Civet        LC        U        
+143      142      owstoni_Chrotogale        Owston's Civet            VU        D        
+144      142      hosei_Diplogale           Hose's Civet              VU        D        
+145      141      derbyanus_Hemigalus       Banded Civit              VU        D        
+146      140      bennettii_Cynogale        Otter-civet               EN        U        
+149      148      goudotii_Eupleres         Falanouc                  NT        D        
+150      148      fossana_Fossa             Fanaloka                  NT        D        
+151      147      ferox_Cryptoprocta        Fossa                     VU        D        
+166      165      pardus_Panthera           Leopard                   NT        D        
+167      165      leo_Panthera              Lion                      VU        D        
+168      164      onca_Panthera             Jaguar                    NT        D        
+169      163      tigris_Panthera           Tiger                     EN        D        
+170      162      uncia_Uncia               Snow Leopard              NE        U        
+171      161      nebulosa_Neofelis         Clouded Leopard           VU        D        
+172      160      marmorata_Pardofelis      Marbled Cat               VU        D        
+176      175      canadensis_Lynx           Canada Lynx               LC        S        
+177      175      lynx_Lynx                 Eurasian Lynx             LC        S        
+178      174      pardinus_Lynx             Iberian Lynx              CR        D        
+179      173      rufus_Lynx                Bobcat                    LC        S        
+182      181      temminckii_Catopuma       Asiatic golden cat        NE        U        
+183      181      badia_Catopuma            Bornean cat               NE        U        
+184      180      aurata_Profelis           African golden cat        NE        U        
+190      189      braccatus_Leopardus       Pantanal cat              NE        U        
+191      189      pajeros_Leopardus         Pampas cat                NE        U        
+192      188      colocolo_Leopardus        Colocolo                  NT        D        
+193      187      jacobitus_Leopardus       Andean mountain cat       NE        U        
+196      195      guigna_Leopardus          Chilean Cat               VU        D        
+197      195      tigrinus_Leopardus        Oncilla                   VU        D        
+198      194      geoffroyi_Leopardus       Geoffroy's Cat            NT        D        
+200      199      pardalis_Leopardus        Ocelot                    LC        D        
+201      199      wiedii_Leopardus          Margay                    NT        D        
+208      207      nigripes_Felis            Black-footed Cat          VU        D        
+209      207      margarita_Felis           Sand Cat                  NT        U        
+211      210      silvestris_Felis          Wild Cat                  LC        D        
+212      210      catus_Felis                                         NE        U        
+214      213      chaus_Felis               Jungle Cat                LC        D        
+215      213      bieti_Felis                                         NE        U        
+216      204      manul_Felis                                         NE        U        
+217      203      caracal_Caracal           Caracal                   LC        U        
+218      202      serval_Leptailurus        Serval                    LC        S        
+223      222      bengalensis_Prionailurus  Leopard Cat               LC        S        
+224      222      iriomotensis_Prionailurus                            NE        U        
+225      221      viverrinus_Prionailurus   Fishing Cat               EN        D        
+226      220      rubiginosus_Prionailurus  Rusty-spotted Cat         VU        D        
+227      219      planiceps_Prionailurus    Flat-headed Cat           EN        D        
+229      228      yagouaroundi_Puma         Jaguarundi                LC        D        
+230      228      concolor_Puma             Puma                      LC        D        
+231      153      jubatus_Acinonyx          Cheetah                   VU        D        
+235      234      hyaena_Hyaena             Striped Hyaena            NT        D        
+236      234      brunnea_Hyaena            Brown Hyaena              NT        D        
+237      233      crocuta_Crocuta           Spotted Hyaena            LC        D        
+238      232      cristata_Proteles         Aardwolf                  LC        S        

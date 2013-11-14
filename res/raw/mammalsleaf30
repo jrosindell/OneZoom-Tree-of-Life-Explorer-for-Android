@@ -1,0 +1,135 @@
+index    parent   name                      common                    redlist   popstab  
+16       15       keyensis_Pteropus         Kei Flying Fox            DD        U        
+17       15       aruensis_Pteropus         Aru Flying Fox            CR        U        
+18       14       melanopogon_Pteropus      Black-bearded Flying Fox  EN        D        
+19       13       livingstonii_Pteropus     Comoro Black Flying Fox   EN        D        
+22       21       poliocephalus_Pteropus    Grey-headed Flying Fox    VU        D        
+23       21       macrotis_Pteropus         Large-eared Flying Fox    LC        S        
+24       20       pohlei_Pteropus           Geelvink Bay Flying Fox   EN        D        
+28       27       intermedius_Pteropus      Andersen's Flying Fox     DD        U        
+29       27       vampyrus_Pteropus         Large Flying-fox          NT        D        
+31       30       giganteus_Pteropus        Indian Flying Fox         LC        D        
+32       30       lylei_Pteropus            Lyle's Flying Fox         VU        D        
+34       33       conspicillatus_Pteropus   Spectacled Flying Fox     LC        S        
+35       33       ocularis_Pteropus         Seram Flying Fox          VU        D        
+39       38       aldabrensis_Pteropus      Aldabra Flying-fox        VU        S        
+40       38       voeltzkowi_Pteropus       Pemba Flying Fox          VU        I        
+41       37       seychellensis_Pteropus    Seychelles Flying Fox     LC        S        
+43       42       niger_Pteropus            Greater Mascarene Flying Fox  EN        D        
+44       42       rufus_Pteropus            Madagascan Flying Fox     VU        D        
+50       49       vetulus_Pteropus          New Caledonia Flying Fox  VU        D        
+51       49       nitendiensis_Pteropus     Temotu Flying Fox         EN        D        
+53       52       insularis_Pteropus        Chuuk Flying Fox          DD        U        
+54       52       pselaphon_Pteropus        Bonin Flying Fox          CR        D        
+56       55       leucopterus_Pteropus      Mottle-winged Flying Fox  LC        D        
+57       55       tuberculatus_Pteropus     Vanikoro Flying Fox       CR        U        
+60       59       molossinus_Pteropus       Pohnpei Flying Fox        VU        S        
+61       59       lombocensis_Pteropus      Lombok Flying Fox         DD        U        
+62       58       rodricensis_Pteropus      Rodrigues Flying Fox      CR        I        
+63       45       alecto_Pteropus           Black Flying Fox          LC        S        
+66       65       caniceps_Pteropus         North Moluccan Flying Fox  NT        D        
+67       65       ornatus_Pteropus          Ornate Flying Fox         VU        D        
+68       64       admiralitatum_Pteropus    Admiralty Flying Fox      LC        U        
+77       76       mariannus_Pteropus        Marianas Flying Fox       EN        D        
+78       76       ualanus_Pteropus          Kosrae Flying Fox         VU        S        
+80       79       pelewensis_Pteropus       Palau Flying Fox          NT        S        
+81       79       yapensis_Pteropus         Yap Flying Fox            VU        U        
+82       74       loochoensis_Pteropus      Okinawa Flying-fox        DD        U        
+83       73       tonganus_Pteropus         Pacific Flying Fox        LC        D        
+88       87       scapulatus_Pteropus       Little Red Flying Fox     LC        S        
+89       87       mahaganus_Pteropus        Sanborn's Flying Fox      VU        D        
+90       86       woodfordi_Pteropus        Dwarf Flying Fox          VU        D        
+91       85       gilliardorum_Pteropus     Gilliard's Flying Fox     DD        U        
+92       84       howensis_Pteropus         Ontong Java Flying Fox    DD        U        
+93       71       griseus_Pteropus          Gray Flying Fox           DD        U        
+96       95       speciosus_Pteropus        Philippine Gray Flying Fox  DD        U        
+97       95       neohibernicus_Pteropus    Great Flying Fox          LC        U        
+99       98       anetianus_Pteropus        Vanauatu Flying Fox       VU        D        
+100      98       samoensis_Pteropus        Samoan Flying Fox         NT        D        
+109      108      rennelli_Pteropus         Rennell Flying Fox        VU        S        
+110      108      rayneri_Pteropus          Solomons Flying Fox       NT        D        
+111      107      cognatus_Pteropus         Makira Flying Fox         EN        D        
+113      112      chrysoproctus_Pteropus    Moluccan Flying Fox       NT        D        
+114      112      fundatus_Pteropus         Banks Flying Fox          EN        D        
+115      105      faunulus_Pteropus         Nicobar Flying Fox        VU        D        
+118      117      temminckii_Pteropus       Temminck's Flying Fox     VU        D        
+119      117      capistratus_Pteropus      Bismarck Flying Fox       EN        D        
+120      116      personatus_Pteropus       Moluccan Masked Flying Fox  LC        S        
+122      121      pumilus_Pteropus          Little Golden-mantled Flying-fox  NT        D        
+123      121      hypomelanus_Pteropus      Island Flying Fox         LC        D        
+124      102      dasymallus_Pteropus       Ryukyu Flying Fox         NT        D        
+125      101      melanotus_Pteropus        Blyth's Flying Fox        VU        D        
+129      128      jubatus_Acerodon          Golden-capped Fruit Bat   EN        D        
+130      128      leucotis_Acerodon         Palawan Flying Fox        VU        D        
+132      131      celebensis_Acerodon       Sulawesi Fruit Bat        LC        U        
+133      131      humilis_Acerodon          Talaud Fruit Bat          EN        D        
+134      126      mackloti_Acerodon         Sunda Fruit Bat           VU        D        
+138      137      atrata_Pteralopex         Guadalcanal Monkey-faced Bat  EN        D        
+139      137      pulchra_Pteralopex        Montane Monkey-faced Bat  CR        D        
+140      136      acrodonta_Pteralopex                                NE        U        
+141      135      anceps_Pteralopex         Bougainville Monkey-faced Bat  EN        D        
+143      142      wallacei_Styloctenium     Stripe-faced Fruit Bat    VU        D        
+144      142      frosti_Neopteryx          Small-toothed Fruit Bat   EN        D        
+155      154      crenulata_Dobsonia        Halmahera Naked-backed Fruit Bat  LC        S        
+156      154      viridis_Dobsonia          Greenish Naked-backed Fruit Bat  LC        S        
+157      153      praedatrix_Dobsonia       Bismarck Bare-backed Fruit Bat  LC        U        
+158      152      beauforti_Dobsonia        Beaufort's Bare-backed Fruit Bat  LC        U        
+159      151      inermis_Dobsonia          Solomons Bare-backed Fruit Bat  LC        S        
+160      150      exoleta_Dobsonia          Sulawesi Naked-backed Fruit Bat  LC        U        
+162      161      peronii_Dobsonia          Western Naked-backed Fruit Bat  LC        S        
+163      161      minor_Dobsonia            Lesser Bare-backed Fruit Bat  LC        U        
+166      165      moluccensis_Dobsonia      Moluccan Naked-backed Fruit Bat  LC        S        
+167      165      magna_Dobsonia                                      NE        U        
+168      164      anderseni_Dobsonia        Andersen's Bare-backed Fruit Bat  LC        S        
+169      147      pannietensis_Dobsonia     Panaeati Bare-backed Fruit Bat  NT        U        
+170      146      emersa_Dobsonia           Biak Bare-backed Fruit Bat  VU        U        
+171      145      bulmerae_Aproteles        Bulmer's Fruit Bat        CR        D        
+173      172      celebensis_Harpyionycteris  Sulawesi Harpy Fruit Bat  VU        D        
+174      172      whiteheadi_Harpyionycteris  Harpy Fruit Bat           LC        S        
+180      179      melanops_Melonycteris     Black-bellied Blossom Bat  LC        S        
+181      179      woodfordi_Melonycteris    Woodford's Blossom Bat    LC        S        
+183      182      neocaledonica_Notopteris  New Caledonia Blossom Bat  VU        U        
+184      182      macdonaldi_Notopteris     Fijian Blossom Bat        VU        D        
+187      186      carolinae_Syconycteris    Halmaheran Blossom Bat    VU        D        
+188      186      hobbit_Syconycteris       Moss-forest Blossom Bat   VU        D        
+189      185      australis_Syconycteris    Common Blossom Bat        LC        S        
+191      190      minimus_Macroglossus      Dagger-toothed Long-nosed Fruit Bat  LC        S        
+192      190      sobrinus_Macroglossus     Hill Long-tongued Fruit Bat  LC        S        
+195      194      robusta_Eonycteris        Philippine Dawn Bat       NT        D        
+196      194      major_Eonycteris          Greater Dawn Bat          DD        U        
+197      193      spelaea_Eonycteris        Dawn Bat                  LC        U        
+211      210      crypturus_Epomophorus     Peters's Epauletted Fruit Bat  LC        U        
+212      210      gambianus_Epomophorus     Gambian Epauletted Fruit Bat  LC        U        
+214      213      labiatus_Epomophorus      Ethiopian Epauletted Fruit Bat  LC        S        
+215      213      minor_Epomophorus                                   NE        U        
+218      217      minimus_Epomophorus       East African Epauletted Fruit Bat  LC        S        
+219      217      angolensis_Epomophorus    Angolan Epauletted Fruit Bat  NT        D        
+220      216      grandis_Epomophorus       Lesser Angolan Epauletted Fruit Bat  DD        U        
+221      207      wahlbergi_Epomophorus     Wahlberg's Epauletted Fruit Bat  LC        S        
+223      222      intermedius_Micropteropus  Hayman's Lesser Epauletted Fruit Bat  DD        U        
+224      222      pusillus_Micropteropus    Peter's Dwarf Epauletted Fruit Bat  LC        S        
+228      227      buettikoferi_Epomops      Buettikofer's Epauletted Fruit Bat  LC        D        
+229      227      dobsonii_Epomops          Dobson's Fruit Bat        LC        S        
+230      226      franqueti_Epomops         Franquet's Epauletted Fruit Bat  LC        S        
+231      225      monstrosus_Hypsignathus   Hammer-headed Fruit Bat   LC        U        
+232      204      veldkampii_Nanonycteris   Veldkamp's Bat            LC        U        
+235      234      ophiodon_Scotonycteris    Pohle's Fruit Bat         VU        D        
+236      234      zenkeri_Scotonycteris     Zenker's Fruit Bat        LC        D        
+237      233      argynnis_Casinycteris     Short-palated Fruit Bat   LC        U        
+238      202      anchietae_Plerotes        D'Anchieta's Fruit Bat    DD        U        
+239      201      bidens_Rousettus          Manado Rousette           VU        D        
+242      241      helvum_Eidolon            Straw-coloured Fruit Bat  NT        D        
+243      241      dupreanum_Eidolon         Madagascan Fruit Bat      VU        D        
+244      240      woermanni_Megaloglossus   Woermann's Bat            LC        S        
+251      250      madagascariensis_Rousettus  Madagascan Rousette       NT        D        
+252      250      aegyptiacus_Rousettus     Egyptian Fruit Bat        LC        S        
+253      249      leschenaultii_Rousettus   Leschenault's Rousette    LC        S        
+255      254      amplexicaudatus_Rousettus  Geoffroy's Rousette       LC        U        
+256      254      celebensis_Rousettus      Sulawesi Rousette         LC        D        
+258      257      spinalatus_Rousettus      Bare-backed Rousette      VU        D        
+259      257      obliviosus_Rousettus      Comoro Rousette           VU        D        
+260      246      lanosus_Rousettus         Long-haired Rousette      LC        D        
+263      262      relicta_Myonycteris       East African Little Collared Fruit Bat  VU        D        
+264      262      torquata_Myonycteris      Little Collared Fruit Bat  LC        S        
+265      261      brachycephala_Myonycteris  Sao Tome Collared Fruit Bat  EN        D        
+266      198      angolensis_Lissonycteris  Angolan Fruit Bat         LC        D        

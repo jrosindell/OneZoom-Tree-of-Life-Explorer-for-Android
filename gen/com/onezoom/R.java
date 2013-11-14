@@ -17,8 +17,8 @@ public final class R {
          screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
     
          */
-        public static final int activity_horizontal_margin=0x7f040000;
-        public static final int activity_vertical_margin=0x7f040001;
+        public static final int activity_horizontal_margin=0x7f050000;
+        public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
         public static final int close=0x7f020000;
@@ -47,32 +47,157 @@ public final class R {
         public static final int stopcolor=0x7f020017;
     }
     public static final class id {
-        public static final int action_settings=0x7f080007;
-        public static final int grow=0x7f080009;
-        public static final int grow_close=0x7f080006;
-        public static final int grow_pause=0x7f080003;
-        public static final int grow_play=0x7f080002;
-        public static final int grow_reverse=0x7f080005;
-        public static final int grow_stop=0x7f080004;
-        public static final int listview=0x7f080000;
-        public static final int reset=0x7f08000a;
-        public static final int search=0x7f080008;
-        public static final int tree_view=0x7f080001;
+        public static final int action_settings=0x7f090007;
+        public static final int grow=0x7f090009;
+        public static final int grow_close=0x7f090006;
+        public static final int grow_pause=0x7f090003;
+        public static final int grow_play=0x7f090002;
+        public static final int grow_reverse=0x7f090005;
+        public static final int grow_stop=0x7f090004;
+        public static final int listview=0x7f090000;
+        public static final int reset=0x7f09000a;
+        public static final int search=0x7f090008;
+        public static final int tree_view=0x7f090001;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int canvas_activity=0x7f030001;
     }
     public static final class menu {
-        public static final int grow=0x7f070000;
-        public static final int main=0x7f070001;
-        public static final int searchmenu=0x7f070002;
+        public static final int grow=0x7f080000;
+        public static final int main=0x7f080001;
+        public static final int searchmenu=0x7f080002;
+    }
+    public static final class raw {
+        public static final int mammals0=0x7f040000;
+        public static final int mammals1=0x7f040001;
+        public static final int mammals10=0x7f040002;
+        public static final int mammals11=0x7f040003;
+        public static final int mammals12=0x7f040004;
+        public static final int mammals13=0x7f040005;
+        public static final int mammals14=0x7f040006;
+        public static final int mammals15=0x7f040007;
+        public static final int mammals16=0x7f040008;
+        public static final int mammals17=0x7f040009;
+        public static final int mammals18=0x7f04000a;
+        public static final int mammals19=0x7f04000b;
+        public static final int mammals2=0x7f04000c;
+        public static final int mammals20=0x7f04000d;
+        public static final int mammals21=0x7f04000e;
+        public static final int mammals22=0x7f04000f;
+        public static final int mammals23=0x7f040010;
+        public static final int mammals24=0x7f040011;
+        public static final int mammals25=0x7f040012;
+        public static final int mammals26=0x7f040013;
+        public static final int mammals27=0x7f040014;
+        public static final int mammals28=0x7f040015;
+        public static final int mammals29=0x7f040016;
+        public static final int mammals3=0x7f040017;
+        public static final int mammals30=0x7f040018;
+        public static final int mammals31=0x7f040019;
+        public static final int mammals32=0x7f04001a;
+        public static final int mammals33=0x7f04001b;
+        public static final int mammals34=0x7f04001c;
+        public static final int mammals35=0x7f04001d;
+        public static final int mammals36=0x7f04001e;
+        public static final int mammals37=0x7f04001f;
+        public static final int mammals38=0x7f040020;
+        public static final int mammals39=0x7f040021;
+        public static final int mammals4=0x7f040022;
+        public static final int mammals40=0x7f040023;
+        public static final int mammals5=0x7f040024;
+        public static final int mammals6=0x7f040025;
+        public static final int mammals7=0x7f040026;
+        public static final int mammals8=0x7f040027;
+        public static final int mammals9=0x7f040028;
+        public static final int mammalsinterior0=0x7f040029;
+        public static final int mammalsinterior1=0x7f04002a;
+        public static final int mammalsinterior10=0x7f04002b;
+        public static final int mammalsinterior11=0x7f04002c;
+        public static final int mammalsinterior12=0x7f04002d;
+        public static final int mammalsinterior13=0x7f04002e;
+        public static final int mammalsinterior14=0x7f04002f;
+        public static final int mammalsinterior15=0x7f040030;
+        public static final int mammalsinterior16=0x7f040031;
+        public static final int mammalsinterior17=0x7f040032;
+        public static final int mammalsinterior18=0x7f040033;
+        public static final int mammalsinterior19=0x7f040034;
+        public static final int mammalsinterior2=0x7f040035;
+        public static final int mammalsinterior20=0x7f040036;
+        public static final int mammalsinterior21=0x7f040037;
+        public static final int mammalsinterior22=0x7f040038;
+        public static final int mammalsinterior23=0x7f040039;
+        public static final int mammalsinterior24=0x7f04003a;
+        public static final int mammalsinterior25=0x7f04003b;
+        public static final int mammalsinterior26=0x7f04003c;
+        public static final int mammalsinterior27=0x7f04003d;
+        public static final int mammalsinterior28=0x7f04003e;
+        public static final int mammalsinterior29=0x7f04003f;
+        public static final int mammalsinterior3=0x7f040040;
+        public static final int mammalsinterior30=0x7f040041;
+        public static final int mammalsinterior31=0x7f040042;
+        public static final int mammalsinterior32=0x7f040043;
+        public static final int mammalsinterior33=0x7f040044;
+        public static final int mammalsinterior34=0x7f040045;
+        public static final int mammalsinterior35=0x7f040046;
+        public static final int mammalsinterior36=0x7f040047;
+        public static final int mammalsinterior37=0x7f040048;
+        public static final int mammalsinterior38=0x7f040049;
+        public static final int mammalsinterior39=0x7f04004a;
+        public static final int mammalsinterior4=0x7f04004b;
+        public static final int mammalsinterior40=0x7f04004c;
+        public static final int mammalsinterior5=0x7f04004d;
+        public static final int mammalsinterior6=0x7f04004e;
+        public static final int mammalsinterior7=0x7f04004f;
+        public static final int mammalsinterior8=0x7f040050;
+        public static final int mammalsinterior9=0x7f040051;
+        public static final int mammalsleaf0=0x7f040052;
+        public static final int mammalsleaf1=0x7f040053;
+        public static final int mammalsleaf10=0x7f040054;
+        public static final int mammalsleaf11=0x7f040055;
+        public static final int mammalsleaf12=0x7f040056;
+        public static final int mammalsleaf13=0x7f040057;
+        public static final int mammalsleaf14=0x7f040058;
+        public static final int mammalsleaf15=0x7f040059;
+        public static final int mammalsleaf16=0x7f04005a;
+        public static final int mammalsleaf17=0x7f04005b;
+        public static final int mammalsleaf18=0x7f04005c;
+        public static final int mammalsleaf19=0x7f04005d;
+        public static final int mammalsleaf2=0x7f04005e;
+        public static final int mammalsleaf20=0x7f04005f;
+        public static final int mammalsleaf21=0x7f040060;
+        public static final int mammalsleaf22=0x7f040061;
+        public static final int mammalsleaf23=0x7f040062;
+        public static final int mammalsleaf24=0x7f040063;
+        public static final int mammalsleaf25=0x7f040064;
+        public static final int mammalsleaf26=0x7f040065;
+        public static final int mammalsleaf27=0x7f040066;
+        public static final int mammalsleaf28=0x7f040067;
+        public static final int mammalsleaf29=0x7f040068;
+        public static final int mammalsleaf3=0x7f040069;
+        public static final int mammalsleaf30=0x7f04006a;
+        public static final int mammalsleaf31=0x7f04006b;
+        public static final int mammalsleaf32=0x7f04006c;
+        public static final int mammalsleaf33=0x7f04006d;
+        public static final int mammalsleaf34=0x7f04006e;
+        public static final int mammalsleaf35=0x7f04006f;
+        public static final int mammalsleaf36=0x7f040070;
+        public static final int mammalsleaf37=0x7f040071;
+        public static final int mammalsleaf38=0x7f040072;
+        public static final int mammalsleaf39=0x7f040073;
+        public static final int mammalsleaf4=0x7f040074;
+        public static final int mammalsleaf40=0x7f040075;
+        public static final int mammalsleaf5=0x7f040076;
+        public static final int mammalsleaf6=0x7f040077;
+        public static final int mammalsleaf7=0x7f040078;
+        public static final int mammalsleaf8=0x7f040079;
+        public static final int mammalsleaf9=0x7f04007a;
     }
     public static final class string {
-        public static final int action_settings=0x7f050001;
-        public static final int app_name=0x7f050000;
-        public static final int hello_world=0x7f050002;
-        public static final int search_hint=0x7f050003;
+        public static final int action_settings=0x7f060001;
+        public static final int app_name=0x7f060000;
+        public static final int hello_world=0x7f060002;
+        public static final int search_hint=0x7f060003;
     }
     public static final class style {
         /** 
@@ -96,10 +221,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f060000;
+        public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f060001;
+        public static final int AppTheme=0x7f070001;
     }
 }

@@ -1,0 +1,104 @@
+index    parent   name                      common                    redlist   popstab  
+16       15       pyrenaica_Capra           IBERIAN WILD GOAT         LC        I        
+17       15       ibex_Capra                Alpine Ibex               LC        I        
+19       18       nubiana_Capra             Nubian Ibex               VU        D        
+20       18       walie_Capra               Walia Ibex                EN        I        
+23       22       jemlahicus_Hemitragus     Himalayan Tahr            NT        D        
+24       22       jayakari_Hemitragus                                 NE        U        
+25       21       hylocrius_Hemitragus                                NE        U        
+28       27       sibirica_Capra            Siberian Ibex             LC        U        
+29       27       falconeri_Capra           Markhor                   EN        D        
+30       26       hircus_Capra                                        NE        U        
+31       11       caucasica_Capra           Western Tur               EN        D        
+33       32       schaeferi_Pseudois        Dwarf Bharal              EN        D        
+34       32       nayaur_Pseudois           Bharal                    LC        U        
+39       38       dalli_Ovis                Thinhorn Sheep            LC        S        
+40       38       nivicola_Ovis             Snow Sheep                LC        U        
+41       37       canadensis_Ovis           Bighorn Sheep             LC        S        
+43       42       ammon_Ovis                Argali                    NT        D        
+44       42       aries_Ovis                                          NE        U        
+45       35       taxicolor_Budorcas        Takin                     VU        D        
+48       47       pyrenaica_Rupicapra       Pyrenean Chamois          LC        I        
+49       47       rupicapra_Rupicapra       Northern Chamois          LC        U        
+50       46       lervia_Ammotragus         Aoudad                    VU        D        
+58       57       milneedwardsii_Capricornis  Chinese Serow             NT        D        
+59       57       sumatraensis_Capricornis  Serow                     VU        D        
+60       56       thar_Capricornis          Himalayan Serow           NT        D        
+61       55       rubidus_Capricornis       Red Serow                 NT        D        
+62       54       goral_Naemorhedus         Himalayan Goral           NT        D        
+64       63       baileyi_Naemorhedus       Red Goral                 VU        D        
+65       63       moschatus_Ovibos          Muskox                    LC        S        
+69       68       caudatus_Naemorhedus      Long-tailed Goral         VU        D        
+70       68       griseus_Naemorhedus       Chinese Goral             VU        D        
+71       67       swinhoei_Capricornis      Formosan Serow            LC        U        
+72       66       crispus_Capricornis       Japanese Serow            LC        I        
+73       51       americanus_Oreamnos       Mountain Goat             LC        S        
+74       6        hodgsonii_Pantholops      Chiru                     EN        D        
+81       80       lunatus_Damaliscus        Tiang                     LC        D        
+82       80       korrigum_Damaliscus                                 NE        U        
+83       79       pygargus_Damaliscus       Blesbok                   LC        S        
+84       78       hunteri_Beatragus         Hirola                    CR        D        
+86       85       taurinus_Connochaetes     Common Wildebeest         LC        S        
+87       85       gnou_Connochaetes         Black Wildebeest          LC        I        
+90       89       buselaphus_Alcelaphus     Hartebeest                LC        D        
+91       89       caama_Alcelaphus                                    NE        U        
+92       88       lichtensteinii_Alcelaphus                            NE        U        
+98       97       beisa_Oryx                Beisa/fringe-eared Oryx   NT        D        
+99       97       gazella_Oryx              Gemsbok                   LC        S        
+100      96       leucoryx_Oryx             Arabian Oryx              EN        D        
+101      95       dammah_Oryx               Scimitar-horned Oryx      EW        U        
+102      94       nasomaculatus_Addax       Addax                     CR        D        
+104      103      equinus_Hippotragus       Roan Antelope             LC        D        
+105      103      niger_Hippotragus         Sable Antelope            LC        S        
+107      106      oreotragus_Oreotragus     Klipspringer              LC        S        
+108      106      kirkii_Madoqua            Kirk's Dik-dik            LC        S        
+119      118      cuvieri_Gazella           Cuvier's Gazelle          EN        U        
+120      118      leptoceros_Gazella        Rhim                      EN        D        
+121      117      subgutturosa_Gazella      Goitered Gazelle          VU        D        
+123      122      saudiya_Gazella           Saudi Gazelle             EX        U        
+124      122      bennettii_Gazella         Chinkara                  LC        S        
+128      127      gazella_Gazella           Mountain Gazelle          VU        D        
+129      127      erlangeri_Gazella                                   NE        U        
+130      126      dorcas_Gazella            Dorcas Gazelle            VU        D        
+131      125      spekei_Gazella            Speke's Gazelle           EN        D        
+135      134      soemmerringii_Nanger      Soemmerring's Gazelle     VU        D        
+136      134      dama_Nanger               Dama Gazelle              CR        D        
+137      133      granti_Nanger             Grant's Gazelle           LC        D        
+139      138      rufifrons_Eudorcas        Red-fronted Gazelle       VU        D        
+140      138      thomsonii_Eudorcas        Thomson's Gazelle         NT        D        
+141      113      cervicapra_Antilope       Blackbuck                 NT        S        
+142      112      marsupialis_Antidorcas    Springbok                 LC        I        
+144      143      clarkei_Ammodorcas        Clarke's Gazelle          VU        D        
+145      143      walleri_Litocranius       Gerenuk                   NT        D        
+147      146      tatarica_Saiga            SAIGA                     CR        D        
+148      146      borealis_Saiga                                      NE        U        
+149      109      moschatus_Neotragus                                 NE        U        
+150      2        saltiana_Madoqua          Salt's Dik-dik            LC        S        
+163      162      silvicultor_Cephalophus   Yellow-backed Duiker      LC        D        
+164      162      spadix_Cephalophus        Abbott's Duiker           EN        D        
+165      161      dorsalis_Cephalophus      Bay Duiker                LC        D        
+166      160      jentinki_Cephalophus      Jentink's Duiker          EN        D        
+169      168      nigrifrons_Cephalophus    Black-fronted Duiker      LC        D        
+170      168      rufilatus_Cephalophus     Red-flanked Duiker        LC        D        
+171      167      natalensis_Cephalophus    Natal Red Duiker          LC        D        
+176      175      ogilbyi_Cephalophus       Ogilby's Duiker           LC        D        
+177      175      brookei_Cephalophus                                 NE        U        
+178      174      callipygus_Cephalophus    Peters' Duiker            LC        D        
+179      173      weynsi_Cephalophus        Weyns' Duiker             LC        D        
+181      180      niger_Cephalophus         Black Duiker              LC        D        
+182      180      zebra_Cephalophus         Zebra Duiker              VU        D        
+183      157      leucogaster_Cephalophus   White-bellied Duiker      LC        D        
+184      156      adersi_Cephalophus        Aders' Duiker             CR        D        
+185      155      grimmia_Sylvicapra        Common Duiker             LC        S        
+187      186      maxwellii_Philantomba     Maxwell's Duiker          LC        D        
+188      186      monticola_Philantomba     Blue Duiker               LC        S        
+189      153      batesi_Neotragus          Bates' Pygmy Antelope     LC        S        
+193      192      sharpei_Raphicerus        Sharpe's Grysbok          LC        S        
+194      192      campestris_Raphicerus     Steenbok                  LC        S        
+195      191      melanotis_Raphicerus      Cape Grysbok              LC        S        
+196      190      megalotis_Dorcatragus     Beira                     VU        D        
+197      151      ourebi_Ourebia            Oribi                     LC        D        
+201      200      przewalskii_Procapra      Przewalski's Gazelle      EN        D        
+202      200      gutturosa_Procapra        Mongolian Gazelle         LC        U        
+203      199      picticaudata_Procapra     Goa                       NT        D        
+204      198      melampus_Aepyceros        Impala                    LC        S        

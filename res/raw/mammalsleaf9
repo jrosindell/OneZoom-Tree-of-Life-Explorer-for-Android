@@ -1,0 +1,110 @@
+index    parent   name                      common                    redlist   popstab  
+13       12       recifinus_Platyrrhinus    Recife Broad-nosed Bat    LC        U        
+14       12       infuscus_Platyrrhinus     Buffy Broad-nosed Bat     LC        U        
+15       11       dorsalis_Platyrrhinus     Thomas's Broad-nosed Bat  LC        U        
+17       16       umbratus_Platyrrhinus     Shadowy Broad-nosed Bat   DD        U        
+18       16       vittatus_Platyrrhinus     Greater Broad-nosed Bat   LC        U        
+21       20       helleri_Platyrrhinus      Heller's Broad-nosed Bat  LC        S        
+22       20       chocoensis_Platyrrhinus   Choco Broad-nosed Bat     EN        D        
+23       19       aurarius_Platyrrhinus     Eldorado Broad-nosed Bat  LC        S        
+25       24       brachycephalus_Platyrrhinus  Short-headed Broad-nosed Bat  LC        S        
+26       24       lineatus_Platyrrhinus     White-lined Bat           LC        S        
+27       7        caraccioli_Vampyrodes     Great Stripe-faced Bat    LC        U        
+29       28       magnirostrum_Uroderma     Brown Tent-making Bat     LC        S        
+30       28       bilobatum_Uroderma        Tent-maiking Bat          LC        S        
+37       36       thyone_Vampyressa         Northern Little Yellow-eared Bat  LC        U        
+38       36       pusilla_Vampyressa        Little Yellow-eared Bat   DD        U        
+39       35       melissa_Vampyressa        Melissa's Yellow-eared Bat  VU        S        
+42       41       nymphaea_Vampyressa       Striped Yellow-eared Bat  LC        U        
+43       41       brocki_Vampyressa         Brock's Yellow-eared Bat  LC        U        
+44       40       bidens_Vampyressa         Bedentate Yellow-eared Bat  LC        U        
+45       33       macconnelli_Mesophylla    Macconnell's Bat          LC        U        
+46       32       alba_Ectophylla           Honduran White Bat        NT        D        
+50       49       improvisum_Chiroderma     Guadeloupean Big-eyed Bat  VU        U        
+51       49       villosum_Chiroderma       Hairy Big-eyed Bat        LC        S        
+53       52       trinitatum_Chiroderma     Little Big-eyed Bat       LC        U        
+54       52       doriae_Chiroderma         Brazilian Big-eyed Bat    LC        U        
+55       47       salvini_Chiroderma        Salvin's Big-eyed Bat     LC        S        
+64       63       inopinatus_Artibeus       Honduran Fruit-eating Bat  DD        U        
+65       63       hirsutus_Artibeus         Hairy Fruit-eating Bat    LC        S        
+66       62       fraterculus_Artibeus      Fraternal Fruit-eating Bat  LC        D        
+69       68       jamaicensis_Artibeus      Jamaican Fruit-eating Bat  LC        S        
+70       68       lituratus_Artibeus        Great Fruit-eating Bat    LC        S        
+71       67       obscurus_Artibeus         Dark Fruit-eating Bat     LC        U        
+72       60       amplus_Artibeus           Large Fruit-eating Bat    LC        U        
+73       59       fimbriatus_Artibeus       Fringed Fruit-eating Bat  LC        S        
+74       58       concolor_Artibeus         Brown Fruit-eating Bat    LC        S        
+81       80       watsoni_Artibeus          Thomas's Fruit-eating Bat  LC        S        
+82       80       glaucus_Artibeus          Silver Fruit-eating Bat   LC        U        
+83       79       gnomus_Artibeus           Dwarf Fruit-eating Bat    LC        U        
+84       78       anderseni_Artibeus        Andersen's Fruit-eating Bat  LC        U        
+85       77       cinereus_Artibeus         Gervais's Fruit-eating Bat  LC        U        
+86       76       toltecus_Artibeus         Toltec Fruit-eating Bat   LC        U        
+88       87       phaeotis_Artibeus         Pygmy Fruit-eating Bat    LC        S        
+89       87       aztecus_Artibeus          Aztec Fruit-eating Bat    LC        U        
+90       56       hartii_Enchisthenes       Velvety Fruit-eating Bat  LC        U        
+95       94       falcatus_Phyllops         Cuban Fig-eating Bat      LC        S        
+96       94       rufum_Stenoderma          Red Fruit Bat             VU        U        
+98       97       flavescens_Ariteus        Jamaican Fig-eating Bat   LC        U        
+99       97       nichollsi_Ardops          Tree Bat                  LC        U        
+101      100      centurio_Ametrida         Little White-shouldered Bat  LC        U        
+102      100      toxophyllum_Sphaeronycteris  Visored Bat               DD        U        
+104      103      bilabiatum_Pygoderma      Ipanema Bat               LC        U        
+105      103      senex_Centurio            Wrinkle-faced Bat         LC        S        
+112      111      oporaphilum_Sturnira      Tschudi's Yellow-shouldered Bat  NT        U        
+113      111      bogotensis_Sturnira       Bogota Yellow-shouldered Bat  LC        U        
+114      110      magna_Sturnira            Greater Yellow-shouldered Bat  LC        S        
+117      116      thomasi_Sturnira          Thomas's Yellow-shouldered Bat  VU        D        
+118      116      tildae_Sturnira           Tilda Yellow-shouldered Bat  LC        S        
+119      115      mordax_Sturnira           Talamancan Yellow-shouldered Bat  NT        S        
+122      121      ludovici_Sturnira         Highland Yellow-shouldered Bat  LC        U        
+123      121      erythromos_Sturnira       Hairy Yellow-shouldered Bat  LC        S        
+124      120      luisi_Sturnira            Louis's Yellow-shouldered Bat  LC        U        
+126      125      aratathomasi_Sturnira     Aratathomas's Yellow shouldered Bat  NT        U        
+127      125      lilium_Sturnira           Little Yellow-shouldered Bat  LC        S        
+129      128      bidens_Sturnira           Bidentate Yellow-shouldered Bat  LC        U        
+130      128      nana_Sturnira             Lesser Yellow-shouldered Bat  EN        U        
+134      133      perspicillata_Carollia    Seba's Short-tailed Bat   LC        S        
+135      133      brevicauda_Carollia       Silky Short-tailed Bat    LC        S        
+137      136      castanea_Carollia         Chestnut Short-tailed Bat  LC        S        
+138      136      subrufa_Carollia          Gray Short-tailed Bat     LC        S        
+141      140      fischerae_Rhinophylla     Fischer's Little Fruit Bat  LC        S        
+142      140      alethina_Rhinophylla      Hairy Little Fruit Bat    NT        U        
+143      139      pumilio_Rhinophylla       Dwarf Little Fruit Bat    LC        U        
+152      151      periosus_Choeroniscus     Greater Long-tailed Bat   VU        U        
+153      151      minor_Choeroniscus        Lesser Long-tailed Bat    LC        U        
+154      150      godmani_Choeroniscus      Godman's Long-tailed Bat  LC        U        
+156      155      mexicana_Choeronycteris   Mexican Long-tongued Bat  NT        U        
+157      155      harrisoni_Musonycteris    Banana Bat                VU        D        
+160      159      underwoodi_Hylonycteris   Underwood's Long-tongued Bat  LC        S        
+161      159      obscura_Lichonycteris     Dark Long-tongued Bat     LC        U        
+162      158      ega_Scleronycteris        Ega Long-tongued Bat      LC        D        
+166      165      latidens_Anoura           Broad-toothed Tailless Bat  LC        S        
+167      165      cultrata_Anoura           Handley's Tailless Bat    NT        D        
+168      164      caudifer_Anoura           Tailed Tailless Bat       LC        U        
+169      163      geoffroyi_Anoura          Geoffroy's Tailless Bat   LC        S        
+176      175      morenoi_Glossophaga       Western Long-tongued Bat  LC        S        
+177      175      leachii_Glossophaga       Gray Long-tongued Bat     LC        S        
+178      174      longirostris_Glossophaga  Miller's Long-tongued Bat  DD        U        
+179      173      soricina_Glossophaga      Pallas's Long-tongued Bat  LC        S        
+180      172      commissarisi_Glossophaga  Commissaris's Long-tongued Bat  LC        S        
+182      181      plethodon_Monophyllus     Insular Single-leaf Bat   LC        U        
+183      181      redmani_Monophyllus       Leach's Single-leaf Bat   LC        S        
+186      185      curasoae_Leptonycteris    Curacaoan Long-nosed Bat  VU        D        
+187      185      yerbabuenae_Leptonycteris  Lesser Long-nosed Bat     VU        D        
+188      184      nivalis_Leptonycteris     Greater Long-nosed Bat    EN        D        
+195      194      handleyi_Lonchophylla     Handley's Nectar Bat      LC        U        
+196      194      robusta_Lonchophylla      Orange Nectar Bat         LC        U        
+197      193      hesperia_Lonchophylla     Western Nectar Bat        VU        D        
+199      198      bokermanni_Lonchophylla   Bokermann's Nectar Bat    DD        U        
+200      198      mordax_Lonchophylla       Goldman' Nectar Bat       LC        U        
+202      201      dekeyseri_Lonchophylla    Dekeyser's Nectar Bat     NT        U        
+203      201      thomasi_Lonchophylla      Thomas's Nectar Bat       LC        U        
+204      190      spurrelli_Lionycteris     Chestnut Long-tongued Bat  LC        U        
+205      189      genovensium_Platalina     Long-snouted Bat          NT        U        
+209      208      aphylla_Phyllonycteris    Jamaican Flower Bat       LC        S        
+210      208      poeyi_Phyllonycteris      Cuban Flower Bat          LC        U        
+212      211      bombifrons_Erophylla      Brown Flower Bat          LC        S        
+213      211      sezekorni_Erophylla       Buffy Flower Bat          LC        U        
+215      214      cavernarum_Brachyphylla   Antillean Fruit-eating Bat  LC        U        
+216      214      nana_Brachyphylla         Cuban Fruit-eating Bat    LC        S        

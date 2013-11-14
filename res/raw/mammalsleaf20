@@ -1,0 +1,129 @@
+index    parent   name                      common                    redlist   popstab  
+18       17       cachinus_Eothenomys       Kachin Red-backed Vole    LC        U        
+19       17       melanogaster_Eothenomys   Pere David's Vole         LC        S        
+20       16       miletus_Eothenomys        Yunnan Red-backed Vole    LC        U        
+22       21       chinensis_Eothenomys      Sichuan Red-backed Vole   LC        U        
+23       21       wardi_Eothenomys          Ward's Red-backed Vole    NT        U        
+24       14       regulus_Myodes            Southern Red-backed Vole  LC        S        
+26       25       proditor_Eothenomys       Yulongxuen Red-backed Vole  LC        U        
+27       25       eva_Caryomys              Eva's Red-backed Vole     LC        U        
+28       12       custos_Eothenomys         Southwest China Red-backed Vole  LC        U        
+31       30       shanseius_Myodes          Shanxi Red-backed Vole    LC        U        
+32       30       inez_Caryomys             Inez's Red-backed Vole    LC        U        
+33       29       olitor_Eothenomys         Black-eared Red-backed Vole  LC        U        
+36       35       andersoni_Myodes          Anderson's Red-backed Vole  LC        S        
+37       35       imaizumii_Myodes                                    NE        U        
+38       34       smithii_Myodes            Smith's Red-backed Vole   LC        S        
+43       42       rufocanus_Myodes          Grey Red-backed Vole      LC        D        
+44       42       rex_Myodes                Hokkaido Red-backed Vole  LC        S        
+45       41       californicus_Myodes       Western Red-backed Vole   LC        S        
+47       46       gapperi_Myodes            Revillagigedo Island Red-backed Vole  LC        S        
+48       46       glareolus_Myodes          Bank Vole                 LC        S        
+50       49       centralis_Myodes          Tien Shan Red-backed Vole  LC        U        
+51       49       rutilus_Myodes            Northern Red-backed Vole  LC        U        
+60       59       stoliczkanus_Alticola     Stoliczka's Mountain Vole  LC        U        
+61       59       albicaudus_Alticola       White-tailed Mountain Vole  DD        U        
+63       62       olchonensis_Alticola      Olkhon Mountain Vole      DD        U        
+64       62       tuvinicus_Alticola        Tuva Silver Vole          LC        U        
+66       65       barakshin_Alticola        Gobi Altai Mountain Vole  LC        U        
+67       65       montosa_Alticola          Central Kashmir Vole      VU        D        
+68       56       argentatus_Alticola       Silver Mountain Vole      LC        U        
+69       55       roylei_Alticola           Royle's Mountain Vole     NT        D        
+71       70       semicanus_Alticola        Mongolian Silver Vole     LC        U        
+72       70       macrotis_Alticola         Large-eared Vole          LC        U        
+73       53       lemminus_Alticola         Lemming Vole              LC        U        
+74       52       strelzowi_Alticola        Flat-headed Vole          LC        U        
+76       75       fertilis_Hyperacrius      Burrowing Vole            VU        U        
+77       75       wynnei_Hyperacrius        Murree Vole               LC        U        
+78       6        bogdanovi_Dinaromys       Balkan Snow Vole          VU        D        
+79       5        bedfordi_Proedromys       Duke Of Bedford's Vole    VU        D        
+84       83       przewalskii_Eolagurus     Przewalski's Steppe Lemming  LC        U        
+85       83       luteus_Eolagurus          Yellow Steppe Lemming     LC        U        
+86       82       lagurus_Lagurus           Steppe Lemming            LC        S        
+89       88       amphibius_Arvicola        Eurasian Water Vole       LC        S        
+90       88       scherman_Arvicola                                   LC        S        
+91       87       sapidus_Arvicola          Southern Water Vole       VU        D        
+92       80       curtatus_Lemmiscus        Sagebrush Vole            LC        S        
+96       95       fontanierii_Eospalax      Chinese Zokor             LC        U        
+97       95       smithii_Eospalax          Smith's Zokor             LC        U        
+98       94       rothschildi_Eospalax      Rothschild's Zokor        LC        U        
+101      100      psilurus_Myospalax        Transbaikal Zokor         LC        S        
+102      100      myospalax_Myospalax       Siberian Zokor            LC        U        
+103      99       aspalax_Myospalax         False Zokor               LC        U        
+104      1        rousseloti_Dendroprionomys  Velvet African Climbing Mouse  DD        U        
+115      114      penicillatus_Eliurus      White-tipped Tuft-tailed Rat  EN        U        
+116      114      tanala_Eliurus            Tanala Tuft-tailed Rat    LC        U        
+118      117      myoxinus_Eliurus          Western Tuft-tailed Rat   LC        U        
+119      117      minor_Eliurus             Lesser Tufted-tailed Rat  LC        U        
+121      120      majori_Eliurus            Major's Tufted-tailed Rat  LC        U        
+122      120      webbi_Eliurus             Webb's Tuft-tailed Rat    LC        U        
+123      111      roberti_Gymnuromys                                  LC        U        
+125      124      albicauda_Brachytarsomys  White-tailed Tree Rat     LC        U        
+126      124      villosa_Brachytarsomys    Hairy-tailed Tree Rat     EN        U        
+128      127      ingens_Macrotarsomys      Long-tailed Big-footed Mouse  EN        D        
+129      127      bastardi_Macrotarsomys    Western Big-footed Mouse  LC        S        
+134      133      lambertoni_Nesomys        Lowland Red Forest Rat    EN        U        
+135      133      audeberti_Nesomys         Lowland Red Forest Rat    LC        D        
+136      132      rufus_Nesomys             Eastern Red Forest Rat    LC        U        
+138      137      betsileoensis_Brachyuromys  Betsileo Short-tailed Rat  LC        U        
+139      137      ramirohitra_Brachyuromys  Gregarious Short-tailed Rat  LC        U        
+140      130      antimena_Hypogeomys       Malagasy Giant Jumping Rat  EN        D        
+142      141      lasiurus_Platacanthomys   Malabar Spiny Dormouse    VU        D        
+143      141      cinereus_Typhlomys        Sort-furred Tree Mouse    LC        D        
+149      148      longicaudatus_Cricetulus  Long-tailed Dwarf Hamster  LC        U        
+150      148      barabensis_Cricetulus     Striped Dwarf Hamster     LC        U        
+152      151      migratorius_Cricetulus    Gray Dwarf Hamster        LC        U        
+153      151      kamensis_Cricetulus       Kam Dwarf Hamster         LC        U        
+155      154      sokolovi_Cricetulus       Sokolov's Dwarf Hamster   LC        U        
+156      154      alticola_Cricetulus       Ladakh Hamster            LC        U        
+159      158      eversmanni_Allocricetulus  Eversmann's Hamster       LC        U        
+160      158      curtatus_Allocricetulus   Mongolian Hamster         LC        U        
+161      157      cricetus_Cricetus         Black-bellied Hamster     LC        D        
+167      166      raddei_Mesocricetus       Ciscaucasian Hamster      LC        S        
+168      166      auratus_Mesocricetus      Golden Hamster            VU        D        
+170      169      brandti_Mesocricetus      Brandt's Hamster          NT        D        
+171      169      newtoni_Mesocricetus      Romanian Hamster          NT        D        
+174      173      campbelli_Phodopus        Campbell's Hamster        LC        S        
+175      173      roborovskii_Phodopus      Desert Hamster            LC        S        
+176      172      sungorus_Phodopus         Dzhungarian Hamster       LC        U        
+177      163      triton_Tscherskia         Greater Long-tailed Hamster  LC        U        
+178      162      canus_Cansumys            Gansu Hamster             LC        U        
+187      186      splendens_Tachyoryctes    East African Mole Rat     LC        S        
+188      186      ibeanus_Tachyoryctes                                NE        U        
+189      185      macrocephalus_Tachyoryctes  Big-headed Mole Rat       EN        D        
+191      190      naivashae_Tachyoryctes                              NE        U        
+192      190      daemon_Tachyoryctes                                 NE        U        
+194      193      spalacinus_Tachyoryctes                             NE        U        
+195      193      annectens_Tachyoryctes                              NE        U        
+199      198      ruandae_Tachyoryctes                                NE        U        
+200      198      rex_Tachyoryctes                                    NE        U        
+201      197      ruddi_Tachyoryctes                                  NE        U        
+203      202      ankoliae_Tachyoryctes                               NE        U        
+204      202      audax_Tachyoryctes                                  NE        U        
+208      207      sumatrensis_Rhizomys      Indomalayan Bamboo Rat    LC        U        
+209      207      pruinosus_Rhizomys        Hoary Bamboo Rat          LC        S        
+210      206      sinensis_Rhizomys         Chinese Bamboo Rat        LC        U        
+211      205      badius_Cannomys           Bay Bamboo Rat            LC        U        
+216      215      insignis_Dendromus        Montane African Climbing Mouse  LC        S        
+217      215      oreas_Dendromus           Cameroon Climbing Mouse   VU        U        
+218      214      mesomelas_Dendromus       Brant's Climbing Mouse    LC        S        
+221      220      vernayi_Dendromus         Vernay's Climbing Mouse   DD        U        
+222      220      nyasae_Dendromus                                    NE        U        
+223      219      kahuziensis_Dendromus     Mount Kahuzi African Climbing Mouse  CR        D        
+227      226      mystacalis_Dendromus      Chestnut Climbing Mouse   LC        S        
+228      226      messorius_Dendromus       Banana Climbing Mouse     LC        S        
+230      229      melanotis_Dendromus       Gray African Climbing Mouse  LC        S        
+231      229      leucostomus_Dendromus                               NE        U        
+233      232      lovati_Dendromus          Lovat's African Climbing Mouse  LC        D        
+234      232      nyikae_Dendromus          Nyika Climbing Mouse      LC        U        
+243      242      pratensis_Steatomys       Fat Mouse                 LC        S        
+244      242      opimus_Steatomys                                    LC        U        
+245      241      bocagei_Steatomys                                   LC        U        
+247      246      caurinus_Steatomys        Northwestern Fat Mouse    LC        S        
+248      246      jacksoni_Steatomys        Jackson's Fat Mouse       DD        U        
+249      239      cuppedius_Steatomys       Dainty Fat Mouse          LC        S        
+251      250      krebsii_Steatomys         Kreb's Fat Mouse          LC        S        
+252      250      parvus_Steatomys          Tiny Fat Mouse            LC        S        
+253      237      buettneri_Leimacomys      Groove-toothed Forest Mouse  DD        U        
+254      236      imhausi_Lophiomys         Crested Rat               LC        S        
+255      235      typica_Malacothrix        Gerbil Mouse              LC        S        

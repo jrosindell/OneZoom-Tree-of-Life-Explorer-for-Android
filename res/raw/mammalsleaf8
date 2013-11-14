@@ -1,0 +1,168 @@
+index    parent   name                      common                    redlist   popstab  
+19       18       intectus_Handleyomys      Colombian Rice Rat        LC        D        
+20       18       talamancae_Oryzomys                                 NE        U        
+21       17       subflavus_Oryzomys                                  NE        U        
+23       22       chapmani_Oryzomys                                   NE        U        
+24       22       levipes_Oryzomys                                    NE        U        
+27       26       saturatior_Oryzomys                                 NE        U        
+28       26       devius_Oryzomys                                     NE        U        
+29       25       xanthaeolus_Oryzomys                                NE        U        
+32       31       gorgasi_Oryzomys          Gorgas's Rice Rat         EN        D        
+33       31       bolivaris_Oryzomys                                  NE        U        
+35       34       yunganus_Oryzomys                                   NE        U        
+36       34       laticeps_Oryzomys                                   NE        U        
+39       38       macconnelli_Oryzomys                                NE        U        
+40       38       nitidus_Oryzomys                                    NE        U        
+41       37       alfaroi_Oryzomys                                    NE        U        
+48       47       albigularis_Oryzomys                                NE        U        
+49       47       meridensis_Oryzomys                                 NE        U        
+50       46       caracolus_Oryzomys                                  NE        U        
+51       45       hammondi_Oryzomys                                   NE        U        
+52       44       palustris_Oryzomys        Marsh Rice Rat            LC        S        
+53       43       russatus_Oryzomys                                   NE        U        
+55       54       melanotis_Oryzomys                                  NE        U        
+56       54       rhabdops_Oryzomys                                   NE        U        
+60       59       galapagoensis_Oryzomys                              NE        U        
+61       59       legatus_Oryzomys                                    NE        U        
+63       62       auriventer_Oryzomys                                 NE        U        
+64       62       angouya_Oryzomys                                    NE        U        
+67       66       balneator_Oryzomys                                  NE        U        
+68       66       lamia_Oryzomys                                      NE        U        
+69       65       dimidiatus_Oryzomys       Thomas's Rice Rat         LC        U        
+73       72       megacephalus_Oryzomys                               NE        U        
+74       72       perenensis_Oryzomys                                 NE        U        
+75       71       rostratus_Oryzomys                                  NE        U        
+76       70       couesi_Oryzomys           Coues's Rice Rat          LC        U        
+78       77       polius_Oryzomys                                     NE        U        
+79       77       keaysi_Oryzomys                                     NE        U        
+83       82       chinchilloides_Euneomys   Patagonian Chincilla Mouse  DD        U        
+84       82       mordax_Euneomys           Biting Chincilla Mouse    LC        S        
+85       81       petersoni_Euneomys        Peterson's Chincilla Mouse  LC        S        
+86       80       fossor_Euneomys           Burrowing Euneomys        DD        U        
+93       92       flavicans_Oecomys         Yellow Arboreal Rice Rat  LC        S        
+94       92       roberti_Oecomys           Robert's Arboreal Rice Rat  LC        U        
+95       91       rutilus_Oecomys           Red Arboreal Rice Rat     LC        U        
+96       90       concolor_Oecomys          Unicolored Rice Rat       LC        U        
+99       98       paricola_Oecomys          Brazilian Arboreal Rice Rat  DD        D        
+100      98       auyantepui_Oecomys                                  LC        U        
+101      97       cleberi_Oecomys           Cleber's Arboreal Rice Rat  DD        D        
+104      103      trinitatis_Oecomys        Long-furred Rice Rat      LC        S        
+105      103      catherinae_Oecomys                                  LC        D        
+106      102      phaeotis_Oecomys          Dusky Arboreal Rice Rat   LC        S        
+111      110      mamorae_Oecomys           Mamore Arboreal Rice Rat  LC        S        
+112      110      rex_Oecomys               King Arboreal Rice Rat    LC        S        
+113      109      superans_Oecomys          Foothill Arboreal Rice Rat  LC        S        
+114      108      speciosus_Oecomys         Arboreal Rice Rat         LC        S        
+115      107      bicolor_Oecomys           Bicolored Arboreal Rice Rat  LC        U        
+118      117      brevicauda_Zygodontomys   Short-tailed Cane Mouse   LC        S        
+119      117      brunneus_Zygodontomys     Brown Cane Mouse          LC        S        
+120      116      ruschii_Abrawayaomys      Rushi's Rat               LC        U        
+125      124      molitor_Lundomys          Lund's Amphibious Rat     LC        D        
+126      124      chacarius_Holochilus      Chaco Marsh Rat           LC        D        
+127      123      sciureus_Holochilus       Marsh Rat                 LC        S        
+128      122      brasiliensis_Holochilus   Web-footed Marsh Rat      LC        S        
+129      121      simplex_Pseudoryzomys     Brazilian False Rice Rat  LC        U        
+130      3        roraimae_Podoxymys        Roraima Mouse             VU        U        
+131      2        tarsalis_Irenomys         Chilean Climbing Mouse    LC        S        
+141      140      destructor_Oligoryzomys   Destructive Pygmy Rice Rat  LC        S        
+142      140      andinus_Oligoryzomys      Andean Pygmy Rice Rat     LC        S        
+143      139      flavescens_Oligoryzomys   Yellow Pygmy Rice Rat     LC        S        
+144      138      chacoensis_Oligoryzomys   Chacoan Pygmy Rice Rat    LC        S        
+146      145      nigripes_Oligoryzomys     Black-footed Pygmy Rice Rat  LC        S        
+147      145      arenalis_Oligoryzomys     Sandy Pygmy Rice Rat      LC        D        
+150      149      longicaudatus_Oligoryzomys  Long-tailed Pygmy Rice Rat  LC        S        
+151      149      fulvescens_Oligoryzomys   Fulvous Pygmy Rice Rat    LC        S        
+153      152      victus_Oligoryzomys       St Vincent Pygmy Rice Rat  EX        U        
+154      152      eliurus_Oligoryzomys      Brazilian Pygmy Rice Rat  LC        D        
+156      155      vegetus_Oligoryzomys      Sprightly Pygmy Rice Rat  LC        S        
+157      155      griseolus_Oligoryzomys    Grayish Pygmy Rice Rat    LC        D        
+161      160      microtis_Oligoryzomys     Small-eared Pygmy Rice Rat  LC        S        
+162      160      fornesi_Oligoryzomys      Fornes' Colilargo         LC        D        
+163      159      magellanicus_Oligoryzomys  Magellanic Pygmy Rice Rat  LC        S        
+164      158      delticola_Oligoryzomys    Delta Pygmy Rice Rat      LC        S        
+165      133      candango_Juscelinomys     Candango Mouse            EX        U        
+170      169      oenax_Wilfredomys         Greater Wilfred's Mouse   EN        D        
+171      169      pictipes_Juliomys         Lesser Wilfred's Mouse    LC        U        
+172      168      instans_Chilomys          Colombian Forest Mouse    LC        S        
+175      174      auritus_Reithrodon        Bunny Rat                 LC        S        
+176      174      typicus_Reithrodon                                  LC        S        
+177      173      edwardsii_Notiomys        Edwards's Long-clawed Mouse  LC        S        
+178      166      sahamae_Chinchillula      Altiplano Chincilla Mouse  LC        S        
+193      192      caprinus_Phyllotis        Capricorn Leaf-eared Mouse  LC        S        
+194      192      osgoodi_Phyllotis         Osgood's Leaf-eared Mouse  DD        U        
+196      195      gerbillus_Paralomys       Gerbil Leaf-eared Mouse   LC        S        
+197      195      amicus_Phyllotis          Friendly Leaf-eared Mouse  LC        S        
+200      199      xanthopygus_Phyllotis     Yellow-rumped Leaf-eared Mouse  LC        S        
+201      199      andium_Phyllotis          Andean Leaf-eared Mouse   LC        S        
+203      202      darwini_Phyllotis         Darwin's Leaf-eared Mouse  LC        S        
+204      202      limatus_Phyllotis                                   LC        S        
+205      189      definitus_Phyllotis       Definitive Leaf-eared Mouse  EN        D        
+206      188      bonariensis_Phyllotis     Buenos Aires Leaf-eared Mouse  NT        D        
+210      209      haggardi_Phyllotis        Haggard's Leaf-eared Mouse  LC        S        
+211      209      magister_Phyllotis        Master Leaf-eared Mouse   LC        S        
+212      208      wolffsohni_Phyllotis      Wolffsohn's Leaf-eared Mouse  LC        S        
+213      207      osilae_Phyllotis          Bunchgrass Leaf-eared Mouse  LC        S        
+216      215      boliviensis_Auliscomys    Bolivian Big-eared Mouse  LC        S        
+217      215      pictus_Auliscomys         Painted Big-eared Mouse   LC        S        
+219      218      sublimis_Auliscomys       Andean Big-eared Mouse    LC        S        
+220      218      micropus_Loxodontomys     Southern Pericote         LC        S        
+222      221      pearsoni_Andalgalomys     Pearson's Chaco Mouse     LC        S        
+223      221      olrogi_Andalgalomys       Olrog's Chaco Mouse       LC        U        
+227      226      griseoflavus_Graomys      Gray Leaf-eared Mouse     LC        S        
+228      226      centralis_Graomys                                   DD        U        
+229      225      edithae_Graomys           Edith's Leaf-eared Mouse  DD        U        
+230      224      domorum_Graomys           Pale Leaf-eared Mouse     LC        S        
+231      183      rufescens_Rhagomys        Brazilian Arboreal Mouse  NT        D        
+239      238      torresi_Bibimys           Torres's Crimson-nosed Rat  NT        D        
+240      238      chacoensis_Bibimys        Chaco Crimson-nosed Rat   LC        S        
+241      237      labiosus_Bibimys          Large-lipped Crimson-nosed Rat  LC        D        
+243      242      tomentosus_Kunsia         Woolly Giant Rat          LC        D        
+244      242      fronto_Kunsia             Fossorial Giant Rat       EN        D        
+246      245      tumidus_Scapteromys       Swamp Rat                 LC        S        
+247      245      aquaticus_Scapteromys                               LC        S        
+250      249      megalonyx_Chelemys        Large Long-clawed Mouse   NT        D        
+251      249      delfini_Chelemys                                    DD        U        
+252      248      macronyx_Chelemys         Andean Long-clawed Mouse  LC        U        
+255      254      fernandinae_Nesoryzomys   Fernandina Galapagos Mouse  VU        U        
+256      254      swarthi_Nesoryzomys       Santiago Galapagos Mouse  VU        U        
+257      253      indefessus_Nesoryzomys    Indefatigable Galapagos Mouse  EX        U        
+259      258      aphrastus_Sigmodontomys   Harris's Rice Water Rat   DD        U        
+260      258      alfari_Sigmodontomys      Alfaro's Rice Water Rat   LC        S        
+262      261      melanops_Scolomys         South American Spiny Mouse  LC        U        
+263      261      ucayalensis_Scolomys      Ucayali Spiny Mouse       LC        U        
+272      271      macrurus_Rhipidomys                                 LC        U        
+273      271      emiliae_Rhipidomys                                  LC        U        
+274      270      mastacalis_Rhipidomys     Long-tailed Climbing Mouse  LC        U        
+275      269      caucensis_Rhipidomys      Cauca Climbing Mouse      DD        U        
+278      277      venustus_Rhipidomys       Charming Climbing Mouse   LC        U        
+279      277      wetzeli_Rhipidomys        Wetzel's Climbing Mouse   LC        S        
+280      276      austrinus_Rhipidomys      Southern Climbing Mouse   LC        S        
+282      281      ochrogaster_Rhipidomys    Yellow-bellied Climbing Mouse  DD        U        
+283      281      leucodactylus_Rhipidomys  White-footed Climbing Mouse  LC        U        
+284      266      venezuelae_Rhipidomys     Venezuelan Climbing Mouse  LC        S        
+289      288      couesi_Rhipidomys         Coues's Climbing Mouse    LC        S        
+290      288      modicus_Rhipidomys                                  NT        D        
+291      287      macconnelli_Rhipidomys    Macconnell's Climbing Mouse  LC        S        
+292      286      fulviventer_Rhipidomys    Buff-bellied Climbing Mouse  LC        U        
+294      293      latimanus_Rhipidomys      Broad-footed Climbing Mouse  LC        D        
+295      293      nitela_Rhipidomys         Splendid Climbing Mouse   LC        S        
+303      302      squamipes_Nectomys        South American Water Rat  LC        U        
+304      302      magdalenae_Nectomys                                 DD        U        
+305      301      apicalis_Nectomys                                   LC        S        
+306      300      palmipes_Nectomys         Trinidad Water Rat        LC        U        
+307      299      rattus_Nectomys           Amazonian Mouse           LC        S        
+310      309      dorsalis_Delomys          Striped Atlantic Forest Rat  LC        D        
+311      309      collinus_Delomys          Montane Delomys           LC        D        
+312      308      sublineatus_Delomys       Pallid Atlantic Forest Rat  LC        U        
+314      313      garleppi_Galenomys        Gerlepp's Mouse           DD        U        
+315      313      lemminus_Punomys          Puna Mouse                VU        U        
+317      316      lasiotis_Thalpomys        Hairy-eared Cerrado Mouse  LC        U        
+318      316      cerradensis_Thalpomys     Cerrado Mouse             LC        U        
+323      322      lasiurus_Necromys         Hairy-tailed Bolo Mouse   LC        U        
+324      322      lenguarum_Necromys                                  LC        S        
+325      321      temchuki_Necromys         Temchuk's Bolo Mouse      LC        S        
+327      326      obscurus_Necromys         Dark Bolo Mouse           NT        D        
+328      326      benefactus_Necromys                                 LC        D        
+331      330      punctulatus_Necromys      Spotted Bolo Mouse        DD        U        
+332      330      amoenus_Necromys          Pleasant Bolo Mouse       LC        S        
+333      329      lactens_Necromys          Rufous-bellied Bolo Mouse  LC        D        

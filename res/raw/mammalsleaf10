@@ -1,0 +1,102 @@
+index    parent   name                      common                    redlist   popstab  
+14       13       dominicensis_Myotis       Dominican Myotis          VU        U        
+15       13       elegans_Myotis            Elegant Myotis            LC        U        
+16       12       findleyi_Myotis           Findley's Myotis          EN        D        
+18       17       martiniquensis_Myotis     Schwartz's Myotis         VU        U        
+19       17       nesopolus_Myotis          Curacao Myotis            LC        U        
+22       21       keaysi_Myotis             Hairy-legged Myotis       LC        U        
+23       21       nigricans_Myotis          Black Myotis              LC        S        
+25       24       atacamensis_Myotis        Atacama Myotis            NT        U        
+26       24       sodalis_Myotis            Indiana Bat               EN        D        
+28       27       oreias_Myotis             Singaporese Whiskered Myotis  DD        U        
+29       27       altarium_Myotis           Szechwan Myotis           LC        U        
+37       36       hajastanicus_Myotis       Armenian Myotis           CR        U        
+38       36       mystacinus_Myotis         Whiskered Myotis          LC        U        
+39       35       nipalensis_Myotis         Nepal Myotis              LC        U        
+40       34       davidii_Myotis            David's Myotis            LC        U        
+41       33       brandtii_Myotis           Brandt's Myotis           LC        S        
+42       32       insularum_Myotis          Insular Myotis            DD        U        
+44       43       bucharensis_Myotis        Bokhara Whiskered Bat     DD        U        
+45       43       frater_Myotis             Fraternal Myotis          DD        U        
+46       30       siligorensis_Myotis       Himalayan Whiskered Bat   LC        U        
+54       53       muricola_Myotis           Nepalese Whiskered Bat    LC        S        
+55       53       ater_Myotis               Peters's Myotis           LC        S        
+56       52       rosseti_Myotis            Thick-thumbed Myotis      LC        U        
+58       57       annectans_Myotis          Hairy-faced Bat           LC        U        
+59       57       ridleyi_Myotis            Ridley's Myotis           NT        D        
+60       50       australis_Myotis          Australian Myotis         DD        U        
+63       62       ikonnikovi_Myotis         Ikonnikov's Bat           LC        U        
+64       62       ozensis_Myotis                                      NE        U        
+66       65       yesoensis_Myotis                                    NE        U        
+67       65       hosonoi_Myotis                                      NE        U        
+68       48       scotti_Myotis             Scott's Mouse-eared Bat   VU        D        
+73       72       melanorhinus_Myotis       Dark-nosed Small-footed Myotis  LC        S        
+74       72       ciliolabrum_Myotis        Western Small-footed Myotis  LC        S        
+75       71       leibii_Myotis             Eastern Small-footed Myotis  LC        S        
+76       70       californicus_Myotis       California Myotis         LC        U        
+77       69       planiceps_Myotis          Flat-headed Myotis        EN        D        
+83       82       lucifugus_Myotis          Little Brown Bat          LC        S        
+84       82       occultus_Myotis           Arizona Myotis            LC        S        
+85       81       velifer_Myotis            Cave Myotis               LC        S        
+86       80       aelleni_Myotis            Southern Myotis           DD        U        
+87       79       fortidens_Myotis          Cinnamon Myotis           LC        U        
+89       88       volans_Myotis             Long-legged Myotis        LC        S        
+90       88       chiloensis_Myotis         Chilean Myotis            LC        U        
+96       95       fimbriatus_Myotis         Fringed Long-footed Myotis  LC        U        
+97       95       macrodactylus_Myotis      Big-footed Myotis         LC        U        
+98       94       longipes_Myotis           Kashmir Cave Bat          DD        U        
+101      100      daubentonii_Myotis        Daubenton's Myotis        LC        I        
+102      100      laniger_Myotis            Chinese Water Myotis      LC        U        
+103      99       pruinosus_Myotis          Frosted Myotis            EN        D        
+104      92       capaccinii_Myotis         Long-fingered Bat         VU        D        
+105      91       oxyotus_Myotis            Montane Myotis            LC        U        
+106      4        peninsularis_Myotis       Peninsular Myotis         EN        D        
+109      108      lesueuri_Cistugo          Lesueur's Hairy Bat       LC        D        
+110      108      seabrae_Cistugo           Angolan Hairy Bat         LC        U        
+111      107      levis_Myotis              Yellowish Myotis          LC        U        
+115      114      macrotarsus_Myotis        Pallid Large-footed Myotis  NT        D        
+116      114      stalkeri_Myotis           Stalker's Myotis          DD        U        
+117      113      vivesi_Myotis             Fish-eating Bat           VU        D        
+118      112      abei_Myotis                                         NE        U        
+120      119      aenobarbus_Nycticeius     Temminck's Mysterious Bat  DD        U        
+121      119      albescens_Myotis          Silver-tipped Myotis      LC        S        
+132      131      blythii_Myotis            LESSER MOUSE-EARED MYOTIS  LC        D        
+133      131      punicus_Myotis            Felten's Myotis           NT        D        
+134      130      oxygnathus_Myotis                                   NE        U        
+135      129      sicarius_Myotis           Mandelli's Mouse-eared Myotis  VU        U        
+136      128      chinensis_Myotis          Large Myotis              LC        U        
+137      127      myotis_Myotis             Greater Mouse-eared Bat   LC        S        
+141      140      bombinus_Myotis           Far Eastern Myotis        NT        D        
+142      140      nattereri_Myotis          Natterer's Bat            LC        S        
+144      143      thysanodes_Myotis         Fringed Myotis            LC        S        
+145      143      schaubi_Myotis            Schaub's Myotis           DD        U        
+146      138      pequinius_Myotis          Peking Myotis             LC        U        
+151      150      goudoti_Myotis            Malagasy Mouse-eared Bat  LC        U        
+152      150      anjouanensis_Myotis       Anjouan Myotis            DD        U        
+153      149      morrisi_Myotis            Morris's Bat              DD        U        
+154      148      tricolor_Myotis           Cape Hairy Bat            LC        U        
+155      147      emarginatus_Myotis        Geoffroy's Bat            LC        S        
+161      160      septentrionalis_Myotis    Northern Myotis           LC        S        
+162      160      keenii_Myotis             Keen's Myotis             LC        S        
+163      159      evotis_Myotis             Long-eared Myotis         LC        S        
+164      158      auriculus_Myotis          Southwestern Myotis       LC        U        
+165      157      bechsteinii_Myotis        BECHSTEIN'S MYOTIS        NT        D        
+168      167      hermani_Myotis            Herman's Myotis           DD        U        
+169      167      formosus_Myotis           Hodgson's Bat             LC        U        
+170      166      welwitschii_Myotis        Welwitch's Bat            LC        U        
+173      172      cobanensis_Myotis         Guatemalan Myotis         DD        U        
+174      172      yumanensis_Myotis         Yuma Myotis               LC        S        
+175      171      austroriparius_Myotis     Southeastern Myotis       LC        S        
+183      182      adversus_Myotis           Large-footed Myotis       LC        U        
+184      182      moluccarum_Myotis         Maluku Myotis             LC        U        
+185      181      macropus_Myotis           Large-footed Myotis       LC        U        
+186      180      bocagii_Myotis            Rufous Mouse-eared Bat    LC        U        
+188      187      hasseltii_Myotis          Lesser Large-footed Myotis  LC        U        
+189      187      horsfieldii_Myotis        Horsfield's Myotis        LC        S        
+192      191      simus_Myotis              Velvety Myotis            DD        U        
+193      191      ruber_Myotis              Red Myotis                NT        U        
+194      190      riparius_Myotis           Riparian Myotis           LC        S        
+197      196      grisescens_Myotis         Gray Myotis               NT        I        
+198      196      ricketti_Myotis                                     NE        U        
+199      195      dasycneme_Myotis          POND MYOTIS               NT        D        
+200      176      montivagus_Myotis         Burmese Whiskered Myotis  LC        U        

@@ -1,0 +1,179 @@
+index    parent   name                      common                    redlist   popstab  
+9        8        latifrons_Lasiorhinus     Southern Hairy-nosed Wombat  LC        U        
+10       8        krefftii_Lasiorhinus      Northern Hairy-nosed Wombat  CR        S        
+11       7        ursinus_Vombatus          Common Wombat             LC        S        
+12       6        cinereus_Phascolarctos    Koala                     LC        U        
+13       4        gliroides_Dromiciops      Monito Del Monte          NT        D        
+30       29       geoffroii_Dasyurus        Western Quoll             NT        S        
+31       29       spartacus_Dasyurus        Bronze Quoll              NT        U        
+32       28       albopunctatus_Dasyurus    New Guinea Quoll          NT        D        
+33       27       viverrinus_Dasyurus       Eastern Quoll             NT        S        
+34       26       maculatus_Dasyurus        Spotted-tailed Quoll      NT        D        
+35       25       hallucatus_Dasyurus       Northern Quoll            EN        D        
+36       24       harrisii_Sarcophilus      Tasmanian Devil           EN        D        
+39       38       dorsalis_Phascolosorex    Narrow-striped Dasyure    LC        S        
+40       38       doriae_Phascolosorex      Red-bellied Phascogale    LC        U        
+41       37       lorentzi_Neophascogale                              NE        U        
+42       22       bilarni_Pseudantechinus   Sandstone Pseudantechinus  NT        D        
+44       43       cristicauda_Dasycercus    Crest-tailed Mulgara      LC        S        
+45       43       byrnei_Dasyuroides        Kowari                    VU        D        
+48       47       macdonnellensis_Pseudantechinus  Fat-tailed Pseudantechinus  LC        U        
+49       47       mimulus_Pseudantechinus   Carpentarian Pseudantechinus  EN        D        
+50       46       woolleyae_Pseudantechinus  Woolley's Pseudantechinus  LC        U        
+52       51       apicalis_Parantechinus    Dibbler                   EN        D        
+53       51       rosamondae_Dasykaluta     Kaluta                    LC        U        
+56       55       melas_Myoictis            Three-striped Dasyure     LC        U        
+57       55       wallacii_Myoictis                                   NE        U        
+58       54       ningbing_Pseudantechinus  Ningbing Pseudantechinus  LC        U        
+66       65       flavipes_Antechinus       Yellow-footed Antechinus  LC        S        
+67       65       bellus_Antechinus         Fawn Antechinus           LC        S        
+68       64       leo_Antechinus            Cinnamon Antechinus       LC        S        
+70       69       stuartii_Antechinus       Brown Antechinus          LC        S        
+71       69       adustus_Antechinus        Rusty Antechinus          LC        D        
+72       62       godmani_Antechinus        Atherton Antechinus       NT        S        
+74       73       swainsonii_Antechinus     Dusky Antechinus          LC        U        
+75       73       minimus_Antechinus        Swamp Antechinus          LC        D        
+80       79       habbema_Micromurexia                                NE        U        
+81       79       naso_Phascomurexia                                  NE        U        
+82       78       longicaudata_Murexia      Short-furred Dasyure      LC        U        
+83       77       melanurus_Murexechinus                              NE        U        
+84       76       rothschildi_Paramurexia                             NE        U        
+86       85       tapoatafa_Phascogale      Brush-tailed Phascogale   NT        D        
+87       85       calura_Phascogale         Red-tailed Phascogale     NT        D        
+100      99       dolichura_Sminthopsis     Little Long-tailed Dunnart  LC        S        
+101      99       murina_Sminthopsis        Common Dunnart            LC        D        
+102      98       gilberti_Sminthopsis      Gilbert's Dunnart         LC        S        
+103      97       leucopus_Sminthopsis      White-footed Dunnart      VU        D        
+104      96       archeri_Sminthopsis       Chestnut Dunnart          DD        U        
+108      107      youngsoni_Sminthopsis     Lesser Hairy-footed Dunnart  LC        S        
+109      107      ooldea_Sminthopsis        Ooldea Dunnart            LC        U        
+110      106      psammophila_Sminthopsis   Sandhill Dunnart          EN        D        
+111      105      hirtipes_Sminthopsis      Hairy-footed Dunnart      LC        U        
+112      94       longicaudata_Sminthopsis  Long-tailed Dunnart       LC        U        
+113      93       granulipes_Sminthopsis    White-tailed Dunnart      LC        U        
+115      114      griseoventer_Sminthopsis  Grey-bellied Dunnart      LC        U        
+116      114      aitkeni_Sminthopsis       Kangaroo Island Dunnart   CR        D        
+121      120      douglasi_Sminthopsis      Julia Creek Dunnart       NT        D        
+122      120      butleri_Sminthopsis       Butler's Dunnart          VU        D        
+123      119      virginiae_Sminthopsis     Red-cheeked Dunnart       LC        S        
+124      118      macroura_Sminthopsis      Stripe-faced Dunnart      LC        U        
+125      117      crassicaudata_Sminthopsis  Fat-tailed Dunnart        LC        S        
+128      127      ridei_Ningaui             Wongai Ningaui            LC        S        
+129      127      yvonnae_Ningaui                                     NE        U        
+130      126      timealeyi_Ningaui         Pilbara Ningaui           LC        S        
+131      89       laniger_Antechinomys      Kultarr                   LC        D        
+136      135      ingrami_Planigale         Long-tailed Planigale     LC        S        
+137      135      gilesi_Planigale          Giles' Planigale          LC        U        
+138      134      novaeguineae_Planigale    Papuan Planigale          LC        U        
+139      133      tenuirostris_Planigale    Narrow-nosed Planigale    LC        S        
+140      132      maculata_Planigale        Common Planigale          LC        S        
+141      15       fasciatus_Myrmecobius     Numbat                    EN        D        
+143      142      caurinus_Notoryctes       Northern Marsupial Mole   DD        U        
+144      142      typhlops_Notoryctes       Marsupial Mole            DD        U        
+152      151      echinista_Echymipera      Menzies' Echymipera       DD        U        
+153      151      davidi_Echymipera         David's Echymipera        EN        U        
+154      150      clara_Echymipera          Clara's Echymipera        LC        U        
+156      155      rufescens_Echymipera      Long-nosed Echymipera     LC        D        
+157      155      kalubu_Echymipera         Common Echymipera         LC        S        
+161      160      raffrayana_Peroryctes     Raffray's Bandicoot       LC        U        
+162      160      broadbenti_Peroryctes     Giant Bandicoot           EN        D        
+163      159      papuensis_Microperoryctes  Papuan Bandicoot          LC        U        
+164      158      prattorum_Rhynchomeles    Seram Bandicoot           EN        U        
+166      165      longicauda_Microperoryctes  Striped Bandicoot         LC        U        
+167      165      murina_Microperoryctes    Mouse Bandicoot           DD        U        
+172      171      obesulus_Isoodon          Southern Brown Bandicoot  LC        D        
+173      171      auratus_Isoodon           Golden Bandicoot          VU        D        
+174      170      macrourus_Isoodon         Northern Brown Bandicoot  LC        S        
+175      169      bougainville_Perameles    Western Barred Bandicoot  EN        S        
+177      176      gunnii_Perameles          Eastern Barred Bandicoot  NT        D        
+178      176      nasuta_Perameles          Long-nosed Bandicoot      LC        U        
+179      145      lagotis_Macrotis          Bilby                     VU        D        
+184      183      caniventer_Caenolestes    Gray-bellied Shrew Opossum  NT        D        
+185      183      fuliginosus_Caenolestes   Silky Shrew Opossum       LC        U        
+186      182      convelatus_Caenolestes    Blackish Shrew Opossum    VU        D        
+187      181      raphanurus_Rhyncholestes  Chilean Caenolestid       NT        D        
+188      180      inca_Lestoros             Incan Shrew Opossum       LC        U        
+201      200      paulensis_Marmosops       Brazilian Slender Opossum  LC        U        
+202      200      incanus_Marmosops         Gray Slender Mouse Opossum  LC        U        
+203      199      handleyi_Marmosops        Handley's Slender Mouse Opossum  CR        D        
+205      204      impavidus_Marmosops       Andean Slender Mouse Opossum  LC        S        
+206      204      neblina_Marmosops                                   LC        S        
+207      197      cracens_Marmosops         Slim-faced Slender Mouse Opossum  DD        U        
+208      196      noctivagus_Marmosops      White-bellied Slender Mouse Opossum  LC        S        
+213      212      pinheiroi_Marmosops       Pinheiro's Slender Opossum  LC        U        
+214      212      bishopi_Marmosops                                   LC        U        
+215      211      parvidens_Marmosops       Delicate Slender Mouse Opossum  LC        U        
+216      210      juninensis_Marmosops                                VU        D        
+217      209      fuscatus_Marmosops        Gray-bellied Slender Mouse Opossum  DD        D        
+219      218      invictus_Marmosops        Slaty Slender Mouse Opossum  LC        S        
+220      218      dorothea_Marmosops                                  NE        U        
+226      225      agilis_Gracilinanus       Agile Gracile Mouse Opossum  LC        U        
+227      225      formosus_Gracilinanus                               NE        U        
+228      224      microtarsus_Gracilinanus  Brazilian Gracile Mouse Opossum  LC        U        
+229      223      aceramarcae_Gracilinanus  Aceramarca Gracile Mouse Opossum  LC        U        
+232      231      emiliae_Gracilinanus      Emilia's Gracile Mouse Opossum  DD        U        
+233      231      agricolai_Gracilinanus                              NE        U        
+234      230      marica_Gracilinanus       Northern Gracile Mouse Opossum  LC        D        
+235      221      dryas_Gracilinanus        Wood Sprite Gracile Mouse Opossum  NT        D        
+242      241      cinderella_Thylamys       Cinderella Fat-tailed Mouse Opossum  LC        U        
+243      241      sponsorius_Thylamys                                 LC        U        
+244      240      elegans_Thylamys          Elegant Fat-tailed Mouse Opossum  LC        D        
+246      245      venustus_Thylamys         Buff-bellied Fat-tailed Mouse Opossum  DD        U        
+247      245      tatei_Thylamys                                      DD        U        
+248      238      pallidior_Thylamys        Pallid Fat-tailed Opossum  LC        U        
+251      250      karimii_Thylamys          Karimi's Fat-tailed Mouse Opossum  VU        D        
+252      250      pusillus_Thylamys         Common Fat-tailed Mouse Opossum  LC        D        
+253      249      macrurus_Thylamys         Long-tailed Fat-tailed Opossum  NT        D        
+254      236      halli_Lestodelphys        Patagonian Opossum        LC        D        
+263      262      imperfecta_Didelphis      Guianan White-eared Opossum  LC        S        
+264      262      pernigra_Didelphis                                  LC        S        
+265      261      albiventris_Didelphis     White-eared Opossum       LC        S        
+267      266      marsupialis_Didelphis     Black-eared Opossum       LC        S        
+268      266      aurita_Didelphis          Big-eared Opossum         LC        S        
+269      259      virginiana_Didelphis      Virginia Opossum          LC        I        
+272      271      mcilhennyi_Philander      Mcilhenny's Four-eyed Opossum  LC        U        
+273      271      andersoni_Philander       Anderson's Four-eyed Opossum  LC        S        
+275      274      frenatus_Philander        Southeastern Four-eyed Opossum  LC        U        
+276      274      opossum_Philander         Gray Four-eyed Opossum    LC        S        
+277      257      crassicaudata_Lutreolina  Little Water Opossum      LC        U        
+278      256      minimus_Chironectes       Water Opossum             LC        D        
+279      255      nudicaudatus_Metachirus   Brown Four-eyed Opossum   LC        S        
+288      287      glirina_Monodelphis       Amazonian Red-sided Opossum  LC        U        
+289      287      palliolata_Monodelphis    Hooded Red-sided Opossum  LC        D        
+290      286      brevicaudata_Monodelphis  Northern Red-sided Opossum  LC        U        
+293      292      umbristriata_Monodelphis  Faint-striped Opossum     VU        D        
+294      292      rubida_Monodelphis        Chestnut-striped Opossum  DD        D        
+295      291      osgoodi_Monodelphis       Osgood's Short-tailed Opossum  LC        U        
+296      284      iheringi_Monodelphis      Ihering's Short-tailed Opossum  DD        D        
+300      299      theresa_Monodelphis       Southern Three-striped Opossum  DD        D        
+301      299      adusta_Monodelphis        Sepia Short-tailed Opossum  LC        S        
+302      298      sorex_Monodelphis         Hensel's Short-tailed Opossum  LC        D        
+303      297      domestica_Monodelphis     Gray Short-tailed Opossum  LC        S        
+307      306      scalops_Monodelphis       Long-nosed Short-tailed Opossum  LC        D        
+308      306      unistriata_Monodelphis    Single-striped Opossum    DD        U        
+309      305      americana_Monodelphis     Northern Three-striped Opossum  LC        D        
+311      310      dimidiata_Monodelphis     Eastern Short-tailed Opossum  LC        D        
+312      310      emiliae_Monodelphis       Emilia's Short-tailed Opossum  LC        U        
+314      313      maraxina_Monodelphis      Marajo Short-tailed Opossum  DD        D        
+315      313      kunsi_Monodelphis         Pygmy Short-tailed Opossum  LC        U        
+324      323      demerarae_Micoureus       Long-furred Woolly Mouse Opossum  LC        S        
+325      323      paraguayanus_Micoureus    Tate's Woolly Mouse Opossum  LC        S        
+326      322      constantiae_Micoureus     Bay-colored Mouse Opossum  LC        U        
+328      327      regina_Micoureus          Short-furred Woolly Mouse Opossum  LC        S        
+329      327      phaeus_Micoureus                                    VU        D        
+330      320      alstoni_Micoureus         Alston's Woolly Mouse Opossum  LC        S        
+331      319      tyleriana_Marmosa         Tyler's Mouse Opossum     DD        U        
+333      332      murina_Marmosa            Linnaeus's Mouse Opossum  LC        S        
+334      332      quichua_Marmosa           Quechuan Mouse Opossum    LC        D        
+338      337      andersoni_Marmosa         Anderson's Mouse Opossum  DD        U        
+339      337      rubra_Marmosa             Red Mouse Opossum         DD        U        
+340      336      xerophila_Marmosa         Dryland Mouse Opossum     VU        D        
+341      335      robinsoni_Marmosa         Robinson's Mouse Opossum  LC        S        
+344      343      lepida_Marmosa            Little Rufous Mouse Opossum  LC        S        
+345      343      canescens_Tlacuatzin      Grayish Mouse Opossum     LC        S        
+346      342      mexicana_Marmosa          Mexican Mouse Opossum     LC        S        
+351      350      derbianus_Caluromys       Central American Woolly Opossum  LC        D        
+352      350      philander_Caluromys       Bare-tailed Woolly Opossum  LC        D        
+353      349      lanatus_Caluromys         Brown-eared Wooly Opossum  LC        D        
+354      348      irrupta_Caluromysiops     Black-shouldered Opossum  LC        D        
+355      347      venusta_Glironia          Bushy-tailed Opossum      LC        U        
