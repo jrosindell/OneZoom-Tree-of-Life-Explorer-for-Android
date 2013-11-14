@@ -1,114 +1,114 @@
-index    parent   name                      common                    redlist   popstab  
-18       17       spectabilis_Liomys        Jaliscan Spiny Pocket Mouse  EN        D        
-19       17       pictus_Liomys             Painted Spiny Pocket Mouse  LC        D        
-20       16       irroratus_Liomys          Mexican Spiny Pocket Mouse  LC        S        
-22       21       adspersus_Liomys          Panamanian Spiny Pocket Mouse  LC        S        
-23       21       salvini_Liomys            Salvin's Spiny Pocket Mouse  LC        D        
-24       14       australis_Heteromys       Southern Spiny Pocket Mouse  LC        S        
-25       13       anomalus_Heteromys        Caribbean Spiny Pocket Mouse  LC        U        
-28       27       desmarestianus_Heteromys  Demarest's Spiny Pocket Mouse  LC        S        
-29       27       oresterus_Heteromys       Mountain Spiny Pocket Mouse  LC        S        
-30       26       nelsoni_Heteromys         Nelson's Spiny Pocket Mouse  EN        D        
-31       11       gaumeri_Heteromys         Gaumer's Spiny Pocket Mouse  LC        S        
-32       10       zinseri_Cratogeomys                                 NE        U        
-33       9        alcorni_Pappogeomys       Alcorn's Pocket Gopher    CR        D        
-37       36       castanops_Cratogeomys     Yellow-faced Pocket Gopher  LC        S        
-38       36       goldmani_Cratogeomys                                LC        S        
-40       39       tylorhinus_Cratogeomys                              NE        U        
-41       39       neglectus_Cratogeomys                               NE        U        
-44       43       merriami_Cratogeomys      Merriam's Pocket Gopher   LC        S        
-45       43       fumosus_Cratogeomys       Smoky Pocket Gopher       LC        S        
-46       42       gymnurus_Cratogeomys                                NE        U        
-47       7        bulleri_Pappogeomys       Buller's Pocket Gopher    LC        S        
-56       55       underwoodi_Orthogeomys    Underwood's Pocket Gopher  LC        I        
-57       55       heterodus_Orthogeomys     Variable Pocket Gopher    LC        I        
-58       54       thaeleri_Orthogeomys      Thaeler's Pocket Gopher   LC        S        
-59       53       matagalpae_Orthogeomys    Nicaraguan Pocket Gopher  LC        I        
-60       52       dariensis_Orthogeomys     Darien Pocket Gopher      LC        S        
-61       51       grandis_Orthogeomys       Giant Pocket Gopher       LC        S        
-64       63       hispidus_Orthogeomys      Hispid Pocket Gopher      LC        S        
-65       63       lanius_Orthogeomys        Big Pocket Gopher         CR        D        
-66       62       cavator_Orthogeomys       Chiriqui Pocket Gopher    LC        I        
-68       67       cherriei_Orthogeomys      Cherrie's Pocket Gopher   LC        S        
-69       67       cuniculus_Orthogeomys     Oaxacan Pocket Gopher     DD        D        
-70       48       trichopus_Zygogeomys      Michoacan Pocket Gopher   EN        D        
-77       76       texensis_Geomys           Central Texas Pocket Gopher  LC        U        
-78       76       bursarius_Geomys          Plains Pocket Gopher      LC        S        
-79       75       attwateri_Geomys          Attwater's Pocket Gopher  LC        S        
-81       80       knoxjonesi_Geomys         Knox Jones's Pocket Gopher  LC        U        
-82       80       breviceps_Geomys          Baird's Pocket Gopher     LC        S        
-83       73       arenarius_Geomys          Desert Pocket Gopher      NT        U        
-85       84       tropicalis_Geomys         Tropical Pocket Gopher    CR        D        
-86       84       personatus_Geomys         Texas Pocket Gopher       LC        U        
-87       71       pinetis_Geomys            Cumberland Island Picket Gopher  LC        U        
-92       91       townsendii_Thomomys       Townsend's Pocket Gopher  LC        S        
-93       91       bottae_Thomomys           Botta's Pocket Gopher     LC        S        
-94       90       umbrinus_Thomomys         Animas Mountains Pocket Gopher  LC        U        
-95       89       bulbivorus_Thomomys       Camas Pocket Gopher       LC        S        
-98       97       monticola_Thomomys        Mountain Pocket Gopher    LC        S        
-99       97       mazama_Thomomys           Western Pocket Gopher     LC        D        
-100      96       talpoides_Thomomys        Northern Pocket Gopher    LC        S        
-112      111      nelsoni_Chaetodipus       Nelson's Pocket Mouse     LC        S        
-113      111      lineatus_Chaetodipus      Lined Pocket Gopher       DD        U        
-114      110      intermedius_Chaetodipus   Rock Pocket Mouse         LC        S        
-116      115      eremicus_Chaetodipus      Chihuahuan Desert Pocket Mouse  LC        U        
-117      115      penicillatus_Chaetodipus  Desert Pocket Mouse       LC        S        
-119      118      artus_Chaetodipus         Narrow-skulled Pocket Mouse  LC        S        
-120      118      goldmani_Chaetodipus      Goldman's Pocket Mouse    VU        D        
-121      107      pernix_Chaetodipus        Sinaloan Pocket Gopher    LC        S        
-124      123      fallax_Chaetodipus        San Diego Pocket Mouse    LC        U        
-125      123      spinatus_Chaetodipus      Spiny Pocket Mouse        LC        U        
-126      122      californicus_Chaetodipus  California Pocket Mouse   LC        S        
-128      127      arenarius_Chaetodipus     Little Desert Pocket Mouse  LC        U        
-129      127      dalquesti_Chaetodipus     Dalquest's Pocket Mouse   VU        D        
-132      131      baileyi_Chaetodipus       Bailey's Pocket Mouse     LC        S        
-133      131      rudinoris_Chaetodipus     Baja Pocket Mouse         LC        S        
-134      130      hispidus_Chaetodipus      Hispid Pocket Mouse       LC        S        
-135      103      formosus_Chaetodipus      Long-tailed Pocket Mouse  LC        S        
-140      139      merriami_Perognathus      Great Basin Pocket Mouse  LC        S        
-141      139      amplus_Perognathus        Arizona Pocket Mouse      LC        S        
-143      142      parvus_Perognathus        Great Basin Pocket Mouse  LC        S        
-144      142      flavus_Perognathus        Silky Pocket Mouse        LC        S        
-145      137      longimembris_Perognathus  Little Pocket Mouse       LC        S        
-149      148      fasciatus_Perognathus     Olive-backed Pocket Mouse  LC        S        
-150      148      inornatus_Perognathus     Salinas Pocket Mouse      LC        U        
-151      147      alticolus_Perognathus     White-eared Pocket Mouse  EN        D        
-152      146      flavescens_Perognathus    Plains Pocket Mouse       LC        S        
-162      161      simulans_Dipodomys        Dulzura Kangaroo Rat      LC        U        
-163      161      agilis_Dipodomys          Agile Kangaroo Rat        LC        D        
-164      160      venustus_Dipodomys        Narrow-faced Kangaroo Rat  LC        D        
-165      159      microps_Dipodomys         Chisel-toothed Kangaroo Rat  LC        S        
-168      167      heermanni_Dipodomys       Heermann's Kangaroo Rat   LC        U        
-169      167      stephensi_Dipodomys       Stephens' Kangaroo Rat    EN        D        
-170      166      panamintinus_Dipodomys    Panamint Kangaroo Rat     LC        S        
-173      172      californicus_Dipodomys    California Kangaroo Rat   LC        S        
-174      172      phillipsii_Dipodomys      Phillip's Kangaroo Rat    LC        S        
-175      171      elator_Dipodomys          Texas Kangaroo Rat        VU        D        
-177      176      merriami_Dipodomys        Merriam's Kangaroo Rat    LC        S        
-178      176      nitratoides_Dipodomys     Fresno Kangaroo Rat       VU        D        
-182      181      gravipes_Dipodomys        San Quintin Kangaroo Rat  CR        U        
-183      181      ingens_Dipodomys          Giant Kangaroo Rat        EN        D        
-184      180      ordii_Dipodomys           Ord's Kangaroo Rat        LC        S        
-185      179      compactus_Dipodomys       Gulf Coast Kangaroo Rat   LC        S        
-188      187      spectabilis_Dipodomys     Banner-tailed Kangaroo Rat  NT        D        
-189      187      nelsoni_Dipodomys         Nelson's Kangaroo Rat     LC        S        
-190      186      deserti_Dipodomys         Desert Kangaroo Rat       LC        S        
-192      191      megacephalus_Microdipodops  Dark Kangaroo Mouse       LC        D        
-193      191      pallidus_Microdipodops    Pale Kangaroo Mouse       LC        D        
-195      194      canadensis_Castor         American Beaver           LC        S        
-196      194      fiber_Castor              Eurasian Beaver           LC        I        
-203      202      fuscus_Aconaemys          Chilean Rock Rat          LC        U        
-204      202      porteri_Aconaemys                                   DD        U        
-205      201      sagei_Aconaemys           Sage's Rock Rat           DD        U        
-207      206      barrerae_Tympanoctomys    Plains Viscacha Rat       NT        D        
-208      206      mimax_Octomys             Viscacha Rat              LC        U        
-210      209      gliroides_Octodontomys    Mountain Degu             LC        S        
-211      209      cyanus_Spalacopus         Coruro                    LC        U        
-217      216      vali_Ctenodactylus        Val's Gundi               DD        U        
-218      216      gundi_Ctenodactylus       Gundi                     LC        U        
-219      215      spekei_Pectinator         Speke's Pectinator        LC        U        
-220      214      mzabi_Massoutiera         Mzab Gundi                LC        U        
-221      213      vae_Felovia               Felou Gundi               DD        U        
-224      223      lunatus_Octodon           Moon-toothed Degu         VU        D        
-225      223      degus_Octodon             Degu                      LC        U        
-226      222      bridgesi_Octodon          Bridges's Degu            VU        D        
+index,parent,name1,name2,common,redlist,popstab
+18,17,"spectabilis","Liomys","Jaliscan Spiny Pocket Mouse",EN,D
+19,17,"pictus","Liomys","Painted Spiny Pocket Mouse",LC,D
+20,16,"irroratus","Liomys","Mexican Spiny Pocket Mouse",LC,S
+22,21,"adspersus","Liomys","Panamanian Spiny Pocket Mouse",LC,S
+23,21,"salvini","Liomys","Salvin's Spiny Pocket Mouse",LC,D
+24,14,"australis","Heteromys","Southern Spiny Pocket Mouse",LC,S
+25,13,"anomalus","Heteromys","Caribbean Spiny Pocket Mouse",LC,U
+28,27,"desmarestianus","Heteromys","Demarest's Spiny Pocket Mouse",LC,S
+29,27,"oresterus","Heteromys","Mountain Spiny Pocket Mouse",LC,S
+30,26,"nelsoni","Heteromys","Nelson's Spiny Pocket Mouse",EN,D
+31,11,"gaumeri","Heteromys","Gaumer's Spiny Pocket Mouse",LC,S
+32,10,"zinseri","Cratogeomys","",NE,U
+33,9,"alcorni","Pappogeomys","Alcorn's Pocket Gopher",CR,D
+37,36,"castanops","Cratogeomys","Yellow-faced Pocket Gopher",LC,S
+38,36,"goldmani","Cratogeomys","",LC,S
+40,39,"tylorhinus","Cratogeomys","",NE,U
+41,39,"neglectus","Cratogeomys","",NE,U
+44,43,"merriami","Cratogeomys","Merriam's Pocket Gopher",LC,S
+45,43,"fumosus","Cratogeomys","Smoky Pocket Gopher",LC,S
+46,42,"gymnurus","Cratogeomys","",NE,U
+47,7,"bulleri","Pappogeomys","Buller's Pocket Gopher",LC,S
+56,55,"underwoodi","Orthogeomys","Underwood's Pocket Gopher",LC,I
+57,55,"heterodus","Orthogeomys","Variable Pocket Gopher",LC,I
+58,54,"thaeleri","Orthogeomys","Thaeler's Pocket Gopher",LC,S
+59,53,"matagalpae","Orthogeomys","Nicaraguan Pocket Gopher",LC,I
+60,52,"dariensis","Orthogeomys","Darien Pocket Gopher",LC,S
+61,51,"grandis","Orthogeomys","Giant Pocket Gopher",LC,S
+64,63,"hispidus","Orthogeomys","Hispid Pocket Gopher",LC,S
+65,63,"lanius","Orthogeomys","Big Pocket Gopher",CR,D
+66,62,"cavator","Orthogeomys","Chiriqui Pocket Gopher",LC,I
+68,67,"cherriei","Orthogeomys","Cherrie's Pocket Gopher",LC,S
+69,67,"cuniculus","Orthogeomys","Oaxacan Pocket Gopher",DD,D
+70,48,"trichopus","Zygogeomys","Michoacan Pocket Gopher",EN,D
+77,76,"texensis","Geomys","Central Texas Pocket Gopher",LC,U
+78,76,"bursarius","Geomys","Plains Pocket Gopher",LC,S
+79,75,"attwateri","Geomys","Attwater's Pocket Gopher",LC,S
+81,80,"knoxjonesi","Geomys","Knox Jones's Pocket Gopher",LC,U
+82,80,"breviceps","Geomys","Baird's Pocket Gopher",LC,S
+83,73,"arenarius","Geomys","Desert Pocket Gopher",NT,U
+85,84,"tropicalis","Geomys","Tropical Pocket Gopher",CR,D
+86,84,"personatus","Geomys","Texas Pocket Gopher",LC,U
+87,71,"pinetis","Geomys","Cumberland Island Picket Gopher",LC,U
+92,91,"townsendii","Thomomys","Townsend's Pocket Gopher",LC,S
+93,91,"bottae","Thomomys","Botta's Pocket Gopher",LC,S
+94,90,"umbrinus","Thomomys","Animas Mountains Pocket Gopher",LC,U
+95,89,"bulbivorus","Thomomys","Camas Pocket Gopher",LC,S
+98,97,"monticola","Thomomys","Mountain Pocket Gopher",LC,S
+99,97,"mazama","Thomomys","Western Pocket Gopher",LC,D
+100,96,"talpoides","Thomomys","Northern Pocket Gopher",LC,S
+112,111,"nelsoni","Chaetodipus","Nelson's Pocket Mouse",LC,S
+113,111,"lineatus","Chaetodipus","Lined Pocket Gopher",DD,U
+114,110,"intermedius","Chaetodipus","Rock Pocket Mouse",LC,S
+116,115,"eremicus","Chaetodipus","Chihuahuan Desert Pocket Mouse",LC,U
+117,115,"penicillatus","Chaetodipus","Desert Pocket Mouse",LC,S
+119,118,"artus","Chaetodipus","Narrow-skulled Pocket Mouse",LC,S
+120,118,"goldmani","Chaetodipus","Goldman's Pocket Mouse",VU,D
+121,107,"pernix","Chaetodipus","Sinaloan Pocket Gopher",LC,S
+124,123,"fallax","Chaetodipus","San Diego Pocket Mouse",LC,U
+125,123,"spinatus","Chaetodipus","Spiny Pocket Mouse",LC,U
+126,122,"californicus","Chaetodipus","California Pocket Mouse",LC,S
+128,127,"arenarius","Chaetodipus","Little Desert Pocket Mouse",LC,U
+129,127,"dalquesti","Chaetodipus","Dalquest's Pocket Mouse",VU,D
+132,131,"baileyi","Chaetodipus","Bailey's Pocket Mouse",LC,S
+133,131,"rudinoris","Chaetodipus","Baja Pocket Mouse",LC,S
+134,130,"hispidus","Chaetodipus","Hispid Pocket Mouse",LC,S
+135,103,"formosus","Chaetodipus","Long-tailed Pocket Mouse",LC,S
+140,139,"merriami","Perognathus","Great Basin Pocket Mouse",LC,S
+141,139,"amplus","Perognathus","Arizona Pocket Mouse",LC,S
+143,142,"parvus","Perognathus","Great Basin Pocket Mouse",LC,S
+144,142,"flavus","Perognathus","Silky Pocket Mouse",LC,S
+145,137,"longimembris","Perognathus","Little Pocket Mouse",LC,S
+149,148,"fasciatus","Perognathus","Olive-backed Pocket Mouse",LC,S
+150,148,"inornatus","Perognathus","Salinas Pocket Mouse",LC,U
+151,147,"alticolus","Perognathus","White-eared Pocket Mouse",EN,D
+152,146,"flavescens","Perognathus","Plains Pocket Mouse",LC,S
+162,161,"simulans","Dipodomys","Dulzura Kangaroo Rat",LC,U
+163,161,"agilis","Dipodomys","Agile Kangaroo Rat",LC,D
+164,160,"venustus","Dipodomys","Narrow-faced Kangaroo Rat",LC,D
+165,159,"microps","Dipodomys","Chisel-toothed Kangaroo Rat",LC,S
+168,167,"heermanni","Dipodomys","Heermann's Kangaroo Rat",LC,U
+169,167,"stephensi","Dipodomys","Stephens' Kangaroo Rat",EN,D
+170,166,"panamintinus","Dipodomys","Panamint Kangaroo Rat",LC,S
+173,172,"californicus","Dipodomys","California Kangaroo Rat",LC,S
+174,172,"phillipsii","Dipodomys","Phillip's Kangaroo Rat",LC,S
+175,171,"elator","Dipodomys","Texas Kangaroo Rat",VU,D
+177,176,"merriami","Dipodomys","Merriam's Kangaroo Rat",LC,S
+178,176,"nitratoides","Dipodomys","Fresno Kangaroo Rat",VU,D
+182,181,"gravipes","Dipodomys","San Quintin Kangaroo Rat",CR,U
+183,181,"ingens","Dipodomys","Giant Kangaroo Rat",EN,D
+184,180,"ordii","Dipodomys","Ord's Kangaroo Rat",LC,S
+185,179,"compactus","Dipodomys","Gulf Coast Kangaroo Rat",LC,S
+188,187,"spectabilis","Dipodomys","Banner-tailed Kangaroo Rat",NT,D
+189,187,"nelsoni","Dipodomys","Nelson's Kangaroo Rat",LC,S
+190,186,"deserti","Dipodomys","Desert Kangaroo Rat",LC,S
+192,191,"megacephalus","Microdipodops","Dark Kangaroo Mouse",LC,D
+193,191,"pallidus","Microdipodops","Pale Kangaroo Mouse",LC,D
+195,194,"canadensis","Castor","American Beaver",LC,S
+196,194,"fiber","Castor","Eurasian Beaver",LC,I
+203,202,"fuscus","Aconaemys","Chilean Rock Rat",LC,U
+204,202,"porteri","Aconaemys","",DD,U
+205,201,"sagei","Aconaemys","Sage's Rock Rat",DD,U
+207,206,"barrerae","Tympanoctomys","Plains Viscacha Rat",NT,D
+208,206,"mimax","Octomys","Viscacha Rat",LC,U
+210,209,"gliroides","Octodontomys","Mountain Degu",LC,S
+211,209,"cyanus","Spalacopus","Coruro",LC,U
+217,216,"vali","Ctenodactylus","Val's Gundi",DD,U
+218,216,"gundi","Ctenodactylus","Gundi",LC,U
+219,215,"spekei","Pectinator","Speke's Pectinator",LC,U
+220,214,"mzabi","Massoutiera","Mzab Gundi",LC,U
+221,213,"vae","Felovia","Felou Gundi",DD,U
+224,223,"lunatus","Octodon","Moon-toothed Degu",VU,D
+225,223,"degus","Octodon","Degu",LC,U
+226,222,"bridgesi","Octodon","Bridges's Degu",VU,D

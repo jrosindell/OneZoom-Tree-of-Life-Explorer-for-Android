@@ -1,5 +1,7 @@
 package com.onezoom.midnode.displayBinary;
 
+import android.util.Log;
+
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
@@ -36,6 +38,7 @@ public class BinaryPrecalculator implements Precalculator {
 		assert interiorNode != null;
 		MidNode parent = interiorNode.getParent();
 		if (parent == null) {
+			Log.d("debug", "calculate as root");
 			precalcRoot(interiorNode.positionData);
 		} else if (interiorNode.childIndex == 1){
 			precalcAsRightChildren(interiorNode.positionData, parent.positionData);
@@ -157,6 +160,14 @@ public class BinaryPrecalculator implements Precalculator {
 	private float getSin(Float angle) { return (float) Math.sin(angle); }	
 	private float getSin90Pre(Float angle) { return (float) Math.sin(angle + Math.PI / 2.0); }
 	private float getCos90Pre(Float angle) { return (float) Math.cos(angle + Math.PI / 2.0); }
+
+	public static float getAngleofchild1right() {
+		return angleOfChild1Right;
+	}
+
+	public static float getAngleofchild2left() {
+		return angleOfChild2Left;
+	}
 
 
 }

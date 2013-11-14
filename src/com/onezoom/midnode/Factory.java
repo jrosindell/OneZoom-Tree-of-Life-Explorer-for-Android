@@ -6,4 +6,5 @@ public interface Factory {
 	Precalculator createPrecalculator();
 	PositionData createPositionData();
 	PositionCalculator createPositionCalculator();
+	Initializer createInitializer();
 }

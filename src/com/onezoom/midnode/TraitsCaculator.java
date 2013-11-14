@@ -9,9 +9,16 @@ public interface TraitsCaculator{
 	int getColor();
 	float getLengthbr();
 	int getRichness();
+	void setLengthbr(float lengthbr);
+	void setRichness(int richness);
 	String getCname();
 	String getName1();
 	String getName2();
 	String getRedlist();
 	String getPopstab();
+	void setCname(String cname);
+	void setName1(String name1);
+	void setName2(String name2);
+	void setRedlist(String redlist);
+	void setPopstab(String popstab);
 }

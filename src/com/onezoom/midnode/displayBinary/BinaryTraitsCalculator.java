@@ -276,5 +276,40 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		return popstab;
 	}
 
+	@Override
+	public void setCname(String cname) {
+		this.cname = cname;
+	}
+
+	@Override
+	public void setName1(String name1) {
+		this.name1 = name1;
+	}
+
+	@Override
+	public void setName2(String name2) {
+		this.name2 = name2;
+	}
+
+	@Override
+	public void setRedlist(String redlist) {
+		this.redlist = redlist;
+	}
+
+	@Override
+	public void setPopstab(String popstab) {
+		this.popstab = popstab;
+	}
+
+	@Override
+	public void setLengthbr(float lengthbr) {
+		this.lengthbr = lengthbr;
+	}
+
+	@Override
+	public void setRichness(int richness) {
+		this.richness_val = richness;
+	}
+
 
 }

@@ -1,143 +1,143 @@
-index    parent   name                      common                    redlist   popstab  
-16       15       rapax_Crocidura           Chinese White-toothed Shrew  DD        U        
-17       15       vorax_Crocidura           Voracious Shrew           LC        U        
-18       14       pullata_Crocidura         Kashmir White-toothed Shrew  DD        U        
-20       19       muricauda_Crocidura       Mouse-tailed Shrew        LC        U        
-21       19       planiceps_Crocidura       Flat-headed Shrew         DD        U        
-22       12       levicula_Crocidura        Sulawesi Tiny Shrew       LC        U        
-25       24       lusitania_Crocidura       Mauritanian Shrew         LC        U        
-26       24       niobe_Crocidura           Niobe's Shrew             NT        U        
-27       23       usambarae_Crocidura       Usambara Shrew            EN        D        
-29       28       montis_Crocidura          Montane White-toothed Shrew  LC        U        
-30       28       tenuis_Crocidura          Timor Shrew               DD        U        
-37       36       lepidura_Crocidura        Sumatran Giant Shrew      LC        S        
-38       36       orientalis_Crocidura      Oriental Shrew            VU        U        
-39       35       foetida_Crocidura         Bornean Shrew             LC        U        
-40       34       brunnea_Crocidura         Thick-tailed Shrew        LC        U        
-41       33       fuliginosa_Crocidura      Southeast Asian Shrew     LC        U        
-43       42       baluensis_Crocidura       Kinabalu Shrew            VU        S        
-44       42       vosmaeri_Crocidura        Banka Shrew               DD        U        
-45       31       telfordi_Crocidura        Telford's Shrew           EN        D        
-47       46       tarella_Crocidura         Tarella Shrew             EN        D        
-48       46       ichnusae_Crocidura                                  NE        U        
-49       7        macarthuri_Crocidura      Macarthur's Shrew         LC        U        
-54       53       viaria_Crocidura          Savanna Path Shrew        LC        S        
-55       53       lamottei_Crocidura        Lamotte's Shrew           LC        U        
-56       52       cyanea_Crocidura          Reddish-gray Musk Shrew   LC        S        
-57       51       orii_Crocidura            Ryukyu Shrew              EN        D        
-60       59       leucodon_Crocidura        Bicolored Shrew           LC        U        
-61       59       caspica_Crocidura         Caspian Shrew             DD        U        
-62       58       ansellorum_Crocidura      Ansell's Shrew            EN        D        
-67       66       beccarii_Crocidura        Beccari's Shrew           LC        D        
-68       66       elongata_Crocidura        Elongated Shrew           LC        D        
-69       65       erica_Crocidura           Heather Shrew             DD        U        
-71       70       obscurior_Crocidura       Obscure White-toothed Shrew  LC        U        
-72       70       smithii_Crocidura         Desert Musk Shrew         LC        U        
-73       63       bottegi_Crocidura         Bottego's Shrew           DD        U        
-77       76       lasiura_Crocidura         Ussuri Shrew              LC        U        
-78       76       attila_Crocidura          Hun Shrew                 LC        U        
-79       75       allex_Crocidura           East African Highland Shrew  VU        D        
-80       74       lanosa_Crocidura          Kivu Long-haired Shrew    EN        D        
-84       83       mindorus_Crocidura        Mindoro Shrew             DD        U        
-85       83       raineyi_Crocidura         Rainey Shrew              DD        U        
-86       82       picea_Crocidura           Cameroonian Shrew         EN        D        
-88       87       manengubae_Crocidura      Manenguba Shrew           VU        D        
-89       87       pitmani_Crocidura         Pitman's Shrew            DD        U        
-97       96       eisentrauti_Crocidura     Eisentraut's Shrew        VU        S        
-98       96       desperata_Crocidura       Desperate Shrew           EN        D        
-99       95       buettikoferi_Crocidura    Buettikofer's Shrew       NT        D        
-101      100      fuscomurina_Crocidura     Bicolored Musk Shrew      LC        U        
-102      100      zaphiri_Crocidura         Zaphir's Shrew            DD        U        
-103      93       pasha_Crocidura           Pasha Shrew               LC        U        
-104      92       jacksoni_Crocidura        Jackson's Shrew           LC        S        
-106      105      aleksandrisi_Crocidura    Alexandrian Shrew         LC        S        
-107      105      zarudnyi_Crocidura        Zarudny's Shrew           LC        U        
-112      111      trichura_Crocidura        Christmas Island Shrew    CR        U        
-113      111      tanakae_Crocidura         Taiwanese Gray Shrew      LC        U        
-114      110      attenuata_Crocidura       Grey Shrew                LC        U        
-115      109      nana_Crocidura            Dwarf White-toothed Shrew  LC        U        
-116      108      baileyi_Crocidura         Bailey's Shrew            EN        D        
-125      124      susiana_Crocidura         Iranian Shrew             DD        U        
-126      124      lea_Crocidura             Sulawesi Shrew            LC        U        
-127      123      olivieri_Crocidura        African Giant Shrew       LC        U        
-129      128      stenocephala_Crocidura    Kahuzi Swamp Shrew        EN        D        
-130      128      hispida_Crocidura         Andaman Spiny Shrew       VU        U        
-134      133      thomensis_Crocidura       Sao Tome Shrew            EN        D        
-135      133      beatus_Crocidura          Mindanao Shrew            LC        D        
-136      132      silacea_Crocidura         Lesser Gray-brown Musk Shrew  LC        S        
-137      131      kivuana_Crocidura         Kivu Shrew                VU        U        
-141      140      monticola_Crocidura       Sunda Shrew               LC        U        
-142      140      glassi_Crocidura          Glass's Shrew             VU        D        
-143      139      sibirica_Crocidura        Siberian Shrew            LC        U        
-145      144      ultima_Crocidura          Ultimate Shrew            DD        U        
-146      144      ludia_Crocidura           Dramatic Shrew            LC        U        
-151      150      rhoditis_Crocidura        Sulawesi White-handed Shrew  LC        U        
-152      150      latona_Crocidura          Latona Shrew              LC        U        
-153      149      lucina_Crocidura          Lucina's Shrew            VU        S        
-154      148      floweri_Crocidura         Flower's Shrew            DD        U        
-157      156      luna_Crocidura            Greater Gray-brown Musk Shrew  LC        U        
-158      156      mariquensis_Crocidura     Swamp Musk Shrew          LC        U        
-159      155      paradoxura_Crocidura      Sumatran Long-tailed Shrew  LC        D        
-162      161      dolichura_Crocidura       Long-tailed Musk Shrew    LC        U        
-163      161      grassei_Crocidura         Grasse's Shrew            LC        U        
-164      160      whitakeri_Crocidura       Whitaker's Shrew          LC        U        
-167      166      parvipes_Crocidura        Small-footed Shrew        LC        S        
-168      166      congobelgica_Crocidura    Congo Shrew               LC        U        
-169      165      nigripes_Crocidura        Black-footed Shrew        LC        U        
-183      182      harenna_Crocidura         Harenna Shrew             CR        D        
-184      182      negrina_Crocidura         Negros Shrew              EN        D        
-186      185      hildegardeae_Crocidura    Hildegarde's Shrew        LC        U        
-187      185      virgata_Crocidura                                   DD        U        
-188      180      flavescens_Crocidura      Greater Red Musk Shrew    LC        U        
-189      179      crenata_Crocidura         Long-footed Shrew         LC        U        
-190      178      gracilipes_Crocidura      Peter's Musk Shrew        DD        U        
-193      192      crossei_Crocidura         Crosse's Shrew            LC        U        
-194      192      jouvenetae_Crocidura                                LC        U        
-195      191      grandiceps_Crocidura      Large-headed Forest Shrew  NT        U        
-196      176      poensis_Crocidura         Fraser's Musk Shrew       LC        U        
-201      200      greenwoodi_Crocidura      Greenwood's Shrew         LC        U        
-202      200      tarfayensis_Crocidura     Saharan Shrew             DD        D        
-203      199      maxi_Crocidura            Javanese Shrew            LC        U        
-205      204      maquassiensis_Crocidura   Makwassie Musk Shrew      LC        U        
-206      204      maurisca_Crocidura        Dark Shrew                LC        U        
-207      197      caliginea_Crocidura       African Dusky Shrew       LC        U        
-209      208      theresae_Crocidura        Therese's Shrew           LC        U        
-210      208      nigeriae_Crocidura        Nigerian Shrew            LC        U        
-219      218      wuchihensis_Crocidura     Hainan Island Shrew       DD        U        
-220      218      horsfieldii_Crocidura     Horsefield's Shrew        DD        U        
-221      217      watasei_Crocidura         Lesser Ryukyu Shrew       LC        S        
-222      216      indochinensis_Crocidura   Indochinese Shrew         LC        U        
-224      223      serezkyensis_Crocidura    Serezkaya Shrew           LC        U        
-225      223      arispa_Crocidura          Jackass Shrew             LC        U        
-227      226      cinderella_Crocidura      Cinderella Shrew          LC        U        
-228      226      xantippe_Crocidura        Vermiculate Shrew         LC        S        
-231      230      canariensis_Crocidura     Canarian Shrew            EN        D        
-232      230      grayi_Crocidura           Luzon Shrew               LC        U        
-233      229      miya_Crocidura            Sri Lankan Long-tailed Shrew  EN        D        
-234      212      nigrofusca_Crocidura      African Black Shrew       LC        U        
-236      235      nigricans_Crocidura       Blackish White-toothed Shrew  LC        U        
-237      235      russula_Crocidura         Greater White-toothed Shrew  LC        S        
-242      241      roosevelti_Crocidura      Roosvelt's Shrew          LC        U        
-243      241      wimmeri_Crocidura         Wimmer's Shrew            CR        U        
-245      244      denti_Crocidura           Dent's Shrew              LC        U        
-246      244      selina_Crocidura          Moon Shrew                DD        U        
-248      247      fulvastra_Crocidura       Savanna Shrew             LC        S        
-249      247      turba_Crocidura           Tumultuous Shrew          LC        U        
-253      252      pergrisea_Crocidura       Pale Grey Shrew           DD        U        
-254      252      nimbae_Crocidura          Nimba Shrew               NT        D        
-255      251      tansaniana_Crocidura      Tanzanian Shrew           EN        D        
-256      250      fischeri_Crocidura        Fischer's Shrew           DD        U        
-260      259      douceti_Crocidura         Doucet's Musk Shrew       DD        U        
-261      259      dhofarensis_Crocidura     Dhofarian Shrew           DD        U        
-263      262      bottegoides_Crocidura     Bale Shrew                EN        D        
-264      262      zimmeri_Crocidura         Upemba Shrew              DD        U        
-266      265      palawanensis_Crocidura    Palawan Shrew             LC        U        
-267      265      thalia_Crocidura          Thalia Shrew              LC        U        
-273      272      andamanensis_Crocidura    Andaman White-toothed Shrew  CR        D        
-274      272      arabica_Crocidura         Arabian Shrew             LC        U        
-276      275      dsinezumi_Crocidura       Dsinezumi Shrew           LC        S        
-277      275      macowi_Crocidura          Macow's Shrew             DD        U        
-278      270      nanilla_Crocidura         Savanna Dwarf Shrew       LC        S        
-280      279      mutesae_Crocidura         Uganda Large-toothed Shrew  DD        U        
-281      279      voi_Crocidura             Voi Shrew                 LC        S        
-282      268      monax_Crocidura           Kilimanjaro Shrew         LC        U        
+index,parent,name1,name2,common,redlist,popstab
+16,15,"rapax","Crocidura","Chinese White-toothed Shrew",DD,U
+17,15,"vorax","Crocidura","Voracious Shrew",LC,U
+18,14,"pullata","Crocidura","Kashmir White-toothed Shrew",DD,U
+20,19,"muricauda","Crocidura","Mouse-tailed Shrew",LC,U
+21,19,"planiceps","Crocidura","Flat-headed Shrew",DD,U
+22,12,"levicula","Crocidura","Sulawesi Tiny Shrew",LC,U
+25,24,"lusitania","Crocidura","Mauritanian Shrew",LC,U
+26,24,"niobe","Crocidura","Niobe's Shrew",NT,U
+27,23,"usambarae","Crocidura","Usambara Shrew",EN,D
+29,28,"montis","Crocidura","Montane White-toothed Shrew",LC,U
+30,28,"tenuis","Crocidura","Timor Shrew",DD,U
+37,36,"lepidura","Crocidura","Sumatran Giant Shrew",LC,S
+38,36,"orientalis","Crocidura","Oriental Shrew",VU,U
+39,35,"foetida","Crocidura","Bornean Shrew",LC,U
+40,34,"brunnea","Crocidura","Thick-tailed Shrew",LC,U
+41,33,"fuliginosa","Crocidura","Southeast Asian Shrew",LC,U
+43,42,"baluensis","Crocidura","Kinabalu Shrew",VU,S
+44,42,"vosmaeri","Crocidura","Banka Shrew",DD,U
+45,31,"telfordi","Crocidura","Telford's Shrew",EN,D
+47,46,"tarella","Crocidura","Tarella Shrew",EN,D
+48,46,"ichnusae","Crocidura","",NE,U
+49,7,"macarthuri","Crocidura","Macarthur's Shrew",LC,U
+54,53,"viaria","Crocidura","Savanna Path Shrew",LC,S
+55,53,"lamottei","Crocidura","Lamotte's Shrew",LC,U
+56,52,"cyanea","Crocidura","Reddish-gray Musk Shrew",LC,S
+57,51,"orii","Crocidura","Ryukyu Shrew",EN,D
+60,59,"leucodon","Crocidura","Bicolored Shrew",LC,U
+61,59,"caspica","Crocidura","Caspian Shrew",DD,U
+62,58,"ansellorum","Crocidura","Ansell's Shrew",EN,D
+67,66,"beccarii","Crocidura","Beccari's Shrew",LC,D
+68,66,"elongata","Crocidura","Elongated Shrew",LC,D
+69,65,"erica","Crocidura","Heather Shrew",DD,U
+71,70,"obscurior","Crocidura","Obscure White-toothed Shrew",LC,U
+72,70,"smithii","Crocidura","Desert Musk Shrew",LC,U
+73,63,"bottegi","Crocidura","Bottego's Shrew",DD,U
+77,76,"lasiura","Crocidura","Ussuri Shrew",LC,U
+78,76,"attila","Crocidura","Hun Shrew",LC,U
+79,75,"allex","Crocidura","East African Highland Shrew",VU,D
+80,74,"lanosa","Crocidura","Kivu Long-haired Shrew",EN,D
+84,83,"mindorus","Crocidura","Mindoro Shrew",DD,U
+85,83,"raineyi","Crocidura","Rainey Shrew",DD,U
+86,82,"picea","Crocidura","Cameroonian Shrew",EN,D
+88,87,"manengubae","Crocidura","Manenguba Shrew",VU,D
+89,87,"pitmani","Crocidura","Pitman's Shrew",DD,U
+97,96,"eisentrauti","Crocidura","Eisentraut's Shrew",VU,S
+98,96,"desperata","Crocidura","Desperate Shrew",EN,D
+99,95,"buettikoferi","Crocidura","Buettikofer's Shrew",NT,D
+101,100,"fuscomurina","Crocidura","Bicolored Musk Shrew",LC,U
+102,100,"zaphiri","Crocidura","Zaphir's Shrew",DD,U
+103,93,"pasha","Crocidura","Pasha Shrew",LC,U
+104,92,"jacksoni","Crocidura","Jackson's Shrew",LC,S
+106,105,"aleksandrisi","Crocidura","Alexandrian Shrew",LC,S
+107,105,"zarudnyi","Crocidura","Zarudny's Shrew",LC,U
+112,111,"trichura","Crocidura","Christmas Island Shrew",CR,U
+113,111,"tanakae","Crocidura","Taiwanese Gray Shrew",LC,U
+114,110,"attenuata","Crocidura","Grey Shrew",LC,U
+115,109,"nana","Crocidura","Dwarf White-toothed Shrew",LC,U
+116,108,"baileyi","Crocidura","Bailey's Shrew",EN,D
+125,124,"susiana","Crocidura","Iranian Shrew",DD,U
+126,124,"lea","Crocidura","Sulawesi Shrew",LC,U
+127,123,"olivieri","Crocidura","African Giant Shrew",LC,U
+129,128,"stenocephala","Crocidura","Kahuzi Swamp Shrew",EN,D
+130,128,"hispida","Crocidura","Andaman Spiny Shrew",VU,U
+134,133,"thomensis","Crocidura","Sao Tome Shrew",EN,D
+135,133,"beatus","Crocidura","Mindanao Shrew",LC,D
+136,132,"silacea","Crocidura","Lesser Gray-brown Musk Shrew",LC,S
+137,131,"kivuana","Crocidura","Kivu Shrew",VU,U
+141,140,"monticola","Crocidura","Sunda Shrew",LC,U
+142,140,"glassi","Crocidura","Glass's Shrew",VU,D
+143,139,"sibirica","Crocidura","Siberian Shrew",LC,U
+145,144,"ultima","Crocidura","Ultimate Shrew",DD,U
+146,144,"ludia","Crocidura","Dramatic Shrew",LC,U
+151,150,"rhoditis","Crocidura","Sulawesi White-handed Shrew",LC,U
+152,150,"latona","Crocidura","Latona Shrew",LC,U
+153,149,"lucina","Crocidura","Lucina's Shrew",VU,S
+154,148,"floweri","Crocidura","Flower's Shrew",DD,U
+157,156,"luna","Crocidura","Greater Gray-brown Musk Shrew",LC,U
+158,156,"mariquensis","Crocidura","Swamp Musk Shrew",LC,U
+159,155,"paradoxura","Crocidura","Sumatran Long-tailed Shrew",LC,D
+162,161,"dolichura","Crocidura","Long-tailed Musk Shrew",LC,U
+163,161,"grassei","Crocidura","Grasse's Shrew",LC,U
+164,160,"whitakeri","Crocidura","Whitaker's Shrew",LC,U
+167,166,"parvipes","Crocidura","Small-footed Shrew",LC,S
+168,166,"congobelgica","Crocidura","Congo Shrew",LC,U
+169,165,"nigripes","Crocidura","Black-footed Shrew",LC,U
+183,182,"harenna","Crocidura","Harenna Shrew",CR,D
+184,182,"negrina","Crocidura","Negros Shrew",EN,D
+186,185,"hildegardeae","Crocidura","Hildegarde's Shrew",LC,U
+187,185,"virgata","Crocidura","",DD,U
+188,180,"flavescens","Crocidura","Greater Red Musk Shrew",LC,U
+189,179,"crenata","Crocidura","Long-footed Shrew",LC,U
+190,178,"gracilipes","Crocidura","Peter's Musk Shrew",DD,U
+193,192,"crossei","Crocidura","Crosse's Shrew",LC,U
+194,192,"jouvenetae","Crocidura","",LC,U
+195,191,"grandiceps","Crocidura","Large-headed Forest Shrew",NT,U
+196,176,"poensis","Crocidura","Fraser's Musk Shrew",LC,U
+201,200,"greenwoodi","Crocidura","Greenwood's Shrew",LC,U
+202,200,"tarfayensis","Crocidura","Saharan Shrew",DD,D
+203,199,"maxi","Crocidura","Javanese Shrew",LC,U
+205,204,"maquassiensis","Crocidura","Makwassie Musk Shrew",LC,U
+206,204,"maurisca","Crocidura","Dark Shrew",LC,U
+207,197,"caliginea","Crocidura","African Dusky Shrew",LC,U
+209,208,"theresae","Crocidura","Therese's Shrew",LC,U
+210,208,"nigeriae","Crocidura","Nigerian Shrew",LC,U
+219,218,"wuchihensis","Crocidura","Hainan Island Shrew",DD,U
+220,218,"horsfieldii","Crocidura","Horsefield's Shrew",DD,U
+221,217,"watasei","Crocidura","Lesser Ryukyu Shrew",LC,S
+222,216,"indochinensis","Crocidura","Indochinese Shrew",LC,U
+224,223,"serezkyensis","Crocidura","Serezkaya Shrew",LC,U
+225,223,"arispa","Crocidura","Jackass Shrew",LC,U
+227,226,"cinderella","Crocidura","Cinderella Shrew",LC,U
+228,226,"xantippe","Crocidura","Vermiculate Shrew",LC,S
+231,230,"canariensis","Crocidura","Canarian Shrew",EN,D
+232,230,"grayi","Crocidura","Luzon Shrew",LC,U
+233,229,"miya","Crocidura","Sri Lankan Long-tailed Shrew",EN,D
+234,212,"nigrofusca","Crocidura","African Black Shrew",LC,U
+236,235,"nigricans","Crocidura","Blackish White-toothed Shrew",LC,U
+237,235,"russula","Crocidura","Greater White-toothed Shrew",LC,S
+242,241,"roosevelti","Crocidura","Roosvelt's Shrew",LC,U
+243,241,"wimmeri","Crocidura","Wimmer's Shrew",CR,U
+245,244,"denti","Crocidura","Dent's Shrew",LC,U
+246,244,"selina","Crocidura","Moon Shrew",DD,U
+248,247,"fulvastra","Crocidura","Savanna Shrew",LC,S
+249,247,"turba","Crocidura","Tumultuous Shrew",LC,U
+253,252,"pergrisea","Crocidura","Pale Grey Shrew",DD,U
+254,252,"nimbae","Crocidura","Nimba Shrew",NT,D
+255,251,"tansaniana","Crocidura","Tanzanian Shrew",EN,D
+256,250,"fischeri","Crocidura","Fischer's Shrew",DD,U
+260,259,"douceti","Crocidura","Doucet's Musk Shrew",DD,U
+261,259,"dhofarensis","Crocidura","Dhofarian Shrew",DD,U
+263,262,"bottegoides","Crocidura","Bale Shrew",EN,D
+264,262,"zimmeri","Crocidura","Upemba Shrew",DD,U
+266,265,"palawanensis","Crocidura","Palawan Shrew",LC,U
+267,265,"thalia","Crocidura","Thalia Shrew",LC,U
+273,272,"andamanensis","Crocidura","Andaman White-toothed Shrew",CR,D
+274,272,"arabica","Crocidura","Arabian Shrew",LC,U
+276,275,"dsinezumi","Crocidura","Dsinezumi Shrew",LC,S
+277,275,"macowi","Crocidura","Macow's Shrew",DD,U
+278,270,"nanilla","Crocidura","Savanna Dwarf Shrew",LC,S
+280,279,"mutesae","Crocidura","Uganda Large-toothed Shrew",DD,U
+281,279,"voi","Crocidura","Voi Shrew",LC,S
+282,268,"monax","Crocidura","Kilimanjaro Shrew",LC,U

@@ -1,141 +1,141 @@
-index    parent   name                      common                    redlist   popstab  
-15       14       wattsi_Pipistrellus       Watts's Pipistrelle       LC        U        
-16       14       adamsi_Pipistrellus       Forest Pipistrelle        LC        S        
-17       13       tenuis_Pipistrellus       Least Pipistrelle         LC        S        
-19       18       westralis_Pipistrellus    Northern Pipistrelle      LC        S        
-20       18       collinus_Pipistrellus     Mountain Pipistrelle      LC        S        
-22       21       angulatus_Pipistrellus    New Guinea Pipistrelle    LC        S        
-23       21       papuanus_Pipistrellus     Papuan Pipistrelle        LC        S        
-24       10       coromandra_Pipistrellus   Coromandel Pipistrelle    LC        U        
-28       27       abramus_Pipistrellus      Japanese Pipistrelle      LC        S        
-29       27       javanicus_Pipistrellus    Javan Pipistrelle         LC        S        
-30       26       paterculus_Pipistrellus   Mount Popa Pipistrelle    LC        U        
-31       25       endoi_Pipistrellus        Endo's Pipistrelle        EN        D        
-34       33       permixtus_Pipistrellus    Dar-es-salaam Pipistrelle  DD        U        
-35       33       nathusii_Pipistrellus     Nathusius' Pipistrelle    LC        U        
-37       36       pipistrellus_Pipistrellus  Common Pipistrelle        LC        S        
-38       36       pygmaeus_Pipistrellus     Pygmy Pipistrelle         LC        U        
-45       44       kuhlii_Pipistrellus       Kuhl's Pipistrelle        LC        U        
-46       44       hesperidus_Pipistrellus                             LC        U        
-47       43       inexspectatus_Pipistrellus  Aellen's Pipistrelle      DD        U        
-49       48       aero_Pipistrellus         Mount Gargues Pipistrelle  DD        U        
-50       48       maderensis_Pipistrellus   Madeira Pipistrelle       EN        D        
-51       41       deserti_Pipistrellus      Egyptian Pipistrelle      LC        U        
-52       40       rusticus_Pipistrellus     Rusty Pipistrelle         LC        U        
-54       53       minahassae_Pipistrellus   Minahassa Pipistrelle     DD        U        
-55       53       ceylonicus_Pipistrellus   Kelaart's Pipistrelle     LC        S        
-59       58       sanborni_Scotorepens      Northern Broad-nosed Bat  LC        U        
-60       58       greyii_Scotorepens        Little Broad-nosed Bat    LC        S        
-62       61       balstoni_Scotorepens      Inland Broad-nosed Bat    LC        D        
-63       61       orion_Scotorepens         Eastern Broad-nosed Bat   LC        U        
-64       56       schlieffeni_Nycticeinops  Schlieffen's Bat          LC        U        
-71       70       magellanicus_Histiotus    Southern Big-eared Brown Bat  LC        U        
-72       70       montanus_Histiotus        Small Big-eared Brown Bat  LC        U        
-73       69       velatus_Histiotus         Tropical Big-eared Brown Bat  DD        U        
-75       74       laephotis_Histiotus       Thomas's Big-eared Brown Bat  NT        D        
-76       74       macrotus_Histiotus        Big-eared Brown Bat       LC        U        
-77       67       alienus_Histiotus         Strange Big-eared Brown Bat  DD        U        
-81       80       gaskelli_Hesperoptenus    Gaskell's False Serotine  DD        U        
-82       80       tomesi_Hesperoptenus      Large False Serotine      VU        D        
-83       79       blanfordi_Hesperoptenus   Blanford's Bat            LC        U        
-84       78       tickelli_Hesperoptenus    Tickell's Bat             LC        U        
-86       85       cubanus_Nycticeius        Cuban Evening Bat         NT        U        
-87       85       humeralis_Nycticeius      Evening Bat               LC        S        
-89       88       moloneyi_Mimetillus       Moloney's Flat-headed Bat  LC        U        
-90       88       dormeri_Scotozous         Dormer's Bat              LC        S        
-103      102      pfeifferi_Lasiurus        Pfeiffer's Red Bat        NT        U        
-104      102      blossevillii_Lasiurus     Red Bat                   LC        U        
-105      101      salinae_Lasiurus                                    NE        U        
-106      100      degelidus_Lasiurus        Jamaican Red Bat          VU        U        
-109      108      borealis_Lasiurus         Eastern Red Bat           LC        S        
-110      108      varius_Lasiurus           Cinnamon Red Bat          LC        U        
-111      107      minor_Lasiurus            Minor Red Bat             VU        D        
-112      98       seminolus_Lasiurus        Seminole Bat              LC        U        
-114      113      cinereus_Lasiurus         Hawaiian Hoary Bat        LC        U        
-115      113      castaneus_Lasiurus        Tacarcuna Bat             DD        U        
-118      117      intermedius_Lasiurus      Northern Yellow Bat       LC        U        
-119      117      insularis_Lasiurus        Cuban Yellow Bat          VU        U        
-121      120      xanthinus_Lasiurus        Western Yellow Bat        LC        S        
-122      120      ega_Lasiurus              Southern Yellow Bat       LC        U        
-123      95       egregius_Lasiurus         Big Red Bat               DD        U        
-131      130      gouldi_Nyctophilus        Gould's Long-eared Bat    LC        D        
-132      130      bifax_Nyctophilus         Eastern Long-eared Bat    LC        S        
-133      129      walkeri_Nyctophilus       Pygmy Long-eared Bat      LC        S        
-135      134      microtis_Nyctophilus      Papuan Long-eared Bat     LC        S        
-136      134      heran_Nyctophilus         Sundan Long-eared Bat     DD        D        
-138      137      arnhemensis_Nyctophilus   Northern Long-eared Bat   LC        S        
-139      137      geoffroyi_Nyctophilus     Lesser Long-eared Bat     LC        S        
-141      140      microdon_Nyctophilus      Small-toothed Long-eared Bat  DD        U        
-142      140      timoriensis_Nyctophilus   Greater Long-eared Bat    DD        D        
-143      125      imogene_Pharotis          Thomas's Big-eared Bat    CR        U        
-144      124      subflavus_Pipistrellus    Eastern Pipistrelle       LC        S        
-147      146      circumdatus_Arielulus     Bronze Sprite             LC        U        
-148      146      cuprosus_Arielulus        Coppery Sprite            DD        U        
-149      145      societatis_Arielulus      Social Sprite             VU        D        
-152      151      stenopterus_Pipistrellus  Narrow-winged Pipistrelle  LC        U        
-153      151      joffrei_Hypsugo                                     NE        U        
-154      150      anthonyi_Hypsugo                                    NE        U        
-160      159      matroka_Eptesicus         Malagasy Serotine         LC        U        
-161      159      capensis_Neoromicia                                 NE        U        
-163      162      somalicus_Neoromicia                                NE        U        
-164      162      zuluensis_Neoromicia                                NE        U        
-167      166      guineensis_Neoromicia                               NE        U        
-168      166      brunneus_Neoromicia                                 NE        U        
-169      165      melckorum_Neoromicia                                NE        U        
-172      171      tenuipinnis_Neoromicia                              NE        U        
-173      171      rendalli_Neoromicia                                 NE        U        
-174      170      flavescens_Neoromicia                               NE        U        
-177      176      kitcheneri_Hypsugo                                  NE        U        
-178      176      lophurus_Hypsugo                                    NE        U        
-179      175      pulveratus_Hypsugo                                  NE        U        
-182      181      tylopus_Glischropus       Common Thick-thumbed Bat  LC        U        
-183      181      javanus_Glischropus       Javan Thick-thumbed Bat   DD        U        
-185      184      dubiaquercus_Bauerus      Van Gelder's Bat          NT        U        
-186      184      pallidus_Antrozous        Pallid Bat                LC        S        
-203      202      diminutus_Eptesicus       Diminutive Serotine       DD        U        
-204      202      innoxius_Eptesicus        Harmles Serotine          NT        U        
-205      201      bottae_Eptesicus          Botta's Serotine          LC        U        
-206      200      platyops_Eptesicus        Lagos Serotine            DD        U        
-207      199      tatei_Eptesicus           Sombre Bat                DD        U        
-209      208      guadeloupensis_Eptesicus  Guadeloupean Big Brown Bat  VU        U        
-210      208      pachyotis_Eptesicus       Thick-eared Bat           LC        U        
-211      197      kobayashii_Eptesicus      Kobayashi's Serotine      DD        U        
-214      213      andinus_Eptesicus         Little Black Serotinelittle Black Serotine  LC        U        
-215      213      chiriquinus_Eptesicus     Chiriquinan Serotine      LC        U        
-216      212      brasiliensis_Eptesicus    Brazilian Brown Bat       LC        U        
-221      220      hottentotus_Eptesicus     Long-tailed House Bat     LC        U        
-222      220      fuscus_Eptesicus          Big Brown Bat             LC        I        
-223      219      serotinus_Eptesicus       Serotine                  LC        U        
-224      218      dimissus_Eptesicus        Surat Serotine            DD        U        
-225      217      furinalis_Eptesicus       Argentine Brown Bat       LC        U        
-229      228      gobiensis_Eptesicus       Gobi Big Brown Bat        LC        U        
-230      228      nilssonii_Eptesicus       Northern Bat              LC        S        
-231      227      japonensis_Eptesicus      Japanese Short-tailed Bat  EN        D        
-232      226      bobrinskoi_Eptesicus      Bobrinski's Serotine      LC        U        
-233      193      nasutus_Eptesicus         Sind Serotine Bat         LC        U        
-234      192      floweri_Eptesicus         Horn-skinned Bat          LC        S        
-235      191      brachypterus_Philetor     Rohu's Bat                LC        U        
-244      243      dinganii_Scotophilus      African Yellow Bat        LC        U        
-245      243      robustus_Scotophilus      Robust Yellow Bat         LC        U        
-246      242      nux_Scotophilus           Nut-colored Yellow Bat    LC        U        
-248      247      leucogaster_Scotophilus   White-bellied Yellow Bat  LC        U        
-249      247      nucella_Scotophilus       Robbin's House Bat        DD        U        
-250      240      nigrita_Scotophilus       Giant House Bat           LC        D        
-252      251      kuhlii_Scotophilus        Lesser Asiatic Yellow House Bat  LC        S        
-253      251      collinus_Scotophilus      Sody's Yellow House Bat   LC        U        
-256      255      heathii_Scotophilus       Greater Asiatic Yellow House Bat  LC        S        
-257      255      celebensis_Scotophilus    Sulawesi Yellow House Bat  DD        U        
-259      258      borbonicus_Scotophilus    Lesser Yellow Bat         DD        U        
-260      258      viridis_Scotophilus       Greenish Yellow Bat       LC        U        
-261      237      ornatus_Scotomanes        Harlequin Bat             LC        U        
-262      236      io_Ia                     Great Evening Bat         LC        U        
-268      267      albigula_Scotoecus                                  NE        U        
-269      267      hindei_Scotoecus                                    NE        U        
-270      266      hirundo_Scotoecus         Dark-winged Lesser House Bat  LC        U        
-271      265      albofuscus_Scotoecus      Light-winged Lesser House Bat  DD        U        
-272      264      pallidus_Scotoecus        Desert Yellow Lesser House Bat.  LC        U        
-274      273      sinensis_Vespertilio      Asian Particolored Bat    LC        U        
-275      273      murinus_Vespertilio       Particoloured Bat         LC        S        
-278      277      eisentrauti_Hypsugo                                 NE        U        
-279      277      anchietae_Hypsugo                                   NE        U        
-280      276      noctivagans_Lasionycteris  Silver-haired Bat         LC        S        
+index,parent,name1,name2,common,redlist,popstab
+15,14,"wattsi","Pipistrellus","Watts's Pipistrelle",LC,U
+16,14,"adamsi","Pipistrellus","Forest Pipistrelle",LC,S
+17,13,"tenuis","Pipistrellus","Least Pipistrelle",LC,S
+19,18,"westralis","Pipistrellus","Northern Pipistrelle",LC,S
+20,18,"collinus","Pipistrellus","Mountain Pipistrelle",LC,S
+22,21,"angulatus","Pipistrellus","New Guinea Pipistrelle",LC,S
+23,21,"papuanus","Pipistrellus","Papuan Pipistrelle",LC,S
+24,10,"coromandra","Pipistrellus","Coromandel Pipistrelle",LC,U
+28,27,"abramus","Pipistrellus","Japanese Pipistrelle",LC,S
+29,27,"javanicus","Pipistrellus","Javan Pipistrelle",LC,S
+30,26,"paterculus","Pipistrellus","Mount Popa Pipistrelle",LC,U
+31,25,"endoi","Pipistrellus","Endo's Pipistrelle",EN,D
+34,33,"permixtus","Pipistrellus","Dar-es-salaam Pipistrelle",DD,U
+35,33,"nathusii","Pipistrellus","Nathusius' Pipistrelle",LC,U
+37,36,"pipistrellus","Pipistrellus","Common Pipistrelle",LC,S
+38,36,"pygmaeus","Pipistrellus","Pygmy Pipistrelle",LC,U
+45,44,"kuhlii","Pipistrellus","Kuhl's Pipistrelle",LC,U
+46,44,"hesperidus","Pipistrellus","",LC,U
+47,43,"inexspectatus","Pipistrellus","Aellen's Pipistrelle",DD,U
+49,48,"aero","Pipistrellus","Mount Gargues Pipistrelle",DD,U
+50,48,"maderensis","Pipistrellus","Madeira Pipistrelle",EN,D
+51,41,"deserti","Pipistrellus","Egyptian Pipistrelle",LC,U
+52,40,"rusticus","Pipistrellus","Rusty Pipistrelle",LC,U
+54,53,"minahassae","Pipistrellus","Minahassa Pipistrelle",DD,U
+55,53,"ceylonicus","Pipistrellus","Kelaart's Pipistrelle",LC,S
+59,58,"sanborni","Scotorepens","Northern Broad-nosed Bat",LC,U
+60,58,"greyii","Scotorepens","Little Broad-nosed Bat",LC,S
+62,61,"balstoni","Scotorepens","Inland Broad-nosed Bat",LC,D
+63,61,"orion","Scotorepens","Eastern Broad-nosed Bat",LC,U
+64,56,"schlieffeni","Nycticeinops","Schlieffen's Bat",LC,U
+71,70,"magellanicus","Histiotus","Southern Big-eared Brown Bat",LC,U
+72,70,"montanus","Histiotus","Small Big-eared Brown Bat",LC,U
+73,69,"velatus","Histiotus","Tropical Big-eared Brown Bat",DD,U
+75,74,"laephotis","Histiotus","Thomas's Big-eared Brown Bat",NT,D
+76,74,"macrotus","Histiotus","Big-eared Brown Bat",LC,U
+77,67,"alienus","Histiotus","Strange Big-eared Brown Bat",DD,U
+81,80,"gaskelli","Hesperoptenus","Gaskell's False Serotine",DD,U
+82,80,"tomesi","Hesperoptenus","Large False Serotine",VU,D
+83,79,"blanfordi","Hesperoptenus","Blanford's Bat",LC,U
+84,78,"tickelli","Hesperoptenus","Tickell's Bat",LC,U
+86,85,"cubanus","Nycticeius","Cuban Evening Bat",NT,U
+87,85,"humeralis","Nycticeius","Evening Bat",LC,S
+89,88,"moloneyi","Mimetillus","Moloney's Flat-headed Bat",LC,U
+90,88,"dormeri","Scotozous","Dormer's Bat",LC,S
+103,102,"pfeifferi","Lasiurus","Pfeiffer's Red Bat",NT,U
+104,102,"blossevillii","Lasiurus","Red Bat",LC,U
+105,101,"salinae","Lasiurus","",NE,U
+106,100,"degelidus","Lasiurus","Jamaican Red Bat",VU,U
+109,108,"borealis","Lasiurus","Eastern Red Bat",LC,S
+110,108,"varius","Lasiurus","Cinnamon Red Bat",LC,U
+111,107,"minor","Lasiurus","Minor Red Bat",VU,D
+112,98,"seminolus","Lasiurus","Seminole Bat",LC,U
+114,113,"cinereus","Lasiurus","Hawaiian Hoary Bat",LC,U
+115,113,"castaneus","Lasiurus","Tacarcuna Bat",DD,U
+118,117,"intermedius","Lasiurus","Northern Yellow Bat",LC,U
+119,117,"insularis","Lasiurus","Cuban Yellow Bat",VU,U
+121,120,"xanthinus","Lasiurus","Western Yellow Bat",LC,S
+122,120,"ega","Lasiurus","Southern Yellow Bat",LC,U
+123,95,"egregius","Lasiurus","Big Red Bat",DD,U
+131,130,"gouldi","Nyctophilus","Gould's Long-eared Bat",LC,D
+132,130,"bifax","Nyctophilus","Eastern Long-eared Bat",LC,S
+133,129,"walkeri","Nyctophilus","Pygmy Long-eared Bat",LC,S
+135,134,"microtis","Nyctophilus","Papuan Long-eared Bat",LC,S
+136,134,"heran","Nyctophilus","Sundan Long-eared Bat",DD,D
+138,137,"arnhemensis","Nyctophilus","Northern Long-eared Bat",LC,S
+139,137,"geoffroyi","Nyctophilus","Lesser Long-eared Bat",LC,S
+141,140,"microdon","Nyctophilus","Small-toothed Long-eared Bat",DD,U
+142,140,"timoriensis","Nyctophilus","Greater Long-eared Bat",DD,D
+143,125,"imogene","Pharotis","Thomas's Big-eared Bat",CR,U
+144,124,"subflavus","Pipistrellus","Eastern Pipistrelle",LC,S
+147,146,"circumdatus","Arielulus","Bronze Sprite",LC,U
+148,146,"cuprosus","Arielulus","Coppery Sprite",DD,U
+149,145,"societatis","Arielulus","Social Sprite",VU,D
+152,151,"stenopterus","Pipistrellus","Narrow-winged Pipistrelle",LC,U
+153,151,"joffrei","Hypsugo","",NE,U
+154,150,"anthonyi","Hypsugo","",NE,U
+160,159,"matroka","Eptesicus","Malagasy Serotine",LC,U
+161,159,"capensis","Neoromicia","",NE,U
+163,162,"somalicus","Neoromicia","",NE,U
+164,162,"zuluensis","Neoromicia","",NE,U
+167,166,"guineensis","Neoromicia","",NE,U
+168,166,"brunneus","Neoromicia","",NE,U
+169,165,"melckorum","Neoromicia","",NE,U
+172,171,"tenuipinnis","Neoromicia","",NE,U
+173,171,"rendalli","Neoromicia","",NE,U
+174,170,"flavescens","Neoromicia","",NE,U
+177,176,"kitcheneri","Hypsugo","",NE,U
+178,176,"lophurus","Hypsugo","",NE,U
+179,175,"pulveratus","Hypsugo","",NE,U
+182,181,"tylopus","Glischropus","Common Thick-thumbed Bat",LC,U
+183,181,"javanus","Glischropus","Javan Thick-thumbed Bat",DD,U
+185,184,"dubiaquercus","Bauerus","Van Gelder's Bat",NT,U
+186,184,"pallidus","Antrozous","Pallid Bat",LC,S
+203,202,"diminutus","Eptesicus","Diminutive Serotine",DD,U
+204,202,"innoxius","Eptesicus","Harmles Serotine",NT,U
+205,201,"bottae","Eptesicus","Botta's Serotine",LC,U
+206,200,"platyops","Eptesicus","Lagos Serotine",DD,U
+207,199,"tatei","Eptesicus","Sombre Bat",DD,U
+209,208,"guadeloupensis","Eptesicus","Guadeloupean Big Brown Bat",VU,U
+210,208,"pachyotis","Eptesicus","Thick-eared Bat",LC,U
+211,197,"kobayashii","Eptesicus","Kobayashi's Serotine",DD,U
+214,213,"andinus","Eptesicus","Little Black Serotinelittle Black Serotine",LC,U
+215,213,"chiriquinus","Eptesicus","Chiriquinan Serotine",LC,U
+216,212,"brasiliensis","Eptesicus","Brazilian Brown Bat",LC,U
+221,220,"hottentotus","Eptesicus","Long-tailed House Bat",LC,U
+222,220,"fuscus","Eptesicus","Big Brown Bat",LC,I
+223,219,"serotinus","Eptesicus","Serotine",LC,U
+224,218,"dimissus","Eptesicus","Surat Serotine",DD,U
+225,217,"furinalis","Eptesicus","Argentine Brown Bat",LC,U
+229,228,"gobiensis","Eptesicus","Gobi Big Brown Bat",LC,U
+230,228,"nilssonii","Eptesicus","Northern Bat",LC,S
+231,227,"japonensis","Eptesicus","Japanese Short-tailed Bat",EN,D
+232,226,"bobrinskoi","Eptesicus","Bobrinski's Serotine",LC,U
+233,193,"nasutus","Eptesicus","Sind Serotine Bat",LC,U
+234,192,"floweri","Eptesicus","Horn-skinned Bat",LC,S
+235,191,"brachypterus","Philetor","Rohu's Bat",LC,U
+244,243,"dinganii","Scotophilus","African Yellow Bat",LC,U
+245,243,"robustus","Scotophilus","Robust Yellow Bat",LC,U
+246,242,"nux","Scotophilus","Nut-colored Yellow Bat",LC,U
+248,247,"leucogaster","Scotophilus","White-bellied Yellow Bat",LC,U
+249,247,"nucella","Scotophilus","Robbin's House Bat",DD,U
+250,240,"nigrita","Scotophilus","Giant House Bat",LC,D
+252,251,"kuhlii","Scotophilus","Lesser Asiatic Yellow House Bat",LC,S
+253,251,"collinus","Scotophilus","Sody's Yellow House Bat",LC,U
+256,255,"heathii","Scotophilus","Greater Asiatic Yellow House Bat",LC,S
+257,255,"celebensis","Scotophilus","Sulawesi Yellow House Bat",DD,U
+259,258,"borbonicus","Scotophilus","Lesser Yellow Bat",DD,U
+260,258,"viridis","Scotophilus","Greenish Yellow Bat",LC,U
+261,237,"ornatus","Scotomanes","Harlequin Bat",LC,U
+262,236,"io","Ia","Great Evening Bat",LC,U
+268,267,"albigula","Scotoecus","",NE,U
+269,267,"hindei","Scotoecus","",NE,U
+270,266,"hirundo","Scotoecus","Dark-winged Lesser House Bat",LC,U
+271,265,"albofuscus","Scotoecus","Light-winged Lesser House Bat",DD,U
+272,264,"pallidus","Scotoecus","Desert Yellow Lesser House Bat.",LC,U
+274,273,"sinensis","Vespertilio","Asian Particolored Bat",LC,U
+275,273,"murinus","Vespertilio","Particoloured Bat",LC,S
+278,277,"eisentrauti","Hypsugo","",NE,U
+279,277,"anchietae","Hypsugo","",NE,U
+280,276,"noctivagans","Lasionycteris","Silver-haired Bat",LC,S

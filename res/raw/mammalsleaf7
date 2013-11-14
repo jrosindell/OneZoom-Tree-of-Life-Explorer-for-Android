@@ -1,102 +1,102 @@
-index    parent   name                      common                    redlist   popstab  
-15       14       watersi_Gerbillus         Waters's Gerbil           LC        U        
-16       14       nancillus_Gerbillus       Sudan Gerbil              DD        U        
-17       13       perpallidus_Gerbillus     Pale Gerbil               LC        S        
-20       19       gleadowi_Gerbillus        Little Hairy-footed Gerbil  NT        D        
-21       19       rosalinda_Gerbillus       Rosalinda Gerbil          LC        U        
-22       18       lowei_Dipodillus                                    NE        U        
-25       24       grobbeni_Gerbillus        Grobben's Gerbil          DD        U        
-26       24       bottai_Dipodillus                                   NE        U        
-27       23       jamesi_Dipodillus                                   NE        U        
-31       30       cheesmani_Gerbillus       Cheesman's Gerbil         LC        S        
-32       30       hesperinus_Gerbillus      Western Gerbil            EN        U        
-33       29       aquilus_Gerbillus         Swarthy Gerbil            LC        U        
-34       28       tarabuli_Gerbillus        Tarabul's Gerbil          LC        S        
-37       36       floweri_Gerbillus         Flower's Gerbil           LC        S        
-38       36       somalicus_Dipodillus                                NE        U        
-39       35       garamantis_Gerbillus                                NE        U        
-42       41       hoogstraali_Gerbillus     Hoogstraal's Gerbil       VU        U        
-43       41       occiduus_Gerbillus        Occidental Gerbil         DD        U        
-45       44       brockmani_Gerbillus       Brockman's Gerbil         DD        U        
-46       44       amoenus_Gerbillus         Pleasant Gerbil           LC        U        
-50       49       burtoni_Gerbillus         Burton's Gerbil           DD        U        
-51       49       mauritaniae_Gerbillus                               NE        U        
-52       48       principulus_Gerbillus     Principal Gerbil          DD        U        
-53       47       henleyi_Gerbillus         Pygmy Gerbil              LC        U        
-59       58       campestris_Dipodillus                               NE        U        
-60       58       syrticus_Gerbillus                                  NE        U        
-61       57       stigmonyx_Dipodillus                                NE        U        
-62       56       harwoodi_Dipodillus                                 NE        U        
-63       55       famulus_Gerbillus         Black-tufted Gerbil       LC        U        
-65       64       muriculus_Gerbillus       Barfur Gerbil             DD        U        
-66       64       agag_Gerbillus            Agag Gerbil               DD        U        
-71       70       pyramidum_Gerbillus       Greater Egyptian Gerbil   LC        S        
-72       70       latastei_Gerbillus        Lataste's Gerbil          LC        U        
-73       69       mesopotamiae_Gerbillus    Mesopotamian Gerbil       LC        D        
-74       68       pulvinatus_Gerbillus      Cushioned Gerbil          LC        U        
-75       67       gerbillus_Gerbillus       Lesser Egyptian Gerbil    LC        S        
-81       80       andersoni_Gerbillus       Anderson's Gerbil         LC        U        
-82       80       nigeriae_Gerbillus        Nigerian Gerbil           LC        S        
-83       79       mackilligini_Dipodillus                             NE        U        
-85       84       zakariai_Dipodillus                                 NE        U        
-86       84       simoni_Dipodillus                                   NE        U        
-89       88       maghrebi_Dipodillus                                 NE        U        
-90       88       dasyurus_Dipodillus                                 NE        U        
-91       87       poecilops_Gerbillus       Large Aden Gerbil         LC        U        
-95       94       dunni_Gerbillus           Somalia Gerbil            LC        U        
-96       94       vivax_Gerbillus                                     NE        U        
-97       93       pusillus_Gerbillus        Least Gerbil              LC        U        
-98       92       acticola_Gerbillus        Berbera Gerbil            DD        U        
-100      99       nanus_Gerbillus           Dwarf Gerbil              LC        S        
-101      99       dongolanus_Gerbillus                                NE        U        
-102      2        peeli_Microdillus         Somali Pygmy Gerbil       LC        U        
-107      106      vallinus_Gerbillurus      Bushy-tailed Hairy-footed Gerbil  LC        S        
-108      106      paeba_Gerbillurus         Hairy-footed Gerbil       LC        S        
-109      105      setzeri_Gerbillurus       Namib Brush-tailed Gerbil  LC        S        
-110      104      tytonis_Gerbillurus       Dune Hairy-footed Gerbil  LC        S        
-111      103      auricularis_Desmodillus   Cape Short-eared Gerbil   LC        S        
-127      126      unguiculatus_Meriones     Mongolian Gerbil          LC        U        
-128      126      tristrami_Meriones        Tristram's Jird           LC        S        
-130      129      crassus_Meriones          Sundevall's Jird          LC        U        
-131      129      dahli_Meriones            Dahl's Jird               EN        D        
-135      134      chengi_Meriones           Cheng's Jird              LC        U        
-136      134      libycus_Meriones          Libyan Jird               LC        S        
-137      133      vinogradovi_Meriones      Vinogradov's Jird         LC        U        
-138      132      zarudnyi_Meriones         Zarundny's Jird           DD        U        
-141      140      meridianus_Meriones       Mid-day Gerbil            LC        U        
-142      140      arimalius_Meriones        Arabian Jird              LC        U        
-143      139      sacramenti_Meriones       Buxton's Jird             VU        D        
-145      144      shawi_Meriones            Shaw's Jird               LC        S        
-146      144      grandis_Meriones                                    LC        S        
-147      121      hurrianae_Meriones        Indian Desert Gerbil      LC        U        
-149      148      persicus_Meriones         Persian Jird              LC        U        
-150      148      rex_Meriones              King Jird                 LC        U        
-151      119      tamariscinus_Meriones     Tamarisk Gerbil           LC        U        
-153      152      przewalskii_Brachiones    Przewalski's Jird         LC        U        
-154      152      calurus_Sekeetamys        Bushy-tailed Jird         LC        S        
-156      155      vexillaris_Psammomys      Thin Sand Rat             DD        U        
-157      155      obesus_Psammomys          Fat Sand Rat              LC        S        
-158      116      opimus_Rhombomys          Great Gerbil              LC        S        
-159      115      imbellis_Ammodillus       Ammodile                  DD        S        
-160      114      duprasi_Pachyuromys       Fat-tailed Gerbil         LC        S        
-170      169      nigricaudus_Gerbilliscus  Black-tailed Gerbil       LC        S        
-171      169      robustus_Gerbilliscus     Fringe-tailed Gerbil      LC        S        
-172      168      brantsii_Gerbilliscus     Highveld Gerbil           LC        U        
-173      167      validus_Gerbilliscus      Savanna Gerbil            LC        S        
-175      174      inclusus_Gerbilliscus     Gorongoza Gerbil          LC        U        
-176      174      guineae_Gerbilliscus      Guinea Gerbil             LC        S        
-177      165      phillipsi_Gerbilliscus    Phillip's Gerbil          LC        U        
-180      179      kempi_Gerbilliscus        Kemp's Gerbil             LC        U        
-181      179      afra_Gerbilliscus         Cape Gerbil               LC        U        
-182      178      leucogaster_Gerbilliscus  Bushveld Gerbil           LC        S        
-183      163      indica_Tatera             Indian Gerbil             LC        U        
-184      162      boehmi_Gerbilliscus       Boehm's Gerbil            LC        S        
-189      188      pygargus_Taterillus       Senegal Gerbil            LC        S        
-190      188      congicus_Taterillus       Congo Gerbil              LC        U        
-192      191      gracilis_Taterillus       Gracile Tateril           LC        S        
-193      191      emini_Taterillus          Emin's Gerbil             LC        U        
-195      194      arenarius_Taterillus      Robbins's Tateril         LC        U        
-196      194      lacustris_Taterillus      Lake Chad Gerbil          LC        U        
-198      197      petteri_Taterillus        Petter's Gerbil           LC        S        
-199      197      harringtoni_Taterillus                              NE        U        
-200      112      braueri_Desmodilliscus    Pouched Gerbil            LC        S        
+index,parent,name1,name2,common,redlist,popstab
+15,14,"watersi","Gerbillus","Waters's Gerbil",LC,U
+16,14,"nancillus","Gerbillus","Sudan Gerbil",DD,U
+17,13,"perpallidus","Gerbillus","Pale Gerbil",LC,S
+20,19,"gleadowi","Gerbillus","Little Hairy-footed Gerbil",NT,D
+21,19,"rosalinda","Gerbillus","Rosalinda Gerbil",LC,U
+22,18,"lowei","Dipodillus","",NE,U
+25,24,"grobbeni","Gerbillus","Grobben's Gerbil",DD,U
+26,24,"bottai","Dipodillus","",NE,U
+27,23,"jamesi","Dipodillus","",NE,U
+31,30,"cheesmani","Gerbillus","Cheesman's Gerbil",LC,S
+32,30,"hesperinus","Gerbillus","Western Gerbil",EN,U
+33,29,"aquilus","Gerbillus","Swarthy Gerbil",LC,U
+34,28,"tarabuli","Gerbillus","Tarabul's Gerbil",LC,S
+37,36,"floweri","Gerbillus","Flower's Gerbil",LC,S
+38,36,"somalicus","Dipodillus","",NE,U
+39,35,"garamantis","Gerbillus","",NE,U
+42,41,"hoogstraali","Gerbillus","Hoogstraal's Gerbil",VU,U
+43,41,"occiduus","Gerbillus","Occidental Gerbil",DD,U
+45,44,"brockmani","Gerbillus","Brockman's Gerbil",DD,U
+46,44,"amoenus","Gerbillus","Pleasant Gerbil",LC,U
+50,49,"burtoni","Gerbillus","Burton's Gerbil",DD,U
+51,49,"mauritaniae","Gerbillus","",NE,U
+52,48,"principulus","Gerbillus","Principal Gerbil",DD,U
+53,47,"henleyi","Gerbillus","Pygmy Gerbil",LC,U
+59,58,"campestris","Dipodillus","",NE,U
+60,58,"syrticus","Gerbillus","",NE,U
+61,57,"stigmonyx","Dipodillus","",NE,U
+62,56,"harwoodi","Dipodillus","",NE,U
+63,55,"famulus","Gerbillus","Black-tufted Gerbil",LC,U
+65,64,"muriculus","Gerbillus","Barfur Gerbil",DD,U
+66,64,"agag","Gerbillus","Agag Gerbil",DD,U
+71,70,"pyramidum","Gerbillus","Greater Egyptian Gerbil",LC,S
+72,70,"latastei","Gerbillus","Lataste's Gerbil",LC,U
+73,69,"mesopotamiae","Gerbillus","Mesopotamian Gerbil",LC,D
+74,68,"pulvinatus","Gerbillus","Cushioned Gerbil",LC,U
+75,67,"gerbillus","Gerbillus","Lesser Egyptian Gerbil",LC,S
+81,80,"andersoni","Gerbillus","Anderson's Gerbil",LC,U
+82,80,"nigeriae","Gerbillus","Nigerian Gerbil",LC,S
+83,79,"mackilligini","Dipodillus","",NE,U
+85,84,"zakariai","Dipodillus","",NE,U
+86,84,"simoni","Dipodillus","",NE,U
+89,88,"maghrebi","Dipodillus","",NE,U
+90,88,"dasyurus","Dipodillus","",NE,U
+91,87,"poecilops","Gerbillus","Large Aden Gerbil",LC,U
+95,94,"dunni","Gerbillus","Somalia Gerbil",LC,U
+96,94,"vivax","Gerbillus","",NE,U
+97,93,"pusillus","Gerbillus","Least Gerbil",LC,U
+98,92,"acticola","Gerbillus","Berbera Gerbil",DD,U
+100,99,"nanus","Gerbillus","Dwarf Gerbil",LC,S
+101,99,"dongolanus","Gerbillus","",NE,U
+102,2,"peeli","Microdillus","Somali Pygmy Gerbil",LC,U
+107,106,"vallinus","Gerbillurus","Bushy-tailed Hairy-footed Gerbil",LC,S
+108,106,"paeba","Gerbillurus","Hairy-footed Gerbil",LC,S
+109,105,"setzeri","Gerbillurus","Namib Brush-tailed Gerbil",LC,S
+110,104,"tytonis","Gerbillurus","Dune Hairy-footed Gerbil",LC,S
+111,103,"auricularis","Desmodillus","Cape Short-eared Gerbil",LC,S
+127,126,"unguiculatus","Meriones","Mongolian Gerbil",LC,U
+128,126,"tristrami","Meriones","Tristram's Jird",LC,S
+130,129,"crassus","Meriones","Sundevall's Jird",LC,U
+131,129,"dahli","Meriones","Dahl's Jird",EN,D
+135,134,"chengi","Meriones","Cheng's Jird",LC,U
+136,134,"libycus","Meriones","Libyan Jird",LC,S
+137,133,"vinogradovi","Meriones","Vinogradov's Jird",LC,U
+138,132,"zarudnyi","Meriones","Zarundny's Jird",DD,U
+141,140,"meridianus","Meriones","Mid-day Gerbil",LC,U
+142,140,"arimalius","Meriones","Arabian Jird",LC,U
+143,139,"sacramenti","Meriones","Buxton's Jird",VU,D
+145,144,"shawi","Meriones","Shaw's Jird",LC,S
+146,144,"grandis","Meriones","",LC,S
+147,121,"hurrianae","Meriones","Indian Desert Gerbil",LC,U
+149,148,"persicus","Meriones","Persian Jird",LC,U
+150,148,"rex","Meriones","King Jird",LC,U
+151,119,"tamariscinus","Meriones","Tamarisk Gerbil",LC,U
+153,152,"przewalskii","Brachiones","Przewalski's Jird",LC,U
+154,152,"calurus","Sekeetamys","Bushy-tailed Jird",LC,S
+156,155,"vexillaris","Psammomys","Thin Sand Rat",DD,U
+157,155,"obesus","Psammomys","Fat Sand Rat",LC,S
+158,116,"opimus","Rhombomys","Great Gerbil",LC,S
+159,115,"imbellis","Ammodillus","Ammodile",DD,S
+160,114,"duprasi","Pachyuromys","Fat-tailed Gerbil",LC,S
+170,169,"nigricaudus","Gerbilliscus","Black-tailed Gerbil",LC,S
+171,169,"robustus","Gerbilliscus","Fringe-tailed Gerbil",LC,S
+172,168,"brantsii","Gerbilliscus","Highveld Gerbil",LC,U
+173,167,"validus","Gerbilliscus","Savanna Gerbil",LC,S
+175,174,"inclusus","Gerbilliscus","Gorongoza Gerbil",LC,U
+176,174,"guineae","Gerbilliscus","Guinea Gerbil",LC,S
+177,165,"phillipsi","Gerbilliscus","Phillip's Gerbil",LC,U
+180,179,"kempi","Gerbilliscus","Kemp's Gerbil",LC,U
+181,179,"afra","Gerbilliscus","Cape Gerbil",LC,U
+182,178,"leucogaster","Gerbilliscus","Bushveld Gerbil",LC,S
+183,163,"indica","Tatera","Indian Gerbil",LC,U
+184,162,"boehmi","Gerbilliscus","Boehm's Gerbil",LC,S
+189,188,"pygargus","Taterillus","Senegal Gerbil",LC,S
+190,188,"congicus","Taterillus","Congo Gerbil",LC,U
+192,191,"gracilis","Taterillus","Gracile Tateril",LC,S
+193,191,"emini","Taterillus","Emin's Gerbil",LC,U
+195,194,"arenarius","Taterillus","Robbins's Tateril",LC,U
+196,194,"lacustris","Taterillus","Lake Chad Gerbil",LC,U
+198,197,"petteri","Taterillus","Petter's Gerbil",LC,S
+199,197,"harringtoni","Taterillus","",NE,U
+200,112,"braueri","Desmodilliscus","Pouched Gerbil",LC,S

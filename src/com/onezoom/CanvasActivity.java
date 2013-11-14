@@ -1,7 +1,5 @@
 package com.onezoom;
 
-import java.io.FileNotFoundException;
-
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 
@@ -71,11 +69,24 @@ public class CanvasActivity extends Activity{
 		return fulltree;
 	}
 	
+//	public void initialization() {
+//		fulltree = MidNode.createNode(null, selectedString, false, 0);
+//		fulltree.init();
+//		MidNode.setScreenSize(0, 0, 800, 1200);
+//		fulltree.recalculate(200, 900, 1f);
+//		treeView.setTreeBeingInitialized(true);	
+//	}
+	
 	public void initialization() {
-		fulltree = MidNode.createNode(null, selectedString, false, 0);
-		fulltree.init();
+//		fulltree = MidNode.createNode(null, selectedString, false, 0);
+//		fulltree.init();
 		MidNode.setScreenSize(0, 0, 800, 1200);
+		fulltree = MidNode.createNode(this, selectedItem.toLowerCase(), "40");
+		Log.d("debug", selectedItem);
+//		fulltree.preCalculateWholeTree();
 		fulltree.recalculate(200, 900, 1f);
+		fulltree.init();
+		fulltree.outputInitElement();
 		treeView.setTreeBeingInitialized(true);	
 	}
 	
