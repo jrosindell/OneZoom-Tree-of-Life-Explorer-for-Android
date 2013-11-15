@@ -1,0 +1,103 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"onsloviana","Lerista","",NE,U
+14,12,"bipes","Lerista","",NE,U
+15,11,"frosti","Lerista","",NE,U
+16,10,"greeri","Lerista","",NE,U
+19,18,"distinguenda","Lerista","",NE,U
+20,18,"labialis","Lerista","",NE,U
+21,17,"orientalis","Lerista","",NE,U
+26,25,"fragilis","Lerista","",NE,U
+27,25,"dorsalis","Lerista","",NE,U
+28,24,"karlschmidti","Lerista","",NE,U
+29,23,"allanae","Lerista","Allan's Lerista",CR,U
+31,30,"punctatovittata","Lerista","",NE,U
+32,30,"simillima","Lerista","",NE,U
+40,39,"connivens","Lerista","",NE,U
+41,39,"gerrardi","Lerista","",NE,U
+42,38,"stylis","Lerista","",NE,U
+44,43,"griffini","Lerista","",NE,U
+45,43,"cinerea","Lerista","",NE,U
+46,36,"lineopunctulata","Lerista","",NE,U
+47,35,"terdigitata","Lerista","",NE,U
+48,34,"muelleri","Lerista","",NE,U
+52,51,"picturata","Lerista","",NE,U
+53,51,"neander","Lerista","",NE,U
+54,50,"wilkinsi","Lerista","",NE,U
+55,49,"borealis","Lerista","",NE,U
+58,57,"desertorum","Lerista","",NE,U
+59,57,"ameles","Lerista","",NE,U
+60,56,"xanthura","Lerista","",NE,U
+67,66,"planiventralis","Lerista","",NE,U
+68,66,"stictopleura","Lerista","",NE,U
+70,69,"bougainvillii","Lerista","",NE,U
+71,69,"praepedita","Lerista","",NE,U
+72,64,"ips","Lerista","",NE,U
+73,63,"macropisthopus","Lerista","",NE,U
+75,74,"vittata","Lerista","Mount Cooper Striped Lerista",EN,U
+76,74,"microtis","Lerista","",NE,U
+79,78,"uniduo","Lerista","",NE,U
+80,78,"apoda","Lerista","",NE,U
+81,77,"tetradactyla","Lerista","",NE,U
+89,88,"australis","Ctenotus","",NE,U
+90,88,"robustus","Ctenotus","",NE,U
+91,87,"grandis","Ctenotus","",NE,U
+92,86,"schevilli","Ctenotus","",NE,U
+93,85,"pulchellus","Ctenotus","",NE,U
+95,94,"taeniolatus","Ctenotus","",NE,U
+96,94,"pantherinus","Ctenotus","",NE,U
+99,98,"labillardieri","Ctenotus","",NE,U
+100,98,"rubicundus","Ctenotus","",NE,U
+102,101,"essingtoni","Ctenotus","",NE,U
+103,101,"brooksi","Ctenotus","",NE,U
+105,104,"youngsoni","Ctenotus","",NE,U
+106,104,"fallens","Ctenotus","",NE,U
+107,3,"mccoyi","Nannoscincus","",NE,U
+118,117,"brachysoma","Eulamprus","",NE,U
+119,117,"martini","Eulamprus","",NE,U
+120,116,"tigrinus","Eulamprus","",NE,U
+121,115,"tenuis","Eulamprus","",NE,U
+122,114,"amplus","Eulamprus","",NE,U
+123,113,"heatwolei","Eulamprus","",NE,U
+125,124,"luteilateralis","Eulamprus","",NE,U
+126,124,"tympanum","Eulamprus","",EN,U
+129,128,"leuraensis","Eulamprus","Blue Mountain Water Skink",EN,U
+130,128,"quoyii","Eulamprus","",NE,U
+131,127,"murrayi","Eulamprus","",NE,U
+132,110,"queenslandiae","Gnypetoscincus","",NE,U
+136,135,"cooloolensis","Ophioscincus","",NE,U
+137,135,"ophioscincus","Ophioscincus","",NE,U
+138,134,"truncatus","Ophioscincus","",NE,U
+141,140,"reticulatum","Coeranoscincus","",NE,U
+142,140,"frontalis","Coeranoscincus","",NE,U
+143,139,"equalis","Saiphos","",NE,U
+147,146,"scutirostrum","Calyptotis","",NE,U
+148,146,"temporalis","Calyptotis","",NE,U
+150,149,"lepidorostrum","Calyptotis","",NE,U
+151,149,"ruficauda","Calyptotis","",NE,U
+152,144,"thorntonensis","Calyptotis","",NE,U
+155,154,"spenceri","Pseudemoia","",NE,U
+156,154,"baudini","Pseudemoia","",NE,U
+157,153,"entrecasteauxii","Pseudemoia","",NE,U
+165,164,"punctatus","Glaphyromorphus","",NE,U
+166,164,"douglasi","Glaphyromorphus","",NE,U
+167,163,"fuscicaudis","Glaphyromorphus","",NE,U
+169,168,"mjobergi","Glaphyromorphus","",NE,U
+170,168,"pumilus","Glaphyromorphus","",NE,U
+172,171,"gracilipes","Glaphyromorphus","",NE,U
+173,171,"pardalis","Glaphyromorphus","",NE,U
+178,177,"crassicaudus","Glaphyromorphus","",NE,U
+179,177,"mjoebergi","Glaphyromorphus","",NE,U
+180,176,"darwiniensis","Glaphyromorphus","",NE,U
+182,181,"nigricaudis","Glaphyromorphus","",NE,U
+183,181,"cracens","Glaphyromorphus","",NE,U
+184,174,"arnhemicus","Glaphyromorphus","",NE,U
+185,159,"isolepis","Glaphyromorphus","",NE,U
+192,191,"talinis","Brachymeles","Dumeril's Short-legged Skink",LC,S
+193,191,"pathfinderi","Brachymeles","Cotabato Worm Skink",DD,U
+195,194,"bonitae","Brachymeles","Stub-limbed Burrowing Skink",LC,S
+196,194,"samarensis","Brachymeles","Two-digit Worm Skink",LC,S
+198,197,"schadenbergi","Brachymeles","",LC,S
+199,197,"gracilis","Brachymeles","",LC,S
+200,188,"boulengeri","Brachymeles","Boulenger's Short-legged Skink",LC,S
+201,187,"tridactylus","Brachymeles","Negros Three-digit Worm Skink",LC,S
+202,186,"zia","Cautula","",NE,U

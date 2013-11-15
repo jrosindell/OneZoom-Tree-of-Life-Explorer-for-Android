@@ -1,0 +1,137 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"fuscocapillus","Petinomys","Travancore Flying Squirrel",NT,D
+14,12,"setosus","Petinomys","Temminck's Flying Squirrel",VU,D
+15,11,"lugens","Petinomys","Siberut Flying Squirrel",EN,D
+16,10,"hageni","Petinomys","Hagen's Flying Squirrel",DD,U
+17,9,"vordermanni","Petinomys","Vordermann's Flying Squirrel",VU,D
+21,20,"mindanensis","Petinomys","Mindanao Flying Squirrel",LC,U
+22,20,"crinitus","Petinomys","Mindanao Flying Squirrel",LC,S
+23,19,"sagitta","Petinomys","Arrow Flying Squirrel",DD,U
+24,18,"genibarbis","Petinomys","Whiskered Flying Squirrel",VU,D
+29,28,"winstoni","Hylopetes","Sumatran Flying Squirrel",DD,U
+30,28,"nigripes","Hylopetes","Palawan Flying Squirrel",NT,D
+32,31,"phayrei","Hylopetes","Indochinese Flying Squirrel",LC,S
+33,31,"alboniger","Hylopetes","African Linsang",LC,D
+34,26,"spadiceus","Hylopetes","Red-cheeked Flying Squirrel",LC,U
+37,36,"kinlochii","Petaurillus","Selangor Pygmy Flying Squirrel",DD,U
+38,36,"hosei","Petaurillus","Hose's Pygmy Flying Squirrel",DD,U
+39,35,"emiliae","Petaurillus","Lesser Pygmy Flying Squirrel",DD,U
+45,44,"lepidus","Hylopetes","Gray-cheeked Flying Squirrel",DD,U
+46,44,"platyurus","Hylopetes","Jentink's Flying Squirrel",DD,U
+47,43,"fimbriatus","Eoglaucomys","Small Kashmir Flying Squirrel",LC,U
+48,42,"bartelsi","Hylopetes","Bartels's Flying Squirrel",DD,U
+49,41,"sipora","Hylopetes","Sipora Flying Squirrel",EN,D
+51,50,"sabrinus","Glaucomys","Carolina Flying Squirrel",LC,S
+52,50,"volans","Glaucomys","Mexican Flying Squirrel",LC,S
+54,53,"horsfieldii","Iomys","Javanese Flying Squirrel",LC,S
+55,53,"sipora","Iomys","Mentawi Flying Squirrel",EN,D
+64,63,"alborufus","Petaurista","Red And White Giant Flying Squirrel",LC,U
+65,63,"nobilis","Petaurista","Bhutan Giant Flying Squirrel",VU,D
+66,62,"magnificus","Petaurista","Hodgson's Giant Flying Squirrel",NT,D
+67,61,"elegans","Petaurista","Spotted Giant Flying Squirrel",LC,S
+69,68,"philippensis","Petaurista","Large Brown Flying Squirrel",LC,D
+70,68,"petaurista","Petaurista","Common Giant Flying Squirrel",LC,D
+71,59,"xanthotis","Petaurista","Chinese Giant Flying Squirrel",LC,U
+72,58,"leucogenys","Petaurista","Japanese Giant Flying Squirrel",LC,U
+78,77,"biswasi","Biswamoyopterus","Namdapha Flying Squirrel",CR,D
+79,77,"pearsonii","Belomys","Hairy-footed Flying Squirrel",DD,U
+80,76,"xanthipes","Trogopterus","Complex-toothed Flying Squirrel",NT,D
+81,75,"pulverulentus","Pteromyscus","Smoky Flying Squirrel",EN,D
+83,82,"tephromelas","Aeromys","Black Flying Squirrel",DD,U
+84,82,"thomasi","Aeromys","Thomas's Flying Squirrel",DD,U
+86,85,"melanopterus","Aeretes","Northern Chinese Flying Squirrel",NT,D
+87,85,"cinereus","Eupetaurus","Woolly Flying Squirrel",DD,U
+89,88,"momonga","Pteromys","Japanese Flying Squirrel",LC,U
+90,88,"volans","Pteromys","Russian Flying Squirrel",LC,D
+114,113,"igniventris","Sciurus","Northern Amazon Red Squirrel",LC,U
+115,113,"spadiceus","Sciurus","Southern Amazon Red Squirrel",LC,U
+116,112,"arizonensis","Sciurus","Arizona Gray Squirrel",DD,U
+117,111,"oculatus","Sciurus","Peters's Squirrel",LC,U
+118,110,"griseus","Sciurus","Western Gray Squirrel",LC,U
+119,109,"alleni","Sciurus","Allen's Squirrel",LC,D
+120,108,"richmondi","Sciurus","Richmond's Squirrel",NT,U
+121,107,"colliaei","Sciurus","Collie's Squirrel",LC,U
+122,106,"sanborni","Sciurus","Sanborn's Squirrel",DD,U
+123,105,"lis","Sciurus","Japanese Squirrel",LC,S
+124,104,"aureogaster","Sciurus","Bushy-tailed Olingo",LC,S
+125,103,"pyrrhinus","Sciurus","Junin Red Squirrel",DD,U
+126,102,"aestuans","Sciurus","Guianan Squirrel",LC,U
+127,101,"vulgaris","Sciurus","Eurasian Red Squirrel",LC,D
+134,133,"carolinensis","Sciurus","Eastern Gray Squirrel",LC,I
+135,133,"niger","Sciurus","Bryant's Fox Squirrel",LC,S
+136,132,"granatensis","Sciurus","Red-tailed Squirrel",LC,S
+137,131,"flammifer","Sciurus","Fiery Squirrel",DD,U
+138,130,"variegatoides","Sciurus","Variegated Squirrel",LC,S
+139,129,"anomalus","Sciurus","Caucasian Squirrel",LC,D
+140,128,"stramineus","Sciurus","Guayaquil Squirrel",LC,U
+141,99,"ignitus","Sciurus","Bolivian Squirrel",DD,U
+142,98,"yucatanensis","Sciurus","Yucatan Squirrel",LC,S
+143,97,"gilvigularis","Sciurus","Yellow-throated Squirrel",DD,U
+144,96,"pucheranii","Sciurus","Andean Squirrel",DD,U
+145,95,"nayaritensis","Sciurus","Mexican Fox Squirrel",LC,U
+146,94,"deppei","Sciurus","Deppe's Squirrel",LC,S
+147,93,"macrotis","Rheithrosciurus","Tufted Ground Squirrel",VU,D
+152,151,"flaviventer","Microsciurus","Amazon Dwarf Squirrel",DD,U
+153,151,"mimulus","Microsciurus","Western Dwarf Squirrel",LC,S
+154,150,"santanderensis","Microsciurus","Santander Dwarf Squirrel",DD,U
+155,149,"alfari","Microsciurus","Central American Dwarf Squirrel",LC,S
+156,148,"brochus","Syntheosciurus","Bangs's Mountain Squirrel",NT,U
+159,158,"douglasii","Tamiasciurus","Douglas's Squirrel",LC,S
+160,158,"hudsonicus","Tamiasciurus","Red Squirrel",LC,S
+161,157,"mearnsi","Tamiasciurus","Mearns's Squirrel",EN,D
+165,164,"bicolor","Ratufa","Black Giant Squirrel",NT,D
+166,164,"affinis","Ratufa","Pale Giant Squirrel",NT,D
+167,163,"indica","Ratufa","Indian Giant Squirrel",NT,D
+168,162,"macroura","Ratufa","Grizzled Giant Squirrel",NT,D
+174,173,"abstrusus","Prosciurillus","Secretive Dwarf Squirrel",DD,U
+175,173,"weberi","Prosciurillus","Weber's Dwarf Squirrel",DD,U
+177,176,"leucomus","Prosciurillus","Whitish Dwarf Squirrel",DD,U
+178,176,"rosenbergii","Prosciurillus","Sanghir Squirrel",LC,S
+179,171,"murinus","Prosciurillus","Celebes Dwarf Squirrel",DD,U
+180,170,"rubriventer","Rubrisciurus","Sulawesi Giant Squirrel",VU,D
+182,181,"heinrichi","Hyosciurus","Montane Long-nosed Squirrel",LC,U
+183,181,"ileile","Hyosciurus","Lowland Long-nosed Squirrel",VU,D
+193,192,"hippurus","Sundasciurus","Horse-tailed Squirrel",NT,D
+194,192,"davensis","Sundasciurus","Davao Squirrel",DD,U
+195,191,"hoogstraali","Sundasciurus","Busuanga Squirrel",LC,U
+196,190,"rabori","Sundasciurus","Palawan Montane Squirrel",DD,U
+199,198,"mindanensis","Sundasciurus","Mindanao Squirrel",LC,U
+200,198,"brookei","Sundasciurus","Brooke's Squirrel",LC,U
+201,197,"fraterculus","Sundasciurus","Fraternal Squirrel",EN,D
+206,205,"jentinki","Sundasciurus","Jentink's Squirrel",LC,U
+207,205,"tenuis","Sundasciurus","Slender Squirrel",LC,D
+208,204,"philippinensis","Sundasciurus","Philippine Tree Squirrel",LC,S
+210,209,"steerii","Sundasciurus","Southern Palawan Tree Squirrel",LC,S
+211,209,"lowii","Sundasciurus","Low's Squirrel",LC,S
+212,202,"juvencus","Sundasciurus","Northern Palawan Tree Squirrel",LC,S
+213,187,"moellendorffi","Sundasciurus","Culion Tree Squirrel",NT,D
+214,186,"samarensis","Sundasciurus","Samar Squirrel",LC,U
+220,219,"everetti","Dremomys","Bornean Mountain Ground Squirrel",LC,S
+221,219,"lokriah","Dremomys","Orange-bellied Himalayan Squirrel",LC,D
+223,222,"rufigenis","Dremomys","Asian Red-cheeked Squirrel",LC,S
+224,222,"pernyi","Dremomys","Perny's Long-nosed Squirrel",LC,S
+226,225,"pyrrhomerus","Dremomys","Red-hipped Squirrel",LC,U
+227,225,"gularis","Dremomys","Red-throated Squirrel",LC,S
+231,230,"rodolphii","Tamiops","Cambodian Striped Squirrel",LC,S
+232,230,"maritimus","Tamiops","Maritime Striped Squirrel",LC,S
+233,229,"mcclellandii","Tamiops","",NE,U
+234,228,"swinhoei","Tamiops","Swinhoe's Striped Squirrel",LC,S
+237,236,"whiteheadi","Exilisciurus","Tufted Pygmy Squirrel",LC,S
+238,236,"exilis","Exilisciurus","Least Pygmy Squirrel",DD,U
+239,235,"concinnus","Exilisciurus","Philippine Pygmy Squirrel",LC,S
+252,251,"finlaysonii","Callosciurus","Finlayson's Squirrel",LC,S
+253,251,"caniceps","Callosciurus","Gray-bellied Squirrel",LC,S
+254,250,"orestes","Callosciurus","Borneo Black-banded Squirrel",LC,S
+255,249,"adamsi","Callosciurus","Ear-spot Squirrel",VU,D
+256,248,"notatus","Callosciurus","Plantain Squirrel",LC,I
+257,247,"inornatus","Callosciurus","Inornate Squirrel",LC,U
+258,246,"baluensis","Callosciurus","Kinabalu Squirrel",LC,S
+259,245,"phayrei","Callosciurus","Phayre's Squirrel",LC,U
+260,244,"melanogaster","Callosciurus","Mentawai Squirrel",VU,D
+261,243,"prevostii","Callosciurus","Prevost's Squirrel",LC,D
+262,242,"quinquestriatus","Callosciurus","Anderson's Squirrel",NT,D
+263,241,"simus","Glyphotes","Sculptor Squirrel",DD,U
+266,265,"obscurus","Lariscus","Mentawai Three-striped Squirrel",NT,D
+267,265,"insignis","Lariscus","Three-striped Ground Squirrel",LC,D
+269,268,"hosei","Lariscus","Four-striped Ground Squirrel",NT,D
+270,268,"niobe","Lariscus","Niobe Ground Squirrel",DD,U

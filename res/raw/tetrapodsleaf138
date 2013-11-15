@@ -1,0 +1,112 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"crassispinis","Hystrix","Thick-spined Porcupine",LC,S
+14,12,"cristata","Hystrix","Crested Porcupine",LC,U
+15,11,"sumatrae","Hystrix","Sumatran Porcupine",LC,S
+16,10,"indica","Hystrix","Indian Crested Porcupine",LC,S
+17,9,"brachyura","Hystrix","Malayan Porcupine",LC,D
+20,19,"africaeaustralis","Hystrix","Cape Porcupine",LC,S
+21,19,"pumila","Hystrix","Phillipine Porcupine",VU,D
+22,18,"javanica","Hystrix","Sunda Porcupine",LC,S
+24,23,"macrourus","Atherurus","Asiatic Brush-tailed Porcupine",LC,D
+25,23,"africanus","Atherurus","African Brush-tailed Porcupine",LC,U
+26,6,"fasciculata","Trichys","Long-tailed Porcupine",LC,S
+27,5,"branickii","Dinomys","Pacarana",VU,D
+33,32,"viscacia","Lagidium","Southern Mountain Viscacha",LC,S
+34,32,"wolffsohni","Lagidium","Wolffsohn's Viscacha",DD,U
+35,31,"peruanum","Lagidium","Northern Mountain Viscacha",LC,S
+37,36,"chinchilla","Chinchilla","Short-tailed Chinchilla",CR,D
+38,36,"lanigera","Chinchilla","Chinchilla",CR,D
+39,29,"maximus","Lagostomus","Plains Viscacha",LC,U
+40,28,"boliviensis","Abrocoma","Bolivian Chinchilla Rat",CR,D
+46,45,"shistacea","Abrocoma","Sierra Del Tontal Chinchilla Rat",DD,U
+47,45,"cinerea","Abrocoma","Ashy Chinchilla Rat",LC,S
+49,48,"famatina","Abrocoma","Famatina Chinchilla Rat",DD,U
+50,48,"vaccarum","Abrocoma","Mendozan Chinchilla Rat",DD,U
+51,43,"budini","Abrocoma","Budin's Chinchilla Rat",DD,U
+52,42,"bennettii","Abrocoma","Bennett's Chinchilla Rat",LC,U
+54,53,"isthmius","Hydrochoerus","Lesser Capybara",DD,U
+55,53,"hydrochaeris","Hydrochoerus","Capybara",LC,U
+68,67,"leporina","Dasyprocta","Red-rumped Agouti",LC,S
+69,67,"cristata","Dasyprocta","Crested Agouti",DD,U
+70,66,"punctata","Dasyprocta","Central American Agouti",LC,S
+71,65,"ruatanica","Dasyprocta","Roatan Island Agouti",EN,D
+74,73,"prymnolopha","Dasyprocta","Black-rumped Agouti",LC,U
+75,73,"fuliginosa","Dasyprocta","Black Agouti",LC,S
+76,72,"mexicana","Dasyprocta","Mexican Agouti",CR,D
+78,77,"guamara","Dasyprocta","Orinoco Agouti",NT,D
+79,77,"coibae","Dasyprocta","Coiban Agouti",VU,U
+81,80,"kalinowskii","Dasyprocta","Kalinowski Agouti",DD,U
+82,80,"azarae","Dasyprocta","Azara's Agouti",DD,D
+84,83,"pratti","Myoprocta","Green Acouchi",LC,S
+85,83,"acouchy","Myoprocta","Red Acouchi",LC,U
+87,86,"swinderianus","Thryonomys","Greater Cane Rat",LC,U
+88,86,"gregorianus","Thryonomys","Lesser Cane Rat",LC,U
+95,94,"insidiosus","Sphiggurus","Bahia Hairy Dwarf Porcupine",LC,U
+96,94,"melanurus","Sphiggurus","",LC,U
+97,93,"mexicanus","Sphiggurus","Mexican Hairy Dwarf Porcupine",LC,D
+100,99,"vestitus","Sphiggurus","Brown Hairy Dwarf Porcupine",DD,D
+101,99,"pruinosus","Sphiggurus","",LC,U
+102,98,"spinosus","Sphiggurus","Paraguay Hairy Dwarf Porcupine",LC,U
+103,91,"villosus","Sphiggurus","Orange-spined Hairy Dwarf Porcupine",LC,U
+104,90,"rufescens","Echinoprocta","Stump-tailed Porcupine",LC,U
+109,108,"prehensilis","Coendou","Brazilian Porcupine",LC,S
+110,108,"nycthemera","Coendou","Koopman's Porcupine",DD,U
+111,107,"bicolor","Coendou","Bicolor-spined Porcupine",LC,U
+112,106,"rothschildi","Coendou","Rothchild's Porcupine",LC,S
+113,105,"dorsatum","Erethizon","North American Porcupine",LC,S
+114,58,"typicus","Petromus","Dassie Rat",LC,S
+116,115,"taczanowskii","Cuniculus","Mountain Paca",NT,D
+117,115,"paca","Cuniculus","Spotted Paca",LC,S
+119,118,"patagonum","Dolichotis","Patagonian Cavy",NT,D
+120,118,"salinicola","Dolichotis","Chacoan Mara",LC,S
+135,134,"fulvus","Ctenomys","Tawny Tuco-tuco",LC,U
+136,134,"johannis","Ctenomys","",DD,U
+137,133,"tulduco","Ctenomys","",DD,U
+139,138,"famosus","Ctenomys","",DD,D
+140,138,"coludo","Ctenomys","",DD,U
+141,131,"tuconax","Ctenomys","Robust Tuco-tuco",DD,U
+143,142,"dorsalis","Ctenomys","Chacoan Tuco-tuco",DD,U
+144,142,"opimus","Ctenomys","Highland Tuco-tuco",LC,S
+146,145,"occultus","Ctenomys","Furtive Tuco-tuco",EN,D
+147,145,"saltarius","Ctenomys","Salta Tuco-tuco",DD,U
+150,149,"magellanicus","Ctenomys","Magellanic Tuco-tuco",VU,D
+151,149,"fodax","Ctenomys","",DD,U
+152,148,"brasiliensis","Ctenomys","Brazilian Tuco-tuco",DD,D
+157,156,"fochi","Ctenomys","",DD,U
+158,156,"bergi","Ctenomys","",VU,D
+159,155,"mendocinus","Ctenomys","Mendoza Tuco-tuco",LC,U
+161,160,"pundti","Ctenomys","",VU,D
+162,160,"juris","Ctenomys","",DD,U
+163,153,"sericeus","Ctenomys","Silky Tuco-tuco",DD,D
+164,126,"conoveri","Ctenomys","Conover's Tuco-tuco",LC,S
+167,166,"peruanus","Ctenomys","Peruvian Tuco-tuco",LC,S
+168,166,"tucumanus","Ctenomys","Tucuman Tuco-tuco",DD,U
+169,165,"emilianus","Ctenomys","Emily's Tuco-tuco",NT,D
+171,170,"torquatus","Ctenomys","Collared Tuco-tuco",LC,U
+172,170,"maulinus","Ctenomys","Maule Tuco-tuco",LC,U
+178,177,"knighti","Ctenomys","Catamarca Tuco-tuco",DD,U
+179,177,"viperinus","Ctenomys","Vipos Tuco-tuco",DD,U
+180,176,"steinbachi","Ctenomys","Steinbach's Tuco-tuco",LC,S
+181,175,"pearsoni","Ctenomys","Pearson's Tuco-tuco",NT,D
+183,182,"australis","Ctenomys","Southern Tuco-tuco",EN,D
+184,182,"sociabilis","Ctenomys","Social Tuco-tuco",CR,D
+188,187,"pontifex","Ctenomys","San Luis Tuco-tuco",DD,D
+189,187,"perrensi","Ctenomys","Goya Tuco-tuco",LC,S
+190,186,"validus","Ctenomys","Strong Tuco-tuco",DD,U
+193,192,"frater","Ctenomys","Forest Tuco-tuco",LC,D
+194,192,"sylvanus","Ctenomys","",DD,U
+195,191,"budini","Ctenomys","",DD,U
+202,201,"minutus","Ctenomys","Tiny Tuco-tuco",DD,U
+203,201,"rionegrensis","Ctenomys","",EN,D
+204,200,"azarae","Ctenomys","Azara's Tuco-tuco",VU,D
+205,199,"latro","Ctenomys","Mottled Tuco-tuco",VU,D
+207,206,"boliviensis","Ctenomys","Bolivian Tuco-tuco",LC,S
+208,206,"goodfellowi","Ctenomys","",LC,U
+212,211,"leucodon","Ctenomys","White-toothed Tuco-tuco",LC,S
+213,211,"porteousi","Ctenomys","Porteous's Tuco-tuco",NT,D
+214,210,"colburni","Ctenomys","Bolburn's Tuco-tuco",DD,U
+216,215,"bonettoi","Ctenomys","Bonetto's Tuco-tuco",EN,D
+217,215,"haigi","Ctenomys","Haig's Tuco-tuco",LC,U
+219,218,"lewisi","Ctenomys","Lewis's Tuco-tuco",LC,S
+220,218,"talarum","Ctenomys","Talas Tuco-tuco",LC,U
+221,121,"argentinus","Ctenomys","Argentine Tuco-tuco",NT,D

@@ -1,0 +1,108 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"albibarbis","Hylobates","Bornean White-bearded Gibbon",EN,D
+14,12,"agilis","Hylobates","Agile Gibbon",EN,D
+15,11,"lar","Hylobates","Lar Gibbon",EN,D
+16,10,"moloch","Hylobates","Silvery Javan Gibbon",EN,D
+18,17,"muelleri","Hylobates","Muller's Bornean Gibbon",EN,D
+19,17,"pileatus","Hylobates","Pileated Gibbon",EN,D
+20,8,"klossii","Hylobates","Kloss's Gibbon",EN,D
+21,7,"hoolock","Bunopithecus","",NE,U
+22,6,"syndactylus","Symphalangus","Siamang",EN,D
+26,25,"concolor","Nomascus","Black Crested Gibbon",CR,D
+27,25,"hainanus","Nomascus","Hainan Gibbon",CR,S
+28,24,"leucogenys","Nomascus","Northern White-cheeked Gibbon",CR,D
+30,29,"siki","Nomascus","Southern White-cheeked Gibbon",EN,D
+31,29,"gabriellae","Nomascus","Red-cheeked Gibbon",EN,D
+36,35,"troglodytes","Pan","Chimpanzee",EN,D
+37,35,"paniscus","Pan","Bonobo",EN,D
+38,34,"sapiens","Homo","Human",LC,I
+40,39,"beringei","Gorilla","Eastern Gorilla",EN,D
+41,39,"gorilla","Gorilla","Lowland Gorilla",CR,D
+43,42,"pygmaeus","Pongo","Bornean Orangutan",EN,D
+44,42,"abelii","Pongo","Sumatran Orangutan",CR,D
+49,48,"sangirensis","Tarsius","Sangihe Tarsier",EN,D
+50,48,"tarsier","Tarsius","Spectral Tarsier",VU,D
+51,47,"pelengensis","Tarsius","Peleng Tarsier",EN,D
+53,52,"dentatus","Tarsius","Dian's Tarsier",VU,D
+54,52,"pumilus","Tarsius","Pygmy Tarsier",DD,D
+56,55,"bancanus","Tarsius","Horsfield's Tarsier",VU,D
+57,55,"syrichta","Tarsius","Philippine Tarsier",NT,D
+72,71,"rufus","Eulemur","Red Brown Lemur",DD,D
+73,71,"albocollaris","Eulemur","",NE,U
+74,70,"fulvus","Eulemur","Brown Lemur",NT,D
+75,69,"albifrons","Eulemur","White-fronted Brown Lemur",VU,D
+78,77,"sanfordi","Eulemur","Sanford's Brown Lemur",EN,D
+79,77,"collaris","Eulemur","Collared Brown Lemur",VU,D
+80,76,"cinereiceps","Eulemur","White-collared Lemur",EN,D
+81,67,"macaco","Eulemur","Black Lemur",VU,D
+83,82,"rubriventer","Eulemur","Red-bellied Lemur",VU,D
+84,82,"mongoz","Eulemur","Mongoose Lemur",VU,D
+85,65,"coronatus","Eulemur","Crowned Lemur",VU,D
+86,64,"catta","Lemur","Ring-tailed Lemur",NT,D
+90,89,"griseus","Hapalemur","Eastern Lesser Bamboo Lemur",VU,D
+91,89,"alaotrensis","Hapalemur","Alaotran Gentle Lemur",CR,D
+92,88,"occidentalis","Hapalemur","Sambirano Lesser Bamboo Lemur",VU,D
+94,93,"aureus","Hapalemur","Golden Bamboo Lemur",EN,D
+95,93,"simus","Prolemur","Greater Bamboo Lemur",CR,D
+97,96,"variegata","Varecia","Black-and-white Ruffed Lemur",CR,D
+98,96,"rubra","Varecia","Red Ruffed Lemur",EN,D
+103,102,"septentrionalis","Lepilemur","Sahafary Sportive Lemur",CR,D
+104,102,"ankaranensis","Lepilemur","Ankarana Sportive Lemur",EN,D
+105,101,"ruficaudatus","Lepilemur","Red-tailed Sportive Lemur",DD,D
+107,106,"microdon","Lepilemur","Small-toothed Sportive Lemur",DD,U
+108,106,"mustelinus","Lepilemur","Weasel Sportive Lemur",DD,U
+111,110,"leucopus","Lepilemur","White-footed Sportive Lemur",DD,U
+112,110,"dorsalis","Lepilemur","Gray's Sportive Lemur",DD,U
+113,109,"edwardsi","Lepilemur","Milne-edwards's Sportive Lemur",VU,D
+121,120,"deckenii","Propithecus","Van Der Decken's Sifaka",VU,D
+122,120,"verreauxi","Propithecus","Verreaux's Sifaka",VU,D
+123,119,"coquereli","Propithecus","Coquerel's Sifaka",EN,D
+126,125,"perrieri","Propithecus","Perrier's Sifaka",CR,D
+127,125,"diadema","Propithecus","Diademed Sifaka",EN,D
+128,124,"edwardsi","Propithecus","Milne-edward's Sifaka",EN,D
+129,117,"tattersalli","Propithecus","Golden-crowned Sifaka",EN,U
+131,130,"occidentalis","Avahi","Lorenz Von Liburnau's Woolly Lemur",EN,D
+132,130,"laniger","Avahi","Gmelin's Woolly Lemur",LC,D
+133,115,"indri","Indri","Indri",EN,D
+134,114,"madagascariensis","Daubentonia","Aye-aye",NT,D
+142,141,"griseorufus","Microcebus","Grey-brown Mouse Lemur",LC,D
+143,141,"myoxinus","Microcebus","Peters' Mouse Lemur",DD,U
+144,140,"murinus","Microcebus","Grey Mouse-lemur",LC,D
+145,139,"rufus","Microcebus","Rufous Mouse Lemur",LC,D
+146,138,"coquereli","Mirza","Coquerel's Giant Mouse Lemur",NT,D
+147,137,"trichotis","Allocebus","Hairy-eared Dwarf Lemur",DD,U
+152,151,"adipicaudatus","Cheirogaleus","Southern Fat-tailed Dwarf Lemur",DD,U
+153,151,"crossleyi","Cheirogaleus","Furry-eared Dwarf Lemur",DD,U
+154,150,"major","Cheirogaleus","Geoffroy's Dwarf Lemur",LC,U
+155,149,"sibreei","Cheirogaleus","Sibree's Dwarf Lemur",DD,U
+156,148,"medius","Cheirogaleus","Western Fat-tailed Dwarf Lemur",LC,U
+159,158,"electromontis","Phaner","Montagne D' Ambre Fork-marked Lemur",VU,D
+160,158,"pallescens","Phaner","Pale Fork-marked Lemur",LC,D
+162,161,"parienti","Phaner","Sambirano Fork-marked Lemur",VU,D
+163,161,"furcifer","Phaner","Masoala Fork-marked Lemur",LC,D
+173,172,"crassicaudatus","Otolemur","Thick-tailed Greater Galago",LC,S
+174,172,"monteiri","Otolemur","",NE,U
+175,171,"garnettii","Otolemur","Small-eared Greater Galago",LC,S
+176,170,"gallarum","Galago","Somali Lesser Galago",LC,S
+178,177,"elegantulus","Euoticus","Southern Needle-clawed Galago",LC,S
+179,177,"pallidus","Euoticus","Northern Needle-clawed Galago",LC,U
+183,182,"moholi","Galago","Southern Lesser Galago",LC,S
+184,182,"nyasae","Galago","",NE,U
+185,181,"senegalensis","Galago","Northern Lesser Galago",LC,S
+186,180,"matschiei","Galago","Spectacled Lesser Galago",LC,D
+189,188,"cameronensis","Galago","",NE,U
+190,188,"alleni","Galago","",NE,U
+191,187,"gabonensis","Galago","",NE,U
+194,193,"demidoff","Galago","",NE,U
+195,193,"orinus","Galago","",NE,U
+196,192,"thomasi","Galago","",NE,U
+198,197,"zanzibaricus","Galago","",NE,U
+199,197,"granti","Galago","",NE,U
+204,203,"bengalensis","Nycticebus","Bengal Slow Loris",VU,D
+205,203,"coucang","Nycticebus","Greater Slow Loris",VU,D
+206,202,"pygmaeus","Nycticebus","Pygmy Slow Loris",VU,D
+208,207,"lydekkerianus","Loris","Gray Slender Loris",LC,D
+209,207,"tardigradus","Loris","Red Slender Loris",EN,D
+212,211,"calabarensis","Arctocebus","Calabar Angwantibo",LC,U
+213,211,"aureus","Arctocebus","Golden Angwantibo",LC,U
+214,210,"potto","Perodicticus","Potto",LC,S

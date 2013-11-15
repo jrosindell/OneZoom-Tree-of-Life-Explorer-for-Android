@@ -1,0 +1,120 @@
+index,parent,name1,name2,common,redlist,popstab
+6,5,"orostruthus","Modulatrix","Dapple-throat",VU,U
+7,5,"stictigula","Modulatrix","Spot-throat",LC,U
+9,8,"gurneyi","Promerops","Gurney's Sugarbird",LC,U
+10,8,"cafer","Promerops","Cape Sugarbird",LC,U
+11,3,"pylzowi","Urocynchramus","Pink-tailed Bunting",LC,U
+25,24,"villosa","Sitta","Snowy-browed Nuthatch",LC,U
+26,24,"whiteheadi","Sitta","Corsican Nuthatch",VU,U
+27,23,"leucopsis","Sitta","White-cheeked Nuthatch",LC,U
+28,22,"canadensis","Sitta","Red-breasted Nuthatch",LC,U
+32,31,"nagaensis","Sitta","Chestnut-vented Nuthatch",LC,U
+33,31,"ledanti","Sitta","Algerian Nuthatch",EN,U
+34,30,"krueperi","Sitta","Krueper's Nuthatch",NT,U
+35,29,"formosa","Sitta","Beautiful Nuthatch",VU,U
+38,37,"victoriae","Sitta","White-browed Nuthatch",EN,U
+39,37,"pygmaea","Sitta","Pygmy Nuthatch",LC,U
+40,36,"pusilla","Sitta","Brown-headed Nuthatch",LC,U
+45,44,"frontalis","Sitta","Velvet-fronted Nuthatch",LC,U
+46,44,"yunnanensis","Sitta","Yunnan Nuthatch",NT,U
+47,43,"cashmirensis","Sitta","Kashmir Nuthatch",LC,U
+49,48,"oenochlamys","Sitta","Sulphur-billed Nuthatch",LC,U
+50,48,"castanea","Sitta","Chestnut-bellied Nuthatch",LC,U
+51,41,"magna","Sitta","Giant Nuthatch",VU,U
+54,53,"himalayensis","Sitta","White-tailed Nuthatch",LC,U
+55,53,"solangiae","Sitta","Yellow-billed Nuthatch",NT,U
+56,52,"europaea","Sitta","Wood Nuthatch",LC,U
+57,17,"carolinensis","Sitta","White-breasted Nuthatch",LC,U
+60,59,"tephronota","Sitta","Eastern Rock-nuthatch",LC,U
+61,59,"neumayer","Sitta","Western Rock-nuthatch",LC,U
+62,58,"azurea","Sitta","Blue Nuthatch",LC,U
+68,67,"japonica","Bombycilla","Japanese Waxwing",NT,U
+69,67,"garrulus","Bombycilla","Bohemian Waxwing",LC,U
+70,66,"cedrorum","Bombycilla","Cedar Waxwing",LC,U
+72,71,"bonensis","Hylocitrea","Olive-flanked Whistler",LC,U
+73,71,"ampelinus","Hypocolius","Grey Hypocolius",LC,U
+77,76,"caudatus","Ptilogonys","Long-tailed Silky-flycatcher",LC,U
+78,76,"cinereus","Ptilogonys","Grey Silky-flycatcher",LC,U
+79,75,"nitens","Phainopepla","Phainopepla",LC,U
+80,74,"melanoxantha","Phainoptila","Black-and-yellow Silky-flycatcher",LC,U
+81,63,"dominicus","Dulus","Palmchat",LC,U
+86,85,"calendula","Regulus","Ruby-crowned Kinglet",LC,U
+87,85,"regulus","Regulus","Goldcrest",LC,U
+88,84,"goodfellowi","Regulus","Flamecrest",LC,U
+90,89,"madeirensis","Regulus","Madeira Kinglet",LC,U
+91,89,"ignicapilla","Regulus","Firecrest",LC,U
+92,82,"satrapa","Regulus","Golden-crowned Kinglet",LC,U
+108,107,"atricapillus","Parus","Black-capped Chickadee",LC,U
+109,107,"gambeli","Parus","Mountain Chickadee",LC,U
+111,110,"carolinensis","Parus","Carolina Chickadee",LC,U
+112,110,"sclateri","Parus","Mexican Chickadee",LC,U
+115,114,"rufescens","Parus","Chestnut-backed Chickadee",LC,U
+116,114,"hudsonicus","Parus","Boreal Chickadee",LC,U
+117,113,"cinctus","Parus","Siberian Tit",LC,U
+119,118,"davidi","Parus","Rusty-breasted Tit",LC,U
+120,118,"montanus","Parus","Willow Tit",LC,U
+122,121,"fringillinus","Parus","Red-throated Tit",LC,U
+123,121,"varius","Parus","Varied Tit",LC,U
+125,124,"superciliosus","Parus","White-browed Tit",LC,U
+126,124,"lugubris","Parus","Sombre Tit",LC,U
+131,130,"rubidiventris","Parus","Rufous-vented Tit",LC,U
+132,130,"rufonuchalis","Parus","Dark-grey Tit",LC,U
+134,133,"carpi","Parus","Carp's Black Tit",_U,[
+135,133,"ater","Parus","Coal Tit",LC,U
+138,137,"venustulus","Parus","Yellow-bellied Tit",LC,U
+139,137,"amabilis","Parus","Palawan Tit",NT,U
+140,136,"elegans","Parus","Elegant Tit",LC,U
+142,141,"cinerascens","Parus","Ashy Tit",LC,U
+143,141,"thruppi","Parus","Somali Tit",LC,U
+148,147,"atricristatus","Baeolophus","Black-crested Titmouse",LC,U
+149,147,"bicolor","Baeolophus","Tufted Titmouse",LC,U
+151,150,"ridgwayi","Baeolophus","Juniper Titmouse",LC,U
+152,150,"inornatus","Baeolophus","Oak Titmouse",LC,U
+153,145,"wollweberi","Baeolophus","Bridled Titmouse",LC,U
+155,154,"dichrous","Parus","Grey-crested Tit",LC,U
+156,154,"cristatus","Parus","Crested Tit",LC,U
+162,161,"hypermelaenus","Parus","Black-bibbed Tit",LC,U
+163,161,"nuchalis","Parus","White-naped Tit",VU,U
+164,160,"funereus","Parus","Dusky Tit",LC,U
+166,165,"albiventris","Parus","White-bellied Tit",LC,U
+167,165,"niger","Parus","Black Tit",LC,U
+170,169,"semilarvatus","Parus","White-fronted Tit",NT,U
+171,169,"rufiventris","Parus","Rufous-bellied Tit",LC,U
+173,172,"fasciiventer","Parus","Stripe-breasted Tit",LC,U
+174,172,"leuconotus","Parus","White-backed Tit",LC,U
+180,179,"spilonotus","Parus","Yellow-cheeked Tit",LC,U
+181,179,"leucomelas","Parus","White-winged Tit",LC,U
+182,178,"xanthogenys","Parus","Black-lored Tit",LC,U
+183,177,"holsti","Parus","Yellow Tit",NT,U
+184,176,"afer","Parus","Grey Tit",LC,U
+187,186,"palustris","Parus","Marsh Tit",LC,U
+188,186,"major","Parus","Great Tit",LC,U
+189,185,"monticolus","Parus","Green-backed Tit",LC,U
+193,192,"caeruleus","Parus","Blue Tit",LC,U
+194,192,"cyanus","Parus","Azure Tit",LC,U
+195,191,"teneriffae","Parus","African Blue Tit",_U,[
+196,190,"griseiventris","Parus","Miombo Tit",LC,U
+197,97,"sultanea","Melanochlora","Sultan Tit",LC,U
+199,198,"humilis","Pseudopodoces","Tibetan Ground-tit",LC,U
+200,198,"modestus","Sylviparus","Yellow-browed Tit",LC,U
+207,206,"musculus","Anthoscopus","Mouse-coloured Penduline-tit",LC,U
+208,206,"punctifrons","Anthoscopus","Sennar Penduline-tit",LC,U
+209,205,"flavifrons","Anthoscopus","Forest Penduline-tit",LC,U
+211,210,"minutus","Anthoscopus","Southern Penduline-tit",LC,U
+212,210,"caroli","Anthoscopus","African Penduline-tit",LC,U
+213,203,"parvulus","Anthoscopus","Yellow Penduline-tit",LC,U
+217,216,"pendulinus","Remiz","Eurasian Penduline-tit",LC,U
+218,216,"consobrinus","Remiz","Chinese Penduline-tit",LC,U
+219,215,"macronyx","Remiz","Black-headed Penduline-tit",LC,U
+220,214,"coronatus","Remiz","White-crowned Penduline-tit",LC,U
+221,201,"flaviceps","Auriparus","Verdin",LC,U
+228,227,"albiventris","Elminia","White-bellied Crested-flycatcher",LC,U
+229,227,"albonotata","Elminia","White-tailed Crested-flycatcher",LC,U
+230,226,"nigromitrata","Elminia","Dusky Crested-flycatcher",LC,U
+232,231,"albicauda","Elminia","White-tailed Blue-flycatcher",LC,U
+233,231,"longicauda","Elminia","African Blue-flycatcher",LC,U
+235,234,"ceylonensis","Culicicapa","Grey-headed Canary-flycatcher",LC,U
+236,234,"helianthea","Culicicapa","Citrine Canary-flycatcher",LC,U
+237,223,"scita","Stenostira","Fairy Warbler",LC,U
+239,238,"hypoxantha","Chelidorhynx","Yellow-bellied Fantail",_U,[
+240,238,"flammiceps","Cephalopyrus","Fire-capped Tit",LC,U

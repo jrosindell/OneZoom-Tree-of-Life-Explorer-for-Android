@@ -10,9 +10,9 @@ public abstract class PositionData {
 	private static int screenXmin, screenXmax, screenYmin, screenYmax;
 	public boolean dvar, gvar;
 	private static final float threshold = 3f;
-	static float xp = 0f;
-	static float yp = 0f;
-	static float ws = 1f;
+	public static float xp = 0f;
+	public static float yp = 0f;
+	public static float ws = 1f;
 	
 	public static void setScreenSize(int left, int bottom, int width, int height) {
 		screenXmax = left + width;

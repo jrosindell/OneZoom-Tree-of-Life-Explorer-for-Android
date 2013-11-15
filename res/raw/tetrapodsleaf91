@@ -1,0 +1,112 @@
+index,parent,name1,name2,common,redlist,popstab
+17,16,"blainvillii","Phyllomys","Golden Atlantic Tree Rat",LC,U
+18,16,"medius","Phyllomys","",LC,U
+19,15,"lamarum","Phyllomys","Pallid Atlantic Tree Rat",DD,U
+21,20,"dasythrix","Phyllomys","Drab Atlantic Tree Rat",LC,U
+22,20,"chrysurus","Echimys","White-faced Tree Rat",LC,S
+24,23,"macrura","Makalata","Long-tailed Tree Rat",LC,U
+25,23,"grandis","Makalata","",NE,U
+28,27,"unicolor","Phyllomys","Unicolored Tree Rat",CR,D
+29,27,"pictus","Callistomys","Painted Tree-rat",EN,D
+30,26,"nigrispinus","Phyllomys","Black-spined Atlantic Tree Rat",LC,U
+33,32,"thomasi","Phyllomys","Giant Atlantic Tree Rat",EN,D
+34,32,"saturnus","Echimys","Dark Spiny Tree-rat",DD,U
+35,31,"semivillosus","Echimys","",NE,U
+37,36,"brasiliensis","Phyllomys","Red-nosed Tree Rat",EN,D
+38,36,"rhipidura","Makalata","Peruvian Tree Rat",DD,U
+43,42,"caniceps","Diplomys","Arboreal Soft-furred Spiny Rat",DD,U
+44,42,"rufodorsalis","Diplomys","",NE,U
+45,41,"labilis","Diplomys","Rufous Tree Rat",LC,S
+47,46,"didelphoides","Makalata","Brazilian Spiny Tree Rat",LC,U
+48,46,"occasius","Makalata","",NE,U
+51,50,"bistriata","Isothrix","Yellow-crowned Brush-tailed Rat",LC,U
+52,50,"negrensis","Isothrix","",LC,U
+53,49,"pagurus","Isothrix","Plain Brush-tailed Rat",LC,U
+54,8,"urichi","Proechimys","Sucre Spiny Rat",LC,U
+55,7,"goeldii","Proechimys","Goeldi's Spiny Rat",VU,D
+56,6,"simonsi","Proechimys","Simon's Spiny Rat",LC,U
+63,62,"leniceps","Mesomys","Woolly-headed Spiny Tree Rat",DD,U
+64,62,"hispidus","Mesomys","Spiny Tree Rat",LC,U
+66,65,"obscura","Makalata","Dark Armored Tree-rat",DD,U
+67,65,"stimulax","Mesomys","Para Spiny Tree Rat",LC,U
+69,68,"cuvieri","Proechimys","Cuvier's Spiny Rat",LC,U
+70,68,"setosus","Trinomys","Hairy Spiny Rat",LC,U
+71,59,"subspinosus","Chaetomys","Bristle-spined Rat",VU,D
+73,72,"apereoides","Thrichomys","Punare",LC,U
+74,72,"inermis","Thrichomys","",LC,U
+77,76,"gratiosus","Trinomys","",LC,U
+78,76,"paratus","Trinomys","",DD,U
+79,75,"iheringi","Trinomys","Ihering's Spiny Rat",LC,S
+82,81,"chrysaeolus","Proechimys","Boyaca Spiny Rat",DD,U
+83,81,"mincae","Proechimys","Minca Spiny Rat",DD,U
+84,80,"magdalenae","Proechimys","Magdalena Spiny Rat",DD,U
+93,92,"hoplomyoides","Proechimys","Guyanan Spiny Rat",DD,U
+94,92,"gymnurus","Hoplomys","Armored Rat",LC,S
+95,91,"dimidiatus","Trinomys","Atlantic Spiny Rat",LC,U
+97,96,"oconnelli","Proechimys","O'Connell's Spiny Rat",DD,U
+98,96,"spinosus","Euryzygomatomys","Guiara",LC,U
+99,89,"canicollis","Proechimys","Colombian Spiny Rat",LC,S
+103,102,"poliopus","Proechimys","Gray-footed Spiny Rat",VU,D
+104,102,"sulcidens","Carterodon","Owl's Spiny Rat",DD,U
+105,101,"roberti","Proechimys","Roberto's Spiny Rat",VU,D
+107,106,"emiliae","Lonchothrix","Tuft-tailed Spiny Tree Rat",LC,S
+108,106,"albispinus","Trinomys","White-spined Spiny Rat",LC,U
+112,111,"myosuros","Trinomys","Mouse-tailed Spiny Rat",LC,U
+113,111,"trinitatus","Proechimys","Trinidad Spiny Rat",DD,U
+114,110,"quadruplicatus","Proechimys","Napo Spiny Rat",LC,S
+116,115,"semispinosus","Proechimys","Tome's Spiny Rat",LC,S
+117,115,"steerei","Proechimys","Steere's Spiny Rat",LC,U
+123,122,"boliviensis","Dactylomys","Bolivian Bamboo Rat",LC,S
+124,122,"dactylinus","Dactylomys","Amazon Bamboo Rat",LC,S
+125,121,"peruanus","Dactylomys","Peruvian Bamboo Rat",DD,U
+127,126,"albicauda","Olallamys","White-tailed Olalla Rat",DD,U
+128,126,"edax","Olallamys","Greedy Olalla Rat",DD,U
+129,119,"amblyonyx","Kannabateomys","Atlantic Bamboo Rat",LC,U
+130,118,"brevicauda","Proechimys","Huallaga Spiny Rat",LC,U
+135,134,"bishopi","Clyomys","Bishop's Fossorial Spiny Rat",DD,U
+136,134,"laticeps","Clyomys","Broad-headed Spiny Rat",LC,U
+137,133,"decumanus","Proechimys","Pacific Spiny Rat",VU,D
+138,132,"guyannensis","Proechimys","Cayenne Spiny Rat",LC,U
+140,139,"longicaudatus","Proechimys","Long-tailed Spiny Rat",LC,D
+141,139,"guairae","Proechimys","Guaira Spiny Rat",LC,U
+142,2,"coypus","Myocastor","Coypu",LC,D
+149,148,"prehensilis","Mysateles","Prehensile-tailed Hutia",NT,U
+150,148,"garridoi","Mysateles","Garrido's Hutia",CR,U
+152,151,"meridionalis","Mysateles","Isla De La Juventud Tree Hutia",CR,D
+153,151,"melanurus","Mesocapromys","",NE,U
+156,155,"ingrahami","Geocapromys","Bahamian Hutia",VU,S
+157,155,"brownii","Geocapromys","Brown's Hutia",VU,D
+159,158,"pilorides","Capromys","Desmarest's Hutia",LC,S
+160,158,"gundlachianus","Capromys","",NE,U
+164,163,"angelcabrerai","Mesocapromys","Cabrera's Hutia",EN,U
+165,163,"auritus","Mesocapromys","Eared Hutia",EN,S
+166,162,"sanfelipensis","Mesocapromys","Little Earth Hutia",CR,U
+167,161,"nanus","Mesocapromys","Dwarf Hutia",CR,U
+168,144,"aedium","Plagiodontia","Cuvier's Hutia",EN,D
+169,143,"portoricensis","Isolobodon","Puerto Rican Hutia",EX,U
+178,177,"damarensis","Cryptomys","Damara Mole Rat",LC,S
+179,177,"mechowi","Cryptomys","Mechow's Mole Rat",LC,S
+180,176,"zechi","Cryptomys","Ghana Mole Rat",LC,S
+183,182,"darlingi","Cryptomys","Mashona Mole-rat",LC,S
+184,182,"amatus","Cryptomys","",NE,U
+185,181,"hottentotus","Cryptomys","African Mole Rat",LC,S
+188,187,"ochraceocinereus","Cryptomys","Ochre Mole Rat",LC,U
+189,187,"bocagei","Cryptomys","Bocage's Mole Rat",LC,U
+190,186,"foxi","Cryptomys","Nigerian Mole Rat",DD,U
+193,192,"janetta","Bathyergus","Namaqua Dune Mole Rat",LC,U
+194,192,"suillus","Bathyergus","Cape Dune Mole Rat",LC,S
+195,191,"capensis","Georychus","Cape Mole Rat",LC,S
+196,172,"argenteocinereus","Heliophobius","Silvery Mole Rat",LC,S
+197,171,"glaber","Heterocephalus","Naked Mole Rat",LC,S
+204,203,"shiptoni","Microcavia","Shipton's Mountain Cavy",NT,D
+205,203,"niata","Microcavia","Andean Mountain Cavy",LC,S
+206,202,"australis","Microcavia","Southern Mountain Cavy",LC,U
+209,208,"tschudii","Cavia","Montane Guinea Pig",LC,S
+210,208,"porcellus","Cavia","",NE,U
+211,207,"aperea","Cavia","Brazilian Guinea Pig",LC,S
+215,214,"spixii","Galea","Spix's Yellow-toothed Cavy",LC,S
+216,214,"flavidens","Galea","Yellow-toothed Cavy",LC,U
+217,213,"musteloides","Galea","Common Yellow-toothed Cavy",LC,S
+218,212,"fulgida","Cavia","Shiny Guinea Pig",LC,S
+219,199,"magna","Cavia","Greater Guinea Pig",LC,D
+220,198,"rupestris","Kerodon","Rock Cavy",LC,S

@@ -1,0 +1,106 @@
+index,parent,name1,name2,common,redlist,popstab
+16,15,"scutellatus","Acanthodactylus","",NE,U
+17,15,"longipes","Acanthodactylus","",NE,U
+18,14,"aureus","Acanthodactylus","",NE,U
+19,13,"savignyi","Acanthodactylus","Savigny's Fringe-fingered Lizard",NT,U
+22,21,"spinicauda","Acanthodactylus","Doumergue's Fringe-fingered Lizard",CR,D
+23,21,"maculatus","Acanthodactylus","Spotted Fringe-fingered Lizard",LC,U
+24,20,"bedriagae","Acanthodactylus","",NE,U
+30,29,"blanfordii","Acanthodactylus","",NE,U
+31,29,"schmidti","Acanthodactylus","",NE,U
+33,32,"arabicus","Acanthodactylus","",NE,U
+34,32,"haasi","Acanthodactylus","",NE,U
+35,27,"cantoris","Acanthodactylus","",NE,U
+36,26,"micropholis","Acanthodactylus","",NE,U
+38,37,"boskianus","Acanthodactylus","",NE,U
+39,37,"grandis","Acanthodactylus","",NE,U
+41,40,"pardalis","Acanthodactylus","Leopard Fringe-fingered Lizard",VU,D
+42,40,"robustus","Acanthodactylus","",NE,U
+44,43,"tristrami","Acanthodactylus","Lebanon Fringe-fingered Lizard",LC,U
+45,43,"erythrurus","Acanthodactylus","Spiny-footed Lizard",LC,S
+54,53,"micropholidotus","Meroles","",NE,U
+55,53,"cuneirostris","Meroles","",NE,U
+56,52,"ctenodactylus","Meroles","",NE,U
+58,57,"suborbitalis","Meroles","",NE,U
+59,57,"knoxii","Meroles","",NE,U
+60,50,"reticulatus","Meroles","",NE,U
+61,49,"anchietae","Meroles","",NE,U
+62,48,"longicaudata","Latastia","",NE,U
+66,65,"benguellensis","Pedioplanis","",NE,U
+67,65,"burchelli","Pedioplanis","",NE,U
+68,64,"lineoocellata","Pedioplanis","",NE,U
+69,63,"namaquensis","Pedioplanis","",NE,U
+70,46,"intertexta","Nucras","",NE,U
+75,74,"vauereselli","Adolfus","",NE,U
+76,74,"africanus","Adolfus","",NE,U
+77,73,"alleni","Adolfus","",NE,U
+78,72,"jacksoni","Adolfus","",NE,U
+79,71,"guentheri","Holaspis","",NE,U
+82,81,"echinata","Gastropholis","",NE,U
+83,81,"prasina","Gastropholis","",NE,U
+84,80,"vittata","Gastropholis","",NE,U
+86,85,"horvathi","Iberolacerta","Horvath's Rock Lizard",NT,S
+87,85,"monticola","Iberolacerta","Iberian Rock Lizard",VU,D
+96,95,"bedriagae","Lacerta","",NE,U
+97,95,"brandti","Lacerta","",NE,U
+98,94,"oxicephala","Lacerta","",NE,U
+99,93,"trilineata","Lacerta","Balkan Green Lizard",LC,S
+100,92,"andreanskyi","Lacerta","",NE,U
+104,103,"viridis","Lacerta","Green Lizard",LC,D
+105,103,"chlorogaster","Lacerta","",NE,U
+107,106,"cappadocica","Lacerta","",NE,U
+108,106,"graeca","Lacerta","",NE,U
+109,101,"danfordi","Lacerta","",NE,U
+113,112,"laevis","Lacerta","",NE,U
+114,112,"agilis","Lacerta","",NE,U
+115,111,"schreiberi","Lacerta","Iberian Emerald Lizard",NT,D
+116,110,"mosorensis","Lacerta","",NE,U
+117,89,"olivieri","Mesalina","",NE,U
+118,88,"vivipara","Zootoca","Common Lizard",LC,U
+122,121,"derjugini","Darevskia","Derjugin's Lizard",NT,D
+123,121,"praticola","Darevskia","Meadow Lizard",NT,D
+124,120,"rudis","Darevskia","Spiny-Tailed Lizard",LC,S
+125,119,"saxicola","Darevskia","Rock Lizard",LC,S
+137,136,"wolteri","Takydromus","",NE,U
+138,136,"sauteri","Takydromus","",NE,U
+139,135,"amurensis","Takydromus","",NE,U
+140,134,"khasiensis","Takydromus","",NE,U
+141,133,"smaragdinus","Takydromus","",NE,U
+142,132,"stejnegeri","Takydromus","",NE,U
+144,143,"septentrionalis","Takydromus","",NE,U
+145,143,"sexlineatus","Takydromus","",NE,U
+147,146,"dugesii","Teira","Madeira Lizard",LC,S
+148,146,"perspicillata","Teira","",NE,U
+150,149,"lepidus","Timon","Ocellated Lizard",NT,D
+151,149,"princeps","Timon","Siirt Lizard",LC,U
+155,154,"fitzingeri","Algyroides","Fitzinger's Algyroides",LC,S
+156,154,"marchi","Algyroides","Spanish Algyroides",EN,D
+157,153,"moreoticus","Algyroides","Greek Algyroides",NT,D
+158,152,"nigropunctatus","Algyroides","Blue-throated Keeled Lizard",LC,U
+161,160,"parva","Parvilacerta","Dwarf Lizard",LC,S
+162,160,"fraasi","Parvilacerta","",NE,U
+163,159,"jayakari","Omanosaura","",NE,U
+167,166,"persica","Eremias","",NE,U
+168,166,"velox","Eremias","",NE,U
+169,165,"strauchi","Eremias","Strauch's Racerunner",LC,D
+170,164,"argus","Eremias","",NE,U
+180,179,"tiliguerta","Podarcis","Tyrrhenian Wall Lizard",LC,U
+181,179,"filfolensis","Podarcis","Filfola Lizard",LC,S
+183,182,"erhardii","Podarcis","Erhard's Wall Lizard",LC,S
+184,182,"peloponnesianica","Podarcis","",NE,U
+185,177,"taurica","Podarcis","",NE,U
+186,176,"melisellensis","Podarcis","Dalmatian Wall Lizard",LC,S
+188,187,"muralis","Podarcis","Common Wall Lizard",LC,S
+189,187,"sicula","Podarcis","",NE,U
+190,174,"pityusensis","Podarcis","Ibiza Wall Lizard",NT,S
+191,173,"milensis","Podarcis","Miles Wall Lizard",VU,S
+193,192,"wagleriana","Podarcis","",NE,U
+194,192,"hispanica","Podarcis","",NE,U
+195,171,"lilfordi","Podarcis","Lilford's Wall Lizard",EN,D
+200,199,"hispanicus","Psammodromus","Spanish Psammodromus",LC,S
+201,199,"algirus","Psammodromus","Large Psammodromus",LC,S
+202,198,"microdactylus","Psammodromus","Green Psammodromus",EN,D
+203,197,"blanci","Psammodromus","Blanc's Sand Racer",NT,D
+206,205,"simonyi","Gallotia","El Hierro Giant Lizard",CR,S
+207,205,"galloti","Gallotia","Tenerife Lizard",LC,S
+208,204,"atlantica","Gallotia","Atlantic Lizard",LC,S

@@ -1,0 +1,121 @@
+index,parent,name1,name2,common,redlist,popstab
+24,23,"erythrogenys","Spermophilus","Red-cheeked Ground Squirrel",LC,S
+25,23,"pallidicauda","Spermophilus","Pallid Ground Squirrel",LC,U
+26,22,"brevicauda","Spermophilus","Brandt's Ground Squirrel",LC,U
+29,28,"relictus","Spermophilus","Tien Shan Ground Squirrel",LC,U
+30,28,"ralli","Spermophilus","Tien Shan Ground Squirrel",LC,U
+31,27,"pygmaeus","Spermophilus","Little Ground Squirrel",LC,D
+32,20,"mollis","Spermophilus","Piute Ground Squirrel",LC,U
+33,19,"beldingi","Spermophilus","Belding's Ground Squirell",LC,S
+34,18,"adocetus","Spermophilus","Tropical Ground Squirrel",LC,S
+36,35,"musicus","Spermophilus","Caucasian Mountain Ground Squirrel",NT,U
+37,35,"suslicus","Spermophilus","Speckled Ground Squirrel",NT,D
+38,16,"xanthoprymnus","Spermophilus","Asia Minor Ground Squirrel",NT,D
+43,42,"spilosoma","Spermophilus","Spotted Ground Squirrel",LC,S
+44,42,"dauricus","Spermophilus","Daurian Ground Squirrel",LC,U
+45,41,"beecheyi","Spermophilus","California Ground Squirrel",LC,S
+46,40,"madrensis","Spermophilus","Sierra Madre Ground Squirrel",NT,U
+49,48,"citellus","Spermophilus","European Ground Squirrel",VU,D
+50,48,"major","Spermophilus","Russet Ground Squirrel",LC,U
+51,47,"fulvus","Spermophilus","Yellow Ground Squirrel",LC,U
+52,14,"alashanicus","Spermophilus","Alashan Ground Squirrel",LC,D
+54,53,"townsendii","Spermophilus","Townsend's Ground Squirrel",VU,D
+55,53,"brunneus","Spermophilus","Idaho Ground Squirrel",EN,D
+62,61,"richardsonii","Spermophilus","Richardson's Ground Squirrel",LC,S
+63,61,"armatus","Spermophilus","Uinita Ground Squirrel",LC,U
+64,60,"atricapillus","Spermophilus","Baja California Rock Squirrel",EN,D
+65,59,"parryii","Spermophilus","Arctic Ground Squirrel",LC,U
+67,66,"undulatus","Spermophilus","Long-tailed Ground Squirrel",LC,S
+68,66,"columbianus","Spermophilus","Columbian Ground Squirrel",LC,S
+69,57,"washingtoni","Spermophilus","Washington Ground Squirrel",NT,D
+72,71,"tridecemlineatus","Spermophilus","Big Horn Thirteen-lined Ground Squirrel",LC,S
+73,71,"perotensis","Spermophilus","Perote Ground Squirrel",EN,D
+74,70,"franklinii","Spermophilus","Franklin's Ground Squirrel",LC,D
+75,11,"tereticaudus","Spermophilus","Round-tailed Ground Squirrel",LC,S
+76,10,"canus","Spermophilus","Merriam's Ground Squirrel",LC,U
+77,9,"mohavensis","Spermophilus","Mohave Ground Squirrel",VU,D
+78,8,"annulatus","Spermophilus","Ring-tailed Ground Squirrel",LC,U
+79,7,"saturatus","Spermophilus","Cascade Golden-mantled Ground Squirrel",LC,S
+80,6,"mexicanus","Spermophilus","Mexican Ground Squirrel",LC,S
+81,5,"elegans","Spermophilus","Nevada Ground Squirrel",LC,U
+83,82,"lateralis","Spermophilus","Golden Mantled Ground Squirrel",LC,S
+84,82,"variegatus","Spermophilus","Rock Squirrel",LC,S
+93,92,"camtschatica","Marmota","Black-capped Marmot",LC,U
+94,92,"himalayana","Marmota","Himalayan Marmot",LC,U
+95,91,"sibirica","Marmota","Mongolian Marmot",EN,D
+97,96,"baibacina","Marmota","Altai Marmot",LC,U
+98,96,"bobak","Marmota","Bobak Marmot",LC,S
+100,99,"menzbieri","Marmota","Menzbier's Marmot",VU,D
+101,99,"caudata","Marmota","Long-tailed marmot",LC,U
+103,102,"broweri","Marmota","Alaska Marmot",LC,S
+104,102,"marmota","Marmota","Alpine Marmot",LC,S
+105,87,"monax","Marmota","Woodchuck",LC,S
+109,108,"vancouverensis","Marmota","Vancouver Island Marmot",CR,D
+110,108,"caligata","Marmota","Hoary Marmot",LC,S
+111,107,"olympus","Marmota","Olympic Marmot",LC,D
+112,106,"flaviventris","Marmota","Yellow-bellied Marmot",LC,S
+116,115,"leucurus","Cynomys","White-tailed Prairie Dog",LC,D
+117,115,"parvidens","Cynomys","Utah Prairie Dog",EN,D
+118,114,"gunnisoni","Cynomys","Gunnison's Prairie Dog",LC,D
+120,119,"ludovicianus","Cynomys","Arizona Black-tailed Prairie Dog",LC,D
+121,119,"mexicanus","Cynomys","Mexican Prairie Dog",EN,U
+125,124,"leucurus","Ammospermophilus","White-tailed Antelope Sqirrel",LC,S
+126,124,"interpres","Ammospermophilus","Texas Antelope Squirrel",LC,U
+128,127,"harrisii","Ammospermophilus","Harris's Antelope Squirrel",LC,U
+129,127,"nelsoni","Ammospermophilus","Nelson's Antelope Squirrel",EN,D
+130,122,"insularis","Ammospermophilus","",NE,U
+142,141,"quadrivittatus","Tamias","Colorado Chipmunk",LC,S
+143,141,"dorsalis","Tamias","Cliff Chipmunk",LC,S
+144,140,"cinereicollis","Tamias","Gray-collared Chipmunk",LC,S
+146,145,"umbrinus","Tamias","Hidden Forest Chipmunk",LC,S
+147,145,"palmeri","Tamias","Palmer's Chipmunk",EN,D
+148,138,"rufus","Tamias","Hopi Chipmunk",LC,S
+149,137,"bulleri","Tamias","Buller's Chipmunk",VU,D
+153,152,"canipes","Tamias","Gray-footed Chipmunk",LC,S
+154,152,"durangae","Tamias","Durango Chipmunk",LC,U
+155,151,"quadrimaculatus","Tamias","Long-eared Chipmunk",LC,S
+156,150,"amoenus","Tamias","Yellow-pine Chipmunk",LC,S
+160,159,"sonomae","Tamias","Sonoma Chipmunk",LC,S
+161,159,"senex","Tamias","Allen's Chipmunk",LC,S
+162,158,"townsendii","Tamias","Townsend's Chipmunk",LC,S
+163,157,"siskiyou","Tamias","Siskiyou Chipmunk",LC,S
+165,164,"obscurus","Tamias","California Chipmunk",LC,S
+166,164,"merriami","Tamias","Merriam's Chipmunk",LC,S
+171,170,"ochrogenys","Tamias","Yellow-cheeked Chipmunk",LC,S
+172,170,"ruficaudus","Tamias","Red-tailed Chipmunk",LC,S
+173,169,"speciosus","Tamias","Lodgepole Chipmunk",LC,S
+175,174,"alpinus","Tamias","Alpine Chipmunk",LC,S
+176,174,"minimus","Tamias","Least Chipmunk",LC,S
+177,167,"panamintinus","Tamias","Panamint Chipmunk",LC,S
+178,132,"sibiricus","Tamias","Siberian Chipmunk",LC,S
+179,131,"striatus","Tamias","Eastern Chipmunk",LC,S
+189,188,"vincenti","Paraxerus","Vincent's Bush Squirrel",EN,D
+190,188,"palliatus","Paraxerus","Red Bush Squirrel",LC,U
+191,187,"cooperi","Paraxerus","Cooper's Mountain Squirrel",DD,U
+193,192,"alexandri","Paraxerus","Alexander's Bush Squirrel",LC,U
+194,192,"poensis","Paraxerus","Green Bush Squirrel",LC,U
+197,196,"lucifer","Paraxerus","Black And Red Bush Squirrel",DD,U
+198,196,"boehmi","Paraxerus","Boehm's Bush Squirrel",LC,U
+199,195,"cepapi","Paraxerus","Smith's Bush Squirrel",LC,S
+202,201,"flavovittis","Paraxerus","Striped Bush Squirrel",LC,U
+203,201,"ochraceus","Paraxerus","Ochre Bush Squirrel",LC,S
+204,200,"vexillarius","Paraxerus","Svynnerton's Bush Squirrel",NT,U
+209,208,"leucogenys","Funisciurus","Orange Headed Tree Squirrel",LC,U
+210,208,"isabella","Funisciurus","Lady Burton's Rope Squirrel",LC,U
+211,207,"substriatus","Funisciurus","Kintampo Rope Squirrel",DD,U
+214,213,"carruthersi","Funisciurus","Carruther's Mountain Squirrel",LC,U
+215,213,"congicus","Funisciurus","Congo Rope Squirrel",LC,S
+216,212,"bayonii","Funisciurus","Lunda Rope Squirrel",DD,U
+219,218,"lemniscatus","Funisciurus","Ribboned Rope Squirrel",LC,U
+220,218,"pyrropus","Funisciurus","Fire-footed Rope Squirrel",LC,S
+221,217,"anerythrus","Funisciurus","Redness Tree Squirrel",LC,U
+224,223,"aubinnii","Protoxerus","Slender-tailed Squirrel",DD,U
+225,223,"stangeri","Protoxerus","African Giant Squirrel",LC,U
+226,222,"ebii","Epixerus","Western Palm Squirrel",LC,U
+231,230,"rufobrachium","Heliosciurus","Red-legged Sun Squirrel",LC,U
+232,230,"punctatus","Heliosciurus","Small Sun Squirrel",DD,U
+233,229,"gambianus","Heliosciurus","Gambian Sun Squirrel",LC,U
+234,228,"mutabilis","Heliosciurus","Mutable Sun Squirrel",LC,U
+236,235,"ruwenzorii","Heliosciurus","Ruwenzori Sun Squirrel",LC,U
+237,235,"undulatus","Heliosciurus","Zanj Sun Squirrel",DD,U
+238,180,"pumilio","Myosciurus","African Pygmy Squirrel",LC,U

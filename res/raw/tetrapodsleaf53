@@ -1,0 +1,131 @@
+index,parent,name1,name2,common,redlist,popstab
+12,11,"calvicollina","Plectrohyla","",CR,D
+13,11,"robertsorum","Plectrohyla","",EN,D
+15,14,"cembra","Plectrohyla","",CR,D
+16,14,"mykter","Plectrohyla","",EN,D
+18,17,"charadricola","Plectrohyla","",EN,D
+19,17,"bistincta","Plectrohyla","",LC,D
+22,21,"ameibothalame","Plectrohyla","",DD,U
+23,21,"celata","Plectrohyla","",CR,D
+24,20,"crassa","Plectrohyla","",CR,D
+28,27,"pachyderma","Plectrohyla","",CR,D
+29,27,"psarosema","Plectrohyla","",CR,D
+30,26,"thorectes","Plectrohyla","",CR,D
+31,25,"hazelae","Plectrohyla","",CR,D
+35,34,"pentheter","Plectrohyla","",EN,D
+36,34,"siopela","Plectrohyla","",CR,D
+37,33,"calthula","Plectrohyla","",CR,D
+38,32,"chryses","Plectrohyla","",CR,D
+41,40,"cyanomma","Plectrohyla","",CR,D
+42,40,"sabrina","Plectrohyla","",CR,D
+43,39,"arborescandens","Plectrohyla","",EN,D
+46,45,"labedactyla","Plectrohyla","",DD,D
+47,45,"cyclada","Plectrohyla","",EN,D
+48,44,"ephemera","Plectrohyla","",CR,D
+56,55,"guatemalensis","Plectrohyla","",CR,D
+57,55,"quecchi","Plectrohyla","",CR,D
+59,58,"pycnochila","Plectrohyla","",CR,D
+60,58,"psiloderma","Plectrohyla","",EN,D
+61,53,"teuchestes","Plectrohyla","",CR,D
+65,64,"exquisita","Plectrohyla","",CR,S
+66,64,"hartwegi","Plectrohyla","",CR,D
+67,63,"glandulosa","Plectrohyla","",EN,D
+68,62,"avia","Plectrohyla","",CR,D
+70,69,"pokomchi","Plectrohyla","",CR,D
+71,69,"ixil","Plectrohyla","",CR,D
+73,72,"acanthodes","Plectrohyla","",CR,D
+74,72,"tecunumani","Plectrohyla","",CR,D
+78,77,"chrysopleura","Plectrohyla","",CR,D
+79,77,"matudai","Plectrohyla","",VU,D
+80,76,"sagorum","Plectrohyla","",EN,D
+82,81,"lacertosa","Plectrohyla","",EN,D
+83,81,"dasypus","Plectrohyla","",CR,D
+90,89,"sumichrasti","Exerodonta","",LC,D
+91,89,"juanitae","Exerodonta","",VU,D
+93,92,"chimalapa","Exerodonta","",EN,D
+94,92,"melanomma","Exerodonta","",VU,D
+95,87,"pinorum","Exerodonta","",VU,D
+97,96,"perkinsi","Exerodonta","",CR,D
+98,96,"xera","Exerodonta","",VU,D
+100,99,"abdivita","Exerodonta","",DD,U
+101,99,"catracha","Exerodonta","",EN,D
+103,102,"smaragdina","Exerodonta","",LC,S
+104,102,"bivocata","Exerodonta","",DD,U
+112,111,"brachyphona","Pseudacris","Mountain Chorus Frog",LC,U
+113,111,"brimleyi","Pseudacris","Brimley's Chorus Frog",LC,S
+114,110,"feriarum","Pseudacris","Upland Chorus Frog",LC,S
+116,115,"nigrita","Pseudacris","Southern Chorus Frog",LC,S
+117,115,"clarkii","Pseudacris","Spotted Chorus Frog",LC,S
+118,108,"triseriata","Pseudacris","Western Chorus Frog",LC,D
+121,120,"streckeri","Pseudacris","Strecker's Chorus Frog",LC,U
+122,120,"ornata","Pseudacris","Ornate Chorus Frog",LC,S
+124,123,"ocularis","Pseudacris","Little Grass Frog",LC,S
+125,123,"crucifer","Pseudacris","Spring Peeper",LC,S
+127,126,"cadaverina","Pseudacris","California Treefrog",LC,S
+128,126,"regilla","Pseudacris","Pacific Chorus Frog",LC,S
+130,129,"crepitans","Acris","Northern Cricket Frog",LC,S
+131,129,"gryllus","Acris","Southern Cricket Frog",LC,S
+145,144,"andersonii","Hyla","Pine Barrens Treefrog",NT,D
+146,144,"bocourti","Hyla","",CR,D
+147,143,"wrightorum","Hyla","",LC,S
+149,148,"arboricola","Hyla","",DD,U
+150,148,"walkeri","Hyla","",VU,D
+151,141,"eximia","Hyla","",LC,S
+152,140,"arenicolor","Hyla","Canyon Treefrog",LC,S
+154,153,"japonica","Hyla","Japanese Treefrog",LC,S
+155,153,"plicata","Hyla","",LC,S
+157,156,"euphorbiacea","Hyla","",NT,D
+158,156,"suweonensis","Hyla","",DD,U
+161,160,"chrysoscelis","Hyla","Cope's Gray Treefrog",LC,S
+162,160,"versicolor","Hyla","Gray Treefrog",LC,S
+163,159,"avivoca","Hyla","Bird-voiced Treefrog",LC,S
+166,165,"squirella","Hyla","Squirrel Treefrog",LC,S
+167,165,"cinerea","Hyla","Green Treefrog",LC,S
+168,164,"gratiosa","Hyla","",LC,S
+172,171,"smithii","Tlalocohyla","",LC,D
+173,171,"loquax","Tlalocohyla","",LC,S
+174,170,"picta","Tlalocohyla","",LC,I
+175,169,"godmani","Tlalocohyla","",VU,D
+182,181,"baudinii","Smilisca","",LC,S
+183,181,"phaeota","Smilisca","",LC,S
+184,180,"fodiens","Smilisca","",LC,S
+185,179,"cyanosticta","Smilisca","",NT,D
+187,186,"dentata","Smilisca","",EN,D
+188,186,"sordida","Smilisca","",LC,S
+190,189,"puma","Smilisca","",LC,S
+191,189,"sila","Smilisca","",LC,D
+194,193,"spatulatus","Triprion","",NE,U
+195,193,"petasatus","Triprion","",LC,S
+196,192,"spinosa","Anotheca","",LC,D
+204,203,"sanchiangensis","Hyla","",LC,D
+205,203,"tsinlingensis","Hyla","",LC,D
+206,202,"savignyi","Hyla","",LC,S
+208,207,"sarda","Hyla","Sardinian Treefrog",LC,S
+209,207,"zhaopingensis","Hyla","",DD,U
+213,212,"intermedia","Hyla","Italian Treefrog",LC,S
+214,212,"arborea","Hyla","European Treefrog",LC,D
+215,211,"simplex","Hyla","",LC,S
+216,210,"femoralis","Hyla","",LC,S
+218,217,"meridionalis","Hyla","Mediterranean Treefrog",LC,S
+219,217,"hallowellii","Hyla","",LC,S
+222,221,"immaculata","Hyla","",LC,S
+223,221,"chinensis","Hyla","",LC,S
+224,220,"annectans","Hyla","",LC,S
+230,229,"rivularis","Isthmohyla","",CR,D
+231,229,"debilis","Isthmohyla","",CR,D
+233,232,"picadoi","Isthmohyla","",NT,D
+234,232,"calypsa","Isthmohyla","",CR,D
+237,236,"lancasteri","Isthmohyla","",LC,S
+238,236,"insolita","Isthmohyla","",CR,D
+239,235,"zeteki","Isthmohyla","",NT,D
+242,241,"pictipes","Isthmohyla","",EN,D
+243,241,"tica","Isthmohyla","",CR,D
+244,240,"xanthosticta","Isthmohyla","",DD,U
+248,247,"angustilineata","Isthmohyla","",CR,D
+249,247,"pseudopuma","Isthmohyla","",LC,S
+250,246,"graceae","Isthmohyla","",CR,D
+251,245,"infucata","Isthmohyla","",DD,U
+255,254,"pellita","Megastomatohyla","",CR,D
+256,254,"mixe","Megastomatohyla","",CR,D
+257,253,"nubicola","Megastomatohyla","",EN,D
+258,252,"mixomaculata","Megastomatohyla","",EN,D

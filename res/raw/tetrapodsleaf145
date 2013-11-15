@@ -1,0 +1,106 @@
+index,parent,name1,name2,common,redlist,popstab
+14,13,"megala","Gallinago","Swinhoe's Snipe",LC,U
+15,13,"stenura","Gallinago","Pintail Snipe",LC,U
+17,16,"solitaria","Gallinago","Solitary Snipe",LC,U
+18,16,"media","Gallinago","Great Snipe",NT,U
+20,19,"stricklandii","Gallinago","Fuegian Snipe",NT,U
+21,19,"imperialis","Gallinago","Imperial Snipe",NT,U
+23,22,"undulata","Gallinago","Giant Snipe",LC,U
+24,22,"andina","Gallinago","Puna Snipe",LC,U
+25,9,"jamesoni","Gallinago","Andean Snipe",LC,U
+31,30,"nigripennis","Gallinago","African Snipe",LC,U
+32,30,"nemoricola","Gallinago","Wood Snipe",VU,U
+33,29,"paraguaiae","Gallinago","South American Snipe",LC,U
+34,28,"gallinago","Gallinago","Common Snipe",LC,U
+35,27,"hardwickii","Gallinago","Latham's Snipe",LC,U
+37,36,"macrodactyla","Gallinago","Madagascar Snipe",VU,U
+38,36,"nobilis","Gallinago","Noble Snipe",LC,U
+40,39,"aucklandica","Coenocorypha","New Zealand Snipe",NT,U
+41,39,"pusilla","Coenocorypha","Chatham Snipe",VU,U
+46,45,"rosenbergii","Scolopax","New Guinea Woodcock",LC,U
+47,45,"rusticola","Scolopax","Eurasian Woodcock",LC,U
+49,48,"rochussenii","Scolopax","Moluccan Woodcock",EN,U
+50,48,"celebensis","Scolopax","Sulawesi Woodcock",NT,U
+52,51,"minor","Scolopax","American Woodcock",LC,U
+53,51,"mira","Scolopax","Ryukyu Woodcock",VU,U
+55,54,"bukidnonensis","Scolopax","Philippine Woodcock",LC,U
+56,54,"saturata","Scolopax","Javan Woodcock",NT,U
+59,58,"scolopaceus","Limnodromus","Long-billed Dowitcher",LC,U
+60,58,"semipalmatus","Limnodromus","Asian Dowitcher",NT,U
+61,57,"griseus","Limnodromus","Short-billed Dowitcher",LC,U
+70,69,"melanoleuca","Tringa","Greater Yellowlegs",LC,U
+71,69,"nebularia","Tringa","Common Greenshank",LC,U
+73,72,"guttifer","Tringa","Spotted Greenshank",EN,U
+74,72,"erythropus","Tringa","Spotted Redshank",LC,U
+77,76,"glareola","Tringa","Wood Sandpiper",LC,U
+78,76,"totanus","Tringa","Common Redshank",LC,U
+79,75,"stagnatilis","Tringa","Marsh Sandpiper",LC,U
+81,80,"semipalmatus","Catoptrophorus","Willet",LC,U
+82,80,"flavipes","Tringa","Lesser Yellowlegs",LC,U
+84,83,"brevipes","Heteroscelus","Grey-tailed Tattler",LC,U
+85,83,"incanus","Heteroscelus","Wandering Tattler",LC,U
+87,86,"solitaria","Tringa","Solitary Sandpiper",LC,U
+88,86,"ochropus","Tringa","Green Sandpiper",LC,U
+90,89,"macularius","Actitis","Spotted Sandpiper",LC,U
+91,89,"hypoleucos","Actitis","Common Sandpiper",LC,U
+95,94,"lobatus","Phalaropus","Red-necked Phalarope",LC,U
+96,94,"fulicarius","Phalaropus","Red Phalarope",LC,U
+97,93,"tricolor","Steganopus","Wilson's Phalarope",LC,U
+98,92,"cinereus","Xenus","Terek Sandpiper",LC,U
+110,109,"pusilla","Calidris","Semipalmated Sandpiper",LC,U
+111,109,"mauri","Calidris","Western Sandpiper",LC,U
+112,108,"acuminata","Calidris","Sharp-tailed Sandpiper",LC,U
+113,107,"ruficollis","Calidris","Red-necked Stint",LC,U
+117,116,"minuta","Calidris","Little Stint",LC,U
+118,116,"alba","Calidris","Sanderling",LC,U
+119,115,"fuscicollis","Calidris","White-rumped Sandpiper",LC,U
+120,114,"minutilla","Calidris","Least Sandpiper",LC,U
+123,122,"ptilocnemis","Calidris","Rock Sandpiper",LC,U
+124,122,"maritima","Calidris","Purple Sandpiper",LC,U
+125,121,"alpina","Calidris","Dunlin",LC,U
+129,128,"subruficollis","Tryngites","Buff-breasted Sandpiper",NT,U
+130,128,"bairdii","Calidris","Baird's Sandpiper",LC,U
+131,127,"himantopus","Calidris","Stilt Sandpiper",LC,U
+132,126,"melanotos","Calidris","Pectoral Sandpiper",LC,U
+134,133,"temminckii","Calidris","Temminck's Stint",LC,U
+135,133,"subminuta","Calidris","Long-toed Stint",LC,U
+136,102,"ferruginea","Calidris","Curlew Sandpiper",LC,U
+141,140,"tenuirostris","Calidris","Great Knot",VU,U
+142,140,"virgata","Aphriza","Surfbird",LC,U
+143,139,"canutus","Calidris","Red Knot",LC,U
+144,138,"cancellata","Prosobonia","Tuamotu Sandpiper",EN,U
+146,145,"falcinellus","Limicola","Broad-billed Sandpiper",LC,U
+147,145,"pugnax","Philomachus","Ruff",LC,U
+148,100,"pygmeus","Eurynorhynchus","Spoon-billed Sandpiper",CR,U
+150,149,"melanocephala","Arenaria","Black Turnstone",LC,U
+151,149,"interpres","Arenaria","Ruddy Turnstone",LC,U
+156,155,"haemastica","Limosa","Hudsonian Godwit",LC,U
+157,155,"fedoa","Limosa","Marbled Godwit",LC,U
+158,154,"limosa","Limosa","Black-tailed Godwit",NT,U
+159,153,"lapponica","Limosa","Bar-tailed Godwit",LC,U
+160,152,"minimus","Lymnocryptes","Jack Snipe",LC,U
+167,166,"arquata","Numenius","Eurasian Curlew",NT,U
+168,166,"minutus","Numenius","Little Curlew",LC,U
+169,165,"madagascariensis","Numenius","Far Eastern Curlew",VU,U
+170,164,"borealis","Numenius","Eskimo Curlew",CR,U
+171,163,"americanus","Numenius","Long-billed Curlew",LC,U
+174,173,"tenuirostris","Numenius","Slender-billed Curlew",CR,U
+175,173,"phaeopus","Numenius","Whimbrel",LC,U
+176,172,"tahitiensis","Numenius","Bristle-thighed Curlew",VU,U
+177,161,"longicauda","Bartramia","Upland Sandpiper",LC,U
+184,183,"gallinacea","Irediparra","Comb-crested Jacana",LC,U
+185,183,"capensis","Microparra","Lesser Jacana",LC,U
+186,182,"indicus","Metopidius","Bronze-winged Jacana",LC,U
+188,187,"albinucha","Actophilornis","Madagascar Jacana",LC,U
+189,187,"africanus","Actophilornis","African Jacana",LC,U
+192,191,"spinosa","Jacana","Northern Jacana",LC,U
+193,191,"jacana","Jacana","Wattled Jacana",LC,U
+194,190,"chirurgus","Hydrophasianus","Pheasant-tailed Jacana",LC,U
+197,196,"australis","Rostratula","Australian Painted Snipe",EN,U
+198,196,"benghalensis","Rostratula","Greater Painted-snipe",LC,U
+199,195,"semicollaris","Rostratula","South American Painted-snipe",LC,U
+203,202,"orbignyianus","Thinocorus","Grey-breasted Seedsnipe",LC,U
+204,202,"rumicivorus","Thinocorus","Least Seedsnipe",LC,U
+206,205,"malouinus","Attagis","White-bellied Seedsnipe",LC,U
+207,205,"gayi","Attagis","Rufous-bellied Seedsnipe",LC,U
+208,200,"torquatus","Pedionomus","Plains-wanderer",EN,U

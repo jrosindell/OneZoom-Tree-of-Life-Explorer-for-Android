@@ -1,0 +1,189 @@
+index,parent,name1,name2,common,redlist,popstab
+17,16,"multicolor","Petroica","Scarlet Robin",LC,U
+18,16,"phoenicea","Petroica","Flame Robin",NT,U
+20,19,"rodinogaster","Petroica","Pink Robin",LC,U
+21,19,"rosea","Petroica","Rose Robin",LC,U
+23,22,"archboldi","Petroica","Snow Mountain Robin",DD,U
+24,22,"goodenovii","Petroica","Red-capped Robin",LC,U
+25,13,"bivittata","Petroica","Alpine Robin",LC,U
+26,12,"australis","Petroica","New Zealand Robin",LC,U
+28,27,"traversi","Petroica","Black Robin",EN,U
+29,27,"macrocephala","Petroica","Tomtit",LC,U
+30,10,"rubra","Eugerygone","Garnet Robin",LC,U
+32,31,"hattamensis","Pachycephalopsis","Green-backed Robin",LC,U
+33,31,"poliosoma","Pachycephalopsis","White-eyed Robin",LC,U
+35,34,"sclateriana","Amalocichla","Greater Ground-robin",LC,U
+36,34,"incerta","Amalocichla","Lesser Ground-robin",LC,U
+40,39,"hemixantha","Microeca","Golden-bellied Flyrobin",NT,U
+41,39,"flavovirescens","Microeca","Olive Flyrobin",LC,U
+43,42,"flavigaster","Microeca","Lemon-bellied Flyrobin",LC,U
+44,42,"fascinans","Microeca","Jacky-winter",LC,U
+46,45,"griseoceps","Microeca","Yellow-legged Flyrobin",LC,U
+47,45,"papuana","Microeca","Canary Flyrobin",LC,U
+56,55,"bimaculata","Peneothello","White-rumped Robin",LC,U
+57,55,"cryptoleuca","Peneothello","Smoky Robin",LC,U
+59,58,"sigillatus","Peneothello","White-winged Robin",LC,U
+60,58,"cyanus","Peneothello","Blue-grey Robin",LC,U
+61,53,"pulverulenta","Eopsaltria","Mangrove Robin",LC,U
+63,62,"cucullata","Melanodryas","Hooded Robin",LC,U
+64,62,"vittata","Melanodryas","Dusky Robin",LC,U
+65,51,"muelleriana","Monachella","Torrent Robin",LC,U
+69,68,"leucops","Tregellasia","White-faced Robin",LC,U
+70,68,"capito","Tregellasia","Pale-yellow Robin",LC,U
+71,67,"georgiana","Eopsaltria","White-breasted Robin",LC,U
+73,72,"griseogularis","Eopsaltria","Western Yellow Robin",LC,U
+74,72,"australis","Eopsaltria","Eastern Yellow Robin",LC,U
+75,49,"flaviventris","Eopsaltria","Yellow-bellied Robin",LC,U
+78,77,"superciliaris","Drymodes","Northern Scrub-robin",LC,U
+79,77,"brunneopygia","Drymodes","Southern Scrub-robin",LC,U
+80,76,"albispecularis","Heteromyias","Grey-headed Robin",LC,U
+85,84,"cerviniventris","Poecilodryas","Buff-sided Robin",LC,U
+86,84,"brachyura","Poecilodryas","Black-chinned Robin",LC,U
+87,83,"superciliosa","Poecilodryas","White-browed Robin",LC,U
+88,82,"albonotata","Poecilodryas","Black-throated Robin",LC,U
+90,89,"hypoleuca","Poecilodryas","Black-sided Robin",LC,U
+91,89,"placens","Poecilodryas","Olive-yellow Robin",NT,U
+95,94,"aurantius","Chaetops","Drakensberg Rockjumper",LC,U
+96,94,"frenatus","Chaetops","Cape Rock-jumper",LC,U
+97,93,"macrocerus","Eupetes","Rail-babbler",NT,U
+99,98,"gymnocephalus","Picathartes","White-necked Picathartes",VU,U
+100,98,"oreas","Picathartes","Grey-necked Picathartes",VU,U
+111,110,"castaneothorax","Cinclosoma","Chestnut-breasted Quail-thrush",LC,U
+112,110,"punctatum","Cinclosoma","Spotted Quail-thrush",LC,U
+114,113,"cinnamomeum","Cinclosoma","Cinnamon Quail-thrush",LC,U
+115,113,"castanotum","Cinclosoma","Chestnut Quail-thrush",LC,U
+116,108,"ajax","Cinclosoma","Painted Quail-thrush",LC,U
+119,118,"castanonota","Ptilorrhoa","Chestnut-backed Jewel-babbler",LC,U
+120,118,"caerulescens","Ptilorrhoa","Blue Jewel-babbler",LC,U
+121,117,"leucosticta","Ptilorrhoa","Spotted Jewel-babbler",LC,U
+124,123,"ochrocephala","Mohoua","Yellowhead",EN,U
+125,123,"albicilla","Mohoua","Whitehead",LC,U
+126,122,"novaeseelandiae","Mohoua","Pipipi",LC,U
+128,127,"nigropectus","Eulacestoma","Wattled Ploughbill",LC,U
+129,127,"viridis","Androphobus","Papuan Whipbird",DD,U
+133,132,"occidentalis","Psophodes","Chiming Wedgebill",LC,U
+134,132,"nigrogularis","Psophodes","Western Whipbird",NT,U
+136,135,"cristatus","Psophodes","Chirruping Wedgebill",LC,U
+137,135,"olivaceus","Psophodes","Eastern Whipbird",LC,U
+138,130,"frontatus","Falcunculus","Crested Shrike-tit",LC,U
+144,143,"longicauda","Melanocharis","Lemon-breasted Berrypecker",LC,U
+145,143,"striativentris","Melanocharis","Streaked Berrypecker",LC,U
+147,146,"versteri","Melanocharis","Fan-tailed Berrypecker",LC,U
+148,146,"nigra","Melanocharis","Black Berrypecker",LC,U
+150,149,"crassirostris","Melanocharis","Spotted Berrypecker",LC,U
+151,149,"arfakiana","Melanocharis","Obscure Berrypecker",DD,U
+155,154,"novaeguineae","Toxorhamphus","Green-crowned Longbill",LC,U
+156,154,"poliopterus","Toxorhamphus","Grey-winged Longbill",LC,U
+157,153,"iliolophus","Toxorhamphus","Plumed Longbill",LC,U
+158,152,"pygmaeum","Oedistoma","Pygmy Longbill",LC,U
+162,161,"sericea","Loboparadisea","Yellow-breasted Bird-of-paradise",NT,U
+163,161,"loriae","Cnemophilus","Loria's Bird-of-paradise",LC,U
+164,160,"macgregorii","Cnemophilus","Crested Bird-of-paradise",LC,U
+167,166,"carunculatus","Philesturnus","Saddleback",NT,U
+168,166,"cinereus","Callaeas","Kokako",EN,U
+169,165,"cincta","Notiomystis","Stitchbird",VU,U
+174,173,"superciliosus","Pomatostomus","White-browed Babbler",LC,U
+175,173,"ruficeps","Pomatostomus","Chestnut-crowned Babbler",LC,U
+177,176,"temporalis","Pomatostomus","Grey-crowned Babbler",LC,U
+178,176,"halli","Pomatostomus","Hall's Babbler",LC,U
+179,171,"isidorei","Pomatostomus","New Guinea Babbler",LC,U
+182,181,"temminckii","Orthonyx","Australian Logrunner",LC,U
+183,181,"spaldingii","Orthonyx","Chowchilla",LC,U
+184,180,"novaeguineae","Orthonyx","New Guinea Logrunner",LC,U
+192,191,"quadragintus","Pardalotus","Forty-spotted Pardalote",EN,U
+193,191,"punctatus","Pardalotus","Spotted Pardalote",LC,U
+194,190,"striatus","Pardalotus","Striated Pardalote",LC,U
+195,189,"rubricatus","Pardalotus","Red-browed Pardalote",LC,U
+208,207,"magnirostra","Sericornis","Large-billed Scrubwren",LC,U
+209,207,"nouhuysi","Sericornis","Large Scrubwren",LC,U
+210,206,"virgatus","Sericornis","Perplexing Scrubwren",LC,U
+212,211,"frontalis","Sericornis","White-browed Scrubwren",LC,U
+213,211,"keri","Sericornis","Atherton Scrubwren",LC,U
+214,204,"spilodera","Sericornis","Pale-billed Scrubwren",LC,U
+218,217,"perspicillatus","Sericornis","Buff-faced Scrubwren",LC,U
+219,217,"papuensis","Sericornis","Papuan Scrubwren",LC,U
+221,220,"beccarii","Sericornis","Beccari's Scrubwren",LC,U
+222,220,"rufescens","Sericornis","Vogelkop Scrubwren",LC,U
+223,215,"arfakianus","Sericornis","Grey-green Scrubwren",LC,U
+225,224,"citreogularis","Sericornis","Yellow-throated Scrubwren",LC,U
+226,224,"humilis","Sericornis","Tasmanian Scrubwren",LC,U
+230,229,"nigrorufa","Crateroscelis","Bicoloured Mouse-warbler",LC,U
+231,229,"murina","Crateroscelis","Rusty Mouse-warbler",LC,U
+232,228,"robusta","Crateroscelis","Mountain Mouse-warbler",LC,U
+233,227,"solitaria","Origma","Rockwarbler",LC,U
+237,236,"fuliginosus","Calamanthus","Striated Fieldwren",LC,U
+238,236,"campestris","Calamanthus","Rufous Fieldwren",LC,U
+240,239,"pyrrhopygia","Hylacola","Chestnut-rumped Heathwren",LC,U
+241,239,"cauta","Hylacola","Shy Heathwren",LC,U
+244,243,"sagittatus","Chthonicola","Speckled Warbler",LC,U
+245,243,"brunneus","Pyrrholaemus","Redthroat",LC,U
+246,242,"floccosus","Pycnoptilus","Pilotbird",LC,U
+247,199,"brevirostris","Smicrornis","Weebill",LC,U
+254,253,"reguloides","Acanthiza","Buff-rumped Thornbill",LC,U
+255,253,"inornata","Acanthiza","Western Thornbill",LC,U
+256,252,"uropygialis","Acanthiza","Chestnut-rumped Thornbill",LC,U
+258,257,"robustirostris","Acanthiza","Slaty-backed Thornbill",LC,U
+259,257,"iredalei","Acanthiza","Slender-billed Thornbill",LC,U
+263,262,"katherina","Acanthiza","Mountain Thornbill",LC,U
+264,262,"pusilla","Acanthiza","Brown Thornbill",LC,U
+265,261,"ewingii","Acanthiza","Tasmanian Thornbill",LC,U
+266,260,"apicalis","Acanthiza","Inland Thornbill",LC,U
+270,269,"murina","Acanthiza","Papuan Thornbill",LC,U
+271,269,"nana","Acanthiza","Yellow Thornbill",LC,U
+272,268,"chrysorrhoa","Acanthiza","Yellow-rumped Thornbill",LC,U
+273,267,"lineata","Acanthiza","Striated Thornbill",LC,U
+277,276,"pectoralis","Aphelocephala","Chestnut-breasted Whiteface",NT,U
+278,276,"nigricincta","Aphelocephala","Banded Whiteface",LC,U
+279,275,"leucopsis","Aphelocephala","Southern Whiteface",LC,U
+280,274,"magna","Acanthornis","Scrubtit",LC,U
+288,287,"sulphurea","Gerygone","Golden-bellied Gerygone",LC,U
+289,287,"olivacea","Gerygone","White-throated Gerygone",LC,U
+290,286,"fusca","Gerygone","Western Gerygone",LC,U
+292,291,"chrysogaster","Gerygone","Yellow-bellied Gerygone",LC,U
+293,291,"mouki","Gerygone","Brown Gerygone",LC,U
+294,284,"ruficollis","Gerygone","Brown-breasted Gerygone",LC,U
+297,296,"modesta","Gerygone","Norfolk Island Gerygone",VU,U
+298,296,"albofrontata","Gerygone","Chatham Gerygone",LC,U
+300,299,"dorsalis","Gerygone","Rufous-sided Gerygone",LC,U
+301,299,"cinerea","Gerygone","Mountain Gerygone",LC,U
+305,304,"magnirostris","Gerygone","Large-billed Gerygone",LC,U
+306,304,"flavolateralis","Gerygone","Fan-tailed Gerygone",LC,U
+308,307,"levigaster","Gerygone","Mangrove Gerygone",LC,U
+309,307,"igata","Gerygone","Grey Gerygone",LC,U
+312,311,"chloronota","Gerygone","Green-backed Gerygone",LC,U
+313,311,"palpebrosa","Gerygone","Fairy Gerygone",LC,U
+314,310,"inornata","Gerygone","Plain Gerygone",LC,U
+316,315,"tenebrosa","Gerygone","Dusky Gerygone",LC,U
+317,315,"hypoxantha","Gerygone","Biak Gerygone",_U,[
+318,196,"gutturalis","Oreoscopus","Fernwren",LC,U
+321,320,"brachypterus","Dasyornis","Eastern Bristlebird",EN,U
+322,320,"broadbenti","Dasyornis","Rufous Bristlebird",LC,U
+323,319,"longirostris","Dasyornis","Western Bristlebird",VU,U
+333,332,"pulcherrimus","Malurus","Blue-breasted Fairywren",LC,U
+334,332,"coronatus","Malurus","Purple-crowned Fairywren",LC,U
+336,335,"splendens","Malurus","Splendid Fairywren",LC,U
+337,335,"cyaneus","Malurus","Superb Fairywren",LC,U
+339,338,"cyanocephalus","Malurus","Emperor Fairywren",LC,U
+340,338,"grayi","Malurus","Broad-billed Fairywren",LC,U
+344,343,"lamberti","Malurus","Variegated Fairywren",LC,U
+345,343,"amabilis","Malurus","Lovely Fairywren",LC,U
+346,342,"elegans","Malurus","Red-winged Fairywren",LC,U
+347,341,"campbelli","Malurus","Campbell's Fairywren",_U,[
+348,328,"alboscapulatus","Malurus","White-shouldered Fairywren",LC,U
+350,349,"melanocephalus","Malurus","Red-backed Fairywren",LC,U
+351,349,"leucopterus","Malurus","White-winged Fairywren",LC,U
+353,352,"insignis","Clytomyias","Orange-crowned Fairywren",LC,U
+354,352,"wallacii","Sipodotus","Wallace's Fairywren",LC,U
+357,356,"malachurus","Stipiturus","Southern Emuwren",LC,U
+358,356,"mallee","Stipiturus","Mallee Emuwren",EN,U
+359,355,"ruficeps","Stipiturus","Rufous-crowned Emuwren",LC,U
+366,365,"ballarae","Amytornis","Kalkadoon Grasswren",LC,U
+367,365,"purnelli","Amytornis","Dusky Grasswren",LC,U
+368,364,"goyderi","Amytornis","Eyrean Grasswren",LC,U
+369,363,"housei","Amytornis","Black Grasswren",LC,U
+370,362,"textilis","Amytornis","Thick-billed Grasswren",LC,U
+374,373,"woodwardi","Amytornis","White-throated Grasswren",VU,U
+375,373,"dorotheae","Amytornis","Carpentarian Grasswren",VU,U
+376,372,"striatus","Amytornis","Striated Grasswren",LC,U
+377,371,"merrotsyi","Amytornis","Short-tailed Grasswren",LC,U
+378,360,"barbatus","Amytornis","Grey Grasswren",LC,U

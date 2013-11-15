@@ -1,0 +1,105 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"helveticus","Lissotriton","Palmate Newt",LC,S
+14,12,"italicus","Lissotriton","Italian Newt",LC,D
+16,15,"vulgaris","Lissotriton","Smooth Newt",LC,S
+17,15,"boscai","Lissotriton","Bosca's Newt",LC,S
+18,10,"montandoni","Lissotriton","Carpathian Newt",LC,D
+19,9,"alpestris","Mesotriton","Alpine Newt",LC,D
+21,20,"platycephalus","Euproctus","Sardinian Brook Salamander",EN,D
+22,20,"montanus","Euproctus","Corsican Brook Salamander",LC,S
+28,27,"karelinii","Triturus","Southern Crested Newt",LC,D
+29,27,"carnifex","Triturus","Italian Crested Newt",LC,D
+30,26,"cristatus","Triturus","Great Crested Newt",LC,D
+32,31,"pygmaeus","Triturus","Southern Marbled Newt",NT,D
+33,31,"marmoratus","Triturus","Marbled Newt",LC,D
+34,24,"dobrogicus","Triturus","Danube Crested Newt",NT,D
+35,23,"asper","Calotriton","Pyrenean Brook Salamander",NT,D
+40,39,"strauchii","Neurergus","",VU,D
+41,39,"crocatus","Neurergus","",VU,D
+42,38,"microspilotus","Neurergus","",CR,D
+43,37,"kaiseri","Neurergus","",CR,D
+44,36,"vittatus","Ommatotriton","Southern Banded Newt",LC,D
+51,50,"deloustali","Paramesotriton","Tam Dao Salamander",VU,D
+52,50,"chinensis","Paramesotriton","Chinese Warty Newt",LC,D
+53,49,"laoensis","Paramesotriton","",DD,U
+54,48,"fuzhongensis","Paramesotriton","Wanggao Warty Newt",VU,D
+57,56,"caudopunctatus","Paramesotriton","Spot-tailed Warty Newt",NT,D
+58,56,"guanxiensis","Paramesotriton","Guangxi Warty Newt",EN,D
+59,55,"hongkongensis","Paramesotriton","Hong Kong Warty Newt",NT,D
+61,60,"brevipes","Pachytriton","Black-spotted Stout Newt",LC,D
+62,60,"labiatus","Pachytriton","Spotless Stout Newt",LC,D
+68,67,"orientalis","Cynops","Oriental Fire-bellied Newt",LC,D
+69,67,"wolterstorffi","Cynops","Yunnan Lake Newt",EX,U
+70,66,"orphicus","Cynops","Dayang Newt",EN,D
+71,65,"ensicauda","Cynops","Sword-tailed Newt",EN,D
+72,64,"cyanurus","Cynops","Chuxiong Fire-bellied Newt",LC,D
+74,73,"pyrrhogaster","Cynops","Japanese Fire-bellied Newt",LC,S
+75,73,"chenggongensis","Cynops","",DD,U
+79,78,"meridionalis","Notophthalmus","Black-spotted Newt",EN,D
+80,78,"viridescens","Notophthalmus","Eastern Newt",LC,S
+81,77,"perstriatus","Notophthalmus","Striped Newt",NT,D
+84,83,"rivularis","Taricha","Redbelly Newt",LC,S
+85,83,"torosa","Taricha","Coast Range Newt",LC,U
+86,82,"granulosa","Taricha","Roughskin Newt",LC,S
+93,92,"taliangensis","Tylototriton","Taliang Knobby Newt",NT,D
+94,92,"hainanensis","Tylototriton","Hainan Knobby Newt",EN,D
+95,91,"wenxianensis","Tylototriton","Wenxian Knobby Newt",VU,D
+98,97,"kweichowensis","Tylototriton","Red-tailed Knobby Newt",VU,D
+99,97,"asperrimus","Tylototriton","Black Knobby Newt",NT,D
+100,96,"verrucosus","Tylototriton","Crocodile Newt",LC,U
+101,89,"shanjing","Tylototriton","",NT,D
+103,102,"andersoni","Echinotriton","Anderson's Crocodile Newt",EN,D
+104,102,"chinhaiensis","Echinotriton","Chinhai Spiny Newt",CR,D
+107,106,"nebulosus","Pleurodeles","Algerian Ribbed Newt",VU,D
+108,106,"waltl","Pleurodeles","Sharp-ribbed Salamander",NT,D
+109,105,"poireti","Pleurodeles","Edough Ribbed Newt",EN,D
+110,2,"terdigitata","Salamandrina","Spectacled Salamander",LC,S
+118,117,"antalyana","Lyciasalamandra","",EN,D
+119,117,"fazilae","Lyciasalamandra","",EN,S
+120,116,"luschani","Lyciasalamandra","",VU,S
+121,115,"flavimembris","Lyciasalamandra","",EN,D
+124,123,"helverseni","Lyciasalamandra","",VU,S
+125,123,"billae","Lyciasalamandra","",CR,D
+126,122,"atifi","Lyciasalamandra","",EN,S
+127,113,"lusitanica","Chioglossa","Golden-striped Salamander",VU,D
+132,131,"salamandra","Salamandra","Common Fire Salamander",LC,D
+133,131,"corsica","Salamandra","Corsican Fire Salamander",LC,S
+134,130,"lanzai","Salamandra","Lanza's Alpine Salamander",VU,S
+135,129,"algira","Salamandra","North African Fire Salamander",VU,D
+137,136,"infraimmaculata","Salamandra","Arouss Al Ayn",NT,D
+138,136,"atra","Salamandra","Alpine Salamander",LC,D
+139,111,"caucasica","Mertensiella","Caucasian Salamander",VU,D
+152,151,"laterale","Ambystoma","Blue-spotted Salamander",LC,S
+153,151,"rivulare","Ambystoma","",DD,U
+154,150,"barbouri","Ambystoma","Streamside Salamander",NT,D
+155,149,"tigrinum","Ambystoma","Tiger Salamander",LC,S
+156,148,"ordinarium","Ambystoma","Michoacan Stream Salamander",EN,D
+160,159,"velasci","Ambystoma","Plateau Tiger Salamander",LC,D
+161,159,"gracile","Ambystoma","Northwestern Salamander",LC,S
+162,158,"texanum","Ambystoma","Smallmouth Salamander",LC,S
+163,157,"leorae","Ambystoma","Leora's Stream Salamander",CR,D
+166,165,"macrodactylum","Ambystoma","Long-toed Salamander",LC,S
+167,165,"bombypellum","Ambystoma","Axolotl",CR,D
+168,164,"opacum","Ambystoma","Marbled Salamander",LC,S
+170,169,"annulatum","Ambystoma","Ringed Salamander",LC,S
+171,169,"altamirani","Ambystoma","",EN,D
+173,172,"mexicanum","Ambystoma","Axolotl",CR,D
+174,172,"andersoni","Ambystoma","",CR,D
+177,176,"cingulatum","Ambystoma","Frosted Flatwoods Salamander",VU,D
+178,176,"dumerilii","Ambystoma","",CR,D
+180,179,"mabeei","Ambystoma","Mabee's Salamander",LC,D
+181,179,"amblycephalum","Ambystoma","",CR,D
+185,184,"taylori","Ambystoma","Taylor's Salamander",CR,D
+186,184,"flavipiperatum","Ambystoma","",DD,U
+187,183,"maculatum","Ambystoma","Spotted Salamander",LC,S
+188,182,"silvensis","Ambystoma","",NE,U
+192,191,"californiense","Ambystoma","California Tiger Salamander",VU,D
+193,191,"granulosum","Ambystoma","Granular Salamander",CR,D
+195,194,"jeffersonianum","Ambystoma","Jefferson Salamander",LC,S
+196,194,"talpoideum","Ambystoma","Mole Salamander",LC,S
+198,197,"lermaense","Ambystoma","Lake Lerma Salamander",CR,D
+199,197,"rosaceum","Ambystoma","Tarahumara Salamander",LC,U
+203,202,"ensatus","Dicamptodon","California Giant Salamander",NT,U
+204,202,"tenebrosus","Dicamptodon","Pacific Giant Salamander",LC,S
+205,201,"copei","Dicamptodon","Cope's Giant Salamander",LC,S
+206,200,"aterrimus","Dicamptodon","Idaho Giant Salamander",LC,S

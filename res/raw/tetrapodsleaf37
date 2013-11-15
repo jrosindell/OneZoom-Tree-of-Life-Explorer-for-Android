@@ -1,0 +1,124 @@
+index,parent,name1,name2,common,redlist,popstab
+9,8,"bufo","Bufo","Common Toad",LC,S
+10,8,"tuberculatus","Bufo","",NT,D
+11,7,"japonicus","Bufo","Japanese Common Toad",LC,S
+12,6,"minshanicus","Bufo","",LC,S
+13,5,"gargarizans","Bufo","Asiatic Toad",LC,S
+15,14,"verrucosissimus","Bufo","Caucasian Toad",NT,D
+16,14,"bankorensis","Bufo","",LC,S
+20,19,"tibetanus","Bufo","Tibetan Toad",LC,S
+21,19,"wolongensis","Bufo","",DD,U
+22,18,"kabischi","Bufo","",DD,U
+24,23,"torrenticola","Bufo","Japanese Stream Toad",LC,S
+25,23,"aspinius","Bufo","",DD,U
+34,33,"gundlachi","Peltophryne","Cuban High-crested Toad",VU,D
+35,33,"cataulaciceps","Peltophryne","Cuban Pine Toad",EN,D
+36,32,"fracta","Peltophryne","Eastern Crested Toad",EN,D
+38,37,"lemur","Peltophryne","Puerto Rican Crested Toad",CR,D
+39,37,"peltocephala","Peltophryne","",LC,D
+40,30,"taladai","Peltophryne","Cuban Spotted Toad",VU,D
+44,43,"fluviatica","Peltophryne","Hispaniolan Crestless Toad",CR,D
+45,43,"empusa","Peltophryne","Cuban Small-eared Toad",VU,D
+46,42,"longinasus","Peltophryne","Cuban Long-nosed Toad",EN,D
+48,47,"fustiger","Peltophryne","Western Giant Toad",LC,S
+49,47,"guentheri","Peltophryne","",VU,D
+50,28,"carens","Schismaderma","African Red Toad",LC,U
+55,54,"himalayanus","Duttaphrynus","Himalayan Toad",LC,S
+56,54,"noellerti","Duttaphrynus","",EN,D
+57,53,"crocus","Duttaphrynus","",DD,D
+59,58,"melanostictus","Duttaphrynus","Asian Common Toad",LC,I
+60,58,"microtympanum","Duttaphrynus","",VU,D
+63,62,"kandianus","Adenomus","",EX,U
+64,62,"dasi","Adenomus","",CR,D
+65,61,"kelaartii","Adenomus","",EN,D
+73,72,"luristanica","Pseudepidalea","",LC,U
+74,72,"latastii","Pseudepidalea","",LC,U
+75,71,"brongersmai","Pseudepidalea","Brongersma's Toad",NT,D
+76,70,"surda","Pseudepidalea","Iranian Earless Toad",LC,D
+77,69,"raddei","Pseudepidalea","Mongolian Toad",LC,S
+78,68,"pseudoraddei","Pseudepidalea","",LC,S
+81,80,"viridis","Pseudepidalea","Green Toad",LC,D
+82,80,"oblonga","Pseudepidalea","",LC,S
+83,79,"pewzowi","Pseudepidalea","",NE,U
+84,66,"calamita","Epidalea","Natterjack Toad",LC,D
+97,96,"iserni","Rhinella","Rio Perene Toad",DD,U
+98,96,"acutirostris","Rhinella","",LC,S
+99,95,"stanlaii","Rhinella","",LC,S
+100,94,"proboscidea","Rhinella","",LC,S
+103,102,"margaritifera","Rhinella","South American Common Toad",LC,S
+104,102,"scitula","Rhinella","",DD,U
+105,101,"roqueana","Rhinella","",LC,U
+107,106,"ceratophrys","Rhinella","",LC,S
+108,106,"cristinae","Rhinella","",DD,U
+110,109,"sclerocephala","Rhinella","",EN,D
+111,109,"castaneotica","Rhinella","",LC,S
+112,90,"dapsilis","Rhinella","",LC,S
+113,89,"intermedia","Rhinella","",NE,U
+119,118,"festae","Rhamphophryne","",NE,U
+120,118,"tenrec","Rhamphophryne","",NE,U
+121,117,"rostrata","Rhamphophryne","",NE,U
+123,122,"macrorhina","Rhamphophryne","",NE,U
+124,122,"truebae","Rhamphophryne","",NE,U
+125,115,"proboscidea","Rhamphophryne","",NE,U
+128,127,"acrolopha","Rhamphophryne","",NE,U
+129,127,"nicefori","Rhamphophryne","",NE,U
+131,130,"lindae","Rhamphophryne","",NE,U
+132,130,"ruizi","Rhamphophryne","",NE,U
+139,138,"rhopophilius","Pelophryne","",NE,U
+140,138,"brevipes","Pelophryne","",LC,D
+141,137,"guentheri","Pelophryne","",VU,D
+143,142,"signata","Pelophryne","",NT,D
+144,142,"misera","Pelophryne","",VU,D
+145,135,"macrotis","Pelophryne","",DD,U
+148,147,"albotaeniata","Pelophryne","",EN,D
+149,147,"api","Pelophryne","",EN,D
+150,146,"lighti","Pelophryne","",VU,D
+151,133,"scalpta","Parapelophryne","",EN,D
+158,157,"galeatus","Ingerophrynus","Bony-headed Toad",LC,U
+159,157,"parvus","Ingerophrynus","",LC,D
+160,156,"biporcatus","Ingerophrynus","Crested Toad",LC,S
+161,155,"kumquat","Ingerophrynus","",EN,D
+162,154,"celebensis","Ingerophrynus","Sulawesian Toad",LC,S
+164,163,"philippinicus","Ingerophrynus","Philippine Toad",LC,S
+165,163,"divergens","Ingerophrynus","",LC,D
+168,167,"quadriporcatus","Ingerophrynus","",LC,U
+169,167,"macrotis","Ingerophrynus","",LC,D
+170,166,"claviger","Ingerophrynus","",EN,D
+182,181,"hanitschi","Ansonia","",NT,S
+183,181,"malayana","Ansonia","",LC,D
+184,180,"tiomanica","Ansonia","",VU,S
+185,179,"anotis","Ansonia","",NE,U
+186,178,"minuta","Ansonia","",NT,D
+188,187,"albomaculata","Ansonia","",NT,D
+189,187,"fuliginea","Ansonia","",VU,U
+193,192,"leptopus","Ansonia","",NE,U
+194,192,"ornata","Ansonia","",EN,D
+195,191,"guibei","Ansonia","",EN,D
+196,190,"platysoma","Ansonia","",EN,D
+200,199,"penangensis","Ansonia","",NE,U
+201,199,"inthanon","Ansonia","",DD,U
+202,198,"glandulosa","Ansonia","",DD,U
+205,204,"longidigita","Ansonia","",NT,D
+206,204,"rubigina","Ansonia","",VU,S
+207,203,"latidisca","Ansonia","",EN,D
+209,208,"torrentis","Ansonia","",VU,S
+210,208,"muelleri","Ansonia","",VU,D
+212,211,"spinulifer","Ansonia","",NT,D
+213,211,"mcgregori","Ansonia","",VU,D
+214,172,"siamensis","Ansonia","",VU,U
+223,222,"pseudotornieri","Nectophrynoides","",EN,D
+224,222,"minutus","Nectophrynoides","",EN,D
+225,221,"frontierei","Nectophrynoides","",DD,U
+228,227,"tornieri","Nectophrynoides","",LC,U
+229,227,"laevis","Nectophrynoides","",DD,U
+230,226,"wendyae","Nectophrynoides","",CR,D
+234,233,"viviparus","Nectophrynoides","",VU,D
+235,233,"poyntoni","Nectophrynoides","",CR,D
+236,232,"asperginis","Nectophrynoides","Kihansi Spray Toad",EW,U
+237,231,"vestergaardi","Nectophrynoides","",EN,D
+238,218,"cryptus","Nectophrynoides","",EN,D
+240,239,"malcolmi","Altiphrynoides","",EN,D
+241,239,"osgoodi","Altiphrynoides","",VU,D
+243,242,"occidentalis","Nimbaphrynoides","",CR,D
+244,242,"liberiensis","Nimbaphrynoides","",CR,D
+245,215,"sjostedti","Didynamipus","",EN,D

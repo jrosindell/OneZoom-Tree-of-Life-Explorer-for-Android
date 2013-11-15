@@ -1,0 +1,104 @@
+index,parent,name1,name2,common,redlist,popstab
+12,11,"fuciphaga","Collocalia","Edible-nest Swiftlet",LC,U
+13,11,"salangana","Collocalia","Mossy-nest Swiftlet",LC,U
+15,14,"elaphra","Collocalia","Seychelles Swiftlet",VU,U
+16,14,"francica","Collocalia","Mascarene Swiftlet",NT,U
+17,9,"mearnsi","Collocalia","Philippine Swiftlet",LC,U
+21,20,"bartschi","Collocalia","Guam Swiftlet",EN,U
+22,20,"sawtelli","Collocalia","Atiu Swiftlet",VU,U
+23,19,"vanikorensis","Collocalia","Uniform Swiftlet",LC,U
+24,18,"spodiopygia","Collocalia","White-rumped Swiftlet",LC,U
+25,7,"ocista","Collocalia","Marquesan Swiftlet",LC,U
+29,28,"whiteheadi","Collocalia","Whitehead's Swiftlet",DD,U
+30,28,"nuditarsus","Collocalia","Bare-legged Swiftlet",LC,U
+32,31,"terraereginae","Collocalia","Australian Swiftlet",_U,[
+33,31,"pelewensis","Collocalia","Palau Swiftlet",LC,U
+36,35,"maxima","Collocalia","Black-nest Swiftlet",LC,U
+37,35,"leucophaea","Collocalia","Tahiti Swiftlet",VU,U
+38,34,"brevirostris","Collocalia","Himalayan Swiftlet",LC,U
+44,43,"schoutedeni","Schoutedenapus","Schouteden's Swift",VU,U
+45,43,"myoptilus","Schoutedenapus","Scarce Swift",LC,U
+46,42,"hirundinacea","Collocalia","Mountain Swiftlet",LC,U
+48,47,"vulcanorum","Collocalia","Volcano Swiftlet",NT,U
+49,47,"germani","Collocalia","German's Swiftlet",LC,U
+52,51,"inquieta","Collocalia","Micronesian Swiftlet",LC,U
+53,51,"gigas","Hydrochous","Waterfall Swift",NT,U
+55,54,"palawanensis","Collocalia","Palawan Swiftlet",LC,U
+56,54,"amelis","Collocalia","Grey Swiftlet",LC,U
+58,57,"infuscata","Collocalia","Moluccan Swiftlet",LC,U
+59,57,"papuensis","Collocalia","Papuan Swiftlet",DD,U
+64,63,"esculenta","Collocalia","Glossy Swiftlet",LC,U
+65,63,"linchi","Collocalia","Cave Swiftlet",LC,U
+66,62,"orientalis","Collocalia","Mayr's Swiftlet",DD,U
+67,61,"unicolor","Collocalia","Indian Swiftlet",LC,U
+69,68,"rogersi","Collocalia","Indochinese Swiftlet",LC,U
+70,68,"troglodytes","Collocalia","Pygmy Swiftlet",LC,U
+81,80,"pallidus","Apus","Pallid Swift",LC,U
+82,80,"unicolor","Apus","Plain Swift",LC,U
+84,83,"batesi","Apus","Bates's Swift",LC,U
+85,83,"horus","Apus","Horus Swift",LC,U
+86,78,"sladeniae","Apus","Fernando Po Swift",DD,U
+89,88,"toulsoni","Apus","Loanda Swift",LC,U
+90,88,"apus","Apus","Common Swift",LC,U
+91,87,"berliozi","Apus","Forbes-Watson's Swift",LC,U
+94,93,"nipalensis","Apus","House Swift",LC,U
+95,93,"affinis","Apus","Little Swift",LC,U
+96,92,"balstoni","Apus","Madagascar Swift",LC,U
+100,99,"pacificus","Apus","Fork-tailed Swift",LC,U
+101,99,"alexandri","Apus","Alexander's Swift",LC,U
+102,98,"bradfieldi","Apus","Bradfield's Swift",LC,U
+104,103,"caffer","Apus","White-rumped Swift",LC,U
+105,103,"niansae","Apus","Nyanza Swift",LC,U
+107,106,"acuticauda","Apus","Dark-rumped Swift",VU,U
+108,106,"barbatus","Apus","African Black Swift",LC,U
+110,109,"aequatorialis","Tachymarptis","Mottled Swift",LC,U
+111,109,"melba","Tachymarptis","Alpine Swift",LC,U
+114,113,"sanctihieronymi","Panyptila","Great Swallow-tailed Swift",LC,U
+115,113,"cayennensis","Panyptila","Lesser Swallow-tailed Swift",LC,U
+117,116,"balasiensis","Cypsiurus","Asian Palm-swift",LC,U
+118,116,"parvus","Cypsiurus","African Palm-swift",LC,U
+122,121,"phoenicobia","Tachornis","Antillean Palm-swift",LC,U
+123,121,"furcata","Tachornis","Pygmy Swift",LC,U
+124,120,"squamata","Tachornis","Fork-tailed Palm-swift",LC,U
+127,126,"saxatalis","Aeronautes","White-throated Swift",LC,U
+128,126,"montivagus","Aeronautes","White-tipped Swift",LC,U
+129,125,"andecolus","Aeronautes","Andean Swift",LC,U
+133,132,"cochinchinensis","Hirundapus","Silver-backed Needletail",LC,U
+134,132,"caudacutus","Hirundapus","White-throated Needletail",LC,U
+135,131,"giganteus","Hirundapus","Brown-backed Needletail",LC,U
+136,130,"celebensis","Hirundapus","Purple Needletail",LC,U
+146,145,"pelagica","Chaetura","Chimney Swift",NT,U
+147,145,"vauxi","Chaetura","Vaux's Swift",LC,U
+148,144,"viridipennis","Chaetura","Amazonian Swift",LC,U
+149,143,"martinica","Chaetura","Lesser Antillean Swift",LC,U
+152,151,"egregia","Chaetura","Pale-rumped Swift",LC,U
+153,151,"chapmani","Chaetura","Chapman's Swift",LC,U
+154,150,"brachyura","Chaetura","Short-tailed Swift",LC,U
+155,141,"meridionalis","Chaetura","Sick's Swift",LC,U
+158,157,"cinereiventris","Chaetura","Grey-rumped Swift",LC,U
+159,157,"spinicaudus","Chaetura","Band-rumped Swift",LC,U
+160,156,"fumosa","Chaetura","Costa Rican Swift",LC,U
+162,161,"novaeguineae","Mearnsia","Papuan Needletail",LC,U
+163,161,"picina","Mearnsia","Philippine Needletail",NT,U
+167,166,"sylvatica","Zoonavena","White-rumped Spinetail",LC,U
+168,166,"thomensis","Zoonavena","Sao Tome Spinetail",LC,U
+169,165,"grandidieri","Zoonavena","Malagasy Spinetail",LC,U
+171,170,"cassini","Neafrapus","Cassin's Spinetail",LC,U
+172,170,"boehmi","Neafrapus","Bat-like Spinetail",LC,U
+175,174,"leucopygialis","Rhaphidura","Silver-rumped Spinetail",LC,U
+176,174,"sabini","Rhaphidura","Sabine's Spinetail",LC,U
+178,177,"melanopygia","Telacanthura","Black Spinetail",LC,U
+179,177,"ussheri","Telacanthura","Mottled Spinetail",LC,U
+185,184,"rothschildi","Cypseloides","Rothschild's Swift",NT,U
+186,184,"senex","Cypseloides","Great Dusky Swift",LC,U
+187,183,"niger","Cypseloides","American Black Swift",LC,U
+189,188,"storeri","Cypseloides","White-fronted Swift",DD,U
+190,188,"cryptus","Cypseloides","White-chinned Swift",LC,U
+193,192,"cherriei","Cypseloides","Spot-fronted Swift",DD,U
+194,192,"fumigatus","Cypseloides","Sooty Swift",LC,U
+195,191,"lemosi","Cypseloides","White-chested Swift",LC,U
+199,198,"zonaris","Streptoprocne","White-collared Swift",LC,U
+200,198,"biscutata","Streptoprocne","Biscutate Swift",LC,U
+201,197,"semicollaris","Streptoprocne","White-naped Swift",LC,U
+203,202,"rutila","Streptoprocne","Chestnut-collared Swift",LC,U
+204,202,"phelpsi","Streptoprocne","Tepui Swift",LC,U

@@ -1,0 +1,102 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"leucobalia","Fordonia","Crab-eating Water Snake",NE,U
+14,12,"prevostiana","Gerarda","Glossy Marsh Snake",LC,U
+15,11,"violacea","Cantoria","Cantor's Water Snake",NE,U
+16,10,"hydroides","Bitia","",NE,U
+17,9,"tentaculatum","Erpeton","Tentacled Snake",NE,U
+20,19,"buccata","Homalopsis","",NE,U
+21,19,"rynchops","Cerberus","",NE,U
+22,18,"enhydris","Enhydris","Rainbow Water Snake",LC,U
+23,7,"richardsonii","Myron","",NE,U
+39,38,"bilineata","Bothriopsis","",NE,U
+40,38,"diporus","Bothropoides","",NE,U
+41,37,"asper","Bothrops","",NE,U
+42,36,"itapetiningae","Rhinocerophis","",NE,U
+43,35,"hyoprora","Bothrocophias","",NE,U
+44,34,"schlegelii","Bothriechis","",NE,U
+46,45,"undulatus","Ophryacus","",VU,D
+47,45,"barbouri","Mixcoatlus","",NE,U
+48,32,"piscivorus","Agkistrodon","Cottonmouth",LC,S
+51,50,"adamanteus","Crotalus","Eastern Diamond-backed Rattlesnake",LC,D
+52,50,"miliarius","Sistrurus","Pygmy Rattlesnake",LC,S
+53,49,"muta","Lachesis","Atlantic Bushmaster",VU,D
+56,55,"godmani","Cerrophidion","",NE,U
+57,55,"nummifer","Atropoides","",LC,S
+58,54,"arcosae","Porthidium","",NE,U
+60,59,"brevicaudus","Gloydius","",NE,U
+61,59,"monticola","Ovophis","",NE,U
+62,28,"jerdonii","Protobothrops","",NE,U
+66,65,"trigonocephalus","Trimeresurus","",NE,U
+67,65,"gramineus","Trimeresurus","",NE,U
+68,64,"malabaricus","Trimeresurus","",NE,U
+70,69,"borneensis","Trimeresurus","",NE,U
+71,69,"puniceus","Trimeresurus","",NE,U
+76,75,"hypnale","Hypnale","",NE,U
+77,75,"zara","Hypnale","",NE,U
+78,74,"nepa","Hypnale","",NE,U
+79,73,"rhodostoma","Calloselasma","",NE,U
+82,81,"acutus","Deinagkistrodon","",NE,U
+83,81,"wagleri","Tropidolaemus","",NE,U
+84,80,"chaseni","Garthius","",NE,U
+85,25,"feae","Azemiops","",NE,U
+91,90,"squamigera","Atheris","",NE,U
+92,90,"carinatus","Echis","",NE,U
+93,89,"superciliaris","Proatheris","",NE,U
+94,88,"arietans","Bitis","African Puff Adder",NE,U
+96,95,"cerastes","Cerastes","",NE,U
+97,95,"defilippi","Causus","",NE,U
+101,100,"lebetina","Macrovipera","",NE,U
+102,100,"russellii","Daboia","",NE,U
+103,99,"berus","Vipera","Adder",LC,D
+105,104,"persicus","Pseudocerastes","",NE,U
+106,104,"macmahoni","Eristicophis","",NE,U
+108,107,"formosensis","Pareas","",NE,U
+109,107,"boa","Aplopeltura","",NE,U
+112,111,"javanicus","Xenodermus","Java Tubercle Snake",NE,U
+113,111,"meiguensis","Achalinus","",NE,U
+114,110,"borneensis","Stoliczkia","Borneo Red Snake",NE,U
+115,1,"granulatus","Acrochordus","Little Small Snake",NE,U
+131,130,"oxyrhynchus","Rhinophis","",NE,U
+132,130,"philippinus","Rhinophis","",NE,U
+133,129,"dorsimaculatus","Rhinophis","",NE,U
+136,135,"homolepis","Rhinophis","",NE,U
+137,135,"blythii","Rhinophis","",NE,U
+138,134,"ceylanica","Uropeltis","",NE,U
+140,139,"erangaviraji","Rhinophis","",NE,U
+141,139,"drummondhayi","Rhinophis","",NE,U
+142,126,"philippinus","Pseudotyphlops","",NE,U
+144,143,"melanogaster","Uropeltis","",NE,U
+145,143,"phillipsi","Uropeltis","",NE,U
+146,124,"travancoricus","Rhinophis","",NE,U
+147,123,"liura","Uropeltis","",NE,U
+148,122,"rhodogaster","Brachyophidium","",NE,U
+149,121,"punctatum","Melanophidium","Beddome's Black Shieldtail",NE,U
+151,150,"maculatus","Cylindrophis","Ceylonese Cylinder Snake",NE,U
+152,150,"ruffus","Cylindrophis","",NE,U
+153,119,"leonardi","Anomochilus","Leonard's Pipe Snake",DD,U
+162,161,"papuana","Apodora","",NE,U
+163,161,"mackloti","Liasis","",NE,U
+164,160,"melanocephalus","Aspidites","",NE,U
+166,165,"albertisii","Leiopython","",NE,U
+167,165,"boa","Bothrochilus","",NE,U
+169,168,"spilota","Morelia","Western Australian Carpet Python",NT,U
+170,168,"childreni","Antaresia","",NE,U
+171,157,"reticulatus","Broghammerus","",NE,U
+172,156,"molurus","Python","Asiatic Rock Python",NT,U
+173,155,"bicolor","Loxocemus","Mexican Python",NE,U
+174,154,"unicolor","Xenopeltis","Sunbeam Snake",NE,U
+176,175,"dussumieri","Casarea","Round Island Boa",EN,U
+177,175,"schaeferi","Xenophidion","",NE,U
+186,185,"cenchria","Epicrates","Rainbow Boa",NE,U
+187,185,"notaeus","Eunectes","",NE,U
+188,184,"hortulanus","Corallus","Amazon Tree Boa",NE,U
+189,183,"constrictor","Boa","",NE,U
+190,182,"conicus","Eryx","Rough-scaled Sand Boa",NE,U
+191,181,"carinata","Candoia","Pacific Ground Boa",NE,U
+194,193,"trivirgata","Lichanura","Rosy Boa",LC,S
+195,193,"bottae","Charina","Rubber Boa",LC,S
+197,196,"continentalis","Ungaliophis","Chiapan Boa",NE,U
+198,196,"placata","Exiliboa","",VU,D
+200,199,"madagascariensis","Sanzinia","Madagascar Tree Boa",VU,U
+201,199,"dumerili","Acrantophis","Dumeril's Boa",VU,U
+202,178,"reinhardtii","Calabaria","Calabar Ground Python",NE,U

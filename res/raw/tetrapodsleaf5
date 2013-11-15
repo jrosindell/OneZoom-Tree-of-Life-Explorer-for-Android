@@ -1,0 +1,101 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"cardonai","Myioborus","Saffron-breasted Redstart",NT,U
+14,12,"castaneocapilla","Myioborus","Tepui Redstart",LC,U
+15,11,"brunniceps","Myioborus","Brown-capped Redstart",LC,U
+16,10,"pariae","Myioborus","Paria Redstart",EN,U
+17,9,"albifacies","Myioborus","White-faced Redstart",LC,U
+18,8,"torquatus","Myioborus","Collared Redstart",LC,U
+22,21,"melanocephalus","Myioborus","Spectacled Redstart",LC,U
+23,21,"ornatus","Myioborus","Golden-fronted Redstart",LC,U
+24,20,"albifrons","Myioborus","White-fronted Redstart",NT,U
+25,19,"flavivertex","Myioborus","Yellow-crowned Redstart",LC,U
+26,6,"miniatus","Myioborus","Slate-throated Redstart",LC,U
+27,5,"pictus","Myioborus","Painted Redstart",LC,U
+32,31,"versicolor","Ergaticus","Pink-headed Warbler",VU,U
+33,31,"ruber","Ergaticus","Red Warbler",LC,U
+34,30,"rubrifrons","Cardellina","Red-faced Warbler",LC,U
+35,29,"pusilla","Wilsonia","Wilson's Warbler",LC,U
+36,28,"canadensis","Wilsonia","Canada Warbler",LC,U
+41,40,"culicivorus","Basileuterus","Golden-crowned Warbler",LC,U
+42,40,"hypoleucus","Basileuterus","White-bellied Warbler",LC,U
+44,43,"tristriatus","Basileuterus","Three-striped Warbler",LC,U
+45,43,"trifasciatus","Basileuterus","Three-banded Warbler",LC,U
+46,38,"ignotus","Basileuterus","Pirre Warbler",VU,U
+50,49,"melanogenys","Basileuterus","Black-cheeked Warbler",LC,U
+51,49,"belli","Basileuterus","Golden-browed Warbler",LC,U
+52,48,"rufifrons","Basileuterus","Rufous-capped Warbler",LC,U
+53,47,"lachrymosa","Euthlypis","Fan-tailed Warbler",LC,U
+59,58,"leucoblepharus","Basileuterus","White-browed Warbler",LC,U
+60,58,"flaveolus","Basileuterus","Flavescent Warbler",LC,U
+61,57,"leucophrys","Basileuterus","White-striped Warbler",LC,U
+64,63,"basilicus","Basileuterus","Santa Marta Warbler",VU,U
+65,63,"signatus","Basileuterus","Pale-legged Warbler",LC,U
+66,62,"luteoviridis","Basileuterus","Citrine Warbler",LC,U
+69,68,"rivularis","Phaeothlypis","Neotropical River Warbler",LC,U
+70,68,"fulvicauda","Phaeothlypis","Buff-rumped Warbler",LC,U
+71,67,"nigrocristatus","Basileuterus","Black-crested Warbler",LC,U
+76,75,"cinereicollis","Basileuterus","Grey-throated Warbler",NT,U
+77,75,"conspicillatus","Basileuterus","White-lored Warbler",NT,U
+79,78,"chrysogaster","Basileuterus","Golden-bellied Warbler",LC,U
+80,78,"bivittatus","Basileuterus","Two-banded Warbler",LC,U
+81,73,"fraseri","Basileuterus","Grey-and-gold Warbler",LC,U
+84,83,"griseiceps","Basileuterus","Grey-headed Warbler",EN,U
+85,83,"chlorophrys","Basileuterus","Choco Warbler",_U,[
+86,82,"coronatus","Basileuterus","Russet-crowned Warbler",LC,U
+99,98,"virens","Dendroica","Black-throated Green Warbler",LC,U
+100,98,"chrysoparia","Dendroica","Golden-cheeked Warbler",EN,U
+102,101,"townsendi","Dendroica","Townsend's Warbler",LC,U
+103,101,"occidentalis","Dendroica","Hermit Warbler",LC,U
+105,104,"nigrescens","Dendroica","Black-throated Grey Warbler",LC,U
+106,104,"graciae","Dendroica","Grace's Warbler",LC,U
+107,95,"adelaidae","Dendroica","Adelaide's Warbler",LC,U
+109,108,"vitellina","Dendroica","Vitelline Warbler",NT,U
+110,108,"discolor","Dendroica","Prairie Warbler",LC,U
+115,114,"pityophila","Dendroica","Olive-capped Warbler",LC,U
+116,114,"pinus","Dendroica","Pine Warbler",LC,U
+117,113,"dominica","Dendroica","Yellow-throated Warbler",LC,U
+118,112,"coronata","Dendroica","Yellow-rumped Warbler",LC,U
+119,111,"palmarum","Dendroica","Palm Warbler",LC,U
+122,121,"caerulescens","Dendroica","Black-throated Blue Warbler",LC,U
+123,121,"delicata","Dendroica","St Lucia Warbler",LC,U
+124,120,"ruticilla","Setophaga","American Redstart",LC,U
+131,130,"pensylvanica","Dendroica","Chestnut-sided Warbler",LC,U
+132,130,"petechia","Dendroica","Yellow Warbler",LC,U
+134,133,"castanea","Dendroica","Bay-breasted Warbler",LC,U
+135,133,"striata","Dendroica","Blackpoll Warbler",LC,U
+136,128,"fusca","Dendroica","Blackburnian Warbler",LC,U
+137,127,"kirtlandii","Dendroica","Kirtland's Warbler",NT,U
+138,126,"tigrina","Dendroica","Cape May Warbler",LC,U
+141,140,"americana","Parula","Northern Parula",LC,U
+142,140,"pitiayumi","Parula","Tropical Parula",LC,U
+143,139,"cerulea","Dendroica","Cerulean Warbler",VU,U
+146,145,"aestiva","Dendroica","American Yellow Warbler",_U,[
+147,145,"magnolia","Dendroica","Magnolia Warbler",LC,U
+148,144,"subita","Dendroica","Barbuda Warbler",NT,U
+149,89,"citrina","Wilsonia","Hooded Warbler",LC,U
+152,151,"pharetra","Dendroica","Arrowhead Warbler",LC,U
+153,151,"plumbea","Dendroica","Plumbeous Warbler",LC,U
+154,150,"angelae","Dendroica","Elfin-woods Warbler",VU,U
+155,87,"bishopi","Catharopeza","Whistling Warbler",EN,U
+167,166,"flavovelata","Geothlypis","Altamira Yellowthroat",VU,U
+168,166,"nelsoni","Geothlypis","Hooded Yellowthroat",LC,U
+169,165,"trichas","Geothlypis","Common Yellowthroat",LC,U
+170,164,"rostrata","Geothlypis","Bahama Yellowthroat",LC,U
+171,163,"beldingi","Geothlypis","Belding's Yellowthroat",CR,U
+172,162,"semiflava","Geothlypis","Olive-crowned Yellowthroat",LC,U
+173,161,"speciosa","Geothlypis","Black-polled Yellowthroat",EN,U
+177,176,"poliocephala","Geothlypis","Grey-crowned Yellowthroat",LC,U
+178,176,"velata","Geothlypis","Southern Yellowthroat",_U,[
+179,175,"auricularis","Geothlypis","Black-lored Yellowthroat",_U,[
+181,180,"aequinoctialis","Geothlypis","Masked Yellowthroat",LC,U
+182,180,"chiriquensis","Geothlypis","Chiriqui Yellowthroat",_U,[
+186,185,"tolmiei","Oporornis","MacGillivray's Warbler",LC,U
+187,185,"philadelphia","Oporornis","Mourning Warbler",LC,U
+188,184,"agilis","Oporornis","Connecticut Warbler",LC,U
+189,183,"formosus","Oporornis","Kentucky Warbler",LC,U
+190,158,"semperi","Leucopeza","Semper's Warbler",CR,U
+192,191,"swainsonii","Limnothlypis","Swainson's Warbler",LC,U
+193,191,"citrea","Protonotaria","Prothonotary Warbler",LC,U
+196,195,"noveboracensis","Seiurus","Northern Waterthrush",LC,U
+197,195,"motacilla","Seiurus","Louisiana Waterthrush",LC,U
+198,194,"varia","Mniotilta","Black-and-white Warbler",LC,U

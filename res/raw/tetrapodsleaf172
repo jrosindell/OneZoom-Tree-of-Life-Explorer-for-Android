@@ -1,0 +1,117 @@
+index,parent,name1,name2,common,redlist,popstab
+19,18,"lineolateralis","Sceloporus","",NE,U
+20,18,"torquatus","Sceloporus","",LC,S
+21,17,"jarrovii","Sceloporus","",NE,U
+22,16,"bulleri","Sceloporus","",LC,S
+25,24,"poinsettii","Sceloporus","Crevice Spiny Lizard",LC,S
+26,24,"cyanogenys","Sceloporus","",NE,U
+27,23,"dugesii","Sceloporus","",LC,S
+28,14,"grammicus","Sceloporus","Graphic Spiny Lizard",LC,S
+34,33,"acanthinus","Sceloporus","",NE,U
+35,33,"adleri","Sceloporus","",LC,S
+36,32,"salvini","Sceloporus","",DD,U
+38,37,"malachiticus","Sceloporus","",NE,U
+39,37,"formosus","Sceloporus","",LC,S
+41,40,"horridus","Sceloporus","",LC,S
+42,40,"spinosus","Sceloporus","",LC,S
+43,29,"olivaceus","Sceloporus","Texas Spiny Lizard",LC,S
+50,49,"orcutti","Sceloporus","Granite Spiny Lizard",LC,S
+51,49,"licki","Sceloporus","",LC,S
+52,48,"hunsakeri","Sceloporus","",LC,S
+54,53,"magister","Sceloporus","Desert Spiny Lizard",LC,S
+55,53,"zosteromus","Sceloporus","",LC,S
+57,56,"clarkii","Sceloporus","Clark's Spiny Lizard",LC,S
+58,56,"melanorhinus","Sceloporus","",LC,S
+61,60,"bicanthalis","Sceloporus","",LC,S
+62,60,"aeneus","Sceloporus","",LC,S
+63,59,"scalaris","Sceloporus","",LC,S
+64,44,"edwardtaylori","Sceloporus","",LC,S
+65,11,"graciosus","Sceloporus","Common Sagebrush Lizard",LC,S
+67,66,"pyrocephalus","Sceloporus","",LC,S
+68,66,"gadovae","Sceloporus","",NE,U
+69,9,"maculosus","Sceloporus","",VU,U
+74,73,"chrysostictus","Sceloporus","",LC,S
+75,73,"cozumelae","Sceloporus","",LC,S
+76,72,"variabilis","Sceloporus","",NE,U
+77,71,"ornatus","Sceloporus","",NT,U
+80,79,"carinatus","Sceloporus","",LC,S
+81,79,"siniferus","Sceloporus","",LC,S
+82,78,"utiformis","Sceloporus","",LC,S
+84,83,"occidentalis","Sceloporus","Western Fence Lizard",LC,S
+85,83,"undulatus","Sceloporus","Eastern Fence Lizard",LC,S
+86,6,"merriami","Sceloporus","Canyon Lizard",LC,S
+90,89,"bicarinatus","Urosaurus","",LC,S
+91,89,"gadovi","Urosaurus","",LC,U
+92,88,"nigricaudus","Urosaurus","Baja California Brush Lizard",LC,S
+95,94,"clarionensis","Urosaurus","",VU,U
+96,94,"auriculatus","Urosaurus","",EN,D
+97,93,"ornatus","Urosaurus","Ornate Tree Lizard",LC,S
+98,4,"stansburiana","Uta","Common Side-blotched Lizard",LC,S
+109,108,"mcallii","Phrynosoma","Flat-tailed Horned Lizard",NT,D
+110,108,"platyrhinos","Phrynosoma","Desert Horned Lizard",LC,S
+111,107,"modestum","Phrynosoma","Round-tailed Horned Lizard",LC,S
+112,106,"solare","Phrynosoma","Regal Horned Lizard",LC,S
+113,105,"cornutum","Phrynosoma","Texas Horned Lizard",LC,S
+115,114,"coronatum","Phrynosoma","Blainville Horned Lizard",LC,D
+116,114,"cerroense","Phrynosoma","",NE,U
+118,117,"douglassii","Phrynosoma","",NE,U
+119,117,"orbiculare","Phrynosoma","",LC,S
+120,102,"braconnieri","Phrynosoma","",LC,S
+122,121,"taurus","Phrynosoma","",LC,S
+123,121,"asio","Phrynosoma","",NE,U
+129,128,"propinqua","Holbrookia","Keeled Earless Lizard",LC,S
+130,128,"maculata","Holbrookia","Lesser Earless Lizard",LC,S
+131,127,"lacerata","Holbrookia","Spot-tailed Earless Lizard",NT,D
+132,126,"texanus","Cophosaurus","Greater Earless Lizard",LC,S
+133,125,"draconoides","Callisaurus","Zebra-tailed Lizard",LC,S
+137,136,"inornata","Uma","Coachella Valley Fringe-toed Lizard",EN,D
+138,136,"notata","Uma","Colorado Desert Fringe-toed Lizard",NT,D
+139,135,"scoparia","Uma","Mojave Fringe-toed Lizard",LC,S
+140,134,"paraphygas","Uma","",NT,U
+142,141,"mearnsi","Petrosaurus","Banded Rock Lizard",LC,S
+143,141,"thalassinus","Petrosaurus","",LC,S
+149,148,"collaris","Crotaphytus","Eastern Collared Lizard",LC,S
+150,148,"insularis","Crotaphytus","",LC,S
+151,147,"reticulatus","Crotaphytus","Reticulate Collared Lizard",VU,D
+152,146,"dickersonae","Crotaphytus","Tiburon Collared Lizard",LC,S
+154,153,"wislizenii","Gambelia","Long-nosed Leopard Lizard",LC,S
+155,153,"sila","Gambelia","Blunt-nosed Leopard Lizard",EN,D
+160,159,"microlepis","Enyalioides","",NE,U
+161,159,"cofanorum","Enyalioides","",NE,U
+162,158,"palpebralis","Enyalioides","",NE,U
+163,157,"heterolepis","Enyalioides","",NE,U
+166,165,"peruvianus","Morunasaurus","",NE,U
+167,165,"spinosus","Hoplocercus","",NE,U
+168,164,"annularis","Morunasaurus","",NE,U
+175,174,"loricata","Uromastyx","Mesopotamian Spiny-tailed Lizard",LC,U
+176,174,"hardwickii","Uromastyx","",NE,U
+177,173,"ornata","Uromastyx","",NE,U
+180,179,"acanthinura","Uromastyx","",NE,U
+181,179,"aegyptia","Uromastyx","",NE,U
+182,178,"ocellata","Uromastyx","",NE,U
+183,171,"belliana","Leiolepis","",NE,U
+195,194,"hoehneli","Chamaeleo","",NE,U
+196,194,"ellioti","Chamaeleo","",NE,U
+197,193,"jacksonii","Chamaeleo","",NE,U
+198,192,"fuellerorni","Chamaeleo","",NE,U
+199,191,"melleri","Chamaeleo","",NE,U
+200,190,"bitaeniatus","Chamaeleo","",NE,U
+204,203,"chamaeleon","Chamaeleo","",NE,U
+205,203,"africanus","Chamaeleo","",NE,U
+206,202,"senegalensis","Chamaeleo","",NE,U
+208,207,"gracilis","Chamaeleo","",NE,U
+209,207,"dilepis","Chamaeleo","",NE,U
+210,188,"oustaleti","Furcifer","",NE,U
+214,213,"tigris","Calumma","Tiger Chameleon",EN,D
+215,213,"nasuta","Calumma","",NE,U
+216,212,"brevicornis","Calumma","",NE,U
+218,217,"globifer","Calumma","",NE,U
+219,217,"parsonii","Calumma","",NE,U
+222,221,"ventrale","Bradypodion","",NE,U
+223,221,"pumilum","Bradypodion","",NE,U
+224,220,"fischeri","Bradypodion","",NE,U
+227,226,"platyceps","Rhampholeon","",NE,U
+228,226,"spectrum","Rhampholeon","",NE,U
+229,225,"kerstenii","Rhampholeon","",NE,U
+231,230,"superciliaris","Brookesia","",NE,U
+232,230,"stumpffi","Brookesia","",NE,U

@@ -1,0 +1,114 @@
+index,parent,name1,name2,common,redlist,popstab
+15,14,"ruficollis","Turdus","Dark-throated Thrush",LC,U
+16,14,"naumanni","Turdus","Dusky Thrush",LC,U
+17,13,"torquatus","Turdus","Ring Ouzel",LC,U
+18,12,"pilaris","Turdus","Fieldfare",LC,U
+21,20,"albocinctus","Turdus","White-collared Blackbird",LC,U
+22,20,"rubrocanus","Turdus","Chestnut Thrush",LC,U
+23,19,"kessleri","Turdus","White-backed Thrush",LC,U
+28,27,"obscurus","Turdus","Eyebrowed Thrush",LC,U
+29,27,"feae","Turdus","Grey-sided Thrush",VU,U
+30,26,"pallidus","Turdus","Pale Thrush",LC,U
+32,31,"chrysolaus","Turdus","Brown-headed Thrush",LC,U
+33,31,"celaenops","Turdus","Izu Thrush",VU,U
+34,24,"poliocephalus","Turdus","Island Thrush",LC,U
+39,38,"dissimilis","Turdus","Black-breasted Thrush",LC,U
+40,38,"unicolor","Turdus","Tickell's Thrush",LC,U
+42,41,"hortulorum","Turdus","Grey-backed Thrush",LC,U
+43,41,"cardis","Turdus","Japanese Thrush",LC,U
+44,36,"subalaris","Turdus","Eastern Slaty Thrush",_U,[
+45,35,"boulboul","Turdus","Grey-winged Blackbird",LC,U
+51,50,"rufitorques","Turdus","Rufous-collared Robin",LC,U
+52,50,"migratorius","Turdus","American Robin",LC,U
+54,53,"infuscatus","Turdus","Black Thrush",LC,U
+55,53,"nigrescens","Turdus","Sooty Thrush",LC,U
+59,58,"aurantius","Turdus","White-chinned Thrush",LC,U
+60,58,"plumbeus","Turdus","Red-legged Thrush",LC,U
+61,57,"swalesi","Turdus","La Selle Thrush",EN,U
+62,56,"jamaicensis","Turdus","White-eyed Thrush",LC,U
+64,63,"libonyanus","Turdus","Kurrichane Thrush",LC,U
+65,63,"bewsheri","Turdus","Comoro Thrush",LC,U
+66,46,"olivaceofuscus","Turdus","Sao Tome Thrush",NT,U
+79,78,"haplochrous","Turdus","Unicoloured Thrush",NT,U
+80,78,"nudigenis","Turdus","Spectacled Thrush",LC,U
+81,77,"grayi","Turdus","Clay-coloured Thrush",LC,U
+82,76,"maculirostris","Turdus","Ecuadorian Thrush",LC,U
+83,75,"rufiventris","Turdus","Rufous-bellied Thrush",LC,U
+84,74,"obsoletus","Turdus","Pale-vented Thrush",LC,U
+87,86,"hauxwelli","Turdus","Hauxwell's Thrush",LC,U
+88,86,"fumigatus","Turdus","Cocoa Thrush",LC,U
+89,85,"leucomelas","Turdus","Pale-breasted Thrush",LC,U
+92,91,"assimilis","Turdus","White-throated Thrush",LC,U
+93,91,"albicollis","Turdus","White-necked Thrush",LC,U
+94,90,"lawrencii","Turdus","Lawrence's Thrush",LC,U
+96,95,"rufopalliatus","Turdus","Rufous-backed Robin",LC,U
+97,95,"flavipes","Turdus","Yellow-legged Thrush",LC,U
+104,103,"serranus","Turdus","Glossy-black Thrush",LC,U
+105,103,"fuscater","Turdus","Great Thrush",LC,U
+106,102,"nigriceps","Turdus","Slaty Thrush",LC,U
+107,101,"olivater","Turdus","Black-hooded Thrush",LC,U
+108,100,"chiguanco","Turdus","Chiguanco Thrush",LC,U
+109,99,"fulviventris","Turdus","Chestnut-bellied Thrush",LC,U
+113,112,"ignobilis","Turdus","Black-billed Thrush",LC,U
+114,112,"maranonicus","Turdus","Maranon Thrush",LC,U
+115,111,"amaurochalinus","Turdus","Creamy-bellied Thrush",LC,U
+116,110,"eremita","Nesocichla","Tristan Thrush",NT,U
+117,69,"reevei","Turdus","Plumbeous-backed Thrush",LC,U
+118,68,"falcklandii","Turdus","Austral Thrush",LC,U
+121,120,"leucops","Turdus","Pale-eyed Thrush",LC,U
+122,120,"daguae","Turdus","Dagua Thrush",_U,[
+123,119,"pelios","Turdus","African Thrush",LC,U
+126,125,"merula","Turdus","Eurasian Blackbird",LC,U
+127,125,"menachensis","Turdus","Yemen Thrush",VU,U
+128,124,"tephronotus","Turdus","Bare-eyed Thrush",LC,U
+132,131,"olivaceus","Turdus","Olive Thrush",LC,U
+133,131,"helleri","Turdus","Taita Thrush",CR,U
+134,130,"plebejus","Turdus","American Mountain Thrush",LC,U
+137,136,"lherminieri","Turdus","Forest Thrush",VU,U
+138,136,"ludoviciae","Turdus","Somali Thrush",VU,U
+139,135,"iliacus","Turdus","Redwing",LC,U
+141,140,"viscivorus","Turdus","Mistle Thrush",LC,U
+142,140,"philomelos","Turdus","Song Thrush",LC,U
+144,143,"litsitsirupa","Psophocichla","Groundscraper Thrush",LC,U
+145,143,"mupinensis","Turdus","Chinese Thrush",LC,U
+146,2,"sibirica","Zoothera","Siberian Thrush",LC,U
+157,156,"erythronota","Zoothera","Red-backed Thrush",NT,U
+158,156,"mendeni","Zoothera","Red-and-black Thrush",NT,U
+159,155,"cinerea","Zoothera","Ashy Thrush",VU,U
+160,154,"schistacea","Zoothera","Slaty-backed Thrush",NT,U
+161,153,"peronii","Zoothera","Orange-banded Thrush",NT,U
+162,152,"interpres","Zoothera","Chestnut-capped Thrush",NT,U
+163,151,"dohertyi","Zoothera","Chestnut-backed Thrush",NT,U
+164,150,"citrina","Zoothera","Orange-headed Thrush",LC,U
+166,165,"spiloptera","Zoothera","Spot-winged Thrush",NT,U
+167,165,"dumasi","Zoothera","Buru Thrush",NT,U
+173,172,"piaggiae","Zoothera","Abyssinian Ground-thrush",LC,U
+174,172,"tanganjicae","Zoothera","Kivu Ground-thrush",NT,U
+175,171,"oberlaenderi","Zoothera","Forest Ground-thrush",NT,U
+176,170,"turipavae","Zoothera","Guadalcanal Thrush",VU,U
+179,178,"crossleyi","Zoothera","Crossley's Ground-thrush",NT,U
+180,178,"wardii","Zoothera","Pied Thrush",LC,U
+181,177,"gurneyi","Zoothera","Orange Ground-thrush",LC,U
+183,182,"camaronensis","Zoothera","Black-eared Ground-thrush",LC,U
+184,182,"princei","Zoothera","Grey Ground-thrush",LC,U
+186,185,"guttata","Zoothera","Spotted Ground-thrush",EN,U
+187,185,"heinrichi","Geomalia","Geomalia",NT,U
+196,195,"heinei","Zoothera","Russet-tailed Thrush",LC,U
+197,195,"talaseae","Zoothera","New Britain Thrush",NT,U
+198,194,"lunulata","Zoothera","Bassian Thrush",LC,U
+199,193,"major","Zoothera","Amami Thrush",_U,[
+200,192,"dauma","Zoothera","Eurasian Scaly Thrush",LC,U
+202,201,"andromedae","Zoothera","Sunda Thrush",LC,U
+203,201,"joiceyi","Zoothera","Seram Thrush",NT,U
+205,204,"monticola","Zoothera","Long-billed Thrush",LC,U
+206,204,"marginata","Zoothera","Dark-sided Thrush",LC,U
+210,209,"mollissima","Zoothera","Plain-backed Thrush",LC,U
+211,209,"leucolaema","Zoothera","Enggano Thrush",NT,U
+212,208,"dixoni","Zoothera","Long-tailed Thrush",LC,U
+213,207,"imbricata","Zoothera","Sri Lanka Scaly Thrush",NT,U
+218,217,"purpurea","Cochoa","Purple Cochoa",LC,U
+219,217,"azurea","Cochoa","Javan Cochoa",VU,U
+220,216,"beccarii","Cochoa","Sumatran Cochoa",VU,U
+221,215,"viridis","Cochoa","Green Cochoa",LC,U
+223,222,"jefferyi","Chlamydochaera","Fruit-hunter",LC,U
+224,222,"coelicolor","Grandala","Grandala",LC,U

@@ -1,0 +1,113 @@
+index,parent,name1,name2,common,redlist,popstab
+16,15,"mindorensis","Rattus","Mindoro Mountain Rat",DD,D
+17,15,"lugens","Rattus","Mentawai Archipelago Rat",EN,D
+18,14,"hoffmanni","Rattus","Hoffmann's Sulawesi Rat",LC,S
+20,19,"mollicomulus","Rattus","Lampobatang Sulawesi Rat",VU,S
+21,19,"palmarum","Rattus","Zelebor's Nicobar Rat",VU,U
+22,12,"adustus","Rattus","Burnished Enggano Rat",DD,D
+26,25,"osgoodi","Rattus","Osgood's Vietnamese Rat",LC,S
+27,25,"burrus","Rattus","Miller's Nicobar Rat",EN,D
+29,28,"tiomanicus","Rattus","Malaysian Field Rat",LC,I
+30,28,"blangorum","Rattus","Aceh Rat",DD,U
+32,31,"simalurensis","Rattus","Simalur Archipelago Rat",EN,D
+33,31,"argentiventer","Rattus","Ricefield Rat",LC,S
+37,36,"koopmani","Rattus","Koopman's Peleng Island Rat",DD,U
+38,36,"tawitawiensis","Rattus","Tawitawi Forest Rat",DD,U
+39,35,"andamanensis","Rattus","Indochinese Forest Rat",LC,S
+40,34,"nitidus","Rattus","Himalayan Field Rat",LC,S
+43,42,"everetti","Rattus","Philippine Forest Rat",LC,S
+44,42,"pyctoris","Rattus","Himalayan Rat",LC,U
+45,41,"baluensis","Rattus","Kinabalu Rat",LC,S
+49,48,"rattus","Rattus","Black Rat",LC,S
+50,48,"satarae","Rattus","",VU,D
+51,47,"tanezumi","Rattus","Oriental House Rat",LC,I
+52,46,"losea","Rattus","Losea Rat",LC,I
+54,53,"norvegicus","Rattus","Brown Rat",LC,S
+55,53,"stoicus","Rattus","Andaman Rat",VU,S
+63,62,"hainaldi","Rattus","Hainald's Flores Island Rat",EN,D
+64,62,"tunneyi","Rattus","Pale Field Rat",LC,U
+66,65,"lutreolus","Rattus","Australian Swamp Rat",LC,D
+67,65,"sordidus","Rattus","Canefield Rat",LC,S
+68,60,"villosissimus","Rattus","Long-haired Rat",LC,U
+71,70,"timorensis","Rattus","Timor Forest Rat",DD,U
+72,70,"colletti","Rattus","Dusky Rat",LC,U
+73,69,"fuscipes","Rattus","Bush Rat",LC,S
+74,58,"montanus","Rattus","Sri Lankan Mountain Rat",EN,U
+78,77,"xanthurus","Rattus","Northeastern Xanthurus Rat",VU,D
+79,77,"salocco","Rattus","Southeastern Xanthurus Rat",DD,U
+80,76,"pelurus","Rattus","Peleng Island Xanthurus Rat",DD,U
+82,81,"bontanus","Rattus","Southwestern Xanthurus Rat",DD,U
+83,81,"marmosurus","Rattus","Marmoset Xanthurus Rat",LC,D
+91,90,"novaeguineae","Rattus","New Guinea Rat",LC,U
+92,90,"mordax","Rattus","Eastern Rat",LC,S
+93,89,"elaphinus","Rattus","Sula Archipelago Rat",NT,D
+94,88,"sanila","Rattus","",NE,U
+97,96,"feliceus","Rattus","Spiny Seram Island Rat",NT,D
+98,96,"jobiensis","Rattus","Yapen Rat",NT,U
+99,95,"giluwensis","Rattus","Giluwe Rat",DD,U
+100,86,"praetor","Rattus","Large Spiny Rat",LC,S
+102,101,"morotaiensis","Rattus","Halmahara Rat",LC,U
+103,101,"steini","Rattus","Small Spiny Rat",LC,S
+104,84,"leucopus","Rattus","Cape York Rat",LC,S
+109,108,"korinchi","Rattus","Sumatran Mountain Rat",DD,U
+110,108,"exulans","Rattus","Polynesian Rat",LC,S
+111,107,"hoogerwerfi","Rattus","Hoogerwerf's Sumatran Rat",VU,D
+112,106,"annandalei","Rattus","Annandale's Sundaic Rat",LC,D
+114,113,"ranjiniae","Rattus","Ranjini's Field Rat",EN,D
+115,113,"enganus","Rattus","Enggano Island Rat",DD,D
+116,4,"furvus","Palawanomys","Palawan Mountain Rat",DD,U
+119,118,"oleracea","Vandeleuria","Asiatic Long-tailed Climbing Mouse",LC,S
+120,118,"nilagirica","Vandeleuria","",EN,D
+121,117,"nolthenii","Vandeleuria","Sri Lankan Highland Tree Mouse",EN,D
+127,126,"incomtus","Dasymys","African Marsh Rat",LC,U
+128,126,"alleni","Dasymys","",NE,U
+129,125,"nudipes","Dasymys","Angolan Marsh Rat",DD,U
+130,124,"montanus","Dasymys","Montane Shaggy Rat",EN,D
+132,131,"rufulus","Dasymys","West African Shaggy Rat",LC,U
+133,131,"foxi","Dasymys","Fox's Shaggy Rat",DD,U
+135,134,"yunnanensis","Hadromys","Yunnan Hadromys",DD,U
+136,134,"humei","Hadromys","Hume's Rat",EN,D
+147,146,"baeodon","Maxomys","Small Bornean Maxomys",DD,U
+148,146,"panglima","Maxomys","Palawan Maxomys",LC,S
+149,145,"rajah","Maxomys","Rajah Sundaic Maxomys",VU,D
+151,150,"musschenbroekii","Maxomys","Musschenbroek's Sulawesi Maxomys",LC,S
+152,150,"alticola","Maxomys","Bornean Mountain Maxomys",LC,S
+155,154,"wattsi","Maxomys","Watts's Sulawesi Maxomys",EN,D
+156,154,"inas","Maxomys","Malayan Mountain Maxomys",LC,S
+157,153,"pagensis","Maxomys","Mentawai Archipelago Maxomys",EN,D
+158,142,"inflatus","Maxomys","Broad-nosed Sumatran Maxomys",VU,D
+160,159,"hylomyoides","Maxomys","Sumatran Mountain Maxomys",DD,U
+161,159,"dollmani","Maxomys","Dollman's Sulawesi Maxomys",DD,U
+162,140,"ochraceiventer","Maxomys","Ochraceous-bellied Bornean Maxomys",DD,U
+166,165,"whiteheadi","Maxomys","Whitehead's Sundaic Maxomys",VU,D
+167,165,"surifer","Maxomys","Indomalayan Maxomys",LC,D
+168,164,"moi","Maxomys","Indochinese Mountain Maxomys",LC,D
+170,169,"hellwaldii","Maxomys","Hellwald's Sulawesi Maxomys",LC,D
+171,169,"bartelsii","Maxomys","Bartels's Javan Maxomys",LC,S
+178,177,"karlkoopmani","Chiropodomys","Koopman's Pencil-tailed Tree Mouse",EN,D
+179,177,"major","Chiropodomys","Greater Pencil-tailed Tree Mouse",DD,U
+180,176,"gliroides","Chiropodomys","Pencil-tailed Tree Mouse",LC,S
+181,175,"muroides","Chiropodomys","Gray-bellied Pencil-tailed Tree Mouse",DD,U
+183,182,"calamianensis","Chiropodomys","Palawan Pencil-tailed Tree Mouse",DD,U
+184,182,"pusillus","Chiropodomys","Lesser Pencil-tailed Tree Mouse",DD,U
+186,185,"longicaudatus","Hapalomys","Greater Marmoset Rat",EN,D
+187,185,"delacouri","Hapalomys","Lesser Marmoset Rat",VU,D
+190,189,"minahassae","Haeromys","Lowland Sulawesi Haeromys",VU,D
+191,189,"pusillus","Haeromys","Sundaic Haeromys",VU,D
+192,188,"margarettae","Haeromys","Margaret's Haeromys",DD,U
+193,137,"fumosus","Heimyscus","African Smoky Mouse",LC,S
+201,200,"meltada","Millardia","Soft-furred Metad",LC,S
+202,200,"kathleenae","Millardia","Burmese Metad",LC,S
+203,199,"kondana","Millardia","Kondana Rat",CR,D
+204,198,"gleadowi","Millardia","Sand-coloured Metad",LC,U
+207,206,"blanfordi","Madromys","White-tailed Wood Rat",LC,U
+208,206,"elvira","Cremnomys","Large Rock-rat",CR,D
+209,205,"cutchicus","Cremnomys","Cutch Rock-rat",LC,S
+213,212,"fergussoniensis","Pogonomys","D'entrecasteaux Archipelago Pogonomys",EN,D
+214,212,"loriae","Pogonomys","Loria's Pogonomys",LC,U
+215,211,"macrourus","Pogonomys","Chestnut Tree Mouse",LC,U
+217,216,"sylvestris","Pogonomys","Gray-bellied Tree Mouse",LC,U
+218,216,"championi","Pogonomys","Champion's Tree Mouse",DD,S
+219,195,"minutus","Micromys","Eurasian Harvest Mouse",LC,S
+221,220,"bunnii","Nesokia","Bunn's Short-tailed Bandicoot Rat",EN,D
+222,220,"indica","Nesokia","Short-tailed Bandicoot Rat",LC,U

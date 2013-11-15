@@ -1,0 +1,104 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"spiniferus","Gephyromantis","",NT,D
+14,12,"ambohitra","Gephyromantis","",VU,D
+15,11,"moseri","Gephyromantis","",LC,D
+18,17,"schilfi","Gephyromantis","",VU,U
+19,17,"salegy","Gephyromantis","",VU,D
+20,16,"tschenki","Gephyromantis","",DD,U
+24,23,"granulatus","Gephyromantis","",LC,S
+25,23,"tandroka","Gephyromantis","",VU,S
+26,22,"plicifer","Gephyromantis","",NT,D
+27,21,"sculpturatus","Gephyromantis","",LC,D
+33,32,"zavona","Gephyromantis","",DD,U
+34,32,"asper","Gephyromantis","",LC,D
+35,31,"cornutus","Gephyromantis","",DD,U
+36,30,"redimitus","Gephyromantis","",LC,D
+37,29,"leucomaculatus","Gephyromantis","",NT,D
+38,28,"luteus","Gephyromantis","",LC,D
+45,44,"klemmeri","Gephyromantis","",VU,D
+46,44,"decaryi","Gephyromantis","",NT,D
+48,47,"blanci","Gephyromantis","",NT,D
+49,47,"enki","Gephyromantis","",DD,U
+50,42,"thelenae","Gephyromantis","",DD,U
+52,51,"leucocephalus","Gephyromantis","",NT,S
+53,51,"boulengeri","Gephyromantis","",LC,U
+54,40,"eiselti","Gephyromantis","",DD,U
+57,56,"rivicola","Gephyromantis","",VU,D
+58,56,"silvanus","Gephyromantis","",EN,D
+59,55,"webbi","Gephyromantis","",EN,D
+64,63,"malagasius","Gephyromantis","",LC,D
+65,63,"horridus","Gephyromantis","",EN,D
+66,62,"ventrimaculatus","Gephyromantis","",LC,D
+67,61,"striatus","Gephyromantis","",VU,D
+69,68,"pseudoasper","Gephyromantis","",LC,S
+70,68,"corvus","Gephyromantis","",EN,D
+77,76,"biporus","Mantidactylus","",LC,D
+78,76,"curtus","Mantidactylus","",LC,S
+79,75,"ulcerosus","Mantidactylus","",LC,U
+81,80,"betsileanus","Mantidactylus","",LC,S
+82,80,"tricinctus","Mantidactylus","",DD,U
+86,85,"madecassus","Mantidactylus","",EN,D
+87,85,"pauliani","Mantidactylus","",CR,D
+88,84,"ambohimitombi","Mantidactylus","",DD,D
+89,83,"alutus","Mantidactylus","",LC,S
+93,92,"charlotteae","Mantidactylus","",LC,D
+94,92,"aerumnalis","Mantidactylus","",LC,D
+96,95,"albofrenatus","Mantidactylus","",DD,U
+97,95,"zipperi","Mantidactylus","",LC,D
+100,99,"melanopleura","Mantidactylus","",LC,D
+101,99,"opiparis","Mantidactylus","",LC,D
+102,98,"brevipalmatus","Mantidactylus","",LC,U
+107,106,"femoralis","Mantidactylus","",LC,U
+108,106,"majori","Mantidactylus","",LC,D
+109,105,"mocquardi","Mantidactylus","",LC,U
+111,110,"ambreensis","Mantidactylus","",LC,D
+112,110,"zolitschka","Mantidactylus","",DD,U
+116,115,"grandidieri","Mantidactylus","",LC,D
+117,115,"guttulatus","Mantidactylus","",LC,D
+118,114,"lugubris","Mantidactylus","",LC,S
+119,113,"argenteus","Mantidactylus","",LC,D
+120,4,"microtympanum","Boehmantis","",EN,D
+126,125,"massorum","Spinomantis","",NE,U
+127,125,"peraccae","Spinomantis","",LC,D
+128,124,"aglavei","Spinomantis","",LC,D
+130,129,"bertini","Spinomantis","",NT,D
+131,129,"brunae","Spinomantis","",EN,D
+133,132,"phantasticus","Spinomantis","",LC,D
+134,132,"fimbriatus","Spinomantis","",LC,D
+136,135,"microtis","Spinomantis","",EN,D
+137,135,"elegans","Spinomantis","",VU,D
+144,143,"bicalcaratus","Guibemantis","",LC,D
+145,143,"tornieri","Guibemantis","",LC,U
+147,146,"flavobrunneus","Guibemantis","",LC,D
+148,146,"pulcher","Guibemantis","",LC,D
+150,149,"albolineatus","Guibemantis","",DD,U
+151,149,"liber","Guibemantis","",LC,U
+154,153,"depressiceps","Guibemantis","",LC,U
+155,153,"timidus","Guibemantis","",LC,U
+157,156,"kathrinae","Guibemantis","",DD,U
+158,156,"punctatus","Guibemantis","",DD,U
+162,161,"grandisonae","Blommersia","",LC,D
+163,161,"domerguei","Blommersia","",LC,U
+164,160,"sarotra","Blommersia","",DD,U
+166,165,"wittei","Blommersia","",LC,S
+167,165,"kely","Blommersia","",LC,U
+168,138,"madinika","Wakea","",DD,U
+175,174,"nigricans","Mantella","Guibe'S Mantella",LC,D
+176,174,"cowanii","Mantella","Cowan's Mantella",CR,D
+177,173,"haraldmeieri","Mantella","Haraldmeier's Mantella",VU,D
+178,172,"baroni","Mantella","Baron's Mantella",LC,U
+180,179,"bernhardi","Mantella","Bernhard's Mantella",EN,D
+181,179,"laevigata","Mantella","Climbing Mantella",NT,D
+185,184,"expectata","Mantella","Blue-legged Mantella",EN,D
+186,184,"betsileo","Mantella","Brown Mantella",LC,S
+187,183,"manery","Mantella","Marojejy Mantella",VU,U
+188,182,"viridis","Mantella","Green Mantella",EN,D
+193,192,"milotympanum","Mantella","Black-eared Mantella",CR,D
+194,192,"crocea","Mantella","Yellow Mantella",EN,D
+195,191,"aurantiaca","Mantella","Golden Mantella",CR,D
+196,190,"pulchra","Mantella","Beautiful Mantella",VU,D
+197,189,"madagascariensis","Mantella","Madagascan Mantella",VU,D
+201,200,"madagascariensis","Aglyptodactylus","",LC,D
+202,200,"securifer","Aglyptodactylus","",LC,D
+203,199,"laticeps","Aglyptodactylus","",EN,D
+204,198,"labrosum","Laliostoma","",LC,S

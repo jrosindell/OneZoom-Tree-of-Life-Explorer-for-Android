@@ -1,0 +1,135 @@
+index,parent,name1,name2,common,redlist,popstab
+11,10,"caudolineatus","Dendrelaphis","",NE,U
+12,10,"schokarii","Dendrelaphis","",NE,U
+13,9,"tristis","Dendrelaphis","",NE,U
+14,8,"caudolineolatus","Dendrelaphis","",NE,U
+17,16,"calligastra","Dendrelaphis","",NE,U
+18,16,"bifrenalis","Dendrelaphis","",NE,U
+19,15,"pictus","Dendrelaphis","",NE,U
+22,21,"paradisi","Chrysopelea","Paradise Flying Snake",NE,U
+23,21,"ornata","Chrysopelea","Golden Flying Snake",NE,U
+24,20,"taprobanica","Chrysopelea","Indian Flying Snake",NE,U
+27,26,"fronticincta","Ahaetulla","Gunther's Whipsnake",NE,U
+28,26,"nasuta","Ahaetulla","Green Vine Snake",NE,U
+29,25,"pulverulenta","Ahaetulla","Brown-speckled Whipsnake",NE,U
+31,30,"hanitschi","Oreocalamus","",NE,U
+32,30,"ornata","Grayia","",NE,U
+34,33,"oxycephalum","Pseudorabdion","Negros Light-scaled Burrowing Snake",LC,D
+35,33,"pavimentata","Calamaria","",NE,U
+46,45,"striatula","Virginia","Rough Earth Snake",LC,S
+47,45,"pygeae","Seminatrix","",NE,U
+48,44,"dekayi","Storeria","Brown Snake",LC,S
+49,43,"rigida","Regina","Glossy Crayfish Snake",LC,S
+50,42,"kirtlandii","Clonophis","Kirtland's Snake",NT,D
+53,52,"sipedon","Nerodia","Lake Erie Water Snake",LC,S
+54,52,"lineatum","Tropidoclonion","Lined Snake",LC,S
+56,55,"marcianus","Thamnophis","",NE,U
+57,55,"foxi","Adelophis","",DD,U
+58,40,"natrix","Natrix","Grass Snake",LC,U
+60,59,"lateralis","Opisthotropis","",NE,U
+61,59,"annularis","Sinonatrix","",NE,U
+65,64,"trachyprocta","Aspidura","",NE,U
+66,64,"sp.","Aspidura","",NE,U
+67,63,"drummondhayi","Aspidura","",NE,U
+69,68,"ceylonensis","Haplocercus","",NE,U
+70,68,"guentheri","Aspidura","",NE,U
+79,78,"flavipunctatus","Xenochrophis","",NE,U
+80,78,"punctulatus","Xenochrophis","",NE,U
+82,81,"asperrimus","Xenochrophis","",NE,U
+83,81,"yunnanensis","Atretium","",NE,U
+84,76,"schistosum","Atretium","",NE,U
+86,85,"schnurrenbergeri","Xenochrophis","",NE,U
+87,85,"piscator","Xenochrophis","",NE,U
+89,88,"vittatus","Xenochrophis","",NE,U
+90,88,"stolatum","Amphiesma","",NE,U
+92,91,"ceylonensis","Balanophis","",NE,U
+93,91,"tigrinus","Rhabdophis","",NE,U
+95,94,"monticola","Trachischium","",NE,U
+96,94,"rudis","Macropisthodon","",NE,U
+99,98,"seychellensis","Lycognathophis","Seychelles Wolf Snake",EN,D
+100,98,"anoscopus","Afronatrix","",NE,U
+101,97,"olivacea","Natriciteres","",NE,U
+106,105,"chinensis","Sibynophis","",NE,U
+107,105,"collaris","Sibynophis","",NE,U
+108,104,"triangularis","Sibynophis","",NE,U
+110,109,"subpunctatus","Sibynophis","",NE,U
+111,109,"bistrigatus","Sibynophis","",NE,U
+112,102,"annulatus","Scaphiodontophis","",NE,U
+130,129,"coronata","Pseudoboa","",NE,U
+131,129,"maculata","Boiruna","",NE,U
+132,128,"brazili","Rhachidelus","",NE,U
+133,127,"anomalus","Drepanoides","Black-collared Snake",NE,U
+134,126,"guerini","Phimophis","",NE,U
+135,125,"petola","Oxyrhopus","",NE,U
+138,137,"triangularis","Hydrops","",NE,U
+139,137,"angulatus","Helicops","",NE,U
+140,136,"plicatilis","Pseudoeryx","",NE,U
+143,142,"melanostigma","Echinanthera","",NE,U
+144,142,"affinis","Taeniophallus","",NE,U
+145,141,"punctata","Sordellina","",NE,U
+148,147,"agassizii","Pseudablabes","",NE,U
+149,147,"aestiva","Philodryas","",NE,U
+150,146,"argenteus","Xenoxybelis","Mexican Vine Snake",NE,U
+158,157,"trigonatus","Pseudotomodon","",NE,U
+159,157,"peruviana","Tachymenis","",NE,U
+160,156,"flavovirgatus","Ptychophis","",NE,U
+162,161,"paucidens","Calamodontophis","",VU,D
+163,161,"dorsatus","Tomodon","",NE,U
+164,154,"brasiliensis","Gomesophis","",NE,U
+165,153,"compressus","Siphlophis","",NE,U
+168,167,"gigas","Hydrodynastes","",NE,U
+169,167,"scalaris","Xenopholis","",NE,U
+170,166,"striaticeps","Tropidodryas","",NE,U
+171,151,"amarali","Caaeteboia","",NE,U
+174,173,"quinquelineatus","Elapomorphus","",NE,U
+175,173,"nasutus","Phalotris","",NE,U
+176,172,"flavotorquata","Apostolepis","",NE,U
+187,186,"cantherigerus","Cubophis","",NE,U
+188,186,"dorsalis","Ialtris","",NE,U
+189,185,"ferox","Hypsirhynchus","",NE,U
+190,184,"andreae","Caraiba","",NE,U
+191,183,"portoricensis","Borikenophis","",NE,U
+192,182,"rufiventris","Alsophis","Red-bellied Racer",EN,U
+193,181,"exiguum","Magliophis","",NE,U
+194,180,"anomalus","Haitiophis","",NE,U
+195,179,"vittatum","Arrhyton","",NE,U
+201,200,"aesculapii","Erythrolamprus","",NE,U
+202,200,"pygmaea","Umbrivaga","",NE,U
+203,199,"clelia","Clelia","",NE,U
+204,198,"neuwiedi","Xenodon","",NE,U
+205,197,"lineatus","Liophis","",NE,U
+206,196,"catesbyi","Uromacer","",NE,U
+207,177,"joberti","Psomophis","",NE,U
+210,209,"nevermanni","Crisantophis","",NE,U
+211,209,"lineatus","Conophis","",LC,S
+213,212,"elapoides","Pliocercus","",LC,S
+214,212,"putnami","Manolepis","",LC,S
+226,225,"pallidus","Thamnodynastes","",NE,U
+227,225,"mikanii","Sibynomorphus","",NE,U
+228,224,"catesbyi","Dipsas","",NE,U
+230,229,"nebulatus","Sibon","",NE,U
+231,229,"atrata","Ninia","",NE,U
+233,232,"albuquerquei","Atractus","",NE,U
+234,232,"carinosus","Geophis","",LC,S
+235,221,"hallbergi","Cryophis","",DD,U
+238,237,"nigroluteus","Tretanorhinus","",NE,U
+239,237,"concolor","Hydromorphus","",NE,U
+240,236,"quadrivirgatus","Adelphicos","",NE,U
+243,242,"latifasciata","Pseudoleptodeira","",LC,S
+244,242,"gracile","Trimetopon","",NE,U
+245,241,"torquata","Hypsiglena","Night Snake",LC,S
+248,247,"annulata","Leptodeira","",NE,U
+249,247,"rugosus","Nothopsis","",NE,U
+250,246,"cenchoa","Imantodes","",NE,U
+252,251,"fulvivittis","Rhadinaea","",VU,D
+253,251,"sapperi","Amastridium","",NE,U
+254,216,"fissidens","Coniophanes","",NE,U
+255,215,"discolor","Tantalophis","",VU,D
+256,116,"punctatus","Diadophis","Ring-necked Snake",LC,S
+259,258,"platirhinos","Heterodon","Eastern Hog-nosed Snake",LC,S
+260,258,"tenuis","Contia","Sharp-tailed Snake",LC,S
+262,261,"amoenus","Carphophis","Eastern Worm Snake",LC,S
+263,261,"abacura","Farancia","Mud Snake",LC,S
+264,114,"baileyi","Thermophis","",VU,U
+266,265,"karlschmidti","Pseudoxenodon","",NE,U
+267,265,"styani","Plagiopholis","",NE,U

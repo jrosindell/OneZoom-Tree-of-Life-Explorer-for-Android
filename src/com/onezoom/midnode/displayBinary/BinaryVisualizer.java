@@ -27,7 +27,7 @@ public class BinaryVisualizer implements Visualizer{
 	private static final float leafmult = 3.2f;
 	private static final float partc = 0.4f;
 	private static final float thresholdDrawTextRoughCircle = 80f;
-	private static final float thresholdDrawTextDetailCircle = 230f;
+	private static final float thresholdDrawTextDetailCircle = 300f;
 	private static final float thresholdDrawTextRoughLeaf = 35f;
 	private static final float thresholdDrawTextDetailLeaf = 140f;
 	private static final float rangeBaseForDrawSignPost = 120f;

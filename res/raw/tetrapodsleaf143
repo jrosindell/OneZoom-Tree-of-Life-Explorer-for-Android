@@ -1,0 +1,113 @@
+index,parent,name1,name2,common,redlist,popstab
+17,16,"antinorii","Sorex","Valais Shrew",DD,U
+18,16,"araneus","Sorex","Common Shrew",LC,S
+19,15,"granarius","Sorex","Iberian Shrew",LC,U
+20,14,"coronatus","Sorex","Crowned Shrew",LC,S
+22,21,"daphaenodon","Sorex","Large-toothed Siberian Shrew",LC,S
+23,21,"satunini","Sorex","Caucasian Shrew",LC,U
+25,24,"tundrensis","Sorex","Tundra Shrew",LC,S
+26,24,"asper","Sorex","Tien Shan Shrew",LC,U
+28,27,"maritimensis","Sorex","Maritime Shrew",LC,D
+29,27,"arcticus","Sorex","Arctic Shrew",LC,S
+30,10,"samniticus","Sorex","Appenine Shrew",LC,U
+31,9,"excelsus","Sorex","Highland Shrew",LC,U
+36,35,"caecutiens","Sorex","Laxmann's Shrew",LC,S
+37,35,"shinto","Sorex","Shinto Shrew",LC,S
+38,34,"roboratus","Sorex","Flat-skulled Shrew",LC,U
+40,39,"unguiculatus","Sorex","Long-clawed Shrew",LC,S
+41,39,"isodon","Sorex","Even-toothed Shrew",LC,U
+42,32,"raddei","Sorex","Radde's Shrew",LC,U
+43,7,"mirabilis","Sorex","Ussuri Shrew",DD,U
+49,48,"volnuchini","Sorex","Caucasian Pygmy Shrew",LC,U
+50,48,"buchariensis","Sorex","Pamir Shrew",LC,U
+51,47,"minutus","Sorex","Eurasian Pygmy Shrew",LC,S
+52,46,"gracillimus","Sorex","Slender Shrew",LC,S
+53,45,"hosonoi","Sorex","Azumi Shrew",LC,U
+54,44,"minutissimus","Sorex","Eurasian Least Shrew",LC,U
+55,5,"alpinus","Sorex","Alpine Shrew",NT,D
+65,64,"neomexicanus","Sorex","New Mexico Shrew",DD,U
+66,64,"monticolus","Sorex","Dusky Shrew",LC,S
+68,67,"pacificus","Sorex","Pacific Shrew",LC,S
+69,67,"vagrans","Sorex","Vagrant Shrew",LC,S
+72,71,"palustris","Sorex","American Water Shrew",LC,S
+73,71,"bendirii","Sorex","Marsh Shrew",LC,U
+74,70,"leucogaster","Sorex","Paramushir Shrew",DD,U
+75,61,"haydeni","Sorex","Prairie Shrew",LC,S
+77,76,"hoyi","Sorex","American Pygmy Shrew",LC,S
+78,76,"nanus","Sorex","Dwarf Shrew",LC,U
+81,80,"jacksoni","Sorex","Saint Lawrence Island Shrew",LC,U
+82,80,"dispar","Sorex","Long-tailed Shrew",LC,U
+84,83,"bairdi","Sorex","Baird's Shrew",LC,U
+85,83,"tenellus","Sorex","Inyo Shrew",LC,S
+87,86,"ugyunak","Sorex","Barren Ground Shrew",LC,S
+88,86,"preblei","Sorex","Preble's Shrew",LC,U
+92,91,"longirostris","Sorex","Southeastern Shrew",LC,S
+93,91,"cinereus","Sorex","Cinereus Shrew",LC,S
+94,90,"portenkoi","Sorex","Portenko's Shrew",DD,U
+95,89,"ornatus","Sorex","Ornate Shrew",LC,S
+96,56,"fumeus","Sorex","Smoky Shrew",LC,S
+99,98,"trowbridgii","Sorex","Trowbridge's Shrew",LC,S
+100,98,"merriami","Sorex","Merriam's Shrew",LC,U
+101,97,"arizonae","Sorex","Arizona Shrew",LC,U
+104,103,"quadraticauda","Blarinella","Asiatic Short-tailed Shrew",NT,D
+105,103,"griselda","Blarinella","Indochinese Short-tailed Shrew",LC,U
+106,102,"wardi","Blarinella","Burmese Short-tailed Shrew",LC,U
+116,115,"merriami","Cryptotis","Merriam's Small-eared Shrew",LC,S
+117,115,"mayensis","Cryptotis","Yucatan Small-eared Shrew",LC,D
+119,118,"nigrescens","Cryptotis","Blackish Small-eared Shrew",LC,S
+120,118,"mera","Cryptotis","Darien Small Eared Shrew",EN,D
+121,113,"magna","Cryptotis","Big Mexican Small-eared Shrew",VU,D
+124,123,"orophila","Cryptotis","Central American Least Shrew",DD,U
+125,123,"tropicalis","Cryptotis","Tropical Small-eared Shrew",DD,U
+126,122,"parva","Cryptotis","Least Shrew",LC,S
+129,128,"hondurensis","Cryptotis","Honduran Small-eared Shrew",DD,U
+130,128,"goodwini","Cryptotis","Goodwin's Broad-clawed Shrew",LC,S
+131,127,"meridensis","Cryptotis","Merida Small-eared Shrew",LC,S
+134,133,"medellinia","Cryptotis","Medellin Small-eared Shrew",LC,S
+135,133,"thomasi","Cryptotis","Thomas' Small-eared Shrew",LC,S
+136,132,"equatoris","Cryptotis","Ecuadorean Small-eared Shrew",LC,S
+138,137,"squamipes","Cryptotis","Scaly-footed Small-eared Shrew",LC,U
+139,137,"montivaga","Cryptotis","Ecuadorean Small-eared Shrew",LC,S
+145,144,"obscura","Cryptotis","Grizzled Mexican Small-eared Shrew",VU,D
+146,144,"peregrina","Cryptotis","Oaxacan Broad-clawed Shrew",DD,U
+148,147,"phillipsii","Cryptotis","Phillip's Small-eared Shrew",VU,D
+149,147,"nelsoni","Cryptotis","Nelson's Small Eared Shrew",CR,U
+150,142,"mexicana","Cryptotis","Mexican Small-eared Shrew",LC,D
+153,152,"griseoventris","Cryptotis","Guatamalan Small Eared Shrew",VU,D
+154,152,"goldmani","Cryptotis","Goldman's Broad-clawed Shrew",LC,S
+155,151,"alticola","Cryptotis","Central Mexican Broad-clawed Shrew",DD,U
+157,156,"gracilis","Cryptotis","Talamancan Small-eared Shrew",VU,D
+158,156,"endersi","Cryptotis","Ender's Small-eared Shrew",EN,U
+162,161,"carolinensis","Blarina","Southern Short-tailed Shrew",LC,S
+163,161,"peninsulae","Blarina","",NE,U
+164,160,"brevicauda","Blarina","Northern Short-tailed Shrew",LC,S
+165,159,"hylophaga","Blarina","Elliot's Short-tailed Shrew",LC,S
+175,174,"fumidus","Episoriculus","Taiwan Brown-toothed Shrew",LC,U
+176,174,"sodalis","Chodsigoa","Lesser Taiwanese Shrew",DD,U
+177,173,"leucops","Episoriculus","Long-tailed Brown-toothed Shrew",LC,U
+179,178,"caudatus","Episoriculus","Hodgson's Brown-toothed Shrew",LC,U
+180,178,"macrurus","Episoriculus","Arboreal Brown-toothed Shrew",LC,U
+182,181,"nigrescens","Soriculus","Himalayan Shrew",LC,U
+183,181,"parca","Chodsigoa","Lowe's Shrew",LC,U
+187,186,"parva","Chodsigoa","Pygmy Brown-toothed Shrew",DD,U
+188,186,"lamula","Chodsigoa","Lamulate Shrew",LC,U
+189,185,"smithii","Chodsigoa","Smith's Shrew",NT,D
+191,190,"hypsibia","Chodsigoa","De Winton's Shrew",LC,U
+192,190,"salenskii","Chodsigoa","Salenski's Shrew",DD,U
+198,197,"platycephalus","Chimarrogale","Japanese Water Shrew",LC,D
+199,197,"sumatrana","Chimarrogale","Sumatran Water Shrew",DD,U
+200,196,"hantu","Chimarrogale","Malayan Water Shrew",NT,D
+201,195,"himalayica","Chimarrogale","Himalayan Water Shrew",LC,U
+202,194,"styani","Chimarrogale","Chinese Water Shrew",LC,U
+203,193,"phaeura","Chimarrogale","Bornean Water Shrew",EN,D
+207,206,"anomalus","Neomys","Mediterranean Water Shrew",LC,D
+208,206,"teres","Neomys","Transcaucasian Water Shrew",LC,U
+209,205,"fodiens","Neomys","Eurasian Water Shrew",LC,S
+210,204,"elegans","Nectogale","Elegant Water Shrew",LC,U
+214,213,"yamashinai","Anourosorex","Taiwanese Mole Shrew",LC,U
+215,213,"squamipes","Anourosorex","Mole-shrew",LC,U
+216,212,"assamensis","Anourosorex","Assam Mole Shrew",LC,U
+217,211,"schmidi","Anourosorex","Giant Mole Shrew",DD,U
+220,219,"evotis","Notiosorex","Large-eared Grey Shrew",LC,U
+221,219,"crawfordi","Notiosorex","Desert Shrew",LC,S
+222,218,"gigas","Megasorex","Mexican Shrew",LC,U

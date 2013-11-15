@@ -1,0 +1,108 @@
+index,parent,name1,name2,common,redlist,popstab
+14,13,"airensis","Acomys","Western Saharan Spiny Mouse",LC,S
+15,13,"seurati","Acomys","Seurat's Spiny Mouse",LC,S
+17,16,"dimidiatus","Acomys","Arabian Spiny Mouse",LC,U
+18,16,"cahirinus","Acomys","Cairo Spiny Mouse",LC,S
+19,11,"chudeaui","Acomys","",NE,U
+21,20,"minous","Acomys","Crete Spiny Mouse",DD,U
+22,20,"kempi","Acomys","Kemp's Spiny Mouse",LC,S
+25,24,"johannis","Acomys","Johan's Spiny Mouse",LC,S
+26,24,"cineraceus","Acomys","Gray Spiny Mouse",LC,S
+27,23,"cilicicus","Acomys","Asia Minor Spiny Mouse",DD,U
+29,28,"wilsoni","Acomys","Wilson's Spiny Mouse",LC,S
+30,28,"spinosissimus","Acomys","Spiny Mouse",LC,S
+31,7,"percivali","Acomys","Percival's Spiny Mouse",LC,S
+35,34,"nesiotes","Acomys","Cyprus Spiny Mouse",DD,U
+36,34,"ignitus","Acomys","Fiery Spiny Mouse",LC,S
+37,33,"russatus","Acomys","Golden Spiny Mouse",LC,U
+39,38,"subspinosus","Acomys","Cape Spiny Mouse",LC,S
+40,38,"mullah","Acomys","Mullah Spiny Mouse",LC,U
+41,5,"louisae","Acomys","Louise's Spiny Mouse",LC,S
+42,4,"ruddi","Uranomys","Rudd's Bristle-furred Rat",LC,D
+51,50,"brunneus","Lophuromys","",NE,U
+52,50,"zena","Lophuromys","",NE,U
+53,49,"flavopunctatus","Lophuromys","Yellow-spotted Brush-furred Rat",LC,U
+54,48,"chrysopus","Lophuromys","Ethiopian Forest Brush-furred Rat",LC,U
+55,47,"brevicaudus","Lophuromys","Short-tailed Brush-furred Rat",NT,D
+56,46,"melanonyx","Lophuromys","Black-clawed Brush-furred Rat",VU,U
+57,45,"nudicaudus","Lophuromys","Fire-bellied Brush-furred Rat",LC,U
+61,60,"sikapusi","Lophuromys","Rusty-bellied Brush-furred Rat",LC,U
+62,60,"ansorgei","Lophuromys","",NE,U
+63,59,"eisentrauti","Lophuromys","",EN,D
+65,64,"luteogaster","Lophuromys","Yellow-bellied Brush-furred Rat",LC,U
+66,64,"aquilus","Lophuromys","",NE,U
+69,68,"medicaudatus","Lophuromys","Medium-tailed Brush-furred Rat",VU,D
+70,68,"rahmi","Lophuromys","Rahm's Brush-furred Rat",EN,U
+71,67,"woosnami","Lophuromys","Woosnam's Brush-furred Rat",LC,U
+81,80,"cremoriventer","Niviventer","Sundaic Arboreal Niviventer",VU,D
+82,80,"hinpoon","Niviventer","Limestone Niviventer",DD,U
+83,79,"andersoni","Niviventer","Anderson's Niviventer",LC,U
+84,78,"coninga","Niviventer","Spiny Taiwan Niviventer",LC,U
+85,77,"niviventer","Niviventer","Himalayan White-bellied Rat",LC,U
+86,76,"brahma","Niviventer","Brahma White-bellied Rat",LC,S
+88,87,"culturatus","Niviventer","Soft-furred Taiwan Niviventer",NT,D
+89,87,"langbianis","Niviventer","Lang Bian White-bellied Rat",LC,D
+91,90,"confucianus","Niviventer","Confucian Niviventer",LC,S
+92,90,"excelsior","Niviventer","Sichuan Niviventer",LC,U
+95,94,"tenaster","Niviventer","Indochinese Mountain Niviventer",LC,U
+96,94,"fulvescens","Niviventer","Chestnut White-bellied Rat",LC,D
+97,93,"lepturus","Niviventer","Montane Javan Niviventer",LC,S
+101,100,"fraternus","Niviventer","Montane Sumatran Niviventer",LC,U
+102,100,"rapit","Niviventer","Montane Bornean Niviventer",LC,U
+103,99,"cameroni","Niviventer","Cameron Highlands Niviventer",VU,D
+104,98,"eha","Niviventer","Little Himalayan Rat",LC,S
+113,112,"orangiae","Mus","Free State Pygmy Mouse",LC,U
+114,112,"neavei","Mus","Neave's Mouse",DD,U
+115,111,"mattheyi","Mus","Matthey's Mouse",LC,S
+117,116,"setzeri","Mus","Setzer's Mouse",LC,S
+118,116,"bufo","Mus","Toad Mouse",LC,S
+120,119,"triton","Mus","Gray-bellied Mouse",LC,S
+121,119,"baoulei","Mus","Baoule's Mouse",LC,S
+123,122,"oubanguii","Mus","Oubangui Mouse",DD,U
+124,122,"minutoides","Mus","Pygmy Mouse",LC,S
+131,130,"indutus","Mus","Desert Pygmy Mouse",LC,S
+132,130,"tenellus","Mus","Delicate Mouse",LC,S
+133,129,"setulosus","Mus","Peter's Mouse",LC,S
+134,128,"sorella","Mus","Thomas's Mouse",LC,S
+135,127,"goundae","Mus","Gounda Mouse",DD,U
+138,137,"haussa","Mus","Hausa Mouse",LC,S
+139,137,"musculoides","Mus","",LC,U
+140,136,"mahomet","Mus","Mahomet Mouse",LC,S
+141,125,"callewaerti","Mus","Callewaert's Mouse",LC,U
+146,145,"cervicolor","Mus","Fawn-colored Mouse",LC,S
+147,145,"spretus","Mus","Algerian Mouse",LC,S
+149,148,"terricolor","Mus","Earth-colored Mouse",LC,S
+150,148,"cookii","Mus","Cook's Mouse",LC,S
+151,143,"musculus","Mus","House Mouse",LC,S
+155,154,"booduga","Mus","Common Indian Field Mouse",LC,S
+156,154,"caroli","Mus","Ryukyu Mouse",LC,S
+157,153,"macedonicus","Mus","Balkan Short-tailed Mouse",LC,S
+158,152,"spicilegus","Mus","Mound-building Mouse",LC,D
+163,162,"fernandoni","Mus","Ceylon Spiny Mouse",EN,D
+164,162,"saxicola","Mus","Brown Spiny Mouse",LC,S
+165,161,"phillipsi","Mus","Wroughton's Small Spiny Mouse",LC,S
+167,166,"shortridgei","Mus","Shortridge's Mouse",LC,S
+168,166,"platythrix","Mus","Brown Spiny Mouse",LC,S
+173,172,"pahari","Mus","Gairdner's Shrewmouse",LC,S
+174,172,"famulus","Mus","Bonhote's Mouse",EN,D
+175,171,"crociduroides","Mus","Sumatran Shrewlike Mouse",DD,U
+176,170,"mayori","Mus","Mayor's Mouse",VU,U
+177,169,"vulcani","Mus","Javan Shrew-like Mouse",VU,S
+184,183,"stannarius","Aethomys","Tinfields Rock Rat",DD,U
+185,183,"namaquensis","Micaelamys","",NE,U
+186,182,"bocagei","Aethomys","Bocage's Rock Rat",LC,U
+188,187,"thomasi","Aethomys","Thomas's Rock Rat",LC,U
+189,187,"nyikae","Aethomys","Nyika Rock Rat",LC,U
+191,190,"kaiseri","Aethomys","Kaiser's Rock Rat",LC,U
+192,190,"granti","Micaelamys","",NE,U
+196,195,"ineptus","Aethomys","Tete Veld Aethomys",LC,U
+197,195,"chrysophilus","Aethomys","Red Rock Rat",LC,U
+198,194,"hindei","Aethomys","Hinde's Rock Rat",LC,U
+199,193,"silindensis","Aethomys","Selinda Veld Rat",DD,U
+205,204,"campanae","Pelomys","Bell Groove-toothed Swamp Rat",LC,U
+206,204,"minor","Pelomys","Least Groove-toothed Swamp Rat",LC,U
+207,203,"hopkinsi","Pelomys","Hopkins's Groove-toothed Swamp Rat",DD,U
+208,202,"fallax","Pelomys","Creek Groove-toothed Swamp Rat",LC,U
+209,201,"isseli","Pelomys","Issel's Groove-toothed Swamp Rat",DD,U
+211,210,"dybowskii","Mylomys","African Groove-toothed Rat",LC,U
+212,210,"rex","Mylomys","Ethiopian Mylomys",DD,U

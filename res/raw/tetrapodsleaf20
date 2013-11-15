@@ -1,0 +1,112 @@
+index,parent,name1,name2,common,redlist,popstab
+12,11,"albicapillus","Spreo","White-crowned Starling",LC,U
+13,11,"fischeri","Spreo","Fischer's Starling",LC,U
+14,10,"bicolor","Spreo","African Pied Starling",LC,U
+16,15,"pulcher","Lamprotornis","Chestnut-bellied Starling",LC,U
+17,15,"superbus","Lamprotornis","Superb Starling",LC,U
+20,19,"splendidus","Lamprotornis","Splendid Glossy-starling",LC,U
+21,19,"ornatus","Lamprotornis","Principe Glossy-starling",LC,U
+22,18,"regius","Cosmopsarus","Golden-breasted Starling",LC,U
+27,26,"chalcurus","Lamprotornis","Bronze-tailed Glossy-starling",LC,U
+28,26,"nitens","Lamprotornis","Red-shouldered Glossy-starling",LC,U
+29,25,"chalybaeus","Lamprotornis","Greater Blue-eared Glossy-starling",LC,U
+30,24,"purpureus","Lamprotornis","Purple Glossy-starling",LC,U
+33,32,"chloropterus","Lamprotornis","Lesser Blue-eared Glossy-starling",LC,U
+34,32,"acuticaudus","Lamprotornis","Sharp-tailed Glossy-starling",LC,U
+35,31,"iris","Coccycolius","Emerald Starling",DD,U
+39,38,"purpuroptera","Lamprotornis","Rueppell's Glossy-starling",LC,U
+40,38,"caudatus","Lamprotornis","Long-tailed Glossy-starling",LC,U
+42,41,"mevesii","Lamprotornis","Meves's Glossy-starling",LC,U
+43,41,"unicolor","Cosmopsarus","Ashy Starling",LC,U
+44,36,"australis","Lamprotornis","Burchell's Glossy-starling",LC,U
+46,45,"hildebrandti","Lamprotornis","Hildebrandt's Starling",LC,U
+47,45,"shelleyi","Lamprotornis","Shelley's Starling",LC,U
+51,50,"purpureiceps","Lamprotornis","Purple-headed Glossy-starling",LC,U
+52,50,"cupreocauda","Lamprotornis","Copper-tailed Glossy-starling",NT,U
+53,49,"elisabeth","Lamprotornis","Southern Blue-eared Glossy-starling",LC,U
+54,48,"corruscus","Lamprotornis","Black-bellied Glossy-starling",LC,U
+62,61,"stuhlmanni","Poeoptera","Stuhlmann's Starling",LC,U
+63,61,"kenricki","Poeoptera","Kenrick's Starling",LC,U
+64,60,"lugubris","Poeoptera","Narrow-tailed Starling",LC,U
+65,59,"femoralis","Cinnyricinclus","Abbott's Starling",VU,U
+66,58,"sharpii","Cinnyricinclus","Sharpe's Starling",LC,U
+67,57,"bicolor","Speculipastor","Magpie Starling",LC,U
+68,56,"torquata","Grafisia","White-collared Starling",LC,U
+70,69,"spiloptera","Saroglossa","Spot-winged Starling",LC,U
+71,69,"gutturalis","Neocichla","Babbling Starling",LC,U
+79,78,"frater","Onychognathus","Socotra Starling",LC,U
+80,78,"blythii","Onychognathus","Somali Starling",LC,U
+81,77,"salvadorii","Onychognathus","Bristle-crowned Starling",LC,U
+83,82,"albirostris","Onychognathus","White-billed Starling",LC,U
+84,82,"tristramii","Onychognathus","Tristram's Starling",LC,U
+86,85,"fulgidus","Onychognathus","Chestnut-winged Starling",LC,U
+87,85,"walleri","Onychognathus","Waller's Starling",LC,U
+89,88,"morio","Onychognathus","Red-winged Starling",LC,U
+90,88,"neumanni","Onychognathus","Neumann's Starling",_U,[
+91,73,"nabouroup","Onychognathus","Pale-winged Starling",LC,U
+92,72,"tenuirostris","Onychognathus","Slender-billed Starling",LC,U
+105,104,"cristatellus","Acridotheres","Crested Myna",LC,U
+106,104,"grandis","Acridotheres","White-vented Myna",LC,U
+107,103,"albocinctus","Acridotheres","Collared Myna",LC,U
+109,108,"cinereus","Acridotheres","Pale-bellied Myna",LC,U
+110,108,"fuscus","Acridotheres","Jungle Myna",LC,U
+112,111,"burmannicus","Sturnus","Vinous-breasted Starling",LC,U
+113,111,"melanopterus","Sturnus","Black-winged Starling",CR,U
+115,114,"ginginianus","Acridotheres","Bank Myna",LC,U
+116,114,"tristis","Acridotheres","Common Myna",LC,U
+118,117,"cineraceus","Sturnus","White-cheeked Starling",LC,U
+119,117,"sericeus","Sturnus","Red-billed Starling",LC,U
+125,124,"malabaricus","Sturnus","Chestnut-tailed Starling",LC,U
+126,124,"erythropygius","Sturnus","White-headed Starling",LC,U
+127,123,"pagodarum","Sturnus","Brahminy Starling",LC,U
+128,122,"sinensis","Sturnus","White-shouldered Starling",LC,U
+129,121,"albofrontatus","Sturnus","White-faced Starling",VU,U
+130,120,"rothschildi","Leucopsar","Bali Starling",CR,U
+133,132,"philippensis","Sturnus","Chestnut-cheeked Starling",LC,U
+134,132,"sturninus","Sturnus","Purple-backed Starling",LC,U
+136,135,"nigricollis","Sturnus","Black-collared Starling",LC,U
+137,135,"contra","Sturnus","Asian Pied Starling",LC,U
+138,96,"roseus","Sturnus","Rosy Starling",LC,U
+140,139,"unicolor","Sturnus","Spotless Starling",LC,U
+141,139,"vulgaris","Sturnus","Common Starling",LC,U
+142,94,"cinerea","Creatophora","Wattled Starling",LC,U
+144,143,"leucogaster","Cinnyricinclus","Violet-backed Starling",LC,U
+145,143,"aurata","Saroglossa","Madagascar Starling",LC,U
+156,155,"metallica","Aplonis","Metallic Starling",LC,U
+157,155,"pelzelni","Aplonis","Pohnpei Starling",CR,U
+158,154,"brunneicapillus","Aplonis","White-eyed Starling",EN,U
+160,159,"grandis","Aplonis","Brown-winged Starling",LC,U
+161,159,"mysolensis","Aplonis","Moluccan Starling",LC,U
+164,163,"cinerascens","Aplonis","Rarotonga Starling",VU,U
+165,163,"tabuensis","Aplonis","Polynesian Starling",LC,U
+166,162,"insularis","Aplonis","Rennell Starling",LC,U
+169,168,"mystacea","Aplonis","Yellow-eyed Starling",NT,U
+170,168,"crassa","Aplonis","Tanimbar Starling",NT,U
+171,167,"opaca","Aplonis","Micronesian Starling",LC,U
+177,176,"minor","Aplonis","Short-tailed Starling",LC,U
+178,176,"atrifusca","Aplonis","Samoan Starling",LC,U
+179,175,"santovestris","Aplonis","Santo Starling",VU,U
+180,174,"panayensis","Aplonis","Asian Glossy Starling",LC,U
+183,182,"magna","Aplonis","Long-tailed Starling",LC,U
+184,182,"striata","Aplonis","Striated Starling",LC,U
+185,181,"zelandica","Aplonis","Rusty-winged Starling",NT,U
+187,186,"cantoroides","Aplonis","Singing Starling",LC,U
+188,186,"feadensis","Aplonis","Atoll Starling",NT,U
+189,149,"dichroa","Aplonis","San Cristobal Starling",LC,U
+191,190,"dubium","Scissirostrum","Finch-billed Myna",LC,U
+192,190,"erythrophris","Enodes","Fiery-browed Myna",LC,U
+198,197,"albicollis","Streptocitta","White-necked Myna",LC,U
+199,197,"albertinae","Streptocitta","Bare-eyed Myna",NT,U
+200,196,"calvus","Sarcops","Coleto",LC,U
+203,202,"galeatus","Basilornis","Helmeted Myna",NT,U
+204,202,"mirandus","Basilornis","Apo Myna",NT,U
+205,201,"corythaix","Basilornis","Long-crested Myna",LC,U
+206,194,"celebensis","Basilornis","Sulawesi Myna",LC,U
+210,209,"ptilogenys","Gracula","Sri Lanka Myna",NT,U
+211,209,"religiosa","Gracula","Hill Myna",LC,U
+212,208,"coronatus","Ampeliceps","Golden-crested Myna",LC,U
+214,213,"dumontii","Mino","Yellow-faced Myna",LC,U
+215,213,"anais","Mino","Golden Myna",LC,U
+218,217,"inornatus","Rhabdornis","Stripe-breasted Rhabdornis",LC,U
+219,217,"grandis","Rhabdornis","Long-billed Rhabdornis",LC,U
+220,216,"mystacalis","Rhabdornis","Stripe-sided Rhabdornis",LC,U

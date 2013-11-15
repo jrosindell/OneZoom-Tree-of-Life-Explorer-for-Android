@@ -1,6 +1,9 @@
 package com.onezoom;
 
+import java.util.TreeMap;
+
 import com.onezoom.midnode.MidNode;
+import com.onezoom.midnode.MidNodeOneChunk;
 import com.onezoom.midnode.PositionData;
 
 import android.app.Activity;
@@ -16,14 +19,17 @@ import android.widget.SearchView.OnQueryTextListener;
 
 public class CanvasActivity extends Activity{
 	TreeView treeView;
-	String selectedItem;
+	public static String selectedItem;
 	private String selectedString;
 	private MidNode fulltree;
+	private MidNodeOneChunk rootChunk;
 	private boolean started = false;
 	private MemoryThread memoryThread;
 	private GrowthThread growthThread;
 	private boolean threadStarted = false;
 	private boolean growing = false;
+	private TreeMap<String, String> groupIndexMap;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -31,6 +37,9 @@ public class CanvasActivity extends Activity{
 		treeView = (TreeView) findViewById(R.id.tree_view);	
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
+		groupIndexMap = new TreeMap<String, String>();
+		groupIndexMap.put("Mammals", "40");
+		groupIndexMap.put("Tetrapods", "185");
 		retrieveData();
 	}
 
@@ -77,14 +86,24 @@ public class CanvasActivity extends Activity{
 //		treeView.setTreeBeingInitialized(true);	
 //	}
 	
+	public MidNodeOneChunk getRootChunk() {
+		return rootChunk;
+	}
+
 	public void initialization() {
 //		fulltree = MidNode.createNode(null, selectedString, false, 0);
 //		fulltree.init();
+		MidNode.setContext(this);
 		MidNode.setScreenSize(0, 0, 800, 1200);
-		fulltree = MidNode.createNode(this, selectedItem.toLowerCase(), "40");
+//		rootChunk = MidNodeOneChunk.createTree(this, groupIndexMap.get(selectedItem));
+//		rootChunk.preCalculateWholeTree();
+//		rootChunk.recalculate(200, 900, 1f);
+//		rootChunk.init();
+//		fulltree = rootChunk.getroot();
+		fulltree = MidNode.createNode("40");
 		Log.d("debug", selectedItem);
-//		fulltree.preCalculateWholeTree();
-		fulltree.recalculate(200, 900, 1f);
+		PositionData.setScreenPosition(200, 900, 1f);
+		fulltree.recalculate();
 		fulltree.init();
 		fulltree.outputInitElement();
 		treeView.setTreeBeingInitialized(true);	

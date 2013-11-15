@@ -1,0 +1,118 @@
+index,parent,name1,name2,common,redlist,popstab
+11,10,"geoffroyi","Callithrix","Geoffroy's Tufted-ear Marmoset",LC,S
+12,10,"kuhlii","Callithrix","Wied's Black-tufted-ear Marmoset",NT,D
+14,13,"penicillata","Callithrix","Black-pencilled Marmoset",LC,I
+15,13,"jacchus","Callithrix","Common Marmoset",LC,S
+17,16,"aurita","Callithrix","Buffy-tufted-ear Marmoset",VU,D
+18,16,"flaviceps","Callithrix","Buffy-headed Marmoset",EN,D
+25,24,"melanura","Callithrix","",NE,U
+26,24,"emiliae","Callithrix","",NE,U
+27,23,"leucippe","Callithrix","",NE,U
+28,22,"intermedia","Callithrix","",NE,U
+29,21,"argentata","Callithrix","",NE,U
+31,30,"humeralifera","Callithrix","",NE,U
+32,30,"chrysoleuca","Callithrix","",NE,U
+33,19,"pygmaea","Callithrix","",NE,U
+34,6,"goeldii","Callimico","Goeldi's Monkey",VU,D
+38,37,"caissara","Leontopithecus","Black-faced Lion Tamarin",CR,D
+39,37,"chrysopygus","Leontopithecus","Black Lion Tamarin",EN,D
+40,36,"rosalia","Leontopithecus","Golden Lion Tamarin",EN,S
+41,35,"chrysomelas","Leontopithecus","Golden-headed Lion Tamarin",EN,D
+49,48,"mystax","Saguinus","Moustached Tamarin",LC,S
+50,48,"pileatus","Saguinus","",NE,U
+51,47,"labiatus","Saguinus","Red-chested Mustached Tamarin",LC,S
+52,46,"imperator","Saguinus","Emperor Tamarin",LC,D
+55,54,"oedipus","Saguinus","Cotton-headed Tamarin",CR,D
+56,54,"geoffroyi","Saguinus","Geoffroy's Tamarin",LC,D
+57,53,"leucopus","Saguinus","Silvery-brown Tamarin",EN,D
+60,59,"martinsi","Saguinus","Martin'S/ochraceous Bare-face Tamarin",LC,D
+61,59,"bicolor","Saguinus","Brazilian Bare-faced Tamarin",EN,D
+63,62,"midas","Saguinus","Golden-handed Tamarin",LC,S
+64,62,"niger","Saguinus","Black-handed Tamarin",VU,D
+65,43,"inustus","Saguinus","Mottled-face Tamarin",LC,S
+69,68,"melanoleucus","Saguinus","White/crandall's Saddleback Tamarin",LC,D
+70,68,"fuscicollis","Saguinus","Saddleback Tamarin",LC,D
+71,67,"tripartitus","Saguinus","Golden-mantle Saddleback Tamarin",NT,D
+73,72,"nigricollis","Saguinus","Black Mantle Tamarin",LC,D
+74,72,"graellsi","Saguinus","",NE,U
+80,79,"nigrifrons","Callicebus","Black-fronted Titi Monkey",NT,D
+81,79,"melanochir","Callicebus","Coastal Black-handed Titi",VU,D
+82,78,"personatus","Callicebus","Atlantic Titi",VU,D
+83,77,"barbarabrownae","Callicebus","Blond Titi Monkey",CR,D
+84,76,"miconax","Aotus","Andean Night Monkey",VU,D
+85,75,"lemurinus","Aotus","Colombian Night Monkey",VU,D
+92,91,"xanthosternos","Cebus","Buff-headed Capuchin",CR,D
+93,91,"nigritus","Cebus","Black-horned Capuchin",NT,D
+94,90,"apella","Cebus","Guianan/margarita Island Brown Capuchin",LC,D
+95,89,"libidinosus","Cebus","Bearded Capuchin",LC,D
+98,97,"capucinus","Cebus","White-throated Capuchin",LC,U
+99,97,"albifrons","Cebus","White-fronted Capuchin",LC,D
+100,96,"olivaceus","Cebus","Weeper Capuchin",LC,U
+104,103,"ustus","Saimiri","Golden-backed Squirrel Monkey",NT,D
+105,103,"sciureus","Saimiri","Common Squirrel Monkey",LC,D
+106,102,"oerstedii","Saimiri","Black-crowned Central American Squirrel Monkey",VU,D
+108,107,"boliviensis","Saimiri","Bolivian/peruvian Squirrel Monkey",LC,D
+109,107,"vanzolinii","Saimiri","Black-headed Squirrel Monkey",VU,U
+112,111,"nancymaae","Aotus","Nancy Ma's Night Monkey",LC,U
+113,111,"azarae","Aotus","Azara's Night Monkey",LC,D
+114,110,"nigriceps","Aotus","Black-headed Night Monkey",LC,U
+117,116,"trivirgatus","Aotus","Douroucouli",LC,U
+118,116,"vociferans","Aotus","Night Monkey",LC,D
+119,115,"hershkovitzi","Aotus","",NE,U
+129,128,"torquatus","Callicebus","Collared Titi Monkey",LC,U
+130,128,"purinus","Callicebus","Widow Monkey",LC,U
+132,131,"lugens","Callicebus","Collared Titi",LC,U
+133,131,"lucifer","Callicebus","Widow Monkey",LC,U
+134,126,"medemi","Callicebus","Colombian Black-handed Titi",VU,D
+135,125,"regulus","Callicebus","Widow Monkey",LC,U
+139,138,"donacophilus","Callicebus","Bolivian Gray Titi",LC,D
+140,138,"pallescens","Callicebus","Chacoan Titi Monkey",LC,S
+142,141,"olallae","Callicebus","Olalla Brothers' Titi",EN,D
+143,141,"modestus","Callicebus","Beni Titi Monkey",EN,D
+144,136,"oenanthe","Callicebus","Andean Titi Monkey",EN,D
+149,148,"cupreus","Callicebus","Coppery Titi Monkey",LC,U
+150,148,"ornatus","Callicebus","Ornate Titi Monkey",VU,D
+151,147,"discolor","Callicebus","Red Titi Monkey",LC,U
+152,146,"caligatus","Callicebus","Titi Monkey",LC,U
+153,145,"dubius","Callicebus","Doubtful Titi Monkey",LC,U
+157,156,"baptista","Callicebus","Baptista Lake Titi Monkey",LC,U
+158,156,"hoffmannsi","Callicebus","Hoffmann's Titi Monkey",LC,U
+159,155,"brunneus","Callicebus","Brown Titi Monkey",LC,U
+161,160,"cinerascens","Callicebus","Ashy Black Titi Monkey",LC,U
+162,160,"moloch","Callicebus","Red-bellied Titi Monkey",LC,U
+168,167,"utahickae","Chiropotes","Uta Hick's Bearded Saki",EN,D
+169,167,"chiropotes","Chiropotes","Bearded Saki",LC,S
+171,170,"satanas","Chiropotes","Black Bearded Saki",CR,D
+172,170,"israelita","Chiropotes","",NE,U
+173,165,"albinasus","Chiropotes","Red-nosed Bearded Saki",EN,D
+175,174,"melanocephalus","Cacajao","Golden-backed Black Uakari",LC,S
+176,174,"calvus","Cacajao","Bald-headed Uacari",VU,D
+180,179,"irrorata","Pithecia","Gray's Bald-faced Saki",LC,U
+181,179,"monachus","Pithecia","Geoffroy's Monk Saki",LC,U
+182,178,"albicans","Pithecia","White Saki",VU,D
+184,183,"aequatorialis","Pithecia","Equatorial Saki",LC,D
+185,183,"pithecia","Pithecia","Golden-faced Saki",LC,S
+192,191,"cana","Lagothrix","Geoffroy'S/peruvian Woolly Monkey",EN,D
+193,191,"poeppigii","Lagothrix","Poeppig's Woolly Monkey",VU,D
+195,194,"lagotricha","Lagothrix","Common Woolly Monkey",VU,D
+196,194,"lugens","Lagothrix","Colombian Woolly Monkey",CR,D
+197,189,"flavicauda","Oreonax","Peruvian Yellow-tailed Woolly Monkey",CR,D
+199,198,"hypoxanthus","Brachyteles","Northern Muriqui",CR,D
+200,198,"arachnoides","Brachyteles","Muriqui",EN,D
+205,204,"hybridus","Ateles","Variegated Or Brown Spider Monkey",CR,D
+206,204,"belzebuth","Ateles","Long-haired Spider Monkey",EN,D
+208,207,"chamek","Ateles","Black-faced Black Spider Monkey",EN,D
+209,207,"marginatus","Ateles","White-cheeked Spider Monkey",EN,D
+211,210,"fusciceps","Ateles","Brown-headed Spider Monkey",CR,D
+212,210,"geoffroyi","Ateles","Geoffroy's Spider Monkey",EN,D
+213,201,"paniscus","Ateles","Guiana Spider Monkey",VU,D
+219,218,"belzebul","Alouatta","Red-handed Howler Monkey",VU,D
+220,218,"nigerrima","Alouatta","Black Howler Monkey",LC,U
+221,217,"guariba","Alouatta","Brown Howler Monkey",LC,D
+223,222,"palliata","Alouatta","Mantled Howler Monkey",LC,U
+224,222,"coibensis","Alouatta","",NE,U
+227,226,"seniculus","Alouatta","Colombian Red Howler Monkey",LC,D
+228,226,"macconnelli","Alouatta","Guianan Red Howler Monkey",LC,U
+229,225,"sara","Alouatta","Bolivian Red Howler Monkey",LC,D
+231,230,"caraya","Alouatta","Black-and-gold Howler Monkey",LC,D
+232,230,"pigra","Alouatta","Yucatan Black Howler Monkey",EN,D

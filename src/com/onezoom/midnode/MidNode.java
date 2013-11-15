@@ -1,12 +1,14 @@
 package com.onezoom.midnode;
 
 
-import org.apache.http.conn.ClientConnectionManager;
-
+import junit.framework.Assert;
+import android.app.ActivityManager;
+import android.content.Context;
 import android.graphics.Canvas;
 import android.util.Log;
 import com.onezoom.CanvasActivity;
 import com.onezoom.midnode.displayBinary.BinaryFactory;
+import com.onezoom.midnode.displayBinary.BinaryInitializer;
 
 public abstract class MidNode{
 	public static int countDrawElement = 0;
@@ -31,28 +33,28 @@ public abstract class MidNode{
 	public int parentIndex;
 	public int index;
 	public MidNode parent = null;
-	public static CanvasActivity client;
-	public static String selected;
 	
 	public static MidNode createNode (MidNode pNode, String data, boolean buildOneNode, int childIndex) {
-		assert pNode != null;
-		assert (childIndex == 0) || (childIndex == 1) || (childIndex == 2);
-		
+//		assert pNode != null;
+		Assert.assertNotNull(pNode);
+//		assert (childIndex == 0) || (childIndex == 1) || (childIndex == 2);
+		Assert.assertEquals((childIndex == 0) || (childIndex == 1) || (childIndex == 2), true);
 		if (data.charAt(0) == '(')
 			return new InteriorNode(pNode, data, buildOneNode, childIndex);
 		else
 			return new LeafNode(pNode, data, childIndex);
 	}
 	
-	public static MidNode createNode(CanvasActivity canvasActivity,
-			String selectedGroup, String fileIndex) {
-		client = canvasActivity;
-		selected = selectedGroup;
-		return initializer.createMidNode(canvasActivity, selectedGroup, fileIndex);
+	public static MidNode createNode(String fileIndex) {
+		return initializer.createMidNode(fileIndex);
 	}
 
 	public static void setScreenSize(int left, int bottom, int width, int height) {
 		PositionData.setScreenSize(left, bottom, width, height);
+	}
+	
+	public static void setContext(Context context) {
+		BinaryInitializer.setContext(context);
 	}
 	
 	public void preCalculateWholeTree() {
@@ -66,7 +68,6 @@ public abstract class MidNode{
 	}
 	
 	public void recalculate(float xp, float yp, float ws) {
-		PositionData.setScreenPosition(xp, yp, ws);
 		positionCalculator.recalculate(this, xp, yp, ws);
 	}
 	
@@ -101,4 +102,13 @@ public abstract class MidNode{
 	}
 	
 	public MidNode getParent() { return parent; }
+
+	public void recalculateDynamic() {
+		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
+	}
+	
+	public void recalculateDynamic(float xp, float yp, float ws) {
+		positionCalculator.recalculateDynamic(xp, yp, ws, this);
+		this.init();
+	}
 }

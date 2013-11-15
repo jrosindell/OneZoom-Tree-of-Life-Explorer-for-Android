@@ -1,0 +1,165 @@
+index,parent,name1,name2,common,redlist,popstab
+12,11,"hypoleucus","Synthliboramphus","Xantus's Murrelet",VU,U
+13,11,"craveri","Synthliboramphus","Craveri's Murrelet",VU,U
+15,14,"wumizusume","Synthliboramphus","Japanese Murrelet",VU,U
+16,14,"antiquus","Synthliboramphus","Ancient Murrelet",LC,U
+19,18,"carbo","Cepphus","Spectacled Guillemot",LC,U
+20,18,"columba","Cepphus","Pigeon Guillemot",LC,U
+21,17,"grylle","Cepphus","Black Guillemot",LC,U
+25,24,"lomvia","Uria","Thick-billed Guillemot",LC,U
+26,24,"aalge","Uria","Common Guillemot",LC,U
+28,27,"torda","Alca","Razorbill",LC,U
+29,27,"alle","Alle","Little Auk",LC,U
+32,31,"brevirostris","Brachyramphus","Kittlitz's Murrelet",CR,U
+33,31,"marmoratus","Brachyramphus","Marbled Murrelet",EN,U
+34,30,"perdix","Brachyramphus","Long-billed Murrelet",NT,U
+40,39,"psittacula","Aethia","Parakeet Auklet",LC,U
+41,39,"pusilla","Aethia","Least Auklet",LC,U
+42,38,"pygmaea","Aethia","Whiskered Auklet",LC,U
+43,37,"cristatella","Aethia","Crested Auklet",LC,U
+44,36,"aleuticus","Ptychoramphus","Cassin's Auklet",LC,U
+48,47,"corniculata","Fratercula","Horned Puffin",LC,U
+49,47,"arctica","Fratercula","Atlantic Puffin",LC,U
+50,46,"cirrhata","Fratercula","Tufted Puffin",LC,U
+51,45,"monocerata","Cerorhinca","Rhinoceros Auklet",LC,U
+56,55,"antarctica","Catharacta","Southern Skua",LC,U
+57,55,"chilensis","Catharacta","Chilean Skua",LC,U
+58,54,"maccormicki","Catharacta","South Polar Skua",LC,U
+61,60,"pomarinus","Stercorarius","Pomarine Jaeger",LC,U
+62,60,"skua","Catharacta","Great Skua",LC,U
+63,59,"lonnbergi","Catharacta","Brown Skua",LC,U
+65,64,"longicaudus","Stercorarius","Long-tailed Jaeger",LC,U
+66,64,"parasiticus","Stercorarius","Parasitic Jaeger",LC,U
+67,4,"ardeola","Dromas","Crab Plover",LC,U
+77,76,"nordmanni","Glareola","Black-winged Pratincole",NT,U
+78,76,"cinerea","Glareola","Grey Pratincole",LC,U
+79,75,"pratincola","Glareola","Collared Pratincole",LC,U
+81,80,"ocularis","Glareola","Madagascar Pratincole",VU,U
+82,80,"lactea","Glareola","Small Pratincole",LC,U
+83,73,"maldivarum","Glareola","Oriental Pratincole",LC,U
+84,72,"nuchalis","Glareola","Rock Pratincole",LC,U
+85,71,"isabella","Stiltia","Australian Pratincole",LC,U
+89,88,"somalensis","Cursorius","Somali Courser",LC,U
+90,88,"rufus","Cursorius","Burchell's Courser",LC,U
+91,87,"coromandelicus","Cursorius","Indian Courser",LC,U
+93,92,"temminckii","Cursorius","Temminck's Courser",LC,U
+94,92,"cursor","Cursorius","Cream-coloured Courser",LC,U
+96,95,"africanus","Rhinoptilus","Double-banded Courser",LC,U
+97,95,"cinctus","Rhinoptilus","Three-banded Courser",LC,U
+99,98,"chalcopterus","Rhinoptilus","Bronze-winged Courser",LC,U
+100,98,"bitorquatus","Rhinoptilus","Jerdon's Courser",CR,U
+108,107,"castanotus","Turnix","Chestnut-backed Buttonquail",NT,U
+109,107,"maculosus","Turnix","Red-backed Buttonquail",LC,U
+110,106,"olivii","Turnix","Buff-breasted Buttonquail",EN,U
+113,112,"pyrrhothorax","Turnix","Red-chested Buttonquail",LC,U
+114,112,"everetti","Turnix","Sumba Buttonquail",VU,U
+115,111,"varius","Turnix","Painted Buttonquail",LC,U
+118,117,"nigricollis","Turnix","Madagascar Buttonquail",LC,U
+119,117,"ocellatus","Turnix","Spotted Buttonquail",LC,U
+121,120,"hottentottus","Turnix","Hottentot Buttonquail",LC,U
+122,120,"sylvaticus","Turnix","Small Buttonquail",LC,U
+124,123,"melanogaster","Turnix","Black-breasted Buttonquail",VU,U
+125,123,"worcesteri","Turnix","Luzon Buttonquail",DD,U
+128,127,"tanki","Turnix","Yellow-legged Buttonquail",LC,U
+129,127,"suscitator","Turnix","Barred Buttonquail",LC,U
+130,126,"velox","Turnix","Little Buttonquail",LC,U
+131,101,"meiffrenii","Ortyxelos","Lark Buttonquail",LC,U
+146,145,"armatus","Vanellus","Blacksmith Lapwing",LC,U
+147,145,"vanellus","Vanellus","Northern Lapwing",LC,U
+148,144,"cinereus","Vanellus","Grey-headed Lapwing",LC,U
+150,149,"melanocephalus","Vanellus","Spot-breasted Lapwing",LC,U
+151,149,"spinosus","Vanellus","Spur-winged Lapwing",LC,U
+154,153,"chilensis","Vanellus","Southern Lapwing",LC,U
+155,153,"resplendens","Vanellus","Andean Lapwing",LC,U
+157,156,"coronatus","Vanellus","Crowned Lapwing",LC,U
+158,156,"tricolor","Vanellus","Banded Lapwing",LC,U
+162,161,"malarbaricus","Vanellus","Yellow-wattled Lapwing",LC,U
+163,161,"miles","Vanellus","Masked Lapwing",LC,U
+164,160,"duvaucelii","Vanellus","River Lapwing",LC,U
+165,159,"lugubris","Vanellus","Senegal Lapwing",LC,U
+170,169,"superciliosus","Vanellus","Brown-chested Lapwing",LC,U
+171,169,"tectus","Vanellus","Black-headed Lapwing",LC,U
+172,168,"gregarius","Vanellus","Sociable Lapwing",CR,U
+174,173,"leucurus","Vanellus","White-tailed Lapwing",LC,U
+175,173,"albiceps","Vanellus","White-headed Lapwing",LC,U
+176,166,"melanopterus","Vanellus","Black-winged Lapwing",LC,U
+180,179,"crassirostris","Vanellus","Long-toed Lapwing",LC,U
+181,179,"indicus","Vanellus","Red-wattled Lapwing",LC,U
+182,178,"cayanus","Vanellus","Pied Lapwing",LC,U
+183,177,"senegallus","Vanellus","Wattled Lapwing",LC,U
+192,191,"montanus","Charadrius","Mountain Plover",NT,U
+193,191,"peronii","Charadrius","Malaysian Plover",NT,U
+194,190,"obscurus","Charadrius","New Zealand Dotterel",EN,U
+196,195,"sanctaehelenae","Charadrius","St Helena Plover",CR,U
+197,195,"javanicus","Charadrius","Javan Plover",NT,U
+199,198,"marginatus","Charadrius","White-fronted Plover",LC,U
+200,198,"alexandrinus","Charadrius","Kentish Plover",LC,U
+206,205,"ruficapillus","Charadrius","Red-capped Plover",LC,U
+207,205,"wilsonia","Charadrius","Wilson's Plover",LC,U
+208,204,"bicinctus","Charadrius","Double-banded Plover",LC,U
+210,209,"falklandicus","Charadrius","Two-banded Plover",LC,U
+211,209,"alticola","Charadrius","Puna Plover",LC,U
+212,202,"collaris","Charadrius","Collared Plover",LC,U
+213,201,"australis","Charadrius","Inland Dotterel",LC,U
+217,216,"leschenaultii","Charadrius","Greater Sand Plover",LC,U
+218,216,"mongolus","Charadrius","Lesser Sand Plover",LC,U
+219,215,"veredus","Charadrius","Oriental Plover",LC,U
+220,214,"tricollaris","Charadrius","Three-banded Plover",LC,U
+221,185,"frontalis","Anarhynchus","Wrybill",VU,U
+223,222,"cinctus","Erythrogonys","Red-kneed Dotterel",LC,U
+224,222,"thoracicus","Charadrius","Madagascar Plover",VU,U
+231,230,"novaeseelandiae","Thinornis","Shore Plover",EN,U
+232,230,"rubricollis","Thinornis","Hooded Plover",NT,U
+233,229,"melanops","Elseyornis","Black-fronted Dotterel",LC,U
+236,235,"dubius","Charadrius","Little Ringed Plover",LC,U
+237,235,"pecuarius","Charadrius","Kittlitz's Plover",LC,U
+238,234,"asiaticus","Charadrius","Caspian Plover",LC,U
+241,240,"hiaticula","Charadrius","Common Ringed Plover",LC,U
+242,240,"melodus","Charadrius","Piping Plover",NT,U
+244,243,"semipalmatus","Charadrius","Semipalmated Plover",LC,U
+245,243,"vociferus","Charadrius","Killdeer",LC,U
+248,247,"morinellus","Eudromias","Eurasian Dotterel",LC,U
+249,247,"forbesi","Charadrius","Forbes's Plover",LC,U
+250,246,"placidus","Charadrius","Long-billed Plover",LC,U
+253,252,"mitchellii","Phegornis","Diademed Sandpiper-plover",NT,U
+254,252,"pallidus","Charadrius","Chestnut-banded Plover",NT,U
+255,251,"modestus","Charadrius","Rufous-chested Plover",LC,U
+256,136,"ruficollis","Oreopholus","Tawny-throated Dotterel",LC,U
+266,265,"palliatus","Haematopus","American Oystercatcher",LC,U
+267,265,"bachmani","Haematopus","Black Oystercatcher",LC,U
+268,264,"ater","Haematopus","Blackish Oystercatcher",LC,U
+269,263,"leucopodus","Haematopus","Magellanic Oystercatcher",LC,U
+270,262,"fuliginosus","Haematopus","Sooty Oystercatcher",LC,U
+271,261,"moquini","Haematopus","African Oystercatcher",NT,U
+275,274,"finschi","Haematopus","South Island Oystercatcher",LC,U
+276,274,"unicolor","Haematopus","Variable Oystercatcher",LC,U
+277,273,"chathamensis","Haematopus","Chatham Oystercatcher",EN,U
+278,272,"ostralegus","Haematopus","Eurasian Oystercatcher",LC,U
+279,259,"longirostris","Haematopus","Pied Oystercatcher",LC,U
+285,284,"leucocephalus","Himantopus","White-headed Stilt",LC,U
+286,284,"mexicanus","Himantopus","Black-necked Stilt",LC,U
+287,283,"himantopus","Himantopus","Black-winged Stilt",LC,U
+288,282,"novaezelandiae","Himantopus","Black Stilt",CR,U
+289,281,"leucocephalus","Cladorhynchus","Banded Stilt",LC,U
+293,292,"americana","Recurvirostra","American Avocet",LC,U
+294,292,"andina","Recurvirostra","Andean Avocet",LC,U
+295,291,"avosetta","Recurvirostra","Pied Avocet",LC,U
+296,290,"novaehollandiae","Recurvirostra","Red-necked Avocet",LC,U
+297,257,"struthersii","Ibidorhyncha","Ibisbill",LC,U
+301,300,"apricaria","Pluvialis","Eurasian Golden Plover",LC,U
+302,300,"fulva","Pluvialis","Pacific Golden Plover",LC,U
+303,299,"dominica","Pluvialis","American Golden Plover",LC,U
+304,298,"squatarola","Pluvialis","Grey Plover",LC,U
+305,133,"aegyptius","Pluvianus","Egyptian Plover",LC,U
+313,312,"senegalensis","Burhinus","Senegal Thick-knee",LC,U
+314,312,"capensis","Burhinus","Spotted Thick-knee",LC,U
+315,311,"vermiculatus","Burhinus","Water Thick-knee",LC,U
+316,310,"oedicnemus","Burhinus","Eurasian Thick-knee",LC,U
+317,309,"grallarius","Burhinus","Bush Thick-knee",NT,U
+319,318,"bistriatus","Burhinus","Double-striped Thick-knee",LC,U
+320,318,"superciliaris","Burhinus","Peruvian Thick-knee",LC,U
+322,321,"recurvirostris","Esacus","Great Thick-knee",LC,U
+323,321,"giganteus","Esacus","Beach Thick-knee",NT,U
+326,325,"minor","Chionis","Black-faced Sheathbill",LC,U
+327,325,"albus","Chionis","Snowy Sheathbill",LC,U
+328,324,"socialis","Pluvianellus","Magellanic Plover",NT,U

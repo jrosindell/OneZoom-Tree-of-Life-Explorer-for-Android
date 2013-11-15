@@ -1,0 +1,123 @@
+index,parent,name1,name2,common,redlist,popstab
+12,11,"chionurus","Trogon","White-tailed Trogon",LC,U
+13,11,"viridis","Trogon","Green-backed Trogon",LC,U
+14,10,"bairdii","Trogon","Baird's Trogon",NT,U
+16,15,"melanocephalus","Trogon","Black-headed Trogon",LC,U
+17,15,"citreolus","Trogon","Citreoline Trogon",LC,U
+20,19,"curucui","Trogon","Blue-crowned Trogon",LC,U
+21,19,"surrucura","Trogon","Surucua Trogon",LC,U
+22,18,"violaceus","Trogon","Violaceous Trogon",LC,U
+27,26,"melanurus","Trogon","Black-tailed Trogon",LC,U
+28,26,"massena","Trogon","Slaty-tailed Trogon",LC,U
+29,25,"comptus","Trogon","White-eyed Trogon",LC,U
+30,24,"clathratus","Trogon","Lattice-tailed Trogon",LC,U
+31,23,"mesurus","Trogon","Ecuadorian Trogon",LC,U
+38,37,"aurantiiventris","Trogon","Orange-bellied Trogon",LC,U
+39,37,"collaris","Trogon","Collared Trogon",LC,U
+40,36,"personatus","Trogon","Masked Trogon",LC,U
+41,35,"mexicanus","Trogon","Mountain Trogon",LC,U
+42,34,"elegans","Trogon","Elegant Trogon",LC,U
+43,33,"rufus","Trogon","Black-throated Trogon",LC,U
+44,32,"caligatus","Trogon","Gartered Trogon",LC,U
+46,45,"roseigaster","Priotelus","Hispaniolan Trogon",NT,U
+47,45,"temnurus","Priotelus","Cuban Trogon",LC,U
+57,56,"erythrocephalus","Harpactes","Red-headed Trogon",LC,U
+58,56,"whiteheadi","Harpactes","Whitehead's Trogon",NT,U
+59,55,"ardens","Harpactes","Philippine Trogon",LC,U
+60,54,"wardi","Harpactes","Ward's Trogon",NT,U
+61,53,"kasumba","Harpactes","Red-naped Trogon",NT,U
+62,52,"diardii","Harpactes","Diard's Trogon",NT,U
+63,51,"fasciatus","Harpactes","Malabar Trogon",LC,U
+64,50,"oreskios","Harpactes","Orange-breasted Trogon",LC,U
+66,65,"orrhophaeus","Harpactes","Cinnamon-rumped Trogon",NT,U
+67,65,"duvaucelii","Harpactes","Scarlet-rumped Trogon",NT,U
+70,69,"aequatoriale","Apaloderma","Bare-cheeked Trogon",LC,U
+71,69,"narina","Apaloderma","Narina Trogon",LC,U
+72,68,"vittatum","Apaloderma","Bar-tailed Trogon",LC,U
+78,77,"fulgidus","Pharomachrus","White-tipped Quetzal",LC,U
+79,77,"antisianus","Pharomachrus","Crested Quetzal",LC,U
+81,80,"auriceps","Pharomachrus","Golden-headed Quetzal",LC,U
+82,80,"pavoninus","Pharomachrus","Pavonine Quetzal",LC,U
+83,75,"mocinno","Pharomachrus","Resplendent Quetzal",NT,U
+84,74,"neoxenus","Euptilotis","Eared Quetzal",NT,U
+86,85,"mackloti","Apalharpactes","Sumatran Trogon",LC,U
+87,85,"reinwardtii","Apalharpactes","Javan Trogon",EN,U
+88,1,"discolor","Leptosomus","Cuckoo-roller",LC,U
+106,105,"peruanum","Glaucidium","Peruvian Pygmy-owl",LC,U
+107,105,"siju","Glaucidium","Cuban Pygmy-owl",LC,U
+108,104,"brasilianum","Glaucidium","Ferruginous Pygmy-owl",LC,U
+109,103,"nanum","Glaucidium","Austral Pygmy-owl",LC,U
+110,102,"griseiceps","Glaucidium","Central American Pygmy-owl",LC,U
+111,101,"hardyi","Glaucidium","Amazonian Pygmy-owl",LC,U
+114,113,"parkeri","Glaucidium","Subtropical Pygmy-owl",LC,U
+115,113,"jardinii","Glaucidium","Andean Pygmy-owl",LC,U
+116,112,"bolivianum","Glaucidium","Yungas Pygmy-owl",LC,U
+119,118,"californicum","Glaucidium","Northern Pygmy Owl",_U,[
+120,118,"gnoma","Glaucidium","Northern Pygmy-owl",LC,U
+121,117,"minutissimum","Glaucidium","Least Pygmy-owl",LC,U
+124,123,"perlatum","Glaucidium","Pearl-spotted Owlet",LC,U
+125,123,"palmarum","Glaucidium","Colima Pygmy-owl",LC,U
+127,126,"castanopterum","Glaucidium","Javan Owlet",LC,U
+128,126,"castaneum","Glaucidium","Chestnut Owlet",LC,U
+133,132,"castanonotum","Glaucidium","Chestnut-backed Owlet",NT,U
+134,132,"mooreorum","Glaucidium","Pernambuco Pygmy-owl",CR,U
+135,131,"sanchezi","Glaucidium","Tamaulipas Pygmy-owl",LC,U
+137,136,"passerinum","Glaucidium","Eurasian Pygmy-owl",LC,U
+138,136,"brodiei","Glaucidium","Collared Owlet",LC,U
+143,142,"costaricanum","Glaucidium","Costa Rican Pygmy-owl",LC,U
+144,142,"tephronotum","Glaucidium","Red-chested Owlet",LC,U
+145,141,"nubicola","Glaucidium","Cloud-forest Pygmy-owl",VU,U
+146,140,"albertinum","Glaucidium","Albertine Owlet",VU,U
+147,139,"sjostedti","Glaucidium","Sjostedt's Owlet",LC,U
+150,149,"cuculoides","Glaucidium","Asian Barred Owlet",LC,U
+151,149,"capense","Glaucidium","African Barred Owlet",LC,U
+152,148,"radiatum","Glaucidium","Jungle Owlet",LC,U
+153,95,"ulula","Surnia","Northern Hawk Owl",LC,U
+157,156,"brama","Athene","Spotted Owlet",LC,U
+158,156,"noctua","Athene","Little Owl",LC,U
+159,155,"cunicularia","Athene","Burrowing Owl",LC,U
+160,154,"blewitti","Heteroglaux","Forest Owlet",CR,U
+164,163,"ridgwayi","Aegolius","Southern Saw-whet Owl",LC,U
+165,163,"acadicus","Aegolius","Northern Saw-whet Owl",LC,U
+166,162,"harrisii","Aegolius","Buff-fronted Owl",LC,U
+167,161,"funereus","Aegolius","Boreal Owl",LC,U
+168,92,"whitneyi","Micrathene","Elf Owl",LC,U
+178,177,"natalis","Ninox","Christmas Island Hawk-owl",VU,U
+179,177,"squamipila","Ninox","Moluccan Hawk-owl",LC,U
+181,180,"novaeseelandiae","Ninox","Southern Boobook",LC,U
+182,180,"boobook","Ninox","Southern Boobook",_U,[
+183,175,"rudolfi","Ninox","Sumba Boobook",NT,U
+186,185,"burhani","Ninox","Togian Hawk-owl",NT,U
+187,185,"odiosa","Ninox","Russet Hawk-owl",VU,U
+189,188,"affinis","Ninox","Andaman Hawk-owl",NT,U
+190,188,"connivens","Ninox","Barking Owl",LC,U
+193,192,"sumbaensis","Ninox","Little Sumba Hawk-owl",NT,U
+194,192,"philippensis","Ninox","Philippine Hawk-owl",LC,U
+196,195,"superciliaris","Ninox","White-browed Hawk-owl",LC,U
+197,195,"ios","Ninox","Cinnabar Hawk-owl",VU,U
+200,199,"ochracea","Ninox","Ochre-bellied Hawk-owl",NT,U
+201,199,"strenua","Ninox","Powerful Owl",LC,U
+203,202,"variegata","Ninox","Bismarck Hawk-owl",LC,U
+204,202,"rufa","Ninox","Rufous Owl",LC,U
+208,207,"punctulata","Ninox","Speckled Hawk-owl",LC,U
+209,207,"meeki","Ninox","Manus Hawk-owl",LC,U
+210,206,"scutulata","Ninox","Brown Hawk-owl",LC,U
+211,205,"jacquinoti","Ninox","Solomons Hawk-owl",LC,U
+212,170,"theomacha","Ninox","Jungle Hawk-owl",LC,U
+214,213,"loweryi","Xenoglaux","Long-whiskered Owlet",EN,U
+215,213,"dimorpha","Uroglaux","Papuan Hawk-owl",DD,U
+223,222,"longimembris","Tyto","Eastern Grass-owl",LC,U
+224,222,"capensis","Tyto","African Grass-owl",LC,U
+225,221,"novaehollandiae","Tyto","Australian Masked-owl",LC,U
+226,220,"tenebricosa","Tyto","Sooty Owl",LC,U
+228,227,"inexspectata","Tyto","Sulawesi Golden Owl",VU,U
+229,227,"aurantia","Tyto","Bismarck Masked-owl",VU,U
+233,232,"glaucops","Tyto","Ashy-faced Owl",LC,U
+234,232,"alba","Tyto","Barn Owl",LC,U
+235,231,"manusi","Tyto","Manus Masked-owl",VU,U
+237,236,"nigrobrunnea","Tyto","Taliabu Masked-owl",EN,U
+238,236,"rosenbergii","Tyto","Sulawesi Owl",LC,U
+240,239,"soumagnei","Tyto","Madagascar Red Owl",VU,U
+241,239,"sororcula","Tyto","Lesser Masked-owl",DD,U
+243,242,"prigoginei","Phodilus","Congo Bay-owl",EN,U
+244,242,"badius","Phodilus","Oriental Bay-owl",LC,U

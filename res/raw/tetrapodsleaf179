@@ -1,0 +1,118 @@
+index,parent,name1,name2,common,redlist,popstab
+16,15,"caudolineatus","Varanus","",NE,U
+17,15,"gilleni","Varanus","",NE,U
+19,18,"brevicauda","Varanus","",NE,U
+20,18,"eremius","Varanus","",NE,U
+23,22,"acanthurus","Varanus","",NE,U
+24,22,"storri","Varanus","",NE,U
+25,21,"primordius","Varanus","",NE,U
+30,29,"mitchelli","Varanus","",NE,U
+31,29,"semiremex","Varanus","",NE,U
+32,28,"timorensis","Varanus","",NE,U
+33,27,"tristis","Varanus","",NE,U
+34,26,"pilbarensis","Varanus","",NE,U
+39,38,"panoptes","Varanus","",NE,U
+40,38,"gouldii","Varanus","",NE,U
+41,37,"giganteus","Varanus","",NE,U
+43,42,"mertensi","Varanus","",NE,U
+44,42,"spenceri","Varanus","",NE,U
+46,45,"komodoensis","Varanus","Komodo Dragon",VU,U
+47,45,"varius","Varanus","",NE,U
+51,50,"bengalensis","Varanus","",NE,U
+52,50,"dumerilii","Varanus","",NE,U
+54,53,"rudicollis","Varanus","",NE,U
+55,53,"salvator","Varanus","",NE,U
+57,56,"beccari","Varanus","",NE,U
+58,56,"indicus","Varanus","",NE,U
+61,60,"exanthematicus","Varanus","",NE,U
+62,60,"niloticus","Varanus","",NE,U
+63,59,"griseus","Varanus","",NE,U
+64,8,"borneensis","Lanthanotus","",NE,U
+65,7,"suspectum","Heloderma","Gila Monster",NT,D
+74,73,"salvadorensis","Abronia","",NE,U
+75,73,"montecristoi","Abronia","",CR,U
+76,72,"taeniata","Abronia","",VU,D
+77,71,"martindelcampi","Abronia","",NE,U
+78,70,"deppii","Abronia","",EN,D
+81,80,"monticolus","Mesaspis","",NE,U
+82,80,"moreleti","Mesaspis","",NE,U
+83,79,"gadovii","Mesaspis","",LC,S
+84,68,"imbricata","Barisia","",LC,U
+85,67,"liocephalus","Gerrhonotus","",LC,S
+89,88,"multicarinata","Elgaria","Southern Alligator Lizard",LC,D
+90,88,"paucicarinata","Elgaria","",LC,S
+91,87,"kingii","Elgaria","Madrean Alligator Lizard",LC,S
+92,86,"coerulea","Elgaria","Northern Alligator Lizard",LC,S
+104,103,"attenuatus","Ophisaurus","Slender Glass Lizard",LC,S
+105,103,"ventralis","Ophisaurus","Eastern Glass Lizard",LC,S
+106,102,"compressus","Ophisaurus","Island Glass Lizard",LC,D
+108,107,"sokolovi","Ophisaurus","",NE,U
+109,107,"gracilis","Ophisaurus","",NE,U
+110,100,"harti","Ophisaurus","",NE,U
+113,112,"intermedius","Ophiodes","",NE,U
+114,112,"vertebralis","Ophiodes","",NE,U
+115,111,"striatus","Ophiodes","",NE,U
+120,119,"millepunctatus","Diploglossus","",NE,U
+121,119,"bilobatus","Diploglossus","",NE,U
+123,122,"delasagra","Diploglossus","",NE,U
+124,122,"pleei","Diploglossus","",NE,U
+126,125,"darlingtoni","Diploglossus","",NE,U
+127,125,"curtisi","Diploglossus","",NE,U
+129,128,"fasciatus","Diploglossus","",NE,U
+130,128,"lessonae","Diploglossus","",NE,U
+133,132,"sepsoides","Sauresia","",NE,U
+134,132,"haetiana","Wetmorena","",NE,U
+135,131,"fragilis","Anguis","",NE,U
+142,141,"occiduus","Celestus","Jamaica Giant Galliwasp",EX,U
+143,141,"hewardii","Celestus","",NE,U
+144,140,"badius","Celestus","",NE,U
+146,145,"crusculus","Celestus","",NE,U
+147,145,"barbouri","Celestus","",NE,U
+148,138,"fowleri","Celestus","",DD,U
+150,149,"rozellae","Celestus","",NT,D
+151,149,"sternus","Celestus","",NE,U
+153,152,"stenurus","Celestus","",NE,U
+154,152,"costatus","Celestus","",NE,U
+156,155,"pulchra","Anniella","Black Legless Lizard",LC,D
+157,155,"geronimensis","Anniella","",EN,D
+158,94,"grandis","Xenosaurus","",VU,D
+159,93,"crocodilurus","Shinisaurus","",NE,U
+166,165,"boulengeri","Trachyboa","Northern Eyelash Boa",NE,U
+167,165,"haetianus","Tropidophis","Haitian Dwarf Boa",NE,U
+168,164,"scytale","Anilius","False Coral Snake",NE,U
+176,175,"breuili","Tetracheilostoma","",NE,U
+177,175,"leptepileptus","Mitophis","",NE,U
+179,178,"macrolepis","Tricheilostoma","",NE,U
+180,178,"humilis","Rena","",NE,U
+181,173,"septemstriatus","Siagonodon","Seven-striped Blind Snake",NE,U
+182,172,"columbi","Epictia","San Salvador Blind Snake",NE,U
+183,171,"sp.","Rhinoleptus","Villiers' Blind Snake",NE,U
+186,185,"occidentalis","Namibiana","Western Thread Snake",NE,U
+187,185,"conjunctus","Leptotyphlops","Cape Thread Snake",NE,U
+188,184,"adleri","Myriopholis","Adler's Worm Snake",NE,U
+196,195,"punctatus","Afrotyphlops","Spotted Blind Snake",NE,U
+197,195,"mucroso","Megatyphlops","",NE,U
+198,194,"obtusa","Letheobia","",NE,U
+199,193,"feae","Rhinotyphlops","",NE,U
+200,192,"jamaicensis","Typhlops","",NE,U
+203,202,"subocularis","Acutotyphlops","",NE,U
+204,202,"splendidus","Austrotyphlops","",NE,U
+206,205,"braminus","Ramphotyphlops","",NE,U
+207,205,"pushpakumara","Typhlops","",NE,U
+208,190,"grandidieri","Xenotyphlops","",CR,U
+209,189,"mirus","Gerrhopilus","Jan's Worm Snake",NE,U
+211,210,"albirostris","Liotyphlops","Whitenose Blind Snake",NE,U
+212,210,"squamosus","Typhlophis","Trinidad Blind Snake",NE,U
+223,222,"fuliginosa","Amphisbaena","",NE,U
+224,222,"schmidti","Amphisbaena","",NE,U
+225,221,"barbouri","Amphisbaena","",NE,U
+227,226,"caeca","Amphisbaena","",NE,U
+228,226,"alba","Amphisbaena","",NE,U
+229,219,"manni","Amphisbaena","",NE,U
+230,218,"darwini","Amphisbaena","Darwin's Ringed Worm Lizard",NE,U
+232,231,"canaliculatus","Bipes","Four-toed Worm Lizard",LC,S
+233,231,"biporus","Bipes","Five-toed Worm Lizard",LC,S
+234,216,"microcephalum","Leposternon","",NE,U
+235,215,"cinereus","Blanus","Iberian Worm Lizard",LC,S
+236,214,"acutus","Geocalamus","",NE,U
+237,213,"novaeguineae","Dibamus","",NE,U

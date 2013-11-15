@@ -1,0 +1,121 @@
+index,parent,name1,name2,common,redlist,popstab
+15,14,"platycephalus","Crossarchus","Cameroon Cusimanse",LC,U
+16,14,"obscurus","Crossarchus","Common Cusimanse",LC,U
+17,13,"alexandri","Crossarchus","Alexander's Cusimanse",LC,D
+18,12,"ansorgei","Crossarchus","Ansorge's Cusimanse",DD,U
+21,20,"hirtula","Helogale","Somali Dwarf Mongoose",LC,S
+22,20,"parvula","Helogale","Common Dwarf Mongoose",LC,S
+24,23,"gambianus","Mungos","Gambian Mongoose",LC,S
+25,23,"mungo","Mungos","Banded Mongoose",LC,S
+26,10,"albicauda","Ichneumia","White-tailed Mongoose",LC,S
+27,9,"suricatta","Suricata","Meerkat",LC,U
+30,29,"crassicauda","Bdeogale","Bushy-tailed Mongoose",LC,U
+31,29,"nigripes","Bdeogale","Black-footed Mogoose",LC,D
+32,28,"jacksoni","Bdeogale","Jackson's Mongoose",NT,D
+33,7,"kuhni","Liberiictis","Liberian Mongoose",VU,D
+35,34,"selousi","Paracynictis","Selous' Mongoose",LC,U
+36,34,"penicillata","Cynictis","Yellow Mongoose",LC,S
+44,43,"javanicus","Herpestes","Small Asian Mongoose",LC,U
+45,43,"edwardsi","Herpestes","",NE,U
+46,42,"urva","Herpestes","Crab-eating Mongoose",LC,S
+48,47,"brachyurus","Herpestes","Short-tailed Mongoose",LC,U
+49,47,"fuscus","Herpestes","Indian Brown Mongoose",VU,D
+50,40,"naso","Herpestes","Long-nosed Mongoose",LC,D
+52,51,"vitticollis","Herpestes","Stripe-necked Mongoose",LC,S
+53,51,"smithii","Herpestes","Ruddy Mongoose",LC,D
+55,54,"semitorquatus","Herpestes","Collared Mongoose",DD,D
+56,54,"ichneumon","Herpestes","Egyptian Mongoose",LC,S
+59,58,"pulverulenta","Galerella","",NE,U
+60,58,"flavescens","Galerella","",NE,U
+62,61,"sanguinea","Galerella","",NE,U
+63,61,"ochracea","Galerella","",NE,U
+64,4,"dybowskii","Dologale","Pousargues' Mongoose",DD,U
+66,65,"melleri","Rhynchogale","Meller's Mongoose",LC,U
+67,65,"paludinosus","Atilax","Marsh Mongoose",LC,D
+72,71,"grandidieri","Galidictis","Giant-striped Mongoose",EN,D
+73,71,"fasciata","Galidictis","Broad-striped Mongoose",NT,D
+74,70,"elegans","Galidia","Malagasy Ring-tailed Mongoose",LC,U
+75,69,"decemlineata","Mungotictis","Malagasy Narrow-striped Mongoose",VU,U
+76,68,"concolor","Salanoia","Brown-tailed Mongoose",VU,U
+88,87,"maculata","Genetta","Central African Large-spotted Genet",LC,U
+89,87,"pardina","Genetta","West African Large-spotted Genet",LC,U
+90,86,"poensis","Genetta","King Genet",DD,U
+91,85,"angolensis","Genetta","Miombo Genet",LC,U
+94,93,"abyssinica","Genetta","Ethiopian Genet",LC,U
+95,93,"thierryi","Genetta","Hausa Genet",LC,U
+96,92,"johnstoni","Genetta","Johnston's Genet",VU,D
+98,97,"tigrina","Genetta","South African Large-spotted Genet",LC,U
+99,97,"genetta","Genetta","Common Genet",LC,S
+102,101,"servalina","Genetta","Servaline Genet",LC,U
+103,101,"cristata","Genetta","Crested Genet",VU,D
+104,100,"victoriae","Genetta","Giant Genet",LC,U
+107,106,"pardicolor","Prionodon","Spotted Linsang",LC,U
+108,106,"linsang","Prionodon","Banded Linsang",LC,D
+110,109,"richardsonii","Poiana","African Linsang",LC,U
+111,109,"leightoni","Poiana","Leighton's Linsang",DD,D
+112,80,"piscivora","Genetta","Aquatic Genet",DD,U
+117,116,"megaspila","Viverra","Large-spotted Civet",VU,D
+118,116,"civettina","Viverra","Malabar Civet",CR,U
+120,119,"zibetha","Viverra","Large Indian Civet",NT,D
+121,119,"tangalunga","Viverra","Malay Civet",LC,S
+122,114,"indica","Viverricula","Small Indian Civet",LC,S
+123,113,"civetta","Civettictis","African Civet",LC,U
+131,130,"zeylonensis","Paradoxurus","Golden Palm Civet",VU,D
+132,130,"jerdoni","Paradoxurus","Brown Palm Civet",LC,U
+133,129,"hermaphroditus","Paradoxurus","Common Palm Civet",LC,S
+135,134,"larvata","Paguma","Masked Palm Civet",LC,D
+136,134,"binturong","Arctictis","Binturong",VU,D
+137,127,"musschenbroekii","Macrogalidia","Brown Palm Civet",VU,D
+138,126,"trivirgata","Arctogalidia","Small-toothed Palm Civet",LC,D
+139,125,"binotata","Nandinia","African Palm Civet",LC,U
+143,142,"owstoni","Chrotogale","Owston's Civet",VU,D
+144,142,"hosei","Diplogale","Hose's Civet",VU,D
+145,141,"derbyanus","Hemigalus","Banded Civit",VU,D
+146,140,"bennettii","Cynogale","Otter-civet",EN,U
+149,148,"goudotii","Eupleres","Falanouc",NT,D
+150,148,"fossana","Fossa","Fanaloka",NT,D
+151,147,"ferox","Cryptoprocta","Fossa",VU,D
+166,165,"pardus","Panthera","Leopard",NT,D
+167,165,"leo","Panthera","Lion",VU,D
+168,164,"onca","Panthera","Jaguar",NT,D
+169,163,"tigris","Panthera","Tiger",EN,D
+170,162,"uncia","Uncia","Snow Leopard",NE,U
+171,161,"nebulosa","Neofelis","Clouded Leopard",VU,D
+172,160,"marmorata","Pardofelis","Marbled Cat",VU,D
+176,175,"canadensis","Lynx","Canada Lynx",LC,S
+177,175,"lynx","Lynx","Eurasian Lynx",LC,S
+178,174,"pardinus","Lynx","Iberian Lynx",CR,D
+179,173,"rufus","Lynx","Bobcat",LC,S
+182,181,"temminckii","Catopuma","Asiatic golden cat",NE,U
+183,181,"badia","Catopuma","Bornean cat",NE,U
+184,180,"aurata","Profelis","African golden cat",NE,U
+190,189,"braccatus","Leopardus","Pantanal cat",NE,U
+191,189,"pajeros","Leopardus","Pampas cat",NE,U
+192,188,"colocolo","Leopardus","Colocolo",NT,D
+193,187,"jacobitus","Leopardus","Andean mountain cat",NE,U
+196,195,"guigna","Leopardus","Chilean Cat",VU,D
+197,195,"tigrinus","Leopardus","Oncilla",VU,D
+198,194,"geoffroyi","Leopardus","Geoffroy's Cat",NT,D
+200,199,"pardalis","Leopardus","Ocelot",LC,D
+201,199,"wiedii","Leopardus","Margay",NT,D
+208,207,"nigripes","Felis","Black-footed Cat",VU,D
+209,207,"margarita","Felis","Sand Cat",NT,U
+211,210,"silvestris","Felis","Wild Cat",LC,D
+212,210,"catus","Felis","",NE,U
+214,213,"chaus","Felis","Jungle Cat",LC,D
+215,213,"bieti","Felis","",NE,U
+216,204,"manul","Felis","",NE,U
+217,203,"caracal","Caracal","Caracal",LC,U
+218,202,"serval","Leptailurus","Serval",LC,S
+223,222,"bengalensis","Prionailurus","Leopard Cat",LC,S
+224,222,"iriomotensis","Prionailurus","",NE,U
+225,221,"viverrinus","Prionailurus","Fishing Cat",EN,D
+226,220,"rubiginosus","Prionailurus","Rusty-spotted Cat",VU,D
+227,219,"planiceps","Prionailurus","Flat-headed Cat",EN,D
+229,228,"yagouaroundi","Puma","Jaguarundi",LC,D
+230,228,"concolor","Puma","Puma",LC,D
+231,153,"jubatus","Acinonyx","Cheetah",VU,D
+235,234,"hyaena","Hyaena","Striped Hyaena",NT,D
+236,234,"brunnea","Hyaena","Brown Hyaena",NT,D
+237,233,"crocuta","Crocuta","Spotted Hyaena",LC,D
+238,232,"cristata","Proteles","Aardwolf",LC,S

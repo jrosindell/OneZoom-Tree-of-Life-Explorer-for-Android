@@ -1,0 +1,146 @@
+index,parent,name1,name2,common,redlist,popstab
+12,11,"palustris","Lithobates","Pickerel Frog",LC,S
+13,11,"maculatus","Lithobates","",LC,D
+14,10,"vaillanti","Lithobates","",LC,S
+16,15,"sphenocephalus","Lithobates","Southern Leopard Frog",LC,S
+17,15,"taylori","Lithobates","",LC,U
+21,20,"magnaocularis","Lithobates","Northwest Mexico Leopard Frog",LC,U
+22,20,"warszewitschii","Lithobates","",LC,I
+23,19,"capito","Lithobates","Gopher Frog",NT,D
+24,18,"miadis","Lithobates","",VU,S
+26,25,"tlaloci","Lithobates","Tlaloc's Leopard Frog",CR,D
+27,25,"dunni","Lithobates","",EN,D
+32,31,"macroglossa","Lithobates","",VU,D
+33,31,"bwana","Lithobates","",VU,D
+34,30,"johni","Lithobates","",EN,D
+35,29,"pipiens","Lithobates","Northern Leopard Frog",LC,D
+36,28,"palmipes","Lithobates","",LC,S
+40,39,"onca","Lithobates","Relict Leopard Frog",EN,D
+41,39,"sierramadrensis","Lithobates","",VU,D
+42,38,"chiricahuensis","Lithobates","Chiricahua Leopard Frog",VU,D
+43,37,"blairi","Lithobates","Plains Leopard Frog",LC,D
+48,47,"areolatus","Lithobates","Crawfish Frog",NT,D
+49,47,"juliani","Lithobates","",NT,S
+51,50,"pustulosus","Lithobates","",LC,S
+52,50,"megapoda","Lithobates","",VU,D
+54,53,"chichicuahutla","Lithobates","",CR,D
+55,53,"pueblae","Lithobates","",CR,D
+59,58,"vibicarius","Lithobates","Green-eyed Frog",CR,D
+60,58,"spectabilis","Lithobates","",LC,D
+61,57,"tarahumarae","Lithobates","Tarahumara Frog",VU,D
+62,56,"neovolcanicus","Lithobates","Transverse Volcanic Leopard Frog",NT,D
+67,66,"fisheri","Lithobates","Las Vegas Leopard Frog",EX,U
+68,66,"psilonota","Lithobates","",DD,U
+69,65,"berlandieri","Lithobates","Rio Grande Leopard Frog",LC,S
+71,70,"omiltemanus","Lithobates","Guerreran Leopard Frog",CR,D
+72,70,"montezumae","Lithobates","",LC,D
+76,75,"zweifeli","Lithobates","",LC,S
+77,75,"forreri","Lithobates","",LC,S
+78,74,"sevosus","Lithobates","Dusky Gopher Frog",CR,D
+80,79,"lemosespinali","Lithobates","",DD,U
+81,79,"yavapaiensis","Lithobates","",LC,D
+86,85,"okaloosae","Lithobates","Florida Bog Frog",VU,U
+87,85,"sylvaticus","Lithobates","Wood Frog",LC,S
+89,88,"catesbeianus","Lithobates","American Bullfrog",LC,I
+90,88,"grylio","Lithobates","Pig Frog",LC,D
+91,83,"clamitans","Lithobates","Green Frog",LC,S
+94,93,"virgatipes","Lithobates","Carpenter Frog",LC,U
+95,93,"heckscheri","Lithobates","River Frog",LC,S
+96,92,"septentrionalis","Lithobates","Mink Frog",LC,S
+107,106,"macrocnemis","Rana","Long-legged Wood Frog",LC,D
+108,106,"dalmatina","Rana","Agile Frog",LC,D
+109,105,"okinavana","Rana","",NE,U
+110,104,"temporaria","Rana","European Common Frog",LC,S
+112,111,"asiatica","Rana","Central Asiatic Frog",LC,D
+113,111,"chaochiaoensis","Rana","",LC,U
+114,102,"pyrenaica","Rana","Pyrenean Frog",EN,D
+115,101,"latastei","Rana","Italian Agile Frog",VU,D
+119,118,"iberica","Rana","Iberian Frog",NT,D
+120,118,"zhengi","Rana","",DD,U
+121,117,"tsushimensis","Rana","Tsushima Brown Frog",LC,S
+122,116,"huanrenensis","Rana","",NE,U
+127,126,"chensinensis","Rana","Asiatic Grass Frog",LC,D
+128,126,"dybowskii","Rana","",LC,S
+129,125,"ornativentris","Rana","Montane Brown Frog",LC,S
+132,131,"kunyuensis","Rana","",DD,U
+133,131,"pirica","Rana","",LC,S
+134,130,"kukunoris","Rana","",LC,U
+137,136,"italica","Rana","Italian Stream Frog",LC,S
+138,136,"graeca","Rana","Greek Stream Frog",LC,S
+139,135,"arvalis","Rana","Altai Brown Frog",LC,S
+144,143,"multidenticulata","Rana","",LC,S
+145,143,"johnsi","Rana","",LC,U
+146,142,"weiningensis","Rana","",NE,U
+147,141,"sangzhiensis","Rana","",NE,U
+148,140,"sauteri","Rana","",EN,D
+156,155,"japonica","Rana","Japanese Brown Frog",LC,D
+157,155,"longicrus","Rana","",VU,D
+158,154,"amurensis","Rana","Siberian Wood Frog",LC,S
+159,153,"sakuraii","Rana","Stream Brown Frog",LC,S
+161,160,"zhenhaiensis","Rana","",LC,U
+162,160,"chevronta","Rana","",CR,D
+163,151,"omeimontis","Rana","",LC,D
+164,150,"tagoi","Rana","",LC,S
+168,167,"muscosa","Rana","Southern Mountain Yellow-legged Frog",EN,D
+169,167,"pretiosa","Rana","Oregon Spotted Frog",VU,D
+171,170,"aurora","Rana","Northern Red-legged Frog",LC,S
+172,170,"boylii","Rana","",NT,D
+174,173,"luteiventris","Rana","Columbia Spotted Frog",LC,D
+175,173,"cascadae","Rana","Cascades Frog",NT,D
+187,186,"sumatrana","Huia","Sumatran Torrent Frog",LC,D
+188,186,"lungshengensis","Huia","",NE,U
+189,185,"jingdongensis","Huia","",NE,U
+191,190,"hainanensis","Huia","",NE,U
+192,190,"versabilis","Huia","",NE,U
+196,195,"grahami","Huia","",NE,U
+197,195,"narina","Huia","",NE,U
+198,194,"livida","Huia","",NE,U
+200,199,"wuchuanensis","Huia","",NE,U
+201,199,"ishikawae","Huia","",NE,U
+203,202,"kuangwuensis","Huia","",NE,U
+204,202,"swinhoana","Huia","",NE,U
+210,209,"chapaensis","Huia","",NE,U
+211,209,"bacboensis","Huia","",NE,U
+212,208,"amamiensis","Huia","",NE,U
+213,207,"melasma","Huia","",NE,U
+214,206,"chloronota","Huia","",NE,U
+216,215,"exiliversabilis","Huia","",NE,U
+217,215,"bolavensis","Huia","",NE,U
+222,221,"archotaphus","Huia","",NE,U
+223,221,"hmongorum","Huia","",NE,U
+224,220,"khalam","Huia","",NE,U
+226,225,"masonii","Huia","Javan Torrent Frog",VU,D
+227,225,"heatwolei","Huia","",NE,U
+231,230,"nasuta","Huia","",NE,U
+232,230,"nasica","Huia","",NE,U
+233,229,"graminea","Huia","",NE,U
+235,234,"trankieni","Huia","",NE,U
+236,234,"hosii","Huia","",NE,U
+242,241,"margaretae","Huia","",NE,U
+243,241,"absita","Huia","",NE,U
+244,240,"utsunomiyaorum","Huia","",NE,U
+245,239,"anlungensis","Huia","",NE,U
+247,246,"megatympanum","Huia","",NE,U
+248,246,"junlianensis","Huia","",NE,U
+250,249,"cavitympanum","Huia","Hole-in-the-head Frog",LC,D
+251,249,"andersonii","Huia","",NE,U
+258,257,"banaorum","Huia","",NE,U
+259,257,"orba","Huia","",NE,U
+260,256,"daorum","Huia","",NE,U
+261,255,"supranarina","Huia","",NE,U
+262,254,"leporipes","Huia","",NE,U
+263,253,"morafkai","Huia","",NE,U
+267,266,"hejiangensis","Huia","",NE,U
+268,266,"schmackeri","Huia","",NE,U
+269,265,"modiglianii","Huia","",DD,U
+270,264,"iriodes","Huia","",NE,U
+272,271,"tiannanensis","Huia","",NE,U
+273,271,"sinica","Huia","",NE,U
+278,277,"adenopleura","Babina","",LC,S
+279,277,"psaltes","Babina","",NE,U
+280,276,"chapaensis","Babina","Chapa Frog",LC,S
+281,275,"daunchina","Babina","Emei Music Frog",LC,S
+284,283,"holsti","Babina","Holst's Frog",EN,D
+285,283,"pleuraden","Babina","",LC,D
+287,286,"subaspera","Babina","",EN,D
+288,286,"lini","Babina","",DD,U

@@ -1,0 +1,103 @@
+index,parent,name1,name2,common,redlist,popstab
+14,13,"roraimae","Stefania","",DD,U
+15,13,"woodleyi","Stefania","",LC,U
+16,12,"oculosa","Stefania","",DD,U
+17,11,"tamacuarina","Stefania","",DD,U
+20,19,"breweri","Stefania","Brewer's Carrying Frog",DD,U
+21,19,"schuberti","Stefania","",VU,S
+22,18,"marahuaquensis","Stefania","",DD,U
+24,23,"evansi","Stefania","",LC,S
+25,23,"coxi","Stefania","",LC,S
+28,27,"ayangannae","Stefania","",LC,S
+29,27,"ackawaio","Stefania","",LC,S
+31,30,"scalae","Stefania","",LC,S
+32,30,"riae","Stefania","",DD,U
+36,35,"percristata","Stefania","",DD,U
+37,35,"satelles","Stefania","",NT,S
+39,38,"riveroi","Stefania","",VU,S
+40,38,"goini","Stefania","",DD,U
+41,33,"ginesi","Stefania","",LC,S
+44,43,"fuhrmanni","Cryptobatrachus","",VU,D
+45,43,"nicefori","Cryptobatrachus","",CR,D
+46,42,"boulengeri","Cryptobatrachus","",EN,D
+54,53,"milesi","Craugastor","Miles' Robber Frog",CR,U
+55,53,"rivulus","Craugastor","",VU,D
+57,56,"biporcatus","Craugastor","",NE,U
+58,56,"emcelae","Craugastor","",CR,D
+60,59,"epochthidius","Craugastor","",CR,D
+61,59,"inachus","Craugastor","",EN,D
+76,75,"kempffi","Phrynopus","",NE,U
+77,75,"paucari","Phrynopus","",DD,U
+78,74,"peruvianus","Phrynopus","",NE,U
+79,73,"peraccai","Phrynopus","",NE,U
+80,72,"brunneus","Phrynopus","",NE,U
+82,81,"carrascoicola","Phyllonastes","",NE,U
+83,81,"ritarasquinae","Phyllonastes","",NE,U
+87,86,"juninensis","Phrynopus","",CR,D
+88,86,"bracki","Phrynopus","",EN,D
+89,85,"myrmecoides","Phyllonastes","",NE,U
+90,84,"bufoides","Phrynopus","",DD,U
+91,69,"iatamasi","Phrynopus","",NE,U
+93,92,"lochites","Phyllonastes","",NE,U
+94,92,"dagmarae","Phrynopus","",CR,D
+98,97,"heimorum","Phrynopus","",CR,D
+99,97,"pinguis","Phrynopus","",NE,U
+100,96,"bagrecitoi","Phrynopus","",NE,U
+102,101,"columbianus","Phrynopus","",NE,U
+103,101,"cophites","Phrynopus","",NE,U
+107,106,"pesantesi","Phrynopus","",DD,U
+108,106,"lynchi","Phyllonastes","",NE,U
+109,105,"kauneorum","Phrynopus","",CR,D
+110,104,"adenobrachius","Phrynopus","",NE,U
+111,65,"pereger","Phrynopus","",NE,U
+112,64,"heyeri","Phyllonastes","",NE,U
+118,117,"wettsteini","Phrynopus","",NE,U
+119,117,"parkeri","Phrynopus","",NE,U
+120,116,"adenopleurus","Phrynopus","",NE,U
+121,115,"barthlenae","Phrynopus","",VU,S
+122,114,"nanus","Phrynopus","",NE,U
+123,113,"peruanus","Phrynopus","",DD,U
+126,125,"horstpauli","Phrynopus","",VU,S
+127,125,"thompsoni","Phrynopus","",DD,U
+128,124,"montium","Phrynopus","",EN,D
+133,132,"proboscideus","Hemiphractus","",LC,D
+134,132,"johnsoni","Hemiphractus","",EN,D
+135,131,"helioi","Hemiphractus","",LC,D
+136,130,"bubalus","Hemiphractus","",NT,D
+138,137,"fasciatus","Hemiphractus","",NT,D
+139,137,"scutatus","Hemiphractus","",LC,D
+144,143,"australis","Telmatobufo","",VU,D
+145,143,"bullocki","Telmatobufo","",CR,D
+146,142,"venustus","Telmatobufo","",EN,D
+147,141,"caudiverbera","Caudiverbera","",NE,U
+151,150,"gardineri","Sooglossus","Gardiner's Seychelles frog",NE,U
+152,150,"thomasseti","Sooglossus","",VU,U
+154,153,"pipilodryas","Sooglossus","Seychelles palm frog",NE,U
+155,153,"sechellensis","Sooglossus","",VU,U
+156,148,"sahyadrensis","Nasikabatrachus","Purple frog",EN,D
+168,167,"somalicus","Phrynomantis","Somali Rubber Frog",LC,U
+169,167,"affinis","Phrynomantis","Spotted Rubber Frog",LC,S
+170,166,"bifasciatus","Phrynomantis","Banded Rubber Frog",LC,S
+172,171,"microps","Phrynomantis","West African Rubber Frog",LC,S
+173,171,"annectens","Phrynomantis","Marbled Rubber Frog",LC,S
+174,164,"palmata","Paradoxophyla","",LC,U
+176,175,"inornata","Micryletta","Deli Paddy Frog",LC,S
+177,175,"steinegeri","Micryletta","",EN,D
+180,179,"mirandaribeiroi","Synapturanus","",LC,S
+181,179,"salseri","Synapturanus","",LC,S
+182,178,"rabus","Synapturanus","",LC,S
+191,190,"intermedius","Kalophrynus","",VU,D
+192,190,"eok","Kalophrynus","",DD,U
+193,189,"baluensis","Kalophrynus","",NT,S
+194,188,"minusculus","Kalophrynus","",VU,D
+196,195,"palmatissimus","Kalophrynus","",EN,D
+197,195,"punctatus","Kalophrynus","",VU,D
+198,186,"heterochirus","Kalophrynus","",LC,D
+202,201,"interlineatus","Kalophrynus","",LC,S
+203,201,"bunguranus","Kalophrynus","",DD,U
+205,204,"pleurostigma","Kalophrynus","",LC,S
+206,204,"nubicola","Kalophrynus","",NT,S
+208,207,"menglienicus","Kalophrynus","",DD,U
+209,207,"robinsoni","Kalophrynus","",DD,U
+210,184,"subterrestris","Kalophrynus","",NT,D
+211,183,"indicus","Melanobatrachus","",EN,D

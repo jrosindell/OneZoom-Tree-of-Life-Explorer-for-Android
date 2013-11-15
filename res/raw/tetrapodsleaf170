@@ -1,0 +1,135 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"sublineatus","Funambulus","Dusky-striped Squirrel",VU,D
+14,12,"layardi","Funambulus","Layard's Palm Squirrel",VU,D
+15,11,"palmarum","Funambulus","Common Palm Squirrel",LC,I
+16,10,"pennantii","Funambulus","Five-striped Palm Squirrel",LC,U
+17,9,"tristriatus","Funambulus","Western Ghats Striped Squirrel",LC,D
+20,19,"laticaudatus","Rhinosciurus","Shrew-faced Squirrel",NT,D
+21,19,"berdmorei","Menetes","Indochinese Ground Squirrel",LC,S
+22,18,"melanotis","Nannosciurus","Black-eared Squirrel",LC,D
+25,24,"nigrovittatus","Callosciurus","Black-striped Squirrel",NT,D
+26,24,"pygerythrus","Callosciurus","Hoary-bellied Squirrel",LC,U
+27,23,"albescens","Callosciurus","Kloss's Squirrel",DD,U
+31,30,"davidianus","Sciurotamias","Pere David's Rock Squirrel",LC,U
+32,30,"forresti","Sciurotamias","Forrest's Rock Squirrel",LC,U
+38,37,"rutilus","Xerus","Unstriped Ground Squirrel",LC,S
+39,37,"princeps","Xerus","Damara Ground Squirrel",LC,S
+40,36,"erythropus","Xerus","Geoffroy's Ground Squirrel",LC,S
+41,35,"inauris","Xerus","South African Ground Squirrel",LC,S
+42,34,"getulus","Atlantoxerus","Barbary Ground Squirrel",LC,S
+43,33,"leptodactylus","Spermophilopsis","Long-clawed Ground Squirrel",LC,U
+44,4,"pusillus","Sciurillus","Neotropical Pygmy Squirrel",DD,U
+45,3,"rufa","Aplodontia","Mountain Beaver",LC,S
+56,55,"platyops","Graphiurus","Rock Dormouse",LC,U
+57,55,"angolensis","Graphiurus","",DD,U
+58,54,"ocularis","Graphiurus","Namtap",LC,U
+59,53,"surdus","Graphiurus","Silent Dormouse",DD,U
+60,52,"christyi","Graphiurus","Christy's Dormouse",LC,U
+62,61,"lorraineus","Graphiurus","Lorrain Dormouse",LC,U
+63,61,"monardi","Graphiurus","Monard's Dormouse",DD,U
+67,66,"microtis","Graphiurus","Small-eared Dormouse",LC,U
+68,66,"murinus","Graphiurus","Woodland Dormouse",LC,S
+69,65,"rupicola","Graphiurus","Stone Dormouse",LC,U
+71,70,"kelleni","Graphiurus","Kellen's Dormouse",LC,U
+72,70,"johnstoni","Graphiurus","",DD,U
+73,49,"crassicaudatus","Graphiurus","Jentink's Dormouse",DD,U
+74,48,"nagtglasii","Graphiurus","",LC,U
+76,75,"japonicus","Glirulus","Japanese Dormouse",LC,U
+77,75,"glis","Glis","Edible Dormouse",LC,U
+83,82,"sichuanensis","Chaetocauda","Sichuan Dormouse",DD,U
+84,82,"laniger","Dryomys","Woolly Dormouse",DD,U
+85,81,"nitedula","Dryomys","Forest Dormouse",LC,U
+88,87,"melanurus","Eliomys","Asian Garden Dormouse",LC,U
+89,87,"munbyanus","Eliomys","",LC,S
+90,86,"quercinus","Eliomys","Garden Dormouse",NT,D
+94,93,"personatus","Myomimus","Masked Mouse-tailed Dormouse",DD,U
+95,93,"setzeri","Myomimus","Setzer's Mouse-tailed Dormouse",DD,U
+96,92,"roachi","Myomimus","Mouse-tailed Dormouse",VU,D
+97,91,"betpakdalaensis","Selevinia","Desert Dormouse",DD,U
+98,78,"avellanarius","Muscardinus","Common Dormouse",LC,U
+117,116,"timidus","Lepus","Mountain Hare",LC,U
+118,116,"othus","Lepus","Alaskan Hare",LC,U
+119,115,"arcticus","Lepus","Arctic Hare",LC,U
+120,114,"townsendii","Lepus","White-tailed Jackrabbit",LC,D
+123,122,"mandshuricus","Lepus","Manchurian Hare",LC,U
+124,122,"brachyurus","Lepus","Japanese Hare",LC,S
+126,125,"sinensis","Lepus","Chinese Hare",LC,U
+127,125,"coreanus","Lepus","Korean Hare",LC,U
+131,130,"corsicanus","Lepus","Corsican Hare",VU,D
+132,130,"castroviejoi","Lepus","Broom Hare",VU,D
+133,129,"europaeus","Lepus","European Hare",LC,D
+134,128,"granatensis","Lepus","Granada Hare",LC,S
+139,138,"flavigularis","Lepus","Tehuantepec Jackrabbit",EN,D
+140,138,"callotis","Lepus","White-sided Jackrabbit",NT,D
+141,137,"alleni","Lepus","Antelope Jackrabbit",LC,S
+143,142,"californicus","Lepus","Black-tailed Jackrabbit",LC,S
+144,142,"insularis","Lepus","Black Jackrabbit",NT,U
+145,135,"americanus","Lepus","Snowshoe Hare",LC,S
+147,146,"oiostolus","Lepus","Woolly Hare",LC,U
+148,146,"comus","Lepus","Yunnan Hare",LC,U
+152,151,"habessinicus","Lepus","Abyssinian Hare",LC,U
+153,151,"capensis","Lepus","Cape Hare",LC,D
+155,154,"tibetanus","Lepus","Desert Hare",LC,U
+156,154,"tolai","Lepus","Tolai Hare",LC,U
+157,149,"starcki","Lepus","Ethiopian Highland Hare",LC,U
+158,108,"yarkandensis","Lepus","Yarkand Hare",NT,D
+161,160,"microtis","Lepus","African Savanna Hare",LC,U
+162,160,"saxatilis","Lepus","Scrub Hare",LC,D
+163,159,"fagani","Lepus","Ethiopian Hare",DD,U
+166,165,"nigricollis","Lepus","Indian Hare",LC,U
+167,165,"peguensis","Lepus","Burmese Hare",LC,S
+168,164,"hainanus","Lepus","Hainan Hare",VU,D
+169,105,"cuniculus","Oryctolagus","European Rabbit",NT,D
+171,170,"marjorita","Poelagus","Bunyoro Rabbit",LC,S
+172,170,"hispidus","Caprolagus","Hispid Hare",EN,D
+181,180,"floridanus","Sylvilagus","Eastern Cottontail",LC,I
+182,180,"robustus","Sylvilagus","Robust Cottontail",EN,U
+183,179,"cognatus","Sylvilagus","Manzano Mountain Cottontail",DD,U
+185,184,"cunicularius","Sylvilagus","Mexican Cottontail",LC,U
+186,184,"graysoni","Sylvilagus","Tres Marias Cottontail",EN,D
+190,189,"dicei","Sylvilagus","Dice's Cottontail",DD,U
+191,189,"brasiliensis","Sylvilagus","Tapeti",LC,U
+192,188,"insonus","Sylvilagus","Omilteme Cottontail",EN,U
+194,193,"palustris","Sylvilagus","Marsh Rabbit",LC,U
+195,193,"aquaticus","Sylvilagus","Swamp Rabbit",LC,D
+196,176,"transitionalis","Sylvilagus","New England Cottontail",VU,D
+198,197,"nuttallii","Sylvilagus","Mountain Cottontail",LC,U
+199,197,"audubonii","Sylvilagus","Desert Cottontail",LC,S
+201,200,"mansuetus","Sylvilagus","San Jose Brush Rabbit",NT,U
+202,200,"bachmani","Sylvilagus","Brush Rabbit",LC,S
+204,203,"netscheri","Nesolagus","Sumatran Striped Rabbit",VU,U
+205,203,"idahoensis","Brachylagus","Pygmy Rabbit",LC,U
+206,102,"monticularis","Bunolagus","Riverine Rabbit",CR,D
+207,101,"diazi","Romerolagus","Volcano Rabbit",EN,I
+211,210,"crassicaudatus","Pronolagus","Natal Red Rock Hare",LC,D
+212,210,"rupestris","Pronolagus","Smith's Red Rock Hare",LC,U
+213,209,"randensis","Pronolagus","Jameson's Red Rock Hare",LC,U
+214,208,"furnessi","Pentalagus","Amami Rabbit",EN,D
+224,223,"turuchanensis","Ochotona","Turuchan Pika",LC,U
+225,223,"hyperborea","Ochotona","Northern Pika",LC,U
+227,226,"argentata","Ochotona","Silver Pika",CR,D
+228,226,"alpina","Ochotona","Alpine Pika",LC,U
+230,229,"collaris","Ochotona","Collared Pika",LC,U
+231,229,"princeps","Ochotona","American Pika",LC,D
+232,220,"pallasi","Ochotona","Pallas's Pika",LC,D
+233,219,"erythrotis","Ochotona","Chinese Red Pika",LC,U
+238,237,"rutila","Ochotona","Turkestan Red Pika",LC,S
+239,237,"ladacensis","Ochotona","Ladak Pika",LC,U
+241,240,"gloveri","Ochotona","Glover's Pika",LC,U
+242,240,"muliensis","Ochotona","Muli Pika",DD,U
+243,235,"koslowi","Ochotona","Kozlov's Pika",EN,D
+244,234,"rufescens","Ochotona","Afghan Pika",LC,S
+248,247,"macrotis","Ochotona","Large-eared Pika",LC,U
+249,247,"roylei","Ochotona","Royle's Pika",LC,S
+250,246,"iliensis","Ochotona","Ili Pika",EN,D
+251,245,"himalayana","Ochotona","Himalayan Pika",LC,U
+258,257,"gaoligongensis","Ochotona","Gaoligong Pika",DD,D
+259,257,"forresti","Ochotona","Forrest's Pika",LC,D
+260,256,"thomasi","Ochotona","Thomas's Pika",LC,U
+262,261,"huangensis","Ochotona","Tsing-ling Pika",LC,U
+263,261,"thibetana","Ochotona","Moupin Pika",LC,U
+264,254,"cansus","Ochotona","Gansu Pika",LC,U
+265,253,"nubrica","Ochotona","Nubra Pika",LC,U
+267,266,"curzoniae","Ochotona","Plateau Pika",LC,D
+268,266,"dauurica","Ochotona","Daurian Pika",LC,U
+269,215,"pusilla","Ochotona","Steppe Pika",LC,D

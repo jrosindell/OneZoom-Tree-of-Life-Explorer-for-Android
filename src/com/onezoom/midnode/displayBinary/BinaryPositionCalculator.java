@@ -2,6 +2,7 @@ package com.onezoom.midnode.displayBinary;
 
 import android.util.Log;
 
+import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionCalculator;
 
@@ -10,6 +11,11 @@ public class BinaryPositionCalculator implements PositionCalculator {
 	@Override
 	public void recalculate(MidNode midnode, float xp, float yp, float ws) {
 		drawreg2(xp, yp, ws * 220, midnode);
+	}
+
+	@Override
+	public void recalculateDynamic(float xp, float yp, float ws, MidNode midNode) {
+		drawreg2Dynamic(xp, yp, ws * 220, midNode);
 	}
 
 	@Override
@@ -142,12 +148,50 @@ public class BinaryPositionCalculator implements PositionCalculator {
 			drawreg2(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
+		} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
+			//TODO: init new chunk
+//			MidNode.initializer.createTreeChunk(midnode, 1);
+		} else if (midnode.getClass() != InteriorNode.class) {
+			//TODO: drop chunk;
 		}
 		
 		if (midnode.child2 != null && midnode.positionData.dvar) {
 			drawreg2(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
+		} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
+//			MidNode.initializer.createTreeChunk(midnode, 2);
+		} else if (midnode.getClass() != InteriorNode.class) {
+			//TODO: drop chunk;
+		}
+	}
+	
+	private void drawreg2Dynamic(float x, float y, float r, MidNode midnode) {
+		midnode.positionData.xvar = x;
+		midnode.positionData.yvar = y;
+		midnode.positionData.rvar = r;		
+		midnode.positionData.dvar = midnode.positionData.horizonInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
+		midnode.positionData.gvar = midnode.positionData.nodeInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
+		
+		if (midnode.child1 != null && midnode.positionData.dvar) {
+			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
+					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
+					r * midnode.positionData.nextr1, midnode.child1);
+		} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
+			//TODO: init new chunk
+			MidNode.initializer.createTreeChunk(midnode, 1);
+		} else if (midnode.getClass() != InteriorNode.class) {
+			//TODO: drop chunk;
+		}
+		
+		if (midnode.child2 != null && midnode.positionData.dvar) {
+			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
+					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
+					r * midnode.positionData.nextr2, midnode.child2);
+		} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
+			MidNode.initializer.createTreeChunk(midnode, 2);
+		} else if (midnode.getClass() != InteriorNode.class) {
+			//TODO: drop chunk;
 		}
 	}
 }

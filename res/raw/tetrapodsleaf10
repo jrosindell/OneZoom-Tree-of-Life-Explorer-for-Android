@@ -1,0 +1,154 @@
+index,parent,name1,name2,common,redlist,popstab
+12,11,"albogularis","Serinus","White-throated Canary",LC,U
+13,11,"reichardi","Serinus","Reichard's Seedeater",LC,U
+14,10,"syriacus","Serinus","Syrian Serin",VU,U
+17,16,"sulphuratus","Serinus","Brimstone Canary",LC,U
+18,16,"koliensis","Serinus","Papyrus Canary",LC,U
+19,15,"flaviventris","Serinus","Yellow Canary",LC,U
+20,8,"gularis","Serinus","Streaky-headed Seedeater",LC,U
+21,7,"burtoni","Serinus","Thick-billed Seedeater",LC,U
+26,25,"xantholaemus","Serinus","Salvadori's Serin",VU,U
+27,25,"striolatus","Serinus","Streaky Seedeater",LC,U
+28,24,"nigriceps","Serinus","Ethiopian Siskin",LC,U
+29,23,"whytii","Serinus","Yellow-browed Seedeater",LC,U
+31,30,"frontalis","Serinus","Yellow-browed Citril",LC,U
+32,30,"totta","Serinus","Cape Siskin",LC,U
+39,38,"atrogularis","Serinus","Black-throated Seedeater",LC,U
+40,38,"leucopygius","Serinus","White-rumped Seedeater",LC,U
+41,37,"citrinipectus","Serinus","Lemon-breasted Seedeater",LC,U
+42,36,"symonsi","Serinus","Drakensberg Siskin",LC,U
+45,44,"dorsostriatus","Serinus","White-bellied Canary",LC,U
+46,44,"estherae","Serinus","Mountain Serin",LC,U
+47,43,"flavigula","Serinus","Yellow-throated Seedeater",EN,U
+48,34,"mozambicus","Serinus","Yellow-fronted Canary",LC,U
+52,51,"citrinelloides","Serinus","Abyssinian Citril",LC,U
+53,51,"hypostictus","Serinus","Grey-faced Citril",LC,U
+54,50,"capistratus","Serinus","Black-faced Canary",LC,U
+56,55,"donaldsoni","Serinus","Ethiopian Grosbeak-canary",LC,U
+57,55,"scotops","Serinus","Forest Canary",LC,U
+67,66,"xanthopygius","Serinus","Yellow-rumped Seedeater",LC,U
+68,66,"alario","Serinus","Black-headed Canary",LC,U
+69,65,"ankoberensis","Serinus","Ankober Serin",VU,U
+72,71,"flavivertex","Serinus","Yellow-crowned Canary",LC,U
+73,71,"menachensis","Serinus","Yemen Serin",LC,U
+74,70,"canicollis","Serinus","Cape Canary",LC,U
+75,63,"pusillus","Serinus","Fire-fronted Serin",LC,U
+77,76,"tristriatus","Serinus","Brown-rumped Seedeater",LC,U
+78,76,"melanochrous","Serinus","Kipengere Seedeater",NT,U
+79,61,"rothschildi","Serinus","Olive-rumped Serin",LC,U
+82,81,"buchanani","Serinus","Kenya Grosbeak-canary",LC,U
+83,81,"mennelli","Serinus","Black-eared Seedeater",LC,U
+85,84,"leucopterus","Serinus","Protea Canary",LC,U
+86,84,"canaria","Serinus","Island Canary",LC,U
+88,87,"rufobrunneus","Serinus","Principe Seedeater",LC,U
+89,87,"serinus","Serinus","European Serin",LC,U
+90,58,"thibetanus","Serinus","Tibetan Serin",LC,U
+106,105,"crassirostris","Carduelis","Thick-billed Siskin",LC,U
+107,105,"uropygialis","Carduelis","Yellow-rumped Siskin",LC,U
+109,108,"siemiradzkii","Carduelis","Saffron Siskin",VU,U
+110,108,"spinescens","Carduelis","Andean Siskin",LC,U
+111,103,"cucullata","Carduelis","Red Siskin",EN,U
+112,102,"atrata","Carduelis","Black Siskin",LC,U
+114,113,"yarrellii","Carduelis","Yellow-faced Siskin",VU,U
+115,113,"magellanica","Carduelis","Hooded Siskin",LC,U
+116,100,"barbata","Carduelis","Black-chinned Siskin",LC,U
+117,99,"olivacea","Carduelis","Olivaceous Siskin",LC,U
+118,98,"xanthogastra","Carduelis","Yellow-bellied Siskin",LC,U
+119,97,"notata","Carduelis","Black-headed Siskin",LC,U
+120,96,"corsicana","Carduelis","Mediterranean Citril Finch",LC,U
+121,95,"atriceps","Carduelis","Black-capped Siskin",LC,U
+124,123,"lawrencei","Carduelis","Lawrence's Goldfinch",LC,U
+125,123,"psaltria","Carduelis","Lesser Goldfinch",LC,U
+126,122,"tristis","Carduelis","American Goldfinch",LC,U
+129,128,"spinus","Carduelis","Eurasian Siskin",LC,U
+130,128,"pinus","Carduelis","Pine Siskin",LC,U
+131,127,"yemenensis","Carduelis","Yemen Linnet",LC,U
+134,133,"percivali","Rhynchostruthus","Arabian Grosbeak",NT,U
+135,133,"louisae","Rhynchostruthus","Somali Grosbeak",NT,U
+136,132,"socotranus","Rhynchostruthus","Socotra Grosbeak",LC,U
+139,138,"dominicensis","Carduelis","Antillean Siskin",LC,U
+140,138,"phaeosoma","Melamprosops","Poo-uli",CR,U
+142,141,"cannabina","Carduelis","Eurasian Linnet",LC,U
+143,141,"flavirostris","Carduelis","Twite",LC,U
+149,148,"pytyopsittacus","Loxia","Parrot Crossbill",LC,U
+150,148,"scotica","Loxia","Scottish Crossbill",LC,U
+151,147,"curvirostra","Loxia","Red Crossbill",LC,U
+153,152,"leucoptera","Loxia","White-winged Crossbill",LC,U
+154,152,"megaplaga","Loxia","Hispaniolan Crossbill",EN,U
+156,155,"hornemanni","Carduelis","Hoary Redpoll",LC,U
+157,155,"flammea","Carduelis","Common Redpoll",LC,U
+161,160,"citrinella","Carduelis","Alpine Citril Finch",LC,U
+162,160,"monguilloti","Carduelis","Vietnam Greenfinch",NT,U
+164,163,"carduelis","Carduelis","European Goldfinch",LC,U
+165,163,"johannis","Carduelis","Warsangli Linnet",EN,U
+166,158,"olivaceus","Linurgus","Oriole Finch",LC,U
+171,170,"spinoides","Carduelis","Yellow-breasted Greenfinch",LC,U
+172,170,"ambigua","Carduelis","Black-headed Greenfinch",LC,U
+173,169,"sinica","Carduelis","Grey-capped Greenfinch",LC,U
+174,168,"chloris","Carduelis","European Greenfinch",LC,U
+176,175,"sanguineus","Rhodopechys","Crimson-winged Finch",LC,U
+177,175,"obsoletus","Rhodopechys","Desert Finch",LC,U
+189,188,"australis","Leucosticte","Brown-capped Rosy-finch",LC,U
+190,188,"atrata","Leucosticte","Black Rosy-finch",LC,U
+191,187,"tephrocotis","Leucosticte","Gray-crowned Rosy-finch",LC,U
+192,186,"arctoa","Leucosticte","Asian Rosy-finch",LC,U
+194,193,"brandti","Leucosticte","Black-headed Mountain-finch",LC,U
+195,193,"sillemi","Leucosticte","Sillem's Mountain-finch",DD,U
+196,184,"nemoricola","Leucosticte","Plain Mountain-finch",LC,U
+200,199,"nipalensis","Carpodacus","Dark-breasted Rosefinch",LC,U
+201,199,"rodopeplus","Carpodacus","Spot-winged Rosefinch",LC,U
+203,202,"rhodochlamys","Carpodacus","Red-mantled Rosefinch",LC,U
+204,202,"rubescens","Carpodacus","Crimson Rosefinch",LC,U
+206,205,"eos","Carpodacus","Pink-rumped Rosefinch",LC,U
+207,205,"synoicus","Carpodacus","Pale Rosefinch",LC,U
+212,211,"roborowskii","Carpodacus","Tibetan Rosefinch",LC,U
+213,211,"psittacea","Psittirostra","Ou",CR,U
+214,210,"erythrinus","Carpodacus","Common Rosefinch",LC,U
+215,209,"mexicanus","Carpodacus","House Finch",LC,U
+218,217,"cassinii","Carpodacus","Cassin's Finch",NT,U
+219,217,"purpureus","Carpodacus","Purple Finch",LC,U
+220,216,"puniceus","Carpodacus","Red-fronted Rosefinch",LC,U
+225,224,"rodochroa","Carpodacus","Pink-browed Rosefinch",LC,U
+226,224,"vinaceus","Carpodacus","Vinaceous Rosefinch",LC,U
+227,223,"edwardsii","Carpodacus","Dark-rumped Rosefinch",LC,U
+229,228,"rubicilloides","Carpodacus","Streaked Rosefinch",LC,U
+230,228,"rubicilla","Carpodacus","Great Rosefinch",LC,U
+233,232,"trifasciatus","Carpodacus","Three-banded Rosefinch",LC,U
+234,232,"thura","Carpodacus","White-browed Rosefinch",LC,U
+236,235,"pulcherrimus","Carpodacus","Beautiful Rosefinch",LC,U
+237,235,"roseus","Carpodacus","Pallas's Rosefinch",LC,U
+241,240,"concolor","Neospiza","Sao Tome Grosbeak",CR,U
+242,240,"sipahi","Haematospiza","Scarlet Finch",LC,U
+243,239,"burtoni","Callacanthis","Spectacled Finch",LC,U
+244,238,"sibiricus","Uragus","Long-tailed Rosefinch",LC,U
+253,252,"kauaiensis","Hemignathus","Kauai Amakihi",VU,U
+254,252,"virens","Hemignathus","Common Amakihi",LC,U
+255,251,"parvus","Hemignathus","Anianiau",VU,U
+257,256,"flavus","Hemignathus","Oahu Amakihi",VU,U
+258,256,"lucidus","Hemignathus","Nukupuu",CR,U
+259,249,"munroi","Hemignathus","Akiapolaau",EN,U
+263,262,"caeruleirostris","Loxops","Akekee",CR,U
+264,262,"coccineus","Loxops","Akepa",EN,U
+265,261,"xanthophrys","Pseudonestor","Maui Parrotbill",CR,U
+268,267,"sanguinea","Himatione","Apapane",LC,U
+269,267,"coccinea","Vestiaria","Iiwi",VU,U
+270,266,"dolei","Palmeria","Akohekohe",CR,U
+273,272,"cantans","Telespiza","Laysan Finch",VU,U
+274,272,"ultima","Telespiza","Nihoa Finch",CR,U
+275,271,"bailleui","Loxioides","Palila",CR,U
+277,276,"mana","Oreomystis","Hawaii Creeper",EN,U
+278,276,"bairdi","Oreomystis","Akikiki",CR,U
+280,279,"maculata","Paroreomyza","Oahu Alauahio",CR,U
+281,279,"montana","Paroreomyza","Maui Alauahio",EN,U
+290,289,"erythrocephala","Pyrrhula","Red-headed Bullfinch",LC,U
+291,289,"erythaca","Pyrrhula","Grey-headed Bullfinch",LC,U
+292,288,"aurantiaca","Pyrrhula","Orange Bullfinch",LC,U
+293,287,"pyrrhula","Pyrrhula","Eurasian Bullfinch",LC,U
+295,294,"leucogenis","Pyrrhula","White-cheeked Bullfinch",LC,U
+296,294,"murina","Pyrrhula","Azores Bullfinch",EN,U
+297,285,"nipalensis","Pyrrhula","Brown Bullfinch",LC,U
+298,284,"epauletta","Pyrrhoplectes","Gold-naped Finch",LC,U
+300,299,"subhimachala","Pinicola","Crimson-browed Finch",LC,U
+301,299,"enucleator","Pinicola","Pine Grosbeak",LC,U
+303,302,"mongolicus","Eremopsaltria","Mongolian Finch",LC,U
+304,302,"githagineus","Bucanetes","Trumpeter Finch",LC,U

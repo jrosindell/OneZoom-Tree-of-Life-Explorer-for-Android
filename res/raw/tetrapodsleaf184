@@ -1,0 +1,145 @@
+index,parent,name1,name2,common,redlist,popstab
+10,9,"hewitti","Heleophryne","Hewitt's Ghost Frog",CR,D
+11,9,"regis","Heleophryne","Royal Ghost Frog",LC,S
+12,8,"orientalis","Heleophryne","Eastern Ghost Frog",LC,S
+13,7,"purcelli","Heleophryne","Purcell's Ghost Frog",LC,S
+15,14,"rosei","Heleophryne","Table Mountain Ghost Frog",CR,D
+16,14,"natalensis","Heleophryne","Natal Ghost Frog",LC,D
+22,21,"varaldii","Pelobates","Varaldi's Spadefoot Toad",EN,D
+23,21,"cultripes","Pelobates","Western Spadefoot",NT,D
+24,20,"fuscus","Pelobates","Common Spadefoot",LC,D
+25,19,"syriacus","Pelobates","Eastern Spadefoot",LC,D
+31,30,"intermontana","Spea","Great Basin Spadefoot",LC,S
+32,30,"hammondii","Spea","Western Spadefoot",NT,D
+33,29,"multiplicata","Spea","New Mexico Spadefoot",LC,S
+34,28,"bombifrons","Spea","Plains Spadefoot",LC,S
+37,36,"holbrookii","Scaphiopus","Eastern Spadefoot",LC,U
+38,36,"hurterii","Scaphiopus","Hurter's Spadefoot",LC,S
+39,35,"couchii","Scaphiopus","Couch's Spadefoot",LC,S
+42,41,"punctatus","Pelodytes","Parsley Frog",LC,D
+43,41,"ibericus","Pelodytes","",LC,S
+44,40,"caucasicus","Pelodytes","Caucasian Parsley Frog",NT,D
+51,50,"sardus","Discoglossus","Tyrrhenian Painted Frog",LC,D
+52,50,"nigriventer","Discoglossus","Hula Painted Frog",EX,U
+53,49,"montalentii","Discoglossus","Corsican Painted Frog",NT,U
+54,48,"galganoi","Discoglossus","Iberian Painted Frog",LC,D
+56,55,"pictus","Discoglossus","Painted Frog",LC,S
+57,55,"scovazzi","Discoglossus","",LC,S
+62,61,"cisternasii","Alytes","Iberian Midwife Toad",NT,D
+63,61,"obstetricans","Alytes","Common Midwife Toad",LC,D
+64,60,"maurus","Alytes","",NT,S
+65,59,"dickhilleni","Alytes","Betic Midwife Toad",VU,D
+66,58,"muletensis","Alytes","Mallorcan Midwife Toad",VU,I
+72,71,"variegata","Bombina","Yellow??????????????????bellied Toad",LC,D
+73,71,"pachypus","Bombina","Appenine Yellow-bellied Toad",EN,D
+75,74,"orientalis","Bombina","Oriental Bell Toad",LC,D
+76,74,"bombina","Bombina","Fire-bellied Toad",LC,D
+77,69,"lichuanensis","Bombina","Lichuan Bell Toad",VU,D
+80,79,"microdeladigitora","Bombina","",NE,U
+81,79,"fortinuptialis","Bombina","",NE,U
+82,78,"maxima","Bombina","",NE,U
+84,83,"busuangensis","Barbourula","Philippine Flat-headed Frog",VU,D
+85,83,"kalimantanensis","Barbourula","Bornean Flat-headed Frog",EN,D
+97,96,"boumbaensis","Xenopus","Mawa Clawed Frog",DD,U
+98,96,"andrei","Xenopus","Andre's Clawed Frog",LC,S
+100,99,"largeni","Xenopus","Largen's Clawed Frog",DD,U
+101,99,"clivii","Xenopus","Eritrea Clawed Frog",LC,D
+102,94,"fraseri","Xenopus","Fraser's Clawed Frog",LC,S
+104,103,"longipes","Xenopus","Lake Oku Clawed Frog",CR,S
+105,103,"amieti","Xenopus","Volcano Clawed Frog",NT,D
+106,92,"pygmaeus","Xenopus","Bouchia Clawed Frog",LC,S
+109,108,"ruwenzoriensis","Xenopus","Uganda Clawed Frog",DD,U
+110,108,"petersii","Xenopus","Peters' Platanna",LC,S
+112,111,"laevis","Xenopus","African Clawed Frog",LC,I
+113,111,"gilli","Xenopus","Cape Platanna",EN,D
+117,116,"borealis","Xenopus","Marsabit Clawed Frog",LC,U
+118,116,"muelleri","Xenopus","Muller's Platanna",LC,S
+119,115,"wittei","Xenopus","De Witte's Clawed Frog",LC,S
+120,114,"vestitus","Xenopus","Kivu Clawed Frog",LC,S
+122,121,"epitropicalis","Silurana","Cameroon Clawed Frog",LC,D
+123,121,"tropicalis","Silurana","Tropical Clawed Frog",LC,S
+129,128,"pipa","Pipa","Suriname Toad",LC,S
+130,128,"snethlageae","Pipa","",LC,U
+131,127,"arrabali","Pipa","Arrabal's Suriname Toad",LC,S
+132,126,"aspera","Pipa","Albina Surinam Toad",LC,S
+133,125,"carvalhoi","Pipa","Carvalho's Surinam Toad",LC,D
+135,134,"myersi","Pipa","Myers' Surinam Toad",EN,D
+136,134,"parva","Pipa","",LC,I
+141,140,"boulengeri","Hymenochirus","",DD,U
+142,140,"feae","Hymenochirus","",DD,U
+143,139,"boettgeri","Hymenochirus","Congo Dwarf Clawed Frog",LC,D
+144,138,"curtipes","Hymenochirus","Western Dwarf Clawed Frog",LC,U
+145,137,"merlini","Pseudhymenochirus","",LC,U
+146,86,"dorsalis","Rhinophrynus","Burrowing Toad",LC,S
+151,150,"hamiltoni","Leiopelma","Hamilton's Frog",EN,S
+152,150,"pakeka","Leiopelma","Maud Island Frog",VU,S
+153,149,"archeyi","Leiopelma","Archey's Frog",CR,D
+154,148,"hochstetteri","Leiopelma","Hochstetter's Frog",VU,D
+156,155,"montanus","Ascaphus","Inland Tailed Frog",LC,U
+157,155,"truei","Ascaphus","Coastal Tailed Frog",LC,U
+164,163,"tridactylum","Amphiuma","Three-toed Amphiuma",LC,S
+165,163,"means","Amphiuma","Two-toed Amphiuma",LC,U
+166,162,"pholeter","Amphiuma","One-toed Amphiuma",NT,D
+169,168,"variegatus","Rhyacotriton","Southern Torrent Salamander",LC,S
+170,168,"kezeri","Rhyacotriton","Columbia Torrent Salamander",NT,S
+172,171,"olympicus","Rhyacotriton","Olympic Torrent Salamander",VU,D
+173,171,"cascadae","Rhyacotriton","Cascade Torrent Salamander",NT,D
+180,179,"beyeri","Necturus","Gulf Coast Waterdog",LC,U
+181,179,"punctatus","Necturus","Dwarf Waterdog",LC,U
+182,178,"alabamensis","Necturus","Alabama Waterdog",EN,D
+184,183,"lewisi","Necturus","Neuse River Waterdog",NT,D
+185,183,"maculosus","Necturus","Mudpuppy",LC,S
+186,176,"anguinus","Proteus","Olm",VU,D
+189,188,"axanthus","Pseudobranchus","Narrow-striped Dwarf Siren",LC,D
+190,188,"striatus","Pseudobranchus","Dwarf Siren",LC,D
+192,191,"lacertina","Siren","Greater Siren",LC,U
+193,191,"intermedia","Siren","Lesser Siren",LC,U
+210,209,"turkestanicus","Hynobius","Turkestanian Salamander",DD,U
+211,209,"dunni","Hynobius","Oita Salamander",EN,D
+213,212,"lichenatus","Hynobius","Tohoku Salamander",LC,S
+214,212,"yunanicus","Hynobius","",NE,U
+215,207,"okiensis","Hynobius","Oki Salamander",CR,D
+216,206,"kimurae","Hynobius","Hida Salamander",LC,S
+217,205,"nebulosus","Hynobius","Clouded Salamander",LC,D
+221,220,"tsuensis","Hynobius","Tsushima Salamander",LC,S
+222,220,"takedai","Hynobius","Hokuriku Salamander",EN,D
+224,223,"quelpaertensis","Hynobius","",DD,U
+225,223,"leechii","Hynobius","",LC,D
+226,218,"stejnegeri","Hynobius","Amber-coloured Salamander",VU,D
+230,229,"boulengeri","Hynobius","Odaigahara Salamander",VU,D
+231,229,"yiwuensis","Hynobius","",VU,D
+232,228,"naevius","Hynobius","Blotched Salamander",LC,S
+233,227,"retardatus","Hynobius","Ezo Salamander",LC,S
+234,202,"guabangshanensis","Hynobius","",DD,U
+236,235,"arisanensis","Hynobius","",VU,D
+237,235,"sonani","Hynobius","",EN,D
+244,243,"chinensis","Hynobius","",EN,D
+245,243,"amjiensis","Hynobius","",CR,D
+246,242,"abei","Hynobius","Abe's Salamander",CR,D
+247,241,"tokyoensis","Hynobius","Tokyo Salamander",VU,D
+248,240,"nigrescens","Hynobius","Japanese Black Salamander",LC,S
+249,239,"formosanus","Hynobius","",EN,D
+251,250,"hidamontanus","Hynobius","Hakuba Salamander",EN,D
+252,250,"katoi","Hynobius","",DD,U
+259,258,"yenyuanensis","Batrachuperus","Yenyuan Stream Salamander",VU,D
+260,258,"pinchonii","Batrachuperus","Stream Salamander",VU,D
+261,257,"londongensis","Batrachuperus","Longdong Stream Salamander",EN,D
+264,263,"taibaiensis","Batrachuperus","",DD,U
+265,263,"cochranae","Batrachuperus","",NE,U
+266,262,"tibetanus","Batrachuperus","Alpine Stream Salamander",VU,D
+267,255,"karlschmidti","Batrachuperus","",VU,D
+270,269,"tsinpaensis","Liua","Tsinpa Salamander",VU,D
+271,269,"shihi","Liua","Wushan Salamander",NT,D
+272,268,"flavomaculatus","Pseudohynobius","Yellow-spotted Salamander",VU,D
+273,253,"keyserlingii","Salamandrella","Siberian Newt",LC,S
+274,198,"shangchengensis","Pachyhynobius","Shancheng Stout Salamander",VU,D
+278,277,"persicus","Paradactylodon","Persian Mountain Salamander",NT,U
+279,277,"mustersi","Paradactylodon","",CR,D
+280,276,"gorganensis","Paradactylodon","",CR,D
+281,275,"sibiricus","Ranodon","Semirechensk Salamander",EN,D
+283,282,"fischeri","Onychodactylus","Fischer's Clawed Salamander",LC,D
+284,282,"japonicus","Onychodactylus","Japanese Clawed Salamander",LC,S
+285,195,"puxiongensis","Protohynobius","",DD,U
+288,287,"japonicus","Andrias","Japanese Giant Salamander",NT,D
+289,287,"davidianus","Andrias","Chinese Giant Salamander",CR,D
+290,286,"alleganiensis","Cryptobranchus","Hellbender",NT,D

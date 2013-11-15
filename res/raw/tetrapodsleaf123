@@ -1,0 +1,111 @@
+index,parent,name1,name2,common,redlist,popstab
+11,10,"fusca","Porzana","Ruddy-breasted Crake",LC,U
+12,10,"tenebrosa","Gallinula","Dusky Moorhen",LC,U
+13,9,"fluminea","Porzana","Australian Crake",LC,U
+15,14,"silvestris","Gallinula","Makira Moorhen",CR,U
+16,14,"pusilla","Porzana","Baillon's Crake",LC,U
+18,17,"paykullii","Porzana","Band-bellied Crake",NT,U
+19,17,"atra","Porzana","Henderson Crake",VU,U
+23,22,"cerverai","Cyanolimnas","Zapata Rail",CR,U
+24,22,"alai","Fulica","Hawaiian Coot",VU,U
+25,21,"mortierii","Gallinula","Tasmanian Native-hen",LC,U
+27,26,"albicollis","Porzana","Ash-throated Crake",LC,U
+28,26,"tabuensis","Porzana","Spotless Crake",LC,U
+31,30,"kioloides","Canirallus","Madagascar Wood Rail",LC,U
+32,30,"oculeus","Canirallus","Grey-throated Rail",LC,U
+33,29,"cristata","Fulica","Red-knobbed Coot",LC,U
+38,37,"castaneiceps","Anurolimnas","Chestnut-headed Crake",LC,U
+39,37,"viridis","Anurolimnas","Russet-crowned Crake",LC,U
+40,36,"fasciatus","Anurolimnas","Black-banded Crake",LC,U
+41,35,"leucoptera","Fulica","White-winged Coot",LC,U
+42,34,"caribaea","Fulica","Caribbean Coot",NT,U
+50,49,"ardesiaca","Fulica","Slate-coloured Coot",LC,U
+51,49,"americana","Fulica","American Coot",LC,U
+52,48,"atra","Fulica","Common Coot",LC,U
+54,53,"armillata","Fulica","Red-gartered Coot",LC,U
+55,53,"gigantea","Fulica","Giant Coot",LC,U
+57,56,"angulata","Gallinula","Lesser Moorhen",LC,U
+58,56,"cornuta","Fulica","Horned Coot",NT,U
+60,59,"ventralis","Gallinula","Black-tailed Native-hen",LC,U
+61,59,"rufifrons","Fulica","Red-fronted Coot",LC,U
+63,62,"chloropus","Gallinula","Common Moorhen",LC,U
+64,62,"nesiotis","Gallinula","Gough Moorhen",VU,U
+71,70,"rogersi","Atlantisia","Inaccessible Rail",VU,U
+72,70,"cinerea","Porzana","White-browed Crake",LC,U
+73,69,"spiloptera","Porzana","Dot-winged Crake",VU,U
+74,68,"carolina","Porzana","Sora",LC,U
+76,75,"flaviventer","Porzana","Yellow-breasted Crake",LC,U
+77,75,"melanops","Gallinula","Spot-flanked Gallinule",LC,U
+79,78,"porzana","Porzana","Spotted Crake",LC,U
+80,78,"parva","Porzana","Little Crake",LC,U
+81,65,"castaneoventris","Eulabeornis","Chestnut Rail",LC,U
+91,90,"sylvestris","Gallirallus","Lord Howe Woodhen",EN,U
+92,90,"owstoni","Gallirallus","Guam Rail",EW,U
+93,89,"philippensis","Gallirallus","Buff-banded Rail",LC,U
+96,95,"calayanensis","Gallirallus","Calayan Rail",VU,U
+97,95,"okinawae","Gallirallus","Okinawa Rail",EN,U
+98,94,"australis","Gallirallus","Weka",VU,U
+100,99,"insignis","Gallirallus","New Britain Rail",NT,U
+101,99,"rovianae","Gallirallus","Roviana Rail",NT,U
+103,102,"striatus","Gallirallus","Slaty-breasted Rail",LC,U
+104,102,"torquatus","Gallirallus","Barred Rail",LC,U
+106,105,"inepta","Megacrex","New Guinea Flightless Rail",NT,U
+107,105,"crex","Crex","Corncrake",LC,U
+112,111,"madagascariensis","Rallus","Madagascar Rail",VU,U
+113,111,"limicola","Rallus","Virginia Rail",LC,U
+114,110,"caerulescens","Rallus","African Water Rail",LC,U
+117,116,"wetmorei","Rallus","Plain-flanked Rail",EN,U
+118,116,"aquaticus","Rallus","Water Rail",LC,U
+119,115,"semiplumbeus","Rallus","Bogota Rail",EN,U
+122,121,"longirostris","Rallus","Clapper Rail",LC,U
+123,121,"elegans","Rallus","King Rail",LC,U
+124,120,"antarcticus","Rallus","Austral Rail",VU,U
+130,129,"flavirostra","Amaurornis","Black Crake",LC,U
+131,129,"akool","Amaurornis","Brown Crake",LC,U
+132,128,"moluccana","Amaurornis","Rufous-tailed Waterhen",LC,U
+134,133,"isabellina","Amaurornis","Isabelline Waterhen",LC,U
+135,133,"magnirostris","Amaurornis","Talaud Bush-hen",VU,U
+137,136,"phoenicurus","Amaurornis","White-breasted Waterhen",LC,U
+138,136,"olivacea","Amaurornis","Bush-hen",LC,U
+140,139,"bicolor","Amaurornis","Black-tailed Crake",LC,U
+141,139,"olivieri","Amaurornis","Sakalava Rail",EN,U
+142,82,"haematopus","Himantornis","Nkulengu Rail",LC,U
+147,146,"saracura","Aramides","Slaty-breasted Wood-rail",LC,U
+148,146,"axillaris","Aramides","Rufous-necked Wood-rail",LC,U
+150,149,"cajanea","Aramides","Grey-necked Wood-rail",LC,U
+151,149,"ypecaha","Aramides","Giant Wood-rail",LC,U
+154,153,"mangle","Aramides","Little Wood-rail",LC,U
+155,153,"wolfi","Aramides","Brown Wood-rail",VU,U
+156,152,"calopterus","Aramides","Red-winged Wood-rail",LC,U
+159,158,"nigricans","Pardirallus","Blackish Rail",LC,U
+160,158,"maculatus","Pardirallus","Spotted Rail",LC,U
+161,157,"sanguinolentus","Pardirallus","Plumbeous Rail",LC,U
+172,171,"levraudi","Laterallus","Rusty-flanked Crake",EN,U
+173,171,"spilonotus","Laterallus","Galapagos Rail",VU,U
+174,170,"xenopterus","Laterallus","Rufous-faced Crake",VU,U
+175,169,"melanophaius","Laterallus","Rufous-sided Crake",LC,U
+177,176,"leucopyrrhus","Laterallus","Red-and-white Crake",LC,U
+178,176,"albigularis","Laterallus","White-throated Crake",LC,U
+180,179,"exilis","Laterallus","Grey-breasted Crake",LC,U
+181,179,"ruber","Laterallus","Ruddy Crake",LC,U
+183,182,"jamaicensis","Laterallus","Black Rail",NT,U
+184,182,"tuerosi","Laterallus","Junin Rail",EN,U
+187,186,"exquisitus","Coturnicops","Swinhoe's Rail",VU,U
+188,186,"notatus","Coturnicops","Speckled Rail",LC,U
+189,185,"noveboracensis","Coturnicops","Yellow Rail",LC,U
+192,191,"plumbeiventris","Gymnocrex","Bare-eyed Rail",LC,U
+193,191,"rosenbergii","Gymnocrex","Blue-faced Rail",VU,U
+194,190,"talaudensis","Gymnocrex","Talaud Rail",EN,U
+199,198,"forbesi","Rallina","Forbes's Forest-rail",LC,U
+200,198,"mayri","Rallina","Mayr's Forest-rail",DD,U
+201,197,"fasciata","Rallina","Red-legged Crake",LC,U
+203,202,"leucospila","Rallina","White-striped Forest-rail",NT,U
+204,202,"canningi","Rallina","Andaman Crake",NT,U
+207,206,"eurizonoides","Rallina","Slaty-legged Crake",LC,U
+208,206,"tricolor","Rallina","Red-necked Crake",LC,U
+209,205,"rubra","Rallina","Chestnut Forest-rail",LC,U
+213,212,"porphyrio","Porphyrio","Purple Swamphen",LC,U
+214,212,"hochstetteri","Porphyrio","Takahe",EN,U
+215,211,"alleni","Porphyrio","Allen's Gallinule",LC,U
+217,216,"martinica","Porphyrio","Yellow-legged Gallinule",LC,U
+218,216,"flavirostris","Porphyrio","Azure Gallinule",LC,U

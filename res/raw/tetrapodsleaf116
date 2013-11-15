@@ -1,0 +1,148 @@
+index,parent,name1,name2,common,redlist,popstab
+22,21,"commersoni","Hipposideros","Commerson's Leaf-nosed Bat",NT,U
+23,21,"vittatus","Hipposideros","",NT,D
+24,20,"thomensis","Hipposideros","",LC,S
+25,19,"gigas","Hipposideros","Giant Leaf-nosed Bat",LC,U
+27,26,"lylei","Hipposideros","Shield-faced Leaf-nosed Bat",LC,D
+28,26,"pratti","Hipposideros","Pratt's Leaf-nosed Bat",LC,U
+29,17,"inexpectatus","Hipposideros","Crested Leaf-nosed Bat",DD,U
+33,32,"sumbae","Hipposideros","Sumban Leaf-nosed Bat",LC,D
+34,32,"grandis","Hipposideros","Grand Leaf-nosed Bat",DD,U
+35,31,"larvatus","Hipposideros","Horsfield's Leaf-nosed Bat",LC,U
+37,36,"armiger","Hipposideros","Great Himalayan Leaf-nosed Bat",LC,U
+38,36,"turpis","Hipposideros","Lesser Leaf-nosed Bat",NT,D
+44,43,"muscinus","Hipposideros","Fly River Leaf-nosed Bat",DD,U
+45,43,"semoni","Hipposideros","Semon's Leaf-nosed Bat",DD,U
+46,42,"corynophyllus","Hipposideros","Telefomin Leaf-nosed Bat",DD,U
+48,47,"wollastoni","Hipposideros","Wollaston's Leaf-nosed Bat",LC,U
+49,47,"stenotis","Hipposideros","Northern Leaf-nosed Bat",LC,U
+51,50,"camerunensis","Hipposideros","Greater Roundleaf Bat",DD,U
+52,50,"cyclops","Hipposideros","Cyclops Roundleaf Bat",LC,D
+54,53,"patrizii","Asellia","Patrizi's Trident Leaf-nosed Bat",LC,U
+55,53,"tridens","Asellia","Geoffroy's Trident Leaf-nosed Bat",LC,S
+59,58,"demissus","Hipposideros","Makira Leaf-nosed Bat",VU,U
+60,58,"diadema","Hipposideros","Diadem Leaf-nosed Bat",LC,U
+61,57,"inornatus","Hipposideros","Arnhem Leaf-nosed Bat",VU,S
+62,56,"lankadiva","Hipposideros","Indian Leaf-nosed Bat",LC,U
+64,63,"pelingensis","Hipposideros","Peleng Leaf-nosed Bat",NT,D
+65,63,"dinops","Hipposideros","Fierce Leaf-nosed Bat",DD,D
+66,12,"lekaguli","Hipposideros","Large Asian Leaf-nosed Bat",NT,D
+67,11,"ater","Hipposideros","Dusky Leaf-nosed Bat",LC,U
+70,69,"breviceps","Hipposideros","Short-headed Leaf-nosed Bat",DD,U
+71,69,"ridleyi","Hipposideros","Ridley's Leaf-nosed Bat",VU,D
+72,68,"curtus","Hipposideros","Short-tailed Roundleaf Bat",VU,D
+78,77,"stoliczkanus","Aselliscus","Stoliczka's Asian Trident Bat",LC,U
+79,77,"percivali","Cloeotis","Percival's Trident Bat",LC,U
+80,76,"bicolor","Hipposideros","Bicolored Leaf-nosed Bat",LC,S
+82,81,"macrobullatus","Hipposideros","Big-eared Leaf-nosed Bat",DD,U
+83,81,"beatus","Hipposideros","Benito Roundleaf Bat",LC,D
+84,74,"speoris","Hipposideros","Schneider's Leaf-nosed Bat",LC,S
+86,85,"fuliginosus","Hipposideros","Sooty Roundleaf Bat",LC,D
+87,85,"dyacorum","Hipposideros","Dayak Leaf-nosed Bat",LC,U
+90,89,"cervinus","Hipposideros","Fawn-colored Leaf-nosed Bat",LC,U
+91,89,"crumeniferus","Hipposideros","Timor Leaf-nosed Bat",DD,U
+93,92,"galeritus","Hipposideros","Cantor's Leaf-nosed Bat",LC,U
+94,92,"fulvus","Hipposideros","Fulvus Leaf-nosed Bat",LC,S
+97,96,"caffer","Hipposideros","Sundevall's Roundleaf Bat",LC,D
+98,96,"marisae","Hipposideros","Aellen's Roundleaf Bat",VU,D
+99,95,"pomona","Hipposideros","Andersen's Leaf-nosed Bat",LC,U
+102,101,"doriae","Hipposideros","Bornean Leaf-nosed Bat",NT,D
+103,101,"coxi","Hipposideros","Cox's Leaf-nosed Bat",DD,U
+104,100,"papua","Hipposideros","Biak Leaf-nosed Bat",LC,S
+113,112,"lamottei","Hipposideros","Lamotte's Roundleaf Bat",CR,D
+114,112,"ruber","Hipposideros","Noack's Roundleaf Bat",LC,U
+115,111,"halophyllus","Hipposideros","Thailand Leaf-nosed Bat",EN,D
+117,116,"coronatus","Hipposideros","Large Mindanao Leaf-nosed Bat",DD,U
+118,116,"calcaratus","Hipposideros","Spurred Leaf-nosed Bat",LC,U
+119,109,"maggietaylorae","Hipposideros","Maggie Taylor's Leaf-nosed Bat",LC,S
+120,108,"jonesi","Hipposideros","Jones' Roundleaf Bat",NT,D
+121,107,"pygmaeus","Hipposideros","Philippine Pygmy Leaf-nosed Bat",LC,U
+124,123,"megalotis","Hipposideros","Ethiopian Large-eard Roundleaf Bat",LC,U
+125,123,"nequam","Hipposideros","Malayan Leaf-nosed Bat",DD,U
+127,126,"durgadasi","Hipposideros","Durga Das's Leaf-nosed Bat",EN,D
+128,126,"cineraceus","Hipposideros","Least Leaf-nosed Bat",LC,U
+130,129,"obscurus","Hipposideros","Philippine Forest Leaf-nosed Bat",LC,U
+131,129,"abae","Hipposideros","Aba Roundleaf Bat",LC,U
+132,4,"ornatus","Anthops","Solomons Leaf-nosed Bat",DD,U
+133,3,"tricuspidatus","Aselliscus","Trident Leaf-nosed Bat",LC,S
+137,136,"furculus","Triaenops","Trouessart's Trident Bat",LC,U
+138,136,"auritus","Triaenops","Grandidier's Trident Bat",VU,U
+140,139,"persicus","Triaenops","Persian Trident Bat",LC,U
+141,139,"rufus","Triaenops","Rufous Trident Bat",LC,U
+142,134,"aurantia","Rhinonicteris","Orange Leaf-nosed Bat",LC,U
+145,144,"robinsoni","Coelops","Malayan Tailless Leaf-nosed Bat",VU,D
+146,144,"frithii","Coelops","Tail-less Leaf-nosed Bat",LC,U
+147,143,"megalotis","Paracoelops","Vietnamese Leaf-nosed Bat",DD,U
+168,167,"mitratus","Rhinolophus","Mitred Horseshow Bat",DD,U
+169,167,"keyensis","Rhinolophus","Kai Horseshoe Bat",DD,U
+170,166,"virgo","Rhinolophus","Yellow-faced Horseshoe Bat",LC,S
+171,165,"capensis","Rhinolophus","Cape Horseshoe Bat",LC,D
+173,172,"philippinensis","Rhinolophus","Large-eared Horseshoe Bat",LC,U
+174,172,"montanus","Rhinolophus","Timorese Horseshoe Bat",DD,U
+175,163,"sedulus","Rhinolophus","Lesser Wooly Horseshoe Bat",NT,D
+179,178,"simulator","Rhinolophus","Bushveld Horseshoe Bat",LC,D
+180,178,"denti","Rhinolophus","Dent's Horseshoe Bat",LC,U
+181,177,"pearsonii","Rhinolophus","Pearson's Horseshoe Bat",LC,U
+182,176,"paradoxolophus","Rhinolophus","Bourret's Horseshoe Bat",LC,U
+186,185,"ruwenzorii","Rhinolophus","Ruwenzori Horseshoe Bat",VU,D
+187,185,"maclaudi","Rhinolophus","Maclaud's Horseshoe Bat",EN,D
+188,184,"hilli","Rhinolophus","Hill's Horseshoe Bat",CR,D
+190,189,"ferrumequinum","Rhinolophus","Greater Horseshoe Bat",LC,D
+191,189,"subrufus","Rhinolophus","Small Rufous Horseshoe Bat",DD,U
+192,160,"robinsoni","Rhinolophus","Peninsular Horseshoe Bat",NT,D
+194,193,"acuminatus","Rhinolophus","Accuminate Horseshoe Bat",LC,U
+195,193,"trifoliatus","Rhinolophus","Trefoil Horseshoe Bat",LC,U
+201,200,"macrotis","Rhinolophus","Big-eared Horseshoe Bat",LC,S
+202,200,"siamensis","Rhinolophus","Thai Horseshoe Bat",LC,U
+203,199,"hipposideros","Rhinolophus","Lesser Horseshoe Bat",LC,D
+204,198,"hildebrandtii","Rhinolophus","",NE,U
+207,206,"affinis","Rhinolophus","Intermediate Horseshoe Bat",LC,S
+208,206,"malayanus","Rhinolophus","Malayan Horseshoe Bat",LC,S
+209,205,"megaphyllus","Rhinolophus","Eastern Horseshoe Bat",LC,U
+210,196,"darlingi","Rhinolophus","Darling's Horseshoe Bat",LC,U
+216,215,"clivosus","Rhinolophus","Geoffroy's Horseshoe Bat",LC,U
+217,215,"hillorum","Rhinolophus","Upland Horseshoe Bat",VU,D
+218,214,"bocharicus","Rhinolophus","Bokhara Horseshoe Bat",LC,S
+219,213,"coelophyllus","Rhinolophus","Croslet Horseshoe Bat",LC,U
+220,212,"silvestris","Rhinolophus","Forest Horseshoe Bat",DD,D
+221,211,"deckenii","Rhinolophus","Decken's Horseshoe Bat",NT,D
+222,156,"rex","Rhinolophus","King Horseshoe Bat",LC,D
+223,155,"shameli","Rhinolophus","Shamel's Horseshoe Bat",LC,U
+227,226,"euryale","Rhinolophus","Mediterranean Horseshoe Bat",NT,D
+228,226,"mehelyi","Rhinolophus","Mehely's Horseshoe Bat",VU,D
+230,229,"guineensis","Rhinolophus","Guinean Horseshoe Bat",VU,U
+231,229,"landeri","Rhinolophus","Lander's Horseshoe Bat",LC,U
+234,233,"celebensis","Rhinolophus","Sulawesi Horseshoe Bat",LC,U
+235,233,"madurensis","Rhinolophus","Madura Horseshoe Bat",EN,D
+236,232,"fumigatus","Rhinolophus","Ruppell's Horseshoe Bat",LC,U
+247,246,"blasii","Rhinolophus","BLASIUS' HORSESHOE BAT",LC,D
+248,246,"alcyone","Rhinolophus","Halcyon Horseshoe Bat",LC,U
+249,245,"adami","Rhinolophus","Adam's Horseshoe Bat",DD,U
+251,250,"creaghi","Rhinolophus","Creagh's Horseshoe Bat",LC,D
+252,250,"canuti","Rhinolophus","Canut's Horseshoe Bat",VU,D
+254,253,"sinicus","Rhinolophus","Chinese Horseshoe Bat",LC,U
+255,253,"rouxii","Rhinolophus","Rufous Horseshoe Bat",LC,U
+256,242,"thomasi","Rhinolophus","Thomas's Horseshoe Bat",LC,U
+257,241,"eloquens","Rhinolophus","Eloquent Horseshoe Bat",LC,U
+258,240,"euryotis","Rhinolophus","New Guinea Horseshoe Bat",LC,U
+263,262,"borneensis","Rhinolophus","Bornean Horseshoe Bat",LC,U
+264,262,"nereis","Rhinolophus","Anamban Horseshoe Bat",DD,U
+265,261,"rufus","Rhinolophus","Large Rufous Horseshoe Bat",NT,D
+266,260,"stheno","Rhinolophus","Lesser Brown Horseshoe Bat",LC,S
+267,259,"marshalli","Rhinolophus","Marshall's Horseshoe Bat",LC,U
+268,238,"yunanensis","Rhinolophus","Dobson's Horseshoe Bat",LC,U
+273,272,"formosae","Rhinolophus","Formosan Woolly Horseshoe Bat",NT,D
+274,272,"beddomei","Rhinolophus","Beddome's Horseshoe Bat",LC,S
+275,271,"luctus","Rhinolophus","Great Woolly Horsehoe Bat",LC,U
+276,270,"arcuatus","Rhinolophus","Arcuate Horseshoe Bat",LC,S
+278,277,"inops","Rhinolophus","Philippine Forest Horseshoe Bat",LC,S
+279,277,"swinnyi","Rhinolophus","Swinny's Horseshoe Bat",LC,U
+281,280,"subbadius","Rhinolophus","Little Nepalese Horseshoe Bat",LC,D
+282,280,"cognatus","Rhinolophus","Andaman Horseshoe Bat",EN,D
+283,151,"imaizumii","Rhinolophus","",NE,U
+285,284,"shortridgei","Rhinolophus","Shortridge's Horseshoe Bat",LC,U
+286,284,"lepidus","Rhinolophus","Blyth's Horseshoe Bat",LC,U
+288,287,"osgoodi","Rhinolophus","Osgood's Horseshoe Bat",DD,U
+289,287,"cornutus","Rhinolophus","",NE,U
+291,290,"pusillus","Rhinolophus","Least Horseshoe Bat",LC,U
+292,290,"monoceros","Rhinolophus","",NE,U

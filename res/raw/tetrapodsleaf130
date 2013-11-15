@@ -1,0 +1,112 @@
+index,parent,name1,name2,common,redlist,popstab
+16,15,"sulcirostris","Phalacrocorax","Little Black Cormorant",LC,U
+17,15,"varius","Phalacrocorax","Large Pied Cormorant",LC,U
+18,14,"punctatus","Phalacrocorax","Spotted Shag",LC,U
+20,19,"africanus","Phalacrocorax","Reed Cormorant",LC,U
+21,19,"carbo","Phalacrocorax","Great Cormorant",LC,U
+24,23,"onslowi","Phalacrocorax","Chatham Islands Shag",CR,U
+25,23,"coronatus","Phalacrocorax","Crowned Cormorant",NT,U
+26,22,"niger","Phalacrocorax","Little Cormorant",LC,U
+28,27,"bougainvillii","Phalacrocorax","Guanay Cormorant",NT,U
+29,27,"ranfurlyi","Phalacrocorax","Bounty Islands Shag",VU,U
+34,33,"carunculatus","Phalacrocorax","New Zealand King Shag",VU,U
+35,33,"atriceps","Phalacrocorax","Imperial Shag",LC,U
+36,32,"chalconotus","Phalacrocorax","Stewart Island Shag",VU,U
+37,31,"magellanicus","Phalacrocorax","Rock Shag",LC,U
+41,40,"auritus","Phalacrocorax","Double-crested Cormorant",LC,U
+42,40,"capensis","Phalacrocorax","Cape Cormorant",NT,U
+43,39,"brasilianus","Phalacrocorax","Neotropic Cormorant",LC,U
+44,38,"pygmeus","Phalacrocorax","Pygmy Cormorant",LC,U
+48,47,"melanoleucos","Phalacrocorax","Little Pied Cormorant",LC,U
+49,47,"harrisi","Phalacrocorax","Flightless Cormorant",EN,U
+51,50,"penicillatus","Phalacrocorax","Brandt's Cormorant",LC,U
+52,50,"gaimardi","Phalacrocorax","Red-legged Cormorant",NT,U
+54,53,"pelagicus","Phalacrocorax","Pelagic Cormorant",LC,U
+55,53,"urile","Phalacrocorax","Red-faced Cormorant",LC,U
+57,56,"campbelli","Phalacrocorax","Campbell Island Shag",VU,U
+58,56,"aristotelis","Phalacrocorax","European Shag",LC,U
+59,7,"capillatus","Phalacrocorax","Japanese Cormorant",LC,U
+64,63,"colensoi","Phalacrocorax","Auckland Islands Shag",VU,U
+65,63,"featherstoni","Phalacrocorax","Pitt Island Shag",EN,U
+66,62,"fuscescens","Phalacrocorax","Black-faced Cormorant",LC,U
+67,61,"nigrogularis","Phalacrocorax","Socotra Cormorant",VU,U
+69,68,"fuscicollis","Phalacrocorax","Indian Cormorant",LC,U
+70,68,"neglectus","Phalacrocorax","Bank Cormorant",EN,U
+74,73,"novaehollandiae","Anhinga","Australian Darter",LC,U
+75,73,"anhinga","Anhinga","Anhinga",LC,U
+76,72,"melanogaster","Anhinga","Oriental Darter",NT,U
+77,71,"rufa","Anhinga","African Darter",LC,U
+83,82,"nebouxii","Sula","Blue-footed Booby",LC,U
+84,82,"variegata","Sula","Peruvian Booby",LC,U
+86,85,"dactylatra","Sula","Masked Booby",LC,U
+87,85,"granti","Sula","Nazca Booby",LC,U
+88,80,"leucogaster","Sula","Brown Booby",LC,U
+89,79,"sula","Sula","Red-footed Booby",LC,U
+93,92,"serrator","Morus","Australasian Gannet",LC,U
+94,92,"capensis","Morus","Cape Gannet",VU,U
+95,91,"bassanus","Morus","Northern Gannet",LC,U
+96,90,"abbotti","Papasula","Abbott's Booby",EN,U
+100,99,"magnificens","Fregata","Magnificent Frigatebird",LC,U
+101,99,"aquila","Fregata","Ascension Frigatebird",VU,U
+102,98,"ariel","Fregata","Lesser Frigatebird",LC,U
+104,103,"andrewsi","Fregata","Christmas Island Frigatebird",CR,U
+105,103,"minor","Fregata","Greater Frigatebird",LC,U
+112,111,"boyciana","Ciconia","Oriental Stork",EN,U
+113,111,"ciconia","Ciconia","White Stork",LC,U
+114,110,"maguari","Ciconia","Maguari Stork",LC,U
+115,109,"nigra","Ciconia","Black Stork",LC,U
+118,117,"episcopus","Ciconia","Woolly-necked Stork",LC,U
+119,117,"stormi","Ciconia","Storm's Stork",EN,U
+120,116,"abdimii","Ciconia","Abdim's Stork",LC,U
+123,122,"crumeniferus","Leptoptilos","Marabou Stork",LC,U
+124,122,"dubius","Leptoptilos","Greater Adjutant",EN,U
+125,121,"javanicus","Leptoptilos","Lesser Adjutant",VU,U
+131,130,"leucocephala","Mycteria","Painted Stork",NT,U
+132,130,"cinerea","Mycteria","Milky Stork",VU,U
+133,129,"ibis","Mycteria","Yellow-billed Stork",LC,U
+134,128,"americana","Mycteria","Wood Stork",LC,U
+137,136,"senegalensis","Ephippiorhynchus","Saddle-billed Stork",LC,U
+138,136,"asiaticus","Ephippiorhynchus","Black-necked Stork",NT,U
+139,135,"mycteria","Jabiru","Jabiru",LC,U
+141,140,"lamelligerus","Anastomus","African Openbill",LC,U
+142,140,"oscitans","Anastomus","Asian Openbill",LC,U
+150,149,"fuliginosa","Nesofregetta","White-throated Storm-petrel",EN,U
+151,149,"marina","Pelagodroma","White-faced Storm-petrel",LC,U
+152,148,"nereis","Garrodia","Grey-backed Storm-petrel",LC,U
+154,153,"grallaria","Fregetta","White-bellied Storm-petrel",LC,U
+155,153,"tropica","Fregetta","Black-bellied Storm-petrel",LC,U
+158,157,"gracilis","Oceanites","White-vented Storm-petrel",DD,U
+159,157,"maorianus","Oceanites","New Zealand Storm-petrel",CR,U
+160,156,"oceanicus","Oceanites","Wilson's Storm-petrel",LC,U
+167,166,"tethys","Oceanodroma","Wedge-rumped Storm-petrel",LC,U
+168,166,"microsoma","Halocyptena","Least Storm-petrel",LC,U
+170,169,"markhami","Oceanodroma","Markham's Storm-petrel",DD,U
+171,169,"melania","Oceanodroma","Black Storm-petrel",LC,U
+174,173,"matsudairae","Oceanodroma","Matsudaira's Storm-petrel",DD,U
+175,173,"pelagicus","Hydrobates","European Storm-petrel",LC,U
+176,172,"furcata","Oceanodroma","Fork-tailed Storm-petrel",LC,U
+181,180,"monteiroi","Oceanodroma","Monteiro's Storm-petrel",VU,U
+182,180,"tristrami","Oceanodroma","Tristram's Storm-petrel",NT,U
+183,179,"monorhis","Oceanodroma","Swinhoe's Storm-petrel",LC,U
+184,178,"leucorhoa","Oceanodroma","Leach's Storm-petrel",LC,U
+185,177,"homochroa","Oceanodroma","Ashy Storm-petrel",EN,U
+186,162,"castro","Oceanodroma","Madeiran Storm-petrel",LC,U
+187,161,"hornbyi","Oceanodroma","Ringed Storm-petrel",DD,U
+196,195,"pachyrhynchus","Eudyptes","Fiordland Penguin",VU,U
+197,195,"robustus","Eudyptes","Snares Penguin",VU,U
+199,198,"chrysolophus","Eudyptes","Macaroni Penguin",VU,U
+200,198,"schlegeli","Eudyptes","Royal Penguin",VU,U
+202,201,"chrysocome","Eudyptes","Southern Rockhopper Penguin",VU,U
+203,201,"moseleyi","Eudyptes","Northern Rockhopper Penguin",EN,U
+204,192,"sclateri","Eudyptes","Erect-crested Penguin",EN,U
+205,191,"antipodes","Megadyptes","Yellow-eyed Penguin",EN,U
+209,208,"magellanicus","Spheniscus","Magellanic Penguin",NT,U
+210,208,"demersus","Spheniscus","African Penguin",EN,U
+212,211,"mendiculus","Spheniscus","Galapagos Penguin",EN,U
+213,211,"humboldti","Spheniscus","Humboldt Penguin",VU,U
+214,206,"minor","Eudyptula","Little Penguin",LC,U
+216,215,"patagonicus","Aptenodytes","King Penguin",LC,U
+217,215,"forsteri","Aptenodytes","Emperor Penguin",LC,U
+220,219,"antarcticus","Pygoscelis","Chinstrap Penguin",LC,U
+221,219,"papua","Pygoscelis","Gentoo Penguin",NT,U
+222,218,"adeliae","Pygoscelis","Adelie Penguin",LC,U

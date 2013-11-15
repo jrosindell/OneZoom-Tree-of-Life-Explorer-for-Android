@@ -1,0 +1,110 @@
+index,parent,name1,name2,common,redlist,popstab
+13,12,"recifinus","Platyrrhinus","Recife Broad-nosed Bat",LC,U
+14,12,"infuscus","Platyrrhinus","Buffy Broad-nosed Bat",LC,U
+15,11,"dorsalis","Platyrrhinus","Thomas's Broad-nosed Bat",LC,U
+17,16,"umbratus","Platyrrhinus","Shadowy Broad-nosed Bat",DD,U
+18,16,"vittatus","Platyrrhinus","Greater Broad-nosed Bat",LC,U
+21,20,"helleri","Platyrrhinus","Heller's Broad-nosed Bat",LC,S
+22,20,"chocoensis","Platyrrhinus","Choco Broad-nosed Bat",EN,D
+23,19,"aurarius","Platyrrhinus","Eldorado Broad-nosed Bat",LC,S
+25,24,"brachycephalus","Platyrrhinus","Short-headed Broad-nosed Bat",LC,S
+26,24,"lineatus","Platyrrhinus","White-lined Bat",LC,S
+27,7,"caraccioli","Vampyrodes","Great Stripe-faced Bat",LC,U
+29,28,"magnirostrum","Uroderma","Brown Tent-making Bat",LC,S
+30,28,"bilobatum","Uroderma","Tent-maiking Bat",LC,S
+37,36,"thyone","Vampyressa","Northern Little Yellow-eared Bat",LC,U
+38,36,"pusilla","Vampyressa","Little Yellow-eared Bat",DD,U
+39,35,"melissa","Vampyressa","Melissa's Yellow-eared Bat",VU,S
+42,41,"nymphaea","Vampyressa","Striped Yellow-eared Bat",LC,U
+43,41,"brocki","Vampyressa","Brock's Yellow-eared Bat",LC,U
+44,40,"bidens","Vampyressa","Bedentate Yellow-eared Bat",LC,U
+45,33,"macconnelli","Mesophylla","Macconnell's Bat",LC,U
+46,32,"alba","Ectophylla","Honduran White Bat",NT,D
+50,49,"improvisum","Chiroderma","Guadeloupean Big-eyed Bat",VU,U
+51,49,"villosum","Chiroderma","Hairy Big-eyed Bat",LC,S
+53,52,"trinitatum","Chiroderma","Little Big-eyed Bat",LC,U
+54,52,"doriae","Chiroderma","Brazilian Big-eyed Bat",LC,U
+55,47,"salvini","Chiroderma","Salvin's Big-eyed Bat",LC,S
+64,63,"inopinatus","Artibeus","Honduran Fruit-eating Bat",DD,U
+65,63,"hirsutus","Artibeus","Hairy Fruit-eating Bat",LC,S
+66,62,"fraterculus","Artibeus","Fraternal Fruit-eating Bat",LC,D
+69,68,"jamaicensis","Artibeus","Jamaican Fruit-eating Bat",LC,S
+70,68,"lituratus","Artibeus","Great Fruit-eating Bat",LC,S
+71,67,"obscurus","Artibeus","Dark Fruit-eating Bat",LC,U
+72,60,"amplus","Artibeus","Large Fruit-eating Bat",LC,U
+73,59,"fimbriatus","Artibeus","Fringed Fruit-eating Bat",LC,S
+74,58,"concolor","Artibeus","Brown Fruit-eating Bat",LC,S
+81,80,"watsoni","Artibeus","Thomas's Fruit-eating Bat",LC,S
+82,80,"glaucus","Artibeus","Silver Fruit-eating Bat",LC,U
+83,79,"gnomus","Artibeus","Dwarf Fruit-eating Bat",LC,U
+84,78,"anderseni","Artibeus","Andersen's Fruit-eating Bat",LC,U
+85,77,"cinereus","Artibeus","Gervais's Fruit-eating Bat",LC,U
+86,76,"toltecus","Artibeus","Toltec Fruit-eating Bat",LC,U
+88,87,"phaeotis","Artibeus","Pygmy Fruit-eating Bat",LC,S
+89,87,"aztecus","Artibeus","Aztec Fruit-eating Bat",LC,U
+90,56,"hartii","Enchisthenes","Velvety Fruit-eating Bat",LC,U
+95,94,"falcatus","Phyllops","Cuban Fig-eating Bat",LC,S
+96,94,"rufum","Stenoderma","Red Fruit Bat",VU,U
+98,97,"flavescens","Ariteus","Jamaican Fig-eating Bat",LC,U
+99,97,"nichollsi","Ardops","Tree Bat",LC,U
+101,100,"centurio","Ametrida","Little White-shouldered Bat",LC,U
+102,100,"toxophyllum","Sphaeronycteris","Visored Bat",DD,U
+104,103,"bilabiatum","Pygoderma","Ipanema Bat",LC,U
+105,103,"senex","Centurio","Wrinkle-faced Bat",LC,S
+112,111,"oporaphilum","Sturnira","Tschudi's Yellow-shouldered Bat",NT,U
+113,111,"bogotensis","Sturnira","Bogota Yellow-shouldered Bat",LC,U
+114,110,"magna","Sturnira","Greater Yellow-shouldered Bat",LC,S
+117,116,"thomasi","Sturnira","Thomas's Yellow-shouldered Bat",VU,D
+118,116,"tildae","Sturnira","Tilda Yellow-shouldered Bat",LC,S
+119,115,"mordax","Sturnira","Talamancan Yellow-shouldered Bat",NT,S
+122,121,"ludovici","Sturnira","Highland Yellow-shouldered Bat",LC,U
+123,121,"erythromos","Sturnira","Hairy Yellow-shouldered Bat",LC,S
+124,120,"luisi","Sturnira","Louis's Yellow-shouldered Bat",LC,U
+126,125,"aratathomasi","Sturnira","Aratathomas's Yellow shouldered Bat",NT,U
+127,125,"lilium","Sturnira","Little Yellow-shouldered Bat",LC,S
+129,128,"bidens","Sturnira","Bidentate Yellow-shouldered Bat",LC,U
+130,128,"nana","Sturnira","Lesser Yellow-shouldered Bat",EN,U
+134,133,"perspicillata","Carollia","Seba's Short-tailed Bat",LC,S
+135,133,"brevicauda","Carollia","Silky Short-tailed Bat",LC,S
+137,136,"castanea","Carollia","Chestnut Short-tailed Bat",LC,S
+138,136,"subrufa","Carollia","Gray Short-tailed Bat",LC,S
+141,140,"fischerae","Rhinophylla","Fischer's Little Fruit Bat",LC,S
+142,140,"alethina","Rhinophylla","Hairy Little Fruit Bat",NT,U
+143,139,"pumilio","Rhinophylla","Dwarf Little Fruit Bat",LC,U
+152,151,"periosus","Choeroniscus","Greater Long-tailed Bat",VU,U
+153,151,"minor","Choeroniscus","Lesser Long-tailed Bat",LC,U
+154,150,"godmani","Choeroniscus","Godman's Long-tailed Bat",LC,U
+156,155,"mexicana","Choeronycteris","Mexican Long-tongued Bat",NT,U
+157,155,"harrisoni","Musonycteris","Banana Bat",VU,D
+160,159,"underwoodi","Hylonycteris","Underwood's Long-tongued Bat",LC,S
+161,159,"obscura","Lichonycteris","Dark Long-tongued Bat",LC,U
+162,158,"ega","Scleronycteris","Ega Long-tongued Bat",LC,D
+166,165,"latidens","Anoura","Broad-toothed Tailless Bat",LC,S
+167,165,"cultrata","Anoura","Handley's Tailless Bat",NT,D
+168,164,"caudifer","Anoura","Tailed Tailless Bat",LC,U
+169,163,"geoffroyi","Anoura","Geoffroy's Tailless Bat",LC,S
+176,175,"morenoi","Glossophaga","Western Long-tongued Bat",LC,S
+177,175,"leachii","Glossophaga","Gray Long-tongued Bat",LC,S
+178,174,"longirostris","Glossophaga","Miller's Long-tongued Bat",DD,U
+179,173,"soricina","Glossophaga","Pallas's Long-tongued Bat",LC,S
+180,172,"commissarisi","Glossophaga","Commissaris's Long-tongued Bat",LC,S
+182,181,"plethodon","Monophyllus","Insular Single-leaf Bat",LC,U
+183,181,"redmani","Monophyllus","Leach's Single-leaf Bat",LC,S
+186,185,"curasoae","Leptonycteris","Curacaoan Long-nosed Bat",VU,D
+187,185,"yerbabuenae","Leptonycteris","Lesser Long-nosed Bat",VU,D
+188,184,"nivalis","Leptonycteris","Greater Long-nosed Bat",EN,D
+195,194,"handleyi","Lonchophylla","Handley's Nectar Bat",LC,U
+196,194,"robusta","Lonchophylla","Orange Nectar Bat",LC,U
+197,193,"hesperia","Lonchophylla","Western Nectar Bat",VU,D
+199,198,"bokermanni","Lonchophylla","Bokermann's Nectar Bat",DD,U
+200,198,"mordax","Lonchophylla","Goldman' Nectar Bat",LC,U
+202,201,"dekeyseri","Lonchophylla","Dekeyser's Nectar Bat",NT,U
+203,201,"thomasi","Lonchophylla","Thomas's Nectar Bat",LC,U
+204,190,"spurrelli","Lionycteris","Chestnut Long-tongued Bat",LC,U
+205,189,"genovensium","Platalina","Long-snouted Bat",NT,U
+209,208,"aphylla","Phyllonycteris","Jamaican Flower Bat",LC,S
+210,208,"poeyi","Phyllonycteris","Cuban Flower Bat",LC,U
+212,211,"bombifrons","Erophylla","Brown Flower Bat",LC,S
+213,211,"sezekorni","Erophylla","Buffy Flower Bat",LC,U
+215,214,"cavernarum","Brachyphylla","Antillean Fruit-eating Bat",LC,U
+216,214,"nana","Brachyphylla","Cuban Fruit-eating Bat",LC,S

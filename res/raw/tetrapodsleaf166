@@ -1,0 +1,128 @@
+index,parent,name1,name2,common,redlist,popstab
+14,13,"wushanensis","Xenophrys","Wushan Horned Toad",LC,D
+15,13,"daweimontis","Xenophrys","",DD,U
+16,12,"pachyproctus","Xenophrys","Convex-vented Horned Toad",DD,U
+17,11,"omeimontis","Xenophrys","Omei Horned Toad",NT,D
+19,18,"spinata","Xenophrys","Spiny-fingered Horned Toad",LC,D
+20,18,"huangshanensis","Xenophrys","",DD,U
+22,21,"brachykolos","Xenophrys","Short-legged Horned Toad",EN,D
+23,21,"minor","Xenophrys","Little Horned Toad",LC,D
+27,26,"boettgeri","Xenophrys","Pale-shouldered Horned Toad",LC,D
+28,26,"baluensis","Xenophrys","Kinabalu Horned Frog",NT,S
+29,25,"wuliangshanensis","Xenophrys","Wuliangshan Horned Toad",DD,U
+31,30,"shuichengensis","Xenophrys","",DD,U
+32,30,"parallela","Xenophrys","",DD,U
+36,35,"jingdongensis","Xenophrys","Jingdong Horned Toad",LC,D
+37,35,"parva","Xenophrys","Concave-crowned Horned Toad",LC,D
+38,34,"caudoprocta","Xenophrys","Convex-tailed Horned Toad",DD,U
+39,33,"wawuensis","Xenophrys","",DD,U
+42,41,"palpebralespinosa","Xenophrys","Rough-skinned Horned Toad",LC,U
+43,41,"mangshanensis","Xenophrys","Mangshan Horned Toad",NT,D
+45,44,"nankiangensis","Xenophrys","Nankiang Horned Toad",VU,D
+46,44,"major","Xenophrys","Glandular Horned Toad",LC,D
+50,49,"medogensis","Xenophrys","Medog Horned Toad",DD,U
+51,49,"robusta","Xenophrys","",DD,U
+53,52,"auralensis","Xenophrys","",DD,U
+54,52,"glandulosa","Xenophrys","",LC,D
+56,55,"zhangi","Xenophrys","Zhang's Horned Toad",DD,U
+57,55,"longipes","Xenophrys","",NT,D
+60,59,"kuatunensis","Xenophrys","Kuatun Horned Toad",LC,D
+61,59,"aceras","Xenophrys","",LC,D
+63,62,"dringi","Xenophrys","Dring's Horned Frog",NT,S
+64,62,"kempii","Xenophrys","",NE,U
+71,70,"bhutanensis","Scutiger","",DD,U
+72,70,"brevipes","Scutiger","",DD,U
+73,69,"muliensis","Scutiger","",EN,D
+75,74,"glandulatus","Scutiger","",LC,U
+76,74,"maculatus","Scutiger","",CR,D
+78,77,"gongshanensis","Scutiger","",VU,D
+79,77,"adungensis","Scutiger","",DD,U
+82,81,"tuberculatus","Scutiger","",VU,D
+83,81,"nepalensis","Scutiger","",VU,D
+84,80,"nyingchiensis","Scutiger","",LC,U
+89,88,"ningshanensis","Scutiger","",EN,D
+90,88,"jiulongensis","Scutiger","",DD,U
+92,91,"sikimmensis","Scutiger","",LC,U
+93,91,"liupanensis","Scutiger","",VU,S
+96,95,"chintingensis","Scutiger","",EN,D
+97,95,"boulengeri","Scutiger","",LC,U
+98,94,"mammatus","Scutiger","",LC,D
+99,85,"pingwuensis","Scutiger","",EN,D
+107,106,"liangbeiensis","Oreolalax","",CR,D
+108,106,"popei","Oreolalax","",LC,I
+109,105,"xiangchengensis","Oreolalax","",LC,S
+111,110,"multipunctatus","Oreolalax","",VU,D
+112,110,"schmidti","Oreolalax","",NT,D
+113,103,"lichuanensis","Oreolalax","",NT,D
+117,116,"omeimontis","Oreolalax","",EN,D
+118,116,"rugosus","Oreolalax","",NT,D
+119,115,"puxiongensis","Oreolalax","",EN,D
+121,120,"chuanbeiensis","Oreolalax","",EN,D
+122,120,"nanjiangensis","Oreolalax","",DD,U
+127,126,"jingdongensis","Oreolalax","",VU,D
+128,126,"weigoldi","Oreolalax","",DD,U
+129,125,"granulosus","Oreolalax","",VU,S
+130,124,"rhodostigmatus","Oreolalax","",VU,D
+131,123,"major","Oreolalax","",VU,D
+132,100,"pingii","Oreolalax","",EN,D
+140,139,"kobayashii","Megophrys","Kobayashi's Horned Frog",NT,S
+141,139,"montana","Megophrys","Horned Frog",LC,D
+143,142,"nasuta","Megophrys","Borneon Horned Frog",LC,S
+144,142,"edwardinae","Megophrys","",NE,U
+145,137,"stejnegeri","Megophrys","Mindanao Horned Frog",VU,D
+146,136,"ligayae","Megophrys","Palawan Horned Frog",EN,D
+148,147,"shapingensis","Atympanophrys","",NE,U
+149,147,"gigantica","Atympanophrys","",NE,U
+152,151,"pachyproctus","Ophryophryne","",LC,D
+153,151,"microstoma","Ophryophryne","",LC,D
+155,154,"gerti","Ophryophryne","",DD,U
+156,154,"hansi","Ophryophryne","",DD,U
+161,160,"carinensis","Brachytarsophrys","",NE,U
+162,160,"feae","Brachytarsophrys","",LC,D
+163,159,"chuannanensis","Brachytarsophrys","",DD,D
+164,158,"intermedia","Brachytarsophrys","",VU,D
+165,157,"platyparietus","Brachytarsophrys","",LC,D
+174,173,"nahangensis","Leptolalax","",DD,U
+175,173,"pluvialis","Leptolalax","",DD,U
+176,172,"pictus","Leptolalax","",VU,D
+178,177,"pelodytoides","Leptolalax","",LC,S
+179,177,"alpinus","Leptolalax","",EN,D
+182,181,"sungi","Leptolalax","",DD,U
+183,181,"liui","Leptolalax","",LC,D
+184,180,"ventripunctatus","Leptolalax","",DD,U
+189,188,"oshanensis","Leptolalax","Oshan Metacarpal-tubercled Toad",LC,S
+190,188,"tuberosus","Leptolalax","",VU,D
+191,187,"dringi","Leptolalax","",NT,D
+192,186,"gracilis","Leptolalax","",NT,D
+194,193,"maurus","Leptolalax","",NT,S
+195,193,"hamidi","Leptolalax","",VU,D
+198,197,"kajangensis","Leptolalax","",VU,U
+199,197,"heteropus","Leptolalax","",LC,D
+201,200,"bourreti","Leptolalax","",DD,U
+202,200,"arayai","Leptolalax","",VU,D
+208,207,"serasanae","Leptobrachella","",VU,D
+209,207,"natunae","Leptobrachella","",DD,U
+210,206,"baluensis","Leptobrachella","",VU,D
+211,205,"brevicrus","Leptobrachella","",VU,S
+213,212,"mjobergi","Leptobrachella","Mount Gadin Borneo Frog",LC,S
+214,212,"palmata","Leptobrachella","",CR,D
+215,203,"parva","Leptobrachella","",VU,D
+224,223,"smithi","Leptobrachium","Smith's Litter Frog",LC,S
+225,223,"hendricksoni","Leptobrachium","",LC,D
+226,222,"buchardi","Leptobrachium","",DD,U
+228,227,"xanthospilum","Leptobrachium","",DD,U
+229,227,"nigrops","Leptobrachium","",LC,D
+230,220,"huashen","Leptobrachium","",LC,U
+231,219,"gunungense","Leptobrachium","",VU,S
+232,218,"abbotti","Leptobrachium","",LC,D
+238,237,"hasseltii","Leptobrachium","Java Spadefoot Toad",LC,U
+239,237,"pullum","Leptobrachium","",DD,U
+240,236,"banae","Leptobrachium","",VU,D
+241,235,"chapaense","Leptobrachium","Chapa Spadefoot Toad",LC,U
+242,234,"montanum","Leptobrachium","",LC,D
+243,233,"hainanense","Leptobrachium","",VU,D
+247,246,"ailaonica","Vibrissaphora","",NE,U
+248,246,"echinata","Vibrissaphora","",NE,U
+249,245,"boringiae","Vibrissaphora","",NE,U
+251,250,"leishanensis","Vibrissaphora","",NE,U
+252,250,"liui","Vibrissaphora","",NE,U
