@@ -1,7 +1,5 @@
 package com.onezoom.midnode.displayBinary;
 
-import android.util.Log;
-
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
@@ -10,13 +8,11 @@ public class BinaryPositionCalculator {
 
 	
 	public void recalculate(MidNode midnode, float xp, float yp, float ws) {
-		Log.d("debug", "------  drawreg being calleld.");
 		drawreg2(xp, yp, ws * 220, midnode);
 	}
 
 	
 	public void recalculateDynamic(float xp, float yp, float ws, MidNode midNode) {
-		Log.d("debug", "------  drawreg dynamic being calleld.");
 		drawreg2Dynamic(xp, yp, ws * 220, midNode);
 	}
 	

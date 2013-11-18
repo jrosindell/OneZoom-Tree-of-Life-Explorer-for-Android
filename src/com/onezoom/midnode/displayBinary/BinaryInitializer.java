@@ -63,7 +63,6 @@ public class BinaryInitializer {
 	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
 		int resourceInteriorID = canvasActivity.getResources().getIdentifier(selectedGroup + "interior" + fileIndex, "raw", canvasActivity.getPackageName());
-		Log.d("debug", "resource: "  + selectedGroup + "interior" + fileIndex);
 		InputStream isInterior = canvasActivity.getResources().openRawResource(resourceInteriorID);
 		int resourceLeafID = canvasActivity.getResources().getIdentifier(selectedGroup + "leaf" + fileIndex, "raw", canvasActivity.getPackageName());
 		InputStream isLeaf = canvasActivity.getResources().openRawResource(resourceLeafID);
@@ -118,9 +117,7 @@ public class BinaryInitializer {
 			if (interNode.parent == null) {
 				interNode.recalculate(PositionData.xp, PositionData.yp,
 						PositionData.ws);
-				Log.d("debug", "im up..... xp.");
 			} else {
-				Log.d("debug", "im here..... xp.");
 				PositionData positionData = interNode.parent.positionData;
 				if (interNode.childIndex == 1) {
 					interNode.recalculate(positionData.xvar + positionData.rvar

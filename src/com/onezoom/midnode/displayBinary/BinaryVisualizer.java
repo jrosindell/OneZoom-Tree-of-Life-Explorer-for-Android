@@ -32,7 +32,7 @@ public class BinaryVisualizer{
 	private static final float thresholdDrawTextDetailLeaf = 140f;
 	private static final float rangeBaseForDrawSignPost = 120f;
 	private static final boolean drawSignPost = true;
-	
+		
 	public BinaryVisualizer() {
 		paint = new Paint();
 		textPaint = new Paint();
@@ -57,6 +57,7 @@ public class BinaryVisualizer{
 		if (midNode.child2 != null && midNode.positionData.dvar && midNode.traitsCaculator.getLengthbr() 
 				> BinaryTraitsCalculator.timelim) drawElement(canvas, midNode.child2);
 		
+		MidNode.countVisitedElement++;
 		if (midNode.positionData.gvar == false) return;
 		MidNode.countDrawElement++;
 		if (midNode.getClass() == InteriorNode.class)

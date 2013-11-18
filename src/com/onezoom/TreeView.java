@@ -30,6 +30,7 @@ public class TreeView extends View {
 	public static boolean onScale;
 	
 	
+	
 	public TreeView(Context context) {
 		super(context);
 		init(context);
@@ -84,10 +85,9 @@ public class TreeView extends View {
 			drawLoading(canvas);
 		} else {
 			if (!duringRecalculation && !duringInteraction){
-				Log.d("debug", "------- draw elemnt" + PositionData.ws);
+				client.getTreeRoot().outputInitElement();
 				drawElementAndCache(canvas);
 			} else {
-				Log.d("debug", "------- draw bitmap" + PositionData.ws);
 				canvas.translate(distanceX, distanceY);
 				canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
 				canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, 720,
@@ -110,9 +110,7 @@ public class TreeView extends View {
 			this.distanceY = 0;
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
-			synchronized (client.getTreeRoot()) {
 				client.getTreeRoot().drawElement(canvas);				
-			}
 			toggle = !toggle;
 		}
 		duringInteraction = true;

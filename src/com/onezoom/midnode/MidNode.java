@@ -13,6 +13,7 @@ import com.onezoom.midnode.displayBinary.BinaryVisualizer;
 
 public abstract class MidNode{
 	public static int countDrawElement = 0;
+	public static int countVisitedElement = 0;
 	public static BinaryInitializer initializer = new BinaryInitializer();
 	public static BinaryPrecalculator precalculator = new BinaryPrecalculator();
 	protected static BinaryVisualizer visualizer = new BinaryVisualizer();

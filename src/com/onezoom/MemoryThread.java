@@ -58,9 +58,8 @@ class MemoryHandler extends Handler {
 			clientActivity.initialization();
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
-				synchronized (clientActivity.getTreeRoot()) {
+				clientActivity.treeView.setDuringRecalculation(true);
 					clientActivity.getTreeRoot().recalculateDynamic();					
-				}
 				clientActivity.treeView.setDuringRecalculation(false);
 				clientActivity.treeView.postInvalidate();
 			}

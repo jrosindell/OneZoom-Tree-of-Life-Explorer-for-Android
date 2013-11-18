@@ -1,7 +1,5 @@
 package com.onezoom.midnode.displayBinary;
 
-import android.util.Log;
-
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.Utility;
 
