@@ -7,6 +7,7 @@ import android.graphics.Paint.Align;
 import android.graphics.Paint.Style;
 import android.graphics.Path;
 import android.graphics.RectF;
+import android.util.Log;
 
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
@@ -83,7 +84,7 @@ public class BinaryVisualizer{
 	}
 	
 	private void drawSignPost(Canvas canvas, MidNode midNode) {
-		if (midNode.traitsCaculator.getLengthbr() < BinaryTraitsCalculator.timelim)
+		if (midNode.traitsCaculator.getLengthbr() < BinaryTraitsCalculator.timelim || midNode.positionData.dvar == false)
 			return;
 		// draw sign posts
 		boolean signdrawn = false;
@@ -96,7 +97,7 @@ public class BinaryVisualizer{
 						- midNode.positionData.hxmin;
 				if (r * radius > 1f * rangeBaseForDrawSignPost
 						&& r * radius < 4f * rangeBaseForDrawSignPost) {
-					if (midNode.traitsCaculator.getCname() != null) // white
+					if (!midNode.traitsCaculator.getCname().equals("null")) // white
 																	// signposts
 					{
 						drawSignPostCircle(canvas, r, x, y, midNode);
@@ -117,17 +118,19 @@ public class BinaryVisualizer{
 		}
 	}
 	
-	void drawSignPostText(Canvas canvas, float r, float x, float y, MidNode midNode) {
+	private void drawSignPostText(Canvas canvas, float r, float x, float y, MidNode midNode) {
 		float centerX = x + r 
 				* (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
 		float centerY = y + r 
 				* (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
 		float radius = r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
-		String[] text = midNode.traitsCaculator.getCname().split(" ");
-		drawTextOneLine(text[0],centerX, centerY, 2f * radius, canvas, signTextPaint);
+//		String[] text = midNode.traitsCaculator.getCname().split(" ");
+		String[] text = splitStringToAtMostThreeParts(midNode.traitsCaculator.getCname());
+//		drawTextOneLine(text[0],centerX, centerY, 2f * radius, canvas, signTextPaint);
+		drawTextMultipleLines(text, centerX, centerY, 2f * radius, canvas, signTextPaint);
 	}
 
-	void drawSignPostCircle(Canvas canvas, float r, float x, float y, MidNode midNode) {
+	private void drawSignPostCircle(Canvas canvas, float r, float x, float y, MidNode midNode) {
 		float centerX = x + r 
 				* (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
 		float centerY = y + r 
@@ -169,7 +172,7 @@ public class BinaryVisualizer{
 		drawTextOneLine(outputInfo, startX + radius, startY + 0.5f * radius,
 				radius, canvas, textPaint);
 
-		if (midNode.traitsCaculator.getCname() != null) {
+		if (!midNode.traitsCaculator.getCname().equals("null")) {
 			outputInfo = midNode.traitsCaculator.getCname();
 		} else {
 			outputInfo = String.format("%.1f", midNode.traitsCaculator.getLengthbr()) + " Mya";
@@ -194,18 +197,18 @@ public class BinaryVisualizer{
 		lineWidth = 1.5f * r * midNode.positionData.arcr;
 
 		String name;
-		if (midNode.traitsCaculator.getName1() != null && midNode.traitsCaculator.getName2() != null)
+		if (!midNode.traitsCaculator.getName1().equals("null") && !midNode.traitsCaculator.getName2().equals("null"))
 			name = midNode.traitsCaculator.getName2() + " " + midNode.traitsCaculator.getName1();
-		else if (midNode.traitsCaculator.getName1() == null && midNode.traitsCaculator.getName2() != null)
+		else if (!midNode.traitsCaculator.getName1().equals("null") && !midNode.traitsCaculator.getName2().equals("null"))
 			name = midNode.traitsCaculator.getName2();
-		else if (midNode.traitsCaculator.getName1() != null && midNode.traitsCaculator.getName2() == null)
+		else if (!midNode.traitsCaculator.getName1().equals("null") && !midNode.traitsCaculator.getName2().equals("null"))
 			name = midNode.traitsCaculator.getName1();
 		else
 			name = "no name";
 		String conservationString = Utility.conservationStatus(midNode);
 		String populationString = Utility.populationStability(midNode);
 	
-		if( midNode.traitsCaculator.getCname() != null){
+		if( !midNode.traitsCaculator.getCname().equals("null")){
 			String[] detailInfo = { name, midNode.traitsCaculator.getCname(), conservationString,
 					populationString };
 			drawTextMultipleLines(detailInfo, startX, startY, lineHeight,
@@ -232,15 +235,15 @@ public class BinaryVisualizer{
 		lineHeight = r * midNode.positionData.arcr;
 		lineWidth = r * midNode.positionData.arcr;
 
-		if (midNode.traitsCaculator.getCname() != null) {
+		if (!midNode.traitsCaculator.getCname().equals("null")) {
 			drawTextMultipleLines(midNode.traitsCaculator.getCname().split(" "), startX, startY, lineHeight,
 					lineWidth, canvas, textPaint);
 			return;
-		} else if (midNode.traitsCaculator.getName2() != null) {
+		} else if (!midNode.traitsCaculator.getName2().equals("null")) {
 			drawTextMultipleLines(midNode.traitsCaculator.getName2().split(" "), startX, startY, lineHeight,
 					lineWidth, canvas, textPaint);
 			return;
-		} else if (midNode.traitsCaculator.getName1() != null) {
+		} else if (!midNode.traitsCaculator.getName1().equals("null")) {
 			drawTextMultipleLines(midNode.traitsCaculator.getName1().split(" "), startX, startY, lineHeight,
 					lineWidth, canvas, textPaint);
 			return;
@@ -260,7 +263,7 @@ public class BinaryVisualizer{
 	}
 
 	private void drawTextMultipleLines(String[] split, float startX,
-			float startY, float lineHeight, float lineWidth, Canvas canvas, Paint textPaint2) {
+			float startY, float lineHeight, float lineWidth, Canvas canvas, Paint textPaint) {
 		float lineSpace = lineHeight / (split.length + 1);
 		float minTextSize = 9999f;
 		float tempTextSize;
@@ -269,6 +272,28 @@ public class BinaryVisualizer{
 			if (minTextSize > tempTextSize)
 				minTextSize = tempTextSize;
 		}
+		for (String string : split) {
+			drawTextOneLine(string, startX, startY, minTextSize, canvas, true, textPaint);
+			startY += lineSpace;
+		}	
+	}
+	
+	private void drawTextMultipleLines(String[] split, float startX,
+			float startY, float radius, Canvas canvas, Paint textPaint) {
+		float lineSpace = radius / (split.length + 1);
+		float minTextSize = 9999f;
+		float tempTextSize;
+		for (String string : split) {
+			tempTextSize = 1.7f * radius / string.length();
+			if (minTextSize > tempTextSize)
+				minTextSize = tempTextSize;
+		}
+		if (split.length == 2) {
+			startY = startY - radius/7f;
+		} else if (split.length == 3) {
+			startY = startY - radius/4f;
+		} 
+		
 		for (String string : split) {
 			drawTextOneLine(string, startX, startY, minTextSize, canvas, true, textPaint);
 			startY += lineSpace;
@@ -383,7 +408,70 @@ public class BinaryVisualizer{
 		canvas.drawPath(path, paint);
 	}
 	
+	private String[] splitStringToAtMostThreeParts(String cname) {
+		int centerpoint = cname.length() / 4;
+		String[] splitstr = cname.split(" ");
+		String print1 = "";
+		String print2 = "";
+		String print3 = "";
+		String[] result = new String[3];
+		if (splitstr.length == 1) {
+			return splitstr;
+		} else if (splitstr.length == 2) {
+			return splitStringToTwoParts(cname);
+		} else if (splitstr.length == 3) {
+			print1 = splitstr[0];
+			print2 = splitstr[1];
+			print3 = splitstr[2];
+		} else {
+			for (int i = splitstr.length - 1; i >= 0; i--) {
+				if (print3.length() >= centerpoint) {
+					if (print2.length() >= centerpoint) {
+						print1 = " " + splitstr[i] + print1;
+					} else {
+						print2 = " " + splitstr[i] + print2;
+					}
+				} else {
+					print3 = " " + splitstr[i] + print3;
+				}
+			}
+		}
+		
+		if ((print1.length() >= (print2.length() + print3.length())) || (print3.length() >= (print1.length() + print2.length()))) {
+			return splitStringToTwoParts(cname);
+		} else {
+			result[0] = print1;
+			result[1] = print2;
+			result[2] = print3;
+			return result;
+		}
+	}
 	
+	private String[] splitStringToTwoParts(String cname) {
+		int centerpoint = cname.length() / 3;
+		String[] splitstr = cname.split(" ");
+		String print1 = " ";
+		String print2 = " ";
+		String[] result = new String[2];
+		if (splitstr.length == 1) return splitstr;
+		else if (splitstr.length == 2) {
+			print1 = splitstr[0];
+			print2 = splitstr[1];
+		} else {
+			for (int i = splitstr.length - 1; i >= 0; i--) {
+				if (print2.length() >= centerpoint) {
+						print1 = " " + splitstr[i] + print1;
+					} else {
+						print2 = " " + splitstr[i] + print2;
+					}
+			}
+		}
+		result[0] = print1;
+		result[1] = print2;
+		return result;
+	}
+
+
 	//**********DEBUG FUNCTION******************//
 	private void drawBoundingBox(Canvas canvas, MidNode midNode) {
 		float x = midNode.positionData.xvar;
