@@ -1,107 +1,107 @@
-index,parent,name1,name2,common,redlist,popstab
-15,14,"aterrima","Pseudobulweria","Mascarene Petrel",CR,U
-16,14,"newelli","Puffinus","Newell's Shearwater",EN,U
-17,13,"opisthomelas","Puffinus","Black-vented Shearwater",NT,U
-20,19,"lherminieri","Puffinus","Audubon's Shearwater",LC,U
-21,19,"assimilis","Puffinus","Little Shearwater",LC,U
-22,18,"puffinus","Puffinus","Manx Shearwater",LC,U
-24,23,"mauretanicus","Puffinus","Balearic Shearwater",CR,U
-25,23,"yelkouan","Puffinus","Yelkouan Shearwater",NT,U
-27,26,"gavia","Puffinus","Fluttering Shearwater",LC,U
-28,26,"huttoni","Puffinus","Hutton's Shearwater",EN,U
-29,9,"auricularis","Puffinus","Townsend's Shearwater",CR,U
-30,8,"nativitatis","Puffinus","Christmas Island Shearwater",LC,U
-37,36,"carneipes","Puffinus","Flesh-footed Shearwater",LC,U
-38,36,"creatopus","Puffinus","Pink-footed Shearwater",VU,U
-39,35,"griseus","Puffinus","Sooty Shearwater",NT,U
-40,34,"gravis","Puffinus","Great Shearwater",LC,U
-41,33,"tenuirostris","Puffinus","Short-tailed Shearwater",LC,U
-43,42,"pacificus","Puffinus","Wedge-tailed Shearwater",LC,U
-44,42,"bulleri","Puffinus","Buller's Shearwater",VU,U
-46,45,"heinrothi","Puffinus","Heinroth's Shearwater",VU,U
-47,45,"becki","Pseudobulweria","Beck's Petrel",CR,U
-51,50,"edwardsii","Calonectris","Cape Verde Shearwater",NT,U
-52,50,"leucomelas","Calonectris","Streaked Shearwater",LC,U
-53,49,"diomedea","Calonectris","Cory's Shearwater",LC,U
-54,48,"macgillivrayi","Pseudobulweria","Fiji Petrel",CR,U
-55,5,"rostrata","Pseudobulweria","Tahiti Petrel",NT,U
-61,60,"aequinoctialis","Procellaria","White-chinned Petrel",VU,U
-62,60,"conspicillata","Procellaria","Spectacled Petrel",VU,U
-63,59,"westlandica","Procellaria","Westland Petrel",VU,U
-64,58,"cinerea","Procellaria","Grey Petrel",NT,U
-65,57,"parkinsoni","Procellaria","Parkinson's Petrel",VU,U
-67,66,"bulwerii","Bulweria","Bulwer's Petrel",LC,U
-68,66,"fallax","Bulweria","Jouanin's Petrel",NT,U
-80,79,"arminjoniana","Pterodroma","Trindade Petrel",VU,U
-81,79,"neglecta","Pterodroma","Kermadec Petrel",LC,U
-82,78,"ultima","Pterodroma","Murphy's Petrel",NT,U
-84,83,"heraldica","Pterodroma","Herald Petrel",LC,U
-85,83,"alba","Pterodroma","Phoenix Petrel",EN,U
-86,76,"defilippiana","Pterodroma","De Filippi's Petrel",VU,U
-90,89,"sandwichensis","Pterodroma","Hawaiian Petrel",VU,U
-91,89,"phaeopygia","Pterodroma","Galapagos Petrel",CR,U
-93,92,"cervicalis","Pterodroma","White-necked Petrel",VU,U
-94,92,"baraui","Pterodroma","Barau's Petrel",EN,U
-95,87,"externa","Pterodroma","Juan Fernandez Petrel",VU,U
-98,97,"inexpectata","Pterodroma","Mottled Petrel",NT,U
-99,97,"caribbaea","Pterodroma","Jamaica Petrel",CR,U
-100,96,"brevipes","Pterodroma","Collared Petrel",NT,U
-101,73,"pycrofti","Pterodroma","Pycroft's Petrel",VU,U
-102,72,"solandri","Pterodroma","Providence Petrel",VU,U
-105,104,"nigripennis","Pterodroma","Black-winged Petrel",LC,U
-106,104,"leucoptera","Pterodroma","Gould's Petrel",VU,U
-107,103,"axillaris","Pterodroma","Chatham Petrel",EN,U
-110,109,"longirostris","Pterodroma","Stejneger's Petrel",VU,U
-111,109,"cookii","Pterodroma","Cook's Petrel",VU,U
-113,112,"atrata","Pterodroma","Henderson Petrel",EN,U
-114,112,"hypoleuca","Pterodroma","Bonin Petrel",LC,U
-120,119,"macroptera","Pterodroma","Great-winged Petrel",LC,U
-121,119,"lessonii","Pterodroma","White-headed Petrel",LC,U
-122,118,"incerta","Pterodroma","Atlantic Petrel",EN,U
-123,117,"magentae","Pterodroma","Magenta Petrel",CR,U
-127,126,"madeira","Pterodroma","Zino's Petrel",EN,U
-128,126,"feae","Pterodroma","Fea's Petrel",NT,U
-129,125,"cahow","Pterodroma","Bermuda Petrel",EN,U
-130,124,"hasitata","Pterodroma","Black-capped Petrel",EN,U
-131,115,"mollis","Pterodroma","Soft-plumaged Petrel",LC,U
-139,138,"salvini","Pachyptila","Medium-billed Prion",LC,U
-140,138,"desolata","Pachyptila","Antarctic Prion",LC,U
-141,137,"vittata","Pachyptila","Broad-billed Prion",LC,U
-142,136,"turtur","Pachyptila","Fairy Prion",LC,U
-144,143,"crassirostris","Pachyptila","Fulmar Prion",LC,U
-145,143,"belcheri","Pachyptila","Thin-billed Prion",LC,U
-146,134,"caerulea","Halobaena","Blue Petrel",LC,U
-147,133,"brevirostris","Lugensa","Kerguelen Petrel",LC,U
-151,150,"georgicus","Pelecanoides","South Georgia Diving-petrel",LC,U
-152,150,"magellani","Pelecanoides","Magellanic Diving-petrel",LC,U
-153,149,"urinatrix","Pelecanoides","Common Diving-petrel",LC,U
-154,148,"garnotii","Pelecanoides","Peruvian Diving-petrel",EN,U
-159,158,"giganteus","Macronectes","Southern Giant-petrel",LC,U
-160,158,"halli","Macronectes","Northern Giant-petrel",LC,U
-162,161,"glacialoides","Fulmarus","Southern Fulmar",LC,U
-163,161,"glacialis","Fulmarus","Northern Fulmar",LC,U
-164,156,"capense","Daption","Cape Petrel",LC,U
-166,165,"antarctica","Thalassoica","Antarctic Petrel",LC,U
-167,165,"nivea","Pagodroma","Snow Petrel",LC,U
-174,173,"melanophrys","Thalassarche","Black-browed Albatross",EN,U
-175,173,"impavida","Thalassarche","Campbell Albatross",VU,U
-176,172,"chrysostoma","Thalassarche","Grey-headed Albatross",VU,U
-178,177,"chlororhynchos","Thalassarche","Atlantic Yellow-nosed Albatross",EN,U
-179,177,"carteri","Thalassarche","Indian Yellow-nosed Albatross",EN,U
-184,183,"steadi","Thalassarche","White-capped Albatross",NT,U
-185,183,"cauta","Thalassarche","Shy Albatross",NT,U
-186,182,"exulans","Diomedea","Wandering Albatross",VU,U
-188,187,"salvini","Thalassarche","Salvin's Albatross",VU,U
-189,187,"eremita","Thalassarche","Chatham Albatross",VU,U
-190,180,"bulleri","Thalassarche","Buller's Albatross",NT,U
-192,191,"palpebrata","Phoebetria","Light-mantled Albatross",NT,U
-193,191,"fusca","Phoebetria","Sooty Albatross",EN,U
-198,197,"amsterdamensis","Diomedea","Amsterdam Albatross",CR,U
-199,197,"antipodensis","Diomedea","Antipodean Albatross",VU,U
-200,196,"dabbenena","Diomedea","Tristan Albatross",CR,U
-202,201,"epomophora","Diomedea","Southern Royal Albatross",VU,U
-203,201,"sanfordi","Diomedea","Northern Royal Albatross",EN,U
-206,205,"nigripes","Phoebastria","Black-footed Albatross",EN,U
-207,205,"immutabilis","Phoebastria","Laysan Albatross",NT,U
-209,208,"albatrus","Phoebastria","Short-tailed Albatross",VU,U
-210,208,"irrorata","Phoebastria","Waved Albatross",CR,U
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"aterrima","Pseudobulweria","Mascarene Petrel",CR,U,-3014646
+16,14,"newelli","Puffinus","Newell's Shearwater",EN,U,-8572416
+17,13,"opisthomelas","Puffinus","Black-vented Shearwater",NT,U,-12486656
+20,19,"lherminieri","Puffinus","Audubon's Shearwater",LC,U,-16731116
+21,19,"assimilis","Puffinus","Little Shearwater",LC,U,-16731116
+22,18,"puffinus","Puffinus","Manx Shearwater",LC,U,-16731116
+24,23,"mauretanicus","Puffinus","Balearic Shearwater",CR,U,-3014646
+25,23,"yelkouan","Puffinus","Yelkouan Shearwater",NT,U,-12486656
+27,26,"gavia","Puffinus","Fluttering Shearwater",LC,U,-16731116
+28,26,"huttoni","Puffinus","Hutton's Shearwater",EN,U,-8572416
+29,9,"auricularis","Puffinus","Townsend's Shearwater",CR,U,-3014646
+30,8,"nativitatis","Puffinus","Christmas Island Shearwater",LC,U,-16731116
+37,36,"carneipes","Puffinus","Flesh-footed Shearwater",LC,U,-16731116
+38,36,"creatopus","Puffinus","Pink-footed Shearwater",VU,U,-11184866
+39,35,"griseus","Puffinus","Sooty Shearwater",NT,U,-12486656
+40,34,"gravis","Puffinus","Great Shearwater",LC,U,-16731116
+41,33,"tenuirostris","Puffinus","Short-tailed Shearwater",LC,U,-16731116
+43,42,"pacificus","Puffinus","Wedge-tailed Shearwater",LC,U,-16731116
+44,42,"bulleri","Puffinus","Buller's Shearwater",VU,U,-11184866
+46,45,"heinrothi","Puffinus","Heinroth's Shearwater",VU,U,-11184866
+47,45,"becki","Pseudobulweria","Beck's Petrel",CR,U,-3014646
+51,50,"edwardsii","Calonectris","Cape Verde Shearwater",NT,U,-12486656
+52,50,"leucomelas","Calonectris","Streaked Shearwater",LC,U,-16731116
+53,49,"diomedea","Calonectris","Cory's Shearwater",LC,U,-16731116
+54,48,"macgillivrayi","Pseudobulweria","Fiji Petrel",CR,U,-3014646
+55,5,"rostrata","Pseudobulweria","Tahiti Petrel",NT,U,-12486656
+61,60,"aequinoctialis","Procellaria","White-chinned Petrel",VU,U,-11184866
+62,60,"conspicillata","Procellaria","Spectacled Petrel",VU,U,-11184866
+63,59,"westlandica","Procellaria","Westland Petrel",VU,U,-11184866
+64,58,"cinerea","Procellaria","Grey Petrel",NT,U,-12486656
+65,57,"parkinsoni","Procellaria","Parkinson's Petrel",VU,U,-11184866
+67,66,"bulwerii","Bulweria","Bulwer's Petrel",LC,U,-16731116
+68,66,"fallax","Bulweria","Jouanin's Petrel",NT,U,-12486656
+80,79,"arminjoniana","Pterodroma","Trindade Petrel",VU,U,-11184866
+81,79,"neglecta","Pterodroma","Kermadec Petrel",LC,U,-16731116
+82,78,"ultima","Pterodroma","Murphy's Petrel",NT,U,-12486656
+84,83,"heraldica","Pterodroma","Herald Petrel",LC,U,-16731116
+85,83,"alba","Pterodroma","Phoenix Petrel",EN,U,-8572416
+86,76,"defilippiana","Pterodroma","De Filippi's Petrel",VU,U,-11184866
+90,89,"sandwichensis","Pterodroma","Hawaiian Petrel",VU,U,-11184866
+91,89,"phaeopygia","Pterodroma","Galapagos Petrel",CR,U,-3014646
+93,92,"cervicalis","Pterodroma","White-necked Petrel",VU,U,-11184866
+94,92,"baraui","Pterodroma","Barau's Petrel",EN,U,-8572416
+95,87,"externa","Pterodroma","Juan Fernandez Petrel",VU,U,-11184866
+98,97,"inexpectata","Pterodroma","Mottled Petrel",NT,U,-12486656
+99,97,"caribbaea","Pterodroma","Jamaica Petrel",CR,U,-3014646
+100,96,"brevipes","Pterodroma","Collared Petrel",NT,U,-12486656
+101,73,"pycrofti","Pterodroma","Pycroft's Petrel",VU,U,-11184866
+102,72,"solandri","Pterodroma","Providence Petrel",VU,U,-11184866
+105,104,"nigripennis","Pterodroma","Black-winged Petrel",LC,U,-16731116
+106,104,"leucoptera","Pterodroma","Gould's Petrel",VU,U,-11184866
+107,103,"axillaris","Pterodroma","Chatham Petrel",EN,U,-8572416
+110,109,"longirostris","Pterodroma","Stejneger's Petrel",VU,U,-11184866
+111,109,"cookii","Pterodroma","Cook's Petrel",VU,U,-11184866
+113,112,"atrata","Pterodroma","Henderson Petrel",EN,U,-8572416
+114,112,"hypoleuca","Pterodroma","Bonin Petrel",LC,U,-16731116
+120,119,"macroptera","Pterodroma","Great-winged Petrel",LC,U,-16731116
+121,119,"lessonii","Pterodroma","White-headed Petrel",LC,U,-16731116
+122,118,"incerta","Pterodroma","Atlantic Petrel",EN,U,-8572416
+123,117,"magentae","Pterodroma","Magenta Petrel",CR,U,-3014646
+127,126,"madeira","Pterodroma","Zino's Petrel",EN,U,-8572416
+128,126,"feae","Pterodroma","Fea's Petrel",NT,U,-12486656
+129,125,"cahow","Pterodroma","Bermuda Petrel",EN,U,-8572416
+130,124,"hasitata","Pterodroma","Black-capped Petrel",EN,U,-8572416
+131,115,"mollis","Pterodroma","Soft-plumaged Petrel",LC,U,-16731116
+139,138,"salvini","Pachyptila","Medium-billed Prion",LC,U,-16731116
+140,138,"desolata","Pachyptila","Antarctic Prion",LC,U,-16731116
+141,137,"vittata","Pachyptila","Broad-billed Prion",LC,U,-16731116
+142,136,"turtur","Pachyptila","Fairy Prion",LC,U,-16731116
+144,143,"crassirostris","Pachyptila","Fulmar Prion",LC,U,-16731116
+145,143,"belcheri","Pachyptila","Thin-billed Prion",LC,U,-16731116
+146,134,"caerulea","Halobaena","Blue Petrel",LC,U,-16731116
+147,133,"brevirostris","Lugensa","Kerguelen Petrel",LC,U,-16731116
+151,150,"georgicus","Pelecanoides","South Georgia Diving-petrel",LC,U,-16731116
+152,150,"magellani","Pelecanoides","Magellanic Diving-petrel",LC,U,-16731116
+153,149,"urinatrix","Pelecanoides","Common Diving-petrel",LC,U,-16731116
+154,148,"garnotii","Pelecanoides","Peruvian Diving-petrel",EN,U,-8572416
+159,158,"giganteus","Macronectes","Southern Giant-petrel",LC,U,-16731116
+160,158,"halli","Macronectes","Northern Giant-petrel",LC,U,-16731116
+162,161,"glacialoides","Fulmarus","Southern Fulmar",LC,U,-16731116
+163,161,"glacialis","Fulmarus","Northern Fulmar",LC,U,-16731116
+164,156,"capense","Daption","Cape Petrel",LC,U,-16731116
+166,165,"antarctica","Thalassoica","Antarctic Petrel",LC,U,-16731116
+167,165,"nivea","Pagodroma","Snow Petrel",LC,U,-16731116
+174,173,"melanophrys","Thalassarche","Black-browed Albatross",EN,U,-8572416
+175,173,"impavida","Thalassarche","Campbell Albatross",VU,U,-11184866
+176,172,"chrysostoma","Thalassarche","Grey-headed Albatross",VU,U,-11184866
+178,177,"chlororhynchos","Thalassarche","Atlantic Yellow-nosed Albatross",EN,U,-8572416
+179,177,"carteri","Thalassarche","Indian Yellow-nosed Albatross",EN,U,-8572416
+184,183,"steadi","Thalassarche","White-capped Albatross",NT,U,-12486656
+185,183,"cauta","Thalassarche","Shy Albatross",NT,U,-12486656
+186,182,"exulans","Diomedea","Wandering Albatross",VU,U,-11184866
+188,187,"salvini","Thalassarche","Salvin's Albatross",VU,U,-11184866
+189,187,"eremita","Thalassarche","Chatham Albatross",VU,U,-11184866
+190,180,"bulleri","Thalassarche","Buller's Albatross",NT,U,-12486656
+192,191,"palpebrata","Phoebetria","Light-mantled Albatross",NT,U,-12486656
+193,191,"fusca","Phoebetria","Sooty Albatross",EN,U,-8572416
+198,197,"amsterdamensis","Diomedea","Amsterdam Albatross",CR,U,-3014646
+199,197,"antipodensis","Diomedea","Antipodean Albatross",VU,U,-11184866
+200,196,"dabbenena","Diomedea","Tristan Albatross",CR,U,-3014646
+202,201,"epomophora","Diomedea","Southern Royal Albatross",VU,U,-11184866
+203,201,"sanfordi","Diomedea","Northern Royal Albatross",EN,U,-8572416
+206,205,"nigripes","Phoebastria","Black-footed Albatross",EN,U,-8572416
+207,205,"immutabilis","Phoebastria","Laysan Albatross",NT,U,-12486656
+209,208,"albatrus","Phoebastria","Short-tailed Albatross",VU,U,-11184866
+210,208,"irrorata","Phoebastria","Waved Albatross",CR,U,-3014646

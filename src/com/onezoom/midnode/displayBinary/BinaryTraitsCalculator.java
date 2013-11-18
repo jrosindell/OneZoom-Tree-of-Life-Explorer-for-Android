@@ -3,10 +3,9 @@ package com.onezoom.midnode.displayBinary;
 import android.util.Log;
 
 import com.onezoom.midnode.MidNode;
-import com.onezoom.midnode.TraitsCaculator;
 import com.onezoom.midnode.Utility;
 
-public class BinaryTraitsCalculator implements TraitsCaculator{
+public class BinaryTraitsCalculator{
 	public static float timelim = -1;
 	public float lengthbr;
 	public String name1, name2, cname;
@@ -15,7 +14,7 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 	public int richness_val;
 	public int myColor;
 	
-	@Override
+	
 	public void initLeafNode(String data) {
 		// TODO Auto-generated method stub
 		setLengthAndRichness(data);
@@ -27,7 +26,7 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		}
 	}
 	
-	@Override
+	
 	public void initInteriorNode(String data) {
 		String cutname = setLengthAndRichness(data);
 		
@@ -40,7 +39,7 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		}
 	}
 	
-	@Override
+	
 	public void setColor(MidNode midNode) {
 		setMyColor(midNode);
 		if (midNode.child1 != null) {
@@ -51,7 +50,10 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		}
 	}
 	
-	@Override
+	public void setColor(int color) {
+		this.myColor = color;
+	}
+	
 	public int getColor() {
 		return myColor;
 	}
@@ -241,72 +243,72 @@ public class BinaryTraitsCalculator implements TraitsCaculator{
 		return data.substring(0, lengthcut1);
 	}
 
-	@Override
+	
 	public float getLengthbr() {
 		return lengthbr;
 	}
 
-	@Override
+	
 	public int getRichness() {
 		return richness_val;
 	}
 
-	@Override
+	
 	public String getCname() {
 		return cname;
 	}
 
-	@Override
+	
 	public String getName1() {
 		return name1;
 	}
 
-	@Override
+	
 	public String getName2() {
 		return name2;
 	}
 
-	@Override
+	
 	public String getRedlist() {
 		return redlist;
 	}
 
-	@Override
+	
 	public String getPopstab() {
 		return popstab;
 	}
 
-	@Override
+	
 	public void setCname(String cname) {
 		this.cname = cname;
 	}
 
-	@Override
+	
 	public void setName1(String name1) {
 		this.name1 = name1;
 	}
 
-	@Override
+	
 	public void setName2(String name2) {
 		this.name2 = name2;
 	}
 
-	@Override
+	
 	public void setRedlist(String redlist) {
 		this.redlist = redlist;
 	}
 
-	@Override
+	
 	public void setPopstab(String popstab) {
 		this.popstab = popstab;
 	}
 
-	@Override
+	
 	public void setLengthbr(float lengthbr) {
 		this.lengthbr = lengthbr;
 	}
 
-	@Override
+	
 	public void setRichness(int richness) {
 		this.richness_val = richness;
 	}

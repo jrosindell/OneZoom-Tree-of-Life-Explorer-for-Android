@@ -1,168 +1,168 @@
-index,parent,name1,name2,common,redlist,popstab
-19,18,"intectus","Handleyomys","Colombian Rice Rat",LC,D
-20,18,"talamancae","Oryzomys","",NE,U
-21,17,"subflavus","Oryzomys","",NE,U
-23,22,"chapmani","Oryzomys","",NE,U
-24,22,"levipes","Oryzomys","",NE,U
-27,26,"saturatior","Oryzomys","",NE,U
-28,26,"devius","Oryzomys","",NE,U
-29,25,"xanthaeolus","Oryzomys","",NE,U
-32,31,"gorgasi","Oryzomys","Gorgas's Rice Rat",EN,D
-33,31,"bolivaris","Oryzomys","",NE,U
-35,34,"yunganus","Oryzomys","",NE,U
-36,34,"laticeps","Oryzomys","",NE,U
-39,38,"macconnelli","Oryzomys","",NE,U
-40,38,"nitidus","Oryzomys","",NE,U
-41,37,"alfaroi","Oryzomys","",NE,U
-48,47,"albigularis","Oryzomys","",NE,U
-49,47,"meridensis","Oryzomys","",NE,U
-50,46,"caracolus","Oryzomys","",NE,U
-51,45,"hammondi","Oryzomys","",NE,U
-52,44,"palustris","Oryzomys","Marsh Rice Rat",LC,S
-53,43,"russatus","Oryzomys","",NE,U
-55,54,"melanotis","Oryzomys","",NE,U
-56,54,"rhabdops","Oryzomys","",NE,U
-60,59,"galapagoensis","Oryzomys","",NE,U
-61,59,"legatus","Oryzomys","",NE,U
-63,62,"auriventer","Oryzomys","",NE,U
-64,62,"angouya","Oryzomys","",NE,U
-67,66,"balneator","Oryzomys","",NE,U
-68,66,"lamia","Oryzomys","",NE,U
-69,65,"dimidiatus","Oryzomys","Thomas's Rice Rat",LC,U
-73,72,"megacephalus","Oryzomys","",NE,U
-74,72,"perenensis","Oryzomys","",NE,U
-75,71,"rostratus","Oryzomys","",NE,U
-76,70,"couesi","Oryzomys","Coues's Rice Rat",LC,U
-78,77,"polius","Oryzomys","",NE,U
-79,77,"keaysi","Oryzomys","",NE,U
-83,82,"chinchilloides","Euneomys","Patagonian Chincilla Mouse",DD,U
-84,82,"mordax","Euneomys","Biting Chincilla Mouse",LC,S
-85,81,"petersoni","Euneomys","Peterson's Chincilla Mouse",LC,S
-86,80,"fossor","Euneomys","Burrowing Euneomys",DD,U
-93,92,"flavicans","Oecomys","Yellow Arboreal Rice Rat",LC,S
-94,92,"roberti","Oecomys","Robert's Arboreal Rice Rat",LC,U
-95,91,"rutilus","Oecomys","Red Arboreal Rice Rat",LC,U
-96,90,"concolor","Oecomys","Unicolored Rice Rat",LC,U
-99,98,"paricola","Oecomys","Brazilian Arboreal Rice Rat",DD,D
-100,98,"auyantepui","Oecomys","",LC,U
-101,97,"cleberi","Oecomys","Cleber's Arboreal Rice Rat",DD,D
-104,103,"trinitatis","Oecomys","Long-furred Rice Rat",LC,S
-105,103,"catherinae","Oecomys","",LC,D
-106,102,"phaeotis","Oecomys","Dusky Arboreal Rice Rat",LC,S
-111,110,"mamorae","Oecomys","Mamore Arboreal Rice Rat",LC,S
-112,110,"rex","Oecomys","King Arboreal Rice Rat",LC,S
-113,109,"superans","Oecomys","Foothill Arboreal Rice Rat",LC,S
-114,108,"speciosus","Oecomys","Arboreal Rice Rat",LC,S
-115,107,"bicolor","Oecomys","Bicolored Arboreal Rice Rat",LC,U
-118,117,"brevicauda","Zygodontomys","Short-tailed Cane Mouse",LC,S
-119,117,"brunneus","Zygodontomys","Brown Cane Mouse",LC,S
-120,116,"ruschii","Abrawayaomys","Rushi's Rat",LC,U
-125,124,"molitor","Lundomys","Lund's Amphibious Rat",LC,D
-126,124,"chacarius","Holochilus","Chaco Marsh Rat",LC,D
-127,123,"sciureus","Holochilus","Marsh Rat",LC,S
-128,122,"brasiliensis","Holochilus","Web-footed Marsh Rat",LC,S
-129,121,"simplex","Pseudoryzomys","Brazilian False Rice Rat",LC,U
-130,3,"roraimae","Podoxymys","Roraima Mouse",VU,U
-131,2,"tarsalis","Irenomys","Chilean Climbing Mouse",LC,S
-141,140,"destructor","Oligoryzomys","Destructive Pygmy Rice Rat",LC,S
-142,140,"andinus","Oligoryzomys","Andean Pygmy Rice Rat",LC,S
-143,139,"flavescens","Oligoryzomys","Yellow Pygmy Rice Rat",LC,S
-144,138,"chacoensis","Oligoryzomys","Chacoan Pygmy Rice Rat",LC,S
-146,145,"nigripes","Oligoryzomys","Black-footed Pygmy Rice Rat",LC,S
-147,145,"arenalis","Oligoryzomys","Sandy Pygmy Rice Rat",LC,D
-150,149,"longicaudatus","Oligoryzomys","Long-tailed Pygmy Rice Rat",LC,S
-151,149,"fulvescens","Oligoryzomys","Fulvous Pygmy Rice Rat",LC,S
-153,152,"victus","Oligoryzomys","St Vincent Pygmy Rice Rat",EX,U
-154,152,"eliurus","Oligoryzomys","Brazilian Pygmy Rice Rat",LC,D
-156,155,"vegetus","Oligoryzomys","Sprightly Pygmy Rice Rat",LC,S
-157,155,"griseolus","Oligoryzomys","Grayish Pygmy Rice Rat",LC,D
-161,160,"microtis","Oligoryzomys","Small-eared Pygmy Rice Rat",LC,S
-162,160,"fornesi","Oligoryzomys","Fornes' Colilargo",LC,D
-163,159,"magellanicus","Oligoryzomys","Magellanic Pygmy Rice Rat",LC,S
-164,158,"delticola","Oligoryzomys","Delta Pygmy Rice Rat",LC,S
-165,133,"candango","Juscelinomys","Candango Mouse",EX,U
-170,169,"oenax","Wilfredomys","Greater Wilfred's Mouse",EN,D
-171,169,"pictipes","Juliomys","Lesser Wilfred's Mouse",LC,U
-172,168,"instans","Chilomys","Colombian Forest Mouse",LC,S
-175,174,"auritus","Reithrodon","Bunny Rat",LC,S
-176,174,"typicus","Reithrodon","",LC,S
-177,173,"edwardsii","Notiomys","Edwards's Long-clawed Mouse",LC,S
-178,166,"sahamae","Chinchillula","Altiplano Chincilla Mouse",LC,S
-193,192,"caprinus","Phyllotis","Capricorn Leaf-eared Mouse",LC,S
-194,192,"osgoodi","Phyllotis","Osgood's Leaf-eared Mouse",DD,U
-196,195,"gerbillus","Paralomys","Gerbil Leaf-eared Mouse",LC,S
-197,195,"amicus","Phyllotis","Friendly Leaf-eared Mouse",LC,S
-200,199,"xanthopygus","Phyllotis","Yellow-rumped Leaf-eared Mouse",LC,S
-201,199,"andium","Phyllotis","Andean Leaf-eared Mouse",LC,S
-203,202,"darwini","Phyllotis","Darwin's Leaf-eared Mouse",LC,S
-204,202,"limatus","Phyllotis","",LC,S
-205,189,"definitus","Phyllotis","Definitive Leaf-eared Mouse",EN,D
-206,188,"bonariensis","Phyllotis","Buenos Aires Leaf-eared Mouse",NT,D
-210,209,"haggardi","Phyllotis","Haggard's Leaf-eared Mouse",LC,S
-211,209,"magister","Phyllotis","Master Leaf-eared Mouse",LC,S
-212,208,"wolffsohni","Phyllotis","Wolffsohn's Leaf-eared Mouse",LC,S
-213,207,"osilae","Phyllotis","Bunchgrass Leaf-eared Mouse",LC,S
-216,215,"boliviensis","Auliscomys","Bolivian Big-eared Mouse",LC,S
-217,215,"pictus","Auliscomys","Painted Big-eared Mouse",LC,S
-219,218,"sublimis","Auliscomys","Andean Big-eared Mouse",LC,S
-220,218,"micropus","Loxodontomys","Southern Pericote",LC,S
-222,221,"pearsoni","Andalgalomys","Pearson's Chaco Mouse",LC,S
-223,221,"olrogi","Andalgalomys","Olrog's Chaco Mouse",LC,U
-227,226,"griseoflavus","Graomys","Gray Leaf-eared Mouse",LC,S
-228,226,"centralis","Graomys","",DD,U
-229,225,"edithae","Graomys","Edith's Leaf-eared Mouse",DD,U
-230,224,"domorum","Graomys","Pale Leaf-eared Mouse",LC,S
-231,183,"rufescens","Rhagomys","Brazilian Arboreal Mouse",NT,D
-239,238,"torresi","Bibimys","Torres's Crimson-nosed Rat",NT,D
-240,238,"chacoensis","Bibimys","Chaco Crimson-nosed Rat",LC,S
-241,237,"labiosus","Bibimys","Large-lipped Crimson-nosed Rat",LC,D
-243,242,"tomentosus","Kunsia","Woolly Giant Rat",LC,D
-244,242,"fronto","Kunsia","Fossorial Giant Rat",EN,D
-246,245,"tumidus","Scapteromys","Swamp Rat",LC,S
-247,245,"aquaticus","Scapteromys","",LC,S
-250,249,"megalonyx","Chelemys","Large Long-clawed Mouse",NT,D
-251,249,"delfini","Chelemys","",DD,U
-252,248,"macronyx","Chelemys","Andean Long-clawed Mouse",LC,U
-255,254,"fernandinae","Nesoryzomys","Fernandina Galapagos Mouse",VU,U
-256,254,"swarthi","Nesoryzomys","Santiago Galapagos Mouse",VU,U
-257,253,"indefessus","Nesoryzomys","Indefatigable Galapagos Mouse",EX,U
-259,258,"aphrastus","Sigmodontomys","Harris's Rice Water Rat",DD,U
-260,258,"alfari","Sigmodontomys","Alfaro's Rice Water Rat",LC,S
-262,261,"melanops","Scolomys","South American Spiny Mouse",LC,U
-263,261,"ucayalensis","Scolomys","Ucayali Spiny Mouse",LC,U
-272,271,"macrurus","Rhipidomys","",LC,U
-273,271,"emiliae","Rhipidomys","",LC,U
-274,270,"mastacalis","Rhipidomys","Long-tailed Climbing Mouse",LC,U
-275,269,"caucensis","Rhipidomys","Cauca Climbing Mouse",DD,U
-278,277,"venustus","Rhipidomys","Charming Climbing Mouse",LC,U
-279,277,"wetzeli","Rhipidomys","Wetzel's Climbing Mouse",LC,S
-280,276,"austrinus","Rhipidomys","Southern Climbing Mouse",LC,S
-282,281,"ochrogaster","Rhipidomys","Yellow-bellied Climbing Mouse",DD,U
-283,281,"leucodactylus","Rhipidomys","White-footed Climbing Mouse",LC,U
-284,266,"venezuelae","Rhipidomys","Venezuelan Climbing Mouse",LC,S
-289,288,"couesi","Rhipidomys","Coues's Climbing Mouse",LC,S
-290,288,"modicus","Rhipidomys","",NT,D
-291,287,"macconnelli","Rhipidomys","Macconnell's Climbing Mouse",LC,S
-292,286,"fulviventer","Rhipidomys","Buff-bellied Climbing Mouse",LC,U
-294,293,"latimanus","Rhipidomys","Broad-footed Climbing Mouse",LC,D
-295,293,"nitela","Rhipidomys","Splendid Climbing Mouse",LC,S
-303,302,"squamipes","Nectomys","South American Water Rat",LC,U
-304,302,"magdalenae","Nectomys","",DD,U
-305,301,"apicalis","Nectomys","",LC,S
-306,300,"palmipes","Nectomys","Trinidad Water Rat",LC,U
-307,299,"rattus","Nectomys","Amazonian Mouse",LC,S
-310,309,"dorsalis","Delomys","Striped Atlantic Forest Rat",LC,D
-311,309,"collinus","Delomys","Montane Delomys",LC,D
-312,308,"sublineatus","Delomys","Pallid Atlantic Forest Rat",LC,U
-314,313,"garleppi","Galenomys","Gerlepp's Mouse",DD,U
-315,313,"lemminus","Punomys","Puna Mouse",VU,U
-317,316,"lasiotis","Thalpomys","Hairy-eared Cerrado Mouse",LC,U
-318,316,"cerradensis","Thalpomys","Cerrado Mouse",LC,U
-323,322,"lasiurus","Necromys","Hairy-tailed Bolo Mouse",LC,U
-324,322,"lenguarum","Necromys","",LC,S
-325,321,"temchuki","Necromys","Temchuk's Bolo Mouse",LC,S
-327,326,"obscurus","Necromys","Dark Bolo Mouse",NT,D
-328,326,"benefactus","Necromys","",LC,D
-331,330,"punctulatus","Necromys","Spotted Bolo Mouse",DD,U
-332,330,"amoenus","Necromys","Pleasant Bolo Mouse",LC,S
-333,329,"lactens","Necromys","Rufous-bellied Bolo Mouse",LC,D
+index,parent,name1,name2,common,redlist,popstab,color
+19,18,"intectus","Handleyomys","Colombian Rice Rat",LC,D,-16731116
+20,18,"talamancae","Oryzomys","",NE,U,-16777216
+21,17,"subflavus","Oryzomys","",NE,U,-16777216
+23,22,"chapmani","Oryzomys","",NE,U,-16777216
+24,22,"levipes","Oryzomys","",NE,U,-16777216
+27,26,"saturatior","Oryzomys","",NE,U,-16777216
+28,26,"devius","Oryzomys","",NE,U,-16777216
+29,25,"xanthaeolus","Oryzomys","",NE,U,-16777216
+32,31,"gorgasi","Oryzomys","Gorgas's Rice Rat",EN,D,-8572416
+33,31,"bolivaris","Oryzomys","",NE,U,-16777216
+35,34,"yunganus","Oryzomys","",NE,U,-16777216
+36,34,"laticeps","Oryzomys","",NE,U,-16777216
+39,38,"macconnelli","Oryzomys","",NE,U,-16777216
+40,38,"nitidus","Oryzomys","",NE,U,-16777216
+41,37,"alfaroi","Oryzomys","",NE,U,-16777216
+48,47,"albigularis","Oryzomys","",NE,U,-16777216
+49,47,"meridensis","Oryzomys","",NE,U,-16777216
+50,46,"caracolus","Oryzomys","",NE,U,-16777216
+51,45,"hammondi","Oryzomys","",NE,U,-16777216
+52,44,"palustris","Oryzomys","Marsh Rice Rat",LC,S,-16731116
+53,43,"russatus","Oryzomys","",NE,U,-16777216
+55,54,"melanotis","Oryzomys","",NE,U,-16777216
+56,54,"rhabdops","Oryzomys","",NE,U,-16777216
+60,59,"galapagoensis","Oryzomys","",NE,U,-16777216
+61,59,"legatus","Oryzomys","",NE,U,-16777216
+63,62,"auriventer","Oryzomys","",NE,U,-16777216
+64,62,"angouya","Oryzomys","",NE,U,-16777216
+67,66,"balneator","Oryzomys","",NE,U,-16777216
+68,66,"lamia","Oryzomys","",NE,U,-16777216
+69,65,"dimidiatus","Oryzomys","Thomas's Rice Rat",LC,U,-16731116
+73,72,"megacephalus","Oryzomys","",NE,U,-16777216
+74,72,"perenensis","Oryzomys","",NE,U,-16777216
+75,71,"rostratus","Oryzomys","",NE,U,-16777216
+76,70,"couesi","Oryzomys","Coues's Rice Rat",LC,U,-16731116
+78,77,"polius","Oryzomys","",NE,U,-16777216
+79,77,"keaysi","Oryzomys","",NE,U,-16777216
+83,82,"chinchilloides","Euneomys","Patagonian Chincilla Mouse",DD,U,-11513776
+84,82,"mordax","Euneomys","Biting Chincilla Mouse",LC,S,-16731116
+85,81,"petersoni","Euneomys","Peterson's Chincilla Mouse",LC,S,-16731116
+86,80,"fossor","Euneomys","Burrowing Euneomys",DD,U,-11513776
+93,92,"flavicans","Oecomys","Yellow Arboreal Rice Rat",LC,S,-16731116
+94,92,"roberti","Oecomys","Robert's Arboreal Rice Rat",LC,U,-16731116
+95,91,"rutilus","Oecomys","Red Arboreal Rice Rat",LC,U,-16731116
+96,90,"concolor","Oecomys","Unicolored Rice Rat",LC,U,-16731116
+99,98,"paricola","Oecomys","Brazilian Arboreal Rice Rat",DD,D,-11513776
+100,98,"auyantepui","Oecomys","",LC,U,-16731116
+101,97,"cleberi","Oecomys","Cleber's Arboreal Rice Rat",DD,D,-11513776
+104,103,"trinitatis","Oecomys","Long-furred Rice Rat",LC,S,-16731116
+105,103,"catherinae","Oecomys","",LC,D,-16731116
+106,102,"phaeotis","Oecomys","Dusky Arboreal Rice Rat",LC,S,-16731116
+111,110,"mamorae","Oecomys","Mamore Arboreal Rice Rat",LC,S,-16731116
+112,110,"rex","Oecomys","King Arboreal Rice Rat",LC,S,-16731116
+113,109,"superans","Oecomys","Foothill Arboreal Rice Rat",LC,S,-16731116
+114,108,"speciosus","Oecomys","Arboreal Rice Rat",LC,S,-16731116
+115,107,"bicolor","Oecomys","Bicolored Arboreal Rice Rat",LC,U,-16731116
+118,117,"brevicauda","Zygodontomys","Short-tailed Cane Mouse",LC,S,-16731116
+119,117,"brunneus","Zygodontomys","Brown Cane Mouse",LC,S,-16731116
+120,116,"ruschii","Abrawayaomys","Rushi's Rat",LC,U,-16731116
+125,124,"molitor","Lundomys","Lund's Amphibious Rat",LC,D,-16731116
+126,124,"chacarius","Holochilus","Chaco Marsh Rat",LC,D,-16731116
+127,123,"sciureus","Holochilus","Marsh Rat",LC,S,-16731116
+128,122,"brasiliensis","Holochilus","Web-footed Marsh Rat",LC,S,-16731116
+129,121,"simplex","Pseudoryzomys","Brazilian False Rice Rat",LC,U,-16731116
+130,3,"roraimae","Podoxymys","Roraima Mouse",VU,U,-11184866
+131,2,"tarsalis","Irenomys","Chilean Climbing Mouse",LC,S,-16731116
+141,140,"destructor","Oligoryzomys","Destructive Pygmy Rice Rat",LC,S,-16731116
+142,140,"andinus","Oligoryzomys","Andean Pygmy Rice Rat",LC,S,-16731116
+143,139,"flavescens","Oligoryzomys","Yellow Pygmy Rice Rat",LC,S,-16731116
+144,138,"chacoensis","Oligoryzomys","Chacoan Pygmy Rice Rat",LC,S,-16731116
+146,145,"nigripes","Oligoryzomys","Black-footed Pygmy Rice Rat",LC,S,-16731116
+147,145,"arenalis","Oligoryzomys","Sandy Pygmy Rice Rat",LC,D,-16731116
+150,149,"longicaudatus","Oligoryzomys","Long-tailed Pygmy Rice Rat",LC,S,-16731116
+151,149,"fulvescens","Oligoryzomys","Fulvous Pygmy Rice Rat",LC,S,-16731116
+153,152,"victus","Oligoryzomys","St Vincent Pygmy Rice Rat",EX,U,-16777036
+154,152,"eliurus","Oligoryzomys","Brazilian Pygmy Rice Rat",LC,D,-16731116
+156,155,"vegetus","Oligoryzomys","Sprightly Pygmy Rice Rat",LC,S,-16731116
+157,155,"griseolus","Oligoryzomys","Grayish Pygmy Rice Rat",LC,D,-16731116
+161,160,"microtis","Oligoryzomys","Small-eared Pygmy Rice Rat",LC,S,-16731116
+162,160,"fornesi","Oligoryzomys","Fornes' Colilargo",LC,D,-16731116
+163,159,"magellanicus","Oligoryzomys","Magellanic Pygmy Rice Rat",LC,S,-16731116
+164,158,"delticola","Oligoryzomys","Delta Pygmy Rice Rat",LC,S,-16731116
+165,133,"candango","Juscelinomys","Candango Mouse",EX,U,-16777036
+170,169,"oenax","Wilfredomys","Greater Wilfred's Mouse",EN,D,-8572416
+171,169,"pictipes","Juliomys","Lesser Wilfred's Mouse",LC,U,-16731116
+172,168,"instans","Chilomys","Colombian Forest Mouse",LC,S,-16731116
+175,174,"auritus","Reithrodon","Bunny Rat",LC,S,-16731116
+176,174,"typicus","Reithrodon","",LC,S,-16731116
+177,173,"edwardsii","Notiomys","Edwards's Long-clawed Mouse",LC,S,-16731116
+178,166,"sahamae","Chinchillula","Altiplano Chincilla Mouse",LC,S,-16731116
+193,192,"caprinus","Phyllotis","Capricorn Leaf-eared Mouse",LC,S,-16731116
+194,192,"osgoodi","Phyllotis","Osgood's Leaf-eared Mouse",DD,U,-11513776
+196,195,"gerbillus","Paralomys","Gerbil Leaf-eared Mouse",LC,S,-16731116
+197,195,"amicus","Phyllotis","Friendly Leaf-eared Mouse",LC,S,-16731116
+200,199,"xanthopygus","Phyllotis","Yellow-rumped Leaf-eared Mouse",LC,S,-16731116
+201,199,"andium","Phyllotis","Andean Leaf-eared Mouse",LC,S,-16731116
+203,202,"darwini","Phyllotis","Darwin's Leaf-eared Mouse",LC,S,-16731116
+204,202,"limatus","Phyllotis","",LC,S,-16731116
+205,189,"definitus","Phyllotis","Definitive Leaf-eared Mouse",EN,D,-8572416
+206,188,"bonariensis","Phyllotis","Buenos Aires Leaf-eared Mouse",NT,D,-12486656
+210,209,"haggardi","Phyllotis","Haggard's Leaf-eared Mouse",LC,S,-16731116
+211,209,"magister","Phyllotis","Master Leaf-eared Mouse",LC,S,-16731116
+212,208,"wolffsohni","Phyllotis","Wolffsohn's Leaf-eared Mouse",LC,S,-16731116
+213,207,"osilae","Phyllotis","Bunchgrass Leaf-eared Mouse",LC,S,-16731116
+216,215,"boliviensis","Auliscomys","Bolivian Big-eared Mouse",LC,S,-16731116
+217,215,"pictus","Auliscomys","Painted Big-eared Mouse",LC,S,-16731116
+219,218,"sublimis","Auliscomys","Andean Big-eared Mouse",LC,S,-16731116
+220,218,"micropus","Loxodontomys","Southern Pericote",LC,S,-16731116
+222,221,"pearsoni","Andalgalomys","Pearson's Chaco Mouse",LC,S,-16731116
+223,221,"olrogi","Andalgalomys","Olrog's Chaco Mouse",LC,U,-16731116
+227,226,"griseoflavus","Graomys","Gray Leaf-eared Mouse",LC,S,-16731116
+228,226,"centralis","Graomys","",DD,U,-11513776
+229,225,"edithae","Graomys","Edith's Leaf-eared Mouse",DD,U,-11513776
+230,224,"domorum","Graomys","Pale Leaf-eared Mouse",LC,S,-16731116
+231,183,"rufescens","Rhagomys","Brazilian Arboreal Mouse",NT,D,-12486656
+239,238,"torresi","Bibimys","Torres's Crimson-nosed Rat",NT,D,-12486656
+240,238,"chacoensis","Bibimys","Chaco Crimson-nosed Rat",LC,S,-16731116
+241,237,"labiosus","Bibimys","Large-lipped Crimson-nosed Rat",LC,D,-16731116
+243,242,"tomentosus","Kunsia","Woolly Giant Rat",LC,D,-16731116
+244,242,"fronto","Kunsia","Fossorial Giant Rat",EN,D,-8572416
+246,245,"tumidus","Scapteromys","Swamp Rat",LC,S,-16731116
+247,245,"aquaticus","Scapteromys","",LC,S,-16731116
+250,249,"megalonyx","Chelemys","Large Long-clawed Mouse",NT,D,-12486656
+251,249,"delfini","Chelemys","",DD,U,-11513776
+252,248,"macronyx","Chelemys","Andean Long-clawed Mouse",LC,U,-16731116
+255,254,"fernandinae","Nesoryzomys","Fernandina Galapagos Mouse",VU,U,-11184866
+256,254,"swarthi","Nesoryzomys","Santiago Galapagos Mouse",VU,U,-11184866
+257,253,"indefessus","Nesoryzomys","Indefatigable Galapagos Mouse",EX,U,-16777036
+259,258,"aphrastus","Sigmodontomys","Harris's Rice Water Rat",DD,U,-11513776
+260,258,"alfari","Sigmodontomys","Alfaro's Rice Water Rat",LC,S,-16731116
+262,261,"melanops","Scolomys","South American Spiny Mouse",LC,U,-16731116
+263,261,"ucayalensis","Scolomys","Ucayali Spiny Mouse",LC,U,-16731116
+272,271,"macrurus","Rhipidomys","",LC,U,-16731116
+273,271,"emiliae","Rhipidomys","",LC,U,-16731116
+274,270,"mastacalis","Rhipidomys","Long-tailed Climbing Mouse",LC,U,-16731116
+275,269,"caucensis","Rhipidomys","Cauca Climbing Mouse",DD,U,-11513776
+278,277,"venustus","Rhipidomys","Charming Climbing Mouse",LC,U,-16731116
+279,277,"wetzeli","Rhipidomys","Wetzel's Climbing Mouse",LC,S,-16731116
+280,276,"austrinus","Rhipidomys","Southern Climbing Mouse",LC,S,-16731116
+282,281,"ochrogaster","Rhipidomys","Yellow-bellied Climbing Mouse",DD,U,-11513776
+283,281,"leucodactylus","Rhipidomys","White-footed Climbing Mouse",LC,U,-16731116
+284,266,"venezuelae","Rhipidomys","Venezuelan Climbing Mouse",LC,S,-16731116
+289,288,"couesi","Rhipidomys","Coues's Climbing Mouse",LC,S,-16731116
+290,288,"modicus","Rhipidomys","",NT,D,-12486656
+291,287,"macconnelli","Rhipidomys","Macconnell's Climbing Mouse",LC,S,-16731116
+292,286,"fulviventer","Rhipidomys","Buff-bellied Climbing Mouse",LC,U,-16731116
+294,293,"latimanus","Rhipidomys","Broad-footed Climbing Mouse",LC,D,-16731116
+295,293,"nitela","Rhipidomys","Splendid Climbing Mouse",LC,S,-16731116
+303,302,"squamipes","Nectomys","South American Water Rat",LC,U,-16731116
+304,302,"magdalenae","Nectomys","",DD,U,-11513776
+305,301,"apicalis","Nectomys","",LC,S,-16731116
+306,300,"palmipes","Nectomys","Trinidad Water Rat",LC,U,-16731116
+307,299,"rattus","Nectomys","Amazonian Mouse",LC,S,-16731116
+310,309,"dorsalis","Delomys","Striped Atlantic Forest Rat",LC,D,-16731116
+311,309,"collinus","Delomys","Montane Delomys",LC,D,-16731116
+312,308,"sublineatus","Delomys","Pallid Atlantic Forest Rat",LC,U,-16731116
+314,313,"garleppi","Galenomys","Gerlepp's Mouse",DD,U,-11513776
+315,313,"lemminus","Punomys","Puna Mouse",VU,U,-11184866
+317,316,"lasiotis","Thalpomys","Hairy-eared Cerrado Mouse",LC,U,-16731116
+318,316,"cerradensis","Thalpomys","Cerrado Mouse",LC,U,-16731116
+323,322,"lasiurus","Necromys","Hairy-tailed Bolo Mouse",LC,U,-16731116
+324,322,"lenguarum","Necromys","",LC,S,-16731116
+325,321,"temchuki","Necromys","Temchuk's Bolo Mouse",LC,S,-16731116
+327,326,"obscurus","Necromys","Dark Bolo Mouse",NT,D,-12486656
+328,326,"benefactus","Necromys","",LC,D,-16731116
+331,330,"punctulatus","Necromys","Spotted Bolo Mouse",DD,U,-11513776
+332,330,"amoenus","Necromys","Pleasant Bolo Mouse",LC,S,-16731116
+333,329,"lactens","Necromys","Rufous-bellied Bolo Mouse",LC,D,-16731116

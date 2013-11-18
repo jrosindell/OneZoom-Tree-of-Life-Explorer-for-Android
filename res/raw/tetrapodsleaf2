@@ -1,101 +1,101 @@
-index,parent,name1,name2,common,redlist,popstab
-17,16,"superciliosa","Woodfordia","Bare-eyed White-eye",LC,U
-18,16,"lacertosa","Woodfordia","Sanford's White-eye",NT,U
-19,15,"ficedulinus","Zosterops","Sao Tome White-eye",VU,U
-20,14,"flavifrons","Zosterops","Yellow-fronted White-eye",LC,U
-24,23,"meeki","Zosterops","White-throated White-eye",DD,U
-25,23,"lateralis","Zosterops","Silvereye",LC,U
-26,22,"conspicillatus","Zosterops","Bridled White-eye",EN,U
-27,21,"kuehni","Zosterops","Ambon Yellow White-eye",NT,U
-33,32,"kulambangrae","Zosterops","Solomons White-eye",LC,U
-34,32,"samoensis","Zosterops","Samoan White-eye",VU,U
-35,31,"rendovae","Zosterops","Grey-throated White-eye",LC,U
-36,30,"splendidus","Zosterops","Ranongga White-eye",VU,U
-37,29,"luteirostris","Zosterops","Splendid White-eye",EN,U
-39,38,"vellalavella","Zosterops","Banded White-eye",NT,U
-40,38,"hypolais","Zosterops","Plain White-eye",NT,U
-46,45,"tenuirostris","Zosterops","Slender-billed White-eye",EN,U
-47,45,"inornatus","Zosterops","Large Lifu White-eye",LC,U
-48,44,"rennellianus","Zosterops","Rennell White-eye",LC,U
-51,50,"griseotinctus","Zosterops","Louisiade White-eye",LC,U
-52,50,"murphyi","Zosterops","Hermit White-eye",LC,U
-53,49,"rotensis","Zosterops","Rota Bridled White-eye",CR,U
-54,42,"stalkeri","Zosterops","Seram White-eye",LC,U
-55,41,"ceylonensis","Zosterops","Sri Lanka White-eye",LC,U
-60,59,"citrinella","Zosterops","Ashy-bellied White-eye",LC,U
-61,59,"nehrkorni","Zosterops","Sangihe White-eye",CR,U
-62,58,"buruensis","Zosterops","Buru Yellow White-eye",LC,U
-64,63,"luteus","Zosterops","Australian Yellow White-eye",LC,U
-65,63,"hypoxanthus","Zosterops","Black-headed White-eye",LC,U
-69,68,"oleagineus","Zosterops","Yap Olive White-eye",NT,U
-70,68,"cinereus","Zosterops","Grey-brown White-eye",LC,U
-71,67,"fuscicapilla","Zosterops","Capped White-eye",LC,U
-73,72,"metcalfii","Zosterops","Yellow-throated White-eye",LC,U
-74,72,"stresemanni","Zosterops","Malaita White-eye",LC,U
-75,9,"nigrorum","Zosterops","Golden-yellow White-eye",LC,U
-81,80,"erythropleurus","Zosterops","Chestnut-flanked White-eye",LC,U
-82,80,"abyssinicus","Zosterops","White-breasted White-eye",LC,U
-83,79,"atricapilla","Zosterops","Black-capped White-eye",LC,U
-85,84,"japonicus","Zosterops","Japanese White-eye",LC,U
-86,84,"montanus","Zosterops","Mountain White-eye",LC,U
-88,87,"somadikartai","Zosterops","Togian White-eye",NT,U
-89,87,"emiliae","Chlorocharis","Mountain Blackeye",LC,U
-90,76,"everetti","Zosterops","Everett's White-eye",LC,U
-96,95,"uropygialis","Zosterops","Golden-bellied White-eye",NT,U
-97,95,"flavus","Zosterops","Javan White-eye",NT,U
-98,94,"atrifrons","Zosterops","Black-crowned White-eye",LC,U
-99,93,"salvadorii","Zosterops","Enggano White-eye",LC,U
-101,100,"novaeguineae","Zosterops","New Guinea White-eye",LC,U
-102,100,"chloris","Zosterops","Lemon-bellied White-eye",LC,U
-103,91,"anomalus","Zosterops","Lemon-throated White-eye",LC,U
-111,110,"lugubris","Speirops","Black-capped Speirops",LC,U
-112,110,"leucophoeus","Speirops","Principe Speirops",NT,U
-113,109,"brunneus","Speirops","Fernando Po Speirops",VU,U
-114,108,"melanocephalus","Speirops","Mount Cameroon Speirops",VU,U
-117,116,"senegalensis","Zosterops","African Yellow White-eye",LC,U
-118,116,"mysorensis","Zosterops","Biak White-eye",NT,U
-120,119,"poliogastrus","Zosterops","Montane White-eye",LC,U
-121,119,"explorator","Zosterops","Layard's White-eye",LC,U
-123,122,"sordidus","Micromacronus","Mindanao Miniature-babbler",DD,U
-124,122,"leytensis","Micromacronus","Visayan Miniature-babbler",DD,U
-127,126,"maderaspatanus","Zosterops","Madagascar White-eye",LC,U
-128,126,"modestus","Zosterops","Seychelles White-eye",EN,U
-129,125,"pallidus","Zosterops","Pale White-eye",LC,U
-134,133,"mouroniensis","Zosterops","Mount Karthala White-eye",VU,U
-135,133,"borbonicus","Zosterops","Mascarene Grey White-eye",LC,U
-136,132,"olivaceus","Zosterops","Reunion Olive White-eye",LC,U
-139,138,"sanctaecrucis","Zosterops","Santa Cruz White-eye",LC,U
-140,138,"natalis","Zosterops","Christmas Island White-eye",VU,U
-141,137,"semperi","Zosterops","Caroline Islands White-eye",LC,U
-144,143,"palpebrosus","Zosterops","Oriental White-eye",LC,U
-145,143,"mayottensis","Zosterops","Mayotte White-eye",LC,U
-146,142,"meyeni","Zosterops","Lowland White-eye",LC,U
-147,5,"ruficollis","Madanga","Rufous-throated White-eye",EN,U
-151,150,"xanthochroa","Zosterops","Green-backed White-eye",LC,U
-152,150,"atriceps","Zosterops","Creamy-throated White-eye",LC,U
-153,149,"finschii","Zosterops","Dusky White-eye",LC,U
-155,154,"albogularis","Zosterops","White-chested White-eye",CR,U
-156,154,"vaughani","Zosterops","Pemba White-eye",LC,U
-162,161,"chloronothus","Zosterops","Mauritius Olive White-eye",CR,U
-163,161,"minutus","Zosterops","Small Lifu White-eye",LC,U
-165,164,"palauensis","Megazosterops","Giant White-eye",NT,U
-166,164,"grayi","Zosterops","Pearl-bellied White-eye",NT,U
-167,159,"gibbsi","Zosterops","Vanikoro White-eye",LC,U
-170,169,"consobrinorum","Zosterops","Pale-bellied White-eye",LC,U
-171,169,"griseovirescens","Zosterops","Annobon White-eye",VU,U
-172,168,"stalkeri","Tephrozosterops","Bicoloured White-eye",LC,U
-174,173,"wallacei","Zosterops","Yellow-spectacled White-eye",LC,U
-175,173,"minor","Zosterops","Black-fronted White-eye",LC,U
-181,180,"javanicus","Lophozosterops","Javan Grey-throated White-eye",LC,U
-182,180,"dohertyi","Lophozosterops","Crested White-eye",LC,U
-184,183,"squamiceps","Lophozosterops","Streaky-headed White-eye",LC,U
-185,183,"pinaiae","Lophozosterops","Grey-hooded White-eye",LC,U
-186,178,"goodfellowi","Lophozosterops","Black-masked White-eye",LC,U
-187,177,"superciliaris","Lophozosterops","Yellow-browed White-eye",LC,U
-190,189,"crassirostris","Heleia","Thick-billed White-eye",LC,U
-191,189,"muelleri","Heleia","Spot-breasted White-eye",NT,U
-192,188,"squamifrons","Oculocincta","Pygmy White-eye",LC,U
-193,1,"marchei","Cleptornis","Golden White-eye",CR,U
-196,195,"leucogrammica","Ptilocichla","Bornean Wren-babbler",VU,U
-197,195,"mindanensis","Ptilocichla","Striated Wren-babbler",LC,U
-198,194,"falcata","Ptilocichla","Falcated Wren-babbler",VU,U
+index,parent,name1,name2,common,redlist,popstab,color
+17,16,"superciliosa","Woodfordia","Bare-eyed White-eye",LC,U,-16731116
+18,16,"lacertosa","Woodfordia","Sanford's White-eye",NT,U,-12486656
+19,15,"ficedulinus","Zosterops","Sao Tome White-eye",VU,U,-11184866
+20,14,"flavifrons","Zosterops","Yellow-fronted White-eye",LC,U,-16731116
+24,23,"meeki","Zosterops","White-throated White-eye",DD,U,-11513776
+25,23,"lateralis","Zosterops","Silvereye",LC,U,-16731116
+26,22,"conspicillatus","Zosterops","Bridled White-eye",EN,U,-8572416
+27,21,"kuehni","Zosterops","Ambon Yellow White-eye",NT,U,-12486656
+33,32,"kulambangrae","Zosterops","Solomons White-eye",LC,U,-16731116
+34,32,"samoensis","Zosterops","Samoan White-eye",VU,U,-11184866
+35,31,"rendovae","Zosterops","Grey-throated White-eye",LC,U,-16731116
+36,30,"splendidus","Zosterops","Ranongga White-eye",VU,U,-11184866
+37,29,"luteirostris","Zosterops","Splendid White-eye",EN,U,-8572416
+39,38,"vellalavella","Zosterops","Banded White-eye",NT,U,-12486656
+40,38,"hypolais","Zosterops","Plain White-eye",NT,U,-12486656
+46,45,"tenuirostris","Zosterops","Slender-billed White-eye",EN,U,-8572416
+47,45,"inornatus","Zosterops","Large Lifu White-eye",LC,U,-16731116
+48,44,"rennellianus","Zosterops","Rennell White-eye",LC,U,-16731116
+51,50,"griseotinctus","Zosterops","Louisiade White-eye",LC,U,-16731116
+52,50,"murphyi","Zosterops","Hermit White-eye",LC,U,-16731116
+53,49,"rotensis","Zosterops","Rota Bridled White-eye",CR,U,-3014646
+54,42,"stalkeri","Zosterops","Seram White-eye",LC,U,-16731116
+55,41,"ceylonensis","Zosterops","Sri Lanka White-eye",LC,U,-16731116
+60,59,"citrinella","Zosterops","Ashy-bellied White-eye",LC,U,-16731116
+61,59,"nehrkorni","Zosterops","Sangihe White-eye",CR,U,-3014646
+62,58,"buruensis","Zosterops","Buru Yellow White-eye",LC,U,-16731116
+64,63,"luteus","Zosterops","Australian Yellow White-eye",LC,U,-16731116
+65,63,"hypoxanthus","Zosterops","Black-headed White-eye",LC,U,-16731116
+69,68,"oleagineus","Zosterops","Yap Olive White-eye",NT,U,-12486656
+70,68,"cinereus","Zosterops","Grey-brown White-eye",LC,U,-16731116
+71,67,"fuscicapilla","Zosterops","Capped White-eye",LC,U,-16731116
+73,72,"metcalfii","Zosterops","Yellow-throated White-eye",LC,U,-16731116
+74,72,"stresemanni","Zosterops","Malaita White-eye",LC,U,-16731116
+75,9,"nigrorum","Zosterops","Golden-yellow White-eye",LC,U,-16731116
+81,80,"erythropleurus","Zosterops","Chestnut-flanked White-eye",LC,U,-16731116
+82,80,"abyssinicus","Zosterops","White-breasted White-eye",LC,U,-16731116
+83,79,"atricapilla","Zosterops","Black-capped White-eye",LC,U,-16731116
+85,84,"japonicus","Zosterops","Japanese White-eye",LC,U,-16731116
+86,84,"montanus","Zosterops","Mountain White-eye",LC,U,-16731116
+88,87,"somadikartai","Zosterops","Togian White-eye",NT,U,-12486656
+89,87,"emiliae","Chlorocharis","Mountain Blackeye",LC,U,-16731116
+90,76,"everetti","Zosterops","Everett's White-eye",LC,U,-16731116
+96,95,"uropygialis","Zosterops","Golden-bellied White-eye",NT,U,-12486656
+97,95,"flavus","Zosterops","Javan White-eye",NT,U,-12486656
+98,94,"atrifrons","Zosterops","Black-crowned White-eye",LC,U,-16731116
+99,93,"salvadorii","Zosterops","Enggano White-eye",LC,U,-16731116
+101,100,"novaeguineae","Zosterops","New Guinea White-eye",LC,U,-16731116
+102,100,"chloris","Zosterops","Lemon-bellied White-eye",LC,U,-16731116
+103,91,"anomalus","Zosterops","Lemon-throated White-eye",LC,U,-16731116
+111,110,"lugubris","Speirops","Black-capped Speirops",LC,U,-16731116
+112,110,"leucophoeus","Speirops","Principe Speirops",NT,U,-12486656
+113,109,"brunneus","Speirops","Fernando Po Speirops",VU,U,-11184866
+114,108,"melanocephalus","Speirops","Mount Cameroon Speirops",VU,U,-11184866
+117,116,"senegalensis","Zosterops","African Yellow White-eye",LC,U,-16731116
+118,116,"mysorensis","Zosterops","Biak White-eye",NT,U,-12486656
+120,119,"poliogastrus","Zosterops","Montane White-eye",LC,U,-16731116
+121,119,"explorator","Zosterops","Layard's White-eye",LC,U,-16731116
+123,122,"sordidus","Micromacronus","Mindanao Miniature-babbler",DD,U,-11513776
+124,122,"leytensis","Micromacronus","Visayan Miniature-babbler",DD,U,-11513776
+127,126,"maderaspatanus","Zosterops","Madagascar White-eye",LC,U,-16731116
+128,126,"modestus","Zosterops","Seychelles White-eye",EN,U,-8572416
+129,125,"pallidus","Zosterops","Pale White-eye",LC,U,-16731116
+134,133,"mouroniensis","Zosterops","Mount Karthala White-eye",VU,U,-11184866
+135,133,"borbonicus","Zosterops","Mascarene Grey White-eye",LC,U,-16731116
+136,132,"olivaceus","Zosterops","Reunion Olive White-eye",LC,U,-16731116
+139,138,"sanctaecrucis","Zosterops","Santa Cruz White-eye",LC,U,-16731116
+140,138,"natalis","Zosterops","Christmas Island White-eye",VU,U,-11184866
+141,137,"semperi","Zosterops","Caroline Islands White-eye",LC,U,-16731116
+144,143,"palpebrosus","Zosterops","Oriental White-eye",LC,U,-16731116
+145,143,"mayottensis","Zosterops","Mayotte White-eye",LC,U,-16731116
+146,142,"meyeni","Zosterops","Lowland White-eye",LC,U,-16731116
+147,5,"ruficollis","Madanga","Rufous-throated White-eye",EN,U,-8572416
+151,150,"xanthochroa","Zosterops","Green-backed White-eye",LC,U,-16731116
+152,150,"atriceps","Zosterops","Creamy-throated White-eye",LC,U,-16731116
+153,149,"finschii","Zosterops","Dusky White-eye",LC,U,-16731116
+155,154,"albogularis","Zosterops","White-chested White-eye",CR,U,-3014646
+156,154,"vaughani","Zosterops","Pemba White-eye",LC,U,-16731116
+162,161,"chloronothus","Zosterops","Mauritius Olive White-eye",CR,U,-3014646
+163,161,"minutus","Zosterops","Small Lifu White-eye",LC,U,-16731116
+165,164,"palauensis","Megazosterops","Giant White-eye",NT,U,-12486656
+166,164,"grayi","Zosterops","Pearl-bellied White-eye",NT,U,-12486656
+167,159,"gibbsi","Zosterops","Vanikoro White-eye",LC,U,-16731116
+170,169,"consobrinorum","Zosterops","Pale-bellied White-eye",LC,U,-16731116
+171,169,"griseovirescens","Zosterops","Annobon White-eye",VU,U,-11184866
+172,168,"stalkeri","Tephrozosterops","Bicoloured White-eye",LC,U,-16731116
+174,173,"wallacei","Zosterops","Yellow-spectacled White-eye",LC,U,-16731116
+175,173,"minor","Zosterops","Black-fronted White-eye",LC,U,-16731116
+181,180,"javanicus","Lophozosterops","Javan Grey-throated White-eye",LC,U,-16731116
+182,180,"dohertyi","Lophozosterops","Crested White-eye",LC,U,-16731116
+184,183,"squamiceps","Lophozosterops","Streaky-headed White-eye",LC,U,-16731116
+185,183,"pinaiae","Lophozosterops","Grey-hooded White-eye",LC,U,-16731116
+186,178,"goodfellowi","Lophozosterops","Black-masked White-eye",LC,U,-16731116
+187,177,"superciliaris","Lophozosterops","Yellow-browed White-eye",LC,U,-16731116
+190,189,"crassirostris","Heleia","Thick-billed White-eye",LC,U,-16731116
+191,189,"muelleri","Heleia","Spot-breasted White-eye",NT,U,-12486656
+192,188,"squamifrons","Oculocincta","Pygmy White-eye",LC,U,-16731116
+193,1,"marchei","Cleptornis","Golden White-eye",CR,U,-3014646
+196,195,"leucogrammica","Ptilocichla","Bornean Wren-babbler",VU,U,-11184866
+197,195,"mindanensis","Ptilocichla","Striated Wren-babbler",LC,U,-16731116
+198,194,"falcata","Ptilocichla","Falcated Wren-babbler",VU,U,-11184866

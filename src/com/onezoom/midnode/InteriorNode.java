@@ -1,14 +1,13 @@
 package com.onezoom.midnode;
 
-import org.apache.commons.lang3.StringUtils;
+import junit.framework.Assert;
 
-import android.util.Log;
 
 public class InteriorNode extends MidNode {
 
 	public InteriorNode(String[] line) {
-		assert line.length == 13;
-		try{
+		Assert.assertEquals(line.length, 14);
+	
 		this.index = Integer.parseInt(line[0]);
 		this.parentIndex = Integer.parseInt(line[1]);
 		this.child1Index = Integer.parseInt(line[2]);
@@ -22,9 +21,7 @@ public class InteriorNode extends MidNode {
 		this.positionData.hxmin = Float.parseFloat(line[10]);
 		this.positionData.hymax = Float.parseFloat(line[11]);
 		this.positionData.hymin = Float.parseFloat(line[12]);
-		} catch (NumberFormatException e) {
-			Log.d("debug", StringUtils.join(line, "--"));
-		}
+		this.traitsCaculator.setColor(Integer.parseInt(line[13]));
 	}
 	
 	public InteriorNode(MidNode pNode, String data, boolean buildOneNode, int childIndex) {

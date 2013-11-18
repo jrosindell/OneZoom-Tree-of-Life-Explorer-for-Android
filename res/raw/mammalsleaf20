@@ -1,129 +1,129 @@
-index,parent,name1,name2,common,redlist,popstab
-18,17,"cachinus","Eothenomys","Kachin Red-backed Vole",LC,U
-19,17,"melanogaster","Eothenomys","Pere David's Vole",LC,S
-20,16,"miletus","Eothenomys","Yunnan Red-backed Vole",LC,U
-22,21,"chinensis","Eothenomys","Sichuan Red-backed Vole",LC,U
-23,21,"wardi","Eothenomys","Ward's Red-backed Vole",NT,U
-24,14,"regulus","Myodes","Southern Red-backed Vole",LC,S
-26,25,"proditor","Eothenomys","Yulongxuen Red-backed Vole",LC,U
-27,25,"eva","Caryomys","Eva's Red-backed Vole",LC,U
-28,12,"custos","Eothenomys","Southwest China Red-backed Vole",LC,U
-31,30,"shanseius","Myodes","Shanxi Red-backed Vole",LC,U
-32,30,"inez","Caryomys","Inez's Red-backed Vole",LC,U
-33,29,"olitor","Eothenomys","Black-eared Red-backed Vole",LC,U
-36,35,"andersoni","Myodes","Anderson's Red-backed Vole",LC,S
-37,35,"imaizumii","Myodes","",NE,U
-38,34,"smithii","Myodes","Smith's Red-backed Vole",LC,S
-43,42,"rufocanus","Myodes","Grey Red-backed Vole",LC,D
-44,42,"rex","Myodes","Hokkaido Red-backed Vole",LC,S
-45,41,"californicus","Myodes","Western Red-backed Vole",LC,S
-47,46,"gapperi","Myodes","Revillagigedo Island Red-backed Vole",LC,S
-48,46,"glareolus","Myodes","Bank Vole",LC,S
-50,49,"centralis","Myodes","Tien Shan Red-backed Vole",LC,U
-51,49,"rutilus","Myodes","Northern Red-backed Vole",LC,U
-60,59,"stoliczkanus","Alticola","Stoliczka's Mountain Vole",LC,U
-61,59,"albicaudus","Alticola","White-tailed Mountain Vole",DD,U
-63,62,"olchonensis","Alticola","Olkhon Mountain Vole",DD,U
-64,62,"tuvinicus","Alticola","Tuva Silver Vole",LC,U
-66,65,"barakshin","Alticola","Gobi Altai Mountain Vole",LC,U
-67,65,"montosa","Alticola","Central Kashmir Vole",VU,D
-68,56,"argentatus","Alticola","Silver Mountain Vole",LC,U
-69,55,"roylei","Alticola","Royle's Mountain Vole",NT,D
-71,70,"semicanus","Alticola","Mongolian Silver Vole",LC,U
-72,70,"macrotis","Alticola","Large-eared Vole",LC,U
-73,53,"lemminus","Alticola","Lemming Vole",LC,U
-74,52,"strelzowi","Alticola","Flat-headed Vole",LC,U
-76,75,"fertilis","Hyperacrius","Burrowing Vole",VU,U
-77,75,"wynnei","Hyperacrius","Murree Vole",LC,U
-78,6,"bogdanovi","Dinaromys","Balkan Snow Vole",VU,D
-79,5,"bedfordi","Proedromys","Duke Of Bedford's Vole",VU,D
-84,83,"przewalskii","Eolagurus","Przewalski's Steppe Lemming",LC,U
-85,83,"luteus","Eolagurus","Yellow Steppe Lemming",LC,U
-86,82,"lagurus","Lagurus","Steppe Lemming",LC,S
-89,88,"amphibius","Arvicola","Eurasian Water Vole",LC,S
-90,88,"scherman","Arvicola","",LC,S
-91,87,"sapidus","Arvicola","Southern Water Vole",VU,D
-92,80,"curtatus","Lemmiscus","Sagebrush Vole",LC,S
-96,95,"fontanierii","Eospalax","Chinese Zokor",LC,U
-97,95,"smithii","Eospalax","Smith's Zokor",LC,U
-98,94,"rothschildi","Eospalax","Rothschild's Zokor",LC,U
-101,100,"psilurus","Myospalax","Transbaikal Zokor",LC,S
-102,100,"myospalax","Myospalax","Siberian Zokor",LC,U
-103,99,"aspalax","Myospalax","False Zokor",LC,U
-104,1,"rousseloti","Dendroprionomys","Velvet African Climbing Mouse",DD,U
-115,114,"penicillatus","Eliurus","White-tipped Tuft-tailed Rat",EN,U
-116,114,"tanala","Eliurus","Tanala Tuft-tailed Rat",LC,U
-118,117,"myoxinus","Eliurus","Western Tuft-tailed Rat",LC,U
-119,117,"minor","Eliurus","Lesser Tufted-tailed Rat",LC,U
-121,120,"majori","Eliurus","Major's Tufted-tailed Rat",LC,U
-122,120,"webbi","Eliurus","Webb's Tuft-tailed Rat",LC,U
-123,111,"roberti","Gymnuromys","",LC,U
-125,124,"albicauda","Brachytarsomys","White-tailed Tree Rat",LC,U
-126,124,"villosa","Brachytarsomys","Hairy-tailed Tree Rat",EN,U
-128,127,"ingens","Macrotarsomys","Long-tailed Big-footed Mouse",EN,D
-129,127,"bastardi","Macrotarsomys","Western Big-footed Mouse",LC,S
-134,133,"lambertoni","Nesomys","Lowland Red Forest Rat",EN,U
-135,133,"audeberti","Nesomys","Lowland Red Forest Rat",LC,D
-136,132,"rufus","Nesomys","Eastern Red Forest Rat",LC,U
-138,137,"betsileoensis","Brachyuromys","Betsileo Short-tailed Rat",LC,U
-139,137,"ramirohitra","Brachyuromys","Gregarious Short-tailed Rat",LC,U
-140,130,"antimena","Hypogeomys","Malagasy Giant Jumping Rat",EN,D
-142,141,"lasiurus","Platacanthomys","Malabar Spiny Dormouse",VU,D
-143,141,"cinereus","Typhlomys","Sort-furred Tree Mouse",LC,D
-149,148,"longicaudatus","Cricetulus","Long-tailed Dwarf Hamster",LC,U
-150,148,"barabensis","Cricetulus","Striped Dwarf Hamster",LC,U
-152,151,"migratorius","Cricetulus","Gray Dwarf Hamster",LC,U
-153,151,"kamensis","Cricetulus","Kam Dwarf Hamster",LC,U
-155,154,"sokolovi","Cricetulus","Sokolov's Dwarf Hamster",LC,U
-156,154,"alticola","Cricetulus","Ladakh Hamster",LC,U
-159,158,"eversmanni","Allocricetulus","Eversmann's Hamster",LC,U
-160,158,"curtatus","Allocricetulus","Mongolian Hamster",LC,U
-161,157,"cricetus","Cricetus","Black-bellied Hamster",LC,D
-167,166,"raddei","Mesocricetus","Ciscaucasian Hamster",LC,S
-168,166,"auratus","Mesocricetus","Golden Hamster",VU,D
-170,169,"brandti","Mesocricetus","Brandt's Hamster",NT,D
-171,169,"newtoni","Mesocricetus","Romanian Hamster",NT,D
-174,173,"campbelli","Phodopus","Campbell's Hamster",LC,S
-175,173,"roborovskii","Phodopus","Desert Hamster",LC,S
-176,172,"sungorus","Phodopus","Dzhungarian Hamster",LC,U
-177,163,"triton","Tscherskia","Greater Long-tailed Hamster",LC,U
-178,162,"canus","Cansumys","Gansu Hamster",LC,U
-187,186,"splendens","Tachyoryctes","East African Mole Rat",LC,S
-188,186,"ibeanus","Tachyoryctes","",NE,U
-189,185,"macrocephalus","Tachyoryctes","Big-headed Mole Rat",EN,D
-191,190,"naivashae","Tachyoryctes","",NE,U
-192,190,"daemon","Tachyoryctes","",NE,U
-194,193,"spalacinus","Tachyoryctes","",NE,U
-195,193,"annectens","Tachyoryctes","",NE,U
-199,198,"ruandae","Tachyoryctes","",NE,U
-200,198,"rex","Tachyoryctes","",NE,U
-201,197,"ruddi","Tachyoryctes","",NE,U
-203,202,"ankoliae","Tachyoryctes","",NE,U
-204,202,"audax","Tachyoryctes","",NE,U
-208,207,"sumatrensis","Rhizomys","Indomalayan Bamboo Rat",LC,U
-209,207,"pruinosus","Rhizomys","Hoary Bamboo Rat",LC,S
-210,206,"sinensis","Rhizomys","Chinese Bamboo Rat",LC,U
-211,205,"badius","Cannomys","Bay Bamboo Rat",LC,U
-216,215,"insignis","Dendromus","Montane African Climbing Mouse",LC,S
-217,215,"oreas","Dendromus","Cameroon Climbing Mouse",VU,U
-218,214,"mesomelas","Dendromus","Brant's Climbing Mouse",LC,S
-221,220,"vernayi","Dendromus","Vernay's Climbing Mouse",DD,U
-222,220,"nyasae","Dendromus","",NE,U
-223,219,"kahuziensis","Dendromus","Mount Kahuzi African Climbing Mouse",CR,D
-227,226,"mystacalis","Dendromus","Chestnut Climbing Mouse",LC,S
-228,226,"messorius","Dendromus","Banana Climbing Mouse",LC,S
-230,229,"melanotis","Dendromus","Gray African Climbing Mouse",LC,S
-231,229,"leucostomus","Dendromus","",NE,U
-233,232,"lovati","Dendromus","Lovat's African Climbing Mouse",LC,D
-234,232,"nyikae","Dendromus","Nyika Climbing Mouse",LC,U
-243,242,"pratensis","Steatomys","Fat Mouse",LC,S
-244,242,"opimus","Steatomys","",LC,U
-245,241,"bocagei","Steatomys","",LC,U
-247,246,"caurinus","Steatomys","Northwestern Fat Mouse",LC,S
-248,246,"jacksoni","Steatomys","Jackson's Fat Mouse",DD,U
-249,239,"cuppedius","Steatomys","Dainty Fat Mouse",LC,S
-251,250,"krebsii","Steatomys","Kreb's Fat Mouse",LC,S
-252,250,"parvus","Steatomys","Tiny Fat Mouse",LC,S
-253,237,"buettneri","Leimacomys","Groove-toothed Forest Mouse",DD,U
-254,236,"imhausi","Lophiomys","Crested Rat",LC,S
-255,235,"typica","Malacothrix","Gerbil Mouse",LC,S
+index,parent,name1,name2,common,redlist,popstab,color
+18,17,"cachinus","Eothenomys","Kachin Red-backed Vole",LC,U,-16731116
+19,17,"melanogaster","Eothenomys","Pere David's Vole",LC,S,-16731116
+20,16,"miletus","Eothenomys","Yunnan Red-backed Vole",LC,U,-16731116
+22,21,"chinensis","Eothenomys","Sichuan Red-backed Vole",LC,U,-16731116
+23,21,"wardi","Eothenomys","Ward's Red-backed Vole",NT,U,-12486656
+24,14,"regulus","Myodes","Southern Red-backed Vole",LC,S,-16731116
+26,25,"proditor","Eothenomys","Yulongxuen Red-backed Vole",LC,U,-16731116
+27,25,"eva","Caryomys","Eva's Red-backed Vole",LC,U,-16731116
+28,12,"custos","Eothenomys","Southwest China Red-backed Vole",LC,U,-16731116
+31,30,"shanseius","Myodes","Shanxi Red-backed Vole",LC,U,-16731116
+32,30,"inez","Caryomys","Inez's Red-backed Vole",LC,U,-16731116
+33,29,"olitor","Eothenomys","Black-eared Red-backed Vole",LC,U,-16731116
+36,35,"andersoni","Myodes","Anderson's Red-backed Vole",LC,S,-16731116
+37,35,"imaizumii","Myodes","",NE,U,-16777216
+38,34,"smithii","Myodes","Smith's Red-backed Vole",LC,S,-16731116
+43,42,"rufocanus","Myodes","Grey Red-backed Vole",LC,D,-16731116
+44,42,"rex","Myodes","Hokkaido Red-backed Vole",LC,S,-16731116
+45,41,"californicus","Myodes","Western Red-backed Vole",LC,S,-16731116
+47,46,"gapperi","Myodes","Revillagigedo Island Red-backed Vole",LC,S,-16731116
+48,46,"glareolus","Myodes","Bank Vole",LC,S,-16731116
+50,49,"centralis","Myodes","Tien Shan Red-backed Vole",LC,U,-16731116
+51,49,"rutilus","Myodes","Northern Red-backed Vole",LC,U,-16731116
+60,59,"stoliczkanus","Alticola","Stoliczka's Mountain Vole",LC,U,-16731116
+61,59,"albicaudus","Alticola","White-tailed Mountain Vole",DD,U,-11513776
+63,62,"olchonensis","Alticola","Olkhon Mountain Vole",DD,U,-11513776
+64,62,"tuvinicus","Alticola","Tuva Silver Vole",LC,U,-16731116
+66,65,"barakshin","Alticola","Gobi Altai Mountain Vole",LC,U,-16731116
+67,65,"montosa","Alticola","Central Kashmir Vole",VU,D,-11184866
+68,56,"argentatus","Alticola","Silver Mountain Vole",LC,U,-16731116
+69,55,"roylei","Alticola","Royle's Mountain Vole",NT,D,-12486656
+71,70,"semicanus","Alticola","Mongolian Silver Vole",LC,U,-16731116
+72,70,"macrotis","Alticola","Large-eared Vole",LC,U,-16731116
+73,53,"lemminus","Alticola","Lemming Vole",LC,U,-16731116
+74,52,"strelzowi","Alticola","Flat-headed Vole",LC,U,-16731116
+76,75,"fertilis","Hyperacrius","Burrowing Vole",VU,U,-11184866
+77,75,"wynnei","Hyperacrius","Murree Vole",LC,U,-16731116
+78,6,"bogdanovi","Dinaromys","Balkan Snow Vole",VU,D,-11184866
+79,5,"bedfordi","Proedromys","Duke Of Bedford's Vole",VU,D,-11184866
+84,83,"przewalskii","Eolagurus","Przewalski's Steppe Lemming",LC,U,-16731116
+85,83,"luteus","Eolagurus","Yellow Steppe Lemming",LC,U,-16731116
+86,82,"lagurus","Lagurus","Steppe Lemming",LC,S,-16731116
+89,88,"amphibius","Arvicola","Eurasian Water Vole",LC,S,-16731116
+90,88,"scherman","Arvicola","",LC,S,-16731116
+91,87,"sapidus","Arvicola","Southern Water Vole",VU,D,-11184866
+92,80,"curtatus","Lemmiscus","Sagebrush Vole",LC,S,-16731116
+96,95,"fontanierii","Eospalax","Chinese Zokor",LC,U,-16731116
+97,95,"smithii","Eospalax","Smith's Zokor",LC,U,-16731116
+98,94,"rothschildi","Eospalax","Rothschild's Zokor",LC,U,-16731116
+101,100,"psilurus","Myospalax","Transbaikal Zokor",LC,S,-16731116
+102,100,"myospalax","Myospalax","Siberian Zokor",LC,U,-16731116
+103,99,"aspalax","Myospalax","False Zokor",LC,U,-16731116
+104,1,"rousseloti","Dendroprionomys","Velvet African Climbing Mouse",DD,U,-11513776
+115,114,"penicillatus","Eliurus","White-tipped Tuft-tailed Rat",EN,U,-8572416
+116,114,"tanala","Eliurus","Tanala Tuft-tailed Rat",LC,U,-16731116
+118,117,"myoxinus","Eliurus","Western Tuft-tailed Rat",LC,U,-16731116
+119,117,"minor","Eliurus","Lesser Tufted-tailed Rat",LC,U,-16731116
+121,120,"majori","Eliurus","Major's Tufted-tailed Rat",LC,U,-16731116
+122,120,"webbi","Eliurus","Webb's Tuft-tailed Rat",LC,U,-16731116
+123,111,"roberti","Gymnuromys","",LC,U,-16731116
+125,124,"albicauda","Brachytarsomys","White-tailed Tree Rat",LC,U,-16731116
+126,124,"villosa","Brachytarsomys","Hairy-tailed Tree Rat",EN,U,-8572416
+128,127,"ingens","Macrotarsomys","Long-tailed Big-footed Mouse",EN,D,-8572416
+129,127,"bastardi","Macrotarsomys","Western Big-footed Mouse",LC,S,-16731116
+134,133,"lambertoni","Nesomys","Lowland Red Forest Rat",EN,U,-8572416
+135,133,"audeberti","Nesomys","Lowland Red Forest Rat",LC,D,-16731116
+136,132,"rufus","Nesomys","Eastern Red Forest Rat",LC,U,-16731116
+138,137,"betsileoensis","Brachyuromys","Betsileo Short-tailed Rat",LC,U,-16731116
+139,137,"ramirohitra","Brachyuromys","Gregarious Short-tailed Rat",LC,U,-16731116
+140,130,"antimena","Hypogeomys","Malagasy Giant Jumping Rat",EN,D,-8572416
+142,141,"lasiurus","Platacanthomys","Malabar Spiny Dormouse",VU,D,-11184866
+143,141,"cinereus","Typhlomys","Sort-furred Tree Mouse",LC,D,-16731116
+149,148,"longicaudatus","Cricetulus","Long-tailed Dwarf Hamster",LC,U,-16731116
+150,148,"barabensis","Cricetulus","Striped Dwarf Hamster",LC,U,-16731116
+152,151,"migratorius","Cricetulus","Gray Dwarf Hamster",LC,U,-16731116
+153,151,"kamensis","Cricetulus","Kam Dwarf Hamster",LC,U,-16731116
+155,154,"sokolovi","Cricetulus","Sokolov's Dwarf Hamster",LC,U,-16731116
+156,154,"alticola","Cricetulus","Ladakh Hamster",LC,U,-16731116
+159,158,"eversmanni","Allocricetulus","Eversmann's Hamster",LC,U,-16731116
+160,158,"curtatus","Allocricetulus","Mongolian Hamster",LC,U,-16731116
+161,157,"cricetus","Cricetus","Black-bellied Hamster",LC,D,-16731116
+167,166,"raddei","Mesocricetus","Ciscaucasian Hamster",LC,S,-16731116
+168,166,"auratus","Mesocricetus","Golden Hamster",VU,D,-11184866
+170,169,"brandti","Mesocricetus","Brandt's Hamster",NT,D,-12486656
+171,169,"newtoni","Mesocricetus","Romanian Hamster",NT,D,-12486656
+174,173,"campbelli","Phodopus","Campbell's Hamster",LC,S,-16731116
+175,173,"roborovskii","Phodopus","Desert Hamster",LC,S,-16731116
+176,172,"sungorus","Phodopus","Dzhungarian Hamster",LC,U,-16731116
+177,163,"triton","Tscherskia","Greater Long-tailed Hamster",LC,U,-16731116
+178,162,"canus","Cansumys","Gansu Hamster",LC,U,-16731116
+187,186,"splendens","Tachyoryctes","East African Mole Rat",LC,S,-16731116
+188,186,"ibeanus","Tachyoryctes","",NE,U,-16777216
+189,185,"macrocephalus","Tachyoryctes","Big-headed Mole Rat",EN,D,-8572416
+191,190,"naivashae","Tachyoryctes","",NE,U,-16777216
+192,190,"daemon","Tachyoryctes","",NE,U,-16777216
+194,193,"spalacinus","Tachyoryctes","",NE,U,-16777216
+195,193,"annectens","Tachyoryctes","",NE,U,-16777216
+199,198,"ruandae","Tachyoryctes","",NE,U,-16777216
+200,198,"rex","Tachyoryctes","",NE,U,-16777216
+201,197,"ruddi","Tachyoryctes","",NE,U,-16777216
+203,202,"ankoliae","Tachyoryctes","",NE,U,-16777216
+204,202,"audax","Tachyoryctes","",NE,U,-16777216
+208,207,"sumatrensis","Rhizomys","Indomalayan Bamboo Rat",LC,U,-16731116
+209,207,"pruinosus","Rhizomys","Hoary Bamboo Rat",LC,S,-16731116
+210,206,"sinensis","Rhizomys","Chinese Bamboo Rat",LC,U,-16731116
+211,205,"badius","Cannomys","Bay Bamboo Rat",LC,U,-16731116
+216,215,"insignis","Dendromus","Montane African Climbing Mouse",LC,S,-16731116
+217,215,"oreas","Dendromus","Cameroon Climbing Mouse",VU,U,-11184866
+218,214,"mesomelas","Dendromus","Brant's Climbing Mouse",LC,S,-16731116
+221,220,"vernayi","Dendromus","Vernay's Climbing Mouse",DD,U,-11513776
+222,220,"nyasae","Dendromus","",NE,U,-16777216
+223,219,"kahuziensis","Dendromus","Mount Kahuzi African Climbing Mouse",CR,D,-3014646
+227,226,"mystacalis","Dendromus","Chestnut Climbing Mouse",LC,S,-16731116
+228,226,"messorius","Dendromus","Banana Climbing Mouse",LC,S,-16731116
+230,229,"melanotis","Dendromus","Gray African Climbing Mouse",LC,S,-16731116
+231,229,"leucostomus","Dendromus","",NE,U,-16777216
+233,232,"lovati","Dendromus","Lovat's African Climbing Mouse",LC,D,-16731116
+234,232,"nyikae","Dendromus","Nyika Climbing Mouse",LC,U,-16731116
+243,242,"pratensis","Steatomys","Fat Mouse",LC,S,-16731116
+244,242,"opimus","Steatomys","",LC,U,-16731116
+245,241,"bocagei","Steatomys","",LC,U,-16731116
+247,246,"caurinus","Steatomys","Northwestern Fat Mouse",LC,S,-16731116
+248,246,"jacksoni","Steatomys","Jackson's Fat Mouse",DD,U,-11513776
+249,239,"cuppedius","Steatomys","Dainty Fat Mouse",LC,S,-16731116
+251,250,"krebsii","Steatomys","Kreb's Fat Mouse",LC,S,-16731116
+252,250,"parvus","Steatomys","Tiny Fat Mouse",LC,S,-16731116
+253,237,"buettneri","Leimacomys","Groove-toothed Forest Mouse",DD,U,-11513776
+254,236,"imhausi","Lophiomys","Crested Rat",LC,S,-16731116
+255,235,"typica","Malacothrix","Gerbil Mouse",LC,S,-16731116

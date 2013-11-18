@@ -1,5 +1,5 @@
-index,parent,name1,name2,common,redlist,popstab
-5,4,"bartoni","Zaglossus","Eastern Long-beaked Echidna",CR,D
-6,4,"bruijni","Zaglossus","",NE,U
-7,3,"aculeatus","Tachyglossus","Short-beaked Echidna",LC,S
-8,2,"anatinus","Ornithorhynchus","Platypus",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+5,4,"bartoni","Zaglossus","Eastern Long-beaked Echidna",CR,D,-3014646
+6,4,"bruijni","Zaglossus","",NE,U,-16777216
+7,3,"aculeatus","Tachyglossus","Short-beaked Echidna",LC,S,-16731116
+8,2,"anatinus","Ornithorhynchus","Platypus",LC,U,-16731116

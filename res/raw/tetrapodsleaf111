@@ -1,110 +1,110 @@
-index,parent,name1,name2,common,redlist,popstab
-13,12,"squamatus","Mergus","Scaly-sided Merganser",EN,U
-14,12,"merganser","Mergus","Common Merganser",LC,U
-15,11,"serrator","Mergus","Red-breasted Merganser",LC,U
-16,10,"octosetaceus","Mergus","Brazilian Merganser",CR,U
-17,9,"cucullatus","Lophodytes","Hooded Merganser",LC,U
-18,8,"albellus","Mergellus","Smew",LC,U
-21,20,"islandica","Bucephala","Barrow's Goldeneye",LC,U
-22,20,"clangula","Bucephala","Common Goldeneye",LC,U
-23,19,"albeola","Bucephala","Bufflehead",LC,U
-26,25,"fusca","Melanitta","White-winged Scoter",LC,U
-27,25,"perspicillata","Melanitta","Surf Scoter",LC,U
-28,24,"nigra","Melanitta","Black Scoter",LC,U
-33,32,"mollissima","Somateria","Common Eider",LC,U
-34,32,"spectabilis","Somateria","King Eider",LC,U
-35,31,"fischeri","Somateria","Spectacled Eider",LC,U
-36,30,"stelleri","Polysticta","Steller's Eider",VU,U
-37,29,"histrionicus","Histrionicus","Harlequin Duck",LC,U
-38,4,"hyemalis","Clangula","Long-tailed Duck",LC,U
-47,46,"cana","Tadorna","South African Shelduck",LC,U
-48,46,"ferruginea","Tadorna","Ruddy Shelduck",LC,U
-49,45,"tadornoides","Tadorna","Australian Shelduck",LC,U
-50,44,"variegata","Tadorna","Paradise Shelduck",LC,U
-51,43,"tadorna","Tadorna","Common Shelduck",LC,U
-52,42,"radjah","Tadorna","Radjah Shelduck",LC,U
-53,41,"aegyptiaca","Alopochen","Egyptian Goose",LC,U
-57,56,"melanoptera","Chloephaga","Andean Goose",LC,U
-58,56,"jubata","Neochen","Orinoco Goose",NT,U
-59,55,"rubidiceps","Chloephaga","Ruddy-headed Goose",LC,U
-62,61,"poliocephala","Chloephaga","Ashy-headed Goose",LC,U
-63,61,"hybrida","Chloephaga","Kelp Goose",LC,U
-64,60,"picta","Chloephaga","Upland Goose",LC,U
-67,66,"galericulata","Aix","Mandarin Duck",LC,U
-68,66,"sponsa","Aix","Wood Duck",LC,U
-69,65,"moschata","Cairina","Muscovy Duck",LC,U
-79,78,"valisineria","Aythya","Canvasback",LC,U
-80,78,"ferina","Aythya","Common Pochard",LC,U
-81,77,"innotata","Aythya","Madagascar Pochard",CR,U
-83,82,"collaris","Aythya","Ring-necked Duck",LC,U
-84,82,"americana","Aythya","Redhead",LC,U
-88,87,"affinis","Aythya","Lesser Scaup",LC,U
-89,87,"marila","Aythya","Greater Scaup",LC,U
-90,86,"fuligula","Aythya","Tufted Duck",LC,U
-91,85,"baeri","Aythya","Baer's Pochard",EN,U
-94,93,"nyroca","Aythya","Ferruginous Duck",NT,U
-95,93,"australis","Aythya","Hardhead",LC,U
-96,92,"novaeseelandiae","Aythya","New Zealand Scaup",LC,U
-99,98,"erythrophthalma","Netta","Southern Pochard",LC,U
-100,98,"rufina","Netta","Red-crested Pochard",LC,U
-101,97,"peposaca","Netta","Rosy-billed Pochard",LC,U
-102,72,"scutulata","Cairina","White-winged Duck",EN,U
-103,71,"angustirostris","Marmaronetta","Marbled Teal",VU,U
-105,104,"cyanoptera","Cyanochen","Blue-winged Goose",VU,U
-106,104,"hartlaubii","Pteronetta","Hartlaub's Duck",LC,U
-110,109,"jubata","Chenonetta","Australian Wood Duck",LC,U
-111,109,"melanotos","Sarkidiornis","Comb Duck",LC,U
-112,108,"malacorhynchos","Hymenolaimus","Blue Duck",EN,U
-115,114,"waigiuensis","Salvadorina","Salvadori's Teal",VU,U
-116,114,"armata","Merganetta","Torrent Duck",LC,U
-117,113,"leucophrys","Callonetta","Ringed Teal",LC,U
-128,127,"aucklandica","Anas","Auckland Islands Teal",VU,U
-129,127,"chlorotis","Anas","Brown Teal",EN,U
-130,126,"nesiotis","Anas","Campbell Islands Teal",CR,U
-131,125,"bernieri","Anas","Madagascar Teal",EN,U
-133,132,"castanea","Anas","Chestnut Teal",LC,U
-134,132,"gracilis","Anas","Grey Teal",LC,U
-136,135,"flavirostris","Anas","Yellow-billed Teal",LC,U
-137,135,"crecca","Anas","Common Teal",LC,U
-142,141,"georgica","Anas","Yellow-billed Pintail",LC,U
-143,141,"acuta","Anas","Northern Pintail",LC,U
-144,140,"bahamensis","Anas","White-cheeked Pintail",LC,U
-145,139,"erythrorhyncha","Anas","Red-billed Duck",LC,U
-147,146,"wyvilliana","Anas","Hawaiian Duck",EN,U
-148,146,"capensis","Anas","Cape Teal",LC,U
-156,155,"poecilorhyncha","Anas","Spot-billed Duck",LC,U
-157,155,"platyrhynchos","Anas","Mallard",LC,U
-158,154,"luzonica","Anas","Philippine Duck",VU,U
-161,160,"rubripes","Anas","American Black Duck",LC,U
-162,160,"fulvigula","Anas","Mottled Duck",LC,U
-163,159,"laysanensis","Anas","Laysan Duck",CR,U
-164,152,"melleri","Anas","Meller's Duck",EN,U
-165,151,"undulata","Anas","Yellow-billed Duck",LC,U
-166,150,"superciliosa","Anas","Pacific Black Duck",LC,U
-167,149,"sparsa","Anas","African Black Duck",LC,U
-171,170,"americana","Anas","American Wigeon",LC,U
-172,170,"sibilatrix","Anas","Chiloe Wigeon",LC,U
-173,169,"penelope","Anas","Eurasian Wigeon",LC,U
-175,174,"falcata","Anas","Falcated Duck",NT,U
-176,174,"strepera","Anas","Gadwall",LC,U
-184,183,"rhynchotis","Anas","Australasian Shoveler",LC,U
-185,183,"clypeata","Anas","Northern Shoveler",LC,U
-186,182,"smithii","Anas","Cape Shoveler",LC,U
-188,187,"discors","Anas","Blue-winged Teal",LC,U
-189,187,"cyanoptera","Anas","Cinnamon Teal",LC,U
-190,180,"platalea","Anas","Red Shoveler",LC,U
-193,192,"versicolor","Anas","Silver Teal",LC,U
-194,192,"puna","Anas","Puna Teal",LC,U
-195,191,"querquedula","Anas","Garganey",LC,U
-197,196,"hottentota","Anas","Hottentot Teal",LC,U
-198,196,"andium","Anas","Andean Teal",LC,U
-201,200,"eatoni","Anas","Eaton's Pintail",VU,U
-202,200,"formosa","Anas","Baikal Teal",VU,U
-203,199,"gibberifrons","Anas","Sunda Teal",LC,U
-207,206,"leucocephalus","Tachyeres","White-headed Steamerduck",NT,U
-208,206,"patachonicus","Tachyeres","Flying Steamerduck",LC,U
-210,209,"brachypterus","Tachyeres","Falkland Steamerduck",LC,U
-211,209,"pteneres","Tachyeres","Flightless Steamerduck",LC,U
-214,213,"brasiliensis","Amazonetta","Brazilian Teal",LC,U
-215,213,"specularis","Speculanas","Spectacled Duck",NT,U
-216,212,"specularioides","Lophonetta","Crested Duck",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"squamatus","Mergus","Scaly-sided Merganser",EN,U,-8572416
+14,12,"merganser","Mergus","Common Merganser",LC,U,-16731116
+15,11,"serrator","Mergus","Red-breasted Merganser",LC,U,-16731116
+16,10,"octosetaceus","Mergus","Brazilian Merganser",CR,U,-3014646
+17,9,"cucullatus","Lophodytes","Hooded Merganser",LC,U,-16731116
+18,8,"albellus","Mergellus","Smew",LC,U,-16731116
+21,20,"islandica","Bucephala","Barrow's Goldeneye",LC,U,-16731116
+22,20,"clangula","Bucephala","Common Goldeneye",LC,U,-16731116
+23,19,"albeola","Bucephala","Bufflehead",LC,U,-16731116
+26,25,"fusca","Melanitta","White-winged Scoter",LC,U,-16731116
+27,25,"perspicillata","Melanitta","Surf Scoter",LC,U,-16731116
+28,24,"nigra","Melanitta","Black Scoter",LC,U,-16731116
+33,32,"mollissima","Somateria","Common Eider",LC,U,-16731116
+34,32,"spectabilis","Somateria","King Eider",LC,U,-16731116
+35,31,"fischeri","Somateria","Spectacled Eider",LC,U,-16731116
+36,30,"stelleri","Polysticta","Steller's Eider",VU,U,-11184866
+37,29,"histrionicus","Histrionicus","Harlequin Duck",LC,U,-16731116
+38,4,"hyemalis","Clangula","Long-tailed Duck",LC,U,-16731116
+47,46,"cana","Tadorna","South African Shelduck",LC,U,-16731116
+48,46,"ferruginea","Tadorna","Ruddy Shelduck",LC,U,-16731116
+49,45,"tadornoides","Tadorna","Australian Shelduck",LC,U,-16731116
+50,44,"variegata","Tadorna","Paradise Shelduck",LC,U,-16731116
+51,43,"tadorna","Tadorna","Common Shelduck",LC,U,-16731116
+52,42,"radjah","Tadorna","Radjah Shelduck",LC,U,-16731116
+53,41,"aegyptiaca","Alopochen","Egyptian Goose",LC,U,-16731116
+57,56,"melanoptera","Chloephaga","Andean Goose",LC,U,-16731116
+58,56,"jubata","Neochen","Orinoco Goose",NT,U,-12486656
+59,55,"rubidiceps","Chloephaga","Ruddy-headed Goose",LC,U,-16731116
+62,61,"poliocephala","Chloephaga","Ashy-headed Goose",LC,U,-16731116
+63,61,"hybrida","Chloephaga","Kelp Goose",LC,U,-16731116
+64,60,"picta","Chloephaga","Upland Goose",LC,U,-16731116
+67,66,"galericulata","Aix","Mandarin Duck",LC,U,-16731116
+68,66,"sponsa","Aix","Wood Duck",LC,U,-16731116
+69,65,"moschata","Cairina","Muscovy Duck",LC,U,-16731116
+79,78,"valisineria","Aythya","Canvasback",LC,U,-16731116
+80,78,"ferina","Aythya","Common Pochard",LC,U,-16731116
+81,77,"innotata","Aythya","Madagascar Pochard",CR,U,-3014646
+83,82,"collaris","Aythya","Ring-necked Duck",LC,U,-16731116
+84,82,"americana","Aythya","Redhead",LC,U,-16731116
+88,87,"affinis","Aythya","Lesser Scaup",LC,U,-16731116
+89,87,"marila","Aythya","Greater Scaup",LC,U,-16731116
+90,86,"fuligula","Aythya","Tufted Duck",LC,U,-16731116
+91,85,"baeri","Aythya","Baer's Pochard",EN,U,-8572416
+94,93,"nyroca","Aythya","Ferruginous Duck",NT,U,-12486656
+95,93,"australis","Aythya","Hardhead",LC,U,-16731116
+96,92,"novaeseelandiae","Aythya","New Zealand Scaup",LC,U,-16731116
+99,98,"erythrophthalma","Netta","Southern Pochard",LC,U,-16731116
+100,98,"rufina","Netta","Red-crested Pochard",LC,U,-16731116
+101,97,"peposaca","Netta","Rosy-billed Pochard",LC,U,-16731116
+102,72,"scutulata","Cairina","White-winged Duck",EN,U,-8572416
+103,71,"angustirostris","Marmaronetta","Marbled Teal",VU,U,-11184866
+105,104,"cyanoptera","Cyanochen","Blue-winged Goose",VU,U,-11184866
+106,104,"hartlaubii","Pteronetta","Hartlaub's Duck",LC,U,-16731116
+110,109,"jubata","Chenonetta","Australian Wood Duck",LC,U,-16731116
+111,109,"melanotos","Sarkidiornis","Comb Duck",LC,U,-16731116
+112,108,"malacorhynchos","Hymenolaimus","Blue Duck",EN,U,-8572416
+115,114,"waigiuensis","Salvadorina","Salvadori's Teal",VU,U,-11184866
+116,114,"armata","Merganetta","Torrent Duck",LC,U,-16731116
+117,113,"leucophrys","Callonetta","Ringed Teal",LC,U,-16731116
+128,127,"aucklandica","Anas","Auckland Islands Teal",VU,U,-11184866
+129,127,"chlorotis","Anas","Brown Teal",EN,U,-8572416
+130,126,"nesiotis","Anas","Campbell Islands Teal",CR,U,-3014646
+131,125,"bernieri","Anas","Madagascar Teal",EN,U,-8572416
+133,132,"castanea","Anas","Chestnut Teal",LC,U,-16731116
+134,132,"gracilis","Anas","Grey Teal",LC,U,-16731116
+136,135,"flavirostris","Anas","Yellow-billed Teal",LC,U,-16731116
+137,135,"crecca","Anas","Common Teal",LC,U,-16731116
+142,141,"georgica","Anas","Yellow-billed Pintail",LC,U,-16731116
+143,141,"acuta","Anas","Northern Pintail",LC,U,-16731116
+144,140,"bahamensis","Anas","White-cheeked Pintail",LC,U,-16731116
+145,139,"erythrorhyncha","Anas","Red-billed Duck",LC,U,-16731116
+147,146,"wyvilliana","Anas","Hawaiian Duck",EN,U,-8572416
+148,146,"capensis","Anas","Cape Teal",LC,U,-16731116
+156,155,"poecilorhyncha","Anas","Spot-billed Duck",LC,U,-16731116
+157,155,"platyrhynchos","Anas","Mallard",LC,U,-16731116
+158,154,"luzonica","Anas","Philippine Duck",VU,U,-11184866
+161,160,"rubripes","Anas","American Black Duck",LC,U,-16731116
+162,160,"fulvigula","Anas","Mottled Duck",LC,U,-16731116
+163,159,"laysanensis","Anas","Laysan Duck",CR,U,-3014646
+164,152,"melleri","Anas","Meller's Duck",EN,U,-8572416
+165,151,"undulata","Anas","Yellow-billed Duck",LC,U,-16731116
+166,150,"superciliosa","Anas","Pacific Black Duck",LC,U,-16731116
+167,149,"sparsa","Anas","African Black Duck",LC,U,-16731116
+171,170,"americana","Anas","American Wigeon",LC,U,-16731116
+172,170,"sibilatrix","Anas","Chiloe Wigeon",LC,U,-16731116
+173,169,"penelope","Anas","Eurasian Wigeon",LC,U,-16731116
+175,174,"falcata","Anas","Falcated Duck",NT,U,-12486656
+176,174,"strepera","Anas","Gadwall",LC,U,-16731116
+184,183,"rhynchotis","Anas","Australasian Shoveler",LC,U,-16731116
+185,183,"clypeata","Anas","Northern Shoveler",LC,U,-16731116
+186,182,"smithii","Anas","Cape Shoveler",LC,U,-16731116
+188,187,"discors","Anas","Blue-winged Teal",LC,U,-16731116
+189,187,"cyanoptera","Anas","Cinnamon Teal",LC,U,-16731116
+190,180,"platalea","Anas","Red Shoveler",LC,U,-16731116
+193,192,"versicolor","Anas","Silver Teal",LC,U,-16731116
+194,192,"puna","Anas","Puna Teal",LC,U,-16731116
+195,191,"querquedula","Anas","Garganey",LC,U,-16731116
+197,196,"hottentota","Anas","Hottentot Teal",LC,U,-16731116
+198,196,"andium","Anas","Andean Teal",LC,U,-16731116
+201,200,"eatoni","Anas","Eaton's Pintail",VU,U,-11184866
+202,200,"formosa","Anas","Baikal Teal",VU,U,-11184866
+203,199,"gibberifrons","Anas","Sunda Teal",LC,U,-16731116
+207,206,"leucocephalus","Tachyeres","White-headed Steamerduck",NT,U,-12486656
+208,206,"patachonicus","Tachyeres","Flying Steamerduck",LC,U,-16731116
+210,209,"brachypterus","Tachyeres","Falkland Steamerduck",LC,U,-16731116
+211,209,"pteneres","Tachyeres","Flightless Steamerduck",LC,U,-16731116
+214,213,"brasiliensis","Amazonetta","Brazilian Teal",LC,U,-16731116
+215,213,"specularis","Speculanas","Spectacled Duck",NT,U,-12486656
+216,212,"specularioides","Lophonetta","Crested Duck",LC,U,-16731116

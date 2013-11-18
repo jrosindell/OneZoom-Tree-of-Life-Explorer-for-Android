@@ -1,129 +1,129 @@
-index,parent,name1,name2,common,redlist,popstab
-13,12,"bouvieri","Scotopelia","Vermiculated Fishing-owl",LC,U
-14,12,"ussheri","Scotopelia","Rufous Fishing-owl",EN,U
-15,11,"peli","Scotopelia","Pel's Fishing-owl",LC,U
-16,10,"bengalensis","Bubo","Rock Eagle-owl",LC,U
-18,17,"sumatranus","Bubo","Barred Eagle-owl",LC,U
-19,17,"africanus","Bubo","Spotted Eagle-owl",LC,U
-24,23,"shelleyi","Bubo","Shelley's Eagle-owl",NT,U
-25,23,"ascalaphus","Bubo","Pharaoh Eagle-owl",LC,U
-26,22,"bubo","Bubo","Eurasian Eagle-owl",LC,U
-27,21,"capensis","Bubo","Cape Eagle-owl",LC,U
-28,20,"philippensis","Bubo","Philippine Eagle-owl",VU,U
-33,32,"cinerascens","Bubo","Greyish Eagle-Owl",_U,[
-34,32,"poensis","Bubo","Fraser's Eagle-owl",LC,U
-35,31,"virginianus","Bubo","Great Horned Owl",LC,U
-36,30,"magellanicus","Bubo","Lesser Horned Owl",_U,[
-38,37,"vosseleri","Bubo","Usambara Eagle-owl",VU,U
-39,37,"scandiaca","Bubo","Snowy Owl",LC,U
-44,43,"blakistoni","Ketupa","Blakiston's Fish-owl",EN,U
-45,43,"ketupu","Ketupa","Buffy Fish-owl",LC,U
-46,42,"flavipes","Ketupa","Tawny Fish-owl",LC,U
-47,41,"zeylonensis","Ketupa","Brown Fish-owl",LC,U
-50,49,"nipalensis","Bubo","Spot-bellied Eagle-owl",LC,U
-51,49,"coromandus","Bubo","Dusky Eagle-owl",LC,U
-53,52,"leucostictus","Bubo","Akun Eagle-owl",LC,U
-54,52,"lacteus","Bubo","Giant Eagle-owl",LC,U
-62,61,"davidi","Strix","Pere David's Owl",_U,[
-63,61,"uralensis","Strix","Ural Owl",LC,U
-64,60,"seloputo","Strix","Spotted Wood-owl",LC,U
-66,65,"fulvescens","Strix","Fulvous Owl",LC,U
-67,65,"aluco","Strix","Tawny Owl",LC,U
-71,70,"leptogrammica","Strix","Brown Wood-owl",LC,U
-72,70,"nebulosa","Strix","Great Grey Owl",LC,U
-73,69,"butleri","Strix","Hume's Owl",LC,U
-74,68,"huhula","Strix","Black-banded Owl",LC,U
-75,57,"woodfordii","Strix","African Wood-owl",LC,U
-82,81,"ocellata","Strix","Mottled Wood-owl",LC,U
-83,81,"chacoensis","Strix","Chaco Owl",LC,U
-84,80,"hylophila","Strix","Rusty-barred Owl",NT,U
-85,79,"occidentalis","Strix","Spotted Owl",NT,U
-86,78,"varia","Strix","Barred Owl",LC,U
-89,88,"albitarsis","Strix","Rufous-banded Owl",LC,U
-90,88,"rufipes","Strix","Rufous-legged Owl",LC,U
-91,87,"nigrolineata","Strix","Black-and-white Owl",LC,U
-92,76,"virgata","Strix","Mottled Owl",LC,U
-96,95,"koeniswaldiana","Pulsatrix","Tawny-browed Owl",LC,U
-97,95,"melanota","Pulsatrix","Band-bellied Owl",LC,U
-98,94,"perspicillata","Pulsatrix","Spectacled Owl",LC,U
-100,99,"cristata","Lophostrix","Crested Owl",LC,U
-101,99,"lettii","Jubula","Maned Owl",DD,U
-102,4,"lawrencii","Gymnoglaux","Bare-legged Owl",LC,U
-114,113,"atricapilla","Megascops","Black-capped Screech-owl",LC,U
-115,113,"nudipes","Megascops","Puerto Rican Screech-owl",LC,U
-116,112,"watsonii","Megascops","Tawny-bellied Screech-owl",LC,U
-117,111,"roboratus","Megascops","West Peruvian Screech-owl",LC,U
-119,118,"sanctaecatarinae","Megascops","Long-tufted Screech-owl",LC,U
-120,118,"guatemalae","Megascops","Vermiculated Screech-owl",LC,U
-123,122,"marshalli","Megascops","Cloud-forest Screech-owl",NT,U
-124,122,"kennicottii","Megascops","Western Screech-owl",LC,U
-126,125,"clarkii","Megascops","Bare-shanked Screech-owl",LC,U
-127,125,"asio","Megascops","Eastern Screech-owl",LC,U
-128,108,"hoyi","Megascops","Montane Forest Screech-owl",LC,U
-130,129,"colombianus","Megascops","Colombian Screech-owl",NT,U
-131,129,"petersoni","Megascops","Cinnamon Screech-owl",LC,U
-136,135,"koepckeae","Megascops","Koepcke's Screech-owl",LC,U
-137,135,"choliba","Megascops","Tropical Screech-owl",LC,U
-139,138,"seductus","Megascops","Balsas Screech-owl",NT,U
-140,138,"cooperi","Megascops","Pacific Screech-owl",LC,U
-142,141,"albogularis","Megascops","White-throated Screech-owl",LC,U
-143,141,"ingens","Megascops","Rufescent Screech-owl",LC,U
-145,144,"trichopsis","Megascops","Whiskered Screech-owl",LC,U
-146,144,"barbarus","Megascops","Bearded Screech-owl",NT,U
-150,149,"thilohoffmanni","Otus","Serendib Scops-owl",EN,U
-151,149,"alius","Otus","Nicobar Scops-owl",DD,U
-152,148,"manadensis","Otus","Sulawesi Scops-owl",LC,U
-155,154,"sagittatus","Otus","White-fronted Scops-owl",VU,U
-156,154,"angelinae","Otus","Javan Scops-owl",VU,U
-157,153,"flammeolus","Otus","Flammulated Owl",LC,U
-159,158,"mentawi","Otus","Mentawai Scops-owl",NT,U
-160,158,"balli","Otus","Andaman Scops-owl",NT,U
-161,103,"alfredi","Otus","Flores Scops-owl",EN,U
-162,2,"brookii","Otus","Rajah Scops-owl",LC,U
-169,168,"stygius","Asio","Stygian Owl",LC,U
-170,168,"capensis","Asio","Marsh Owl",LC,U
-171,167,"flammeus","Asio","Short-eared Owl",LC,U
-172,166,"abyssinicus","Asio","Abyssinian Owl",LC,U
-174,173,"madagascariensis","Asio","Madagascar Owl",LC,U
-175,173,"solomonensis","Nesasio","Fearful Owl",VU,U
-178,177,"grammicus","Pseudoscops","Jamaican Owl",LC,U
-179,177,"clamator","Pseudoscops","Striped Owl",LC,U
-180,176,"otus","Asio","Long-eared Owl",LC,U
-183,182,"leucotis","Otus","White-faced Scops-owl",LC,U
-184,182,"magicus","Otus","Moluccan Scops-owl",LC,U
-185,181,"granti","Ptilopsis","Southern White-faced Owl",_U,[
-197,196,"rutilus","Otus","Malagasy Scops-owl",LC,U
-198,196,"capnodes","Otus","Anjouan Scops-owl",CR,U
-199,195,"mayottensis","Otus","Mayotte Scops-owl",LC,U
-201,200,"pauliani","Otus","Grand Comoro Scops-owl",CR,U
-202,200,"moheliensis","Otus","Moheli Scops-owl",CR,U
-204,203,"insularis","Otus","Seychelles Scops-owl",EN,U
-205,203,"sunia","Otus","Oriental Scops-owl",LC,U
-207,206,"longicornis","Otus","Luzon Scops-owl",NT,U
-208,206,"mirus","Otus","Mindanao Scops-owl",NT,U
-211,210,"elegans","Otus","Elegant Scops-owl",NT,U
-212,210,"collari","Otus","Sangihe Scops-owl",LC,U
-213,209,"icterorhynchus","Otus","Sandy Scops-owl",LC,U
-219,218,"senegalensis","Otus","African Scops-owl",LC,U
-220,218,"siaoensis","Otus","Siau Scops-owl",CR,U
-221,217,"pembaensis","Otus","Pemba Scops-owl",VU,U
-223,222,"silvicola","Otus","Wallace's Scops-owl",LC,U
-224,222,"scops","Otus","Common Scops-owl",LC,U
-225,215,"hartlaubi","Otus","Sao Tome Scops-owl",VU,U
-226,214,"enganensis","Otus","Enggano Scops-owl",NT,U
-227,189,"fuliginosus","Otus","Palawan Scops-owl",NT,U
-233,232,"megalotis","Otus","Philippine Scops-owl",LC,U
-234,232,"rufescens","Otus","Reddish Scops-owl",NT,U
-235,231,"podarginus","Otus","Palau Scops-owl",LC,U
-236,230,"semitorques","Otus","Japanese Scops Owl",_U,[
-240,239,"bakkamoena","Otus","Collared Scops-owl",LC,U
-241,239,"lempiji","Otus","Sunda Scops Owl",_U,[
-242,238,"lettia","Otus","Collared Scops Owl",_U,[
-243,237,"gurneyi","Mimizuku","Giant Scops-owl",VU,U
-245,244,"spilocephalus","Otus","Mountain Scops-owl",LC,U
-246,244,"umbra","Otus","Simeulue Scops-owl",NT,U
-249,248,"mantananensis","Otus","Mantanani Scops-owl",NT,U
-250,248,"brucei","Otus","Pallid Scops-owl",LC,U
-251,247,"beccarii","Otus","Biak Scops-owl",EN,U
-253,252,"mindorensis","Otus","Mindoro Scops-owl",NT,U
-254,252,"ireneae","Otus","Sokoke Scops-owl",EN,U
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"bouvieri","Scotopelia","Vermiculated Fishing-owl",LC,U,-16731116
+14,12,"ussheri","Scotopelia","Rufous Fishing-owl",EN,U,-8572416
+15,11,"peli","Scotopelia","Pel's Fishing-owl",LC,U,-16731116
+16,10,"bengalensis","Bubo","Rock Eagle-owl",LC,U,-16731116
+18,17,"sumatranus","Bubo","Barred Eagle-owl",LC,U,-16731116
+19,17,"africanus","Bubo","Spotted Eagle-owl",LC,U,-16731116
+24,23,"shelleyi","Bubo","Shelley's Eagle-owl",NT,U,-12486656
+25,23,"ascalaphus","Bubo","Pharaoh Eagle-owl",LC,U,-16731116
+26,22,"bubo","Bubo","Eurasian Eagle-owl",LC,U,-16731116
+27,21,"capensis","Bubo","Cape Eagle-owl",LC,U,-16731116
+28,20,"philippensis","Bubo","Philippine Eagle-owl",VU,U,-11184866
+33,32,"cinerascens","Bubo","Greyish Eagle-Owl",_U,[,-16777216
+34,32,"poensis","Bubo","Fraser's Eagle-owl",LC,U,-16731116
+35,31,"virginianus","Bubo","Great Horned Owl",LC,U,-16731116
+36,30,"magellanicus","Bubo","Lesser Horned Owl",_U,[,-16777216
+38,37,"vosseleri","Bubo","Usambara Eagle-owl",VU,U,-11184866
+39,37,"scandiaca","Bubo","Snowy Owl",LC,U,-16731116
+44,43,"blakistoni","Ketupa","Blakiston's Fish-owl",EN,U,-8572416
+45,43,"ketupu","Ketupa","Buffy Fish-owl",LC,U,-16731116
+46,42,"flavipes","Ketupa","Tawny Fish-owl",LC,U,-16731116
+47,41,"zeylonensis","Ketupa","Brown Fish-owl",LC,U,-16731116
+50,49,"nipalensis","Bubo","Spot-bellied Eagle-owl",LC,U,-16731116
+51,49,"coromandus","Bubo","Dusky Eagle-owl",LC,U,-16731116
+53,52,"leucostictus","Bubo","Akun Eagle-owl",LC,U,-16731116
+54,52,"lacteus","Bubo","Giant Eagle-owl",LC,U,-16731116
+62,61,"davidi","Strix","Pere David's Owl",_U,[,-16777216
+63,61,"uralensis","Strix","Ural Owl",LC,U,-16731116
+64,60,"seloputo","Strix","Spotted Wood-owl",LC,U,-16731116
+66,65,"fulvescens","Strix","Fulvous Owl",LC,U,-16731116
+67,65,"aluco","Strix","Tawny Owl",LC,U,-16731116
+71,70,"leptogrammica","Strix","Brown Wood-owl",LC,U,-16731116
+72,70,"nebulosa","Strix","Great Grey Owl",LC,U,-16731116
+73,69,"butleri","Strix","Hume's Owl",LC,U,-16731116
+74,68,"huhula","Strix","Black-banded Owl",LC,U,-16731116
+75,57,"woodfordii","Strix","African Wood-owl",LC,U,-16731116
+82,81,"ocellata","Strix","Mottled Wood-owl",LC,U,-16731116
+83,81,"chacoensis","Strix","Chaco Owl",LC,U,-16731116
+84,80,"hylophila","Strix","Rusty-barred Owl",NT,U,-12486656
+85,79,"occidentalis","Strix","Spotted Owl",NT,U,-12486656
+86,78,"varia","Strix","Barred Owl",LC,U,-16731116
+89,88,"albitarsis","Strix","Rufous-banded Owl",LC,U,-16731116
+90,88,"rufipes","Strix","Rufous-legged Owl",LC,U,-16731116
+91,87,"nigrolineata","Strix","Black-and-white Owl",LC,U,-16731116
+92,76,"virgata","Strix","Mottled Owl",LC,U,-16731116
+96,95,"koeniswaldiana","Pulsatrix","Tawny-browed Owl",LC,U,-16731116
+97,95,"melanota","Pulsatrix","Band-bellied Owl",LC,U,-16731116
+98,94,"perspicillata","Pulsatrix","Spectacled Owl",LC,U,-16731116
+100,99,"cristata","Lophostrix","Crested Owl",LC,U,-16731116
+101,99,"lettii","Jubula","Maned Owl",DD,U,-11513776
+102,4,"lawrencii","Gymnoglaux","Bare-legged Owl",LC,U,-16731116
+114,113,"atricapilla","Megascops","Black-capped Screech-owl",LC,U,-16731116
+115,113,"nudipes","Megascops","Puerto Rican Screech-owl",LC,U,-16731116
+116,112,"watsonii","Megascops","Tawny-bellied Screech-owl",LC,U,-16731116
+117,111,"roboratus","Megascops","West Peruvian Screech-owl",LC,U,-16731116
+119,118,"sanctaecatarinae","Megascops","Long-tufted Screech-owl",LC,U,-16731116
+120,118,"guatemalae","Megascops","Vermiculated Screech-owl",LC,U,-16731116
+123,122,"marshalli","Megascops","Cloud-forest Screech-owl",NT,U,-12486656
+124,122,"kennicottii","Megascops","Western Screech-owl",LC,U,-16731116
+126,125,"clarkii","Megascops","Bare-shanked Screech-owl",LC,U,-16731116
+127,125,"asio","Megascops","Eastern Screech-owl",LC,U,-16731116
+128,108,"hoyi","Megascops","Montane Forest Screech-owl",LC,U,-16731116
+130,129,"colombianus","Megascops","Colombian Screech-owl",NT,U,-12486656
+131,129,"petersoni","Megascops","Cinnamon Screech-owl",LC,U,-16731116
+136,135,"koepckeae","Megascops","Koepcke's Screech-owl",LC,U,-16731116
+137,135,"choliba","Megascops","Tropical Screech-owl",LC,U,-16731116
+139,138,"seductus","Megascops","Balsas Screech-owl",NT,U,-12486656
+140,138,"cooperi","Megascops","Pacific Screech-owl",LC,U,-16731116
+142,141,"albogularis","Megascops","White-throated Screech-owl",LC,U,-16731116
+143,141,"ingens","Megascops","Rufescent Screech-owl",LC,U,-16731116
+145,144,"trichopsis","Megascops","Whiskered Screech-owl",LC,U,-16731116
+146,144,"barbarus","Megascops","Bearded Screech-owl",NT,U,-12486656
+150,149,"thilohoffmanni","Otus","Serendib Scops-owl",EN,U,-8572416
+151,149,"alius","Otus","Nicobar Scops-owl",DD,U,-11513776
+152,148,"manadensis","Otus","Sulawesi Scops-owl",LC,U,-16731116
+155,154,"sagittatus","Otus","White-fronted Scops-owl",VU,U,-11184866
+156,154,"angelinae","Otus","Javan Scops-owl",VU,U,-11184866
+157,153,"flammeolus","Otus","Flammulated Owl",LC,U,-16731116
+159,158,"mentawi","Otus","Mentawai Scops-owl",NT,U,-12486656
+160,158,"balli","Otus","Andaman Scops-owl",NT,U,-12486656
+161,103,"alfredi","Otus","Flores Scops-owl",EN,U,-8572416
+162,2,"brookii","Otus","Rajah Scops-owl",LC,U,-16731116
+169,168,"stygius","Asio","Stygian Owl",LC,U,-16731116
+170,168,"capensis","Asio","Marsh Owl",LC,U,-16731116
+171,167,"flammeus","Asio","Short-eared Owl",LC,U,-16731116
+172,166,"abyssinicus","Asio","Abyssinian Owl",LC,U,-16731116
+174,173,"madagascariensis","Asio","Madagascar Owl",LC,U,-16731116
+175,173,"solomonensis","Nesasio","Fearful Owl",VU,U,-11184866
+178,177,"grammicus","Pseudoscops","Jamaican Owl",LC,U,-16731116
+179,177,"clamator","Pseudoscops","Striped Owl",LC,U,-16731116
+180,176,"otus","Asio","Long-eared Owl",LC,U,-16731116
+183,182,"leucotis","Otus","White-faced Scops-owl",LC,U,-16731116
+184,182,"magicus","Otus","Moluccan Scops-owl",LC,U,-16731116
+185,181,"granti","Ptilopsis","Southern White-faced Owl",_U,[,-16777216
+197,196,"rutilus","Otus","Malagasy Scops-owl",LC,U,-16731116
+198,196,"capnodes","Otus","Anjouan Scops-owl",CR,U,-3014646
+199,195,"mayottensis","Otus","Mayotte Scops-owl",LC,U,-16731116
+201,200,"pauliani","Otus","Grand Comoro Scops-owl",CR,U,-3014646
+202,200,"moheliensis","Otus","Moheli Scops-owl",CR,U,-3014646
+204,203,"insularis","Otus","Seychelles Scops-owl",EN,U,-8572416
+205,203,"sunia","Otus","Oriental Scops-owl",LC,U,-16731116
+207,206,"longicornis","Otus","Luzon Scops-owl",NT,U,-12486656
+208,206,"mirus","Otus","Mindanao Scops-owl",NT,U,-12486656
+211,210,"elegans","Otus","Elegant Scops-owl",NT,U,-12486656
+212,210,"collari","Otus","Sangihe Scops-owl",LC,U,-16731116
+213,209,"icterorhynchus","Otus","Sandy Scops-owl",LC,U,-16731116
+219,218,"senegalensis","Otus","African Scops-owl",LC,U,-16731116
+220,218,"siaoensis","Otus","Siau Scops-owl",CR,U,-3014646
+221,217,"pembaensis","Otus","Pemba Scops-owl",VU,U,-11184866
+223,222,"silvicola","Otus","Wallace's Scops-owl",LC,U,-16731116
+224,222,"scops","Otus","Common Scops-owl",LC,U,-16731116
+225,215,"hartlaubi","Otus","Sao Tome Scops-owl",VU,U,-11184866
+226,214,"enganensis","Otus","Enggano Scops-owl",NT,U,-12486656
+227,189,"fuliginosus","Otus","Palawan Scops-owl",NT,U,-12486656
+233,232,"megalotis","Otus","Philippine Scops-owl",LC,U,-16731116
+234,232,"rufescens","Otus","Reddish Scops-owl",NT,U,-12486656
+235,231,"podarginus","Otus","Palau Scops-owl",LC,U,-16731116
+236,230,"semitorques","Otus","Japanese Scops Owl",_U,[,-16777216
+240,239,"bakkamoena","Otus","Collared Scops-owl",LC,U,-16731116
+241,239,"lempiji","Otus","Sunda Scops Owl",_U,[,-16777216
+242,238,"lettia","Otus","Collared Scops Owl",_U,[,-16777216
+243,237,"gurneyi","Mimizuku","Giant Scops-owl",VU,U,-11184866
+245,244,"spilocephalus","Otus","Mountain Scops-owl",LC,U,-16731116
+246,244,"umbra","Otus","Simeulue Scops-owl",NT,U,-12486656
+249,248,"mantananensis","Otus","Mantanani Scops-owl",NT,U,-12486656
+250,248,"brucei","Otus","Pallid Scops-owl",LC,U,-16731116
+251,247,"beccarii","Otus","Biak Scops-owl",EN,U,-8572416
+253,252,"mindorensis","Otus","Mindoro Scops-owl",NT,U,-12486656
+254,252,"ireneae","Otus","Sokoke Scops-owl",EN,U,-8572416

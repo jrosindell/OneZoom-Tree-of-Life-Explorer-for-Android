@@ -1,115 +1,115 @@
-index,parent,name1,name2,common,redlist,popstab
-7,6,"adamsii","Gavia","Yellow-billed Loon",NT,U
-8,6,"immer","Gavia","Common Loon",LC,U
-9,5,"pacifica","Gavia","Pacific Loon",LC,U
-10,4,"arctica","Gavia","Arctic Loon",LC,U
-11,3,"stellata","Gavia","Red-throated Loon",LC,U
-19,18,"livingstonii","Tauraco","Livingstone's Turaco",LC,U
-20,18,"fischeri","Tauraco","Fischer's Turaco",NT,U
-21,17,"corythaix","Tauraco","Knysna Turaco",LC,U
-24,23,"hartlaubi","Tauraco","Hartlaub's Turaco",LC,U
-25,23,"schalowi","Tauraco","Schalow's Turaco",LC,U
-26,22,"schuetti","Tauraco","Black-billed Turaco",LC,U
-30,29,"erythrolophus","Tauraco","Red-crested Turaco",LC,U
-31,29,"leucolophus","Tauraco","White-crested Turaco",LC,U
-32,28,"bannermani","Tauraco","Bannerman's Turaco",EN,U
-33,27,"leucotis","Tauraco","White-cheeked Turaco",LC,U
-38,37,"violacea","Musophaga","Violet Turaco",LC,U
-39,37,"persa","Tauraco","Guinea Turaco",LC,U
-40,36,"rossae","Musophaga","Ross's Turaco",LC,U
-41,35,"macrorhynchus","Tauraco","Yellow-billed Turaco",LC,U
-42,34,"ruspolii","Tauraco","Prince Ruspoli's Turaco",VU,U
-44,43,"porphyreolophus","Tauraco","Purple-crested Turaco",LC,U
-45,43,"johnstoni","Ruwenzorornis","Ruwenzori Turaco",LC,U
-50,49,"personatus","Corythaixoides","Bare-faced Go-away-bird",LC,U
-51,49,"concolor","Corythaixoides","Grey Go-away-bird",LC,U
-52,48,"leucogaster","Corythaixoides","White-bellied Go-away-bird",LC,U
-54,53,"piscator","Crinifer","Western Grey Plantain-eater",LC,U
-55,53,"zonurus","Crinifer","Eastern Grey Plantain-eater",LC,U
-56,46,"cristata","Corythaeola","Great Blue Turaco",LC,U
-67,66,"pucheranii","Neomorphus","Red-billed Ground-cuckoo",LC,U
-68,66,"squamiger","Neomorphus","Scaled Ground-cuckoo",NT,U
-69,65,"rufipennis","Neomorphus","Rufous-winged Ground-cuckoo",LC,U
-71,70,"geoffroyi","Neomorphus","Rufous-vented Ground-cuckoo",LC,U
-72,70,"radiolosus","Neomorphus","Banded Ground-cuckoo",EN,U
-74,73,"californianus","Geococcyx","Greater Roadrunner",LC,U
-75,73,"velox","Geococcyx","Lesser Roadrunner",LC,U
-76,62,"erythropygus","Morococcyx","Lesser Ground-cuckoo",LC,U
-79,78,"phasianellus","Dromococcyx","Pheasant Cuckoo",LC,U
-80,78,"pavoninus","Dromococcyx","Pavonine Cuckoo",LC,U
-81,77,"naevia","Tapera","Striped Cuckoo",LC,U
-85,84,"sulcirostris","Crotophaga","Groove-billed Ani",LC,U
-86,84,"ani","Crotophaga","Smooth-billed Ani",LC,U
-87,83,"major","Crotophaga","Greater Ani",LC,U
-88,82,"guira","Guira","Guira Cuckoo",LC,U
-99,98,"senegalensis","Eupodotis","White-bellied Bustard",LC,U
-100,98,"caerulescens","Eupodotis","Blue Bustard",NT,U
-102,101,"afraoides","Eupodotis","White-quilled Bustard",LC,U
-103,101,"afra","Eupodotis","Black Bustard",LC,U
-104,96,"vigorsii","Eupodotis","Karoo Bustard",LC,U
-107,106,"gindiana","Eupodotis","Buff-crested Bustard",LC,U
-108,106,"savilei","Eupodotis","Savile's Bustard",LC,U
-109,105,"ruficrista","Eupodotis","Red-crested Bustard",LC,U
-111,110,"melanogaster","Eupodotis","Black-bellied Bustard",LC,U
-112,110,"hartlaubii","Eupodotis","Hartlaub's Bustard",LC,U
-113,93,"rueppellii","Eupodotis","Rueppell's Bustard",LC,U
-115,114,"humilis","Eupodotis","Little Brown Bustard",NT,U
-116,114,"tetrax","Tetrax","Little Bustard",NT,U
-124,123,"nigriceps","Ardeotis","Great Indian Bustard",EN,U
-125,123,"australis","Ardeotis","Australian Bustard",NT,U
-126,122,"kori","Ardeotis","Kori Bustard",LC,U
-127,121,"arabs","Ardeotis","Arabian Bustard",LC,U
-128,120,"heuglinii","Neotis","Heuglin's Bustard",LC,U
-129,119,"ludwigii","Neotis","Ludwig's Bustard",EN,U
-130,118,"denhami","Neotis","Denham's Bustard",NT,U
-131,117,"nuba","Neotis","Nubian Bustard",NT,U
-133,132,"undulata","Chlamydotis","Houbara Bustard",VU,U
-134,132,"tarda","Otis","Great Bustard",VU,U
-136,135,"bengalensis","Houbaropsis","Bengal Florican",CR,U
-137,135,"indicus","Sypheotides","Lesser Florican",EN,U
-147,146,"concolor","Amaurolimnas","Uniform Crake",LC,U
-148,146,"egregia","Crecopsis","African Crake",LC,U
-149,145,"woodfordi","Nesoclopeus","Woodford's Rail",NT,U
-151,150,"marginalis","Aenigmatolimnas","Striped Crake",LC,U
-152,150,"senegalensis","Podica","African Finfoot",LC,U
-153,143,"rougetii","Rougetius","Rouget's Rail",NT,U
-155,154,"cuvieri","Dryolimnas","White-throated Rail",LC,U
-156,154,"plateni","Aramidopsis","Snoring Rail",VU,U
-161,160,"erythrops","Neocrex","Paint-billed Crake",LC,U
-162,160,"colombiana","Neocrex","Colombian Crake",DD,U
-163,159,"personatus","Heliopais","Masked Finfoot",EN,U
-164,158,"schomburgkii","Micropygia","Ocellated Crake",LC,U
-168,167,"muelleri","Lewinia","Auckland Islands Rail",VU,U
-169,167,"pectoralis","Lewinia","Lewin's Rail",LC,U
-170,166,"mirifica","Lewinia","Brown-banded Rail",DD,U
-171,165,"fulica","Heliornis","Sungrebe",LC,U
-177,176,"elegans","Sarothrura","Buff-spotted Flufftail",LC,U
-178,176,"ayresi","Sarothrura","White-winged Flufftail",EN,U
-180,179,"lugens","Sarothrura","Chestnut-headed Flufftail",LC,U
-181,179,"rufa","Sarothrura","Red-chested Flufftail",LC,U
-183,182,"watersi","Sarothrura","Slender-billed Flufftail",EN,U
-184,182,"affinis","Sarothrura","Striped Flufftail",LC,U
-187,186,"pulchra","Sarothrura","White-spotted Flufftail",LC,U
-188,186,"insularis","Sarothrura","Madagascar Flufftail",LC,U
-189,185,"boehmi","Sarothrura","Streaky-breasted Flufftail",LC,U
-191,190,"wallacii","Habroptila","Invisible Rail",VU,U
-192,190,"cinerea","Gallicrex","Watercock",LC,U
-202,201,"antigone","Grus","Sarus Crane",VU,U
-203,201,"rubicunda","Grus","Brolga",LC,U
-204,200,"vipio","Grus","White-naped Crane",VU,U
-205,199,"canadensis","Grus","Sandhill Crane",LC,U
-208,207,"virgo","Grus","Demoiselle Crane",LC,U
-209,207,"paradisea","Grus","Blue Crane",VU,U
-210,206,"carunculatus","Grus","Wattled Crane",VU,U
-215,214,"nigricollis","Grus","Black-necked Crane",VU,U
-216,214,"monacha","Grus","Hooded Crane",VU,U
-217,213,"grus","Grus","Common Crane",LC,U
-218,212,"americana","Grus","Whooping Crane",EN,U
-219,211,"japonensis","Grus","Red-crowned Crane",EN,U
-220,196,"leucogeranus","Grus","Siberian Crane",CR,U
-222,221,"regulorum","Balearica","Grey Crowned-crane",EN,U
-223,221,"pavonina","Balearica","Black Crowned-crane",VU,U
-224,194,"guarauna","Aramus","Limpkin",LC,U
-227,226,"leucoptera","Psophia","Pale-winged Trumpeter",LC,U
-228,226,"viridis","Psophia","Dark-winged Trumpeter",LC,U
-229,225,"crepitans","Psophia","Grey-winged Trumpeter",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+7,6,"adamsii","Gavia","Yellow-billed Loon",NT,U,-12486656
+8,6,"immer","Gavia","Common Loon",LC,U,-16731116
+9,5,"pacifica","Gavia","Pacific Loon",LC,U,-16731116
+10,4,"arctica","Gavia","Arctic Loon",LC,U,-16731116
+11,3,"stellata","Gavia","Red-throated Loon",LC,U,-16731116
+19,18,"livingstonii","Tauraco","Livingstone's Turaco",LC,U,-16731116
+20,18,"fischeri","Tauraco","Fischer's Turaco",NT,U,-12486656
+21,17,"corythaix","Tauraco","Knysna Turaco",LC,U,-16731116
+24,23,"hartlaubi","Tauraco","Hartlaub's Turaco",LC,U,-16731116
+25,23,"schalowi","Tauraco","Schalow's Turaco",LC,U,-16731116
+26,22,"schuetti","Tauraco","Black-billed Turaco",LC,U,-16731116
+30,29,"erythrolophus","Tauraco","Red-crested Turaco",LC,U,-16731116
+31,29,"leucolophus","Tauraco","White-crested Turaco",LC,U,-16731116
+32,28,"bannermani","Tauraco","Bannerman's Turaco",EN,U,-8572416
+33,27,"leucotis","Tauraco","White-cheeked Turaco",LC,U,-16731116
+38,37,"violacea","Musophaga","Violet Turaco",LC,U,-16731116
+39,37,"persa","Tauraco","Guinea Turaco",LC,U,-16731116
+40,36,"rossae","Musophaga","Ross's Turaco",LC,U,-16731116
+41,35,"macrorhynchus","Tauraco","Yellow-billed Turaco",LC,U,-16731116
+42,34,"ruspolii","Tauraco","Prince Ruspoli's Turaco",VU,U,-11184866
+44,43,"porphyreolophus","Tauraco","Purple-crested Turaco",LC,U,-16731116
+45,43,"johnstoni","Ruwenzorornis","Ruwenzori Turaco",LC,U,-16731116
+50,49,"personatus","Corythaixoides","Bare-faced Go-away-bird",LC,U,-16731116
+51,49,"concolor","Corythaixoides","Grey Go-away-bird",LC,U,-16731116
+52,48,"leucogaster","Corythaixoides","White-bellied Go-away-bird",LC,U,-16731116
+54,53,"piscator","Crinifer","Western Grey Plantain-eater",LC,U,-16731116
+55,53,"zonurus","Crinifer","Eastern Grey Plantain-eater",LC,U,-16731116
+56,46,"cristata","Corythaeola","Great Blue Turaco",LC,U,-16731116
+67,66,"pucheranii","Neomorphus","Red-billed Ground-cuckoo",LC,U,-16731116
+68,66,"squamiger","Neomorphus","Scaled Ground-cuckoo",NT,U,-12486656
+69,65,"rufipennis","Neomorphus","Rufous-winged Ground-cuckoo",LC,U,-16731116
+71,70,"geoffroyi","Neomorphus","Rufous-vented Ground-cuckoo",LC,U,-16731116
+72,70,"radiolosus","Neomorphus","Banded Ground-cuckoo",EN,U,-8572416
+74,73,"californianus","Geococcyx","Greater Roadrunner",LC,U,-16731116
+75,73,"velox","Geococcyx","Lesser Roadrunner",LC,U,-16731116
+76,62,"erythropygus","Morococcyx","Lesser Ground-cuckoo",LC,U,-16731116
+79,78,"phasianellus","Dromococcyx","Pheasant Cuckoo",LC,U,-16731116
+80,78,"pavoninus","Dromococcyx","Pavonine Cuckoo",LC,U,-16731116
+81,77,"naevia","Tapera","Striped Cuckoo",LC,U,-16731116
+85,84,"sulcirostris","Crotophaga","Groove-billed Ani",LC,U,-16731116
+86,84,"ani","Crotophaga","Smooth-billed Ani",LC,U,-16731116
+87,83,"major","Crotophaga","Greater Ani",LC,U,-16731116
+88,82,"guira","Guira","Guira Cuckoo",LC,U,-16731116
+99,98,"senegalensis","Eupodotis","White-bellied Bustard",LC,U,-16731116
+100,98,"caerulescens","Eupodotis","Blue Bustard",NT,U,-12486656
+102,101,"afraoides","Eupodotis","White-quilled Bustard",LC,U,-16731116
+103,101,"afra","Eupodotis","Black Bustard",LC,U,-16731116
+104,96,"vigorsii","Eupodotis","Karoo Bustard",LC,U,-16731116
+107,106,"gindiana","Eupodotis","Buff-crested Bustard",LC,U,-16731116
+108,106,"savilei","Eupodotis","Savile's Bustard",LC,U,-16731116
+109,105,"ruficrista","Eupodotis","Red-crested Bustard",LC,U,-16731116
+111,110,"melanogaster","Eupodotis","Black-bellied Bustard",LC,U,-16731116
+112,110,"hartlaubii","Eupodotis","Hartlaub's Bustard",LC,U,-16731116
+113,93,"rueppellii","Eupodotis","Rueppell's Bustard",LC,U,-16731116
+115,114,"humilis","Eupodotis","Little Brown Bustard",NT,U,-12486656
+116,114,"tetrax","Tetrax","Little Bustard",NT,U,-12486656
+124,123,"nigriceps","Ardeotis","Great Indian Bustard",EN,U,-8572416
+125,123,"australis","Ardeotis","Australian Bustard",NT,U,-12486656
+126,122,"kori","Ardeotis","Kori Bustard",LC,U,-16731116
+127,121,"arabs","Ardeotis","Arabian Bustard",LC,U,-16731116
+128,120,"heuglinii","Neotis","Heuglin's Bustard",LC,U,-16731116
+129,119,"ludwigii","Neotis","Ludwig's Bustard",EN,U,-8572416
+130,118,"denhami","Neotis","Denham's Bustard",NT,U,-12486656
+131,117,"nuba","Neotis","Nubian Bustard",NT,U,-12486656
+133,132,"undulata","Chlamydotis","Houbara Bustard",VU,U,-11184866
+134,132,"tarda","Otis","Great Bustard",VU,U,-11184866
+136,135,"bengalensis","Houbaropsis","Bengal Florican",CR,U,-3014646
+137,135,"indicus","Sypheotides","Lesser Florican",EN,U,-8572416
+147,146,"concolor","Amaurolimnas","Uniform Crake",LC,U,-16731116
+148,146,"egregia","Crecopsis","African Crake",LC,U,-16731116
+149,145,"woodfordi","Nesoclopeus","Woodford's Rail",NT,U,-12486656
+151,150,"marginalis","Aenigmatolimnas","Striped Crake",LC,U,-16731116
+152,150,"senegalensis","Podica","African Finfoot",LC,U,-16731116
+153,143,"rougetii","Rougetius","Rouget's Rail",NT,U,-12486656
+155,154,"cuvieri","Dryolimnas","White-throated Rail",LC,U,-16731116
+156,154,"plateni","Aramidopsis","Snoring Rail",VU,U,-11184866
+161,160,"erythrops","Neocrex","Paint-billed Crake",LC,U,-16731116
+162,160,"colombiana","Neocrex","Colombian Crake",DD,U,-11513776
+163,159,"personatus","Heliopais","Masked Finfoot",EN,U,-8572416
+164,158,"schomburgkii","Micropygia","Ocellated Crake",LC,U,-16731116
+168,167,"muelleri","Lewinia","Auckland Islands Rail",VU,U,-11184866
+169,167,"pectoralis","Lewinia","Lewin's Rail",LC,U,-16731116
+170,166,"mirifica","Lewinia","Brown-banded Rail",DD,U,-11513776
+171,165,"fulica","Heliornis","Sungrebe",LC,U,-16731116
+177,176,"elegans","Sarothrura","Buff-spotted Flufftail",LC,U,-16731116
+178,176,"ayresi","Sarothrura","White-winged Flufftail",EN,U,-8572416
+180,179,"lugens","Sarothrura","Chestnut-headed Flufftail",LC,U,-16731116
+181,179,"rufa","Sarothrura","Red-chested Flufftail",LC,U,-16731116
+183,182,"watersi","Sarothrura","Slender-billed Flufftail",EN,U,-8572416
+184,182,"affinis","Sarothrura","Striped Flufftail",LC,U,-16731116
+187,186,"pulchra","Sarothrura","White-spotted Flufftail",LC,U,-16731116
+188,186,"insularis","Sarothrura","Madagascar Flufftail",LC,U,-16731116
+189,185,"boehmi","Sarothrura","Streaky-breasted Flufftail",LC,U,-16731116
+191,190,"wallacii","Habroptila","Invisible Rail",VU,U,-11184866
+192,190,"cinerea","Gallicrex","Watercock",LC,U,-16731116
+202,201,"antigone","Grus","Sarus Crane",VU,U,-11184866
+203,201,"rubicunda","Grus","Brolga",LC,U,-16731116
+204,200,"vipio","Grus","White-naped Crane",VU,U,-11184866
+205,199,"canadensis","Grus","Sandhill Crane",LC,U,-16731116
+208,207,"virgo","Grus","Demoiselle Crane",LC,U,-16731116
+209,207,"paradisea","Grus","Blue Crane",VU,U,-11184866
+210,206,"carunculatus","Grus","Wattled Crane",VU,U,-11184866
+215,214,"nigricollis","Grus","Black-necked Crane",VU,U,-11184866
+216,214,"monacha","Grus","Hooded Crane",VU,U,-11184866
+217,213,"grus","Grus","Common Crane",LC,U,-16731116
+218,212,"americana","Grus","Whooping Crane",EN,U,-8572416
+219,211,"japonensis","Grus","Red-crowned Crane",EN,U,-8572416
+220,196,"leucogeranus","Grus","Siberian Crane",CR,U,-3014646
+222,221,"regulorum","Balearica","Grey Crowned-crane",EN,U,-8572416
+223,221,"pavonina","Balearica","Black Crowned-crane",VU,U,-11184866
+224,194,"guarauna","Aramus","Limpkin",LC,U,-16731116
+227,226,"leucoptera","Psophia","Pale-winged Trumpeter",LC,U,-16731116
+228,226,"viridis","Psophia","Dark-winged Trumpeter",LC,U,-16731116
+229,225,"crepitans","Psophia","Grey-winged Trumpeter",LC,U,-16731116

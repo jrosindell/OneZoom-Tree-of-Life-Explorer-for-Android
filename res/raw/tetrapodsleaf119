@@ -1,128 +1,128 @@
-index,parent,name1,name2,common,redlist,popstab
-19,18,"vagans","Cuculus","Moustached Hawk-cuckoo",NT,U
-20,18,"saturatus","Cuculus","Himalayan Cuckoo",LC,U
-21,17,"canorus","Cuculus","Common Cuckoo",LC,U
-22,16,"gularis","Cuculus","African Cuckoo",LC,U
-23,15,"rochii","Cuculus","Madagascar Cuckoo",LC,U
-24,14,"micropterus","Cuculus","Indian Cuckoo",LC,U
-25,13,"crassirostris","Cuculus","Sulawesi Hawk-cuckoo",LC,U
-26,12,"solitarius","Cuculus","Red-chested Cuckoo",LC,U
-27,11,"poliocephalus","Cuculus","Lesser Cuckoo",LC,U
-28,10,"leucolophus","Caliechthrus","White-crowned Koel",LC,U
-29,9,"clamosus","Cuculus","Black Cuckoo",LC,U
-33,32,"sparverioides","Cuculus","Large Hawk-cuckoo",LC,U
-34,32,"varius","Cuculus","Common Hawk-cuckoo",LC,U
-35,31,"optatus","Cuculus","Oriental Cuckoo",LC,U
-36,30,"fugax","Cuculus","Hodgson's Hawk-cuckoo",LC,U
-40,39,"montanus","Cercococcyx","Barred Long-tailed Cuckoo",LC,U
-41,39,"olivinus","Cercococcyx","Olive Long-tailed Cuckoo",LC,U
-42,38,"mechowi","Cercococcyx","Dusky Long-tailed Cuckoo",LC,U
-44,43,"velutinus","Surniculus","Philippine Drongo-Cuckoo",_U,[
-45,43,"lugubris","Surniculus","Drongo Cuckoo",LC,U
-52,51,"merulinus","Cacomantis","Plaintive Cuckoo",LC,U
-53,51,"variolosus","Cacomantis","Brush Cuckoo",LC,U
-54,50,"sepulcralis","Cacomantis","Rusty-breasted Cuckoo",LC,U
-55,49,"heinrichi","Cacomantis","Moluccan Cuckoo",NT,U
-58,57,"castaneiventris","Cacomantis","Chestnut-breasted Cuckoo",LC,U
-59,57,"flabelliformis","Cacomantis","Fan-tailed Cuckoo",LC,U
-60,56,"passerinus","Cacomantis","Grey-bellied Cuckoo",LC,U
-61,47,"sonneratii","Cacomantis","Banded Bay Cuckoo",LC,U
-63,62,"pallidus","Cuculus","Pallid Cuckoo",LC,U
-64,62,"lepidus","Cuculus","Sunda Cuckoo",LC,U
-73,72,"meyeri","Chrysococcyx","White-eared Bronze-cuckoo",LC,U
-74,72,"minutillus","Chrysococcyx","Little Bronze-cuckoo",LC,U
-76,75,"basalis","Chrysococcyx","Horsfield's Bronze-cuckoo",LC,U
-77,75,"lucidus","Chrysococcyx","Shining Bronze-cuckoo",LC,U
-78,70,"osculans","Chrysococcyx","Black-eared Cuckoo",LC,U
-79,69,"russatus","Chrysococcyx","Gould's Bronze-cuckoo",LC,U
-80,68,"ruficollis","Chrysococcyx","Rufous-throated Bronze-cuckoo",LC,U
-81,67,"crassirostris","Chrysococcyx","Pied Bronze-cuckoo",LC,U
-85,84,"flavigularis","Chrysococcyx","Yellow-throated Cuckoo",LC,U
-86,84,"cupreus","Chrysococcyx","African Emerald Cuckoo",LC,U
-88,87,"caprius","Chrysococcyx","Didric Cuckoo",LC,U
-89,87,"klaas","Chrysococcyx","Klaas's Cuckoo",LC,U
-91,90,"maculatus","Chrysococcyx","Asian Emerald Cuckoo",LC,U
-92,90,"xanthorhynchus","Chrysococcyx","Violet Cuckoo",LC,U
-93,65,"megarhynchus","Rhamphomantis","Long-billed Cuckoo",LC,U
-94,4,"novaehollandiae","Scythrops","Channel-billed Cuckoo",LC,U
-98,97,"melanorhynchus","Eudynamys","Black-billed Koel",LC,U
-99,97,"parva","Microdynamis","Dwarf Koel",LC,U
-100,96,"scolopaceus","Eudynamys","Asian Koel",LC,U
-102,101,"taitensis","Eudynamys","Long-tailed Koel",LC,U
-103,101,"orientalis","Eudynamys","Eastern Koel",LC,U
-116,115,"longirostris","Coccyzus","Hispaniolan Lizard-cuckoo",LC,U
-117,115,"vieilloti","Coccyzus","Puerto Rican Lizard-cuckoo",LC,U
-118,114,"merlini","Coccyzus","Great Lizard-cuckoo",LC,U
-119,113,"vetula","Coccyzus","Jamaican Lizard-cuckoo",LC,U
-121,120,"pluvialis","Coccyzus","Chestnut-bellied Cuckoo",LC,U
-122,120,"rufigularis","Coccyzus","Bay-breasted Cuckoo",EN,U
-123,111,"lansbergi","Coccyzus","Grey-capped Cuckoo",LC,U
-126,125,"ferrugineus","Coccyzus","Cocos Cuckoo",VU,U
-127,125,"minor","Coccyzus","Mangrove Cuckoo",LC,U
-128,124,"cayana","Piaya","Squirrel Cuckoo",LC,U
-132,131,"americanus","Coccyzus","Yellow-billed Cuckoo",LC,U
-133,131,"euleri","Coccyzus","Pearly-breasted Cuckoo",LC,U
-134,130,"melacoryphus","Coccyzus","Dark-billed Cuckoo",LC,U
-135,129,"erythropthalmus","Coccyzus","Black-billed Cuckoo",LC,U
-136,108,"melanogaster","Piaya","Black-bellied Cuckoo",LC,U
-139,138,"cinerea","Coccycua","Ash-coloured Cuckoo",LC,U
-140,138,"pumila","Coccycua","Dwarf Cuckoo",LC,U
-141,137,"minuta","Coccycua","Little Cuckoo",LC,U
-149,148,"tristis","Phaenicophaeus","Green-billed Malkoha",LC,U
-150,148,"diardi","Phaenicophaeus","Black-bellied Malkoha",NT,U
-151,147,"sumatranus","Phaenicophaeus","Chestnut-bellied Malkoha",NT,U
-152,146,"pyrrhocephalus","Phaenicophaeus","Red-faced Malkoha",VU,U
-154,153,"curvirostris","Phaenicophaeus","Chestnut-breasted Malkoha",LC,U
-155,153,"viridirostris","Phaenicophaeus","Blue-faced Malkoha",LC,U
-157,156,"leschenaultii","Phaenicophaeus","Sirkeer Malkoha",LC,U
-158,156,"javanicus","Phaenicophaeus","Red-billed Malkoha",LC,U
-161,160,"superciliosus","Phaenicophaeus","Red-crested Malkoha",LC,U
-162,160,"cumingi","Phaenicophaeus","Scale-feathered Malkoha",LC,U
-163,159,"calyorhynchus","Phaenicophaeus","Yellow-billed Malkoha",LC,U
-167,166,"levaillantii","Clamator","Levaillant's Cuckoo",LC,U
-168,166,"jacobinus","Clamator","Pied Cuckoo",LC,U
-169,165,"glandarius","Clamator","Great Spotted Cuckoo",LC,U
-170,164,"coromandus","Clamator","Chestnut-winged Cuckoo",LC,U
-171,105,"aereus","Ceuthmochares","Yellowbill",LC,U
-172,104,"audeberti","Pachycoccyx","Thick-billed Cuckoo",LC,U
-173,1,"chlorophaeus","Phaenicophaeus","Raffles's Malkoha",LC,U
-186,185,"bernsteini","Centropus","Lesser Black Coucal",LC,U
-187,185,"phasianinus","Centropus","Pheasant Coucal",LC,U
-188,184,"violaceus","Centropus","Violaceous Coucal",NT,U
-189,183,"goliath","Centropus","Goliath Coucal",LC,U
-190,182,"toulou","Centropus","Madagascar Coucal",LC,U
-193,192,"viridis","Centropus","Philippine Coucal",LC,U
-194,192,"bengalensis","Centropus","Lesser Coucal",LC,U
-195,191,"grillii","Centropus","Black Coucal",LC,U
-198,197,"sinensis","Centropus","Greater Coucal",LC,U
-199,197,"nigrorufus","Centropus","Sunda Coucal",VU,U
-200,196,"andamanensis","Centropus","Brown Coucal",LC,U
-206,205,"cupreicaudus","Centropus","Coppery-tailed Coucal",LC,U
-207,205,"superciliosus","Centropus","White-browed Coucal",LC,U
-208,204,"monachus","Centropus","Blue-headed Coucal",LC,U
-209,203,"senegalensis","Centropus","Senegal Coucal",LC,U
-211,210,"leucogaster","Centropus","Black-throated Coucal",LC,U
-212,210,"anselli","Centropus","Gabon Coucal",LC,U
-213,201,"spilopterus","Centropus","Kai Coucal",LC,U
-214,178,"celebensis","Centropus","Bay Coucal",LC,U
-216,215,"chlororhynchus","Centropus","Green-billed Coucal",VU,U
-217,215,"unirufus","Centropus","Rufous Coucal",NT,U
-220,219,"rectunguis","Centropus","Short-toed Coucal",VU,U
-221,219,"steerii","Centropus","Black-hooded Coucal",CR,U
-222,218,"melanops","Centropus","Black-faced Coucal",LC,U
-226,225,"menbeki","Centropus","Greater Black Coucal",LC,U
-227,225,"chalybeus","Centropus","Biak Coucal",NT,U
-228,224,"ateralbus","Centropus","Pied Coucal",LC,U
-229,223,"milo","Centropus","Buff-headed Coucal",LC,U
-236,235,"coquereli","Coua","Coquerel's Coua",LC,U
-237,235,"cursor","Coua","Running Coua",LC,U
-238,234,"reynaudii","Coua","Red-fronted Coua",LC,U
-240,239,"serriana","Coua","Red-breasted Coua",LC,U
-241,239,"gigas","Coua","Giant Coua",LC,U
-242,232,"ruficeps","Coua","Red-capped Coua",LC,U
-245,244,"verreauxi","Coua","Verreaux's Coua",NT,U
-246,244,"cristata","Coua","Crested Coua",LC,U
-247,243,"caerulea","Coua","Blue Coua",LC,U
-250,249,"viridis","Carpococcyx","Sumatran Ground-cuckoo",CR,U
-251,249,"radiatus","Carpococcyx","Bornean Ground-cuckoo",NT,U
-252,248,"renauldi","Carpococcyx","Coral-billed Ground-cuckoo",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+19,18,"vagans","Cuculus","Moustached Hawk-cuckoo",NT,U,-12486656
+20,18,"saturatus","Cuculus","Himalayan Cuckoo",LC,U,-16731116
+21,17,"canorus","Cuculus","Common Cuckoo",LC,U,-16731116
+22,16,"gularis","Cuculus","African Cuckoo",LC,U,-16731116
+23,15,"rochii","Cuculus","Madagascar Cuckoo",LC,U,-16731116
+24,14,"micropterus","Cuculus","Indian Cuckoo",LC,U,-16731116
+25,13,"crassirostris","Cuculus","Sulawesi Hawk-cuckoo",LC,U,-16731116
+26,12,"solitarius","Cuculus","Red-chested Cuckoo",LC,U,-16731116
+27,11,"poliocephalus","Cuculus","Lesser Cuckoo",LC,U,-16731116
+28,10,"leucolophus","Caliechthrus","White-crowned Koel",LC,U,-16731116
+29,9,"clamosus","Cuculus","Black Cuckoo",LC,U,-16731116
+33,32,"sparverioides","Cuculus","Large Hawk-cuckoo",LC,U,-16731116
+34,32,"varius","Cuculus","Common Hawk-cuckoo",LC,U,-16731116
+35,31,"optatus","Cuculus","Oriental Cuckoo",LC,U,-16731116
+36,30,"fugax","Cuculus","Hodgson's Hawk-cuckoo",LC,U,-16731116
+40,39,"montanus","Cercococcyx","Barred Long-tailed Cuckoo",LC,U,-16731116
+41,39,"olivinus","Cercococcyx","Olive Long-tailed Cuckoo",LC,U,-16731116
+42,38,"mechowi","Cercococcyx","Dusky Long-tailed Cuckoo",LC,U,-16731116
+44,43,"velutinus","Surniculus","Philippine Drongo-Cuckoo",_U,[,-16777216
+45,43,"lugubris","Surniculus","Drongo Cuckoo",LC,U,-16731116
+52,51,"merulinus","Cacomantis","Plaintive Cuckoo",LC,U,-16731116
+53,51,"variolosus","Cacomantis","Brush Cuckoo",LC,U,-16731116
+54,50,"sepulcralis","Cacomantis","Rusty-breasted Cuckoo",LC,U,-16731116
+55,49,"heinrichi","Cacomantis","Moluccan Cuckoo",NT,U,-12486656
+58,57,"castaneiventris","Cacomantis","Chestnut-breasted Cuckoo",LC,U,-16731116
+59,57,"flabelliformis","Cacomantis","Fan-tailed Cuckoo",LC,U,-16731116
+60,56,"passerinus","Cacomantis","Grey-bellied Cuckoo",LC,U,-16731116
+61,47,"sonneratii","Cacomantis","Banded Bay Cuckoo",LC,U,-16731116
+63,62,"pallidus","Cuculus","Pallid Cuckoo",LC,U,-16731116
+64,62,"lepidus","Cuculus","Sunda Cuckoo",LC,U,-16731116
+73,72,"meyeri","Chrysococcyx","White-eared Bronze-cuckoo",LC,U,-16731116
+74,72,"minutillus","Chrysococcyx","Little Bronze-cuckoo",LC,U,-16731116
+76,75,"basalis","Chrysococcyx","Horsfield's Bronze-cuckoo",LC,U,-16731116
+77,75,"lucidus","Chrysococcyx","Shining Bronze-cuckoo",LC,U,-16731116
+78,70,"osculans","Chrysococcyx","Black-eared Cuckoo",LC,U,-16731116
+79,69,"russatus","Chrysococcyx","Gould's Bronze-cuckoo",LC,U,-16731116
+80,68,"ruficollis","Chrysococcyx","Rufous-throated Bronze-cuckoo",LC,U,-16731116
+81,67,"crassirostris","Chrysococcyx","Pied Bronze-cuckoo",LC,U,-16731116
+85,84,"flavigularis","Chrysococcyx","Yellow-throated Cuckoo",LC,U,-16731116
+86,84,"cupreus","Chrysococcyx","African Emerald Cuckoo",LC,U,-16731116
+88,87,"caprius","Chrysococcyx","Didric Cuckoo",LC,U,-16731116
+89,87,"klaas","Chrysococcyx","Klaas's Cuckoo",LC,U,-16731116
+91,90,"maculatus","Chrysococcyx","Asian Emerald Cuckoo",LC,U,-16731116
+92,90,"xanthorhynchus","Chrysococcyx","Violet Cuckoo",LC,U,-16731116
+93,65,"megarhynchus","Rhamphomantis","Long-billed Cuckoo",LC,U,-16731116
+94,4,"novaehollandiae","Scythrops","Channel-billed Cuckoo",LC,U,-16731116
+98,97,"melanorhynchus","Eudynamys","Black-billed Koel",LC,U,-16731116
+99,97,"parva","Microdynamis","Dwarf Koel",LC,U,-16731116
+100,96,"scolopaceus","Eudynamys","Asian Koel",LC,U,-16731116
+102,101,"taitensis","Eudynamys","Long-tailed Koel",LC,U,-16731116
+103,101,"orientalis","Eudynamys","Eastern Koel",LC,U,-16731116
+116,115,"longirostris","Coccyzus","Hispaniolan Lizard-cuckoo",LC,U,-16731116
+117,115,"vieilloti","Coccyzus","Puerto Rican Lizard-cuckoo",LC,U,-16731116
+118,114,"merlini","Coccyzus","Great Lizard-cuckoo",LC,U,-16731116
+119,113,"vetula","Coccyzus","Jamaican Lizard-cuckoo",LC,U,-16731116
+121,120,"pluvialis","Coccyzus","Chestnut-bellied Cuckoo",LC,U,-16731116
+122,120,"rufigularis","Coccyzus","Bay-breasted Cuckoo",EN,U,-8572416
+123,111,"lansbergi","Coccyzus","Grey-capped Cuckoo",LC,U,-16731116
+126,125,"ferrugineus","Coccyzus","Cocos Cuckoo",VU,U,-11184866
+127,125,"minor","Coccyzus","Mangrove Cuckoo",LC,U,-16731116
+128,124,"cayana","Piaya","Squirrel Cuckoo",LC,U,-16731116
+132,131,"americanus","Coccyzus","Yellow-billed Cuckoo",LC,U,-16731116
+133,131,"euleri","Coccyzus","Pearly-breasted Cuckoo",LC,U,-16731116
+134,130,"melacoryphus","Coccyzus","Dark-billed Cuckoo",LC,U,-16731116
+135,129,"erythropthalmus","Coccyzus","Black-billed Cuckoo",LC,U,-16731116
+136,108,"melanogaster","Piaya","Black-bellied Cuckoo",LC,U,-16731116
+139,138,"cinerea","Coccycua","Ash-coloured Cuckoo",LC,U,-16731116
+140,138,"pumila","Coccycua","Dwarf Cuckoo",LC,U,-16731116
+141,137,"minuta","Coccycua","Little Cuckoo",LC,U,-16731116
+149,148,"tristis","Phaenicophaeus","Green-billed Malkoha",LC,U,-16731116
+150,148,"diardi","Phaenicophaeus","Black-bellied Malkoha",NT,U,-12486656
+151,147,"sumatranus","Phaenicophaeus","Chestnut-bellied Malkoha",NT,U,-12486656
+152,146,"pyrrhocephalus","Phaenicophaeus","Red-faced Malkoha",VU,U,-11184866
+154,153,"curvirostris","Phaenicophaeus","Chestnut-breasted Malkoha",LC,U,-16731116
+155,153,"viridirostris","Phaenicophaeus","Blue-faced Malkoha",LC,U,-16731116
+157,156,"leschenaultii","Phaenicophaeus","Sirkeer Malkoha",LC,U,-16731116
+158,156,"javanicus","Phaenicophaeus","Red-billed Malkoha",LC,U,-16731116
+161,160,"superciliosus","Phaenicophaeus","Red-crested Malkoha",LC,U,-16731116
+162,160,"cumingi","Phaenicophaeus","Scale-feathered Malkoha",LC,U,-16731116
+163,159,"calyorhynchus","Phaenicophaeus","Yellow-billed Malkoha",LC,U,-16731116
+167,166,"levaillantii","Clamator","Levaillant's Cuckoo",LC,U,-16731116
+168,166,"jacobinus","Clamator","Pied Cuckoo",LC,U,-16731116
+169,165,"glandarius","Clamator","Great Spotted Cuckoo",LC,U,-16731116
+170,164,"coromandus","Clamator","Chestnut-winged Cuckoo",LC,U,-16731116
+171,105,"aereus","Ceuthmochares","Yellowbill",LC,U,-16731116
+172,104,"audeberti","Pachycoccyx","Thick-billed Cuckoo",LC,U,-16731116
+173,1,"chlorophaeus","Phaenicophaeus","Raffles's Malkoha",LC,U,-16731116
+186,185,"bernsteini","Centropus","Lesser Black Coucal",LC,U,-16731116
+187,185,"phasianinus","Centropus","Pheasant Coucal",LC,U,-16731116
+188,184,"violaceus","Centropus","Violaceous Coucal",NT,U,-12486656
+189,183,"goliath","Centropus","Goliath Coucal",LC,U,-16731116
+190,182,"toulou","Centropus","Madagascar Coucal",LC,U,-16731116
+193,192,"viridis","Centropus","Philippine Coucal",LC,U,-16731116
+194,192,"bengalensis","Centropus","Lesser Coucal",LC,U,-16731116
+195,191,"grillii","Centropus","Black Coucal",LC,U,-16731116
+198,197,"sinensis","Centropus","Greater Coucal",LC,U,-16731116
+199,197,"nigrorufus","Centropus","Sunda Coucal",VU,U,-11184866
+200,196,"andamanensis","Centropus","Brown Coucal",LC,U,-16731116
+206,205,"cupreicaudus","Centropus","Coppery-tailed Coucal",LC,U,-16731116
+207,205,"superciliosus","Centropus","White-browed Coucal",LC,U,-16731116
+208,204,"monachus","Centropus","Blue-headed Coucal",LC,U,-16731116
+209,203,"senegalensis","Centropus","Senegal Coucal",LC,U,-16731116
+211,210,"leucogaster","Centropus","Black-throated Coucal",LC,U,-16731116
+212,210,"anselli","Centropus","Gabon Coucal",LC,U,-16731116
+213,201,"spilopterus","Centropus","Kai Coucal",LC,U,-16731116
+214,178,"celebensis","Centropus","Bay Coucal",LC,U,-16731116
+216,215,"chlororhynchus","Centropus","Green-billed Coucal",VU,U,-11184866
+217,215,"unirufus","Centropus","Rufous Coucal",NT,U,-12486656
+220,219,"rectunguis","Centropus","Short-toed Coucal",VU,U,-11184866
+221,219,"steerii","Centropus","Black-hooded Coucal",CR,U,-3014646
+222,218,"melanops","Centropus","Black-faced Coucal",LC,U,-16731116
+226,225,"menbeki","Centropus","Greater Black Coucal",LC,U,-16731116
+227,225,"chalybeus","Centropus","Biak Coucal",NT,U,-12486656
+228,224,"ateralbus","Centropus","Pied Coucal",LC,U,-16731116
+229,223,"milo","Centropus","Buff-headed Coucal",LC,U,-16731116
+236,235,"coquereli","Coua","Coquerel's Coua",LC,U,-16731116
+237,235,"cursor","Coua","Running Coua",LC,U,-16731116
+238,234,"reynaudii","Coua","Red-fronted Coua",LC,U,-16731116
+240,239,"serriana","Coua","Red-breasted Coua",LC,U,-16731116
+241,239,"gigas","Coua","Giant Coua",LC,U,-16731116
+242,232,"ruficeps","Coua","Red-capped Coua",LC,U,-16731116
+245,244,"verreauxi","Coua","Verreaux's Coua",NT,U,-12486656
+246,244,"cristata","Coua","Crested Coua",LC,U,-16731116
+247,243,"caerulea","Coua","Blue Coua",LC,U,-16731116
+250,249,"viridis","Carpococcyx","Sumatran Ground-cuckoo",CR,U,-3014646
+251,249,"radiatus","Carpococcyx","Bornean Ground-cuckoo",NT,U,-12486656
+252,248,"renauldi","Carpococcyx","Coral-billed Ground-cuckoo",LC,U,-16731116

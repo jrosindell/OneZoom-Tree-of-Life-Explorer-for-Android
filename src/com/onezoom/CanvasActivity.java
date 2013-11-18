@@ -3,7 +3,6 @@ package com.onezoom;
 import java.util.TreeMap;
 
 import com.onezoom.midnode.MidNode;
-import com.onezoom.midnode.MidNodeOneChunk;
 import com.onezoom.midnode.PositionData;
 
 import android.app.Activity;
@@ -22,7 +21,6 @@ public class CanvasActivity extends Activity{
 	public static String selectedItem;
 	private String selectedString;
 	private MidNode fulltree;
-	private MidNodeOneChunk rootChunk;
 	private boolean started = false;
 	private MemoryThread memoryThread;
 	private GrowthThread growthThread;
@@ -77,32 +75,15 @@ public class CanvasActivity extends Activity{
 	public MidNode getTreeRoot() {
 		return fulltree;
 	}
+
 	
-//	public void initialization() {
-//		fulltree = MidNode.createNode(null, selectedString, false, 0);
-//		fulltree.init();
-//		MidNode.setScreenSize(0, 0, 800, 1200);
-//		fulltree.recalculate(200, 900, 1f);
-//		treeView.setTreeBeingInitialized(true);	
-//	}
-	
-	public MidNodeOneChunk getRootChunk() {
-		return rootChunk;
-	}
 
 	public void initialization() {
-//		fulltree = MidNode.createNode(null, selectedString, false, 0);
-//		fulltree.init();
 		MidNode.setContext(this);
 		MidNode.setScreenSize(0, 0, 800, 1200);
-//		rootChunk = MidNodeOneChunk.createTree(this, groupIndexMap.get(selectedItem));
-//		rootChunk.preCalculateWholeTree();
-//		rootChunk.recalculate(200, 900, 1f);
-//		rootChunk.init();
-//		fulltree = rootChunk.getroot();
-		fulltree = MidNode.createNode("40");
-		Log.d("debug", selectedItem);
 		PositionData.setScreenPosition(200, 900, 1f);
+		fulltree = MidNode.createNode(groupIndexMap.get(selectedItem));
+		Log.d("debug", selectedItem);
 		fulltree.recalculate();
 		fulltree.init();
 		fulltree.outputInitElement();

@@ -1,102 +1,102 @@
-index,parent,name1,name2,common,redlist,popstab
-6,5,"nikolausi","Megadendromus","Nikolaus's Mouse",DD,U
-7,5,"batesi","Prionomys","Dollman's Tree Mouse",DD,U
-17,16,"peruviensis","Neusticomys","Peruvian Fish-eating Rat",LC,S
-18,16,"oyapocki","Neusticomys","Oyapock's Fish-eating Rat",DD,D
-19,15,"mussoi","Neusticomys","Musso's Fish-eating Rat",EN,D
-21,20,"venezuelae","Neusticomys","Venezuelan Fish-eating Rat",VU,D
-22,20,"monticolus","Neusticomys","Montane Fish-eating Rat",LC,D
-26,25,"underwoodi","Rheomys","Underwood's Water Mouse",LC,S
-27,25,"thomasi","Rheomys","Thomas's Water Mouse",NT,U
-28,24,"mexicanus","Rheomys","Mexican Water Mouse",EN,U
-29,23,"raptor","Rheomys","Goldman's Water Mouse",LC,S
-35,34,"pittieri","Ichthyomys","Pittier's Crab-eating Rat",VU,D
-36,34,"hydrobates","Ichthyomys","Crab-eating Rat",NT,D
-37,33,"tweedii","Ichthyomys","Tweedy's Crab-eating Rat",DD,U
-38,32,"stolzmanni","Ichthyomys","Stolzmann's Crab-eating Rat",DD,U
-39,31,"leander","Anotomys","Aquatic Rat",VU,D
-40,30,"trichotis","Chibchanomys","Chibchan Water Mouse",DD,U
-48,47,"hirsutus","Sigmodon","Southern Cotton Rat",LC,I
-49,47,"hispidus","Sigmodon","Hispid Cotton Rat",LC,I
-51,50,"toltecus","Sigmodon","Toltec Cotton Rat",LC,U
-52,50,"zanjonensis","Sigmodon","",NE,U
-53,45,"fulviventer","Sigmodon","Tawny-bellied Cotton Rat",LC,S
-54,44,"arizonae","Sigmodon","Arizona Cotton Rat",LC,U
-57,56,"ochrognathus","Sigmodon","Yellow-nosed Cotton Rat",LC,U
-58,56,"alstoni","Sigmodon","Alston's Cotton Rat",LC,U
-59,55,"inopinatus","Sigmodon","Unexpected Cotton Rat",VU,D
-62,61,"mascotensis","Sigmodon","Jaliscan Cotton Rat",LC,S
-63,61,"peruanus","Sigmodon","Peruvian Cotton Rat",LC,S
-65,64,"planifrons","Sigmodon","Miahuatlan Cotton Rat",EN,D
-66,64,"alleni","Sigmodon","Allen's Cotton Rat",VU,D
-67,41,"leucotis","Sigmodon","White-eared Cotton Rat",LC,U
-74,73,"fulviventer","Tylomys","Fulvous-bellied Climbing Rat",DD,U
-75,73,"tumbalensis","Tylomys","Tumbala Climbing Rat",CR,D
-76,72,"watsoni","Tylomys","Watson's Climbing Rat",LC,S
-78,77,"bullaris","Tylomys","Chiapan Climbing Rat",CR,D
-79,77,"mirae","Tylomys","Mira Climbing Rat",LC,U
-81,80,"nudicaudus","Tylomys","Peter's Climbing Rat",LC,S
-82,80,"panamensis","Tylomys","Panama Climbing Rat",DD,U
-83,69,"phyllotis","Ototylomys","Big-eared Climbing Rat",LC,S
-85,84,"hatti","Otonyctomys","Hatt's Vesper Mouse",LC,U
-86,84,"sumichrasti","Nyctomys","Vesper Rat",LC,S
-99,98,"betulina","Sicista","Northern Birch Mouse",LC,U
-100,98,"armenica","Sicista","Armenian Birch Mouse",EN,D
-101,97,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U
-103,102,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U
-104,102,"napaea","Sicista","Altai Birch Mouse",LC,U
-106,105,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U
-107,105,"concolor","Sicista","Chinese Birch Mouse",LC,U
-111,110,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S
-112,110,"subtilis","Sicista","Southern Birch Mouse",LC,D
-113,109,"caudata","Sicista","Long-tailed Birch Mouse",DD,U
-116,115,"strandi","Sicista","Strand's Birch Mouse",LC,S
-117,115,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U
-118,114,"caucasica","Sicista","Caucasian Birch Mouse",VU,U
-122,121,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U
-123,121,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S
-124,120,"princeps","Zapus","Pacific Jumping Mouse",LC,S
-126,125,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S
-127,125,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U
-134,133,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U
-135,133,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U
-136,132,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U
-137,131,"thomasi","Salpingotus","",NE,U
-139,138,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U
-140,138,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U
-141,129,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U
-142,128,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U
-143,91,"naso","Euchoreutes","Long-eared Jerboa",LC,U
-148,147,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D
-149,147,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D
-150,146,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U
-151,145,"sagitta","Dipus","Hairy-footed Jerboa",LC,S
-155,154,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S
-156,154,"blanfordi","Jaculus","Blanford's Jerboa",LC,D
-157,153,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U
-158,152,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U
-161,160,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U
-162,160,"shitkovi","Pygeretmus","",NE,U
-163,159,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U
-164,88,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U
-171,170,"hotsoni","Allactaga","Hotson's Five-toed Jerboa",LC,U
-172,170,"balikunica","Allactaga","Balikun Jerboa",LC,U
-173,169,"elater","Allactaga","Small Five-toed Jerboa",LC,D
-174,168,"vinogradovi","Allactaga","Vinogradov's Jerboa",NT,D
-177,176,"severtzovi","Allactaga","Svertzov's Jerboa",LC,U
-178,176,"firouzi","Allactaga","Iranian Jerboa",DD,U
-179,175,"bullata","Allactaga","Gobi Jerboa",LC,U
-182,181,"euphratica","Allactaga","Euphrates Jerboa",NT,D
-183,181,"williamsi","Allactaga","",LC,D
-184,180,"sibirica","Allactaga","Siberian Jerboa",LC,U
-186,185,"tetradactyla","Allactaga","Four-toed Jerboa",VU,U
-187,185,"major","Allactaga","Great Jerboa",LC,D
-192,191,"pusillus","Anomalurus","Dwarf Scaly-tailed Squirrel",LC,U
-193,191,"derbianus","Anomalurus","Derby's Flying Squirrel",LC,U
-195,194,"beecrofti","Anomalurus","Beecroft's Flying Squirrel",LC,U
-196,194,"pelii","Anomalurus","Pel's Flying Squirrel",DD,U
-199,198,"zenkeri","Idiurus","Pygmy Scaly-tailed Flying Squirrel",LC,U
-200,198,"macrotis","Idiurus","Long-eared Flying Squirrel",LC,U
-201,197,"insignis","Zenkerella","Cameroon Scaly-tail",LC,U
-203,202,"surdaster","Pedetes","East African Spring-hare",LC,U
-204,202,"capensis","Pedetes","Springhaas",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+6,5,"nikolausi","Megadendromus","Nikolaus's Mouse",DD,U,-11513776
+7,5,"batesi","Prionomys","Dollman's Tree Mouse",DD,U,-11513776
+17,16,"peruviensis","Neusticomys","Peruvian Fish-eating Rat",LC,S,-16731116
+18,16,"oyapocki","Neusticomys","Oyapock's Fish-eating Rat",DD,D,-11513776
+19,15,"mussoi","Neusticomys","Musso's Fish-eating Rat",EN,D,-8572416
+21,20,"venezuelae","Neusticomys","Venezuelan Fish-eating Rat",VU,D,-11184866
+22,20,"monticolus","Neusticomys","Montane Fish-eating Rat",LC,D,-16731116
+26,25,"underwoodi","Rheomys","Underwood's Water Mouse",LC,S,-16731116
+27,25,"thomasi","Rheomys","Thomas's Water Mouse",NT,U,-12486656
+28,24,"mexicanus","Rheomys","Mexican Water Mouse",EN,U,-8572416
+29,23,"raptor","Rheomys","Goldman's Water Mouse",LC,S,-16731116
+35,34,"pittieri","Ichthyomys","Pittier's Crab-eating Rat",VU,D,-11184866
+36,34,"hydrobates","Ichthyomys","Crab-eating Rat",NT,D,-12486656
+37,33,"tweedii","Ichthyomys","Tweedy's Crab-eating Rat",DD,U,-11513776
+38,32,"stolzmanni","Ichthyomys","Stolzmann's Crab-eating Rat",DD,U,-11513776
+39,31,"leander","Anotomys","Aquatic Rat",VU,D,-11184866
+40,30,"trichotis","Chibchanomys","Chibchan Water Mouse",DD,U,-11513776
+48,47,"hirsutus","Sigmodon","Southern Cotton Rat",LC,I,-16731116
+49,47,"hispidus","Sigmodon","Hispid Cotton Rat",LC,I,-16731116
+51,50,"toltecus","Sigmodon","Toltec Cotton Rat",LC,U,-16731116
+52,50,"zanjonensis","Sigmodon","",NE,U,-16777216
+53,45,"fulviventer","Sigmodon","Tawny-bellied Cotton Rat",LC,S,-16731116
+54,44,"arizonae","Sigmodon","Arizona Cotton Rat",LC,U,-16731116
+57,56,"ochrognathus","Sigmodon","Yellow-nosed Cotton Rat",LC,U,-16731116
+58,56,"alstoni","Sigmodon","Alston's Cotton Rat",LC,U,-16731116
+59,55,"inopinatus","Sigmodon","Unexpected Cotton Rat",VU,D,-11184866
+62,61,"mascotensis","Sigmodon","Jaliscan Cotton Rat",LC,S,-16731116
+63,61,"peruanus","Sigmodon","Peruvian Cotton Rat",LC,S,-16731116
+65,64,"planifrons","Sigmodon","Miahuatlan Cotton Rat",EN,D,-8572416
+66,64,"alleni","Sigmodon","Allen's Cotton Rat",VU,D,-11184866
+67,41,"leucotis","Sigmodon","White-eared Cotton Rat",LC,U,-16731116
+74,73,"fulviventer","Tylomys","Fulvous-bellied Climbing Rat",DD,U,-11513776
+75,73,"tumbalensis","Tylomys","Tumbala Climbing Rat",CR,D,-3014646
+76,72,"watsoni","Tylomys","Watson's Climbing Rat",LC,S,-16731116
+78,77,"bullaris","Tylomys","Chiapan Climbing Rat",CR,D,-3014646
+79,77,"mirae","Tylomys","Mira Climbing Rat",LC,U,-16731116
+81,80,"nudicaudus","Tylomys","Peter's Climbing Rat",LC,S,-16731116
+82,80,"panamensis","Tylomys","Panama Climbing Rat",DD,U,-11513776
+83,69,"phyllotis","Ototylomys","Big-eared Climbing Rat",LC,S,-16731116
+85,84,"hatti","Otonyctomys","Hatt's Vesper Mouse",LC,U,-16731116
+86,84,"sumichrasti","Nyctomys","Vesper Rat",LC,S,-16731116
+99,98,"betulina","Sicista","Northern Birch Mouse",LC,U,-16731116
+100,98,"armenica","Sicista","Armenian Birch Mouse",EN,D,-8572416
+101,97,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U,-16731116
+103,102,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U,-12486656
+104,102,"napaea","Sicista","Altai Birch Mouse",LC,U,-16731116
+106,105,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U,-11513776
+107,105,"concolor","Sicista","Chinese Birch Mouse",LC,U,-16731116
+111,110,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S,-16731116
+112,110,"subtilis","Sicista","Southern Birch Mouse",LC,D,-16731116
+113,109,"caudata","Sicista","Long-tailed Birch Mouse",DD,U,-11513776
+116,115,"strandi","Sicista","Strand's Birch Mouse",LC,S,-16731116
+117,115,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U,-8572416
+118,114,"caucasica","Sicista","Caucasian Birch Mouse",VU,U,-11184866
+122,121,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U,-16731116
+123,121,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S,-16731116
+124,120,"princeps","Zapus","Pacific Jumping Mouse",LC,S,-16731116
+126,125,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S,-16731116
+127,125,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U,-16731116
+134,133,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U,-11513776
+135,133,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U,-11513776
+136,132,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U,-11513776
+137,131,"thomasi","Salpingotus","",NE,U,-16777216
+139,138,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U,-11513776
+140,138,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U,-16731116
+141,129,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U,-11513776
+142,128,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U,-16731116
+143,91,"naso","Euchoreutes","Long-eared Jerboa",LC,U,-16731116
+148,147,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D,-16731116
+149,147,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D,-16731116
+150,146,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U,-16731116
+151,145,"sagitta","Dipus","Hairy-footed Jerboa",LC,S,-16731116
+155,154,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S,-16731116
+156,154,"blanfordi","Jaculus","Blanford's Jerboa",LC,D,-16731116
+157,153,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U,-16731116
+158,152,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U,-16731116
+161,160,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U,-16731116
+162,160,"shitkovi","Pygeretmus","",NE,U,-16777216
+163,159,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U,-16731116
+164,88,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U,-16731116
+171,170,"hotsoni","Allactaga","Hotson's Five-toed Jerboa",LC,U,-16731116
+172,170,"balikunica","Allactaga","Balikun Jerboa",LC,U,-16731116
+173,169,"elater","Allactaga","Small Five-toed Jerboa",LC,D,-16731116
+174,168,"vinogradovi","Allactaga","Vinogradov's Jerboa",NT,D,-12486656
+177,176,"severtzovi","Allactaga","Svertzov's Jerboa",LC,U,-16731116
+178,176,"firouzi","Allactaga","Iranian Jerboa",DD,U,-11513776
+179,175,"bullata","Allactaga","Gobi Jerboa",LC,U,-16731116
+182,181,"euphratica","Allactaga","Euphrates Jerboa",NT,D,-12486656
+183,181,"williamsi","Allactaga","",LC,D,-16731116
+184,180,"sibirica","Allactaga","Siberian Jerboa",LC,U,-16731116
+186,185,"tetradactyla","Allactaga","Four-toed Jerboa",VU,U,-11184866
+187,185,"major","Allactaga","Great Jerboa",LC,D,-16731116
+192,191,"pusillus","Anomalurus","Dwarf Scaly-tailed Squirrel",LC,U,-16731116
+193,191,"derbianus","Anomalurus","Derby's Flying Squirrel",LC,U,-16731116
+195,194,"beecrofti","Anomalurus","Beecroft's Flying Squirrel",LC,U,-16731116
+196,194,"pelii","Anomalurus","Pel's Flying Squirrel",DD,U,-11513776
+199,198,"zenkeri","Idiurus","Pygmy Scaly-tailed Flying Squirrel",LC,U,-16731116
+200,198,"macrotis","Idiurus","Long-eared Flying Squirrel",LC,U,-16731116
+201,197,"insignis","Zenkerella","Cameroon Scaly-tail",LC,U,-16731116
+203,202,"surdaster","Pedetes","East African Spring-hare",LC,U,-16731116
+204,202,"capensis","Pedetes","Springhaas",LC,U,-16731116

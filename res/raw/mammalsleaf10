@@ -1,102 +1,102 @@
-index,parent,name1,name2,common,redlist,popstab
-14,13,"dominicensis","Myotis","Dominican Myotis",VU,U
-15,13,"elegans","Myotis","Elegant Myotis",LC,U
-16,12,"findleyi","Myotis","Findley's Myotis",EN,D
-18,17,"martiniquensis","Myotis","Schwartz's Myotis",VU,U
-19,17,"nesopolus","Myotis","Curacao Myotis",LC,U
-22,21,"keaysi","Myotis","Hairy-legged Myotis",LC,U
-23,21,"nigricans","Myotis","Black Myotis",LC,S
-25,24,"atacamensis","Myotis","Atacama Myotis",NT,U
-26,24,"sodalis","Myotis","Indiana Bat",EN,D
-28,27,"oreias","Myotis","Singaporese Whiskered Myotis",DD,U
-29,27,"altarium","Myotis","Szechwan Myotis",LC,U
-37,36,"hajastanicus","Myotis","Armenian Myotis",CR,U
-38,36,"mystacinus","Myotis","Whiskered Myotis",LC,U
-39,35,"nipalensis","Myotis","Nepal Myotis",LC,U
-40,34,"davidii","Myotis","David's Myotis",LC,U
-41,33,"brandtii","Myotis","Brandt's Myotis",LC,S
-42,32,"insularum","Myotis","Insular Myotis",DD,U
-44,43,"bucharensis","Myotis","Bokhara Whiskered Bat",DD,U
-45,43,"frater","Myotis","Fraternal Myotis",DD,U
-46,30,"siligorensis","Myotis","Himalayan Whiskered Bat",LC,U
-54,53,"muricola","Myotis","Nepalese Whiskered Bat",LC,S
-55,53,"ater","Myotis","Peters's Myotis",LC,S
-56,52,"rosseti","Myotis","Thick-thumbed Myotis",LC,U
-58,57,"annectans","Myotis","Hairy-faced Bat",LC,U
-59,57,"ridleyi","Myotis","Ridley's Myotis",NT,D
-60,50,"australis","Myotis","Australian Myotis",DD,U
-63,62,"ikonnikovi","Myotis","Ikonnikov's Bat",LC,U
-64,62,"ozensis","Myotis","",NE,U
-66,65,"yesoensis","Myotis","",NE,U
-67,65,"hosonoi","Myotis","",NE,U
-68,48,"scotti","Myotis","Scott's Mouse-eared Bat",VU,D
-73,72,"melanorhinus","Myotis","Dark-nosed Small-footed Myotis",LC,S
-74,72,"ciliolabrum","Myotis","Western Small-footed Myotis",LC,S
-75,71,"leibii","Myotis","Eastern Small-footed Myotis",LC,S
-76,70,"californicus","Myotis","California Myotis",LC,U
-77,69,"planiceps","Myotis","Flat-headed Myotis",EN,D
-83,82,"lucifugus","Myotis","Little Brown Bat",LC,S
-84,82,"occultus","Myotis","Arizona Myotis",LC,S
-85,81,"velifer","Myotis","Cave Myotis",LC,S
-86,80,"aelleni","Myotis","Southern Myotis",DD,U
-87,79,"fortidens","Myotis","Cinnamon Myotis",LC,U
-89,88,"volans","Myotis","Long-legged Myotis",LC,S
-90,88,"chiloensis","Myotis","Chilean Myotis",LC,U
-96,95,"fimbriatus","Myotis","Fringed Long-footed Myotis",LC,U
-97,95,"macrodactylus","Myotis","Big-footed Myotis",LC,U
-98,94,"longipes","Myotis","Kashmir Cave Bat",DD,U
-101,100,"daubentonii","Myotis","Daubenton's Myotis",LC,I
-102,100,"laniger","Myotis","Chinese Water Myotis",LC,U
-103,99,"pruinosus","Myotis","Frosted Myotis",EN,D
-104,92,"capaccinii","Myotis","Long-fingered Bat",VU,D
-105,91,"oxyotus","Myotis","Montane Myotis",LC,U
-106,4,"peninsularis","Myotis","Peninsular Myotis",EN,D
-109,108,"lesueuri","Cistugo","Lesueur's Hairy Bat",LC,D
-110,108,"seabrae","Cistugo","Angolan Hairy Bat",LC,U
-111,107,"levis","Myotis","Yellowish Myotis",LC,U
-115,114,"macrotarsus","Myotis","Pallid Large-footed Myotis",NT,D
-116,114,"stalkeri","Myotis","Stalker's Myotis",DD,U
-117,113,"vivesi","Myotis","Fish-eating Bat",VU,D
-118,112,"abei","Myotis","",NE,U
-120,119,"aenobarbus","Nycticeius","Temminck's Mysterious Bat",DD,U
-121,119,"albescens","Myotis","Silver-tipped Myotis",LC,S
-132,131,"blythii","Myotis","LESSER MOUSE-EARED MYOTIS",LC,D
-133,131,"punicus","Myotis","Felten's Myotis",NT,D
-134,130,"oxygnathus","Myotis","",NE,U
-135,129,"sicarius","Myotis","Mandelli's Mouse-eared Myotis",VU,U
-136,128,"chinensis","Myotis","Large Myotis",LC,U
-137,127,"myotis","Myotis","Greater Mouse-eared Bat",LC,S
-141,140,"bombinus","Myotis","Far Eastern Myotis",NT,D
-142,140,"nattereri","Myotis","Natterer's Bat",LC,S
-144,143,"thysanodes","Myotis","Fringed Myotis",LC,S
-145,143,"schaubi","Myotis","Schaub's Myotis",DD,U
-146,138,"pequinius","Myotis","Peking Myotis",LC,U
-151,150,"goudoti","Myotis","Malagasy Mouse-eared Bat",LC,U
-152,150,"anjouanensis","Myotis","Anjouan Myotis",DD,U
-153,149,"morrisi","Myotis","Morris's Bat",DD,U
-154,148,"tricolor","Myotis","Cape Hairy Bat",LC,U
-155,147,"emarginatus","Myotis","Geoffroy's Bat",LC,S
-161,160,"septentrionalis","Myotis","Northern Myotis",LC,S
-162,160,"keenii","Myotis","Keen's Myotis",LC,S
-163,159,"evotis","Myotis","Long-eared Myotis",LC,S
-164,158,"auriculus","Myotis","Southwestern Myotis",LC,U
-165,157,"bechsteinii","Myotis","BECHSTEIN'S MYOTIS",NT,D
-168,167,"hermani","Myotis","Herman's Myotis",DD,U
-169,167,"formosus","Myotis","Hodgson's Bat",LC,U
-170,166,"welwitschii","Myotis","Welwitch's Bat",LC,U
-173,172,"cobanensis","Myotis","Guatemalan Myotis",DD,U
-174,172,"yumanensis","Myotis","Yuma Myotis",LC,S
-175,171,"austroriparius","Myotis","Southeastern Myotis",LC,S
-183,182,"adversus","Myotis","Large-footed Myotis",LC,U
-184,182,"moluccarum","Myotis","Maluku Myotis",LC,U
-185,181,"macropus","Myotis","Large-footed Myotis",LC,U
-186,180,"bocagii","Myotis","Rufous Mouse-eared Bat",LC,U
-188,187,"hasseltii","Myotis","Lesser Large-footed Myotis",LC,U
-189,187,"horsfieldii","Myotis","Horsfield's Myotis",LC,S
-192,191,"simus","Myotis","Velvety Myotis",DD,U
-193,191,"ruber","Myotis","Red Myotis",NT,U
-194,190,"riparius","Myotis","Riparian Myotis",LC,S
-197,196,"grisescens","Myotis","Gray Myotis",NT,I
-198,196,"ricketti","Myotis","",NE,U
-199,195,"dasycneme","Myotis","POND MYOTIS",NT,D
-200,176,"montivagus","Myotis","Burmese Whiskered Myotis",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"dominicensis","Myotis","Dominican Myotis",VU,U,-11184866
+15,13,"elegans","Myotis","Elegant Myotis",LC,U,-16731116
+16,12,"findleyi","Myotis","Findley's Myotis",EN,D,-8572416
+18,17,"martiniquensis","Myotis","Schwartz's Myotis",VU,U,-11184866
+19,17,"nesopolus","Myotis","Curacao Myotis",LC,U,-16731116
+22,21,"keaysi","Myotis","Hairy-legged Myotis",LC,U,-16731116
+23,21,"nigricans","Myotis","Black Myotis",LC,S,-16731116
+25,24,"atacamensis","Myotis","Atacama Myotis",NT,U,-12486656
+26,24,"sodalis","Myotis","Indiana Bat",EN,D,-8572416
+28,27,"oreias","Myotis","Singaporese Whiskered Myotis",DD,U,-11513776
+29,27,"altarium","Myotis","Szechwan Myotis",LC,U,-16731116
+37,36,"hajastanicus","Myotis","Armenian Myotis",CR,U,-3014646
+38,36,"mystacinus","Myotis","Whiskered Myotis",LC,U,-16731116
+39,35,"nipalensis","Myotis","Nepal Myotis",LC,U,-16731116
+40,34,"davidii","Myotis","David's Myotis",LC,U,-16731116
+41,33,"brandtii","Myotis","Brandt's Myotis",LC,S,-16731116
+42,32,"insularum","Myotis","Insular Myotis",DD,U,-11513776
+44,43,"bucharensis","Myotis","Bokhara Whiskered Bat",DD,U,-11513776
+45,43,"frater","Myotis","Fraternal Myotis",DD,U,-11513776
+46,30,"siligorensis","Myotis","Himalayan Whiskered Bat",LC,U,-16731116
+54,53,"muricola","Myotis","Nepalese Whiskered Bat",LC,S,-16731116
+55,53,"ater","Myotis","Peters's Myotis",LC,S,-16731116
+56,52,"rosseti","Myotis","Thick-thumbed Myotis",LC,U,-16731116
+58,57,"annectans","Myotis","Hairy-faced Bat",LC,U,-16731116
+59,57,"ridleyi","Myotis","Ridley's Myotis",NT,D,-12486656
+60,50,"australis","Myotis","Australian Myotis",DD,U,-11513776
+63,62,"ikonnikovi","Myotis","Ikonnikov's Bat",LC,U,-16731116
+64,62,"ozensis","Myotis","",NE,U,-16777216
+66,65,"yesoensis","Myotis","",NE,U,-16777216
+67,65,"hosonoi","Myotis","",NE,U,-16777216
+68,48,"scotti","Myotis","Scott's Mouse-eared Bat",VU,D,-11184866
+73,72,"melanorhinus","Myotis","Dark-nosed Small-footed Myotis",LC,S,-16731116
+74,72,"ciliolabrum","Myotis","Western Small-footed Myotis",LC,S,-16731116
+75,71,"leibii","Myotis","Eastern Small-footed Myotis",LC,S,-16731116
+76,70,"californicus","Myotis","California Myotis",LC,U,-16731116
+77,69,"planiceps","Myotis","Flat-headed Myotis",EN,D,-8572416
+83,82,"lucifugus","Myotis","Little Brown Bat",LC,S,-16731116
+84,82,"occultus","Myotis","Arizona Myotis",LC,S,-16731116
+85,81,"velifer","Myotis","Cave Myotis",LC,S,-16731116
+86,80,"aelleni","Myotis","Southern Myotis",DD,U,-11513776
+87,79,"fortidens","Myotis","Cinnamon Myotis",LC,U,-16731116
+89,88,"volans","Myotis","Long-legged Myotis",LC,S,-16731116
+90,88,"chiloensis","Myotis","Chilean Myotis",LC,U,-16731116
+96,95,"fimbriatus","Myotis","Fringed Long-footed Myotis",LC,U,-16731116
+97,95,"macrodactylus","Myotis","Big-footed Myotis",LC,U,-16731116
+98,94,"longipes","Myotis","Kashmir Cave Bat",DD,U,-11513776
+101,100,"daubentonii","Myotis","Daubenton's Myotis",LC,I,-16731116
+102,100,"laniger","Myotis","Chinese Water Myotis",LC,U,-16731116
+103,99,"pruinosus","Myotis","Frosted Myotis",EN,D,-8572416
+104,92,"capaccinii","Myotis","Long-fingered Bat",VU,D,-11184866
+105,91,"oxyotus","Myotis","Montane Myotis",LC,U,-16731116
+106,4,"peninsularis","Myotis","Peninsular Myotis",EN,D,-8572416
+109,108,"lesueuri","Cistugo","Lesueur's Hairy Bat",LC,D,-16731116
+110,108,"seabrae","Cistugo","Angolan Hairy Bat",LC,U,-16731116
+111,107,"levis","Myotis","Yellowish Myotis",LC,U,-16731116
+115,114,"macrotarsus","Myotis","Pallid Large-footed Myotis",NT,D,-12486656
+116,114,"stalkeri","Myotis","Stalker's Myotis",DD,U,-11513776
+117,113,"vivesi","Myotis","Fish-eating Bat",VU,D,-11184866
+118,112,"abei","Myotis","",NE,U,-16777216
+120,119,"aenobarbus","Nycticeius","Temminck's Mysterious Bat",DD,U,-11513776
+121,119,"albescens","Myotis","Silver-tipped Myotis",LC,S,-16731116
+132,131,"blythii","Myotis","LESSER MOUSE-EARED MYOTIS",LC,D,-16731116
+133,131,"punicus","Myotis","Felten's Myotis",NT,D,-12486656
+134,130,"oxygnathus","Myotis","",NE,U,-16777216
+135,129,"sicarius","Myotis","Mandelli's Mouse-eared Myotis",VU,U,-11184866
+136,128,"chinensis","Myotis","Large Myotis",LC,U,-16731116
+137,127,"myotis","Myotis","Greater Mouse-eared Bat",LC,S,-16731116
+141,140,"bombinus","Myotis","Far Eastern Myotis",NT,D,-12486656
+142,140,"nattereri","Myotis","Natterer's Bat",LC,S,-16731116
+144,143,"thysanodes","Myotis","Fringed Myotis",LC,S,-16731116
+145,143,"schaubi","Myotis","Schaub's Myotis",DD,U,-11513776
+146,138,"pequinius","Myotis","Peking Myotis",LC,U,-16731116
+151,150,"goudoti","Myotis","Malagasy Mouse-eared Bat",LC,U,-16731116
+152,150,"anjouanensis","Myotis","Anjouan Myotis",DD,U,-11513776
+153,149,"morrisi","Myotis","Morris's Bat",DD,U,-11513776
+154,148,"tricolor","Myotis","Cape Hairy Bat",LC,U,-16731116
+155,147,"emarginatus","Myotis","Geoffroy's Bat",LC,S,-16731116
+161,160,"septentrionalis","Myotis","Northern Myotis",LC,S,-16731116
+162,160,"keenii","Myotis","Keen's Myotis",LC,S,-16731116
+163,159,"evotis","Myotis","Long-eared Myotis",LC,S,-16731116
+164,158,"auriculus","Myotis","Southwestern Myotis",LC,U,-16731116
+165,157,"bechsteinii","Myotis","BECHSTEIN'S MYOTIS",NT,D,-12486656
+168,167,"hermani","Myotis","Herman's Myotis",DD,U,-11513776
+169,167,"formosus","Myotis","Hodgson's Bat",LC,U,-16731116
+170,166,"welwitschii","Myotis","Welwitch's Bat",LC,U,-16731116
+173,172,"cobanensis","Myotis","Guatemalan Myotis",DD,U,-11513776
+174,172,"yumanensis","Myotis","Yuma Myotis",LC,S,-16731116
+175,171,"austroriparius","Myotis","Southeastern Myotis",LC,S,-16731116
+183,182,"adversus","Myotis","Large-footed Myotis",LC,U,-16731116
+184,182,"moluccarum","Myotis","Maluku Myotis",LC,U,-16731116
+185,181,"macropus","Myotis","Large-footed Myotis",LC,U,-16731116
+186,180,"bocagii","Myotis","Rufous Mouse-eared Bat",LC,U,-16731116
+188,187,"hasseltii","Myotis","Lesser Large-footed Myotis",LC,U,-16731116
+189,187,"horsfieldii","Myotis","Horsfield's Myotis",LC,S,-16731116
+192,191,"simus","Myotis","Velvety Myotis",DD,U,-11513776
+193,191,"ruber","Myotis","Red Myotis",NT,U,-12486656
+194,190,"riparius","Myotis","Riparian Myotis",LC,S,-16731116
+197,196,"grisescens","Myotis","Gray Myotis",NT,I,-12486656
+198,196,"ricketti","Myotis","",NE,U,-16777216
+199,195,"dasycneme","Myotis","POND MYOTIS",NT,D,-12486656
+200,176,"montivagus","Myotis","Burmese Whiskered Myotis",LC,U,-16731116

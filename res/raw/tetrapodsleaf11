@@ -1,137 +1,137 @@
-index,parent,name1,name2,common,redlist,popstab
-12,11,"castaneus","Myophonus","Chestnut-winged Whistling-thrush",NT,U
-13,11,"caeruleus","Myophonus","Blue Whistling-thrush",LC,U
-15,14,"robinsoni","Myophonus","Malaysian Whistling-thrush",LC,U
-16,14,"glaucinus","Myophonus","Javan Whistling Thrush",LC,U
-20,19,"horsfieldii","Myophonus","Malabar Whistling-thrush",LC,U
-21,19,"melanurus","Myophonus","Shiny Whistling-thrush",LC,U
-22,18,"blighi","Myophonus","Sri Lanka Whistling-thrush",EN,U
-23,17,"borneensis","Myophonus","Bornean Whistling-thrush",LC,U
-24,8,"insularis","Myophonus","Taiwan Whistling-thrush",LC,U
-25,7,"frontale","Cinclidium","Blue-fronted Robin",LC,U
-30,29,"leschenaulti","Enicurus","White-crowned Forktail",LC,U
-31,29,"maculatus","Enicurus","Spotted Forktail",LC,U
-32,28,"velatus","Enicurus","Sunda Forktail",LC,U
-33,27,"ruficapillus","Enicurus","Chestnut-naped Forktail",NT,U
-36,35,"immaculatus","Enicurus","Black-backed Forktail",LC,U
-37,35,"scouleri","Enicurus","Little Forktail",LC,U
-38,34,"schistaceus","Enicurus","Slaty-backed Forktail",LC,U
-40,39,"leucurum","Cinclidium","White-tailed Robin",LC,U
-41,39,"diana","Cinclidium","Sunda Robin",LC,U
-45,44,"megarhynchos","Luscinia","Common Nightingale",LC,U
-46,44,"luscinia","Luscinia","Thrush Nightingale",LC,U
-48,47,"phaenicuroides","Hodgsonius","White-bellied Redstart",LC,U
-49,47,"svecica","Luscinia","Bluethroat",LC,U
-51,50,"obscura","Luscinia","Black-throated Blue Robin",VU,U
-52,50,"gutturalis","Irania","White-throated Robin",LC,U
-59,58,"sibilans","Luscinia","Rufous-tailed Robin",LC,U
-60,58,"komadori","Erithacus","Ryukyu Robin",NT,U
-61,57,"akahige","Erithacus","Japanese Robin",LC,U
-64,63,"brunnea","Luscinia","Indian Blue Robin",LC,U
-65,63,"cyane","Luscinia","Siberian Blue Robin",LC,U
-66,62,"pectardens","Luscinia","Firethroat",NT,U
-69,68,"hyperythra","Brachypteryx","Rusty-bellied Shortwing",NT,U
-70,68,"leucophrys","Brachypteryx","Lesser Shortwing",LC,U
-72,71,"montana","Brachypteryx","White-browed Shortwing",LC,U
-73,71,"stellata","Brachypteryx","Gould's Shortwing",LC,U
-76,75,"brunneatus","Rhinomyias","Brown-chested Jungle-flycatcher",VU,U
-77,75,"insignis","Rhinomyias","White-browed Jungle-flycatcher",VU,U
-79,78,"calligyna","Heinrichia","Great Shortwing",LC,U
-80,78,"plumosus","Pinarornis","Boulder Chat",LC,U
-81,53,"rubecula","Erithacus","European Robin",LC,U
-91,90,"umbratilis","Rhinomyias","Grey-chested Jungle-flycatcher",NT,U
-92,90,"rufigastra","Cyornis","Mangrove Blue-flycatcher",LC,U
-93,89,"ruficauda","Rhinomyias","Rufous-tailed Jungle-flycatcher",LC,U
-96,95,"olivaceus","Rhinomyias","Fulvous-chested Jungle-flycatcher",LC,U
-97,95,"poliogenys","Cyornis","Pale-chinned Blue-flycatcher",LC,U
-98,94,"banyumas","Cyornis","Hill Blue-flycatcher",LC,U
-99,87,"rubeculoides","Cyornis","Blue-throated Flycatcher",LC,U
-103,102,"oscillans","Rhinomyias","Russet-backed Jungle-flycatcher",LC,U
-104,102,"caerulatus","Cyornis","Large-billed Blue-flycatcher",VU,U
-105,101,"superbus","Cyornis","Bornean Blue-flycatcher",LC,U
-106,100,"unicolor","Cyornis","Pale Blue-flycatcher",LC,U
-110,109,"tickelliae","Cyornis","Tickell's Blue-flycatcher",LC,U
-111,109,"monileger","Ficedula","White-gorgeted Flycatcher",LC,U
-112,108,"albigularis","Rhinomyias","White-throated Jungle-flycatcher",EN,U
-113,107,"hyacinthinus","Cyornis","Timor Blue-flycatcher",LC,U
-117,116,"sumatrana","Niltava","Rufous-vented Niltava",LC,U
-118,116,"davidi","Niltava","Fujian Niltava",LC,U
-119,115,"sundara","Niltava","Rufous-bellied Niltava",LC,U
-122,121,"macgrigoriae","Niltava","Small Niltava",LC,U
-123,121,"grandis","Niltava","Large Niltava",LC,U
-124,120,"vivida","Niltava","Vivid Niltava",LC,U
-127,126,"albiventris","Myiomela","White-bellied Blue Robin",EN,U
-128,126,"major","Myiomela","Nilgiri Blue Robin",EN,U
-129,125,"concretus","Cyornis","White-tailed Flycatcher",LC,U
-135,134,"additus","Rhinomyias","Streaky-breasted Jungle-flycatcher",NT,U
-136,134,"panayensis","Eumyias","Island Flycatcher",LC,U
-137,133,"albicaudatus","Eumyias","Nilgiri Flycatcher",NT,U
-139,138,"thalassinus","Eumyias","Verditer Flycatcher",LC,U
-140,138,"sordidus","Eumyias","Dull-blue Flycatcher",NT,U
-141,131,"indigo","Eumyias","Indigo Flycatcher",LC,U
-142,130,"cyanomelana","Cyanoptila","Blue-and-white Flycatcher",LC,U
-156,155,"ruficauda","Muscicapa","Rusty-tailed Flycatcher",LC,U
-157,155,"aquatica","Muscicapa","Swamp Flycatcher",LC,U
-159,158,"cassini","Muscicapa","Cassin's Grey Flycatcher",LC,U
-160,158,"boehmi","Muscicapa","Boehm's Flycatcher",LC,U
-161,153,"gambagae","Muscicapa","Gambaga Flycatcher",LC,U
-162,152,"striata","Muscicapa","Spotted Flycatcher",LC,U
-163,151,"adusta","Muscicapa","African Dusky Flycatcher",LC,U
-165,164,"sethsmithi","Muscicapa","Yellow-footed Flycatcher",LC,U
-166,164,"tessmanni","Muscicapa","Tessmann's Flycatcher",DD,U
-171,170,"griseisticta","Muscicapa","Grey-streaked Flycatcher",LC,U
-172,170,"lendu","Muscicapa","Chapin's Flycatcher",VU,U
-173,169,"ussheri","Muscicapa","Ussher's Flycatcher",LC,U
-175,174,"muttui","Muscicapa","Brown-breasted Flycatcher",LC,U
-176,174,"epulata","Muscicapa","Little Grey Flycatcher",LC,U
-178,177,"ferruginea","Muscicapa","Ferruginous Flycatcher",LC,U
-179,177,"sibirica","Muscicapa","Dark-sided Flycatcher",LC,U
-181,180,"segregata","Muscicapa","Sumba Brown Flycatcher",NT,U
-182,180,"infuscata","Muscicapa","Sooty Flycatcher",LC,U
-186,185,"olivascens","Muscicapa","Olivaceous Flycatcher",LC,U
-187,185,"comitata","Muscicapa","Dusky-blue Flycatcher",LC,U
-188,184,"dauurica","Muscicapa","Asian Brown Flycatcher",LC,U
-190,189,"randi","Muscicapa","Ashy-breasted Flycatcher",VU,U
-191,189,"caerulescens","Muscicapa","Ashy Flycatcher",LC,U
-198,197,"pammelaina","Melaenornis","Southern Black Flycatcher",LC,U
-199,197,"edolioides","Melaenornis","Northern Black Flycatcher",LC,U
-200,196,"annamarulae","Melaenornis","Nimba Flycatcher",VU,U
-201,195,"ardesiacus","Melaenornis","Yellow-eyed Black Flycatcher",LC,U
-204,203,"silens","Sigelus","Fiscal Flycatcher",LC,U
-205,203,"herero","Namibornis","Herero Chat",LC,U
-206,202,"semipartitus","Empidornis","Silverbird",LC,U
-209,208,"cinerascens","Fraseria","White-browed Forest Flycatcher",LC,U
-210,208,"ocreata","Fraseria","African Forest Flycatcher",LC,U
-212,211,"griseigularis","Myioparus","Grey-throated Tit-flycatcher",LC,U
-213,211,"plumbeus","Myioparus","Grey Tit-flycatcher",LC,U
-216,215,"microrhynchus","Bradornis","African Grey Flycatcher",LC,U
-217,215,"mariquensis","Bradornis","Marico Flycatcher",LC,U
-219,218,"infuscatus","Bradornis","Chat Flycatcher",LC,U
-220,218,"pallidus","Bradornis","Pale Flycatcher",LC,U
-221,145,"goodfellowi","Rhinomyias","Slaty-backed Jungle-flycatcher",NT,U
-230,229,"stricklandii","Copsychus","White-crowned Shama",_U,[
-231,229,"malabaricus","Copsychus","White-rumped Shama",LC,U
-232,228,"niger","Copsychus","White-vented Shama",LC,U
-233,227,"cebuensis","Copsychus","Black Shama",EN,U
-234,226,"luzoniensis","Copsychus","White-browed Shama",LC,U
-235,225,"pyrropygus","Trichixos","Rufous-tailed Shama",NT,U
-240,239,"saularis","Copsychus","Oriental Magpie-robin",LC,U
-241,239,"hainanus","Cyornis","Hainan Blue-flycatcher",LC,U
-242,238,"sechellarum","Copsychus","Seychelles Magpie-robin",EN,U
-243,237,"albospecularis","Copsychus","Madagascar Magpie-robin",LC,U
-244,236,"fulicatus","Saxicoloides","Indian Robin",LC,U
-248,247,"chocolatinus","Dioptrornis","Abyssinian Slaty Flycatcher",LC,U
-249,247,"fischeri","Dioptrornis","White-eyed Slaty Flycatcher",LC,U
-250,246,"brunneus","Dioptrornis","Angola Slaty Flycatcher",LC,U
-251,245,"omissus","Cyornis","Sulawesi Blue-flycatcher",LC,U
-256,255,"hartlaubi","Erythropygia","Brown-backed Scrub-robin",LC,U
-257,255,"leucophrys","Erythropygia","Red-backed Scrub-robin",LC,U
-259,258,"galactotes","Erythropygia","Rufous-tailed Scrub-robin",LC,U
-260,258,"podobe","Cercotrichas","Black Scrub-robin",LC,U
-261,253,"paena","Erythropygia","Kalahari Scrub-robin",LC,U
-265,264,"quadrivirgata","Erythropygia","Bearded Scrub-robin",LC,U
-266,264,"barbata","Erythropygia","Miombo Scrub-robin",LC,U
-267,263,"leucosticta","Erythropygia","Forest Scrub-robin",LC,U
-269,268,"coryphaeus","Erythropygia","Karoo Scrub-robin",LC,U
-270,268,"signata","Erythropygia","Brown Scrub-robin",LC,U
-271,143,"nigrorufa","Ficedula","Black-and-rufous Flycatcher",NT,U
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"castaneus","Myophonus","Chestnut-winged Whistling-thrush",NT,U,-12486656
+13,11,"caeruleus","Myophonus","Blue Whistling-thrush",LC,U,-16731116
+15,14,"robinsoni","Myophonus","Malaysian Whistling-thrush",LC,U,-16731116
+16,14,"glaucinus","Myophonus","Javan Whistling Thrush",LC,U,-16731116
+20,19,"horsfieldii","Myophonus","Malabar Whistling-thrush",LC,U,-16731116
+21,19,"melanurus","Myophonus","Shiny Whistling-thrush",LC,U,-16731116
+22,18,"blighi","Myophonus","Sri Lanka Whistling-thrush",EN,U,-8572416
+23,17,"borneensis","Myophonus","Bornean Whistling-thrush",LC,U,-16731116
+24,8,"insularis","Myophonus","Taiwan Whistling-thrush",LC,U,-16731116
+25,7,"frontale","Cinclidium","Blue-fronted Robin",LC,U,-16731116
+30,29,"leschenaulti","Enicurus","White-crowned Forktail",LC,U,-16731116
+31,29,"maculatus","Enicurus","Spotted Forktail",LC,U,-16731116
+32,28,"velatus","Enicurus","Sunda Forktail",LC,U,-16731116
+33,27,"ruficapillus","Enicurus","Chestnut-naped Forktail",NT,U,-12486656
+36,35,"immaculatus","Enicurus","Black-backed Forktail",LC,U,-16731116
+37,35,"scouleri","Enicurus","Little Forktail",LC,U,-16731116
+38,34,"schistaceus","Enicurus","Slaty-backed Forktail",LC,U,-16731116
+40,39,"leucurum","Cinclidium","White-tailed Robin",LC,U,-16731116
+41,39,"diana","Cinclidium","Sunda Robin",LC,U,-16731116
+45,44,"megarhynchos","Luscinia","Common Nightingale",LC,U,-16731116
+46,44,"luscinia","Luscinia","Thrush Nightingale",LC,U,-16731116
+48,47,"phaenicuroides","Hodgsonius","White-bellied Redstart",LC,U,-16731116
+49,47,"svecica","Luscinia","Bluethroat",LC,U,-16731116
+51,50,"obscura","Luscinia","Black-throated Blue Robin",VU,U,-11184866
+52,50,"gutturalis","Irania","White-throated Robin",LC,U,-16731116
+59,58,"sibilans","Luscinia","Rufous-tailed Robin",LC,U,-16731116
+60,58,"komadori","Erithacus","Ryukyu Robin",NT,U,-12486656
+61,57,"akahige","Erithacus","Japanese Robin",LC,U,-16731116
+64,63,"brunnea","Luscinia","Indian Blue Robin",LC,U,-16731116
+65,63,"cyane","Luscinia","Siberian Blue Robin",LC,U,-16731116
+66,62,"pectardens","Luscinia","Firethroat",NT,U,-12486656
+69,68,"hyperythra","Brachypteryx","Rusty-bellied Shortwing",NT,U,-12486656
+70,68,"leucophrys","Brachypteryx","Lesser Shortwing",LC,U,-16731116
+72,71,"montana","Brachypteryx","White-browed Shortwing",LC,U,-16731116
+73,71,"stellata","Brachypteryx","Gould's Shortwing",LC,U,-16731116
+76,75,"brunneatus","Rhinomyias","Brown-chested Jungle-flycatcher",VU,U,-11184866
+77,75,"insignis","Rhinomyias","White-browed Jungle-flycatcher",VU,U,-11184866
+79,78,"calligyna","Heinrichia","Great Shortwing",LC,U,-16731116
+80,78,"plumosus","Pinarornis","Boulder Chat",LC,U,-16731116
+81,53,"rubecula","Erithacus","European Robin",LC,U,-16731116
+91,90,"umbratilis","Rhinomyias","Grey-chested Jungle-flycatcher",NT,U,-12486656
+92,90,"rufigastra","Cyornis","Mangrove Blue-flycatcher",LC,U,-16731116
+93,89,"ruficauda","Rhinomyias","Rufous-tailed Jungle-flycatcher",LC,U,-16731116
+96,95,"olivaceus","Rhinomyias","Fulvous-chested Jungle-flycatcher",LC,U,-16731116
+97,95,"poliogenys","Cyornis","Pale-chinned Blue-flycatcher",LC,U,-16731116
+98,94,"banyumas","Cyornis","Hill Blue-flycatcher",LC,U,-16731116
+99,87,"rubeculoides","Cyornis","Blue-throated Flycatcher",LC,U,-16731116
+103,102,"oscillans","Rhinomyias","Russet-backed Jungle-flycatcher",LC,U,-16731116
+104,102,"caerulatus","Cyornis","Large-billed Blue-flycatcher",VU,U,-11184866
+105,101,"superbus","Cyornis","Bornean Blue-flycatcher",LC,U,-16731116
+106,100,"unicolor","Cyornis","Pale Blue-flycatcher",LC,U,-16731116
+110,109,"tickelliae","Cyornis","Tickell's Blue-flycatcher",LC,U,-16731116
+111,109,"monileger","Ficedula","White-gorgeted Flycatcher",LC,U,-16731116
+112,108,"albigularis","Rhinomyias","White-throated Jungle-flycatcher",EN,U,-8572416
+113,107,"hyacinthinus","Cyornis","Timor Blue-flycatcher",LC,U,-16731116
+117,116,"sumatrana","Niltava","Rufous-vented Niltava",LC,U,-16731116
+118,116,"davidi","Niltava","Fujian Niltava",LC,U,-16731116
+119,115,"sundara","Niltava","Rufous-bellied Niltava",LC,U,-16731116
+122,121,"macgrigoriae","Niltava","Small Niltava",LC,U,-16731116
+123,121,"grandis","Niltava","Large Niltava",LC,U,-16731116
+124,120,"vivida","Niltava","Vivid Niltava",LC,U,-16731116
+127,126,"albiventris","Myiomela","White-bellied Blue Robin",EN,U,-8572416
+128,126,"major","Myiomela","Nilgiri Blue Robin",EN,U,-8572416
+129,125,"concretus","Cyornis","White-tailed Flycatcher",LC,U,-16731116
+135,134,"additus","Rhinomyias","Streaky-breasted Jungle-flycatcher",NT,U,-12486656
+136,134,"panayensis","Eumyias","Island Flycatcher",LC,U,-16731116
+137,133,"albicaudatus","Eumyias","Nilgiri Flycatcher",NT,U,-12486656
+139,138,"thalassinus","Eumyias","Verditer Flycatcher",LC,U,-16731116
+140,138,"sordidus","Eumyias","Dull-blue Flycatcher",NT,U,-12486656
+141,131,"indigo","Eumyias","Indigo Flycatcher",LC,U,-16731116
+142,130,"cyanomelana","Cyanoptila","Blue-and-white Flycatcher",LC,U,-16731116
+156,155,"ruficauda","Muscicapa","Rusty-tailed Flycatcher",LC,U,-16731116
+157,155,"aquatica","Muscicapa","Swamp Flycatcher",LC,U,-16731116
+159,158,"cassini","Muscicapa","Cassin's Grey Flycatcher",LC,U,-16731116
+160,158,"boehmi","Muscicapa","Boehm's Flycatcher",LC,U,-16731116
+161,153,"gambagae","Muscicapa","Gambaga Flycatcher",LC,U,-16731116
+162,152,"striata","Muscicapa","Spotted Flycatcher",LC,U,-16731116
+163,151,"adusta","Muscicapa","African Dusky Flycatcher",LC,U,-16731116
+165,164,"sethsmithi","Muscicapa","Yellow-footed Flycatcher",LC,U,-16731116
+166,164,"tessmanni","Muscicapa","Tessmann's Flycatcher",DD,U,-11513776
+171,170,"griseisticta","Muscicapa","Grey-streaked Flycatcher",LC,U,-16731116
+172,170,"lendu","Muscicapa","Chapin's Flycatcher",VU,U,-11184866
+173,169,"ussheri","Muscicapa","Ussher's Flycatcher",LC,U,-16731116
+175,174,"muttui","Muscicapa","Brown-breasted Flycatcher",LC,U,-16731116
+176,174,"epulata","Muscicapa","Little Grey Flycatcher",LC,U,-16731116
+178,177,"ferruginea","Muscicapa","Ferruginous Flycatcher",LC,U,-16731116
+179,177,"sibirica","Muscicapa","Dark-sided Flycatcher",LC,U,-16731116
+181,180,"segregata","Muscicapa","Sumba Brown Flycatcher",NT,U,-12486656
+182,180,"infuscata","Muscicapa","Sooty Flycatcher",LC,U,-16731116
+186,185,"olivascens","Muscicapa","Olivaceous Flycatcher",LC,U,-16731116
+187,185,"comitata","Muscicapa","Dusky-blue Flycatcher",LC,U,-16731116
+188,184,"dauurica","Muscicapa","Asian Brown Flycatcher",LC,U,-16731116
+190,189,"randi","Muscicapa","Ashy-breasted Flycatcher",VU,U,-11184866
+191,189,"caerulescens","Muscicapa","Ashy Flycatcher",LC,U,-16731116
+198,197,"pammelaina","Melaenornis","Southern Black Flycatcher",LC,U,-16731116
+199,197,"edolioides","Melaenornis","Northern Black Flycatcher",LC,U,-16731116
+200,196,"annamarulae","Melaenornis","Nimba Flycatcher",VU,U,-11184866
+201,195,"ardesiacus","Melaenornis","Yellow-eyed Black Flycatcher",LC,U,-16731116
+204,203,"silens","Sigelus","Fiscal Flycatcher",LC,U,-16731116
+205,203,"herero","Namibornis","Herero Chat",LC,U,-16731116
+206,202,"semipartitus","Empidornis","Silverbird",LC,U,-16731116
+209,208,"cinerascens","Fraseria","White-browed Forest Flycatcher",LC,U,-16731116
+210,208,"ocreata","Fraseria","African Forest Flycatcher",LC,U,-16731116
+212,211,"griseigularis","Myioparus","Grey-throated Tit-flycatcher",LC,U,-16731116
+213,211,"plumbeus","Myioparus","Grey Tit-flycatcher",LC,U,-16731116
+216,215,"microrhynchus","Bradornis","African Grey Flycatcher",LC,U,-16731116
+217,215,"mariquensis","Bradornis","Marico Flycatcher",LC,U,-16731116
+219,218,"infuscatus","Bradornis","Chat Flycatcher",LC,U,-16731116
+220,218,"pallidus","Bradornis","Pale Flycatcher",LC,U,-16731116
+221,145,"goodfellowi","Rhinomyias","Slaty-backed Jungle-flycatcher",NT,U,-12486656
+230,229,"stricklandii","Copsychus","White-crowned Shama",_U,[,-16777216
+231,229,"malabaricus","Copsychus","White-rumped Shama",LC,U,-16731116
+232,228,"niger","Copsychus","White-vented Shama",LC,U,-16731116
+233,227,"cebuensis","Copsychus","Black Shama",EN,U,-8572416
+234,226,"luzoniensis","Copsychus","White-browed Shama",LC,U,-16731116
+235,225,"pyrropygus","Trichixos","Rufous-tailed Shama",NT,U,-12486656
+240,239,"saularis","Copsychus","Oriental Magpie-robin",LC,U,-16731116
+241,239,"hainanus","Cyornis","Hainan Blue-flycatcher",LC,U,-16731116
+242,238,"sechellarum","Copsychus","Seychelles Magpie-robin",EN,U,-8572416
+243,237,"albospecularis","Copsychus","Madagascar Magpie-robin",LC,U,-16731116
+244,236,"fulicatus","Saxicoloides","Indian Robin",LC,U,-16731116
+248,247,"chocolatinus","Dioptrornis","Abyssinian Slaty Flycatcher",LC,U,-16731116
+249,247,"fischeri","Dioptrornis","White-eyed Slaty Flycatcher",LC,U,-16731116
+250,246,"brunneus","Dioptrornis","Angola Slaty Flycatcher",LC,U,-16731116
+251,245,"omissus","Cyornis","Sulawesi Blue-flycatcher",LC,U,-16731116
+256,255,"hartlaubi","Erythropygia","Brown-backed Scrub-robin",LC,U,-16731116
+257,255,"leucophrys","Erythropygia","Red-backed Scrub-robin",LC,U,-16731116
+259,258,"galactotes","Erythropygia","Rufous-tailed Scrub-robin",LC,U,-16731116
+260,258,"podobe","Cercotrichas","Black Scrub-robin",LC,U,-16731116
+261,253,"paena","Erythropygia","Kalahari Scrub-robin",LC,U,-16731116
+265,264,"quadrivirgata","Erythropygia","Bearded Scrub-robin",LC,U,-16731116
+266,264,"barbata","Erythropygia","Miombo Scrub-robin",LC,U,-16731116
+267,263,"leucosticta","Erythropygia","Forest Scrub-robin",LC,U,-16731116
+269,268,"coryphaeus","Erythropygia","Karoo Scrub-robin",LC,U,-16731116
+270,268,"signata","Erythropygia","Brown Scrub-robin",LC,U,-16731116
+271,143,"nigrorufa","Ficedula","Black-and-rufous Flycatcher",NT,U,-12486656

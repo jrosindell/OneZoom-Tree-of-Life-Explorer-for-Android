@@ -1,104 +1,104 @@
-index,parent,name1,name2,common,redlist,popstab
-16,15,"pyrenaica","Capra","IBERIAN WILD GOAT",LC,I
-17,15,"ibex","Capra","Alpine Ibex",LC,I
-19,18,"nubiana","Capra","Nubian Ibex",VU,D
-20,18,"walie","Capra","Walia Ibex",EN,I
-23,22,"jemlahicus","Hemitragus","Himalayan Tahr",NT,D
-24,22,"jayakari","Hemitragus","",NE,U
-25,21,"hylocrius","Hemitragus","",NE,U
-28,27,"sibirica","Capra","Siberian Ibex",LC,U
-29,27,"falconeri","Capra","Markhor",EN,D
-30,26,"hircus","Capra","",NE,U
-31,11,"caucasica","Capra","Western Tur",EN,D
-33,32,"schaeferi","Pseudois","Dwarf Bharal",EN,D
-34,32,"nayaur","Pseudois","Bharal",LC,U
-39,38,"dalli","Ovis","Thinhorn Sheep",LC,S
-40,38,"nivicola","Ovis","Snow Sheep",LC,U
-41,37,"canadensis","Ovis","Bighorn Sheep",LC,S
-43,42,"ammon","Ovis","Argali",NT,D
-44,42,"aries","Ovis","",NE,U
-45,35,"taxicolor","Budorcas","Takin",VU,D
-48,47,"pyrenaica","Rupicapra","Pyrenean Chamois",LC,I
-49,47,"rupicapra","Rupicapra","Northern Chamois",LC,U
-50,46,"lervia","Ammotragus","Aoudad",VU,D
-58,57,"milneedwardsii","Capricornis","Chinese Serow",NT,D
-59,57,"sumatraensis","Capricornis","Serow",VU,D
-60,56,"thar","Capricornis","Himalayan Serow",NT,D
-61,55,"rubidus","Capricornis","Red Serow",NT,D
-62,54,"goral","Naemorhedus","Himalayan Goral",NT,D
-64,63,"baileyi","Naemorhedus","Red Goral",VU,D
-65,63,"moschatus","Ovibos","Muskox",LC,S
-69,68,"caudatus","Naemorhedus","Long-tailed Goral",VU,D
-70,68,"griseus","Naemorhedus","Chinese Goral",VU,D
-71,67,"swinhoei","Capricornis","Formosan Serow",LC,U
-72,66,"crispus","Capricornis","Japanese Serow",LC,I
-73,51,"americanus","Oreamnos","Mountain Goat",LC,S
-74,6,"hodgsonii","Pantholops","Chiru",EN,D
-81,80,"lunatus","Damaliscus","Tiang",LC,D
-82,80,"korrigum","Damaliscus","",NE,U
-83,79,"pygargus","Damaliscus","Blesbok",LC,S
-84,78,"hunteri","Beatragus","Hirola",CR,D
-86,85,"taurinus","Connochaetes","Common Wildebeest",LC,S
-87,85,"gnou","Connochaetes","Black Wildebeest",LC,I
-90,89,"buselaphus","Alcelaphus","Hartebeest",LC,D
-91,89,"caama","Alcelaphus","",NE,U
-92,88,"lichtensteinii","Alcelaphus","",NE,U
-98,97,"beisa","Oryx","Beisa/fringe-eared Oryx",NT,D
-99,97,"gazella","Oryx","Gemsbok",LC,S
-100,96,"leucoryx","Oryx","Arabian Oryx",EN,D
-101,95,"dammah","Oryx","Scimitar-horned Oryx",EW,U
-102,94,"nasomaculatus","Addax","Addax",CR,D
-104,103,"equinus","Hippotragus","Roan Antelope",LC,D
-105,103,"niger","Hippotragus","Sable Antelope",LC,S
-107,106,"oreotragus","Oreotragus","Klipspringer",LC,S
-108,106,"kirkii","Madoqua","Kirk's Dik-dik",LC,S
-119,118,"cuvieri","Gazella","Cuvier's Gazelle",EN,U
-120,118,"leptoceros","Gazella","Rhim",EN,D
-121,117,"subgutturosa","Gazella","Goitered Gazelle",VU,D
-123,122,"saudiya","Gazella","Saudi Gazelle",EX,U
-124,122,"bennettii","Gazella","Chinkara",LC,S
-128,127,"gazella","Gazella","Mountain Gazelle",VU,D
-129,127,"erlangeri","Gazella","",NE,U
-130,126,"dorcas","Gazella","Dorcas Gazelle",VU,D
-131,125,"spekei","Gazella","Speke's Gazelle",EN,D
-135,134,"soemmerringii","Nanger","Soemmerring's Gazelle",VU,D
-136,134,"dama","Nanger","Dama Gazelle",CR,D
-137,133,"granti","Nanger","Grant's Gazelle",LC,D
-139,138,"rufifrons","Eudorcas","Red-fronted Gazelle",VU,D
-140,138,"thomsonii","Eudorcas","Thomson's Gazelle",NT,D
-141,113,"cervicapra","Antilope","Blackbuck",NT,S
-142,112,"marsupialis","Antidorcas","Springbok",LC,I
-144,143,"clarkei","Ammodorcas","Clarke's Gazelle",VU,D
-145,143,"walleri","Litocranius","Gerenuk",NT,D
-147,146,"tatarica","Saiga","SAIGA",CR,D
-148,146,"borealis","Saiga","",NE,U
-149,109,"moschatus","Neotragus","",NE,U
-150,2,"saltiana","Madoqua","Salt's Dik-dik",LC,S
-163,162,"silvicultor","Cephalophus","Yellow-backed Duiker",LC,D
-164,162,"spadix","Cephalophus","Abbott's Duiker",EN,D
-165,161,"dorsalis","Cephalophus","Bay Duiker",LC,D
-166,160,"jentinki","Cephalophus","Jentink's Duiker",EN,D
-169,168,"nigrifrons","Cephalophus","Black-fronted Duiker",LC,D
-170,168,"rufilatus","Cephalophus","Red-flanked Duiker",LC,D
-171,167,"natalensis","Cephalophus","Natal Red Duiker",LC,D
-176,175,"ogilbyi","Cephalophus","Ogilby's Duiker",LC,D
-177,175,"brookei","Cephalophus","",NE,U
-178,174,"callipygus","Cephalophus","Peters' Duiker",LC,D
-179,173,"weynsi","Cephalophus","Weyns' Duiker",LC,D
-181,180,"niger","Cephalophus","Black Duiker",LC,D
-182,180,"zebra","Cephalophus","Zebra Duiker",VU,D
-183,157,"leucogaster","Cephalophus","White-bellied Duiker",LC,D
-184,156,"adersi","Cephalophus","Aders' Duiker",CR,D
-185,155,"grimmia","Sylvicapra","Common Duiker",LC,S
-187,186,"maxwellii","Philantomba","Maxwell's Duiker",LC,D
-188,186,"monticola","Philantomba","Blue Duiker",LC,S
-189,153,"batesi","Neotragus","Bates' Pygmy Antelope",LC,S
-193,192,"sharpei","Raphicerus","Sharpe's Grysbok",LC,S
-194,192,"campestris","Raphicerus","Steenbok",LC,S
-195,191,"melanotis","Raphicerus","Cape Grysbok",LC,S
-196,190,"megalotis","Dorcatragus","Beira",VU,D
-197,151,"ourebi","Ourebia","Oribi",LC,D
-201,200,"przewalskii","Procapra","Przewalski's Gazelle",EN,D
-202,200,"gutturosa","Procapra","Mongolian Gazelle",LC,U
-203,199,"picticaudata","Procapra","Goa",NT,D
-204,198,"melampus","Aepyceros","Impala",LC,S
+index,parent,name1,name2,common,redlist,popstab,color
+16,15,"pyrenaica","Capra","IBERIAN WILD GOAT",LC,I,-16731116
+17,15,"ibex","Capra","Alpine Ibex",LC,I,-16731116
+19,18,"nubiana","Capra","Nubian Ibex",VU,D,-11184866
+20,18,"walie","Capra","Walia Ibex",EN,I,-8572416
+23,22,"jemlahicus","Hemitragus","Himalayan Tahr",NT,D,-12486656
+24,22,"jayakari","Hemitragus","",NE,U,-16777216
+25,21,"hylocrius","Hemitragus","",NE,U,-16777216
+28,27,"sibirica","Capra","Siberian Ibex",LC,U,-16731116
+29,27,"falconeri","Capra","Markhor",EN,D,-8572416
+30,26,"hircus","Capra","",NE,U,-16777216
+31,11,"caucasica","Capra","Western Tur",EN,D,-8572416
+33,32,"schaeferi","Pseudois","Dwarf Bharal",EN,D,-8572416
+34,32,"nayaur","Pseudois","Bharal",LC,U,-16731116
+39,38,"dalli","Ovis","Thinhorn Sheep",LC,S,-16731116
+40,38,"nivicola","Ovis","Snow Sheep",LC,U,-16731116
+41,37,"canadensis","Ovis","Bighorn Sheep",LC,S,-16731116
+43,42,"ammon","Ovis","Argali",NT,D,-12486656
+44,42,"aries","Ovis","",NE,U,-16777216
+45,35,"taxicolor","Budorcas","Takin",VU,D,-11184866
+48,47,"pyrenaica","Rupicapra","Pyrenean Chamois",LC,I,-16731116
+49,47,"rupicapra","Rupicapra","Northern Chamois",LC,U,-16731116
+50,46,"lervia","Ammotragus","Aoudad",VU,D,-11184866
+58,57,"milneedwardsii","Capricornis","Chinese Serow",NT,D,-12486656
+59,57,"sumatraensis","Capricornis","Serow",VU,D,-11184866
+60,56,"thar","Capricornis","Himalayan Serow",NT,D,-12486656
+61,55,"rubidus","Capricornis","Red Serow",NT,D,-12486656
+62,54,"goral","Naemorhedus","Himalayan Goral",NT,D,-12486656
+64,63,"baileyi","Naemorhedus","Red Goral",VU,D,-11184866
+65,63,"moschatus","Ovibos","Muskox",LC,S,-16731116
+69,68,"caudatus","Naemorhedus","Long-tailed Goral",VU,D,-11184866
+70,68,"griseus","Naemorhedus","Chinese Goral",VU,D,-11184866
+71,67,"swinhoei","Capricornis","Formosan Serow",LC,U,-16731116
+72,66,"crispus","Capricornis","Japanese Serow",LC,I,-16731116
+73,51,"americanus","Oreamnos","Mountain Goat",LC,S,-16731116
+74,6,"hodgsonii","Pantholops","Chiru",EN,D,-8572416
+81,80,"lunatus","Damaliscus","Tiang",LC,D,-16731116
+82,80,"korrigum","Damaliscus","",NE,U,-16777216
+83,79,"pygargus","Damaliscus","Blesbok",LC,S,-16731116
+84,78,"hunteri","Beatragus","Hirola",CR,D,-3014646
+86,85,"taurinus","Connochaetes","Common Wildebeest",LC,S,-16731116
+87,85,"gnou","Connochaetes","Black Wildebeest",LC,I,-16731116
+90,89,"buselaphus","Alcelaphus","Hartebeest",LC,D,-16731116
+91,89,"caama","Alcelaphus","",NE,U,-16777216
+92,88,"lichtensteinii","Alcelaphus","",NE,U,-16777216
+98,97,"beisa","Oryx","Beisa/fringe-eared Oryx",NT,D,-12486656
+99,97,"gazella","Oryx","Gemsbok",LC,S,-16731116
+100,96,"leucoryx","Oryx","Arabian Oryx",EN,D,-8572416
+101,95,"dammah","Oryx","Scimitar-horned Oryx",EW,U,-12832121
+102,94,"nasomaculatus","Addax","Addax",CR,D,-3014646
+104,103,"equinus","Hippotragus","Roan Antelope",LC,D,-16731116
+105,103,"niger","Hippotragus","Sable Antelope",LC,S,-16731116
+107,106,"oreotragus","Oreotragus","Klipspringer",LC,S,-16731116
+108,106,"kirkii","Madoqua","Kirk's Dik-dik",LC,S,-16731116
+119,118,"cuvieri","Gazella","Cuvier's Gazelle",EN,U,-8572416
+120,118,"leptoceros","Gazella","Rhim",EN,D,-8572416
+121,117,"subgutturosa","Gazella","Goitered Gazelle",VU,D,-11184866
+123,122,"saudiya","Gazella","Saudi Gazelle",EX,U,-16777036
+124,122,"bennettii","Gazella","Chinkara",LC,S,-16731116
+128,127,"gazella","Gazella","Mountain Gazelle",VU,D,-11184866
+129,127,"erlangeri","Gazella","",NE,U,-16777216
+130,126,"dorcas","Gazella","Dorcas Gazelle",VU,D,-11184866
+131,125,"spekei","Gazella","Speke's Gazelle",EN,D,-8572416
+135,134,"soemmerringii","Nanger","Soemmerring's Gazelle",VU,D,-11184866
+136,134,"dama","Nanger","Dama Gazelle",CR,D,-3014646
+137,133,"granti","Nanger","Grant's Gazelle",LC,D,-16731116
+139,138,"rufifrons","Eudorcas","Red-fronted Gazelle",VU,D,-11184866
+140,138,"thomsonii","Eudorcas","Thomson's Gazelle",NT,D,-12486656
+141,113,"cervicapra","Antilope","Blackbuck",NT,S,-12486656
+142,112,"marsupialis","Antidorcas","Springbok",LC,I,-16731116
+144,143,"clarkei","Ammodorcas","Clarke's Gazelle",VU,D,-11184866
+145,143,"walleri","Litocranius","Gerenuk",NT,D,-12486656
+147,146,"tatarica","Saiga","SAIGA",CR,D,-3014646
+148,146,"borealis","Saiga","",NE,U,-16777216
+149,109,"moschatus","Neotragus","",NE,U,-16777216
+150,2,"saltiana","Madoqua","Salt's Dik-dik",LC,S,-16731116
+163,162,"silvicultor","Cephalophus","Yellow-backed Duiker",LC,D,-16731116
+164,162,"spadix","Cephalophus","Abbott's Duiker",EN,D,-8572416
+165,161,"dorsalis","Cephalophus","Bay Duiker",LC,D,-16731116
+166,160,"jentinki","Cephalophus","Jentink's Duiker",EN,D,-8572416
+169,168,"nigrifrons","Cephalophus","Black-fronted Duiker",LC,D,-16731116
+170,168,"rufilatus","Cephalophus","Red-flanked Duiker",LC,D,-16731116
+171,167,"natalensis","Cephalophus","Natal Red Duiker",LC,D,-16731116
+176,175,"ogilbyi","Cephalophus","Ogilby's Duiker",LC,D,-16731116
+177,175,"brookei","Cephalophus","",NE,U,-16777216
+178,174,"callipygus","Cephalophus","Peters' Duiker",LC,D,-16731116
+179,173,"weynsi","Cephalophus","Weyns' Duiker",LC,D,-16731116
+181,180,"niger","Cephalophus","Black Duiker",LC,D,-16731116
+182,180,"zebra","Cephalophus","Zebra Duiker",VU,D,-11184866
+183,157,"leucogaster","Cephalophus","White-bellied Duiker",LC,D,-16731116
+184,156,"adersi","Cephalophus","Aders' Duiker",CR,D,-3014646
+185,155,"grimmia","Sylvicapra","Common Duiker",LC,S,-16731116
+187,186,"maxwellii","Philantomba","Maxwell's Duiker",LC,D,-16731116
+188,186,"monticola","Philantomba","Blue Duiker",LC,S,-16731116
+189,153,"batesi","Neotragus","Bates' Pygmy Antelope",LC,S,-16731116
+193,192,"sharpei","Raphicerus","Sharpe's Grysbok",LC,S,-16731116
+194,192,"campestris","Raphicerus","Steenbok",LC,S,-16731116
+195,191,"melanotis","Raphicerus","Cape Grysbok",LC,S,-16731116
+196,190,"megalotis","Dorcatragus","Beira",VU,D,-11184866
+197,151,"ourebi","Ourebia","Oribi",LC,D,-16731116
+201,200,"przewalskii","Procapra","Przewalski's Gazelle",EN,D,-8572416
+202,200,"gutturosa","Procapra","Mongolian Gazelle",LC,U,-16731116
+203,199,"picticaudata","Procapra","Goa",NT,D,-12486656
+204,198,"melampus","Aepyceros","Impala",LC,S,-16731116

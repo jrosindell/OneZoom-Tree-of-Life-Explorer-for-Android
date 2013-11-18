@@ -1,123 +1,123 @@
-index,parent,name1,name2,common,redlist,popstab
-15,14,"mekisturus","Peromyscus","Puebla Deer Mouse",CR,U
-16,14,"gossypinus","Peromyscus","Cotton Deermouse",LC,S
-18,17,"melanophrys","Peromyscus","Plateau Deer Mouse",LC,S
-19,17,"perfulvus","Peromyscus","Marsh Mouse",LC,S
-22,21,"stirtoni","Peromyscus","Stirton's Deer Mouse",LC,S
-23,21,"keeni","Peromyscus","Northwestern Deermouse",LC,S
-24,20,"dickeyi","Peromyscus","Dickey's Deermouse",CR,D
-28,27,"leucopus","Peromyscus","White-footed Mouse",LC,S
-29,27,"attwateri","Peromyscus","Texas Deermouse",LC,S
-31,30,"yucatanicus","Peromyscus","Yucatan Deer Mouse",LC,S
-32,30,"eva","Peromyscus","Eva's Desert Mouse",LC,S
-33,25,"polius","Peromyscus","Chihuahuan Deer Mouse",NT,D
-34,10,"ochraventer","Peromyscus","El Carrizo Deer Mouse",EN,D
-40,39,"interparietalis","Peromyscus","San Lorenzo Deermouse",CR,D
-41,39,"simulus","Peromyscus","Nayarit Deer Mouse",VU,D
-42,38,"californicus","Peromyscus","California Mouse",LC,S
-45,44,"melanurus","Peromyscus","Black-tailed Deer Mouse",EN,U
-46,44,"grandis","Peromyscus","Big Deer Mouse",NT,S
-47,43,"pectoralis","Peromyscus","White-ankled Mouse",LC,S
-49,48,"melanotis","Peromyscus","Black-eared Mouse",LC,U
-50,48,"polionotus","Peromyscus","Beach Mouse",LC,U
-53,52,"fraterculus","Peromyscus","Northern Baja Deermouse",LC,U
-54,52,"eremicus","Peromyscus","Cactus Mouse",LC,S
-55,51,"sejugis","Peromyscus","Santa Cruz Mouse",EN,D
-63,62,"levipes","Peromyscus","Nimble-footed Deer Mouse",LC,U
-64,62,"sagax","Peromyscus","Michoacan Deer Mouse",DD,U
-65,61,"beatae","Peromyscus","Orizaba Deermouse",LC,U
-67,66,"hylocetes","Peromyscus","Transvolcanic Deermouse",LC,S
-68,66,"aztecus","Peromyscus","Aztec Mouse",LC,S
-70,69,"caniceps","Peromyscus","Monserrat Island Deermouse",CR,D
-71,69,"crinitus","Peromyscus","Canyon Mouse",LC,S
-72,58,"merriami","Peromyscus","Mesquite Mouse",LC,U
-75,74,"maniculatus","Peromyscus","North American Deermouse",LC,S
-76,74,"mexicanus","Peromyscus","Mexican Deer Mouse",LC,S
-78,77,"guatemalensis","Peromyscus","Guatamalan Deer Mouse",LC,S
-79,77,"furvus","Peromyscus","Blackish Deer Mouse",DD,U
-84,83,"winkelmanni","Peromyscus","Coalcolman Deer Mouse",EN,D
-85,83,"nasutus","Peromyscus","Northern Rock Mouse",LC,U
-86,82,"stephani","Peromyscus","San Esteban Deermouse",CR,D
-88,87,"zarhynchus","Peromyscus","Chiapan Deer Mouse",VU,D
-89,87,"slevini","Peromyscus","Catalina Deer Mouse",CR,D
-91,90,"pseudocrinitus","Peromyscus","Coronados Deer Mouse",CR,D
-92,90,"megalops","Peromyscus","Broad-faced Deer Mouse",LC,U
-97,96,"gymnotis","Peromyscus","Naked-eared Deer Mouse",LC,D
-98,96,"spicilegus","Peromyscus","Gleaning Deer Mouse",LC,D
-100,99,"hooperi","Peromyscus","Hooper's Deer Mouse",LC,S
-101,99,"boylii","Peromyscus","Brush Mouse",LC,S
-102,94,"madrensis","Peromyscus","Tres Marias Deer Mouse",EN,D
-107,106,"melanocarpus","Peromyscus","Black-wristed Deer Mouse",EN,U
-108,106,"mayensis","Peromyscus","Maya Mouse",CR,D
-109,105,"bullatus","Peromyscus","Perote Deer Mouse",CR,D
-110,104,"gratus","Peromyscus","Osgood's Mouse",LC,U
-111,103,"guardia","Peromyscus","Angel Island Mouse",CR,D
-113,112,"difficilis","Peromyscus","Rock Mouse",LC,S
-114,112,"truei","Peromyscus","Pinyon Mouse",LC,S
-122,121,"lophurus","Habromys","Crested-tailed Deer Mouse",NT,D
-123,121,"simulatus","Habromys","Jico Deer Mouse",EN,D
-125,124,"lepturus","Habromys","Slender-tailed Deer Mouse",CR,D
-126,124,"ixtlani","Habromys","Ixtlan Deer Mouse",CR,D
-127,119,"chinanteco","Habromys","Chinanteco Deer Mouse",CR,D
-128,118,"alstoni","Neotomodon","Mexican Volcano Mouse",LC,S
-129,117,"floridanus","Podomys","Florida Deermouse",VU,D
-130,116,"banderanus","Osgoodomys","Michoacan Deer Mouse",LC,U
-133,132,"cryophilus","Megadontomys","Oaxaca Giant Deer Mouse",EN,D
-134,132,"thomasi","Megadontomys","Thomas's Giant Deer Mouse",EN,D
-135,131,"nelsoni","Megadontomys","Nelson's Giant Deer Mouse",EN,D
-138,137,"leucogaster","Onychomys","Northern Grasshopper Mouse",LC,S
-139,137,"torridus","Onychomys","Southern Grasshopper Mouse",LC,S
-140,136,"arenicola","Onychomys","Mearns's Grasshopper Mouse",LC,S
-142,141,"pirrensis","Isthmomys","Mt. Pirri Isthmus Rat",LC,U
-143,141,"flavidus","Isthmomys","Yellow Isthmus Rat",NT,U
-149,148,"brevirostris","Reithrodontomys","Short-nosed Harvest Mouse",LC,S
-150,148,"darienensis","Reithrodontomys","Darien Harvest Mouse",LC,S
-151,147,"gracilis","Reithrodontomys","Slender Harvest Mouse",LC,S
-154,153,"paradoxus","Reithrodontomys","Nicaraguan Harvest Mouse",DD,U
-155,153,"spectabilis","Reithrodontomys","Cozumel Harvest Mouse",CR,D
-156,152,"mexicanus","Reithrodontomys","Mexican Harvest Mouse",LC,S
-160,159,"microdon","Reithrodontomys","Small-toothed Harvest Mouse",VU,D
-161,159,"rodriguezi","Reithrodontomys","Rodriguez's Harvest Mouse",LC,S
-162,158,"creper","Reithrodontomys","Chiriqui Harvest Mouse",LC,S
-163,157,"tenuirostris","Reithrodontomys","Narrow-nosed Harvest Mouse",VU,D
-170,169,"sumichrasti","Reithrodontomys","Sumachrasti's Harvest Mouse",LC,S
-171,169,"montanus","Reithrodontomys","Plains Harvest Mouse",LC,S
-172,168,"raviventris","Reithrodontomys","Saltmarsh Harvest Mouse",EN,D
-173,167,"zacatecae","Reithrodontomys","Zacatecas Harvest Mouse",LC,U
-174,166,"humulis","Reithrodontomys","Eastern Harvest Mouse",LC,S
-177,176,"chrysopsis","Reithrodontomys","Volcano Harvest Mouse",LC,U
-178,176,"burti","Reithrodontomys","Sonoran Harvest Mouse",DD,U
-179,175,"megalotis","Reithrodontomys","Southern Marsh Harvest Mouse",LC,S
-181,180,"fulvescens","Reithrodontomys","Fulvous Harvest Mouse",LC,S
-182,180,"hirsutus","Reithrodontomys","Hairy Harvest Mouse",VU,D
-186,185,"xerampelinus","Scotinomys","Chiriqui Brown Mouse",LC,S
-187,185,"teguina","Scotinomys","Alston's Brown Mouse",LC,S
-189,188,"musculus","Baiomys","Southern Pygmy Mouse",LC,S
-190,188,"taylori","Baiomys","Northern Pygmy Mouse",LC,S
-191,183,"nuttalli","Ochrotomys","Golden Mouse",LC,S
-202,201,"martinensis","Neotoma","San Martin Island Woodrat",EX,U
-203,201,"devia","Neotoma","Arizona Woodrat",LC,S
-204,200,"palatina","Neotoma","Bolano's Woodrat",VU,D
-205,199,"lepida","Neotoma","Desert Woodrat",LC,S
-206,198,"micropus","Neotoma","Southern Plains Woodrat",LC,S
-208,207,"nelsoni","Neotoma","Nelson's Woodrat",CR,D
-209,207,"mexicana","Neotoma","Mexican Woodrat",LC,S
-215,214,"magister","Neotoma","Allegheny Woodrat",NT,D
-216,214,"floridana","Neotoma","Eastern Woodrat",LC,D
-217,213,"goldmani","Neotoma","Goldman's Woodrat",LC,D
-218,212,"angustapalata","Neotoma","Tamaulipan Woodrat",EN,D
-219,211,"chrysomelas","Neotoma","Nicaraguan Woodrat",LC,S
-220,210,"stephensi","Neotoma","Stephen's Woodrat",LC,S
-225,224,"albigula","Neotoma","White-throated Woodrat",LC,S
-226,224,"leucodon","Neotoma","White-toothed Woodrat",LC,S
-227,223,"bryanti","Neotoma","Bryant's Woodrat",EN,D
-228,222,"anthonyi","Neotoma","Anthony's Woodrat",EX,U
-229,221,"bunkeri","Neotoma","Bunkers Woodrat",EX,U
-233,232,"fuscipes","Neotoma","Dusky-footed Woodrat",LC,S
-234,232,"macrotis","Neotoma","Big-eared Woodrat",LC,U
-235,231,"cinerea","Neotoma","Bushy-tailed Woodrat",LC,S
-236,230,"phenax","Neotoma","Sonoran Woodrat",NT,D
-238,237,"alleni","Hodomys","Allen's Woodrat",LC,S
-239,237,"nelsoni","Xenomys","Magdalena Rat",EN,D
-241,240,"goldmani","Nelsonia","Nelson And Coldman's Woodrat",EN,D
-242,240,"neotomodon","Nelsonia","Diminutive Woodrat",NT,D
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"mekisturus","Peromyscus","Puebla Deer Mouse",CR,U,-3014646
+16,14,"gossypinus","Peromyscus","Cotton Deermouse",LC,S,-16731116
+18,17,"melanophrys","Peromyscus","Plateau Deer Mouse",LC,S,-16731116
+19,17,"perfulvus","Peromyscus","Marsh Mouse",LC,S,-16731116
+22,21,"stirtoni","Peromyscus","Stirton's Deer Mouse",LC,S,-16731116
+23,21,"keeni","Peromyscus","Northwestern Deermouse",LC,S,-16731116
+24,20,"dickeyi","Peromyscus","Dickey's Deermouse",CR,D,-3014646
+28,27,"leucopus","Peromyscus","White-footed Mouse",LC,S,-16731116
+29,27,"attwateri","Peromyscus","Texas Deermouse",LC,S,-16731116
+31,30,"yucatanicus","Peromyscus","Yucatan Deer Mouse",LC,S,-16731116
+32,30,"eva","Peromyscus","Eva's Desert Mouse",LC,S,-16731116
+33,25,"polius","Peromyscus","Chihuahuan Deer Mouse",NT,D,-12486656
+34,10,"ochraventer","Peromyscus","El Carrizo Deer Mouse",EN,D,-8572416
+40,39,"interparietalis","Peromyscus","San Lorenzo Deermouse",CR,D,-3014646
+41,39,"simulus","Peromyscus","Nayarit Deer Mouse",VU,D,-11184866
+42,38,"californicus","Peromyscus","California Mouse",LC,S,-16731116
+45,44,"melanurus","Peromyscus","Black-tailed Deer Mouse",EN,U,-8572416
+46,44,"grandis","Peromyscus","Big Deer Mouse",NT,S,-12486656
+47,43,"pectoralis","Peromyscus","White-ankled Mouse",LC,S,-16731116
+49,48,"melanotis","Peromyscus","Black-eared Mouse",LC,U,-16731116
+50,48,"polionotus","Peromyscus","Beach Mouse",LC,U,-16731116
+53,52,"fraterculus","Peromyscus","Northern Baja Deermouse",LC,U,-16731116
+54,52,"eremicus","Peromyscus","Cactus Mouse",LC,S,-16731116
+55,51,"sejugis","Peromyscus","Santa Cruz Mouse",EN,D,-8572416
+63,62,"levipes","Peromyscus","Nimble-footed Deer Mouse",LC,U,-16731116
+64,62,"sagax","Peromyscus","Michoacan Deer Mouse",DD,U,-11513776
+65,61,"beatae","Peromyscus","Orizaba Deermouse",LC,U,-16731116
+67,66,"hylocetes","Peromyscus","Transvolcanic Deermouse",LC,S,-16731116
+68,66,"aztecus","Peromyscus","Aztec Mouse",LC,S,-16731116
+70,69,"caniceps","Peromyscus","Monserrat Island Deermouse",CR,D,-3014646
+71,69,"crinitus","Peromyscus","Canyon Mouse",LC,S,-16731116
+72,58,"merriami","Peromyscus","Mesquite Mouse",LC,U,-16731116
+75,74,"maniculatus","Peromyscus","North American Deermouse",LC,S,-16731116
+76,74,"mexicanus","Peromyscus","Mexican Deer Mouse",LC,S,-16731116
+78,77,"guatemalensis","Peromyscus","Guatamalan Deer Mouse",LC,S,-16731116
+79,77,"furvus","Peromyscus","Blackish Deer Mouse",DD,U,-11513776
+84,83,"winkelmanni","Peromyscus","Coalcolman Deer Mouse",EN,D,-8572416
+85,83,"nasutus","Peromyscus","Northern Rock Mouse",LC,U,-16731116
+86,82,"stephani","Peromyscus","San Esteban Deermouse",CR,D,-3014646
+88,87,"zarhynchus","Peromyscus","Chiapan Deer Mouse",VU,D,-11184866
+89,87,"slevini","Peromyscus","Catalina Deer Mouse",CR,D,-3014646
+91,90,"pseudocrinitus","Peromyscus","Coronados Deer Mouse",CR,D,-3014646
+92,90,"megalops","Peromyscus","Broad-faced Deer Mouse",LC,U,-16731116
+97,96,"gymnotis","Peromyscus","Naked-eared Deer Mouse",LC,D,-16731116
+98,96,"spicilegus","Peromyscus","Gleaning Deer Mouse",LC,D,-16731116
+100,99,"hooperi","Peromyscus","Hooper's Deer Mouse",LC,S,-16731116
+101,99,"boylii","Peromyscus","Brush Mouse",LC,S,-16731116
+102,94,"madrensis","Peromyscus","Tres Marias Deer Mouse",EN,D,-8572416
+107,106,"melanocarpus","Peromyscus","Black-wristed Deer Mouse",EN,U,-8572416
+108,106,"mayensis","Peromyscus","Maya Mouse",CR,D,-3014646
+109,105,"bullatus","Peromyscus","Perote Deer Mouse",CR,D,-3014646
+110,104,"gratus","Peromyscus","Osgood's Mouse",LC,U,-16731116
+111,103,"guardia","Peromyscus","Angel Island Mouse",CR,D,-3014646
+113,112,"difficilis","Peromyscus","Rock Mouse",LC,S,-16731116
+114,112,"truei","Peromyscus","Pinyon Mouse",LC,S,-16731116
+122,121,"lophurus","Habromys","Crested-tailed Deer Mouse",NT,D,-12486656
+123,121,"simulatus","Habromys","Jico Deer Mouse",EN,D,-8572416
+125,124,"lepturus","Habromys","Slender-tailed Deer Mouse",CR,D,-3014646
+126,124,"ixtlani","Habromys","Ixtlan Deer Mouse",CR,D,-3014646
+127,119,"chinanteco","Habromys","Chinanteco Deer Mouse",CR,D,-3014646
+128,118,"alstoni","Neotomodon","Mexican Volcano Mouse",LC,S,-16731116
+129,117,"floridanus","Podomys","Florida Deermouse",VU,D,-11184866
+130,116,"banderanus","Osgoodomys","Michoacan Deer Mouse",LC,U,-16731116
+133,132,"cryophilus","Megadontomys","Oaxaca Giant Deer Mouse",EN,D,-8572416
+134,132,"thomasi","Megadontomys","Thomas's Giant Deer Mouse",EN,D,-8572416
+135,131,"nelsoni","Megadontomys","Nelson's Giant Deer Mouse",EN,D,-8572416
+138,137,"leucogaster","Onychomys","Northern Grasshopper Mouse",LC,S,-16731116
+139,137,"torridus","Onychomys","Southern Grasshopper Mouse",LC,S,-16731116
+140,136,"arenicola","Onychomys","Mearns's Grasshopper Mouse",LC,S,-16731116
+142,141,"pirrensis","Isthmomys","Mt. Pirri Isthmus Rat",LC,U,-16731116
+143,141,"flavidus","Isthmomys","Yellow Isthmus Rat",NT,U,-12486656
+149,148,"brevirostris","Reithrodontomys","Short-nosed Harvest Mouse",LC,S,-16731116
+150,148,"darienensis","Reithrodontomys","Darien Harvest Mouse",LC,S,-16731116
+151,147,"gracilis","Reithrodontomys","Slender Harvest Mouse",LC,S,-16731116
+154,153,"paradoxus","Reithrodontomys","Nicaraguan Harvest Mouse",DD,U,-11513776
+155,153,"spectabilis","Reithrodontomys","Cozumel Harvest Mouse",CR,D,-3014646
+156,152,"mexicanus","Reithrodontomys","Mexican Harvest Mouse",LC,S,-16731116
+160,159,"microdon","Reithrodontomys","Small-toothed Harvest Mouse",VU,D,-11184866
+161,159,"rodriguezi","Reithrodontomys","Rodriguez's Harvest Mouse",LC,S,-16731116
+162,158,"creper","Reithrodontomys","Chiriqui Harvest Mouse",LC,S,-16731116
+163,157,"tenuirostris","Reithrodontomys","Narrow-nosed Harvest Mouse",VU,D,-11184866
+170,169,"sumichrasti","Reithrodontomys","Sumachrasti's Harvest Mouse",LC,S,-16731116
+171,169,"montanus","Reithrodontomys","Plains Harvest Mouse",LC,S,-16731116
+172,168,"raviventris","Reithrodontomys","Saltmarsh Harvest Mouse",EN,D,-8572416
+173,167,"zacatecae","Reithrodontomys","Zacatecas Harvest Mouse",LC,U,-16731116
+174,166,"humulis","Reithrodontomys","Eastern Harvest Mouse",LC,S,-16731116
+177,176,"chrysopsis","Reithrodontomys","Volcano Harvest Mouse",LC,U,-16731116
+178,176,"burti","Reithrodontomys","Sonoran Harvest Mouse",DD,U,-11513776
+179,175,"megalotis","Reithrodontomys","Southern Marsh Harvest Mouse",LC,S,-16731116
+181,180,"fulvescens","Reithrodontomys","Fulvous Harvest Mouse",LC,S,-16731116
+182,180,"hirsutus","Reithrodontomys","Hairy Harvest Mouse",VU,D,-11184866
+186,185,"xerampelinus","Scotinomys","Chiriqui Brown Mouse",LC,S,-16731116
+187,185,"teguina","Scotinomys","Alston's Brown Mouse",LC,S,-16731116
+189,188,"musculus","Baiomys","Southern Pygmy Mouse",LC,S,-16731116
+190,188,"taylori","Baiomys","Northern Pygmy Mouse",LC,S,-16731116
+191,183,"nuttalli","Ochrotomys","Golden Mouse",LC,S,-16731116
+202,201,"martinensis","Neotoma","San Martin Island Woodrat",EX,U,-16777036
+203,201,"devia","Neotoma","Arizona Woodrat",LC,S,-16731116
+204,200,"palatina","Neotoma","Bolano's Woodrat",VU,D,-11184866
+205,199,"lepida","Neotoma","Desert Woodrat",LC,S,-16731116
+206,198,"micropus","Neotoma","Southern Plains Woodrat",LC,S,-16731116
+208,207,"nelsoni","Neotoma","Nelson's Woodrat",CR,D,-3014646
+209,207,"mexicana","Neotoma","Mexican Woodrat",LC,S,-16731116
+215,214,"magister","Neotoma","Allegheny Woodrat",NT,D,-12486656
+216,214,"floridana","Neotoma","Eastern Woodrat",LC,D,-16731116
+217,213,"goldmani","Neotoma","Goldman's Woodrat",LC,D,-16731116
+218,212,"angustapalata","Neotoma","Tamaulipan Woodrat",EN,D,-8572416
+219,211,"chrysomelas","Neotoma","Nicaraguan Woodrat",LC,S,-16731116
+220,210,"stephensi","Neotoma","Stephen's Woodrat",LC,S,-16731116
+225,224,"albigula","Neotoma","White-throated Woodrat",LC,S,-16731116
+226,224,"leucodon","Neotoma","White-toothed Woodrat",LC,S,-16731116
+227,223,"bryanti","Neotoma","Bryant's Woodrat",EN,D,-8572416
+228,222,"anthonyi","Neotoma","Anthony's Woodrat",EX,U,-16777036
+229,221,"bunkeri","Neotoma","Bunkers Woodrat",EX,U,-16777036
+233,232,"fuscipes","Neotoma","Dusky-footed Woodrat",LC,S,-16731116
+234,232,"macrotis","Neotoma","Big-eared Woodrat",LC,U,-16731116
+235,231,"cinerea","Neotoma","Bushy-tailed Woodrat",LC,S,-16731116
+236,230,"phenax","Neotoma","Sonoran Woodrat",NT,D,-12486656
+238,237,"alleni","Hodomys","Allen's Woodrat",LC,S,-16731116
+239,237,"nelsoni","Xenomys","Magdalena Rat",EN,D,-8572416
+241,240,"goldmani","Nelsonia","Nelson And Coldman's Woodrat",EN,D,-8572416
+242,240,"neotomodon","Nelsonia","Diminutive Woodrat",NT,D,-12486656

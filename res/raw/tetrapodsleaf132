@@ -1,150 +1,150 @@
-index,parent,name1,name2,common,redlist,popstab
-12,11,"grayii","Strongylopus","Gray's Stream Frog",LC,S
-13,11,"kilimanjaro","Strongylopus","",DD,U
-14,10,"fasciatus","Strongylopus","Striped Stream Frog",LC,S
-16,15,"springbokensis","Strongylopus","Namaqua Stream Frog",VU,D
-17,15,"hymenopus","Strongylopus","Drakensberg Stream Frog",LC,U
-21,20,"fuelleborni","Strongylopus","Fuelleborn's Stream Frog",LC,D
-22,20,"rhodesianus","Strongylopus","Chimanimani Stream Frog",VU,D
-23,19,"wageri","Strongylopus","Wager's Stream Frog",NT,D
-24,18,"bonaespei","Strongylopus","Banded Stream Frog",LC,S
-26,25,"merumontanus","Strongylopus","",VU,S
-27,25,"kitumbeine","Strongylopus","",VU,S
-34,33,"poyntoni","Cacosternum","Poynton's Caco",DD,U
-35,33,"striatum","Cacosternum","Striped Caco",DD,U
-36,32,"nanum","Cacosternum","Bronze Caco",LC,S
-37,31,"platys","Cacosternum","Flat Caco",LC,S
-39,38,"namaquense","Cacosternum","Namaqua Caco",LC,S
-40,38,"leleupi","Cacosternum","Katanga Caco",DD,U
-43,42,"boettgeri","Cacosternum","Boettger's Dainty Frog",LC,U
-44,42,"karooicum","Cacosternum","Karoo Dainty Frog",DD,U
-45,41,"capense","Cacosternum","Cape Caco",VU,D
-47,46,"hewitti","Anhydrophryne","Hewitt's Moss Frog",LC,S
-48,46,"rattrayi","Anhydrophryne","Hogsback Frog",EN,D
-54,53,"inyangae","Amietia","Inyangani River Frog",EN,D
-55,53,"vertebralis","Amietia","Ice Frog",LC,U
-57,56,"dracomontana","Amietia","Drakensberg River Frog",LC,S
-58,56,"wittei","Amietia","",DD,U
-59,51,"vandijki","Amietia","",DD,U
-60,50,"fuscigula","Amietia","Cape River Frog",LC,S
-64,63,"angolensis","Amietia","Angola River Frog",LC,S
-65,63,"desaegeri","Amietia","",DD,U
-67,66,"johnstoni","Amietia","Johnston's River Frog",EN,D
-68,66,"amieti","Amietia","",DD,U
-69,61,"ruwenzorica","Amietia","",DD,U
-75,74,"landdrosia","Arthroleptella","Landdros Moss Frog",NT,S
-76,74,"drewesii","Arthroleptella","Drewes' Moss Frog",DD,S
-77,73,"ngongoniensis","Arthroleptella","",NE,U
-79,78,"bicolor","Arthroleptella","Bainskloof Moss Frog",LC,S
-80,78,"subvoce","Arthroleptella","",DD,U
-82,81,"lightfooti","Arthroleptella","Lightfoot's Moss Frog",NT,S
-83,81,"villiersi","Arthroleptella","De Villier's Moss Frog",LC,S
-84,70,"bonebergi","Natalobatrachus","",EN,D
-89,88,"tandyi","Tomopterna","Tandy's Sand Frog",LC,S
-90,88,"luganga","Tomopterna","",LC,S
-91,87,"krugerensis","Tomopterna","Knocking Sand Frog",LC,S
-93,92,"cryptotis","Tomopterna","Common Sand Frog",LC,S
-94,92,"damarensis","Tomopterna","",DD,U
-97,96,"delalandii","Tomopterna","Delalande's Sand Frog",LC,S
-98,96,"marmorata","Tomopterna","Marbled Sand Frog",LC,U
-100,99,"tuberculosa","Tomopterna","Rough Sand Frog",LC,S
-101,99,"natalensis","Tomopterna","Natal Sand Frog",LC,S
-105,104,"obbianus","Pyxicephalus","Calabresi's Bullfrog",LC,U
-106,104,"edulis","Pyxicephalus","Edible Bullfrog",LC,S
-107,103,"adspersus","Pyxicephalus","African Bullfrog",LC,D
-109,108,"subsigillata","Aubria","",LC,S
-110,108,"masako","Aubria","",LC,D
-118,117,"johnstoni","Petropedetes","",NT,U
-119,117,"parkeri","Petropedetes","",LC,D
-120,116,"cameronensis","Petropedetes","",NT,D
-122,121,"newtoni","Petropedetes","",LC,D
-123,121,"perreti","Petropedetes","",EN,D
-125,124,"palmipes","Petropedetes","",EN,D
-126,124,"natator","Petropedetes","",NT,D
-129,128,"dutoiti","Petropedetes","Du Toit's Torrent Frog",CR,D
-130,128,"yakusini","Petropedetes","",EN,D
-131,127,"martiensseni","Petropedetes","Usambara Torrent Frog",EN,D
-138,137,"tenuilingua","Indirana","",DD,U
-139,137,"leithii","Indirana","",VU,D
-140,136,"semipalmata","Indirana","",LC,U
-141,135,"gundia","Indirana","",CR,D
-142,134,"longicrus","Indirana","",DD,U
-145,144,"brachytarsus","Indirana","",EN,D
-146,144,"phrynoderma","Indirana","",CR,D
-147,143,"leptodactyla","Indirana","",EN,D
-149,148,"diplosticta","Indirana","",EN,D
-150,148,"beddomii","Indirana","",LC,D
-154,153,"goliath","Conraua","Goliath Frog",EN,D
-155,153,"beccarii","Conraua","",LC,D
-156,152,"robusta","Conraua","",VU,D
-159,158,"alleni","Conraua","",VU,D
-160,158,"derooi","Conraua","",CR,D
-161,157,"crassipes","Conraua","",LC,D
-174,173,"hylaios","Phrynobatrachus","",LC,S
-175,173,"dispar","Phrynobatrachus","",LC,S
-176,172,"acridoides","Phrynobatrachus","",LC,S
-178,177,"brevipalmatus","Phrynobatrachus","",DD,U
-179,177,"phyllophilus","Phrynobatrachus","",NT,D
-182,181,"perpalmatus","Phrynobatrachus","",LC,S
-183,181,"pygmaeus","Phrynobatrachus","",DD,U
-185,184,"accraensis","Phrynobatrachus","",NE,U
-186,184,"asper","Phrynobatrachus","",DD,U
-187,169,"werneri","Phrynobatrachus","",LC,S
-191,190,"sulfureogularis","Phrynobatrachus","",DD,U
-192,190,"cryptotis","Phrynobatrachus","",DD,U
-193,189,"pakenhami","Phrynobatrachus","",EN,D
-195,194,"cricogaster","Phrynobatrachus","",VU,D
-196,194,"irangi","Phrynobatrachus","",EN,D
-203,202,"manengoubensis","Phrynobatrachus","",DD,U
-204,202,"fraterculus","Phrynobatrachus","",LC,D
-205,201,"nanus","Phrynobatrachus","",DD,U
-207,206,"natalensis","Phrynobatrachus","Natal Dwarf Puddle Frog",LC,S
-208,206,"batesii","Phrynobatrachus","",LC,U
-210,209,"albomarginatus","Phrynobatrachus","",DD,U
-211,209,"minutus","Phrynobatrachus","",LC,U
-214,213,"uzungwensis","Phrynobatrachus","",VU,D
-215,213,"rungwensis","Phrynobatrachus","",LC,S
-216,212,"vogti","Phrynobatrachus","",DD,U
-217,197,"stewartae","Phrynobatrachus","",DD,U
-224,223,"calcaratus","Phrynobatrachus","Boutry River Frog",LC,S
-225,223,"anotis","Phrynobatrachus","",DD,U
-226,222,"auritus","Phrynobatrachus","",LC,D
-227,221,"scapularis","Phrynobatrachus","",LC,S
-228,220,"africanus","Phrynobatrachus","",LC,D
-229,219,"ukingensis","Phrynobatrachus","",DD,U
-230,218,"albolabris","Phrynobatrachus","",DD,U
-232,231,"bequaerti","Phrynobatrachus","",VU,D
-233,231,"taiensis","Phrynobatrachus","",DD,U
-239,238,"acutirostris","Phrynobatrachus","",VU,D
-240,238,"dalcqi","Phrynobatrachus","",DD,D
-241,237,"guineensis","Phrynobatrachus","",NT,D
-244,243,"parvulus","Phrynobatrachus","",LC,S
-245,243,"parkeri","Phrynobatrachus","",LC,S
-246,242,"sternfeldi","Phrynobatrachus","",DD,U
-248,247,"plicatus","Phrynobatrachus","Coast River Frog",LC,S
-249,247,"bullans","Phrynobatrachus","",LC,U
-255,254,"dendrobates","Phrynobatrachus","",LC,D
-256,254,"rouxi","Phrynobatrachus","",DD,U
-257,253,"graueri","Phrynobatrachus","",LC,U
-258,252,"kinangopensis","Phrynobatrachus","",LC,S
-259,251,"sandersoni","Phrynobatrachus","",LC,D
-260,250,"krefftii","Phrynobatrachus","",EN,D
-268,267,"steindachneri","Phrynobatrachus","",VU,D
-269,267,"ogoensis","Phrynobatrachus","",DD,U
-270,266,"annulatus","Phrynobatrachus","",EN,D
-272,271,"inexpectatus","Phrynobatrachus","",DD,U
-273,271,"congicus","Phrynobatrachus","",DD,U
-274,264,"versicolor","Phrynobatrachus","",VU,D
-276,275,"giorgii","Phrynobatrachus","",DD,U
-277,275,"alleni","Phrynobatrachus","",NT,D
-279,278,"gutturosus","Phrynobatrachus","Chabanaud's River Frog",LC,S
-280,278,"villiersi","Phrynobatrachus","",VU,D
-285,284,"mababiensis","Phrynobatrachus","",LC,S
-286,284,"ghanensis","Phrynobatrachus","",EN,D
-287,283,"keniensis","Phrynobatrachus","",LC,S
-288,282,"cornutus","Phrynobatrachus","",LC,D
-290,289,"francisci","Phrynobatrachus","",LC,S
-291,289,"tokba","Phrynobatrachus","",LC,S
-294,293,"gastoni","Phrynobatrachus","",DD,U
-295,293,"elberti","Phrynobatrachus","",DD,U
-296,292,"liberiensis","Phrynobatrachus","",NT,D
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"grayii","Strongylopus","Gray's Stream Frog",LC,S,-16731116
+13,11,"kilimanjaro","Strongylopus","",DD,U,-11513776
+14,10,"fasciatus","Strongylopus","Striped Stream Frog",LC,S,-16731116
+16,15,"springbokensis","Strongylopus","Namaqua Stream Frog",VU,D,-11184866
+17,15,"hymenopus","Strongylopus","Drakensberg Stream Frog",LC,U,-16731116
+21,20,"fuelleborni","Strongylopus","Fuelleborn's Stream Frog",LC,D,-16731116
+22,20,"rhodesianus","Strongylopus","Chimanimani Stream Frog",VU,D,-11184866
+23,19,"wageri","Strongylopus","Wager's Stream Frog",NT,D,-12486656
+24,18,"bonaespei","Strongylopus","Banded Stream Frog",LC,S,-16731116
+26,25,"merumontanus","Strongylopus","",VU,S,-11184866
+27,25,"kitumbeine","Strongylopus","",VU,S,-11184866
+34,33,"poyntoni","Cacosternum","Poynton's Caco",DD,U,-11513776
+35,33,"striatum","Cacosternum","Striped Caco",DD,U,-11513776
+36,32,"nanum","Cacosternum","Bronze Caco",LC,S,-16731116
+37,31,"platys","Cacosternum","Flat Caco",LC,S,-16731116
+39,38,"namaquense","Cacosternum","Namaqua Caco",LC,S,-16731116
+40,38,"leleupi","Cacosternum","Katanga Caco",DD,U,-11513776
+43,42,"boettgeri","Cacosternum","Boettger's Dainty Frog",LC,U,-16731116
+44,42,"karooicum","Cacosternum","Karoo Dainty Frog",DD,U,-11513776
+45,41,"capense","Cacosternum","Cape Caco",VU,D,-11184866
+47,46,"hewitti","Anhydrophryne","Hewitt's Moss Frog",LC,S,-16731116
+48,46,"rattrayi","Anhydrophryne","Hogsback Frog",EN,D,-8572416
+54,53,"inyangae","Amietia","Inyangani River Frog",EN,D,-8572416
+55,53,"vertebralis","Amietia","Ice Frog",LC,U,-16731116
+57,56,"dracomontana","Amietia","Drakensberg River Frog",LC,S,-16731116
+58,56,"wittei","Amietia","",DD,U,-11513776
+59,51,"vandijki","Amietia","",DD,U,-11513776
+60,50,"fuscigula","Amietia","Cape River Frog",LC,S,-16731116
+64,63,"angolensis","Amietia","Angola River Frog",LC,S,-16731116
+65,63,"desaegeri","Amietia","",DD,U,-11513776
+67,66,"johnstoni","Amietia","Johnston's River Frog",EN,D,-8572416
+68,66,"amieti","Amietia","",DD,U,-11513776
+69,61,"ruwenzorica","Amietia","",DD,U,-11513776
+75,74,"landdrosia","Arthroleptella","Landdros Moss Frog",NT,S,-12486656
+76,74,"drewesii","Arthroleptella","Drewes' Moss Frog",DD,S,-11513776
+77,73,"ngongoniensis","Arthroleptella","",NE,U,-16777216
+79,78,"bicolor","Arthroleptella","Bainskloof Moss Frog",LC,S,-16731116
+80,78,"subvoce","Arthroleptella","",DD,U,-11513776
+82,81,"lightfooti","Arthroleptella","Lightfoot's Moss Frog",NT,S,-12486656
+83,81,"villiersi","Arthroleptella","De Villier's Moss Frog",LC,S,-16731116
+84,70,"bonebergi","Natalobatrachus","",EN,D,-8572416
+89,88,"tandyi","Tomopterna","Tandy's Sand Frog",LC,S,-16731116
+90,88,"luganga","Tomopterna","",LC,S,-16731116
+91,87,"krugerensis","Tomopterna","Knocking Sand Frog",LC,S,-16731116
+93,92,"cryptotis","Tomopterna","Common Sand Frog",LC,S,-16731116
+94,92,"damarensis","Tomopterna","",DD,U,-11513776
+97,96,"delalandii","Tomopterna","Delalande's Sand Frog",LC,S,-16731116
+98,96,"marmorata","Tomopterna","Marbled Sand Frog",LC,U,-16731116
+100,99,"tuberculosa","Tomopterna","Rough Sand Frog",LC,S,-16731116
+101,99,"natalensis","Tomopterna","Natal Sand Frog",LC,S,-16731116
+105,104,"obbianus","Pyxicephalus","Calabresi's Bullfrog",LC,U,-16731116
+106,104,"edulis","Pyxicephalus","Edible Bullfrog",LC,S,-16731116
+107,103,"adspersus","Pyxicephalus","African Bullfrog",LC,D,-16731116
+109,108,"subsigillata","Aubria","",LC,S,-16731116
+110,108,"masako","Aubria","",LC,D,-16731116
+118,117,"johnstoni","Petropedetes","",NT,U,-12486656
+119,117,"parkeri","Petropedetes","",LC,D,-16731116
+120,116,"cameronensis","Petropedetes","",NT,D,-12486656
+122,121,"newtoni","Petropedetes","",LC,D,-16731116
+123,121,"perreti","Petropedetes","",EN,D,-8572416
+125,124,"palmipes","Petropedetes","",EN,D,-8572416
+126,124,"natator","Petropedetes","",NT,D,-12486656
+129,128,"dutoiti","Petropedetes","Du Toit's Torrent Frog",CR,D,-3014646
+130,128,"yakusini","Petropedetes","",EN,D,-8572416
+131,127,"martiensseni","Petropedetes","Usambara Torrent Frog",EN,D,-8572416
+138,137,"tenuilingua","Indirana","",DD,U,-11513776
+139,137,"leithii","Indirana","",VU,D,-11184866
+140,136,"semipalmata","Indirana","",LC,U,-16731116
+141,135,"gundia","Indirana","",CR,D,-3014646
+142,134,"longicrus","Indirana","",DD,U,-11513776
+145,144,"brachytarsus","Indirana","",EN,D,-8572416
+146,144,"phrynoderma","Indirana","",CR,D,-3014646
+147,143,"leptodactyla","Indirana","",EN,D,-8572416
+149,148,"diplosticta","Indirana","",EN,D,-8572416
+150,148,"beddomii","Indirana","",LC,D,-16731116
+154,153,"goliath","Conraua","Goliath Frog",EN,D,-8572416
+155,153,"beccarii","Conraua","",LC,D,-16731116
+156,152,"robusta","Conraua","",VU,D,-11184866
+159,158,"alleni","Conraua","",VU,D,-11184866
+160,158,"derooi","Conraua","",CR,D,-3014646
+161,157,"crassipes","Conraua","",LC,D,-16731116
+174,173,"hylaios","Phrynobatrachus","",LC,S,-16731116
+175,173,"dispar","Phrynobatrachus","",LC,S,-16731116
+176,172,"acridoides","Phrynobatrachus","",LC,S,-16731116
+178,177,"brevipalmatus","Phrynobatrachus","",DD,U,-11513776
+179,177,"phyllophilus","Phrynobatrachus","",NT,D,-12486656
+182,181,"perpalmatus","Phrynobatrachus","",LC,S,-16731116
+183,181,"pygmaeus","Phrynobatrachus","",DD,U,-11513776
+185,184,"accraensis","Phrynobatrachus","",NE,U,-16777216
+186,184,"asper","Phrynobatrachus","",DD,U,-11513776
+187,169,"werneri","Phrynobatrachus","",LC,S,-16731116
+191,190,"sulfureogularis","Phrynobatrachus","",DD,U,-11513776
+192,190,"cryptotis","Phrynobatrachus","",DD,U,-11513776
+193,189,"pakenhami","Phrynobatrachus","",EN,D,-8572416
+195,194,"cricogaster","Phrynobatrachus","",VU,D,-11184866
+196,194,"irangi","Phrynobatrachus","",EN,D,-8572416
+203,202,"manengoubensis","Phrynobatrachus","",DD,U,-11513776
+204,202,"fraterculus","Phrynobatrachus","",LC,D,-16731116
+205,201,"nanus","Phrynobatrachus","",DD,U,-11513776
+207,206,"natalensis","Phrynobatrachus","Natal Dwarf Puddle Frog",LC,S,-16731116
+208,206,"batesii","Phrynobatrachus","",LC,U,-16731116
+210,209,"albomarginatus","Phrynobatrachus","",DD,U,-11513776
+211,209,"minutus","Phrynobatrachus","",LC,U,-16731116
+214,213,"uzungwensis","Phrynobatrachus","",VU,D,-11184866
+215,213,"rungwensis","Phrynobatrachus","",LC,S,-16731116
+216,212,"vogti","Phrynobatrachus","",DD,U,-11513776
+217,197,"stewartae","Phrynobatrachus","",DD,U,-11513776
+224,223,"calcaratus","Phrynobatrachus","Boutry River Frog",LC,S,-16731116
+225,223,"anotis","Phrynobatrachus","",DD,U,-11513776
+226,222,"auritus","Phrynobatrachus","",LC,D,-16731116
+227,221,"scapularis","Phrynobatrachus","",LC,S,-16731116
+228,220,"africanus","Phrynobatrachus","",LC,D,-16731116
+229,219,"ukingensis","Phrynobatrachus","",DD,U,-11513776
+230,218,"albolabris","Phrynobatrachus","",DD,U,-11513776
+232,231,"bequaerti","Phrynobatrachus","",VU,D,-11184866
+233,231,"taiensis","Phrynobatrachus","",DD,U,-11513776
+239,238,"acutirostris","Phrynobatrachus","",VU,D,-11184866
+240,238,"dalcqi","Phrynobatrachus","",DD,D,-11513776
+241,237,"guineensis","Phrynobatrachus","",NT,D,-12486656
+244,243,"parvulus","Phrynobatrachus","",LC,S,-16731116
+245,243,"parkeri","Phrynobatrachus","",LC,S,-16731116
+246,242,"sternfeldi","Phrynobatrachus","",DD,U,-11513776
+248,247,"plicatus","Phrynobatrachus","Coast River Frog",LC,S,-16731116
+249,247,"bullans","Phrynobatrachus","",LC,U,-16731116
+255,254,"dendrobates","Phrynobatrachus","",LC,D,-16731116
+256,254,"rouxi","Phrynobatrachus","",DD,U,-11513776
+257,253,"graueri","Phrynobatrachus","",LC,U,-16731116
+258,252,"kinangopensis","Phrynobatrachus","",LC,S,-16731116
+259,251,"sandersoni","Phrynobatrachus","",LC,D,-16731116
+260,250,"krefftii","Phrynobatrachus","",EN,D,-8572416
+268,267,"steindachneri","Phrynobatrachus","",VU,D,-11184866
+269,267,"ogoensis","Phrynobatrachus","",DD,U,-11513776
+270,266,"annulatus","Phrynobatrachus","",EN,D,-8572416
+272,271,"inexpectatus","Phrynobatrachus","",DD,U,-11513776
+273,271,"congicus","Phrynobatrachus","",DD,U,-11513776
+274,264,"versicolor","Phrynobatrachus","",VU,D,-11184866
+276,275,"giorgii","Phrynobatrachus","",DD,U,-11513776
+277,275,"alleni","Phrynobatrachus","",NT,D,-12486656
+279,278,"gutturosus","Phrynobatrachus","Chabanaud's River Frog",LC,S,-16731116
+280,278,"villiersi","Phrynobatrachus","",VU,D,-11184866
+285,284,"mababiensis","Phrynobatrachus","",LC,S,-16731116
+286,284,"ghanensis","Phrynobatrachus","",EN,D,-8572416
+287,283,"keniensis","Phrynobatrachus","",LC,S,-16731116
+288,282,"cornutus","Phrynobatrachus","",LC,D,-16731116
+290,289,"francisci","Phrynobatrachus","",LC,S,-16731116
+291,289,"tokba","Phrynobatrachus","",LC,S,-16731116
+294,293,"gastoni","Phrynobatrachus","",DD,U,-11513776
+295,293,"elberti","Phrynobatrachus","",DD,U,-11513776
+296,292,"liberiensis","Phrynobatrachus","",NT,D,-12486656

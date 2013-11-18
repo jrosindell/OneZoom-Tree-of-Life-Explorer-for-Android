@@ -1,107 +1,107 @@
-index,parent,name1,name2,common,redlist,popstab
-20,19,"spilogaster","Hieraaetus","African Hawk-eagle",LC,U
-21,19,"fasciatus","Aquila","Bonelli's Eagle",LC,U
-22,18,"verreauxii","Aquila","Verreaux's Eagle",LC,U
-24,23,"audax","Aquila","Wedge-tailed Eagle",LC,U
-25,23,"gurneyi","Aquila","Gurney's Eagle",NT,U
-26,16,"africanus","Aquila","Cassin's Hawk-eagle",LC,U
-27,15,"chrysaetos","Aquila","Golden Eagle",LC,U
-31,30,"adalberti","Aquila","Spanish Imperial Eagle",VU,U
-32,30,"heliaca","Aquila","Eastern Imperial Eagle",VU,U
-33,29,"rapax","Aquila","Tawny Eagle",LC,U
-34,28,"nipalensis","Aquila","Steppe Eagle",LC,U
-39,38,"weiskei","Hieraaetus","New Guinea Hawk-eagle",LC,U
-40,38,"pennatus","Hieraaetus","Booted Eagle",LC,U
-41,37,"morphnoides","Hieraaetus","Little Eagle",LC,U
-42,36,"ayresii","Hieraaetus","Ayres's Hawk-eagle",LC,U
-43,35,"wahlbergi","Aquila","Wahlberg's Eagle",LC,U
-48,47,"pomarina","Aquila","Lesser Spotted Eagle",LC,U
-49,47,"clanga","Aquila","Greater Spotted Eagle",VU,U
-50,46,"hastata","Aquila","Indian Spotted Eagle",VU,U
-51,45,"malayensis","Ictinaetus","Black Eagle",LC,U
-52,44,"occipitalis","Lophaetus","Long-crested Eagle",LC,U
-53,11,"bellicosus","Polemaetus","Martial Eagle",NT,U
-54,10,"kienerii","Lophotriorchis","Rufous-bellied Eagle",LC,U
-58,57,"isidori","Spizaetus","Black-and-chestnut Eagle",VU,U
-59,57,"ornatus","Spizaetus","Ornate Hawk-eagle",LC,U
-60,56,"melanoleucus","Spizaetus","Black-and-white Hawk-eagle",LC,U
-61,55,"tyrannus","Spizaetus","Black Hawk-eagle",LC,U
-68,67,"alboniger","Nisaetus","Blyth's Hawk-eagle",LC,U
-69,67,"bartelsi","Nisaetus","Javan Hawk-eagle",EN,U
-70,66,"nipalensis","Nisaetus","Mountain Hawk-eagle",LC,U
-71,65,"floris","Nisaetus","Flores Hawk-eagle",CR,U
-72,64,"nanus","Nisaetus","Wallace's Hawk-eagle",VU,U
-75,74,"philippensis","Nisaetus","Philippine Hawk-eagle",VU,U
-76,74,"cirrhatus","Nisaetus","Changeable Hawk-eagle",LC,U
-77,73,"lanceolatus","Nisaetus","Sulawesi Hawk-eagle",LC,U
-78,62,"coronatus","Stephanoaetus","Crowned Hawk-eagle",LC,U
-82,81,"guianensis","Morphnus","Crested Eagle",NT,U
-83,81,"harpyja","Harpia","Harpy Eagle",NT,U
-84,80,"novaeguineae","Harpyopsis","New Guinea Eagle",VU,U
-85,79,"alcinus","Macheiramphus","Bat Hawk",LC,U
-94,93,"gallicus","Circaetus","Short-toed Snake-eagle",LC,U
-95,93,"cinereus","Circaetus","Brown Snake-eagle",LC,U
-96,92,"pectoralis","Circaetus","Black-chested Snake-eagle",LC,U
-98,97,"spectabilis","Dryotriorchis","Congo Serpent-eagle",LC,U
-99,97,"beaudouini","Circaetus","Beaudouin's Snake-eagle",VU,U
-101,100,"fasciolatus","Circaetus","Southern Banded Snake-eagle",NT,U
-102,100,"cinerascens","Circaetus","Banded Snake-eagle",LC,U
-103,89,"ecaudatus","Terathopius","Bateleur",NT,U
-109,108,"holospilus","Spilornis","Philippine Serpent-eagle",LC,U
-110,108,"rufipectus","Spilornis","Sulawesi Serpent-eagle",LC,U
-111,107,"cheela","Spilornis","Crested Serpent-eagle",LC,U
-112,106,"klossi","Spilornis","South Nicobar Serpent-eagle",NT,U
-113,105,"kinabaluensis","Spilornis","Mountain Serpent-eagle",VU,U
-114,104,"elgini","Spilornis","Andaman Serpent-eagle",NT,U
-115,87,"jefferyi","Pithecophaga","Philippine Eagle",CR,U
-124,123,"tenuirostris","Gyps","Slender-billed Vulture",CR,U
-125,123,"coprotheres","Gyps","Cape Vulture",VU,U
-126,122,"indicus","Gyps","Indian Vulture",CR,U
-128,127,"rueppellii","Gyps","Rueppell's Vulture",NT,U
-129,127,"fulvus","Gyps","Griffon Vulture",LC,U
-130,120,"himalayensis","Gyps","Himalayan Vulture",LC,U
-131,119,"bengalensis","Gyps","White-rumped Vulture",CR,U
-132,118,"africanus","Gyps","White-backed Vulture",NT,U
-133,117,"monachus","Necrosyrtes","Hooded Vulture",LC,U
-137,136,"tracheliotos","Torgos","Lappet-faced Vulture",VU,U
-138,136,"monachus","Aegypius","Cinereous Vulture",NT,U
-139,135,"occipitalis","Trigonoceps","White-headed Vulture",VU,U
-140,134,"calvus","Sarcogyps","Red-headed Vulture",CR,U
-149,148,"cuculoides","Aviceda","African Baza",LC,U
-150,148,"leuphotes","Aviceda","Black Baza",LC,U
-151,147,"jerdoni","Aviceda","Jerdon's Baza",LC,U
-153,152,"madagascariensis","Aviceda","Madagascar Baza",LC,U
-154,152,"subcristata","Aviceda","Pacific Baza",LC,U
-158,157,"longicauda","Henicopernis","Long-tailed Honey-buzzard",LC,U
-159,157,"infuscatus","Henicopernis","Black Honey-buzzard",VU,U
-160,156,"isura","Lophoictinia","Square-tailed Kite",LC,U
-161,155,"melanosternon","Hamirostra","Black-breasted Buzzard",LC,U
-165,164,"ptilorhyncus","Pernis","Oriental Honey-buzzard",LC,U
-166,164,"celebensis","Pernis","Barred Honey-buzzard",LC,U
-167,163,"apivorus","Pernis","European Honey-buzzard",LC,U
-168,162,"forficatus","Elanoides","American Swallow-tailed Kite",LC,U
-169,143,"astur","Eutriorchis","Madagascar Serpent-eagle",EN,U
-172,171,"uncinatus","Chondrohierax","Hook-billed Kite",LC,U
-173,171,"wilsonii","Chondrohierax","Cuban Kite",CR,U
-175,174,"cayanensis","Leptodon","Grey-headed Kite",LC,U
-176,174,"forbesi","Leptodon","White-collared Kite",CR,U
-180,179,"radiatus","Polyboroides","Madagascar Harrier-hawk",LC,U
-181,179,"typus","Polyboroides","African Harrier-hawk",LC,U
-182,178,"angolensis","Gypohierax","Palm-nut Vulture",LC,U
-184,183,"percnopterus","Neophron","Egyptian Vulture",EN,U
-185,183,"barbatus","Gypaetus","Lammergeier",LC,U
-189,188,"axillaris","Elanus","Black-shouldered Kite",LC,U
-190,188,"leucurus","Elanus","White-tailed Kite",LC,U
-192,191,"scriptus","Elanus","Letter-winged Kite",NT,U
-193,191,"caeruleus","Elanus","Black-winged Kite",LC,U
-195,194,"riocourii","Chelictinia","African Swallow-tailed Kite",LC,U
-196,194,"swainsonii","Gampsonyx","Pearl Kite",LC,U
-197,2,"haliaetus","Pandion","Osprey",LC,U
-198,1,"serpentarius","Sagittarius","Secretarybird",LC,U
-203,202,"melambrotus","Cathartes","Greater Yellow-headed Vulture",LC,U
-204,202,"burrovianus","Cathartes","Lesser Yellow-headed Vulture",LC,U
-205,201,"aura","Cathartes","Turkey Vulture",LC,U
-207,206,"californianus","Gymnogyps","California Condor",CR,U
-208,206,"atratus","Coragyps","Black Vulture",LC,U
-210,209,"papa","Sarcoramphus","King Vulture",LC,U
-211,209,"gryphus","Vultur","Andean Condor",NT,U
+index,parent,name1,name2,common,redlist,popstab,color
+20,19,"spilogaster","Hieraaetus","African Hawk-eagle",LC,U,-16731116
+21,19,"fasciatus","Aquila","Bonelli's Eagle",LC,U,-16731116
+22,18,"verreauxii","Aquila","Verreaux's Eagle",LC,U,-16731116
+24,23,"audax","Aquila","Wedge-tailed Eagle",LC,U,-16731116
+25,23,"gurneyi","Aquila","Gurney's Eagle",NT,U,-12486656
+26,16,"africanus","Aquila","Cassin's Hawk-eagle",LC,U,-16731116
+27,15,"chrysaetos","Aquila","Golden Eagle",LC,U,-16731116
+31,30,"adalberti","Aquila","Spanish Imperial Eagle",VU,U,-11184866
+32,30,"heliaca","Aquila","Eastern Imperial Eagle",VU,U,-11184866
+33,29,"rapax","Aquila","Tawny Eagle",LC,U,-16731116
+34,28,"nipalensis","Aquila","Steppe Eagle",LC,U,-16731116
+39,38,"weiskei","Hieraaetus","New Guinea Hawk-eagle",LC,U,-16731116
+40,38,"pennatus","Hieraaetus","Booted Eagle",LC,U,-16731116
+41,37,"morphnoides","Hieraaetus","Little Eagle",LC,U,-16731116
+42,36,"ayresii","Hieraaetus","Ayres's Hawk-eagle",LC,U,-16731116
+43,35,"wahlbergi","Aquila","Wahlberg's Eagle",LC,U,-16731116
+48,47,"pomarina","Aquila","Lesser Spotted Eagle",LC,U,-16731116
+49,47,"clanga","Aquila","Greater Spotted Eagle",VU,U,-11184866
+50,46,"hastata","Aquila","Indian Spotted Eagle",VU,U,-11184866
+51,45,"malayensis","Ictinaetus","Black Eagle",LC,U,-16731116
+52,44,"occipitalis","Lophaetus","Long-crested Eagle",LC,U,-16731116
+53,11,"bellicosus","Polemaetus","Martial Eagle",NT,U,-12486656
+54,10,"kienerii","Lophotriorchis","Rufous-bellied Eagle",LC,U,-16731116
+58,57,"isidori","Spizaetus","Black-and-chestnut Eagle",VU,U,-11184866
+59,57,"ornatus","Spizaetus","Ornate Hawk-eagle",LC,U,-16731116
+60,56,"melanoleucus","Spizaetus","Black-and-white Hawk-eagle",LC,U,-16731116
+61,55,"tyrannus","Spizaetus","Black Hawk-eagle",LC,U,-16731116
+68,67,"alboniger","Nisaetus","Blyth's Hawk-eagle",LC,U,-16731116
+69,67,"bartelsi","Nisaetus","Javan Hawk-eagle",EN,U,-8572416
+70,66,"nipalensis","Nisaetus","Mountain Hawk-eagle",LC,U,-16731116
+71,65,"floris","Nisaetus","Flores Hawk-eagle",CR,U,-3014646
+72,64,"nanus","Nisaetus","Wallace's Hawk-eagle",VU,U,-11184866
+75,74,"philippensis","Nisaetus","Philippine Hawk-eagle",VU,U,-11184866
+76,74,"cirrhatus","Nisaetus","Changeable Hawk-eagle",LC,U,-16731116
+77,73,"lanceolatus","Nisaetus","Sulawesi Hawk-eagle",LC,U,-16731116
+78,62,"coronatus","Stephanoaetus","Crowned Hawk-eagle",LC,U,-16731116
+82,81,"guianensis","Morphnus","Crested Eagle",NT,U,-12486656
+83,81,"harpyja","Harpia","Harpy Eagle",NT,U,-12486656
+84,80,"novaeguineae","Harpyopsis","New Guinea Eagle",VU,U,-11184866
+85,79,"alcinus","Macheiramphus","Bat Hawk",LC,U,-16731116
+94,93,"gallicus","Circaetus","Short-toed Snake-eagle",LC,U,-16731116
+95,93,"cinereus","Circaetus","Brown Snake-eagle",LC,U,-16731116
+96,92,"pectoralis","Circaetus","Black-chested Snake-eagle",LC,U,-16731116
+98,97,"spectabilis","Dryotriorchis","Congo Serpent-eagle",LC,U,-16731116
+99,97,"beaudouini","Circaetus","Beaudouin's Snake-eagle",VU,U,-11184866
+101,100,"fasciolatus","Circaetus","Southern Banded Snake-eagle",NT,U,-12486656
+102,100,"cinerascens","Circaetus","Banded Snake-eagle",LC,U,-16731116
+103,89,"ecaudatus","Terathopius","Bateleur",NT,U,-12486656
+109,108,"holospilus","Spilornis","Philippine Serpent-eagle",LC,U,-16731116
+110,108,"rufipectus","Spilornis","Sulawesi Serpent-eagle",LC,U,-16731116
+111,107,"cheela","Spilornis","Crested Serpent-eagle",LC,U,-16731116
+112,106,"klossi","Spilornis","South Nicobar Serpent-eagle",NT,U,-12486656
+113,105,"kinabaluensis","Spilornis","Mountain Serpent-eagle",VU,U,-11184866
+114,104,"elgini","Spilornis","Andaman Serpent-eagle",NT,U,-12486656
+115,87,"jefferyi","Pithecophaga","Philippine Eagle",CR,U,-3014646
+124,123,"tenuirostris","Gyps","Slender-billed Vulture",CR,U,-3014646
+125,123,"coprotheres","Gyps","Cape Vulture",VU,U,-11184866
+126,122,"indicus","Gyps","Indian Vulture",CR,U,-3014646
+128,127,"rueppellii","Gyps","Rueppell's Vulture",NT,U,-12486656
+129,127,"fulvus","Gyps","Griffon Vulture",LC,U,-16731116
+130,120,"himalayensis","Gyps","Himalayan Vulture",LC,U,-16731116
+131,119,"bengalensis","Gyps","White-rumped Vulture",CR,U,-3014646
+132,118,"africanus","Gyps","White-backed Vulture",NT,U,-12486656
+133,117,"monachus","Necrosyrtes","Hooded Vulture",LC,U,-16731116
+137,136,"tracheliotos","Torgos","Lappet-faced Vulture",VU,U,-11184866
+138,136,"monachus","Aegypius","Cinereous Vulture",NT,U,-12486656
+139,135,"occipitalis","Trigonoceps","White-headed Vulture",VU,U,-11184866
+140,134,"calvus","Sarcogyps","Red-headed Vulture",CR,U,-3014646
+149,148,"cuculoides","Aviceda","African Baza",LC,U,-16731116
+150,148,"leuphotes","Aviceda","Black Baza",LC,U,-16731116
+151,147,"jerdoni","Aviceda","Jerdon's Baza",LC,U,-16731116
+153,152,"madagascariensis","Aviceda","Madagascar Baza",LC,U,-16731116
+154,152,"subcristata","Aviceda","Pacific Baza",LC,U,-16731116
+158,157,"longicauda","Henicopernis","Long-tailed Honey-buzzard",LC,U,-16731116
+159,157,"infuscatus","Henicopernis","Black Honey-buzzard",VU,U,-11184866
+160,156,"isura","Lophoictinia","Square-tailed Kite",LC,U,-16731116
+161,155,"melanosternon","Hamirostra","Black-breasted Buzzard",LC,U,-16731116
+165,164,"ptilorhyncus","Pernis","Oriental Honey-buzzard",LC,U,-16731116
+166,164,"celebensis","Pernis","Barred Honey-buzzard",LC,U,-16731116
+167,163,"apivorus","Pernis","European Honey-buzzard",LC,U,-16731116
+168,162,"forficatus","Elanoides","American Swallow-tailed Kite",LC,U,-16731116
+169,143,"astur","Eutriorchis","Madagascar Serpent-eagle",EN,U,-8572416
+172,171,"uncinatus","Chondrohierax","Hook-billed Kite",LC,U,-16731116
+173,171,"wilsonii","Chondrohierax","Cuban Kite",CR,U,-3014646
+175,174,"cayanensis","Leptodon","Grey-headed Kite",LC,U,-16731116
+176,174,"forbesi","Leptodon","White-collared Kite",CR,U,-3014646
+180,179,"radiatus","Polyboroides","Madagascar Harrier-hawk",LC,U,-16731116
+181,179,"typus","Polyboroides","African Harrier-hawk",LC,U,-16731116
+182,178,"angolensis","Gypohierax","Palm-nut Vulture",LC,U,-16731116
+184,183,"percnopterus","Neophron","Egyptian Vulture",EN,U,-8572416
+185,183,"barbatus","Gypaetus","Lammergeier",LC,U,-16731116
+189,188,"axillaris","Elanus","Black-shouldered Kite",LC,U,-16731116
+190,188,"leucurus","Elanus","White-tailed Kite",LC,U,-16731116
+192,191,"scriptus","Elanus","Letter-winged Kite",NT,U,-12486656
+193,191,"caeruleus","Elanus","Black-winged Kite",LC,U,-16731116
+195,194,"riocourii","Chelictinia","African Swallow-tailed Kite",LC,U,-16731116
+196,194,"swainsonii","Gampsonyx","Pearl Kite",LC,U,-16731116
+197,2,"haliaetus","Pandion","Osprey",LC,U,-16731116
+198,1,"serpentarius","Sagittarius","Secretarybird",LC,U,-16731116
+203,202,"melambrotus","Cathartes","Greater Yellow-headed Vulture",LC,U,-16731116
+204,202,"burrovianus","Cathartes","Lesser Yellow-headed Vulture",LC,U,-16731116
+205,201,"aura","Cathartes","Turkey Vulture",LC,U,-16731116
+207,206,"californianus","Gymnogyps","California Condor",CR,U,-3014646
+208,206,"atratus","Coragyps","Black Vulture",LC,U,-16731116
+210,209,"papa","Sarcoramphus","King Vulture",LC,U,-16731116
+211,209,"gryphus","Vultur","Andean Condor",NT,U,-12486656

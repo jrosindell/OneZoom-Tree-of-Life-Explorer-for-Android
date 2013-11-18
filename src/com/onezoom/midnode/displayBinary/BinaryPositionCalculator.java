@@ -3,22 +3,23 @@ package com.onezoom.midnode.displayBinary;
 import android.util.Log;
 
 import com.onezoom.midnode.InteriorNode;
+import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
-import com.onezoom.midnode.PositionCalculator;
 
-public class BinaryPositionCalculator implements PositionCalculator {
+public class BinaryPositionCalculator {
 
-	@Override
+	
 	public void recalculate(MidNode midnode, float xp, float yp, float ws) {
+		Log.d("debug", "------  drawreg being calleld.");
 		drawreg2(xp, yp, ws * 220, midnode);
 	}
 
-	@Override
+	
 	public void recalculateDynamic(float xp, float yp, float ws, MidNode midNode) {
+		Log.d("debug", "------  drawreg dynamic being calleld.");
 		drawreg2Dynamic(xp, yp, ws * 220, midNode);
 	}
-
-	@Override
+	
 	public void calculateBoundingBox(MidNode midNode) {
 		if (midNode.child1 != null) {
 			MidNode.positionCalculator.calculateBoundingBox(midNode.child1);
@@ -29,7 +30,7 @@ public class BinaryPositionCalculator implements PositionCalculator {
 		calculateSelfBoundingBox(midNode);
 	}
 	
-	private void calculateSelfBoundingBox(MidNode midNode) {
+	public void calculateGBoundingBox(MidNode midNode) {
 		float [] maxAndMinX =new float [2];
 		float [] maxAndMinY =new float [2];
 
@@ -64,6 +65,17 @@ public class BinaryPositionCalculator implements PositionCalculator {
 		if (midNode.positionData.gymin > (midNode.positionData.arcy - midNode.positionData.arcr)) {
 			midNode.positionData.gymin = (midNode.positionData.arcy - midNode.positionData.arcr);
 		}
+		
+		if (midNode.getClass() == LeafNode.class) {
+			midNode.positionData.hxmax = midNode.positionData.gxmax;
+			midNode.positionData.hxmin = midNode.positionData.gxmin;
+			midNode.positionData.hymax = midNode.positionData.gymax;
+			midNode.positionData.hymin = midNode.positionData.gymin;
+		}
+	}
+	
+	private void calculateSelfBoundingBox(MidNode midNode) {
+		calculateGBoundingBox(midNode);
 		
 		midNode.positionData.hxmax = midNode.positionData.gxmax;
 		midNode.positionData.hxmin = midNode.positionData.gxmin;
@@ -148,21 +160,12 @@ public class BinaryPositionCalculator implements PositionCalculator {
 			drawreg2(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
-		} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
-			//TODO: init new chunk
-//			MidNode.initializer.createTreeChunk(midnode, 1);
-		} else if (midnode.getClass() != InteriorNode.class) {
-			//TODO: drop chunk;
 		}
 		
 		if (midnode.child2 != null && midnode.positionData.dvar) {
 			drawreg2(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
-		} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
-//			MidNode.initializer.createTreeChunk(midnode, 2);
-		} else if (midnode.getClass() != InteriorNode.class) {
-			//TODO: drop chunk;
 		}
 	}
 	
@@ -178,8 +181,10 @@ public class BinaryPositionCalculator implements PositionCalculator {
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
 		} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
-			//TODO: init new chunk
-			MidNode.initializer.createTreeChunk(midnode, 1);
+			midnode.child1 = MidNode.initializer.createFollowingOneFile(midnode, 1);
+			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
+					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
+					r * midnode.positionData.nextr1, midnode.child1);
 		} else if (midnode.getClass() != InteriorNode.class) {
 			//TODO: drop chunk;
 		}
@@ -189,7 +194,10 @@ public class BinaryPositionCalculator implements PositionCalculator {
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
 		} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
-			MidNode.initializer.createTreeChunk(midnode, 2);
+			midnode.child2 = MidNode.initializer.createFollowingOneFile(midnode, 2);
+			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
+					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
+					r * midnode.positionData.nextr2, midnode.child2);
 		} else if (midnode.getClass() != InteriorNode.class) {
 			//TODO: drop chunk;
 		}

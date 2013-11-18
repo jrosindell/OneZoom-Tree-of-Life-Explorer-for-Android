@@ -1,136 +1,136 @@
-index,parent,name1,name2,common,redlist,popstab
-19,18,"polylepis","Chalcides","Many-scaled Cylindrical Skink",LC,D
-20,18,"mionecton","Chalcides","Mionecton Skink",LC,U
-22,21,"bedriagai","Chalcides","Bedriaga's Skink",NT,D
-23,21,"colosii","Chalcides","Riffian Skink",LC,D
-24,16,"ocellatus","Chalcides","",NE,U
-25,15,"guentheri","Chalcides","G??????nther's Cylindrical Skink",VU,D
-26,14,"thierryi","Chalcides","",NE,U
-30,29,"ragazzi","Chalcides","",NE,U
-31,29,"ghiarai","Chalcides","",NE,U
-32,28,"levitoni","Chalcides","",NE,U
-33,27,"viridanus","Chalcides","West Canary Skink",LC,S
-36,35,"pseudostriatus","Chalcides","Moroccan Three-toed Skink",NT,D
-37,35,"mauritanicus","Chalcides","Two-fingered Skink",EN,D
-38,34,"manueli","Chalcides","Manuel's Skink",VU,D
-40,39,"striatus","Chalcides","Western Three-toed Skink",LC,D
-41,39,"sexlineatus","Chalcides","Gran Canaria Skink",LC,S
-45,44,"minutus","Chalcides","Small Three-toed Skink",VU,D
-46,44,"armitagei","Chalcides","",NE,U
-47,43,"chalcides","Chalcides","Italian Three-toed Skink",LC,D
-49,48,"pulchellus","Chalcides","",NE,U
-50,48,"lanzai","Chalcides","",NT,U
-52,51,"sepsoides","Sphenops","Wedge-snouted Skink",LC,S
-53,51,"sphenopsiformis","Sphenops","",NE,U
-60,59,"gronovii","Scelotes","Gronovi's Dwarf Burrowing Skink",NT,U
-61,59,"sexlineatus","Scelotes","",NE,U
-62,58,"bipes","Scelotes","",NE,U
-63,57,"caffer","Scelotes","",NE,U
-64,56,"uluguruensis","Scelotes","",NE,U
-67,66,"anguina","Scelotes","",NE,U
-68,66,"mirus","Scelotes","",NE,U
-69,65,"arenicola","Scelotes","",NE,U
-70,54,"eggeli","Proscelotes","",NE,U
-84,83,"macrocercus","Amphiglossus","",NE,U
-85,83,"punctatus","Amphiglossus","",NE,U
-87,86,"ornaticeps","Amphiglossus","",NE,U
-88,86,"melanurus","Amphiglossus","",NE,U
-89,81,"braconnieri","Pygomeles","",NE,U
-90,80,"splendidus","Amphiglossus","",NE,U
-92,91,"fierinensis","Voeltzkowia","",NE,U
-93,91,"lineata","Voeltzkowia","",NE,U
-94,78,"menamainty","Pseudoacontias","",NE,U
-98,97,"intermedius","Amphiglossus","",NE,U
-99,97,"stumpffi","Amphiglossus","",NE,U
-100,96,"mouroundavae","Amphiglossus","",NE,U
-101,95,"melanopleura","Amphiglossus","",NE,U
-103,102,"frontoparietalis","Amphiglossus","",NE,U
-104,102,"reticulatus","Amphiglossus","",NE,U
-105,75,"tsaratananensis","Amphiglossus","",NE,U
-108,107,"astrolabi","Amphiglossus","",NE,U
-109,107,"nanus","Amphiglossus","",NE,U
-110,106,"tanysoma","Amphiglossus","",NE,U
-112,111,"igneocaudatus","Amphiglossus","",NE,U
-113,111,"crenni","Amphiglossus","",NE,U
-116,115,"hildebrandti","Paracontias","",NE,U
-117,115,"brocchii","Paracontias","",NE,U
-118,114,"holomelas","Paracontias","",NE,U
-119,71,"simonyi","Hakaria","",NE,U
-121,120,"punctatissimus","Typhlacontias","",NE,U
-122,120,"brevipes","Typhlacontias","",NE,U
-124,123,"schwartzei","Mesoscincus","",LC,S
-125,123,"managuae","Mesoscincus","",NE,U
-127,126,"braueri","Janetaescincus","Brauer's Burrowing Skink",EN,D
-128,126,"boulengeri","Feylinia","",NE,U
-133,132,"pavimentatus","Eumeces","",NE,U
-134,132,"schneideri","Eumeces","",NE,U
-136,135,"mitranus","Scincus","",NE,U
-137,135,"scincus","Scincus","",NE,U
-138,130,"fasciatus","Scincopus","",NE,U
-139,129,"taeniolatus","Eurylepis","",NE,U
-152,151,"gracilicauda","Acontias","",NE,U
-153,151,"plumbeus","Acontias","",NE,U
-154,150,"breviceps","Acontias","",NE,U
-155,149,"percivali","Acontias","",NE,U
-156,148,"litoralis","Acontias","",NE,U
-157,147,"meleagris","Acontias","",NE,U
-158,146,"lineatus","Acontophiops","Woodbush Legless Skink",VU,U
-164,163,"brevicollis","Anomalopus","",NE,U
-165,163,"gowi","Anomalopus","",NE,U
-166,162,"pluto","Anomalopus","",NE,U
-168,167,"leuckartii","Anomalopus","",NE,U
-169,167,"verreauxi","Anomalopus","",NE,U
-170,160,"swansoni","Anomalopus","",NE,U
-171,159,"mackayi","Anomalopus","Long-legged Worm-skink",VU,U
-174,173,"smithi","Oligosoma","",NE,U
-175,173,"moco","Oligosoma","",NE,U
-176,172,"zelandicum","Oligosoma","",NE,U
-177,143,"caecus","Typhlosaurus","",NE,U
-180,179,"bivittatus","Ablepharus","Two-streaked Snake-eyed Skink",LC,D
-181,179,"deserti","Ablepharus","",NE,U
-182,178,"kitaibelii","Ablepharus","European Copper Skink",LC,S
-183,141,"blochmanni","Leptosiaphos","",NE,U
-185,184,"gyldenstolpei","Isopachys","Gyldenstolpe's Worm Skink",DD,U
-186,184,"roulei","Isopachys","",NE,U
-199,198,"vittifer","Cordylus","",NE,U
-200,198,"peersi","Cordylus","",NE,U
-201,197,"giganteus","Cordylus","Giant Girdled Lizard",VU,U
-202,196,"warreni","Cordylus","",NE,U
-206,205,"cordylus","Cordylus","",NE,U
-207,205,"niger","Cordylus","",NE,U
-208,204,"macropholis","Cordylus","",NE,U
-209,203,"tropidosternum","Cordylus","",NE,U
-211,210,"cataphractus","Cordylus","Armadillo Girdled Lizard",VU,U
-212,210,"polyzonus","Cordylus","",NE,U
-213,193,"caeruleopunctatus","Cordylus","",NE,U
-215,214,"microlepidotus","Cordylus","",NE,U
-216,214,"namaquensis","Cordylus","",NE,U
-217,191,"spinosus","Cordylus","",NE,U
-221,220,"intermedius","Platysaurus","",NE,U
-222,220,"capensis","Platysaurus","",NE,U
-223,219,"maculatus","Platysaurus","",NE,U
-224,218,"guttatus","Platysaurus","",NE,U
-226,225,"macrolepis","Chamaesaura","",NE,U
-227,225,"anguina","Chamaesaura","",NE,U
-235,234,"nigrolineatus","Gerrhosaurus","",NE,U
-236,234,"flavigularis","Gerrhosaurus","",NE,U
-237,233,"validus","Gerrhosaurus","",NE,U
-238,232,"major","Gerrhosaurus","",NE,U
-239,231,"skoogi","Gerrhosaurus","",NE,U
-242,241,"tetradactylus","Tetradactylus","",NE,U
-243,241,"africanus","Tetradactylus","",NE,U
-244,240,"seps","Tetradactylus","",NE,U
-248,247,"maximus","Zonosaurus","",NE,U
-249,247,"ornatus","Zonosaurus","",NE,U
-250,246,"madagascariensis","Zonosaurus","Madagascar Girdled Lizard",LC,S
-252,251,"madagascariensis","Tracheloptychus","",NE,U
-253,251,"petersi","Tracheloptychus","",NE,U
-254,228,"subtesselatus","Cordylosaurus","",NE,U
-259,258,"arizonae","Xantusia","Arizona Night Lizard",LC,S
-260,258,"vigilis","Xantusia","Desert Night Lizard",LC,S
-261,257,"riversiana","Xantusia","Island Night Lizard",LC,S
-262,256,"henshawi","Xantusia","Granite Night Lizard",LC,S
-266,265,"gaigeae","Lepidophyma","",VU,D
-267,265,"smithii","Lepidophyma","",NE,U
-268,264,"flavimaculatum","Lepidophyma","",NE,U
-269,263,"typica","Cricosaura","",NE,U
+index,parent,name1,name2,common,redlist,popstab,color
+19,18,"polylepis","Chalcides","Many-scaled Cylindrical Skink",LC,D,-16731116
+20,18,"mionecton","Chalcides","Mionecton Skink",LC,U,-16731116
+22,21,"bedriagai","Chalcides","Bedriaga's Skink",NT,D,-12486656
+23,21,"colosii","Chalcides","Riffian Skink",LC,D,-16731116
+24,16,"ocellatus","Chalcides","",NE,U,-16777216
+25,15,"guentheri","Chalcides","G??????nther's Cylindrical Skink",VU,D,-11184866
+26,14,"thierryi","Chalcides","",NE,U,-16777216
+30,29,"ragazzi","Chalcides","",NE,U,-16777216
+31,29,"ghiarai","Chalcides","",NE,U,-16777216
+32,28,"levitoni","Chalcides","",NE,U,-16777216
+33,27,"viridanus","Chalcides","West Canary Skink",LC,S,-16731116
+36,35,"pseudostriatus","Chalcides","Moroccan Three-toed Skink",NT,D,-12486656
+37,35,"mauritanicus","Chalcides","Two-fingered Skink",EN,D,-8572416
+38,34,"manueli","Chalcides","Manuel's Skink",VU,D,-11184866
+40,39,"striatus","Chalcides","Western Three-toed Skink",LC,D,-16731116
+41,39,"sexlineatus","Chalcides","Gran Canaria Skink",LC,S,-16731116
+45,44,"minutus","Chalcides","Small Three-toed Skink",VU,D,-11184866
+46,44,"armitagei","Chalcides","",NE,U,-16777216
+47,43,"chalcides","Chalcides","Italian Three-toed Skink",LC,D,-16731116
+49,48,"pulchellus","Chalcides","",NE,U,-16777216
+50,48,"lanzai","Chalcides","",NT,U,-12486656
+52,51,"sepsoides","Sphenops","Wedge-snouted Skink",LC,S,-16731116
+53,51,"sphenopsiformis","Sphenops","",NE,U,-16777216
+60,59,"gronovii","Scelotes","Gronovi's Dwarf Burrowing Skink",NT,U,-12486656
+61,59,"sexlineatus","Scelotes","",NE,U,-16777216
+62,58,"bipes","Scelotes","",NE,U,-16777216
+63,57,"caffer","Scelotes","",NE,U,-16777216
+64,56,"uluguruensis","Scelotes","",NE,U,-16777216
+67,66,"anguina","Scelotes","",NE,U,-16777216
+68,66,"mirus","Scelotes","",NE,U,-16777216
+69,65,"arenicola","Scelotes","",NE,U,-16777216
+70,54,"eggeli","Proscelotes","",NE,U,-16777216
+84,83,"macrocercus","Amphiglossus","",NE,U,-16777216
+85,83,"punctatus","Amphiglossus","",NE,U,-16777216
+87,86,"ornaticeps","Amphiglossus","",NE,U,-16777216
+88,86,"melanurus","Amphiglossus","",NE,U,-16777216
+89,81,"braconnieri","Pygomeles","",NE,U,-16777216
+90,80,"splendidus","Amphiglossus","",NE,U,-16777216
+92,91,"fierinensis","Voeltzkowia","",NE,U,-16777216
+93,91,"lineata","Voeltzkowia","",NE,U,-16777216
+94,78,"menamainty","Pseudoacontias","",NE,U,-16777216
+98,97,"intermedius","Amphiglossus","",NE,U,-16777216
+99,97,"stumpffi","Amphiglossus","",NE,U,-16777216
+100,96,"mouroundavae","Amphiglossus","",NE,U,-16777216
+101,95,"melanopleura","Amphiglossus","",NE,U,-16777216
+103,102,"frontoparietalis","Amphiglossus","",NE,U,-16777216
+104,102,"reticulatus","Amphiglossus","",NE,U,-16777216
+105,75,"tsaratananensis","Amphiglossus","",NE,U,-16777216
+108,107,"astrolabi","Amphiglossus","",NE,U,-16777216
+109,107,"nanus","Amphiglossus","",NE,U,-16777216
+110,106,"tanysoma","Amphiglossus","",NE,U,-16777216
+112,111,"igneocaudatus","Amphiglossus","",NE,U,-16777216
+113,111,"crenni","Amphiglossus","",NE,U,-16777216
+116,115,"hildebrandti","Paracontias","",NE,U,-16777216
+117,115,"brocchii","Paracontias","",NE,U,-16777216
+118,114,"holomelas","Paracontias","",NE,U,-16777216
+119,71,"simonyi","Hakaria","",NE,U,-16777216
+121,120,"punctatissimus","Typhlacontias","",NE,U,-16777216
+122,120,"brevipes","Typhlacontias","",NE,U,-16777216
+124,123,"schwartzei","Mesoscincus","",LC,S,-16731116
+125,123,"managuae","Mesoscincus","",NE,U,-16777216
+127,126,"braueri","Janetaescincus","Brauer's Burrowing Skink",EN,D,-8572416
+128,126,"boulengeri","Feylinia","",NE,U,-16777216
+133,132,"pavimentatus","Eumeces","",NE,U,-16777216
+134,132,"schneideri","Eumeces","",NE,U,-16777216
+136,135,"mitranus","Scincus","",NE,U,-16777216
+137,135,"scincus","Scincus","",NE,U,-16777216
+138,130,"fasciatus","Scincopus","",NE,U,-16777216
+139,129,"taeniolatus","Eurylepis","",NE,U,-16777216
+152,151,"gracilicauda","Acontias","",NE,U,-16777216
+153,151,"plumbeus","Acontias","",NE,U,-16777216
+154,150,"breviceps","Acontias","",NE,U,-16777216
+155,149,"percivali","Acontias","",NE,U,-16777216
+156,148,"litoralis","Acontias","",NE,U,-16777216
+157,147,"meleagris","Acontias","",NE,U,-16777216
+158,146,"lineatus","Acontophiops","Woodbush Legless Skink",VU,U,-11184866
+164,163,"brevicollis","Anomalopus","",NE,U,-16777216
+165,163,"gowi","Anomalopus","",NE,U,-16777216
+166,162,"pluto","Anomalopus","",NE,U,-16777216
+168,167,"leuckartii","Anomalopus","",NE,U,-16777216
+169,167,"verreauxi","Anomalopus","",NE,U,-16777216
+170,160,"swansoni","Anomalopus","",NE,U,-16777216
+171,159,"mackayi","Anomalopus","Long-legged Worm-skink",VU,U,-11184866
+174,173,"smithi","Oligosoma","",NE,U,-16777216
+175,173,"moco","Oligosoma","",NE,U,-16777216
+176,172,"zelandicum","Oligosoma","",NE,U,-16777216
+177,143,"caecus","Typhlosaurus","",NE,U,-16777216
+180,179,"bivittatus","Ablepharus","Two-streaked Snake-eyed Skink",LC,D,-16731116
+181,179,"deserti","Ablepharus","",NE,U,-16777216
+182,178,"kitaibelii","Ablepharus","European Copper Skink",LC,S,-16731116
+183,141,"blochmanni","Leptosiaphos","",NE,U,-16777216
+185,184,"gyldenstolpei","Isopachys","Gyldenstolpe's Worm Skink",DD,U,-11513776
+186,184,"roulei","Isopachys","",NE,U,-16777216
+199,198,"vittifer","Cordylus","",NE,U,-16777216
+200,198,"peersi","Cordylus","",NE,U,-16777216
+201,197,"giganteus","Cordylus","Giant Girdled Lizard",VU,U,-11184866
+202,196,"warreni","Cordylus","",NE,U,-16777216
+206,205,"cordylus","Cordylus","",NE,U,-16777216
+207,205,"niger","Cordylus","",NE,U,-16777216
+208,204,"macropholis","Cordylus","",NE,U,-16777216
+209,203,"tropidosternum","Cordylus","",NE,U,-16777216
+211,210,"cataphractus","Cordylus","Armadillo Girdled Lizard",VU,U,-11184866
+212,210,"polyzonus","Cordylus","",NE,U,-16777216
+213,193,"caeruleopunctatus","Cordylus","",NE,U,-16777216
+215,214,"microlepidotus","Cordylus","",NE,U,-16777216
+216,214,"namaquensis","Cordylus","",NE,U,-16777216
+217,191,"spinosus","Cordylus","",NE,U,-16777216
+221,220,"intermedius","Platysaurus","",NE,U,-16777216
+222,220,"capensis","Platysaurus","",NE,U,-16777216
+223,219,"maculatus","Platysaurus","",NE,U,-16777216
+224,218,"guttatus","Platysaurus","",NE,U,-16777216
+226,225,"macrolepis","Chamaesaura","",NE,U,-16777216
+227,225,"anguina","Chamaesaura","",NE,U,-16777216
+235,234,"nigrolineatus","Gerrhosaurus","",NE,U,-16777216
+236,234,"flavigularis","Gerrhosaurus","",NE,U,-16777216
+237,233,"validus","Gerrhosaurus","",NE,U,-16777216
+238,232,"major","Gerrhosaurus","",NE,U,-16777216
+239,231,"skoogi","Gerrhosaurus","",NE,U,-16777216
+242,241,"tetradactylus","Tetradactylus","",NE,U,-16777216
+243,241,"africanus","Tetradactylus","",NE,U,-16777216
+244,240,"seps","Tetradactylus","",NE,U,-16777216
+248,247,"maximus","Zonosaurus","",NE,U,-16777216
+249,247,"ornatus","Zonosaurus","",NE,U,-16777216
+250,246,"madagascariensis","Zonosaurus","Madagascar Girdled Lizard",LC,S,-16731116
+252,251,"madagascariensis","Tracheloptychus","",NE,U,-16777216
+253,251,"petersi","Tracheloptychus","",NE,U,-16777216
+254,228,"subtesselatus","Cordylosaurus","",NE,U,-16777216
+259,258,"arizonae","Xantusia","Arizona Night Lizard",LC,S,-16731116
+260,258,"vigilis","Xantusia","Desert Night Lizard",LC,S,-16731116
+261,257,"riversiana","Xantusia","Island Night Lizard",LC,S,-16731116
+262,256,"henshawi","Xantusia","Granite Night Lizard",LC,S,-16731116
+266,265,"gaigeae","Lepidophyma","",VU,D,-11184866
+267,265,"smithii","Lepidophyma","",NE,U,-16777216
+268,264,"flavimaculatum","Lepidophyma","",NE,U,-16777216
+269,263,"typica","Cricosaura","",NE,U,-16777216

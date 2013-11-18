@@ -1,154 +1,154 @@
-index,parent,name1,name2,common,redlist,popstab
-13,12,"marinus","Chaunus","Cane Toad",NE,U
-14,12,"poeppigii","Chaunus","",NE,U
-16,15,"sternosignatus","Chaunus","",NE,U
-17,15,"limensis","Chaunus","",NE,U
-19,18,"granulosus","Chaunus","",NE,U
-20,18,"nesiotes","Chaunus","",NE,U
-24,23,"diptychus","Chaunus","",NE,U
-25,23,"dorbignyi","Chaunus","",NE,U
-26,22,"ictericus","Chaunus","",NE,U
-27,21,"ornatus","Chaunus","",NE,U
-28,8,"crucifer","Chaunus","",NE,U
-30,29,"gnustae","Chaunus","",NE,U
-31,29,"beebei","Chaunus","",NE,U
-36,35,"henseli","Chaunus","",NE,U
-37,35,"bergi","Chaunus","",NE,U
-38,34,"jimi","Chaunus","",NE,U
-39,33,"gallardoi","Chaunus","",NE,U
-41,40,"vellardi","Chaunus","",NE,U
-42,40,"inca","Chaunus","",NE,U
-47,46,"multiverrucosus","Chaunus","",NE,U
-48,46,"spinulosus","Chaunus","",NE,U
-49,45,"arborescandens","Chaunus","",NE,U
-50,44,"achalensis","Chaunus","",NE,U
-51,43,"rumbolli","Chaunus","",NE,U
-55,54,"justinianoi","Chaunus","",NE,U
-56,54,"rubescens","Chaunus","",NE,U
-57,53,"pygmaeus","Chaunus","",NE,U
-58,52,"amabilis","Chaunus","",NE,U
-65,64,"fissipes","Chaunus","",NE,U
-66,64,"arenarum","Chaunus","",NE,U
-67,63,"quechua","Chaunus","",NE,U
-68,62,"atacamensis","Chaunus","",NE,U
-70,69,"schneideri","Chaunus","",NE,U
-71,69,"chavin","Chaunus","",NE,U
-75,74,"rubropunctatus","Chaunus","",NE,U
-76,74,"pombali","Chaunus","",NE,U
-78,77,"amboroensis","Chaunus","",NE,U
-79,77,"arunco","Chaunus","",NE,U
-80,72,"veraguensis","Chaunus","",NE,U
-82,81,"fernandezae","Chaunus","",NE,U
-83,81,"abei","Chaunus","",NE,U
-92,91,"melanochlora","Ollotis","",NE,U
-93,91,"cristata","Ollotis","",NE,U
-95,94,"bocourti","Ollotis","",NE,U
-96,94,"porteri","Ollotis","",NE,U
-97,89,"campbelli","Ollotis","",NE,U
-100,99,"valliceps","Ollotis","",NE,U
-101,99,"signifer","Ollotis","",NE,U
-102,98,"luetkenii","Ollotis","",NE,U
-104,103,"conifera","Ollotis","",NE,U
-105,103,"alvaria","Ollotis","",NE,U
-109,108,"macrocristata","Ollotis","",NE,U
-110,108,"gemmifer","Ollotis","",NE,U
-111,107,"mazatlanensis","Ollotis","",NE,U
-114,113,"canalifera","Ollotis","",NE,U
-115,113,"leucomyos","Ollotis","",NE,U
-116,112,"cycladen","Ollotis","",NE,U
-117,85,"nebulifer","Ollotis","",NE,U
-124,123,"peripatetes","Ollotis","",NE,U
-125,123,"coccifer","Ollotis","",NE,U
-126,122,"occidentalis","Ollotis","",NE,U
-129,128,"tacanensis","Ollotis","",NE,U
-130,128,"spiculata","Ollotis","",NE,U
-131,127,"pisinna","Ollotis","",NE,U
-134,133,"fastidiosa","Ollotis","",NE,U
-135,133,"marmorea","Ollotis","",NE,U
-136,132,"periglenes","Ollotis","",NE,U
-140,139,"tutelaria","Ollotis","",NE,U
-141,139,"aucoinae","Ollotis","",NE,U
-142,138,"ibarrai","Ollotis","",NE,U
-144,143,"holdridgei","Ollotis","",NE,U
-145,143,"perplexa","Ollotis","",NE,U
-146,118,"cavifrons","Ollotis","",NE,U
-156,155,"californicus","Anaxyrus","Arroyo Toad",EN,D
-157,155,"compactilis","Anaxyrus","",LC,U
-158,154,"quercicus","Anaxyrus","Oak Toad",LC,S
-160,159,"mexicanus","Anaxyrus","Southwestern Toad",NT,D
-161,159,"hemiophrys","Anaxyrus","Canadian Toad",LC,D
-162,152,"punctatus","Anaxyrus","",LC,S
-163,151,"fowleri","Anaxyrus","Fowler's Toad",LC,S
-164,150,"terrestris","Anaxyrus","Southern Toad",LC,S
-165,149,"speciosus","Anaxyrus","Texas Toad",LC,S
-169,168,"retiformis","Anaxyrus","Sonoran Green Toad",LC,S
-170,168,"nelsoni","Anaxyrus","",EN,D
-171,167,"debilis","Anaxyrus","",LC,S
-173,172,"kelloggi","Anaxyrus","Little Mexican Toad",LC,S
-174,172,"microscaphus","Anaxyrus","Arizona Toad",LC,D
-179,178,"boreas","Anaxyrus","Boreal Toad",NT,D
-180,178,"exsul","Anaxyrus","Black Toad",VU,S
-181,177,"americanus","Anaxyrus","American Toad",LC,S
-183,182,"cognatus","Anaxyrus","Great Plains Toad",LC,D
-184,182,"canorus","Anaxyrus","Yosemite Toad",EN,D
-187,186,"woodhousii","Anaxyrus","Woodhouse's Toad",LC,S
-188,186,"baxteri","Anaxyrus","Wyoming Toad",EW,D
-189,185,"houstonensis","Anaxyrus","Houston Toad",EN,D
-201,200,"pantherinus","Amietophrynus","Western Leopard Toad",EN,D
-202,200,"latifrons","Amietophrynus","",LC,D
-203,199,"gutturalis","Amietophrynus","African Common Toad",LC,I
-205,204,"kassasii","Amietophrynus","Nile Delta Toad",LC,S
-206,204,"garmani","Amietophrynus","",LC,S
-208,207,"kerinyagae","Amietophrynus","",LC,U
-209,207,"poweri","Amietophrynus","",LC,U
-212,211,"tuberosus","Amietophrynus","",LC,D
-213,211,"brauni","Amietophrynus","",EN,D
-214,210,"lemairii","Amietophrynus","",LC,D
-217,216,"regularis","Amietophrynus","African Common Toad",LC,S
-218,216,"steindachneri","Amietophrynus","",LC,D
-219,215,"turkanae","Amietophrynus","",DD,D
-227,226,"taiensis","Amietophrynus","",CR,D
-228,226,"vittatus","Amietophrynus","",DD,U
-229,225,"funereus","Amietophrynus","",LC,D
-231,230,"urunguensis","Amietophrynus","",DD,U
-232,230,"chudeaui","Amietophrynus","",DD,U
-235,234,"blanfordii","Amietophrynus","Blanford's Toad",LC,U
-236,234,"djohongensis","Amietophrynus","",EN,D
-237,233,"camerunensis","Amietophrynus","",LC,U
-238,222,"danielae","Amietophrynus","",DD,U
-239,221,"buchneri","Amietophrynus","",DD,U
-242,241,"asmarae","Amietophrynus","Asmara Toad",LC,U
-243,241,"reesi","Amietophrynus","",DD,U
-244,240,"fuliginatus","Amietophrynus","",LC,U
-249,248,"rangeri","Amietophrynus","Ranger's Toad",LC,D
-250,248,"perreti","Amietophrynus","",VU,U
-251,247,"kisoloensis","Amietophrynus","",LC,D
-252,246,"gracilipes","Amietophrynus","",LC,D
-255,254,"xeros","Amietophrynus","Subdesert Toad",LC,S
-256,254,"togoensis","Amietophrynus","",NT,D
-257,253,"langanoensis","Amietophrynus","",DD,U
-261,260,"pardalis","Amietophrynus","Eastern Leopard Toad",LC,D
-262,260,"cristiglans","Amietophrynus","",DD,U
-263,259,"superciliaris","Amietophrynus","African Giant Toad",LC,U
-265,264,"villiersi","Amietophrynus","",EN,D
-266,264,"maculatus","Amietophrynus","",LC,S
-274,273,"micranotis","Mertensophryne","",LC,D
-275,273,"usambarae","Mertensophryne","",EN,D
-276,272,"melanopleura","Mertensophryne","",LC,U
-278,277,"anotis","Mertensophryne","Chirinda Toad",EN,D
-279,277,"taitana","Mertensophryne","",LC,D
-280,270,"lindneri","Mertensophryne","",LC,D
-284,283,"mocquardi","Mertensophryne","",DD,U
-285,283,"howelli","Mertensophryne","",EN,D
-286,282,"lonnbergi","Mertensophryne","",NT,D
-289,288,"loveridgei","Mertensophryne","",LC,D
-290,288,"nyikae","Mertensophryne","",VU,S
-291,287,"schmidti","Mertensophryne","",DD,U
-292,268,"uzunguensis","Mertensophryne","",VU,D
-296,295,"robinsoni","Vandijkophrynus","Paradise Toad",LC,S
-297,295,"angusticeps","Vandijkophrynus","Sand Toad",LC,D
-298,294,"gariepensis","Vandijkophrynus","Karoo Toad",LC,S
-300,299,"amatolicus","Vandijkophrynus","Amatola Toad",EN,D
-301,299,"inyangae","Vandijkophrynus","Inyanga Toad",EN,D
-303,302,"tradouwi","Capensibufo","Tradouw's Mountain Toad",LC,D
-304,302,"rosei","Capensibufo","Rose's Mountain Toad",VU,D
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"marinus","Chaunus","Cane Toad",NE,U,-16777216
+14,12,"poeppigii","Chaunus","",NE,U,-16777216
+16,15,"sternosignatus","Chaunus","",NE,U,-16777216
+17,15,"limensis","Chaunus","",NE,U,-16777216
+19,18,"granulosus","Chaunus","",NE,U,-16777216
+20,18,"nesiotes","Chaunus","",NE,U,-16777216
+24,23,"diptychus","Chaunus","",NE,U,-16777216
+25,23,"dorbignyi","Chaunus","",NE,U,-16777216
+26,22,"ictericus","Chaunus","",NE,U,-16777216
+27,21,"ornatus","Chaunus","",NE,U,-16777216
+28,8,"crucifer","Chaunus","",NE,U,-16777216
+30,29,"gnustae","Chaunus","",NE,U,-16777216
+31,29,"beebei","Chaunus","",NE,U,-16777216
+36,35,"henseli","Chaunus","",NE,U,-16777216
+37,35,"bergi","Chaunus","",NE,U,-16777216
+38,34,"jimi","Chaunus","",NE,U,-16777216
+39,33,"gallardoi","Chaunus","",NE,U,-16777216
+41,40,"vellardi","Chaunus","",NE,U,-16777216
+42,40,"inca","Chaunus","",NE,U,-16777216
+47,46,"multiverrucosus","Chaunus","",NE,U,-16777216
+48,46,"spinulosus","Chaunus","",NE,U,-16777216
+49,45,"arborescandens","Chaunus","",NE,U,-16777216
+50,44,"achalensis","Chaunus","",NE,U,-16777216
+51,43,"rumbolli","Chaunus","",NE,U,-16777216
+55,54,"justinianoi","Chaunus","",NE,U,-16777216
+56,54,"rubescens","Chaunus","",NE,U,-16777216
+57,53,"pygmaeus","Chaunus","",NE,U,-16777216
+58,52,"amabilis","Chaunus","",NE,U,-16777216
+65,64,"fissipes","Chaunus","",NE,U,-16777216
+66,64,"arenarum","Chaunus","",NE,U,-16777216
+67,63,"quechua","Chaunus","",NE,U,-16777216
+68,62,"atacamensis","Chaunus","",NE,U,-16777216
+70,69,"schneideri","Chaunus","",NE,U,-16777216
+71,69,"chavin","Chaunus","",NE,U,-16777216
+75,74,"rubropunctatus","Chaunus","",NE,U,-16777216
+76,74,"pombali","Chaunus","",NE,U,-16777216
+78,77,"amboroensis","Chaunus","",NE,U,-16777216
+79,77,"arunco","Chaunus","",NE,U,-16777216
+80,72,"veraguensis","Chaunus","",NE,U,-16777216
+82,81,"fernandezae","Chaunus","",NE,U,-16777216
+83,81,"abei","Chaunus","",NE,U,-16777216
+92,91,"melanochlora","Ollotis","",NE,U,-16777216
+93,91,"cristata","Ollotis","",NE,U,-16777216
+95,94,"bocourti","Ollotis","",NE,U,-16777216
+96,94,"porteri","Ollotis","",NE,U,-16777216
+97,89,"campbelli","Ollotis","",NE,U,-16777216
+100,99,"valliceps","Ollotis","",NE,U,-16777216
+101,99,"signifer","Ollotis","",NE,U,-16777216
+102,98,"luetkenii","Ollotis","",NE,U,-16777216
+104,103,"conifera","Ollotis","",NE,U,-16777216
+105,103,"alvaria","Ollotis","",NE,U,-16777216
+109,108,"macrocristata","Ollotis","",NE,U,-16777216
+110,108,"gemmifer","Ollotis","",NE,U,-16777216
+111,107,"mazatlanensis","Ollotis","",NE,U,-16777216
+114,113,"canalifera","Ollotis","",NE,U,-16777216
+115,113,"leucomyos","Ollotis","",NE,U,-16777216
+116,112,"cycladen","Ollotis","",NE,U,-16777216
+117,85,"nebulifer","Ollotis","",NE,U,-16777216
+124,123,"peripatetes","Ollotis","",NE,U,-16777216
+125,123,"coccifer","Ollotis","",NE,U,-16777216
+126,122,"occidentalis","Ollotis","",NE,U,-16777216
+129,128,"tacanensis","Ollotis","",NE,U,-16777216
+130,128,"spiculata","Ollotis","",NE,U,-16777216
+131,127,"pisinna","Ollotis","",NE,U,-16777216
+134,133,"fastidiosa","Ollotis","",NE,U,-16777216
+135,133,"marmorea","Ollotis","",NE,U,-16777216
+136,132,"periglenes","Ollotis","",NE,U,-16777216
+140,139,"tutelaria","Ollotis","",NE,U,-16777216
+141,139,"aucoinae","Ollotis","",NE,U,-16777216
+142,138,"ibarrai","Ollotis","",NE,U,-16777216
+144,143,"holdridgei","Ollotis","",NE,U,-16777216
+145,143,"perplexa","Ollotis","",NE,U,-16777216
+146,118,"cavifrons","Ollotis","",NE,U,-16777216
+156,155,"californicus","Anaxyrus","Arroyo Toad",EN,D,-8572416
+157,155,"compactilis","Anaxyrus","",LC,U,-16731116
+158,154,"quercicus","Anaxyrus","Oak Toad",LC,S,-16731116
+160,159,"mexicanus","Anaxyrus","Southwestern Toad",NT,D,-12486656
+161,159,"hemiophrys","Anaxyrus","Canadian Toad",LC,D,-16731116
+162,152,"punctatus","Anaxyrus","",LC,S,-16731116
+163,151,"fowleri","Anaxyrus","Fowler's Toad",LC,S,-16731116
+164,150,"terrestris","Anaxyrus","Southern Toad",LC,S,-16731116
+165,149,"speciosus","Anaxyrus","Texas Toad",LC,S,-16731116
+169,168,"retiformis","Anaxyrus","Sonoran Green Toad",LC,S,-16731116
+170,168,"nelsoni","Anaxyrus","",EN,D,-8572416
+171,167,"debilis","Anaxyrus","",LC,S,-16731116
+173,172,"kelloggi","Anaxyrus","Little Mexican Toad",LC,S,-16731116
+174,172,"microscaphus","Anaxyrus","Arizona Toad",LC,D,-16731116
+179,178,"boreas","Anaxyrus","Boreal Toad",NT,D,-12486656
+180,178,"exsul","Anaxyrus","Black Toad",VU,S,-11184866
+181,177,"americanus","Anaxyrus","American Toad",LC,S,-16731116
+183,182,"cognatus","Anaxyrus","Great Plains Toad",LC,D,-16731116
+184,182,"canorus","Anaxyrus","Yosemite Toad",EN,D,-8572416
+187,186,"woodhousii","Anaxyrus","Woodhouse's Toad",LC,S,-16731116
+188,186,"baxteri","Anaxyrus","Wyoming Toad",EW,D,-12832121
+189,185,"houstonensis","Anaxyrus","Houston Toad",EN,D,-8572416
+201,200,"pantherinus","Amietophrynus","Western Leopard Toad",EN,D,-8572416
+202,200,"latifrons","Amietophrynus","",LC,D,-16731116
+203,199,"gutturalis","Amietophrynus","African Common Toad",LC,I,-16731116
+205,204,"kassasii","Amietophrynus","Nile Delta Toad",LC,S,-16731116
+206,204,"garmani","Amietophrynus","",LC,S,-16731116
+208,207,"kerinyagae","Amietophrynus","",LC,U,-16731116
+209,207,"poweri","Amietophrynus","",LC,U,-16731116
+212,211,"tuberosus","Amietophrynus","",LC,D,-16731116
+213,211,"brauni","Amietophrynus","",EN,D,-8572416
+214,210,"lemairii","Amietophrynus","",LC,D,-16731116
+217,216,"regularis","Amietophrynus","African Common Toad",LC,S,-16731116
+218,216,"steindachneri","Amietophrynus","",LC,D,-16731116
+219,215,"turkanae","Amietophrynus","",DD,D,-11513776
+227,226,"taiensis","Amietophrynus","",CR,D,-3014646
+228,226,"vittatus","Amietophrynus","",DD,U,-11513776
+229,225,"funereus","Amietophrynus","",LC,D,-16731116
+231,230,"urunguensis","Amietophrynus","",DD,U,-11513776
+232,230,"chudeaui","Amietophrynus","",DD,U,-11513776
+235,234,"blanfordii","Amietophrynus","Blanford's Toad",LC,U,-16731116
+236,234,"djohongensis","Amietophrynus","",EN,D,-8572416
+237,233,"camerunensis","Amietophrynus","",LC,U,-16731116
+238,222,"danielae","Amietophrynus","",DD,U,-11513776
+239,221,"buchneri","Amietophrynus","",DD,U,-11513776
+242,241,"asmarae","Amietophrynus","Asmara Toad",LC,U,-16731116
+243,241,"reesi","Amietophrynus","",DD,U,-11513776
+244,240,"fuliginatus","Amietophrynus","",LC,U,-16731116
+249,248,"rangeri","Amietophrynus","Ranger's Toad",LC,D,-16731116
+250,248,"perreti","Amietophrynus","",VU,U,-11184866
+251,247,"kisoloensis","Amietophrynus","",LC,D,-16731116
+252,246,"gracilipes","Amietophrynus","",LC,D,-16731116
+255,254,"xeros","Amietophrynus","Subdesert Toad",LC,S,-16731116
+256,254,"togoensis","Amietophrynus","",NT,D,-12486656
+257,253,"langanoensis","Amietophrynus","",DD,U,-11513776
+261,260,"pardalis","Amietophrynus","Eastern Leopard Toad",LC,D,-16731116
+262,260,"cristiglans","Amietophrynus","",DD,U,-11513776
+263,259,"superciliaris","Amietophrynus","African Giant Toad",LC,U,-16731116
+265,264,"villiersi","Amietophrynus","",EN,D,-8572416
+266,264,"maculatus","Amietophrynus","",LC,S,-16731116
+274,273,"micranotis","Mertensophryne","",LC,D,-16731116
+275,273,"usambarae","Mertensophryne","",EN,D,-8572416
+276,272,"melanopleura","Mertensophryne","",LC,U,-16731116
+278,277,"anotis","Mertensophryne","Chirinda Toad",EN,D,-8572416
+279,277,"taitana","Mertensophryne","",LC,D,-16731116
+280,270,"lindneri","Mertensophryne","",LC,D,-16731116
+284,283,"mocquardi","Mertensophryne","",DD,U,-11513776
+285,283,"howelli","Mertensophryne","",EN,D,-8572416
+286,282,"lonnbergi","Mertensophryne","",NT,D,-12486656
+289,288,"loveridgei","Mertensophryne","",LC,D,-16731116
+290,288,"nyikae","Mertensophryne","",VU,S,-11184866
+291,287,"schmidti","Mertensophryne","",DD,U,-11513776
+292,268,"uzunguensis","Mertensophryne","",VU,D,-11184866
+296,295,"robinsoni","Vandijkophrynus","Paradise Toad",LC,S,-16731116
+297,295,"angusticeps","Vandijkophrynus","Sand Toad",LC,D,-16731116
+298,294,"gariepensis","Vandijkophrynus","Karoo Toad",LC,S,-16731116
+300,299,"amatolicus","Vandijkophrynus","Amatola Toad",EN,D,-8572416
+301,299,"inyangae","Vandijkophrynus","Inyanga Toad",EN,D,-8572416
+303,302,"tradouwi","Capensibufo","Tradouw's Mountain Toad",LC,D,-16731116
+304,302,"rosei","Capensibufo","Rose's Mountain Toad",VU,D,-11184866

@@ -1,107 +1,107 @@
-index,parent,name1,name2,common,redlist,popstab
-13,12,"rufiventris","Ardeola","Rufous-bellied Heron",LC,U
-14,12,"speciosa","Ardeola","Javan Pond-heron",LC,U
-15,11,"idae","Ardeola","Madagascar Pond-heron",EN,U
-18,17,"bacchus","Ardeola","Chinese Pond-heron",LC,U
-19,17,"grayii","Ardeola","Indian Pond-heron",LC,U
-20,16,"ralloides","Ardeola","Squacco Heron",LC,U
-22,21,"nycticorax","Nycticorax","Black-crowned Night-heron",LC,U
-23,21,"caledonicus","Nycticorax","Rufous Night-heron",LC,U
-28,27,"melanolophus","Gorsachius","Malaysian Night-heron",LC,U
-29,27,"goisagi","Gorsachius","Japanese Night-heron",EN,U
-30,26,"magnificus","Gorsachius","White-eared Night-heron",EN,U
-31,25,"leuconotus","Gorsachius","White-backed Night-heron",LC,U
-32,24,"violacea","Nyctanassa","Yellow-crowned Night-heron",LC,U
-40,39,"cinerea","Ardea","Grey Heron",LC,U
-41,39,"cocoi","Ardea","Cocoi Heron",LC,U
-42,38,"herodias","Ardea","Great Blue Heron",LC,U
-44,43,"melanocephala","Ardea","Black-headed Heron",LC,U
-45,43,"picata","Ardea","Pied Heron",LC,U
-47,46,"insignis","Ardea","White-bellied Heron",CR,U
-48,46,"purpurea","Ardea","Purple Heron",LC,U
-51,50,"sumatrana","Ardea","Great-billed Heron",LC,U
-52,50,"pacifica","Ardea","White-necked Heron",LC,U
-54,53,"humbloti","Ardea","Madagascar Heron",EN,U
-55,53,"goliath","Ardea","Goliath Heron",LC,U
-57,56,"intermedia","Mesophoyx","Intermediate Egret",LC,U
-58,56,"albus","Casmerodius","Great Egret",LC,U
-59,33,"ibis","Bubulcus","Cattle Egret",LC,U
-63,62,"striata","Butorides","Striated Heron",LC,U
-64,62,"virescens","Butorides","Green Heron",LC,U
-65,61,"pileatus","Pilherodius","Capped Heron",LC,U
-66,60,"agami","Agamia","Agami Heron",LC,U
-73,72,"novaehollandiae","Egretta","White-faced Heron",LC,U
-74,72,"gularis","Egretta","Western Reef-egret",LC,U
-75,71,"ardesiaca","Egretta","Black Heron",LC,U
-76,70,"vinaceigula","Egretta","Slaty Egret",VU,U
-79,78,"garzetta","Egretta","Little Egret",LC,U
-80,78,"thula","Egretta","Snowy Egret",LC,U
-81,77,"eulophotes","Egretta","Chinese Egret",VU,U
-84,83,"caerulea","Egretta","Little Blue Heron",LC,U
-85,83,"sacra","Egretta","Pacific Reef-egret",LC,U
-87,86,"tricolor","Egretta","Tricoloured Heron",LC,U
-88,86,"rufescens","Egretta","Reddish Egret",NT,U
-89,67,"sibilatrix","Syrigma","Whistling Heron",LC,U
-98,97,"poiciloptilus","Botaurus","Australasian Bittern",EN,U
-99,97,"stellaris","Botaurus","Great Bittern",LC,U
-101,100,"lentiginosus","Botaurus","American Bittern",LC,U
-102,100,"pinnatus","Botaurus","Pinnated Bittern",LC,U
-103,95,"exilis","Ixobrychus","Least Bittern",LC,U
-104,94,"minutus","Ixobrychus","Little Bittern",LC,U
-105,93,"sturmii","Ixobrychus","Dwarf Bittern",LC,U
-106,92,"involucris","Ixobrychus","Stripe-backed Bittern",LC,U
-109,108,"cinnamomeus","Ixobrychus","Cinnamon Bittern",LC,U
-110,108,"flavicollis","Ixobrychus","Black Bittern",LC,U
-112,111,"eurhythmus","Ixobrychus","Schrenck's Bittern",LC,U
-113,111,"sinensis","Ixobrychus","Yellow Bittern",LC,U
-114,90,"undulatus","Zebrilus","Zigzag Heron",LC,U
-117,116,"cochlearius","Cochlearius","Boat-billed Heron",LC,U
-118,116,"heliosylus","Zonerodius","Forest Bittern",NT,U
-119,115,"leucolopha","Tigriornis","White-crested Tiger-heron",LC,U
-122,121,"mexicanum","Tigrisoma","Bare-throated Tiger-heron",LC,U
-123,121,"lineatum","Tigrisoma","Rufescent Tiger-heron",LC,U
-124,120,"fasciatum","Tigrisoma","Fasciated Tiger-heron",LC,U
-137,136,"aethiopicus","Threskiornis","African Sacred Ibis",LC,U
-138,136,"bernieri","Threskiornis","Madagascar Sacred Ibis",EN,U
-140,139,"melanocephalus","Threskiornis","Black-headed Ibis",NT,U
-141,139,"spinicollis","Threskiornis","Straw-necked Ibis",LC,U
-142,134,"molucca","Threskiornis","Australian Sacred Ibis",LC,U
-145,144,"leucorodia","Platalea","Eurasian Spoonbill",LC,U
-146,144,"minor","Platalea","Black-faced Spoonbill",EN,U
-147,143,"alba","Platalea","African Spoonbill",LC,U
-149,148,"flavipes","Platalea","Yellow-billed Spoonbill",LC,U
-150,148,"nippon","Nipponia","Asian Crested Ibis",EN,U
-152,151,"cristata","Lophotibis","Madagascar Crested Ibis",NT,U
-153,151,"regia","Platalea","Royal Spoonbill",LC,U
-157,156,"olivacea","Bostrychia","African Olive Ibis",LC,U
-158,156,"hagedash","Bostrychia","Hadada Ibis",LC,U
-160,159,"carunculata","Bostrychia","Wattled Ibis",LC,U
-161,159,"rara","Bostrychia","Spot-breasted Ibis",LC,U
-162,154,"bocagei","Bostrychia","Dwarf Olive Ibis",CR,U
-165,164,"davisoni","Pseudibis","White-shouldered Ibis",CR,U
-166,164,"papillosa","Pseudibis","Red-naped Ibis",LC,U
-167,163,"ajaja","Platalea","Roseate Spoonbill",LC,U
-168,128,"cayennensis","Mesembrinibis","Green Ibis",LC,U
-171,170,"falcinellus","Plegadis","Glossy Ibis",LC,U
-172,170,"chihi","Plegadis","White-faced Ibis",LC,U
-173,169,"ridgwayi","Plegadis","Puna Ibis",LC,U
-179,178,"caerulescens","Theristicus","Plumbeous Ibis",LC,U
-180,178,"caudatus","Theristicus","Buff-necked Ibis",LC,U
-182,181,"ruber","Eudocimus","Scarlet Ibis",LC,U
-183,181,"albus","Eudocimus","White Ibis",LC,U
-184,176,"melanopis","Theristicus","Black-faced Ibis",LC,U
-185,175,"oxycerca","Cercibis","Sharp-tailed Ibis",LC,U
-188,187,"eremita","Geronticus","Northern Bald Ibis",CR,U
-189,187,"calvus","Geronticus","Southern Bald Ibis",VU,U
-190,186,"infuscatus","Phimosus","Bare-faced Ibis",LC,U
-191,125,"gigantea","Thaumatibis","Giant Ibis",CR,U
-197,196,"erythrorhynchos","Pelecanus","American White Pelican",LC,U
-198,196,"occidentalis","Pelecanus","Brown Pelican",LC,U
-199,195,"thagus","Pelecanus","Peruvian Pelican",NT,U
-201,200,"conspicillatus","Pelecanus","Australian Pelican",LC,U
-202,200,"philippensis","Pelecanus","Spot-billed Pelican",NT,U
-205,204,"onocrotalus","Pelecanus","Great White Pelican",LC,U
-206,204,"crispus","Pelecanus","Dalmatian Pelican",VU,U
-207,203,"rufescens","Pelecanus","Pink-backed Pelican",LC,U
-209,208,"rex","Balaeniceps","Shoebill",VU,U
-210,208,"umbretta","Scopus","Hamerkop",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"rufiventris","Ardeola","Rufous-bellied Heron",LC,U,-16731116
+14,12,"speciosa","Ardeola","Javan Pond-heron",LC,U,-16731116
+15,11,"idae","Ardeola","Madagascar Pond-heron",EN,U,-8572416
+18,17,"bacchus","Ardeola","Chinese Pond-heron",LC,U,-16731116
+19,17,"grayii","Ardeola","Indian Pond-heron",LC,U,-16731116
+20,16,"ralloides","Ardeola","Squacco Heron",LC,U,-16731116
+22,21,"nycticorax","Nycticorax","Black-crowned Night-heron",LC,U,-16731116
+23,21,"caledonicus","Nycticorax","Rufous Night-heron",LC,U,-16731116
+28,27,"melanolophus","Gorsachius","Malaysian Night-heron",LC,U,-16731116
+29,27,"goisagi","Gorsachius","Japanese Night-heron",EN,U,-8572416
+30,26,"magnificus","Gorsachius","White-eared Night-heron",EN,U,-8572416
+31,25,"leuconotus","Gorsachius","White-backed Night-heron",LC,U,-16731116
+32,24,"violacea","Nyctanassa","Yellow-crowned Night-heron",LC,U,-16731116
+40,39,"cinerea","Ardea","Grey Heron",LC,U,-16731116
+41,39,"cocoi","Ardea","Cocoi Heron",LC,U,-16731116
+42,38,"herodias","Ardea","Great Blue Heron",LC,U,-16731116
+44,43,"melanocephala","Ardea","Black-headed Heron",LC,U,-16731116
+45,43,"picata","Ardea","Pied Heron",LC,U,-16731116
+47,46,"insignis","Ardea","White-bellied Heron",CR,U,-3014646
+48,46,"purpurea","Ardea","Purple Heron",LC,U,-16731116
+51,50,"sumatrana","Ardea","Great-billed Heron",LC,U,-16731116
+52,50,"pacifica","Ardea","White-necked Heron",LC,U,-16731116
+54,53,"humbloti","Ardea","Madagascar Heron",EN,U,-8572416
+55,53,"goliath","Ardea","Goliath Heron",LC,U,-16731116
+57,56,"intermedia","Mesophoyx","Intermediate Egret",LC,U,-16731116
+58,56,"albus","Casmerodius","Great Egret",LC,U,-16731116
+59,33,"ibis","Bubulcus","Cattle Egret",LC,U,-16731116
+63,62,"striata","Butorides","Striated Heron",LC,U,-16731116
+64,62,"virescens","Butorides","Green Heron",LC,U,-16731116
+65,61,"pileatus","Pilherodius","Capped Heron",LC,U,-16731116
+66,60,"agami","Agamia","Agami Heron",LC,U,-16731116
+73,72,"novaehollandiae","Egretta","White-faced Heron",LC,U,-16731116
+74,72,"gularis","Egretta","Western Reef-egret",LC,U,-16731116
+75,71,"ardesiaca","Egretta","Black Heron",LC,U,-16731116
+76,70,"vinaceigula","Egretta","Slaty Egret",VU,U,-11184866
+79,78,"garzetta","Egretta","Little Egret",LC,U,-16731116
+80,78,"thula","Egretta","Snowy Egret",LC,U,-16731116
+81,77,"eulophotes","Egretta","Chinese Egret",VU,U,-11184866
+84,83,"caerulea","Egretta","Little Blue Heron",LC,U,-16731116
+85,83,"sacra","Egretta","Pacific Reef-egret",LC,U,-16731116
+87,86,"tricolor","Egretta","Tricoloured Heron",LC,U,-16731116
+88,86,"rufescens","Egretta","Reddish Egret",NT,U,-12486656
+89,67,"sibilatrix","Syrigma","Whistling Heron",LC,U,-16731116
+98,97,"poiciloptilus","Botaurus","Australasian Bittern",EN,U,-8572416
+99,97,"stellaris","Botaurus","Great Bittern",LC,U,-16731116
+101,100,"lentiginosus","Botaurus","American Bittern",LC,U,-16731116
+102,100,"pinnatus","Botaurus","Pinnated Bittern",LC,U,-16731116
+103,95,"exilis","Ixobrychus","Least Bittern",LC,U,-16731116
+104,94,"minutus","Ixobrychus","Little Bittern",LC,U,-16731116
+105,93,"sturmii","Ixobrychus","Dwarf Bittern",LC,U,-16731116
+106,92,"involucris","Ixobrychus","Stripe-backed Bittern",LC,U,-16731116
+109,108,"cinnamomeus","Ixobrychus","Cinnamon Bittern",LC,U,-16731116
+110,108,"flavicollis","Ixobrychus","Black Bittern",LC,U,-16731116
+112,111,"eurhythmus","Ixobrychus","Schrenck's Bittern",LC,U,-16731116
+113,111,"sinensis","Ixobrychus","Yellow Bittern",LC,U,-16731116
+114,90,"undulatus","Zebrilus","Zigzag Heron",LC,U,-16731116
+117,116,"cochlearius","Cochlearius","Boat-billed Heron",LC,U,-16731116
+118,116,"heliosylus","Zonerodius","Forest Bittern",NT,U,-12486656
+119,115,"leucolopha","Tigriornis","White-crested Tiger-heron",LC,U,-16731116
+122,121,"mexicanum","Tigrisoma","Bare-throated Tiger-heron",LC,U,-16731116
+123,121,"lineatum","Tigrisoma","Rufescent Tiger-heron",LC,U,-16731116
+124,120,"fasciatum","Tigrisoma","Fasciated Tiger-heron",LC,U,-16731116
+137,136,"aethiopicus","Threskiornis","African Sacred Ibis",LC,U,-16731116
+138,136,"bernieri","Threskiornis","Madagascar Sacred Ibis",EN,U,-8572416
+140,139,"melanocephalus","Threskiornis","Black-headed Ibis",NT,U,-12486656
+141,139,"spinicollis","Threskiornis","Straw-necked Ibis",LC,U,-16731116
+142,134,"molucca","Threskiornis","Australian Sacred Ibis",LC,U,-16731116
+145,144,"leucorodia","Platalea","Eurasian Spoonbill",LC,U,-16731116
+146,144,"minor","Platalea","Black-faced Spoonbill",EN,U,-8572416
+147,143,"alba","Platalea","African Spoonbill",LC,U,-16731116
+149,148,"flavipes","Platalea","Yellow-billed Spoonbill",LC,U,-16731116
+150,148,"nippon","Nipponia","Asian Crested Ibis",EN,U,-8572416
+152,151,"cristata","Lophotibis","Madagascar Crested Ibis",NT,U,-12486656
+153,151,"regia","Platalea","Royal Spoonbill",LC,U,-16731116
+157,156,"olivacea","Bostrychia","African Olive Ibis",LC,U,-16731116
+158,156,"hagedash","Bostrychia","Hadada Ibis",LC,U,-16731116
+160,159,"carunculata","Bostrychia","Wattled Ibis",LC,U,-16731116
+161,159,"rara","Bostrychia","Spot-breasted Ibis",LC,U,-16731116
+162,154,"bocagei","Bostrychia","Dwarf Olive Ibis",CR,U,-3014646
+165,164,"davisoni","Pseudibis","White-shouldered Ibis",CR,U,-3014646
+166,164,"papillosa","Pseudibis","Red-naped Ibis",LC,U,-16731116
+167,163,"ajaja","Platalea","Roseate Spoonbill",LC,U,-16731116
+168,128,"cayennensis","Mesembrinibis","Green Ibis",LC,U,-16731116
+171,170,"falcinellus","Plegadis","Glossy Ibis",LC,U,-16731116
+172,170,"chihi","Plegadis","White-faced Ibis",LC,U,-16731116
+173,169,"ridgwayi","Plegadis","Puna Ibis",LC,U,-16731116
+179,178,"caerulescens","Theristicus","Plumbeous Ibis",LC,U,-16731116
+180,178,"caudatus","Theristicus","Buff-necked Ibis",LC,U,-16731116
+182,181,"ruber","Eudocimus","Scarlet Ibis",LC,U,-16731116
+183,181,"albus","Eudocimus","White Ibis",LC,U,-16731116
+184,176,"melanopis","Theristicus","Black-faced Ibis",LC,U,-16731116
+185,175,"oxycerca","Cercibis","Sharp-tailed Ibis",LC,U,-16731116
+188,187,"eremita","Geronticus","Northern Bald Ibis",CR,U,-3014646
+189,187,"calvus","Geronticus","Southern Bald Ibis",VU,U,-11184866
+190,186,"infuscatus","Phimosus","Bare-faced Ibis",LC,U,-16731116
+191,125,"gigantea","Thaumatibis","Giant Ibis",CR,U,-3014646
+197,196,"erythrorhynchos","Pelecanus","American White Pelican",LC,U,-16731116
+198,196,"occidentalis","Pelecanus","Brown Pelican",LC,U,-16731116
+199,195,"thagus","Pelecanus","Peruvian Pelican",NT,U,-12486656
+201,200,"conspicillatus","Pelecanus","Australian Pelican",LC,U,-16731116
+202,200,"philippensis","Pelecanus","Spot-billed Pelican",NT,U,-12486656
+205,204,"onocrotalus","Pelecanus","Great White Pelican",LC,U,-16731116
+206,204,"crispus","Pelecanus","Dalmatian Pelican",VU,U,-11184866
+207,203,"rufescens","Pelecanus","Pink-backed Pelican",LC,U,-16731116
+209,208,"rex","Balaeniceps","Shoebill",VU,U,-11184866
+210,208,"umbretta","Scopus","Hamerkop",LC,U,-16731116

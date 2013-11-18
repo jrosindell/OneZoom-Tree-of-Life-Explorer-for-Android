@@ -1,104 +1,104 @@
-index,parent,name1,name2,common,redlist,popstab
-15,14,"duodecimcostatus","Microtus","Mediterranean Pine Vole",LC,S
-16,14,"lusitanicus","Microtus","Lusitanian Pine Vole",LC,U
-17,13,"thomasi","Microtus","Thomas's Pine Vole",LC,S
-18,12,"schelkovnikovi","Microtus","Schelkovnikov's Pine Vole",NT,D
-22,21,"bavaricus","Microtus","Bavarian Pine Vole",CR,D
-23,21,"tatricus","Microtus","Tatra Vole",LC,S
-24,20,"subterraneus","Microtus","Common Pine Vole",LC,S
-25,19,"daghestanicus","Microtus","Caucasus Pine Vole",LC,U
-30,29,"brachycercus","Microtus","Calabria Pine Vole",LC,S
-31,29,"savii","Microtus","Savi's Pine Vole",LC,S
-32,28,"felteni","Microtus","Balkan Pine Vole",DD,U
-33,27,"gerbei","Microtus","Gerbe's Vole",LC,S
-35,34,"liechtensteini","Microtus","Liechtenstein's Pine Vole",LC,U
-36,34,"multiplex","Microtus","Alpine Pine Vole",LC,S
-37,9,"majori","Microtus","",LC,S
-38,8,"umbrosus","Microtus","Zempoaltepec Vole",EN,D
-45,44,"sachalinensis","Microtus","Sakhalin Vole",NT,U
-46,44,"mongolicus","Microtus","Mongolian Vole",LC,S
-47,43,"middendorffii","Microtus","Middendorff's Vole",LC,U
-50,49,"maximowiczii","Microtus","Maximowicz's Vole",LC,U
-51,49,"mujanensis","Microtus","Muisk Vole",DD,U
-52,48,"evoronensis","Microtus","Evoron Vole",DD,U
-53,41,"fortis","Microtus","Reed Vole",LC,U
-57,56,"forresti","Neodon","Forrest's Mountain Vole",DD,U
-58,56,"irene","Neodon","Irene's Mountain Vole",LC,U
-59,55,"sikimensis","Neodon","Sikkim Vole",LC,U
-61,60,"leucurus","Phaiomys","Blyth's Vole",LC,U
-62,60,"juldaschi","Neodon","Juniper Vole",LC,U
-65,64,"gregalis","Microtus","Narrow-headed Vole",LC,S
-66,64,"miurus","Microtus","Singing Vole",LC,S
-67,63,"abbreviatus","Microtus","Insular Vole",LC,S
-72,71,"paradoxus","Microtus","Kopetdag Pine Vole",LC,U
-73,71,"irani","Microtus","Persian Vole",DD,U
-74,70,"guentheri","Microtus","Gunther's Vole",LC,S
-76,75,"schidlovskii","Microtus","Schidlovsky Pine Vole",LC,U
-77,75,"socialis","Microtus","Social Vole",LC,S
-81,80,"ilaeus","Microtus","Kazakhstan Vole",LC,U
-82,80,"arvalis","Microtus","Common Vole",LC,S
-83,79,"transcaspicus","Microtus","Baluchistan Vole",LC,U
-84,78,"levis","Microtus","East European Vole",LC,S
-88,87,"montebelli","Microtus","Japanese Grass Vole",LC,S
-89,87,"limnophilus","Microtus","Lacustrine Vole",LC,U
-90,86,"oeconomus","Microtus","Root Vole",LC,S
-92,91,"cabrerae","Microtus","Cabrera's Vole",NT,D
-93,91,"agrestis","Microtus","Field Vole",LC,S
-102,101,"pennsylvanicus","Microtus","Chihuahua Vole",LC,S
-103,101,"townsendii","Microtus","Townsend's Vole",LC,S
-104,100,"breweri","Microtus","Beach Vole",VU,S
-105,99,"californicus","Microtus","Amargosa Vole",LC,S
-108,107,"canicaudus","Microtus","Gray-tailed Vole",LC,S
-109,107,"montanus","Microtus","Montane Vole",LC,S
-110,106,"oregoni","Microtus","Creeping Vole",LC,S
-114,113,"xanthognathus","Microtus","Taiga Vole",LC,S
-115,113,"richardsoni","Microtus","Water Vole",LC,S
-116,112,"chrotorrhinus","Microtus","Rock Vole",LC,D
-118,117,"quasiater","Microtus","Jalapan Pine Vole",NT,D
-119,117,"pinetorum","Microtus","Woodland Vole",LC,S
-120,96,"guatemalensis","Microtus","Guatemalan Vole",NT,D
-123,122,"longicaudus","Microtus","Long-tailed Vole",LC,S
-124,122,"mexicanus","Microtus","Mexican Vole",LC,U
-125,121,"oaxacensis","Microtus","Tarabundi Vole",EN,D
-126,94,"ochrogaster","Microtus","Prairie Vole",LC,S
-127,3,"alleni","Neofiber","Round-tailed Muskrat",LC,D
-134,133,"unalascensis","Dicrostonyx","Umnak Island Collared Lemming",DD,U
-135,133,"nelsoni","Dicrostonyx","Nelson's Collared Lemming",LC,S
-136,132,"hudsonius","Dicrostonyx","Ungava Collared Lemming",LC,S
-137,131,"groenlandicus","Dicrostonyx","Neartic Collared Lemming",LC,U
-138,130,"nunatakensis","Dicrostonyx","Ogilvie Mountains Collared Lemming",LC,U
-141,140,"richardsoni","Dicrostonyx","Richardson's Collared Lemming",LC,S
-142,140,"torquatus","Dicrostonyx","Arctic Lemming",LC,S
-143,139,"vinogradovi","Dicrostonyx","Wrangel Island Collared Lemming",DD,U
-146,145,"roberti","Chionomys","Robert's Snow Vole",LC,U
-147,145,"nivalis","Chionomys","European Snow Vole",LC,S
-148,144,"gud","Chionomys","Caucasian Snow Vole",LC,U
-152,151,"clarkei","Microtus","Clarke's Vole",LC,S
-153,151,"kikuchii","Microtus","Taiwan Vole",NT,U
-154,150,"millicens","Volemys","Sichuan Vole",DD,U
-155,149,"musseri","Volemys","Marie's Vole",DD,U
-165,164,"talpinus","Ellobius","Northern Mole Vole",LC,D
-166,164,"tancrei","Ellobius","Zaisan Mole Vole",LC,U
-167,163,"fuscocapillus","Ellobius","Afghan Mole-vole",LC,U
-168,162,"lutescens","Ellobius","Mountain Mole Vole",LC,U
-169,161,"alaicus","Ellobius","Alai Mole Vole",DD,U
-170,160,"schaposchnikowi","Prometheomys","Long-clawed Mole Vole",NT,D
-174,173,"longicaudus","Arborimus","Red Tree Vole",NT,D
-175,173,"albipes","Arborimus","White-footed Vole",LC,U
-176,172,"pomo","Arborimus","California Red Tree Mouse",NT,D
-178,177,"intermedius","Phenacomys","Western Heather Vole",LC,S
-179,177,"ungava","Phenacomys","Eastern Heather Vole",LC,S
-182,181,"mandarinus","Lasiopodomys","Mandarin Vole",LC,U
-183,181,"fuscus","Lasiopodomys","Smokey Vole",LC,U
-184,180,"brandtii","Lasiopodomys","Brandt's Vole",LC,S
-187,186,"bucharensis","Blanfordimys","Bucharian Vole",LC,U
-188,186,"afghanus","Blanfordimys","Afghan Vole",LC,U
-189,185,"zibethicus","Ondatra","Muskrat",LC,S
-196,195,"sibiricus","Lemmus","Brown Lemming",LC,S
-197,195,"portenkoi","Lemmus","",DD,U
-198,194,"trimucronatus","Lemmus","Brown Lemming",LC,S
-199,193,"amurensis","Lemmus","Amur Lemming",LC,U
-200,192,"lemmus","Lemmus","Norway Lemming",LC,S
-201,191,"schisticolor","Myopus","Wood Lemming",LC,U
-203,202,"borealis","Synaptomys","Northern Bog Lemming",LC,U
-204,202,"cooperi","Synaptomys","Kansas Bog Lemming",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"duodecimcostatus","Microtus","Mediterranean Pine Vole",LC,S,-16731116
+16,14,"lusitanicus","Microtus","Lusitanian Pine Vole",LC,U,-16731116
+17,13,"thomasi","Microtus","Thomas's Pine Vole",LC,S,-16731116
+18,12,"schelkovnikovi","Microtus","Schelkovnikov's Pine Vole",NT,D,-12486656
+22,21,"bavaricus","Microtus","Bavarian Pine Vole",CR,D,-3014646
+23,21,"tatricus","Microtus","Tatra Vole",LC,S,-16731116
+24,20,"subterraneus","Microtus","Common Pine Vole",LC,S,-16731116
+25,19,"daghestanicus","Microtus","Caucasus Pine Vole",LC,U,-16731116
+30,29,"brachycercus","Microtus","Calabria Pine Vole",LC,S,-16731116
+31,29,"savii","Microtus","Savi's Pine Vole",LC,S,-16731116
+32,28,"felteni","Microtus","Balkan Pine Vole",DD,U,-11513776
+33,27,"gerbei","Microtus","Gerbe's Vole",LC,S,-16731116
+35,34,"liechtensteini","Microtus","Liechtenstein's Pine Vole",LC,U,-16731116
+36,34,"multiplex","Microtus","Alpine Pine Vole",LC,S,-16731116
+37,9,"majori","Microtus","",LC,S,-16731116
+38,8,"umbrosus","Microtus","Zempoaltepec Vole",EN,D,-8572416
+45,44,"sachalinensis","Microtus","Sakhalin Vole",NT,U,-12486656
+46,44,"mongolicus","Microtus","Mongolian Vole",LC,S,-16731116
+47,43,"middendorffii","Microtus","Middendorff's Vole",LC,U,-16731116
+50,49,"maximowiczii","Microtus","Maximowicz's Vole",LC,U,-16731116
+51,49,"mujanensis","Microtus","Muisk Vole",DD,U,-11513776
+52,48,"evoronensis","Microtus","Evoron Vole",DD,U,-11513776
+53,41,"fortis","Microtus","Reed Vole",LC,U,-16731116
+57,56,"forresti","Neodon","Forrest's Mountain Vole",DD,U,-11513776
+58,56,"irene","Neodon","Irene's Mountain Vole",LC,U,-16731116
+59,55,"sikimensis","Neodon","Sikkim Vole",LC,U,-16731116
+61,60,"leucurus","Phaiomys","Blyth's Vole",LC,U,-16731116
+62,60,"juldaschi","Neodon","Juniper Vole",LC,U,-16731116
+65,64,"gregalis","Microtus","Narrow-headed Vole",LC,S,-16731116
+66,64,"miurus","Microtus","Singing Vole",LC,S,-16731116
+67,63,"abbreviatus","Microtus","Insular Vole",LC,S,-16731116
+72,71,"paradoxus","Microtus","Kopetdag Pine Vole",LC,U,-16731116
+73,71,"irani","Microtus","Persian Vole",DD,U,-11513776
+74,70,"guentheri","Microtus","Gunther's Vole",LC,S,-16731116
+76,75,"schidlovskii","Microtus","Schidlovsky Pine Vole",LC,U,-16731116
+77,75,"socialis","Microtus","Social Vole",LC,S,-16731116
+81,80,"ilaeus","Microtus","Kazakhstan Vole",LC,U,-16731116
+82,80,"arvalis","Microtus","Common Vole",LC,S,-16731116
+83,79,"transcaspicus","Microtus","Baluchistan Vole",LC,U,-16731116
+84,78,"levis","Microtus","East European Vole",LC,S,-16731116
+88,87,"montebelli","Microtus","Japanese Grass Vole",LC,S,-16731116
+89,87,"limnophilus","Microtus","Lacustrine Vole",LC,U,-16731116
+90,86,"oeconomus","Microtus","Root Vole",LC,S,-16731116
+92,91,"cabrerae","Microtus","Cabrera's Vole",NT,D,-12486656
+93,91,"agrestis","Microtus","Field Vole",LC,S,-16731116
+102,101,"pennsylvanicus","Microtus","Chihuahua Vole",LC,S,-16731116
+103,101,"townsendii","Microtus","Townsend's Vole",LC,S,-16731116
+104,100,"breweri","Microtus","Beach Vole",VU,S,-11184866
+105,99,"californicus","Microtus","Amargosa Vole",LC,S,-16731116
+108,107,"canicaudus","Microtus","Gray-tailed Vole",LC,S,-16731116
+109,107,"montanus","Microtus","Montane Vole",LC,S,-16731116
+110,106,"oregoni","Microtus","Creeping Vole",LC,S,-16731116
+114,113,"xanthognathus","Microtus","Taiga Vole",LC,S,-16731116
+115,113,"richardsoni","Microtus","Water Vole",LC,S,-16731116
+116,112,"chrotorrhinus","Microtus","Rock Vole",LC,D,-16731116
+118,117,"quasiater","Microtus","Jalapan Pine Vole",NT,D,-12486656
+119,117,"pinetorum","Microtus","Woodland Vole",LC,S,-16731116
+120,96,"guatemalensis","Microtus","Guatemalan Vole",NT,D,-12486656
+123,122,"longicaudus","Microtus","Long-tailed Vole",LC,S,-16731116
+124,122,"mexicanus","Microtus","Mexican Vole",LC,U,-16731116
+125,121,"oaxacensis","Microtus","Tarabundi Vole",EN,D,-8572416
+126,94,"ochrogaster","Microtus","Prairie Vole",LC,S,-16731116
+127,3,"alleni","Neofiber","Round-tailed Muskrat",LC,D,-16731116
+134,133,"unalascensis","Dicrostonyx","Umnak Island Collared Lemming",DD,U,-11513776
+135,133,"nelsoni","Dicrostonyx","Nelson's Collared Lemming",LC,S,-16731116
+136,132,"hudsonius","Dicrostonyx","Ungava Collared Lemming",LC,S,-16731116
+137,131,"groenlandicus","Dicrostonyx","Neartic Collared Lemming",LC,U,-16731116
+138,130,"nunatakensis","Dicrostonyx","Ogilvie Mountains Collared Lemming",LC,U,-16731116
+141,140,"richardsoni","Dicrostonyx","Richardson's Collared Lemming",LC,S,-16731116
+142,140,"torquatus","Dicrostonyx","Arctic Lemming",LC,S,-16731116
+143,139,"vinogradovi","Dicrostonyx","Wrangel Island Collared Lemming",DD,U,-11513776
+146,145,"roberti","Chionomys","Robert's Snow Vole",LC,U,-16731116
+147,145,"nivalis","Chionomys","European Snow Vole",LC,S,-16731116
+148,144,"gud","Chionomys","Caucasian Snow Vole",LC,U,-16731116
+152,151,"clarkei","Microtus","Clarke's Vole",LC,S,-16731116
+153,151,"kikuchii","Microtus","Taiwan Vole",NT,U,-12486656
+154,150,"millicens","Volemys","Sichuan Vole",DD,U,-11513776
+155,149,"musseri","Volemys","Marie's Vole",DD,U,-11513776
+165,164,"talpinus","Ellobius","Northern Mole Vole",LC,D,-16731116
+166,164,"tancrei","Ellobius","Zaisan Mole Vole",LC,U,-16731116
+167,163,"fuscocapillus","Ellobius","Afghan Mole-vole",LC,U,-16731116
+168,162,"lutescens","Ellobius","Mountain Mole Vole",LC,U,-16731116
+169,161,"alaicus","Ellobius","Alai Mole Vole",DD,U,-11513776
+170,160,"schaposchnikowi","Prometheomys","Long-clawed Mole Vole",NT,D,-12486656
+174,173,"longicaudus","Arborimus","Red Tree Vole",NT,D,-12486656
+175,173,"albipes","Arborimus","White-footed Vole",LC,U,-16731116
+176,172,"pomo","Arborimus","California Red Tree Mouse",NT,D,-12486656
+178,177,"intermedius","Phenacomys","Western Heather Vole",LC,S,-16731116
+179,177,"ungava","Phenacomys","Eastern Heather Vole",LC,S,-16731116
+182,181,"mandarinus","Lasiopodomys","Mandarin Vole",LC,U,-16731116
+183,181,"fuscus","Lasiopodomys","Smokey Vole",LC,U,-16731116
+184,180,"brandtii","Lasiopodomys","Brandt's Vole",LC,S,-16731116
+187,186,"bucharensis","Blanfordimys","Bucharian Vole",LC,U,-16731116
+188,186,"afghanus","Blanfordimys","Afghan Vole",LC,U,-16731116
+189,185,"zibethicus","Ondatra","Muskrat",LC,S,-16731116
+196,195,"sibiricus","Lemmus","Brown Lemming",LC,S,-16731116
+197,195,"portenkoi","Lemmus","",DD,U,-11513776
+198,194,"trimucronatus","Lemmus","Brown Lemming",LC,S,-16731116
+199,193,"amurensis","Lemmus","Amur Lemming",LC,U,-16731116
+200,192,"lemmus","Lemmus","Norway Lemming",LC,S,-16731116
+201,191,"schisticolor","Myopus","Wood Lemming",LC,U,-16731116
+203,202,"borealis","Synaptomys","Northern Bog Lemming",LC,U,-16731116
+204,202,"cooperi","Synaptomys","Kansas Bog Lemming",LC,U,-16731116

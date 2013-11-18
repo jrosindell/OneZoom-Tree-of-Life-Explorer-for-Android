@@ -1,132 +1,132 @@
-index,parent,name1,name2,common,redlist,popstab
-13,12,"luzoniensis","Cynopterus","Peters's Fruit Bat",LC,S
-14,12,"minutus","Cynopterus","Minute Fruit Bat",LC,D
-15,11,"brachyotis","Cynopterus","Lesser Dog-faced Fruit Bat",LC,U
-16,10,"sphinx","Cynopterus","Greater Shortnosed Fruit Bat",LC,I
-19,18,"titthaecheilus","Cynopterus","Indonesian Short-nosed Fruit Bat",LC,S
-20,18,"horsfieldii","Cynopterus","Horsfield's Fruit Bat",LC,U
-21,17,"nusatenggara","Cynopterus","Nusatenggara Short-nosed Fruit Bat",LC,S
-26,25,"niphanae","Megaerops","Ratanaworabhan's Fruit Bat",LC,U
-27,25,"kusnotoi","Megaerops","Javan Tailless Fruit Bat",VU,D
-28,24,"ecaudatus","Megaerops","Temminck's Tailless Fruit Bat",LC,U
-29,23,"wetmorei","Megaerops","White-collared Fruit Bat",VU,D
-31,30,"jagori","Ptenochirus","Greater Musky Fruit Bat",LC,S
-32,30,"minor","Ptenochirus","Lesser Musky Fruit Bat",LC,S
-34,33,"brooksi","Dyacopterus","Brooks's Dyak Fruit Bat",VU,D
-35,33,"spadiceus","Dyacopterus","Dayak Fruit Bat",NT,D
-38,37,"maculata","Balionycteris","Spotted-winged Fruit Bat",LC,U
-39,37,"melanocephalus","Chironax","Black-capped Fruit Bat",LC,U
-41,40,"aequalis","Aethalops","Borneo Fruit Bat",LC,U
-42,40,"alecto","Aethalops","Pygmy Fruit Bat",LC,U
-45,44,"fischeri","Haplonycteris","Fischer's Pygmy Fruit Bat",LC,S
-46,44,"cartilagonodus","Otopteropus","Luzon Fruit Bat",LC,D
-47,43,"paucidentata","Alionycteris","Mindanao Pygmy Fruit Bat",LC,S
-51,50,"lucasi","Penthetor","Lucas's Short-nosed Fruit Bat",LC,D
-52,50,"nigrescens","Thoopterus","Swift Fruit Bat",LC,U
-53,49,"salimalii","Latidens","Salim Ali's Fruit Bat",EN,D
-54,48,"blanfordi","Sphaerias","Blandford's Fruit Bat",LC,U
-62,61,"cephalotes","Nyctimene","Pallas's Tube-nosed Bat",LC,U
-63,61,"masalai","Nyctimene","Demonic Tube-nosed Bat",DD,U
-64,60,"rabori","Nyctimene","Philippine Tube-nosed Fruit Bat",EN,D
-65,59,"malaitensis","Nyctimene","Malaita Tube-nosed Bat",DD,U
-66,58,"vizcaccia","Nyctimene","Umboi Tube-nosed Bat",LC,U
-70,69,"minutus","Nyctimene","Lesser Tube-nosed Fruit Bat",VU,D
-71,69,"albiventer","Nyctimene","Common Tube-nosed Bat",LC,S
-72,68,"draconilla","Nyctimene","Lesser Tube-nosed Bat",DD,U
-74,73,"cyclotis","Nyctimene","Round-eared Tube-nosed Bat",DD,U
-75,73,"certans","Nyctimene","Mountain Tube-nosed Bat",LC,S
-78,77,"robinsoni","Nyctimene","Eastern Tube-nosed Bat",LC,U
-79,77,"major","Nyctimene","Island Tube-nosed Bat",LC,U
-80,76,"aello","Nyctimene","Greater Tube-nosed Bat",LC,S
-81,55,"raptor","Paranyctimene","Unstriped Tube-nosed Bat",LC,U
-95,94,"ahoenobarbus","Sus","Palawan Bearded Pig",VU,D
-96,94,"barbatus","Sus","Bearded Pig",VU,D
-97,93,"philippensis","Sus","Philippine Warty Pig",VU,D
-99,98,"bucculentus","Sus","Indo-chinese Warty Pig",DD,U
-100,98,"verrucosus","Sus","Javan Warty Pig",EN,D
-103,102,"celebensis","Sus","Sulawesi Warty Pig",NT,D
-104,102,"cebifrons","Sus","Visayan Warty Pig",CR,D
-106,105,"scrofa","Sus","Eurasian Wild Pig",LC,U
-107,105,"salvanius","Sus","",NE,U
-108,90,"meinertzhageni","Hylochoerus","Forest Hog",LC,D
-110,109,"porcus","Potamochoerus","Red River Hog",LC,D
-111,109,"larvatus","Potamochoerus","Bushpig",LC,S
-113,112,"aethiopicus","Phacochoerus","Desert Warthog",LC,D
-114,112,"africanus","Phacochoerus","Common Warthog",LC,S
-117,116,"togeanensis","Babyrousa","Togian Islands Babirusa",EN,D
-118,116,"celebensis","Babyrousa","Sulawesi Babirusa",VU,D
-120,119,"babyrussa","Babyrousa","Hairy Babirusa",VU,D
-121,119,"bolabatuensis","Babyrousa","",NE,U
-124,123,"pecari","Tayassu","White-lipped Peccary",NT,D
-125,123,"wagneri","Catagonus","Chacoan Peccary",EN,D
-126,122,"tajacu","Pecari","Collared Peccary",LC,S
-129,128,"bactrianus","Camelus","Bactrian Camel",NE,U
-130,128,"dromedarius","Camelus","Dromedary",NE,U
-132,131,"vicugna","Vicugna","Vicuna",LC,I
-133,131,"glama","Lama","Llama",NE,U
-139,138,"unicornis","Rhinoceros","Indian Rhinoceros",VU,I
-140,138,"sondaicus","Rhinoceros","Javan Rhinoceros",CR,U
-142,141,"simum","Ceratotherium","White Rhinoceros",NT,I
-143,141,"bicornis","Diceros","Black Rhinoceros",CR,I
-144,136,"sumatrensis","Dicerorhinus","Sumatran Rhinoceros",CR,D
-148,147,"pinchaque","Tapirus","Mountain Tapir",EN,D
-149,147,"terrestris","Tapirus","Lowland Tapir",VU,D
-150,146,"bairdii","Tapirus","Baird's Tapir",EN,D
-151,145,"indicus","Tapirus","Asian Tapir",EN,D
-157,156,"burchellii","Equus","Burchell's Zebra",NE,U
-158,156,"zebra","Equus","Mountain Zebra",VU,U
-159,155,"grevyi","Equus","Grevy's Zebra",EN,S
-161,160,"asinus","Equus","Donkey",NE,U
-162,160,"kiang","Equus","Kiang",LC,S
-163,153,"hemionus","Equus","Asiatic Wild Ass",EN,D
-164,152,"caballus","Equus","Horse",NE,U
-174,173,"malayanus","Helarctos","Malayan Sun Bear",VU,D
-175,173,"ursinus","Melursus","Sloth Bear",VU,D
-176,172,"americanus","Ursus","American Black Bear",LC,I
-179,178,"maritimus","Ursus","Polar Bear",VU,D
-180,178,"arctos","Ursus","Brown Bear",LC,S
-181,177,"thibetanus","Ursus","Asiatic Black Bear",VU,D
-182,170,"ornatus","Tremarctos","Andean Bear",VU,D
-183,169,"melanoleuca","Ailuropoda","Giant Panda",EN,D
-192,191,"adustus","Canis","Side-striped Jackal",LC,S
-193,191,"aureus","Canis","Golden Jackal",LC,I
-194,190,"mesomelas","Canis","Black-backed Jackal",LC,S
-197,196,"simensis","Canis","Ethiopian Wolf",EN,D
-198,196,"latrans","Canis","Coyote",LC,I
-199,195,"lupus","Canis","Grey Wolf",LC,S
-204,203,"gymnocercus","Lycalopex","",NE,U
-205,203,"culpaeus","Lycalopex","",NE,U
-207,206,"fulvipes","Lycalopex","",NE,U
-208,206,"griseus","Lycalopex","",NE,U
-209,201,"sechurae","Lycalopex","",NE,U
-210,200,"vetulus","Lycalopex","",NE,U
-213,212,"pictus","Lycaon","African Wild Dog",EN,D
-214,212,"venaticus","Speothos","Bush Dog",NT,U
-215,211,"brachyurus","Chrysocyon","Maned Wolf",NT,U
-218,217,"thous","Cerdocyon","Crab-eating Fox",LC,S
-219,217,"alpinus","Cuon","Dhole",EN,D
-220,216,"microtis","Atelocynus","Short-eared Dog",NT,D
-221,185,"procyonoides","Nyctereutes","Racoon Dog",LC,S
-229,228,"ferrilata","Vulpes","Tibetan Fox",LC,U
-230,228,"corsac","Vulpes","Corsac Fox",LC,U
-232,231,"rueppellii","Vulpes","Ruppell's Fox",LC,U
-233,231,"vulpes","Vulpes","Red Fox",LC,S
-236,235,"macrotis","Vulpes","Kit Fox",LC,D
-237,235,"velox","Vulpes","Swift Fox",LC,S
-238,234,"lagopus","Vulpes","",NE,U
-240,239,"cana","Vulpes","Blanford's Fox",LC,U
-241,239,"zerda","Vulpes","Fennec Fox",LC,U
-244,243,"bengalensis","Vulpes","Bengal Fox",LC,D
-245,243,"chama","Vulpes","Cape Fox",LC,S
-246,242,"pallida","Vulpes","Pale Fox",DD,U
-248,247,"cinereoargenteus","Urocyon","Grey Fox",LC,S
-249,247,"littoralis","Urocyon","Island Fox",CR,D
-250,222,"megalotis","Otocyon","Bat-eared Fox",LC,U
-254,253,"crassicaudata","Manis","Indian Pangolin",NT,D
-255,253,"pentadactyla","Manis","Chinese Pangolin",EN,D
-257,256,"culionensis","Manis","Philippine Pangolin",NT,D
-258,256,"javanica","Manis","Sunda Pangolin",EN,D
-261,260,"tetradactyla","Manis","",NE,U
-262,260,"gigantea","Manis","",NE,U
-264,263,"temminckii","Manis","",NE,U
-265,263,"tricuspis","Manis","",NE,U
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"luzoniensis","Cynopterus","Peters's Fruit Bat",LC,S,-16731116
+14,12,"minutus","Cynopterus","Minute Fruit Bat",LC,D,-16731116
+15,11,"brachyotis","Cynopterus","Lesser Dog-faced Fruit Bat",LC,U,-16731116
+16,10,"sphinx","Cynopterus","Greater Shortnosed Fruit Bat",LC,I,-16731116
+19,18,"titthaecheilus","Cynopterus","Indonesian Short-nosed Fruit Bat",LC,S,-16731116
+20,18,"horsfieldii","Cynopterus","Horsfield's Fruit Bat",LC,U,-16731116
+21,17,"nusatenggara","Cynopterus","Nusatenggara Short-nosed Fruit Bat",LC,S,-16731116
+26,25,"niphanae","Megaerops","Ratanaworabhan's Fruit Bat",LC,U,-16731116
+27,25,"kusnotoi","Megaerops","Javan Tailless Fruit Bat",VU,D,-11184866
+28,24,"ecaudatus","Megaerops","Temminck's Tailless Fruit Bat",LC,U,-16731116
+29,23,"wetmorei","Megaerops","White-collared Fruit Bat",VU,D,-11184866
+31,30,"jagori","Ptenochirus","Greater Musky Fruit Bat",LC,S,-16731116
+32,30,"minor","Ptenochirus","Lesser Musky Fruit Bat",LC,S,-16731116
+34,33,"brooksi","Dyacopterus","Brooks's Dyak Fruit Bat",VU,D,-11184866
+35,33,"spadiceus","Dyacopterus","Dayak Fruit Bat",NT,D,-12486656
+38,37,"maculata","Balionycteris","Spotted-winged Fruit Bat",LC,U,-16731116
+39,37,"melanocephalus","Chironax","Black-capped Fruit Bat",LC,U,-16731116
+41,40,"aequalis","Aethalops","Borneo Fruit Bat",LC,U,-16731116
+42,40,"alecto","Aethalops","Pygmy Fruit Bat",LC,U,-16731116
+45,44,"fischeri","Haplonycteris","Fischer's Pygmy Fruit Bat",LC,S,-16731116
+46,44,"cartilagonodus","Otopteropus","Luzon Fruit Bat",LC,D,-16731116
+47,43,"paucidentata","Alionycteris","Mindanao Pygmy Fruit Bat",LC,S,-16731116
+51,50,"lucasi","Penthetor","Lucas's Short-nosed Fruit Bat",LC,D,-16731116
+52,50,"nigrescens","Thoopterus","Swift Fruit Bat",LC,U,-16731116
+53,49,"salimalii","Latidens","Salim Ali's Fruit Bat",EN,D,-8572416
+54,48,"blanfordi","Sphaerias","Blandford's Fruit Bat",LC,U,-16731116
+62,61,"cephalotes","Nyctimene","Pallas's Tube-nosed Bat",LC,U,-16731116
+63,61,"masalai","Nyctimene","Demonic Tube-nosed Bat",DD,U,-11513776
+64,60,"rabori","Nyctimene","Philippine Tube-nosed Fruit Bat",EN,D,-8572416
+65,59,"malaitensis","Nyctimene","Malaita Tube-nosed Bat",DD,U,-11513776
+66,58,"vizcaccia","Nyctimene","Umboi Tube-nosed Bat",LC,U,-16731116
+70,69,"minutus","Nyctimene","Lesser Tube-nosed Fruit Bat",VU,D,-11184866
+71,69,"albiventer","Nyctimene","Common Tube-nosed Bat",LC,S,-16731116
+72,68,"draconilla","Nyctimene","Lesser Tube-nosed Bat",DD,U,-11513776
+74,73,"cyclotis","Nyctimene","Round-eared Tube-nosed Bat",DD,U,-11513776
+75,73,"certans","Nyctimene","Mountain Tube-nosed Bat",LC,S,-16731116
+78,77,"robinsoni","Nyctimene","Eastern Tube-nosed Bat",LC,U,-16731116
+79,77,"major","Nyctimene","Island Tube-nosed Bat",LC,U,-16731116
+80,76,"aello","Nyctimene","Greater Tube-nosed Bat",LC,S,-16731116
+81,55,"raptor","Paranyctimene","Unstriped Tube-nosed Bat",LC,U,-16731116
+95,94,"ahoenobarbus","Sus","Palawan Bearded Pig",VU,D,-11184866
+96,94,"barbatus","Sus","Bearded Pig",VU,D,-11184866
+97,93,"philippensis","Sus","Philippine Warty Pig",VU,D,-11184866
+99,98,"bucculentus","Sus","Indo-chinese Warty Pig",DD,U,-11513776
+100,98,"verrucosus","Sus","Javan Warty Pig",EN,D,-8572416
+103,102,"celebensis","Sus","Sulawesi Warty Pig",NT,D,-12486656
+104,102,"cebifrons","Sus","Visayan Warty Pig",CR,D,-3014646
+106,105,"scrofa","Sus","Eurasian Wild Pig",LC,U,-16731116
+107,105,"salvanius","Sus","",NE,U,-16777216
+108,90,"meinertzhageni","Hylochoerus","Forest Hog",LC,D,-16731116
+110,109,"porcus","Potamochoerus","Red River Hog",LC,D,-16731116
+111,109,"larvatus","Potamochoerus","Bushpig",LC,S,-16731116
+113,112,"aethiopicus","Phacochoerus","Desert Warthog",LC,D,-16731116
+114,112,"africanus","Phacochoerus","Common Warthog",LC,S,-16731116
+117,116,"togeanensis","Babyrousa","Togian Islands Babirusa",EN,D,-8572416
+118,116,"celebensis","Babyrousa","Sulawesi Babirusa",VU,D,-11184866
+120,119,"babyrussa","Babyrousa","Hairy Babirusa",VU,D,-11184866
+121,119,"bolabatuensis","Babyrousa","",NE,U,-16777216
+124,123,"pecari","Tayassu","White-lipped Peccary",NT,D,-12486656
+125,123,"wagneri","Catagonus","Chacoan Peccary",EN,D,-8572416
+126,122,"tajacu","Pecari","Collared Peccary",LC,S,-16731116
+129,128,"bactrianus","Camelus","Bactrian Camel",NE,U,-16777216
+130,128,"dromedarius","Camelus","Dromedary",NE,U,-16777216
+132,131,"vicugna","Vicugna","Vicuna",LC,I,-16731116
+133,131,"glama","Lama","Llama",NE,U,-16777216
+139,138,"unicornis","Rhinoceros","Indian Rhinoceros",VU,I,-11184866
+140,138,"sondaicus","Rhinoceros","Javan Rhinoceros",CR,U,-3014646
+142,141,"simum","Ceratotherium","White Rhinoceros",NT,I,-12486656
+143,141,"bicornis","Diceros","Black Rhinoceros",CR,I,-3014646
+144,136,"sumatrensis","Dicerorhinus","Sumatran Rhinoceros",CR,D,-3014646
+148,147,"pinchaque","Tapirus","Mountain Tapir",EN,D,-8572416
+149,147,"terrestris","Tapirus","Lowland Tapir",VU,D,-11184866
+150,146,"bairdii","Tapirus","Baird's Tapir",EN,D,-8572416
+151,145,"indicus","Tapirus","Asian Tapir",EN,D,-8572416
+157,156,"burchellii","Equus","Burchell's Zebra",NE,U,-16777216
+158,156,"zebra","Equus","Mountain Zebra",VU,U,-11184866
+159,155,"grevyi","Equus","Grevy's Zebra",EN,S,-8572416
+161,160,"asinus","Equus","Donkey",NE,U,-16777216
+162,160,"kiang","Equus","Kiang",LC,S,-16731116
+163,153,"hemionus","Equus","Asiatic Wild Ass",EN,D,-8572416
+164,152,"caballus","Equus","Horse",NE,U,-16777216
+174,173,"malayanus","Helarctos","Malayan Sun Bear",VU,D,-11184866
+175,173,"ursinus","Melursus","Sloth Bear",VU,D,-11184866
+176,172,"americanus","Ursus","American Black Bear",LC,I,-16731116
+179,178,"maritimus","Ursus","Polar Bear",VU,D,-11184866
+180,178,"arctos","Ursus","Brown Bear",LC,S,-16731116
+181,177,"thibetanus","Ursus","Asiatic Black Bear",VU,D,-11184866
+182,170,"ornatus","Tremarctos","Andean Bear",VU,D,-11184866
+183,169,"melanoleuca","Ailuropoda","Giant Panda",EN,D,-8572416
+192,191,"adustus","Canis","Side-striped Jackal",LC,S,-16731116
+193,191,"aureus","Canis","Golden Jackal",LC,I,-16731116
+194,190,"mesomelas","Canis","Black-backed Jackal",LC,S,-16731116
+197,196,"simensis","Canis","Ethiopian Wolf",EN,D,-8572416
+198,196,"latrans","Canis","Coyote",LC,I,-16731116
+199,195,"lupus","Canis","Grey Wolf",LC,S,-16731116
+204,203,"gymnocercus","Lycalopex","",NE,U,-16777216
+205,203,"culpaeus","Lycalopex","",NE,U,-16777216
+207,206,"fulvipes","Lycalopex","",NE,U,-16777216
+208,206,"griseus","Lycalopex","",NE,U,-16777216
+209,201,"sechurae","Lycalopex","",NE,U,-16777216
+210,200,"vetulus","Lycalopex","",NE,U,-16777216
+213,212,"pictus","Lycaon","African Wild Dog",EN,D,-8572416
+214,212,"venaticus","Speothos","Bush Dog",NT,U,-12486656
+215,211,"brachyurus","Chrysocyon","Maned Wolf",NT,U,-12486656
+218,217,"thous","Cerdocyon","Crab-eating Fox",LC,S,-16731116
+219,217,"alpinus","Cuon","Dhole",EN,D,-8572416
+220,216,"microtis","Atelocynus","Short-eared Dog",NT,D,-12486656
+221,185,"procyonoides","Nyctereutes","Racoon Dog",LC,S,-16731116
+229,228,"ferrilata","Vulpes","Tibetan Fox",LC,U,-16731116
+230,228,"corsac","Vulpes","Corsac Fox",LC,U,-16731116
+232,231,"rueppellii","Vulpes","Ruppell's Fox",LC,U,-16731116
+233,231,"vulpes","Vulpes","Red Fox",LC,S,-16731116
+236,235,"macrotis","Vulpes","Kit Fox",LC,D,-16731116
+237,235,"velox","Vulpes","Swift Fox",LC,S,-16731116
+238,234,"lagopus","Vulpes","",NE,U,-16777216
+240,239,"cana","Vulpes","Blanford's Fox",LC,U,-16731116
+241,239,"zerda","Vulpes","Fennec Fox",LC,U,-16731116
+244,243,"bengalensis","Vulpes","Bengal Fox",LC,D,-16731116
+245,243,"chama","Vulpes","Cape Fox",LC,S,-16731116
+246,242,"pallida","Vulpes","Pale Fox",DD,U,-11513776
+248,247,"cinereoargenteus","Urocyon","Grey Fox",LC,S,-16731116
+249,247,"littoralis","Urocyon","Island Fox",CR,D,-3014646
+250,222,"megalotis","Otocyon","Bat-eared Fox",LC,U,-16731116
+254,253,"crassicaudata","Manis","Indian Pangolin",NT,D,-12486656
+255,253,"pentadactyla","Manis","Chinese Pangolin",EN,D,-8572416
+257,256,"culionensis","Manis","Philippine Pangolin",NT,D,-12486656
+258,256,"javanica","Manis","Sunda Pangolin",EN,D,-8572416
+261,260,"tetradactyla","Manis","",NE,U,-16777216
+262,260,"gigantea","Manis","",NE,U,-16777216
+264,263,"temminckii","Manis","",NE,U,-16777216
+265,263,"tricuspis","Manis","",NE,U,-16777216

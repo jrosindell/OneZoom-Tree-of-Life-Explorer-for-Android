@@ -1,135 +1,135 @@
-index,parent,name1,name2,common,redlist,popstab
-16,15,"keyensis","Pteropus","Kei Flying Fox",DD,U
-17,15,"aruensis","Pteropus","Aru Flying Fox",CR,U
-18,14,"melanopogon","Pteropus","Black-bearded Flying Fox",EN,D
-19,13,"livingstonii","Pteropus","Comoro Black Flying Fox",EN,D
-22,21,"poliocephalus","Pteropus","Grey-headed Flying Fox",VU,D
-23,21,"macrotis","Pteropus","Large-eared Flying Fox",LC,S
-24,20,"pohlei","Pteropus","Geelvink Bay Flying Fox",EN,D
-28,27,"intermedius","Pteropus","Andersen's Flying Fox",DD,U
-29,27,"vampyrus","Pteropus","Large Flying-fox",NT,D
-31,30,"giganteus","Pteropus","Indian Flying Fox",LC,D
-32,30,"lylei","Pteropus","Lyle's Flying Fox",VU,D
-34,33,"conspicillatus","Pteropus","Spectacled Flying Fox",LC,S
-35,33,"ocularis","Pteropus","Seram Flying Fox",VU,D
-39,38,"aldabrensis","Pteropus","Aldabra Flying-fox",VU,S
-40,38,"voeltzkowi","Pteropus","Pemba Flying Fox",VU,I
-41,37,"seychellensis","Pteropus","Seychelles Flying Fox",LC,S
-43,42,"niger","Pteropus","Greater Mascarene Flying Fox",EN,D
-44,42,"rufus","Pteropus","Madagascan Flying Fox",VU,D
-50,49,"vetulus","Pteropus","New Caledonia Flying Fox",VU,D
-51,49,"nitendiensis","Pteropus","Temotu Flying Fox",EN,D
-53,52,"insularis","Pteropus","Chuuk Flying Fox",DD,U
-54,52,"pselaphon","Pteropus","Bonin Flying Fox",CR,D
-56,55,"leucopterus","Pteropus","Mottle-winged Flying Fox",LC,D
-57,55,"tuberculatus","Pteropus","Vanikoro Flying Fox",CR,U
-60,59,"molossinus","Pteropus","Pohnpei Flying Fox",VU,S
-61,59,"lombocensis","Pteropus","Lombok Flying Fox",DD,U
-62,58,"rodricensis","Pteropus","Rodrigues Flying Fox",CR,I
-63,45,"alecto","Pteropus","Black Flying Fox",LC,S
-66,65,"caniceps","Pteropus","North Moluccan Flying Fox",NT,D
-67,65,"ornatus","Pteropus","Ornate Flying Fox",VU,D
-68,64,"admiralitatum","Pteropus","Admiralty Flying Fox",LC,U
-77,76,"mariannus","Pteropus","Marianas Flying Fox",EN,D
-78,76,"ualanus","Pteropus","Kosrae Flying Fox",VU,S
-80,79,"pelewensis","Pteropus","Palau Flying Fox",NT,S
-81,79,"yapensis","Pteropus","Yap Flying Fox",VU,U
-82,74,"loochoensis","Pteropus","Okinawa Flying-fox",DD,U
-83,73,"tonganus","Pteropus","Pacific Flying Fox",LC,D
-88,87,"scapulatus","Pteropus","Little Red Flying Fox",LC,S
-89,87,"mahaganus","Pteropus","Sanborn's Flying Fox",VU,D
-90,86,"woodfordi","Pteropus","Dwarf Flying Fox",VU,D
-91,85,"gilliardorum","Pteropus","Gilliard's Flying Fox",DD,U
-92,84,"howensis","Pteropus","Ontong Java Flying Fox",DD,U
-93,71,"griseus","Pteropus","Gray Flying Fox",DD,U
-96,95,"speciosus","Pteropus","Philippine Gray Flying Fox",DD,U
-97,95,"neohibernicus","Pteropus","Great Flying Fox",LC,U
-99,98,"anetianus","Pteropus","Vanauatu Flying Fox",VU,D
-100,98,"samoensis","Pteropus","Samoan Flying Fox",NT,D
-109,108,"rennelli","Pteropus","Rennell Flying Fox",VU,S
-110,108,"rayneri","Pteropus","Solomons Flying Fox",NT,D
-111,107,"cognatus","Pteropus","Makira Flying Fox",EN,D
-113,112,"chrysoproctus","Pteropus","Moluccan Flying Fox",NT,D
-114,112,"fundatus","Pteropus","Banks Flying Fox",EN,D
-115,105,"faunulus","Pteropus","Nicobar Flying Fox",VU,D
-118,117,"temminckii","Pteropus","Temminck's Flying Fox",VU,D
-119,117,"capistratus","Pteropus","Bismarck Flying Fox",EN,D
-120,116,"personatus","Pteropus","Moluccan Masked Flying Fox",LC,S
-122,121,"pumilus","Pteropus","Little Golden-mantled Flying-fox",NT,D
-123,121,"hypomelanus","Pteropus","Island Flying Fox",LC,D
-124,102,"dasymallus","Pteropus","Ryukyu Flying Fox",NT,D
-125,101,"melanotus","Pteropus","Blyth's Flying Fox",VU,D
-129,128,"jubatus","Acerodon","Golden-capped Fruit Bat",EN,D
-130,128,"leucotis","Acerodon","Palawan Flying Fox",VU,D
-132,131,"celebensis","Acerodon","Sulawesi Fruit Bat",LC,U
-133,131,"humilis","Acerodon","Talaud Fruit Bat",EN,D
-134,126,"mackloti","Acerodon","Sunda Fruit Bat",VU,D
-138,137,"atrata","Pteralopex","Guadalcanal Monkey-faced Bat",EN,D
-139,137,"pulchra","Pteralopex","Montane Monkey-faced Bat",CR,D
-140,136,"acrodonta","Pteralopex","",NE,U
-141,135,"anceps","Pteralopex","Bougainville Monkey-faced Bat",EN,D
-143,142,"wallacei","Styloctenium","Stripe-faced Fruit Bat",VU,D
-144,142,"frosti","Neopteryx","Small-toothed Fruit Bat",EN,D
-155,154,"crenulata","Dobsonia","Halmahera Naked-backed Fruit Bat",LC,S
-156,154,"viridis","Dobsonia","Greenish Naked-backed Fruit Bat",LC,S
-157,153,"praedatrix","Dobsonia","Bismarck Bare-backed Fruit Bat",LC,U
-158,152,"beauforti","Dobsonia","Beaufort's Bare-backed Fruit Bat",LC,U
-159,151,"inermis","Dobsonia","Solomons Bare-backed Fruit Bat",LC,S
-160,150,"exoleta","Dobsonia","Sulawesi Naked-backed Fruit Bat",LC,U
-162,161,"peronii","Dobsonia","Western Naked-backed Fruit Bat",LC,S
-163,161,"minor","Dobsonia","Lesser Bare-backed Fruit Bat",LC,U
-166,165,"moluccensis","Dobsonia","Moluccan Naked-backed Fruit Bat",LC,S
-167,165,"magna","Dobsonia","",NE,U
-168,164,"anderseni","Dobsonia","Andersen's Bare-backed Fruit Bat",LC,S
-169,147,"pannietensis","Dobsonia","Panaeati Bare-backed Fruit Bat",NT,U
-170,146,"emersa","Dobsonia","Biak Bare-backed Fruit Bat",VU,U
-171,145,"bulmerae","Aproteles","Bulmer's Fruit Bat",CR,D
-173,172,"celebensis","Harpyionycteris","Sulawesi Harpy Fruit Bat",VU,D
-174,172,"whiteheadi","Harpyionycteris","Harpy Fruit Bat",LC,S
-180,179,"melanops","Melonycteris","Black-bellied Blossom Bat",LC,S
-181,179,"woodfordi","Melonycteris","Woodford's Blossom Bat",LC,S
-183,182,"neocaledonica","Notopteris","New Caledonia Blossom Bat",VU,U
-184,182,"macdonaldi","Notopteris","Fijian Blossom Bat",VU,D
-187,186,"carolinae","Syconycteris","Halmaheran Blossom Bat",VU,D
-188,186,"hobbit","Syconycteris","Moss-forest Blossom Bat",VU,D
-189,185,"australis","Syconycteris","Common Blossom Bat",LC,S
-191,190,"minimus","Macroglossus","Dagger-toothed Long-nosed Fruit Bat",LC,S
-192,190,"sobrinus","Macroglossus","Hill Long-tongued Fruit Bat",LC,S
-195,194,"robusta","Eonycteris","Philippine Dawn Bat",NT,D
-196,194,"major","Eonycteris","Greater Dawn Bat",DD,U
-197,193,"spelaea","Eonycteris","Dawn Bat",LC,U
-211,210,"crypturus","Epomophorus","Peters's Epauletted Fruit Bat",LC,U
-212,210,"gambianus","Epomophorus","Gambian Epauletted Fruit Bat",LC,U
-214,213,"labiatus","Epomophorus","Ethiopian Epauletted Fruit Bat",LC,S
-215,213,"minor","Epomophorus","",NE,U
-218,217,"minimus","Epomophorus","East African Epauletted Fruit Bat",LC,S
-219,217,"angolensis","Epomophorus","Angolan Epauletted Fruit Bat",NT,D
-220,216,"grandis","Epomophorus","Lesser Angolan Epauletted Fruit Bat",DD,U
-221,207,"wahlbergi","Epomophorus","Wahlberg's Epauletted Fruit Bat",LC,S
-223,222,"intermedius","Micropteropus","Hayman's Lesser Epauletted Fruit Bat",DD,U
-224,222,"pusillus","Micropteropus","Peter's Dwarf Epauletted Fruit Bat",LC,S
-228,227,"buettikoferi","Epomops","Buettikofer's Epauletted Fruit Bat",LC,D
-229,227,"dobsonii","Epomops","Dobson's Fruit Bat",LC,S
-230,226,"franqueti","Epomops","Franquet's Epauletted Fruit Bat",LC,S
-231,225,"monstrosus","Hypsignathus","Hammer-headed Fruit Bat",LC,U
-232,204,"veldkampii","Nanonycteris","Veldkamp's Bat",LC,U
-235,234,"ophiodon","Scotonycteris","Pohle's Fruit Bat",VU,D
-236,234,"zenkeri","Scotonycteris","Zenker's Fruit Bat",LC,D
-237,233,"argynnis","Casinycteris","Short-palated Fruit Bat",LC,U
-238,202,"anchietae","Plerotes","D'Anchieta's Fruit Bat",DD,U
-239,201,"bidens","Rousettus","Manado Rousette",VU,D
-242,241,"helvum","Eidolon","Straw-coloured Fruit Bat",NT,D
-243,241,"dupreanum","Eidolon","Madagascan Fruit Bat",VU,D
-244,240,"woermanni","Megaloglossus","Woermann's Bat",LC,S
-251,250,"madagascariensis","Rousettus","Madagascan Rousette",NT,D
-252,250,"aegyptiacus","Rousettus","Egyptian Fruit Bat",LC,S
-253,249,"leschenaultii","Rousettus","Leschenault's Rousette",LC,S
-255,254,"amplexicaudatus","Rousettus","Geoffroy's Rousette",LC,U
-256,254,"celebensis","Rousettus","Sulawesi Rousette",LC,D
-258,257,"spinalatus","Rousettus","Bare-backed Rousette",VU,D
-259,257,"obliviosus","Rousettus","Comoro Rousette",VU,D
-260,246,"lanosus","Rousettus","Long-haired Rousette",LC,D
-263,262,"relicta","Myonycteris","East African Little Collared Fruit Bat",VU,D
-264,262,"torquata","Myonycteris","Little Collared Fruit Bat",LC,S
-265,261,"brachycephala","Myonycteris","Sao Tome Collared Fruit Bat",EN,D
-266,198,"angolensis","Lissonycteris","Angolan Fruit Bat",LC,D
+index,parent,name1,name2,common,redlist,popstab,color
+16,15,"keyensis","Pteropus","Kei Flying Fox",DD,U,-11513776
+17,15,"aruensis","Pteropus","Aru Flying Fox",CR,U,-3014646
+18,14,"melanopogon","Pteropus","Black-bearded Flying Fox",EN,D,-8572416
+19,13,"livingstonii","Pteropus","Comoro Black Flying Fox",EN,D,-8572416
+22,21,"poliocephalus","Pteropus","Grey-headed Flying Fox",VU,D,-11184866
+23,21,"macrotis","Pteropus","Large-eared Flying Fox",LC,S,-16731116
+24,20,"pohlei","Pteropus","Geelvink Bay Flying Fox",EN,D,-8572416
+28,27,"intermedius","Pteropus","Andersen's Flying Fox",DD,U,-11513776
+29,27,"vampyrus","Pteropus","Large Flying-fox",NT,D,-12486656
+31,30,"giganteus","Pteropus","Indian Flying Fox",LC,D,-16731116
+32,30,"lylei","Pteropus","Lyle's Flying Fox",VU,D,-11184866
+34,33,"conspicillatus","Pteropus","Spectacled Flying Fox",LC,S,-16731116
+35,33,"ocularis","Pteropus","Seram Flying Fox",VU,D,-11184866
+39,38,"aldabrensis","Pteropus","Aldabra Flying-fox",VU,S,-11184866
+40,38,"voeltzkowi","Pteropus","Pemba Flying Fox",VU,I,-11184866
+41,37,"seychellensis","Pteropus","Seychelles Flying Fox",LC,S,-16731116
+43,42,"niger","Pteropus","Greater Mascarene Flying Fox",EN,D,-8572416
+44,42,"rufus","Pteropus","Madagascan Flying Fox",VU,D,-11184866
+50,49,"vetulus","Pteropus","New Caledonia Flying Fox",VU,D,-11184866
+51,49,"nitendiensis","Pteropus","Temotu Flying Fox",EN,D,-8572416
+53,52,"insularis","Pteropus","Chuuk Flying Fox",DD,U,-11513776
+54,52,"pselaphon","Pteropus","Bonin Flying Fox",CR,D,-3014646
+56,55,"leucopterus","Pteropus","Mottle-winged Flying Fox",LC,D,-16731116
+57,55,"tuberculatus","Pteropus","Vanikoro Flying Fox",CR,U,-3014646
+60,59,"molossinus","Pteropus","Pohnpei Flying Fox",VU,S,-11184866
+61,59,"lombocensis","Pteropus","Lombok Flying Fox",DD,U,-11513776
+62,58,"rodricensis","Pteropus","Rodrigues Flying Fox",CR,I,-3014646
+63,45,"alecto","Pteropus","Black Flying Fox",LC,S,-16731116
+66,65,"caniceps","Pteropus","North Moluccan Flying Fox",NT,D,-12486656
+67,65,"ornatus","Pteropus","Ornate Flying Fox",VU,D,-11184866
+68,64,"admiralitatum","Pteropus","Admiralty Flying Fox",LC,U,-16731116
+77,76,"mariannus","Pteropus","Marianas Flying Fox",EN,D,-8572416
+78,76,"ualanus","Pteropus","Kosrae Flying Fox",VU,S,-11184866
+80,79,"pelewensis","Pteropus","Palau Flying Fox",NT,S,-12486656
+81,79,"yapensis","Pteropus","Yap Flying Fox",VU,U,-11184866
+82,74,"loochoensis","Pteropus","Okinawa Flying-fox",DD,U,-11513776
+83,73,"tonganus","Pteropus","Pacific Flying Fox",LC,D,-16731116
+88,87,"scapulatus","Pteropus","Little Red Flying Fox",LC,S,-16731116
+89,87,"mahaganus","Pteropus","Sanborn's Flying Fox",VU,D,-11184866
+90,86,"woodfordi","Pteropus","Dwarf Flying Fox",VU,D,-11184866
+91,85,"gilliardorum","Pteropus","Gilliard's Flying Fox",DD,U,-11513776
+92,84,"howensis","Pteropus","Ontong Java Flying Fox",DD,U,-11513776
+93,71,"griseus","Pteropus","Gray Flying Fox",DD,U,-11513776
+96,95,"speciosus","Pteropus","Philippine Gray Flying Fox",DD,U,-11513776
+97,95,"neohibernicus","Pteropus","Great Flying Fox",LC,U,-16731116
+99,98,"anetianus","Pteropus","Vanauatu Flying Fox",VU,D,-11184866
+100,98,"samoensis","Pteropus","Samoan Flying Fox",NT,D,-12486656
+109,108,"rennelli","Pteropus","Rennell Flying Fox",VU,S,-11184866
+110,108,"rayneri","Pteropus","Solomons Flying Fox",NT,D,-12486656
+111,107,"cognatus","Pteropus","Makira Flying Fox",EN,D,-8572416
+113,112,"chrysoproctus","Pteropus","Moluccan Flying Fox",NT,D,-12486656
+114,112,"fundatus","Pteropus","Banks Flying Fox",EN,D,-8572416
+115,105,"faunulus","Pteropus","Nicobar Flying Fox",VU,D,-11184866
+118,117,"temminckii","Pteropus","Temminck's Flying Fox",VU,D,-11184866
+119,117,"capistratus","Pteropus","Bismarck Flying Fox",EN,D,-8572416
+120,116,"personatus","Pteropus","Moluccan Masked Flying Fox",LC,S,-16731116
+122,121,"pumilus","Pteropus","Little Golden-mantled Flying-fox",NT,D,-12486656
+123,121,"hypomelanus","Pteropus","Island Flying Fox",LC,D,-16731116
+124,102,"dasymallus","Pteropus","Ryukyu Flying Fox",NT,D,-12486656
+125,101,"melanotus","Pteropus","Blyth's Flying Fox",VU,D,-11184866
+129,128,"jubatus","Acerodon","Golden-capped Fruit Bat",EN,D,-8572416
+130,128,"leucotis","Acerodon","Palawan Flying Fox",VU,D,-11184866
+132,131,"celebensis","Acerodon","Sulawesi Fruit Bat",LC,U,-16731116
+133,131,"humilis","Acerodon","Talaud Fruit Bat",EN,D,-8572416
+134,126,"mackloti","Acerodon","Sunda Fruit Bat",VU,D,-11184866
+138,137,"atrata","Pteralopex","Guadalcanal Monkey-faced Bat",EN,D,-8572416
+139,137,"pulchra","Pteralopex","Montane Monkey-faced Bat",CR,D,-3014646
+140,136,"acrodonta","Pteralopex","",NE,U,-16777216
+141,135,"anceps","Pteralopex","Bougainville Monkey-faced Bat",EN,D,-8572416
+143,142,"wallacei","Styloctenium","Stripe-faced Fruit Bat",VU,D,-11184866
+144,142,"frosti","Neopteryx","Small-toothed Fruit Bat",EN,D,-8572416
+155,154,"crenulata","Dobsonia","Halmahera Naked-backed Fruit Bat",LC,S,-16731116
+156,154,"viridis","Dobsonia","Greenish Naked-backed Fruit Bat",LC,S,-16731116
+157,153,"praedatrix","Dobsonia","Bismarck Bare-backed Fruit Bat",LC,U,-16731116
+158,152,"beauforti","Dobsonia","Beaufort's Bare-backed Fruit Bat",LC,U,-16731116
+159,151,"inermis","Dobsonia","Solomons Bare-backed Fruit Bat",LC,S,-16731116
+160,150,"exoleta","Dobsonia","Sulawesi Naked-backed Fruit Bat",LC,U,-16731116
+162,161,"peronii","Dobsonia","Western Naked-backed Fruit Bat",LC,S,-16731116
+163,161,"minor","Dobsonia","Lesser Bare-backed Fruit Bat",LC,U,-16731116
+166,165,"moluccensis","Dobsonia","Moluccan Naked-backed Fruit Bat",LC,S,-16731116
+167,165,"magna","Dobsonia","",NE,U,-16777216
+168,164,"anderseni","Dobsonia","Andersen's Bare-backed Fruit Bat",LC,S,-16731116
+169,147,"pannietensis","Dobsonia","Panaeati Bare-backed Fruit Bat",NT,U,-12486656
+170,146,"emersa","Dobsonia","Biak Bare-backed Fruit Bat",VU,U,-11184866
+171,145,"bulmerae","Aproteles","Bulmer's Fruit Bat",CR,D,-3014646
+173,172,"celebensis","Harpyionycteris","Sulawesi Harpy Fruit Bat",VU,D,-11184866
+174,172,"whiteheadi","Harpyionycteris","Harpy Fruit Bat",LC,S,-16731116
+180,179,"melanops","Melonycteris","Black-bellied Blossom Bat",LC,S,-16731116
+181,179,"woodfordi","Melonycteris","Woodford's Blossom Bat",LC,S,-16731116
+183,182,"neocaledonica","Notopteris","New Caledonia Blossom Bat",VU,U,-11184866
+184,182,"macdonaldi","Notopteris","Fijian Blossom Bat",VU,D,-11184866
+187,186,"carolinae","Syconycteris","Halmaheran Blossom Bat",VU,D,-11184866
+188,186,"hobbit","Syconycteris","Moss-forest Blossom Bat",VU,D,-11184866
+189,185,"australis","Syconycteris","Common Blossom Bat",LC,S,-16731116
+191,190,"minimus","Macroglossus","Dagger-toothed Long-nosed Fruit Bat",LC,S,-16731116
+192,190,"sobrinus","Macroglossus","Hill Long-tongued Fruit Bat",LC,S,-16731116
+195,194,"robusta","Eonycteris","Philippine Dawn Bat",NT,D,-12486656
+196,194,"major","Eonycteris","Greater Dawn Bat",DD,U,-11513776
+197,193,"spelaea","Eonycteris","Dawn Bat",LC,U,-16731116
+211,210,"crypturus","Epomophorus","Peters's Epauletted Fruit Bat",LC,U,-16731116
+212,210,"gambianus","Epomophorus","Gambian Epauletted Fruit Bat",LC,U,-16731116
+214,213,"labiatus","Epomophorus","Ethiopian Epauletted Fruit Bat",LC,S,-16731116
+215,213,"minor","Epomophorus","",NE,U,-16777216
+218,217,"minimus","Epomophorus","East African Epauletted Fruit Bat",LC,S,-16731116
+219,217,"angolensis","Epomophorus","Angolan Epauletted Fruit Bat",NT,D,-12486656
+220,216,"grandis","Epomophorus","Lesser Angolan Epauletted Fruit Bat",DD,U,-11513776
+221,207,"wahlbergi","Epomophorus","Wahlberg's Epauletted Fruit Bat",LC,S,-16731116
+223,222,"intermedius","Micropteropus","Hayman's Lesser Epauletted Fruit Bat",DD,U,-11513776
+224,222,"pusillus","Micropteropus","Peter's Dwarf Epauletted Fruit Bat",LC,S,-16731116
+228,227,"buettikoferi","Epomops","Buettikofer's Epauletted Fruit Bat",LC,D,-16731116
+229,227,"dobsonii","Epomops","Dobson's Fruit Bat",LC,S,-16731116
+230,226,"franqueti","Epomops","Franquet's Epauletted Fruit Bat",LC,S,-16731116
+231,225,"monstrosus","Hypsignathus","Hammer-headed Fruit Bat",LC,U,-16731116
+232,204,"veldkampii","Nanonycteris","Veldkamp's Bat",LC,U,-16731116
+235,234,"ophiodon","Scotonycteris","Pohle's Fruit Bat",VU,D,-11184866
+236,234,"zenkeri","Scotonycteris","Zenker's Fruit Bat",LC,D,-16731116
+237,233,"argynnis","Casinycteris","Short-palated Fruit Bat",LC,U,-16731116
+238,202,"anchietae","Plerotes","D'Anchieta's Fruit Bat",DD,U,-11513776
+239,201,"bidens","Rousettus","Manado Rousette",VU,D,-11184866
+242,241,"helvum","Eidolon","Straw-coloured Fruit Bat",NT,D,-12486656
+243,241,"dupreanum","Eidolon","Madagascan Fruit Bat",VU,D,-11184866
+244,240,"woermanni","Megaloglossus","Woermann's Bat",LC,S,-16731116
+251,250,"madagascariensis","Rousettus","Madagascan Rousette",NT,D,-12486656
+252,250,"aegyptiacus","Rousettus","Egyptian Fruit Bat",LC,S,-16731116
+253,249,"leschenaultii","Rousettus","Leschenault's Rousette",LC,S,-16731116
+255,254,"amplexicaudatus","Rousettus","Geoffroy's Rousette",LC,U,-16731116
+256,254,"celebensis","Rousettus","Sulawesi Rousette",LC,D,-16731116
+258,257,"spinalatus","Rousettus","Bare-backed Rousette",VU,D,-11184866
+259,257,"obliviosus","Rousettus","Comoro Rousette",VU,D,-11184866
+260,246,"lanosus","Rousettus","Long-haired Rousette",LC,D,-16731116
+263,262,"relicta","Myonycteris","East African Little Collared Fruit Bat",VU,D,-11184866
+264,262,"torquata","Myonycteris","Little Collared Fruit Bat",LC,S,-16731116
+265,261,"brachycephala","Myonycteris","Sao Tome Collared Fruit Bat",EN,D,-8572416
+266,198,"angolensis","Lissonycteris","Angolan Fruit Bat",LC,D,-16731116

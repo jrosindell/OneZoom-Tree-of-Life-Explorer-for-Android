@@ -1,7 +1,5 @@
 package com.onezoom;
 
-import com.onezoom.midnode.PositionData;
-
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
@@ -10,7 +8,7 @@ import android.util.Log;
 public class MemoryThread extends Thread {
 	public static final int MSG_RECALCULATE = 0;
 	public static final int MSG_INITIALIZATION = 1;
-
+	
 	private Handler handler;
 	private CanvasActivity clientActivity;
 	
@@ -48,7 +46,7 @@ public class MemoryThread extends Thread {
 
 class MemoryHandler extends Handler {
 	private CanvasActivity clientActivity;
-	
+
 	public MemoryHandler(CanvasActivity client) {
 		clientActivity = client;
 	}
@@ -60,8 +58,9 @@ class MemoryHandler extends Handler {
 			clientActivity.initialization();
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
-				clientActivity.getTreeRoot().recalculateDynamic();
-				Log.d("debug", "xp: " + PositionData.xp + "yp: " + PositionData.yp + "ws: " + PositionData.ws);
+				synchronized (clientActivity.getTreeRoot()) {
+					clientActivity.getTreeRoot().recalculateDynamic();					
+				}
 				clientActivity.treeView.setDuringRecalculation(false);
 				clientActivity.treeView.postInvalidate();
 			}

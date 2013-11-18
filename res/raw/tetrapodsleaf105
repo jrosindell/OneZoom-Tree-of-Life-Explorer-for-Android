@@ -1,132 +1,132 @@
-index,parent,name1,name2,common,redlist,popstab
-11,10,"crassus","Hoplobatrachus","Jerdon's Bullfrog",LC,D
-12,10,"tigerinus","Hoplobatrachus","Indian Bullfrog",LC,S
-13,9,"chinensis","Hoplobatrachus","",NE,U
-14,8,"occipitalis","Hoplobatrachus","Crowned Bullfrog",LC,D
-18,17,"hexadactylus","Euphlyctis","Indian Green Frog",LC,S
-19,17,"cyanophlyctis","Euphlyctis","",LC,S
-20,16,"ehrenbergii","Euphlyctis","",LC,S
-21,15,"ghoshi","Euphlyctis","",DD,U
-24,23,"ceylonensis","Nannophrys","",VU,D
-25,23,"guentheri","Nannophrys","",EX,U
-26,22,"marmorata","Nannophrys","",CR,D
-31,30,"rufescens","Fejervarya","Malabar Wart Frog",LC,U
-32,30,"verruculosa","Fejervarya","",LC,S
-33,29,"syhadrensis","Fejervarya","Bombay Wart Frog",LC,S
-35,34,"nepalensis","Fejervarya","Nepal Wart Frog",LC,S
-36,34,"frithii","Fejervarya","",NE,U
-40,39,"kirtisinghei","Fejervarya","",LC,S
-41,39,"moodiei","Fejervarya","",DD,U
-42,38,"schlueteri","Fejervarya","",DD,U
-44,43,"pulla","Fejervarya","",DD,U
-45,43,"brama","Fejervarya","",DD,U
-49,48,"leucorhynchus","Sphaerotheca","",DD,U
-50,48,"breviceps","Sphaerotheca","",LC,S
-51,47,"dobsoni","Sphaerotheca","",NE,U
-52,46,"rolandae","Sphaerotheca","",LC,S
-61,60,"mysorensis","Fejervarya","",DD,U
-62,60,"raja","Fejervarya","",DD,U
-63,59,"brevipalmata","Fejervarya","Short-webbed Frog",DD,U
-66,65,"assimilis","Fejervarya","",DD,U
-67,65,"murthii","Fejervarya","",CR,D
-68,64,"pierrei","Fejervarya","Pierre's Wart Frog",LC,S
-71,70,"nicobariensis","Fejervarya","",EN,D
-72,70,"orissaensis","Fejervarya","",LC,S
-74,73,"andamanensis","Fejervarya","",LC,S
-75,73,"greenii","Fejervarya","",EN,D
-78,77,"limnocharis","Fejervarya","Asian Grass Frog",LC,S
-79,77,"nilagirica","Fejervarya","",EN,D
-80,76,"teraiensis","Fejervarya","Terai Wart Frog",LC,S
-82,81,"vittigera","Fejervarya","",LC,S
-83,81,"iskandari","Fejervarya","",LC,S
-84,54,"multistriata","Fejervarya","",DD,U
-89,88,"parambikulamana","Fejervarya","",DD,U
-90,88,"sauriceps","Fejervarya","",DD,U
-91,87,"cancrivora","Fejervarya","Asian Brackish Frog",LC,I
-92,86,"keralensis","Fejervarya","Kerala Warty Frog",LC,S
-93,85,"altilabris","Fejervarya","",DD,U
-102,101,"mokokchungensis","Nanorana","",DD,U
-103,101,"rostandi","Nanorana","",VU,D
-105,104,"yunnanensis","Nanorana","",EN,D
-106,104,"arnoldi","Nanorana","",NT,D
-107,99,"bourreti","Nanorana","",DD,U
-111,110,"blanfordii","Nanorana","",LC,D
-112,110,"aenea","Nanorana","",DD,U
-113,109,"unculuanus","Nanorana","",EN,D
-115,114,"annandalii","Nanorana","",NT,D
-116,114,"quadranus","Nanorana","",NT,D
-121,120,"taihangnica","Nanorana","",DD,U
-122,120,"ercepeae","Nanorana","",NT,D
-123,119,"maculosa","Nanorana","",EN,D
-125,124,"conaensis","Nanorana","",DD,U
-126,124,"rarica","Nanorana","",DD,U
-127,117,"parkeri","Nanorana","",LC,S
-132,131,"ventripunctata","Nanorana","",LC,S
-133,131,"minica","Nanorana","",VU,D
-134,130,"liebigii","Nanorana","",LC,D
-136,135,"pleskei","Nanorana","",NT,D
-137,135,"vicina","Nanorana","",LC,U
-141,140,"polunini","Nanorana","",LC,D
-142,140,"liui","Nanorana","",VU,D
-143,139,"medogensis","Nanorana","",DD,U
-144,138,"feae","Nanorana","",DD,U
-145,95,"sternosignata","Chrysopaa","",LC,S
-146,94,"hazarensis","Allopaa","",LC,S
-152,151,"fasciculispina","Quasipaa","",VU,D
-153,151,"exilispinosa","Quasipaa","",VU,D
-154,150,"shini","Quasipaa","",VU,D
-155,149,"jiulongensis","Quasipaa","",VU,D
-157,156,"robertingeri","Quasipaa","",EN,D
-158,156,"yei","Quasipaa","",DD,U
-161,160,"verrucospinosa","Quasipaa","",NT,D
-162,160,"boulengeri","Quasipaa","",EN,D
-163,159,"spinosa","Quasipaa","",VU,D
-177,176,"khammonensis","Limnonectes","",DD,U
-178,176,"shompenorum","Limnonectes","",LC,D
-179,175,"macrodon","Limnonectes","Fanged River Frog",VU,D
-182,181,"malesianus","Limnonectes","Malesian Frog",NT,D
-183,181,"kenepaiensis","Limnonectes","",DD,U
-184,180,"ingeri","Limnonectes","",NT,D
-186,185,"blythii","Limnonectes","Blyth's River Frog",NT,D
-187,185,"rhacoda","Limnonectes","",NT,D
-192,191,"khasianus","Limnonectes","",DD,U
-193,191,"grunniens","Limnonectes","",LC,S
-194,190,"ibanorum","Limnonectes","",NT,D
-195,189,"fragilis","Limnonectes","",VU,D
-197,196,"paramacrodon","Limnonectes","",NT,D
-198,196,"heinrichi","Limnonectes","",VU,D
-205,204,"magnus","Limnonectes","Giant Philippine Frog",NT,D
-206,204,"visayanus","Limnonectes","",VU,D
-207,203,"modestus","Limnonectes","",LC,S
-209,208,"macrocephalus","Limnonectes","Luzon Fanged Frog",NT,D
-210,208,"doriae","Limnonectes","",DD,U
-213,212,"leytensis","Limnonectes","Small Disked Frog",LC,D
-214,212,"micrixalus","Limnonectes","",DD,U
-215,211,"microdiscus","Limnonectes","",LC,D
-217,216,"mawphlangensis","Limnonectes","",DD,U
-218,216,"acanthi","Limnonectes","",VU,D
-220,219,"microtympanum","Limnonectes","",EN,D
-221,219,"kohchangae","Limnonectes","",LC,U
-223,222,"leporinus","Limnonectes","Giant River Frog",LC,D
-224,222,"kadarsani","Limnonectes","",LC,D
-229,228,"palavanensis","Limnonectes","",LC,D
-230,228,"arathooni","Limnonectes","",EN,D
-231,227,"woodworthi","Limnonectes","",LC,S
-232,226,"dammermani","Limnonectes","",NT,U
-235,234,"mawlyndipi","Limnonectes","",DD,U
-236,234,"parvus","Limnonectes","",VU,D
-237,233,"finchi","Limnonectes","",LC,D
-241,240,"dabanus","Limnonectes","",DD,U
-242,240,"diuatus","Limnonectes","",VU,D
-243,239,"kuhlii","Limnonectes","Kuhl's Creek Frog",LC,D
-244,238,"namiyei","Limnonectes","",EN,D
-246,245,"macrognathus","Limnonectes","",DD,U
-247,245,"asperatus","Limnonectes","",NT,D
-250,249,"laticeps","Limnonectes","Broad-headed Frog",LC,S
-251,249,"nitidus","Limnonectes","",EN,D
-253,252,"gyldenstolpei","Limnonectes","",LC,D
-254,252,"tweediei","Limnonectes","",NT,D
-256,255,"fujianensis","Limnonectes","",LC,U
-257,255,"plicatellus","Limnonectes","",LC,D
-259,258,"hascheanus","Limnonectes","",LC,U
-260,258,"limborgi","Limnonectes","",DD,U
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"crassus","Hoplobatrachus","Jerdon's Bullfrog",LC,D,-16731116
+12,10,"tigerinus","Hoplobatrachus","Indian Bullfrog",LC,S,-16731116
+13,9,"chinensis","Hoplobatrachus","",NE,U,-16777216
+14,8,"occipitalis","Hoplobatrachus","Crowned Bullfrog",LC,D,-16731116
+18,17,"hexadactylus","Euphlyctis","Indian Green Frog",LC,S,-16731116
+19,17,"cyanophlyctis","Euphlyctis","",LC,S,-16731116
+20,16,"ehrenbergii","Euphlyctis","",LC,S,-16731116
+21,15,"ghoshi","Euphlyctis","",DD,U,-11513776
+24,23,"ceylonensis","Nannophrys","",VU,D,-11184866
+25,23,"guentheri","Nannophrys","",EX,U,-16777036
+26,22,"marmorata","Nannophrys","",CR,D,-3014646
+31,30,"rufescens","Fejervarya","Malabar Wart Frog",LC,U,-16731116
+32,30,"verruculosa","Fejervarya","",LC,S,-16731116
+33,29,"syhadrensis","Fejervarya","Bombay Wart Frog",LC,S,-16731116
+35,34,"nepalensis","Fejervarya","Nepal Wart Frog",LC,S,-16731116
+36,34,"frithii","Fejervarya","",NE,U,-16777216
+40,39,"kirtisinghei","Fejervarya","",LC,S,-16731116
+41,39,"moodiei","Fejervarya","",DD,U,-11513776
+42,38,"schlueteri","Fejervarya","",DD,U,-11513776
+44,43,"pulla","Fejervarya","",DD,U,-11513776
+45,43,"brama","Fejervarya","",DD,U,-11513776
+49,48,"leucorhynchus","Sphaerotheca","",DD,U,-11513776
+50,48,"breviceps","Sphaerotheca","",LC,S,-16731116
+51,47,"dobsoni","Sphaerotheca","",NE,U,-16777216
+52,46,"rolandae","Sphaerotheca","",LC,S,-16731116
+61,60,"mysorensis","Fejervarya","",DD,U,-11513776
+62,60,"raja","Fejervarya","",DD,U,-11513776
+63,59,"brevipalmata","Fejervarya","Short-webbed Frog",DD,U,-11513776
+66,65,"assimilis","Fejervarya","",DD,U,-11513776
+67,65,"murthii","Fejervarya","",CR,D,-3014646
+68,64,"pierrei","Fejervarya","Pierre's Wart Frog",LC,S,-16731116
+71,70,"nicobariensis","Fejervarya","",EN,D,-8572416
+72,70,"orissaensis","Fejervarya","",LC,S,-16731116
+74,73,"andamanensis","Fejervarya","",LC,S,-16731116
+75,73,"greenii","Fejervarya","",EN,D,-8572416
+78,77,"limnocharis","Fejervarya","Asian Grass Frog",LC,S,-16731116
+79,77,"nilagirica","Fejervarya","",EN,D,-8572416
+80,76,"teraiensis","Fejervarya","Terai Wart Frog",LC,S,-16731116
+82,81,"vittigera","Fejervarya","",LC,S,-16731116
+83,81,"iskandari","Fejervarya","",LC,S,-16731116
+84,54,"multistriata","Fejervarya","",DD,U,-11513776
+89,88,"parambikulamana","Fejervarya","",DD,U,-11513776
+90,88,"sauriceps","Fejervarya","",DD,U,-11513776
+91,87,"cancrivora","Fejervarya","Asian Brackish Frog",LC,I,-16731116
+92,86,"keralensis","Fejervarya","Kerala Warty Frog",LC,S,-16731116
+93,85,"altilabris","Fejervarya","",DD,U,-11513776
+102,101,"mokokchungensis","Nanorana","",DD,U,-11513776
+103,101,"rostandi","Nanorana","",VU,D,-11184866
+105,104,"yunnanensis","Nanorana","",EN,D,-8572416
+106,104,"arnoldi","Nanorana","",NT,D,-12486656
+107,99,"bourreti","Nanorana","",DD,U,-11513776
+111,110,"blanfordii","Nanorana","",LC,D,-16731116
+112,110,"aenea","Nanorana","",DD,U,-11513776
+113,109,"unculuanus","Nanorana","",EN,D,-8572416
+115,114,"annandalii","Nanorana","",NT,D,-12486656
+116,114,"quadranus","Nanorana","",NT,D,-12486656
+121,120,"taihangnica","Nanorana","",DD,U,-11513776
+122,120,"ercepeae","Nanorana","",NT,D,-12486656
+123,119,"maculosa","Nanorana","",EN,D,-8572416
+125,124,"conaensis","Nanorana","",DD,U,-11513776
+126,124,"rarica","Nanorana","",DD,U,-11513776
+127,117,"parkeri","Nanorana","",LC,S,-16731116
+132,131,"ventripunctata","Nanorana","",LC,S,-16731116
+133,131,"minica","Nanorana","",VU,D,-11184866
+134,130,"liebigii","Nanorana","",LC,D,-16731116
+136,135,"pleskei","Nanorana","",NT,D,-12486656
+137,135,"vicina","Nanorana","",LC,U,-16731116
+141,140,"polunini","Nanorana","",LC,D,-16731116
+142,140,"liui","Nanorana","",VU,D,-11184866
+143,139,"medogensis","Nanorana","",DD,U,-11513776
+144,138,"feae","Nanorana","",DD,U,-11513776
+145,95,"sternosignata","Chrysopaa","",LC,S,-16731116
+146,94,"hazarensis","Allopaa","",LC,S,-16731116
+152,151,"fasciculispina","Quasipaa","",VU,D,-11184866
+153,151,"exilispinosa","Quasipaa","",VU,D,-11184866
+154,150,"shini","Quasipaa","",VU,D,-11184866
+155,149,"jiulongensis","Quasipaa","",VU,D,-11184866
+157,156,"robertingeri","Quasipaa","",EN,D,-8572416
+158,156,"yei","Quasipaa","",DD,U,-11513776
+161,160,"verrucospinosa","Quasipaa","",NT,D,-12486656
+162,160,"boulengeri","Quasipaa","",EN,D,-8572416
+163,159,"spinosa","Quasipaa","",VU,D,-11184866
+177,176,"khammonensis","Limnonectes","",DD,U,-11513776
+178,176,"shompenorum","Limnonectes","",LC,D,-16731116
+179,175,"macrodon","Limnonectes","Fanged River Frog",VU,D,-11184866
+182,181,"malesianus","Limnonectes","Malesian Frog",NT,D,-12486656
+183,181,"kenepaiensis","Limnonectes","",DD,U,-11513776
+184,180,"ingeri","Limnonectes","",NT,D,-12486656
+186,185,"blythii","Limnonectes","Blyth's River Frog",NT,D,-12486656
+187,185,"rhacoda","Limnonectes","",NT,D,-12486656
+192,191,"khasianus","Limnonectes","",DD,U,-11513776
+193,191,"grunniens","Limnonectes","",LC,S,-16731116
+194,190,"ibanorum","Limnonectes","",NT,D,-12486656
+195,189,"fragilis","Limnonectes","",VU,D,-11184866
+197,196,"paramacrodon","Limnonectes","",NT,D,-12486656
+198,196,"heinrichi","Limnonectes","",VU,D,-11184866
+205,204,"magnus","Limnonectes","Giant Philippine Frog",NT,D,-12486656
+206,204,"visayanus","Limnonectes","",VU,D,-11184866
+207,203,"modestus","Limnonectes","",LC,S,-16731116
+209,208,"macrocephalus","Limnonectes","Luzon Fanged Frog",NT,D,-12486656
+210,208,"doriae","Limnonectes","",DD,U,-11513776
+213,212,"leytensis","Limnonectes","Small Disked Frog",LC,D,-16731116
+214,212,"micrixalus","Limnonectes","",DD,U,-11513776
+215,211,"microdiscus","Limnonectes","",LC,D,-16731116
+217,216,"mawphlangensis","Limnonectes","",DD,U,-11513776
+218,216,"acanthi","Limnonectes","",VU,D,-11184866
+220,219,"microtympanum","Limnonectes","",EN,D,-8572416
+221,219,"kohchangae","Limnonectes","",LC,U,-16731116
+223,222,"leporinus","Limnonectes","Giant River Frog",LC,D,-16731116
+224,222,"kadarsani","Limnonectes","",LC,D,-16731116
+229,228,"palavanensis","Limnonectes","",LC,D,-16731116
+230,228,"arathooni","Limnonectes","",EN,D,-8572416
+231,227,"woodworthi","Limnonectes","",LC,S,-16731116
+232,226,"dammermani","Limnonectes","",NT,U,-12486656
+235,234,"mawlyndipi","Limnonectes","",DD,U,-11513776
+236,234,"parvus","Limnonectes","",VU,D,-11184866
+237,233,"finchi","Limnonectes","",LC,D,-16731116
+241,240,"dabanus","Limnonectes","",DD,U,-11513776
+242,240,"diuatus","Limnonectes","",VU,D,-11184866
+243,239,"kuhlii","Limnonectes","Kuhl's Creek Frog",LC,D,-16731116
+244,238,"namiyei","Limnonectes","",EN,D,-8572416
+246,245,"macrognathus","Limnonectes","",DD,U,-11513776
+247,245,"asperatus","Limnonectes","",NT,D,-12486656
+250,249,"laticeps","Limnonectes","Broad-headed Frog",LC,S,-16731116
+251,249,"nitidus","Limnonectes","",EN,D,-8572416
+253,252,"gyldenstolpei","Limnonectes","",LC,D,-16731116
+254,252,"tweediei","Limnonectes","",NT,D,-12486656
+256,255,"fujianensis","Limnonectes","",LC,U,-16731116
+257,255,"plicatellus","Limnonectes","",LC,D,-16731116
+259,258,"hascheanus","Limnonectes","",LC,U,-16731116
+260,258,"limborgi","Limnonectes","",DD,U,-11513776

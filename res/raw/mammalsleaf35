@@ -1,137 +1,137 @@
-index,parent,name1,name2,common,redlist,popstab
-18,17,"littoralis","Crocidura","Butiaba Naked-tailed Shrew",LC,U
-19,17,"armenica","Crocidura","Armenian Shrew",DD,U
-21,20,"negligens","Crocidura","Peninsular Shrew",LC,U
-22,20,"malayana","Crocidura","Malayan Shrew",LC,U
-23,15,"hirta","Crocidura","Lesser Red Musk Shrew",LC,U
-26,25,"fumosa","Crocidura","Smoky White-toothed Shrew",VU,D
-27,25,"somalica","Crocidura","Somali Shrew",LC,U
-28,24,"longipes","Crocidura","Savanna Swamp Shrew",DD,U
-29,13,"religiosa","Crocidura","Egyptian Pygmy Shrew",DD,U
-32,31,"shantungensis","Crocidura","Asian Lesser White-toothed Shrew",LC,S
-33,31,"suaveolens","Crocidura","Lesser Shrew",LC,S
-34,30,"grandis","Crocidura","Greater Mindanao Shrew",DD,U
-35,11,"phaeura","Crocidura","Guramba Shrew",EN,U
-36,10,"macmillani","Crocidura","Macmillan's Shrew",VU,U
-41,40,"nicobarica","Crocidura","Nicobar Shrew",CR,D
-42,40,"sicula","Crocidura","Sicilian Shrew",LC,U
-43,39,"yankariensis","Crocidura","Yankari Shrew",LC,S
-44,38,"zimmermanni","Crocidura","Cretan Shrew",VU,D
-45,37,"batesi","Crocidura","Bate's Shrew",LC,S
-49,48,"polia","Crocidura","Fuscous Shrew",DD,U
-50,48,"foxi","Crocidura","Fox's Shrew",LC,U
-51,47,"elgonius","Crocidura","Elgon Shrew",LC,D
-52,46,"jenkinsi","Crocidura","Jenkin's Shrew",CR,D
-53,6,"goliath","Crocidura","Goliath Shrew",LC,U
-56,55,"schoutedeni","Paracrocidura","Lesser Large-headed Shrew",LC,U
-57,55,"maxima","Paracrocidura","Greater Large-headed Shrew",NT,D
-58,54,"graueri","Paracrocidura","Grauer's Large-headed Shrew",DD,U
-59,4,"pearsoni","Solisorex","Pearson's Long-clawed Shrew",EN,D
-72,71,"lixus","Suncus","Greater Dwarf Shrew",LC,U
-73,71,"aequatorius","Suncus","",CR,D
-74,70,"malayanus","Suncus","Malayan Pgymy Shrew",DD,U
-75,69,"dayi","Suncus","Day's Shrew",EN,D
-76,68,"mertensi","Suncus","Flores Shrew",EN,D
-78,77,"infinitesimus","Suncus","Least Dwarf Shrew",LC,U
-79,77,"etruscus","Suncus","Etruscan Shrew",LC,U
-82,81,"hosei","Suncus","Bornean Pgymy Shrew",DD,U
-83,81,"ater","Suncus","Black Shrew",DD,U
-84,80,"fellowesgordoni","Suncus","Ceylon Pygmy Shrew",EN,D
-90,89,"varilla","Suncus","Lesser Dwarf Shrew",LC,U
-91,89,"montanus","Suncus","Hill Shrew",VU,D
-92,88,"remyi","Suncus","Gabon Dwarf Shrew",LC,U
-93,87,"stoliczkanus","Suncus","Anderson's Shrew",LC,U
-95,94,"madagascariensis","Suncus","Madagascan Shrew",LC,U
-96,94,"murinus","Suncus","House Shrew",LC,S
-97,85,"zeylanicus","Suncus","Ceylon Jungle Shrew",EN,D
-98,64,"polli","Congosorex","Greater Congo Shrew",DD,U
-99,63,"somereni","Scutisorex","Armored Shrew",LC,U
-105,104,"johnstoni","Sylvisorex","Johnston's Forest Shrew",LC,U
-106,104,"morio","Sylvisorex","Arrogant Shrew",EN,D
-108,107,"vulcanorum","Sylvisorex","Volcano Shrew",NT,D
-109,107,"ollula","Sylvisorex","Forest Musk Shrew",LC,U
-112,111,"howelli","Sylvisorex","Howell's Forest Shrew",EN,D
-113,111,"isabellae","Sylvisorex","Bioko Forest Shrew",EN,D
-114,110,"lunaris","Sylvisorex","Moon Forest Shrew",VU,D
-117,116,"oriundus","Sylvisorex","Lesser Forest Shrew",DD,U
-118,116,"megalura","Suncus","Climbing Shrew",LC,U
-120,119,"granti","Sylvisorex","Grant's Forest Shrew",LC,U
-121,119,"camerunensis","Sylvisorex","",VU,D
-122,100,"pulchellum","Diplomesodon","Piebald Shrew",LC,S
-123,61,"feroculus","Feroculus","Kelaart's Long-clawed Shrew",EN,D
-130,129,"longicaudatus","Myosorex","Long-tailed Forest Shrew",VU,D
-131,129,"blarina","Myosorex","Montane Mouse Shrew",EN,D
-132,128,"eisentrauti","Myosorex","Eisentraut's Mouse Shrew",CR,D
-135,134,"schalleri","Myosorex","Schaller's Mouse Shrew",DD,U
-136,134,"rumpii","Myosorex","Rumpi Mouse Shrew",EN,D
-137,133,"tenuis","Myosorex","Thin Mouse Shrew",DD,U
-141,140,"cafer","Myosorex","Dark-footed Forest Shrew",LC,U
-142,140,"babaulti","Myosorex","Babault's Mouse Shrew",NT,D
-143,139,"varius","Myosorex","Forest Shrew",LC,S
-145,144,"okuensis","Myosorex","Oku Mouse Shrew",EN,D
-146,144,"geata","Myosorex","Geata Mouse Shrew",EN,D
-147,125,"sclateri","Myosorex","Sclater's Mouse Shrew",NT,D
-150,149,"polulus","Surdisorex","Mt. Kenya Mole Shrew",VU,S
-151,149,"norae","Surdisorex","Aberdare Mole Shrew",VU,S
-152,148,"suncoides","Ruwenzorisorex","Ruwenzori Shrew",VU,U
-158,157,"roumanicus","Erinaceus","Northern White-breasted Hedgehog",LC,S
-159,157,"concolor","Erinaceus","Southern White-breasted Hedgehog",LC,U
-161,160,"europaeus","Erinaceus","Northern Hedgehog",LC,S
-162,160,"amurensis","Erinaceus","Amur Hedgehog",LC,S
-166,165,"albiventris","Atelerix","Four-toed Hedgehog",LC,S
-167,165,"sclateri","Atelerix","Somali Hedgehog",LC,U
-168,164,"algirus","Atelerix","Algerian Hedgehog",LC,U
-169,163,"frontalis","Atelerix","Southern African Hedgehog",LC,S
-174,173,"aethiopicus","Paraechinus","Desert Hedgehog",LC,S
-175,173,"micropus","Paraechinus","Indian Hedgehog",LC,D
-176,172,"hypomelas","Paraechinus","Brandt's Hedgehog",LC,U
-178,177,"auritus","Hemiechinus","Long-eared Hedgehog",LC,U
-179,177,"collaris","Hemiechinus","Collared Hedgehog",LC,U
-181,180,"dauuricus","Mesechinus","Daurian Hedgehog",LC,S
-182,180,"hughi","Mesechinus","Hugh's Hedgehog",LC,D
-186,185,"hainanensis","Neohylomys","Hainan Gymnure",EN,D
-187,185,"sinensis","Neotetracus","Shrew Gymnure",LC,U
-189,188,"suillus","Hylomys","Short-tailed Gymnure",LC,S
-190,188,"parvus","Hylomys","Dwarf Gymnure",VU,D
-193,192,"aureospinula","Podogymnura","Dinagat Gymnure",EN,D
-194,192,"truei","Podogymnura","Mindanao Gymnure",LC,S
-195,191,"gymnura","Echinosorex","Moonrat",LC,U
-211,210,"micrura","Euroscaptor","Himalayan Mole",LC,U
-212,210,"klossi","Euroscaptor","Kloss's Mole",LC,U
-213,209,"parvidens","Euroscaptor","Small-toothed Mole",DD,U
-215,214,"grandis","Euroscaptor","Greater Chinese Mole",LC,U
-216,214,"longirostris","Euroscaptor","Long-nosed Mole",LC,U
-217,207,"mizura","Euroscaptor","Japanese Mountain Mole",LC,D
-221,220,"wogura","Mogera","Japanese Mole",LC,S
-222,220,"tokudae","Mogera","Sado Mole",NT,D
-223,219,"imaizumii","Mogera","Small Japanese Mole",LC,S
-224,218,"insularis","Mogera","Insular Mole",LC,U
-226,225,"occidentalis","Talpa","Iberian Mole",LC,S
-227,225,"altaica","Talpa","Siberian Mole",LC,U
-228,204,"levantis","Talpa","Levant Mole",LC,S
-232,231,"europaea","Talpa","Common Mole",LC,S
-233,231,"romana","Talpa","Roman Mole",LC,S
-234,230,"caeca","Talpa","Blind Mole",LC,U
-235,229,"davidiana","Talpa","Pere David's Mole",DD,U
-237,236,"caucasica","Talpa","Caucasian Mole",LC,U
-238,236,"stankovici","Talpa","Balkan Mole",LC,U
-239,201,"leucura","Parascaptor","White-tailed Mole",LC,U
-241,240,"moschatus","Scaptochirus","Short-faced Mole",LC,U
-242,240,"uchidai","Mogera","Senkaku Mole",DD,U
-243,199,"fusicaudus","Scaptonyx","Long-tailed Mole",LC,U
-251,250,"townsendii","Scapanus","Townsend's Mole",LC,S
-252,250,"orarius","Scapanus","Coast Mole",LC,S
-253,249,"latimanus","Scapanus","Broad-footed Mole",LC,S
-254,248,"aquaticus","Scalopus","Eastern Mole",LC,S
-255,247,"breweri","Parascalops","Hairy-tailed Mole",LC,S
-256,246,"oweni","Scapanulus","Gansu Mole",LC,U
-259,258,"talpoides","Urotrichus","Japanese Shrew Mole",LC,S
-260,258,"pilirostris","Dymecodon","True's Shrew Mole",LC,S
-261,257,"gibbsii","Neurotrichus","Shrew-mole",LC,S
-262,244,"cristata","Condylura","Star-nosed Mole",LC,S
-264,263,"pyrenaicus","Galemys","Pyrenean Desman",VU,D
-265,263,"moschata","Desmana","Russian Desman",VU,D
-268,267,"investigator","Uropsilus","Inquisitive Shrew Mole",DD,U
-269,267,"soricipes","Uropsilus","Chinese Shrew Mole",LC,U
-271,270,"andersoni","Uropsilus","Anderson's Shrew Mole",DD,U
-272,270,"gracilis","Uropsilus","Gracile Shrew Mole",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+18,17,"littoralis","Crocidura","Butiaba Naked-tailed Shrew",LC,U,-16731116
+19,17,"armenica","Crocidura","Armenian Shrew",DD,U,-11513776
+21,20,"negligens","Crocidura","Peninsular Shrew",LC,U,-16731116
+22,20,"malayana","Crocidura","Malayan Shrew",LC,U,-16731116
+23,15,"hirta","Crocidura","Lesser Red Musk Shrew",LC,U,-16731116
+26,25,"fumosa","Crocidura","Smoky White-toothed Shrew",VU,D,-11184866
+27,25,"somalica","Crocidura","Somali Shrew",LC,U,-16731116
+28,24,"longipes","Crocidura","Savanna Swamp Shrew",DD,U,-11513776
+29,13,"religiosa","Crocidura","Egyptian Pygmy Shrew",DD,U,-11513776
+32,31,"shantungensis","Crocidura","Asian Lesser White-toothed Shrew",LC,S,-16731116
+33,31,"suaveolens","Crocidura","Lesser Shrew",LC,S,-16731116
+34,30,"grandis","Crocidura","Greater Mindanao Shrew",DD,U,-11513776
+35,11,"phaeura","Crocidura","Guramba Shrew",EN,U,-8572416
+36,10,"macmillani","Crocidura","Macmillan's Shrew",VU,U,-11184866
+41,40,"nicobarica","Crocidura","Nicobar Shrew",CR,D,-3014646
+42,40,"sicula","Crocidura","Sicilian Shrew",LC,U,-16731116
+43,39,"yankariensis","Crocidura","Yankari Shrew",LC,S,-16731116
+44,38,"zimmermanni","Crocidura","Cretan Shrew",VU,D,-11184866
+45,37,"batesi","Crocidura","Bate's Shrew",LC,S,-16731116
+49,48,"polia","Crocidura","Fuscous Shrew",DD,U,-11513776
+50,48,"foxi","Crocidura","Fox's Shrew",LC,U,-16731116
+51,47,"elgonius","Crocidura","Elgon Shrew",LC,D,-16731116
+52,46,"jenkinsi","Crocidura","Jenkin's Shrew",CR,D,-3014646
+53,6,"goliath","Crocidura","Goliath Shrew",LC,U,-16731116
+56,55,"schoutedeni","Paracrocidura","Lesser Large-headed Shrew",LC,U,-16731116
+57,55,"maxima","Paracrocidura","Greater Large-headed Shrew",NT,D,-12486656
+58,54,"graueri","Paracrocidura","Grauer's Large-headed Shrew",DD,U,-11513776
+59,4,"pearsoni","Solisorex","Pearson's Long-clawed Shrew",EN,D,-8572416
+72,71,"lixus","Suncus","Greater Dwarf Shrew",LC,U,-16731116
+73,71,"aequatorius","Suncus","",CR,D,-3014646
+74,70,"malayanus","Suncus","Malayan Pgymy Shrew",DD,U,-11513776
+75,69,"dayi","Suncus","Day's Shrew",EN,D,-8572416
+76,68,"mertensi","Suncus","Flores Shrew",EN,D,-8572416
+78,77,"infinitesimus","Suncus","Least Dwarf Shrew",LC,U,-16731116
+79,77,"etruscus","Suncus","Etruscan Shrew",LC,U,-16731116
+82,81,"hosei","Suncus","Bornean Pgymy Shrew",DD,U,-11513776
+83,81,"ater","Suncus","Black Shrew",DD,U,-11513776
+84,80,"fellowesgordoni","Suncus","Ceylon Pygmy Shrew",EN,D,-8572416
+90,89,"varilla","Suncus","Lesser Dwarf Shrew",LC,U,-16731116
+91,89,"montanus","Suncus","Hill Shrew",VU,D,-11184866
+92,88,"remyi","Suncus","Gabon Dwarf Shrew",LC,U,-16731116
+93,87,"stoliczkanus","Suncus","Anderson's Shrew",LC,U,-16731116
+95,94,"madagascariensis","Suncus","Madagascan Shrew",LC,U,-16731116
+96,94,"murinus","Suncus","House Shrew",LC,S,-16731116
+97,85,"zeylanicus","Suncus","Ceylon Jungle Shrew",EN,D,-8572416
+98,64,"polli","Congosorex","Greater Congo Shrew",DD,U,-11513776
+99,63,"somereni","Scutisorex","Armored Shrew",LC,U,-16731116
+105,104,"johnstoni","Sylvisorex","Johnston's Forest Shrew",LC,U,-16731116
+106,104,"morio","Sylvisorex","Arrogant Shrew",EN,D,-8572416
+108,107,"vulcanorum","Sylvisorex","Volcano Shrew",NT,D,-12486656
+109,107,"ollula","Sylvisorex","Forest Musk Shrew",LC,U,-16731116
+112,111,"howelli","Sylvisorex","Howell's Forest Shrew",EN,D,-8572416
+113,111,"isabellae","Sylvisorex","Bioko Forest Shrew",EN,D,-8572416
+114,110,"lunaris","Sylvisorex","Moon Forest Shrew",VU,D,-11184866
+117,116,"oriundus","Sylvisorex","Lesser Forest Shrew",DD,U,-11513776
+118,116,"megalura","Suncus","Climbing Shrew",LC,U,-16731116
+120,119,"granti","Sylvisorex","Grant's Forest Shrew",LC,U,-16731116
+121,119,"camerunensis","Sylvisorex","",VU,D,-11184866
+122,100,"pulchellum","Diplomesodon","Piebald Shrew",LC,S,-16731116
+123,61,"feroculus","Feroculus","Kelaart's Long-clawed Shrew",EN,D,-8572416
+130,129,"longicaudatus","Myosorex","Long-tailed Forest Shrew",VU,D,-11184866
+131,129,"blarina","Myosorex","Montane Mouse Shrew",EN,D,-8572416
+132,128,"eisentrauti","Myosorex","Eisentraut's Mouse Shrew",CR,D,-3014646
+135,134,"schalleri","Myosorex","Schaller's Mouse Shrew",DD,U,-11513776
+136,134,"rumpii","Myosorex","Rumpi Mouse Shrew",EN,D,-8572416
+137,133,"tenuis","Myosorex","Thin Mouse Shrew",DD,U,-11513776
+141,140,"cafer","Myosorex","Dark-footed Forest Shrew",LC,U,-16731116
+142,140,"babaulti","Myosorex","Babault's Mouse Shrew",NT,D,-12486656
+143,139,"varius","Myosorex","Forest Shrew",LC,S,-16731116
+145,144,"okuensis","Myosorex","Oku Mouse Shrew",EN,D,-8572416
+146,144,"geata","Myosorex","Geata Mouse Shrew",EN,D,-8572416
+147,125,"sclateri","Myosorex","Sclater's Mouse Shrew",NT,D,-12486656
+150,149,"polulus","Surdisorex","Mt. Kenya Mole Shrew",VU,S,-11184866
+151,149,"norae","Surdisorex","Aberdare Mole Shrew",VU,S,-11184866
+152,148,"suncoides","Ruwenzorisorex","Ruwenzori Shrew",VU,U,-11184866
+158,157,"roumanicus","Erinaceus","Northern White-breasted Hedgehog",LC,S,-16731116
+159,157,"concolor","Erinaceus","Southern White-breasted Hedgehog",LC,U,-16731116
+161,160,"europaeus","Erinaceus","Northern Hedgehog",LC,S,-16731116
+162,160,"amurensis","Erinaceus","Amur Hedgehog",LC,S,-16731116
+166,165,"albiventris","Atelerix","Four-toed Hedgehog",LC,S,-16731116
+167,165,"sclateri","Atelerix","Somali Hedgehog",LC,U,-16731116
+168,164,"algirus","Atelerix","Algerian Hedgehog",LC,U,-16731116
+169,163,"frontalis","Atelerix","Southern African Hedgehog",LC,S,-16731116
+174,173,"aethiopicus","Paraechinus","Desert Hedgehog",LC,S,-16731116
+175,173,"micropus","Paraechinus","Indian Hedgehog",LC,D,-16731116
+176,172,"hypomelas","Paraechinus","Brandt's Hedgehog",LC,U,-16731116
+178,177,"auritus","Hemiechinus","Long-eared Hedgehog",LC,U,-16731116
+179,177,"collaris","Hemiechinus","Collared Hedgehog",LC,U,-16731116
+181,180,"dauuricus","Mesechinus","Daurian Hedgehog",LC,S,-16731116
+182,180,"hughi","Mesechinus","Hugh's Hedgehog",LC,D,-16731116
+186,185,"hainanensis","Neohylomys","Hainan Gymnure",EN,D,-8572416
+187,185,"sinensis","Neotetracus","Shrew Gymnure",LC,U,-16731116
+189,188,"suillus","Hylomys","Short-tailed Gymnure",LC,S,-16731116
+190,188,"parvus","Hylomys","Dwarf Gymnure",VU,D,-11184866
+193,192,"aureospinula","Podogymnura","Dinagat Gymnure",EN,D,-8572416
+194,192,"truei","Podogymnura","Mindanao Gymnure",LC,S,-16731116
+195,191,"gymnura","Echinosorex","Moonrat",LC,U,-16731116
+211,210,"micrura","Euroscaptor","Himalayan Mole",LC,U,-16731116
+212,210,"klossi","Euroscaptor","Kloss's Mole",LC,U,-16731116
+213,209,"parvidens","Euroscaptor","Small-toothed Mole",DD,U,-11513776
+215,214,"grandis","Euroscaptor","Greater Chinese Mole",LC,U,-16731116
+216,214,"longirostris","Euroscaptor","Long-nosed Mole",LC,U,-16731116
+217,207,"mizura","Euroscaptor","Japanese Mountain Mole",LC,D,-16731116
+221,220,"wogura","Mogera","Japanese Mole",LC,S,-16731116
+222,220,"tokudae","Mogera","Sado Mole",NT,D,-12486656
+223,219,"imaizumii","Mogera","Small Japanese Mole",LC,S,-16731116
+224,218,"insularis","Mogera","Insular Mole",LC,U,-16731116
+226,225,"occidentalis","Talpa","Iberian Mole",LC,S,-16731116
+227,225,"altaica","Talpa","Siberian Mole",LC,U,-16731116
+228,204,"levantis","Talpa","Levant Mole",LC,S,-16731116
+232,231,"europaea","Talpa","Common Mole",LC,S,-16731116
+233,231,"romana","Talpa","Roman Mole",LC,S,-16731116
+234,230,"caeca","Talpa","Blind Mole",LC,U,-16731116
+235,229,"davidiana","Talpa","Pere David's Mole",DD,U,-11513776
+237,236,"caucasica","Talpa","Caucasian Mole",LC,U,-16731116
+238,236,"stankovici","Talpa","Balkan Mole",LC,U,-16731116
+239,201,"leucura","Parascaptor","White-tailed Mole",LC,U,-16731116
+241,240,"moschatus","Scaptochirus","Short-faced Mole",LC,U,-16731116
+242,240,"uchidai","Mogera","Senkaku Mole",DD,U,-11513776
+243,199,"fusicaudus","Scaptonyx","Long-tailed Mole",LC,U,-16731116
+251,250,"townsendii","Scapanus","Townsend's Mole",LC,S,-16731116
+252,250,"orarius","Scapanus","Coast Mole",LC,S,-16731116
+253,249,"latimanus","Scapanus","Broad-footed Mole",LC,S,-16731116
+254,248,"aquaticus","Scalopus","Eastern Mole",LC,S,-16731116
+255,247,"breweri","Parascalops","Hairy-tailed Mole",LC,S,-16731116
+256,246,"oweni","Scapanulus","Gansu Mole",LC,U,-16731116
+259,258,"talpoides","Urotrichus","Japanese Shrew Mole",LC,S,-16731116
+260,258,"pilirostris","Dymecodon","True's Shrew Mole",LC,S,-16731116
+261,257,"gibbsii","Neurotrichus","Shrew-mole",LC,S,-16731116
+262,244,"cristata","Condylura","Star-nosed Mole",LC,S,-16731116
+264,263,"pyrenaicus","Galemys","Pyrenean Desman",VU,D,-11184866
+265,263,"moschata","Desmana","Russian Desman",VU,D,-11184866
+268,267,"investigator","Uropsilus","Inquisitive Shrew Mole",DD,U,-11513776
+269,267,"soricipes","Uropsilus","Chinese Shrew Mole",LC,U,-16731116
+271,270,"andersoni","Uropsilus","Anderson's Shrew Mole",DD,U,-11513776
+272,270,"gracilis","Uropsilus","Gracile Shrew Mole",LC,U,-16731116

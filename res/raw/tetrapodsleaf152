@@ -1,105 +1,105 @@
-index,parent,name1,name2,common,redlist,popstab
-9,8,"kivuensis","Hyperolius","",LC,U
-10,8,"major","Hyperolius","",LC,D
-13,12,"obstetricans","Alexteroon","",LC,D
-14,12,"jynx","Alexteroon","",CR,D
-15,11,"hypsiphonus","Alexteroon","",LC,D
-17,16,"greshoffii","Cryptothylax","",LC,S
-18,16,"minutus","Cryptothylax","",DD,U
-28,27,"weidholzi","Afrixalus","Weidholz's Banana Frog",LC,S
-29,27,"vittiger","Afrixalus","Savanna Banana Frog",LC,S
-31,30,"knysnae","Afrixalus","Knysna Banana Frog",EN,D
-32,30,"osorioi","Afrixalus","Angola Banana Frog",LC,I
-33,25,"orophilus","Afrixalus","",VU,D
-35,34,"fornasini","Afrixalus","",LC,S
-36,34,"upembae","Afrixalus","",DD,U
-37,23,"nigeriensis","Afrixalus","Nigeria Banana Frog",NT,S
-44,43,"clarkeorum","Afrixalus","",NE,U
-45,43,"lacteus","Afrixalus","",EN,D
-46,42,"delicatus","Afrixalus","Pickersgill's Banana Frog",LC,D
-47,41,"vibekensis","Afrixalus","",NT,D
-48,40,"fulvovittatus","Afrixalus","Banded Banana Frog",LC,S
-49,39,"spinifrons","Afrixalus","Natal Banana Frog",VU,D
-50,38,"enseticola","Afrixalus","Ethiopian Banana Frog",VU,D
-56,55,"lindholmi","Afrixalus","",DD,U
-57,55,"morerei","Afrixalus","",VU,D
-58,54,"leucostictus","Afrixalus","",LC,D
-60,59,"quadrivittatus","Afrixalus","",LC,S
-61,59,"schneideri","Afrixalus","",DD,U
-62,52,"equatorialis","Afrixalus","Congo Banana Frog",LC,U
-64,63,"stuhlmanni","Afrixalus","",LC,U
-65,63,"laevis","Afrixalus","",LC,D
-69,68,"aureus","Afrixalus","Golden Banana Frog",LC,S
-70,68,"uluguruensis","Afrixalus","",EN,D
-71,67,"paradorsalis","Afrixalus","",LC,S
-73,72,"dorsalis","Afrixalus","Brown Banana Frog",LC,I
-74,72,"wittei","Afrixalus","",LC,S
-81,80,"boettgeri","Heterixalus","",LC,U
-82,80,"andrakata","Heterixalus","",LC,S
-84,83,"rutenbergi","Heterixalus","",NT,D
-85,83,"carbonei","Heterixalus","",NT,D
-86,78,"alboguttatus","Heterixalus","",LC,S
-90,89,"variabilis","Heterixalus","",LC,S
-91,89,"betsileo","Heterixalus","",LC,S
-92,88,"tricolor","Heterixalus","",LC,S
-93,87,"luteostriatus","Heterixalus","",LC,S
-95,94,"madagascariensis","Heterixalus","",LC,S
-96,94,"punctatus","Heterixalus","",LC,S
-97,75,"seychellensis","Tachycnemis","Seychelles Treefrog",LC,U
-98,3,"immaculatus","Opisthothylax","",LC,D
-110,109,"lamottei","Kassina","",VU,D
-111,109,"maculosa","Kassina","",LC,U
-112,108,"maculata","Kassina","",LC,U
-113,107,"somalica","Kassina","",LC,U
-116,115,"cassinoides","Kassina","Silver Running Frog",LC,S
-117,115,"arboricola","Kassina","",VU,D
-118,114,"schioetzi","Kassina","",LC,U
-120,119,"kuvangensis","Kassina","",LC,S
-121,119,"cochranae","Kassina","",NT,D
-123,122,"fusca","Kassina","Brown Running Frog",LC,S
-124,122,"mertensi","Kassina","",DD,U
-125,103,"senegalensis","Kassina","",LC,S
-126,102,"maculifer","Kassina","",LC,U
-130,129,"kounhiensis","Paracassina","",LC,D
-131,129,"obscura","Paracassina","",LC,D
-132,128,"wealii","Semnodactylus","Weale's Running Frog",LC,S
-133,127,"wittei","Kassinula","",LC,S
-137,136,"boulengeri","Phlyctimantis","",LC,S
-138,136,"keithae","Phlyctimantis","",VU,D
-139,135,"leonardi","Phlyctimantis","",LC,S
-140,134,"verrucosus","Phlyctimantis","",LC,S
-144,143,"spinosus","Acanthixalus","",LC,D
-145,143,"sonjae","Acanthixalus","",NT,D
-146,142,"pictus","Callixalus","",VU,D
-147,141,"cupreonitens","Chrysobatrachus","",DD,U
-155,154,"adspersus","Breviceps","Common Rain Frog",LC,S
-156,154,"bagginsi","Breviceps","",DD,D
-157,153,"rosei","Breviceps","Rose's Rain Frog",LC,S
-159,158,"acutirostris","Breviceps","Common Rain Frog",LC,S
-160,158,"sopranus","Breviceps","Whistling Rain Frog",DD,D
-164,163,"namaquensis","Breviceps","Namaqua Rain Frog",LC,S
-165,163,"gibbosus","Breviceps","Giant Rain Frog",VU,D
-166,162,"poweri","Breviceps","Power's Rain Frog",LC,S
-167,161,"montanus","Breviceps","Mountain Rain Frog",LC,S
-171,170,"verrucosus","Breviceps","Plaintive Rain Frog",LC,S
-172,170,"fuscus","Breviceps","Black Rain Frog",LC,S
-173,169,"macrops","Breviceps","Desert Rain Frog",VU,D
-176,175,"mossambicus","Breviceps","Mozambique Rain Frog",LC,S
-177,175,"sylvestris","Breviceps","Forest Rain Frog",VU,D
-178,174,"fichus","Breviceps","",LC,U
-183,182,"macrodactylus","Probreviceps","",VU,D
-184,182,"uluguruensis","Probreviceps","",VU,S
-186,185,"rhodesianus","Probreviceps","",EN,D
-187,185,"rungwensis","Probreviceps","",VU,D
-189,188,"kisiwamsitu","Callulina","",EN,D
-190,188,"kreffti","Callulina","",LC,D
-191,179,"methneri","Spelaeophryne","",LC,U
-197,196,"wittei","Hemisus","De Witte's Snout-burrower",DD,U
-198,196,"guineensis","Hemisus","Guinea Snout-burrower",LC,U
-199,195,"perreti","Hemisus","Perret's Snout-burrower",DD,U
-200,194,"marmoratus","Hemisus","Marbled Snout-burrower",LC,U
-202,201,"microscaphus","Hemisus","Ethiopian Snout-burrower",LC,D
-203,201,"guttatus","Hemisus","Spotted Snout-burrower",VU,D
-206,205,"olivaceus","Hemisus","Olive Snout-burrower",LC,D
-207,205,"barotseensis","Hemisus","",DD,U
-208,204,"brachydactylus","Hemisus","Masiliwa Snout-burrower",DD,U
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"kivuensis","Hyperolius","",LC,U,-16731116
+10,8,"major","Hyperolius","",LC,D,-16731116
+13,12,"obstetricans","Alexteroon","",LC,D,-16731116
+14,12,"jynx","Alexteroon","",CR,D,-3014646
+15,11,"hypsiphonus","Alexteroon","",LC,D,-16731116
+17,16,"greshoffii","Cryptothylax","",LC,S,-16731116
+18,16,"minutus","Cryptothylax","",DD,U,-11513776
+28,27,"weidholzi","Afrixalus","Weidholz's Banana Frog",LC,S,-16731116
+29,27,"vittiger","Afrixalus","Savanna Banana Frog",LC,S,-16731116
+31,30,"knysnae","Afrixalus","Knysna Banana Frog",EN,D,-8572416
+32,30,"osorioi","Afrixalus","Angola Banana Frog",LC,I,-16731116
+33,25,"orophilus","Afrixalus","",VU,D,-11184866
+35,34,"fornasini","Afrixalus","",LC,S,-16731116
+36,34,"upembae","Afrixalus","",DD,U,-11513776
+37,23,"nigeriensis","Afrixalus","Nigeria Banana Frog",NT,S,-12486656
+44,43,"clarkeorum","Afrixalus","",NE,U,-16777216
+45,43,"lacteus","Afrixalus","",EN,D,-8572416
+46,42,"delicatus","Afrixalus","Pickersgill's Banana Frog",LC,D,-16731116
+47,41,"vibekensis","Afrixalus","",NT,D,-12486656
+48,40,"fulvovittatus","Afrixalus","Banded Banana Frog",LC,S,-16731116
+49,39,"spinifrons","Afrixalus","Natal Banana Frog",VU,D,-11184866
+50,38,"enseticola","Afrixalus","Ethiopian Banana Frog",VU,D,-11184866
+56,55,"lindholmi","Afrixalus","",DD,U,-11513776
+57,55,"morerei","Afrixalus","",VU,D,-11184866
+58,54,"leucostictus","Afrixalus","",LC,D,-16731116
+60,59,"quadrivittatus","Afrixalus","",LC,S,-16731116
+61,59,"schneideri","Afrixalus","",DD,U,-11513776
+62,52,"equatorialis","Afrixalus","Congo Banana Frog",LC,U,-16731116
+64,63,"stuhlmanni","Afrixalus","",LC,U,-16731116
+65,63,"laevis","Afrixalus","",LC,D,-16731116
+69,68,"aureus","Afrixalus","Golden Banana Frog",LC,S,-16731116
+70,68,"uluguruensis","Afrixalus","",EN,D,-8572416
+71,67,"paradorsalis","Afrixalus","",LC,S,-16731116
+73,72,"dorsalis","Afrixalus","Brown Banana Frog",LC,I,-16731116
+74,72,"wittei","Afrixalus","",LC,S,-16731116
+81,80,"boettgeri","Heterixalus","",LC,U,-16731116
+82,80,"andrakata","Heterixalus","",LC,S,-16731116
+84,83,"rutenbergi","Heterixalus","",NT,D,-12486656
+85,83,"carbonei","Heterixalus","",NT,D,-12486656
+86,78,"alboguttatus","Heterixalus","",LC,S,-16731116
+90,89,"variabilis","Heterixalus","",LC,S,-16731116
+91,89,"betsileo","Heterixalus","",LC,S,-16731116
+92,88,"tricolor","Heterixalus","",LC,S,-16731116
+93,87,"luteostriatus","Heterixalus","",LC,S,-16731116
+95,94,"madagascariensis","Heterixalus","",LC,S,-16731116
+96,94,"punctatus","Heterixalus","",LC,S,-16731116
+97,75,"seychellensis","Tachycnemis","Seychelles Treefrog",LC,U,-16731116
+98,3,"immaculatus","Opisthothylax","",LC,D,-16731116
+110,109,"lamottei","Kassina","",VU,D,-11184866
+111,109,"maculosa","Kassina","",LC,U,-16731116
+112,108,"maculata","Kassina","",LC,U,-16731116
+113,107,"somalica","Kassina","",LC,U,-16731116
+116,115,"cassinoides","Kassina","Silver Running Frog",LC,S,-16731116
+117,115,"arboricola","Kassina","",VU,D,-11184866
+118,114,"schioetzi","Kassina","",LC,U,-16731116
+120,119,"kuvangensis","Kassina","",LC,S,-16731116
+121,119,"cochranae","Kassina","",NT,D,-12486656
+123,122,"fusca","Kassina","Brown Running Frog",LC,S,-16731116
+124,122,"mertensi","Kassina","",DD,U,-11513776
+125,103,"senegalensis","Kassina","",LC,S,-16731116
+126,102,"maculifer","Kassina","",LC,U,-16731116
+130,129,"kounhiensis","Paracassina","",LC,D,-16731116
+131,129,"obscura","Paracassina","",LC,D,-16731116
+132,128,"wealii","Semnodactylus","Weale's Running Frog",LC,S,-16731116
+133,127,"wittei","Kassinula","",LC,S,-16731116
+137,136,"boulengeri","Phlyctimantis","",LC,S,-16731116
+138,136,"keithae","Phlyctimantis","",VU,D,-11184866
+139,135,"leonardi","Phlyctimantis","",LC,S,-16731116
+140,134,"verrucosus","Phlyctimantis","",LC,S,-16731116
+144,143,"spinosus","Acanthixalus","",LC,D,-16731116
+145,143,"sonjae","Acanthixalus","",NT,D,-12486656
+146,142,"pictus","Callixalus","",VU,D,-11184866
+147,141,"cupreonitens","Chrysobatrachus","",DD,U,-11513776
+155,154,"adspersus","Breviceps","Common Rain Frog",LC,S,-16731116
+156,154,"bagginsi","Breviceps","",DD,D,-11513776
+157,153,"rosei","Breviceps","Rose's Rain Frog",LC,S,-16731116
+159,158,"acutirostris","Breviceps","Common Rain Frog",LC,S,-16731116
+160,158,"sopranus","Breviceps","Whistling Rain Frog",DD,D,-11513776
+164,163,"namaquensis","Breviceps","Namaqua Rain Frog",LC,S,-16731116
+165,163,"gibbosus","Breviceps","Giant Rain Frog",VU,D,-11184866
+166,162,"poweri","Breviceps","Power's Rain Frog",LC,S,-16731116
+167,161,"montanus","Breviceps","Mountain Rain Frog",LC,S,-16731116
+171,170,"verrucosus","Breviceps","Plaintive Rain Frog",LC,S,-16731116
+172,170,"fuscus","Breviceps","Black Rain Frog",LC,S,-16731116
+173,169,"macrops","Breviceps","Desert Rain Frog",VU,D,-11184866
+176,175,"mossambicus","Breviceps","Mozambique Rain Frog",LC,S,-16731116
+177,175,"sylvestris","Breviceps","Forest Rain Frog",VU,D,-11184866
+178,174,"fichus","Breviceps","",LC,U,-16731116
+183,182,"macrodactylus","Probreviceps","",VU,D,-11184866
+184,182,"uluguruensis","Probreviceps","",VU,S,-11184866
+186,185,"rhodesianus","Probreviceps","",EN,D,-8572416
+187,185,"rungwensis","Probreviceps","",VU,D,-11184866
+189,188,"kisiwamsitu","Callulina","",EN,D,-8572416
+190,188,"kreffti","Callulina","",LC,D,-16731116
+191,179,"methneri","Spelaeophryne","",LC,U,-16731116
+197,196,"wittei","Hemisus","De Witte's Snout-burrower",DD,U,-11513776
+198,196,"guineensis","Hemisus","Guinea Snout-burrower",LC,U,-16731116
+199,195,"perreti","Hemisus","Perret's Snout-burrower",DD,U,-11513776
+200,194,"marmoratus","Hemisus","Marbled Snout-burrower",LC,U,-16731116
+202,201,"microscaphus","Hemisus","Ethiopian Snout-burrower",LC,D,-16731116
+203,201,"guttatus","Hemisus","Spotted Snout-burrower",VU,D,-11184866
+206,205,"olivaceus","Hemisus","Olive Snout-burrower",LC,D,-16731116
+207,205,"barotseensis","Hemisus","",DD,U,-11513776
+208,204,"brachydactylus","Hemisus","Masiliwa Snout-burrower",DD,U,-11513776

@@ -1,114 +1,114 @@
-index,parent,name1,name2,common,redlist,popstab
-16,15,"opistherythra","Rhipidura","Long-tailed Fantail",NT,U
-17,15,"semirubra","Rhipidura","Manus Fantail",VU,U
-18,14,"phasiana","Rhipidura","Mangrove Fantail",LC,U
-20,19,"rennelliana","Rhipidura","Rennell Fantail",LC,U
-21,19,"fuliginosa","Rhipidura","Grey Fantail",LC,U
-23,22,"personata","Rhipidura","Kadavu Fantail",NT,U
-24,22,"lepida","Rhipidura","Palau Fantail",LC,U
-26,25,"verreauxi","Rhipidura","Streaked Fantail",LC,U
-27,25,"tenebrosa","Rhipidura","Dusky Fantail",NT,U
-30,29,"hyperythra","Rhipidura","Chestnut-bellied Fantail",LC,U
-31,29,"dedemi","Rhipidura","Streaky-breasted Fantail",LC,U
-33,32,"albolimbata","Rhipidura","Friendly Fantail",LC,U
-34,32,"kubaryi","Rhipidura","Pohnpei Fantail",LC,U
-40,39,"teysmanni","Rhipidura","Rusty-bellied Fantail",LC,U
-41,39,"rufifrons","Rhipidura","Rufous Fantail",LC,U
-42,38,"phoenicura","Rhipidura","Rufous-tailed Fantail",LC,U
-44,43,"malaitae","Rhipidura","Malaita Fantail",VU,U
-45,43,"dahli","Rhipidura","Bismarck Fantail",LC,U
-46,36,"rufidorsa","Rhipidura","Rufous-backed Fantail",LC,U
-48,47,"brachyrhyncha","Rhipidura","Dimorphic Fantail",LC,U
-49,47,"superflua","Rhipidura","Tawny-backed Fantail",LC,U
-53,52,"cockerelli","Rhipidura","White-winged Fantail",NT,U
-54,52,"rufiventris","Rhipidura","Northern Fantail",LC,U
-55,51,"fuscorufa","Rhipidura","Cinnamon-tailed Fantail",NT,U
-56,50,"perlata","Rhipidura","Spotted Fantail",LC,U
-59,58,"cyaniceps","Rhipidura","Blue-headed Fantail",LC,U
-60,58,"superciliaris","Rhipidura","Blue Fantail",LC,U
-61,57,"nigrocinnamomea","Rhipidura","Black-and-cinnamon Fantail",LC,U
-64,63,"euryura","Rhipidura","White-bellied Fantail",LC,U
-65,63,"atra","Rhipidura","Black Fantail",LC,U
-66,62,"drownei","Rhipidura","Brown Fantail",LC,U
-73,72,"albicollis","Rhipidura","White-throated Fantail",LC,U
-74,72,"aureola","Rhipidura","White-browed Fantail",LC,U
-76,75,"maculipectus","Rhipidura","Black Thicket-fantail",LC,U
-77,75,"matthiae","Rhipidura","Matthias Fantail",NT,U
-78,70,"javanica","Rhipidura","Pied Fantail",LC,U
-79,69,"leucophrys","Rhipidura","Willie-wagtail",LC,U
-81,80,"leucothorax","Rhipidura","White-bellied Thicket-fantail",LC,U
-82,80,"threnothorax","Rhipidura","Sooty Thicket-fantail",LC,U
-84,83,"diluta","Rhipidura","Brown-capped Fantail",LC,U
-85,83,"nebulosa","Rhipidura","Samoan Fantail",LC,U
-87,86,"papuensis","Chaetorhynchus","Pygmy Drongo",LC,U
-88,86,"victoriae","Lamprolia","Silktail",NT,U
-90,89,"melanorhamphos","Corcorax","White-winged Chough",LC,U
-91,89,"cinerea","Struthidea","Apostlebird",LC,U
-102,101,"occipitalis","Dendrocitta","Sunda Treepie",LC,U
-103,101,"vagabunda","Dendrocitta","Rufous Treepie",LC,U
-104,100,"bayleyi","Dendrocitta","Andaman Treepie",NT,U
-105,99,"frontalis","Dendrocitta","Collared Treepie",LC,U
-106,98,"leucogastra","Dendrocitta","White-bellied Treepie",LC,U
-107,97,"formosae","Dendrocitta","Grey Treepie",LC,U
-110,109,"temnurus","Temnurus","Ratchet-tailed Treepie",LC,U
-111,109,"leucopterus","Platysmurus","Black Magpie",NT,U
-113,112,"temia","Crypsirina","Racket-tailed Treepie",LC,U
-114,112,"cucullata","Crypsirina","Hooded Treepie",NT,U
-116,115,"pyrrhocorax","Pyrrhocorax","Red-billed Chough",LC,U
-117,115,"graculus","Pyrrhocorax","Yellow-billed Chough",LC,U
-129,128,"tephronotus","Lanius","Grey-backed Shrike",LC,U
-130,128,"cristatus","Lanius","Brown Shrike",LC,U
-131,127,"bucephalus","Lanius","Bull-headed Shrike",LC,U
-132,126,"schach","Lanius","Long-tailed Shrike",LC,U
-134,133,"isabellinus","Lanius","Rufous-tailed Shrike",LC,U
-135,133,"collurio","Lanius","Red-backed Shrike",LC,U
-136,124,"tigrinus","Lanius","Tiger Shrike",LC,U
-140,139,"mackinnoni","Lanius","Mackinnon's Shrike",LC,U
-141,139,"collaris","Lanius","Common Fiscal",LC,U
-142,138,"souzae","Lanius","Souza's Shrike",LC,U
-144,143,"minor","Lanius","Lesser Grey Shrike",LC,U
-145,143,"senator","Lanius","Woodchat Shrike",LC,U
-148,147,"nubicus","Lanius","Masked Shrike",LC,U
-149,147,"marwitzi","Lanius","Uhehe Fiscal",LC,U
-150,146,"gubernator","Lanius","Emin's Shrike",LC,U
-157,156,"sphenocercus","Lanius","Chinese Grey Shrike",LC,U
-158,156,"excubitor","Lanius","Great Grey Shrike",LC,U
-159,155,"newtoni","Lanius","Sao Tome Fiscal",CR,U
-160,154,"ludovicianus","Lanius","Loggerhead Shrike",LC,U
-162,161,"meridionalis","Lanius","Southern Grey Shrike",_U,[
-163,161,"validirostris","Lanius","Mountain Shrike",NT,U
-164,152,"somalicus","Lanius","Somali Fiscal",LC,U
-167,166,"corvina","Corvinella","Yellow-billed Shrike",LC,U
-168,166,"dorsalis","Lanius","Taita Fiscal",LC,U
-169,165,"vittatus","Lanius","Bay-backed Shrike",LC,U
-170,120,"excubitoroides","Lanius","Grey-backed Fiscal",LC,U
-173,172,"melanoleucus","Urolestes","Magpie Shrike",LC,U
-174,172,"cabanisi","Lanius","Long-tailed Fiscal",LC,U
-175,171,"collurioides","Lanius","Burmese Shrike",LC,U
-178,177,"anguitimens","Eurocephalus","White-crowned Shrike",LC,U
-179,177,"rueppelli","Eurocephalus","White-rumped Shrike",LC,U
-180,176,"galericulatus","Platylophus","Crested Jay",NT,U
-181,92,"kowaldi","Ifrita","Ifrit",LC,U
-191,190,"caerulescens","Dicrurus","White-bellied Drongo",LC,U
-192,190,"waldenii","Dicrurus","Mayotte Drongo",VU,U
-194,193,"aldabranus","Dicrurus","Aldabra Drongo",NT,U
-195,193,"forficatus","Dicrurus","Crested Drongo",LC,U
-196,188,"modestus","Dicrurus","Velvet-mantled Drongo",_U,[
-197,187,"fuscipennis","Dicrurus","Grand Comoro Drongo",EN,U
-199,198,"adsimilis","Dicrurus","Fork-tailed Drongo",LC,U
-200,198,"macrocercus","Dicrurus","Black Drongo",LC,U
-202,201,"sumatranus","Dicrurus","Sumatran Drongo",NT,U
-203,201,"leucophaeus","Dicrurus","Ashy Drongo",LC,U
-207,206,"ludwigii","Dicrurus","Square-tailed Drongo",LC,U
-208,206,"montanus","Dicrurus","Sulawesi Drongo",LC,U
-209,205,"andamanensis","Dicrurus","Andaman Drongo",NT,U
-210,204,"atripennis","Dicrurus","Shining Drongo",LC,U
-216,215,"megarhynchus","Dicrurus","Ribbon-tailed Drongo",LC,U
-217,215,"bracteatus","Dicrurus","Spangled Drongo",LC,U
-218,214,"densus","Dicrurus","Wallacean Drongo",LC,U
-220,219,"hottentottus","Dicrurus","Hair-crested Drongo",LC,U
-221,219,"balicassius","Dicrurus","Balicassiao",LC,U
-223,222,"paradiseus","Dicrurus","Greater Racket-tailed Drongo",LC,U
-224,222,"annectans","Dicrurus","Crow-billed Drongo",LC,U
-225,211,"remifer","Dicrurus","Lesser Racket-tailed Drongo",LC,U
-226,182,"aeneus","Dicrurus","Bronzed Drongo",LC,U
+index,parent,name1,name2,common,redlist,popstab,color
+16,15,"opistherythra","Rhipidura","Long-tailed Fantail",NT,U,-12486656
+17,15,"semirubra","Rhipidura","Manus Fantail",VU,U,-11184866
+18,14,"phasiana","Rhipidura","Mangrove Fantail",LC,U,-16731116
+20,19,"rennelliana","Rhipidura","Rennell Fantail",LC,U,-16731116
+21,19,"fuliginosa","Rhipidura","Grey Fantail",LC,U,-16731116
+23,22,"personata","Rhipidura","Kadavu Fantail",NT,U,-12486656
+24,22,"lepida","Rhipidura","Palau Fantail",LC,U,-16731116
+26,25,"verreauxi","Rhipidura","Streaked Fantail",LC,U,-16731116
+27,25,"tenebrosa","Rhipidura","Dusky Fantail",NT,U,-12486656
+30,29,"hyperythra","Rhipidura","Chestnut-bellied Fantail",LC,U,-16731116
+31,29,"dedemi","Rhipidura","Streaky-breasted Fantail",LC,U,-16731116
+33,32,"albolimbata","Rhipidura","Friendly Fantail",LC,U,-16731116
+34,32,"kubaryi","Rhipidura","Pohnpei Fantail",LC,U,-16731116
+40,39,"teysmanni","Rhipidura","Rusty-bellied Fantail",LC,U,-16731116
+41,39,"rufifrons","Rhipidura","Rufous Fantail",LC,U,-16731116
+42,38,"phoenicura","Rhipidura","Rufous-tailed Fantail",LC,U,-16731116
+44,43,"malaitae","Rhipidura","Malaita Fantail",VU,U,-11184866
+45,43,"dahli","Rhipidura","Bismarck Fantail",LC,U,-16731116
+46,36,"rufidorsa","Rhipidura","Rufous-backed Fantail",LC,U,-16731116
+48,47,"brachyrhyncha","Rhipidura","Dimorphic Fantail",LC,U,-16731116
+49,47,"superflua","Rhipidura","Tawny-backed Fantail",LC,U,-16731116
+53,52,"cockerelli","Rhipidura","White-winged Fantail",NT,U,-12486656
+54,52,"rufiventris","Rhipidura","Northern Fantail",LC,U,-16731116
+55,51,"fuscorufa","Rhipidura","Cinnamon-tailed Fantail",NT,U,-12486656
+56,50,"perlata","Rhipidura","Spotted Fantail",LC,U,-16731116
+59,58,"cyaniceps","Rhipidura","Blue-headed Fantail",LC,U,-16731116
+60,58,"superciliaris","Rhipidura","Blue Fantail",LC,U,-16731116
+61,57,"nigrocinnamomea","Rhipidura","Black-and-cinnamon Fantail",LC,U,-16731116
+64,63,"euryura","Rhipidura","White-bellied Fantail",LC,U,-16731116
+65,63,"atra","Rhipidura","Black Fantail",LC,U,-16731116
+66,62,"drownei","Rhipidura","Brown Fantail",LC,U,-16731116
+73,72,"albicollis","Rhipidura","White-throated Fantail",LC,U,-16731116
+74,72,"aureola","Rhipidura","White-browed Fantail",LC,U,-16731116
+76,75,"maculipectus","Rhipidura","Black Thicket-fantail",LC,U,-16731116
+77,75,"matthiae","Rhipidura","Matthias Fantail",NT,U,-12486656
+78,70,"javanica","Rhipidura","Pied Fantail",LC,U,-16731116
+79,69,"leucophrys","Rhipidura","Willie-wagtail",LC,U,-16731116
+81,80,"leucothorax","Rhipidura","White-bellied Thicket-fantail",LC,U,-16731116
+82,80,"threnothorax","Rhipidura","Sooty Thicket-fantail",LC,U,-16731116
+84,83,"diluta","Rhipidura","Brown-capped Fantail",LC,U,-16731116
+85,83,"nebulosa","Rhipidura","Samoan Fantail",LC,U,-16731116
+87,86,"papuensis","Chaetorhynchus","Pygmy Drongo",LC,U,-16731116
+88,86,"victoriae","Lamprolia","Silktail",NT,U,-12486656
+90,89,"melanorhamphos","Corcorax","White-winged Chough",LC,U,-16731116
+91,89,"cinerea","Struthidea","Apostlebird",LC,U,-16731116
+102,101,"occipitalis","Dendrocitta","Sunda Treepie",LC,U,-16731116
+103,101,"vagabunda","Dendrocitta","Rufous Treepie",LC,U,-16731116
+104,100,"bayleyi","Dendrocitta","Andaman Treepie",NT,U,-12486656
+105,99,"frontalis","Dendrocitta","Collared Treepie",LC,U,-16731116
+106,98,"leucogastra","Dendrocitta","White-bellied Treepie",LC,U,-16731116
+107,97,"formosae","Dendrocitta","Grey Treepie",LC,U,-16731116
+110,109,"temnurus","Temnurus","Ratchet-tailed Treepie",LC,U,-16731116
+111,109,"leucopterus","Platysmurus","Black Magpie",NT,U,-12486656
+113,112,"temia","Crypsirina","Racket-tailed Treepie",LC,U,-16731116
+114,112,"cucullata","Crypsirina","Hooded Treepie",NT,U,-12486656
+116,115,"pyrrhocorax","Pyrrhocorax","Red-billed Chough",LC,U,-16731116
+117,115,"graculus","Pyrrhocorax","Yellow-billed Chough",LC,U,-16731116
+129,128,"tephronotus","Lanius","Grey-backed Shrike",LC,U,-16731116
+130,128,"cristatus","Lanius","Brown Shrike",LC,U,-16731116
+131,127,"bucephalus","Lanius","Bull-headed Shrike",LC,U,-16731116
+132,126,"schach","Lanius","Long-tailed Shrike",LC,U,-16731116
+134,133,"isabellinus","Lanius","Rufous-tailed Shrike",LC,U,-16731116
+135,133,"collurio","Lanius","Red-backed Shrike",LC,U,-16731116
+136,124,"tigrinus","Lanius","Tiger Shrike",LC,U,-16731116
+140,139,"mackinnoni","Lanius","Mackinnon's Shrike",LC,U,-16731116
+141,139,"collaris","Lanius","Common Fiscal",LC,U,-16731116
+142,138,"souzae","Lanius","Souza's Shrike",LC,U,-16731116
+144,143,"minor","Lanius","Lesser Grey Shrike",LC,U,-16731116
+145,143,"senator","Lanius","Woodchat Shrike",LC,U,-16731116
+148,147,"nubicus","Lanius","Masked Shrike",LC,U,-16731116
+149,147,"marwitzi","Lanius","Uhehe Fiscal",LC,U,-16731116
+150,146,"gubernator","Lanius","Emin's Shrike",LC,U,-16731116
+157,156,"sphenocercus","Lanius","Chinese Grey Shrike",LC,U,-16731116
+158,156,"excubitor","Lanius","Great Grey Shrike",LC,U,-16731116
+159,155,"newtoni","Lanius","Sao Tome Fiscal",CR,U,-3014646
+160,154,"ludovicianus","Lanius","Loggerhead Shrike",LC,U,-16731116
+162,161,"meridionalis","Lanius","Southern Grey Shrike",_U,[,-16777216
+163,161,"validirostris","Lanius","Mountain Shrike",NT,U,-12486656
+164,152,"somalicus","Lanius","Somali Fiscal",LC,U,-16731116
+167,166,"corvina","Corvinella","Yellow-billed Shrike",LC,U,-16731116
+168,166,"dorsalis","Lanius","Taita Fiscal",LC,U,-16731116
+169,165,"vittatus","Lanius","Bay-backed Shrike",LC,U,-16731116
+170,120,"excubitoroides","Lanius","Grey-backed Fiscal",LC,U,-16731116
+173,172,"melanoleucus","Urolestes","Magpie Shrike",LC,U,-16731116
+174,172,"cabanisi","Lanius","Long-tailed Fiscal",LC,U,-16731116
+175,171,"collurioides","Lanius","Burmese Shrike",LC,U,-16731116
+178,177,"anguitimens","Eurocephalus","White-crowned Shrike",LC,U,-16731116
+179,177,"rueppelli","Eurocephalus","White-rumped Shrike",LC,U,-16731116
+180,176,"galericulatus","Platylophus","Crested Jay",NT,U,-12486656
+181,92,"kowaldi","Ifrita","Ifrit",LC,U,-16731116
+191,190,"caerulescens","Dicrurus","White-bellied Drongo",LC,U,-16731116
+192,190,"waldenii","Dicrurus","Mayotte Drongo",VU,U,-11184866
+194,193,"aldabranus","Dicrurus","Aldabra Drongo",NT,U,-12486656
+195,193,"forficatus","Dicrurus","Crested Drongo",LC,U,-16731116
+196,188,"modestus","Dicrurus","Velvet-mantled Drongo",_U,[,-16777216
+197,187,"fuscipennis","Dicrurus","Grand Comoro Drongo",EN,U,-8572416
+199,198,"adsimilis","Dicrurus","Fork-tailed Drongo",LC,U,-16731116
+200,198,"macrocercus","Dicrurus","Black Drongo",LC,U,-16731116
+202,201,"sumatranus","Dicrurus","Sumatran Drongo",NT,U,-12486656
+203,201,"leucophaeus","Dicrurus","Ashy Drongo",LC,U,-16731116
+207,206,"ludwigii","Dicrurus","Square-tailed Drongo",LC,U,-16731116
+208,206,"montanus","Dicrurus","Sulawesi Drongo",LC,U,-16731116
+209,205,"andamanensis","Dicrurus","Andaman Drongo",NT,U,-12486656
+210,204,"atripennis","Dicrurus","Shining Drongo",LC,U,-16731116
+216,215,"megarhynchus","Dicrurus","Ribbon-tailed Drongo",LC,U,-16731116
+217,215,"bracteatus","Dicrurus","Spangled Drongo",LC,U,-16731116
+218,214,"densus","Dicrurus","Wallacean Drongo",LC,U,-16731116
+220,219,"hottentottus","Dicrurus","Hair-crested Drongo",LC,U,-16731116
+221,219,"balicassius","Dicrurus","Balicassiao",LC,U,-16731116
+223,222,"paradiseus","Dicrurus","Greater Racket-tailed Drongo",LC,U,-16731116
+224,222,"annectans","Dicrurus","Crow-billed Drongo",LC,U,-16731116
+225,211,"remifer","Dicrurus","Lesser Racket-tailed Drongo",LC,U,-16731116
+226,182,"aeneus","Dicrurus","Bronzed Drongo",LC,U,-16731116

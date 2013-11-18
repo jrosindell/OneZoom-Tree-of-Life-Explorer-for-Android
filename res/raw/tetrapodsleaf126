@@ -1,123 +1,123 @@
-index,parent,name1,name2,common,redlist,popstab
-11,10,"alboguttata","Litoria","Striped Burrowing Frog",LC,S
-12,10,"verrucosa","Litoria","Rough Frog",LC,S
-13,9,"cryptotis","Litoria","Hidden-ear Frog",LC,S
-14,8,"manya","Litoria","Small Frog",LC,S
-16,15,"platycephala","Litoria","Water-holding Frog",LC,S
-17,15,"maini","Litoria","Main's Frog",LC,S
-20,19,"novaehollandiae","Litoria","New Holland Frog",LC,S
-21,19,"longipes","Litoria","Long-footed Frog",LC,S
-23,22,"australis","Litoria","Giant Frog",LC,S
-24,22,"vagitus","Litoria","Wailing Frog",LC,S
-27,26,"maculosa","Litoria","Daly Waters Frog",LC,S
-28,26,"brevipes","Litoria","Collared Frog",LC,S
-29,25,"cultripes","Litoria","Knife-footed Frog",LC,S
-39,38,"ayeaye","Phyllomedusa","",CR,D
-40,38,"rohdei","Phyllomedusa","",LC,S
-41,37,"hypochondrialis","Phyllomedusa","",LC,S
-42,36,"megacephala","Phyllomedusa","",DD,U
-46,45,"trinitatis","Phyllomedusa","",LC,S
-47,45,"bicolor","Phyllomedusa","",LC,S
-48,44,"oreades","Phyllomedusa","",DD,U
-49,43,"centralis","Phyllomedusa","",DD,U
-54,53,"coelestis","Phyllomedusa","",LC,U
-55,53,"duellmani","Phyllomedusa","",DD,U
-56,52,"ecuatoriana","Phyllomedusa","",EN,D
-58,57,"vaillantii","Phyllomedusa","",LC,S
-59,57,"baltea","Phyllomedusa","",EN,D
-60,50,"perinesos","Phyllomedusa","",DD,U
-66,65,"burmeisteri","Phyllomedusa","",LC,S
-67,65,"iheringii","Phyllomedusa","",LC,U
-68,64,"tomopterna","Phyllomedusa","",LC,S
-69,63,"atelopoides","Phyllomedusa","",LC,U
-71,70,"tetraploidea","Phyllomedusa","",LC,S
-72,70,"distincta","Phyllomedusa","",LC,D
-77,76,"sauvagii","Phyllomedusa","",LC,S
-78,76,"tarsius","Phyllomedusa","",LC,S
-80,79,"boliviana","Phyllomedusa","",LC,S
-81,79,"camba","Phyllomedusa","",LC,S
-82,74,"palliata","Phyllomedusa","",LC,S
-83,73,"venusta","Phyllomedusa","",LC,D
-88,87,"appendiculata","Phrynomedusa","",NT,D
-89,87,"vanzolinii","Phrynomedusa","",DD,U
-90,86,"bokermanni","Phrynomedusa","",DD,U
-91,85,"fimbriata","Phrynomedusa","",EX,U
-92,84,"marginata","Phrynomedusa","",LC,D
-94,93,"calcarifer","Cruziohyla","Splendid Treefrog",LC,D
-95,93,"craspedopus","Cruziohyla","",LC,D
-102,101,"callidryas","Agalychnis","Red-eyed Treefrog",LC,D
-103,101,"moreletii","Agalychnis","Morelet's Treefrog",CR,D
-105,104,"spurrelli","Agalychnis","Gliding Treefrog",LC,D
-106,104,"annae","Agalychnis","Blue-sided Treefrog",EN,D
-108,107,"litodryas","Agalychnis","Pink-sided Treefrog",VU,D
-109,107,"saltator","Agalychnis","",LC,S
-110,98,"dacnicolor","Pachymedusa","",LC,D
-115,114,"psilopygion","Hylomantis","",DD,U
-116,114,"lemur","Hylomantis","",CR,D
-117,113,"buckleyi","Hylomantis","",LC,U
-120,119,"medinai","Hylomantis","",NE,U
-121,119,"hulli","Hylomantis","",LC,D
-122,118,"danieli","Hylomantis","",DD,U
-124,123,"granulosa","Hylomantis","",LC,D
-125,123,"aspera","Hylomantis","",LC,D
-129,128,"guttata","Phasmahyla","",LC,D
-130,128,"exilis","Phasmahyla","",LC,D
-131,127,"jandaia","Phasmahyla","",LC,D
-132,126,"cochranae","Phasmahyla","",LC,D
-147,146,"microdiscus","Gastrotheca","",LC,D
-148,146,"ossilaginis","Gastrotheca","",DD,U
-149,145,"nicefori","Gastrotheca","",LC,S
-150,144,"plumbea","Gastrotheca","",VU,D
-152,151,"albolineata","Gastrotheca","",LC,D
-153,151,"pseustes","Gastrotheca","",EN,D
-155,154,"trachyceps","Gastrotheca","",EN,D
-156,154,"ruizi","Gastrotheca","",EN,D
-157,141,"longipes","Gastrotheca","",LC,D
-160,159,"gracilis","Gastrotheca","",VU,D
-161,159,"cornuta","Gastrotheca","",EN,D
-162,158,"phalarosa","Gastrotheca","",DD,U
-165,164,"pacchamama","Gastrotheca","",DD,U
-166,164,"galeata","Gastrotheca","",DD,U
-168,167,"rebeccae","Gastrotheca","",DD,U
-169,167,"atympana","Gastrotheca","",DD,U
-171,170,"williamsoni","Gastrotheca","",DD,U
-172,170,"orophylax","Gastrotheca","",EN,D
-175,174,"lateonota","Gastrotheca","",DD,U
-176,174,"excubitor","Gastrotheca","",VU,D
-177,173,"christiani","Gastrotheca","",EN,D
-182,181,"testudinea","Gastrotheca","",LC,D
-183,181,"abdita","Gastrotheca","",DD,U
-184,180,"fissipes","Gastrotheca","",LC,S
-186,185,"argenteovirens","Gastrotheca","",LC,S
-187,185,"piperata","Gastrotheca","",LC,U
-189,188,"zeugocystis","Gastrotheca","",CR,D
-190,188,"peruana","Gastrotheca","",LC,S
-196,195,"psychrophila","Gastrotheca","",EN,D
-197,195,"riobambae","Gastrotheca","",EN,D
-199,198,"walkeri","Gastrotheca","",DD,U
-200,198,"bufona","Gastrotheca","",EN,D
-203,202,"lauzuricae","Gastrotheca","",CR,D
-204,202,"monticola","Gastrotheca","",LC,S
-205,201,"dendronastes","Gastrotheca","",VU,D
-207,206,"andaquiensis","Gastrotheca","",NT,D
-208,206,"griswoldi","Gastrotheca","",LC,S
-211,210,"guentheri","Gastrotheca","",VU,D
-212,210,"ovifera","Gastrotheca","",EN,D
-213,209,"aureomaculata","Gastrotheca","",NT,S
-220,219,"marsupiata","Gastrotheca","",LC,S
-221,219,"weinlandii","Gastrotheca","",DD,U
-222,218,"chrysosticta","Gastrotheca","",VU,D
-223,217,"litonedis","Gastrotheca","",EN,D
-224,216,"helenae","Gastrotheca","",DD,U
-226,225,"angustifrons","Gastrotheca","",VU,D
-227,225,"espeletia","Gastrotheca","",EN,D
-231,230,"antomia","Gastrotheca","",VU,D
-232,230,"dunni","Gastrotheca","",LC,S
-233,229,"splendens","Gastrotheca","",EN,D
-235,234,"stictopleura","Gastrotheca","",EN,D
-236,234,"ochoai","Gastrotheca","",DD,U
-240,239,"fitzgeraldi","Flectonotus","",EN,D
-241,239,"ohausi","Flectonotus","",LC,S
-243,242,"pygmaeus","Flectonotus","",LC,U
-244,242,"goeldii","Flectonotus","",LC,S
-245,237,"fissilis","Flectonotus","",LC,S
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"alboguttata","Litoria","Striped Burrowing Frog",LC,S,-16731116
+12,10,"verrucosa","Litoria","Rough Frog",LC,S,-16731116
+13,9,"cryptotis","Litoria","Hidden-ear Frog",LC,S,-16731116
+14,8,"manya","Litoria","Small Frog",LC,S,-16731116
+16,15,"platycephala","Litoria","Water-holding Frog",LC,S,-16731116
+17,15,"maini","Litoria","Main's Frog",LC,S,-16731116
+20,19,"novaehollandiae","Litoria","New Holland Frog",LC,S,-16731116
+21,19,"longipes","Litoria","Long-footed Frog",LC,S,-16731116
+23,22,"australis","Litoria","Giant Frog",LC,S,-16731116
+24,22,"vagitus","Litoria","Wailing Frog",LC,S,-16731116
+27,26,"maculosa","Litoria","Daly Waters Frog",LC,S,-16731116
+28,26,"brevipes","Litoria","Collared Frog",LC,S,-16731116
+29,25,"cultripes","Litoria","Knife-footed Frog",LC,S,-16731116
+39,38,"ayeaye","Phyllomedusa","",CR,D,-3014646
+40,38,"rohdei","Phyllomedusa","",LC,S,-16731116
+41,37,"hypochondrialis","Phyllomedusa","",LC,S,-16731116
+42,36,"megacephala","Phyllomedusa","",DD,U,-11513776
+46,45,"trinitatis","Phyllomedusa","",LC,S,-16731116
+47,45,"bicolor","Phyllomedusa","",LC,S,-16731116
+48,44,"oreades","Phyllomedusa","",DD,U,-11513776
+49,43,"centralis","Phyllomedusa","",DD,U,-11513776
+54,53,"coelestis","Phyllomedusa","",LC,U,-16731116
+55,53,"duellmani","Phyllomedusa","",DD,U,-11513776
+56,52,"ecuatoriana","Phyllomedusa","",EN,D,-8572416
+58,57,"vaillantii","Phyllomedusa","",LC,S,-16731116
+59,57,"baltea","Phyllomedusa","",EN,D,-8572416
+60,50,"perinesos","Phyllomedusa","",DD,U,-11513776
+66,65,"burmeisteri","Phyllomedusa","",LC,S,-16731116
+67,65,"iheringii","Phyllomedusa","",LC,U,-16731116
+68,64,"tomopterna","Phyllomedusa","",LC,S,-16731116
+69,63,"atelopoides","Phyllomedusa","",LC,U,-16731116
+71,70,"tetraploidea","Phyllomedusa","",LC,S,-16731116
+72,70,"distincta","Phyllomedusa","",LC,D,-16731116
+77,76,"sauvagii","Phyllomedusa","",LC,S,-16731116
+78,76,"tarsius","Phyllomedusa","",LC,S,-16731116
+80,79,"boliviana","Phyllomedusa","",LC,S,-16731116
+81,79,"camba","Phyllomedusa","",LC,S,-16731116
+82,74,"palliata","Phyllomedusa","",LC,S,-16731116
+83,73,"venusta","Phyllomedusa","",LC,D,-16731116
+88,87,"appendiculata","Phrynomedusa","",NT,D,-12486656
+89,87,"vanzolinii","Phrynomedusa","",DD,U,-11513776
+90,86,"bokermanni","Phrynomedusa","",DD,U,-11513776
+91,85,"fimbriata","Phrynomedusa","",EX,U,-16777036
+92,84,"marginata","Phrynomedusa","",LC,D,-16731116
+94,93,"calcarifer","Cruziohyla","Splendid Treefrog",LC,D,-16731116
+95,93,"craspedopus","Cruziohyla","",LC,D,-16731116
+102,101,"callidryas","Agalychnis","Red-eyed Treefrog",LC,D,-16731116
+103,101,"moreletii","Agalychnis","Morelet's Treefrog",CR,D,-3014646
+105,104,"spurrelli","Agalychnis","Gliding Treefrog",LC,D,-16731116
+106,104,"annae","Agalychnis","Blue-sided Treefrog",EN,D,-8572416
+108,107,"litodryas","Agalychnis","Pink-sided Treefrog",VU,D,-11184866
+109,107,"saltator","Agalychnis","",LC,S,-16731116
+110,98,"dacnicolor","Pachymedusa","",LC,D,-16731116
+115,114,"psilopygion","Hylomantis","",DD,U,-11513776
+116,114,"lemur","Hylomantis","",CR,D,-3014646
+117,113,"buckleyi","Hylomantis","",LC,U,-16731116
+120,119,"medinai","Hylomantis","",NE,U,-16777216
+121,119,"hulli","Hylomantis","",LC,D,-16731116
+122,118,"danieli","Hylomantis","",DD,U,-11513776
+124,123,"granulosa","Hylomantis","",LC,D,-16731116
+125,123,"aspera","Hylomantis","",LC,D,-16731116
+129,128,"guttata","Phasmahyla","",LC,D,-16731116
+130,128,"exilis","Phasmahyla","",LC,D,-16731116
+131,127,"jandaia","Phasmahyla","",LC,D,-16731116
+132,126,"cochranae","Phasmahyla","",LC,D,-16731116
+147,146,"microdiscus","Gastrotheca","",LC,D,-16731116
+148,146,"ossilaginis","Gastrotheca","",DD,U,-11513776
+149,145,"nicefori","Gastrotheca","",LC,S,-16731116
+150,144,"plumbea","Gastrotheca","",VU,D,-11184866
+152,151,"albolineata","Gastrotheca","",LC,D,-16731116
+153,151,"pseustes","Gastrotheca","",EN,D,-8572416
+155,154,"trachyceps","Gastrotheca","",EN,D,-8572416
+156,154,"ruizi","Gastrotheca","",EN,D,-8572416
+157,141,"longipes","Gastrotheca","",LC,D,-16731116
+160,159,"gracilis","Gastrotheca","",VU,D,-11184866
+161,159,"cornuta","Gastrotheca","",EN,D,-8572416
+162,158,"phalarosa","Gastrotheca","",DD,U,-11513776
+165,164,"pacchamama","Gastrotheca","",DD,U,-11513776
+166,164,"galeata","Gastrotheca","",DD,U,-11513776
+168,167,"rebeccae","Gastrotheca","",DD,U,-11513776
+169,167,"atympana","Gastrotheca","",DD,U,-11513776
+171,170,"williamsoni","Gastrotheca","",DD,U,-11513776
+172,170,"orophylax","Gastrotheca","",EN,D,-8572416
+175,174,"lateonota","Gastrotheca","",DD,U,-11513776
+176,174,"excubitor","Gastrotheca","",VU,D,-11184866
+177,173,"christiani","Gastrotheca","",EN,D,-8572416
+182,181,"testudinea","Gastrotheca","",LC,D,-16731116
+183,181,"abdita","Gastrotheca","",DD,U,-11513776
+184,180,"fissipes","Gastrotheca","",LC,S,-16731116
+186,185,"argenteovirens","Gastrotheca","",LC,S,-16731116
+187,185,"piperata","Gastrotheca","",LC,U,-16731116
+189,188,"zeugocystis","Gastrotheca","",CR,D,-3014646
+190,188,"peruana","Gastrotheca","",LC,S,-16731116
+196,195,"psychrophila","Gastrotheca","",EN,D,-8572416
+197,195,"riobambae","Gastrotheca","",EN,D,-8572416
+199,198,"walkeri","Gastrotheca","",DD,U,-11513776
+200,198,"bufona","Gastrotheca","",EN,D,-8572416
+203,202,"lauzuricae","Gastrotheca","",CR,D,-3014646
+204,202,"monticola","Gastrotheca","",LC,S,-16731116
+205,201,"dendronastes","Gastrotheca","",VU,D,-11184866
+207,206,"andaquiensis","Gastrotheca","",NT,D,-12486656
+208,206,"griswoldi","Gastrotheca","",LC,S,-16731116
+211,210,"guentheri","Gastrotheca","",VU,D,-11184866
+212,210,"ovifera","Gastrotheca","",EN,D,-8572416
+213,209,"aureomaculata","Gastrotheca","",NT,S,-12486656
+220,219,"marsupiata","Gastrotheca","",LC,S,-16731116
+221,219,"weinlandii","Gastrotheca","",DD,U,-11513776
+222,218,"chrysosticta","Gastrotheca","",VU,D,-11184866
+223,217,"litonedis","Gastrotheca","",EN,D,-8572416
+224,216,"helenae","Gastrotheca","",DD,U,-11513776
+226,225,"angustifrons","Gastrotheca","",VU,D,-11184866
+227,225,"espeletia","Gastrotheca","",EN,D,-8572416
+231,230,"antomia","Gastrotheca","",VU,D,-11184866
+232,230,"dunni","Gastrotheca","",LC,S,-16731116
+233,229,"splendens","Gastrotheca","",EN,D,-8572416
+235,234,"stictopleura","Gastrotheca","",EN,D,-8572416
+236,234,"ochoai","Gastrotheca","",DD,U,-11513776
+240,239,"fitzgeraldi","Flectonotus","",EN,D,-8572416
+241,239,"ohausi","Flectonotus","",LC,S,-16731116
+243,242,"pygmaeus","Flectonotus","",LC,U,-16731116
+244,242,"goeldii","Flectonotus","",LC,S,-16731116
+245,237,"fissilis","Flectonotus","",LC,S,-16731116

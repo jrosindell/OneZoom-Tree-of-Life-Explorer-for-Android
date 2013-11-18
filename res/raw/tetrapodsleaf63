@@ -1,140 +1,140 @@
-index,parent,name1,name2,common,redlist,popstab
-12,11,"folicola","Philautus","",EN,D
-13,11,"limbus","Philautus","",CR,D
-14,10,"leucorhinus","Philautus","",EX,U
-16,15,"zimmeri","Philautus","",EX,U
-17,15,"fulvus","Philautus","",EN,D
-20,19,"abundus","Philautus","",LC,S
-21,19,"procax","Philautus","",CR,D
-22,18,"silvaticus","Philautus","",EN,D
-25,24,"parvulus","Philautus","Karin Bubble-nest Frog",LC,S
-26,24,"hainanus","Philautus","",DD,U
-28,27,"annandalii","Philautus","",LC,D
-29,27,"ocellatus","Philautus","",EN,D
-37,36,"cavirostris","Philautus","",EN,D
-38,36,"extirpo","Philautus","",EX,U
-39,35,"decoris","Philautus","",EN,D
-40,34,"mittermeieri","Philautus","",EN,D
-41,33,"schmarda","Philautus","",EN,D
-42,32,"hallidayi","Philautus","",VU,D
-43,31,"chlorosomma","Philautus","",NE,U
-44,30,"garo","Philautus","",VU,D
-50,49,"adspersus","Philautus","",EX,U
-51,49,"dimbullae","Philautus","",EX,U
-53,52,"halyi","Philautus","",EX,U
-54,52,"zal","Philautus","",EX,U
-55,47,"nasutus","Philautus","",EX,U
-56,46,"microdiscus","Philautus","",DD,U
-57,45,"semiruber","Philautus","",DD,U
-58,3,"palpebralis","Feihyla","",NT,D
-64,63,"bicolor","Theloderma","Chapa Bug-eyed Frog",EN,U
-65,63,"moloch","Theloderma","",VU,D
-67,66,"leporosum","Theloderma","",LC,D
-68,66,"gordoni","Theloderma","",LC,D
-70,69,"corticale","Theloderma","",DD,U
-71,69,"horridum","Theloderma","",LC,D
-72,60,"stellatum","Theloderma","",NT,D
-75,74,"kwangsiense","Theloderma","",DD,U
-76,74,"phrynoderma","Theloderma","",DD,U
-77,73,"asperum","Theloderma","",LC,D
-80,79,"spinosus","Nyctixalus","",VU,D
-81,79,"pictus","Nyctixalus","",NT,D
-82,78,"margaritifer","Nyctixalus","",VU,D
-93,92,"viridis","Rhacophorus","",LC,S
-94,92,"arvalis","Rhacophorus","",EN,D
-95,91,"translineatus","Rhacophorus","",DD,U
-97,96,"taipeianus","Rhacophorus","",NT,S
-98,96,"prasinatus","Rhacophorus","",NT,S
-102,101,"dorsoviridis","Rhacophorus","",DD,U
-103,101,"moltrechti","Rhacophorus","",LC,S
-104,100,"arboreus","Rhacophorus","",LC,S
-106,105,"schlegelii","Rhacophorus","",LC,S
-107,105,"owstoni","Rhacophorus","",LC,S
-111,110,"appendiculatus","Rhacophorus","Frilled Treefrog",LC,D
-112,110,"kajau","Rhacophorus","",NT,D
-113,109,"lateralis","Rhacophorus","",EN,D
-115,114,"verrucopus","Rhacophorus","",DD,U
-116,114,"turpes","Rhacophorus","",DD,U
-121,120,"hungfuensis","Rhacophorus","",DD,U
-122,120,"barisani","Rhacophorus","",DD,U
-123,119,"chenfui","Rhacophorus","",LC,S
-124,118,"baluensis","Rhacophorus","",NT,U
-125,117,"yaoshanensis","Rhacophorus","",EN,D
-131,130,"margaritifer","Rhacophorus","Java Flying Frog",LC,S
-132,130,"dugritei","Rhacophorus","",LC,D
-133,129,"omeimontis","Rhacophorus","",LC,U
-134,128,"monticola","Rhacophorus","",NT,D
-136,135,"duboisi","Rhacophorus","",DD,U
-137,135,"hui","Rhacophorus","",DD,U
-140,139,"malabaricus","Rhacophorus","Malabar Gliding Frog",LC,D
-141,139,"calcaneus","Rhacophorus","Vietnam Flying Frog",NT,U
-143,142,"calcadensis","Rhacophorus","",EN,D
-144,142,"modestus","Rhacophorus","",DD,U
-153,152,"achantharrhena","Rhacophorus","",DD,U
-154,152,"dulitensis","Rhacophorus","",NT,D
-155,151,"reinwardtii","Rhacophorus","Black-webbed Treefrog",NT,D
-157,156,"nigropalmatus","Rhacophorus","Wallace's Flying Frog",LC,D
-158,156,"nigropunctatus","Rhacophorus","",NT,D
-160,159,"hoanglienensis","Rhacophorus","Hoanglien Frog",DD,U
-161,159,"htunwini","Rhacophorus","",NE,U
-164,163,"hainanus","Rhacophorus","",NE,U
-165,163,"maximus","Rhacophorus","",LC,D
-166,162,"georgii","Rhacophorus","Tuwa Flying Frog",DD,U
-170,169,"prominanus","Rhacophorus","Malayan Flying Frog",LC,D
-171,169,"puerensis","Rhacophorus","",DD,U
-172,168,"bipunctatus","Rhacophorus","",LC,U
-173,167,"taronensis","Rhacophorus","",DD,U
-177,176,"pseudomalabaricus","Rhacophorus","",CR,D
-178,176,"everetti","Rhacophorus","",NT,D
-180,179,"robinsonii","Rhacophorus","",DD,U
-181,179,"pardalis","Rhacophorus","",LC,D
-183,182,"exechopygus","Rhacophorus","",VU,D
-184,182,"annamensis","Rhacophorus","",VU,D
-188,187,"aurantiventris","Rhacophorus","",EN,D
-189,187,"dennysi","Rhacophorus","",LC,D
-191,190,"poecilonotus","Rhacophorus","",DD,U
-192,190,"feae","Rhacophorus","",LC,U
-195,194,"fasciatus","Rhacophorus","",VU,D
-196,194,"edentulus","Rhacophorus","",DD,U
-198,197,"harrissoni","Rhacophorus","",NT,D
-199,197,"rufipes","Rhacophorus","",NT,U
-205,204,"namdaphaensis","Rhacophorus","",NE,U
-206,204,"angulirostris","Rhacophorus","",EN,D
-207,203,"cyanopunctatus","Rhacophorus","",LC,D
-210,209,"orlovi","Rhacophorus","Orlov's Treefrog",LC,S
-211,209,"gauni","Rhacophorus","",NT,D
-212,208,"catamitus","Rhacophorus","",DD,U
-213,201,"bimaculatus","Rhacophorus","",VU,D
-215,214,"tuberculatus","Rhacophorus","",DD,D
-216,214,"variabilis","Rhacophorus","",NE,U
-225,224,"megacephalus","Polypedates","Hong Kong Whipping Frog",LC,S
-226,224,"pseudocruciger","Polypedates","",LC,S
-227,223,"otilophus","Polypedates","",LC,D
-229,228,"insularis","Polypedates","",EN,U
-230,228,"fastigo","Polypedates","",CR,D
-232,231,"cruciger","Polypedates","",LC,S
-233,231,"zed","Polypedates","",DD,U
-234,220,"hecticus","Polypedates","",DD,U
-236,235,"taeniatus","Polypedates","",LC,U
-237,235,"macrotis","Polypedates","",LC,U
-242,241,"maculatus","Polypedates","Himalayan Treefrog",LC,S
-243,241,"colletti","Polypedates","",LC,D
-245,244,"mutus","Polypedates","",LC,U
-246,244,"eques","Polypedates","",EN,D
-247,239,"longinasus","Polypedates","",EN,D
-248,238,"leucomystax","Polypedates","Common Treefrog",LC,S
-255,254,"rufescens","Chiromantis","African Foam-nest Treefrog",LC,S
-256,254,"vittatus","Chiromantis","",LC,S
-257,253,"hansenae","Chiromantis","",DD,U
-259,258,"xerampelina","Chiromantis","Grey Foam-nest Treefrog",LC,U
-260,258,"punctatus","Chiromantis","",DD,U
-263,262,"shyamrupus","Chiromantis","",DD,U
-264,262,"romeri","Chiromantis","",NE,U
-265,261,"cherrapunjiae","Chiromantis","",DD,U
-267,266,"nongkhorensis","Chiromantis","",LC,D
-268,266,"laevis","Chiromantis","",DD,U
-273,272,"dudhwaensis","Chiromantis","",DD,U
-274,272,"petersii","Chiromantis","",LC,S
-275,271,"simus","Chiromantis","",LC,D
-276,270,"doriae","Chiromantis","Doria's Asian Treefrog",LC,U
-277,269,"kelleri","Chiromantis","",LC,S
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"folicola","Philautus","",EN,D,-8572416
+13,11,"limbus","Philautus","",CR,D,-3014646
+14,10,"leucorhinus","Philautus","",EX,U,-16777036
+16,15,"zimmeri","Philautus","",EX,U,-16777036
+17,15,"fulvus","Philautus","",EN,D,-8572416
+20,19,"abundus","Philautus","",LC,S,-16731116
+21,19,"procax","Philautus","",CR,D,-3014646
+22,18,"silvaticus","Philautus","",EN,D,-8572416
+25,24,"parvulus","Philautus","Karin Bubble-nest Frog",LC,S,-16731116
+26,24,"hainanus","Philautus","",DD,U,-11513776
+28,27,"annandalii","Philautus","",LC,D,-16731116
+29,27,"ocellatus","Philautus","",EN,D,-8572416
+37,36,"cavirostris","Philautus","",EN,D,-8572416
+38,36,"extirpo","Philautus","",EX,U,-16777036
+39,35,"decoris","Philautus","",EN,D,-8572416
+40,34,"mittermeieri","Philautus","",EN,D,-8572416
+41,33,"schmarda","Philautus","",EN,D,-8572416
+42,32,"hallidayi","Philautus","",VU,D,-11184866
+43,31,"chlorosomma","Philautus","",NE,U,-16777216
+44,30,"garo","Philautus","",VU,D,-11184866
+50,49,"adspersus","Philautus","",EX,U,-16777036
+51,49,"dimbullae","Philautus","",EX,U,-16777036
+53,52,"halyi","Philautus","",EX,U,-16777036
+54,52,"zal","Philautus","",EX,U,-16777036
+55,47,"nasutus","Philautus","",EX,U,-16777036
+56,46,"microdiscus","Philautus","",DD,U,-11513776
+57,45,"semiruber","Philautus","",DD,U,-11513776
+58,3,"palpebralis","Feihyla","",NT,D,-12486656
+64,63,"bicolor","Theloderma","Chapa Bug-eyed Frog",EN,U,-8572416
+65,63,"moloch","Theloderma","",VU,D,-11184866
+67,66,"leporosum","Theloderma","",LC,D,-16731116
+68,66,"gordoni","Theloderma","",LC,D,-16731116
+70,69,"corticale","Theloderma","",DD,U,-11513776
+71,69,"horridum","Theloderma","",LC,D,-16731116
+72,60,"stellatum","Theloderma","",NT,D,-12486656
+75,74,"kwangsiense","Theloderma","",DD,U,-11513776
+76,74,"phrynoderma","Theloderma","",DD,U,-11513776
+77,73,"asperum","Theloderma","",LC,D,-16731116
+80,79,"spinosus","Nyctixalus","",VU,D,-11184866
+81,79,"pictus","Nyctixalus","",NT,D,-12486656
+82,78,"margaritifer","Nyctixalus","",VU,D,-11184866
+93,92,"viridis","Rhacophorus","",LC,S,-16731116
+94,92,"arvalis","Rhacophorus","",EN,D,-8572416
+95,91,"translineatus","Rhacophorus","",DD,U,-11513776
+97,96,"taipeianus","Rhacophorus","",NT,S,-12486656
+98,96,"prasinatus","Rhacophorus","",NT,S,-12486656
+102,101,"dorsoviridis","Rhacophorus","",DD,U,-11513776
+103,101,"moltrechti","Rhacophorus","",LC,S,-16731116
+104,100,"arboreus","Rhacophorus","",LC,S,-16731116
+106,105,"schlegelii","Rhacophorus","",LC,S,-16731116
+107,105,"owstoni","Rhacophorus","",LC,S,-16731116
+111,110,"appendiculatus","Rhacophorus","Frilled Treefrog",LC,D,-16731116
+112,110,"kajau","Rhacophorus","",NT,D,-12486656
+113,109,"lateralis","Rhacophorus","",EN,D,-8572416
+115,114,"verrucopus","Rhacophorus","",DD,U,-11513776
+116,114,"turpes","Rhacophorus","",DD,U,-11513776
+121,120,"hungfuensis","Rhacophorus","",DD,U,-11513776
+122,120,"barisani","Rhacophorus","",DD,U,-11513776
+123,119,"chenfui","Rhacophorus","",LC,S,-16731116
+124,118,"baluensis","Rhacophorus","",NT,U,-12486656
+125,117,"yaoshanensis","Rhacophorus","",EN,D,-8572416
+131,130,"margaritifer","Rhacophorus","Java Flying Frog",LC,S,-16731116
+132,130,"dugritei","Rhacophorus","",LC,D,-16731116
+133,129,"omeimontis","Rhacophorus","",LC,U,-16731116
+134,128,"monticola","Rhacophorus","",NT,D,-12486656
+136,135,"duboisi","Rhacophorus","",DD,U,-11513776
+137,135,"hui","Rhacophorus","",DD,U,-11513776
+140,139,"malabaricus","Rhacophorus","Malabar Gliding Frog",LC,D,-16731116
+141,139,"calcaneus","Rhacophorus","Vietnam Flying Frog",NT,U,-12486656
+143,142,"calcadensis","Rhacophorus","",EN,D,-8572416
+144,142,"modestus","Rhacophorus","",DD,U,-11513776
+153,152,"achantharrhena","Rhacophorus","",DD,U,-11513776
+154,152,"dulitensis","Rhacophorus","",NT,D,-12486656
+155,151,"reinwardtii","Rhacophorus","Black-webbed Treefrog",NT,D,-12486656
+157,156,"nigropalmatus","Rhacophorus","Wallace's Flying Frog",LC,D,-16731116
+158,156,"nigropunctatus","Rhacophorus","",NT,D,-12486656
+160,159,"hoanglienensis","Rhacophorus","Hoanglien Frog",DD,U,-11513776
+161,159,"htunwini","Rhacophorus","",NE,U,-16777216
+164,163,"hainanus","Rhacophorus","",NE,U,-16777216
+165,163,"maximus","Rhacophorus","",LC,D,-16731116
+166,162,"georgii","Rhacophorus","Tuwa Flying Frog",DD,U,-11513776
+170,169,"prominanus","Rhacophorus","Malayan Flying Frog",LC,D,-16731116
+171,169,"puerensis","Rhacophorus","",DD,U,-11513776
+172,168,"bipunctatus","Rhacophorus","",LC,U,-16731116
+173,167,"taronensis","Rhacophorus","",DD,U,-11513776
+177,176,"pseudomalabaricus","Rhacophorus","",CR,D,-3014646
+178,176,"everetti","Rhacophorus","",NT,D,-12486656
+180,179,"robinsonii","Rhacophorus","",DD,U,-11513776
+181,179,"pardalis","Rhacophorus","",LC,D,-16731116
+183,182,"exechopygus","Rhacophorus","",VU,D,-11184866
+184,182,"annamensis","Rhacophorus","",VU,D,-11184866
+188,187,"aurantiventris","Rhacophorus","",EN,D,-8572416
+189,187,"dennysi","Rhacophorus","",LC,D,-16731116
+191,190,"poecilonotus","Rhacophorus","",DD,U,-11513776
+192,190,"feae","Rhacophorus","",LC,U,-16731116
+195,194,"fasciatus","Rhacophorus","",VU,D,-11184866
+196,194,"edentulus","Rhacophorus","",DD,U,-11513776
+198,197,"harrissoni","Rhacophorus","",NT,D,-12486656
+199,197,"rufipes","Rhacophorus","",NT,U,-12486656
+205,204,"namdaphaensis","Rhacophorus","",NE,U,-16777216
+206,204,"angulirostris","Rhacophorus","",EN,D,-8572416
+207,203,"cyanopunctatus","Rhacophorus","",LC,D,-16731116
+210,209,"orlovi","Rhacophorus","Orlov's Treefrog",LC,S,-16731116
+211,209,"gauni","Rhacophorus","",NT,D,-12486656
+212,208,"catamitus","Rhacophorus","",DD,U,-11513776
+213,201,"bimaculatus","Rhacophorus","",VU,D,-11184866
+215,214,"tuberculatus","Rhacophorus","",DD,D,-11513776
+216,214,"variabilis","Rhacophorus","",NE,U,-16777216
+225,224,"megacephalus","Polypedates","Hong Kong Whipping Frog",LC,S,-16731116
+226,224,"pseudocruciger","Polypedates","",LC,S,-16731116
+227,223,"otilophus","Polypedates","",LC,D,-16731116
+229,228,"insularis","Polypedates","",EN,U,-8572416
+230,228,"fastigo","Polypedates","",CR,D,-3014646
+232,231,"cruciger","Polypedates","",LC,S,-16731116
+233,231,"zed","Polypedates","",DD,U,-11513776
+234,220,"hecticus","Polypedates","",DD,U,-11513776
+236,235,"taeniatus","Polypedates","",LC,U,-16731116
+237,235,"macrotis","Polypedates","",LC,U,-16731116
+242,241,"maculatus","Polypedates","Himalayan Treefrog",LC,S,-16731116
+243,241,"colletti","Polypedates","",LC,D,-16731116
+245,244,"mutus","Polypedates","",LC,U,-16731116
+246,244,"eques","Polypedates","",EN,D,-8572416
+247,239,"longinasus","Polypedates","",EN,D,-8572416
+248,238,"leucomystax","Polypedates","Common Treefrog",LC,S,-16731116
+255,254,"rufescens","Chiromantis","African Foam-nest Treefrog",LC,S,-16731116
+256,254,"vittatus","Chiromantis","",LC,S,-16731116
+257,253,"hansenae","Chiromantis","",DD,U,-11513776
+259,258,"xerampelina","Chiromantis","Grey Foam-nest Treefrog",LC,U,-16731116
+260,258,"punctatus","Chiromantis","",DD,U,-11513776
+263,262,"shyamrupus","Chiromantis","",DD,U,-11513776
+264,262,"romeri","Chiromantis","",NE,U,-16777216
+265,261,"cherrapunjiae","Chiromantis","",DD,U,-11513776
+267,266,"nongkhorensis","Chiromantis","",LC,D,-16731116
+268,266,"laevis","Chiromantis","",DD,U,-11513776
+273,272,"dudhwaensis","Chiromantis","",DD,U,-11513776
+274,272,"petersii","Chiromantis","",LC,S,-16731116
+275,271,"simus","Chiromantis","",LC,D,-16731116
+276,270,"doriae","Chiromantis","Doria's Asian Treefrog",LC,U,-16731116
+277,269,"kelleri","Chiromantis","",LC,S,-16731116

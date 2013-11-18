@@ -1,126 +1,126 @@
-index,parent,name1,name2,common,redlist,popstab
-18,17,"simulator","Akodon","Gray-bellied Grass Mouse",LC,S
-19,17,"toba","Akodon","Chaco Grass Mouse",LC,S
-20,16,"dayi","Akodon","Day's Grass Mouse",LC,S
-21,15,"dolores","Akodon","Cordoba Akodont",LC,S
-24,23,"molinae","Akodon","Molina's Grass Mouse",LC,D
-25,23,"neocenus","Akodon","Neuquen Akodont",DD,U
-26,22,"varius","Akodon","Variable Grass Mouse",DD,U
-28,27,"sylvanus","Akodon","Forest Grass Mouse",LC,S
-29,27,"pervalens","Akodon","Tarija Akodont",DD,U
-30,12,"iniscatus","Akodon","Intelligent Grass Mouse",LC,S
-32,31,"markhami","Abrothrix","Markham's Grass Mouse",LC,S
-33,31,"lutescens","Akodon","Altiplano Grass Mouse",LC,S
-37,36,"boliviensis","Akodon","Bolivian Grass Mouse",LC,S
-38,36,"juninensis","Akodon","Junin Grass Mouse",LC,S
-39,35,"mollis","Akodon","Soft Grass Mouse",LC,S
-41,40,"kofordi","Akodon","Koford's Grass Mouse",LC,U
-42,40,"azarae","Akodon","Azara's Grass Mouse",LC,S
-49,48,"serrensis","Akodon","Serrado Do Mar Grass Mouse",LC,U
-50,48,"spegazzinii","Akodon","Spegazzini's Grass Mouse",LC,S
-52,51,"cursor","Akodon","Cursor Grass Mouse",LC,U
-53,51,"montensis","Akodon","Montane Akodont",LC,D
-54,46,"fumeus","Akodon","Smoky Grass Mouse",LC,S
-55,45,"torques","Akodon","Cloud Forest Grass Mouse",LC,S
-59,58,"albiventer","Akodon","White-bellied Grass Mouse",LC,S
-60,58,"urichi","Necromys","Northern Grass Mouse",LC,U
-61,57,"affinis","Akodon","Colombian Grass Mouse",LC,S
-63,62,"sanctipaulensis","Akodon","Sao Paulo Grass Mouse",DD,U
-64,62,"orophilus","Akodon","El Dorado Grass Mouse",LC,S
-67,66,"lindberghi","Akodon","Lindbergh's Grass Mouse",DD,U
-68,66,"surdus","Akodon","Silent Grass Mouse",VU,D
-70,69,"olivaceus","Abrothrix","Olive Grass Mouse",LC,S
-71,69,"subfuscus","Akodon","Puno Grass Mouse",LC,S
-72,8,"hershkovitzi","Abrothrix","Hershkovitz's Akodont",LC,S
-77,76,"longipilis","Abrothrix","Long-haired Akodont",LC,D
-78,76,"lanosus","Abrothrix","Woolly Grass Mouse",LC,S
-79,75,"sanborni","Abrothrix","Sanborn's Grass Mouse",NT,D
-80,74,"kempi","Deltamys","Kemp's Grass Mouse",LC,U
-81,73,"nigrita","Thaptomys","Blackish Grass Mouse",LC,U
-84,83,"siberiae","Akodon","Cochabamba Grass Mouse",NT,D
-85,83,"budini","Akodon","Budin's Grass Mouse",LC,S
-86,82,"illuteus","Abrothrix","Gray Akodont",NT,D
-90,89,"latebricola","Akodon","Ecuadorean Grass Mouse",VU,D
-91,89,"bogotensis","Akodon","Bogota Grass Mouse",LC,S
-92,88,"mimus","Akodon","Thespian Grass Mouse",LC,S
-93,87,"aerosus","Akodon","Highland Grass Mouse",LC,S
-95,94,"jelskii","Abrothrix","Jelski's Altiplano Mouse",LC,S
-96,94,"andinus","Abrothrix","Andean Akodont",LC,U
-97,3,"ebriosus","Neotomys","Andean Swamp Rat",LC,S
-109,108,"cinereus","Thomasomys","Ash-colored Oldfield Mouse",LC,S
-110,108,"caudivarius","Thomasomys","",LC,D
-111,107,"laniger","Thomasomys","Butcher Oldfield Mouse",LC,S
-112,106,"kalinowskii","Thomasomys","Kalinowski's Oldfield Mouse",VU,D
-113,105,"bombycinus","Thomasomys","Silky Oldfield Mouse",DD,U
-117,116,"rosalinda","Thomasomys","Rosalinda's Oldfield Mouse",DD,D
-118,116,"baeops","Thomasomys","Beady-eyed Mouse",LC,D
-119,115,"silvestris","Thomasomys","Forest Oldfield Mouse",LC,D
-121,120,"cinereiventer","Thomasomys","Ashy-bellied Oldfield Mouse",LC,D
-122,120,"erro","Thomasomys","",LC,U
-124,123,"notatus","Thomasomys","Distinguished Oldfield Mouse",LC,D
-125,123,"vestitus","Thomasomys","Dressy Oldfield Mouse",LC,U
-133,132,"gracilis","Thomasomys","Slender Oldfield Mouse",NT,D
-134,132,"hudsoni","Thomasomys","",DD,U
-135,131,"cinnameus","Thomasomys","",LC,U
-136,130,"daphne","Thomasomys","Daphne's Oldfield Mouse",LC,U
-139,138,"ladewi","Thomasomys","Ladew's Oldfield Mouse",LC,U
-140,138,"oreas","Thomasomys","Montane Oldfield Mouse",LC,U
-141,137,"niveipes","Thomasomys","Snow-footed Oldfield Mouse",LC,U
-142,128,"incanus","Thomasomys","Inca Oldfield Mouse",VU,D
-144,143,"rhoadsi","Thomasomys","Rhoads's Oldfield Mouse",LC,S
-145,143,"eleusis","Thomasomys","Peruvian Oldfield Mouse",LC,U
-146,126,"hylophilus","Thomasomys","Woodland Oldfield Mouse",EN,D
-152,151,"taczanowskii","Thomasomys","Taczanowski's Oldfield Mouse",LC,U
-153,151,"pyrrhonotus","Thomasomys","Thomas's Oldfield Mouse",VU,D
-154,150,"ischyrus","Thomasomys","Strong-tailed Oldfield Mouse",VU,D
-155,149,"monochromos","Thomasomys","Unicolored Oldfield Mouse",EN,D
-158,157,"aureus","Thomasomys","Golden Oldfield Mouse",LC,D
-159,157,"praetor","Thomasomys","",DD,U
-160,156,"popayanus","Thomasomys","",DD,U
-161,147,"paramorum","Thomasomys","Paramo Oldfield Mouse",LC,U
-163,162,"fuscatus","Handleyomys","Dusky Montane Mouse",LC,D
-164,162,"lugens","Aepeomys","Olive Montane Mouse",LC,U
-166,165,"apicalis","Lenoxus","Andean Rat",LC,U
-167,165,"edax","Andinomys","Andean Mouse",LC,S
-168,98,"valdivianus","Geoxus","Long-clawed Mole Mouse",LC,S
-175,174,"musculinus","Calomys","Drylands Vesper Mouse",LC,S
-176,174,"lepidus","Calomys","Andean Vesper Mouse",LC,S
-177,173,"boliviae","Calomys","Bolivian Vesper Mouse",LC,S
-180,179,"sorellus","Calomys","Peruvian Vesper Mouse",LC,S
-181,179,"tener","Calomys","Delicate Vesper Mouse",LC,I
-182,178,"laucha","Calomys","Small Vesper Mouse",LC,U
-184,183,"hummelincki","Calomys","Hummelinck's Vesper Mouse",VU,D
-185,183,"callidus","Calomys","Crafty Vesper Mouse",LC,U
-188,187,"venustus","Calomys","Cordoba Laucha",LC,S
-189,187,"expulsus","Calomys","",LC,I
-190,186,"callosus","Calomys","Large Vesper Mouse",LC,S
-191,169,"pyrrhorhinos","Wiedomys","Red-nosed Mouse",LC,U
-202,201,"hiska","Oxymycterus","Small Hocicudo",LC,S
-203,201,"inca","Oxymycterus","Incan Hocicudo",LC,S
-204,200,"paramensis","Oxymycterus","Paramo Hocicudo",LC,S
-206,205,"hispidus","Oxymycterus","Hispid Hocicudo",LC,S
-207,205,"quaestor","Oxymycterus","",LC,U
-210,209,"angularis","Oxymycterus","Angular Hocicudo",LC,U
-211,209,"roberti","Oxymycterus","Robert's Hocicudo",LC,U
-212,208,"delator","Oxymycterus","Spy Hocicudo",LC,S
-217,216,"rufus","Oxymycterus","Red Hocicudo",LC,D
-218,216,"dasytrichus","Oxymycterus","",LC,S
-219,215,"nasutus","Oxymycterus","Long-nosed Hocicudo",LC,U
-220,214,"akodontius","Oxymycterus","Argentine Hocicudo",DD,U
-221,213,"iheringi","Brucepattersonius","Ihering's Hocicudo",LC,D
-222,196,"hucucha","Oxymycterus","Quechuan Hocicudo",EN,D
-225,224,"tenuipes","Neacomys","Narrow-footed Bristly Mouse",LC,S
-226,224,"guianae","Neacomys","Guiana Bristly Mouse",LC,S
-228,227,"pictus","Neacomys","Painted Bristly Mouse",DD,U
-229,227,"spinosus","Neacomys","Bristly Mouse",LC,S
-230,194,"breviceps","Blarinomys","Brazilian Shrew Mouse",LC,D
-233,232,"robustulus","Melanomys","Robust Dark Rice Rat",LC,S
-234,232,"caliginosus","Melanomys","Dusky Rice Rat",LC,S
-235,231,"zunigae","Melanomys","Zuniga's Dark Rice Rat",CR,U
-240,239,"morgani","Eligmodontia","Morgan's Gerbil Mouse",LC,S
-241,239,"moreni","Eligmodontia","Monte Gerbil Mouse",LC,S
-242,238,"puerulus","Eligmodontia","Andean Gerbil Mouse",LC,S
-243,237,"typus","Eligmodontia","Highland Gerbil Mouse",LC,S
-246,245,"altissimus","Microryzomys","Highland Small Rice Rat",LC,U
-247,245,"minutus","Microryzomys","Forest Small Rice Rat",LC,U
-248,244,"ferrugineus","Phaenomys","Rio De Janeiro Arboreal Rat",VU,D
+index,parent,name1,name2,common,redlist,popstab,color
+18,17,"simulator","Akodon","Gray-bellied Grass Mouse",LC,S,-16731116
+19,17,"toba","Akodon","Chaco Grass Mouse",LC,S,-16731116
+20,16,"dayi","Akodon","Day's Grass Mouse",LC,S,-16731116
+21,15,"dolores","Akodon","Cordoba Akodont",LC,S,-16731116
+24,23,"molinae","Akodon","Molina's Grass Mouse",LC,D,-16731116
+25,23,"neocenus","Akodon","Neuquen Akodont",DD,U,-11513776
+26,22,"varius","Akodon","Variable Grass Mouse",DD,U,-11513776
+28,27,"sylvanus","Akodon","Forest Grass Mouse",LC,S,-16731116
+29,27,"pervalens","Akodon","Tarija Akodont",DD,U,-11513776
+30,12,"iniscatus","Akodon","Intelligent Grass Mouse",LC,S,-16731116
+32,31,"markhami","Abrothrix","Markham's Grass Mouse",LC,S,-16731116
+33,31,"lutescens","Akodon","Altiplano Grass Mouse",LC,S,-16731116
+37,36,"boliviensis","Akodon","Bolivian Grass Mouse",LC,S,-16731116
+38,36,"juninensis","Akodon","Junin Grass Mouse",LC,S,-16731116
+39,35,"mollis","Akodon","Soft Grass Mouse",LC,S,-16731116
+41,40,"kofordi","Akodon","Koford's Grass Mouse",LC,U,-16731116
+42,40,"azarae","Akodon","Azara's Grass Mouse",LC,S,-16731116
+49,48,"serrensis","Akodon","Serrado Do Mar Grass Mouse",LC,U,-16731116
+50,48,"spegazzinii","Akodon","Spegazzini's Grass Mouse",LC,S,-16731116
+52,51,"cursor","Akodon","Cursor Grass Mouse",LC,U,-16731116
+53,51,"montensis","Akodon","Montane Akodont",LC,D,-16731116
+54,46,"fumeus","Akodon","Smoky Grass Mouse",LC,S,-16731116
+55,45,"torques","Akodon","Cloud Forest Grass Mouse",LC,S,-16731116
+59,58,"albiventer","Akodon","White-bellied Grass Mouse",LC,S,-16731116
+60,58,"urichi","Necromys","Northern Grass Mouse",LC,U,-16731116
+61,57,"affinis","Akodon","Colombian Grass Mouse",LC,S,-16731116
+63,62,"sanctipaulensis","Akodon","Sao Paulo Grass Mouse",DD,U,-11513776
+64,62,"orophilus","Akodon","El Dorado Grass Mouse",LC,S,-16731116
+67,66,"lindberghi","Akodon","Lindbergh's Grass Mouse",DD,U,-11513776
+68,66,"surdus","Akodon","Silent Grass Mouse",VU,D,-11184866
+70,69,"olivaceus","Abrothrix","Olive Grass Mouse",LC,S,-16731116
+71,69,"subfuscus","Akodon","Puno Grass Mouse",LC,S,-16731116
+72,8,"hershkovitzi","Abrothrix","Hershkovitz's Akodont",LC,S,-16731116
+77,76,"longipilis","Abrothrix","Long-haired Akodont",LC,D,-16731116
+78,76,"lanosus","Abrothrix","Woolly Grass Mouse",LC,S,-16731116
+79,75,"sanborni","Abrothrix","Sanborn's Grass Mouse",NT,D,-12486656
+80,74,"kempi","Deltamys","Kemp's Grass Mouse",LC,U,-16731116
+81,73,"nigrita","Thaptomys","Blackish Grass Mouse",LC,U,-16731116
+84,83,"siberiae","Akodon","Cochabamba Grass Mouse",NT,D,-12486656
+85,83,"budini","Akodon","Budin's Grass Mouse",LC,S,-16731116
+86,82,"illuteus","Abrothrix","Gray Akodont",NT,D,-12486656
+90,89,"latebricola","Akodon","Ecuadorean Grass Mouse",VU,D,-11184866
+91,89,"bogotensis","Akodon","Bogota Grass Mouse",LC,S,-16731116
+92,88,"mimus","Akodon","Thespian Grass Mouse",LC,S,-16731116
+93,87,"aerosus","Akodon","Highland Grass Mouse",LC,S,-16731116
+95,94,"jelskii","Abrothrix","Jelski's Altiplano Mouse",LC,S,-16731116
+96,94,"andinus","Abrothrix","Andean Akodont",LC,U,-16731116
+97,3,"ebriosus","Neotomys","Andean Swamp Rat",LC,S,-16731116
+109,108,"cinereus","Thomasomys","Ash-colored Oldfield Mouse",LC,S,-16731116
+110,108,"caudivarius","Thomasomys","",LC,D,-16731116
+111,107,"laniger","Thomasomys","Butcher Oldfield Mouse",LC,S,-16731116
+112,106,"kalinowskii","Thomasomys","Kalinowski's Oldfield Mouse",VU,D,-11184866
+113,105,"bombycinus","Thomasomys","Silky Oldfield Mouse",DD,U,-11513776
+117,116,"rosalinda","Thomasomys","Rosalinda's Oldfield Mouse",DD,D,-11513776
+118,116,"baeops","Thomasomys","Beady-eyed Mouse",LC,D,-16731116
+119,115,"silvestris","Thomasomys","Forest Oldfield Mouse",LC,D,-16731116
+121,120,"cinereiventer","Thomasomys","Ashy-bellied Oldfield Mouse",LC,D,-16731116
+122,120,"erro","Thomasomys","",LC,U,-16731116
+124,123,"notatus","Thomasomys","Distinguished Oldfield Mouse",LC,D,-16731116
+125,123,"vestitus","Thomasomys","Dressy Oldfield Mouse",LC,U,-16731116
+133,132,"gracilis","Thomasomys","Slender Oldfield Mouse",NT,D,-12486656
+134,132,"hudsoni","Thomasomys","",DD,U,-11513776
+135,131,"cinnameus","Thomasomys","",LC,U,-16731116
+136,130,"daphne","Thomasomys","Daphne's Oldfield Mouse",LC,U,-16731116
+139,138,"ladewi","Thomasomys","Ladew's Oldfield Mouse",LC,U,-16731116
+140,138,"oreas","Thomasomys","Montane Oldfield Mouse",LC,U,-16731116
+141,137,"niveipes","Thomasomys","Snow-footed Oldfield Mouse",LC,U,-16731116
+142,128,"incanus","Thomasomys","Inca Oldfield Mouse",VU,D,-11184866
+144,143,"rhoadsi","Thomasomys","Rhoads's Oldfield Mouse",LC,S,-16731116
+145,143,"eleusis","Thomasomys","Peruvian Oldfield Mouse",LC,U,-16731116
+146,126,"hylophilus","Thomasomys","Woodland Oldfield Mouse",EN,D,-8572416
+152,151,"taczanowskii","Thomasomys","Taczanowski's Oldfield Mouse",LC,U,-16731116
+153,151,"pyrrhonotus","Thomasomys","Thomas's Oldfield Mouse",VU,D,-11184866
+154,150,"ischyrus","Thomasomys","Strong-tailed Oldfield Mouse",VU,D,-11184866
+155,149,"monochromos","Thomasomys","Unicolored Oldfield Mouse",EN,D,-8572416
+158,157,"aureus","Thomasomys","Golden Oldfield Mouse",LC,D,-16731116
+159,157,"praetor","Thomasomys","",DD,U,-11513776
+160,156,"popayanus","Thomasomys","",DD,U,-11513776
+161,147,"paramorum","Thomasomys","Paramo Oldfield Mouse",LC,U,-16731116
+163,162,"fuscatus","Handleyomys","Dusky Montane Mouse",LC,D,-16731116
+164,162,"lugens","Aepeomys","Olive Montane Mouse",LC,U,-16731116
+166,165,"apicalis","Lenoxus","Andean Rat",LC,U,-16731116
+167,165,"edax","Andinomys","Andean Mouse",LC,S,-16731116
+168,98,"valdivianus","Geoxus","Long-clawed Mole Mouse",LC,S,-16731116
+175,174,"musculinus","Calomys","Drylands Vesper Mouse",LC,S,-16731116
+176,174,"lepidus","Calomys","Andean Vesper Mouse",LC,S,-16731116
+177,173,"boliviae","Calomys","Bolivian Vesper Mouse",LC,S,-16731116
+180,179,"sorellus","Calomys","Peruvian Vesper Mouse",LC,S,-16731116
+181,179,"tener","Calomys","Delicate Vesper Mouse",LC,I,-16731116
+182,178,"laucha","Calomys","Small Vesper Mouse",LC,U,-16731116
+184,183,"hummelincki","Calomys","Hummelinck's Vesper Mouse",VU,D,-11184866
+185,183,"callidus","Calomys","Crafty Vesper Mouse",LC,U,-16731116
+188,187,"venustus","Calomys","Cordoba Laucha",LC,S,-16731116
+189,187,"expulsus","Calomys","",LC,I,-16731116
+190,186,"callosus","Calomys","Large Vesper Mouse",LC,S,-16731116
+191,169,"pyrrhorhinos","Wiedomys","Red-nosed Mouse",LC,U,-16731116
+202,201,"hiska","Oxymycterus","Small Hocicudo",LC,S,-16731116
+203,201,"inca","Oxymycterus","Incan Hocicudo",LC,S,-16731116
+204,200,"paramensis","Oxymycterus","Paramo Hocicudo",LC,S,-16731116
+206,205,"hispidus","Oxymycterus","Hispid Hocicudo",LC,S,-16731116
+207,205,"quaestor","Oxymycterus","",LC,U,-16731116
+210,209,"angularis","Oxymycterus","Angular Hocicudo",LC,U,-16731116
+211,209,"roberti","Oxymycterus","Robert's Hocicudo",LC,U,-16731116
+212,208,"delator","Oxymycterus","Spy Hocicudo",LC,S,-16731116
+217,216,"rufus","Oxymycterus","Red Hocicudo",LC,D,-16731116
+218,216,"dasytrichus","Oxymycterus","",LC,S,-16731116
+219,215,"nasutus","Oxymycterus","Long-nosed Hocicudo",LC,U,-16731116
+220,214,"akodontius","Oxymycterus","Argentine Hocicudo",DD,U,-11513776
+221,213,"iheringi","Brucepattersonius","Ihering's Hocicudo",LC,D,-16731116
+222,196,"hucucha","Oxymycterus","Quechuan Hocicudo",EN,D,-8572416
+225,224,"tenuipes","Neacomys","Narrow-footed Bristly Mouse",LC,S,-16731116
+226,224,"guianae","Neacomys","Guiana Bristly Mouse",LC,S,-16731116
+228,227,"pictus","Neacomys","Painted Bristly Mouse",DD,U,-11513776
+229,227,"spinosus","Neacomys","Bristly Mouse",LC,S,-16731116
+230,194,"breviceps","Blarinomys","Brazilian Shrew Mouse",LC,D,-16731116
+233,232,"robustulus","Melanomys","Robust Dark Rice Rat",LC,S,-16731116
+234,232,"caliginosus","Melanomys","Dusky Rice Rat",LC,S,-16731116
+235,231,"zunigae","Melanomys","Zuniga's Dark Rice Rat",CR,U,-3014646
+240,239,"morgani","Eligmodontia","Morgan's Gerbil Mouse",LC,S,-16731116
+241,239,"moreni","Eligmodontia","Monte Gerbil Mouse",LC,S,-16731116
+242,238,"puerulus","Eligmodontia","Andean Gerbil Mouse",LC,S,-16731116
+243,237,"typus","Eligmodontia","Highland Gerbil Mouse",LC,S,-16731116
+246,245,"altissimus","Microryzomys","Highland Small Rice Rat",LC,U,-16731116
+247,245,"minutus","Microryzomys","Forest Small Rice Rat",LC,U,-16731116
+248,244,"ferrugineus","Phaenomys","Rio De Janeiro Arboreal Rat",VU,D,-11184866

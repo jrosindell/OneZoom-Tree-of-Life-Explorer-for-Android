@@ -2,26 +2,26 @@ package com.onezoom.midnode;
 
 
 import junit.framework.Assert;
-import android.app.ActivityManager;
 import android.content.Context;
 import android.graphics.Canvas;
 import android.util.Log;
-import com.onezoom.CanvasActivity;
-import com.onezoom.midnode.displayBinary.BinaryFactory;
 import com.onezoom.midnode.displayBinary.BinaryInitializer;
+import com.onezoom.midnode.displayBinary.BinaryPositionCalculator;
+import com.onezoom.midnode.displayBinary.BinaryPrecalculator;
+import com.onezoom.midnode.displayBinary.BinaryTraitsCalculator;
+import com.onezoom.midnode.displayBinary.BinaryVisualizer;
 
 public abstract class MidNode{
 	public static int countDrawElement = 0;
-	private static Factory factory = new BinaryFactory();
-	public static Initializer initializer = factory.createInitializer();
-	public static Precalculator precalculator = factory.createPrecalculator();
-	protected static Visualizer visualizer = factory.createVisualizer();
-	public static PositionCalculator positionCalculator = factory.createPositionCalculator();
+	public static BinaryInitializer initializer = new BinaryInitializer();
+	public static BinaryPrecalculator precalculator = new BinaryPrecalculator();
+	protected static BinaryVisualizer visualizer = new BinaryVisualizer();
+	public static BinaryPositionCalculator positionCalculator = new BinaryPositionCalculator();
 	
 	//stores position information like bezier, xvar, etc...
-	public PositionData positionData = factory.createPositionData(); 
+	public PositionData positionData = new PositionData();
 	//stores metadata and methods for retrieving them
-	public TraitsCaculator traitsCaculator = factory.createTraitsCaculator();
+	public BinaryTraitsCalculator traitsCaculator = new BinaryTraitsCalculator();
 	
 
 	public MidNode child1;
@@ -36,8 +36,9 @@ public abstract class MidNode{
 	
 	public static MidNode createNode (MidNode pNode, String data, boolean buildOneNode, int childIndex) {
 //		assert pNode != null;
-		Assert.assertNotNull(pNode);
+//		Assert.assertNotNull(pNode);
 //		assert (childIndex == 0) || (childIndex == 1) || (childIndex == 2);
+		initializer.setDynamic(false);
 		Assert.assertEquals((childIndex == 0) || (childIndex == 1) || (childIndex == 2), true);
 		if (data.charAt(0) == '(')
 			return new InteriorNode(pNode, data, buildOneNode, childIndex);
@@ -46,6 +47,7 @@ public abstract class MidNode{
 	}
 	
 	public static MidNode createNode(String fileIndex) {
+		initializer.setDynamic(false);
 		return initializer.createMidNode(fileIndex);
 	}
 
@@ -76,9 +78,9 @@ public abstract class MidNode{
 	}
 	
 	public void init() {
-		traitsCaculator.concalc(this);
-		traitsCaculator.setColor(this);
-		positionCalculator.calculateBoundingBox(this);
+//		traitsCaculator.concalc(this);
+//		traitsCaculator.setColor(this);
+//		positionCalculator.calculateBoundingBox(this);
 	}
 	
 	public String toString() {
@@ -108,7 +110,7 @@ public abstract class MidNode{
 	}
 	
 	public void recalculateDynamic(float xp, float yp, float ws) {
+		initializer.setDynamic(true);
 		positionCalculator.recalculateDynamic(xp, yp, ws, this);
-		this.init();
 	}
 }

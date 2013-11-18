@@ -1,122 +1,122 @@
-index,parent,name1,name2,common,redlist,popstab
-15,14,"strigidorsa","Mustela","Stripe-backed Weasel",LC,U
-16,14,"lutreola","Mustela","European Mink",EN,D
-17,13,"lutreolina","Mustela","Indonesian Mountain Weasel",DD,U
-20,19,"sibirica","Mustela","SIBERIAN WEASEL",LC,S
-21,19,"itatsi","Mustela","Japanese Weasel",LC,D
-22,18,"nudipes","Mustela","Malay Weasel",LC,D
-25,24,"nigripes","Mustela","Black-footed Ferret",EN,I
-26,24,"eversmanii","Mustela","Steppe Polecat",LC,S
-27,23,"putorius","Mustela","European Polecat",LC,D
-33,32,"subpalmata","Mustela","Egyptian Weasel",LC,S
-34,32,"nivalis","Mustela","Least Weasel",LC,S
-35,31,"frenata","Mustela","Long-tailed Weasel",LC,S
-37,36,"altaica","Mustela","Altai Weasel",NT,D
-38,36,"erminea","Mustela","Stoat",LC,S
-40,39,"felipei","Mustela","Colombian Weasel",VU,D
-41,39,"africana","Mustela","Amazon Weasel",LC,U
-42,28,"kathiah","Mustela","Yellow-bellied Weasel",LC,U
-44,43,"vison","Neovison","American Mink",LC,S
-45,43,"macrodon","Neovison","Sea Mink",EX,U
-56,55,"americana","Martes","American Marten",LC,D
-57,55,"melampus","Martes","Japanese Marten",LC,S
-58,54,"zibellina","Martes","SABLE",LC,U
-59,53,"martes","Martes","European Pine Marten",LC,S
-60,52,"foina","Martes","Stone Marten",LC,S
-61,51,"pennanti","Martes","Fisher",LC,U
-63,62,"flavigula","Martes","Yellow-throated Marten",LC,S
-64,62,"gwatkinsii","Martes","Nilgiri Marten",VU,D
-65,49,"gulo","Gulo","Wolverine",LC,D
-66,48,"barbara","Eira","Tayra",LC,D
-68,67,"vittata","Galictis","Greater Grison",LC,S
-69,67,"cuja","Galictis","Lesser Grison",LC,U
-70,46,"patagonicus","Lyncodon","Patagonian Weasel",DD,U
-73,72,"libyca","Ictonyx","Libyan Striped Weasel",LC,U
-74,72,"striatus","Ictonyx","Zorilla",LC,S
-75,71,"peregusna","Vormela","European Marbled Polecat",VU,D
-76,6,"albinucha","Poecilogale","African Striped Weasel",LC,U
-77,5,"capensis","Mellivora","Honey Badger",LC,D
-83,82,"anakuma","Meles","Japanese Badger",LC,D
-84,82,"meles","Meles","Eurasian Badger",LC,S
-85,81,"leucurus","Meles","Asian Badger",LC,U
-86,80,"collaris","Arctonyx","Hog Badger",NT,D
-88,87,"javanensis","Mydaus","Sunda Stink-badger",LC,U
-89,87,"marchei","Mydaus","Palawan Stink-badger",LC,U
-90,78,"taxus","Taxidea","American Badger",LC,D
-99,98,"provocax","Lontra","Southern River Otter",EN,D
-100,98,"felina","Lontra","Marine Otter",EN,D
-101,97,"longicaudis","Lontra","Neotropical Otter",DD,D
-102,96,"canadensis","Lontra","North American Otter",LC,S
-105,104,"lutra","Lutra","Eurasian Otter",NT,D
-106,104,"nippon","Lutra","",NE,U
-107,103,"sumatrana","Lutra","Hairy-nosed Otter",EN,D
-111,110,"perspicillata","Lutrogale","Smooth-coated Otter",VU,U
-112,110,"maculicollis","Hydrictis","",NE,U
-113,109,"brasiliensis","Pteronura","Giant Otter",EN,D
-114,108,"lutris","Enhydra","Sea Otter",EN,S
-116,115,"cinerea","Aonyx","Asian Small-clawed Otter",VU,D
-117,115,"capensis","Aonyx","African Clawless Otter",LC,S
-123,122,"putorius","Spilogale","Eastern Spotted Skunk",LC,D
-124,122,"gracilis","Spilogale","Western Spotted Skunk",LC,D
-125,121,"angustifrons","Spilogale","Southern Spotted Skunk",LC,S
-126,120,"pygmaea","Spilogale","Pygmy Spotted Skunk",VU,D
-128,127,"mephitis","Mephitis","Striped Skunk",LC,S
-129,127,"macroura","Mephitis","Hooded Skunk",LC,I
-132,131,"humboldtii","Conepatus","Humboldt's Hog-nosed Skunk",LC,S
-133,131,"semistriatus","Conepatus","Striped Hog-nosed Skunk",LC,U
-135,134,"leuconotus","Conepatus","American Hog-nosed Skunk",LC,D
-136,134,"chinga","Conepatus","Molina's Hog-nosed Skunk",LC,D
-140,139,"personata","Melogale","Large-toothed Ferret Badger",DD,U
-141,139,"orientalis","Melogale","Javan Ferret Badger",DD,U
-142,138,"everetti","Melogale","Bornean Ferret Badger",DD,U
-143,137,"moschata","Melogale","Small-toothed Ferret-badger",LC,U
-149,148,"cancrivorus","Procyon","Crab-eating Raccoon",LC,D
-150,148,"pygmaeus","Procyon","Pygmy Raccoon",CR,D
-151,147,"lotor","Procyon","Northern Raccoon",LC,I
-154,153,"nasua","Nasua","South American Coati",LC,D
-155,153,"narica","Nasua","White-nosed Coati",LC,D
-156,152,"olivacea","Nasuella","Mountain Coati",DD,U
-158,157,"sumichrasti","Bassariscus","Cacomistle",LC,U
-159,157,"astutus","Bassariscus","Ringtail",LC,U
-165,164,"lasius","Bassaricyon","Harris's Olingo",DD,D
-166,164,"gabbii","Bassaricyon","Olingo",LC,U
-167,163,"pauli","Bassaricyon","Chiriqui Olingo",DD,U
-168,162,"beddardi","Bassaricyon","Beddard's Olingo",LC,U
-169,161,"alleni","Bassaricyon","Allen's Olingo",LC,D
-170,160,"flavus","Potos","Kinkajou",LC,D
-171,1,"fulgens","Ailurus","Red Panda",VU,D
-181,180,"philippii","Arctocephalus","Juan Fernandez Fur Seal",NT,I
-182,180,"australis","Arctocephalus","South American Fur Seal",LC,I
-184,183,"galapagoensis","Arctocephalus","Galapagos Fur Seal",EN,D
-185,183,"forsteri","Arctocephalus","New Zealand Fur Seal",LC,I
-186,178,"townsendi","Arctocephalus","Guadalupe Fur Seal",NT,I
-187,177,"gazella","Arctocephalus","Antarctic Fur Seal",LC,I
-188,176,"tropicalis","Arctocephalus","Subantarctic Fur Seal",LC,I
-189,175,"pusillus","Arctocephalus","Afro-Australian Fur Seal",LC,I
-195,194,"hookeri","Phocarctos","New Zealand Sea Lion",VU,D
-196,194,"cinerea","Neophoca","Australian Sea Lion",EN,D
-197,193,"flavescens","Otaria","South American Sea Lion",LC,S
-198,192,"jubatus","Eumetopias","Steller Sea Lion",EN,D
-201,200,"californianus","Zalophus","Californian Sea Lion",LC,I
-202,200,"wollebaeki","Zalophus","Galapagos Sea Lion",EN,D
-203,199,"japonicus","Zalophus","Japanese Sea Lion",EX,U
-204,190,"ursinus","Callorhinus","Northern Fur Seal",VU,D
-205,173,"rosmarus","Odobenus","Walrus",DD,U
-214,213,"sibirica","Pusa","Baikal Seal",LC,S
-215,213,"hispida","Pusa","Ringed Seal",LC,U
-216,212,"caspica","Pusa","Caspian Seal",EN,D
-218,217,"vitulina","Phoca","Harbour Seal",LC,S
-219,217,"largha","Phoca","Spotted Seal",DD,U
-220,210,"grypus","Halichoerus","Grey Seal",LC,I
-222,221,"groenlandicus","Pagophilus","Harp Seal",LC,I
-223,221,"fasciata","Histriophoca","Ribbon Seal",DD,U
-224,208,"cristata","Cystophora","Hooded Seal",VU,D
-225,207,"barbatus","Erignathus","Bearded Seal",LC,S
-230,229,"carcinophaga","Lobodon","Crabeater Seal",LC,U
-231,229,"leptonyx","Hydrurga","Leopard Seal",LC,U
-233,232,"weddellii","Leptonychotes","Weddell Seal",LC,U
-234,232,"rossii","Ommatophoca","Ross Seal",LC,U
-236,235,"angustirostris","Mirounga","Northern Elephant Seal",LC,I
-237,235,"leonina","Mirounga","Southern Elephant Seal",LC,U
-239,238,"schauinslandi","Monachus","Hawaiian Monk Seal",CR,D
-240,238,"monachus","Monachus","Mediterranean Monk Seal",CR,D
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"strigidorsa","Mustela","Stripe-backed Weasel",LC,U,-16731116
+16,14,"lutreola","Mustela","European Mink",EN,D,-8572416
+17,13,"lutreolina","Mustela","Indonesian Mountain Weasel",DD,U,-11513776
+20,19,"sibirica","Mustela","SIBERIAN WEASEL",LC,S,-16731116
+21,19,"itatsi","Mustela","Japanese Weasel",LC,D,-16731116
+22,18,"nudipes","Mustela","Malay Weasel",LC,D,-16731116
+25,24,"nigripes","Mustela","Black-footed Ferret",EN,I,-8572416
+26,24,"eversmanii","Mustela","Steppe Polecat",LC,S,-16731116
+27,23,"putorius","Mustela","European Polecat",LC,D,-16731116
+33,32,"subpalmata","Mustela","Egyptian Weasel",LC,S,-16731116
+34,32,"nivalis","Mustela","Least Weasel",LC,S,-16731116
+35,31,"frenata","Mustela","Long-tailed Weasel",LC,S,-16731116
+37,36,"altaica","Mustela","Altai Weasel",NT,D,-12486656
+38,36,"erminea","Mustela","Stoat",LC,S,-16731116
+40,39,"felipei","Mustela","Colombian Weasel",VU,D,-11184866
+41,39,"africana","Mustela","Amazon Weasel",LC,U,-16731116
+42,28,"kathiah","Mustela","Yellow-bellied Weasel",LC,U,-16731116
+44,43,"vison","Neovison","American Mink",LC,S,-16731116
+45,43,"macrodon","Neovison","Sea Mink",EX,U,-16777036
+56,55,"americana","Martes","American Marten",LC,D,-16731116
+57,55,"melampus","Martes","Japanese Marten",LC,S,-16731116
+58,54,"zibellina","Martes","SABLE",LC,U,-16731116
+59,53,"martes","Martes","European Pine Marten",LC,S,-16731116
+60,52,"foina","Martes","Stone Marten",LC,S,-16731116
+61,51,"pennanti","Martes","Fisher",LC,U,-16731116
+63,62,"flavigula","Martes","Yellow-throated Marten",LC,S,-16731116
+64,62,"gwatkinsii","Martes","Nilgiri Marten",VU,D,-11184866
+65,49,"gulo","Gulo","Wolverine",LC,D,-16731116
+66,48,"barbara","Eira","Tayra",LC,D,-16731116
+68,67,"vittata","Galictis","Greater Grison",LC,S,-16731116
+69,67,"cuja","Galictis","Lesser Grison",LC,U,-16731116
+70,46,"patagonicus","Lyncodon","Patagonian Weasel",DD,U,-11513776
+73,72,"libyca","Ictonyx","Libyan Striped Weasel",LC,U,-16731116
+74,72,"striatus","Ictonyx","Zorilla",LC,S,-16731116
+75,71,"peregusna","Vormela","European Marbled Polecat",VU,D,-11184866
+76,6,"albinucha","Poecilogale","African Striped Weasel",LC,U,-16731116
+77,5,"capensis","Mellivora","Honey Badger",LC,D,-16731116
+83,82,"anakuma","Meles","Japanese Badger",LC,D,-16731116
+84,82,"meles","Meles","Eurasian Badger",LC,S,-16731116
+85,81,"leucurus","Meles","Asian Badger",LC,U,-16731116
+86,80,"collaris","Arctonyx","Hog Badger",NT,D,-12486656
+88,87,"javanensis","Mydaus","Sunda Stink-badger",LC,U,-16731116
+89,87,"marchei","Mydaus","Palawan Stink-badger",LC,U,-16731116
+90,78,"taxus","Taxidea","American Badger",LC,D,-16731116
+99,98,"provocax","Lontra","Southern River Otter",EN,D,-8572416
+100,98,"felina","Lontra","Marine Otter",EN,D,-8572416
+101,97,"longicaudis","Lontra","Neotropical Otter",DD,D,-11513776
+102,96,"canadensis","Lontra","North American Otter",LC,S,-16731116
+105,104,"lutra","Lutra","Eurasian Otter",NT,D,-12486656
+106,104,"nippon","Lutra","",NE,U,-16777216
+107,103,"sumatrana","Lutra","Hairy-nosed Otter",EN,D,-8572416
+111,110,"perspicillata","Lutrogale","Smooth-coated Otter",VU,U,-11184866
+112,110,"maculicollis","Hydrictis","",NE,U,-16777216
+113,109,"brasiliensis","Pteronura","Giant Otter",EN,D,-8572416
+114,108,"lutris","Enhydra","Sea Otter",EN,S,-8572416
+116,115,"cinerea","Aonyx","Asian Small-clawed Otter",VU,D,-11184866
+117,115,"capensis","Aonyx","African Clawless Otter",LC,S,-16731116
+123,122,"putorius","Spilogale","Eastern Spotted Skunk",LC,D,-16731116
+124,122,"gracilis","Spilogale","Western Spotted Skunk",LC,D,-16731116
+125,121,"angustifrons","Spilogale","Southern Spotted Skunk",LC,S,-16731116
+126,120,"pygmaea","Spilogale","Pygmy Spotted Skunk",VU,D,-11184866
+128,127,"mephitis","Mephitis","Striped Skunk",LC,S,-16731116
+129,127,"macroura","Mephitis","Hooded Skunk",LC,I,-16731116
+132,131,"humboldtii","Conepatus","Humboldt's Hog-nosed Skunk",LC,S,-16731116
+133,131,"semistriatus","Conepatus","Striped Hog-nosed Skunk",LC,U,-16731116
+135,134,"leuconotus","Conepatus","American Hog-nosed Skunk",LC,D,-16731116
+136,134,"chinga","Conepatus","Molina's Hog-nosed Skunk",LC,D,-16731116
+140,139,"personata","Melogale","Large-toothed Ferret Badger",DD,U,-11513776
+141,139,"orientalis","Melogale","Javan Ferret Badger",DD,U,-11513776
+142,138,"everetti","Melogale","Bornean Ferret Badger",DD,U,-11513776
+143,137,"moschata","Melogale","Small-toothed Ferret-badger",LC,U,-16731116
+149,148,"cancrivorus","Procyon","Crab-eating Raccoon",LC,D,-16731116
+150,148,"pygmaeus","Procyon","Pygmy Raccoon",CR,D,-3014646
+151,147,"lotor","Procyon","Northern Raccoon",LC,I,-16731116
+154,153,"nasua","Nasua","South American Coati",LC,D,-16731116
+155,153,"narica","Nasua","White-nosed Coati",LC,D,-16731116
+156,152,"olivacea","Nasuella","Mountain Coati",DD,U,-11513776
+158,157,"sumichrasti","Bassariscus","Cacomistle",LC,U,-16731116
+159,157,"astutus","Bassariscus","Ringtail",LC,U,-16731116
+165,164,"lasius","Bassaricyon","Harris's Olingo",DD,D,-11513776
+166,164,"gabbii","Bassaricyon","Olingo",LC,U,-16731116
+167,163,"pauli","Bassaricyon","Chiriqui Olingo",DD,U,-11513776
+168,162,"beddardi","Bassaricyon","Beddard's Olingo",LC,U,-16731116
+169,161,"alleni","Bassaricyon","Allen's Olingo",LC,D,-16731116
+170,160,"flavus","Potos","Kinkajou",LC,D,-16731116
+171,1,"fulgens","Ailurus","Red Panda",VU,D,-11184866
+181,180,"philippii","Arctocephalus","Juan Fernandez Fur Seal",NT,I,-12486656
+182,180,"australis","Arctocephalus","South American Fur Seal",LC,I,-16731116
+184,183,"galapagoensis","Arctocephalus","Galapagos Fur Seal",EN,D,-8572416
+185,183,"forsteri","Arctocephalus","New Zealand Fur Seal",LC,I,-16731116
+186,178,"townsendi","Arctocephalus","Guadalupe Fur Seal",NT,I,-12486656
+187,177,"gazella","Arctocephalus","Antarctic Fur Seal",LC,I,-16731116
+188,176,"tropicalis","Arctocephalus","Subantarctic Fur Seal",LC,I,-16731116
+189,175,"pusillus","Arctocephalus","Afro-Australian Fur Seal",LC,I,-16731116
+195,194,"hookeri","Phocarctos","New Zealand Sea Lion",VU,D,-11184866
+196,194,"cinerea","Neophoca","Australian Sea Lion",EN,D,-8572416
+197,193,"flavescens","Otaria","South American Sea Lion",LC,S,-16731116
+198,192,"jubatus","Eumetopias","Steller Sea Lion",EN,D,-8572416
+201,200,"californianus","Zalophus","Californian Sea Lion",LC,I,-16731116
+202,200,"wollebaeki","Zalophus","Galapagos Sea Lion",EN,D,-8572416
+203,199,"japonicus","Zalophus","Japanese Sea Lion",EX,U,-16777036
+204,190,"ursinus","Callorhinus","Northern Fur Seal",VU,D,-11184866
+205,173,"rosmarus","Odobenus","Walrus",DD,U,-11513776
+214,213,"sibirica","Pusa","Baikal Seal",LC,S,-16731116
+215,213,"hispida","Pusa","Ringed Seal",LC,U,-16731116
+216,212,"caspica","Pusa","Caspian Seal",EN,D,-8572416
+218,217,"vitulina","Phoca","Harbour Seal",LC,S,-16731116
+219,217,"largha","Phoca","Spotted Seal",DD,U,-11513776
+220,210,"grypus","Halichoerus","Grey Seal",LC,I,-16731116
+222,221,"groenlandicus","Pagophilus","Harp Seal",LC,I,-16731116
+223,221,"fasciata","Histriophoca","Ribbon Seal",DD,U,-11513776
+224,208,"cristata","Cystophora","Hooded Seal",VU,D,-11184866
+225,207,"barbatus","Erignathus","Bearded Seal",LC,S,-16731116
+230,229,"carcinophaga","Lobodon","Crabeater Seal",LC,U,-16731116
+231,229,"leptonyx","Hydrurga","Leopard Seal",LC,U,-16731116
+233,232,"weddellii","Leptonychotes","Weddell Seal",LC,U,-16731116
+234,232,"rossii","Ommatophoca","Ross Seal",LC,U,-16731116
+236,235,"angustirostris","Mirounga","Northern Elephant Seal",LC,I,-16731116
+237,235,"leonina","Mirounga","Southern Elephant Seal",LC,U,-16731116
+239,238,"schauinslandi","Monachus","Hawaiian Monk Seal",CR,D,-3014646
+240,238,"monachus","Monachus","Mediterranean Monk Seal",CR,D,-3014646

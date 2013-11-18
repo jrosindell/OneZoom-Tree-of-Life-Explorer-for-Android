@@ -7,9 +7,8 @@ import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
-import com.onezoom.midnode.Precalculator;
 
-public class BinaryPrecalculator implements Precalculator {
+public class BinaryPrecalculator {
 	private static final float partl1 = 0.55f; // size of line
 	private static final float ratioOfChild1 = 1/1.3f;
 	private static final float ratioOfChild2 = 1/2.25f;
@@ -21,20 +20,20 @@ public class BinaryPrecalculator implements Precalculator {
 
 	private static float rootAngle = (float) (Math.PI * 3 / 2);
 	
-	@Override
+	
 	public void preCalcWholeTree(MidNode tree) {
 		precalcOneNode(tree);
 		if (tree.child1 != null) preCalcWholeTree(tree.child1);
 		if (tree.child2 != null) preCalcWholeTree(tree.child2);
 	}
 
-	@Override
+	
 	public void preCalcWholeTree(MidNode tree, Float angle) {
 		rootAngle = angle;
 		preCalcWholeTree(tree);
 	}
 	
-	@Override
+	
 	public void preCalcOneInteriorNode(InteriorNode interiorNode) {
 //		assert interiorNode != null;
 		Assert.assertNotNull(interiorNode);
@@ -52,7 +51,7 @@ public class BinaryPrecalculator implements Precalculator {
 		precalcInteriorCircle(interiorNode.positionData);
 	}
 
-	@Override
+	
 	public void preCalcOneLeafNode(LeafNode leafNode) {
 //		assert leafNode != null;
 		Assert.assertNotNull(leafNode);
@@ -76,6 +75,7 @@ public class BinaryPrecalculator implements Precalculator {
 			Assert.assertEquals(node.getClass(), LeafNode.class);
 			preCalcOneLeafNode((LeafNode)node);
 		}
+		MidNode.positionCalculator.calculateGBoundingBox(node);
 	}
 	
 	private void precalcAsLeftChildren(PositionData thisData,

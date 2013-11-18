@@ -1,7 +1,7 @@
 package com.onezoom.midnode;
 
 
-public abstract class PositionData {
+public class PositionData {
 	public float bezsx, bezsy, bezex, bezey, bezc1x, bezc1y, bezc2x, bezc2y, bezr;
 	public float xvar, yvar, rvar;
 	public float arcAngle, arcx, arcy, arcr;

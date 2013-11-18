@@ -57,11 +57,9 @@ public class TreeView extends View {
 	public boolean onTouchEvent(MotionEvent event) {
 		switch (event.getAction()) {
 		case MotionEvent.ACTION_DOWN:
-			Log.d("debug","-------" + PositionData.getXp());
 			duringInteraction = true;
 			break;
 		case MotionEvent.ACTION_UP:
-			Log.d("debug","-------" + PositionData.getXp());
 			onScale = false;
 			duringInteraction = false;
 			break;
@@ -86,9 +84,10 @@ public class TreeView extends View {
 			drawLoading(canvas);
 		} else {
 			if (!duringRecalculation && !duringInteraction){
+				Log.d("debug", "------- draw elemnt" + PositionData.ws);
 				drawElementAndCache(canvas);
 			} else {
-				Log.d("debug", "------- " + distanceX);
+				Log.d("debug", "------- draw bitmap" + PositionData.ws);
 				canvas.translate(distanceX, distanceY);
 				canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
 				canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, 720,
@@ -111,7 +110,9 @@ public class TreeView extends View {
 			this.distanceY = 0;
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
-			client.getTreeRoot().drawElement(canvas);
+			synchronized (client.getTreeRoot()) {
+				client.getTreeRoot().drawElement(canvas);				
+			}
 			toggle = !toggle;
 		}
 		duringInteraction = true;
@@ -136,14 +137,12 @@ public class TreeView extends View {
 	}
 	
 	public void zoomin(float factor) {
-
 		PositionData.shiftScreenPosition(0, 0, factor);
 		duringRecalculation = true;
 		client.recalculate();
 	}
 	
-	public void zoomin(float scaleFactor, float focusX, float focusY) {		
-		
+	public void zoomin(float scaleFactor, float focusX, float focusY) {	
 		PositionData.shiftScreenPosition(focusX, focusY, scaleFactor);
 		duringRecalculation = true;
 		client.recalculate();

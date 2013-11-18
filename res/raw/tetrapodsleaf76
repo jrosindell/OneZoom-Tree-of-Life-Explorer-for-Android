@@ -1,149 +1,149 @@
-index,parent,name1,name2,common,redlist,popstab
-12,11,"lesueurii","Litoria","Lesueur's Frog",LC,D
-13,11,"wilcoxii","Litoria","",LC,D
-14,10,"jungguy","Litoria","",NT,U
-15,9,"exophthalmia","Litoria","",LC,S
-16,8,"quadrilineata","Litoria","",VU,U
-18,17,"genimaculata","Litoria","Green-eyed Treefrog",LC,D
-19,17,"eucnemis","Litoria","Fringed Treefrog",LC,S
-23,22,"latopalmata","Litoria","Broad-palmed Rocket Frog",LC,S
-24,22,"tornieri","Litoria","Tornier's Frog",LC,S
-25,21,"inermis","Litoria","Bumpy Rocket Frog",LC,S
-26,20,"pallida","Litoria","Pale Frog",LC,S
-33,32,"phyllochroa","Litoria","Leaf Green River Treefrog",LC,S
-34,32,"piperata","Litoria","Peppered Treefrog",CR,U
-35,31,"daviesae","Litoria","",VU,D
-37,36,"citropa","Litoria","Blue Mountains Treefrog",LC,S
-38,36,"pearsoniana","Litoria","Cascade Treefrog",NT,D
-39,29,"subglandulosa","Litoria","Glandular Frog",VU,D
-40,28,"leucova","Litoria","",DD,U
-43,42,"wollastoni","Litoria","",LC,S
-44,42,"arfakiana","Litoria","",LC,S
-45,41,"oenicolen","Litoria","",DD,U
-52,51,"raniformis","Litoria","Green And Gold Frog",EN,D
-53,51,"aurea","Litoria","Golden Bell Frog",VU,D
-54,50,"dahlii","Litoria","Dahl's Aquatic Frog",LC,S
-55,49,"castanea","Litoria","Yellow-spotted Treefrog",CR,U
-56,48,"moorei","Litoria","Bell Frog",LC,S
-59,58,"freycineti","Litoria","Freycinet's Frog",VU,D
-60,58,"nasuta","Litoria","Rocket Frog",LC,S
-61,57,"booroolongensis","Litoria","Booroolong Frog",CR,D
-63,62,"dorsivena","Litoria","",DD,U
-64,62,"bulmeri","Litoria","",DD,U
-71,70,"umarensis","Litoria","Umar Treefrog",DD,U
-72,70,"nigropunctata","Litoria","",LC,S
-74,73,"vocivincens","Litoria","",LC,S
-75,73,"iris","Litoria","",LC,S
-76,68,"majikthise","Litoria","",DD,U
-79,78,"verae","Litoria","Vera's Treefrog",DD,U
-80,78,"rubrops","Litoria","",DD,U
-82,81,"singadanae","Litoria","",DD,U
-83,81,"pronimia","Litoria","",LC,S
-87,86,"havina","Litoria","",LC,S
-88,86,"mucro","Litoria","",DD,U
-89,85,"wapogaensis","Litoria","",DD,S
-91,90,"chloronota","Litoria","",DD,U
-92,90,"ollauro","Litoria","",DD,U
-97,96,"nyakalensis","Litoria","Mountain Mistfrog",CR,D
-98,96,"lorica","Litoria","Armoured Frog",CR,D
-99,95,"nannotis","Litoria","Torrent Treefrog",EN,S
-100,94,"rheocola","Litoria","Common Mist Frog",EN,D
-102,101,"cyclorhyncha","Litoria","Spotted-thighed Frog",LC,S
-103,101,"coplandi","Litoria","Copland's Rock Frog",LC,S
-105,104,"brevipalmata","Litoria","Green-thighed Frog",EN,D
-106,104,"louisiadensis","Litoria","",LC,S
-120,119,"obsoleta","Litoria","",DD,U
-121,119,"avocalis","Litoria","",VU,U
-122,118,"persimilis","Litoria","",DD,U
-123,117,"cheesmanae","Litoria","",NE,U
-125,124,"dayi","Litoria","Australian Lace-lid",EN,D
-126,124,"montana","Litoria","",DD,U
-127,115,"gularis","Litoria","",DD,U
-130,129,"trachydermis","Litoria","",LC,S
-131,129,"narinosa","Litoria","",LC,S
-132,128,"kubori","Litoria","",LC,S
-133,113,"pulchra","Litoria","",LC,S
-139,138,"semipalmata","Litoria","",LC,S
-140,138,"disrupta","Litoria","",LC,S
-141,137,"perimetri","Litoria","",LC,S
-142,136,"foricula","Litoria","",LC,S
-143,135,"rueppelli","Litoria","",VU,D
-145,144,"fluviatilis","Litoria","",DD,U
-146,144,"daymani","Litoria","",DD,U
-148,147,"zweifeli","Litoria","",DD,U
-149,147,"papua","Litoria","",DD,U
-152,151,"humeralis","Litoria","",LC,S
-153,151,"granti","Litoria","",DD,U
-154,150,"oktediensis","Litoria","",DD,S
-155,109,"vagabunda","Litoria","",DD,U
-161,160,"verreauxii","Litoria","Alpine Treefrog",LC,D
-162,160,"jervisiensis","Litoria","Heath Frog",LC,S
-163,159,"paraewingi","Litoria","Plains Brown Treefrog",LC,S
-164,158,"ewingii","Litoria","Brown Treefrog",LC,S
-166,165,"littlejohni","Litoria","Large Brown Treefrog",LC,S
-167,165,"revelata","Litoria","Revealed Frog",LC,S
-168,156,"adelaidensis","Litoria","Slender Treefrog",LC,S
-169,107,"meiriana","Litoria","Rockhole Frog",LC,S
-180,179,"multiplica","Litoria","",LC,S
-181,179,"auae","Litoria","",LC,U
-182,178,"kumae","Litoria","",DD,U
-184,183,"gracilenta","Litoria","Dainty Green Treefrog",LC,S
-185,183,"graminea","Litoria","",DD,U
-189,188,"chloris","Litoria","Red-eyed Green Treefrog",LC,S
-190,188,"aruensis","Litoria","",DD,U
-191,187,"elkeae","Litoria","",DD,S
-192,186,"xanthomera","Litoria","Orange-thighed Frog",LC,S
-195,194,"nigrofrenata","Litoria","Bridle Frog",LC,S
-196,194,"personata","Litoria","Masked Frog",LC,S
-197,193,"watjulumensis","Litoria","Wotjulum Frog",LC,S
-199,198,"albolabris","Litoria","",DD,U
-200,198,"burrowsae","Litoria","",NE,U
-206,205,"andiirrmalin","Litoria","Cape Melville Treefrog",VU,S
-207,205,"fallax","Litoria","Eastern Dwarf Treefrog",LC,U
-208,204,"cooloolensis","Litoria","Cooloola Sedgefrog",EN,D
-209,203,"bicolor","Litoria","Green Reed Frog",LC,S
-210,202,"mystax","Litoria","",DD,U
-213,212,"contrastens","Litoria","",DD,S
-214,212,"longicrus","Litoria","",DD,U
-215,211,"olongburensis","Litoria","Olongburra Frog",VU,D
-218,217,"cavernicola","Litoria","Cave-dwelling Frog",DD,U
-219,217,"gilleni","Litoria","Centralian Treefrog",LC,S
-221,220,"splendida","Litoria","Magnificent Treefrog",LC,S
-222,220,"caerulea","Litoria","Green Treefrog",LC,S
-228,227,"infrafrenata","Litoria","Giant Treefrog",LC,S
-229,227,"sanguinolenta","Litoria","",DD,U
-230,226,"multicolor","Litoria","Multi-coloured Treefrog",DD,U
-233,232,"thesaurensis","Litoria","",LC,S
-234,232,"impura","Litoria","",LC,S
-235,231,"lutea","Litoria","",VU,D
-241,240,"longirostris","Litoria","Long-snouted Frog",LC,S
-242,240,"dorsalis","Litoria","",LC,S
-243,239,"timida","Litoria","",LC,S
-244,238,"microbelos","Litoria","Javelin Frog",LC,S
-245,237,"angiana","Litoria","",LC,S
-246,236,"prora","Litoria","",LC,S
-248,247,"spenceri","Litoria","Spencer's River Treefrog",CR,D
-249,247,"napaea","Litoria","",LC,S
-257,256,"wisselensis","Litoria","",VU,U
-258,256,"capitula","Litoria","",DD,U
-259,255,"electrica","Litoria","Buzzing Treefrog",LC,S
-261,260,"congenita","Litoria","",LC,S
-262,260,"umbonata","Litoria","",DD,U
-266,265,"dentata","Litoria","Bleating Treefrog",LC,D
-267,265,"pygmaea","Litoria","",LC,S
-268,264,"rubella","Litoria","Desert Treefrog",LC,S
-269,263,"obtusirostris","Litoria","",DD,U
-270,252,"jeudii","Litoria","",DD,U
-274,273,"peronii","Litoria","Emerald Spotted Treefrog",LC,S
-275,273,"tyleri","Litoria","Laughing Treefrog",LC,S
-276,272,"amboinensis","Litoria","",LC,S
-279,278,"everetti","Litoria","Everett's Treefrog",DD,U
-280,278,"darlingtoni","Litoria","",LC,S
-281,277,"rothii","Litoria","Roth's Treefrog",LC,S
-286,285,"micromembrana","Litoria","",LC,S
-287,285,"becki","Litoria","",VU,U
-288,284,"pratti","Litoria","",DD,U
-289,283,"brongersmai","Litoria","",DD,U
-292,291,"modica","Litoria","",LC,S
-293,291,"macki","Litoria","",DD,U
-294,290,"spinifera","Litoria","",LC,S
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"lesueurii","Litoria","Lesueur's Frog",LC,D,-16731116
+13,11,"wilcoxii","Litoria","",LC,D,-16731116
+14,10,"jungguy","Litoria","",NT,U,-12486656
+15,9,"exophthalmia","Litoria","",LC,S,-16731116
+16,8,"quadrilineata","Litoria","",VU,U,-11184866
+18,17,"genimaculata","Litoria","Green-eyed Treefrog",LC,D,-16731116
+19,17,"eucnemis","Litoria","Fringed Treefrog",LC,S,-16731116
+23,22,"latopalmata","Litoria","Broad-palmed Rocket Frog",LC,S,-16731116
+24,22,"tornieri","Litoria","Tornier's Frog",LC,S,-16731116
+25,21,"inermis","Litoria","Bumpy Rocket Frog",LC,S,-16731116
+26,20,"pallida","Litoria","Pale Frog",LC,S,-16731116
+33,32,"phyllochroa","Litoria","Leaf Green River Treefrog",LC,S,-16731116
+34,32,"piperata","Litoria","Peppered Treefrog",CR,U,-3014646
+35,31,"daviesae","Litoria","",VU,D,-11184866
+37,36,"citropa","Litoria","Blue Mountains Treefrog",LC,S,-16731116
+38,36,"pearsoniana","Litoria","Cascade Treefrog",NT,D,-12486656
+39,29,"subglandulosa","Litoria","Glandular Frog",VU,D,-11184866
+40,28,"leucova","Litoria","",DD,U,-11513776
+43,42,"wollastoni","Litoria","",LC,S,-16731116
+44,42,"arfakiana","Litoria","",LC,S,-16731116
+45,41,"oenicolen","Litoria","",DD,U,-11513776
+52,51,"raniformis","Litoria","Green And Gold Frog",EN,D,-8572416
+53,51,"aurea","Litoria","Golden Bell Frog",VU,D,-11184866
+54,50,"dahlii","Litoria","Dahl's Aquatic Frog",LC,S,-16731116
+55,49,"castanea","Litoria","Yellow-spotted Treefrog",CR,U,-3014646
+56,48,"moorei","Litoria","Bell Frog",LC,S,-16731116
+59,58,"freycineti","Litoria","Freycinet's Frog",VU,D,-11184866
+60,58,"nasuta","Litoria","Rocket Frog",LC,S,-16731116
+61,57,"booroolongensis","Litoria","Booroolong Frog",CR,D,-3014646
+63,62,"dorsivena","Litoria","",DD,U,-11513776
+64,62,"bulmeri","Litoria","",DD,U,-11513776
+71,70,"umarensis","Litoria","Umar Treefrog",DD,U,-11513776
+72,70,"nigropunctata","Litoria","",LC,S,-16731116
+74,73,"vocivincens","Litoria","",LC,S,-16731116
+75,73,"iris","Litoria","",LC,S,-16731116
+76,68,"majikthise","Litoria","",DD,U,-11513776
+79,78,"verae","Litoria","Vera's Treefrog",DD,U,-11513776
+80,78,"rubrops","Litoria","",DD,U,-11513776
+82,81,"singadanae","Litoria","",DD,U,-11513776
+83,81,"pronimia","Litoria","",LC,S,-16731116
+87,86,"havina","Litoria","",LC,S,-16731116
+88,86,"mucro","Litoria","",DD,U,-11513776
+89,85,"wapogaensis","Litoria","",DD,S,-11513776
+91,90,"chloronota","Litoria","",DD,U,-11513776
+92,90,"ollauro","Litoria","",DD,U,-11513776
+97,96,"nyakalensis","Litoria","Mountain Mistfrog",CR,D,-3014646
+98,96,"lorica","Litoria","Armoured Frog",CR,D,-3014646
+99,95,"nannotis","Litoria","Torrent Treefrog",EN,S,-8572416
+100,94,"rheocola","Litoria","Common Mist Frog",EN,D,-8572416
+102,101,"cyclorhyncha","Litoria","Spotted-thighed Frog",LC,S,-16731116
+103,101,"coplandi","Litoria","Copland's Rock Frog",LC,S,-16731116
+105,104,"brevipalmata","Litoria","Green-thighed Frog",EN,D,-8572416
+106,104,"louisiadensis","Litoria","",LC,S,-16731116
+120,119,"obsoleta","Litoria","",DD,U,-11513776
+121,119,"avocalis","Litoria","",VU,U,-11184866
+122,118,"persimilis","Litoria","",DD,U,-11513776
+123,117,"cheesmanae","Litoria","",NE,U,-16777216
+125,124,"dayi","Litoria","Australian Lace-lid",EN,D,-8572416
+126,124,"montana","Litoria","",DD,U,-11513776
+127,115,"gularis","Litoria","",DD,U,-11513776
+130,129,"trachydermis","Litoria","",LC,S,-16731116
+131,129,"narinosa","Litoria","",LC,S,-16731116
+132,128,"kubori","Litoria","",LC,S,-16731116
+133,113,"pulchra","Litoria","",LC,S,-16731116
+139,138,"semipalmata","Litoria","",LC,S,-16731116
+140,138,"disrupta","Litoria","",LC,S,-16731116
+141,137,"perimetri","Litoria","",LC,S,-16731116
+142,136,"foricula","Litoria","",LC,S,-16731116
+143,135,"rueppelli","Litoria","",VU,D,-11184866
+145,144,"fluviatilis","Litoria","",DD,U,-11513776
+146,144,"daymani","Litoria","",DD,U,-11513776
+148,147,"zweifeli","Litoria","",DD,U,-11513776
+149,147,"papua","Litoria","",DD,U,-11513776
+152,151,"humeralis","Litoria","",LC,S,-16731116
+153,151,"granti","Litoria","",DD,U,-11513776
+154,150,"oktediensis","Litoria","",DD,S,-11513776
+155,109,"vagabunda","Litoria","",DD,U,-11513776
+161,160,"verreauxii","Litoria","Alpine Treefrog",LC,D,-16731116
+162,160,"jervisiensis","Litoria","Heath Frog",LC,S,-16731116
+163,159,"paraewingi","Litoria","Plains Brown Treefrog",LC,S,-16731116
+164,158,"ewingii","Litoria","Brown Treefrog",LC,S,-16731116
+166,165,"littlejohni","Litoria","Large Brown Treefrog",LC,S,-16731116
+167,165,"revelata","Litoria","Revealed Frog",LC,S,-16731116
+168,156,"adelaidensis","Litoria","Slender Treefrog",LC,S,-16731116
+169,107,"meiriana","Litoria","Rockhole Frog",LC,S,-16731116
+180,179,"multiplica","Litoria","",LC,S,-16731116
+181,179,"auae","Litoria","",LC,U,-16731116
+182,178,"kumae","Litoria","",DD,U,-11513776
+184,183,"gracilenta","Litoria","Dainty Green Treefrog",LC,S,-16731116
+185,183,"graminea","Litoria","",DD,U,-11513776
+189,188,"chloris","Litoria","Red-eyed Green Treefrog",LC,S,-16731116
+190,188,"aruensis","Litoria","",DD,U,-11513776
+191,187,"elkeae","Litoria","",DD,S,-11513776
+192,186,"xanthomera","Litoria","Orange-thighed Frog",LC,S,-16731116
+195,194,"nigrofrenata","Litoria","Bridle Frog",LC,S,-16731116
+196,194,"personata","Litoria","Masked Frog",LC,S,-16731116
+197,193,"watjulumensis","Litoria","Wotjulum Frog",LC,S,-16731116
+199,198,"albolabris","Litoria","",DD,U,-11513776
+200,198,"burrowsae","Litoria","",NE,U,-16777216
+206,205,"andiirrmalin","Litoria","Cape Melville Treefrog",VU,S,-11184866
+207,205,"fallax","Litoria","Eastern Dwarf Treefrog",LC,U,-16731116
+208,204,"cooloolensis","Litoria","Cooloola Sedgefrog",EN,D,-8572416
+209,203,"bicolor","Litoria","Green Reed Frog",LC,S,-16731116
+210,202,"mystax","Litoria","",DD,U,-11513776
+213,212,"contrastens","Litoria","",DD,S,-11513776
+214,212,"longicrus","Litoria","",DD,U,-11513776
+215,211,"olongburensis","Litoria","Olongburra Frog",VU,D,-11184866
+218,217,"cavernicola","Litoria","Cave-dwelling Frog",DD,U,-11513776
+219,217,"gilleni","Litoria","Centralian Treefrog",LC,S,-16731116
+221,220,"splendida","Litoria","Magnificent Treefrog",LC,S,-16731116
+222,220,"caerulea","Litoria","Green Treefrog",LC,S,-16731116
+228,227,"infrafrenata","Litoria","Giant Treefrog",LC,S,-16731116
+229,227,"sanguinolenta","Litoria","",DD,U,-11513776
+230,226,"multicolor","Litoria","Multi-coloured Treefrog",DD,U,-11513776
+233,232,"thesaurensis","Litoria","",LC,S,-16731116
+234,232,"impura","Litoria","",LC,S,-16731116
+235,231,"lutea","Litoria","",VU,D,-11184866
+241,240,"longirostris","Litoria","Long-snouted Frog",LC,S,-16731116
+242,240,"dorsalis","Litoria","",LC,S,-16731116
+243,239,"timida","Litoria","",LC,S,-16731116
+244,238,"microbelos","Litoria","Javelin Frog",LC,S,-16731116
+245,237,"angiana","Litoria","",LC,S,-16731116
+246,236,"prora","Litoria","",LC,S,-16731116
+248,247,"spenceri","Litoria","Spencer's River Treefrog",CR,D,-3014646
+249,247,"napaea","Litoria","",LC,S,-16731116
+257,256,"wisselensis","Litoria","",VU,U,-11184866
+258,256,"capitula","Litoria","",DD,U,-11513776
+259,255,"electrica","Litoria","Buzzing Treefrog",LC,S,-16731116
+261,260,"congenita","Litoria","",LC,S,-16731116
+262,260,"umbonata","Litoria","",DD,U,-11513776
+266,265,"dentata","Litoria","Bleating Treefrog",LC,D,-16731116
+267,265,"pygmaea","Litoria","",LC,S,-16731116
+268,264,"rubella","Litoria","Desert Treefrog",LC,S,-16731116
+269,263,"obtusirostris","Litoria","",DD,U,-11513776
+270,252,"jeudii","Litoria","",DD,U,-11513776
+274,273,"peronii","Litoria","Emerald Spotted Treefrog",LC,S,-16731116
+275,273,"tyleri","Litoria","Laughing Treefrog",LC,S,-16731116
+276,272,"amboinensis","Litoria","",LC,S,-16731116
+279,278,"everetti","Litoria","Everett's Treefrog",DD,U,-11513776
+280,278,"darlingtoni","Litoria","",LC,S,-16731116
+281,277,"rothii","Litoria","Roth's Treefrog",LC,S,-16731116
+286,285,"micromembrana","Litoria","",LC,S,-16731116
+287,285,"becki","Litoria","",VU,U,-11184866
+288,284,"pratti","Litoria","",DD,U,-11513776
+289,283,"brongersmai","Litoria","",DD,U,-11513776
+292,291,"modica","Litoria","",LC,S,-16731116
+293,291,"macki","Litoria","",DD,U,-11513776
+294,290,"spinifera","Litoria","",LC,S,-16731116

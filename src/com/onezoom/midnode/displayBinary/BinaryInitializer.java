@@ -8,126 +8,59 @@ import java.util.LinkedList;
 import java.util.Locale;
 
 import junit.framework.Assert;
-
-import org.apache.commons.lang3.StringUtils;
-
 import android.content.Context;
 import android.util.Log;
 import android.util.Pair;
 import au.com.bytecode.opencsv.CSVReader;
 
 import com.onezoom.CanvasActivity;
-import com.onezoom.midnode.Initializer;
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
-import com.onezoom.midnode.MidNodeOneChunk;
 import com.onezoom.midnode.PositionData;
 
-public class BinaryInitializer implements Initializer {
+public class BinaryInitializer {
 	Hashtable<Integer, InteriorNode> interiorHash;
 	Hashtable<Integer, LeafNode> leafHash;
-	LinkedList<Pair<Integer, MidNode>> list;
-	LinkedList<Node> chunkList;
+	LinkedList<Pair<Integer, MidNode>> listOfHeadNodeInNextFile;
 	static Context canvasActivity;
+	boolean dynamic = false;
 
 	public BinaryInitializer() {
 		interiorHash = new Hashtable<Integer, InteriorNode>(200);
 		leafHash = new Hashtable<Integer, LeafNode>(200);
-		list = new LinkedList<Pair<Integer,MidNode>>();
-		chunkList = new LinkedList<Node>();
+		listOfHeadNodeInNextFile = new LinkedList<Pair<Integer,MidNode>>();
 	}
 	
 	public static void setContext(Context context) {
 		canvasActivity = context;
 	}
 	
-	@Override
-	public MidNodeOneChunk createTreeChunk(String fileNumber) {
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase();
-		MidNodeOneChunk rootChunk = createOneChunk(canvasActivity, selectedGroup, fileNumber, 0, null);
-		MidNodeOneChunk tempChunk;
-		while (!chunkList.isEmpty()) {
-			Node node = chunkList.poll();
-			if (node.childIndex == 1) {
-				int[] infos = findFileAndIndexInfo(node.midNode.child1Index);
-				if (node.midNode.positionData.dvar) {
-					tempChunk = createOneChunk(canvasActivity, selectedGroup, Integer.toString(infos[1]), 1, node.midNode);
-					node.midNode.child1 = tempChunk.getroot();
-					node.parentChunk.addChildren(tempChunk);
-				}
-			} else {
-				Assert.assertEquals(node.childIndex, 2);
-				int[] infos = findFileAndIndexInfo(node.midNode.child2Index);
-				if (node.midNode.positionData.dvar) {
-					tempChunk = createOneChunk(canvasActivity, selectedGroup, Integer.toString(infos[1]), 2, node.midNode);
-					node.midNode.child2 = tempChunk.getroot();
-					node.parentChunk.addChildren(tempChunk);
-				}
-			}	
-		}
-		return rootChunk;
-	}
-	
-	@Override
-	public void createTreeChunk(MidNode midNode, int childIndex) {
-		//called during recalculation, dynamically create children chunk based on midnode and which children the children chunk is
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase();
-		int[] infos;
-		String fileIndex;
-		if (childIndex == 1) {
-			Assert.assertEquals(midNode.child1Index < 0, true);
-			infos = findFileAndIndexInfo(midNode.child1Index);
-			fileIndex = Integer.toString(infos[1]);
-			midNode.child1 = createMidNode(fileIndex, childIndex, midNode);
-		} else {
-			Assert.assertEquals(midNode.child2Index < 0, true);
-			infos = findFileAndIndexInfo(midNode.child2Index);
-			fileIndex = Integer.toString(infos[1]);
-			midNode.child2 = createMidNode(fileIndex, childIndex, midNode);
-		}		
-	}
-
-	@Override
 	public MidNode createMidNode(String fileIndex) {
-		return createMidNode(fileIndex, 0, null);
+		return createTreeStartFromFileIndex(fileIndex, 0, null);
 	}
 	
-	private MidNode createMidNode(String fileIndex, int childIndex, MidNode parent) {
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase();
-		MidNode fulltree = createChunkOfNode(canvasActivity, selectedGroup, fileIndex, childIndex, parent);
-		while (!list.isEmpty()) {
-			Pair<Integer, MidNode> pair = list.poll();
+	public MidNode createTreeStartFromFileIndex(String fileIndex, int childIndex, MidNode parent) {
+		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
+		MidNode fulltree = createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, parent);
+		while (!listOfHeadNodeInNextFile.isEmpty()) {
+			Pair<Integer, MidNode> pair = listOfHeadNodeInNextFile.poll();
 			if (pair.first.equals(1)) {
 				int[] infos = findFileAndIndexInfo(pair.second.child1Index);
 				if (pair.second.positionData.dvar)
-					pair.second.child1 = createChunkOfNode(canvasActivity, selectedGroup, Integer.toString(infos[1]), 1, pair.second);
+					pair.second.child1 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 1, pair.second);
 			} else {
-//				assert pair.first.equals(2);
 				Assert.assertEquals(pair.first, Integer.valueOf(2));
 				int[] infos = findFileAndIndexInfo(pair.second.child2Index);
 				if (pair.second.positionData.dvar)
-					pair.second.child2 = createChunkOfNode(canvasActivity, selectedGroup, Integer.toString(infos[1]), 2, pair.second);
+					pair.second.child2 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 2, pair.second);
 			}	
 		}
 		return fulltree;
 	}
 	
-	private MidNodeOneChunk createOneChunk(Context canvasActivity,
-			String selectedGroup, String fileNumber, int childIndex, MidNode parentNode) {
-		//create a new chunk, return it. put following chunks in chunklist
-		//set relations between them.
-		MidNode rootNode = createChunkOfNode(canvasActivity, selectedGroup, fileNumber, childIndex, parentNode);
-		MidNodeOneChunk chunk = new MidNodeOneChunk(rootNode);
-		while (!list.isEmpty()) {
-			Pair<Integer, MidNode> pair = list.poll();
-			chunkList.add(new Node(pair.first, pair.second, chunk));
-		}
-		return chunk;
-	}
 	
-	
-	private MidNode createChunkOfNode(Context canvasActivity,
+	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
 		int resourceInteriorID = canvasActivity.getResources().getIdentifier(selectedGroup + "interior" + fileIndex, "raw", canvasActivity.getPackageName());
 		Log.d("debug", "resource: "  + selectedGroup + "interior" + fileIndex);
@@ -144,11 +77,13 @@ public class BinaryInitializer implements Initializer {
 			InteriorNode interiorNode;
 			LeafNode leafNode;
 			String[] nextline;
+			//create all interior node in interior file and put them into hash table
 			while ((nextline = readerInterior.readNext()) != null) {
 				interiorNode = createInteriorNode(nextline);
 				interiorHash.put(interiorNode.index, interiorNode);
 			}
 			
+			//create all leaf node in leaf file and put them into hash table
 			while ((nextline = readerLeaf.readNext()) != null) {
 				leafNode = createLeafNode(nextline);
 				leafHash.put(leafNode.index, leafNode);
@@ -167,40 +102,49 @@ public class BinaryInitializer implements Initializer {
 		return interNode;
 	}
 
+	public boolean isDynamic() {
+		return dynamic;
+	}
+
+	public void setDynamic(boolean dynamic) {
+		this.dynamic = dynamic;
+	}
+
 	private void precalculateThisChunk(MidNode interNode) {
 		//TODO: does not behave correctly when doing dynamically loading
 		MidNode.precalculator.preCalcWholeTree(interNode);
 
-		if (interNode.parent == null) {
-			interNode.recalculate(200, 900, 1);
-			Log.d("debug", "im up..... xp.");
-		}
-		else {
-			Log.d("debug", "im here..... xp.");
-			PositionData positionData = interNode.parent.positionData;
-			if (interNode.childIndex == 1) {
-				interNode.recalculate(
-						positionData.xvar + positionData.rvar * positionData.nextx1,
-						positionData.yvar + positionData.rvar * positionData.nexty1,
-						positionData.rvar * positionData.nextr1 / 220);
+		if (!dynamic) {
+			if (interNode.parent == null) {
+				interNode.recalculate(PositionData.xp, PositionData.yp,
+						PositionData.ws);
+				Log.d("debug", "im up..... xp.");
 			} else {
-				interNode.recalculate(
-						positionData.xvar + positionData.rvar * positionData.nextx2,
-						positionData.yvar + positionData.rvar * positionData.nexty2,
-						positionData.rvar * positionData.nextr2 / 220);
+				Log.d("debug", "im here..... xp.");
+				PositionData positionData = interNode.parent.positionData;
+				if (interNode.childIndex == 1) {
+					interNode.recalculate(positionData.xvar + positionData.rvar
+							* positionData.nextx1, positionData.yvar
+							+ positionData.rvar * positionData.nexty1,
+							positionData.rvar * positionData.nextr1 / 220);
+				} else {
+					interNode.recalculate(positionData.xvar + positionData.rvar
+							* positionData.nextx2, positionData.yvar
+							+ positionData.rvar * positionData.nexty2,
+							positionData.rvar * positionData.nextr2 / 220);
+				}
 			}
 		}
 	}
 
 	private void buildConnection(MidNode interiorNode) {
 		Assert.assertEquals(interiorNode.getClass(), InteriorNode.class);
-//		assert interiorNode.getClass() == InteriorNode.class;
 		
 		int child1Id = interiorNode.child1Index;
 		int child2Id = interiorNode.child2Index;
 
 		if (child1Id < 0) {
-			list.add(new Pair<Integer, MidNode>(1, interiorNode));
+			listOfHeadNodeInNextFile.add(new Pair<Integer, MidNode>(1, interiorNode));
 		} else if (interiorHash.containsKey(child1Id)) {
 			MidNode child1 = interiorHash.get(child1Id);
 			interiorNode.child1 = child1;
@@ -210,14 +154,13 @@ public class BinaryInitializer implements Initializer {
 		} else {
 			MidNode child1 = leafHash.get(child1Id);
 			Assert.assertNotNull(child1);
-//			assert child1 != null;
 			interiorNode.child1 = child1;
 			child1.parent = interiorNode;
 			child1.childIndex = 1;
 		}
 		
 		if (child2Id < 0) {
-			list.add(new Pair<Integer, MidNode>(2, interiorNode));
+			listOfHeadNodeInNextFile.add(new Pair<Integer, MidNode>(2, interiorNode));
 		} else if (interiorHash.containsKey(child2Id)) {
 			MidNode child2 = interiorHash.get(child2Id);
 			interiorNode.child2 = child2;
@@ -227,7 +170,6 @@ public class BinaryInitializer implements Initializer {
 		} else {
 			MidNode child2 = leafHash.get(child2Id);
 			Assert.assertNotNull(child2);
-//			assert child2 != null;
 			interiorNode.child2 = child2;
 			child2.parent = interiorNode;
 			child2.childIndex = 2;
@@ -250,15 +192,16 @@ public class BinaryInitializer implements Initializer {
 		// TODO Auto-generated method stub
 		return new InteriorNode(nextline);
 	}
-}
 
-class Node {
-	int childIndex;
-	MidNode midNode;
-	MidNodeOneChunk parentChunk;
-	public Node(int index, MidNode node, MidNodeOneChunk chunk) {
-		childIndex = index;
-		midNode = node;
-		parentChunk = chunk;
+	public MidNode createFollowingOneFile(MidNode midnode, int childIndex) {
+		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
+		int[] infos;
+		if (childIndex == 1) {
+			infos = findFileAndIndexInfo(midnode.child1Index);
+		} else {
+			infos = findFileAndIndexInfo(midnode.child2Index);
+		}
+		String fileIndex = Integer.toString(infos[1]);
+		return createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, midnode);
 	}
 }

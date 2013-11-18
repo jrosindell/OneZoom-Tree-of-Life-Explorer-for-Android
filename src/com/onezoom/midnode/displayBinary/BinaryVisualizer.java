@@ -13,9 +13,8 @@ import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
-import com.onezoom.midnode.Visualizer;
 
-public class BinaryVisualizer implements Visualizer{
+public class BinaryVisualizer{
 	Paint paint;
 	Paint textPaint;
 	Paint signTextPaint;
@@ -45,7 +44,7 @@ public class BinaryVisualizer implements Visualizer{
 		path = new Path();
 	}
 	
-	@Override
+	
 	public void drawTree(Canvas canvas, MidNode midNode) {
 		drawElement(canvas, midNode);
 		if (drawSignPost) drawSignPost(canvas, midNode);
