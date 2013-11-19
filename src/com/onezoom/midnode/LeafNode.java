@@ -22,7 +22,6 @@ public class LeafNode extends MidNode {
 		this.traitsCaculator.setPopstab(line[6]);
 		this.traitsCaculator.setColor(Integer.parseInt(line[7]));
 //		this.traitsCaculator.setColor(BinaryInitializer.getColor());
-
 	}
 	
 	public LeafNode(MidNode pNode, String data, int childIndex) {

@@ -7,6 +7,7 @@ public class BinaryTraitsCalculator{
 	public static float timelim = -1;
 	public float lengthbr;
 	public String name1, name2, cname;
+	public String[] signName;
 	public String popstab, redlist;
 	public int num_CR, num_D, num_DD, num_EN, num_EW, num_EX, num_I, num_NE, num_S, num_U, num_VU, num_NT, num_LC;
 	public int richness_val;

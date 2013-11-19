@@ -177,10 +177,11 @@ public class BinaryPositionCalculator {
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
 		} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
-			midnode.child1 = MidNode.initializer.createFollowingOneFile(midnode, 1);
-			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
-					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
-					r * midnode.positionData.nextr1, midnode.child1);
+//			midnode.child1 = MidNode.initializer.createFollowingOneFile(midnode, 1);
+//			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
+//					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
+//					r * midnode.positionData.nextr1, midnode.child1);
+			midnode.child1 = MidNode.initializer.createTreeStartFromTailNode(1, midnode);
 		} else if (!midnode.positionData.dvar && midnode.child1 != null) {
 			dropInvisibleChunk(midnode.child1, 1);
 		}
@@ -190,10 +191,11 @@ public class BinaryPositionCalculator {
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
 		} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
-			midnode.child2 = MidNode.initializer.createFollowingOneFile(midnode, 2);
-			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
-					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
-					r * midnode.positionData.nextr2, midnode.child2);
+//			midnode.child2 = MidNode.initializer.createFollowingOneFile(midnode, 2);
+//			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
+//					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
+//					r * midnode.positionData.nextr2, midnode.child2);
+			midnode.child2 = MidNode.initializer.createTreeStartFromTailNode(2, midnode);
 		} else if (!midnode.positionData.dvar && midnode.child2 != null) {
 			dropInvisibleChunk(midnode.child2, 1);
 		}
@@ -203,7 +205,7 @@ public class BinaryPositionCalculator {
 	private void dropInvisibleChunk(MidNode midNode, int depth) {
 		//only drop it when find in a depth greater than the threshold.
 		//thus if the node's dvar is very close to be true, then choose not to delete it.
-		int threshold = 1;
+		int threshold = 13;
 		if (midNode.child1 != null && (depth < threshold || midNode.child1Index > 0)) {
 			dropInvisibleChunk(midNode.child1, depth+1);
 		} else if (midNode.child1Index < 0 && midNode.child1 != null) {

@@ -125,10 +125,10 @@ public class BinaryVisualizer{
 		float centerY = y + r 
 				* (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
 		float radius = r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
-//		String[] text = midNode.traitsCaculator.getCname().split(" ");
-		String[] text = splitStringToAtMostThreeParts(midNode.traitsCaculator.getCname());
-//		drawTextOneLine(text[0],centerX, centerY, 2f * radius, canvas, signTextPaint);
-		drawTextMultipleLines(text, centerX, centerY, 2f * radius, canvas, signTextPaint);
+
+		if (midNode.traitsCaculator.signName == null)
+			midNode.traitsCaculator.signName = splitStringToAtMostThreeParts(midNode.traitsCaculator.getCname());
+		drawTextMultipleLines(midNode.traitsCaculator.signName, centerX, centerY, 2f * radius, canvas, signTextPaint);
 	}
 
 	private void drawSignPostCircle(Canvas canvas, float r, float x, float y, MidNode midNode) {

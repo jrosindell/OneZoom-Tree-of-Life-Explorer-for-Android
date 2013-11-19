@@ -38,7 +38,7 @@ public class CanvasActivity extends Activity{
 		groupIndexMap = new TreeMap<String, String>();
 		groupIndexMap.put("Mammals", "40");
 		groupIndexMap.put("Tetrapods", "185");
-		groupIndexMap.put("Bacteria", "332");
+		groupIndexMap.put("Bacteria", "3437");
 		retrieveData();
 	}
 

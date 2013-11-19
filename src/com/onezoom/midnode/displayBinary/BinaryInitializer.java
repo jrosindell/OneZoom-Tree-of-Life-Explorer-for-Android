@@ -6,10 +6,12 @@ import java.io.InputStreamReader;
 import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Locale;
+import java.util.Stack;
 
 import junit.framework.Assert;
 import android.content.Context;
 import android.graphics.Color;
+import android.util.Log;
 import android.util.Pair;
 import au.com.bytecode.opencsv.CSVReader;
 
@@ -22,9 +24,8 @@ import com.onezoom.midnode.PositionData;
 public class BinaryInitializer {
 	Hashtable<Integer, InteriorNode> interiorHash;
 	Hashtable<Integer, LeafNode> leafHash;
-	Hashtable<Integer, String[]> interiorRawStringHashtable;
-	Hashtable<Integer, String[]> leafRawStringHashtable;
 	LinkedList<Pair<Integer, MidNode>> listOfHeadNodeInNextFile;
+	public Stack<MidNode> stackOfNodeHasNonInitChildren;
 	static Context canvasActivity;
 	boolean dynamic = false;
 	private static int fileIndex;
@@ -32,9 +33,8 @@ public class BinaryInitializer {
 	public BinaryInitializer() {
 		interiorHash = new Hashtable<Integer, InteriorNode>(200);
 		leafHash = new Hashtable<Integer, LeafNode>(200);
-		interiorRawStringHashtable = new Hashtable<Integer, String[]>();
-		leafRawStringHashtable = new Hashtable<Integer, String[]>();
 		listOfHeadNodeInNextFile = new LinkedList<Pair<Integer,MidNode>>();
+		stackOfNodeHasNonInitChildren = new Stack<MidNode>();
 	}
 	
 	public static void setContext(Context context) {
@@ -44,21 +44,43 @@ public class BinaryInitializer {
 	public MidNode createMidNode(String fileIndex) {
 		return createTreeStartFromFileIndex(fileIndex, 0, null);
 	}
+	
+	public MidNode createTreeStartFromTailNode(int childIndex, MidNode midnode) {
+		int[] infos;
+		if (childIndex == 1) {
+			infos = findFileAndIndexInfo(midnode.child1Index);
+		} else {
+			infos = findFileAndIndexInfo(midnode.child2Index);
+		}
+		return createTreeStartFromFileIndex(Integer.toString(infos[1]), childIndex, midnode);
+	}
 
 	public MidNode createTreeStartFromFileIndex(String fileIndex, int childIndex, MidNode parent) {
 		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
 		MidNode fulltree = createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, parent);
 		while (!listOfHeadNodeInNextFile.isEmpty()) {
 			Pair<Integer, MidNode> pair = listOfHeadNodeInNextFile.poll();
-			if (pair.first.equals(1)) {
+			if (pair.first.equals(1)) {	
 				int[] infos = findFileAndIndexInfo(pair.second.child1Index);
 				if (pair.second.positionData.dvar)
 					pair.second.child1 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 1, pair.second);
+				else {
+					Assert.assertEquals(pair.second.child1Index < 0, true);
+					Assert.assertNull(pair.second.child1);
+					stackOfNodeHasNonInitChildren.push(pair.second);
+				}
 			} else {
 				Assert.assertEquals(pair.first, Integer.valueOf(2));
 				int[] infos = findFileAndIndexInfo(pair.second.child2Index);
+				
 				if (pair.second.positionData.dvar)
 					pair.second.child2 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 2, pair.second);
+				else {
+					Assert.assertEquals(pair.second.child2Index < 0, true);
+					Assert.assertNull(pair.second.child2);
+					Log.d("debug", "stack node for child2. child2index.: " + pair.second.child2Index);
+					stackOfNodeHasNonInitChildren.push(pair.second);
+				}
 			}	
 		}
 		return fulltree;
@@ -219,6 +241,23 @@ public class BinaryInitializer {
 			return Color.argb(255, 0, 255, 255);
 		} else {
 			return Color.argb(255, 0, 0, 255);
+		}
+	}
+
+	public void idleTimeInitialization() {
+		if (!stackOfNodeHasNonInitChildren.isEmpty()) {
+			MidNode interNode = stackOfNodeHasNonInitChildren.pop();
+			if (interNode.child1 == null) {
+				Log.d("debug", "stack child1 id: " + interNode.child1Index);
+				Assert.assertEquals(interNode.child1Index < 0, true);
+				interNode.child1 = createTreeStartFromTailNode(1, interNode);
+			} else if (interNode.child2 == null){
+				Log.d("debug", "stack child2 id: " + interNode.child2Index);
+				Assert.assertNull(interNode.child2);
+				Assert.assertEquals(interNode.child2Index < 0, true);
+				interNode.child2 = createTreeStartFromTailNode(2, interNode);
+			}
+			listOfHeadNodeInNextFile.clear();
 		}
 	}
 }

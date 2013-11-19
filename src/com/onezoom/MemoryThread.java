@@ -1,5 +1,8 @@
 package com.onezoom;
 
+import com.onezoom.midnode.MidNode;
+import com.onezoom.midnode.displayBinary.BinaryInitializer;
+
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
@@ -8,6 +11,7 @@ import android.util.Log;
 public class MemoryThread extends Thread {
 	public static final int MSG_RECALCULATE = 0;
 	public static final int MSG_INITIALIZATION = 1;
+	public static final int MSG_IDLECALCULATION = 2;
 	
 	private Handler handler;
 	private CanvasActivity clientActivity;
@@ -56,12 +60,27 @@ class MemoryHandler extends Handler {
 		switch (msg.what) {
 		case MemoryThread.MSG_INITIALIZATION:
 			clientActivity.initialization();
+			clientActivity.treeView.postInvalidate();
+			break;
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				clientActivity.treeView.setDuringRecalculation(true);
-					clientActivity.getTreeRoot().recalculateDynamic();					
+				clientActivity.getTreeRoot().recalculateDynamic();					
+				Log.d("debug", "stack size after recalculate: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
 				clientActivity.treeView.setDuringRecalculation(false);
 				clientActivity.treeView.postInvalidate();
+				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
+					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
+			}
+			break;
+		case MemoryThread.MSG_IDLECALCULATION:
+			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
+//				clientActivity.treeView.setDuringRecalculation(true);
+				MidNode.initializer.idleTimeInitialization();
+//				clientActivity.treeView.setDuringRecalculation(false);
+				Log.d("debug", "stack size after ini: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
+				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
+					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
 		}
