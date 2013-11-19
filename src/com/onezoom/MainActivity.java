@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
 		
 		final ListView listview = (ListView) findViewById(R.id.listview);
 	    String[] values = new String[] { "Mammals", "Birds", "Amphibian" , "Snakes", "Turtles",
-	    		"Cross Species", "Squamates", "Tetrapods"};
+	    		"Cross Species", "Squamates", "Tetrapods", "Bacteria"};
 	    final ArrayList<String> list = new ArrayList<String>();
 	    for (int i = 0; i < values.length; ++i) {
 	      list.add(values[i]);

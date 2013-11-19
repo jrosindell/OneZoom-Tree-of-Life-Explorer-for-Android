@@ -32,6 +32,7 @@ public abstract class MidNode{
 	public int child1Index;
 	public int child2Index;
 	public int parentIndex;
+	public int fileIndex;
 	public int index;
 	public MidNode parent = null;
 	

@@ -67,7 +67,7 @@ public class BinaryPrecalculator {
 		//TODO: leaf node needs more precalc
 	}
 	
-	private void precalcOneNode(MidNode node) {
+	public void precalcOneNode(MidNode node) {
 		if (node.getClass() == InteriorNode.class) {
 			preCalcOneInteriorNode((InteriorNode)node);
 		} else {

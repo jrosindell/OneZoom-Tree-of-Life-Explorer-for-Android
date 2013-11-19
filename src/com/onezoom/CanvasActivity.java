@@ -38,6 +38,7 @@ public class CanvasActivity extends Activity{
 		groupIndexMap = new TreeMap<String, String>();
 		groupIndexMap.put("Mammals", "40");
 		groupIndexMap.put("Tetrapods", "185");
+		groupIndexMap.put("Bacteria", "332");
 		retrieveData();
 	}
 
@@ -118,7 +119,9 @@ public class CanvasActivity extends Activity{
 			selectedString = Data.newSquamatesString;
 		} else if (selectedItem.equals("Tetrapods")) {
 			selectedString = Data.newTetrapodsString;
-		}		
+		} else if (selectedItem.equals("Bacteria")) {
+			selectedString = Data.newBacteriaString;
+		}
 	}
 	
 	@Override

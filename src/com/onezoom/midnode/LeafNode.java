@@ -1,5 +1,7 @@
 package com.onezoom.midnode;
 
+import com.onezoom.midnode.displayBinary.BinaryInitializer;
+
 import junit.framework.Assert;
 
 public class LeafNode extends MidNode {
@@ -19,6 +21,8 @@ public class LeafNode extends MidNode {
 		this.traitsCaculator.setRedlist(line[5]);
 		this.traitsCaculator.setPopstab(line[6]);
 		this.traitsCaculator.setColor(Integer.parseInt(line[7]));
+//		this.traitsCaculator.setColor(BinaryInitializer.getColor());
+
 	}
 	
 	public LeafNode(MidNode pNode, String data, int childIndex) {

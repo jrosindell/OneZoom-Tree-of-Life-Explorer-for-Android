@@ -1,5 +1,7 @@
 package com.onezoom.midnode;
 
+import com.onezoom.midnode.displayBinary.BinaryInitializer;
+
 import junit.framework.Assert;
 
 
@@ -22,6 +24,7 @@ public class InteriorNode extends MidNode {
 		this.positionData.hymax = Float.parseFloat(line[11]);
 		this.positionData.hymin = Float.parseFloat(line[12]);
 		this.traitsCaculator.setColor(Integer.parseInt(line[13]));
+//		this.traitsCaculator.setColor(BinaryInitializer.getColor());
 	}
 	
 	public InteriorNode(MidNode pNode, String data, boolean buildOneNode, int childIndex) {

@@ -181,8 +181,8 @@ public class BinaryPositionCalculator {
 			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
-		} else if (midnode.getClass() != InteriorNode.class) {
-			//TODO: drop chunk;
+		} else if (!midnode.positionData.dvar && midnode.child1 != null) {
+			dropInvisibleChunk(midnode.child1, 1);
 		}
 		
 		if (midnode.child2 != null && midnode.positionData.dvar) {
@@ -194,8 +194,55 @@ public class BinaryPositionCalculator {
 			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
-		} else if (midnode.getClass() != InteriorNode.class) {
-			//TODO: drop chunk;
+		} else if (!midnode.positionData.dvar && midnode.child2 != null) {
+			dropInvisibleChunk(midnode.child2, 1);
+		}
+	}
+
+
+	private void dropInvisibleChunk(MidNode midNode, int depth) {
+		//only drop it when find in a depth greater than the threshold.
+		//thus if the node's dvar is very close to be true, then choose not to delete it.
+		int threshold = 1;
+		if (midNode.child1 != null && (depth < threshold || midNode.child1Index > 0)) {
+			dropInvisibleChunk(midNode.child1, depth+1);
+		} else if (midNode.child1Index < 0 && midNode.child1 != null) {
+			midNode.child1 = null;
+		}
+		
+		if (midNode.child2 != null && (depth < threshold || midNode.child2Index > 0)) {
+			dropInvisibleChunk(midNode.child2, depth+1);
+		} else if (midNode.child2Index < 0 && midNode.child2 != null) {
+			midNode.child2 = null;
 		}
 	}
 }
+
+
+//private void drawreg2Dynamic2(float x, float y, float r, MidNode midnode) {
+//midnode.positionData.xvar = x;
+//midnode.positionData.yvar = y;
+//midnode.positionData.rvar = r;		
+//midnode.positionData.dvar = midnode.positionData.horizonInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
+//midnode.positionData.gvar = midnode.positionData.nodeInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
+//
+//if (midnode.child1 != null && midnode.positionData.dvar) {
+//	drawreg2Dynamic2(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
+//			y + midnode.positionData.nexty1 * midnode.positionData.rvar,
+//			r * midnode.positionData.nextr1, midnode.child1);
+//} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
+//	MidNode.initializer.createFollowingNodes(midnode, 1);
+//} else if (!midnode.positionData.dvar && midnode.child1 != null) {
+//	dropInvisibleChunk(midnode.child1, 1);
+//}
+//
+//if (midnode.child2 != null && midnode.positionData.dvar) {
+//	drawreg2Dynamic2(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
+//			y + midnode.positionData.nexty2 * midnode.positionData.rvar,
+//			r * midnode.positionData.nextr2, midnode.child2);
+//} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
+//	MidNode.initializer.createFollowingNodes(midnode, 2);
+//} else if (!midnode.positionData.dvar && midnode.child2 != null) {
+//	dropInvisibleChunk(midnode.child2, 1);
+//}
+//}
