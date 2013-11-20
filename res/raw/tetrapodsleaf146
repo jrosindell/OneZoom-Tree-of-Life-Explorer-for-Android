@@ -1,102 +1,92 @@
 index,parent,name1,name2,common,redlist,popstab,color
-6,5,"nikolausi","Megadendromus","Nikolaus's Mouse",DD,U,-11513776
-7,5,"batesi","Prionomys","Dollman's Tree Mouse",DD,U,-11513776
-17,16,"peruviensis","Neusticomys","Peruvian Fish-eating Rat",LC,S,-16731116
-18,16,"oyapocki","Neusticomys","Oyapock's Fish-eating Rat",DD,D,-11513776
-19,15,"mussoi","Neusticomys","Musso's Fish-eating Rat",EN,D,-8572416
-21,20,"venezuelae","Neusticomys","Venezuelan Fish-eating Rat",VU,D,-11184866
-22,20,"monticolus","Neusticomys","Montane Fish-eating Rat",LC,D,-16731116
-26,25,"underwoodi","Rheomys","Underwood's Water Mouse",LC,S,-16731116
-27,25,"thomasi","Rheomys","Thomas's Water Mouse",NT,U,-12486656
-28,24,"mexicanus","Rheomys","Mexican Water Mouse",EN,U,-8572416
-29,23,"raptor","Rheomys","Goldman's Water Mouse",LC,S,-16731116
-35,34,"pittieri","Ichthyomys","Pittier's Crab-eating Rat",VU,D,-11184866
-36,34,"hydrobates","Ichthyomys","Crab-eating Rat",NT,D,-12486656
-37,33,"tweedii","Ichthyomys","Tweedy's Crab-eating Rat",DD,U,-11513776
-38,32,"stolzmanni","Ichthyomys","Stolzmann's Crab-eating Rat",DD,U,-11513776
-39,31,"leander","Anotomys","Aquatic Rat",VU,D,-11184866
-40,30,"trichotis","Chibchanomys","Chibchan Water Mouse",DD,U,-11513776
-48,47,"hirsutus","Sigmodon","Southern Cotton Rat",LC,I,-16731116
-49,47,"hispidus","Sigmodon","Hispid Cotton Rat",LC,I,-16731116
-51,50,"toltecus","Sigmodon","Toltec Cotton Rat",LC,U,-16731116
-52,50,"zanjonensis","Sigmodon","",NE,U,-16777216
-53,45,"fulviventer","Sigmodon","Tawny-bellied Cotton Rat",LC,S,-16731116
-54,44,"arizonae","Sigmodon","Arizona Cotton Rat",LC,U,-16731116
-57,56,"ochrognathus","Sigmodon","Yellow-nosed Cotton Rat",LC,U,-16731116
-58,56,"alstoni","Sigmodon","Alston's Cotton Rat",LC,U,-16731116
-59,55,"inopinatus","Sigmodon","Unexpected Cotton Rat",VU,D,-11184866
-62,61,"mascotensis","Sigmodon","Jaliscan Cotton Rat",LC,S,-16731116
-63,61,"peruanus","Sigmodon","Peruvian Cotton Rat",LC,S,-16731116
-65,64,"planifrons","Sigmodon","Miahuatlan Cotton Rat",EN,D,-8572416
-66,64,"alleni","Sigmodon","Allen's Cotton Rat",VU,D,-11184866
-67,41,"leucotis","Sigmodon","White-eared Cotton Rat",LC,U,-16731116
-74,73,"fulviventer","Tylomys","Fulvous-bellied Climbing Rat",DD,U,-11513776
-75,73,"tumbalensis","Tylomys","Tumbala Climbing Rat",CR,D,-3014646
-76,72,"watsoni","Tylomys","Watson's Climbing Rat",LC,S,-16731116
-78,77,"bullaris","Tylomys","Chiapan Climbing Rat",CR,D,-3014646
-79,77,"mirae","Tylomys","Mira Climbing Rat",LC,U,-16731116
-81,80,"nudicaudus","Tylomys","Peter's Climbing Rat",LC,S,-16731116
-82,80,"panamensis","Tylomys","Panama Climbing Rat",DD,U,-11513776
-83,69,"phyllotis","Ototylomys","Big-eared Climbing Rat",LC,S,-16731116
-85,84,"hatti","Otonyctomys","Hatt's Vesper Mouse",LC,U,-16731116
-86,84,"sumichrasti","Nyctomys","Vesper Rat",LC,S,-16731116
-99,98,"betulina","Sicista","Northern Birch Mouse",LC,U,-16731116
-100,98,"armenica","Sicista","Armenian Birch Mouse",EN,D,-8572416
-101,97,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U,-16731116
-103,102,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U,-12486656
-104,102,"napaea","Sicista","Altai Birch Mouse",LC,U,-16731116
-106,105,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U,-11513776
-107,105,"concolor","Sicista","Chinese Birch Mouse",LC,U,-16731116
-111,110,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S,-16731116
-112,110,"subtilis","Sicista","Southern Birch Mouse",LC,D,-16731116
-113,109,"caudata","Sicista","Long-tailed Birch Mouse",DD,U,-11513776
-116,115,"strandi","Sicista","Strand's Birch Mouse",LC,S,-16731116
-117,115,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U,-8572416
-118,114,"caucasica","Sicista","Caucasian Birch Mouse",VU,U,-11184866
-122,121,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U,-16731116
-123,121,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S,-16731116
-124,120,"princeps","Zapus","Pacific Jumping Mouse",LC,S,-16731116
-126,125,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S,-16731116
-127,125,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U,-16731116
-134,133,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U,-11513776
-135,133,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U,-11513776
-136,132,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U,-11513776
-137,131,"thomasi","Salpingotus","",NE,U,-16777216
-139,138,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U,-11513776
-140,138,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U,-16731116
-141,129,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U,-11513776
-142,128,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U,-16731116
-143,91,"naso","Euchoreutes","Long-eared Jerboa",LC,U,-16731116
-148,147,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D,-16731116
-149,147,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D,-16731116
-150,146,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U,-16731116
-151,145,"sagitta","Dipus","Hairy-footed Jerboa",LC,S,-16731116
-155,154,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S,-16731116
-156,154,"blanfordi","Jaculus","Blanford's Jerboa",LC,D,-16731116
-157,153,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U,-16731116
-158,152,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U,-16731116
-161,160,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U,-16731116
-162,160,"shitkovi","Pygeretmus","",NE,U,-16777216
-163,159,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U,-16731116
-164,88,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U,-16731116
-171,170,"hotsoni","Allactaga","Hotson's Five-toed Jerboa",LC,U,-16731116
-172,170,"balikunica","Allactaga","Balikun Jerboa",LC,U,-16731116
-173,169,"elater","Allactaga","Small Five-toed Jerboa",LC,D,-16731116
-174,168,"vinogradovi","Allactaga","Vinogradov's Jerboa",NT,D,-12486656
-177,176,"severtzovi","Allactaga","Svertzov's Jerboa",LC,U,-16731116
-178,176,"firouzi","Allactaga","Iranian Jerboa",DD,U,-11513776
-179,175,"bullata","Allactaga","Gobi Jerboa",LC,U,-16731116
-182,181,"euphratica","Allactaga","Euphrates Jerboa",NT,D,-12486656
-183,181,"williamsi","Allactaga","",LC,D,-16731116
-184,180,"sibirica","Allactaga","Siberian Jerboa",LC,U,-16731116
-186,185,"tetradactyla","Allactaga","Four-toed Jerboa",VU,U,-11184866
-187,185,"major","Allactaga","Great Jerboa",LC,D,-16731116
-192,191,"pusillus","Anomalurus","Dwarf Scaly-tailed Squirrel",LC,U,-16731116
-193,191,"derbianus","Anomalurus","Derby's Flying Squirrel",LC,U,-16731116
-195,194,"beecrofti","Anomalurus","Beecroft's Flying Squirrel",LC,U,-16731116
-196,194,"pelii","Anomalurus","Pel's Flying Squirrel",DD,U,-11513776
-199,198,"zenkeri","Idiurus","Pygmy Scaly-tailed Flying Squirrel",LC,U,-16731116
-200,198,"macrotis","Idiurus","Long-eared Flying Squirrel",LC,U,-16731116
-201,197,"insignis","Zenkerella","Cameroon Scaly-tail",LC,U,-16731116
-203,202,"surdaster","Pedetes","East African Spring-hare",LC,U,-16731116
-204,202,"capensis","Pedetes","Springhaas",LC,U,-16731116
+5,4,"chlorophaeus","Phaenicophaeus","Raffles's Malkoha",LC,U,-16731116
+13,12,"coquereli","Coua","Coquerel's Coua",LC,U,-16731116
+14,12,"cursor","Coua","Running Coua",LC,U,-16731116
+15,11,"reynaudii","Coua","Red-fronted Coua",LC,U,-16731116
+17,16,"serriana","Coua","Red-breasted Coua",LC,U,-16731116
+18,16,"gigas","Coua","Giant Coua",LC,U,-16731116
+19,9,"ruficeps","Coua","Red-capped Coua",LC,U,-16731116
+22,21,"verreauxi","Coua","Verreaux's Coua",NT,U,-12486656
+23,21,"cristata","Coua","Crested Coua",LC,U,-16731116
+24,20,"caerulea","Coua","Blue Coua",LC,U,-16731116
+27,26,"viridis","Carpococcyx","Sumatran Ground-cuckoo",CR,U,-3014646
+28,26,"radiatus","Carpococcyx","Bornean Ground-cuckoo",NT,U,-12486656
+29,25,"renauldi","Carpococcyx","Coral-billed Ground-cuckoo",LC,U,-16731116
+37,36,"pucheranii","Neomorphus","Red-billed Ground-cuckoo",LC,U,-16731116
+38,36,"squamiger","Neomorphus","Scaled Ground-cuckoo",NT,U,-12486656
+39,35,"rufipennis","Neomorphus","Rufous-winged Ground-cuckoo",LC,U,-16731116
+41,40,"geoffroyi","Neomorphus","Rufous-vented Ground-cuckoo",LC,U,-16731116
+42,40,"radiolosus","Neomorphus","Banded Ground-cuckoo",EN,U,-8572416
+44,43,"californianus","Geococcyx","Greater Roadrunner",LC,U,-16731116
+45,43,"velox","Geococcyx","Lesser Roadrunner",LC,U,-16731116
+46,32,"erythropygus","Morococcyx","Lesser Ground-cuckoo",LC,U,-16731116
+49,48,"phasianellus","Dromococcyx","Pheasant Cuckoo",LC,U,-16731116
+50,48,"pavoninus","Dromococcyx","Pavonine Cuckoo",LC,U,-16731116
+51,47,"naevia","Tapera","Striped Cuckoo",LC,U,-16731116
+55,54,"sulcirostris","Crotophaga","Groove-billed Ani",LC,U,-16731116
+56,54,"ani","Crotophaga","Smooth-billed Ani",LC,U,-16731116
+57,53,"major","Crotophaga","Greater Ani",LC,U,-16731116
+58,52,"guira","Guira","Guira Cuckoo",LC,U,-16731116
+61,60,"bengalensis","Houbaropsis","Bengal Florican",CR,U,-3014646
+62,60,"indicus","Sypheotides","Lesser Florican",EN,U,-8572416
+71,70,"saracura","Aramides","Slaty-breasted Wood-rail",LC,U,-16731116
+72,70,"axillaris","Aramides","Rufous-necked Wood-rail",LC,U,-16731116
+74,73,"cajanea","Aramides","Grey-necked Wood-rail",LC,U,-16731116
+75,73,"ypecaha","Aramides","Giant Wood-rail",LC,U,-16731116
+78,77,"mangle","Aramides","Little Wood-rail",LC,U,-16731116
+79,77,"wolfi","Aramides","Brown Wood-rail",VU,U,-11184866
+80,76,"calopterus","Aramides","Red-winged Wood-rail",LC,U,-16731116
+83,82,"nigricans","Pardirallus","Blackish Rail",LC,U,-16731116
+84,82,"maculatus","Pardirallus","Spotted Rail",LC,U,-16731116
+85,81,"sanguinolentus","Pardirallus","Plumbeous Rail",LC,U,-16731116
+90,89,"porphyrio","Porphyrio","Purple Swamphen",LC,U,-16731116
+91,89,"hochstetteri","Porphyrio","Takahe",EN,U,-8572416
+92,88,"alleni","Porphyrio","Allen's Gallinule",LC,U,-16731116
+94,93,"martinica","Porphyrio","Yellow-legged Gallinule",LC,U,-16731116
+95,93,"flavirostris","Porphyrio","Azure Gallinule",LC,U,-16731116
+103,102,"concolor","Amaurolimnas","Uniform Crake",LC,U,-16731116
+104,102,"egregia","Crecopsis","African Crake",LC,U,-16731116
+105,101,"woodfordi","Nesoclopeus","Woodford's Rail",NT,U,-12486656
+107,106,"marginalis","Aenigmatolimnas","Striped Crake",LC,U,-16731116
+108,106,"senegalensis","Podica","African Finfoot",LC,U,-16731116
+109,99,"rougetii","Rougetius","Rouget's Rail",NT,U,-12486656
+111,110,"cuvieri","Dryolimnas","White-throated Rail",LC,U,-16731116
+112,110,"plateni","Aramidopsis","Snoring Rail",VU,U,-11184866
+117,116,"erythrops","Neocrex","Paint-billed Crake",LC,U,-16731116
+118,116,"colombiana","Neocrex","Colombian Crake",DD,U,-11513776
+119,115,"personatus","Heliopais","Masked Finfoot",EN,U,-8572416
+120,114,"schomburgkii","Micropygia","Ocellated Crake",LC,U,-16731116
+124,123,"muelleri","Lewinia","Auckland Islands Rail",VU,U,-11184866
+125,123,"pectoralis","Lewinia","Lewin's Rail",LC,U,-16731116
+126,122,"mirifica","Lewinia","Brown-banded Rail",DD,U,-11513776
+127,121,"fulica","Heliornis","Sungrebe",LC,U,-16731116
+133,132,"elegans","Sarothrura","Buff-spotted Flufftail",LC,U,-16731116
+134,132,"ayresi","Sarothrura","White-winged Flufftail",EN,U,-8572416
+136,135,"lugens","Sarothrura","Chestnut-headed Flufftail",LC,U,-16731116
+137,135,"rufa","Sarothrura","Red-chested Flufftail",LC,U,-16731116
+139,138,"watersi","Sarothrura","Slender-billed Flufftail",EN,U,-8572416
+140,138,"affinis","Sarothrura","Striped Flufftail",LC,U,-16731116
+143,142,"pulchra","Sarothrura","White-spotted Flufftail",LC,U,-16731116
+144,142,"insularis","Sarothrura","Madagascar Flufftail",LC,U,-16731116
+145,141,"boehmi","Sarothrura","Streaky-breasted Flufftail",LC,U,-16731116
+147,146,"wallacii","Habroptila","Invisible Rail",VU,U,-11184866
+148,146,"cinerea","Gallicrex","Watercock",LC,U,-16731116
+158,157,"antigone","Grus","Sarus Crane",VU,U,-11184866
+159,157,"rubicunda","Grus","Brolga",LC,U,-16731116
+160,156,"vipio","Grus","White-naped Crane",VU,U,-11184866
+161,155,"canadensis","Grus","Sandhill Crane",LC,U,-16731116
+164,163,"virgo","Grus","Demoiselle Crane",LC,U,-16731116
+165,163,"paradisea","Grus","Blue Crane",VU,U,-11184866
+166,162,"carunculatus","Grus","Wattled Crane",VU,U,-11184866
+171,170,"nigricollis","Grus","Black-necked Crane",VU,U,-11184866
+172,170,"monacha","Grus","Hooded Crane",VU,U,-11184866
+173,169,"grus","Grus","Common Crane",LC,U,-16731116
+174,168,"americana","Grus","Whooping Crane",EN,U,-8572416
+175,167,"japonensis","Grus","Red-crowned Crane",EN,U,-8572416
+176,152,"leucogeranus","Grus","Siberian Crane",CR,U,-3014646
+178,177,"regulorum","Balearica","Grey Crowned-crane",EN,U,-8572416
+179,177,"pavonina","Balearica","Black Crowned-crane",VU,U,-11184866
+180,150,"guarauna","Aramus","Limpkin",LC,U,-16731116
+183,182,"leucoptera","Psophia","Pale-winged Trumpeter",LC,U,-16731116
+184,182,"viridis","Psophia","Dark-winged Trumpeter",LC,U,-16731116
+185,181,"crepitans","Psophia","Grey-winged Trumpeter",LC,U,-16731116

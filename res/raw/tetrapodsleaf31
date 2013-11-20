@@ -1,115 +1,66 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"fanovanae","Newtonia","Red-tailed Newtonia",VU,U,-11184866
-13,11,"amphichroa","Newtonia","Dark Newtonia",LC,U,-16731116
-14,10,"archboldi","Newtonia","Archbold's Newtonia",LC,U,-16731116
-15,9,"brunneicauda","Newtonia","Common Newtonia",LC,U,-16731116
-18,17,"polleni","Xenopirostris","Pollen's Vanga",NT,U,-12486656
-19,17,"damii","Xenopirostris","Van Dam's Vanga",EN,U,-8572416
-20,16,"xenopirostris","Xenopirostris","Lafresnaye's Vanga",LC,U,-16731116
-21,7,"madagascarinus","Cyanolanius","Blue Vanga",LC,U,-16731116
-24,23,"madagascariensis","Calicalicus","Red-tailed Vanga",LC,U,-16731116
-25,23,"rufocarpalis","Calicalicus","Red-shouldered Vanga",VU,U,-11184866
-26,22,"curvirostris","Vanga","Hook-billed Vanga",LC,U,-16731116
-30,29,"crossleyi","Mystacornis","Crossley's Babbler",LC,U,-16731116
-31,29,"chabert","Leptopterus","Chabert's Vanga",LC,U,-16731116
-33,32,"prevostii","Euryceros","Helmet Vanga",VU,U,-11184866
-34,32,"rufa","Schetba","Rufous Vanga",LC,U,-16731116
-35,27,"wardi","Pseudobias","Ward's Flycatcher",LC,U,-16731116
-39,38,"palliata","Falculea","Sickle-billed Vanga",LC,U,-16731116
-40,38,"viridis","Artamella","White-headed Vanga",LC,U,-16731116
-41,37,"bernieri","Oriolia","Bernier's Vanga",VU,U,-11184866
-44,43,"corallirostris","Hypositta","Nuthatch Vanga",LC,U,-16731116
-45,43,"perdita","Hypositta","Bluntschli's Vanga",DD,U,-11513776
-46,42,"eduardi","Tylas","Tylas Vanga",LC,U,-16731116
-48,47,"pyrhoptera","Philentoma","Rufous-winged Philentoma",LC,U,-16731116
-49,47,"velata","Philentoma","Maroon-breasted Philentoma",NT,U,-12486656
-57,56,"caniceps","Prionops","Chestnut-bellied Helmet-shrike",LC,U,-16731116
-58,56,"plumatus","Prionops","White Helmet-shrike",LC,U,-16731116
-59,55,"scopifrons","Prionops","Chestnut-fronted Helmet-shrike",LC,U,-16731116
-60,54,"retzii","Prionops","Retz's Helmet-shrike",LC,U,-16731116
-61,53,"gabela","Prionops","Gabela Helmet-shrike",EN,U,-8572416
-64,63,"rufiventris","Prionops","Rufous-bellied Helmetshrike",_U,[,-16777216
-65,63,"alberti","Prionops","Yellow-crested Helmet-shrike",VU,U,-11184866
-66,62,"poliolophus","Prionops","Grey-crested Helmet-shrike",NT,U,-12486656
-70,69,"pondicerianus","Tephrodornis","Common Woodshrike",LC,U,-16731116
-71,69,"gularis","Tephrodornis","Large Woodshrike",LC,U,-16731116
-72,68,"hirundinaceus","Hemipus","Black-winged Flycatcher-shrike",LC,U,-16731116
-73,67,"picatus","Hemipus","Bar-winged Flycatcher-shrike",LC,U,-16731116
-75,74,"flammulatus","Megabyas","African Shrike-flycatcher",LC,U,-16731116
-76,74,"musicus","Bias","Black-and-white Shrike-flycatcher",LC,U,-16731116
-84,83,"mixta","Batis","Short-tailed Batis",LC,U,-16731116
-85,83,"minima","Batis","Gabon Batis",NT,U,-12486656
-86,82,"diops","Batis","Ruwenzori Batis",LC,U,-16731116
-88,87,"occulta","Batis","West African Batis",LC,U,-16731116
-89,87,"fratrum","Batis","Zululand Batis",LC,U,-16731116
-94,93,"orientalis","Batis","Grey-headed Batis",LC,U,-16731116
-95,93,"capensis","Batis","Cape Batis",LC,U,-16731116
-96,92,"perkeo","Batis","Pygmy Batis",LC,U,-16731116
-97,91,"crypta","Batis","Dark Batis",LC,U,-16731116
-98,90,"ituriensis","Batis","Ituri Batis",LC,U,-16731116
-103,102,"pririt","Batis","Pririt Batis",LC,U,-16731116
-104,102,"soror","Batis","Pale Batis",LC,U,-16731116
-105,101,"minulla","Batis","Angola Batis",LC,U,-16731116
-107,106,"senegalensis","Batis","Senegal Batis",LC,U,-16731116
-108,106,"molitor","Batis","Chinspot Batis",LC,U,-16731116
-111,110,"margaritae","Batis","Boulton's Batis",LC,U,-16731116
-112,110,"minor","Batis","Black-headed Batis",LC,U,-16731116
-113,109,"poensis","Batis","Fernando Po Batis",LC,U,-16731116
-118,117,"albifrons","Platysteira","White-fronted Wattle-eye",NT,U,-12486656
-119,117,"cyanea","Platysteira","Brown-throated Wattle-eye",LC,U,-16731116
-121,120,"peltata","Platysteira","Black-throated Wattle-eye",LC,U,-16731116
-122,120,"laticincta","Platysteira","Banded Wattle-eye",EN,U,-8572416
-126,125,"chalybea","Platysteira","Black-necked Wattle-eye",LC,U,-16731116
-127,125,"jamesoni","Platysteira","Jameson's Wattle-eye",LC,U,-16731116
-128,124,"blissetti","Platysteira","Red-cheeked Wattle-eye",LC,U,-16731116
-129,123,"concreta","Platysteira","Yellow-bellied Wattle-eye",LC,U,-16731116
-131,130,"tonsa","Platysteira","White-spotted Wattle-eye",LC,U,-16731116
-132,130,"castanea","Platysteira","Chestnut Wattle-eye",LC,U,-16731116
-133,77,"torquatus","Lanioturdus","Chatshrike",LC,U,-16731116
-146,145,"erythrogaster","Laniarius","Black-headed Gonolek",LC,U,-16731116
-147,145,"barbarus","Laniarius","Common Gonolek",LC,U,-16731116
-148,144,"mufumbiri","Laniarius","Papyrus Gonolek",NT,U,-12486656
-149,143,"atroflavus","Laniarius","Yellow-breasted Boubou",LC,U,-16731116
-150,142,"amboimensis","Laniarius","Gabela Bush-shrike",EN,U,-8572416
-152,151,"luehderi","Laniarius","Luehder's Bush-shrike",LC,U,-16731116
-153,151,"ruficeps","Laniarius","Red-naped Bush-shrike",LC,U,-16731116
-159,158,"aethiopicus","Laniarius","Ethiopian Boubou",LC,U,-16731116
-160,158,"ferrugineus","Laniarius","Southern Boubou",LC,U,-16731116
-161,157,"turatii","Laniarius","Turati's Boubou",LC,U,-16731116
-162,156,"bicolor","Laniarius","Gabon Boubou",LC,U,-16731116
-163,155,"funebris","Laniarius","Slate-coloured Boubou",LC,U,-16731116
-164,154,"brauni","Laniarius","Orange-breasted Bush-shrike",EN,U,-8572416
-166,165,"fuelleborni","Laniarius","Fuelleborn's Boubou",LC,U,-16731116
-167,165,"poensis","Laniarius","Mountain Boubou",LC,U,-16731116
-169,168,"atrococcineus","Laniarius","Crimson-breasted Gonolek",LC,U,-16731116
-170,168,"leucorhynchus","Laniarius","Sooty Boubou",LC,U,-16731116
-175,174,"sulfureopectus","Telophorus","Sulphur-breasted Bush-shrike",LC,U,-16731116
-176,174,"bocagei","Telophorus","Grey-green Bush-shrike",LC,U,-16731116
-177,173,"multicolor","Telophorus","Many-coloured Bush-shrike",LC,U,-16731116
-180,179,"nigrifrons","Telophorus","Black-fronted Bush-shrike",LC,U,-16731116
-181,179,"kupeensis","Telophorus","Mount Kupe Bush-shrike",EN,U,-8572416
-182,178,"olivaceus","Telophorus","Olive Bush-shrike",LC,U,-16731116
-186,185,"quadricolor","Telophorus","Four-coloured Bush-shrike",LC,U,-16731116
-187,185,"zeylonus","Telophorus","Bokmakierie Bush-shrike",LC,U,-16731116
-188,184,"dohertyi","Telophorus","Doherty's Bush-shrike",LC,U,-16731116
-190,189,"cruentus","Rhodophoneus","Rosy-patched Bush-shrike",LC,U,-16731116
-191,189,"viridis","Telophorus","Perrin's Bush-shrike",LC,U,-16731116
-192,136,"afer","Nilaus","Brubru",LC,U,-16731116
-199,198,"sabini","Dryoscopus","Large-billed Puffback",LC,U,-16731116
-200,198,"pringlii","Dryoscopus","Pringle's Puffback",LC,U,-16731116
-201,197,"angolensis","Dryoscopus","Pink-footed Puffback",LC,U,-16731116
-203,202,"gambensis","Dryoscopus","Northern Puffback",LC,U,-16731116
-204,202,"cubla","Dryoscopus","Black-backed Puffback",LC,U,-16731116
-205,195,"senegalensis","Dryoscopus","Red-eyed Puffback",LC,U,-16731116
-209,208,"australis","Tchagra","Brown-crowned Tchagra",LC,U,-16731116
-210,208,"jamesi","Tchagra","Three-streaked Tchagra",LC,U,-16731116
-211,207,"senegalus","Tchagra","Black-crowned Tchagra",LC,U,-16731116
-213,212,"tchagra","Tchagra","Southern Tchagra",LC,U,-16731116
-214,212,"minutus","Tchagra","Marsh Tchagra",LC,U,-16731116
-219,218,"cruentus","Malaconotus","Fiery-breasted Bush-shrike",LC,U,-16731116
-220,218,"lagdeni","Malaconotus","Lagden's Bush-shrike",NT,U,-12486656
-221,217,"blanchoti","Malaconotus","Grey-headed Bush-shrike",LC,U,-16731116
-223,222,"gladiator","Malaconotus","Green-breasted Bush-shrike",VU,U,-11184866
-224,222,"monteiri","Malaconotus","Monteiro's Bush-shrike",DD,U,-11513776
-225,215,"alius","Malaconotus","Uluguru Bush-shrike",CR,U,-3014646
-226,134,"gymnocephala","Pityriasis","Bornean Bristlehead",NT,U,-12486656
+13,12,"ruficauda","Muscicapa","Rusty-tailed Flycatcher",LC,U,-16731116
+14,12,"aquatica","Muscicapa","Swamp Flycatcher",LC,U,-16731116
+16,15,"cassini","Muscicapa","Cassin's Grey Flycatcher",LC,U,-16731116
+17,15,"boehmi","Muscicapa","Boehm's Flycatcher",LC,U,-16731116
+18,10,"gambagae","Muscicapa","Gambaga Flycatcher",LC,U,-16731116
+19,9,"striata","Muscicapa","Spotted Flycatcher",LC,U,-16731116
+20,8,"adusta","Muscicapa","African Dusky Flycatcher",LC,U,-16731116
+22,21,"sethsmithi","Muscicapa","Yellow-footed Flycatcher",LC,U,-16731116
+23,21,"tessmanni","Muscicapa","Tessmann's Flycatcher",DD,U,-11513776
+28,27,"griseisticta","Muscicapa","Grey-streaked Flycatcher",LC,U,-16731116
+29,27,"lendu","Muscicapa","Chapin's Flycatcher",VU,U,-11184866
+30,26,"ussheri","Muscicapa","Ussher's Flycatcher",LC,U,-16731116
+32,31,"muttui","Muscicapa","Brown-breasted Flycatcher",LC,U,-16731116
+33,31,"epulata","Muscicapa","Little Grey Flycatcher",LC,U,-16731116
+35,34,"ferruginea","Muscicapa","Ferruginous Flycatcher",LC,U,-16731116
+36,34,"sibirica","Muscicapa","Dark-sided Flycatcher",LC,U,-16731116
+38,37,"segregata","Muscicapa","Sumba Brown Flycatcher",NT,U,-12486656
+39,37,"infuscata","Muscicapa","Sooty Flycatcher",LC,U,-16731116
+43,42,"olivascens","Muscicapa","Olivaceous Flycatcher",LC,U,-16731116
+44,42,"comitata","Muscicapa","Dusky-blue Flycatcher",LC,U,-16731116
+45,41,"dauurica","Muscicapa","Asian Brown Flycatcher",LC,U,-16731116
+47,46,"randi","Muscicapa","Ashy-breasted Flycatcher",VU,U,-11184866
+48,46,"caerulescens","Muscicapa","Ashy Flycatcher",LC,U,-16731116
+55,54,"pammelaina","Melaenornis","Southern Black Flycatcher",LC,U,-16731116
+56,54,"edolioides","Melaenornis","Northern Black Flycatcher",LC,U,-16731116
+57,53,"annamarulae","Melaenornis","Nimba Flycatcher",VU,U,-11184866
+58,52,"ardesiacus","Melaenornis","Yellow-eyed Black Flycatcher",LC,U,-16731116
+61,60,"silens","Sigelus","Fiscal Flycatcher",LC,U,-16731116
+62,60,"herero","Namibornis","Herero Chat",LC,U,-16731116
+63,59,"semipartitus","Empidornis","Silverbird",LC,U,-16731116
+66,65,"cinerascens","Fraseria","White-browed Forest Flycatcher",LC,U,-16731116
+67,65,"ocreata","Fraseria","African Forest Flycatcher",LC,U,-16731116
+69,68,"griseigularis","Myioparus","Grey-throated Tit-flycatcher",LC,U,-16731116
+70,68,"plumbeus","Myioparus","Grey Tit-flycatcher",LC,U,-16731116
+73,72,"microrhynchus","Bradornis","African Grey Flycatcher",LC,U,-16731116
+74,72,"mariquensis","Bradornis","Marico Flycatcher",LC,U,-16731116
+76,75,"infuscatus","Bradornis","Chat Flycatcher",LC,U,-16731116
+77,75,"pallidus","Bradornis","Pale Flycatcher",LC,U,-16731116
+78,2,"goodfellowi","Rhinomyias","Slaty-backed Jungle-flycatcher",NT,U,-12486656
+87,86,"stricklandii","Copsychus","White-crowned Shama",_U,[,-16777216
+88,86,"malabaricus","Copsychus","White-rumped Shama",LC,U,-16731116
+89,85,"niger","Copsychus","White-vented Shama",LC,U,-16731116
+90,84,"cebuensis","Copsychus","Black Shama",EN,U,-8572416
+91,83,"luzoniensis","Copsychus","White-browed Shama",LC,U,-16731116
+92,82,"pyrropygus","Trichixos","Rufous-tailed Shama",NT,U,-12486656
+97,96,"saularis","Copsychus","Oriental Magpie-robin",LC,U,-16731116
+98,96,"hainanus","Cyornis","Hainan Blue-flycatcher",LC,U,-16731116
+99,95,"sechellarum","Copsychus","Seychelles Magpie-robin",EN,U,-8572416
+100,94,"albospecularis","Copsychus","Madagascar Magpie-robin",LC,U,-16731116
+101,93,"fulicatus","Saxicoloides","Indian Robin",LC,U,-16731116
+105,104,"chocolatinus","Dioptrornis","Abyssinian Slaty Flycatcher",LC,U,-16731116
+106,104,"fischeri","Dioptrornis","White-eyed Slaty Flycatcher",LC,U,-16731116
+107,103,"brunneus","Dioptrornis","Angola Slaty Flycatcher",LC,U,-16731116
+108,102,"omissus","Cyornis","Sulawesi Blue-flycatcher",LC,U,-16731116
+113,112,"hartlaubi","Erythropygia","Brown-backed Scrub-robin",LC,U,-16731116
+114,112,"leucophrys","Erythropygia","Red-backed Scrub-robin",LC,U,-16731116
+116,115,"galactotes","Erythropygia","Rufous-tailed Scrub-robin",LC,U,-16731116
+117,115,"podobe","Cercotrichas","Black Scrub-robin",LC,U,-16731116
+118,110,"paena","Erythropygia","Kalahari Scrub-robin",LC,U,-16731116
+122,121,"quadrivirgata","Erythropygia","Bearded Scrub-robin",LC,U,-16731116
+123,121,"barbata","Erythropygia","Miombo Scrub-robin",LC,U,-16731116
+124,120,"leucosticta","Erythropygia","Forest Scrub-robin",LC,U,-16731116
+126,125,"coryphaeus","Erythropygia","Karoo Scrub-robin",LC,U,-16731116
+127,125,"signata","Erythropygia","Brown Scrub-robin",LC,U,-16731116
+128,0,"nigrorufa","Ficedula","Black-and-rufous Flycatcher",NT,U,-12486656

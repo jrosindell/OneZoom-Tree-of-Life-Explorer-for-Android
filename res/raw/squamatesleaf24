@@ -1,0 +1,25 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"compressicorpus","Pseudogekko","Cylindrical-bodied Smooth-scaled Gecko",LC,D,-16731116
+9,7,"smaragdinus","Pseudogekko","Green Smooth-scaled Gecko",LC,U,-16731116
+10,6,"brevipes","Pseudogekko","Orange-spotted Smooth-scaled Gecko",VU,D,-11184866
+11,5,"boulengerii","Cnemaspis","",NE,U,-16777216
+13,12,"marmoratus","Christinus","",NE,U,-16777216
+14,12,"guentheri","Christinus","",VU,U,-11184866
+19,18,"aureolineatus","Lepidodactylus","Yellow-lined Smooth-scaled Gecko",LC,S,-16731116
+20,18,"christiani","Lepidodactylus","Christian Scaly-toed Gecko",LC,S,-16731116
+21,17,"lugubris","Lepidodactylus","",NE,U,-16777216
+22,16,"pelagicus","Nactus","",NE,U,-16777216
+23,15,"binoei","Heteronotia","",NE,U,-16777216
+27,26,"przewalskii","Teratoscincus","",NE,U,-16777216
+28,26,"scincus","Teratoscincus","",NE,U,-16777216
+29,25,"microlepis","Teratoscincus","",NE,U,-16777216
+30,24,"hasselquisti","Ptyodactylus","",NE,U,-16777216
+34,33,"xanti","Phyllodactylus","Leaf-toed Gecko",LC,S,-16731116
+35,33,"gerrhopygus","Phyllodactylus","",NE,U,-16777216
+36,32,"riebeckii","Phyllodactylus","",NE,U,-16777216
+39,38,"tuberculosus","Phyllodactylus","",NE,U,-16777216
+40,38,"dixoni","Phyllodactylus","",NE,U,-16777216
+41,37,"microphyllus","Phyllodactylus","",NE,U,-16777216
+44,43,"mindorensis","Gekko","Mindoro Narrow-disked Gecko",LC,S,-16731116
+45,43,"vittatus","Gekko","",NE,U,-16777216
+46,42,"monarchus","Gekko","",NE,U,-16777216

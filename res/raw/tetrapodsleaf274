@@ -1,0 +1,104 @@
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"crenulata","Dobsonia","Halmahera Naked-backed Fruit Bat",LC,S,-16731116
+16,14,"viridis","Dobsonia","Greenish Naked-backed Fruit Bat",LC,S,-16731116
+17,13,"praedatrix","Dobsonia","Bismarck Bare-backed Fruit Bat",LC,U,-16731116
+18,12,"beauforti","Dobsonia","Beaufort's Bare-backed Fruit Bat",LC,U,-16731116
+19,11,"inermis","Dobsonia","Solomons Bare-backed Fruit Bat",LC,S,-16731116
+20,10,"exoleta","Dobsonia","Sulawesi Naked-backed Fruit Bat",LC,U,-16731116
+22,21,"peronii","Dobsonia","Western Naked-backed Fruit Bat",LC,S,-16731116
+23,21,"minor","Dobsonia","Lesser Bare-backed Fruit Bat",LC,U,-16731116
+26,25,"moluccensis","Dobsonia","Moluccan Naked-backed Fruit Bat",LC,S,-16731116
+27,25,"magna","Dobsonia","",NE,U,-16777216
+28,24,"anderseni","Dobsonia","Andersen's Bare-backed Fruit Bat",LC,S,-16731116
+29,7,"pannietensis","Dobsonia","Panaeati Bare-backed Fruit Bat",NT,U,-12486656
+30,6,"emersa","Dobsonia","Biak Bare-backed Fruit Bat",VU,U,-11184866
+31,5,"bulmerae","Aproteles","Bulmer's Fruit Bat",CR,D,-3014646
+33,32,"celebensis","Harpyionycteris","Sulawesi Harpy Fruit Bat",VU,D,-11184866
+34,32,"whiteheadi","Harpyionycteris","Harpy Fruit Bat",LC,S,-16731116
+40,39,"melanops","Melonycteris","Black-bellied Blossom Bat",LC,S,-16731116
+41,39,"woodfordi","Melonycteris","Woodford's Blossom Bat",LC,S,-16731116
+43,42,"neocaledonica","Notopteris","New Caledonia Blossom Bat",VU,U,-11184866
+44,42,"macdonaldi","Notopteris","Fijian Blossom Bat",VU,D,-11184866
+47,46,"carolinae","Syconycteris","Halmaheran Blossom Bat",VU,D,-11184866
+48,46,"hobbit","Syconycteris","Moss-forest Blossom Bat",VU,D,-11184866
+49,45,"australis","Syconycteris","Common Blossom Bat",LC,S,-16731116
+51,50,"minimus","Macroglossus","Dagger-toothed Long-nosed Fruit Bat",LC,S,-16731116
+52,50,"sobrinus","Macroglossus","Hill Long-tongued Fruit Bat",LC,S,-16731116
+55,54,"robusta","Eonycteris","Philippine Dawn Bat",NT,D,-12486656
+56,54,"major","Eonycteris","Greater Dawn Bat",DD,U,-11513776
+57,53,"spelaea","Eonycteris","Dawn Bat",LC,U,-16731116
+71,70,"crypturus","Epomophorus","Peters's Epauletted Fruit Bat",LC,U,-16731116
+72,70,"gambianus","Epomophorus","Gambian Epauletted Fruit Bat",LC,U,-16731116
+74,73,"labiatus","Epomophorus","Ethiopian Epauletted Fruit Bat",LC,S,-16731116
+75,73,"minor","Epomophorus","",NE,U,-16777216
+78,77,"minimus","Epomophorus","East African Epauletted Fruit Bat",LC,S,-16731116
+79,77,"angolensis","Epomophorus","Angolan Epauletted Fruit Bat",NT,D,-12486656
+80,76,"grandis","Epomophorus","Lesser Angolan Epauletted Fruit Bat",DD,U,-11513776
+81,67,"wahlbergi","Epomophorus","Wahlberg's Epauletted Fruit Bat",LC,S,-16731116
+83,82,"intermedius","Micropteropus","Hayman's Lesser Epauletted Fruit Bat",DD,U,-11513776
+84,82,"pusillus","Micropteropus","Peter's Dwarf Epauletted Fruit Bat",LC,S,-16731116
+88,87,"buettikoferi","Epomops","Buettikofer's Epauletted Fruit Bat",LC,D,-16731116
+89,87,"dobsonii","Epomops","Dobson's Fruit Bat",LC,S,-16731116
+90,86,"franqueti","Epomops","Franquet's Epauletted Fruit Bat",LC,S,-16731116
+91,85,"monstrosus","Hypsignathus","Hammer-headed Fruit Bat",LC,U,-16731116
+92,64,"veldkampii","Nanonycteris","Veldkamp's Bat",LC,U,-16731116
+95,94,"ophiodon","Scotonycteris","Pohle's Fruit Bat",VU,D,-11184866
+96,94,"zenkeri","Scotonycteris","Zenker's Fruit Bat",LC,D,-16731116
+97,93,"argynnis","Casinycteris","Short-palated Fruit Bat",LC,U,-16731116
+98,62,"anchietae","Plerotes","D'Anchieta's Fruit Bat",DD,U,-11513776
+99,61,"bidens","Rousettus","Manado Rousette",VU,D,-11184866
+102,101,"helvum","Eidolon","Straw-coloured Fruit Bat",NT,D,-12486656
+103,101,"dupreanum","Eidolon","Madagascan Fruit Bat",VU,D,-11184866
+104,100,"woermanni","Megaloglossus","Woermann's Bat",LC,S,-16731116
+111,110,"madagascariensis","Rousettus","Madagascan Rousette",NT,D,-12486656
+112,110,"aegyptiacus","Rousettus","Egyptian Fruit Bat",LC,S,-16731116
+113,109,"leschenaultii","Rousettus","Leschenault's Rousette",LC,S,-16731116
+115,114,"amplexicaudatus","Rousettus","Geoffroy's Rousette",LC,U,-16731116
+116,114,"celebensis","Rousettus","Sulawesi Rousette",LC,D,-16731116
+118,117,"spinalatus","Rousettus","Bare-backed Rousette",VU,D,-11184866
+119,117,"obliviosus","Rousettus","Comoro Rousette",VU,D,-11184866
+120,106,"lanosus","Rousettus","Long-haired Rousette",LC,D,-16731116
+123,122,"relicta","Myonycteris","East African Little Collared Fruit Bat",VU,D,-11184866
+124,122,"torquata","Myonycteris","Little Collared Fruit Bat",LC,S,-16731116
+125,121,"brachycephala","Myonycteris","Sao Tome Collared Fruit Bat",EN,D,-8572416
+126,58,"angolensis","Lissonycteris","Angolan Fruit Bat",LC,D,-16731116
+137,136,"luzoniensis","Cynopterus","Peters's Fruit Bat",LC,S,-16731116
+138,136,"minutus","Cynopterus","Minute Fruit Bat",LC,D,-16731116
+139,135,"brachyotis","Cynopterus","Lesser Dog-faced Fruit Bat",LC,U,-16731116
+140,134,"sphinx","Cynopterus","Greater Shortnosed Fruit Bat",LC,I,-16731116
+143,142,"titthaecheilus","Cynopterus","Indonesian Short-nosed Fruit Bat",LC,S,-16731116
+144,142,"horsfieldii","Cynopterus","Horsfield's Fruit Bat",LC,U,-16731116
+145,141,"nusatenggara","Cynopterus","Nusatenggara Short-nosed Fruit Bat",LC,S,-16731116
+150,149,"niphanae","Megaerops","Ratanaworabhan's Fruit Bat",LC,U,-16731116
+151,149,"kusnotoi","Megaerops","Javan Tailless Fruit Bat",VU,D,-11184866
+152,148,"ecaudatus","Megaerops","Temminck's Tailless Fruit Bat",LC,U,-16731116
+153,147,"wetmorei","Megaerops","White-collared Fruit Bat",VU,D,-11184866
+155,154,"jagori","Ptenochirus","Greater Musky Fruit Bat",LC,S,-16731116
+156,154,"minor","Ptenochirus","Lesser Musky Fruit Bat",LC,S,-16731116
+158,157,"brooksi","Dyacopterus","Brooks's Dyak Fruit Bat",VU,D,-11184866
+159,157,"spadiceus","Dyacopterus","Dayak Fruit Bat",NT,D,-12486656
+162,161,"maculata","Balionycteris","Spotted-winged Fruit Bat",LC,U,-16731116
+163,161,"melanocephalus","Chironax","Black-capped Fruit Bat",LC,U,-16731116
+165,164,"aequalis","Aethalops","Borneo Fruit Bat",LC,U,-16731116
+166,164,"alecto","Aethalops","Pygmy Fruit Bat",LC,U,-16731116
+169,168,"fischeri","Haplonycteris","Fischer's Pygmy Fruit Bat",LC,S,-16731116
+170,168,"cartilagonodus","Otopteropus","Luzon Fruit Bat",LC,D,-16731116
+171,167,"paucidentata","Alionycteris","Mindanao Pygmy Fruit Bat",LC,S,-16731116
+175,174,"lucasi","Penthetor","Lucas's Short-nosed Fruit Bat",LC,D,-16731116
+176,174,"nigrescens","Thoopterus","Swift Fruit Bat",LC,U,-16731116
+177,173,"salimalii","Latidens","Salim Ali's Fruit Bat",EN,D,-8572416
+178,172,"blanfordi","Sphaerias","Blandford's Fruit Bat",LC,U,-16731116
+186,185,"cephalotes","Nyctimene","Pallas's Tube-nosed Bat",LC,U,-16731116
+187,185,"masalai","Nyctimene","Demonic Tube-nosed Bat",DD,U,-11513776
+188,184,"rabori","Nyctimene","Philippine Tube-nosed Fruit Bat",EN,D,-8572416
+189,183,"malaitensis","Nyctimene","Malaita Tube-nosed Bat",DD,U,-11513776
+190,182,"vizcaccia","Nyctimene","Umboi Tube-nosed Bat",LC,U,-16731116
+194,193,"minutus","Nyctimene","Lesser Tube-nosed Fruit Bat",VU,D,-11184866
+195,193,"albiventer","Nyctimene","Common Tube-nosed Bat",LC,S,-16731116
+196,192,"draconilla","Nyctimene","Lesser Tube-nosed Bat",DD,U,-11513776
+198,197,"cyclotis","Nyctimene","Round-eared Tube-nosed Bat",DD,U,-11513776
+199,197,"certans","Nyctimene","Mountain Tube-nosed Bat",LC,S,-16731116
+202,201,"robinsoni","Nyctimene","Eastern Tube-nosed Bat",LC,U,-16731116
+203,201,"major","Nyctimene","Island Tube-nosed Bat",LC,U,-16731116
+204,200,"aello","Nyctimene","Greater Tube-nosed Bat",LC,S,-16731116
+205,179,"raptor","Paranyctimene","Unstriped Tube-nosed Bat",LC,U,-16731116

@@ -1,145 +1,59 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"hewitti","Heleophryne","Hewitt's Ghost Frog",CR,D,-3014646
-11,9,"regis","Heleophryne","Royal Ghost Frog",LC,S,-16731116
-12,8,"orientalis","Heleophryne","Eastern Ghost Frog",LC,S,-16731116
-13,7,"purcelli","Heleophryne","Purcell's Ghost Frog",LC,S,-16731116
-15,14,"rosei","Heleophryne","Table Mountain Ghost Frog",CR,D,-3014646
-16,14,"natalensis","Heleophryne","Natal Ghost Frog",LC,D,-16731116
-22,21,"varaldii","Pelobates","Varaldi's Spadefoot Toad",EN,D,-8572416
-23,21,"cultripes","Pelobates","Western Spadefoot",NT,D,-12486656
-24,20,"fuscus","Pelobates","Common Spadefoot",LC,D,-16731116
-25,19,"syriacus","Pelobates","Eastern Spadefoot",LC,D,-16731116
-31,30,"intermontana","Spea","Great Basin Spadefoot",LC,S,-16731116
-32,30,"hammondii","Spea","Western Spadefoot",NT,D,-12486656
-33,29,"multiplicata","Spea","New Mexico Spadefoot",LC,S,-16731116
-34,28,"bombifrons","Spea","Plains Spadefoot",LC,S,-16731116
-37,36,"holbrookii","Scaphiopus","Eastern Spadefoot",LC,U,-16731116
-38,36,"hurterii","Scaphiopus","Hurter's Spadefoot",LC,S,-16731116
-39,35,"couchii","Scaphiopus","Couch's Spadefoot",LC,S,-16731116
-42,41,"punctatus","Pelodytes","Parsley Frog",LC,D,-16731116
-43,41,"ibericus","Pelodytes","",LC,S,-16731116
-44,40,"caucasicus","Pelodytes","Caucasian Parsley Frog",NT,D,-12486656
-51,50,"sardus","Discoglossus","Tyrrhenian Painted Frog",LC,D,-16731116
-52,50,"nigriventer","Discoglossus","Hula Painted Frog",EX,U,-16777036
-53,49,"montalentii","Discoglossus","Corsican Painted Frog",NT,U,-12486656
-54,48,"galganoi","Discoglossus","Iberian Painted Frog",LC,D,-16731116
-56,55,"pictus","Discoglossus","Painted Frog",LC,S,-16731116
-57,55,"scovazzi","Discoglossus","",LC,S,-16731116
-62,61,"cisternasii","Alytes","Iberian Midwife Toad",NT,D,-12486656
-63,61,"obstetricans","Alytes","Common Midwife Toad",LC,D,-16731116
-64,60,"maurus","Alytes","",NT,S,-12486656
-65,59,"dickhilleni","Alytes","Betic Midwife Toad",VU,D,-11184866
-66,58,"muletensis","Alytes","Mallorcan Midwife Toad",VU,I,-11184866
-72,71,"variegata","Bombina","Yellow??????????????????bellied Toad",LC,D,-16731116
-73,71,"pachypus","Bombina","Appenine Yellow-bellied Toad",EN,D,-8572416
-75,74,"orientalis","Bombina","Oriental Bell Toad",LC,D,-16731116
-76,74,"bombina","Bombina","Fire-bellied Toad",LC,D,-16731116
-77,69,"lichuanensis","Bombina","Lichuan Bell Toad",VU,D,-11184866
-80,79,"microdeladigitora","Bombina","",NE,U,-16777216
-81,79,"fortinuptialis","Bombina","",NE,U,-16777216
-82,78,"maxima","Bombina","",NE,U,-16777216
-84,83,"busuangensis","Barbourula","Philippine Flat-headed Frog",VU,D,-11184866
-85,83,"kalimantanensis","Barbourula","Bornean Flat-headed Frog",EN,D,-8572416
-97,96,"boumbaensis","Xenopus","Mawa Clawed Frog",DD,U,-11513776
-98,96,"andrei","Xenopus","Andre's Clawed Frog",LC,S,-16731116
-100,99,"largeni","Xenopus","Largen's Clawed Frog",DD,U,-11513776
-101,99,"clivii","Xenopus","Eritrea Clawed Frog",LC,D,-16731116
-102,94,"fraseri","Xenopus","Fraser's Clawed Frog",LC,S,-16731116
-104,103,"longipes","Xenopus","Lake Oku Clawed Frog",CR,S,-3014646
-105,103,"amieti","Xenopus","Volcano Clawed Frog",NT,D,-12486656
-106,92,"pygmaeus","Xenopus","Bouchia Clawed Frog",LC,S,-16731116
-109,108,"ruwenzoriensis","Xenopus","Uganda Clawed Frog",DD,U,-11513776
-110,108,"petersii","Xenopus","Peters' Platanna",LC,S,-16731116
-112,111,"laevis","Xenopus","African Clawed Frog",LC,I,-16731116
-113,111,"gilli","Xenopus","Cape Platanna",EN,D,-8572416
-117,116,"borealis","Xenopus","Marsabit Clawed Frog",LC,U,-16731116
-118,116,"muelleri","Xenopus","Muller's Platanna",LC,S,-16731116
-119,115,"wittei","Xenopus","De Witte's Clawed Frog",LC,S,-16731116
-120,114,"vestitus","Xenopus","Kivu Clawed Frog",LC,S,-16731116
-122,121,"epitropicalis","Silurana","Cameroon Clawed Frog",LC,D,-16731116
-123,121,"tropicalis","Silurana","Tropical Clawed Frog",LC,S,-16731116
-129,128,"pipa","Pipa","Suriname Toad",LC,S,-16731116
-130,128,"snethlageae","Pipa","",LC,U,-16731116
-131,127,"arrabali","Pipa","Arrabal's Suriname Toad",LC,S,-16731116
-132,126,"aspera","Pipa","Albina Surinam Toad",LC,S,-16731116
-133,125,"carvalhoi","Pipa","Carvalho's Surinam Toad",LC,D,-16731116
-135,134,"myersi","Pipa","Myers' Surinam Toad",EN,D,-8572416
-136,134,"parva","Pipa","",LC,I,-16731116
-141,140,"boulengeri","Hymenochirus","",DD,U,-11513776
-142,140,"feae","Hymenochirus","",DD,U,-11513776
-143,139,"boettgeri","Hymenochirus","Congo Dwarf Clawed Frog",LC,D,-16731116
-144,138,"curtipes","Hymenochirus","Western Dwarf Clawed Frog",LC,U,-16731116
-145,137,"merlini","Pseudhymenochirus","",LC,U,-16731116
-146,86,"dorsalis","Rhinophrynus","Burrowing Toad",LC,S,-16731116
-151,150,"hamiltoni","Leiopelma","Hamilton's Frog",EN,S,-8572416
-152,150,"pakeka","Leiopelma","Maud Island Frog",VU,S,-11184866
-153,149,"archeyi","Leiopelma","Archey's Frog",CR,D,-3014646
-154,148,"hochstetteri","Leiopelma","Hochstetter's Frog",VU,D,-11184866
-156,155,"montanus","Ascaphus","Inland Tailed Frog",LC,U,-16731116
-157,155,"truei","Ascaphus","Coastal Tailed Frog",LC,U,-16731116
-164,163,"tridactylum","Amphiuma","Three-toed Amphiuma",LC,S,-16731116
-165,163,"means","Amphiuma","Two-toed Amphiuma",LC,U,-16731116
-166,162,"pholeter","Amphiuma","One-toed Amphiuma",NT,D,-12486656
-169,168,"variegatus","Rhyacotriton","Southern Torrent Salamander",LC,S,-16731116
-170,168,"kezeri","Rhyacotriton","Columbia Torrent Salamander",NT,S,-12486656
-172,171,"olympicus","Rhyacotriton","Olympic Torrent Salamander",VU,D,-11184866
-173,171,"cascadae","Rhyacotriton","Cascade Torrent Salamander",NT,D,-12486656
-180,179,"beyeri","Necturus","Gulf Coast Waterdog",LC,U,-16731116
-181,179,"punctatus","Necturus","Dwarf Waterdog",LC,U,-16731116
-182,178,"alabamensis","Necturus","Alabama Waterdog",EN,D,-8572416
-184,183,"lewisi","Necturus","Neuse River Waterdog",NT,D,-12486656
-185,183,"maculosus","Necturus","Mudpuppy",LC,S,-16731116
-186,176,"anguinus","Proteus","Olm",VU,D,-11184866
-189,188,"axanthus","Pseudobranchus","Narrow-striped Dwarf Siren",LC,D,-16731116
-190,188,"striatus","Pseudobranchus","Dwarf Siren",LC,D,-16731116
-192,191,"lacertina","Siren","Greater Siren",LC,U,-16731116
-193,191,"intermedia","Siren","Lesser Siren",LC,U,-16731116
-210,209,"turkestanicus","Hynobius","Turkestanian Salamander",DD,U,-11513776
-211,209,"dunni","Hynobius","Oita Salamander",EN,D,-8572416
-213,212,"lichenatus","Hynobius","Tohoku Salamander",LC,S,-16731116
-214,212,"yunanicus","Hynobius","",NE,U,-16777216
-215,207,"okiensis","Hynobius","Oki Salamander",CR,D,-3014646
-216,206,"kimurae","Hynobius","Hida Salamander",LC,S,-16731116
-217,205,"nebulosus","Hynobius","Clouded Salamander",LC,D,-16731116
-221,220,"tsuensis","Hynobius","Tsushima Salamander",LC,S,-16731116
-222,220,"takedai","Hynobius","Hokuriku Salamander",EN,D,-8572416
-224,223,"quelpaertensis","Hynobius","",DD,U,-11513776
-225,223,"leechii","Hynobius","",LC,D,-16731116
-226,218,"stejnegeri","Hynobius","Amber-coloured Salamander",VU,D,-11184866
-230,229,"boulengeri","Hynobius","Odaigahara Salamander",VU,D,-11184866
-231,229,"yiwuensis","Hynobius","",VU,D,-11184866
-232,228,"naevius","Hynobius","Blotched Salamander",LC,S,-16731116
-233,227,"retardatus","Hynobius","Ezo Salamander",LC,S,-16731116
-234,202,"guabangshanensis","Hynobius","",DD,U,-11513776
-236,235,"arisanensis","Hynobius","",VU,D,-11184866
-237,235,"sonani","Hynobius","",EN,D,-8572416
-244,243,"chinensis","Hynobius","",EN,D,-8572416
-245,243,"amjiensis","Hynobius","",CR,D,-3014646
-246,242,"abei","Hynobius","Abe's Salamander",CR,D,-3014646
-247,241,"tokyoensis","Hynobius","Tokyo Salamander",VU,D,-11184866
-248,240,"nigrescens","Hynobius","Japanese Black Salamander",LC,S,-16731116
-249,239,"formosanus","Hynobius","",EN,D,-8572416
-251,250,"hidamontanus","Hynobius","Hakuba Salamander",EN,D,-8572416
-252,250,"katoi","Hynobius","",DD,U,-11513776
-259,258,"yenyuanensis","Batrachuperus","Yenyuan Stream Salamander",VU,D,-11184866
-260,258,"pinchonii","Batrachuperus","Stream Salamander",VU,D,-11184866
-261,257,"londongensis","Batrachuperus","Longdong Stream Salamander",EN,D,-8572416
-264,263,"taibaiensis","Batrachuperus","",DD,U,-11513776
-265,263,"cochranae","Batrachuperus","",NE,U,-16777216
-266,262,"tibetanus","Batrachuperus","Alpine Stream Salamander",VU,D,-11184866
-267,255,"karlschmidti","Batrachuperus","",VU,D,-11184866
-270,269,"tsinpaensis","Liua","Tsinpa Salamander",VU,D,-11184866
-271,269,"shihi","Liua","Wushan Salamander",NT,D,-12486656
-272,268,"flavomaculatus","Pseudohynobius","Yellow-spotted Salamander",VU,D,-11184866
-273,253,"keyserlingii","Salamandrella","Siberian Newt",LC,S,-16731116
-274,198,"shangchengensis","Pachyhynobius","Shancheng Stout Salamander",VU,D,-11184866
-278,277,"persicus","Paradactylodon","Persian Mountain Salamander",NT,U,-12486656
-279,277,"mustersi","Paradactylodon","",CR,D,-3014646
-280,276,"gorganensis","Paradactylodon","",CR,D,-3014646
-281,275,"sibiricus","Ranodon","Semirechensk Salamander",EN,D,-8572416
-283,282,"fischeri","Onychodactylus","Fischer's Clawed Salamander",LC,D,-16731116
-284,282,"japonicus","Onychodactylus","Japanese Clawed Salamander",LC,S,-16731116
-285,195,"puxiongensis","Protohynobius","",DD,U,-11513776
-288,287,"japonicus","Andrias","Japanese Giant Salamander",NT,D,-12486656
-289,287,"davidianus","Andrias","Chinese Giant Salamander",CR,D,-3014646
-290,286,"alleganiensis","Cryptobranchus","Hellbender",NT,D,-12486656
+9,8,"berlepschi","Crypturellus","Berlepsch's Tinamou",LC,U,-16731116
+10,8,"tataupa","Crypturellus","Tataupa Tinamou",LC,U,-16731116
+12,11,"casiquiare","Crypturellus","Barred Tinamou",LC,U,-16731116
+13,11,"obsoletus","Crypturellus","Brown Tinamou",LC,U,-16731116
+16,15,"parvirostris","Crypturellus","Small-billed Tinamou",LC,U,-16731116
+17,15,"erythropus","Crypturellus","Red-legged Tinamou",LC,U,-16731116
+18,14,"boucardi","Crypturellus","Slaty-breasted Tinamou",LC,U,-16731116
+20,19,"atrocapillus","Crypturellus","Black-capped Tinamou",LC,U,-16731116
+21,19,"kerriae","Crypturellus","Choco Tinamou",VU,U,-11184866
+25,24,"transfasciatus","Crypturellus","Pale-browed Tinamou",NT,U,-12486656
+26,24,"cinereus","Crypturellus","Cinereous Tinamou",LC,U,-16731116
+28,27,"strigulosus","Crypturellus","Brazilian Tinamou",LC,U,-16731116
+29,27,"undulatus","Crypturellus","Undulated Tinamou",LC,U,-16731116
+32,31,"variegatus","Crypturellus","Variegated Tinamou",LC,U,-16731116
+33,31,"brevirostris","Crypturellus","Rusty Tinamou",LC,U,-16731116
+35,34,"ptaritepui","Crypturellus","Tepui Tinamou",LC,U,-16731116
+36,34,"soui","Crypturellus","Little Tinamou",LC,U,-16731116
+40,39,"noctivagus","Crypturellus","Yellow-legged Tinamou",NT,U,-12486656
+41,39,"duidae","Crypturellus","Grey-legged Tinamou",LC,U,-16731116
+42,38,"bartletti","Crypturellus","Bartlett's Tinamou",LC,U,-16731116
+43,37,"cinnamomeus","Crypturellus","Thicket Tinamou",LC,U,-16731116
+48,47,"guttatus","Tinamus","White-throated Tinamou",LC,U,-16731116
+49,47,"tao","Tinamus","Grey Tinamou",LC,U,-16731116
+51,50,"osgoodi","Tinamus","Black Tinamou",VU,U,-11184866
+52,50,"major","Tinamus","Great Tinamou",LC,U,-16731116
+53,45,"solitarius","Tinamus","Solitary Tinamou",NT,U,-12486656
+56,55,"julius","Nothocercus","Tawny-breasted Tinamou",LC,U,-16731116
+57,55,"nigrocapillus","Nothocercus","Hooded Tinamou",LC,U,-16731116
+58,54,"bonapartei","Nothocercus","Highland Tinamou",LC,U,-16731116
+65,64,"curvirostris","Nothoprocta","Curve-billed Tinamou",LC,U,-16731116
+66,64,"pentlandii","Nothoprocta","Andean Tinamou",LC,U,-16731116
+68,67,"cinerascens","Nothoprocta","Brushland Tinamou",LC,U,-16731116
+69,67,"ornata","Nothoprocta","Ornate Tinamou",LC,U,-16731116
+71,70,"taczanowskii","Nothoprocta","Taczanowski's Tinamou",VU,U,-11184866
+72,70,"perdicaria","Nothoprocta","Chilean Tinamou",LC,U,-16731116
+74,73,"rufescens","Rhynchotus","Red-winged Tinamou",LC,U,-16731116
+75,73,"maculicollis","Rhynchotus","Huayco Tinamou",LC,U,-16731116
+79,78,"darwinii","Nothura","Darwin's Nothura",LC,U,-16731116
+80,78,"minor","Nothura","Lesser Nothura",VU,U,-11184866
+81,77,"maculosa","Nothura","Spotted Nothura",LC,U,-16731116
+83,82,"boraquira","Nothura","White-bellied Nothura",LC,U,-16731116
+84,82,"chacoensis","Nothura","Chaco Nothura",LC,U,-16731116
+88,87,"formosa","Eudromia","Quebracho Crested-tinamou",LC,U,-16731116
+89,87,"elegans","Eudromia","Elegant Crested-tinamou",LC,U,-16731116
+90,86,"nanus","Taoniscus","Dwarf Tinamou",VU,U,-11184866
+92,91,"ingoufi","Tinamotis","Patagonian Tinamou",LC,U,-16731116
+93,91,"pentlandii","Tinamotis","Puna Tinamou",LC,U,-16731116
+100,99,"casuarius","Casuarius","Southern Cassowary",VU,U,-11184866
+101,99,"bennetti","Casuarius","Dwarf Cassowary",NT,U,-12486656
+102,98,"unappendiculatus","Casuarius","Northern Cassowary",VU,U,-11184866
+103,97,"novaehollandiae","Dromaius","Emu",LC,U,-16731116
+106,105,"australis","Apteryx","Southern Brown Kiwi",VU,U,-11184866
+107,105,"mantelli","Apteryx","Northern Brown Kiwi",EN,U,-8572416
+109,108,"owenii","Apteryx","Little Spotted Kiwi",NT,U,-12486656
+110,108,"haastii","Apteryx","Great Spotted Kiwi",VU,U,-11184866
+112,111,"americana","Rhea","Greater Rhea",NT,U,-12486656
+113,111,"pennata","Rhea","Lesser Rhea",NT,U,-12486656
+114,94,"camelus","Struthio","Ostrich",LC,U,-16731116

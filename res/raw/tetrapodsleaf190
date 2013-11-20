@@ -1,0 +1,89 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"tiliguerta","Podarcis","Tyrrhenian Wall Lizard",LC,U,-16731116
+14,12,"filfolensis","Podarcis","Filfola Lizard",LC,S,-16731116
+16,15,"erhardii","Podarcis","Erhard's Wall Lizard",LC,S,-16731116
+17,15,"peloponnesianica","Podarcis","",NE,U,-16777216
+18,10,"taurica","Podarcis","",NE,U,-16777216
+19,9,"melisellensis","Podarcis","Dalmatian Wall Lizard",LC,S,-16731116
+21,20,"muralis","Podarcis","Common Wall Lizard",LC,S,-16731116
+22,20,"sicula","Podarcis","",NE,U,-16777216
+23,7,"pityusensis","Podarcis","Ibiza Wall Lizard",NT,S,-12486656
+24,6,"milensis","Podarcis","Miles Wall Lizard",VU,S,-11184866
+26,25,"wagleriana","Podarcis","",NE,U,-16777216
+27,25,"hispanica","Podarcis","",NE,U,-16777216
+28,4,"lilfordi","Podarcis","Lilford's Wall Lizard",EN,D,-8572416
+33,32,"hispanicus","Psammodromus","Spanish Psammodromus",LC,S,-16731116
+34,32,"algirus","Psammodromus","Large Psammodromus",LC,S,-16731116
+35,31,"microdactylus","Psammodromus","Green Psammodromus",EN,D,-8572416
+36,30,"blanci","Psammodromus","Blanc's Sand Racer",NT,D,-12486656
+39,38,"simonyi","Gallotia","El Hierro Giant Lizard",CR,S,-3014646
+40,38,"galloti","Gallotia","Tenerife Lizard",LC,S,-16731116
+41,37,"atlantica","Gallotia","Atlantic Lizard",LC,S,-16731116
+57,56,"haullagana","Bachia","",NE,U,-16777216
+58,56,"dorbignyi","Bachia","",NE,U,-16777216
+59,55,"trisanale","Bachia","",NE,U,-16777216
+60,54,"monodactylus","Bachia","",NE,U,-16777216
+61,53,"bicolor","Bachia","",NE,U,-16777216
+62,52,"barbouri","Bachia","",NE,U,-16777216
+63,51,"intermedia","Bachia","",NE,U,-16777216
+64,50,"heteropa","Bachia","",NE,U,-16777216
+65,49,"bresslaui","Bachia","",NE,U,-16777216
+66,48,"flavescens","Bachia","",NE,U,-16777216
+68,67,"reticulata","Arthrosaura","",NE,U,-16777216
+69,67,"kockii","Arthrosaura","",NE,U,-16777216
+72,71,"scincoides","Leposoma","",NE,U,-16777216
+73,71,"southi","Leposoma","",NE,U,-16777216
+74,70,"parietale","Leposoma","",NE,U,-16777216
+78,77,"plicatus","Ptychoglossus","",NE,U,-16777216
+79,77,"festae","Ptychoglossus","",NE,U,-16777216
+80,76,"brevifrontalis","Ptychoglossus","",NE,U,-16777216
+82,81,"buckleyi","Alopoglossus","",NE,U,-16777216
+83,81,"festae","Alopoglossus","",NE,U,-16777216
+87,86,"anatoloros","Riama","",NE,U,-16777216
+88,86,"shrevei","Riama","",NE,U,-16777216
+89,85,"unicolor","Riama","",NE,U,-16777216
+91,90,"hyposticta","Riama","",NE,U,-16777216
+92,90,"simoterus","Riama","",NE,U,-16777216
+105,104,"hyperythrus","Cnemidophorus","",NE,U,-16777216
+106,104,"guttatus","Cnemidophorus","",NE,U,-16777216
+107,103,"deppei","Cnemidophorus","",NE,U,-16777216
+108,102,"tigris","Cnemidophorus","",NE,U,-16777216
+111,110,"flagellicaudus","Cnemidophorus","",NE,U,-16777216
+112,110,"mexicanus","Cnemidophorus","",NE,U,-16777216
+113,109,"tesselatus","Cnemidophorus","",NE,U,-16777216
+116,115,"lemniscatus","Cnemidophorus","",NE,U,-16777216
+117,115,"velox","Cnemidophorus","",NE,U,-16777216
+118,114,"exsanguis","Cnemidophorus","",NE,U,-16777216
+122,121,"sexlineatus","Cnemidophorus","",NE,U,-16777216
+123,121,"inornatus","Cnemidophorus","",NE,U,-16777216
+125,124,"costatus","Cnemidophorus","",NE,U,-16777216
+126,124,"gularis","Cnemidophorus","",NE,U,-16777216
+128,127,"neomexicanus","Cnemidophorus","",NE,U,-16777216
+129,127,"communis","Cnemidophorus","",NE,U,-16777216
+130,98,"amazonicus","Crocodilurus","",NE,U,-16777216
+131,97,"teguixin","Tupinambis","",NE,U,-16777216
+133,132,"heterolepis","Dicrodon","",NE,U,-16777216
+134,132,"guttulatum","Dicrodon","",NE,U,-16777216
+144,143,"lineolata","Ameiva","",NE,U,-16777216
+145,143,"maynardi","Ameiva","",NE,U,-16777216
+146,142,"taeniura","Ameiva","",NE,U,-16777216
+147,141,"chrysolaema","Ameiva","",NE,U,-16777216
+148,140,"exsul","Ameiva","",NE,U,-16777216
+151,150,"dorsalis","Ameiva","",NE,U,-16777216
+152,150,"auberi","Ameiva","",NE,U,-16777216
+154,153,"griswoldi","Ameiva","",NE,U,-16777216
+155,153,"pleei","Ameiva","",NE,U,-16777216
+156,138,"undulata","Ameiva","",NE,U,-16777216
+158,157,"edracantha","Ameiva","",NE,U,-16777216
+159,157,"leberi","Ameiva","",NE,U,-16777216
+160,136,"leptophrys","Ameiva","",NE,U,-16777216
+163,162,"bifrontata","Ameiva","",NE,U,-16777216
+164,162,"ameiva","Ameiva","",NE,U,-16777216
+165,161,"quadrilineata","Ameiva","",NE,U,-16777216
+170,169,"altamazonica","Kentropyx","",NE,U,-16777216
+171,169,"pelviceps","Kentropyx","",NE,U,-16777216
+173,172,"viridistriga","Kentropyx","",NE,U,-16777216
+174,172,"borkiana","Kentropyx","",NE,U,-16777216
+175,167,"calcarata","Kentropyx","",NE,U,-16777216
+176,166,"maculatus","Callopistes","",DD,U,-11513776
+177,93,"teyou","Teius","",NE,U,-16777216

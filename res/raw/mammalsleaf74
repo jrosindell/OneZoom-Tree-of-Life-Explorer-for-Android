@@ -1,0 +1,25 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"kolombatovici","Plecotus","Kolombatovic's Long-eared Bat",LC,D,-16731116
+9,7,"austriacus","Plecotus","Gray Big-eared Bat",LC,U,-16731116
+10,6,"teneriffae","Plecotus","Canary Big-eared Bat",EN,D,-8572416
+12,11,"taivanus","Plecotus","Taiwan Long-eared Bat",NT,D,-12486656
+13,11,"auritus","Plecotus","Brown Big-eared Bat",LC,S,-16731116
+16,15,"townsendii","Corynorhinus","Townsend's Big-eared Bat",LC,S,-16731116
+17,15,"mexicanus","Corynorhinus","Mexican Big-eared Bat",NT,D,-12486656
+18,14,"rafinesquii","Corynorhinus","Rafinesque's Big-eared Bat",LC,I,-16731116
+20,19,"phyllotis","Idionycteris","Allen's Big-eared Bat",LC,S,-16731116
+21,19,"maculatum","Euderma","Spotted Bat",LC,S,-16731116
+23,22,"leucomelas","Barbastella","Asian Barbastelle",LC,U,-16731116
+24,22,"barbastellus","Barbastella","Barbastelle",NT,D,-12486656
+27,26,"rueppellii","Pipistrellus","Ruppel's Pipistrelle",LC,U,-16731116
+28,26,"crassulus","Hypsugo","",NE,U,-16777216
+29,25,"nanulus","Pipistrellus","Tiny Pipistrelle",LC,U,-16731116
+37,36,"tumida","Rhogeessa","Black-winged Little Yellow Bat",LC,S,-16731116
+38,36,"aeneus","Rhogeessa","Yucatan Yellow Bat",LC,S,-16731116
+39,35,"io","Rhogeessa","Thomas's Yellow Bat",LC,U,-16731116
+40,34,"minutilla","Rhogeessa","Tiny Yellow Bat",VU,D,-11184866
+42,41,"genowaysi","Rhogeessa","Genoways's Yellow Bat",EN,D,-8572416
+43,41,"parvula","Rhogeessa","Little Yellow Bat",LC,S,-16731116
+44,32,"gracilis","Rhogeessa","Slender Yellow Bat",LC,U,-16731116
+45,31,"mira","Rhogeessa","Least Yellow Bat",VU,S,-11184866
+46,30,"alleni","Rhogeessa","Allen's Yellow Bat",LC,S,-16731116

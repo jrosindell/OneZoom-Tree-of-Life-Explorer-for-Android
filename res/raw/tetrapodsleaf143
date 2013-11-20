@@ -1,113 +1,90 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"antinorii","Sorex","Valais Shrew",DD,U,-11513776
-18,16,"araneus","Sorex","Common Shrew",LC,S,-16731116
-19,15,"granarius","Sorex","Iberian Shrew",LC,U,-16731116
-20,14,"coronatus","Sorex","Crowned Shrew",LC,S,-16731116
-22,21,"daphaenodon","Sorex","Large-toothed Siberian Shrew",LC,S,-16731116
-23,21,"satunini","Sorex","Caucasian Shrew",LC,U,-16731116
-25,24,"tundrensis","Sorex","Tundra Shrew",LC,S,-16731116
-26,24,"asper","Sorex","Tien Shan Shrew",LC,U,-16731116
-28,27,"maritimensis","Sorex","Maritime Shrew",LC,D,-16731116
-29,27,"arcticus","Sorex","Arctic Shrew",LC,S,-16731116
-30,10,"samniticus","Sorex","Appenine Shrew",LC,U,-16731116
-31,9,"excelsus","Sorex","Highland Shrew",LC,U,-16731116
-36,35,"caecutiens","Sorex","Laxmann's Shrew",LC,S,-16731116
-37,35,"shinto","Sorex","Shinto Shrew",LC,S,-16731116
-38,34,"roboratus","Sorex","Flat-skulled Shrew",LC,U,-16731116
-40,39,"unguiculatus","Sorex","Long-clawed Shrew",LC,S,-16731116
-41,39,"isodon","Sorex","Even-toothed Shrew",LC,U,-16731116
-42,32,"raddei","Sorex","Radde's Shrew",LC,U,-16731116
-43,7,"mirabilis","Sorex","Ussuri Shrew",DD,U,-11513776
-49,48,"volnuchini","Sorex","Caucasian Pygmy Shrew",LC,U,-16731116
-50,48,"buchariensis","Sorex","Pamir Shrew",LC,U,-16731116
-51,47,"minutus","Sorex","Eurasian Pygmy Shrew",LC,S,-16731116
-52,46,"gracillimus","Sorex","Slender Shrew",LC,S,-16731116
-53,45,"hosonoi","Sorex","Azumi Shrew",LC,U,-16731116
-54,44,"minutissimus","Sorex","Eurasian Least Shrew",LC,U,-16731116
-55,5,"alpinus","Sorex","Alpine Shrew",NT,D,-12486656
-65,64,"neomexicanus","Sorex","New Mexico Shrew",DD,U,-11513776
-66,64,"monticolus","Sorex","Dusky Shrew",LC,S,-16731116
-68,67,"pacificus","Sorex","Pacific Shrew",LC,S,-16731116
-69,67,"vagrans","Sorex","Vagrant Shrew",LC,S,-16731116
-72,71,"palustris","Sorex","American Water Shrew",LC,S,-16731116
-73,71,"bendirii","Sorex","Marsh Shrew",LC,U,-16731116
-74,70,"leucogaster","Sorex","Paramushir Shrew",DD,U,-11513776
-75,61,"haydeni","Sorex","Prairie Shrew",LC,S,-16731116
-77,76,"hoyi","Sorex","American Pygmy Shrew",LC,S,-16731116
-78,76,"nanus","Sorex","Dwarf Shrew",LC,U,-16731116
-81,80,"jacksoni","Sorex","Saint Lawrence Island Shrew",LC,U,-16731116
-82,80,"dispar","Sorex","Long-tailed Shrew",LC,U,-16731116
-84,83,"bairdi","Sorex","Baird's Shrew",LC,U,-16731116
-85,83,"tenellus","Sorex","Inyo Shrew",LC,S,-16731116
-87,86,"ugyunak","Sorex","Barren Ground Shrew",LC,S,-16731116
-88,86,"preblei","Sorex","Preble's Shrew",LC,U,-16731116
-92,91,"longirostris","Sorex","Southeastern Shrew",LC,S,-16731116
-93,91,"cinereus","Sorex","Cinereus Shrew",LC,S,-16731116
-94,90,"portenkoi","Sorex","Portenko's Shrew",DD,U,-11513776
-95,89,"ornatus","Sorex","Ornate Shrew",LC,S,-16731116
-96,56,"fumeus","Sorex","Smoky Shrew",LC,S,-16731116
-99,98,"trowbridgii","Sorex","Trowbridge's Shrew",LC,S,-16731116
-100,98,"merriami","Sorex","Merriam's Shrew",LC,U,-16731116
-101,97,"arizonae","Sorex","Arizona Shrew",LC,U,-16731116
-104,103,"quadraticauda","Blarinella","Asiatic Short-tailed Shrew",NT,D,-12486656
-105,103,"griselda","Blarinella","Indochinese Short-tailed Shrew",LC,U,-16731116
-106,102,"wardi","Blarinella","Burmese Short-tailed Shrew",LC,U,-16731116
-116,115,"merriami","Cryptotis","Merriam's Small-eared Shrew",LC,S,-16731116
-117,115,"mayensis","Cryptotis","Yucatan Small-eared Shrew",LC,D,-16731116
-119,118,"nigrescens","Cryptotis","Blackish Small-eared Shrew",LC,S,-16731116
-120,118,"mera","Cryptotis","Darien Small Eared Shrew",EN,D,-8572416
-121,113,"magna","Cryptotis","Big Mexican Small-eared Shrew",VU,D,-11184866
-124,123,"orophila","Cryptotis","Central American Least Shrew",DD,U,-11513776
-125,123,"tropicalis","Cryptotis","Tropical Small-eared Shrew",DD,U,-11513776
-126,122,"parva","Cryptotis","Least Shrew",LC,S,-16731116
-129,128,"hondurensis","Cryptotis","Honduran Small-eared Shrew",DD,U,-11513776
-130,128,"goodwini","Cryptotis","Goodwin's Broad-clawed Shrew",LC,S,-16731116
-131,127,"meridensis","Cryptotis","Merida Small-eared Shrew",LC,S,-16731116
-134,133,"medellinia","Cryptotis","Medellin Small-eared Shrew",LC,S,-16731116
-135,133,"thomasi","Cryptotis","Thomas' Small-eared Shrew",LC,S,-16731116
-136,132,"equatoris","Cryptotis","Ecuadorean Small-eared Shrew",LC,S,-16731116
-138,137,"squamipes","Cryptotis","Scaly-footed Small-eared Shrew",LC,U,-16731116
-139,137,"montivaga","Cryptotis","Ecuadorean Small-eared Shrew",LC,S,-16731116
-145,144,"obscura","Cryptotis","Grizzled Mexican Small-eared Shrew",VU,D,-11184866
-146,144,"peregrina","Cryptotis","Oaxacan Broad-clawed Shrew",DD,U,-11513776
-148,147,"phillipsii","Cryptotis","Phillip's Small-eared Shrew",VU,D,-11184866
-149,147,"nelsoni","Cryptotis","Nelson's Small Eared Shrew",CR,U,-3014646
-150,142,"mexicana","Cryptotis","Mexican Small-eared Shrew",LC,D,-16731116
-153,152,"griseoventris","Cryptotis","Guatamalan Small Eared Shrew",VU,D,-11184866
-154,152,"goldmani","Cryptotis","Goldman's Broad-clawed Shrew",LC,S,-16731116
-155,151,"alticola","Cryptotis","Central Mexican Broad-clawed Shrew",DD,U,-11513776
-157,156,"gracilis","Cryptotis","Talamancan Small-eared Shrew",VU,D,-11184866
-158,156,"endersi","Cryptotis","Ender's Small-eared Shrew",EN,U,-8572416
-162,161,"carolinensis","Blarina","Southern Short-tailed Shrew",LC,S,-16731116
-163,161,"peninsulae","Blarina","",NE,U,-16777216
-164,160,"brevicauda","Blarina","Northern Short-tailed Shrew",LC,S,-16731116
-165,159,"hylophaga","Blarina","Elliot's Short-tailed Shrew",LC,S,-16731116
-175,174,"fumidus","Episoriculus","Taiwan Brown-toothed Shrew",LC,U,-16731116
-176,174,"sodalis","Chodsigoa","Lesser Taiwanese Shrew",DD,U,-11513776
-177,173,"leucops","Episoriculus","Long-tailed Brown-toothed Shrew",LC,U,-16731116
-179,178,"caudatus","Episoriculus","Hodgson's Brown-toothed Shrew",LC,U,-16731116
-180,178,"macrurus","Episoriculus","Arboreal Brown-toothed Shrew",LC,U,-16731116
-182,181,"nigrescens","Soriculus","Himalayan Shrew",LC,U,-16731116
-183,181,"parca","Chodsigoa","Lowe's Shrew",LC,U,-16731116
-187,186,"parva","Chodsigoa","Pygmy Brown-toothed Shrew",DD,U,-11513776
-188,186,"lamula","Chodsigoa","Lamulate Shrew",LC,U,-16731116
-189,185,"smithii","Chodsigoa","Smith's Shrew",NT,D,-12486656
-191,190,"hypsibia","Chodsigoa","De Winton's Shrew",LC,U,-16731116
-192,190,"salenskii","Chodsigoa","Salenski's Shrew",DD,U,-11513776
-198,197,"platycephalus","Chimarrogale","Japanese Water Shrew",LC,D,-16731116
-199,197,"sumatrana","Chimarrogale","Sumatran Water Shrew",DD,U,-11513776
-200,196,"hantu","Chimarrogale","Malayan Water Shrew",NT,D,-12486656
-201,195,"himalayica","Chimarrogale","Himalayan Water Shrew",LC,U,-16731116
-202,194,"styani","Chimarrogale","Chinese Water Shrew",LC,U,-16731116
-203,193,"phaeura","Chimarrogale","Bornean Water Shrew",EN,D,-8572416
-207,206,"anomalus","Neomys","Mediterranean Water Shrew",LC,D,-16731116
-208,206,"teres","Neomys","Transcaucasian Water Shrew",LC,U,-16731116
-209,205,"fodiens","Neomys","Eurasian Water Shrew",LC,S,-16731116
-210,204,"elegans","Nectogale","Elegant Water Shrew",LC,U,-16731116
-214,213,"yamashinai","Anourosorex","Taiwanese Mole Shrew",LC,U,-16731116
-215,213,"squamipes","Anourosorex","Mole-shrew",LC,U,-16731116
-216,212,"assamensis","Anourosorex","Assam Mole Shrew",LC,U,-16731116
-217,211,"schmidi","Anourosorex","Giant Mole Shrew",DD,U,-11513776
-220,219,"evotis","Notiosorex","Large-eared Grey Shrew",LC,U,-16731116
-221,219,"crawfordi","Notiosorex","Desert Shrew",LC,S,-16731116
-222,218,"gigas","Megasorex","Mexican Shrew",LC,U,-16731116
+15,14,"erythrorhynchos","Pelecanus","American White Pelican",LC,U,-16731116
+16,14,"occidentalis","Pelecanus","Brown Pelican",LC,U,-16731116
+17,13,"thagus","Pelecanus","Peruvian Pelican",NT,U,-12486656
+19,18,"conspicillatus","Pelecanus","Australian Pelican",LC,U,-16731116
+20,18,"philippensis","Pelecanus","Spot-billed Pelican",NT,U,-12486656
+23,22,"onocrotalus","Pelecanus","Great White Pelican",LC,U,-16731116
+24,22,"crispus","Pelecanus","Dalmatian Pelican",VU,U,-11184866
+25,21,"rufescens","Pelecanus","Pink-backed Pelican",LC,U,-16731116
+27,26,"rex","Balaeniceps","Shoebill",VU,U,-11184866
+28,26,"umbretta","Scopus","Hamerkop",LC,U,-16731116
+33,32,"magnificens","Fregata","Magnificent Frigatebird",LC,U,-16731116
+34,32,"aquila","Fregata","Ascension Frigatebird",VU,U,-11184866
+35,31,"ariel","Fregata","Lesser Frigatebird",LC,U,-16731116
+37,36,"andrewsi","Fregata","Christmas Island Frigatebird",CR,U,-3014646
+38,36,"minor","Fregata","Greater Frigatebird",LC,U,-16731116
+45,44,"boyciana","Ciconia","Oriental Stork",EN,U,-8572416
+46,44,"ciconia","Ciconia","White Stork",LC,U,-16731116
+47,43,"maguari","Ciconia","Maguari Stork",LC,U,-16731116
+48,42,"nigra","Ciconia","Black Stork",LC,U,-16731116
+51,50,"episcopus","Ciconia","Woolly-necked Stork",LC,U,-16731116
+52,50,"stormi","Ciconia","Storm's Stork",EN,U,-8572416
+53,49,"abdimii","Ciconia","Abdim's Stork",LC,U,-16731116
+56,55,"crumeniferus","Leptoptilos","Marabou Stork",LC,U,-16731116
+57,55,"dubius","Leptoptilos","Greater Adjutant",EN,U,-8572416
+58,54,"javanicus","Leptoptilos","Lesser Adjutant",VU,U,-11184866
+64,63,"leucocephala","Mycteria","Painted Stork",NT,U,-12486656
+65,63,"cinerea","Mycteria","Milky Stork",VU,U,-11184866
+66,62,"ibis","Mycteria","Yellow-billed Stork",LC,U,-16731116
+67,61,"americana","Mycteria","Wood Stork",LC,U,-16731116
+70,69,"senegalensis","Ephippiorhynchus","Saddle-billed Stork",LC,U,-16731116
+71,69,"asiaticus","Ephippiorhynchus","Black-necked Stork",NT,U,-12486656
+72,68,"mycteria","Jabiru","Jabiru",LC,U,-16731116
+74,73,"lamelligerus","Anastomus","African Openbill",LC,U,-16731116
+75,73,"oscitans","Anastomus","Asian Openbill",LC,U,-16731116
+85,84,"giganteus","Macronectes","Southern Giant-petrel",LC,U,-16731116
+86,84,"halli","Macronectes","Northern Giant-petrel",LC,U,-16731116
+88,87,"glacialoides","Fulmarus","Southern Fulmar",LC,U,-16731116
+89,87,"glacialis","Fulmarus","Northern Fulmar",LC,U,-16731116
+90,82,"capense","Daption","Cape Petrel",LC,U,-16731116
+92,91,"antarctica","Thalassoica","Antarctic Petrel",LC,U,-16731116
+93,91,"nivea","Pagodroma","Snow Petrel",LC,U,-16731116
+98,97,"fuliginosa","Nesofregetta","White-throated Storm-petrel",EN,U,-8572416
+99,97,"marina","Pelagodroma","White-faced Storm-petrel",LC,U,-16731116
+100,96,"nereis","Garrodia","Grey-backed Storm-petrel",LC,U,-16731116
+102,101,"grallaria","Fregetta","White-bellied Storm-petrel",LC,U,-16731116
+103,101,"tropica","Fregetta","Black-bellied Storm-petrel",LC,U,-16731116
+106,105,"gracilis","Oceanites","White-vented Storm-petrel",DD,U,-11513776
+107,105,"maorianus","Oceanites","New Zealand Storm-petrel",CR,U,-3014646
+108,104,"oceanicus","Oceanites","Wilson's Storm-petrel",LC,U,-16731116
+115,114,"tethys","Oceanodroma","Wedge-rumped Storm-petrel",LC,U,-16731116
+116,114,"microsoma","Halocyptena","Least Storm-petrel",LC,U,-16731116
+118,117,"markhami","Oceanodroma","Markham's Storm-petrel",DD,U,-11513776
+119,117,"melania","Oceanodroma","Black Storm-petrel",LC,U,-16731116
+122,121,"matsudairae","Oceanodroma","Matsudaira's Storm-petrel",DD,U,-11513776
+123,121,"pelagicus","Hydrobates","European Storm-petrel",LC,U,-16731116
+124,120,"furcata","Oceanodroma","Fork-tailed Storm-petrel",LC,U,-16731116
+129,128,"monteiroi","Oceanodroma","Monteiro's Storm-petrel",VU,U,-11184866
+130,128,"tristrami","Oceanodroma","Tristram's Storm-petrel",NT,U,-12486656
+131,127,"monorhis","Oceanodroma","Swinhoe's Storm-petrel",LC,U,-16731116
+132,126,"leucorhoa","Oceanodroma","Leach's Storm-petrel",LC,U,-16731116
+133,125,"homochroa","Oceanodroma","Ashy Storm-petrel",EN,U,-8572416
+134,110,"castro","Oceanodroma","Madeiran Storm-petrel",LC,U,-16731116
+135,109,"hornbyi","Oceanodroma","Ringed Storm-petrel",DD,U,-11513776
+144,143,"pachyrhynchus","Eudyptes","Fiordland Penguin",VU,U,-11184866
+145,143,"robustus","Eudyptes","Snares Penguin",VU,U,-11184866
+147,146,"chrysolophus","Eudyptes","Macaroni Penguin",VU,U,-11184866
+148,146,"schlegeli","Eudyptes","Royal Penguin",VU,U,-11184866
+150,149,"chrysocome","Eudyptes","Southern Rockhopper Penguin",VU,U,-11184866
+151,149,"moseleyi","Eudyptes","Northern Rockhopper Penguin",EN,U,-8572416
+152,140,"sclateri","Eudyptes","Erect-crested Penguin",EN,U,-8572416
+153,139,"antipodes","Megadyptes","Yellow-eyed Penguin",EN,U,-8572416
+157,156,"magellanicus","Spheniscus","Magellanic Penguin",NT,U,-12486656
+158,156,"demersus","Spheniscus","African Penguin",EN,U,-8572416
+160,159,"mendiculus","Spheniscus","Galapagos Penguin",EN,U,-8572416
+161,159,"humboldti","Spheniscus","Humboldt Penguin",VU,U,-11184866
+162,154,"minor","Eudyptula","Little Penguin",LC,U,-16731116
+164,163,"patagonicus","Aptenodytes","King Penguin",LC,U,-16731116
+165,163,"forsteri","Aptenodytes","Emperor Penguin",LC,U,-16731116
+168,167,"antarcticus","Pygoscelis","Chinstrap Penguin",LC,U,-16731116
+169,167,"papua","Pygoscelis","Gentoo Penguin",NT,U,-12486656
+170,166,"adeliae","Pygoscelis","Adelie Penguin",LC,U,-16731116
+175,174,"adamsii","Gavia","Yellow-billed Loon",NT,U,-12486656
+176,174,"immer","Gavia","Common Loon",LC,U,-16731116
+177,173,"pacifica","Gavia","Pacific Loon",LC,U,-16731116
+178,172,"arctica","Gavia","Arctic Loon",LC,U,-16731116
+179,171,"stellata","Gavia","Red-throated Loon",LC,U,-16731116
+182,181,"rubricauda","Phaethon","Red-tailed Tropicbird",LC,U,-16731116
+183,181,"lepturus","Phaethon","White-tailed Tropicbird",LC,U,-16731116
+184,180,"aethereus","Phaethon","Red-billed Tropicbird",LC,U,-16731116

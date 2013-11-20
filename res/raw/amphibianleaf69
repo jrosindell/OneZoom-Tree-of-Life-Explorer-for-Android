@@ -1,0 +1,115 @@
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"helveticus","Lissotriton","Palmate Newt",LC,S,-16731116
+15,13,"italicus","Lissotriton","Italian Newt",LC,D,-16731116
+17,16,"vulgaris","Lissotriton","Smooth Newt",LC,S,-16731116
+18,16,"boscai","Lissotriton","Bosca's Newt",LC,S,-16731116
+19,11,"montandoni","Lissotriton","Carpathian Newt",LC,D,-16731116
+20,10,"alpestris","Mesotriton","Alpine Newt",LC,D,-16731116
+22,21,"platycephalus","Euproctus","Sardinian Brook Salamander",EN,D,-8572416
+23,21,"montanus","Euproctus","Corsican Brook Salamander",LC,S,-16731116
+29,28,"karelinii","Triturus","Southern Crested Newt",LC,D,-16731116
+30,28,"carnifex","Triturus","Italian Crested Newt",LC,D,-16731116
+31,27,"cristatus","Triturus","Great Crested Newt",LC,D,-16731116
+33,32,"pygmaeus","Triturus","Southern Marbled Newt",NT,D,-12486656
+34,32,"marmoratus","Triturus","Marbled Newt",LC,D,-16731116
+35,25,"dobrogicus","Triturus","Danube Crested Newt",NT,D,-12486656
+36,24,"asper","Calotriton","Pyrenean Brook Salamander",NT,D,-12486656
+41,40,"strauchii","Neurergus","",VU,D,-11184866
+42,40,"crocatus","Neurergus","",VU,D,-11184866
+43,39,"microspilotus","Neurergus","",CR,D,-3014646
+44,38,"kaiseri","Neurergus","",CR,D,-3014646
+45,37,"vittatus","Ommatotriton","Southern Banded Newt",LC,D,-16731116
+52,51,"deloustali","Paramesotriton","Tam Dao Salamander",VU,D,-11184866
+53,51,"chinensis","Paramesotriton","Chinese Warty Newt",LC,D,-16731116
+54,50,"laoensis","Paramesotriton","",DD,U,-11513776
+55,49,"fuzhongensis","Paramesotriton","Wanggao Warty Newt",VU,D,-11184866
+58,57,"caudopunctatus","Paramesotriton","Spot-tailed Warty Newt",NT,D,-12486656
+59,57,"guanxiensis","Paramesotriton","Guangxi Warty Newt",EN,D,-8572416
+60,56,"hongkongensis","Paramesotriton","Hong Kong Warty Newt",NT,D,-12486656
+62,61,"brevipes","Pachytriton","Black-spotted Stout Newt",LC,D,-16731116
+63,61,"labiatus","Pachytriton","Spotless Stout Newt",LC,D,-16731116
+69,68,"orientalis","Cynops","Oriental Fire-bellied Newt",LC,D,-16731116
+70,68,"wolterstorffi","Cynops","Yunnan Lake Newt",EX,U,-16777036
+71,67,"orphicus","Cynops","Dayang Newt",EN,D,-8572416
+72,66,"ensicauda","Cynops","Sword-tailed Newt",EN,D,-8572416
+73,65,"cyanurus","Cynops","Chuxiong Fire-bellied Newt",LC,D,-16731116
+75,74,"pyrrhogaster","Cynops","Japanese Fire-bellied Newt",LC,S,-16731116
+76,74,"chenggongensis","Cynops","",DD,U,-11513776
+80,79,"meridionalis","Notophthalmus","Black-spotted Newt",EN,D,-8572416
+81,79,"viridescens","Notophthalmus","Eastern Newt",LC,S,-16731116
+82,78,"perstriatus","Notophthalmus","Striped Newt",NT,D,-12486656
+85,84,"rivularis","Taricha","Redbelly Newt",LC,S,-16731116
+86,84,"torosa","Taricha","Coast Range Newt",LC,U,-16731116
+87,83,"granulosa","Taricha","Roughskin Newt",LC,S,-16731116
+94,93,"taliangensis","Tylototriton","Taliang Knobby Newt",NT,D,-12486656
+95,93,"hainanensis","Tylototriton","Hainan Knobby Newt",EN,D,-8572416
+96,92,"wenxianensis","Tylototriton","Wenxian Knobby Newt",VU,D,-11184866
+99,98,"kweichowensis","Tylototriton","Red-tailed Knobby Newt",VU,D,-11184866
+100,98,"asperrimus","Tylototriton","Black Knobby Newt",NT,D,-12486656
+101,97,"verrucosus","Tylototriton","Crocodile Newt",LC,U,-16731116
+102,90,"shanjing","Tylototriton","",NT,D,-12486656
+104,103,"andersoni","Echinotriton","Anderson's Crocodile Newt",EN,D,-8572416
+105,103,"chinhaiensis","Echinotriton","Chinhai Spiny Newt",CR,D,-3014646
+108,107,"nebulosus","Pleurodeles","Algerian Ribbed Newt",VU,D,-11184866
+109,107,"waltl","Pleurodeles","Sharp-ribbed Salamander",NT,D,-12486656
+110,106,"poireti","Pleurodeles","Edough Ribbed Newt",EN,D,-8572416
+111,3,"terdigitata","Salamandrina","Spectacled Salamander",LC,S,-16731116
+119,118,"antalyana","Lyciasalamandra","",EN,D,-8572416
+120,118,"fazilae","Lyciasalamandra","",EN,S,-8572416
+121,117,"luschani","Lyciasalamandra","",VU,S,-11184866
+122,116,"flavimembris","Lyciasalamandra","",EN,D,-8572416
+125,124,"helverseni","Lyciasalamandra","",VU,S,-11184866
+126,124,"billae","Lyciasalamandra","",CR,D,-3014646
+127,123,"atifi","Lyciasalamandra","",EN,S,-8572416
+128,114,"lusitanica","Chioglossa","Golden-striped Salamander",VU,D,-11184866
+133,132,"salamandra","Salamandra","Common Fire Salamander",LC,D,-16731116
+134,132,"corsica","Salamandra","Corsican Fire Salamander",LC,S,-16731116
+135,131,"lanzai","Salamandra","Lanza's Alpine Salamander",VU,S,-11184866
+136,130,"algira","Salamandra","North African Fire Salamander",VU,D,-11184866
+138,137,"infraimmaculata","Salamandra","Arouss Al Ayn",NT,D,-12486656
+139,137,"atra","Salamandra","Alpine Salamander",LC,D,-16731116
+140,112,"caucasica","Mertensiella","Caucasian Salamander",VU,D,-11184866
+153,152,"laterale","Ambystoma","Blue-spotted Salamander",LC,S,-16731116
+154,152,"rivulare","Ambystoma","",DD,U,-11513776
+155,151,"barbouri","Ambystoma","Streamside Salamander",NT,D,-12486656
+156,150,"tigrinum","Ambystoma","Tiger Salamander",LC,S,-16731116
+157,149,"ordinarium","Ambystoma","Michoacan Stream Salamander",EN,D,-8572416
+161,160,"velasci","Ambystoma","Plateau Tiger Salamander",LC,D,-16731116
+162,160,"gracile","Ambystoma","Northwestern Salamander",LC,S,-16731116
+163,159,"texanum","Ambystoma","Smallmouth Salamander",LC,S,-16731116
+164,158,"leorae","Ambystoma","Leora's Stream Salamander",CR,D,-3014646
+167,166,"macrodactylum","Ambystoma","Long-toed Salamander",LC,S,-16731116
+168,166,"bombypellum","Ambystoma","Axolotl",CR,D,-3014646
+169,165,"opacum","Ambystoma","Marbled Salamander",LC,S,-16731116
+171,170,"annulatum","Ambystoma","Ringed Salamander",LC,S,-16731116
+172,170,"altamirani","Ambystoma","",EN,D,-8572416
+174,173,"mexicanum","Ambystoma","Axolotl",CR,D,-3014646
+175,173,"andersoni","Ambystoma","",CR,D,-3014646
+178,177,"cingulatum","Ambystoma","Frosted Flatwoods Salamander",VU,D,-11184866
+179,177,"dumerilii","Ambystoma","",CR,D,-3014646
+181,180,"mabeei","Ambystoma","Mabee's Salamander",LC,D,-16731116
+182,180,"amblycephalum","Ambystoma","",CR,D,-3014646
+186,185,"taylori","Ambystoma","Taylor's Salamander",CR,D,-3014646
+187,185,"flavipiperatum","Ambystoma","",DD,U,-11513776
+188,184,"maculatum","Ambystoma","Spotted Salamander",LC,S,-16731116
+189,183,"silvensis","Ambystoma","",NE,U,-16777216
+193,192,"californiense","Ambystoma","California Tiger Salamander",VU,D,-11184866
+194,192,"granulosum","Ambystoma","Granular Salamander",CR,D,-3014646
+196,195,"jeffersonianum","Ambystoma","Jefferson Salamander",LC,S,-16731116
+197,195,"talpoideum","Ambystoma","Mole Salamander",LC,S,-16731116
+199,198,"lermaense","Ambystoma","Lake Lerma Salamander",CR,D,-3014646
+200,198,"rosaceum","Ambystoma","Tarahumara Salamander",LC,U,-16731116
+204,203,"ensatus","Dicamptodon","California Giant Salamander",NT,U,-12486656
+205,203,"tenebrosus","Dicamptodon","Pacific Giant Salamander",LC,S,-16731116
+206,202,"copei","Dicamptodon","Cope's Giant Salamander",LC,S,-16731116
+207,201,"aterrimus","Dicamptodon","Idaho Giant Salamander",LC,S,-16731116
+213,212,"beyeri","Necturus","Gulf Coast Waterdog",LC,U,-16731116
+214,212,"punctatus","Necturus","Dwarf Waterdog",LC,U,-16731116
+215,211,"alabamensis","Necturus","Alabama Waterdog",EN,D,-8572416
+217,216,"lewisi","Necturus","Neuse River Waterdog",NT,D,-12486656
+218,216,"maculosus","Necturus","Mudpuppy",LC,S,-16731116
+219,209,"anguinus","Proteus","Olm",VU,D,-11184866
+222,221,"axanthus","Pseudobranchus","Narrow-striped Dwarf Siren",LC,D,-16731116
+223,221,"striatus","Pseudobranchus","Dwarf Siren",LC,D,-16731116
+225,224,"lacertina","Siren","Greater Siren",LC,U,-16731116
+226,224,"intermedia","Siren","Lesser Siren",LC,U,-16731116

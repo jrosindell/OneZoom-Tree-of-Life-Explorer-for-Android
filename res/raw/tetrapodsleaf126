@@ -1,123 +1,52 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"alboguttata","Litoria","Striped Burrowing Frog",LC,S,-16731116
-12,10,"verrucosa","Litoria","Rough Frog",LC,S,-16731116
-13,9,"cryptotis","Litoria","Hidden-ear Frog",LC,S,-16731116
-14,8,"manya","Litoria","Small Frog",LC,S,-16731116
-16,15,"platycephala","Litoria","Water-holding Frog",LC,S,-16731116
-17,15,"maini","Litoria","Main's Frog",LC,S,-16731116
-20,19,"novaehollandiae","Litoria","New Holland Frog",LC,S,-16731116
-21,19,"longipes","Litoria","Long-footed Frog",LC,S,-16731116
-23,22,"australis","Litoria","Giant Frog",LC,S,-16731116
-24,22,"vagitus","Litoria","Wailing Frog",LC,S,-16731116
-27,26,"maculosa","Litoria","Daly Waters Frog",LC,S,-16731116
-28,26,"brevipes","Litoria","Collared Frog",LC,S,-16731116
-29,25,"cultripes","Litoria","Knife-footed Frog",LC,S,-16731116
-39,38,"ayeaye","Phyllomedusa","",CR,D,-3014646
-40,38,"rohdei","Phyllomedusa","",LC,S,-16731116
-41,37,"hypochondrialis","Phyllomedusa","",LC,S,-16731116
-42,36,"megacephala","Phyllomedusa","",DD,U,-11513776
-46,45,"trinitatis","Phyllomedusa","",LC,S,-16731116
-47,45,"bicolor","Phyllomedusa","",LC,S,-16731116
-48,44,"oreades","Phyllomedusa","",DD,U,-11513776
-49,43,"centralis","Phyllomedusa","",DD,U,-11513776
-54,53,"coelestis","Phyllomedusa","",LC,U,-16731116
-55,53,"duellmani","Phyllomedusa","",DD,U,-11513776
-56,52,"ecuatoriana","Phyllomedusa","",EN,D,-8572416
-58,57,"vaillantii","Phyllomedusa","",LC,S,-16731116
-59,57,"baltea","Phyllomedusa","",EN,D,-8572416
-60,50,"perinesos","Phyllomedusa","",DD,U,-11513776
-66,65,"burmeisteri","Phyllomedusa","",LC,S,-16731116
-67,65,"iheringii","Phyllomedusa","",LC,U,-16731116
-68,64,"tomopterna","Phyllomedusa","",LC,S,-16731116
-69,63,"atelopoides","Phyllomedusa","",LC,U,-16731116
-71,70,"tetraploidea","Phyllomedusa","",LC,S,-16731116
-72,70,"distincta","Phyllomedusa","",LC,D,-16731116
-77,76,"sauvagii","Phyllomedusa","",LC,S,-16731116
-78,76,"tarsius","Phyllomedusa","",LC,S,-16731116
-80,79,"boliviana","Phyllomedusa","",LC,S,-16731116
-81,79,"camba","Phyllomedusa","",LC,S,-16731116
-82,74,"palliata","Phyllomedusa","",LC,S,-16731116
-83,73,"venusta","Phyllomedusa","",LC,D,-16731116
-88,87,"appendiculata","Phrynomedusa","",NT,D,-12486656
-89,87,"vanzolinii","Phrynomedusa","",DD,U,-11513776
-90,86,"bokermanni","Phrynomedusa","",DD,U,-11513776
-91,85,"fimbriata","Phrynomedusa","",EX,U,-16777036
-92,84,"marginata","Phrynomedusa","",LC,D,-16731116
-94,93,"calcarifer","Cruziohyla","Splendid Treefrog",LC,D,-16731116
-95,93,"craspedopus","Cruziohyla","",LC,D,-16731116
-102,101,"callidryas","Agalychnis","Red-eyed Treefrog",LC,D,-16731116
-103,101,"moreletii","Agalychnis","Morelet's Treefrog",CR,D,-3014646
-105,104,"spurrelli","Agalychnis","Gliding Treefrog",LC,D,-16731116
-106,104,"annae","Agalychnis","Blue-sided Treefrog",EN,D,-8572416
-108,107,"litodryas","Agalychnis","Pink-sided Treefrog",VU,D,-11184866
-109,107,"saltator","Agalychnis","",LC,S,-16731116
-110,98,"dacnicolor","Pachymedusa","",LC,D,-16731116
-115,114,"psilopygion","Hylomantis","",DD,U,-11513776
-116,114,"lemur","Hylomantis","",CR,D,-3014646
-117,113,"buckleyi","Hylomantis","",LC,U,-16731116
-120,119,"medinai","Hylomantis","",NE,U,-16777216
-121,119,"hulli","Hylomantis","",LC,D,-16731116
-122,118,"danieli","Hylomantis","",DD,U,-11513776
-124,123,"granulosa","Hylomantis","",LC,D,-16731116
-125,123,"aspera","Hylomantis","",LC,D,-16731116
-129,128,"guttata","Phasmahyla","",LC,D,-16731116
-130,128,"exilis","Phasmahyla","",LC,D,-16731116
-131,127,"jandaia","Phasmahyla","",LC,D,-16731116
-132,126,"cochranae","Phasmahyla","",LC,D,-16731116
-147,146,"microdiscus","Gastrotheca","",LC,D,-16731116
-148,146,"ossilaginis","Gastrotheca","",DD,U,-11513776
-149,145,"nicefori","Gastrotheca","",LC,S,-16731116
-150,144,"plumbea","Gastrotheca","",VU,D,-11184866
-152,151,"albolineata","Gastrotheca","",LC,D,-16731116
-153,151,"pseustes","Gastrotheca","",EN,D,-8572416
-155,154,"trachyceps","Gastrotheca","",EN,D,-8572416
-156,154,"ruizi","Gastrotheca","",EN,D,-8572416
-157,141,"longipes","Gastrotheca","",LC,D,-16731116
-160,159,"gracilis","Gastrotheca","",VU,D,-11184866
-161,159,"cornuta","Gastrotheca","",EN,D,-8572416
-162,158,"phalarosa","Gastrotheca","",DD,U,-11513776
-165,164,"pacchamama","Gastrotheca","",DD,U,-11513776
-166,164,"galeata","Gastrotheca","",DD,U,-11513776
-168,167,"rebeccae","Gastrotheca","",DD,U,-11513776
-169,167,"atympana","Gastrotheca","",DD,U,-11513776
-171,170,"williamsoni","Gastrotheca","",DD,U,-11513776
-172,170,"orophylax","Gastrotheca","",EN,D,-8572416
-175,174,"lateonota","Gastrotheca","",DD,U,-11513776
-176,174,"excubitor","Gastrotheca","",VU,D,-11184866
-177,173,"christiani","Gastrotheca","",EN,D,-8572416
-182,181,"testudinea","Gastrotheca","",LC,D,-16731116
-183,181,"abdita","Gastrotheca","",DD,U,-11513776
-184,180,"fissipes","Gastrotheca","",LC,S,-16731116
-186,185,"argenteovirens","Gastrotheca","",LC,S,-16731116
-187,185,"piperata","Gastrotheca","",LC,U,-16731116
-189,188,"zeugocystis","Gastrotheca","",CR,D,-3014646
-190,188,"peruana","Gastrotheca","",LC,S,-16731116
-196,195,"psychrophila","Gastrotheca","",EN,D,-8572416
-197,195,"riobambae","Gastrotheca","",EN,D,-8572416
-199,198,"walkeri","Gastrotheca","",DD,U,-11513776
-200,198,"bufona","Gastrotheca","",EN,D,-8572416
-203,202,"lauzuricae","Gastrotheca","",CR,D,-3014646
-204,202,"monticola","Gastrotheca","",LC,S,-16731116
-205,201,"dendronastes","Gastrotheca","",VU,D,-11184866
-207,206,"andaquiensis","Gastrotheca","",NT,D,-12486656
-208,206,"griswoldi","Gastrotheca","",LC,S,-16731116
-211,210,"guentheri","Gastrotheca","",VU,D,-11184866
-212,210,"ovifera","Gastrotheca","",EN,D,-8572416
-213,209,"aureomaculata","Gastrotheca","",NT,S,-12486656
-220,219,"marsupiata","Gastrotheca","",LC,S,-16731116
-221,219,"weinlandii","Gastrotheca","",DD,U,-11513776
-222,218,"chrysosticta","Gastrotheca","",VU,D,-11184866
-223,217,"litonedis","Gastrotheca","",EN,D,-8572416
-224,216,"helenae","Gastrotheca","",DD,U,-11513776
-226,225,"angustifrons","Gastrotheca","",VU,D,-11184866
-227,225,"espeletia","Gastrotheca","",EN,D,-8572416
-231,230,"antomia","Gastrotheca","",VU,D,-11184866
-232,230,"dunni","Gastrotheca","",LC,S,-16731116
-233,229,"splendens","Gastrotheca","",EN,D,-8572416
-235,234,"stictopleura","Gastrotheca","",EN,D,-8572416
-236,234,"ochoai","Gastrotheca","",DD,U,-11513776
-240,239,"fitzgeraldi","Flectonotus","",EN,D,-8572416
-241,239,"ohausi","Flectonotus","",LC,S,-16731116
-243,242,"pygmaeus","Flectonotus","",LC,U,-16731116
-244,242,"goeldii","Flectonotus","",LC,S,-16731116
-245,237,"fissilis","Flectonotus","",LC,S,-16731116
+9,8,"aeruginosus","Circus","Western Marsh-harrier",LC,U,-16731116
+10,8,"ranivorus","Circus","African Marsh-harrier",LC,U,-16731116
+12,11,"buffoni","Circus","Long-winged Harrier",LC,U,-16731116
+13,11,"pygargus","Circus","Montagu's Harrier",LC,U,-16731116
+17,16,"cinereus","Circus","Cinereous Harrier",LC,U,-16731116
+18,16,"cyaneus","Circus","Northern Harrier",LC,U,-16731116
+19,15,"macrosceles","Circus","Madagascar Harrier",VU,U,-11184866
+20,14,"maillardi","Circus","Reunion Harrier",EN,U,-8572416
+26,25,"spilonotus","Circus","Eastern Marsh-harrier",LC,U,-16731116
+27,25,"assimilis","Circus","Spotted Harrier",LC,U,-16731116
+28,24,"maurus","Circus","Black Harrier",VU,U,-11184866
+29,23,"macrourus","Circus","Pallid Harrier",NT,U,-12486656
+30,22,"approximans","Circus","Swamp Harrier",LC,U,-16731116
+31,21,"melanoleucos","Circus","Pied Harrier",LC,U,-16731116
+32,4,"francesiae","Accipiter","Frances's Sparrowhawk",LC,U,-16731116
+39,38,"minullus","Accipiter","Little Sparrowhawk",LC,U,-16731116
+40,38,"albogularis","Accipiter","Pied Goshawk",LC,U,-16731116
+41,37,"poliocephalus","Accipiter","Grey-headed Goshawk",LC,U,-16731116
+44,43,"henicogrammus","Accipiter","Moluccan Goshawk",LC,U,-16731116
+45,43,"princeps","Accipiter","New Britain Goshawk",VU,U,-11184866
+46,42,"gentilis","Accipiter","Northern Goshawk",LC,U,-16731116
+48,47,"meyerianus","Accipiter","Meyer's Goshawk",LC,U,-16731116
+49,47,"nanus","Accipiter","Small Sparrowhawk",NT,U,-12486656
+51,50,"luteoschistaceus","Accipiter","Slaty-mantled Sparrowhawk",VU,U,-11184866
+52,50,"melanochlamys","Accipiter","Black-mantled Goshawk",LC,U,-16731116
+55,54,"haplochrous","Accipiter","White-bellied Goshawk",NT,U,-12486656
+56,54,"cooperii","Accipiter","Cooper's Hawk",LC,U,-16731116
+57,53,"bicolor","Accipiter","Bicoloured Hawk",LC,U,-16731116
+58,2,"tachiro","Accipiter","African Goshawk",LC,U,-16731116
+64,63,"imitator","Accipiter","Imitator Sparrowhawk",VU,U,-11184866
+65,63,"novaehollandiae","Accipiter","Grey Goshawk",LC,U,-16731116
+66,62,"griseiceps","Accipiter","Sulawesi Goshawk",LC,U,-16731116
+69,68,"chionogaster","Accipiter","White-breasted Hawk",_U,[,-16777216
+70,68,"fasciatus","Accipiter","Brown Goshawk",LC,U,-16731116
+71,67,"ventralis","Accipiter","Plain-breasted Hawk",_U,[,-16777216
+73,72,"erythrauchen","Accipiter","Rufous-necked Sparrowhawk",LC,U,-16731116
+74,72,"poliogaster","Accipiter","Gray-bellied Hawk",LC,U,-16731116
+79,78,"rufiventris","Accipiter","Rufous-chested Sparrowhawk",LC,U,-16731116
+80,78,"erythronemius","Accipiter","Rufous-thighed Hawk",_U,[,-16777216
+81,77,"striatus","Accipiter","Sharp-shinned Hawk",LC,U,-16731116
+82,76,"nisus","Accipiter","Eurasian Sparrowhawk",LC,U,-16731116
+83,75,"badius","Accipiter","Shikra",LC,U,-16731116
+90,89,"ovampensis","Accipiter","Ovampo Sparrowhawk",LC,U,-16731116
+91,89,"trivirgatus","Accipiter","Crested Goshawk",LC,U,-16731116
+93,92,"collaris","Accipiter","Semicollared Hawk",NT,U,-12486656
+94,92,"superciliosus","Accipiter","Tiny Hawk",LC,U,-16731116
+95,87,"rhodogaster","Accipiter","Vinous-breasted Sparrowhawk",LC,U,-16731116
+96,86,"butleri","Accipiter","Nicobar Sparrowhawk",VU,U,-11184866
+97,85,"castanilius","Accipiter","Chestnut-flanked Sparrowhawk",LC,U,-16731116
+99,98,"brachyurus","Accipiter","New Britain Sparrowhawk",VU,U,-11184866
+100,98,"melanoleucus","Accipiter","Black Goshawk",LC,U,-16731116

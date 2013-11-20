@@ -1,113 +1,50 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"typus","Otomys","Typical Vlei Rat",LC,D,-16731116
-18,16,"orestes","Otomys","",NE,U,-16777216
-20,19,"dartmouthi","Otomys","",NE,U,-16777216
-21,19,"jacksoni","Otomys","",NE,U,-16777216
-22,14,"uzungwensis","Otomys","",NE,U,-16777216
-23,13,"sloggetti","Myotomys","",NE,U,-16777216
-25,24,"irroratus","Otomys","Southern African Vlei Rat",LC,S,-16731116
-26,24,"angoniensis","Otomys","Angoni Vlei Rat",LC,S,-16731116
-27,11,"laminatus","Otomys","Laminate Vlei Rat",LC,S,-16731116
-32,31,"cuanzensis","Otomys","Cuanza Vlei Rat",LC,S,-16731116
-33,31,"maximus","Otomys","",NE,U,-16777216
-34,30,"occidentalis","Otomys","Western Vlei Rat",VU,D,-11184866
-35,29,"denti","Otomys","Dent's Vlei Rat",LC,D,-16731116
-38,37,"burtoni","Otomys","Burton's Vlei Rat",EN,D,-8572416
-39,37,"dollmani","Otomys","",NE,U,-16777216
-40,36,"tropicalis","Otomys","Tropical Vlei Rat",LC,S,-16731116
-45,44,"barbouri","Otomys","Barbour's Vlei Rat",EN,D,-8572416
-46,44,"anchietae","Otomys","Angolan Vlei Rat",LC,U,-16731116
-47,43,"lacustris","Otomys","Tanzanian Vlei Rat",VU,D,-11184866
-48,42,"unisulcatus","Myotomys","",NE,U,-16777216
-49,41,"saundersiae","Otomys","Saunder's Vlei Rat",LC,U,-16731116
-51,50,"littledalei","Parotomys","Littledale's Whistling Rat",LC,S,-16731116
-52,50,"brantsii","Parotomys","Brants's Whistling Rat",LC,S,-16731116
-53,7,"legata","Diplothrix","Ryukyus Islands Tree Rat",EN,D,-8572416
-60,59,"celebensis","Crunomys","Sulawesi Shrew Mouse",DD,D,-11513776
-61,59,"melanius","Crunomys","Mindanao Shrew Mouse",VU,D,-11184866
-62,58,"fallax","Crunomys","Luzon Shrew Mouse",DD,U,-11513776
-63,57,"luzonensis","Archboldomys","Isarog Shrew Mouse",VU,S,-11184866
-67,66,"mindorensis","Chrotomys","Lowland Chrotomys",NT,D,-12486656
-68,66,"whiteheadi","Chrotomys","Montane Chrotomys",LC,U,-16731116
-69,65,"gonzalesi","Chrotomys","Isarog Chrotomys",NT,D,-12486656
-70,64,"silaceus","Chrotomys","Blazed Luzon Chrotomys",LC,U,-16731116
-72,71,"soricoides","Rhynchomys","Northern Luzon Rhynchomys",NT,D,-12486656
-73,71,"isarogensis","Rhynchomys","Isarog Rhynchomys",VU,S,-11184866
-80,79,"abrae","Apomys","Luzon Cordillera Apomys",DD,U,-11513776
-81,79,"microdon","Apomys","Small Luzon Apomys",LC,U,-16731116
-82,78,"insignis","Apomys","Mindanao Montane Forest Apomys",NT,D,-12486656
-83,77,"sacobianus","Apomys","Long-nosed Luzon Apomys",DD,U,-11513776
-84,76,"datae","Apomys","Northern Luzon Apomys",LC,U,-16731116
-86,85,"hylocetes","Apomys","Mindanao Mossy Forest Apomys",LC,S,-16731116
-87,85,"musculus","Apomys","Least Philippine Apomys",LC,S,-16731116
-88,74,"littoralis","Apomys","Mindanao Lowland Apomys",DD,U,-11513776
-93,92,"schadenbergi","Crateromys","Luzon Crateromys",EN,D,-8572416
-94,92,"australis","Crateromys","Dinagat Crateromys",CR,U,-3014646
-95,91,"paulus","Crateromys","Ilin Crateromys",DD,U,-11513776
-97,96,"melanurus","Carpomys","Large Luzon Carpomys",DD,U,-11513776
-98,96,"phaeurus","Carpomys","Small Luzon Carpomys",LC,U,-16731116
-101,100,"dentatus","Batomys","Large-toothed Batomys",DD,U,-11513776
-102,100,"salomonseni","Batomys","Mindanao Batomys",LC,S,-16731116
-103,99,"granti","Batomys","Luzon Batomys",NT,D,-12486656
-111,110,"ruppi","Stenocephalemys","Rupp's Mouse",DD,U,-11513776
-112,110,"yemeni","Myomyscus","Yemeni Mouse",LC,U,-16731116
-113,109,"verreauxii","Myomyscus","Verreaux's Mouse",LC,S,-16731116
-114,108,"albipes","Stenocephalemys","Ethiopian White-footed Mouse",LC,S,-16731116
-117,116,"brockmani","Myomyscus","Brockman's Myomyscus",LC,S,-16731116
-118,116,"daltoni","Praomys","Dalton's Mouse",LC,S,-16731116
-119,115,"derooi","Praomys","Deroo's Mouse",LC,S,-16731116
-121,120,"griseicauda","Stenocephalemys","Gray-tailed Narrow-headed Rat",LC,D,-16731116
-122,120,"albocaudata","Stenocephalemys","Ethiopian Narrow-headed Rat",LC,S,-16731116
-128,127,"verschureni","Praomys","Verschuren's Swamp Rat",DD,U,-11513776
-129,127,"lukolelae","Praomys","Lukolela Swamp Rat",LC,U,-16731116
-130,126,"longipes","Malacomys","Big-eared Swamp Rat",LC,U,-16731116
-131,125,"cansdalei","Malacomys","Cansdale's Swamp Rat",LC,U,-16731116
-132,124,"edwardsi","Malacomys","Edward's Swamp Rat",LC,U,-16731116
-133,123,"crumpi","Diomys","Crump's Mouse",DD,U,-11513776
-140,139,"taerae","Taeromys","Northeastern Mountain Taeromys",DD,U,-11513776
-141,139,"punicans","Taeromys","Reddish-furred Taeromys",DD,U,-11513776
-142,138,"celebensis","Taeromys","Long-tailed Taeromys",LC,D,-16731116
-143,137,"arcuatus","Taeromys","Southeastern Mountain Taeromys",DD,S,-11513776
-144,136,"hamatus","Taeromys","Central Mountain Taeromys",DD,U,-11513776
-146,145,"microbullatus","Taeromys","Small-eared Taeromys",DD,U,-11513776
-147,145,"callitrichus","Taeromys","Greater Taeromys",DD,U,-11513776
-152,151,"siporanus","Leopoldamys","Mentawai Archipelago Leopoldamys",EN,D,-8572416
-153,151,"neilli","Leopoldamys","Neill's Leopoldamys",DD,U,-11513776
-154,150,"sabanus","Leopoldamys","Long-tailed Giant Rat",LC,S,-16731116
-157,156,"ciliatus","Leopoldamys","Sundaic Mountain Leopoldamys",LC,D,-16731116
-158,156,"edwardsi","Leopoldamys","Edward's Rat",LC,U,-16731116
-159,155,"milleti","Leopoldamys","Millet's Leopoldamys",LC,S,-16731116
-160,148,"dominator","Paruromys","Giant Sulawesi Rat",LC,S,-16731116
-161,3,"chiropus","Chiromyscus","Indochinese Chiromyscus",LC,S,-16731116
-168,167,"emini","Cricetomys","Forest Giant Pouched Rat",LC,S,-16731116
-169,167,"kivuensis","Cricetomys","",NE,U,-16777216
-171,170,"gambianus","Cricetomys","Gambian Rat",LC,S,-16731116
-172,170,"ansorgei","Cricetomys","",NE,U,-16777216
-174,173,"hindei","Beamys","Long-tailed Pouched Rat",LC,D,-16731116
-175,173,"major","Beamys","",NE,U,-16777216
-177,176,"mearnsi","Saccostomus","East African Pouched Mouse",LC,S,-16731116
-178,176,"campestris","Saccostomus","Pouched Mouse",LC,S,-16731116
-182,181,"shortridgei","Petromyscus","Shortridge's Rock Mouse",LC,S,-16731116
-183,181,"barbouri","Petromyscus","Barbour's Rock Mouse",LC,S,-16731116
-185,184,"monticularis","Petromyscus","Brukkaros Pygmy Rock Mouse",LC,S,-16731116
-186,184,"collinus","Petromyscus","Pygmy Rock Mouse",LC,S,-16731116
-187,179,"brooksi","Delanymys","Delany's Mouse",VU,D,-11184866
-197,196,"uralensis","Spalax","Kazakhstan Blind Mole Rat",NT,U,-12486656
-198,196,"giganteus","Spalax","Giant Blind Mole Rat",VU,D,-11184866
-199,195,"zemni","Spalax","Podolian Mole Rat",VU,D,-11184866
-200,194,"arenarius","Spalax","Sandy Mole Rat",EN,D,-8572416
-201,193,"graecus","Spalax","Balkan Blind Mole Rat",NT,U,-12486656
-202,192,"microphthalmus","Spalax","Greater Blind Mole Rat",LC,S,-16731116
-205,204,"ehrenbergi","Spalax","Middle East Blind Mole Rat",DD,D,-11513776
-206,204,"nehringi","Spalax","Nehring's Bilind Mole Rat",DD,U,-11513776
-207,203,"leucodon","Spalax","Lesser Blind Mole Rat",DD,D,-11513776
-208,190,"albicaudatus","Mystromys","White-tailed Mouse",EN,D,-8572416
-213,212,"elburzensis","Calomyscus","Goodwin's Brush-tailed Mouse",LC,U,-16731116
-214,212,"mystax","Calomyscus","Afghan Mouse-like Hamster",LC,S,-16731116
-215,211,"baluchi","Calomyscus","Baluchi Brush-tailed Mouse",LC,U,-16731116
-218,217,"bailwardi","Calomyscus","Mouse-like Hamster",LC,U,-16731116
-219,217,"grandis","Calomyscus","Noble Calomyscus",DD,U,-11513776
-220,216,"tsolovi","Calomyscus","Syrian Calomyscus",DD,U,-11513776
-222,221,"hotsoni","Calomyscus","Hotson's Brush-tailed Mouse",LC,U,-16731116
-223,221,"urartensis","Calomyscus","Urar Calomyscus",LC,U,-16731116
-224,188,"ferrugineus","Deomys","Congo Forest Mouse",LC,S,-16731116
+9,8,"rufiventris","Neoxolmis","Chocolate-vented Tyrant",LC,U,-16731116
+10,8,"rubetra","Xolmis","Rusty-backed Monjita",LC,U,-16731116
+11,7,"coronatus","Xolmis","Black-crowned Monjita",LC,U,-16731116
+14,13,"salinarum","Xolmis","Salinas Monjita",NT,U,-12486656
+15,13,"cinereus","Xolmis","Grey Monjita",LC,U,-16731116
+16,12,"vetula","Muscipipra","Shear-tailed Grey-tyrant",LC,U,-16731116
+20,19,"micropterus","Agriornis","Grey-bellied Shrike-tyrant",LC,U,-16731116
+21,19,"montanus","Agriornis","Black-billed Shrike-tyrant",LC,U,-16731116
+23,22,"albicauda","Agriornis","White-tailed Shrike-tyrant",VU,U,-11184866
+24,22,"lividus","Agriornis","Great Shrike-tyrant",LC,U,-16731116
+25,17,"murinus","Agriornis","Lesser Shrike-tyrant",LC,U,-16731116
+30,29,"striaticollis","Myiotheretes","Streak-throated Bush-tyrant",LC,U,-16731116
+31,29,"fuscorufus","Myiotheretes","Rufous-bellied Bush-tyrant",LC,U,-16731116
+32,28,"fumigatus","Myiotheretes","Smoky Bush-tyrant",LC,U,-16731116
+33,27,"pernix","Myiotheretes","Santa Marta Bush-tyrant",EN,U,-8572416
+35,34,"dominicanus","Xolmis","Black-and-white Monjita",VU,U,-11184866
+36,34,"pyrope","Xolmis","Fire-eyed Diucon",LC,U,-16731116
+38,37,"velatus","Xolmis","White-rumped Monjita",LC,U,-16731116
+39,37,"irupero","Xolmis","White Monjita",LC,U,-16731116
+41,40,"rufipennis","Polioxolmis","Rufous-webbed Bush-tyrant",LC,U,-16731116
+42,40,"erythropygius","Cnemarchus","Red-rumped Bush-tyrant",LC,U,-16731116
+50,49,"capistratus","Muscisaxicola","Cinnamon-bellied Ground-tyrant",LC,U,-16731116
+51,49,"frontalis","Muscisaxicola","Black-fronted Ground-tyrant",LC,U,-16731116
+53,52,"maclovianus","Muscisaxicola","Dark-faced Ground-tyrant",LC,U,-16731116
+54,52,"alpinus","Muscisaxicola","Plain-capped Ground-tyrant",LC,U,-16731116
+55,47,"albilora","Muscisaxicola","White-browed Ground-tyrant",LC,U,-16731116
+59,58,"albifrons","Muscisaxicola","White-fronted Ground-tyrant",LC,U,-16731116
+60,58,"rufivertex","Muscisaxicola","Rufous-naped Ground-tyrant",LC,U,-16731116
+62,61,"flavinucha","Muscisaxicola","Ochre-naped Ground-tyrant",LC,U,-16731116
+63,61,"cinereus","Muscisaxicola","Cinereous Ground-tyrant",LC,U,-16731116
+64,56,"juninensis","Muscisaxicola","Puna Ground-tyrant",LC,U,-16731116
+65,45,"maculirostris","Muscisaxicola","Spot-billed Ground-tyrant",LC,U,-16731116
+66,44,"icterophrys","Satrapa","Yellow-browed Tyrant",LC,U,-16731116
+68,67,"griseus","Muscisaxicola","Taczanowski's Ground-tyrant",LC,U,-16731116
+69,67,"fluviatilis","Muscisaxicola","Little Ground-tyrant",LC,U,-16731116
+78,77,"poecilocercus","Knipolegus","Amazonian Black-tyrant",LC,U,-16731116
+79,77,"aterrimus","Knipolegus","White-winged Black-tyrant",LC,U,-16731116
+80,76,"cyanirostris","Knipolegus","Blue-billed Black-tyrant",LC,U,-16731116
+82,81,"hudsoni","Knipolegus","Hudson's Black-tyrant",LC,U,-16731116
+83,81,"striaticeps","Knipolegus","Cinereous Tyrant",LC,U,-16731116
+84,74,"signatus","Knipolegus","Andean Tyrant",LC,U,-16731116
+87,86,"nigerrimus","Knipolegus","Velvety Black-tyrant",LC,U,-16731116
+88,86,"lophotes","Knipolegus","Crested Black-tyrant",LC,U,-16731116
+89,85,"franciscanus","Knipolegus","Brazilian Black-tyrant",NT,U,-12486656
+91,90,"poecilurus","Knipolegus","Rufous-tailed Tyrant",LC,U,-16731116
+92,90,"orenocensis","Knipolegus","Riverside Tyrant",LC,U,-16731116
+93,71,"perspicillatus","Hymenops","Spectacled Tyrant",LC,U,-16731116
+95,94,"rufa","Lessonia","Patagonian Negrito",LC,U,-16731116
+96,94,"oreas","Lessonia","Andean Negrito",LC,U,-16731116

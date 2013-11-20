@@ -1,0 +1,50 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"harenna","Crocidura","Harenna Shrew",CR,D,-3014646
+13,11,"negrina","Crocidura","Negros Shrew",EN,D,-8572416
+15,14,"hildegardeae","Crocidura","Hildegarde's Shrew",LC,U,-16731116
+16,14,"virgata","Crocidura","",DD,U,-11513776
+17,9,"flavescens","Crocidura","Greater Red Musk Shrew",LC,U,-16731116
+18,8,"crenata","Crocidura","Long-footed Shrew",LC,U,-16731116
+19,7,"gracilipes","Crocidura","Peter's Musk Shrew",DD,U,-11513776
+22,21,"crossei","Crocidura","Crosse's Shrew",LC,U,-16731116
+23,21,"jouvenetae","Crocidura","",LC,U,-16731116
+24,20,"grandiceps","Crocidura","Large-headed Forest Shrew",NT,U,-12486656
+25,5,"poensis","Crocidura","Fraser's Musk Shrew",LC,U,-16731116
+30,29,"greenwoodi","Crocidura","Greenwood's Shrew",LC,U,-16731116
+31,29,"tarfayensis","Crocidura","Saharan Shrew",DD,D,-11513776
+32,28,"maxi","Crocidura","Javanese Shrew",LC,U,-16731116
+34,33,"maquassiensis","Crocidura","Makwassie Musk Shrew",LC,U,-16731116
+35,33,"maurisca","Crocidura","Dark Shrew",LC,U,-16731116
+36,26,"caliginea","Crocidura","African Dusky Shrew",LC,U,-16731116
+38,37,"theresae","Crocidura","Therese's Shrew",LC,U,-16731116
+39,37,"nigeriae","Crocidura","Nigerian Shrew",LC,U,-16731116
+48,47,"wuchihensis","Crocidura","Hainan Island Shrew",DD,U,-11513776
+49,47,"horsfieldii","Crocidura","Horsefield's Shrew",DD,U,-11513776
+50,46,"watasei","Crocidura","Lesser Ryukyu Shrew",LC,S,-16731116
+51,45,"indochinensis","Crocidura","Indochinese Shrew",LC,U,-16731116
+53,52,"serezkyensis","Crocidura","Serezkaya Shrew",LC,U,-16731116
+54,52,"arispa","Crocidura","Jackass Shrew",LC,U,-16731116
+56,55,"cinderella","Crocidura","Cinderella Shrew",LC,U,-16731116
+57,55,"xantippe","Crocidura","Vermiculate Shrew",LC,S,-16731116
+60,59,"canariensis","Crocidura","Canarian Shrew",EN,D,-8572416
+61,59,"grayi","Crocidura","Luzon Shrew",LC,U,-16731116
+62,58,"miya","Crocidura","Sri Lankan Long-tailed Shrew",EN,D,-8572416
+63,41,"nigrofusca","Crocidura","African Black Shrew",LC,U,-16731116
+65,64,"nigricans","Crocidura","Blackish White-toothed Shrew",LC,U,-16731116
+66,64,"russula","Crocidura","Greater White-toothed Shrew",LC,S,-16731116
+71,70,"roosevelti","Crocidura","Roosvelt's Shrew",LC,U,-16731116
+72,70,"wimmeri","Crocidura","Wimmer's Shrew",CR,U,-3014646
+74,73,"denti","Crocidura","Dent's Shrew",LC,U,-16731116
+75,73,"selina","Crocidura","Moon Shrew",DD,U,-11513776
+77,76,"fulvastra","Crocidura","Savanna Shrew",LC,S,-16731116
+78,76,"turba","Crocidura","Tumultuous Shrew",LC,U,-16731116
+82,81,"pergrisea","Crocidura","Pale Grey Shrew",DD,U,-11513776
+83,81,"nimbae","Crocidura","Nimba Shrew",NT,D,-12486656
+84,80,"tansaniana","Crocidura","Tanzanian Shrew",EN,D,-8572416
+85,79,"fischeri","Crocidura","Fischer's Shrew",DD,U,-11513776
+89,88,"douceti","Crocidura","Doucet's Musk Shrew",DD,U,-11513776
+90,88,"dhofarensis","Crocidura","Dhofarian Shrew",DD,U,-11513776
+92,91,"bottegoides","Crocidura","Bale Shrew",EN,D,-8572416
+93,91,"zimmeri","Crocidura","Upemba Shrew",DD,U,-11513776
+95,94,"palawanensis","Crocidura","Palawan Shrew",LC,U,-16731116
+96,94,"thalia","Crocidura","Thalia Shrew",LC,U,-16731116

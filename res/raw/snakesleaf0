@@ -1,0 +1,88 @@
+index,parent,name1,name2,common,redlist,popstab,color
+17,16,"squamigera","Atheris","",NE,U,-16777216
+18,16,"carinatus","Echis","",NE,U,-16777216
+19,15,"superciliaris","Proatheris","",NE,U,-16777216
+20,14,"arietans","Bitis","African Puff Adder",NE,U,-16777216
+22,21,"cerastes","Cerastes","",NE,U,-16777216
+23,21,"defilippi","Causus","",NE,U,-16777216
+27,26,"lebetina","Macrovipera","",NE,U,-16777216
+28,26,"russellii","Daboia","",NE,U,-16777216
+29,25,"berus","Vipera","Adder",LC,D,-16731116
+31,30,"persicus","Pseudocerastes","",NE,U,-16777216
+32,30,"macmahoni","Eristicophis","",NE,U,-16777216
+34,33,"formosensis","Pareas","",NE,U,-16777216
+35,33,"boa","Aplopeltura","",NE,U,-16777216
+38,37,"javanicus","Xenodermus","Java Tubercle Snake",NE,U,-16777216
+39,37,"meiguensis","Achalinus","",NE,U,-16777216
+40,36,"borneensis","Stoliczkia","Borneo Red Snake",NE,U,-16777216
+41,4,"granulatus","Acrochordus","Little Small Snake",NE,U,-16777216
+57,56,"oxyrhynchus","Rhinophis","",NE,U,-16777216
+58,56,"philippinus","Rhinophis","",NE,U,-16777216
+59,55,"dorsimaculatus","Rhinophis","",NE,U,-16777216
+62,61,"homolepis","Rhinophis","",NE,U,-16777216
+63,61,"blythii","Rhinophis","",NE,U,-16777216
+64,60,"ceylanica","Uropeltis","",NE,U,-16777216
+66,65,"erangaviraji","Rhinophis","",NE,U,-16777216
+67,65,"drummondhayi","Rhinophis","",NE,U,-16777216
+68,52,"philippinus","Pseudotyphlops","",NE,U,-16777216
+70,69,"melanogaster","Uropeltis","",NE,U,-16777216
+71,69,"phillipsi","Uropeltis","",NE,U,-16777216
+72,50,"travancoricus","Rhinophis","",NE,U,-16777216
+73,49,"liura","Uropeltis","",NE,U,-16777216
+74,48,"rhodogaster","Brachyophidium","",NE,U,-16777216
+75,47,"punctatum","Melanophidium","Beddome's Black Shieldtail",NE,U,-16777216
+77,76,"maculatus","Cylindrophis","Ceylonese Cylinder Snake",NE,U,-16777216
+78,76,"ruffus","Cylindrophis","",NE,U,-16777216
+79,45,"leonardi","Anomochilus","Leonard's Pipe Snake",DD,U,-11513776
+88,87,"papuana","Apodora","",NE,U,-16777216
+89,87,"mackloti","Liasis","",NE,U,-16777216
+90,86,"melanocephalus","Aspidites","",NE,U,-16777216
+92,91,"albertisii","Leiopython","",NE,U,-16777216
+93,91,"boa","Bothrochilus","",NE,U,-16777216
+95,94,"spilota","Morelia","Western Australian Carpet Python",NT,U,-12486656
+96,94,"childreni","Antaresia","",NE,U,-16777216
+97,83,"reticulatus","Broghammerus","",NE,U,-16777216
+98,82,"molurus","Python","Asiatic Rock Python",NT,U,-12486656
+99,81,"bicolor","Loxocemus","Mexican Python",NE,U,-16777216
+100,80,"unicolor","Xenopeltis","Sunbeam Snake",NE,U,-16777216
+102,101,"dussumieri","Casarea","Round Island Boa",EN,U,-8572416
+103,101,"schaeferi","Xenophidion","",NE,U,-16777216
+112,111,"cenchria","Epicrates","Rainbow Boa",NE,U,-16777216
+113,111,"notaeus","Eunectes","",NE,U,-16777216
+114,110,"hortulanus","Corallus","Amazon Tree Boa",NE,U,-16777216
+115,109,"constrictor","Boa","",NE,U,-16777216
+116,108,"conicus","Eryx","Rough-scaled Sand Boa",NE,U,-16777216
+117,107,"carinata","Candoia","Pacific Ground Boa",NE,U,-16777216
+120,119,"trivirgata","Lichanura","Rosy Boa",LC,S,-16731116
+121,119,"bottae","Charina","Rubber Boa",LC,S,-16731116
+123,122,"continentalis","Ungaliophis","Chiapan Boa",NE,U,-16777216
+124,122,"placata","Exiliboa","",VU,D,-11184866
+126,125,"madagascariensis","Sanzinia","Madagascar Tree Boa",VU,U,-11184866
+127,125,"dumerili","Acrantophis","Dumeril's Boa",VU,U,-11184866
+128,104,"reinhardtii","Calabaria","Calabar Ground Python",NE,U,-16777216
+131,130,"boulengeri","Trachyboa","Northern Eyelash Boa",NE,U,-16777216
+132,130,"haetianus","Tropidophis","Haitian Dwarf Boa",NE,U,-16777216
+133,129,"scytale","Anilius","False Coral Snake",NE,U,-16777216
+141,140,"breuili","Tetracheilostoma","",NE,U,-16777216
+142,140,"leptepileptus","Mitophis","",NE,U,-16777216
+144,143,"macrolepis","Tricheilostoma","",NE,U,-16777216
+145,143,"humilis","Rena","",NE,U,-16777216
+146,138,"septemstriatus","Siagonodon","Seven-striped Blind Snake",NE,U,-16777216
+147,137,"columbi","Epictia","San Salvador Blind Snake",NE,U,-16777216
+148,136,"sp.","Rhinoleptus","Villiers' Blind Snake",NE,U,-16777216
+151,150,"occidentalis","Namibiana","Western Thread Snake",NE,U,-16777216
+152,150,"conjunctus","Leptotyphlops","Cape Thread Snake",NE,U,-16777216
+153,149,"adleri","Myriopholis","Adler's Worm Snake",NE,U,-16777216
+161,160,"punctatus","Afrotyphlops","Spotted Blind Snake",NE,U,-16777216
+162,160,"mucroso","Megatyphlops","",NE,U,-16777216
+163,159,"obtusa","Letheobia","",NE,U,-16777216
+164,158,"feae","Rhinotyphlops","",NE,U,-16777216
+165,157,"jamaicensis","Typhlops","",NE,U,-16777216
+168,167,"subocularis","Acutotyphlops","",NE,U,-16777216
+169,167,"splendidus","Austrotyphlops","",NE,U,-16777216
+171,170,"braminus","Ramphotyphlops","",NE,U,-16777216
+172,170,"pushpakumara","Typhlops","",NE,U,-16777216
+173,155,"grandidieri","Xenotyphlops","",CR,U,-3014646
+174,154,"mirus","Gerrhopilus","Jan's Worm Snake",NE,U,-16777216
+176,175,"albirostris","Liotyphlops","Whitenose Blind Snake",NE,U,-16777216
+177,175,"squamosus","Typhlophis","Trinidad Blind Snake",NE,U,-16777216

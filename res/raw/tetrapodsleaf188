@@ -1,0 +1,55 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"nigra vandenburghi","Geochelone","",NE,U,-16777216
+14,12,"nigra microphyes","Geochelone","",NE,U,-16777216
+15,11,"nigra vicina","Geochelone","",NE,U,-16777216
+16,10,"nigra porteri","Geochelone","",NE,U,-16777216
+17,9,"nigra guntheri","Geochelone","",NE,U,-16777216
+21,20,"nigra abingdoni","Geochelone","",NE,U,-16777216
+22,20,"nigra hoodensis","Geochelone","",NE,U,-16777216
+23,19,"nigra chatamensis","Geochelone","",NE,U,-16777216
+24,18,"nigra ephippium","Geochelone","",NE,U,-16777216
+26,25,"nigra darwini","Geochelone","Galapagos Tortoise",NE,U,-16777216
+27,25,"nigra becki","Geochelone","",NE,U,-16777216
+28,6,"chilensis","Geochelone","Argentine Tortoise",VU,U,-11184866
+31,30,"platynota","Geochelone","Burmese Starred Tortoise",CR,U,-3014646
+32,30,"elegans","Geochelone","Indian Star Tortoise",LC,U,-16731116
+33,29,"sulcata","Geochelone","African Spurred Tortoise",VU,U,-11184866
+35,34,"denticulata","Geochelone","Brazilian Giant Tortoise",VU,U,-11184866
+36,34,"carbonaria","Geochelone","Red-footed Tortoise",NE,U,-16777216
+41,40,"peltastes","Cylindraspis","",EX,U,-16777036
+42,40,"vosmaeri","Cylindraspis","",EX,U,-16777036
+44,43,"indica","Cylindraspis","",EX,U,-16777036
+45,43,"inepta","Cylindraspis","",EX,U,-16777036
+46,38,"triserrata","Cylindraspis","",EX,U,-16777036
+50,49,"dussumieri","Dipsochelys","",NE,U,-16777216
+51,49,"arnoldi","Dipsochelys","",NE,U,-16777216
+52,48,"hololissa","Dipsochelys","",NE,U,-16777216
+53,47,"radiata","Geochelone","",NE,U,-16777216
+56,55,"planicauda","Pyxis","Flat-tailed Tortoise",CR,D,-3014646
+57,55,"arachnoides","Pyxis","Spider Tortoise",CR,D,-3014646
+58,54,"femoralis","Homopus","Karoo Cape Tortoise",NE,U,-16777216
+64,63,"natalensis","Kinixys","Natal Hinge-backed Tortoise",NT,U,-12486656
+65,63,"belliana","Kinixys","Bell's Hinge-back Tortoise",NE,U,-16777216
+66,62,"spekii","Kinixys","Speke's Hinge-back Tortoise",NE,U,-16777216
+68,67,"homeana","Kinixys","Home's Hinge-back Tortoise",VU,D,-11184866
+69,67,"erosa","Kinixys","Common Tortoise",DD,U,-11513776
+73,72,"boulengeri","Homopus","Boulenger's Cape Tortoise",NE,U,-16777216
+74,72,"bergeri","Homopus","Berger's Cape Tortoise",VU,U,-11184866
+75,71,"signatus cafer","Homopus","",NE,U,-16777216
+76,70,"angulata","Chersine","",NE,U,-16777216
+81,80,"geometricus","Psammobates","Geometric Tortoise",EN,U,-8572416
+82,80,"oculifer","Psammobates","Serrated Tortoise",NE,U,-16777216
+83,79,"tentorius","Psammobates","African Tent Tortoise",NE,U,-16777216
+84,78,"aerolatus","Homopus","",NE,U,-16777216
+86,85,"yniphora","Astrochelys","Ploughshare Tortoise",CR,D,-3014646
+87,85,"pardalis","Psammobates","",NE,U,-16777216
+93,92,"weissingeri","Testudo","Marginated Tortoise",NE,U,-16777216
+94,92,"marginata","Testudo","Marginated Tortoise",LC,S,-16731116
+95,91,"kleinmanni","Testudo","Egyptian Tortoise",CR,D,-3014646
+96,90,"graeca cyrenaica","Testudo","",NE,U,-16777216
+99,98,"horsfieldii","Testudo","Afghan Tortoise",VU,U,-11184866
+100,98,"hermanni boettgeri","Testudo","",NE,U,-16777216
+101,97,"tornieri","Malacochersus","Crevice Tortoise",VU,U,-11184866
+104,103,"travancorica","Indotestudo","Travancore Tortoise",VU,U,-11184866
+105,103,"elongata","Indotestudo","Elongated Tortoise",EN,U,-8572416
+106,102,"forstenii","Indotestudo","Celebes Tortoise",EN,U,-8572416

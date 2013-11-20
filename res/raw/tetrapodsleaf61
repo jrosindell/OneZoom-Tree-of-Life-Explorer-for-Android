@@ -1,184 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"varians","Eleutherodactylus","",VU,D,-11184866
-17,15,"vinhai","Eleutherodactylus","",NE,U,-16777216
-18,14,"fowleri","Eleutherodactylus","",CR,D,-3014646
-19,13,"hedricki","Eleutherodactylus","Hedrick's Coqui",EN,D,-8572416
-20,12,"antillensis","Eleutherodactylus","Red-eyed Coqui",LC,S,-16731116
-21,11,"locustus","Eleutherodactylus","Locust Coqui",CR,D,-3014646
-26,25,"auriculatoides","Eleutherodactylus","",EN,D,-8572416
-27,25,"barlagnei","Eleutherodactylus","",EN,D,-8572416
-28,24,"pinchoni","Eleutherodactylus","",EN,D,-8572416
-29,23,"flavescens","Eleutherodactylus","",NT,D,-12486656
-30,22,"gryllus","Eleutherodactylus","Cricket Coqui",EN,D,-8572416
-34,33,"cochranae","Eleutherodactylus","Cochran's Treefrog",LC,S,-16731116
-35,33,"shrevei","Eleutherodactylus","",NE,U,-16777216
-37,36,"eneidae","Eleutherodactylus","Elegant Coqui",CR,D,-3014646
-38,36,"eileenae","Eleutherodactylus","",NT,D,-12486656
-42,41,"schwartzi","Eleutherodactylus","Virgin Islands Coqui",EN,D,-8572416
-43,41,"fallax","Eleutherodactylus","",NE,U,-16777216
-44,40,"montanus","Eleutherodactylus","",EN,D,-8572416
-45,39,"cooki","Eleutherodactylus","",VU,U,-11184866
-56,55,"guantanamera","Eleutherodactylus","",VU,D,-11184866
-57,55,"wetmorei","Eleutherodactylus","",VU,D,-11184866
-58,54,"amplinympha","Eleutherodactylus","",EN,D,-8572416
-59,53,"jasperi","Eleutherodactylus","Golden Coqui",CR,D,-3014646
-60,52,"leberi","Eleutherodactylus","",EN,D,-8572416
-62,61,"brittoni","Eleutherodactylus","Grass Coqui",LC,S,-16731116
-63,61,"patriciae","Eleutherodactylus","",EN,D,-8572416
-65,64,"auriculatus","Eleutherodactylus","",LC,D,-16731116
-66,64,"taciturnus","Eleutherodactylus","",NE,U,-16777216
-70,69,"johnstonei","Eleutherodactylus","Lesser Antillean whistling frog",LC,I,-16731116
-71,69,"ronaldi","Eleutherodactylus","",VU,D,-11184866
-72,68,"briceni","Eleutherodactylus","",NE,U,-16777216
-74,73,"coqui","Eleutherodactylus","Common Coqui",LC,S,-16731116
-75,73,"pituinus","Eleutherodactylus","",EN,D,-8572416
-77,76,"euphronides","Eleutherodactylus","",NE,U,-16777216
-78,76,"poolei","Eleutherodactylus","",CR,D,-3014646
-79,47,"urichi","Eleutherodactylus","",NE,U,-16777216
-81,80,"martinicensis","Eleutherodactylus","",NT,D,-12486656
-82,80,"bartonsmithi","Eleutherodactylus","",CR,D,-3014646
-85,84,"portoricensis","Eleutherodactylus","Upland Coqui",EN,D,-8572416
-86,84,"ionthus","Eleutherodactylus","",EN,D,-8572416
-87,83,"reclusas","Eleutherodactylus","",NE,U,-16777216
-92,91,"pleurostriatus","Eleutherodactylus","",NE,U,-16777216
-93,91,"reticulatus","Eleutherodactylus","",NE,U,-16777216
-94,90,"lentiginosus","Eleutherodactylus","",NE,U,-16777216
-96,95,"hybotragus","Eleutherodactylus","",NE,U,-16777216
-97,95,"jaimei","Eleutherodactylus","",NE,U,-16777216
-99,98,"loustes","Eleutherodactylus","",NE,U,-16777216
-100,98,"uisae","Eleutherodactylus","",NE,U,-16777216
-104,103,"paulodutrai","Eleutherodactylus","",NE,U,-16777216
-105,103,"ramagii","Eleutherodactylus","",NE,U,-16777216
-106,102,"renjiforum","Eleutherodactylus","",NE,U,-16777216
-107,101,"venancioi","Eleutherodactylus","",NE,U,-16777216
-112,111,"thymelensis","Eleutherodactylus","",NE,U,-16777216
-113,111,"racemus","Eleutherodactylus","",NE,U,-16777216
-115,114,"huicundo","Eleutherodactylus","",NE,U,-16777216
-116,114,"orcesi","Eleutherodactylus","",NE,U,-16777216
-117,109,"simoterus","Eleutherodactylus","",NE,U,-16777216
-120,119,"obmutescens","Eleutherodactylus","",NE,U,-16777216
-121,119,"ortizi","Eleutherodactylus","",NE,U,-16777216
-122,118,"bakeri","Eleutherodactylus","",CR,D,-3014646
-130,129,"nebulanastes","Eleutherodactylus","",NE,U,-16777216
-131,129,"elassodiscus","Eleutherodactylus","",NE,U,-16777216
-132,128,"melacara","Eleutherodactylus","",EN,D,-8572416
-134,133,"nigrovittatus","Eleutherodactylus","",NE,U,-16777216
-135,133,"diogenes","Eleutherodactylus","",NE,U,-16777216
-137,136,"batrachylus","Eleutherodactylus","",NE,U,-16777216
-138,136,"adercus","Eleutherodactylus","",NE,U,-16777216
-143,142,"flavomaculatus","Eleutherodactylus","",NE,U,-16777216
-144,142,"mantipus","Eleutherodactylus","",NE,U,-16777216
-145,141,"lucida","Eleutherodactylus","",NE,U,-16777216
-146,140,"lundbergi","Eleutherodactylus","",NE,U,-16777216
-148,147,"araiodactylus","Eleutherodactylus","",NE,U,-16777216
-149,147,"fallaciosus","Eleutherodactylus","",NE,U,-16777216
-151,150,"helvolus","Eleutherodactylus","",NE,U,-16777216
-152,150,"latens","Eleutherodactylus","",NE,U,-16777216
-157,156,"lasalleorum","Eleutherodactylus","",NE,U,-16777216
-158,156,"uranobates","Eleutherodactylus","",NE,U,-16777216
-159,155,"maculosus","Eleutherodactylus","",NE,U,-16777216
-160,154,"peraticus","Eleutherodactylus","",NE,U,-16777216
-162,161,"scoloblepharus","Eleutherodactylus","",NE,U,-16777216
-163,161,"leptolophus","Eleutherodactylus","",NE,U,-16777216
-166,165,"pusillus","Eleutherodactylus","",NE,U,-16777216
-167,165,"simonsii","Eleutherodactylus","",NE,U,-16777216
-169,168,"polychrus","Eleutherodactylus","",NE,U,-16777216
-170,168,"parvus","Eleutherodactylus","",NE,U,-16777216
-177,176,"gladiator","Eleutherodactylus","",NE,U,-16777216
-178,176,"myersi","Eleutherodactylus","",NE,U,-16777216
-179,175,"pyrrhomerus","Eleutherodactylus","",NE,U,-16777216
-180,174,"hectus","Eleutherodactylus","",NE,U,-16777216
-182,181,"floridus","Eleutherodactylus","",NE,U,-16777216
-183,181,"repens","Eleutherodactylus","",NE,U,-16777216
-187,186,"scopaeus","Eleutherodactylus","",NE,U,-16777216
-188,186,"veletis","Eleutherodactylus","",NE,U,-16777216
-189,185,"cavernibardus","Eleutherodactylus","",NE,U,-16777216
-190,184,"principalis","Eleutherodactylus","",EN,D,-8572416
-193,192,"corniger","Eleutherodactylus","",NE,U,-16777216
-194,192,"festae","Eleutherodactylus","",NE,U,-16777216
-195,191,"leoni","Eleutherodactylus","",NE,U,-16777216
-206,205,"skydmainos","Eleutherodactylus","",NE,U,-16777216
-207,205,"metabates","Eleutherodactylus","",NE,U,-16777216
-208,204,"lanthanites","Eleutherodactylus","",NE,U,-16777216
-210,209,"malkini","Eleutherodactylus","",NE,U,-16777216
-211,209,"ruedai","Eleutherodactylus","",NE,U,-16777216
-213,212,"conspicillatus","Eleutherodactylus","",NE,U,-16777216
-214,212,"thectopternus","Eleutherodactylus","",NE,U,-16777216
-216,215,"citriogaster","Eleutherodactylus","",NE,U,-16777216
-217,215,"ixalus","Eleutherodactylus","",NE,U,-16777216
-221,220,"peruvianus","Eleutherodactylus","",NE,U,-16777216
-222,220,"paisa","Eleutherodactylus","",NE,U,-16777216
-223,219,"babax","Eleutherodactylus","",NE,U,-16777216
-225,224,"bipunctatus","Eleutherodactylus","",NE,U,-16777216
-226,224,"insignitus","Eleutherodactylus","",NE,U,-16777216
-233,232,"cosnipatae","Eleutherodactylus","",NE,U,-16777216
-234,232,"condor","Eleutherodactylus","",NE,U,-16777216
-235,231,"cuneirostris","Eleutherodactylus","",NE,U,-16777216
-236,230,"zeuctotylus","Eleutherodactylus","",NE,U,-16777216
-237,229,"terraebolivaris","Eleutherodactylus","",NE,U,-16777216
-239,238,"carranguerorum","Eleutherodactylus","",NE,U,-16777216
-240,238,"vilarsi","Eleutherodactylus","",NE,U,-16777216
-241,227,"carmelitae","Eleutherodactylus","",NE,U,-16777216
-248,247,"viridicans","Eleutherodactylus","",NE,U,-16777216
-249,247,"lymani","Eleutherodactylus","",NE,U,-16777216
-250,246,"w-nigrum","Eleutherodactylus","",NE,U,-16777216
-251,245,"gutturalis","Eleutherodactylus","",NE,U,-16777216
-254,253,"buccinator","Eleutherodactylus","",NE,U,-16777216
-255,253,"bisignatus","Eleutherodactylus","",NE,U,-16777216
-256,252,"illotus","Eleutherodactylus","",NE,U,-16777216
-260,259,"caprifer","Eleutherodactylus","",NE,U,-16777216
-261,259,"actites","Eleutherodactylus","",NE,U,-16777216
-262,258,"avicuporum","Eleutherodactylus","",NE,U,-16777216
-263,257,"achatinus","Eleutherodactylus","",NE,U,-16777216
-270,269,"caliginosus","Eleutherodactylus","",NE,U,-16777216
-271,269,"medemi","Eleutherodactylus","",NE,U,-16777216
-272,268,"johannesdei","Eleutherodactylus","",NE,U,-16777216
-274,273,"fenestratus","Eleutherodactylus","",NE,U,-16777216
-275,273,"paramerus","Eleutherodactylus","",NE,U,-16777216
-277,276,"chiastonotus","Eleutherodactylus","",NE,U,-16777216
-278,276,"samaipatae","Eleutherodactylus","",NE,U,-16777216
-279,265,"mnionaetes","Eleutherodactylus","",NE,U,-16777216
-281,280,"pedimontanus","Eleutherodactylus","",NE,U,-16777216
-282,280,"gaigeae","Eleutherodactylus","",NE,U,-16777216
-288,287,"nigriventris","Eleutherodactylus","",NE,U,-16777216
-289,287,"restrepoi","Eleutherodactylus","",NE,U,-16777216
-290,286,"esmeraldas","Eleutherodactylus","",NE,U,-16777216
-291,285,"hoehnei","Eleutherodactylus","",NE,U,-16777216
-292,284,"sambaqui","Eleutherodactylus","",NE,U,-16777216
-295,294,"bolbodactylus","Eleutherodactylus","",NE,U,-16777216
-296,294,"telefericus","Eleutherodactylus","",NE,U,-16777216
-298,297,"lacteus","Eleutherodactylus","",NE,U,-16777216
-299,297,"holti","Eleutherodactylus","",NE,U,-16777216
-308,307,"hylaeformis","Eleutherodactylus","",NE,U,-16777216
-309,307,"vocator","Eleutherodactylus","",NE,U,-16777216
-310,306,"scolodiscus","Eleutherodactylus","",NE,U,-16777216
-312,311,"tribulosus","Eleutherodactylus","",NE,U,-16777216
-313,311,"tigrillo","Eleutherodactylus","",NE,U,-16777216
-314,304,"chalceus","Eleutherodactylus","",NE,U,-16777216
-317,316,"factiosus","Eleutherodactylus","",NE,U,-16777216
-318,316,"anthrax","Eleutherodactylus","",NE,U,-16777216
-320,319,"diastema","Eleutherodactylus","",NE,U,-16777216
-321,319,"gularis","Eleutherodactylus","",NE,U,-16777216
-323,322,"quidditus","Eleutherodactylus","",NE,U,-16777216
-324,322,"tinker","Eleutherodactylus","",NE,U,-16777216
-330,329,"laticorpus","Eleutherodactylus","",NE,U,-16777216
-331,329,"ingeri","Eleutherodactylus","",NE,U,-16777216
-332,328,"cadenai","Eleutherodactylus","",NE,U,-16777216
-334,333,"sulcatus","Eleutherodactylus","",NE,U,-16777216
-335,333,"ruizi","Eleutherodactylus","",NE,U,-16777216
-337,336,"cornutus","Eleutherodactylus","",NE,U,-16777216
-338,336,"cerastes","Eleutherodactylus","",NE,U,-16777216
-341,340,"necopinus","Eleutherodactylus","",NE,U,-16777216
-342,340,"helonotus","Eleutherodactylus","",NE,U,-16777216
-343,339,"bilineatus","Eleutherodactylus","",NE,U,-16777216
-349,348,"orpacobates","Eleutherodactylus","",NE,U,-16777216
-350,348,"parectatus","Eleutherodactylus","",NE,U,-16777216
-352,351,"ocellatus","Eleutherodactylus","",NE,U,-16777216
-353,351,"cerasinus","Eleutherodactylus","",NE,U,-16777216
-356,355,"actinolaimus","Eleutherodactylus","",NE,U,-16777216
-357,355,"labiosus","Eleutherodactylus","",NE,U,-16777216
-358,354,"suetus","Eleutherodactylus","",NE,U,-16777216
-360,359,"tenebrionis","Eleutherodactylus","",NE,U,-16777216
-361,359,"turpinorum","Eleutherodactylus","",NE,U,-16777216
-363,362,"rubicundus","Eleutherodactylus","",NE,U,-16777216
-364,362,"crenunguis","Eleutherodactylus","",NE,U,-16777216
+12,11,"multicolor","Petroica","Scarlet Robin",LC,U,-16731116
+13,11,"phoenicea","Petroica","Flame Robin",NT,U,-12486656
+15,14,"rodinogaster","Petroica","Pink Robin",LC,U,-16731116
+16,14,"rosea","Petroica","Rose Robin",LC,U,-16731116
+18,17,"archboldi","Petroica","Snow Mountain Robin",DD,U,-11513776
+19,17,"goodenovii","Petroica","Red-capped Robin",LC,U,-16731116
+20,8,"bivittata","Petroica","Alpine Robin",LC,U,-16731116
+21,7,"australis","Petroica","New Zealand Robin",LC,U,-16731116
+23,22,"traversi","Petroica","Black Robin",EN,U,-8572416
+24,22,"macrocephala","Petroica","Tomtit",LC,U,-16731116
+25,5,"rubra","Eugerygone","Garnet Robin",LC,U,-16731116
+27,26,"hattamensis","Pachycephalopsis","Green-backed Robin",LC,U,-16731116
+28,26,"poliosoma","Pachycephalopsis","White-eyed Robin",LC,U,-16731116
+30,29,"sclateriana","Amalocichla","Greater Ground-robin",LC,U,-16731116
+31,29,"incerta","Amalocichla","Lesser Ground-robin",LC,U,-16731116
+35,34,"hemixantha","Microeca","Golden-bellied Flyrobin",NT,U,-12486656
+36,34,"flavovirescens","Microeca","Olive Flyrobin",LC,U,-16731116
+38,37,"flavigaster","Microeca","Lemon-bellied Flyrobin",LC,U,-16731116
+39,37,"fascinans","Microeca","Jacky-winter",LC,U,-16731116
+41,40,"griseoceps","Microeca","Yellow-legged Flyrobin",LC,U,-16731116
+42,40,"papuana","Microeca","Canary Flyrobin",LC,U,-16731116
+51,50,"bimaculata","Peneothello","White-rumped Robin",LC,U,-16731116
+52,50,"cryptoleuca","Peneothello","Smoky Robin",LC,U,-16731116
+54,53,"sigillatus","Peneothello","White-winged Robin",LC,U,-16731116
+55,53,"cyanus","Peneothello","Blue-grey Robin",LC,U,-16731116
+56,48,"pulverulenta","Eopsaltria","Mangrove Robin",LC,U,-16731116
+58,57,"cucullata","Melanodryas","Hooded Robin",LC,U,-16731116
+59,57,"vittata","Melanodryas","Dusky Robin",LC,U,-16731116
+60,46,"muelleriana","Monachella","Torrent Robin",LC,U,-16731116
+64,63,"leucops","Tregellasia","White-faced Robin",LC,U,-16731116
+65,63,"capito","Tregellasia","Pale-yellow Robin",LC,U,-16731116
+66,62,"georgiana","Eopsaltria","White-breasted Robin",LC,U,-16731116
+68,67,"griseogularis","Eopsaltria","Western Yellow Robin",LC,U,-16731116
+69,67,"australis","Eopsaltria","Eastern Yellow Robin",LC,U,-16731116
+70,44,"flaviventris","Eopsaltria","Yellow-bellied Robin",LC,U,-16731116
+73,72,"superciliaris","Drymodes","Northern Scrub-robin",LC,U,-16731116
+74,72,"brunneopygia","Drymodes","Southern Scrub-robin",LC,U,-16731116
+75,71,"albispecularis","Heteromyias","Grey-headed Robin",LC,U,-16731116
+80,79,"cerviniventris","Poecilodryas","Buff-sided Robin",LC,U,-16731116
+81,79,"brachyura","Poecilodryas","Black-chinned Robin",LC,U,-16731116
+82,78,"superciliosa","Poecilodryas","White-browed Robin",LC,U,-16731116
+83,77,"albonotata","Poecilodryas","Black-throated Robin",LC,U,-16731116
+85,84,"hypoleuca","Poecilodryas","Black-sided Robin",LC,U,-16731116
+86,84,"placens","Poecilodryas","Olive-yellow Robin",NT,U,-12486656

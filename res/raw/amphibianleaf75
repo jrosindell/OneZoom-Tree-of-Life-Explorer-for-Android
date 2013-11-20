@@ -1,0 +1,89 @@
+index,parent,name1,name2,common,redlist,popstab,color
+17,16,"marmoratus","Callulops","",DD,U,-11513776
+18,16,"boettgeri","Callulops","",DD,U,-11513776
+19,15,"glandulosus","Callulops","",DD,U,-11513776
+21,20,"wilhelmanus","Callulops","",LC,S,-16731116
+22,20,"humicola","Callulops","",LC,S,-16731116
+23,13,"eurydactylus","Callulops","",DD,U,-11513776
+26,25,"stictogaster","Callulops","",LC,S,-16731116
+27,25,"slateri","Callulops","",LC,S,-16731116
+28,24,"doriae","Callulops","",LC,S,-16731116
+30,29,"personatus","Callulops","",LC,S,-16731116
+31,29,"comptus","Callulops","",LC,S,-16731116
+35,34,"kopsteini","Callulops","",EN,D,-8572416
+36,34,"dubius","Callulops","",DD,U,-11513776
+37,33,"robustus","Callulops","",LC,S,-16731116
+38,32,"fuscus","Callulops","",DD,U,-11513776
+39,9,"sagittatus","Callulops","",DD,U,-11513776
+42,41,"lateralis","Mantophryne","",LC,S,-16731116
+43,41,"infulata","Mantophryne","",DD,U,-11513776
+44,40,"louisiadensis","Mantophryne","",DD,U,-11513776
+47,46,"sabini","Aphantophryne","",DD,U,-11513776
+48,46,"minuta","Aphantophryne","",DD,U,-11513776
+49,45,"pansa","Aphantophryne","",LC,S,-16731116
+54,53,"dentata","Liophryne","",LC,U,-16731116
+55,53,"rubra","Liophryne","",DD,U,-11513776
+56,52,"rhododactyla","Liophryne","",DD,S,-11513776
+58,57,"allisoni","Liophryne","",DD,U,-11513776
+59,57,"similis","Liophryne","",DD,U,-11513776
+60,50,"schlaginhaufeni","Liophryne","",LC,S,-16731116
+66,65,"flavigularis","Barygenys","",DD,U,-11513776
+67,65,"atra","Barygenys","",LC,S,-16731116
+68,64,"exsul","Barygenys","",LC,U,-16731116
+69,63,"parvula","Barygenys","",DD,U,-11513776
+70,62,"nana","Barygenys","",LC,S,-16731116
+72,71,"cheesmanae","Barygenys","",DD,U,-11513776
+73,71,"maculata","Barygenys","",DD,U,-11513776
+84,83,"sanguinopictus","Albericus","",DD,U,-11513776
+85,83,"rhenaurum","Albericus","",DD,U,-11513776
+86,82,"exclamitans","Albericus","",DD,U,-11513776
+88,87,"valkuriarum","Albericus","",LC,S,-16731116
+89,87,"siegfriedi","Albericus","",CR,D,-3014646
+91,90,"tuberculus","Albericus","",LC,S,-16731116
+92,90,"laurini","Albericus","",DD,U,-11513776
+93,79,"gudrunae","Albericus","",DD,U,-11513776
+94,78,"brunhildae","Albericus","",LC,U,-16731116
+99,98,"gunnari","Albericus","",DD,U,-11513776
+100,98,"fafniri","Albericus","",DD,U,-11513776
+101,97,"variegatus","Albericus","",DD,U,-11513776
+102,96,"darlingtoni","Albericus","",LC,U,-16731116
+103,95,"swanhildae","Albericus","",LC,S,-16731116
+107,106,"longirostris","Choerophryne","",DD,U,-11513776
+108,106,"proboscidea","Choerophryne","",LC,S,-16731116
+109,105,"allisoni","Choerophryne","",DD,U,-11513776
+110,104,"rostellifer","Choerophryne","",LC,S,-16731116
+113,112,"antongilii","Dyscophus","Tomato Frog",NT,U,-12486656
+114,112,"insularis","Dyscophus","",LC,U,-16731116
+115,111,"guineti","Dyscophus","",LC,U,-16731116
+125,124,"guttulata","Calluella","Burmese Squat Frog",LC,S,-16731116
+126,124,"yunnanensis","Calluella","",LC,S,-16731116
+127,123,"volzi","Calluella","",DD,U,-11513776
+129,128,"brooksii","Calluella","",DD,U,-11513776
+130,128,"minuta","Calluella","",DD,U,-11513776
+132,131,"smithi","Calluella","",DD,U,-11513776
+133,131,"flava","Calluella","",DD,U,-11513776
+134,120,"molossus","Glyphoglossus","",NT,D,-12486656
+135,118,"fusca","Chaperina","",LC,U,-16731116
+141,140,"verrucosa","Kaloula","Verrucous Digging Frog",LC,S,-16731116
+142,140,"taprobanica","Kaloula","Sri Lankan Bullfrog",LC,S,-16731116
+143,139,"borealis","Kaloula","Boreal Digging Frog",LC,S,-16731116
+146,145,"kalingensis","Kaloula","Kalinga Narrowmouth Toad",VU,D,-11184866
+147,145,"mediolineata","Kaloula","",NT,D,-12486656
+148,144,"assamensis","Kaloula","",LC,U,-16731116
+151,150,"conjuncta","Kaloula","Philippine Narrowmouth Toad",LC,S,-16731116
+152,150,"rigida","Kaloula","Luzon Narrow-mouthed Frog",VU,D,-11184866
+153,149,"rugifera","Kaloula","Sichuan Digging Frog",LC,D,-16731116
+157,156,"picta","Kaloula","Painted Narrowmouth Toad",LC,S,-16731116
+158,156,"walteri","Kaloula","",DD,U,-11513776
+159,155,"baleata","Kaloula","Brown Bullfrog",LC,S,-16731116
+161,160,"kokacii","Kaloula","Bicol Narrowmouth Toad",NT,S,-12486656
+162,160,"pulchra","Kaloula","Banded Bullfrog",LC,S,-16731116
+168,167,"menabensis","Scaphiophryne","",VU,D,-11184866
+169,167,"gottlebei","Scaphiophryne","",EN,D,-8572416
+170,166,"calcarata","Scaphiophryne","",LC,S,-16731116
+172,171,"marmorata","Scaphiophryne","",VU,D,-11184866
+173,171,"obscura","Scaphiophryne","",DD,U,-11513776
+174,164,"brevis","Scaphiophryne","",LC,S,-16731116
+177,176,"boribory","Scaphiophryne","",EN,D,-8572416
+178,176,"spinosa","Scaphiophryne","",LC,U,-16731116
+179,175,"madagascariensis","Scaphiophryne","",NT,D,-12486656

@@ -1,128 +1,36 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"wushanensis","Xenophrys","Wushan Horned Toad",LC,D,-16731116
-15,13,"daweimontis","Xenophrys","",DD,U,-11513776
-16,12,"pachyproctus","Xenophrys","Convex-vented Horned Toad",DD,U,-11513776
-17,11,"omeimontis","Xenophrys","Omei Horned Toad",NT,D,-12486656
-19,18,"spinata","Xenophrys","Spiny-fingered Horned Toad",LC,D,-16731116
-20,18,"huangshanensis","Xenophrys","",DD,U,-11513776
-22,21,"brachykolos","Xenophrys","Short-legged Horned Toad",EN,D,-8572416
-23,21,"minor","Xenophrys","Little Horned Toad",LC,D,-16731116
-27,26,"boettgeri","Xenophrys","Pale-shouldered Horned Toad",LC,D,-16731116
-28,26,"baluensis","Xenophrys","Kinabalu Horned Frog",NT,S,-12486656
-29,25,"wuliangshanensis","Xenophrys","Wuliangshan Horned Toad",DD,U,-11513776
-31,30,"shuichengensis","Xenophrys","",DD,U,-11513776
-32,30,"parallela","Xenophrys","",DD,U,-11513776
-36,35,"jingdongensis","Xenophrys","Jingdong Horned Toad",LC,D,-16731116
-37,35,"parva","Xenophrys","Concave-crowned Horned Toad",LC,D,-16731116
-38,34,"caudoprocta","Xenophrys","Convex-tailed Horned Toad",DD,U,-11513776
-39,33,"wawuensis","Xenophrys","",DD,U,-11513776
-42,41,"palpebralespinosa","Xenophrys","Rough-skinned Horned Toad",LC,U,-16731116
-43,41,"mangshanensis","Xenophrys","Mangshan Horned Toad",NT,D,-12486656
-45,44,"nankiangensis","Xenophrys","Nankiang Horned Toad",VU,D,-11184866
-46,44,"major","Xenophrys","Glandular Horned Toad",LC,D,-16731116
-50,49,"medogensis","Xenophrys","Medog Horned Toad",DD,U,-11513776
-51,49,"robusta","Xenophrys","",DD,U,-11513776
-53,52,"auralensis","Xenophrys","",DD,U,-11513776
-54,52,"glandulosa","Xenophrys","",LC,D,-16731116
-56,55,"zhangi","Xenophrys","Zhang's Horned Toad",DD,U,-11513776
-57,55,"longipes","Xenophrys","",NT,D,-12486656
-60,59,"kuatunensis","Xenophrys","Kuatun Horned Toad",LC,D,-16731116
-61,59,"aceras","Xenophrys","",LC,D,-16731116
-63,62,"dringi","Xenophrys","Dring's Horned Frog",NT,S,-12486656
-64,62,"kempii","Xenophrys","",NE,U,-16777216
-71,70,"bhutanensis","Scutiger","",DD,U,-11513776
-72,70,"brevipes","Scutiger","",DD,U,-11513776
-73,69,"muliensis","Scutiger","",EN,D,-8572416
-75,74,"glandulatus","Scutiger","",LC,U,-16731116
-76,74,"maculatus","Scutiger","",CR,D,-3014646
-78,77,"gongshanensis","Scutiger","",VU,D,-11184866
-79,77,"adungensis","Scutiger","",DD,U,-11513776
-82,81,"tuberculatus","Scutiger","",VU,D,-11184866
-83,81,"nepalensis","Scutiger","",VU,D,-11184866
-84,80,"nyingchiensis","Scutiger","",LC,U,-16731116
-89,88,"ningshanensis","Scutiger","",EN,D,-8572416
-90,88,"jiulongensis","Scutiger","",DD,U,-11513776
-92,91,"sikimmensis","Scutiger","",LC,U,-16731116
-93,91,"liupanensis","Scutiger","",VU,S,-11184866
-96,95,"chintingensis","Scutiger","",EN,D,-8572416
-97,95,"boulengeri","Scutiger","",LC,U,-16731116
-98,94,"mammatus","Scutiger","",LC,D,-16731116
-99,85,"pingwuensis","Scutiger","",EN,D,-8572416
-107,106,"liangbeiensis","Oreolalax","",CR,D,-3014646
-108,106,"popei","Oreolalax","",LC,I,-16731116
-109,105,"xiangchengensis","Oreolalax","",LC,S,-16731116
-111,110,"multipunctatus","Oreolalax","",VU,D,-11184866
-112,110,"schmidti","Oreolalax","",NT,D,-12486656
-113,103,"lichuanensis","Oreolalax","",NT,D,-12486656
-117,116,"omeimontis","Oreolalax","",EN,D,-8572416
-118,116,"rugosus","Oreolalax","",NT,D,-12486656
-119,115,"puxiongensis","Oreolalax","",EN,D,-8572416
-121,120,"chuanbeiensis","Oreolalax","",EN,D,-8572416
-122,120,"nanjiangensis","Oreolalax","",DD,U,-11513776
-127,126,"jingdongensis","Oreolalax","",VU,D,-11184866
-128,126,"weigoldi","Oreolalax","",DD,U,-11513776
-129,125,"granulosus","Oreolalax","",VU,S,-11184866
-130,124,"rhodostigmatus","Oreolalax","",VU,D,-11184866
-131,123,"major","Oreolalax","",VU,D,-11184866
-132,100,"pingii","Oreolalax","",EN,D,-8572416
-140,139,"kobayashii","Megophrys","Kobayashi's Horned Frog",NT,S,-12486656
-141,139,"montana","Megophrys","Horned Frog",LC,D,-16731116
-143,142,"nasuta","Megophrys","Borneon Horned Frog",LC,S,-16731116
-144,142,"edwardinae","Megophrys","",NE,U,-16777216
-145,137,"stejnegeri","Megophrys","Mindanao Horned Frog",VU,D,-11184866
-146,136,"ligayae","Megophrys","Palawan Horned Frog",EN,D,-8572416
-148,147,"shapingensis","Atympanophrys","",NE,U,-16777216
-149,147,"gigantica","Atympanophrys","",NE,U,-16777216
-152,151,"pachyproctus","Ophryophryne","",LC,D,-16731116
-153,151,"microstoma","Ophryophryne","",LC,D,-16731116
-155,154,"gerti","Ophryophryne","",DD,U,-11513776
-156,154,"hansi","Ophryophryne","",DD,U,-11513776
-161,160,"carinensis","Brachytarsophrys","",NE,U,-16777216
-162,160,"feae","Brachytarsophrys","",LC,D,-16731116
-163,159,"chuannanensis","Brachytarsophrys","",DD,D,-11513776
-164,158,"intermedia","Brachytarsophrys","",VU,D,-11184866
-165,157,"platyparietus","Brachytarsophrys","",LC,D,-16731116
-174,173,"nahangensis","Leptolalax","",DD,U,-11513776
-175,173,"pluvialis","Leptolalax","",DD,U,-11513776
-176,172,"pictus","Leptolalax","",VU,D,-11184866
-178,177,"pelodytoides","Leptolalax","",LC,S,-16731116
-179,177,"alpinus","Leptolalax","",EN,D,-8572416
-182,181,"sungi","Leptolalax","",DD,U,-11513776
-183,181,"liui","Leptolalax","",LC,D,-16731116
-184,180,"ventripunctatus","Leptolalax","",DD,U,-11513776
-189,188,"oshanensis","Leptolalax","Oshan Metacarpal-tubercled Toad",LC,S,-16731116
-190,188,"tuberosus","Leptolalax","",VU,D,-11184866
-191,187,"dringi","Leptolalax","",NT,D,-12486656
-192,186,"gracilis","Leptolalax","",NT,D,-12486656
-194,193,"maurus","Leptolalax","",NT,S,-12486656
-195,193,"hamidi","Leptolalax","",VU,D,-11184866
-198,197,"kajangensis","Leptolalax","",VU,U,-11184866
-199,197,"heteropus","Leptolalax","",LC,D,-16731116
-201,200,"bourreti","Leptolalax","",DD,U,-11513776
-202,200,"arayai","Leptolalax","",VU,D,-11184866
-208,207,"serasanae","Leptobrachella","",VU,D,-11184866
-209,207,"natunae","Leptobrachella","",DD,U,-11513776
-210,206,"baluensis","Leptobrachella","",VU,D,-11184866
-211,205,"brevicrus","Leptobrachella","",VU,S,-11184866
-213,212,"mjobergi","Leptobrachella","Mount Gadin Borneo Frog",LC,S,-16731116
-214,212,"palmata","Leptobrachella","",CR,D,-3014646
-215,203,"parva","Leptobrachella","",VU,D,-11184866
-224,223,"smithi","Leptobrachium","Smith's Litter Frog",LC,S,-16731116
-225,223,"hendricksoni","Leptobrachium","",LC,D,-16731116
-226,222,"buchardi","Leptobrachium","",DD,U,-11513776
-228,227,"xanthospilum","Leptobrachium","",DD,U,-11513776
-229,227,"nigrops","Leptobrachium","",LC,D,-16731116
-230,220,"huashen","Leptobrachium","",LC,U,-16731116
-231,219,"gunungense","Leptobrachium","",VU,S,-11184866
-232,218,"abbotti","Leptobrachium","",LC,D,-16731116
-238,237,"hasseltii","Leptobrachium","Java Spadefoot Toad",LC,U,-16731116
-239,237,"pullum","Leptobrachium","",DD,U,-11513776
-240,236,"banae","Leptobrachium","",VU,D,-11184866
-241,235,"chapaense","Leptobrachium","Chapa Spadefoot Toad",LC,U,-16731116
-242,234,"montanum","Leptobrachium","",LC,D,-16731116
-243,233,"hainanense","Leptobrachium","",VU,D,-11184866
-247,246,"ailaonica","Vibrissaphora","",NE,U,-16777216
-248,246,"echinata","Vibrissaphora","",NE,U,-16777216
-249,245,"boringiae","Vibrissaphora","",NE,U,-16777216
-251,250,"leishanensis","Vibrissaphora","",NE,U,-16777216
-252,250,"liui","Vibrissaphora","",NE,U,-16777216
+8,7,"nattereri","Phaethornis","Cinnamon-throated Hermit",LC,U,-16731116
+9,7,"eurynome","Phaethornis","Scale-throated Hermit",LC,U,-16731116
+11,10,"augusti","Phaethornis","Sooty-capped Hermit",LC,U,-16731116
+12,10,"pretrei","Phaethornis","Planalto Hermit",LC,U,-16731116
+14,13,"subochraceus","Phaethornis","Buff-bellied Hermit",LC,U,-16731116
+15,13,"rupurumii","Phaethornis","Streak-throated Hermit",LC,U,-16731116
+19,18,"bourcieri","Phaethornis","Straight-billed Hermit",LC,U,-16731116
+20,18,"hispidus","Phaethornis","White-bearded Hermit",LC,U,-16731116
+22,21,"philippii","Phaethornis","Needle-billed Hermit",LC,U,-16731116
+23,21,"koepckeae","Phaethornis","Koepcke's Hermit",NT,U,-12486656
+24,16,"idaliae","Phaethornis","Minute Hermit",LC,U,-16731116
+30,29,"striigularis","Phaethornis","Stripe-throated Hermit",LC,U,-16731116
+31,29,"griseogularis","Phaethornis","Grey-chinned Hermit",LC,U,-16731116
+32,28,"squalidus","Phaethornis","Dusky-throated Hermit",LC,U,-16731116
+34,33,"atrimentalis","Phaethornis","Black-throated Hermit",LC,U,-16731116
+35,33,"ruber","Phaethornis","Reddish Hermit",LC,U,-16731116
+37,36,"stuarti","Phaethornis","White-browed Hermit",LC,U,-16731116
+38,36,"longuemareus","Phaethornis","Little Hermit",LC,U,-16731116
+39,25,"anthophilus","Phaethornis","Pale-bellied Hermit",LC,U,-16731116
+44,43,"superciliosus","Phaethornis","Long-tailed Hermit",LC,U,-16731116
+45,43,"malaris","Phaethornis","Great-billed Hermit",LC,U,-16731116
+47,46,"yaruqui","Phaethornis","White-whiskered Hermit",LC,U,-16731116
+48,46,"guy","Phaethornis","Green Hermit",LC,U,-16731116
+49,41,"longirostris","Phaethornis","Long-billed Hermit",LC,U,-16731116
+50,40,"syrmatophorus","Phaethornis","Tawny-bellied Hermit",LC,U,-16731116
+56,55,"naevius","Ramphodon","Saw-billed Hermit",NT,U,-12486656
+57,55,"dohrnii","Glaucis","Hook-billed Hermit",EN,U,-8572416
+58,54,"gounellei","Anopetia","Broad-tipped Hermit",LC,U,-16731116
+59,53,"hirsutus","Glaucis","Rufous-breasted Hermit",LC,U,-16731116
+60,52,"aeneus","Glaucis","Bronzy Hermit",LC,U,-16731116
+63,62,"leucurus","Threnetes","Pale-tailed Barbthroat",LC,U,-16731116
+64,62,"niger","Threnetes","Sooty Barbthroat",LC,U,-16731116
+65,61,"ruckeri","Threnetes","Band-tailed Barbthroat",LC,U,-16731116
+67,66,"condamini","Eutoxeres","Buff-tailed Sicklebill",LC,U,-16731116
+68,66,"aquila","Eutoxeres","White-tipped Sicklebill",LC,U,-16731116

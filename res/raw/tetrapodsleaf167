@@ -1,106 +1,108 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"scutellatus","Acanthodactylus","",NE,U,-16777216
-17,15,"longipes","Acanthodactylus","",NE,U,-16777216
-18,14,"aureus","Acanthodactylus","",NE,U,-16777216
-19,13,"savignyi","Acanthodactylus","Savigny's Fringe-fingered Lizard",NT,U,-12486656
-22,21,"spinicauda","Acanthodactylus","Doumergue's Fringe-fingered Lizard",CR,D,-3014646
-23,21,"maculatus","Acanthodactylus","Spotted Fringe-fingered Lizard",LC,U,-16731116
-24,20,"bedriagae","Acanthodactylus","",NE,U,-16777216
-30,29,"blanfordii","Acanthodactylus","",NE,U,-16777216
-31,29,"schmidti","Acanthodactylus","",NE,U,-16777216
-33,32,"arabicus","Acanthodactylus","",NE,U,-16777216
-34,32,"haasi","Acanthodactylus","",NE,U,-16777216
-35,27,"cantoris","Acanthodactylus","",NE,U,-16777216
-36,26,"micropholis","Acanthodactylus","",NE,U,-16777216
-38,37,"boskianus","Acanthodactylus","",NE,U,-16777216
-39,37,"grandis","Acanthodactylus","",NE,U,-16777216
-41,40,"pardalis","Acanthodactylus","Leopard Fringe-fingered Lizard",VU,D,-11184866
-42,40,"robustus","Acanthodactylus","",NE,U,-16777216
-44,43,"tristrami","Acanthodactylus","Lebanon Fringe-fingered Lizard",LC,U,-16731116
-45,43,"erythrurus","Acanthodactylus","Spiny-footed Lizard",LC,S,-16731116
-54,53,"micropholidotus","Meroles","",NE,U,-16777216
-55,53,"cuneirostris","Meroles","",NE,U,-16777216
-56,52,"ctenodactylus","Meroles","",NE,U,-16777216
-58,57,"suborbitalis","Meroles","",NE,U,-16777216
-59,57,"knoxii","Meroles","",NE,U,-16777216
-60,50,"reticulatus","Meroles","",NE,U,-16777216
-61,49,"anchietae","Meroles","",NE,U,-16777216
-62,48,"longicaudata","Latastia","",NE,U,-16777216
-66,65,"benguellensis","Pedioplanis","",NE,U,-16777216
-67,65,"burchelli","Pedioplanis","",NE,U,-16777216
-68,64,"lineoocellata","Pedioplanis","",NE,U,-16777216
-69,63,"namaquensis","Pedioplanis","",NE,U,-16777216
-70,46,"intertexta","Nucras","",NE,U,-16777216
-75,74,"vauereselli","Adolfus","",NE,U,-16777216
-76,74,"africanus","Adolfus","",NE,U,-16777216
-77,73,"alleni","Adolfus","",NE,U,-16777216
-78,72,"jacksoni","Adolfus","",NE,U,-16777216
-79,71,"guentheri","Holaspis","",NE,U,-16777216
-82,81,"echinata","Gastropholis","",NE,U,-16777216
-83,81,"prasina","Gastropholis","",NE,U,-16777216
-84,80,"vittata","Gastropholis","",NE,U,-16777216
-86,85,"horvathi","Iberolacerta","Horvath's Rock Lizard",NT,S,-12486656
-87,85,"monticola","Iberolacerta","Iberian Rock Lizard",VU,D,-11184866
-96,95,"bedriagae","Lacerta","",NE,U,-16777216
-97,95,"brandti","Lacerta","",NE,U,-16777216
-98,94,"oxicephala","Lacerta","",NE,U,-16777216
-99,93,"trilineata","Lacerta","Balkan Green Lizard",LC,S,-16731116
-100,92,"andreanskyi","Lacerta","",NE,U,-16777216
-104,103,"viridis","Lacerta","Green Lizard",LC,D,-16731116
-105,103,"chlorogaster","Lacerta","",NE,U,-16777216
-107,106,"cappadocica","Lacerta","",NE,U,-16777216
-108,106,"graeca","Lacerta","",NE,U,-16777216
-109,101,"danfordi","Lacerta","",NE,U,-16777216
-113,112,"laevis","Lacerta","",NE,U,-16777216
-114,112,"agilis","Lacerta","",NE,U,-16777216
-115,111,"schreiberi","Lacerta","Iberian Emerald Lizard",NT,D,-12486656
-116,110,"mosorensis","Lacerta","",NE,U,-16777216
-117,89,"olivieri","Mesalina","",NE,U,-16777216
-118,88,"vivipara","Zootoca","Common Lizard",LC,U,-16731116
-122,121,"derjugini","Darevskia","Derjugin's Lizard",NT,D,-12486656
-123,121,"praticola","Darevskia","Meadow Lizard",NT,D,-12486656
-124,120,"rudis","Darevskia","Spiny-Tailed Lizard",LC,S,-16731116
-125,119,"saxicola","Darevskia","Rock Lizard",LC,S,-16731116
-137,136,"wolteri","Takydromus","",NE,U,-16777216
-138,136,"sauteri","Takydromus","",NE,U,-16777216
-139,135,"amurensis","Takydromus","",NE,U,-16777216
-140,134,"khasiensis","Takydromus","",NE,U,-16777216
-141,133,"smaragdinus","Takydromus","",NE,U,-16777216
-142,132,"stejnegeri","Takydromus","",NE,U,-16777216
-144,143,"septentrionalis","Takydromus","",NE,U,-16777216
-145,143,"sexlineatus","Takydromus","",NE,U,-16777216
-147,146,"dugesii","Teira","Madeira Lizard",LC,S,-16731116
-148,146,"perspicillata","Teira","",NE,U,-16777216
-150,149,"lepidus","Timon","Ocellated Lizard",NT,D,-12486656
-151,149,"princeps","Timon","Siirt Lizard",LC,U,-16731116
-155,154,"fitzingeri","Algyroides","Fitzinger's Algyroides",LC,S,-16731116
-156,154,"marchi","Algyroides","Spanish Algyroides",EN,D,-8572416
-157,153,"moreoticus","Algyroides","Greek Algyroides",NT,D,-12486656
-158,152,"nigropunctatus","Algyroides","Blue-throated Keeled Lizard",LC,U,-16731116
-161,160,"parva","Parvilacerta","Dwarf Lizard",LC,S,-16731116
-162,160,"fraasi","Parvilacerta","",NE,U,-16777216
-163,159,"jayakari","Omanosaura","",NE,U,-16777216
-167,166,"persica","Eremias","",NE,U,-16777216
-168,166,"velox","Eremias","",NE,U,-16777216
-169,165,"strauchi","Eremias","Strauch's Racerunner",LC,D,-16731116
-170,164,"argus","Eremias","",NE,U,-16777216
-180,179,"tiliguerta","Podarcis","Tyrrhenian Wall Lizard",LC,U,-16731116
-181,179,"filfolensis","Podarcis","Filfola Lizard",LC,S,-16731116
-183,182,"erhardii","Podarcis","Erhard's Wall Lizard",LC,S,-16731116
-184,182,"peloponnesianica","Podarcis","",NE,U,-16777216
-185,177,"taurica","Podarcis","",NE,U,-16777216
-186,176,"melisellensis","Podarcis","Dalmatian Wall Lizard",LC,S,-16731116
-188,187,"muralis","Podarcis","Common Wall Lizard",LC,S,-16731116
-189,187,"sicula","Podarcis","",NE,U,-16777216
-190,174,"pityusensis","Podarcis","Ibiza Wall Lizard",NT,S,-12486656
-191,173,"milensis","Podarcis","Miles Wall Lizard",VU,S,-11184866
-193,192,"wagleriana","Podarcis","",NE,U,-16777216
-194,192,"hispanica","Podarcis","",NE,U,-16777216
-195,171,"lilfordi","Podarcis","Lilford's Wall Lizard",EN,D,-8572416
-200,199,"hispanicus","Psammodromus","Spanish Psammodromus",LC,S,-16731116
-201,199,"algirus","Psammodromus","Large Psammodromus",LC,S,-16731116
-202,198,"microdactylus","Psammodromus","Green Psammodromus",EN,D,-8572416
-203,197,"blanci","Psammodromus","Blanc's Sand Racer",NT,D,-12486656
-206,205,"simonyi","Gallotia","El Hierro Giant Lizard",CR,S,-3014646
-207,205,"galloti","Gallotia","Tenerife Lizard",LC,S,-16731116
-208,204,"atlantica","Gallotia","Atlantic Lizard",LC,S,-16731116
+13,12,"fuciphaga","Collocalia","Edible-nest Swiftlet",LC,U,-16731116
+14,12,"salangana","Collocalia","Mossy-nest Swiftlet",LC,U,-16731116
+16,15,"elaphra","Collocalia","Seychelles Swiftlet",VU,U,-11184866
+17,15,"francica","Collocalia","Mascarene Swiftlet",NT,U,-12486656
+18,10,"mearnsi","Collocalia","Philippine Swiftlet",LC,U,-16731116
+22,21,"bartschi","Collocalia","Guam Swiftlet",EN,U,-8572416
+23,21,"sawtelli","Collocalia","Atiu Swiftlet",VU,U,-11184866
+24,20,"vanikorensis","Collocalia","Uniform Swiftlet",LC,U,-16731116
+25,19,"spodiopygia","Collocalia","White-rumped Swiftlet",LC,U,-16731116
+26,8,"ocista","Collocalia","Marquesan Swiftlet",LC,U,-16731116
+30,29,"whiteheadi","Collocalia","Whitehead's Swiftlet",DD,U,-11513776
+31,29,"nuditarsus","Collocalia","Bare-legged Swiftlet",LC,U,-16731116
+33,32,"terraereginae","Collocalia","Australian Swiftlet",_U,[,-16777216
+34,32,"pelewensis","Collocalia","Palau Swiftlet",LC,U,-16731116
+37,36,"maxima","Collocalia","Black-nest Swiftlet",LC,U,-16731116
+38,36,"leucophaea","Collocalia","Tahiti Swiftlet",VU,U,-11184866
+39,35,"brevirostris","Collocalia","Himalayan Swiftlet",LC,U,-16731116
+45,44,"schoutedeni","Schoutedenapus","Schouteden's Swift",VU,U,-11184866
+46,44,"myoptilus","Schoutedenapus","Scarce Swift",LC,U,-16731116
+47,43,"hirundinacea","Collocalia","Mountain Swiftlet",LC,U,-16731116
+49,48,"vulcanorum","Collocalia","Volcano Swiftlet",NT,U,-12486656
+50,48,"germani","Collocalia","German's Swiftlet",LC,U,-16731116
+53,52,"inquieta","Collocalia","Micronesian Swiftlet",LC,U,-16731116
+54,52,"gigas","Hydrochous","Waterfall Swift",NT,U,-12486656
+56,55,"palawanensis","Collocalia","Palawan Swiftlet",LC,U,-16731116
+57,55,"amelis","Collocalia","Grey Swiftlet",LC,U,-16731116
+59,58,"infuscata","Collocalia","Moluccan Swiftlet",LC,U,-16731116
+60,58,"papuensis","Collocalia","Papuan Swiftlet",DD,U,-11513776
+65,64,"esculenta","Collocalia","Glossy Swiftlet",LC,U,-16731116
+66,64,"linchi","Collocalia","Cave Swiftlet",LC,U,-16731116
+67,63,"orientalis","Collocalia","Mayr's Swiftlet",DD,U,-11513776
+68,62,"unicolor","Collocalia","Indian Swiftlet",LC,U,-16731116
+70,69,"rogersi","Collocalia","Indochinese Swiftlet",LC,U,-16731116
+71,69,"troglodytes","Collocalia","Pygmy Swiftlet",LC,U,-16731116
+82,81,"pallidus","Apus","Pallid Swift",LC,U,-16731116
+83,81,"unicolor","Apus","Plain Swift",LC,U,-16731116
+85,84,"batesi","Apus","Bates's Swift",LC,U,-16731116
+86,84,"horus","Apus","Horus Swift",LC,U,-16731116
+87,79,"sladeniae","Apus","Fernando Po Swift",DD,U,-11513776
+90,89,"toulsoni","Apus","Loanda Swift",LC,U,-16731116
+91,89,"apus","Apus","Common Swift",LC,U,-16731116
+92,88,"berliozi","Apus","Forbes-Watson's Swift",LC,U,-16731116
+95,94,"nipalensis","Apus","House Swift",LC,U,-16731116
+96,94,"affinis","Apus","Little Swift",LC,U,-16731116
+97,93,"balstoni","Apus","Madagascar Swift",LC,U,-16731116
+101,100,"pacificus","Apus","Fork-tailed Swift",LC,U,-16731116
+102,100,"alexandri","Apus","Alexander's Swift",LC,U,-16731116
+103,99,"bradfieldi","Apus","Bradfield's Swift",LC,U,-16731116
+105,104,"caffer","Apus","White-rumped Swift",LC,U,-16731116
+106,104,"niansae","Apus","Nyanza Swift",LC,U,-16731116
+108,107,"acuticauda","Apus","Dark-rumped Swift",VU,U,-11184866
+109,107,"barbatus","Apus","African Black Swift",LC,U,-16731116
+111,110,"aequatorialis","Tachymarptis","Mottled Swift",LC,U,-16731116
+112,110,"melba","Tachymarptis","Alpine Swift",LC,U,-16731116
+115,114,"sanctihieronymi","Panyptila","Great Swallow-tailed Swift",LC,U,-16731116
+116,114,"cayennensis","Panyptila","Lesser Swallow-tailed Swift",LC,U,-16731116
+118,117,"balasiensis","Cypsiurus","Asian Palm-swift",LC,U,-16731116
+119,117,"parvus","Cypsiurus","African Palm-swift",LC,U,-16731116
+123,122,"phoenicobia","Tachornis","Antillean Palm-swift",LC,U,-16731116
+124,122,"furcata","Tachornis","Pygmy Swift",LC,U,-16731116
+125,121,"squamata","Tachornis","Fork-tailed Palm-swift",LC,U,-16731116
+128,127,"saxatalis","Aeronautes","White-throated Swift",LC,U,-16731116
+129,127,"montivagus","Aeronautes","White-tipped Swift",LC,U,-16731116
+130,126,"andecolus","Aeronautes","Andean Swift",LC,U,-16731116
+134,133,"cochinchinensis","Hirundapus","Silver-backed Needletail",LC,U,-16731116
+135,133,"caudacutus","Hirundapus","White-throated Needletail",LC,U,-16731116
+136,132,"giganteus","Hirundapus","Brown-backed Needletail",LC,U,-16731116
+137,131,"celebensis","Hirundapus","Purple Needletail",LC,U,-16731116
+147,146,"pelagica","Chaetura","Chimney Swift",NT,U,-12486656
+148,146,"vauxi","Chaetura","Vaux's Swift",LC,U,-16731116
+149,145,"viridipennis","Chaetura","Amazonian Swift",LC,U,-16731116
+150,144,"martinica","Chaetura","Lesser Antillean Swift",LC,U,-16731116
+153,152,"egregia","Chaetura","Pale-rumped Swift",LC,U,-16731116
+154,152,"chapmani","Chaetura","Chapman's Swift",LC,U,-16731116
+155,151,"brachyura","Chaetura","Short-tailed Swift",LC,U,-16731116
+156,142,"meridionalis","Chaetura","Sick's Swift",LC,U,-16731116
+159,158,"cinereiventris","Chaetura","Grey-rumped Swift",LC,U,-16731116
+160,158,"spinicaudus","Chaetura","Band-rumped Swift",LC,U,-16731116
+161,157,"fumosa","Chaetura","Costa Rican Swift",LC,U,-16731116
+163,162,"novaeguineae","Mearnsia","Papuan Needletail",LC,U,-16731116
+164,162,"picina","Mearnsia","Philippine Needletail",NT,U,-12486656
+168,167,"sylvatica","Zoonavena","White-rumped Spinetail",LC,U,-16731116
+169,167,"thomensis","Zoonavena","Sao Tome Spinetail",LC,U,-16731116
+170,166,"grandidieri","Zoonavena","Malagasy Spinetail",LC,U,-16731116
+172,171,"cassini","Neafrapus","Cassin's Spinetail",LC,U,-16731116
+173,171,"boehmi","Neafrapus","Bat-like Spinetail",LC,U,-16731116
+176,175,"leucopygialis","Rhaphidura","Silver-rumped Spinetail",LC,U,-16731116
+177,175,"sabini","Rhaphidura","Sabine's Spinetail",LC,U,-16731116
+179,178,"melanopygia","Telacanthura","Black Spinetail",LC,U,-16731116
+180,178,"ussheri","Telacanthura","Mottled Spinetail",LC,U,-16731116
+186,185,"rothschildi","Cypseloides","Rothschild's Swift",NT,U,-12486656
+187,185,"senex","Cypseloides","Great Dusky Swift",LC,U,-16731116
+188,184,"niger","Cypseloides","American Black Swift",LC,U,-16731116
+190,189,"storeri","Cypseloides","White-fronted Swift",DD,U,-11513776
+191,189,"cryptus","Cypseloides","White-chinned Swift",LC,U,-16731116
+194,193,"cherriei","Cypseloides","Spot-fronted Swift",DD,U,-11513776
+195,193,"fumigatus","Cypseloides","Sooty Swift",LC,U,-16731116
+196,192,"lemosi","Cypseloides","White-chested Swift",LC,U,-16731116
+200,199,"zonaris","Streptoprocne","White-collared Swift",LC,U,-16731116
+201,199,"biscutata","Streptoprocne","Biscutate Swift",LC,U,-16731116
+202,198,"semicollaris","Streptoprocne","White-naped Swift",LC,U,-16731116
+204,203,"rutila","Streptoprocne","Chestnut-collared Swift",LC,U,-16731116
+205,203,"phelpsi","Streptoprocne","Tepui Swift",LC,U,-16731116
+209,208,"longipennis","Hemiprocne","Grey-rumped Treeswift",LC,U,-16731116
+210,208,"mystacea","Hemiprocne","Moustached Treeswift",LC,U,-16731116
+211,207,"coronata","Hemiprocne","Crested Treeswift",LC,U,-16731116
+212,206,"comata","Hemiprocne","Whiskered Treeswift",LC,U,-16731116

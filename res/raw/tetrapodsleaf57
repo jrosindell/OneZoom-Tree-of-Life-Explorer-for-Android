@@ -1,120 +1,96 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"maculatus","Pedostibes","",NE,U,-16777216
-11,9,"kempi","Pedostibes","",DD,U,-11513776
-12,8,"rugosus","Pedostibes","",NT,D,-12486656
-14,13,"tuberculosus","Pedostibes","",EN,D,-8572416
-15,13,"everetti","Pedostibes","",DD,U,-11513776
-16,6,"hosii","Pedostibes","",LC,D,-16731116
-18,17,"aspera","Phrynoidis","Asian Giant Toad",LC,D,-16731116
-19,17,"juxtaspera","Phrynoidis","",LC,U,-16731116
-26,25,"mertensiana","Werneria","",EN,D,-8572416
-27,25,"preussi","Werneria","",EN,U,-8572416
-28,24,"bambutensis","Werneria","",EN,D,-8572416
-30,29,"submontana","Werneria","",EN,D,-8572416
-31,29,"iboundji","Werneria","",CR,D,-3014646
-32,22,"tandyi","Werneria","",EN,D,-8572416
-34,33,"batesii","Nectophryne","Bates' Tree Toad",LC,D,-16731116
-35,33,"afra","Nectophryne","African Tree Toad",LC,D,-16731116
-38,37,"chirioi","Wolterstorffina","",CR,D,-3014646
-39,37,"mirei","Wolterstorffina","",EN,D,-8572416
-40,36,"parvipalmata","Wolterstorffina","",VU,D,-11184866
-44,43,"caeruleostictus","Rhaebo","",EN,D,-8572416
-45,43,"guttatus","Rhaebo","",LC,S,-16731116
-47,46,"haematiticus","Rhaebo","",LC,D,-16731116
-48,46,"nasicus","Rhaebo","",LC,S,-16731116
-51,50,"glaberrimus","Rhaebo","",LC,S,-16731116
-52,50,"blombergi","Rhaebo","",NT,D,-12486656
-54,53,"anderssoni","Rhaebo","",LC,S,-16731116
-55,53,"hypomelas","Rhaebo","",NT,D,-12486656
-59,58,"brevipollicatus","Dendrophryniscus","",LC,D,-16731116
-60,58,"berthalutzae","Dendrophryniscus","",LC,D,-16731116
-62,61,"leucomystax","Dendrophryniscus","",LC,D,-16731116
-63,61,"bokermanni","Dendrophryniscus","",LC,S,-16731116
-66,65,"carvalhoi","Dendrophryniscus","",EN,D,-8572416
-67,65,"minutus","Dendrophryniscus","",LC,S,-16731116
-68,64,"stawiarskyi","Dendrophryniscus","",DD,U,-11513776
-83,82,"lozanoi","Atelopus","",CR,D,-3014646
-84,82,"certus","Atelopus","",EN,D,-8572416
-85,81,"sanjosei","Atelopus","",DD,U,-11513776
-86,80,"arsyecue","Atelopus","",CR,D,-3014646
-89,88,"sonsonensis","Atelopus","",CR,U,-3014646
-90,88,"flavescens","Atelopus","",VU,S,-11184866
-91,87,"pictiventris","Atelopus","",CR,U,-3014646
-93,92,"longibrachius","Atelopus","",EN,D,-8572416
-94,92,"franciscus","Atelopus","",VU,S,-11184866
-97,96,"carbonerensis","Atelopus","Venezuelan Yellow Frog",CR,D,-3014646
-98,96,"exiguus","Atelopus","",CR,D,-3014646
-99,95,"lynchi","Atelopus","",CR,D,-3014646
-102,101,"petriruizi","Atelopus","",CR,U,-3014646
-103,101,"ebenoides","Atelopus","",CR,D,-3014646
-104,100,"mucubajiensis","Atelopus","",CR,D,-3014646
-111,110,"zeteki","Atelopus","Golden Arrow Poison Frog",CR,D,-3014646
-112,110,"andinus","Atelopus","",CR,D,-3014646
-113,109,"guanujo","Atelopus","",CR,D,-3014646
-115,114,"pulcher","Atelopus","",CR,D,-3014646
-116,114,"farci","Atelopus","",CR,D,-3014646
-117,107,"reticulatus","Atelopus","",CR,D,-3014646
-119,118,"monohernandezii","Atelopus","",CR,D,-3014646
-120,118,"dimorphus","Atelopus","",EN,D,-8572416
-125,124,"chrysocorallus","Atelopus","",CR,D,-3014646
-126,124,"senex","Atelopus","",CR,D,-3014646
-127,123,"peruensis","Atelopus","",CR,U,-3014646
-128,122,"pedimarmoratus","Atelopus","",CR,U,-3014646
-130,129,"oxyrhynchus","Atelopus","",CR,D,-3014646
-131,129,"pachydermus","Atelopus","",CR,D,-3014646
-132,74,"palmatus","Atelopus","",DD,U,-11513776
-138,137,"laetissimus","Atelopus","",CR,D,-3014646
-139,137,"seminiferus","Atelopus","",CR,D,-3014646
-141,140,"galactogaster","Atelopus","",CR,U,-3014646
-142,140,"nanay","Atelopus","",CR,D,-3014646
-144,143,"cruciger","Atelopus","Rancho Grande Harlequin Frog",CR,D,-3014646
-145,143,"coynei","Atelopus","",CR,D,-3014646
-147,146,"eusebianus","Atelopus","",CR,D,-3014646
-148,146,"nahumae","Atelopus","",CR,U,-3014646
-152,151,"carrikeri","Atelopus","",CR,D,-3014646
-153,151,"siranus","Atelopus","",DD,U,-11513776
-154,150,"spumarius","Atelopus","",VU,D,-11184866
-156,155,"mandingues","Atelopus","",CR,U,-3014646
-157,155,"nepiozomus","Atelopus","",CR,U,-3014646
-162,161,"mindoensis","Atelopus","",CR,D,-3014646
-163,161,"chocoensis","Atelopus","",CR,D,-3014646
-164,160,"pinangoi","Atelopus","Green And Red Venter Harlequin Toad",CR,D,-3014646
-165,159,"chiriquiensis","Atelopus","",CR,D,-3014646
-169,168,"balios","Atelopus","",CR,D,-3014646
-170,168,"muisca","Atelopus","",CR,D,-3014646
-171,167,"quimbaya","Atelopus","",CR,U,-3014646
-172,166,"carauta","Atelopus","Rio Carauta Stubfoot Toad",CR,D,-3014646
-179,178,"sorianoi","Atelopus","Scarlet Harlequin Toad",CR,D,-3014646
-180,178,"planispina","Atelopus","",CR,D,-3014646
-182,181,"famelicus","Atelopus","",CR,D,-3014646
-183,181,"ignescens","Atelopus","",EX,U,-16777036
-184,176,"nicefori","Atelopus","",CR,U,-3014646
-185,175,"tricolor","Atelopus","Three-coloured Harlequin Toad",VU,D,-11184866
-186,174,"subornatus","Atelopus","",CR,D,-3014646
-187,173,"longirostris","Atelopus","",EX,U,-16777036
-194,193,"guitarraensis","Atelopus","",CR,D,-3014646
-195,193,"halihelos","Atelopus","",CR,D,-3014646
-196,192,"boulengeri","Atelopus","",CR,D,-3014646
-197,191,"angelito","Atelopus","",CR,D,-3014646
-200,199,"tamaensis","Atelopus","Tama Harlequin Frog",CR,D,-3014646
-201,199,"erythropus","Atelopus","",CR,D,-3014646
-202,198,"chrysophorus","Chaunus","",NE,U,-16777216
-205,204,"simulatus","Atelopus","",CR,D,-3014646
-206,204,"elegans","Atelopus","",CR,D,-3014646
-207,203,"limosus","Atelopus","",EN,D,-8572416
-212,211,"varius","Atelopus","Harlequin Frog",CR,D,-3014646
-213,211,"vogli","Atelopus","",EX,U,-16777036
-214,210,"walkeri","Atelopus","",CR,D,-3014646
-217,216,"minutulus","Atelopus","",CR,D,-3014646
-218,216,"sernai","Atelopus","",CR,D,-3014646
-219,215,"glyphus","Atelopus","",CR,D,-3014646
-222,221,"spurrelli","Atelopus","",VU,D,-11184866
-223,221,"arthuri","Atelopus","",CR,D,-3014646
-224,220,"bomolochos","Atelopus","",CR,D,-3014646
-230,229,"bufoniformis","Osornophryne","",NT,D,-12486656
-231,229,"sumacoensis","Osornophryne","",VU,S,-11184866
-232,228,"antisana","Osornophryne","",EN,D,-8572416
-233,227,"percrassa","Osornophryne","Herveo Plump Toad",EN,D,-8572416
-235,234,"talipes","Osornophryne","Cannatella's Plump Toad",EN,D,-8572416
-236,234,"guacamayo","Osornophryne","Guacamayo Plump Toad",EN,D,-8572416
-237,225,"pernambucensis","Frostius","",LC,D,-16731116
+16,15,"malabarica","Galerida","Malabar Lark",LC,U,-16731116
+17,15,"cristata","Galerida","Crested Lark",LC,U,-16731116
+18,14,"deva","Galerida","Tawny Lark",LC,U,-16731116
+19,13,"theklae","Galerida","Thekla Lark",LC,U,-16731116
+21,20,"magnirostris","Galerida","Large-billed Lark",LC,U,-16731116
+22,20,"modesta","Galerida","Sun Lark",LC,U,-16731116
+26,25,"arvensis","Alauda","Eurasian Skylark",LC,U,-16731116
+27,25,"razae","Alauda","Raso Lark",CR,U,-3014646
+28,24,"japonica","Alauda","Japanese Skylark",LC,U,-16731116
+29,23,"gulgula","Alauda","Oriental Skylark",LC,U,-16731116
+30,10,"arborea","Lullula","Wood Lark",LC,U,-16731116
+36,35,"fringillaris","Spizocorys","Botha's Lark",EN,U,-8572416
+37,35,"personata","Spizocorys","Masked Lark",LC,U,-16731116
+38,34,"sclateri","Spizocorys","Sclater's Lark",NT,U,-12486656
+39,33,"conirostris","Spizocorys","Pink-billed Lark",LC,U,-16731116
+40,32,"obbiensis","Spizocorys","Obbia Lark",DD,U,-11513776
+42,41,"starki","Eremalauda","Stark's Lark",LC,U,-16731116
+43,41,"dunni","Eremalauda","Dunn's Lark",LC,U,-16731116
+48,47,"yeltoniensis","Melanocorypha","Black Lark",LC,U,-16731116
+49,47,"maxima","Melanocorypha","Tibetan Lark",LC,U,-16731116
+50,46,"calandra","Melanocorypha","Calandra Lark",LC,U,-16731116
+52,51,"leucoptera","Melanocorypha","White-winged Lark",LC,U,-16731116
+53,51,"mongolica","Melanocorypha","Mongolian Lark",LC,U,-16731116
+54,44,"bimaculata","Melanocorypha","Bimaculated Lark",LC,U,-16731116
+59,58,"brachydactyla","Calandrella","Greater Short-toed Lark",LC,U,-16731116
+60,58,"cinerea","Calandrella","Red-capped Lark",LC,U,-16731116
+61,57,"cheleensis","Calandrella","Asian Short-toed Lark",LC,U,-16731116
+62,56,"somalica","Calandrella","Rufous Short-toed Lark",LC,U,-16731116
+65,64,"rufescens","Calandrella","Lesser Short-toed Lark",LC,U,-16731116
+66,64,"raytal","Calandrella","Indian Short-toed Lark",LC,U,-16731116
+67,63,"acutirostris","Calandrella","Hume's Lark",LC,U,-16731116
+69,68,"bilopha","Eremophila","Temminck's Lark",LC,U,-16731116
+70,68,"alpestris","Eremophila","Horned Lark",LC,U,-16731116
+72,71,"clotbey","Rhamphocoris","Thick-billed Lark",LC,U,-16731116
+73,71,"duponti","Chersophilus","Dupont's Lark",NT,U,-12486656
+83,82,"williamsi","Mirafra","Williams's Lark",DD,U,-11513776
+84,82,"rufa","Mirafra","Rusty Lark",LC,U,-16731116
+85,81,"affinis","Mirafra","Jerdon's Bushlark",LC,U,-16731116
+86,80,"pulpa","Mirafra","Friedmann's Lark",DD,U,-11513776
+87,79,"javanica","Mirafra","Australasian Lark",LC,U,-16731116
+89,88,"poecilosterna","Mirafra","Pink-breasted Lark",LC,U,-16731116
+90,88,"hypermetra","Mirafra","Red-winged Lark",LC,U,-16731116
+94,93,"passerina","Mirafra","Monotonous Lark",LC,U,-16731116
+95,93,"cheniana","Mirafra","Melodious Lark",NT,U,-12486656
+96,92,"erythroptera","Mirafra","Indian Lark",LC,U,-16731116
+99,98,"assamica","Mirafra","Rufous-winged Lark",LC,U,-16731116
+100,98,"angolensis","Mirafra","Angola Lark",LC,U,-16731116
+101,97,"apiata","Mirafra","Clapper Lark",LC,U,-16731116
+103,102,"albicauda","Mirafra","White-tailed Lark",LC,U,-16731116
+104,102,"alopex","Mirafra","Abyssinian Lark",LC,U,-16731116
+109,108,"rufocinnamomea","Mirafra","Flappet Lark",LC,U,-16731116
+110,108,"cantillans","Mirafra","Singing Bushlark",LC,U,-16731116
+111,107,"cordofanica","Mirafra","Kordofan Lark",LC,U,-16731116
+113,112,"africanoides","Mirafra","Fawn-coloured Lark",LC,U,-16731116
+114,112,"ashi","Mirafra","Ash's Lark",EN,U,-8572416
+118,117,"microptera","Mirafra","Burmese Bushlark",LC,U,-16731116
+119,117,"sabota","Mirafra","Sabota Lark",LC,U,-16731116
+120,116,"gilletti","Mirafra","Gillett's Lark",LC,U,-16731116
+122,121,"erythrocephala","Mirafra","Indochinese Bushlark",LC,U,-16731116
+123,121,"somalica","Mirafra","Somali Lark",LC,U,-16731116
+126,125,"africana","Mirafra","Rufous-naped Lark",LC,U,-16731116
+127,125,"collaris","Mirafra","Collared Lark",LC,U,-16731116
+128,124,"hova","Mirafra","Madagascar Lark",LC,U,-16731116
+137,136,"semitorquata","Certhilauda","Eastern Long-billed Lark",LC,U,-16731116
+138,136,"curvirostris","Certhilauda","Cape Long-billed Lark",LC,U,-16731116
+140,139,"fremantlii","Pseudalaemon","Short-tailed Lark",LC,U,-16731116
+141,139,"chuana","Certhilauda","Short-clawed Lark",LC,U,-16731116
+142,134,"subcoronata","Certhilauda","Karoo Long-billed Lark",LC,U,-16731116
+145,144,"sidamoensis","Heteromirafra","Liben Lark",CR,U,-3014646
+146,144,"ruddi","Heteromirafra","Rudd's Lark",VU,U,-11184866
+147,143,"archeri","Heteromirafra","Archer's Lark",CR,U,-3014646
+148,132,"erythrochlamys","Certhilauda","Dune Lark",LC,U,-16731116
+151,150,"erythropygia","Pinarocorys","Rufous-rumped Lark",LC,U,-16731116
+152,150,"nigricans","Pinarocorys","Dusky Lark",LC,U,-16731116
+154,153,"albofasciata","Chersomanes","Spike-heeled Lark",LC,U,-16731116
+155,153,"grayi","Ammomanes","Gray's Lark",LC,U,-16731116
+159,158,"barlowi","Certhilauda","Barlow's Lark",LC,U,-16731116
+160,158,"burra","Certhilauda","Red Lark",VU,U,-11184866
+161,157,"albescens","Certhilauda","Karoo Lark",LC,U,-16731116
+162,156,"deserti","Ammomanes","Desert Lark",LC,U,-16731116
+164,163,"alaudipes","Alaemon","Greater Hoopoe-lark",LC,U,-16731116
+165,163,"hamertoni","Alaemon","Lesser Hoopoe-lark",LC,U,-16731116
+172,171,"signatus","Eremopterix","Chestnut-headed Sparrow-lark",LC,U,-16731116
+173,171,"nigriceps","Eremopterix","Black-crowned Sparrow-lark",LC,U,-16731116
+174,170,"leucopareia","Eremopterix","Fischer's Sparrow-lark",LC,U,-16731116
+175,169,"verticalis","Eremopterix","Grey-backed Sparrow-lark",LC,U,-16731116
+176,168,"australis","Eremopterix","Black-eared Sparrow-lark",LC,U,-16731116
+178,177,"leucotis","Eremopterix","Chestnut-backed Sparrow-lark",LC,U,-16731116
+179,177,"griseus","Eremopterix","Ashy-crowned Sparrow-lark",LC,U,-16731116
+181,180,"phoenicura","Ammomanes","Rufous-tailed Lark",LC,U,-16731116
+182,180,"cinctura","Ammomanes","Bar-tailed Lark",LC,U,-16731116
+183,1,"biarmicus","Panurus","Bearded Parrotbill",LC,U,-16731116
+186,185,"chloris","Nicator","Yellow-spotted Nicator",LC,U,-16731116
+187,185,"vireo","Nicator","Yellow-throated Nicator",LC,U,-16731116
+188,184,"gularis","Nicator","Eastern Nicator",LC,U,-16731116

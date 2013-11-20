@@ -1,0 +1,92 @@
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"adenopleura","Babina","",LC,S,-16731116
+15,13,"psaltes","Babina","",NE,U,-16777216
+16,12,"chapaensis","Babina","Chapa Frog",LC,S,-16731116
+17,11,"daunchina","Babina","Emei Music Frog",LC,S,-16731116
+20,19,"holsti","Babina","Holst's Frog",EN,D,-8572416
+21,19,"pleuraden","Babina","",LC,D,-16731116
+23,22,"subaspera","Babina","",EN,D,-8572416
+24,22,"lini","Babina","",DD,U,-11513776
+33,32,"bergeri","Pelophylax","Italian Pool Frog",LC,D,-16731116
+34,32,"plancyi","Pelophylax","",LC,D,-16731116
+35,31,"epeiroticus","Pelophylax","Epirus Water Frog",VU,D,-11184866
+38,37,"cerigensis","Pelophylax","Karpathos Frog",CR,D,-3014646
+39,37,"demarchii","Pelophylax","",DD,U,-11513776
+40,36,"lessonae","Pelophylax","Pool Frog",LC,D,-16731116
+42,41,"ridibundus","Pelophylax","Eurasian Marsh Frog",LC,I,-16731116
+43,41,"saharicus","Pelophylax","Sahara Frog",LC,S,-16731116
+44,28,"fukienensis","Pelophylax","",LC,D,-16731116
+47,46,"nigromaculatus","Pelophylax","Black-spotted Pond Frog",NT,D,-12486656
+48,46,"kurtmuelleri","Pelophylax","Balkan Water Frog",LC,S,-16731116
+49,45,"bedriagae","Pelophylax","Levantine Frog",LC,D,-16731116
+56,55,"nigrolineatus","Pelophylax","",NE,U,-16777216
+57,55,"terentievi","Pelophylax","",DD,U,-11513776
+58,54,"shqipericus","Pelophylax","Albanian Water Frog",EN,D,-8572416
+61,60,"tenggerensis","Pelophylax","",EN,D,-8572416
+62,60,"shuchinae","Pelophylax","",NE,U,-16777216
+63,59,"porosus","Pelophylax","Daruma Pond Frog",LC,D,-16731116
+64,52,"hubeiensis","Pelophylax","",LC,U,-16731116
+67,66,"perezi","Pelophylax","Perez's Frog",LC,S,-16731116
+68,66,"chosenicus","Pelophylax","",VU,D,-11184866
+69,65,"cretensis","Pelophylax","Cretan Frog",EN,D,-8572416
+70,50,"lateralis","Pelophylax","Kokarit Frog",LC,U,-16731116
+74,73,"rugosa","Glandirana","Japanese Wrinkled Frog",LC,S,-16731116
+75,73,"minima","Glandirana","",CR,D,-3014646
+76,72,"tientaiensis","Glandirana","",NT,D,-12486656
+77,71,"emeljanovi","Glandirana","",LC,D,-16731116
+83,82,"orphnocnemis","Meristogenys","",LC,D,-16731116
+84,82,"amoropalamus","Meristogenys","",VU,D,-11184866
+85,81,"jerboa","Meristogenys","",VU,S,-11184866
+87,86,"phaeomerus","Meristogenys","",NT,D,-12486656
+88,86,"poecilus","Meristogenys","",NT,D,-12486656
+91,90,"kinabaluensis","Meristogenys","Kiau Borneo Frog",NT,S,-12486656
+92,90,"whiteheadi","Meristogenys","",NT,D,-12486656
+93,89,"macrophthalmus","Meristogenys","",DD,U,-11513776
+94,78,"curtipes","Clinotarsus","",NT,D,-12486656
+99,98,"aurata","Sylvirana","",NE,U,-16777216
+100,98,"grisea","Sylvirana","",NE,U,-16777216
+101,96,"jimiensis","Sylvirana","",NE,U,-16777216
+111,110,"albotuberculata","Hydrophylax","",NE,U,-16777216
+112,110,"fonensis","Hydrophylax","",NE,U,-16777216
+113,109,"lepus","Hydrophylax","",NE,U,-16777216
+114,108,"kampeni","Hydrophylax","",NE,U,-16777216
+117,116,"parkerianus","Hydrophylax","",NE,U,-16777216
+118,116,"macrops","Hydrophylax","",NE,U,-16777216
+119,115,"chalconotus","Hydrophylax","",NE,U,-16777216
+123,122,"luzonensis","Hydrophylax","",NE,U,-16777216
+124,122,"tipanan","Hydrophylax","",NE,U,-16777216
+125,121,"raniceps","Hydrophylax","",NE,U,-16777216
+127,126,"malabaricus","Hydrophylax","",NE,U,-16777216
+128,126,"lemairei","Hydrophylax","",NE,U,-16777216
+133,132,"galamensis","Hydrophylax","",NE,U,-16777216
+134,132,"darlingi","Hydrophylax","",NE,U,-16777216
+136,135,"albolabris","Hydrophylax","",NE,U,-16777216
+137,135,"amnicola","Hydrophylax","",NE,U,-16777216
+138,130,"longipes","Hydrophylax","",NE,U,-16777216
+139,129,"occidentalis","Hydrophylax","",NE,U,-16777216
+142,141,"asperrima","Hydrophylax","",NE,U,-16777216
+143,141,"igorota","Hydrophylax","",NE,U,-16777216
+144,140,"everetti","Hydrophylax","",NE,U,-16777216
+145,103,"crassiovis","Hydrophylax","",NE,U,-16777216
+146,102,"sanguinea","Sanguirana","",LC,S,-16731116
+150,149,"erythraea","Hylarana","Common Green Frog",LC,S,-16731116
+151,149,"tytleri","Hylarana","",LC,S,-16731116
+153,152,"macrodactyla","Hylarana","",LC,S,-16731116
+154,152,"taipehensis","Hylarana","",LC,S,-16731116
+155,147,"guentheri","Hylarana","Gunther's Amoy Frog",LC,U,-16731116
+158,157,"tuberilinguis","Staurois","",NT,D,-12486656
+159,157,"natator","Staurois","",LC,D,-16731116
+160,156,"latopalmatus","Staurois","",LC,U,-16731116
+168,167,"deccanensis","Nyctibatrachus","",VU,D,-11184866
+169,167,"aliciae","Nyctibatrachus","",EN,D,-8572416
+170,166,"major","Nyctibatrachus","",VU,D,-11184866
+171,165,"petraeus","Nyctibatrachus","",LC,U,-16731116
+173,172,"kempholeyensis","Nyctibatrachus","",DD,U,-11513776
+174,172,"minor","Nyctibatrachus","",EN,D,-8572416
+177,176,"sylvaticus","Nyctibatrachus","",DD,U,-11513776
+178,176,"beddomii","Nyctibatrachus","",EN,D,-8572416
+180,179,"humayuni","Nyctibatrachus","",VU,D,-11184866
+181,179,"hussaini","Nyctibatrachus","",NE,U,-16777216
+183,182,"sanctipalustris","Nyctibatrachus","",EN,D,-8572416
+184,182,"vasanthi","Nyctibatrachus","",EN,D,-8572416
+185,161,"corrugatus","Lankanectes","",LC,S,-16731116

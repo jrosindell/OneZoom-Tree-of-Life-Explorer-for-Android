@@ -1,0 +1,32 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"megacephalus","Polypedates","Hong Kong Whipping Frog",LC,S,-16731116
+9,7,"pseudocruciger","Polypedates","",LC,S,-16731116
+10,6,"otilophus","Polypedates","",LC,D,-16731116
+12,11,"insularis","Polypedates","",EN,U,-8572416
+13,11,"fastigo","Polypedates","",CR,D,-3014646
+15,14,"cruciger","Polypedates","",LC,S,-16731116
+16,14,"zed","Polypedates","",DD,U,-11513776
+17,3,"hecticus","Polypedates","",DD,U,-11513776
+19,18,"taeniatus","Polypedates","",LC,U,-16731116
+20,18,"macrotis","Polypedates","",LC,U,-16731116
+25,24,"maculatus","Polypedates","Himalayan Treefrog",LC,S,-16731116
+26,24,"colletti","Polypedates","",LC,D,-16731116
+28,27,"mutus","Polypedates","",LC,U,-16731116
+29,27,"eques","Polypedates","",EN,D,-8572416
+30,22,"longinasus","Polypedates","",EN,D,-8572416
+31,21,"leucomystax","Polypedates","Common Treefrog",LC,S,-16731116
+38,37,"rufescens","Chiromantis","African Foam-nest Treefrog",LC,S,-16731116
+39,37,"vittatus","Chiromantis","",LC,S,-16731116
+40,36,"hansenae","Chiromantis","",DD,U,-11513776
+42,41,"xerampelina","Chiromantis","Grey Foam-nest Treefrog",LC,U,-16731116
+43,41,"punctatus","Chiromantis","",DD,U,-11513776
+46,45,"shyamrupus","Chiromantis","",DD,U,-11513776
+47,45,"romeri","Chiromantis","",NE,U,-16777216
+48,44,"cherrapunjiae","Chiromantis","",DD,U,-11513776
+50,49,"nongkhorensis","Chiromantis","",LC,D,-16731116
+51,49,"laevis","Chiromantis","",DD,U,-11513776
+56,55,"dudhwaensis","Chiromantis","",DD,U,-11513776
+57,55,"petersii","Chiromantis","",LC,S,-16731116
+58,54,"simus","Chiromantis","",LC,D,-16731116
+59,53,"doriae","Chiromantis","Doria's Asian Treefrog",LC,U,-16731116
+60,52,"kelleri","Chiromantis","",LC,S,-16731116

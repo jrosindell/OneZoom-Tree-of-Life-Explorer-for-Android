@@ -1,0 +1,80 @@
+index,parent,name1,name2,common,redlist,popstab,color
+24,23,"cruentatus","Oligodon","",NE,U,-16777216
+25,23,"theobaldi","Oligodon","",NE,U,-16777216
+27,26,"planiceps","Oligodon","",NE,U,-16777216
+28,26,"torquatus","Oligodon","",NE,U,-16777216
+29,21,"maculatus","Oligodon","Barred Short-headed Snake",LC,D,-16731116
+30,20,"cinereus","Oligodon","",NE,U,-16777216
+31,19,"splendidus","Oligodon","",NE,U,-16777216
+37,36,"ocellatus","Oligodon","",NE,U,-16777216
+38,36,"cyclurus","Oligodon","",NE,U,-16777216
+39,35,"formosanus","Oligodon","",NE,U,-16777216
+41,40,"taeniatus","Oligodon","",NE,U,-16777216
+42,40,"barroni","Oligodon","",NE,U,-16777216
+43,33,"chinensis","Oligodon","",NE,U,-16777216
+44,32,"octolineatus","Oligodon","",NE,U,-16777216
+48,47,"modestum","Oligodon","Spotted-bellied Short-headed Snake",VU,D,-11184866
+49,47,"venustus","Oligodon","",NE,U,-16777216
+50,46,"arnensis","Oligodon","",NE,U,-16777216
+53,52,"sublineatus","Oligodon","",NE,U,-16777216
+54,52,"calamarius","Oligodon","",NE,U,-16777216
+55,51,"taeniolatus","Oligodon","",NE,U,-16777216
+62,61,"caudolineatus","Dendrelaphis","",NE,U,-16777216
+63,61,"schokarii","Dendrelaphis","",NE,U,-16777216
+64,60,"tristis","Dendrelaphis","",NE,U,-16777216
+65,59,"caudolineolatus","Dendrelaphis","",NE,U,-16777216
+68,67,"calligastra","Dendrelaphis","",NE,U,-16777216
+69,67,"bifrenalis","Dendrelaphis","",NE,U,-16777216
+70,66,"pictus","Dendrelaphis","",NE,U,-16777216
+73,72,"paradisi","Chrysopelea","Paradise Flying Snake",NE,U,-16777216
+74,72,"ornata","Chrysopelea","Golden Flying Snake",NE,U,-16777216
+75,71,"taprobanica","Chrysopelea","Indian Flying Snake",NE,U,-16777216
+78,77,"fronticincta","Ahaetulla","Gunther's Whipsnake",NE,U,-16777216
+79,77,"nasuta","Ahaetulla","Green Vine Snake",NE,U,-16777216
+80,76,"pulverulenta","Ahaetulla","Brown-speckled Whipsnake",NE,U,-16777216
+82,81,"hanitschi","Oreocalamus","",NE,U,-16777216
+83,81,"ornata","Grayia","",NE,U,-16777216
+85,84,"oxycephalum","Pseudorabdion","Negros Light-scaled Burrowing Snake",LC,D,-16731116
+86,84,"pavimentata","Calamaria","",NE,U,-16777216
+92,91,"chinensis","Sibynophis","",NE,U,-16777216
+93,91,"collaris","Sibynophis","",NE,U,-16777216
+94,90,"triangularis","Sibynophis","",NE,U,-16777216
+96,95,"subpunctatus","Sibynophis","",NE,U,-16777216
+97,95,"bistrigatus","Sibynophis","",NE,U,-16777216
+98,88,"annulatus","Scaphiodontophis","",NE,U,-16777216
+101,100,"karlschmidti","Pseudoxenodon","",NE,U,-16777216
+102,100,"styani","Plagiopholis","",NE,U,-16777216
+106,105,"bicoloratus","Micrelaps","",NE,U,-16777216
+113,112,"leucobalia","Fordonia","Crab-eating Water Snake",NE,U,-16777216
+114,112,"prevostiana","Gerarda","Glossy Marsh Snake",LC,U,-16731116
+115,111,"violacea","Cantoria","Cantor's Water Snake",NE,U,-16777216
+116,110,"hydroides","Bitia","",NE,U,-16777216
+117,109,"tentaculatum","Erpeton","Tentacled Snake",NE,U,-16777216
+120,119,"buccata","Homalopsis","",NE,U,-16777216
+121,119,"rynchops","Cerberus","",NE,U,-16777216
+122,118,"enhydris","Enhydris","Rainbow Water Snake",LC,U,-16731116
+123,107,"richardsonii","Myron","",NE,U,-16777216
+125,124,"formosensis","Pareas","",NE,U,-16777216
+126,124,"boa","Aplopeltura","",NE,U,-16777216
+129,128,"javanicus","Xenodermus","Java Tubercle Snake",NE,U,-16777216
+130,128,"meiguensis","Achalinus","",NE,U,-16777216
+131,127,"borneensis","Stoliczkia","Borneo Red Snake",NE,U,-16777216
+132,5,"granulatus","Acrochordus","Little Small Snake",NE,U,-16777216
+135,134,"boulengeri","Trachyboa","Northern Eyelash Boa",NE,U,-16777216
+136,134,"haetianus","Tropidophis","Haitian Dwarf Boa",NE,U,-16777216
+137,133,"scytale","Anilius","False Coral Snake",NE,U,-16777216
+139,138,"albirostris","Liotyphlops","Whitenose Blind Snake",NE,U,-16777216
+140,138,"squamosus","Typhlophis","Trinidad Blind Snake",NE,U,-16777216
+151,150,"fuliginosa","Amphisbaena","",NE,U,-16777216
+152,150,"schmidti","Amphisbaena","",NE,U,-16777216
+153,149,"barbouri","Amphisbaena","",NE,U,-16777216
+155,154,"caeca","Amphisbaena","",NE,U,-16777216
+156,154,"alba","Amphisbaena","",NE,U,-16777216
+157,147,"manni","Amphisbaena","",NE,U,-16777216
+158,146,"darwini","Amphisbaena","Darwin's Ringed Worm Lizard",NE,U,-16777216
+160,159,"canaliculatus","Bipes","Four-toed Worm Lizard",LC,S,-16731116
+161,159,"biporus","Bipes","Five-toed Worm Lizard",LC,S,-16731116
+162,144,"microcephalum","Leposternon","",NE,U,-16777216
+163,143,"cinereus","Blanus","Iberian Worm Lizard",LC,S,-16731116
+164,142,"acutus","Geocalamus","",NE,U,-16777216
+165,141,"novaeguineae","Dibamus","",NE,U,-16777216

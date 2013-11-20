@@ -1,0 +1,50 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"tulearensis","Phisalixella","",LC,U,-16731116
+13,11,"citrinus","Lycodryas","",VU,U,-11184866
+14,10,"colubrinus","Madagascarophis","",LC,U,-16731116
+17,16,"ochraceus","Micropisthodon","",LC,U,-16731116
+18,16,"oursi","Ithycyphus","",NE,U,-16777216
+19,15,"madagascariensis","Langaha","",NE,U,-16777216
+21,20,"madagascariensis","Leioheterodon","",NE,U,-16777216
+22,20,"betsileanus","Parastenophis","",NE,U,-16777216
+24,23,"epistibes","Thamnosophis","",NE,U,-16777216
+25,23,"bellyi","Alluaudina","",NE,U,-16777216
+30,29,"sexlineatus","Liopholidophis","",NE,U,-16777216
+31,29,"albignaci","Exallodontophis","",NE,U,-16777216
+33,32,"ambreensis","Pseudoxyrhopus","",NE,U,-16777216
+34,32,"occipitalis","Heteroliodon","",NE,U,-16777216
+35,27,"chabaudi","Liophidium","",NE,U,-16777216
+36,26,"bernieri","Dromicodryas","",NE,U,-16777216
+38,37,"multimaculatus","Amplorhinus","",NE,U,-16777216
+39,37,"lutrix","Duberria","",NE,U,-16777216
+41,40,"infralineatus","Compsophis","",NE,U,-16777216
+42,40,"vivax","Ditypophis","",NE,U,-16777216
+49,48,"brunneus","Bothrophthalmus","",NE,U,-16777216
+50,48,"ater","Bothrolycus","",NE,U,-16777216
+52,51,"capensis","Lamprophis","",NE,U,-16777216
+53,51,"fuliginosus","Boaedon","",NE,U,-16777216
+54,46,"rufulus","Lycodonomorphus","Common Brown Water Snake",NE,U,-16777216
+55,45,"lemniscatus","Pseudoboodon","",NE,U,-16777216
+56,44,"capense","Lycophidion","",NE,U,-16777216
+59,58,"modestus","Hormonotus","",NE,U,-16777216
+60,58,"swazicus","Inyoka","",NE,U,-16777216
+61,57,"brussauxi","Gonionotophis","",NE,U,-16777216
+66,65,"transvaalensis","Xenocalamus","Transvaal Quillsnout Snake",DD,U,-11513776
+67,65,"polylepis","Amblyodipsas","Common Purple-glossed Snake",NE,U,-16777216
+68,64,"microlepidotus","Macrelaps","",NE,U,-16777216
+70,69,"werneri","Aparallactus","",NE,U,-16777216
+71,69,"acanthias","Polemon","",NE,U,-16777216
+73,72,"lacteus","Homoroselaps","",NE,U,-16777216
+74,72,"bibronii","Atractaspis","",NE,U,-16777216
+77,76,"pulverulentus","Psammodynastes","",NE,U,-16777216
+78,76,"procterae","Buhoma","",NE,U,-16777216
+80,79,"carinata","Pythonodipsas","",NE,U,-16777216
+81,79,"cana","Pseudaspis","",NE,U,-16777216
+88,87,"hildebrandtii","Hemirhagerrhis","",NE,U,-16777216
+89,87,"rhombeatus","Psammophylax","",NE,U,-16777216
+90,86,"mahfalensis","Mimophis","",NE,U,-16777216
+91,85,"multimaculata","Dipsina","Dwarf Beaked Snake",NE,U,-16777216
+92,84,"crucifer","Psammophis","",NE,U,-16777216
+94,93,"monspessulanus","Malpolon","Montpellier Snake",LC,S,-16731116
+95,93,"rostratus","Rhamphiophis","",NE,U,-16777216
+96,82,"janii","Prosymna","",NE,U,-16777216

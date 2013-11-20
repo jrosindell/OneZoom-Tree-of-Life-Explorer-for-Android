@@ -1,105 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-3,2,"scutatum","Hemidactylium","Four-toed Salamander",LC,S,-16731116
-10,9,"attenuatus","Batrachoseps","California Slender Salamander",LC,S,-16731116
-11,9,"gabrieli","Batrachoseps","San Gabriel Slender Salamander",DD,U,-11513776
-13,12,"diabolicus","Batrachoseps","Hell Hollow Slender Salamander",DD,U,-11513776
-14,12,"relictus","Batrachoseps","Relictual Slender Salamander",DD,U,-11513776
-16,15,"robustus","Batrachoseps","Kern Plateau Salamander",NT,S,-12486656
-17,15,"campi","Batrachoseps","Inyo Mountains Salamander",EN,D,-8572416
-22,21,"kawia","Batrachoseps","Sequoia Slender Salamander",DD,U,-11513776
-23,21,"minor","Batrachoseps","Lesser Slender Salamander",DD,U,-11513776
-24,20,"gregarius","Batrachoseps","Gregarious Slender Salamander",LC,S,-16731116
-25,19,"regius","Batrachoseps","Kings River Slender Salamander",VU,S,-11184866
-26,18,"gavilanensis","Batrachoseps","Gabilan Mountains Slender Salamander",LC,S,-16731116
-32,31,"nigriventris","Batrachoseps","Blackbelly Slender Salamander",LC,S,-16731116
-33,31,"major","Batrachoseps","Garden Slender Salamander",LC,S,-16731116
-34,30,"pacificus","Batrachoseps","Channel Islands Slender Salamander",LC,S,-16731116
-35,29,"simatus","Batrachoseps","Kern Canyon Slender Salamander",VU,S,-11184866
-37,36,"stebbinsi","Batrachoseps","Tehachapi Slender Salamander",VU,U,-11184866
-38,36,"wrightorum","Batrachoseps","",NE,U,-16777216
-39,27,"incognitus","Batrachoseps","San Simeon Slender Salamander",DD,U,-11513776
-40,4,"luciae","Batrachoseps","Santa Lucia Mountains Slender Salamander",LC,S,-16731116
-51,50,"dorsalis","Plethodon","Northern Zigzag Salamander",LC,S,-16731116
-52,50,"welleri","Plethodon","Weller's Salamander",EN,D,-8572416
-53,49,"ventralis","Plethodon","Southern Zigzag Salamander",LC,D,-16731116
-54,48,"angusticlavius","Plethodon","Ozark Zigzag Salamander",LC,S,-16731116
-55,47,"websteri","Plethodon","Webster's Salamander",LC,D,-16731116
-59,58,"stormi","Plethodon","Siskiyou Mountains Salamander",EN,D,-8572416
-60,58,"asupak","Plethodon","Scottbar Salamander",VU,U,-11184866
-61,57,"elongatus","Plethodon","Del Norte Salamander",NT,D,-12486656
-62,56,"ainsworthi","Plethodon","Ainsworth's Salamander",EX,U,-16777036
-64,63,"idahoensis","Plethodon","Coeur D'Alene Salamander",LC,U,-16731116
-65,63,"vandykei","Plethodon","Van Dyke's Salamander",LC,S,-16731116
-67,66,"neomexicanus","Plethodon","Jemez Mountains Salamander",NT,S,-12486656
-68,66,"larselli","Plethodon","Larch Mountain Salamander",NT,S,-12486656
-74,73,"serratus","Plethodon","Southern Redback Salamander",LC,S,-16731116
-75,73,"nettingi","Plethodon","Cheat Mountain Salamander",NT,S,-12486656
-77,76,"hoffmani","Plethodon","Valley And Ridge Salamander",LC,S,-16731116
-78,76,"shenandoah","Plethodon","Shenandoah Salamander",VU,S,-11184866
-80,79,"hubrichti","Plethodon","Peaks Of Otter Salamander",VU,U,-11184866
-81,79,"richmondi","Plethodon","Ravine Salamander",LC,S,-16731116
-85,84,"virginia","Plethodon","Shenandoah Mountain Salamander",NT,U,-12486656
-86,84,"sherando","Plethodon","Big Levels Salamander",VU,U,-11184866
-87,83,"cinereus","Plethodon","Redback Salamander",LC,S,-16731116
-88,82,"electromorphus","Plethodon","Northern Ravine Salamander",LC,S,-16731116
-90,89,"punctatus","Plethodon","White-spotted Salamander",NT,S,-12486656
-91,89,"wehrlei","Plethodon","Wehrle's Salamander",LC,S,-16731116
-103,102,"meridianus","Plethodon","South Mountain Gray-cheeked Salamander",VU,S,-11184866
-104,102,"caddoensis","Plethodon","Caddo Mountain Salamander",NT,U,-12486656
-105,101,"shermani","Plethodon","Red-legged Salamander",VU,S,-11184866
-106,100,"sequoyah","Plethodon","Sequoyah Slimy Salamander",DD,U,-11513776
-108,107,"albagula","Plethodon","Western Slimy Salamander",LC,S,-16731116
-109,107,"glutinosus","Plethodon","Slimy Salamander",LC,S,-16731116
-110,98,"aureolus","Plethodon","Tellico Salamander",DD,U,-11513776
-111,97,"ouachitae","Plethodon","Rich Mountain Salamander",NT,S,-12486656
-113,112,"cylindraceus","Plethodon","White-spotted Slimy Salamander",LC,S,-16731116
-114,112,"kentucki","Plethodon","Cumberland Plateau Salamander",LC,S,-16731116
-115,95,"kiamichi","Plethodon","Kiamichi Slimy Salamander",DD,U,-11513776
-120,119,"montanus","Plethodon","Northern Gray-cheeked Salamander",LC,S,-16731116
-121,119,"teyahalee","Plethodon","Southern Appalachian Salamander",LC,S,-16731116
-123,122,"metcalfi","Plethodon","Southern Gray-cheeked Salamander",LC,S,-16731116
-124,122,"cheoah","Plethodon","Cheoah Bald Salamander",VU,S,-11184866
-126,125,"amplus","Plethodon","Blue Ridge Gray-cheeked Salamander",VU,U,-11184866
-127,125,"yonahlossee","Plethodon","Yonahlossee Salamander",LC,S,-16731116
-128,116,"petraeus","Plethodon","Pigeon Mountain Salamander",VU,S,-11184866
-131,130,"fourchensis","Plethodon","Fourche Mountain Salamander",VU,U,-11184866
-132,130,"jordani","Plethodon","Red-cheeked Salamander",NT,S,-12486656
-133,129,"kisatchie","Plethodon","Louisiana Slimy Salamander",LC,U,-16731116
-135,134,"vehiculum","Plethodon","Western Redback Salamander",LC,S,-16731116
-136,134,"dunni","Plethodon","Dunn's Salamander",LC,S,-16731116
-146,145,"santeetlah","Desmognathus","Santeetlah Dusky Salamander",LC,S,-16731116
-147,145,"orestes","Desmognathus","Blue Ridge Dusky Salamander",LC,S,-16731116
-149,148,"marmoratus","Desmognathus","Shovelnose Salamander",LC,S,-16731116
-150,148,"monticola","Desmognathus","Seal Salamander",LC,S,-16731116
-152,151,"apalachicolae","Desmognathus","Apalachicola Dusky Salamander",LC,S,-16731116
-153,151,"abditus","Desmognathus","Cumberland Dusky Salamander",NT,U,-12486656
-154,142,"carolinensis","Desmognathus","Carolina Mountain Dusky Salamander",LC,S,-16731116
-159,158,"brimleyorum","Desmognathus","Ouachita Dusky Salamander",LC,S,-16731116
-160,158,"auriculatus","Desmognathus","Southern Dusky Salamander",LC,S,-16731116
-162,161,"folkertsi","Desmognathus","Dwarf Black-bellied Salamander",DD,U,-11513776
-163,161,"imitator","Desmognathus","Imitator Salamander",LC,S,-16731116
-164,156,"aeneus","Desmognathus","Seepage Salamander",NT,D,-12486656
-165,155,"quadramaculatus","Desmognathus","Blackbelly Salamander",LC,S,-16731116
-170,169,"welteri","Desmognathus","Black Mountain Salamander",LC,S,-16731116
-171,169,"ocoee","Desmognathus","Ocoee Salamander",LC,S,-16731116
-172,168,"ochrophaeus","Desmognathus","Allegheny Mountain Dusky Salamander",LC,S,-16731116
-173,167,"fuscus","Desmognathus","Dusky Salamander",LC,S,-16731116
-174,166,"wrighti","Desmognathus","Pygmy Salamander",LC,S,-16731116
-181,180,"ambrosii","Hydromantes","",NE,U,-16777216
-182,180,"italicus","Hydromantes","",NE,U,-16777216
-184,183,"strinatii","Hydromantes","",NE,U,-16777216
-185,183,"flavus","Hydromantes","",NE,U,-16777216
-187,186,"supramontis","Hydromantes","",NE,U,-16777216
-188,186,"imperialis","Hydromantes","",NE,U,-16777216
-189,177,"genei","Hydromantes","",NE,U,-16777216
-192,191,"platycephalus","Hydromantes","Mount Lyell Salamander",LC,S,-16731116
-193,191,"shastae","Hydromantes","Shasta Salamander",VU,S,-11184866
-194,190,"brunus","Hydromantes","Limestone Salamander",VU,U,-11184866
-195,175,"hubrichti","Phaeognathus","Red Hills Salamander",EN,D,-8572416
-199,198,"hardii","Aneides","Sacramento Mountain Salamander",LC,S,-16731116
-200,198,"aeneus","Aneides","Green Salamander",NT,D,-12486656
-201,197,"flavipunctatus","Aneides","Black Salamander",NT,D,-12486656
-204,203,"lugubris","Aneides","Arboreal Salamander",LC,S,-16731116
-205,203,"vagrans","Aneides","Wandering Salamander",NT,D,-12486656
-206,202,"ferreus","Aneides","Clouded Salamander",NT,D,-12486656
-207,137,"eschscholtzii","Ensatina","Ensatina",LC,D,-16731116
+10,9,"cygnoides","Anser","Swan Goose",VU,U,-11184866
+11,9,"anser","Anser","Greylag Goose",LC,U,-16731116
+12,8,"erythropus","Anser","Lesser White-fronted Goose",VU,U,-11184866
+13,7,"brachyrhynchus","Anser","Pink-footed Goose",LC,U,-16731116
+14,6,"indicus","Anser","Bar-headed Goose",LC,U,-16731116
+16,15,"albifrons","Anser","Greater White-fronted Goose",LC,U,-16731116
+17,15,"fabalis","Anser","Bean Goose",LC,U,-16731116
+20,19,"caerulescens","Chen","Snow Goose",LC,U,-16731116
+21,19,"rossii","Chen","Ross's Goose",LC,U,-16731116
+22,18,"canagica","Chen","Emperor Goose",NT,U,-12486656
+27,26,"hutchinsii","Branta","Cackling Goose",LC,U,-16731116
+28,26,"leucopsis","Branta","Barnacle Goose",LC,U,-16731116
+30,29,"sandvicensis","Branta","Hawaiian Goose",VU,U,-11184866
+31,29,"canadensis","Branta","Canada Goose",LC,U,-16731116
+32,24,"ruficollis","Branta","Red-breasted Goose",EN,U,-8572416
+33,23,"bernicla","Branta","Brent Goose",LC,U,-16731116
+38,37,"columbianus","Cygnus","Tundra Swan",LC,U,-16731116
+39,37,"cygnus","Cygnus","Whooper Swan",LC,U,-16731116
+40,36,"buccinator","Cygnus","Trumpeter Swan",LC,U,-16731116
+42,41,"atratus","Cygnus","Black Swan",LC,U,-16731116
+43,41,"olor","Cygnus","Mute Swan",LC,U,-16731116
+44,34,"melancoryphus","Cygnus","Black-necked Swan",LC,U,-16731116
+46,45,"novaehollandiae","Cereopsis","Cape Barren Goose",LC,U,-16731116
+47,45,"coscoroba","Coscoroba","Coscoroba Swan",LC,U,-16731116
+48,0,"membranaceus","Malacorhynchus","Pink-eared Duck",LC,U,-16731116

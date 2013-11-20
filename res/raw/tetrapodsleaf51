@@ -1,146 +1,100 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"palustris","Lithobates","Pickerel Frog",LC,S,-16731116
-13,11,"maculatus","Lithobates","",LC,D,-16731116
-14,10,"vaillanti","Lithobates","",LC,S,-16731116
-16,15,"sphenocephalus","Lithobates","Southern Leopard Frog",LC,S,-16731116
-17,15,"taylori","Lithobates","",LC,U,-16731116
-21,20,"magnaocularis","Lithobates","Northwest Mexico Leopard Frog",LC,U,-16731116
-22,20,"warszewitschii","Lithobates","",LC,I,-16731116
-23,19,"capito","Lithobates","Gopher Frog",NT,D,-12486656
-24,18,"miadis","Lithobates","",VU,S,-11184866
-26,25,"tlaloci","Lithobates","Tlaloc's Leopard Frog",CR,D,-3014646
-27,25,"dunni","Lithobates","",EN,D,-8572416
-32,31,"macroglossa","Lithobates","",VU,D,-11184866
-33,31,"bwana","Lithobates","",VU,D,-11184866
-34,30,"johni","Lithobates","",EN,D,-8572416
-35,29,"pipiens","Lithobates","Northern Leopard Frog",LC,D,-16731116
-36,28,"palmipes","Lithobates","",LC,S,-16731116
-40,39,"onca","Lithobates","Relict Leopard Frog",EN,D,-8572416
-41,39,"sierramadrensis","Lithobates","",VU,D,-11184866
-42,38,"chiricahuensis","Lithobates","Chiricahua Leopard Frog",VU,D,-11184866
-43,37,"blairi","Lithobates","Plains Leopard Frog",LC,D,-16731116
-48,47,"areolatus","Lithobates","Crawfish Frog",NT,D,-12486656
-49,47,"juliani","Lithobates","",NT,S,-12486656
-51,50,"pustulosus","Lithobates","",LC,S,-16731116
-52,50,"megapoda","Lithobates","",VU,D,-11184866
-54,53,"chichicuahutla","Lithobates","",CR,D,-3014646
-55,53,"pueblae","Lithobates","",CR,D,-3014646
-59,58,"vibicarius","Lithobates","Green-eyed Frog",CR,D,-3014646
-60,58,"spectabilis","Lithobates","",LC,D,-16731116
-61,57,"tarahumarae","Lithobates","Tarahumara Frog",VU,D,-11184866
-62,56,"neovolcanicus","Lithobates","Transverse Volcanic Leopard Frog",NT,D,-12486656
-67,66,"fisheri","Lithobates","Las Vegas Leopard Frog",EX,U,-16777036
-68,66,"psilonota","Lithobates","",DD,U,-11513776
-69,65,"berlandieri","Lithobates","Rio Grande Leopard Frog",LC,S,-16731116
-71,70,"omiltemanus","Lithobates","Guerreran Leopard Frog",CR,D,-3014646
-72,70,"montezumae","Lithobates","",LC,D,-16731116
-76,75,"zweifeli","Lithobates","",LC,S,-16731116
-77,75,"forreri","Lithobates","",LC,S,-16731116
-78,74,"sevosus","Lithobates","Dusky Gopher Frog",CR,D,-3014646
-80,79,"lemosespinali","Lithobates","",DD,U,-11513776
-81,79,"yavapaiensis","Lithobates","",LC,D,-16731116
-86,85,"okaloosae","Lithobates","Florida Bog Frog",VU,U,-11184866
-87,85,"sylvaticus","Lithobates","Wood Frog",LC,S,-16731116
-89,88,"catesbeianus","Lithobates","American Bullfrog",LC,I,-16731116
-90,88,"grylio","Lithobates","Pig Frog",LC,D,-16731116
-91,83,"clamitans","Lithobates","Green Frog",LC,S,-16731116
-94,93,"virgatipes","Lithobates","Carpenter Frog",LC,U,-16731116
-95,93,"heckscheri","Lithobates","River Frog",LC,S,-16731116
-96,92,"septentrionalis","Lithobates","Mink Frog",LC,S,-16731116
-107,106,"macrocnemis","Rana","Long-legged Wood Frog",LC,D,-16731116
-108,106,"dalmatina","Rana","Agile Frog",LC,D,-16731116
-109,105,"okinavana","Rana","",NE,U,-16777216
-110,104,"temporaria","Rana","European Common Frog",LC,S,-16731116
-112,111,"asiatica","Rana","Central Asiatic Frog",LC,D,-16731116
-113,111,"chaochiaoensis","Rana","",LC,U,-16731116
-114,102,"pyrenaica","Rana","Pyrenean Frog",EN,D,-8572416
-115,101,"latastei","Rana","Italian Agile Frog",VU,D,-11184866
-119,118,"iberica","Rana","Iberian Frog",NT,D,-12486656
-120,118,"zhengi","Rana","",DD,U,-11513776
-121,117,"tsushimensis","Rana","Tsushima Brown Frog",LC,S,-16731116
-122,116,"huanrenensis","Rana","",NE,U,-16777216
-127,126,"chensinensis","Rana","Asiatic Grass Frog",LC,D,-16731116
-128,126,"dybowskii","Rana","",LC,S,-16731116
-129,125,"ornativentris","Rana","Montane Brown Frog",LC,S,-16731116
-132,131,"kunyuensis","Rana","",DD,U,-11513776
-133,131,"pirica","Rana","",LC,S,-16731116
-134,130,"kukunoris","Rana","",LC,U,-16731116
-137,136,"italica","Rana","Italian Stream Frog",LC,S,-16731116
-138,136,"graeca","Rana","Greek Stream Frog",LC,S,-16731116
-139,135,"arvalis","Rana","Altai Brown Frog",LC,S,-16731116
-144,143,"multidenticulata","Rana","",LC,S,-16731116
-145,143,"johnsi","Rana","",LC,U,-16731116
-146,142,"weiningensis","Rana","",NE,U,-16777216
-147,141,"sangzhiensis","Rana","",NE,U,-16777216
-148,140,"sauteri","Rana","",EN,D,-8572416
-156,155,"japonica","Rana","Japanese Brown Frog",LC,D,-16731116
-157,155,"longicrus","Rana","",VU,D,-11184866
-158,154,"amurensis","Rana","Siberian Wood Frog",LC,S,-16731116
-159,153,"sakuraii","Rana","Stream Brown Frog",LC,S,-16731116
-161,160,"zhenhaiensis","Rana","",LC,U,-16731116
-162,160,"chevronta","Rana","",CR,D,-3014646
-163,151,"omeimontis","Rana","",LC,D,-16731116
-164,150,"tagoi","Rana","",LC,S,-16731116
-168,167,"muscosa","Rana","Southern Mountain Yellow-legged Frog",EN,D,-8572416
-169,167,"pretiosa","Rana","Oregon Spotted Frog",VU,D,-11184866
-171,170,"aurora","Rana","Northern Red-legged Frog",LC,S,-16731116
-172,170,"boylii","Rana","",NT,D,-12486656
-174,173,"luteiventris","Rana","Columbia Spotted Frog",LC,D,-16731116
-175,173,"cascadae","Rana","Cascades Frog",NT,D,-12486656
-187,186,"sumatrana","Huia","Sumatran Torrent Frog",LC,D,-16731116
-188,186,"lungshengensis","Huia","",NE,U,-16777216
-189,185,"jingdongensis","Huia","",NE,U,-16777216
-191,190,"hainanensis","Huia","",NE,U,-16777216
-192,190,"versabilis","Huia","",NE,U,-16777216
-196,195,"grahami","Huia","",NE,U,-16777216
-197,195,"narina","Huia","",NE,U,-16777216
-198,194,"livida","Huia","",NE,U,-16777216
-200,199,"wuchuanensis","Huia","",NE,U,-16777216
-201,199,"ishikawae","Huia","",NE,U,-16777216
-203,202,"kuangwuensis","Huia","",NE,U,-16777216
-204,202,"swinhoana","Huia","",NE,U,-16777216
-210,209,"chapaensis","Huia","",NE,U,-16777216
-211,209,"bacboensis","Huia","",NE,U,-16777216
-212,208,"amamiensis","Huia","",NE,U,-16777216
-213,207,"melasma","Huia","",NE,U,-16777216
-214,206,"chloronota","Huia","",NE,U,-16777216
-216,215,"exiliversabilis","Huia","",NE,U,-16777216
-217,215,"bolavensis","Huia","",NE,U,-16777216
-222,221,"archotaphus","Huia","",NE,U,-16777216
-223,221,"hmongorum","Huia","",NE,U,-16777216
-224,220,"khalam","Huia","",NE,U,-16777216
-226,225,"masonii","Huia","Javan Torrent Frog",VU,D,-11184866
-227,225,"heatwolei","Huia","",NE,U,-16777216
-231,230,"nasuta","Huia","",NE,U,-16777216
-232,230,"nasica","Huia","",NE,U,-16777216
-233,229,"graminea","Huia","",NE,U,-16777216
-235,234,"trankieni","Huia","",NE,U,-16777216
-236,234,"hosii","Huia","",NE,U,-16777216
-242,241,"margaretae","Huia","",NE,U,-16777216
-243,241,"absita","Huia","",NE,U,-16777216
-244,240,"utsunomiyaorum","Huia","",NE,U,-16777216
-245,239,"anlungensis","Huia","",NE,U,-16777216
-247,246,"megatympanum","Huia","",NE,U,-16777216
-248,246,"junlianensis","Huia","",NE,U,-16777216
-250,249,"cavitympanum","Huia","Hole-in-the-head Frog",LC,D,-16731116
-251,249,"andersonii","Huia","",NE,U,-16777216
-258,257,"banaorum","Huia","",NE,U,-16777216
-259,257,"orba","Huia","",NE,U,-16777216
-260,256,"daorum","Huia","",NE,U,-16777216
-261,255,"supranarina","Huia","",NE,U,-16777216
-262,254,"leporipes","Huia","",NE,U,-16777216
-263,253,"morafkai","Huia","",NE,U,-16777216
-267,266,"hejiangensis","Huia","",NE,U,-16777216
-268,266,"schmackeri","Huia","",NE,U,-16777216
-269,265,"modiglianii","Huia","",DD,U,-11513776
-270,264,"iriodes","Huia","",NE,U,-16777216
-272,271,"tiannanensis","Huia","",NE,U,-16777216
-273,271,"sinica","Huia","",NE,U,-16777216
-278,277,"adenopleura","Babina","",LC,S,-16731116
-279,277,"psaltes","Babina","",NE,U,-16777216
-280,276,"chapaensis","Babina","Chapa Frog",LC,S,-16731116
-281,275,"daunchina","Babina","Emei Music Frog",LC,S,-16731116
-284,283,"holsti","Babina","Holst's Frog",EN,D,-8572416
-285,283,"pleuraden","Babina","",LC,D,-16731116
-287,286,"subaspera","Babina","",EN,D,-8572416
-288,286,"lini","Babina","",DD,U,-11513776
+8,7,"xanthopygos","Pycnonotus","White-spectacled Bulbul",LC,U,-16731116
+9,7,"eutilotus","Pycnonotus","Puff-backed Bulbul",NT,U,-12486656
+10,6,"melanoleucos","Pycnonotus","Black-and-white Bulbul",NT,U,-12486656
+13,12,"nieuwenhuisii","Pycnonotus","Blue-wattled Bulbul",DD,U,-11513776
+14,12,"leucotis","Pycnonotus","White-eared Bulbul",LC,U,-16731116
+15,11,"luteolus","Pycnonotus","White-browed Bulbul",LC,U,-16731116
+19,18,"penicillatus","Pycnonotus","Yellow-eared Bulbul",NT,U,-12486656
+20,18,"atriceps","Pycnonotus","Black-headed Bulbul",LC,U,-16731116
+21,17,"urostictus","Pycnonotus","Yellow-wattled Bulbul",LC,U,-16731116
+23,22,"xantholaemus","Pycnonotus","Yellow-throated Bulbul",VU,U,-11184866
+24,22,"hualon","Pycnonotus","Bare-faced Bulbul",LC,U,-16731116
+36,35,"madagascariensis","Hypsipetes","Madagascar Black Bulbul",LC,U,-16731116
+37,35,"olivaceus","Hypsipetes","Mauritius Black Bulbul",VU,U,-11184866
+38,34,"borbonicus","Hypsipetes","Olivaceous Bulbul",LC,U,-16731116
+40,39,"leucocephalus","Hypsipetes","Asian Black Bulbul",LC,U,-16731116
+41,39,"parvirostris","Hypsipetes","Comoro Bulbul",LC,U,-16731116
+42,32,"crassirostris","Hypsipetes","Seychelles Bulbul",LC,U,-16731116
+43,31,"amaurotis","Ixos","Brown-eared Bulbul",LC,U,-16731116
+47,46,"rufigularis","Ixos","Zamboanga Bulbul",NT,U,-12486656
+48,46,"everetti","Ixos","Yellowish Bulbul",LC,U,-16731116
+49,45,"virescens","Hypsipetes","Green-winged Bulbul",LC,U,-16731116
+51,50,"siquijorensis","Ixos","Streak-breasted Bulbul",EN,U,-8572416
+52,50,"philippinus","Ixos","Philippine Bulbul",LC,U,-16731116
+53,29,"nicobariensis","Hypsipetes","Nicobar Bulbul",NT,U,-12486656
+57,56,"thompsoni","Hypsipetes","White-headed Bulbul",LC,U,-16731116
+58,56,"malaccensis","Ixos","Streaked Bulbul",NT,U,-12486656
+59,55,"mcclellandii","Hypsipetes","Mountain Bulbul",LC,U,-16731116
+61,60,"castanonotus","Hemixos","Chestnut Bulbul",LC,U,-16731116
+62,60,"flavala","Hemixos","Ashy Bulbul",LC,U,-16731116
+67,66,"olivacea","Iole","Buff-vented Bulbul",NT,U,-12486656
+68,66,"virescens","Iole","Olive Bulbul",LC,U,-16731116
+69,65,"indica","Iole","Yellow-browed Bulbul",LC,U,-16731116
+70,64,"propinqua","Iole","Grey-eyed Bulbul",LC,U,-16731116
+71,63,"palawanensis","Ixos","Sulphur-bellied Bulbul",LC,U,-16731116
+77,76,"finschii","Alophoixus","Finsch's Bulbul",NT,U,-12486656
+78,76,"bres","Alophoixus","Grey-cheeked Bulbul",LC,U,-16731116
+79,75,"flaveolus","Alophoixus","White-throated Bulbul",LC,U,-16731116
+82,81,"ochraceus","Alophoixus","Ochraceous Bulbul",LC,U,-16731116
+83,81,"affinis","Alophoixus","Golden Bulbul",LC,U,-16731116
+84,80,"pallidus","Alophoixus","Puff-throated Bulbul",LC,U,-16731116
+85,73,"phaeocephalus","Alophoixus","Yellow-bellied Bulbul",LC,U,-16731116
+86,72,"criniger","Setornis","Hook-billed Bulbul",VU,U,-11184866
+87,25,"criniger","Tricholestes","Hairy-backed Bulbul",LC,U,-16731116
+100,99,"cerviniventris","Phyllastrephus","Grey-olive Greenbul",LC,U,-16731116
+101,99,"baumanni","Phyllastrephus","Baumann's Greenbul",LC,U,-16731116
+103,102,"fischeri","Phyllastrephus","Fischer's Greenbul",LC,U,-16731116
+104,102,"cabanisi","Phyllastrephus","Cabanis's Greenbul",LC,U,-16731116
+105,97,"strepitans","Phyllastrephus","Northern Brownbul",LC,U,-16731116
+107,106,"poensis","Phyllastrephus","Cameroon Olive Greenbul",LC,U,-16731116
+108,106,"leucolepis","Phyllastrephus","Liberian Greenbul",CR,U,-3014646
+109,95,"terrestris","Phyllastrephus","Terrestrial Brownbul",LC,U,-16731116
+111,110,"poliocephalus","Phyllastrephus","Grey-headed Greenbul",NT,U,-12486656
+112,110,"scandens","Pyrrhurus","Leaf-love",LC,U,-16731116
+117,116,"albigularis","Phyllastrephus","White-throated Greenbul",LC,U,-16731116
+118,116,"xavieri","Phyllastrephus","Xavier's Greenbul",LC,U,-16731116
+119,115,"icterinus","Phyllastrephus","Icterine Greenbul",LC,U,-16731116
+120,114,"lorenzi","Phyllastrephus","Sassi's Olive Greenbul",_U,[,-16777216
+121,113,"debilis","Phyllastrephus","Tiny Greenbul",LC,U,-16731116
+124,123,"flavostriatus","Phyllastrephus","Yellow-streaked Greenbul",LC,U,-16731116
+125,123,"fulviventris","Phyllastrephus","Pale-olive Greenbul",LC,U,-16731116
+126,122,"hypochloris","Phyllastrephus","Toro Olive Greenbul",LC,U,-16731116
+131,130,"ndussumensis","Criniger","White-bearded Bulbul",LC,U,-16731116
+132,130,"calurus","Criniger","Red-tailed Bulbul",LC,U,-16731116
+134,133,"chloronotus","Criniger","Green-backed Bulbul",LC,U,-16731116
+135,133,"barbatus","Criniger","Bearded Bulbul",LC,U,-16731116
+136,128,"olivaceus","Criniger","Yellow-bearded Greenbul",VU,U,-11184866
+140,139,"ansorgei","Andropadus","Ansorge's Greenbul",LC,U,-16731116
+141,139,"gracilis","Andropadus","Grey Greenbul",LC,U,-16731116
+142,138,"curvirostris","Andropadus","Plain Greenbul",LC,U,-16731116
+144,143,"latirostris","Andropadus","Yellow-whiskered Greenbul",LC,U,-16731116
+145,143,"virens","Andropadus","Little Greenbul",LC,U,-16731116
+153,152,"leucopleura","Thescelocichla","Swamp Greenbul",LC,U,-16731116
+154,152,"guttatus","Ixonotus","Spotted Greenbul",LC,U,-16731116
+155,151,"flavicollis","Chlorocichla","Yellow-throated Greenbul",LC,U,-16731116
+157,156,"prigoginei","Chlorocichla","Prigogine's Greenbul",EN,U,-8572416
+158,156,"laetissima","Chlorocichla","Joyful Greenbul",LC,U,-16731116
+161,160,"flaviventris","Chlorocichla","Yellow-bellied Greenbul",LC,U,-16731116
+162,160,"simplex","Chlorocichla","Simple Greenbul",LC,U,-16731116
+163,159,"falkensteini","Chlorocichla","Yellow-necked Greenbul",LC,U,-16731116
+165,164,"indicator","Baeopogon","Honeyguide Greenbul",LC,U,-16731116
+166,164,"clamans","Baeopogon","White-tailed Greenbul",LC,U,-16731116
+171,170,"tephrolaemus","Andropadus","Western Mountain Greenbul",LC,U,-16731116
+172,170,"masukuensis","Andropadus","Shelley's Greenbul",LC,U,-16731116
+173,169,"nigriceps","Andropadus","Eastern Mountain Greenbul",LC,U,-16731116
+174,168,"milanjensis","Andropadus","Stripe-cheeked Greenbul",LC,U,-16731116
+175,167,"montanus","Andropadus","Cameroon Montane Greenbul",NT,U,-12486656
+179,178,"canicapillus","Bleda","Grey-headed Bristlebill",LC,U,-16731116
+180,178,"notatus","Bleda","Lesser Bristlebill",LC,U,-16731116
+181,177,"eximius","Bleda","Green-tailed Bristlebill",VU,U,-11184866
+182,176,"syndactylus","Bleda","Common Bristlebill",LC,U,-16731116
+183,89,"torquatus","Neolestes","Black-collared Bulbul",LC,U,-16731116
+186,185,"gracilirostris","Andropadus","Slender-billed Greenbul",LC,U,-16731116
+187,185,"serina","Calyptocichla","Golden Greenbul",LC,U,-16731116
+188,184,"importunus","Andropadus","Sombre Greenbul",LC,U,-16731116
+193,192,"cinereiceps","Bernieria","Grey-crowned Tetraka",NT,U,-12486656
+194,192,"apperti","Bernieria","Appert's Tetraka",VU,U,-11184866
+195,191,"zosterops","Bernieria","Spectacled Tetraka",LC,U,-16731116
+196,190,"tenebrosa","Bernieria","Dusky Tetraka",VU,U,-11184866
+197,189,"madagascariensis","Bernieria","Common Tetraka",LC,U,-16731116

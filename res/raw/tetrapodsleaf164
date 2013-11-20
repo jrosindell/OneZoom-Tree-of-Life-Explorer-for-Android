@@ -1,102 +1,51 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"leucobalia","Fordonia","Crab-eating Water Snake",NE,U,-16777216
-14,12,"prevostiana","Gerarda","Glossy Marsh Snake",LC,U,-16731116
-15,11,"violacea","Cantoria","Cantor's Water Snake",NE,U,-16777216
-16,10,"hydroides","Bitia","",NE,U,-16777216
-17,9,"tentaculatum","Erpeton","Tentacled Snake",NE,U,-16777216
-20,19,"buccata","Homalopsis","",NE,U,-16777216
-21,19,"rynchops","Cerberus","",NE,U,-16777216
-22,18,"enhydris","Enhydris","Rainbow Water Snake",LC,U,-16731116
-23,7,"richardsonii","Myron","",NE,U,-16777216
-39,38,"bilineata","Bothriopsis","",NE,U,-16777216
-40,38,"diporus","Bothropoides","",NE,U,-16777216
-41,37,"asper","Bothrops","",NE,U,-16777216
-42,36,"itapetiningae","Rhinocerophis","",NE,U,-16777216
-43,35,"hyoprora","Bothrocophias","",NE,U,-16777216
-44,34,"schlegelii","Bothriechis","",NE,U,-16777216
-46,45,"undulatus","Ophryacus","",VU,D,-11184866
-47,45,"barbouri","Mixcoatlus","",NE,U,-16777216
-48,32,"piscivorus","Agkistrodon","Cottonmouth",LC,S,-16731116
-51,50,"adamanteus","Crotalus","Eastern Diamond-backed Rattlesnake",LC,D,-16731116
-52,50,"miliarius","Sistrurus","Pygmy Rattlesnake",LC,S,-16731116
-53,49,"muta","Lachesis","Atlantic Bushmaster",VU,D,-11184866
-56,55,"godmani","Cerrophidion","",NE,U,-16777216
-57,55,"nummifer","Atropoides","",LC,S,-16731116
-58,54,"arcosae","Porthidium","",NE,U,-16777216
-60,59,"brevicaudus","Gloydius","",NE,U,-16777216
-61,59,"monticola","Ovophis","",NE,U,-16777216
-62,28,"jerdonii","Protobothrops","",NE,U,-16777216
-66,65,"trigonocephalus","Trimeresurus","",NE,U,-16777216
-67,65,"gramineus","Trimeresurus","",NE,U,-16777216
-68,64,"malabaricus","Trimeresurus","",NE,U,-16777216
-70,69,"borneensis","Trimeresurus","",NE,U,-16777216
-71,69,"puniceus","Trimeresurus","",NE,U,-16777216
-76,75,"hypnale","Hypnale","",NE,U,-16777216
-77,75,"zara","Hypnale","",NE,U,-16777216
-78,74,"nepa","Hypnale","",NE,U,-16777216
-79,73,"rhodostoma","Calloselasma","",NE,U,-16777216
-82,81,"acutus","Deinagkistrodon","",NE,U,-16777216
-83,81,"wagleri","Tropidolaemus","",NE,U,-16777216
-84,80,"chaseni","Garthius","",NE,U,-16777216
-85,25,"feae","Azemiops","",NE,U,-16777216
-91,90,"squamigera","Atheris","",NE,U,-16777216
-92,90,"carinatus","Echis","",NE,U,-16777216
-93,89,"superciliaris","Proatheris","",NE,U,-16777216
-94,88,"arietans","Bitis","African Puff Adder",NE,U,-16777216
-96,95,"cerastes","Cerastes","",NE,U,-16777216
-97,95,"defilippi","Causus","",NE,U,-16777216
-101,100,"lebetina","Macrovipera","",NE,U,-16777216
-102,100,"russellii","Daboia","",NE,U,-16777216
-103,99,"berus","Vipera","Adder",LC,D,-16731116
-105,104,"persicus","Pseudocerastes","",NE,U,-16777216
-106,104,"macmahoni","Eristicophis","",NE,U,-16777216
-108,107,"formosensis","Pareas","",NE,U,-16777216
-109,107,"boa","Aplopeltura","",NE,U,-16777216
-112,111,"javanicus","Xenodermus","Java Tubercle Snake",NE,U,-16777216
-113,111,"meiguensis","Achalinus","",NE,U,-16777216
-114,110,"borneensis","Stoliczkia","Borneo Red Snake",NE,U,-16777216
-115,1,"granulatus","Acrochordus","Little Small Snake",NE,U,-16777216
-131,130,"oxyrhynchus","Rhinophis","",NE,U,-16777216
-132,130,"philippinus","Rhinophis","",NE,U,-16777216
-133,129,"dorsimaculatus","Rhinophis","",NE,U,-16777216
-136,135,"homolepis","Rhinophis","",NE,U,-16777216
-137,135,"blythii","Rhinophis","",NE,U,-16777216
-138,134,"ceylanica","Uropeltis","",NE,U,-16777216
-140,139,"erangaviraji","Rhinophis","",NE,U,-16777216
-141,139,"drummondhayi","Rhinophis","",NE,U,-16777216
-142,126,"philippinus","Pseudotyphlops","",NE,U,-16777216
-144,143,"melanogaster","Uropeltis","",NE,U,-16777216
-145,143,"phillipsi","Uropeltis","",NE,U,-16777216
-146,124,"travancoricus","Rhinophis","",NE,U,-16777216
-147,123,"liura","Uropeltis","",NE,U,-16777216
-148,122,"rhodogaster","Brachyophidium","",NE,U,-16777216
-149,121,"punctatum","Melanophidium","Beddome's Black Shieldtail",NE,U,-16777216
-151,150,"maculatus","Cylindrophis","Ceylonese Cylinder Snake",NE,U,-16777216
-152,150,"ruffus","Cylindrophis","",NE,U,-16777216
-153,119,"leonardi","Anomochilus","Leonard's Pipe Snake",DD,U,-11513776
-162,161,"papuana","Apodora","",NE,U,-16777216
-163,161,"mackloti","Liasis","",NE,U,-16777216
-164,160,"melanocephalus","Aspidites","",NE,U,-16777216
-166,165,"albertisii","Leiopython","",NE,U,-16777216
-167,165,"boa","Bothrochilus","",NE,U,-16777216
-169,168,"spilota","Morelia","Western Australian Carpet Python",NT,U,-12486656
-170,168,"childreni","Antaresia","",NE,U,-16777216
-171,157,"reticulatus","Broghammerus","",NE,U,-16777216
-172,156,"molurus","Python","Asiatic Rock Python",NT,U,-12486656
-173,155,"bicolor","Loxocemus","Mexican Python",NE,U,-16777216
-174,154,"unicolor","Xenopeltis","Sunbeam Snake",NE,U,-16777216
-176,175,"dussumieri","Casarea","Round Island Boa",EN,U,-8572416
-177,175,"schaeferi","Xenophidion","",NE,U,-16777216
-186,185,"cenchria","Epicrates","Rainbow Boa",NE,U,-16777216
-187,185,"notaeus","Eunectes","",NE,U,-16777216
-188,184,"hortulanus","Corallus","Amazon Tree Boa",NE,U,-16777216
-189,183,"constrictor","Boa","",NE,U,-16777216
-190,182,"conicus","Eryx","Rough-scaled Sand Boa",NE,U,-16777216
-191,181,"carinata","Candoia","Pacific Ground Boa",NE,U,-16777216
-194,193,"trivirgata","Lichanura","Rosy Boa",LC,S,-16731116
-195,193,"bottae","Charina","Rubber Boa",LC,S,-16731116
-197,196,"continentalis","Ungaliophis","Chiapan Boa",NE,U,-16777216
-198,196,"placata","Exiliboa","",VU,D,-11184866
-200,199,"madagascariensis","Sanzinia","Madagascar Tree Boa",VU,U,-11184866
-201,199,"dumerili","Acrantophis","Dumeril's Boa",VU,U,-11184866
-202,178,"reinhardtii","Calabaria","Calabar Ground Python",NE,U,-16777216
+10,9,"leadbeateri","Heliodoxa","Violet-fronted Brilliant",LC,U,-16731116
+11,9,"jacula","Heliodoxa","Green-crowned Brilliant",LC,U,-16731116
+12,8,"imperatrix","Heliodoxa","Empress Brilliant",LC,U,-16731116
+13,7,"rubinoides","Heliodoxa","Fawn-breasted Brilliant",LC,U,-16731116
+14,6,"aurescens","Heliodoxa","Gould's Jewelfront",LC,U,-16731116
+15,5,"schreibersii","Heliodoxa","Black-throated Brilliant",LC,U,-16731116
+18,17,"branickii","Heliodoxa","Rufous-webbed Brilliant",LC,U,-16731116
+19,17,"gularis","Heliodoxa","Pink-throated Brilliant",NT,U,-12486656
+20,16,"xanthogonys","Heliodoxa","Velvet-browed Brilliant",LC,U,-16731116
+22,21,"mirabilis","Loddigesia","Marvellous Spatuletail",EN,U,-8572416
+23,21,"bougueri","Urochroa","White-tailed Hillstar",LC,U,-16731116
+28,27,"flavescens","Boissonneaua","Buff-tailed Coronet",LC,U,-16731116
+29,27,"jardini","Boissonneaua","Velvet-purple Coronet",LC,U,-16731116
+30,26,"matthewsii","Boissonneaua","Chestnut-breasted Coronet",LC,U,-16731116
+33,32,"ruficrissa","Urosticte","Rufous-vented Whitetip",LC,U,-16731116
+34,32,"benjamini","Urosticte","Purple-bibbed Whitetip",LC,U,-16731116
+35,31,"underwoodii","Ocreatus","Booted Racket-tail",LC,U,-16731116
+37,36,"ensifera","Ensifera","Sword-billed Hummingbird",LC,U,-16731116
+38,36,"cyanopterus","Pterophanes","Great Sapphirewing",LC,U,-16731116
+46,45,"mosquera","Eriocnemis","Golden-breasted Puffleg",LC,U,-16731116
+47,45,"isabellae","Eriocnemis","Gorgeted Puffleg",CR,U,-3014646
+49,48,"nigrivestis","Eriocnemis","Black-breasted Puffleg",CR,U,-3014646
+50,48,"vestita","Eriocnemis","Glowing Puffleg",LC,U,-16731116
+51,43,"mirabilis","Eriocnemis","Colourful Puffleg",CR,U,-3014646
+52,42,"glaucopoides","Eriocnemis","Blue-capped Puffleg",LC,U,-16731116
+56,55,"cupreoventris","Eriocnemis","Coppery-bellied Puffleg",NT,U,-12486656
+57,55,"derbyi","Eriocnemis","Black-thighed Puffleg",NT,U,-12486656
+58,54,"luciani","Eriocnemis","Sapphire-vented Puffleg",LC,U,-16731116
+59,53,"godini","Eriocnemis","Turquoise-throated Puffleg",CR,U,-3014646
+60,40,"alinae","Eriocnemis","Emerald-bellied Puffleg",LC,U,-16731116
+63,62,"assimilis","Haplophaedia","Buff-thighed Puffleg",LC,U,-16731116
+64,62,"aureliae","Haplophaedia","Greenish Puffleg",LC,U,-16731116
+65,61,"lugens","Haplophaedia","Hoary Puffleg",NT,U,-12486656
+75,74,"bonapartei","Coeligena","Golden-bellied Starfrontlet",LC,U,-16731116
+76,74,"helianthea","Coeligena","Blue-throated Starfrontlet",LC,U,-16731116
+78,77,"lutetiae","Coeligena","Buff-winged Starfrontlet",LC,U,-16731116
+79,77,"orina","Coeligena","Dusky Starfrontlet",CR,U,-3014646
+80,72,"phalerata","Coeligena","White-tailed Starfrontlet",LC,U,-16731116
+81,71,"iris","Coeligena","Rainbow Starfrontlet",LC,U,-16731116
+82,70,"violifer","Coeligena","Violet-throated Starfrontlet",LC,U,-16731116
+83,69,"torquata","Coeligena","Collared Inca",LC,U,-16731116
+86,85,"prunellei","Coeligena","Black Inca",VU,U,-11184866
+87,85,"wilsoni","Coeligena","Brown Inca",LC,U,-16731116
+88,84,"coeligena","Coeligena","Bronzy Inca",LC,U,-16731116
+90,89,"lafresnayi","Lafresnaya","Mountain Velvetbreast",LC,U,-16731116
+91,89,"rubricauda","Clytolaema","Brazilian Ruby",LC,U,-16731116
+95,94,"castelnaudii","Aglaeactis","White-tufted Sunbeam",LC,U,-16731116
+96,94,"pamela","Aglaeactis","Black-hooded Sunbeam",LC,U,-16731116
+97,93,"aliciae","Aglaeactis","Purple-backed Sunbeam",EN,U,-8572416
+98,92,"cupripennis","Aglaeactis","Shining Sunbeam",LC,U,-16731116

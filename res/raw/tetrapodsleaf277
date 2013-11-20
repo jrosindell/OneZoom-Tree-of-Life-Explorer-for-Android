@@ -1,0 +1,91 @@
+index,parent,name1,name2,common,redlist,popstab,color
+6,5,"fulgens","Ailurus","Red Panda",VU,D,-11184866
+16,15,"philippii","Arctocephalus","Juan Fernandez Fur Seal",NT,I,-12486656
+17,15,"australis","Arctocephalus","South American Fur Seal",LC,I,-16731116
+19,18,"galapagoensis","Arctocephalus","Galapagos Fur Seal",EN,D,-8572416
+20,18,"forsteri","Arctocephalus","New Zealand Fur Seal",LC,I,-16731116
+21,13,"townsendi","Arctocephalus","Guadalupe Fur Seal",NT,I,-12486656
+22,12,"gazella","Arctocephalus","Antarctic Fur Seal",LC,I,-16731116
+23,11,"tropicalis","Arctocephalus","Subantarctic Fur Seal",LC,I,-16731116
+24,10,"pusillus","Arctocephalus","Afro-Australian Fur Seal",LC,I,-16731116
+30,29,"hookeri","Phocarctos","New Zealand Sea Lion",VU,D,-11184866
+31,29,"cinerea","Neophoca","Australian Sea Lion",EN,D,-8572416
+32,28,"flavescens","Otaria","South American Sea Lion",LC,S,-16731116
+33,27,"jubatus","Eumetopias","Steller Sea Lion",EN,D,-8572416
+36,35,"californianus","Zalophus","Californian Sea Lion",LC,I,-16731116
+37,35,"wollebaeki","Zalophus","Galapagos Sea Lion",EN,D,-8572416
+38,34,"japonicus","Zalophus","Japanese Sea Lion",EX,U,-16777036
+39,25,"ursinus","Callorhinus","Northern Fur Seal",VU,D,-11184866
+40,8,"rosmarus","Odobenus","Walrus",DD,U,-11513776
+49,48,"sibirica","Pusa","Baikal Seal",LC,S,-16731116
+50,48,"hispida","Pusa","Ringed Seal",LC,U,-16731116
+51,47,"caspica","Pusa","Caspian Seal",EN,D,-8572416
+53,52,"vitulina","Phoca","Harbour Seal",LC,S,-16731116
+54,52,"largha","Phoca","Spotted Seal",DD,U,-11513776
+55,45,"grypus","Halichoerus","Grey Seal",LC,I,-16731116
+57,56,"groenlandicus","Pagophilus","Harp Seal",LC,I,-16731116
+58,56,"fasciata","Histriophoca","Ribbon Seal",DD,U,-11513776
+59,43,"cristata","Cystophora","Hooded Seal",VU,D,-11184866
+60,42,"barbatus","Erignathus","Bearded Seal",LC,S,-16731116
+65,64,"carcinophaga","Lobodon","Crabeater Seal",LC,U,-16731116
+66,64,"leptonyx","Hydrurga","Leopard Seal",LC,U,-16731116
+68,67,"weddellii","Leptonychotes","Weddell Seal",LC,U,-16731116
+69,67,"rossii","Ommatophoca","Ross Seal",LC,U,-16731116
+71,70,"angustirostris","Mirounga","Northern Elephant Seal",LC,I,-16731116
+72,70,"leonina","Mirounga","Southern Elephant Seal",LC,U,-16731116
+74,73,"schauinslandi","Monachus","Hawaiian Monk Seal",CR,D,-3014646
+75,73,"monachus","Monachus","Mediterranean Monk Seal",CR,D,-3014646
+81,80,"malayanus","Helarctos","Malayan Sun Bear",VU,D,-11184866
+82,80,"ursinus","Melursus","Sloth Bear",VU,D,-11184866
+83,79,"americanus","Ursus","American Black Bear",LC,I,-16731116
+86,85,"maritimus","Ursus","Polar Bear",VU,D,-11184866
+87,85,"arctos","Ursus","Brown Bear",LC,S,-16731116
+88,84,"thibetanus","Ursus","Asiatic Black Bear",VU,D,-11184866
+89,77,"ornatus","Tremarctos","Andean Bear",VU,D,-11184866
+90,76,"melanoleuca","Ailuropoda","Giant Panda",EN,D,-8572416
+99,98,"adustus","Canis","Side-striped Jackal",LC,S,-16731116
+100,98,"aureus","Canis","Golden Jackal",LC,I,-16731116
+101,97,"mesomelas","Canis","Black-backed Jackal",LC,S,-16731116
+104,103,"simensis","Canis","Ethiopian Wolf",EN,D,-8572416
+105,103,"latrans","Canis","Coyote",LC,I,-16731116
+106,102,"lupus","Canis","Grey Wolf",LC,S,-16731116
+111,110,"gymnocercus","Lycalopex","",NE,U,-16777216
+112,110,"culpaeus","Lycalopex","",NE,U,-16777216
+114,113,"fulvipes","Lycalopex","",NE,U,-16777216
+115,113,"griseus","Lycalopex","",NE,U,-16777216
+116,108,"sechurae","Lycalopex","",NE,U,-16777216
+117,107,"vetulus","Lycalopex","",NE,U,-16777216
+120,119,"pictus","Lycaon","African Wild Dog",EN,D,-8572416
+121,119,"venaticus","Speothos","Bush Dog",NT,U,-12486656
+122,118,"brachyurus","Chrysocyon","Maned Wolf",NT,U,-12486656
+125,124,"thous","Cerdocyon","Crab-eating Fox",LC,S,-16731116
+126,124,"alpinus","Cuon","Dhole",EN,D,-8572416
+127,123,"microtis","Atelocynus","Short-eared Dog",NT,D,-12486656
+128,92,"procyonoides","Nyctereutes","Racoon Dog",LC,S,-16731116
+136,135,"ferrilata","Vulpes","Tibetan Fox",LC,U,-16731116
+137,135,"corsac","Vulpes","Corsac Fox",LC,U,-16731116
+139,138,"rueppellii","Vulpes","Ruppell's Fox",LC,U,-16731116
+140,138,"vulpes","Vulpes","Red Fox",LC,S,-16731116
+143,142,"macrotis","Vulpes","Kit Fox",LC,D,-16731116
+144,142,"velox","Vulpes","Swift Fox",LC,S,-16731116
+145,141,"lagopus","Vulpes","",NE,U,-16777216
+147,146,"cana","Vulpes","Blanford's Fox",LC,U,-16731116
+148,146,"zerda","Vulpes","Fennec Fox",LC,U,-16731116
+151,150,"bengalensis","Vulpes","Bengal Fox",LC,D,-16731116
+152,150,"chama","Vulpes","Cape Fox",LC,S,-16731116
+153,149,"pallida","Vulpes","Pale Fox",DD,U,-11513776
+155,154,"cinereoargenteus","Urocyon","Grey Fox",LC,S,-16731116
+156,154,"littoralis","Urocyon","Island Fox",CR,D,-3014646
+157,129,"megalotis","Otocyon","Bat-eared Fox",LC,U,-16731116
+164,163,"hyaena","Hyaena","Striped Hyaena",NT,D,-12486656
+165,163,"brunnea","Hyaena","Brown Hyaena",NT,D,-12486656
+166,162,"crocuta","Crocuta","Spotted Hyaena",LC,D,-16731116
+167,161,"cristata","Proteles","Aardwolf",LC,S,-16731116
+171,170,"crassicaudata","Manis","Indian Pangolin",NT,D,-12486656
+172,170,"pentadactyla","Manis","Chinese Pangolin",EN,D,-8572416
+174,173,"culionensis","Manis","Philippine Pangolin",NT,D,-12486656
+175,173,"javanica","Manis","Sunda Pangolin",EN,D,-8572416
+178,177,"tetradactyla","Manis","",NE,U,-16777216
+179,177,"gigantea","Manis","",NE,U,-16777216
+181,180,"temminckii","Manis","",NE,U,-16777216
+182,180,"tricuspis","Manis","",NE,U,-16777216

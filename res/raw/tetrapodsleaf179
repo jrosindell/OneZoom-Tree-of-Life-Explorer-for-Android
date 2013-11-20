@@ -1,118 +1,36 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"caudolineatus","Varanus","",NE,U,-16777216
-17,15,"gilleni","Varanus","",NE,U,-16777216
-19,18,"brevicauda","Varanus","",NE,U,-16777216
-20,18,"eremius","Varanus","",NE,U,-16777216
-23,22,"acanthurus","Varanus","",NE,U,-16777216
-24,22,"storri","Varanus","",NE,U,-16777216
-25,21,"primordius","Varanus","",NE,U,-16777216
-30,29,"mitchelli","Varanus","",NE,U,-16777216
-31,29,"semiremex","Varanus","",NE,U,-16777216
-32,28,"timorensis","Varanus","",NE,U,-16777216
-33,27,"tristis","Varanus","",NE,U,-16777216
-34,26,"pilbarensis","Varanus","",NE,U,-16777216
-39,38,"panoptes","Varanus","",NE,U,-16777216
-40,38,"gouldii","Varanus","",NE,U,-16777216
-41,37,"giganteus","Varanus","",NE,U,-16777216
-43,42,"mertensi","Varanus","",NE,U,-16777216
-44,42,"spenceri","Varanus","",NE,U,-16777216
-46,45,"komodoensis","Varanus","Komodo Dragon",VU,U,-11184866
-47,45,"varius","Varanus","",NE,U,-16777216
-51,50,"bengalensis","Varanus","",NE,U,-16777216
-52,50,"dumerilii","Varanus","",NE,U,-16777216
-54,53,"rudicollis","Varanus","",NE,U,-16777216
-55,53,"salvator","Varanus","",NE,U,-16777216
-57,56,"beccari","Varanus","",NE,U,-16777216
-58,56,"indicus","Varanus","",NE,U,-16777216
-61,60,"exanthematicus","Varanus","",NE,U,-16777216
-62,60,"niloticus","Varanus","",NE,U,-16777216
-63,59,"griseus","Varanus","",NE,U,-16777216
-64,8,"borneensis","Lanthanotus","",NE,U,-16777216
-65,7,"suspectum","Heloderma","Gila Monster",NT,D,-12486656
-74,73,"salvadorensis","Abronia","",NE,U,-16777216
-75,73,"montecristoi","Abronia","",CR,U,-3014646
-76,72,"taeniata","Abronia","",VU,D,-11184866
-77,71,"martindelcampi","Abronia","",NE,U,-16777216
-78,70,"deppii","Abronia","",EN,D,-8572416
-81,80,"monticolus","Mesaspis","",NE,U,-16777216
-82,80,"moreleti","Mesaspis","",NE,U,-16777216
-83,79,"gadovii","Mesaspis","",LC,S,-16731116
-84,68,"imbricata","Barisia","",LC,U,-16731116
-85,67,"liocephalus","Gerrhonotus","",LC,S,-16731116
-89,88,"multicarinata","Elgaria","Southern Alligator Lizard",LC,D,-16731116
-90,88,"paucicarinata","Elgaria","",LC,S,-16731116
-91,87,"kingii","Elgaria","Madrean Alligator Lizard",LC,S,-16731116
-92,86,"coerulea","Elgaria","Northern Alligator Lizard",LC,S,-16731116
-104,103,"attenuatus","Ophisaurus","Slender Glass Lizard",LC,S,-16731116
-105,103,"ventralis","Ophisaurus","Eastern Glass Lizard",LC,S,-16731116
-106,102,"compressus","Ophisaurus","Island Glass Lizard",LC,D,-16731116
-108,107,"sokolovi","Ophisaurus","",NE,U,-16777216
-109,107,"gracilis","Ophisaurus","",NE,U,-16777216
-110,100,"harti","Ophisaurus","",NE,U,-16777216
-113,112,"intermedius","Ophiodes","",NE,U,-16777216
-114,112,"vertebralis","Ophiodes","",NE,U,-16777216
-115,111,"striatus","Ophiodes","",NE,U,-16777216
-120,119,"millepunctatus","Diploglossus","",NE,U,-16777216
-121,119,"bilobatus","Diploglossus","",NE,U,-16777216
-123,122,"delasagra","Diploglossus","",NE,U,-16777216
-124,122,"pleei","Diploglossus","",NE,U,-16777216
-126,125,"darlingtoni","Diploglossus","",NE,U,-16777216
-127,125,"curtisi","Diploglossus","",NE,U,-16777216
-129,128,"fasciatus","Diploglossus","",NE,U,-16777216
-130,128,"lessonae","Diploglossus","",NE,U,-16777216
-133,132,"sepsoides","Sauresia","",NE,U,-16777216
-134,132,"haetiana","Wetmorena","",NE,U,-16777216
-135,131,"fragilis","Anguis","",NE,U,-16777216
-142,141,"occiduus","Celestus","Jamaica Giant Galliwasp",EX,U,-16777036
-143,141,"hewardii","Celestus","",NE,U,-16777216
-144,140,"badius","Celestus","",NE,U,-16777216
-146,145,"crusculus","Celestus","",NE,U,-16777216
-147,145,"barbouri","Celestus","",NE,U,-16777216
-148,138,"fowleri","Celestus","",DD,U,-11513776
-150,149,"rozellae","Celestus","",NT,D,-12486656
-151,149,"sternus","Celestus","",NE,U,-16777216
-153,152,"stenurus","Celestus","",NE,U,-16777216
-154,152,"costatus","Celestus","",NE,U,-16777216
-156,155,"pulchra","Anniella","Black Legless Lizard",LC,D,-16731116
-157,155,"geronimensis","Anniella","",EN,D,-8572416
-158,94,"grandis","Xenosaurus","",VU,D,-11184866
-159,93,"crocodilurus","Shinisaurus","",NE,U,-16777216
-166,165,"boulengeri","Trachyboa","Northern Eyelash Boa",NE,U,-16777216
-167,165,"haetianus","Tropidophis","Haitian Dwarf Boa",NE,U,-16777216
-168,164,"scytale","Anilius","False Coral Snake",NE,U,-16777216
-176,175,"breuili","Tetracheilostoma","",NE,U,-16777216
-177,175,"leptepileptus","Mitophis","",NE,U,-16777216
-179,178,"macrolepis","Tricheilostoma","",NE,U,-16777216
-180,178,"humilis","Rena","",NE,U,-16777216
-181,173,"septemstriatus","Siagonodon","Seven-striped Blind Snake",NE,U,-16777216
-182,172,"columbi","Epictia","San Salvador Blind Snake",NE,U,-16777216
-183,171,"sp.","Rhinoleptus","Villiers' Blind Snake",NE,U,-16777216
-186,185,"occidentalis","Namibiana","Western Thread Snake",NE,U,-16777216
-187,185,"conjunctus","Leptotyphlops","Cape Thread Snake",NE,U,-16777216
-188,184,"adleri","Myriopholis","Adler's Worm Snake",NE,U,-16777216
-196,195,"punctatus","Afrotyphlops","Spotted Blind Snake",NE,U,-16777216
-197,195,"mucroso","Megatyphlops","",NE,U,-16777216
-198,194,"obtusa","Letheobia","",NE,U,-16777216
-199,193,"feae","Rhinotyphlops","",NE,U,-16777216
-200,192,"jamaicensis","Typhlops","",NE,U,-16777216
-203,202,"subocularis","Acutotyphlops","",NE,U,-16777216
-204,202,"splendidus","Austrotyphlops","",NE,U,-16777216
-206,205,"braminus","Ramphotyphlops","",NE,U,-16777216
-207,205,"pushpakumara","Typhlops","",NE,U,-16777216
-208,190,"grandidieri","Xenotyphlops","",CR,U,-3014646
-209,189,"mirus","Gerrhopilus","Jan's Worm Snake",NE,U,-16777216
-211,210,"albirostris","Liotyphlops","Whitenose Blind Snake",NE,U,-16777216
-212,210,"squamosus","Typhlophis","Trinidad Blind Snake",NE,U,-16777216
-223,222,"fuliginosa","Amphisbaena","",NE,U,-16777216
-224,222,"schmidti","Amphisbaena","",NE,U,-16777216
-225,221,"barbouri","Amphisbaena","",NE,U,-16777216
-227,226,"caeca","Amphisbaena","",NE,U,-16777216
-228,226,"alba","Amphisbaena","",NE,U,-16777216
-229,219,"manni","Amphisbaena","",NE,U,-16777216
-230,218,"darwini","Amphisbaena","Darwin's Ringed Worm Lizard",NE,U,-16777216
-232,231,"canaliculatus","Bipes","Four-toed Worm Lizard",LC,S,-16731116
-233,231,"biporus","Bipes","Five-toed Worm Lizard",LC,S,-16731116
-234,216,"microcephalum","Leposternon","",NE,U,-16777216
-235,215,"cinereus","Blanus","Iberian Worm Lizard",LC,S,-16731116
-236,214,"acutus","Geocalamus","",NE,U,-16777216
-237,213,"novaeguineae","Dibamus","",NE,U,-16777216
+9,8,"levaillantoides","Francolinus","Orange River Francolin",LC,U,-16731116
+10,8,"levaillantii","Francolinus","Red-winged Francolin",LC,U,-16731116
+11,7,"africanus","Francolinus","Grey-winged Francolin",LC,U,-16731116
+12,6,"shelleyi","Francolinus","Shelley's Francolin",LC,U,-16731116
+14,13,"psilolaemus","Francolinus","Moorland Francolin",LC,U,-16731116
+15,13,"finschi","Francolinus","Finsch's Francolin",LC,U,-16731116
+16,4,"streptophorus","Francolinus","Ring-necked Francolin",NT,U,-12486656
+21,20,"varius","Gallus","Green Junglefowl",LC,U,-16731116
+22,20,"gallus","Gallus","Red Junglefowl",LC,U,-16731116
+23,19,"lafayetii","Gallus","Sri Lanka Junglefowl",LC,U,-16731116
+24,18,"sonneratii","Gallus","Grey Junglefowl",LC,U,-16731116
+26,25,"thoracicus","Bambusicola","Chinese Bamboo-partridge",LC,U,-16731116
+27,25,"fytchii","Bambusicola","Mountain Bamboo-partridge",LC,U,-16731116
+32,31,"francolinus","Francolinus","Black Francolin",LC,U,-16731116
+33,31,"pictus","Francolinus","Painted Francolin",LC,U,-16731116
+35,34,"pondicerianus","Francolinus","Grey Francolin",LC,U,-16731116
+36,34,"gularis","Francolinus","Swamp Francolin",VU,U,-11184866
+37,29,"pintadeanus","Francolinus","Chinese Francolin",LC,U,-16731116
+38,28,"sephaena","Francolinus","Crested Francolin",LC,U,-16731116
+41,40,"albogularis","Francolinus","White-throated Francolin",LC,U,-16731116
+42,40,"lathami","Francolinus","Forest Francolin",LC,U,-16731116
+44,43,"schlegelii","Francolinus","Schlegel's Francolin",LC,U,-16731116
+45,43,"coqui","Francolinus","Coqui Francolin",LC,U,-16731116
+54,53,"chalcurum","Polyplectron","Bronze-tailed Peacock-pheasant",LC,U,-16731116
+55,53,"bicalcaratum","Polyplectron","Grey Peacock-pheasant",LC,U,-16731116
+56,52,"inopinatum","Polyplectron","Mountain Peacock-pheasant",VU,U,-11184866
+57,51,"germaini","Polyplectron","Germain's Peacock-pheasant",NT,U,-12486656
+58,50,"katsumatae","Polyplectron","Hainan Peacock-pheasant",EN,U,-8572416
+60,59,"schleiermacheri","Polyplectron","Bornean Peacock-pheasant",EN,U,-8572416
+61,59,"malacense","Polyplectron","Malayan Peacock-pheasant",VU,U,-11184866
+62,48,"napoleonis","Polyplectron","Palawan Peacock-pheasant",VU,U,-11184866
+65,64,"bicalcarata","Galloperdix","Sri Lanka Spurfowl",LC,U,-16731116
+66,64,"spadicea","Galloperdix","Red Spurfowl",LC,U,-16731116
+67,63,"lunulata","Galloperdix","Painted Spurfowl",LC,U,-16731116
+68,46,"sanguiniceps","Haematortyx","Crimson-headed Partridge",LC,U,-16731116

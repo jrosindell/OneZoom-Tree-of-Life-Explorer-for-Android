@@ -1,143 +1,44 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"lignicolor","Bolitoglossa","",VU,D,-11184866
-14,12,"nicefori","Bolitoglossa","",LC,S,-16731116
-15,11,"salvinii","Bolitoglossa","",EN,D,-8572416
-16,10,"borburata","Bolitoglossa","",NT,S,-12486656
-18,17,"macrinii","Bolitoglossa","",NT,D,-12486656
-19,17,"decora","Bolitoglossa","",CR,D,-3014646
-24,23,"mombachoensis","Bolitoglossa","",VU,S,-11184866
-25,23,"schizodactyla","Bolitoglossa","",LC,D,-16731116
-26,22,"copia","Bolitoglossa","El Cope Giant Salamander",DD,U,-11513776
-27,21,"sooyorum","Bolitoglossa","",EN,D,-8572416
-28,20,"engelhardti","Bolitoglossa","",EN,D,-8572416
-32,31,"alvaradoi","Bolitoglossa","",EN,D,-8572416
-33,31,"pesrubra","Bolitoglossa","",VU,D,-11184866
-34,30,"phalarosoma","Bolitoglossa","",DD,U,-11513776
-35,29,"palmata","Bolitoglossa","",VU,S,-11184866
-41,40,"magnifica","Bolitoglossa","Magnificent Web-footed Salamander",EN,D,-8572416
-42,40,"striatula","Bolitoglossa","",LC,D,-16731116
-44,43,"oresbia","Bolitoglossa","",CR,D,-3014646
-45,43,"celaque","Bolitoglossa","",EN,D,-8572416
-46,38,"zapoteca","Bolitoglossa","",DD,U,-11513776
-50,49,"altamazonica","Bolitoglossa","",LC,S,-16731116
-51,49,"diaphora","Bolitoglossa","",CR,D,-3014646
-52,48,"riletti","Bolitoglossa","",EN,D,-8572416
-53,47,"veracrucis","Bolitoglossa","",EN,D,-8572416
-54,36,"hypacra","Bolitoglossa","Paramo Frontino Salamander",LC,S,-16731116
-67,66,"porrasorum","Bolitoglossa","",EN,D,-8572416
-68,66,"robusta","Bolitoglossa","",LC,D,-16731116
-69,65,"lincolni","Bolitoglossa","",NT,S,-12486656
-70,64,"walkeri","Bolitoglossa","",NT,S,-12486656
-73,72,"adspersa","Bolitoglossa","",LC,S,-16731116
-74,72,"hermosa","Bolitoglossa","",NT,U,-12486656
-75,71,"cuna","Bolitoglossa","",DD,U,-11513776
-76,62,"silverstonei","Bolitoglossa","",VU,D,-11184866
-77,61,"platydactyla","Bolitoglossa","",NT,D,-12486656
-78,60,"equatoriana","Bolitoglossa","",LC,U,-16731116
-80,79,"obscura","Bolitoglossa","Tapanti Giant Salamander",VU,U,-11184866
-81,79,"mulleri","Bolitoglossa","",VU,D,-11184866
-85,84,"dofleini","Bolitoglossa","",NT,D,-12486656
-86,84,"pandi","Bolitoglossa","",EN,D,-8572416
-87,83,"colonnea","Bolitoglossa","",LC,U,-16731116
-88,82,"spongai","Bolitoglossa","",EN,D,-8572416
-90,89,"oaxacensis","Bolitoglossa","",DD,U,-11513776
-91,89,"diminuta","Bolitoglossa","",VU,S,-11184866
-92,56,"taylori","Bolitoglossa","",DD,U,-11513776
-95,94,"alberchi","Bolitoglossa","",LC,S,-16731116
-96,94,"morio","Bolitoglossa","",LC,S,-16731116
-97,93,"minutula","Bolitoglossa","",EN,D,-8572416
-100,99,"flaviventris","Bolitoglossa","",EN,D,-8572416
-101,99,"marmorea","Bolitoglossa","",EN,D,-8572416
-102,98,"rostrata","Bolitoglossa","",VU,D,-11184866
-109,108,"jacksoni","Bolitoglossa","",DD,D,-11513776
-110,108,"stuarti","Bolitoglossa","",DD,U,-11513776
-111,107,"gracilis","Bolitoglossa","",VU,S,-11184866
-113,112,"hiemalis","Bolitoglossa","",DD,U,-11513776
-114,112,"sima","Bolitoglossa","",VU,D,-11184866
-115,105,"anthracina","Bolitoglossa","",DD,U,-11513776
-118,117,"biseriata","Bolitoglossa","",LC,D,-16731116
-119,117,"hartwegi","Bolitoglossa","",NT,S,-12486656
-121,120,"longissima","Bolitoglossa","",CR,D,-3014646
-122,120,"lozanoi","Bolitoglossa","",DD,U,-11513776
-124,123,"sombra","Bolitoglossa","Shadowy Web-footed Salamander",VU,S,-11184866
-125,123,"subpalmata","Bolitoglossa","",EN,D,-8572416
-134,133,"medemi","Bolitoglossa","",VU,D,-11184866
-135,133,"carri","Bolitoglossa","",CR,D,-3014646
-136,132,"odonnelli","Bolitoglossa","",EN,D,-8572416
-138,137,"cuchumatana","Bolitoglossa","",NT,D,-12486656
-139,137,"chica","Bolitoglossa","",VU,D,-11184866
-142,141,"franklini","Bolitoglossa","",EN,D,-8572416
-143,141,"savagei","Bolitoglossa","",DD,U,-11513776
-144,140,"meliana","Bolitoglossa","",EN,D,-8572416
-149,148,"rufescens","Bolitoglossa","",LC,S,-16731116
-150,148,"compacta","Bolitoglossa","",EN,D,-8572416
-151,147,"capitana","Bolitoglossa","",CR,D,-3014646
-152,146,"synoria","Bolitoglossa","",CR,D,-3014646
-153,145,"guaramacalensis","Bolitoglossa","",VU,S,-11184866
-157,156,"cerroensis","Bolitoglossa","",LC,S,-16731116
-158,156,"ramosi","Bolitoglossa","",LC,S,-16731116
-159,155,"helmrichi","Bolitoglossa","",NT,S,-12486656
-160,154,"nigrescens","Bolitoglossa","",EN,D,-8572416
-166,165,"vallecula","Bolitoglossa","",LC,S,-16731116
-167,165,"yucatana","Bolitoglossa","",LC,D,-16731116
-168,164,"peruviana","Bolitoglossa","",LC,U,-16731116
-170,169,"digitigrada","Bolitoglossa","",DD,U,-11513776
-171,169,"orestes","Bolitoglossa","",VU,S,-11184866
-175,174,"heiroreias","Bolitoglossa","Holy-mountain Salamander",EN,D,-8572416
-176,174,"dunni","Bolitoglossa","",EN,D,-8572416
-177,173,"flavimembris","Bolitoglossa","",EN,D,-8572416
-178,172,"occidentalis","Bolitoglossa","",LC,S,-16731116
-179,161,"conanti","Bolitoglossa","",EN,D,-8572416
-181,180,"mexicana","Bolitoglossa","",LC,D,-16731116
-182,180,"epimela","Bolitoglossa","",DD,U,-11513776
-183,1,"townsendi","Parvimolge","Tropical Dwarf Salamander",CR,D,-3014646
-193,192,"galeanae","Pseudoeurycea","",NT,U,-12486656
-194,192,"brunnata","Pseudoeurycea","",CR,D,-3014646
-195,191,"aquatica","Pseudoeurycea","",CR,D,-3014646
-197,196,"orchileucos","Pseudoeurycea","",EN,D,-8572416
-198,196,"anitae","Pseudoeurycea","",CR,U,-3014646
-201,200,"quetzalanensis","Pseudoeurycea","Cuetzalan Salamander",DD,U,-11513776
-202,200,"werleri","Pseudoeurycea","",EN,D,-8572416
-203,199,"sulcata","Pseudoeurycea","",NE,U,-16777216
-209,208,"papenfussi","Pseudoeurycea","Muscular Salamander",NT,U,-12486656
-210,208,"nigromaculata","Pseudoeurycea","",CR,D,-3014646
-211,207,"firscheini","Pseudoeurycea","",EN,D,-8572416
-213,212,"gigantea","Pseudoeurycea","",CR,D,-3014646
-214,212,"mystax","Pseudoeurycea","",EN,D,-8572416
-215,205,"teotepec","Pseudoeurycea","",EN,D,-8572416
-217,216,"amuzga","Pseudoeurycea","",DD,U,-11513776
-218,216,"rex","Pseudoeurycea","",CR,D,-3014646
-220,219,"maxima","Pseudoeurycea","Southern Giant Salamander",DD,U,-11513776
-221,219,"saltator","Pseudoeurycea","",CR,D,-3014646
-226,225,"obesa","Pseudoeurycea","Ridge Tail Salamander",DD,U,-11513776
-227,225,"scandens","Pseudoeurycea","",VU,U,-11184866
-229,228,"praecellens","Pseudoeurycea","",CR,D,-3014646
-230,228,"nigra","Pseudoeurycea","",CR,D,-3014646
-233,232,"leprosa","Pseudoeurycea","",VU,D,-11184866
-234,232,"conanti","Pseudoeurycea","",EN,U,-8572416
-235,231,"exspectata","Pseudoeurycea","",CR,D,-3014646
-239,238,"mixcoatl","Pseudoeurycea","",DD,D,-11513776
-240,238,"boneti","Pseudoeurycea","",VU,D,-11184866
-241,237,"gadovii","Pseudoeurycea","",EN,D,-8572416
-243,242,"bellii","Pseudoeurycea","Bell's False Brook Salamander",VU,D,-11184866
-244,242,"altamontana","Pseudoeurycea","",EN,D,-8572416
-248,247,"ahuitzotl","Pseudoeurycea","",CR,D,-3014646
-249,247,"cochranae","Pseudoeurycea","",EN,D,-8572416
-250,246,"tenchalli","Pseudoeurycea","",EN,D,-8572416
-251,245,"melanomolga","Pseudoeurycea","",EN,D,-8572416
-257,256,"unguidentis","Pseudoeurycea","",CR,D,-3014646
-258,256,"mixteca","Pseudoeurycea","",LC,S,-16731116
-260,259,"tlilicxitl","Pseudoeurycea","",DD,U,-11513776
-261,259,"parva","Pseudoeurycea","",CR,D,-3014646
-264,263,"ruficauda","Pseudoeurycea","",DD,U,-11513776
-265,263,"lynchi","Pseudoeurycea","",CR,D,-3014646
-267,266,"robertsi","Pseudoeurycea","",CR,S,-3014646
-268,266,"lineola","Pseudoeurycea","",EN,D,-8572416
-272,271,"aurantia","Pseudoeurycea","",VU,U,-11184866
-273,271,"juarezi","Pseudoeurycea","",CR,D,-3014646
-274,270,"longicauda","Pseudoeurycea","",EN,D,-8572416
-275,269,"naucampatepetl","Pseudoeurycea","",CR,D,-3014646
-279,278,"goebeli","Pseudoeurycea","",CR,D,-3014646
-280,278,"smithi","Pseudoeurycea","",CR,D,-3014646
-281,277,"orchimelas","Pseudoeurycea","",EN,D,-8572416
-282,276,"tlahcuiloh","Pseudoeurycea","",CR,D,-3014646
+10,9,"melanocephala","Tricholaema","Black-throated Barbet",LC,U,-16731116
+11,9,"bidentatus","Lybius","Double-toothed Barbet",LC,U,-16731116
+13,12,"rolleti","Lybius","Black-breasted Barbet",LC,U,-16731116
+14,12,"dubius","Lybius","Bearded Barbet",LC,U,-16731116
+16,15,"melanopterus","Lybius","Brown-breasted Barbet",LC,U,-16731116
+17,15,"chaplini","Lybius","Zambian Barbet",VU,U,-11184866
+21,20,"torquatus","Lybius","Black-collared Barbet",LC,U,-16731116
+22,20,"vieilloti","Lybius","Vieillot's Barbet",LC,U,-16731116
+23,19,"lacrymosa","Tricholaema","Spot-flanked Barbet",LC,U,-16731116
+24,18,"guifsobalito","Lybius","Black-billed Barbet",LC,U,-16731116
+27,26,"leucocephalus","Lybius","White-headed Barbet",LC,U,-16731116
+28,26,"undatus","Lybius","Banded Barbet",LC,U,-16731116
+29,25,"rubrifacies","Lybius","Red-faced Barbet",NT,U,-12486656
+31,30,"diademata","Tricholaema","Red-fronted Barbet",LC,U,-16731116
+32,30,"leucomelas","Tricholaema","Pied Barbet",LC,U,-16731116
+35,34,"frontata","Tricholaema","Miombo Barbet",LC,U,-16731116
+36,34,"minor","Lybius","Black-backed Barbet",LC,U,-16731116
+37,33,"hirsuta","Tricholaema","Hairy-breasted Barbet",LC,U,-16731116
+45,44,"chrysoconus","Pogoniulus","Yellow-fronted Tinkerbird",LC,U,-16731116
+46,44,"simplex","Pogoniulus","African Green-tinkerbird",LC,U,-16731116
+47,43,"scolopaceus","Pogoniulus","Speckled Tinkerbird",LC,U,-16731116
+49,48,"makawai","Pogoniulus","White-chested Tinkerbird",DD,U,-11513776
+50,48,"pusillus","Pogoniulus","Red-fronted Tinkerbird",LC,U,-16731116
+51,41,"atroflavus","Pogoniulus","Red-rumped Tinkerbird",LC,U,-16731116
+52,40,"leucomystax","Pogoniulus","Moustached Green-tinkerbird",LC,U,-16731116
+54,53,"subsulphureus","Pogoniulus","Yellow-throated Tinkerbird",LC,U,-16731116
+55,53,"bilineatus","Pogoniulus","Yellow-rumped Tinkerbird",LC,U,-16731116
+56,38,"coryphaeus","Pogoniulus","Western Green-tinkerbird",LC,U,-16731116
+63,62,"bonapartei","Gymnobucco","Grey-throated Barbet",LC,U,-16731116
+64,62,"sladeni","Gymnobucco","Sladen's Barbet",LC,U,-16731116
+65,61,"calvus","Gymnobucco","Naked-faced Barbet",LC,U,-16731116
+66,60,"peli","Gymnobucco","Bristle-nosed Barbet",LC,U,-16731116
+69,68,"leucotis","Stactolaema","White-eared Barbet",LC,U,-16731116
+70,68,"whytii","Stactolaema","Whyte's Barbet",LC,U,-16731116
+71,67,"anchietae","Stactolaema","Anchieta's Barbet",LC,U,-16731116
+72,58,"olivacea","Stactolaema","Green Barbet",LC,U,-16731116
+73,57,"duchaillui","Buccanodon","Yellow-spotted Barbet",LC,U,-16731116
+77,76,"margaritatus","Trachyphonus","Yellow-breasted Barbet",LC,U,-16731116
+78,76,"vaillantii","Trachyphonus","Crested Barbet",LC,U,-16731116
+79,75,"purpuratus","Trachyphonus","Yellow-billed Barbet",LC,U,-16731116
+82,81,"darnaudii","Trachyphonus","D'Arnaud's Barbet",LC,U,-16731116
+83,81,"usambiro","Trachyphonus","Usambiro Barbet",LC,U,-16731116
+84,80,"erythrocephalus","Trachyphonus","Red-and-yellow Barbet",LC,U,-16731116

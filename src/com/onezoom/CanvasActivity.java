@@ -1,5 +1,6 @@
 package com.onezoom;
 
+
 import java.util.TreeMap;
 
 import com.onezoom.midnode.MidNode;
@@ -36,10 +37,16 @@ public class CanvasActivity extends Activity{
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
 		groupIndexMap = new TreeMap<String, String>();
-		groupIndexMap.put("Mammals", "40");
-		groupIndexMap.put("Tetrapods", "185");
-		groupIndexMap.put("Bacteria", "3437");
-		retrieveData();
+		groupIndexMap.put("Mammals", "0");
+		groupIndexMap.put("Tetrapods", "0");
+		groupIndexMap.put("Bacteria", "0");
+		groupIndexMap.put("Amphibian", "0");
+		groupIndexMap.put("Birds", "0");
+		groupIndexMap.put("Snakes", "0");
+		groupIndexMap.put("Turtles", "0");
+		groupIndexMap.put("CrossSpecies", "0");
+		groupIndexMap.put("Squamates", "0");
+	retrieveData();
 	}
 
 	@Override

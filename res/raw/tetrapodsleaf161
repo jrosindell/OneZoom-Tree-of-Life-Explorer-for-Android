@@ -1,114 +1,78 @@
 index,parent,name1,name2,common,redlist,popstab,color
-18,17,"spectabilis","Liomys","Jaliscan Spiny Pocket Mouse",EN,D,-8572416
-19,17,"pictus","Liomys","Painted Spiny Pocket Mouse",LC,D,-16731116
-20,16,"irroratus","Liomys","Mexican Spiny Pocket Mouse",LC,S,-16731116
-22,21,"adspersus","Liomys","Panamanian Spiny Pocket Mouse",LC,S,-16731116
-23,21,"salvini","Liomys","Salvin's Spiny Pocket Mouse",LC,D,-16731116
-24,14,"australis","Heteromys","Southern Spiny Pocket Mouse",LC,S,-16731116
-25,13,"anomalus","Heteromys","Caribbean Spiny Pocket Mouse",LC,U,-16731116
-28,27,"desmarestianus","Heteromys","Demarest's Spiny Pocket Mouse",LC,S,-16731116
-29,27,"oresterus","Heteromys","Mountain Spiny Pocket Mouse",LC,S,-16731116
-30,26,"nelsoni","Heteromys","Nelson's Spiny Pocket Mouse",EN,D,-8572416
-31,11,"gaumeri","Heteromys","Gaumer's Spiny Pocket Mouse",LC,S,-16731116
-32,10,"zinseri","Cratogeomys","",NE,U,-16777216
-33,9,"alcorni","Pappogeomys","Alcorn's Pocket Gopher",CR,D,-3014646
-37,36,"castanops","Cratogeomys","Yellow-faced Pocket Gopher",LC,S,-16731116
-38,36,"goldmani","Cratogeomys","",LC,S,-16731116
-40,39,"tylorhinus","Cratogeomys","",NE,U,-16777216
-41,39,"neglectus","Cratogeomys","",NE,U,-16777216
-44,43,"merriami","Cratogeomys","Merriam's Pocket Gopher",LC,S,-16731116
-45,43,"fumosus","Cratogeomys","Smoky Pocket Gopher",LC,S,-16731116
-46,42,"gymnurus","Cratogeomys","",NE,U,-16777216
-47,7,"bulleri","Pappogeomys","Buller's Pocket Gopher",LC,S,-16731116
-56,55,"underwoodi","Orthogeomys","Underwood's Pocket Gopher",LC,I,-16731116
-57,55,"heterodus","Orthogeomys","Variable Pocket Gopher",LC,I,-16731116
-58,54,"thaeleri","Orthogeomys","Thaeler's Pocket Gopher",LC,S,-16731116
-59,53,"matagalpae","Orthogeomys","Nicaraguan Pocket Gopher",LC,I,-16731116
-60,52,"dariensis","Orthogeomys","Darien Pocket Gopher",LC,S,-16731116
-61,51,"grandis","Orthogeomys","Giant Pocket Gopher",LC,S,-16731116
-64,63,"hispidus","Orthogeomys","Hispid Pocket Gopher",LC,S,-16731116
-65,63,"lanius","Orthogeomys","Big Pocket Gopher",CR,D,-3014646
-66,62,"cavator","Orthogeomys","Chiriqui Pocket Gopher",LC,I,-16731116
-68,67,"cherriei","Orthogeomys","Cherrie's Pocket Gopher",LC,S,-16731116
-69,67,"cuniculus","Orthogeomys","Oaxacan Pocket Gopher",DD,D,-11513776
-70,48,"trichopus","Zygogeomys","Michoacan Pocket Gopher",EN,D,-8572416
-77,76,"texensis","Geomys","Central Texas Pocket Gopher",LC,U,-16731116
-78,76,"bursarius","Geomys","Plains Pocket Gopher",LC,S,-16731116
-79,75,"attwateri","Geomys","Attwater's Pocket Gopher",LC,S,-16731116
-81,80,"knoxjonesi","Geomys","Knox Jones's Pocket Gopher",LC,U,-16731116
-82,80,"breviceps","Geomys","Baird's Pocket Gopher",LC,S,-16731116
-83,73,"arenarius","Geomys","Desert Pocket Gopher",NT,U,-12486656
-85,84,"tropicalis","Geomys","Tropical Pocket Gopher",CR,D,-3014646
-86,84,"personatus","Geomys","Texas Pocket Gopher",LC,U,-16731116
-87,71,"pinetis","Geomys","Cumberland Island Picket Gopher",LC,U,-16731116
-92,91,"townsendii","Thomomys","Townsend's Pocket Gopher",LC,S,-16731116
-93,91,"bottae","Thomomys","Botta's Pocket Gopher",LC,S,-16731116
-94,90,"umbrinus","Thomomys","Animas Mountains Pocket Gopher",LC,U,-16731116
-95,89,"bulbivorus","Thomomys","Camas Pocket Gopher",LC,S,-16731116
-98,97,"monticola","Thomomys","Mountain Pocket Gopher",LC,S,-16731116
-99,97,"mazama","Thomomys","Western Pocket Gopher",LC,D,-16731116
-100,96,"talpoides","Thomomys","Northern Pocket Gopher",LC,S,-16731116
-112,111,"nelsoni","Chaetodipus","Nelson's Pocket Mouse",LC,S,-16731116
-113,111,"lineatus","Chaetodipus","Lined Pocket Gopher",DD,U,-11513776
-114,110,"intermedius","Chaetodipus","Rock Pocket Mouse",LC,S,-16731116
-116,115,"eremicus","Chaetodipus","Chihuahuan Desert Pocket Mouse",LC,U,-16731116
-117,115,"penicillatus","Chaetodipus","Desert Pocket Mouse",LC,S,-16731116
-119,118,"artus","Chaetodipus","Narrow-skulled Pocket Mouse",LC,S,-16731116
-120,118,"goldmani","Chaetodipus","Goldman's Pocket Mouse",VU,D,-11184866
-121,107,"pernix","Chaetodipus","Sinaloan Pocket Gopher",LC,S,-16731116
-124,123,"fallax","Chaetodipus","San Diego Pocket Mouse",LC,U,-16731116
-125,123,"spinatus","Chaetodipus","Spiny Pocket Mouse",LC,U,-16731116
-126,122,"californicus","Chaetodipus","California Pocket Mouse",LC,S,-16731116
-128,127,"arenarius","Chaetodipus","Little Desert Pocket Mouse",LC,U,-16731116
-129,127,"dalquesti","Chaetodipus","Dalquest's Pocket Mouse",VU,D,-11184866
-132,131,"baileyi","Chaetodipus","Bailey's Pocket Mouse",LC,S,-16731116
-133,131,"rudinoris","Chaetodipus","Baja Pocket Mouse",LC,S,-16731116
-134,130,"hispidus","Chaetodipus","Hispid Pocket Mouse",LC,S,-16731116
-135,103,"formosus","Chaetodipus","Long-tailed Pocket Mouse",LC,S,-16731116
-140,139,"merriami","Perognathus","Great Basin Pocket Mouse",LC,S,-16731116
-141,139,"amplus","Perognathus","Arizona Pocket Mouse",LC,S,-16731116
-143,142,"parvus","Perognathus","Great Basin Pocket Mouse",LC,S,-16731116
-144,142,"flavus","Perognathus","Silky Pocket Mouse",LC,S,-16731116
-145,137,"longimembris","Perognathus","Little Pocket Mouse",LC,S,-16731116
-149,148,"fasciatus","Perognathus","Olive-backed Pocket Mouse",LC,S,-16731116
-150,148,"inornatus","Perognathus","Salinas Pocket Mouse",LC,U,-16731116
-151,147,"alticolus","Perognathus","White-eared Pocket Mouse",EN,D,-8572416
-152,146,"flavescens","Perognathus","Plains Pocket Mouse",LC,S,-16731116
-162,161,"simulans","Dipodomys","Dulzura Kangaroo Rat",LC,U,-16731116
-163,161,"agilis","Dipodomys","Agile Kangaroo Rat",LC,D,-16731116
-164,160,"venustus","Dipodomys","Narrow-faced Kangaroo Rat",LC,D,-16731116
-165,159,"microps","Dipodomys","Chisel-toothed Kangaroo Rat",LC,S,-16731116
-168,167,"heermanni","Dipodomys","Heermann's Kangaroo Rat",LC,U,-16731116
-169,167,"stephensi","Dipodomys","Stephens' Kangaroo Rat",EN,D,-8572416
-170,166,"panamintinus","Dipodomys","Panamint Kangaroo Rat",LC,S,-16731116
-173,172,"californicus","Dipodomys","California Kangaroo Rat",LC,S,-16731116
-174,172,"phillipsii","Dipodomys","Phillip's Kangaroo Rat",LC,S,-16731116
-175,171,"elator","Dipodomys","Texas Kangaroo Rat",VU,D,-11184866
-177,176,"merriami","Dipodomys","Merriam's Kangaroo Rat",LC,S,-16731116
-178,176,"nitratoides","Dipodomys","Fresno Kangaroo Rat",VU,D,-11184866
-182,181,"gravipes","Dipodomys","San Quintin Kangaroo Rat",CR,U,-3014646
-183,181,"ingens","Dipodomys","Giant Kangaroo Rat",EN,D,-8572416
-184,180,"ordii","Dipodomys","Ord's Kangaroo Rat",LC,S,-16731116
-185,179,"compactus","Dipodomys","Gulf Coast Kangaroo Rat",LC,S,-16731116
-188,187,"spectabilis","Dipodomys","Banner-tailed Kangaroo Rat",NT,D,-12486656
-189,187,"nelsoni","Dipodomys","Nelson's Kangaroo Rat",LC,S,-16731116
-190,186,"deserti","Dipodomys","Desert Kangaroo Rat",LC,S,-16731116
-192,191,"megacephalus","Microdipodops","Dark Kangaroo Mouse",LC,D,-16731116
-193,191,"pallidus","Microdipodops","Pale Kangaroo Mouse",LC,D,-16731116
-195,194,"canadensis","Castor","American Beaver",LC,S,-16731116
-196,194,"fiber","Castor","Eurasian Beaver",LC,I,-16731116
-203,202,"fuscus","Aconaemys","Chilean Rock Rat",LC,U,-16731116
-204,202,"porteri","Aconaemys","",DD,U,-11513776
-205,201,"sagei","Aconaemys","Sage's Rock Rat",DD,U,-11513776
-207,206,"barrerae","Tympanoctomys","Plains Viscacha Rat",NT,D,-12486656
-208,206,"mimax","Octomys","Viscacha Rat",LC,U,-16731116
-210,209,"gliroides","Octodontomys","Mountain Degu",LC,S,-16731116
-211,209,"cyanus","Spalacopus","Coruro",LC,U,-16731116
-217,216,"vali","Ctenodactylus","Val's Gundi",DD,U,-11513776
-218,216,"gundi","Ctenodactylus","Gundi",LC,U,-16731116
-219,215,"spekei","Pectinator","Speke's Pectinator",LC,U,-16731116
-220,214,"mzabi","Massoutiera","Mzab Gundi",LC,U,-16731116
-221,213,"vae","Felovia","Felou Gundi",DD,U,-11513776
-224,223,"lunatus","Octodon","Moon-toothed Degu",VU,D,-11184866
-225,223,"degus","Octodon","Degu",LC,U,-16731116
-226,222,"bridgesi","Octodon","Bridges's Degu",VU,D,-11184866
+13,12,"aterrima","Pseudobulweria","Mascarene Petrel",CR,U,-3014646
+14,12,"newelli","Puffinus","Newell's Shearwater",EN,U,-8572416
+15,11,"opisthomelas","Puffinus","Black-vented Shearwater",NT,U,-12486656
+18,17,"lherminieri","Puffinus","Audubon's Shearwater",LC,U,-16731116
+19,17,"assimilis","Puffinus","Little Shearwater",LC,U,-16731116
+20,16,"puffinus","Puffinus","Manx Shearwater",LC,U,-16731116
+22,21,"mauretanicus","Puffinus","Balearic Shearwater",CR,U,-3014646
+23,21,"yelkouan","Puffinus","Yelkouan Shearwater",NT,U,-12486656
+25,24,"gavia","Puffinus","Fluttering Shearwater",LC,U,-16731116
+26,24,"huttoni","Puffinus","Hutton's Shearwater",EN,U,-8572416
+27,7,"auricularis","Puffinus","Townsend's Shearwater",CR,U,-3014646
+28,6,"nativitatis","Puffinus","Christmas Island Shearwater",LC,U,-16731116
+35,34,"carneipes","Puffinus","Flesh-footed Shearwater",LC,U,-16731116
+36,34,"creatopus","Puffinus","Pink-footed Shearwater",VU,U,-11184866
+37,33,"griseus","Puffinus","Sooty Shearwater",NT,U,-12486656
+38,32,"gravis","Puffinus","Great Shearwater",LC,U,-16731116
+39,31,"tenuirostris","Puffinus","Short-tailed Shearwater",LC,U,-16731116
+41,40,"pacificus","Puffinus","Wedge-tailed Shearwater",LC,U,-16731116
+42,40,"bulleri","Puffinus","Buller's Shearwater",VU,U,-11184866
+44,43,"heinrothi","Puffinus","Heinroth's Shearwater",VU,U,-11184866
+45,43,"becki","Pseudobulweria","Beck's Petrel",CR,U,-3014646
+49,48,"edwardsii","Calonectris","Cape Verde Shearwater",NT,U,-12486656
+50,48,"leucomelas","Calonectris","Streaked Shearwater",LC,U,-16731116
+51,47,"diomedea","Calonectris","Cory's Shearwater",LC,U,-16731116
+52,46,"macgillivrayi","Pseudobulweria","Fiji Petrel",CR,U,-3014646
+53,3,"rostrata","Pseudobulweria","Tahiti Petrel",NT,U,-12486656
+59,58,"aequinoctialis","Procellaria","White-chinned Petrel",VU,U,-11184866
+60,58,"conspicillata","Procellaria","Spectacled Petrel",VU,U,-11184866
+61,57,"westlandica","Procellaria","Westland Petrel",VU,U,-11184866
+62,56,"cinerea","Procellaria","Grey Petrel",NT,U,-12486656
+63,55,"parkinsoni","Procellaria","Parkinson's Petrel",VU,U,-11184866
+65,64,"bulwerii","Bulweria","Bulwer's Petrel",LC,U,-16731116
+66,64,"fallax","Bulweria","Jouanin's Petrel",NT,U,-12486656
+78,77,"arminjoniana","Pterodroma","Trindade Petrel",VU,U,-11184866
+79,77,"neglecta","Pterodroma","Kermadec Petrel",LC,U,-16731116
+80,76,"ultima","Pterodroma","Murphy's Petrel",NT,U,-12486656
+82,81,"heraldica","Pterodroma","Herald Petrel",LC,U,-16731116
+83,81,"alba","Pterodroma","Phoenix Petrel",EN,U,-8572416
+84,74,"defilippiana","Pterodroma","De Filippi's Petrel",VU,U,-11184866
+88,87,"sandwichensis","Pterodroma","Hawaiian Petrel",VU,U,-11184866
+89,87,"phaeopygia","Pterodroma","Galapagos Petrel",CR,U,-3014646
+91,90,"cervicalis","Pterodroma","White-necked Petrel",VU,U,-11184866
+92,90,"baraui","Pterodroma","Barau's Petrel",EN,U,-8572416
+93,85,"externa","Pterodroma","Juan Fernandez Petrel",VU,U,-11184866
+96,95,"inexpectata","Pterodroma","Mottled Petrel",NT,U,-12486656
+97,95,"caribbaea","Pterodroma","Jamaica Petrel",CR,U,-3014646
+98,94,"brevipes","Pterodroma","Collared Petrel",NT,U,-12486656
+99,71,"pycrofti","Pterodroma","Pycroft's Petrel",VU,U,-11184866
+100,70,"solandri","Pterodroma","Providence Petrel",VU,U,-11184866
+103,102,"nigripennis","Pterodroma","Black-winged Petrel",LC,U,-16731116
+104,102,"leucoptera","Pterodroma","Gould's Petrel",VU,U,-11184866
+105,101,"axillaris","Pterodroma","Chatham Petrel",EN,U,-8572416
+108,107,"longirostris","Pterodroma","Stejneger's Petrel",VU,U,-11184866
+109,107,"cookii","Pterodroma","Cook's Petrel",VU,U,-11184866
+111,110,"atrata","Pterodroma","Henderson Petrel",EN,U,-8572416
+112,110,"hypoleuca","Pterodroma","Bonin Petrel",LC,U,-16731116
+118,117,"macroptera","Pterodroma","Great-winged Petrel",LC,U,-16731116
+119,117,"lessonii","Pterodroma","White-headed Petrel",LC,U,-16731116
+120,116,"incerta","Pterodroma","Atlantic Petrel",EN,U,-8572416
+121,115,"magentae","Pterodroma","Magenta Petrel",CR,U,-3014646
+125,124,"madeira","Pterodroma","Zino's Petrel",EN,U,-8572416
+126,124,"feae","Pterodroma","Fea's Petrel",NT,U,-12486656
+127,123,"cahow","Pterodroma","Bermuda Petrel",EN,U,-8572416
+128,122,"hasitata","Pterodroma","Black-capped Petrel",EN,U,-8572416
+129,113,"mollis","Pterodroma","Soft-plumaged Petrel",LC,U,-16731116
+137,136,"salvini","Pachyptila","Medium-billed Prion",LC,U,-16731116
+138,136,"desolata","Pachyptila","Antarctic Prion",LC,U,-16731116
+139,135,"vittata","Pachyptila","Broad-billed Prion",LC,U,-16731116
+140,134,"turtur","Pachyptila","Fairy Prion",LC,U,-16731116
+142,141,"crassirostris","Pachyptila","Fulmar Prion",LC,U,-16731116
+143,141,"belcheri","Pachyptila","Thin-billed Prion",LC,U,-16731116
+144,132,"caerulea","Halobaena","Blue Petrel",LC,U,-16731116
+145,131,"brevirostris","Lugensa","Kerguelen Petrel",LC,U,-16731116
+149,148,"georgicus","Pelecanoides","South Georgia Diving-petrel",LC,U,-16731116
+150,148,"magellani","Pelecanoides","Magellanic Diving-petrel",LC,U,-16731116
+151,147,"urinatrix","Pelecanoides","Common Diving-petrel",LC,U,-16731116
+152,146,"garnotii","Pelecanoides","Peruvian Diving-petrel",EN,U,-8572416

@@ -1,0 +1,23 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"dolichura","Sminthopsis","Little Long-tailed Dunnart",LC,S,-16731116
+12,10,"murina","Sminthopsis","Common Dunnart",LC,D,-16731116
+13,9,"gilberti","Sminthopsis","Gilbert's Dunnart",LC,S,-16731116
+14,8,"leucopus","Sminthopsis","White-footed Dunnart",VU,D,-11184866
+15,7,"archeri","Sminthopsis","Chestnut Dunnart",DD,U,-11513776
+19,18,"youngsoni","Sminthopsis","Lesser Hairy-footed Dunnart",LC,S,-16731116
+20,18,"ooldea","Sminthopsis","Ooldea Dunnart",LC,U,-16731116
+21,17,"psammophila","Sminthopsis","Sandhill Dunnart",EN,D,-8572416
+22,16,"hirtipes","Sminthopsis","Hairy-footed Dunnart",LC,U,-16731116
+23,5,"longicaudata","Sminthopsis","Long-tailed Dunnart",LC,U,-16731116
+24,4,"granulipes","Sminthopsis","White-tailed Dunnart",LC,U,-16731116
+26,25,"griseoventer","Sminthopsis","Grey-bellied Dunnart",LC,U,-16731116
+27,25,"aitkeni","Sminthopsis","Kangaroo Island Dunnart",CR,D,-3014646
+32,31,"douglasi","Sminthopsis","Julia Creek Dunnart",NT,D,-12486656
+33,31,"butleri","Sminthopsis","Butler's Dunnart",VU,D,-11184866
+34,30,"virginiae","Sminthopsis","Red-cheeked Dunnart",LC,S,-16731116
+35,29,"macroura","Sminthopsis","Stripe-faced Dunnart",LC,U,-16731116
+36,28,"crassicaudata","Sminthopsis","Fat-tailed Dunnart",LC,S,-16731116
+39,38,"ridei","Ningaui","Wongai Ningaui",LC,S,-16731116
+40,38,"yvonnae","Ningaui","",NE,U,-16777216
+41,37,"timealeyi","Ningaui","Pilbara Ningaui",LC,S,-16731116
+42,0,"laniger","Antechinomys","Kultarr",LC,D,-16731116

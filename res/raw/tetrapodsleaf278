@@ -1,0 +1,39 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"maculata","Genetta","Central African Large-spotted Genet",LC,U,-16731116
+12,10,"pardina","Genetta","West African Large-spotted Genet",LC,U,-16731116
+13,9,"poensis","Genetta","King Genet",DD,U,-11513776
+14,8,"angolensis","Genetta","Miombo Genet",LC,U,-16731116
+17,16,"abyssinica","Genetta","Ethiopian Genet",LC,U,-16731116
+18,16,"thierryi","Genetta","Hausa Genet",LC,U,-16731116
+19,15,"johnstoni","Genetta","Johnston's Genet",VU,D,-11184866
+21,20,"tigrina","Genetta","South African Large-spotted Genet",LC,U,-16731116
+22,20,"genetta","Genetta","Common Genet",LC,S,-16731116
+25,24,"servalina","Genetta","Servaline Genet",LC,U,-16731116
+26,24,"cristata","Genetta","Crested Genet",VU,D,-11184866
+27,23,"victoriae","Genetta","Giant Genet",LC,U,-16731116
+30,29,"pardicolor","Prionodon","Spotted Linsang",LC,U,-16731116
+31,29,"linsang","Prionodon","Banded Linsang",LC,D,-16731116
+33,32,"richardsonii","Poiana","African Linsang",LC,U,-16731116
+34,32,"leightoni","Poiana","Leighton's Linsang",DD,D,-11513776
+35,3,"piscivora","Genetta","Aquatic Genet",DD,U,-11513776
+40,39,"megaspila","Viverra","Large-spotted Civet",VU,D,-11184866
+41,39,"civettina","Viverra","Malabar Civet",CR,U,-3014646
+43,42,"zibetha","Viverra","Large Indian Civet",NT,D,-12486656
+44,42,"tangalunga","Viverra","Malay Civet",LC,S,-16731116
+45,37,"indica","Viverricula","Small Indian Civet",LC,S,-16731116
+46,36,"civetta","Civettictis","African Civet",LC,U,-16731116
+54,53,"zeylonensis","Paradoxurus","Golden Palm Civet",VU,D,-11184866
+55,53,"jerdoni","Paradoxurus","Brown Palm Civet",LC,U,-16731116
+56,52,"hermaphroditus","Paradoxurus","Common Palm Civet",LC,S,-16731116
+58,57,"larvata","Paguma","Masked Palm Civet",LC,D,-16731116
+59,57,"binturong","Arctictis","Binturong",VU,D,-11184866
+60,50,"musschenbroekii","Macrogalidia","Brown Palm Civet",VU,D,-11184866
+61,49,"trivirgata","Arctogalidia","Small-toothed Palm Civet",LC,D,-16731116
+62,48,"binotata","Nandinia","African Palm Civet",LC,U,-16731116
+66,65,"owstoni","Chrotogale","Owston's Civet",VU,D,-11184866
+67,65,"hosei","Diplogale","Hose's Civet",VU,D,-11184866
+68,64,"derbyanus","Hemigalus","Banded Civit",VU,D,-11184866
+69,63,"bennettii","Cynogale","Otter-civet",EN,U,-8572416
+72,71,"goudotii","Eupleres","Falanouc",NT,D,-12486656
+73,71,"fossana","Fossa","Fanaloka",NT,D,-12486656
+74,70,"ferox","Cryptoprocta","Fossa",VU,D,-11184866

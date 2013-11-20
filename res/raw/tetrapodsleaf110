@@ -1,116 +1,60 @@
 index,parent,name1,name2,common,redlist,popstab,color
-18,17,"intermedius","Telmatobius","",DD,D,-11513776
-19,17,"atahualpai","Telmatobius","",DD,U,-11513776
-20,16,"platycephalus","Telmatobius","",EN,D,-8572416
-22,21,"arequipensis","Telmatobius","",VU,D,-11184866
-23,21,"vilamensis","Telmatobius","",DD,U,-11513776
-26,25,"pinguiculus","Telmatobius","",DD,U,-11513776
-27,25,"hauthali","Telmatobius","",VU,S,-11184866
-28,24,"culeus","Telmatobius","Titicaca Water Frog",CR,D,-3014646
-30,29,"verrucosus","Telmatobius","",VU,D,-11184866
-31,29,"pisanoi","Telmatobius","",EN,D,-8572416
-37,36,"atacamensis","Telmatobius","",CR,D,-3014646
-38,36,"scrocchii","Telmatobius","",EN,D,-8572416
-39,35,"latirostris","Telmatobius","",EN,D,-8572416
-40,34,"marmoratus","Telmatobius","",VU,D,-11184866
-43,42,"colanensis","Telmatobius","",EN,U,-8572416
-44,42,"rimac","Telmatobius","",LC,S,-16731116
-45,41,"simonsi","Telmatobius","",NT,D,-12486656
-46,32,"oxycephalus","Telmatobius","",VU,S,-11184866
-47,11,"contrerasi","Telmatobius","",DD,U,-11513776
-48,10,"schreiteri","Telmatobius","",EN,D,-8572416
-49,9,"pefauri","Telmatobius","",CR,D,-3014646
-51,50,"peruvianus","Telmatobius","",VU,D,-11184866
-52,50,"mayoloi","Telmatobius","",EN,D,-8572416
-57,56,"sibiricus","Telmatobius","",EN,D,-8572416
-58,56,"gigas","Telmatobius","",CR,D,-3014646
-59,55,"philippii","Telmatobius","",DD,U,-11513776
-61,60,"vellardi","Telmatobius","",CR,D,-3014646
-62,60,"truebae","Telmatobius","",EN,U,-8572416
-64,63,"bolivianus","Telmatobius","",NT,D,-12486656
-65,63,"jelskii","Telmatobius","",NT,D,-12486656
-72,71,"carrillae","Telmatobius","",VU,D,-11184866
-73,71,"ceiorum","Telmatobius","",EN,D,-8572416
-74,70,"hypselocephalus","Telmatobius","",EN,D,-8572416
-77,76,"zapahuirensis","Telmatobius","",CR,D,-3014646
-78,76,"brevipes","Telmatobius","",EN,D,-8572416
-79,75,"necopinus","Telmatobius","",EN,D,-8572416
-83,82,"edaphonastes","Telmatobius","",EN,D,-8572416
-84,82,"degener","Telmatobius","",EN,U,-8572416
-85,81,"laticeps","Telmatobius","",EN,D,-8572416
-86,80,"huayra","Telmatobius","",VU,D,-11184866
-89,88,"thompsoni","Telmatobius","",EN,U,-8572416
-90,88,"timens","Telmatobius","",DD,U,-11513776
-91,87,"brevirostris","Telmatobius","",EN,D,-8572416
-92,66,"niger","Telmatobius","",CR,D,-3014646
-98,97,"yuracare","Telmatobius","",VU,D,-11184866
-99,97,"dankoi","Telmatobius","",DD,U,-11513776
-100,96,"ignavus","Telmatobius","",EN,D,-8572416
-101,95,"halli","Telmatobius","",DD,U,-11513776
-103,102,"stephani","Telmatobius","",EN,D,-8572416
-104,102,"hockingi","Telmatobius","",VU,D,-11184866
-106,105,"fronteriensis","Telmatobius","",DD,U,-11513776
-107,105,"cirrhacelis","Telmatobius","",CR,D,-3014646
-109,108,"brachydactylus","Batrachophrynus","",EN,D,-8572416
-110,108,"macrostomus","Batrachophrynus","",EN,D,-8572416
-118,117,"testudo","Ceratophrys","Ecuadorian Horned Frog",DD,U,-11513776
-119,117,"stolzmanni","Ceratophrys","Pacific Horned Frog",VU,D,-11184866
-120,116,"calcarata","Ceratophrys","Venezuelan Horned Frog",LC,S,-16731116
-121,115,"cornuta","Ceratophrys","Amazonian Horned Frog",LC,S,-16731116
-125,124,"aurita","Ceratophrys","Brazilian Horned Frog",LC,D,-16731116
-126,124,"ornata","Ceratophrys","Ornate Horned Frog",NT,D,-12486656
-127,123,"joazeirensis","Ceratophrys","Caatinga Horned Frog",DD,U,-11513776
-128,122,"cranwelli","Ceratophrys","Chacoan Horned Frog",LC,D,-16731116
-129,113,"pierottii","Chacophrys","",LC,D,-16731116
-132,131,"llanensis","Lepidobatrachus","",LC,D,-16731116
-133,131,"asper","Lepidobatrachus","",NT,D,-12486656
-134,130,"laevis","Lepidobatrachus","",LC,D,-16731116
-141,140,"praebasalticus","Atelognathus","",EN,D,-8572416
-142,140,"ceii","Atelognathus","",DD,U,-11513776
-144,143,"nitoi","Atelognathus","",VU,S,-11184866
-145,143,"salai","Atelognathus","",VU,S,-11184866
-146,138,"grandisonae","Atelognathus","",DD,U,-11513776
-150,149,"patagonicus","Atelognathus","",EN,D,-8572416
-151,149,"solitarius","Atelognathus","",VU,S,-11184866
-152,148,"jeinimenensis","Atelognathus","",NT,S,-12486656
-153,147,"reverberii","Atelognathus","",EN,D,-8572416
-154,136,"acarpicus","Insuetophrynus","",CR,D,-3014646
-158,157,"antartandica","Batrachyla","",LC,S,-16731116
-159,157,"fitzroya","Batrachyla","",VU,S,-11184866
-160,156,"taeniata","Batrachyla","",LC,S,-16731116
-162,161,"nibaldoi","Batrachyla","",DD,U,-11513776
-163,161,"leptopus","Batrachyla","",LC,S,-16731116
-181,180,"helenae","Hyalinobatrachium","",NE,U,-16777216
-182,180,"ibama","Hyalinobatrachium","",VU,D,-11184866
-183,179,"guairarepanense","Hyalinobatrachium","",EN,D,-8572416
-185,184,"talamancae","Hyalinobatrachium","",LC,S,-16731116
-186,184,"pellucidum","Hyalinobatrachium","",EN,D,-8572416
-187,177,"nouraguense","Hyalinobatrachium","",LC,S,-16731116
-188,176,"crybetes","Hyalinobatrachium","",CR,D,-3014646
-189,175,"fleischmanni","Hyalinobatrachium","Fleischmann's Glass Frog",LC,D,-16731116
-190,174,"ignioculus","Hyalinobatrachium","",DD,U,-11513776
-191,173,"iaspidiense","Hyalinobatrachium","",DD,U,-11513776
-192,172,"lemur","Hyalinobatrachium","",DD,U,-11513776
-194,193,"pallidum","Hyalinobatrachium","",EN,D,-8572416
-195,193,"petersi","Hyalinobatrachium","",NE,U,-16777216
-199,198,"vireovittatum","Hyalinobatrachium","",DD,U,-11513776
-200,198,"bergeri","Hyalinobatrachium","",LC,U,-16731116
-201,197,"munozorum","Hyalinobatrachium","",LC,U,-16731116
-202,196,"esmeralda","Hyalinobatrachium","",EN,D,-8572416
-209,208,"orientale","Hyalinobatrachium","",VU,D,-11184866
-210,208,"duranti","Hyalinobatrachium","",DD,U,-11513776
-211,207,"parvulum","Hyalinobatrachium","",DD,U,-11513776
-212,206,"uranoscopum","Hyalinobatrachium","",LC,D,-16731116
-214,213,"eurygnathum","Hyalinobatrachium","",LC,D,-16731116
-215,213,"taylori","Hyalinobatrachium","",LC,S,-16731116
-217,216,"cardiacalyptum","Hyalinobatrachium","",EN,D,-8572416
-218,216,"fragile","Hyalinobatrachium","",VU,D,-11184866
-221,220,"aureoguttatum","Hyalinobatrachium","",NT,D,-12486656
-222,220,"valerioi","Hyalinobatrachium","",LC,D,-16731116
-223,219,"crurifasciatum","Hyalinobatrachium","",LC,S,-16731116
-226,225,"colymbiphyllum","Hyalinobatrachium","",LC,S,-16731116
-227,225,"chirripoi","Hyalinobatrachium","",LC,S,-16731116
-229,228,"eccentricum","Hyalinobatrachium","",DD,U,-11513776
-230,228,"mondolfii","Hyalinobatrachium","",LC,S,-16731116
-231,167,"ruedai","Hyalinobatrachium","",LC,S,-16731116
-232,165,"ruthveni","Allophryne","",LC,D,-16731116
+14,13,"johnstoniae","Trichoglossus","Mindanao Lorikeet",NT,U,-12486656
+15,13,"euteles","Trichoglossus","Olive-headed Lorikeet",LC,U,-16731116
+16,12,"haematodus","Trichoglossus","Rainbow Lorikeet",LC,U,-16731116
+17,11,"chlorolepidotus","Trichoglossus","Scaly-breasted Lorikeet",LC,U,-16731116
+20,19,"flavoviridis","Trichoglossus","Yellow-and-green Lorikeet",LC,U,-16731116
+21,19,"ornatus","Trichoglossus","Ornate Lorikeet",LC,U,-16731116
+22,18,"rubiginosus","Trichoglossus","Pohnpei Lorikeet",LC,U,-16731116
+26,25,"reticulata","Eos","Blue-streaked Lory",NT,U,-12486656
+27,25,"semilarvata","Eos","Blue-eared Lory",LC,U,-16731116
+29,28,"squamata","Eos","Violet-necked Lory",LC,U,-16731116
+30,28,"histrio","Eos","Red-and-blue Lory",EN,U,-8572416
+32,31,"cyanogenia","Eos","Black-winged Lory",VU,U,-11184866
+33,31,"bornea","Eos","Red Lory",LC,U,-16731116
+35,34,"pusilla","Glossopsitta","Little Lorikeet",LC,U,-16731116
+36,34,"concinna","Glossopsitta","Musk Lorikeet",LC,U,-16731116
+37,7,"porphyrocephala","Glossopsitta","Purple-crowned Lorikeet",LC,U,-16731116
+43,42,"sintillata","Chalcopsitta","Yellow-streaked Lory",LC,U,-16731116
+44,42,"duivenbodei","Chalcopsitta","Brown Lory",LC,U,-16731116
+45,41,"atra","Chalcopsitta","Black Lory",LC,U,-16731116
+46,40,"cardinalis","Chalcopsitta","Cardinal Lory",LC,U,-16731116
+47,39,"fuscata","Pseudeos","Dusky Lory",LC,U,-16731116
+50,49,"goldiei","Psitteuteles","Goldie's Lorikeet",LC,U,-16731116
+51,49,"iris","Psitteuteles","Iris Lorikeet",NT,U,-12486656
+52,48,"versicolor","Psitteuteles","Varied Lorikeet",LC,U,-16731116
+58,57,"albidinucha","Lorius","White-naped Lory",NT,U,-12486656
+59,57,"garrulus","Lorius","Chattering Lory",VU,U,-11184866
+60,56,"domicella","Lorius","Purple-naped Lory",VU,U,-11184866
+61,55,"lory","Lorius","Black-capped Lory",LC,U,-16731116
+62,54,"hypoinochrous","Lorius","Purple-bellied Lory",LC,U,-16731116
+63,53,"chlorocercus","Lorius","Yellow-bibbed Lory",LC,U,-16731116
+65,64,"musschenbroekii","Neopsittacus","Yellow-billed Lorikeet",LC,U,-16731116
+66,64,"pullicauda","Neopsittacus","Orange-billed Lorikeet",LC,U,-16731116
+67,3,"arfaki","Oreopsittacus","Plum-faced Lorikeet",LC,U,-16731116
+74,73,"amabilis","Charmosyna","Red-throated Lorikeet",CR,U,-3014646
+75,73,"wilhelminae","Charmosyna","Pygmy Lorikeet",LC,U,-16731116
+76,72,"margarethae","Charmosyna","Duchess Lorikeet",NT,U,-12486656
+78,77,"toxopei","Charmosyna","Blue-fronted Lorikeet",CR,U,-3014646
+79,77,"palmarum","Charmosyna","Palm Lorikeet",VU,U,-11184866
+82,81,"rubronotata","Charmosyna","Red-fronted Lorikeet",LC,U,-16731116
+83,81,"meeki","Charmosyna","Meek's Lorikeet",NT,U,-12486656
+84,80,"placentis","Charmosyna","Red-flanked Lorikeet",LC,U,-16731116
+88,87,"multistriata","Charmosyna","Striated Lorikeet",NT,U,-12486656
+89,87,"josefinae","Charmosyna","Josephine's Lorikeet",LC,U,-16731116
+91,90,"pulchella","Charmosyna","Fairy Lorikeet",LC,U,-16731116
+92,90,"papou","Charmosyna","Papuan Lorikeet",LC,U,-16731116
+94,93,"rubrigularis","Charmosyna","Red-chinned Lorikeet",LC,U,-16731116
+95,93,"diadema","Charmosyna","New Caledonian Lorikeet",CR,U,-3014646
+101,100,"australis","Vini","Blue-crowned Lorikeet",LC,U,-16731116
+102,100,"kuhlii","Vini","Rimatara Lorikeet",EN,U,-8572416
+103,99,"peruviana","Vini","Blue Lorikeet",VU,U,-11184866
+104,98,"ultramarina","Vini","Ultramarine Lorikeet",EN,U,-8572416
+105,97,"stepheni","Vini","Henderson Lorikeet",VU,U,-11184866
+106,96,"solitarius","Phigys","Collared Lory",LC,U,-16731116
+110,109,"edwardsii","Psittaculirostris","Edwards's Fig-parrot",LC,U,-16731116
+111,109,"desmarestii","Psittaculirostris","Large Fig-parrot",LC,U,-16731116
+112,108,"salvadorii","Psittaculirostris","Salvadori's Fig-parrot",VU,U,-11184866
+114,113,"gulielmitertii","Cyclopsitta","Orange-breasted Fig-parrot",LC,U,-16731116
+115,113,"diophthalma","Cyclopsitta","Double-eyed Fig-parrot",LC,U,-16731116
+116,0,"undulatus","Melopsittacus","Budgerigar",LC,U,-16731116

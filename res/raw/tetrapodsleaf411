@@ -1,0 +1,35 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"galeanae","Pseudoeurycea","",NT,U,-12486656
+9,7,"brunnata","Pseudoeurycea","",CR,D,-3014646
+10,6,"aquatica","Pseudoeurycea","",CR,D,-3014646
+12,11,"orchileucos","Pseudoeurycea","",EN,D,-8572416
+13,11,"anitae","Pseudoeurycea","",CR,U,-3014646
+16,15,"quetzalanensis","Pseudoeurycea","Cuetzalan Salamander",DD,U,-11513776
+17,15,"werleri","Pseudoeurycea","",EN,D,-8572416
+18,14,"sulcata","Pseudoeurycea","",NE,U,-16777216
+24,23,"papenfussi","Pseudoeurycea","Muscular Salamander",NT,U,-12486656
+25,23,"nigromaculata","Pseudoeurycea","",CR,D,-3014646
+26,22,"firscheini","Pseudoeurycea","",EN,D,-8572416
+28,27,"gigantea","Pseudoeurycea","",CR,D,-3014646
+29,27,"mystax","Pseudoeurycea","",EN,D,-8572416
+30,20,"teotepec","Pseudoeurycea","",EN,D,-8572416
+32,31,"amuzga","Pseudoeurycea","",DD,U,-11513776
+33,31,"rex","Pseudoeurycea","",CR,D,-3014646
+35,34,"maxima","Pseudoeurycea","Southern Giant Salamander",DD,U,-11513776
+36,34,"saltator","Pseudoeurycea","",CR,D,-3014646
+41,40,"obesa","Pseudoeurycea","Ridge Tail Salamander",DD,U,-11513776
+42,40,"scandens","Pseudoeurycea","",VU,U,-11184866
+44,43,"praecellens","Pseudoeurycea","",CR,D,-3014646
+45,43,"nigra","Pseudoeurycea","",CR,D,-3014646
+48,47,"leprosa","Pseudoeurycea","",VU,D,-11184866
+49,47,"conanti","Pseudoeurycea","",EN,U,-8572416
+50,46,"exspectata","Pseudoeurycea","",CR,D,-3014646
+54,53,"mixcoatl","Pseudoeurycea","",DD,D,-11513776
+55,53,"boneti","Pseudoeurycea","",VU,D,-11184866
+56,52,"gadovii","Pseudoeurycea","",EN,D,-8572416
+58,57,"bellii","Pseudoeurycea","Bell's False Brook Salamander",VU,D,-11184866
+59,57,"altamontana","Pseudoeurycea","",EN,D,-8572416
+63,62,"ahuitzotl","Pseudoeurycea","",CR,D,-3014646
+64,62,"cochranae","Pseudoeurycea","",EN,D,-8572416
+65,61,"tenchalli","Pseudoeurycea","",EN,D,-8572416
+66,60,"melanomolga","Pseudoeurycea","",EN,D,-8572416

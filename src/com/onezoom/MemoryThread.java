@@ -61,12 +61,14 @@ class MemoryHandler extends Handler {
 		case MemoryThread.MSG_INITIALIZATION:
 			clientActivity.initialization();
 			clientActivity.treeView.postInvalidate();
+			if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
+				this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			break;
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				clientActivity.treeView.setDuringRecalculation(true);
 				clientActivity.getTreeRoot().recalculateDynamic();					
-				Log.d("debug", "stack size after recalculate: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
+//				Log.d("debug", "stack size after recalculate: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
 				clientActivity.treeView.setDuringRecalculation(false);
 				clientActivity.treeView.postInvalidate();
 				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
@@ -78,7 +80,7 @@ class MemoryHandler extends Handler {
 //				clientActivity.treeView.setDuringRecalculation(true);
 				MidNode.initializer.idleTimeInitialization();
 //				clientActivity.treeView.setDuringRecalculation(false);
-				Log.d("debug", "stack size after ini: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
+//				Log.d("debug", "stack size after ini: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
 				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}

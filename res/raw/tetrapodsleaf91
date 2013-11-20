@@ -1,112 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"blainvillii","Phyllomys","Golden Atlantic Tree Rat",LC,U,-16731116
-18,16,"medius","Phyllomys","",LC,U,-16731116
-19,15,"lamarum","Phyllomys","Pallid Atlantic Tree Rat",DD,U,-11513776
-21,20,"dasythrix","Phyllomys","Drab Atlantic Tree Rat",LC,U,-16731116
-22,20,"chrysurus","Echimys","White-faced Tree Rat",LC,S,-16731116
-24,23,"macrura","Makalata","Long-tailed Tree Rat",LC,U,-16731116
-25,23,"grandis","Makalata","",NE,U,-16777216
-28,27,"unicolor","Phyllomys","Unicolored Tree Rat",CR,D,-3014646
-29,27,"pictus","Callistomys","Painted Tree-rat",EN,D,-8572416
-30,26,"nigrispinus","Phyllomys","Black-spined Atlantic Tree Rat",LC,U,-16731116
-33,32,"thomasi","Phyllomys","Giant Atlantic Tree Rat",EN,D,-8572416
-34,32,"saturnus","Echimys","Dark Spiny Tree-rat",DD,U,-11513776
-35,31,"semivillosus","Echimys","",NE,U,-16777216
-37,36,"brasiliensis","Phyllomys","Red-nosed Tree Rat",EN,D,-8572416
-38,36,"rhipidura","Makalata","Peruvian Tree Rat",DD,U,-11513776
-43,42,"caniceps","Diplomys","Arboreal Soft-furred Spiny Rat",DD,U,-11513776
-44,42,"rufodorsalis","Diplomys","",NE,U,-16777216
-45,41,"labilis","Diplomys","Rufous Tree Rat",LC,S,-16731116
-47,46,"didelphoides","Makalata","Brazilian Spiny Tree Rat",LC,U,-16731116
-48,46,"occasius","Makalata","",NE,U,-16777216
-51,50,"bistriata","Isothrix","Yellow-crowned Brush-tailed Rat",LC,U,-16731116
-52,50,"negrensis","Isothrix","",LC,U,-16731116
-53,49,"pagurus","Isothrix","Plain Brush-tailed Rat",LC,U,-16731116
-54,8,"urichi","Proechimys","Sucre Spiny Rat",LC,U,-16731116
-55,7,"goeldii","Proechimys","Goeldi's Spiny Rat",VU,D,-11184866
-56,6,"simonsi","Proechimys","Simon's Spiny Rat",LC,U,-16731116
-63,62,"leniceps","Mesomys","Woolly-headed Spiny Tree Rat",DD,U,-11513776
-64,62,"hispidus","Mesomys","Spiny Tree Rat",LC,U,-16731116
-66,65,"obscura","Makalata","Dark Armored Tree-rat",DD,U,-11513776
-67,65,"stimulax","Mesomys","Para Spiny Tree Rat",LC,U,-16731116
-69,68,"cuvieri","Proechimys","Cuvier's Spiny Rat",LC,U,-16731116
-70,68,"setosus","Trinomys","Hairy Spiny Rat",LC,U,-16731116
-71,59,"subspinosus","Chaetomys","Bristle-spined Rat",VU,D,-11184866
-73,72,"apereoides","Thrichomys","Punare",LC,U,-16731116
-74,72,"inermis","Thrichomys","",LC,U,-16731116
-77,76,"gratiosus","Trinomys","",LC,U,-16731116
-78,76,"paratus","Trinomys","",DD,U,-11513776
-79,75,"iheringi","Trinomys","Ihering's Spiny Rat",LC,S,-16731116
-82,81,"chrysaeolus","Proechimys","Boyaca Spiny Rat",DD,U,-11513776
-83,81,"mincae","Proechimys","Minca Spiny Rat",DD,U,-11513776
-84,80,"magdalenae","Proechimys","Magdalena Spiny Rat",DD,U,-11513776
-93,92,"hoplomyoides","Proechimys","Guyanan Spiny Rat",DD,U,-11513776
-94,92,"gymnurus","Hoplomys","Armored Rat",LC,S,-16731116
-95,91,"dimidiatus","Trinomys","Atlantic Spiny Rat",LC,U,-16731116
-97,96,"oconnelli","Proechimys","O'Connell's Spiny Rat",DD,U,-11513776
-98,96,"spinosus","Euryzygomatomys","Guiara",LC,U,-16731116
-99,89,"canicollis","Proechimys","Colombian Spiny Rat",LC,S,-16731116
-103,102,"poliopus","Proechimys","Gray-footed Spiny Rat",VU,D,-11184866
-104,102,"sulcidens","Carterodon","Owl's Spiny Rat",DD,U,-11513776
-105,101,"roberti","Proechimys","Roberto's Spiny Rat",VU,D,-11184866
-107,106,"emiliae","Lonchothrix","Tuft-tailed Spiny Tree Rat",LC,S,-16731116
-108,106,"albispinus","Trinomys","White-spined Spiny Rat",LC,U,-16731116
-112,111,"myosuros","Trinomys","Mouse-tailed Spiny Rat",LC,U,-16731116
-113,111,"trinitatus","Proechimys","Trinidad Spiny Rat",DD,U,-11513776
-114,110,"quadruplicatus","Proechimys","Napo Spiny Rat",LC,S,-16731116
-116,115,"semispinosus","Proechimys","Tome's Spiny Rat",LC,S,-16731116
-117,115,"steerei","Proechimys","Steere's Spiny Rat",LC,U,-16731116
-123,122,"boliviensis","Dactylomys","Bolivian Bamboo Rat",LC,S,-16731116
-124,122,"dactylinus","Dactylomys","Amazon Bamboo Rat",LC,S,-16731116
-125,121,"peruanus","Dactylomys","Peruvian Bamboo Rat",DD,U,-11513776
-127,126,"albicauda","Olallamys","White-tailed Olalla Rat",DD,U,-11513776
-128,126,"edax","Olallamys","Greedy Olalla Rat",DD,U,-11513776
-129,119,"amblyonyx","Kannabateomys","Atlantic Bamboo Rat",LC,U,-16731116
-130,118,"brevicauda","Proechimys","Huallaga Spiny Rat",LC,U,-16731116
-135,134,"bishopi","Clyomys","Bishop's Fossorial Spiny Rat",DD,U,-11513776
-136,134,"laticeps","Clyomys","Broad-headed Spiny Rat",LC,U,-16731116
-137,133,"decumanus","Proechimys","Pacific Spiny Rat",VU,D,-11184866
-138,132,"guyannensis","Proechimys","Cayenne Spiny Rat",LC,U,-16731116
-140,139,"longicaudatus","Proechimys","Long-tailed Spiny Rat",LC,D,-16731116
-141,139,"guairae","Proechimys","Guaira Spiny Rat",LC,U,-16731116
-142,2,"coypus","Myocastor","Coypu",LC,D,-16731116
-149,148,"prehensilis","Mysateles","Prehensile-tailed Hutia",NT,U,-12486656
-150,148,"garridoi","Mysateles","Garrido's Hutia",CR,U,-3014646
-152,151,"meridionalis","Mysateles","Isla De La Juventud Tree Hutia",CR,D,-3014646
-153,151,"melanurus","Mesocapromys","",NE,U,-16777216
-156,155,"ingrahami","Geocapromys","Bahamian Hutia",VU,S,-11184866
-157,155,"brownii","Geocapromys","Brown's Hutia",VU,D,-11184866
-159,158,"pilorides","Capromys","Desmarest's Hutia",LC,S,-16731116
-160,158,"gundlachianus","Capromys","",NE,U,-16777216
-164,163,"angelcabrerai","Mesocapromys","Cabrera's Hutia",EN,U,-8572416
-165,163,"auritus","Mesocapromys","Eared Hutia",EN,S,-8572416
-166,162,"sanfelipensis","Mesocapromys","Little Earth Hutia",CR,U,-3014646
-167,161,"nanus","Mesocapromys","Dwarf Hutia",CR,U,-3014646
-168,144,"aedium","Plagiodontia","Cuvier's Hutia",EN,D,-8572416
-169,143,"portoricensis","Isolobodon","Puerto Rican Hutia",EX,U,-16777036
-178,177,"damarensis","Cryptomys","Damara Mole Rat",LC,S,-16731116
-179,177,"mechowi","Cryptomys","Mechow's Mole Rat",LC,S,-16731116
-180,176,"zechi","Cryptomys","Ghana Mole Rat",LC,S,-16731116
-183,182,"darlingi","Cryptomys","Mashona Mole-rat",LC,S,-16731116
-184,182,"amatus","Cryptomys","",NE,U,-16777216
-185,181,"hottentotus","Cryptomys","African Mole Rat",LC,S,-16731116
-188,187,"ochraceocinereus","Cryptomys","Ochre Mole Rat",LC,U,-16731116
-189,187,"bocagei","Cryptomys","Bocage's Mole Rat",LC,U,-16731116
-190,186,"foxi","Cryptomys","Nigerian Mole Rat",DD,U,-11513776
-193,192,"janetta","Bathyergus","Namaqua Dune Mole Rat",LC,U,-16731116
-194,192,"suillus","Bathyergus","Cape Dune Mole Rat",LC,S,-16731116
-195,191,"capensis","Georychus","Cape Mole Rat",LC,S,-16731116
-196,172,"argenteocinereus","Heliophobius","Silvery Mole Rat",LC,S,-16731116
-197,171,"glaber","Heterocephalus","Naked Mole Rat",LC,S,-16731116
-204,203,"shiptoni","Microcavia","Shipton's Mountain Cavy",NT,D,-12486656
-205,203,"niata","Microcavia","Andean Mountain Cavy",LC,S,-16731116
-206,202,"australis","Microcavia","Southern Mountain Cavy",LC,U,-16731116
-209,208,"tschudii","Cavia","Montane Guinea Pig",LC,S,-16731116
-210,208,"porcellus","Cavia","",NE,U,-16777216
-211,207,"aperea","Cavia","Brazilian Guinea Pig",LC,S,-16731116
-215,214,"spixii","Galea","Spix's Yellow-toothed Cavy",LC,S,-16731116
-216,214,"flavidens","Galea","Yellow-toothed Cavy",LC,U,-16731116
-217,213,"musteloides","Galea","Common Yellow-toothed Cavy",LC,S,-16731116
-218,212,"fulgida","Cavia","Shiny Guinea Pig",LC,S,-16731116
-219,199,"magna","Cavia","Greater Guinea Pig",LC,D,-16731116
-220,198,"rupestris","Kerodon","Rock Cavy",LC,S,-16731116
+9,8,"melanoceps","Myrmeciza","White-shouldered Antbird",LC,U,-16731116
+10,8,"goeldii","Myrmeciza","Goeldi's Antbird",LC,U,-16731116
+12,11,"immaculata","Myrmeciza","Immaculate Antbird",LC,U,-16731116
+13,11,"fortis","Myrmeciza","Sooty Antbird",LC,U,-16731116
+15,14,"nudiceps","Gymnocichla","Bare-crowned Antbird",LC,U,-16731116
+16,14,"ardesiacus","Rhopornis","Slender Antbird",EN,U,-8572416
+19,18,"leucoptera","Pyriglena","White-shouldered Fire-eye",LC,U,-16731116
+20,18,"atra","Pyriglena","Fringe-backed Fire-eye",EN,U,-8572416
+21,17,"leuconota","Pyriglena","White-backed Fire-eye",LC,U,-16731116
+24,23,"lophotes","Percnostola","White-lined Antbird",LC,U,-16731116
+25,23,"arenarum","Percnostola","Allpahuayo Antbird",VU,U,-11184866
+26,22,"rufifrons","Percnostola","Black-headed Antbird",LC,U,-16731116
+29,28,"leucophrys","Myrmoborus","White-browed Antbird",LC,U,-16731116
+30,28,"melanurus","Myrmoborus","Black-tailed Antbird",NT,U,-12486656
+32,31,"myotherinus","Myrmoborus","Black-faced Antbird",LC,U,-16731116
+33,31,"lugubris","Myrmoborus","Ash-breasted Antbird",LC,U,-16731116
+34,2,"longipes","Myrmeciza","White-bellied Antbird",LC,U,-16731116
+40,39,"naevius","Hylophylax","Spot-backed Antbird",LC,U,-16731116
+41,39,"naevioides","Hylophylax","Spotted Antbird",LC,U,-16731116
+42,38,"punctulatus","Hylophylax","Dot-backed Antbird",LC,U,-16731116
+44,43,"melanopogon","Hypocnemoides","Black-chinned Antbird",LC,U,-16731116
+45,43,"maculicauda","Hypocnemoides","Band-tailed Antbird",LC,U,-16731116
+48,47,"loricata","Myrmeciza","White-bibbed Antbird",LC,U,-16731116
+49,47,"squamosa","Myrmeciza","Squamate Antbird",LC,U,-16731116
+50,46,"ferruginea","Myrmeciza","Ferruginous-backed Antbird",LC,U,-16731116
+54,53,"griseiceps","Myrmeciza","Grey-headed Antbird",VU,U,-11184866
+55,53,"ruficauda","Myrmeciza","Scalloped Antbird",EN,U,-8572416
+57,56,"exsul","Myrmeciza","Chestnut-backed Antbird",LC,U,-16731116
+58,56,"disjuncta","Myrmeciza","Yapacana Antbird",LC,U,-16731116
+61,60,"berlepschi","Myrmeciza","Stub-tailed Antbird",LC,U,-16731116
+62,60,"nigricauda","Myrmeciza","Esmeraldas Antbird",LC,U,-16731116
+63,59,"laemosticta","Myrmeciza","Dull-mantled Antbird",LC,U,-16731116
+71,70,"schistacea","Schistocichla","Slate-coloured Antbird",LC,U,-16731116
+72,70,"rufifacies","Schistocichla","Rufous-faced Antbird",LC,U,-16731116
+73,69,"caurensis","Schistocichla","Caura Antbird",LC,U,-16731116
+74,68,"humaythae","Schistocichla","Humaita Antbird",LC,U,-16731116
+76,75,"brunneiceps","Schistocichla","Brownish-headed Antbird",LC,U,-16731116
+77,75,"saturata","Schistocichla","Roraiman Antbird",LC,U,-16731116
+79,78,"leucostigma","Schistocichla","Spot-winged Antbird",LC,U,-16731116
+80,78,"hyperythra","Myrmeciza","Plumbeous Antbird",LC,U,-16731116
+81,65,"naevia","Sclateria","Silvered Antbird",LC,U,-16731116
+82,64,"nigropectus","Biatas","White-bearded Antshrike",VU,U,-11184866

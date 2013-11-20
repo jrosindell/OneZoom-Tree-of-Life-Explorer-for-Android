@@ -1,0 +1,82 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"fitzgeraldi","Flectonotus","",EN,D,-8572416
+14,12,"ohausi","Flectonotus","",LC,S,-16731116
+16,15,"pygmaeus","Flectonotus","",LC,U,-16731116
+17,15,"goeldii","Flectonotus","",LC,S,-16731116
+18,10,"fissilis","Flectonotus","",LC,S,-16731116
+27,26,"roraimae","Stefania","",DD,U,-11513776
+28,26,"woodleyi","Stefania","",LC,U,-16731116
+29,25,"oculosa","Stefania","",DD,U,-11513776
+30,24,"tamacuarina","Stefania","",DD,U,-11513776
+33,32,"breweri","Stefania","Brewer's Carrying Frog",DD,U,-11513776
+34,32,"schuberti","Stefania","",VU,S,-11184866
+35,31,"marahuaquensis","Stefania","",DD,U,-11513776
+37,36,"evansi","Stefania","",LC,S,-16731116
+38,36,"coxi","Stefania","",LC,S,-16731116
+41,40,"ayangannae","Stefania","",LC,S,-16731116
+42,40,"ackawaio","Stefania","",LC,S,-16731116
+44,43,"scalae","Stefania","",LC,S,-16731116
+45,43,"riae","Stefania","",DD,U,-11513776
+49,48,"percristata","Stefania","",DD,U,-11513776
+50,48,"satelles","Stefania","",NT,S,-12486656
+52,51,"riveroi","Stefania","",VU,S,-11184866
+53,51,"goini","Stefania","",DD,U,-11513776
+54,46,"ginesi","Stefania","",LC,S,-16731116
+57,56,"fuhrmanni","Cryptobatrachus","",VU,D,-11184866
+58,56,"nicefori","Cryptobatrachus","",CR,D,-3014646
+59,55,"boulengeri","Cryptobatrachus","",EN,D,-8572416
+66,65,"sanctaecrucis","Oreobates","",LC,S,-16731116
+67,65,"simmonsi","Oreobates","",VU,S,-11184866
+68,64,"quixensis","Oreobates","",LC,S,-16731116
+71,70,"choristolemma","Oreobates","",DD,U,-11513776
+72,70,"sanderi","Oreobates","",LC,U,-16731116
+73,69,"saxatilis","Oreobates","",DD,U,-11513776
+81,80,"hermogenesi","Brachycephalus","Flea-frog",LC,D,-16731116
+82,80,"nodoterga","Brachycephalus","",DD,U,-11513776
+83,79,"didactylus","Brachycephalus","Flea-frog",LC,D,-16731116
+85,84,"ephippium","Brachycephalus","Pumpkin Toadlet",LC,D,-16731116
+86,84,"vertebralis","Brachycephalus","",DD,U,-11513776
+88,87,"izecksohni","Brachycephalus","",DD,U,-11513776
+89,87,"brunneus","Brachycephalus","",DD,U,-11513776
+90,76,"pernix","Brachycephalus","",DD,U,-11513776
+94,93,"tridactyla","Euparkerella","",VU,S,-11184866
+95,93,"cochranae","Euparkerella","",LC,D,-16731116
+96,92,"brasiliensis","Euparkerella","",LC,D,-16731116
+97,91,"robusta","Euparkerella","",VU,D,-11184866
+99,98,"ternetzi","Barycholos","",LC,D,-16731116
+100,98,"pulcher","Barycholos","",LC,U,-16731116
+105,104,"proboscideus","Hemiphractus","",LC,D,-16731116
+106,104,"johnsoni","Hemiphractus","",EN,D,-8572416
+107,103,"helioi","Hemiphractus","",LC,D,-16731116
+108,102,"bubalus","Hemiphractus","",NT,D,-12486656
+110,109,"fasciatus","Hemiphractus","",NT,D,-12486656
+111,109,"scutatus","Hemiphractus","",LC,D,-16731116
+121,120,"rheophilus","Taudactylus","Northern Tinker Frog",CR,U,-3014646
+122,120,"liemi","Taudactylus","Eungella Tinker Frog",NT,S,-12486656
+123,119,"pleione","Taudactylus","Kroombit Tinker Frog",CR,D,-3014646
+125,124,"acutirostris","Taudactylus","Sharp Snouted Day Frog",CR,D,-3014646
+126,124,"diurnus","Taudactylus","Mount Glorious Torrent Frog",EX,U,-16777036
+127,117,"eungellensis","Taudactylus","Eungella Torrent Frog",CR,D,-3014646
+132,131,"fasciolatus","Mixophyes","Great Barred-frog",LC,S,-16731116
+133,131,"balbus","Mixophyes","Grey Barred Frog",VU,D,-11184866
+134,130,"iteratus","Mixophyes","Giant Barred-frog",EN,D,-8572416
+137,136,"fleayi","Mixophyes","Fleay's Barred-frog",EN,D,-8572416
+138,136,"hihihorlo","Mixophyes","",DD,U,-11513776
+139,135,"schevilli","Mixophyes","Northern Barred Frog",LC,S,-16731116
+141,140,"vitellinus","Rheobatrachus","Eungella Gastric-brooding Frog",EX,U,-16777036
+142,140,"silus","Rheobatrachus","Southern Gastric Brooding Frog",EX,U,-16777036
+149,148,"frosti","Philoria","Baw Baw Frog",CR,D,-3014646
+150,148,"richmondensis","Philoria","",EN,D,-8572416
+151,147,"pughi","Philoria","",EN,D,-8572416
+152,146,"sphagnicolus","Philoria","Sphagnum Frog",EN,D,-8572416
+153,145,"kundagungan","Philoria","Mountain Frog",EN,D,-8572416
+154,144,"loveridgei","Philoria","Loveridge's Frog",EN,D,-8572416
+158,157,"australis","Telmatobufo","",VU,D,-11184866
+159,157,"bullocki","Telmatobufo","",CR,D,-3014646
+160,156,"venustus","Telmatobufo","",EN,D,-8572416
+161,155,"caudiverbera","Caudiverbera","",NE,U,-16777216
+165,164,"gardineri","Sooglossus","Gardiner's Seychelles frog",NE,U,-16777216
+166,164,"thomasseti","Sooglossus","",VU,U,-11184866
+168,167,"pipilodryas","Sooglossus","Seychelles palm frog",NE,U,-16777216
+169,167,"sechellensis","Sooglossus","",VU,U,-11184866
+170,162,"sahyadrensis","Nasikabatrachus","Purple frog",EN,D,-8572416

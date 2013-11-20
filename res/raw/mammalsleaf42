@@ -1,0 +1,84 @@
+index,parent,name1,name2,common,redlist,popstab,color
+19,18,"neocaledonicus","Chalinolobus","New Caledonia Wattled Bat",EN,D,-8572416
+20,18,"gouldii","Chalinolobus","Gould's Wattled Bat",LC,S,-16731116
+21,17,"nigrogriseus","Chalinolobus","Hoary Wattled Bat",LC,S,-16731116
+24,23,"morio","Chalinolobus","Chocolate Wattled Bat",LC,S,-16731116
+25,23,"picatus","Chalinolobus","Little Pied Bat",NT,D,-12486656
+26,22,"dwyeri","Chalinolobus","Large-eared Pied Bat",NT,D,-12486656
+27,15,"tuberculatus","Chalinolobus","New Zealand Long-tailed Bat",VU,D,-11184866
+31,30,"affinis","Falsistrellus","Chocolate Pipistrelle",LC,U,-16731116
+32,30,"petersi","Falsistrellus","Peters's Pipistrelle",DD,U,-11513776
+33,29,"mordax","Falsistrellus","Pungent Pipistrelle",DD,U,-11513776
+35,34,"tasmaniensis","Falsistrellus","Eastern False Pipistrelle",LC,D,-16731116
+36,34,"mackenziei","Falsistrellus","Western False Pipistrelle",NT,D,-12486656
+40,39,"helios","Neoromicia","",NE,U,-16777216
+41,39,"nanus","Neoromicia","",NE,U,-16777216
+42,38,"arabicus","Hypsugo","",NE,U,-16777216
+43,37,"imbricatus","Hypsugo","",NE,U,-16777216
+45,44,"hesperus","Pipistrellus","Western Pipistrelle",LC,S,-16731116
+46,44,"musciculus","Hypsugo","",NE,U,-16777216
+55,54,"lasiopterus","Nyctalus","Giant Noctule",NT,D,-12486656
+56,54,"leisleri","Nyctalus","LEISLER'S BAT",LC,U,-16731116
+57,53,"aviator","Nyctalus","Birdlike Noctule",NT,D,-12486656
+58,52,"montanus","Nyctalus","Mountain Noctule",LC,D,-16731116
+59,51,"azoreum","Nyctalus","Azorean Bat",EN,D,-8572416
+62,61,"plancyi","Nyctalus","Chinese Noctule",LC,U,-16731116
+63,61,"furvus","Nyctalus","Japanese Noctule",VU,D,-11184866
+64,60,"noctula","Nyctalus","Noctule",LC,U,-16731116
+66,65,"doriae","Hesperoptenus","False Serotine Bat",DD,U,-11513776
+67,65,"denticulus","Eudiscopus","Disk-footed Bat",DD,U,-11513776
+72,71,"bodenheimeri","Hypsugo","",NE,U,-16777216
+73,71,"ariel","Hypsugo","",NE,U,-16777216
+75,74,"alaschanicus","Hypsugo","",NE,U,-16777216
+76,74,"savii","Hypsugo","",NE,U,-16777216
+78,77,"vordermanni","Hypsugo","",NE,U,-16777216
+79,77,"macrotis","Hypsugo","",NE,U,-16777216
+80,68,"cadornae","Hypsugo","",NE,U,-16777216
+84,83,"tylopus","Glischropus","Common Thick-thumbed Bat",LC,U,-16731116
+85,83,"javanus","Glischropus","Javan Thick-thumbed Bat",DD,U,-11513776
+87,86,"dubiaquercus","Bauerus","Van Gelder's Bat",NT,U,-12486656
+88,86,"pallidus","Antrozous","Pallid Bat",LC,S,-16731116
+95,94,"aenobarbus","Nycticeius","Temminck's Mysterious Bat",DD,U,-11513776
+96,94,"albescens","Myotis","Silver-tipped Myotis",LC,S,-16731116
+105,104,"adversus","Myotis","Large-footed Myotis",LC,U,-16731116
+106,104,"moluccarum","Myotis","Maluku Myotis",LC,U,-16731116
+107,103,"macropus","Myotis","Large-footed Myotis",LC,U,-16731116
+108,102,"bocagii","Myotis","Rufous Mouse-eared Bat",LC,U,-16731116
+110,109,"hasseltii","Myotis","Lesser Large-footed Myotis",LC,U,-16731116
+111,109,"horsfieldii","Myotis","Horsfield's Myotis",LC,S,-16731116
+114,113,"simus","Myotis","Velvety Myotis",DD,U,-11513776
+115,113,"ruber","Myotis","Red Myotis",NT,U,-12486656
+116,112,"riparius","Myotis","Riparian Myotis",LC,S,-16731116
+119,118,"grisescens","Myotis","Gray Myotis",NT,I,-12486656
+120,118,"ricketti","Myotis","",NE,U,-16777216
+121,117,"dasycneme","Myotis","POND MYOTIS",NT,D,-12486656
+122,98,"montivagus","Myotis","Burmese Whiskered Myotis",LC,U,-16731116
+128,127,"albigula","Scotoecus","",NE,U,-16777216
+129,127,"hindei","Scotoecus","",NE,U,-16777216
+130,126,"hirundo","Scotoecus","Dark-winged Lesser House Bat",LC,U,-16731116
+131,125,"albofuscus","Scotoecus","Light-winged Lesser House Bat",DD,U,-11513776
+132,124,"pallidus","Scotoecus","Desert Yellow Lesser House Bat.",LC,U,-16731116
+134,133,"sinensis","Vespertilio","Asian Particolored Bat",LC,U,-16731116
+135,133,"murinus","Vespertilio","Particoloured Bat",LC,S,-16731116
+138,137,"eisentrauti","Hypsugo","",NE,U,-16777216
+139,137,"anchietae","Hypsugo","",NE,U,-16777216
+140,136,"noctivagans","Lasionycteris","Silver-haired Bat",LC,S,-16731116
+147,146,"shortridgei","Miniopterus","Shortridge's Long-fingered Bat",DD,U,-11513776
+148,146,"paululus","Miniopterus","Philippine Long-fingered Bat",DD,U,-11513776
+149,145,"australis","Miniopterus","Little Long-fingered Bat",LC,S,-16731116
+151,150,"manavi","Miniopterus","Manavil Long-fingered Bat",LC,U,-16731116
+152,150,"minor","Miniopterus","Least Long-fingered Bat",DD,U,-11513776
+154,153,"macrocneme","Miniopterus","Small Melanesian Bent-winged Bat",DD,U,-11513776
+155,153,"pusillus","Miniopterus","Small Long-fingered Bat",LC,U,-16731116
+158,157,"fuscus","Miniopterus","Southeast Asian Long-fingered Bat",EN,D,-8572416
+159,157,"medius","Miniopterus","Medium Bent-winged Bat",LC,U,-16731116
+160,156,"fraterculus","Miniopterus","Lesser Long-fingered Bat",LC,U,-16731116
+165,164,"natalensis","Miniopterus","Natal Long-fingered Bat",LC,U,-16731116
+166,164,"majori","Miniopterus","Major's Long-fingered Bat",LC,U,-16731116
+167,163,"schreibersii","Miniopterus","Common Bentwing Bat",NT,D,-12486656
+169,168,"robustior","Miniopterus","Loyalty Bent-winged Bat",EN,U,-8572416
+170,168,"tristis","Miniopterus","Great Long-fingered Bat",LC,U,-16731116
+173,172,"inflatus","Miniopterus","Greater Long-fingered Bat",LC,U,-16731116
+174,172,"africanus","Miniopterus","",NE,U,-16777216
+175,171,"magnater","Miniopterus","Large Bent-winged Bat",LC,U,-16731116
+176,4,"aurita","Myzopoda","Eastern Sucker-footed Bat",LC,U,-16731116

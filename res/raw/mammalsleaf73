@@ -1,0 +1,69 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"papillosa","Kerivoula","Papillose Woolly Bat",LC,U,-16731116
+12,10,"lenis","Kerivoula","Lenis Woolly Bat",LC,U,-16731116
+13,9,"pellucida","Kerivoula","Clear-winged Woolly Bat",NT,D,-12486656
+14,8,"lanosa","Kerivoula","Lesser Woolly Bat",LC,U,-16731116
+16,15,"myrella","Kerivoula","Manaus Island Woolly Bat",DD,U,-11513776
+17,15,"muscina","Kerivoula","Fly River Woolly Bat",LC,U,-16731116
+21,20,"intermedia","Kerivoula","Small Woolly Bat",NT,D,-12486656
+22,20,"minuta","Kerivoula","Least Woolly Bat",NT,D,-12486656
+24,23,"smithii","Kerivoula","Smith's Woolly Bat",LC,U,-16731116
+25,23,"picta","Kerivoula","Painted Bat",LC,U,-16731116
+26,18,"whiteheadi","Kerivoula","Whitehead's Woolly Bat",LC,U,-16731116
+27,5,"flora","Kerivoula","Flores Woolly Bat",VU,D,-11184866
+33,32,"hardwickii","Kerivoula","Common Woolly Bat",LC,S,-16731116
+34,32,"cuprosa","Kerivoula","Copper Woolly Bat",DD,U,-11513776
+35,31,"phalaena","Kerivoula","Spurrell's Woolly Bat",LC,U,-16731116
+36,30,"eriophora","Kerivoula","Ethiopian Woolly Bat",DD,U,-11513776
+37,29,"argentata","Kerivoula","Damara Woolly Bat",LC,U,-16731116
+38,28,"agnella","Kerivoula","Louisiade Woolly Bat",DD,U,-11513776
+41,40,"atrox","Phoniscus","Groove-toothed Trumpet-eared Bat",NT,D,-12486656
+42,40,"aerosa","Phoniscus","Dubious Trumpet-eared Bat",DD,U,-11513776
+44,43,"jagorii","Phoniscus","Peters's Trumpet-eared Bat",LC,U,-16731116
+45,43,"papuensis","Phoniscus","Golden-tipped Bat",LC,U,-16731116
+56,55,"hilgendorfi","Murina","Greater Tube-nosed Bat",LC,U,-16731116
+57,55,"leucogaster","Murina","Rufous Tube-nosed Bat",DD,U,-11513776
+58,54,"fusca","Murina","Dusky Tube-nosed Bat",DD,U,-11513776
+59,53,"tenebrosa","Murina","Gloomy Tube-nosed Bat",CR,U,-3014646
+60,52,"suilla","Murina","Brown Tube-nosed Bat",LC,U,-16731116
+61,51,"aurata","Murina","Little Tube-nosed Bat",LC,U,-16731116
+62,50,"ussuriensis","Murina","Ussuri Tube-nosed Bat",LC,U,-16731116
+65,64,"florium","Murina","Flute-nosed Bat",LC,U,-16731116
+66,64,"silvatica","Murina","",NE,U,-16777216
+67,63,"tubinaris","Murina","Scully's Tube-nosed Bat",LC,U,-16731116
+71,70,"huttoni","Murina","Hutton's Tube-nosed Bat",LC,U,-16731116
+72,70,"aenea","Murina","Bronze Tube-nosed Bat",VU,D,-11184866
+73,69,"cyclotis","Murina","Round-eared Tube-nosed Bat",LC,U,-16731116
+75,74,"rozendaali","Murina","Gilded Tube-nosed Bat",VU,D,-11184866
+76,74,"puta","Murina","Taiwanese Tube-nosed Bat",NT,U,-12486656
+77,47,"grisea","Murina","",NE,U,-16777216
+79,78,"mordax","Harpiocephalus","Greater Hairy-winged Bat",DD,U,-11513776
+80,78,"harpia","Harpiocephalus","Lesser Hairy-winged Bat",LC,D,-16731116
+81,1,"rueppellii","Scoteanax","Greater Broad-nosed Bat",LC,D,-16731116
+91,90,"machadoi","Glauconycteris","Machado's Butterfly Bat",DD,U,-11513776
+92,90,"variegata","Glauconycteris","Butterfly Bat",LC,U,-16731116
+94,93,"kenyacola","Glauconycteris","Kenyan Wattled Bat",DD,U,-11513776
+95,93,"egeria","Glauconycteris","Bibundi Bat",DD,U,-11513776
+97,96,"humeralis","Glauconycteris","Allen's Spotted Bat",DD,U,-11513776
+98,96,"beatrix","Glauconycteris","Beatrix's Bat",LC,U,-16731116
+100,99,"alboguttata","Glauconycteris","Allen's Striped Bat",LC,U,-16731116
+101,99,"argentata","Glauconycteris","Silvered Bat",LC,U,-16731116
+103,102,"gleni","Glauconycteris","Glen's Wattled Bat",DD,U,-11513776
+104,102,"poensis","Glauconycteris","Abo Bat",LC,U,-16731116
+105,85,"superba","Glauconycteris","Pied Bat",LC,U,-16731116
+108,107,"wintoni","Laephotis","De Winton's Long-eared Bat",LC,U,-16731116
+109,107,"botswanae","Laephotis","Botswanan Long-eared Bat",LC,U,-16731116
+111,110,"angolensis","Laephotis","Angolan Long-eared Bats",DD,U,-11513776
+112,110,"namibensis","Laephotis","Namib Long-eared Bat",LC,S,-16731116
+113,83,"hemprichii","Otonycteris","Desert Long-eared Bat",LC,U,-16731116
+120,119,"finlaysoni","Vespadelus","Finlayson's Cave Bat",LC,S,-16731116
+121,119,"troughtoni","Vespadelus","Eastern Cave Bat",LC,S,-16731116
+123,122,"pumilus","Vespadelus","Eastern Forest Bat",LC,D,-16731116
+124,122,"caurinus","Vespadelus","Northern Cave Bat",LC,S,-16731116
+125,117,"darlingtoni","Vespadelus","Large Forest Bat",LC,S,-16731116
+126,116,"douglasorum","Vespadelus","Yellow-lipped Cave Bat",LC,U,-16731116
+129,128,"regulus","Vespadelus","Southern Forest Bat",LC,S,-16731116
+130,128,"vulturnus","Vespadelus","Little Forest Bat",LC,D,-16731116
+131,127,"baverstocki","Vespadelus","Inland Forest Bat",LC,S,-16731116
+133,132,"robustula","Tylonycteris","Greater Bamboo Bat",LC,U,-16731116
+134,132,"pachypus","Tylonycteris","Lesser Bamboo Bat",LC,U,-16731116

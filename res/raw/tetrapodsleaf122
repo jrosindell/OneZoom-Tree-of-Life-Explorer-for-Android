@@ -1,115 +1,51 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"multicolor","Todus","Cuban Tody",LC,U,-16731116
-9,7,"todus","Todus","Jamaican Tody",LC,U,-16731116
-10,6,"angustirostris","Todus","Narrow-billed Tody",LC,U,-16731116
-12,11,"mexicanus","Todus","Puerto Rican Tody",LC,U,-16731116
-13,11,"subulatus","Todus","Broad-billed Tody",LC,U,-16731116
-22,21,"abyssinicus","Coracias","Abyssinian Roller",LC,U,-16731116
-23,21,"garrulus","Coracias","European Roller",NT,U,-12486656
-24,20,"caudatus","Coracias","Lilac-breasted Roller",LC,U,-16731116
-25,19,"benghalensis","Coracias","Indian Roller",LC,U,-16731116
-26,18,"temminckii","Coracias","Purple-winged Roller",LC,U,-16731116
-28,27,"cyanogaster","Coracias","Blue-bellied Roller",LC,U,-16731116
-29,27,"spatulatus","Coracias","Racket-tailed Roller",LC,U,-16731116
-30,16,"naevia","Coracias","Rufous-crowned Roller",LC,U,-16731116
-34,33,"glaucurus","Eurystomus","Broad-billed Roller",LC,U,-16731116
-35,33,"orientalis","Eurystomus","Asian Dollarbird",LC,U,-16731116
-36,32,"azureus","Eurystomus","Purple Dollarbird",NT,U,-12486656
-37,31,"gularis","Eurystomus","Blue-throated Roller",LC,U,-16731116
-42,41,"crossleyi","Atelornis","Rufous-headed Ground-roller",NT,U,-12486656
-43,41,"pittoides","Atelornis","Pitta-like Ground-roller",LC,U,-16731116
-44,40,"chimaera","Uratelornis","Long-tailed Ground-roller",VU,U,-11184866
-45,39,"squamiger","Brachypteracias","Scaly Ground-roller",VU,U,-11184866
-46,38,"leptosomus","Brachypteracias","Short-legged Ground-roller",VU,U,-11184866
-61,60,"superciliosus","Merops","Madagascar Bee-eater",LC,U,-16731116
-62,60,"persicus","Merops","Blue-cheeked Bee-eater",LC,U,-16731116
-63,59,"philippinus","Merops","Blue-tailed Bee-eater",LC,U,-16731116
-65,64,"apiaster","Merops","European Bee-eater",LC,U,-16731116
-66,64,"ornatus","Merops","Rainbow Bee-eater",LC,U,-16731116
-69,68,"leschenaulti","Merops","Chestnut-headed Bee-eater",LC,U,-16731116
-70,68,"viridis","Merops","Blue-throated Bee-eater",LC,U,-16731116
-71,67,"orientalis","Merops","Little Green Bee-eater",LC,U,-16731116
-72,56,"nubicus","Merops","Northern Carmine Bee-eater",LC,U,-16731116
-73,55,"malimbicus","Merops","Rosy Bee-eater",LC,U,-16731116
-74,54,"albicollis","Merops","White-throated Bee-eater",LC,U,-16731116
-75,53,"nubicoides","Merops","Southern Carmine Bee-eater",LC,U,-16731116
-76,52,"revoilii","Merops","Somali Bee-eater",LC,U,-16731116
-82,81,"variegatus","Merops","Blue-breasted Bee-eater",LC,U,-16731116
-83,81,"pusillus","Merops","Little Bee-eater",LC,U,-16731116
-84,80,"oreobates","Merops","Cinnamon-chested Bee-eater",LC,U,-16731116
-85,79,"hirundineus","Merops","Swallow-tailed Bee-eater",LC,U,-16731116
-87,86,"muelleri","Merops","Blue-headed Bee-eater",LC,U,-16731116
-88,86,"gularis","Merops","Black Bee-eater",LC,U,-16731116
-89,77,"boehmi","Merops","Boehm's Bee-eater",LC,U,-16731116
-90,50,"breweri","Merops","Black-headed Bee-eater",LC,U,-16731116
-92,91,"bullockoides","Merops","White-fronted Bee-eater",LC,U,-16731116
-93,91,"bulocki","Merops","Red-throated Bee-eater",LC,U,-16731116
-94,48,"forsteni","Meropogon","Purple-bearded Bee-eater",LC,U,-16731116
-96,95,"athertoni","Nyctyornis","Blue-bearded Bee-eater",LC,U,-16731116
-97,95,"amictus","Nyctyornis","Red-bearded Bee-eater",LC,U,-16731116
-111,110,"mindorensis","Penelopides","Mindoro Hornbill",EN,U,-8572416
-112,110,"manillae","Penelopides","Luzon Hornbill",LC,U,-16731116
-114,113,"samarensis","Penelopides","Samar Hornbill",LC,U,-16731116
-115,113,"panini","Penelopides","Visayan Hornbill",EN,U,-8572416
-117,116,"exarhatus","Penelopides","Sulawesi Hornbill",LC,U,-16731116
-118,116,"affinis","Penelopides","Mindanao Hornbill",LC,U,-16731116
-120,119,"leucocephalus","Aceros","Writhed Hornbill",NT,U,-12486656
-121,119,"corrugatus","Aceros","Wrinkled Hornbill",NT,U,-12486656
-125,124,"undulatus","Aceros","Wreathed Hornbill",LC,U,-16731116
-126,124,"plicatus","Aceros","Papuan Hornbill",LC,U,-16731116
-128,127,"cassidix","Aceros","Knobbed Hornbill",LC,U,-16731116
-129,127,"everetti","Aceros","Sumba Hornbill",VU,U,-11184866
-131,130,"subruficollis","Aceros","Plain-pouched Hornbill",VU,U,-11184866
-132,130,"narcondami","Aceros","Narcondam Hornbill",EN,U,-8572416
-133,105,"waldeni","Aceros","Rufous-headed Hornbill",CR,U,-3014646
-134,104,"nipalensis","Aceros","Rufous-necked Hornbill",VU,U,-11184866
-135,103,"comatus","Aceros","White-crowned Hornbill",NT,U,-12486656
-140,139,"albirostris","Anthracoceros","Oriental Pied Hornbill",LC,U,-16731116
-141,139,"montani","Anthracoceros","Sulu Hornbill",CR,U,-3014646
-142,138,"marchei","Anthracoceros","Palawan Hornbill",VU,U,-11184866
-144,143,"coronatus","Anthracoceros","Malabar Pied Hornbill",NT,U,-12486656
-145,143,"malayanus","Anthracoceros","Black Hornbill",NT,U,-12486656
-148,147,"tickelli","Anorrhinus","Tickell's Brown Hornbill",NT,U,-12486656
-149,147,"austeni","Anorrhinus","Austen's Brown Hornbill",NT,U,-12486656
-150,146,"galeritus","Anorrhinus","Bushy-crested Hornbill",LC,U,-16731116
-158,157,"subcylindricus","Bycanistes","Black-and-white-casqued Hornbill",LC,U,-16731116
-159,157,"fistulator","Bycanistes","Piping Hornbill",LC,U,-16731116
-160,156,"brevis","Bycanistes","Silvery-cheeked Hornbill",LC,U,-16731116
-162,161,"cylindricus","Bycanistes","Brown-cheeked Hornbill",NT,U,-12486656
-163,161,"bucinator","Bycanistes","Trumpeter Hornbill",LC,U,-16731116
-164,154,"albotibialis","Bycanistes","White-thighed Hornbill",LC,U,-16731116
-166,165,"atrata","Ceratogymna","Black-casqued Hornbill",LC,U,-16731116
-167,165,"elata","Ceratogymna","Yellow-casqued Hornbill",NT,U,-12486656
-168,152,"albocristatus","Tropicranus","White-crested Hornbill",LC,U,-16731116
-171,170,"gingalensis","Ocyceros","Sri Lanka Grey Hornbill",LC,U,-16731116
-172,170,"birostris","Ocyceros","Indian Grey Hornbill",LC,U,-16731116
-173,169,"griseus","Ocyceros","Malabar Grey Hornbill",LC,U,-16731116
-177,176,"hydrocorax","Buceros","Rufous Hornbill",NT,U,-12486656
-178,176,"bicornis","Buceros","Great Hornbill",NT,U,-12486656
-179,175,"rhinoceros","Buceros","Rhinoceros Hornbill",NT,U,-12486656
-180,174,"vigil","Rhinoplax","Helmeted Hornbill",NT,U,-12486656
-189,188,"erythrorhynchus","Tockus","Red-billed Hornbill",LC,U,-16731116
-190,188,"monteiri","Tockus","Monteiro's Hornbill",LC,U,-16731116
-191,187,"flavirostris","Tockus","Eastern Yellow-billed Hornbill",LC,U,-16731116
-192,186,"bradfieldi","Tockus","Bradfield's Hornbill",LC,U,-16731116
-194,193,"leucomelas","Tockus","Southern Yellow-billed Hornbill",LC,U,-16731116
-195,193,"jacksoni","Tockus","Jackson's Hornbill",LC,U,-16731116
-198,197,"pallidirostris","Tockus","Pale-billed Hornbill",LC,U,-16731116
-199,197,"hemprichii","Tockus","Hemprich's Hornbill",LC,U,-16731116
-200,196,"camurus","Tockus","Red-billed Dwarf Hornbill",LC,U,-16731116
-201,183,"deckeni","Tockus","Von der Decken's Hornbill",LC,U,-16731116
-205,204,"fasciatus","Tockus","African Pied Hornbill",LC,U,-16731116
-206,204,"alboterminatus","Tockus","Crowned Hornbill",LC,U,-16731116
-207,203,"nasutus","Tockus","African Grey Hornbill",LC,U,-16731116
-208,202,"hartlaubi","Tockus","Black Dwarf Hornbill",LC,U,-16731116
-210,209,"abyssinicus","Bucorvus","Abyssinian Ground-hornbill",LC,U,-16731116
-211,209,"cafer","Bucorvus","Southern Ground-hornbill",VU,U,-11184866
-217,216,"damarensis","Phoeniculus","Violet Woodhoopoe",LC,U,-16731116
-218,216,"purpureus","Phoeniculus","Green Woodhoopoe",LC,U,-16731116
-219,215,"castaneiceps","Phoeniculus","Forest Woodhoopoe",LC,U,-16731116
-221,220,"somaliensis","Phoeniculus","Black-billed Woodhoopoe",LC,U,-16731116
-222,220,"bollei","Phoeniculus","White-headed Woodhoopoe",LC,U,-16731116
-225,224,"cyanomelas","Rhinopomastus","Common Scimitarbill",LC,U,-16731116
-226,224,"minor","Rhinopomastus","Abyssinian Scimitarbill",LC,U,-16731116
-227,223,"aterrimus","Rhinopomastus","Black Scimitarbill",LC,U,-16731116
-228,212,"epops","Upupa","Eurasian Hoopoe",LC,U,-16731116
+9,8,"bouvieri","Scotopelia","Vermiculated Fishing-owl",LC,U,-16731116
+10,8,"ussheri","Scotopelia","Rufous Fishing-owl",EN,U,-8572416
+11,7,"peli","Scotopelia","Pel's Fishing-owl",LC,U,-16731116
+12,6,"bengalensis","Bubo","Rock Eagle-owl",LC,U,-16731116
+14,13,"sumatranus","Bubo","Barred Eagle-owl",LC,U,-16731116
+15,13,"africanus","Bubo","Spotted Eagle-owl",LC,U,-16731116
+20,19,"shelleyi","Bubo","Shelley's Eagle-owl",NT,U,-12486656
+21,19,"ascalaphus","Bubo","Pharaoh Eagle-owl",LC,U,-16731116
+22,18,"bubo","Bubo","Eurasian Eagle-owl",LC,U,-16731116
+23,17,"capensis","Bubo","Cape Eagle-owl",LC,U,-16731116
+24,16,"philippensis","Bubo","Philippine Eagle-owl",VU,U,-11184866
+29,28,"cinerascens","Bubo","Greyish Eagle-Owl",_U,[,-16777216
+30,28,"poensis","Bubo","Fraser's Eagle-owl",LC,U,-16731116
+31,27,"virginianus","Bubo","Great Horned Owl",LC,U,-16731116
+32,26,"magellanicus","Bubo","Lesser Horned Owl",_U,[,-16777216
+34,33,"vosseleri","Bubo","Usambara Eagle-owl",VU,U,-11184866
+35,33,"scandiaca","Bubo","Snowy Owl",LC,U,-16731116
+40,39,"blakistoni","Ketupa","Blakiston's Fish-owl",EN,U,-8572416
+41,39,"ketupu","Ketupa","Buffy Fish-owl",LC,U,-16731116
+42,38,"flavipes","Ketupa","Tawny Fish-owl",LC,U,-16731116
+43,37,"zeylonensis","Ketupa","Brown Fish-owl",LC,U,-16731116
+46,45,"nipalensis","Bubo","Spot-bellied Eagle-owl",LC,U,-16731116
+47,45,"coromandus","Bubo","Dusky Eagle-owl",LC,U,-16731116
+49,48,"leucostictus","Bubo","Akun Eagle-owl",LC,U,-16731116
+50,48,"lacteus","Bubo","Giant Eagle-owl",LC,U,-16731116
+58,57,"davidi","Strix","Pere David's Owl",_U,[,-16777216
+59,57,"uralensis","Strix","Ural Owl",LC,U,-16731116
+60,56,"seloputo","Strix","Spotted Wood-owl",LC,U,-16731116
+62,61,"fulvescens","Strix","Fulvous Owl",LC,U,-16731116
+63,61,"aluco","Strix","Tawny Owl",LC,U,-16731116
+67,66,"leptogrammica","Strix","Brown Wood-owl",LC,U,-16731116
+68,66,"nebulosa","Strix","Great Grey Owl",LC,U,-16731116
+69,65,"butleri","Strix","Hume's Owl",LC,U,-16731116
+70,64,"huhula","Strix","Black-banded Owl",LC,U,-16731116
+71,53,"woodfordii","Strix","African Wood-owl",LC,U,-16731116
+78,77,"ocellata","Strix","Mottled Wood-owl",LC,U,-16731116
+79,77,"chacoensis","Strix","Chaco Owl",LC,U,-16731116
+80,76,"hylophila","Strix","Rusty-barred Owl",NT,U,-12486656
+81,75,"occidentalis","Strix","Spotted Owl",NT,U,-12486656
+82,74,"varia","Strix","Barred Owl",LC,U,-16731116
+85,84,"albitarsis","Strix","Rufous-banded Owl",LC,U,-16731116
+86,84,"rufipes","Strix","Rufous-legged Owl",LC,U,-16731116
+87,83,"nigrolineata","Strix","Black-and-white Owl",LC,U,-16731116
+88,72,"virgata","Strix","Mottled Owl",LC,U,-16731116
+92,91,"koeniswaldiana","Pulsatrix","Tawny-browed Owl",LC,U,-16731116
+93,91,"melanota","Pulsatrix","Band-bellied Owl",LC,U,-16731116
+94,90,"perspicillata","Pulsatrix","Spectacled Owl",LC,U,-16731116
+96,95,"cristata","Lophostrix","Crested Owl",LC,U,-16731116
+97,95,"lettii","Jubula","Maned Owl",DD,U,-11513776
+98,0,"lawrencii","Gymnoglaux","Bare-legged Owl",LC,U,-16731116

@@ -1,0 +1,46 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"alfredi","Rusa","Phillipine Spotted Deer",EN,D,-8572416
+11,9,"elaphus","Cervus","Red Deer",LC,I,-16731116
+12,8,"duvaucelii","Rucervus","Barasingha",VU,D,-11184866
+14,13,"timorensis","Rusa","Javan Rusa",VU,D,-11184866
+15,13,"nippon","Cervus","Sika Deer",LC,I,-16731116
+17,16,"davidianus","Elaphurus","Pere David's Deer",EW,I,-12832121
+18,16,"eldii","Rucervus","Eld's Deer",EN,D,-8572416
+20,19,"albirostris","Przewalskium","White-lipped Deer",VU,U,-11184866
+21,19,"unicolor","Rusa","Sambar",VU,D,-11184866
+22,4,"marianna","Rusa","Philippine Deer",VU,D,-11184866
+23,3,"dama","Dama","Fallow Deer",LC,U,-16731116
+26,25,"calamianensis","Axis","Calamanian Deer",EN,D,-8572416
+27,25,"axis","Axis","Chital",LC,U,-16731116
+29,28,"kuhlii","Axis","Bawean Deer",CR,S,-3014646
+30,28,"porcinus","Axis","Hog Deer",EN,D,-8572416
+37,36,"rooseveltorum","Muntiacus","Roosevelts' Muntjac",DD,D,-11513776
+38,36,"feae","Muntiacus","Fea's Muntjac",DD,U,-11513776
+39,35,"gongshanensis","Muntiacus","Gongshan Muntjac",DD,D,-11513776
+40,34,"muntjak","Muntiacus","Southern Red Muntjac",LC,D,-16731116
+42,41,"crinifrons","Muntiacus","Black Muntjac",VU,D,-11184866
+43,41,"reevesi","Muntiacus","Reeves' Muntjac",LC,D,-16731116
+44,32,"atherodes","Muntiacus","Bornean Yellow Muntjac",LC,D,-16731116
+45,31,"cephalophus","Elaphodus","Tufted Deer",NT,D,-12486656
+56,55,"temama","Mazama","Central American Red Brocket",DD,D,-11513776
+57,55,"americana","Mazama","Red Brocket",DD,U,-11513776
+58,54,"pandora","Mazama","Yucatan Brown Brocket",VU,D,-11184866
+60,59,"gouazoubira","Mazama","Gray Brocket",LC,D,-16731116
+61,59,"chunyi","Mazama","Chunyi",VU,D,-11184866
+63,62,"nana","Mazama","Brazilian Dwarf Brocket",DD,U,-11513776
+64,62,"bricenii","Mazama","Merida Brocket",VU,D,-11184866
+65,51,"rufina","Mazama","Dwarf Red Brocket",VU,D,-11184866
+67,66,"virginianus","Odocoileus","White-tailed Deer",LC,S,-16731116
+68,66,"hemionus","Odocoileus","Mule Deer",LC,S,-16731116
+72,71,"bisulcus","Hippocamelus","Patagonian Huemul",EN,D,-8572416
+73,71,"antisensis","Hippocamelus","Taruca",VU,D,-11184866
+74,70,"bezoarticus","Ozotoceros","Pampas Deer",NT,D,-12486656
+75,69,"dichotomus","Blastocerus","Marsh Deer",VU,D,-11184866
+77,76,"mephistophiles","Pudu","Northern Pudu",VU,D,-11184866
+78,76,"puda","Pudu","Southern Pudu",VU,D,-11184866
+79,47,"tarandus","Rangifer","Reindeer",LC,S,-16731116
+83,82,"capreolus","Capreolus","European Roe Deer",LC,I,-16731116
+84,82,"pygargus","Capreolus","SIBERIAN ROE DEER",LC,D,-16731116
+85,81,"inermis","Hydropotes","Chinese Water Deer",VU,D,-11184866
+87,86,"alces","Alces","Eurasian Elk",LC,I,-16731116
+88,86,"americanus","Alces","Moose",LC,S,-16731116

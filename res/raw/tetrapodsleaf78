@@ -1,141 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"hongkongensis","Amolops","",EN,D,-8572416
-18,16,"loloensis","Amolops","",VU,D,-11184866
-20,19,"granulosus","Amolops","",LC,D,-16731116
-21,19,"kaulbacki","Amolops","",DD,U,-11513776
-23,22,"tuberodepressus","Amolops","",VU,S,-11184866
-24,22,"nepalicus","Amolops","",DD,U,-11513776
-25,13,"spinapectoralis","Amolops","",DD,U,-11513776
-26,12,"jinjiangensis","Amolops","",VU,D,-11184866
-30,29,"wuyiensis","Amolops","",LC,D,-16731116
-31,29,"torrentis","Amolops","",VU,D,-11184866
-32,28,"marmoratus","Amolops","",LC,D,-16731116
-34,33,"cremnobatus","Amolops","",NT,D,-12486656
-35,33,"gerbillus","Amolops","",LC,S,-16731116
-38,37,"kangtingensis","Amolops","",VU,D,-11184866
-39,37,"bellulus","Amolops","",DD,U,-11513776
-40,36,"larutensis","Amolops","",LC,D,-16731116
-46,45,"monticola","Amolops","",LC,D,-16731116
-47,45,"formosus","Amolops","",LC,D,-16731116
-48,44,"jaunsari","Amolops","",DD,U,-11513776
-49,43,"lifanensis","Amolops","",NT,S,-12486656
-50,42,"ricketti","Amolops","",LC,D,-16731116
-53,52,"viridimaculatus","Amolops","",NT,D,-12486656
-54,52,"liangshanensis","Amolops","",DD,U,-11513776
-55,51,"hainanensis","Amolops","",EN,D,-8572416
-56,8,"medogensis","Amolops","",DD,U,-11513776
-59,58,"aniqiaoensis","Amolops","",DD,U,-11513776
-60,58,"mantzorum","Amolops","",LC,D,-16731116
-61,57,"longimanus","Amolops","",DD,U,-11513776
-63,62,"chakrataensis","Amolops","",DD,U,-11513776
-64,62,"chunganensis","Amolops","",LC,D,-16731116
-65,5,"tormota","Wurana","",NE,U,-16777216
-73,72,"bergeri","Pelophylax","Italian Pool Frog",LC,D,-16731116
-74,72,"plancyi","Pelophylax","",LC,D,-16731116
-75,71,"epeiroticus","Pelophylax","Epirus Water Frog",VU,D,-11184866
-78,77,"cerigensis","Pelophylax","Karpathos Frog",CR,D,-3014646
-79,77,"demarchii","Pelophylax","",DD,U,-11513776
-80,76,"lessonae","Pelophylax","Pool Frog",LC,D,-16731116
-82,81,"ridibundus","Pelophylax","Eurasian Marsh Frog",LC,I,-16731116
-83,81,"saharicus","Pelophylax","Sahara Frog",LC,S,-16731116
-84,68,"fukienensis","Pelophylax","",LC,D,-16731116
-87,86,"nigromaculatus","Pelophylax","Black-spotted Pond Frog",NT,D,-12486656
-88,86,"kurtmuelleri","Pelophylax","Balkan Water Frog",LC,S,-16731116
-89,85,"bedriagae","Pelophylax","Levantine Frog",LC,D,-16731116
-96,95,"nigrolineatus","Pelophylax","",NE,U,-16777216
-97,95,"terentievi","Pelophylax","",DD,U,-11513776
-98,94,"shqipericus","Pelophylax","Albanian Water Frog",EN,D,-8572416
-101,100,"tenggerensis","Pelophylax","",EN,D,-8572416
-102,100,"shuchinae","Pelophylax","",NE,U,-16777216
-103,99,"porosus","Pelophylax","Daruma Pond Frog",LC,D,-16731116
-104,92,"hubeiensis","Pelophylax","",LC,U,-16731116
-107,106,"perezi","Pelophylax","Perez's Frog",LC,S,-16731116
-108,106,"chosenicus","Pelophylax","",VU,D,-11184866
-109,105,"cretensis","Pelophylax","Cretan Frog",EN,D,-8572416
-110,90,"lateralis","Pelophylax","Kokarit Frog",LC,U,-16731116
-114,113,"rugosa","Glandirana","Japanese Wrinkled Frog",LC,S,-16731116
-115,113,"minima","Glandirana","",CR,D,-3014646
-116,112,"tientaiensis","Glandirana","",NT,D,-12486656
-117,111,"emeljanovi","Glandirana","",LC,D,-16731116
-123,122,"orphnocnemis","Meristogenys","",LC,D,-16731116
-124,122,"amoropalamus","Meristogenys","",VU,D,-11184866
-125,121,"jerboa","Meristogenys","",VU,S,-11184866
-127,126,"phaeomerus","Meristogenys","",NT,D,-12486656
-128,126,"poecilus","Meristogenys","",NT,D,-12486656
-131,130,"kinabaluensis","Meristogenys","Kiau Borneo Frog",NT,S,-12486656
-132,130,"whiteheadi","Meristogenys","",NT,D,-12486656
-133,129,"macrophthalmus","Meristogenys","",DD,U,-11513776
-134,118,"curtipes","Clinotarsus","",NT,D,-12486656
-148,147,"laterimaculata","Pulchrana","",NE,U,-16777216
-149,147,"glandulosa","Pulchrana","",NE,U,-16777216
-150,146,"aurantiaca","Sylvirana","",NE,U,-16777216
-151,145,"chitwanensis","Sylvirana","",NE,U,-16777216
-153,152,"latouchii","Sylvirana","",NE,U,-16777216
-154,152,"picturata","Pulchrana","",NE,U,-16777216
-155,143,"similis","Pulchrana","",NE,U,-16777216
-160,159,"celebensis","Sylvirana","",NE,U,-16777216
-161,159,"cubitalis","Sylvirana","",NE,U,-16777216
-162,158,"grandocula","Pulchrana","",NE,U,-16777216
-163,157,"scutigera","Sylvirana","",NE,U,-16777216
-165,164,"montivaga","Sylvirana","",NE,U,-16777216
-166,164,"baramica","Pulchrana","",NE,U,-16777216
-172,171,"margariana","Sylvirana","",NE,U,-16777216
-173,171,"signata","Pulchrana","",NE,U,-16777216
-175,174,"garoensis","Sylvirana","",NE,U,-16777216
-176,174,"kreffti","Sylvirana","",NE,U,-16777216
-177,169,"gracilis","Sylvirana","",NE,U,-16777216
-179,178,"melanomenta","Pulchrana","",NE,U,-16777216
-180,178,"siberu","Pulchrana","",NE,U,-16777216
-185,184,"moellendorffi","Pulchrana","",NE,U,-16777216
-186,184,"mortenseni","Sylvirana","",NE,U,-16777216
-187,183,"nigrovittata","Sylvirana","",NE,U,-16777216
-188,182,"supragrisea","Sylvirana","",NE,U,-16777216
-189,181,"daemeli","Sylvirana","",NE,U,-16777216
-192,191,"nigrotympanica","Sylvirana","",NE,U,-16777216
-193,191,"moluccana","Sylvirana","",NE,U,-16777216
-194,190,"elberti","Sylvirana","",NE,U,-16777216
-203,202,"leptoglossa","Sylvirana","",NE,U,-16777216
-204,202,"bannanica","Sylvirana","",NE,U,-16777216
-205,201,"attigua","Sylvirana","",NE,U,-16777216
-206,200,"papua","Sylvirana","",NE,U,-16777216
-207,199,"spinulosa","Sylvirana","",NE,U,-16777216
-208,198,"temporalis","Sylvirana","",NE,U,-16777216
-209,197,"volkerjane","Sylvirana","",NE,U,-16777216
-214,213,"maosonensis","Sylvirana","",NE,U,-16777216
-215,213,"banjarana","Pulchrana","",NE,U,-16777216
-216,212,"florensis","Sylvirana","",NE,U,-16777216
-218,217,"debussyi","Pulchrana","",NE,U,-16777216
-219,217,"garritor","Sylvirana","",NE,U,-16777216
-220,210,"arfaki","Sylvirana","",NE,U,-16777216
-221,195,"faber","Sylvirana","",NE,U,-16777216
-226,225,"novaeguineae","Sylvirana","",NE,U,-16777216
-227,225,"persimilis","Sylvirana","",NE,U,-16777216
-228,224,"luctuosa","Pulchrana","",NE,U,-16777216
-229,223,"milleti","Sylvirana","",NE,U,-16777216
-230,222,"mangyanum","Pulchrana","",NE,U,-16777216
-232,231,"aurata","Sylvirana","",NE,U,-16777216
-233,231,"grisea","Sylvirana","",NE,U,-16777216
-234,136,"jimiensis","Sylvirana","",NE,U,-16777216
-244,243,"albotuberculata","Hydrophylax","",NE,U,-16777216
-245,243,"fonensis","Hydrophylax","",NE,U,-16777216
-246,242,"lepus","Hydrophylax","",NE,U,-16777216
-247,241,"kampeni","Hydrophylax","",NE,U,-16777216
-250,249,"parkerianus","Hydrophylax","",NE,U,-16777216
-251,249,"macrops","Hydrophylax","",NE,U,-16777216
-252,248,"chalconotus","Hydrophylax","",NE,U,-16777216
-256,255,"luzonensis","Hydrophylax","",NE,U,-16777216
-257,255,"tipanan","Hydrophylax","",NE,U,-16777216
-258,254,"raniceps","Hydrophylax","",NE,U,-16777216
-260,259,"malabaricus","Hydrophylax","",NE,U,-16777216
-261,259,"lemairei","Hydrophylax","",NE,U,-16777216
-266,265,"galamensis","Hydrophylax","",NE,U,-16777216
-267,265,"darlingi","Hydrophylax","",NE,U,-16777216
-269,268,"albolabris","Hydrophylax","",NE,U,-16777216
-270,268,"amnicola","Hydrophylax","",NE,U,-16777216
-271,263,"longipes","Hydrophylax","",NE,U,-16777216
-272,262,"occidentalis","Hydrophylax","",NE,U,-16777216
-275,274,"asperrima","Hydrophylax","",NE,U,-16777216
-276,274,"igorota","Hydrophylax","",NE,U,-16777216
-277,273,"everetti","Hydrophylax","",NE,U,-16777216
-278,236,"crassiovis","Hydrophylax","",NE,U,-16777216
-279,235,"sanguinea","Sanguirana","",LC,S,-16731116
+9,8,"magnirostra","Sericornis","Large-billed Scrubwren",LC,U,-16731116
+10,8,"nouhuysi","Sericornis","Large Scrubwren",LC,U,-16731116
+11,7,"virgatus","Sericornis","Perplexing Scrubwren",LC,U,-16731116
+13,12,"frontalis","Sericornis","White-browed Scrubwren",LC,U,-16731116
+14,12,"keri","Sericornis","Atherton Scrubwren",LC,U,-16731116
+15,5,"spilodera","Sericornis","Pale-billed Scrubwren",LC,U,-16731116
+19,18,"perspicillatus","Sericornis","Buff-faced Scrubwren",LC,U,-16731116
+20,18,"papuensis","Sericornis","Papuan Scrubwren",LC,U,-16731116
+22,21,"beccarii","Sericornis","Beccari's Scrubwren",LC,U,-16731116
+23,21,"rufescens","Sericornis","Vogelkop Scrubwren",LC,U,-16731116
+24,16,"arfakianus","Sericornis","Grey-green Scrubwren",LC,U,-16731116
+26,25,"citreogularis","Sericornis","Yellow-throated Scrubwren",LC,U,-16731116
+27,25,"humilis","Sericornis","Tasmanian Scrubwren",LC,U,-16731116
+31,30,"nigrorufa","Crateroscelis","Bicoloured Mouse-warbler",LC,U,-16731116
+32,30,"murina","Crateroscelis","Rusty Mouse-warbler",LC,U,-16731116
+33,29,"robusta","Crateroscelis","Mountain Mouse-warbler",LC,U,-16731116
+34,28,"solitaria","Origma","Rockwarbler",LC,U,-16731116
+38,37,"fuliginosus","Calamanthus","Striated Fieldwren",LC,U,-16731116
+39,37,"campestris","Calamanthus","Rufous Fieldwren",LC,U,-16731116
+41,40,"pyrrhopygia","Hylacola","Chestnut-rumped Heathwren",LC,U,-16731116
+42,40,"cauta","Hylacola","Shy Heathwren",LC,U,-16731116
+45,44,"sagittatus","Chthonicola","Speckled Warbler",LC,U,-16731116
+46,44,"brunneus","Pyrrholaemus","Redthroat",LC,U,-16731116
+47,43,"floccosus","Pycnoptilus","Pilotbird",LC,U,-16731116
+48,0,"brevirostris","Smicrornis","Weebill",LC,U,-16731116

@@ -1,104 +1,55 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"spiniferus","Gephyromantis","",NT,D,-12486656
-14,12,"ambohitra","Gephyromantis","",VU,D,-11184866
-15,11,"moseri","Gephyromantis","",LC,D,-16731116
-18,17,"schilfi","Gephyromantis","",VU,U,-11184866
-19,17,"salegy","Gephyromantis","",VU,D,-11184866
-20,16,"tschenki","Gephyromantis","",DD,U,-11513776
-24,23,"granulatus","Gephyromantis","",LC,S,-16731116
-25,23,"tandroka","Gephyromantis","",VU,S,-11184866
-26,22,"plicifer","Gephyromantis","",NT,D,-12486656
-27,21,"sculpturatus","Gephyromantis","",LC,D,-16731116
-33,32,"zavona","Gephyromantis","",DD,U,-11513776
-34,32,"asper","Gephyromantis","",LC,D,-16731116
-35,31,"cornutus","Gephyromantis","",DD,U,-11513776
-36,30,"redimitus","Gephyromantis","",LC,D,-16731116
-37,29,"leucomaculatus","Gephyromantis","",NT,D,-12486656
-38,28,"luteus","Gephyromantis","",LC,D,-16731116
-45,44,"klemmeri","Gephyromantis","",VU,D,-11184866
-46,44,"decaryi","Gephyromantis","",NT,D,-12486656
-48,47,"blanci","Gephyromantis","",NT,D,-12486656
-49,47,"enki","Gephyromantis","",DD,U,-11513776
-50,42,"thelenae","Gephyromantis","",DD,U,-11513776
-52,51,"leucocephalus","Gephyromantis","",NT,S,-12486656
-53,51,"boulengeri","Gephyromantis","",LC,U,-16731116
-54,40,"eiselti","Gephyromantis","",DD,U,-11513776
-57,56,"rivicola","Gephyromantis","",VU,D,-11184866
-58,56,"silvanus","Gephyromantis","",EN,D,-8572416
-59,55,"webbi","Gephyromantis","",EN,D,-8572416
-64,63,"malagasius","Gephyromantis","",LC,D,-16731116
-65,63,"horridus","Gephyromantis","",EN,D,-8572416
-66,62,"ventrimaculatus","Gephyromantis","",LC,D,-16731116
-67,61,"striatus","Gephyromantis","",VU,D,-11184866
-69,68,"pseudoasper","Gephyromantis","",LC,S,-16731116
-70,68,"corvus","Gephyromantis","",EN,D,-8572416
-77,76,"biporus","Mantidactylus","",LC,D,-16731116
-78,76,"curtus","Mantidactylus","",LC,S,-16731116
-79,75,"ulcerosus","Mantidactylus","",LC,U,-16731116
-81,80,"betsileanus","Mantidactylus","",LC,S,-16731116
-82,80,"tricinctus","Mantidactylus","",DD,U,-11513776
-86,85,"madecassus","Mantidactylus","",EN,D,-8572416
-87,85,"pauliani","Mantidactylus","",CR,D,-3014646
-88,84,"ambohimitombi","Mantidactylus","",DD,D,-11513776
-89,83,"alutus","Mantidactylus","",LC,S,-16731116
-93,92,"charlotteae","Mantidactylus","",LC,D,-16731116
-94,92,"aerumnalis","Mantidactylus","",LC,D,-16731116
-96,95,"albofrenatus","Mantidactylus","",DD,U,-11513776
-97,95,"zipperi","Mantidactylus","",LC,D,-16731116
-100,99,"melanopleura","Mantidactylus","",LC,D,-16731116
-101,99,"opiparis","Mantidactylus","",LC,D,-16731116
-102,98,"brevipalmatus","Mantidactylus","",LC,U,-16731116
-107,106,"femoralis","Mantidactylus","",LC,U,-16731116
-108,106,"majori","Mantidactylus","",LC,D,-16731116
-109,105,"mocquardi","Mantidactylus","",LC,U,-16731116
-111,110,"ambreensis","Mantidactylus","",LC,D,-16731116
-112,110,"zolitschka","Mantidactylus","",DD,U,-11513776
-116,115,"grandidieri","Mantidactylus","",LC,D,-16731116
-117,115,"guttulatus","Mantidactylus","",LC,D,-16731116
-118,114,"lugubris","Mantidactylus","",LC,S,-16731116
-119,113,"argenteus","Mantidactylus","",LC,D,-16731116
-120,4,"microtympanum","Boehmantis","",EN,D,-8572416
-126,125,"massorum","Spinomantis","",NE,U,-16777216
-127,125,"peraccae","Spinomantis","",LC,D,-16731116
-128,124,"aglavei","Spinomantis","",LC,D,-16731116
-130,129,"bertini","Spinomantis","",NT,D,-12486656
-131,129,"brunae","Spinomantis","",EN,D,-8572416
-133,132,"phantasticus","Spinomantis","",LC,D,-16731116
-134,132,"fimbriatus","Spinomantis","",LC,D,-16731116
-136,135,"microtis","Spinomantis","",EN,D,-8572416
-137,135,"elegans","Spinomantis","",VU,D,-11184866
-144,143,"bicalcaratus","Guibemantis","",LC,D,-16731116
-145,143,"tornieri","Guibemantis","",LC,U,-16731116
-147,146,"flavobrunneus","Guibemantis","",LC,D,-16731116
-148,146,"pulcher","Guibemantis","",LC,D,-16731116
-150,149,"albolineatus","Guibemantis","",DD,U,-11513776
-151,149,"liber","Guibemantis","",LC,U,-16731116
-154,153,"depressiceps","Guibemantis","",LC,U,-16731116
-155,153,"timidus","Guibemantis","",LC,U,-16731116
-157,156,"kathrinae","Guibemantis","",DD,U,-11513776
-158,156,"punctatus","Guibemantis","",DD,U,-11513776
-162,161,"grandisonae","Blommersia","",LC,D,-16731116
-163,161,"domerguei","Blommersia","",LC,U,-16731116
-164,160,"sarotra","Blommersia","",DD,U,-11513776
-166,165,"wittei","Blommersia","",LC,S,-16731116
-167,165,"kely","Blommersia","",LC,U,-16731116
-168,138,"madinika","Wakea","",DD,U,-11513776
-175,174,"nigricans","Mantella","Guibe'S Mantella",LC,D,-16731116
-176,174,"cowanii","Mantella","Cowan's Mantella",CR,D,-3014646
-177,173,"haraldmeieri","Mantella","Haraldmeier's Mantella",VU,D,-11184866
-178,172,"baroni","Mantella","Baron's Mantella",LC,U,-16731116
-180,179,"bernhardi","Mantella","Bernhard's Mantella",EN,D,-8572416
-181,179,"laevigata","Mantella","Climbing Mantella",NT,D,-12486656
-185,184,"expectata","Mantella","Blue-legged Mantella",EN,D,-8572416
-186,184,"betsileo","Mantella","Brown Mantella",LC,S,-16731116
-187,183,"manery","Mantella","Marojejy Mantella",VU,U,-11184866
-188,182,"viridis","Mantella","Green Mantella",EN,D,-8572416
-193,192,"milotympanum","Mantella","Black-eared Mantella",CR,D,-3014646
-194,192,"crocea","Mantella","Yellow Mantella",EN,D,-8572416
-195,191,"aurantiaca","Mantella","Golden Mantella",CR,D,-3014646
-196,190,"pulchra","Mantella","Beautiful Mantella",VU,D,-11184866
-197,189,"madagascariensis","Mantella","Madagascan Mantella",VU,D,-11184866
-201,200,"madagascariensis","Aglyptodactylus","",LC,D,-16731116
-202,200,"securifer","Aglyptodactylus","",LC,D,-16731116
-203,199,"laticeps","Aglyptodactylus","",EN,D,-8572416
-204,198,"labrosum","Laliostoma","",LC,S,-16731116
+13,12,"lamellipennis","Xipholena","White-tailed Cotinga",LC,U,-16731116
+14,12,"atropurpurea","Xipholena","White-winged Cotinga",EN,U,-8572416
+15,11,"punicea","Xipholena","Pompadour Cotinga",LC,U,-16731116
+18,17,"hopkei","Carpodectes","Black-tipped Cotinga",LC,U,-16731116
+19,17,"nitidus","Carpodectes","Snowy Cotinga",LC,U,-16731116
+20,16,"antoniae","Carpodectes","Yellow-billed Cotinga",EN,U,-8572416
+22,21,"mcilhennyi","Conioptilon","Black-faced Cotinga",LC,U,-16731116
+23,21,"foetidus","Gymnoderus","Bare-necked Fruitcrow",LC,U,-16731116
+24,8,"porphyrolaema","Porphyrolaema","Purple-throated Cotinga",LC,U,-16731116
+28,27,"tricarunculatus","Procnias","Three-wattled Bellbird",VU,U,-11184866
+29,27,"albus","Procnias","White Bellbird",LC,U,-16731116
+30,26,"averano","Procnias","Bearded Bellbird",LC,U,-16731116
+31,25,"nudicollis","Procnias","Bare-throated Bellbird",VU,U,-11184866
+38,37,"uropygialis","Lipaugus","Scimitar-winged Piha",VU,U,-11184866
+39,37,"fuscocinereus","Lipaugus","Dusky Piha",LC,U,-16731116
+40,36,"streptophorus","Lipaugus","Rose-collared Piha",LC,U,-16731116
+41,35,"weberi","Lipaugus","Chestnut-capped Piha",EN,U,-8572416
+43,42,"lanioides","Lipaugus","Cinnamon-vented Piha",NT,U,-12486656
+44,42,"vociferans","Lipaugus","Screaming Piha",LC,U,-16731116
+45,33,"unirufus","Lipaugus","Rufous Piha",LC,U,-16731116
+47,46,"condita","Tijuca","Grey-winged Cotinga",VU,U,-11184866
+48,46,"atra","Tijuca","Black-and-gold Cotinga",NT,U,-12486656
+55,54,"maynana","Cotinga","Plum-throated Cotinga",LC,U,-16731116
+56,54,"cayana","Cotinga","Spangled Cotinga",LC,U,-16731116
+57,53,"nattererii","Cotinga","Blue Cotinga",LC,U,-16731116
+58,52,"cotinga","Cotinga","Purple-breasted Cotinga",LC,U,-16731116
+59,51,"maculata","Cotinga","Banded Cotinga",EN,U,-8572416
+60,50,"ridgwayi","Cotinga","Turquoise Cotinga",VU,U,-11184866
+61,49,"amabilis","Cotinga","Lovely Cotinga",LC,U,-16731116
+69,68,"penduliger","Cephalopterus","Long-wattled Umbrellabird",VU,U,-11184866
+70,68,"ornatus","Cephalopterus","Amazonian Umbrellabird",LC,U,-16731116
+71,67,"glabricollis","Cephalopterus","Bare-necked Umbrellabird",VU,U,-11184866
+72,66,"tricolor","Perissocephalus","Capuchinbird",LC,U,-16731116
+73,65,"scutatus","Pyroderus","Red-ruffed Fruitcrow",LC,U,-16731116
+74,64,"purpurata","Querula","Purple-throated Fruitcrow",LC,U,-16731116
+75,63,"flavirostris","Phibalura","Swallow-tailed Cotinga",NT,U,-12486656
+76,62,"militaris","Haematoderus","Crimson Fruitcrow",LC,U,-16731116
+77,3,"cristata","Calyptura","Kinglet Calyptura",CR,U,-3014646
+79,78,"cryptolophus","Snowornis","Olivaceous Piha",LC,U,-16731116
+80,78,"subalaris","Snowornis","Grey-tailed Piha",LC,U,-16731116
+84,83,"nigricollis","Phoenicircus","Black-necked Red-cotinga",LC,U,-16731116
+85,83,"carnifex","Phoenicircus","Guianan Red-cotinga",LC,U,-16731116
+87,86,"peruvianus","Rupicola","Andean Cock-of-the-rock",LC,U,-16731116
+88,86,"rupicola","Rupicola","Guianan Cock-of-the-rock",LC,U,-16731116
+90,89,"melanocephala","Carpornis","Black-headed Berryeater",VU,U,-11184866
+91,89,"cucullata","Carpornis","Hooded Berryeater",NT,U,-12486656
+96,95,"rubrocristatus","Ampelion","Red-crested Cotinga",LC,U,-16731116
+97,95,"rufaxilla","Ampelion","Chestnut-crested Cotinga",LC,U,-16731116
+99,98,"remseni","Doliornis","Chestnut-bellied Cotinga",VU,U,-11184866
+100,98,"sclateri","Doliornis","Bay-vented Cotinga",VU,U,-11184866
+103,102,"rutila","Phytotoma","White-tipped Plantcutter",LC,U,-16731116
+104,102,"raimondii","Phytotoma","Peruvian Plantcutter",EN,U,-8572416
+105,101,"rara","Phytotoma","Rufous-tailed Plantcutter",LC,U,-16731116
+106,92,"stresemanni","Zaratornis","White-cheeked Cotinga",VU,U,-11184866

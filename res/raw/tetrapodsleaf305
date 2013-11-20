@@ -1,0 +1,46 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"paulensis","Marmosops","Brazilian Slender Opossum",LC,U,-16731116
+11,9,"incanus","Marmosops","Gray Slender Mouse Opossum",LC,U,-16731116
+12,8,"handleyi","Marmosops","Handley's Slender Mouse Opossum",CR,D,-3014646
+14,13,"impavidus","Marmosops","Andean Slender Mouse Opossum",LC,S,-16731116
+15,13,"neblina","Marmosops","",LC,S,-16731116
+16,6,"cracens","Marmosops","Slim-faced Slender Mouse Opossum",DD,U,-11513776
+17,5,"noctivagus","Marmosops","White-bellied Slender Mouse Opossum",LC,S,-16731116
+22,21,"pinheiroi","Marmosops","Pinheiro's Slender Opossum",LC,U,-16731116
+23,21,"bishopi","Marmosops","",LC,U,-16731116
+24,20,"parvidens","Marmosops","Delicate Slender Mouse Opossum",LC,U,-16731116
+25,19,"juninensis","Marmosops","",VU,D,-11184866
+26,18,"fuscatus","Marmosops","Gray-bellied Slender Mouse Opossum",DD,D,-11513776
+28,27,"invictus","Marmosops","Slaty Slender Mouse Opossum",LC,S,-16731116
+29,27,"dorothea","Marmosops","",NE,U,-16777216
+35,34,"agilis","Gracilinanus","Agile Gracile Mouse Opossum",LC,U,-16731116
+36,34,"formosus","Gracilinanus","",NE,U,-16777216
+37,33,"microtarsus","Gracilinanus","Brazilian Gracile Mouse Opossum",LC,U,-16731116
+38,32,"aceramarcae","Gracilinanus","Aceramarca Gracile Mouse Opossum",LC,U,-16731116
+41,40,"emiliae","Gracilinanus","Emilia's Gracile Mouse Opossum",DD,U,-11513776
+42,40,"agricolai","Gracilinanus","",NE,U,-16777216
+43,39,"marica","Gracilinanus","Northern Gracile Mouse Opossum",LC,D,-16731116
+44,30,"dryas","Gracilinanus","Wood Sprite Gracile Mouse Opossum",NT,D,-12486656
+51,50,"cinderella","Thylamys","Cinderella Fat-tailed Mouse Opossum",LC,U,-16731116
+52,50,"sponsorius","Thylamys","",LC,U,-16731116
+53,49,"elegans","Thylamys","Elegant Fat-tailed Mouse Opossum",LC,D,-16731116
+55,54,"venustus","Thylamys","Buff-bellied Fat-tailed Mouse Opossum",DD,U,-11513776
+56,54,"tatei","Thylamys","",DD,U,-11513776
+57,47,"pallidior","Thylamys","Pallid Fat-tailed Opossum",LC,U,-16731116
+60,59,"karimii","Thylamys","Karimi's Fat-tailed Mouse Opossum",VU,D,-11184866
+61,59,"pusillus","Thylamys","Common Fat-tailed Mouse Opossum",LC,D,-16731116
+62,58,"macrurus","Thylamys","Long-tailed Fat-tailed Opossum",NT,D,-12486656
+63,45,"halli","Lestodelphys","Patagonian Opossum",LC,D,-16731116
+72,71,"imperfecta","Didelphis","Guianan White-eared Opossum",LC,S,-16731116
+73,71,"pernigra","Didelphis","",LC,S,-16731116
+74,70,"albiventris","Didelphis","White-eared Opossum",LC,S,-16731116
+76,75,"marsupialis","Didelphis","Black-eared Opossum",LC,S,-16731116
+77,75,"aurita","Didelphis","Big-eared Opossum",LC,S,-16731116
+78,68,"virginiana","Didelphis","Virginia Opossum",LC,I,-16731116
+81,80,"mcilhennyi","Philander","Mcilhenny's Four-eyed Opossum",LC,U,-16731116
+82,80,"andersoni","Philander","Anderson's Four-eyed Opossum",LC,S,-16731116
+84,83,"frenatus","Philander","Southeastern Four-eyed Opossum",LC,U,-16731116
+85,83,"opossum","Philander","Gray Four-eyed Opossum",LC,S,-16731116
+86,66,"crassicaudata","Lutreolina","Little Water Opossum",LC,U,-16731116
+87,65,"minimus","Chironectes","Water Opossum",LC,D,-16731116
+88,64,"nudicaudatus","Metachirus","Brown Four-eyed Opossum",LC,S,-16731116

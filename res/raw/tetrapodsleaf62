@@ -1,156 +1,85 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"plumbeus","Nilopegamys","Ethiopian Amphibious Rat",CR,U,-3014646
-8,6,"goslingi","Colomys","African Wading Rat",LC,S,-16731116
-9,5,"ellioti","Golunda","Indian Bush-rat",LC,S,-16731116
-11,10,"armandvillei","Papagomys","Armandville's Papagomys",NT,D,-12486656
-12,10,"rintjanus","Komodomys","Nusa Tenggara Komodomys",VU,S,-11184866
-25,24,"barbarus","Lemniscomys","Barbary Lemniscomys",LC,S,-16731116
-26,24,"zebra","Lemniscomys","Heuglin's Lemniscomys",LC,S,-16731116
-27,23,"bellieri","Lemniscomys","Bellier's Lemniscomys",LC,S,-16731116
-29,28,"roseveari","Lemniscomys","Rosevear's Lemniscomys",DD,U,-11513776
-30,28,"macculus","Lemniscomys","Buffoon Lemniscomys",LC,S,-16731116
-32,31,"mittendorfi","Lemniscomys","Mittendorf's Lemniscomys",VU,S,-11184866
-33,31,"rosalia","Lemniscomys","Single-striped Grass Mouse",LC,S,-16731116
-34,20,"linulus","Lemniscomys","Senegal Lemniscomys",LC,U,-16731116
-37,36,"hoogstraali","Lemniscomys","Hoogstraal's Lemniscomys",DD,U,-11513776
-38,36,"striatus","Lemniscomys","Typical Lemniscomys",LC,I,-16731116
-39,35,"griselda","Lemniscomys","Griselda's Lemniscomys",LC,S,-16731116
-42,41,"parvus","Pithecheir","Malay Peninsula Pithecheir",DD,U,-11513776
-43,41,"melanurus","Pithecheir","Javan Pithecheir",VU,D,-11184866
-44,40,"ohiensis","Srilankamys","Ohiya Rat",VU,D,-11184866
-50,49,"arrogans","Rattus","Western New Guinea Mountain Rat",LC,S,-16731116
-51,49,"pococki","Rattus","Pocock's Highland Rat",LC,U,-16731116
-53,52,"niobe","Rattus","Moss-forest Rat",LC,S,-16731116
-54,52,"arfakiensis","Rattus","",NE,U,-16777216
-56,55,"omichlodes","Rattus","Arianus's Rat",DD,U,-11513776
-57,55,"richardsoni","Rattus","Glacier Rat",VU,D,-11184866
-60,59,"vandeuseni","Rattus","Van Deusen's Rat",EN,D,-8572416
-61,59,"verecundus","Rattus","Slender Rat",LC,S,-16731116
-62,58,"ceramicus","Nesoromys","Seram Island Mountain Rat",EN,D,-8572416
-64,63,"imberbis","Muriculus","Ethiopian Striped Mouse",LC,D,-16731116
-65,63,"millardi","Dacnomys","Millard's Rat",DD,U,-11513776
-67,66,"canus","Eropeplus","Sulawesi Soft-furred Rat",VU,D,-11184866
-68,66,"meyeri","Lenomys","Meyer's Lenomys",LC,D,-16731116
-74,73,"fratrorum","Bunomys","Northeastern Peninsula Bunomys",VU,D,-11184866
-75,73,"prolatus","Bunomys","Tambusisi Bunomys",EN,D,-8572416
-77,76,"chrysocomus","Bunomys","Common Bunomys",LC,S,-16731116
-78,76,"andrewsi","Bunomys","Andrew's Bunomys",LC,U,-16731116
-79,71,"coelestis","Bunomys","Lampobatang Bunomys",CR,D,-3014646
-80,70,"penitus","Bunomys","Montane Bunomys",NT,D,-12486656
-81,69,"fulva","Vernaya","Vernay's Climbing Mouse",LC,U,-16731116
-94,93,"speciosus","Apodemus","Large Japanese Field Mouse",LC,S,-16731116
-95,93,"latronum","Apodemus","Large-eared Field Mouse",LC,U,-16731116
-96,92,"draco","Apodemus","South China Field Mouse",LC,S,-16731116
-98,97,"argenteus","Apodemus","Small Japanese Field Mouse",LC,S,-16731116
-99,97,"gurkha","Apodemus","Himalayan Wood Mouse",EN,D,-8572416
-101,100,"peninsulae","Apodemus","Korean Field Mouse",LC,S,-16731116
-102,100,"semotus","Apodemus","Taiwan Field Mouse",LC,U,-16731116
-104,103,"chevrieri","Apodemus","Chevrier's Field Mouse",LC,U,-16731116
-105,103,"agrarius","Apodemus","Striped Field Mouse",LC,S,-16731116
-111,110,"sylvaticus","Apodemus","Long-tailed Field Mouse",LC,S,-16731116
-112,110,"alpicola","Apodemus","Alpine Field Mouse",LC,U,-16731116
-113,109,"rusiges","Apodemus","Kashmir Field Mouse",LC,U,-16731116
-114,108,"flavicollis","Apodemus","Yellow-necked Field Mouse",LC,S,-16731116
-115,107,"hyrcanicus","Apodemus","Hyrcanian Field Mouse",NT,D,-12486656
-119,118,"pallipes","Apodemus","Himalayan Field Mouse",LC,U,-16731116
-120,118,"witherbyi","Apodemus","Steppe Field Mouse",LC,U,-16731116
-121,117,"uralensis","Apodemus","Herb Field Mouse",LC,S,-16731116
-122,116,"ponticus","Apodemus","Black Sea Field Mouse",LC,U,-16731116
-124,123,"epimelas","Apodemus","Western Broad-toothed Field Mouse",LC,S,-16731116
-125,123,"mystacinus","Apodemus","Broad-toothed Field Mouse",LC,S,-16731116
-127,126,"muenninki","Tokudaia","Okinawa Spiny Rat",CR,D,-3014646
-128,126,"osimensis","Tokudaia","Amami Spiny Rat",EN,D,-8572416
-134,133,"niloticus","Arvicanthis","African Grass Rat",LC,U,-16731116
-135,133,"rufinus","Arvicanthis","Guinean Arvicanthis",LC,U,-16731116
-136,132,"ansorgei","Arvicanthis","Sudanian Arvicanthis",LC,U,-16731116
-137,131,"neumanni","Arvicanthis","Somali Grass Rat",LC,U,-16731116
-139,138,"nairobae","Arvicanthis","Nairobi Grass Rat",LC,S,-16731116
-140,138,"blicki","Arvicanthis","Blick's Grass Rat",NT,U,-12486656
-141,129,"abyssinicus","Arvicanthis","Abyssinian Grass Rat",LC,S,-16731116
-145,144,"mackenziei","Berylmys","Kenneth's White-toothed Rat",DD,U,-11513776
-146,144,"manipulus","Berylmys","Manipur White-toothed Rat",DD,U,-11513776
-147,143,"berdmorei","Berylmys","Berdmore's Berylmy",LC,S,-16731116
-148,142,"bowersi","Berylmys","Bower's White-toothed Rat",LC,D,-16731116
-154,153,"bengalensis","Bandicota","Lesser Bandicoot Rat",LC,I,-16731116
-155,153,"indica","Bandicota","Greater Bandicoot Rat",LC,I,-16731116
-156,152,"savilei","Bandicota","Savile's Bandicoot Rat",LC,S,-16731116
-157,151,"sodyi","Kadarsanomys","Javan Bamboo Rat",VU,D,-11184866
-159,158,"pallidus","Phloeomys","Northern Luzon Phloeomys",LC,S,-16731116
-160,158,"cumingi","Phloeomys","Southern Luzon Phloeomys",VU,D,-11184866
-161,149,"mindorensis","Anonymomys","Mindoro Forest Anonymomys",DD,U,-11513776
-169,168,"erythroleucus","Mastomys","Guinea Multimammate Mouse",LC,S,-16731116
-170,168,"shortridgei","Mastomys","Shortridge's Mastomys",LC,S,-16731116
-171,167,"kollmannspergeri","Mastomys","Kollmannsperger's Mastomys",LC,S,-16731116
-172,166,"angolensis","Myomyscus","Angolan Multimammate Mouse",LC,S,-16731116
-175,174,"huberti","Mastomys","Hubert's Mastomys",LC,I,-16731116
-176,174,"pernanus","Mastomys","Dwarf Mastomys",DD,U,-11513776
-177,173,"coucha","Mastomys","Southern African Mastomys",LC,S,-16731116
-178,164,"natalensis","Mastomys","Natal Mastomys",LC,S,-16731116
-183,182,"carillus","Hylomyscus","Angolan Hylomyscus",LC,U,-16731116
-184,182,"stella","Hylomyscus","Stella Hylomyscus",LC,S,-16731116
-186,185,"grandis","Hylomyscus","Mt Oku Hylomyscus",CR,D,-3014646
-187,185,"aeta","Hylomyscus","Beaded Hylomyscus",LC,S,-16731116
-190,189,"alleni","Hylomyscus","Allen's Hylomyscus",LC,S,-16731116
-191,189,"baeri","Hylomyscus","Baer's Hylomyscus",EN,D,-8572416
-192,188,"denniae","Hylomyscus","Montane Hylomyscus",LC,S,-16731116
-193,179,"parvus","Hylomyscus","Lesser Hylomyscus",LC,S,-16731116
-195,194,"pumilio","Rhabdomys","Four-striped Grass Mouse",LC,S,-16731116
-196,194,"dilectus","Rhabdomys","",NE,U,-16777216
-208,207,"lunaris","Hybomys","Moon Striped Mouse",VU,S,-11184866
-209,207,"basilii","Hybomys","Bioko Hybomys",EN,U,-8572416
-210,206,"trivirgatus","Hybomys","Temminck's Striped Mouse",LC,S,-16731116
-211,205,"badius","Hybomys","Cameroon Highland Hybomys",EN,D,-8572416
-213,212,"planifrons","Hybomys","Liberian Forest Hybomys",LC,S,-16731116
-214,212,"univittatus","Hybomys","Peters' Hybomys",LC,S,-16731116
-216,215,"defua","Dephomys","Defua Rat",LC,U,-16731116
-217,215,"eburneae","Dephomys","",NE,U,-16777216
-222,221,"neobritannicus","Hydromys","New Britain Water Rat",DD,U,-11513776
-223,221,"habbema","Hydromys","",NE,U,-16777216
-224,220,"chrysogaster","Hydromys","Common Water Rat",LC,U,-16731116
-226,225,"hussoni","Hydromys","Western Water Rat",DD,U,-11513776
-227,225,"shawmayeri","Hydromys","",NE,U,-16777216
-228,218,"myoides","Xeromys","False Water Rat",VU,D,-11184866
-233,232,"bagobus","Bullimus","Mindanao Bullimus",LC,S,-16731116
-234,232,"luzonicus","Bullimus","Luzon Bullimus",LC,U,-16731116
-236,235,"echinatus","Tarsomys","Spiny Tarsomys",VU,D,-11184866
-237,235,"apoensis","Tarsomys","Dusky Tarsomys",LC,S,-16731116
-238,230,"adustus","Tryphomys","Luzon Tryphomys",DD,U,-11513776
-240,239,"latidens","Abditomys","Luzon Broad-toothed Rat",DD,U,-11513776
-241,239,"sibuanus","Limnomys","White-bellied Limnomys",LC,S,-16731116
-246,245,"macrocercus","Tateomys","Long-tailed Sulawesian Shrew Rat",DD,U,-11513776
-247,245,"rhinogradoides","Tateomys","Tate's Sulawesian Shrew Rat",DD,S,-11513776
-248,244,"naso","Melasmothrix","Diurnal Sulawesian Shrew Rat",DD,U,-11513776
-251,250,"beccarii","Margaretamys","Spiny Lowland Margaretamys",VU,D,-11184866
-252,250,"elegans","Margaretamys","Elegant Margaretamys",NT,D,-12486656
-253,249,"parvus","Margaretamys","Lesser Margaretamys",DD,U,-11513776
-255,254,"leucura","Echiothrix","Northern Sulawesi Echiothrix",EN,D,-8572416
-256,254,"centrosa","Echiothrix","Central Sulawesi Echiothrix",VU,D,-11184866
-264,263,"macmillani","Grammomys","Macmillan's Thicket Rat",LC,U,-16731116
-265,263,"cometes","Grammomys","Mozambique Thicket Rat",LC,U,-16731116
-266,262,"gigas","Grammomys","Giant Thicket Rat",EN,D,-8572416
-268,267,"caniceps","Grammomys","Gray-headed Thicket Rat",DD,U,-11513776
-269,267,"minnae","Grammomys","Ethiopian Thicket Rat",VU,D,-11184866
-273,272,"aridulus","Grammomys","Arid Thicket Rat",DD,U,-11513776
-274,272,"dryas","Grammomys","Forest Thicket Rat",NT,D,-12486656
-275,271,"buntingi","Grammomys","Bunting's Grammomys",DD,U,-11513776
-277,276,"dolichurus","Grammomys","Woodland Thicket Rat",LC,U,-16731116
-278,276,"ibeanus","Grammomys","Ruwenzori Thicket Rat",LC,U,-16731116
-280,279,"kuru","Grammomys","Eastern Rainforest Grammomys",LC,U,-16731116
-281,279,"poensis","Grammomys","",NE,U,-16777216
-285,284,"nigricauda","Thallomys","Black-tailed Tree Rat",LC,U,-16731116
-286,284,"shortridgei","Thallomys","Shortridge's Rat",DD,U,-11513776
-287,283,"paedulcus","Thallomys","Acacia Rat",LC,U,-16731116
-288,282,"loringi","Thallomys","Loring's Rat",LC,U,-16731116
-290,289,"hildegardeae","Zelotomys","Hildegarde's Broad-headed Mouse",LC,S,-16731116
-291,289,"woosnami","Zelotomys","Woosnam's Broad-headed Mouse",LC,S,-16731116
-297,296,"kempi","Thamnomys","Kemp's Thicket Rat",VU,U,-11184866
-298,296,"major","Thamnomys","",NE,U,-16777216
-299,295,"venustus","Thamnomys","Charming Thicket Rat",VU,D,-11184866
-301,300,"ornatus","Oenomys","Ghana Rufous-nosed Rat",LC,U,-16731116
-302,300,"hypoxanthus","Oenomys","Rufous-nosed Rats",LC,S,-16731116
-303,293,"okuensis","Lamottemys","Mount Oku Rat",EN,D,-8572416
-304,292,"longicaudatus","Stochomys","Target Rat",LC,U,-16731116
-308,307,"infraluteus","Sundamys","Mountain Sundamys",LC,U,-16731116
-309,307,"maxi","Sundamys","Javan Sundamys",EN,D,-8572416
-310,306,"muelleri","Sundamys","Muller's Sundamys",LC,D,-16731116
-311,305,"canus","Lenothrix","Sundaic Lenothrix",LC,U,-16731116
+11,10,"gigantea","Melampitta","Greater Melampitta",LC,U,-16731116
+12,10,"lugubris","Melampitta","Lesser Melampitta",LC,U,-16731116
+19,18,"chalybatus","Manucodia","Crinkle-collared Manucode",LC,U,-16731116
+20,18,"comrii","Manucodia","Curl-crested Manucode",LC,U,-16731116
+21,17,"ater","Manucodia","Glossy-mantled Manucode",LC,U,-16731116
+22,16,"jobiensis","Manucodia","Jobi Manucode",LC,U,-16731116
+23,15,"keraudrenii","Manucodia","Trumpet Manucode",LC,U,-16731116
+24,14,"pyrrhopterus","Lycocorax","Paradise-crow",LC,U,-16731116
+27,26,"melanorhamphos","Corcorax","White-winged Chough",LC,U,-16731116
+28,26,"cinerea","Struthidea","Apostlebird",LC,U,-16731116
+37,36,"internigrans","Perisoreus","Sichuan Jay",VU,U,-11184866
+38,36,"infaustus","Perisoreus","Siberian Jay",LC,U,-16731116
+39,35,"canadensis","Perisoreus","Grey Jay",LC,U,-16731116
+40,34,"cyanus","Cyanopica","Azure-winged Magpie",LC,U,-16731116
+46,45,"flavirostris","Urocissa","Gold-billed Magpie",LC,U,-16731116
+47,45,"caerulea","Urocissa","Taiwan Magpie",LC,U,-16731116
+48,44,"ornata","Urocissa","Sri Lanka Magpie",VU,U,-11184866
+49,43,"whiteheadi","Urocissa","White-winged Magpie",LC,U,-16731116
+50,42,"erythrorhyncha","Urocissa","Blue Magpie",LC,U,-16731116
+53,52,"hypoleuca","Cissa","Yellow-breasted Magpie",LC,U,-16731116
+54,52,"thalassina","Cissa","Short-tailed Magpie",LC,U,-16731116
+55,51,"chinensis","Cissa","Green Magpie",LC,U,-16731116
+63,62,"occipitalis","Dendrocitta","Sunda Treepie",LC,U,-16731116
+64,62,"vagabunda","Dendrocitta","Rufous Treepie",LC,U,-16731116
+65,61,"bayleyi","Dendrocitta","Andaman Treepie",NT,U,-12486656
+66,60,"frontalis","Dendrocitta","Collared Treepie",LC,U,-16731116
+67,59,"leucogastra","Dendrocitta","White-bellied Treepie",LC,U,-16731116
+68,58,"formosae","Dendrocitta","Grey Treepie",LC,U,-16731116
+71,70,"temnurus","Temnurus","Ratchet-tailed Treepie",LC,U,-16731116
+72,70,"leucopterus","Platysmurus","Black Magpie",NT,U,-12486656
+74,73,"temia","Crypsirina","Racket-tailed Treepie",LC,U,-16731116
+75,73,"cucullata","Crypsirina","Hooded Treepie",NT,U,-12486656
+77,76,"pyrrhocorax","Pyrrhocorax","Red-billed Chough",LC,U,-16731116
+78,76,"graculus","Pyrrhocorax","Yellow-billed Chough",LC,U,-16731116
+82,81,"anguitimens","Eurocephalus","White-crowned Shrike",LC,U,-16731116
+83,81,"rueppelli","Eurocephalus","White-rumped Shrike",LC,U,-16731116
+84,80,"galericulatus","Platylophus","Crested Jay",NT,U,-12486656
+85,29,"kowaldi","Ifrita","Ifrit",LC,U,-16731116
+87,86,"aeneus","Dicrurus","Bronzed Drongo",LC,U,-16731116
+91,90,"kirhocephalus","Pitohui","Variable Pitohui",LC,U,-16731116
+92,90,"dichrous","Pitohui","Hooded Pitohui",LC,U,-16731116
+94,93,"montium","Paramythia","Crested Berrypecker",LC,U,-16731116
+95,93,"arfaki","Oreocharis","Tit Berrypecker",LC,U,-16731116
+100,99,"aenobarbus","Pteruthius","Chestnut-fronted Shrike-babbler",LC,U,-16731116
+101,99,"melanotis","Pteruthius","Black-eared Shrike-babbler",LC,U,-16731116
+103,102,"flaviscapis","Pteruthius","White-browed Shrike-babbler",LC,U,-16731116
+104,102,"rufiventer","Pteruthius","Black-headed Shrike-babbler",LC,U,-16731116
+105,97,"xanthochlorus","Pteruthius","Green Shrike-babbler",LC,U,-16731116
+108,107,"chrysoptera","Daphoenositta","Varied Sittella",LC,U,-16731116
+109,107,"miranda","Daphoenositta","Black Sittella",LC,U,-16731116
+118,117,"castaneothorax","Cinclosoma","Chestnut-breasted Quail-thrush",LC,U,-16731116
+119,117,"punctatum","Cinclosoma","Spotted Quail-thrush",LC,U,-16731116
+121,120,"cinnamomeum","Cinclosoma","Cinnamon Quail-thrush",LC,U,-16731116
+122,120,"castanotum","Cinclosoma","Chestnut Quail-thrush",LC,U,-16731116
+123,115,"ajax","Cinclosoma","Painted Quail-thrush",LC,U,-16731116
+126,125,"castanonota","Ptilorrhoa","Chestnut-backed Jewel-babbler",LC,U,-16731116
+127,125,"caerulescens","Ptilorrhoa","Blue Jewel-babbler",LC,U,-16731116
+128,124,"leucosticta","Ptilorrhoa","Spotted Jewel-babbler",LC,U,-16731116
+131,130,"ochrocephala","Mohoua","Yellowhead",EN,U,-8572416
+132,130,"albicilla","Mohoua","Whitehead",LC,U,-16731116
+133,129,"novaeseelandiae","Mohoua","Pipipi",LC,U,-16731116
+135,134,"nigropectus","Eulacestoma","Wattled Ploughbill",LC,U,-16731116
+136,134,"viridis","Androphobus","Papuan Whipbird",DD,U,-11513776
+140,139,"occidentalis","Psophodes","Chiming Wedgebill",LC,U,-16731116
+141,139,"nigrogularis","Psophodes","Western Whipbird",NT,U,-12486656
+143,142,"cristatus","Psophodes","Chirruping Wedgebill",LC,U,-16731116
+144,142,"olivaceus","Psophodes","Eastern Whipbird",LC,U,-16731116
+145,137,"frontatus","Falcunculus","Crested Shrike-tit",LC,U,-16731116
+151,150,"longicauda","Melanocharis","Lemon-breasted Berrypecker",LC,U,-16731116
+152,150,"striativentris","Melanocharis","Streaked Berrypecker",LC,U,-16731116
+154,153,"versteri","Melanocharis","Fan-tailed Berrypecker",LC,U,-16731116
+155,153,"nigra","Melanocharis","Black Berrypecker",LC,U,-16731116
+157,156,"crassirostris","Melanocharis","Spotted Berrypecker",LC,U,-16731116
+158,156,"arfakiana","Melanocharis","Obscure Berrypecker",DD,U,-11513776
+162,161,"novaeguineae","Toxorhamphus","Green-crowned Longbill",LC,U,-16731116
+163,161,"poliopterus","Toxorhamphus","Grey-winged Longbill",LC,U,-16731116
+164,160,"iliolophus","Toxorhamphus","Plumed Longbill",LC,U,-16731116
+165,159,"pygmaeum","Oedistoma","Pygmy Longbill",LC,U,-16731116
+169,168,"sericea","Loboparadisea","Yellow-breasted Bird-of-paradise",NT,U,-12486656
+170,168,"loriae","Cnemophilus","Loria's Bird-of-paradise",LC,U,-16731116
+171,167,"macgregorii","Cnemophilus","Crested Bird-of-paradise",LC,U,-16731116
+174,173,"carunculatus","Philesturnus","Saddleback",NT,U,-12486656
+175,173,"cinereus","Callaeas","Kokako",EN,U,-8572416
+176,172,"cincta","Notiomystis","Stitchbird",VU,U,-11184866

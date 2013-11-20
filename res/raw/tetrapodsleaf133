@@ -1,184 +1,52 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"leche","Kobus","Southern Lechwe",LC,S,-16731116
-13,11,"megaceros","Kobus","Nile Lechwe",EN,D,-8572416
-14,10,"ellipsiprymnus","Kobus","Waterbuck",LC,D,-16731116
-16,15,"vardonii","Kobus","Puku",NT,D,-12486656
-17,15,"kob","Kobus","Kob",LC,D,-16731116
-20,19,"arundinum","Redunca","Southern Reedbuck",LC,S,-16731116
-21,19,"redunca","Redunca","Bohor Reedbuck",LC,D,-16731116
-22,18,"fulvorufula","Redunca","Mountain Reedbuck",LC,S,-16731116
-23,7,"capreolus","Pelea","Grey Rhebok",LC,S,-16731116
-26,25,"guentheri","Madoqua","Guenther's Dik-dik",LC,S,-16731116
-27,25,"piacentinii","Madoqua","Silver Dik-dik",DD,D,-11513776
-28,24,"pygmaeus","Neotragus","Royal Antelope",LC,D,-16731116
-37,36,"spekii","Tragelaphus","Sitatunga",LC,D,-16731116
-38,36,"eurycerus","Tragelaphus","Bongo",NT,D,-12486656
-39,35,"scriptus","Tragelaphus","Bushbuck",LC,S,-16731116
-40,34,"imberbis","Tragelaphus","Lesser Kudu",NT,D,-12486656
-43,42,"derbianus","Taurotragus","",NE,U,-16777216
-44,42,"oryx","Taurotragus","",NE,U,-16777216
-45,41,"strepsiceros","Tragelaphus","Greater Kudu",LC,S,-16731116
-46,32,"angasii","Tragelaphus","Nyala",LC,S,-16731116
-47,31,"buxtoni","Tragelaphus","Mountain Nyala",EN,D,-8572416
-49,48,"quadricornis","Tetracerus","Four-horned Antelope",VU,D,-11184866
-50,48,"tragocamelus","Boselaphus","Nilgai",LC,S,-16731116
-56,55,"bonasus","Bison","European Bison",VU,I,-11184866
-57,55,"bison","Bison","American Bison",NT,S,-12486656
-58,54,"grunniens","Bos","",NE,U,-16777216
-60,59,"sauveli","Bos","Grey Ox",CR,U,-3014646
-61,59,"taurus","Bos","Cows",NE,U,-16777216
-63,62,"javanicus","Bos","Banteng",EN,D,-8572416
-64,62,"frontalis","Bos","Gaur",NE,U,-16777216
-68,67,"quarlesi","Bubalus","Mountain Anoa",EN,D,-8572416
-69,67,"depressicornis","Bubalus","Anoa",EN,D,-8572416
-71,70,"mindorensis","Bubalus","Mindoro Dwarf Buffalo",CR,D,-3014646
-72,70,"bubalis","Bubalus","",NE,U,-16777216
-73,65,"caffer","Syncerus","African Buffalo",LC,D,-16731116
-85,84,"alfredi","Rusa","Phillipine Spotted Deer",EN,D,-8572416
-86,84,"elaphus","Cervus","Red Deer",LC,I,-16731116
-87,83,"duvaucelii","Rucervus","Barasingha",VU,D,-11184866
-89,88,"timorensis","Rusa","Javan Rusa",VU,D,-11184866
-90,88,"nippon","Cervus","Sika Deer",LC,I,-16731116
-92,91,"davidianus","Elaphurus","Pere David's Deer",EW,I,-12832121
-93,91,"eldii","Rucervus","Eld's Deer",EN,D,-8572416
-95,94,"albirostris","Przewalskium","White-lipped Deer",VU,U,-11184866
-96,94,"unicolor","Rusa","Sambar",VU,D,-11184866
-97,79,"marianna","Rusa","Philippine Deer",VU,D,-11184866
-98,78,"dama","Dama","Fallow Deer",LC,U,-16731116
-101,100,"calamianensis","Axis","Calamanian Deer",EN,D,-8572416
-102,100,"axis","Axis","Chital",LC,U,-16731116
-104,103,"kuhlii","Axis","Bawean Deer",CR,S,-3014646
-105,103,"porcinus","Axis","Hog Deer",EN,D,-8572416
-112,111,"rooseveltorum","Muntiacus","Roosevelts' Muntjac",DD,D,-11513776
-113,111,"feae","Muntiacus","Fea's Muntjac",DD,U,-11513776
-114,110,"gongshanensis","Muntiacus","Gongshan Muntjac",DD,D,-11513776
-115,109,"muntjak","Muntiacus","Southern Red Muntjac",LC,D,-16731116
-117,116,"crinifrons","Muntiacus","Black Muntjac",VU,D,-11184866
-118,116,"reevesi","Muntiacus","Reeves' Muntjac",LC,D,-16731116
-119,107,"atherodes","Muntiacus","Bornean Yellow Muntjac",LC,D,-16731116
-120,106,"cephalophus","Elaphodus","Tufted Deer",NT,D,-12486656
-131,130,"temama","Mazama","Central American Red Brocket",DD,D,-11513776
-132,130,"americana","Mazama","Red Brocket",DD,U,-11513776
-133,129,"pandora","Mazama","Yucatan Brown Brocket",VU,D,-11184866
-135,134,"gouazoubira","Mazama","Gray Brocket",LC,D,-16731116
-136,134,"chunyi","Mazama","Chunyi",VU,D,-11184866
-138,137,"nana","Mazama","Brazilian Dwarf Brocket",DD,U,-11513776
-139,137,"bricenii","Mazama","Merida Brocket",VU,D,-11184866
-140,126,"rufina","Mazama","Dwarf Red Brocket",VU,D,-11184866
-142,141,"virginianus","Odocoileus","White-tailed Deer",LC,S,-16731116
-143,141,"hemionus","Odocoileus","Mule Deer",LC,S,-16731116
-147,146,"bisulcus","Hippocamelus","Patagonian Huemul",EN,D,-8572416
-148,146,"antisensis","Hippocamelus","Taruca",VU,D,-11184866
-149,145,"bezoarticus","Ozotoceros","Pampas Deer",NT,D,-12486656
-150,144,"dichotomus","Blastocerus","Marsh Deer",VU,D,-11184866
-152,151,"mephistophiles","Pudu","Northern Pudu",VU,D,-11184866
-153,151,"puda","Pudu","Southern Pudu",VU,D,-11184866
-154,122,"tarandus","Rangifer","Reindeer",LC,S,-16731116
-158,157,"capreolus","Capreolus","European Roe Deer",LC,I,-16731116
-159,157,"pygargus","Capreolus","SIBERIAN ROE DEER",LC,D,-16731116
-160,156,"inermis","Hydropotes","Chinese Water Deer",VU,D,-11184866
-162,161,"alces","Alces","Eurasian Elk",LC,I,-16731116
-163,161,"americanus","Alces","Moose",LC,S,-16731116
-169,168,"leucogaster","Moschus","Himalayan Muskdeer",EN,D,-8572416
-170,168,"chrysogaster","Moschus","Alpine Musk Deer",EN,D,-8572416
-171,167,"cupreus","Moschus","Kashmir Muskdeer",EN,D,-8572416
-172,166,"fuscus","Moschus","Black Musk Deer",EN,D,-8572416
-174,173,"berezovskii","Moschus","Forest Musk Deer",EN,D,-8572416
-175,173,"anhuiensis","Moschus","Anhui Musk Deer",EN,D,-8572416
-176,164,"moschiferus","Moschus","Siberian Musk Deer",VU,D,-11184866
-179,178,"camelopardalis","Giraffa","Giraffe",LC,D,-16731116
-180,178,"johnstoni","Okapia","Okapi",NT,S,-12486656
-181,177,"americana","Antilocapra","Pronghorn",LC,S,-16731116
-187,186,"kanchil","Tragulus","Lesser Oriental Chevrotain",LC,U,-16731116
-188,186,"javanicus","Tragulus","Javan Chevrotain",DD,U,-11513776
-189,185,"williamsoni","Tragulus","Williamson's Chevrotain",DD,D,-11513776
-192,191,"versicolor","Tragulus","Silver-backed Chevrotain",DD,D,-11513776
-193,191,"napu","Tragulus","Greater Oriental Chevrotain",LC,D,-16731116
-194,190,"nigricans","Tragulus","Balabac Mouse Deer",EN,D,-8572416
-195,183,"aquaticus","Hyemoschus","Water Chevrotain",LC,D,-16731116
-196,182,"meminna","Moschiola","White-spotted Chevrotain",LC,U,-16731116
-213,212,"aduncus","Tursiops","Indo-pacific Bottlenose Dolphin",DD,U,-11513776
-214,212,"truncatus","Tursiops","Common Bottlenose Dolphin",LC,U,-16731116
-216,215,"coeruleoalba","Stenella","Striped Dolphin",LC,U,-16731116
-217,215,"clymene","Stenella","Clymene Dolphin",DD,U,-11513776
-220,219,"delphis","Delphinus","Short-beaked Common Dolphin",LC,U,-16731116
-221,219,"capensis","Delphinus","Long-beaked Common Dolphin",DD,U,-11513776
-222,218,"attenuata","Stenella","Pantropical Spotted Dolphin",LC,U,-16731116
-223,209,"frontalis","Stenella","Atlantic Spotted Dolphin",DD,U,-11513776
-225,224,"chinensis","Sousa","Indo-pacific Hump-backed Dolphin",NT,D,-12486656
-226,224,"teuszii","Sousa","Atlantic Humpbacked Dolphin",VU,D,-11184866
-227,207,"orca","Orcinus","Killer Whale",DD,U,-11513776
-232,231,"acutus","Lagenorhynchus","Atlantic White-sided Dolphin",LC,U,-16731116
-233,231,"griseus","Grampus","Risso's Dolphin",LC,U,-16731116
-235,234,"brevirostris","Orcaella","Irrawaddy Dolphin",VU,D,-11184866
-236,234,"longirostris","Stenella","Spinner Dolphin",DD,U,-11513776
-237,229,"hosei","Lagenodelphis","Fraser's Dolphin",LC,U,-16731116
-239,238,"albirostris","Lagenorhynchus","White-beaked Dolphin",LC,U,-16731116
-240,238,"fluviatilis","Sotalia","Estuarine Dolphin",DD,U,-11513776
-248,247,"commersonii","Cephalorhynchus","Commerson's Dolphin",DD,U,-11513776
-249,247,"eutropia","Cephalorhynchus","Chilean Dolphin",NT,D,-12486656
-250,246,"hectori","Cephalorhynchus","Hector's Dolphin",EN,D,-8572416
-251,245,"heavisidii","Cephalorhynchus","Heaviside's Dolphin",DD,U,-11513776
-254,253,"obliquidens","Lagenorhynchus","Pacific White-sided Dolphin",LC,U,-16731116
-255,253,"obscurus","Lagenorhynchus","Dusky Dolphin",DD,U,-11513776
-257,256,"cruciger","Lagenorhynchus","Hourglass Dolphin",LC,U,-16731116
-258,256,"australis","Lagenorhynchus","Peale's Dolphin",DD,U,-11513776
-260,259,"borealis","Lissodelphis","Northern Right Whale Dolphin",LC,U,-16731116
-261,259,"peronii","Lissodelphis","Southern Right Whale Dolphin",DD,U,-11513776
-265,264,"macrorhynchus","Globicephala","Short-finned Pilot Whale",DD,U,-11513776
-266,264,"melas","Globicephala","Long-finned Pilot Whale",DD,U,-11513776
-268,267,"crassidens","Pseudorca","False Killer Whale",DD,U,-11513776
-269,267,"attenuata","Feresa","Pygmy Killer Whale",DD,U,-11513776
-270,262,"electra","Peponocephala","Melon-headed Whale",LC,U,-16731116
-271,241,"bredanensis","Steno","Rough-toothed Dolphin",LC,U,-16731116
-276,275,"dioptrica","Phocoena","Spectacled Porpoise",DD,U,-11513776
-277,275,"phocoena","Phocoena","Harbour Porpoise",LC,U,-16731116
-278,274,"phocaenoides","Neophocaena","Finless Porpoise",VU,D,-11184866
-279,273,"dalli","Phocoenoides","Dall's Porpoise",LC,U,-16731116
-281,280,"spinipinnis","Phocoena","Burmeister's Porpoise",DD,U,-11513776
-282,280,"sinus","Phocoena","Vaquita",CR,D,-3014646
-284,283,"leucas","Delphinapterus","Beluga",NT,U,-12486656
-285,283,"monoceros","Monodon","Narwhal",NT,U,-12486656
-288,287,"blainvillei","Pontoporia","Franciscana",VU,D,-11184866
-289,287,"geoffrensis","Inia","Boto",DD,U,-11513776
-290,286,"vexillifer","Lipotes","Changjiang Dolphin",CR,U,-3014646
-297,296,"europaeus","Mesoplodon","Gervais' Beaked Whale",DD,U,-11513776
-298,296,"bairdii","Berardius","Baird's Beaked Whale",DD,U,-11513776
-299,295,"ginkgodens","Mesoplodon","Ginkgo-toothed Beaked Whale",DD,U,-11513776
-301,300,"bowdoini","Mesoplodon","Andrew's Beaked Whale",DD,U,-11513776
-302,300,"peruvianus","Mesoplodon","Pygmy Beaked Whale",DD,U,-11513776
-307,306,"traversii","Mesoplodon","Spade-toothed Whale",DD,U,-11513776
-308,306,"layardii","Mesoplodon","Strap-toothed Whale",DD,U,-11513776
-309,305,"densirostris","Mesoplodon","Blainville's Beaked Whale",DD,U,-11513776
-310,304,"hectori","Mesoplodon","Hector's Beaked Whale",DD,U,-11513776
-311,303,"mirus","Mesoplodon","True's Beaked Whale",DD,U,-11513776
-314,313,"bidens","Mesoplodon","Sowerby's Beaked Whale",DD,U,-11513776
-315,313,"arnuxii","Berardius","Arnoux's Beaked Whale",DD,U,-11513776
-316,312,"shepherdi","Tasmacetus","Shepherd's Beaked Whale",DD,U,-11513776
-321,320,"pacificus","Indopacetus","Indo-pacific Beaked Whale",DD,U,-11513776
-322,320,"planifrons","Hyperoodon","Southern Bottlenose Whale",LC,U,-16731116
-323,319,"grayi","Mesoplodon","Gray's Beaked Whale",DD,U,-11513776
-325,324,"ampullatus","Hyperoodon","North Atlantic Bottlenose Whale",DD,U,-11513776
-326,324,"stejnegeri","Mesoplodon","Stejneger's Beaked Whale",DD,U,-11513776
-328,327,"cavirostris","Ziphius","Cuvier's Beaked Whale",LC,U,-16731116
-329,327,"carlhubbsi","Mesoplodon","Hubbs' Beaked Whale",DD,U,-11513776
-331,330,"gangetica","Platanista","South Asian River Dolphin",EN,D,-8572416
-332,330,"minor","Platanista","",NE,U,-16777216
-335,334,"breviceps","Kogia","Pygmy Sperm Whale",DD,U,-11513776
-336,334,"sima","Kogia","Dwarf Sperm Whale",DD,U,-11513776
-337,333,"catodon","Physeter","",NE,U,-16777216
-344,343,"novaeangliae","Megaptera","Humpback Whale",LC,I,-16731116
-345,343,"physalus","Balaenoptera","Fin Whale",EN,U,-8572416
-346,342,"musculus","Balaenoptera","Blue Whale",EN,I,-8572416
-347,341,"robustus","Eschrichtius","Gray Whale",LC,S,-16731116
-349,348,"edeni","Balaenoptera","Bryde's Whale",DD,U,-11513776
-350,348,"borealis","Balaenoptera","Sei Whale",EN,U,-8572416
-352,351,"bonaerensis","Balaenoptera","Antarctic Minke Whale",DD,U,-11513776
-353,351,"acutorostrata","Balaenoptera","Common Minke Whale",LC,S,-16731116
-358,357,"glacialis","Eubalaena","North Atlantic Right Whale",EN,U,-8572416
-359,357,"japonica","Eubalaena","North Pacific Right Whale",EN,U,-8572416
-360,356,"australis","Eubalaena","Southern Right Whale",LC,I,-16731116
-361,355,"mysticetus","Balaena","Bowhead Whale",LC,I,-16731116
-362,354,"marginata","Caperea","Pygmy Right Whale",DD,U,-11513776
-364,363,"amphibius","Hippopotamus","Common Hippopotamus",VU,D,-11184866
-365,363,"liberiensis","Hexaprotodon","",NE,U,-16777216
+11,10,"nattereri","Selenidera","Tawny-tufted Toucanet",LC,U,-16731116
+12,10,"gouldii","Selenidera","Gould's Toucanet",LC,U,-16731116
+13,9,"maculirostris","Selenidera","Spot-billed Toucanet",LC,U,-16731116
+14,8,"reinwardtii","Selenidera","Golden-collared Toucanet",LC,U,-16731116
+15,7,"spectabilis","Selenidera","Yellow-eared Toucanet",LC,U,-16731116
+16,6,"piperivora","Selenidera","Guianan Toucanet",LC,U,-16731116
+20,19,"laminirostris","Andigena","Plate-billed Mountain-toucan",NT,U,-12486656
+21,19,"nigrirostris","Andigena","Black-billed Mountain-toucan",LC,U,-16731116
+22,18,"hypoglauca","Andigena","Grey-breasted Mountain-toucan",NT,U,-12486656
+23,17,"cucullata","Andigena","Hooded Mountain-toucan",LC,U,-16731116
+28,27,"haematopygus","Aulacorhynchus","Crimson-rumped Toucanet",LC,U,-16731116
+29,27,"sulcatus","Aulacorhynchus","Groove-billed Toucanet",LC,U,-16731116
+30,26,"derbianus","Aulacorhynchus","Chestnut-tipped Toucanet",LC,U,-16731116
+31,25,"coeruleicinctis","Aulacorhynchus","Blue-banded Toucanet",LC,U,-16731116
+33,32,"huallagae","Aulacorhynchus","Yellow-browed Toucanet",EN,U,-8572416
+34,32,"prasinus","Aulacorhynchus","Emerald Toucanet",LC,U,-16731116
+40,39,"frantzii","Pteroglossus","Fiery-billed Aracari",LC,U,-16731116
+41,39,"torquatus","Pteroglossus","Collared Aracari",LC,U,-16731116
+42,38,"azara","Pteroglossus","Ivory-billed Aracari",LC,U,-16731116
+44,43,"castanotis","Pteroglossus","Chestnut-eared Aracari",LC,U,-16731116
+45,43,"pluricinctus","Pteroglossus","Many-banded Aracari",LC,U,-16731116
+46,36,"aracari","Pteroglossus","Black-necked Aracari",LC,U,-16731116
+50,49,"inscriptus","Pteroglossus","Lettered Aracari",LC,U,-16731116
+51,49,"viridis","Pteroglossus","Green Aracari",LC,U,-16731116
+52,48,"bailloni","Pteroglossus","Saffron Toucanet",NT,U,-12486656
+54,53,"beauharnaesii","Pteroglossus","Curl-crested Aracari",LC,U,-16731116
+55,53,"bitorquatus","Pteroglossus","Red-necked Aracari",LC,U,-16731116
+61,60,"swainsonii","Ramphastos","Chestnut-mandibled Toucan",LC,U,-16731116
+62,60,"ambiguus","Ramphastos","Black-mandibled Toucan",LC,U,-16731116
+63,59,"tucanus","Ramphastos","White-throated Toucan",LC,U,-16731116
+66,65,"vitellinus","Ramphastos","Channel-billed Toucan",LC,U,-16731116
+67,65,"brevis","Ramphastos","Choco Toucan",LC,U,-16731116
+68,64,"dicolorus","Ramphastos","Red-breasted Toucan",LC,U,-16731116
+69,57,"sulfuratus","Ramphastos","Keel-billed Toucan",LC,U,-16731116
+70,56,"toco","Ramphastos","Toco Toucan",LC,U,-16731116
+72,71,"frantzii","Semnornis","Prong-billed Barbet",LC,U,-16731116
+73,71,"ramphastinus","Semnornis","Toucan Barbet",NT,U,-12486656
+80,79,"maculicoronatus","Capito","Spot-crowned Barbet",LC,U,-16731116
+81,79,"squamatus","Capito","Orange-fronted Barbet",NT,U,-12486656
+83,82,"niger","Capito","Black-spotted Barbet",LC,U,-16731116
+84,82,"auratus","Capito","Gilded Barbet",LC,U,-16731116
+85,77,"wallacei","Capito","Scarlet-banded Barbet",VU,U,-11184866
+89,88,"aurovirens","Capito","Scarlet-crowned Barbet",LC,U,-16731116
+90,88,"hypoleucus","Capito","White-mantled Barbet",EN,U,-8572416
+91,87,"dayi","Capito","Black-girdled Barbet",LC,U,-16731116
+92,86,"brunneipectus","Capito","Brown-chested Barbet",LC,U,-16731116
+93,75,"quinticolor","Capito","Five-coloured Barbet",VU,U,-11184866
+96,95,"richardsoni","Eubucco","Lemon-throated Barbet",LC,U,-16731116
+97,95,"tucinkae","Eubucco","Scarlet-hooded Barbet",LC,U,-16731116
+99,98,"versicolor","Eubucco","Versicoloured Barbet",LC,U,-16731116
+100,98,"bourcierii","Eubucco","Red-headed Barbet",LC,U,-16731116

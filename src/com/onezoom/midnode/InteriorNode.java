@@ -1,5 +1,7 @@
 package com.onezoom.midnode;
 
+import android.util.Log;
+
 import com.onezoom.midnode.displayBinary.BinaryInitializer;
 
 import junit.framework.Assert;

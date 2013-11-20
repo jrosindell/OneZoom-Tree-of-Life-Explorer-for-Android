@@ -1,101 +1,41 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"superciliosa","Woodfordia","Bare-eyed White-eye",LC,U,-16731116
-18,16,"lacertosa","Woodfordia","Sanford's White-eye",NT,U,-12486656
-19,15,"ficedulinus","Zosterops","Sao Tome White-eye",VU,U,-11184866
-20,14,"flavifrons","Zosterops","Yellow-fronted White-eye",LC,U,-16731116
-24,23,"meeki","Zosterops","White-throated White-eye",DD,U,-11513776
-25,23,"lateralis","Zosterops","Silvereye",LC,U,-16731116
-26,22,"conspicillatus","Zosterops","Bridled White-eye",EN,U,-8572416
-27,21,"kuehni","Zosterops","Ambon Yellow White-eye",NT,U,-12486656
-33,32,"kulambangrae","Zosterops","Solomons White-eye",LC,U,-16731116
-34,32,"samoensis","Zosterops","Samoan White-eye",VU,U,-11184866
-35,31,"rendovae","Zosterops","Grey-throated White-eye",LC,U,-16731116
-36,30,"splendidus","Zosterops","Ranongga White-eye",VU,U,-11184866
-37,29,"luteirostris","Zosterops","Splendid White-eye",EN,U,-8572416
-39,38,"vellalavella","Zosterops","Banded White-eye",NT,U,-12486656
-40,38,"hypolais","Zosterops","Plain White-eye",NT,U,-12486656
-46,45,"tenuirostris","Zosterops","Slender-billed White-eye",EN,U,-8572416
-47,45,"inornatus","Zosterops","Large Lifu White-eye",LC,U,-16731116
-48,44,"rennellianus","Zosterops","Rennell White-eye",LC,U,-16731116
-51,50,"griseotinctus","Zosterops","Louisiade White-eye",LC,U,-16731116
-52,50,"murphyi","Zosterops","Hermit White-eye",LC,U,-16731116
-53,49,"rotensis","Zosterops","Rota Bridled White-eye",CR,U,-3014646
-54,42,"stalkeri","Zosterops","Seram White-eye",LC,U,-16731116
-55,41,"ceylonensis","Zosterops","Sri Lanka White-eye",LC,U,-16731116
-60,59,"citrinella","Zosterops","Ashy-bellied White-eye",LC,U,-16731116
-61,59,"nehrkorni","Zosterops","Sangihe White-eye",CR,U,-3014646
-62,58,"buruensis","Zosterops","Buru Yellow White-eye",LC,U,-16731116
-64,63,"luteus","Zosterops","Australian Yellow White-eye",LC,U,-16731116
-65,63,"hypoxanthus","Zosterops","Black-headed White-eye",LC,U,-16731116
-69,68,"oleagineus","Zosterops","Yap Olive White-eye",NT,U,-12486656
-70,68,"cinereus","Zosterops","Grey-brown White-eye",LC,U,-16731116
-71,67,"fuscicapilla","Zosterops","Capped White-eye",LC,U,-16731116
-73,72,"metcalfii","Zosterops","Yellow-throated White-eye",LC,U,-16731116
-74,72,"stresemanni","Zosterops","Malaita White-eye",LC,U,-16731116
-75,9,"nigrorum","Zosterops","Golden-yellow White-eye",LC,U,-16731116
-81,80,"erythropleurus","Zosterops","Chestnut-flanked White-eye",LC,U,-16731116
-82,80,"abyssinicus","Zosterops","White-breasted White-eye",LC,U,-16731116
-83,79,"atricapilla","Zosterops","Black-capped White-eye",LC,U,-16731116
-85,84,"japonicus","Zosterops","Japanese White-eye",LC,U,-16731116
-86,84,"montanus","Zosterops","Mountain White-eye",LC,U,-16731116
-88,87,"somadikartai","Zosterops","Togian White-eye",NT,U,-12486656
-89,87,"emiliae","Chlorocharis","Mountain Blackeye",LC,U,-16731116
-90,76,"everetti","Zosterops","Everett's White-eye",LC,U,-16731116
-96,95,"uropygialis","Zosterops","Golden-bellied White-eye",NT,U,-12486656
-97,95,"flavus","Zosterops","Javan White-eye",NT,U,-12486656
-98,94,"atrifrons","Zosterops","Black-crowned White-eye",LC,U,-16731116
-99,93,"salvadorii","Zosterops","Enggano White-eye",LC,U,-16731116
-101,100,"novaeguineae","Zosterops","New Guinea White-eye",LC,U,-16731116
-102,100,"chloris","Zosterops","Lemon-bellied White-eye",LC,U,-16731116
-103,91,"anomalus","Zosterops","Lemon-throated White-eye",LC,U,-16731116
-111,110,"lugubris","Speirops","Black-capped Speirops",LC,U,-16731116
-112,110,"leucophoeus","Speirops","Principe Speirops",NT,U,-12486656
-113,109,"brunneus","Speirops","Fernando Po Speirops",VU,U,-11184866
-114,108,"melanocephalus","Speirops","Mount Cameroon Speirops",VU,U,-11184866
-117,116,"senegalensis","Zosterops","African Yellow White-eye",LC,U,-16731116
-118,116,"mysorensis","Zosterops","Biak White-eye",NT,U,-12486656
-120,119,"poliogastrus","Zosterops","Montane White-eye",LC,U,-16731116
-121,119,"explorator","Zosterops","Layard's White-eye",LC,U,-16731116
-123,122,"sordidus","Micromacronus","Mindanao Miniature-babbler",DD,U,-11513776
-124,122,"leytensis","Micromacronus","Visayan Miniature-babbler",DD,U,-11513776
-127,126,"maderaspatanus","Zosterops","Madagascar White-eye",LC,U,-16731116
-128,126,"modestus","Zosterops","Seychelles White-eye",EN,U,-8572416
-129,125,"pallidus","Zosterops","Pale White-eye",LC,U,-16731116
-134,133,"mouroniensis","Zosterops","Mount Karthala White-eye",VU,U,-11184866
-135,133,"borbonicus","Zosterops","Mascarene Grey White-eye",LC,U,-16731116
-136,132,"olivaceus","Zosterops","Reunion Olive White-eye",LC,U,-16731116
-139,138,"sanctaecrucis","Zosterops","Santa Cruz White-eye",LC,U,-16731116
-140,138,"natalis","Zosterops","Christmas Island White-eye",VU,U,-11184866
-141,137,"semperi","Zosterops","Caroline Islands White-eye",LC,U,-16731116
-144,143,"palpebrosus","Zosterops","Oriental White-eye",LC,U,-16731116
-145,143,"mayottensis","Zosterops","Mayotte White-eye",LC,U,-16731116
-146,142,"meyeni","Zosterops","Lowland White-eye",LC,U,-16731116
-147,5,"ruficollis","Madanga","Rufous-throated White-eye",EN,U,-8572416
-151,150,"xanthochroa","Zosterops","Green-backed White-eye",LC,U,-16731116
-152,150,"atriceps","Zosterops","Creamy-throated White-eye",LC,U,-16731116
-153,149,"finschii","Zosterops","Dusky White-eye",LC,U,-16731116
-155,154,"albogularis","Zosterops","White-chested White-eye",CR,U,-3014646
-156,154,"vaughani","Zosterops","Pemba White-eye",LC,U,-16731116
-162,161,"chloronothus","Zosterops","Mauritius Olive White-eye",CR,U,-3014646
-163,161,"minutus","Zosterops","Small Lifu White-eye",LC,U,-16731116
-165,164,"palauensis","Megazosterops","Giant White-eye",NT,U,-12486656
-166,164,"grayi","Zosterops","Pearl-bellied White-eye",NT,U,-12486656
-167,159,"gibbsi","Zosterops","Vanikoro White-eye",LC,U,-16731116
-170,169,"consobrinorum","Zosterops","Pale-bellied White-eye",LC,U,-16731116
-171,169,"griseovirescens","Zosterops","Annobon White-eye",VU,U,-11184866
-172,168,"stalkeri","Tephrozosterops","Bicoloured White-eye",LC,U,-16731116
-174,173,"wallacei","Zosterops","Yellow-spectacled White-eye",LC,U,-16731116
-175,173,"minor","Zosterops","Black-fronted White-eye",LC,U,-16731116
-181,180,"javanicus","Lophozosterops","Javan Grey-throated White-eye",LC,U,-16731116
-182,180,"dohertyi","Lophozosterops","Crested White-eye",LC,U,-16731116
-184,183,"squamiceps","Lophozosterops","Streaky-headed White-eye",LC,U,-16731116
-185,183,"pinaiae","Lophozosterops","Grey-hooded White-eye",LC,U,-16731116
-186,178,"goodfellowi","Lophozosterops","Black-masked White-eye",LC,U,-16731116
-187,177,"superciliaris","Lophozosterops","Yellow-browed White-eye",LC,U,-16731116
-190,189,"crassirostris","Heleia","Thick-billed White-eye",LC,U,-16731116
-191,189,"muelleri","Heleia","Spot-breasted White-eye",NT,U,-12486656
-192,188,"squamifrons","Oculocincta","Pygmy White-eye",LC,U,-16731116
-193,1,"marchei","Cleptornis","Golden White-eye",CR,U,-3014646
-196,195,"leucogrammica","Ptilocichla","Bornean Wren-babbler",VU,U,-11184866
-197,195,"mindanensis","Ptilocichla","Striated Wren-babbler",LC,U,-16731116
-198,194,"falcata","Ptilocichla","Falcated Wren-babbler",VU,U,-11184866
+9,8,"melanoleuca","Poospiza","Black-capped Warbling-finch",LC,U,-16731116
+10,8,"cinerea","Poospiza","Cinereous Warbling-finch",VU,U,-11184866
+11,7,"alticola","Poospiza","Plain-tailed Warbling-finch",EN,U,-8572416
+12,6,"erythrophrys","Poospiza","Rusty-browed Warbling-finch",LC,U,-16731116
+14,13,"trifasciatus","Hemispingus","Three-striped Hemispingus",LC,U,-16731116
+15,13,"torquata","Poospiza","Ringed Warbling-finch",LC,U,-16731116
+16,4,"lateralis","Poospiza","Buff-throated Warbling-finch",LC,U,-16731116
+20,19,"albifrons","Donacospiza","Long-tailed Reed-finch",LC,U,-16731116
+21,19,"hirundinacea","Cypsnagra","White-rumped Tanager",LC,U,-16731116
+22,18,"cabanisi","Poospiza","Grey-throated Warbling-finch",LC,U,-16731116
+24,23,"hypochondria","Poospiza","Rufous-sided Warbling-finch",LC,U,-16731116
+25,23,"caesar","Poospiza","Chestnut-breasted Mountain-finch",LC,U,-16731116
+26,2,"oneilli","Nephelornis","Pardusco",LC,U,-16731116
+34,33,"pectoralis","Thlypopsis","Brown-flanked Tanager",LC,U,-16731116
+35,33,"fulviceps","Thlypopsis","Fulvous-headed Tanager",LC,U,-16731116
+36,32,"inornata","Thlypopsis","Buff-bellied Tanager",LC,U,-16731116
+37,31,"sordida","Thlypopsis","Orange-headed Tanager",LC,U,-16731116
+39,38,"ruficeps","Thlypopsis","Rust-and-yellow Tanager",LC,U,-16731116
+40,38,"ornata","Thlypopsis","Rufous-chested Tanager",LC,U,-16731116
+41,29,"ruficeps","Pyrrhocoma","Chestnut-headed Tanager",LC,U,-16731116
+42,28,"superciliaris","Hemispingus","Superciliaried Hemispingus",LC,U,-16731116
+46,45,"melanotis","Hemispingus","Black-eared Hemispingus",LC,U,-16731116
+47,45,"frontalis","Hemispingus","Oleaginous Hemispingus",LC,U,-16731116
+48,44,"piurae","Hemispingus","Piura Hemispingus",_U,[,-16777216
+50,49,"nigrorufa","Poospiza","Black-and-rufous Warbling-finch",LC,U,-16731116
+51,49,"ochraceus","Hemispingus","Western Hemispingus",_U,[,-16777216
+59,58,"xanthophthalmus","Hemispingus","Drab Hemispingus",LC,U,-16731116
+60,58,"boliviana","Poospiza","Bolivian Warbling-finch",LC,U,-16731116
+61,57,"ornata","Poospiza","Cinnamon Warbling-finch",LC,U,-16731116
+62,56,"verticalis","Hemispingus","Black-headed Hemispingus",LC,U,-16731116
+63,55,"thoracica","Poospiza","Bay-chested Warbling-finch",LC,U,-16731116
+64,54,"hispaniolensis","Poospiza","Collared Warbling-finch",LC,U,-16731116
+66,65,"whitii","Poospiza","Black-and-chestnut Warbling Finch",_U,[,-16777216
+67,65,"goeringi","Hemispingus","Slaty-backed Hemispingus",VU,U,-11184866
+72,71,"atropileus","Hemispingus","Black-capped Hemispingus",LC,U,-16731116
+73,71,"auricularis","Hemispingus","White-browed Hemispingus",_U,[,-16777216
+74,70,"reyi","Hemispingus","Grey-capped Hemispingus",NT,U,-12486656
+76,75,"calophrys","Hemispingus","Orange-browed Hemispingus",LC,U,-16731116
+77,75,"parodii","Hemispingus","Parodi's Hemispingus",LC,U,-16731116
+78,68,"rubecula","Poospiza","Rufous-breasted Warbling-finch",EN,U,-8572416

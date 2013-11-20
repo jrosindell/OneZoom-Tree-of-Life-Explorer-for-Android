@@ -1,102 +1,103 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"dominicensis","Myotis","Dominican Myotis",VU,U,-11184866
-15,13,"elegans","Myotis","Elegant Myotis",LC,U,-16731116
-16,12,"findleyi","Myotis","Findley's Myotis",EN,D,-8572416
-18,17,"martiniquensis","Myotis","Schwartz's Myotis",VU,U,-11184866
-19,17,"nesopolus","Myotis","Curacao Myotis",LC,U,-16731116
-22,21,"keaysi","Myotis","Hairy-legged Myotis",LC,U,-16731116
-23,21,"nigricans","Myotis","Black Myotis",LC,S,-16731116
-25,24,"atacamensis","Myotis","Atacama Myotis",NT,U,-12486656
-26,24,"sodalis","Myotis","Indiana Bat",EN,D,-8572416
-28,27,"oreias","Myotis","Singaporese Whiskered Myotis",DD,U,-11513776
-29,27,"altarium","Myotis","Szechwan Myotis",LC,U,-16731116
-37,36,"hajastanicus","Myotis","Armenian Myotis",CR,U,-3014646
-38,36,"mystacinus","Myotis","Whiskered Myotis",LC,U,-16731116
-39,35,"nipalensis","Myotis","Nepal Myotis",LC,U,-16731116
-40,34,"davidii","Myotis","David's Myotis",LC,U,-16731116
-41,33,"brandtii","Myotis","Brandt's Myotis",LC,S,-16731116
-42,32,"insularum","Myotis","Insular Myotis",DD,U,-11513776
-44,43,"bucharensis","Myotis","Bokhara Whiskered Bat",DD,U,-11513776
-45,43,"frater","Myotis","Fraternal Myotis",DD,U,-11513776
-46,30,"siligorensis","Myotis","Himalayan Whiskered Bat",LC,U,-16731116
-54,53,"muricola","Myotis","Nepalese Whiskered Bat",LC,S,-16731116
-55,53,"ater","Myotis","Peters's Myotis",LC,S,-16731116
-56,52,"rosseti","Myotis","Thick-thumbed Myotis",LC,U,-16731116
-58,57,"annectans","Myotis","Hairy-faced Bat",LC,U,-16731116
-59,57,"ridleyi","Myotis","Ridley's Myotis",NT,D,-12486656
-60,50,"australis","Myotis","Australian Myotis",DD,U,-11513776
-63,62,"ikonnikovi","Myotis","Ikonnikov's Bat",LC,U,-16731116
-64,62,"ozensis","Myotis","",NE,U,-16777216
-66,65,"yesoensis","Myotis","",NE,U,-16777216
-67,65,"hosonoi","Myotis","",NE,U,-16777216
-68,48,"scotti","Myotis","Scott's Mouse-eared Bat",VU,D,-11184866
-73,72,"melanorhinus","Myotis","Dark-nosed Small-footed Myotis",LC,S,-16731116
-74,72,"ciliolabrum","Myotis","Western Small-footed Myotis",LC,S,-16731116
-75,71,"leibii","Myotis","Eastern Small-footed Myotis",LC,S,-16731116
-76,70,"californicus","Myotis","California Myotis",LC,U,-16731116
-77,69,"planiceps","Myotis","Flat-headed Myotis",EN,D,-8572416
-83,82,"lucifugus","Myotis","Little Brown Bat",LC,S,-16731116
-84,82,"occultus","Myotis","Arizona Myotis",LC,S,-16731116
-85,81,"velifer","Myotis","Cave Myotis",LC,S,-16731116
-86,80,"aelleni","Myotis","Southern Myotis",DD,U,-11513776
-87,79,"fortidens","Myotis","Cinnamon Myotis",LC,U,-16731116
-89,88,"volans","Myotis","Long-legged Myotis",LC,S,-16731116
-90,88,"chiloensis","Myotis","Chilean Myotis",LC,U,-16731116
-96,95,"fimbriatus","Myotis","Fringed Long-footed Myotis",LC,U,-16731116
-97,95,"macrodactylus","Myotis","Big-footed Myotis",LC,U,-16731116
-98,94,"longipes","Myotis","Kashmir Cave Bat",DD,U,-11513776
-101,100,"daubentonii","Myotis","Daubenton's Myotis",LC,I,-16731116
-102,100,"laniger","Myotis","Chinese Water Myotis",LC,U,-16731116
-103,99,"pruinosus","Myotis","Frosted Myotis",EN,D,-8572416
-104,92,"capaccinii","Myotis","Long-fingered Bat",VU,D,-11184866
-105,91,"oxyotus","Myotis","Montane Myotis",LC,U,-16731116
-106,4,"peninsularis","Myotis","Peninsular Myotis",EN,D,-8572416
-109,108,"lesueuri","Cistugo","Lesueur's Hairy Bat",LC,D,-16731116
-110,108,"seabrae","Cistugo","Angolan Hairy Bat",LC,U,-16731116
-111,107,"levis","Myotis","Yellowish Myotis",LC,U,-16731116
-115,114,"macrotarsus","Myotis","Pallid Large-footed Myotis",NT,D,-12486656
-116,114,"stalkeri","Myotis","Stalker's Myotis",DD,U,-11513776
-117,113,"vivesi","Myotis","Fish-eating Bat",VU,D,-11184866
-118,112,"abei","Myotis","",NE,U,-16777216
-120,119,"aenobarbus","Nycticeius","Temminck's Mysterious Bat",DD,U,-11513776
-121,119,"albescens","Myotis","Silver-tipped Myotis",LC,S,-16731116
-132,131,"blythii","Myotis","LESSER MOUSE-EARED MYOTIS",LC,D,-16731116
-133,131,"punicus","Myotis","Felten's Myotis",NT,D,-12486656
-134,130,"oxygnathus","Myotis","",NE,U,-16777216
-135,129,"sicarius","Myotis","Mandelli's Mouse-eared Myotis",VU,U,-11184866
-136,128,"chinensis","Myotis","Large Myotis",LC,U,-16731116
-137,127,"myotis","Myotis","Greater Mouse-eared Bat",LC,S,-16731116
-141,140,"bombinus","Myotis","Far Eastern Myotis",NT,D,-12486656
-142,140,"nattereri","Myotis","Natterer's Bat",LC,S,-16731116
-144,143,"thysanodes","Myotis","Fringed Myotis",LC,S,-16731116
-145,143,"schaubi","Myotis","Schaub's Myotis",DD,U,-11513776
-146,138,"pequinius","Myotis","Peking Myotis",LC,U,-16731116
-151,150,"goudoti","Myotis","Malagasy Mouse-eared Bat",LC,U,-16731116
-152,150,"anjouanensis","Myotis","Anjouan Myotis",DD,U,-11513776
-153,149,"morrisi","Myotis","Morris's Bat",DD,U,-11513776
-154,148,"tricolor","Myotis","Cape Hairy Bat",LC,U,-16731116
-155,147,"emarginatus","Myotis","Geoffroy's Bat",LC,S,-16731116
-161,160,"septentrionalis","Myotis","Northern Myotis",LC,S,-16731116
-162,160,"keenii","Myotis","Keen's Myotis",LC,S,-16731116
-163,159,"evotis","Myotis","Long-eared Myotis",LC,S,-16731116
-164,158,"auriculus","Myotis","Southwestern Myotis",LC,U,-16731116
-165,157,"bechsteinii","Myotis","BECHSTEIN'S MYOTIS",NT,D,-12486656
-168,167,"hermani","Myotis","Herman's Myotis",DD,U,-11513776
-169,167,"formosus","Myotis","Hodgson's Bat",LC,U,-16731116
-170,166,"welwitschii","Myotis","Welwitch's Bat",LC,U,-16731116
-173,172,"cobanensis","Myotis","Guatemalan Myotis",DD,U,-11513776
-174,172,"yumanensis","Myotis","Yuma Myotis",LC,S,-16731116
-175,171,"austroriparius","Myotis","Southeastern Myotis",LC,S,-16731116
-183,182,"adversus","Myotis","Large-footed Myotis",LC,U,-16731116
-184,182,"moluccarum","Myotis","Maluku Myotis",LC,U,-16731116
-185,181,"macropus","Myotis","Large-footed Myotis",LC,U,-16731116
-186,180,"bocagii","Myotis","Rufous Mouse-eared Bat",LC,U,-16731116
-188,187,"hasseltii","Myotis","Lesser Large-footed Myotis",LC,U,-16731116
-189,187,"horsfieldii","Myotis","Horsfield's Myotis",LC,S,-16731116
-192,191,"simus","Myotis","Velvety Myotis",DD,U,-11513776
-193,191,"ruber","Myotis","Red Myotis",NT,U,-12486656
-194,190,"riparius","Myotis","Riparian Myotis",LC,S,-16731116
-197,196,"grisescens","Myotis","Gray Myotis",NT,I,-12486656
-198,196,"ricketti","Myotis","",NE,U,-16777216
-199,195,"dasycneme","Myotis","POND MYOTIS",NT,D,-12486656
-200,176,"montivagus","Myotis","Burmese Whiskered Myotis",LC,U,-16731116
+14,13,"femoralis","Scytalopus","Rufous-vented Tapaculo",LC,U,-16731116
+15,13,"micropterus","Scytalopus","Long-tailed Tapaculo",LC,U,-16731116
+16,12,"latrans","Scytalopus","Blackish Tapaculo",LC,U,-16731116
+17,11,"griseicollis","Scytalopus","Pale-bellied Tapaculo",LC,U,-16731116
+19,18,"sanctaemartae","Scytalopus","Santa Marta Tapaculo",LC,U,-16731116
+20,18,"pachecoi","Scytalopus","Planalto Tapaculo",LC,U,-16731116
+23,22,"parkeri","Scytalopus","Chusquea Tapaculo",LC,U,-16731116
+24,22,"vicinior","Scytalopus","Narino Tapaculo",LC,U,-16731116
+25,21,"panamensis","Scytalopus","Tacarcuna Tapaculo",VU,U,-11184866
+30,29,"superciliaris","Scytalopus","White-browed Tapaculo",LC,U,-16731116
+31,29,"zimmeri","Scytalopus","Zimmer's Tapaculo",LC,U,-16731116
+32,28,"acutirostris","Scytalopus","Tschudi's Tapaculo",LC,U,-16731116
+35,34,"affinis","Scytalopus","Ancash Tapaculo",LC,U,-16731116
+36,34,"fuscus","Scytalopus","Dusky Tapaculo",LC,U,-16731116
+37,33,"canus","Scytalopus","Paramo Tapaculo",LC,U,-16731116
+40,39,"speluncae","Scytalopus","Mouse-coloured Tapaculo",LC,U,-16731116
+41,39,"novacapitalis","Scytalopus","Brasilia Tapaculo",NT,U,-12486656
+42,38,"iraiensis","Scytalopus","Marsh Tapaculo",EN,U,-8572416
+47,46,"argentifrons","Scytalopus","Silvery-fronted Tapaculo",LC,U,-16731116
+48,46,"simonsi","Scytalopus","Puna Tapaculo",LC,U,-16731116
+49,45,"macropus","Scytalopus","Large-footed Tapaculo",LC,U,-16731116
+50,44,"rodriguezi","Scytalopus","Upper Magdalena Tapaculo",EN,U,-8572416
+53,52,"latebricola","Scytalopus","Brown-rumped Tapaculo",LC,U,-16731116
+54,52,"spillmanni","Scytalopus","Spillmann's Tapaculo",LC,U,-16731116
+55,51,"parvirostris","Scytalopus","Trilling Tapaculo",LC,U,-16731116
+61,60,"unicolor","Scytalopus","Unicoloured Tapaculo",LC,U,-16731116
+62,60,"bolivianus","Scytalopus","Bolivian Tapaculo",LC,U,-16731116
+64,63,"atratus","Scytalopus","White-crowned Tapaculo",LC,U,-16731116
+65,63,"meridanus","Scytalopus","Merida Tapaculo",LC,U,-16731116
+67,66,"magellanicus","Scytalopus","Magellanic Tapaculo",LC,U,-16731116
+68,66,"caracae","Scytalopus","Caracas Tapaculo",LC,U,-16731116
+70,69,"robbinsi","Scytalopus","Ecuadorian Tapaculo",EN,U,-8572416
+71,69,"chocoensis","Scytalopus","Choco Tapaculo",LC,U,-16731116
+73,72,"urubambae","Scytalopus","Vilcabamba Tapaculo",LC,U,-16731116
+74,72,"altirostris","Scytalopus","Neblina Tapaculo",LC,U,-16731116
+76,75,"schulenbergi","Scytalopus","Diademed Tapaculo",LC,U,-16731116
+77,75,"stilesi","Scytalopus","Stiles's Tapaculo",LC,U,-16731116
+78,4,"paradoxa","Eugralla","Ochre-flanked Tapaculo",LC,U,-16731116
+79,3,"senilis","Myornis","Ash-coloured Tapaculo",LC,U,-16731116
+82,81,"indigoticus","Eleoscytalopus","White-breasted Tapaculo",NT,U,-12486656
+83,81,"psychopompus","Eleoscytalopus","Bahia Tapaculo",CR,U,-3014646
+85,84,"stresemanni","Merulaxis","Stresemann's Bristlefront",CR,U,-3014646
+86,84,"ater","Merulaxis","Slaty Bristlefront",NT,U,-12486656
+91,90,"castaneus","Pteroptochos","Chestnut-throated Huet-huet",LC,U,-16731116
+92,90,"tarnii","Pteroptochos","Black-throated Huet-huet",LC,U,-16731116
+94,93,"albicollis","Scelorchilus","White-throated Tapaculo",LC,U,-16731116
+95,93,"rubecula","Scelorchilus","Chucao Tapaculo",LC,U,-16731116
+96,88,"megapodius","Pteroptochos","Moustached Turca",LC,U,-16731116
+100,99,"orthonyx","Acropternis","Ocellated Tapaculo",LC,U,-16731116
+101,99,"lanceolata","Rhinocrypta","Crested Gallito",LC,U,-16731116
+102,98,"fuscus","Teledromas","Sandy Gallito",LC,U,-16731116
+104,103,"thoracicus","Liosceles","Rusty-belted Tapaculo",LC,U,-16731116
+105,103,"guttatus","Psilorhamphus","Spotted Bamboowren",NT,U,-12486656
+114,113,"andicolus","Grallaria","Stripe-headed Antpitta",LC,U,-16731116
+115,113,"carrikeri","Grallaria","Pale-billed Antpitta",LC,U,-16731116
+117,116,"dignissima","Grallaria","Ochre-striped Antpitta",LC,U,-16731116
+118,116,"eludens","Grallaria","Elusive Antpitta",NT,U,-12486656
+122,121,"griseonucha","Grallaria","Grey-naped Antpitta",LC,U,-16731116
+123,121,"quitensis","Grallaria","Tawny Antpitta",LC,U,-16731116
+124,120,"erythroleuca","Grallaria","Red-and-white Antpitta",LC,U,-16731116
+125,119,"capitalis","Grallaria","Bay Antpitta",LC,U,-16731116
+129,128,"ruficapilla","Grallaria","Chestnut-crowned Antpitta",LC,U,-16731116
+130,128,"watkinsi","Grallaria","Watkins's Antpitta",LC,U,-16731116
+131,127,"nuchalis","Grallaria","Chestnut-naped Antpitta",LC,U,-16731116
+132,126,"hypoleuca","Grallaria","White-bellied Antpitta",LC,U,-16731116
+135,134,"flavotincta","Grallaria","Yellow-breasted Antpitta",LC,U,-16731116
+136,134,"przewalskii","Grallaria","Rusty-tinged Antpitta",LC,U,-16731116
+138,137,"erythrotis","Grallaria","Rufous-faced Antpitta",LC,U,-16731116
+139,137,"rufocinerea","Grallaria","Bicoloured Antpitta",VU,U,-11184866
+143,142,"blakei","Grallaria","Chestnut Antpitta",NT,U,-12486656
+144,142,"excelsa","Grallaria","Great Antpitta",VU,U,-11184866
+145,141,"rufula","Grallaria","Rufous Antpitta",LC,U,-16731116
+147,146,"haplonota","Grallaria","Plain-backed Antpitta",LC,U,-16731116
+148,146,"milleri","Grallaria","Brown-banded Antpitta",EN,U,-8572416
+153,152,"bangsi","Grallaria","Santa Marta Antpitta",VU,U,-11184866
+154,152,"varia","Grallaria","Variegated Antpitta",LC,U,-16731116
+155,151,"guatimalensis","Grallaria","Scaled Antpitta",LC,U,-16731116
+158,157,"kaestneri","Grallaria","Cundinamarca Antpitta",VU,U,-11184866
+159,157,"gigantea","Grallaria","Giant Antpitta",VU,U,-11184866
+160,156,"chthonia","Grallaria","Tachira Antpitta",CR,U,-3014646
+163,162,"albigula","Grallaria","White-throated Antpitta",LC,U,-16731116
+164,162,"alleni","Grallaria","Moustached Antpitta",VU,U,-11184866
+166,165,"squamigera","Grallaria","Undulated Antpitta",LC,U,-16731116
+167,165,"ridgelyi","Grallaria","Jocotoco Antpitta",EN,U,-8572416
+175,174,"fulviventris","Hylopezus","White-lored Antpitta",LC,U,-16731116
+176,174,"berlepschi","Hylopezus","Amazonian Antpitta",LC,U,-16731116
+177,173,"nattereri","Hylopezus","Speckle-breasted Antpitta",LC,U,-16731116
+178,172,"auricularis","Hylopezus","Masked Antpitta",VU,U,-11184866
+181,180,"perspicillatus","Hylopezus","Spectacled Antpitta",LC,U,-16731116
+182,180,"macularius","Hylopezus","Spotted Antpitta",LC,U,-16731116
+183,179,"dives","Hylopezus","Thicket Antpitta",LC,U,-16731116
+184,170,"ochroleucus","Hylopezus","White-browed Antpitta",NT,U,-12486656
+186,185,"campanisona","Myrmothera","Thrush-like Antpitta",LC,U,-16731116
+187,185,"simplex","Myrmothera","Brown-breasted Antpitta",LC,U,-16731116
+192,191,"ochraceifrons","Grallaricula","Ochre-fronted Antpitta",EN,U,-8572416
+193,191,"loricata","Grallaricula","Scallop-breasted Antpitta",NT,U,-12486656
+194,190,"flavirostris","Grallaricula","Ochre-breasted Antpitta",LC,U,-16731116
+197,196,"lineifrons","Grallaricula","Crescent-faced Antpitta",NT,U,-12486656
+198,196,"peruviana","Grallaricula","Peruvian Antpitta",NT,U,-12486656
+199,195,"cucullata","Grallaricula","Hooded Antpitta",VU,U,-11184866
+201,200,"ferrugineipectus","Grallaricula","Rusty-breasted Antpitta",LC,U,-16731116
+202,200,"nana","Grallaricula","Slate-crowned Antpitta",LC,U,-16731116

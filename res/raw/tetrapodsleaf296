@@ -1,0 +1,28 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"blythii","Myotis","LESSER MOUSE-EARED MYOTIS",LC,D,-16731116
+10,8,"punicus","Myotis","Felten's Myotis",NT,D,-12486656
+11,7,"oxygnathus","Myotis","",NE,U,-16777216
+12,6,"sicarius","Myotis","Mandelli's Mouse-eared Myotis",VU,U,-11184866
+13,5,"chinensis","Myotis","Large Myotis",LC,U,-16731116
+14,4,"myotis","Myotis","Greater Mouse-eared Bat",LC,S,-16731116
+18,17,"bombinus","Myotis","Far Eastern Myotis",NT,D,-12486656
+19,17,"nattereri","Myotis","Natterer's Bat",LC,S,-16731116
+21,20,"thysanodes","Myotis","Fringed Myotis",LC,S,-16731116
+22,20,"schaubi","Myotis","Schaub's Myotis",DD,U,-11513776
+23,15,"pequinius","Myotis","Peking Myotis",LC,U,-16731116
+28,27,"goudoti","Myotis","Malagasy Mouse-eared Bat",LC,U,-16731116
+29,27,"anjouanensis","Myotis","Anjouan Myotis",DD,U,-11513776
+30,26,"morrisi","Myotis","Morris's Bat",DD,U,-11513776
+31,25,"tricolor","Myotis","Cape Hairy Bat",LC,U,-16731116
+32,24,"emarginatus","Myotis","Geoffroy's Bat",LC,S,-16731116
+38,37,"septentrionalis","Myotis","Northern Myotis",LC,S,-16731116
+39,37,"keenii","Myotis","Keen's Myotis",LC,S,-16731116
+40,36,"evotis","Myotis","Long-eared Myotis",LC,S,-16731116
+41,35,"auriculus","Myotis","Southwestern Myotis",LC,U,-16731116
+42,34,"bechsteinii","Myotis","BECHSTEIN'S MYOTIS",NT,D,-12486656
+45,44,"hermani","Myotis","Herman's Myotis",DD,U,-11513776
+46,44,"formosus","Myotis","Hodgson's Bat",LC,U,-16731116
+47,43,"welwitschii","Myotis","Welwitch's Bat",LC,U,-16731116
+50,49,"cobanensis","Myotis","Guatemalan Myotis",DD,U,-11513776
+51,49,"yumanensis","Myotis","Yuma Myotis",LC,S,-16731116
+52,48,"austroriparius","Myotis","Southeastern Myotis",LC,S,-16731116

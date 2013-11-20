@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Locale;
+import java.util.PriorityQueue;
 import java.util.Stack;
 
 import junit.framework.Assert;
@@ -25,16 +26,16 @@ public class BinaryInitializer {
 	Hashtable<Integer, InteriorNode> interiorHash;
 	Hashtable<Integer, LeafNode> leafHash;
 	LinkedList<Pair<Integer, MidNode>> listOfHeadNodeInNextFile;
-	public Stack<MidNode> stackOfNodeHasNonInitChildren;
+	public PriorityQueue<MidNode> stackOfNodeHasNonInitChildren;
 	static Context canvasActivity;
 	boolean dynamic = false;
-	private static int fileIndex;
+	public static int fileIndex;
 
 	public BinaryInitializer() {
 		interiorHash = new Hashtable<Integer, InteriorNode>(200);
 		leafHash = new Hashtable<Integer, LeafNode>(200);
 		listOfHeadNodeInNextFile = new LinkedList<Pair<Integer,MidNode>>();
-		stackOfNodeHasNonInitChildren = new Stack<MidNode>();
+		stackOfNodeHasNonInitChildren = new PriorityQueue<MidNode>();
 	}
 	
 	public static void setContext(Context context) {
@@ -52,7 +53,9 @@ public class BinaryInitializer {
 		} else {
 			infos = findFileAndIndexInfo(midnode.child2Index);
 		}
-		return createTreeStartFromFileIndex(Integer.toString(infos[1]), childIndex, midnode);
+		int fileIndex = infos[1];
+		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
+		return createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(fileIndex), childIndex, midnode);
 	}
 
 	public MidNode createTreeStartFromFileIndex(String fileIndex, int childIndex, MidNode parent) {
@@ -67,7 +70,7 @@ public class BinaryInitializer {
 				else {
 					Assert.assertEquals(pair.second.child1Index < 0, true);
 					Assert.assertNull(pair.second.child1);
-					stackOfNodeHasNonInitChildren.push(pair.second);
+					stackOfNodeHasNonInitChildren.add(pair.second);
 				}
 			} else {
 				Assert.assertEquals(pair.first, Integer.valueOf(2));
@@ -78,8 +81,7 @@ public class BinaryInitializer {
 				else {
 					Assert.assertEquals(pair.second.child2Index < 0, true);
 					Assert.assertNull(pair.second.child2);
-					Log.d("debug", "stack node for child2. child2index.: " + pair.second.child2Index);
-					stackOfNodeHasNonInitChildren.push(pair.second);
+					stackOfNodeHasNonInitChildren.add(pair.second);
 				}
 			}	
 		}
@@ -205,7 +207,7 @@ public class BinaryInitializer {
 		int [] infos = new int[2];
 		infos[0] = 0;
 		infos[1] = child1Id >> 10;
-		infos[1] = infos[1] & 0x03FF;
+		infos[1] = infos[1] & 0x03FFFF;
 		return infos;
 	}
 
@@ -246,13 +248,13 @@ public class BinaryInitializer {
 
 	public void idleTimeInitialization() {
 		if (!stackOfNodeHasNonInitChildren.isEmpty()) {
-			MidNode interNode = stackOfNodeHasNonInitChildren.pop();
+			MidNode interNode = stackOfNodeHasNonInitChildren.poll();
+			//internode might have been deleted...
+			if (interNode == null) return;
 			if (interNode.child1 == null) {
-				Log.d("debug", "stack child1 id: " + interNode.child1Index);
 				Assert.assertEquals(interNode.child1Index < 0, true);
 				interNode.child1 = createTreeStartFromTailNode(1, interNode);
 			} else if (interNode.child2 == null){
-				Log.d("debug", "stack child2 id: " + interNode.child2Index);
 				Assert.assertNull(interNode.child2);
 				Assert.assertEquals(interNode.child2Index < 0, true);
 				interNode.child2 = createTreeStartFromTailNode(2, interNode);

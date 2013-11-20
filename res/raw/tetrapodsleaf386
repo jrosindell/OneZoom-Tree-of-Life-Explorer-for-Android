@@ -1,0 +1,52 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"mossoensis","Arthroleptis","",DD,U,-11513776
+12,10,"sylvaticus","Arthroleptis","",LC,D,-16731116
+14,13,"bivittatus","Arthroleptis","",DD,U,-11513776
+15,13,"phrynoides","Arthroleptis","",DD,U,-11513776
+17,16,"reichei","Arthroleptis","",NT,D,-12486656
+18,16,"zimmeri","Arthroleptis","",DD,U,-11513776
+19,7,"tuberosus","Arthroleptis","",DD,D,-11513776
+24,23,"crusculum","Arthroleptis","",EN,D,-8572416
+25,23,"spinalis","Arthroleptis","",DD,U,-11513776
+26,22,"stenodactylus","Arthroleptis","Common Squeaker",LC,S,-16731116
+27,21,"francei","Arthroleptis","",EN,D,-8572416
+28,20,"wahlbergii","Arthroleptis","Bush Squeaker",LC,D,-16731116
+31,30,"xenochirus","Arthroleptis","Plain Squeaker",LC,S,-16731116
+32,30,"variabilis","Arthroleptis","",LC,D,-16731116
+33,29,"nikeae","Arthroleptis","",EN,D,-8572416
+41,40,"discodactylus","Arthroleptis","",DD,U,-11513776
+42,40,"lameerei","Arthroleptis","",LC,U,-16731116
+43,39,"brevipes","Arthroleptis","",DD,U,-11513776
+45,44,"milletihorsini","Arthroleptis","",NE,U,-16777216
+46,44,"affinis","Arthroleptis","",LC,S,-16731116
+48,47,"xenodactylus","Arthroleptis","",VU,D,-11184866
+49,47,"tanneri","Arthroleptis","",VU,D,-11184866
+50,36,"xenodactyloides","Arthroleptis","Dwarf Squeaker",LC,D,-16731116
+53,52,"troglodytes","Arthroleptis","Cave Squeaker",CR,D,-3014646
+54,52,"adolfifriederici","Arthroleptis","",LC,D,-16731116
+55,51,"taeniatus","Arthroleptis","",LC,D,-16731116
+56,34,"nimbaensis","Arthroleptis","",DD,U,-11513776
+61,60,"loveridgei","Arthroleptis","",DD,U,-11513776
+62,60,"carquejai","Arthroleptis","",DD,U,-11513776
+63,59,"schubotzi","Arthroleptis","",LC,U,-16731116
+65,64,"vercammeni","Arthroleptis","",DD,U,-11513776
+66,64,"adelphus","Arthroleptis","",LC,D,-16731116
+67,57,"hematogaster","Arthroleptis","",DD,U,-11513776
+69,68,"pyrrhoscelis","Arthroleptis","",NT,U,-12486656
+70,68,"poecilonotus","Arthroleptis","",LC,S,-16731116
+77,76,"leucomystax","Cardioglossa","",LC,D,-16731116
+78,76,"schioetzi","Cardioglossa","",EN,D,-8572416
+80,79,"melanogaster","Cardioglossa","",EN,D,-8572416
+81,79,"venusta","Cardioglossa","",EN,D,-8572416
+84,83,"trifasciata","Cardioglossa","",CR,D,-3014646
+85,83,"escalerae","Cardioglossa","",LC,D,-16731116
+86,82,"alsco","Cardioglossa","",CR,D,-3014646
+89,88,"pulchra","Cardioglossa","",EN,D,-8572416
+90,88,"elegans","Cardioglossa","",LC,D,-16731116
+91,87,"aureoli","Cardioglossa","",EN,D,-8572416
+94,93,"cyaneospila","Cardioglossa","",DD,U,-11513776
+95,93,"oreas","Cardioglossa","",EN,D,-8572416
+96,92,"nigromaculata","Cardioglossa","",NT,D,-12486656
+98,97,"gracilis","Cardioglossa","",LC,D,-16731116
+99,97,"gratiosa","Cardioglossa","",LC,D,-16731116
+100,0,"gabonicus","Scotobleps","",LC,D,-16731116

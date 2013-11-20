@@ -1,103 +1,49 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"onsloviana","Lerista","",NE,U,-16777216
-14,12,"bipes","Lerista","",NE,U,-16777216
-15,11,"frosti","Lerista","",NE,U,-16777216
-16,10,"greeri","Lerista","",NE,U,-16777216
-19,18,"distinguenda","Lerista","",NE,U,-16777216
-20,18,"labialis","Lerista","",NE,U,-16777216
-21,17,"orientalis","Lerista","",NE,U,-16777216
-26,25,"fragilis","Lerista","",NE,U,-16777216
-27,25,"dorsalis","Lerista","",NE,U,-16777216
-28,24,"karlschmidti","Lerista","",NE,U,-16777216
-29,23,"allanae","Lerista","Allan's Lerista",CR,U,-3014646
-31,30,"punctatovittata","Lerista","",NE,U,-16777216
-32,30,"simillima","Lerista","",NE,U,-16777216
-40,39,"connivens","Lerista","",NE,U,-16777216
-41,39,"gerrardi","Lerista","",NE,U,-16777216
-42,38,"stylis","Lerista","",NE,U,-16777216
-44,43,"griffini","Lerista","",NE,U,-16777216
-45,43,"cinerea","Lerista","",NE,U,-16777216
-46,36,"lineopunctulata","Lerista","",NE,U,-16777216
-47,35,"terdigitata","Lerista","",NE,U,-16777216
-48,34,"muelleri","Lerista","",NE,U,-16777216
-52,51,"picturata","Lerista","",NE,U,-16777216
-53,51,"neander","Lerista","",NE,U,-16777216
-54,50,"wilkinsi","Lerista","",NE,U,-16777216
-55,49,"borealis","Lerista","",NE,U,-16777216
-58,57,"desertorum","Lerista","",NE,U,-16777216
-59,57,"ameles","Lerista","",NE,U,-16777216
-60,56,"xanthura","Lerista","",NE,U,-16777216
-67,66,"planiventralis","Lerista","",NE,U,-16777216
-68,66,"stictopleura","Lerista","",NE,U,-16777216
-70,69,"bougainvillii","Lerista","",NE,U,-16777216
-71,69,"praepedita","Lerista","",NE,U,-16777216
-72,64,"ips","Lerista","",NE,U,-16777216
-73,63,"macropisthopus","Lerista","",NE,U,-16777216
-75,74,"vittata","Lerista","Mount Cooper Striped Lerista",EN,U,-8572416
-76,74,"microtis","Lerista","",NE,U,-16777216
-79,78,"uniduo","Lerista","",NE,U,-16777216
-80,78,"apoda","Lerista","",NE,U,-16777216
-81,77,"tetradactyla","Lerista","",NE,U,-16777216
-89,88,"australis","Ctenotus","",NE,U,-16777216
-90,88,"robustus","Ctenotus","",NE,U,-16777216
-91,87,"grandis","Ctenotus","",NE,U,-16777216
-92,86,"schevilli","Ctenotus","",NE,U,-16777216
-93,85,"pulchellus","Ctenotus","",NE,U,-16777216
-95,94,"taeniolatus","Ctenotus","",NE,U,-16777216
-96,94,"pantherinus","Ctenotus","",NE,U,-16777216
-99,98,"labillardieri","Ctenotus","",NE,U,-16777216
-100,98,"rubicundus","Ctenotus","",NE,U,-16777216
-102,101,"essingtoni","Ctenotus","",NE,U,-16777216
-103,101,"brooksi","Ctenotus","",NE,U,-16777216
-105,104,"youngsoni","Ctenotus","",NE,U,-16777216
-106,104,"fallens","Ctenotus","",NE,U,-16777216
-107,3,"mccoyi","Nannoscincus","",NE,U,-16777216
-118,117,"brachysoma","Eulamprus","",NE,U,-16777216
-119,117,"martini","Eulamprus","",NE,U,-16777216
-120,116,"tigrinus","Eulamprus","",NE,U,-16777216
-121,115,"tenuis","Eulamprus","",NE,U,-16777216
-122,114,"amplus","Eulamprus","",NE,U,-16777216
-123,113,"heatwolei","Eulamprus","",NE,U,-16777216
-125,124,"luteilateralis","Eulamprus","",NE,U,-16777216
-126,124,"tympanum","Eulamprus","",EN,U,-8572416
-129,128,"leuraensis","Eulamprus","Blue Mountain Water Skink",EN,U,-8572416
-130,128,"quoyii","Eulamprus","",NE,U,-16777216
-131,127,"murrayi","Eulamprus","",NE,U,-16777216
-132,110,"queenslandiae","Gnypetoscincus","",NE,U,-16777216
-136,135,"cooloolensis","Ophioscincus","",NE,U,-16777216
-137,135,"ophioscincus","Ophioscincus","",NE,U,-16777216
-138,134,"truncatus","Ophioscincus","",NE,U,-16777216
-141,140,"reticulatum","Coeranoscincus","",NE,U,-16777216
-142,140,"frontalis","Coeranoscincus","",NE,U,-16777216
-143,139,"equalis","Saiphos","",NE,U,-16777216
-147,146,"scutirostrum","Calyptotis","",NE,U,-16777216
-148,146,"temporalis","Calyptotis","",NE,U,-16777216
-150,149,"lepidorostrum","Calyptotis","",NE,U,-16777216
-151,149,"ruficauda","Calyptotis","",NE,U,-16777216
-152,144,"thorntonensis","Calyptotis","",NE,U,-16777216
-155,154,"spenceri","Pseudemoia","",NE,U,-16777216
-156,154,"baudini","Pseudemoia","",NE,U,-16777216
-157,153,"entrecasteauxii","Pseudemoia","",NE,U,-16777216
-165,164,"punctatus","Glaphyromorphus","",NE,U,-16777216
-166,164,"douglasi","Glaphyromorphus","",NE,U,-16777216
-167,163,"fuscicaudis","Glaphyromorphus","",NE,U,-16777216
-169,168,"mjobergi","Glaphyromorphus","",NE,U,-16777216
-170,168,"pumilus","Glaphyromorphus","",NE,U,-16777216
-172,171,"gracilipes","Glaphyromorphus","",NE,U,-16777216
-173,171,"pardalis","Glaphyromorphus","",NE,U,-16777216
-178,177,"crassicaudus","Glaphyromorphus","",NE,U,-16777216
-179,177,"mjoebergi","Glaphyromorphus","",NE,U,-16777216
-180,176,"darwiniensis","Glaphyromorphus","",NE,U,-16777216
-182,181,"nigricaudis","Glaphyromorphus","",NE,U,-16777216
-183,181,"cracens","Glaphyromorphus","",NE,U,-16777216
-184,174,"arnhemicus","Glaphyromorphus","",NE,U,-16777216
-185,159,"isolepis","Glaphyromorphus","",NE,U,-16777216
-192,191,"talinis","Brachymeles","Dumeril's Short-legged Skink",LC,S,-16731116
-193,191,"pathfinderi","Brachymeles","Cotabato Worm Skink",DD,U,-11513776
-195,194,"bonitae","Brachymeles","Stub-limbed Burrowing Skink",LC,S,-16731116
-196,194,"samarensis","Brachymeles","Two-digit Worm Skink",LC,S,-16731116
-198,197,"schadenbergi","Brachymeles","",LC,S,-16731116
-199,197,"gracilis","Brachymeles","",LC,S,-16731116
-200,188,"boulengeri","Brachymeles","Boulenger's Short-legged Skink",LC,S,-16731116
-201,187,"tridactylus","Brachymeles","Negros Three-digit Worm Skink",LC,S,-16731116
-202,186,"zia","Cautula","",NE,U,-16777216
+10,9,"megala","Gallinago","Swinhoe's Snipe",LC,U,-16731116
+11,9,"stenura","Gallinago","Pintail Snipe",LC,U,-16731116
+13,12,"solitaria","Gallinago","Solitary Snipe",LC,U,-16731116
+14,12,"media","Gallinago","Great Snipe",NT,U,-12486656
+16,15,"stricklandii","Gallinago","Fuegian Snipe",NT,U,-12486656
+17,15,"imperialis","Gallinago","Imperial Snipe",NT,U,-12486656
+19,18,"undulata","Gallinago","Giant Snipe",LC,U,-16731116
+20,18,"andina","Gallinago","Puna Snipe",LC,U,-16731116
+21,5,"jamesoni","Gallinago","Andean Snipe",LC,U,-16731116
+27,26,"nigripennis","Gallinago","African Snipe",LC,U,-16731116
+28,26,"nemoricola","Gallinago","Wood Snipe",VU,U,-11184866
+29,25,"paraguaiae","Gallinago","South American Snipe",LC,U,-16731116
+30,24,"gallinago","Gallinago","Common Snipe",LC,U,-16731116
+31,23,"hardwickii","Gallinago","Latham's Snipe",LC,U,-16731116
+33,32,"macrodactyla","Gallinago","Madagascar Snipe",VU,U,-11184866
+34,32,"nobilis","Gallinago","Noble Snipe",LC,U,-16731116
+36,35,"aucklandica","Coenocorypha","New Zealand Snipe",NT,U,-12486656
+37,35,"pusilla","Coenocorypha","Chatham Snipe",VU,U,-11184866
+42,41,"rosenbergii","Scolopax","New Guinea Woodcock",LC,U,-16731116
+43,41,"rusticola","Scolopax","Eurasian Woodcock",LC,U,-16731116
+45,44,"rochussenii","Scolopax","Moluccan Woodcock",EN,U,-8572416
+46,44,"celebensis","Scolopax","Sulawesi Woodcock",NT,U,-12486656
+48,47,"minor","Scolopax","American Woodcock",LC,U,-16731116
+49,47,"mira","Scolopax","Ryukyu Woodcock",VU,U,-11184866
+51,50,"bukidnonensis","Scolopax","Philippine Woodcock",LC,U,-16731116
+52,50,"saturata","Scolopax","Javan Woodcock",NT,U,-12486656
+55,54,"scolopaceus","Limnodromus","Long-billed Dowitcher",LC,U,-16731116
+56,54,"semipalmatus","Limnodromus","Asian Dowitcher",NT,U,-12486656
+57,53,"griseus","Limnodromus","Short-billed Dowitcher",LC,U,-16731116
+66,65,"melanoleuca","Tringa","Greater Yellowlegs",LC,U,-16731116
+67,65,"nebularia","Tringa","Common Greenshank",LC,U,-16731116
+69,68,"guttifer","Tringa","Spotted Greenshank",EN,U,-8572416
+70,68,"erythropus","Tringa","Spotted Redshank",LC,U,-16731116
+73,72,"glareola","Tringa","Wood Sandpiper",LC,U,-16731116
+74,72,"totanus","Tringa","Common Redshank",LC,U,-16731116
+75,71,"stagnatilis","Tringa","Marsh Sandpiper",LC,U,-16731116
+77,76,"semipalmatus","Catoptrophorus","Willet",LC,U,-16731116
+78,76,"flavipes","Tringa","Lesser Yellowlegs",LC,U,-16731116
+80,79,"brevipes","Heteroscelus","Grey-tailed Tattler",LC,U,-16731116
+81,79,"incanus","Heteroscelus","Wandering Tattler",LC,U,-16731116
+83,82,"solitaria","Tringa","Solitary Sandpiper",LC,U,-16731116
+84,82,"ochropus","Tringa","Green Sandpiper",LC,U,-16731116
+86,85,"macularius","Actitis","Spotted Sandpiper",LC,U,-16731116
+87,85,"hypoleucos","Actitis","Common Sandpiper",LC,U,-16731116
+91,90,"lobatus","Phalaropus","Red-necked Phalarope",LC,U,-16731116
+92,90,"fulicarius","Phalaropus","Red Phalarope",LC,U,-16731116
+93,89,"tricolor","Steganopus","Wilson's Phalarope",LC,U,-16731116
+94,88,"cinereus","Xenus","Terek Sandpiper",LC,U,-16731116

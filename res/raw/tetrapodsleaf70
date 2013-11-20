@@ -1,104 +1,89 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"duodecimcostatus","Microtus","Mediterranean Pine Vole",LC,S,-16731116
-16,14,"lusitanicus","Microtus","Lusitanian Pine Vole",LC,U,-16731116
-17,13,"thomasi","Microtus","Thomas's Pine Vole",LC,S,-16731116
-18,12,"schelkovnikovi","Microtus","Schelkovnikov's Pine Vole",NT,D,-12486656
-22,21,"bavaricus","Microtus","Bavarian Pine Vole",CR,D,-3014646
-23,21,"tatricus","Microtus","Tatra Vole",LC,S,-16731116
-24,20,"subterraneus","Microtus","Common Pine Vole",LC,S,-16731116
-25,19,"daghestanicus","Microtus","Caucasus Pine Vole",LC,U,-16731116
-30,29,"brachycercus","Microtus","Calabria Pine Vole",LC,S,-16731116
-31,29,"savii","Microtus","Savi's Pine Vole",LC,S,-16731116
-32,28,"felteni","Microtus","Balkan Pine Vole",DD,U,-11513776
-33,27,"gerbei","Microtus","Gerbe's Vole",LC,S,-16731116
-35,34,"liechtensteini","Microtus","Liechtenstein's Pine Vole",LC,U,-16731116
-36,34,"multiplex","Microtus","Alpine Pine Vole",LC,S,-16731116
-37,9,"majori","Microtus","",LC,S,-16731116
-38,8,"umbrosus","Microtus","Zempoaltepec Vole",EN,D,-8572416
-45,44,"sachalinensis","Microtus","Sakhalin Vole",NT,U,-12486656
-46,44,"mongolicus","Microtus","Mongolian Vole",LC,S,-16731116
-47,43,"middendorffii","Microtus","Middendorff's Vole",LC,U,-16731116
-50,49,"maximowiczii","Microtus","Maximowicz's Vole",LC,U,-16731116
-51,49,"mujanensis","Microtus","Muisk Vole",DD,U,-11513776
-52,48,"evoronensis","Microtus","Evoron Vole",DD,U,-11513776
-53,41,"fortis","Microtus","Reed Vole",LC,U,-16731116
-57,56,"forresti","Neodon","Forrest's Mountain Vole",DD,U,-11513776
-58,56,"irene","Neodon","Irene's Mountain Vole",LC,U,-16731116
-59,55,"sikimensis","Neodon","Sikkim Vole",LC,U,-16731116
-61,60,"leucurus","Phaiomys","Blyth's Vole",LC,U,-16731116
-62,60,"juldaschi","Neodon","Juniper Vole",LC,U,-16731116
-65,64,"gregalis","Microtus","Narrow-headed Vole",LC,S,-16731116
-66,64,"miurus","Microtus","Singing Vole",LC,S,-16731116
-67,63,"abbreviatus","Microtus","Insular Vole",LC,S,-16731116
-72,71,"paradoxus","Microtus","Kopetdag Pine Vole",LC,U,-16731116
-73,71,"irani","Microtus","Persian Vole",DD,U,-11513776
-74,70,"guentheri","Microtus","Gunther's Vole",LC,S,-16731116
-76,75,"schidlovskii","Microtus","Schidlovsky Pine Vole",LC,U,-16731116
-77,75,"socialis","Microtus","Social Vole",LC,S,-16731116
-81,80,"ilaeus","Microtus","Kazakhstan Vole",LC,U,-16731116
-82,80,"arvalis","Microtus","Common Vole",LC,S,-16731116
-83,79,"transcaspicus","Microtus","Baluchistan Vole",LC,U,-16731116
-84,78,"levis","Microtus","East European Vole",LC,S,-16731116
-88,87,"montebelli","Microtus","Japanese Grass Vole",LC,S,-16731116
-89,87,"limnophilus","Microtus","Lacustrine Vole",LC,U,-16731116
-90,86,"oeconomus","Microtus","Root Vole",LC,S,-16731116
-92,91,"cabrerae","Microtus","Cabrera's Vole",NT,D,-12486656
-93,91,"agrestis","Microtus","Field Vole",LC,S,-16731116
-102,101,"pennsylvanicus","Microtus","Chihuahua Vole",LC,S,-16731116
-103,101,"townsendii","Microtus","Townsend's Vole",LC,S,-16731116
-104,100,"breweri","Microtus","Beach Vole",VU,S,-11184866
-105,99,"californicus","Microtus","Amargosa Vole",LC,S,-16731116
-108,107,"canicaudus","Microtus","Gray-tailed Vole",LC,S,-16731116
-109,107,"montanus","Microtus","Montane Vole",LC,S,-16731116
-110,106,"oregoni","Microtus","Creeping Vole",LC,S,-16731116
-114,113,"xanthognathus","Microtus","Taiga Vole",LC,S,-16731116
-115,113,"richardsoni","Microtus","Water Vole",LC,S,-16731116
-116,112,"chrotorrhinus","Microtus","Rock Vole",LC,D,-16731116
-118,117,"quasiater","Microtus","Jalapan Pine Vole",NT,D,-12486656
-119,117,"pinetorum","Microtus","Woodland Vole",LC,S,-16731116
-120,96,"guatemalensis","Microtus","Guatemalan Vole",NT,D,-12486656
-123,122,"longicaudus","Microtus","Long-tailed Vole",LC,S,-16731116
-124,122,"mexicanus","Microtus","Mexican Vole",LC,U,-16731116
-125,121,"oaxacensis","Microtus","Tarabundi Vole",EN,D,-8572416
-126,94,"ochrogaster","Microtus","Prairie Vole",LC,S,-16731116
-127,3,"alleni","Neofiber","Round-tailed Muskrat",LC,D,-16731116
-134,133,"unalascensis","Dicrostonyx","Umnak Island Collared Lemming",DD,U,-11513776
-135,133,"nelsoni","Dicrostonyx","Nelson's Collared Lemming",LC,S,-16731116
-136,132,"hudsonius","Dicrostonyx","Ungava Collared Lemming",LC,S,-16731116
-137,131,"groenlandicus","Dicrostonyx","Neartic Collared Lemming",LC,U,-16731116
-138,130,"nunatakensis","Dicrostonyx","Ogilvie Mountains Collared Lemming",LC,U,-16731116
-141,140,"richardsoni","Dicrostonyx","Richardson's Collared Lemming",LC,S,-16731116
-142,140,"torquatus","Dicrostonyx","Arctic Lemming",LC,S,-16731116
-143,139,"vinogradovi","Dicrostonyx","Wrangel Island Collared Lemming",DD,U,-11513776
-146,145,"roberti","Chionomys","Robert's Snow Vole",LC,U,-16731116
-147,145,"nivalis","Chionomys","European Snow Vole",LC,S,-16731116
-148,144,"gud","Chionomys","Caucasian Snow Vole",LC,U,-16731116
-152,151,"clarkei","Microtus","Clarke's Vole",LC,S,-16731116
-153,151,"kikuchii","Microtus","Taiwan Vole",NT,U,-12486656
-154,150,"millicens","Volemys","Sichuan Vole",DD,U,-11513776
-155,149,"musseri","Volemys","Marie's Vole",DD,U,-11513776
-165,164,"talpinus","Ellobius","Northern Mole Vole",LC,D,-16731116
-166,164,"tancrei","Ellobius","Zaisan Mole Vole",LC,U,-16731116
-167,163,"fuscocapillus","Ellobius","Afghan Mole-vole",LC,U,-16731116
-168,162,"lutescens","Ellobius","Mountain Mole Vole",LC,U,-16731116
-169,161,"alaicus","Ellobius","Alai Mole Vole",DD,U,-11513776
-170,160,"schaposchnikowi","Prometheomys","Long-clawed Mole Vole",NT,D,-12486656
-174,173,"longicaudus","Arborimus","Red Tree Vole",NT,D,-12486656
-175,173,"albipes","Arborimus","White-footed Vole",LC,U,-16731116
-176,172,"pomo","Arborimus","California Red Tree Mouse",NT,D,-12486656
-178,177,"intermedius","Phenacomys","Western Heather Vole",LC,S,-16731116
-179,177,"ungava","Phenacomys","Eastern Heather Vole",LC,S,-16731116
-182,181,"mandarinus","Lasiopodomys","Mandarin Vole",LC,U,-16731116
-183,181,"fuscus","Lasiopodomys","Smokey Vole",LC,U,-16731116
-184,180,"brandtii","Lasiopodomys","Brandt's Vole",LC,S,-16731116
-187,186,"bucharensis","Blanfordimys","Bucharian Vole",LC,U,-16731116
-188,186,"afghanus","Blanfordimys","Afghan Vole",LC,U,-16731116
-189,185,"zibethicus","Ondatra","Muskrat",LC,S,-16731116
-196,195,"sibiricus","Lemmus","Brown Lemming",LC,S,-16731116
-197,195,"portenkoi","Lemmus","",DD,U,-11513776
-198,194,"trimucronatus","Lemmus","Brown Lemming",LC,S,-16731116
-199,193,"amurensis","Lemmus","Amur Lemming",LC,U,-16731116
-200,192,"lemmus","Lemmus","Norway Lemming",LC,S,-16731116
-201,191,"schisticolor","Myopus","Wood Lemming",LC,U,-16731116
-203,202,"borealis","Synaptomys","Northern Bog Lemming",LC,U,-16731116
-204,202,"cooperi","Synaptomys","Kansas Bog Lemming",LC,U,-16731116
+15,14,"pachycephaloides","Clytorhynchus","Southern Shrikebill",LC,U,-16731116
+16,14,"vitiensis","Clytorhynchus","Fiji Shrikebill",LC,U,-16731116
+17,13,"sanctaecrucis","Clytorhynchus","Santa Cruz Shrikebill",EN,U,-8572416
+18,12,"hamlini","Clytorhynchus","Rennell Shrikebill",LC,U,-16731116
+19,11,"nigrogularis","Clytorhynchus","Black-throated Shrikebill",VU,U,-11184866
+22,21,"schistaceus","Mayrornis","Vanikoro Monarch",NT,U,-12486656
+23,21,"lessoni","Mayrornis","Slaty Monarch",LC,U,-16731116
+24,20,"versicolor","Mayrornis","Ogea Monarch",VU,U,-11184866
+26,25,"banksiana","Neolalage","Buff-bellied Monarch",LC,U,-16731116
+27,25,"castus","Monarcha","Loetoe Monarch",LC,U,-16731116
+31,30,"whitneyi","Pomarea","Fatuhiva Monarch",CR,U,-3014646
+32,30,"iphis","Pomarea","Iphis Monarch",VU,U,-11184866
+33,29,"mendozae","Pomarea","Marquesan Monarch",EN,U,-8572416
+35,34,"dimidiata","Pomarea","Rarotonga Monarch",EN,U,-8572416
+36,34,"nigra","Pomarea","Tahiti Monarch",CR,U,-3014646
+39,38,"rowleyi","Eutrichomyias","Cerulean Paradise-flycatcher",CR,U,-3014646
+40,38,"sandwichensis","Chasiempis","Elepaio",VU,U,-11184866
+41,37,"brehmii","Monarcha","Biak Monarch",EN,U,-8572416
+48,47,"castaneiventris","Monarcha","Chestnut-bellied Monarch",LC,U,-16731116
+49,47,"richardsii","Monarcha","White-capped Monarch",LC,U,-16731116
+51,50,"melanopsis","Monarcha","Black-faced Monarch",LC,U,-16731116
+52,50,"frater","Monarcha","Black-winged Monarch",LC,U,-16731116
+53,45,"cinerascens","Monarcha","Island Monarch",LC,U,-16731116
+55,54,"erythrostictus","Monarcha","Bougainville Monarch",LC,U,-16731116
+56,54,"sacerdotum","Monarcha","Flores Monarch",EN,U,-8572416
+58,57,"everetti","Monarcha","White-tipped Monarch",EN,U,-8572416
+59,57,"takatsukasae","Monarcha","Tinian Monarch",VU,U,-11184866
+61,60,"rugensis","Metabolus","Chuuk Monarch",EN,U,-8572416
+62,60,"godeffroyi","Monarcha","Yap Monarch",NT,U,-12486656
+65,64,"verticalis","Monarcha","Black-tailed Monarch",LC,U,-16731116
+66,64,"loricatus","Monarcha","Black-tipped Monarch",LC,U,-16731116
+67,63,"boanensis","Monarcha","Black-chinned Monarch",CR,U,-3014646
+72,71,"leucurus","Monarcha","White-tailed Monarch",NT,U,-12486656
+73,71,"infelix","Monarcha","Manus Monarch",NT,U,-12486656
+74,70,"browni","Monarcha","Kolombangara Monarch",NT,U,-12486656
+75,69,"leucotis","Monarcha","White-eared Monarch",LC,U,-16731116
+77,76,"pileatus","Monarcha","White-naped Monarch",LC,U,-16731116
+78,76,"chrysomela","Monarcha","Golden Monarch",LC,U,-16731116
+84,83,"viduus","Monarcha","White-collared Monarch",LC,U,-16731116
+85,83,"manadensis","Monarcha","Hooded Monarch",LC,U,-16731116
+86,82,"menckei","Monarcha","White-breasted Monarch",NT,U,-12486656
+87,81,"axillaris","Monarcha","Black Monarch",LC,U,-16731116
+89,88,"julianae","Monarcha","Black-backed Monarch",VU,U,-11184866
+90,88,"rubiensis","Monarcha","Rufous Monarch",LC,U,-16731116
+94,93,"trivirgatus","Monarcha","Spectacled Monarch",LC,U,-16731116
+95,93,"guttula","Monarcha","Spot-winged Monarch",LC,U,-16731116
+96,92,"mundus","Monarcha","Black-bibbed Monarch",LC,U,-16731116
+97,91,"barbatus","Monarcha","Black-and-white Monarch",NT,U,-12486656
+107,106,"caledonica","Myiagra","Melanesian Flycatcher",LC,U,-16731116
+108,106,"erythrops","Myiagra","Mangrove Flycatcher",LC,U,-16731116
+109,105,"inquieta","Myiagra","Restless Flycatcher",LC,U,-16731116
+110,104,"cervinicauda","Myiagra","Makira Flycatcher",NT,U,-12486656
+112,111,"ferrocyanea","Myiagra","Steel-blue Flycatcher",LC,U,-16731116
+113,111,"rubecula","Myiagra","Leaden Flycatcher",LC,U,-16731116
+114,102,"cyanoleuca","Myiagra","Satin Flycatcher",LC,U,-16731116
+116,115,"ruficollis","Myiagra","Broad-billed Flycatcher",LC,U,-16731116
+117,115,"galeata","Myiagra","Dark-grey Flycatcher",LC,U,-16731116
+118,100,"pluto","Myiagra","Pohnpei Flycatcher",LC,U,-16731116
+122,121,"azureocapilla","Myiagra","Blue-crested Flycatcher",LC,U,-16731116
+123,121,"oceanica","Myiagra","Oceanic Flycatcher",LC,U,-16731116
+125,124,"albiventris","Myiagra","Samoan Flycatcher",VU,U,-11184866
+126,124,"alecto","Myiagra","Shining Flycatcher",LC,U,-16731116
+129,128,"vanikorensis","Myiagra","Vanikoro Flycatcher",LC,U,-16731116
+130,128,"atra","Myiagra","Biak Flycatcher",NT,U,-12486656
+131,127,"hebetior","Myiagra","Dull Flycatcher",LC,U,-16731116
+134,133,"insularis","Arses","Rufous-collared Monarch",LC,U,-16731116
+135,133,"telescophthalmus","Arses","Frilled Monarch",LC,U,-16731116
+136,132,"kaupi","Arses","Pied Monarch",LC,U,-16731116
+138,137,"cyanoleuca","Grallina","Magpie-lark",LC,U,-16731116
+139,137,"bruijni","Grallina","Torrent-lark",LC,U,-16731116
+148,147,"cyanescens","Terpsiphone","Blue Paradise-flycatcher",NT,U,-12486656
+149,147,"smithii","Terpsiphone","Annobon Paradise Flycatcher",_U,[,-16777216
+150,146,"rufiventer","Terpsiphone","Black-headed Paradise-flycatcher",LC,U,-16731116
+151,145,"cinnamomea","Terpsiphone","Rufous Paradise-flycatcher",LC,U,-16731116
+152,144,"atrochalybeia","Terpsiphone","Sao Tome Paradise-flycatcher",LC,U,-16731116
+156,155,"corvina","Terpsiphone","Seychelles Paradise-flycatcher",CR,U,-3014646
+157,155,"paradisi","Terpsiphone","Asian Paradise-flycatcher",LC,U,-16731116
+158,154,"mutata","Terpsiphone","Madagascar Paradise-flycatcher",LC,U,-16731116
+160,159,"rufocinerea","Terpsiphone","Rufous-vented Paradise-flycatcher",LC,U,-16731116
+161,159,"viridis","Terpsiphone","African Paradise-flycatcher",LC,U,-16731116
+164,163,"bourbonnensis","Terpsiphone","Mascarene Paradise-flycatcher",LC,U,-16731116
+165,163,"bedfordi","Terpsiphone","Bedford's Paradise-flycatcher",NT,U,-12486656
+166,162,"atrocaudata","Terpsiphone","Japanese Paradise-flycatcher",NT,U,-12486656
+169,168,"coelestis","Hypothymis","Celestial Monarch",VU,U,-11184866
+170,168,"azurea","Hypothymis","Black-naped Monarch",LC,U,-16731116
+171,167,"helenae","Hypothymis","Short-crested Monarch",NT,U,-12486656
+173,172,"cyanomelas","Trochocercus","African Crested-flycatcher",LC,U,-16731116
+174,172,"nitens","Trochocercus","Blue-headed Crested-flycatcher",LC,U,-16731116

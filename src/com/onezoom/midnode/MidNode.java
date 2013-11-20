@@ -11,7 +11,7 @@ import com.onezoom.midnode.displayBinary.BinaryPrecalculator;
 import com.onezoom.midnode.displayBinary.BinaryTraitsCalculator;
 import com.onezoom.midnode.displayBinary.BinaryVisualizer;
 
-public abstract class MidNode{
+public abstract class MidNode implements Comparable<MidNode>{
 	public static int countDrawElement = 0;
 	public static int countVisitedElement = 0;
 	public static BinaryInitializer initializer = new BinaryInitializer();
@@ -114,5 +114,10 @@ public abstract class MidNode{
 	public void recalculateDynamic(float xp, float yp, float ws) {
 		initializer.setDynamic(true);
 		positionCalculator.recalculateDynamic(xp, yp, ws, this);
+	}
+	
+	@Override
+	public int compareTo(MidNode another) {
+		return this.positionData.compareTo(another.positionData);
 	}
 }

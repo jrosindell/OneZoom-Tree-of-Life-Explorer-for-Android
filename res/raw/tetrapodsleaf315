@@ -1,0 +1,44 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"iserni","Rhinella","Rio Perene Toad",DD,U,-11513776
+12,10,"acutirostris","Rhinella","",LC,S,-16731116
+13,9,"stanlaii","Rhinella","",LC,S,-16731116
+14,8,"proboscidea","Rhinella","",LC,S,-16731116
+17,16,"margaritifera","Rhinella","South American Common Toad",LC,S,-16731116
+18,16,"scitula","Rhinella","",DD,U,-11513776
+19,15,"roqueana","Rhinella","",LC,U,-16731116
+21,20,"ceratophrys","Rhinella","",LC,S,-16731116
+22,20,"cristinae","Rhinella","",DD,U,-11513776
+24,23,"sclerocephala","Rhinella","",EN,D,-8572416
+25,23,"castaneotica","Rhinella","",LC,S,-16731116
+26,4,"dapsilis","Rhinella","",LC,S,-16731116
+27,3,"intermedia","Rhinella","",NE,U,-16777216
+33,32,"festae","Rhamphophryne","",NE,U,-16777216
+34,32,"tenrec","Rhamphophryne","",NE,U,-16777216
+35,31,"rostrata","Rhamphophryne","",NE,U,-16777216
+37,36,"macrorhina","Rhamphophryne","",NE,U,-16777216
+38,36,"truebae","Rhamphophryne","",NE,U,-16777216
+39,29,"proboscidea","Rhamphophryne","",NE,U,-16777216
+42,41,"acrolopha","Rhamphophryne","",NE,U,-16777216
+43,41,"nicefori","Rhamphophryne","",NE,U,-16777216
+45,44,"lindae","Rhamphophryne","",NE,U,-16777216
+46,44,"ruizi","Rhamphophryne","",NE,U,-16777216
+53,52,"rhopophilius","Pelophryne","",NE,U,-16777216
+54,52,"brevipes","Pelophryne","",LC,D,-16731116
+55,51,"guentheri","Pelophryne","",VU,D,-11184866
+57,56,"signata","Pelophryne","",NT,D,-12486656
+58,56,"misera","Pelophryne","",VU,D,-11184866
+59,49,"macrotis","Pelophryne","",DD,U,-11513776
+62,61,"albotaeniata","Pelophryne","",EN,D,-8572416
+63,61,"api","Pelophryne","",EN,D,-8572416
+64,60,"lighti","Pelophryne","",VU,D,-11184866
+65,47,"scalpta","Parapelophryne","",EN,D,-8572416
+72,71,"galeatus","Ingerophrynus","Bony-headed Toad",LC,U,-16731116
+73,71,"parvus","Ingerophrynus","",LC,D,-16731116
+74,70,"biporcatus","Ingerophrynus","Crested Toad",LC,S,-16731116
+75,69,"kumquat","Ingerophrynus","",EN,D,-8572416
+76,68,"celebensis","Ingerophrynus","Sulawesian Toad",LC,S,-16731116
+78,77,"philippinicus","Ingerophrynus","Philippine Toad",LC,S,-16731116
+79,77,"divergens","Ingerophrynus","",LC,D,-16731116
+82,81,"quadriporcatus","Ingerophrynus","",LC,U,-16731116
+83,81,"macrotis","Ingerophrynus","",LC,D,-16731116
+84,80,"claviger","Ingerophrynus","",EN,D,-8572416

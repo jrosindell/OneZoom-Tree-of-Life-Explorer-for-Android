@@ -1,7 +1,7 @@
 package com.onezoom.midnode;
 
 
-public class PositionData {
+public class PositionData implements Comparable<PositionData>{
 	public float bezsx, bezsy, bezex, bezey, bezc1x, bezc1y, bezc2x, bezc2y, bezr;
 	public float xvar, yvar, rvar;
 	public float arcAngle, arcx, arcy, arcr;
@@ -9,6 +9,8 @@ public class PositionData {
 	public float hxmax, hymax, hxmin, hymin, gxmax, gymax, gxmin, gymin;
 	private static int screenXmin, screenXmax, screenYmin, screenYmax;
 	public boolean dvar, gvar;
+	public boolean nodeInsideScreen;
+	public int distanceToScreean;
 	private static final float threshold = 3f;
 	public static float xp = 0f;
 	public static float yp = 0f;
@@ -34,10 +36,12 @@ public class PositionData {
 	}
 	
 	public boolean horizonInsideScreen() {
+		nodeInsideScreen = false;
 		if (hxmax * rvar + xvar < screenXmin) return false;
 		if (hymax * rvar + yvar < screenYmin) return false;
 		if (hxmin * rvar + xvar > screenXmax) return false;
 		if (hymin * rvar + yvar > screenYmax) return false;
+		nodeInsideScreen = true;
 		return true;
 	}
 
@@ -70,5 +74,14 @@ public class PositionData {
 
 	public static float getWs() {
 		return ws;
+	}
+
+	@Override
+	public int compareTo(PositionData another) {
+		if (this.nodeInsideScreen == true && another.nodeInsideScreen == false) return 1;
+		if (this.nodeInsideScreen == false && another.nodeInsideScreen == true) return -1;
+		else if (this.rvar > another.rvar) return 1;
+		else if (this.rvar < another.rvar) return -1;
+		return 0;
 	}
 }

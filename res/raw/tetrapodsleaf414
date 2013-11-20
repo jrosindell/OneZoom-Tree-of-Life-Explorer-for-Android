@@ -1,0 +1,27 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"latitans","Eurycea","Cascade Caverns Salamander",VU,D,-11184866
+11,9,"quadridigitata","Eurycea","Dwarf Salamander",LC,S,-16731116
+12,8,"guttolineata","Eurycea","Three-lined Salamander",LC,S,-16731116
+13,7,"pterophila","Eurycea","Blanco River Springs Salamander",DD,U,-11513776
+14,6,"neotenes","Eurycea","Texas Salamander",VU,U,-11184866
+15,5,"robusta","Eurycea","Blanco Blind Salamander",DD,U,-11513776
+19,18,"cirrigera","Eurycea","Southern Two-lined Salamander",LC,S,-16731116
+20,18,"wallacei","Eurycea","Georgia Blind Salamander",VU,U,-11184866
+21,17,"troglodytes","Eurycea","Eurycea Troglodytes Complex",DD,U,-11513776
+22,16,"chisholmensis","Eurycea","Chisholm Trail Salamander",VU,U,-11184866
+27,26,"chamberlaini","Eurycea","Chamberlain's Dwarf Salamander",DD,U,-11513776
+28,26,"junaluska","Eurycea","Junaluska Salamander",VU,S,-11184866
+29,25,"waterlooensis","Eurycea","Austin Blind Salamander",VU,U,-11184866
+30,24,"bislineata","Eurycea","Northern Two-lined Salamander",LC,S,-16731116
+31,23,"spelaea","Eurycea","Grotto Salamander",LC,U,-16731116
+36,35,"tonkawae","Eurycea","Jollyville Plateau Salamander",EN,D,-8572416
+37,35,"longicauda","Eurycea","Longtail Salamander",LC,S,-16731116
+38,34,"tynerensis","Eurycea","Oklahoma Salamander",NT,D,-12486656
+40,39,"multiplicata","Eurycea","Many-ribbed Salamander",LC,S,-16731116
+41,39,"tridentifera","Eurycea","Comal Blind Salamander",VU,U,-11184866
+43,42,"sosorum","Eurycea","Barton Springs Salamander",VU,S,-11184866
+44,42,"nana","Eurycea","San Marcos Salamander",VU,S,-11184866
+45,1,"wilderae","Eurycea","Blue Ridge Two-lined Salamander",LC,S,-16731116
+48,47,"naufragia","Eurycea","San Gabriel Springs Salamander",EN,D,-8572416
+49,47,"rathbuni","Eurycea","Texas Blind Salamander",VU,S,-11184866
+50,46,"lucifuga","Eurycea","Cave Salamander",LC,U,-16731116

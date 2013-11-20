@@ -1,139 +1,94 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"nigripennis","Oriolus","Black-winged Oriole",LC,U,-16731116
-16,14,"percivali","Oriolus","Black-tailed Oriole",LC,U,-16731116
-17,13,"larvatus","Oriolus","African Black-headed Oriole",LC,U,-16731116
-18,12,"monacha","Oriolus","Dark-headed Oriole",LC,U,-16731116
-21,20,"oriolus","Oriolus","Eurasian Golden Oriole",LC,U,-16731116
-22,20,"chinensis","Oriolus","Black-naped Oriole",LC,U,-16731116
-23,19,"auratus","Oriolus","African Golden Oriole",LC,U,-16731116
-24,10,"crassirostris","Oriolus","Sao Tome Oriole",VU,U,-11184866
-27,26,"brachyrhynchus","Oriolus","Western Black-headed Oriole",LC,U,-16731116
-28,26,"chlorocephalus","Oriolus","Green-headed Oriole",LC,U,-16731116
-29,25,"xanthornus","Oriolus","Black-hooded Oriole",LC,U,-16731116
-32,31,"cruentus","Oriolus","Black-and-crimson Oriole",LC,U,-16731116
-33,31,"hosii","Oriolus","Black Oriole",NT,U,-12486656
-34,30,"traillii","Oriolus","Maroon Oriole",LC,U,-16731116
-39,38,"albiloris","Oriolus","White-lored Oriole",LC,U,-16731116
-40,38,"isabellae","Oriolus","Isabela Oriole",CR,U,-3014646
-41,37,"steerii","Oriolus","Philippine Oriole",LC,U,-16731116
-42,36,"xanthonotus","Oriolus","Dark-throated Oriole",NT,U,-12486656
-43,35,"tenuirostris","Oriolus","Slender-billed Oriole",LC,U,-16731116
-49,48,"melanotis","Oriolus","Olive-brown Oriole",LC,U,-16731116
-50,48,"szalayi","Oriolus","Brown Oriole",LC,U,-16731116
-51,47,"flavocinctus","Oriolus","Green Oriole",LC,U,-16731116
-52,46,"sagittatus","Oriolus","Olive-backed Oriole",LC,U,-16731116
-54,53,"forsteni","Oriolus","Grey-collared Oriole",LC,U,-16731116
-55,53,"bouroensis","Oriolus","Black-eared Oriole",LC,U,-16731116
-56,44,"phaeochromus","Oriolus","Dusky-brown Oriole",LC,U,-16731116
-57,5,"mellianus","Oriolus","Silver Oriole",VU,U,-11184866
-60,59,"vieilloti","Sphecotheres","Australasian Figbird",LC,U,-16731116
-61,59,"viridis","Sphecotheres","Timor Figbird",LC,U,-16731116
-62,58,"hypoleucus","Sphecotheres","Wetar Figbird",NT,U,-12486656
-65,64,"kirhocephalus","Pitohui","Variable Pitohui",LC,U,-16731116
-66,64,"dichrous","Pitohui","Hooded Pitohui",LC,U,-16731116
-68,67,"montium","Paramythia","Crested Berrypecker",LC,U,-16731116
-69,67,"arfaki","Oreocharis","Tit Berrypecker",LC,U,-16731116
-83,82,"crassirostris","Vireo","Thick-billed Vireo",LC,U,-16731116
-84,82,"gracilirostris","Vireo","Noronha Vireo",NT,U,-12486656
-86,85,"flavifrons","Vireo","Yellow-throated Vireo",LC,U,-16731116
-87,85,"brevipennis","Vireo","Slaty Vireo",LC,U,-16731116
-91,90,"plumbeus","Vireo","Plumbeous Vireo",LC,U,-16731116
-92,90,"cassinii","Vireo","Cassin's Vireo",LC,U,-16731116
-93,89,"solitarius","Vireo","Blue-headed Vireo",LC,U,-16731116
-94,88,"magister","Vireo","Yucatan Vireo",LC,U,-16731116
-95,79,"gundlachii","Vireo","Cuban Vireo",LC,U,-16731116
-98,97,"vicinior","Vireo","Grey Vireo",LC,U,-16731116
-99,97,"nelsoni","Vireo","Dwarf Vireo",LC,U,-16731116
-100,96,"huttoni","Vireo","Hutton's Vireo",LC,U,-16731116
-101,77,"carmioli","Vireo","Yellow-winged Vireo",LC,U,-16731116
-107,106,"latimeri","Vireo","Puerto Rican Vireo",LC,U,-16731116
-108,106,"bellii","Vireo","Bell's Vireo",NT,U,-12486656
-109,105,"atricapilla","Vireo","Black-capped Vireo",VU,U,-11184866
-110,104,"griseus","Vireo","White-eyed Vireo",LC,U,-16731116
-111,103,"bairdi","Vireo","Cozumel Vireo",LC,U,-16731116
-113,112,"caribaeus","Vireo","San Andres Vireo",VU,U,-11184866
-114,112,"masteri","Vireo","Choco Vireo",EN,U,-8572416
-118,117,"osburni","Vireo","Blue Mountain Vireo",NT,U,-12486656
-119,117,"pallens","Vireo","Mangrove Vireo",LC,U,-16731116
-120,116,"hypochryseus","Vireo","Golden Vireo",LC,U,-16731116
-121,115,"modestus","Vireo","Jamaican Vireo",LC,U,-16731116
-125,124,"philadelphicus","Vireo","Philadelphia Vireo",LC,U,-16731116
-126,124,"leucophrys","Vireo","Brown-capped Vireo",LC,U,-16731116
-128,127,"nanus","Vireo","Flat-billed Vireo",LC,U,-16731116
-129,127,"gilvus","Vireo","Warbling Vireo",LC,U,-16731116
-132,131,"altiloquus","Vireo","Black-whiskered Vireo",LC,U,-16731116
-133,131,"flavoviridis","Vireo","Yellow-green Vireo",LC,U,-16731116
-134,130,"olivaceus","Vireo","Red-eyed Vireo",LC,U,-16731116
-141,140,"poicilotis","Hylophilus","Rufous-crowned Greenlet",LC,U,-16731116
-142,140,"pectoralis","Hylophilus","Ashy-headed Greenlet",LC,U,-16731116
-143,139,"muscicapinus","Hylophilus","Buff-cheeked Greenlet",LC,U,-16731116
-144,138,"ochraceiceps","Hylophilus","Tawny-crowned Greenlet",LC,U,-16731116
-146,145,"semicinereus","Hylophilus","Grey-chested Greenlet",LC,U,-16731116
-147,145,"sclateri","Hylophilus","Tepui Greenlet",LC,U,-16731116
-150,149,"hypoxanthus","Hylophilus","Dusky-capped Greenlet",LC,U,-16731116
-151,149,"olivaceus","Hylophilus","Olivaceous Greenlet",LC,U,-16731116
-153,152,"amaurocephalus","Hylophilus","Grey-eyed Greenlet",LC,U,-16731116
-154,152,"decurtatus","Hylophilus","Lesser Greenlet",LC,U,-16731116
-158,157,"aurantiifrons","Hylophilus","Golden-fronted Greenlet",LC,U,-16731116
-159,157,"brunneiceps","Hylophilus","Brown-headed Greenlet",LC,U,-16731116
-160,156,"flavipes","Hylophilus","Scrub Greenlet",LC,U,-16731116
-162,161,"semibrunneus","Hylophilus","Rufous-naped Greenlet",LC,U,-16731116
-163,161,"thoracicus","Hylophilus","Lemon-chested Greenlet",LC,U,-16731116
-167,166,"melitophrys","Vireolanius","Chestnut-sided Shrike-vireo",LC,U,-16731116
-168,166,"leucotis","Vireolanius","Slaty-capped Shrike-vireo",LC,U,-16731116
-169,165,"eximius","Vireolanius","Yellow-browed Shrike-vireo",LC,U,-16731116
-170,164,"pulchellus","Vireolanius","Green Shrike-vireo",LC,U,-16731116
-173,172,"nigrirostris","Cyclarhis","Black-billed Peppershrike",LC,U,-16731116
-174,172,"gujanensis","Cyclarhis","Rufous-browed Peppershrike",LC,U,-16731116
-175,171,"zantholeuca","Erpornis","White-bellied Yuhina",LC,U,-16731116
-179,178,"aenobarbus","Pteruthius","Chestnut-fronted Shrike-babbler",LC,U,-16731116
-180,178,"melanotis","Pteruthius","Black-eared Shrike-babbler",LC,U,-16731116
-182,181,"flaviscapis","Pteruthius","White-browed Shrike-babbler",LC,U,-16731116
-183,181,"rufiventer","Pteruthius","Black-headed Shrike-babbler",LC,U,-16731116
-184,176,"xanthochlorus","Pteruthius","Green Shrike-babbler",LC,U,-16731116
-202,201,"albiventris","Pachycephala","Green-backed Whistler",LC,U,-16731116
-203,201,"grisola","Pachycephala","Mangrove Whistler",LC,U,-16731116
-204,200,"sulfuriventer","Pachycephala","Sulphur-bellied Whistler",LC,U,-16731116
-205,199,"hypoxantha","Pachycephala","Bornean Whistler",LC,U,-16731116
-206,198,"philippinensis","Pachycephala","Yellow-bellied Whistler",LC,U,-16731116
-210,209,"modesta","Pachycephala","Brown-backed Whistler",LC,U,-16731116
-211,209,"lorentzi","Pachycephala","Lorentz's Whistler",LC,U,-16731116
-212,208,"leucogastra","Pachycephala","White-bellied Whistler",LC,U,-16731116
-213,207,"umbrina","Colluricincla","Sooty Shrike-thrush",LC,U,-16731116
-219,218,"lanioides","Pachycephala","White-breasted Whistler",LC,U,-16731116
-220,218,"rufiventris","Pachycephala","Rufous Whistler",LC,U,-16731116
-222,221,"griseonota","Pachycephala","Drab Whistler",LC,U,-16731116
-223,221,"tenebrosa","Colluricincla","Morningbird",LC,U,-16731116
-224,216,"arctitorquis","Pachycephala","Wallacean Whistler",LC,U,-16731116
-225,215,"aurea","Pachycephala","Golden-backed Whistler",LC,U,-16731116
-228,227,"hyperythra","Pachycephala","Rusty Whistler",LC,U,-16731116
-229,227,"phaionota","Pachycephala","Island Whistler",LC,U,-16731116
-230,226,"simplex","Pachycephala","Grey Whistler",LC,U,-16731116
-233,232,"melanura","Pachycephala","Black-tailed Whistler",LC,U,-16731116
-234,232,"pectoralis","Pachycephala","Golden Whistler",LC,U,-16731116
-235,231,"implicata","Pachycephala","Hooded Whistler",LC,U,-16731116
-238,237,"homeyeri","Pachycephala","White-vented Whistler",LC,U,-16731116
-239,237,"monacha","Pachycephala","Black-headed Whistler",LC,U,-16731116
-241,240,"schlegelii","Pachycephala","Regent Whistler",LC,U,-16731116
-242,240,"jacquinoti","Pachycephala","Tongan Whistler",NT,U,-12486656
-243,193,"caledonica","Pachycephala","New Caledonian Whistler",LC,U,-16731116
-244,192,"soror","Pachycephala","Sclater's Whistler",LC,U,-16731116
-248,247,"rufogularis","Pachycephala","Red-lored Whistler",NT,U,-12486656
-249,247,"inornata","Pachycephala","Gilbert's Whistler",LC,U,-16731116
-251,250,"meyeri","Pachycephala","Vogelkop Whistler",LC,U,-16731116
-252,250,"olivacea","Pachycephala","Olive Whistler",LC,U,-16731116
-253,245,"orpheus","Pachycephala","Fawn-breasted Whistler",LC,U,-16731116
-255,254,"nudigula","Pachycephala","Bare-throated Whistler",LC,U,-16731116
-256,254,"flavifrons","Pachycephala","Samoan Whistler",LC,U,-16731116
-258,257,"sanghirensis","Colluricincla","Sangihe Shrike-thrush",CR,U,-3014646
-259,257,"raveni","Coracornis","Maroon-backed Whistler",LC,U,-16731116
-260,188,"nigrescens","Pitohui","Black Pitohui",LC,U,-16731116
-265,264,"woodwardi","Colluricincla","Sandstone Shrike-thrush",LC,U,-16731116
-266,264,"harmonica","Colluricincla","Grey Shrike-thrush",LC,U,-16731116
-267,263,"boweri","Colluricincla","Bower's Shrike-thrush",LC,U,-16731116
-268,262,"megarhyncha","Colluricincla","Little Shrike-thrush",LC,U,-16731116
-270,269,"incertus","Pitohui","White-bellied Pitohui",NT,U,-12486656
-271,269,"ferrugineus","Pitohui","Rusty Pitohui",LC,U,-16731116
-272,186,"flavogriseum","Pachycare","Goldenface",LC,U,-16731116
-274,273,"chrysoptera","Daphoenositta","Varied Sittella",LC,U,-16731116
-275,273,"miranda","Daphoenositta","Black Sittella",LC,U,-16731116
+14,13,"timorensis","Bradypterus","Timor Bush-warbler",NT,U,-12486656
+15,13,"brunneus","Dromaeocercus","Brown Emu-tail",LC,U,-16731116
+16,12,"baboecala","Bradypterus","African Bush-warbler",LC,U,-16731116
+17,11,"graueri","Bradypterus","Grauer's Swamp-warbler",EN,U,-8572416
+19,18,"carpalis","Bradypterus","White-winged Scrub-warbler",LC,U,-16731116
+20,18,"neumanni","Hemitesia","Neumann's Warbler",LC,U,-16731116
+25,24,"palliseri","Bradypterus","Sri Lanka Bush-warbler",NT,U,-12486656
+26,24,"barratti","Bradypterus","African Scrub-warbler",LC,U,-16731116
+27,23,"lopezi","Bradypterus","Cameroon Scrub-warbler",LC,U,-16731116
+28,22,"cinnamomeus","Bradypterus","Bracken Warbler",LC,U,-16731116
+29,21,"bangwaensis","Bradypterus","Bangwa Forest Warbler",NT,U,-12486656
+32,31,"major","Bradypterus","Long-billed Bush-warbler",NT,U,-12486656
+33,31,"sylvaticus","Bradypterus","Knysna Warbler",VU,U,-11184866
+34,30,"accentor","Bradypterus","Friendly Bush-warbler",LC,U,-16731116
+36,35,"brevirostris","Schoenicola","Fan-tailed Grassbird",LC,U,-16731116
+37,35,"platyurus","Schoenicola","Broad-tailed Grassbird",VU,U,-11184866
+40,39,"mathewsi","Cincloramphus","Rufous Songlark",LC,U,-16731116
+41,39,"cruralis","Cincloramphus","Brown Songlark",LC,U,-16731116
+43,42,"palustris","Megalurus","Striated Grassbird",LC,U,-16731116
+44,42,"timoriensis","Megalurus","Tawny Grassbird",LC,U,-16731116
+46,45,"albolimbatus","Megalurus","Fly River Grassbird",VU,U,-11184866
+47,45,"gramineus","Megalurus","Little Grassbird",LC,U,-16731116
+49,48,"palustris","Acrocephalus","Marsh Warbler",LC,U,-16731116
+50,48,"pryeri","Locustella","Marsh Grassbird",NT,U,-12486656
+57,56,"whitneyi","Megalurulus","Guadalcanal Thicketbird",NT,U,-12486656
+58,56,"rubiginosus","Megalurulus","Rusty Thicketbird",LC,U,-16731116
+59,55,"grosvenori","Megalurulus","Bismarck Thicketbird",VU,U,-11184866
+61,60,"llaneae","Megalurulus","Bougainville Thicketbird",NT,U,-12486656
+62,60,"mariei","Megalurulus","New Caledonian Grassbird",LC,U,-16731116
+65,64,"randrianasoloi","Cryptosylvicola","Cryptic Warbler",LC,U,-16731116
+66,64,"flavoviridis","Neomixis","Wedge-tailed Jery",NT,U,-12486656
+67,63,"madagascariensis","Oxylabes","White-throated Oxylabes",LC,U,-16731116
+69,68,"xanthophrys","Crossleyia","Madagascar Yellowbrow",NT,U,-12486656
+70,68,"chloropetoides","Thamnornis","Thamnornis Warbler",LC,U,-16731116
+71,51,"atricapilla","Donacobius","Black-capped Donacobius",LC,U,-16731116
+85,84,"mendanae","Acrocephalus","Marquesan Reed-warbler",LC,U,-16731116
+86,84,"atyphus","Acrocephalus","Tuamotu Reed-warbler",LC,U,-16731116
+87,83,"caffer","Acrocephalus","Tahiti Reed-warbler",EN,U,-8572416
+89,88,"vaughani","Acrocephalus","Pitcairn Reed-warbler",EN,U,-8572416
+90,88,"taiti","Acrocephalus","Henderson Reed-warbler",VU,U,-11184866
+92,91,"kerearako","Acrocephalus","Cook Islands Reed-warbler",NT,U,-12486656
+93,91,"rimatarae","Acrocephalus","Rimatara Reed-warbler",VU,U,-11184866
+96,95,"aequinoctialis","Acrocephalus","Kiritimati Reed-warbler",EN,U,-8572416
+97,95,"australis","Acrocephalus","Australian Reed-warbler",LC,U,-16731116
+98,94,"familiaris","Acrocephalus","Millerbird",CR,U,-3014646
+99,79,"sorghophilus","Acrocephalus","Streaked Reed-warbler",VU,U,-11184866
+101,100,"stentoreus","Acrocephalus","Clamorous Reed-warbler",LC,U,-16731116
+102,100,"arundinaceus","Acrocephalus","Great Reed-warbler",LC,U,-16731116
+106,105,"gracilirostris","Acrocephalus","Lesser Swamp-warbler",LC,U,-16731116
+107,105,"luscinius","Acrocephalus","Nightingale Reed-warbler",CR,U,-3014646
+109,108,"rufescens","Acrocephalus","Greater Swamp-warbler",LC,U,-16731116
+110,108,"brevipennis","Acrocephalus","Cape Verde Warbler",EN,U,-8572416
+112,111,"newtoni","Acrocephalus","Madagascar Swamp-warbler",LC,U,-16731116
+113,111,"sechellensis","Acrocephalus","Seychelles Warbler",VU,U,-11184866
+114,76,"griseldis","Acrocephalus","Basra Reed-warbler",EN,U,-8572416
+119,118,"scirpaceus","Acrocephalus","Eurasian Reed-warbler",LC,U,-16731116
+120,118,"baeticatus","Acrocephalus","African Reed Warbler",_U,[,-16777216
+122,121,"orinus","Acrocephalus","Large-billed Reed-warbler",DD,U,-11513776
+123,121,"dumetorum","Acrocephalus","Blyth's Reed-warbler",LC,U,-16731116
+127,126,"tangorum","Acrocephalus","Manchurian Reed-warbler",VU,U,-11184866
+128,126,"rehsei","Acrocephalus","Nauru Reed-warbler",VU,U,-11184866
+129,125,"concinens","Acrocephalus","Blunt-winged Warbler",LC,U,-16731116
+130,124,"agricola","Acrocephalus","Paddyfield Warbler",LC,U,-16731116
+134,133,"paludicola","Acrocephalus","Aquatic Warbler",VU,U,-11184866
+135,133,"striata","Chaetornis","Bristled Grassbird",VU,U,-11184866
+136,132,"bistrigiceps","Acrocephalus","Black-browed Reed-warbler",LC,U,-16731116
+139,138,"rodericanus","Acrocephalus","Rodrigues Warbler",EN,U,-8572416
+140,138,"schoenobaenus","Acrocephalus","Sedge Warbler",LC,U,-16731116
+141,137,"melanopogon","Acrocephalus","Moustached Warbler",LC,U,-16731116
+148,147,"natalensis","Chloropeta","Yellow Flycatcher-warbler",LC,U,-16731116
+149,147,"similis","Chloropeta","Mountain Flycatcher-warbler",LC,U,-16731116
+150,146,"pallida","Hippolais","Eastern Olivaceous Warbler",LC,U,-16731116
+151,145,"opaca","Hippolais","Western Olivaceous Warbler",LC,U,-16731116
+153,152,"caligata","Hippolais","Booted Warbler",LC,U,-16731116
+154,152,"rama","Hippolais","Sykes's Warbler",LC,U,-16731116
+156,155,"syrinx","Acrocephalus","Caroline Islands Reed-warbler",LC,U,-16731116
+157,155,"aedon","Acrocephalus","Thick-billed Warbler",LC,U,-16731116
+158,142,"gracilirostris","Chloropeta","Papyrus Yellow Warbler",VU,U,-11184866
+161,160,"olivetorum","Hippolais","Olive-tree Warbler",LC,U,-16731116
+162,160,"languida","Hippolais","Upcher's Warbler",LC,U,-16731116
+164,163,"polyglotta","Hippolais","Melodious Warbler",LC,U,-16731116
+165,163,"icterina","Hippolais","Icterine Warbler",LC,U,-16731116
+170,169,"lantzii","Nesillas","Lantz's Brush-warbler",LC,U,-16731116
+171,169,"mariae","Nesillas","Moheli Warbler",LC,U,-16731116
+172,168,"brevicaudata","Nesillas","Grand Comoro Brush-warbler",LC,U,-16731116
+173,167,"longicaudata","Nesillas","Anjouan Brush-warbler",LC,U,-16731116
+174,166,"typica","Nesillas","Madagascar Brush-warbler",LC,U,-16731116
+178,177,"flavigaster","Hyliota","Yellow-bellied Hyliota",LC,U,-16731116
+179,177,"usambara","Hyliota","Usambara Hyliota",EN,U,-8572416
+181,180,"violacea","Hyliota","Violet-backed Hyliota",LC,U,-16731116
+182,180,"australis","Hyliota","Southern Hyliota",LC,U,-16731116
+184,183,"inquieta","Scotocerca","Streaked Scrub-warbler",LC,U,-16731116
+185,183,"bocagei","Amaurocichla","Sao Tome Short-tail",VU,U,-11184866

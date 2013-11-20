@@ -1,104 +1,29 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"intermedius","Ploceus","Lesser Masked Weaver",LC,U,-16731116
-17,15,"bertrandi","Ploceus","Bertrand's Weaver",LC,U,-16731116
-18,14,"reichardi","Ploceus","Tanzania Masked-weaver",LC,U,-16731116
-19,13,"ruweti","Ploceus","Lake Lufira Weaver",DD,U,-11513776
-22,21,"taeniopterus","Ploceus","Northern Masked-weaver",LC,U,-16731116
-23,21,"melanocephalus","Ploceus","Black-headed Weaver",LC,U,-16731116
-24,20,"olivaceiceps","Ploceus","Olive-headed Weaver",NT,U,-12486656
-26,25,"burnieri","Ploceus","Kilombero Weaver",VU,U,-11184866
-27,25,"aurantius","Ploceus","Orange Weaver",LC,U,-16731116
-31,30,"nigrimentus","Ploceus","Black-chinned Weaver",LC,U,-16731116
-32,30,"bannermani","Ploceus","Bannerman's Weaver",VU,U,-11184866
-33,29,"grandis","Ploceus","Giant Weaver",LC,U,-16731116
-35,34,"xanthopterus","Ploceus","Southern Brown-throated Weaver",LC,U,-16731116
-36,34,"badius","Ploceus","Cinnamon Weaver",LC,U,-16731116
-39,38,"flavipes","Ploceus","Yellow-legged Weaver",VU,U,-11184866
-40,38,"cucullatus","Ploceus","Village Weaver",LC,U,-16731116
-41,37,"nigerrimus","Ploceus","Vieillot's Black Weaver",LC,U,-16731116
-47,46,"ocularis","Ploceus","Spectacled Weaver",LC,U,-16731116
-48,46,"capensis","Ploceus","Cape Weaver",LC,U,-16731116
-49,45,"velatus","Ploceus","Southern Masked-weaver",LC,U,-16731116
-50,44,"subaureus","Ploceus","African Golden Weaver",LC,U,-16731116
-52,51,"alienus","Ploceus","Strange Weaver",LC,U,-16731116
-53,51,"luteolus","Ploceus","Little Weaver",LC,U,-16731116
-54,42,"rubiginosus","Ploceus","Chestnut Weaver",LC,U,-16731116
-56,55,"melanogaster","Ploceus","Black-billed Weaver",LC,U,-16731116
-57,55,"bicolor","Ploceus","Forest Weaver",LC,U,-16731116
-59,58,"heuglini","Ploceus","Heuglin's Masked-weaver",LC,U,-16731116
-60,58,"subpersonatus","Ploceus","Loango Weaver",VU,U,-11184866
-64,63,"vitellinus","Ploceus","Vitelline Masked-weaver",LC,U,-16731116
-65,63,"golandi","Ploceus","Clarke's Weaver",EN,U,-8572416
-66,62,"albinucha","Ploceus","Maxwell's Black Weaver",LC,U,-16731116
-68,67,"castaneiceps","Ploceus","Taveta Golden Weaver",LC,U,-16731116
-69,67,"jacksoni","Ploceus","Golden-backed Weaver",LC,U,-16731116
-73,72,"dorsomaculatus","Ploceus","Yellow-capped Weaver",LC,U,-16731116
-74,72,"spekeoides","Ploceus","Fox's Weaver",NT,U,-12486656
-75,71,"bojeri","Ploceus","Golden Palm Weaver",LC,U,-16731116
-76,70,"nicolli","Ploceus","Usambara Weaver",EN,U,-8572416
-82,81,"nigricollis","Ploceus","Black-necked Weaver",LC,U,-16731116
-83,81,"spekei","Ploceus","Speke's Weaver",LC,U,-16731116
-85,84,"temporalis","Ploceus","Bocage's Weaver",LC,U,-16731116
-86,84,"batesi","Ploceus","Bates's Weaver",EN,U,-8572416
-89,88,"xanthops","Ploceus","Holub's Golden Weaver",LC,U,-16731116
-90,88,"insignis","Ploceus","Brown-capped Weaver",LC,U,-16731116
-91,87,"angolensis","Ploceus","Bar-winged Weaver",LC,U,-16731116
-93,92,"castanops","Ploceus","Northern Brown-throated Weaver",LC,U,-16731116
-94,92,"pelzelni","Ploceus","Slender-billed Weaver",LC,U,-16731116
-99,98,"katangae","Ploceus","Katanga Masked-weaver",LC,U,-16731116
-100,98,"preussi","Ploceus","Preuss's Weaver",LC,U,-16731116
-102,101,"sakalava","Ploceus","Sakalava Weaver",LC,U,-16731116
-103,101,"weynsi","Ploceus","Weyns's Weaver",LC,U,-16731116
-104,96,"baglafecht","Ploceus","Baglafecht Weaver",LC,U,-16731116
-108,107,"philippinus","Ploceus","Baya Weaver",LC,U,-16731116
-109,107,"manyar","Ploceus","Streaked Weaver",LC,U,-16731116
-110,106,"hypoxanthus","Ploceus","Asian Golden Weaver",NT,U,-12486656
-111,105,"tricolor","Ploceus","Yellow-mantled Weaver",LC,U,-16731116
-117,116,"superciliosus","Ploceus","Compact Weaver",LC,U,-16731116
-118,116,"megarhynchus","Ploceus","Yellow Weaver",VU,U,-11184866
-119,115,"princeps","Ploceus","Principe Golden Weaver",LC,U,-16731116
-120,114,"dichrocephalus","Ploceus","Salvadori's Weaver",LC,U,-16731116
-123,122,"aureonucha","Ploceus","Golden-naped Weaver",EN,U,-8572416
-124,122,"nelicourvi","Ploceus","Nelicourvi Weaver",LC,U,-16731116
-125,121,"galbula","Ploceus","Rueppell's Weaver",LC,U,-16731116
-127,126,"benghalensis","Ploceus","Black-breasted Weaver",LC,U,-16731116
-128,126,"sanctithomae","Ploceus","Sao Tome Weaver",LC,U,-16731116
-135,134,"erythrogaster","Malimbus","Red-bellied Malimbe",LC,U,-16731116
-136,134,"nitens","Malimbus","Gray's Malimbe",LC,U,-16731116
-138,137,"scutatus","Malimbus","Red-vented Malimbe",LC,U,-16731116
-139,137,"ibadanensis","Malimbus","Ibadan Malimbe",EN,U,-8572416
-140,132,"ballmanni","Malimbus","Gola Malimbe",EN,U,-8572416
-142,141,"racheliae","Malimbus","Rachel's Malimbe",LC,U,-16731116
-143,141,"malimbicus","Malimbus","Crested Malimbe",LC,U,-16731116
-145,144,"rubricollis","Malimbus","Red-headed Malimbe",LC,U,-16731116
-146,144,"coronatus","Malimbus","Red-crowned Malimbe",LC,U,-16731116
-147,129,"cassini","Malimbus","Black-throated Malimbe",LC,U,-16731116
-158,157,"psammocromius","Euplectes","Buff-shouldered Widowbird",LC,U,-16731116
-159,157,"progne","Euplectes","Long-tailed Widowbird",LC,U,-16731116
-160,156,"jacksoni","Euplectes","Jackson's Widowbird",NT,U,-12486656
-161,155,"hartlaubi","Euplectes","Marsh Widowbird",LC,U,-16731116
-163,162,"albonotatus","Euplectes","White-winged Widowbird",LC,U,-16731116
-164,162,"axillaris","Euplectes","Fan-tailed Widowbird",LC,U,-16731116
-165,153,"macroura","Euplectes","Yellow-shouldered Widowbird",LC,U,-16731116
-166,152,"capensis","Euplectes","Yellow Bishop",LC,U,-16731116
-171,170,"hordeaceus","Euplectes","Black-winged Bishop",LC,U,-16731116
-172,170,"diadematus","Euplectes","Fire-fronted Bishop",LC,U,-16731116
-174,173,"nigroventris","Euplectes","Zanzibar Bishop",LC,U,-16731116
-175,173,"orix","Euplectes","Red Bishop",LC,U,-16731116
-176,168,"ardens","Euplectes","Red-collared Widowbird",LC,U,-16731116
-178,177,"franciscanus","Euplectes","Orange Bishop",LC,U,-16731116
-179,177,"gierowii","Euplectes","Black Bishop",LC,U,-16731116
-180,150,"aureus","Euplectes","Golden-backed Bishop",LC,U,-16731116
-181,149,"afer","Euplectes","Yellow-crowned Bishop",LC,U,-16731116
-188,187,"sechellarum","Foudia","Seychelles Fody",NT,U,-12486656
-189,187,"rubra","Foudia","Mauritius Fody",EN,U,-8572416
-190,186,"eminentissima","Foudia","Red-headed Fody",LC,U,-16731116
-192,191,"madagascariensis","Foudia","Madagascar Red Fody",LC,U,-16731116
-193,191,"flavicans","Foudia","Rodrigues Fody",VU,U,-11184866
-194,184,"omissa","Foudia","Forest Fody",LC,U,-16731116
-196,195,"cabanisi","Pseudonigrita","Black-capped Social-weaver",LC,U,-16731116
-197,195,"arnaudi","Pseudonigrita","Grey-headed Social-weaver",LC,U,-16731116
-201,200,"erythrops","Quelea","Red-headed Quelea",LC,U,-16731116
-202,200,"quelea","Quelea","Red-billed Quelea",LC,U,-16731116
-203,199,"cardinalis","Quelea","Cardinal Quelea",LC,U,-16731116
-204,198,"rubriceps","Anaplectes","Red-headed Weaver",LC,U,-16731116
+10,9,"bonana","Icterus","Martinique Oriole",VU,U,-11184866
+11,9,"oberi","Icterus","Montserrat Oriole",CR,U,-3014646
+12,8,"laudabilis","Icterus","St Lucia Oriole",NT,U,-12486656
+13,7,"cayanensis","Icterus","Epaulet Oriole",LC,U,-16731116
+15,14,"dominicensis","Icterus","Greater Antillean Oriole",LC,U,-16731116
+16,14,"auricapillus","Icterus","Orange-crowned Oriole",LC,U,-16731116
+18,17,"prosthemelas","Icterus","Black-cowled Oriole",LC,U,-16731116
+19,17,"spurius","Icterus","Orchard Oriole",LC,U,-16731116
+20,4,"cucullatus","Icterus","Hooded Oriole",LC,U,-16731116
+22,21,"croconotus","Icterus","Orange-backed Troupial",LC,U,-16731116
+23,21,"wagleri","Icterus","Black-vented Oriole",LC,U,-16731116
+24,2,"maculialatus","Icterus","Bar-winged Oriole",LC,U,-16731116
+28,27,"pectoralis","Icterus","Spot-breasted Oriole",LC,U,-16731116
+29,27,"graceannae","Icterus","White-edged Oriole",LC,U,-16731116
+31,30,"icterus","Icterus","Venezuelan Troupial",LC,U,-16731116
+32,30,"jamacaii","Icterus","Campo Troupial",LC,U,-16731116
+33,25,"mesomelas","Icterus","Yellow-tailed Oriole",LC,U,-16731116
+39,38,"pustulatus","Icterus","Streak-backed Oriole",LC,U,-16731116
+40,38,"bullockii","Icterus","Bullock's Oriole",LC,U,-16731116
+42,41,"abeillei","Icterus","Black-backed Oriole",LC,U,-16731116
+43,41,"galbula","Icterus","Baltimore Oriole",LC,U,-16731116
+46,45,"nigrogularis","Icterus","Yellow Oriole",LC,U,-16731116
+47,45,"gularis","Icterus","Altamira Oriole",LC,U,-16731116
+48,44,"auratus","Icterus","Orange Oriole",LC,U,-16731116
+49,35,"leucopteryx","Icterus","Jamaican Oriole",LC,U,-16731116
+52,51,"chrysater","Icterus","Yellow-backed Oriole",LC,U,-16731116
+53,51,"graduacauda","Icterus","Audubon's Oriole",LC,U,-16731116
+54,50,"parisorum","Icterus","Scott's Oriole",LC,U,-16731116

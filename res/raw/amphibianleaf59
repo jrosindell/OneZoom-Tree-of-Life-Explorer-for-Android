@@ -1,0 +1,22 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"meridianus","Plethodon","South Mountain Gray-cheeked Salamander",VU,S,-11184866
+11,9,"caddoensis","Plethodon","Caddo Mountain Salamander",NT,U,-12486656
+12,8,"shermani","Plethodon","Red-legged Salamander",VU,S,-11184866
+13,7,"sequoyah","Plethodon","Sequoyah Slimy Salamander",DD,U,-11513776
+15,14,"albagula","Plethodon","Western Slimy Salamander",LC,S,-16731116
+16,14,"glutinosus","Plethodon","Slimy Salamander",LC,S,-16731116
+17,5,"aureolus","Plethodon","Tellico Salamander",DD,U,-11513776
+18,4,"ouachitae","Plethodon","Rich Mountain Salamander",NT,S,-12486656
+20,19,"cylindraceus","Plethodon","White-spotted Slimy Salamander",LC,S,-16731116
+21,19,"kentucki","Plethodon","Cumberland Plateau Salamander",LC,S,-16731116
+22,2,"kiamichi","Plethodon","Kiamichi Slimy Salamander",DD,U,-11513776
+27,26,"montanus","Plethodon","Northern Gray-cheeked Salamander",LC,S,-16731116
+28,26,"teyahalee","Plethodon","Southern Appalachian Salamander",LC,S,-16731116
+30,29,"metcalfi","Plethodon","Southern Gray-cheeked Salamander",LC,S,-16731116
+31,29,"cheoah","Plethodon","Cheoah Bald Salamander",VU,S,-11184866
+33,32,"amplus","Plethodon","Blue Ridge Gray-cheeked Salamander",VU,U,-11184866
+34,32,"yonahlossee","Plethodon","Yonahlossee Salamander",LC,S,-16731116
+35,23,"petraeus","Plethodon","Pigeon Mountain Salamander",VU,S,-11184866
+38,37,"fourchensis","Plethodon","Fourche Mountain Salamander",VU,U,-11184866
+39,37,"jordani","Plethodon","Red-cheeked Salamander",NT,S,-12486656
+40,36,"kisatchie","Plethodon","Louisiana Slimy Salamander",LC,U,-16731116

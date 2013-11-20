@@ -1,5 +1,10 @@
 package com.onezoom.midnode.displayBinary;
 
+import android.app.ActivityManager;
+import android.app.ActivityManager.MemoryInfo;
+import android.util.Log;
+
+import com.onezoom.CanvasActivity;
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
@@ -203,6 +208,8 @@ public class BinaryPositionCalculator {
 
 
 	private void dropInvisibleChunk(MidNode midNode, int depth) {
+		//if there are more than 10MB free memory, then return;
+//		if (Runtime.getRuntime().freeMemory() > 10 * 1024 * 1024) return;
 		//only drop it when find in a depth greater than the threshold.
 		//thus if the node's dvar is very close to be true, then choose not to delete it.
 		int threshold = 13;

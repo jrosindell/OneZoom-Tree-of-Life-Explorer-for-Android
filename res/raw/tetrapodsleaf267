@@ -1,0 +1,38 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"diminutus","Eptesicus","Diminutive Serotine",DD,U,-11513776
+14,12,"innoxius","Eptesicus","Harmles Serotine",NT,U,-12486656
+15,11,"bottae","Eptesicus","Botta's Serotine",LC,U,-16731116
+16,10,"platyops","Eptesicus","Lagos Serotine",DD,U,-11513776
+17,9,"tatei","Eptesicus","Sombre Bat",DD,U,-11513776
+19,18,"guadeloupensis","Eptesicus","Guadeloupean Big Brown Bat",VU,U,-11184866
+20,18,"pachyotis","Eptesicus","Thick-eared Bat",LC,U,-16731116
+21,7,"kobayashii","Eptesicus","Kobayashi's Serotine",DD,U,-11513776
+24,23,"andinus","Eptesicus","Little Black Serotinelittle Black Serotine",LC,U,-16731116
+25,23,"chiriquinus","Eptesicus","Chiriquinan Serotine",LC,U,-16731116
+26,22,"brasiliensis","Eptesicus","Brazilian Brown Bat",LC,U,-16731116
+31,30,"hottentotus","Eptesicus","Long-tailed House Bat",LC,U,-16731116
+32,30,"fuscus","Eptesicus","Big Brown Bat",LC,I,-16731116
+33,29,"serotinus","Eptesicus","Serotine",LC,U,-16731116
+34,28,"dimissus","Eptesicus","Surat Serotine",DD,U,-11513776
+35,27,"furinalis","Eptesicus","Argentine Brown Bat",LC,U,-16731116
+39,38,"gobiensis","Eptesicus","Gobi Big Brown Bat",LC,U,-16731116
+40,38,"nilssonii","Eptesicus","Northern Bat",LC,S,-16731116
+41,37,"japonensis","Eptesicus","Japanese Short-tailed Bat",EN,D,-8572416
+42,36,"bobrinskoi","Eptesicus","Bobrinski's Serotine",LC,U,-16731116
+43,3,"nasutus","Eptesicus","Sind Serotine Bat",LC,U,-16731116
+44,2,"floweri","Eptesicus","Horn-skinned Bat",LC,S,-16731116
+45,1,"brachypterus","Philetor","Rohu's Bat",LC,U,-16731116
+54,53,"dinganii","Scotophilus","African Yellow Bat",LC,U,-16731116
+55,53,"robustus","Scotophilus","Robust Yellow Bat",LC,U,-16731116
+56,52,"nux","Scotophilus","Nut-colored Yellow Bat",LC,U,-16731116
+58,57,"leucogaster","Scotophilus","White-bellied Yellow Bat",LC,U,-16731116
+59,57,"nucella","Scotophilus","Robbin's House Bat",DD,U,-11513776
+60,50,"nigrita","Scotophilus","Giant House Bat",LC,D,-16731116
+62,61,"kuhlii","Scotophilus","Lesser Asiatic Yellow House Bat",LC,S,-16731116
+63,61,"collinus","Scotophilus","Sody's Yellow House Bat",LC,U,-16731116
+66,65,"heathii","Scotophilus","Greater Asiatic Yellow House Bat",LC,S,-16731116
+67,65,"celebensis","Scotophilus","Sulawesi Yellow House Bat",DD,U,-11513776
+69,68,"borbonicus","Scotophilus","Lesser Yellow Bat",DD,U,-11513776
+70,68,"viridis","Scotophilus","Greenish Yellow Bat",LC,U,-16731116
+71,47,"ornatus","Scotomanes","Harlequin Bat",LC,U,-16731116
+72,46,"io","Ia","Great Evening Bat",LC,U,-16731116

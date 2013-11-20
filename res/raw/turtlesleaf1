@@ -1,0 +1,47 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"trifasciata","Cuora","Chinese Three-striped Box Turtle",CR,U,-3014646
+10,8,"aurocapitata","Cuora","Yellow-headed Box Turtle",CR,U,-3014646
+11,7,"pani","Cuora","Pan's Box Turtle",CR,U,-3014646
+12,6,"zhoui","Cuora","Zhou's Box Turtle",CR,U,-3014646
+14,13,"philippeni","Ocadia","",NE,U,-16777216
+15,13,"iversoni","Mauremys","",NE,U,-16777216
+20,19,"galbinifrons","Cuora","Indochinese Box Turtle",CR,U,-3014646
+21,19,"picturata","Cuora","",NE,U,-16777216
+22,18,"flavomarginata_evelynae","Cuora","",NE,U,-16777216
+23,17,"mccordi","Cuora","Mccord's Box Turtle",CR,U,-3014646
+24,16,"serrata","Cuora","",NE,U,-16777216
+26,25,"amboinensis_amboinensis","Cuora","",NE,U,-16777216
+27,25,"mouhotii","Pyxidea","",NE,U,-16777216
+33,32,"megalocephala","Mauremys","",NE,U,-16777216
+34,32,"reevesii","Mauremys","",NE,U,-16777216
+35,31,"nigricans","Chinemys","Red-necked Pond Turtle",EN,U,-8572416
+37,36,"sinensis","Mauremys","",NE,U,-16777216
+38,36,"japonica","Mauremys","",NT,U,-12486656
+41,40,"rivulata","Mauremys","",NE,U,-16777216
+42,40,"caspica","Mauremys","",NE,U,-16777216
+43,39,"leprosa","Mauremys","",NE,U,-16777216
+46,45,"annamensis","Mauremys","Annam Leaf Turtle",CR,U,-3014646
+47,45,"glyphistoma","Ocadia","",NE,U,-16777216
+49,48,"pritchardi","Mauremys","",NE,U,-16777216
+50,48,"mutica","Mauremys","",EN,U,-8572416
+59,58,"enigmatica","Cyclemys","",NE,U,-16777216
+60,58,"bellii","Cyclemys","",NE,U,-16777216
+62,61,"orbiculata","Cyclemys","",NE,U,-16777216
+63,61,"ovata","Cyclemys","",NE,U,-16777216
+65,64,"pulchristriata","Cyclemys","",NE,U,-16777216
+66,64,"atripons","Cyclemys","",NE,U,-16777216
+69,68,"dentata","Cyclemys","Asian Leaf Turtle",NT,U,-12486656
+70,68,"shanensis","Cyclemys","",NE,U,-16777216
+72,71,"tcheponensis","Cyclemys","",NE,U,-16777216
+73,71,"oldhamii","Cyclemys","",NE,U,-16777216
+75,74,"gemeli","Cyclemys","",NE,U,-16777216
+76,74,"fusca","Cyclemys","",NE,U,-16777216
+80,79,"grandis","Heosemys","Giant Asian Pond Turtle",VU,U,-11184866
+81,79,"depressa","Heosemys","Arakan Forest Turtle",CR,U,-3014646
+82,78,"annandalii","Heosemys","Yellow-headed Temple Turtle",EN,U,-8572416
+83,77,"spinosa","Heosemys","Spiny Terrapin",EN,U,-8572416
+85,84,"platynota","Notochelys","Malayan Flat-shelled Turtle",VU,U,-11184866
+86,84,"yuwonoi","Leucocephalon","Sulawesi Forest Turtle",CR,U,-3014646
+88,87,"quadriocellata","Sacalia","Four-eyed Turtle",EN,U,-8572416
+89,87,"bealei","Sacalia","Beal'S-eyed Turtle",EN,U,-8572416
+90,0,"trijuga","Melanochelys","Indian Black Turtle",NE,U,-16777216

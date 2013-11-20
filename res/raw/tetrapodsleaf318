@@ -1,0 +1,86 @@
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"lozanoi","Atelopus","",CR,D,-3014646
+15,13,"certus","Atelopus","",EN,D,-8572416
+16,12,"sanjosei","Atelopus","",DD,U,-11513776
+17,11,"arsyecue","Atelopus","",CR,D,-3014646
+20,19,"sonsonensis","Atelopus","",CR,U,-3014646
+21,19,"flavescens","Atelopus","",VU,S,-11184866
+22,18,"pictiventris","Atelopus","",CR,U,-3014646
+24,23,"longibrachius","Atelopus","",EN,D,-8572416
+25,23,"franciscus","Atelopus","",VU,S,-11184866
+28,27,"carbonerensis","Atelopus","Venezuelan Yellow Frog",CR,D,-3014646
+29,27,"exiguus","Atelopus","",CR,D,-3014646
+30,26,"lynchi","Atelopus","",CR,D,-3014646
+33,32,"petriruizi","Atelopus","",CR,U,-3014646
+34,32,"ebenoides","Atelopus","",CR,D,-3014646
+35,31,"mucubajiensis","Atelopus","",CR,D,-3014646
+42,41,"zeteki","Atelopus","Golden Arrow Poison Frog",CR,D,-3014646
+43,41,"andinus","Atelopus","",CR,D,-3014646
+44,40,"guanujo","Atelopus","",CR,D,-3014646
+46,45,"pulcher","Atelopus","",CR,D,-3014646
+47,45,"farci","Atelopus","",CR,D,-3014646
+48,38,"reticulatus","Atelopus","",CR,D,-3014646
+50,49,"monohernandezii","Atelopus","",CR,D,-3014646
+51,49,"dimorphus","Atelopus","",EN,D,-8572416
+56,55,"chrysocorallus","Atelopus","",CR,D,-3014646
+57,55,"senex","Atelopus","",CR,D,-3014646
+58,54,"peruensis","Atelopus","",CR,U,-3014646
+59,53,"pedimarmoratus","Atelopus","",CR,U,-3014646
+61,60,"oxyrhynchus","Atelopus","",CR,D,-3014646
+62,60,"pachydermus","Atelopus","",CR,D,-3014646
+63,5,"palmatus","Atelopus","",DD,U,-11513776
+69,68,"laetissimus","Atelopus","",CR,D,-3014646
+70,68,"seminiferus","Atelopus","",CR,D,-3014646
+72,71,"galactogaster","Atelopus","",CR,U,-3014646
+73,71,"nanay","Atelopus","",CR,D,-3014646
+75,74,"cruciger","Atelopus","Rancho Grande Harlequin Frog",CR,D,-3014646
+76,74,"coynei","Atelopus","",CR,D,-3014646
+78,77,"eusebianus","Atelopus","",CR,D,-3014646
+79,77,"nahumae","Atelopus","",CR,U,-3014646
+83,82,"carrikeri","Atelopus","",CR,D,-3014646
+84,82,"siranus","Atelopus","",DD,U,-11513776
+85,81,"spumarius","Atelopus","",VU,D,-11184866
+87,86,"mandingues","Atelopus","",CR,U,-3014646
+88,86,"nepiozomus","Atelopus","",CR,U,-3014646
+93,92,"mindoensis","Atelopus","",CR,D,-3014646
+94,92,"chocoensis","Atelopus","",CR,D,-3014646
+95,91,"pinangoi","Atelopus","Green And Red Venter Harlequin Toad",CR,D,-3014646
+96,90,"chiriquiensis","Atelopus","",CR,D,-3014646
+100,99,"balios","Atelopus","",CR,D,-3014646
+101,99,"muisca","Atelopus","",CR,D,-3014646
+102,98,"quimbaya","Atelopus","",CR,U,-3014646
+103,97,"carauta","Atelopus","Rio Carauta Stubfoot Toad",CR,D,-3014646
+110,109,"sorianoi","Atelopus","Scarlet Harlequin Toad",CR,D,-3014646
+111,109,"planispina","Atelopus","",CR,D,-3014646
+113,112,"famelicus","Atelopus","",CR,D,-3014646
+114,112,"ignescens","Atelopus","",EX,U,-16777036
+115,107,"nicefori","Atelopus","",CR,U,-3014646
+116,106,"tricolor","Atelopus","Three-coloured Harlequin Toad",VU,D,-11184866
+117,105,"subornatus","Atelopus","",CR,D,-3014646
+118,104,"longirostris","Atelopus","",EX,U,-16777036
+125,124,"guitarraensis","Atelopus","",CR,D,-3014646
+126,124,"halihelos","Atelopus","",CR,D,-3014646
+127,123,"boulengeri","Atelopus","",CR,D,-3014646
+128,122,"angelito","Atelopus","",CR,D,-3014646
+131,130,"tamaensis","Atelopus","Tama Harlequin Frog",CR,D,-3014646
+132,130,"erythropus","Atelopus","",CR,D,-3014646
+133,129,"chrysophorus","Chaunus","",NE,U,-16777216
+136,135,"simulatus","Atelopus","",CR,D,-3014646
+137,135,"elegans","Atelopus","",CR,D,-3014646
+138,134,"limosus","Atelopus","",EN,D,-8572416
+143,142,"varius","Atelopus","Harlequin Frog",CR,D,-3014646
+144,142,"vogli","Atelopus","",EX,U,-16777036
+145,141,"walkeri","Atelopus","",CR,D,-3014646
+148,147,"minutulus","Atelopus","",CR,D,-3014646
+149,147,"sernai","Atelopus","",CR,D,-3014646
+150,146,"glyphus","Atelopus","",CR,D,-3014646
+153,152,"spurrelli","Atelopus","",VU,D,-11184866
+154,152,"arthuri","Atelopus","",CR,D,-3014646
+155,151,"bomolochos","Atelopus","",CR,D,-3014646
+161,160,"bufoniformis","Osornophryne","",NT,D,-12486656
+162,160,"sumacoensis","Osornophryne","",VU,S,-11184866
+163,159,"antisana","Osornophryne","",EN,D,-8572416
+164,158,"percrassa","Osornophryne","Herveo Plump Toad",EN,D,-8572416
+166,165,"talipes","Osornophryne","Cannatella's Plump Toad",EN,D,-8572416
+167,165,"guacamayo","Osornophryne","Guacamayo Plump Toad",EN,D,-8572416
+168,156,"pernambucensis","Frostius","",LC,D,-16731116

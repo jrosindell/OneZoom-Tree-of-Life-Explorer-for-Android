@@ -1,0 +1,50 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"mixtura","Microhyla","Mixtured Pygmy Frog",LC,S,-16731116
+11,9,"annamensis","Microhyla","",LC,D,-16731116
+13,12,"borneensis","Microhyla","",LC,D,-16731116
+14,12,"petrigena","Microhyla","",NT,D,-12486656
+16,15,"palmipes","Microhyla","Palmated Chorus Frog",LC,D,-16731116
+17,15,"marmorata","Microhyla","",LC,U,-16731116
+20,19,"annectens","Microhyla","Larut Hills Rice Frog",DD,U,-11513776
+21,19,"maculifera","Microhyla","",VU,U,-11184866
+22,18,"berdmorei","Microhyla","Berdmore's Chorus Frog",LC,S,-16731116
+26,25,"superciliaris","Microhyla","",DD,U,-11513776
+27,25,"perparva","Microhyla","",NT,D,-12486656
+28,24,"butleri","Microhyla","Butler's Ricefrog",LC,S,-16731116
+29,23,"sholigari","Microhyla","",EN,D,-8572416
+34,33,"heymonsi","Microhyla","Arcuate-spotted Pygmy Frog",LC,S,-16731116
+35,33,"zeylanica","Microhyla","",EN,D,-8572416
+37,36,"nanapollexa","Microhyla","",DD,U,-11513776
+38,36,"fusca","Microhyla","",DD,U,-11513776
+39,31,"karunaratnei","Microhyla","",CR,D,-3014646
+41,40,"achatina","Microhyla","Javan Chorus Frog",LC,S,-16731116
+42,40,"chakrapanii","Microhyla","",DD,U,-11513776
+48,47,"ornata","Microhyla","Ornamented Pygmy Frog",LC,S,-16731116
+49,47,"picta","Microhyla","",DD,U,-11513776
+50,46,"rubra","Microhyla","",LC,S,-16731116
+51,45,"pulchra","Microhyla","Beautiful Pygmy Frog",LC,S,-16731116
+52,44,"pulverata","Microhyla","",DD,U,-11513776
+53,43,"erythropoda","Microhyla","",DD,U,-11513776
+59,58,"guttulata","Calluella","Burmese Squat Frog",LC,S,-16731116
+60,58,"yunnanensis","Calluella","",LC,S,-16731116
+61,57,"volzi","Calluella","",DD,U,-11513776
+63,62,"brooksii","Calluella","",DD,U,-11513776
+64,62,"minuta","Calluella","",DD,U,-11513776
+66,65,"smithi","Calluella","",DD,U,-11513776
+67,65,"flava","Calluella","",DD,U,-11513776
+68,54,"molossus","Glyphoglossus","",NT,D,-12486656
+69,1,"fusca","Chaperina","",LC,U,-16731116
+75,74,"verrucosa","Kaloula","Verrucous Digging Frog",LC,S,-16731116
+76,74,"taprobanica","Kaloula","Sri Lankan Bullfrog",LC,S,-16731116
+77,73,"borealis","Kaloula","Boreal Digging Frog",LC,S,-16731116
+80,79,"kalingensis","Kaloula","Kalinga Narrowmouth Toad",VU,D,-11184866
+81,79,"mediolineata","Kaloula","",NT,D,-12486656
+82,78,"assamensis","Kaloula","",LC,U,-16731116
+85,84,"conjuncta","Kaloula","Philippine Narrowmouth Toad",LC,S,-16731116
+86,84,"rigida","Kaloula","Luzon Narrow-mouthed Frog",VU,D,-11184866
+87,83,"rugifera","Kaloula","Sichuan Digging Frog",LC,D,-16731116
+91,90,"picta","Kaloula","Painted Narrowmouth Toad",LC,S,-16731116
+92,90,"walteri","Kaloula","",DD,U,-11513776
+93,89,"baleata","Kaloula","Brown Bullfrog",LC,S,-16731116
+95,94,"kokacii","Kaloula","Bicol Narrowmouth Toad",NT,S,-12486656
+96,94,"pulchra","Kaloula","Banded Bullfrog",LC,S,-16731116

@@ -1,109 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"myllomyllon","Craugastor","",DD,U,-11513776
-18,16,"sandersoni","Craugastor","",EN,D,-8572416
-19,15,"mimus","Craugastor","",LC,D,-16731116
-20,14,"xucanebi","Craugastor","",VU,D,-11184866
-22,21,"psephosypharus","Craugastor","",VU,D,-11184866
-23,21,"pelorus","Craugastor","",DD,U,-11513776
-25,24,"guerreroensis","Craugastor","",CR,D,-3014646
-26,24,"glaucus","Craugastor","",CR,D,-3014646
-30,29,"augusti","Craugastor","Barking Frog",LC,S,-16731116
-31,29,"tabasarae","Craugastor","",CR,D,-3014646
-32,28,"coffeus","Craugastor","",CR,D,-3014646
-33,27,"rostralis","Craugastor","",NT,S,-12486656
-37,36,"occidentalis","Craugastor","",DD,U,-11513776
-38,36,"yucatanensis","Craugastor","",NT,U,-12486656
-39,35,"aphanus","Craugastor","",VU,S,-11184866
-41,40,"tarahumaraensis","Craugastor","",VU,D,-11184866
-42,40,"emleni","Craugastor","",CR,D,-3014646
-46,45,"megalotympanum","Craugastor","",CR,D,-3014646
-47,45,"anciano","Craugastor","",CR,D,-3014646
-49,48,"matudai","Craugastor","",VU,S,-11184866
-50,48,"loki","Craugastor","",LC,S,-16731116
-52,51,"polyptychus","Craugastor","",LC,S,-16731116
-53,51,"vocalis","Craugastor","",LC,D,-16731116
-56,55,"merendonensis","Craugastor","",CR,D,-3014646
-57,55,"anomalus","Craugastor","",NE,U,-16777216
-59,58,"alfredi","Craugastor","",VU,D,-11184866
-60,58,"daryi","Craugastor","",EN,D,-8572416
-64,63,"bocourti","Craugastor","",VU,D,-11184866
-65,63,"taurus","Craugastor","",CR,D,-3014646
-66,62,"lineatus","Craugastor","",CR,D,-3014646
-67,61,"noblei","Craugastor","",LC,U,-16731116
-72,71,"greggi","Craugastor","",CR,D,-3014646
-73,71,"obesus","Craugastor","",EN,D,-8572416
-74,70,"charadra","Craugastor","",EN,D,-8572416
-76,75,"bufoniformis","Craugastor","",NE,U,-16777216
-77,75,"sabrinus","Craugastor","",EN,D,-8572416
-79,78,"spatulatus","Craugastor","",EN,D,-8572416
-80,78,"pechorum","Craugastor","",EN,D,-8572416
-84,83,"nefrens","Craugastor","",DD,U,-11513776
-85,83,"necerus","Craugastor","",NE,U,-16777216
-86,82,"taylori","Craugastor","",DD,U,-11513776
-87,81,"lauraster","Craugastor","",EN,D,-8572416
-91,90,"monnichorum","Craugastor","",DD,U,-11513776
-92,90,"pygmaeus","Craugastor","",VU,D,-11184866
-93,89,"saltuarius","Craugastor","",CR,D,-3014646
-94,88,"anatipes","Craugastor","",NE,U,-16777216
-101,100,"longirostris","Craugastor","",LC,D,-16731116
-102,100,"underwoodi","Craugastor","",LC,S,-16731116
-104,103,"olanchano","Craugastor","",CR,D,-3014646
-105,103,"montanus","Craugastor","",EN,D,-8572416
-108,107,"stadelmani","Craugastor","",CR,D,-3014646
-109,107,"angelicus","Craugastor","",CR,D,-3014646
-110,106,"decoratus","Craugastor","",VU,D,-11184866
-112,111,"megacephalus","Craugastor","",LC,D,-16731116
-113,111,"raniformis","Craugastor","",LC,S,-16731116
-117,116,"amniscola","Craugastor","",DD,U,-11513776
-118,116,"catalinae","Craugastor","",CR,D,-3014646
-119,115,"gulosus","Craugastor","",EN,D,-8572416
-121,120,"laevissimus","Craugastor","",EN,D,-8572416
-122,120,"rhodopis","Craugastor","",VU,D,-11184866
-124,123,"fleischmanni","Craugastor","",CR,D,-3014646
-125,123,"rupinius","Craugastor","",LC,S,-16731116
-133,132,"berkenbuschii","Craugastor","",NT,D,-12486656
-134,132,"stuarti","Craugastor","",EN,D,-8572416
-135,131,"silvicola","Craugastor","",EN,D,-8572416
-136,130,"andi","Craugastor","",CR,D,-3014646
-137,129,"laticeps","Craugastor","",NT,U,-12486656
-140,139,"cuaquero","Craugastor","",DD,U,-11513776
-141,139,"chac","Craugastor","",NT,U,-12486656
-142,138,"talamancae","Craugastor","",LC,S,-16731116
-144,143,"opimus","Craugastor","",LC,D,-16731116
-145,143,"jota","Craugastor","",DD,U,-11513776
-149,148,"podiciferus","Craugastor","",NT,D,-12486656
-150,148,"ranoides","Craugastor","",CR,D,-3014646
-151,147,"melanostictus","Craugastor","",LC,S,-16731116
-152,146,"escoces","Craugastor","",EX,U,-16777036
-157,156,"crassidigitus","Craugastor","",LC,S,-16731116
-158,156,"polymniae","Craugastor","",CR,D,-3014646
-159,155,"punctariolus","Craugastor","",EN,D,-8572416
-160,154,"stejnegerianus","Craugastor","",LC,S,-16731116
-161,153,"aurilegulus","Craugastor","",EN,D,-8572416
-168,167,"cheiroplethus","Craugastor","",NE,U,-16777216
-169,167,"chrysozetetes","Craugastor","",EX,U,-16777036
-170,166,"bransfordii","Craugastor","",LC,D,-16731116
-172,171,"vulcani","Craugastor","",EN,D,-8572416
-173,171,"brocchi","Craugastor","",VU,D,-11184866
-177,176,"zygodactylus","Craugastor","",NE,U,-16777216
-178,176,"campbelli","Craugastor","",DD,U,-11513776
-180,179,"rugulosus","Craugastor","",LC,S,-16731116
-181,179,"uno","Craugastor","",EN,D,-8572416
-182,174,"mexicanus","Craugastor","",LC,D,-16731116
-189,188,"omiltemanus","Craugastor","",EN,D,-8572416
-190,188,"omoaensis","Craugastor","",CR,D,-3014646
-191,187,"hobartsmithi","Craugastor","",EN,D,-8572416
-192,186,"rugosus","Craugastor","",LC,U,-16731116
-195,194,"azueroensis","Craugastor","",EN,D,-8572416
-196,194,"pozo","Craugastor","",CR,D,-3014646
-197,193,"fecundus","Craugastor","",CR,D,-3014646
-199,198,"trachydermus","Craugastor","",CR,D,-3014646
-200,198,"fitzingeri","Craugastor","",LC,S,-16731116
-201,183,"palenque","Craugastor","",DD,U,-11513776
-208,207,"adamastus","Craugastor","",DD,U,-11513776
-209,207,"gollmeri","Craugastor","",LC,S,-16731116
-210,206,"cruzi","Craugastor","",CR,D,-3014646
-211,205,"rhyacobatrachus","Craugastor","",EN,D,-8572416
-212,204,"persimilis","Craugastor","",VU,D,-11184866
-213,203,"phasma","Craugastor","",DD,U,-11513776
-214,202,"rayo","Craugastor","",DD,D,-11513776
+9,8,"rufus","Pachyramphus","Cinereous Becard",LC,U,-16731116
+10,8,"spodiurus","Pachyramphus","Slaty Becard",EN,U,-8572416
+11,7,"niger","Pachyramphus","Jamaican Becard",LC,U,-16731116
+13,12,"xanthogenys","Pachyramphus","Yellow-cheeked Becard",_U,[,-16777216
+14,12,"viridis","Pachyramphus","Green-backed Becard",LC,U,-16731116
+15,5,"versicolor","Pachyramphus","Barred Becard",LC,U,-16731116
+19,18,"homochrous","Pachyramphus","One-coloured Becard",LC,U,-16731116
+20,18,"aglaiae","Pachyramphus","Rose-throated Becard",LC,U,-16731116
+21,17,"minor","Pachyramphus","Pink-throated Becard",LC,U,-16731116
+22,16,"validus","Pachyramphus","Crested Becard",LC,U,-16731116
+27,26,"albogriseus","Pachyramphus","Black-and-white Becard",LC,U,-16731116
+28,26,"polychopterus","Pachyramphus","White-winged Becard",LC,U,-16731116
+29,25,"marginatus","Pachyramphus","Black-capped Becard",LC,U,-16731116
+30,24,"major","Pachyramphus","Grey-collared Becard",LC,U,-16731116
+33,32,"castaneus","Pachyramphus","Chestnut-crowned Becard",LC,U,-16731116
+34,32,"cinnamomeus","Pachyramphus","Cinnamon Becard",LC,U,-16731116
+35,31,"surinamus","Pachyramphus","Glossy-backed Becard",LC,U,-16731116
+36,2,"albinucha","Xenopsaris","White-naped Xenopsaris",LC,U,-16731116
+39,38,"semifasciata","Tityra","Masked Tityra",LC,U,-16731116
+40,38,"cayana","Tityra","Black-tailed Tityra",LC,U,-16731116
+41,37,"inquisitor","Tityra","Black-crowned Tityra",LC,U,-16731116
+44,43,"isabellae","Iodopleura","White-browed Purpletuft",LC,U,-16731116
+45,43,"fusca","Iodopleura","Dusky Purpletuft",LC,U,-16731116
+46,42,"pipra","Iodopleura","Buff-throated Purpletuft",NT,U,-12486656

@@ -1,179 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"brevirostris","Melithreptus","Brown-headed Honeyeater",LC,U,-16731116
-12,10,"gularis","Melithreptus","Black-chinned Honeyeater",LC,U,-16731116
-13,9,"validirostris","Melithreptus","Strong-billed Honeyeater",LC,U,-16731116
-15,14,"affinis","Melithreptus","Black-headed Honeyeater",LC,U,-16731116
-16,14,"lunatus","Melithreptus","White-naped Honeyeater",LC,U,-16731116
-17,7,"albogularis","Melithreptus","White-throated Honeyeater",LC,U,-16731116
-18,6,"cyanotis","Entomyzon","Blue-faced Honeyeater",LC,U,-16731116
-21,20,"melanops","Lichenostomus","Yellow-tufted Honeyeater",LC,U,-16731116
-22,20,"leucotis","Lichenostomus","White-eared Honeyeater",LC,U,-16731116
-23,19,"subfrenatus","Lichenostomus","Black-throated Honeyeater",LC,U,-16731116
-28,27,"aubryana","Gymnomyza","Crow Honeyeater",CR,U,-3014646
-29,27,"samoensis","Gymnomyza","Mao",EN,U,-8572416
-30,26,"viridis","Gymnomyza","Giant Honeyeater",LC,U,-16731116
-31,25,"carunculatus","Foulehaio","Wattled Honeyeater",LC,U,-16731116
-33,32,"flavicollis","Lichenostomus","Yellow-throated Honeyeater",LC,U,-16731116
-34,32,"obscurus","Lichenostomus","Obscure Honeyeater",LC,U,-16731116
-43,42,"alboauricularis","Lichmera","Silver-eared Honeyeater",LC,U,-16731116
-44,42,"notabilis","Lichmera","Black-chested Honeyeater",NT,U,-12486656
-46,45,"lombokia","Lichmera","Scaly-crowned Honeyeater",LC,U,-16731116
-47,45,"indistincta","Lichmera","Brown Honeyeater",LC,U,-16731116
-48,40,"incana","Lichmera","Dark-brown Honeyeater",LC,U,-16731116
-49,39,"argentauris","Lichmera","Olive Honeyeater",LC,U,-16731116
-53,52,"flavicans","Lichmera","Yellow-eared Honeyeater",LC,U,-16731116
-54,52,"monticola","Lichmera","Seram Honeyeater",LC,U,-16731116
-55,51,"deningeri","Lichmera","Buru Honeyeater",LC,U,-16731116
-56,50,"limbata","Lichmera","Indonesian Honeyeater",LC,U,-16731116
-57,37,"squamata","Lichmera","White-tufted Honeyeater",LC,U,-16731116
-61,60,"novaehollandiae","Phylidonyris","New Holland Honeyeater",LC,U,-16731116
-62,60,"niger","Phylidonyris","White-cheeked Honeyeater",LC,U,-16731116
-63,59,"pyrrhopterus","Phylidonyris","Crescent Honeyeater",LC,U,-16731116
-64,58,"cockerelli","Trichodere","White-streaked Honeyeater",LC,U,-16731116
-65,35,"pectoralis","Certhionyx","Banded Honeyeater",LC,U,-16731116
-74,73,"diemenensis","Philemon","New Caledonian Friarbird",LC,U,-16731116
-75,73,"citreogularis","Philemon","Little Friarbird",LC,U,-16731116
-76,72,"kisserensis","Philemon","Grey Friarbird",_U,[,-16777216
-77,71,"brassi","Philemon","Brass's Friarbird",NT,U,-12486656
-79,78,"novaeguineae","Philemon","New Guinea Friarbird",LC,U,-16731116
-80,78,"cockerelli","Philemon","New Britain Friarbird",LC,U,-16731116
-83,82,"fuscicapillus","Philemon","Dusky Friarbird",VU,U,-11184866
-84,82,"meyeri","Philemon","Meyer's Friarbird",LC,U,-16731116
-85,81,"subcorniculatus","Philemon","Grey-necked Friarbird",LC,U,-16731116
-89,88,"argenticeps","Philemon","Silver-crowned Friarbird",LC,U,-16731116
-90,88,"corniculatus","Philemon","Noisy Friarbird",LC,U,-16731116
-91,87,"inornatus","Philemon","Plain Friarbird",LC,U,-16731116
-93,92,"eichhorni","Philemon","New Ireland Friarbird",LC,U,-16731116
-94,92,"buceroides","Philemon","Helmeted Friarbird",LC,U,-16731116
-96,95,"moluccensis","Philemon","Black-faced Friarbird",LC,U,-16731116
-97,95,"albitorques","Philemon","White-naped Friarbird",LC,U,-16731116
-102,101,"polygrammus","Xanthotis","Spotted Honeyeater",LC,U,-16731116
-103,101,"provocator","Xanthotis","Kadavu Honeyeater",LC,U,-16731116
-104,100,"macleayanus","Xanthotis","Macleay's Honeyeater",LC,U,-16731116
-105,99,"flaviventer","Xanthotis","Tawny-breasted Honeyeater",LC,U,-16731116
-109,108,"sarasinorum","Myza","White-eared Myza",LC,U,-16731116
-110,108,"celebensis","Myza","Dark-eared Myza",LC,U,-16731116
-111,107,"picta","Grantiella","Painted Honeyeater",VU,U,-11184866
-112,106,"lanceolata","Plectorhyncha","Striped Honeyeater",LC,U,-16731116
-124,123,"sanguinolenta","Myzomela","Scarlet Myzomela",LC,U,-16731116
-125,123,"cardinalis","Myzomela","Cardinal Myzomela",LC,U,-16731116
-126,122,"nigrita","Myzomela","Black Myzomela",LC,U,-16731116
-128,127,"lafargei","Myzomela","Scarlet-naped Myzomela",LC,U,-16731116
-129,127,"chermesina","Myzomela","Rotuma Myzomela",VU,U,-11184866
-133,132,"pulchella","Myzomela","Olive-yellow Myzomela",LC,U,-16731116
-134,132,"adolphinae","Myzomela","Mountain Myzomela",LC,U,-16731116
-135,131,"erythrocephala","Myzomela","Red-headed Myzomela",LC,U,-16731116
-136,130,"pammelaena","Myzomela","Ebony Myzomela",LC,U,-16731116
-137,119,"dammermani","Myzomela","Sumba Myzomela",LC,U,-16731116
-141,140,"sclateri","Myzomela","Scarlet-bibbed Myzomela",LC,U,-16731116
-142,140,"chloroptera","Myzomela","Sulawesi Myzomela",LC,U,-16731116
-144,143,"obscura","Myzomela","Dusky Myzomela",LC,U,-16731116
-145,143,"cineracea","Myzomela","Ashy Myzomela",_U,[,-16777216
-147,146,"melanocephala","Myzomela","Black-headed Myzomela",LC,U,-16731116
-148,146,"eques","Myzomela","Red-throated Myzomela",LC,U,-16731116
-153,152,"caledonica","Myzomela","New Caledonian Myzomela",LC,U,-16731116
-154,152,"cruentata","Myzomela","Red Myzomela",LC,U,-16731116
-155,151,"jugularis","Myzomela","Orange-breasted Myzomela",LC,U,-16731116
-158,157,"eichhorni","Myzomela","Yellow-vented Myzomela",LC,U,-16731116
-159,157,"blasii","Myzomela","Drab Myzomela",LC,U,-16731116
-160,156,"rosenbergii","Myzomela","Red-collared Myzomela",LC,U,-16731116
-163,162,"erythromelas","Myzomela","Black-bellied Myzomela",LC,U,-16731116
-164,162,"malaitae","Myzomela","Red-bellied Myzomela",NT,U,-12486656
-166,165,"vulnerata","Myzomela","Red-rumped Myzomela",LC,U,-16731116
-167,165,"tristrami","Myzomela","Sooty Myzomela",LC,U,-16731116
-168,116,"kuehni","Myzomela","Crimson-hooded Myzomela",NT,U,-12486656
-172,171,"rubratra","Myzomela","Micronesian Myzomela",LC,U,-16731116
-173,171,"wakoloensis","Myzomela","Wakolo Myzomela",LC,U,-16731116
-174,170,"boiei","Myzomela","Banda Myzomela",LC,U,-16731116
-175,169,"albigula","Myzomela","White-chinned Myzomela",DD,U,-11513776
-178,177,"melanura","Anthornis","New Zealand Bellbird",LC,U,-16731116
-179,177,"niger","Certhionyx","Black Honeyeater",LC,U,-16731116
-180,176,"bougainvillei","Stresemannia","Bougainville Honeyeater",LC,U,-16731116
-181,113,"unicolor","Lichenostomus","White-gaped Honeyeater",LC,U,-16731116
-196,195,"rufocrissalis","Melidectes","Yellow-browed Melidectes",LC,U,-16731116
-197,195,"fuscus","Melidectes","Sooty Melidectes",LC,U,-16731116
-198,194,"whitemanensis","Melidectes","Bismarck Melidectes",NT,U,-12486656
-200,199,"nouhuysi","Melidectes","Short-bearded Melidectes",LC,U,-16731116
-201,199,"torquatus","Melidectes","Ornate Melidectes",LC,U,-16731116
-204,203,"sclateri","Melidectes","San Cristobal Melidectes",LC,U,-16731116
-205,203,"leucostephes","Melidectes","Vogelkop Melidectes",LC,U,-16731116
-206,202,"princeps","Melidectes","Long-bearded Melidectes",VU,U,-11184866
-209,208,"belfordi","Melidectes","Belford's Melidectes",LC,U,-16731116
-210,208,"foersteri","Melidectes","Huon Melidectes",LC,U,-16731116
-211,207,"ochromelas","Melidectes","Cinnamon-browed Melidectes",LC,U,-16731116
-214,213,"flavigula","Manorina","Yellow-throated Miner",LC,U,-16731116
-215,213,"melanocephala","Manorina","Noisy Miner",LC,U,-16731116
-217,216,"melanotis","Manorina","Black-eared Miner",EN,U,-8572416
-218,216,"melanophrys","Manorina","Bell Miner",LC,U,-16731116
-219,189,"albifrons","Phylidonyris","White-fronted Honeyeater",LC,U,-16731116
-224,223,"fasciogularis","Lichenostomus","Mangrove Honeyeater",LC,U,-16731116
-225,223,"virescens","Lichenostomus","Singing Honeyeater",LC,U,-16731116
-227,226,"ornatus","Lichenostomus","Yellow-plumed Honeyeater",LC,U,-16731116
-228,226,"undulatus","Phylidonyris","Barred Honeyeater",LC,U,-16731116
-229,221,"penicillatus","Lichenostomus","White-plumed Honeyeater",LC,U,-16731116
-230,220,"flavus","Lichenostomus","Yellow Honeyeater",LC,U,-16731116
-235,234,"chrysoptera","Anthochaera","Little Wattlebird",LC,U,-16731116
-236,234,"lunulata","Anthochaera","Western Wattlebird",LC,U,-16731116
-238,237,"carunculata","Anthochaera","Red Wattlebird",LC,U,-16731116
-239,237,"paradoxa","Anthochaera","Yellow Wattlebird",LC,U,-16731116
-241,240,"gilolensis","Melitograis","White-streaked Friarbird",LC,U,-16731116
-242,240,"phrygia","Xanthomyza","Regent Honeyeater",EN,U,-8572416
-245,244,"keartlandi","Lichenostomus","Grey-headed Honeyeater",LC,U,-16731116
-246,244,"chrysogenys","Oreornis","Orange-cheeked Honeyeater",LC,U,-16731116
-248,247,"rufogularis","Acanthagenys","Spiny-cheeked Honeyeater",LC,U,-16731116
-249,247,"fuscus","Lichenostomus","Fuscous Honeyeater",LC,U,-16731116
-255,254,"reticulata","Meliphaga","Streaky-breasted Honeyeater",LC,U,-16731116
-256,254,"albilineata","Meliphaga","White-lined Honeyeater",LC,U,-16731116
-258,257,"flavirictus","Meliphaga","Yellow-gaped Honeyeater",LC,U,-16731116
-259,257,"vicina","Meliphaga","Tagula Honeyeater",DD,U,-11513776
-261,260,"mimikae","Meliphaga","Mottle-breasted Honeyeater",LC,U,-16731116
-262,260,"montana","Meliphaga","Forest Honeyeater",LC,U,-16731116
-265,264,"orientalis","Meliphaga","Hill-forest Honeyeater",LC,U,-16731116
-266,264,"analoga","Meliphaga","Mimic Honeyeater",LC,U,-16731116
-268,267,"gracilis","Meliphaga","Graceful Honeyeater",LC,U,-16731116
-269,267,"albonotata","Meliphaga","Scrub Honeyeater",LC,U,-16731116
-272,271,"notata","Meliphaga","Yellow-spotted Honeyeater",LC,U,-16731116
-273,271,"lewinii","Meliphaga","Lewin's Honeyeater",LC,U,-16731116
-274,270,"aruensis","Meliphaga","Puff-backed Honeyeater",LC,U,-16731116
-281,280,"stictocephalus","Pycnopygius","Streak-headed Honeyeater",LC,U,-16731116
-282,280,"cinereus","Pycnopygius","Marbled Honeyeater",LC,U,-16731116
-283,279,"ixoides","Pycnopygius","Plain Honeyeater",LC,U,-16731116
-284,278,"novaeseelandiae","Prosthemadera","Tui",LC,U,-16731116
-286,285,"inexpectata","Guadalcanaria","Guadalcanal Honeyeater",LC,U,-16731116
-287,285,"variegatus","Certhionyx","Pied Honeyeater",LC,U,-16731116
-289,288,"cratitius","Lichenostomus","Purple-gaped Honeyeater",LC,U,-16731116
-290,288,"notabilis","Phylidonyris","New Hebrides Honeyeater",LC,U,-16731116
-294,293,"chrysops","Lichenostomus","Yellow-faced Honeyeater",LC,U,-16731116
-295,293,"familiare","Apalopteron","Bonin White-eye",VU,U,-11184866
-296,292,"versicolor","Lichenostomus","Varied Honeyeater",LC,U,-16731116
-298,297,"flavescens","Lichenostomus","Yellow-tinted Honeyeater",LC,U,-16731116
-299,297,"plumulus","Lichenostomus","Grey-fronted Honeyeater",LC,U,-16731116
-302,301,"superciliosus","Acanthorhynchus","Western Spinebill",LC,U,-16731116
-303,301,"tenuirostris","Acanthorhynchus","Eastern Spinebill",LC,U,-16731116
-305,304,"hindwoodi","Lichenostomus","Eungella Honeyeater",LC,U,-16731116
-306,304,"frenatus","Lichenostomus","Bridled Honeyeater",LC,U,-16731116
-313,312,"albifrons","Epthianura","White-fronted Chat",LC,U,-16731116
-314,312,"aurifrons","Epthianura","Orange Chat",LC,U,-16731116
-316,315,"tricolor","Epthianura","Crimson Chat",LC,U,-16731116
-317,315,"crocea","Epthianura","Yellow Chat",LC,U,-16731116
-318,310,"lovensis","Ashbyia","Gibberbird",LC,U,-16731116
-322,321,"gymnops","Melipotes","Arfak Honeyeater",LC,U,-16731116
-323,321,"ater","Melipotes","Spangled Honeyeater",LC,U,-16731116
-324,320,"fumigatus","Melipotes","Smoky Honeyeater",LC,U,-16731116
-325,319,"pulchra","Macgregoria","Ochre-winged Honeyeater",VU,U,-11184866
-328,327,"griseigula","Timeliopsis","Tawny Straightbill",LC,U,-16731116
-329,327,"fulvigula","Timeliopsis","Olive Straightbill",LC,U,-16731116
-330,326,"megarhynchus","Melilestes","Long-billed Honeyeater",LC,U,-16731116
-334,333,"albogularis","Conopophila","Rufous-banded Honeyeater",LC,U,-16731116
-335,333,"whitei","Conopophila","Grey Honeyeater",LC,U,-16731116
-336,332,"rufogularis","Conopophila","Rufous-throated Honeyeater",LC,U,-16731116
-338,337,"fasciatus","Ramsayornis","Bar-breasted Honeyeater",LC,U,-16731116
-339,337,"modestus","Ramsayornis","Brown-backed Honeyeater",LC,U,-16731116
-346,345,"perstriata","Ptiloprora","Black-backed Honeyeater",LC,U,-16731116
-347,345,"guisei","Ptiloprora","Rufous-backed Honeyeater",LC,U,-16731116
-348,344,"erythropleura","Ptiloprora","Rufous-sided Honeyeater",LC,U,-16731116
-349,343,"plumbea","Ptiloprora","Leaden Honeyeater",LC,U,-16731116
-351,350,"meekiana","Ptiloprora","Olive-streaked Honeyeater",LC,U,-16731116
-352,350,"mayri","Ptiloprora","Mayr's Honeyeater",LC,U,-16731116
-353,341,"fallax","Glycichaera","Green-backed Honeyeater",LC,U,-16731116
-354,340,"melanops","Phylidonyris","Tawny-crowned Honeyeater",LC,U,-16731116
+9,8,"superciliosa","Woodfordia","Bare-eyed White-eye",LC,U,-16731116
+10,8,"lacertosa","Woodfordia","Sanford's White-eye",NT,U,-12486656
+11,7,"ficedulinus","Zosterops","Sao Tome White-eye",VU,U,-11184866
+12,6,"flavifrons","Zosterops","Yellow-fronted White-eye",LC,U,-16731116
+16,15,"meeki","Zosterops","White-throated White-eye",DD,U,-11513776
+17,15,"lateralis","Zosterops","Silvereye",LC,U,-16731116
+18,14,"conspicillatus","Zosterops","Bridled White-eye",EN,U,-8572416
+19,13,"kuehni","Zosterops","Ambon Yellow White-eye",NT,U,-12486656
+25,24,"kulambangrae","Zosterops","Solomons White-eye",LC,U,-16731116
+26,24,"samoensis","Zosterops","Samoan White-eye",VU,U,-11184866
+27,23,"rendovae","Zosterops","Grey-throated White-eye",LC,U,-16731116
+28,22,"splendidus","Zosterops","Ranongga White-eye",VU,U,-11184866
+29,21,"luteirostris","Zosterops","Splendid White-eye",EN,U,-8572416
+31,30,"vellalavella","Zosterops","Banded White-eye",NT,U,-12486656
+32,30,"hypolais","Zosterops","Plain White-eye",NT,U,-12486656
+38,37,"tenuirostris","Zosterops","Slender-billed White-eye",EN,U,-8572416
+39,37,"inornatus","Zosterops","Large Lifu White-eye",LC,U,-16731116
+40,36,"rennellianus","Zosterops","Rennell White-eye",LC,U,-16731116
+43,42,"griseotinctus","Zosterops","Louisiade White-eye",LC,U,-16731116
+44,42,"murphyi","Zosterops","Hermit White-eye",LC,U,-16731116
+45,41,"rotensis","Zosterops","Rota Bridled White-eye",CR,U,-3014646
+46,34,"stalkeri","Zosterops","Seram White-eye",LC,U,-16731116
+47,33,"ceylonensis","Zosterops","Sri Lanka White-eye",LC,U,-16731116
+52,51,"citrinella","Zosterops","Ashy-bellied White-eye",LC,U,-16731116
+53,51,"nehrkorni","Zosterops","Sangihe White-eye",CR,U,-3014646
+54,50,"buruensis","Zosterops","Buru Yellow White-eye",LC,U,-16731116
+56,55,"luteus","Zosterops","Australian Yellow White-eye",LC,U,-16731116
+57,55,"hypoxanthus","Zosterops","Black-headed White-eye",LC,U,-16731116
+61,60,"oleagineus","Zosterops","Yap Olive White-eye",NT,U,-12486656
+62,60,"cinereus","Zosterops","Grey-brown White-eye",LC,U,-16731116
+63,59,"fuscicapilla","Zosterops","Capped White-eye",LC,U,-16731116
+65,64,"metcalfii","Zosterops","Yellow-throated White-eye",LC,U,-16731116
+66,64,"stresemanni","Zosterops","Malaita White-eye",LC,U,-16731116
+67,1,"nigrorum","Zosterops","Golden-yellow White-eye",LC,U,-16731116
+73,72,"erythropleurus","Zosterops","Chestnut-flanked White-eye",LC,U,-16731116
+74,72,"abyssinicus","Zosterops","White-breasted White-eye",LC,U,-16731116
+75,71,"atricapilla","Zosterops","Black-capped White-eye",LC,U,-16731116
+77,76,"japonicus","Zosterops","Japanese White-eye",LC,U,-16731116
+78,76,"montanus","Zosterops","Mountain White-eye",LC,U,-16731116
+80,79,"somadikartai","Zosterops","Togian White-eye",NT,U,-12486656
+81,79,"emiliae","Chlorocharis","Mountain Blackeye",LC,U,-16731116
+82,68,"everetti","Zosterops","Everett's White-eye",LC,U,-16731116

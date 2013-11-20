@@ -1,110 +1,83 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"brachypus","Oreophryne","",LC,S,-16731116
-14,12,"waira","Oreophryne","",DD,U,-11513776
-15,11,"anthonyi","Oreophryne","",LC,S,-16731116
-16,10,"unicolor","Oreophryne","",DD,U,-11513776
-18,17,"idenburgensis","Oreophryne","",DD,U,-11513776
-19,17,"clamata","Oreophryne","",DD,U,-11513776
-20,8,"notata","Oreophryne","",DD,U,-11513776
-21,7,"brevicrus","Oreophryne","",DD,U,-11513776
-26,25,"jeffersoniana","Oreophryne","",NT,D,-12486656
-27,25,"loriae","Oreophryne","",DD,U,-11513776
-28,24,"hypsiops","Oreophryne","",LC,U,-16731116
-29,23,"frontifasciata","Oreophryne","",DD,U,-11513776
-31,30,"atrigularis","Oreophryne","",DD,U,-11513776
-32,30,"alticola","Oreophryne","",DD,U,-11513776
-37,36,"celebensis","Oreophryne","",VU,D,-11184866
-38,36,"inornata","Oreophryne","",LC,S,-16731116
-40,39,"terrestris","Oreophryne","",DD,U,-11513776
-41,39,"anulata","Oreophryne","",VU,D,-11184866
-44,43,"monticola","Oreophryne","",EN,D,-8572416
-45,43,"zimmeri","Oreophryne","",DD,U,-11513776
-46,42,"insulana","Oreophryne","",DD,U,-11513776
-49,48,"brevirostris","Oreophryne","",DD,U,-11513776
-50,48,"albopunctata","Oreophryne","",DD,U,-11513776
-51,47,"variabilis","Oreophryne","",VU,D,-11184866
-60,59,"biroi","Oreophryne","",LC,U,-16731116
-61,59,"flava","Oreophryne","",DD,U,-11513776
-62,58,"sibilans","Oreophryne","",DD,U,-11513776
-64,63,"rookmaakeri","Oreophryne","",DD,U,-11513776
-65,63,"asplenicola","Oreophryne","",DD,U,-11513776
-68,67,"geislerorum","Oreophryne","",LC,S,-16731116
-69,67,"kapisa","Oreophryne","",LC,S,-16731116
-70,66,"moluccensis","Oreophryne","",DD,U,-11513776
-76,75,"pseudasplenicola","Oreophryne","",DD,U,-11513776
-77,75,"kampeni","Oreophryne","",DD,U,-11513776
-78,74,"parkeri","Oreophryne","",DD,U,-11513776
-79,73,"wolterstorffi","Oreophryne","",DD,U,-11513776
-80,72,"geminus","Oreophryne","",DD,U,-11513776
-81,71,"crucifer","Oreophryne","",DD,U,-11513776
-83,82,"minuta","Oreophryne","",DD,U,-11513776
-84,82,"nana","Oreophryne","",DD,U,-11513776
-85,53,"habbemensis","Oreophryne","",DD,U,-11513776
-86,52,"wapoga","Oreophryne","",DD,U,-11513776
-96,95,"marmoratus","Callulops","",DD,U,-11513776
-97,95,"boettgeri","Callulops","",DD,U,-11513776
-98,94,"glandulosus","Callulops","",DD,U,-11513776
-100,99,"wilhelmanus","Callulops","",LC,S,-16731116
-101,99,"humicola","Callulops","",LC,S,-16731116
-102,92,"eurydactylus","Callulops","",DD,U,-11513776
-105,104,"stictogaster","Callulops","",LC,S,-16731116
-106,104,"slateri","Callulops","",LC,S,-16731116
-107,103,"doriae","Callulops","",LC,S,-16731116
-109,108,"personatus","Callulops","",LC,S,-16731116
-110,108,"comptus","Callulops","",LC,S,-16731116
-114,113,"kopsteini","Callulops","",EN,D,-8572416
-115,113,"dubius","Callulops","",DD,U,-11513776
-116,112,"robustus","Callulops","",LC,S,-16731116
-117,111,"fuscus","Callulops","",DD,U,-11513776
-118,88,"sagittatus","Callulops","",DD,U,-11513776
-121,120,"lateralis","Mantophryne","",LC,S,-16731116
-122,120,"infulata","Mantophryne","",DD,U,-11513776
-123,119,"louisiadensis","Mantophryne","",DD,U,-11513776
-126,125,"sabini","Aphantophryne","",DD,U,-11513776
-127,125,"minuta","Aphantophryne","",DD,U,-11513776
-128,124,"pansa","Aphantophryne","",LC,S,-16731116
-133,132,"dentata","Liophryne","",LC,U,-16731116
-134,132,"rubra","Liophryne","",DD,U,-11513776
-135,131,"rhododactyla","Liophryne","",DD,S,-11513776
-137,136,"allisoni","Liophryne","",DD,U,-11513776
-138,136,"similis","Liophryne","",DD,U,-11513776
-139,129,"schlaginhaufeni","Liophryne","",LC,S,-16731116
-155,154,"robusta","Austrochaperina","Robust Frog",LC,S,-16731116
-156,154,"fryi","Austrochaperina","Fry's Frog",LC,S,-16731116
-157,153,"rivularis","Austrochaperina","",LC,S,-16731116
-158,152,"yelaensis","Austrochaperina","",DD,U,-11513776
-159,151,"brevipes","Austrochaperina","",DD,U,-11513776
-160,150,"adamantina","Austrochaperina","",DD,U,-11513776
-161,149,"pluvialis","Austrochaperina","Rain Frog",LC,S,-16731116
-162,148,"septentrionalis","Austrochaperina","",DD,U,-11513776
-163,147,"polysticta","Austrochaperina","",DD,U,-11513776
-166,165,"adelphe","Austrochaperina","Northern Territory Frog",LC,S,-16731116
-167,165,"mehelyi","Austrochaperina","",DD,U,-11513776
-168,164,"derongo","Austrochaperina","",LC,S,-16731116
-173,172,"basipalmata","Austrochaperina","",LC,U,-16731116
-174,172,"guttata","Austrochaperina","",LC,S,-16731116
-175,171,"novaebritanniae","Austrochaperina","",VU,D,-11184866
-176,170,"hooglandi","Austrochaperina","",LC,S,-16731116
-177,169,"parkeri","Austrochaperina","",DD,U,-11513776
-182,181,"kosarek","Austrochaperina","",DD,U,-11513776
-183,181,"blumi","Austrochaperina","",LC,S,-16731116
-184,180,"palmipes","Austrochaperina","",LC,S,-16731116
-185,179,"archboldi","Austrochaperina","",DD,U,-11513776
-188,187,"gracilipes","Austrochaperina","Slender Frog",LC,S,-16731116
-189,187,"aquilonia","Austrochaperina","",DD,U,-11513776
-190,186,"macrorhyncha","Austrochaperina","",LC,U,-16731116
-194,193,"stenodactyla","Oxydactyla","",LC,S,-16731116
-195,193,"brevicrus","Oxydactyla","",DD,U,-11513776
-196,192,"coggeri","Oxydactyla","",DD,U,-11513776
-198,197,"alpestris","Oxydactyla","",LC,S,-16731116
-199,197,"crassa","Oxydactyla","",DD,U,-11513776
-200,142,"cornuta","Sphenophryne","",LC,S,-16731116
-206,205,"fistulans","Copiula","",LC,S,-16731116
-207,205,"oxyrhina","Copiula","",LC,S,-16731116
-208,204,"major","Copiula","",DD,U,-11513776
-209,203,"pipiens","Copiula","",DD,U,-11513776
-211,210,"tyleri","Copiula","",LC,S,-16731116
-212,210,"minor","Copiula","",VU,U,-11184866
-214,213,"exspectata","Copiula","",DD,U,-11513776
-215,213,"obsti","Copiula","",DD,U,-11513776
-216,140,"thomsoni","Genyophryne","",LC,S,-16731116
+21,20,"dorbignyi","Asthenes","Creamy-breasted Canastero",LC,U,-16731116
+22,20,"baeri","Asthenes","Short-billed Canastero",LC,U,-16731116
+25,24,"alaudina","Coryphistera","Lark-like Brushrunner",LC,U,-16731116
+26,24,"annumbi","Anumbius","Firewood-gatherer",LC,U,-16731116
+27,23,"gularis","Hellmayrea","White-browed Spinetail",LC,U,-16731116
+33,32,"ferrugineigula","Phacellodomus","Orange-breasted Thornbird",LC,U,-16731116
+34,32,"inornatus","Phacellodomus","Plain Thornbird",_U,[,-16777216
+35,31,"rufifrons","Phacellodomus","Rufous-fronted Thornbird",LC,U,-16731116
+37,36,"striaticeps","Phacellodomus","Streak-fronted Thornbird",LC,U,-16731116
+38,36,"dorsalis","Phacellodomus","Chestnut-backed Thornbird",VU,U,-11184866
+39,29,"sibilatrix","Phacellodomus","Little Thornbird",LC,U,-16731116
+43,42,"striaticollis","Phacellodomus","Freckle-breasted Thornbird",LC,U,-16731116
+44,42,"ruber","Phacellodomus","Greater Thornbird",LC,U,-16731116
+45,41,"maculipectus","Phacellodomus","Spot-breasted Thornbird",LC,U,-16731116
+46,40,"erythrophthalmus","Phacellodomus","Orange-eyed Thornbird",LC,U,-16731116
+53,52,"fuliginiceps","Leptasthenura","Brown-capped Tit-spinetail",LC,U,-16731116
+54,52,"pileata","Leptasthenura","Rusty-crowned Tit-spinetail",LC,U,-16731116
+55,51,"xenothorax","Leptasthenura","White-browed Tit-spinetail",EN,U,-8572416
+56,50,"aegithaloides","Leptasthenura","Plain-mantled Tit-spinetail",LC,U,-16731116
+57,49,"platensis","Leptasthenura","Tufted Tit-spinetail",LC,U,-16731116
+58,48,"striolata","Leptasthenura","Striolated Tit-spinetail",LC,U,-16731116
+62,61,"setaria","Leptasthenura","Araucaria Tit-spinetail",NT,U,-12486656
+63,61,"yanacensis","Leptasthenura","Tawny Tit-spinetail",NT,U,-12486656
+65,64,"striata","Leptasthenura","Streaked Tit-spinetail",LC,U,-16731116
+66,64,"andicola","Leptasthenura","Andean Tit-spinetail",LC,U,-16731116
+67,59,"desmursii","Sylviorthorhynchus","Des Murs's Wiretail",LC,U,-16731116
+69,68,"spinicauda","Aphrastura","Thorn-tailed Rayadito",LC,U,-16731116
+70,68,"masafuerae","Aphrastura","Masafuera Rayadito",CR,U,-3014646
+71,10,"rikeri","Berlepschia","Point-tailed Palmcreeper",LC,U,-16731116
+77,76,"ruficaudus","Ochetorhynchus","Straight-billed Earthcreeper",LC,U,-16731116
+78,76,"phoenicurus","Ochetorhynchus","Band-tailed Earthcreeper",LC,U,-16731116
+79,75,"andaecola","Ochetorhynchus","Rock Earthcreeper",LC,U,-16731116
+80,74,"melanura","Ochetorhynchus","Crag Chilia",LC,U,-16731116
+81,73,"albogularis","Pygarrhichas","White-throated Treerunner",LC,U,-16731116
+82,72,"milleri","Xenops","Rufous-tailed Xenops",LC,U,-16731116
+85,84,"tenuirostris","Xenops","Slender-billed Xenops",LC,U,-16731116
+86,84,"minutus","Xenops","Plain Xenops",LC,U,-16731116
+87,83,"rutilans","Xenops","Streaked Xenops",LC,U,-16731116
+94,93,"isabellina","Geositta","Creamy-rumped Miner",LC,U,-16731116
+95,93,"saxicolina","Geositta","Dark-winged Miner",LC,U,-16731116
+96,92,"antarctica","Geositta","Short-billed Miner",LC,U,-16731116
+97,91,"maritima","Geositta","Greyish Miner",LC,U,-16731116
+100,99,"crassirostris","Geositta","Thick-billed Miner",LC,U,-16731116
+101,99,"poeciloptera","Geositta","Campo Miner",VU,U,-11184866
+103,102,"rufipennis","Geositta","Rufous-banded Miner",LC,U,-16731116
+104,102,"punensis","Geositta","Puna Miner",LC,U,-16731116
+107,106,"tenuirostris","Geositta","Slender-billed Miner",LC,U,-16731116
+108,106,"cunicularia","Geositta","Common Miner",LC,U,-16731116
+109,105,"peruviana","Geositta","Coastal Miner",LC,U,-16731116
+114,113,"guatemalensis","Sclerurus","Scaly-throated Leaftosser",LC,U,-16731116
+115,113,"scansor","Sclerurus","Rufous-breasted Leaftosser",LC,U,-16731116
+116,112,"caudacutus","Sclerurus","Black-tailed Leaftosser",LC,U,-16731116
+117,111,"rufigularis","Sclerurus","Short-billed Leaftosser",LC,U,-16731116
+119,118,"albigularis","Sclerurus","Grey-throated Leaftosser",LC,U,-16731116
+120,118,"mexicanus","Sclerurus","Tawny-throated Leaftosser",LC,U,-16731116
+126,125,"nigricapillus","Formicarius","Black-headed Antthrush",LC,U,-16731116
+127,125,"analis","Formicarius","Black-faced Antthrush",LC,U,-16731116
+128,124,"rufifrons","Formicarius","Rufous-fronted Antthrush",NT,U,-12486656
+130,129,"colma","Formicarius","Rufous-capped Antthrush",LC,U,-16731116
+131,129,"moniliger","Formicarius","Mayan Antthrush",_U,[,-16777216
+132,122,"rufipectus","Formicarius","Rufous-breasted Antthrush",LC,U,-16731116
+136,135,"campanisona","Chamaeza","Short-tailed Antthrush",LC,U,-16731116
+137,135,"mollissima","Chamaeza","Barred Antthrush",LC,U,-16731116
+138,134,"ruficauda","Chamaeza","Rufous-tailed Antthrush",LC,U,-16731116
+141,140,"meruloides","Chamaeza","Such's Antthrush",LC,U,-16731116
+142,140,"nobilis","Chamaeza","Striated Antthrush",LC,U,-16731116
+143,139,"turdina","Chamaeza","Schwartz's Antthrush",LC,U,-16731116
+151,150,"aurita","Conopophaga","Chestnut-belted Gnateater",LC,U,-16731116
+152,150,"peruviana","Conopophaga","Ash-throated Gnateater",LC,U,-16731116
+153,149,"lineata","Conopophaga","Rufous Gnateater",LC,U,-16731116
+155,154,"castaneiceps","Conopophaga","Chestnut-crowned Gnateater",LC,U,-16731116
+156,154,"cearae","Conopophaga","Ceara Gnateater",_U,[,-16777216
+158,157,"melanops","Conopophaga","Black-cheeked Gnateater",LC,U,-16731116
+159,157,"roberti","Conopophaga","Hooded Gnateater",LC,U,-16731116
+161,160,"melanogaster","Conopophaga","Black-bellied Gnateater",LC,U,-16731116
+162,160,"ardesiaca","Conopophaga","Slaty Gnateater",LC,U,-16731116
+164,163,"rufopileatum","Pittasoma","Rufous-crowned Antpitta",NT,U,-12486656
+165,163,"michleri","Pittasoma","Black-crowned Antpitta",LC,U,-16731116
+169,168,"maximiliani","Melanopareia","Olive-crowned Crescentchest",LC,U,-16731116
+170,168,"torquata","Melanopareia","Collared Crescentchest",LC,U,-16731116
+171,167,"maranonica","Melanopareia","Maranon Crescentchest",NT,U,-12486656
+172,166,"elegans","Melanopareia","Elegant Crescentchest",LC,U,-16731116

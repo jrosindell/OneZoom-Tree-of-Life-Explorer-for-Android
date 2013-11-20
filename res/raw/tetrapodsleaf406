@@ -1,0 +1,85 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"townsendi","Parvimolge","Tropical Dwarf Salamander",CR,D,-3014646
+19,18,"unguidentis","Pseudoeurycea","",CR,D,-3014646
+20,18,"mixteca","Pseudoeurycea","",LC,S,-16731116
+22,21,"tlilicxitl","Pseudoeurycea","",DD,U,-11513776
+23,21,"parva","Pseudoeurycea","",CR,D,-3014646
+26,25,"ruficauda","Pseudoeurycea","",DD,U,-11513776
+27,25,"lynchi","Pseudoeurycea","",CR,D,-3014646
+29,28,"robertsi","Pseudoeurycea","",CR,S,-3014646
+30,28,"lineola","Pseudoeurycea","",EN,D,-8572416
+34,33,"aurantia","Pseudoeurycea","",VU,U,-11184866
+35,33,"juarezi","Pseudoeurycea","",CR,D,-3014646
+36,32,"longicauda","Pseudoeurycea","",EN,D,-8572416
+37,31,"naucampatepetl","Pseudoeurycea","",CR,D,-3014646
+41,40,"goebeli","Pseudoeurycea","",CR,D,-3014646
+42,40,"smithi","Pseudoeurycea","",CR,D,-3014646
+43,39,"orchimelas","Pseudoeurycea","",EN,D,-8572416
+44,38,"tlahcuiloh","Pseudoeurycea","",CR,D,-3014646
+51,50,"narismagnus","Thorius","",CR,D,-3014646
+52,50,"omiltemi","Thorius","",EN,D,-8572416
+54,53,"infernalis","Thorius","",CR,D,-3014646
+55,53,"arboreus","Thorius","",EN,D,-8572416
+56,48,"schmidti","Thorius","",EN,D,-8572416
+60,59,"pulmonaris","Thorius","",EN,D,-8572416
+61,59,"dubitus","Thorius","",EN,D,-8572416
+62,58,"lunaris","Thorius","",EN,D,-8572416
+63,57,"munificus","Thorius","",CR,D,-3014646
+67,66,"macdougalli","Thorius","",VU,S,-11184866
+68,66,"pennatulus","Thorius","",CR,D,-3014646
+69,65,"grandis","Thorius","",EN,D,-8572416
+72,71,"troglodytes","Thorius","",EN,D,-8572416
+73,71,"aureus","Thorius","",CR,D,-3014646
+74,70,"magnipes","Thorius","",CR,D,-3014646
+78,77,"insperatus","Thorius","",DD,U,-11513776
+79,77,"minydemus","Thorius","",CR,D,-3014646
+81,80,"minutissimus","Thorius","",CR,D,-3014646
+82,80,"boreas","Thorius","",EN,D,-8572416
+85,84,"narisovalis","Thorius","",CR,D,-3014646
+86,84,"spilogaster","Thorius","",CR,D,-3014646
+88,87,"papaloae","Thorius","",EN,D,-8572416
+89,87,"smithi","Thorius","",CR,U,-3014646
+97,96,"gulolineatus","Gyrinophilus","Berry Cave Salamander",EN,D,-8572416
+98,96,"porphyriticus","Gyrinophilus","Spring Salamander",LC,S,-16731116
+99,95,"palleucus","Gyrinophilus","Tennessee Cave Salamander",VU,D,-11184866
+100,94,"subterraneus","Gyrinophilus","West Virginia Spring Salamander",EN,U,-8572416
+101,93,"marginatus","Stereochilus","Many-lined Salamander",LC,U,-16731116
+103,102,"montanus","Pseudotriton","Mud Salamander",LC,U,-16731116
+104,102,"ruber","Pseudotriton","Red Salamander",LC,D,-16731116
+105,6,"scutatum","Hemidactylium","Four-toed Salamander",LC,S,-16731116
+112,111,"attenuatus","Batrachoseps","California Slender Salamander",LC,S,-16731116
+113,111,"gabrieli","Batrachoseps","San Gabriel Slender Salamander",DD,U,-11513776
+115,114,"diabolicus","Batrachoseps","Hell Hollow Slender Salamander",DD,U,-11513776
+116,114,"relictus","Batrachoseps","Relictual Slender Salamander",DD,U,-11513776
+118,117,"robustus","Batrachoseps","Kern Plateau Salamander",NT,S,-12486656
+119,117,"campi","Batrachoseps","Inyo Mountains Salamander",EN,D,-8572416
+124,123,"kawia","Batrachoseps","Sequoia Slender Salamander",DD,U,-11513776
+125,123,"minor","Batrachoseps","Lesser Slender Salamander",DD,U,-11513776
+126,122,"gregarius","Batrachoseps","Gregarious Slender Salamander",LC,S,-16731116
+127,121,"regius","Batrachoseps","Kings River Slender Salamander",VU,S,-11184866
+128,120,"gavilanensis","Batrachoseps","Gabilan Mountains Slender Salamander",LC,S,-16731116
+134,133,"nigriventris","Batrachoseps","Blackbelly Slender Salamander",LC,S,-16731116
+135,133,"major","Batrachoseps","Garden Slender Salamander",LC,S,-16731116
+136,132,"pacificus","Batrachoseps","Channel Islands Slender Salamander",LC,S,-16731116
+137,131,"simatus","Batrachoseps","Kern Canyon Slender Salamander",VU,S,-11184866
+139,138,"stebbinsi","Batrachoseps","Tehachapi Slender Salamander",VU,U,-11184866
+140,138,"wrightorum","Batrachoseps","",NE,U,-16777216
+141,129,"incognitus","Batrachoseps","San Simeon Slender Salamander",DD,U,-11513776
+142,106,"luciae","Batrachoseps","Santa Lucia Mountains Slender Salamander",LC,S,-16731116
+146,145,"tridactylum","Amphiuma","Three-toed Amphiuma",LC,S,-16731116
+147,145,"means","Amphiuma","Two-toed Amphiuma",LC,U,-16731116
+148,144,"pholeter","Amphiuma","One-toed Amphiuma",NT,D,-12486656
+151,150,"variegatus","Rhyacotriton","Southern Torrent Salamander",LC,S,-16731116
+152,150,"kezeri","Rhyacotriton","Columbia Torrent Salamander",NT,S,-12486656
+154,153,"olympicus","Rhyacotriton","Olympic Torrent Salamander",VU,D,-11184866
+155,153,"cascadae","Rhyacotriton","Cascade Torrent Salamander",NT,D,-12486656
+162,161,"beyeri","Necturus","Gulf Coast Waterdog",LC,U,-16731116
+163,161,"punctatus","Necturus","Dwarf Waterdog",LC,U,-16731116
+164,160,"alabamensis","Necturus","Alabama Waterdog",EN,D,-8572416
+166,165,"lewisi","Necturus","Neuse River Waterdog",NT,D,-12486656
+167,165,"maculosus","Necturus","Mudpuppy",LC,S,-16731116
+168,158,"anguinus","Proteus","Olm",VU,D,-11184866
+171,170,"axanthus","Pseudobranchus","Narrow-striped Dwarf Siren",LC,D,-16731116
+172,170,"striatus","Pseudobranchus","Dwarf Siren",LC,D,-16731116
+174,173,"lacertina","Siren","Greater Siren",LC,U,-16731116
+175,173,"intermedia","Siren","Lesser Siren",LC,U,-16731116

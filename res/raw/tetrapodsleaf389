@@ -1,0 +1,30 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"ferrugineus","Hyperolius","",DD,U,-11513776
+9,7,"acuticeps","Hyperolius","",LC,D,-16731116
+11,10,"xenorhinus","Hyperolius","",DD,U,-11513776
+12,10,"ocellatus","Hyperolius","",LC,S,-16731116
+13,5,"albofrenatus","Hyperolius","",DD,U,-11513776
+16,15,"rhodesianus","Hyperolius","",LC,S,-16731116
+17,15,"frontalis","Hyperolius","",VU,D,-11184866
+18,14,"laurenti","Hyperolius","",VU,D,-11184866
+21,20,"ghesquieri","Hyperolius","",DD,U,-11513776
+22,20,"bicolor","Hyperolius","",DD,U,-11513776
+23,19,"argus","Hyperolius","",LC,D,-16731116
+28,27,"seabrai","Hyperolius","",DD,U,-11513776
+29,27,"raveni","Hyperolius","",DD,U,-11513776
+30,26,"acutirostris","Hyperolius","",NT,D,-12486656
+32,31,"minutissimus","Hyperolius","",VU,D,-11184866
+33,31,"castaneus","Hyperolius","",VU,D,-11184866
+34,24,"thoracotuberculatus","Hyperolius","",DD,U,-11513776
+35,1,"leleupi","Hyperolius","",EN,D,-8572416
+41,40,"fuscigula","Hyperolius","",DD,U,-11513776
+42,40,"parkeri","Hyperolius","",LC,S,-16731116
+43,39,"guttulatus","Hyperolius","Dotted Reed Frog",LC,S,-16731116
+46,45,"nasutus","Hyperolius","Long-nosed Reed Frog",LC,S,-16731116
+47,45,"nitidulus","Hyperolius","",LC,S,-16731116
+48,44,"pictus","Hyperolius","",LC,S,-16731116
+50,49,"baumanni","Hyperolius","Baumann's Reed Frog",LC,S,-16731116
+51,49,"viridigulosus","Hyperolius","",VU,D,-11184866
+54,53,"tannerorum","Hyperolius","",EN,D,-8572416
+55,53,"robustus","Hyperolius","",DD,U,-11513776
+56,52,"polystictus","Hyperolius","",VU,U,-11184866

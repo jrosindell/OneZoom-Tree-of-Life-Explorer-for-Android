@@ -1,143 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"rapax","Crocidura","Chinese White-toothed Shrew",DD,U,-11513776
-17,15,"vorax","Crocidura","Voracious Shrew",LC,U,-16731116
-18,14,"pullata","Crocidura","Kashmir White-toothed Shrew",DD,U,-11513776
-20,19,"muricauda","Crocidura","Mouse-tailed Shrew",LC,U,-16731116
-21,19,"planiceps","Crocidura","Flat-headed Shrew",DD,U,-11513776
-22,12,"levicula","Crocidura","Sulawesi Tiny Shrew",LC,U,-16731116
-25,24,"lusitania","Crocidura","Mauritanian Shrew",LC,U,-16731116
-26,24,"niobe","Crocidura","Niobe's Shrew",NT,U,-12486656
-27,23,"usambarae","Crocidura","Usambara Shrew",EN,D,-8572416
-29,28,"montis","Crocidura","Montane White-toothed Shrew",LC,U,-16731116
-30,28,"tenuis","Crocidura","Timor Shrew",DD,U,-11513776
-37,36,"lepidura","Crocidura","Sumatran Giant Shrew",LC,S,-16731116
-38,36,"orientalis","Crocidura","Oriental Shrew",VU,U,-11184866
-39,35,"foetida","Crocidura","Bornean Shrew",LC,U,-16731116
-40,34,"brunnea","Crocidura","Thick-tailed Shrew",LC,U,-16731116
-41,33,"fuliginosa","Crocidura","Southeast Asian Shrew",LC,U,-16731116
-43,42,"baluensis","Crocidura","Kinabalu Shrew",VU,S,-11184866
-44,42,"vosmaeri","Crocidura","Banka Shrew",DD,U,-11513776
-45,31,"telfordi","Crocidura","Telford's Shrew",EN,D,-8572416
-47,46,"tarella","Crocidura","Tarella Shrew",EN,D,-8572416
-48,46,"ichnusae","Crocidura","",NE,U,-16777216
-49,7,"macarthuri","Crocidura","Macarthur's Shrew",LC,U,-16731116
-54,53,"viaria","Crocidura","Savanna Path Shrew",LC,S,-16731116
-55,53,"lamottei","Crocidura","Lamotte's Shrew",LC,U,-16731116
-56,52,"cyanea","Crocidura","Reddish-gray Musk Shrew",LC,S,-16731116
-57,51,"orii","Crocidura","Ryukyu Shrew",EN,D,-8572416
-60,59,"leucodon","Crocidura","Bicolored Shrew",LC,U,-16731116
-61,59,"caspica","Crocidura","Caspian Shrew",DD,U,-11513776
-62,58,"ansellorum","Crocidura","Ansell's Shrew",EN,D,-8572416
-67,66,"beccarii","Crocidura","Beccari's Shrew",LC,D,-16731116
-68,66,"elongata","Crocidura","Elongated Shrew",LC,D,-16731116
-69,65,"erica","Crocidura","Heather Shrew",DD,U,-11513776
-71,70,"obscurior","Crocidura","Obscure White-toothed Shrew",LC,U,-16731116
-72,70,"smithii","Crocidura","Desert Musk Shrew",LC,U,-16731116
-73,63,"bottegi","Crocidura","Bottego's Shrew",DD,U,-11513776
-77,76,"lasiura","Crocidura","Ussuri Shrew",LC,U,-16731116
-78,76,"attila","Crocidura","Hun Shrew",LC,U,-16731116
-79,75,"allex","Crocidura","East African Highland Shrew",VU,D,-11184866
-80,74,"lanosa","Crocidura","Kivu Long-haired Shrew",EN,D,-8572416
-84,83,"mindorus","Crocidura","Mindoro Shrew",DD,U,-11513776
-85,83,"raineyi","Crocidura","Rainey Shrew",DD,U,-11513776
-86,82,"picea","Crocidura","Cameroonian Shrew",EN,D,-8572416
-88,87,"manengubae","Crocidura","Manenguba Shrew",VU,D,-11184866
-89,87,"pitmani","Crocidura","Pitman's Shrew",DD,U,-11513776
-97,96,"eisentrauti","Crocidura","Eisentraut's Shrew",VU,S,-11184866
-98,96,"desperata","Crocidura","Desperate Shrew",EN,D,-8572416
-99,95,"buettikoferi","Crocidura","Buettikofer's Shrew",NT,D,-12486656
-101,100,"fuscomurina","Crocidura","Bicolored Musk Shrew",LC,U,-16731116
-102,100,"zaphiri","Crocidura","Zaphir's Shrew",DD,U,-11513776
-103,93,"pasha","Crocidura","Pasha Shrew",LC,U,-16731116
-104,92,"jacksoni","Crocidura","Jackson's Shrew",LC,S,-16731116
-106,105,"aleksandrisi","Crocidura","Alexandrian Shrew",LC,S,-16731116
-107,105,"zarudnyi","Crocidura","Zarudny's Shrew",LC,U,-16731116
-112,111,"trichura","Crocidura","Christmas Island Shrew",CR,U,-3014646
-113,111,"tanakae","Crocidura","Taiwanese Gray Shrew",LC,U,-16731116
-114,110,"attenuata","Crocidura","Grey Shrew",LC,U,-16731116
-115,109,"nana","Crocidura","Dwarf White-toothed Shrew",LC,U,-16731116
-116,108,"baileyi","Crocidura","Bailey's Shrew",EN,D,-8572416
-125,124,"susiana","Crocidura","Iranian Shrew",DD,U,-11513776
-126,124,"lea","Crocidura","Sulawesi Shrew",LC,U,-16731116
-127,123,"olivieri","Crocidura","African Giant Shrew",LC,U,-16731116
-129,128,"stenocephala","Crocidura","Kahuzi Swamp Shrew",EN,D,-8572416
-130,128,"hispida","Crocidura","Andaman Spiny Shrew",VU,U,-11184866
-134,133,"thomensis","Crocidura","Sao Tome Shrew",EN,D,-8572416
-135,133,"beatus","Crocidura","Mindanao Shrew",LC,D,-16731116
-136,132,"silacea","Crocidura","Lesser Gray-brown Musk Shrew",LC,S,-16731116
-137,131,"kivuana","Crocidura","Kivu Shrew",VU,U,-11184866
-141,140,"monticola","Crocidura","Sunda Shrew",LC,U,-16731116
-142,140,"glassi","Crocidura","Glass's Shrew",VU,D,-11184866
-143,139,"sibirica","Crocidura","Siberian Shrew",LC,U,-16731116
-145,144,"ultima","Crocidura","Ultimate Shrew",DD,U,-11513776
-146,144,"ludia","Crocidura","Dramatic Shrew",LC,U,-16731116
-151,150,"rhoditis","Crocidura","Sulawesi White-handed Shrew",LC,U,-16731116
-152,150,"latona","Crocidura","Latona Shrew",LC,U,-16731116
-153,149,"lucina","Crocidura","Lucina's Shrew",VU,S,-11184866
-154,148,"floweri","Crocidura","Flower's Shrew",DD,U,-11513776
-157,156,"luna","Crocidura","Greater Gray-brown Musk Shrew",LC,U,-16731116
-158,156,"mariquensis","Crocidura","Swamp Musk Shrew",LC,U,-16731116
-159,155,"paradoxura","Crocidura","Sumatran Long-tailed Shrew",LC,D,-16731116
-162,161,"dolichura","Crocidura","Long-tailed Musk Shrew",LC,U,-16731116
-163,161,"grassei","Crocidura","Grasse's Shrew",LC,U,-16731116
-164,160,"whitakeri","Crocidura","Whitaker's Shrew",LC,U,-16731116
-167,166,"parvipes","Crocidura","Small-footed Shrew",LC,S,-16731116
-168,166,"congobelgica","Crocidura","Congo Shrew",LC,U,-16731116
-169,165,"nigripes","Crocidura","Black-footed Shrew",LC,U,-16731116
-183,182,"harenna","Crocidura","Harenna Shrew",CR,D,-3014646
-184,182,"negrina","Crocidura","Negros Shrew",EN,D,-8572416
-186,185,"hildegardeae","Crocidura","Hildegarde's Shrew",LC,U,-16731116
-187,185,"virgata","Crocidura","",DD,U,-11513776
-188,180,"flavescens","Crocidura","Greater Red Musk Shrew",LC,U,-16731116
-189,179,"crenata","Crocidura","Long-footed Shrew",LC,U,-16731116
-190,178,"gracilipes","Crocidura","Peter's Musk Shrew",DD,U,-11513776
-193,192,"crossei","Crocidura","Crosse's Shrew",LC,U,-16731116
-194,192,"jouvenetae","Crocidura","",LC,U,-16731116
-195,191,"grandiceps","Crocidura","Large-headed Forest Shrew",NT,U,-12486656
-196,176,"poensis","Crocidura","Fraser's Musk Shrew",LC,U,-16731116
-201,200,"greenwoodi","Crocidura","Greenwood's Shrew",LC,U,-16731116
-202,200,"tarfayensis","Crocidura","Saharan Shrew",DD,D,-11513776
-203,199,"maxi","Crocidura","Javanese Shrew",LC,U,-16731116
-205,204,"maquassiensis","Crocidura","Makwassie Musk Shrew",LC,U,-16731116
-206,204,"maurisca","Crocidura","Dark Shrew",LC,U,-16731116
-207,197,"caliginea","Crocidura","African Dusky Shrew",LC,U,-16731116
-209,208,"theresae","Crocidura","Therese's Shrew",LC,U,-16731116
-210,208,"nigeriae","Crocidura","Nigerian Shrew",LC,U,-16731116
-219,218,"wuchihensis","Crocidura","Hainan Island Shrew",DD,U,-11513776
-220,218,"horsfieldii","Crocidura","Horsefield's Shrew",DD,U,-11513776
-221,217,"watasei","Crocidura","Lesser Ryukyu Shrew",LC,S,-16731116
-222,216,"indochinensis","Crocidura","Indochinese Shrew",LC,U,-16731116
-224,223,"serezkyensis","Crocidura","Serezkaya Shrew",LC,U,-16731116
-225,223,"arispa","Crocidura","Jackass Shrew",LC,U,-16731116
-227,226,"cinderella","Crocidura","Cinderella Shrew",LC,U,-16731116
-228,226,"xantippe","Crocidura","Vermiculate Shrew",LC,S,-16731116
-231,230,"canariensis","Crocidura","Canarian Shrew",EN,D,-8572416
-232,230,"grayi","Crocidura","Luzon Shrew",LC,U,-16731116
-233,229,"miya","Crocidura","Sri Lankan Long-tailed Shrew",EN,D,-8572416
-234,212,"nigrofusca","Crocidura","African Black Shrew",LC,U,-16731116
-236,235,"nigricans","Crocidura","Blackish White-toothed Shrew",LC,U,-16731116
-237,235,"russula","Crocidura","Greater White-toothed Shrew",LC,S,-16731116
-242,241,"roosevelti","Crocidura","Roosvelt's Shrew",LC,U,-16731116
-243,241,"wimmeri","Crocidura","Wimmer's Shrew",CR,U,-3014646
-245,244,"denti","Crocidura","Dent's Shrew",LC,U,-16731116
-246,244,"selina","Crocidura","Moon Shrew",DD,U,-11513776
-248,247,"fulvastra","Crocidura","Savanna Shrew",LC,S,-16731116
-249,247,"turba","Crocidura","Tumultuous Shrew",LC,U,-16731116
-253,252,"pergrisea","Crocidura","Pale Grey Shrew",DD,U,-11513776
-254,252,"nimbae","Crocidura","Nimba Shrew",NT,D,-12486656
-255,251,"tansaniana","Crocidura","Tanzanian Shrew",EN,D,-8572416
-256,250,"fischeri","Crocidura","Fischer's Shrew",DD,U,-11513776
-260,259,"douceti","Crocidura","Doucet's Musk Shrew",DD,U,-11513776
-261,259,"dhofarensis","Crocidura","Dhofarian Shrew",DD,U,-11513776
-263,262,"bottegoides","Crocidura","Bale Shrew",EN,D,-8572416
-264,262,"zimmeri","Crocidura","Upemba Shrew",DD,U,-11513776
-266,265,"palawanensis","Crocidura","Palawan Shrew",LC,U,-16731116
-267,265,"thalia","Crocidura","Thalia Shrew",LC,U,-16731116
-273,272,"andamanensis","Crocidura","Andaman White-toothed Shrew",CR,D,-3014646
-274,272,"arabica","Crocidura","Arabian Shrew",LC,U,-16731116
-276,275,"dsinezumi","Crocidura","Dsinezumi Shrew",LC,S,-16731116
-277,275,"macowi","Crocidura","Macow's Shrew",DD,U,-11513776
-278,270,"nanilla","Crocidura","Savanna Dwarf Shrew",LC,S,-16731116
-280,279,"mutesae","Crocidura","Uganda Large-toothed Shrew",DD,U,-11513776
-281,279,"voi","Crocidura","Voi Shrew",LC,S,-16731116
-282,268,"monax","Crocidura","Kilimanjaro Shrew",LC,U,-16731116
+9,8,"erythrocephala","Pipra","Golden-headed Manakin",LC,U,-16731116
+10,8,"mentalis","Pipra","Red-capped Manakin",LC,U,-16731116
+11,7,"rubrocapilla","Pipra","Red-headed Manakin",LC,U,-16731116
+13,12,"deliciosus","Machaeropterus","Club-winged Manakin",LC,U,-16731116
+14,12,"pipra","Pipra","White-crowned Manakin",LC,U,-16731116
+16,15,"chloromeros","Pipra","Round-tailed Manakin",LC,U,-16731116
+17,15,"cornuta","Pipra","Scarlet-horned Manakin",LC,U,-16731116
+19,18,"pyrocephalus","Machaeropterus","Fiery-capped Manakin",LC,U,-16731116
+20,18,"regulus","Machaeropterus","Striped Manakin",LC,U,-16731116
+23,22,"fasciicauda","Pipra","Band-tailed Manakin",LC,U,-16731116
+24,22,"aureola","Pipra","Crimson-hooded Manakin",LC,U,-16731116
+25,21,"filicauda","Pipra","Wire-tailed Manakin",LC,U,-16731116
+29,28,"vitellinus","Manacus","Golden-collared Manakin",LC,U,-16731116
+30,28,"manacus","Manacus","White-bearded Manakin",LC,U,-16731116
+32,31,"aurantiacus","Manacus","Orange-collared Manakin",LC,U,-16731116
+33,31,"candei","Manacus","White-collared Manakin",LC,U,-16731116
+36,35,"aurantiivertex","Heterocercus","Orange-crested Manakin",LC,U,-16731116
+37,35,"flavivertex","Heterocercus","Yellow-crested Manakin",LC,U,-16731116
+38,34,"linteatus","Heterocercus","Flame-crested Manakin",LC,U,-16731116
+43,42,"coeruleocapilla","Lepidothrix","Cerulean-capped Manakin",LC,U,-16731116
+44,42,"iris","Lepidothrix","Opal-crowned Manakin",LC,U,-16731116
+46,45,"coronata","Lepidothrix","Blue-crowned Manakin",LC,U,-16731116
+47,45,"nattereri","Lepidothrix","Snow-capped Manakin",LC,U,-16731116
+50,49,"suavissima","Lepidothrix","Orange-bellied Manakin",LC,U,-16731116
+51,49,"serena","Lepidothrix","White-fronted Manakin",LC,U,-16731116
+52,48,"vilasboasi","Lepidothrix","Golden-crowned Manakin",VU,U,-11184866
+53,39,"isidorei","Lepidothrix","Blue-rumped Manakin",LC,U,-16731116
+60,59,"lanceolata","Chiroxiphia","Lance-tailed Manakin",LC,U,-16731116
+61,59,"pareola","Chiroxiphia","Blue-backed Manakin",LC,U,-16731116
+63,62,"caudata","Chiroxiphia","Swallow-tailed Manakin",LC,U,-16731116
+64,62,"boliviana","Chiroxiphia","Yungas Manakin",LC,U,-16731116
+65,57,"linearis","Chiroxiphia","Long-tailed Manakin",LC,U,-16731116
+67,66,"bokermanni","Antilophia","Araripe Manakin",CR,U,-3014646
+68,66,"galeata","Antilophia","Helmeted Manakin",LC,U,-16731116
+73,72,"gutturalis","Corapipo","White-throated Manakin",LC,U,-16731116
+74,72,"leucorrhoa","Corapipo","White-bibbed Manakin",LC,U,-16731116
+75,71,"altera","Corapipo","White-ruffed Manakin",LC,U,-16731116
+76,70,"chrysopterus","Masius","Golden-winged Manakin",LC,U,-16731116
+77,69,"militaris","Ilicura","Pin-tailed Manakin",LC,U,-16731116
+81,80,"holochlora","Xenopipo","Green Manakin",LC,U,-16731116
+82,80,"unicolor","Xenopipo","Jet Manakin",LC,U,-16731116
+83,79,"flavicapilla","Xenopipo","Yellow-headed Manakin",NT,U,-12486656
+85,84,"atronitens","Xenopipo","Black Manakin",LC,U,-16731116
+86,84,"uniformis","Xenopipo","Olive Manakin",LC,U,-16731116

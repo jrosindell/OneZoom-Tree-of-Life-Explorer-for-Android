@@ -1,0 +1,76 @@
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"pyrenaica","Capra","IBERIAN WILD GOAT",LC,I,-16731116
+15,13,"ibex","Capra","Alpine Ibex",LC,I,-16731116
+17,16,"nubiana","Capra","Nubian Ibex",VU,D,-11184866
+18,16,"walie","Capra","Walia Ibex",EN,I,-8572416
+21,20,"jemlahicus","Hemitragus","Himalayan Tahr",NT,D,-12486656
+22,20,"jayakari","Hemitragus","",NE,U,-16777216
+23,19,"hylocrius","Hemitragus","",NE,U,-16777216
+26,25,"sibirica","Capra","Siberian Ibex",LC,U,-16731116
+27,25,"falconeri","Capra","Markhor",EN,D,-8572416
+28,24,"hircus","Capra","",NE,U,-16777216
+29,9,"caucasica","Capra","Western Tur",EN,D,-8572416
+31,30,"schaeferi","Pseudois","Dwarf Bharal",EN,D,-8572416
+32,30,"nayaur","Pseudois","Bharal",LC,U,-16731116
+37,36,"dalli","Ovis","Thinhorn Sheep",LC,S,-16731116
+38,36,"nivicola","Ovis","Snow Sheep",LC,U,-16731116
+39,35,"canadensis","Ovis","Bighorn Sheep",LC,S,-16731116
+41,40,"ammon","Ovis","Argali",NT,D,-12486656
+42,40,"aries","Ovis","",NE,U,-16777216
+43,33,"taxicolor","Budorcas","Takin",VU,D,-11184866
+46,45,"pyrenaica","Rupicapra","Pyrenean Chamois",LC,I,-16731116
+47,45,"rupicapra","Rupicapra","Northern Chamois",LC,U,-16731116
+48,44,"lervia","Ammotragus","Aoudad",VU,D,-11184866
+56,55,"milneedwardsii","Capricornis","Chinese Serow",NT,D,-12486656
+57,55,"sumatraensis","Capricornis","Serow",VU,D,-11184866
+58,54,"thar","Capricornis","Himalayan Serow",NT,D,-12486656
+59,53,"rubidus","Capricornis","Red Serow",NT,D,-12486656
+60,52,"goral","Naemorhedus","Himalayan Goral",NT,D,-12486656
+62,61,"baileyi","Naemorhedus","Red Goral",VU,D,-11184866
+63,61,"moschatus","Ovibos","Muskox",LC,S,-16731116
+67,66,"caudatus","Naemorhedus","Long-tailed Goral",VU,D,-11184866
+68,66,"griseus","Naemorhedus","Chinese Goral",VU,D,-11184866
+69,65,"swinhoei","Capricornis","Formosan Serow",LC,U,-16731116
+70,64,"crispus","Capricornis","Japanese Serow",LC,I,-16731116
+71,49,"americanus","Oreamnos","Mountain Goat",LC,S,-16731116
+72,4,"hodgsonii","Pantholops","Chiru",EN,D,-8572416
+79,78,"lunatus","Damaliscus","Tiang",LC,D,-16731116
+80,78,"korrigum","Damaliscus","",NE,U,-16777216
+81,77,"pygargus","Damaliscus","Blesbok",LC,S,-16731116
+82,76,"hunteri","Beatragus","Hirola",CR,D,-3014646
+84,83,"taurinus","Connochaetes","Common Wildebeest",LC,S,-16731116
+85,83,"gnou","Connochaetes","Black Wildebeest",LC,I,-16731116
+88,87,"buselaphus","Alcelaphus","Hartebeest",LC,D,-16731116
+89,87,"caama","Alcelaphus","",NE,U,-16777216
+90,86,"lichtensteinii","Alcelaphus","",NE,U,-16777216
+96,95,"beisa","Oryx","Beisa/fringe-eared Oryx",NT,D,-12486656
+97,95,"gazella","Oryx","Gemsbok",LC,S,-16731116
+98,94,"leucoryx","Oryx","Arabian Oryx",EN,D,-8572416
+99,93,"dammah","Oryx","Scimitar-horned Oryx",EW,U,-12832121
+100,92,"nasomaculatus","Addax","Addax",CR,D,-3014646
+102,101,"equinus","Hippotragus","Roan Antelope",LC,D,-16731116
+103,101,"niger","Hippotragus","Sable Antelope",LC,S,-16731116
+105,104,"oreotragus","Oreotragus","Klipspringer",LC,S,-16731116
+106,104,"kirkii","Madoqua","Kirk's Dik-dik",LC,S,-16731116
+117,116,"cuvieri","Gazella","Cuvier's Gazelle",EN,U,-8572416
+118,116,"leptoceros","Gazella","Rhim",EN,D,-8572416
+119,115,"subgutturosa","Gazella","Goitered Gazelle",VU,D,-11184866
+121,120,"saudiya","Gazella","Saudi Gazelle",EX,U,-16777036
+122,120,"bennettii","Gazella","Chinkara",LC,S,-16731116
+126,125,"gazella","Gazella","Mountain Gazelle",VU,D,-11184866
+127,125,"erlangeri","Gazella","",NE,U,-16777216
+128,124,"dorcas","Gazella","Dorcas Gazelle",VU,D,-11184866
+129,123,"spekei","Gazella","Speke's Gazelle",EN,D,-8572416
+133,132,"soemmerringii","Nanger","Soemmerring's Gazelle",VU,D,-11184866
+134,132,"dama","Nanger","Dama Gazelle",CR,D,-3014646
+135,131,"granti","Nanger","Grant's Gazelle",LC,D,-16731116
+137,136,"rufifrons","Eudorcas","Red-fronted Gazelle",VU,D,-11184866
+138,136,"thomsonii","Eudorcas","Thomson's Gazelle",NT,D,-12486656
+139,111,"cervicapra","Antilope","Blackbuck",NT,S,-12486656
+140,110,"marsupialis","Antidorcas","Springbok",LC,I,-16731116
+142,141,"clarkei","Ammodorcas","Clarke's Gazelle",VU,D,-11184866
+143,141,"walleri","Litocranius","Gerenuk",NT,D,-12486656
+145,144,"tatarica","Saiga","SAIGA",CR,D,-3014646
+146,144,"borealis","Saiga","",NE,U,-16777216
+147,107,"moschatus","Neotragus","",NE,U,-16777216
+148,0,"saltiana","Madoqua","Salt's Dik-dik",LC,S,-16731116

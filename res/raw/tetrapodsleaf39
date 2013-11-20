@@ -1,111 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"ceuthospilus","Eleutherodactylus","",NE,U,-16777216
-14,12,"librarius","Eleutherodactylus","",NE,U,-16777216
-15,11,"lividus","Eleutherodactylus","",NE,U,-16777216
-16,10,"philipi","Eleutherodactylus","",NE,U,-16777216
-17,9,"cruentus","Eleutherodactylus","",NE,U,-16777216
-19,18,"diadematus","Eleutherodactylus","",NE,U,-16777216
-20,18,"roseus","Eleutherodactylus","",NE,U,-16777216
-23,22,"ocreatus","Eleutherodactylus","",NE,U,-16777216
-24,22,"lindae","Eleutherodactylus","",NE,U,-16777216
-25,21,"verecundus","Eleutherodactylus","",NE,U,-16777216
-26,6,"incanus","Eleutherodactylus","",NE,U,-16777216
-30,29,"colostichos","Eleutherodactylus","",NE,U,-16777216
-31,29,"latidiscus","Eleutherodactylus","",NE,U,-16777216
-32,28,"unistrigatus","Eleutherodactylus","",NE,U,-16777216
-33,27,"supernatis","Eleutherodactylus","",NE,U,-16777216
-40,39,"cantitans","Eleutherodactylus","",NE,U,-16777216
-41,39,"prolatus","Eleutherodactylus","",NE,U,-16777216
-42,38,"pastazensis","Eleutherodactylus","",NE,U,-16777216
-43,37,"katoptroides","Eleutherodactylus","",NE,U,-16777216
-46,45,"taeniatus","Eleutherodactylus","",NE,U,-16777216
-47,45,"aaptus","Eleutherodactylus","",NE,U,-16777216
-48,44,"rhabdocnemus","Eleutherodactylus","",NE,U,-16777216
-50,49,"marmoratus","Eleutherodactylus","",NE,U,-16777216
-51,49,"proserpens","Eleutherodactylus","",NE,U,-16777216
-56,55,"calcarulatus","Eleutherodactylus","",NE,U,-16777216
-57,55,"pecki","Eleutherodactylus","",NE,U,-16777216
-58,54,"quantus","Eleutherodactylus","",NE,U,-16777216
-59,53,"rozei","Eleutherodactylus","",NE,U,-16777216
-61,60,"eremitus","Eleutherodactylus","",NE,U,-16777216
-62,60,"gracilis","Eleutherodactylus","",NE,U,-16777216
-68,67,"luteolateralis","Eleutherodactylus","",NE,U,-16777216
-69,67,"torrenticola","Eleutherodactylus","",NE,U,-16777216
-70,66,"spilogaster","Eleutherodactylus","",NE,U,-16777216
-72,71,"prolixodiscus","Eleutherodactylus","",NE,U,-16777216
-73,71,"llojsintuta","Eleutherodactylus","",NE,U,-16777216
-76,75,"subsigillatus","Eleutherodactylus","",NE,U,-16777216
-77,75,"diaphonus","Eleutherodactylus","",NE,U,-16777216
-78,74,"ardalonychus","Eleutherodactylus","",NE,U,-16777216
-81,80,"nephophilus","Eleutherodactylus","",NE,U,-16777216
-82,80,"bellona","Eleutherodactylus","",NE,U,-16777216
-83,79,"rhodoplichus","Eleutherodactylus","",NE,U,-16777216
-91,90,"zimmermanae","Eleutherodactylus","",NE,U,-16777216
-92,90,"glandulosus","Eleutherodactylus","",NE,U,-16777216
-93,89,"thymalopsoides","Eleutherodactylus","",NE,U,-16777216
-94,88,"muricatus","Eleutherodactylus","",NE,U,-16777216
-97,96,"pteridophilus","Eleutherodactylus","",NE,U,-16777216
-98,96,"tayrona","Eleutherodactylus","",NE,U,-16777216
-99,95,"anemerus","Eleutherodactylus","",NE,U,-16777216
-102,101,"acuminatus","Eleutherodactylus","",NE,U,-16777216
-103,101,"phalarus","Eleutherodactylus","",NE,U,-16777216
-104,100,"lythrodes","Eleutherodactylus","",NE,U,-16777216
-105,85,"cremnobates","Eleutherodactylus","",NE,U,-16777216
-108,107,"stictogaster","Eleutherodactylus","",NE,U,-16777216
-109,107,"cacao","Eleutherodactylus","",NE,U,-16777216
-110,106,"jorgevelosai","Eleutherodactylus","",NE,U,-16777216
-120,119,"nyctophylax","Eleutherodactylus","",NE,U,-16777216
-121,119,"schultei","Eleutherodactylus","",NE,U,-16777216
-122,118,"inguinalis","Eleutherodactylus","",NE,U,-16777216
-123,117,"memorans","Eleutherodactylus","",NE,U,-16777216
-124,116,"inusitatus","Eleutherodactylus","",NE,U,-16777216
-127,126,"pycnodermis","Eleutherodactylus","",NE,U,-16777216
-128,126,"ruidus","Eleutherodactylus","",NE,U,-16777216
-130,129,"atratus","Eleutherodactylus","",NE,U,-16777216
-131,129,"moro","Eleutherodactylus","",NE,U,-16777216
-133,132,"nervicus","Eleutherodactylus","",NE,U,-16777216
-134,132,"bacchus","Eleutherodactylus","",NE,U,-16777216
-140,139,"balionotus","Eleutherodactylus","",NE,U,-16777216
-141,139,"versicolor","Eleutherodactylus","",NE,U,-16777216
-142,138,"lirellus","Eleutherodactylus","",NE,U,-16777216
-143,137,"phragmipleuron","Eleutherodactylus","",NE,U,-16777216
-144,136,"carvalhoi","Eleutherodactylus","",NE,U,-16777216
-148,147,"cabrerai","Eleutherodactylus","",NE,U,-16777216
-149,147,"pugnax","Eleutherodactylus","",NE,U,-16777216
-150,146,"affinis","Eleutherodactylus","",NE,U,-16777216
-151,145,"baryecuus","Eleutherodactylus","",NE,U,-16777216
-155,154,"lacrimosus","Eleutherodactylus","",NE,U,-16777216
-156,154,"museosus","Eleutherodactylus","",NE,U,-16777216
-157,153,"rhodostichus","Eleutherodactylus","",NE,U,-16777216
-158,152,"calcaratus","Eleutherodactylus","",NE,U,-16777216
-162,161,"mercedesae","Eleutherodactylus","",NE,U,-16777216
-163,161,"petersi","Eleutherodactylus","",NE,U,-16777216
-164,160,"nigrogriseus","Eleutherodactylus","",NE,U,-16777216
-165,159,"anotis","Eleutherodactylus","",NE,U,-16777216
-177,176,"cajamarcensis","Eleutherodactylus","",NE,U,-16777216
-178,176,"serendipitus","Eleutherodactylus","",NE,U,-16777216
-179,175,"bromeliaceus","Eleutherodactylus","",NE,U,-16777216
-180,174,"muscosus","Eleutherodactylus","",NE,U,-16777216
-181,173,"ventrimarmoratus","Eleutherodactylus","",NE,U,-16777216
-182,172,"pruinatus","Eleutherodactylus","",NE,U,-16777216
-183,171,"variabilis","Eleutherodactylus","",NE,U,-16777216
-185,184,"platydactylus","Eleutherodactylus","",NE,U,-16777216
-186,184,"leucopus","Eleutherodactylus","",NE,U,-16777216
-188,187,"phoxocephalus","Eleutherodactylus","",NE,U,-16777216
-189,187,"colodactylus","Eleutherodactylus","",NE,U,-16777216
-191,190,"hernandezi","Eleutherodactylus","",NE,U,-16777216
-192,190,"miyatai","Eleutherodactylus","",NE,U,-16777216
-197,196,"chloronotus","Eleutherodactylus","",NE,U,-16777216
-198,196,"alalocophus","Eleutherodactylus","",NE,U,-16777216
-200,199,"laticlavius","Eleutherodactylus","",NE,U,-16777216
-201,199,"spinosus","Eleutherodactylus","",NE,U,-16777216
-202,194,"brevifrons","Eleutherodactylus","",NE,U,-16777216
-207,206,"grandiceps","Eleutherodactylus","",NE,U,-16777216
-208,206,"modipeplus","Eleutherodactylus","",NE,U,-16777216
-209,205,"eriphus","Eleutherodactylus","",NE,U,-16777216
-210,204,"petrobardus","Eleutherodactylus","",NE,U,-16777216
-211,203,"vicarius","Eleutherodactylus","",NE,U,-16777216
-214,213,"sternothylax","Eleutherodactylus","",NE,U,-16777216
-215,213,"quaquaversus","Eleutherodactylus","",NE,U,-16777216
-217,216,"elegans","Eleutherodactylus","",NE,U,-16777216
-218,216,"altae","Eleutherodactylus","",NE,U,-16777216
+9,8,"sclateri","Thryothorus","Speckle-breasted Wren",LC,U,-16731116
+10,8,"spadix","Thryothorus","Sooty-headed Wren",LC,U,-16731116
+12,11,"leucoptera","Henicorhina","Bar-winged Wood-wren",NT,U,-12486656
+13,11,"felix","Thryothorus","Happy Wren",LC,U,-16731116
+15,14,"maculipectus","Thryothorus","Spot-breasted Wren",LC,U,-16731116
+16,14,"rutilus","Thryothorus","Rufous-breasted Wren",LC,U,-16731116
+17,5,"atrogularis","Thryothorus","Black-throated Wren",LC,U,-16731116
+18,4,"negreti","Henicorhina","Munchique Wood-wren",CR,U,-3014646
+22,21,"euophrys","Thryothorus","Plain-tailed Wren",LC,U,-16731116
+23,21,"mystacalis","Thryothorus","Whiskered Wren",LC,U,-16731116
+25,24,"genibarbis","Thryothorus","Moustached Wren",LC,U,-16731116
+26,24,"coraya","Thryothorus","Coraya Wren",LC,U,-16731116
+27,19,"fasciatoventris","Thryothorus","Black-bellied Wren",LC,U,-16731116
+29,28,"leucophrys","Henicorhina","Grey-breasted Wood-wren",LC,U,-16731116
+30,28,"griseus","Thryothorus","Grey Wren",LC,U,-16731116
+38,37,"guarayanus","Thryothorus","Fawn-breasted Wren",LC,U,-16731116
+39,37,"leucotis","Thryothorus","Buff-breasted Wren",LC,U,-16731116
+40,36,"longirostris","Thryothorus","Long-billed Wren",LC,U,-16731116
+41,35,"superciliaris","Thryothorus","Superciliated Wren",LC,U,-16731116
+44,43,"semibadius","Thryothorus","Riverside Wren",LC,U,-16731116
+45,43,"nicefori","Thryothorus","Niceforo's Wren",CR,U,-3014646
+47,46,"nigricapillus","Thryothorus","Bay Wren",LC,U,-16731116
+48,46,"cerverai","Ferminia","Zapata Wren",EN,U,-8572416
+49,33,"modestus","Thryothorus","Plain Wren",LC,U,-16731116
+51,50,"thoracicus","Thryothorus","Stripe-breasted Wren",LC,U,-16731116
+52,50,"leucopogon","Thryothorus","Stripe-throated Wren",LC,U,-16731116
+56,55,"eisenmanni","Thryothorus","Inca Wren",LC,U,-16731116
+57,55,"sinaloa","Thryothorus","Sinaloa Wren",LC,U,-16731116
+58,54,"pleurostictus","Thryothorus","Banded Wren",LC,U,-16731116
+59,53,"rufalbus","Thryothorus","Rufous-and-white Wren",LC,U,-16731116
+62,61,"leucosticta","Henicorhina","White-breasted Wood-wren",LC,U,-16731116
+63,61,"ludovicianus","Thryothorus","Carolina Wren",LC,U,-16731116
+64,60,"bewickii","Thryomanes","Bewick's Wren",LC,U,-16731116

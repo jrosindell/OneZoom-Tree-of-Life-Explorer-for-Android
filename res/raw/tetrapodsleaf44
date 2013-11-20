@@ -1,108 +1,89 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"airensis","Acomys","Western Saharan Spiny Mouse",LC,S,-16731116
-15,13,"seurati","Acomys","Seurat's Spiny Mouse",LC,S,-16731116
-17,16,"dimidiatus","Acomys","Arabian Spiny Mouse",LC,U,-16731116
-18,16,"cahirinus","Acomys","Cairo Spiny Mouse",LC,S,-16731116
-19,11,"chudeaui","Acomys","",NE,U,-16777216
-21,20,"minous","Acomys","Crete Spiny Mouse",DD,U,-11513776
-22,20,"kempi","Acomys","Kemp's Spiny Mouse",LC,S,-16731116
-25,24,"johannis","Acomys","Johan's Spiny Mouse",LC,S,-16731116
-26,24,"cineraceus","Acomys","Gray Spiny Mouse",LC,S,-16731116
-27,23,"cilicicus","Acomys","Asia Minor Spiny Mouse",DD,U,-11513776
-29,28,"wilsoni","Acomys","Wilson's Spiny Mouse",LC,S,-16731116
-30,28,"spinosissimus","Acomys","Spiny Mouse",LC,S,-16731116
-31,7,"percivali","Acomys","Percival's Spiny Mouse",LC,S,-16731116
-35,34,"nesiotes","Acomys","Cyprus Spiny Mouse",DD,U,-11513776
-36,34,"ignitus","Acomys","Fiery Spiny Mouse",LC,S,-16731116
-37,33,"russatus","Acomys","Golden Spiny Mouse",LC,U,-16731116
-39,38,"subspinosus","Acomys","Cape Spiny Mouse",LC,S,-16731116
-40,38,"mullah","Acomys","Mullah Spiny Mouse",LC,U,-16731116
-41,5,"louisae","Acomys","Louise's Spiny Mouse",LC,S,-16731116
-42,4,"ruddi","Uranomys","Rudd's Bristle-furred Rat",LC,D,-16731116
-51,50,"brunneus","Lophuromys","",NE,U,-16777216
-52,50,"zena","Lophuromys","",NE,U,-16777216
-53,49,"flavopunctatus","Lophuromys","Yellow-spotted Brush-furred Rat",LC,U,-16731116
-54,48,"chrysopus","Lophuromys","Ethiopian Forest Brush-furred Rat",LC,U,-16731116
-55,47,"brevicaudus","Lophuromys","Short-tailed Brush-furred Rat",NT,D,-12486656
-56,46,"melanonyx","Lophuromys","Black-clawed Brush-furred Rat",VU,U,-11184866
-57,45,"nudicaudus","Lophuromys","Fire-bellied Brush-furred Rat",LC,U,-16731116
-61,60,"sikapusi","Lophuromys","Rusty-bellied Brush-furred Rat",LC,U,-16731116
-62,60,"ansorgei","Lophuromys","",NE,U,-16777216
-63,59,"eisentrauti","Lophuromys","",EN,D,-8572416
-65,64,"luteogaster","Lophuromys","Yellow-bellied Brush-furred Rat",LC,U,-16731116
-66,64,"aquilus","Lophuromys","",NE,U,-16777216
-69,68,"medicaudatus","Lophuromys","Medium-tailed Brush-furred Rat",VU,D,-11184866
-70,68,"rahmi","Lophuromys","Rahm's Brush-furred Rat",EN,U,-8572416
-71,67,"woosnami","Lophuromys","Woosnam's Brush-furred Rat",LC,U,-16731116
-81,80,"cremoriventer","Niviventer","Sundaic Arboreal Niviventer",VU,D,-11184866
-82,80,"hinpoon","Niviventer","Limestone Niviventer",DD,U,-11513776
-83,79,"andersoni","Niviventer","Anderson's Niviventer",LC,U,-16731116
-84,78,"coninga","Niviventer","Spiny Taiwan Niviventer",LC,U,-16731116
-85,77,"niviventer","Niviventer","Himalayan White-bellied Rat",LC,U,-16731116
-86,76,"brahma","Niviventer","Brahma White-bellied Rat",LC,S,-16731116
-88,87,"culturatus","Niviventer","Soft-furred Taiwan Niviventer",NT,D,-12486656
-89,87,"langbianis","Niviventer","Lang Bian White-bellied Rat",LC,D,-16731116
-91,90,"confucianus","Niviventer","Confucian Niviventer",LC,S,-16731116
-92,90,"excelsior","Niviventer","Sichuan Niviventer",LC,U,-16731116
-95,94,"tenaster","Niviventer","Indochinese Mountain Niviventer",LC,U,-16731116
-96,94,"fulvescens","Niviventer","Chestnut White-bellied Rat",LC,D,-16731116
-97,93,"lepturus","Niviventer","Montane Javan Niviventer",LC,S,-16731116
-101,100,"fraternus","Niviventer","Montane Sumatran Niviventer",LC,U,-16731116
-102,100,"rapit","Niviventer","Montane Bornean Niviventer",LC,U,-16731116
-103,99,"cameroni","Niviventer","Cameron Highlands Niviventer",VU,D,-11184866
-104,98,"eha","Niviventer","Little Himalayan Rat",LC,S,-16731116
-113,112,"orangiae","Mus","Free State Pygmy Mouse",LC,U,-16731116
-114,112,"neavei","Mus","Neave's Mouse",DD,U,-11513776
-115,111,"mattheyi","Mus","Matthey's Mouse",LC,S,-16731116
-117,116,"setzeri","Mus","Setzer's Mouse",LC,S,-16731116
-118,116,"bufo","Mus","Toad Mouse",LC,S,-16731116
-120,119,"triton","Mus","Gray-bellied Mouse",LC,S,-16731116
-121,119,"baoulei","Mus","Baoule's Mouse",LC,S,-16731116
-123,122,"oubanguii","Mus","Oubangui Mouse",DD,U,-11513776
-124,122,"minutoides","Mus","Pygmy Mouse",LC,S,-16731116
-131,130,"indutus","Mus","Desert Pygmy Mouse",LC,S,-16731116
-132,130,"tenellus","Mus","Delicate Mouse",LC,S,-16731116
-133,129,"setulosus","Mus","Peter's Mouse",LC,S,-16731116
-134,128,"sorella","Mus","Thomas's Mouse",LC,S,-16731116
-135,127,"goundae","Mus","Gounda Mouse",DD,U,-11513776
-138,137,"haussa","Mus","Hausa Mouse",LC,S,-16731116
-139,137,"musculoides","Mus","",LC,U,-16731116
-140,136,"mahomet","Mus","Mahomet Mouse",LC,S,-16731116
-141,125,"callewaerti","Mus","Callewaert's Mouse",LC,U,-16731116
-146,145,"cervicolor","Mus","Fawn-colored Mouse",LC,S,-16731116
-147,145,"spretus","Mus","Algerian Mouse",LC,S,-16731116
-149,148,"terricolor","Mus","Earth-colored Mouse",LC,S,-16731116
-150,148,"cookii","Mus","Cook's Mouse",LC,S,-16731116
-151,143,"musculus","Mus","House Mouse",LC,S,-16731116
-155,154,"booduga","Mus","Common Indian Field Mouse",LC,S,-16731116
-156,154,"caroli","Mus","Ryukyu Mouse",LC,S,-16731116
-157,153,"macedonicus","Mus","Balkan Short-tailed Mouse",LC,S,-16731116
-158,152,"spicilegus","Mus","Mound-building Mouse",LC,D,-16731116
-163,162,"fernandoni","Mus","Ceylon Spiny Mouse",EN,D,-8572416
-164,162,"saxicola","Mus","Brown Spiny Mouse",LC,S,-16731116
-165,161,"phillipsi","Mus","Wroughton's Small Spiny Mouse",LC,S,-16731116
-167,166,"shortridgei","Mus","Shortridge's Mouse",LC,S,-16731116
-168,166,"platythrix","Mus","Brown Spiny Mouse",LC,S,-16731116
-173,172,"pahari","Mus","Gairdner's Shrewmouse",LC,S,-16731116
-174,172,"famulus","Mus","Bonhote's Mouse",EN,D,-8572416
-175,171,"crociduroides","Mus","Sumatran Shrewlike Mouse",DD,U,-11513776
-176,170,"mayori","Mus","Mayor's Mouse",VU,U,-11184866
-177,169,"vulcani","Mus","Javan Shrew-like Mouse",VU,S,-11184866
-184,183,"stannarius","Aethomys","Tinfields Rock Rat",DD,U,-11513776
-185,183,"namaquensis","Micaelamys","",NE,U,-16777216
-186,182,"bocagei","Aethomys","Bocage's Rock Rat",LC,U,-16731116
-188,187,"thomasi","Aethomys","Thomas's Rock Rat",LC,U,-16731116
-189,187,"nyikae","Aethomys","Nyika Rock Rat",LC,U,-16731116
-191,190,"kaiseri","Aethomys","Kaiser's Rock Rat",LC,U,-16731116
-192,190,"granti","Micaelamys","",NE,U,-16777216
-196,195,"ineptus","Aethomys","Tete Veld Aethomys",LC,U,-16731116
-197,195,"chrysophilus","Aethomys","Red Rock Rat",LC,U,-16731116
-198,194,"hindei","Aethomys","Hinde's Rock Rat",LC,U,-16731116
-199,193,"silindensis","Aethomys","Selinda Veld Rat",DD,U,-11513776
-205,204,"campanae","Pelomys","Bell Groove-toothed Swamp Rat",LC,U,-16731116
-206,204,"minor","Pelomys","Least Groove-toothed Swamp Rat",LC,U,-16731116
-207,203,"hopkinsi","Pelomys","Hopkins's Groove-toothed Swamp Rat",DD,U,-11513776
-208,202,"fallax","Pelomys","Creek Groove-toothed Swamp Rat",LC,U,-16731116
-209,201,"isseli","Pelomys","Issel's Groove-toothed Swamp Rat",DD,U,-11513776
-211,210,"dybowskii","Mylomys","African Groove-toothed Rat",LC,U,-16731116
-212,210,"rex","Mylomys","Ethiopian Mylomys",DD,U,-11513776
+17,16,"uropygialis","Zosterops","Golden-bellied White-eye",NT,U,-12486656
+18,16,"flavus","Zosterops","Javan White-eye",NT,U,-12486656
+19,15,"atrifrons","Zosterops","Black-crowned White-eye",LC,U,-16731116
+20,14,"salvadorii","Zosterops","Enggano White-eye",LC,U,-16731116
+22,21,"novaeguineae","Zosterops","New Guinea White-eye",LC,U,-16731116
+23,21,"chloris","Zosterops","Lemon-bellied White-eye",LC,U,-16731116
+24,12,"anomalus","Zosterops","Lemon-throated White-eye",LC,U,-16731116
+32,31,"lugubris","Speirops","Black-capped Speirops",LC,U,-16731116
+33,31,"leucophoeus","Speirops","Principe Speirops",NT,U,-12486656
+34,30,"brunneus","Speirops","Fernando Po Speirops",VU,U,-11184866
+35,29,"melanocephalus","Speirops","Mount Cameroon Speirops",VU,U,-11184866
+38,37,"senegalensis","Zosterops","African Yellow White-eye",LC,U,-16731116
+39,37,"mysorensis","Zosterops","Biak White-eye",NT,U,-12486656
+41,40,"poliogastrus","Zosterops","Montane White-eye",LC,U,-16731116
+42,40,"explorator","Zosterops","Layard's White-eye",LC,U,-16731116
+44,43,"sordidus","Micromacronus","Mindanao Miniature-babbler",DD,U,-11513776
+45,43,"leytensis","Micromacronus","Visayan Miniature-babbler",DD,U,-11513776
+48,47,"maderaspatanus","Zosterops","Madagascar White-eye",LC,U,-16731116
+49,47,"modestus","Zosterops","Seychelles White-eye",EN,U,-8572416
+50,46,"pallidus","Zosterops","Pale White-eye",LC,U,-16731116
+55,54,"mouroniensis","Zosterops","Mount Karthala White-eye",VU,U,-11184866
+56,54,"borbonicus","Zosterops","Mascarene Grey White-eye",LC,U,-16731116
+57,53,"olivaceus","Zosterops","Reunion Olive White-eye",LC,U,-16731116
+60,59,"sanctaecrucis","Zosterops","Santa Cruz White-eye",LC,U,-16731116
+61,59,"natalis","Zosterops","Christmas Island White-eye",VU,U,-11184866
+62,58,"semperi","Zosterops","Caroline Islands White-eye",LC,U,-16731116
+65,64,"palpebrosus","Zosterops","Oriental White-eye",LC,U,-16731116
+66,64,"mayottensis","Zosterops","Mayotte White-eye",LC,U,-16731116
+67,63,"meyeni","Zosterops","Lowland White-eye",LC,U,-16731116
+68,9,"ruficollis","Madanga","Rufous-throated White-eye",EN,U,-8572416
+72,71,"xanthochroa","Zosterops","Green-backed White-eye",LC,U,-16731116
+73,71,"atriceps","Zosterops","Creamy-throated White-eye",LC,U,-16731116
+74,70,"finschii","Zosterops","Dusky White-eye",LC,U,-16731116
+76,75,"albogularis","Zosterops","White-chested White-eye",CR,U,-3014646
+77,75,"vaughani","Zosterops","Pemba White-eye",LC,U,-16731116
+83,82,"chloronothus","Zosterops","Mauritius Olive White-eye",CR,U,-3014646
+84,82,"minutus","Zosterops","Small Lifu White-eye",LC,U,-16731116
+86,85,"palauensis","Megazosterops","Giant White-eye",NT,U,-12486656
+87,85,"grayi","Zosterops","Pearl-bellied White-eye",NT,U,-12486656
+88,80,"gibbsi","Zosterops","Vanikoro White-eye",LC,U,-16731116
+91,90,"consobrinorum","Zosterops","Pale-bellied White-eye",LC,U,-16731116
+92,90,"griseovirescens","Zosterops","Annobon White-eye",VU,U,-11184866
+93,89,"stalkeri","Tephrozosterops","Bicoloured White-eye",LC,U,-16731116
+95,94,"wallacei","Zosterops","Yellow-spectacled White-eye",LC,U,-16731116
+96,94,"minor","Zosterops","Black-fronted White-eye",LC,U,-16731116
+102,101,"javanicus","Lophozosterops","Javan Grey-throated White-eye",LC,U,-16731116
+103,101,"dohertyi","Lophozosterops","Crested White-eye",LC,U,-16731116
+105,104,"squamiceps","Lophozosterops","Streaky-headed White-eye",LC,U,-16731116
+106,104,"pinaiae","Lophozosterops","Grey-hooded White-eye",LC,U,-16731116
+107,99,"goodfellowi","Lophozosterops","Black-masked White-eye",LC,U,-16731116
+108,98,"superciliaris","Lophozosterops","Yellow-browed White-eye",LC,U,-16731116
+111,110,"crassirostris","Heleia","Thick-billed White-eye",LC,U,-16731116
+112,110,"muelleri","Heleia","Spot-breasted White-eye",NT,U,-12486656
+113,109,"squamifrons","Oculocincta","Pygmy White-eye",LC,U,-16731116
+114,5,"marchei","Cleptornis","Golden White-eye",CR,U,-3014646
+117,116,"leucogrammica","Ptilocichla","Bornean Wren-babbler",VU,U,-11184866
+118,116,"mindanensis","Ptilocichla","Striated Wren-babbler",LC,U,-16731116
+119,115,"falcata","Ptilocichla","Falcated Wren-babbler",VU,U,-11184866
+121,120,"hypogrammica","Stachyris","Palawan Striped-babbler",NT,U,-12486656
+122,120,"nigricollis","Stachyris","Black-throated Babbler",NT,U,-12486656
+125,124,"latistriata","Stachyris","Panay Striped-babbler",NT,U,-12486656
+126,124,"striata","Stachyris","Luzon Striped-babbler",NT,U,-12486656
+127,123,"whiteheadi","Stachyris","Chestnut-faced Babbler",LC,U,-16731116
+134,133,"longirostra","Rukia","Long-billed White-eye",NT,U,-12486656
+135,133,"ruki","Rukia","Faichuk White-eye",CR,U,-3014646
+136,132,"thoracica","Stachyris","White-bibbed Babbler",LC,U,-16731116
+137,131,"pygmaea","Stachyris","Visayan Pygmy Babbler",NT,U,-12486656
+138,130,"nigrocapitata","Stachyris","Black-crowned Babbler",LC,U,-16731116
+142,141,"speciosa","Dasycrotapha","Flame-templed Babbler",EN,U,-8572416
+143,141,"leucotis","Stachyris","White-necked Babbler",NT,U,-12486656
+144,140,"grammiceps","Stachyris","White-breasted Babbler",NT,U,-12486656
+145,139,"plateni","Stachyris","Mindanao Pygmy-babbler",NT,U,-12486656
+150,149,"dennistouni","Stachyris","Golden-crowned Babbler",NT,U,-12486656
+151,149,"nigrorum","Stachyris","Negros Striped-babbler",EN,U,-8572416
+152,148,"capitalis","Stachyris","Rusty-crowned Babbler",LC,U,-16731116
+153,147,"atriceps","Rhopocichla","Dark-fronted Babbler",LC,U,-16731116
+154,146,"nonggangensis","Stachyris","Nonggang Babbler",NT,U,-12486656
+161,160,"bakeri","Yuhina","White-naped Yuhina",LC,U,-16731116
+162,160,"humilis","Yuhina","Burmese Yuhina",LC,U,-16731116
+163,159,"flavicollis","Yuhina","Whiskered Yuhina",LC,U,-16731116
+165,164,"occipitalis","Yuhina","Rufous-vented Yuhina",LC,U,-16731116
+166,164,"gularis","Yuhina","Stripe-throated Yuhina",LC,U,-16731116
+168,167,"nigrimenta","Yuhina","Black-chinned Yuhina",LC,U,-16731116
+169,167,"brunneiceps","Yuhina","Taiwan Yuhina",LC,U,-16731116
+172,171,"torqueola","Yuhina","Indochinese Yuhina",LC,U,-16731116
+173,171,"castaniceps","Yuhina","Striated Yuhina",LC,U,-16731116
+174,170,"everetti","Yuhina","Chestnut-crested Yuhina",LC,U,-16731116
+175,155,"diademata","Yuhina","White-collared Yuhina",LC,U,-16731116

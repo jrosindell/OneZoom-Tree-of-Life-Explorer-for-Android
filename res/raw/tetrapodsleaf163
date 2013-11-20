@@ -1,108 +1,89 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"albibarbis","Hylobates","Bornean White-bearded Gibbon",EN,D,-8572416
-14,12,"agilis","Hylobates","Agile Gibbon",EN,D,-8572416
-15,11,"lar","Hylobates","Lar Gibbon",EN,D,-8572416
-16,10,"moloch","Hylobates","Silvery Javan Gibbon",EN,D,-8572416
-18,17,"muelleri","Hylobates","Muller's Bornean Gibbon",EN,D,-8572416
-19,17,"pileatus","Hylobates","Pileated Gibbon",EN,D,-8572416
-20,8,"klossii","Hylobates","Kloss's Gibbon",EN,D,-8572416
-21,7,"hoolock","Bunopithecus","",NE,U,-16777216
-22,6,"syndactylus","Symphalangus","Siamang",EN,D,-8572416
-26,25,"concolor","Nomascus","Black Crested Gibbon",CR,D,-3014646
-27,25,"hainanus","Nomascus","Hainan Gibbon",CR,S,-3014646
-28,24,"leucogenys","Nomascus","Northern White-cheeked Gibbon",CR,D,-3014646
-30,29,"siki","Nomascus","Southern White-cheeked Gibbon",EN,D,-8572416
-31,29,"gabriellae","Nomascus","Red-cheeked Gibbon",EN,D,-8572416
-36,35,"troglodytes","Pan","Chimpanzee",EN,D,-8572416
-37,35,"paniscus","Pan","Bonobo",EN,D,-8572416
-38,34,"sapiens","Homo","Human",LC,I,-16731116
-40,39,"beringei","Gorilla","Eastern Gorilla",EN,D,-8572416
-41,39,"gorilla","Gorilla","Lowland Gorilla",CR,D,-3014646
-43,42,"pygmaeus","Pongo","Bornean Orangutan",EN,D,-8572416
-44,42,"abelii","Pongo","Sumatran Orangutan",CR,D,-3014646
-49,48,"sangirensis","Tarsius","Sangihe Tarsier",EN,D,-8572416
-50,48,"tarsier","Tarsius","Spectral Tarsier",VU,D,-11184866
-51,47,"pelengensis","Tarsius","Peleng Tarsier",EN,D,-8572416
-53,52,"dentatus","Tarsius","Dian's Tarsier",VU,D,-11184866
-54,52,"pumilus","Tarsius","Pygmy Tarsier",DD,D,-11513776
-56,55,"bancanus","Tarsius","Horsfield's Tarsier",VU,D,-11184866
-57,55,"syrichta","Tarsius","Philippine Tarsier",NT,D,-12486656
-72,71,"rufus","Eulemur","Red Brown Lemur",DD,D,-11513776
-73,71,"albocollaris","Eulemur","",NE,U,-16777216
-74,70,"fulvus","Eulemur","Brown Lemur",NT,D,-12486656
-75,69,"albifrons","Eulemur","White-fronted Brown Lemur",VU,D,-11184866
-78,77,"sanfordi","Eulemur","Sanford's Brown Lemur",EN,D,-8572416
-79,77,"collaris","Eulemur","Collared Brown Lemur",VU,D,-11184866
-80,76,"cinereiceps","Eulemur","White-collared Lemur",EN,D,-8572416
-81,67,"macaco","Eulemur","Black Lemur",VU,D,-11184866
-83,82,"rubriventer","Eulemur","Red-bellied Lemur",VU,D,-11184866
-84,82,"mongoz","Eulemur","Mongoose Lemur",VU,D,-11184866
-85,65,"coronatus","Eulemur","Crowned Lemur",VU,D,-11184866
-86,64,"catta","Lemur","Ring-tailed Lemur",NT,D,-12486656
-90,89,"griseus","Hapalemur","Eastern Lesser Bamboo Lemur",VU,D,-11184866
-91,89,"alaotrensis","Hapalemur","Alaotran Gentle Lemur",CR,D,-3014646
-92,88,"occidentalis","Hapalemur","Sambirano Lesser Bamboo Lemur",VU,D,-11184866
-94,93,"aureus","Hapalemur","Golden Bamboo Lemur",EN,D,-8572416
-95,93,"simus","Prolemur","Greater Bamboo Lemur",CR,D,-3014646
-97,96,"variegata","Varecia","Black-and-white Ruffed Lemur",CR,D,-3014646
-98,96,"rubra","Varecia","Red Ruffed Lemur",EN,D,-8572416
-103,102,"septentrionalis","Lepilemur","Sahafary Sportive Lemur",CR,D,-3014646
-104,102,"ankaranensis","Lepilemur","Ankarana Sportive Lemur",EN,D,-8572416
-105,101,"ruficaudatus","Lepilemur","Red-tailed Sportive Lemur",DD,D,-11513776
-107,106,"microdon","Lepilemur","Small-toothed Sportive Lemur",DD,U,-11513776
-108,106,"mustelinus","Lepilemur","Weasel Sportive Lemur",DD,U,-11513776
-111,110,"leucopus","Lepilemur","White-footed Sportive Lemur",DD,U,-11513776
-112,110,"dorsalis","Lepilemur","Gray's Sportive Lemur",DD,U,-11513776
-113,109,"edwardsi","Lepilemur","Milne-edwards's Sportive Lemur",VU,D,-11184866
-121,120,"deckenii","Propithecus","Van Der Decken's Sifaka",VU,D,-11184866
-122,120,"verreauxi","Propithecus","Verreaux's Sifaka",VU,D,-11184866
-123,119,"coquereli","Propithecus","Coquerel's Sifaka",EN,D,-8572416
-126,125,"perrieri","Propithecus","Perrier's Sifaka",CR,D,-3014646
-127,125,"diadema","Propithecus","Diademed Sifaka",EN,D,-8572416
-128,124,"edwardsi","Propithecus","Milne-edward's Sifaka",EN,D,-8572416
-129,117,"tattersalli","Propithecus","Golden-crowned Sifaka",EN,U,-8572416
-131,130,"occidentalis","Avahi","Lorenz Von Liburnau's Woolly Lemur",EN,D,-8572416
-132,130,"laniger","Avahi","Gmelin's Woolly Lemur",LC,D,-16731116
-133,115,"indri","Indri","Indri",EN,D,-8572416
-134,114,"madagascariensis","Daubentonia","Aye-aye",NT,D,-12486656
-142,141,"griseorufus","Microcebus","Grey-brown Mouse Lemur",LC,D,-16731116
-143,141,"myoxinus","Microcebus","Peters' Mouse Lemur",DD,U,-11513776
-144,140,"murinus","Microcebus","Grey Mouse-lemur",LC,D,-16731116
-145,139,"rufus","Microcebus","Rufous Mouse Lemur",LC,D,-16731116
-146,138,"coquereli","Mirza","Coquerel's Giant Mouse Lemur",NT,D,-12486656
-147,137,"trichotis","Allocebus","Hairy-eared Dwarf Lemur",DD,U,-11513776
-152,151,"adipicaudatus","Cheirogaleus","Southern Fat-tailed Dwarf Lemur",DD,U,-11513776
-153,151,"crossleyi","Cheirogaleus","Furry-eared Dwarf Lemur",DD,U,-11513776
-154,150,"major","Cheirogaleus","Geoffroy's Dwarf Lemur",LC,U,-16731116
-155,149,"sibreei","Cheirogaleus","Sibree's Dwarf Lemur",DD,U,-11513776
-156,148,"medius","Cheirogaleus","Western Fat-tailed Dwarf Lemur",LC,U,-16731116
-159,158,"electromontis","Phaner","Montagne D' Ambre Fork-marked Lemur",VU,D,-11184866
-160,158,"pallescens","Phaner","Pale Fork-marked Lemur",LC,D,-16731116
-162,161,"parienti","Phaner","Sambirano Fork-marked Lemur",VU,D,-11184866
-163,161,"furcifer","Phaner","Masoala Fork-marked Lemur",LC,D,-16731116
-173,172,"crassicaudatus","Otolemur","Thick-tailed Greater Galago",LC,S,-16731116
-174,172,"monteiri","Otolemur","",NE,U,-16777216
-175,171,"garnettii","Otolemur","Small-eared Greater Galago",LC,S,-16731116
-176,170,"gallarum","Galago","Somali Lesser Galago",LC,S,-16731116
-178,177,"elegantulus","Euoticus","Southern Needle-clawed Galago",LC,S,-16731116
-179,177,"pallidus","Euoticus","Northern Needle-clawed Galago",LC,U,-16731116
-183,182,"moholi","Galago","Southern Lesser Galago",LC,S,-16731116
-184,182,"nyasae","Galago","",NE,U,-16777216
-185,181,"senegalensis","Galago","Northern Lesser Galago",LC,S,-16731116
-186,180,"matschiei","Galago","Spectacled Lesser Galago",LC,D,-16731116
-189,188,"cameronensis","Galago","",NE,U,-16777216
-190,188,"alleni","Galago","",NE,U,-16777216
-191,187,"gabonensis","Galago","",NE,U,-16777216
-194,193,"demidoff","Galago","",NE,U,-16777216
-195,193,"orinus","Galago","",NE,U,-16777216
-196,192,"thomasi","Galago","",NE,U,-16777216
-198,197,"zanzibaricus","Galago","",NE,U,-16777216
-199,197,"granti","Galago","",NE,U,-16777216
-204,203,"bengalensis","Nycticebus","Bengal Slow Loris",VU,D,-11184866
-205,203,"coucang","Nycticebus","Greater Slow Loris",VU,D,-11184866
-206,202,"pygmaeus","Nycticebus","Pygmy Slow Loris",VU,D,-11184866
-208,207,"lydekkerianus","Loris","Gray Slender Loris",LC,D,-16731116
-209,207,"tardigradus","Loris","Red Slender Loris",EN,D,-8572416
-212,211,"calabarensis","Arctocebus","Calabar Angwantibo",LC,U,-16731116
-213,211,"aureus","Arctocebus","Golden Angwantibo",LC,U,-16731116
-214,210,"potto","Perodicticus","Potto",LC,S,-16731116
+21,20,"phainopeplus","Campylopterus","Santa Marta Sabrewing",EN,U,-8572416
+22,20,"ensipennis","Campylopterus","White-tailed Sabrewing",NT,U,-12486656
+23,19,"curvipennis","Campylopterus","Wedge-tailed Sabrewing",LC,U,-16731116
+25,24,"largipennis","Campylopterus","Grey-breasted Sabrewing",LC,U,-16731116
+26,24,"duidae","Campylopterus","Buff-breasted Sabrewing",LC,U,-16731116
+30,29,"hyperythrus","Campylopterus","Rufous-breasted Sabrewing",LC,U,-16731116
+31,29,"rufus","Campylopterus","Rufous Sabrewing",LC,U,-16731116
+32,28,"excellens","Campylopterus","Long-tailed Sabrewing",NT,U,-12486656
+34,33,"villaviscensio","Campylopterus","Napo Sabrewing",NT,U,-12486656
+35,33,"falcatus","Campylopterus","Lazuline Sabrewing",LC,U,-16731116
+36,16,"hemileucurus","Campylopterus","Violet Sabrewing",LC,U,-16731116
+40,39,"floriceps","Anthocephala","Blossomcrown",VU,U,-11184866
+41,39,"lalandi","Stephanoxis","Plovercrest",LC,U,-16731116
+42,38,"cristatus","Orthorhyncus","Antillean Crested Hummingbird",LC,U,-16731116
+43,37,"guimeti","Klais","Violet-headed Hummingbird",LC,U,-16731116
+47,46,"humboldtii","Hylocharis","Humboldt's Sapphire",LC,U,-16731116
+48,46,"xantusii","Hylocharis","Xantus's Hummingbird",LC,U,-16731116
+49,45,"leucotis","Hylocharis","White-eared Hummingbird",LC,U,-16731116
+57,56,"castaneoventris","Lampornis","White-throated Mountain-gem",LC,U,-16731116
+58,56,"calolaemus","Lampornis","Purple-throated Mountain-gem",LC,U,-16731116
+60,59,"viridipallens","Lampornis","Green-throated Mountain-gem",LC,U,-16731116
+61,59,"sybillae","Lampornis","Green-breasted Mountain-gem",LC,U,-16731116
+62,54,"amethystinus","Lampornis","Amethyst-throated Hummingbird",LC,U,-16731116
+63,53,"clemenciae","Lampornis","Blue-throated Hummingbird",LC,U,-16731116
+65,64,"hemileucus","Lampornis","White-bellied Mountain-gem",LC,U,-16731116
+66,64,"rhami","Lamprolaima","Garnet-throated Hummingbird",LC,U,-16731116
+71,70,"longirostris","Heliomaster","Long-billed Starthroat",LC,U,-16731116
+72,70,"constantii","Heliomaster","Plain-capped Starthroat",LC,U,-16731116
+74,73,"squamosus","Heliomaster","Stripe-breasted Starthroat",LC,U,-16731116
+75,73,"furcifer","Heliomaster","Blue-tufted Starthroat",LC,U,-16731116
+76,68,"insignis","Panterpe","Fiery-throated Hummingbird",LC,U,-16731116
+77,67,"fulgens","Eugenes","Magnificent Hummingbird",LC,U,-16731116
+78,11,"gigas","Patagona","Giant Hummingbird",LC,U,-16731116
+88,87,"brachylophus","Lophornis","Short-crested Coquette",CR,U,-3014646
+89,87,"adorabilis","Lophornis","White-crested Coquette",LC,U,-16731116
+90,86,"delattrei","Lophornis","Rufous-crested Coquette",LC,U,-16731116
+91,85,"chalybeus","Lophornis","Festive Coquette",LC,U,-16731116
+95,94,"stictolophus","Lophornis","Spangled Coquette",LC,U,-16731116
+96,94,"ornatus","Lophornis","Tufted Coquette",LC,U,-16731116
+97,93,"magnificus","Lophornis","Frilled Coquette",LC,U,-16731116
+98,92,"pavoninus","Lophornis","Peacock Coquette",LC,U,-16731116
+100,99,"helenae","Lophornis","Black-crested Coquette",LC,U,-16731116
+101,99,"gouldii","Lophornis","Dot-eared Coquette",LC,U,-16731116
+106,105,"langsdorffi","Discosura","Black-bellied Thorntail",LC,U,-16731116
+107,105,"popelairii","Discosura","Wire-crested Thorntail",LC,U,-16731116
+108,104,"conversii","Discosura","Green Thorntail",LC,U,-16731116
+109,103,"letitiae","Discosura","Coppery Thorntail",DD,U,-11513776
+110,102,"longicaudus","Discosura","Racket-tailed Coquette",LC,U,-16731116
+112,111,"fernandensis","Sephanoides","Juan Fernandez Firecrown",CR,U,-3014646
+113,111,"sephaniodes","Sephanoides","Green-backed Firecrown",LC,U,-16731116
+116,115,"mellivora","Florisuga","White-necked Jacobin",LC,U,-16731116
+117,115,"fusca","Florisuga","Black Jacobin",LC,U,-16731116
+119,118,"pella","Topaza","Crimson Topaz",LC,U,-16731116
+120,118,"pyra","Topaza","Fiery Topaz",LC,U,-16731116
+125,124,"cristatus","Aegotheles","Australian Owlet-nightjar",LC,U,-16731116
+126,124,"bennettii","Aegotheles","Barred Owlet-nightjar",LC,U,-16731116
+127,123,"crinifrons","Aegotheles","Long-whiskered Owlet-nightjar",LC,U,-16731116
+130,129,"archboldi","Aegotheles","Archbold's Owlet-nightjar",LC,U,-16731116
+131,129,"wallacii","Aegotheles","Wallace's Owlet-nightjar",DD,U,-11513776
+132,128,"albertisi","Aegotheles","Mountain Owlet-nightjar",LC,U,-16731116
+135,134,"insignis","Aegotheles","Feline Owlet-nightjar",LC,U,-16731116
+136,134,"tatei","Aegotheles","Starry Owlet-nightjar",DD,U,-11513776
+137,133,"savesi","Aegotheles","New Caledonian Owlet-nightjar",CR,U,-3014646
+143,142,"septimus","Batrachostomus","Philippine Frogmouth",LC,U,-16731116
+144,142,"stellatus","Batrachostomus","Gould's Frogmouth",NT,U,-12486656
+146,145,"javensis","Batrachostomus","Javan Frogmouth",LC,U,-16731116
+147,145,"cornutus","Batrachostomus","Sunda Frogmouth",LC,U,-16731116
+150,149,"moniliger","Batrachostomus","Sri Lanka Frogmouth",LC,U,-16731116
+151,149,"harterti","Batrachostomus","Dulit Frogmouth",NT,U,-12486656
+153,152,"affinis","Batrachostomus","Blyth's Frogmouth",LC,U,-16731116
+154,152,"mixtus","Batrachostomus","Bornean Frogmouth",NT,U,-12486656
+157,156,"poliolophus","Batrachostomus","Short-tailed Frogmouth",NT,U,-12486656
+158,156,"auritus","Batrachostomus","Large Frogmouth",NT,U,-12486656
+159,155,"hodgsoni","Batrachostomus","Hodgson's Frogmouth",LC,U,-16731116
+163,162,"strigoides","Podargus","Tawny Frogmouth",LC,U,-16731116
+164,162,"papuensis","Podargus","Papuan Frogmouth",LC,U,-16731116
+165,161,"ocellatus","Podargus","Marbled Frogmouth",LC,U,-16731116
+166,160,"inexpectata","Rigidipenna","Solomon Islands Frogmouth",LC,U,-16731116
+171,170,"leucopterus","Nyctibius","White-winged Potoo",LC,U,-16731116
+172,170,"maculosus","Nyctibius","Andean Potoo",LC,U,-16731116
+174,173,"jamaicensis","Nyctibius","Northern Potoo",LC,U,-16731116
+175,173,"griseus","Nyctibius","Grey Potoo",LC,U,-16731116
+177,176,"aethereus","Nyctibius","Long-tailed Potoo",LC,U,-16731116
+178,176,"grandis","Nyctibius","Great Potoo",LC,U,-16731116
+179,167,"bracteatus","Nyctibius","Rufous Potoo",LC,U,-16731116
+180,1,"caripensis","Steatornis","Oilbird",LC,U,-16731116
+182,181,"helias","Eurypyga","Sunbittern",LC,U,-16731116
+183,181,"jubatus","Rhynochetos","Kagu",EN,U,-8572416

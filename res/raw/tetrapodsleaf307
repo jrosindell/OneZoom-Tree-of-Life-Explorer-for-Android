@@ -1,0 +1,65 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"penicillata","Petrogale","Brush-tailed Rock Wallaby",NT,D,-12486656
+14,12,"herberti","Petrogale","Herbert's Rock Wallaby",LC,U,-16731116
+15,11,"inornata","Petrogale","Unadorned Rock Wallaby",LC,U,-16731116
+17,16,"assimilis","Petrogale","Allied Rock Wallaby",LC,S,-16731116
+18,16,"godmani","Petrogale","Godman's Rock Wallaby",LC,S,-16731116
+19,9,"xanthopus","Petrogale","Yellow-footed Rock Wallaby",NT,U,-12486656
+22,21,"purpureicollis","Petrogale","Purple-necked Rock Wallaby",LC,U,-16731116
+23,21,"lateralis","Petrogale","Black-footed Rock Wallaby",NT,D,-12486656
+25,24,"rothschildi","Petrogale","Rothschild's Rock Wallaby",LC,U,-16731116
+26,24,"persephone","Petrogale","Proserpine Rock Wallaby",EN,D,-8572416
+29,28,"concinna","Petrogale","Nabarlek",DD,U,-11513776
+30,28,"burbidgei","Petrogale","Monjon",NT,U,-12486656
+31,27,"brachyotis","Petrogale","Short-eared Rock Wallaby",LC,U,-16731116
+36,35,"browni","Thylogale","New Guinea Pademelon",VU,D,-11184866
+37,35,"brunii","Thylogale","Dusky Pademelon",VU,D,-11184866
+38,34,"lanatus","Thylogale","Mountain Pademelon",EN,D,-8572416
+40,39,"stigmatica","Thylogale","Red-legged Pademelon",LC,D,-16731116
+41,39,"thetis","Thylogale","Red-necked Pademelon",LC,S,-16731116
+42,32,"billardierii","Thylogale","Tasmanian Pademelon",LC,S,-16731116
+52,51,"dorsalis","Macropus","Black-striped Wallaby",LC,D,-16731116
+53,51,"parma","Macropus","Parma Wallaby",NT,U,-12486656
+54,50,"irma","Macropus","Western Brush Wallaby",LC,S,-16731116
+56,55,"rufogriseus","Macropus","Red-necked Wallaby",LC,S,-16731116
+57,55,"parryi","Macropus","Whiptail Wallaby",LC,S,-16731116
+59,58,"eugenii","Macropus","Tammar Wallaby",LC,U,-16731116
+60,58,"agilis","Macropus","Agile Wallaby",LC,D,-16731116
+65,64,"antilopinus","Macropus","Antilopine Wallaroo",LC,D,-16731116
+66,64,"rufus","Macropus","Red Kangaroo",LC,S,-16731116
+67,63,"robustus","Macropus","Common Wallaroo",LC,S,-16731116
+68,62,"bernardus","Macropus","Black Wallaroo",NT,U,-12486656
+70,69,"fuliginosus","Macropus","Western Gray Kangaroo",LC,I,-16731116
+71,69,"giganteus","Macropus","Eastern Grey Kangaroo",LC,S,-16731116
+72,46,"bicolor","Wallabia","Swamp Wallaby",LC,I,-16731116
+74,73,"unguifera","Onychogalea","Northern Nailtail Wallaby",LC,U,-16731116
+75,73,"fraenata","Onychogalea","Bridled Nailtail Wallaby",EN,S,-8572416
+76,44,"brachyurus","Setonix","Quokka",VU,D,-11184866
+78,77,"conspicillatus","Lagorchestes","Spectacled Hare Wallaby",LC,D,-16731116
+79,77,"hirsutus","Lagorchestes","Rufous Hare Wallaby",VU,D,-11184866
+87,86,"pulcherrimus","Dendrolagus","Golden-mantled Tree Kangaroo",CR,D,-3014646
+88,86,"goodfellowi","Dendrolagus","Goodfellow's Tree Kangaroo",EN,D,-8572416
+90,89,"spadix","Dendrolagus","Lowlands Tree Kangaroo",LC,D,-16731116
+91,89,"matschiei","Dendrolagus","Huon Tree Kangaroo",EN,D,-8572416
+94,93,"dorianus","Dendrolagus","Doria's Tree Kangaroo",VU,D,-11184866
+95,93,"stellarum","Dendrolagus","Seri's Tree Kangaroo",VU,D,-11184866
+96,92,"scottae","Dendrolagus","Tenkile",CR,D,-3014646
+97,83,"ursinus","Dendrolagus","Vogelkop Tree Kangaroo",VU,D,-11184866
+98,82,"inustus","Dendrolagus","Grizzled Tree Kangaroo",VU,D,-11184866
+99,81,"lumholtzi","Dendrolagus","Lumholtz's Tree Kangaroo",LC,S,-16731116
+100,80,"bennettianus","Dendrolagus","Bennett's Tree Kangaroo",NT,S,-12486656
+105,104,"luctuosa","Dorcopsis","Grey Dorcopsis",VU,D,-11184866
+106,104,"atrata","Dorcopsis","Black Dorcopsis",CR,D,-3014646
+107,103,"muelleri","Dorcopsis","Brown Dorcopsis",LC,S,-16731116
+108,102,"hageni","Dorcopsis","White-striped Dorcopsis",LC,S,-16731116
+110,109,"macleayi","Dorcopsulus","Macleay's Dorcopsis",LC,S,-16731116
+111,109,"vanheurni","Dorcopsulus","Small Dorcopsis",NT,D,-12486656
+112,2,"fasciatus","Lagostrophus","Banded Hare Wallaby",EN,U,-8572416
+115,114,"tridactylus","Potorous","Long-nosed Potoroo",LC,D,-16731116
+116,114,"gilbertii","Potorous","Gilbert's Potoroo",CR,S,-3014646
+117,113,"longipes","Potorous","Long-footed Potoroo",EN,U,-8572416
+121,120,"gaimardi","Bettongia","Tasmanian Bettong",NT,S,-12486656
+122,120,"lesueur","Bettongia","Burrowing Bettong",NT,I,-12486656
+124,123,"tropica","Bettongia","Northern Bettong",EN,D,-8572416
+125,123,"penicillata","Bettongia","Woylie",CR,D,-3014646
+126,118,"rufescens","Aepyprymnus","Rufous Bettong",LC,U,-16731116

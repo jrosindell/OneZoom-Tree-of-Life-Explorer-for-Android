@@ -1,0 +1,79 @@
+index,parent,name1,name2,common,redlist,popstab,color
+17,16,"coronata","Pseudoboa","",NE,U,-16777216
+18,16,"maculata","Boiruna","",NE,U,-16777216
+19,15,"brazili","Rhachidelus","",NE,U,-16777216
+20,14,"anomalus","Drepanoides","Black-collared Snake",NE,U,-16777216
+21,13,"guerini","Phimophis","",NE,U,-16777216
+22,12,"petola","Oxyrhopus","",NE,U,-16777216
+25,24,"triangularis","Hydrops","",NE,U,-16777216
+26,24,"angulatus","Helicops","",NE,U,-16777216
+27,23,"plicatilis","Pseudoeryx","",NE,U,-16777216
+30,29,"melanostigma","Echinanthera","",NE,U,-16777216
+31,29,"affinis","Taeniophallus","",NE,U,-16777216
+32,28,"punctata","Sordellina","",NE,U,-16777216
+35,34,"agassizii","Pseudablabes","",NE,U,-16777216
+36,34,"aestiva","Philodryas","",NE,U,-16777216
+37,33,"argenteus","Xenoxybelis","Mexican Vine Snake",NE,U,-16777216
+45,44,"trigonatus","Pseudotomodon","",NE,U,-16777216
+46,44,"peruviana","Tachymenis","",NE,U,-16777216
+47,43,"flavovirgatus","Ptychophis","",NE,U,-16777216
+49,48,"paucidens","Calamodontophis","",VU,D,-11184866
+50,48,"dorsatus","Tomodon","",NE,U,-16777216
+51,41,"brasiliensis","Gomesophis","",NE,U,-16777216
+52,40,"compressus","Siphlophis","",NE,U,-16777216
+55,54,"gigas","Hydrodynastes","",NE,U,-16777216
+56,54,"scalaris","Xenopholis","",NE,U,-16777216
+57,53,"striaticeps","Tropidodryas","",NE,U,-16777216
+58,38,"amarali","Caaeteboia","",NE,U,-16777216
+61,60,"quinquelineatus","Elapomorphus","",NE,U,-16777216
+62,60,"nasutus","Phalotris","",NE,U,-16777216
+63,59,"flavotorquata","Apostolepis","",NE,U,-16777216
+74,73,"cantherigerus","Cubophis","",NE,U,-16777216
+75,73,"dorsalis","Ialtris","",NE,U,-16777216
+76,72,"ferox","Hypsirhynchus","",NE,U,-16777216
+77,71,"andreae","Caraiba","",NE,U,-16777216
+78,70,"portoricensis","Borikenophis","",NE,U,-16777216
+79,69,"rufiventris","Alsophis","Red-bellied Racer",EN,U,-8572416
+80,68,"exiguum","Magliophis","",NE,U,-16777216
+81,67,"anomalus","Haitiophis","",NE,U,-16777216
+82,66,"vittatum","Arrhyton","",NE,U,-16777216
+88,87,"aesculapii","Erythrolamprus","",NE,U,-16777216
+89,87,"pygmaea","Umbrivaga","",NE,U,-16777216
+90,86,"clelia","Clelia","",NE,U,-16777216
+91,85,"neuwiedi","Xenodon","",NE,U,-16777216
+92,84,"lineatus","Liophis","",NE,U,-16777216
+93,83,"catesbyi","Uromacer","",NE,U,-16777216
+94,64,"joberti","Psomophis","",NE,U,-16777216
+97,96,"nevermanni","Crisantophis","",NE,U,-16777216
+98,96,"lineatus","Conophis","",LC,S,-16731116
+100,99,"elapoides","Pliocercus","",LC,S,-16731116
+101,99,"putnami","Manolepis","",LC,S,-16731116
+113,112,"pallidus","Thamnodynastes","",NE,U,-16777216
+114,112,"mikanii","Sibynomorphus","",NE,U,-16777216
+115,111,"catesbyi","Dipsas","",NE,U,-16777216
+117,116,"nebulatus","Sibon","",NE,U,-16777216
+118,116,"atrata","Ninia","",NE,U,-16777216
+120,119,"albuquerquei","Atractus","",NE,U,-16777216
+121,119,"carinosus","Geophis","",LC,S,-16731116
+122,108,"hallbergi","Cryophis","",DD,U,-11513776
+125,124,"nigroluteus","Tretanorhinus","",NE,U,-16777216
+126,124,"concolor","Hydromorphus","",NE,U,-16777216
+127,123,"quadrivirgatus","Adelphicos","",NE,U,-16777216
+130,129,"latifasciata","Pseudoleptodeira","",LC,S,-16731116
+131,129,"gracile","Trimetopon","",NE,U,-16777216
+132,128,"torquata","Hypsiglena","Night Snake",LC,S,-16731116
+135,134,"annulata","Leptodeira","",NE,U,-16777216
+136,134,"rugosus","Nothopsis","",NE,U,-16777216
+137,133,"cenchoa","Imantodes","",NE,U,-16777216
+139,138,"fulvivittis","Rhadinaea","",VU,D,-11184866
+140,138,"sapperi","Amastridium","",NE,U,-16777216
+141,103,"fissidens","Coniophanes","",NE,U,-16777216
+142,102,"discolor","Tantalophis","",VU,D,-11184866
+143,3,"punctatus","Diadophis","Ring-necked Snake",LC,S,-16731116
+146,145,"platirhinos","Heterodon","Eastern Hog-nosed Snake",LC,S,-16731116
+147,145,"tenuis","Contia","Sharp-tailed Snake",LC,S,-16731116
+149,148,"amoenus","Carphophis","Eastern Worm Snake",LC,S,-16731116
+150,148,"abacura","Farancia","Mud Snake",LC,S,-16731116
+151,1,"baileyi","Thermophis","",VU,U,-11184866
+153,152,"karlschmidti","Pseudoxenodon","",NE,U,-16777216
+154,152,"styani","Plagiopholis","",NE,U,-16777216

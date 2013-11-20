@@ -1,0 +1,22 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"geoffroii","Dasyurus","Western Quoll",NT,S,-12486656
+13,11,"spartacus","Dasyurus","Bronze Quoll",NT,U,-12486656
+14,10,"albopunctatus","Dasyurus","New Guinea Quoll",NT,D,-12486656
+15,9,"viverrinus","Dasyurus","Eastern Quoll",NT,S,-12486656
+16,8,"maculatus","Dasyurus","Spotted-tailed Quoll",NT,D,-12486656
+17,7,"hallucatus","Dasyurus","Northern Quoll",EN,D,-8572416
+18,6,"harrisii","Sarcophilus","Tasmanian Devil",EN,D,-8572416
+21,20,"dorsalis","Phascolosorex","Narrow-striped Dasyure",LC,S,-16731116
+22,20,"doriae","Phascolosorex","Red-bellied Phascogale",LC,U,-16731116
+23,19,"lorentzi","Neophascogale","",NE,U,-16777216
+24,4,"bilarni","Pseudantechinus","Sandstone Pseudantechinus",NT,D,-12486656
+26,25,"cristicauda","Dasycercus","Crest-tailed Mulgara",LC,S,-16731116
+27,25,"byrnei","Dasyuroides","Kowari",VU,D,-11184866
+30,29,"macdonnellensis","Pseudantechinus","Fat-tailed Pseudantechinus",LC,U,-16731116
+31,29,"mimulus","Pseudantechinus","Carpentarian Pseudantechinus",EN,D,-8572416
+32,28,"woolleyae","Pseudantechinus","Woolley's Pseudantechinus",LC,U,-16731116
+34,33,"apicalis","Parantechinus","Dibbler",EN,D,-8572416
+35,33,"rosamondae","Dasykaluta","Kaluta",LC,U,-16731116
+38,37,"melas","Myoictis","Three-striped Dasyure",LC,U,-16731116
+39,37,"wallacii","Myoictis","",NE,U,-16777216
+40,36,"ningbing","Pseudantechinus","Ningbing Pseudantechinus",LC,U,-16731116

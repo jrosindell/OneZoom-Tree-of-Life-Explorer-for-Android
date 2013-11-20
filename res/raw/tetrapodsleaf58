@@ -1,111 +1,75 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"stenocephalus","Hypsiboas","",DD,U,-11513776
-17,15,"marianitae","Hypsiboas","",LC,D,-16731116
-19,18,"prasinus","Hypsiboas","",LC,S,-16731116
-20,18,"caingua","Hypsiboas","",LC,S,-16731116
-21,13,"callipleura","Hypsiboas","",LC,S,-16731116
-24,23,"latistriatus","Hypsiboas","",DD,U,-11513776
-25,23,"palaestes","Hypsiboas","",DD,U,-11513776
-27,26,"cymbalum","Hypsiboas","",CR,D,-3014646
-28,26,"andinus","Hypsiboas","",LC,S,-16731116
-29,11,"joaquini","Hypsiboas","",LC,S,-16731116
-32,31,"melanopleura","Hypsiboas","",DD,U,-11513776
-33,31,"guentheri","Hypsiboas","",LC,S,-16731116
-34,30,"semiguttatus","Hypsiboas","",LC,S,-16731116
-36,35,"cordobae","Hypsiboas","",DD,U,-11513776
-37,35,"balzani","Hypsiboas","",LC,S,-16731116
-44,43,"leptolineatus","Hypsiboas","",LC,S,-16731116
-45,43,"cipoensis","Hypsiboas","",NT,D,-12486656
-46,42,"ericae","Hypsiboas","",DD,U,-11513776
-47,41,"polytaenius","Hypsiboas","",LC,S,-16731116
-50,49,"secedens","Hypsiboas","",DD,U,-11513776
-51,49,"varelae","Hypsiboas","",DD,U,-11513776
-53,52,"alboniger","Hypsiboas","",NT,D,-12486656
-54,52,"buriti","Hypsiboas","",DD,U,-11513776
-56,55,"pulchellus","Hypsiboas","",LC,S,-16731116
-57,55,"beckeri","Hypsiboas","",DD,U,-11513776
-59,58,"freicanecae","Hypsiboas","",DD,U,-11513776
-60,58,"bischoffi","Hypsiboas","",LC,S,-16731116
-64,63,"phaeopleura","Hypsiboas","",DD,U,-11513776
-65,63,"riojanus","Hypsiboas","",DD,U,-11513776
-66,62,"goianus","Hypsiboas","",LC,D,-16731116
-67,61,"marginatus","Hypsiboas","",LC,D,-16731116
-74,73,"crepitans","Hypsiboas","",LC,S,-16731116
-75,73,"exastis","Hypsiboas","",DD,U,-11513776
-76,72,"pugnax","Hypsiboas","",LC,S,-16731116
-78,77,"albomarginatus","Hypsiboas","",LC,S,-16731116
-79,77,"lundii","Hypsiboas","",LC,D,-16731116
-80,70,"faber","Hypsiboas","",LC,S,-16731116
-81,69,"rosenbergi","Hypsiboas","",LC,D,-16731116
-82,68,"pardalis","Hypsiboas","",LC,S,-16731116
-89,88,"heilprini","Hypsiboas","",VU,D,-11184866
-90,88,"fasciatus","Hypsiboas","",LC,S,-16731116
-91,87,"lanciformis","Hypsiboas","",LC,S,-16731116
-92,86,"raniceps","Hypsiboas","",LC,S,-16731116
-93,85,"multifasciatus","Hypsiboas","",LC,S,-16731116
-97,96,"albopunctatus","Hypsiboas","",LC,S,-16731116
-98,96,"dentei","Hypsiboas","",LC,U,-16731116
-99,95,"calcaratus","Hypsiboas","",LC,S,-16731116
-100,94,"leucocheilus","Hypsiboas","",DD,U,-11513776
-103,102,"rubracylus","Hypsiboas","",LC,D,-16731116
-104,102,"pellucens","Hypsiboas","",LC,U,-16731116
-105,101,"rufitelus","Hypsiboas","",LC,S,-16731116
-109,108,"geographicus","Hypsiboas","",LC,S,-16731116
-110,108,"wavrini","Hypsiboas","",LC,S,-16731116
-111,107,"semilineatus","Hypsiboas","",LC,S,-16731116
-113,112,"pombali","Hypsiboas","",LC,U,-16731116
-114,112,"boans","Hypsiboas","",LC,S,-16731116
-121,120,"sibleszi","Hypsiboas","",LC,D,-16731116
-122,120,"alemani","Hypsiboas","",DD,U,-11513776
-123,119,"picturatus","Hypsiboas","",LC,D,-16731116
-124,118,"atlanticus","Hypsiboas","",LC,S,-16731116
-125,117,"ornatissimus","Hypsiboas","",LC,S,-16731116
-126,116,"punctatus","Hypsiboas","",LC,S,-16731116
-128,127,"cinerascens","Hypsiboas","",LC,S,-16731116
-129,127,"hobbsi","Hypsiboas","",LC,S,-16731116
-135,134,"benitezi","Hypsiboas","",LC,S,-16731116
-136,134,"fuentei","Hypsiboas","",DD,U,-11513776
-137,133,"pulidoi","Hypsiboas","",DD,U,-11513776
-138,132,"rhythmicus","Hypsiboas","",DD,U,-11513776
-141,140,"hutchinsi","Hypsiboas","",LC,S,-16731116
-142,140,"roraima","Hypsiboas","",DD,U,-11513776
-143,139,"lemai","Hypsiboas","",LC,S,-16731116
-144,130,"microderma","Hypsiboas","",LC,S,-16731116
-152,151,"weygoldti","Aplastodiscus","",NT,D,-12486656
-153,151,"flumineus","Aplastodiscus","",DD,D,-11513776
-155,154,"ehrhardti","Aplastodiscus","",LC,D,-16731116
-156,154,"arildae","Aplastodiscus","",LC,D,-16731116
-157,149,"albofrenatus","Aplastodiscus","",LC,S,-16731116
-158,148,"eugenioi","Aplastodiscus","",NT,U,-12486656
-159,147,"musicus","Aplastodiscus","",DD,D,-11513776
-164,163,"callipygius","Aplastodiscus","",LC,D,-16731116
-165,163,"sibilatus","Aplastodiscus","",DD,U,-11513776
-166,162,"leucopygius","Aplastodiscus","",LC,S,-16731116
-167,161,"ibirapitanga","Aplastodiscus","",LC,U,-16731116
-169,168,"albosignatus","Aplastodiscus","",LC,D,-16731116
-170,168,"cavicola","Aplastodiscus","",NT,D,-12486656
-172,171,"perviridis","Aplastodiscus","",LC,S,-16731116
-173,171,"cochranae","Aplastodiscus","",LC,S,-16731116
-182,181,"lucianae","Bokermannohyla","",DD,U,-11513776
-183,181,"gouveai","Bokermannohyla","",DD,U,-11513776
-184,180,"circumdata","Bokermannohyla","",LC,D,-16731116
-186,185,"ibitipoca","Bokermannohyla","",DD,U,-11513776
-187,185,"luctuosa","Bokermannohyla","",LC,D,-16731116
-191,190,"astartea","Bokermannohyla","",LC,D,-16731116
-192,190,"sazimai","Bokermannohyla","",DD,U,-11513776
-193,189,"caramaschii","Bokermannohyla","",LC,U,-16731116
-194,188,"feioi","Bokermannohyla","",DD,U,-11513776
-195,177,"ahenea","Bokermannohyla","",DD,U,-11513776
-200,199,"izecksohni","Bokermannohyla","",CR,D,-3014646
-201,199,"ravida","Bokermannohyla","",DD,U,-11513776
-202,198,"hylax","Bokermannohyla","",LC,D,-16731116
-203,197,"carvalhoi","Bokermannohyla","",LC,D,-16731116
-204,196,"nanuzae","Bokermannohyla","",LC,D,-16731116
-207,206,"pseudopseudis","Bokermannohyla","",LC,D,-16731116
-208,206,"alvarengai","Bokermannohyla","",LC,S,-16731116
-210,209,"ibitiguara","Bokermannohyla","",DD,U,-11513776
-211,209,"saxicola","Bokermannohyla","",LC,D,-16731116
-214,213,"claresignata","Bokermannohyla","",DD,D,-11513776
-215,213,"clepsydra","Bokermannohyla","",DD,D,-11513776
-217,216,"martinsi","Bokermannohyla","",LC,D,-16731116
-218,216,"langei","Bokermannohyla","",DD,U,-11513776
+14,13,"atricapillus","Parus","Black-capped Chickadee",LC,U,-16731116
+15,13,"gambeli","Parus","Mountain Chickadee",LC,U,-16731116
+17,16,"carolinensis","Parus","Carolina Chickadee",LC,U,-16731116
+18,16,"sclateri","Parus","Mexican Chickadee",LC,U,-16731116
+21,20,"rufescens","Parus","Chestnut-backed Chickadee",LC,U,-16731116
+22,20,"hudsonicus","Parus","Boreal Chickadee",LC,U,-16731116
+23,19,"cinctus","Parus","Siberian Tit",LC,U,-16731116
+25,24,"davidi","Parus","Rusty-breasted Tit",LC,U,-16731116
+26,24,"montanus","Parus","Willow Tit",LC,U,-16731116
+28,27,"fringillinus","Parus","Red-throated Tit",LC,U,-16731116
+29,27,"varius","Parus","Varied Tit",LC,U,-16731116
+31,30,"superciliosus","Parus","White-browed Tit",LC,U,-16731116
+32,30,"lugubris","Parus","Sombre Tit",LC,U,-16731116
+37,36,"rubidiventris","Parus","Rufous-vented Tit",LC,U,-16731116
+38,36,"rufonuchalis","Parus","Dark-grey Tit",LC,U,-16731116
+40,39,"carpi","Parus","Carp's Black Tit",_U,[,-16777216
+41,39,"ater","Parus","Coal Tit",LC,U,-16731116
+44,43,"venustulus","Parus","Yellow-bellied Tit",LC,U,-16731116
+45,43,"amabilis","Parus","Palawan Tit",NT,U,-12486656
+46,42,"elegans","Parus","Elegant Tit",LC,U,-16731116
+48,47,"cinerascens","Parus","Ashy Tit",LC,U,-16731116
+49,47,"thruppi","Parus","Somali Tit",LC,U,-16731116
+54,53,"atricristatus","Baeolophus","Black-crested Titmouse",LC,U,-16731116
+55,53,"bicolor","Baeolophus","Tufted Titmouse",LC,U,-16731116
+57,56,"ridgwayi","Baeolophus","Juniper Titmouse",LC,U,-16731116
+58,56,"inornatus","Baeolophus","Oak Titmouse",LC,U,-16731116
+59,51,"wollweberi","Baeolophus","Bridled Titmouse",LC,U,-16731116
+61,60,"dichrous","Parus","Grey-crested Tit",LC,U,-16731116
+62,60,"cristatus","Parus","Crested Tit",LC,U,-16731116
+68,67,"hypermelaenus","Parus","Black-bibbed Tit",LC,U,-16731116
+69,67,"nuchalis","Parus","White-naped Tit",VU,U,-11184866
+70,66,"funereus","Parus","Dusky Tit",LC,U,-16731116
+72,71,"albiventris","Parus","White-bellied Tit",LC,U,-16731116
+73,71,"niger","Parus","Black Tit",LC,U,-16731116
+76,75,"semilarvatus","Parus","White-fronted Tit",NT,U,-12486656
+77,75,"rufiventris","Parus","Rufous-bellied Tit",LC,U,-16731116
+79,78,"fasciiventer","Parus","Stripe-breasted Tit",LC,U,-16731116
+80,78,"leuconotus","Parus","White-backed Tit",LC,U,-16731116
+86,85,"spilonotus","Parus","Yellow-cheeked Tit",LC,U,-16731116
+87,85,"leucomelas","Parus","White-winged Tit",LC,U,-16731116
+88,84,"xanthogenys","Parus","Black-lored Tit",LC,U,-16731116
+89,83,"holsti","Parus","Yellow Tit",NT,U,-12486656
+90,82,"afer","Parus","Grey Tit",LC,U,-16731116
+93,92,"palustris","Parus","Marsh Tit",LC,U,-16731116
+94,92,"major","Parus","Great Tit",LC,U,-16731116
+95,91,"monticolus","Parus","Green-backed Tit",LC,U,-16731116
+99,98,"caeruleus","Parus","Blue Tit",LC,U,-16731116
+100,98,"cyanus","Parus","Azure Tit",LC,U,-16731116
+101,97,"teneriffae","Parus","African Blue Tit",_U,[,-16777216
+102,96,"griseiventris","Parus","Miombo Tit",LC,U,-16731116
+103,3,"sultanea","Melanochlora","Sultan Tit",LC,U,-16731116
+105,104,"humilis","Pseudopodoces","Tibetan Ground-tit",LC,U,-16731116
+106,104,"modestus","Sylviparus","Yellow-browed Tit",LC,U,-16731116
+113,112,"musculus","Anthoscopus","Mouse-coloured Penduline-tit",LC,U,-16731116
+114,112,"punctifrons","Anthoscopus","Sennar Penduline-tit",LC,U,-16731116
+115,111,"flavifrons","Anthoscopus","Forest Penduline-tit",LC,U,-16731116
+117,116,"minutus","Anthoscopus","Southern Penduline-tit",LC,U,-16731116
+118,116,"caroli","Anthoscopus","African Penduline-tit",LC,U,-16731116
+119,109,"parvulus","Anthoscopus","Yellow Penduline-tit",LC,U,-16731116
+123,122,"pendulinus","Remiz","Eurasian Penduline-tit",LC,U,-16731116
+124,122,"consobrinus","Remiz","Chinese Penduline-tit",LC,U,-16731116
+125,121,"macronyx","Remiz","Black-headed Penduline-tit",LC,U,-16731116
+126,120,"coronatus","Remiz","White-crowned Penduline-tit",LC,U,-16731116
+127,107,"flaviceps","Auriparus","Verdin",LC,U,-16731116
+134,133,"albiventris","Elminia","White-bellied Crested-flycatcher",LC,U,-16731116
+135,133,"albonotata","Elminia","White-tailed Crested-flycatcher",LC,U,-16731116
+136,132,"nigromitrata","Elminia","Dusky Crested-flycatcher",LC,U,-16731116
+138,137,"albicauda","Elminia","White-tailed Blue-flycatcher",LC,U,-16731116
+139,137,"longicauda","Elminia","African Blue-flycatcher",LC,U,-16731116
+141,140,"ceylonensis","Culicicapa","Grey-headed Canary-flycatcher",LC,U,-16731116
+142,140,"helianthea","Culicicapa","Citrine Canary-flycatcher",LC,U,-16731116
+143,129,"scita","Stenostira","Fairy Warbler",LC,U,-16731116
+145,144,"hypoxantha","Chelidorhynx","Yellow-bellied Fantail",_U,[,-16777216
+146,144,"flammiceps","Cephalopyrus","Fire-capped Tit",LC,U,-16731116

@@ -1,0 +1,49 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"palustris","Lithobates","Pickerel Frog",LC,S,-16731116
+11,9,"maculatus","Lithobates","",LC,D,-16731116
+12,8,"vaillanti","Lithobates","",LC,S,-16731116
+14,13,"sphenocephalus","Lithobates","Southern Leopard Frog",LC,S,-16731116
+15,13,"taylori","Lithobates","",LC,U,-16731116
+19,18,"magnaocularis","Lithobates","Northwest Mexico Leopard Frog",LC,U,-16731116
+20,18,"warszewitschii","Lithobates","",LC,I,-16731116
+21,17,"capito","Lithobates","Gopher Frog",NT,D,-12486656
+22,16,"miadis","Lithobates","",VU,S,-11184866
+24,23,"tlaloci","Lithobates","Tlaloc's Leopard Frog",CR,D,-3014646
+25,23,"dunni","Lithobates","",EN,D,-8572416
+30,29,"macroglossa","Lithobates","",VU,D,-11184866
+31,29,"bwana","Lithobates","",VU,D,-11184866
+32,28,"johni","Lithobates","",EN,D,-8572416
+33,27,"pipiens","Lithobates","Northern Leopard Frog",LC,D,-16731116
+34,26,"palmipes","Lithobates","",LC,S,-16731116
+38,37,"onca","Lithobates","Relict Leopard Frog",EN,D,-8572416
+39,37,"sierramadrensis","Lithobates","",VU,D,-11184866
+40,36,"chiricahuensis","Lithobates","Chiricahua Leopard Frog",VU,D,-11184866
+41,35,"blairi","Lithobates","Plains Leopard Frog",LC,D,-16731116
+46,45,"areolatus","Lithobates","Crawfish Frog",NT,D,-12486656
+47,45,"juliani","Lithobates","",NT,S,-12486656
+49,48,"pustulosus","Lithobates","",LC,S,-16731116
+50,48,"megapoda","Lithobates","",VU,D,-11184866
+52,51,"chichicuahutla","Lithobates","",CR,D,-3014646
+53,51,"pueblae","Lithobates","",CR,D,-3014646
+57,56,"vibicarius","Lithobates","Green-eyed Frog",CR,D,-3014646
+58,56,"spectabilis","Lithobates","",LC,D,-16731116
+59,55,"tarahumarae","Lithobates","Tarahumara Frog",VU,D,-11184866
+60,54,"neovolcanicus","Lithobates","Transverse Volcanic Leopard Frog",NT,D,-12486656
+65,64,"fisheri","Lithobates","Las Vegas Leopard Frog",EX,U,-16777036
+66,64,"psilonota","Lithobates","",DD,U,-11513776
+67,63,"berlandieri","Lithobates","Rio Grande Leopard Frog",LC,S,-16731116
+69,68,"omiltemanus","Lithobates","Guerreran Leopard Frog",CR,D,-3014646
+70,68,"montezumae","Lithobates","",LC,D,-16731116
+74,73,"zweifeli","Lithobates","",LC,S,-16731116
+75,73,"forreri","Lithobates","",LC,S,-16731116
+76,72,"sevosus","Lithobates","Dusky Gopher Frog",CR,D,-3014646
+78,77,"lemosespinali","Lithobates","",DD,U,-11513776
+79,77,"yavapaiensis","Lithobates","",LC,D,-16731116
+84,83,"okaloosae","Lithobates","Florida Bog Frog",VU,U,-11184866
+85,83,"sylvaticus","Lithobates","Wood Frog",LC,S,-16731116
+87,86,"catesbeianus","Lithobates","American Bullfrog",LC,I,-16731116
+88,86,"grylio","Lithobates","Pig Frog",LC,D,-16731116
+89,81,"clamitans","Lithobates","Green Frog",LC,S,-16731116
+92,91,"virgatipes","Lithobates","Carpenter Frog",LC,U,-16731116
+93,91,"heckscheri","Lithobates","River Frog",LC,S,-16731116
+94,90,"septentrionalis","Lithobates","Mink Frog",LC,S,-16731116

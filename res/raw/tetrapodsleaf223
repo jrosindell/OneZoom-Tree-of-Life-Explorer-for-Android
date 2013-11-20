@@ -1,0 +1,27 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"mindanensis","Sphenomorphus","Mindanao Sphenomorphus",NT,D,-12486656
+11,9,"aruensis","Sphenomorphus","",NE,U,-16777216
+12,8,"concinnatus","Sphenomorphus","",NE,U,-16777216
+13,7,"jagorii","Sphenomorphus","",NE,U,-16777216
+14,6,"abdictus","Sphenomorphus","",LC,S,-16731116
+16,15,"temminckii","Sphenomorphus","",NE,U,-16777216
+17,15,"brunneus","Sphenomorphus","",NE,U,-16777216
+18,4,"indicus","Sphenomorphus","",NE,U,-16777216
+21,20,"darlingtoni","Sphenomorphus","",NE,U,-16777216
+22,20,"jobiensis","Sphenomorphus","",NE,U,-16777216
+23,19,"incognitus","Sphenomorphus","",NE,U,-16777216
+30,29,"leptofasciatus","Sphenomorphus","",NE,U,-16777216
+31,29,"papuensis","Sphenomorphus","",NE,U,-16777216
+32,28,"variegatus","Sphenomorphus","",NE,U,-16777216
+33,27,"coxi","Sphenomorphus","Cox's Sphenomorphus",LC,S,-16731116
+34,26,"dusumierii","Sphenomorphus","",NE,U,-16777216
+35,25,"maculatus","Sphenomorphus","",NE,U,-16777216
+37,36,"solomonis","Sphenomorphus","",NE,U,-16777216
+38,36,"cherriei","Sphenomorphus","",NE,U,-16777216
+40,39,"flavipes","Prasinohaema","",NE,U,-16777216
+41,39,"virens","Prasinohaema","",NE,U,-16777216
+45,44,"quadrivittata","Lipinia","",NE,U,-16777216
+46,44,"noctua","Lipinia","",NE,U,-16777216
+47,43,"vittigera","Lipinia","",NE,U,-16777216
+49,48,"berdmorei","Tropidomorphus","",NE,U,-16777216
+50,48,"grayi","Tropidomorphus","",NE,U,-16777216

@@ -1,0 +1,29 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"weidholzi","Afrixalus","Weidholz's Banana Frog",LC,S,-16731116
+9,7,"vittiger","Afrixalus","Savanna Banana Frog",LC,S,-16731116
+11,10,"knysnae","Afrixalus","Knysna Banana Frog",EN,D,-8572416
+12,10,"osorioi","Afrixalus","Angola Banana Frog",LC,I,-16731116
+13,5,"orophilus","Afrixalus","",VU,D,-11184866
+15,14,"fornasini","Afrixalus","",LC,S,-16731116
+16,14,"upembae","Afrixalus","",DD,U,-11513776
+17,3,"nigeriensis","Afrixalus","Nigeria Banana Frog",NT,S,-12486656
+24,23,"clarkeorum","Afrixalus","",NE,U,-16777216
+25,23,"lacteus","Afrixalus","",EN,D,-8572416
+26,22,"delicatus","Afrixalus","Pickersgill's Banana Frog",LC,D,-16731116
+27,21,"vibekensis","Afrixalus","",NT,D,-12486656
+28,20,"fulvovittatus","Afrixalus","Banded Banana Frog",LC,S,-16731116
+29,19,"spinifrons","Afrixalus","Natal Banana Frog",VU,D,-11184866
+30,18,"enseticola","Afrixalus","Ethiopian Banana Frog",VU,D,-11184866
+36,35,"lindholmi","Afrixalus","",DD,U,-11513776
+37,35,"morerei","Afrixalus","",VU,D,-11184866
+38,34,"leucostictus","Afrixalus","",LC,D,-16731116
+40,39,"quadrivittatus","Afrixalus","",LC,S,-16731116
+41,39,"schneideri","Afrixalus","",DD,U,-11513776
+42,32,"equatorialis","Afrixalus","Congo Banana Frog",LC,U,-16731116
+44,43,"stuhlmanni","Afrixalus","",LC,U,-16731116
+45,43,"laevis","Afrixalus","",LC,D,-16731116
+49,48,"aureus","Afrixalus","Golden Banana Frog",LC,S,-16731116
+50,48,"uluguruensis","Afrixalus","",EN,D,-8572416
+51,47,"paradorsalis","Afrixalus","",LC,S,-16731116
+53,52,"dorsalis","Afrixalus","Brown Banana Frog",LC,I,-16731116
+54,52,"wittei","Afrixalus","",LC,S,-16731116

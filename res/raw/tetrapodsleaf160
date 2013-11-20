@@ -1,117 +1,48 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"narismagnus","Thorius","",CR,D,-3014646
-10,8,"omiltemi","Thorius","",EN,D,-8572416
-12,11,"infernalis","Thorius","",CR,D,-3014646
-13,11,"arboreus","Thorius","",EN,D,-8572416
-14,6,"schmidti","Thorius","",EN,D,-8572416
-18,17,"pulmonaris","Thorius","",EN,D,-8572416
-19,17,"dubitus","Thorius","",EN,D,-8572416
-20,16,"lunaris","Thorius","",EN,D,-8572416
-21,15,"munificus","Thorius","",CR,D,-3014646
-25,24,"macdougalli","Thorius","",VU,S,-11184866
-26,24,"pennatulus","Thorius","",CR,D,-3014646
-27,23,"grandis","Thorius","",EN,D,-8572416
-30,29,"troglodytes","Thorius","",EN,D,-8572416
-31,29,"aureus","Thorius","",CR,D,-3014646
-32,28,"magnipes","Thorius","",CR,D,-3014646
-36,35,"insperatus","Thorius","",DD,U,-11513776
-37,35,"minydemus","Thorius","",CR,D,-3014646
-39,38,"minutissimus","Thorius","",CR,D,-3014646
-40,38,"boreas","Thorius","",EN,D,-8572416
-43,42,"narisovalis","Thorius","",CR,D,-3014646
-44,42,"spilogaster","Thorius","",CR,D,-3014646
-46,45,"papaloae","Thorius","",EN,D,-8572416
-47,45,"smithi","Thorius","",CR,U,-3014646
-57,56,"pseudouniformis","Oedipina","",EN,D,-8572416
-58,56,"complex","Oedipina","",LC,D,-16731116
-60,59,"gephyra","Oedipina","",EN,D,-8572416
-61,59,"poelzi","Oedipina","",EN,D,-8572416
-65,64,"elongata","Oedipina","",LC,D,-16731116
-66,64,"alfaroi","Oedipina","",VU,D,-11184866
-67,63,"savagei","Oedipina","",DD,U,-11513776
-68,62,"maritima","Oedipina","",CR,D,-3014646
-70,69,"stuarti","Oedipina","",DD,U,-11513776
-71,69,"alleni","Oedipina","",LC,S,-16731116
-74,73,"pacificensis","Oedipina","",LC,S,-16731116
-75,73,"grandis","Oedipina","",EN,D,-8572416
-77,76,"carablanca","Oedipina","",EN,U,-8572416
-78,76,"altura","Oedipina","",CR,D,-3014646
-84,83,"uniformis","Oedipina","",NT,D,-12486656
-85,83,"gracilis","Oedipina","",EN,D,-8572416
-86,82,"taylori","Oedipina","",LC,U,-16731116
-87,81,"ignea","Oedipina","",DD,U,-11513776
-88,80,"parvipes","Oedipina","",LC,D,-16731116
-90,89,"cyclocauda","Oedipina","",LC,D,-16731116
-91,89,"collaris","Oedipina","",DD,U,-11513776
-93,92,"paucidentata","Oedipina","",CR,D,-3014646
-94,92,"stenopodia","Oedipina","",EN,D,-8572416
-100,99,"bromeliacius","Dendrotriton","",CR,D,-3014646
-101,99,"xolocalcae","Dendrotriton","",VU,S,-11184866
-102,98,"cuchumatanus","Dendrotriton","",CR,D,-3014646
-104,103,"megarhinus","Dendrotriton","",VU,S,-11184866
-105,103,"rabbi","Dendrotriton","",EN,D,-8572416
-106,96,"sanctibarbarus","Dendrotriton","",VU,S,-11184866
-112,111,"nasalis","Cryptotriton","",EN,D,-8572416
-113,111,"adelos","Cryptotriton","",EN,D,-8572416
-114,110,"monzoni","Cryptotriton","",CR,D,-3014646
-115,109,"wakei","Cryptotriton","",CR,D,-3014646
-116,108,"alvarezdeltoroi","Cryptotriton","",EN,D,-8572416
-117,107,"veraepacis","Cryptotriton","",CR,D,-3014646
-124,123,"multidentatus","Chiropterotriton","",EN,D,-8572416
-125,123,"mosaueri","Chiropterotriton","",DD,U,-11513776
-126,122,"lavae","Chiropterotriton","",CR,D,-3014646
-129,128,"terrestris","Chiropterotriton","",CR,D,-3014646
-130,128,"magnipes","Chiropterotriton","",CR,D,-3014646
-131,127,"cracens","Chiropterotriton","",EN,D,-8572416
-135,134,"orculus","Chiropterotriton","",VU,D,-11184866
-136,134,"priscus","Chiropterotriton","",NT,S,-12486656
-137,133,"dimidiatus","Chiropterotriton","",EN,D,-8572416
-138,132,"arboreus","Chiropterotriton","",CR,D,-3014646
-140,139,"chondrostega","Chiropterotriton","",EN,D,-8572416
-141,139,"chiropterus","Chiropterotriton","",CR,D,-3014646
-147,146,"richardi","Nototriton","",NT,S,-12486656
-148,146,"stuarti","Nototriton","",DD,U,-11513776
-149,145,"abscondens","Nototriton","",LC,S,-16731116
-150,144,"tapanti","Nototriton","",VU,U,-11184866
-154,153,"picadoi","Nototriton","",NT,S,-12486656
-155,153,"saslaya","Nototriton","",VU,S,-11184866
-156,152,"major","Nototriton","",CR,D,-3014646
-157,151,"barbouri","Nototriton","",EN,D,-8572416
-161,160,"guanacaste","Nototriton","",VU,S,-11184866
-162,160,"lignicola","Nototriton","",CR,D,-3014646
-163,159,"brodiei","Nototriton","",CR,D,-3014646
-165,164,"limnospectator","Nototriton","",EN,D,-8572416
-166,164,"gamezi","Nototriton","",VU,S,-11184866
-178,177,"latitans","Eurycea","Cascade Caverns Salamander",VU,D,-11184866
-179,177,"quadridigitata","Eurycea","Dwarf Salamander",LC,S,-16731116
-180,176,"guttolineata","Eurycea","Three-lined Salamander",LC,S,-16731116
-181,175,"pterophila","Eurycea","Blanco River Springs Salamander",DD,U,-11513776
-182,174,"neotenes","Eurycea","Texas Salamander",VU,U,-11184866
-183,173,"robusta","Eurycea","Blanco Blind Salamander",DD,U,-11513776
-187,186,"cirrigera","Eurycea","Southern Two-lined Salamander",LC,S,-16731116
-188,186,"wallacei","Eurycea","Georgia Blind Salamander",VU,U,-11184866
-189,185,"troglodytes","Eurycea","Eurycea Troglodytes Complex",DD,U,-11513776
-190,184,"chisholmensis","Eurycea","Chisholm Trail Salamander",VU,U,-11184866
-195,194,"chamberlaini","Eurycea","Chamberlain's Dwarf Salamander",DD,U,-11513776
-196,194,"junaluska","Eurycea","Junaluska Salamander",VU,S,-11184866
-197,193,"waterlooensis","Eurycea","Austin Blind Salamander",VU,U,-11184866
-198,192,"bislineata","Eurycea","Northern Two-lined Salamander",LC,S,-16731116
-199,191,"spelaea","Eurycea","Grotto Salamander",LC,U,-16731116
-204,203,"tonkawae","Eurycea","Jollyville Plateau Salamander",EN,D,-8572416
-205,203,"longicauda","Eurycea","Longtail Salamander",LC,S,-16731116
-206,202,"tynerensis","Eurycea","Oklahoma Salamander",NT,D,-12486656
-208,207,"multiplicata","Eurycea","Many-ribbed Salamander",LC,S,-16731116
-209,207,"tridentifera","Eurycea","Comal Blind Salamander",VU,U,-11184866
-211,210,"sosorum","Eurycea","Barton Springs Salamander",VU,S,-11184866
-212,210,"nana","Eurycea","San Marcos Salamander",VU,S,-11184866
-213,169,"wilderae","Eurycea","Blue Ridge Two-lined Salamander",LC,S,-16731116
-216,215,"naufragia","Eurycea","San Gabriel Springs Salamander",EN,D,-8572416
-217,215,"rathbuni","Eurycea","Texas Blind Salamander",VU,S,-11184866
-218,214,"lucifuga","Eurycea","Cave Salamander",LC,U,-16731116
-224,223,"gulolineatus","Gyrinophilus","Berry Cave Salamander",EN,D,-8572416
-225,223,"porphyriticus","Gyrinophilus","Spring Salamander",LC,S,-16731116
-226,222,"palleucus","Gyrinophilus","Tennessee Cave Salamander",VU,D,-11184866
-227,221,"subterraneus","Gyrinophilus","West Virginia Spring Salamander",EN,U,-8572416
-228,220,"marginatus","Stereochilus","Many-lined Salamander",LC,U,-16731116
-230,229,"montanus","Pseudotriton","Mud Salamander",LC,U,-16731116
-231,229,"ruber","Pseudotriton","Red Salamander",LC,D,-16731116
+12,11,"sulcirostris","Phalacrocorax","Little Black Cormorant",LC,U,-16731116
+13,11,"varius","Phalacrocorax","Large Pied Cormorant",LC,U,-16731116
+14,10,"punctatus","Phalacrocorax","Spotted Shag",LC,U,-16731116
+16,15,"africanus","Phalacrocorax","Reed Cormorant",LC,U,-16731116
+17,15,"carbo","Phalacrocorax","Great Cormorant",LC,U,-16731116
+20,19,"onslowi","Phalacrocorax","Chatham Islands Shag",CR,U,-3014646
+21,19,"coronatus","Phalacrocorax","Crowned Cormorant",NT,U,-12486656
+22,18,"niger","Phalacrocorax","Little Cormorant",LC,U,-16731116
+24,23,"bougainvillii","Phalacrocorax","Guanay Cormorant",NT,U,-12486656
+25,23,"ranfurlyi","Phalacrocorax","Bounty Islands Shag",VU,U,-11184866
+30,29,"carunculatus","Phalacrocorax","New Zealand King Shag",VU,U,-11184866
+31,29,"atriceps","Phalacrocorax","Imperial Shag",LC,U,-16731116
+32,28,"chalconotus","Phalacrocorax","Stewart Island Shag",VU,U,-11184866
+33,27,"magellanicus","Phalacrocorax","Rock Shag",LC,U,-16731116
+37,36,"auritus","Phalacrocorax","Double-crested Cormorant",LC,U,-16731116
+38,36,"capensis","Phalacrocorax","Cape Cormorant",NT,U,-12486656
+39,35,"brasilianus","Phalacrocorax","Neotropic Cormorant",LC,U,-16731116
+40,34,"pygmeus","Phalacrocorax","Pygmy Cormorant",LC,U,-16731116
+44,43,"melanoleucos","Phalacrocorax","Little Pied Cormorant",LC,U,-16731116
+45,43,"harrisi","Phalacrocorax","Flightless Cormorant",EN,U,-8572416
+47,46,"penicillatus","Phalacrocorax","Brandt's Cormorant",LC,U,-16731116
+48,46,"gaimardi","Phalacrocorax","Red-legged Cormorant",NT,U,-12486656
+50,49,"pelagicus","Phalacrocorax","Pelagic Cormorant",LC,U,-16731116
+51,49,"urile","Phalacrocorax","Red-faced Cormorant",LC,U,-16731116
+53,52,"campbelli","Phalacrocorax","Campbell Island Shag",VU,U,-11184866
+54,52,"aristotelis","Phalacrocorax","European Shag",LC,U,-16731116
+55,3,"capillatus","Phalacrocorax","Japanese Cormorant",LC,U,-16731116
+60,59,"colensoi","Phalacrocorax","Auckland Islands Shag",VU,U,-11184866
+61,59,"featherstoni","Phalacrocorax","Pitt Island Shag",EN,U,-8572416
+62,58,"fuscescens","Phalacrocorax","Black-faced Cormorant",LC,U,-16731116
+63,57,"nigrogularis","Phalacrocorax","Socotra Cormorant",VU,U,-11184866
+65,64,"fuscicollis","Phalacrocorax","Indian Cormorant",LC,U,-16731116
+66,64,"neglectus","Phalacrocorax","Bank Cormorant",EN,U,-8572416
+70,69,"novaehollandiae","Anhinga","Australian Darter",LC,U,-16731116
+71,69,"anhinga","Anhinga","Anhinga",LC,U,-16731116
+72,68,"melanogaster","Anhinga","Oriental Darter",NT,U,-12486656
+73,67,"rufa","Anhinga","African Darter",LC,U,-16731116
+79,78,"nebouxii","Sula","Blue-footed Booby",LC,U,-16731116
+80,78,"variegata","Sula","Peruvian Booby",LC,U,-16731116
+82,81,"dactylatra","Sula","Masked Booby",LC,U,-16731116
+83,81,"granti","Sula","Nazca Booby",LC,U,-16731116
+84,76,"leucogaster","Sula","Brown Booby",LC,U,-16731116
+85,75,"sula","Sula","Red-footed Booby",LC,U,-16731116
+89,88,"serrator","Morus","Australasian Gannet",LC,U,-16731116
+90,88,"capensis","Morus","Cape Gannet",VU,U,-11184866
+91,87,"bassanus","Morus","Northern Gannet",LC,U,-16731116
+92,86,"abbotti","Papasula","Abbott's Booby",EN,U,-8572416

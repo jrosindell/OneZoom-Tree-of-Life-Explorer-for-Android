@@ -1,0 +1,99 @@
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"scutellatus","Acanthodactylus","",NE,U,-16777216
+16,14,"longipes","Acanthodactylus","",NE,U,-16777216
+17,13,"aureus","Acanthodactylus","",NE,U,-16777216
+18,12,"savignyi","Acanthodactylus","Savigny's Fringe-fingered Lizard",NT,U,-12486656
+21,20,"spinicauda","Acanthodactylus","Doumergue's Fringe-fingered Lizard",CR,D,-3014646
+22,20,"maculatus","Acanthodactylus","Spotted Fringe-fingered Lizard",LC,U,-16731116
+23,19,"bedriagae","Acanthodactylus","",NE,U,-16777216
+29,28,"blanfordii","Acanthodactylus","",NE,U,-16777216
+30,28,"schmidti","Acanthodactylus","",NE,U,-16777216
+32,31,"arabicus","Acanthodactylus","",NE,U,-16777216
+33,31,"haasi","Acanthodactylus","",NE,U,-16777216
+34,26,"cantoris","Acanthodactylus","",NE,U,-16777216
+35,25,"micropholis","Acanthodactylus","",NE,U,-16777216
+37,36,"boskianus","Acanthodactylus","",NE,U,-16777216
+38,36,"grandis","Acanthodactylus","",NE,U,-16777216
+40,39,"pardalis","Acanthodactylus","Leopard Fringe-fingered Lizard",VU,D,-11184866
+41,39,"robustus","Acanthodactylus","",NE,U,-16777216
+43,42,"tristrami","Acanthodactylus","Lebanon Fringe-fingered Lizard",LC,U,-16731116
+44,42,"erythrurus","Acanthodactylus","Spiny-footed Lizard",LC,S,-16731116
+53,52,"micropholidotus","Meroles","",NE,U,-16777216
+54,52,"cuneirostris","Meroles","",NE,U,-16777216
+55,51,"ctenodactylus","Meroles","",NE,U,-16777216
+57,56,"suborbitalis","Meroles","",NE,U,-16777216
+58,56,"knoxii","Meroles","",NE,U,-16777216
+59,49,"reticulatus","Meroles","",NE,U,-16777216
+60,48,"anchietae","Meroles","",NE,U,-16777216
+61,47,"longicaudata","Latastia","",NE,U,-16777216
+65,64,"benguellensis","Pedioplanis","",NE,U,-16777216
+66,64,"burchelli","Pedioplanis","",NE,U,-16777216
+67,63,"lineoocellata","Pedioplanis","",NE,U,-16777216
+68,62,"namaquensis","Pedioplanis","",NE,U,-16777216
+69,45,"intertexta","Nucras","",NE,U,-16777216
+74,73,"vauereselli","Adolfus","",NE,U,-16777216
+75,73,"africanus","Adolfus","",NE,U,-16777216
+76,72,"alleni","Adolfus","",NE,U,-16777216
+77,71,"jacksoni","Adolfus","",NE,U,-16777216
+78,70,"guentheri","Holaspis","",NE,U,-16777216
+81,80,"echinata","Gastropholis","",NE,U,-16777216
+82,80,"prasina","Gastropholis","",NE,U,-16777216
+83,79,"vittata","Gastropholis","",NE,U,-16777216
+85,84,"horvathi","Iberolacerta","Horvath's Rock Lizard",NT,S,-12486656
+86,84,"monticola","Iberolacerta","Iberian Rock Lizard",VU,D,-11184866
+95,94,"bedriagae","Lacerta","",NE,U,-16777216
+96,94,"brandti","Lacerta","",NE,U,-16777216
+97,93,"oxicephala","Lacerta","",NE,U,-16777216
+98,92,"trilineata","Lacerta","Balkan Green Lizard",LC,S,-16731116
+99,91,"andreanskyi","Lacerta","",NE,U,-16777216
+103,102,"viridis","Lacerta","Green Lizard",LC,D,-16731116
+104,102,"chlorogaster","Lacerta","",NE,U,-16777216
+106,105,"cappadocica","Lacerta","",NE,U,-16777216
+107,105,"graeca","Lacerta","",NE,U,-16777216
+108,100,"danfordi","Lacerta","",NE,U,-16777216
+112,111,"laevis","Lacerta","",NE,U,-16777216
+113,111,"agilis","Lacerta","",NE,U,-16777216
+114,110,"schreiberi","Lacerta","Iberian Emerald Lizard",NT,D,-12486656
+115,109,"mosorensis","Lacerta","",NE,U,-16777216
+116,88,"olivieri","Mesalina","",NE,U,-16777216
+117,87,"vivipara","Zootoca","Common Lizard",LC,U,-16731116
+121,120,"derjugini","Darevskia","Derjugin's Lizard",NT,D,-12486656
+122,120,"praticola","Darevskia","Meadow Lizard",NT,D,-12486656
+123,119,"rudis","Darevskia","Spiny-Tailed Lizard",LC,S,-16731116
+124,118,"saxicola","Darevskia","Rock Lizard",LC,S,-16731116
+136,135,"wolteri","Takydromus","",NE,U,-16777216
+137,135,"sauteri","Takydromus","",NE,U,-16777216
+138,134,"amurensis","Takydromus","",NE,U,-16777216
+139,133,"khasiensis","Takydromus","",NE,U,-16777216
+140,132,"smaragdinus","Takydromus","",NE,U,-16777216
+141,131,"stejnegeri","Takydromus","",NE,U,-16777216
+143,142,"septentrionalis","Takydromus","",NE,U,-16777216
+144,142,"sexlineatus","Takydromus","",NE,U,-16777216
+146,145,"dugesii","Teira","Madeira Lizard",LC,S,-16731116
+147,145,"perspicillata","Teira","",NE,U,-16777216
+149,148,"lepidus","Timon","Ocellated Lizard",NT,D,-12486656
+150,148,"princeps","Timon","Siirt Lizard",LC,U,-16731116
+154,153,"fitzingeri","Algyroides","Fitzinger's Algyroides",LC,S,-16731116
+155,153,"marchi","Algyroides","Spanish Algyroides",EN,D,-8572416
+156,152,"moreoticus","Algyroides","Greek Algyroides",NT,D,-12486656
+157,151,"nigropunctatus","Algyroides","Blue-throated Keeled Lizard",LC,U,-16731116
+160,159,"parva","Parvilacerta","Dwarf Lizard",LC,S,-16731116
+161,159,"fraasi","Parvilacerta","",NE,U,-16777216
+162,158,"jayakari","Omanosaura","",NE,U,-16777216
+166,165,"persica","Eremias","",NE,U,-16777216
+167,165,"velox","Eremias","",NE,U,-16777216
+168,164,"strauchi","Eremias","Strauch's Racerunner",LC,D,-16731116
+169,163,"argus","Eremias","",NE,U,-16777216
+179,178,"tiliguerta","Podarcis","Tyrrhenian Wall Lizard",LC,U,-16731116
+180,178,"filfolensis","Podarcis","Filfola Lizard",LC,S,-16731116
+182,181,"erhardii","Podarcis","Erhard's Wall Lizard",LC,S,-16731116
+183,181,"peloponnesianica","Podarcis","",NE,U,-16777216
+184,176,"taurica","Podarcis","",NE,U,-16777216
+185,175,"melisellensis","Podarcis","Dalmatian Wall Lizard",LC,S,-16731116
+187,186,"muralis","Podarcis","Common Wall Lizard",LC,S,-16731116
+188,186,"sicula","Podarcis","",NE,U,-16777216
+189,173,"pityusensis","Podarcis","Ibiza Wall Lizard",NT,S,-12486656
+190,172,"milensis","Podarcis","Miles Wall Lizard",VU,S,-11184866
+192,191,"wagleriana","Podarcis","",NE,U,-16777216
+193,191,"hispanica","Podarcis","",NE,U,-16777216
+194,170,"lilfordi","Podarcis","Lilford's Wall Lizard",EN,D,-8572416

@@ -1,0 +1,32 @@
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"bilineata","Bothriopsis","",NE,U,-16777216
+15,13,"diporus","Bothropoides","",NE,U,-16777216
+16,12,"asper","Bothrops","",NE,U,-16777216
+17,11,"itapetiningae","Rhinocerophis","",NE,U,-16777216
+18,10,"hyoprora","Bothrocophias","",NE,U,-16777216
+19,9,"schlegelii","Bothriechis","",NE,U,-16777216
+21,20,"undulatus","Ophryacus","",VU,D,-11184866
+22,20,"barbouri","Mixcoatlus","",NE,U,-16777216
+23,7,"piscivorus","Agkistrodon","Cottonmouth",LC,S,-16731116
+26,25,"adamanteus","Crotalus","Eastern Diamond-backed Rattlesnake",LC,D,-16731116
+27,25,"miliarius","Sistrurus","Pygmy Rattlesnake",LC,S,-16731116
+28,24,"muta","Lachesis","Atlantic Bushmaster",VU,D,-11184866
+31,30,"godmani","Cerrophidion","",NE,U,-16777216
+32,30,"nummifer","Atropoides","",LC,S,-16731116
+33,29,"arcosae","Porthidium","",NE,U,-16777216
+35,34,"brevicaudus","Gloydius","",NE,U,-16777216
+36,34,"monticola","Ovophis","",NE,U,-16777216
+37,3,"jerdonii","Protobothrops","",NE,U,-16777216
+41,40,"trigonocephalus","Trimeresurus","",NE,U,-16777216
+42,40,"gramineus","Trimeresurus","",NE,U,-16777216
+43,39,"malabaricus","Trimeresurus","",NE,U,-16777216
+45,44,"borneensis","Trimeresurus","",NE,U,-16777216
+46,44,"puniceus","Trimeresurus","",NE,U,-16777216
+51,50,"hypnale","Hypnale","",NE,U,-16777216
+52,50,"zara","Hypnale","",NE,U,-16777216
+53,49,"nepa","Hypnale","",NE,U,-16777216
+54,48,"rhodostoma","Calloselasma","",NE,U,-16777216
+57,56,"acutus","Deinagkistrodon","",NE,U,-16777216
+58,56,"wagleri","Tropidolaemus","",NE,U,-16777216
+59,55,"chaseni","Garthius","",NE,U,-16777216
+60,0,"feae","Azemiops","",NE,U,-16777216

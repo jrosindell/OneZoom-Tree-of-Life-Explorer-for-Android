@@ -1,0 +1,25 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"wilhelmina","Paraleptomys","Short-haired Hydromyine",DD,U,-11513776
+10,8,"rufilatus","Paraleptomys","Northern Hydromyine",EN,U,-8572416
+12,11,"occidentalis","Pseudohydromys","Western Shrew Mouse",DD,U,-11513776
+13,11,"murinus","Pseudohydromys","Eastern Shrew Mouse",LC,U,-16731116
+15,14,"ellermani","Pseudohydromys","One-toothed Shrew Mouse",LC,U,-16731116
+16,14,"fuscus","Pseudohydromys","Mottled-tailed Shrew Mouse",LC,S,-16731116
+17,5,"nouhuysi","Lorentzimys","Long-footed Tree Mouse",LC,S,-16731116
+20,19,"signatus","Leptomys","Fly River Leptomys",LC,U,-16731116
+21,19,"elegans","Leptomys","Large Leptomys",LC,U,-16731116
+22,18,"ernstmayri","Leptomys","Ernst Mayr's Leptomys",LC,U,-16731116
+24,23,"albidens","Coccymys","White-toothed Mouse",DD,U,-11513776
+25,23,"ruemmleri","Coccymys","Rummler's Mouse",LC,U,-16731116
+30,29,"mayeri","Pogonomelomys","Shaw Mayer's Pogonomelomys",LC,U,-16731116
+31,29,"bruijni","Pogonomelomys","",NE,U,-16777216
+32,28,"sevia","Abeomelomys","Menzies' Mouse",LC,U,-16731116
+33,27,"imitator","Anisomys","Uneven-toothed Rat",LC,S,-16731116
+35,34,"richardsoni","Microhydromys","Groove-toothed Shrew Mouse",DD,U,-11513776
+36,34,"musseri","Microhydromys","Musser's Shrew Mouse",DD,U,-11513776
+40,39,"salebrosus","Solomys","Bougainville Giant Rat",EN,D,-8572416
+41,39,"sapientis","Solomys","Isabel Giant Rat",EN,D,-8572416
+42,38,"salamonis","Solomys","Florida Giant Rat",DD,U,-11513776
+44,43,"ponceleti","Solomys","Poncelet's Giant Rat",CR,D,-3014646
+45,43,"spriggsarum","Solomys","",NE,U,-16777216
+46,0,"moncktoni","Crossomys","Earless Water Rat",LC,U,-16731116

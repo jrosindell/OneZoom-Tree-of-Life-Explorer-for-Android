@@ -1,128 +1,68 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"papillosa","Kerivoula","Papillose Woolly Bat",LC,U,-16731116
-14,12,"lenis","Kerivoula","Lenis Woolly Bat",LC,U,-16731116
-15,11,"pellucida","Kerivoula","Clear-winged Woolly Bat",NT,D,-12486656
-16,10,"lanosa","Kerivoula","Lesser Woolly Bat",LC,U,-16731116
-18,17,"myrella","Kerivoula","Manaus Island Woolly Bat",DD,U,-11513776
-19,17,"muscina","Kerivoula","Fly River Woolly Bat",LC,U,-16731116
-23,22,"intermedia","Kerivoula","Small Woolly Bat",NT,D,-12486656
-24,22,"minuta","Kerivoula","Least Woolly Bat",NT,D,-12486656
-26,25,"smithii","Kerivoula","Smith's Woolly Bat",LC,U,-16731116
-27,25,"picta","Kerivoula","Painted Bat",LC,U,-16731116
-28,20,"whiteheadi","Kerivoula","Whitehead's Woolly Bat",LC,U,-16731116
-29,7,"flora","Kerivoula","Flores Woolly Bat",VU,D,-11184866
-35,34,"hardwickii","Kerivoula","Common Woolly Bat",LC,S,-16731116
-36,34,"cuprosa","Kerivoula","Copper Woolly Bat",DD,U,-11513776
-37,33,"phalaena","Kerivoula","Spurrell's Woolly Bat",LC,U,-16731116
-38,32,"eriophora","Kerivoula","Ethiopian Woolly Bat",DD,U,-11513776
-39,31,"argentata","Kerivoula","Damara Woolly Bat",LC,U,-16731116
-40,30,"agnella","Kerivoula","Louisiade Woolly Bat",DD,U,-11513776
-43,42,"atrox","Phoniscus","Groove-toothed Trumpet-eared Bat",NT,D,-12486656
-44,42,"aerosa","Phoniscus","Dubious Trumpet-eared Bat",DD,U,-11513776
-46,45,"jagorii","Phoniscus","Peters's Trumpet-eared Bat",LC,U,-16731116
-47,45,"papuensis","Phoniscus","Golden-tipped Bat",LC,U,-16731116
-58,57,"hilgendorfi","Murina","Greater Tube-nosed Bat",LC,U,-16731116
-59,57,"leucogaster","Murina","Rufous Tube-nosed Bat",DD,U,-11513776
-60,56,"fusca","Murina","Dusky Tube-nosed Bat",DD,U,-11513776
-61,55,"tenebrosa","Murina","Gloomy Tube-nosed Bat",CR,U,-3014646
-62,54,"suilla","Murina","Brown Tube-nosed Bat",LC,U,-16731116
-63,53,"aurata","Murina","Little Tube-nosed Bat",LC,U,-16731116
-64,52,"ussuriensis","Murina","Ussuri Tube-nosed Bat",LC,U,-16731116
-67,66,"florium","Murina","Flute-nosed Bat",LC,U,-16731116
-68,66,"silvatica","Murina","",NE,U,-16777216
-69,65,"tubinaris","Murina","Scully's Tube-nosed Bat",LC,U,-16731116
-73,72,"huttoni","Murina","Hutton's Tube-nosed Bat",LC,U,-16731116
-74,72,"aenea","Murina","Bronze Tube-nosed Bat",VU,D,-11184866
-75,71,"cyclotis","Murina","Round-eared Tube-nosed Bat",LC,U,-16731116
-77,76,"rozendaali","Murina","Gilded Tube-nosed Bat",VU,D,-11184866
-78,76,"puta","Murina","Taiwanese Tube-nosed Bat",NT,U,-12486656
-79,49,"grisea","Murina","",NE,U,-16777216
-81,80,"mordax","Harpiocephalus","Greater Hairy-winged Bat",DD,U,-11513776
-82,80,"harpia","Harpiocephalus","Lesser Hairy-winged Bat",LC,D,-16731116
-83,3,"rueppellii","Scoteanax","Greater Broad-nosed Bat",LC,D,-16731116
-93,92,"machadoi","Glauconycteris","Machado's Butterfly Bat",DD,U,-11513776
-94,92,"variegata","Glauconycteris","Butterfly Bat",LC,U,-16731116
-96,95,"kenyacola","Glauconycteris","Kenyan Wattled Bat",DD,U,-11513776
-97,95,"egeria","Glauconycteris","Bibundi Bat",DD,U,-11513776
-99,98,"humeralis","Glauconycteris","Allen's Spotted Bat",DD,U,-11513776
-100,98,"beatrix","Glauconycteris","Beatrix's Bat",LC,U,-16731116
-102,101,"alboguttata","Glauconycteris","Allen's Striped Bat",LC,U,-16731116
-103,101,"argentata","Glauconycteris","Silvered Bat",LC,U,-16731116
-105,104,"gleni","Glauconycteris","Glen's Wattled Bat",DD,U,-11513776
-106,104,"poensis","Glauconycteris","Abo Bat",LC,U,-16731116
-107,87,"superba","Glauconycteris","Pied Bat",LC,U,-16731116
-110,109,"wintoni","Laephotis","De Winton's Long-eared Bat",LC,U,-16731116
-111,109,"botswanae","Laephotis","Botswanan Long-eared Bat",LC,U,-16731116
-113,112,"angolensis","Laephotis","Angolan Long-eared Bats",DD,U,-11513776
-114,112,"namibensis","Laephotis","Namib Long-eared Bat",LC,S,-16731116
-115,85,"hemprichii","Otonycteris","Desert Long-eared Bat",LC,U,-16731116
-122,121,"finlaysoni","Vespadelus","Finlayson's Cave Bat",LC,S,-16731116
-123,121,"troughtoni","Vespadelus","Eastern Cave Bat",LC,S,-16731116
-125,124,"pumilus","Vespadelus","Eastern Forest Bat",LC,D,-16731116
-126,124,"caurinus","Vespadelus","Northern Cave Bat",LC,S,-16731116
-127,119,"darlingtoni","Vespadelus","Large Forest Bat",LC,S,-16731116
-128,118,"douglasorum","Vespadelus","Yellow-lipped Cave Bat",LC,U,-16731116
-131,130,"regulus","Vespadelus","Southern Forest Bat",LC,S,-16731116
-132,130,"vulturnus","Vespadelus","Little Forest Bat",LC,D,-16731116
-133,129,"baverstocki","Vespadelus","Inland Forest Bat",LC,S,-16731116
-135,134,"robustula","Tylonycteris","Greater Bamboo Bat",LC,U,-16731116
-136,134,"pachypus","Tylonycteris","Lesser Bamboo Bat",LC,U,-16731116
-144,143,"neocaledonicus","Chalinolobus","New Caledonia Wattled Bat",EN,D,-8572416
-145,143,"gouldii","Chalinolobus","Gould's Wattled Bat",LC,S,-16731116
-146,142,"nigrogriseus","Chalinolobus","Hoary Wattled Bat",LC,S,-16731116
-149,148,"morio","Chalinolobus","Chocolate Wattled Bat",LC,S,-16731116
-150,148,"picatus","Chalinolobus","Little Pied Bat",NT,D,-12486656
-151,147,"dwyeri","Chalinolobus","Large-eared Pied Bat",NT,D,-12486656
-152,140,"tuberculatus","Chalinolobus","New Zealand Long-tailed Bat",VU,D,-11184866
-156,155,"affinis","Falsistrellus","Chocolate Pipistrelle",LC,U,-16731116
-157,155,"petersi","Falsistrellus","Peters's Pipistrelle",DD,U,-11513776
-158,154,"mordax","Falsistrellus","Pungent Pipistrelle",DD,U,-11513776
-160,159,"tasmaniensis","Falsistrellus","Eastern False Pipistrelle",LC,D,-16731116
-161,159,"mackenziei","Falsistrellus","Western False Pipistrelle",NT,D,-12486656
-165,164,"helios","Neoromicia","",NE,U,-16777216
-166,164,"nanus","Neoromicia","",NE,U,-16777216
-167,163,"arabicus","Hypsugo","",NE,U,-16777216
-168,162,"imbricatus","Hypsugo","",NE,U,-16777216
-170,169,"hesperus","Pipistrellus","Western Pipistrelle",LC,S,-16731116
-171,169,"musciculus","Hypsugo","",NE,U,-16777216
-181,180,"kolombatovici","Plecotus","Kolombatovic's Long-eared Bat",LC,D,-16731116
-182,180,"austriacus","Plecotus","Gray Big-eared Bat",LC,U,-16731116
-183,179,"teneriffae","Plecotus","Canary Big-eared Bat",EN,D,-8572416
-185,184,"taivanus","Plecotus","Taiwan Long-eared Bat",NT,D,-12486656
-186,184,"auritus","Plecotus","Brown Big-eared Bat",LC,S,-16731116
-189,188,"townsendii","Corynorhinus","Townsend's Big-eared Bat",LC,S,-16731116
-190,188,"mexicanus","Corynorhinus","Mexican Big-eared Bat",NT,D,-12486656
-191,187,"rafinesquii","Corynorhinus","Rafinesque's Big-eared Bat",LC,I,-16731116
-193,192,"phyllotis","Idionycteris","Allen's Big-eared Bat",LC,S,-16731116
-194,192,"maculatum","Euderma","Spotted Bat",LC,S,-16731116
-196,195,"leucomelas","Barbastella","Asian Barbastelle",LC,U,-16731116
-197,195,"barbastellus","Barbastella","Barbastelle",NT,D,-12486656
-200,199,"rueppellii","Pipistrellus","Ruppel's Pipistrelle",LC,U,-16731116
-201,199,"crassulus","Hypsugo","",NE,U,-16777216
-202,198,"nanulus","Pipistrellus","Tiny Pipistrelle",LC,U,-16731116
-210,209,"tumida","Rhogeessa","Black-winged Little Yellow Bat",LC,S,-16731116
-211,209,"aeneus","Rhogeessa","Yucatan Yellow Bat",LC,S,-16731116
-212,208,"io","Rhogeessa","Thomas's Yellow Bat",LC,U,-16731116
-213,207,"minutilla","Rhogeessa","Tiny Yellow Bat",VU,D,-11184866
-215,214,"genowaysi","Rhogeessa","Genoways's Yellow Bat",EN,D,-8572416
-216,214,"parvula","Rhogeessa","Little Yellow Bat",LC,S,-16731116
-217,205,"gracilis","Rhogeessa","Slender Yellow Bat",LC,U,-16731116
-218,204,"mira","Rhogeessa","Least Yellow Bat",VU,S,-11184866
-219,203,"alleni","Rhogeessa","Allen's Yellow Bat",LC,S,-16731116
-227,226,"lasiopterus","Nyctalus","Giant Noctule",NT,D,-12486656
-228,226,"leisleri","Nyctalus","LEISLER'S BAT",LC,U,-16731116
-229,225,"aviator","Nyctalus","Birdlike Noctule",NT,D,-12486656
-230,224,"montanus","Nyctalus","Mountain Noctule",LC,D,-16731116
-231,223,"azoreum","Nyctalus","Azorean Bat",EN,D,-8572416
-234,233,"plancyi","Nyctalus","Chinese Noctule",LC,U,-16731116
-235,233,"furvus","Nyctalus","Japanese Noctule",VU,D,-11184866
-236,232,"noctula","Nyctalus","Noctule",LC,U,-16731116
-238,237,"doriae","Hesperoptenus","False Serotine Bat",DD,U,-11513776
-239,237,"denticulus","Eudiscopus","Disk-footed Bat",DD,U,-11513776
-244,243,"bodenheimeri","Hypsugo","",NE,U,-16777216
-245,243,"ariel","Hypsugo","",NE,U,-16777216
-247,246,"alaschanicus","Hypsugo","",NE,U,-16777216
-248,246,"savii","Hypsugo","",NE,U,-16777216
-250,249,"vordermanni","Hypsugo","",NE,U,-16777216
-251,249,"macrotis","Hypsugo","",NE,U,-16777216
-252,240,"cadornae","Hypsugo","",NE,U,-16777216
+14,13,"magnirostris","Myiarchus","Large-billed Flycatcher",LC,U,-16731116
+15,13,"barbirostris","Myiarchus","Sad Flycatcher",LC,U,-16731116
+16,12,"semirufus","Myiarchus","Rufous Flycatcher",EN,U,-8572416
+18,17,"phaeocephalus","Myiarchus","Sooty-crowned Flycatcher",LC,U,-16731116
+19,17,"ferox","Myiarchus","Short-crested Flycatcher",LC,U,-16731116
+20,10,"venezuelensis","Myiarchus","Venezuelan Flycatcher",LC,U,-16731116
+21,9,"sagrae","Myiarchus","La Sagra's Flycatcher",LC,U,-16731116
+23,22,"cephalotes","Myiarchus","Pale-edged Flycatcher",LC,U,-16731116
+24,22,"panamensis","Myiarchus","Panama Flycatcher",LC,U,-16731116
+27,26,"antillarum","Myiarchus","Puerto Rican Flycatcher",LC,U,-16731116
+28,26,"nugator","Myiarchus","Grenada Flycatcher",LC,U,-16731116
+29,25,"nuttingi","Myiarchus","Nutting's Flycatcher",LC,U,-16731116
+33,32,"validus","Myiarchus","Rufous-tailed Flycatcher",LC,U,-16731116
+34,32,"swainsoni","Myiarchus","Swainson's Flycatcher",LC,U,-16731116
+35,31,"yucatanensis","Myiarchus","Yucatan Flycatcher",LC,U,-16731116
+37,36,"tuberculifer","Myiarchus","Dusky-capped Flycatcher",LC,U,-16731116
+38,36,"apicalis","Myiarchus","Apical Flycatcher",LC,U,-16731116
+42,41,"cinerascens","Myiarchus","Ash-throated Flycatcher",LC,U,-16731116
+43,41,"oberi","Myiarchus","Lesser Antillean Flycatcher",LC,U,-16731116
+45,44,"crinitus","Myiarchus","Great Crested Flycatcher",LC,U,-16731116
+46,44,"stolidus","Myiarchus","Stolid Flycatcher",LC,U,-16731116
+47,39,"tyrannulus","Myiarchus","Brown-crested Flycatcher",LC,U,-16731116
+51,50,"immunda","Rhytipterna","Pale-bellied Mourner",LC,U,-16731116
+52,50,"holerythra","Rhytipterna","Rufous Mourner",LC,U,-16731116
+53,49,"simplex","Rhytipterna","Greyish Mourner",LC,U,-16731116
+55,54,"fuscus","Casiornis","Ash-throated Casiornis",LC,U,-16731116
+56,54,"rufus","Casiornis","Rufous Casiornis",LC,U,-16731116
+58,57,"albogriseus","Sirystes","Western Sirystes",_U,[,-16777216
+59,57,"sibilator","Sirystes","Sirystes",LC,U,-16731116
+64,63,"spadiceus","Attila","Bright-rumped Attila",LC,U,-16731116
+65,63,"torridus","Attila","Ochraceous Attila",VU,U,-11184866
+66,62,"citriniventris","Attila","Citron-bellied Attila",LC,U,-16731116
+67,61,"cinnamomeus","Attila","Cinnamon Attila",LC,U,-16731116
+70,69,"bolivianus","Attila","Dull-capped Attila",LC,U,-16731116
+71,69,"rufus","Attila","Grey-hooded Attila",LC,U,-16731116
+72,68,"phoenicurus","Attila","Rufous-tailed Attila",LC,U,-16731116
+86,85,"melancholicus","Tyrannus","Tropical Kingbird",LC,U,-16731116
+87,85,"savana","Tyrannus","Fork-tailed Flycatcher",LC,U,-16731116
+88,84,"dominicensis","Tyrannus","Grey Kingbird",LC,U,-16731116
+89,83,"couchii","Tyrannus","Couch's Kingbird",LC,U,-16731116
+91,90,"albogularis","Tyrannus","White-throated Kingbird",LC,U,-16731116
+92,90,"crassirostris","Tyrannus","Thick-billed Kingbird",LC,U,-16731116
+94,93,"vociferans","Tyrannus","Cassin's Kingbird",LC,U,-16731116
+95,93,"cubensis","Tyrannus","Giant Kingbird",EN,U,-8572416
+96,80,"caudifasciatus","Tyrannus","Loggerhead Kingbird",LC,U,-16731116
+97,79,"tyrannus","Tyrannus","Eastern Kingbird",LC,U,-16731116
+100,99,"niveigularis","Tyrannus","Snowy-throated Kingbird",LC,U,-16731116
+101,99,"verticalis","Tyrannus","Western Kingbird",LC,U,-16731116
+102,98,"forficatus","Tyrannus","Scissor-tailed Flycatcher",LC,U,-16731116
+104,103,"aurantioatrocristatus","Empidonomus","Crowned Slaty Flycatcher",LC,U,-16731116
+105,103,"varius","Empidonomus","Variegated Flycatcher",LC,U,-16731116
+108,107,"sulphurea","Tyrannopsis","Sulphury Flycatcher",LC,U,-16731116
+109,107,"ridgwayi","Nesotriccus","Cocos Flycatcher",VU,U,-11184866
+110,106,"pitangua","Megarynchus","Boat-billed Flycatcher",LC,U,-16731116
+115,114,"luteiventris","Myiodynastes","Sulphur-bellied Flycatcher",LC,U,-16731116
+116,114,"hemichrysus","Myiodynastes","Golden-bellied Flycatcher",LC,U,-16731116
+117,113,"bairdii","Myiodynastes","Baird's Flycatcher",LC,U,-16731116
+118,112,"maculatus","Myiodynastes","Streaked Flycatcher",LC,U,-16731116
+119,111,"chrysocephalus","Myiodynastes","Golden-crowned Flycatcher",LC,U,-16731116
+122,121,"luteiventris","Myiozetetes","Dusky-chested Flycatcher",LC,U,-16731116
+123,121,"granadensis","Myiozetetes","Grey-capped Flycatcher",LC,U,-16731116
+125,124,"cayanensis","Myiozetetes","Rusty-margined Flycatcher",LC,U,-16731116
+126,124,"similis","Myiozetetes","Social Flycatcher",LC,U,-16731116
+129,128,"sulphuratus","Pitangus","Great Kiskadee",LC,U,-16731116
+130,128,"lictor","Pitangus","Lesser Kiskadee",LC,U,-16731116
+131,127,"rixosa","Machetornis","Cattle Tyrant",LC,U,-16731116
+132,0,"leucophaius","Legatus","Piratic Flycatcher",LC,U,-16731116

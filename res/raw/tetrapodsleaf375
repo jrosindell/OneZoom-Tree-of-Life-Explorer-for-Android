@@ -1,0 +1,26 @@
+index,parent,name1,name2,common,redlist,popstab,color
+7,6,"crassus","Hoplobatrachus","Jerdon's Bullfrog",LC,D,-16731116
+8,6,"tigerinus","Hoplobatrachus","Indian Bullfrog",LC,S,-16731116
+9,5,"chinensis","Hoplobatrachus","",NE,U,-16777216
+10,4,"occipitalis","Hoplobatrachus","Crowned Bullfrog",LC,D,-16731116
+14,13,"hexadactylus","Euphlyctis","Indian Green Frog",LC,S,-16731116
+15,13,"cyanophlyctis","Euphlyctis","",LC,S,-16731116
+16,12,"ehrenbergii","Euphlyctis","",LC,S,-16731116
+17,11,"ghoshi","Euphlyctis","",DD,U,-11513776
+20,19,"ceylonensis","Nannophrys","",VU,D,-11184866
+21,19,"guentheri","Nannophrys","",EX,U,-16777036
+22,18,"marmorata","Nannophrys","",CR,D,-3014646
+27,26,"rufescens","Fejervarya","Malabar Wart Frog",LC,U,-16731116
+28,26,"verruculosa","Fejervarya","",LC,S,-16731116
+29,25,"syhadrensis","Fejervarya","Bombay Wart Frog",LC,S,-16731116
+31,30,"nepalensis","Fejervarya","Nepal Wart Frog",LC,S,-16731116
+32,30,"frithii","Fejervarya","",NE,U,-16777216
+36,35,"kirtisinghei","Fejervarya","",LC,S,-16731116
+37,35,"moodiei","Fejervarya","",DD,U,-11513776
+38,34,"schlueteri","Fejervarya","",DD,U,-11513776
+40,39,"pulla","Fejervarya","",DD,U,-11513776
+41,39,"brama","Fejervarya","",DD,U,-11513776
+45,44,"leucorhynchus","Sphaerotheca","",DD,U,-11513776
+46,44,"breviceps","Sphaerotheca","",LC,S,-16731116
+47,43,"dobsoni","Sphaerotheca","",NE,U,-16777216
+48,42,"rolandae","Sphaerotheca","",LC,S,-16731116

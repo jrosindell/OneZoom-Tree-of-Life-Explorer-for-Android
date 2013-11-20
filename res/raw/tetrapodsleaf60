@@ -1,109 +1,78 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"decurtatus","Phyllorhynchus","Spotted Leaf-nosed Snake",LC,S,-16731116
-12,10,"biscutatus","Trimorphodon","",NE,U,-16777216
-13,9,"pullatus","Spilotes","",NE,U,-16777216
-16,15,"relicta","Tantilla","Florida Crowned Snake",LC,S,-16731116
-17,15,"constrictor","Coluber","Eastern Racer",LC,S,-16731116
-18,14,"mexicana","Salvadora","",LC,S,-16731116
-21,20,"lentiginosum","Rhinobothryum","",NE,U,-16777216
-22,20,"corais","Drymarchon","",NE,U,-16777216
-24,23,"boddaerti","Mastigodryas","",NE,U,-16777216
-25,23,"dichrous","Drymoluber","",NE,U,-16777216
-31,30,"streckeri","Ficimia","Mexican Hooknose Snake",LC,S,-16731116
-32,30,"frontalis","Pseudoficimia","",LC,S,-16731116
-33,29,"lippiens","Sympholis","",NE,U,-16777216
-34,28,"canum","Gyalopion","Chihuahuan Hook-nosed Snake",LC,S,-16731116
-35,27,"biserialis","Conopsis","",LC,S,-16731116
-39,38,"occipitalis","Chionactis","Western Shovel-nosed Snake",LC,S,-16731116
-40,38,"semiannulata","Sonora","Ground Snake",LC,S,-16731116
-41,37,"stramineus","Chilomeniscus","Sand Snake",LC,S,-16731116
-42,36,"freminvillei","Stenorrhina","",LC,S,-16731116
-43,5,"vernalis","Opheodrys","",NE,U,-16777216
-47,46,"ahaetulla","Leptophis","",NE,U,-16777216
-48,46,"aeneus","Oxybelis","",NE,U,-16777216
-49,45,"carinatus","Chironius","",NE,U,-16777216
-51,50,"dendrophis","Dendrophidion","",NE,U,-16777216
-52,50,"rhombifer","Drymobius","",NE,U,-16777216
-59,58,"viridiflavus","Hierophis","Green Whip Snake",LC,S,-16731116
-60,58,"caspius","Dolichophis","",NE,U,-16777216
-61,57,"modestus","Eirenis","Ring-Headed Dwarf Snake",LC,S,-16731116
-62,56,"socotrae","Hemerophis","",NE,U,-16777216
-65,64,"hippocrepis","Hemorrhois","Horseshoe Whip Snake",LC,S,-16731116
-66,64,"najadum","Platyceps","Dahl's Whip Snake",LC,U,-16731116
-67,63,"diadema","Spalerosophis","",NE,U,-16777216
-68,54,"cucullatus","Macroprotodon","False Smooth Snake",LC,D,-16731116
-69,53,"diadema","Lytorhynchus","Crowned Leafnose Snake",NE,U,-16777216
-80,79,"subocularis","Bogertophis","Trans-pecos Rat Snake",LC,D,-16731116
-81,79,"elegans","Arizona","Glossy Snake",LC,S,-16731116
-83,82,"getula","Lampropeltis","Common King Snake",LC,S,-16731116
-84,82,"coccinea","Cemophora","Scarlet Snake",LC,S,-16731116
-86,85,"lecontei","Rhinocheilus","Long-nosed Snake",LC,S,-16731116
-87,85,"flavirufa","Pseudelaphe","",NE,U,-16777216
-89,88,"melanoleucus","Pituophis","Pine Snake",LC,D,-16731116
-90,88,"guttatus","Pantherophis","Corn Snake",LC,S,-16731116
-91,75,"triaspis","Senticolis","",NE,U,-16777216
-93,92,"rufodorsatus","Oocatochus","",NE,U,-16777216
-94,92,"austriaca","Coronella","",NE,U,-16777216
-96,95,"longissimus","Zamenis","Aesculapean Snake",LC,U,-16731116
-97,95,"scalaris","Rhinechis","Ladder Snake",LC,S,-16731116
-99,98,"cantoris","Orthriophis","",NE,U,-16777216
-100,98,"dione","Elaphe","",NE,U,-16777216
-101,71,"porphyraceus","Oreophis","",NE,U,-16777216
-102,70,"conspicillatus","Euprepiophis","",NE,U,-16777216
-114,113,"multomaculata","Boiga","",NE,U,-16777216
-115,113,"trigonata","Boiga","",NE,U,-16777216
-116,112,"beddomei","Boiga","",NE,U,-16777216
-118,117,"ceylonensis","Boiga","",NE,U,-16777216
-119,117,"barnesii","Boiga","",NE,U,-16777216
-123,122,"forstenii","Boiga","",NE,U,-16777216
-124,122,"cynodon","Boiga","",NE,U,-16777216
-125,121,"dendrophila","Boiga","",NE,U,-16777216
-126,120,"irregularis","Boiga","",NE,U,-16777216
-127,109,"kraepelini","Boiga","",NE,U,-16777216
-128,108,"pulverulenta","Toxicodryas","",NE,U,-16777216
-131,130,"tornieri","Crotaphopeltis","",NE,U,-16777216
-132,130,"unicolor","Dipsadoboa","",NE,U,-16777216
-133,129,"fallax","Telescopus","Cat Snake",LC,U,-16731116
-134,106,"atra","Dasypeltis","",NE,U,-16777216
-141,140,"osmanhilli","Lycodon","",NE,U,-16777216
-142,140,"capucinus","Lycodon","",NE,U,-16777216
-144,143,"aulicus","Lycodon","",NE,U,-16777216
-145,143,"zawi","Lycodon","",NE,U,-16777216
-146,138,"carinata","Cercaspis","",NE,U,-16777216
-148,147,"fasciatus","Lycodon","",NE,U,-16777216
-149,147,"ruhstrati","Lycodon","",NE,U,-16777216
-152,151,"paucifasciatus","Lycodon","",NE,U,-16777216
-153,151,"rufozonatum","Dinodon","",NE,U,-16777216
-154,150,"laoensis","Lycodon","",NE,U,-16777216
-155,135,"nympha","Dryocalamus","",NE,U,-16777216
-157,156,"boulengeri","Rhynchophis","",NE,U,-16777216
-158,156,"oxycephalum","Gonyosoma","",NE,U,-16777216
-164,163,"capensis","Thelotornis","",NE,U,-16777216
-165,163,"typus","Dispholidus","",NE,U,-16777216
-166,162,"jacksoni","Thrasops","",NE,U,-16777216
-168,167,"heterodermus","Philothamnus","",NE,U,-16777216
-169,167,"smaragdina","Hapsidophrys","",NE,U,-16777216
-171,170,"albopunctatus","Scaphiophis","",NE,U,-16777216
-172,170,"helena","Coelognathus","",NE,U,-16777216
-174,173,"major","Cyclophiops","",NE,U,-16777216
-175,173,"mucosus","Ptyas","",NE,U,-16777216
-183,182,"cruentatus","Oligodon","",NE,U,-16777216
-184,182,"theobaldi","Oligodon","",NE,U,-16777216
-186,185,"planiceps","Oligodon","",NE,U,-16777216
-187,185,"torquatus","Oligodon","",NE,U,-16777216
-188,180,"maculatus","Oligodon","Barred Short-headed Snake",LC,D,-16731116
-189,179,"cinereus","Oligodon","",NE,U,-16777216
-190,178,"splendidus","Oligodon","",NE,U,-16777216
-196,195,"ocellatus","Oligodon","",NE,U,-16777216
-197,195,"cyclurus","Oligodon","",NE,U,-16777216
-198,194,"formosanus","Oligodon","",NE,U,-16777216
-200,199,"taeniatus","Oligodon","",NE,U,-16777216
-201,199,"barroni","Oligodon","",NE,U,-16777216
-202,192,"chinensis","Oligodon","",NE,U,-16777216
-203,191,"octolineatus","Oligodon","",NE,U,-16777216
-207,206,"modestum","Oligodon","Spotted-bellied Short-headed Snake",VU,D,-11184866
-208,206,"venustus","Oligodon","",NE,U,-16777216
-209,205,"arnensis","Oligodon","",NE,U,-16777216
-212,211,"sublineatus","Oligodon","",NE,U,-16777216
-213,211,"calamarius","Oligodon","",NE,U,-16777216
-214,210,"taeniolatus","Oligodon","",NE,U,-16777216
+10,9,"castanotis","Garrulax","Rufous-cheeked Laughingthrush",LC,U,-16731116
+11,9,"peninsulae","Garrulax","Malayan Laughingthrush",LC,U,-16731116
+13,12,"poecilorhynchus","Garrulax","Rusty Laughingthrush",LC,U,-16731116
+14,12,"berthemyi","Garrulax","Buffy Laughingthrush",LC,U,-16731116
+15,7,"rufogularis","Garrulax","Rufous-chinned Laughingthrush",LC,U,-16731116
+18,17,"albogularis","Garrulax","White-throated Laughingthrush",LC,U,-16731116
+19,17,"ruficeps","Garrulax","Rufous-crowned Laughingthrush",LC,U,-16731116
+20,16,"ferrarius","Garrulax","Cambodian Laughingthrush",NT,U,-12486656
+24,23,"mitratus","Garrulax","Chestnut-capped Laughingthrush",LC,U,-16731116
+25,23,"davidi","Garrulax","Plain Laughingthrush",LC,U,-16731116
+26,22,"imbricatus","Garrulax","Bhutan Laughingthrush",LC,U,-16731116
+27,21,"pectoralis","Garrulax","Greater Necklaced Laughingthrush",LC,U,-16731116
+30,29,"koslowi","Babax","Tibetan Babax",NT,U,-12486656
+31,29,"waddelli","Babax","Giant Babax",NT,U,-12486656
+32,28,"lanceolatus","Babax","Chinese Babax",LC,U,-16731116
+39,38,"perspicillatus","Garrulax","Masked Laughingthrush",LC,U,-16731116
+40,38,"gularis","Garrulax","Rufous-vented Laughingthrush",LC,U,-16731116
+41,37,"caerulatus","Garrulax","Grey-sided Laughingthrush",LC,U,-16731116
+42,36,"nuchalis","Garrulax","Chestnut-backed Laughingthrush",NT,U,-12486656
+43,35,"sannio","Garrulax","White-browed Laughingthrush",LC,U,-16731116
+45,44,"cachinnans","Strophocincla","Black-chinned Laughingthrush",EN,U,-8572416
+46,44,"fairbanki","Strophocincla","Kerala Laughingthrush",NT,U,-12486656
+47,33,"chinensis","Garrulax","Black-throated Laughingthrush",LC,U,-16731116
+54,53,"galbanus","Garrulax","Yellow-throated Laughingthrush",LC,U,-16731116
+55,53,"maximus","Garrulax","Giant Laughingthrush",LC,U,-16731116
+56,52,"ocellatus","Garrulax","Spotted Laughingthrush",LC,U,-16731116
+57,51,"lunulatus","Garrulax","Barred Laughingthrush",LC,U,-16731116
+58,50,"bicolor","Garrulax","Sumatran Laughingthrush",VU,U,-11184866
+59,49,"calvus","Garrulax","Bare-headed Laughingthrush",LC,U,-16731116
+63,62,"strepitans","Garrulax","White-necked Laughingthrush",LC,U,-16731116
+64,62,"vassali","Garrulax","White-cheeked Laughingthrush",LC,U,-16731116
+65,61,"monileger","Garrulax","Lesser Necklaced Laughingthrush",LC,U,-16731116
+67,66,"ruficollis","Garrulax","Rufous-necked Laughingthrush",LC,U,-16731116
+68,66,"cineraceus","Garrulax","Moustached Laughingthrush",LC,U,-16731116
+73,72,"courtoisi","Garrulax","Blue-crowned Laughingthrush",CR,U,-3014646
+74,72,"milleti","Garrulax","Black-hooded Laughingthrush",NT,U,-12486656
+76,75,"ngoclinhensis","Garrulax","Golden-winged Laughingthrush",VU,U,-11184866
+77,75,"lugubris","Garrulax","Black Laughingthrush",LC,U,-16731116
+79,78,"leucolophus","Garrulax","White-crested Laughingthrush",LC,U,-16731116
+80,78,"palliatus","Garrulax","Sunda Laughingthrush",LC,U,-16731116
+84,83,"bieti","Garrulax","White-speckled Laughingthrush",VU,U,-11184866
+85,83,"taewanus","Garrulax","Taiwan Hwamei",NT,U,-12486656
+86,82,"canorus","Garrulax","Chinese Hwamei",LC,U,-16731116
+87,81,"sukatschewi","Garrulax","Snowy-cheeked Laughingthrush",VU,U,-11184866
+95,94,"gilberti","Kupeornis","White-throated Mountain-babbler",EN,U,-8572416
+96,94,"chapini","Kupeornis","Chapin's Mountain-babbler",NT,U,-12486656
+97,93,"rufocinctus","Kupeornis","Red-collared Mountain-babbler",NT,U,-12486656
+99,98,"leucocephala","Turdoides","Cretschmar's Babbler",LC,U,-16731116
+100,98,"atripennis","Phyllanthus","Capuchin Babbler",LC,U,-16731116
+103,102,"longirostris","Turdoides","Slender-billed Babbler",VU,U,-11184866
+104,102,"bicolor","Turdoides","Southern Pied-babbler",LC,U,-16731116
+105,101,"earlei","Turdoides","Striated Babbler",LC,U,-16731116
+108,107,"fulva","Turdoides","Fulvous Chatterer",LC,U,-16731116
+109,107,"plebejus","Turdoides","Brown Babbler",LC,U,-16731116
+110,106,"malcolmi","Turdoides","Large Grey Babbler",LC,U,-16731116
+117,116,"gularis","Turdoides","White-throated Babbler",LC,U,-16731116
+118,116,"jardineii","Turdoides","Arrow-marked Babbler",LC,U,-16731116
+120,119,"melanops","Turdoides","Black-lored Babbler",LC,U,-16731116
+121,119,"reinwardii","Turdoides","Blackcap Babbler",LC,U,-16731116
+122,114,"affinis","Turdoides","Yellow-billed Babbler",LC,U,-16731116
+124,123,"altirostris","Turdoides","Iraq Babbler",LC,U,-16731116
+125,123,"nipalensis","Turdoides","Spiny Babbler",LC,U,-16731116
+126,112,"hartlaubii","Turdoides","Angola Babbler",LC,U,-16731116
+127,111,"subrufa","Turdoides","Rufous Babbler",LC,U,-16731116
+135,134,"squamiceps","Turdoides","Arabian Babbler",LC,U,-16731116
+136,134,"caudata","Turdoides","Common Babbler",LC,U,-16731116
+137,133,"striata","Turdoides","Jungle Babbler",LC,U,-16731116
+138,132,"sharpei","Turdoides","Sharpe's Pied-babbler",LC,U,-16731116
+140,139,"hypoleuca","Turdoides","Northern Pied-babbler",LC,U,-16731116
+141,139,"tenebrosa","Turdoides","Dusky Babbler",LC,U,-16731116
+144,143,"leucopygia","Turdoides","White-rumped Babbler",LC,U,-16731116
+145,143,"rubiginosa","Turdoides","Rufous Chatterer",LC,U,-16731116
+146,142,"rufescens","Turdoides","Orange-billed Babbler",NT,U,-12486656
+149,148,"hindei","Turdoides","Hinde's Pied-babbler",VU,U,-11184866
+150,148,"squamulata","Turdoides","Scaly Babbler",LC,U,-16731116
+151,147,"aylmeri","Turdoides","Scaly Chatterer",LC,U,-16731116
+152,128,"gymnogenys","Turdoides","Bare-cheeked Babbler",LC,U,-16731116

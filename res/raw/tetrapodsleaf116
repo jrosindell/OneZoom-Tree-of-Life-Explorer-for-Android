@@ -1,148 +1,109 @@
 index,parent,name1,name2,common,redlist,popstab,color
-22,21,"commersoni","Hipposideros","Commerson's Leaf-nosed Bat",NT,U,-12486656
-23,21,"vittatus","Hipposideros","",NT,D,-12486656
-24,20,"thomensis","Hipposideros","",LC,S,-16731116
-25,19,"gigas","Hipposideros","Giant Leaf-nosed Bat",LC,U,-16731116
-27,26,"lylei","Hipposideros","Shield-faced Leaf-nosed Bat",LC,D,-16731116
-28,26,"pratti","Hipposideros","Pratt's Leaf-nosed Bat",LC,U,-16731116
-29,17,"inexpectatus","Hipposideros","Crested Leaf-nosed Bat",DD,U,-11513776
-33,32,"sumbae","Hipposideros","Sumban Leaf-nosed Bat",LC,D,-16731116
-34,32,"grandis","Hipposideros","Grand Leaf-nosed Bat",DD,U,-11513776
-35,31,"larvatus","Hipposideros","Horsfield's Leaf-nosed Bat",LC,U,-16731116
-37,36,"armiger","Hipposideros","Great Himalayan Leaf-nosed Bat",LC,U,-16731116
-38,36,"turpis","Hipposideros","Lesser Leaf-nosed Bat",NT,D,-12486656
-44,43,"muscinus","Hipposideros","Fly River Leaf-nosed Bat",DD,U,-11513776
-45,43,"semoni","Hipposideros","Semon's Leaf-nosed Bat",DD,U,-11513776
-46,42,"corynophyllus","Hipposideros","Telefomin Leaf-nosed Bat",DD,U,-11513776
-48,47,"wollastoni","Hipposideros","Wollaston's Leaf-nosed Bat",LC,U,-16731116
-49,47,"stenotis","Hipposideros","Northern Leaf-nosed Bat",LC,U,-16731116
-51,50,"camerunensis","Hipposideros","Greater Roundleaf Bat",DD,U,-11513776
-52,50,"cyclops","Hipposideros","Cyclops Roundleaf Bat",LC,D,-16731116
-54,53,"patrizii","Asellia","Patrizi's Trident Leaf-nosed Bat",LC,U,-16731116
-55,53,"tridens","Asellia","Geoffroy's Trident Leaf-nosed Bat",LC,S,-16731116
-59,58,"demissus","Hipposideros","Makira Leaf-nosed Bat",VU,U,-11184866
-60,58,"diadema","Hipposideros","Diadem Leaf-nosed Bat",LC,U,-16731116
-61,57,"inornatus","Hipposideros","Arnhem Leaf-nosed Bat",VU,S,-11184866
-62,56,"lankadiva","Hipposideros","Indian Leaf-nosed Bat",LC,U,-16731116
-64,63,"pelingensis","Hipposideros","Peleng Leaf-nosed Bat",NT,D,-12486656
-65,63,"dinops","Hipposideros","Fierce Leaf-nosed Bat",DD,D,-11513776
-66,12,"lekaguli","Hipposideros","Large Asian Leaf-nosed Bat",NT,D,-12486656
-67,11,"ater","Hipposideros","Dusky Leaf-nosed Bat",LC,U,-16731116
-70,69,"breviceps","Hipposideros","Short-headed Leaf-nosed Bat",DD,U,-11513776
-71,69,"ridleyi","Hipposideros","Ridley's Leaf-nosed Bat",VU,D,-11184866
-72,68,"curtus","Hipposideros","Short-tailed Roundleaf Bat",VU,D,-11184866
-78,77,"stoliczkanus","Aselliscus","Stoliczka's Asian Trident Bat",LC,U,-16731116
-79,77,"percivali","Cloeotis","Percival's Trident Bat",LC,U,-16731116
-80,76,"bicolor","Hipposideros","Bicolored Leaf-nosed Bat",LC,S,-16731116
-82,81,"macrobullatus","Hipposideros","Big-eared Leaf-nosed Bat",DD,U,-11513776
-83,81,"beatus","Hipposideros","Benito Roundleaf Bat",LC,D,-16731116
-84,74,"speoris","Hipposideros","Schneider's Leaf-nosed Bat",LC,S,-16731116
-86,85,"fuliginosus","Hipposideros","Sooty Roundleaf Bat",LC,D,-16731116
-87,85,"dyacorum","Hipposideros","Dayak Leaf-nosed Bat",LC,U,-16731116
-90,89,"cervinus","Hipposideros","Fawn-colored Leaf-nosed Bat",LC,U,-16731116
-91,89,"crumeniferus","Hipposideros","Timor Leaf-nosed Bat",DD,U,-11513776
-93,92,"galeritus","Hipposideros","Cantor's Leaf-nosed Bat",LC,U,-16731116
-94,92,"fulvus","Hipposideros","Fulvus Leaf-nosed Bat",LC,S,-16731116
-97,96,"caffer","Hipposideros","Sundevall's Roundleaf Bat",LC,D,-16731116
-98,96,"marisae","Hipposideros","Aellen's Roundleaf Bat",VU,D,-11184866
-99,95,"pomona","Hipposideros","Andersen's Leaf-nosed Bat",LC,U,-16731116
-102,101,"doriae","Hipposideros","Bornean Leaf-nosed Bat",NT,D,-12486656
-103,101,"coxi","Hipposideros","Cox's Leaf-nosed Bat",DD,U,-11513776
-104,100,"papua","Hipposideros","Biak Leaf-nosed Bat",LC,S,-16731116
-113,112,"lamottei","Hipposideros","Lamotte's Roundleaf Bat",CR,D,-3014646
-114,112,"ruber","Hipposideros","Noack's Roundleaf Bat",LC,U,-16731116
-115,111,"halophyllus","Hipposideros","Thailand Leaf-nosed Bat",EN,D,-8572416
-117,116,"coronatus","Hipposideros","Large Mindanao Leaf-nosed Bat",DD,U,-11513776
-118,116,"calcaratus","Hipposideros","Spurred Leaf-nosed Bat",LC,U,-16731116
-119,109,"maggietaylorae","Hipposideros","Maggie Taylor's Leaf-nosed Bat",LC,S,-16731116
-120,108,"jonesi","Hipposideros","Jones' Roundleaf Bat",NT,D,-12486656
-121,107,"pygmaeus","Hipposideros","Philippine Pygmy Leaf-nosed Bat",LC,U,-16731116
-124,123,"megalotis","Hipposideros","Ethiopian Large-eard Roundleaf Bat",LC,U,-16731116
-125,123,"nequam","Hipposideros","Malayan Leaf-nosed Bat",DD,U,-11513776
-127,126,"durgadasi","Hipposideros","Durga Das's Leaf-nosed Bat",EN,D,-8572416
-128,126,"cineraceus","Hipposideros","Least Leaf-nosed Bat",LC,U,-16731116
-130,129,"obscurus","Hipposideros","Philippine Forest Leaf-nosed Bat",LC,U,-16731116
-131,129,"abae","Hipposideros","Aba Roundleaf Bat",LC,U,-16731116
-132,4,"ornatus","Anthops","Solomons Leaf-nosed Bat",DD,U,-11513776
-133,3,"tricuspidatus","Aselliscus","Trident Leaf-nosed Bat",LC,S,-16731116
-137,136,"furculus","Triaenops","Trouessart's Trident Bat",LC,U,-16731116
-138,136,"auritus","Triaenops","Grandidier's Trident Bat",VU,U,-11184866
-140,139,"persicus","Triaenops","Persian Trident Bat",LC,U,-16731116
-141,139,"rufus","Triaenops","Rufous Trident Bat",LC,U,-16731116
-142,134,"aurantia","Rhinonicteris","Orange Leaf-nosed Bat",LC,U,-16731116
-145,144,"robinsoni","Coelops","Malayan Tailless Leaf-nosed Bat",VU,D,-11184866
-146,144,"frithii","Coelops","Tail-less Leaf-nosed Bat",LC,U,-16731116
-147,143,"megalotis","Paracoelops","Vietnamese Leaf-nosed Bat",DD,U,-11513776
-168,167,"mitratus","Rhinolophus","Mitred Horseshow Bat",DD,U,-11513776
-169,167,"keyensis","Rhinolophus","Kai Horseshoe Bat",DD,U,-11513776
-170,166,"virgo","Rhinolophus","Yellow-faced Horseshoe Bat",LC,S,-16731116
-171,165,"capensis","Rhinolophus","Cape Horseshoe Bat",LC,D,-16731116
-173,172,"philippinensis","Rhinolophus","Large-eared Horseshoe Bat",LC,U,-16731116
-174,172,"montanus","Rhinolophus","Timorese Horseshoe Bat",DD,U,-11513776
-175,163,"sedulus","Rhinolophus","Lesser Wooly Horseshoe Bat",NT,D,-12486656
-179,178,"simulator","Rhinolophus","Bushveld Horseshoe Bat",LC,D,-16731116
-180,178,"denti","Rhinolophus","Dent's Horseshoe Bat",LC,U,-16731116
-181,177,"pearsonii","Rhinolophus","Pearson's Horseshoe Bat",LC,U,-16731116
-182,176,"paradoxolophus","Rhinolophus","Bourret's Horseshoe Bat",LC,U,-16731116
-186,185,"ruwenzorii","Rhinolophus","Ruwenzori Horseshoe Bat",VU,D,-11184866
-187,185,"maclaudi","Rhinolophus","Maclaud's Horseshoe Bat",EN,D,-8572416
-188,184,"hilli","Rhinolophus","Hill's Horseshoe Bat",CR,D,-3014646
-190,189,"ferrumequinum","Rhinolophus","Greater Horseshoe Bat",LC,D,-16731116
-191,189,"subrufus","Rhinolophus","Small Rufous Horseshoe Bat",DD,U,-11513776
-192,160,"robinsoni","Rhinolophus","Peninsular Horseshoe Bat",NT,D,-12486656
-194,193,"acuminatus","Rhinolophus","Accuminate Horseshoe Bat",LC,U,-16731116
-195,193,"trifoliatus","Rhinolophus","Trefoil Horseshoe Bat",LC,U,-16731116
-201,200,"macrotis","Rhinolophus","Big-eared Horseshoe Bat",LC,S,-16731116
-202,200,"siamensis","Rhinolophus","Thai Horseshoe Bat",LC,U,-16731116
-203,199,"hipposideros","Rhinolophus","Lesser Horseshoe Bat",LC,D,-16731116
-204,198,"hildebrandtii","Rhinolophus","",NE,U,-16777216
-207,206,"affinis","Rhinolophus","Intermediate Horseshoe Bat",LC,S,-16731116
-208,206,"malayanus","Rhinolophus","Malayan Horseshoe Bat",LC,S,-16731116
-209,205,"megaphyllus","Rhinolophus","Eastern Horseshoe Bat",LC,U,-16731116
-210,196,"darlingi","Rhinolophus","Darling's Horseshoe Bat",LC,U,-16731116
-216,215,"clivosus","Rhinolophus","Geoffroy's Horseshoe Bat",LC,U,-16731116
-217,215,"hillorum","Rhinolophus","Upland Horseshoe Bat",VU,D,-11184866
-218,214,"bocharicus","Rhinolophus","Bokhara Horseshoe Bat",LC,S,-16731116
-219,213,"coelophyllus","Rhinolophus","Croslet Horseshoe Bat",LC,U,-16731116
-220,212,"silvestris","Rhinolophus","Forest Horseshoe Bat",DD,D,-11513776
-221,211,"deckenii","Rhinolophus","Decken's Horseshoe Bat",NT,D,-12486656
-222,156,"rex","Rhinolophus","King Horseshoe Bat",LC,D,-16731116
-223,155,"shameli","Rhinolophus","Shamel's Horseshoe Bat",LC,U,-16731116
-227,226,"euryale","Rhinolophus","Mediterranean Horseshoe Bat",NT,D,-12486656
-228,226,"mehelyi","Rhinolophus","Mehely's Horseshoe Bat",VU,D,-11184866
-230,229,"guineensis","Rhinolophus","Guinean Horseshoe Bat",VU,U,-11184866
-231,229,"landeri","Rhinolophus","Lander's Horseshoe Bat",LC,U,-16731116
-234,233,"celebensis","Rhinolophus","Sulawesi Horseshoe Bat",LC,U,-16731116
-235,233,"madurensis","Rhinolophus","Madura Horseshoe Bat",EN,D,-8572416
-236,232,"fumigatus","Rhinolophus","Ruppell's Horseshoe Bat",LC,U,-16731116
-247,246,"blasii","Rhinolophus","BLASIUS' HORSESHOE BAT",LC,D,-16731116
-248,246,"alcyone","Rhinolophus","Halcyon Horseshoe Bat",LC,U,-16731116
-249,245,"adami","Rhinolophus","Adam's Horseshoe Bat",DD,U,-11513776
-251,250,"creaghi","Rhinolophus","Creagh's Horseshoe Bat",LC,D,-16731116
-252,250,"canuti","Rhinolophus","Canut's Horseshoe Bat",VU,D,-11184866
-254,253,"sinicus","Rhinolophus","Chinese Horseshoe Bat",LC,U,-16731116
-255,253,"rouxii","Rhinolophus","Rufous Horseshoe Bat",LC,U,-16731116
-256,242,"thomasi","Rhinolophus","Thomas's Horseshoe Bat",LC,U,-16731116
-257,241,"eloquens","Rhinolophus","Eloquent Horseshoe Bat",LC,U,-16731116
-258,240,"euryotis","Rhinolophus","New Guinea Horseshoe Bat",LC,U,-16731116
-263,262,"borneensis","Rhinolophus","Bornean Horseshoe Bat",LC,U,-16731116
-264,262,"nereis","Rhinolophus","Anamban Horseshoe Bat",DD,U,-11513776
-265,261,"rufus","Rhinolophus","Large Rufous Horseshoe Bat",NT,D,-12486656
-266,260,"stheno","Rhinolophus","Lesser Brown Horseshoe Bat",LC,S,-16731116
-267,259,"marshalli","Rhinolophus","Marshall's Horseshoe Bat",LC,U,-16731116
-268,238,"yunanensis","Rhinolophus","Dobson's Horseshoe Bat",LC,U,-16731116
-273,272,"formosae","Rhinolophus","Formosan Woolly Horseshoe Bat",NT,D,-12486656
-274,272,"beddomei","Rhinolophus","Beddome's Horseshoe Bat",LC,S,-16731116
-275,271,"luctus","Rhinolophus","Great Woolly Horsehoe Bat",LC,U,-16731116
-276,270,"arcuatus","Rhinolophus","Arcuate Horseshoe Bat",LC,S,-16731116
-278,277,"inops","Rhinolophus","Philippine Forest Horseshoe Bat",LC,S,-16731116
-279,277,"swinnyi","Rhinolophus","Swinny's Horseshoe Bat",LC,U,-16731116
-281,280,"subbadius","Rhinolophus","Little Nepalese Horseshoe Bat",LC,D,-16731116
-282,280,"cognatus","Rhinolophus","Andaman Horseshoe Bat",EN,D,-8572416
-283,151,"imaizumii","Rhinolophus","",NE,U,-16777216
-285,284,"shortridgei","Rhinolophus","Shortridge's Horseshoe Bat",LC,U,-16731116
-286,284,"lepidus","Rhinolophus","Blyth's Horseshoe Bat",LC,U,-16731116
-288,287,"osgoodi","Rhinolophus","Osgood's Horseshoe Bat",DD,U,-11513776
-289,287,"cornutus","Rhinolophus","",NE,U,-16777216
-291,290,"pusillus","Rhinolophus","Least Horseshoe Bat",LC,U,-16731116
-292,290,"monoceros","Rhinolophus","",NE,U,-16777216
+15,14,"nigrocyaneus","Todiramphus","Blue-black Kingfisher",DD,U,-11513776
+16,14,"leucopygius","Todiramphus","Ultramarine Kingfisher",LC,U,-16731116
+18,17,"pyrrhopygius","Todiramphus","Red-backed Kingfisher",LC,U,-16731116
+19,17,"funebris","Todiramphus","Sombre Kingfisher",VU,U,-11184866
+22,21,"tutus","Todiramphus","Chattering Kingfisher",LC,U,-16731116
+23,21,"macleayii","Todiramphus","Forest Kingfisher",LC,U,-16731116
+25,24,"chloris","Todiramphus","Collared Kingfisher",LC,U,-16731116
+26,24,"sanctus","Todiramphus","Sacred Kingfisher",LC,U,-16731116
+29,28,"diops","Todiramphus","Blue-and-white Kingfisher",LC,U,-16731116
+30,28,"saurophaga","Todiramphus","Beach Kingfisher",LC,U,-16731116
+31,27,"cinnamominus","Todiramphus","Micronesian Kingfisher",LC,U,-16731116
+35,34,"ruficollaris","Todiramphus","Mangaia Kingfisher",VU,U,-11184866
+36,34,"gambieri","Todiramphus","Tuamotu Kingfisher",CR,U,-3014646
+38,37,"godeffroyi","Todiramphus","Marquesan Kingfisher",CR,U,-3014646
+39,37,"enigma","Todiramphus","Talaud Kingfisher",NT,U,-12486656
+42,41,"winchelli","Todiramphus","Rufous-lored Kingfisher",VU,U,-11184866
+43,41,"lazuli","Todiramphus","Lazuli Kingfisher",NT,U,-12486656
+44,40,"australasia","Todiramphus","Cinnamon-banded Kingfisher",NT,U,-12486656
+48,47,"farquhari","Todiramphus","Chestnut-bellied Kingfisher",NT,U,-12486656
+49,47,"veneratus","Todiramphus","Tahiti Kingfisher",LC,U,-16731116
+50,46,"recurvirostris","Todiramphus","Flat-billed Kingfisher",LC,U,-16731116
+51,45,"albonotatus","Todiramphus","New Britain Kingfisher",NT,U,-12486656
+53,52,"torotoro","Syma","Yellow-billed Kingfisher",LC,U,-16731116
+54,52,"megarhyncha","Syma","Mountain Kingfisher",LC,U,-16731116
+58,57,"bougainvillei","Actenoides","Moustached Kingfisher",VU,U,-11184866
+59,57,"princeps","Actenoides","Scaly Kingfisher",LC,U,-16731116
+60,56,"concretus","Actenoides","Rufous-collared Kingfisher",NT,U,-12486656
+63,62,"monachus","Actenoides","Green-backed Kingfisher",NT,U,-12486656
+64,62,"lindsayi","Actenoides","Spotted Kingfisher",LC,U,-16731116
+65,61,"hombroni","Actenoides","Blue-capped Kingfisher",VU,U,-11184866
+73,72,"hydrocharis","Tanysiptera","Little Paradise-kingfisher",DD,U,-11513776
+74,72,"riedelii","Tanysiptera","Biak Paradise-kingfisher",NT,U,-12486656
+75,71,"danae","Tanysiptera","Brown-headed Paradise-kingfisher",LC,U,-16731116
+76,70,"nympha","Tanysiptera","Red-breasted Paradise-kingfisher",LC,U,-16731116
+78,77,"carolinae","Tanysiptera","Numfor Paradise-kingfisher",NT,U,-12486656
+79,77,"ellioti","Tanysiptera","Kofiau Paradise-kingfisher",EN,U,-8572416
+81,80,"sylvia","Tanysiptera","Buff-breasted Paradise-kingfisher",LC,U,-16731116
+82,80,"galatea","Tanysiptera","Common Paradise-kingfisher",LC,U,-16731116
+83,67,"cyanotis","Cittura","Lilac-cheeked Kingfisher",NT,U,-12486656
+89,88,"novaeguineae","Dacelo","Laughing Kookaburra",LC,U,-16731116
+90,88,"leachii","Dacelo","Blue-winged Kookaburra",LC,U,-16731116
+91,87,"gaudichaud","Dacelo","Rufous-bellied Kookaburra",LC,U,-16731116
+92,86,"tyro","Dacelo","Spangled Kookaburra",LC,U,-16731116
+93,85,"rex","Clytoceyx","Shovel-billed Kookaburra",LC,U,-16731116
+94,84,"macrorrhina","Melidora","Hook-billed Kingfisher",LC,U,-16731116
+102,101,"albiventris","Halcyon","Brown-hooded Kingfisher",LC,U,-16731116
+103,101,"senegalensis","Halcyon","Woodland Kingfisher",LC,U,-16731116
+105,104,"malimbica","Halcyon","Blue-breasted Kingfisher",LC,U,-16731116
+106,104,"cyanoventris","Halcyon","Javan Kingfisher",LC,U,-16731116
+107,99,"senegaloides","Halcyon","Mangrove Kingfisher",LC,U,-16731116
+109,108,"smyrnensis","Halcyon","White-throated Kingfisher",LC,U,-16731116
+110,108,"badia","Halcyon","Chocolate-backed Kingfisher",LC,U,-16731116
+113,112,"chelicuti","Halcyon","Striped Kingfisher",LC,U,-16731116
+114,112,"coromanda","Halcyon","Ruddy Kingfisher",LC,U,-16731116
+115,111,"leucocephala","Halcyon","Grey-headed Kingfisher",LC,U,-16731116
+116,96,"pileata","Halcyon","Black-capped Kingfisher",LC,U,-16731116
+119,118,"melanorhyncha","Pelargopsis","Black-billed Kingfisher",LC,U,-16731116
+120,118,"amauroptera","Pelargopsis","Brown-winged Kingfisher",NT,U,-12486656
+121,117,"capensis","Pelargopsis","Stork-billed Kingfisher",LC,U,-16731116
+123,122,"fulgidus","Caridonax","White-rumped Kingfisher",LC,U,-16731116
+124,122,"pulchella","Lacedo","Banded Kingfisher",LC,U,-16731116
+130,129,"inda","Chloroceryle","Green-and-rufous Kingfisher",LC,U,-16731116
+131,129,"americana","Chloroceryle","Green Kingfisher",LC,U,-16731116
+132,128,"aenea","Chloroceryle","American Pygmy Kingfisher",LC,U,-16731116
+133,127,"amazona","Chloroceryle","Amazon Kingfisher",LC,U,-16731116
+134,126,"rudis","Ceryle","Pied Kingfisher",LC,U,-16731116
+137,136,"torquata","Megaceryle","Ringed Kingfisher",LC,U,-16731116
+138,136,"alcyon","Megaceryle","Belted Kingfisher",LC,U,-16731116
+140,139,"lugubris","Megaceryle","Crested Kingfisher",LC,U,-16731116
+141,139,"maxima","Megaceryle","Giant Kingfisher",LC,U,-16731116
+150,149,"cyanopectus","Alcedo","Indigo-banded Kingfisher",LC,U,-16731116
+151,149,"argentata","Alcedo","Silvery Kingfisher",VU,U,-11184866
+152,148,"lepidus","Ceyx","Variable Kingfisher",LC,U,-16731116
+154,153,"rufidorsa","Ceyx","Rufous-backed Kingfisher",LC,U,-16731116
+155,153,"erithaca","Ceyx","Black-backed Kingfisher",LC,U,-16731116
+156,146,"melanurus","Ceyx","Philippine Dwarf-kingfisher",VU,U,-11184866
+159,158,"websteri","Alcedo","Bismarck Kingfisher",VU,U,-11184866
+160,158,"azurea","Alcedo","Azure Kingfisher",LC,U,-16731116
+161,157,"pusilla","Alcedo","Little Kingfisher",LC,U,-16731116
+162,144,"fallax","Ceyx","Sulawesi Kingfisher",NT,U,-12486656
+167,166,"semitorquata","Alcedo","Half-collared Kingfisher",LC,U,-16731116
+168,166,"quadribrachys","Alcedo","Shining Blue Kingfisher",LC,U,-16731116
+170,169,"coerulescens","Alcedo","Small Blue Kingfisher",LC,U,-16731116
+171,169,"atthis","Alcedo","Common Kingfisher",LC,U,-16731116
+173,172,"meninting","Alcedo","Blue-eared Kingfisher",LC,U,-16731116
+174,172,"hercules","Alcedo","Blyth's Kingfisher",NT,U,-12486656
+175,163,"euryzona","Alcedo","Blue-banded Kingfisher",VU,U,-11184866
+180,179,"vintsioides","Alcedo","Madagascar Kingfisher",LC,U,-16731116
+181,179,"cristata","Alcedo","Malachite Kingfisher",LC,U,-16731116
+182,178,"leucogaster","Alcedo","White-bellied Kingfisher",LC,U,-16731116
+183,177,"madagascariensis","Ceyx","Madagascar Pygmy-kingfisher",LC,U,-16731116
+185,184,"lecontei","Ceyx","African Dwarf-kingfisher",LC,U,-16731116
+186,184,"pictus","Ceyx","African Pygmy-kingfisher",LC,U,-16731116
+193,192,"mexicanus","Momotus","Russet-crowned Motmot",LC,U,-16731116
+194,192,"aequatorialis","Momotus","Andean Motmot",_U,[,-16777216
+195,191,"momota","Momotus","Blue-crowned Motmot",LC,U,-16731116
+196,190,"ruficapillus","Baryphthengus","Rufous-capped Motmot",LC,U,-16731116
+197,189,"gularis","Aspatha","Blue-throated Motmot",LC,U,-16731116
+198,188,"martii","Baryphthengus","Rufous Motmot",LC,U,-16731116
+201,200,"platyrhynchum","Electron","Broad-billed Motmot",LC,U,-16731116
+202,200,"carinatum","Electron","Keel-billed Motmot",VU,U,-11184866
+204,203,"superciliosa","Eumomota","Turquoise-browed Motmot",LC,U,-16731116
+205,203,"momotula","Hylomanes","Tody Motmot",LC,U,-16731116
+209,208,"multicolor","Todus","Cuban Tody",LC,U,-16731116
+210,208,"todus","Todus","Jamaican Tody",LC,U,-16731116
+211,207,"angustirostris","Todus","Narrow-billed Tody",LC,U,-16731116
+213,212,"mexicanus","Todus","Puerto Rican Tody",LC,U,-16731116
+214,212,"subulatus","Todus","Broad-billed Tody",LC,U,-16731116

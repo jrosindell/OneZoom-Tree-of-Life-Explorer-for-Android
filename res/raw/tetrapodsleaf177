@@ -1,104 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"borroloola","Gehyra","",NE,U,-16777216
-17,15,"pilbara","Gehyra","",NE,U,-16777216
-18,14,"oceanica","Gehyra","",NE,U,-16777216
-19,13,"vorax","Gehyra","",NE,U,-16777216
-21,20,"australis","Gehyra","",NE,U,-16777216
-22,20,"pamela","Gehyra","",NE,U,-16777216
-25,24,"variegata","Gehyra","",NE,U,-16777216
-26,24,"nana","Gehyra","",NE,U,-16777216
-27,23,"mutilata","Gehyra","",NE,U,-16777216
-28,10,"dubia","Gehyra","",NE,U,-16777216
-35,34,"punctatus","Pachydactylus","",NE,U,-16777216
-36,34,"rugosus","Pachydactylus","",NE,U,-16777216
-37,33,"capensis","Pachydactylus","",NE,U,-16777216
-38,32,"vanzyli","Pachydactylus","",NE,U,-16777216
-39,31,"bibroni","Chondrodactylus","",NE,U,-16777216
-40,30,"barnardi","Rhoptropus","",NE,U,-16777216
-41,29,"tuberculosus","Elasmodactylus","",NE,U,-16777216
-42,8,"annularis","Tarentola","",NE,U,-16777216
-43,7,"maculata","Geckolepis","",NE,U,-16777216
-47,46,"borbonica","Phelsuma","",NE,U,-16777216
-48,46,"cepediana","Phelsuma","",NE,U,-16777216
-49,45,"madagascariensis","Phelsuma","",NE,U,-16777216
-50,44,"lineata","Phelsuma","",NE,U,-16777216
-54,53,"wolterstorffi","Urocotyledon","",NE,U,-16777216
-55,53,"weileri","Urocotyledon","",NE,U,-16777216
-56,52,"palmata","Urocotyledon","",NE,U,-16777216
-57,51,"fimbriatus","Uroplatus","",NE,U,-16777216
-67,66,"frenatus","Hemidactylus","",NE,U,-16777216
-68,66,"brookii","Hemidactylus","",NE,U,-16777216
-69,65,"platyurus","Hemidactylus","",NE,U,-16777216
-70,64,"platycephalus","Hemidactylus","",NE,U,-16777216
-72,71,"turcicus","Hemidactylus","Turkish Gecko",LC,I,-16731116
-73,71,"depressus","Hemidactylus","",NE,U,-16777216
-74,62,"leschenaulti","Hemidactylus","",NE,U,-16777216
-75,61,"europea","Euleptes","",NE,U,-16777216
-76,60,"sternus","Stenodactylus","",NE,U,-16777216
-77,59,"garrulus","Ptenopus","",NE,U,-16777216
-78,58,"bastardi","Paroedura","",NE,U,-16777216
-85,84,"luteopicturatus","Lygodactylus","",NE,U,-16777216
-86,84,"bernardi","Lygodactylus","",NE,U,-16777216
-87,83,"picturatus","Lygodactylus","",NE,U,-16777216
-90,89,"cochranae","Aristelliger","",NE,U,-16777216
-91,89,"lar","Aristelliger","",NE,U,-16777216
-92,88,"praesignis","Aristelliger","",NE,U,-16777216
-93,81,"underwoodi","Homonota","",NE,U,-16777216
-94,80,"rupestris","Pristurus","",NE,U,-16777216
-101,100,"annulatus","Cyrtodactylus","Small Bent-toed Gecko",LC,S,-16731116
-102,100,"louisiadensis","Cyrtodactylus","",NE,U,-16777216
-103,99,"scaber","Cyrtopodion","",NE,U,-16777216
-104,98,"transvaalica","Afroedura","",NE,U,-16777216
-105,97,"ateles","Perochirus","",NE,U,-16777216
-106,96,"kuhli","Ptychozoon","",NE,U,-16777216
-107,95,"persica","Agamura","",NE,U,-16777216
-116,115,"compressicorpus","Pseudogekko","Cylindrical-bodied Smooth-scaled Gecko",LC,D,-16731116
-117,115,"smaragdinus","Pseudogekko","Green Smooth-scaled Gecko",LC,U,-16731116
-118,114,"brevipes","Pseudogekko","Orange-spotted Smooth-scaled Gecko",VU,D,-11184866
-119,113,"boulengerii","Cnemaspis","",NE,U,-16777216
-121,120,"marmoratus","Christinus","",NE,U,-16777216
-122,120,"guentheri","Christinus","",VU,U,-11184866
-127,126,"aureolineatus","Lepidodactylus","Yellow-lined Smooth-scaled Gecko",LC,S,-16731116
-128,126,"christiani","Lepidodactylus","Christian Scaly-toed Gecko",LC,S,-16731116
-129,125,"lugubris","Lepidodactylus","",NE,U,-16777216
-130,124,"pelagicus","Nactus","",NE,U,-16777216
-131,123,"binoei","Heteronotia","",NE,U,-16777216
-135,134,"przewalskii","Teratoscincus","",NE,U,-16777216
-136,134,"scincus","Teratoscincus","",NE,U,-16777216
-137,133,"microlepis","Teratoscincus","",NE,U,-16777216
-138,132,"hasselquisti","Ptyodactylus","",NE,U,-16777216
-142,141,"xanti","Phyllodactylus","Leaf-toed Gecko",LC,S,-16731116
-143,141,"gerrhopygus","Phyllodactylus","",NE,U,-16777216
-144,140,"riebeckii","Phyllodactylus","",NE,U,-16777216
-147,146,"tuberculosus","Phyllodactylus","",NE,U,-16777216
-148,146,"dixoni","Phyllodactylus","",NE,U,-16777216
-149,145,"microphyllus","Phyllodactylus","",NE,U,-16777216
-152,151,"mindorensis","Gekko","Mindoro Narrow-disked Gecko",LC,S,-16731116
-153,151,"vittatus","Gekko","",NE,U,-16777216
-154,150,"monarchus","Gekko","",NE,U,-16777216
-162,161,"notatus","Sphaerodactylus","Reef Gecko",LC,S,-16731116
-163,161,"macrolepis","Sphaerodactylus","",NE,U,-16777216
-165,164,"elegans","Sphaerodactylus","",NE,U,-16777216
-166,164,"copei","Sphaerodactylus","",NE,U,-16777216
-167,159,"sputator","Sphaerodactylus","",NE,U,-16777216
-168,158,"glaucus","Sphaerodactylus","",NE,U,-16777216
-169,157,"argivus","Sphaerodactylus","",NE,U,-16777216
-171,170,"ruthveni","Lepidoblepharis","",NE,U,-16777216
-172,170,"festae","Lepidoblepharis","",NE,U,-16777216
-177,176,"hasemani","Gonatodes","",NE,U,-16777216
-178,176,"ceciliae","Gonatodes","",NE,U,-16777216
-179,175,"vittatus","Gonatodes","",NE,U,-16777216
-181,180,"annularis","Gonatodes","",NE,U,-16777216
-182,180,"humeralis","Gonatodes","",NE,U,-16777216
-184,183,"albogularis","Gonatodes","",NE,U,-16777216
-185,183,"taniae","Gonatodes","",NE,U,-16777216
-191,190,"variegatus","Coleonyx","Western Banded Gecko",LC,S,-16731116
-192,190,"brevis","Coleonyx","Texas Banded Gecko",LC,S,-16731116
-193,189,"reticulatus","Coleonyx","Reticulate Banded Gecko",LC,S,-16731116
-195,194,"mitratus","Coleonyx","",NE,U,-16777216
-196,194,"elegans","Coleonyx","",NE,U,-16777216
-200,199,"angramainyu","Eublepharis","",DD,D,-11513776
-201,199,"macularius","Eublepharis","",NE,U,-16777216
-202,198,"caudicinctus","Hemitheconyx","",NE,U,-16777216
-203,197,"kuroiwae","Goniurosaurus","Kuroiwa's Ground Gecko",VU,U,-11184866
-204,186,"felinus","Aeluroscalabotes","",NE,U,-16777216
+10,9,"cambodiana","Arborophila","Chestnut-headed Partridge",LC,U,-16731116
+11,9,"rubrirostris","Arborophila","Red-billed Partridge",LC,U,-16731116
+12,8,"rufipectus","Arborophila","Sichuan Partridge",EN,U,-8572416
+13,7,"torqueola","Arborophila","Hill Partridge",LC,U,-16731116
+16,15,"chloropus","Arborophila","Scaly-breasted Partridge",LC,U,-16731116
+17,15,"brunneopectus","Arborophila","Bar-backed Partridge",LC,U,-16731116
+18,14,"orientalis","Arborophila","White-faced Partridge",VU,U,-11184866
+21,20,"rufogularis","Arborophila","Rufous-throated Partridge",LC,U,-16731116
+22,20,"gingica","Arborophila","White-necklaced Partridge",VU,U,-11184866
+23,19,"crudigularis","Arborophila","Taiwan Partridge",NT,U,-12486656
+24,4,"hyperythra","Arborophila","Red-breasted Partridge",LC,U,-16731116
+27,26,"charltonii","Arborophila","Chestnut-necklaced Partridge",NT,U,-12486656
+28,26,"javanica","Arborophila","Chestnut-bellied Partridge",LC,U,-16731116
+29,25,"campbelli","Arborophila","Malaysian Partridge",LC,U,-16731116
+34,33,"mandellii","Arborophila","Chestnut-breasted Partridge",VU,U,-11184866
+35,33,"davidi","Arborophila","Orange-necked Partridge",NT,U,-12486656
+36,32,"sumatrana","Arborophila","Grey-breasted Partridge",LC,U,-16731116
+38,37,"ardens","Arborophila","Hainan Partridge",VU,U,-11184866
+39,37,"rolli","Arborophila","Roll's Partridge",LC,U,-16731116
+40,30,"atrogularis","Arborophila","White-cheeked Partridge",NT,U,-12486656
+42,41,"oculeus","Caloperdix","Ferruginous Partridge",NT,U,-12486656
+43,41,"rouloul","Rollulus","Crested Partridge",NT,U,-12486656
+44,0,"niger","Melanoperdix","Black Partridge",VU,U,-11184866

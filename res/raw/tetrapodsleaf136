@@ -1,118 +1,90 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"geoffroyi","Callithrix","Geoffroy's Tufted-ear Marmoset",LC,S,-16731116
-12,10,"kuhlii","Callithrix","Wied's Black-tufted-ear Marmoset",NT,D,-12486656
-14,13,"penicillata","Callithrix","Black-pencilled Marmoset",LC,I,-16731116
-15,13,"jacchus","Callithrix","Common Marmoset",LC,S,-16731116
-17,16,"aurita","Callithrix","Buffy-tufted-ear Marmoset",VU,D,-11184866
-18,16,"flaviceps","Callithrix","Buffy-headed Marmoset",EN,D,-8572416
-25,24,"melanura","Callithrix","",NE,U,-16777216
-26,24,"emiliae","Callithrix","",NE,U,-16777216
-27,23,"leucippe","Callithrix","",NE,U,-16777216
-28,22,"intermedia","Callithrix","",NE,U,-16777216
-29,21,"argentata","Callithrix","",NE,U,-16777216
-31,30,"humeralifera","Callithrix","",NE,U,-16777216
-32,30,"chrysoleuca","Callithrix","",NE,U,-16777216
-33,19,"pygmaea","Callithrix","",NE,U,-16777216
-34,6,"goeldii","Callimico","Goeldi's Monkey",VU,D,-11184866
-38,37,"caissara","Leontopithecus","Black-faced Lion Tamarin",CR,D,-3014646
-39,37,"chrysopygus","Leontopithecus","Black Lion Tamarin",EN,D,-8572416
-40,36,"rosalia","Leontopithecus","Golden Lion Tamarin",EN,S,-8572416
-41,35,"chrysomelas","Leontopithecus","Golden-headed Lion Tamarin",EN,D,-8572416
-49,48,"mystax","Saguinus","Moustached Tamarin",LC,S,-16731116
-50,48,"pileatus","Saguinus","",NE,U,-16777216
-51,47,"labiatus","Saguinus","Red-chested Mustached Tamarin",LC,S,-16731116
-52,46,"imperator","Saguinus","Emperor Tamarin",LC,D,-16731116
-55,54,"oedipus","Saguinus","Cotton-headed Tamarin",CR,D,-3014646
-56,54,"geoffroyi","Saguinus","Geoffroy's Tamarin",LC,D,-16731116
-57,53,"leucopus","Saguinus","Silvery-brown Tamarin",EN,D,-8572416
-60,59,"martinsi","Saguinus","Martin'S/ochraceous Bare-face Tamarin",LC,D,-16731116
-61,59,"bicolor","Saguinus","Brazilian Bare-faced Tamarin",EN,D,-8572416
-63,62,"midas","Saguinus","Golden-handed Tamarin",LC,S,-16731116
-64,62,"niger","Saguinus","Black-handed Tamarin",VU,D,-11184866
-65,43,"inustus","Saguinus","Mottled-face Tamarin",LC,S,-16731116
-69,68,"melanoleucus","Saguinus","White/crandall's Saddleback Tamarin",LC,D,-16731116
-70,68,"fuscicollis","Saguinus","Saddleback Tamarin",LC,D,-16731116
-71,67,"tripartitus","Saguinus","Golden-mantle Saddleback Tamarin",NT,D,-12486656
-73,72,"nigricollis","Saguinus","Black Mantle Tamarin",LC,D,-16731116
-74,72,"graellsi","Saguinus","",NE,U,-16777216
-80,79,"nigrifrons","Callicebus","Black-fronted Titi Monkey",NT,D,-12486656
-81,79,"melanochir","Callicebus","Coastal Black-handed Titi",VU,D,-11184866
-82,78,"personatus","Callicebus","Atlantic Titi",VU,D,-11184866
-83,77,"barbarabrownae","Callicebus","Blond Titi Monkey",CR,D,-3014646
-84,76,"miconax","Aotus","Andean Night Monkey",VU,D,-11184866
-85,75,"lemurinus","Aotus","Colombian Night Monkey",VU,D,-11184866
-92,91,"xanthosternos","Cebus","Buff-headed Capuchin",CR,D,-3014646
-93,91,"nigritus","Cebus","Black-horned Capuchin",NT,D,-12486656
-94,90,"apella","Cebus","Guianan/margarita Island Brown Capuchin",LC,D,-16731116
-95,89,"libidinosus","Cebus","Bearded Capuchin",LC,D,-16731116
-98,97,"capucinus","Cebus","White-throated Capuchin",LC,U,-16731116
-99,97,"albifrons","Cebus","White-fronted Capuchin",LC,D,-16731116
-100,96,"olivaceus","Cebus","Weeper Capuchin",LC,U,-16731116
-104,103,"ustus","Saimiri","Golden-backed Squirrel Monkey",NT,D,-12486656
-105,103,"sciureus","Saimiri","Common Squirrel Monkey",LC,D,-16731116
-106,102,"oerstedii","Saimiri","Black-crowned Central American Squirrel Monkey",VU,D,-11184866
-108,107,"boliviensis","Saimiri","Bolivian/peruvian Squirrel Monkey",LC,D,-16731116
-109,107,"vanzolinii","Saimiri","Black-headed Squirrel Monkey",VU,U,-11184866
-112,111,"nancymaae","Aotus","Nancy Ma's Night Monkey",LC,U,-16731116
-113,111,"azarae","Aotus","Azara's Night Monkey",LC,D,-16731116
-114,110,"nigriceps","Aotus","Black-headed Night Monkey",LC,U,-16731116
-117,116,"trivirgatus","Aotus","Douroucouli",LC,U,-16731116
-118,116,"vociferans","Aotus","Night Monkey",LC,D,-16731116
-119,115,"hershkovitzi","Aotus","",NE,U,-16777216
-129,128,"torquatus","Callicebus","Collared Titi Monkey",LC,U,-16731116
-130,128,"purinus","Callicebus","Widow Monkey",LC,U,-16731116
-132,131,"lugens","Callicebus","Collared Titi",LC,U,-16731116
-133,131,"lucifer","Callicebus","Widow Monkey",LC,U,-16731116
-134,126,"medemi","Callicebus","Colombian Black-handed Titi",VU,D,-11184866
-135,125,"regulus","Callicebus","Widow Monkey",LC,U,-16731116
-139,138,"donacophilus","Callicebus","Bolivian Gray Titi",LC,D,-16731116
-140,138,"pallescens","Callicebus","Chacoan Titi Monkey",LC,S,-16731116
-142,141,"olallae","Callicebus","Olalla Brothers' Titi",EN,D,-8572416
-143,141,"modestus","Callicebus","Beni Titi Monkey",EN,D,-8572416
-144,136,"oenanthe","Callicebus","Andean Titi Monkey",EN,D,-8572416
-149,148,"cupreus","Callicebus","Coppery Titi Monkey",LC,U,-16731116
-150,148,"ornatus","Callicebus","Ornate Titi Monkey",VU,D,-11184866
-151,147,"discolor","Callicebus","Red Titi Monkey",LC,U,-16731116
-152,146,"caligatus","Callicebus","Titi Monkey",LC,U,-16731116
-153,145,"dubius","Callicebus","Doubtful Titi Monkey",LC,U,-16731116
-157,156,"baptista","Callicebus","Baptista Lake Titi Monkey",LC,U,-16731116
-158,156,"hoffmannsi","Callicebus","Hoffmann's Titi Monkey",LC,U,-16731116
-159,155,"brunneus","Callicebus","Brown Titi Monkey",LC,U,-16731116
-161,160,"cinerascens","Callicebus","Ashy Black Titi Monkey",LC,U,-16731116
-162,160,"moloch","Callicebus","Red-bellied Titi Monkey",LC,U,-16731116
-168,167,"utahickae","Chiropotes","Uta Hick's Bearded Saki",EN,D,-8572416
-169,167,"chiropotes","Chiropotes","Bearded Saki",LC,S,-16731116
-171,170,"satanas","Chiropotes","Black Bearded Saki",CR,D,-3014646
-172,170,"israelita","Chiropotes","",NE,U,-16777216
-173,165,"albinasus","Chiropotes","Red-nosed Bearded Saki",EN,D,-8572416
-175,174,"melanocephalus","Cacajao","Golden-backed Black Uakari",LC,S,-16731116
-176,174,"calvus","Cacajao","Bald-headed Uacari",VU,D,-11184866
-180,179,"irrorata","Pithecia","Gray's Bald-faced Saki",LC,U,-16731116
-181,179,"monachus","Pithecia","Geoffroy's Monk Saki",LC,U,-16731116
-182,178,"albicans","Pithecia","White Saki",VU,D,-11184866
-184,183,"aequatorialis","Pithecia","Equatorial Saki",LC,D,-16731116
-185,183,"pithecia","Pithecia","Golden-faced Saki",LC,S,-16731116
-192,191,"cana","Lagothrix","Geoffroy'S/peruvian Woolly Monkey",EN,D,-8572416
-193,191,"poeppigii","Lagothrix","Poeppig's Woolly Monkey",VU,D,-11184866
-195,194,"lagotricha","Lagothrix","Common Woolly Monkey",VU,D,-11184866
-196,194,"lugens","Lagothrix","Colombian Woolly Monkey",CR,D,-3014646
-197,189,"flavicauda","Oreonax","Peruvian Yellow-tailed Woolly Monkey",CR,D,-3014646
-199,198,"hypoxanthus","Brachyteles","Northern Muriqui",CR,D,-3014646
-200,198,"arachnoides","Brachyteles","Muriqui",EN,D,-8572416
-205,204,"hybridus","Ateles","Variegated Or Brown Spider Monkey",CR,D,-3014646
-206,204,"belzebuth","Ateles","Long-haired Spider Monkey",EN,D,-8572416
-208,207,"chamek","Ateles","Black-faced Black Spider Monkey",EN,D,-8572416
-209,207,"marginatus","Ateles","White-cheeked Spider Monkey",EN,D,-8572416
-211,210,"fusciceps","Ateles","Brown-headed Spider Monkey",CR,D,-3014646
-212,210,"geoffroyi","Ateles","Geoffroy's Spider Monkey",EN,D,-8572416
-213,201,"paniscus","Ateles","Guiana Spider Monkey",VU,D,-11184866
-219,218,"belzebul","Alouatta","Red-handed Howler Monkey",VU,D,-11184866
-220,218,"nigerrima","Alouatta","Black Howler Monkey",LC,U,-16731116
-221,217,"guariba","Alouatta","Brown Howler Monkey",LC,D,-16731116
-223,222,"palliata","Alouatta","Mantled Howler Monkey",LC,U,-16731116
-224,222,"coibensis","Alouatta","",NE,U,-16777216
-227,226,"seniculus","Alouatta","Colombian Red Howler Monkey",LC,D,-16731116
-228,226,"macconnelli","Alouatta","Guianan Red Howler Monkey",LC,U,-16731116
-229,225,"sara","Alouatta","Bolivian Red Howler Monkey",LC,D,-16731116
-231,230,"caraya","Alouatta","Black-and-gold Howler Monkey",LC,D,-16731116
-232,230,"pigra","Alouatta","Yucatan Black Howler Monkey",EN,D,-8572416
+12,11,"antarctica","Catharacta","Southern Skua",LC,U,-16731116
+13,11,"chilensis","Catharacta","Chilean Skua",LC,U,-16731116
+14,10,"maccormicki","Catharacta","South Polar Skua",LC,U,-16731116
+17,16,"pomarinus","Stercorarius","Pomarine Jaeger",LC,U,-16731116
+18,16,"skua","Catharacta","Great Skua",LC,U,-16731116
+19,15,"lonnbergi","Catharacta","Brown Skua",LC,U,-16731116
+21,20,"longicaudus","Stercorarius","Long-tailed Jaeger",LC,U,-16731116
+22,20,"parasiticus","Stercorarius","Parasitic Jaeger",LC,U,-16731116
+23,4,"ardeola","Dromas","Crab Plover",LC,U,-16731116
+33,32,"nordmanni","Glareola","Black-winged Pratincole",NT,U,-12486656
+34,32,"cinerea","Glareola","Grey Pratincole",LC,U,-16731116
+35,31,"pratincola","Glareola","Collared Pratincole",LC,U,-16731116
+37,36,"ocularis","Glareola","Madagascar Pratincole",VU,U,-11184866
+38,36,"lactea","Glareola","Small Pratincole",LC,U,-16731116
+39,29,"maldivarum","Glareola","Oriental Pratincole",LC,U,-16731116
+40,28,"nuchalis","Glareola","Rock Pratincole",LC,U,-16731116
+41,27,"isabella","Stiltia","Australian Pratincole",LC,U,-16731116
+45,44,"somalensis","Cursorius","Somali Courser",LC,U,-16731116
+46,44,"rufus","Cursorius","Burchell's Courser",LC,U,-16731116
+47,43,"coromandelicus","Cursorius","Indian Courser",LC,U,-16731116
+49,48,"temminckii","Cursorius","Temminck's Courser",LC,U,-16731116
+50,48,"cursor","Cursorius","Cream-coloured Courser",LC,U,-16731116
+52,51,"africanus","Rhinoptilus","Double-banded Courser",LC,U,-16731116
+53,51,"cinctus","Rhinoptilus","Three-banded Courser",LC,U,-16731116
+55,54,"chalcopterus","Rhinoptilus","Bronze-winged Courser",LC,U,-16731116
+56,54,"bitorquatus","Rhinoptilus","Jerdon's Courser",CR,U,-3014646
+64,63,"castanotus","Turnix","Chestnut-backed Buttonquail",NT,U,-12486656
+65,63,"maculosus","Turnix","Red-backed Buttonquail",LC,U,-16731116
+66,62,"olivii","Turnix","Buff-breasted Buttonquail",EN,U,-8572416
+69,68,"pyrrhothorax","Turnix","Red-chested Buttonquail",LC,U,-16731116
+70,68,"everetti","Turnix","Sumba Buttonquail",VU,U,-11184866
+71,67,"varius","Turnix","Painted Buttonquail",LC,U,-16731116
+74,73,"nigricollis","Turnix","Madagascar Buttonquail",LC,U,-16731116
+75,73,"ocellatus","Turnix","Spotted Buttonquail",LC,U,-16731116
+77,76,"hottentottus","Turnix","Hottentot Buttonquail",LC,U,-16731116
+78,76,"sylvaticus","Turnix","Small Buttonquail",LC,U,-16731116
+80,79,"melanogaster","Turnix","Black-breasted Buttonquail",VU,U,-11184866
+81,79,"worcesteri","Turnix","Luzon Buttonquail",DD,U,-11513776
+84,83,"tanki","Turnix","Yellow-legged Buttonquail",LC,U,-16731116
+85,83,"suscitator","Turnix","Barred Buttonquail",LC,U,-16731116
+86,82,"velox","Turnix","Little Buttonquail",LC,U,-16731116
+87,57,"meiffrenii","Ortyxelos","Lark Buttonquail",LC,U,-16731116
+96,95,"haemastica","Limosa","Hudsonian Godwit",LC,U,-16731116
+97,95,"fedoa","Limosa","Marbled Godwit",LC,U,-16731116
+98,94,"limosa","Limosa","Black-tailed Godwit",NT,U,-12486656
+99,93,"lapponica","Limosa","Bar-tailed Godwit",LC,U,-16731116
+100,92,"minimus","Lymnocryptes","Jack Snipe",LC,U,-16731116
+107,106,"arquata","Numenius","Eurasian Curlew",NT,U,-12486656
+108,106,"minutus","Numenius","Little Curlew",LC,U,-16731116
+109,105,"madagascariensis","Numenius","Far Eastern Curlew",VU,U,-11184866
+110,104,"borealis","Numenius","Eskimo Curlew",CR,U,-3014646
+111,103,"americanus","Numenius","Long-billed Curlew",LC,U,-16731116
+114,113,"tenuirostris","Numenius","Slender-billed Curlew",CR,U,-3014646
+115,113,"phaeopus","Numenius","Whimbrel",LC,U,-16731116
+116,112,"tahitiensis","Numenius","Bristle-thighed Curlew",VU,U,-11184866
+117,101,"longicauda","Bartramia","Upland Sandpiper",LC,U,-16731116
+124,123,"gallinacea","Irediparra","Comb-crested Jacana",LC,U,-16731116
+125,123,"capensis","Microparra","Lesser Jacana",LC,U,-16731116
+126,122,"indicus","Metopidius","Bronze-winged Jacana",LC,U,-16731116
+128,127,"albinucha","Actophilornis","Madagascar Jacana",LC,U,-16731116
+129,127,"africanus","Actophilornis","African Jacana",LC,U,-16731116
+132,131,"spinosa","Jacana","Northern Jacana",LC,U,-16731116
+133,131,"jacana","Jacana","Wattled Jacana",LC,U,-16731116
+134,130,"chirurgus","Hydrophasianus","Pheasant-tailed Jacana",LC,U,-16731116
+137,136,"australis","Rostratula","Australian Painted Snipe",EN,U,-8572416
+138,136,"benghalensis","Rostratula","Greater Painted-snipe",LC,U,-16731116
+139,135,"semicollaris","Rostratula","South American Painted-snipe",LC,U,-16731116
+143,142,"orbignyianus","Thinocorus","Grey-breasted Seedsnipe",LC,U,-16731116
+144,142,"rumicivorus","Thinocorus","Least Seedsnipe",LC,U,-16731116
+146,145,"malouinus","Attagis","White-bellied Seedsnipe",LC,U,-16731116
+147,145,"gayi","Attagis","Rufous-bellied Seedsnipe",LC,U,-16731116
+148,140,"torquatus","Pedionomus","Plains-wanderer",EN,U,-8572416
+155,154,"apricaria","Pluvialis","Eurasian Golden Plover",LC,U,-16731116
+156,154,"fulva","Pluvialis","Pacific Golden Plover",LC,U,-16731116
+157,153,"dominica","Pluvialis","American Golden Plover",LC,U,-16731116
+158,152,"squatarola","Pluvialis","Grey Plover",LC,U,-16731116
+159,150,"aegyptius","Pluvianus","Egyptian Plover",LC,U,-16731116
+167,166,"senegalensis","Burhinus","Senegal Thick-knee",LC,U,-16731116
+168,166,"capensis","Burhinus","Spotted Thick-knee",LC,U,-16731116
+169,165,"vermiculatus","Burhinus","Water Thick-knee",LC,U,-16731116
+170,164,"oedicnemus","Burhinus","Eurasian Thick-knee",LC,U,-16731116
+171,163,"grallarius","Burhinus","Bush Thick-knee",NT,U,-12486656
+173,172,"bistriatus","Burhinus","Double-striped Thick-knee",LC,U,-16731116
+174,172,"superciliaris","Burhinus","Peruvian Thick-knee",LC,U,-16731116
+176,175,"recurvirostris","Esacus","Great Thick-knee",LC,U,-16731116
+177,175,"giganteus","Esacus","Beach Thick-knee",NT,U,-12486656
+180,179,"minor","Chionis","Black-faced Sheathbill",LC,U,-16731116
+181,179,"albus","Chionis","Snowy Sheathbill",LC,U,-16731116
+182,178,"socialis","Pluvianellus","Magellanic Plover",NT,U,-12486656

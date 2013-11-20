@@ -1,0 +1,111 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"bhutanensis","Scutiger","",DD,U,-11513776
+13,11,"brevipes","Scutiger","",DD,U,-11513776
+14,10,"muliensis","Scutiger","",EN,D,-8572416
+16,15,"glandulatus","Scutiger","",LC,U,-16731116
+17,15,"maculatus","Scutiger","",CR,D,-3014646
+19,18,"gongshanensis","Scutiger","",VU,D,-11184866
+20,18,"adungensis","Scutiger","",DD,U,-11513776
+23,22,"tuberculatus","Scutiger","",VU,D,-11184866
+24,22,"nepalensis","Scutiger","",VU,D,-11184866
+25,21,"nyingchiensis","Scutiger","",LC,U,-16731116
+30,29,"ningshanensis","Scutiger","",EN,D,-8572416
+31,29,"jiulongensis","Scutiger","",DD,U,-11513776
+33,32,"sikimmensis","Scutiger","",LC,U,-16731116
+34,32,"liupanensis","Scutiger","",VU,S,-11184866
+37,36,"chintingensis","Scutiger","",EN,D,-8572416
+38,36,"boulengeri","Scutiger","",LC,U,-16731116
+39,35,"mammatus","Scutiger","",LC,D,-16731116
+40,26,"pingwuensis","Scutiger","",EN,D,-8572416
+48,47,"liangbeiensis","Oreolalax","",CR,D,-3014646
+49,47,"popei","Oreolalax","",LC,I,-16731116
+50,46,"xiangchengensis","Oreolalax","",LC,S,-16731116
+52,51,"multipunctatus","Oreolalax","",VU,D,-11184866
+53,51,"schmidti","Oreolalax","",NT,D,-12486656
+54,44,"lichuanensis","Oreolalax","",NT,D,-12486656
+58,57,"omeimontis","Oreolalax","",EN,D,-8572416
+59,57,"rugosus","Oreolalax","",NT,D,-12486656
+60,56,"puxiongensis","Oreolalax","",EN,D,-8572416
+62,61,"chuanbeiensis","Oreolalax","",EN,D,-8572416
+63,61,"nanjiangensis","Oreolalax","",DD,U,-11513776
+68,67,"jingdongensis","Oreolalax","",VU,D,-11184866
+69,67,"weigoldi","Oreolalax","",DD,U,-11513776
+70,66,"granulosus","Oreolalax","",VU,S,-11184866
+71,65,"rhodostigmatus","Oreolalax","",VU,D,-11184866
+72,64,"major","Oreolalax","",VU,D,-11184866
+73,41,"pingii","Oreolalax","",EN,D,-8572416
+81,80,"kobayashii","Megophrys","Kobayashi's Horned Frog",NT,S,-12486656
+82,80,"montana","Megophrys","Horned Frog",LC,D,-16731116
+84,83,"nasuta","Megophrys","Borneon Horned Frog",LC,S,-16731116
+85,83,"edwardinae","Megophrys","",NE,U,-16777216
+86,78,"stejnegeri","Megophrys","Mindanao Horned Frog",VU,D,-11184866
+87,77,"ligayae","Megophrys","Palawan Horned Frog",EN,D,-8572416
+89,88,"shapingensis","Atympanophrys","",NE,U,-16777216
+90,88,"gigantica","Atympanophrys","",NE,U,-16777216
+93,92,"pachyproctus","Ophryophryne","",LC,D,-16731116
+94,92,"microstoma","Ophryophryne","",LC,D,-16731116
+96,95,"gerti","Ophryophryne","",DD,U,-11513776
+97,95,"hansi","Ophryophryne","",DD,U,-11513776
+102,101,"carinensis","Brachytarsophrys","",NE,U,-16777216
+103,101,"feae","Brachytarsophrys","",LC,D,-16731116
+104,100,"chuannanensis","Brachytarsophrys","",DD,D,-11513776
+105,99,"intermedia","Brachytarsophrys","",VU,D,-11184866
+106,98,"platyparietus","Brachytarsophrys","",LC,D,-16731116
+115,114,"nahangensis","Leptolalax","",DD,U,-11513776
+116,114,"pluvialis","Leptolalax","",DD,U,-11513776
+117,113,"pictus","Leptolalax","",VU,D,-11184866
+119,118,"pelodytoides","Leptolalax","",LC,S,-16731116
+120,118,"alpinus","Leptolalax","",EN,D,-8572416
+123,122,"sungi","Leptolalax","",DD,U,-11513776
+124,122,"liui","Leptolalax","",LC,D,-16731116
+125,121,"ventripunctatus","Leptolalax","",DD,U,-11513776
+130,129,"oshanensis","Leptolalax","Oshan Metacarpal-tubercled Toad",LC,S,-16731116
+131,129,"tuberosus","Leptolalax","",VU,D,-11184866
+132,128,"dringi","Leptolalax","",NT,D,-12486656
+133,127,"gracilis","Leptolalax","",NT,D,-12486656
+135,134,"maurus","Leptolalax","",NT,S,-12486656
+136,134,"hamidi","Leptolalax","",VU,D,-11184866
+139,138,"kajangensis","Leptolalax","",VU,U,-11184866
+140,138,"heteropus","Leptolalax","",LC,D,-16731116
+142,141,"bourreti","Leptolalax","",DD,U,-11513776
+143,141,"arayai","Leptolalax","",VU,D,-11184866
+149,148,"serasanae","Leptobrachella","",VU,D,-11184866
+150,148,"natunae","Leptobrachella","",DD,U,-11513776
+151,147,"baluensis","Leptobrachella","",VU,D,-11184866
+152,146,"brevicrus","Leptobrachella","",VU,S,-11184866
+154,153,"mjobergi","Leptobrachella","Mount Gadin Borneo Frog",LC,S,-16731116
+155,153,"palmata","Leptobrachella","",CR,D,-3014646
+156,144,"parva","Leptobrachella","",VU,D,-11184866
+165,164,"smithi","Leptobrachium","Smith's Litter Frog",LC,S,-16731116
+166,164,"hendricksoni","Leptobrachium","",LC,D,-16731116
+167,163,"buchardi","Leptobrachium","",DD,U,-11513776
+169,168,"xanthospilum","Leptobrachium","",DD,U,-11513776
+170,168,"nigrops","Leptobrachium","",LC,D,-16731116
+171,161,"huashen","Leptobrachium","",LC,U,-16731116
+172,160,"gunungense","Leptobrachium","",VU,S,-11184866
+173,159,"abbotti","Leptobrachium","",LC,D,-16731116
+179,178,"hasseltii","Leptobrachium","Java Spadefoot Toad",LC,U,-16731116
+180,178,"pullum","Leptobrachium","",DD,U,-11513776
+181,177,"banae","Leptobrachium","",VU,D,-11184866
+182,176,"chapaense","Leptobrachium","Chapa Spadefoot Toad",LC,U,-16731116
+183,175,"montanum","Leptobrachium","",LC,D,-16731116
+184,174,"hainanense","Leptobrachium","",VU,D,-11184866
+188,187,"ailaonica","Vibrissaphora","",NE,U,-16777216
+189,187,"echinata","Vibrissaphora","",NE,U,-16777216
+190,186,"boringiae","Vibrissaphora","",NE,U,-16777216
+192,191,"leishanensis","Vibrissaphora","",NE,U,-16777216
+193,191,"liui","Vibrissaphora","",NE,U,-16777216
+197,196,"varaldii","Pelobates","Varaldi's Spadefoot Toad",EN,D,-8572416
+198,196,"cultripes","Pelobates","Western Spadefoot",NT,D,-12486656
+199,195,"fuscus","Pelobates","Common Spadefoot",LC,D,-16731116
+200,194,"syriacus","Pelobates","Eastern Spadefoot",LC,D,-16731116
+206,205,"intermontana","Spea","Great Basin Spadefoot",LC,S,-16731116
+207,205,"hammondii","Spea","Western Spadefoot",NT,D,-12486656
+208,204,"multiplicata","Spea","New Mexico Spadefoot",LC,S,-16731116
+209,203,"bombifrons","Spea","Plains Spadefoot",LC,S,-16731116
+212,211,"holbrookii","Scaphiopus","Eastern Spadefoot",LC,U,-16731116
+213,211,"hurterii","Scaphiopus","Hurter's Spadefoot",LC,S,-16731116
+214,210,"couchii","Scaphiopus","Couch's Spadefoot",LC,S,-16731116
+217,216,"punctatus","Pelodytes","Parsley Frog",LC,D,-16731116
+218,216,"ibericus","Pelodytes","",LC,S,-16731116
+219,215,"caucasicus","Pelodytes","Caucasian Parsley Frog",NT,D,-12486656

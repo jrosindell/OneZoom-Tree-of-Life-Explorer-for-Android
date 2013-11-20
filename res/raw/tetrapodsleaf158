@@ -1,136 +1,27 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"trifasciata","Cuora","Chinese Three-striped Box Turtle",CR,U,-3014646
-13,11,"aurocapitata","Cuora","Yellow-headed Box Turtle",CR,U,-3014646
-14,10,"pani","Cuora","Pan's Box Turtle",CR,U,-3014646
-15,9,"zhoui","Cuora","Zhou's Box Turtle",CR,U,-3014646
-17,16,"philippeni","Ocadia","",NE,U,-16777216
-18,16,"iversoni","Mauremys","",NE,U,-16777216
-23,22,"galbinifrons","Cuora","Indochinese Box Turtle",CR,U,-3014646
-24,22,"picturata","Cuora","",NE,U,-16777216
-25,21,"flavomarginata_evelynae","Cuora","",NE,U,-16777216
-26,20,"mccordi","Cuora","Mccord's Box Turtle",CR,U,-3014646
-27,19,"serrata","Cuora","",NE,U,-16777216
-29,28,"amboinensis_amboinensis","Cuora","",NE,U,-16777216
-30,28,"mouhotii","Pyxidea","",NE,U,-16777216
-36,35,"megalocephala","Mauremys","",NE,U,-16777216
-37,35,"reevesii","Mauremys","",NE,U,-16777216
-38,34,"nigricans","Chinemys","Red-necked Pond Turtle",EN,U,-8572416
-40,39,"sinensis","Mauremys","",NE,U,-16777216
-41,39,"japonica","Mauremys","",NT,U,-12486656
-44,43,"rivulata","Mauremys","",NE,U,-16777216
-45,43,"caspica","Mauremys","",NE,U,-16777216
-46,42,"leprosa","Mauremys","",NE,U,-16777216
-49,48,"annamensis","Mauremys","Annam Leaf Turtle",CR,U,-3014646
-50,48,"glyphistoma","Ocadia","",NE,U,-16777216
-52,51,"pritchardi","Mauremys","",NE,U,-16777216
-53,51,"mutica","Mauremys","",EN,U,-8572416
-62,61,"enigmatica","Cyclemys","",NE,U,-16777216
-63,61,"bellii","Cyclemys","",NE,U,-16777216
-65,64,"orbiculata","Cyclemys","",NE,U,-16777216
-66,64,"ovata","Cyclemys","",NE,U,-16777216
-68,67,"pulchristriata","Cyclemys","",NE,U,-16777216
-69,67,"atripons","Cyclemys","",NE,U,-16777216
-72,71,"dentata","Cyclemys","Asian Leaf Turtle",NT,U,-12486656
-73,71,"shanensis","Cyclemys","",NE,U,-16777216
-75,74,"tcheponensis","Cyclemys","",NE,U,-16777216
-76,74,"oldhamii","Cyclemys","",NE,U,-16777216
-78,77,"gemeli","Cyclemys","",NE,U,-16777216
-79,77,"fusca","Cyclemys","",NE,U,-16777216
-83,82,"grandis","Heosemys","Giant Asian Pond Turtle",VU,U,-11184866
-84,82,"depressa","Heosemys","Arakan Forest Turtle",CR,U,-3014646
-85,81,"annandalii","Heosemys","Yellow-headed Temple Turtle",EN,U,-8572416
-86,80,"spinosa","Heosemys","Spiny Terrapin",EN,U,-8572416
-88,87,"platynota","Notochelys","Malayan Flat-shelled Turtle",VU,U,-11184866
-89,87,"yuwonoi","Leucocephalon","Sulawesi Forest Turtle",CR,U,-3014646
-91,90,"quadriocellata","Sacalia","Four-eyed Turtle",EN,U,-8572416
-92,90,"bealei","Sacalia","Beal'S-eyed Turtle",EN,U,-8572416
-93,3,"trijuga","Melanochelys","Indian Black Turtle",NE,U,-16777216
-102,101,"borneoensis","Callagur","Painted Batagur",CR,U,-3014646
-103,101,"trivittata","Kachuga","",NE,U,-16777216
-104,100,"dhongoka","Kachuga","",NE,U,-16777216
-107,106,"kachuga","Batagur","Bengal Roof Turtle",CR,U,-3014646
-108,106,"affinis","Batagur","",NE,U,-16777216
-109,105,"baska","Batagur","Batagur",CR,U,-3014646
-114,113,"tentoria circumdata","Kachuga","",NE,U,-16777216
-115,113,"smithii","Kachuga","",NE,U,-16777216
-116,112,"tecta","Kachuga","",NE,U,-16777216
-117,111,"sylhetensis","Kachuga","",NE,U,-16777216
-118,110,"thurjii indi","Hardella","",NE,U,-16777216
-119,97,"ocellata","Morenia","Bengal Eyed Terrapin",VU,U,-11184866
-120,96,"hamiltonii","Geoclemys","Black Pond Turtle",VU,U,-11184866
-122,121,"borneensis","Orlitia","Bornean River Turtle",EN,U,-8572416
-123,121,"subtrijuga","Malayemys","",VU,U,-11184866
-127,126,"japonica","Geoemyda","Ryukyu Black-breasted Leaf Turtle",EN,U,-8572416
-128,126,"spengleri","Geoemyda","Black-breasted Hill Turtle",EN,U,-8572416
-129,125,"pseudocellata","Sacalia","",NE,U,-16777216
-131,130,"leytensis","Siebenrockiella","Philippine Pond Turtle",CR,U,-3014646
-132,130,"crassicollis","Siebenrockiella","",VU,U,-11184866
-138,137,"funerea","Rhinoclemmys","Black River Turtle",NT,U,-12486656
-139,137,"melanosterna","Rhinoclemmys","",NE,U,-16777216
-141,140,"punctularia_punctularia","Rhinoclemmys","",NE,U,-16777216
-142,140,"diademata","Rhinoclemmys","",NE,U,-16777216
-143,135,"areolata","Rhinoclemmys","Furrowed Wood Turtle",NT,D,-12486656
-144,134,"rubida","Rhinoclemmys","Mexican Spotted Terrapin",NT,D,-12486656
-147,146,"annulata","Rhinoclemmys","Brown Land Turtle",NT,U,-12486656
-148,146,"pulcherrima_incisa","Rhinoclemmys","",NE,U,-16777216
-149,145,"nasuta","Rhinoclemmys","Large-nosed Wood Turtle",NT,U,-12486656
-164,163,"nigra vandenburghi","Geochelone","",NE,U,-16777216
-165,163,"nigra microphyes","Geochelone","",NE,U,-16777216
-166,162,"nigra vicina","Geochelone","",NE,U,-16777216
-167,161,"nigra porteri","Geochelone","",NE,U,-16777216
-168,160,"nigra guntheri","Geochelone","",NE,U,-16777216
-172,171,"nigra abingdoni","Geochelone","",NE,U,-16777216
-173,171,"nigra hoodensis","Geochelone","",NE,U,-16777216
-174,170,"nigra chatamensis","Geochelone","",NE,U,-16777216
-175,169,"nigra ephippium","Geochelone","",NE,U,-16777216
-177,176,"nigra darwini","Geochelone","Galapagos Tortoise",NE,U,-16777216
-178,176,"nigra becki","Geochelone","",NE,U,-16777216
-179,157,"chilensis","Geochelone","Argentine Tortoise",VU,U,-11184866
-182,181,"platynota","Geochelone","Burmese Starred Tortoise",CR,U,-3014646
-183,181,"elegans","Geochelone","Indian Star Tortoise",LC,U,-16731116
-184,180,"sulcata","Geochelone","African Spurred Tortoise",VU,U,-11184866
-186,185,"denticulata","Geochelone","Brazilian Giant Tortoise",VU,U,-11184866
-187,185,"carbonaria","Geochelone","Red-footed Tortoise",NE,U,-16777216
-192,191,"peltastes","Cylindraspis","",EX,U,-16777036
-193,191,"vosmaeri","Cylindraspis","",EX,U,-16777036
-195,194,"indica","Cylindraspis","",EX,U,-16777036
-196,194,"inepta","Cylindraspis","",EX,U,-16777036
-197,189,"triserrata","Cylindraspis","",EX,U,-16777036
-201,200,"dussumieri","Dipsochelys","",NE,U,-16777216
-202,200,"arnoldi","Dipsochelys","",NE,U,-16777216
-203,199,"hololissa","Dipsochelys","",NE,U,-16777216
-204,198,"radiata","Geochelone","",NE,U,-16777216
-207,206,"planicauda","Pyxis","Flat-tailed Tortoise",CR,D,-3014646
-208,206,"arachnoides","Pyxis","Spider Tortoise",CR,D,-3014646
-209,205,"femoralis","Homopus","Karoo Cape Tortoise",NE,U,-16777216
-215,214,"natalensis","Kinixys","Natal Hinge-backed Tortoise",NT,U,-12486656
-216,214,"belliana","Kinixys","Bell's Hinge-back Tortoise",NE,U,-16777216
-217,213,"spekii","Kinixys","Speke's Hinge-back Tortoise",NE,U,-16777216
-219,218,"homeana","Kinixys","Home's Hinge-back Tortoise",VU,D,-11184866
-220,218,"erosa","Kinixys","Common Tortoise",DD,U,-11513776
-224,223,"boulengeri","Homopus","Boulenger's Cape Tortoise",NE,U,-16777216
-225,223,"bergeri","Homopus","Berger's Cape Tortoise",VU,U,-11184866
-226,222,"signatus cafer","Homopus","",NE,U,-16777216
-227,221,"angulata","Chersine","",NE,U,-16777216
-232,231,"geometricus","Psammobates","Geometric Tortoise",EN,U,-8572416
-233,231,"oculifer","Psammobates","Serrated Tortoise",NE,U,-16777216
-234,230,"tentorius","Psammobates","African Tent Tortoise",NE,U,-16777216
-235,229,"aerolatus","Homopus","",NE,U,-16777216
-237,236,"yniphora","Astrochelys","Ploughshare Tortoise",CR,D,-3014646
-238,236,"pardalis","Psammobates","",NE,U,-16777216
-244,243,"weissingeri","Testudo","Marginated Tortoise",NE,U,-16777216
-245,243,"marginata","Testudo","Marginated Tortoise",LC,S,-16731116
-246,242,"kleinmanni","Testudo","Egyptian Tortoise",CR,D,-3014646
-247,241,"graeca cyrenaica","Testudo","",NE,U,-16777216
-250,249,"horsfieldii","Testudo","Afghan Tortoise",VU,U,-11184866
-251,249,"hermanni boettgeri","Testudo","",NE,U,-16777216
-252,248,"tornieri","Malacochersus","Crevice Tortoise",VU,U,-11184866
-255,254,"travancorica","Indotestudo","Travancore Tortoise",VU,U,-11184866
-256,254,"elongata","Indotestudo","Elongated Tortoise",EN,U,-8572416
-257,253,"forstenii","Indotestudo","Celebes Tortoise",EN,U,-8572416
-261,260,"flavomarginatus","Gopherus","Bolson Tortoise",VU,I,-11184866
-262,260,"polyphemus","Gopherus","Gopher Tortoise",VU,U,-11184866
-264,263,"agassizii","Gopherus","Desert Tortoise",VU,U,-11184866
-265,263,"berlanderi","Gopherus","",NE,U,-16777216
-267,266,"impressa","Manouria","Impressed Tortoise",VU,U,-11184866
-268,266,"emys","Manouria","Asian Giant Tortoise",EN,U,-8572416
+9,8,"placida","Geopelia","Peaceful Dove",LC,U,-16731116
+10,8,"striata","Geopelia","Zebra Dove",LC,U,-16731116
+11,7,"humeralis","Geopelia","Bar-shouldered Dove",LC,U,-16731116
+13,12,"cuneata","Geopelia","Diamond Dove",LC,U,-16731116
+14,12,"maugeus","Geopelia","Barred Dove",LC,U,-16731116
+17,16,"plumifera","Geophaps","Spinifex Pigeon",LC,U,-16731116
+18,16,"scripta","Geophaps","Squatter Pigeon",LC,U,-16731116
+19,15,"smithii","Geophaps","Partridge Pigeon",NT,U,-12486656
+24,23,"chalcoptera","Phaps","Common Bronzewing",LC,U,-16731116
+25,23,"elegans","Phaps","Brush Bronzewing",LC,U,-16731116
+26,22,"histrionica","Phaps","Flock Bronzewing",LC,U,-16731116
+28,27,"rufipennis","Petrophassa","Chestnut-quilled Rock-pigeon",LC,U,-16731116
+29,27,"albipennis","Petrophassa","White-quilled Rock-pigeon",LC,U,-16731116
+30,20,"lophotes","Ocyphaps","Crested Pigeon",LC,U,-16731116
+31,3,"melanoleuca","Leucosarcia","Wonga Pigeon",LC,U,-16731116
+34,33,"kubaryi","Gallicolumba","Caroline Islands Ground-dove",VU,U,-11184866
+35,33,"rubescens","Gallicolumba","Marquesan Ground-dove",VU,U,-11184866
+37,36,"jobiensis","Gallicolumba","White-bibbed Ground-dove",LC,U,-16731116
+38,36,"beccarii","Gallicolumba","Bronze Ground-dove",LC,U,-16731116
+42,41,"sanctaecrucis","Gallicolumba","Santa Cruz Ground-dove",EN,U,-8572416
+43,41,"rufigula","Gallicolumba","Cinnamon Ground-dove",LC,U,-16731116
+44,40,"xanthonura","Gallicolumba","White-throated Ground-dove",NT,U,-12486656
+46,45,"foersteri","Henicophaps","New Britain Bronzewing",VU,U,-11184866
+47,45,"albifrons","Henicophaps","New Guinea Bronzewing",LC,U,-16731116
+49,48,"platenae","Gallicolumba","Mindoro Bleeding-heart",CR,U,-3014646
+50,48,"hoedtii","Gallicolumba","Wetar Ground-dove",EN,U,-8572416

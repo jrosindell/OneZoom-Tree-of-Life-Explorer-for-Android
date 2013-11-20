@@ -1,0 +1,49 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"dorsalis","Plethodon","Northern Zigzag Salamander",LC,S,-16731116
+10,8,"welleri","Plethodon","Weller's Salamander",EN,D,-8572416
+11,7,"ventralis","Plethodon","Southern Zigzag Salamander",LC,D,-16731116
+12,6,"angusticlavius","Plethodon","Ozark Zigzag Salamander",LC,S,-16731116
+13,5,"websteri","Plethodon","Webster's Salamander",LC,D,-16731116
+17,16,"stormi","Plethodon","Siskiyou Mountains Salamander",EN,D,-8572416
+18,16,"asupak","Plethodon","Scottbar Salamander",VU,U,-11184866
+19,15,"elongatus","Plethodon","Del Norte Salamander",NT,D,-12486656
+20,14,"ainsworthi","Plethodon","Ainsworth's Salamander",EX,U,-16777036
+22,21,"idahoensis","Plethodon","Coeur D'Alene Salamander",LC,U,-16731116
+23,21,"vandykei","Plethodon","Van Dyke's Salamander",LC,S,-16731116
+25,24,"neomexicanus","Plethodon","Jemez Mountains Salamander",NT,S,-12486656
+26,24,"larselli","Plethodon","Larch Mountain Salamander",NT,S,-12486656
+32,31,"serratus","Plethodon","Southern Redback Salamander",LC,S,-16731116
+33,31,"nettingi","Plethodon","Cheat Mountain Salamander",NT,S,-12486656
+35,34,"hoffmani","Plethodon","Valley And Ridge Salamander",LC,S,-16731116
+36,34,"shenandoah","Plethodon","Shenandoah Salamander",VU,S,-11184866
+38,37,"hubrichti","Plethodon","Peaks Of Otter Salamander",VU,U,-11184866
+39,37,"richmondi","Plethodon","Ravine Salamander",LC,S,-16731116
+43,42,"virginia","Plethodon","Shenandoah Mountain Salamander",NT,U,-12486656
+44,42,"sherando","Plethodon","Big Levels Salamander",VU,U,-11184866
+45,41,"cinereus","Plethodon","Redback Salamander",LC,S,-16731116
+46,40,"electromorphus","Plethodon","Northern Ravine Salamander",LC,S,-16731116
+48,47,"punctatus","Plethodon","White-spotted Salamander",NT,S,-12486656
+49,47,"wehrlei","Plethodon","Wehrle's Salamander",LC,S,-16731116
+61,60,"meridianus","Plethodon","South Mountain Gray-cheeked Salamander",VU,S,-11184866
+62,60,"caddoensis","Plethodon","Caddo Mountain Salamander",NT,U,-12486656
+63,59,"shermani","Plethodon","Red-legged Salamander",VU,S,-11184866
+64,58,"sequoyah","Plethodon","Sequoyah Slimy Salamander",DD,U,-11513776
+66,65,"albagula","Plethodon","Western Slimy Salamander",LC,S,-16731116
+67,65,"glutinosus","Plethodon","Slimy Salamander",LC,S,-16731116
+68,56,"aureolus","Plethodon","Tellico Salamander",DD,U,-11513776
+69,55,"ouachitae","Plethodon","Rich Mountain Salamander",NT,S,-12486656
+71,70,"cylindraceus","Plethodon","White-spotted Slimy Salamander",LC,S,-16731116
+72,70,"kentucki","Plethodon","Cumberland Plateau Salamander",LC,S,-16731116
+73,53,"kiamichi","Plethodon","Kiamichi Slimy Salamander",DD,U,-11513776
+78,77,"montanus","Plethodon","Northern Gray-cheeked Salamander",LC,S,-16731116
+79,77,"teyahalee","Plethodon","Southern Appalachian Salamander",LC,S,-16731116
+81,80,"metcalfi","Plethodon","Southern Gray-cheeked Salamander",LC,S,-16731116
+82,80,"cheoah","Plethodon","Cheoah Bald Salamander",VU,S,-11184866
+84,83,"amplus","Plethodon","Blue Ridge Gray-cheeked Salamander",VU,U,-11184866
+85,83,"yonahlossee","Plethodon","Yonahlossee Salamander",LC,S,-16731116
+86,74,"petraeus","Plethodon","Pigeon Mountain Salamander",VU,S,-11184866
+89,88,"fourchensis","Plethodon","Fourche Mountain Salamander",VU,U,-11184866
+90,88,"jordani","Plethodon","Red-cheeked Salamander",NT,S,-12486656
+91,87,"kisatchie","Plethodon","Louisiana Slimy Salamander",LC,U,-16731116
+93,92,"vehiculum","Plethodon","Western Redback Salamander",LC,S,-16731116
+94,92,"dunni","Plethodon","Dunn's Salamander",LC,S,-16731116

@@ -1,0 +1,39 @@
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"robusta","Austrochaperina","Robust Frog",LC,S,-16731116
+15,13,"fryi","Austrochaperina","Fry's Frog",LC,S,-16731116
+16,12,"rivularis","Austrochaperina","",LC,S,-16731116
+17,11,"yelaensis","Austrochaperina","",DD,U,-11513776
+18,10,"brevipes","Austrochaperina","",DD,U,-11513776
+19,9,"adamantina","Austrochaperina","",DD,U,-11513776
+20,8,"pluvialis","Austrochaperina","Rain Frog",LC,S,-16731116
+21,7,"septentrionalis","Austrochaperina","",DD,U,-11513776
+22,6,"polysticta","Austrochaperina","",DD,U,-11513776
+25,24,"adelphe","Austrochaperina","Northern Territory Frog",LC,S,-16731116
+26,24,"mehelyi","Austrochaperina","",DD,U,-11513776
+27,23,"derongo","Austrochaperina","",LC,S,-16731116
+32,31,"basipalmata","Austrochaperina","",LC,U,-16731116
+33,31,"guttata","Austrochaperina","",LC,S,-16731116
+34,30,"novaebritanniae","Austrochaperina","",VU,D,-11184866
+35,29,"hooglandi","Austrochaperina","",LC,S,-16731116
+36,28,"parkeri","Austrochaperina","",DD,U,-11513776
+41,40,"kosarek","Austrochaperina","",DD,U,-11513776
+42,40,"blumi","Austrochaperina","",LC,S,-16731116
+43,39,"palmipes","Austrochaperina","",LC,S,-16731116
+44,38,"archboldi","Austrochaperina","",DD,U,-11513776
+47,46,"gracilipes","Austrochaperina","Slender Frog",LC,S,-16731116
+48,46,"aquilonia","Austrochaperina","",DD,U,-11513776
+49,45,"macrorhyncha","Austrochaperina","",LC,U,-16731116
+53,52,"stenodactyla","Oxydactyla","",LC,S,-16731116
+54,52,"brevicrus","Oxydactyla","",DD,U,-11513776
+55,51,"coggeri","Oxydactyla","",DD,U,-11513776
+57,56,"alpestris","Oxydactyla","",LC,S,-16731116
+58,56,"crassa","Oxydactyla","",DD,U,-11513776
+59,1,"cornuta","Sphenophryne","",LC,S,-16731116
+65,64,"fistulans","Copiula","",LC,S,-16731116
+66,64,"oxyrhina","Copiula","",LC,S,-16731116
+67,63,"major","Copiula","",DD,U,-11513776
+68,62,"pipiens","Copiula","",DD,U,-11513776
+70,69,"tyleri","Copiula","",LC,S,-16731116
+71,69,"minor","Copiula","",VU,U,-11184866
+73,72,"exspectata","Copiula","",DD,U,-11513776
+74,72,"obsti","Copiula","",DD,U,-11513776

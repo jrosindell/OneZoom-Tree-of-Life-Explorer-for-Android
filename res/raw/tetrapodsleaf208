@@ -1,0 +1,34 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"striatula","Virginia","Rough Earth Snake",LC,S,-16731116
+10,8,"pygeae","Seminatrix","",NE,U,-16777216
+11,7,"dekayi","Storeria","Brown Snake",LC,S,-16731116
+12,6,"rigida","Regina","Glossy Crayfish Snake",LC,S,-16731116
+13,5,"kirtlandii","Clonophis","Kirtland's Snake",NT,D,-12486656
+16,15,"sipedon","Nerodia","Lake Erie Water Snake",LC,S,-16731116
+17,15,"lineatum","Tropidoclonion","Lined Snake",LC,S,-16731116
+19,18,"marcianus","Thamnophis","",NE,U,-16777216
+20,18,"foxi","Adelophis","",DD,U,-11513776
+21,3,"natrix","Natrix","Grass Snake",LC,U,-16731116
+23,22,"lateralis","Opisthotropis","",NE,U,-16777216
+24,22,"annularis","Sinonatrix","",NE,U,-16777216
+28,27,"trachyprocta","Aspidura","",NE,U,-16777216
+29,27,"sp.","Aspidura","",NE,U,-16777216
+30,26,"drummondhayi","Aspidura","",NE,U,-16777216
+32,31,"ceylonensis","Haplocercus","",NE,U,-16777216
+33,31,"guentheri","Aspidura","",NE,U,-16777216
+42,41,"flavipunctatus","Xenochrophis","",NE,U,-16777216
+43,41,"punctulatus","Xenochrophis","",NE,U,-16777216
+45,44,"asperrimus","Xenochrophis","",NE,U,-16777216
+46,44,"yunnanensis","Atretium","",NE,U,-16777216
+47,39,"schistosum","Atretium","",NE,U,-16777216
+49,48,"schnurrenbergeri","Xenochrophis","",NE,U,-16777216
+50,48,"piscator","Xenochrophis","",NE,U,-16777216
+52,51,"vittatus","Xenochrophis","",NE,U,-16777216
+53,51,"stolatum","Amphiesma","",NE,U,-16777216
+55,54,"ceylonensis","Balanophis","",NE,U,-16777216
+56,54,"tigrinus","Rhabdophis","",NE,U,-16777216
+58,57,"monticola","Trachischium","",NE,U,-16777216
+59,57,"rudis","Macropisthodon","",NE,U,-16777216
+62,61,"seychellensis","Lycognathophis","Seychelles Wolf Snake",EN,D,-8572416
+63,61,"anoscopus","Afronatrix","",NE,U,-16777216
+64,60,"olivacea","Natriciteres","",NE,U,-16777216

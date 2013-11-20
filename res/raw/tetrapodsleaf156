@@ -1,154 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"plica","Tropidurus","",NE,U,-16777216
-16,14,"umbra","Tropidurus","",NE,U,-16777216
-17,13,"hygomi","Tropidurus","",NE,U,-16777216
-18,12,"spinulosus","Tropidurus","",NE,U,-16777216
-19,11,"bogerti","Tropidurus","",NE,U,-16777216
-21,20,"montanus","Tropidurus","",NE,U,-16777216
-22,20,"guarani","Tropidurus","",NE,U,-16777216
-23,9,"hispidus","Tropidurus","",NE,U,-16777216
-24,8,"superciliosus","Uranoscodon","",NE,U,-16777216
-26,25,"flaviceps","Uracentron","",NE,U,-16777216
-27,25,"azurea","Uracentron","",NE,U,-16777216
-35,34,"guentheri","Stenocercus","",NE,U,-16777216
-36,34,"chota","Stenocercus","",NE,U,-16777216
-37,33,"rhodomelas","Stenocercus","",NE,U,-16777216
-38,32,"iridescens","Stenocercus","",NE,U,-16777216
-39,31,"ornatus","Stenocercus","",NE,U,-16777216
-40,30,"roseiventris","Stenocercus","",NE,U,-16777216
-42,41,"variabilis","Stenocercus","",NE,U,-16777216
-43,41,"boettgeri","Stenocercus","",NE,U,-16777216
-44,28,"formosus","Stenocercus","",NE,U,-16777216
-52,51,"loxogrammus","Leiocephalus","",NE,U,-16777216
-53,51,"raviceps","Leiocephalus","",NE,U,-16777216
-55,54,"personatus","Leiocephalus","",NE,U,-16777216
-56,54,"lunatus","Leiocephalus","",NE,U,-16777216
-57,49,"cubensis","Leiocephalus","",NE,U,-16777216
-58,48,"semilineatus","Leiocephalus","",NE,U,-16777216
-59,47,"barahonensis","Leiocephalus","",NE,U,-16777216
-61,60,"schreibersi","Leiocephalus","",NE,U,-16777216
-62,60,"macropus","Leiocephalus","",NE,U,-16777216
-63,45,"carinatus","Leiocephalus","",NE,U,-16777216
-70,69,"percarinatus","Corytophanes","",NE,U,-16777216
-71,69,"cristatus","Corytophanes","",NE,U,-16777216
-72,68,"hernandezi","Corytophanes","",NE,U,-16777216
-74,73,"longipes","Laemanctus","",NE,U,-16777216
-75,73,"serratus","Laemanctus","",LC,S,-16731116
-79,78,"basiliscus","Basiliscus","",NE,U,-16777216
-80,78,"plumifrons","Basiliscus","",NE,U,-16777216
-81,77,"vittatus","Basiliscus","",NE,U,-16777216
-82,76,"galeritus","Basiliscus","",NE,U,-16777216
-86,85,"marmoratus","Polychrus","",NE,U,-16777216
-87,85,"femoralis","Polychrus","",NE,U,-16777216
-88,84,"acutirostris","Polychrus","",NE,U,-16777216
-89,83,"liogaster","Polychrus","",NE,U,-16777216
-98,97,"pectinata","Ctenosaura","",NE,U,-16777216
-99,97,"similis","Ctenosaura","",NE,U,-16777216
-100,96,"quinquecarinata","Ctenosaura","",NE,U,-16777216
-101,95,"hemilopha","Ctenosaura","",NE,U,-16777216
-102,94,"cristatus","Amblyrhynchus","Galapagos Marine Iguana",VU,U,-11184866
-104,103,"nubila","Cyclura","Cayman Islands Ground Iguana",VU,U,-11184866
-105,103,"iguana","Iguana","",NE,U,-16777216
-106,92,"obesus","Sauromalus","",NE,U,-16777216
-107,91,"vitiensis","Brachylophus","Fiji Crested Iguana",CR,U,-3014646
-108,90,"dorsalis","Dipsosaurus","Desert Iguana",LC,S,-16731116
-119,118,"cyanogaster","Liolaemus","",NE,U,-16777216
-120,118,"bellii","Liolaemus","",NE,U,-16777216
-121,117,"bibronii","Liolaemus","",NE,U,-16777216
-122,116,"nigromaculatus","Liolaemus","",NE,U,-16777216
-123,115,"leopardinus","Liolaemus","",DD,U,-11513776
-124,114,"tenuis","Liolaemus","",NE,U,-16777216
-125,113,"orientalis","Liolaemus","",NE,U,-16777216
-127,126,"fitzingerii","Liolaemus","",NE,U,-16777216
-128,126,"wiegmannii","Liolaemus","",NE,U,-16777216
-131,130,"ornatus","Liolaemus","",NE,U,-16777216
-132,130,"quilmes","Liolaemus","",NE,U,-16777216
-133,129,"signifer","Liolaemus","",NE,U,-16777216
-136,135,"gravenhorstii","Liolaemus","",DD,U,-11513776
-137,135,"paulinae","Liolaemus","",DD,U,-11513776
-138,134,"kingii","Liolaemus","",NE,U,-16777216
-144,143,"occipitalis","Microlophus","",NE,U,-16777216
-145,143,"pacificus","Microlophus","",NE,U,-16777216
-146,142,"albemarlensis","Microlophus","",NE,U,-16777216
-147,141,"peruvianus","Microlophus","",NE,U,-16777216
-148,140,"delanonis","Microlophus","",NE,U,-16777216
-149,139,"tigris","Microlophus","",NE,U,-16777216
-150,2,"palluma","Phymaturus","",NE,U,-16777216
-154,153,"quadrimaculatus","Oplurus","",NE,U,-16777216
-155,153,"grandidieri","Oplurus","",NE,U,-16777216
-157,156,"cyclurus","Oplurus","",NE,U,-16777216
-158,156,"cuvieri","Oplurus","",NE,U,-16777216
-159,151,"madagascariensis","Chalarodon","",NE,U,-16777216
-174,173,"biporcatus","Anolis","",NE,U,-16777216
-175,173,"aquaticus","Anolis","",NE,U,-16777216
-177,176,"auratus","Anolis","",NE,U,-16777216
-178,176,"onca","Anolis","",NE,U,-16777216
-179,171,"uniformis","Anolis","",NE,U,-16777216
-184,183,"opalinus","Anolis","",NE,U,-16777216
-185,183,"garmani","Anolis","",NE,U,-16777216
-186,182,"grahami","Anolis","",NE,U,-16777216
-187,181,"valencienni","Anolis","",NE,U,-16777216
-188,180,"lineatopus","Anolis","",NE,U,-16777216
-192,191,"lemurinus","Anolis","",NE,U,-16777216
-193,191,"humilis","Anolis","",NE,U,-16777216
-194,190,"tropidogaster","Anolis","",NE,U,-16777216
-195,189,"capito","Anolis","",NE,U,-16777216
-197,196,"homolechis","Anolis","",NE,U,-16777216
-198,196,"sagrei","Anolis","",NE,U,-16777216
-199,167,"pentaprion","Anolis","",NE,U,-16777216
-205,204,"cristatellus","Anolis","",NE,U,-16777216
-206,204,"gundlachi","Anolis","",NE,U,-16777216
-208,207,"pulchellus","Anolis","",NE,U,-16777216
-209,207,"krugi","Anolis","",NE,U,-16777216
-212,211,"evermanni","Anolis","",NE,U,-16777216
-213,211,"stratulus","Anolis","",NE,U,-16777216
-214,210,"acutus","Anolis","",NE,U,-16777216
-216,215,"brevirostris","Anolis","",NE,U,-16777216
-217,215,"distichus","Anolis","",NE,U,-16777216
-222,221,"bimaculatus","Anolis","",NE,U,-16777216
-223,221,"gingivinus","Anolis","",NE,U,-16777216
-224,220,"leachi","Anolis","",NE,U,-16777216
-227,226,"marmoratus","Anolis","",NE,U,-16777216
-228,226,"lividus","Anolis","",NE,U,-16777216
-229,225,"oculatus","Anolis","",NE,U,-16777216
-230,218,"wattsi","Anolis","",NE,U,-16777216
-235,234,"carolinensis","Anolis","Green Anole",LC,S,-16731116
-236,234,"porcatus","Anolis","",NE,U,-16777216
-238,237,"smaragdinus","Anolis","",NE,U,-16777216
-239,237,"allisoni","Anolis","",NE,U,-16777216
-240,232,"argenteolus","Anolis","",NE,U,-16777216
-241,231,"fowleri","Anolis","",NE,U,-16777216
-248,247,"chlorocyanus","Anolis","",NE,U,-16777216
-249,247,"aliniger","Anolis","",NE,U,-16777216
-250,246,"coelestinus","Anolis","",NE,U,-16777216
-252,251,"luteogularis","Anolis","",NE,U,-16777216
-253,251,"equestris","Anolis","",NE,U,-16777216
-254,244,"darlingtoni","Anolis","",NE,U,-16777216
-255,243,"vermiculatus","Anolis","",NE,U,-16777216
-256,242,"occultus","Anolis","",NE,U,-16777216
-259,258,"armouri","Anolis","",NE,U,-16777216
-260,258,"cybotes","Anolis","",NE,U,-16777216
-261,257,"longitibialis","Anolis","",NE,U,-16777216
-265,264,"chamaeleonides","Anolis","",NE,U,-16777216
-266,264,"barbatus","Anolis","",NE,U,-16777216
-268,267,"barahonae","Anolis","",NE,U,-16777216
-269,267,"cuvieri","Anolis","",NE,U,-16777216
-270,262,"barbouri","Anolis","",NE,U,-16777216
-278,277,"extremus","Anolis","",NE,U,-16777216
-279,277,"roquet","Anolis","",NE,U,-16777216
-280,276,"aeneus","Anolis","",NE,U,-16777216
-281,275,"trinitatis","Anolis","",NE,U,-16777216
-282,274,"richardii","Anolis","",NE,U,-16777216
-284,283,"bonairensis","Anolis","",NE,U,-16777216
-285,283,"luciae","Anolis","",NE,U,-16777216
-286,272,"aequatorialis","Anolis","",NE,U,-16777216
-290,289,"punctatus","Anolis","",NE,U,-16777216
-291,289,"frenatus","Anolis","",NE,U,-16777216
-292,288,"chloris","Anolis","",NE,U,-16777216
-294,293,"heterodermus","Anolis","",NE,U,-16777216
-295,293,"nicefori","Anolis","",NE,U,-16777216
-299,298,"leopardinus","Diplolaemus","",NE,U,-16777216
-300,298,"darwinii","Diplolaemus","",NE,U,-16777216
-301,297,"bibroni","Diplolaemus","",NE,U,-16777216
-303,302,"brasiliensis","Enyalius","",NE,U,-16777216
-304,302,"perditus","Enyalius","",NE,U,-16777216
+11,10,"mindorensis","Ducula","Mindoro Imperial-pigeon",EN,U,-8572416
+12,10,"bicolor","Ducula","Pied Imperial-pigeon",LC,U,-16731116
+13,9,"radiata","Ducula","Grey-headed Imperial-pigeon",LC,U,-16731116
+15,14,"mullerii","Ducula","Collared Imperial-pigeon",LC,U,-16731116
+16,14,"pinon","Ducula","Pinon Imperial-pigeon",LC,U,-16731116
+19,18,"melanochroa","Ducula","Bismarck Imperial-pigeon",LC,U,-16731116
+20,18,"galeata","Ducula","Marquesan Imperial-pigeon",EN,U,-8572416
+21,17,"latrans","Ducula","Peale's Imperial-pigeon",LC,U,-16731116
+26,25,"rubricera","Ducula","Red-knobbed Imperial-pigeon",NT,U,-12486656
+27,25,"carola","Ducula","Spotted Imperial-pigeon",VU,U,-11184866
+28,24,"pacifica","Ducula","Pacific Imperial-pigeon",LC,U,-16731116
+30,29,"badia","Ducula","Mountain Imperial-pigeon",LC,U,-16731116
+31,29,"aenea","Ducula","Green Imperial-pigeon",LC,U,-16731116
+32,22,"pistrinaria","Ducula","Island Imperial-pigeon",LC,U,-16731116
+35,34,"rufigaster","Ducula","Purple-tailed Imperial-pigeon",LC,U,-16731116
+36,34,"subflavescens","Ducula","Yellowish Imperial-pigeon",NT,U,-12486656
+37,33,"rosacea","Ducula","Pink-headed Imperial-pigeon",NT,U,-12486656
+42,41,"brenchleyi","Ducula","Chestnut-bellied Imperial-pigeon",VU,U,-11184866
+43,41,"luctuosa","Ducula","White Imperial-pigeon",LC,U,-16731116
+44,40,"lacernulata","Ducula","Dark-backed Imperial-pigeon",LC,U,-16731116
+45,39,"poliocephala","Ducula","Pink-bellied Imperial-pigeon",NT,U,-12486656
+46,38,"basilica","Ducula","Cinnamon-bellied Imperial-pigeon",LC,U,-16731116
+51,50,"aurorae","Ducula","Polynesian Imperial-pigeon",EN,U,-8572416
+52,50,"cineracea","Ducula","Timor Imperial-pigeon",EN,U,-8572416
+54,53,"pickeringii","Ducula","Grey Imperial-pigeon",VU,U,-11184866
+55,53,"zoeae","Ducula","Banded Imperial-pigeon",LC,U,-16731116
+56,48,"bakeri","Ducula","Vanuatu Imperial-pigeon",VU,U,-11184866
+58,57,"goliath","Ducula","New Caledonian Imperial-pigeon",NT,U,-12486656
+59,57,"spilorrhoa","Ducula","Torresian Imperial-pigeon",LC,U,-16731116
+62,61,"perspicillata","Ducula","White-eyed Imperial-pigeon",LC,U,-16731116
+63,61,"oceanica","Ducula","Micronesian Imperial-pigeon",NT,U,-12486656
+65,64,"myristicivora","Ducula","Spice Imperial-pigeon",LC,U,-16731116
+66,64,"concinna","Ducula","Elegant Imperial-pigeon",LC,U,-16731116
+70,69,"forsteni","Ducula","White-bellied Imperial-pigeon",LC,U,-16731116
+71,69,"chalconota","Ducula","Shining Imperial-pigeon",LC,U,-16731116
+72,68,"finschii","Ducula","Finsch's Imperial-pigeon",NT,U,-12486656
+73,67,"whartoni","Ducula","Christmas Island Imperial-pigeon",VU,U,-11184866
+78,77,"albertisii","Gymnophaps","Papuan Mountain-pigeon",LC,U,-16731116
+79,77,"solomonensis","Gymnophaps","Pale Mountain-pigeon",LC,U,-16731116
+80,76,"mada","Gymnophaps","Long-tailed Mountain-pigeon",LC,U,-16731116
+81,75,"antarcticus","Lopholaimus","Topknot Pigeon",LC,U,-16731116
+82,74,"novaeseelandiae","Hemiphaga","New Zealand Pigeon",NT,U,-12486656

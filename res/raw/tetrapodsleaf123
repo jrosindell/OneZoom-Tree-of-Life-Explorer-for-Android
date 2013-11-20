@@ -1,111 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"fusca","Porzana","Ruddy-breasted Crake",LC,U,-16731116
-12,10,"tenebrosa","Gallinula","Dusky Moorhen",LC,U,-16731116
-13,9,"fluminea","Porzana","Australian Crake",LC,U,-16731116
-15,14,"silvestris","Gallinula","Makira Moorhen",CR,U,-3014646
-16,14,"pusilla","Porzana","Baillon's Crake",LC,U,-16731116
-18,17,"paykullii","Porzana","Band-bellied Crake",NT,U,-12486656
-19,17,"atra","Porzana","Henderson Crake",VU,U,-11184866
-23,22,"cerverai","Cyanolimnas","Zapata Rail",CR,U,-3014646
-24,22,"alai","Fulica","Hawaiian Coot",VU,U,-11184866
-25,21,"mortierii","Gallinula","Tasmanian Native-hen",LC,U,-16731116
-27,26,"albicollis","Porzana","Ash-throated Crake",LC,U,-16731116
-28,26,"tabuensis","Porzana","Spotless Crake",LC,U,-16731116
-31,30,"kioloides","Canirallus","Madagascar Wood Rail",LC,U,-16731116
-32,30,"oculeus","Canirallus","Grey-throated Rail",LC,U,-16731116
-33,29,"cristata","Fulica","Red-knobbed Coot",LC,U,-16731116
-38,37,"castaneiceps","Anurolimnas","Chestnut-headed Crake",LC,U,-16731116
-39,37,"viridis","Anurolimnas","Russet-crowned Crake",LC,U,-16731116
-40,36,"fasciatus","Anurolimnas","Black-banded Crake",LC,U,-16731116
-41,35,"leucoptera","Fulica","White-winged Coot",LC,U,-16731116
-42,34,"caribaea","Fulica","Caribbean Coot",NT,U,-12486656
-50,49,"ardesiaca","Fulica","Slate-coloured Coot",LC,U,-16731116
-51,49,"americana","Fulica","American Coot",LC,U,-16731116
-52,48,"atra","Fulica","Common Coot",LC,U,-16731116
-54,53,"armillata","Fulica","Red-gartered Coot",LC,U,-16731116
-55,53,"gigantea","Fulica","Giant Coot",LC,U,-16731116
-57,56,"angulata","Gallinula","Lesser Moorhen",LC,U,-16731116
-58,56,"cornuta","Fulica","Horned Coot",NT,U,-12486656
-60,59,"ventralis","Gallinula","Black-tailed Native-hen",LC,U,-16731116
-61,59,"rufifrons","Fulica","Red-fronted Coot",LC,U,-16731116
-63,62,"chloropus","Gallinula","Common Moorhen",LC,U,-16731116
-64,62,"nesiotis","Gallinula","Gough Moorhen",VU,U,-11184866
-71,70,"rogersi","Atlantisia","Inaccessible Rail",VU,U,-11184866
-72,70,"cinerea","Porzana","White-browed Crake",LC,U,-16731116
-73,69,"spiloptera","Porzana","Dot-winged Crake",VU,U,-11184866
-74,68,"carolina","Porzana","Sora",LC,U,-16731116
-76,75,"flaviventer","Porzana","Yellow-breasted Crake",LC,U,-16731116
-77,75,"melanops","Gallinula","Spot-flanked Gallinule",LC,U,-16731116
-79,78,"porzana","Porzana","Spotted Crake",LC,U,-16731116
-80,78,"parva","Porzana","Little Crake",LC,U,-16731116
-81,65,"castaneoventris","Eulabeornis","Chestnut Rail",LC,U,-16731116
-91,90,"sylvestris","Gallirallus","Lord Howe Woodhen",EN,U,-8572416
-92,90,"owstoni","Gallirallus","Guam Rail",EW,U,-12832121
-93,89,"philippensis","Gallirallus","Buff-banded Rail",LC,U,-16731116
-96,95,"calayanensis","Gallirallus","Calayan Rail",VU,U,-11184866
-97,95,"okinawae","Gallirallus","Okinawa Rail",EN,U,-8572416
-98,94,"australis","Gallirallus","Weka",VU,U,-11184866
-100,99,"insignis","Gallirallus","New Britain Rail",NT,U,-12486656
-101,99,"rovianae","Gallirallus","Roviana Rail",NT,U,-12486656
-103,102,"striatus","Gallirallus","Slaty-breasted Rail",LC,U,-16731116
-104,102,"torquatus","Gallirallus","Barred Rail",LC,U,-16731116
-106,105,"inepta","Megacrex","New Guinea Flightless Rail",NT,U,-12486656
-107,105,"crex","Crex","Corncrake",LC,U,-16731116
-112,111,"madagascariensis","Rallus","Madagascar Rail",VU,U,-11184866
-113,111,"limicola","Rallus","Virginia Rail",LC,U,-16731116
-114,110,"caerulescens","Rallus","African Water Rail",LC,U,-16731116
-117,116,"wetmorei","Rallus","Plain-flanked Rail",EN,U,-8572416
-118,116,"aquaticus","Rallus","Water Rail",LC,U,-16731116
-119,115,"semiplumbeus","Rallus","Bogota Rail",EN,U,-8572416
-122,121,"longirostris","Rallus","Clapper Rail",LC,U,-16731116
-123,121,"elegans","Rallus","King Rail",LC,U,-16731116
-124,120,"antarcticus","Rallus","Austral Rail",VU,U,-11184866
-130,129,"flavirostra","Amaurornis","Black Crake",LC,U,-16731116
-131,129,"akool","Amaurornis","Brown Crake",LC,U,-16731116
-132,128,"moluccana","Amaurornis","Rufous-tailed Waterhen",LC,U,-16731116
-134,133,"isabellina","Amaurornis","Isabelline Waterhen",LC,U,-16731116
-135,133,"magnirostris","Amaurornis","Talaud Bush-hen",VU,U,-11184866
-137,136,"phoenicurus","Amaurornis","White-breasted Waterhen",LC,U,-16731116
-138,136,"olivacea","Amaurornis","Bush-hen",LC,U,-16731116
-140,139,"bicolor","Amaurornis","Black-tailed Crake",LC,U,-16731116
-141,139,"olivieri","Amaurornis","Sakalava Rail",EN,U,-8572416
-142,82,"haematopus","Himantornis","Nkulengu Rail",LC,U,-16731116
-147,146,"saracura","Aramides","Slaty-breasted Wood-rail",LC,U,-16731116
-148,146,"axillaris","Aramides","Rufous-necked Wood-rail",LC,U,-16731116
-150,149,"cajanea","Aramides","Grey-necked Wood-rail",LC,U,-16731116
-151,149,"ypecaha","Aramides","Giant Wood-rail",LC,U,-16731116
-154,153,"mangle","Aramides","Little Wood-rail",LC,U,-16731116
-155,153,"wolfi","Aramides","Brown Wood-rail",VU,U,-11184866
-156,152,"calopterus","Aramides","Red-winged Wood-rail",LC,U,-16731116
-159,158,"nigricans","Pardirallus","Blackish Rail",LC,U,-16731116
-160,158,"maculatus","Pardirallus","Spotted Rail",LC,U,-16731116
-161,157,"sanguinolentus","Pardirallus","Plumbeous Rail",LC,U,-16731116
-172,171,"levraudi","Laterallus","Rusty-flanked Crake",EN,U,-8572416
-173,171,"spilonotus","Laterallus","Galapagos Rail",VU,U,-11184866
-174,170,"xenopterus","Laterallus","Rufous-faced Crake",VU,U,-11184866
-175,169,"melanophaius","Laterallus","Rufous-sided Crake",LC,U,-16731116
-177,176,"leucopyrrhus","Laterallus","Red-and-white Crake",LC,U,-16731116
-178,176,"albigularis","Laterallus","White-throated Crake",LC,U,-16731116
-180,179,"exilis","Laterallus","Grey-breasted Crake",LC,U,-16731116
-181,179,"ruber","Laterallus","Ruddy Crake",LC,U,-16731116
-183,182,"jamaicensis","Laterallus","Black Rail",NT,U,-12486656
-184,182,"tuerosi","Laterallus","Junin Rail",EN,U,-8572416
-187,186,"exquisitus","Coturnicops","Swinhoe's Rail",VU,U,-11184866
-188,186,"notatus","Coturnicops","Speckled Rail",LC,U,-16731116
-189,185,"noveboracensis","Coturnicops","Yellow Rail",LC,U,-16731116
-192,191,"plumbeiventris","Gymnocrex","Bare-eyed Rail",LC,U,-16731116
-193,191,"rosenbergii","Gymnocrex","Blue-faced Rail",VU,U,-11184866
-194,190,"talaudensis","Gymnocrex","Talaud Rail",EN,U,-8572416
-199,198,"forbesi","Rallina","Forbes's Forest-rail",LC,U,-16731116
-200,198,"mayri","Rallina","Mayr's Forest-rail",DD,U,-11513776
-201,197,"fasciata","Rallina","Red-legged Crake",LC,U,-16731116
-203,202,"leucospila","Rallina","White-striped Forest-rail",NT,U,-12486656
-204,202,"canningi","Rallina","Andaman Crake",NT,U,-12486656
-207,206,"eurizonoides","Rallina","Slaty-legged Crake",LC,U,-16731116
-208,206,"tricolor","Rallina","Red-necked Crake",LC,U,-16731116
-209,205,"rubra","Rallina","Chestnut Forest-rail",LC,U,-16731116
-213,212,"porphyrio","Porphyrio","Purple Swamphen",LC,U,-16731116
-214,212,"hochstetteri","Porphyrio","Takahe",EN,U,-8572416
-215,211,"alleni","Porphyrio","Allen's Gallinule",LC,U,-16731116
-217,216,"martinica","Porphyrio","Yellow-legged Gallinule",LC,U,-16731116
-218,216,"flavirostris","Porphyrio","Azure Gallinule",LC,U,-16731116
+10,9,"rutilus","Otus","Malagasy Scops-owl",LC,U,-16731116
+11,9,"capnodes","Otus","Anjouan Scops-owl",CR,U,-3014646
+12,8,"mayottensis","Otus","Mayotte Scops-owl",LC,U,-16731116
+14,13,"pauliani","Otus","Grand Comoro Scops-owl",CR,U,-3014646
+15,13,"moheliensis","Otus","Moheli Scops-owl",CR,U,-3014646
+17,16,"insularis","Otus","Seychelles Scops-owl",EN,U,-8572416
+18,16,"sunia","Otus","Oriental Scops-owl",LC,U,-16731116
+20,19,"longicornis","Otus","Luzon Scops-owl",NT,U,-12486656
+21,19,"mirus","Otus","Mindanao Scops-owl",NT,U,-12486656
+24,23,"elegans","Otus","Elegant Scops-owl",NT,U,-12486656
+25,23,"collari","Otus","Sangihe Scops-owl",LC,U,-16731116
+26,22,"icterorhynchus","Otus","Sandy Scops-owl",LC,U,-16731116
+32,31,"senegalensis","Otus","African Scops-owl",LC,U,-16731116
+33,31,"siaoensis","Otus","Siau Scops-owl",CR,U,-3014646
+34,30,"pembaensis","Otus","Pemba Scops-owl",VU,U,-11184866
+36,35,"silvicola","Otus","Wallace's Scops-owl",LC,U,-16731116
+37,35,"scops","Otus","Common Scops-owl",LC,U,-16731116
+38,28,"hartlaubi","Otus","Sao Tome Scops-owl",VU,U,-11184866
+39,27,"enganensis","Otus","Enggano Scops-owl",NT,U,-12486656
+40,2,"fuliginosus","Otus","Palawan Scops-owl",NT,U,-12486656
+46,45,"megalotis","Otus","Philippine Scops-owl",LC,U,-16731116
+47,45,"rufescens","Otus","Reddish Scops-owl",NT,U,-12486656
+48,44,"podarginus","Otus","Palau Scops-owl",LC,U,-16731116
+49,43,"semitorques","Otus","Japanese Scops Owl",_U,[,-16777216
+53,52,"bakkamoena","Otus","Collared Scops-owl",LC,U,-16731116
+54,52,"lempiji","Otus","Sunda Scops Owl",_U,[,-16777216
+55,51,"lettia","Otus","Collared Scops Owl",_U,[,-16777216
+56,50,"gurneyi","Mimizuku","Giant Scops-owl",VU,U,-11184866
+58,57,"spilocephalus","Otus","Mountain Scops-owl",LC,U,-16731116
+59,57,"umbra","Otus","Simeulue Scops-owl",NT,U,-12486656
+62,61,"mantananensis","Otus","Mantanani Scops-owl",NT,U,-12486656
+63,61,"brucei","Otus","Pallid Scops-owl",LC,U,-16731116
+64,60,"beccarii","Otus","Biak Scops-owl",EN,U,-8572416

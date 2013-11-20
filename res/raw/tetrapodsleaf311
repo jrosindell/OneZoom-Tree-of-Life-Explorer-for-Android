@@ -1,0 +1,77 @@
+index,parent,name1,name2,common,redlist,popstab,color
+30,29,"maculatus","Pedostibes","",NE,U,-16777216
+31,29,"kempi","Pedostibes","",DD,U,-11513776
+32,28,"rugosus","Pedostibes","",NT,D,-12486656
+34,33,"tuberculosus","Pedostibes","",EN,D,-8572416
+35,33,"everetti","Pedostibes","",DD,U,-11513776
+36,26,"hosii","Pedostibes","",LC,D,-16731116
+38,37,"aspera","Phrynoidis","Asian Giant Toad",LC,D,-16731116
+39,37,"juxtaspera","Phrynoidis","",LC,U,-16731116
+46,45,"mertensiana","Werneria","",EN,D,-8572416
+47,45,"preussi","Werneria","",EN,U,-8572416
+48,44,"bambutensis","Werneria","",EN,D,-8572416
+50,49,"submontana","Werneria","",EN,D,-8572416
+51,49,"iboundji","Werneria","",CR,D,-3014646
+52,42,"tandyi","Werneria","",EN,D,-8572416
+54,53,"batesii","Nectophryne","Bates' Tree Toad",LC,D,-16731116
+55,53,"afra","Nectophryne","African Tree Toad",LC,D,-16731116
+58,57,"chirioi","Wolterstorffina","",CR,D,-3014646
+59,57,"mirei","Wolterstorffina","",EN,D,-8572416
+60,56,"parvipalmata","Wolterstorffina","",VU,D,-11184866
+64,63,"caeruleostictus","Rhaebo","",EN,D,-8572416
+65,63,"guttatus","Rhaebo","",LC,S,-16731116
+67,66,"haematiticus","Rhaebo","",LC,D,-16731116
+68,66,"nasicus","Rhaebo","",LC,S,-16731116
+71,70,"glaberrimus","Rhaebo","",LC,S,-16731116
+72,70,"blombergi","Rhaebo","",NT,D,-12486656
+74,73,"anderssoni","Rhaebo","",LC,S,-16731116
+75,73,"hypomelas","Rhaebo","",NT,D,-12486656
+79,78,"brevipollicatus","Dendrophryniscus","",LC,D,-16731116
+80,78,"berthalutzae","Dendrophryniscus","",LC,D,-16731116
+82,81,"leucomystax","Dendrophryniscus","",LC,D,-16731116
+83,81,"bokermanni","Dendrophryniscus","",LC,S,-16731116
+86,85,"carvalhoi","Dendrophryniscus","",EN,D,-8572416
+87,85,"minutus","Dendrophryniscus","",LC,S,-16731116
+88,84,"stawiarskyi","Dendrophryniscus","",DD,U,-11513776
+97,96,"cupreuscapularis","Melanophryniscus","",NT,D,-12486656
+98,96,"krauczuki","Melanophryniscus","",DD,U,-11513776
+99,95,"tumifrons","Melanophryniscus","",LC,U,-16731116
+101,100,"spectabilis","Melanophryniscus","",LC,U,-16731116
+102,100,"atroluteus","Melanophryniscus","",LC,D,-16731116
+103,93,"devincenzii","Melanophryniscus","",EN,D,-8572416
+107,106,"orejasmirandai","Melanophryniscus","",VU,S,-11184866
+108,106,"klappenbachi","Melanophryniscus","",LC,S,-16731116
+110,109,"dorsalis","Melanophryniscus","",VU,D,-11184866
+111,109,"simplex","Melanophryniscus","",DD,U,-11513776
+112,104,"macrogranulosus","Melanophryniscus","",VU,D,-11184866
+114,113,"montevidensis","Melanophryniscus","",VU,D,-11184866
+115,113,"stelzneri","Melanophryniscus","",LC,S,-16731116
+117,116,"fulvoguttatus","Melanophryniscus","",LC,U,-16731116
+118,116,"moreirae","Melanophryniscus","",NT,S,-12486656
+122,121,"cambaraensis","Melanophryniscus","",DD,D,-11513776
+123,121,"pachyrhynus","Melanophryniscus","",DD,U,-11513776
+124,120,"sanmartini","Melanophryniscus","",NT,S,-12486656
+125,119,"rubriventris","Melanophryniscus","",LC,S,-16731116
+130,129,"proboscideus","Hemiphractus","",LC,D,-16731116
+131,129,"johnsoni","Hemiphractus","",EN,D,-8572416
+132,128,"helioi","Hemiphractus","",LC,D,-16731116
+133,127,"bubalus","Hemiphractus","",NT,D,-12486656
+135,134,"fasciatus","Hemiphractus","",NT,D,-12486656
+136,134,"scutatus","Hemiphractus","",LC,D,-16731116
+140,139,"gardineri","Sooglossus","Gardiner's Seychelles frog",NE,U,-16777216
+141,139,"thomasseti","Sooglossus","",VU,U,-11184866
+143,142,"pipilodryas","Sooglossus","Seychelles palm frog",NE,U,-16777216
+144,142,"sechellensis","Sooglossus","",VU,U,-11184866
+145,137,"sahyadrensis","Nasikabatrachus","Purple frog",EN,D,-8572416
+150,149,"hewitti","Heleophryne","Hewitt's Ghost Frog",CR,D,-3014646
+151,149,"regis","Heleophryne","Royal Ghost Frog",LC,S,-16731116
+152,148,"orientalis","Heleophryne","Eastern Ghost Frog",LC,S,-16731116
+153,147,"purcelli","Heleophryne","Purcell's Ghost Frog",LC,S,-16731116
+155,154,"rosei","Heleophryne","Table Mountain Ghost Frog",CR,D,-3014646
+156,154,"natalensis","Heleophryne","Natal Ghost Frog",LC,D,-16731116
+161,160,"hamiltoni","Leiopelma","Hamilton's Frog",EN,S,-8572416
+162,160,"pakeka","Leiopelma","Maud Island Frog",VU,S,-11184866
+163,159,"archeyi","Leiopelma","Archey's Frog",CR,D,-3014646
+164,158,"hochstetteri","Leiopelma","Hochstetter's Frog",VU,D,-11184866
+166,165,"montanus","Ascaphus","Inland Tailed Frog",LC,U,-16731116
+167,165,"truei","Ascaphus","Coastal Tailed Frog",LC,U,-16731116

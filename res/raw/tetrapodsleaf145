@@ -1,106 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"megala","Gallinago","Swinhoe's Snipe",LC,U,-16731116
-15,13,"stenura","Gallinago","Pintail Snipe",LC,U,-16731116
-17,16,"solitaria","Gallinago","Solitary Snipe",LC,U,-16731116
-18,16,"media","Gallinago","Great Snipe",NT,U,-12486656
-20,19,"stricklandii","Gallinago","Fuegian Snipe",NT,U,-12486656
-21,19,"imperialis","Gallinago","Imperial Snipe",NT,U,-12486656
-23,22,"undulata","Gallinago","Giant Snipe",LC,U,-16731116
-24,22,"andina","Gallinago","Puna Snipe",LC,U,-16731116
-25,9,"jamesoni","Gallinago","Andean Snipe",LC,U,-16731116
-31,30,"nigripennis","Gallinago","African Snipe",LC,U,-16731116
-32,30,"nemoricola","Gallinago","Wood Snipe",VU,U,-11184866
-33,29,"paraguaiae","Gallinago","South American Snipe",LC,U,-16731116
-34,28,"gallinago","Gallinago","Common Snipe",LC,U,-16731116
-35,27,"hardwickii","Gallinago","Latham's Snipe",LC,U,-16731116
-37,36,"macrodactyla","Gallinago","Madagascar Snipe",VU,U,-11184866
-38,36,"nobilis","Gallinago","Noble Snipe",LC,U,-16731116
-40,39,"aucklandica","Coenocorypha","New Zealand Snipe",NT,U,-12486656
-41,39,"pusilla","Coenocorypha","Chatham Snipe",VU,U,-11184866
-46,45,"rosenbergii","Scolopax","New Guinea Woodcock",LC,U,-16731116
-47,45,"rusticola","Scolopax","Eurasian Woodcock",LC,U,-16731116
-49,48,"rochussenii","Scolopax","Moluccan Woodcock",EN,U,-8572416
-50,48,"celebensis","Scolopax","Sulawesi Woodcock",NT,U,-12486656
-52,51,"minor","Scolopax","American Woodcock",LC,U,-16731116
-53,51,"mira","Scolopax","Ryukyu Woodcock",VU,U,-11184866
-55,54,"bukidnonensis","Scolopax","Philippine Woodcock",LC,U,-16731116
-56,54,"saturata","Scolopax","Javan Woodcock",NT,U,-12486656
-59,58,"scolopaceus","Limnodromus","Long-billed Dowitcher",LC,U,-16731116
-60,58,"semipalmatus","Limnodromus","Asian Dowitcher",NT,U,-12486656
-61,57,"griseus","Limnodromus","Short-billed Dowitcher",LC,U,-16731116
-70,69,"melanoleuca","Tringa","Greater Yellowlegs",LC,U,-16731116
-71,69,"nebularia","Tringa","Common Greenshank",LC,U,-16731116
-73,72,"guttifer","Tringa","Spotted Greenshank",EN,U,-8572416
-74,72,"erythropus","Tringa","Spotted Redshank",LC,U,-16731116
-77,76,"glareola","Tringa","Wood Sandpiper",LC,U,-16731116
-78,76,"totanus","Tringa","Common Redshank",LC,U,-16731116
-79,75,"stagnatilis","Tringa","Marsh Sandpiper",LC,U,-16731116
-81,80,"semipalmatus","Catoptrophorus","Willet",LC,U,-16731116
-82,80,"flavipes","Tringa","Lesser Yellowlegs",LC,U,-16731116
-84,83,"brevipes","Heteroscelus","Grey-tailed Tattler",LC,U,-16731116
-85,83,"incanus","Heteroscelus","Wandering Tattler",LC,U,-16731116
-87,86,"solitaria","Tringa","Solitary Sandpiper",LC,U,-16731116
-88,86,"ochropus","Tringa","Green Sandpiper",LC,U,-16731116
-90,89,"macularius","Actitis","Spotted Sandpiper",LC,U,-16731116
-91,89,"hypoleucos","Actitis","Common Sandpiper",LC,U,-16731116
-95,94,"lobatus","Phalaropus","Red-necked Phalarope",LC,U,-16731116
-96,94,"fulicarius","Phalaropus","Red Phalarope",LC,U,-16731116
-97,93,"tricolor","Steganopus","Wilson's Phalarope",LC,U,-16731116
-98,92,"cinereus","Xenus","Terek Sandpiper",LC,U,-16731116
-110,109,"pusilla","Calidris","Semipalmated Sandpiper",LC,U,-16731116
-111,109,"mauri","Calidris","Western Sandpiper",LC,U,-16731116
-112,108,"acuminata","Calidris","Sharp-tailed Sandpiper",LC,U,-16731116
-113,107,"ruficollis","Calidris","Red-necked Stint",LC,U,-16731116
-117,116,"minuta","Calidris","Little Stint",LC,U,-16731116
-118,116,"alba","Calidris","Sanderling",LC,U,-16731116
-119,115,"fuscicollis","Calidris","White-rumped Sandpiper",LC,U,-16731116
-120,114,"minutilla","Calidris","Least Sandpiper",LC,U,-16731116
-123,122,"ptilocnemis","Calidris","Rock Sandpiper",LC,U,-16731116
-124,122,"maritima","Calidris","Purple Sandpiper",LC,U,-16731116
-125,121,"alpina","Calidris","Dunlin",LC,U,-16731116
-129,128,"subruficollis","Tryngites","Buff-breasted Sandpiper",NT,U,-12486656
-130,128,"bairdii","Calidris","Baird's Sandpiper",LC,U,-16731116
-131,127,"himantopus","Calidris","Stilt Sandpiper",LC,U,-16731116
-132,126,"melanotos","Calidris","Pectoral Sandpiper",LC,U,-16731116
-134,133,"temminckii","Calidris","Temminck's Stint",LC,U,-16731116
-135,133,"subminuta","Calidris","Long-toed Stint",LC,U,-16731116
-136,102,"ferruginea","Calidris","Curlew Sandpiper",LC,U,-16731116
-141,140,"tenuirostris","Calidris","Great Knot",VU,U,-11184866
-142,140,"virgata","Aphriza","Surfbird",LC,U,-16731116
-143,139,"canutus","Calidris","Red Knot",LC,U,-16731116
-144,138,"cancellata","Prosobonia","Tuamotu Sandpiper",EN,U,-8572416
-146,145,"falcinellus","Limicola","Broad-billed Sandpiper",LC,U,-16731116
-147,145,"pugnax","Philomachus","Ruff",LC,U,-16731116
-148,100,"pygmeus","Eurynorhynchus","Spoon-billed Sandpiper",CR,U,-3014646
-150,149,"melanocephala","Arenaria","Black Turnstone",LC,U,-16731116
-151,149,"interpres","Arenaria","Ruddy Turnstone",LC,U,-16731116
-156,155,"haemastica","Limosa","Hudsonian Godwit",LC,U,-16731116
-157,155,"fedoa","Limosa","Marbled Godwit",LC,U,-16731116
-158,154,"limosa","Limosa","Black-tailed Godwit",NT,U,-12486656
-159,153,"lapponica","Limosa","Bar-tailed Godwit",LC,U,-16731116
-160,152,"minimus","Lymnocryptes","Jack Snipe",LC,U,-16731116
-167,166,"arquata","Numenius","Eurasian Curlew",NT,U,-12486656
-168,166,"minutus","Numenius","Little Curlew",LC,U,-16731116
-169,165,"madagascariensis","Numenius","Far Eastern Curlew",VU,U,-11184866
-170,164,"borealis","Numenius","Eskimo Curlew",CR,U,-3014646
-171,163,"americanus","Numenius","Long-billed Curlew",LC,U,-16731116
-174,173,"tenuirostris","Numenius","Slender-billed Curlew",CR,U,-3014646
-175,173,"phaeopus","Numenius","Whimbrel",LC,U,-16731116
-176,172,"tahitiensis","Numenius","Bristle-thighed Curlew",VU,U,-11184866
-177,161,"longicauda","Bartramia","Upland Sandpiper",LC,U,-16731116
-184,183,"gallinacea","Irediparra","Comb-crested Jacana",LC,U,-16731116
-185,183,"capensis","Microparra","Lesser Jacana",LC,U,-16731116
-186,182,"indicus","Metopidius","Bronze-winged Jacana",LC,U,-16731116
-188,187,"albinucha","Actophilornis","Madagascar Jacana",LC,U,-16731116
-189,187,"africanus","Actophilornis","African Jacana",LC,U,-16731116
-192,191,"spinosa","Jacana","Northern Jacana",LC,U,-16731116
-193,191,"jacana","Jacana","Wattled Jacana",LC,U,-16731116
-194,190,"chirurgus","Hydrophasianus","Pheasant-tailed Jacana",LC,U,-16731116
-197,196,"australis","Rostratula","Australian Painted Snipe",EN,U,-8572416
-198,196,"benghalensis","Rostratula","Greater Painted-snipe",LC,U,-16731116
-199,195,"semicollaris","Rostratula","South American Painted-snipe",LC,U,-16731116
-203,202,"orbignyianus","Thinocorus","Grey-breasted Seedsnipe",LC,U,-16731116
-204,202,"rumicivorus","Thinocorus","Least Seedsnipe",LC,U,-16731116
-206,205,"malouinus","Attagis","White-bellied Seedsnipe",LC,U,-16731116
-207,205,"gayi","Attagis","Rufous-bellied Seedsnipe",LC,U,-16731116
-208,200,"torquatus","Pedionomus","Plains-wanderer",EN,U,-8572416
+7,6,"livingstonii","Tauraco","Livingstone's Turaco",LC,U,-16731116
+8,6,"fischeri","Tauraco","Fischer's Turaco",NT,U,-12486656
+9,5,"corythaix","Tauraco","Knysna Turaco",LC,U,-16731116
+12,11,"hartlaubi","Tauraco","Hartlaub's Turaco",LC,U,-16731116
+13,11,"schalowi","Tauraco","Schalow's Turaco",LC,U,-16731116
+14,10,"schuetti","Tauraco","Black-billed Turaco",LC,U,-16731116
+18,17,"erythrolophus","Tauraco","Red-crested Turaco",LC,U,-16731116
+19,17,"leucolophus","Tauraco","White-crested Turaco",LC,U,-16731116
+20,16,"bannermani","Tauraco","Bannerman's Turaco",EN,U,-8572416
+21,15,"leucotis","Tauraco","White-cheeked Turaco",LC,U,-16731116
+26,25,"violacea","Musophaga","Violet Turaco",LC,U,-16731116
+27,25,"persa","Tauraco","Guinea Turaco",LC,U,-16731116
+28,24,"rossae","Musophaga","Ross's Turaco",LC,U,-16731116
+29,23,"macrorhynchus","Tauraco","Yellow-billed Turaco",LC,U,-16731116
+30,22,"ruspolii","Tauraco","Prince Ruspoli's Turaco",VU,U,-11184866
+32,31,"porphyreolophus","Tauraco","Purple-crested Turaco",LC,U,-16731116
+33,31,"johnstoni","Ruwenzorornis","Ruwenzori Turaco",LC,U,-16731116
+38,37,"personatus","Corythaixoides","Bare-faced Go-away-bird",LC,U,-16731116
+39,37,"concolor","Corythaixoides","Grey Go-away-bird",LC,U,-16731116
+40,36,"leucogaster","Corythaixoides","White-bellied Go-away-bird",LC,U,-16731116
+42,41,"piscator","Crinifer","Western Grey Plantain-eater",LC,U,-16731116
+43,41,"zonurus","Crinifer","Eastern Grey Plantain-eater",LC,U,-16731116
+44,34,"cristata","Corythaeola","Great Blue Turaco",LC,U,-16731116

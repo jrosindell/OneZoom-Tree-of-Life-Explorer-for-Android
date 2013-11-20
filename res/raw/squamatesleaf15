@@ -1,0 +1,35 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"vittifer","Cordylus","",NE,U,-16777216
+12,10,"peersi","Cordylus","",NE,U,-16777216
+13,9,"giganteus","Cordylus","Giant Girdled Lizard",VU,U,-11184866
+14,8,"warreni","Cordylus","",NE,U,-16777216
+18,17,"cordylus","Cordylus","",NE,U,-16777216
+19,17,"niger","Cordylus","",NE,U,-16777216
+20,16,"macropholis","Cordylus","",NE,U,-16777216
+21,15,"tropidosternum","Cordylus","",NE,U,-16777216
+23,22,"cataphractus","Cordylus","Armadillo Girdled Lizard",VU,U,-11184866
+24,22,"polyzonus","Cordylus","",NE,U,-16777216
+25,5,"caeruleopunctatus","Cordylus","",NE,U,-16777216
+27,26,"microlepidotus","Cordylus","",NE,U,-16777216
+28,26,"namaquensis","Cordylus","",NE,U,-16777216
+29,3,"spinosus","Cordylus","",NE,U,-16777216
+33,32,"intermedius","Platysaurus","",NE,U,-16777216
+34,32,"capensis","Platysaurus","",NE,U,-16777216
+35,31,"maculatus","Platysaurus","",NE,U,-16777216
+36,30,"guttatus","Platysaurus","",NE,U,-16777216
+38,37,"macrolepis","Chamaesaura","",NE,U,-16777216
+39,37,"anguina","Chamaesaura","",NE,U,-16777216
+47,46,"nigrolineatus","Gerrhosaurus","",NE,U,-16777216
+48,46,"flavigularis","Gerrhosaurus","",NE,U,-16777216
+49,45,"validus","Gerrhosaurus","",NE,U,-16777216
+50,44,"major","Gerrhosaurus","",NE,U,-16777216
+51,43,"skoogi","Gerrhosaurus","",NE,U,-16777216
+54,53,"tetradactylus","Tetradactylus","",NE,U,-16777216
+55,53,"africanus","Tetradactylus","",NE,U,-16777216
+56,52,"seps","Tetradactylus","",NE,U,-16777216
+60,59,"maximus","Zonosaurus","",NE,U,-16777216
+61,59,"ornatus","Zonosaurus","",NE,U,-16777216
+62,58,"madagascariensis","Zonosaurus","Madagascar Girdled Lizard",LC,S,-16731116
+64,63,"madagascariensis","Tracheloptychus","",NE,U,-16777216
+65,63,"petersi","Tracheloptychus","",NE,U,-16777216
+66,40,"subtesselatus","Cordylosaurus","",NE,U,-16777216

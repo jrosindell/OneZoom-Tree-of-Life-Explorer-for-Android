@@ -1,0 +1,31 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"attenuatus","Ophisaurus","Slender Glass Lizard",LC,S,-16731116
+9,7,"ventralis","Ophisaurus","Eastern Glass Lizard",LC,S,-16731116
+10,6,"compressus","Ophisaurus","Island Glass Lizard",LC,D,-16731116
+12,11,"sokolovi","Ophisaurus","",NE,U,-16777216
+13,11,"gracilis","Ophisaurus","",NE,U,-16777216
+14,4,"harti","Ophisaurus","",NE,U,-16777216
+17,16,"intermedius","Ophiodes","",NE,U,-16777216
+18,16,"vertebralis","Ophiodes","",NE,U,-16777216
+19,15,"striatus","Ophiodes","",NE,U,-16777216
+24,23,"millepunctatus","Diploglossus","",NE,U,-16777216
+25,23,"bilobatus","Diploglossus","",NE,U,-16777216
+27,26,"delasagra","Diploglossus","",NE,U,-16777216
+28,26,"pleei","Diploglossus","",NE,U,-16777216
+30,29,"darlingtoni","Diploglossus","",NE,U,-16777216
+31,29,"curtisi","Diploglossus","",NE,U,-16777216
+33,32,"fasciatus","Diploglossus","",NE,U,-16777216
+34,32,"lessonae","Diploglossus","",NE,U,-16777216
+37,36,"sepsoides","Sauresia","",NE,U,-16777216
+38,36,"haetiana","Wetmorena","",NE,U,-16777216
+39,35,"fragilis","Anguis","",NE,U,-16777216
+46,45,"occiduus","Celestus","Jamaica Giant Galliwasp",EX,U,-16777036
+47,45,"hewardii","Celestus","",NE,U,-16777216
+48,44,"badius","Celestus","",NE,U,-16777216
+50,49,"crusculus","Celestus","",NE,U,-16777216
+51,49,"barbouri","Celestus","",NE,U,-16777216
+52,42,"fowleri","Celestus","",DD,U,-11513776
+54,53,"rozellae","Celestus","",NT,D,-12486656
+55,53,"sternus","Celestus","",NE,U,-16777216
+57,56,"stenurus","Celestus","",NE,U,-16777216
+58,56,"costatus","Celestus","",NE,U,-16777216

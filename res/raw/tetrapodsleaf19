@@ -1,115 +1,40 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"hypogrammica","Stachyris","Palawan Striped-babbler",NT,U,-12486656
-11,9,"nigricollis","Stachyris","Black-throated Babbler",NT,U,-12486656
-14,13,"latistriata","Stachyris","Panay Striped-babbler",NT,U,-12486656
-15,13,"striata","Stachyris","Luzon Striped-babbler",NT,U,-12486656
-16,12,"whiteheadi","Stachyris","Chestnut-faced Babbler",LC,U,-16731116
-23,22,"longirostra","Rukia","Long-billed White-eye",NT,U,-12486656
-24,22,"ruki","Rukia","Faichuk White-eye",CR,U,-3014646
-25,21,"thoracica","Stachyris","White-bibbed Babbler",LC,U,-16731116
-26,20,"pygmaea","Stachyris","Visayan Pygmy Babbler",NT,U,-12486656
-27,19,"nigrocapitata","Stachyris","Black-crowned Babbler",LC,U,-16731116
-31,30,"speciosa","Dasycrotapha","Flame-templed Babbler",EN,U,-8572416
-32,30,"leucotis","Stachyris","White-necked Babbler",NT,U,-12486656
-33,29,"grammiceps","Stachyris","White-breasted Babbler",NT,U,-12486656
-34,28,"plateni","Stachyris","Mindanao Pygmy-babbler",NT,U,-12486656
-39,38,"dennistouni","Stachyris","Golden-crowned Babbler",NT,U,-12486656
-40,38,"nigrorum","Stachyris","Negros Striped-babbler",EN,U,-8572416
-41,37,"capitalis","Stachyris","Rusty-crowned Babbler",LC,U,-16731116
-42,36,"atriceps","Rhopocichla","Dark-fronted Babbler",LC,U,-16731116
-43,35,"nonggangensis","Stachyris","Nonggang Babbler",NT,U,-12486656
-50,49,"bakeri","Yuhina","White-naped Yuhina",LC,U,-16731116
-51,49,"humilis","Yuhina","Burmese Yuhina",LC,U,-16731116
-52,48,"flavicollis","Yuhina","Whiskered Yuhina",LC,U,-16731116
-54,53,"occipitalis","Yuhina","Rufous-vented Yuhina",LC,U,-16731116
-55,53,"gularis","Yuhina","Stripe-throated Yuhina",LC,U,-16731116
-57,56,"nigrimenta","Yuhina","Black-chinned Yuhina",LC,U,-16731116
-58,56,"brunneiceps","Yuhina","Taiwan Yuhina",LC,U,-16731116
-61,60,"torqueola","Yuhina","Indochinese Yuhina",LC,U,-16731116
-62,60,"castaniceps","Yuhina","Striated Yuhina",LC,U,-16731116
-63,59,"everetti","Yuhina","Chestnut-crested Yuhina",LC,U,-16731116
-64,44,"diademata","Yuhina","White-collared Yuhina",LC,U,-16731116
-68,67,"albiventer","Pnoepyga","Scaly-breasted Wren-babbler",LC,U,-16731116
-69,67,"immaculata","Pnoepyga","Nepal Wren-babbler",LC,U,-16731116
-71,70,"formosana","Pnoepyga","Taiwan Wren-babbler",LC,U,-16731116
-72,70,"pusilla","Pnoepyga","Pygmy Wren-babbler",LC,U,-16731116
-74,73,"poliothorax","Kakamega","Grey-chested Babbler",LC,U,-16731116
-75,73,"cinnamomeus","Hypocryptadius","Cinnamon Ibon",LC,U,-16731116
-76,2,"pyrrhoura","Myzornis","Fire-tailed Myzornis",LC,U,-16731116
-80,79,"langbianis","Crocias","Grey-crowned Crocias",EN,U,-8572416
-81,79,"albonotatus","Crocias","Spotted Crocias",NT,U,-12486656
-82,78,"nigricapillus","Lioptilus","Bush Blackcap",NT,U,-12486656
-83,77,"galinieri","Parophasma","Abyssinian Catbird",LC,U,-16731116
-94,93,"davidianus","Paradoxornis","Short-tailed Parrotbill",LC,U,-16731116
-95,93,"zappeyi","Paradoxornis","Grey-hooded Parrotbill",VU,U,-11184866
-96,92,"flavirostris","Paradoxornis","Black-breasted Parrotbill",VU,U,-11184866
-97,91,"atrosuperciliaris","Paradoxornis","Pale-billed Parrotbill",LC,U,-16731116
-98,90,"margaritae","Paradoxornis","Black-headed Parrotbill",NT,U,-12486656
-100,99,"przewalskii","Paradoxornis","Rusty-throated Parrotbill",VU,U,-11184866
-101,99,"nipalensis","Paradoxornis","Black-throated Parrotbill",LC,U,-16731116
-104,103,"guttaticollis","Paradoxornis","Spot-breasted Parrotbill",LC,U,-16731116
-105,103,"heudei","Paradoxornis","Reed Parrotbill",NT,U,-12486656
-107,106,"gularis","Paradoxornis","Grey-headed Parrotbill",LC,U,-16731116
-108,106,"verreauxi","Paradoxornis","Golden Parrotbill",LC,U,-16731116
-114,113,"webbianus","Paradoxornis","Vinous-throated Parrotbill",LC,U,-16731116
-115,113,"brunneus","Paradoxornis","Brown-winged Parrotbill",LC,U,-16731116
-116,112,"alphonsianus","Paradoxornis","Ashy-throated Parrotbill",LC,U,-16731116
-117,111,"paradoxus","Paradoxornis","Three-toed Parrotbill",LC,U,-16731116
-118,110,"ruficeps","Paradoxornis","Rufous-headed Parrotbill",LC,U,-16731116
-121,120,"conspicillatus","Paradoxornis","Spectacled Parrotbill",LC,U,-16731116
-122,120,"fulvifrons","Paradoxornis","Fulvous Parrotbill",LC,U,-16731116
-124,123,"unicolor","Paradoxornis","Brown Parrotbill",LC,U,-16731116
-125,123,"fasciata","Chamaea","Wrentit",LC,U,-16731116
-134,133,"manipurensis","Alcippe","Streak-throated Fulvetta",LC,U,-16731116
-135,133,"cinereiceps","Alcippe","Grey-hooded Fulvetta",LC,U,-16731116
-136,132,"formosana","Alcippe","Taiwan Fulvetta",LC,U,-16731116
-137,131,"vinipectus","Alcippe","White-browed Fulvetta",LC,U,-16731116
-139,138,"striaticollis","Alcippe","Chinese Fulvetta",LC,U,-16731116
-140,138,"klossi","Alcippe","Black-crowned Fulvetta",LC,U,-16731116
-141,129,"ruficapilla","Alcippe","Spectacled Fulvetta",LC,U,-16731116
-142,128,"pekinensis","Rhopophilus","White-browed Chinese Warbler",LC,U,-16731116
-145,144,"sinense","Chrysomma","Yellow-eyed Babbler",LC,U,-16731116
-146,144,"altirostre","Chrysomma","Jerdon's Babbler",VU,U,-11184866
-147,143,"poecilotis","Chrysomma","Rufous-tailed Babbler",LC,U,-16731116
-148,126,"chrysotis","Alcippe","Golden-breasted Fulvetta",LC,U,-16731116
-158,157,"leucomelaena","Sylvia","Arabian Warbler",LC,U,-16731116
-159,157,"hortensis","Sylvia","Orphean Warbler",LC,U,-16731116
-161,160,"lugens","Sylvia","Brown Warbler",LC,U,-16731116
-162,160,"buryi","Sylvia","Yemen Warbler",VU,U,-11184866
-163,155,"curruca","Sylvia","Lesser Whitethroat",LC,U,-16731116
-166,165,"subcaerulea","Sylvia","Rufous-vented Warbler",LC,U,-16731116
-167,165,"boehmi","Sylvia","Banded Warbler",LC,U,-16731116
-169,168,"layardi","Sylvia","Layard's Warbler",LC,U,-16731116
-170,168,"minula","Sylvia","Small Whitethroat",LC,U,-16731116
-172,171,"althaea","Sylvia","Hume's Whitethroat",LC,U,-16731116
-173,171,"nisoria","Sylvia","Barred Warbler",LC,U,-16731116
-178,177,"melanocephala","Sylvia","Sardinian Warbler",LC,U,-16731116
-179,177,"mystacea","Sylvia","Menetries's Warbler",LC,U,-16731116
-180,176,"cantillans","Sylvia","Subalpine Warbler",LC,U,-16731116
-182,181,"rueppelli","Sylvia","Rueppell's Warbler",LC,U,-16731116
-183,181,"melanothorax","Sylvia","Cyprus Warbler",LC,U,-16731116
-187,186,"deserticola","Sylvia","Tristram's Warbler",LC,U,-16731116
-188,186,"undata","Sylvia","Dartford Warbler",NT,U,-12486656
-189,185,"sarda","Sylvia","Marmora's Warbler",LC,U,-16731116
-191,190,"conspicillata","Sylvia","Spectacled Warbler",LC,U,-16731116
-192,190,"communis","Sylvia","Common Whitethroat",LC,U,-16731116
-193,151,"nana","Sylvia","Desert Warbler",LC,U,-16731116
-197,196,"abyssinica","Pseudoalcippe","African Hill Babbler",LC,U,-16731116
-198,196,"dohrni","Horizorhinus","Principe Thrush-babbler",LC,U,-16731116
-199,195,"borin","Sylvia","Garden Warbler",LC,U,-16731116
-200,194,"atricapilla","Sylvia","Blackcap",LC,U,-16731116
-201,149,"oemodium","Conostoma","Great Parrotbill",LC,U,-16731116
-207,206,"variegaticeps","Alcippe","Gold-fronted Fulvetta",VU,U,-11184866
-208,206,"cinerea","Alcippe","Yellow-throated Fulvetta",LC,U,-16731116
-210,209,"castaneceps","Alcippe","Rufous-winged Fulvetta",LC,U,-16731116
-211,209,"danisi","Alcippe","Indochinese Fulvetta",LC,U,-16731116
-213,212,"dubia","Alcippe","Rusty-capped Fulvetta",LC,U,-16731116
-214,212,"brunnea","Alcippe","Dusky Fulvetta",LC,U,-16731116
-217,216,"pyrrhoptera","Alcippe","Javan Fulvetta",LC,U,-16731116
-218,216,"ludlowi","Alcippe","Ludlow's Fulvetta",LC,U,-16731116
-219,215,"rufogularis","Alcippe","Rufous-throated Fulvetta",LC,U,-16731116
-223,222,"grotei","Alcippe","Black-browed Fulvetta",LC,U,-16731116
-224,222,"brunneicauda","Alcippe","Brown Fulvetta",NT,U,-12486656
-225,221,"nipalensis","Alcippe","Nepal Fulvetta",LC,U,-16731116
-227,226,"morrisonia","Alcippe","Grey-cheeked Fulvetta",LC,U,-16731116
-228,226,"peracensis","Alcippe","Mountain Fulvetta",LC,U,-16731116
+10,9,"cordofanicus","Passer","Kordofan Rufous-sparrow",LC,U,-16731116
+11,9,"eminibey","Passer","Chestnut Sparrow",LC,U,-16731116
+12,8,"shelleyi","Passer","Shelley's Rufous-sparrow",LC,U,-16731116
+15,14,"montanus","Passer","Eurasian Tree Sparrow",LC,U,-16731116
+16,14,"simplex","Passer","Desert Sparrow",LC,U,-16731116
+17,13,"rufocinctus","Passer","Kenya Rufous-sparrow",LC,U,-16731116
+21,20,"hispaniolensis","Passer","Spanish Sparrow",LC,U,-16731116
+22,20,"insularis","Passer","Socotra Sparrow",LC,U,-16731116
+23,19,"domesticus","Passer","House Sparrow",LC,U,-16731116
+25,24,"castanopterus","Passer","Somali Sparrow",LC,U,-16731116
+26,24,"iagoensis","Passer","Iago Sparrow",LC,U,-16731116
+30,29,"motitensis","Passer","Southern Rufous-sparrow",LC,U,-16731116
+31,29,"suahelicus","Passer","Swahili Sparrow",LC,U,-16731116
+33,32,"flaveolus","Passer","Plain-backed Sparrow",LC,U,-16731116
+34,32,"moabiticus","Passer","Dead Sea Sparrow",LC,U,-16731116
+36,35,"swainsonii","Passer","Swainson's Sparrow",LC,U,-16731116
+37,35,"luteus","Passer","Sudan Golden Sparrow",LC,U,-16731116
+40,39,"euchlorus","Passer","Arabian Golden Sparrow",LC,U,-16731116
+41,39,"rutilans","Passer","Russet Sparrow",LC,U,-16731116
+42,38,"diffusus","Passer","Southern Grey-headed Sparrow",LC,U,-16731116
+44,43,"hemileucus","Passer","Abd 'Al Kuri Sparrow",VU,U,-11184866
+45,43,"ammodendri","Passer","Saxaul Sparrow",LC,U,-16731116
+49,48,"pyrrhonotus","Passer","Sind Sparrow",LC,U,-16731116
+50,48,"melanurus","Passer","Cape Sparrow",LC,U,-16731116
+51,47,"gongonensis","Passer","Parrot-billed Sparrow",LC,U,-16731116
+52,46,"griseus","Passer","Northern Grey-headed Sparrow",LC,U,-16731116
+60,59,"blanfordi","Montifringilla","Plain-backed Snowfinch",LC,U,-16731116
+61,59,"davidiana","Montifringilla","Small Snowfinch",LC,U,-16731116
+62,58,"ruficollis","Montifringilla","Rufous-necked Snowfinch",LC,U,-16731116
+63,57,"theresae","Montifringilla","Afghan Snowfinch",LC,U,-16731116
+65,64,"nivalis","Montifringilla","White-winged Snowfinch",LC,U,-16731116
+66,64,"adamsi","Montifringilla","Black-winged Snowfinch",LC,U,-16731116
+67,55,"taczanowskii","Montifringilla","White-rumped Snowfinch",LC,U,-16731116
+68,54,"petronia","Petronia","Rock Sparrow",LC,U,-16731116
+72,71,"pyrgita","Petronia","Yellow-spotted Petronia",LC,U,-16731116
+73,71,"dentata","Petronia","Bush Petronia",LC,U,-16731116
+74,70,"xanthocollis","Petronia","Chestnut-shouldered Petronia",LC,U,-16731116
+75,69,"superciliaris","Petronia","Yellow-throated Petronia",LC,U,-16731116
+76,0,"brachydactyla","Petronia","Pale Rock Sparrow",LC,U,-16731116

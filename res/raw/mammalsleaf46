@@ -1,0 +1,66 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"recifinus","Platyrrhinus","Recife Broad-nosed Bat",LC,U,-16731116
+12,10,"infuscus","Platyrrhinus","Buffy Broad-nosed Bat",LC,U,-16731116
+13,9,"dorsalis","Platyrrhinus","Thomas's Broad-nosed Bat",LC,U,-16731116
+15,14,"umbratus","Platyrrhinus","Shadowy Broad-nosed Bat",DD,U,-11513776
+16,14,"vittatus","Platyrrhinus","Greater Broad-nosed Bat",LC,U,-16731116
+19,18,"helleri","Platyrrhinus","Heller's Broad-nosed Bat",LC,S,-16731116
+20,18,"chocoensis","Platyrrhinus","Choco Broad-nosed Bat",EN,D,-8572416
+21,17,"aurarius","Platyrrhinus","Eldorado Broad-nosed Bat",LC,S,-16731116
+23,22,"brachycephalus","Platyrrhinus","Short-headed Broad-nosed Bat",LC,S,-16731116
+24,22,"lineatus","Platyrrhinus","White-lined Bat",LC,S,-16731116
+25,5,"caraccioli","Vampyrodes","Great Stripe-faced Bat",LC,U,-16731116
+27,26,"magnirostrum","Uroderma","Brown Tent-making Bat",LC,S,-16731116
+28,26,"bilobatum","Uroderma","Tent-maiking Bat",LC,S,-16731116
+35,34,"thyone","Vampyressa","Northern Little Yellow-eared Bat",LC,U,-16731116
+36,34,"pusilla","Vampyressa","Little Yellow-eared Bat",DD,U,-11513776
+37,33,"melissa","Vampyressa","Melissa's Yellow-eared Bat",VU,S,-11184866
+40,39,"nymphaea","Vampyressa","Striped Yellow-eared Bat",LC,U,-16731116
+41,39,"brocki","Vampyressa","Brock's Yellow-eared Bat",LC,U,-16731116
+42,38,"bidens","Vampyressa","Bedentate Yellow-eared Bat",LC,U,-16731116
+43,31,"macconnelli","Mesophylla","Macconnell's Bat",LC,U,-16731116
+44,30,"alba","Ectophylla","Honduran White Bat",NT,D,-12486656
+48,47,"improvisum","Chiroderma","Guadeloupean Big-eyed Bat",VU,U,-11184866
+49,47,"villosum","Chiroderma","Hairy Big-eyed Bat",LC,S,-16731116
+51,50,"trinitatum","Chiroderma","Little Big-eyed Bat",LC,U,-16731116
+52,50,"doriae","Chiroderma","Brazilian Big-eyed Bat",LC,U,-16731116
+53,45,"salvini","Chiroderma","Salvin's Big-eyed Bat",LC,S,-16731116
+62,61,"inopinatus","Artibeus","Honduran Fruit-eating Bat",DD,U,-11513776
+63,61,"hirsutus","Artibeus","Hairy Fruit-eating Bat",LC,S,-16731116
+64,60,"fraterculus","Artibeus","Fraternal Fruit-eating Bat",LC,D,-16731116
+67,66,"jamaicensis","Artibeus","Jamaican Fruit-eating Bat",LC,S,-16731116
+68,66,"lituratus","Artibeus","Great Fruit-eating Bat",LC,S,-16731116
+69,65,"obscurus","Artibeus","Dark Fruit-eating Bat",LC,U,-16731116
+70,58,"amplus","Artibeus","Large Fruit-eating Bat",LC,U,-16731116
+71,57,"fimbriatus","Artibeus","Fringed Fruit-eating Bat",LC,S,-16731116
+72,56,"concolor","Artibeus","Brown Fruit-eating Bat",LC,S,-16731116
+79,78,"watsoni","Artibeus","Thomas's Fruit-eating Bat",LC,S,-16731116
+80,78,"glaucus","Artibeus","Silver Fruit-eating Bat",LC,U,-16731116
+81,77,"gnomus","Artibeus","Dwarf Fruit-eating Bat",LC,U,-16731116
+82,76,"anderseni","Artibeus","Andersen's Fruit-eating Bat",LC,U,-16731116
+83,75,"cinereus","Artibeus","Gervais's Fruit-eating Bat",LC,U,-16731116
+84,74,"toltecus","Artibeus","Toltec Fruit-eating Bat",LC,U,-16731116
+86,85,"phaeotis","Artibeus","Pygmy Fruit-eating Bat",LC,S,-16731116
+87,85,"aztecus","Artibeus","Aztec Fruit-eating Bat",LC,U,-16731116
+88,54,"hartii","Enchisthenes","Velvety Fruit-eating Bat",LC,U,-16731116
+93,92,"falcatus","Phyllops","Cuban Fig-eating Bat",LC,S,-16731116
+94,92,"rufum","Stenoderma","Red Fruit Bat",VU,U,-11184866
+96,95,"flavescens","Ariteus","Jamaican Fig-eating Bat",LC,U,-16731116
+97,95,"nichollsi","Ardops","Tree Bat",LC,U,-16731116
+99,98,"centurio","Ametrida","Little White-shouldered Bat",LC,U,-16731116
+100,98,"toxophyllum","Sphaeronycteris","Visored Bat",DD,U,-11513776
+102,101,"bilabiatum","Pygoderma","Ipanema Bat",LC,U,-16731116
+103,101,"senex","Centurio","Wrinkle-faced Bat",LC,S,-16731116
+110,109,"oporaphilum","Sturnira","Tschudi's Yellow-shouldered Bat",NT,U,-12486656
+111,109,"bogotensis","Sturnira","Bogota Yellow-shouldered Bat",LC,U,-16731116
+112,108,"magna","Sturnira","Greater Yellow-shouldered Bat",LC,S,-16731116
+115,114,"thomasi","Sturnira","Thomas's Yellow-shouldered Bat",VU,D,-11184866
+116,114,"tildae","Sturnira","Tilda Yellow-shouldered Bat",LC,S,-16731116
+117,113,"mordax","Sturnira","Talamancan Yellow-shouldered Bat",NT,S,-12486656
+120,119,"ludovici","Sturnira","Highland Yellow-shouldered Bat",LC,U,-16731116
+121,119,"erythromos","Sturnira","Hairy Yellow-shouldered Bat",LC,S,-16731116
+122,118,"luisi","Sturnira","Louis's Yellow-shouldered Bat",LC,U,-16731116
+124,123,"aratathomasi","Sturnira","Aratathomas's Yellow shouldered Bat",NT,U,-12486656
+125,123,"lilium","Sturnira","Little Yellow-shouldered Bat",LC,S,-16731116
+127,126,"bidens","Sturnira","Bidentate Yellow-shouldered Bat",LC,U,-16731116
+128,126,"nana","Sturnira","Lesser Yellow-shouldered Bat",EN,U,-8572416

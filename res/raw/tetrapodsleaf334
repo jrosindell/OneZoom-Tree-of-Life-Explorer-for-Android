@@ -1,0 +1,107 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"cavernicola","Litoria","Cave-dwelling Frog",DD,U,-11513776
+10,8,"gilleni","Litoria","Centralian Treefrog",LC,S,-16731116
+12,11,"splendida","Litoria","Magnificent Treefrog",LC,S,-16731116
+13,11,"caerulea","Litoria","Green Treefrog",LC,S,-16731116
+19,18,"infrafrenata","Litoria","Giant Treefrog",LC,S,-16731116
+20,18,"sanguinolenta","Litoria","",DD,U,-11513776
+21,17,"multicolor","Litoria","Multi-coloured Treefrog",DD,U,-11513776
+24,23,"thesaurensis","Litoria","",LC,S,-16731116
+25,23,"impura","Litoria","",LC,S,-16731116
+26,22,"lutea","Litoria","",VU,D,-11184866
+32,31,"longirostris","Litoria","Long-snouted Frog",LC,S,-16731116
+33,31,"dorsalis","Litoria","",LC,S,-16731116
+34,30,"timida","Litoria","",LC,S,-16731116
+35,29,"microbelos","Litoria","Javelin Frog",LC,S,-16731116
+36,28,"angiana","Litoria","",LC,S,-16731116
+37,27,"prora","Litoria","",LC,S,-16731116
+39,38,"spenceri","Litoria","Spencer's River Treefrog",CR,D,-3014646
+40,38,"napaea","Litoria","",LC,S,-16731116
+48,47,"wisselensis","Litoria","",VU,U,-11184866
+49,47,"capitula","Litoria","",DD,U,-11513776
+50,46,"electrica","Litoria","Buzzing Treefrog",LC,S,-16731116
+52,51,"congenita","Litoria","",LC,S,-16731116
+53,51,"umbonata","Litoria","",DD,U,-11513776
+57,56,"dentata","Litoria","Bleating Treefrog",LC,D,-16731116
+58,56,"pygmaea","Litoria","",LC,S,-16731116
+59,55,"rubella","Litoria","Desert Treefrog",LC,S,-16731116
+60,54,"obtusirostris","Litoria","",DD,U,-11513776
+61,43,"jeudii","Litoria","",DD,U,-11513776
+65,64,"peronii","Litoria","Emerald Spotted Treefrog",LC,S,-16731116
+66,64,"tyleri","Litoria","Laughing Treefrog",LC,S,-16731116
+67,63,"amboinensis","Litoria","",LC,S,-16731116
+70,69,"everetti","Litoria","Everett's Treefrog",DD,U,-11513776
+71,69,"darlingtoni","Litoria","",LC,S,-16731116
+72,68,"rothii","Litoria","Roth's Treefrog",LC,S,-16731116
+77,76,"micromembrana","Litoria","",LC,S,-16731116
+78,76,"becki","Litoria","",VU,U,-11184866
+79,75,"pratti","Litoria","",DD,U,-11513776
+80,74,"brongersmai","Litoria","",DD,U,-11513776
+83,82,"modica","Litoria","",LC,S,-16731116
+84,82,"macki","Litoria","",DD,U,-11513776
+85,81,"spinifera","Litoria","",LC,S,-16731116
+92,91,"alboguttata","Litoria","Striped Burrowing Frog",LC,S,-16731116
+93,91,"verrucosa","Litoria","Rough Frog",LC,S,-16731116
+94,90,"cryptotis","Litoria","Hidden-ear Frog",LC,S,-16731116
+95,89,"manya","Litoria","Small Frog",LC,S,-16731116
+97,96,"platycephala","Litoria","Water-holding Frog",LC,S,-16731116
+98,96,"maini","Litoria","Main's Frog",LC,S,-16731116
+101,100,"novaehollandiae","Litoria","New Holland Frog",LC,S,-16731116
+102,100,"longipes","Litoria","Long-footed Frog",LC,S,-16731116
+104,103,"australis","Litoria","Giant Frog",LC,S,-16731116
+105,103,"vagitus","Litoria","Wailing Frog",LC,S,-16731116
+108,107,"maculosa","Litoria","Daly Waters Frog",LC,S,-16731116
+109,107,"brevipes","Litoria","Collared Frog",LC,S,-16731116
+110,106,"cultripes","Litoria","Knife-footed Frog",LC,S,-16731116
+120,119,"ayeaye","Phyllomedusa","",CR,D,-3014646
+121,119,"rohdei","Phyllomedusa","",LC,S,-16731116
+122,118,"hypochondrialis","Phyllomedusa","",LC,S,-16731116
+123,117,"megacephala","Phyllomedusa","",DD,U,-11513776
+127,126,"trinitatis","Phyllomedusa","",LC,S,-16731116
+128,126,"bicolor","Phyllomedusa","",LC,S,-16731116
+129,125,"oreades","Phyllomedusa","",DD,U,-11513776
+130,124,"centralis","Phyllomedusa","",DD,U,-11513776
+135,134,"coelestis","Phyllomedusa","",LC,U,-16731116
+136,134,"duellmani","Phyllomedusa","",DD,U,-11513776
+137,133,"ecuatoriana","Phyllomedusa","",EN,D,-8572416
+139,138,"vaillantii","Phyllomedusa","",LC,S,-16731116
+140,138,"baltea","Phyllomedusa","",EN,D,-8572416
+141,131,"perinesos","Phyllomedusa","",DD,U,-11513776
+147,146,"burmeisteri","Phyllomedusa","",LC,S,-16731116
+148,146,"iheringii","Phyllomedusa","",LC,U,-16731116
+149,145,"tomopterna","Phyllomedusa","",LC,S,-16731116
+150,144,"atelopoides","Phyllomedusa","",LC,U,-16731116
+152,151,"tetraploidea","Phyllomedusa","",LC,S,-16731116
+153,151,"distincta","Phyllomedusa","",LC,D,-16731116
+158,157,"sauvagii","Phyllomedusa","",LC,S,-16731116
+159,157,"tarsius","Phyllomedusa","",LC,S,-16731116
+161,160,"boliviana","Phyllomedusa","",LC,S,-16731116
+162,160,"camba","Phyllomedusa","",LC,S,-16731116
+163,155,"palliata","Phyllomedusa","",LC,S,-16731116
+164,154,"venusta","Phyllomedusa","",LC,D,-16731116
+169,168,"appendiculata","Phrynomedusa","",NT,D,-12486656
+170,168,"vanzolinii","Phrynomedusa","",DD,U,-11513776
+171,167,"bokermanni","Phrynomedusa","",DD,U,-11513776
+172,166,"fimbriata","Phrynomedusa","",EX,U,-16777036
+173,165,"marginata","Phrynomedusa","",LC,D,-16731116
+175,174,"calcarifer","Cruziohyla","Splendid Treefrog",LC,D,-16731116
+176,174,"craspedopus","Cruziohyla","",LC,D,-16731116
+183,182,"callidryas","Agalychnis","Red-eyed Treefrog",LC,D,-16731116
+184,182,"moreletii","Agalychnis","Morelet's Treefrog",CR,D,-3014646
+186,185,"spurrelli","Agalychnis","Gliding Treefrog",LC,D,-16731116
+187,185,"annae","Agalychnis","Blue-sided Treefrog",EN,D,-8572416
+189,188,"litodryas","Agalychnis","Pink-sided Treefrog",VU,D,-11184866
+190,188,"saltator","Agalychnis","",LC,S,-16731116
+191,179,"dacnicolor","Pachymedusa","",LC,D,-16731116
+196,195,"psilopygion","Hylomantis","",DD,U,-11513776
+197,195,"lemur","Hylomantis","",CR,D,-3014646
+198,194,"buckleyi","Hylomantis","",LC,U,-16731116
+201,200,"medinai","Hylomantis","",NE,U,-16777216
+202,200,"hulli","Hylomantis","",LC,D,-16731116
+203,199,"danieli","Hylomantis","",DD,U,-11513776
+205,204,"granulosa","Hylomantis","",LC,D,-16731116
+206,204,"aspera","Hylomantis","",LC,D,-16731116
+210,209,"guttata","Phasmahyla","",LC,D,-16731116
+211,209,"exilis","Phasmahyla","",LC,D,-16731116
+212,208,"jandaia","Phasmahyla","",LC,D,-16731116
+213,207,"cochranae","Phasmahyla","",LC,D,-16731116

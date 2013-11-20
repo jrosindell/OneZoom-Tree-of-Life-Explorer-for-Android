@@ -1,0 +1,100 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"spiniferus","Gephyromantis","",NT,D,-12486656
+13,11,"ambohitra","Gephyromantis","",VU,D,-11184866
+14,10,"moseri","Gephyromantis","",LC,D,-16731116
+17,16,"schilfi","Gephyromantis","",VU,U,-11184866
+18,16,"salegy","Gephyromantis","",VU,D,-11184866
+19,15,"tschenki","Gephyromantis","",DD,U,-11513776
+23,22,"granulatus","Gephyromantis","",LC,S,-16731116
+24,22,"tandroka","Gephyromantis","",VU,S,-11184866
+25,21,"plicifer","Gephyromantis","",NT,D,-12486656
+26,20,"sculpturatus","Gephyromantis","",LC,D,-16731116
+32,31,"zavona","Gephyromantis","",DD,U,-11513776
+33,31,"asper","Gephyromantis","",LC,D,-16731116
+34,30,"cornutus","Gephyromantis","",DD,U,-11513776
+35,29,"redimitus","Gephyromantis","",LC,D,-16731116
+36,28,"leucomaculatus","Gephyromantis","",NT,D,-12486656
+37,27,"luteus","Gephyromantis","",LC,D,-16731116
+44,43,"klemmeri","Gephyromantis","",VU,D,-11184866
+45,43,"decaryi","Gephyromantis","",NT,D,-12486656
+47,46,"blanci","Gephyromantis","",NT,D,-12486656
+48,46,"enki","Gephyromantis","",DD,U,-11513776
+49,41,"thelenae","Gephyromantis","",DD,U,-11513776
+51,50,"leucocephalus","Gephyromantis","",NT,S,-12486656
+52,50,"boulengeri","Gephyromantis","",LC,U,-16731116
+53,39,"eiselti","Gephyromantis","",DD,U,-11513776
+56,55,"rivicola","Gephyromantis","",VU,D,-11184866
+57,55,"silvanus","Gephyromantis","",EN,D,-8572416
+58,54,"webbi","Gephyromantis","",EN,D,-8572416
+63,62,"malagasius","Gephyromantis","",LC,D,-16731116
+64,62,"horridus","Gephyromantis","",EN,D,-8572416
+65,61,"ventrimaculatus","Gephyromantis","",LC,D,-16731116
+66,60,"striatus","Gephyromantis","",VU,D,-11184866
+68,67,"pseudoasper","Gephyromantis","",LC,S,-16731116
+69,67,"corvus","Gephyromantis","",EN,D,-8572416
+76,75,"biporus","Mantidactylus","",LC,D,-16731116
+77,75,"curtus","Mantidactylus","",LC,S,-16731116
+78,74,"ulcerosus","Mantidactylus","",LC,U,-16731116
+80,79,"betsileanus","Mantidactylus","",LC,S,-16731116
+81,79,"tricinctus","Mantidactylus","",DD,U,-11513776
+85,84,"madecassus","Mantidactylus","",EN,D,-8572416
+86,84,"pauliani","Mantidactylus","",CR,D,-3014646
+87,83,"ambohimitombi","Mantidactylus","",DD,D,-11513776
+88,82,"alutus","Mantidactylus","",LC,S,-16731116
+92,91,"charlotteae","Mantidactylus","",LC,D,-16731116
+93,91,"aerumnalis","Mantidactylus","",LC,D,-16731116
+95,94,"albofrenatus","Mantidactylus","",DD,U,-11513776
+96,94,"zipperi","Mantidactylus","",LC,D,-16731116
+99,98,"melanopleura","Mantidactylus","",LC,D,-16731116
+100,98,"opiparis","Mantidactylus","",LC,D,-16731116
+101,97,"brevipalmatus","Mantidactylus","",LC,U,-16731116
+106,105,"femoralis","Mantidactylus","",LC,U,-16731116
+107,105,"majori","Mantidactylus","",LC,D,-16731116
+108,104,"mocquardi","Mantidactylus","",LC,U,-16731116
+110,109,"ambreensis","Mantidactylus","",LC,D,-16731116
+111,109,"zolitschka","Mantidactylus","",DD,U,-11513776
+115,114,"grandidieri","Mantidactylus","",LC,D,-16731116
+116,114,"guttulatus","Mantidactylus","",LC,D,-16731116
+117,113,"lugubris","Mantidactylus","",LC,S,-16731116
+118,112,"argenteus","Mantidactylus","",LC,D,-16731116
+119,3,"microtympanum","Boehmantis","",EN,D,-8572416
+125,124,"massorum","Spinomantis","",NE,U,-16777216
+126,124,"peraccae","Spinomantis","",LC,D,-16731116
+127,123,"aglavei","Spinomantis","",LC,D,-16731116
+129,128,"bertini","Spinomantis","",NT,D,-12486656
+130,128,"brunae","Spinomantis","",EN,D,-8572416
+132,131,"phantasticus","Spinomantis","",LC,D,-16731116
+133,131,"fimbriatus","Spinomantis","",LC,D,-16731116
+135,134,"microtis","Spinomantis","",EN,D,-8572416
+136,134,"elegans","Spinomantis","",VU,D,-11184866
+143,142,"bicalcaratus","Guibemantis","",LC,D,-16731116
+144,142,"tornieri","Guibemantis","",LC,U,-16731116
+146,145,"flavobrunneus","Guibemantis","",LC,D,-16731116
+147,145,"pulcher","Guibemantis","",LC,D,-16731116
+149,148,"albolineatus","Guibemantis","",DD,U,-11513776
+150,148,"liber","Guibemantis","",LC,U,-16731116
+153,152,"depressiceps","Guibemantis","",LC,U,-16731116
+154,152,"timidus","Guibemantis","",LC,U,-16731116
+156,155,"kathrinae","Guibemantis","",DD,U,-11513776
+157,155,"punctatus","Guibemantis","",DD,U,-11513776
+161,160,"grandisonae","Blommersia","",LC,D,-16731116
+162,160,"domerguei","Blommersia","",LC,U,-16731116
+163,159,"sarotra","Blommersia","",DD,U,-11513776
+165,164,"wittei","Blommersia","",LC,S,-16731116
+166,164,"kely","Blommersia","",LC,U,-16731116
+167,137,"madinika","Wakea","",DD,U,-11513776
+174,173,"nigricans","Mantella","Guibe'S Mantella",LC,D,-16731116
+175,173,"cowanii","Mantella","Cowan's Mantella",CR,D,-3014646
+176,172,"haraldmeieri","Mantella","Haraldmeier's Mantella",VU,D,-11184866
+177,171,"baroni","Mantella","Baron's Mantella",LC,U,-16731116
+179,178,"bernhardi","Mantella","Bernhard's Mantella",EN,D,-8572416
+180,178,"laevigata","Mantella","Climbing Mantella",NT,D,-12486656
+184,183,"expectata","Mantella","Blue-legged Mantella",EN,D,-8572416
+185,183,"betsileo","Mantella","Brown Mantella",LC,S,-16731116
+186,182,"manery","Mantella","Marojejy Mantella",VU,U,-11184866
+187,181,"viridis","Mantella","Green Mantella",EN,D,-8572416
+192,191,"milotympanum","Mantella","Black-eared Mantella",CR,D,-3014646
+193,191,"crocea","Mantella","Yellow Mantella",EN,D,-8572416
+194,190,"aurantiaca","Mantella","Golden Mantella",CR,D,-3014646
+195,189,"pulchra","Mantella","Beautiful Mantella",VU,D,-11184866
+196,188,"madagascariensis","Mantella","Madagascan Mantella",VU,D,-11184866

@@ -1,0 +1,45 @@
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"oxyrhynchus","Rhinophis","",NE,U,-16777216
+16,14,"philippinus","Rhinophis","",NE,U,-16777216
+17,13,"dorsimaculatus","Rhinophis","",NE,U,-16777216
+20,19,"homolepis","Rhinophis","",NE,U,-16777216
+21,19,"blythii","Rhinophis","",NE,U,-16777216
+22,18,"ceylanica","Uropeltis","",NE,U,-16777216
+24,23,"erangaviraji","Rhinophis","",NE,U,-16777216
+25,23,"drummondhayi","Rhinophis","",NE,U,-16777216
+26,10,"philippinus","Pseudotyphlops","",NE,U,-16777216
+28,27,"melanogaster","Uropeltis","",NE,U,-16777216
+29,27,"phillipsi","Uropeltis","",NE,U,-16777216
+30,8,"travancoricus","Rhinophis","",NE,U,-16777216
+31,7,"liura","Uropeltis","",NE,U,-16777216
+32,6,"rhodogaster","Brachyophidium","",NE,U,-16777216
+33,5,"punctatum","Melanophidium","Beddome's Black Shieldtail",NE,U,-16777216
+35,34,"maculatus","Cylindrophis","Ceylonese Cylinder Snake",NE,U,-16777216
+36,34,"ruffus","Cylindrophis","",NE,U,-16777216
+37,3,"leonardi","Anomochilus","Leonard's Pipe Snake",DD,U,-11513776
+46,45,"papuana","Apodora","",NE,U,-16777216
+47,45,"mackloti","Liasis","",NE,U,-16777216
+48,44,"melanocephalus","Aspidites","",NE,U,-16777216
+50,49,"albertisii","Leiopython","",NE,U,-16777216
+51,49,"boa","Bothrochilus","",NE,U,-16777216
+53,52,"spilota","Morelia","Western Australian Carpet Python",NT,U,-12486656
+54,52,"childreni","Antaresia","",NE,U,-16777216
+55,41,"reticulatus","Broghammerus","",NE,U,-16777216
+56,40,"molurus","Python","Asiatic Rock Python",NT,U,-12486656
+57,39,"bicolor","Loxocemus","Mexican Python",NE,U,-16777216
+58,38,"unicolor","Xenopeltis","Sunbeam Snake",NE,U,-16777216
+60,59,"dussumieri","Casarea","Round Island Boa",EN,U,-8572416
+61,59,"schaeferi","Xenophidion","",NE,U,-16777216
+70,69,"cenchria","Epicrates","Rainbow Boa",NE,U,-16777216
+71,69,"notaeus","Eunectes","",NE,U,-16777216
+72,68,"hortulanus","Corallus","Amazon Tree Boa",NE,U,-16777216
+73,67,"constrictor","Boa","",NE,U,-16777216
+74,66,"conicus","Eryx","Rough-scaled Sand Boa",NE,U,-16777216
+75,65,"carinata","Candoia","Pacific Ground Boa",NE,U,-16777216
+78,77,"trivirgata","Lichanura","Rosy Boa",LC,S,-16731116
+79,77,"bottae","Charina","Rubber Boa",LC,S,-16731116
+81,80,"continentalis","Ungaliophis","Chiapan Boa",NE,U,-16777216
+82,80,"placata","Exiliboa","",VU,D,-11184866
+84,83,"madagascariensis","Sanzinia","Madagascar Tree Boa",VU,U,-11184866
+85,83,"dumerili","Acrantophis","Dumeril's Boa",VU,U,-11184866
+86,62,"reinhardtii","Calabaria","Calabar Ground Python",NE,U,-16777216

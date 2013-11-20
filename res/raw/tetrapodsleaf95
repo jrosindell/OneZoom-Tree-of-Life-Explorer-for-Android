@@ -1,133 +1,29 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"altipotens","Charadrahyla","",CR,D,-3014646
-9,7,"chaneque","Charadrahyla","",EN,D,-8572416
-10,6,"nephila","Charadrahyla","",VU,D,-11184866
-12,11,"taeniopus","Charadrahyla","",VU,D,-11184866
-13,11,"trux","Charadrahyla","",CR,D,-3014646
-22,21,"sanctaecrucis","Ptychohyla","",CR,D,-3014646
-23,21,"erythromma","Ptychohyla","",EN,D,-8572416
-24,20,"euthysanota","Ptychohyla","",NT,D,-12486656
-27,26,"hypomykter","Ptychohyla","",CR,D,-3014646
-28,26,"panchoi","Ptychohyla","",EN,D,-8572416
-29,25,"zophodes","Ptychohyla","",DD,U,-11513776
-30,18,"legleri","Ptychohyla","",EN,D,-8572416
-34,33,"leonhardschultzei","Ptychohyla","",EN,D,-8572416
-35,33,"dendrophasma","Ptychohyla","",CR,D,-3014646
-36,32,"spinipollex","Ptychohyla","",EN,D,-8572416
-37,31,"salvadorensis","Ptychohyla","",EN,D,-8572416
-39,38,"macrotympanum","Ptychohyla","",CR,D,-3014646
-40,38,"acrochorda","Ptychohyla","",DD,U,-11513776
-47,46,"schmidtorum","Duellmanohyla","",VU,D,-11184866
-48,46,"salvavida","Duellmanohyla","",CR,D,-3014646
-49,45,"uranochroa","Duellmanohyla","",CR,D,-3014646
-51,50,"chamulae","Duellmanohyla","",EN,D,-8572416
-52,50,"soralia","Duellmanohyla","",CR,D,-3014646
-53,43,"lythrodes","Duellmanohyla","",EN,D,-8572416
-55,54,"rufioculis","Duellmanohyla","",LC,S,-16731116
-56,54,"ignicolor","Duellmanohyla","",EN,D,-8572416
-58,57,"dendroscarta","Bromeliohyla","",CR,D,-3014646
-59,57,"bromeliacia","Bromeliohyla","",EN,D,-8572416
-65,64,"phantasmagoria","Ecnomiohyla","",EN,D,-8572416
-66,64,"miotympanum","Ecnomiohyla","",NT,D,-12486656
-67,63,"valancifer","Ecnomiohyla","",CR,D,-3014646
-68,62,"minera","Ecnomiohyla","",EN,D,-8572416
-71,70,"thysanota","Ecnomiohyla","",DD,U,-11513776
-72,70,"salvaje","Ecnomiohyla","",CR,D,-3014646
-73,69,"fimbrimembra","Ecnomiohyla","",EN,D,-8572416
-76,75,"echinata","Ecnomiohyla","",CR,D,-3014646
-77,75,"miliaria","Ecnomiohyla","",VU,D,-11184866
-78,74,"tuberculosa","Ecnomiohyla","",LC,S,-16731116
-92,91,"elkejungingerae","Osteocephalus","",LC,D,-16731116
-93,91,"exophthalmus","Osteocephalus","",DD,U,-11513776
-95,94,"leprieurii","Osteocephalus","",LC,S,-16731116
-96,94,"yasuni","Osteocephalus","",LC,U,-16731116
-98,97,"verruciger","Osteocephalus","",LC,S,-16731116
-99,97,"buckleyi","Osteocephalus","",LC,S,-16731116
-100,88,"leoniae","Osteocephalus","",LC,U,-16731116
-101,87,"fuscifacies","Osteocephalus","",DD,U,-11513776
-102,86,"pearsoni","Osteocephalus","",LC,U,-16731116
-105,104,"deridens","Osteocephalus","",LC,D,-16731116
-106,104,"mutabor","Osteocephalus","",LC,S,-16731116
-108,107,"oophagus","Osteocephalus","",LC,S,-16731116
-109,107,"heyeri","Osteocephalus","",LC,S,-16731116
-113,112,"planiceps","Osteocephalus","",LC,U,-16731116
-114,112,"subtilis","Osteocephalus","",LC,U,-16731116
-115,111,"cabrerai","Osteocephalus","",LC,S,-16731116
-116,110,"taurinus","Osteocephalus","",LC,S,-16731116
-123,122,"luteolabris","Tepuihyla","",DD,U,-11513776
-124,122,"rodriguezi","Tepuihyla","",DD,U,-11513776
-125,121,"aecii","Tepuihyla","",DD,U,-11513776
-126,120,"celsae","Tepuihyla","",DD,U,-11513776
-127,119,"edelcae","Tepuihyla","",LC,S,-16731116
-128,118,"talbergae","Tepuihyla","",DD,U,-11513776
-130,129,"rimarum","Tepuihyla","",VU,S,-11184866
-131,129,"galani","Tepuihyla","",DD,U,-11513776
-136,135,"dominicensis","Osteopilus","Hispaniolan Common Treefrog",LC,D,-16731116
-137,135,"septentrionalis","Osteopilus","Cuban Treefrog",LC,I,-16731116
-138,134,"crucialis","Osteopilus","Jamaican Snoring Frog",EN,D,-8572416
-141,140,"brunneus","Osteopilus","Jamaican Laughing Frog",LC,U,-16731116
-142,140,"marianae","Osteopilus","Yellow Bromeliad Frog",EN,D,-8572416
-143,139,"wilderi","Osteopilus","Green Bromeliad Frog",EN,D,-8572416
-145,144,"pulchrilineatus","Osteopilus","Hispaniolan Yellow Treefrog",EN,D,-8572416
-146,144,"vastus","Osteopilus","Hispaniolan Giant Treefrog",EN,D,-8572416
-154,153,"mesophaeus","Trachycephalus","",LC,D,-16731116
-155,153,"jordani","Trachycephalus","",LC,U,-16731116
-156,152,"imitatrix","Trachycephalus","",LC,D,-16731116
-157,151,"atlas","Trachycephalus","Bokermann's Casque-headed Treefrog",LC,U,-16731116
-159,158,"coriaceus","Trachycephalus","",LC,S,-16731116
-160,158,"hadroceps","Trachycephalus","",LC,S,-16731116
-162,161,"nigromaculatus","Trachycephalus","Black-spotted Casque-headed Treefrog",LC,D,-16731116
-163,161,"lepidus","Trachycephalus","",DD,U,-11513776
-165,164,"resinifictrix","Trachycephalus","",LC,U,-16731116
-166,164,"venulosus","Trachycephalus","",LC,S,-16731116
-172,171,"brunoi","Aparasphenodon","Bruno's Casque-headed Frog",LC,D,-16731116
-173,171,"venezolanus","Aparasphenodon","",LC,S,-16731116
-174,170,"bokermanni","Aparasphenodon","Bokermann's Casque-headed Frog",DD,U,-11513776
-175,169,"rugiceps","Nyctimantis","",LC,S,-16731116
-176,168,"siemersi","Argenteohyla","",EN,D,-8572416
-177,167,"greeningi","Corythomantis","",LC,S,-16731116
-178,80,"langsdorffii","Itapotihyla","",LC,D,-16731116
-185,184,"brevirostris","Phyllodytes","",DD,D,-11513776
-186,184,"luteolus","Phyllodytes","",LC,D,-16731116
-188,187,"acuminatus","Phyllodytes","",LC,D,-16731116
-189,187,"kautskyi","Phyllodytes","",LC,D,-16731116
-191,190,"melanomystax","Phyllodytes","",LC,D,-16731116
-192,190,"edelmoi","Phyllodytes","",DD,D,-11513776
-194,193,"tuberculosus","Phyllodytes","",DD,U,-11513776
-195,193,"punctatus","Phyllodytes","",DD,U,-11513776
-196,180,"gyrinaethes","Phyllodytes","",DD,D,-11513776
-198,197,"wuchereri","Phyllodytes","",DD,U,-11513776
-199,197,"auratus","Phyllodytes","",CR,D,-3014646
-212,211,"bogotensis","Hyloscirtus","",NT,U,-12486656
-213,211,"lascinius","Hyloscirtus","",LC,S,-16731116
-214,210,"alytolylax","Hyloscirtus","",NT,D,-12486656
-215,209,"callipeza","Hyloscirtus","",NT,S,-12486656
-216,208,"jahni","Hyloscirtus","",NT,U,-12486656
-219,218,"denticulentus","Hyloscirtus","",EN,D,-8572416
-220,218,"platydactylus","Hyloscirtus","",VU,D,-11184866
-222,221,"albopunctulatus","Hyloscirtus","",LC,S,-16731116
-223,221,"simmonsi","Hyloscirtus","",EN,D,-8572416
-228,227,"torrenticola","Hyloscirtus","",VU,D,-11184866
-229,227,"palmeri","Hyloscirtus","",LC,U,-16731116
-230,226,"lynchi","Hyloscirtus","",EN,D,-8572416
-232,231,"phyllognathus","Hyloscirtus","",LC,D,-16731116
-233,231,"estevesi","Hyloscirtus","",DD,U,-11513776
-235,234,"piceigularis","Hyloscirtus","",EN,D,-8572416
-236,234,"colymba","Hyloscirtus","",CR,D,-3014646
-238,237,"charazani","Hyloscirtus","",EN,D,-8572416
-239,237,"armatus","Hyloscirtus","",LC,D,-16731116
-240,204,"chlorosteus","Hyloscirtus","",CR,D,-3014646
-245,244,"pantostictus","Hyloscirtus","",EN,D,-8572416
-246,244,"larinopygion","Hyloscirtus","",NT,D,-12486656
-248,247,"staufferorum","Hyloscirtus","",EN,D,-8572416
-249,247,"lindae","Hyloscirtus","",VU,D,-11184866
-251,250,"ptychodactylus","Hyloscirtus","",CR,D,-3014646
-252,250,"caucanus","Hyloscirtus","",DD,U,-11513776
-255,254,"tapichalaca","Hyloscirtus","",DD,U,-11513776
-256,254,"sarampiona","Hyloscirtus","",DD,U,-11513776
-258,257,"psarolaimus","Hyloscirtus","",EN,D,-8572416
-259,257,"pacha","Hyloscirtus","",DD,U,-11513776
-263,262,"inparquesi","Myersiohyla","",DD,U,-11513776
-264,262,"aromatica","Myersiohyla","",DD,U,-11513776
-265,261,"kanaima","Myersiohyla","",LC,S,-16731116
-266,260,"loveridgei","Myersiohyla","",DD,U,-11513776
+8,7,"pulchella","Ochthoeca","Golden-browed Chat-tyrant",LC,U,-16731116
+9,7,"fumicolor","Ochthoeca","Brown-backed Chat-tyrant",LC,U,-16731116
+10,6,"piurae","Ochthoeca","Piura Chat-tyrant",NT,U,-12486656
+11,5,"rufipectoralis","Ochthoeca","Rufous-breasted Chat-tyrant",LC,U,-16731116
+14,13,"diadema","Ochthoeca","Yellow-bellied Chat-tyrant",LC,U,-16731116
+15,13,"thoracica","Ochthoeca","Maroon-belted Chat-Tyrant",_U,[,-16777216
+16,12,"jelskii","Ochthoeca","Jelski's Chat-tyrant",LC,U,-16731116
+20,19,"oenanthoides","Ochthoeca","D'Orbigny's Chat-tyrant",LC,U,-16731116
+21,19,"frontalis","Ochthoeca","Crowned Chat-tyrant",LC,U,-16731116
+23,22,"nigrita","Ochthoeca","Blackish Chat-Tyrant",_U,[,-16777216
+24,22,"salvini","Tumbezia","Tumbes Tyrant",NT,U,-12486656
+26,25,"cinnamomeiventris","Ochthoeca","Slaty-backed Chat-tyrant",LC,U,-16731116
+27,25,"leucophrys","Ochthoeca","White-browed Chat-tyrant",LC,U,-16731116
+30,29,"flavicans","Myiophobus","Flavescent Flycatcher",LC,U,-16731116
+31,29,"roraimae","Myiophobus","Roraiman Flycatcher",LC,U,-16731116
+32,28,"phoenicomitra","Myiophobus","Orange-crested Flycatcher",LC,U,-16731116
+40,39,"risora","Alectrurus","Strange-tailed Tyrant",VU,U,-11184866
+41,39,"tricolor","Alectrurus","Cock-tailed Tyrant",VU,U,-11184866
+42,38,"yetapa","Gubernetes","Streamer-tailed Tyrant",LC,U,-16731116
+43,37,"leucocephala","Arundinicola","White-headed Marsh-tyrant",LC,U,-16731116
+45,44,"albiventer","Fluvicola","Black-backed Water-tyrant",LC,U,-16731116
+46,44,"pica","Fluvicola","Pied Water-tyrant",LC,U,-16731116
+47,35,"rubinus","Pyrocephalus","Vermilion Flycatcher",LC,U,-16731116
+50,49,"arenarum","Sublegatus","Northern Scrub-flycatcher",LC,U,-16731116
+51,49,"obscurior","Sublegatus","Todd's Scrub-flycatcher",LC,U,-16731116
+52,48,"modestus","Sublegatus","Southern Scrub-flycatcher",LC,U,-16731116
+53,33,"nengeta","Fluvicola","Masked Water-tyrant",LC,U,-16731116
+54,0,"parvirostris","Colorhamphus","Patagonian Tyrant",LC,U,-16731116

@@ -1,0 +1,86 @@
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"dentata","Liophryne","",LC,U,-16731116
+16,14,"rubra","Liophryne","",DD,U,-11513776
+17,13,"rhododactyla","Liophryne","",DD,S,-11513776
+19,18,"allisoni","Liophryne","",DD,U,-11513776
+20,18,"similis","Liophryne","",DD,U,-11513776
+21,11,"schlaginhaufeni","Liophryne","",LC,S,-16731116
+23,22,"thomsoni","Genyophryne","",LC,S,-16731116
+29,28,"flavigularis","Barygenys","",DD,U,-11513776
+30,28,"atra","Barygenys","",LC,S,-16731116
+31,27,"exsul","Barygenys","",LC,U,-16731116
+32,26,"parvula","Barygenys","",DD,U,-11513776
+33,25,"nana","Barygenys","",LC,S,-16731116
+35,34,"cheesmanae","Barygenys","",DD,U,-11513776
+36,34,"maculata","Barygenys","",DD,U,-11513776
+46,45,"sanguinopictus","Albericus","",DD,U,-11513776
+47,45,"rhenaurum","Albericus","",DD,U,-11513776
+48,44,"exclamitans","Albericus","",DD,U,-11513776
+50,49,"valkuriarum","Albericus","",LC,S,-16731116
+51,49,"siegfriedi","Albericus","",CR,D,-3014646
+53,52,"tuberculus","Albericus","",LC,S,-16731116
+54,52,"laurini","Albericus","",DD,U,-11513776
+55,41,"gudrunae","Albericus","",DD,U,-11513776
+56,40,"brunhildae","Albericus","",LC,U,-16731116
+61,60,"gunnari","Albericus","",DD,U,-11513776
+62,60,"fafniri","Albericus","",DD,U,-11513776
+63,59,"variegatus","Albericus","",DD,U,-11513776
+64,58,"darlingtoni","Albericus","",LC,U,-16731116
+65,57,"swanhildae","Albericus","",LC,S,-16731116
+69,68,"longirostris","Choerophryne","",DD,U,-11513776
+70,68,"proboscidea","Choerophryne","",LC,S,-16731116
+71,67,"allisoni","Choerophryne","",DD,U,-11513776
+72,66,"rostellifer","Choerophryne","",LC,S,-16731116
+75,74,"antongilii","Dyscophus","Tomato Frog",NT,U,-12486656
+76,74,"insularis","Dyscophus","",LC,U,-16731116
+77,73,"guineti","Dyscophus","",LC,U,-16731116
+84,83,"menabensis","Scaphiophryne","",VU,D,-11184866
+85,83,"gottlebei","Scaphiophryne","",EN,D,-8572416
+86,82,"calcarata","Scaphiophryne","",LC,S,-16731116
+88,87,"marmorata","Scaphiophryne","",VU,D,-11184866
+89,87,"obscura","Scaphiophryne","",DD,U,-11513776
+90,80,"brevis","Scaphiophryne","",LC,S,-16731116
+93,92,"boribory","Scaphiophryne","",EN,D,-8572416
+94,92,"spinosa","Scaphiophryne","",LC,U,-16731116
+95,91,"madagascariensis","Scaphiophryne","",NT,D,-12486656
+105,104,"anamalaiensis","Ramanella","",DD,U,-11513776
+106,104,"obscura","Ramanella","",NT,S,-12486656
+107,103,"montana","Ramanella","",NT,U,-12486656
+109,108,"variegata","Ramanella","",LC,S,-16731116
+110,108,"mormorata","Ramanella","",EN,D,-8572416
+113,112,"triangularis","Ramanella","",VU,D,-11184866
+114,112,"nagaoi","Ramanella","",VU,S,-11184866
+115,111,"palmata","Ramanella","",EN,D,-8572416
+116,100,"minor","Ramanella","",DD,U,-11513776
+119,118,"systoma","Uperodon","Globular Frog",LC,S,-16731116
+120,118,"globulosus","Uperodon","",LC,S,-16731116
+122,121,"pollicaris","Metaphrynella","",LC,D,-16731116
+123,121,"sundana","Metaphrynella","",LC,D,-16731116
+125,124,"uluguruensis","Hoplophryne","Uluguru Blue-bellied Frog",VU,D,-11184866
+126,124,"rogersi","Hoplophryne","Usambara Blue-bellied Frog",EN,D,-8572416
+132,131,"somalicus","Phrynomantis","Somali Rubber Frog",LC,U,-16731116
+133,131,"affinis","Phrynomantis","Spotted Rubber Frog",LC,S,-16731116
+134,130,"bifasciatus","Phrynomantis","Banded Rubber Frog",LC,S,-16731116
+136,135,"microps","Phrynomantis","West African Rubber Frog",LC,S,-16731116
+137,135,"annectens","Phrynomantis","Marbled Rubber Frog",LC,S,-16731116
+138,128,"palmata","Paradoxophyla","",LC,U,-16731116
+140,139,"inornata","Micryletta","Deli Paddy Frog",LC,S,-16731116
+141,139,"steinegeri","Micryletta","",EN,D,-8572416
+144,143,"mirandaribeiroi","Synapturanus","",LC,S,-16731116
+145,143,"salseri","Synapturanus","",LC,S,-16731116
+146,142,"rabus","Synapturanus","",LC,S,-16731116
+155,154,"intermedius","Kalophrynus","",VU,D,-11184866
+156,154,"eok","Kalophrynus","",DD,U,-11513776
+157,153,"baluensis","Kalophrynus","",NT,S,-12486656
+158,152,"minusculus","Kalophrynus","",VU,D,-11184866
+160,159,"palmatissimus","Kalophrynus","",EN,D,-8572416
+161,159,"punctatus","Kalophrynus","",VU,D,-11184866
+162,150,"heterochirus","Kalophrynus","",LC,D,-16731116
+166,165,"interlineatus","Kalophrynus","",LC,S,-16731116
+167,165,"bunguranus","Kalophrynus","",DD,U,-11513776
+169,168,"pleurostigma","Kalophrynus","",LC,S,-16731116
+170,168,"nubicola","Kalophrynus","",NT,S,-12486656
+172,171,"menglienicus","Kalophrynus","",DD,U,-11513776
+173,171,"robinsoni","Kalophrynus","",DD,U,-11513776
+174,148,"subterrestris","Kalophrynus","",NT,D,-12486656
+175,147,"indicus","Melanobatrachus","",EN,D,-8572416

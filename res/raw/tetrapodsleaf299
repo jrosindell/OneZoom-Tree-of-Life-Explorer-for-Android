@@ -1,0 +1,90 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"wattsi","Pipistrellus","Watts's Pipistrelle",LC,U,-16731116
+13,11,"adamsi","Pipistrellus","Forest Pipistrelle",LC,S,-16731116
+14,10,"tenuis","Pipistrellus","Least Pipistrelle",LC,S,-16731116
+16,15,"westralis","Pipistrellus","Northern Pipistrelle",LC,S,-16731116
+17,15,"collinus","Pipistrellus","Mountain Pipistrelle",LC,S,-16731116
+19,18,"angulatus","Pipistrellus","New Guinea Pipistrelle",LC,S,-16731116
+20,18,"papuanus","Pipistrellus","Papuan Pipistrelle",LC,S,-16731116
+21,7,"coromandra","Pipistrellus","Coromandel Pipistrelle",LC,U,-16731116
+25,24,"abramus","Pipistrellus","Japanese Pipistrelle",LC,S,-16731116
+26,24,"javanicus","Pipistrellus","Javan Pipistrelle",LC,S,-16731116
+27,23,"paterculus","Pipistrellus","Mount Popa Pipistrelle",LC,U,-16731116
+28,22,"endoi","Pipistrellus","Endo's Pipistrelle",EN,D,-8572416
+31,30,"permixtus","Pipistrellus","Dar-es-salaam Pipistrelle",DD,U,-11513776
+32,30,"nathusii","Pipistrellus","Nathusius' Pipistrelle",LC,U,-16731116
+34,33,"pipistrellus","Pipistrellus","Common Pipistrelle",LC,S,-16731116
+35,33,"pygmaeus","Pipistrellus","Pygmy Pipistrelle",LC,U,-16731116
+42,41,"kuhlii","Pipistrellus","Kuhl's Pipistrelle",LC,U,-16731116
+43,41,"hesperidus","Pipistrellus","",LC,U,-16731116
+44,40,"inexspectatus","Pipistrellus","Aellen's Pipistrelle",DD,U,-11513776
+46,45,"aero","Pipistrellus","Mount Gargues Pipistrelle",DD,U,-11513776
+47,45,"maderensis","Pipistrellus","Madeira Pipistrelle",EN,D,-8572416
+48,38,"deserti","Pipistrellus","Egyptian Pipistrelle",LC,U,-16731116
+49,37,"rusticus","Pipistrellus","Rusty Pipistrelle",LC,U,-16731116
+51,50,"minahassae","Pipistrellus","Minahassa Pipistrelle",DD,U,-11513776
+52,50,"ceylonicus","Pipistrellus","Kelaart's Pipistrelle",LC,S,-16731116
+56,55,"sanborni","Scotorepens","Northern Broad-nosed Bat",LC,U,-16731116
+57,55,"greyii","Scotorepens","Little Broad-nosed Bat",LC,S,-16731116
+59,58,"balstoni","Scotorepens","Inland Broad-nosed Bat",LC,D,-16731116
+60,58,"orion","Scotorepens","Eastern Broad-nosed Bat",LC,U,-16731116
+61,53,"schlieffeni","Nycticeinops","Schlieffen's Bat",LC,U,-16731116
+68,67,"magellanicus","Histiotus","Southern Big-eared Brown Bat",LC,U,-16731116
+69,67,"montanus","Histiotus","Small Big-eared Brown Bat",LC,U,-16731116
+70,66,"velatus","Histiotus","Tropical Big-eared Brown Bat",DD,U,-11513776
+72,71,"laephotis","Histiotus","Thomas's Big-eared Brown Bat",NT,D,-12486656
+73,71,"macrotus","Histiotus","Big-eared Brown Bat",LC,U,-16731116
+74,64,"alienus","Histiotus","Strange Big-eared Brown Bat",DD,U,-11513776
+78,77,"gaskelli","Hesperoptenus","Gaskell's False Serotine",DD,U,-11513776
+79,77,"tomesi","Hesperoptenus","Large False Serotine",VU,D,-11184866
+80,76,"blanfordi","Hesperoptenus","Blanford's Bat",LC,U,-16731116
+81,75,"tickelli","Hesperoptenus","Tickell's Bat",LC,U,-16731116
+83,82,"cubanus","Nycticeius","Cuban Evening Bat",NT,U,-12486656
+84,82,"humeralis","Nycticeius","Evening Bat",LC,S,-16731116
+86,85,"moloneyi","Mimetillus","Moloney's Flat-headed Bat",LC,U,-16731116
+87,85,"dormeri","Scotozous","Dormer's Bat",LC,S,-16731116
+100,99,"pfeifferi","Lasiurus","Pfeiffer's Red Bat",NT,U,-12486656
+101,99,"blossevillii","Lasiurus","Red Bat",LC,U,-16731116
+102,98,"salinae","Lasiurus","",NE,U,-16777216
+103,97,"degelidus","Lasiurus","Jamaican Red Bat",VU,U,-11184866
+106,105,"borealis","Lasiurus","Eastern Red Bat",LC,S,-16731116
+107,105,"varius","Lasiurus","Cinnamon Red Bat",LC,U,-16731116
+108,104,"minor","Lasiurus","Minor Red Bat",VU,D,-11184866
+109,95,"seminolus","Lasiurus","Seminole Bat",LC,U,-16731116
+111,110,"cinereus","Lasiurus","Hawaiian Hoary Bat",LC,U,-16731116
+112,110,"castaneus","Lasiurus","Tacarcuna Bat",DD,U,-11513776
+115,114,"intermedius","Lasiurus","Northern Yellow Bat",LC,U,-16731116
+116,114,"insularis","Lasiurus","Cuban Yellow Bat",VU,U,-11184866
+118,117,"xanthinus","Lasiurus","Western Yellow Bat",LC,S,-16731116
+119,117,"ega","Lasiurus","Southern Yellow Bat",LC,U,-16731116
+120,92,"egregius","Lasiurus","Big Red Bat",DD,U,-11513776
+128,127,"gouldi","Nyctophilus","Gould's Long-eared Bat",LC,D,-16731116
+129,127,"bifax","Nyctophilus","Eastern Long-eared Bat",LC,S,-16731116
+130,126,"walkeri","Nyctophilus","Pygmy Long-eared Bat",LC,S,-16731116
+132,131,"microtis","Nyctophilus","Papuan Long-eared Bat",LC,S,-16731116
+133,131,"heran","Nyctophilus","Sundan Long-eared Bat",DD,D,-11513776
+135,134,"arnhemensis","Nyctophilus","Northern Long-eared Bat",LC,S,-16731116
+136,134,"geoffroyi","Nyctophilus","Lesser Long-eared Bat",LC,S,-16731116
+138,137,"microdon","Nyctophilus","Small-toothed Long-eared Bat",DD,U,-11513776
+139,137,"timoriensis","Nyctophilus","Greater Long-eared Bat",DD,D,-11513776
+140,122,"imogene","Pharotis","Thomas's Big-eared Bat",CR,U,-3014646
+141,121,"subflavus","Pipistrellus","Eastern Pipistrelle",LC,S,-16731116
+144,143,"circumdatus","Arielulus","Bronze Sprite",LC,U,-16731116
+145,143,"cuprosus","Arielulus","Coppery Sprite",DD,U,-11513776
+146,142,"societatis","Arielulus","Social Sprite",VU,D,-11184866
+149,148,"stenopterus","Pipistrellus","Narrow-winged Pipistrelle",LC,U,-16731116
+150,148,"joffrei","Hypsugo","",NE,U,-16777216
+151,147,"anthonyi","Hypsugo","",NE,U,-16777216
+157,156,"matroka","Eptesicus","Malagasy Serotine",LC,U,-16731116
+158,156,"capensis","Neoromicia","",NE,U,-16777216
+160,159,"somalicus","Neoromicia","",NE,U,-16777216
+161,159,"zuluensis","Neoromicia","",NE,U,-16777216
+164,163,"guineensis","Neoromicia","",NE,U,-16777216
+165,163,"brunneus","Neoromicia","",NE,U,-16777216
+166,162,"melckorum","Neoromicia","",NE,U,-16777216
+169,168,"tenuipinnis","Neoromicia","",NE,U,-16777216
+170,168,"rendalli","Neoromicia","",NE,U,-16777216
+171,167,"flavescens","Neoromicia","",NE,U,-16777216
+174,173,"kitcheneri","Hypsugo","",NE,U,-16777216
+175,173,"lophurus","Hypsugo","",NE,U,-16777216
+176,172,"pulveratus","Hypsugo","",NE,U,-16777216

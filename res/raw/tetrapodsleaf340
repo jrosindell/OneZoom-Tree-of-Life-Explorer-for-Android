@@ -1,0 +1,61 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"andersonii","Hyla","Pine Barrens Treefrog",NT,D,-12486656
+13,11,"bocourti","Hyla","",CR,D,-3014646
+14,10,"wrightorum","Hyla","",LC,S,-16731116
+16,15,"arboricola","Hyla","",DD,U,-11513776
+17,15,"walkeri","Hyla","",VU,D,-11184866
+18,8,"eximia","Hyla","",LC,S,-16731116
+19,7,"arenicolor","Hyla","Canyon Treefrog",LC,S,-16731116
+21,20,"japonica","Hyla","Japanese Treefrog",LC,S,-16731116
+22,20,"plicata","Hyla","",LC,S,-16731116
+24,23,"euphorbiacea","Hyla","",NT,D,-12486656
+25,23,"suweonensis","Hyla","",DD,U,-11513776
+28,27,"chrysoscelis","Hyla","Cope's Gray Treefrog",LC,S,-16731116
+29,27,"versicolor","Hyla","Gray Treefrog",LC,S,-16731116
+30,26,"avivoca","Hyla","Bird-voiced Treefrog",LC,S,-16731116
+33,32,"squirella","Hyla","Squirrel Treefrog",LC,S,-16731116
+34,32,"cinerea","Hyla","Green Treefrog",LC,S,-16731116
+35,31,"gratiosa","Hyla","",LC,S,-16731116
+39,38,"smithii","Tlalocohyla","",LC,D,-16731116
+40,38,"loquax","Tlalocohyla","",LC,S,-16731116
+41,37,"picta","Tlalocohyla","",LC,I,-16731116
+42,36,"godmani","Tlalocohyla","",VU,D,-11184866
+49,48,"baudinii","Smilisca","",LC,S,-16731116
+50,48,"phaeota","Smilisca","",LC,S,-16731116
+51,47,"fodiens","Smilisca","",LC,S,-16731116
+52,46,"cyanosticta","Smilisca","",NT,D,-12486656
+54,53,"dentata","Smilisca","",EN,D,-8572416
+55,53,"sordida","Smilisca","",LC,S,-16731116
+57,56,"puma","Smilisca","",LC,S,-16731116
+58,56,"sila","Smilisca","",LC,D,-16731116
+61,60,"spatulatus","Triprion","",NE,U,-16777216
+62,60,"petasatus","Triprion","",LC,S,-16731116
+63,59,"spinosa","Anotheca","",LC,D,-16731116
+71,70,"sanchiangensis","Hyla","",LC,D,-16731116
+72,70,"tsinlingensis","Hyla","",LC,D,-16731116
+73,69,"savignyi","Hyla","",LC,S,-16731116
+75,74,"sarda","Hyla","Sardinian Treefrog",LC,S,-16731116
+76,74,"zhaopingensis","Hyla","",DD,U,-11513776
+80,79,"intermedia","Hyla","Italian Treefrog",LC,S,-16731116
+81,79,"arborea","Hyla","European Treefrog",LC,D,-16731116
+82,78,"simplex","Hyla","",LC,S,-16731116
+83,77,"femoralis","Hyla","",LC,S,-16731116
+85,84,"meridionalis","Hyla","Mediterranean Treefrog",LC,S,-16731116
+86,84,"hallowellii","Hyla","",LC,S,-16731116
+89,88,"immaculata","Hyla","",LC,S,-16731116
+90,88,"chinensis","Hyla","",LC,S,-16731116
+91,87,"annectans","Hyla","",LC,S,-16731116
+97,96,"rivularis","Isthmohyla","",CR,D,-3014646
+98,96,"debilis","Isthmohyla","",CR,D,-3014646
+100,99,"picadoi","Isthmohyla","",NT,D,-12486656
+101,99,"calypsa","Isthmohyla","",CR,D,-3014646
+104,103,"lancasteri","Isthmohyla","",LC,S,-16731116
+105,103,"insolita","Isthmohyla","",CR,D,-3014646
+106,102,"zeteki","Isthmohyla","",NT,D,-12486656
+109,108,"pictipes","Isthmohyla","",EN,D,-8572416
+110,108,"tica","Isthmohyla","",CR,D,-3014646
+111,107,"xanthosticta","Isthmohyla","",DD,U,-11513776
+115,114,"angustilineata","Isthmohyla","",CR,D,-3014646
+116,114,"pseudopuma","Isthmohyla","",LC,S,-16731116
+117,113,"graceae","Isthmohyla","",CR,D,-3014646
+118,112,"infucata","Isthmohyla","",DD,U,-11513776

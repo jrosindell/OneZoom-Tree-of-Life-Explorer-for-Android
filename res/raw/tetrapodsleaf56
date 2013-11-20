@@ -1,143 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"smaragdina","Ameerega","Emerald Poison Frog",DD,U,-11513776
-14,12,"picta","Ameerega","Spot-legged Poison Frog",LC,S,-16731116
-16,15,"pulchripecta","Ameerega","",DD,U,-11513776
-17,15,"simulans","Ameerega","",LC,S,-16731116
-18,10,"erythromos","Ameerega","Palenque Poison Frog",DD,U,-11513776
-22,21,"maculata","Ameerega","Confusing Poison Frog",DD,U,-11513776
-23,21,"rubriventris","Ameerega","",DD,U,-11513776
-24,20,"petersi","Ameerega","Peru Poison Frog",LC,S,-16731116
-25,19,"macero","Ameerega","Manu Poison Frog",LC,S,-16731116
-27,26,"flavopicta","Ameerega","Lutz's Poison Frog",LC,S,-16731116
-28,26,"boliviana","Ameerega","",LC,S,-16731116
-30,29,"andina","Ameerega","La Planada Poison Frog",DD,U,-11513776
-31,29,"trivittata","Ameerega","",LC,S,-16731116
-36,35,"cainarachi","Ameerega","Cainarachi Poison Frog",VU,D,-11184866
-37,35,"braccata","Ameerega","",LC,U,-16731116
-38,34,"ingeri","Ameerega","",CR,D,-3014646
-40,39,"silverstonei","Ameerega","Silverstone's Poison Frog",DD,U,-11513776
-41,39,"bilinguis","Ameerega","Ecuador Poison Frog",LC,U,-16731116
-42,32,"planipaleae","Ameerega","Oxapampa Poison Frog",CR,D,-3014646
-45,44,"bassleri","Ameerega","Pleasing Poison Frog",NT,D,-12486656
-46,44,"parvula","Ameerega","",LC,S,-16731116
-48,47,"pongoensis","Ameerega","",DD,U,-11513776
-49,47,"hahneli","Ameerega","",LC,S,-16731116
-52,51,"flotator","Silverstoneia","",LC,S,-16731116
-53,51,"nubicola","Silverstoneia","",NT,D,-12486656
-54,50,"erasmios","Silverstoneia","",DD,U,-11513776
-58,57,"boulengeri","Epipedobates","Marbled Poison Frog",LC,U,-16731116
-59,57,"machalilla","Epipedobates","",NT,D,-12486656
-61,60,"espinosai","Epipedobates","",DD,U,-11513776
-62,60,"tricolor","Epipedobates","",EN,D,-8572416
-63,55,"anthonyi","Epipedobates","",NT,D,-12486656
-72,71,"jacobuspetersi","Colostethus","",CR,D,-3014646
-73,71,"agilis","Colostethus","",NT,D,-12486656
-75,74,"imbricolus","Colostethus","",DD,U,-11513776
-76,74,"ruthveni","Colostethus","",EN,D,-8572416
-77,69,"lynchi","Colostethus","",DD,U,-11513776
-80,79,"latinasus","Colostethus","",DD,S,-11513776
-81,79,"yaguara","Colostethus","",DD,U,-11513776
-82,78,"furviventris","Colostethus","",DD,U,-11513776
-83,67,"inguinalis","Colostethus","",LC,D,-16731116
-86,85,"fraterdanieli","Colostethus","",NT,D,-12486656
-87,85,"alacris","Colostethus","",DD,U,-11513776
-88,84,"mertensi","Colostethus","",EN,D,-8572416
-91,90,"panamensis","Colostethus","",NE,U,-16777216
-92,90,"thorntoni","Colostethus","",DD,U,-11513776
-93,89,"dysprosium","Colostethus","",DD,U,-11513776
-96,95,"brachistriatus","Colostethus","",DD,U,-11513776
-97,95,"pratti","Colostethus","",LC,D,-16731116
-98,94,"fugax","Colostethus","",DD,U,-11513776
-110,109,"edwardsi","Hyloxalus","",CR,D,-3014646
-111,109,"awa","Hyloxalus","",VU,D,-11184866
-112,108,"utcubambensis","Hyloxalus","",DD,U,-11513776
-113,107,"betancuri","Hyloxalus","",DD,U,-11513776
-115,114,"marmoreoventris","Hyloxalus","",DD,U,-11513776
-116,114,"mittermeieri","Hyloxalus","",DD,U,-11513776
-120,119,"vertebralis","Hyloxalus","",CR,D,-3014646
-121,119,"mystax","Hyloxalus","",DD,U,-11513776
-122,118,"fuliginosus","Hyloxalus","",DD,U,-11513776
-123,117,"abditaurantius","Hyloxalus","",LC,S,-16731116
-125,124,"cevallosi","Hyloxalus","",EN,D,-8572416
-126,124,"excisus","Hyloxalus","",DD,U,-11513776
-128,127,"infraguttatus","Hyloxalus","",NT,D,-12486656
-129,127,"elachyhistus","Hyloxalus","",EN,D,-8572416
-131,130,"chocoensis","Hyloxalus","",DD,U,-11513776
-132,130,"fallax","Hyloxalus","",DD,U,-11513776
-140,139,"patitae","Hyloxalus","",DD,U,-11513776
-141,139,"borjai","Hyloxalus","",DD,U,-11513776
-142,138,"fascianigrus","Hyloxalus","",NT,D,-12486656
-143,137,"argyrogaster","Hyloxalus","",LC,S,-16731116
-144,136,"subpunctatus","Hyloxalus","",LC,S,-16731116
-145,135,"anthracinus","Hyloxalus","",CR,D,-3014646
-147,146,"saltuarius","Hyloxalus","",DD,U,-11513776
-148,146,"vergeli","Hyloxalus","",VU,S,-11184866
-150,149,"sylvaticus","Hyloxalus","",DD,U,-11513776
-151,149,"sauli","Hyloxalus","",LC,S,-16731116
-157,156,"pinguis","Hyloxalus","",DD,U,-11513776
-158,156,"shuar","Hyloxalus","",NT,D,-12486656
-159,155,"breviquartus","Hyloxalus","",DD,U,-11513776
-161,160,"chlorocraspedus","Hyloxalus","",DD,D,-11513776
-162,160,"toachi","Hyloxalus","",EN,D,-8572416
-163,153,"idiomelus","Hyloxalus","",DD,U,-11513776
-164,152,"ruizi","Hyloxalus","",CR,D,-3014646
-170,169,"delatorreae","Hyloxalus","",CR,D,-3014646
-171,169,"ramosi","Hyloxalus","",DD,U,-11513776
-172,168,"faciopunctulatus","Hyloxalus","",DD,U,-11513776
-174,173,"whymperi","Hyloxalus","",DD,U,-11513776
-175,173,"bocagei","Hyloxalus","",LC,D,-16731116
-177,176,"maquipucuna","Hyloxalus","",DD,U,-11513776
-178,176,"nexipus","Hyloxalus","",LC,S,-16731116
-184,183,"pulchellus","Hyloxalus","",VU,D,-11184866
-185,183,"peculiaris","Hyloxalus","",DD,U,-11513776
-187,186,"exasperatus","Hyloxalus","",DD,U,-11513776
-188,186,"pumilus","Hyloxalus","",DD,U,-11513776
-189,181,"littoralis","Hyloxalus","",LC,D,-16731116
-190,180,"lehmanni","Hyloxalus","",NT,D,-12486656
-191,179,"peruvianus","Hyloxalus","",LC,S,-16731116
-205,204,"fantastica","Ranitomeya","Red-headed Poison Frog",LC,S,-16731116
-206,204,"minuta","Ranitomeya","Blue-bellied Poison Frog",LC,U,-16731116
-207,203,"rubrocephala","Ranitomeya","",DD,U,-11513776
-209,208,"bombetes","Ranitomeya","Cauca Poison Frog",EN,D,-8572416
-210,208,"biolat","Ranitomeya","",LC,S,-16731116
-212,211,"opisthomelas","Ranitomeya","Andean Poison Frog",VU,D,-11184866
-213,211,"ventrimaculata","Ranitomeya","",LC,S,-16731116
-216,215,"lamasi","Ranitomeya","Pasco Poison Frog",LC,S,-16731116
-217,215,"amazonica","Ranitomeya","",DD,U,-11513776
-218,214,"sirensis","Ranitomeya","",EN,D,-8572416
-219,199,"duellmani","Ranitomeya","",LC,S,-16731116
-225,224,"vanzolinii","Ranitomeya","",LC,S,-16731116
-226,224,"abdita","Ranitomeya","",CR,D,-3014646
-227,223,"fulgurita","Ranitomeya","Yellow-bellied Poison Frog",LC,U,-16731116
-228,222,"virolinensis","Ranitomeya","",EN,D,-8572416
-229,221,"viridis","Ranitomeya","Green Poison Frog",VU,D,-11184866
-232,231,"imitator","Ranitomeya","Mimic Poison Frog",LC,S,-16731116
-233,231,"claudiae","Ranitomeya","",DD,U,-11513776
-234,230,"variabilis","Ranitomeya","",DD,U,-11513776
-237,236,"flavovittata","Ranitomeya","",DD,U,-11513776
-238,236,"reticulata","Ranitomeya","",LC,S,-16731116
-239,235,"altobueyensis","Ranitomeya","",VU,S,-11184866
-242,241,"quinquevittatus","Adelphobates","",LC,S,-16731116
-243,241,"castaneoticus","Adelphobates","",LC,S,-16731116
-245,244,"galactonotus","Adelphobates","",LC,D,-16731116
-246,244,"captivus","Adelphobates","",NE,U,-16777216
-251,250,"tinctorius","Dendrobates","Dyeing Poison Frog",LC,S,-16731116
-252,250,"nubeculosus","Dendrobates","",DD,U,-11513776
-253,249,"leucomelas","Dendrobates","Yellow-headed Poison Frog",LC,S,-16731116
-254,248,"truncatus","Dendrobates","Yellow-striped Poison Frog",LC,S,-16731116
-255,247,"auratus","Dendrobates","Green And Black Poison Frog",LC,U,-16731116
-262,261,"histrionica","Oophaga","Harlequin Poison Frog",LC,D,-16731116
-263,261,"speciosa","Oophaga","Splendid Poison Frog",EN,D,-8572416
-264,260,"occultator","Oophaga","La Brea Poison Frog",DD,U,-11513776
-265,259,"lehmanni","Oophaga","Lehmann's Poison Frog",CR,D,-3014646
-267,266,"arborea","Oophaga","Polkadot Poison Frog",EN,D,-8572416
-268,266,"sylvatica","Oophaga","",NT,D,-12486656
-269,257,"granulifera","Oophaga","Granular Poison Frog",VU,D,-11184866
-271,270,"vicentei","Oophaga","Vicente's Poison Frog",DD,U,-11513776
-272,270,"pumilio","Oophaga","Strawberry Poison Frog",LC,D,-16731116
-273,193,"steyermarki","Minyobates","",CR,D,-3014646
-278,277,"terribilis","Phyllobates","Golden Poison Frog",EN,D,-8572416
-279,277,"lugubris","Phyllobates","Lovely Poison Frog",LC,U,-16731116
-280,276,"vittatus","Phyllobates","Golfodulcean Poison Frog",EN,D,-8572416
-281,275,"aurotaenia","Phyllobates","Kokoe Poison Frog",NT,D,-12486656
-282,274,"bicolor","Phyllobates","Black-legged Poison Frog",NT,D,-12486656
+10,9,"canariensis","Phylloscopus","Canary Islands Chiffchaff",LC,U,-16731116
+11,9,"sindianus","Phylloscopus","Mountain Chiffchaff",LC,U,-16731116
+12,8,"collybita","Phylloscopus","Common Chiffchaff",LC,U,-16731116
+13,7,"trochilus","Phylloscopus","Willow Warbler",LC,U,-16731116
+14,6,"subaffinis","Phylloscopus","Buff-throated Warbler",LC,U,-16731116
+17,16,"fuligiventer","Phylloscopus","Smoky Warbler",LC,U,-16731116
+18,16,"fuscatus","Phylloscopus","Dusky Warbler",LC,U,-16731116
+19,15,"subviridis","Phylloscopus","Brooks's Leaf-warbler",LC,U,-16731116
+20,4,"laurae","Phylloscopus","Laura's Woodland-warbler",LC,U,-16731116
+24,23,"griseolus","Phylloscopus","Sulphur-bellied Warbler",LC,U,-16731116
+25,23,"affinis","Phylloscopus","Tickell's Leaf-warbler",LC,U,-16731116
+27,26,"armandii","Phylloscopus","Yellow-streaked Warbler",LC,U,-16731116
+28,26,"schwarzi","Phylloscopus","Radde's Warbler",LC,U,-16731116
+29,21,"tytleri","Phylloscopus","Tytler's Leaf-warbler",NT,U,-12486656
+31,30,"makirensis","Phylloscopus","Makira Leaf-warbler",LC,U,-16731116
+32,30,"neglectus","Phylloscopus","Plain Leaf-warbler",LC,U,-16731116
+40,39,"proregulus","Phylloscopus","Lemon-rumped Warbler",LC,U,-16731116
+41,39,"kansuensis","Phylloscopus","Gansu Leaf-warbler",LC,U,-16731116
+42,38,"chloronotus","Phylloscopus","Pale-rumped Warbler",LC,U,-16731116
+43,37,"forresti","Phylloscopus","Sichuan Leaf-warbler",LC,U,-16731116
+44,36,"yunnanensis","Phylloscopus","Chinese Leaf-warbler",LC,U,-16731116
+45,35,"herberti","Phylloscopus","Black-capped Woodland-warbler",LC,U,-16731116
+47,46,"inornatus","Phylloscopus","Inornate Warbler",LC,U,-16731116
+48,46,"humei","Phylloscopus","Hume's Leaf-warbler",LC,U,-16731116
+51,50,"budongoensis","Phylloscopus","Uganda Woodland-warbler",LC,U,-16731116
+52,50,"maculipennis","Phylloscopus","Ashy-throated Warbler",LC,U,-16731116
+54,53,"pulcher","Phylloscopus","Buff-barred Warbler",LC,U,-16731116
+55,53,"ibericus","Phylloscopus","Iberian Chiffchaff",LC,U,-16731116
+58,57,"orientalis","Phylloscopus","Eastern Bonelli's Warbler",_U,[,-16777216
+59,57,"bonelli","Phylloscopus","Bonelli's Warbler",LC,U,-16731116
+60,56,"sibilatrix","Phylloscopus","Wood Warbler",LC,U,-16731116

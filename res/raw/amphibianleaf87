@@ -1,0 +1,47 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"ferrugineus","Hyperolius","",DD,U,-11513776
+10,8,"acuticeps","Hyperolius","",LC,D,-16731116
+12,11,"xenorhinus","Hyperolius","",DD,U,-11513776
+13,11,"ocellatus","Hyperolius","",LC,S,-16731116
+14,6,"albofrenatus","Hyperolius","",DD,U,-11513776
+17,16,"rhodesianus","Hyperolius","",LC,S,-16731116
+18,16,"frontalis","Hyperolius","",VU,D,-11184866
+19,15,"laurenti","Hyperolius","",VU,D,-11184866
+22,21,"ghesquieri","Hyperolius","",DD,U,-11513776
+23,21,"bicolor","Hyperolius","",DD,U,-11513776
+24,20,"argus","Hyperolius","",LC,D,-16731116
+29,28,"seabrai","Hyperolius","",DD,U,-11513776
+30,28,"raveni","Hyperolius","",DD,U,-11513776
+31,27,"acutirostris","Hyperolius","",NT,D,-12486656
+33,32,"minutissimus","Hyperolius","",VU,D,-11184866
+34,32,"castaneus","Hyperolius","",VU,D,-11184866
+35,25,"thoracotuberculatus","Hyperolius","",DD,U,-11513776
+36,2,"leleupi","Hyperolius","",EN,D,-8572416
+42,41,"fuscigula","Hyperolius","",DD,U,-11513776
+43,41,"parkeri","Hyperolius","",LC,S,-16731116
+44,40,"guttulatus","Hyperolius","Dotted Reed Frog",LC,S,-16731116
+47,46,"nasutus","Hyperolius","Long-nosed Reed Frog",LC,S,-16731116
+48,46,"nitidulus","Hyperolius","",LC,S,-16731116
+49,45,"pictus","Hyperolius","",LC,S,-16731116
+51,50,"baumanni","Hyperolius","Baumann's Reed Frog",LC,S,-16731116
+52,50,"viridigulosus","Hyperolius","",VU,D,-11184866
+55,54,"tannerorum","Hyperolius","",EN,D,-8572416
+56,54,"robustus","Hyperolius","",DD,U,-11513776
+57,53,"polystictus","Hyperolius","",VU,U,-11184866
+64,63,"inornatus","Hyperolius","",DD,U,-11513776
+65,63,"soror","Hyperolius","",DD,U,-11513776
+66,62,"puncticulatus","Hyperolius","",EN,D,-8572416
+67,61,"riggenbachi","Hyperolius","",VU,D,-11184866
+70,69,"occidentalis","Hyperolius","",LC,U,-16731116
+71,69,"picturatus","Hyperolius","",LC,U,-16731116
+72,68,"vilhenai","Hyperolius","",DD,U,-11513776
+76,75,"marmoratus","Hyperolius","Marbled Reed Frog",LC,I,-16731116
+77,75,"sankuruensis","Hyperolius","",DD,U,-11513776
+78,74,"pustulifer","Hyperolius","",DD,U,-11513776
+79,73,"atrigularis","Hyperolius","",DD,U,-11513776
+85,84,"discodactylus","Hyperolius","",VU,D,-11184866
+86,84,"steindachneri","Hyperolius","",LC,U,-16731116
+87,83,"pickersgilli","Hyperolius","Pickersgill's Reed Frog",EN,D,-8572416
+88,82,"stenodactylus","Hyperolius","",DD,U,-11513776
+89,81,"cinereus","Hyperolius","",DD,U,-11513776
+90,80,"tuberilinguis","Hyperolius","",LC,S,-16731116

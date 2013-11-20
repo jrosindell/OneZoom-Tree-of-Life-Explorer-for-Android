@@ -1,119 +1,94 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"probolaea","Euhyas","",NE,U,-16777216
-13,11,"greyi","Euhyas","",NE,U,-16777216
-14,10,"caribe","Euhyas","",NE,U,-16777216
-15,9,"glaphycompus","Euhyas","",NE,U,-16777216
-17,16,"unicolor","Euhyas","",NE,U,-16777216
-18,16,"cubana","Euhyas","",NE,U,-16777216
-21,20,"glaucoreia","Euhyas","",NE,U,-16777216
-22,20,"atkinsi","Euhyas","",NE,U,-16777216
-23,19,"blairhedgesi","Euhyas","",NE,U,-16777216
-28,27,"cavernicola","Euhyas","",NE,U,-16777216
-29,27,"emiliae","Euhyas","",NE,U,-16777216
-30,26,"gossei","Euhyas","",NE,U,-16777216
-32,31,"thorectes","Euhyas","",NE,U,-16777216
-33,31,"zeus","Euhyas","",NE,U,-16777216
-35,34,"acmonis","Euhyas","",NE,U,-16777216
-36,34,"rhodesi","Euhyas","",NE,U,-16777216
-39,38,"schmidti","Euhyas","",NE,U,-16777216
-40,38,"riparia","Euhyas","",NE,U,-16777216
-41,37,"semipalmata","Euhyas","",NE,U,-16777216
-48,47,"pentasyringos","Euhyas","",NE,U,-16777216
-49,47,"klinikowskii","Euhyas","",NE,U,-16777216
-51,50,"maestrensis","Euhyas","",NE,U,-16777216
-52,50,"iberia","Euhyas","",NE,U,-16777216
-53,45,"alticola","Euhyas","",NE,U,-16777216
-55,54,"pinarensis","Euhyas","",NE,U,-16777216
-56,54,"nubicola","Euhyas","",NE,U,-16777216
-57,43,"oxyrhynca","Euhyas","",NE,U,-16777216
-59,58,"grabhami","Euhyas","",NE,U,-16777216
-60,58,"heminota","Euhyas","",NE,U,-16777216
-65,64,"intermedia","Euhyas","",NE,U,-16777216
-66,64,"cuneata","Euhyas","",NE,U,-16777216
-68,67,"weinlandi","Euhyas","",NE,U,-16777216
-69,67,"monensis","Euhyas","",NE,U,-16777216
-70,62,"grahami","Euhyas","",NE,U,-16777216
-74,73,"guanahacabibes","Euhyas","",NE,U,-16777216
-75,73,"rivularis","Euhyas","",NE,U,-16777216
-76,72,"counouspea","Euhyas","",NE,U,-16777216
-77,71,"andrewsi","Euhyas","",NE,U,-16777216
-87,86,"alcoae","Euhyas","",NE,U,-16777216
-88,86,"lenta","Euhyas","",NE,U,-16777216
-89,85,"jugans","Euhyas","",NE,U,-16777216
-90,84,"karlschmidti","Euhyas","",NE,U,-16777216
-91,83,"glandulifer","Euhyas","",NE,U,-16777216
-92,82,"planirostris","Euhyas","",NE,U,-16777216
-93,81,"lucioi","Euhyas","",NE,U,-16777216
-94,80,"brevirostris","Euhyas","",NE,U,-16777216
-96,95,"etheridgei","Euhyas","",NE,U,-16777216
-97,95,"parabates","Euhyas","",NE,U,-16777216
-98,78,"jamaicensis","Euhyas","",NE,U,-16777216
-109,108,"symingtoni","Euhyas","",NE,U,-16777216
-110,108,"goini","Euhyas","",NE,U,-16777216
-111,107,"richmondi","Euhyas","",NE,U,-16777216
-112,106,"varleyi","Euhyas","",NE,U,-16777216
-113,105,"limbata","Euhyas","",NE,U,-16777216
-115,114,"adela","Euhyas","",NE,U,-16777216
-116,114,"zugi","Euhyas","",NE,U,-16777216
-117,103,"minuta","Euhyas","",NE,U,-16777216
-120,119,"warreni","Euhyas","",NE,U,-16777216
-121,119,"luteola","Euhyas","",NE,U,-16777216
-122,118,"cundalli","Euhyas","",NE,U,-16777216
-126,125,"pezopetrus","Euhyas","",NE,U,-16777216
-127,125,"amadeus","Euhyas","",NE,U,-16777216
-128,124,"pantoni","Euhyas","",NE,U,-16777216
-129,123,"thomasi","Euhyas","",NE,U,-16777216
-135,134,"apostates","Euhyas","",NE,U,-16777216
-136,134,"simulans","Euhyas","",NE,U,-16777216
-137,133,"dimidiata","Euhyas","",NE,U,-16777216
-139,138,"ventrilineata","Euhyas","",NE,U,-16777216
-140,138,"turquinensis","Euhyas","",NE,U,-16777216
-143,142,"tetajulia","Euhyas","",NE,U,-16777216
-144,142,"albipes","Euhyas","",NE,U,-16777216
-146,145,"ricordii","Euhyas","",NE,U,-16777216
-147,145,"leoncei","Euhyas","",NE,U,-16777216
-150,149,"bresslerae","Euhyas","",NE,U,-16777216
-151,149,"orcutti","Euhyas","",NE,U,-16777216
-152,148,"armstrongi","Euhyas","",NE,U,-16777216
-161,160,"sciagraphus","Euhyas","",NE,U,-16777216
-162,160,"gundlachi","Euhyas","",NE,U,-16777216
-163,159,"paulsoni","Euhyas","",NE,U,-16777216
-165,164,"glanduliferoides","Euhyas","",NE,U,-16777216
-166,164,"rufifemoralis","Euhyas","",NE,U,-16777216
-167,157,"darlingtoni","Euhyas","",NE,U,-16777216
-168,156,"pictissima","Euhyas","",NE,U,-16777216
-173,172,"jaumei","Euhyas","",NE,U,-16777216
-174,172,"toa","Euhyas","",NE,U,-16777216
-175,171,"fusca","Euhyas","",NE,U,-16777216
-177,176,"orientalis","Euhyas","",NE,U,-16777216
-178,176,"griphus","Euhyas","",NE,U,-16777216
-180,179,"sisyphodemus","Euhyas","",NE,U,-16777216
-181,179,"furcyensis","Euhyas","",NE,U,-16777216
-184,183,"casparii","Euhyas","",NE,U,-16777216
-185,183,"tonyi","Euhyas","",NE,U,-16777216
-186,182,"junori","Euhyas","",NE,U,-16777216
-187,153,"dolomedes","Euhyas","",NE,U,-16777216
-194,193,"cystignathoides","Syrrhophus","",NE,U,-16777216
-195,193,"pallidus","Syrrhophus","",NE,U,-16777216
-197,196,"rubrimaculatus","Syrrhophus","",NE,U,-16777216
-198,196,"pipilans","Syrrhophus","",NE,U,-16777216
-199,191,"verruculatus","Syrrhophus","",NE,U,-16777216
-201,200,"interorbitalis","Syrrhophus","",NE,U,-16777216
-202,200,"guttilatus","Syrrhophus","",NE,U,-16777216
-208,207,"dennisi","Syrrhophus","",NE,U,-16777216
-209,207,"leprus","Syrrhophus","",NE,U,-16777216
-210,206,"fuscus","Syrrhophus","",NE,U,-16777216
-211,205,"angustidigitorum","Syrrhophus","",NE,U,-16777216
-212,204,"modestus","Syrrhophus","",NE,U,-16777216
-213,203,"nitidus","Syrrhophus","",NE,U,-16777216
-220,219,"nivicolimae","Syrrhophus","",NE,U,-16777216
-221,219,"grandis","Syrrhophus","",NE,U,-16777216
-222,218,"marnockii","Syrrhophus","",NE,U,-16777216
-225,224,"albolabris","Syrrhophus","",NE,U,-16777216
-226,224,"syristes","Syrrhophus","",NE,U,-16777216
-227,223,"dilatus","Syrrhophus","",NE,U,-16777216
-228,216,"rufescens","Syrrhophus","",NE,U,-16777216
-229,215,"longipes","Syrrhophus","",NE,U,-16777216
-232,231,"verrucipes","Syrrhophus","",NE,U,-16777216
-233,231,"saxatilis","Syrrhophus","",NE,U,-16777216
-234,230,"teretistes","Syrrhophus","",NE,U,-16777216
+7,5,"brookii","Otus","Rajah Scops-owl",LC,U,-16731116
+14,13,"stygius","Asio","Stygian Owl",LC,U,-16731116
+15,13,"capensis","Asio","Marsh Owl",LC,U,-16731116
+16,12,"flammeus","Asio","Short-eared Owl",LC,U,-16731116
+17,11,"abyssinicus","Asio","Abyssinian Owl",LC,U,-16731116
+19,18,"madagascariensis","Asio","Madagascar Owl",LC,U,-16731116
+20,18,"solomonensis","Nesasio","Fearful Owl",VU,U,-11184866
+23,22,"grammicus","Pseudoscops","Jamaican Owl",LC,U,-16731116
+24,22,"clamator","Pseudoscops","Striped Owl",LC,U,-16731116
+25,21,"otus","Asio","Long-eared Owl",LC,U,-16731116
+28,27,"leucotis","Otus","White-faced Scops-owl",LC,U,-16731116
+29,27,"magicus","Otus","Moluccan Scops-owl",LC,U,-16731116
+30,26,"granti","Ptilopsis","Southern White-faced Owl",_U,[,-16777216
+33,32,"mindorensis","Otus","Mindoro Scops-owl",NT,U,-12486656
+34,32,"ireneae","Otus","Sokoke Scops-owl",EN,U,-8572416
+49,48,"peruanum","Glaucidium","Peruvian Pygmy-owl",LC,U,-16731116
+50,48,"siju","Glaucidium","Cuban Pygmy-owl",LC,U,-16731116
+51,47,"brasilianum","Glaucidium","Ferruginous Pygmy-owl",LC,U,-16731116
+52,46,"nanum","Glaucidium","Austral Pygmy-owl",LC,U,-16731116
+53,45,"griseiceps","Glaucidium","Central American Pygmy-owl",LC,U,-16731116
+54,44,"hardyi","Glaucidium","Amazonian Pygmy-owl",LC,U,-16731116
+57,56,"parkeri","Glaucidium","Subtropical Pygmy-owl",LC,U,-16731116
+58,56,"jardinii","Glaucidium","Andean Pygmy-owl",LC,U,-16731116
+59,55,"bolivianum","Glaucidium","Yungas Pygmy-owl",LC,U,-16731116
+62,61,"californicum","Glaucidium","Northern Pygmy Owl",_U,[,-16777216
+63,61,"gnoma","Glaucidium","Northern Pygmy-owl",LC,U,-16731116
+64,60,"minutissimum","Glaucidium","Least Pygmy-owl",LC,U,-16731116
+67,66,"perlatum","Glaucidium","Pearl-spotted Owlet",LC,U,-16731116
+68,66,"palmarum","Glaucidium","Colima Pygmy-owl",LC,U,-16731116
+70,69,"castanopterum","Glaucidium","Javan Owlet",LC,U,-16731116
+71,69,"castaneum","Glaucidium","Chestnut Owlet",LC,U,-16731116
+76,75,"castanonotum","Glaucidium","Chestnut-backed Owlet",NT,U,-12486656
+77,75,"mooreorum","Glaucidium","Pernambuco Pygmy-owl",CR,U,-3014646
+78,74,"sanchezi","Glaucidium","Tamaulipas Pygmy-owl",LC,U,-16731116
+80,79,"passerinum","Glaucidium","Eurasian Pygmy-owl",LC,U,-16731116
+81,79,"brodiei","Glaucidium","Collared Owlet",LC,U,-16731116
+86,85,"costaricanum","Glaucidium","Costa Rican Pygmy-owl",LC,U,-16731116
+87,85,"tephronotum","Glaucidium","Red-chested Owlet",LC,U,-16731116
+88,84,"nubicola","Glaucidium","Cloud-forest Pygmy-owl",VU,U,-11184866
+89,83,"albertinum","Glaucidium","Albertine Owlet",VU,U,-11184866
+90,82,"sjostedti","Glaucidium","Sjostedt's Owlet",LC,U,-16731116
+93,92,"cuculoides","Glaucidium","Asian Barred Owlet",LC,U,-16731116
+94,92,"capense","Glaucidium","African Barred Owlet",LC,U,-16731116
+95,91,"radiatum","Glaucidium","Jungle Owlet",LC,U,-16731116
+96,38,"ulula","Surnia","Northern Hawk Owl",LC,U,-16731116
+100,99,"brama","Athene","Spotted Owlet",LC,U,-16731116
+101,99,"noctua","Athene","Little Owl",LC,U,-16731116
+102,98,"cunicularia","Athene","Burrowing Owl",LC,U,-16731116
+103,97,"blewitti","Heteroglaux","Forest Owlet",CR,U,-3014646
+107,106,"ridgwayi","Aegolius","Southern Saw-whet Owl",LC,U,-16731116
+108,106,"acadicus","Aegolius","Northern Saw-whet Owl",LC,U,-16731116
+109,105,"harrisii","Aegolius","Buff-fronted Owl",LC,U,-16731116
+110,104,"funereus","Aegolius","Boreal Owl",LC,U,-16731116
+111,35,"whitneyi","Micrathene","Elf Owl",LC,U,-16731116
+121,120,"natalis","Ninox","Christmas Island Hawk-owl",VU,U,-11184866
+122,120,"squamipila","Ninox","Moluccan Hawk-owl",LC,U,-16731116
+124,123,"novaeseelandiae","Ninox","Southern Boobook",LC,U,-16731116
+125,123,"boobook","Ninox","Southern Boobook",_U,[,-16777216
+126,118,"rudolfi","Ninox","Sumba Boobook",NT,U,-12486656
+129,128,"burhani","Ninox","Togian Hawk-owl",NT,U,-12486656
+130,128,"odiosa","Ninox","Russet Hawk-owl",VU,U,-11184866
+132,131,"affinis","Ninox","Andaman Hawk-owl",NT,U,-12486656
+133,131,"connivens","Ninox","Barking Owl",LC,U,-16731116
+136,135,"sumbaensis","Ninox","Little Sumba Hawk-owl",NT,U,-12486656
+137,135,"philippensis","Ninox","Philippine Hawk-owl",LC,U,-16731116
+139,138,"superciliaris","Ninox","White-browed Hawk-owl",LC,U,-16731116
+140,138,"ios","Ninox","Cinnabar Hawk-owl",VU,U,-11184866
+143,142,"ochracea","Ninox","Ochre-bellied Hawk-owl",NT,U,-12486656
+144,142,"strenua","Ninox","Powerful Owl",LC,U,-16731116
+146,145,"variegata","Ninox","Bismarck Hawk-owl",LC,U,-16731116
+147,145,"rufa","Ninox","Rufous Owl",LC,U,-16731116
+151,150,"punctulata","Ninox","Speckled Hawk-owl",LC,U,-16731116
+152,150,"meeki","Ninox","Manus Hawk-owl",LC,U,-16731116
+153,149,"scutulata","Ninox","Brown Hawk-owl",LC,U,-16731116
+154,148,"jacquinoti","Ninox","Solomons Hawk-owl",LC,U,-16731116
+155,113,"theomacha","Ninox","Jungle Hawk-owl",LC,U,-16731116
+157,156,"loweryi","Xenoglaux","Long-whiskered Owlet",EN,U,-8572416
+158,156,"dimorpha","Uroglaux","Papuan Hawk-owl",DD,U,-11513776
+166,165,"longimembris","Tyto","Eastern Grass-owl",LC,U,-16731116
+167,165,"capensis","Tyto","African Grass-owl",LC,U,-16731116
+168,164,"novaehollandiae","Tyto","Australian Masked-owl",LC,U,-16731116
+169,163,"tenebricosa","Tyto","Sooty Owl",LC,U,-16731116
+171,170,"inexspectata","Tyto","Sulawesi Golden Owl",VU,U,-11184866
+172,170,"aurantia","Tyto","Bismarck Masked-owl",VU,U,-11184866
+176,175,"glaucops","Tyto","Ashy-faced Owl",LC,U,-16731116
+177,175,"alba","Tyto","Barn Owl",LC,U,-16731116
+178,174,"manusi","Tyto","Manus Masked-owl",VU,U,-11184866
+180,179,"nigrobrunnea","Tyto","Taliabu Masked-owl",EN,U,-8572416
+181,179,"rosenbergii","Tyto","Sulawesi Owl",LC,U,-16731116
+183,182,"soumagnei","Tyto","Madagascar Red Owl",VU,U,-11184866
+184,182,"sororcula","Tyto","Lesser Masked-owl",DD,U,-11513776
+186,185,"prigoginei","Phodilus","Congo Bay-owl",EN,U,-8572416
+187,185,"badius","Phodilus","Oriental Bay-owl",LC,U,-16731116

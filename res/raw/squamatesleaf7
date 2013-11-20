@@ -1,0 +1,85 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"hanitschi","Oreocalamus","",NE,U,-16777216
+12,10,"ornata","Grayia","",NE,U,-16777216
+14,13,"oxycephalum","Pseudorabdion","Negros Light-scaled Burrowing Snake",LC,D,-16731116
+15,13,"pavimentata","Calamaria","",NE,U,-16777216
+18,17,"karlschmidti","Pseudoxenodon","",NE,U,-16777216
+19,17,"styani","Plagiopholis","",NE,U,-16777216
+28,27,"leucobalia","Fordonia","Crab-eating Water Snake",NE,U,-16777216
+29,27,"prevostiana","Gerarda","Glossy Marsh Snake",LC,U,-16731116
+30,26,"violacea","Cantoria","Cantor's Water Snake",NE,U,-16777216
+31,25,"hydroides","Bitia","",NE,U,-16777216
+32,24,"tentaculatum","Erpeton","Tentacled Snake",NE,U,-16777216
+35,34,"buccata","Homalopsis","",NE,U,-16777216
+36,34,"rynchops","Cerberus","",NE,U,-16777216
+37,33,"enhydris","Enhydris","Rainbow Water Snake",LC,U,-16731116
+38,22,"richardsonii","Myron","",NE,U,-16777216
+46,45,"hypnale","Hypnale","",NE,U,-16777216
+47,45,"zara","Hypnale","",NE,U,-16777216
+48,44,"nepa","Hypnale","",NE,U,-16777216
+49,43,"rhodostoma","Calloselasma","",NE,U,-16777216
+52,51,"acutus","Deinagkistrodon","",NE,U,-16777216
+53,51,"wagleri","Tropidolaemus","",NE,U,-16777216
+54,50,"chaseni","Garthius","",NE,U,-16777216
+55,40,"feae","Azemiops","",NE,U,-16777216
+61,60,"squamigera","Atheris","",NE,U,-16777216
+62,60,"carinatus","Echis","",NE,U,-16777216
+63,59,"superciliaris","Proatheris","",NE,U,-16777216
+64,58,"arietans","Bitis","African Puff Adder",NE,U,-16777216
+66,65,"cerastes","Cerastes","",NE,U,-16777216
+67,65,"defilippi","Causus","",NE,U,-16777216
+71,70,"lebetina","Macrovipera","",NE,U,-16777216
+72,70,"russellii","Daboia","",NE,U,-16777216
+73,69,"berus","Vipera","Adder",LC,D,-16731116
+75,74,"persicus","Pseudocerastes","",NE,U,-16777216
+76,74,"macmahoni","Eristicophis","",NE,U,-16777216
+78,77,"formosensis","Pareas","",NE,U,-16777216
+79,77,"boa","Aplopeltura","",NE,U,-16777216
+82,81,"javanicus","Xenodermus","Java Tubercle Snake",NE,U,-16777216
+83,81,"meiguensis","Achalinus","",NE,U,-16777216
+84,80,"borneensis","Stoliczkia","Borneo Red Snake",NE,U,-16777216
+85,1,"granulatus","Acrochordus","Little Small Snake",NE,U,-16777216
+101,100,"oxyrhynchus","Rhinophis","",NE,U,-16777216
+102,100,"philippinus","Rhinophis","",NE,U,-16777216
+103,99,"dorsimaculatus","Rhinophis","",NE,U,-16777216
+106,105,"homolepis","Rhinophis","",NE,U,-16777216
+107,105,"blythii","Rhinophis","",NE,U,-16777216
+108,104,"ceylanica","Uropeltis","",NE,U,-16777216
+110,109,"erangaviraji","Rhinophis","",NE,U,-16777216
+111,109,"drummondhayi","Rhinophis","",NE,U,-16777216
+112,96,"philippinus","Pseudotyphlops","",NE,U,-16777216
+114,113,"melanogaster","Uropeltis","",NE,U,-16777216
+115,113,"phillipsi","Uropeltis","",NE,U,-16777216
+116,94,"travancoricus","Rhinophis","",NE,U,-16777216
+117,93,"liura","Uropeltis","",NE,U,-16777216
+118,92,"rhodogaster","Brachyophidium","",NE,U,-16777216
+119,91,"punctatum","Melanophidium","Beddome's Black Shieldtail",NE,U,-16777216
+121,120,"maculatus","Cylindrophis","Ceylonese Cylinder Snake",NE,U,-16777216
+122,120,"ruffus","Cylindrophis","",NE,U,-16777216
+123,89,"leonardi","Anomochilus","Leonard's Pipe Snake",DD,U,-11513776
+132,131,"papuana","Apodora","",NE,U,-16777216
+133,131,"mackloti","Liasis","",NE,U,-16777216
+134,130,"melanocephalus","Aspidites","",NE,U,-16777216
+136,135,"albertisii","Leiopython","",NE,U,-16777216
+137,135,"boa","Bothrochilus","",NE,U,-16777216
+139,138,"spilota","Morelia","Western Australian Carpet Python",NT,U,-12486656
+140,138,"childreni","Antaresia","",NE,U,-16777216
+141,127,"reticulatus","Broghammerus","",NE,U,-16777216
+142,126,"molurus","Python","Asiatic Rock Python",NT,U,-12486656
+143,125,"bicolor","Loxocemus","Mexican Python",NE,U,-16777216
+144,124,"unicolor","Xenopeltis","Sunbeam Snake",NE,U,-16777216
+146,145,"dussumieri","Casarea","Round Island Boa",EN,U,-8572416
+147,145,"schaeferi","Xenophidion","",NE,U,-16777216
+156,155,"cenchria","Epicrates","Rainbow Boa",NE,U,-16777216
+157,155,"notaeus","Eunectes","",NE,U,-16777216
+158,154,"hortulanus","Corallus","Amazon Tree Boa",NE,U,-16777216
+159,153,"constrictor","Boa","",NE,U,-16777216
+160,152,"conicus","Eryx","Rough-scaled Sand Boa",NE,U,-16777216
+161,151,"carinata","Candoia","Pacific Ground Boa",NE,U,-16777216
+164,163,"trivirgata","Lichanura","Rosy Boa",LC,S,-16731116
+165,163,"bottae","Charina","Rubber Boa",LC,S,-16731116
+167,166,"continentalis","Ungaliophis","Chiapan Boa",NE,U,-16777216
+168,166,"placata","Exiliboa","",VU,D,-11184866
+170,169,"madagascariensis","Sanzinia","Madagascar Tree Boa",VU,U,-11184866
+171,169,"dumerili","Acrantophis","Dumeril's Boa",VU,U,-11184866
+172,148,"reinhardtii","Calabaria","Calabar Ground Python",NE,U,-16777216
