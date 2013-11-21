@@ -1,39 +1,112 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"maculata","Genetta","Central African Large-spotted Genet",LC,U,-16731116
-12,10,"pardina","Genetta","West African Large-spotted Genet",LC,U,-16731116
-13,9,"poensis","Genetta","King Genet",DD,U,-11513776
-14,8,"angolensis","Genetta","Miombo Genet",LC,U,-16731116
-17,16,"abyssinica","Genetta","Ethiopian Genet",LC,U,-16731116
-18,16,"thierryi","Genetta","Hausa Genet",LC,U,-16731116
-19,15,"johnstoni","Genetta","Johnston's Genet",VU,D,-11184866
-21,20,"tigrina","Genetta","South African Large-spotted Genet",LC,U,-16731116
-22,20,"genetta","Genetta","Common Genet",LC,S,-16731116
-25,24,"servalina","Genetta","Servaline Genet",LC,U,-16731116
-26,24,"cristata","Genetta","Crested Genet",VU,D,-11184866
-27,23,"victoriae","Genetta","Giant Genet",LC,U,-16731116
-30,29,"pardicolor","Prionodon","Spotted Linsang",LC,U,-16731116
-31,29,"linsang","Prionodon","Banded Linsang",LC,D,-16731116
-33,32,"richardsonii","Poiana","African Linsang",LC,U,-16731116
-34,32,"leightoni","Poiana","Leighton's Linsang",DD,D,-11513776
-35,3,"piscivora","Genetta","Aquatic Genet",DD,U,-11513776
-40,39,"megaspila","Viverra","Large-spotted Civet",VU,D,-11184866
-41,39,"civettina","Viverra","Malabar Civet",CR,U,-3014646
-43,42,"zibetha","Viverra","Large Indian Civet",NT,D,-12486656
-44,42,"tangalunga","Viverra","Malay Civet",LC,S,-16731116
-45,37,"indica","Viverricula","Small Indian Civet",LC,S,-16731116
-46,36,"civetta","Civettictis","African Civet",LC,U,-16731116
-54,53,"zeylonensis","Paradoxurus","Golden Palm Civet",VU,D,-11184866
-55,53,"jerdoni","Paradoxurus","Brown Palm Civet",LC,U,-16731116
-56,52,"hermaphroditus","Paradoxurus","Common Palm Civet",LC,S,-16731116
-58,57,"larvata","Paguma","Masked Palm Civet",LC,D,-16731116
-59,57,"binturong","Arctictis","Binturong",VU,D,-11184866
-60,50,"musschenbroekii","Macrogalidia","Brown Palm Civet",VU,D,-11184866
-61,49,"trivirgata","Arctogalidia","Small-toothed Palm Civet",LC,D,-16731116
-62,48,"binotata","Nandinia","African Palm Civet",LC,U,-16731116
-66,65,"owstoni","Chrotogale","Owston's Civet",VU,D,-11184866
-67,65,"hosei","Diplogale","Hose's Civet",VU,D,-11184866
-68,64,"derbyanus","Hemigalus","Banded Civit",VU,D,-11184866
-69,63,"bennettii","Cynogale","Otter-civet",EN,U,-8572416
-72,71,"goudotii","Eupleres","Falanouc",NT,D,-12486656
-73,71,"fossana","Fossa","Fanaloka",NT,D,-12486656
-74,70,"ferox","Cryptoprocta","Fossa",VU,D,-11184866
+15,14,"fuscocapillus","Petinomys","Travancore Flying Squirrel",NT,D,-12486656
+16,14,"setosus","Petinomys","Temminck's Flying Squirrel",VU,D,-11184866
+17,13,"lugens","Petinomys","Siberut Flying Squirrel",EN,D,-8572416
+18,12,"hageni","Petinomys","Hagen's Flying Squirrel",DD,U,-11513776
+19,11,"vordermanni","Petinomys","Vordermann's Flying Squirrel",VU,D,-11184866
+23,22,"mindanensis","Petinomys","Mindanao Flying Squirrel",LC,U,-16731116
+24,22,"crinitus","Petinomys","Mindanao Flying Squirrel",LC,S,-16731116
+25,21,"sagitta","Petinomys","Arrow Flying Squirrel",DD,U,-11513776
+26,20,"genibarbis","Petinomys","Whiskered Flying Squirrel",VU,D,-11184866
+31,30,"winstoni","Hylopetes","Sumatran Flying Squirrel",DD,U,-11513776
+32,30,"nigripes","Hylopetes","Palawan Flying Squirrel",NT,D,-12486656
+34,33,"phayrei","Hylopetes","Indochinese Flying Squirrel",LC,S,-16731116
+35,33,"alboniger","Hylopetes","African Linsang",LC,D,-16731116
+36,28,"spadiceus","Hylopetes","Red-cheeked Flying Squirrel",LC,U,-16731116
+39,38,"kinlochii","Petaurillus","Selangor Pygmy Flying Squirrel",DD,U,-11513776
+40,38,"hosei","Petaurillus","Hose's Pygmy Flying Squirrel",DD,U,-11513776
+41,37,"emiliae","Petaurillus","Lesser Pygmy Flying Squirrel",DD,U,-11513776
+47,46,"lepidus","Hylopetes","Gray-cheeked Flying Squirrel",DD,U,-11513776
+48,46,"platyurus","Hylopetes","Jentink's Flying Squirrel",DD,U,-11513776
+49,45,"fimbriatus","Eoglaucomys","Small Kashmir Flying Squirrel",LC,U,-16731116
+50,44,"bartelsi","Hylopetes","Bartels's Flying Squirrel",DD,U,-11513776
+51,43,"sipora","Hylopetes","Sipora Flying Squirrel",EN,D,-8572416
+53,52,"sabrinus","Glaucomys","Carolina Flying Squirrel",LC,S,-16731116
+54,52,"volans","Glaucomys","Mexican Flying Squirrel",LC,S,-16731116
+56,55,"horsfieldii","Iomys","Javanese Flying Squirrel",LC,S,-16731116
+57,55,"sipora","Iomys","Mentawi Flying Squirrel",EN,D,-8572416
+66,65,"alborufus","Petaurista","Red And White Giant Flying Squirrel",LC,U,-16731116
+67,65,"nobilis","Petaurista","Bhutan Giant Flying Squirrel",VU,D,-11184866
+68,64,"magnificus","Petaurista","Hodgson's Giant Flying Squirrel",NT,D,-12486656
+69,63,"elegans","Petaurista","Spotted Giant Flying Squirrel",LC,S,-16731116
+71,70,"philippensis","Petaurista","Large Brown Flying Squirrel",LC,D,-16731116
+72,70,"petaurista","Petaurista","Common Giant Flying Squirrel",LC,D,-16731116
+73,61,"xanthotis","Petaurista","Chinese Giant Flying Squirrel",LC,U,-16731116
+74,60,"leucogenys","Petaurista","Japanese Giant Flying Squirrel",LC,U,-16731116
+80,79,"biswasi","Biswamoyopterus","Namdapha Flying Squirrel",CR,D,-3014646
+81,79,"pearsonii","Belomys","Hairy-footed Flying Squirrel",DD,U,-11513776
+82,78,"xanthipes","Trogopterus","Complex-toothed Flying Squirrel",NT,D,-12486656
+83,77,"pulverulentus","Pteromyscus","Smoky Flying Squirrel",EN,D,-8572416
+85,84,"tephromelas","Aeromys","Black Flying Squirrel",DD,U,-11513776
+86,84,"thomasi","Aeromys","Thomas's Flying Squirrel",DD,U,-11513776
+88,87,"melanopterus","Aeretes","Northern Chinese Flying Squirrel",NT,D,-12486656
+89,87,"cinereus","Eupetaurus","Woolly Flying Squirrel",DD,U,-11513776
+91,90,"momonga","Pteromys","Japanese Flying Squirrel",LC,U,-16731116
+92,90,"volans","Pteromys","Russian Flying Squirrel",LC,D,-16731116
+96,95,"bicolor","Ratufa","Black Giant Squirrel",NT,D,-12486656
+97,95,"affinis","Ratufa","Pale Giant Squirrel",NT,D,-12486656
+98,94,"indica","Ratufa","Indian Giant Squirrel",NT,D,-12486656
+99,93,"macroura","Ratufa","Grizzled Giant Squirrel",NT,D,-12486656
+105,104,"abstrusus","Prosciurillus","Secretive Dwarf Squirrel",DD,U,-11513776
+106,104,"weberi","Prosciurillus","Weber's Dwarf Squirrel",DD,U,-11513776
+108,107,"leucomus","Prosciurillus","Whitish Dwarf Squirrel",DD,U,-11513776
+109,107,"rosenbergii","Prosciurillus","Sanghir Squirrel",LC,S,-16731116
+110,102,"murinus","Prosciurillus","Celebes Dwarf Squirrel",DD,U,-11513776
+111,101,"rubriventer","Rubrisciurus","Sulawesi Giant Squirrel",VU,D,-11184866
+113,112,"heinrichi","Hyosciurus","Montane Long-nosed Squirrel",LC,U,-16731116
+114,112,"ileile","Hyosciurus","Lowland Long-nosed Squirrel",VU,D,-11184866
+124,123,"hippurus","Sundasciurus","Horse-tailed Squirrel",NT,D,-12486656
+125,123,"davensis","Sundasciurus","Davao Squirrel",DD,U,-11513776
+126,122,"hoogstraali","Sundasciurus","Busuanga Squirrel",LC,U,-16731116
+127,121,"rabori","Sundasciurus","Palawan Montane Squirrel",DD,U,-11513776
+130,129,"mindanensis","Sundasciurus","Mindanao Squirrel",LC,U,-16731116
+131,129,"brookei","Sundasciurus","Brooke's Squirrel",LC,U,-16731116
+132,128,"fraterculus","Sundasciurus","Fraternal Squirrel",EN,D,-8572416
+137,136,"jentinki","Sundasciurus","Jentink's Squirrel",LC,U,-16731116
+138,136,"tenuis","Sundasciurus","Slender Squirrel",LC,D,-16731116
+139,135,"philippinensis","Sundasciurus","Philippine Tree Squirrel",LC,S,-16731116
+141,140,"steerii","Sundasciurus","Southern Palawan Tree Squirrel",LC,S,-16731116
+142,140,"lowii","Sundasciurus","Low's Squirrel",LC,S,-16731116
+143,133,"juvencus","Sundasciurus","Northern Palawan Tree Squirrel",LC,S,-16731116
+144,118,"moellendorffi","Sundasciurus","Culion Tree Squirrel",NT,D,-12486656
+145,117,"samarensis","Sundasciurus","Samar Squirrel",LC,U,-16731116
+151,150,"everetti","Dremomys","Bornean Mountain Ground Squirrel",LC,S,-16731116
+152,150,"lokriah","Dremomys","Orange-bellied Himalayan Squirrel",LC,D,-16731116
+154,153,"rufigenis","Dremomys","Asian Red-cheeked Squirrel",LC,S,-16731116
+155,153,"pernyi","Dremomys","Perny's Long-nosed Squirrel",LC,S,-16731116
+157,156,"pyrrhomerus","Dremomys","Red-hipped Squirrel",LC,U,-16731116
+158,156,"gularis","Dremomys","Red-throated Squirrel",LC,S,-16731116
+162,161,"rodolphii","Tamiops","Cambodian Striped Squirrel",LC,S,-16731116
+163,161,"maritimus","Tamiops","Maritime Striped Squirrel",LC,S,-16731116
+164,160,"mcclellandii","Tamiops","",NE,U,-16777216
+165,159,"swinhoei","Tamiops","Swinhoe's Striped Squirrel",LC,S,-16731116
+168,167,"whiteheadi","Exilisciurus","Tufted Pygmy Squirrel",LC,S,-16731116
+169,167,"exilis","Exilisciurus","Least Pygmy Squirrel",DD,U,-11513776
+170,166,"concinnus","Exilisciurus","Philippine Pygmy Squirrel",LC,S,-16731116
+183,182,"finlaysonii","Callosciurus","Finlayson's Squirrel",LC,S,-16731116
+184,182,"caniceps","Callosciurus","Gray-bellied Squirrel",LC,S,-16731116
+185,181,"orestes","Callosciurus","Borneo Black-banded Squirrel",LC,S,-16731116
+186,180,"adamsi","Callosciurus","Ear-spot Squirrel",VU,D,-11184866
+187,179,"notatus","Callosciurus","Plantain Squirrel",LC,I,-16731116
+188,178,"inornatus","Callosciurus","Inornate Squirrel",LC,U,-16731116
+189,177,"baluensis","Callosciurus","Kinabalu Squirrel",LC,S,-16731116
+190,176,"phayrei","Callosciurus","Phayre's Squirrel",LC,U,-16731116
+191,175,"melanogaster","Callosciurus","Mentawai Squirrel",VU,D,-11184866
+192,174,"prevostii","Callosciurus","Prevost's Squirrel",LC,D,-16731116
+193,173,"quinquestriatus","Callosciurus","Anderson's Squirrel",NT,D,-12486656
+194,172,"simus","Glyphotes","Sculptor Squirrel",DD,U,-11513776
+197,196,"obscurus","Lariscus","Mentawai Three-striped Squirrel",NT,D,-12486656
+198,196,"insignis","Lariscus","Three-striped Ground Squirrel",LC,D,-16731116
+200,199,"hosei","Lariscus","Four-striped Ground Squirrel",NT,D,-12486656
+201,199,"niobe","Lariscus","Niobe Ground Squirrel",DD,U,-11513776
+207,206,"sublineatus","Funambulus","Dusky-striped Squirrel",VU,D,-11184866
+208,206,"layardi","Funambulus","Layard's Palm Squirrel",VU,D,-11184866
+209,205,"palmarum","Funambulus","Common Palm Squirrel",LC,I,-16731116
+210,204,"pennantii","Funambulus","Five-striped Palm Squirrel",LC,U,-16731116
+211,203,"tristriatus","Funambulus","Western Ghats Striped Squirrel",LC,D,-16731116
+214,213,"laticaudatus","Rhinosciurus","Shrew-faced Squirrel",NT,D,-12486656
+215,213,"berdmorei","Menetes","Indochinese Ground Squirrel",LC,S,-16731116
+216,212,"melanotis","Nannosciurus","Black-eared Squirrel",LC,D,-16731116
+219,218,"nigrovittatus","Callosciurus","Black-striped Squirrel",NT,D,-12486656
+220,218,"pygerythrus","Callosciurus","Hoary-bellied Squirrel",LC,U,-16731116
+221,217,"albescens","Callosciurus","Kloss's Squirrel",DD,U,-11513776

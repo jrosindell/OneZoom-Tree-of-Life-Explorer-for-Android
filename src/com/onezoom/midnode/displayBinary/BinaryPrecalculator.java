@@ -159,6 +159,9 @@ public class BinaryPrecalculator {
 		positionData.arcx = positionData.bezex;
 		positionData.arcy = positionData.bezey;
 		positionData.arcr = positionData.bezr / 2;
+		positionData.arcx2 = positionData.bezex  + posmult * getCos(positionData.arcAngle);
+		positionData.arcy2 = positionData.bezey + posmult * getSin(positionData.arcAngle);
+		positionData.arcr2 = leafmult * partc;
 	}
 	
 	private void precalcLeafShape(PositionData positionData) {

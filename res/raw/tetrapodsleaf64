@@ -1,41 +1,62 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"incerta","Coracina","Black-shouldered Cicadabird",LC,U,-16731116
-14,12,"morio","Coracina","Sulawesi Cicadabird",LC,U,-16731116
-16,15,"tenuirostris","Coracina","Slender-billed Cicadabird",LC,U,-16731116
-17,15,"sula","Coracina","Sula Cicadabird",LC,U,-16731116
-18,10,"holopolia","Coracina","Solomons Cuckooshrike",NT,U,-12486656
-19,9,"mindanensis","Coracina","Black-bibbed Cicadabird",VU,U,-11184866
-21,20,"ceramensis","Coracina","Pale Cicadabird",LC,U,-16731116
-22,20,"aurea","Lalage","Rufous-bellied Triller",LC,U,-16731116
-24,23,"dohertyi","Coracina","Sumba Cicadabird",LC,U,-16731116
-25,23,"dispar","Coracina","Kai Cicadabird",NT,U,-12486656
-27,26,"montana","Coracina","Black-bellied Cuckooshrike",LC,U,-16731116
-28,26,"parvula","Coracina","Halmahera Cuckooshrike",LC,U,-16731116
-29,5,"fortis","Coracina","Buru Cuckooshrike",NT,U,-12486656
-32,31,"coerulescens","Coracina","Blackish Cuckooshrike",LC,U,-16731116
-33,31,"ostenta","Coracina","White-winged Cuckooshrike",VU,U,-11184866
-34,30,"analis","Coracina","New Caledonian Cuckooshrike",NT,U,-12486656
-36,35,"abbotti","Coracina","Pygmy Cuckooshrike",LC,U,-16731116
-37,35,"azurea","Coracina","Blue Cuckooshrike",LC,U,-16731116
-39,38,"mcgregori","Coracina","McGregor's Cuckooshrike",NT,U,-12486656
-40,38,"personata","Coracina","Wallacean Cuckooshrike",LC,U,-16731116
-50,49,"polioptera","Coracina","Indochinese Cuckooshrike",LC,U,-16731116
-51,49,"fimbriata","Coracina","Lesser Cuckooshrike",LC,U,-16731116
-52,48,"melanoptera","Coracina","Black-headed Cuckooshrike",LC,U,-16731116
-53,47,"melaschistos","Coracina","Black-winged Cuckooshrike",LC,U,-16731116
-55,54,"typica","Coracina","Mauritius Cuckooshrike",VU,U,-11184866
-56,54,"newtoni","Coracina","Reunion Cuckooshrike",CR,U,-3014646
-58,57,"leucopygialis","Lalage","White-rumped Triller",LC,U,-16731116
-59,57,"nigra","Lalage","Pied Triller",LC,U,-16731116
-60,44,"melanoleuca","Lalage","Black-and-white Triller",LC,U,-16731116
-62,61,"atrovirens","Lalage","Black-browed Triller",LC,U,-16731116
-63,61,"leucomela","Lalage","Varied Triller",LC,U,-16731116
-69,68,"sueurii","Lalage","White-shouldered Triller",LC,U,-16731116
-70,68,"tricolor","Lalage","White-winged Triller",LC,U,-16731116
-71,67,"leucopyga","Lalage","Long-tailed Triller",LC,U,-16731116
-72,66,"sharpei","Lalage","Samoan Triller",NT,U,-12486656
-73,65,"maculosa","Lalage","Polynesian Triller",LC,U,-16731116
-74,64,"javensis","Coracina","Javan Cuckooshrike",LC,U,-16731116
-75,41,"moesta","Lalage","White-browed Triller",LC,U,-16731116
-77,76,"schisticeps","Coracina","Grey-headed Cuckooshrike",LC,U,-16731116
-78,76,"sloetii","Campochaera","Golden Cuckooshrike",LC,U,-16731116
+13,12,"elkejungingerae","Osteocephalus","",LC,D,-16731116
+14,12,"exophthalmus","Osteocephalus","",DD,U,-11513776
+16,15,"leprieurii","Osteocephalus","",LC,S,-16731116
+17,15,"yasuni","Osteocephalus","",LC,U,-16731116
+19,18,"verruciger","Osteocephalus","",LC,S,-16731116
+20,18,"buckleyi","Osteocephalus","",LC,S,-16731116
+21,9,"leoniae","Osteocephalus","",LC,U,-16731116
+22,8,"fuscifacies","Osteocephalus","",DD,U,-11513776
+23,7,"pearsoni","Osteocephalus","",LC,U,-16731116
+26,25,"deridens","Osteocephalus","",LC,D,-16731116
+27,25,"mutabor","Osteocephalus","",LC,S,-16731116
+29,28,"oophagus","Osteocephalus","",LC,S,-16731116
+30,28,"heyeri","Osteocephalus","",LC,S,-16731116
+34,33,"planiceps","Osteocephalus","",LC,U,-16731116
+35,33,"subtilis","Osteocephalus","",LC,U,-16731116
+36,32,"cabrerai","Osteocephalus","",LC,S,-16731116
+37,31,"taurinus","Osteocephalus","",LC,S,-16731116
+44,43,"luteolabris","Tepuihyla","",DD,U,-11513776
+45,43,"rodriguezi","Tepuihyla","",DD,U,-11513776
+46,42,"aecii","Tepuihyla","",DD,U,-11513776
+47,41,"celsae","Tepuihyla","",DD,U,-11513776
+48,40,"edelcae","Tepuihyla","",LC,S,-16731116
+49,39,"talbergae","Tepuihyla","",DD,U,-11513776
+51,50,"rimarum","Tepuihyla","",VU,S,-11184866
+52,50,"galani","Tepuihyla","",DD,U,-11513776
+57,56,"dominicensis","Osteopilus","Hispaniolan Common Treefrog",LC,D,-16731116
+58,56,"septentrionalis","Osteopilus","Cuban Treefrog",LC,I,-16731116
+59,55,"crucialis","Osteopilus","Jamaican Snoring Frog",EN,D,-8572416
+62,61,"brunneus","Osteopilus","Jamaican Laughing Frog",LC,U,-16731116
+63,61,"marianae","Osteopilus","Yellow Bromeliad Frog",EN,D,-8572416
+64,60,"wilderi","Osteopilus","Green Bromeliad Frog",EN,D,-8572416
+66,65,"pulchrilineatus","Osteopilus","Hispaniolan Yellow Treefrog",EN,D,-8572416
+67,65,"vastus","Osteopilus","Hispaniolan Giant Treefrog",EN,D,-8572416
+75,74,"mesophaeus","Trachycephalus","",LC,D,-16731116
+76,74,"jordani","Trachycephalus","",LC,U,-16731116
+77,73,"imitatrix","Trachycephalus","",LC,D,-16731116
+78,72,"atlas","Trachycephalus","Bokermann's Casque-headed Treefrog",LC,U,-16731116
+80,79,"coriaceus","Trachycephalus","",LC,S,-16731116
+81,79,"hadroceps","Trachycephalus","",LC,S,-16731116
+83,82,"nigromaculatus","Trachycephalus","Black-spotted Casque-headed Treefrog",LC,D,-16731116
+84,82,"lepidus","Trachycephalus","",DD,U,-11513776
+86,85,"resinifictrix","Trachycephalus","",LC,U,-16731116
+87,85,"venulosus","Trachycephalus","",LC,S,-16731116
+93,92,"brunoi","Aparasphenodon","Bruno's Casque-headed Frog",LC,D,-16731116
+94,92,"venezolanus","Aparasphenodon","",LC,S,-16731116
+95,91,"bokermanni","Aparasphenodon","Bokermann's Casque-headed Frog",DD,U,-11513776
+96,90,"rugiceps","Nyctimantis","",LC,S,-16731116
+97,89,"siemersi","Argenteohyla","",EN,D,-8572416
+98,88,"greeningi","Corythomantis","",LC,S,-16731116
+99,1,"langsdorffii","Itapotihyla","",LC,D,-16731116
+106,105,"brevirostris","Phyllodytes","",DD,D,-11513776
+107,105,"luteolus","Phyllodytes","",LC,D,-16731116
+109,108,"acuminatus","Phyllodytes","",LC,D,-16731116
+110,108,"kautskyi","Phyllodytes","",LC,D,-16731116
+112,111,"melanomystax","Phyllodytes","",LC,D,-16731116
+113,111,"edelmoi","Phyllodytes","",DD,D,-11513776
+115,114,"tuberculosus","Phyllodytes","",DD,U,-11513776
+116,114,"punctatus","Phyllodytes","",DD,U,-11513776
+117,101,"gyrinaethes","Phyllodytes","",DD,D,-11513776
+119,118,"wuchereri","Phyllodytes","",DD,U,-11513776
+120,118,"auratus","Phyllodytes","",CR,D,-3014646

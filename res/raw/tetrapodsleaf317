@@ -1,57 +1,51 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"pantherinus","Amietophrynus","Western Leopard Toad",EN,D,-8572416
-11,9,"latifrons","Amietophrynus","",LC,D,-16731116
-12,8,"gutturalis","Amietophrynus","African Common Toad",LC,I,-16731116
-14,13,"kassasii","Amietophrynus","Nile Delta Toad",LC,S,-16731116
-15,13,"garmani","Amietophrynus","",LC,S,-16731116
-17,16,"kerinyagae","Amietophrynus","",LC,U,-16731116
-18,16,"poweri","Amietophrynus","",LC,U,-16731116
-21,20,"tuberosus","Amietophrynus","",LC,D,-16731116
-22,20,"brauni","Amietophrynus","",EN,D,-8572416
-23,19,"lemairii","Amietophrynus","",LC,D,-16731116
-26,25,"regularis","Amietophrynus","African Common Toad",LC,S,-16731116
-27,25,"steindachneri","Amietophrynus","",LC,D,-16731116
-28,24,"turkanae","Amietophrynus","",DD,D,-11513776
-36,35,"taiensis","Amietophrynus","",CR,D,-3014646
-37,35,"vittatus","Amietophrynus","",DD,U,-11513776
-38,34,"funereus","Amietophrynus","",LC,D,-16731116
-40,39,"urunguensis","Amietophrynus","",DD,U,-11513776
-41,39,"chudeaui","Amietophrynus","",DD,U,-11513776
-44,43,"blanfordii","Amietophrynus","Blanford's Toad",LC,U,-16731116
-45,43,"djohongensis","Amietophrynus","",EN,D,-8572416
-46,42,"camerunensis","Amietophrynus","",LC,U,-16731116
-47,31,"danielae","Amietophrynus","",DD,U,-11513776
-48,30,"buchneri","Amietophrynus","",DD,U,-11513776
-51,50,"asmarae","Amietophrynus","Asmara Toad",LC,U,-16731116
-52,50,"reesi","Amietophrynus","",DD,U,-11513776
-53,49,"fuliginatus","Amietophrynus","",LC,U,-16731116
-58,57,"rangeri","Amietophrynus","Ranger's Toad",LC,D,-16731116
-59,57,"perreti","Amietophrynus","",VU,U,-11184866
-60,56,"kisoloensis","Amietophrynus","",LC,D,-16731116
-61,55,"gracilipes","Amietophrynus","",LC,D,-16731116
-64,63,"xeros","Amietophrynus","Subdesert Toad",LC,S,-16731116
-65,63,"togoensis","Amietophrynus","",NT,D,-12486656
-66,62,"langanoensis","Amietophrynus","",DD,U,-11513776
-70,69,"pardalis","Amietophrynus","Eastern Leopard Toad",LC,D,-16731116
-71,69,"cristiglans","Amietophrynus","",DD,U,-11513776
-72,68,"superciliaris","Amietophrynus","African Giant Toad",LC,U,-16731116
-74,73,"villiersi","Amietophrynus","",EN,D,-8572416
-75,73,"maculatus","Amietophrynus","",LC,S,-16731116
-83,82,"micranotis","Mertensophryne","",LC,D,-16731116
-84,82,"usambarae","Mertensophryne","",EN,D,-8572416
-85,81,"melanopleura","Mertensophryne","",LC,U,-16731116
-87,86,"anotis","Mertensophryne","Chirinda Toad",EN,D,-8572416
-88,86,"taitana","Mertensophryne","",LC,D,-16731116
-89,79,"lindneri","Mertensophryne","",LC,D,-16731116
-93,92,"mocquardi","Mertensophryne","",DD,U,-11513776
-94,92,"howelli","Mertensophryne","",EN,D,-8572416
-95,91,"lonnbergi","Mertensophryne","",NT,D,-12486656
-98,97,"loveridgei","Mertensophryne","",LC,D,-16731116
-99,97,"nyikae","Mertensophryne","",VU,S,-11184866
-100,96,"schmidti","Mertensophryne","",DD,U,-11513776
-101,77,"uzunguensis","Mertensophryne","",VU,D,-11184866
-105,104,"robinsoni","Vandijkophrynus","Paradise Toad",LC,S,-16731116
-106,104,"angusticeps","Vandijkophrynus","Sand Toad",LC,D,-16731116
-107,103,"gariepensis","Vandijkophrynus","Karoo Toad",LC,S,-16731116
-109,108,"amatolicus","Vandijkophrynus","Amatola Toad",EN,D,-8572416
-110,108,"inyangae","Vandijkophrynus","Inyanga Toad",EN,D,-8572416
+13,12,"hildebrandti","Francolinus","Hildebrandt's Francolin",LC,U,-16731116
+14,12,"natalensis","Francolinus","Natal Francolin",LC,U,-16731116
+16,15,"adspersus","Francolinus","Red-billed Francolin",LC,U,-16731116
+17,15,"capensis","Francolinus","Cape Francolin",LC,U,-16731116
+18,10,"griseostriatus","Francolinus","Grey-striped Francolin",NT,U,-12486656
+21,20,"bicalcaratus","Francolinus","Double-spurred Francolin",LC,U,-16731116
+22,20,"rufopictus","Francolinus","Grey-breasted Spurfowl",LC,U,-16731116
+23,19,"squamatus","Francolinus","Scaly Francolin",LC,U,-16731116
+27,26,"leucoscepus","Francolinus","Yellow-necked Spurfowl",LC,U,-16731116
+28,26,"swainsonii","Francolinus","Swainson's Spurfowl",LC,U,-16731116
+29,25,"afer","Francolinus","Red-necked Spurfowl",LC,U,-16731116
+30,24,"harwoodi","Francolinus","Harwood's Francolin",VU,U,-11184866
+34,33,"ochropectus","Francolinus","Djibouti Francolin",CR,U,-3014646
+35,33,"nobilis","Francolinus","Handsome Francolin",LC,U,-16731116
+36,32,"clappertoni","Francolinus","Clapperton's Francolin",LC,U,-16731116
+37,31,"ahantensis","Francolinus","Ahanta Francolin",LC,U,-16731116
+39,38,"castaneicollis","Francolinus","Chestnut-naped Francolin",LC,U,-16731116
+40,38,"erckelii","Francolinus","Erckel's Francolin",LC,U,-16731116
+41,5,"swierstrai","Francolinus","Swierstra's Francolin",EN,U,-8572416
+43,42,"icterorhynchus","Francolinus","Heuglin's Francolin",LC,U,-16731116
+44,42,"jacksoni","Francolinus","Jackson's Francolin",LC,U,-16731116
+46,45,"camerunensis","Francolinus","Mount Cameroon Francolin",EN,U,-8572416
+47,45,"hartlaubi","Francolinus","Hartlaub's Francolin",LC,U,-16731116
+54,53,"magna","Alectoris","Rusty-necklaced Partridge",LC,U,-16731116
+55,53,"graeca","Alectoris","Rock Partridge",LC,U,-16731116
+56,52,"philbyi","Alectoris","Philby's Partridge",LC,U,-16731116
+58,57,"rufa","Alectoris","Red-legged Partridge",LC,U,-16731116
+59,57,"chukar","Alectoris","Chukar",LC,U,-16731116
+60,50,"melanocephala","Alectoris","Arabian Partridge",LC,U,-16731116
+61,49,"barbara","Alectoris","Barbary Partridge",LC,U,-16731116
+66,65,"erythrorhyncha","Perdicula","Painted Bush-quail",LC,U,-16731116
+67,65,"asiatica","Perdicula","Jungle Bush-quail",LC,U,-16731116
+68,64,"argoondah","Perdicula","Rock Bush-quail",LC,U,-16731116
+69,63,"manipurensis","Perdicula","Manipur Bush-quail",VU,U,-11184866
+71,70,"griseogularis","Ammoperdix","See-see Partridge",LC,U,-16731116
+72,70,"heyi","Ammoperdix","Sand Partridge",LC,U,-16731116
+76,75,"himalayensis","Tetraogallus","Himalayan Snowcock",LC,U,-16731116
+77,75,"altaicus","Tetraogallus","Altai Snowcock",LC,U,-16731116
+78,74,"caspius","Tetraogallus","Caspian Snowcock",LC,U,-16731116
+80,79,"caucasicus","Tetraogallus","Caucasian Snowcock",LC,U,-16731116
+81,79,"tibetanus","Tetraogallus","Tibetan Snowcock",LC,U,-16731116
+86,85,"pectoralis","Coturnix","Stubble Quail",LC,U,-16731116
+87,85,"coromandelica","Coturnix","Rain Quail",LC,U,-16731116
+89,88,"japonica","Coturnix","Japanese Quail",NT,U,-12486656
+90,88,"coturnix","Coturnix","Common Quail",LC,U,-16731116
+92,91,"madagascariensis","Margaroperdix","Madagascar Partridge",LC,U,-16731116
+93,91,"delegorguei","Coturnix","Harlequin Quail",LC,U,-16731116
+96,95,"monorthonyx","Anurophasis","Snow Mountain Quail",NT,U,-12486656
+97,95,"chinensis","Coturnix","Blue Quail",LC,U,-16731116
+98,94,"ypsilophora","Coturnix","Brown Quail",LC,U,-16731116

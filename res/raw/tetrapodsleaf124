@@ -1,95 +1,107 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"bidentatus","Harpagus","Double-toothed Kite",LC,U,-16731116
-12,10,"diodon","Harpagus","Rufous-thighed Kite",LC,U,-16731116
-18,17,"poliopterus","Melierax","Eastern Chanting-goshawk",LC,U,-16731116
-19,17,"canorus","Melierax","Pale Chanting-goshawk",LC,U,-16731116
-20,16,"metabates","Melierax","Dark Chanting-goshawk",LC,U,-16731116
-21,15,"gabar","Melierax","Gabar Goshawk",LC,U,-16731116
-22,14,"macrourus","Urotriorchis","Long-tailed Hawk",LC,U,-16731116
-23,13,"monogrammicus","Kaupifalco","Lizard Buzzard",LC,U,-16731116
-32,31,"cirrocephalus","Accipiter","Collared Sparrowhawk",LC,U,-16731116
-33,31,"trinotatus","Accipiter","Spot-tailed Goshawk",LC,U,-16731116
-35,34,"gularis","Accipiter","Japanese Sparrowhawk",LC,U,-16731116
-36,34,"virgatus","Accipiter","Besra",LC,U,-16731116
-37,29,"rufitorques","Accipiter","Fiji Goshawk",LC,U,-16731116
-38,28,"toussenelii","Accipiter","Red-chested Goshawk",_U,[,-16777216
-41,40,"buergersi","Erythrotriorchis","Chestnut-shouldered Goshawk",DD,U,-11513776
-42,40,"radiatus","Erythrotriorchis","Red Goshawk",VU,U,-11184866
-44,43,"doriae","Megatriorchis","Doria's Goshawk",NT,U,-12486656
-45,43,"soloensis","Accipiter","Chinese Goshawk",LC,U,-16731116
-46,26,"chilensis","Accipiter","Chilean Hawk",_U,[,-16777216
-50,49,"madagascariensis","Accipiter","Madagascar Sparrowhawk",NT,U,-12486656
-51,49,"erythropus","Accipiter","Red-thighed Sparrowhawk",LC,U,-16731116
-52,48,"henstii","Accipiter","Henst's Goshawk",NT,U,-12486656
-54,53,"brevipes","Accipiter","Levant Sparrowhawk",LC,U,-16731116
-55,53,"gundlachi","Accipiter","Gundlach's Hawk",EN,U,-8572416
-60,59,"guianensis","Morphnus","Crested Eagle",NT,U,-12486656
-61,59,"harpyja","Harpia","Harpy Eagle",NT,U,-12486656
-62,58,"novaeguineae","Harpyopsis","New Guinea Eagle",VU,U,-11184866
-63,57,"alcinus","Macheiramphus","Bat Hawk",LC,U,-16731116
-72,71,"gallicus","Circaetus","Short-toed Snake-eagle",LC,U,-16731116
-73,71,"cinereus","Circaetus","Brown Snake-eagle",LC,U,-16731116
-74,70,"pectoralis","Circaetus","Black-chested Snake-eagle",LC,U,-16731116
-76,75,"spectabilis","Dryotriorchis","Congo Serpent-eagle",LC,U,-16731116
-77,75,"beaudouini","Circaetus","Beaudouin's Snake-eagle",VU,U,-11184866
-79,78,"fasciolatus","Circaetus","Southern Banded Snake-eagle",NT,U,-12486656
-80,78,"cinerascens","Circaetus","Banded Snake-eagle",LC,U,-16731116
-81,67,"ecaudatus","Terathopius","Bateleur",NT,U,-12486656
-87,86,"holospilus","Spilornis","Philippine Serpent-eagle",LC,U,-16731116
-88,86,"rufipectus","Spilornis","Sulawesi Serpent-eagle",LC,U,-16731116
-89,85,"cheela","Spilornis","Crested Serpent-eagle",LC,U,-16731116
-90,84,"klossi","Spilornis","South Nicobar Serpent-eagle",NT,U,-12486656
-91,83,"kinabaluensis","Spilornis","Mountain Serpent-eagle",VU,U,-11184866
-92,82,"elgini","Spilornis","Andaman Serpent-eagle",NT,U,-12486656
-93,65,"jefferyi","Pithecophaga","Philippine Eagle",CR,U,-3014646
-102,101,"tenuirostris","Gyps","Slender-billed Vulture",CR,U,-3014646
-103,101,"coprotheres","Gyps","Cape Vulture",VU,U,-11184866
-104,100,"indicus","Gyps","Indian Vulture",CR,U,-3014646
-106,105,"rueppellii","Gyps","Rueppell's Vulture",NT,U,-12486656
-107,105,"fulvus","Gyps","Griffon Vulture",LC,U,-16731116
-108,98,"himalayensis","Gyps","Himalayan Vulture",LC,U,-16731116
-109,97,"bengalensis","Gyps","White-rumped Vulture",CR,U,-3014646
-110,96,"africanus","Gyps","White-backed Vulture",NT,U,-12486656
-111,95,"monachus","Necrosyrtes","Hooded Vulture",LC,U,-16731116
-115,114,"tracheliotos","Torgos","Lappet-faced Vulture",VU,U,-11184866
-116,114,"monachus","Aegypius","Cinereous Vulture",NT,U,-12486656
-117,113,"occipitalis","Trigonoceps","White-headed Vulture",VU,U,-11184866
-118,112,"calvus","Sarcogyps","Red-headed Vulture",CR,U,-3014646
-127,126,"cuculoides","Aviceda","African Baza",LC,U,-16731116
-128,126,"leuphotes","Aviceda","Black Baza",LC,U,-16731116
-129,125,"jerdoni","Aviceda","Jerdon's Baza",LC,U,-16731116
-131,130,"madagascariensis","Aviceda","Madagascar Baza",LC,U,-16731116
-132,130,"subcristata","Aviceda","Pacific Baza",LC,U,-16731116
-136,135,"longicauda","Henicopernis","Long-tailed Honey-buzzard",LC,U,-16731116
-137,135,"infuscatus","Henicopernis","Black Honey-buzzard",VU,U,-11184866
-138,134,"isura","Lophoictinia","Square-tailed Kite",LC,U,-16731116
-139,133,"melanosternon","Hamirostra","Black-breasted Buzzard",LC,U,-16731116
-143,142,"ptilorhyncus","Pernis","Oriental Honey-buzzard",LC,U,-16731116
-144,142,"celebensis","Pernis","Barred Honey-buzzard",LC,U,-16731116
-145,141,"apivorus","Pernis","European Honey-buzzard",LC,U,-16731116
-146,140,"forficatus","Elanoides","American Swallow-tailed Kite",LC,U,-16731116
-147,121,"astur","Eutriorchis","Madagascar Serpent-eagle",EN,U,-8572416
-150,149,"uncinatus","Chondrohierax","Hook-billed Kite",LC,U,-16731116
-151,149,"wilsonii","Chondrohierax","Cuban Kite",CR,U,-3014646
-153,152,"cayanensis","Leptodon","Grey-headed Kite",LC,U,-16731116
-154,152,"forbesi","Leptodon","White-collared Kite",CR,U,-3014646
-158,157,"radiatus","Polyboroides","Madagascar Harrier-hawk",LC,U,-16731116
-159,157,"typus","Polyboroides","African Harrier-hawk",LC,U,-16731116
-160,156,"angolensis","Gypohierax","Palm-nut Vulture",LC,U,-16731116
-162,161,"percnopterus","Neophron","Egyptian Vulture",EN,U,-8572416
-163,161,"barbatus","Gypaetus","Lammergeier",LC,U,-16731116
-167,166,"axillaris","Elanus","Black-shouldered Kite",LC,U,-16731116
-168,166,"leucurus","Elanus","White-tailed Kite",LC,U,-16731116
-170,169,"scriptus","Elanus","Letter-winged Kite",NT,U,-12486656
-171,169,"caeruleus","Elanus","Black-winged Kite",LC,U,-16731116
-173,172,"riocourii","Chelictinia","African Swallow-tailed Kite",LC,U,-16731116
-174,172,"swainsonii","Gampsonyx","Pearl Kite",LC,U,-16731116
-175,2,"haliaetus","Pandion","Osprey",LC,U,-16731116
-176,1,"serpentarius","Sagittarius","Secretarybird",LC,U,-16731116
-181,180,"melambrotus","Cathartes","Greater Yellow-headed Vulture",LC,U,-16731116
-182,180,"burrovianus","Cathartes","Lesser Yellow-headed Vulture",LC,U,-16731116
-183,179,"aura","Cathartes","Turkey Vulture",LC,U,-16731116
-185,184,"californianus","Gymnogyps","California Condor",CR,U,-3014646
-186,184,"atratus","Coragyps","Black Vulture",LC,U,-16731116
-188,187,"papa","Sarcoramphus","King Vulture",LC,U,-16731116
-189,187,"gryphus","Vultur","Andean Condor",NT,U,-12486656
+12,11,"flavicollis","Hemithraupis","Yellow-backed Tanager",LC,U,-16731116
+13,11,"guira","Hemithraupis","Guira Tanager",LC,U,-16731116
+14,10,"ruficapilla","Hemithraupis","Rufous-headed Tanager",LC,U,-16731116
+16,15,"xanthopygius","Heterospingus","Scarlet-browed Tanager",LC,U,-16731116
+17,15,"rubrifrons","Heterospingus","Sulphur-rumped Tanager",LC,U,-16731116
+19,18,"chrysomelas","Chrysothlypis","Black-and-yellow Tanager",LC,U,-16731116
+20,18,"salmoni","Chrysothlypis","Scarlet-and-white Tanager",LC,U,-16731116
+25,24,"laeta","Incaspiza","Buff-bridled Inca-finch",LC,U,-16731116
+26,24,"watkinsi","Incaspiza","Little Inca-finch",NT,U,-12486656
+27,23,"pulchra","Incaspiza","Great Inca-finch",LC,U,-16731116
+29,28,"personata","Incaspiza","Rufous-backed Inca-finch",LC,U,-16731116
+30,28,"ortizi","Incaspiza","Grey-winged Inca-finch",VU,U,-11184866
+32,31,"pulcherrimus","Iridophanes","Golden-collared Honeycreeper",LC,U,-16731116
+33,31,"spiza","Chlorophanes","Green Honeycreeper",LC,U,-16731116
+37,36,"rourei","Nemosia","Cherry-throated Tanager",CR,U,-3014646
+38,36,"pileata","Nemosia","Hooded Tanager",LC,U,-16731116
+39,35,"concolor","Xenospingus","Slender-billed Finch",NT,U,-12486656
+41,40,"albocristata","Sericossypha","White-capped Tanager",LC,U,-16731116
+42,40,"melanotis","Coryphaspiza","Black-masked Finch",VU,U,-11184866
+52,51,"albicollis","Saltator","Lesser Antillean Saltator",LC,U,-16731116
+53,51,"similis","Saltator","Green-winged Saltator",LC,U,-16731116
+54,50,"striatipectus","Saltator","Streaked Saltator",LC,U,-16731116
+55,49,"coerulescens","Saltator","Greyish Saltator",LC,U,-16731116
+56,48,"fuliginosus","Saltator","Black-throated Grosbeak",LC,U,-16731116
+59,58,"aurantiirostris","Saltator","Golden-billed Saltator",LC,U,-16731116
+60,58,"grossus","Saltator","Slate-coloured Grosbeak",LC,U,-16731116
+61,57,"nigriceps","Saltator","Black-cowled Saltator",LC,U,-16731116
+65,64,"atripennis","Saltator","Black-winged Saltator",LC,U,-16731116
+66,64,"atriceps","Saltator","Black-headed Saltator",LC,U,-16731116
+67,63,"maximus","Saltator","Buff-throated Saltator",LC,U,-16731116
+68,62,"maxillosus","Saltator","Thick-billed Saltator",LC,U,-16731116
+69,45,"orenocensis","Saltator","Orinoco Saltator",LC,U,-16731116
+70,44,"cinctus","Saltator","Masked Saltator",NT,U,-12486656
+72,71,"multicolor","Saltatricula","Many-coloured Chaco-finch",LC,U,-16731116
+73,71,"atricollis","Saltator","Black-throated Saltator",LC,U,-16731116
+76,75,"humeralis","Parkerthraustes","Yellow-shouldered Grosbeak",LC,U,-16731116
+86,85,"acunhae","Nesospiza","Inaccessible Bunting",VU,U,-11184866
+87,85,"questi","Nesospiza","Nightingale Bunting",VU,U,-11184866
+88,84,"wilkinsi","Nesospiza","Wilkins's Bunting",EN,U,-8572416
+89,83,"goughensis","Rowettia","Gough Bunting",CR,U,-3014646
+90,82,"speculiferus","Nesospingus","Puerto Rican Tanager",LC,U,-16731116
+92,91,"poliocephalus","Phaenicophilus","Grey-crowned Palm-tanager",NT,U,-12486656
+93,91,"palmarum","Phaenicophilus","Black-crowned Palm-tanager",LC,U,-16731116
+95,94,"tertius","Calyptophilus","Western Chat-Tanager",_U,[,-16777216
+96,94,"frugivorus","Calyptophilus","Chat Tanager",VU,U,-11184866
+98,97,"oleagineus","Mitrospingus","Olive-backed Tanager",LC,U,-16731116
+99,97,"cassinii","Mitrospingus","Dusky-faced Tanager",LC,U,-16731116
+101,100,"melanoleuca","Lamprospiza","Red-billed Pied Tanager",LC,U,-16731116
+102,100,"rosea","Rhodinocichla","Rosy Thrush-tanager",LC,U,-16731116
+106,105,"occipitalis","Chlorophonia","Blue-crowned Chlorophonia",LC,U,-16731116
+107,105,"cyanea","Chlorophonia","Blue-naped Chlorophonia",LC,U,-16731116
+108,104,"flavirostris","Chlorophonia","Yellow-collared Chlorophonia",LC,U,-16731116
+110,109,"pyrrhophrys","Chlorophonia","Chestnut-breasted Chlorophonia",LC,U,-16731116
+111,109,"callophrys","Chlorophonia","Golden-browed Chlorophonia",LC,U,-16731116
+112,1,"diadema","Catamblyrhynchus","Plushcap",LC,U,-16731116
+124,123,"ludoviciana","Piranga","Western Tanager",LC,U,-16731116
+125,123,"olivacea","Piranga","Scarlet Tanager",LC,U,-16731116
+126,122,"bidentata","Piranga","Flame-coloured Tanager",LC,U,-16731116
+127,121,"flava","Piranga","Hepatic Tanager",LC,U,-16731116
+128,120,"rubra","Piranga","Summer Tanager",LC,U,-16731116
+129,119,"lutea","Piranga","Tooth-billed Tanager",_U,[,-16777216
+130,118,"hepatica","Piranga","Hepatic Tanager",_U,[,-16777216
+131,117,"roseogularis","Piranga","Rose-throated Tanager",LC,U,-16731116
+134,133,"leucoptera","Piranga","White-winged Tanager",LC,U,-16731116
+135,133,"rubriceps","Piranga","Red-hooded Tanager",LC,U,-16731116
+136,132,"erythrocephala","Piranga","Red-headed Tanager",LC,U,-16731116
+140,139,"erythromelas","Periporphyrus","Red-and-black Grosbeak",LC,U,-16731116
+141,139,"celaeno","Rhodothraupis","Crimson-collared Grosbeak",LC,U,-16731116
+143,142,"canadensis","Caryothraustes","Yellow-green Grosbeak",LC,U,-16731116
+144,142,"poliogaster","Caryothraustes","Black-faced Grosbeak",LC,U,-16731116
+147,146,"phoeniceus","Cardinalis","Vermilion Cardinal",LC,U,-16731116
+148,146,"cardinalis","Cardinalis","Northern Cardinal",LC,U,-16731116
+149,145,"sinuatus","Cardinalis","Pyrrhuloxia",LC,U,-16731116
+155,154,"olivacea","Chlorothraupis","Lemon-spectacled Tanager",LC,U,-16731116
+156,154,"carmioli","Chlorothraupis","Olive Tanager",LC,U,-16731116
+157,153,"frenata","Chlorothraupis","Olive Tanager",_U,[,-16777216
+158,152,"stolzmanni","Chlorothraupis","Ochre-breasted Tanager",LC,U,-16731116
+159,151,"rubica","Habia","Red-crowned Ant-tanager",LC,U,-16731116
+162,161,"atrimaxillaris","Habia","Black-cheeked Ant-tanager",EN,U,-8572416
+163,161,"gutturalis","Habia","Sooty Ant-tanager",NT,U,-12486656
+165,164,"fuscicauda","Habia","Red-throated Ant-tanager",LC,U,-16731116
+166,164,"cristata","Habia","Crested Ant-tanager",LC,U,-16731116
+175,174,"glaucocaerulea","Cyanoloxia","Glaucous-blue Grosbeak",LC,U,-16731116
+176,174,"brissonii","Cyanocompsa","Ultramarine Grosbeak",LC,U,-16731116
+177,173,"cyanoides","Cyanocompsa","Blue-black Grosbeak",LC,U,-16731116
+180,179,"carrizalensis","Amaurospiza","Carrizal Seedeater",CR,U,-3014646
+181,179,"moesta","Amaurospiza","Blackish-blue Seedeater",NT,U,-12486656
+182,178,"concolor","Amaurospiza","Blue Seedeater",LC,U,-16731116
+183,171,"parellina","Cyanocompsa","Blue Bunting",LC,U,-16731116
+189,188,"versicolor","Passerina","Varied Bunting",LC,U,-16731116
+190,188,"ciris","Passerina","Painted Bunting",NT,U,-12486656
+191,187,"leclancherii","Passerina","Orange-breasted Bunting",LC,U,-16731116
+192,186,"rositae","Passerina","Rose-bellied Bunting",NT,U,-12486656
+193,185,"cyanea","Passerina","Indigo Bunting",LC,U,-16731116
+195,194,"caerulea","Passerina","Blue Grosbeak",LC,U,-16731116
+196,194,"amoena","Passerina","Lazuli Bunting",LC,U,-16731116
+197,169,"americana","Spiza","Dickcissel",LC,U,-16731116
+200,199,"venustus","Granatellus","Red-breasted Chat",LC,U,-16731116
+201,199,"sallaei","Granatellus","Grey-throated Chat",LC,U,-16731116
+202,198,"pelzelni","Granatellus","Rose-breasted Chat",LC,U,-16731116
+207,206,"chrysogaster","Pheucticus","Golden-bellied Grosbeak",LC,U,-16731116
+208,206,"aureoventris","Pheucticus","Black-backed Grosbeak",LC,U,-16731116
+210,209,"melanocephalus","Pheucticus","Black-headed Grosbeak",LC,U,-16731116
+211,209,"ludovicianus","Pheucticus","Rose-breasted Grosbeak",LC,U,-16731116
+212,204,"chrysopeplus","Pheucticus","Yellow Grosbeak",LC,U,-16731116
+213,203,"tibialis","Pheucticus","Black-thighed Grosbeak",LC,U,-16731116

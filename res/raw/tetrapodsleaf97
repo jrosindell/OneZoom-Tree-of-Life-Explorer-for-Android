@@ -1,57 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"flaviventris","Pseudocolopteryx","Warbling Doradito",LC,U,-16731116
-11,9,"dinelliana","Pseudocolopteryx","Dinelli's Doradito",NT,U,-12486656
-12,8,"acutipennis","Pseudocolopteryx","Subtropical Doradito",LC,U,-16731116
-13,7,"sclateri","Pseudocolopteryx","Crested Doradito",LC,U,-16731116
-15,14,"nigricans","Serpophaga","Sooty Tyrannulet",LC,U,-16731116
-16,14,"cinerea","Serpophaga","Torrent Tyrannulet",LC,U,-16731116
-20,19,"subcristata","Serpophaga","White-crested Tyrannulet",LC,U,-16731116
-21,19,"munda","Serpophaga","White-bellied Tyrannulet",LC,U,-16731116
-22,18,"hypoleuca","Serpophaga","River Tyrannulet",LC,U,-16731116
-24,23,"superciliaris","Polystictus","Grey-backed Tachuri",NT,U,-12486656
-25,23,"pectoralis","Polystictus","Bearded Tachuri",NT,U,-12486656
-31,30,"flavirostris","Anairetes","Yellow-billed Tit-tyrant",LC,U,-16731116
-32,30,"alpinus","Anairetes","Ash-breasted Tit-tyrant",EN,U,-8572416
-34,33,"fernandezianus","Anairetes","Juan Fernandez Tit-tyrant",NT,U,-12486656
-35,33,"parulus","Anairetes","Tufted Tit-tyrant",LC,U,-16731116
-36,28,"agilis","Anairetes","Agile Tit-tyrant",LC,U,-16731116
-39,38,"reguloides","Anairetes","Pied-crested Tit-tyrant",LC,U,-16731116
-40,38,"agraphia","Anairetes","Unstreaked Tit-tyrant",LC,U,-16731116
-41,37,"nigrocristatus","Anairetes","Maranon Tit-tyrant",LC,U,-16731116
-42,26,"caudacuta","Culicivora","Sharp-tailed Tyrant",VU,U,-11184866
-43,3,"leucophrys","Mecocerculus","White-throated Tyrannulet",LC,U,-16731116
-45,44,"leucospodia","Pseudelaenia","Grey-and-white Tyrannulet",LC,U,-16731116
-46,44,"napensis","Stigmatura","Lesser Wagtail-tyrant",LC,U,-16731116
-50,49,"griseiceps","Phyllomyias","Sooty-headed Tyrannulet",LC,U,-16731116
-51,49,"fasciatus","Phyllomyias","Planalto Tyrannulet",LC,U,-16731116
-52,48,"flaveola","Capsiempis","Yellow Tyrannulet",LC,U,-16731116
-54,53,"murina","Phaeomyias","Mouse-coloured Tyrannulet",LC,U,-16731116
-55,53,"tumbezana","Phaeomyias","Tumbesian Tyrannulet",_U,[,-16777216
-68,67,"albiceps","Elaenia","White-crested Elaenia",LC,U,-16731116
-69,67,"frantzii","Elaenia","Mountain Elaenia",LC,U,-16731116
-70,66,"pallatangae","Elaenia","Sierran Elaenia",LC,U,-16731116
-71,65,"martinica","Elaenia","Caribbean Elaenia",LC,U,-16731116
-72,64,"fallax","Elaenia","Greater Antillean Elaenia",LC,U,-16731116
-74,73,"mesoleuca","Elaenia","Olivaceous Elaenia",LC,U,-16731116
-75,73,"chiriquensis","Elaenia","Lesser Elaenia",LC,U,-16731116
-78,77,"flavogaster","Elaenia","Yellow-bellied Elaenia",LC,U,-16731116
-79,77,"parvirostris","Elaenia","Small-billed Elaenia",LC,U,-16731116
-81,80,"pelzelni","Elaenia","Brownish Elaenia",LC,U,-16731116
-82,80,"spectabilis","Elaenia","Large Elaenia",LC,U,-16731116
-83,61,"strepera","Elaenia","Slaty Elaenia",LC,U,-16731116
-86,85,"ridleyana","Elaenia","Noronha Elaenia",VU,U,-11184866
-87,85,"obscura","Elaenia","Highland Elaenia",LC,U,-16731116
-88,84,"dayi","Elaenia","Great Elaenia",LC,U,-16731116
-89,59,"gigas","Elaenia","Mottle-backed Elaenia",LC,U,-16731116
-91,90,"ruficeps","Elaenia","Rufous-crowned Elaenia",LC,U,-16731116
-92,90,"cristata","Elaenia","Plain-crested Elaenia",LC,U,-16731116
-98,97,"viridicata","Myiopagis","Greenish Elaenia",LC,U,-16731116
-99,97,"cotta","Myiopagis","Jamaican Elaenia",LC,U,-16731116
-100,96,"flavivertex","Myiopagis","Yellow-crowned Elaenia",LC,U,-16731116
-102,101,"subplacens","Myiopagis","Pacific Elaenia",LC,U,-16731116
-103,101,"gaimardii","Myiopagis","Forest Elaenia",LC,U,-16731116
-105,104,"olallai","Myiopagis","Foothill Elaenia",NT,U,-12486656
-106,104,"caniceps","Myiopagis","Grey Elaenia",LC,U,-16731116
-107,93,"elatus","Tyrannulus","Yellow-crowned Tyrannulet",LC,U,-16731116
-109,108,"islerorum","Suiriri","Chapada Flycatcher",NT,U,-12486656
-110,108,"suiriri","Suiriri","Suiriri Flycatcher",LC,U,-16731116
+12,11,"nigra vandenburghi","Geochelone","",NE,U,-16777216
+13,11,"nigra microphyes","Geochelone","",NE,U,-16777216
+14,10,"nigra vicina","Geochelone","",NE,U,-16777216
+15,9,"nigra porteri","Geochelone","",NE,U,-16777216
+16,8,"nigra guntheri","Geochelone","",NE,U,-16777216
+20,19,"nigra abingdoni","Geochelone","",NE,U,-16777216
+21,19,"nigra hoodensis","Geochelone","",NE,U,-16777216
+22,18,"nigra chatamensis","Geochelone","",NE,U,-16777216
+23,17,"nigra ephippium","Geochelone","",NE,U,-16777216
+25,24,"nigra darwini","Geochelone","Galapagos Tortoise",NE,U,-16777216
+26,24,"nigra becki","Geochelone","",NE,U,-16777216
+27,5,"chilensis","Geochelone","Argentine Tortoise",VU,U,-11184866
+30,29,"platynota","Geochelone","Burmese Starred Tortoise",CR,U,-3014646
+31,29,"elegans","Geochelone","Indian Star Tortoise",LC,U,-16731116
+32,28,"sulcata","Geochelone","African Spurred Tortoise",VU,U,-11184866
+34,33,"denticulata","Geochelone","Brazilian Giant Tortoise",VU,U,-11184866
+35,33,"carbonaria","Geochelone","Red-footed Tortoise",NE,U,-16777216
+40,39,"peltastes","Cylindraspis","",EX,U,-16777036
+41,39,"vosmaeri","Cylindraspis","",EX,U,-16777036
+43,42,"indica","Cylindraspis","",EX,U,-16777036
+44,42,"inepta","Cylindraspis","",EX,U,-16777036
+45,37,"triserrata","Cylindraspis","",EX,U,-16777036
+49,48,"dussumieri","Dipsochelys","",NE,U,-16777216
+50,48,"arnoldi","Dipsochelys","",NE,U,-16777216
+51,47,"hololissa","Dipsochelys","",NE,U,-16777216
+52,46,"radiata","Geochelone","",NE,U,-16777216
+55,54,"planicauda","Pyxis","Flat-tailed Tortoise",CR,D,-3014646
+56,54,"arachnoides","Pyxis","Spider Tortoise",CR,D,-3014646
+57,53,"femoralis","Homopus","Karoo Cape Tortoise",NE,U,-16777216
+63,62,"natalensis","Kinixys","Natal Hinge-backed Tortoise",NT,U,-12486656
+64,62,"belliana","Kinixys","Bell's Hinge-back Tortoise",NE,U,-16777216
+65,61,"spekii","Kinixys","Speke's Hinge-back Tortoise",NE,U,-16777216
+67,66,"homeana","Kinixys","Home's Hinge-back Tortoise",VU,D,-11184866
+68,66,"erosa","Kinixys","Common Tortoise",DD,U,-11513776
+72,71,"boulengeri","Homopus","Boulenger's Cape Tortoise",NE,U,-16777216
+73,71,"bergeri","Homopus","Berger's Cape Tortoise",VU,U,-11184866
+74,70,"signatus cafer","Homopus","",NE,U,-16777216
+75,69,"angulata","Chersine","",NE,U,-16777216
+80,79,"geometricus","Psammobates","Geometric Tortoise",EN,U,-8572416
+81,79,"oculifer","Psammobates","Serrated Tortoise",NE,U,-16777216
+82,78,"tentorius","Psammobates","African Tent Tortoise",NE,U,-16777216
+83,77,"aerolatus","Homopus","",NE,U,-16777216
+85,84,"yniphora","Astrochelys","Ploughshare Tortoise",CR,D,-3014646
+86,84,"pardalis","Psammobates","",NE,U,-16777216

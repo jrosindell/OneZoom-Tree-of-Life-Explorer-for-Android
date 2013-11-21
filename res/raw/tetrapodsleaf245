@@ -1,52 +1,114 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"betulina","Sicista","Northern Birch Mouse",LC,U,-16731116
-13,11,"armenica","Sicista","Armenian Birch Mouse",EN,D,-8572416
-14,10,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U,-16731116
-16,15,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U,-12486656
-17,15,"napaea","Sicista","Altai Birch Mouse",LC,U,-16731116
-19,18,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U,-11513776
-20,18,"concolor","Sicista","Chinese Birch Mouse",LC,U,-16731116
-24,23,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S,-16731116
-25,23,"subtilis","Sicista","Southern Birch Mouse",LC,D,-16731116
-26,22,"caudata","Sicista","Long-tailed Birch Mouse",DD,U,-11513776
-29,28,"strandi","Sicista","Strand's Birch Mouse",LC,S,-16731116
-30,28,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U,-8572416
-31,27,"caucasica","Sicista","Caucasian Birch Mouse",VU,U,-11184866
-35,34,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U,-16731116
-36,34,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S,-16731116
-37,33,"princeps","Zapus","Pacific Jumping Mouse",LC,S,-16731116
-39,38,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S,-16731116
-40,38,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U,-16731116
-47,46,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U,-11513776
-48,46,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U,-11513776
-49,45,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U,-11513776
-50,44,"thomasi","Salpingotus","",NE,U,-16777216
-52,51,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U,-11513776
-53,51,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U,-16731116
-54,42,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U,-11513776
-55,41,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U,-16731116
-56,4,"naso","Euchoreutes","Long-eared Jerboa",LC,U,-16731116
-61,60,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D,-16731116
-62,60,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D,-16731116
-63,59,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U,-16731116
-64,58,"sagitta","Dipus","Hairy-footed Jerboa",LC,S,-16731116
-68,67,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S,-16731116
-69,67,"blanfordi","Jaculus","Blanford's Jerboa",LC,D,-16731116
-70,66,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U,-16731116
-71,65,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U,-16731116
-74,73,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U,-16731116
-75,73,"shitkovi","Pygeretmus","",NE,U,-16777216
-76,72,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U,-16731116
-77,1,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U,-16731116
-84,83,"hotsoni","Allactaga","Hotson's Five-toed Jerboa",LC,U,-16731116
-85,83,"balikunica","Allactaga","Balikun Jerboa",LC,U,-16731116
-86,82,"elater","Allactaga","Small Five-toed Jerboa",LC,D,-16731116
-87,81,"vinogradovi","Allactaga","Vinogradov's Jerboa",NT,D,-12486656
-90,89,"severtzovi","Allactaga","Svertzov's Jerboa",LC,U,-16731116
-91,89,"firouzi","Allactaga","Iranian Jerboa",DD,U,-11513776
-92,88,"bullata","Allactaga","Gobi Jerboa",LC,U,-16731116
-95,94,"euphratica","Allactaga","Euphrates Jerboa",NT,D,-12486656
-96,94,"williamsi","Allactaga","",LC,D,-16731116
-97,93,"sibirica","Allactaga","Siberian Jerboa",LC,U,-16731116
-99,98,"tetradactyla","Allactaga","Four-toed Jerboa",VU,U,-11184866
-100,98,"major","Allactaga","Great Jerboa",LC,D,-16731116
+11,10,"rubricollis","Drymophila","Bertoni's Antbird",LC,U,-16731116
+12,10,"caudata","Drymophila","Long-tailed Antbird",LC,U,-16731116
+14,13,"ferruginea","Drymophila","Ferruginous Antbird",LC,U,-16731116
+15,13,"devillei","Drymophila","Striated Antbird",LC,U,-16731116
+19,18,"ochropyga","Drymophila","Ochre-rumped Antbird",NT,U,-12486656
+20,18,"malura","Drymophila","Dusky-tailed Antbird",LC,U,-16731116
+21,17,"genei","Drymophila","Rufous-tailed Antbird",NT,U,-12486656
+22,16,"squamata","Drymophila","Scaled Antbird",LC,U,-16731116
+29,28,"ochrogyna","Hypocnemis","Rondonia Warbling-antbird",LC,U,-16731116
+30,28,"cantator","Hypocnemis","Guianan Warbling-antbird",LC,U,-16731116
+31,27,"flavescens","Hypocnemis","Imeri Warbling-antbird",LC,U,-16731116
+32,26,"striata","Hypocnemis","Spix's Warbling-antbird",LC,U,-16731116
+33,25,"subflava","Hypocnemis","Yellow-breasted Warbling-antbird",LC,U,-16731116
+34,24,"peruviana","Hypocnemis","Peruvian Warbling-antbird",LC,U,-16731116
+35,23,"hypoxantha","Hypocnemis","Yellow-browed Antbird",LC,U,-16731116
+42,41,"carbonaria","Cercomacra","Rio Branco Antbird",NT,U,-12486656
+43,41,"cinerascens","Cercomacra","Grey Antbird",LC,U,-16731116
+44,40,"nigricans","Cercomacra","Jet Antbird",LC,U,-16731116
+46,45,"melanaria","Cercomacra","Mato Grosso Antbird",LC,U,-16731116
+47,45,"ferdinandi","Cercomacra","Bananal Antbird",VU,U,-11184866
+48,38,"brasiliana","Cercomacra","Rio de Janeiro Antbird",NT,U,-12486656
+49,37,"manu","Cercomacra","Manu Antbird",LC,U,-16731116
+54,53,"tyrannina","Cercomacra","Dusky Antbird",LC,U,-16731116
+55,53,"serva","Cercomacra","Black Antbird",LC,U,-16731116
+56,52,"nigrescens","Cercomacra","Blackish Antbird",LC,U,-16731116
+57,51,"parkeri","Cercomacra","Parker's Antbird",LC,U,-16731116
+58,50,"laeta","Cercomacra","Laeta Antbird",LC,U,-16731116
+60,59,"hemimelaena","Myrmeciza","Chestnut-tailed Antbird",LC,U,-16731116
+61,59,"castanea","Myrmeciza","Zimmer's Antbird",LC,U,-16731116
+69,68,"melanosticta","Rhegmatorhina","Hairy-crested Antbird",LC,U,-16731116
+70,68,"berlepschi","Rhegmatorhina","Harlequin Antbird",LC,U,-16731116
+71,67,"cristata","Rhegmatorhina","Chestnut-crested Antbird",LC,U,-16731116
+73,72,"hoffmannsi","Rhegmatorhina","White-breasted Antbird",LC,U,-16731116
+74,72,"gymnops","Rhegmatorhina","Bare-eyed Antbird",LC,U,-16731116
+77,76,"rufigula","Gymnopithys","Rufous-throated Antbird",LC,U,-16731116
+78,76,"leucaspis","Gymnopithys","Bicoloured Antbird",LC,U,-16731116
+80,79,"salvini","Gymnopithys","White-throated Antbird",LC,U,-16731116
+81,79,"lunulatus","Gymnopithys","Lunulated Antbird",LC,U,-16731116
+84,83,"nigromaculata","Phlegopsis","Black-spotted Bare-eye",LC,U,-16731116
+85,83,"borbae","Skutchia","Pale-faced Antbird",LC,U,-16731116
+86,82,"erythroptera","Phlegopsis","Reddish-winged Bare-eye",LC,U,-16731116
+87,63,"poecilinotus","Willisornis","Scale-backed Antbird",LC,U,-16731116
+90,89,"castaneus","Pithys","White-masked Antbird",NT,U,-12486656
+91,89,"albifrons","Pithys","White-plumed Antbird",LC,U,-16731116
+92,88,"mcleannani","Phaenostictus","Ocellated Antbird",LC,U,-16731116
+100,99,"viridis","Frederickena","Black-throated Antshrike",LC,U,-16731116
+101,99,"unduligera","Frederickena","Undulated Antshrike",LC,U,-16731116
+103,102,"leachii","Mackenziaena","Large-tailed Antshrike",LC,U,-16731116
+104,102,"severa","Mackenziaena","Tufted Antshrike",LC,U,-16731116
+106,105,"guttatus","Hypoedaleus","Spot-backed Antshrike",LC,U,-16731116
+107,105,"cinerea","Batara","Giant Antshrike",LC,U,-16731116
+110,109,"sanctaemariae","Cymbilaimus","Bamboo Antshrike",LC,U,-16731116
+111,109,"lineatus","Cymbilaimus","Fasciated Antshrike",LC,U,-16731116
+112,108,"major","Taraba","Great Antshrike",LC,U,-16731116
+114,113,"fluminensis","Myrmotherula","Rio de Janeiro Antwren",CR,U,-3014646
+115,113,"cincta","Dichrozona","Banded Antbird",LC,U,-16731116
+120,119,"ardesiacus","Thamnomanes","Dusky-throated Antshrike",LC,U,-16731116
+121,119,"saturninus","Thamnomanes","Saturnine Antshrike",LC,U,-16731116
+123,122,"schistogynus","Thamnomanes","Bluish-slate Antshrike",LC,U,-16731116
+124,122,"caesius","Thamnomanes","Cinereous Antshrike",LC,U,-16731116
+125,117,"hauxwelli","Myrmotherula","Plain-throated Antwren",LC,U,-16731116
+126,116,"margaritatus","Megastictus","Pearly Antshrike",LC,U,-16731116
+137,136,"melanogaster","Formicivora","Black-bellied Antwren",LC,U,-16731116
+138,136,"erythronotos","Formicivora","Black-hooded Antwren",EN,U,-8572416
+140,139,"grisea","Formicivora","White-fringed Antwren",LC,U,-16731116
+141,139,"rufa","Formicivora","Rusty-backed Antwren",LC,U,-16731116
+142,134,"intermedia","Formicivora","Northern White-fringed Antwren",_U,[,-16777216
+145,144,"iheringi","Formicivora","Narrow-billed Antwren",NT,U,-12486656
+146,144,"serrana","Formicivora","Serra Antwren",LC,U,-16731116
+147,143,"littoralis","Formicivora","Restinga Antwren",CR,U,-3014646
+148,132,"iheringi","Myrmotherula","Ihering's Antwren",LC,U,-16731116
+150,149,"axillaris","Myrmotherula","White-flanked Antwren",LC,U,-16731116
+151,149,"longipennis","Myrmotherula","Long-winged Antwren",LC,U,-16731116
+155,154,"minor","Myrmotherula","Salvadori's Antwren",VU,U,-11184866
+156,154,"sunensis","Myrmotherula","Rio Suno Antwren",LC,U,-16731116
+157,153,"urosticta","Myrmotherula","Band-tailed Antwren",VU,U,-11184866
+160,159,"behni","Myrmotherula","Plain-winged Antwren",LC,U,-16731116
+161,159,"grisea","Myrmotherula","Ashy Antwren",NT,U,-12486656
+162,158,"schisticolor","Myrmotherula","Slaty Antwren",LC,U,-16731116
+164,163,"guttata","Myrmotherula","Rufous-bellied Antwren",LC,U,-16731116
+165,163,"luctuosa","Myrmotherula","Silvery-flanked Antwren",_U,[,-16777216
+167,166,"menetriesii","Myrmotherula","Grey Antwren",LC,U,-16731116
+168,166,"assimilis","Myrmotherula","Leaden Antwren",LC,U,-16731116
+173,172,"ambigua","Myrmotherula","Yellow-throated Antwren",LC,U,-16731116
+174,172,"sclateri","Myrmotherula","Sclater's Antwren",LC,U,-16731116
+176,175,"ignota","Myrmotherula","Moustached Antwren",LC,U,-16731116
+177,175,"brachyura","Myrmotherula","Pygmy Antwren",LC,U,-16731116
+180,179,"longicauda","Myrmotherula","Stripe-chested Antwren",LC,U,-16731116
+181,179,"klagesi","Myrmotherula","Klages's Antwren",NT,U,-12486656
+182,178,"unicolor","Myrmotherula","Unicoloured Antwren",NT,U,-12486656
+186,185,"surinamensis","Myrmotherula","Guianan Streaked Antwren",LC,U,-16731116
+187,185,"pacifica","Myrmotherula","Pacific Antwren",LC,U,-16731116
+188,184,"multostriata","Myrmotherula","Amazonian Streaked Antwren",LC,U,-16731116
+190,189,"hemileucus","Myrmochanes","Black-and-white Antbird",LC,U,-16731116
+191,189,"cherriei","Myrmotherula","Cherrie's Antwren",LC,U,-16731116
+201,200,"haematonota","Epinecrophylla","Stipple-throated Antwren",LC,U,-16731116
+202,200,"spodionota","Epinecrophylla","Foothill Antwren",LC,U,-16731116
+203,199,"gutturalis","Myrmotherula","Brown-bellied Antwren",LC,U,-16731116
+205,204,"fjeldsaai","Epinecrophylla","Brown-backed Antwren",LC,U,-16731116
+206,204,"ornata","Epinecrophylla","Ornate Antwren",LC,U,-16731116
+209,208,"erythrura","Epinecrophylla","Rufous-tailed Antwren",LC,U,-16731116
+210,208,"acutirostris","Stymphalornis","Parana Antwren",EN,U,-8572416
+211,207,"leucophthalma","Epinecrophylla","White-eyed Antwren",LC,U,-16731116
+212,196,"fulviventris","Epinecrophylla","Checker-throated Antwren",LC,U,-16731116
+213,195,"niger","Neoctantes","Black Bushbird",LC,U,-16731116
+216,215,"gularis","Myrmotherula","Star-throated Antwren",LC,U,-16731116
+217,215,"snowi","Myrmotherula","Alagoas Antwren",CR,U,-3014646
+218,214,"strigilatus","Myrmorchilus","Stripe-backed Antbird",LC,U,-16731116
+222,221,"alixii","Clytoctantes","Recurve-billed Bushbird",EN,U,-8572416
+223,221,"atrogularis","Clytoctantes","Rondonia Bushbird",VU,U,-11184866
+224,220,"pelzelni","Myrmeciza","Grey-bellied Antbird",LC,U,-16731116
+225,219,"atrothorax","Myrmeciza","Black-throated Antbird",LC,U,-16731116
+226,192,"quixensis","Microrhopias","Dot-winged Antwren",LC,U,-16731116

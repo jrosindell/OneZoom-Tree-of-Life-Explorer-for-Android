@@ -1,67 +1,41 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"trifasciata","Cuora","Chinese Three-striped Box Turtle",CR,U,-3014646
-11,9,"aurocapitata","Cuora","Yellow-headed Box Turtle",CR,U,-3014646
-12,8,"pani","Cuora","Pan's Box Turtle",CR,U,-3014646
-13,7,"zhoui","Cuora","Zhou's Box Turtle",CR,U,-3014646
-15,14,"philippeni","Ocadia","",NE,U,-16777216
-16,14,"iversoni","Mauremys","",NE,U,-16777216
-21,20,"galbinifrons","Cuora","Indochinese Box Turtle",CR,U,-3014646
-22,20,"picturata","Cuora","",NE,U,-16777216
-23,19,"flavomarginata_evelynae","Cuora","",NE,U,-16777216
-24,18,"mccordi","Cuora","Mccord's Box Turtle",CR,U,-3014646
-25,17,"serrata","Cuora","",NE,U,-16777216
-27,26,"amboinensis_amboinensis","Cuora","",NE,U,-16777216
-28,26,"mouhotii","Pyxidea","",NE,U,-16777216
-34,33,"megalocephala","Mauremys","",NE,U,-16777216
-35,33,"reevesii","Mauremys","",NE,U,-16777216
-36,32,"nigricans","Chinemys","Red-necked Pond Turtle",EN,U,-8572416
-38,37,"sinensis","Mauremys","",NE,U,-16777216
-39,37,"japonica","Mauremys","",NT,U,-12486656
-42,41,"rivulata","Mauremys","",NE,U,-16777216
-43,41,"caspica","Mauremys","",NE,U,-16777216
-44,40,"leprosa","Mauremys","",NE,U,-16777216
-47,46,"annamensis","Mauremys","Annam Leaf Turtle",CR,U,-3014646
-48,46,"glyphistoma","Ocadia","",NE,U,-16777216
-50,49,"pritchardi","Mauremys","",NE,U,-16777216
-51,49,"mutica","Mauremys","",EN,U,-8572416
-60,59,"enigmatica","Cyclemys","",NE,U,-16777216
-61,59,"bellii","Cyclemys","",NE,U,-16777216
-63,62,"orbiculata","Cyclemys","",NE,U,-16777216
-64,62,"ovata","Cyclemys","",NE,U,-16777216
-66,65,"pulchristriata","Cyclemys","",NE,U,-16777216
-67,65,"atripons","Cyclemys","",NE,U,-16777216
-70,69,"dentata","Cyclemys","Asian Leaf Turtle",NT,U,-12486656
-71,69,"shanensis","Cyclemys","",NE,U,-16777216
-73,72,"tcheponensis","Cyclemys","",NE,U,-16777216
-74,72,"oldhamii","Cyclemys","",NE,U,-16777216
-76,75,"gemeli","Cyclemys","",NE,U,-16777216
-77,75,"fusca","Cyclemys","",NE,U,-16777216
-81,80,"grandis","Heosemys","Giant Asian Pond Turtle",VU,U,-11184866
-82,80,"depressa","Heosemys","Arakan Forest Turtle",CR,U,-3014646
-83,79,"annandalii","Heosemys","Yellow-headed Temple Turtle",EN,U,-8572416
-84,78,"spinosa","Heosemys","Spiny Terrapin",EN,U,-8572416
-86,85,"platynota","Notochelys","Malayan Flat-shelled Turtle",VU,U,-11184866
-87,85,"yuwonoi","Leucocephalon","Sulawesi Forest Turtle",CR,U,-3014646
-89,88,"quadriocellata","Sacalia","Four-eyed Turtle",EN,U,-8572416
-90,88,"bealei","Sacalia","Beal'S-eyed Turtle",EN,U,-8572416
-91,1,"trijuga","Melanochelys","Indian Black Turtle",NE,U,-16777216
-100,99,"borneoensis","Callagur","Painted Batagur",CR,U,-3014646
-101,99,"trivittata","Kachuga","",NE,U,-16777216
-102,98,"dhongoka","Kachuga","",NE,U,-16777216
-105,104,"kachuga","Batagur","Bengal Roof Turtle",CR,U,-3014646
-106,104,"affinis","Batagur","",NE,U,-16777216
-107,103,"baska","Batagur","Batagur",CR,U,-3014646
-112,111,"tentoria circumdata","Kachuga","",NE,U,-16777216
-113,111,"smithii","Kachuga","",NE,U,-16777216
-114,110,"tecta","Kachuga","",NE,U,-16777216
-115,109,"sylhetensis","Kachuga","",NE,U,-16777216
-116,108,"thurjii indi","Hardella","",NE,U,-16777216
-117,95,"ocellata","Morenia","Bengal Eyed Terrapin",VU,U,-11184866
-118,94,"hamiltonii","Geoclemys","Black Pond Turtle",VU,U,-11184866
-120,119,"borneensis","Orlitia","Bornean River Turtle",EN,U,-8572416
-121,119,"subtrijuga","Malayemys","",VU,U,-11184866
-125,124,"japonica","Geoemyda","Ryukyu Black-breasted Leaf Turtle",EN,U,-8572416
-126,124,"spengleri","Geoemyda","Black-breasted Hill Turtle",EN,U,-8572416
-127,123,"pseudocellata","Sacalia","",NE,U,-16777216
-129,128,"leytensis","Siebenrockiella","Philippine Pond Turtle",CR,U,-3014646
-130,128,"crassicollis","Siebenrockiella","",VU,U,-11184866
+10,9,"rufigula","Ficedula","Rufous-throated Flycatcher",NT,U,-12486656
+11,9,"westermanni","Ficedula","Little Pied Flycatcher",LC,U,-16731116
+12,8,"superciliaris","Ficedula","Ultramarine Flycatcher",LC,U,-16731116
+13,7,"sapphira","Ficedula","Sapphire Flycatcher",LC,U,-16731116
+16,15,"strophiata","Ficedula","Rufous-gorgeted Flycatcher",LC,U,-16731116
+17,15,"basilanica","Ficedula","Little Slaty Flycatcher",VU,U,-11184866
+18,14,"pallipes","Cyornis","White-bellied Blue-flycatcher",LC,U,-16731116
+22,21,"colonus","Rhinomyias","Henna-tailed Jungle-flycatcher",NT,U,-12486656
+23,21,"hodgsonii","Ficedula","Slaty-backed Flycatcher",LC,U,-16731116
+24,20,"mugimaki","Ficedula","Mugimaki Flycatcher",LC,U,-16731116
+25,19,"hoevelli","Cyornis","Blue-fronted Flycatcher",LC,U,-16731116
+28,27,"lemprieri","Cyornis","Palawan Blue-flycatcher",NT,U,-12486656
+29,27,"tricolor","Ficedula","Slaty-blue Flycatcher",LC,U,-16731116
+30,26,"hyperythra","Ficedula","Snowy-browed Flycatcher",LC,U,-16731116
+36,35,"magnirostris","Cyornis","Large Blue-flycatcher",LC,U,-16731116
+37,35,"albicollis","Ficedula","Collared Flycatcher",LC,U,-16731116
+39,38,"hypoleuca","Ficedula","European Pied Flycatcher",LC,U,-16731116
+40,38,"sanfordi","Cyornis","Matinan Flycatcher",EN,U,-8572416
+41,33,"semitorquata","Ficedula","Semi-collared Flycatcher",NT,U,-12486656
+42,32,"herioti","Cyornis","Blue-breasted Flycatcher",LC,U,-16731116
+46,45,"parva","Ficedula","Red-breasted Flycatcher",LC,U,-16731116
+47,45,"albicilla","Ficedula","Taiga Flycatcher",LC,U,-16731116
+48,44,"subrubra","Ficedula","Kashmir Flycatcher",VU,U,-11184866
+50,49,"turcosus","Cyornis","Malaysian Blue-flycatcher",NT,U,-12486656
+51,49,"ruckii","Cyornis","Rueck's Blue-flycatcher",CR,U,-3014646
+56,55,"dumetoria","Ficedula","Rufous-chested Flycatcher",NT,U,-12486656
+57,55,"platenae","Ficedula","Palawan Flycatcher",VU,U,-11184866
+59,58,"timorensis","Ficedula","Black-banded Flycatcher",NT,U,-12486656
+60,58,"harterti","Ficedula","Sumba Flycatcher",LC,U,-16731116
+63,62,"rufocinereus","Monticola","Little Rock-thrush",LC,U,-16731116
+64,62,"ansorgei","Xenocopsychus","Angola Cave-chat",NT,U,-12486656
+65,61,"crypta","Ficedula","Cryptic Flycatcher",LC,U,-16731116
+67,66,"buruensis","Ficedula","Cinnamon-chested Flycatcher",LC,U,-16731116
+68,66,"bonthaina","Ficedula","Lompobatang Flycatcher",EN,U,-8572416
+70,69,"zanthopygia","Ficedula","Yellow-rumped Flycatcher",LC,U,-16731116
+71,69,"narcissina","Ficedula","Narcissus Flycatcher",LC,U,-16731116
+75,74,"ruficeps","Luscinia","Rufous-headed Robin",VU,U,-11184866
+76,74,"calliope","Luscinia","Siberian Rubythroat",LC,U,-16731116
+77,73,"gularis","Rhinomyias","Eyebrowed Jungle-flycatcher",LC,U,-16731116
+78,72,"pectoralis","Luscinia","White-tailed Rubythroat",LC,U,-16731116

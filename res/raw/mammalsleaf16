@@ -1,71 +1,49 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"caprinus","Phyllotis","Capricorn Leaf-eared Mouse",LC,S,-16731116
-14,12,"osgoodi","Phyllotis","Osgood's Leaf-eared Mouse",DD,U,-11513776
-16,15,"gerbillus","Paralomys","Gerbil Leaf-eared Mouse",LC,S,-16731116
-17,15,"amicus","Phyllotis","Friendly Leaf-eared Mouse",LC,S,-16731116
-20,19,"xanthopygus","Phyllotis","Yellow-rumped Leaf-eared Mouse",LC,S,-16731116
-21,19,"andium","Phyllotis","Andean Leaf-eared Mouse",LC,S,-16731116
-23,22,"darwini","Phyllotis","Darwin's Leaf-eared Mouse",LC,S,-16731116
-24,22,"limatus","Phyllotis","",LC,S,-16731116
-25,9,"definitus","Phyllotis","Definitive Leaf-eared Mouse",EN,D,-8572416
-26,8,"bonariensis","Phyllotis","Buenos Aires Leaf-eared Mouse",NT,D,-12486656
-30,29,"haggardi","Phyllotis","Haggard's Leaf-eared Mouse",LC,S,-16731116
-31,29,"magister","Phyllotis","Master Leaf-eared Mouse",LC,S,-16731116
-32,28,"wolffsohni","Phyllotis","Wolffsohn's Leaf-eared Mouse",LC,S,-16731116
-33,27,"osilae","Phyllotis","Bunchgrass Leaf-eared Mouse",LC,S,-16731116
-36,35,"boliviensis","Auliscomys","Bolivian Big-eared Mouse",LC,S,-16731116
-37,35,"pictus","Auliscomys","Painted Big-eared Mouse",LC,S,-16731116
-39,38,"sublimis","Auliscomys","Andean Big-eared Mouse",LC,S,-16731116
-40,38,"micropus","Loxodontomys","Southern Pericote",LC,S,-16731116
-42,41,"pearsoni","Andalgalomys","Pearson's Chaco Mouse",LC,S,-16731116
-43,41,"olrogi","Andalgalomys","Olrog's Chaco Mouse",LC,U,-16731116
-47,46,"griseoflavus","Graomys","Gray Leaf-eared Mouse",LC,S,-16731116
-48,46,"centralis","Graomys","",DD,U,-11513776
-49,45,"edithae","Graomys","Edith's Leaf-eared Mouse",DD,U,-11513776
-50,44,"domorum","Graomys","Pale Leaf-eared Mouse",LC,S,-16731116
-51,3,"rufescens","Rhagomys","Brazilian Arboreal Mouse",NT,D,-12486656
-59,58,"torresi","Bibimys","Torres's Crimson-nosed Rat",NT,D,-12486656
-60,58,"chacoensis","Bibimys","Chaco Crimson-nosed Rat",LC,S,-16731116
-61,57,"labiosus","Bibimys","Large-lipped Crimson-nosed Rat",LC,D,-16731116
-63,62,"tomentosus","Kunsia","Woolly Giant Rat",LC,D,-16731116
-64,62,"fronto","Kunsia","Fossorial Giant Rat",EN,D,-8572416
-66,65,"tumidus","Scapteromys","Swamp Rat",LC,S,-16731116
-67,65,"aquaticus","Scapteromys","",LC,S,-16731116
-70,69,"megalonyx","Chelemys","Large Long-clawed Mouse",NT,D,-12486656
-71,69,"delfini","Chelemys","",DD,U,-11513776
-72,68,"macronyx","Chelemys","Andean Long-clawed Mouse",LC,U,-16731116
-75,74,"fernandinae","Nesoryzomys","Fernandina Galapagos Mouse",VU,U,-11184866
-76,74,"swarthi","Nesoryzomys","Santiago Galapagos Mouse",VU,U,-11184866
-77,73,"indefessus","Nesoryzomys","Indefatigable Galapagos Mouse",EX,U,-16777036
-79,78,"aphrastus","Sigmodontomys","Harris's Rice Water Rat",DD,U,-11513776
-80,78,"alfari","Sigmodontomys","Alfaro's Rice Water Rat",LC,S,-16731116
-82,81,"melanops","Scolomys","South American Spiny Mouse",LC,U,-16731116
-83,81,"ucayalensis","Scolomys","Ucayali Spiny Mouse",LC,U,-16731116
-92,91,"macrurus","Rhipidomys","",LC,U,-16731116
-93,91,"emiliae","Rhipidomys","",LC,U,-16731116
-94,90,"mastacalis","Rhipidomys","Long-tailed Climbing Mouse",LC,U,-16731116
-95,89,"caucensis","Rhipidomys","Cauca Climbing Mouse",DD,U,-11513776
-98,97,"venustus","Rhipidomys","Charming Climbing Mouse",LC,U,-16731116
-99,97,"wetzeli","Rhipidomys","Wetzel's Climbing Mouse",LC,S,-16731116
-100,96,"austrinus","Rhipidomys","Southern Climbing Mouse",LC,S,-16731116
-102,101,"ochrogaster","Rhipidomys","Yellow-bellied Climbing Mouse",DD,U,-11513776
-103,101,"leucodactylus","Rhipidomys","White-footed Climbing Mouse",LC,U,-16731116
-104,86,"venezuelae","Rhipidomys","Venezuelan Climbing Mouse",LC,S,-16731116
-109,108,"couesi","Rhipidomys","Coues's Climbing Mouse",LC,S,-16731116
-110,108,"modicus","Rhipidomys","",NT,D,-12486656
-111,107,"macconnelli","Rhipidomys","Macconnell's Climbing Mouse",LC,S,-16731116
-112,106,"fulviventer","Rhipidomys","Buff-bellied Climbing Mouse",LC,U,-16731116
-114,113,"latimanus","Rhipidomys","Broad-footed Climbing Mouse",LC,D,-16731116
-115,113,"nitela","Rhipidomys","Splendid Climbing Mouse",LC,S,-16731116
-123,122,"squamipes","Nectomys","South American Water Rat",LC,U,-16731116
-124,122,"magdalenae","Nectomys","",DD,U,-11513776
-125,121,"apicalis","Nectomys","",LC,S,-16731116
-126,120,"palmipes","Nectomys","Trinidad Water Rat",LC,U,-16731116
-127,119,"rattus","Nectomys","Amazonian Mouse",LC,S,-16731116
-130,129,"dorsalis","Delomys","Striped Atlantic Forest Rat",LC,D,-16731116
-131,129,"collinus","Delomys","Montane Delomys",LC,D,-16731116
-132,128,"sublineatus","Delomys","Pallid Atlantic Forest Rat",LC,U,-16731116
-134,133,"garleppi","Galenomys","Gerlepp's Mouse",DD,U,-11513776
-135,133,"lemminus","Punomys","Puna Mouse",VU,U,-11184866
-137,136,"lasiotis","Thalpomys","Hairy-eared Cerrado Mouse",LC,U,-16731116
-138,136,"cerradensis","Thalpomys","Cerrado Mouse",LC,U,-16731116
+11,10,"watersi","Gerbillus","Waters's Gerbil",LC,U,-16731116
+12,10,"nancillus","Gerbillus","Sudan Gerbil",DD,U,-11513776
+13,9,"perpallidus","Gerbillus","Pale Gerbil",LC,S,-16731116
+16,15,"gleadowi","Gerbillus","Little Hairy-footed Gerbil",NT,D,-12486656
+17,15,"rosalinda","Gerbillus","Rosalinda Gerbil",LC,U,-16731116
+18,14,"lowei","Dipodillus","",NE,U,-16777216
+21,20,"grobbeni","Gerbillus","Grobben's Gerbil",DD,U,-11513776
+22,20,"bottai","Dipodillus","",NE,U,-16777216
+23,19,"jamesi","Dipodillus","",NE,U,-16777216
+27,26,"cheesmani","Gerbillus","Cheesman's Gerbil",LC,S,-16731116
+28,26,"hesperinus","Gerbillus","Western Gerbil",EN,U,-8572416
+29,25,"aquilus","Gerbillus","Swarthy Gerbil",LC,U,-16731116
+30,24,"tarabuli","Gerbillus","Tarabul's Gerbil",LC,S,-16731116
+33,32,"floweri","Gerbillus","Flower's Gerbil",LC,S,-16731116
+34,32,"somalicus","Dipodillus","",NE,U,-16777216
+35,31,"garamantis","Gerbillus","",NE,U,-16777216
+38,37,"hoogstraali","Gerbillus","Hoogstraal's Gerbil",VU,U,-11184866
+39,37,"occiduus","Gerbillus","Occidental Gerbil",DD,U,-11513776
+41,40,"brockmani","Gerbillus","Brockman's Gerbil",DD,U,-11513776
+42,40,"amoenus","Gerbillus","Pleasant Gerbil",LC,U,-16731116
+46,45,"burtoni","Gerbillus","Burton's Gerbil",DD,U,-11513776
+47,45,"mauritaniae","Gerbillus","",NE,U,-16777216
+48,44,"principulus","Gerbillus","Principal Gerbil",DD,U,-11513776
+49,43,"henleyi","Gerbillus","Pygmy Gerbil",LC,U,-16731116
+55,54,"campestris","Dipodillus","",NE,U,-16777216
+56,54,"syrticus","Gerbillus","",NE,U,-16777216
+57,53,"stigmonyx","Dipodillus","",NE,U,-16777216
+58,52,"harwoodi","Dipodillus","",NE,U,-16777216
+59,51,"famulus","Gerbillus","Black-tufted Gerbil",LC,U,-16731116
+61,60,"muriculus","Gerbillus","Barfur Gerbil",DD,U,-11513776
+62,60,"agag","Gerbillus","Agag Gerbil",DD,U,-11513776
+67,66,"pyramidum","Gerbillus","Greater Egyptian Gerbil",LC,S,-16731116
+68,66,"latastei","Gerbillus","Lataste's Gerbil",LC,U,-16731116
+69,65,"mesopotamiae","Gerbillus","Mesopotamian Gerbil",LC,D,-16731116
+70,64,"pulvinatus","Gerbillus","Cushioned Gerbil",LC,U,-16731116
+71,63,"gerbillus","Gerbillus","Lesser Egyptian Gerbil",LC,S,-16731116
+77,76,"andersoni","Gerbillus","Anderson's Gerbil",LC,U,-16731116
+78,76,"nigeriae","Gerbillus","Nigerian Gerbil",LC,S,-16731116
+79,75,"mackilligini","Dipodillus","",NE,U,-16777216
+81,80,"zakariai","Dipodillus","",NE,U,-16777216
+82,80,"simoni","Dipodillus","",NE,U,-16777216
+85,84,"maghrebi","Dipodillus","",NE,U,-16777216
+86,84,"dasyurus","Dipodillus","",NE,U,-16777216
+87,83,"poecilops","Gerbillus","Large Aden Gerbil",LC,U,-16731116
+91,90,"dunni","Gerbillus","Somalia Gerbil",LC,U,-16731116
+92,90,"vivax","Gerbillus","",NE,U,-16777216
+93,89,"pusillus","Gerbillus","Least Gerbil",LC,U,-16731116
+94,88,"acticola","Gerbillus","Berbera Gerbil",DD,U,-11513776

@@ -1,79 +1,53 @@
 index,parent,name1,name2,common,redlist,popstab,color
-23,22,"stuarti","Philautus","",EN,D,-8572416
-24,22,"viridis","Philautus","",EN,D,-8572416
-25,21,"femoralis","Philautus","",EN,D,-8572416
-27,26,"mooreorum","Philautus","",EN,D,-8572416
-28,26,"poppiae","Philautus","",EN,D,-8572416
-30,29,"terebrans","Philautus","",DD,U,-11513776
-31,29,"gryllus","Philautus","",DD,U,-11513776
-39,38,"folicola","Philautus","",EN,D,-8572416
-40,38,"limbus","Philautus","",CR,D,-3014646
-41,37,"leucorhinus","Philautus","",EX,U,-16777036
-43,42,"zimmeri","Philautus","",EX,U,-16777036
-44,42,"fulvus","Philautus","",EN,D,-8572416
-47,46,"abundus","Philautus","",LC,S,-16731116
-48,46,"procax","Philautus","",CR,D,-3014646
-49,45,"silvaticus","Philautus","",EN,D,-8572416
-52,51,"parvulus","Philautus","Karin Bubble-nest Frog",LC,S,-16731116
-53,51,"hainanus","Philautus","",DD,U,-11513776
-55,54,"annandalii","Philautus","",LC,D,-16731116
-56,54,"ocellatus","Philautus","",EN,D,-8572416
-64,63,"cavirostris","Philautus","",EN,D,-8572416
-65,63,"extirpo","Philautus","",EX,U,-16777036
-66,62,"decoris","Philautus","",EN,D,-8572416
-67,61,"mittermeieri","Philautus","",EN,D,-8572416
-68,60,"schmarda","Philautus","",EN,D,-8572416
-69,59,"hallidayi","Philautus","",VU,D,-11184866
-70,58,"chlorosomma","Philautus","",NE,U,-16777216
-71,57,"garo","Philautus","",VU,D,-11184866
-77,76,"adspersus","Philautus","",EX,U,-16777036
-78,76,"dimbullae","Philautus","",EX,U,-16777036
-80,79,"halyi","Philautus","",EX,U,-16777036
-81,79,"zal","Philautus","",EX,U,-16777036
-82,74,"nasutus","Philautus","",EX,U,-16777036
-83,73,"microdiscus","Philautus","",DD,U,-11513776
-84,72,"semiruber","Philautus","",DD,U,-11513776
-85,14,"palpebralis","Feihyla","",NT,D,-12486656
-91,90,"bicolor","Theloderma","Chapa Bug-eyed Frog",EN,U,-8572416
-92,90,"moloch","Theloderma","",VU,D,-11184866
-94,93,"leporosum","Theloderma","",LC,D,-16731116
-95,93,"gordoni","Theloderma","",LC,D,-16731116
-97,96,"corticale","Theloderma","",DD,U,-11513776
-98,96,"horridum","Theloderma","",LC,D,-16731116
-99,87,"stellatum","Theloderma","",NT,D,-12486656
-102,101,"kwangsiense","Theloderma","",DD,U,-11513776
-103,101,"phrynoderma","Theloderma","",DD,U,-11513776
-104,100,"asperum","Theloderma","",LC,D,-16731116
-107,106,"spinosus","Nyctixalus","",VU,D,-11184866
-108,106,"pictus","Nyctixalus","",NT,D,-12486656
-109,105,"margaritifer","Nyctixalus","",VU,D,-11184866
-113,112,"eiffingeri","Kurixalus","",LC,D,-16731116
-114,112,"idiootocus","Kurixalus","",LC,S,-16731116
-115,111,"verrucosus","Kurixalus","",LC,D,-16731116
-122,121,"bisacculus","Aquixalus","",NE,U,-16777216
-123,121,"naso","Aquixalus","",NE,U,-16777216
-124,120,"carinensis","Aquixalus","",NE,U,-16777216
-125,119,"ananjevae","Aquixalus","",NE,U,-16777216
-126,118,"odontotarsus","Aquixalus","",NE,U,-16777216
-127,117,"baliogaster","Aquixalus","",NE,U,-16777216
-129,128,"supercornutus","Aquixalus","",NE,U,-16777216
-130,128,"gracilipes","Aquixalus","",NE,U,-16777216
-134,133,"buergeri","Buergeria","Kajika Frog",LC,S,-16731116
-135,133,"robusta","Buergeria","",LC,S,-16731116
-136,132,"oxycephala","Buergeria","",VU,D,-11184866
-137,131,"japonica","Buergeria","Ryukyu Kajika Frog",LC,D,-16731116
-143,142,"madagascariensis","Aglyptodactylus","",LC,D,-16731116
-144,142,"securifer","Aglyptodactylus","",LC,D,-16731116
-145,141,"laticeps","Aglyptodactylus","",EN,D,-8572416
-146,140,"labrosum","Laliostoma","",LC,S,-16731116
-154,153,"kottigeharensis","Micrixalus","",CR,D,-3014646
-155,153,"elegans","Micrixalus","",DD,U,-11513776
-156,152,"narainensis","Micrixalus","",DD,U,-11513776
-157,151,"nudis","Micrixalus","",VU,D,-11184866
-158,150,"fuscus","Micrixalus","",NT,D,-12486656
-160,159,"swamianus","Micrixalus","",DD,U,-11513776
-161,159,"gadgili","Micrixalus","",EN,D,-8572416
-162,148,"saxicola","Micrixalus","Malabar Tropical Frog",VU,S,-11184866
-165,164,"phyllophilus","Micrixalus","",VU,D,-11184866
-166,164,"thampii","Micrixalus","",DD,U,-11513776
-167,163,"silvaticus","Micrixalus","",DD,U,-11513776
+13,12,"sulcirostris","Phalacrocorax","Little Black Cormorant",LC,U,-16731116
+14,12,"varius","Phalacrocorax","Large Pied Cormorant",LC,U,-16731116
+15,11,"punctatus","Phalacrocorax","Spotted Shag",LC,U,-16731116
+17,16,"africanus","Phalacrocorax","Reed Cormorant",LC,U,-16731116
+18,16,"carbo","Phalacrocorax","Great Cormorant",LC,U,-16731116
+21,20,"onslowi","Phalacrocorax","Chatham Islands Shag",CR,U,-3014646
+22,20,"coronatus","Phalacrocorax","Crowned Cormorant",NT,U,-12486656
+23,19,"niger","Phalacrocorax","Little Cormorant",LC,U,-16731116
+25,24,"bougainvillii","Phalacrocorax","Guanay Cormorant",NT,U,-12486656
+26,24,"ranfurlyi","Phalacrocorax","Bounty Islands Shag",VU,U,-11184866
+31,30,"carunculatus","Phalacrocorax","New Zealand King Shag",VU,U,-11184866
+32,30,"atriceps","Phalacrocorax","Imperial Shag",LC,U,-16731116
+33,29,"chalconotus","Phalacrocorax","Stewart Island Shag",VU,U,-11184866
+34,28,"magellanicus","Phalacrocorax","Rock Shag",LC,U,-16731116
+38,37,"auritus","Phalacrocorax","Double-crested Cormorant",LC,U,-16731116
+39,37,"capensis","Phalacrocorax","Cape Cormorant",NT,U,-12486656
+40,36,"brasilianus","Phalacrocorax","Neotropic Cormorant",LC,U,-16731116
+41,35,"pygmeus","Phalacrocorax","Pygmy Cormorant",LC,U,-16731116
+45,44,"melanoleucos","Phalacrocorax","Little Pied Cormorant",LC,U,-16731116
+46,44,"harrisi","Phalacrocorax","Flightless Cormorant",EN,U,-8572416
+48,47,"penicillatus","Phalacrocorax","Brandt's Cormorant",LC,U,-16731116
+49,47,"gaimardi","Phalacrocorax","Red-legged Cormorant",NT,U,-12486656
+51,50,"pelagicus","Phalacrocorax","Pelagic Cormorant",LC,U,-16731116
+52,50,"urile","Phalacrocorax","Red-faced Cormorant",LC,U,-16731116
+54,53,"campbelli","Phalacrocorax","Campbell Island Shag",VU,U,-11184866
+55,53,"aristotelis","Phalacrocorax","European Shag",LC,U,-16731116
+56,4,"capillatus","Phalacrocorax","Japanese Cormorant",LC,U,-16731116
+61,60,"colensoi","Phalacrocorax","Auckland Islands Shag",VU,U,-11184866
+62,60,"featherstoni","Phalacrocorax","Pitt Island Shag",EN,U,-8572416
+63,59,"fuscescens","Phalacrocorax","Black-faced Cormorant",LC,U,-16731116
+64,58,"nigrogularis","Phalacrocorax","Socotra Cormorant",VU,U,-11184866
+66,65,"fuscicollis","Phalacrocorax","Indian Cormorant",LC,U,-16731116
+67,65,"neglectus","Phalacrocorax","Bank Cormorant",EN,U,-8572416
+71,70,"novaehollandiae","Anhinga","Australian Darter",LC,U,-16731116
+72,70,"anhinga","Anhinga","Anhinga",LC,U,-16731116
+73,69,"melanogaster","Anhinga","Oriental Darter",NT,U,-12486656
+74,68,"rufa","Anhinga","African Darter",LC,U,-16731116
+80,79,"nebouxii","Sula","Blue-footed Booby",LC,U,-16731116
+81,79,"variegata","Sula","Peruvian Booby",LC,U,-16731116
+83,82,"dactylatra","Sula","Masked Booby",LC,U,-16731116
+84,82,"granti","Sula","Nazca Booby",LC,U,-16731116
+85,77,"leucogaster","Sula","Brown Booby",LC,U,-16731116
+86,76,"sula","Sula","Red-footed Booby",LC,U,-16731116
+90,89,"serrator","Morus","Australasian Gannet",LC,U,-16731116
+91,89,"capensis","Morus","Cape Gannet",VU,U,-11184866
+92,88,"bassanus","Morus","Northern Gannet",LC,U,-16731116
+93,87,"abbotti","Papasula","Abbott's Booby",EN,U,-8572416
+97,96,"magnificens","Fregata","Magnificent Frigatebird",LC,U,-16731116
+98,96,"aquila","Fregata","Ascension Frigatebird",VU,U,-11184866
+99,95,"ariel","Fregata","Lesser Frigatebird",LC,U,-16731116
+101,100,"andrewsi","Fregata","Christmas Island Frigatebird",CR,U,-3014646
+102,100,"minor","Fregata","Greater Frigatebird",LC,U,-16731116

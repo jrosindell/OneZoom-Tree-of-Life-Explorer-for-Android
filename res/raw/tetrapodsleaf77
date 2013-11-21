@@ -1,105 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"diemenensis","Philemon","New Caledonian Friarbird",LC,U,-16731116
-16,14,"citreogularis","Philemon","Little Friarbird",LC,U,-16731116
-17,13,"kisserensis","Philemon","Grey Friarbird",_U,[,-16777216
-18,12,"brassi","Philemon","Brass's Friarbird",NT,U,-12486656
-20,19,"novaeguineae","Philemon","New Guinea Friarbird",LC,U,-16731116
-21,19,"cockerelli","Philemon","New Britain Friarbird",LC,U,-16731116
-24,23,"fuscicapillus","Philemon","Dusky Friarbird",VU,U,-11184866
-25,23,"meyeri","Philemon","Meyer's Friarbird",LC,U,-16731116
-26,22,"subcorniculatus","Philemon","Grey-necked Friarbird",LC,U,-16731116
-30,29,"argenticeps","Philemon","Silver-crowned Friarbird",LC,U,-16731116
-31,29,"corniculatus","Philemon","Noisy Friarbird",LC,U,-16731116
-32,28,"inornatus","Philemon","Plain Friarbird",LC,U,-16731116
-34,33,"eichhorni","Philemon","New Ireland Friarbird",LC,U,-16731116
-35,33,"buceroides","Philemon","Helmeted Friarbird",LC,U,-16731116
-37,36,"moluccensis","Philemon","Black-faced Friarbird",LC,U,-16731116
-38,36,"albitorques","Philemon","White-naped Friarbird",LC,U,-16731116
-43,42,"polygrammus","Xanthotis","Spotted Honeyeater",LC,U,-16731116
-44,42,"provocator","Xanthotis","Kadavu Honeyeater",LC,U,-16731116
-45,41,"macleayanus","Xanthotis","Macleay's Honeyeater",LC,U,-16731116
-46,40,"flaviventer","Xanthotis","Tawny-breasted Honeyeater",LC,U,-16731116
-50,49,"sarasinorum","Myza","White-eared Myza",LC,U,-16731116
-51,49,"celebensis","Myza","Dark-eared Myza",LC,U,-16731116
-52,48,"picta","Grantiella","Painted Honeyeater",VU,U,-11184866
-53,47,"lanceolata","Plectorhyncha","Striped Honeyeater",LC,U,-16731116
-61,60,"perstriata","Ptiloprora","Black-backed Honeyeater",LC,U,-16731116
-62,60,"guisei","Ptiloprora","Rufous-backed Honeyeater",LC,U,-16731116
-63,59,"erythropleura","Ptiloprora","Rufous-sided Honeyeater",LC,U,-16731116
-64,58,"plumbea","Ptiloprora","Leaden Honeyeater",LC,U,-16731116
-66,65,"meekiana","Ptiloprora","Olive-streaked Honeyeater",LC,U,-16731116
-67,65,"mayri","Ptiloprora","Mayr's Honeyeater",LC,U,-16731116
-68,56,"fallax","Glycichaera","Green-backed Honeyeater",LC,U,-16731116
-69,55,"melanops","Phylidonyris","Tawny-crowned Honeyeater",LC,U,-16731116
-73,72,"quadragintus","Pardalotus","Forty-spotted Pardalote",EN,U,-8572416
-74,72,"punctatus","Pardalotus","Spotted Pardalote",LC,U,-16731116
-75,71,"striatus","Pardalotus","Striated Pardalote",LC,U,-16731116
-76,70,"rubricatus","Pardalotus","Red-browed Pardalote",LC,U,-16731116
-86,85,"reguloides","Acanthiza","Buff-rumped Thornbill",LC,U,-16731116
-87,85,"inornata","Acanthiza","Western Thornbill",LC,U,-16731116
-88,84,"uropygialis","Acanthiza","Chestnut-rumped Thornbill",LC,U,-16731116
-90,89,"robustirostris","Acanthiza","Slaty-backed Thornbill",LC,U,-16731116
-91,89,"iredalei","Acanthiza","Slender-billed Thornbill",LC,U,-16731116
-95,94,"katherina","Acanthiza","Mountain Thornbill",LC,U,-16731116
-96,94,"pusilla","Acanthiza","Brown Thornbill",LC,U,-16731116
-97,93,"ewingii","Acanthiza","Tasmanian Thornbill",LC,U,-16731116
-98,92,"apicalis","Acanthiza","Inland Thornbill",LC,U,-16731116
-102,101,"murina","Acanthiza","Papuan Thornbill",LC,U,-16731116
-103,101,"nana","Acanthiza","Yellow Thornbill",LC,U,-16731116
-104,100,"chrysorrhoa","Acanthiza","Yellow-rumped Thornbill",LC,U,-16731116
-105,99,"lineata","Acanthiza","Striated Thornbill",LC,U,-16731116
-109,108,"pectoralis","Aphelocephala","Chestnut-breasted Whiteface",NT,U,-12486656
-110,108,"nigricincta","Aphelocephala","Banded Whiteface",LC,U,-16731116
-111,107,"leucopsis","Aphelocephala","Southern Whiteface",LC,U,-16731116
-112,106,"magna","Acanthornis","Scrubtit",LC,U,-16731116
-120,119,"sulphurea","Gerygone","Golden-bellied Gerygone",LC,U,-16731116
-121,119,"olivacea","Gerygone","White-throated Gerygone",LC,U,-16731116
-122,118,"fusca","Gerygone","Western Gerygone",LC,U,-16731116
-124,123,"chrysogaster","Gerygone","Yellow-bellied Gerygone",LC,U,-16731116
-125,123,"mouki","Gerygone","Brown Gerygone",LC,U,-16731116
-126,116,"ruficollis","Gerygone","Brown-breasted Gerygone",LC,U,-16731116
-129,128,"modesta","Gerygone","Norfolk Island Gerygone",VU,U,-11184866
-130,128,"albofrontata","Gerygone","Chatham Gerygone",LC,U,-16731116
-132,131,"dorsalis","Gerygone","Rufous-sided Gerygone",LC,U,-16731116
-133,131,"cinerea","Gerygone","Mountain Gerygone",LC,U,-16731116
-137,136,"magnirostris","Gerygone","Large-billed Gerygone",LC,U,-16731116
-138,136,"flavolateralis","Gerygone","Fan-tailed Gerygone",LC,U,-16731116
-140,139,"levigaster","Gerygone","Mangrove Gerygone",LC,U,-16731116
-141,139,"igata","Gerygone","Grey Gerygone",LC,U,-16731116
-144,143,"chloronota","Gerygone","Green-backed Gerygone",LC,U,-16731116
-145,143,"palpebrosa","Gerygone","Fairy Gerygone",LC,U,-16731116
-146,142,"inornata","Gerygone","Plain Gerygone",LC,U,-16731116
-148,147,"tenebrosa","Gerygone","Dusky Gerygone",LC,U,-16731116
-149,147,"hypoxantha","Gerygone","Biak Gerygone",_U,[,-16777216
-150,77,"gutturalis","Oreoscopus","Fernwren",LC,U,-16731116
-153,152,"brachypterus","Dasyornis","Eastern Bristlebird",EN,U,-8572416
-154,152,"broadbenti","Dasyornis","Rufous Bristlebird",LC,U,-16731116
-155,151,"longirostris","Dasyornis","Western Bristlebird",VU,U,-11184866
-165,164,"pulcherrimus","Malurus","Blue-breasted Fairywren",LC,U,-16731116
-166,164,"coronatus","Malurus","Purple-crowned Fairywren",LC,U,-16731116
-168,167,"splendens","Malurus","Splendid Fairywren",LC,U,-16731116
-169,167,"cyaneus","Malurus","Superb Fairywren",LC,U,-16731116
-171,170,"cyanocephalus","Malurus","Emperor Fairywren",LC,U,-16731116
-172,170,"grayi","Malurus","Broad-billed Fairywren",LC,U,-16731116
-176,175,"lamberti","Malurus","Variegated Fairywren",LC,U,-16731116
-177,175,"amabilis","Malurus","Lovely Fairywren",LC,U,-16731116
-178,174,"elegans","Malurus","Red-winged Fairywren",LC,U,-16731116
-179,173,"campbelli","Malurus","Campbell's Fairywren",_U,[,-16777216
-180,160,"alboscapulatus","Malurus","White-shouldered Fairywren",LC,U,-16731116
-182,181,"melanocephalus","Malurus","Red-backed Fairywren",LC,U,-16731116
-183,181,"leucopterus","Malurus","White-winged Fairywren",LC,U,-16731116
-185,184,"insignis","Clytomyias","Orange-crowned Fairywren",LC,U,-16731116
-186,184,"wallacii","Sipodotus","Wallace's Fairywren",LC,U,-16731116
-189,188,"malachurus","Stipiturus","Southern Emuwren",LC,U,-16731116
-190,188,"mallee","Stipiturus","Mallee Emuwren",EN,U,-8572416
-191,187,"ruficeps","Stipiturus","Rufous-crowned Emuwren",LC,U,-16731116
-198,197,"ballarae","Amytornis","Kalkadoon Grasswren",LC,U,-16731116
-199,197,"purnelli","Amytornis","Dusky Grasswren",LC,U,-16731116
-200,196,"goyderi","Amytornis","Eyrean Grasswren",LC,U,-16731116
-201,195,"housei","Amytornis","Black Grasswren",LC,U,-16731116
-202,194,"textilis","Amytornis","Thick-billed Grasswren",LC,U,-16731116
-206,205,"woodwardi","Amytornis","White-throated Grasswren",VU,U,-11184866
-207,205,"dorotheae","Amytornis","Carpentarian Grasswren",VU,U,-11184866
-208,204,"striatus","Amytornis","Striated Grasswren",LC,U,-16731116
-209,203,"merrotsyi","Amytornis","Short-tailed Grasswren",LC,U,-16731116
-210,192,"barbatus","Amytornis","Grey Grasswren",LC,U,-16731116
+12,11,"kempffi","Phrynopus","",NE,U,-16777216
+13,11,"paucari","Phrynopus","",DD,U,-11513776
+14,10,"peruvianus","Phrynopus","",NE,U,-16777216
+15,9,"peraccai","Phrynopus","",NE,U,-16777216
+16,8,"brunneus","Phrynopus","",NE,U,-16777216
+18,17,"carrascoicola","Phyllonastes","",NE,U,-16777216
+19,17,"ritarasquinae","Phyllonastes","",NE,U,-16777216
+23,22,"juninensis","Phrynopus","",CR,D,-3014646
+24,22,"bracki","Phrynopus","",EN,D,-8572416
+25,21,"myrmecoides","Phyllonastes","",NE,U,-16777216
+26,20,"bufoides","Phrynopus","",DD,U,-11513776
+27,5,"iatamasi","Phrynopus","",NE,U,-16777216
+29,28,"lochites","Phyllonastes","",NE,U,-16777216
+30,28,"dagmarae","Phrynopus","",CR,D,-3014646
+34,33,"heimorum","Phrynopus","",CR,D,-3014646
+35,33,"pinguis","Phrynopus","",NE,U,-16777216
+36,32,"bagrecitoi","Phrynopus","",NE,U,-16777216
+38,37,"columbianus","Phrynopus","",NE,U,-16777216
+39,37,"cophites","Phrynopus","",NE,U,-16777216
+43,42,"pesantesi","Phrynopus","",DD,U,-11513776
+44,42,"lynchi","Phyllonastes","",NE,U,-16777216
+45,41,"kauneorum","Phrynopus","",CR,D,-3014646
+46,40,"adenobrachius","Phrynopus","",NE,U,-16777216
+47,1,"pereger","Phrynopus","",NE,U,-16777216
+48,0,"heyeri","Phyllonastes","",NE,U,-16777216

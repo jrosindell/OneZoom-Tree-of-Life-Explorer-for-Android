@@ -1,100 +1,36 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"brachyphona","Pseudacris","Mountain Chorus Frog",LC,U,-16731116
-16,14,"brimleyi","Pseudacris","Brimley's Chorus Frog",LC,S,-16731116
-17,13,"feriarum","Pseudacris","Upland Chorus Frog",LC,S,-16731116
-19,18,"nigrita","Pseudacris","Southern Chorus Frog",LC,S,-16731116
-20,18,"clarkii","Pseudacris","Spotted Chorus Frog",LC,S,-16731116
-21,11,"triseriata","Pseudacris","Western Chorus Frog",LC,D,-16731116
-24,23,"streckeri","Pseudacris","Strecker's Chorus Frog",LC,U,-16731116
-25,23,"ornata","Pseudacris","Ornate Chorus Frog",LC,S,-16731116
-27,26,"ocularis","Pseudacris","Little Grass Frog",LC,S,-16731116
-28,26,"crucifer","Pseudacris","Spring Peeper",LC,S,-16731116
-30,29,"cadaverina","Pseudacris","California Treefrog",LC,S,-16731116
-31,29,"regilla","Pseudacris","Pacific Chorus Frog",LC,S,-16731116
-33,32,"crepitans","Acris","Northern Cricket Frog",LC,S,-16731116
-34,32,"gryllus","Acris","Southern Cricket Frog",LC,S,-16731116
-39,38,"pellita","Megastomatohyla","",CR,D,-3014646
-40,38,"mixe","Megastomatohyla","",CR,D,-3014646
-41,37,"nubicola","Megastomatohyla","",EN,D,-8572416
-42,36,"mixomaculata","Megastomatohyla","",EN,D,-8572416
-46,45,"altipotens","Charadrahyla","",CR,D,-3014646
-47,45,"chaneque","Charadrahyla","",EN,D,-8572416
-48,44,"nephila","Charadrahyla","",VU,D,-11184866
-50,49,"taeniopus","Charadrahyla","",VU,D,-11184866
-51,49,"trux","Charadrahyla","",CR,D,-3014646
-58,57,"phantasmagoria","Ecnomiohyla","",EN,D,-8572416
-59,57,"miotympanum","Ecnomiohyla","",NT,D,-12486656
-60,56,"valancifer","Ecnomiohyla","",CR,D,-3014646
-61,55,"minera","Ecnomiohyla","",EN,D,-8572416
-64,63,"thysanota","Ecnomiohyla","",DD,U,-11513776
-65,63,"salvaje","Ecnomiohyla","",CR,D,-3014646
-66,62,"fimbrimembra","Ecnomiohyla","",EN,D,-8572416
-69,68,"echinata","Ecnomiohyla","",CR,D,-3014646
-70,68,"miliaria","Ecnomiohyla","",VU,D,-11184866
-71,67,"tuberculosa","Ecnomiohyla","",LC,S,-16731116
-79,78,"brevirostris","Phyllodytes","",DD,D,-11513776
-80,78,"luteolus","Phyllodytes","",LC,D,-16731116
-82,81,"acuminatus","Phyllodytes","",LC,D,-16731116
-83,81,"kautskyi","Phyllodytes","",LC,D,-16731116
-85,84,"melanomystax","Phyllodytes","",LC,D,-16731116
-86,84,"edelmoi","Phyllodytes","",DD,D,-11513776
-88,87,"tuberculosus","Phyllodytes","",DD,U,-11513776
-89,87,"punctatus","Phyllodytes","",DD,U,-11513776
-90,74,"gyrinaethes","Phyllodytes","",DD,D,-11513776
-92,91,"wuchereri","Phyllodytes","",DD,U,-11513776
-93,91,"auratus","Phyllodytes","",CR,D,-3014646
-97,96,"eugenioi","Xenohyla","",DD,U,-11513776
-98,96,"truncata","Xenohyla","",NT,D,-12486656
-105,104,"cardosoi","Pseudis","",LC,S,-16731116
-106,104,"minuta","Pseudis","",LC,S,-16731116
-107,103,"bolbodactyla","Pseudis","",LC,U,-16731116
-108,102,"fusca","Pseudis","",LC,U,-16731116
-110,109,"tocantins","Pseudis","",LC,U,-16731116
-111,109,"paradoxa","Pseudis","",LC,S,-16731116
-114,113,"limellum","Lysapsus","",NE,U,-16777216
-115,113,"laevis","Lysapsus","",NE,U,-16777216
-116,112,"caraya","Lysapsus","",NE,U,-16777216
-118,117,"vigilans","Scarthyla","",LC,S,-16731116
-119,117,"goinorum","Scarthyla","",LC,S,-16731116
-132,131,"weygoldti","Aplastodiscus","",NT,D,-12486656
-133,131,"flumineus","Aplastodiscus","",DD,D,-11513776
-135,134,"ehrhardti","Aplastodiscus","",LC,D,-16731116
-136,134,"arildae","Aplastodiscus","",LC,D,-16731116
-137,129,"albofrenatus","Aplastodiscus","",LC,S,-16731116
-138,128,"eugenioi","Aplastodiscus","",NT,U,-12486656
-139,127,"musicus","Aplastodiscus","",DD,D,-11513776
-144,143,"callipygius","Aplastodiscus","",LC,D,-16731116
-145,143,"sibilatus","Aplastodiscus","",DD,U,-11513776
-146,142,"leucopygius","Aplastodiscus","",LC,S,-16731116
-147,141,"ibirapitanga","Aplastodiscus","",LC,U,-16731116
-149,148,"albosignatus","Aplastodiscus","",LC,D,-16731116
-150,148,"cavicola","Aplastodiscus","",NT,D,-12486656
-152,151,"perviridis","Aplastodiscus","",LC,S,-16731116
-153,151,"cochranae","Aplastodiscus","",LC,S,-16731116
-162,161,"lucianae","Bokermannohyla","",DD,U,-11513776
-163,161,"gouveai","Bokermannohyla","",DD,U,-11513776
-164,160,"circumdata","Bokermannohyla","",LC,D,-16731116
-166,165,"ibitipoca","Bokermannohyla","",DD,U,-11513776
-167,165,"luctuosa","Bokermannohyla","",LC,D,-16731116
-171,170,"astartea","Bokermannohyla","",LC,D,-16731116
-172,170,"sazimai","Bokermannohyla","",DD,U,-11513776
-173,169,"caramaschii","Bokermannohyla","",LC,U,-16731116
-174,168,"feioi","Bokermannohyla","",DD,U,-11513776
-175,157,"ahenea","Bokermannohyla","",DD,U,-11513776
-180,179,"izecksohni","Bokermannohyla","",CR,D,-3014646
-181,179,"ravida","Bokermannohyla","",DD,U,-11513776
-182,178,"hylax","Bokermannohyla","",LC,D,-16731116
-183,177,"carvalhoi","Bokermannohyla","",LC,D,-16731116
-184,176,"nanuzae","Bokermannohyla","",LC,D,-16731116
-187,186,"pseudopseudis","Bokermannohyla","",LC,D,-16731116
-188,186,"alvarengai","Bokermannohyla","",LC,S,-16731116
-190,189,"ibitiguara","Bokermannohyla","",DD,U,-11513776
-191,189,"saxicola","Bokermannohyla","",LC,D,-16731116
-194,193,"claresignata","Bokermannohyla","",DD,D,-11513776
-195,193,"clepsydra","Bokermannohyla","",DD,D,-11513776
-197,196,"martinsi","Bokermannohyla","",LC,D,-16731116
-198,196,"langei","Bokermannohyla","",DD,U,-11513776
-202,201,"inparquesi","Myersiohyla","",DD,U,-11513776
-203,201,"aromatica","Myersiohyla","",DD,U,-11513776
-204,200,"kanaima","Myersiohyla","",LC,S,-16731116
-205,199,"loveridgei","Myersiohyla","",DD,U,-11513776
+10,9,"climacurus","Caprimulgus","Long-tailed Nightjar",LC,U,-16731116
+11,9,"fossii","Caprimulgus","Square-tailed Nightjar",LC,U,-16731116
+12,8,"natalensis","Caprimulgus","Swamp Nightjar",LC,U,-16731116
+15,14,"rufigena","Caprimulgus","Rufous-cheeked Nightjar",LC,U,-16731116
+16,14,"europaeus","Caprimulgus","Eurasian Nightjar",LC,U,-16731116
+17,13,"fraenatus","Caprimulgus","Sombre Nightjar",LC,U,-16731116
+19,18,"longipennis","Macrodipteryx","Standard-winged Nightjar",LC,U,-16731116
+20,18,"vexillarius","Macrodipteryx","Pennant-winged Nightjar",LC,U,-16731116
+22,21,"noctitherus","Caprimulgus","Puerto Rican Nightjar",CR,U,-3014646
+23,21,"batesi","Caprimulgus","Bates's Nightjar",LC,U,-16731116
+27,26,"manillensis","Caprimulgus","Philippine Nightjar",LC,U,-16731116
+28,26,"pulchellus","Caprimulgus","Salvadori's Nightjar",NT,U,-12486656
+29,25,"inornatus","Caprimulgus","Plain Nightjar",LC,U,-16731116
+32,31,"binotatus","Caprimulgus","Brown Nightjar",LC,U,-16731116
+33,31,"eximius","Caprimulgus","Golden Nightjar",LC,U,-16731116
+34,30,"indicus","Caprimulgus","Grey Nightjar",LC,U,-16731116
+36,35,"macrurus","Caprimulgus","Large-tailed Nightjar",LC,U,-16731116
+37,35,"meesi","Caprimulgus","Mees's Nightjar",LC,U,-16731116
+40,39,"madagascariensis","Caprimulgus","Madagascar Nightjar",LC,U,-16731116
+41,39,"badius","Caprimulgus","Yucatan Nightjar",LC,U,-16731116
+42,38,"donaldsoni","Caprimulgus","Donaldson-Smith's Nightjar",LC,U,-16731116
+49,48,"pectoralis","Caprimulgus","Fiery-necked Nightjar",LC,U,-16731116
+50,48,"poliocephalus","Caprimulgus","Montane Nightjar",LC,U,-16731116
+51,47,"nigriscapularis","Caprimulgus","Black-shouldered Nightjar",LC,U,-16731116
+52,46,"ruficollis","Caprimulgus","Red-necked Nightjar",LC,U,-16731116
+53,45,"affinis","Caprimulgus","Savanna Nightjar",LC,U,-16731116
+55,54,"atripennis","Caprimulgus","Jerdon's Nightjar",LC,U,-16731116
+56,54,"aegyptius","Caprimulgus","Egyptian Nightjar",LC,U,-16731116
+57,43,"nubicus","Caprimulgus","Nubian Nightjar",LC,U,-16731116
+63,62,"rupestris","Chordeiles","Sand-coloured Nighthawk",LC,U,-16731116
+64,62,"acutipennis","Chordeiles","Lesser Nighthawk",LC,U,-16731116
+65,61,"minor","Chordeiles","Common Nighthawk",LC,U,-16731116
+66,60,"gundlachii","Chordeiles","Antillean Nighthawk",LC,U,-16731116
+67,59,"pusillus","Chordeiles","Least Nighthawk",LC,U,-16731116
+68,58,"nacunda","Podager","Nacunda Nighthawk",LC,U,-16731116

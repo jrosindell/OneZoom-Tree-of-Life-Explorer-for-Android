@@ -1,48 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"inornata","Prinia","Plain Prinia",LC,U,-16731116
-11,9,"bairdii","Prinia","Banded Prinia",LC,U,-16731116
-12,8,"hodgsonii","Prinia","Grey-breasted Prinia",LC,U,-16731116
-13,7,"gracilis","Prinia","Graceful Prinia",LC,U,-16731116
-14,6,"rufescens","Prinia","Rufescent Prinia",LC,U,-16731116
-16,15,"vittata","Graueria","Grauer's Warbler",LC,U,-16731116
-17,15,"somalica","Prinia","Pale Prinia",LC,U,-16731116
-18,4,"erythropterus","Heliolais","Red-winged Warbler",LC,U,-16731116
-24,23,"subflava","Prinia","Tawny-flanked Prinia",LC,U,-16731116
-25,23,"fluviatilis","Prinia","River Prinia",LC,U,-16731116
-26,22,"burnesii","Prinia","Rufous-vented Prinia",NT,U,-12486656
-27,21,"incana","Drymocichla","Red-winged Grey Warbler",LC,U,-16731116
-28,20,"socialis","Prinia","Ashy Prinia",LC,U,-16731116
-30,29,"flavicans","Prinia","Black-chested Prinia",LC,U,-16731116
-31,29,"maculosa","Prinia","Karoo Prinia",LC,U,-16731116
-37,36,"crinigera","Prinia","Striated Prinia",LC,U,-16731116
-38,36,"polychroa","Prinia","Brown Prinia",LC,U,-16731116
-39,35,"molleri","Prinia","Sao Tome Prinia",LC,U,-16731116
-40,34,"atrogularis","Prinia","Hill Prinia",LC,U,-16731116
-42,41,"flaviventris","Prinia","Yellow-bellied Prinia",LC,U,-16731116
-43,41,"cinereocapilla","Prinia","Grey-crowned Prinia",VU,U,-11184866
-45,44,"familiaris","Prinia","Bar-winged Prinia",LC,U,-16731116
-46,44,"sylvatica","Prinia","Jungle Prinia",LC,U,-16731116
-52,51,"cinereiceps","Orthotomus","White-eared Tailorbird",LC,U,-16731116
-53,51,"nigriceps","Orthotomus","Black-headed Tailorbird",LC,U,-16731116
-54,50,"derbianus","Orthotomus","Grey-backed Tailorbird",LC,U,-16731116
-56,55,"samarensis","Orthotomus","Yellow-breasted Tailorbird",NT,U,-12486656
-57,55,"atrogularis","Orthotomus","Dark-necked Tailorbird",LC,U,-16731116
-60,59,"frontalis","Orthotomus","Rufous-fronted Tailorbird",LC,U,-16731116
-61,59,"sericeus","Orthotomus","Rufous-tailed Tailorbird",LC,U,-16731116
-63,62,"castaneiceps","Orthotomus","Philippine Tailorbird",LC,U,-16731116
-64,62,"ruficeps","Orthotomus","Ashy Tailorbird",LC,U,-16731116
-67,66,"sepium","Orthotomus","Olive-backed Tailorbird",LC,U,-16731116
-68,66,"sutorius","Orthotomus","Common Tailorbird",LC,U,-16731116
-69,65,"heterolaemus","Orthotomus","Rufous-headed Tailorbird",LC,U,-16731116
-74,73,"moreaui","Artisornis","Long-billed Tailorbird",CR,U,-3014646
-75,73,"metopias","Artisornis","African Tailorbird",LC,U,-16731116
-77,76,"pulchra","Oreolais","Black-collared Apalis",LC,U,-16731116
-78,76,"ruwenzorii","Oreolais","Collared Apalis",LC,U,-16731116
-80,79,"substriata","Phragmacia","Namaqua Warbler",LC,U,-16731116
-81,79,"epichlorus","Urolais","Green Longtail",LC,U,-16731116
-87,86,"leucopogon","Prinia","White-chinned Prinia",LC,U,-16731116
-88,86,"leontica","Prinia","White-eyed Prinia",VU,U,-11184866
-89,85,"hypoxantha","Prinia","Saffron-breasted Prinia",LC,U,-16731116
-90,84,"buchanani","Prinia","Rufous-fronted Prinia",LC,U,-16731116
-91,83,"robertsi","Prinia","Briar Warbler",LC,U,-16731116
-92,82,"pectoralis","Malcorus","Rufous-eared Warbler",LC,U,-16731116
+14,13,"notostictum","Centrolene","",LC,S,-16731116
+15,13,"pipilatum","Centrolene","",EN,D,-8572416
+16,12,"altitudinale","Centrolene","",DD,U,-11513776
+17,11,"ilex","Centrolene","",LC,D,-16731116
+19,18,"buckleyi","Centrolene","",VU,D,-11184866
+20,18,"bacatum","Centrolene","",DD,U,-11513776
+21,9,"prosoblepon","Centrolene","",LC,D,-16731116
+22,8,"tayrona","Centrolene","",VU,D,-11184866
+24,23,"venezuelense","Centrolene","",LC,S,-16731116
+25,23,"huilense","Centrolene","",DD,U,-11513776
+28,27,"guanacarum","Centrolene","",DD,U,-11513776
+29,27,"ballux","Centrolene","",CR,D,-3014646
+30,26,"grandisonae","Centrolene","",LC,D,-16731116
+31,5,"hesperium","Centrolene","",VU,D,-11184866
+35,34,"scirtetes","Centrolene","Tandayapa Giant Glass Frog",DD,U,-11513776
+36,34,"heloderma","Centrolene","",CR,D,-3014646
+37,33,"hybrida","Centrolene","",LC,S,-16731116
+38,32,"muelleri","Centrolene","",DD,U,-11513776
+42,41,"lemniscatum","Centrolene","",DD,U,-11513776
+43,41,"audax","Centrolene","",EN,D,-8572416
+44,40,"quindianum","Centrolene","",VU,S,-11184866
+46,45,"fernandoi","Centrolene","",EN,D,-8572416
+47,45,"andinum","Centrolene","",LC,S,-16731116
+49,48,"antioquiense","Centrolene","",NT,D,-12486656
+50,48,"robledoi","Centrolene","",VU,D,-11184866
+53,52,"balionotum","Centrolene","",VU,D,-11184866
+54,52,"azulae","Centrolene","",EN,D,-8572416
+55,51,"mariae","Centrolene","",NE,U,-16777216
+58,57,"papillahallicum","Centrolene","",DD,U,-11513776
+59,57,"lema","Centrolene","",DD,U,-11513776
+60,56,"gorzulai","Centrolene","",NE,U,-16777216

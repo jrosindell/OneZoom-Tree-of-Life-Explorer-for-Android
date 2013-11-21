@@ -1,30 +1,53 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"mixta","Batis","Short-tailed Batis",LC,U,-16731116
-8,6,"minima","Batis","Gabon Batis",NT,U,-12486656
-9,5,"diops","Batis","Ruwenzori Batis",LC,U,-16731116
-11,10,"occulta","Batis","West African Batis",LC,U,-16731116
-12,10,"fratrum","Batis","Zululand Batis",LC,U,-16731116
-17,16,"orientalis","Batis","Grey-headed Batis",LC,U,-16731116
-18,16,"capensis","Batis","Cape Batis",LC,U,-16731116
-19,15,"perkeo","Batis","Pygmy Batis",LC,U,-16731116
-20,14,"crypta","Batis","Dark Batis",LC,U,-16731116
-21,13,"ituriensis","Batis","Ituri Batis",LC,U,-16731116
-26,25,"pririt","Batis","Pririt Batis",LC,U,-16731116
-27,25,"soror","Batis","Pale Batis",LC,U,-16731116
-28,24,"minulla","Batis","Angola Batis",LC,U,-16731116
-30,29,"senegalensis","Batis","Senegal Batis",LC,U,-16731116
-31,29,"molitor","Batis","Chinspot Batis",LC,U,-16731116
-34,33,"margaritae","Batis","Boulton's Batis",LC,U,-16731116
-35,33,"minor","Batis","Black-headed Batis",LC,U,-16731116
-36,32,"poensis","Batis","Fernando Po Batis",LC,U,-16731116
-41,40,"albifrons","Platysteira","White-fronted Wattle-eye",NT,U,-12486656
-42,40,"cyanea","Platysteira","Brown-throated Wattle-eye",LC,U,-16731116
-44,43,"peltata","Platysteira","Black-throated Wattle-eye",LC,U,-16731116
-45,43,"laticincta","Platysteira","Banded Wattle-eye",EN,U,-8572416
-49,48,"chalybea","Platysteira","Black-necked Wattle-eye",LC,U,-16731116
-50,48,"jamesoni","Platysteira","Jameson's Wattle-eye",LC,U,-16731116
-51,47,"blissetti","Platysteira","Red-cheeked Wattle-eye",LC,U,-16731116
-52,46,"concreta","Platysteira","Yellow-bellied Wattle-eye",LC,U,-16731116
-54,53,"tonsa","Platysteira","White-spotted Wattle-eye",LC,U,-16731116
-55,53,"castanea","Platysteira","Chestnut Wattle-eye",LC,U,-16731116
-56,0,"torquatus","Lanioturdus","Chatshrike",LC,U,-16731116
+9,8,"ayeaye","Phyllomedusa","",CR,D,-3014646
+10,8,"rohdei","Phyllomedusa","",LC,S,-16731116
+11,7,"hypochondrialis","Phyllomedusa","",LC,S,-16731116
+12,6,"megacephala","Phyllomedusa","",DD,U,-11513776
+16,15,"trinitatis","Phyllomedusa","",LC,S,-16731116
+17,15,"bicolor","Phyllomedusa","",LC,S,-16731116
+18,14,"oreades","Phyllomedusa","",DD,U,-11513776
+19,13,"centralis","Phyllomedusa","",DD,U,-11513776
+24,23,"coelestis","Phyllomedusa","",LC,U,-16731116
+25,23,"duellmani","Phyllomedusa","",DD,U,-11513776
+26,22,"ecuatoriana","Phyllomedusa","",EN,D,-8572416
+28,27,"vaillantii","Phyllomedusa","",LC,S,-16731116
+29,27,"baltea","Phyllomedusa","",EN,D,-8572416
+30,20,"perinesos","Phyllomedusa","",DD,U,-11513776
+36,35,"burmeisteri","Phyllomedusa","",LC,S,-16731116
+37,35,"iheringii","Phyllomedusa","",LC,U,-16731116
+38,34,"tomopterna","Phyllomedusa","",LC,S,-16731116
+39,33,"atelopoides","Phyllomedusa","",LC,U,-16731116
+41,40,"tetraploidea","Phyllomedusa","",LC,S,-16731116
+42,40,"distincta","Phyllomedusa","",LC,D,-16731116
+47,46,"sauvagii","Phyllomedusa","",LC,S,-16731116
+48,46,"tarsius","Phyllomedusa","",LC,S,-16731116
+50,49,"boliviana","Phyllomedusa","",LC,S,-16731116
+51,49,"camba","Phyllomedusa","",LC,S,-16731116
+52,44,"palliata","Phyllomedusa","",LC,S,-16731116
+53,43,"venusta","Phyllomedusa","",LC,D,-16731116
+58,57,"appendiculata","Phrynomedusa","",NT,D,-12486656
+59,57,"vanzolinii","Phrynomedusa","",DD,U,-11513776
+60,56,"bokermanni","Phrynomedusa","",DD,U,-11513776
+61,55,"fimbriata","Phrynomedusa","",EX,U,-16777036
+62,54,"marginata","Phrynomedusa","",LC,D,-16731116
+64,63,"calcarifer","Cruziohyla","Splendid Treefrog",LC,D,-16731116
+65,63,"craspedopus","Cruziohyla","",LC,D,-16731116
+72,71,"callidryas","Agalychnis","Red-eyed Treefrog",LC,D,-16731116
+73,71,"moreletii","Agalychnis","Morelet's Treefrog",CR,D,-3014646
+75,74,"spurrelli","Agalychnis","Gliding Treefrog",LC,D,-16731116
+76,74,"annae","Agalychnis","Blue-sided Treefrog",EN,D,-8572416
+78,77,"litodryas","Agalychnis","Pink-sided Treefrog",VU,D,-11184866
+79,77,"saltator","Agalychnis","",LC,S,-16731116
+80,68,"dacnicolor","Pachymedusa","",LC,D,-16731116
+85,84,"psilopygion","Hylomantis","",DD,U,-11513776
+86,84,"lemur","Hylomantis","",CR,D,-3014646
+87,83,"buckleyi","Hylomantis","",LC,U,-16731116
+90,89,"medinai","Hylomantis","",NE,U,-16777216
+91,89,"hulli","Hylomantis","",LC,D,-16731116
+92,88,"danieli","Hylomantis","",DD,U,-11513776
+94,93,"granulosa","Hylomantis","",LC,D,-16731116
+95,93,"aspera","Hylomantis","",LC,D,-16731116
+99,98,"guttata","Phasmahyla","",LC,D,-16731116
+100,98,"exilis","Phasmahyla","",LC,D,-16731116
+101,97,"jandaia","Phasmahyla","",LC,D,-16731116
+102,96,"cochranae","Phasmahyla","",LC,D,-16731116

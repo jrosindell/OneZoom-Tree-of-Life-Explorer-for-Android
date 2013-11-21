@@ -1,34 +1,62 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"rutilus","Otus","Malagasy Scops-owl",LC,U,-16731116
-11,9,"capnodes","Otus","Anjouan Scops-owl",CR,U,-3014646
-12,8,"mayottensis","Otus","Mayotte Scops-owl",LC,U,-16731116
-14,13,"pauliani","Otus","Grand Comoro Scops-owl",CR,U,-3014646
-15,13,"moheliensis","Otus","Moheli Scops-owl",CR,U,-3014646
-17,16,"insularis","Otus","Seychelles Scops-owl",EN,U,-8572416
-18,16,"sunia","Otus","Oriental Scops-owl",LC,U,-16731116
-20,19,"longicornis","Otus","Luzon Scops-owl",NT,U,-12486656
-21,19,"mirus","Otus","Mindanao Scops-owl",NT,U,-12486656
-24,23,"elegans","Otus","Elegant Scops-owl",NT,U,-12486656
-25,23,"collari","Otus","Sangihe Scops-owl",LC,U,-16731116
-26,22,"icterorhynchus","Otus","Sandy Scops-owl",LC,U,-16731116
-32,31,"senegalensis","Otus","African Scops-owl",LC,U,-16731116
-33,31,"siaoensis","Otus","Siau Scops-owl",CR,U,-3014646
-34,30,"pembaensis","Otus","Pemba Scops-owl",VU,U,-11184866
-36,35,"silvicola","Otus","Wallace's Scops-owl",LC,U,-16731116
-37,35,"scops","Otus","Common Scops-owl",LC,U,-16731116
-38,28,"hartlaubi","Otus","Sao Tome Scops-owl",VU,U,-11184866
-39,27,"enganensis","Otus","Enggano Scops-owl",NT,U,-12486656
-40,2,"fuliginosus","Otus","Palawan Scops-owl",NT,U,-12486656
-46,45,"megalotis","Otus","Philippine Scops-owl",LC,U,-16731116
-47,45,"rufescens","Otus","Reddish Scops-owl",NT,U,-12486656
-48,44,"podarginus","Otus","Palau Scops-owl",LC,U,-16731116
-49,43,"semitorques","Otus","Japanese Scops Owl",_U,[,-16777216
-53,52,"bakkamoena","Otus","Collared Scops-owl",LC,U,-16731116
-54,52,"lempiji","Otus","Sunda Scops Owl",_U,[,-16777216
-55,51,"lettia","Otus","Collared Scops Owl",_U,[,-16777216
-56,50,"gurneyi","Mimizuku","Giant Scops-owl",VU,U,-11184866
-58,57,"spilocephalus","Otus","Mountain Scops-owl",LC,U,-16731116
-59,57,"umbra","Otus","Simeulue Scops-owl",NT,U,-12486656
-62,61,"mantananensis","Otus","Mantanani Scops-owl",NT,U,-12486656
-63,61,"brucei","Otus","Pallid Scops-owl",LC,U,-16731116
-64,60,"beccarii","Otus","Biak Scops-owl",EN,U,-8572416
+14,13,"spinoletta","Anthus","Water Pipit",LC,U,-16731116
+15,13,"petrosus","Anthus","Rock Pipit",LC,U,-16731116
+16,12,"pratensis","Anthus","Meadow Pipit",LC,U,-16731116
+17,11,"nattereri","Anthus","Ochre-breasted Pipit",VU,U,-11184866
+20,19,"rubescens","Anthus","American Pipit",LC,U,-16731116
+21,19,"hoeschi","Anthus","Mountain Pipit",LC,U,-16731116
+22,18,"sokokensis","Anthus","Sokoke Pipit",EN,U,-8572416
+24,23,"cervinus","Anthus","Red-throated Pipit",LC,U,-16731116
+25,23,"roseatus","Anthus","Rosy Pipit",LC,U,-16731116
+26,8,"leucophrys","Anthus","Plain-backed Pipit",LC,U,-16731116
+29,28,"hodgsoni","Anthus","Olive-backed Pipit",LC,U,-16731116
+30,28,"trivialis","Anthus","Tree Pipit",LC,U,-16731116
+31,27,"antarcticus","Anthus","South Georgia Pipit",NT,U,-12486656
+33,32,"crenatus","Anthus","Yellow-tufted Pipit",LC,U,-16731116
+34,32,"gustavi","Anthus","Pechora Pipit",LC,U,-16731116
+39,38,"longicaudatus","Anthus","Long-tailed Pipit",DD,U,-11513776
+40,38,"furcatus","Anthus","Short-billed Pipit",LC,U,-16731116
+41,37,"hellmayri","Anthus","Hellmayr's Pipit",LC,U,-16731116
+44,43,"spragueii","Anthus","Sprague's Pipit",VU,U,-11184866
+45,43,"rufulus","Anthus","Paddyfield Pipit",LC,U,-16731116
+46,42,"lutescens","Anthus","Yellowish Pipit",LC,U,-16731116
+50,49,"correndera","Anthus","Correndera Pipit",LC,U,-16731116
+51,49,"caffer","Anthus","Bush Pipit",LC,U,-16731116
+53,52,"melindae","Anthus","Malindi Pipit",NT,U,-12486656
+54,52,"sylvanus","Anthus","Upland Pipit",LC,U,-16731116
+56,55,"chloris","Anthus","Yellow-breasted Pipit",VU,U,-11184866
+57,55,"chacoensis","Anthus","Pampas Pipit",LC,U,-16731116
+59,58,"nilghiriensis","Anthus","Nilgiri Pipit",NT,U,-12486656
+60,58,"vaalensis","Anthus","Buffy Pipit",LC,U,-16731116
+66,65,"berthelotii","Anthus","Berthelot's Pipit",LC,U,-16731116
+67,65,"campestris","Anthus","Tawny Pipit",LC,U,-16731116
+68,64,"richardi","Anthus","Richard's Pipit",LC,U,-16731116
+69,63,"similis","Anthus","Long-billed Pipit",LC,U,-16731116
+71,70,"novaeseelandiae","Anthus","Australasian Pipit",LC,U,-16731116
+72,70,"lineiventris","Anthus","Striped Pipit",LC,U,-16731116
+76,75,"pallidiventris","Anthus","Long-legged Pipit",LC,U,-16731116
+77,75,"brachyurus","Anthus","Short-tailed Pipit",LC,U,-16731116
+78,74,"bogotensis","Anthus","Paramo Pipit",LC,U,-16731116
+80,79,"godlewskii","Anthus","Blyth's Pipit",LC,U,-16731116
+81,79,"gutturalis","Anthus","Alpine Pipit",LC,U,-16731116
+87,86,"flavicollis","Macronyx","Abyssinian Longclaw",NT,U,-12486656
+88,86,"capensis","Macronyx","Cape Longclaw",LC,U,-16731116
+89,85,"grimwoodi","Macronyx","Grimwood's Longclaw",DD,U,-11513776
+90,84,"aurantiigula","Macronyx","Pangani Longclaw",LC,U,-16731116
+92,91,"ameliae","Macronyx","Rosy-throated Longclaw",LC,U,-16731116
+93,91,"sharpei","Macronyx","Sharpe's Longclaw",EN,U,-8572416
+95,94,"fuellebornii","Macronyx","Fuelleborn's Longclaw",LC,U,-16731116
+96,94,"croceus","Macronyx","Yellow-throated Longclaw",LC,U,-16731116
+104,103,"citreola","Motacilla","Citrine Wagtail",LC,U,-16731116
+105,103,"flava","Motacilla","Yellow Wagtail",LC,U,-16731116
+106,102,"alba","Motacilla","White Wagtail",LC,U,-16731116
+108,107,"madaraspatensis","Motacilla","White-browed Wagtail",LC,U,-16731116
+109,107,"cinerea","Motacilla","Grey Wagtail",LC,U,-16731116
+110,100,"samveasnae","Motacilla","Mekong Wagtail",NT,U,-12486656
+111,99,"aguimp","Motacilla","African Pied Wagtail",LC,U,-16731116
+112,98,"grandis","Motacilla","Japanese Wagtail",LC,U,-16731116
+115,114,"clara","Motacilla","Mountain Wagtail",LC,U,-16731116
+116,114,"capensis","Motacilla","Cape Wagtail",LC,U,-16731116
+117,113,"flaviventris","Motacilla","Madagascar Wagtail",LC,U,-16731116
+119,118,"indicus","Dendronanthus","Forest Wagtail",LC,U,-16731116
+120,118,"tenellus","Tmetothylacus","Golden Pipit",LC,U,-16731116

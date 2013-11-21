@@ -1,94 +1,84 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"luteopicturatus","Lygodactylus","",NE,U,-16777216
-12,10,"bernardi","Lygodactylus","",NE,U,-16777216
-13,9,"picturatus","Lygodactylus","",NE,U,-16777216
-16,15,"cochranae","Aristelliger","",NE,U,-16777216
-17,15,"lar","Aristelliger","",NE,U,-16777216
-18,14,"praesignis","Aristelliger","",NE,U,-16777216
-19,7,"underwoodi","Homonota","",NE,U,-16777216
-20,6,"rupestris","Pristurus","",NE,U,-16777216
-27,26,"annulatus","Cyrtodactylus","Small Bent-toed Gecko",LC,S,-16731116
-28,26,"louisiadensis","Cyrtodactylus","",NE,U,-16777216
-29,25,"scaber","Cyrtopodion","",NE,U,-16777216
-30,24,"transvaalica","Afroedura","",NE,U,-16777216
-31,23,"ateles","Perochirus","",NE,U,-16777216
-32,22,"kuhli","Ptychozoon","",NE,U,-16777216
-33,21,"persica","Agamura","",NE,U,-16777216
-42,41,"compressicorpus","Pseudogekko","Cylindrical-bodied Smooth-scaled Gecko",LC,D,-16731116
-43,41,"smaragdinus","Pseudogekko","Green Smooth-scaled Gecko",LC,U,-16731116
-44,40,"brevipes","Pseudogekko","Orange-spotted Smooth-scaled Gecko",VU,D,-11184866
-45,39,"boulengerii","Cnemaspis","",NE,U,-16777216
-47,46,"marmoratus","Christinus","",NE,U,-16777216
-48,46,"guentheri","Christinus","",VU,U,-11184866
-53,52,"aureolineatus","Lepidodactylus","Yellow-lined Smooth-scaled Gecko",LC,S,-16731116
-54,52,"christiani","Lepidodactylus","Christian Scaly-toed Gecko",LC,S,-16731116
-55,51,"lugubris","Lepidodactylus","",NE,U,-16777216
-56,50,"pelagicus","Nactus","",NE,U,-16777216
-57,49,"binoei","Heteronotia","",NE,U,-16777216
-61,60,"przewalskii","Teratoscincus","",NE,U,-16777216
-62,60,"scincus","Teratoscincus","",NE,U,-16777216
-63,59,"microlepis","Teratoscincus","",NE,U,-16777216
-64,58,"hasselquisti","Ptyodactylus","",NE,U,-16777216
-68,67,"xanti","Phyllodactylus","Leaf-toed Gecko",LC,S,-16731116
-69,67,"gerrhopygus","Phyllodactylus","",NE,U,-16777216
-70,66,"riebeckii","Phyllodactylus","",NE,U,-16777216
-73,72,"tuberculosus","Phyllodactylus","",NE,U,-16777216
-74,72,"dixoni","Phyllodactylus","",NE,U,-16777216
-75,71,"microphyllus","Phyllodactylus","",NE,U,-16777216
-78,77,"mindorensis","Gekko","Mindoro Narrow-disked Gecko",LC,S,-16731116
-79,77,"vittatus","Gekko","",NE,U,-16777216
-80,76,"monarchus","Gekko","",NE,U,-16777216
-88,87,"notatus","Sphaerodactylus","Reef Gecko",LC,S,-16731116
-89,87,"macrolepis","Sphaerodactylus","",NE,U,-16777216
-91,90,"elegans","Sphaerodactylus","",NE,U,-16777216
-92,90,"copei","Sphaerodactylus","",NE,U,-16777216
-93,85,"sputator","Sphaerodactylus","",NE,U,-16777216
-94,84,"glaucus","Sphaerodactylus","",NE,U,-16777216
-95,83,"argivus","Sphaerodactylus","",NE,U,-16777216
-97,96,"ruthveni","Lepidoblepharis","",NE,U,-16777216
-98,96,"festae","Lepidoblepharis","",NE,U,-16777216
-103,102,"hasemani","Gonatodes","",NE,U,-16777216
-104,102,"ceciliae","Gonatodes","",NE,U,-16777216
-105,101,"vittatus","Gonatodes","",NE,U,-16777216
-107,106,"annularis","Gonatodes","",NE,U,-16777216
-108,106,"humeralis","Gonatodes","",NE,U,-16777216
-110,109,"albogularis","Gonatodes","",NE,U,-16777216
-111,109,"taniae","Gonatodes","",NE,U,-16777216
-117,116,"variegatus","Coleonyx","Western Banded Gecko",LC,S,-16731116
-118,116,"brevis","Coleonyx","Texas Banded Gecko",LC,S,-16731116
-119,115,"reticulatus","Coleonyx","Reticulate Banded Gecko",LC,S,-16731116
-121,120,"mitratus","Coleonyx","",NE,U,-16777216
-122,120,"elegans","Coleonyx","",NE,U,-16777216
-126,125,"angramainyu","Eublepharis","",DD,D,-11513776
-127,125,"macularius","Eublepharis","",NE,U,-16777216
-128,124,"caudicinctus","Hemitheconyx","",NE,U,-16777216
-129,123,"kuroiwae","Goniurosaurus","Kuroiwa's Ground Gecko",VU,U,-11184866
-130,112,"felinus","Aeluroscalabotes","",NE,U,-16777216
-143,142,"tincta","Delma","",NE,U,-16777216
-144,142,"borea","Delma","",NE,U,-16777216
-145,141,"pax","Delma","",NE,U,-16777216
-147,146,"impar","Delma","Striped Legless Lizard",VU,U,-11184866
-148,146,"molleri","Delma","",NE,U,-16777216
-152,151,"fraseri","Delma","",NE,U,-16777216
-153,151,"grayii","Delma","",NE,U,-16777216
-154,150,"inornata","Delma","",NE,U,-16777216
-155,149,"nasuta","Delma","",NE,U,-16777216
-157,156,"torquata","Delma","Collared Delma",VU,U,-11184866
-158,156,"australis","Delma","",NE,U,-16777216
-159,137,"plebeia","Delma","",NE,U,-16777216
-160,136,"elegans","Delma","",NE,U,-16777216
-161,135,"concinna","Delma","",NE,U,-16777216
-162,134,"orientalis","Paradelma","Brigalow Scaly-foot",VU,U,-11184866
-164,163,"burtonis","Lialis","",NE,U,-16777216
-165,163,"jicari","Lialis","",NE,U,-16777216
-173,172,"pseudopulchella","Aprasia","Flinders Ranges Worm-lizard",NT,U,-12486656
-174,172,"striolata","Aprasia","",NE,U,-16777216
-175,171,"inaurita","Aprasia","",NE,U,-16777216
-176,170,"aurita","Aprasia","",VU,U,-11184866
-179,178,"repens","Aprasia","",NE,U,-16777216
-180,178,"smithi","Aprasia","",NE,U,-16777216
-181,177,"pulchella","Aprasia","",NE,U,-16777216
-183,182,"lepidopodus","Pygopus","",NE,U,-16777216
-184,182,"nigriceps","Pygopus","",NE,U,-16777216
-185,167,"taeniatus","Ophidiocephalus","Bronzeback Snake-lizard",VU,U,-11184866
-186,166,"gracilis","Pletholax","",NE,U,-16777216
+15,14,"leucophthalmus","Larus","White-eyed Gull",NT,U,-12486656
+16,14,"hemprichii","Larus","Sooty Gull",LC,U,-16731116
+17,13,"audouinii","Larus","Audouin's Gull",NT,U,-12486656
+18,12,"melanocephalus","Larus","Mediterranean Gull",LC,U,-16731116
+19,11,"ichthyaetus","Larus","Pallas's Gull",LC,U,-16731116
+20,10,"relictus","Larus","Relict Gull",VU,U,-11184866
+24,23,"pipixcan","Larus","Franklin's Gull",LC,U,-16731116
+25,23,"atricilla","Larus","Laughing Gull",LC,U,-16731116
+26,22,"fuliginosus","Larus","Lava Gull",VU,U,-11184866
+28,27,"scoresbii","Leucophaeus","Dolphin Gull",LC,U,-16731116
+29,27,"modestus","Larus","Grey Gull",LC,U,-16731116
+36,35,"novaehollandiae","Larus","Silver Gull",LC,U,-16731116
+37,35,"bulleri","Larus","Black-billed Gull",EN,U,-8572416
+38,34,"serranus","Larus","Andean Gull",LC,U,-16731116
+39,33,"brunnicephalus","Larus","Brown-headed Gull",LC,U,-16731116
+41,40,"maculipennis","Larus","Brown-hooded Gull",LC,U,-16731116
+42,40,"scopulinus","Larus","Red-billed Gull",LC,U,-16731116
+45,44,"cirrocephalus","Larus","Grey-headed Gull",LC,U,-16731116
+46,44,"hartlaubii","Larus","King Gull",LC,U,-16731116
+47,43,"ridibundus","Larus","Black-headed Gull",LC,U,-16731116
+49,48,"philadelphia","Larus","Bonaparte's Gull",LC,U,-16731116
+50,48,"genei","Larus","Slender-billed Gull",LC,U,-16731116
+51,6,"saundersi","Larus","Saunders's Gull",VU,U,-11184866
+52,5,"minutus","Larus","Little Gull",LC,U,-16731116
+55,54,"brevirostris","Rissa","Red-legged Kittiwake",VU,U,-11184866
+56,54,"tridactyla","Rissa","Black-legged Kittiwake",LC,U,-16731116
+58,57,"eburnea","Pagophila","Ivory Gull",NT,U,-12486656
+59,57,"sabini","Xema","Sabine's Gull",LC,U,-16731116
+61,60,"furcatus","Creagrus","Swallow-tailed Gull",LC,U,-16731116
+62,60,"rosea","Rhodostethia","Ross's Gull",LC,U,-16731116
+65,64,"flavirostris","Rynchops","African Skimmer",NT,U,-12486656
+66,64,"albicollis","Rynchops","Indian Skimmer",VU,U,-11184866
+67,63,"niger","Rynchops","Black Skimmer",LC,U,-16731116
+73,72,"simplex","Phaetusa","Large-billed Tern",LC,U,-16731116
+77,76,"superciliaris","Sterna","Yellow-billed Tern",LC,U,-16731116
+78,76,"antillarum","Sterna","Least Tern",LC,U,-16731116
+80,79,"albifrons","Sterna","Little Tern",LC,U,-16731116
+81,79,"nereis","Sterna","Fairy Tern",VU,U,-11184866
+82,74,"balaenarum","Sterna","Damara Tern",NT,U,-12486656
+88,87,"lunata","Sterna","Grey-backed Tern",LC,U,-16731116
+89,87,"anaethetus","Sterna","Bridled Tern",LC,U,-16731116
+90,86,"fuscata","Sterna","Sooty Tern",LC,U,-16731116
+91,85,"aleutica","Sterna","Aleutian Tern",LC,U,-16731116
+92,84,"acuticauda","Sterna","Black-bellied Tern",NT,U,-12486656
+93,83,"bernsteini","Sterna","Chinese Crested Tern",CR,U,-3014646
+96,95,"microrhyncha","Gygis","Little White Tern",LC,U,-16731116
+97,95,"alba","Gygis","Common White Tern",LC,U,-16731116
+99,98,"albivitta","Procelsterna","Grey Noddy",_U,[,-16777216
+100,98,"cerulea","Procelsterna","Blue Noddy",LC,U,-16731116
+103,102,"stolidus","Anous","Brown Noddy",LC,U,-16731116
+104,102,"minutus","Anous","Black Noddy",LC,U,-16731116
+105,101,"tenuirostris","Anous","Lesser Noddy",LC,U,-16731116
+112,111,"hypoleucus","Synthliboramphus","Xantus's Murrelet",VU,U,-11184866
+113,111,"craveri","Synthliboramphus","Craveri's Murrelet",VU,U,-11184866
+115,114,"wumizusume","Synthliboramphus","Japanese Murrelet",VU,U,-11184866
+116,114,"antiquus","Synthliboramphus","Ancient Murrelet",LC,U,-16731116
+119,118,"carbo","Cepphus","Spectacled Guillemot",LC,U,-16731116
+120,118,"columba","Cepphus","Pigeon Guillemot",LC,U,-16731116
+121,117,"grylle","Cepphus","Black Guillemot",LC,U,-16731116
+125,124,"lomvia","Uria","Thick-billed Guillemot",LC,U,-16731116
+126,124,"aalge","Uria","Common Guillemot",LC,U,-16731116
+128,127,"torda","Alca","Razorbill",LC,U,-16731116
+129,127,"alle","Alle","Little Auk",LC,U,-16731116
+132,131,"brevirostris","Brachyramphus","Kittlitz's Murrelet",CR,U,-3014646
+133,131,"marmoratus","Brachyramphus","Marbled Murrelet",EN,U,-8572416
+134,130,"perdix","Brachyramphus","Long-billed Murrelet",NT,U,-12486656
+140,139,"psittacula","Aethia","Parakeet Auklet",LC,U,-16731116
+141,139,"pusilla","Aethia","Least Auklet",LC,U,-16731116
+142,138,"pygmaea","Aethia","Whiskered Auklet",LC,U,-16731116
+143,137,"cristatella","Aethia","Crested Auklet",LC,U,-16731116
+144,136,"aleuticus","Ptychoramphus","Cassin's Auklet",LC,U,-16731116
+148,147,"corniculata","Fratercula","Horned Puffin",LC,U,-16731116
+149,147,"arctica","Fratercula","Atlantic Puffin",LC,U,-16731116
+150,146,"cirrhata","Fratercula","Tufted Puffin",LC,U,-16731116
+151,145,"monocerata","Cerorhinca","Rhinoceros Auklet",LC,U,-16731116
+156,155,"antarctica","Catharacta","Southern Skua",LC,U,-16731116
+157,155,"chilensis","Catharacta","Chilean Skua",LC,U,-16731116
+158,154,"maccormicki","Catharacta","South Polar Skua",LC,U,-16731116
+161,160,"pomarinus","Stercorarius","Pomarine Jaeger",LC,U,-16731116
+162,160,"skua","Catharacta","Great Skua",LC,U,-16731116
+163,159,"lonnbergi","Catharacta","Brown Skua",LC,U,-16731116
+165,164,"longicaudus","Stercorarius","Long-tailed Jaeger",LC,U,-16731116
+166,164,"parasiticus","Stercorarius","Parasitic Jaeger",LC,U,-16731116

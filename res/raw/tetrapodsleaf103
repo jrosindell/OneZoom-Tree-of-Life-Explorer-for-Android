@@ -1,33 +1,37 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"superciliaris","Phylloscartes","Rufous-browed Tyrannulet",LC,U,-16731116
-9,7,"lanyoni","Phylloscartes","Antioquia Bristle-tyrant",EN,U,-8572416
-10,6,"kronei","Phylloscartes","Restinga Tyrannulet",VU,U,-11184866
-12,11,"roquettei","Phylloscartes","Minas Gerais Tyrannulet",EN,U,-8572416
-13,11,"sylviolus","Phylloscartes","Bay-ringed Tyrannulet",NT,U,-12486656
-14,4,"paulista","Phylloscartes","Sao Paulo Tyrannulet",NT,U,-12486656
-18,17,"ventralis","Phylloscartes","Mottle-cheeked Tyrannulet",LC,U,-16731116
-19,17,"difficilis","Phylloscartes","Serra Do Mar Tyrannulet",NT,U,-12486656
-21,20,"nigrifrons","Phylloscartes","Black-fronted Tyrannulet",LC,U,-16731116
-22,20,"gualaquizae","Phylloscartes","Ecuadorian Tyrannulet",LC,U,-16731116
-23,15,"ceciliae","Phylloscartes","Alagoas Tyrannulet",EN,U,-8572416
-26,25,"ophthalmicus","Phylloscartes","Marble-faced Bristle-tyrant",LC,U,-16731116
-27,25,"orbitalis","Phylloscartes","Spectacled Bristle-tyrant",LC,U,-16731116
-29,28,"venezuelanus","Phylloscartes","Venezuelan Bristle-tyrant",NT,U,-12486656
-30,28,"flavovirens","Phylloscartes","Yellow-green Tyrannulet",LC,U,-16731116
-37,36,"parkeri","Phylloscartes","Cinnamon-faced Tyrannulet",LC,U,-16731116
-38,36,"virescens","Phylloscartes","Olive-green Tyrannulet",LC,U,-16731116
-39,35,"eximius","Phylloscartes","Southern Bristle-tyrant",NT,U,-12486656
-40,34,"flaviventris","Phylloscartes","Rufous-lored Tyrannulet",LC,U,-16731116
-42,41,"chapmani","Phylloscartes","Chapman's Tyrannulet",LC,U,-16731116
-43,41,"beckeri","Phylloscartes","Bahia Tyrannulet",EN,U,-8572416
-44,32,"poecilotis","Phylloscartes","Variegated Bristle-tyrant",LC,U,-16731116
-45,31,"oustaleti","Phylloscartes","Oustalet's Tyrannulet",NT,U,-12486656
-50,49,"oleagineus","Mionectes","Ochre-bellied Flycatcher",LC,U,-16731116
-51,49,"rufiventris","Mionectes","Grey-hooded Flycatcher",LC,U,-16731116
-52,48,"macconnelli","Mionectes","MacConnell's Flycatcher",LC,U,-16731116
-54,53,"striaticollis","Mionectes","Streak-necked Flycatcher",LC,U,-16731116
-55,53,"olivaceus","Mionectes","Olive-striped Flycatcher",LC,U,-16731116
-59,58,"amaurocephalus","Leptopogon","Sepia-capped Flycatcher",LC,U,-16731116
-60,58,"rufipectus","Leptopogon","Rufous-breasted Flycatcher",LC,U,-16731116
-61,57,"superciliaris","Leptopogon","Slaty-capped Flycatcher",LC,U,-16731116
-62,56,"taczanowskii","Leptopogon","Inca Flycatcher",LC,U,-16731116
+8,7,"helveticus","Lissotriton","Palmate Newt",LC,S,-16731116
+9,7,"italicus","Lissotriton","Italian Newt",LC,D,-16731116
+11,10,"vulgaris","Lissotriton","Smooth Newt",LC,S,-16731116
+12,10,"boscai","Lissotriton","Bosca's Newt",LC,S,-16731116
+13,5,"montandoni","Lissotriton","Carpathian Newt",LC,D,-16731116
+14,4,"alpestris","Mesotriton","Alpine Newt",LC,D,-16731116
+16,15,"platycephalus","Euproctus","Sardinian Brook Salamander",EN,D,-8572416
+17,15,"montanus","Euproctus","Corsican Brook Salamander",LC,S,-16731116
+23,22,"karelinii","Triturus","Southern Crested Newt",LC,D,-16731116
+24,22,"carnifex","Triturus","Italian Crested Newt",LC,D,-16731116
+25,21,"cristatus","Triturus","Great Crested Newt",LC,D,-16731116
+27,26,"pygmaeus","Triturus","Southern Marbled Newt",NT,D,-12486656
+28,26,"marmoratus","Triturus","Marbled Newt",LC,D,-16731116
+29,19,"dobrogicus","Triturus","Danube Crested Newt",NT,D,-12486656
+30,18,"asper","Calotriton","Pyrenean Brook Salamander",NT,D,-12486656
+35,34,"strauchii","Neurergus","",VU,D,-11184866
+36,34,"crocatus","Neurergus","",VU,D,-11184866
+37,33,"microspilotus","Neurergus","",CR,D,-3014646
+38,32,"kaiseri","Neurergus","",CR,D,-3014646
+39,31,"vittatus","Ommatotriton","Southern Banded Newt",LC,D,-16731116
+46,45,"deloustali","Paramesotriton","Tam Dao Salamander",VU,D,-11184866
+47,45,"chinensis","Paramesotriton","Chinese Warty Newt",LC,D,-16731116
+48,44,"laoensis","Paramesotriton","",DD,U,-11513776
+49,43,"fuzhongensis","Paramesotriton","Wanggao Warty Newt",VU,D,-11184866
+52,51,"caudopunctatus","Paramesotriton","Spot-tailed Warty Newt",NT,D,-12486656
+53,51,"guanxiensis","Paramesotriton","Guangxi Warty Newt",EN,D,-8572416
+54,50,"hongkongensis","Paramesotriton","Hong Kong Warty Newt",NT,D,-12486656
+56,55,"brevipes","Pachytriton","Black-spotted Stout Newt",LC,D,-16731116
+57,55,"labiatus","Pachytriton","Spotless Stout Newt",LC,D,-16731116
+63,62,"orientalis","Cynops","Oriental Fire-bellied Newt",LC,D,-16731116
+64,62,"wolterstorffi","Cynops","Yunnan Lake Newt",EX,U,-16777036
+65,61,"orphicus","Cynops","Dayang Newt",EN,D,-8572416
+66,60,"ensicauda","Cynops","Sword-tailed Newt",EN,D,-8572416
+67,59,"cyanurus","Cynops","Chuxiong Fire-bellied Newt",LC,D,-16731116
+69,68,"pyrrhogaster","Cynops","Japanese Fire-bellied Newt",LC,S,-16731116
+70,68,"chenggongensis","Cynops","",DD,U,-11513776

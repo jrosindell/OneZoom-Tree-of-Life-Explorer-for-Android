@@ -1,30 +1,86 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"tephronotus","Lanius","Grey-backed Shrike",LC,U,-16731116
-11,9,"cristatus","Lanius","Brown Shrike",LC,U,-16731116
-12,8,"bucephalus","Lanius","Bull-headed Shrike",LC,U,-16731116
-13,7,"schach","Lanius","Long-tailed Shrike",LC,U,-16731116
-15,14,"isabellinus","Lanius","Rufous-tailed Shrike",LC,U,-16731116
-16,14,"collurio","Lanius","Red-backed Shrike",LC,U,-16731116
-17,5,"tigrinus","Lanius","Tiger Shrike",LC,U,-16731116
-21,20,"mackinnoni","Lanius","Mackinnon's Shrike",LC,U,-16731116
-22,20,"collaris","Lanius","Common Fiscal",LC,U,-16731116
-23,19,"souzae","Lanius","Souza's Shrike",LC,U,-16731116
-25,24,"minor","Lanius","Lesser Grey Shrike",LC,U,-16731116
-26,24,"senator","Lanius","Woodchat Shrike",LC,U,-16731116
-29,28,"nubicus","Lanius","Masked Shrike",LC,U,-16731116
-30,28,"marwitzi","Lanius","Uhehe Fiscal",LC,U,-16731116
-31,27,"gubernator","Lanius","Emin's Shrike",LC,U,-16731116
-38,37,"sphenocercus","Lanius","Chinese Grey Shrike",LC,U,-16731116
-39,37,"excubitor","Lanius","Great Grey Shrike",LC,U,-16731116
-40,36,"newtoni","Lanius","Sao Tome Fiscal",CR,U,-3014646
-41,35,"ludovicianus","Lanius","Loggerhead Shrike",LC,U,-16731116
-43,42,"meridionalis","Lanius","Southern Grey Shrike",_U,[,-16777216
-44,42,"validirostris","Lanius","Mountain Shrike",NT,U,-12486656
-45,33,"somalicus","Lanius","Somali Fiscal",LC,U,-16731116
-48,47,"corvina","Corvinella","Yellow-billed Shrike",LC,U,-16731116
-49,47,"dorsalis","Lanius","Taita Fiscal",LC,U,-16731116
-50,46,"vittatus","Lanius","Bay-backed Shrike",LC,U,-16731116
-51,1,"excubitoroides","Lanius","Grey-backed Fiscal",LC,U,-16731116
-54,53,"melanoleucus","Urolestes","Magpie Shrike",LC,U,-16731116
-55,53,"cabanisi","Lanius","Long-tailed Fiscal",LC,U,-16731116
-56,52,"collurioides","Lanius","Burmese Shrike",LC,U,-16731116
+14,13,"insperatus","Allobates","",LC,S,-16731116
+15,13,"conspicuus","Allobates","",DD,U,-11513776
+17,16,"mcdiarmidi","Allobates","",NT,D,-12486656
+18,16,"alagoanus","Allobates","",NE,U,-16777216
+20,19,"zaparo","Allobates","Sanguine Poison Frog",LC,U,-16731116
+21,19,"capixaba","Allobates","",NE,U,-16777216
+23,22,"marchesianus","Allobates","",LC,S,-16731116
+24,22,"crombiei","Allobates","",DD,U,-11513776
+25,9,"cepedai","Allobates","",DD,U,-11513776
+30,29,"pittieri","Allobates","",LC,S,-16731116
+31,29,"carioca","Allobates","",NE,U,-16777216
+32,28,"brunneus","Allobates","",LC,U,-16731116
+33,27,"ornatus","Allobates","",DD,U,-11513776
+35,34,"undulatus","Allobates","",DD,U,-11513776
+36,34,"sumtuosus","Allobates","",DD,U,-11513776
+39,38,"rufulus","Allobates","",DD,U,-11513776
+40,38,"wayuu","Allobates","",VU,U,-11184866
+41,37,"fuscellus","Allobates","",DD,U,-11513776
+45,44,"fratisenescus","Allobates","",DD,U,-11513776
+46,44,"juanii","Allobates","",CR,D,-3014646
+47,43,"melanolaemus","Allobates","",DD,U,-11513776
+49,48,"vanzolinius","Allobates","",DD,U,-11513776
+50,48,"nidicola","Allobates","",DD,U,-11513776
+52,51,"talamancae","Allobates","",LC,S,-16731116
+53,51,"myersi","Allobates","",LC,S,-16731116
+55,54,"sanmartini","Allobates","",DD,U,-11513776
+56,54,"femoralis","Allobates","",LC,S,-16731116
+61,60,"caeruleodactylus","Allobates","",DD,U,-11513776
+62,60,"olfersioides","Allobates","",VU,D,-11184866
+63,59,"picachos","Allobates","",DD,U,-11513776
+65,64,"kingsburyi","Allobates","",EN,D,-8572416
+66,64,"goianus","Allobates","",DD,U,-11513776
+70,69,"trilineatus","Allobates","",LC,S,-16731116
+71,69,"mandelorum","Allobates","",EN,D,-8572416
+73,72,"alessandroi","Allobates","",DD,U,-11513776
+74,72,"masniger","Allobates","",DD,U,-11513776
+75,67,"gasconi","Allobates","",DD,U,-11513776
+79,78,"chalcopis","Allobates","Martinique Volcano Frog",VU,S,-11184866
+80,78,"ranoides","Allobates","",EN,D,-8572416
+81,77,"humilis","Allobates","",VU,S,-11184866
+82,76,"bromelicola","Allobates","",DD,U,-11513776
+91,90,"baeobatrachus","Anomaloglossus","",DD,S,-11513776
+92,90,"roraima","Anomaloglossus","",DD,U,-11513776
+93,89,"tamacuarensis","Anomaloglossus","",DD,U,-11513776
+94,88,"tepuyensis","Anomaloglossus","",DD,U,-11513776
+96,95,"lacrimosus","Anomaloglossus","",DD,U,-11513776
+97,95,"beebei","Anomaloglossus","",VU,S,-11184866
+99,98,"praderioi","Anomaloglossus","",DD,U,-11513776
+100,98,"stepheni","Anomaloglossus","",LC,S,-16731116
+102,101,"murisipanensis","Anomaloglossus","",VU,S,-11184866
+103,101,"parimae","Anomaloglossus","",DD,U,-11513776
+109,108,"atopoglossus","Anomaloglossus","",DD,U,-11513776
+110,108,"degranvillei","Anomaloglossus","",LC,S,-16731116
+112,111,"wothuja","Anomaloglossus","",DD,U,-11513776
+113,111,"shrevei","Anomaloglossus","",DD,U,-11513776
+114,106,"ayarzaguenai","Anomaloglossus","",DD,U,-11513776
+115,105,"triunfo","Anomaloglossus","",DD,U,-11513776
+117,116,"guanayensis","Anomaloglossus","",DD,U,-11513776
+118,116,"parkerae","Anomaloglossus","",DD,U,-11513776
+120,119,"pseudopalmatus","Rheobates","",DD,U,-11513776
+121,119,"palmatus","Rheobates","",LC,S,-16731116
+130,129,"oblitterata","Mannophryne","",DD,U,-11513776
+131,129,"lamarcai","Mannophryne","",CR,D,-3014646
+132,128,"collaris","Mannophryne","",EN,D,-8572416
+133,127,"trinitatis","Mannophryne","Yellow-throated Frog",VU,D,-11184866
+134,126,"olmonae","Mannophryne","Bloody Bay Poison Frog",CR,D,-3014646
+138,137,"cordilleriana","Mannophryne","",CR,S,-3014646
+139,137,"larandina","Mannophryne","",DD,U,-11513776
+140,136,"riveroi","Mannophryne","",EN,D,-8572416
+141,135,"neblina","Mannophryne","",CR,D,-3014646
+143,142,"caquetio","Mannophryne","",CR,D,-3014646
+144,142,"yustizi","Mannophryne","",EN,D,-8572416
+145,123,"herminae","Mannophryne","",NT,D,-12486656
+154,153,"saltuensis","Aromobates","",EN,D,-8572416
+155,153,"haydeeae","Aromobates","",EN,D,-8572416
+156,152,"duranti","Aromobates","",EN,D,-8572416
+158,157,"nocturnus","Aromobates","Skunk Frog",CR,D,-3014646
+159,157,"alboguttatus","Aromobates","",EN,D,-8572416
+162,161,"serranus","Aromobates","",EN,D,-8572416
+163,161,"orostoma","Aromobates","",EN,D,-8572416
+164,160,"meridensis","Aromobates","",CR,D,-3014646
+165,149,"molinarii","Aromobates","",EN,D,-8572416
+166,148,"mayorgai","Aromobates","",EN,D,-8572416
+167,147,"capurinensis","Aromobates","",DD,U,-11513776
+168,146,"leopardalis","Aromobates","",CR,D,-3014646

@@ -1,75 +1,74 @@
 index,parent,name1,name2,common,redlist,popstab,color
-45,44,"flavicollis","Hemithraupis","Yellow-backed Tanager",LC,U,-16731116
-46,44,"guira","Hemithraupis","Guira Tanager",LC,U,-16731116
-47,43,"ruficapilla","Hemithraupis","Rufous-headed Tanager",LC,U,-16731116
-49,48,"xanthopygius","Heterospingus","Scarlet-browed Tanager",LC,U,-16731116
-50,48,"rubrifrons","Heterospingus","Sulphur-rumped Tanager",LC,U,-16731116
-52,51,"chrysomelas","Chrysothlypis","Black-and-yellow Tanager",LC,U,-16731116
-53,51,"salmoni","Chrysothlypis","Scarlet-and-white Tanager",LC,U,-16731116
-58,57,"laeta","Incaspiza","Buff-bridled Inca-finch",LC,U,-16731116
-59,57,"watkinsi","Incaspiza","Little Inca-finch",NT,U,-12486656
-60,56,"pulchra","Incaspiza","Great Inca-finch",LC,U,-16731116
-62,61,"personata","Incaspiza","Rufous-backed Inca-finch",LC,U,-16731116
-63,61,"ortizi","Incaspiza","Grey-winged Inca-finch",VU,U,-11184866
-65,64,"pulcherrimus","Iridophanes","Golden-collared Honeycreeper",LC,U,-16731116
-66,64,"spiza","Chlorophanes","Green Honeycreeper",LC,U,-16731116
-70,69,"rourei","Nemosia","Cherry-throated Tanager",CR,U,-3014646
-71,69,"pileata","Nemosia","Hooded Tanager",LC,U,-16731116
-72,68,"concolor","Xenospingus","Slender-billed Finch",NT,U,-12486656
-74,73,"albocristata","Sericossypha","White-capped Tanager",LC,U,-16731116
-75,73,"melanotis","Coryphaspiza","Black-masked Finch",VU,U,-11184866
-85,84,"albicollis","Saltator","Lesser Antillean Saltator",LC,U,-16731116
-86,84,"similis","Saltator","Green-winged Saltator",LC,U,-16731116
-87,83,"striatipectus","Saltator","Streaked Saltator",LC,U,-16731116
-88,82,"coerulescens","Saltator","Greyish Saltator",LC,U,-16731116
-89,81,"fuliginosus","Saltator","Black-throated Grosbeak",LC,U,-16731116
-92,91,"aurantiirostris","Saltator","Golden-billed Saltator",LC,U,-16731116
-93,91,"grossus","Saltator","Slate-coloured Grosbeak",LC,U,-16731116
-94,90,"nigriceps","Saltator","Black-cowled Saltator",LC,U,-16731116
-98,97,"atripennis","Saltator","Black-winged Saltator",LC,U,-16731116
-99,97,"atriceps","Saltator","Black-headed Saltator",LC,U,-16731116
-100,96,"maximus","Saltator","Buff-throated Saltator",LC,U,-16731116
-101,95,"maxillosus","Saltator","Thick-billed Saltator",LC,U,-16731116
-102,78,"orenocensis","Saltator","Orinoco Saltator",LC,U,-16731116
-103,77,"cinctus","Saltator","Masked Saltator",NT,U,-12486656
-105,104,"multicolor","Saltatricula","Many-coloured Chaco-finch",LC,U,-16731116
-106,104,"atricollis","Saltator","Black-throated Saltator",LC,U,-16731116
-107,35,"diadema","Catamblyrhynchus","Plushcap",LC,U,-16731116
-112,111,"ornatus","Calcarius","Chestnut-collared Longspur",NT,U,-12486656
-113,111,"pictus","Calcarius","Smith's Longspur",LC,U,-16731116
-114,110,"mccownii","Calcarius","McCown's Longspur",LC,U,-16731116
-115,109,"lapponicus","Calcarius","Lapland Longspur",LC,U,-16731116
-117,116,"hyperboreus","Plectrophenax","McKay's Bunting",NT,U,-12486656
-118,116,"nivalis","Plectrophenax","Snow Bunting",LC,U,-16731116
-122,121,"orostruthus","Modulatrix","Dapple-throat",VU,U,-11184866
-123,121,"stictigula","Modulatrix","Spot-throat",LC,U,-16731116
-125,124,"gurneyi","Promerops","Gurney's Sugarbird",LC,U,-16731116
-126,124,"cafer","Promerops","Cape Sugarbird",LC,U,-16731116
-127,119,"pylzowi","Urocynchramus","Pink-tailed Bunting",LC,U,-16731116
-131,130,"aurantius","Chaetops","Drakensberg Rockjumper",LC,U,-16731116
-132,130,"frenatus","Chaetops","Cape Rock-jumper",LC,U,-16731116
-133,129,"macrocerus","Eupetes","Rail-babbler",NT,U,-12486656
-135,134,"gymnocephalus","Picathartes","White-necked Picathartes",VU,U,-11184866
-136,134,"oreas","Picathartes","Grey-necked Picathartes",VU,U,-11184866
-141,140,"superciliosus","Pomatostomus","White-browed Babbler",LC,U,-16731116
-142,140,"ruficeps","Pomatostomus","Chestnut-crowned Babbler",LC,U,-16731116
-144,143,"temporalis","Pomatostomus","Grey-crowned Babbler",LC,U,-16731116
-145,143,"halli","Pomatostomus","Hall's Babbler",LC,U,-16731116
-146,138,"isidorei","Pomatostomus","New Guinea Babbler",LC,U,-16731116
-149,148,"temminckii","Orthonyx","Australian Logrunner",LC,U,-16731116
-150,148,"spaldingii","Orthonyx","Chowchilla",LC,U,-16731116
-151,147,"novaeguineae","Orthonyx","New Guinea Logrunner",LC,U,-16731116
-154,153,"rufescens","Atrichornis","Rufous Scrub-bird",VU,U,-11184866
-155,153,"clamosus","Atrichornis","Noisy Scrub-bird",VU,U,-11184866
-157,156,"novaehollandiae","Menura","Superb Lyrebird",LC,U,-16731116
-158,156,"alberti","Menura","Albert's Lyrebird",NT,U,-12486656
-160,159,"gilviventris","Xenicus","South Island Wren",VU,U,-11184866
-161,159,"chloris","Acanthisitta","Rifleman",LC,U,-16731116
-163,162,"burmeisteri","Chunga","Black-legged Seriema",LC,U,-16731116
-164,162,"cristata","Cariama","Red-legged Seriema",LC,U,-16731116
-169,168,"colius","Colius","White-backed Mousebird",LC,U,-16731116
-170,168,"striatus","Colius","Speckled Mousebird",LC,U,-16731116
-171,167,"castanotus","Colius","Red-backed Mousebird",LC,U,-16731116
-172,166,"leucocephalus","Colius","White-headed Mousebird",LC,U,-16731116
-174,173,"macrourus","Urocolius","Blue-naped Mousebird",LC,U,-16731116
-175,173,"indicus","Urocolius","Red-faced Mousebird",LC,U,-16731116
+16,15,"casuarius","Casuarius","Southern Cassowary",VU,U,-11184866
+17,15,"bennetti","Casuarius","Dwarf Cassowary",NT,U,-12486656
+18,14,"unappendiculatus","Casuarius","Northern Cassowary",VU,U,-11184866
+19,13,"novaehollandiae","Dromaius","Emu",LC,U,-16731116
+22,21,"australis","Apteryx","Southern Brown Kiwi",VU,U,-11184866
+23,21,"mantelli","Apteryx","Northern Brown Kiwi",EN,U,-8572416
+25,24,"owenii","Apteryx","Little Spotted Kiwi",NT,U,-12486656
+26,24,"haastii","Apteryx","Great Spotted Kiwi",VU,U,-11184866
+28,27,"americana","Rhea","Greater Rhea",NT,U,-12486656
+29,27,"pennata","Rhea","Lesser Rhea",NT,U,-12486656
+30,10,"camelus","Struthio","Ostrich",LC,U,-16731116
+39,38,"intermedius","Crocodylus","Orinoco Crocodile",CR,U,-3014646
+40,38,"acutus","Crocodylus","American Crocodile",VU,U,-11184866
+42,41,"moreletii","Crocodylus","Belize Crocodile",NE,U,-16777216
+43,41,"rhombifer","Crocodylus","Cuban Crocodile",CR,U,-3014646
+44,36,"niloticus","Crocodylus","Nile Crocodile",LC,U,-16731116
+47,46,"palustris","Crocodylus","Broad-snouted Crocodile",VU,U,-11184866
+48,46,"siamensis","Crocodylus","Siamese Crocodile",CR,U,-3014646
+49,45,"porosus","Crocodylus","Estuarine Crocodile",LC,U,-16731116
+52,51,"mindorensis","Crocodylus","Philippines Crocodile",CR,U,-3014646
+53,51,"novaeguineae","Crocodylus","New Guinea Crocodile",LC,U,-16731116
+54,50,"johnstoni","Crocodylus","Freshwater crocodile",NE,U,-16777216
+56,55,"cataphractus","Mecistops","African Slender-snouted Crocodile",NE,U,-16777216
+57,55,"tetraspis","Osteolaemus","African Dwarf Crocodile",VU,U,-11184866
+59,58,"gangeticus","Gavialis","Fish-eating Crocodile",CR,D,-3014646
+60,58,"schlegelii","Tomistoma","False Gavial",EN,U,-8572416
+66,65,"crocodilus","Caiman","Common Caiman",LC,U,-16731116
+67,65,"yacare","Caiman","Yacare Caiman",LC,U,-16731116
+68,64,"latirostris","Caiman","Broad-snouted Caiman",LC,U,-16731116
+69,63,"niger","Melanosuchus","Black Caiman",NE,U,-16777216
+71,70,"palpebrosus","Paleosuchus","Cuvier's Smooth-fronted Caiman",LC,U,-16731116
+72,70,"trigonatus","Paleosuchus","Smooth-fronted Caiman",NE,U,-16777216
+74,73,"mississippiensis","Alligator","American Alligator",LC,U,-16731116
+75,73,"sinensis","Alligator","China Alligator",CR,U,-3014646
+85,84,"erythrocephala","Podocnemis","Red-headed Amazon River Turtle",VU,U,-11184866
+86,84,"lewyana","Podocnemis","Magdalena River Turtle",EN,U,-8572416
+87,83,"unifilis","Podocnemis","Yellow-headed Sideneck",VU,U,-11184866
+89,88,"sextuberculata","Podocnemis","Six-tubercled Amazon River Turtle",VU,U,-11184866
+90,88,"expansa","Podocnemis","Arrau",NE,U,-16777216
+91,81,"vogli","Podocnemis","Savanna Side-necked Turtle",NE,U,-16777216
+93,92,"madagascariensis","Erymnochelys","Madagascar Big-headed Turtle",CR,D,-3014646
+94,92,"dumeriliana","Peltocephalus","Big-headed Amazon River turtle",NE,U,-16777216
+96,95,"subrufa","Pelomedusa","African Helmeted Turtle",NE,U,-16777216
+97,95,"williamsi","Pelusios","William's Mud Turtle",NE,U,-16777216
+105,104,"pallidipectoris","Acanthochelys","Chaco Side-necked Turtle",VU,U,-11184866
+106,104,"spixii","Acanthochelys","Black Spine-necked Swamp Turtle",NT,U,-12486656
+107,103,"macrocephala","Acanthochelys","Big-headed Pantanal Swamp Turtle",NT,U,-12486656
+108,102,"radiolata","Acanthochelys","Brazilian Radiolated Swamp Turtle",NT,U,-12486656
+109,101,"platycephala","Platemys","Twist-necked Turtle",NE,U,-16777216
+110,100,"gibbus","Phrynops","",NE,U,-16777216
+111,99,"fimbriatus","Chelus","Mata-mata",NE,U,-16777216
+113,112,"longicollis","Chelodina","Eastern Long-necked Turtle",NE,U,-16777216
+114,112,"latisternum","Elseya","Saw-shelled Turtle",NE,U,-16777216
+119,115,"punctatus","Sphenodon","Tuatara",LC,U,-16731116
+128,127,"bartoni","Zaglossus","Eastern Long-beaked Echidna",CR,D,-3014646
+129,127,"bruijni","Zaglossus","",NE,U,-16777216
+130,126,"aculeatus","Tachyglossus","Short-beaked Echidna",LC,S,-16731116
+131,125,"anatinus","Ornithorhynchus","Platypus",LC,U,-16731116
+141,140,"hamiltoni","Leiopelma","Hamilton's Frog",EN,S,-8572416
+142,140,"pakeka","Leiopelma","Maud Island Frog",VU,S,-11184866
+143,139,"archeyi","Leiopelma","Archey's Frog",CR,D,-3014646
+144,138,"hochstetteri","Leiopelma","Hochstetter's Frog",VU,D,-11184866
+146,145,"montanus","Ascaphus","Inland Tailed Frog",LC,U,-16731116
+147,145,"truei","Ascaphus","Coastal Tailed Frog",LC,U,-16731116
+156,155,"lativittatus","Epicrionops","",DD,U,-11513776
+157,155,"parkeri","Epicrionops","",DD,U,-11513776
+158,154,"columbianus","Epicrionops","",DD,U,-11513776
+161,160,"peruvianus","Epicrionops","",DD,U,-11513776
+162,160,"petersi","Epicrionops","",LC,U,-16731116
+163,159,"niger","Epicrionops","",LC,U,-16731116
+165,164,"marmoratus","Epicrionops","",DD,U,-11513776
+166,164,"bicolor","Epicrionops","",LC,U,-16731116
+167,151,"bivittatum","Rhinatrema","",LC,U,-16731116

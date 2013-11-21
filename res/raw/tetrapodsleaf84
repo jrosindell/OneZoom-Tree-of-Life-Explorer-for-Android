@@ -1,39 +1,27 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"oustaleti","Cinclodes","Grey-flanked Cinclodes",LC,U,-16731116
-14,12,"olrogi","Cinclodes","Olrog's Cinclodes",LC,U,-16731116
-15,11,"comechingonus","Cinclodes","Cordoba Cinclodes",LC,U,-16731116
-16,10,"albidiventris","Cinclodes","Chestnut-winged Cinclodes",LC,U,-16731116
-18,17,"antarcticus","Cinclodes","Blackish Cinclodes",LC,U,-16731116
-19,17,"fuscus","Cinclodes","Buff-winged Cinclodes",LC,U,-16731116
-20,8,"excelsior","Cinclodes","Stout-billed Cinclodes",LC,U,-16731116
-25,24,"nigrofumosus","Cinclodes","Seaside Cinclodes",LC,U,-16731116
-26,24,"taczanowskii","Cinclodes","Surf Cinclodes",LC,U,-16731116
-27,23,"patagonicus","Cinclodes","Dark-bellied Cinclodes",LC,U,-16731116
-29,28,"atacamensis","Cinclodes","White-winged Cinclodes",LC,U,-16731116
-30,28,"palliatus","Cinclodes","White-bellied Cinclodes",CR,U,-3014646
-31,21,"aricomae","Cinclodes","Royal Cinclodes",CR,U,-3014646
-32,6,"pabsti","Cinclodes","Long-tailed Cinclodes",NT,U,-12486656
-33,5,"albiventris","Cinclodes","Cream-winged Cinclodes",LC,U,-16731116
-36,35,"validirostris","Upucerthia","Buff-breasted Earthcreeper",LC,U,-16731116
-37,35,"jelskii","Upucerthia","Plain-breasted Earthcreeper",LC,U,-16731116
-39,38,"dumetaria","Upucerthia","Scale-throated Earthcreeper",LC,U,-16731116
-40,38,"albigula","Upucerthia","White-throated Earthcreeper",LC,U,-16731116
-42,41,"saturatior","Upucerthia","Patagonian Forest Earthcreeper",LC,U,-16731116
-43,41,"serrana","Upucerthia","Striated Earthcreeper",LC,U,-16731116
-46,45,"curvirostris","Limnornis","Curve-billed Reedhaunter",LC,U,-16731116
-47,45,"melanops","Phleocryptes","Wren-like Rushbird",LC,U,-16731116
-48,44,"nematura","Lochmias","Sharp-tailed Streamcreeper",LC,U,-16731116
-54,53,"cinnamomeus","Furnarius","Pacific Hornero",_U,[,-16777216
-55,53,"rufus","Furnarius","Rufous Hornero",LC,U,-16731116
-56,52,"cristatus","Furnarius","Crested Hornero",LC,U,-16731116
-57,51,"torridus","Furnarius","Pale-billed Hornero",LC,U,-16731116
-58,50,"minor","Furnarius","Lesser Hornero",LC,U,-16731116
-61,60,"leucopus","Furnarius","Pale-legged Hornero",LC,U,-16731116
-62,60,"longirostris","Furnarius","Caribbean Hornero",_U,[,-16777216
-63,59,"figulus","Furnarius","Wing-banded Hornero",LC,U,-16731116
-67,66,"boissonneautii","Pseudocolaptes","Streaked Tuftedcheek",LC,U,-16731116
-68,66,"johnsoni","Pseudocolaptes","Pacific Tuftedcheek",_U,[,-16777216
-69,65,"lawrencii","Pseudocolaptes","Buffy Tuftedcheek",LC,U,-16731116
-72,71,"harterti","Tarphonomus","Bolivian Earthcreeper",LC,U,-16731116
-73,71,"certhioides","Tarphonomus","Chaco Earthcreeper",LC,U,-16731116
-74,70,"guttuligera","Premnornis","Rusty-winged Barbtail",LC,U,-16731116
+8,7,"dissimulatus","Eleutherodactylus","",NE,U,-16777216
+9,7,"eugeniae","Eleutherodactylus","",NE,U,-16777216
+10,6,"nicefori","Eleutherodactylus","",NE,U,-16777216
+12,11,"bogotensis","Eleutherodactylus","",NE,U,-16777216
+13,11,"delius","Eleutherodactylus","",NE,U,-16777216
+14,4,"merostictus","Eleutherodactylus","",NE,U,-16777216
+16,15,"altamazonicus","Eleutherodactylus","",NE,U,-16777216
+17,15,"celator","Eleutherodactylus","",NE,U,-16777216
+20,19,"rufioculis","Eleutherodactylus","",NE,U,-16777216
+21,19,"crucifer","Eleutherodactylus","",NE,U,-16777216
+22,18,"caryophyllaceus","Eleutherodactylus","",NE,U,-16777216
+27,26,"imitatrix","Eleutherodactylus","",NE,U,-16777216
+28,26,"luscombei","Eleutherodactylus","",NE,U,-16777216
+29,25,"avius","Eleutherodactylus","",NE,U,-16777216
+30,24,"croceoinguinis","Eleutherodactylus","",NE,U,-16777216
+33,32,"molybrignus","Eleutherodactylus","",NE,U,-16777216
+34,32,"baiotis","Eleutherodactylus","",NE,U,-16777216
+35,31,"dorsopictus","Eleutherodactylus","",NE,U,-16777216
+41,40,"infraguttatus","Eleutherodactylus","",NE,U,-16777216
+42,40,"degener","Eleutherodactylus","",NE,U,-16777216
+43,39,"frater","Eleutherodactylus","",NE,U,-16777216
+44,38,"martiae","Eleutherodactylus","",NE,U,-16777216
+45,37,"rosadoi","Eleutherodactylus","",NE,U,-16777216
+48,47,"turumiquirensis","Eleutherodactylus","",NE,U,-16777216
+49,47,"ridens","Eleutherodactylus","",NE,U,-16777216
+50,46,"walkeri","Eleutherodactylus","",NE,U,-16777216

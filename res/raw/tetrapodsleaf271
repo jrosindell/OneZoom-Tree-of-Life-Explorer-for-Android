@@ -1,90 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"furculus","Triaenops","Trouessart's Trident Bat",LC,U,-16731116
-11,9,"auritus","Triaenops","Grandidier's Trident Bat",VU,U,-11184866
-13,12,"persicus","Triaenops","Persian Trident Bat",LC,U,-16731116
-14,12,"rufus","Triaenops","Rufous Trident Bat",LC,U,-16731116
-15,7,"aurantia","Rhinonicteris","Orange Leaf-nosed Bat",LC,U,-16731116
-18,17,"robinsoni","Coelops","Malayan Tailless Leaf-nosed Bat",VU,D,-11184866
-19,17,"frithii","Coelops","Tail-less Leaf-nosed Bat",LC,U,-16731116
-20,16,"megalotis","Paracoelops","Vietnamese Leaf-nosed Bat",DD,U,-11513776
-25,24,"shortridgei","Rhinolophus","Shortridge's Horseshoe Bat",LC,U,-16731116
-26,24,"lepidus","Rhinolophus","Blyth's Horseshoe Bat",LC,U,-16731116
-28,27,"osgoodi","Rhinolophus","Osgood's Horseshoe Bat",DD,U,-11513776
-29,27,"cornutus","Rhinolophus","",NE,U,-16777216
-31,30,"pusillus","Rhinolophus","Least Horseshoe Bat",LC,U,-16731116
-32,30,"monoceros","Rhinolophus","",NE,U,-16777216
-39,38,"madagascariensis","Nycteris","Madagascar Slit-faced Bat",DD,U,-11513776
-40,38,"macrotis","Nycteris","Large-eared Slit-faced Bat",LC,U,-16731116
-41,37,"vinsoni","Nycteris","Vinson's Slit-faced Bat",DD,U,-11513776
-43,42,"parisii","Nycteris","Parisi's Slit-faced Bat",DD,U,-11513776
-44,42,"woodi","Nycteris","Wood's Slit-faced Bat",LC,D,-16731116
-48,47,"aurita","Nycteris","Andersen's Slit-faced Bat",LC,U,-16731116
-49,47,"hispida","Nycteris","Hairy Slit-faced Bat",LC,S,-16731116
-50,46,"grandis","Nycteris","Large Slit-faced Bat",LC,D,-16731116
-52,51,"gambiensis","Nycteris","Gambian Slit-faced Bat",LC,U,-16731116
-53,51,"thebaica","Nycteris","Egyptian Slit-faced Bat",LC,U,-16731116
-57,56,"nana","Nycteris","Dwarf Slit-faced Bat",LC,U,-16731116
-58,56,"major","Nycteris","Dja Slit-faced Bat",DD,U,-11513776
-59,55,"intermedia","Nycteris","Intermediate Slit-faced Bat",LC,D,-16731116
-60,54,"arge","Nycteris","Bate's Slit-faced Bat",LC,S,-16731116
-62,61,"tragata","Nycteris","Malayan Slit-faced Bat",NT,D,-12486656
-63,61,"javanica","Nycteris","Javan Slit-faced Bat",VU,D,-11184866
-67,66,"spasma","Megaderma","Lesser False Vampire",LC,U,-16731116
-68,66,"lyra","Megaderma","Greater False Vampire",LC,U,-16731116
-69,65,"gigas","Macroderma","Ghost Bat",VU,D,-11184866
-71,70,"cor","Cardioderma","Heart-nosed Bat",LC,U,-16731116
-72,70,"frons","Lavia","Yellow-winged Bat",LC,S,-16731116
-77,76,"macinnesi","Rhinopoma","Macinnes's Mouse-tailed Bat",DD,U,-11513776
-78,76,"hardwickii","Rhinopoma","Lesser Mouse-tailed Bat",LC,S,-16731116
-79,75,"microphyllum","Rhinopoma","Greater Mouse-tailed Bat",LC,S,-16731116
-80,74,"muscatellum","Rhinopoma","Small Mouse-tailed Bat",LC,U,-16731116
-81,73,"thonglongyai","Craseonycteris","Hog-nosed Bat",VU,D,-11184866
-91,90,"trinitatis","Peropteryx","Trinidad Dog-like Bat",DD,U,-11513776
-92,90,"macrotis","Peropteryx","Lesser Dog-like Bat",LC,S,-16731116
-93,89,"kappleri","Peropteryx","Greater Dog-like Bat",LC,U,-16731116
-94,88,"leucoptera","Peropteryx","White-winged Dog-like Bat",LC,U,-16731116
-97,96,"plicata","Balantiopteryx","Gray Sac-winged Bat",LC,U,-16731116
-98,96,"io","Balantiopteryx","Thomas's Sac-winged Bat",VU,D,-11184866
-99,95,"infusca","Balantiopteryx","Ecuadorian Sac-winged Bat",EN,D,-8572416
-102,101,"centralis","Centronycteris","Thomas's Shaggy Bat",LC,U,-16731116
-103,101,"maximiliani","Centronycteris","Shaggy Bat",LC,U,-16731116
-104,100,"brevirostris","Cormura","Chestnut Sac-winged Bat",LC,U,-16731116
-107,106,"gymnura","Saccopteryx","Amazonian Sac-winged Bat",DD,U,-11513776
-108,106,"canescens","Saccopteryx","Frosted Sac-winged Bat",LC,U,-16731116
-110,109,"bilineata","Saccopteryx","Greater Sac-winged Bat",LC,U,-16731116
-111,109,"leptura","Saccopteryx","Lesser Sac-winged Bat",LC,U,-16731116
-117,116,"albus","Diclidurus","Northern Ghost Bat",LC,U,-16731116
-118,116,"ingens","Diclidurus","Greater Ghost Bat",DD,U,-11513776
-119,115,"scutatus","Diclidurus","Lesser Ghost Bat",LC,U,-16731116
-120,114,"isabellus","Diclidurus","Isabelle's Ghost Bat",LC,U,-16731116
-121,113,"alecto","Cyttarops","Short-eared Bat",LC,U,-16731116
-122,112,"naso","Rhynchonycteris","Proboscis Bat",LC,U,-16731116
-129,128,"seychellensis","Coleura","Seychelles Sheath-tailed Bat",CR,D,-3014646
-130,128,"afra","Coleura","African Sheath-tailed Bat",LC,U,-16731116
-131,127,"atrata","Emballonura","Peter's Sheath-tailed Bat",LC,U,-16731116
-132,126,"beccarii","Emballonura","Beccari's Sheath-tailed Bat",LC,U,-16731116
-134,133,"semicaudata","Emballonura","Pacific Sheath-tailed Bat",EN,D,-8572416
-135,133,"dianae","Emballonura","Large-eared Sheath-tailed Bat",LC,U,-16731116
-138,137,"raffrayana","Emballonura","Raffray's Sheath-tailed Bat",LC,U,-16731116
-139,137,"furax","Emballonura","New Guinea Sheath-tailed Bat",DD,U,-11513776
-141,140,"alecto","Emballonura","Small Asian Sheath-tailed Bat",LC,D,-16731116
-142,140,"monticola","Emballonura","Lesser Sheath-tailed Bat",LC,D,-16731116
-143,123,"nigrescens","Mosia","Lesser Sheath-tailed Bat",LC,S,-16731116
-151,150,"longimanus","Taphozous","Longed-winged Tomb Bat",LC,S,-16731116
-152,150,"mauritianus","Taphozous","Mauritian Tomb Bat",LC,U,-16731116
-153,149,"hildegardeae","Taphozous","Hildegarde's Tomb Bat",VU,D,-11184866
-156,155,"melanopogon","Taphozous","Black-bearded Tomb Bat",LC,U,-16731116
-157,155,"achates","Taphozous","Indonesian Tomb Bat",DD,U,-11513776
-158,154,"perforatus","Taphozous","Egyptian Tomb Bat",LC,S,-16731116
-163,162,"troughtoni","Taphozous","Troughton's Sheath-tailed Bat",LC,S,-16731116
-164,162,"georgianus","Taphozous","Common Sheath-tailed Bat",LC,S,-16731116
-165,161,"australis","Taphozous","Coastal Sheath-tailed Bat",NT,D,-12486656
-166,160,"kapalgensis","Taphozous","Arnhem Sheath-tailed Bat",LC,U,-16731116
-167,159,"hilli","Taphozous","Hill's Sheath-tailed Bat",LC,S,-16731116
-168,146,"theobaldi","Taphozous","Theobold's Bat",LC,U,-16731116
-170,169,"nudiventris","Taphozous","Naked-rumped Tomb Bat",LC,S,-16731116
-171,169,"hamiltoni","Taphozous","Hamilton's Tomb Bat",DD,U,-11513776
-175,174,"flaviventris","Saccolaimus","Yellow-bellied Sheath-tailed Bat",LC,D,-16731116
-176,174,"mixtus","Saccolaimus","Papuan Sheath-tailed Bat",DD,U,-11513776
-177,173,"saccolaimus","Saccolaimus","Bare-rumped Sheathtail-bat",LC,U,-16731116
-178,172,"peli","Saccolaimus","Pel's Pouched Bat",LC,U,-16731116
+8,7,"lunaris","Hybomys","Moon Striped Mouse",VU,S,-11184866
+9,7,"basilii","Hybomys","Bioko Hybomys",EN,U,-8572416
+10,6,"trivirgatus","Hybomys","Temminck's Striped Mouse",LC,S,-16731116
+11,5,"badius","Hybomys","Cameroon Highland Hybomys",EN,D,-8572416
+13,12,"planifrons","Hybomys","Liberian Forest Hybomys",LC,S,-16731116
+14,12,"univittatus","Hybomys","Peters' Hybomys",LC,S,-16731116
+16,15,"defua","Dephomys","Defua Rat",LC,U,-16731116
+17,15,"eburneae","Dephomys","",NE,U,-16777216
+22,21,"neobritannicus","Hydromys","New Britain Water Rat",DD,U,-11513776
+23,21,"habbema","Hydromys","",NE,U,-16777216
+24,20,"chrysogaster","Hydromys","Common Water Rat",LC,U,-16731116
+26,25,"hussoni","Hydromys","Western Water Rat",DD,U,-11513776
+27,25,"shawmayeri","Hydromys","",NE,U,-16777216
+28,18,"myoides","Xeromys","False Water Rat",VU,D,-11184866
+33,32,"bagobus","Bullimus","Mindanao Bullimus",LC,S,-16731116
+34,32,"luzonicus","Bullimus","Luzon Bullimus",LC,U,-16731116
+36,35,"echinatus","Tarsomys","Spiny Tarsomys",VU,D,-11184866
+37,35,"apoensis","Tarsomys","Dusky Tarsomys",LC,S,-16731116
+38,30,"adustus","Tryphomys","Luzon Tryphomys",DD,U,-11513776
+40,39,"latidens","Abditomys","Luzon Broad-toothed Rat",DD,U,-11513776
+41,39,"sibuanus","Limnomys","White-bellied Limnomys",LC,S,-16731116
+46,45,"macrocercus","Tateomys","Long-tailed Sulawesian Shrew Rat",DD,U,-11513776
+47,45,"rhinogradoides","Tateomys","Tate's Sulawesian Shrew Rat",DD,S,-11513776
+48,44,"naso","Melasmothrix","Diurnal Sulawesian Shrew Rat",DD,U,-11513776
+51,50,"beccarii","Margaretamys","Spiny Lowland Margaretamys",VU,D,-11184866
+52,50,"elegans","Margaretamys","Elegant Margaretamys",NT,D,-12486656
+53,49,"parvus","Margaretamys","Lesser Margaretamys",DD,U,-11513776
+55,54,"leucura","Echiothrix","Northern Sulawesi Echiothrix",EN,D,-8572416
+56,54,"centrosa","Echiothrix","Central Sulawesi Echiothrix",VU,D,-11184866

@@ -1,41 +1,82 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"melanoleuca","Poospiza","Black-capped Warbling-finch",LC,U,-16731116
-10,8,"cinerea","Poospiza","Cinereous Warbling-finch",VU,U,-11184866
-11,7,"alticola","Poospiza","Plain-tailed Warbling-finch",EN,U,-8572416
-12,6,"erythrophrys","Poospiza","Rusty-browed Warbling-finch",LC,U,-16731116
-14,13,"trifasciatus","Hemispingus","Three-striped Hemispingus",LC,U,-16731116
-15,13,"torquata","Poospiza","Ringed Warbling-finch",LC,U,-16731116
-16,4,"lateralis","Poospiza","Buff-throated Warbling-finch",LC,U,-16731116
-20,19,"albifrons","Donacospiza","Long-tailed Reed-finch",LC,U,-16731116
-21,19,"hirundinacea","Cypsnagra","White-rumped Tanager",LC,U,-16731116
-22,18,"cabanisi","Poospiza","Grey-throated Warbling-finch",LC,U,-16731116
-24,23,"hypochondria","Poospiza","Rufous-sided Warbling-finch",LC,U,-16731116
-25,23,"caesar","Poospiza","Chestnut-breasted Mountain-finch",LC,U,-16731116
-26,2,"oneilli","Nephelornis","Pardusco",LC,U,-16731116
-34,33,"pectoralis","Thlypopsis","Brown-flanked Tanager",LC,U,-16731116
-35,33,"fulviceps","Thlypopsis","Fulvous-headed Tanager",LC,U,-16731116
-36,32,"inornata","Thlypopsis","Buff-bellied Tanager",LC,U,-16731116
-37,31,"sordida","Thlypopsis","Orange-headed Tanager",LC,U,-16731116
-39,38,"ruficeps","Thlypopsis","Rust-and-yellow Tanager",LC,U,-16731116
-40,38,"ornata","Thlypopsis","Rufous-chested Tanager",LC,U,-16731116
-41,29,"ruficeps","Pyrrhocoma","Chestnut-headed Tanager",LC,U,-16731116
-42,28,"superciliaris","Hemispingus","Superciliaried Hemispingus",LC,U,-16731116
-46,45,"melanotis","Hemispingus","Black-eared Hemispingus",LC,U,-16731116
-47,45,"frontalis","Hemispingus","Oleaginous Hemispingus",LC,U,-16731116
-48,44,"piurae","Hemispingus","Piura Hemispingus",_U,[,-16777216
-50,49,"nigrorufa","Poospiza","Black-and-rufous Warbling-finch",LC,U,-16731116
-51,49,"ochraceus","Hemispingus","Western Hemispingus",_U,[,-16777216
-59,58,"xanthophthalmus","Hemispingus","Drab Hemispingus",LC,U,-16731116
-60,58,"boliviana","Poospiza","Bolivian Warbling-finch",LC,U,-16731116
-61,57,"ornata","Poospiza","Cinnamon Warbling-finch",LC,U,-16731116
-62,56,"verticalis","Hemispingus","Black-headed Hemispingus",LC,U,-16731116
-63,55,"thoracica","Poospiza","Bay-chested Warbling-finch",LC,U,-16731116
-64,54,"hispaniolensis","Poospiza","Collared Warbling-finch",LC,U,-16731116
-66,65,"whitii","Poospiza","Black-and-chestnut Warbling Finch",_U,[,-16777216
-67,65,"goeringi","Hemispingus","Slaty-backed Hemispingus",VU,U,-11184866
-72,71,"atropileus","Hemispingus","Black-capped Hemispingus",LC,U,-16731116
-73,71,"auricularis","Hemispingus","White-browed Hemispingus",_U,[,-16777216
-74,70,"reyi","Hemispingus","Grey-capped Hemispingus",NT,U,-12486656
-76,75,"calophrys","Hemispingus","Orange-browed Hemispingus",LC,U,-16731116
-77,75,"parodii","Hemispingus","Parodi's Hemispingus",LC,U,-16731116
-78,68,"rubecula","Poospiza","Rufous-breasted Warbling-finch",EN,U,-8572416
+11,10,"eiffingeri","Kurixalus","",LC,D,-16731116
+12,10,"idiootocus","Kurixalus","",LC,S,-16731116
+13,9,"verrucosus","Kurixalus","",LC,D,-16731116
+20,19,"bisacculus","Aquixalus","",NE,U,-16777216
+21,19,"naso","Aquixalus","",NE,U,-16777216
+22,18,"carinensis","Aquixalus","",NE,U,-16777216
+23,17,"ananjevae","Aquixalus","",NE,U,-16777216
+24,16,"odontotarsus","Aquixalus","",NE,U,-16777216
+25,15,"baliogaster","Aquixalus","",NE,U,-16777216
+27,26,"supercornutus","Aquixalus","",NE,U,-16777216
+28,26,"gracilipes","Aquixalus","",NE,U,-16777216
+32,31,"buergeri","Buergeria","Kajika Frog",LC,S,-16731116
+33,31,"robusta","Buergeria","",LC,S,-16731116
+34,30,"oxycephala","Buergeria","",VU,D,-11184866
+35,29,"japonica","Buergeria","Ryukyu Kajika Frog",LC,D,-16731116
+43,42,"erythraea","Hylarana","Common Green Frog",LC,S,-16731116
+44,42,"tytleri","Hylarana","",LC,S,-16731116
+46,45,"macrodactyla","Hylarana","",LC,S,-16731116
+47,45,"taipehensis","Hylarana","",LC,S,-16731116
+48,40,"guentheri","Hylarana","Gunther's Amoy Frog",LC,U,-16731116
+51,50,"tuberilinguis","Staurois","",NT,D,-12486656
+52,50,"natator","Staurois","",LC,D,-16731116
+53,49,"latopalmatus","Staurois","",LC,U,-16731116
+61,60,"deccanensis","Nyctibatrachus","",VU,D,-11184866
+62,60,"aliciae","Nyctibatrachus","",EN,D,-8572416
+63,59,"major","Nyctibatrachus","",VU,D,-11184866
+64,58,"petraeus","Nyctibatrachus","",LC,U,-16731116
+66,65,"kempholeyensis","Nyctibatrachus","",DD,U,-11513776
+67,65,"minor","Nyctibatrachus","",EN,D,-8572416
+70,69,"sylvaticus","Nyctibatrachus","",DD,U,-11513776
+71,69,"beddomii","Nyctibatrachus","",EN,D,-8572416
+73,72,"humayuni","Nyctibatrachus","",VU,D,-11184866
+74,72,"hussaini","Nyctibatrachus","",NE,U,-16777216
+76,75,"sanctipalustris","Nyctibatrachus","",EN,D,-8572416
+77,75,"vasanthi","Nyctibatrachus","",EN,D,-8572416
+78,54,"corrugatus","Lankanectes","",LC,S,-16731116
+88,87,"fasciculispina","Quasipaa","",VU,D,-11184866
+89,87,"exilispinosa","Quasipaa","",VU,D,-11184866
+90,86,"shini","Quasipaa","",VU,D,-11184866
+91,85,"jiulongensis","Quasipaa","",VU,D,-11184866
+93,92,"robertingeri","Quasipaa","",EN,D,-8572416
+94,92,"yei","Quasipaa","",DD,U,-11513776
+97,96,"verrucospinosa","Quasipaa","",NT,D,-12486656
+98,96,"boulengeri","Quasipaa","",EN,D,-8572416
+99,95,"spinosa","Quasipaa","",VU,D,-11184866
+110,109,"landdrosia","Arthroleptella","Landdros Moss Frog",NT,S,-12486656
+111,109,"drewesii","Arthroleptella","Drewes' Moss Frog",DD,S,-11513776
+112,108,"ngongoniensis","Arthroleptella","",NE,U,-16777216
+114,113,"bicolor","Arthroleptella","Bainskloof Moss Frog",LC,S,-16731116
+115,113,"subvoce","Arthroleptella","",DD,U,-11513776
+117,116,"lightfooti","Arthroleptella","Lightfoot's Moss Frog",NT,S,-12486656
+118,116,"villiersi","Arthroleptella","De Villier's Moss Frog",LC,S,-16731116
+119,105,"bonebergi","Natalobatrachus","",EN,D,-8572416
+124,123,"tandyi","Tomopterna","Tandy's Sand Frog",LC,S,-16731116
+125,123,"luganga","Tomopterna","",LC,S,-16731116
+126,122,"krugerensis","Tomopterna","Knocking Sand Frog",LC,S,-16731116
+128,127,"cryptotis","Tomopterna","Common Sand Frog",LC,S,-16731116
+129,127,"damarensis","Tomopterna","",DD,U,-11513776
+132,131,"delalandii","Tomopterna","Delalande's Sand Frog",LC,S,-16731116
+133,131,"marmorata","Tomopterna","Marbled Sand Frog",LC,U,-16731116
+135,134,"tuberculosa","Tomopterna","Rough Sand Frog",LC,S,-16731116
+136,134,"natalensis","Tomopterna","Natal Sand Frog",LC,S,-16731116
+140,139,"obbianus","Pyxicephalus","Calabresi's Bullfrog",LC,U,-16731116
+141,139,"edulis","Pyxicephalus","Edible Bullfrog",LC,S,-16731116
+142,138,"adspersus","Pyxicephalus","African Bullfrog",LC,D,-16731116
+144,143,"subsigillata","Aubria","",LC,S,-16731116
+145,143,"masako","Aubria","",LC,D,-16731116
+149,148,"gastoni","Phrynobatrachus","",DD,U,-11513776
+150,148,"elberti","Phrynobatrachus","",DD,U,-11513776
+151,147,"liberiensis","Phrynobatrachus","",NT,D,-12486656
+159,158,"kottigeharensis","Micrixalus","",CR,D,-3014646
+160,158,"elegans","Micrixalus","",DD,U,-11513776
+161,157,"narainensis","Micrixalus","",DD,U,-11513776
+162,156,"nudis","Micrixalus","",VU,D,-11184866
+163,155,"fuscus","Micrixalus","",NT,D,-12486656
+165,164,"swamianus","Micrixalus","",DD,U,-11513776
+166,164,"gadgili","Micrixalus","",EN,D,-8572416
+167,153,"saxicola","Micrixalus","Malabar Tropical Frog",VU,S,-11184866
+170,169,"phyllophilus","Micrixalus","",VU,D,-11184866
+171,169,"thampii","Micrixalus","",DD,U,-11513776
+172,168,"silvaticus","Micrixalus","",DD,U,-11513776

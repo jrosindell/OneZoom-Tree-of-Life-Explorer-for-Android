@@ -1,22 +1,44 @@
 index,parent,name1,name2,common,redlist,popstab,color
-6,5,"sardus","Discoglossus","Tyrrhenian Painted Frog",LC,D,-16731116
-7,5,"nigriventer","Discoglossus","Hula Painted Frog",EX,U,-16777036
-8,4,"montalentii","Discoglossus","Corsican Painted Frog",NT,U,-12486656
-9,3,"galganoi","Discoglossus","Iberian Painted Frog",LC,D,-16731116
-11,10,"pictus","Discoglossus","Painted Frog",LC,S,-16731116
-12,10,"scovazzi","Discoglossus","",LC,S,-16731116
-17,16,"cisternasii","Alytes","Iberian Midwife Toad",NT,D,-12486656
-18,16,"obstetricans","Alytes","Common Midwife Toad",LC,D,-16731116
-19,15,"maurus","Alytes","",NT,S,-12486656
-20,14,"dickhilleni","Alytes","Betic Midwife Toad",VU,D,-11184866
-21,13,"muletensis","Alytes","Mallorcan Midwife Toad",VU,I,-11184866
-27,26,"variegata","Bombina","Yellow??????????????????bellied Toad",LC,D,-16731116
-28,26,"pachypus","Bombina","Appenine Yellow-bellied Toad",EN,D,-8572416
-30,29,"orientalis","Bombina","Oriental Bell Toad",LC,D,-16731116
-31,29,"bombina","Bombina","Fire-bellied Toad",LC,D,-16731116
-32,24,"lichuanensis","Bombina","Lichuan Bell Toad",VU,D,-11184866
-35,34,"microdeladigitora","Bombina","",NE,U,-16777216
-36,34,"fortinuptialis","Bombina","",NE,U,-16777216
-37,33,"maxima","Bombina","",NE,U,-16777216
-39,38,"busuangensis","Barbourula","Philippine Flat-headed Frog",VU,D,-11184866
-40,38,"kalimantanensis","Barbourula","Bornean Flat-headed Frog",EN,D,-8572416
+8,7,"dominicensis","Myotis","Dominican Myotis",VU,U,-11184866
+9,7,"elegans","Myotis","Elegant Myotis",LC,U,-16731116
+10,6,"findleyi","Myotis","Findley's Myotis",EN,D,-8572416
+12,11,"martiniquensis","Myotis","Schwartz's Myotis",VU,U,-11184866
+13,11,"nesopolus","Myotis","Curacao Myotis",LC,U,-16731116
+16,15,"keaysi","Myotis","Hairy-legged Myotis",LC,U,-16731116
+17,15,"nigricans","Myotis","Black Myotis",LC,S,-16731116
+19,18,"atacamensis","Myotis","Atacama Myotis",NT,U,-12486656
+20,18,"sodalis","Myotis","Indiana Bat",EN,D,-8572416
+22,21,"oreias","Myotis","Singaporese Whiskered Myotis",DD,U,-11513776
+23,21,"altarium","Myotis","Szechwan Myotis",LC,U,-16731116
+31,30,"hajastanicus","Myotis","Armenian Myotis",CR,U,-3014646
+32,30,"mystacinus","Myotis","Whiskered Myotis",LC,U,-16731116
+33,29,"nipalensis","Myotis","Nepal Myotis",LC,U,-16731116
+34,28,"davidii","Myotis","David's Myotis",LC,U,-16731116
+35,27,"brandtii","Myotis","Brandt's Myotis",LC,S,-16731116
+36,26,"insularum","Myotis","Insular Myotis",DD,U,-11513776
+38,37,"bucharensis","Myotis","Bokhara Whiskered Bat",DD,U,-11513776
+39,37,"frater","Myotis","Fraternal Myotis",DD,U,-11513776
+40,24,"siligorensis","Myotis","Himalayan Whiskered Bat",LC,U,-16731116
+48,47,"muricola","Myotis","Nepalese Whiskered Bat",LC,S,-16731116
+49,47,"ater","Myotis","Peters's Myotis",LC,S,-16731116
+50,46,"rosseti","Myotis","Thick-thumbed Myotis",LC,U,-16731116
+52,51,"annectans","Myotis","Hairy-faced Bat",LC,U,-16731116
+53,51,"ridleyi","Myotis","Ridley's Myotis",NT,D,-12486656
+54,44,"australis","Myotis","Australian Myotis",DD,U,-11513776
+57,56,"ikonnikovi","Myotis","Ikonnikov's Bat",LC,U,-16731116
+58,56,"ozensis","Myotis","",NE,U,-16777216
+60,59,"yesoensis","Myotis","",NE,U,-16777216
+61,59,"hosonoi","Myotis","",NE,U,-16777216
+62,42,"scotti","Myotis","Scott's Mouse-eared Bat",VU,D,-11184866
+67,66,"melanorhinus","Myotis","Dark-nosed Small-footed Myotis",LC,S,-16731116
+68,66,"ciliolabrum","Myotis","Western Small-footed Myotis",LC,S,-16731116
+69,65,"leibii","Myotis","Eastern Small-footed Myotis",LC,S,-16731116
+70,64,"californicus","Myotis","California Myotis",LC,U,-16731116
+71,63,"planiceps","Myotis","Flat-headed Myotis",EN,D,-8572416
+77,76,"lucifugus","Myotis","Little Brown Bat",LC,S,-16731116
+78,76,"occultus","Myotis","Arizona Myotis",LC,S,-16731116
+79,75,"velifer","Myotis","Cave Myotis",LC,S,-16731116
+80,74,"aelleni","Myotis","Southern Myotis",DD,U,-11513776
+81,73,"fortidens","Myotis","Cinnamon Myotis",LC,U,-16731116
+83,82,"volans","Myotis","Long-legged Myotis",LC,S,-16731116
+84,82,"chiloensis","Myotis","Chilean Myotis",LC,U,-16731116

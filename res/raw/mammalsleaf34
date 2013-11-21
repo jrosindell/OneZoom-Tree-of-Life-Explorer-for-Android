@@ -1,93 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"tholloni","Piliocolobus","",NE,U,-16777216
-18,16,"foai","Piliocolobus","",NE,U,-16777216
-19,15,"gordonorum","Piliocolobus","",NE,U,-16777216
-20,14,"kirkii","Piliocolobus","",NE,U,-16777216
-22,21,"tephrosceles","Piliocolobus","",NE,U,-16777216
-23,21,"pennantii","Piliocolobus","",NE,U,-16777216
-25,24,"preussi","Piliocolobus","",NE,U,-16777216
-26,24,"badius","Piliocolobus","",NE,U,-16777216
-27,11,"rufomitratus","Piliocolobus","",NE,U,-16777216
-28,10,"verus","Procolobus","Olive Colobus",NT,U,-12486656
-33,32,"vellerosus","Colobus","White-thighed Colobus",VU,U,-11184866
-34,32,"polykomos","Colobus","King Colobus",VU,U,-11184866
-35,31,"guereza","Colobus","Guereza",LC,U,-16731116
-36,30,"angolensis","Colobus","Angola Colobus",LC,U,-16731116
-37,29,"satanas","Colobus","Black Colobus",VU,D,-11184866
-47,46,"albibarbis","Hylobates","Bornean White-bearded Gibbon",EN,D,-8572416
-48,46,"agilis","Hylobates","Agile Gibbon",EN,D,-8572416
-49,45,"lar","Hylobates","Lar Gibbon",EN,D,-8572416
-50,44,"moloch","Hylobates","Silvery Javan Gibbon",EN,D,-8572416
-52,51,"muelleri","Hylobates","Muller's Bornean Gibbon",EN,D,-8572416
-53,51,"pileatus","Hylobates","Pileated Gibbon",EN,D,-8572416
-54,42,"klossii","Hylobates","Kloss's Gibbon",EN,D,-8572416
-55,41,"hoolock","Bunopithecus","",NE,U,-16777216
-56,40,"syndactylus","Symphalangus","Siamang",EN,D,-8572416
-60,59,"concolor","Nomascus","Black Crested Gibbon",CR,D,-3014646
-61,59,"hainanus","Nomascus","Hainan Gibbon",CR,S,-3014646
-62,58,"leucogenys","Nomascus","Northern White-cheeked Gibbon",CR,D,-3014646
-64,63,"siki","Nomascus","Southern White-cheeked Gibbon",EN,D,-8572416
-65,63,"gabriellae","Nomascus","Red-cheeked Gibbon",EN,D,-8572416
-70,69,"troglodytes","Pan","Chimpanzee",EN,D,-8572416
-71,69,"paniscus","Pan","Bonobo",EN,D,-8572416
-72,68,"sapiens","Homo","Human",LC,I,-16731116
-74,73,"beringei","Gorilla","Eastern Gorilla",EN,D,-8572416
-75,73,"gorilla","Gorilla","Lowland Gorilla",CR,D,-3014646
-77,76,"pygmaeus","Pongo","Bornean Orangutan",EN,D,-8572416
-78,76,"abelii","Pongo","Sumatran Orangutan",CR,D,-3014646
-83,82,"trivirgatus","Aotus","Douroucouli",LC,U,-16731116
-84,82,"vociferans","Aotus","Night Monkey",LC,D,-16731116
-85,81,"hershkovitzi","Aotus","",NE,U,-16777216
-93,92,"cana","Lagothrix","Geoffroy'S/peruvian Woolly Monkey",EN,D,-8572416
-94,92,"poeppigii","Lagothrix","Poeppig's Woolly Monkey",VU,D,-11184866
-96,95,"lagotricha","Lagothrix","Common Woolly Monkey",VU,D,-11184866
-97,95,"lugens","Lagothrix","Colombian Woolly Monkey",CR,D,-3014646
-98,90,"flavicauda","Oreonax","Peruvian Yellow-tailed Woolly Monkey",CR,D,-3014646
-100,99,"hypoxanthus","Brachyteles","Northern Muriqui",CR,D,-3014646
-101,99,"arachnoides","Brachyteles","Muriqui",EN,D,-8572416
-106,105,"hybridus","Ateles","Variegated Or Brown Spider Monkey",CR,D,-3014646
-107,105,"belzebuth","Ateles","Long-haired Spider Monkey",EN,D,-8572416
-109,108,"chamek","Ateles","Black-faced Black Spider Monkey",EN,D,-8572416
-110,108,"marginatus","Ateles","White-cheeked Spider Monkey",EN,D,-8572416
-112,111,"fusciceps","Ateles","Brown-headed Spider Monkey",CR,D,-3014646
-113,111,"geoffroyi","Ateles","Geoffroy's Spider Monkey",EN,D,-8572416
-114,102,"paniscus","Ateles","Guiana Spider Monkey",VU,D,-11184866
-120,119,"belzebul","Alouatta","Red-handed Howler Monkey",VU,D,-11184866
-121,119,"nigerrima","Alouatta","Black Howler Monkey",LC,U,-16731116
-122,118,"guariba","Alouatta","Brown Howler Monkey",LC,D,-16731116
-124,123,"palliata","Alouatta","Mantled Howler Monkey",LC,U,-16731116
-125,123,"coibensis","Alouatta","",NE,U,-16777216
-128,127,"seniculus","Alouatta","Colombian Red Howler Monkey",LC,D,-16731116
-129,127,"macconnelli","Alouatta","Guianan Red Howler Monkey",LC,U,-16731116
-130,126,"sara","Alouatta","Bolivian Red Howler Monkey",LC,D,-16731116
-132,131,"caraya","Alouatta","Black-and-gold Howler Monkey",LC,D,-16731116
-133,131,"pigra","Alouatta","Yucatan Black Howler Monkey",EN,D,-8572416
-138,137,"sangirensis","Tarsius","Sangihe Tarsier",EN,D,-8572416
-139,137,"tarsier","Tarsius","Spectral Tarsier",VU,D,-11184866
-140,136,"pelengensis","Tarsius","Peleng Tarsier",EN,D,-8572416
-142,141,"dentatus","Tarsius","Dian's Tarsier",VU,D,-11184866
-143,141,"pumilus","Tarsius","Pygmy Tarsier",DD,D,-11513776
-145,144,"bancanus","Tarsius","Horsfield's Tarsier",VU,D,-11184866
-146,144,"syrichta","Tarsius","Philippine Tarsier",NT,D,-12486656
-149,148,"volans","Cynocephalus","Philippine Flying Lemur",LC,S,-16731116
-150,148,"variegates","Galeopterus","",NE,U,-16777216
-161,160,"splendidula","Tupaia","Ruddy Treeshrew",LC,D,-16731116
-162,160,"tana","Tupaia","Large Treeshrew",LC,D,-16731116
-163,159,"gracilis","Tupaia","Slender Treeshrew",LC,D,-16731116
-165,164,"nicobarica","Tupaia","Nicobar Treeshrew",EN,D,-8572416
-166,164,"belangeri","Tupaia","Northern Treeshrew",LC,S,-16731116
-169,168,"chrysogaster","Tupaia","Golden-bellied Treeshrew",EN,D,-8572416
-170,168,"dorsalis","Tupaia","Striped Treeshrew",DD,D,-11513776
-171,167,"glis","Tupaia","Common Treeshrew",LC,D,-16731116
-172,156,"minor","Tupaia","Lesser Treeshrew",LC,D,-16731116
-176,175,"moellendorffi","Tupaia","Calamian Treeshrew",DD,U,-11513776
-177,175,"palawanensis","Tupaia","Palawan Treeshrew",LC,S,-16731116
-179,178,"javanica","Tupaia","Horsfield's Treeshrew",LC,D,-16731116
-180,178,"picta","Tupaia","Painted Treeshrew",LC,D,-16731116
-181,173,"longipes","Tupaia","Long-footed Treeshrew",LC,D,-16731116
-182,154,"montana","Tupaia","Mountain Treeshrew",LC,U,-16731116
-184,183,"melanura","Dendrogale","Bornean Smooth-tailed Treeshrew",DD,D,-11513776
-185,183,"murina","Dendrogale","Northern Smooth-tailed Treeshrew",LC,D,-16731116
-187,186,"everetti","Urogale","Mindanao Treeshrew",LC,S,-16731116
-188,186,"ellioti","Anathana","Madras Treeshrew",LC,D,-16731116
-189,151,"lowii","Ptilocercus","Pen-tailed Treeshrew",LC,D,-16731116
+13,12,"drouhardi","Microgale","Striped Shrew Tenrec",LC,D,-16731116
+14,12,"taiva","Microgale","Taiva Shrew Tenrec",LC,D,-16731116
+15,11,"cowani","Microgale","Cowan's Shrew Tenrec",LC,D,-16731116
+16,10,"talazaci","Microgale","Talzac's Shrew Tenrec",LC,D,-16731116
+17,9,"gracilis","Microgale","Gracile Shrew Tenrec",LC,D,-16731116
+18,8,"dryas","Microgale","Tree Shrew Tenrec",VU,D,-11184866
+19,7,"longicaudata","Microgale","Lesser Long-tailed Shrew Tenrec",LC,D,-16731116
+20,6,"brevicaudata","Microgale","Short-tailed Shrew Tenrec",LC,D,-16731116
+24,23,"principula","Microgale","Greater Long-tailed Shrew Tenrec",LC,D,-16731116
+25,23,"pusilla","Microgale","Lesser Shrew Tenrec",LC,S,-16731116
+27,26,"dobsoni","Microgale","Dobson's Shrew Tenrec",LC,D,-16731116
+28,26,"thomasi","Microgale","Thomas' Shrew Tenrec",LC,D,-16731116
+29,21,"parvula","Microgale","Pygmy Shrew Tenrec",LC,D,-16731116
+31,30,"tetradactylus","Oryzorictes","Four-toed Mole Tenrec",DD,U,-11513776
+32,30,"hova","Oryzorictes","Hova Mole Tenrec",LC,D,-16731116
+33,3,"aurita","Geogale","Large-eared Tenrec",LC,U,-16731116
+37,36,"ruwenzorii","Micropotamogale","Rwenzori Otter Shrew",NT,U,-12486656
+38,36,"lamottei","Micropotamogale","Nimba Otter Shrew",EN,D,-8572416
+39,35,"velox","Potamogale","Giant Otter-shrew",LC,D,-16731116
+40,34,"mergulus","Limnogale","Aquatic Tenrec",VU,U,-11184866
+44,43,"semispinosus","Hemicentetes","Lowland Streaked Tenrec",LC,U,-16731116
+45,43,"nigriceps","Hemicentetes","Highland Streaked Tenrec",LC,U,-16731116
+46,42,"ecaudatus","Tenrec","Common Tenrec",LC,S,-16731116
+48,47,"telfairi","Echinops","Lesser Hedgehog Tenrec",LC,S,-16731116
+49,47,"setosus","Setifer","Greater Hedgehog Tenrec",LC,S,-16731116
+57,56,"septentrionalis","Amblysomus","Highveld Golden Mole",NT,U,-12486656
+58,56,"hottentotus","Amblysomus","Hottentot Golden Mole",LC,U,-16731116
+59,55,"corriae","Amblysomus","Fynbos Golden Mole",NT,U,-12486656
+60,54,"marleyi","Amblysomus","Marley's Golden Mole",EN,U,-8572416
+62,61,"gunningi","Neamblysomus","Gunning's Golden Mole",EN,U,-8572416
+63,61,"julianae","Neamblysomus","Juliana's Golden Mole",VU,U,-11184866
+64,52,"obtusirostris","Calcochloris","Yellow Golden Mole",LC,U,-16731116
+67,66,"stuhlmanni","Chrysochloris","Stuhlmann's Golden Mole",LC,U,-16731116
+68,66,"visagiei","Chrysochloris","Visagie's Golden Mole",DD,U,-11513776
+69,65,"asiatica","Chrysochloris","Cape Golden Mole",LC,U,-16731116
+75,74,"tytonis","Calcochloris","Somali Golden Mole",DD,U,-11513776
+76,74,"arendsi","Carpitalpa","Arend's Golden Mole",VU,U,-11184866
+77,73,"leucorhinus","Calcochloris","Congo Golden Mole",DD,U,-11513776
+78,72,"duthieae","Chlorotalpa","Duthie's Golden Mole",VU,U,-11184866
+79,71,"sclateri","Chlorotalpa","Sclater's Golden Mole",LC,U,-16731116
+81,80,"villosus","Chrysospalax","Rough-haired Golden Mole",VU,U,-11184866
+82,80,"trevelyani","Chrysospalax","Giant Golden Mole",EN,U,-8572416

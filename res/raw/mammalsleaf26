@@ -1,72 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"blainvillii","Phyllomys","Golden Atlantic Tree Rat",LC,U,-16731116
-16,14,"medius","Phyllomys","",LC,U,-16731116
-17,13,"lamarum","Phyllomys","Pallid Atlantic Tree Rat",DD,U,-11513776
-19,18,"dasythrix","Phyllomys","Drab Atlantic Tree Rat",LC,U,-16731116
-20,18,"chrysurus","Echimys","White-faced Tree Rat",LC,S,-16731116
-22,21,"macrura","Makalata","Long-tailed Tree Rat",LC,U,-16731116
-23,21,"grandis","Makalata","",NE,U,-16777216
-26,25,"unicolor","Phyllomys","Unicolored Tree Rat",CR,D,-3014646
-27,25,"pictus","Callistomys","Painted Tree-rat",EN,D,-8572416
-28,24,"nigrispinus","Phyllomys","Black-spined Atlantic Tree Rat",LC,U,-16731116
-31,30,"thomasi","Phyllomys","Giant Atlantic Tree Rat",EN,D,-8572416
-32,30,"saturnus","Echimys","Dark Spiny Tree-rat",DD,U,-11513776
-33,29,"semivillosus","Echimys","",NE,U,-16777216
-35,34,"brasiliensis","Phyllomys","Red-nosed Tree Rat",EN,D,-8572416
-36,34,"rhipidura","Makalata","Peruvian Tree Rat",DD,U,-11513776
-41,40,"caniceps","Diplomys","Arboreal Soft-furred Spiny Rat",DD,U,-11513776
-42,40,"rufodorsalis","Diplomys","",NE,U,-16777216
-43,39,"labilis","Diplomys","Rufous Tree Rat",LC,S,-16731116
-45,44,"didelphoides","Makalata","Brazilian Spiny Tree Rat",LC,U,-16731116
-46,44,"occasius","Makalata","",NE,U,-16777216
-49,48,"bistriata","Isothrix","Yellow-crowned Brush-tailed Rat",LC,U,-16731116
-50,48,"negrensis","Isothrix","",LC,U,-16731116
-51,47,"pagurus","Isothrix","Plain Brush-tailed Rat",LC,U,-16731116
-52,6,"urichi","Proechimys","Sucre Spiny Rat",LC,U,-16731116
-53,5,"goeldii","Proechimys","Goeldi's Spiny Rat",VU,D,-11184866
-54,4,"simonsi","Proechimys","Simon's Spiny Rat",LC,U,-16731116
-61,60,"leniceps","Mesomys","Woolly-headed Spiny Tree Rat",DD,U,-11513776
-62,60,"hispidus","Mesomys","Spiny Tree Rat",LC,U,-16731116
-64,63,"obscura","Makalata","Dark Armored Tree-rat",DD,U,-11513776
-65,63,"stimulax","Mesomys","Para Spiny Tree Rat",LC,U,-16731116
-67,66,"cuvieri","Proechimys","Cuvier's Spiny Rat",LC,U,-16731116
-68,66,"setosus","Trinomys","Hairy Spiny Rat",LC,U,-16731116
-69,57,"subspinosus","Chaetomys","Bristle-spined Rat",VU,D,-11184866
-71,70,"apereoides","Thrichomys","Punare",LC,U,-16731116
-72,70,"inermis","Thrichomys","",LC,U,-16731116
-75,74,"gratiosus","Trinomys","",LC,U,-16731116
-76,74,"paratus","Trinomys","",DD,U,-11513776
-77,73,"iheringi","Trinomys","Ihering's Spiny Rat",LC,S,-16731116
-80,79,"chrysaeolus","Proechimys","Boyaca Spiny Rat",DD,U,-11513776
-81,79,"mincae","Proechimys","Minca Spiny Rat",DD,U,-11513776
-82,78,"magdalenae","Proechimys","Magdalena Spiny Rat",DD,U,-11513776
-91,90,"hoplomyoides","Proechimys","Guyanan Spiny Rat",DD,U,-11513776
-92,90,"gymnurus","Hoplomys","Armored Rat",LC,S,-16731116
-93,89,"dimidiatus","Trinomys","Atlantic Spiny Rat",LC,U,-16731116
-95,94,"oconnelli","Proechimys","O'Connell's Spiny Rat",DD,U,-11513776
-96,94,"spinosus","Euryzygomatomys","Guiara",LC,U,-16731116
-97,87,"canicollis","Proechimys","Colombian Spiny Rat",LC,S,-16731116
-101,100,"poliopus","Proechimys","Gray-footed Spiny Rat",VU,D,-11184866
-102,100,"sulcidens","Carterodon","Owl's Spiny Rat",DD,U,-11513776
-103,99,"roberti","Proechimys","Roberto's Spiny Rat",VU,D,-11184866
-105,104,"emiliae","Lonchothrix","Tuft-tailed Spiny Tree Rat",LC,S,-16731116
-106,104,"albispinus","Trinomys","White-spined Spiny Rat",LC,U,-16731116
-110,109,"myosuros","Trinomys","Mouse-tailed Spiny Rat",LC,U,-16731116
-111,109,"trinitatus","Proechimys","Trinidad Spiny Rat",DD,U,-11513776
-112,108,"quadruplicatus","Proechimys","Napo Spiny Rat",LC,S,-16731116
-114,113,"semispinosus","Proechimys","Tome's Spiny Rat",LC,S,-16731116
-115,113,"steerei","Proechimys","Steere's Spiny Rat",LC,U,-16731116
-121,120,"boliviensis","Dactylomys","Bolivian Bamboo Rat",LC,S,-16731116
-122,120,"dactylinus","Dactylomys","Amazon Bamboo Rat",LC,S,-16731116
-123,119,"peruanus","Dactylomys","Peruvian Bamboo Rat",DD,U,-11513776
-125,124,"albicauda","Olallamys","White-tailed Olalla Rat",DD,U,-11513776
-126,124,"edax","Olallamys","Greedy Olalla Rat",DD,U,-11513776
-127,117,"amblyonyx","Kannabateomys","Atlantic Bamboo Rat",LC,U,-16731116
-128,116,"brevicauda","Proechimys","Huallaga Spiny Rat",LC,U,-16731116
-133,132,"bishopi","Clyomys","Bishop's Fossorial Spiny Rat",DD,U,-11513776
-134,132,"laticeps","Clyomys","Broad-headed Spiny Rat",LC,U,-16731116
-135,131,"decumanus","Proechimys","Pacific Spiny Rat",VU,D,-11184866
-136,130,"guyannensis","Proechimys","Cayenne Spiny Rat",LC,U,-16731116
-138,137,"longicaudatus","Proechimys","Long-tailed Spiny Rat",LC,D,-16731116
-139,137,"guairae","Proechimys","Guaira Spiny Rat",LC,U,-16731116
-140,0,"coypus","Myocastor","Coypu",LC,D,-16731116
+12,11,"caprinus","Phyllotis","Capricorn Leaf-eared Mouse",LC,S,-16731116
+13,11,"osgoodi","Phyllotis","Osgood's Leaf-eared Mouse",DD,U,-11513776
+15,14,"gerbillus","Paralomys","Gerbil Leaf-eared Mouse",LC,S,-16731116
+16,14,"amicus","Phyllotis","Friendly Leaf-eared Mouse",LC,S,-16731116
+19,18,"xanthopygus","Phyllotis","Yellow-rumped Leaf-eared Mouse",LC,S,-16731116
+20,18,"andium","Phyllotis","Andean Leaf-eared Mouse",LC,S,-16731116
+22,21,"darwini","Phyllotis","Darwin's Leaf-eared Mouse",LC,S,-16731116
+23,21,"limatus","Phyllotis","",LC,S,-16731116
+24,8,"definitus","Phyllotis","Definitive Leaf-eared Mouse",EN,D,-8572416
+25,7,"bonariensis","Phyllotis","Buenos Aires Leaf-eared Mouse",NT,D,-12486656
+29,28,"haggardi","Phyllotis","Haggard's Leaf-eared Mouse",LC,S,-16731116
+30,28,"magister","Phyllotis","Master Leaf-eared Mouse",LC,S,-16731116
+31,27,"wolffsohni","Phyllotis","Wolffsohn's Leaf-eared Mouse",LC,S,-16731116
+32,26,"osilae","Phyllotis","Bunchgrass Leaf-eared Mouse",LC,S,-16731116
+35,34,"boliviensis","Auliscomys","Bolivian Big-eared Mouse",LC,S,-16731116
+36,34,"pictus","Auliscomys","Painted Big-eared Mouse",LC,S,-16731116
+38,37,"sublimis","Auliscomys","Andean Big-eared Mouse",LC,S,-16731116
+39,37,"micropus","Loxodontomys","Southern Pericote",LC,S,-16731116
+41,40,"pearsoni","Andalgalomys","Pearson's Chaco Mouse",LC,S,-16731116
+42,40,"olrogi","Andalgalomys","Olrog's Chaco Mouse",LC,U,-16731116
+46,45,"griseoflavus","Graomys","Gray Leaf-eared Mouse",LC,S,-16731116
+47,45,"centralis","Graomys","",DD,U,-11513776
+48,44,"edithae","Graomys","Edith's Leaf-eared Mouse",DD,U,-11513776
+49,43,"domorum","Graomys","Pale Leaf-eared Mouse",LC,S,-16731116
+50,2,"rufescens","Rhagomys","Brazilian Arboreal Mouse",NT,D,-12486656
+58,57,"torresi","Bibimys","Torres's Crimson-nosed Rat",NT,D,-12486656
+59,57,"chacoensis","Bibimys","Chaco Crimson-nosed Rat",LC,S,-16731116
+60,56,"labiosus","Bibimys","Large-lipped Crimson-nosed Rat",LC,D,-16731116
+62,61,"tomentosus","Kunsia","Woolly Giant Rat",LC,D,-16731116
+63,61,"fronto","Kunsia","Fossorial Giant Rat",EN,D,-8572416
+65,64,"tumidus","Scapteromys","Swamp Rat",LC,S,-16731116
+66,64,"aquaticus","Scapteromys","",LC,S,-16731116
+69,68,"megalonyx","Chelemys","Large Long-clawed Mouse",NT,D,-12486656
+70,68,"delfini","Chelemys","",DD,U,-11513776
+71,67,"macronyx","Chelemys","Andean Long-clawed Mouse",LC,U,-16731116
+74,73,"fernandinae","Nesoryzomys","Fernandina Galapagos Mouse",VU,U,-11184866
+75,73,"swarthi","Nesoryzomys","Santiago Galapagos Mouse",VU,U,-11184866
+76,72,"indefessus","Nesoryzomys","Indefatigable Galapagos Mouse",EX,U,-16777036
+78,77,"aphrastus","Sigmodontomys","Harris's Rice Water Rat",DD,U,-11513776
+79,77,"alfari","Sigmodontomys","Alfaro's Rice Water Rat",LC,S,-16731116
+81,80,"melanops","Scolomys","South American Spiny Mouse",LC,U,-16731116
+82,80,"ucayalensis","Scolomys","Ucayali Spiny Mouse",LC,U,-16731116

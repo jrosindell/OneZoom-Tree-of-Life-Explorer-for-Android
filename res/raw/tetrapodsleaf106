@@ -1,42 +1,61 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"albescens","Synallaxis","Pale-breasted Spinetail",LC,U,-16731116
-10,8,"frontalis","Synallaxis","Sooty-fronted Spinetail",LC,U,-16731116
-11,7,"azarae","Synallaxis","Azara's Spinetail",LC,U,-16731116
-13,12,"subpudica","Synallaxis","Silvery-throated Spinetail",LC,U,-16731116
-14,12,"unirufa","Synallaxis","Rufous Spinetail",LC,U,-16731116
-18,17,"stictothorax","Synallaxis","Necklaced Spinetail",LC,U,-16731116
-19,17,"spixi","Synallaxis","Spix's Spinetail",LC,U,-16731116
-20,16,"propinqua","Synallaxis","White-bellied Spinetail",LC,U,-16731116
-21,15,"hypospodia","Synallaxis","Cinereous-breasted Spinetail",LC,U,-16731116
-26,25,"cabanisi","Synallaxis","Cabanis's Spinetail",LC,U,-16731116
-27,25,"whitneyi","Synallaxis","Bahia Spinetail",VU,U,-11184866
-28,24,"gujanensis","Synallaxis","Plain-crowned Spinetail",LC,U,-16731116
-30,29,"zimmeri","Synallaxis","Russet-bellied Spinetail",EN,U,-8572416
-31,29,"albilora","Synallaxis","White-lored Spinetail",LC,U,-16731116
-34,33,"hellmayri","Gyalophylax","Red-shouldered Spinetail",NT,U,-12486656
-35,33,"infuscata","Synallaxis","Pinto's Spinetail",EN,U,-8572416
-36,32,"macconnelli","Synallaxis","MacConnell's Spinetail",LC,U,-16731116
-39,38,"cinnamomeus","Certhiaxis","Yellow-chinned Spinetail",LC,U,-16731116
-40,38,"mustelinus","Certhiaxis","Red-and-white Spinetail",LC,U,-16731116
-41,37,"phryganophilus","Schoeniophylax","Chotoy Spinetail",LC,U,-16731116
-48,47,"albigularis","Synallaxis","Dark-breasted Spinetail",LC,U,-16731116
-49,47,"fuscorufa","Synallaxis","Rusty-headed Spinetail",VU,U,-11184866
-50,46,"scutata","Synallaxis","Ochre-cheeked Spinetail",LC,U,-16731116
-51,45,"maranonica","Synallaxis","Maranon Spinetail",VU,U,-11184866
-53,52,"castanea","Synallaxis","Black-throated Spinetail",LC,U,-16731116
-54,52,"kollari","Synallaxis","Hoary-throated Spinetail",EN,U,-8572416
-55,43,"ruficapilla","Synallaxis","Rufous-capped Spinetail",LC,U,-16731116
-58,57,"candei","Synallaxis","White-whiskered Spinetail",LC,U,-16731116
-59,57,"courseni","Synallaxis","Apurimac Spinetail",VU,U,-11184866
-60,56,"erythrothorax","Synallaxis","Rufous-breasted Spinetail",LC,U,-16731116
-66,65,"cinnamomea","Synallaxis","Stripe-breasted Spinetail",LC,U,-16731116
-67,65,"moesta","Synallaxis","Dusky Spinetail",LC,U,-16731116
-68,64,"rutilans","Synallaxis","Ruddy Spinetail",LC,U,-16731116
-69,63,"tithys","Synallaxis","Blackish-headed Spinetail",EN,U,-8572416
-70,62,"brachyura","Synallaxis","Slaty Spinetail",LC,U,-16731116
-72,71,"cherriei","Synallaxis","Chestnut-throated Spinetail",NT,U,-12486656
-73,71,"cinerascens","Synallaxis","Grey-bellied Spinetail",LC,U,-16731116
-77,76,"steinbachi","Asthenes","Steinbach's Canastero",LC,U,-16731116
-78,76,"patagonica","Asthenes","Patagonian Canastero",LC,U,-16731116
-79,75,"hypochondriaca","Siptornopsis","Great Spinetail",VU,U,-11184866
-80,74,"luizae","Asthenes","Cipo Canastero",VU,U,-11184866
+9,8,"pseudouniformis","Oedipina","",EN,D,-8572416
+10,8,"complex","Oedipina","",LC,D,-16731116
+12,11,"gephyra","Oedipina","",EN,D,-8572416
+13,11,"poelzi","Oedipina","",EN,D,-8572416
+17,16,"elongata","Oedipina","",LC,D,-16731116
+18,16,"alfaroi","Oedipina","",VU,D,-11184866
+19,15,"savagei","Oedipina","",DD,U,-11513776
+20,14,"maritima","Oedipina","",CR,D,-3014646
+22,21,"stuarti","Oedipina","",DD,U,-11513776
+23,21,"alleni","Oedipina","",LC,S,-16731116
+26,25,"pacificensis","Oedipina","",LC,S,-16731116
+27,25,"grandis","Oedipina","",EN,D,-8572416
+29,28,"carablanca","Oedipina","",EN,U,-8572416
+30,28,"altura","Oedipina","",CR,D,-3014646
+36,35,"uniformis","Oedipina","",NT,D,-12486656
+37,35,"gracilis","Oedipina","",EN,D,-8572416
+38,34,"taylori","Oedipina","",LC,U,-16731116
+39,33,"ignea","Oedipina","",DD,U,-11513776
+40,32,"parvipes","Oedipina","",LC,D,-16731116
+42,41,"cyclocauda","Oedipina","",LC,D,-16731116
+43,41,"collaris","Oedipina","",DD,U,-11513776
+45,44,"paucidentata","Oedipina","",CR,D,-3014646
+46,44,"stenopodia","Oedipina","",EN,D,-8572416
+52,51,"bromeliacius","Dendrotriton","",CR,D,-3014646
+53,51,"xolocalcae","Dendrotriton","",VU,S,-11184866
+54,50,"cuchumatanus","Dendrotriton","",CR,D,-3014646
+56,55,"megarhinus","Dendrotriton","",VU,S,-11184866
+57,55,"rabbi","Dendrotriton","",EN,D,-8572416
+58,48,"sanctibarbarus","Dendrotriton","",VU,S,-11184866
+64,63,"nasalis","Cryptotriton","",EN,D,-8572416
+65,63,"adelos","Cryptotriton","",EN,D,-8572416
+66,62,"monzoni","Cryptotriton","",CR,D,-3014646
+67,61,"wakei","Cryptotriton","",CR,D,-3014646
+68,60,"alvarezdeltoroi","Cryptotriton","",EN,D,-8572416
+69,59,"veraepacis","Cryptotriton","",CR,D,-3014646
+76,75,"multidentatus","Chiropterotriton","",EN,D,-8572416
+77,75,"mosaueri","Chiropterotriton","",DD,U,-11513776
+78,74,"lavae","Chiropterotriton","",CR,D,-3014646
+81,80,"terrestris","Chiropterotriton","",CR,D,-3014646
+82,80,"magnipes","Chiropterotriton","",CR,D,-3014646
+83,79,"cracens","Chiropterotriton","",EN,D,-8572416
+87,86,"orculus","Chiropterotriton","",VU,D,-11184866
+88,86,"priscus","Chiropterotriton","",NT,S,-12486656
+89,85,"dimidiatus","Chiropterotriton","",EN,D,-8572416
+90,84,"arboreus","Chiropterotriton","",CR,D,-3014646
+92,91,"chondrostega","Chiropterotriton","",EN,D,-8572416
+93,91,"chiropterus","Chiropterotriton","",CR,D,-3014646
+99,98,"richardi","Nototriton","",NT,S,-12486656
+100,98,"stuarti","Nototriton","",DD,U,-11513776
+101,97,"abscondens","Nototriton","",LC,S,-16731116
+102,96,"tapanti","Nototriton","",VU,U,-11184866
+106,105,"picadoi","Nototriton","",NT,S,-12486656
+107,105,"saslaya","Nototriton","",VU,S,-11184866
+108,104,"major","Nototriton","",CR,D,-3014646
+109,103,"barbouri","Nototriton","",EN,D,-8572416
+113,112,"guanacaste","Nototriton","",VU,S,-11184866
+114,112,"lignicola","Nototriton","",CR,D,-3014646
+115,111,"brodiei","Nototriton","",CR,D,-3014646
+117,116,"limnospectator","Nototriton","",EN,D,-8572416
+118,116,"gamezi","Nototriton","",VU,S,-11184866

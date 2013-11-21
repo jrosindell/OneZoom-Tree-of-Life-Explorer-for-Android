@@ -1,34 +1,73 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"sclateri","Thryothorus","Speckle-breasted Wren",LC,U,-16731116
-10,8,"spadix","Thryothorus","Sooty-headed Wren",LC,U,-16731116
-12,11,"leucoptera","Henicorhina","Bar-winged Wood-wren",NT,U,-12486656
-13,11,"felix","Thryothorus","Happy Wren",LC,U,-16731116
-15,14,"maculipectus","Thryothorus","Spot-breasted Wren",LC,U,-16731116
-16,14,"rutilus","Thryothorus","Rufous-breasted Wren",LC,U,-16731116
-17,5,"atrogularis","Thryothorus","Black-throated Wren",LC,U,-16731116
-18,4,"negreti","Henicorhina","Munchique Wood-wren",CR,U,-3014646
-22,21,"euophrys","Thryothorus","Plain-tailed Wren",LC,U,-16731116
-23,21,"mystacalis","Thryothorus","Whiskered Wren",LC,U,-16731116
-25,24,"genibarbis","Thryothorus","Moustached Wren",LC,U,-16731116
-26,24,"coraya","Thryothorus","Coraya Wren",LC,U,-16731116
-27,19,"fasciatoventris","Thryothorus","Black-bellied Wren",LC,U,-16731116
-29,28,"leucophrys","Henicorhina","Grey-breasted Wood-wren",LC,U,-16731116
-30,28,"griseus","Thryothorus","Grey Wren",LC,U,-16731116
-38,37,"guarayanus","Thryothorus","Fawn-breasted Wren",LC,U,-16731116
-39,37,"leucotis","Thryothorus","Buff-breasted Wren",LC,U,-16731116
-40,36,"longirostris","Thryothorus","Long-billed Wren",LC,U,-16731116
-41,35,"superciliaris","Thryothorus","Superciliated Wren",LC,U,-16731116
-44,43,"semibadius","Thryothorus","Riverside Wren",LC,U,-16731116
-45,43,"nicefori","Thryothorus","Niceforo's Wren",CR,U,-3014646
-47,46,"nigricapillus","Thryothorus","Bay Wren",LC,U,-16731116
-48,46,"cerverai","Ferminia","Zapata Wren",EN,U,-8572416
-49,33,"modestus","Thryothorus","Plain Wren",LC,U,-16731116
-51,50,"thoracicus","Thryothorus","Stripe-breasted Wren",LC,U,-16731116
-52,50,"leucopogon","Thryothorus","Stripe-throated Wren",LC,U,-16731116
-56,55,"eisenmanni","Thryothorus","Inca Wren",LC,U,-16731116
-57,55,"sinaloa","Thryothorus","Sinaloa Wren",LC,U,-16731116
-58,54,"pleurostictus","Thryothorus","Banded Wren",LC,U,-16731116
-59,53,"rufalbus","Thryothorus","Rufous-and-white Wren",LC,U,-16731116
-62,61,"leucosticta","Henicorhina","White-breasted Wood-wren",LC,U,-16731116
-63,61,"ludovicianus","Thryothorus","Carolina Wren",LC,U,-16731116
-64,60,"bewickii","Thryomanes","Bewick's Wren",LC,U,-16731116
+13,12,"fragilis","Leptodactylus","American White Lipped Frog",LC,S,-16731116
+14,12,"marambaiae","Leptodactylus","",LC,S,-16731116
+16,15,"longirostris","Leptodactylus","",LC,S,-16731116
+17,15,"didymus","Leptodactylus","",LC,S,-16731116
+18,10,"spixi","Leptodactylus","",LC,D,-16731116
+19,9,"labrosus","Leptodactylus","",LC,U,-16731116
+20,8,"gracilis","Leptodactylus","",LC,S,-16731116
+21,7,"mystacinus","Leptodactylus","",LC,S,-16731116
+27,26,"tapiti","Leptodactylus","",DD,U,-11513776
+28,26,"jolyi","Leptodactylus","",DD,U,-11513776
+29,25,"elenae","Leptodactylus","",LC,U,-16731116
+30,24,"notoaktites","Leptodactylus","",LC,S,-16731116
+32,31,"caatingae","Leptodactylus","",LC,U,-16731116
+33,31,"fuscus","Leptodactylus","",LC,S,-16731116
+35,34,"cunicularius","Leptodactylus","",LC,S,-16731116
+36,34,"troglodytes","Leptodactylus","",LC,S,-16731116
+39,38,"furnarius","Leptodactylus","",LC,S,-16731116
+40,38,"latinasus","Leptodactylus","",LC,S,-16731116
+41,37,"albilabris","Leptodactylus","",LC,S,-16731116
+42,4,"poecilochilus","Leptodactylus","",LC,S,-16731116
+47,46,"ventrimaculatus","Leptodactylus","",LC,S,-16731116
+48,46,"bufonius","Leptodactylus","",LC,S,-16731116
+49,45,"plaumanni","Leptodactylus","",LC,S,-16731116
+50,44,"mystaceus","Leptodactylus","",LC,S,-16731116
+51,43,"camaquara","Leptodactylus","",DD,U,-11513776
+58,57,"colombiensis","Leptodactylus","",LC,I,-16731116
+59,57,"wagneri","Leptodactylus","",LC,S,-16731116
+60,56,"diedrus","Leptodactylus","",LC,S,-16731116
+61,55,"leptodactyloides","Leptodactylus","",LC,S,-16731116
+64,63,"griseigularis","Leptodactylus","",LC,S,-16731116
+65,63,"podicipinus","Leptodactylus","",LC,S,-16731116
+66,62,"nesiotus","Leptodactylus","",VU,S,-11184866
+71,70,"discodactylus","Leptodactylus","",LC,S,-16731116
+72,70,"pascoensis","Leptodactylus","",VU,D,-11184866
+73,69,"natalensis","Leptodactylus","",LC,S,-16731116
+74,68,"magistris","Leptodactylus","",CR,D,-3014646
+77,76,"sabanensis","Leptodactylus","",LC,S,-16731116
+78,76,"petersii","Leptodactylus","",LC,S,-16731116
+79,75,"pallidirostris","Leptodactylus","",LC,S,-16731116
+85,84,"chaquensis","Leptodactylus","",LC,U,-16731116
+86,84,"ocellatus","Leptodactylus","",LC,S,-16731116
+87,83,"viridis","Leptodactylus","",DD,U,-11513776
+88,82,"bolivianus","Leptodactylus","",LC,S,-16731116
+89,81,"riveroi","Leptodactylus","",LC,S,-16731116
+91,90,"melanonotus","Leptodactylus","",LC,S,-16731116
+92,90,"pustulatus","Leptodactylus","",LC,S,-16731116
+101,100,"myersi","Leptodactylus","Myers' Thin-toed Frog",LC,S,-16731116
+102,100,"rhodonotus","Leptodactylus","",LC,U,-16731116
+103,99,"flavopictus","Leptodactylus","",LC,D,-16731116
+104,98,"fallax","Leptodactylus","Giant Ditch Frog",CR,D,-3014646
+105,97,"stenodema","Leptodactylus","",LC,S,-16731116
+109,108,"validus","Leptodactylus","Smooth-skinned ditch frog",LC,S,-16731116
+110,108,"rugosus","Leptodactylus","",LC,S,-16731116
+111,107,"laticeps","Leptodactylus","",NT,D,-12486656
+112,106,"labyrinthicus","Leptodactylus","",LC,S,-16731116
+113,95,"rhodomystax","Leptodactylus","",LC,S,-16731116
+116,115,"pentadactylus","Leptodactylus","",LC,S,-16731116
+117,115,"lithonaetes","Leptodactylus","",LC,S,-16731116
+118,114,"knudseni","Leptodactylus","",LC,S,-16731116
+121,120,"silvanimbus","Leptodactylus","",CR,D,-3014646
+122,120,"syphax","Leptodactylus","",LC,S,-16731116
+123,119,"hylodes","Leptodactylus","",DD,U,-11513776
+130,129,"hylaedactylus","Leptodactylus","",LC,S,-16731116
+131,129,"diptyx","Leptodactylus","",LC,S,-16731116
+132,128,"bokermanni","Leptodactylus","",LC,S,-16731116
+134,133,"martinezi","Leptodactylus","",LC,S,-16731116
+135,133,"lutzi","Leptodactylus","",DD,U,-11513776
+137,136,"marmoratus","Leptodactylus","",LC,U,-16731116
+138,136,"heyeri","Leptodactylus","",LC,S,-16731116
+140,139,"araucaria","Leptodactylus","",LC,S,-16731116
+141,139,"andreae","Leptodactylus","",LC,S,-16731116
+142,124,"lineatus","Leptodactylus","",LC,S,-16731116

@@ -1,26 +1,64 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"aurantiifrons","Loriculus","Orange-fronted Hanging-parrot",LC,U,-16731116
-8,6,"pusillus","Loriculus","Yellow-throated Hanging-parrot",NT,U,-12486656
-9,5,"catamene","Loriculus","Sangihe Hanging-parrot",NT,U,-12486656
-12,11,"beryllinus","Loriculus","Sri Lanka Hanging-parrot",LC,U,-16731116
-13,11,"stigmatus","Loriculus","Sulawesi Hanging-parrot",LC,U,-16731116
-14,10,"exilis","Loriculus","Red-billed Hanging-parrot",NT,U,-12486656
-18,17,"philippensis","Loriculus","Philippine Hanging-parrot",LC,U,-16731116
-19,17,"galgulus","Loriculus","Blue-crowned Hanging-parrot",LC,U,-16731116
-20,16,"flosculus","Loriculus","Flores Hanging-parrot",EN,U,-8572416
-21,15,"amabilis","Loriculus","Moluccan Hanging-parrot",LC,U,-16731116
-22,2,"vernalis","Loriculus","Vernal Hanging-parrot",LC,U,-16731116
-24,23,"tener","Loriculus","Green-fronted Hanging-parrot",NT,U,-12486656
-25,23,"sclateri","Loriculus","Sula Hanging-parrot",LC,U,-16731116
-32,31,"nigrigenis","Agapornis","Black-cheeked Lovebird",VU,U,-11184866
-33,31,"lilianae","Agapornis","Lilian's Lovebird",NT,U,-12486656
-34,30,"personatus","Agapornis","Yellow-collared Lovebird",LC,U,-16731116
-35,29,"fischeri","Agapornis","Fischer's Lovebird",NT,U,-12486656
-37,36,"swindernianus","Agapornis","Black-collared Lovebird",LC,U,-16731116
-38,36,"roseicollis","Agapornis","Rosy-faced Lovebird",LC,U,-16731116
-41,40,"pullarius","Agapornis","Red-headed Lovebird",LC,U,-16731116
-42,40,"taranta","Agapornis","Black-winged Lovebird",LC,U,-16731116
-43,39,"canus","Agapornis","Grey-headed Lovebird",LC,U,-16731116
-46,45,"occidentalis","Pezoporus","Night Parrot",CR,U,-3014646
-47,45,"wallicus","Pezoporus","Ground Parrot",LC,U,-16731116
-48,44,"lunulatus","Bolbopsittacus","Guaiabero",LC,U,-16731116
+14,13,"geoffroii","Dasyurus","Western Quoll",NT,S,-12486656
+15,13,"spartacus","Dasyurus","Bronze Quoll",NT,U,-12486656
+16,12,"albopunctatus","Dasyurus","New Guinea Quoll",NT,D,-12486656
+17,11,"viverrinus","Dasyurus","Eastern Quoll",NT,S,-12486656
+18,10,"maculatus","Dasyurus","Spotted-tailed Quoll",NT,D,-12486656
+19,9,"hallucatus","Dasyurus","Northern Quoll",EN,D,-8572416
+20,8,"harrisii","Sarcophilus","Tasmanian Devil",EN,D,-8572416
+23,22,"dorsalis","Phascolosorex","Narrow-striped Dasyure",LC,S,-16731116
+24,22,"doriae","Phascolosorex","Red-bellied Phascogale",LC,U,-16731116
+25,21,"lorentzi","Neophascogale","",NE,U,-16777216
+26,6,"bilarni","Pseudantechinus","Sandstone Pseudantechinus",NT,D,-12486656
+28,27,"cristicauda","Dasycercus","Crest-tailed Mulgara",LC,S,-16731116
+29,27,"byrnei","Dasyuroides","Kowari",VU,D,-11184866
+32,31,"macdonnellensis","Pseudantechinus","Fat-tailed Pseudantechinus",LC,U,-16731116
+33,31,"mimulus","Pseudantechinus","Carpentarian Pseudantechinus",EN,D,-8572416
+34,30,"woolleyae","Pseudantechinus","Woolley's Pseudantechinus",LC,U,-16731116
+36,35,"apicalis","Parantechinus","Dibbler",EN,D,-8572416
+37,35,"rosamondae","Dasykaluta","Kaluta",LC,U,-16731116
+40,39,"melas","Myoictis","Three-striped Dasyure",LC,U,-16731116
+41,39,"wallacii","Myoictis","",NE,U,-16777216
+42,38,"ningbing","Pseudantechinus","Ningbing Pseudantechinus",LC,U,-16731116
+50,49,"flavipes","Antechinus","Yellow-footed Antechinus",LC,S,-16731116
+51,49,"bellus","Antechinus","Fawn Antechinus",LC,S,-16731116
+52,48,"leo","Antechinus","Cinnamon Antechinus",LC,S,-16731116
+54,53,"stuartii","Antechinus","Brown Antechinus",LC,S,-16731116
+55,53,"adustus","Antechinus","Rusty Antechinus",LC,D,-16731116
+56,46,"godmani","Antechinus","Atherton Antechinus",NT,S,-12486656
+58,57,"swainsonii","Antechinus","Dusky Antechinus",LC,U,-16731116
+59,57,"minimus","Antechinus","Swamp Antechinus",LC,D,-16731116
+64,63,"habbema","Micromurexia","",NE,U,-16777216
+65,63,"naso","Phascomurexia","",NE,U,-16777216
+66,62,"longicaudata","Murexia","Short-furred Dasyure",LC,U,-16731116
+67,61,"melanurus","Murexechinus","",NE,U,-16777216
+68,60,"rothschildi","Paramurexia","",NE,U,-16777216
+70,69,"tapoatafa","Phascogale","Brush-tailed Phascogale",NT,D,-12486656
+71,69,"calura","Phascogale","Red-tailed Phascogale",NT,D,-12486656
+84,83,"dolichura","Sminthopsis","Little Long-tailed Dunnart",LC,S,-16731116
+85,83,"murina","Sminthopsis","Common Dunnart",LC,D,-16731116
+86,82,"gilberti","Sminthopsis","Gilbert's Dunnart",LC,S,-16731116
+87,81,"leucopus","Sminthopsis","White-footed Dunnart",VU,D,-11184866
+88,80,"archeri","Sminthopsis","Chestnut Dunnart",DD,U,-11513776
+92,91,"youngsoni","Sminthopsis","Lesser Hairy-footed Dunnart",LC,S,-16731116
+93,91,"ooldea","Sminthopsis","Ooldea Dunnart",LC,U,-16731116
+94,90,"psammophila","Sminthopsis","Sandhill Dunnart",EN,D,-8572416
+95,89,"hirtipes","Sminthopsis","Hairy-footed Dunnart",LC,U,-16731116
+96,78,"longicaudata","Sminthopsis","Long-tailed Dunnart",LC,U,-16731116
+97,77,"granulipes","Sminthopsis","White-tailed Dunnart",LC,U,-16731116
+99,98,"griseoventer","Sminthopsis","Grey-bellied Dunnart",LC,U,-16731116
+100,98,"aitkeni","Sminthopsis","Kangaroo Island Dunnart",CR,D,-3014646
+105,104,"douglasi","Sminthopsis","Julia Creek Dunnart",NT,D,-12486656
+106,104,"butleri","Sminthopsis","Butler's Dunnart",VU,D,-11184866
+107,103,"virginiae","Sminthopsis","Red-cheeked Dunnart",LC,S,-16731116
+108,102,"macroura","Sminthopsis","Stripe-faced Dunnart",LC,U,-16731116
+109,101,"crassicaudata","Sminthopsis","Fat-tailed Dunnart",LC,S,-16731116
+112,111,"ridei","Ningaui","Wongai Ningaui",LC,S,-16731116
+113,111,"yvonnae","Ningaui","",NE,U,-16777216
+114,110,"timealeyi","Ningaui","Pilbara Ningaui",LC,S,-16731116
+115,73,"laniger","Antechinomys","Kultarr",LC,D,-16731116
+120,119,"ingrami","Planigale","Long-tailed Planigale",LC,S,-16731116
+121,119,"gilesi","Planigale","Giles' Planigale",LC,U,-16731116
+122,118,"novaeguineae","Planigale","Papuan Planigale",LC,U,-16731116
+123,117,"tenuirostris","Planigale","Narrow-nosed Planigale",LC,S,-16731116
+124,116,"maculata","Planigale","Common Planigale",LC,S,-16731116

@@ -1,61 +1,87 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"andersonii","Hyla","Pine Barrens Treefrog",NT,D,-12486656
-13,11,"bocourti","Hyla","",CR,D,-3014646
-14,10,"wrightorum","Hyla","",LC,S,-16731116
-16,15,"arboricola","Hyla","",DD,U,-11513776
-17,15,"walkeri","Hyla","",VU,D,-11184866
-18,8,"eximia","Hyla","",LC,S,-16731116
-19,7,"arenicolor","Hyla","Canyon Treefrog",LC,S,-16731116
-21,20,"japonica","Hyla","Japanese Treefrog",LC,S,-16731116
-22,20,"plicata","Hyla","",LC,S,-16731116
-24,23,"euphorbiacea","Hyla","",NT,D,-12486656
-25,23,"suweonensis","Hyla","",DD,U,-11513776
-28,27,"chrysoscelis","Hyla","Cope's Gray Treefrog",LC,S,-16731116
-29,27,"versicolor","Hyla","Gray Treefrog",LC,S,-16731116
-30,26,"avivoca","Hyla","Bird-voiced Treefrog",LC,S,-16731116
-33,32,"squirella","Hyla","Squirrel Treefrog",LC,S,-16731116
-34,32,"cinerea","Hyla","Green Treefrog",LC,S,-16731116
-35,31,"gratiosa","Hyla","",LC,S,-16731116
-39,38,"smithii","Tlalocohyla","",LC,D,-16731116
-40,38,"loquax","Tlalocohyla","",LC,S,-16731116
-41,37,"picta","Tlalocohyla","",LC,I,-16731116
-42,36,"godmani","Tlalocohyla","",VU,D,-11184866
-49,48,"baudinii","Smilisca","",LC,S,-16731116
-50,48,"phaeota","Smilisca","",LC,S,-16731116
-51,47,"fodiens","Smilisca","",LC,S,-16731116
-52,46,"cyanosticta","Smilisca","",NT,D,-12486656
-54,53,"dentata","Smilisca","",EN,D,-8572416
-55,53,"sordida","Smilisca","",LC,S,-16731116
-57,56,"puma","Smilisca","",LC,S,-16731116
-58,56,"sila","Smilisca","",LC,D,-16731116
-61,60,"spatulatus","Triprion","",NE,U,-16777216
-62,60,"petasatus","Triprion","",LC,S,-16731116
-63,59,"spinosa","Anotheca","",LC,D,-16731116
-71,70,"sanchiangensis","Hyla","",LC,D,-16731116
-72,70,"tsinlingensis","Hyla","",LC,D,-16731116
-73,69,"savignyi","Hyla","",LC,S,-16731116
-75,74,"sarda","Hyla","Sardinian Treefrog",LC,S,-16731116
-76,74,"zhaopingensis","Hyla","",DD,U,-11513776
-80,79,"intermedia","Hyla","Italian Treefrog",LC,S,-16731116
-81,79,"arborea","Hyla","European Treefrog",LC,D,-16731116
-82,78,"simplex","Hyla","",LC,S,-16731116
-83,77,"femoralis","Hyla","",LC,S,-16731116
-85,84,"meridionalis","Hyla","Mediterranean Treefrog",LC,S,-16731116
-86,84,"hallowellii","Hyla","",LC,S,-16731116
-89,88,"immaculata","Hyla","",LC,S,-16731116
-90,88,"chinensis","Hyla","",LC,S,-16731116
-91,87,"annectans","Hyla","",LC,S,-16731116
-97,96,"rivularis","Isthmohyla","",CR,D,-3014646
-98,96,"debilis","Isthmohyla","",CR,D,-3014646
-100,99,"picadoi","Isthmohyla","",NT,D,-12486656
-101,99,"calypsa","Isthmohyla","",CR,D,-3014646
-104,103,"lancasteri","Isthmohyla","",LC,S,-16731116
-105,103,"insolita","Isthmohyla","",CR,D,-3014646
-106,102,"zeteki","Isthmohyla","",NT,D,-12486656
-109,108,"pictipes","Isthmohyla","",EN,D,-8572416
-110,108,"tica","Isthmohyla","",CR,D,-3014646
-111,107,"xanthosticta","Isthmohyla","",DD,U,-11513776
-115,114,"angustilineata","Isthmohyla","",CR,D,-3014646
-116,114,"pseudopuma","Isthmohyla","",LC,S,-16731116
-117,113,"graceae","Isthmohyla","",CR,D,-3014646
-118,112,"infucata","Isthmohyla","",DD,U,-11513776
+14,13,"ikaheka","Micropechis","Small-eyed Snake",NE,U,-16777216
+15,13,"australis","Pseudechis","",NE,U,-16777216
+17,16,"loriae","Toxicocalamus","",NE,U,-16777216
+18,16,"anomalus","Simoselaps","",NE,U,-16777216
+19,10,"antarcticus","Acanthophis","Common Death Adder",NE,U,-16777216
+20,9,"colubrina","Laticauda","Colubrine Sea Krait",NE,U,-16777216
+21,8,"semiannulata","Elapsoidea","",NE,U,-16777216
+27,26,"multicinctus","Bungarus","",NE,U,-16777216
+28,26,"candidus","Bungarus","",NE,U,-16777216
+30,29,"ceylonicus","Bungarus","",NE,U,-16777216
+31,29,"caeruleus","Bungarus","",NE,U,-16777216
+32,24,"fasciatus","Bungarus","",NE,U,-16777216
+34,33,"bungaroides","Bungarus","",NE,U,-16777216
+35,33,"slowinskii","Bungarus","",NE,U,-16777216
+36,22,"flaviceps","Bungarus","Red-headed Krait",NE,U,-16777216
+42,41,"haemachatus","Hemachatus","Ring-necked Spitting Cobra",NE,U,-16777216
+43,41,"scutatus","Aspidelaps","Shield-nose Snake",NE,U,-16777216
+44,40,"aegyptia","Walterinnesia","Desert Cobra",NE,U,-16777216
+45,39,"naja","Naja","Indian Cobra",NE,U,-16777216
+47,46,"angusticeps","Dendroaspis","Eastern Green Mamba",NE,U,-16777216
+48,46,"calligaster","Hemibungarus","",LC,U,-16731116
+49,37,"hannah","Ophiophagus","King Cobra",NE,U,-16777216
+52,51,"euryxanthus","Micruroides","Sonoran Coral Snake",LC,S,-16731116
+53,51,"fulvius","Micrurus","Eastern Coral Snake",LC,S,-16731116
+54,50,"japonicus","Sinomicrurus","Japanese Coral Snake",NT,U,-12486656
+55,4,"melanurus","Calliophis","Indian Coral Snake",NE,U,-16777216
+56,3,"leporinum","Oxyrhabdium","Banded Philippine Burrowing Snake",LC,S,-16731116
+57,2,"bicoloratus","Micrelaps","",NE,U,-16777216
+70,69,"tulearensis","Phisalixella","",LC,U,-16731116
+71,69,"citrinus","Lycodryas","",VU,U,-11184866
+72,68,"colubrinus","Madagascarophis","",LC,U,-16731116
+75,74,"ochraceus","Micropisthodon","",LC,U,-16731116
+76,74,"oursi","Ithycyphus","",NE,U,-16777216
+77,73,"madagascariensis","Langaha","",NE,U,-16777216
+79,78,"madagascariensis","Leioheterodon","",NE,U,-16777216
+80,78,"betsileanus","Parastenophis","",NE,U,-16777216
+82,81,"epistibes","Thamnosophis","",NE,U,-16777216
+83,81,"bellyi","Alluaudina","",NE,U,-16777216
+88,87,"sexlineatus","Liopholidophis","",NE,U,-16777216
+89,87,"albignaci","Exallodontophis","",NE,U,-16777216
+91,90,"ambreensis","Pseudoxyrhopus","",NE,U,-16777216
+92,90,"occipitalis","Heteroliodon","",NE,U,-16777216
+93,85,"chabaudi","Liophidium","",NE,U,-16777216
+94,84,"bernieri","Dromicodryas","",NE,U,-16777216
+96,95,"multimaculatus","Amplorhinus","",NE,U,-16777216
+97,95,"lutrix","Duberria","",NE,U,-16777216
+99,98,"infralineatus","Compsophis","",NE,U,-16777216
+100,98,"vivax","Ditypophis","",NE,U,-16777216
+107,106,"brunneus","Bothrophthalmus","",NE,U,-16777216
+108,106,"ater","Bothrolycus","",NE,U,-16777216
+110,109,"capensis","Lamprophis","",NE,U,-16777216
+111,109,"fuliginosus","Boaedon","",NE,U,-16777216
+112,104,"rufulus","Lycodonomorphus","Common Brown Water Snake",NE,U,-16777216
+113,103,"lemniscatus","Pseudoboodon","",NE,U,-16777216
+114,102,"capense","Lycophidion","",NE,U,-16777216
+117,116,"modestus","Hormonotus","",NE,U,-16777216
+118,116,"swazicus","Inyoka","",NE,U,-16777216
+119,115,"brussauxi","Gonionotophis","",NE,U,-16777216
+124,123,"transvaalensis","Xenocalamus","Transvaal Quillsnout Snake",DD,U,-11513776
+125,123,"polylepis","Amblyodipsas","Common Purple-glossed Snake",NE,U,-16777216
+126,122,"microlepidotus","Macrelaps","",NE,U,-16777216
+128,127,"werneri","Aparallactus","",NE,U,-16777216
+129,127,"acanthias","Polemon","",NE,U,-16777216
+131,130,"lacteus","Homoroselaps","",NE,U,-16777216
+132,130,"bibronii","Atractaspis","",NE,U,-16777216
+135,134,"pulverulentus","Psammodynastes","",NE,U,-16777216
+136,134,"procterae","Buhoma","",NE,U,-16777216
+138,137,"carinata","Pythonodipsas","",NE,U,-16777216
+139,137,"cana","Pseudaspis","",NE,U,-16777216
+146,145,"hildebrandtii","Hemirhagerrhis","",NE,U,-16777216
+147,145,"rhombeatus","Psammophylax","",NE,U,-16777216
+148,144,"mahfalensis","Mimophis","",NE,U,-16777216
+149,143,"multimaculata","Dipsina","Dwarf Beaked Snake",NE,U,-16777216
+150,142,"crucifer","Psammophis","",NE,U,-16777216
+152,151,"monspessulanus","Malpolon","Montpellier Snake",LC,S,-16731116
+153,151,"rostratus","Rhamphiophis","",NE,U,-16777216
+154,140,"janii","Prosymna","",NE,U,-16777216
+161,160,"leucobalia","Fordonia","Crab-eating Water Snake",NE,U,-16777216
+162,160,"prevostiana","Gerarda","Glossy Marsh Snake",LC,U,-16731116
+163,159,"violacea","Cantoria","Cantor's Water Snake",NE,U,-16777216
+164,158,"hydroides","Bitia","",NE,U,-16777216
+165,157,"tentaculatum","Erpeton","Tentacled Snake",NE,U,-16777216
+168,167,"buccata","Homalopsis","",NE,U,-16777216
+169,167,"rynchops","Cerberus","",NE,U,-16777216
+170,166,"enhydris","Enhydris","Rainbow Water Snake",LC,U,-16731116
+171,155,"richardsonii","Myron","",NE,U,-16777216

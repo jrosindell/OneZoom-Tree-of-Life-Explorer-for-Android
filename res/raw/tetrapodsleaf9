@@ -1,92 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"pallida","Spizella","Clay-coloured Sparrow",LC,U,-16731116
-12,10,"passerina","Spizella","Chipping Sparrow",LC,U,-16731116
-13,9,"inexpectata","Torreornis","Cuban Sparrow",EN,U,-8572416
-16,15,"wortheni","Spizella","Worthen's Sparrow",EN,U,-8572416
-17,15,"pusilla","Spizella","Field Sparrow",LC,U,-16731116
-18,14,"breweri","Spizella","Brewer's Sparrow",LC,U,-16731116
-19,7,"atrogularis","Spizella","Black-chinned Sparrow",LC,U,-16731116
-21,20,"quinquestriata","Aimophila","Five-striped Sparrow",LC,U,-16731116
-22,20,"bilineata","Amphispiza","Black-throated Sparrow",LC,U,-16731116
-30,29,"rufivirgatus","Arremonops","Olive Sparrow",LC,U,-16731116
-31,29,"tocuyensis","Arremonops","Tocuyo Sparrow",LC,U,-16731116
-32,28,"chloronotus","Arremonops","Green-backed Sparrow",LC,U,-16731116
-33,27,"conirostris","Arremonops","Black-striped Sparrow",LC,U,-16731116
-36,35,"aurifrons","Ammodramus","Yellow-browed Sparrow",LC,U,-16731116
-37,35,"humeralis","Ammodramus","Grassland Sparrow",LC,U,-16731116
-38,34,"savannarum","Ammodramus","Grasshopper Sparrow",LC,U,-16731116
-42,41,"humeralis","Aimophila","Black-chested Sparrow",LC,U,-16731116
-43,41,"mystacalis","Aimophila","Bridled Sparrow",LC,U,-16731116
-44,40,"ruficauda","Aimophila","Stripe-headed Sparrow",LC,U,-16731116
-47,46,"aestivalis","Aimophila","Bachman's Sparrow",NT,U,-12486656
-48,46,"cassinii","Aimophila","Cassin's Sparrow",LC,U,-16731116
-49,45,"botterii","Aimophila","Botteri's Sparrow",LC,U,-16731116
-52,51,"sumichrasti","Aimophila","Cinnamon-tailed Sparrow",NT,U,-12486656
-53,51,"carpalis","Aimophila","Rufous-winged Sparrow",LC,U,-16731116
-55,54,"strigiceps","Aimophila","Stripe-capped Sparrow",LC,U,-16731116
-56,54,"stolzmanni","Aimophila","Tumbes Sparrow",LC,U,-16731116
-63,62,"flavovirens","Chlorospingus","Yellow-green Bush-tanager",VU,U,-11184866
-64,62,"semifuscus","Chlorospingus","Dusky Bush-tanager",LC,U,-16731116
-65,61,"tacarcunae","Chlorospingus","Tacarcuna Bush-tanager",LC,U,-16731116
-66,60,"inornatus","Chlorospingus","Pirre Bush-tanager",LC,U,-16731116
-67,59,"ophthalmicus","Chlorospingus","Common Bush-tanager",LC,U,-16731116
-68,58,"pileatus","Chlorospingus","Sooty-capped Bush-tanager",LC,U,-16731116
-71,70,"parvirostris","Chlorospingus","Yellow-whiskered Bush-tanager",LC,U,-16731116
-72,70,"flavigularis","Chlorospingus","Yellow-throated Bush-tanager",LC,U,-16731116
-73,69,"canigularis","Chlorospingus","Ashy-throated Bush-tanager",LC,U,-16731116
-81,80,"rufinucha","Atlapetes","Rufous-naped Brush-finch",LC,U,-16731116
-82,80,"tricolor","Atlapetes","Tricoloured Brush-finch",LC,U,-16731116
-83,79,"seebohmi","Atlapetes","Bay-crowned Brush-finch",LC,U,-16731116
-84,78,"melanolaemus","Atlapetes","Black-faced Brush-finch",LC,U,-16731116
-88,87,"rufigenis","Atlapetes","Rufous-eared Brush-finch",NT,U,-12486656
-89,87,"canigenis","Atlapetes","Grey Brush-finch",LC,U,-16731116
-90,86,"melanopsis","Atlapetes","Black-spectacled Brush-finch",EN,U,-8572416
-91,85,"schistaceus","Atlapetes","Slaty Brush-finch",LC,U,-16731116
-93,92,"melanocephalus","Atlapetes","Santa Marta Brush-finch",LC,U,-16731116
-94,92,"grammacus","Chondestes","Lark Sparrow",LC,U,-16731116
-95,75,"leucopterus","Atlapetes","White-winged Brush-finch",LC,U,-16731116
-99,98,"flaviceps","Atlapetes","Yellow-headed Brush-finch",EN,U,-8572416
-100,98,"terborghi","Atlapetes","Vilcabamba Brush-finch",NT,U,-12486656
-101,97,"personatus","Atlapetes","Tepui Brush-finch",LC,U,-16731116
-103,102,"nationi","Atlapetes","Rusty-bellied Brush-finch",LC,U,-16731116
-104,102,"melanocorys","Calamospiza","Lark Bunting",LC,U,-16731116
-111,110,"tahapisi","Emberiza","Cinnamon-breasted Bunting",LC,U,-16731116
-112,110,"cineracea","Emberiza","Cinereous Bunting",NT,U,-12486656
-113,109,"striolata","Emberiza","House Bunting",LC,U,-16731116
-115,114,"impetuani","Emberiza","Lark-like Bunting",LC,U,-16731116
-116,114,"socotrana","Emberiza","Socotra Bunting",VU,U,-11184866
-117,107,"capensis","Emberiza","Cape Bunting",LC,U,-16731116
-119,118,"flaviventris","Emberiza","African Golden-breasted Bunting",LC,U,-16731116
-120,118,"cabanisi","Emberiza","Cabanis's Bunting",LC,U,-16731116
-128,127,"superciliaris","Sturnella","White-browed Blackbird",LC,U,-16731116
-129,127,"defilippii","Sturnella","Pampas Meadowlark",VU,U,-11184866
-130,126,"loyca","Sturnella","Long-tailed Meadowlark",LC,U,-16731116
-132,131,"neglecta","Sturnella","Western Meadowlark",LC,U,-16731116
-133,131,"magna","Sturnella","Eastern Meadowlark",LC,U,-16731116
-135,134,"militaris","Sturnella","Red-breasted Blackbird",LC,U,-16731116
-136,134,"bellicosa","Sturnella","Peruvian Meadowlark",LC,U,-16731116
-138,137,"xanthocephalus","Xanthocephalus","Yellow-headed Blackbird",LC,U,-16731116
-139,137,"oryzivorus","Dolichonyx","Bobolink",LC,U,-16731116
-152,151,"virginiae","Vermivora","Virginia's Warbler",LC,U,-16731116
-153,151,"luciae","Vermivora","Lucy's Warbler",LC,U,-16731116
-154,150,"ruficapilla","Vermivora","Nashville Warbler",LC,U,-16731116
-155,149,"crissalis","Vermivora","Colima Warbler",NT,U,-12486656
-156,148,"celata","Vermivora","Orange-crowned Warbler",LC,U,-16731116
-157,147,"peregrina","Vermivora","Tennessee Warbler",LC,U,-16731116
-159,158,"superciliosa","Parula","Crescent-chested Warbler",LC,U,-16731116
-160,158,"gutturalis","Parula","Flame-throated Warbler",LC,U,-16731116
-163,162,"chrysoptera","Vermivora","Golden-winged Warbler",NT,U,-12486656
-164,162,"pinus","Vermivora","Blue-winged Warbler",LC,U,-16731116
-165,161,"bachmanii","Vermivora","Bachman's Warbler",CR,U,-3014646
-166,143,"vermivorum","Helmitheros","Worm-eating Warbler",LC,U,-16731116
-167,142,"aurocapilla","Seiurus","Ovenbird",LC,U,-16731116
-170,169,"fernandinae","Teretistris","Yellow-headed Warbler",LC,U,-16731116
-171,169,"fornsi","Teretistris","Oriente Warbler",LC,U,-16731116
-172,168,"virens","Icteria","Yellow-breasted Chat",LC,U,-16731116
-178,177,"nigricephala","Spindalis","Jamaican Spindalis",LC,U,-16731116
-179,177,"zena","Spindalis","Western Spindalis",LC,U,-16731116
-180,176,"portoricensis","Spindalis","Puerto Rican Spindalis",LC,U,-16731116
-181,175,"dominicensis","Spindalis","Hispaniolan Spindalis",LC,U,-16731116
-182,174,"coronata","Zeledonia","Wrenthrush",LC,U,-16731116
-184,183,"palustris","Microligea","Green-tailed Warbler",LC,U,-16731116
-185,183,"montana","Xenoligea","White-winged Warbler",VU,U,-11184866
+9,8,"longchuanensis","Philautus","",LC,D,-16731116
+10,8,"petilus","Philautus","",DD,U,-11513776
+11,7,"menglaensis","Philautus","",DD,U,-11513776
+12,6,"rhododiscus","Philautus","",NE,U,-16777216
+15,14,"graminirupes","Philautus","",VU,S,-11184866
+16,14,"eximius","Philautus","",EX,U,-16777036
+18,17,"variabilis","Philautus","",EX,U,-16777036
+19,17,"signatus","Philautus","",EN,D,-8572416
+21,20,"charius","Philautus","",EN,D,-8572416
+22,20,"griet","Philautus","",CR,D,-3014646
+23,3,"banaensis","Philautus","",DD,U,-11513776
+24,2,"shillongensis","Philautus","",CR,D,-3014646
+29,28,"sordidus","Philautus","",NT,D,-12486656
+30,28,"macropus","Philautus","",CR,D,-3014646
+32,31,"THOLPETTI","Philautus","",NE,U,-16777216
+33,31,"duboisi","Philautus","",VU,S,-11184866
+36,35,"cinerascens","Philautus","",DD,U,-11513776
+37,35,"amboli","Philautus","",NE,U,-16777216
+38,34,"sanctisilvaticus","Philautus","",CR,D,-3014646
+39,25,"ponmudi","Philautus","",CR,D,-3014646
+43,42,"vittiger","Philautus","Indonesian Bubble-nest Frog",DD,S,-11513776
+44,42,"namdaphaensis","Philautus","",DD,U,-11513776
+45,41,"beddomii","Philautus","",NT,S,-12486656
+46,40,"chalazodes","Philautus","",CR,D,-3014646

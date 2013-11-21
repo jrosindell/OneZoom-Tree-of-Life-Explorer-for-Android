@@ -1,30 +1,50 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"australis","Leucosticte","Brown-capped Rosy-finch",LC,U,-16731116
-9,7,"atrata","Leucosticte","Black Rosy-finch",LC,U,-16731116
-10,6,"tephrocotis","Leucosticte","Gray-crowned Rosy-finch",LC,U,-16731116
-11,5,"arctoa","Leucosticte","Asian Rosy-finch",LC,U,-16731116
-13,12,"brandti","Leucosticte","Black-headed Mountain-finch",LC,U,-16731116
-14,12,"sillemi","Leucosticte","Sillem's Mountain-finch",DD,U,-11513776
-15,3,"nemoricola","Leucosticte","Plain Mountain-finch",LC,U,-16731116
-19,18,"nipalensis","Carpodacus","Dark-breasted Rosefinch",LC,U,-16731116
-20,18,"rodopeplus","Carpodacus","Spot-winged Rosefinch",LC,U,-16731116
-22,21,"rhodochlamys","Carpodacus","Red-mantled Rosefinch",LC,U,-16731116
-23,21,"rubescens","Carpodacus","Crimson Rosefinch",LC,U,-16731116
-25,24,"eos","Carpodacus","Pink-rumped Rosefinch",LC,U,-16731116
-26,24,"synoicus","Carpodacus","Pale Rosefinch",LC,U,-16731116
-31,30,"roborowskii","Carpodacus","Tibetan Rosefinch",LC,U,-16731116
-32,30,"psittacea","Psittirostra","Ou",CR,U,-3014646
-33,29,"erythrinus","Carpodacus","Common Rosefinch",LC,U,-16731116
-34,28,"mexicanus","Carpodacus","House Finch",LC,U,-16731116
-37,36,"cassinii","Carpodacus","Cassin's Finch",NT,U,-12486656
-38,36,"purpureus","Carpodacus","Purple Finch",LC,U,-16731116
-39,35,"puniceus","Carpodacus","Red-fronted Rosefinch",LC,U,-16731116
-44,43,"rodochroa","Carpodacus","Pink-browed Rosefinch",LC,U,-16731116
-45,43,"vinaceus","Carpodacus","Vinaceous Rosefinch",LC,U,-16731116
-46,42,"edwardsii","Carpodacus","Dark-rumped Rosefinch",LC,U,-16731116
-48,47,"rubicilloides","Carpodacus","Streaked Rosefinch",LC,U,-16731116
-49,47,"rubicilla","Carpodacus","Great Rosefinch",LC,U,-16731116
-52,51,"trifasciatus","Carpodacus","Three-banded Rosefinch",LC,U,-16731116
-53,51,"thura","Carpodacus","White-browed Rosefinch",LC,U,-16731116
-55,54,"pulcherrimus","Carpodacus","Beautiful Rosefinch",LC,U,-16731116
-56,54,"roseus","Carpodacus","Pallas's Rosefinch",LC,U,-16731116
+10,9,"sumatrana","Huia","Sumatran Torrent Frog",LC,D,-16731116
+11,9,"lungshengensis","Huia","",NE,U,-16777216
+12,8,"jingdongensis","Huia","",NE,U,-16777216
+14,13,"hainanensis","Huia","",NE,U,-16777216
+15,13,"versabilis","Huia","",NE,U,-16777216
+19,18,"grahami","Huia","",NE,U,-16777216
+20,18,"narina","Huia","",NE,U,-16777216
+21,17,"livida","Huia","",NE,U,-16777216
+23,22,"wuchuanensis","Huia","",NE,U,-16777216
+24,22,"ishikawae","Huia","",NE,U,-16777216
+26,25,"kuangwuensis","Huia","",NE,U,-16777216
+27,25,"swinhoana","Huia","",NE,U,-16777216
+33,32,"chapaensis","Huia","",NE,U,-16777216
+34,32,"bacboensis","Huia","",NE,U,-16777216
+35,31,"amamiensis","Huia","",NE,U,-16777216
+36,30,"melasma","Huia","",NE,U,-16777216
+37,29,"chloronota","Huia","",NE,U,-16777216
+39,38,"exiliversabilis","Huia","",NE,U,-16777216
+40,38,"bolavensis","Huia","",NE,U,-16777216
+45,44,"archotaphus","Huia","",NE,U,-16777216
+46,44,"hmongorum","Huia","",NE,U,-16777216
+47,43,"khalam","Huia","",NE,U,-16777216
+49,48,"masonii","Huia","Javan Torrent Frog",VU,D,-11184866
+50,48,"heatwolei","Huia","",NE,U,-16777216
+54,53,"nasuta","Huia","",NE,U,-16777216
+55,53,"nasica","Huia","",NE,U,-16777216
+56,52,"graminea","Huia","",NE,U,-16777216
+58,57,"trankieni","Huia","",NE,U,-16777216
+59,57,"hosii","Huia","",NE,U,-16777216
+65,64,"margaretae","Huia","",NE,U,-16777216
+66,64,"absita","Huia","",NE,U,-16777216
+67,63,"utsunomiyaorum","Huia","",NE,U,-16777216
+68,62,"anlungensis","Huia","",NE,U,-16777216
+70,69,"megatympanum","Huia","",NE,U,-16777216
+71,69,"junlianensis","Huia","",NE,U,-16777216
+73,72,"cavitympanum","Huia","Hole-in-the-head Frog",LC,D,-16731116
+74,72,"andersonii","Huia","",NE,U,-16777216
+81,80,"banaorum","Huia","",NE,U,-16777216
+82,80,"orba","Huia","",NE,U,-16777216
+83,79,"daorum","Huia","",NE,U,-16777216
+84,78,"supranarina","Huia","",NE,U,-16777216
+85,77,"leporipes","Huia","",NE,U,-16777216
+86,76,"morafkai","Huia","",NE,U,-16777216
+90,89,"hejiangensis","Huia","",NE,U,-16777216
+91,89,"schmackeri","Huia","",NE,U,-16777216
+92,88,"modiglianii","Huia","",DD,U,-11513776
+93,87,"iriodes","Huia","",NE,U,-16777216
+95,94,"tiannanensis","Huia","",NE,U,-16777216
+96,94,"sinica","Huia","",NE,U,-16777216

@@ -1,94 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"incomtus","Dasymys","African Marsh Rat",LC,U,-16731116
-11,9,"alleni","Dasymys","",NE,U,-16777216
-12,8,"nudipes","Dasymys","Angolan Marsh Rat",DD,U,-11513776
-13,7,"montanus","Dasymys","Montane Shaggy Rat",EN,D,-8572416
-15,14,"rufulus","Dasymys","West African Shaggy Rat",LC,U,-16731116
-16,14,"foxi","Dasymys","Fox's Shaggy Rat",DD,U,-11513776
-18,17,"yunnanensis","Hadromys","Yunnan Hadromys",DD,U,-11513776
-19,17,"humei","Hadromys","Hume's Rat",EN,D,-8572416
-27,26,"meltada","Millardia","Soft-furred Metad",LC,S,-16731116
-28,26,"kathleenae","Millardia","Burmese Metad",LC,S,-16731116
-29,25,"kondana","Millardia","Kondana Rat",CR,D,-3014646
-30,24,"gleadowi","Millardia","Sand-coloured Metad",LC,U,-16731116
-33,32,"blanfordi","Madromys","White-tailed Wood Rat",LC,U,-16731116
-34,32,"elvira","Cremnomys","Large Rock-rat",CR,D,-3014646
-35,31,"cutchicus","Cremnomys","Cutch Rock-rat",LC,S,-16731116
-39,38,"fergussoniensis","Pogonomys","D'entrecasteaux Archipelago Pogonomys",EN,D,-8572416
-40,38,"loriae","Pogonomys","Loria's Pogonomys",LC,U,-16731116
-41,37,"macrourus","Pogonomys","Chestnut Tree Mouse",LC,U,-16731116
-43,42,"sylvestris","Pogonomys","Gray-bellied Tree Mouse",LC,U,-16731116
-44,42,"championi","Pogonomys","Champion's Tree Mouse",DD,S,-11513776
-45,21,"minutus","Micromys","Eurasian Harvest Mouse",LC,S,-16731116
-47,46,"bunnii","Nesokia","Bunn's Short-tailed Bandicoot Rat",EN,D,-8572416
-48,46,"indica","Nesokia","Short-tailed Bandicoot Rat",LC,U,-16731116
-59,58,"barbarus","Lemniscomys","Barbary Lemniscomys",LC,S,-16731116
-60,58,"zebra","Lemniscomys","Heuglin's Lemniscomys",LC,S,-16731116
-61,57,"bellieri","Lemniscomys","Bellier's Lemniscomys",LC,S,-16731116
-63,62,"roseveari","Lemniscomys","Rosevear's Lemniscomys",DD,U,-11513776
-64,62,"macculus","Lemniscomys","Buffoon Lemniscomys",LC,S,-16731116
-66,65,"mittendorfi","Lemniscomys","Mittendorf's Lemniscomys",VU,S,-11184866
-67,65,"rosalia","Lemniscomys","Single-striped Grass Mouse",LC,S,-16731116
-68,54,"linulus","Lemniscomys","Senegal Lemniscomys",LC,U,-16731116
-71,70,"hoogstraali","Lemniscomys","Hoogstraal's Lemniscomys",DD,U,-11513776
-72,70,"striatus","Lemniscomys","Typical Lemniscomys",LC,I,-16731116
-73,69,"griselda","Lemniscomys","Griselda's Lemniscomys",LC,S,-16731116
-76,75,"parvus","Pithecheir","Malay Peninsula Pithecheir",DD,U,-11513776
-77,75,"melanurus","Pithecheir","Javan Pithecheir",VU,D,-11184866
-78,74,"ohiensis","Srilankamys","Ohiya Rat",VU,D,-11184866
-84,83,"arrogans","Rattus","Western New Guinea Mountain Rat",LC,S,-16731116
-85,83,"pococki","Rattus","Pocock's Highland Rat",LC,U,-16731116
-87,86,"niobe","Rattus","Moss-forest Rat",LC,S,-16731116
-88,86,"arfakiensis","Rattus","",NE,U,-16777216
-90,89,"omichlodes","Rattus","Arianus's Rat",DD,U,-11513776
-91,89,"richardsoni","Rattus","Glacier Rat",VU,D,-11184866
-94,93,"vandeuseni","Rattus","Van Deusen's Rat",EN,D,-8572416
-95,93,"verecundus","Rattus","Slender Rat",LC,S,-16731116
-96,92,"ceramicus","Nesoromys","Seram Island Mountain Rat",EN,D,-8572416
-98,97,"imberbis","Muriculus","Ethiopian Striped Mouse",LC,D,-16731116
-99,97,"millardi","Dacnomys","Millard's Rat",DD,U,-11513776
-101,100,"canus","Eropeplus","Sulawesi Soft-furred Rat",VU,D,-11184866
-102,100,"meyeri","Lenomys","Meyer's Lenomys",LC,D,-16731116
-108,107,"fratrorum","Bunomys","Northeastern Peninsula Bunomys",VU,D,-11184866
-109,107,"prolatus","Bunomys","Tambusisi Bunomys",EN,D,-8572416
-111,110,"chrysocomus","Bunomys","Common Bunomys",LC,S,-16731116
-112,110,"andrewsi","Bunomys","Andrew's Bunomys",LC,U,-16731116
-113,105,"coelestis","Bunomys","Lampobatang Bunomys",CR,D,-3014646
-114,104,"penitus","Bunomys","Montane Bunomys",NT,D,-12486656
-115,103,"fulva","Vernaya","Vernay's Climbing Mouse",LC,U,-16731116
-125,124,"niloticus","Arvicanthis","African Grass Rat",LC,U,-16731116
-126,124,"rufinus","Arvicanthis","Guinean Arvicanthis",LC,U,-16731116
-127,123,"ansorgei","Arvicanthis","Sudanian Arvicanthis",LC,U,-16731116
-128,122,"neumanni","Arvicanthis","Somali Grass Rat",LC,U,-16731116
-130,129,"nairobae","Arvicanthis","Nairobi Grass Rat",LC,S,-16731116
-131,129,"blicki","Arvicanthis","Blick's Grass Rat",NT,U,-12486656
-132,120,"abyssinicus","Arvicanthis","Abyssinian Grass Rat",LC,S,-16731116
-136,135,"mackenziei","Berylmys","Kenneth's White-toothed Rat",DD,U,-11513776
-137,135,"manipulus","Berylmys","Manipur White-toothed Rat",DD,U,-11513776
-138,134,"berdmorei","Berylmys","Berdmore's Berylmy",LC,S,-16731116
-139,133,"bowersi","Berylmys","Bower's White-toothed Rat",LC,D,-16731116
-145,144,"bengalensis","Bandicota","Lesser Bandicoot Rat",LC,I,-16731116
-146,144,"indica","Bandicota","Greater Bandicoot Rat",LC,I,-16731116
-147,143,"savilei","Bandicota","Savile's Bandicoot Rat",LC,S,-16731116
-148,142,"sodyi","Kadarsanomys","Javan Bamboo Rat",VU,D,-11184866
-150,149,"pallidus","Phloeomys","Northern Luzon Phloeomys",LC,S,-16731116
-151,149,"cumingi","Phloeomys","Southern Luzon Phloeomys",VU,D,-11184866
-152,140,"mindorensis","Anonymomys","Mindoro Forest Anonymomys",DD,U,-11513776
-160,159,"erythroleucus","Mastomys","Guinea Multimammate Mouse",LC,S,-16731116
-161,159,"shortridgei","Mastomys","Shortridge's Mastomys",LC,S,-16731116
-162,158,"kollmannspergeri","Mastomys","Kollmannsperger's Mastomys",LC,S,-16731116
-163,157,"angolensis","Myomyscus","Angolan Multimammate Mouse",LC,S,-16731116
-166,165,"huberti","Mastomys","Hubert's Mastomys",LC,I,-16731116
-167,165,"pernanus","Mastomys","Dwarf Mastomys",DD,U,-11513776
-168,164,"coucha","Mastomys","Southern African Mastomys",LC,S,-16731116
-169,155,"natalensis","Mastomys","Natal Mastomys",LC,S,-16731116
-174,173,"carillus","Hylomyscus","Angolan Hylomyscus",LC,U,-16731116
-175,173,"stella","Hylomyscus","Stella Hylomyscus",LC,S,-16731116
-177,176,"grandis","Hylomyscus","Mt Oku Hylomyscus",CR,D,-3014646
-178,176,"aeta","Hylomyscus","Beaded Hylomyscus",LC,S,-16731116
-181,180,"alleni","Hylomyscus","Allen's Hylomyscus",LC,S,-16731116
-182,180,"baeri","Hylomyscus","Baer's Hylomyscus",EN,D,-8572416
-183,179,"denniae","Hylomyscus","Montane Hylomyscus",LC,S,-16731116
-184,170,"parvus","Hylomyscus","Lesser Hylomyscus",LC,S,-16731116
-186,185,"pumilio","Rhabdomys","Four-striped Grass Mouse",LC,S,-16731116
-187,185,"dilectus","Rhabdomys","",NE,U,-16777216
+10,9,"peruanum","Glaucidium","Peruvian Pygmy-owl",LC,U,-16731116
+11,9,"siju","Glaucidium","Cuban Pygmy-owl",LC,U,-16731116
+12,8,"brasilianum","Glaucidium","Ferruginous Pygmy-owl",LC,U,-16731116
+13,7,"nanum","Glaucidium","Austral Pygmy-owl",LC,U,-16731116
+14,6,"griseiceps","Glaucidium","Central American Pygmy-owl",LC,U,-16731116
+15,5,"hardyi","Glaucidium","Amazonian Pygmy-owl",LC,U,-16731116
+18,17,"parkeri","Glaucidium","Subtropical Pygmy-owl",LC,U,-16731116
+19,17,"jardinii","Glaucidium","Andean Pygmy-owl",LC,U,-16731116
+20,16,"bolivianum","Glaucidium","Yungas Pygmy-owl",LC,U,-16731116
+23,22,"californicum","Glaucidium","Northern Pygmy Owl",_U,[,-16777216
+24,22,"gnoma","Glaucidium","Northern Pygmy-owl",LC,U,-16731116
+25,21,"minutissimum","Glaucidium","Least Pygmy-owl",LC,U,-16731116
+28,27,"perlatum","Glaucidium","Pearl-spotted Owlet",LC,U,-16731116
+29,27,"palmarum","Glaucidium","Colima Pygmy-owl",LC,U,-16731116
+31,30,"castanopterum","Glaucidium","Javan Owlet",LC,U,-16731116
+32,30,"castaneum","Glaucidium","Chestnut Owlet",LC,U,-16731116
+37,36,"castanonotum","Glaucidium","Chestnut-backed Owlet",NT,U,-12486656
+38,36,"mooreorum","Glaucidium","Pernambuco Pygmy-owl",CR,U,-3014646
+39,35,"sanchezi","Glaucidium","Tamaulipas Pygmy-owl",LC,U,-16731116
+41,40,"passerinum","Glaucidium","Eurasian Pygmy-owl",LC,U,-16731116
+42,40,"brodiei","Glaucidium","Collared Owlet",LC,U,-16731116
+47,46,"costaricanum","Glaucidium","Costa Rican Pygmy-owl",LC,U,-16731116
+48,46,"tephronotum","Glaucidium","Red-chested Owlet",LC,U,-16731116
+49,45,"nubicola","Glaucidium","Cloud-forest Pygmy-owl",VU,U,-11184866
+50,44,"albertinum","Glaucidium","Albertine Owlet",VU,U,-11184866
+51,43,"sjostedti","Glaucidium","Sjostedt's Owlet",LC,U,-16731116
+54,53,"cuculoides","Glaucidium","Asian Barred Owlet",LC,U,-16731116
+55,53,"capense","Glaucidium","African Barred Owlet",LC,U,-16731116
+56,52,"radiatum","Glaucidium","Jungle Owlet",LC,U,-16731116

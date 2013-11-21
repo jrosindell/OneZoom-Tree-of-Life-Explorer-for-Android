@@ -1,59 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"rapax","Crocidura","Chinese White-toothed Shrew",DD,U,-11513776
-15,13,"vorax","Crocidura","Voracious Shrew",LC,U,-16731116
-16,12,"pullata","Crocidura","Kashmir White-toothed Shrew",DD,U,-11513776
-18,17,"muricauda","Crocidura","Mouse-tailed Shrew",LC,U,-16731116
-19,17,"planiceps","Crocidura","Flat-headed Shrew",DD,U,-11513776
-20,10,"levicula","Crocidura","Sulawesi Tiny Shrew",LC,U,-16731116
-23,22,"lusitania","Crocidura","Mauritanian Shrew",LC,U,-16731116
-24,22,"niobe","Crocidura","Niobe's Shrew",NT,U,-12486656
-25,21,"usambarae","Crocidura","Usambara Shrew",EN,D,-8572416
-27,26,"montis","Crocidura","Montane White-toothed Shrew",LC,U,-16731116
-28,26,"tenuis","Crocidura","Timor Shrew",DD,U,-11513776
-35,34,"lepidura","Crocidura","Sumatran Giant Shrew",LC,S,-16731116
-36,34,"orientalis","Crocidura","Oriental Shrew",VU,U,-11184866
-37,33,"foetida","Crocidura","Bornean Shrew",LC,U,-16731116
-38,32,"brunnea","Crocidura","Thick-tailed Shrew",LC,U,-16731116
-39,31,"fuliginosa","Crocidura","Southeast Asian Shrew",LC,U,-16731116
-41,40,"baluensis","Crocidura","Kinabalu Shrew",VU,S,-11184866
-42,40,"vosmaeri","Crocidura","Banka Shrew",DD,U,-11513776
-43,29,"telfordi","Crocidura","Telford's Shrew",EN,D,-8572416
-45,44,"tarella","Crocidura","Tarella Shrew",EN,D,-8572416
-46,44,"ichnusae","Crocidura","",NE,U,-16777216
-47,5,"macarthuri","Crocidura","Macarthur's Shrew",LC,U,-16731116
-52,51,"viaria","Crocidura","Savanna Path Shrew",LC,S,-16731116
-53,51,"lamottei","Crocidura","Lamotte's Shrew",LC,U,-16731116
-54,50,"cyanea","Crocidura","Reddish-gray Musk Shrew",LC,S,-16731116
-55,49,"orii","Crocidura","Ryukyu Shrew",EN,D,-8572416
-58,57,"leucodon","Crocidura","Bicolored Shrew",LC,U,-16731116
-59,57,"caspica","Crocidura","Caspian Shrew",DD,U,-11513776
-60,56,"ansellorum","Crocidura","Ansell's Shrew",EN,D,-8572416
-65,64,"beccarii","Crocidura","Beccari's Shrew",LC,D,-16731116
-66,64,"elongata","Crocidura","Elongated Shrew",LC,D,-16731116
-67,63,"erica","Crocidura","Heather Shrew",DD,U,-11513776
-69,68,"obscurior","Crocidura","Obscure White-toothed Shrew",LC,U,-16731116
-70,68,"smithii","Crocidura","Desert Musk Shrew",LC,U,-16731116
-71,61,"bottegi","Crocidura","Bottego's Shrew",DD,U,-11513776
-75,74,"lasiura","Crocidura","Ussuri Shrew",LC,U,-16731116
-76,74,"attila","Crocidura","Hun Shrew",LC,U,-16731116
-77,73,"allex","Crocidura","East African Highland Shrew",VU,D,-11184866
-78,72,"lanosa","Crocidura","Kivu Long-haired Shrew",EN,D,-8572416
-82,81,"mindorus","Crocidura","Mindoro Shrew",DD,U,-11513776
-83,81,"raineyi","Crocidura","Rainey Shrew",DD,U,-11513776
-84,80,"picea","Crocidura","Cameroonian Shrew",EN,D,-8572416
-86,85,"manengubae","Crocidura","Manenguba Shrew",VU,D,-11184866
-87,85,"pitmani","Crocidura","Pitman's Shrew",DD,U,-11513776
-95,94,"eisentrauti","Crocidura","Eisentraut's Shrew",VU,S,-11184866
-96,94,"desperata","Crocidura","Desperate Shrew",EN,D,-8572416
-97,93,"buettikoferi","Crocidura","Buettikofer's Shrew",NT,D,-12486656
-99,98,"fuscomurina","Crocidura","Bicolored Musk Shrew",LC,U,-16731116
-100,98,"zaphiri","Crocidura","Zaphir's Shrew",DD,U,-11513776
-101,91,"pasha","Crocidura","Pasha Shrew",LC,U,-16731116
-102,90,"jacksoni","Crocidura","Jackson's Shrew",LC,S,-16731116
-104,103,"aleksandrisi","Crocidura","Alexandrian Shrew",LC,S,-16731116
-105,103,"zarudnyi","Crocidura","Zarudny's Shrew",LC,U,-16731116
-110,109,"trichura","Crocidura","Christmas Island Shrew",CR,U,-3014646
-111,109,"tanakae","Crocidura","Taiwanese Gray Shrew",LC,U,-16731116
-112,108,"attenuata","Crocidura","Grey Shrew",LC,U,-16731116
-113,107,"nana","Crocidura","Dwarf White-toothed Shrew",LC,U,-16731116
-114,106,"baileyi","Crocidura","Bailey's Shrew",EN,D,-8572416
+12,11,"caprinus","Phyllotis","Capricorn Leaf-eared Mouse",LC,S,-16731116
+13,11,"osgoodi","Phyllotis","Osgood's Leaf-eared Mouse",DD,U,-11513776
+15,14,"gerbillus","Paralomys","Gerbil Leaf-eared Mouse",LC,S,-16731116
+16,14,"amicus","Phyllotis","Friendly Leaf-eared Mouse",LC,S,-16731116
+19,18,"xanthopygus","Phyllotis","Yellow-rumped Leaf-eared Mouse",LC,S,-16731116
+20,18,"andium","Phyllotis","Andean Leaf-eared Mouse",LC,S,-16731116
+22,21,"darwini","Phyllotis","Darwin's Leaf-eared Mouse",LC,S,-16731116
+23,21,"limatus","Phyllotis","",LC,S,-16731116
+24,8,"definitus","Phyllotis","Definitive Leaf-eared Mouse",EN,D,-8572416
+25,7,"bonariensis","Phyllotis","Buenos Aires Leaf-eared Mouse",NT,D,-12486656
+29,28,"haggardi","Phyllotis","Haggard's Leaf-eared Mouse",LC,S,-16731116
+30,28,"magister","Phyllotis","Master Leaf-eared Mouse",LC,S,-16731116
+31,27,"wolffsohni","Phyllotis","Wolffsohn's Leaf-eared Mouse",LC,S,-16731116
+32,26,"osilae","Phyllotis","Bunchgrass Leaf-eared Mouse",LC,S,-16731116
+35,34,"boliviensis","Auliscomys","Bolivian Big-eared Mouse",LC,S,-16731116
+36,34,"pictus","Auliscomys","Painted Big-eared Mouse",LC,S,-16731116
+38,37,"sublimis","Auliscomys","Andean Big-eared Mouse",LC,S,-16731116
+39,37,"micropus","Loxodontomys","Southern Pericote",LC,S,-16731116
+41,40,"pearsoni","Andalgalomys","Pearson's Chaco Mouse",LC,S,-16731116
+42,40,"olrogi","Andalgalomys","Olrog's Chaco Mouse",LC,U,-16731116
+46,45,"griseoflavus","Graomys","Gray Leaf-eared Mouse",LC,S,-16731116
+47,45,"centralis","Graomys","",DD,U,-11513776
+48,44,"edithae","Graomys","Edith's Leaf-eared Mouse",DD,U,-11513776
+49,43,"domorum","Graomys","Pale Leaf-eared Mouse",LC,S,-16731116
+50,2,"rufescens","Rhagomys","Brazilian Arboreal Mouse",NT,D,-12486656
+58,57,"torresi","Bibimys","Torres's Crimson-nosed Rat",NT,D,-12486656
+59,57,"chacoensis","Bibimys","Chaco Crimson-nosed Rat",LC,S,-16731116
+60,56,"labiosus","Bibimys","Large-lipped Crimson-nosed Rat",LC,D,-16731116
+62,61,"tomentosus","Kunsia","Woolly Giant Rat",LC,D,-16731116
+63,61,"fronto","Kunsia","Fossorial Giant Rat",EN,D,-8572416
+65,64,"tumidus","Scapteromys","Swamp Rat",LC,S,-16731116
+66,64,"aquaticus","Scapteromys","",LC,S,-16731116
+69,68,"megalonyx","Chelemys","Large Long-clawed Mouse",NT,D,-12486656
+70,68,"delfini","Chelemys","",DD,U,-11513776
+71,67,"macronyx","Chelemys","Andean Long-clawed Mouse",LC,U,-16731116
+74,73,"fernandinae","Nesoryzomys","Fernandina Galapagos Mouse",VU,U,-11184866
+75,73,"swarthi","Nesoryzomys","Santiago Galapagos Mouse",VU,U,-11184866
+76,72,"indefessus","Nesoryzomys","Indefatigable Galapagos Mouse",EX,U,-16777036
+78,77,"aphrastus","Sigmodontomys","Harris's Rice Water Rat",DD,U,-11513776
+79,77,"alfari","Sigmodontomys","Alfaro's Rice Water Rat",LC,S,-16731116
+81,80,"melanops","Scolomys","South American Spiny Mouse",LC,U,-16731116
+82,80,"ucayalensis","Scolomys","Ucayali Spiny Mouse",LC,U,-16731116

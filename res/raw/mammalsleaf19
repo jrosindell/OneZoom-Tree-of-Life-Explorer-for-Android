@@ -1,38 +1,59 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"penicillatus","Eliurus","White-tipped Tuft-tailed Rat",EN,U,-8572416
-10,8,"tanala","Eliurus","Tanala Tuft-tailed Rat",LC,U,-16731116
-12,11,"myoxinus","Eliurus","Western Tuft-tailed Rat",LC,U,-16731116
-13,11,"minor","Eliurus","Lesser Tufted-tailed Rat",LC,U,-16731116
-15,14,"majori","Eliurus","Major's Tufted-tailed Rat",LC,U,-16731116
-16,14,"webbi","Eliurus","Webb's Tuft-tailed Rat",LC,U,-16731116
-17,5,"roberti","Gymnuromys","",LC,U,-16731116
-19,18,"albicauda","Brachytarsomys","White-tailed Tree Rat",LC,U,-16731116
-20,18,"villosa","Brachytarsomys","Hairy-tailed Tree Rat",EN,U,-8572416
-22,21,"ingens","Macrotarsomys","Long-tailed Big-footed Mouse",EN,D,-8572416
-23,21,"bastardi","Macrotarsomys","Western Big-footed Mouse",LC,S,-16731116
-28,27,"lambertoni","Nesomys","Lowland Red Forest Rat",EN,U,-8572416
-29,27,"audeberti","Nesomys","Lowland Red Forest Rat",LC,D,-16731116
-30,26,"rufus","Nesomys","Eastern Red Forest Rat",LC,U,-16731116
-32,31,"betsileoensis","Brachyuromys","Betsileo Short-tailed Rat",LC,U,-16731116
-33,31,"ramirohitra","Brachyuromys","Gregarious Short-tailed Rat",LC,U,-16731116
-34,24,"antimena","Hypogeomys","Malagasy Giant Jumping Rat",EN,D,-8572416
-36,35,"lasiurus","Platacanthomys","Malabar Spiny Dormouse",VU,D,-11184866
-37,35,"cinereus","Typhlomys","Sort-furred Tree Mouse",LC,D,-16731116
-43,42,"longicaudatus","Cricetulus","Long-tailed Dwarf Hamster",LC,U,-16731116
-44,42,"barabensis","Cricetulus","Striped Dwarf Hamster",LC,U,-16731116
-46,45,"migratorius","Cricetulus","Gray Dwarf Hamster",LC,U,-16731116
-47,45,"kamensis","Cricetulus","Kam Dwarf Hamster",LC,U,-16731116
-49,48,"sokolovi","Cricetulus","Sokolov's Dwarf Hamster",LC,U,-16731116
-50,48,"alticola","Cricetulus","Ladakh Hamster",LC,U,-16731116
-53,52,"eversmanni","Allocricetulus","Eversmann's Hamster",LC,U,-16731116
-54,52,"curtatus","Allocricetulus","Mongolian Hamster",LC,U,-16731116
-55,51,"cricetus","Cricetus","Black-bellied Hamster",LC,D,-16731116
-61,60,"raddei","Mesocricetus","Ciscaucasian Hamster",LC,S,-16731116
-62,60,"auratus","Mesocricetus","Golden Hamster",VU,D,-11184866
-64,63,"brandti","Mesocricetus","Brandt's Hamster",NT,D,-12486656
-65,63,"newtoni","Mesocricetus","Romanian Hamster",NT,D,-12486656
-68,67,"campbelli","Phodopus","Campbell's Hamster",LC,S,-16731116
-69,67,"roborovskii","Phodopus","Desert Hamster",LC,S,-16731116
-70,66,"sungorus","Phodopus","Dzhungarian Hamster",LC,U,-16731116
-71,57,"triton","Tscherskia","Greater Long-tailed Hamster",LC,U,-16731116
-72,56,"canus","Cansumys","Gansu Hamster",LC,U,-16731116
+12,11,"speciosus","Apodemus","Large Japanese Field Mouse",LC,S,-16731116
+13,11,"latronum","Apodemus","Large-eared Field Mouse",LC,U,-16731116
+14,10,"draco","Apodemus","South China Field Mouse",LC,S,-16731116
+16,15,"argenteus","Apodemus","Small Japanese Field Mouse",LC,S,-16731116
+17,15,"gurkha","Apodemus","Himalayan Wood Mouse",EN,D,-8572416
+19,18,"peninsulae","Apodemus","Korean Field Mouse",LC,S,-16731116
+20,18,"semotus","Apodemus","Taiwan Field Mouse",LC,U,-16731116
+22,21,"chevrieri","Apodemus","Chevrier's Field Mouse",LC,U,-16731116
+23,21,"agrarius","Apodemus","Striped Field Mouse",LC,S,-16731116
+29,28,"sylvaticus","Apodemus","Long-tailed Field Mouse",LC,S,-16731116
+30,28,"alpicola","Apodemus","Alpine Field Mouse",LC,U,-16731116
+31,27,"rusiges","Apodemus","Kashmir Field Mouse",LC,U,-16731116
+32,26,"flavicollis","Apodemus","Yellow-necked Field Mouse",LC,S,-16731116
+33,25,"hyrcanicus","Apodemus","Hyrcanian Field Mouse",NT,D,-12486656
+37,36,"pallipes","Apodemus","Himalayan Field Mouse",LC,U,-16731116
+38,36,"witherbyi","Apodemus","Steppe Field Mouse",LC,U,-16731116
+39,35,"uralensis","Apodemus","Herb Field Mouse",LC,S,-16731116
+40,34,"ponticus","Apodemus","Black Sea Field Mouse",LC,U,-16731116
+42,41,"epimelas","Apodemus","Western Broad-toothed Field Mouse",LC,S,-16731116
+43,41,"mystacinus","Apodemus","Broad-toothed Field Mouse",LC,S,-16731116
+45,44,"muenninki","Tokudaia","Okinawa Spiny Rat",CR,D,-3014646
+46,44,"osimensis","Tokudaia","Amami Spiny Rat",EN,D,-8572416
+52,51,"niloticus","Arvicanthis","African Grass Rat",LC,U,-16731116
+53,51,"rufinus","Arvicanthis","Guinean Arvicanthis",LC,U,-16731116
+54,50,"ansorgei","Arvicanthis","Sudanian Arvicanthis",LC,U,-16731116
+55,49,"neumanni","Arvicanthis","Somali Grass Rat",LC,U,-16731116
+57,56,"nairobae","Arvicanthis","Nairobi Grass Rat",LC,S,-16731116
+58,56,"blicki","Arvicanthis","Blick's Grass Rat",NT,U,-12486656
+59,47,"abyssinicus","Arvicanthis","Abyssinian Grass Rat",LC,S,-16731116
+63,62,"mackenziei","Berylmys","Kenneth's White-toothed Rat",DD,U,-11513776
+64,62,"manipulus","Berylmys","Manipur White-toothed Rat",DD,U,-11513776
+65,61,"berdmorei","Berylmys","Berdmore's Berylmy",LC,S,-16731116
+66,60,"bowersi","Berylmys","Bower's White-toothed Rat",LC,D,-16731116
+72,71,"bengalensis","Bandicota","Lesser Bandicoot Rat",LC,I,-16731116
+73,71,"indica","Bandicota","Greater Bandicoot Rat",LC,I,-16731116
+74,70,"savilei","Bandicota","Savile's Bandicoot Rat",LC,S,-16731116
+75,69,"sodyi","Kadarsanomys","Javan Bamboo Rat",VU,D,-11184866
+77,76,"pallidus","Phloeomys","Northern Luzon Phloeomys",LC,S,-16731116
+78,76,"cumingi","Phloeomys","Southern Luzon Phloeomys",VU,D,-11184866
+79,67,"mindorensis","Anonymomys","Mindoro Forest Anonymomys",DD,U,-11513776
+87,86,"erythroleucus","Mastomys","Guinea Multimammate Mouse",LC,S,-16731116
+88,86,"shortridgei","Mastomys","Shortridge's Mastomys",LC,S,-16731116
+89,85,"kollmannspergeri","Mastomys","Kollmannsperger's Mastomys",LC,S,-16731116
+90,84,"angolensis","Myomyscus","Angolan Multimammate Mouse",LC,S,-16731116
+93,92,"huberti","Mastomys","Hubert's Mastomys",LC,I,-16731116
+94,92,"pernanus","Mastomys","Dwarf Mastomys",DD,U,-11513776
+95,91,"coucha","Mastomys","Southern African Mastomys",LC,S,-16731116
+96,82,"natalensis","Mastomys","Natal Mastomys",LC,S,-16731116
+101,100,"carillus","Hylomyscus","Angolan Hylomyscus",LC,U,-16731116
+102,100,"stella","Hylomyscus","Stella Hylomyscus",LC,S,-16731116
+104,103,"grandis","Hylomyscus","Mt Oku Hylomyscus",CR,D,-3014646
+105,103,"aeta","Hylomyscus","Beaded Hylomyscus",LC,S,-16731116
+108,107,"alleni","Hylomyscus","Allen's Hylomyscus",LC,S,-16731116
+109,107,"baeri","Hylomyscus","Baer's Hylomyscus",EN,D,-8572416
+110,106,"denniae","Hylomyscus","Montane Hylomyscus",LC,S,-16731116
+111,97,"parvus","Hylomyscus","Lesser Hylomyscus",LC,S,-16731116
+113,112,"pumilio","Rhabdomys","Four-striped Grass Mouse",LC,S,-16731116
+114,112,"dilectus","Rhabdomys","",NE,U,-16777216

@@ -1,41 +1,37 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"pardus","Panthera","Leopard",NT,D,-12486656
-14,12,"leo","Panthera","Lion",VU,D,-11184866
-15,11,"onca","Panthera","Jaguar",NT,D,-12486656
-16,10,"tigris","Panthera","Tiger",EN,D,-8572416
-17,9,"uncia","Uncia","Snow Leopard",NE,U,-16777216
-18,8,"nebulosa","Neofelis","Clouded Leopard",VU,D,-11184866
-19,7,"marmorata","Pardofelis","Marbled Cat",VU,D,-11184866
-23,22,"canadensis","Lynx","Canada Lynx",LC,S,-16731116
-24,22,"lynx","Lynx","Eurasian Lynx",LC,S,-16731116
-25,21,"pardinus","Lynx","Iberian Lynx",CR,D,-3014646
-26,20,"rufus","Lynx","Bobcat",LC,S,-16731116
-29,28,"temminckii","Catopuma","Asiatic golden cat",NE,U,-16777216
-30,28,"badia","Catopuma","Bornean cat",NE,U,-16777216
-31,27,"aurata","Profelis","African golden cat",NE,U,-16777216
-37,36,"braccatus","Leopardus","Pantanal cat",NE,U,-16777216
-38,36,"pajeros","Leopardus","Pampas cat",NE,U,-16777216
-39,35,"colocolo","Leopardus","Colocolo",NT,D,-12486656
-40,34,"jacobitus","Leopardus","Andean mountain cat",NE,U,-16777216
-43,42,"guigna","Leopardus","Chilean Cat",VU,D,-11184866
-44,42,"tigrinus","Leopardus","Oncilla",VU,D,-11184866
-45,41,"geoffroyi","Leopardus","Geoffroy's Cat",NT,D,-12486656
-47,46,"pardalis","Leopardus","Ocelot",LC,D,-16731116
-48,46,"wiedii","Leopardus","Margay",NT,D,-12486656
-55,54,"nigripes","Felis","Black-footed Cat",VU,D,-11184866
-56,54,"margarita","Felis","Sand Cat",NT,U,-12486656
-58,57,"silvestris","Felis","Wild Cat",LC,D,-16731116
-59,57,"catus","Felis","",NE,U,-16777216
-61,60,"chaus","Felis","Jungle Cat",LC,D,-16731116
-62,60,"bieti","Felis","",NE,U,-16777216
-63,51,"manul","Felis","",NE,U,-16777216
-64,50,"caracal","Caracal","Caracal",LC,U,-16731116
-65,49,"serval","Leptailurus","Serval",LC,S,-16731116
-70,69,"bengalensis","Prionailurus","Leopard Cat",LC,S,-16731116
-71,69,"iriomotensis","Prionailurus","",NE,U,-16777216
-72,68,"viverrinus","Prionailurus","Fishing Cat",EN,D,-8572416
-73,67,"rubiginosus","Prionailurus","Rusty-spotted Cat",VU,D,-11184866
-74,66,"planiceps","Prionailurus","Flat-headed Cat",EN,D,-8572416
-76,75,"yagouaroundi","Puma","Jaguarundi",LC,D,-16731116
-77,75,"concolor","Puma","Puma",LC,D,-16731116
-78,0,"jubatus","Acinonyx","Cheetah",VU,D,-11184866
+23,22,"igniventris","Sciurus","Northern Amazon Red Squirrel",LC,U,-16731116
+24,22,"spadiceus","Sciurus","Southern Amazon Red Squirrel",LC,U,-16731116
+25,21,"arizonensis","Sciurus","Arizona Gray Squirrel",DD,U,-11513776
+26,20,"oculatus","Sciurus","Peters's Squirrel",LC,U,-16731116
+27,19,"griseus","Sciurus","Western Gray Squirrel",LC,U,-16731116
+28,18,"alleni","Sciurus","Allen's Squirrel",LC,D,-16731116
+29,17,"richmondi","Sciurus","Richmond's Squirrel",NT,U,-12486656
+30,16,"colliaei","Sciurus","Collie's Squirrel",LC,U,-16731116
+31,15,"sanborni","Sciurus","Sanborn's Squirrel",DD,U,-11513776
+32,14,"lis","Sciurus","Japanese Squirrel",LC,S,-16731116
+33,13,"aureogaster","Sciurus","Bushy-tailed Olingo",LC,S,-16731116
+34,12,"pyrrhinus","Sciurus","Junin Red Squirrel",DD,U,-11513776
+35,11,"aestuans","Sciurus","Guianan Squirrel",LC,U,-16731116
+36,10,"vulgaris","Sciurus","Eurasian Red Squirrel",LC,D,-16731116
+43,42,"carolinensis","Sciurus","Eastern Gray Squirrel",LC,I,-16731116
+44,42,"niger","Sciurus","Bryant's Fox Squirrel",LC,S,-16731116
+45,41,"granatensis","Sciurus","Red-tailed Squirrel",LC,S,-16731116
+46,40,"flammifer","Sciurus","Fiery Squirrel",DD,U,-11513776
+47,39,"variegatoides","Sciurus","Variegated Squirrel",LC,S,-16731116
+48,38,"anomalus","Sciurus","Caucasian Squirrel",LC,D,-16731116
+49,37,"stramineus","Sciurus","Guayaquil Squirrel",LC,U,-16731116
+50,8,"ignitus","Sciurus","Bolivian Squirrel",DD,U,-11513776
+51,7,"yucatanensis","Sciurus","Yucatan Squirrel",LC,S,-16731116
+52,6,"gilvigularis","Sciurus","Yellow-throated Squirrel",DD,U,-11513776
+53,5,"pucheranii","Sciurus","Andean Squirrel",DD,U,-11513776
+54,4,"nayaritensis","Sciurus","Mexican Fox Squirrel",LC,U,-16731116
+55,3,"deppei","Sciurus","Deppe's Squirrel",LC,S,-16731116
+56,2,"macrotis","Rheithrosciurus","Tufted Ground Squirrel",VU,D,-11184866
+61,60,"flaviventer","Microsciurus","Amazon Dwarf Squirrel",DD,U,-11513776
+62,60,"mimulus","Microsciurus","Western Dwarf Squirrel",LC,S,-16731116
+63,59,"santanderensis","Microsciurus","Santander Dwarf Squirrel",DD,U,-11513776
+64,58,"alfari","Microsciurus","Central American Dwarf Squirrel",LC,S,-16731116
+65,57,"brochus","Syntheosciurus","Bangs's Mountain Squirrel",NT,U,-12486656
+68,67,"douglasii","Tamiasciurus","Douglas's Squirrel",LC,S,-16731116
+69,67,"hudsonicus","Tamiasciurus","Red Squirrel",LC,S,-16731116
+70,66,"mearnsi","Tamiasciurus","Mearns's Squirrel",EN,D,-8572416

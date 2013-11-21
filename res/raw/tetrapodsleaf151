@@ -1,72 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"fusca","Porzana","Ruddy-breasted Crake",LC,U,-16731116
-10,8,"tenebrosa","Gallinula","Dusky Moorhen",LC,U,-16731116
-11,7,"fluminea","Porzana","Australian Crake",LC,U,-16731116
-13,12,"silvestris","Gallinula","Makira Moorhen",CR,U,-3014646
-14,12,"pusilla","Porzana","Baillon's Crake",LC,U,-16731116
-16,15,"paykullii","Porzana","Band-bellied Crake",NT,U,-12486656
-17,15,"atra","Porzana","Henderson Crake",VU,U,-11184866
-21,20,"cerverai","Cyanolimnas","Zapata Rail",CR,U,-3014646
-22,20,"alai","Fulica","Hawaiian Coot",VU,U,-11184866
-23,19,"mortierii","Gallinula","Tasmanian Native-hen",LC,U,-16731116
-25,24,"albicollis","Porzana","Ash-throated Crake",LC,U,-16731116
-26,24,"tabuensis","Porzana","Spotless Crake",LC,U,-16731116
-29,28,"kioloides","Canirallus","Madagascar Wood Rail",LC,U,-16731116
-30,28,"oculeus","Canirallus","Grey-throated Rail",LC,U,-16731116
-31,27,"cristata","Fulica","Red-knobbed Coot",LC,U,-16731116
-36,35,"castaneiceps","Anurolimnas","Chestnut-headed Crake",LC,U,-16731116
-37,35,"viridis","Anurolimnas","Russet-crowned Crake",LC,U,-16731116
-38,34,"fasciatus","Anurolimnas","Black-banded Crake",LC,U,-16731116
-39,33,"leucoptera","Fulica","White-winged Coot",LC,U,-16731116
-40,32,"caribaea","Fulica","Caribbean Coot",NT,U,-12486656
-48,47,"ardesiaca","Fulica","Slate-coloured Coot",LC,U,-16731116
-49,47,"americana","Fulica","American Coot",LC,U,-16731116
-50,46,"atra","Fulica","Common Coot",LC,U,-16731116
-52,51,"armillata","Fulica","Red-gartered Coot",LC,U,-16731116
-53,51,"gigantea","Fulica","Giant Coot",LC,U,-16731116
-55,54,"angulata","Gallinula","Lesser Moorhen",LC,U,-16731116
-56,54,"cornuta","Fulica","Horned Coot",NT,U,-12486656
-58,57,"ventralis","Gallinula","Black-tailed Native-hen",LC,U,-16731116
-59,57,"rufifrons","Fulica","Red-fronted Coot",LC,U,-16731116
-61,60,"chloropus","Gallinula","Common Moorhen",LC,U,-16731116
-62,60,"nesiotis","Gallinula","Gough Moorhen",VU,U,-11184866
-69,68,"rogersi","Atlantisia","Inaccessible Rail",VU,U,-11184866
-70,68,"cinerea","Porzana","White-browed Crake",LC,U,-16731116
-71,67,"spiloptera","Porzana","Dot-winged Crake",VU,U,-11184866
-72,66,"carolina","Porzana","Sora",LC,U,-16731116
-74,73,"flaviventer","Porzana","Yellow-breasted Crake",LC,U,-16731116
-75,73,"melanops","Gallinula","Spot-flanked Gallinule",LC,U,-16731116
-77,76,"porzana","Porzana","Spotted Crake",LC,U,-16731116
-78,76,"parva","Porzana","Little Crake",LC,U,-16731116
-79,63,"castaneoventris","Eulabeornis","Chestnut Rail",LC,U,-16731116
-89,88,"sylvestris","Gallirallus","Lord Howe Woodhen",EN,U,-8572416
-90,88,"owstoni","Gallirallus","Guam Rail",EW,U,-12832121
-91,87,"philippensis","Gallirallus","Buff-banded Rail",LC,U,-16731116
-94,93,"calayanensis","Gallirallus","Calayan Rail",VU,U,-11184866
-95,93,"okinawae","Gallirallus","Okinawa Rail",EN,U,-8572416
-96,92,"australis","Gallirallus","Weka",VU,U,-11184866
-98,97,"insignis","Gallirallus","New Britain Rail",NT,U,-12486656
-99,97,"rovianae","Gallirallus","Roviana Rail",NT,U,-12486656
-101,100,"striatus","Gallirallus","Slaty-breasted Rail",LC,U,-16731116
-102,100,"torquatus","Gallirallus","Barred Rail",LC,U,-16731116
-104,103,"inepta","Megacrex","New Guinea Flightless Rail",NT,U,-12486656
-105,103,"crex","Crex","Corncrake",LC,U,-16731116
-110,109,"madagascariensis","Rallus","Madagascar Rail",VU,U,-11184866
-111,109,"limicola","Rallus","Virginia Rail",LC,U,-16731116
-112,108,"caerulescens","Rallus","African Water Rail",LC,U,-16731116
-115,114,"wetmorei","Rallus","Plain-flanked Rail",EN,U,-8572416
-116,114,"aquaticus","Rallus","Water Rail",LC,U,-16731116
-117,113,"semiplumbeus","Rallus","Bogota Rail",EN,U,-8572416
-120,119,"longirostris","Rallus","Clapper Rail",LC,U,-16731116
-121,119,"elegans","Rallus","King Rail",LC,U,-16731116
-122,118,"antarcticus","Rallus","Austral Rail",VU,U,-11184866
-128,127,"flavirostra","Amaurornis","Black Crake",LC,U,-16731116
-129,127,"akool","Amaurornis","Brown Crake",LC,U,-16731116
-130,126,"moluccana","Amaurornis","Rufous-tailed Waterhen",LC,U,-16731116
-132,131,"isabellina","Amaurornis","Isabelline Waterhen",LC,U,-16731116
-133,131,"magnirostris","Amaurornis","Talaud Bush-hen",VU,U,-11184866
-135,134,"phoenicurus","Amaurornis","White-breasted Waterhen",LC,U,-16731116
-136,134,"olivacea","Amaurornis","Bush-hen",LC,U,-16731116
-138,137,"bicolor","Amaurornis","Black-tailed Crake",LC,U,-16731116
-139,137,"olivieri","Amaurornis","Sakalava Rail",EN,U,-8572416
-140,80,"haematopus","Himantornis","Nkulengu Rail",LC,U,-16731116
+12,11,"multicolor","Petroica","Scarlet Robin",LC,U,-16731116
+13,11,"phoenicea","Petroica","Flame Robin",NT,U,-12486656
+15,14,"rodinogaster","Petroica","Pink Robin",LC,U,-16731116
+16,14,"rosea","Petroica","Rose Robin",LC,U,-16731116
+18,17,"archboldi","Petroica","Snow Mountain Robin",DD,U,-11513776
+19,17,"goodenovii","Petroica","Red-capped Robin",LC,U,-16731116
+20,8,"bivittata","Petroica","Alpine Robin",LC,U,-16731116
+21,7,"australis","Petroica","New Zealand Robin",LC,U,-16731116
+23,22,"traversi","Petroica","Black Robin",EN,U,-8572416
+24,22,"macrocephala","Petroica","Tomtit",LC,U,-16731116
+25,5,"rubra","Eugerygone","Garnet Robin",LC,U,-16731116
+27,26,"hattamensis","Pachycephalopsis","Green-backed Robin",LC,U,-16731116
+28,26,"poliosoma","Pachycephalopsis","White-eyed Robin",LC,U,-16731116
+30,29,"sclateriana","Amalocichla","Greater Ground-robin",LC,U,-16731116
+31,29,"incerta","Amalocichla","Lesser Ground-robin",LC,U,-16731116
+35,34,"hemixantha","Microeca","Golden-bellied Flyrobin",NT,U,-12486656
+36,34,"flavovirescens","Microeca","Olive Flyrobin",LC,U,-16731116
+38,37,"flavigaster","Microeca","Lemon-bellied Flyrobin",LC,U,-16731116
+39,37,"fascinans","Microeca","Jacky-winter",LC,U,-16731116
+41,40,"griseoceps","Microeca","Yellow-legged Flyrobin",LC,U,-16731116
+42,40,"papuana","Microeca","Canary Flyrobin",LC,U,-16731116
+51,50,"bimaculata","Peneothello","White-rumped Robin",LC,U,-16731116
+52,50,"cryptoleuca","Peneothello","Smoky Robin",LC,U,-16731116
+54,53,"sigillatus","Peneothello","White-winged Robin",LC,U,-16731116
+55,53,"cyanus","Peneothello","Blue-grey Robin",LC,U,-16731116
+56,48,"pulverulenta","Eopsaltria","Mangrove Robin",LC,U,-16731116
+58,57,"cucullata","Melanodryas","Hooded Robin",LC,U,-16731116
+59,57,"vittata","Melanodryas","Dusky Robin",LC,U,-16731116
+60,46,"muelleriana","Monachella","Torrent Robin",LC,U,-16731116
+64,63,"leucops","Tregellasia","White-faced Robin",LC,U,-16731116
+65,63,"capito","Tregellasia","Pale-yellow Robin",LC,U,-16731116
+66,62,"georgiana","Eopsaltria","White-breasted Robin",LC,U,-16731116
+68,67,"griseogularis","Eopsaltria","Western Yellow Robin",LC,U,-16731116
+69,67,"australis","Eopsaltria","Eastern Yellow Robin",LC,U,-16731116
+70,44,"flaviventris","Eopsaltria","Yellow-bellied Robin",LC,U,-16731116
+73,72,"superciliaris","Drymodes","Northern Scrub-robin",LC,U,-16731116
+74,72,"brunneopygia","Drymodes","Southern Scrub-robin",LC,U,-16731116
+75,71,"albispecularis","Heteromyias","Grey-headed Robin",LC,U,-16731116
+80,79,"cerviniventris","Poecilodryas","Buff-sided Robin",LC,U,-16731116
+81,79,"brachyura","Poecilodryas","Black-chinned Robin",LC,U,-16731116
+82,78,"superciliosa","Poecilodryas","White-browed Robin",LC,U,-16731116
+83,77,"albonotata","Poecilodryas","Black-throated Robin",LC,U,-16731116
+85,84,"hypoleuca","Poecilodryas","Black-sided Robin",LC,U,-16731116
+86,84,"placens","Poecilodryas","Olive-yellow Robin",NT,U,-12486656

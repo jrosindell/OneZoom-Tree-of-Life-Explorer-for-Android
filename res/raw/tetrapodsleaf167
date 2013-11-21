@@ -1,108 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"fuciphaga","Collocalia","Edible-nest Swiftlet",LC,U,-16731116
-14,12,"salangana","Collocalia","Mossy-nest Swiftlet",LC,U,-16731116
-16,15,"elaphra","Collocalia","Seychelles Swiftlet",VU,U,-11184866
-17,15,"francica","Collocalia","Mascarene Swiftlet",NT,U,-12486656
-18,10,"mearnsi","Collocalia","Philippine Swiftlet",LC,U,-16731116
-22,21,"bartschi","Collocalia","Guam Swiftlet",EN,U,-8572416
-23,21,"sawtelli","Collocalia","Atiu Swiftlet",VU,U,-11184866
-24,20,"vanikorensis","Collocalia","Uniform Swiftlet",LC,U,-16731116
-25,19,"spodiopygia","Collocalia","White-rumped Swiftlet",LC,U,-16731116
-26,8,"ocista","Collocalia","Marquesan Swiftlet",LC,U,-16731116
-30,29,"whiteheadi","Collocalia","Whitehead's Swiftlet",DD,U,-11513776
-31,29,"nuditarsus","Collocalia","Bare-legged Swiftlet",LC,U,-16731116
-33,32,"terraereginae","Collocalia","Australian Swiftlet",_U,[,-16777216
-34,32,"pelewensis","Collocalia","Palau Swiftlet",LC,U,-16731116
-37,36,"maxima","Collocalia","Black-nest Swiftlet",LC,U,-16731116
-38,36,"leucophaea","Collocalia","Tahiti Swiftlet",VU,U,-11184866
-39,35,"brevirostris","Collocalia","Himalayan Swiftlet",LC,U,-16731116
-45,44,"schoutedeni","Schoutedenapus","Schouteden's Swift",VU,U,-11184866
-46,44,"myoptilus","Schoutedenapus","Scarce Swift",LC,U,-16731116
-47,43,"hirundinacea","Collocalia","Mountain Swiftlet",LC,U,-16731116
-49,48,"vulcanorum","Collocalia","Volcano Swiftlet",NT,U,-12486656
-50,48,"germani","Collocalia","German's Swiftlet",LC,U,-16731116
-53,52,"inquieta","Collocalia","Micronesian Swiftlet",LC,U,-16731116
-54,52,"gigas","Hydrochous","Waterfall Swift",NT,U,-12486656
-56,55,"palawanensis","Collocalia","Palawan Swiftlet",LC,U,-16731116
-57,55,"amelis","Collocalia","Grey Swiftlet",LC,U,-16731116
-59,58,"infuscata","Collocalia","Moluccan Swiftlet",LC,U,-16731116
-60,58,"papuensis","Collocalia","Papuan Swiftlet",DD,U,-11513776
-65,64,"esculenta","Collocalia","Glossy Swiftlet",LC,U,-16731116
-66,64,"linchi","Collocalia","Cave Swiftlet",LC,U,-16731116
-67,63,"orientalis","Collocalia","Mayr's Swiftlet",DD,U,-11513776
-68,62,"unicolor","Collocalia","Indian Swiftlet",LC,U,-16731116
-70,69,"rogersi","Collocalia","Indochinese Swiftlet",LC,U,-16731116
-71,69,"troglodytes","Collocalia","Pygmy Swiftlet",LC,U,-16731116
-82,81,"pallidus","Apus","Pallid Swift",LC,U,-16731116
-83,81,"unicolor","Apus","Plain Swift",LC,U,-16731116
-85,84,"batesi","Apus","Bates's Swift",LC,U,-16731116
-86,84,"horus","Apus","Horus Swift",LC,U,-16731116
-87,79,"sladeniae","Apus","Fernando Po Swift",DD,U,-11513776
-90,89,"toulsoni","Apus","Loanda Swift",LC,U,-16731116
-91,89,"apus","Apus","Common Swift",LC,U,-16731116
-92,88,"berliozi","Apus","Forbes-Watson's Swift",LC,U,-16731116
-95,94,"nipalensis","Apus","House Swift",LC,U,-16731116
-96,94,"affinis","Apus","Little Swift",LC,U,-16731116
-97,93,"balstoni","Apus","Madagascar Swift",LC,U,-16731116
-101,100,"pacificus","Apus","Fork-tailed Swift",LC,U,-16731116
-102,100,"alexandri","Apus","Alexander's Swift",LC,U,-16731116
-103,99,"bradfieldi","Apus","Bradfield's Swift",LC,U,-16731116
-105,104,"caffer","Apus","White-rumped Swift",LC,U,-16731116
-106,104,"niansae","Apus","Nyanza Swift",LC,U,-16731116
-108,107,"acuticauda","Apus","Dark-rumped Swift",VU,U,-11184866
-109,107,"barbatus","Apus","African Black Swift",LC,U,-16731116
-111,110,"aequatorialis","Tachymarptis","Mottled Swift",LC,U,-16731116
-112,110,"melba","Tachymarptis","Alpine Swift",LC,U,-16731116
-115,114,"sanctihieronymi","Panyptila","Great Swallow-tailed Swift",LC,U,-16731116
-116,114,"cayennensis","Panyptila","Lesser Swallow-tailed Swift",LC,U,-16731116
-118,117,"balasiensis","Cypsiurus","Asian Palm-swift",LC,U,-16731116
-119,117,"parvus","Cypsiurus","African Palm-swift",LC,U,-16731116
-123,122,"phoenicobia","Tachornis","Antillean Palm-swift",LC,U,-16731116
-124,122,"furcata","Tachornis","Pygmy Swift",LC,U,-16731116
-125,121,"squamata","Tachornis","Fork-tailed Palm-swift",LC,U,-16731116
-128,127,"saxatalis","Aeronautes","White-throated Swift",LC,U,-16731116
-129,127,"montivagus","Aeronautes","White-tipped Swift",LC,U,-16731116
-130,126,"andecolus","Aeronautes","Andean Swift",LC,U,-16731116
-134,133,"cochinchinensis","Hirundapus","Silver-backed Needletail",LC,U,-16731116
-135,133,"caudacutus","Hirundapus","White-throated Needletail",LC,U,-16731116
-136,132,"giganteus","Hirundapus","Brown-backed Needletail",LC,U,-16731116
-137,131,"celebensis","Hirundapus","Purple Needletail",LC,U,-16731116
-147,146,"pelagica","Chaetura","Chimney Swift",NT,U,-12486656
-148,146,"vauxi","Chaetura","Vaux's Swift",LC,U,-16731116
-149,145,"viridipennis","Chaetura","Amazonian Swift",LC,U,-16731116
-150,144,"martinica","Chaetura","Lesser Antillean Swift",LC,U,-16731116
-153,152,"egregia","Chaetura","Pale-rumped Swift",LC,U,-16731116
-154,152,"chapmani","Chaetura","Chapman's Swift",LC,U,-16731116
-155,151,"brachyura","Chaetura","Short-tailed Swift",LC,U,-16731116
-156,142,"meridionalis","Chaetura","Sick's Swift",LC,U,-16731116
-159,158,"cinereiventris","Chaetura","Grey-rumped Swift",LC,U,-16731116
-160,158,"spinicaudus","Chaetura","Band-rumped Swift",LC,U,-16731116
-161,157,"fumosa","Chaetura","Costa Rican Swift",LC,U,-16731116
-163,162,"novaeguineae","Mearnsia","Papuan Needletail",LC,U,-16731116
-164,162,"picina","Mearnsia","Philippine Needletail",NT,U,-12486656
-168,167,"sylvatica","Zoonavena","White-rumped Spinetail",LC,U,-16731116
-169,167,"thomensis","Zoonavena","Sao Tome Spinetail",LC,U,-16731116
-170,166,"grandidieri","Zoonavena","Malagasy Spinetail",LC,U,-16731116
-172,171,"cassini","Neafrapus","Cassin's Spinetail",LC,U,-16731116
-173,171,"boehmi","Neafrapus","Bat-like Spinetail",LC,U,-16731116
-176,175,"leucopygialis","Rhaphidura","Silver-rumped Spinetail",LC,U,-16731116
-177,175,"sabini","Rhaphidura","Sabine's Spinetail",LC,U,-16731116
-179,178,"melanopygia","Telacanthura","Black Spinetail",LC,U,-16731116
-180,178,"ussheri","Telacanthura","Mottled Spinetail",LC,U,-16731116
-186,185,"rothschildi","Cypseloides","Rothschild's Swift",NT,U,-12486656
-187,185,"senex","Cypseloides","Great Dusky Swift",LC,U,-16731116
-188,184,"niger","Cypseloides","American Black Swift",LC,U,-16731116
-190,189,"storeri","Cypseloides","White-fronted Swift",DD,U,-11513776
-191,189,"cryptus","Cypseloides","White-chinned Swift",LC,U,-16731116
-194,193,"cherriei","Cypseloides","Spot-fronted Swift",DD,U,-11513776
-195,193,"fumigatus","Cypseloides","Sooty Swift",LC,U,-16731116
-196,192,"lemosi","Cypseloides","White-chested Swift",LC,U,-16731116
-200,199,"zonaris","Streptoprocne","White-collared Swift",LC,U,-16731116
-201,199,"biscutata","Streptoprocne","Biscutate Swift",LC,U,-16731116
-202,198,"semicollaris","Streptoprocne","White-naped Swift",LC,U,-16731116
-204,203,"rutila","Streptoprocne","Chestnut-collared Swift",LC,U,-16731116
-205,203,"phelpsi","Streptoprocne","Tepui Swift",LC,U,-16731116
-209,208,"longipennis","Hemiprocne","Grey-rumped Treeswift",LC,U,-16731116
-210,208,"mystacea","Hemiprocne","Moustached Treeswift",LC,U,-16731116
-211,207,"coronata","Hemiprocne","Crested Treeswift",LC,U,-16731116
-212,206,"comata","Hemiprocne","Whiskered Treeswift",LC,U,-16731116
+8,7,"ruficollis","Pomatorhinus","Streak-breasted Scimitar-babbler",LC,U,-16731116
+9,7,"schisticeps","Pomatorhinus","White-browed Scimitar-babbler",LC,U,-16731116
+10,6,"musicus","Pomatorhinus","Taiwan Scimitar-babbler",LC,U,-16731116
+12,11,"mcclellandi","Pomatorhinus","Spot-breasted Scimitar-babbler",LC,U,-16731116
+13,11,"montanus","Pomatorhinus","Chestnut-backed Scimitar-babbler",LC,U,-16731116
+16,15,"roberti","Sphenocichla","Chevron-breasted Babbler",NT,U,-12486656
+17,15,"humei","Sphenocichla","Blackish-breasted Babbler",NT,U,-12486656
+18,14,"superciliaris","Xiphirhynchus","Slender-billed Scimitar-babbler",LC,U,-16731116
+22,21,"swinhoei","Pomatorhinus","Grey-sided Scimitar-babbler",LC,U,-16731116
+23,21,"grata","Malia","Malia",LC,U,-16731116
+24,20,"ochraceiceps","Pomatorhinus","Red-billed Scimitar-babbler",LC,U,-16731116
+25,19,"ferruginosus","Pomatorhinus","Coral-billed Scimitar-babbler",LC,U,-16731116
+28,27,"melanurus","Pomatorhinus","Sri Lanka Scimitar-babbler",LC,U,-16731116
+29,27,"nigriceps","Stachyris","Grey-throated Babbler",LC,U,-16731116
+30,26,"poliocephala","Stachyris","Grey-headed Babbler",LC,U,-16731116
+31,1,"striolata","Stachyris","Spot-necked Babbler",LC,U,-16731116
+35,34,"gravivox","Pomatorhinus","Black-streaked Scimitar-babbler",LC,U,-16731116
+36,34,"hypoleucos","Pomatorhinus","Large Scimitar-babbler",LC,U,-16731116
+37,33,"erythrogenys","Pomatorhinus","Rusty-cheeked Scimitar-babbler",LC,U,-16731116
+40,39,"horsfieldii","Pomatorhinus","Indian Scimitar-babbler",LC,U,-16731116
+41,39,"melanothorax","Stachyris","Crescent-chested Babbler",LC,U,-16731116
+42,38,"erythrocnemis","Pomatorhinus","Black-necklaced Scimitar-babbler",LC,U,-16731116

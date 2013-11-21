@@ -1,54 +1,88 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"rappiodes","Boophis","",LC,D,-16731116
-11,9,"bottae","Boophis","",LC,D,-16731116
-13,12,"tasymena","Boophis","",LC,D,-16731116
-14,12,"viridis","Boophis","",LC,D,-16731116
-15,7,"erythrodactylus","Boophis","",LC,D,-16731116
-16,6,"jaegeri","Boophis","",VU,D,-11184866
-21,20,"luteus","Boophis","",LC,D,-16731116
-22,20,"elenae","Boophis","",DD,U,-11513776
-23,19,"andohahela","Boophis","",DD,U,-11513776
-24,18,"englaenderi","Boophis","",DD,U,-11513776
-25,17,"andreonei","Boophis","",VU,D,-11184866
-29,28,"mandraka","Boophis","",DD,U,-11513776
-30,28,"solomaso","Boophis","",DD,U,-11513776
-32,31,"sambirano","Boophis","",VU,D,-11184866
-33,31,"liami","Boophis","",DD,U,-11513776
-34,26,"anjanaharibeensis","Boophis","",DD,U,-11513776
-38,37,"ankaratra","Boophis","",LC,U,-16731116
-39,37,"sibilans","Boophis","",DD,U,-11513776
-40,36,"schuboeae","Boophis","",DD,U,-11513776
-41,35,"albipunctatus","Boophis","",LC,D,-16731116
-50,49,"goudotii","Boophis","",LC,S,-16731116
-51,49,"boehmei","Boophis","",LC,D,-16731116
-52,48,"reticulatus","Boophis","",LC,D,-16731116
-53,47,"periegetes","Boophis","",DD,U,-11513776
-54,46,"rufioculis","Boophis","",NT,D,-12486656
-55,45,"madagascariensis","Boophis","",LC,D,-16731116
-56,44,"brachychir","Boophis","",DD,U,-11513776
-57,43,"burgeri","Boophis","",DD,U,-11513776
-59,58,"occidentalis","Boophis","",NT,D,-12486656
-60,58,"albilabris","Boophis","",LC,D,-16731116
-68,67,"picturatus","Boophis","",LC,D,-16731116
-69,67,"miniatus","Boophis","",LC,D,-16731116
-70,66,"marojezensis","Boophis","",LC,D,-16731116
-72,71,"septentionalis","Boophis","",NE,U,-16777216
-73,71,"pyrrhus","Boophis","",LC,D,-16731116
-74,64,"haematopus","Boophis","",VU,D,-11184866
-77,76,"feonnyala","Boophis","",DD,U,-11513776
-78,76,"vittatus","Boophis","",LC,D,-16731116
-79,75,"majori","Boophis","",NT,D,-12486656
-80,62,"blommersae","Boophis","",VU,D,-11184866
-84,83,"rhodoscelis","Boophis","",NT,D,-12486656
-85,83,"laurenti","Boophis","",DD,U,-11513776
-86,82,"microtympanum","Boophis","",LC,D,-16731116
-87,81,"williamsi","Boophis","",CR,D,-3014646
-94,93,"xerophilus","Boophis","",DD,U,-11513776
-95,93,"doulioti","Boophis","",LC,S,-16731116
-97,96,"hillenii","Boophis","",DD,U,-11513776
-98,96,"idae","Boophis","",LC,U,-16731116
-99,91,"tephraeomystax","Boophis","",LC,S,-16731116
-101,100,"lichenoides","Boophis","",LC,D,-16731116
-102,100,"pauliani","Boophis","",LC,D,-16731116
-103,89,"opisthodon","Boophis","",LC,S,-16731116
-104,88,"guibei","Boophis","",LC,D,-16731116
+14,13,"keyensis","Pteropus","Kei Flying Fox",DD,U,-11513776
+15,13,"aruensis","Pteropus","Aru Flying Fox",CR,U,-3014646
+16,12,"melanopogon","Pteropus","Black-bearded Flying Fox",EN,D,-8572416
+17,11,"livingstonii","Pteropus","Comoro Black Flying Fox",EN,D,-8572416
+20,19,"poliocephalus","Pteropus","Grey-headed Flying Fox",VU,D,-11184866
+21,19,"macrotis","Pteropus","Large-eared Flying Fox",LC,S,-16731116
+22,18,"pohlei","Pteropus","Geelvink Bay Flying Fox",EN,D,-8572416
+26,25,"intermedius","Pteropus","Andersen's Flying Fox",DD,U,-11513776
+27,25,"vampyrus","Pteropus","Large Flying-fox",NT,D,-12486656
+29,28,"giganteus","Pteropus","Indian Flying Fox",LC,D,-16731116
+30,28,"lylei","Pteropus","Lyle's Flying Fox",VU,D,-11184866
+32,31,"conspicillatus","Pteropus","Spectacled Flying Fox",LC,S,-16731116
+33,31,"ocularis","Pteropus","Seram Flying Fox",VU,D,-11184866
+37,36,"aldabrensis","Pteropus","Aldabra Flying-fox",VU,S,-11184866
+38,36,"voeltzkowi","Pteropus","Pemba Flying Fox",VU,I,-11184866
+39,35,"seychellensis","Pteropus","Seychelles Flying Fox",LC,S,-16731116
+41,40,"niger","Pteropus","Greater Mascarene Flying Fox",EN,D,-8572416
+42,40,"rufus","Pteropus","Madagascan Flying Fox",VU,D,-11184866
+48,47,"vetulus","Pteropus","New Caledonia Flying Fox",VU,D,-11184866
+49,47,"nitendiensis","Pteropus","Temotu Flying Fox",EN,D,-8572416
+51,50,"insularis","Pteropus","Chuuk Flying Fox",DD,U,-11513776
+52,50,"pselaphon","Pteropus","Bonin Flying Fox",CR,D,-3014646
+54,53,"leucopterus","Pteropus","Mottle-winged Flying Fox",LC,D,-16731116
+55,53,"tuberculatus","Pteropus","Vanikoro Flying Fox",CR,U,-3014646
+58,57,"molossinus","Pteropus","Pohnpei Flying Fox",VU,S,-11184866
+59,57,"lombocensis","Pteropus","Lombok Flying Fox",DD,U,-11513776
+60,56,"rodricensis","Pteropus","Rodrigues Flying Fox",CR,I,-3014646
+61,43,"alecto","Pteropus","Black Flying Fox",LC,S,-16731116
+64,63,"caniceps","Pteropus","North Moluccan Flying Fox",NT,D,-12486656
+65,63,"ornatus","Pteropus","Ornate Flying Fox",VU,D,-11184866
+66,62,"admiralitatum","Pteropus","Admiralty Flying Fox",LC,U,-16731116
+75,74,"mariannus","Pteropus","Marianas Flying Fox",EN,D,-8572416
+76,74,"ualanus","Pteropus","Kosrae Flying Fox",VU,S,-11184866
+78,77,"pelewensis","Pteropus","Palau Flying Fox",NT,S,-12486656
+79,77,"yapensis","Pteropus","Yap Flying Fox",VU,U,-11184866
+80,72,"loochoensis","Pteropus","Okinawa Flying-fox",DD,U,-11513776
+81,71,"tonganus","Pteropus","Pacific Flying Fox",LC,D,-16731116
+86,85,"scapulatus","Pteropus","Little Red Flying Fox",LC,S,-16731116
+87,85,"mahaganus","Pteropus","Sanborn's Flying Fox",VU,D,-11184866
+88,84,"woodfordi","Pteropus","Dwarf Flying Fox",VU,D,-11184866
+89,83,"gilliardorum","Pteropus","Gilliard's Flying Fox",DD,U,-11513776
+90,82,"howensis","Pteropus","Ontong Java Flying Fox",DD,U,-11513776
+91,69,"griseus","Pteropus","Gray Flying Fox",DD,U,-11513776
+94,93,"speciosus","Pteropus","Philippine Gray Flying Fox",DD,U,-11513776
+95,93,"neohibernicus","Pteropus","Great Flying Fox",LC,U,-16731116
+97,96,"anetianus","Pteropus","Vanauatu Flying Fox",VU,D,-11184866
+98,96,"samoensis","Pteropus","Samoan Flying Fox",NT,D,-12486656
+107,106,"rennelli","Pteropus","Rennell Flying Fox",VU,S,-11184866
+108,106,"rayneri","Pteropus","Solomons Flying Fox",NT,D,-12486656
+109,105,"cognatus","Pteropus","Makira Flying Fox",EN,D,-8572416
+111,110,"chrysoproctus","Pteropus","Moluccan Flying Fox",NT,D,-12486656
+112,110,"fundatus","Pteropus","Banks Flying Fox",EN,D,-8572416
+113,103,"faunulus","Pteropus","Nicobar Flying Fox",VU,D,-11184866
+116,115,"temminckii","Pteropus","Temminck's Flying Fox",VU,D,-11184866
+117,115,"capistratus","Pteropus","Bismarck Flying Fox",EN,D,-8572416
+118,114,"personatus","Pteropus","Moluccan Masked Flying Fox",LC,S,-16731116
+120,119,"pumilus","Pteropus","Little Golden-mantled Flying-fox",NT,D,-12486656
+121,119,"hypomelanus","Pteropus","Island Flying Fox",LC,D,-16731116
+122,100,"dasymallus","Pteropus","Ryukyu Flying Fox",NT,D,-12486656
+123,99,"melanotus","Pteropus","Blyth's Flying Fox",VU,D,-11184866
+127,126,"jubatus","Acerodon","Golden-capped Fruit Bat",EN,D,-8572416
+128,126,"leucotis","Acerodon","Palawan Flying Fox",VU,D,-11184866
+130,129,"celebensis","Acerodon","Sulawesi Fruit Bat",LC,U,-16731116
+131,129,"humilis","Acerodon","Talaud Fruit Bat",EN,D,-8572416
+132,124,"mackloti","Acerodon","Sunda Fruit Bat",VU,D,-11184866
+136,135,"atrata","Pteralopex","Guadalcanal Monkey-faced Bat",EN,D,-8572416
+137,135,"pulchra","Pteralopex","Montane Monkey-faced Bat",CR,D,-3014646
+138,134,"acrodonta","Pteralopex","",NE,U,-16777216
+139,133,"anceps","Pteralopex","Bougainville Monkey-faced Bat",EN,D,-8572416
+141,140,"wallacei","Styloctenium","Stripe-faced Fruit Bat",VU,D,-11184866
+142,140,"frosti","Neopteryx","Small-toothed Fruit Bat",EN,D,-8572416
+153,152,"crenulata","Dobsonia","Halmahera Naked-backed Fruit Bat",LC,S,-16731116
+154,152,"viridis","Dobsonia","Greenish Naked-backed Fruit Bat",LC,S,-16731116
+155,151,"praedatrix","Dobsonia","Bismarck Bare-backed Fruit Bat",LC,U,-16731116
+156,150,"beauforti","Dobsonia","Beaufort's Bare-backed Fruit Bat",LC,U,-16731116
+157,149,"inermis","Dobsonia","Solomons Bare-backed Fruit Bat",LC,S,-16731116
+158,148,"exoleta","Dobsonia","Sulawesi Naked-backed Fruit Bat",LC,U,-16731116
+160,159,"peronii","Dobsonia","Western Naked-backed Fruit Bat",LC,S,-16731116
+161,159,"minor","Dobsonia","Lesser Bare-backed Fruit Bat",LC,U,-16731116
+164,163,"moluccensis","Dobsonia","Moluccan Naked-backed Fruit Bat",LC,S,-16731116
+165,163,"magna","Dobsonia","",NE,U,-16777216
+166,162,"anderseni","Dobsonia","Andersen's Bare-backed Fruit Bat",LC,S,-16731116
+167,145,"pannietensis","Dobsonia","Panaeati Bare-backed Fruit Bat",NT,U,-12486656
+168,144,"emersa","Dobsonia","Biak Bare-backed Fruit Bat",VU,U,-11184866
+169,143,"bulmerae","Aproteles","Bulmer's Fruit Bat",CR,D,-3014646
+171,170,"celebensis","Harpyionycteris","Sulawesi Harpy Fruit Bat",VU,D,-11184866
+172,170,"whiteheadi","Harpyionycteris","Harpy Fruit Bat",LC,S,-16731116

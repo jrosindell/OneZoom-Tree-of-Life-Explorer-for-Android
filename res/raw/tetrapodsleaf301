@@ -1,70 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"drouhardi","Microgale","Striped Shrew Tenrec",LC,D,-16731116
-17,15,"taiva","Microgale","Taiva Shrew Tenrec",LC,D,-16731116
-18,14,"cowani","Microgale","Cowan's Shrew Tenrec",LC,D,-16731116
-19,13,"talazaci","Microgale","Talzac's Shrew Tenrec",LC,D,-16731116
-20,12,"gracilis","Microgale","Gracile Shrew Tenrec",LC,D,-16731116
-21,11,"dryas","Microgale","Tree Shrew Tenrec",VU,D,-11184866
-22,10,"longicaudata","Microgale","Lesser Long-tailed Shrew Tenrec",LC,D,-16731116
-23,9,"brevicaudata","Microgale","Short-tailed Shrew Tenrec",LC,D,-16731116
-27,26,"principula","Microgale","Greater Long-tailed Shrew Tenrec",LC,D,-16731116
-28,26,"pusilla","Microgale","Lesser Shrew Tenrec",LC,S,-16731116
-30,29,"dobsoni","Microgale","Dobson's Shrew Tenrec",LC,D,-16731116
-31,29,"thomasi","Microgale","Thomas' Shrew Tenrec",LC,D,-16731116
-32,24,"parvula","Microgale","Pygmy Shrew Tenrec",LC,D,-16731116
-34,33,"tetradactylus","Oryzorictes","Four-toed Mole Tenrec",DD,U,-11513776
-35,33,"hova","Oryzorictes","Hova Mole Tenrec",LC,D,-16731116
-36,6,"aurita","Geogale","Large-eared Tenrec",LC,U,-16731116
-40,39,"ruwenzorii","Micropotamogale","Rwenzori Otter Shrew",NT,U,-12486656
-41,39,"lamottei","Micropotamogale","Nimba Otter Shrew",EN,D,-8572416
-42,38,"velox","Potamogale","Giant Otter-shrew",LC,D,-16731116
-43,37,"mergulus","Limnogale","Aquatic Tenrec",VU,U,-11184866
-47,46,"semispinosus","Hemicentetes","Lowland Streaked Tenrec",LC,U,-16731116
-48,46,"nigriceps","Hemicentetes","Highland Streaked Tenrec",LC,U,-16731116
-49,45,"ecaudatus","Tenrec","Common Tenrec",LC,S,-16731116
-51,50,"telfairi","Echinops","Lesser Hedgehog Tenrec",LC,S,-16731116
-52,50,"setosus","Setifer","Greater Hedgehog Tenrec",LC,S,-16731116
-60,59,"septentrionalis","Amblysomus","Highveld Golden Mole",NT,U,-12486656
-61,59,"hottentotus","Amblysomus","Hottentot Golden Mole",LC,U,-16731116
-62,58,"corriae","Amblysomus","Fynbos Golden Mole",NT,U,-12486656
-63,57,"marleyi","Amblysomus","Marley's Golden Mole",EN,U,-8572416
-65,64,"gunningi","Neamblysomus","Gunning's Golden Mole",EN,U,-8572416
-66,64,"julianae","Neamblysomus","Juliana's Golden Mole",VU,U,-11184866
-67,55,"obtusirostris","Calcochloris","Yellow Golden Mole",LC,U,-16731116
-70,69,"stuhlmanni","Chrysochloris","Stuhlmann's Golden Mole",LC,U,-16731116
-71,69,"visagiei","Chrysochloris","Visagie's Golden Mole",DD,U,-11513776
-72,68,"asiatica","Chrysochloris","Cape Golden Mole",LC,U,-16731116
-78,77,"tytonis","Calcochloris","Somali Golden Mole",DD,U,-11513776
-79,77,"arendsi","Carpitalpa","Arend's Golden Mole",VU,U,-11184866
-80,76,"leucorhinus","Calcochloris","Congo Golden Mole",DD,U,-11513776
-81,75,"duthieae","Chlorotalpa","Duthie's Golden Mole",VU,U,-11184866
-82,74,"sclateri","Chlorotalpa","Sclater's Golden Mole",LC,U,-16731116
-84,83,"villosus","Chrysospalax","Rough-haired Golden Mole",VU,U,-11184866
-85,83,"trevelyani","Chrysospalax","Giant Golden Mole",EN,U,-8572416
-95,94,"fuscipes","Elephantulus","Dusky-footed Elephant Shrew",DD,U,-11513776
-96,94,"fuscus","Elephantulus","Dusky Elephant Shrew",DD,U,-11513776
-97,93,"brachyrhynchus","Elephantulus","Short-snouted Elephant Shrew",LC,U,-16731116
-99,98,"rupestris","Elephantulus","Western Rock Elephant Shrew",LC,U,-16731116
-100,98,"intufi","Elephantulus","Bushveld Elephant Shrew",LC,S,-16731116
-102,101,"rufescens","Elephantulus","Rufous Elephant-shrew",LC,S,-16731116
-103,101,"revoili","Elephantulus","Somali Elephant Shrew",DD,U,-11513776
-105,104,"myurus","Elephantulus","Eastern Rock Elephant Shrew",LC,S,-16731116
-106,104,"edwardii","Elephantulus","Cape Elephant Shrew",LC,U,-16731116
-107,89,"rozeti","Elephantulus","North African Elephant Shrew",LC,U,-16731116
-108,88,"proboscideus","Macroscelides","Round-eared Elephant Shrew",LC,U,-16731116
-109,87,"tetradactylus","Petrodromus","Four-toed Sengi",LC,S,-16731116
-112,111,"chrysopygus","Rhynchocyon","Golden-rumped Elephant Shrew",EN,D,-8572416
-113,111,"petersi","Rhynchocyon","Black And Rufous Elephant Shrew",VU,U,-11184866
-114,110,"cirnei","Rhynchocyon","Checkered Sengi",NT,U,-12486656
-115,1,"afer","Orycteropus","Aardvark",LC,U,-16731116
-121,120,"arboreus","Dendrohyrax","Southern Tree Hyrax",LC,U,-16731116
-122,120,"dorsalis","Dendrohyrax","Western Tree Hyrax",LC,U,-16731116
-123,119,"brucei","Heterohyrax","Bush Hyrax",LC,U,-16731116
-124,118,"capensis","Procavia","Rock Hyrax",LC,U,-16731116
-128,127,"senegalensis","Trichechus","African Manatee",VU,U,-11184866
-129,127,"manatus","Trichechus","American Manatee",VU,D,-11184866
-130,126,"inunguis","Trichechus","Amazonian Manatee",VU,D,-11184866
-131,125,"dugon","Dugong","Dugong",VU,U,-11184866
-134,133,"africana","Loxodonta","African Elephant",NT,I,-12486656
-135,133,"cyclotis","Loxodonta","",NE,U,-16777216
-136,132,"maximus","Elephas","Asian Elephant",EN,D,-8572416
+10,9,"brachysoma","Eulamprus","",NE,U,-16777216
+11,9,"martini","Eulamprus","",NE,U,-16777216
+12,8,"tigrinus","Eulamprus","",NE,U,-16777216
+13,7,"tenuis","Eulamprus","",NE,U,-16777216
+14,6,"amplus","Eulamprus","",NE,U,-16777216
+15,5,"heatwolei","Eulamprus","",NE,U,-16777216
+17,16,"luteilateralis","Eulamprus","",NE,U,-16777216
+18,16,"tympanum","Eulamprus","",EN,U,-8572416
+21,20,"leuraensis","Eulamprus","Blue Mountain Water Skink",EN,U,-8572416
+22,20,"quoyii","Eulamprus","",NE,U,-16777216
+23,19,"murrayi","Eulamprus","",NE,U,-16777216
+24,2,"queenslandiae","Gnypetoscincus","",NE,U,-16777216
+28,27,"cooloolensis","Ophioscincus","",NE,U,-16777216
+29,27,"ophioscincus","Ophioscincus","",NE,U,-16777216
+30,26,"truncatus","Ophioscincus","",NE,U,-16777216
+33,32,"reticulatum","Coeranoscincus","",NE,U,-16777216
+34,32,"frontalis","Coeranoscincus","",NE,U,-16777216
+35,31,"equalis","Saiphos","",NE,U,-16777216
+39,38,"scutirostrum","Calyptotis","",NE,U,-16777216
+40,38,"temporalis","Calyptotis","",NE,U,-16777216
+42,41,"lepidorostrum","Calyptotis","",NE,U,-16777216
+43,41,"ruficauda","Calyptotis","",NE,U,-16777216
+44,36,"thorntonensis","Calyptotis","",NE,U,-16777216

@@ -1,23 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"gracilicauda","Acontias","",NE,U,-16777216
-12,10,"plumbeus","Acontias","",NE,U,-16777216
-13,9,"breviceps","Acontias","",NE,U,-16777216
-14,8,"percivali","Acontias","",NE,U,-16777216
-15,7,"litoralis","Acontias","",NE,U,-16777216
-16,6,"meleagris","Acontias","",NE,U,-16777216
-17,5,"lineatus","Acontophiops","Woodbush Legless Skink",VU,U,-11184866
-23,22,"brevicollis","Anomalopus","",NE,U,-16777216
-24,22,"gowi","Anomalopus","",NE,U,-16777216
-25,21,"pluto","Anomalopus","",NE,U,-16777216
-27,26,"leuckartii","Anomalopus","",NE,U,-16777216
-28,26,"verreauxi","Anomalopus","",NE,U,-16777216
-29,19,"swansoni","Anomalopus","",NE,U,-16777216
-30,18,"mackayi","Anomalopus","Long-legged Worm-skink",VU,U,-11184866
-33,32,"smithi","Oligosoma","",NE,U,-16777216
-34,32,"moco","Oligosoma","",NE,U,-16777216
-35,31,"zelandicum","Oligosoma","",NE,U,-16777216
-36,2,"caecus","Typhlosaurus","",NE,U,-16777216
-39,38,"bivittatus","Ablepharus","Two-streaked Snake-eyed Skink",LC,D,-16731116
-40,38,"deserti","Ablepharus","",NE,U,-16777216
-41,37,"kitaibelii","Ablepharus","European Copper Skink",LC,S,-16731116
-42,0,"blochmanni","Leptosiaphos","",NE,U,-16777216
+9,8,"calthropae","Psittacula","Emerald-collared Parakeet",LC,U,-16731116
+10,8,"columboides","Psittacula","Malabar Parakeet",LC,U,-16731116
+11,7,"longicauda","Psittacula","Long-tailed Parakeet",NT,U,-12486656
+13,12,"alexandri","Psittacula","Red-breasted Parakeet",LC,U,-16731116
+14,12,"derbiana","Psittacula","Derbyan Parakeet",LC,U,-16731116
+17,16,"krameri","Psittacula","Rose-ringed Parakeet",LC,U,-16731116
+18,16,"eques","Psittacula","Mauritius Parakeet",EN,U,-8572416
+19,15,"eupatria","Psittacula","Alexandrine Parakeet",LC,U,-16731116
+23,22,"cyanocephala","Psittacula","Plum-headed Parakeet",LC,U,-16731116
+24,22,"roseata","Psittacula","Blossom-headed Parakeet",LC,U,-16731116
+26,25,"himalayana","Psittacula","Slaty-headed Parakeet",LC,U,-16731116
+27,25,"finschii","Psittacula","Grey-headed Parakeet",LC,U,-16731116
+28,20,"caniceps","Psittacula","Nicobar Parakeet",NT,U,-12486656
+32,31,"megalorynchos","Tanygnathus","Great-billed Parrot",LC,U,-16731116
+33,31,"gramineus","Tanygnathus","Black-lored Parrot",VU,U,-11184866
+34,30,"lucionensis","Tanygnathus","Blue-naped Parrot",NT,U,-12486656
+35,29,"sumatranus","Tanygnathus","Blue-backed Parrot",LC,U,-16731116
+39,38,"simplex","Geoffroyus","Blue-collared Parrot",LC,U,-16731116
+40,38,"heteroclitus","Geoffroyus","Singing Parrot",LC,U,-16731116
+41,37,"geoffroyi","Geoffroyus","Red-cheeked Parrot",LC,U,-16731116
+42,36,"cyanurus","Psittinus","Blue-rumped Parrot",NT,U,-12486656
+43,1,"roratus","Eclectus","Eclectus Parrot",LC,U,-16731116
+49,48,"flavicans","Prioniturus","Yellowish-breasted Racquet-tail",NT,U,-12486656
+50,48,"montanus","Prioniturus","Luzon Racquet-tail",NT,U,-12486656
+52,51,"verticalis","Prioniturus","Blue-winged Racquet-tail",EN,U,-8572416
+53,51,"discurus","Prioniturus","Blue-crowned Racquet-tail",LC,U,-16731116
+56,55,"platenae","Prioniturus","Blue-headed Racquet-tail",VU,U,-11184866
+57,55,"mada","Prioniturus","Buru Racquet-tail",LC,U,-16731116
+58,54,"platurus","Prioniturus","Golden-mantled Racquet-tail",LC,U,-16731116
+59,45,"luconensis","Prioniturus","Green Racquet-tail",VU,U,-11184866
+60,44,"waterstradti","Prioniturus","Mindanao Racquet-tail",NT,U,-12486656

@@ -1,81 +1,84 @@
 index,parent,name1,name2,common,redlist,popstab,color
-29,28,"tullbergi","Praomys","Tullberg's Praomys",LC,S,-16731116
-30,28,"morio","Praomys","Cameroon Praomys",EN,D,-8572416
-31,27,"rostratus","Praomys","Forest Soft-furred Mouse",LC,U,-16731116
-32,26,"mutoni","Praomys","Muton's Soft-furred Mouse",DD,U,-11513776
-34,33,"jacksoni","Praomys","Jackson's Praomys",LC,S,-16731116
-35,33,"minor","Praomys","Least Praomys",DD,U,-11513776
-38,37,"hartwigi","Praomys","Hartwig's Praomys",EN,D,-8572416
-39,37,"obscurus","Praomys","",EN,D,-8572416
-40,36,"delectorum","Praomys","Delectable Soft-furred Mouse",NT,S,-12486656
-41,23,"misonnei","Praomys","Misonne's Praomys",LC,S,-16731116
-50,49,"istapantap","Mallomys","Subalpine Woolly Rat",LC,U,-16731116
-51,49,"gunung","Mallomys","Alpine Woolly Rat",EN,D,-8572416
-52,48,"aroaensis","Mallomys","De Vis's Woolly Rat",LC,U,-16731116
-53,47,"rothschildi","Mallomys","Rothschild's Woolly Rat",LC,S,-16731116
-54,46,"asper","Parahydromys","Waterside Rat",LC,U,-16731116
-56,55,"elegans","Macruromys","Lesser Small-toothed Rat",DD,U,-11513776
-57,55,"major","Macruromys","Greater Small-toothed Rat",LC,S,-16731116
-60,59,"lamia","Chiruromys","Broad-headed Tree Mouse",LC,U,-16731116
-61,59,"forbesi","Chiruromys","Forbes's Tree Mouse",LC,S,-16731116
-62,58,"vates","Chiruromys","Lesser Tree Mouse",LC,S,-16731116
-65,64,"dammermani","Hyomys","Western White-eared Giant Rat",DD,U,-11513776
-66,64,"goliath","Hyomys","Eastern White-eared Giant Rat",LC,U,-16731116
-67,63,"barbatus","Xenuromys","Rock-dwelling Giant Rat",LC,U,-16731116
-77,76,"stannarius","Aethomys","Tinfields Rock Rat",DD,U,-11513776
-78,76,"namaquensis","Micaelamys","",NE,U,-16777216
-79,75,"bocagei","Aethomys","Bocage's Rock Rat",LC,U,-16731116
-81,80,"thomasi","Aethomys","Thomas's Rock Rat",LC,U,-16731116
-82,80,"nyikae","Aethomys","Nyika Rock Rat",LC,U,-16731116
-84,83,"kaiseri","Aethomys","Kaiser's Rock Rat",LC,U,-16731116
-85,83,"granti","Micaelamys","",NE,U,-16777216
-89,88,"ineptus","Aethomys","Tete Veld Aethomys",LC,U,-16731116
-90,88,"chrysophilus","Aethomys","Red Rock Rat",LC,U,-16731116
-91,87,"hindei","Aethomys","Hinde's Rock Rat",LC,U,-16731116
-92,86,"silindensis","Aethomys","Selinda Veld Rat",DD,U,-11513776
-98,97,"campanae","Pelomys","Bell Groove-toothed Swamp Rat",LC,U,-16731116
-99,97,"minor","Pelomys","Least Groove-toothed Swamp Rat",LC,U,-16731116
-100,96,"hopkinsi","Pelomys","Hopkins's Groove-toothed Swamp Rat",DD,U,-11513776
-101,95,"fallax","Pelomys","Creek Groove-toothed Swamp Rat",LC,U,-16731116
-102,94,"isseli","Pelomys","Issel's Groove-toothed Swamp Rat",DD,U,-11513776
-104,103,"dybowskii","Mylomys","African Groove-toothed Rat",LC,U,-16731116
-105,103,"rex","Mylomys","Ethiopian Mylomys",DD,U,-11513776
-108,107,"plumbeus","Nilopegamys","Ethiopian Amphibious Rat",CR,U,-3014646
-109,107,"goslingi","Colomys","African Wading Rat",LC,S,-16731116
-110,106,"ellioti","Golunda","Indian Bush-rat",LC,S,-16731116
-112,111,"armandvillei","Papagomys","Armandville's Papagomys",NT,D,-12486656
-113,111,"rintjanus","Komodomys","Nusa Tenggara Komodomys",VU,S,-11184866
-123,122,"uralensis","Spalax","Kazakhstan Blind Mole Rat",NT,U,-12486656
-124,122,"giganteus","Spalax","Giant Blind Mole Rat",VU,D,-11184866
-125,121,"zemni","Spalax","Podolian Mole Rat",VU,D,-11184866
-126,120,"arenarius","Spalax","Sandy Mole Rat",EN,D,-8572416
-127,119,"graecus","Spalax","Balkan Blind Mole Rat",NT,U,-12486656
-128,118,"microphthalmus","Spalax","Greater Blind Mole Rat",LC,S,-16731116
-131,130,"ehrenbergi","Spalax","Middle East Blind Mole Rat",DD,D,-11513776
-132,130,"nehringi","Spalax","Nehring's Bilind Mole Rat",DD,U,-11513776
-133,129,"leucodon","Spalax","Lesser Blind Mole Rat",DD,D,-11513776
-134,116,"albicaudatus","Mystromys","White-tailed Mouse",EN,D,-8572416
-139,138,"elburzensis","Calomyscus","Goodwin's Brush-tailed Mouse",LC,U,-16731116
-140,138,"mystax","Calomyscus","Afghan Mouse-like Hamster",LC,S,-16731116
-141,137,"baluchi","Calomyscus","Baluchi Brush-tailed Mouse",LC,U,-16731116
-144,143,"bailwardi","Calomyscus","Mouse-like Hamster",LC,U,-16731116
-145,143,"grandis","Calomyscus","Noble Calomyscus",DD,U,-11513776
-146,142,"tsolovi","Calomyscus","Syrian Calomyscus",DD,U,-11513776
-148,147,"hotsoni","Calomyscus","Hotson's Brush-tailed Mouse",LC,U,-16731116
-149,147,"urartensis","Calomyscus","Urar Calomyscus",LC,U,-16731116
-150,114,"ferrugineus","Deomys","Congo Forest Mouse",LC,S,-16731116
-152,151,"nikolausi","Megadendromus","Nikolaus's Mouse",DD,U,-11513776
-153,151,"batesi","Prionomys","Dollman's Tree Mouse",DD,U,-11513776
-158,157,"pusillus","Anomalurus","Dwarf Scaly-tailed Squirrel",LC,U,-16731116
-159,157,"derbianus","Anomalurus","Derby's Flying Squirrel",LC,U,-16731116
-161,160,"beecrofti","Anomalurus","Beecroft's Flying Squirrel",LC,U,-16731116
-162,160,"pelii","Anomalurus","Pel's Flying Squirrel",DD,U,-11513776
-165,164,"zenkeri","Idiurus","Pygmy Scaly-tailed Flying Squirrel",LC,U,-16731116
-166,164,"macrotis","Idiurus","Long-eared Flying Squirrel",LC,U,-16731116
-167,163,"insignis","Zenkerella","Cameroon Scaly-tail",LC,U,-16731116
-169,168,"surdaster","Pedetes","East African Spring-hare",LC,U,-16731116
-170,168,"capensis","Pedetes","Springhaas",LC,U,-16731116
-174,173,"bartoni","Zaglossus","Eastern Long-beaked Echidna",CR,D,-3014646
-175,173,"bruijni","Zaglossus","",NE,U,-16777216
-176,172,"aculeatus","Tachyglossus","Short-beaked Echidna",LC,S,-16731116
-177,171,"anatinus","Ornithorhynchus","Platypus",LC,U,-16731116
+17,16,"centralis","Cabassous","Northern Naked-tailed Armadillo",DD,U,-11513776
+18,16,"tatouay","Cabassous","Greater Naked-tailed Armadillo",LC,U,-16731116
+20,19,"chacoensis","Cabassous","Chacoan Naked-tailed Armadillo",NT,U,-12486656
+21,19,"unicinctus","Cabassous","Cabasu",LC,U,-16731116
+23,22,"tricinctus","Tolypeutes","Brazilian Three-banded Armadillo",VU,D,-11184866
+24,22,"matacus","Tolypeutes","Southern Three-banded Armadillo",NT,D,-12486656
+25,13,"maximus","Priodontes","Giant Armadillo",VU,D,-11184866
+29,28,"vellerosus","Chaetophractus","Screaming Hairy Armadillo",LC,U,-16731116
+30,28,"nationi","Chaetophractus","Andean Hairy Armadillo",VU,D,-11184866
+31,27,"villosus","Chaetophractus","Large Hairy Armadillo",LC,U,-16731116
+33,32,"sexcinctus","Euphractus","Six-banded Armadillo",LC,U,-16731116
+34,32,"pichiy","Zaedyus","Pichi",NT,D,-12486656
+39,38,"novemcinctus","Dasypus","Common Long-nosed Armadillo",LC,I,-16731116
+40,38,"pilosus","Dasypus","Hairy Long-nosed Armadillo",VU,D,-11184866
+41,37,"septemcinctus","Dasypus","Brazilian Lesser Long-nosed Armadillo",LC,U,-16731116
+43,42,"sabanicola","Dasypus","Llanos Long-nosed Armadillo",LC,U,-16731116
+44,42,"kappleri","Dasypus","Greater Long-nosed Armadillo",LC,U,-16731116
+45,35,"hybridus","Dasypus","Southern Long-nosed Armadillo",NT,D,-12486656
+47,46,"retusus","Calyptophractus","Greater Fairy Armadillo",NE,U,-16777216
+48,46,"truncatus","Chlamyphorus","Lesser Fairy Armadillo",DD,D,-11513776
+53,52,"variegatus","Bradypus","Bolivian Three-toed Sloth",LC,U,-16731116
+54,52,"tridactylus","Bradypus","Pale-throated Sloth",LC,U,-16731116
+55,51,"torquatus","Bradypus","Maned Sloth",EN,D,-8572416
+57,56,"hoffmanni","Choloepus","Hoffmann's Two-toed Sloth",LC,U,-16731116
+58,56,"didactylus","Choloepus","Linne's Two-toed Sloth",LC,U,-16731116
+62,61,"tetradactyla","Tamandua","Collared Anteater",LC,U,-16731116
+63,61,"mexicana","Tamandua","Northern Tamandua",LC,U,-16731116
+64,60,"tridactyla","Myrmecophaga","Giant Anteater",NT,D,-12486656
+65,59,"didactylus","Cyclopes","Pygmy Anteater",LC,U,-16731116
+78,77,"fuscipes","Elephantulus","Dusky-footed Elephant Shrew",DD,U,-11513776
+79,77,"fuscus","Elephantulus","Dusky Elephant Shrew",DD,U,-11513776
+80,76,"brachyrhynchus","Elephantulus","Short-snouted Elephant Shrew",LC,U,-16731116
+82,81,"rupestris","Elephantulus","Western Rock Elephant Shrew",LC,U,-16731116
+83,81,"intufi","Elephantulus","Bushveld Elephant Shrew",LC,S,-16731116
+85,84,"rufescens","Elephantulus","Rufous Elephant-shrew",LC,S,-16731116
+86,84,"revoili","Elephantulus","Somali Elephant Shrew",DD,U,-11513776
+88,87,"myurus","Elephantulus","Eastern Rock Elephant Shrew",LC,S,-16731116
+89,87,"edwardii","Elephantulus","Cape Elephant Shrew",LC,U,-16731116
+90,72,"rozeti","Elephantulus","North African Elephant Shrew",LC,U,-16731116
+91,71,"proboscideus","Macroscelides","Round-eared Elephant Shrew",LC,U,-16731116
+92,70,"tetradactylus","Petrodromus","Four-toed Sengi",LC,S,-16731116
+95,94,"chrysopygus","Rhynchocyon","Golden-rumped Elephant Shrew",EN,D,-8572416
+96,94,"petersi","Rhynchocyon","Black And Rufous Elephant Shrew",VU,U,-11184866
+97,93,"cirnei","Rhynchocyon","Checkered Sengi",NT,U,-12486656
+98,67,"afer","Orycteropus","Aardvark",LC,U,-16731116
+104,103,"arboreus","Dendrohyrax","Southern Tree Hyrax",LC,U,-16731116
+105,103,"dorsalis","Dendrohyrax","Western Tree Hyrax",LC,U,-16731116
+106,102,"brucei","Heterohyrax","Bush Hyrax",LC,U,-16731116
+107,101,"capensis","Procavia","Rock Hyrax",LC,U,-16731116
+111,110,"senegalensis","Trichechus","African Manatee",VU,U,-11184866
+112,110,"manatus","Trichechus","American Manatee",VU,D,-11184866
+113,109,"inunguis","Trichechus","Amazonian Manatee",VU,D,-11184866
+114,108,"dugon","Dugong","Dugong",VU,U,-11184866
+117,116,"africana","Loxodonta","African Elephant",NT,I,-12486656
+118,116,"cyclotis","Loxodonta","",NE,U,-16777216
+119,115,"maximus","Elephas","Asian Elephant",EN,D,-8572416
+131,130,"echinista","Echymipera","Menzies' Echymipera",DD,U,-11513776
+132,130,"davidi","Echymipera","David's Echymipera",EN,U,-8572416
+133,129,"clara","Echymipera","Clara's Echymipera",LC,U,-16731116
+135,134,"rufescens","Echymipera","Long-nosed Echymipera",LC,D,-16731116
+136,134,"kalubu","Echymipera","Common Echymipera",LC,S,-16731116
+140,139,"raffrayana","Peroryctes","Raffray's Bandicoot",LC,U,-16731116
+141,139,"broadbenti","Peroryctes","Giant Bandicoot",EN,D,-8572416
+142,138,"papuensis","Microperoryctes","Papuan Bandicoot",LC,U,-16731116
+143,137,"prattorum","Rhynchomeles","Seram Bandicoot",EN,U,-8572416
+145,144,"longicauda","Microperoryctes","Striped Bandicoot",LC,U,-16731116
+146,144,"murina","Microperoryctes","Mouse Bandicoot",DD,U,-11513776
+151,150,"obesulus","Isoodon","Southern Brown Bandicoot",LC,D,-16731116
+152,150,"auratus","Isoodon","Golden Bandicoot",VU,D,-11184866
+153,149,"macrourus","Isoodon","Northern Brown Bandicoot",LC,S,-16731116
+154,148,"bougainville","Perameles","Western Barred Bandicoot",EN,S,-8572416
+156,155,"gunnii","Perameles","Eastern Barred Bandicoot",NT,D,-12486656
+157,155,"nasuta","Perameles","Long-nosed Bandicoot",LC,U,-16731116
+158,124,"lagotis","Macrotis","Bilby",VU,D,-11184866
+163,162,"caniventer","Caenolestes","Gray-bellied Shrew Opossum",NT,D,-12486656
+164,162,"fuliginosus","Caenolestes","Silky Shrew Opossum",LC,U,-16731116
+165,161,"convelatus","Caenolestes","Blackish Shrew Opossum",VU,D,-11184866
+166,160,"raphanurus","Rhyncholestes","Chilean Caenolestid",NT,D,-12486656
+167,159,"inca","Lestoros","Incan Shrew Opossum",LC,U,-16731116
+171,170,"bartoni","Zaglossus","Eastern Long-beaked Echidna",CR,D,-3014646
+172,170,"bruijni","Zaglossus","",NE,U,-16777216
+173,169,"aculeatus","Tachyglossus","Short-beaked Echidna",LC,S,-16731116
+174,168,"anatinus","Ornithorhynchus","Platypus",LC,U,-16731116

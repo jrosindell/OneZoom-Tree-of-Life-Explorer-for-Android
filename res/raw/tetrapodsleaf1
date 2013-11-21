@@ -1,90 +1,88 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"luteocephala","Sicalis","Citron-headed Yellow-finch",LC,U,-16731116
-12,10,"raimondii","Sicalis","Raimondi's Yellow-finch",LC,U,-16731116
-13,9,"lutea","Sicalis","Puna Yellow-finch",LC,U,-16731116
-15,14,"columbiana","Sicalis","Orange-fronted Yellow-finch",LC,U,-16731116
-16,14,"olivascens","Sicalis","Greenish Yellow-finch",LC,U,-16731116
-18,17,"uropygialis","Sicalis","Bright-rumped Yellow-finch",LC,U,-16731116
-19,17,"auriventris","Sicalis","Greater Yellow-finch",LC,U,-16731116
-23,22,"taczanowskii","Sicalis","Sulphur-throated Finch",LC,U,-16731116
-24,22,"flaveola","Sicalis","Saffron Finch",LC,U,-16731116
-25,21,"citrina","Sicalis","Stripe-tailed Yellow-finch",LC,U,-16731116
-27,26,"lebruni","Sicalis","Patagonian Yellow-finch",LC,U,-16731116
-28,26,"luteola","Sicalis","Grassland Yellow-finch",LC,U,-16731116
-32,31,"atriceps","Phrygilus","Black-hooded Sierra-finch",LC,U,-16731116
-33,31,"gayi","Phrygilus","Grey-hooded Sierra-finch",LC,U,-16731116
-34,30,"patagonicus","Phrygilus","Patagonian Sierra-finch",LC,U,-16731116
-36,35,"xanthogramma","Melanodera","Yellow-bridled Finch",LC,U,-16731116
-37,35,"melanodera","Melanodera","White-bridled Finch",LC,U,-16731116
-43,42,"rufum","Conirostrum","Rufous-browed Conebill",LC,U,-16731116
-44,42,"albifrons","Conirostrum","Capped Conebill",LC,U,-16731116
-46,45,"tamarugense","Conirostrum","Tamarugo Conebill",VU,U,-11184866
-47,45,"fraseri","Oreomanes","Giant Conebill",NT,U,-12486656
-49,48,"sitticolor","Conirostrum","Blue-backed Conebill",LC,U,-16731116
-50,48,"cinereum","Conirostrum","Cinereous Conebill",LC,U,-16731116
-51,39,"speciosum","Conirostrum","Chestnut-vented Conebill",LC,U,-16731116
-54,53,"margaritae","Conirostrum","Pearly-breasted Conebill",LC,U,-16731116
-55,53,"leucogenys","Conirostrum","White-eared Conebill",LC,U,-16731116
-57,56,"ferrugineiventre","Conirostrum","White-browed Conebill",LC,U,-16731116
-58,56,"bicolor","Conirostrum","Bicoloured Conebill",LC,U,-16731116
-65,64,"garleppi","Compsospiza","Cochabamba Mountain-finch",EN,U,-8572416
-66,64,"baeri","Compsospiza","Tucuman Mountain-finch",VU,U,-11184866
-67,63,"rufosuperciliaris","Hemispingus","Rufous-browed Hemispingus",VU,U,-11184866
-68,61,"rubrirostris","Cnemoscopus","Grey-hooded Bush Tanager",LC,U,-16731116
-74,73,"carbonarius","Phrygilus","Carbonated Sierra-finch",LC,U,-16731116
-75,73,"caerulescens","Porphyrospiza","Blue Finch",NT,U,-12486656
-76,72,"alaudinus","Phrygilus","Band-tailed Sierra-finch",LC,U,-16731116
-77,71,"fruticeti","Phrygilus","Mourning Sierra-finch",LC,U,-16731116
-79,78,"verticalis","Creurgops","Rufous-crested Tanager",LC,U,-16731116
-80,78,"dentatus","Creurgops","Slaty Tanager",LC,U,-16731116
-84,83,"ypiranganus","Emberizoides","Grey-cheeked Grass-finch",LC,U,-16731116
-85,83,"herbicola","Emberizoides","Wedge-tailed Grass-finch",LC,U,-16731116
-86,82,"duidae","Emberizoides","Duida Grass-finch",NT,U,-12486656
-88,87,"longicauda","Embernagra","Pale-throated Pampa-finch",NT,U,-12486656
-89,87,"platensis","Embernagra","Great Pampa-finch",LC,U,-16731116
-97,96,"flaviventer","Dacnis","Yellow-bellied Dacnis",LC,U,-16731116
-98,96,"lineata","Dacnis","Black-faced Dacnis",LC,U,-16731116
-99,95,"viguieri","Dacnis","Viridian Dacnis",NT,U,-12486656
-101,100,"venusta","Dacnis","Scarlet-thighed Dacnis",LC,U,-16731116
-102,100,"hartlaubi","Dacnis","Turquoise Dacnis",VU,U,-11184866
-103,93,"albiventris","Dacnis","White-bellied Dacnis",LC,U,-16731116
-107,106,"berlepschi","Dacnis","Scarlet-breasted Dacnis",VU,U,-11184866
-108,106,"egregia","Dacnis","Yellow-tufted Dacnis",_U,[,-16777216
-109,105,"cayana","Dacnis","Blue Dacnis",LC,U,-16731116
-110,104,"nigripes","Dacnis","Black-legged Dacnis",NT,U,-12486656
-112,111,"cinerea","Piezorhina","Cinereous Finch",LC,U,-16731116
-113,111,"viridis","Tersina","Swallow Tanager",LC,U,-16731116
-117,116,"nitidus","Cyanerpes","Short-billed Honeycreeper",LC,U,-16731116
-118,116,"lucidus","Cyanerpes","Shining Honeycreeper",LC,U,-16731116
-119,115,"caeruleus","Cyanerpes","Purple Honeycreeper",LC,U,-16731116
-120,114,"cyaneus","Cyanerpes","Red-legged Honeycreeper",LC,U,-16731116
-130,129,"leucothorax","Lanio","White-throated Shrike-tanager",LC,U,-16731116
-131,129,"aurantius","Lanio","Black-throated Shrike-tanager",LC,U,-16731116
-132,128,"fulvus","Lanio","Fulvous Shrike-tanager",LC,U,-16731116
-133,127,"versicolor","Lanio","White-winged Shrike-tanager",LC,U,-16731116
-135,134,"cucullatus","Coryphospingus","Red-crested Finch",LC,U,-16731116
-136,134,"pileatus","Coryphospingus","Pileated Finch",LC,U,-16731116
-140,139,"luctuosus","Tachyphonus","White-shouldered Tanager",LC,U,-16731116
-141,139,"rufiventer","Tachyphonus","Yellow-crested Tanager",LC,U,-16731116
-142,138,"cristatus","Tachyphonus","Flame-crested Tanager",LC,U,-16731116
-144,143,"cruentus","Rhodospingus","Crimson-breasted Finch",LC,U,-16731116
-145,143,"delatrii","Tachyphonus","Tawny-crested Tanager",LC,U,-16731116
-146,124,"surinamus","Tachyphonus","Fulvous-crested Tanager",LC,U,-16731116
-148,147,"melanops","Trichothraupis","Black-goggled Tanager",LC,U,-16731116
-149,147,"penicillata","Eucometis","Grey-headed Tanager",LC,U,-16731116
-156,155,"melanogaster","Ramphocelus","Huallaga Tanager",LC,U,-16731116
-157,155,"carbo","Ramphocelus","Silver-beaked Tanager",LC,U,-16731116
-158,154,"bresilius","Ramphocelus","Brazilian Tanager",LC,U,-16731116
-160,159,"nigrogularis","Ramphocelus","Masked Crimson Tanager",LC,U,-16731116
-161,159,"dimidiatus","Ramphocelus","Crimson-backed Tanager",LC,U,-16731116
-164,163,"passerinii","Ramphocelus","Scarlet-rumped Tanager",LC,U,-16731116
-165,163,"costaricensis","Ramphocelus","Cherrie's Tanager",LC,U,-16731116
-167,166,"flammigerus","Ramphocelus","Flame-rumped Tanager",LC,U,-16731116
-168,166,"icteronotus","Ramphocelus","Lemon-rumped Tanager",_U,[,-16777216
-169,151,"sanguinolentus","Ramphocelus","Crimson-collared Tanager",LC,U,-16731116
-172,171,"coronatus","Tachyphonus","Ruby-crowned Tanager",LC,U,-16731116
-173,171,"rufus","Tachyphonus","White-lined Tanager",LC,U,-16731116
-174,170,"phoenicius","Tachyphonus","Red-shouldered Tanager",LC,U,-16731116
-177,176,"speculigera","Conothraupis","Black-and-white Tanager",NT,U,-12486656
-178,176,"mesoleuca","Conothraupis","Cone-billed Tanager",CR,U,-3014646
-179,175,"jacarina","Volatinia","Blue-black Grassquit",LC,U,-16731116
+13,12,"proboscideus","Hemiphractus","",LC,D,-16731116
+14,12,"johnsoni","Hemiphractus","",EN,D,-8572416
+15,11,"helioi","Hemiphractus","",LC,D,-16731116
+16,10,"bubalus","Hemiphractus","",NT,D,-12486656
+18,17,"fasciatus","Hemiphractus","",NT,D,-12486656
+19,17,"scutatus","Hemiphractus","",LC,D,-16731116
+24,23,"australis","Telmatobufo","",VU,D,-11184866
+25,23,"bullocki","Telmatobufo","",CR,D,-3014646
+26,22,"venustus","Telmatobufo","",EN,D,-8572416
+27,21,"caudiverbera","Caudiverbera","",NE,U,-16777216
+31,30,"gardineri","Sooglossus","Gardiner's Seychelles frog",NE,U,-16777216
+32,30,"thomasseti","Sooglossus","",VU,U,-11184866
+34,33,"pipilodryas","Sooglossus","Seychelles palm frog",NE,U,-16777216
+35,33,"sechellensis","Sooglossus","",VU,U,-11184866
+36,28,"sahyadrensis","Nasikabatrachus","Purple frog",EN,D,-8572416
+44,43,"hewitti","Heleophryne","Hewitt's Ghost Frog",CR,D,-3014646
+45,43,"regis","Heleophryne","Royal Ghost Frog",LC,S,-16731116
+46,42,"orientalis","Heleophryne","Eastern Ghost Frog",LC,S,-16731116
+47,41,"purcelli","Heleophryne","Purcell's Ghost Frog",LC,S,-16731116
+49,48,"rosei","Heleophryne","Table Mountain Ghost Frog",CR,D,-3014646
+50,48,"natalensis","Heleophryne","Natal Ghost Frog",LC,D,-16731116
+63,62,"bhutanensis","Scutiger","",DD,U,-11513776
+64,62,"brevipes","Scutiger","",DD,U,-11513776
+65,61,"muliensis","Scutiger","",EN,D,-8572416
+67,66,"glandulatus","Scutiger","",LC,U,-16731116
+68,66,"maculatus","Scutiger","",CR,D,-3014646
+70,69,"gongshanensis","Scutiger","",VU,D,-11184866
+71,69,"adungensis","Scutiger","",DD,U,-11513776
+74,73,"tuberculatus","Scutiger","",VU,D,-11184866
+75,73,"nepalensis","Scutiger","",VU,D,-11184866
+76,72,"nyingchiensis","Scutiger","",LC,U,-16731116
+81,80,"ningshanensis","Scutiger","",EN,D,-8572416
+82,80,"jiulongensis","Scutiger","",DD,U,-11513776
+84,83,"sikimmensis","Scutiger","",LC,U,-16731116
+85,83,"liupanensis","Scutiger","",VU,S,-11184866
+88,87,"chintingensis","Scutiger","",EN,D,-8572416
+89,87,"boulengeri","Scutiger","",LC,U,-16731116
+90,86,"mammatus","Scutiger","",LC,D,-16731116
+91,77,"pingwuensis","Scutiger","",EN,D,-8572416
+99,98,"liangbeiensis","Oreolalax","",CR,D,-3014646
+100,98,"popei","Oreolalax","",LC,I,-16731116
+101,97,"xiangchengensis","Oreolalax","",LC,S,-16731116
+103,102,"multipunctatus","Oreolalax","",VU,D,-11184866
+104,102,"schmidti","Oreolalax","",NT,D,-12486656
+105,95,"lichuanensis","Oreolalax","",NT,D,-12486656
+109,108,"omeimontis","Oreolalax","",EN,D,-8572416
+110,108,"rugosus","Oreolalax","",NT,D,-12486656
+111,107,"puxiongensis","Oreolalax","",EN,D,-8572416
+113,112,"chuanbeiensis","Oreolalax","",EN,D,-8572416
+114,112,"nanjiangensis","Oreolalax","",DD,U,-11513776
+119,118,"jingdongensis","Oreolalax","",VU,D,-11184866
+120,118,"weigoldi","Oreolalax","",DD,U,-11513776
+121,117,"granulosus","Oreolalax","",VU,S,-11184866
+122,116,"rhodostigmatus","Oreolalax","",VU,D,-11184866
+123,115,"major","Oreolalax","",VU,D,-11184866
+124,92,"pingii","Oreolalax","",EN,D,-8572416
+132,131,"kobayashii","Megophrys","Kobayashi's Horned Frog",NT,S,-12486656
+133,131,"montana","Megophrys","Horned Frog",LC,D,-16731116
+135,134,"nasuta","Megophrys","Borneon Horned Frog",LC,S,-16731116
+136,134,"edwardinae","Megophrys","",NE,U,-16777216
+137,129,"stejnegeri","Megophrys","Mindanao Horned Frog",VU,D,-11184866
+138,128,"ligayae","Megophrys","Palawan Horned Frog",EN,D,-8572416
+140,139,"shapingensis","Atympanophrys","",NE,U,-16777216
+141,139,"gigantica","Atympanophrys","",NE,U,-16777216
+144,143,"pachyproctus","Ophryophryne","",LC,D,-16731116
+145,143,"microstoma","Ophryophryne","",LC,D,-16731116
+147,146,"gerti","Ophryophryne","",DD,U,-11513776
+148,146,"hansi","Ophryophryne","",DD,U,-11513776
+153,152,"carinensis","Brachytarsophrys","",NE,U,-16777216
+154,152,"feae","Brachytarsophrys","",LC,D,-16731116
+155,151,"chuannanensis","Brachytarsophrys","",DD,D,-11513776
+156,150,"intermedia","Brachytarsophrys","",VU,D,-11184866
+157,149,"platyparietus","Brachytarsophrys","",LC,D,-16731116
+161,160,"varaldii","Pelobates","Varaldi's Spadefoot Toad",EN,D,-8572416
+162,160,"cultripes","Pelobates","Western Spadefoot",NT,D,-12486656
+163,159,"fuscus","Pelobates","Common Spadefoot",LC,D,-16731116
+164,158,"syriacus","Pelobates","Eastern Spadefoot",LC,D,-16731116
+170,169,"intermontana","Spea","Great Basin Spadefoot",LC,S,-16731116
+171,169,"hammondii","Spea","Western Spadefoot",NT,D,-12486656
+172,168,"multiplicata","Spea","New Mexico Spadefoot",LC,S,-16731116
+173,167,"bombifrons","Spea","Plains Spadefoot",LC,S,-16731116
+176,175,"holbrookii","Scaphiopus","Eastern Spadefoot",LC,U,-16731116
+177,175,"hurterii","Scaphiopus","Hurter's Spadefoot",LC,S,-16731116
+178,174,"couchii","Scaphiopus","Couch's Spadefoot",LC,S,-16731116
+181,180,"punctatus","Pelodytes","Parsley Frog",LC,D,-16731116
+182,180,"ibericus","Pelodytes","",LC,S,-16731116
+183,179,"caucasicus","Pelodytes","Caucasian Parsley Frog",NT,D,-12486656

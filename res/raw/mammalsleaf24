@@ -1,51 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"fulvus","Ctenomys","Tawny Tuco-tuco",LC,U,-16731116
-14,12,"johannis","Ctenomys","",DD,U,-11513776
-15,11,"tulduco","Ctenomys","",DD,U,-11513776
-17,16,"famosus","Ctenomys","",DD,D,-11513776
-18,16,"coludo","Ctenomys","",DD,U,-11513776
-19,9,"tuconax","Ctenomys","Robust Tuco-tuco",DD,U,-11513776
-21,20,"dorsalis","Ctenomys","Chacoan Tuco-tuco",DD,U,-11513776
-22,20,"opimus","Ctenomys","Highland Tuco-tuco",LC,S,-16731116
-24,23,"occultus","Ctenomys","Furtive Tuco-tuco",EN,D,-8572416
-25,23,"saltarius","Ctenomys","Salta Tuco-tuco",DD,U,-11513776
-28,27,"magellanicus","Ctenomys","Magellanic Tuco-tuco",VU,D,-11184866
-29,27,"fodax","Ctenomys","",DD,U,-11513776
-30,26,"brasiliensis","Ctenomys","Brazilian Tuco-tuco",DD,D,-11513776
-35,34,"fochi","Ctenomys","",DD,U,-11513776
-36,34,"bergi","Ctenomys","",VU,D,-11184866
-37,33,"mendocinus","Ctenomys","Mendoza Tuco-tuco",LC,U,-16731116
-39,38,"pundti","Ctenomys","",VU,D,-11184866
-40,38,"juris","Ctenomys","",DD,U,-11513776
-41,31,"sericeus","Ctenomys","Silky Tuco-tuco",DD,D,-11513776
-42,4,"conoveri","Ctenomys","Conover's Tuco-tuco",LC,S,-16731116
-45,44,"peruanus","Ctenomys","Peruvian Tuco-tuco",LC,S,-16731116
-46,44,"tucumanus","Ctenomys","Tucuman Tuco-tuco",DD,U,-11513776
-47,43,"emilianus","Ctenomys","Emily's Tuco-tuco",NT,D,-12486656
-49,48,"torquatus","Ctenomys","Collared Tuco-tuco",LC,U,-16731116
-50,48,"maulinus","Ctenomys","Maule Tuco-tuco",LC,U,-16731116
-56,55,"knighti","Ctenomys","Catamarca Tuco-tuco",DD,U,-11513776
-57,55,"viperinus","Ctenomys","Vipos Tuco-tuco",DD,U,-11513776
-58,54,"steinbachi","Ctenomys","Steinbach's Tuco-tuco",LC,S,-16731116
-59,53,"pearsoni","Ctenomys","Pearson's Tuco-tuco",NT,D,-12486656
-61,60,"australis","Ctenomys","Southern Tuco-tuco",EN,D,-8572416
-62,60,"sociabilis","Ctenomys","Social Tuco-tuco",CR,D,-3014646
-66,65,"pontifex","Ctenomys","San Luis Tuco-tuco",DD,D,-11513776
-67,65,"perrensi","Ctenomys","Goya Tuco-tuco",LC,S,-16731116
-68,64,"validus","Ctenomys","Strong Tuco-tuco",DD,U,-11513776
-71,70,"frater","Ctenomys","Forest Tuco-tuco",LC,D,-16731116
-72,70,"sylvanus","Ctenomys","",DD,U,-11513776
-73,69,"budini","Ctenomys","",DD,U,-11513776
-80,79,"minutus","Ctenomys","Tiny Tuco-tuco",DD,U,-11513776
-81,79,"rionegrensis","Ctenomys","",EN,D,-8572416
-82,78,"azarae","Ctenomys","Azara's Tuco-tuco",VU,D,-11184866
-83,77,"latro","Ctenomys","Mottled Tuco-tuco",VU,D,-11184866
-85,84,"boliviensis","Ctenomys","Bolivian Tuco-tuco",LC,S,-16731116
-86,84,"goodfellowi","Ctenomys","",LC,U,-16731116
-90,89,"leucodon","Ctenomys","White-toothed Tuco-tuco",LC,S,-16731116
-91,89,"porteousi","Ctenomys","Porteous's Tuco-tuco",NT,D,-12486656
-92,88,"colburni","Ctenomys","Bolburn's Tuco-tuco",DD,U,-11513776
-94,93,"bonettoi","Ctenomys","Bonetto's Tuco-tuco",EN,D,-8572416
-95,93,"haigi","Ctenomys","Haig's Tuco-tuco",LC,U,-16731116
-97,96,"lewisi","Ctenomys","Lewis's Tuco-tuco",LC,S,-16731116
-98,96,"talarum","Ctenomys","Talas Tuco-tuco",LC,U,-16731116
+7,6,"cinereus","Thomasomys","Ash-colored Oldfield Mouse",LC,S,-16731116
+8,6,"caudivarius","Thomasomys","",LC,D,-16731116
+9,5,"laniger","Thomasomys","Butcher Oldfield Mouse",LC,S,-16731116
+10,4,"kalinowskii","Thomasomys","Kalinowski's Oldfield Mouse",VU,D,-11184866
+11,3,"bombycinus","Thomasomys","Silky Oldfield Mouse",DD,U,-11513776
+15,14,"rosalinda","Thomasomys","Rosalinda's Oldfield Mouse",DD,D,-11513776
+16,14,"baeops","Thomasomys","Beady-eyed Mouse",LC,D,-16731116
+17,13,"silvestris","Thomasomys","Forest Oldfield Mouse",LC,D,-16731116
+19,18,"cinereiventer","Thomasomys","Ashy-bellied Oldfield Mouse",LC,D,-16731116
+20,18,"erro","Thomasomys","",LC,U,-16731116
+22,21,"notatus","Thomasomys","Distinguished Oldfield Mouse",LC,D,-16731116
+23,21,"vestitus","Thomasomys","Dressy Oldfield Mouse",LC,U,-16731116
+31,30,"gracilis","Thomasomys","Slender Oldfield Mouse",NT,D,-12486656
+32,30,"hudsoni","Thomasomys","",DD,U,-11513776
+33,29,"cinnameus","Thomasomys","",LC,U,-16731116
+34,28,"daphne","Thomasomys","Daphne's Oldfield Mouse",LC,U,-16731116
+37,36,"ladewi","Thomasomys","Ladew's Oldfield Mouse",LC,U,-16731116
+38,36,"oreas","Thomasomys","Montane Oldfield Mouse",LC,U,-16731116
+39,35,"niveipes","Thomasomys","Snow-footed Oldfield Mouse",LC,U,-16731116
+40,26,"incanus","Thomasomys","Inca Oldfield Mouse",VU,D,-11184866
+42,41,"rhoadsi","Thomasomys","Rhoads's Oldfield Mouse",LC,S,-16731116
+43,41,"eleusis","Thomasomys","Peruvian Oldfield Mouse",LC,U,-16731116
+44,24,"hylophilus","Thomasomys","Woodland Oldfield Mouse",EN,D,-8572416

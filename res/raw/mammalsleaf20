@@ -1,75 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"duodecimcostatus","Microtus","Mediterranean Pine Vole",LC,S,-16731116
-14,12,"lusitanicus","Microtus","Lusitanian Pine Vole",LC,U,-16731116
-15,11,"thomasi","Microtus","Thomas's Pine Vole",LC,S,-16731116
-16,10,"schelkovnikovi","Microtus","Schelkovnikov's Pine Vole",NT,D,-12486656
-20,19,"bavaricus","Microtus","Bavarian Pine Vole",CR,D,-3014646
-21,19,"tatricus","Microtus","Tatra Vole",LC,S,-16731116
-22,18,"subterraneus","Microtus","Common Pine Vole",LC,S,-16731116
-23,17,"daghestanicus","Microtus","Caucasus Pine Vole",LC,U,-16731116
-28,27,"brachycercus","Microtus","Calabria Pine Vole",LC,S,-16731116
-29,27,"savii","Microtus","Savi's Pine Vole",LC,S,-16731116
-30,26,"felteni","Microtus","Balkan Pine Vole",DD,U,-11513776
-31,25,"gerbei","Microtus","Gerbe's Vole",LC,S,-16731116
-33,32,"liechtensteini","Microtus","Liechtenstein's Pine Vole",LC,U,-16731116
-34,32,"multiplex","Microtus","Alpine Pine Vole",LC,S,-16731116
-35,7,"majori","Microtus","",LC,S,-16731116
-36,6,"umbrosus","Microtus","Zempoaltepec Vole",EN,D,-8572416
-43,42,"sachalinensis","Microtus","Sakhalin Vole",NT,U,-12486656
-44,42,"mongolicus","Microtus","Mongolian Vole",LC,S,-16731116
-45,41,"middendorffii","Microtus","Middendorff's Vole",LC,U,-16731116
-48,47,"maximowiczii","Microtus","Maximowicz's Vole",LC,U,-16731116
-49,47,"mujanensis","Microtus","Muisk Vole",DD,U,-11513776
-50,46,"evoronensis","Microtus","Evoron Vole",DD,U,-11513776
-51,39,"fortis","Microtus","Reed Vole",LC,U,-16731116
-55,54,"forresti","Neodon","Forrest's Mountain Vole",DD,U,-11513776
-56,54,"irene","Neodon","Irene's Mountain Vole",LC,U,-16731116
-57,53,"sikimensis","Neodon","Sikkim Vole",LC,U,-16731116
-59,58,"leucurus","Phaiomys","Blyth's Vole",LC,U,-16731116
-60,58,"juldaschi","Neodon","Juniper Vole",LC,U,-16731116
-63,62,"gregalis","Microtus","Narrow-headed Vole",LC,S,-16731116
-64,62,"miurus","Microtus","Singing Vole",LC,S,-16731116
-65,61,"abbreviatus","Microtus","Insular Vole",LC,S,-16731116
-70,69,"paradoxus","Microtus","Kopetdag Pine Vole",LC,U,-16731116
-71,69,"irani","Microtus","Persian Vole",DD,U,-11513776
-72,68,"guentheri","Microtus","Gunther's Vole",LC,S,-16731116
-74,73,"schidlovskii","Microtus","Schidlovsky Pine Vole",LC,U,-16731116
-75,73,"socialis","Microtus","Social Vole",LC,S,-16731116
-79,78,"ilaeus","Microtus","Kazakhstan Vole",LC,U,-16731116
-80,78,"arvalis","Microtus","Common Vole",LC,S,-16731116
-81,77,"transcaspicus","Microtus","Baluchistan Vole",LC,U,-16731116
-82,76,"levis","Microtus","East European Vole",LC,S,-16731116
-86,85,"montebelli","Microtus","Japanese Grass Vole",LC,S,-16731116
-87,85,"limnophilus","Microtus","Lacustrine Vole",LC,U,-16731116
-88,84,"oeconomus","Microtus","Root Vole",LC,S,-16731116
-90,89,"cabrerae","Microtus","Cabrera's Vole",NT,D,-12486656
-91,89,"agrestis","Microtus","Field Vole",LC,S,-16731116
-100,99,"pennsylvanicus","Microtus","Chihuahua Vole",LC,S,-16731116
-101,99,"townsendii","Microtus","Townsend's Vole",LC,S,-16731116
-102,98,"breweri","Microtus","Beach Vole",VU,S,-11184866
-103,97,"californicus","Microtus","Amargosa Vole",LC,S,-16731116
-106,105,"canicaudus","Microtus","Gray-tailed Vole",LC,S,-16731116
-107,105,"montanus","Microtus","Montane Vole",LC,S,-16731116
-108,104,"oregoni","Microtus","Creeping Vole",LC,S,-16731116
-112,111,"xanthognathus","Microtus","Taiga Vole",LC,S,-16731116
-113,111,"richardsoni","Microtus","Water Vole",LC,S,-16731116
-114,110,"chrotorrhinus","Microtus","Rock Vole",LC,D,-16731116
-116,115,"quasiater","Microtus","Jalapan Pine Vole",NT,D,-12486656
-117,115,"pinetorum","Microtus","Woodland Vole",LC,S,-16731116
-118,94,"guatemalensis","Microtus","Guatemalan Vole",NT,D,-12486656
-121,120,"longicaudus","Microtus","Long-tailed Vole",LC,S,-16731116
-122,120,"mexicanus","Microtus","Mexican Vole",LC,U,-16731116
-123,119,"oaxacensis","Microtus","Tarabundi Vole",EN,D,-8572416
-124,92,"ochrogaster","Microtus","Prairie Vole",LC,S,-16731116
-125,1,"alleni","Neofiber","Round-tailed Muskrat",LC,D,-16731116
-132,131,"unalascensis","Dicrostonyx","Umnak Island Collared Lemming",DD,U,-11513776
-133,131,"nelsoni","Dicrostonyx","Nelson's Collared Lemming",LC,S,-16731116
-134,130,"hudsonius","Dicrostonyx","Ungava Collared Lemming",LC,S,-16731116
-135,129,"groenlandicus","Dicrostonyx","Neartic Collared Lemming",LC,U,-16731116
-136,128,"nunatakensis","Dicrostonyx","Ogilvie Mountains Collared Lemming",LC,U,-16731116
-139,138,"richardsoni","Dicrostonyx","Richardson's Collared Lemming",LC,S,-16731116
-140,138,"torquatus","Dicrostonyx","Arctic Lemming",LC,S,-16731116
-141,137,"vinogradovi","Dicrostonyx","Wrangel Island Collared Lemming",DD,U,-11513776
-144,143,"roberti","Chionomys","Robert's Snow Vole",LC,U,-16731116
-145,143,"nivalis","Chionomys","European Snow Vole",LC,S,-16731116
-146,142,"gud","Chionomys","Caucasian Snow Vole",LC,U,-16731116
+12,11,"spectabilis","Liomys","Jaliscan Spiny Pocket Mouse",EN,D,-8572416
+13,11,"pictus","Liomys","Painted Spiny Pocket Mouse",LC,D,-16731116
+14,10,"irroratus","Liomys","Mexican Spiny Pocket Mouse",LC,S,-16731116
+16,15,"adspersus","Liomys","Panamanian Spiny Pocket Mouse",LC,S,-16731116
+17,15,"salvini","Liomys","Salvin's Spiny Pocket Mouse",LC,D,-16731116
+18,8,"australis","Heteromys","Southern Spiny Pocket Mouse",LC,S,-16731116
+19,7,"anomalus","Heteromys","Caribbean Spiny Pocket Mouse",LC,U,-16731116
+22,21,"desmarestianus","Heteromys","Demarest's Spiny Pocket Mouse",LC,S,-16731116
+23,21,"oresterus","Heteromys","Mountain Spiny Pocket Mouse",LC,S,-16731116
+24,20,"nelsoni","Heteromys","Nelson's Spiny Pocket Mouse",EN,D,-8572416
+25,5,"gaumeri","Heteromys","Gaumer's Spiny Pocket Mouse",LC,S,-16731116
+26,4,"zinseri","Cratogeomys","",NE,U,-16777216
+27,3,"alcorni","Pappogeomys","Alcorn's Pocket Gopher",CR,D,-3014646
+31,30,"castanops","Cratogeomys","Yellow-faced Pocket Gopher",LC,S,-16731116
+32,30,"goldmani","Cratogeomys","",LC,S,-16731116
+34,33,"tylorhinus","Cratogeomys","",NE,U,-16777216
+35,33,"neglectus","Cratogeomys","",NE,U,-16777216
+38,37,"merriami","Cratogeomys","Merriam's Pocket Gopher",LC,S,-16731116
+39,37,"fumosus","Cratogeomys","Smoky Pocket Gopher",LC,S,-16731116
+40,36,"gymnurus","Cratogeomys","",NE,U,-16777216
+41,1,"bulleri","Pappogeomys","Buller's Pocket Gopher",LC,S,-16731116
+50,49,"underwoodi","Orthogeomys","Underwood's Pocket Gopher",LC,I,-16731116
+51,49,"heterodus","Orthogeomys","Variable Pocket Gopher",LC,I,-16731116
+52,48,"thaeleri","Orthogeomys","Thaeler's Pocket Gopher",LC,S,-16731116
+53,47,"matagalpae","Orthogeomys","Nicaraguan Pocket Gopher",LC,I,-16731116
+54,46,"dariensis","Orthogeomys","Darien Pocket Gopher",LC,S,-16731116
+55,45,"grandis","Orthogeomys","Giant Pocket Gopher",LC,S,-16731116
+58,57,"hispidus","Orthogeomys","Hispid Pocket Gopher",LC,S,-16731116
+59,57,"lanius","Orthogeomys","Big Pocket Gopher",CR,D,-3014646
+60,56,"cavator","Orthogeomys","Chiriqui Pocket Gopher",LC,I,-16731116
+62,61,"cherriei","Orthogeomys","Cherrie's Pocket Gopher",LC,S,-16731116
+63,61,"cuniculus","Orthogeomys","Oaxacan Pocket Gopher",DD,D,-11513776
+64,42,"trichopus","Zygogeomys","Michoacan Pocket Gopher",EN,D,-8572416

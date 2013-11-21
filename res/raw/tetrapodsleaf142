@@ -1,24 +1,102 @@
 index,parent,name1,name2,common,redlist,popstab,color
-5,4,"hypoleucus","Synthliboramphus","Xantus's Murrelet",VU,U,-11184866
-6,4,"craveri","Synthliboramphus","Craveri's Murrelet",VU,U,-11184866
-8,7,"wumizusume","Synthliboramphus","Japanese Murrelet",VU,U,-11184866
-9,7,"antiquus","Synthliboramphus","Ancient Murrelet",LC,U,-16731116
-12,11,"carbo","Cepphus","Spectacled Guillemot",LC,U,-16731116
-13,11,"columba","Cepphus","Pigeon Guillemot",LC,U,-16731116
-14,10,"grylle","Cepphus","Black Guillemot",LC,U,-16731116
-18,17,"lomvia","Uria","Thick-billed Guillemot",LC,U,-16731116
-19,17,"aalge","Uria","Common Guillemot",LC,U,-16731116
-21,20,"torda","Alca","Razorbill",LC,U,-16731116
-22,20,"alle","Alle","Little Auk",LC,U,-16731116
-25,24,"brevirostris","Brachyramphus","Kittlitz's Murrelet",CR,U,-3014646
-26,24,"marmoratus","Brachyramphus","Marbled Murrelet",EN,U,-8572416
-27,23,"perdix","Brachyramphus","Long-billed Murrelet",NT,U,-12486656
-33,32,"psittacula","Aethia","Parakeet Auklet",LC,U,-16731116
-34,32,"pusilla","Aethia","Least Auklet",LC,U,-16731116
-35,31,"pygmaea","Aethia","Whiskered Auklet",LC,U,-16731116
-36,30,"cristatella","Aethia","Crested Auklet",LC,U,-16731116
-37,29,"aleuticus","Ptychoramphus","Cassin's Auklet",LC,U,-16731116
-41,40,"corniculata","Fratercula","Horned Puffin",LC,U,-16731116
-42,40,"arctica","Fratercula","Atlantic Puffin",LC,U,-16731116
-43,39,"cirrhata","Fratercula","Tufted Puffin",LC,U,-16731116
-44,38,"monocerata","Cerorhinca","Rhinoceros Auklet",LC,U,-16731116
+14,13,"virenticeps","Arremon","Green-striped Brush-finch",LC,U,-16731116
+15,13,"abeillei","Arremon","Black-capped Sparrow",LC,U,-16731116
+16,12,"flavirostris","Arremon","Saffron-billed Sparrow",LC,U,-16731116
+18,17,"aurantiirostris","Arremon","Orange-billed Sparrow",LC,U,-16731116
+19,17,"taciturnus","Arremon","Pectoral Sparrow",LC,U,-16731116
+20,10,"franciscanus","Arremon","Sao Francisco Sparrow",NT,U,-12486656
+25,24,"torquatus","Arremon","Stripe-headed Brush-finch",LC,U,-16731116
+26,24,"crassirostris","Arremon","Sooty-faced Finch",LC,U,-16731116
+27,23,"semitorquatus","Arremon","Half-collared Sparrow",LC,U,-16731116
+28,22,"brunneinucha","Arremon","Chestnut-capped Brush-finch",LC,U,-16731116
+30,29,"schlegeli","Arremon","Golden-winged Sparrow",LC,U,-16731116
+31,29,"castaneiceps","Arremon","Olive Finch",LC,U,-16731116
+32,8,"latinuchus","Atlapetes","Yellow-breasted Brush-finch",LC,U,-16731116
+33,7,"pallidiceps","Atlapetes","Pale-headed Brush-finch",CR,U,-3014646
+39,38,"pallida","Spizella","Clay-coloured Sparrow",LC,U,-16731116
+40,38,"passerina","Spizella","Chipping Sparrow",LC,U,-16731116
+41,37,"inexpectata","Torreornis","Cuban Sparrow",EN,U,-8572416
+44,43,"wortheni","Spizella","Worthen's Sparrow",EN,U,-8572416
+45,43,"pusilla","Spizella","Field Sparrow",LC,U,-16731116
+46,42,"breweri","Spizella","Brewer's Sparrow",LC,U,-16731116
+47,35,"atrogularis","Spizella","Black-chinned Sparrow",LC,U,-16731116
+49,48,"quinquestriata","Aimophila","Five-striped Sparrow",LC,U,-16731116
+50,48,"bilineata","Amphispiza","Black-throated Sparrow",LC,U,-16731116
+58,57,"rufinucha","Atlapetes","Rufous-naped Brush-finch",LC,U,-16731116
+59,57,"tricolor","Atlapetes","Tricoloured Brush-finch",LC,U,-16731116
+60,56,"seebohmi","Atlapetes","Bay-crowned Brush-finch",LC,U,-16731116
+61,55,"melanolaemus","Atlapetes","Black-faced Brush-finch",LC,U,-16731116
+65,64,"rufigenis","Atlapetes","Rufous-eared Brush-finch",NT,U,-12486656
+66,64,"canigenis","Atlapetes","Grey Brush-finch",LC,U,-16731116
+67,63,"melanopsis","Atlapetes","Black-spectacled Brush-finch",EN,U,-8572416
+68,62,"schistaceus","Atlapetes","Slaty Brush-finch",LC,U,-16731116
+70,69,"melanocephalus","Atlapetes","Santa Marta Brush-finch",LC,U,-16731116
+71,69,"grammacus","Chondestes","Lark Sparrow",LC,U,-16731116
+72,52,"leucopterus","Atlapetes","White-winged Brush-finch",LC,U,-16731116
+76,75,"flaviceps","Atlapetes","Yellow-headed Brush-finch",EN,U,-8572416
+77,75,"terborghi","Atlapetes","Vilcabamba Brush-finch",NT,U,-12486656
+78,74,"personatus","Atlapetes","Tepui Brush-finch",LC,U,-16731116
+80,79,"nationi","Atlapetes","Rusty-bellied Brush-finch",LC,U,-16731116
+81,79,"melanocorys","Calamospiza","Lark Bunting",LC,U,-16731116
+91,90,"hortulana","Emberiza","Ortolan Bunting",LC,U,-16731116
+92,90,"koslowi","Emberiza","Tibetan Bunting",NT,U,-12486656
+93,89,"caesia","Emberiza","Cretzschmar's Bunting",LC,U,-16731116
+94,88,"buchanani","Emberiza","Grey-necked Bunting",LC,U,-16731116
+98,97,"leucocephalos","Emberiza","Pine Bunting",LC,U,-16731116
+99,97,"citrinella","Emberiza","Yellowhammer",LC,U,-16731116
+100,96,"stewarti","Emberiza","Chestnut-breasted Bunting",LC,U,-16731116
+101,95,"cirlus","Emberiza","Cirl Bunting",LC,U,-16731116
+105,104,"godlewskii","Emberiza","Godlewski's Bunting",LC,U,-16731116
+106,104,"cioides","Emberiza","Meadow Bunting",LC,U,-16731116
+107,103,"cia","Emberiza","Rock Bunting",LC,U,-16731116
+109,108,"jankowskii","Emberiza","Rufous-backed Bunting",EN,U,-8572416
+110,108,"vincenti","Emberiza","Vincent's Bunting",_U,[,-16777216
+112,111,"poliopleura","Emberiza","Somali Golden-breasted Bunting",LC,U,-16731116
+113,111,"calandra","Miliaria","Corn Bunting",LC,U,-16731116
+116,115,"melanocephala","Emberiza","Black-headed Bunting",LC,U,-16731116
+117,115,"bruniceps","Emberiza","Red-headed Bunting",LC,U,-16731116
+118,114,"lathami","Melophus","Crested Bunting",LC,U,-16731116
+127,126,"aureola","Emberiza","Yellow-breasted Bunting",VU,U,-11184866
+128,126,"rutila","Emberiza","Chestnut Bunting",LC,U,-16731116
+129,125,"spodocephala","Emberiza","Black-faced Bunting",LC,U,-16731116
+130,124,"sulphurata","Emberiza","Yellow Bunting",VU,U,-11184866
+132,131,"fucata","Emberiza","Chestnut-eared Bunting",LC,U,-16731116
+133,131,"pusilla","Emberiza","Little Bunting",LC,U,-16731116
+136,135,"tristrami","Emberiza","Tristram's Bunting",LC,U,-16731116
+137,135,"variabilis","Emberiza","Grey Bunting",LC,U,-16731116
+138,134,"chrysophrys","Emberiza","Yellow-browed Bunting",LC,U,-16731116
+139,121,"rustica","Emberiza","Rustic Bunting",LC,U,-16731116
+142,141,"pallasi","Emberiza","Pallas's Bunting",LC,U,-16731116
+143,141,"schoeniclus","Emberiza","Reed Bunting",LC,U,-16731116
+144,140,"yessoensis","Emberiza","Ochre-rumped Bunting",NT,U,-12486656
+147,146,"siemsseni","Latoucheornis","Slaty Bunting",LC,U,-16731116
+148,146,"affinis","Emberiza","Brown-rumped Bunting",LC,U,-16731116
+149,145,"elegans","Emberiza","Yellow-throated Bunting",LC,U,-16731116
+155,154,"tahapisi","Emberiza","Cinnamon-breasted Bunting",LC,U,-16731116
+156,154,"cineracea","Emberiza","Cinereous Bunting",NT,U,-12486656
+157,153,"striolata","Emberiza","House Bunting",LC,U,-16731116
+159,158,"impetuani","Emberiza","Lark-like Bunting",LC,U,-16731116
+160,158,"socotrana","Emberiza","Socotra Bunting",VU,U,-11184866
+161,151,"capensis","Emberiza","Cape Bunting",LC,U,-16731116
+163,162,"flaviventris","Emberiza","African Golden-breasted Bunting",LC,U,-16731116
+164,162,"cabanisi","Emberiza","Cabanis's Bunting",LC,U,-16731116
+172,171,"superciliaris","Sturnella","White-browed Blackbird",LC,U,-16731116
+173,171,"defilippii","Sturnella","Pampas Meadowlark",VU,U,-11184866
+174,170,"loyca","Sturnella","Long-tailed Meadowlark",LC,U,-16731116
+176,175,"neglecta","Sturnella","Western Meadowlark",LC,U,-16731116
+177,175,"magna","Sturnella","Eastern Meadowlark",LC,U,-16731116
+179,178,"militaris","Sturnella","Red-breasted Blackbird",LC,U,-16731116
+180,178,"bellicosa","Sturnella","Peruvian Meadowlark",LC,U,-16731116
+182,181,"xanthocephalus","Xanthocephalus","Yellow-headed Blackbird",LC,U,-16731116
+183,181,"oryzivorus","Dolichonyx","Bobolink",LC,U,-16731116
+187,186,"aurocapilla","Seiurus","Ovenbird",LC,U,-16731116
+190,189,"fernandinae","Teretistris","Yellow-headed Warbler",LC,U,-16731116
+191,189,"fornsi","Teretistris","Oriente Warbler",LC,U,-16731116
+192,188,"virens","Icteria","Yellow-breasted Chat",LC,U,-16731116
+198,197,"nigricephala","Spindalis","Jamaican Spindalis",LC,U,-16731116
+199,197,"zena","Spindalis","Western Spindalis",LC,U,-16731116
+200,196,"portoricensis","Spindalis","Puerto Rican Spindalis",LC,U,-16731116
+201,195,"dominicensis","Spindalis","Hispaniolan Spindalis",LC,U,-16731116
+202,194,"coronata","Zeledonia","Wrenthrush",LC,U,-16731116
+204,203,"palustris","Microligea","Green-tailed Warbler",LC,U,-16731116
+205,203,"montana","Xenoligea","White-winged Warbler",VU,U,-11184866

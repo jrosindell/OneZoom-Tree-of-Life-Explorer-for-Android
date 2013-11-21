@@ -1,81 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-21,20,"austeni","Garrulax","Brown-capped Laughingthrush",LC,U,-16731116
-22,20,"yersini","Garrulax","Collared Laughingthrush",EN,U,-8572416
-23,19,"henrici","Garrulax","Brown-cheeked Laughingthrush",LC,U,-16731116
-24,18,"konkakinhensis","Garrulax","Chestnut-eared Laughingthrush",VU,U,-11184866
-34,33,"morrisonianus","Garrulax","White-whiskered Laughingthrush",LC,U,-16731116
-35,33,"elliotii","Garrulax","Elliot's Laughingthrush",LC,U,-16731116
-37,36,"annamensis","Garrulax","Orange-breasted Laughingthrush",LC,U,-16731116
-38,36,"delesserti","Garrulax","Wynaad Laughingthrush",LC,U,-16731116
-40,39,"cinereifrons","Garrulax","Ashy-headed Laughingthrush",VU,U,-11184866
-41,39,"chrysopterus","Garrulax","Assam Laughingthrush",LC,U,-16731116
-42,30,"rufifrons","Garrulax","Rufous-fronted Laughingthrush",NT,U,-12486656
-44,43,"affinis","Garrulax","Black-faced Laughingthrush",LC,U,-16731116
-45,43,"virgatus","Garrulax","Striped Laughingthrush",LC,U,-16731116
-46,28,"variegatus","Garrulax","Variegated Laughingthrush",LC,U,-16731116
-47,27,"maesi","Garrulax","Grey Laughingthrush",LC,U,-16731116
-51,50,"erythrocephalus","Garrulax","Chestnut-crowned Laughingthrush",LC,U,-16731116
-52,50,"formosus","Garrulax","Red-winged Laughingthrush",LC,U,-16731116
-53,49,"milnei","Garrulax","Red-tailed Laughingthrush",LC,U,-16731116
-54,48,"melanostigma","Garrulax","Silver-eared Laughingthrush",LC,U,-16731116
-59,58,"merulinus","Garrulax","Spot-breasted Laughingthrush",LC,U,-16731116
-60,58,"striatus","Garrulax","Striated Laughingthrush",LC,U,-16731116
-61,57,"subunicolor","Garrulax","Scaly Laughingthrush",LC,U,-16731116
-62,56,"squamatus","Garrulax","Blue-winged Laughingthrush",LC,U,-16731116
-63,55,"lineatus","Garrulax","Streaked Laughingthrush",LC,U,-16731116
-70,69,"melanoleuca","Heterophasia","Dark-backed Sibia",LC,U,-16731116
-71,69,"desgodinsi","Heterophasia","Black-headed Sibia",LC,U,-16731116
-72,68,"pulchella","Heterophasia","Beautiful Sibia",LC,U,-16731116
-73,67,"capistrata","Heterophasia","Rufous Sibia",LC,U,-16731116
-77,76,"annectens","Heterophasia","Rufous-backed Sibia",LC,U,-16731116
-78,76,"auricularis","Heterophasia","White-eared Sibia",LC,U,-16731116
-79,75,"gracilis","Heterophasia","Grey Sibia",LC,U,-16731116
-80,74,"picaoides","Heterophasia","Long-tailed Sibia",LC,U,-16731116
-84,83,"phoenicea","Liocichla","Red-faced Liocichla",LC,U,-16731116
-85,83,"bugunorum","Liocichla","Bugun Liocichla",VU,U,-11184866
-86,82,"steerii","Liocichla","Taiwan Liocichla",LC,U,-16731116
-87,81,"omeiensis","Liocichla","Omei Shan Liocichla",VU,U,-11184866
-94,93,"waldeni","Actinodura","Streak-throated Barwing",LC,U,-16731116
-95,93,"souliei","Actinodura","Streaked Barwing",LC,U,-16731116
-96,92,"morrisoniana","Actinodura","Taiwan Barwing",LC,U,-16731116
-97,91,"nipalensis","Actinodura","Hoary-throated Barwing",LC,U,-16731116
-98,90,"sodangorum","Actinodura","Black-crowned Barwing",VU,U,-11184866
-102,101,"strigula","Minla","Chestnut-tailed Minla",LC,U,-16731116
-103,101,"ignotincta","Minla","Red-tailed Minla",LC,U,-16731116
-104,100,"cyanouroptera","Minla","Blue-winged Minla",LC,U,-16731116
-106,105,"egertoni","Actinodura","Rusty-fronted Barwing",LC,U,-16731116
-107,105,"ramsayi","Actinodura","Spectacled Barwing",LC,U,-16731116
-109,108,"argentauris","Leiothrix","Silver-eared Mesia",LC,U,-16731116
-110,108,"lutea","Leiothrix","Red-billed Leiothrix",LC,U,-16731116
-112,111,"legalleni","Cutia","Vietnamese Cutia",NT,U,-12486656
-113,111,"nipalensis","Cutia","Himalayan Cutia",LC,U,-16731116
-115,114,"poioicephala","Alcippe","Brown-cheeked Fulvetta",LC,U,-16731116
-119,118,"albiventer","Pnoepyga","Scaly-breasted Wren-babbler",LC,U,-16731116
-120,118,"immaculata","Pnoepyga","Nepal Wren-babbler",LC,U,-16731116
-122,121,"formosana","Pnoepyga","Taiwan Wren-babbler",LC,U,-16731116
-123,121,"pusilla","Pnoepyga","Pygmy Wren-babbler",LC,U,-16731116
-125,124,"poliothorax","Kakamega","Grey-chested Babbler",LC,U,-16731116
-126,124,"cinnamomeus","Hypocryptadius","Cinnamon Ibon",LC,U,-16731116
-127,9,"pyrrhoura","Myzornis","Fire-tailed Myzornis",LC,U,-16731116
-131,130,"langbianis","Crocias","Grey-crowned Crocias",EN,U,-8572416
-132,130,"albonotatus","Crocias","Spotted Crocias",NT,U,-12486656
-133,129,"nigricapillus","Lioptilus","Bush Blackcap",NT,U,-12486656
-134,128,"galinieri","Parophasma","Abyssinian Catbird",LC,U,-16731116
-143,142,"leucophrys","Sylvietta","White-browed Crombec",LC,U,-16731116
-144,142,"brachyura","Sylvietta","Northern Crombec",LC,U,-16731116
-145,141,"virens","Sylvietta","Green Crombec",LC,U,-16731116
-146,140,"ruficapilla","Sylvietta","Red-capped Crombec",LC,U,-16731116
-148,147,"whytii","Sylvietta","Red-faced Crombec",LC,U,-16731116
-149,147,"rufescens","Sylvietta","Cape Crombec",LC,U,-16731116
-151,150,"philippae","Sylvietta","Short-billed Crombec",DD,U,-11513776
-152,150,"isabellina","Sylvietta","Somali Crombec",LC,U,-16731116
-153,137,"denti","Sylvietta","Lemon-bellied Crombec",LC,U,-16731116
-157,156,"afer","Sphenoeacus","Cape Grass-warbler",LC,U,-16731116
-158,156,"pycnopygius","Achaetops","Rockrunner",LC,U,-16731116
-159,155,"mentalis","Melocichla","Moustached Grass-warbler",LC,U,-16731116
-160,154,"victorini","Bradypterus","Victorin's Scrub-warbler",LC,U,-16731116
-164,163,"pulitzeri","Macrosphenus","Pulitzer's Longbill",EN,U,-8572416
-165,163,"kempi","Macrosphenus","Kemp's Longbill",LC,U,-16731116
-167,166,"flavicans","Macrosphenus","Yellow Longbill",LC,U,-16731116
-168,166,"concolor","Macrosphenus","Grey Longbill",LC,U,-16731116
-169,161,"kretschmeri","Macrosphenus","Kretschmer's Longbill",LC,U,-16731116
+12,11,"intermedius","Telmatobius","",DD,D,-11513776
+13,11,"atahualpai","Telmatobius","",DD,U,-11513776
+14,10,"platycephalus","Telmatobius","",EN,D,-8572416
+16,15,"arequipensis","Telmatobius","",VU,D,-11184866
+17,15,"vilamensis","Telmatobius","",DD,U,-11513776
+20,19,"pinguiculus","Telmatobius","",DD,U,-11513776
+21,19,"hauthali","Telmatobius","",VU,S,-11184866
+22,18,"culeus","Telmatobius","Titicaca Water Frog",CR,D,-3014646
+24,23,"verrucosus","Telmatobius","",VU,D,-11184866
+25,23,"pisanoi","Telmatobius","",EN,D,-8572416
+31,30,"atacamensis","Telmatobius","",CR,D,-3014646
+32,30,"scrocchii","Telmatobius","",EN,D,-8572416
+33,29,"latirostris","Telmatobius","",EN,D,-8572416
+34,28,"marmoratus","Telmatobius","",VU,D,-11184866
+37,36,"colanensis","Telmatobius","",EN,U,-8572416
+38,36,"rimac","Telmatobius","",LC,S,-16731116
+39,35,"simonsi","Telmatobius","",NT,D,-12486656
+40,26,"oxycephalus","Telmatobius","",VU,S,-11184866
+41,5,"contrerasi","Telmatobius","",DD,U,-11513776
+42,4,"schreiteri","Telmatobius","",EN,D,-8572416
+43,3,"pefauri","Telmatobius","",CR,D,-3014646
+45,44,"peruvianus","Telmatobius","",VU,D,-11184866
+46,44,"mayoloi","Telmatobius","",EN,D,-8572416
+51,50,"sibiricus","Telmatobius","",EN,D,-8572416
+52,50,"gigas","Telmatobius","",CR,D,-3014646
+53,49,"philippii","Telmatobius","",DD,U,-11513776
+55,54,"vellardi","Telmatobius","",CR,D,-3014646
+56,54,"truebae","Telmatobius","",EN,U,-8572416
+58,57,"bolivianus","Telmatobius","",NT,D,-12486656
+59,57,"jelskii","Telmatobius","",NT,D,-12486656
+66,65,"carrillae","Telmatobius","",VU,D,-11184866
+67,65,"ceiorum","Telmatobius","",EN,D,-8572416
+68,64,"hypselocephalus","Telmatobius","",EN,D,-8572416
+71,70,"zapahuirensis","Telmatobius","",CR,D,-3014646
+72,70,"brevipes","Telmatobius","",EN,D,-8572416
+73,69,"necopinus","Telmatobius","",EN,D,-8572416
+77,76,"edaphonastes","Telmatobius","",EN,D,-8572416
+78,76,"degener","Telmatobius","",EN,U,-8572416
+79,75,"laticeps","Telmatobius","",EN,D,-8572416
+80,74,"huayra","Telmatobius","",VU,D,-11184866
+83,82,"thompsoni","Telmatobius","",EN,U,-8572416
+84,82,"timens","Telmatobius","",DD,U,-11513776
+85,81,"brevirostris","Telmatobius","",EN,D,-8572416
+86,60,"niger","Telmatobius","",CR,D,-3014646

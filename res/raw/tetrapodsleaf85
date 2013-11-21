@@ -1,51 +1,47 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"ruficollis","Syndactyla","Rufous-necked Foliage-gleaner",VU,U,-11184866
-13,11,"guttulata","Syndactyla","Guttulate Foliage-gleaner",LC,U,-16731116
-14,10,"rufosuperciliata","Syndactyla","Buff-browed Foliage-gleaner",LC,U,-16731116
-15,9,"roraimae","Syndactyla","White-throated Foliage-gleaner",LC,U,-16731116
-16,8,"dimidiata","Syndactyla","Russet-mantled Foliage-gleaner",LC,U,-16731116
-17,7,"subalaris","Syndactyla","Lineated Foliage-gleaner",LC,U,-16731116
-19,18,"ucayalae","Simoxenops","Peruvian Recurvebill",NT,U,-12486656
-20,18,"striatus","Simoxenops","Bolivian Recurvebill",NT,U,-12486656
-23,22,"amaurotis","Anabacerthia","White-browed Foliage-gleaner",NT,U,-12486656
-24,22,"striaticollis","Anabacerthia","Montane Foliage-gleaner",LC,U,-16731116
-25,21,"variegaticeps","Anabacerthia","Scaly-throated Foliage-gleaner",LC,U,-16731116
-28,27,"dorsalis","Anabazenops","Dusky-cheeked Foliage-gleaner",LC,U,-16731116
-29,27,"fuscus","Anabazenops","White-collared Foliage-gleaner",LC,U,-16731116
-30,26,"parnaguae","Megaxenops","Great Xenops",LC,U,-16731116
-36,35,"erythrocercum","Philydor","Rufous-rumped Foliage-gleaner",LC,U,-16731116
-37,35,"novaesi","Philydor","Alagoas Foliage-gleaner",CR,U,-3014646
-38,34,"rufum","Philydor","Buff-fronted Foliage-gleaner",LC,U,-16731116
-40,39,"erythropterum","Philydor","Chestnut-winged Foliage-gleaner",LC,U,-16731116
-41,39,"atricapillus","Philydor","Black-capped Foliage-gleaner",LC,U,-16731116
-45,44,"ruficaudatum","Philydor","Rufous-tailed Foliage-gleaner",LC,U,-16731116
-46,44,"pyrrhodes","Philydor","Cinnamon-rumped Foliage-gleaner",LC,U,-16731116
-47,43,"lichtensteini","Philydor","Ochre-breasted Foliage-gleaner",LC,U,-16731116
-48,42,"fuscipenne","Philydor","Slaty-winged Foliage-gleaner",LC,U,-16731116
-49,31,"contaminatus","Heliobletus","Sharp-billed Treehunter",LC,U,-16731116
-50,2,"strigilatus","Ancistrops","Chestnut-winged Hookbill",LC,U,-16731116
-57,56,"virgaticeps","Thripadectes","Streak-capped Treehunter",LC,U,-16731116
-58,56,"flammulatus","Thripadectes","Flammulated Treehunter",LC,U,-16731116
-60,59,"melanorhynchus","Thripadectes","Black-billed Treehunter",LC,U,-16731116
-61,59,"holostictus","Thripadectes","Striped Treehunter",LC,U,-16731116
-64,63,"scrutator","Thripadectes","Buff-throated Treehunter",LC,U,-16731116
-65,63,"ignobilis","Thripadectes","Uniform Treehunter",LC,U,-16731116
-66,62,"rufobrunneus","Thripadectes","Streak-breasted Treehunter",LC,U,-16731116
-68,67,"rufipileatus","Automolus","Chestnut-crowned Foliage-gleaner",LC,U,-16731116
-69,67,"melanopezus","Automolus","Brown-rumped Foliage-gleaner",LC,U,-16731116
-73,72,"leucophthalmus","Automolus","White-eyed Foliage-gleaner",LC,U,-16731116
-74,72,"infuscatus","Automolus","Olive-backed Foliage-gleaner",LC,U,-16731116
-76,75,"subulatus","Hyloctistes","Striped Woodhaunter",LC,U,-16731116
-77,75,"virgatus","Hyloctistes","Western Woodhaunter",_U,[,-16777216
-79,78,"ochrolaemus","Automolus","Buff-throated Foliage-gleaner",LC,U,-16731116
-80,78,"leucophrus","Cichlocolaptes","Pale-browed Treehunter",LC,U,-16731116
-84,83,"erythrocephalus","Hylocryptus","Henna-hooded Foliage-gleaner",VU,U,-11184866
-85,83,"rectirostris","Hylocryptus","Chestnut-capped Foliage-gleaner",LC,U,-16731116
-86,82,"rubiginosus","Automolus","Ruddy Foliage-gleaner",LC,U,-16731116
-87,81,"dendrocolaptoides","Clibanornis","Canebrake Groundcreeper",NT,U,-12486656
-92,91,"bellulus","Margarornis","Beautiful Treerunner",NT,U,-12486656
-93,91,"squamiger","Margarornis","Pearled Treerunner",LC,U,-16731116
-94,90,"rubiginosus","Margarornis","Ruddy Treerunner",LC,U,-16731116
-95,89,"stellatus","Margarornis","Fulvous-dotted Treerunner",NT,U,-12486656
-97,96,"tatei","Premnoplex","White-throated Barbtail",VU,U,-11184866
-98,96,"brunnescens","Premnoplex","Spotted Barbtail",LC,U,-16731116
+13,12,"myllomyllon","Craugastor","",DD,U,-11513776
+14,12,"sandersoni","Craugastor","",EN,D,-8572416
+15,11,"mimus","Craugastor","",LC,D,-16731116
+16,10,"xucanebi","Craugastor","",VU,D,-11184866
+18,17,"psephosypharus","Craugastor","",VU,D,-11184866
+19,17,"pelorus","Craugastor","",DD,U,-11513776
+21,20,"guerreroensis","Craugastor","",CR,D,-3014646
+22,20,"glaucus","Craugastor","",CR,D,-3014646
+26,25,"augusti","Craugastor","Barking Frog",LC,S,-16731116
+27,25,"tabasarae","Craugastor","",CR,D,-3014646
+28,24,"coffeus","Craugastor","",CR,D,-3014646
+29,23,"rostralis","Craugastor","",NT,S,-12486656
+33,32,"occidentalis","Craugastor","",DD,U,-11513776
+34,32,"yucatanensis","Craugastor","",NT,U,-12486656
+35,31,"aphanus","Craugastor","",VU,S,-11184866
+37,36,"tarahumaraensis","Craugastor","",VU,D,-11184866
+38,36,"emleni","Craugastor","",CR,D,-3014646
+42,41,"megalotympanum","Craugastor","",CR,D,-3014646
+43,41,"anciano","Craugastor","",CR,D,-3014646
+45,44,"matudai","Craugastor","",VU,S,-11184866
+46,44,"loki","Craugastor","",LC,S,-16731116
+48,47,"polyptychus","Craugastor","",LC,S,-16731116
+49,47,"vocalis","Craugastor","",LC,D,-16731116
+52,51,"merendonensis","Craugastor","",CR,D,-3014646
+53,51,"anomalus","Craugastor","",NE,U,-16777216
+55,54,"alfredi","Craugastor","",VU,D,-11184866
+56,54,"daryi","Craugastor","",EN,D,-8572416
+60,59,"bocourti","Craugastor","",VU,D,-11184866
+61,59,"taurus","Craugastor","",CR,D,-3014646
+62,58,"lineatus","Craugastor","",CR,D,-3014646
+63,57,"noblei","Craugastor","",LC,U,-16731116
+68,67,"greggi","Craugastor","",CR,D,-3014646
+69,67,"obesus","Craugastor","",EN,D,-8572416
+70,66,"charadra","Craugastor","",EN,D,-8572416
+72,71,"bufoniformis","Craugastor","",NE,U,-16777216
+73,71,"sabrinus","Craugastor","",EN,D,-8572416
+75,74,"spatulatus","Craugastor","",EN,D,-8572416
+76,74,"pechorum","Craugastor","",EN,D,-8572416
+80,79,"nefrens","Craugastor","",DD,U,-11513776
+81,79,"necerus","Craugastor","",NE,U,-16777216
+82,78,"taylori","Craugastor","",DD,U,-11513776
+83,77,"lauraster","Craugastor","",EN,D,-8572416
+87,86,"monnichorum","Craugastor","",DD,U,-11513776
+88,86,"pygmaeus","Craugastor","",VU,D,-11184866
+89,85,"saltuarius","Craugastor","",CR,D,-3014646
+90,84,"anatipes","Craugastor","",NE,U,-16777216

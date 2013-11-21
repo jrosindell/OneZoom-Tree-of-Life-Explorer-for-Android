@@ -1,68 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"mitratus","Rhinolophus","Mitred Horseshow Bat",DD,U,-11513776
-18,16,"keyensis","Rhinolophus","Kai Horseshoe Bat",DD,U,-11513776
-19,15,"virgo","Rhinolophus","Yellow-faced Horseshoe Bat",LC,S,-16731116
-20,14,"capensis","Rhinolophus","Cape Horseshoe Bat",LC,D,-16731116
-22,21,"philippinensis","Rhinolophus","Large-eared Horseshoe Bat",LC,U,-16731116
-23,21,"montanus","Rhinolophus","Timorese Horseshoe Bat",DD,U,-11513776
-24,12,"sedulus","Rhinolophus","Lesser Wooly Horseshoe Bat",NT,D,-12486656
-28,27,"simulator","Rhinolophus","Bushveld Horseshoe Bat",LC,D,-16731116
-29,27,"denti","Rhinolophus","Dent's Horseshoe Bat",LC,U,-16731116
-30,26,"pearsonii","Rhinolophus","Pearson's Horseshoe Bat",LC,U,-16731116
-31,25,"paradoxolophus","Rhinolophus","Bourret's Horseshoe Bat",LC,U,-16731116
-35,34,"ruwenzorii","Rhinolophus","Ruwenzori Horseshoe Bat",VU,D,-11184866
-36,34,"maclaudi","Rhinolophus","Maclaud's Horseshoe Bat",EN,D,-8572416
-37,33,"hilli","Rhinolophus","Hill's Horseshoe Bat",CR,D,-3014646
-39,38,"ferrumequinum","Rhinolophus","Greater Horseshoe Bat",LC,D,-16731116
-40,38,"subrufus","Rhinolophus","Small Rufous Horseshoe Bat",DD,U,-11513776
-41,9,"robinsoni","Rhinolophus","Peninsular Horseshoe Bat",NT,D,-12486656
-43,42,"acuminatus","Rhinolophus","Accuminate Horseshoe Bat",LC,U,-16731116
-44,42,"trifoliatus","Rhinolophus","Trefoil Horseshoe Bat",LC,U,-16731116
-50,49,"macrotis","Rhinolophus","Big-eared Horseshoe Bat",LC,S,-16731116
-51,49,"siamensis","Rhinolophus","Thai Horseshoe Bat",LC,U,-16731116
-52,48,"hipposideros","Rhinolophus","Lesser Horseshoe Bat",LC,D,-16731116
-53,47,"hildebrandtii","Rhinolophus","",NE,U,-16777216
-56,55,"affinis","Rhinolophus","Intermediate Horseshoe Bat",LC,S,-16731116
-57,55,"malayanus","Rhinolophus","Malayan Horseshoe Bat",LC,S,-16731116
-58,54,"megaphyllus","Rhinolophus","Eastern Horseshoe Bat",LC,U,-16731116
-59,45,"darlingi","Rhinolophus","Darling's Horseshoe Bat",LC,U,-16731116
-65,64,"clivosus","Rhinolophus","Geoffroy's Horseshoe Bat",LC,U,-16731116
-66,64,"hillorum","Rhinolophus","Upland Horseshoe Bat",VU,D,-11184866
-67,63,"bocharicus","Rhinolophus","Bokhara Horseshoe Bat",LC,S,-16731116
-68,62,"coelophyllus","Rhinolophus","Croslet Horseshoe Bat",LC,U,-16731116
-69,61,"silvestris","Rhinolophus","Forest Horseshoe Bat",DD,D,-11513776
-70,60,"deckenii","Rhinolophus","Decken's Horseshoe Bat",NT,D,-12486656
-71,5,"rex","Rhinolophus","King Horseshoe Bat",LC,D,-16731116
-72,4,"shameli","Rhinolophus","Shamel's Horseshoe Bat",LC,U,-16731116
-76,75,"euryale","Rhinolophus","Mediterranean Horseshoe Bat",NT,D,-12486656
-77,75,"mehelyi","Rhinolophus","Mehely's Horseshoe Bat",VU,D,-11184866
-79,78,"guineensis","Rhinolophus","Guinean Horseshoe Bat",VU,U,-11184866
-80,78,"landeri","Rhinolophus","Lander's Horseshoe Bat",LC,U,-16731116
-83,82,"celebensis","Rhinolophus","Sulawesi Horseshoe Bat",LC,U,-16731116
-84,82,"madurensis","Rhinolophus","Madura Horseshoe Bat",EN,D,-8572416
-85,81,"fumigatus","Rhinolophus","Ruppell's Horseshoe Bat",LC,U,-16731116
-96,95,"blasii","Rhinolophus","BLASIUS' HORSESHOE BAT",LC,D,-16731116
-97,95,"alcyone","Rhinolophus","Halcyon Horseshoe Bat",LC,U,-16731116
-98,94,"adami","Rhinolophus","Adam's Horseshoe Bat",DD,U,-11513776
-100,99,"creaghi","Rhinolophus","Creagh's Horseshoe Bat",LC,D,-16731116
-101,99,"canuti","Rhinolophus","Canut's Horseshoe Bat",VU,D,-11184866
-103,102,"sinicus","Rhinolophus","Chinese Horseshoe Bat",LC,U,-16731116
-104,102,"rouxii","Rhinolophus","Rufous Horseshoe Bat",LC,U,-16731116
-105,91,"thomasi","Rhinolophus","Thomas's Horseshoe Bat",LC,U,-16731116
-106,90,"eloquens","Rhinolophus","Eloquent Horseshoe Bat",LC,U,-16731116
-107,89,"euryotis","Rhinolophus","New Guinea Horseshoe Bat",LC,U,-16731116
-112,111,"borneensis","Rhinolophus","Bornean Horseshoe Bat",LC,U,-16731116
-113,111,"nereis","Rhinolophus","Anamban Horseshoe Bat",DD,U,-11513776
-114,110,"rufus","Rhinolophus","Large Rufous Horseshoe Bat",NT,D,-12486656
-115,109,"stheno","Rhinolophus","Lesser Brown Horseshoe Bat",LC,S,-16731116
-116,108,"marshalli","Rhinolophus","Marshall's Horseshoe Bat",LC,U,-16731116
-117,87,"yunanensis","Rhinolophus","Dobson's Horseshoe Bat",LC,U,-16731116
-122,121,"formosae","Rhinolophus","Formosan Woolly Horseshoe Bat",NT,D,-12486656
-123,121,"beddomei","Rhinolophus","Beddome's Horseshoe Bat",LC,S,-16731116
-124,120,"luctus","Rhinolophus","Great Woolly Horsehoe Bat",LC,U,-16731116
-125,119,"arcuatus","Rhinolophus","Arcuate Horseshoe Bat",LC,S,-16731116
-127,126,"inops","Rhinolophus","Philippine Forest Horseshoe Bat",LC,S,-16731116
-128,126,"swinnyi","Rhinolophus","Swinny's Horseshoe Bat",LC,U,-16731116
-130,129,"subbadius","Rhinolophus","Little Nepalese Horseshoe Bat",LC,D,-16731116
-131,129,"cognatus","Rhinolophus","Andaman Horseshoe Bat",EN,D,-8572416
-132,0,"imaizumii","Rhinolophus","",NE,U,-16777216
+14,13,"pardus","Panthera","Leopard",NT,D,-12486656
+15,13,"leo","Panthera","Lion",VU,D,-11184866
+16,12,"onca","Panthera","Jaguar",NT,D,-12486656
+17,11,"tigris","Panthera","Tiger",EN,D,-8572416
+18,10,"uncia","Uncia","Snow Leopard",NE,U,-16777216
+19,9,"nebulosa","Neofelis","Clouded Leopard",VU,D,-11184866
+20,8,"marmorata","Pardofelis","Marbled Cat",VU,D,-11184866
+24,23,"canadensis","Lynx","Canada Lynx",LC,S,-16731116
+25,23,"lynx","Lynx","Eurasian Lynx",LC,S,-16731116
+26,22,"pardinus","Lynx","Iberian Lynx",CR,D,-3014646
+27,21,"rufus","Lynx","Bobcat",LC,S,-16731116
+30,29,"temminckii","Catopuma","Asiatic golden cat",NE,U,-16777216
+31,29,"badia","Catopuma","Bornean cat",NE,U,-16777216
+32,28,"aurata","Profelis","African golden cat",NE,U,-16777216
+38,37,"braccatus","Leopardus","Pantanal cat",NE,U,-16777216
+39,37,"pajeros","Leopardus","Pampas cat",NE,U,-16777216
+40,36,"colocolo","Leopardus","Colocolo",NT,D,-12486656
+41,35,"jacobitus","Leopardus","Andean mountain cat",NE,U,-16777216
+44,43,"guigna","Leopardus","Chilean Cat",VU,D,-11184866
+45,43,"tigrinus","Leopardus","Oncilla",VU,D,-11184866
+46,42,"geoffroyi","Leopardus","Geoffroy's Cat",NT,D,-12486656
+48,47,"pardalis","Leopardus","Ocelot",LC,D,-16731116
+49,47,"wiedii","Leopardus","Margay",NT,D,-12486656
+56,55,"nigripes","Felis","Black-footed Cat",VU,D,-11184866
+57,55,"margarita","Felis","Sand Cat",NT,U,-12486656
+59,58,"silvestris","Felis","Wild Cat",LC,D,-16731116
+60,58,"catus","Felis","",NE,U,-16777216
+62,61,"chaus","Felis","Jungle Cat",LC,D,-16731116
+63,61,"bieti","Felis","",NE,U,-16777216
+64,52,"manul","Felis","",NE,U,-16777216
+65,51,"caracal","Caracal","Caracal",LC,U,-16731116
+66,50,"serval","Leptailurus","Serval",LC,S,-16731116
+71,70,"bengalensis","Prionailurus","Leopard Cat",LC,S,-16731116
+72,70,"iriomotensis","Prionailurus","",NE,U,-16777216
+73,69,"viverrinus","Prionailurus","Fishing Cat",EN,D,-8572416
+74,68,"rubiginosus","Prionailurus","Rusty-spotted Cat",VU,D,-11184866
+75,67,"planiceps","Prionailurus","Flat-headed Cat",EN,D,-8572416
+77,76,"yagouaroundi","Puma","Jaguarundi",LC,D,-16731116
+78,76,"concolor","Puma","Puma",LC,D,-16731116
+79,1,"jubatus","Acinonyx","Cheetah",VU,D,-11184866
+83,82,"hyaena","Hyaena","Striped Hyaena",NT,D,-12486656
+84,82,"brunnea","Hyaena","Brown Hyaena",NT,D,-12486656
+85,81,"crocuta","Crocuta","Spotted Hyaena",LC,D,-16731116
+86,80,"cristata","Proteles","Aardwolf",LC,S,-16731116

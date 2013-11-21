@@ -1,63 +1,38 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"scutellatus","Acanthodactylus","",NE,U,-16777216
-14,12,"longipes","Acanthodactylus","",NE,U,-16777216
-15,11,"aureus","Acanthodactylus","",NE,U,-16777216
-16,10,"savignyi","Acanthodactylus","Savigny's Fringe-fingered Lizard",NT,U,-12486656
-19,18,"spinicauda","Acanthodactylus","Doumergue's Fringe-fingered Lizard",CR,D,-3014646
-20,18,"maculatus","Acanthodactylus","Spotted Fringe-fingered Lizard",LC,U,-16731116
-21,17,"bedriagae","Acanthodactylus","",NE,U,-16777216
-27,26,"blanfordii","Acanthodactylus","",NE,U,-16777216
-28,26,"schmidti","Acanthodactylus","",NE,U,-16777216
-30,29,"arabicus","Acanthodactylus","",NE,U,-16777216
-31,29,"haasi","Acanthodactylus","",NE,U,-16777216
-32,24,"cantoris","Acanthodactylus","",NE,U,-16777216
-33,23,"micropholis","Acanthodactylus","",NE,U,-16777216
-35,34,"boskianus","Acanthodactylus","",NE,U,-16777216
-36,34,"grandis","Acanthodactylus","",NE,U,-16777216
-38,37,"pardalis","Acanthodactylus","Leopard Fringe-fingered Lizard",VU,D,-11184866
-39,37,"robustus","Acanthodactylus","",NE,U,-16777216
-41,40,"tristrami","Acanthodactylus","Lebanon Fringe-fingered Lizard",LC,U,-16731116
-42,40,"erythrurus","Acanthodactylus","Spiny-footed Lizard",LC,S,-16731116
-51,50,"micropholidotus","Meroles","",NE,U,-16777216
-52,50,"cuneirostris","Meroles","",NE,U,-16777216
-53,49,"ctenodactylus","Meroles","",NE,U,-16777216
-55,54,"suborbitalis","Meroles","",NE,U,-16777216
-56,54,"knoxii","Meroles","",NE,U,-16777216
-57,47,"reticulatus","Meroles","",NE,U,-16777216
-58,46,"anchietae","Meroles","",NE,U,-16777216
-59,45,"longicaudata","Latastia","",NE,U,-16777216
-63,62,"benguellensis","Pedioplanis","",NE,U,-16777216
-64,62,"burchelli","Pedioplanis","",NE,U,-16777216
-65,61,"lineoocellata","Pedioplanis","",NE,U,-16777216
-66,60,"namaquensis","Pedioplanis","",NE,U,-16777216
-67,43,"intertexta","Nucras","",NE,U,-16777216
-72,71,"vauereselli","Adolfus","",NE,U,-16777216
-73,71,"africanus","Adolfus","",NE,U,-16777216
-74,70,"alleni","Adolfus","",NE,U,-16777216
-75,69,"jacksoni","Adolfus","",NE,U,-16777216
-76,68,"guentheri","Holaspis","",NE,U,-16777216
-79,78,"echinata","Gastropholis","",NE,U,-16777216
-80,78,"prasina","Gastropholis","",NE,U,-16777216
-81,77,"vittata","Gastropholis","",NE,U,-16777216
-83,82,"horvathi","Iberolacerta","Horvath's Rock Lizard",NT,S,-12486656
-84,82,"monticola","Iberolacerta","Iberian Rock Lizard",VU,D,-11184866
-93,92,"bedriagae","Lacerta","",NE,U,-16777216
-94,92,"brandti","Lacerta","",NE,U,-16777216
-95,91,"oxicephala","Lacerta","",NE,U,-16777216
-96,90,"trilineata","Lacerta","Balkan Green Lizard",LC,S,-16731116
-97,89,"andreanskyi","Lacerta","",NE,U,-16777216
-101,100,"viridis","Lacerta","Green Lizard",LC,D,-16731116
-102,100,"chlorogaster","Lacerta","",NE,U,-16777216
-104,103,"cappadocica","Lacerta","",NE,U,-16777216
-105,103,"graeca","Lacerta","",NE,U,-16777216
-106,98,"danfordi","Lacerta","",NE,U,-16777216
-110,109,"laevis","Lacerta","",NE,U,-16777216
-111,109,"agilis","Lacerta","",NE,U,-16777216
-112,108,"schreiberi","Lacerta","Iberian Emerald Lizard",NT,D,-12486656
-113,107,"mosorensis","Lacerta","",NE,U,-16777216
-114,86,"olivieri","Mesalina","",NE,U,-16777216
-115,85,"vivipara","Zootoca","Common Lizard",LC,U,-16731116
-119,118,"derjugini","Darevskia","Derjugin's Lizard",NT,D,-12486656
-120,118,"praticola","Darevskia","Meadow Lizard",NT,D,-12486656
-121,117,"rudis","Darevskia","Spiny-Tailed Lizard",LC,S,-16731116
-122,116,"saxicola","Darevskia","Rock Lizard",LC,S,-16731116
+10,9,"natalensis","Cossypha","Red-capped Robin-chat",LC,U,-16731116
+11,9,"gunningi","Sheppardia","East Coast Akalat",NT,U,-12486656
+12,8,"polioptera","Cossypha","Grey-winged Robin-chat",LC,U,-16731116
+13,7,"sharpei","Sheppardia","Sharpe's Akalat",LC,U,-16731116
+14,6,"bocagei","Sheppardia","Bocage's Akalat",LC,U,-16731116
+17,16,"aequatorialis","Sheppardia","Equatorial Akalat",LC,U,-16731116
+18,16,"gabela","Sheppardia","Gabela Akalat",EN,U,-8572416
+19,15,"cyornithopsis","Sheppardia","Lowland Akalat",LC,U,-16731116
+22,21,"aurantiithorax","Sheppardia","Rubeho Akalat",EN,U,-8572416
+23,21,"lowei","Sheppardia","Iringa Akalat",VU,U,-11184866
+24,20,"montana","Sheppardia","Usambara Akalat",EN,U,-8572416
+28,27,"archeri","Cossypha","Archer's Robin-chat",LC,U,-16731116
+29,27,"caffra","Cossypha","Cape Robin-chat",LC,U,-16731116
+30,26,"anomala","Cossypha","Olive-flanked Robin-chat",LC,U,-16731116
+31,25,"humeralis","Cossypha","White-throated Robin-chat",LC,U,-16731116
+39,38,"heuglini","Cossypha","White-browed Robin-chat",LC,U,-16731116
+40,38,"semirufa","Cossypha","Rueppell's Robin-chat",LC,U,-16731116
+41,37,"niveicapilla","Cossypha","Snowy-crowned Robin-chat",LC,U,-16731116
+43,42,"heinrichi","Cossypha","White-headed Robin-chat",VU,U,-11184866
+44,42,"dichroa","Cossypha","Chorister Robin-chat",LC,U,-16731116
+45,35,"albicapilla","Cossypha","White-crowned Robin-chat",LC,U,-16731116
+46,34,"henrici","Ficedula","Damar Flycatcher",NT,U,-12486656
+47,33,"cyanocampter","Cossypha","Blue-shouldered Robin-chat",LC,U,-16731116
+49,48,"roberti","Cossyphicula","White-bellied Robin-chat",LC,U,-16731116
+50,48,"isabellae","Cossypha","Mountain Robin-chat",LC,U,-16731116
+54,53,"flavirostris","Humblotia","Grand Comoro Flycatcher",EN,U,-8572416
+55,53,"erythrothorax","Stiphrornis","Forest Robin",LC,U,-16731116
+57,56,"swynnertoni","Swynnertonia","Swynnerton's Robin",VU,U,-11184866
+58,56,"stellata","Pogonocichla","White-starred Robin",LC,U,-16731116
+61,60,"ruficauda","Cichladusa","Rufous-tailed Palm-thrush",LC,U,-16731116
+62,60,"arquata","Cichladusa","Collared Palm-thrush",LC,U,-16731116
+63,59,"guttata","Cichladusa","Spotted Morning-thrush",LC,U,-16731116
+68,67,"fuelleborni","Alethe","White-chested Alethe",LC,U,-16731116
+69,67,"choloensis","Alethe","Thyolo Alethe",EN,U,-8572416
+70,66,"poliophrys","Alethe","Red-throated Alethe",LC,U,-16731116
+71,65,"poliocephala","Alethe","Brown-chested Alethe",LC,U,-16731116
+72,64,"diademata","Alethe","White-tailed Alethe",LC,U,-16731116

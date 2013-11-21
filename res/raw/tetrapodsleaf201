@@ -1,49 +1,97 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"vitticeps","Pogona","",NE,U,-16777216
-12,10,"minor","Pogona","",NE,U,-16777216
-13,9,"minima","Pogona","",NE,U,-16777216
-15,14,"nullarbor","Pogona","",NE,U,-16777216
-16,14,"barbata","Pogona","",NE,U,-16777216
-20,19,"parviceps","Tympanocryptis","",NE,U,-16777216
-21,19,"intima","Tympanocryptis","",NE,U,-16777216
-22,18,"lineata","Tympanocryptis","",NE,U,-16777216
-23,17,"cephalus","Tympanocryptis","",NE,U,-16777216
-26,25,"muricatus","Amphibolurus","",NE,U,-16777216
-27,25,"nobbi","Amphibolurus","",NE,U,-16777216
-28,24,"burnsi","Amphibolurus","",NE,U,-16777216
-34,33,"australis","Diporiphora","",NE,U,-16777216
-35,33,"bilineata","Diporiphora","",NE,U,-16777216
-36,32,"albilabris","Diporiphora","",NE,U,-16777216
-38,37,"pindan","Diporiphora","",NE,U,-16777216
-39,37,"magna","Diporiphora","",NE,U,-16777216
-40,30,"kingii","Chlamydosaurus","",NE,U,-16777216
-43,42,"temporalis","Lophognathus","",NE,U,-16777216
-44,42,"gilberti","Lophognathus","",NE,U,-16777216
-45,41,"longirostris","Lophognathus","",NE,U,-16777216
-47,46,"adelaidensis","Rankinia","",NE,U,-16777216
-48,46,"diemensis","Rankinia","",NE,U,-16777216
-60,59,"vadnappa","Ctenophorus","",NE,U,-16777216
-61,59,"fionni","Ctenophorus","",NE,U,-16777216
-62,58,"decresii","Ctenophorus","",NE,U,-16777216
-63,57,"rufescens","Ctenophorus","",NE,U,-16777216
-65,64,"femoralis","Ctenophorus","",NE,U,-16777216
-66,64,"maculatus","Ctenophorus","",NE,U,-16777216
-67,55,"salinarum","Ctenophorus","",NE,U,-16777216
-68,54,"pictus","Ctenophorus","",NE,U,-16777216
-70,69,"reticulatus","Ctenophorus","",NE,U,-16777216
-71,69,"nuchalis","Ctenophorus","",NE,U,-16777216
-72,52,"gibba","Ctenophorus","",NE,U,-16777216
-74,73,"caudicinctus","Ctenophorus","",NE,U,-16777216
-75,73,"ornatus","Ctenophorus","",NE,U,-16777216
-77,76,"scutulatus","Ctenophorus","",NE,U,-16777216
-78,76,"isolepis","Ctenophorus","",NE,U,-16777216
-79,49,"clayi","Ctenophorus","",NE,U,-16777216
-84,83,"nigrigularis","Hypsilurus","",NE,U,-16777216
-85,83,"modestus","Hypsilurus","",NE,U,-16777216
-87,86,"dilophus","Hypsilurus","",NE,U,-16777216
-88,86,"spinipes","Hypsilurus","",NE,U,-16777216
-89,81,"godeffroyi","Hypsilurus","",NE,U,-16777216
-90,80,"brunnea","Chelosania","",NE,U,-16777216
-91,1,"horridus","Moloch","",NE,U,-16777216
-93,92,"cocincinus","Physignathus","",NE,U,-16777216
-94,92,"lesueurii","Physignathus","",NE,U,-16777216
+8,7,"ruficollis","Jynx","Rufous-necked Wryneck",LC,U,-16731116
+9,7,"torquilla","Jynx","Eurasian Wryneck",LC,U,-16731116
+17,16,"variegatus","Indicator","Scaly-throated Honeyguide",LC,U,-16731116
+18,16,"maculatus","Indicator","Spotted Honeyguide",LC,U,-16731116
+19,15,"pumilio","Indicator","Dwarf Honeyguide",NT,U,-12486656
+22,21,"minor","Indicator","Lesser Honeyguide",LC,U,-16731116
+23,21,"exilis","Indicator","Least Honeyguide",LC,U,-16731116
+24,20,"willcocksi","Indicator","Willcocks's Honeyguide",LC,U,-16731116
+26,25,"xanthonotus","Indicator","Yellow-rumped Honeyguide",NT,U,-12486656
+27,25,"indicator","Indicator","Greater Honeyguide",LC,U,-16731116
+29,28,"conirostris","Indicator","Thick-billed Honeyguide",_U,[,-16777216
+30,28,"meliphilus","Indicator","Pallid Honeyguide",LC,U,-16731116
+31,11,"archipelagicus","Indicator","Malaysian Honeyguide",NT,U,-12486656
+36,35,"regulus","Prodotiscus","Wahlberg's Honeyguide",LC,U,-16731116
+37,35,"insignis","Prodotiscus","Cassin's Honeyguide",LC,U,-16731116
+38,34,"zambesiae","Prodotiscus","Green-backed Honeyguide",LC,U,-16731116
+39,33,"robustus","Melichneutes","Lyre-tailed Honeyguide",LC,U,-16731116
+41,40,"eisentrauti","Melignomon","Yellow-footed Honeyguide",DD,U,-11513776
+42,40,"zenkeri","Melignomon","Zenker's Honeyguide",LC,U,-16731116
+51,50,"chacuru","Nystalus","White-eared Puffbird",LC,U,-16731116
+52,50,"radiatus","Nystalus","Barred Puffbird",LC,U,-16731116
+53,49,"striolatus","Nystalus","Striolated Puffbird",LC,U,-16731116
+54,48,"maculatus","Nystalus","Spot-backed Puffbird",LC,U,-16731116
+55,47,"capensis","Bucco","Collared Puffbird",LC,U,-16731116
+58,57,"macrodactylus","Bucco","Chestnut-capped Puffbird",LC,U,-16731116
+59,57,"tenebrosa","Chelidoptera","Swallow-wing",LC,U,-16731116
+61,60,"noanamae","Bucco","Sooty-capped Puffbird",NT,U,-12486656
+62,60,"tamatia","Bucco","Spotted Puffbird",LC,U,-16731116
+65,64,"flavirostris","Monasa","Yellow-billed Nunbird",LC,U,-16731116
+66,64,"morphoeus","Monasa","White-fronted Nunbird",LC,U,-16731116
+68,67,"nigrifrons","Monasa","Black-fronted Nunbird",LC,U,-16731116
+69,67,"atra","Monasa","Black Nunbird",LC,U,-16731116
+79,78,"albirostris","Galbula","Yellow-billed Jacamar",LC,U,-16731116
+80,78,"pastazae","Galbula","Coppery-chested Jacamar",VU,U,-11184866
+81,77,"cyanescens","Galbula","Bluish-fronted Jacamar",LC,U,-16731116
+83,82,"chalcothorax","Galbula","Purplish Jacamar",LC,U,-16731116
+84,82,"galbula","Galbula","Green-tailed Jacamar",LC,U,-16731116
+86,85,"ruficauda","Galbula","Rufous-tailed Jacamar",LC,U,-16731116
+87,85,"cyanicollis","Galbula","Blue-necked Jacamar",LC,U,-16731116
+89,88,"tombacea","Galbula","White-chinned Jacamar",LC,U,-16731116
+90,88,"dea","Galbula","Paradise Jacamar",LC,U,-16731116
+91,73,"leucogastra","Galbula","Bronzy Jacamar",LC,U,-16731116
+93,92,"leucotis","Galbalcyrhynchus","White-eared Jacamar",LC,U,-16731116
+94,92,"purusianus","Galbalcyrhynchus","Chestnut Jacamar",LC,U,-16731116
+95,71,"aureus","Jacamerops","Great Jacamar",LC,U,-16731116
+99,98,"albogularis","Brachygalba","White-throated Jacamar",LC,U,-16731116
+100,98,"lugubris","Brachygalba","Brown Jacamar",LC,U,-16731116
+102,101,"salmoni","Brachygalba","Dusky-backed Jacamar",LC,U,-16731116
+103,101,"goeringi","Brachygalba","Pale-headed Jacamar",LC,U,-16731116
+104,96,"tridactyla","Jacamaralcyon","Three-toed Jacamar",VU,U,-11184866
+115,114,"abyssinicus","Coracias","Abyssinian Roller",LC,U,-16731116
+116,114,"garrulus","Coracias","European Roller",NT,U,-12486656
+117,113,"caudatus","Coracias","Lilac-breasted Roller",LC,U,-16731116
+118,112,"benghalensis","Coracias","Indian Roller",LC,U,-16731116
+119,111,"temminckii","Coracias","Purple-winged Roller",LC,U,-16731116
+121,120,"cyanogaster","Coracias","Blue-bellied Roller",LC,U,-16731116
+122,120,"spatulatus","Coracias","Racket-tailed Roller",LC,U,-16731116
+123,109,"naevia","Coracias","Rufous-crowned Roller",LC,U,-16731116
+127,126,"glaucurus","Eurystomus","Broad-billed Roller",LC,U,-16731116
+128,126,"orientalis","Eurystomus","Asian Dollarbird",LC,U,-16731116
+129,125,"azureus","Eurystomus","Purple Dollarbird",NT,U,-12486656
+130,124,"gularis","Eurystomus","Blue-throated Roller",LC,U,-16731116
+135,134,"crossleyi","Atelornis","Rufous-headed Ground-roller",NT,U,-12486656
+136,134,"pittoides","Atelornis","Pitta-like Ground-roller",LC,U,-16731116
+137,133,"chimaera","Uratelornis","Long-tailed Ground-roller",VU,U,-11184866
+138,132,"squamiger","Brachypteracias","Scaly Ground-roller",VU,U,-11184866
+139,131,"leptosomus","Brachypteracias","Short-legged Ground-roller",VU,U,-11184866
+146,145,"hydrocorax","Buceros","Rufous Hornbill",NT,U,-12486656
+147,145,"bicornis","Buceros","Great Hornbill",NT,U,-12486656
+148,144,"rhinoceros","Buceros","Rhinoceros Hornbill",NT,U,-12486656
+149,143,"vigil","Rhinoplax","Helmeted Hornbill",NT,U,-12486656
+158,157,"erythrorhynchus","Tockus","Red-billed Hornbill",LC,U,-16731116
+159,157,"monteiri","Tockus","Monteiro's Hornbill",LC,U,-16731116
+160,156,"flavirostris","Tockus","Eastern Yellow-billed Hornbill",LC,U,-16731116
+161,155,"bradfieldi","Tockus","Bradfield's Hornbill",LC,U,-16731116
+163,162,"leucomelas","Tockus","Southern Yellow-billed Hornbill",LC,U,-16731116
+164,162,"jacksoni","Tockus","Jackson's Hornbill",LC,U,-16731116
+167,166,"pallidirostris","Tockus","Pale-billed Hornbill",LC,U,-16731116
+168,166,"hemprichii","Tockus","Hemprich's Hornbill",LC,U,-16731116
+169,165,"camurus","Tockus","Red-billed Dwarf Hornbill",LC,U,-16731116
+170,152,"deckeni","Tockus","Von der Decken's Hornbill",LC,U,-16731116
+174,173,"fasciatus","Tockus","African Pied Hornbill",LC,U,-16731116
+175,173,"alboterminatus","Tockus","Crowned Hornbill",LC,U,-16731116
+176,172,"nasutus","Tockus","African Grey Hornbill",LC,U,-16731116
+177,171,"hartlaubi","Tockus","Black Dwarf Hornbill",LC,U,-16731116
+179,178,"abyssinicus","Bucorvus","Abyssinian Ground-hornbill",LC,U,-16731116
+180,178,"cafer","Bucorvus","Southern Ground-hornbill",VU,U,-11184866
+186,185,"damarensis","Phoeniculus","Violet Woodhoopoe",LC,U,-16731116
+187,185,"purpureus","Phoeniculus","Green Woodhoopoe",LC,U,-16731116
+188,184,"castaneiceps","Phoeniculus","Forest Woodhoopoe",LC,U,-16731116
+190,189,"somaliensis","Phoeniculus","Black-billed Woodhoopoe",LC,U,-16731116
+191,189,"bollei","Phoeniculus","White-headed Woodhoopoe",LC,U,-16731116
+194,193,"cyanomelas","Rhinopomastus","Common Scimitarbill",LC,U,-16731116
+195,193,"minor","Rhinopomastus","Abyssinian Scimitarbill",LC,U,-16731116
+196,192,"aterrimus","Rhinopomastus","Black Scimitarbill",LC,U,-16731116
+197,181,"epops","Upupa","Eurasian Hoopoe",LC,U,-16731116

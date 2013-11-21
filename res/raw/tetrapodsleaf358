@@ -1,27 +1,33 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"dissimulatus","Eleutherodactylus","",NE,U,-16777216
-9,7,"eugeniae","Eleutherodactylus","",NE,U,-16777216
-10,6,"nicefori","Eleutherodactylus","",NE,U,-16777216
-12,11,"bogotensis","Eleutherodactylus","",NE,U,-16777216
-13,11,"delius","Eleutherodactylus","",NE,U,-16777216
-14,4,"merostictus","Eleutherodactylus","",NE,U,-16777216
-16,15,"altamazonicus","Eleutherodactylus","",NE,U,-16777216
-17,15,"celator","Eleutherodactylus","",NE,U,-16777216
-20,19,"rufioculis","Eleutherodactylus","",NE,U,-16777216
-21,19,"crucifer","Eleutherodactylus","",NE,U,-16777216
-22,18,"caryophyllaceus","Eleutherodactylus","",NE,U,-16777216
-27,26,"imitatrix","Eleutherodactylus","",NE,U,-16777216
-28,26,"luscombei","Eleutherodactylus","",NE,U,-16777216
-29,25,"avius","Eleutherodactylus","",NE,U,-16777216
-30,24,"croceoinguinis","Eleutherodactylus","",NE,U,-16777216
-33,32,"molybrignus","Eleutherodactylus","",NE,U,-16777216
-34,32,"baiotis","Eleutherodactylus","",NE,U,-16777216
-35,31,"dorsopictus","Eleutherodactylus","",NE,U,-16777216
-41,40,"infraguttatus","Eleutherodactylus","",NE,U,-16777216
-42,40,"degener","Eleutherodactylus","",NE,U,-16777216
-43,39,"frater","Eleutherodactylus","",NE,U,-16777216
-44,38,"martiae","Eleutherodactylus","",NE,U,-16777216
-45,37,"rosadoi","Eleutherodactylus","",NE,U,-16777216
-48,47,"turumiquirensis","Eleutherodactylus","",NE,U,-16777216
-49,47,"ridens","Eleutherodactylus","",NE,U,-16777216
-50,46,"walkeri","Eleutherodactylus","",NE,U,-16777216
+11,10,"arminjoniana","Pterodroma","Trindade Petrel",VU,U,-11184866
+12,10,"neglecta","Pterodroma","Kermadec Petrel",LC,U,-16731116
+13,9,"ultima","Pterodroma","Murphy's Petrel",NT,U,-12486656
+15,14,"heraldica","Pterodroma","Herald Petrel",LC,U,-16731116
+16,14,"alba","Pterodroma","Phoenix Petrel",EN,U,-8572416
+17,7,"defilippiana","Pterodroma","De Filippi's Petrel",VU,U,-11184866
+21,20,"sandwichensis","Pterodroma","Hawaiian Petrel",VU,U,-11184866
+22,20,"phaeopygia","Pterodroma","Galapagos Petrel",CR,U,-3014646
+24,23,"cervicalis","Pterodroma","White-necked Petrel",VU,U,-11184866
+25,23,"baraui","Pterodroma","Barau's Petrel",EN,U,-8572416
+26,18,"externa","Pterodroma","Juan Fernandez Petrel",VU,U,-11184866
+29,28,"inexpectata","Pterodroma","Mottled Petrel",NT,U,-12486656
+30,28,"caribbaea","Pterodroma","Jamaica Petrel",CR,U,-3014646
+31,27,"brevipes","Pterodroma","Collared Petrel",NT,U,-12486656
+32,4,"pycrofti","Pterodroma","Pycroft's Petrel",VU,U,-11184866
+33,3,"solandri","Pterodroma","Providence Petrel",VU,U,-11184866
+36,35,"nigripennis","Pterodroma","Black-winged Petrel",LC,U,-16731116
+37,35,"leucoptera","Pterodroma","Gould's Petrel",VU,U,-11184866
+38,34,"axillaris","Pterodroma","Chatham Petrel",EN,U,-8572416
+41,40,"longirostris","Pterodroma","Stejneger's Petrel",VU,U,-11184866
+42,40,"cookii","Pterodroma","Cook's Petrel",VU,U,-11184866
+44,43,"atrata","Pterodroma","Henderson Petrel",EN,U,-8572416
+45,43,"hypoleuca","Pterodroma","Bonin Petrel",LC,U,-16731116
+51,50,"macroptera","Pterodroma","Great-winged Petrel",LC,U,-16731116
+52,50,"lessonii","Pterodroma","White-headed Petrel",LC,U,-16731116
+53,49,"incerta","Pterodroma","Atlantic Petrel",EN,U,-8572416
+54,48,"magentae","Pterodroma","Magenta Petrel",CR,U,-3014646
+58,57,"madeira","Pterodroma","Zino's Petrel",EN,U,-8572416
+59,57,"feae","Pterodroma","Fea's Petrel",NT,U,-12486656
+60,56,"cahow","Pterodroma","Bermuda Petrel",EN,U,-8572416
+61,55,"hasitata","Pterodroma","Black-capped Petrel",EN,U,-8572416
+62,46,"mollis","Pterodroma","Soft-plumaged Petrel",LC,U,-16731116

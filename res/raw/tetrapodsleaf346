@@ -1,95 +1,86 @@
 index,parent,name1,name2,common,redlist,popstab,color
-18,17,"sternothylax","Eleutherodactylus","",NE,U,-16777216
-19,17,"quaquaversus","Eleutherodactylus","",NE,U,-16777216
-21,20,"elegans","Eleutherodactylus","",NE,U,-16777216
-22,20,"altae","Eleutherodactylus","",NE,U,-16777216
-28,27,"salaputium","Eleutherodactylus","",NE,U,-16777216
-29,27,"marahuaka","Eleutherodactylus","",NE,U,-16777216
-31,30,"permixtus","Eleutherodactylus","",NE,U,-16777216
-32,30,"mondolfii","Eleutherodactylus","",NE,U,-16777216
-34,33,"trachyblepharis","Eleutherodactylus","",NE,U,-16777216
-35,33,"exoristus","Eleutherodactylus","",NE,U,-16777216
-36,24,"apiculatus","Eleutherodactylus","",NE,U,-16777216
-41,40,"orphnolaimus","Eleutherodactylus","",NE,U,-16777216
-42,40,"ignicolor","Eleutherodactylus","",NE,U,-16777216
-43,39,"paululus","Eleutherodactylus","",NE,U,-16777216
-45,44,"ornatissimus","Eleutherodactylus","",NE,U,-16777216
-46,44,"boulengeri","Eleutherodactylus","",NE,U,-16777216
-47,37,"bernali","Eleutherodactylus","",NE,U,-16777216
-54,53,"simonbolivari","Eleutherodactylus","",NE,U,-16777216
-55,53,"pataikos","Eleutherodactylus","",NE,U,-16777216
-56,52,"sanctaemartae","Eleutherodactylus","",NE,U,-16777216
-57,51,"atrabracus","Eleutherodactylus","",NE,U,-16777216
-58,50,"vidua","Eleutherodactylus","",NE,U,-16777216
-62,61,"charlottevillensis","Eleutherodactylus","",NE,U,-16777216
-63,61,"danae","Eleutherodactylus","",NE,U,-16777216
-64,60,"orestes","Eleutherodactylus","",NE,U,-16777216
-65,59,"pinguis","Eleutherodactylus","",NE,U,-16777216
-75,74,"quinquagesimus","Eleutherodactylus","",NE,U,-16777216
-76,74,"erythropleura","Eleutherodactylus","",NE,U,-16777216
-77,73,"susaguae","Eleutherodactylus","",NE,U,-16777216
-79,78,"devillei","Eleutherodactylus","",NE,U,-16777216
-80,78,"sulculus","Eleutherodactylus","",NE,U,-16777216
-82,81,"truebae","Eleutherodactylus","",NE,U,-16777216
-83,81,"ernesti","Eleutherodactylus","",NE,U,-16777216
-86,85,"vertebralis","Eleutherodactylus","",NE,U,-16777216
-87,85,"incertus","Eleutherodactylus","",NE,U,-16777216
-88,84,"appendiculatus","Eleutherodactylus","",NE,U,-16777216
-90,89,"acatallelus","Eleutherodactylus","",NE,U,-16777216
-91,89,"siopelus","Eleutherodactylus","",NE,U,-16777216
-93,92,"tubernasus","Eleutherodactylus","",NE,U,-16777216
-94,92,"kareliae","Eleutherodactylus","",NE,U,-16777216
-99,98,"lancinii","Eleutherodactylus","",NE,U,-16777216
-100,98,"ginesi","Eleutherodactylus","",NE,U,-16777216
-101,97,"zophus","Eleutherodactylus","",NE,U,-16777216
-103,102,"wightmanae","Eleutherodactylus","Melodius Coqui",EN,D,-8572416
-104,102,"glamyrus","Eleutherodactylus","",EN,D,-8572416
-105,95,"crepitans","Eleutherodactylus","",NE,U,-16777216
-111,110,"acutirostris","Eleutherodactylus","",NE,U,-16777216
-112,110,"corona","Eleutherodactylus","",CR,D,-3014646
-114,113,"albericoi","Eleutherodactylus","",NE,U,-16777216
-115,113,"audanti","Eleutherodactylus","",VU,D,-11184866
-119,118,"haitianus","Eleutherodactylus","",EN,D,-8572416
-120,118,"abbotti","Eleutherodactylus","",LC,S,-16731116
-121,117,"eunaster","Eleutherodactylus","",CR,D,-3014646
-122,116,"deinops","Eleutherodactylus","",NE,U,-16777216
-124,123,"aemulatus","Eleutherodactylus","",NE,U,-16777216
-125,123,"mariposa","Eleutherodactylus","",CR,D,-3014646
-129,128,"aniptopalmatus","Eleutherodactylus","",NE,U,-16777216
-130,128,"ruthveni","Eleutherodactylus","",NE,U,-16777216
-131,127,"viridis","Eleutherodactylus","",NE,U,-16777216
-134,133,"douglasi","Eleutherodactylus","",NE,U,-16777216
-135,133,"galdi","Eleutherodactylus","",NE,U,-16777216
-136,132,"delicatus","Eleutherodactylus","",NE,U,-16777216
-140,139,"hypostenor","Pelorius","",NE,U,-16777216
-141,139,"inoptatus","Pelorius","",NE,U,-16777216
-142,138,"parapelates","Pelorius","",NE,U,-16777216
-145,144,"chlorophenax","Pelorius","",NE,U,-16777216
-146,144,"ruthae","Pelorius","",NE,U,-16777216
-147,143,"nortoni","Pelorius","",NE,U,-16777216
-151,150,"maranguapensis","Adelophryne","",EN,D,-8572416
-152,150,"baturitensis","Adelophryne","",VU,D,-11184866
-153,149,"gutturosa","Adelophryne","Guiana Shield Frog",LC,S,-16731116
-155,154,"pachydactyla","Adelophryne","",DD,U,-11513776
-156,154,"adiastola","Adelophryne","",LC,S,-16731116
-157,3,"miriamae","Phyzelaphryne","",LC,U,-16731116
-161,160,"sanctaecrucis","Oreobates","",LC,S,-16731116
-162,160,"simmonsi","Oreobates","",VU,S,-11184866
-163,159,"quixensis","Oreobates","",LC,S,-16731116
-166,165,"choristolemma","Oreobates","",DD,U,-11513776
-167,165,"sanderi","Oreobates","",LC,U,-16731116
-168,164,"saxatilis","Oreobates","",DD,U,-11513776
-176,175,"hermogenesi","Brachycephalus","Flea-frog",LC,D,-16731116
-177,175,"nodoterga","Brachycephalus","",DD,U,-11513776
-178,174,"didactylus","Brachycephalus","Flea-frog",LC,D,-16731116
-180,179,"ephippium","Brachycephalus","Pumpkin Toadlet",LC,D,-16731116
-181,179,"vertebralis","Brachycephalus","",DD,U,-11513776
-183,182,"izecksohni","Brachycephalus","",DD,U,-11513776
-184,182,"brunneus","Brachycephalus","",DD,U,-11513776
-185,171,"pernix","Brachycephalus","",DD,U,-11513776
-189,188,"tridactyla","Euparkerella","",VU,S,-11184866
-190,188,"cochranae","Euparkerella","",LC,D,-16731116
-191,187,"brasiliensis","Euparkerella","",LC,D,-16731116
-192,186,"robusta","Euparkerella","",VU,D,-11184866
-194,193,"ternetzi","Barycholos","",LC,D,-16731116
-195,193,"pulcher","Barycholos","",LC,U,-16731116
+14,13,"boyciana","Ciconia","Oriental Stork",EN,U,-8572416
+15,13,"ciconia","Ciconia","White Stork",LC,U,-16731116
+16,12,"maguari","Ciconia","Maguari Stork",LC,U,-16731116
+17,11,"nigra","Ciconia","Black Stork",LC,U,-16731116
+20,19,"episcopus","Ciconia","Woolly-necked Stork",LC,U,-16731116
+21,19,"stormi","Ciconia","Storm's Stork",EN,U,-8572416
+22,18,"abdimii","Ciconia","Abdim's Stork",LC,U,-16731116
+25,24,"crumeniferus","Leptoptilos","Marabou Stork",LC,U,-16731116
+26,24,"dubius","Leptoptilos","Greater Adjutant",EN,U,-8572416
+27,23,"javanicus","Leptoptilos","Lesser Adjutant",VU,U,-11184866
+33,32,"leucocephala","Mycteria","Painted Stork",NT,U,-12486656
+34,32,"cinerea","Mycteria","Milky Stork",VU,U,-11184866
+35,31,"ibis","Mycteria","Yellow-billed Stork",LC,U,-16731116
+36,30,"americana","Mycteria","Wood Stork",LC,U,-16731116
+39,38,"senegalensis","Ephippiorhynchus","Saddle-billed Stork",LC,U,-16731116
+40,38,"asiaticus","Ephippiorhynchus","Black-necked Stork",NT,U,-12486656
+41,37,"mycteria","Jabiru","Jabiru",LC,U,-16731116
+43,42,"lamelligerus","Anastomus","African Openbill",LC,U,-16731116
+44,42,"oscitans","Anastomus","Asian Openbill",LC,U,-16731116
+49,48,"adamsii","Gavia","Yellow-billed Loon",NT,U,-12486656
+50,48,"immer","Gavia","Common Loon",LC,U,-16731116
+51,47,"pacifica","Gavia","Pacific Loon",LC,U,-16731116
+52,46,"arctica","Gavia","Arctic Loon",LC,U,-16731116
+53,45,"stellata","Gavia","Red-throated Loon",LC,U,-16731116
+61,60,"livingstonii","Tauraco","Livingstone's Turaco",LC,U,-16731116
+62,60,"fischeri","Tauraco","Fischer's Turaco",NT,U,-12486656
+63,59,"corythaix","Tauraco","Knysna Turaco",LC,U,-16731116
+66,65,"hartlaubi","Tauraco","Hartlaub's Turaco",LC,U,-16731116
+67,65,"schalowi","Tauraco","Schalow's Turaco",LC,U,-16731116
+68,64,"schuetti","Tauraco","Black-billed Turaco",LC,U,-16731116
+72,71,"erythrolophus","Tauraco","Red-crested Turaco",LC,U,-16731116
+73,71,"leucolophus","Tauraco","White-crested Turaco",LC,U,-16731116
+74,70,"bannermani","Tauraco","Bannerman's Turaco",EN,U,-8572416
+75,69,"leucotis","Tauraco","White-cheeked Turaco",LC,U,-16731116
+80,79,"violacea","Musophaga","Violet Turaco",LC,U,-16731116
+81,79,"persa","Tauraco","Guinea Turaco",LC,U,-16731116
+82,78,"rossae","Musophaga","Ross's Turaco",LC,U,-16731116
+83,77,"macrorhynchus","Tauraco","Yellow-billed Turaco",LC,U,-16731116
+84,76,"ruspolii","Tauraco","Prince Ruspoli's Turaco",VU,U,-11184866
+86,85,"porphyreolophus","Tauraco","Purple-crested Turaco",LC,U,-16731116
+87,85,"johnstoni","Ruwenzorornis","Ruwenzori Turaco",LC,U,-16731116
+92,91,"personatus","Corythaixoides","Bare-faced Go-away-bird",LC,U,-16731116
+93,91,"concolor","Corythaixoides","Grey Go-away-bird",LC,U,-16731116
+94,90,"leucogaster","Corythaixoides","White-bellied Go-away-bird",LC,U,-16731116
+96,95,"piscator","Crinifer","Western Grey Plantain-eater",LC,U,-16731116
+97,95,"zonurus","Crinifer","Eastern Grey Plantain-eater",LC,U,-16731116
+98,88,"cristata","Corythaeola","Great Blue Turaco",LC,U,-16731116
+109,108,"pucheranii","Neomorphus","Red-billed Ground-cuckoo",LC,U,-16731116
+110,108,"squamiger","Neomorphus","Scaled Ground-cuckoo",NT,U,-12486656
+111,107,"rufipennis","Neomorphus","Rufous-winged Ground-cuckoo",LC,U,-16731116
+113,112,"geoffroyi","Neomorphus","Rufous-vented Ground-cuckoo",LC,U,-16731116
+114,112,"radiolosus","Neomorphus","Banded Ground-cuckoo",EN,U,-8572416
+116,115,"californianus","Geococcyx","Greater Roadrunner",LC,U,-16731116
+117,115,"velox","Geococcyx","Lesser Roadrunner",LC,U,-16731116
+118,104,"erythropygus","Morococcyx","Lesser Ground-cuckoo",LC,U,-16731116
+121,120,"phasianellus","Dromococcyx","Pheasant Cuckoo",LC,U,-16731116
+122,120,"pavoninus","Dromococcyx","Pavonine Cuckoo",LC,U,-16731116
+123,119,"naevia","Tapera","Striped Cuckoo",LC,U,-16731116
+127,126,"sulcirostris","Crotophaga","Groove-billed Ani",LC,U,-16731116
+128,126,"ani","Crotophaga","Smooth-billed Ani",LC,U,-16731116
+129,125,"major","Crotophaga","Greater Ani",LC,U,-16731116
+130,124,"guira","Guira","Guira Cuckoo",LC,U,-16731116
+136,135,"variegatus","Mesitornis","White-breasted Mesite",VU,U,-11184866
+137,135,"unicolor","Mesitornis","Brown Mesite",VU,U,-11184866
+138,134,"benschi","Monias","Subdesert Mesite",VU,U,-11184866
+146,145,"lichtensteinii","Pterocles","Lichtenstein's Sandgrouse",LC,U,-16731116
+147,145,"alchata","Pterocles","Pin-tailed Sandgrouse",LC,U,-16731116
+149,148,"burchelli","Pterocles","Burchell's Sandgrouse",LC,U,-16731116
+150,148,"coronatus","Pterocles","Crowned Sandgrouse",LC,U,-16731116
+153,152,"gutturalis","Pterocles","Yellow-throated Sandgrouse",LC,U,-16731116
+154,152,"orientalis","Pterocles","Black-bellied Sandgrouse",LC,U,-16731116
+155,151,"personatus","Pterocles","Madagascar Sandgrouse",LC,U,-16731116
+159,158,"bicinctus","Pterocles","Double-banded Sandgrouse",LC,U,-16731116
+160,158,"indicus","Pterocles","Painted Sandgrouse",LC,U,-16731116
+161,157,"decoratus","Pterocles","Black-faced Sandgrouse",LC,U,-16731116
+163,162,"quadricinctus","Pterocles","Four-banded Sandgrouse",LC,U,-16731116
+164,162,"namaqua","Pterocles","Namaqua Sandgrouse",LC,U,-16731116
+166,165,"exustus","Pterocles","Chestnut-bellied Sandgrouse",LC,U,-16731116
+167,165,"senegallus","Pterocles","Spotted Sandgrouse",LC,U,-16731116
+169,168,"paradoxus","Syrrhaptes","Pallas's Sandgrouse",LC,U,-16731116
+170,168,"tibetanus","Syrrhaptes","Tibetan Sandgrouse",LC,U,-16731116
+171,139,"hoazin","Opisthocomus","Hoatzin",LC,U,-16731116
+174,173,"rubricauda","Phaethon","Red-tailed Tropicbird",LC,U,-16731116
+175,173,"lepturus","Phaethon","White-tailed Tropicbird",LC,U,-16731116
+176,172,"aethereus","Phaethon","Red-billed Tropicbird",LC,U,-16731116

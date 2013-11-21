@@ -1,45 +1,22 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"albiventris","Pachycephala","Green-backed Whistler",LC,U,-16731116
-17,15,"grisola","Pachycephala","Mangrove Whistler",LC,U,-16731116
-18,14,"sulfuriventer","Pachycephala","Sulphur-bellied Whistler",LC,U,-16731116
-19,13,"hypoxantha","Pachycephala","Bornean Whistler",LC,U,-16731116
-20,12,"philippinensis","Pachycephala","Yellow-bellied Whistler",LC,U,-16731116
-24,23,"modesta","Pachycephala","Brown-backed Whistler",LC,U,-16731116
-25,23,"lorentzi","Pachycephala","Lorentz's Whistler",LC,U,-16731116
-26,22,"leucogastra","Pachycephala","White-bellied Whistler",LC,U,-16731116
-27,21,"umbrina","Colluricincla","Sooty Shrike-thrush",LC,U,-16731116
-33,32,"lanioides","Pachycephala","White-breasted Whistler",LC,U,-16731116
-34,32,"rufiventris","Pachycephala","Rufous Whistler",LC,U,-16731116
-36,35,"griseonota","Pachycephala","Drab Whistler",LC,U,-16731116
-37,35,"tenebrosa","Colluricincla","Morningbird",LC,U,-16731116
-38,30,"arctitorquis","Pachycephala","Wallacean Whistler",LC,U,-16731116
-39,29,"aurea","Pachycephala","Golden-backed Whistler",LC,U,-16731116
-42,41,"hyperythra","Pachycephala","Rusty Whistler",LC,U,-16731116
-43,41,"phaionota","Pachycephala","Island Whistler",LC,U,-16731116
-44,40,"simplex","Pachycephala","Grey Whistler",LC,U,-16731116
-47,46,"melanura","Pachycephala","Black-tailed Whistler",LC,U,-16731116
-48,46,"pectoralis","Pachycephala","Golden Whistler",LC,U,-16731116
-49,45,"implicata","Pachycephala","Hooded Whistler",LC,U,-16731116
-52,51,"homeyeri","Pachycephala","White-vented Whistler",LC,U,-16731116
-53,51,"monacha","Pachycephala","Black-headed Whistler",LC,U,-16731116
-55,54,"schlegelii","Pachycephala","Regent Whistler",LC,U,-16731116
-56,54,"jacquinoti","Pachycephala","Tongan Whistler",NT,U,-12486656
-57,7,"caledonica","Pachycephala","New Caledonian Whistler",LC,U,-16731116
-58,6,"soror","Pachycephala","Sclater's Whistler",LC,U,-16731116
-62,61,"rufogularis","Pachycephala","Red-lored Whistler",NT,U,-12486656
-63,61,"inornata","Pachycephala","Gilbert's Whistler",LC,U,-16731116
-65,64,"meyeri","Pachycephala","Vogelkop Whistler",LC,U,-16731116
-66,64,"olivacea","Pachycephala","Olive Whistler",LC,U,-16731116
-67,59,"orpheus","Pachycephala","Fawn-breasted Whistler",LC,U,-16731116
-69,68,"nudigula","Pachycephala","Bare-throated Whistler",LC,U,-16731116
-70,68,"flavifrons","Pachycephala","Samoan Whistler",LC,U,-16731116
-72,71,"sanghirensis","Colluricincla","Sangihe Shrike-thrush",CR,U,-3014646
-73,71,"raveni","Coracornis","Maroon-backed Whistler",LC,U,-16731116
-74,2,"nigrescens","Pitohui","Black Pitohui",LC,U,-16731116
-79,78,"woodwardi","Colluricincla","Sandstone Shrike-thrush",LC,U,-16731116
-80,78,"harmonica","Colluricincla","Grey Shrike-thrush",LC,U,-16731116
-81,77,"boweri","Colluricincla","Bower's Shrike-thrush",LC,U,-16731116
-82,76,"megarhyncha","Colluricincla","Little Shrike-thrush",LC,U,-16731116
-84,83,"incertus","Pitohui","White-bellied Pitohui",NT,U,-12486656
-85,83,"ferrugineus","Pitohui","Rusty Pitohui",LC,U,-16731116
-86,0,"flavogriseum","Pachycare","Goldenface",LC,U,-16731116
+6,5,"viridicans","Eleutherodactylus","",NE,U,-16777216
+7,5,"lymani","Eleutherodactylus","",NE,U,-16777216
+8,4,"w-nigrum","Eleutherodactylus","",NE,U,-16777216
+9,3,"gutturalis","Eleutherodactylus","",NE,U,-16777216
+12,11,"buccinator","Eleutherodactylus","",NE,U,-16777216
+13,11,"bisignatus","Eleutherodactylus","",NE,U,-16777216
+14,10,"illotus","Eleutherodactylus","",NE,U,-16777216
+18,17,"caprifer","Eleutherodactylus","",NE,U,-16777216
+19,17,"actites","Eleutherodactylus","",NE,U,-16777216
+20,16,"avicuporum","Eleutherodactylus","",NE,U,-16777216
+21,15,"achatinus","Eleutherodactylus","",NE,U,-16777216
+28,27,"caliginosus","Eleutherodactylus","",NE,U,-16777216
+29,27,"medemi","Eleutherodactylus","",NE,U,-16777216
+30,26,"johannesdei","Eleutherodactylus","",NE,U,-16777216
+32,31,"fenestratus","Eleutherodactylus","",NE,U,-16777216
+33,31,"paramerus","Eleutherodactylus","",NE,U,-16777216
+35,34,"chiastonotus","Eleutherodactylus","",NE,U,-16777216
+36,34,"samaipatae","Eleutherodactylus","",NE,U,-16777216
+37,23,"mnionaetes","Eleutherodactylus","",NE,U,-16777216
+39,38,"pedimontanus","Eleutherodactylus","",NE,U,-16777216
+40,38,"gaigeae","Eleutherodactylus","",NE,U,-16777216

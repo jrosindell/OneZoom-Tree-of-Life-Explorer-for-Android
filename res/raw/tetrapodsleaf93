@@ -1,55 +1,58 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"lamellipennis","Xipholena","White-tailed Cotinga",LC,U,-16731116
-14,12,"atropurpurea","Xipholena","White-winged Cotinga",EN,U,-8572416
-15,11,"punicea","Xipholena","Pompadour Cotinga",LC,U,-16731116
-18,17,"hopkei","Carpodectes","Black-tipped Cotinga",LC,U,-16731116
-19,17,"nitidus","Carpodectes","Snowy Cotinga",LC,U,-16731116
-20,16,"antoniae","Carpodectes","Yellow-billed Cotinga",EN,U,-8572416
-22,21,"mcilhennyi","Conioptilon","Black-faced Cotinga",LC,U,-16731116
-23,21,"foetidus","Gymnoderus","Bare-necked Fruitcrow",LC,U,-16731116
-24,8,"porphyrolaema","Porphyrolaema","Purple-throated Cotinga",LC,U,-16731116
-28,27,"tricarunculatus","Procnias","Three-wattled Bellbird",VU,U,-11184866
-29,27,"albus","Procnias","White Bellbird",LC,U,-16731116
-30,26,"averano","Procnias","Bearded Bellbird",LC,U,-16731116
-31,25,"nudicollis","Procnias","Bare-throated Bellbird",VU,U,-11184866
-38,37,"uropygialis","Lipaugus","Scimitar-winged Piha",VU,U,-11184866
-39,37,"fuscocinereus","Lipaugus","Dusky Piha",LC,U,-16731116
-40,36,"streptophorus","Lipaugus","Rose-collared Piha",LC,U,-16731116
-41,35,"weberi","Lipaugus","Chestnut-capped Piha",EN,U,-8572416
-43,42,"lanioides","Lipaugus","Cinnamon-vented Piha",NT,U,-12486656
-44,42,"vociferans","Lipaugus","Screaming Piha",LC,U,-16731116
-45,33,"unirufus","Lipaugus","Rufous Piha",LC,U,-16731116
-47,46,"condita","Tijuca","Grey-winged Cotinga",VU,U,-11184866
-48,46,"atra","Tijuca","Black-and-gold Cotinga",NT,U,-12486656
-55,54,"maynana","Cotinga","Plum-throated Cotinga",LC,U,-16731116
-56,54,"cayana","Cotinga","Spangled Cotinga",LC,U,-16731116
-57,53,"nattererii","Cotinga","Blue Cotinga",LC,U,-16731116
-58,52,"cotinga","Cotinga","Purple-breasted Cotinga",LC,U,-16731116
-59,51,"maculata","Cotinga","Banded Cotinga",EN,U,-8572416
-60,50,"ridgwayi","Cotinga","Turquoise Cotinga",VU,U,-11184866
-61,49,"amabilis","Cotinga","Lovely Cotinga",LC,U,-16731116
-69,68,"penduliger","Cephalopterus","Long-wattled Umbrellabird",VU,U,-11184866
-70,68,"ornatus","Cephalopterus","Amazonian Umbrellabird",LC,U,-16731116
-71,67,"glabricollis","Cephalopterus","Bare-necked Umbrellabird",VU,U,-11184866
-72,66,"tricolor","Perissocephalus","Capuchinbird",LC,U,-16731116
-73,65,"scutatus","Pyroderus","Red-ruffed Fruitcrow",LC,U,-16731116
-74,64,"purpurata","Querula","Purple-throated Fruitcrow",LC,U,-16731116
-75,63,"flavirostris","Phibalura","Swallow-tailed Cotinga",NT,U,-12486656
-76,62,"militaris","Haematoderus","Crimson Fruitcrow",LC,U,-16731116
-77,3,"cristata","Calyptura","Kinglet Calyptura",CR,U,-3014646
-79,78,"cryptolophus","Snowornis","Olivaceous Piha",LC,U,-16731116
-80,78,"subalaris","Snowornis","Grey-tailed Piha",LC,U,-16731116
-84,83,"nigricollis","Phoenicircus","Black-necked Red-cotinga",LC,U,-16731116
-85,83,"carnifex","Phoenicircus","Guianan Red-cotinga",LC,U,-16731116
-87,86,"peruvianus","Rupicola","Andean Cock-of-the-rock",LC,U,-16731116
-88,86,"rupicola","Rupicola","Guianan Cock-of-the-rock",LC,U,-16731116
-90,89,"melanocephala","Carpornis","Black-headed Berryeater",VU,U,-11184866
-91,89,"cucullata","Carpornis","Hooded Berryeater",NT,U,-12486656
-96,95,"rubrocristatus","Ampelion","Red-crested Cotinga",LC,U,-16731116
-97,95,"rufaxilla","Ampelion","Chestnut-crested Cotinga",LC,U,-16731116
-99,98,"remseni","Doliornis","Chestnut-bellied Cotinga",VU,U,-11184866
-100,98,"sclateri","Doliornis","Bay-vented Cotinga",VU,U,-11184866
-103,102,"rutila","Phytotoma","White-tipped Plantcutter",LC,U,-16731116
-104,102,"raimondii","Phytotoma","Peruvian Plantcutter",EN,U,-8572416
-105,101,"rara","Phytotoma","Rufous-tailed Plantcutter",LC,U,-16731116
-106,92,"stresemanni","Zaratornis","White-cheeked Cotinga",VU,U,-11184866
+14,13,"microdiscus","Gastrotheca","",LC,D,-16731116
+15,13,"ossilaginis","Gastrotheca","",DD,U,-11513776
+16,12,"nicefori","Gastrotheca","",LC,S,-16731116
+17,11,"plumbea","Gastrotheca","",VU,D,-11184866
+19,18,"albolineata","Gastrotheca","",LC,D,-16731116
+20,18,"pseustes","Gastrotheca","",EN,D,-8572416
+22,21,"trachyceps","Gastrotheca","",EN,D,-8572416
+23,21,"ruizi","Gastrotheca","",EN,D,-8572416
+24,8,"longipes","Gastrotheca","",LC,D,-16731116
+27,26,"gracilis","Gastrotheca","",VU,D,-11184866
+28,26,"cornuta","Gastrotheca","",EN,D,-8572416
+29,25,"phalarosa","Gastrotheca","",DD,U,-11513776
+32,31,"pacchamama","Gastrotheca","",DD,U,-11513776
+33,31,"galeata","Gastrotheca","",DD,U,-11513776
+35,34,"rebeccae","Gastrotheca","",DD,U,-11513776
+36,34,"atympana","Gastrotheca","",DD,U,-11513776
+38,37,"williamsoni","Gastrotheca","",DD,U,-11513776
+39,37,"orophylax","Gastrotheca","",EN,D,-8572416
+42,41,"lateonota","Gastrotheca","",DD,U,-11513776
+43,41,"excubitor","Gastrotheca","",VU,D,-11184866
+44,40,"christiani","Gastrotheca","",EN,D,-8572416
+49,48,"testudinea","Gastrotheca","",LC,D,-16731116
+50,48,"abdita","Gastrotheca","",DD,U,-11513776
+51,47,"fissipes","Gastrotheca","",LC,S,-16731116
+53,52,"argenteovirens","Gastrotheca","",LC,S,-16731116
+54,52,"piperata","Gastrotheca","",LC,U,-16731116
+56,55,"zeugocystis","Gastrotheca","",CR,D,-3014646
+57,55,"peruana","Gastrotheca","",LC,S,-16731116
+63,62,"psychrophila","Gastrotheca","",EN,D,-8572416
+64,62,"riobambae","Gastrotheca","",EN,D,-8572416
+66,65,"walkeri","Gastrotheca","",DD,U,-11513776
+67,65,"bufona","Gastrotheca","",EN,D,-8572416
+70,69,"lauzuricae","Gastrotheca","",CR,D,-3014646
+71,69,"monticola","Gastrotheca","",LC,S,-16731116
+72,68,"dendronastes","Gastrotheca","",VU,D,-11184866
+74,73,"andaquiensis","Gastrotheca","",NT,D,-12486656
+75,73,"griswoldi","Gastrotheca","",LC,S,-16731116
+78,77,"guentheri","Gastrotheca","",VU,D,-11184866
+79,77,"ovifera","Gastrotheca","",EN,D,-8572416
+80,76,"aureomaculata","Gastrotheca","",NT,S,-12486656
+87,86,"marsupiata","Gastrotheca","",LC,S,-16731116
+88,86,"weinlandii","Gastrotheca","",DD,U,-11513776
+89,85,"chrysosticta","Gastrotheca","",VU,D,-11184866
+90,84,"litonedis","Gastrotheca","",EN,D,-8572416
+91,83,"helenae","Gastrotheca","",DD,U,-11513776
+93,92,"angustifrons","Gastrotheca","",VU,D,-11184866
+94,92,"espeletia","Gastrotheca","",EN,D,-8572416
+98,97,"antomia","Gastrotheca","",VU,D,-11184866
+99,97,"dunni","Gastrotheca","",LC,S,-16731116
+100,96,"splendens","Gastrotheca","",EN,D,-8572416
+102,101,"stictopleura","Gastrotheca","",EN,D,-8572416
+103,101,"ochoai","Gastrotheca","",DD,U,-11513776
+107,106,"fitzgeraldi","Flectonotus","",EN,D,-8572416
+108,106,"ohausi","Flectonotus","",LC,S,-16731116
+110,109,"pygmaeus","Flectonotus","",LC,U,-16731116
+111,109,"goeldii","Flectonotus","",LC,S,-16731116
+112,104,"fissilis","Flectonotus","",LC,S,-16731116

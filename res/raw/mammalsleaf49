@@ -1,67 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-19,18,"commersoni","Hipposideros","Commerson's Leaf-nosed Bat",NT,U,-12486656
-20,18,"vittatus","Hipposideros","",NT,D,-12486656
-21,17,"thomensis","Hipposideros","",LC,S,-16731116
-22,16,"gigas","Hipposideros","Giant Leaf-nosed Bat",LC,U,-16731116
-24,23,"lylei","Hipposideros","Shield-faced Leaf-nosed Bat",LC,D,-16731116
-25,23,"pratti","Hipposideros","Pratt's Leaf-nosed Bat",LC,U,-16731116
-26,14,"inexpectatus","Hipposideros","Crested Leaf-nosed Bat",DD,U,-11513776
-30,29,"sumbae","Hipposideros","Sumban Leaf-nosed Bat",LC,D,-16731116
-31,29,"grandis","Hipposideros","Grand Leaf-nosed Bat",DD,U,-11513776
-32,28,"larvatus","Hipposideros","Horsfield's Leaf-nosed Bat",LC,U,-16731116
-34,33,"armiger","Hipposideros","Great Himalayan Leaf-nosed Bat",LC,U,-16731116
-35,33,"turpis","Hipposideros","Lesser Leaf-nosed Bat",NT,D,-12486656
-41,40,"muscinus","Hipposideros","Fly River Leaf-nosed Bat",DD,U,-11513776
-42,40,"semoni","Hipposideros","Semon's Leaf-nosed Bat",DD,U,-11513776
-43,39,"corynophyllus","Hipposideros","Telefomin Leaf-nosed Bat",DD,U,-11513776
-45,44,"wollastoni","Hipposideros","Wollaston's Leaf-nosed Bat",LC,U,-16731116
-46,44,"stenotis","Hipposideros","Northern Leaf-nosed Bat",LC,U,-16731116
-48,47,"camerunensis","Hipposideros","Greater Roundleaf Bat",DD,U,-11513776
-49,47,"cyclops","Hipposideros","Cyclops Roundleaf Bat",LC,D,-16731116
-51,50,"patrizii","Asellia","Patrizi's Trident Leaf-nosed Bat",LC,U,-16731116
-52,50,"tridens","Asellia","Geoffroy's Trident Leaf-nosed Bat",LC,S,-16731116
-56,55,"demissus","Hipposideros","Makira Leaf-nosed Bat",VU,U,-11184866
-57,55,"diadema","Hipposideros","Diadem Leaf-nosed Bat",LC,U,-16731116
-58,54,"inornatus","Hipposideros","Arnhem Leaf-nosed Bat",VU,S,-11184866
-59,53,"lankadiva","Hipposideros","Indian Leaf-nosed Bat",LC,U,-16731116
-61,60,"pelingensis","Hipposideros","Peleng Leaf-nosed Bat",NT,D,-12486656
-62,60,"dinops","Hipposideros","Fierce Leaf-nosed Bat",DD,D,-11513776
-63,9,"lekaguli","Hipposideros","Large Asian Leaf-nosed Bat",NT,D,-12486656
-64,8,"ater","Hipposideros","Dusky Leaf-nosed Bat",LC,U,-16731116
-67,66,"breviceps","Hipposideros","Short-headed Leaf-nosed Bat",DD,U,-11513776
-68,66,"ridleyi","Hipposideros","Ridley's Leaf-nosed Bat",VU,D,-11184866
-69,65,"curtus","Hipposideros","Short-tailed Roundleaf Bat",VU,D,-11184866
-75,74,"stoliczkanus","Aselliscus","Stoliczka's Asian Trident Bat",LC,U,-16731116
-76,74,"percivali","Cloeotis","Percival's Trident Bat",LC,U,-16731116
-77,73,"bicolor","Hipposideros","Bicolored Leaf-nosed Bat",LC,S,-16731116
-79,78,"macrobullatus","Hipposideros","Big-eared Leaf-nosed Bat",DD,U,-11513776
-80,78,"beatus","Hipposideros","Benito Roundleaf Bat",LC,D,-16731116
-81,71,"speoris","Hipposideros","Schneider's Leaf-nosed Bat",LC,S,-16731116
-83,82,"fuliginosus","Hipposideros","Sooty Roundleaf Bat",LC,D,-16731116
-84,82,"dyacorum","Hipposideros","Dayak Leaf-nosed Bat",LC,U,-16731116
-87,86,"cervinus","Hipposideros","Fawn-colored Leaf-nosed Bat",LC,U,-16731116
-88,86,"crumeniferus","Hipposideros","Timor Leaf-nosed Bat",DD,U,-11513776
-90,89,"galeritus","Hipposideros","Cantor's Leaf-nosed Bat",LC,U,-16731116
-91,89,"fulvus","Hipposideros","Fulvus Leaf-nosed Bat",LC,S,-16731116
-94,93,"caffer","Hipposideros","Sundevall's Roundleaf Bat",LC,D,-16731116
-95,93,"marisae","Hipposideros","Aellen's Roundleaf Bat",VU,D,-11184866
-96,92,"pomona","Hipposideros","Andersen's Leaf-nosed Bat",LC,U,-16731116
-99,98,"doriae","Hipposideros","Bornean Leaf-nosed Bat",NT,D,-12486656
-100,98,"coxi","Hipposideros","Cox's Leaf-nosed Bat",DD,U,-11513776
-101,97,"papua","Hipposideros","Biak Leaf-nosed Bat",LC,S,-16731116
-110,109,"lamottei","Hipposideros","Lamotte's Roundleaf Bat",CR,D,-3014646
-111,109,"ruber","Hipposideros","Noack's Roundleaf Bat",LC,U,-16731116
-112,108,"halophyllus","Hipposideros","Thailand Leaf-nosed Bat",EN,D,-8572416
-114,113,"coronatus","Hipposideros","Large Mindanao Leaf-nosed Bat",DD,U,-11513776
-115,113,"calcaratus","Hipposideros","Spurred Leaf-nosed Bat",LC,U,-16731116
-116,106,"maggietaylorae","Hipposideros","Maggie Taylor's Leaf-nosed Bat",LC,S,-16731116
-117,105,"jonesi","Hipposideros","Jones' Roundleaf Bat",NT,D,-12486656
-118,104,"pygmaeus","Hipposideros","Philippine Pygmy Leaf-nosed Bat",LC,U,-16731116
-121,120,"megalotis","Hipposideros","Ethiopian Large-eard Roundleaf Bat",LC,U,-16731116
-122,120,"nequam","Hipposideros","Malayan Leaf-nosed Bat",DD,U,-11513776
-124,123,"durgadasi","Hipposideros","Durga Das's Leaf-nosed Bat",EN,D,-8572416
-125,123,"cineraceus","Hipposideros","Least Leaf-nosed Bat",LC,U,-16731116
-127,126,"obscurus","Hipposideros","Philippine Forest Leaf-nosed Bat",LC,U,-16731116
-128,126,"abae","Hipposideros","Aba Roundleaf Bat",LC,U,-16731116
-129,1,"ornatus","Anthops","Solomons Leaf-nosed Bat",DD,U,-11513776
-130,0,"tricuspidatus","Aselliscus","Trident Leaf-nosed Bat",LC,S,-16731116
+11,10,"strigidorsa","Mustela","Stripe-backed Weasel",LC,U,-16731116
+12,10,"lutreola","Mustela","European Mink",EN,D,-8572416
+13,9,"lutreolina","Mustela","Indonesian Mountain Weasel",DD,U,-11513776
+16,15,"sibirica","Mustela","SIBERIAN WEASEL",LC,S,-16731116
+17,15,"itatsi","Mustela","Japanese Weasel",LC,D,-16731116
+18,14,"nudipes","Mustela","Malay Weasel",LC,D,-16731116
+21,20,"nigripes","Mustela","Black-footed Ferret",EN,I,-8572416
+22,20,"eversmanii","Mustela","Steppe Polecat",LC,S,-16731116
+23,19,"putorius","Mustela","European Polecat",LC,D,-16731116
+29,28,"subpalmata","Mustela","Egyptian Weasel",LC,S,-16731116
+30,28,"nivalis","Mustela","Least Weasel",LC,S,-16731116
+31,27,"frenata","Mustela","Long-tailed Weasel",LC,S,-16731116
+33,32,"altaica","Mustela","Altai Weasel",NT,D,-12486656
+34,32,"erminea","Mustela","Stoat",LC,S,-16731116
+36,35,"felipei","Mustela","Colombian Weasel",VU,D,-11184866
+37,35,"africana","Mustela","Amazon Weasel",LC,U,-16731116
+38,24,"kathiah","Mustela","Yellow-bellied Weasel",LC,U,-16731116
+40,39,"vison","Neovison","American Mink",LC,S,-16731116
+41,39,"macrodon","Neovison","Sea Mink",EX,U,-16777036
+52,51,"americana","Martes","American Marten",LC,D,-16731116
+53,51,"melampus","Martes","Japanese Marten",LC,S,-16731116
+54,50,"zibellina","Martes","SABLE",LC,U,-16731116
+55,49,"martes","Martes","European Pine Marten",LC,S,-16731116
+56,48,"foina","Martes","Stone Marten",LC,S,-16731116
+57,47,"pennanti","Martes","Fisher",LC,U,-16731116
+59,58,"flavigula","Martes","Yellow-throated Marten",LC,S,-16731116
+60,58,"gwatkinsii","Martes","Nilgiri Marten",VU,D,-11184866
+61,45,"gulo","Gulo","Wolverine",LC,D,-16731116
+62,44,"barbara","Eira","Tayra",LC,D,-16731116
+64,63,"vittata","Galictis","Greater Grison",LC,S,-16731116
+65,63,"cuja","Galictis","Lesser Grison",LC,U,-16731116
+66,42,"patagonicus","Lyncodon","Patagonian Weasel",DD,U,-11513776
+69,68,"libyca","Ictonyx","Libyan Striped Weasel",LC,U,-16731116
+70,68,"striatus","Ictonyx","Zorilla",LC,S,-16731116
+71,67,"peregusna","Vormela","European Marbled Polecat",VU,D,-11184866
+72,2,"albinucha","Poecilogale","African Striped Weasel",LC,U,-16731116
+73,1,"capensis","Mellivora","Honey Badger",LC,D,-16731116
+79,78,"anakuma","Meles","Japanese Badger",LC,D,-16731116
+80,78,"meles","Meles","Eurasian Badger",LC,S,-16731116
+81,77,"leucurus","Meles","Asian Badger",LC,U,-16731116
+82,76,"collaris","Arctonyx","Hog Badger",NT,D,-12486656
+84,83,"javanensis","Mydaus","Sunda Stink-badger",LC,U,-16731116
+85,83,"marchei","Mydaus","Palawan Stink-badger",LC,U,-16731116
+86,74,"taxus","Taxidea","American Badger",LC,D,-16731116

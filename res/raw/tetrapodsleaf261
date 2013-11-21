@@ -1,34 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"torquatus","Callicebus","Collared Titi Monkey",LC,U,-16731116
-9,7,"purinus","Callicebus","Widow Monkey",LC,U,-16731116
-11,10,"lugens","Callicebus","Collared Titi",LC,U,-16731116
-12,10,"lucifer","Callicebus","Widow Monkey",LC,U,-16731116
-13,5,"medemi","Callicebus","Colombian Black-handed Titi",VU,D,-11184866
-14,4,"regulus","Callicebus","Widow Monkey",LC,U,-16731116
-18,17,"donacophilus","Callicebus","Bolivian Gray Titi",LC,D,-16731116
-19,17,"pallescens","Callicebus","Chacoan Titi Monkey",LC,S,-16731116
-21,20,"olallae","Callicebus","Olalla Brothers' Titi",EN,D,-8572416
-22,20,"modestus","Callicebus","Beni Titi Monkey",EN,D,-8572416
-23,15,"oenanthe","Callicebus","Andean Titi Monkey",EN,D,-8572416
-28,27,"cupreus","Callicebus","Coppery Titi Monkey",LC,U,-16731116
-29,27,"ornatus","Callicebus","Ornate Titi Monkey",VU,D,-11184866
-30,26,"discolor","Callicebus","Red Titi Monkey",LC,U,-16731116
-31,25,"caligatus","Callicebus","Titi Monkey",LC,U,-16731116
-32,24,"dubius","Callicebus","Doubtful Titi Monkey",LC,U,-16731116
-36,35,"baptista","Callicebus","Baptista Lake Titi Monkey",LC,U,-16731116
-37,35,"hoffmannsi","Callicebus","Hoffmann's Titi Monkey",LC,U,-16731116
-38,34,"brunneus","Callicebus","Brown Titi Monkey",LC,U,-16731116
-40,39,"cinerascens","Callicebus","Ashy Black Titi Monkey",LC,U,-16731116
-41,39,"moloch","Callicebus","Red-bellied Titi Monkey",LC,U,-16731116
-47,46,"utahickae","Chiropotes","Uta Hick's Bearded Saki",EN,D,-8572416
-48,46,"chiropotes","Chiropotes","Bearded Saki",LC,S,-16731116
-50,49,"satanas","Chiropotes","Black Bearded Saki",CR,D,-3014646
-51,49,"israelita","Chiropotes","",NE,U,-16777216
-52,44,"albinasus","Chiropotes","Red-nosed Bearded Saki",EN,D,-8572416
-54,53,"melanocephalus","Cacajao","Golden-backed Black Uakari",LC,S,-16731116
-55,53,"calvus","Cacajao","Bald-headed Uacari",VU,D,-11184866
-59,58,"irrorata","Pithecia","Gray's Bald-faced Saki",LC,U,-16731116
-60,58,"monachus","Pithecia","Geoffroy's Monk Saki",LC,U,-16731116
-61,57,"albicans","Pithecia","White Saki",VU,D,-11184866
-63,62,"aequatorialis","Pithecia","Equatorial Saki",LC,D,-16731116
-64,62,"pithecia","Pithecia","Golden-faced Saki",LC,S,-16731116
+8,7,"turuchanensis","Ochotona","Turuchan Pika",LC,U,-16731116
+9,7,"hyperborea","Ochotona","Northern Pika",LC,U,-16731116
+11,10,"argentata","Ochotona","Silver Pika",CR,D,-3014646
+12,10,"alpina","Ochotona","Alpine Pika",LC,U,-16731116
+14,13,"collaris","Ochotona","Collared Pika",LC,U,-16731116
+15,13,"princeps","Ochotona","American Pika",LC,D,-16731116
+16,4,"pallasi","Ochotona","Pallas's Pika",LC,D,-16731116
+17,3,"erythrotis","Ochotona","Chinese Red Pika",LC,U,-16731116
+22,21,"rutila","Ochotona","Turkestan Red Pika",LC,S,-16731116
+23,21,"ladacensis","Ochotona","Ladak Pika",LC,U,-16731116
+25,24,"gloveri","Ochotona","Glover's Pika",LC,U,-16731116
+26,24,"muliensis","Ochotona","Muli Pika",DD,U,-11513776
+27,19,"koslowi","Ochotona","Kozlov's Pika",EN,D,-8572416
+28,18,"rufescens","Ochotona","Afghan Pika",LC,S,-16731116
+32,31,"macrotis","Ochotona","Large-eared Pika",LC,U,-16731116
+33,31,"roylei","Ochotona","Royle's Pika",LC,S,-16731116
+34,30,"iliensis","Ochotona","Ili Pika",EN,D,-8572416
+35,29,"himalayana","Ochotona","Himalayan Pika",LC,U,-16731116
+42,41,"gaoligongensis","Ochotona","Gaoligong Pika",DD,D,-11513776
+43,41,"forresti","Ochotona","Forrest's Pika",LC,D,-16731116
+44,40,"thomasi","Ochotona","Thomas's Pika",LC,U,-16731116
+46,45,"huangensis","Ochotona","Tsing-ling Pika",LC,U,-16731116
+47,45,"thibetana","Ochotona","Moupin Pika",LC,U,-16731116
+48,38,"cansus","Ochotona","Gansu Pika",LC,U,-16731116
+49,37,"nubrica","Ochotona","Nubra Pika",LC,U,-16731116
+51,50,"curzoniae","Ochotona","Plateau Pika",LC,D,-16731116
+52,50,"dauurica","Ochotona","Daurian Pika",LC,U,-16731116

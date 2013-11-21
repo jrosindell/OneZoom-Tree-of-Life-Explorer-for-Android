@@ -1,37 +1,33 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"spilogaster","Hieraaetus","African Hawk-eagle",LC,U,-16731116
-13,11,"fasciatus","Aquila","Bonelli's Eagle",LC,U,-16731116
-14,10,"verreauxii","Aquila","Verreaux's Eagle",LC,U,-16731116
-16,15,"audax","Aquila","Wedge-tailed Eagle",LC,U,-16731116
-17,15,"gurneyi","Aquila","Gurney's Eagle",NT,U,-12486656
-18,8,"africanus","Aquila","Cassin's Hawk-eagle",LC,U,-16731116
-19,7,"chrysaetos","Aquila","Golden Eagle",LC,U,-16731116
-23,22,"adalberti","Aquila","Spanish Imperial Eagle",VU,U,-11184866
-24,22,"heliaca","Aquila","Eastern Imperial Eagle",VU,U,-11184866
-25,21,"rapax","Aquila","Tawny Eagle",LC,U,-16731116
-26,20,"nipalensis","Aquila","Steppe Eagle",LC,U,-16731116
-31,30,"weiskei","Hieraaetus","New Guinea Hawk-eagle",LC,U,-16731116
-32,30,"pennatus","Hieraaetus","Booted Eagle",LC,U,-16731116
-33,29,"morphnoides","Hieraaetus","Little Eagle",LC,U,-16731116
-34,28,"ayresii","Hieraaetus","Ayres's Hawk-eagle",LC,U,-16731116
-35,27,"wahlbergi","Aquila","Wahlberg's Eagle",LC,U,-16731116
-40,39,"pomarina","Aquila","Lesser Spotted Eagle",LC,U,-16731116
-41,39,"clanga","Aquila","Greater Spotted Eagle",VU,U,-11184866
-42,38,"hastata","Aquila","Indian Spotted Eagle",VU,U,-11184866
-43,37,"malayensis","Ictinaetus","Black Eagle",LC,U,-16731116
-44,36,"occipitalis","Lophaetus","Long-crested Eagle",LC,U,-16731116
-45,3,"bellicosus","Polemaetus","Martial Eagle",NT,U,-12486656
-46,2,"kienerii","Lophotriorchis","Rufous-bellied Eagle",LC,U,-16731116
-50,49,"isidori","Spizaetus","Black-and-chestnut Eagle",VU,U,-11184866
-51,49,"ornatus","Spizaetus","Ornate Hawk-eagle",LC,U,-16731116
-52,48,"melanoleucus","Spizaetus","Black-and-white Hawk-eagle",LC,U,-16731116
-53,47,"tyrannus","Spizaetus","Black Hawk-eagle",LC,U,-16731116
-60,59,"alboniger","Nisaetus","Blyth's Hawk-eagle",LC,U,-16731116
-61,59,"bartelsi","Nisaetus","Javan Hawk-eagle",EN,U,-8572416
-62,58,"nipalensis","Nisaetus","Mountain Hawk-eagle",LC,U,-16731116
-63,57,"floris","Nisaetus","Flores Hawk-eagle",CR,U,-3014646
-64,56,"nanus","Nisaetus","Wallace's Hawk-eagle",VU,U,-11184866
-67,66,"philippensis","Nisaetus","Philippine Hawk-eagle",VU,U,-11184866
-68,66,"cirrhatus","Nisaetus","Changeable Hawk-eagle",LC,U,-16731116
-69,65,"lanceolatus","Nisaetus","Sulawesi Hawk-eagle",LC,U,-16731116
-70,54,"coronatus","Stephanoaetus","Crowned Hawk-eagle",LC,U,-16731116
+11,10,"ruficollis","Sporophila","Dark-throated Seedeater",NT,U,-12486656
+12,10,"hypochroma","Sporophila","Rufous-rumped Seedeater",NT,U,-12486656
+13,9,"hypoxantha","Sporophila","Tawny-bellied Seedeater",LC,U,-16731116
+15,14,"bouvreuil","Sporophila","Capped Seedeater",LC,U,-16731116
+16,14,"palustris","Sporophila","Marsh Seedeater",EN,U,-8572416
+17,7,"nigrorufa","Sporophila","Black-and-tawny Seedeater",VU,U,-11184866
+18,6,"bouvronides","Sporophila","Lesson's Seedeater",LC,U,-16731116
+20,19,"melanogaster","Sporophila","Black-bellied Seedeater",NT,U,-12486656
+21,19,"cinnamomea","Sporophila","Chestnut Seedeater",VU,U,-11184866
+23,22,"peruviana","Sporophila","Parrot-billed Seedeater",LC,U,-16731116
+24,22,"minuta","Sporophila","Ruddy-breasted Seedeater",LC,U,-16731116
+26,25,"castaneiventris","Sporophila","Chestnut-bellied Seedeater",LC,U,-16731116
+27,25,"telasco","Sporophila","Chestnut-throated Seedeater",LC,U,-16731116
+30,29,"leucoptera","Sporophila","White-bellied Seedeater",LC,U,-16731116
+31,29,"ardesiaca","Sporophila","Dubois's Seedeater",LC,U,-16731116
+32,28,"murallae","Sporophila","Caqueta Seedeater",LC,U,-16731116
+36,35,"americana","Sporophila","Wing-barred Seedeater",LC,U,-16731116
+37,35,"corvina","Sporophila","Variable Seedeater",LC,U,-16731116
+38,34,"intermedia","Sporophila","Grey Seedeater",LC,U,-16731116
+40,39,"lineola","Sporophila","Lined Seedeater",LC,U,-16731116
+41,39,"simplex","Sporophila","Drab Seedeater",LC,U,-16731116
+46,45,"schistacea","Sporophila","Slate-coloured Seedeater",LC,U,-16731116
+47,45,"falcirostris","Sporophila","Temminck's Seedeater",VU,U,-11184866
+49,48,"torqueola","Sporophila","White-collared Seedeater",LC,U,-16731116
+50,48,"frontalis","Sporophila","Buffy-fronted Seedeater",VU,U,-11184866
+53,52,"collaris","Sporophila","Rusty-collared Seedeater",LC,U,-16731116
+54,52,"plumbea","Sporophila","Plumbeous Seedeater",LC,U,-16731116
+55,51,"albogularis","Sporophila","White-throated Seedeater",LC,U,-16731116
+58,57,"caerulescens","Sporophila","Double-collared Seedeater",LC,U,-16731116
+59,57,"nigricollis","Sporophila","Yellow-bellied Seedeater",LC,U,-16731116
+61,60,"luctuosa","Sporophila","Black-and-white Seedeater",LC,U,-16731116
+62,60,"melanops","Sporophila","Hooded Seedeater",CR,U,-3014646

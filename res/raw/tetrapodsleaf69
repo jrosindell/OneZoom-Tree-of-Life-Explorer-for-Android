@@ -1,96 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"cryptoleucus","Corvus","Chihuahuan Raven",LC,U,-16731116
-17,15,"corax","Corvus","Common Raven",LC,U,-16731116
-18,14,"albus","Corvus","Pied Crow",LC,U,-16731116
-20,19,"albicollis","Corvus","White-necked Raven",LC,U,-16731116
-21,19,"tristis","Corvus","Grey Crow",LC,U,-16731116
-25,24,"validus","Corvus","Long-billed Crow",LC,U,-16731116
-26,24,"minutus","Corvus","Cuban Palm Crow",_U,[,-16777216
-27,23,"bennetti","Corvus","Little Crow",LC,U,-16731116
-29,28,"torquatus","Corvus","Collared Crow",NT,U,-12486656
-30,28,"capensis","Corvus","Cape Crow",LC,U,-16731116
-36,35,"woodfordi","Corvus","White-billed Crow",LC,U,-16731116
-37,35,"frugilegus","Corvus","Rook",LC,U,-16731116
-38,34,"edithae","Corvus","Somali Crow",LC,U,-16731116
-39,33,"fuscicapillus","Corvus","Brown-headed Crow",NT,U,-12486656
-41,40,"jamaicensis","Corvus","Jamaican Crow",LC,U,-16731116
-42,40,"enca","Corvus","Slender-billed Crow",LC,U,-16731116
-44,43,"hawaiiensis","Corvus","Hawaiian Crow",EW,U,-12832121
-45,43,"splendens","Corvus","House Crow",LC,U,-16731116
-50,49,"ruficollis","Corvus","Brown-necked Raven",LC,U,-16731116
-51,49,"levaillantii","Corvus","Jungle Crow",LC,U,-16731116
-53,52,"imparatus","Corvus","Tamaulipas Crow",LC,U,-16731116
-54,52,"mellori","Corvus","Little Raven",LC,U,-16731116
-56,55,"florensis","Corvus","Flores Crow",EN,U,-8572416
-57,55,"corone","Corvus","Carrion Crow",LC,U,-16731116
-59,58,"brachyrhynchos","Corvus","American Crow",LC,U,-16731116
-60,58,"caurinus","Corvus","North-western Crow",LC,U,-16731116
-63,62,"macrorhynchos","Corvus","Large-billed Crow",LC,U,-16731116
-64,62,"kubaryi","Corvus","Mariana Crow",CR,U,-3014646
-65,61,"leucognaphalus","Corvus","White-necked Crow",VU,U,-11184866
-70,69,"coronoides","Corvus","Australian Raven",LC,U,-16731116
-71,69,"orru","Corvus","Torresian Crow",LC,U,-16731116
-72,68,"nasicus","Corvus","Cuban Crow",LC,U,-16731116
-73,67,"crassirostris","Corvus","Thick-billed Raven",LC,U,-16731116
-74,66,"sinaloae","Corvus","Sinaloa Crow",LC,U,-16731116
-76,75,"unicolor","Corvus","Banggai Crow",CR,U,-3014646
-77,75,"typicus","Corvus","Piping Crow",LC,U,-16731116
-80,79,"rhipidurus","Corvus","Fan-tailed Raven",LC,U,-16731116
-81,79,"monedula","Corvus","Eurasian Jackdaw",LC,U,-16731116
-82,78,"dauuricus","Corvus","Daurian Jackdaw",LC,U,-16731116
-86,85,"moneduloides","Corvus","New Caledonian Crow",LC,U,-16731116
-87,85,"ossifragus","Corvus","Fish Crow",LC,U,-16731116
-88,84,"meeki","Corvus","Bougainville Crow",LC,U,-16731116
-90,89,"tasmanicus","Corvus","Forest Raven",LC,U,-16731116
-91,89,"palmarum","Corvus","Palm Crow",NT,U,-12486656
-93,92,"caryocatactes","Nucifraga","Spotted Nutcracker",LC,U,-16731116
-94,92,"columbiana","Nucifraga","Clark's Nutcracker",LC,U,-16731116
-98,97,"nuttalli","Pica","Yellow-billed Magpie",LC,U,-16731116
-99,97,"hudsonia","Pica","Black-billed Magpie",_U,[,-16777216
-100,96,"pica","Pica","Black-billed Magpie",LC,U,-16731116
-101,95,"stresemanni","Zavattariornis","Ethiopian Bush-crow",EN,U,-8572416
-106,105,"hendersoni","Podoces","Mongolian Ground-jay",LC,U,-16731116
-107,105,"panderi","Podoces","Turkestan Ground-jay",LC,U,-16731116
-108,104,"biddulphi","Podoces","Xinjiang Ground-jay",NT,U,-12486656
-109,103,"pleskei","Podoces","Iranian Ground-jay",LC,U,-16731116
-110,102,"afer","Ptilostomus","Piapiac",LC,U,-16731116
-113,112,"lanceolatus","Garrulus","Black-headed Jay",LC,U,-16731116
-114,112,"glandarius","Garrulus","Eurasian Jay",LC,U,-16731116
-115,111,"lidthi","Garrulus","Amami Jay",VU,U,-11184866
-126,125,"chrysops","Cyanocorax","Plush-crested Jay",LC,U,-16731116
-127,125,"cyanopogon","Cyanocorax","White-naped Jay",LC,U,-16731116
-128,124,"cayanus","Cyanocorax","Cayenne Jay",LC,U,-16731116
-130,129,"affinis","Cyanocorax","Black-chested Jay",LC,U,-16731116
-131,129,"heilprini","Cyanocorax","Azure-naped Jay",LC,U,-16731116
-132,122,"dickeyi","Cyanocorax","Tufted Jay",NT,U,-12486656
-136,135,"beecheii","Cyanocorax","Purplish-backed Jay",LC,U,-16731116
-137,135,"sanblasianus","Cyanocorax","San Blas Jay",LC,U,-16731116
-138,134,"yucatanicus","Cyanocorax","Yucatan Jay",LC,U,-16731116
-139,133,"melanocyaneus","Cyanocorax","Bushy-crested Jay",LC,U,-16731116
-140,120,"mystacalis","Cyanocorax","White-tailed Jay",LC,U,-16731116
-141,119,"yncas","Cyanocorax","Green Jay",LC,U,-16731116
-146,145,"cristatellus","Cyanocorax","Curl-crested Jay",LC,U,-16731116
-147,145,"cyanomelas","Cyanocorax","Purplish Jay",LC,U,-16731116
-148,144,"violaceus","Cyanocorax","Violaceous Jay",LC,U,-16731116
-151,150,"caeruleus","Cyanocorax","Azure Jay",NT,U,-12486656
-152,150,"morio","Cyanocorax","Brown Jay",LC,U,-16731116
-153,149,"luxuosus","Cyanocorax","Green Jay",_U,[,-16777216
-155,154,"formosa","Calocitta","White-throated Magpie-jay",LC,U,-16731116
-156,154,"colliei","Calocitta","Black-throated Magpie-jay",LC,U,-16731116
-162,161,"californica","Aphelocoma","Western Scrub-jay",LC,U,-16731116
-163,161,"insularis","Aphelocoma","Island Scrub-jay",NT,U,-12486656
-164,160,"coerulescens","Aphelocoma","Florida Scrub-jay",VU,U,-11184866
-166,165,"unicolor","Aphelocoma","Unicoloured Jay",LC,U,-16731116
-167,165,"ultramarina","Aphelocoma","Mexican Jay",LC,U,-16731116
-168,158,"cyanocephalus","Gymnorhinus","Pinyon Jay",VU,U,-11184866
-170,169,"stelleri","Cyanocitta","Steller's Jay",LC,U,-16731116
-171,169,"cristata","Cyanocitta","Blue Jay",LC,U,-16731116
-176,175,"viridicyanus","Cyanolyca","White-collared Jay",LC,U,-16731116
-177,175,"turcosa","Cyanolyca","Turquoise Jay",LC,U,-16731116
-178,174,"armillata","Cyanolyca","Black-collared Jay",LC,U,-16731116
-180,179,"cucullata","Cyanolyca","Azure-hooded Jay",LC,U,-16731116
-181,179,"pulchra","Cyanolyca","Beautiful Jay",NT,U,-12486656
-184,183,"argentigula","Cyanolyca","Silvery-throated Jay",LC,U,-16731116
-185,183,"pumilo","Cyanolyca","Black-throated Jay",LC,U,-16731116
-187,186,"mirabilis","Cyanolyca","White-throated Jay",VU,U,-11184866
-188,186,"nana","Cyanolyca","Dwarf Jay",VU,U,-11184866
+12,11,"diringshofeni","Cycloramphus","",DD,U,-11513776
+13,11,"lutzorum","Cycloramphus","",DD,D,-11513776
+14,10,"catarinensis","Cycloramphus","",DD,U,-11513776
+16,15,"eleutherodactylus","Cycloramphus","",DD,U,-11513776
+17,15,"acangatan","Cycloramphus","",VU,D,-11184866
+19,18,"brasiliensis","Cycloramphus","",NT,D,-12486656
+20,18,"migueli","Cycloramphus","",DD,U,-11513776
+23,22,"izecksohni","Cycloramphus","",DD,D,-11513776
+24,22,"juimirim","Cycloramphus","",DD,U,-11513776
+25,21,"carvalhoi","Cycloramphus","",DD,U,-11513776
+27,26,"semipalmatus","Cycloramphus","",NT,D,-12486656
+28,26,"duseni","Cycloramphus","",DD,U,-11513776
+29,5,"ohausi","Cycloramphus","",DD,D,-11513776
+34,33,"fuliginosus","Cycloramphus","",LC,D,-16731116
+35,33,"asper","Cycloramphus","",DD,D,-11513776
+36,32,"dubius","Cycloramphus","",LC,D,-16731116
+38,37,"mirandaribeiroi","Cycloramphus","",DD,U,-11513776
+39,37,"rhyakonastes","Cycloramphus","",LC,U,-16731116
+41,40,"jordanensis","Cycloramphus","",DD,U,-11513776
+42,40,"valae","Cycloramphus","",DD,U,-11513776
+46,45,"bandeirensis","Cycloramphus","",DD,U,-11513776
+47,45,"stejnegeri","Cycloramphus","",DD,D,-11513776
+48,44,"granulosus","Cycloramphus","",DD,D,-11513776
+50,49,"bolitoglossus","Cycloramphus","",DD,D,-11513776
+51,49,"boraceiensis","Cycloramphus","",LC,D,-16731116
+52,2,"cedrensis","Cycloramphus","",DD,U,-11513776
+54,53,"carvalhoi","Zachaenus","",DD,U,-11513776
+55,53,"parvulus","Zachaenus","",LC,D,-16731116
+59,58,"bokermanni","Crossodactylodes","",NT,D,-12486656
+60,58,"pintoi","Crossodactylodes","",DD,U,-11513776
+61,57,"izecksohni","Crossodactylodes","",NT,S,-12486656
+63,62,"darwinii","Rhinoderma","Darwin's Frog",VU,D,-11184866
+64,62,"rufum","Rhinoderma","",CR,D,-3014646

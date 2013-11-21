@@ -1,97 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"cyanicollis","Tangara","Blue-necked Tanager",LC,U,-16731116
-15,13,"cabanisi","Tangara","Azure-rumped Tanager",EN,U,-8572416
-16,12,"larvata","Tangara","Golden-hooded Tanager",LC,U,-16731116
-17,11,"nigrocincta","Tangara","Masked Tanager",LC,U,-16731116
-18,10,"palmeri","Tangara","Grey-and-gold Tanager",LC,U,-16731116
-23,22,"xanthogastra","Tangara","Yellow-bellied Tanager",LC,U,-16731116
-24,22,"punctata","Tangara","Spotted Tanager",LC,U,-16731116
-25,21,"rufigula","Tangara","Rufous-throated Tanager",LC,U,-16731116
-26,20,"guttata","Tangara","Speckled Tanager",LC,U,-16731116
-27,19,"varia","Tangara","Dotted Tanager",LC,U,-16731116
-32,31,"cucullata","Tangara","Lesser Antillean Tanager",LC,U,-16731116
-33,31,"vitriolina","Tangara","Scrub Tanager",LC,U,-16731116
-34,30,"cayana","Tangara","Burnished-buff Tanager",LC,U,-16731116
-35,29,"meyerdeschauenseei","Tangara","Green-capped Tanager",VU,U,-11184866
-36,28,"preciosa","Tangara","Chestnut-backed Tanager",LC,U,-16731116
-37,7,"ruficervix","Tangara","Golden-naped Tanager",LC,U,-16731116
-41,40,"argyrofenges","Tangara","Straw-backed Tanager",LC,U,-16731116
-42,40,"heinei","Tangara","Black-capped Tanager",LC,U,-16731116
-43,39,"viridicollis","Tangara","Silver-backed Tanager",LC,U,-16731116
-44,38,"cyanoptera","Tangara","Black-headed Tanager",LC,U,-16731116
-55,54,"castaneoventris","Delothraupis","Chestnut-bellied Mountain-tanager",LC,U,-16731116
-56,54,"taeniata","Dubusia","Buff-breasted Mountain-tanager",LC,U,-16731116
-57,53,"rufiventris","Saltator","Rufous-bellied Saltator",NT,U,-12486656
-58,52,"riefferii","Chlorornis","Grass-green Tanager",LC,U,-16731116
-60,59,"wetmorei","Buthraupis","Masked Mountain-tanager",VU,U,-11184866
-61,59,"cyanocephala","Thraupis","Blue-capped Tanager",LC,U,-16731116
-64,63,"igniventris","Anisognathus","Scarlet-bellied Mountain-tanager",LC,U,-16731116
-65,63,"lacrymosus","Anisognathus","Lacrimose Mountain-tanager",LC,U,-16731116
-66,62,"melanogenys","Anisognathus","Santa Marta Mountain-tanager",LC,U,-16731116
-70,69,"aureodorsalis","Buthraupis","Golden-backed Mountain-tanager",EN,U,-8572416
-71,69,"eximia","Buthraupis","Black-chested Mountain-tanager",LC,U,-16731116
-72,68,"montana","Buthraupis","Hooded Mountain-tanager",LC,U,-16731116
-74,73,"notabilis","Anisognathus","Black-chinned Mountain-tanager",LC,U,-16731116
-75,73,"somptuosus","Anisognathus","Blue-winged Mountain-tanager",LC,U,-16731116
-76,48,"arremonops","Oreothraupis","Tanager Finch",VU,U,-11184866
-78,77,"cyanicterus","Cyanicterus","Blue-backed Tanager",LC,U,-16731116
-79,77,"chloricterus","Orthogonys","Olive-green Tanager",LC,U,-16731116
-85,84,"episcopus","Thraupis","Blue-grey Tanager",LC,U,-16731116
-86,84,"sayaca","Thraupis","Sayaca Tanager",LC,U,-16731116
-87,83,"cyanoptera","Thraupis","Azure-shouldered Tanager",NT,U,-12486656
-88,82,"stolzmanni","Urothraupis","Black-backed Bush-finch",LC,U,-16731116
-92,91,"ornata","Thraupis","Golden-chevroned Tanager",LC,U,-16731116
-93,91,"palmarum","Thraupis","Palm Tanager",LC,U,-16731116
-94,90,"glaucocolpa","Thraupis","Glaucous Tanager",LC,U,-16731116
-95,89,"abbas","Thraupis","Yellow-winged Tanager",LC,U,-16731116
-96,80,"bonariensis","Thraupis","Blue-and-yellow Tanager",LC,U,-16731116
-97,45,"coccineus","Calochaetes","Vermilion Tanager",LC,U,-16731116
-107,106,"capitata","Paroaria","Yellow-billed Cardinal",LC,U,-16731116
-108,106,"gularis","Paroaria","Red-capped Cardinal",LC,U,-16731116
-109,105,"coronata","Paroaria","Red-crested Cardinal",LC,U,-16731116
-110,104,"baeri","Paroaria","Crimson-fronted Cardinal",LC,U,-16731116
-111,103,"dominicana","Paroaria","Red-cowled Cardinal",LC,U,-16731116
-114,113,"ruficapillus","Schistochlamys","Cinnamon Tanager",LC,U,-16731116
-115,113,"melanopis","Schistochlamys","Black-faced Tanager",LC,U,-16731116
-116,112,"leverianus","Cissopis","Magpie Tanager",LC,U,-16731116
-120,119,"griseocristatus","Lophospingus","Grey-crested Finch",LC,U,-16731116
-121,119,"pusillus","Lophospingus","Black-crested Finch",LC,U,-16731116
-123,122,"speculifera","Diuca","White-winged Diuca-finch",LC,U,-16731116
-124,122,"diuca","Diuca","Common Diuca-finch",LC,U,-16731116
-126,125,"fasciata","Neothraupis","White-banded Tanager",NT,U,-12486656
-127,125,"cristata","Gubernatrix","Yellow Cardinal",EN,U,-8572416
-128,100,"diadematus","Stephanophorus","Diademed Tanager",LC,U,-16731116
-131,130,"nitidissima","Chlorochrysa","Multicoloured Tanager",VU,U,-11184866
-132,130,"calliparaea","Chlorochrysa","Orange-eared Tanager",LC,U,-16731116
-133,129,"phoenicotis","Chlorochrysa","Glistening-green Tanager",LC,U,-16731116
-139,138,"reinhardti","Iridosornis","Yellow-scarfed Tanager",LC,U,-16731116
-140,138,"rufivertex","Iridosornis","Golden-crowned Tanager",LC,U,-16731116
-141,137,"jelskii","Iridosornis","Golden-collared Tanager",LC,U,-16731116
-143,142,"porphyrocephalus","Iridosornis","Purplish-mantled Tanager",NT,U,-12486656
-144,142,"analis","Iridosornis","Yellow-throated Tanager",LC,U,-16731116
-145,135,"melanonota","Pipraeidea","Fawn-breasted Tanager",LC,U,-16731116
-150,149,"melanochlamys","Bangsia","Black-and-gold Tanager",VU,U,-11184866
-151,149,"rothschildi","Bangsia","Golden-chested Tanager",LC,U,-16731116
-153,152,"aureocincta","Bangsia","Gold-ringed Tanager",EN,U,-8572416
-154,152,"edwardsi","Bangsia","Moss-backed Tanager",LC,U,-16731116
-155,147,"arcaei","Bangsia","Blue-and-gold Tanager",NT,U,-12486656
-156,146,"sterrhopteron","Wetmorethraupis","Orange-throated Tanager",VU,U,-11184866
-157,1,"humeralis","Parkerthraustes","Yellow-shouldered Grosbeak",LC,U,-16731116
-167,166,"acunhae","Nesospiza","Inaccessible Bunting",VU,U,-11184866
-168,166,"questi","Nesospiza","Nightingale Bunting",VU,U,-11184866
-169,165,"wilkinsi","Nesospiza","Wilkins's Bunting",EN,U,-8572416
-170,164,"goughensis","Rowettia","Gough Bunting",CR,U,-3014646
-171,163,"speculiferus","Nesospingus","Puerto Rican Tanager",LC,U,-16731116
-173,172,"poliocephalus","Phaenicophilus","Grey-crowned Palm-tanager",NT,U,-12486656
-174,172,"palmarum","Phaenicophilus","Black-crowned Palm-tanager",LC,U,-16731116
-176,175,"tertius","Calyptophilus","Western Chat-Tanager",_U,[,-16777216
-177,175,"frugivorus","Calyptophilus","Chat Tanager",VU,U,-11184866
-179,178,"oleagineus","Mitrospingus","Olive-backed Tanager",LC,U,-16731116
-180,178,"cassinii","Mitrospingus","Dusky-faced Tanager",LC,U,-16731116
-182,181,"melanoleuca","Lamprospiza","Red-billed Pied Tanager",LC,U,-16731116
-183,181,"rosea","Rhodinocichla","Rosy Thrush-tanager",LC,U,-16731116
-187,186,"occipitalis","Chlorophonia","Blue-crowned Chlorophonia",LC,U,-16731116
-188,186,"cyanea","Chlorophonia","Blue-naped Chlorophonia",LC,U,-16731116
-189,185,"flavirostris","Chlorophonia","Yellow-collared Chlorophonia",LC,U,-16731116
-191,190,"pyrrhophrys","Chlorophonia","Chestnut-breasted Chlorophonia",LC,U,-16731116
-192,190,"callophrys","Chlorophonia","Golden-browed Chlorophonia",LC,U,-16731116
+6,5,"lima","Occidozyga","Green Puddle Frog",LC,U,-16731116
+7,5,"vittata","Occidozyga","",DD,U,-11513776
+8,4,"magnapustulosa","Occidozyga","",LC,U,-16731116
+10,9,"sumatrana","Occidozyga","Sumatran Puddle Frog",LC,D,-16731116
+11,9,"baluensis","Occidozyga","Seep Frog",NT,D,-12486656
+15,14,"celebensis","Occidozyga","Sulawesian Puddle Frog",LC,S,-16731116
+16,14,"laevis","Occidozyga","Common Puddle Frog",LC,S,-16731116
+17,13,"martensii","Occidozyga","Round-tongued Floating Frog",LC,S,-16731116
+18,12,"floresiana","Occidozyga","",DD,U,-11513776
+21,20,"diminutiva","Occidozyga","Small-headed Frog",VU,D,-11184866
+22,20,"semipalmata","Occidozyga","",LC,D,-16731116
+23,19,"borealis","Occidozyga","Northern Frog",VU,D,-11184866
+30,29,"tasanae","Ingerana","",VU,D,-11184866
+31,29,"liui","Ingerana","",VU,D,-11184866
+32,28,"alpina","Ingerana","",DD,U,-11513776
+33,27,"reticulata","Ingerana","",DD,U,-11513776
+34,26,"medogensis","Ingerana","",DD,U,-11513776
+36,35,"tenasserimensis","Ingerana","",LC,D,-16731116
+37,35,"charlesdarwini","Ingerana","",CR,D,-3014646
+40,39,"baluensis","Ingerana","",LC,D,-16731116
+41,39,"mariae","Ingerana","",DD,U,-11513776
+42,38,"xizangensis","Ingerana","",DD,D,-11513776

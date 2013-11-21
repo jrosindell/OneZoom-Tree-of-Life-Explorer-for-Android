@@ -1,88 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"chlorosteus","Hyperolius","",NT,D,-12486656
-17,15,"semidiscus","Hyperolius","",LC,D,-16731116
-18,14,"punctulatus","Hyperolius","",DD,U,-11513776
-21,20,"parallelus","Hyperolius","",LC,S,-16731116
-22,20,"lamottei","Hyperolius","",LC,U,-16731116
-23,19,"concolor","Hyperolius","",LC,I,-16731116
-25,24,"maestus","Hyperolius","",DD,U,-11513776
-26,24,"viridis","Hyperolius","",DD,U,-11513776
-28,27,"camerunensis","Hyperolius","",LC,S,-16731116
-29,27,"horstockii","Hyperolius","",VU,D,-11184866
-32,31,"quinquevittatus","Hyperolius","",LC,S,-16731116
-33,31,"rhizophilus","Hyperolius","",DD,U,-11513776
-35,34,"sheldricki","Hyperolius","",LC,S,-16731116
-36,34,"bopeleti","Hyperolius","",NT,D,-12486656
-44,43,"inornatus","Hyperolius","",DD,U,-11513776
-45,43,"soror","Hyperolius","",DD,U,-11513776
-46,42,"puncticulatus","Hyperolius","",EN,D,-8572416
-47,41,"riggenbachi","Hyperolius","",VU,D,-11184866
-50,49,"occidentalis","Hyperolius","",LC,U,-16731116
-51,49,"picturatus","Hyperolius","",LC,U,-16731116
-52,48,"vilhenai","Hyperolius","",DD,U,-11513776
-56,55,"marmoratus","Hyperolius","Marbled Reed Frog",LC,I,-16731116
-57,55,"sankuruensis","Hyperolius","",DD,U,-11513776
-58,54,"pustulifer","Hyperolius","",DD,U,-11513776
-59,53,"atrigularis","Hyperolius","",DD,U,-11513776
-65,64,"discodactylus","Hyperolius","",VU,D,-11184866
-66,64,"steindachneri","Hyperolius","",LC,U,-16731116
-67,63,"pickersgilli","Hyperolius","Pickersgill's Reed Frog",EN,D,-8572416
-68,62,"stenodactylus","Hyperolius","",DD,U,-11513776
-69,61,"cinereus","Hyperolius","",DD,U,-11513776
-70,60,"tuberilinguis","Hyperolius","",LC,S,-16731116
-72,71,"kivuensis","Hyperolius","",LC,U,-16731116
-73,71,"major","Hyperolius","",LC,D,-16731116
-76,75,"obstetricans","Alexteroon","",LC,D,-16731116
-77,75,"jynx","Alexteroon","",CR,D,-3014646
-78,74,"hypsiphonus","Alexteroon","",LC,D,-16731116
-80,79,"greshoffii","Cryptothylax","",LC,S,-16731116
-81,79,"minutus","Cryptothylax","",DD,U,-11513776
-89,88,"boettgeri","Heterixalus","",LC,U,-16731116
-90,88,"andrakata","Heterixalus","",LC,S,-16731116
-92,91,"rutenbergi","Heterixalus","",NT,D,-12486656
-93,91,"carbonei","Heterixalus","",NT,D,-12486656
-94,86,"alboguttatus","Heterixalus","",LC,S,-16731116
-98,97,"variabilis","Heterixalus","",LC,S,-16731116
-99,97,"betsileo","Heterixalus","",LC,S,-16731116
-100,96,"tricolor","Heterixalus","",LC,S,-16731116
-101,95,"luteostriatus","Heterixalus","",LC,S,-16731116
-103,102,"madagascariensis","Heterixalus","",LC,S,-16731116
-104,102,"punctatus","Heterixalus","",LC,S,-16731116
-105,83,"seychellensis","Tachycnemis","Seychelles Treefrog",LC,U,-16731116
-106,3,"immaculatus","Opisthothylax","",LC,D,-16731116
-111,110,"spinosus","Acanthixalus","",LC,D,-16731116
-112,110,"sonjae","Acanthixalus","",NT,D,-12486656
-113,109,"pictus","Callixalus","",VU,D,-11184866
-114,108,"cupreonitens","Chrysobatrachus","",DD,U,-11513776
-124,123,"nordequatorialis","Leptopelis","",LC,S,-16731116
-125,123,"karissimbensis","Leptopelis","",EN,D,-8572416
-126,122,"brevirostris","Leptopelis","",LC,D,-16731116
-128,127,"flavomaculatus","Leptopelis","",LC,D,-16731116
-129,127,"susanae","Leptopelis","",EN,D,-8572416
-132,131,"ragazzii","Leptopelis","",VU,D,-11184866
-133,131,"christyi","Leptopelis","",LC,S,-16731116
-134,130,"natalensis","Leptopelis","",LC,D,-16731116
-139,138,"boulengeri","Leptopelis","",LC,D,-16731116
-140,138,"macrotis","Leptopelis","",NT,D,-12486656
-141,137,"calcaratus","Leptopelis","",LC,D,-16731116
-142,136,"argenteus","Leptopelis","",LC,S,-16731116
-144,143,"barbouri","Leptopelis","",VU,D,-11184866
-145,143,"parkeri","Leptopelis","",VU,D,-11184866
-152,151,"modestus","Leptopelis","",LC,D,-16731116
-153,151,"concolor","Leptopelis","",LC,S,-16731116
-154,150,"fiziensis","Leptopelis","",DD,U,-11513776
-155,149,"bocagii","Leptopelis","",LC,S,-16731116
-156,148,"omissus","Leptopelis","",LC,D,-16731116
-157,147,"vermiculatus","Leptopelis","",VU,D,-11184866
-160,159,"kivuensis","Leptopelis","",NT,D,-12486656
-161,159,"millsoni","Leptopelis","",LC,D,-16731116
-162,158,"rufus","Leptopelis","",LC,D,-16731116
-169,168,"wittei","Hemisus","De Witte's Snout-burrower",DD,U,-11513776
-170,168,"guineensis","Hemisus","Guinea Snout-burrower",LC,U,-16731116
-171,167,"perreti","Hemisus","Perret's Snout-burrower",DD,U,-11513776
-172,166,"marmoratus","Hemisus","Marbled Snout-burrower",LC,U,-16731116
-174,173,"microscaphus","Hemisus","Ethiopian Snout-burrower",LC,D,-16731116
-175,173,"guttatus","Hemisus","Spotted Snout-burrower",VU,D,-11184866
-178,177,"olivaceus","Hemisus","Olive Snout-burrower",LC,D,-16731116
-179,177,"barotseensis","Hemisus","",DD,U,-11513776
-180,176,"brachydactylus","Hemisus","Masiliwa Snout-burrower",DD,U,-11513776
+11,10,"strigidorsa","Mustela","Stripe-backed Weasel",LC,U,-16731116
+12,10,"lutreola","Mustela","European Mink",EN,D,-8572416
+13,9,"lutreolina","Mustela","Indonesian Mountain Weasel",DD,U,-11513776
+16,15,"sibirica","Mustela","SIBERIAN WEASEL",LC,S,-16731116
+17,15,"itatsi","Mustela","Japanese Weasel",LC,D,-16731116
+18,14,"nudipes","Mustela","Malay Weasel",LC,D,-16731116
+21,20,"nigripes","Mustela","Black-footed Ferret",EN,I,-8572416
+22,20,"eversmanii","Mustela","Steppe Polecat",LC,S,-16731116
+23,19,"putorius","Mustela","European Polecat",LC,D,-16731116
+29,28,"subpalmata","Mustela","Egyptian Weasel",LC,S,-16731116
+30,28,"nivalis","Mustela","Least Weasel",LC,S,-16731116
+31,27,"frenata","Mustela","Long-tailed Weasel",LC,S,-16731116
+33,32,"altaica","Mustela","Altai Weasel",NT,D,-12486656
+34,32,"erminea","Mustela","Stoat",LC,S,-16731116
+36,35,"felipei","Mustela","Colombian Weasel",VU,D,-11184866
+37,35,"africana","Mustela","Amazon Weasel",LC,U,-16731116
+38,24,"kathiah","Mustela","Yellow-bellied Weasel",LC,U,-16731116
+40,39,"vison","Neovison","American Mink",LC,S,-16731116
+41,39,"macrodon","Neovison","Sea Mink",EX,U,-16777036
+52,51,"americana","Martes","American Marten",LC,D,-16731116
+53,51,"melampus","Martes","Japanese Marten",LC,S,-16731116
+54,50,"zibellina","Martes","SABLE",LC,U,-16731116
+55,49,"martes","Martes","European Pine Marten",LC,S,-16731116
+56,48,"foina","Martes","Stone Marten",LC,S,-16731116
+57,47,"pennanti","Martes","Fisher",LC,U,-16731116
+59,58,"flavigula","Martes","Yellow-throated Marten",LC,S,-16731116
+60,58,"gwatkinsii","Martes","Nilgiri Marten",VU,D,-11184866
+61,45,"gulo","Gulo","Wolverine",LC,D,-16731116
+62,44,"barbara","Eira","Tayra",LC,D,-16731116
+64,63,"vittata","Galictis","Greater Grison",LC,S,-16731116
+65,63,"cuja","Galictis","Lesser Grison",LC,U,-16731116
+66,42,"patagonicus","Lyncodon","Patagonian Weasel",DD,U,-11513776
+69,68,"libyca","Ictonyx","Libyan Striped Weasel",LC,U,-16731116
+70,68,"striatus","Ictonyx","Zorilla",LC,S,-16731116
+71,67,"peregusna","Vormela","European Marbled Polecat",VU,D,-11184866
+72,2,"albinucha","Poecilogale","African Striped Weasel",LC,U,-16731116
+73,1,"capensis","Mellivora","Honey Badger",LC,D,-16731116
+79,78,"anakuma","Meles","Japanese Badger",LC,D,-16731116
+80,78,"meles","Meles","Eurasian Badger",LC,S,-16731116
+81,77,"leucurus","Meles","Asian Badger",LC,U,-16731116
+82,76,"collaris","Arctonyx","Hog Badger",NT,D,-12486656
+84,83,"javanensis","Mydaus","Sunda Stink-badger",LC,U,-16731116
+85,83,"marchei","Mydaus","Palawan Stink-badger",LC,U,-16731116
+86,74,"taxus","Taxidea","American Badger",LC,D,-16731116

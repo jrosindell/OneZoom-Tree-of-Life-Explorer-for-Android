@@ -1,58 +1,35 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"geoffroyi","Callithrix","Geoffroy's Tufted-ear Marmoset",LC,S,-16731116
-10,8,"kuhlii","Callithrix","Wied's Black-tufted-ear Marmoset",NT,D,-12486656
-12,11,"penicillata","Callithrix","Black-pencilled Marmoset",LC,I,-16731116
-13,11,"jacchus","Callithrix","Common Marmoset",LC,S,-16731116
-15,14,"aurita","Callithrix","Buffy-tufted-ear Marmoset",VU,D,-11184866
-16,14,"flaviceps","Callithrix","Buffy-headed Marmoset",EN,D,-8572416
-23,22,"melanura","Callithrix","",NE,U,-16777216
-24,22,"emiliae","Callithrix","",NE,U,-16777216
-25,21,"leucippe","Callithrix","",NE,U,-16777216
-26,20,"intermedia","Callithrix","",NE,U,-16777216
-27,19,"argentata","Callithrix","",NE,U,-16777216
-29,28,"humeralifera","Callithrix","",NE,U,-16777216
-30,28,"chrysoleuca","Callithrix","",NE,U,-16777216
-31,17,"pygmaea","Callithrix","",NE,U,-16777216
-32,4,"goeldii","Callimico","Goeldi's Monkey",VU,D,-11184866
-36,35,"caissara","Leontopithecus","Black-faced Lion Tamarin",CR,D,-3014646
-37,35,"chrysopygus","Leontopithecus","Black Lion Tamarin",EN,D,-8572416
-38,34,"rosalia","Leontopithecus","Golden Lion Tamarin",EN,S,-8572416
-39,33,"chrysomelas","Leontopithecus","Golden-headed Lion Tamarin",EN,D,-8572416
-47,46,"mystax","Saguinus","Moustached Tamarin",LC,S,-16731116
-48,46,"pileatus","Saguinus","",NE,U,-16777216
-49,45,"labiatus","Saguinus","Red-chested Mustached Tamarin",LC,S,-16731116
-50,44,"imperator","Saguinus","Emperor Tamarin",LC,D,-16731116
-53,52,"oedipus","Saguinus","Cotton-headed Tamarin",CR,D,-3014646
-54,52,"geoffroyi","Saguinus","Geoffroy's Tamarin",LC,D,-16731116
-55,51,"leucopus","Saguinus","Silvery-brown Tamarin",EN,D,-8572416
-58,57,"martinsi","Saguinus","Martin'S/ochraceous Bare-face Tamarin",LC,D,-16731116
-59,57,"bicolor","Saguinus","Brazilian Bare-faced Tamarin",EN,D,-8572416
-61,60,"midas","Saguinus","Golden-handed Tamarin",LC,S,-16731116
-62,60,"niger","Saguinus","Black-handed Tamarin",VU,D,-11184866
-63,41,"inustus","Saguinus","Mottled-face Tamarin",LC,S,-16731116
-67,66,"melanoleucus","Saguinus","White/crandall's Saddleback Tamarin",LC,D,-16731116
-68,66,"fuscicollis","Saguinus","Saddleback Tamarin",LC,D,-16731116
-69,65,"tripartitus","Saguinus","Golden-mantle Saddleback Tamarin",NT,D,-12486656
-71,70,"nigricollis","Saguinus","Black Mantle Tamarin",LC,D,-16731116
-72,70,"graellsi","Saguinus","",NE,U,-16777216
-78,77,"nigrifrons","Callicebus","Black-fronted Titi Monkey",NT,D,-12486656
-79,77,"melanochir","Callicebus","Coastal Black-handed Titi",VU,D,-11184866
-80,76,"personatus","Callicebus","Atlantic Titi",VU,D,-11184866
-81,75,"barbarabrownae","Callicebus","Blond Titi Monkey",CR,D,-3014646
-82,74,"miconax","Aotus","Andean Night Monkey",VU,D,-11184866
-83,73,"lemurinus","Aotus","Colombian Night Monkey",VU,D,-11184866
-90,89,"xanthosternos","Cebus","Buff-headed Capuchin",CR,D,-3014646
-91,89,"nigritus","Cebus","Black-horned Capuchin",NT,D,-12486656
-92,88,"apella","Cebus","Guianan/margarita Island Brown Capuchin",LC,D,-16731116
-93,87,"libidinosus","Cebus","Bearded Capuchin",LC,D,-16731116
-96,95,"capucinus","Cebus","White-throated Capuchin",LC,U,-16731116
-97,95,"albifrons","Cebus","White-fronted Capuchin",LC,D,-16731116
-98,94,"olivaceus","Cebus","Weeper Capuchin",LC,U,-16731116
-102,101,"ustus","Saimiri","Golden-backed Squirrel Monkey",NT,D,-12486656
-103,101,"sciureus","Saimiri","Common Squirrel Monkey",LC,D,-16731116
-104,100,"oerstedii","Saimiri","Black-crowned Central American Squirrel Monkey",VU,D,-11184866
-106,105,"boliviensis","Saimiri","Bolivian/peruvian Squirrel Monkey",LC,D,-16731116
-107,105,"vanzolinii","Saimiri","Black-headed Squirrel Monkey",VU,U,-11184866
-110,109,"nancymaae","Aotus","Nancy Ma's Night Monkey",LC,U,-16731116
-111,109,"azarae","Aotus","Azara's Night Monkey",LC,D,-16731116
-112,108,"nigriceps","Aotus","Black-headed Night Monkey",LC,U,-16731116
+11,10,"erythrogaster","Cercopithecus","White-throated Monkey",VU,D,-11184866
+12,10,"sclateri","Cercopithecus","Sclater's Monkey",VU,D,-11184866
+13,9,"ascanius","Cercopithecus","Red-tailed Monkey",LC,U,-16731116
+14,8,"cephus","Cercopithecus","Moustached Monkey",LC,U,-16731116
+16,15,"petaurista","Cercopithecus","Lesser Spot-nosed Monkey",LC,U,-16731116
+17,15,"erythrotis","Cercopithecus","Red-eared Monkey",VU,D,-11184866
+21,20,"mitis","Cercopithecus","Blue Monkey",LC,D,-16731116
+22,20,"albogularis","Cercopithecus","",NE,U,-16777216
+24,23,"doggetti","Cercopithecus","",NE,U,-16777216
+25,23,"kandti","Cercopithecus","",NE,U,-16777216
+26,18,"nictitans","Cercopithecus","Putty-nosed Monkey",LC,D,-16731116
+29,28,"diana","Cercopithecus","Diana/roloway Monkey",VU,D,-11184866
+30,28,"roloway","Cercopithecus","",NE,U,-16777216
+31,27,"dryas","Cercopithecus","Dryad Monkey",CR,U,-3014646
+36,35,"campbelli","Cercopithecus","Campbell's Monkey",LC,U,-16731116
+37,35,"lowei","Cercopithecus","",NE,U,-16777216
+38,34,"mona","Cercopithecus","Mona Monkey",LC,U,-16731116
+41,40,"wolfi","Cercopithecus","",NE,U,-16777216
+42,40,"denti","Cercopithecus","",NE,U,-16777216
+43,39,"pogonias","Cercopithecus","Crowned Monkey",LC,U,-16731116
+44,32,"neglectus","Cercopithecus","De Brazza's Monkey",LC,U,-16731116
+45,3,"hamlyni","Cercopithecus","Owl-faced Monkey",VU,D,-11184866
+53,52,"sabaeus","Chlorocebus","Green Monkey",LC,S,-16731116
+54,52,"pygerythrus","Chlorocebus","Vervet",LC,S,-16731116
+55,51,"aethiops","Chlorocebus","Grivet Monkey",LC,S,-16731116
+56,50,"djamdjamensis","Chlorocebus","Bale Monkey",VU,D,-11184866
+57,49,"cynosuros","Chlorocebus","Malbrouck Monkey",LC,S,-16731116
+58,48,"tantalus","Chlorocebus","Tantalus Monkey",LC,S,-16731116
+61,60,"lhoesti","Cercopithecus","L'hoest's Monkey",VU,D,-11184866
+62,60,"preussi","Cercopithecus","Preuss's Monkey",EN,D,-8572416
+63,59,"solatus","Cercopithecus","Sun-tailed Monkey",VU,U,-11184866
+64,46,"patas","Erythrocebus","Patas Monkey",LC,D,-16731116
+65,1,"talapoin","Miopithecus","Southern Talapoin Monkey",LC,U,-16731116
+66,0,"nigroviridis","Allenopithecus","Allen's Swamp Monkey",LC,U,-16731116

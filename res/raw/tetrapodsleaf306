@@ -1,31 +1,50 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"herbertensis","Pseudochirulus","Herbert River Ringtail Possum",LC,S,-16731116
-8,6,"cinereus","Pseudochirulus","Daintree River Ringtail Possum",LC,S,-16731116
-9,5,"caroli","Pseudochirulus","Weyland Ringtail",LC,U,-16731116
-11,10,"forbesi","Pseudochirulus","Painted Ringtail",LC,U,-16731116
-12,10,"larvatus","Pseudochirulus","Masked Ringtail",LC,D,-16731116
-14,13,"canescens","Pseudochirulus","Lowland Ringtail",LC,D,-16731116
-15,13,"mayeri","Pseudochirulus","Pygmy Ringtail",LC,D,-16731116
-16,2,"peregrinus","Pseudocheirus","Common Ringtail Possum",LC,S,-16731116
-22,21,"albertisii","Pseudochirops","D'Albertis's Ringtail",NT,D,-12486656
-23,21,"coronatus","Pseudochirops","Reclusive Ringtail",VU,D,-11184866
-25,24,"archeri","Pseudochirops","Green Ringtail Possum",LC,S,-16731116
-26,24,"cupreus","Pseudochirops","Coppery Ringtail",LC,S,-16731116
-27,19,"corinnae","Pseudochirops","Plush-coated Ringtail",NT,D,-12486656
-28,18,"dahli","Petropseudes","Rock Ringtail Possum",LC,U,-16731116
-30,29,"lemuroides","Hemibelideus","Lemuroid Ringtail Possum",NT,S,-12486656
-31,29,"volans","Petauroides","Greater Glider",LC,D,-16731116
-38,37,"breviceps","Petaurus","Sugar Glider",LC,S,-16731116
-39,37,"biacensis","Petaurus","Biak Glider",LC,U,-16731116
-40,36,"abidi","Petaurus","Northern Glider",CR,D,-3014646
-41,35,"gracilis","Petaurus","Mahogany Glider",EN,D,-8572416
-43,42,"australis","Petaurus","Yellow-bellied Glider",LC,D,-16731116
-44,42,"norfolcensis","Petaurus","Squirrel Glider",LC,D,-16731116
-48,47,"megalura","Dactylopsila","Great-tailed Triok",LC,U,-16731116
-49,47,"trivirgata","Dactylopsila","Striped Possum",LC,D,-16731116
-51,50,"tatei","Dactylopsila","Tate's Triok",EN,U,-8572416
-52,50,"palpator","Dactylopsila","",NE,U,-16777216
-53,45,"leadbeateri","Gymnobelideus","Leadbeater's Possum",EN,D,-8572416
-56,55,"pennatus","Distoechurus","Feather-tailed Possum",LC,S,-16731116
-57,55,"pygmaeus","Acrobates","Feathertail Glider",LC,S,-16731116
-58,54,"rostratus","Tarsipes","Honey Possum",LC,S,-16731116
+10,9,"ocellatus","Niveoscincus","",NE,U,-16777216
+11,9,"pretiosus","Niveoscincus","",NE,U,-16777216
+12,8,"metallicus","Niveoscincus","",NE,U,-16777216
+14,13,"palfreymani","Niveoscincus","Pedra Branca Skink",VU,U,-11184866
+15,13,"greeni","Niveoscincus","",NE,U,-16777216
+20,19,"guichenoti","Lampropholis","",NE,U,-16777216
+21,19,"caligula","Lampropholis","",NE,U,-16777216
+22,18,"amicula","Lampropholis","",NE,U,-16777216
+23,17,"mirabilis","Lampropholis","",NE,U,-16777216
+24,16,"delicata","Lampropholis","",NE,U,-16777216
+29,28,"lineoocellata","Morethia","",NE,U,-16777216
+30,28,"butleri","Morethia","",NE,U,-16777216
+31,27,"taeniopleura","Morethia","",NE,U,-16777216
+34,33,"trilineata","Bassiana","",NE,U,-16777216
+35,33,"platynota","Bassiana","",NE,U,-16777216
+36,32,"duperreyi","Bassiana","",NE,U,-16777216
+41,40,"maini","Menetia","",NE,U,-16777216
+42,40,"surda","Menetia","",NE,U,-16777216
+43,39,"alanae","Menetia","",NE,U,-16777216
+44,38,"amaura","Menetia","",NE,U,-16777216
+45,37,"greyii","Menetia","",NE,U,-16777216
+48,47,"plagiocephalus","Cryptoblepharus","",NE,U,-16777216
+49,47,"virgatus","Cryptoblepharus","",NE,U,-16777216
+50,46,"boutonii","Cryptoblepharus","",NE,U,-16777216
+62,61,"rufilabialis","Emoia","",NE,U,-16777216
+63,61,"slevini","Emoia","",NE,U,-16777216
+64,60,"pallidiceps","Emoia","",NE,U,-16777216
+66,65,"boettgeri","Emoia","",NE,U,-16777216
+67,65,"adspersa","Emoia","",NE,U,-16777216
+68,58,"atrocostata","Emoia","",NE,U,-16777216
+69,57,"mivarti","Emoia","",NE,U,-16777216
+70,56,"jakati","Emoia","",NE,U,-16777216
+71,55,"submetallica","Emoia","",NE,U,-16777216
+72,54,"longicauda","Emoia","",NE,U,-16777216
+73,53,"arnoensis","Emoia","",NE,U,-16777216
+75,74,"caeruleocauda","Emoia","",NE,U,-16777216
+76,74,"impar","Emoia","",NE,U,-16777216
+81,80,"cyanogaster","Emoia","",NE,U,-16777216
+82,80,"cyanura","Emoia","",NE,U,-16777216
+84,83,"samoensis","Emoia","",NE,U,-16777216
+85,83,"nigra","Emoia","",NE,U,-16777216
+86,78,"popei","Emoia","",NE,U,-16777216
+88,87,"tropidolepis","Emoia","",NE,U,-16777216
+89,87,"lawesii","Emoia","",NE,U,-16777216
+91,90,"albofasciolatus","Eugongylus","",NE,U,-16777216
+92,90,"rufescens","Eugongylus","",NE,U,-16777216
+94,93,"novaeguineae","Lygisaurus","",NE,U,-16777216
+95,93,"foliorum","Lygisaurus","",NE,U,-16777216
+96,0,"lineocellata","Leiolopisma","",NE,U,-16777216

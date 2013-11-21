@@ -1,48 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"laterimaculata","Pulchrana","",NE,U,-16777216
-11,9,"glandulosa","Pulchrana","",NE,U,-16777216
-12,8,"aurantiaca","Sylvirana","",NE,U,-16777216
-13,7,"chitwanensis","Sylvirana","",NE,U,-16777216
-15,14,"latouchii","Sylvirana","",NE,U,-16777216
-16,14,"picturata","Pulchrana","",NE,U,-16777216
-17,5,"similis","Pulchrana","",NE,U,-16777216
-22,21,"celebensis","Sylvirana","",NE,U,-16777216
-23,21,"cubitalis","Sylvirana","",NE,U,-16777216
-24,20,"grandocula","Pulchrana","",NE,U,-16777216
-25,19,"scutigera","Sylvirana","",NE,U,-16777216
-27,26,"montivaga","Sylvirana","",NE,U,-16777216
-28,26,"baramica","Pulchrana","",NE,U,-16777216
-34,33,"margariana","Sylvirana","",NE,U,-16777216
-35,33,"signata","Pulchrana","",NE,U,-16777216
-37,36,"garoensis","Sylvirana","",NE,U,-16777216
-38,36,"kreffti","Sylvirana","",NE,U,-16777216
-39,31,"gracilis","Sylvirana","",NE,U,-16777216
-41,40,"melanomenta","Pulchrana","",NE,U,-16777216
-42,40,"siberu","Pulchrana","",NE,U,-16777216
-47,46,"moellendorffi","Pulchrana","",NE,U,-16777216
-48,46,"mortenseni","Sylvirana","",NE,U,-16777216
-49,45,"nigrovittata","Sylvirana","",NE,U,-16777216
-50,44,"supragrisea","Sylvirana","",NE,U,-16777216
-51,43,"daemeli","Sylvirana","",NE,U,-16777216
-54,53,"nigrotympanica","Sylvirana","",NE,U,-16777216
-55,53,"moluccana","Sylvirana","",NE,U,-16777216
-56,52,"elberti","Sylvirana","",NE,U,-16777216
-65,64,"leptoglossa","Sylvirana","",NE,U,-16777216
-66,64,"bannanica","Sylvirana","",NE,U,-16777216
-67,63,"attigua","Sylvirana","",NE,U,-16777216
-68,62,"papua","Sylvirana","",NE,U,-16777216
-69,61,"spinulosa","Sylvirana","",NE,U,-16777216
-70,60,"temporalis","Sylvirana","",NE,U,-16777216
-71,59,"volkerjane","Sylvirana","",NE,U,-16777216
-76,75,"maosonensis","Sylvirana","",NE,U,-16777216
-77,75,"banjarana","Pulchrana","",NE,U,-16777216
-78,74,"florensis","Sylvirana","",NE,U,-16777216
-80,79,"debussyi","Pulchrana","",NE,U,-16777216
-81,79,"garritor","Sylvirana","",NE,U,-16777216
-82,72,"arfaki","Sylvirana","",NE,U,-16777216
-83,57,"faber","Sylvirana","",NE,U,-16777216
-88,87,"novaeguineae","Sylvirana","",NE,U,-16777216
-89,87,"persimilis","Sylvirana","",NE,U,-16777216
-90,86,"luctuosa","Pulchrana","",NE,U,-16777216
-91,85,"milleti","Sylvirana","",NE,U,-16777216
-92,84,"mangyanum","Pulchrana","",NE,U,-16777216
+10,9,"rapax","Crocidura","Chinese White-toothed Shrew",DD,U,-11513776
+11,9,"vorax","Crocidura","Voracious Shrew",LC,U,-16731116
+12,8,"pullata","Crocidura","Kashmir White-toothed Shrew",DD,U,-11513776
+14,13,"muricauda","Crocidura","Mouse-tailed Shrew",LC,U,-16731116
+15,13,"planiceps","Crocidura","Flat-headed Shrew",DD,U,-11513776
+16,6,"levicula","Crocidura","Sulawesi Tiny Shrew",LC,U,-16731116
+19,18,"lusitania","Crocidura","Mauritanian Shrew",LC,U,-16731116
+20,18,"niobe","Crocidura","Niobe's Shrew",NT,U,-12486656
+21,17,"usambarae","Crocidura","Usambara Shrew",EN,D,-8572416
+23,22,"montis","Crocidura","Montane White-toothed Shrew",LC,U,-16731116
+24,22,"tenuis","Crocidura","Timor Shrew",DD,U,-11513776
+31,30,"lepidura","Crocidura","Sumatran Giant Shrew",LC,S,-16731116
+32,30,"orientalis","Crocidura","Oriental Shrew",VU,U,-11184866
+33,29,"foetida","Crocidura","Bornean Shrew",LC,U,-16731116
+34,28,"brunnea","Crocidura","Thick-tailed Shrew",LC,U,-16731116
+35,27,"fuliginosa","Crocidura","Southeast Asian Shrew",LC,U,-16731116
+37,36,"baluensis","Crocidura","Kinabalu Shrew",VU,S,-11184866
+38,36,"vosmaeri","Crocidura","Banka Shrew",DD,U,-11513776
+39,25,"telfordi","Crocidura","Telford's Shrew",EN,D,-8572416
+41,40,"tarella","Crocidura","Tarella Shrew",EN,D,-8572416
+42,40,"ichnusae","Crocidura","",NE,U,-16777216
+43,1,"macarthuri","Crocidura","Macarthur's Shrew",LC,U,-16731116
+48,47,"viaria","Crocidura","Savanna Path Shrew",LC,S,-16731116
+49,47,"lamottei","Crocidura","Lamotte's Shrew",LC,U,-16731116
+50,46,"cyanea","Crocidura","Reddish-gray Musk Shrew",LC,S,-16731116
+51,45,"orii","Crocidura","Ryukyu Shrew",EN,D,-8572416
+54,53,"leucodon","Crocidura","Bicolored Shrew",LC,U,-16731116
+55,53,"caspica","Crocidura","Caspian Shrew",DD,U,-11513776
+56,52,"ansellorum","Crocidura","Ansell's Shrew",EN,D,-8572416

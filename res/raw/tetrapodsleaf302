@@ -1,92 +1,29 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"moschatus","Hypsiprymnodon","Musky Rat Kangaroo",LC,S,-16731116
-13,12,"latifrons","Lasiorhinus","Southern Hairy-nosed Wombat",LC,U,-16731116
-14,12,"krefftii","Lasiorhinus","Northern Hairy-nosed Wombat",CR,S,-3014646
-15,11,"ursinus","Vombatus","Common Wombat",LC,S,-16731116
-16,10,"cinereus","Phascolarctos","Koala",LC,U,-16731116
-17,4,"gliroides","Dromiciops","Monito Del Monte",NT,D,-12486656
-29,28,"flavipes","Antechinus","Yellow-footed Antechinus",LC,S,-16731116
-30,28,"bellus","Antechinus","Fawn Antechinus",LC,S,-16731116
-31,27,"leo","Antechinus","Cinnamon Antechinus",LC,S,-16731116
-33,32,"stuartii","Antechinus","Brown Antechinus",LC,S,-16731116
-34,32,"adustus","Antechinus","Rusty Antechinus",LC,D,-16731116
-35,25,"godmani","Antechinus","Atherton Antechinus",NT,S,-12486656
-37,36,"swainsonii","Antechinus","Dusky Antechinus",LC,U,-16731116
-38,36,"minimus","Antechinus","Swamp Antechinus",LC,D,-16731116
-43,42,"habbema","Micromurexia","",NE,U,-16777216
-44,42,"naso","Phascomurexia","",NE,U,-16777216
-45,41,"longicaudata","Murexia","Short-furred Dasyure",LC,U,-16731116
-46,40,"melanurus","Murexechinus","",NE,U,-16777216
-47,39,"rothschildi","Paramurexia","",NE,U,-16777216
-49,48,"tapoatafa","Phascogale","Brush-tailed Phascogale",NT,D,-12486656
-50,48,"calura","Phascogale","Red-tailed Phascogale",NT,D,-12486656
-56,55,"ingrami","Planigale","Long-tailed Planigale",LC,S,-16731116
-57,55,"gilesi","Planigale","Giles' Planigale",LC,U,-16731116
-58,54,"novaeguineae","Planigale","Papuan Planigale",LC,U,-16731116
-59,53,"tenuirostris","Planigale","Narrow-nosed Planigale",LC,S,-16731116
-60,52,"maculata","Planigale","Common Planigale",LC,S,-16731116
-61,19,"fasciatus","Myrmecobius","Numbat",EN,D,-8572416
-63,62,"caurinus","Notoryctes","Northern Marsupial Mole",DD,U,-11513776
-64,62,"typhlops","Notoryctes","Marsupial Mole",DD,U,-11513776
-72,71,"echinista","Echymipera","Menzies' Echymipera",DD,U,-11513776
-73,71,"davidi","Echymipera","David's Echymipera",EN,U,-8572416
-74,70,"clara","Echymipera","Clara's Echymipera",LC,U,-16731116
-76,75,"rufescens","Echymipera","Long-nosed Echymipera",LC,D,-16731116
-77,75,"kalubu","Echymipera","Common Echymipera",LC,S,-16731116
-81,80,"raffrayana","Peroryctes","Raffray's Bandicoot",LC,U,-16731116
-82,80,"broadbenti","Peroryctes","Giant Bandicoot",EN,D,-8572416
-83,79,"papuensis","Microperoryctes","Papuan Bandicoot",LC,U,-16731116
-84,78,"prattorum","Rhynchomeles","Seram Bandicoot",EN,U,-8572416
-86,85,"longicauda","Microperoryctes","Striped Bandicoot",LC,U,-16731116
-87,85,"murina","Microperoryctes","Mouse Bandicoot",DD,U,-11513776
-92,91,"obesulus","Isoodon","Southern Brown Bandicoot",LC,D,-16731116
-93,91,"auratus","Isoodon","Golden Bandicoot",VU,D,-11184866
-94,90,"macrourus","Isoodon","Northern Brown Bandicoot",LC,S,-16731116
-95,89,"bougainville","Perameles","Western Barred Bandicoot",EN,S,-8572416
-97,96,"gunnii","Perameles","Eastern Barred Bandicoot",NT,D,-12486656
-98,96,"nasuta","Perameles","Long-nosed Bandicoot",LC,U,-16731116
-99,65,"lagotis","Macrotis","Bilby",VU,D,-11184866
-104,103,"caniventer","Caenolestes","Gray-bellied Shrew Opossum",NT,D,-12486656
-105,103,"fuliginosus","Caenolestes","Silky Shrew Opossum",LC,U,-16731116
-106,102,"convelatus","Caenolestes","Blackish Shrew Opossum",VU,D,-11184866
-107,101,"raphanurus","Rhyncholestes","Chilean Caenolestid",NT,D,-12486656
-108,100,"inca","Lestoros","Incan Shrew Opossum",LC,U,-16731116
-119,118,"glirina","Monodelphis","Amazonian Red-sided Opossum",LC,U,-16731116
-120,118,"palliolata","Monodelphis","Hooded Red-sided Opossum",LC,D,-16731116
-121,117,"brevicaudata","Monodelphis","Northern Red-sided Opossum",LC,U,-16731116
-124,123,"umbristriata","Monodelphis","Faint-striped Opossum",VU,D,-11184866
-125,123,"rubida","Monodelphis","Chestnut-striped Opossum",DD,D,-11513776
-126,122,"osgoodi","Monodelphis","Osgood's Short-tailed Opossum",LC,U,-16731116
-127,115,"iheringi","Monodelphis","Ihering's Short-tailed Opossum",DD,D,-11513776
-131,130,"theresa","Monodelphis","Southern Three-striped Opossum",DD,D,-11513776
-132,130,"adusta","Monodelphis","Sepia Short-tailed Opossum",LC,S,-16731116
-133,129,"sorex","Monodelphis","Hensel's Short-tailed Opossum",LC,D,-16731116
-134,128,"domestica","Monodelphis","Gray Short-tailed Opossum",LC,S,-16731116
-138,137,"scalops","Monodelphis","Long-nosed Short-tailed Opossum",LC,D,-16731116
-139,137,"unistriata","Monodelphis","Single-striped Opossum",DD,U,-11513776
-140,136,"americana","Monodelphis","Northern Three-striped Opossum",LC,D,-16731116
-142,141,"dimidiata","Monodelphis","Eastern Short-tailed Opossum",LC,D,-16731116
-143,141,"emiliae","Monodelphis","Emilia's Short-tailed Opossum",LC,U,-16731116
-145,144,"maraxina","Monodelphis","Marajo Short-tailed Opossum",DD,D,-11513776
-146,144,"kunsi","Monodelphis","Pygmy Short-tailed Opossum",LC,U,-16731116
-155,154,"demerarae","Micoureus","Long-furred Woolly Mouse Opossum",LC,S,-16731116
-156,154,"paraguayanus","Micoureus","Tate's Woolly Mouse Opossum",LC,S,-16731116
-157,153,"constantiae","Micoureus","Bay-colored Mouse Opossum",LC,U,-16731116
-159,158,"regina","Micoureus","Short-furred Woolly Mouse Opossum",LC,S,-16731116
-160,158,"phaeus","Micoureus","",VU,D,-11184866
-161,151,"alstoni","Micoureus","Alston's Woolly Mouse Opossum",LC,S,-16731116
-162,150,"tyleriana","Marmosa","Tyler's Mouse Opossum",DD,U,-11513776
-164,163,"murina","Marmosa","Linnaeus's Mouse Opossum",LC,S,-16731116
-165,163,"quichua","Marmosa","Quechuan Mouse Opossum",LC,D,-16731116
-169,168,"andersoni","Marmosa","Anderson's Mouse Opossum",DD,U,-11513776
-170,168,"rubra","Marmosa","Red Mouse Opossum",DD,U,-11513776
-171,167,"xerophila","Marmosa","Dryland Mouse Opossum",VU,D,-11184866
-172,166,"robinsoni","Marmosa","Robinson's Mouse Opossum",LC,S,-16731116
-175,174,"lepida","Marmosa","Little Rufous Mouse Opossum",LC,S,-16731116
-176,174,"canescens","Tlacuatzin","Grayish Mouse Opossum",LC,S,-16731116
-177,173,"mexicana","Marmosa","Mexican Mouse Opossum",LC,S,-16731116
-182,181,"derbianus","Caluromys","Central American Woolly Opossum",LC,D,-16731116
-183,181,"philander","Caluromys","Bare-tailed Woolly Opossum",LC,D,-16731116
-184,180,"lanatus","Caluromys","Brown-eared Wooly Opossum",LC,D,-16731116
-185,179,"irrupta","Caluromysiops","Black-shouldered Opossum",LC,D,-16731116
-186,178,"venusta","Glironia","Bushy-tailed Opossum",LC,U,-16731116
+7,6,"onsloviana","Lerista","",NE,U,-16777216
+8,6,"bipes","Lerista","",NE,U,-16777216
+9,5,"frosti","Lerista","",NE,U,-16777216
+10,4,"greeri","Lerista","",NE,U,-16777216
+13,12,"distinguenda","Lerista","",NE,U,-16777216
+14,12,"labialis","Lerista","",NE,U,-16777216
+15,11,"orientalis","Lerista","",NE,U,-16777216
+20,19,"fragilis","Lerista","",NE,U,-16777216
+21,19,"dorsalis","Lerista","",NE,U,-16777216
+22,18,"karlschmidti","Lerista","",NE,U,-16777216
+23,17,"allanae","Lerista","Allan's Lerista",CR,U,-3014646
+25,24,"punctatovittata","Lerista","",NE,U,-16777216
+26,24,"simillima","Lerista","",NE,U,-16777216
+34,33,"connivens","Lerista","",NE,U,-16777216
+35,33,"gerrardi","Lerista","",NE,U,-16777216
+36,32,"stylis","Lerista","",NE,U,-16777216
+38,37,"griffini","Lerista","",NE,U,-16777216
+39,37,"cinerea","Lerista","",NE,U,-16777216
+40,30,"lineopunctulata","Lerista","",NE,U,-16777216
+41,29,"terdigitata","Lerista","",NE,U,-16777216
+42,28,"muelleri","Lerista","",NE,U,-16777216
+46,45,"picturata","Lerista","",NE,U,-16777216
+47,45,"neander","Lerista","",NE,U,-16777216
+48,44,"wilkinsi","Lerista","",NE,U,-16777216
+49,43,"borealis","Lerista","",NE,U,-16777216
+52,51,"desertorum","Lerista","",NE,U,-16777216
+53,51,"ameles","Lerista","",NE,U,-16777216
+54,50,"xanthura","Lerista","",NE,U,-16777216

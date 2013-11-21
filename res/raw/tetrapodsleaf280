@@ -1,39 +1,52 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"platycephalus","Crossarchus","Cameroon Cusimanse",LC,U,-16731116
-14,12,"obscurus","Crossarchus","Common Cusimanse",LC,U,-16731116
-15,11,"alexandri","Crossarchus","Alexander's Cusimanse",LC,D,-16731116
-16,10,"ansorgei","Crossarchus","Ansorge's Cusimanse",DD,U,-11513776
-19,18,"hirtula","Helogale","Somali Dwarf Mongoose",LC,S,-16731116
-20,18,"parvula","Helogale","Common Dwarf Mongoose",LC,S,-16731116
-22,21,"gambianus","Mungos","Gambian Mongoose",LC,S,-16731116
-23,21,"mungo","Mungos","Banded Mongoose",LC,S,-16731116
-24,8,"albicauda","Ichneumia","White-tailed Mongoose",LC,S,-16731116
-25,7,"suricatta","Suricata","Meerkat",LC,U,-16731116
-28,27,"crassicauda","Bdeogale","Bushy-tailed Mongoose",LC,U,-16731116
-29,27,"nigripes","Bdeogale","Black-footed Mogoose",LC,D,-16731116
-30,26,"jacksoni","Bdeogale","Jackson's Mongoose",NT,D,-12486656
-31,5,"kuhni","Liberiictis","Liberian Mongoose",VU,D,-11184866
-33,32,"selousi","Paracynictis","Selous' Mongoose",LC,U,-16731116
-34,32,"penicillata","Cynictis","Yellow Mongoose",LC,S,-16731116
-42,41,"javanicus","Herpestes","Small Asian Mongoose",LC,U,-16731116
-43,41,"edwardsi","Herpestes","",NE,U,-16777216
-44,40,"urva","Herpestes","Crab-eating Mongoose",LC,S,-16731116
-46,45,"brachyurus","Herpestes","Short-tailed Mongoose",LC,U,-16731116
-47,45,"fuscus","Herpestes","Indian Brown Mongoose",VU,D,-11184866
-48,38,"naso","Herpestes","Long-nosed Mongoose",LC,D,-16731116
-50,49,"vitticollis","Herpestes","Stripe-necked Mongoose",LC,S,-16731116
-51,49,"smithii","Herpestes","Ruddy Mongoose",LC,D,-16731116
-53,52,"semitorquatus","Herpestes","Collared Mongoose",DD,D,-11513776
-54,52,"ichneumon","Herpestes","Egyptian Mongoose",LC,S,-16731116
-57,56,"pulverulenta","Galerella","",NE,U,-16777216
-58,56,"flavescens","Galerella","",NE,U,-16777216
-60,59,"sanguinea","Galerella","",NE,U,-16777216
-61,59,"ochracea","Galerella","",NE,U,-16777216
-62,2,"dybowskii","Dologale","Pousargues' Mongoose",DD,U,-11513776
-64,63,"melleri","Rhynchogale","Meller's Mongoose",LC,U,-16731116
-65,63,"paludinosus","Atilax","Marsh Mongoose",LC,D,-16731116
-70,69,"grandidieri","Galidictis","Giant-striped Mongoose",EN,D,-8572416
-71,69,"fasciata","Galidictis","Broad-striped Mongoose",NT,D,-12486656
-72,68,"elegans","Galidia","Malagasy Ring-tailed Mongoose",LC,U,-16731116
-73,67,"decemlineata","Mungotictis","Malagasy Narrow-striped Mongoose",VU,U,-11184866
-74,66,"concolor","Salanoia","Brown-tailed Mongoose",VU,U,-11184866
+12,11,"betulina","Sicista","Northern Birch Mouse",LC,U,-16731116
+13,11,"armenica","Sicista","Armenian Birch Mouse",EN,D,-8572416
+14,10,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U,-16731116
+16,15,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U,-12486656
+17,15,"napaea","Sicista","Altai Birch Mouse",LC,U,-16731116
+19,18,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U,-11513776
+20,18,"concolor","Sicista","Chinese Birch Mouse",LC,U,-16731116
+24,23,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S,-16731116
+25,23,"subtilis","Sicista","Southern Birch Mouse",LC,D,-16731116
+26,22,"caudata","Sicista","Long-tailed Birch Mouse",DD,U,-11513776
+29,28,"strandi","Sicista","Strand's Birch Mouse",LC,S,-16731116
+30,28,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U,-8572416
+31,27,"caucasica","Sicista","Caucasian Birch Mouse",VU,U,-11184866
+35,34,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U,-16731116
+36,34,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S,-16731116
+37,33,"princeps","Zapus","Pacific Jumping Mouse",LC,S,-16731116
+39,38,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S,-16731116
+40,38,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U,-16731116
+47,46,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U,-11513776
+48,46,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U,-11513776
+49,45,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U,-11513776
+50,44,"thomasi","Salpingotus","",NE,U,-16777216
+52,51,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U,-11513776
+53,51,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U,-16731116
+54,42,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U,-11513776
+55,41,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U,-16731116
+56,4,"naso","Euchoreutes","Long-eared Jerboa",LC,U,-16731116
+61,60,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D,-16731116
+62,60,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D,-16731116
+63,59,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U,-16731116
+64,58,"sagitta","Dipus","Hairy-footed Jerboa",LC,S,-16731116
+68,67,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S,-16731116
+69,67,"blanfordi","Jaculus","Blanford's Jerboa",LC,D,-16731116
+70,66,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U,-16731116
+71,65,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U,-16731116
+74,73,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U,-16731116
+75,73,"shitkovi","Pygeretmus","",NE,U,-16777216
+76,72,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U,-16731116
+77,1,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U,-16731116
+84,83,"hotsoni","Allactaga","Hotson's Five-toed Jerboa",LC,U,-16731116
+85,83,"balikunica","Allactaga","Balikun Jerboa",LC,U,-16731116
+86,82,"elater","Allactaga","Small Five-toed Jerboa",LC,D,-16731116
+87,81,"vinogradovi","Allactaga","Vinogradov's Jerboa",NT,D,-12486656
+90,89,"severtzovi","Allactaga","Svertzov's Jerboa",LC,U,-16731116
+91,89,"firouzi","Allactaga","Iranian Jerboa",DD,U,-11513776
+92,88,"bullata","Allactaga","Gobi Jerboa",LC,U,-16731116
+95,94,"euphratica","Allactaga","Euphrates Jerboa",NT,D,-12486656
+96,94,"williamsi","Allactaga","",LC,D,-16731116
+97,93,"sibirica","Allactaga","Siberian Jerboa",LC,U,-16731116
+99,98,"tetradactyla","Allactaga","Four-toed Jerboa",VU,U,-11184866
+100,98,"major","Allactaga","Great Jerboa",LC,D,-16731116

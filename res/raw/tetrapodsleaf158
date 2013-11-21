@@ -1,27 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"placida","Geopelia","Peaceful Dove",LC,U,-16731116
-10,8,"striata","Geopelia","Zebra Dove",LC,U,-16731116
-11,7,"humeralis","Geopelia","Bar-shouldered Dove",LC,U,-16731116
-13,12,"cuneata","Geopelia","Diamond Dove",LC,U,-16731116
-14,12,"maugeus","Geopelia","Barred Dove",LC,U,-16731116
-17,16,"plumifera","Geophaps","Spinifex Pigeon",LC,U,-16731116
-18,16,"scripta","Geophaps","Squatter Pigeon",LC,U,-16731116
-19,15,"smithii","Geophaps","Partridge Pigeon",NT,U,-12486656
-24,23,"chalcoptera","Phaps","Common Bronzewing",LC,U,-16731116
-25,23,"elegans","Phaps","Brush Bronzewing",LC,U,-16731116
-26,22,"histrionica","Phaps","Flock Bronzewing",LC,U,-16731116
-28,27,"rufipennis","Petrophassa","Chestnut-quilled Rock-pigeon",LC,U,-16731116
-29,27,"albipennis","Petrophassa","White-quilled Rock-pigeon",LC,U,-16731116
-30,20,"lophotes","Ocyphaps","Crested Pigeon",LC,U,-16731116
-31,3,"melanoleuca","Leucosarcia","Wonga Pigeon",LC,U,-16731116
-34,33,"kubaryi","Gallicolumba","Caroline Islands Ground-dove",VU,U,-11184866
-35,33,"rubescens","Gallicolumba","Marquesan Ground-dove",VU,U,-11184866
-37,36,"jobiensis","Gallicolumba","White-bibbed Ground-dove",LC,U,-16731116
-38,36,"beccarii","Gallicolumba","Bronze Ground-dove",LC,U,-16731116
-42,41,"sanctaecrucis","Gallicolumba","Santa Cruz Ground-dove",EN,U,-8572416
-43,41,"rufigula","Gallicolumba","Cinnamon Ground-dove",LC,U,-16731116
-44,40,"xanthonura","Gallicolumba","White-throated Ground-dove",NT,U,-12486656
-46,45,"foersteri","Henicophaps","New Britain Bronzewing",VU,U,-11184866
-47,45,"albifrons","Henicophaps","New Guinea Bronzewing",LC,U,-16731116
-49,48,"platenae","Gallicolumba","Mindoro Bleeding-heart",CR,U,-3014646
-50,48,"hoedtii","Gallicolumba","Wetar Ground-dove",EN,U,-8572416
+11,10,"cryptoleucus","Corvus","Chihuahuan Raven",LC,U,-16731116
+12,10,"corax","Corvus","Common Raven",LC,U,-16731116
+13,9,"albus","Corvus","Pied Crow",LC,U,-16731116
+15,14,"albicollis","Corvus","White-necked Raven",LC,U,-16731116
+16,14,"tristis","Corvus","Grey Crow",LC,U,-16731116
+20,19,"validus","Corvus","Long-billed Crow",LC,U,-16731116
+21,19,"minutus","Corvus","Cuban Palm Crow",_U,[,-16777216
+22,18,"bennetti","Corvus","Little Crow",LC,U,-16731116
+24,23,"torquatus","Corvus","Collared Crow",NT,U,-12486656
+25,23,"capensis","Corvus","Cape Crow",LC,U,-16731116
+31,30,"woodfordi","Corvus","White-billed Crow",LC,U,-16731116
+32,30,"frugilegus","Corvus","Rook",LC,U,-16731116
+33,29,"edithae","Corvus","Somali Crow",LC,U,-16731116
+34,28,"fuscicapillus","Corvus","Brown-headed Crow",NT,U,-12486656
+36,35,"jamaicensis","Corvus","Jamaican Crow",LC,U,-16731116
+37,35,"enca","Corvus","Slender-billed Crow",LC,U,-16731116
+39,38,"hawaiiensis","Corvus","Hawaiian Crow",EW,U,-12832121
+40,38,"splendens","Corvus","House Crow",LC,U,-16731116
+45,44,"ruficollis","Corvus","Brown-necked Raven",LC,U,-16731116
+46,44,"levaillantii","Corvus","Jungle Crow",LC,U,-16731116
+48,47,"imparatus","Corvus","Tamaulipas Crow",LC,U,-16731116
+49,47,"mellori","Corvus","Little Raven",LC,U,-16731116
+51,50,"florensis","Corvus","Flores Crow",EN,U,-8572416
+52,50,"corone","Corvus","Carrion Crow",LC,U,-16731116
+54,53,"brachyrhynchos","Corvus","American Crow",LC,U,-16731116
+55,53,"caurinus","Corvus","North-western Crow",LC,U,-16731116
+58,57,"macrorhynchos","Corvus","Large-billed Crow",LC,U,-16731116
+59,57,"kubaryi","Corvus","Mariana Crow",CR,U,-3014646
+60,56,"leucognaphalus","Corvus","White-necked Crow",VU,U,-11184866
+65,64,"coronoides","Corvus","Australian Raven",LC,U,-16731116
+66,64,"orru","Corvus","Torresian Crow",LC,U,-16731116
+67,63,"nasicus","Corvus","Cuban Crow",LC,U,-16731116
+68,62,"crassirostris","Corvus","Thick-billed Raven",LC,U,-16731116
+69,61,"sinaloae","Corvus","Sinaloa Crow",LC,U,-16731116
+71,70,"unicolor","Corvus","Banggai Crow",CR,U,-3014646
+72,70,"typicus","Corvus","Piping Crow",LC,U,-16731116
+75,74,"rhipidurus","Corvus","Fan-tailed Raven",LC,U,-16731116
+76,74,"monedula","Corvus","Eurasian Jackdaw",LC,U,-16731116
+77,73,"dauuricus","Corvus","Daurian Jackdaw",LC,U,-16731116
+81,80,"moneduloides","Corvus","New Caledonian Crow",LC,U,-16731116
+82,80,"ossifragus","Corvus","Fish Crow",LC,U,-16731116
+83,79,"meeki","Corvus","Bougainville Crow",LC,U,-16731116
+85,84,"tasmanicus","Corvus","Forest Raven",LC,U,-16731116
+86,84,"palmarum","Corvus","Palm Crow",NT,U,-12486656

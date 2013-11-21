@@ -1,41 +1,98 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"macrocnemis","Rana","Long-legged Wood Frog",LC,D,-16731116
-11,9,"dalmatina","Rana","Agile Frog",LC,D,-16731116
-12,8,"okinavana","Rana","",NE,U,-16777216
-13,7,"temporaria","Rana","European Common Frog",LC,S,-16731116
-15,14,"asiatica","Rana","Central Asiatic Frog",LC,D,-16731116
-16,14,"chaochiaoensis","Rana","",LC,U,-16731116
-17,5,"pyrenaica","Rana","Pyrenean Frog",EN,D,-8572416
-18,4,"latastei","Rana","Italian Agile Frog",VU,D,-11184866
-22,21,"iberica","Rana","Iberian Frog",NT,D,-12486656
-23,21,"zhengi","Rana","",DD,U,-11513776
-24,20,"tsushimensis","Rana","Tsushima Brown Frog",LC,S,-16731116
-25,19,"huanrenensis","Rana","",NE,U,-16777216
-30,29,"chensinensis","Rana","Asiatic Grass Frog",LC,D,-16731116
-31,29,"dybowskii","Rana","",LC,S,-16731116
-32,28,"ornativentris","Rana","Montane Brown Frog",LC,S,-16731116
-35,34,"kunyuensis","Rana","",DD,U,-11513776
-36,34,"pirica","Rana","",LC,S,-16731116
-37,33,"kukunoris","Rana","",LC,U,-16731116
-40,39,"italica","Rana","Italian Stream Frog",LC,S,-16731116
-41,39,"graeca","Rana","Greek Stream Frog",LC,S,-16731116
-42,38,"arvalis","Rana","Altai Brown Frog",LC,S,-16731116
-47,46,"multidenticulata","Rana","",LC,S,-16731116
-48,46,"johnsi","Rana","",LC,U,-16731116
-49,45,"weiningensis","Rana","",NE,U,-16777216
-50,44,"sangzhiensis","Rana","",NE,U,-16777216
-51,43,"sauteri","Rana","",EN,D,-8572416
-59,58,"japonica","Rana","Japanese Brown Frog",LC,D,-16731116
-60,58,"longicrus","Rana","",VU,D,-11184866
-61,57,"amurensis","Rana","Siberian Wood Frog",LC,S,-16731116
-62,56,"sakuraii","Rana","Stream Brown Frog",LC,S,-16731116
-64,63,"zhenhaiensis","Rana","",LC,U,-16731116
-65,63,"chevronta","Rana","",CR,D,-3014646
-66,54,"omeimontis","Rana","",LC,D,-16731116
-67,53,"tagoi","Rana","",LC,S,-16731116
-71,70,"muscosa","Rana","Southern Mountain Yellow-legged Frog",EN,D,-8572416
-72,70,"pretiosa","Rana","Oregon Spotted Frog",VU,D,-11184866
-74,73,"aurora","Rana","Northern Red-legged Frog",LC,S,-16731116
-75,73,"boylii","Rana","",NT,D,-12486656
-77,76,"luteiventris","Rana","Columbia Spotted Frog",LC,D,-16731116
-78,76,"cascadae","Rana","Cascades Frog",NT,D,-12486656
+11,10,"przewalskii","Procapra","Przewalski's Gazelle",EN,D,-8572416
+12,10,"gutturosa","Procapra","Mongolian Gazelle",LC,U,-16731116
+13,9,"picticaudata","Procapra","Goa",NT,D,-12486656
+14,8,"melampus","Aepyceros","Impala",LC,S,-16731116
+20,19,"leche","Kobus","Southern Lechwe",LC,S,-16731116
+21,19,"megaceros","Kobus","Nile Lechwe",EN,D,-8572416
+22,18,"ellipsiprymnus","Kobus","Waterbuck",LC,D,-16731116
+24,23,"vardonii","Kobus","Puku",NT,D,-12486656
+25,23,"kob","Kobus","Kob",LC,D,-16731116
+28,27,"arundinum","Redunca","Southern Reedbuck",LC,S,-16731116
+29,27,"redunca","Redunca","Bohor Reedbuck",LC,D,-16731116
+30,26,"fulvorufula","Redunca","Mountain Reedbuck",LC,S,-16731116
+31,15,"capreolus","Pelea","Grey Rhebok",LC,S,-16731116
+34,33,"guentheri","Madoqua","Guenther's Dik-dik",LC,S,-16731116
+35,33,"piacentinii","Madoqua","Silver Dik-dik",DD,D,-11513776
+36,32,"pygmaeus","Neotragus","Royal Antelope",LC,D,-16731116
+45,44,"spekii","Tragelaphus","Sitatunga",LC,D,-16731116
+46,44,"eurycerus","Tragelaphus","Bongo",NT,D,-12486656
+47,43,"scriptus","Tragelaphus","Bushbuck",LC,S,-16731116
+48,42,"imberbis","Tragelaphus","Lesser Kudu",NT,D,-12486656
+51,50,"derbianus","Taurotragus","",NE,U,-16777216
+52,50,"oryx","Taurotragus","",NE,U,-16777216
+53,49,"strepsiceros","Tragelaphus","Greater Kudu",LC,S,-16731116
+54,40,"angasii","Tragelaphus","Nyala",LC,S,-16731116
+55,39,"buxtoni","Tragelaphus","Mountain Nyala",EN,D,-8572416
+57,56,"quadricornis","Tetracerus","Four-horned Antelope",VU,D,-11184866
+58,56,"tragocamelus","Boselaphus","Nilgai",LC,S,-16731116
+64,63,"bonasus","Bison","European Bison",VU,I,-11184866
+65,63,"bison","Bison","American Bison",NT,S,-12486656
+66,62,"grunniens","Bos","",NE,U,-16777216
+68,67,"sauveli","Bos","Grey Ox",CR,U,-3014646
+69,67,"taurus","Bos","Cows",NE,U,-16777216
+71,70,"javanicus","Bos","Banteng",EN,D,-8572416
+72,70,"frontalis","Bos","Gaur",NE,U,-16777216
+76,75,"quarlesi","Bubalus","Mountain Anoa",EN,D,-8572416
+77,75,"depressicornis","Bubalus","Anoa",EN,D,-8572416
+79,78,"mindorensis","Bubalus","Mindoro Dwarf Buffalo",CR,D,-3014646
+80,78,"bubalis","Bubalus","",NE,U,-16777216
+81,73,"caffer","Syncerus","African Buffalo",LC,D,-16731116
+89,88,"leucogaster","Moschus","Himalayan Muskdeer",EN,D,-8572416
+90,88,"chrysogaster","Moschus","Alpine Musk Deer",EN,D,-8572416
+91,87,"cupreus","Moschus","Kashmir Muskdeer",EN,D,-8572416
+92,86,"fuscus","Moschus","Black Musk Deer",EN,D,-8572416
+94,93,"berezovskii","Moschus","Forest Musk Deer",EN,D,-8572416
+95,93,"anhuiensis","Moschus","Anhui Musk Deer",EN,D,-8572416
+96,84,"moschiferus","Moschus","Siberian Musk Deer",VU,D,-11184866
+99,98,"camelopardalis","Giraffa","Giraffe",LC,D,-16731116
+100,98,"johnstoni","Okapia","Okapi",NT,S,-12486656
+101,97,"americana","Antilocapra","Pronghorn",LC,S,-16731116
+107,106,"kanchil","Tragulus","Lesser Oriental Chevrotain",LC,U,-16731116
+108,106,"javanicus","Tragulus","Javan Chevrotain",DD,U,-11513776
+109,105,"williamsoni","Tragulus","Williamson's Chevrotain",DD,D,-11513776
+112,111,"versicolor","Tragulus","Silver-backed Chevrotain",DD,D,-11513776
+113,111,"napu","Tragulus","Greater Oriental Chevrotain",LC,D,-16731116
+114,110,"nigricans","Tragulus","Balabac Mouse Deer",EN,D,-8572416
+115,103,"aquaticus","Hyemoschus","Water Chevrotain",LC,D,-16731116
+116,102,"meminna","Moschiola","White-spotted Chevrotain",LC,U,-16731116
+128,127,"europaeus","Mesoplodon","Gervais' Beaked Whale",DD,U,-11513776
+129,127,"bairdii","Berardius","Baird's Beaked Whale",DD,U,-11513776
+130,126,"ginkgodens","Mesoplodon","Ginkgo-toothed Beaked Whale",DD,U,-11513776
+132,131,"bowdoini","Mesoplodon","Andrew's Beaked Whale",DD,U,-11513776
+133,131,"peruvianus","Mesoplodon","Pygmy Beaked Whale",DD,U,-11513776
+138,137,"traversii","Mesoplodon","Spade-toothed Whale",DD,U,-11513776
+139,137,"layardii","Mesoplodon","Strap-toothed Whale",DD,U,-11513776
+140,136,"densirostris","Mesoplodon","Blainville's Beaked Whale",DD,U,-11513776
+141,135,"hectori","Mesoplodon","Hector's Beaked Whale",DD,U,-11513776
+142,134,"mirus","Mesoplodon","True's Beaked Whale",DD,U,-11513776
+145,144,"bidens","Mesoplodon","Sowerby's Beaked Whale",DD,U,-11513776
+146,144,"arnuxii","Berardius","Arnoux's Beaked Whale",DD,U,-11513776
+147,143,"shepherdi","Tasmacetus","Shepherd's Beaked Whale",DD,U,-11513776
+152,151,"pacificus","Indopacetus","Indo-pacific Beaked Whale",DD,U,-11513776
+153,151,"planifrons","Hyperoodon","Southern Bottlenose Whale",LC,U,-16731116
+154,150,"grayi","Mesoplodon","Gray's Beaked Whale",DD,U,-11513776
+156,155,"ampullatus","Hyperoodon","North Atlantic Bottlenose Whale",DD,U,-11513776
+157,155,"stejnegeri","Mesoplodon","Stejneger's Beaked Whale",DD,U,-11513776
+159,158,"cavirostris","Ziphius","Cuvier's Beaked Whale",LC,U,-16731116
+160,158,"carlhubbsi","Mesoplodon","Hubbs' Beaked Whale",DD,U,-11513776
+162,161,"gangetica","Platanista","South Asian River Dolphin",EN,D,-8572416
+163,161,"minor","Platanista","",NE,U,-16777216
+166,165,"breviceps","Kogia","Pygmy Sperm Whale",DD,U,-11513776
+167,165,"sima","Kogia","Dwarf Sperm Whale",DD,U,-11513776
+168,164,"catodon","Physeter","",NE,U,-16777216
+175,174,"novaeangliae","Megaptera","Humpback Whale",LC,I,-16731116
+176,174,"physalus","Balaenoptera","Fin Whale",EN,U,-8572416
+177,173,"musculus","Balaenoptera","Blue Whale",EN,I,-8572416
+178,172,"robustus","Eschrichtius","Gray Whale",LC,S,-16731116
+180,179,"edeni","Balaenoptera","Bryde's Whale",DD,U,-11513776
+181,179,"borealis","Balaenoptera","Sei Whale",EN,U,-8572416
+183,182,"bonaerensis","Balaenoptera","Antarctic Minke Whale",DD,U,-11513776
+184,182,"acutorostrata","Balaenoptera","Common Minke Whale",LC,S,-16731116
+189,188,"glacialis","Eubalaena","North Atlantic Right Whale",EN,U,-8572416
+190,188,"japonica","Eubalaena","North Pacific Right Whale",EN,U,-8572416
+191,187,"australis","Eubalaena","Southern Right Whale",LC,I,-16731116
+192,186,"mysticetus","Balaena","Bowhead Whale",LC,I,-16731116
+193,185,"marginata","Caperea","Pygmy Right Whale",DD,U,-11513776
+195,194,"amphibius","Hippopotamus","Common Hippopotamus",VU,D,-11184866
+196,194,"liberiensis","Hexaprotodon","",NE,U,-16777216

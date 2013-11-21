@@ -1,35 +1,100 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"ostrinus","Pyrenestes","Black-bellied Seedcracker",LC,U,-16731116
-10,8,"sanguineus","Pyrenestes","Crimson Seedcracker",LC,U,-16731116
-11,7,"minor","Pyrenestes","Lesser Seedcracker",LC,U,-16731116
-14,13,"poliogenys","Spermophaga","Grant's Bluebill",LC,U,-16731116
-15,13,"haematina","Spermophaga","Western Bluebill",LC,U,-16731116
-16,12,"ruficapilla","Spermophaga","Red-headed Bluebill",LC,U,-16731116
-20,19,"cyanocephalus","Uraeginthus","Blue-capped Cordonbleu",LC,U,-16731116
-21,19,"bengalus","Uraeginthus","Red-cheeked Cordonbleu",LC,U,-16731116
-22,18,"angolensis","Uraeginthus","Blue-breasted Cordonbleu",LC,U,-16731116
-24,23,"ianthinogaster","Uraeginthus","Purple Grenadier",LC,U,-16731116
-25,23,"granatinus","Uraeginthus","Common Grenadier",LC,U,-16731116
-26,4,"monteiri","Clytospiza","Brown Twinspot",LC,U,-16731116
-34,33,"sanguinodorsalis","Lagonosticta","Rock Firefinch",LC,U,-16731116
-35,33,"umbrinodorsalis","Lagonosticta","Chad Firefinch",_U,[,-16777216
-36,32,"virata","Lagonosticta","Mali Firefinch",LC,U,-16731116
-38,37,"rhodopareia","Lagonosticta","Jameson's Firefinch",LC,U,-16731116
-39,37,"landanae","Lagonosticta","Pale-billed Firefinch",LC,U,-16731116
-40,30,"rubricata","Lagonosticta","African Firefinch",LC,U,-16731116
-41,29,"rara","Lagonosticta","Black-bellied Firefinch",LC,U,-16731116
-42,28,"larvata","Lagonosticta","Black-throated Firefinch",LC,U,-16731116
-45,44,"rufopicta","Lagonosticta","Bar-breasted Firefinch",LC,U,-16731116
-46,44,"nitidula","Lagonosticta","Brown Firefinch",LC,U,-16731116
-47,43,"senegala","Lagonosticta","Red-billed Firefinch",LC,U,-16731116
-52,51,"phoenicoptera","Pytilia","Red-winged Pytilia",LC,U,-16731116
-53,51,"hypogrammica","Pytilia","Red-faced Pytilia",LC,U,-16731116
-54,50,"lineata","Pytilia","Red-billed Pytilia",_U,[,-16777216
-55,49,"afra","Pytilia","Orange-winged Pytilia",LC,U,-16731116
-56,48,"melba","Pytilia","Green-winged Pytilia",LC,U,-16731116
-59,58,"dybowskii","Euschistospiza","Dybowski's Twinspot",LC,U,-16731116
-60,58,"cinereovinacea","Euschistospiza","Dusky Twinspot",LC,U,-16731116
-62,61,"margaritatus","Hypargos","Pink-throated Twinspot",LC,U,-16731116
-63,61,"niveoguttatus","Hypargos","Peters's Twinspot",LC,U,-16731116
-65,64,"erythrocephala","Amadina","Red-headed Finch",LC,U,-16731116
-66,64,"fasciata","Amadina","Cut-throat",LC,U,-16731116
+14,13,"trachyderma","Uperoleia","Blacksoil Toadlet",LC,S,-16731116
+15,13,"rugosa","Uperoleia","Wrinkled Toadlet",LC,S,-16731116
+17,16,"crassa","Uperoleia","Fat Toadlet",LC,S,-16731116
+18,16,"mjobergi","Uperoleia","",NE,U,-16777216
+20,19,"capitulata","Uperoleia","Small-headed Toadlet",LC,S,-16731116
+21,19,"orientalis","Uperoleia","Alexandria Toadlet",DD,U,-11513776
+23,22,"lithomoda","Uperoleia","Stonemason's Toadlet",LC,S,-16731116
+24,22,"micromeles","Uperoleia","Tanami Toadlet",LC,S,-16731116
+26,25,"laevigata","Uperoleia","Smooth Toadlet",LC,S,-16731116
+27,25,"fusca","Uperoleia","Dusky Toadlet",LC,S,-16731116
+30,29,"glandulosa","Uperoleia","Glandular Toadlet",LC,S,-16731116
+31,29,"borealis","Uperoleia","Northern Toadlet",LC,S,-16731116
+32,28,"aspera","Uperoleia","Derby Toadlet",LC,S,-16731116
+35,34,"marmorata","Uperoleia","Marbled Toadlet",DD,U,-11513776
+36,34,"martini","Uperoleia","Martin's Toadlet",DD,U,-11513776
+38,37,"russelli","Uperoleia","Russell's Toadlet",LC,S,-16731116
+39,37,"mimula","Uperoleia","Mimic Toadlet",LC,S,-16731116
+44,43,"littlejohni","Uperoleia","Littlejohn's Toadlet",LC,S,-16731116
+45,43,"inundata","Uperoleia","Flood Plain Toadlet",LC,S,-16731116
+47,46,"arenicola","Uperoleia","Jabiru Toadlet",DD,S,-11513776
+48,46,"minima","Uperoleia","Small Toadlet",LC,U,-16731116
+50,49,"tyleri","Uperoleia","Tyler's Toadlet",DD,U,-11513776
+51,49,"talpa","Uperoleia","Mole Toadlet",LC,U,-16731116
+52,40,"altissima","Uperoleia","Montane Toadlet",LC,S,-16731116
+53,5,"flammocaerulea","Spicospina","Sunset Frog",VU,S,-11184866
+61,60,"australis","Pseudophryne","Red-crowned Toadlet",VU,D,-11184866
+62,60,"guentheri","Pseudophryne","Gunther's Toadlet",LC,S,-16731116
+63,59,"bibronii","Pseudophryne","Bibron's Toadlet",NT,D,-12486656
+65,64,"pengilleyi","Pseudophryne","Northern Corroboree Frog",EN,D,-8572416
+66,64,"dendyi","Pseudophryne","Dendy's Toadlet",LC,S,-16731116
+70,69,"major","Pseudophryne","Great Brown Brood-frog",LC,S,-16731116
+71,69,"raveni","Pseudophryne","",LC,S,-16731116
+72,68,"douglasi","Pseudophryne","Douglas' Toad",LC,U,-16731116
+74,73,"coriacea","Pseudophryne","Keferstein's Toadlet",LC,S,-16731116
+75,73,"corroboree","Pseudophryne","Corroboree Frog",CR,D,-3014646
+76,56,"covacevichae","Pseudophryne","Magnificent Broodfrog",EN,D,-8572416
+78,77,"occidentalis","Pseudophryne","Orange-crowned Toadlet",LC,S,-16731116
+79,77,"semimarmorata","Pseudophryne","Southern Toadlet",LC,D,-16731116
+82,81,"nichollsi","Metacrinia","Nicholl's Toadlet",LC,S,-16731116
+83,81,"rotunda","Arenophryne","Sandhill Frog",LC,S,-16731116
+84,80,"gouldii","Myobatrachus","Turtle Frog",LC,S,-16731116
+89,88,"rheophilus","Taudactylus","Northern Tinker Frog",CR,U,-3014646
+90,88,"liemi","Taudactylus","Eungella Tinker Frog",NT,S,-12486656
+91,87,"pleione","Taudactylus","Kroombit Tinker Frog",CR,D,-3014646
+93,92,"acutirostris","Taudactylus","Sharp Snouted Day Frog",CR,D,-3014646
+94,92,"diurnus","Taudactylus","Mount Glorious Torrent Frog",EX,U,-16777036
+95,85,"eungellensis","Taudactylus","Eungella Torrent Frog",CR,D,-3014646
+100,99,"fasciolatus","Mixophyes","Great Barred-frog",LC,S,-16731116
+101,99,"balbus","Mixophyes","Grey Barred Frog",VU,D,-11184866
+102,98,"iteratus","Mixophyes","Giant Barred-frog",EN,D,-8572416
+105,104,"fleayi","Mixophyes","Fleay's Barred-frog",EN,D,-8572416
+106,104,"hihihorlo","Mixophyes","",DD,U,-11513776
+107,103,"schevilli","Mixophyes","Northern Barred Frog",LC,S,-16731116
+109,108,"vitellinus","Rheobatrachus","Eungella Gastric-brooding Frog",EX,U,-16777036
+110,108,"silus","Rheobatrachus","Southern Gastric Brooding Frog",EX,U,-16777036
+119,118,"pictus","Neobatrachus","Painted Burrowing Frog",LC,S,-16731116
+120,118,"sudelli","Neobatrachus","Common Spadefoot Toad",LC,S,-16731116
+121,117,"fulvus","Neobatrachus","Tawny Frog",LC,S,-16731116
+123,122,"aquilonius","Neobatrachus","Northern Burrowing Frog",LC,S,-16731116
+124,122,"pelobatoides","Neobatrachus","Humming Frog",LC,S,-16731116
+128,127,"kunapalari","Neobatrachus","Kunapalari Frog",LC,S,-16731116
+129,127,"sutor","Neobatrachus","Shoemaker Frog",LC,S,-16731116
+130,126,"centralis","Neobatrachus","Desert Trilling Frog",LC,S,-16731116
+132,131,"wilsmorei","Neobatrachus","Goldfield's Bull Frog",LC,S,-16731116
+133,131,"albipes","Neobatrachus","White-footed Frog",LC,S,-16731116
+139,138,"melanopyga","Lechriodus","",LC,S,-16731116
+140,138,"platyceps","Lechriodus","",LC,S,-16731116
+141,137,"aganoposis","Lechriodus","",LC,S,-16731116
+142,136,"fletcheri","Lechriodus","Black-soled Frog",LC,S,-16731116
+144,143,"spenceri","Opisthodon","",NE,U,-16777216
+145,143,"ornatus","Opisthodon","",NE,U,-16777216
+148,147,"melanoscaphus","Notaden","Northern Spadefoot Toad",LC,S,-16731116
+149,147,"nichollsi","Notaden","Desert Spadefoot Toad",LC,S,-16731116
+151,150,"bennettii","Notaden","Crucifix Frog",LC,S,-16731116
+152,150,"weigeli","Notaden","Weigel's Toad",DD,S,-11513776
+158,157,"tasmaniensis","Limnodynastes","Spotted Grass Frog",LC,S,-16731116
+159,157,"peronii","Limnodynastes","Brown Frog",LC,I,-16731116
+161,160,"depressus","Limnodynastes","Flat-headed Frog",LC,S,-16731116
+162,160,"fletcheri","Limnodynastes","Barking Frog",LC,S,-16731116
+165,164,"convexiusculus","Limnodynastes","Marbled Frog",LC,S,-16731116
+166,164,"salmini","Limnodynastes","Salmon-striped Frog",LC,S,-16731116
+167,163,"lignarius","Limnodynastes","Woodworker Frog",LC,S,-16731116
+171,170,"terraereginae","Limnodynastes","Northern Banjo Frog",LC,S,-16731116
+172,170,"interioris","Limnodynastes","Giant Banjo Frog",LC,S,-16731116
+173,169,"dorsalis","Limnodynastes","Banjo Frog",LC,S,-16731116
+174,168,"dumerilii","Limnodynastes","Banjo Frog",LC,S,-16731116
+178,177,"australiacus","Heleioporus","Eastern Owl Frog",VU,D,-11184866
+179,177,"psammophilus","Heleioporus","Sand Frog",LC,S,-16731116
+181,180,"inornatus","Heleioporus","Plain Frog",LC,S,-16731116
+182,180,"eyrei","Heleioporus","Moaning Frog",LC,S,-16731116
+184,183,"albopunctatus","Heleioporus","Western Spotted Frog",LC,S,-16731116
+185,183,"barycragus","Heleioporus","Western Marsh Frog",LC,S,-16731116
+186,112,"brevis","Adelotus","Tusked Frog",NT,D,-12486656
+192,191,"frosti","Philoria","Baw Baw Frog",CR,D,-3014646
+193,191,"richmondensis","Philoria","",EN,D,-8572416
+194,190,"pughi","Philoria","",EN,D,-8572416
+195,189,"sphagnicolus","Philoria","Sphagnum Frog",EN,D,-8572416
+196,188,"kundagungan","Philoria","Mountain Frog",EN,D,-8572416
+197,187,"loveridgei","Philoria","Loveridge's Frog",EN,D,-8572416

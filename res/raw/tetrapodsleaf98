@@ -1,50 +1,101 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"rufiventris","Neoxolmis","Chocolate-vented Tyrant",LC,U,-16731116
-10,8,"rubetra","Xolmis","Rusty-backed Monjita",LC,U,-16731116
-11,7,"coronatus","Xolmis","Black-crowned Monjita",LC,U,-16731116
-14,13,"salinarum","Xolmis","Salinas Monjita",NT,U,-12486656
-15,13,"cinereus","Xolmis","Grey Monjita",LC,U,-16731116
-16,12,"vetula","Muscipipra","Shear-tailed Grey-tyrant",LC,U,-16731116
-20,19,"micropterus","Agriornis","Grey-bellied Shrike-tyrant",LC,U,-16731116
-21,19,"montanus","Agriornis","Black-billed Shrike-tyrant",LC,U,-16731116
-23,22,"albicauda","Agriornis","White-tailed Shrike-tyrant",VU,U,-11184866
-24,22,"lividus","Agriornis","Great Shrike-tyrant",LC,U,-16731116
-25,17,"murinus","Agriornis","Lesser Shrike-tyrant",LC,U,-16731116
-30,29,"striaticollis","Myiotheretes","Streak-throated Bush-tyrant",LC,U,-16731116
-31,29,"fuscorufus","Myiotheretes","Rufous-bellied Bush-tyrant",LC,U,-16731116
-32,28,"fumigatus","Myiotheretes","Smoky Bush-tyrant",LC,U,-16731116
-33,27,"pernix","Myiotheretes","Santa Marta Bush-tyrant",EN,U,-8572416
-35,34,"dominicanus","Xolmis","Black-and-white Monjita",VU,U,-11184866
-36,34,"pyrope","Xolmis","Fire-eyed Diucon",LC,U,-16731116
-38,37,"velatus","Xolmis","White-rumped Monjita",LC,U,-16731116
-39,37,"irupero","Xolmis","White Monjita",LC,U,-16731116
-41,40,"rufipennis","Polioxolmis","Rufous-webbed Bush-tyrant",LC,U,-16731116
-42,40,"erythropygius","Cnemarchus","Red-rumped Bush-tyrant",LC,U,-16731116
-50,49,"capistratus","Muscisaxicola","Cinnamon-bellied Ground-tyrant",LC,U,-16731116
-51,49,"frontalis","Muscisaxicola","Black-fronted Ground-tyrant",LC,U,-16731116
-53,52,"maclovianus","Muscisaxicola","Dark-faced Ground-tyrant",LC,U,-16731116
-54,52,"alpinus","Muscisaxicola","Plain-capped Ground-tyrant",LC,U,-16731116
-55,47,"albilora","Muscisaxicola","White-browed Ground-tyrant",LC,U,-16731116
-59,58,"albifrons","Muscisaxicola","White-fronted Ground-tyrant",LC,U,-16731116
-60,58,"rufivertex","Muscisaxicola","Rufous-naped Ground-tyrant",LC,U,-16731116
-62,61,"flavinucha","Muscisaxicola","Ochre-naped Ground-tyrant",LC,U,-16731116
-63,61,"cinereus","Muscisaxicola","Cinereous Ground-tyrant",LC,U,-16731116
-64,56,"juninensis","Muscisaxicola","Puna Ground-tyrant",LC,U,-16731116
-65,45,"maculirostris","Muscisaxicola","Spot-billed Ground-tyrant",LC,U,-16731116
-66,44,"icterophrys","Satrapa","Yellow-browed Tyrant",LC,U,-16731116
-68,67,"griseus","Muscisaxicola","Taczanowski's Ground-tyrant",LC,U,-16731116
-69,67,"fluviatilis","Muscisaxicola","Little Ground-tyrant",LC,U,-16731116
-78,77,"poecilocercus","Knipolegus","Amazonian Black-tyrant",LC,U,-16731116
-79,77,"aterrimus","Knipolegus","White-winged Black-tyrant",LC,U,-16731116
-80,76,"cyanirostris","Knipolegus","Blue-billed Black-tyrant",LC,U,-16731116
-82,81,"hudsoni","Knipolegus","Hudson's Black-tyrant",LC,U,-16731116
-83,81,"striaticeps","Knipolegus","Cinereous Tyrant",LC,U,-16731116
-84,74,"signatus","Knipolegus","Andean Tyrant",LC,U,-16731116
-87,86,"nigerrimus","Knipolegus","Velvety Black-tyrant",LC,U,-16731116
-88,86,"lophotes","Knipolegus","Crested Black-tyrant",LC,U,-16731116
-89,85,"franciscanus","Knipolegus","Brazilian Black-tyrant",NT,U,-12486656
-91,90,"poecilurus","Knipolegus","Rufous-tailed Tyrant",LC,U,-16731116
-92,90,"orenocensis","Knipolegus","Riverside Tyrant",LC,U,-16731116
-93,71,"perspicillatus","Hymenops","Spectacled Tyrant",LC,U,-16731116
-95,94,"rufa","Lessonia","Patagonian Negrito",LC,U,-16731116
-96,94,"oreas","Lessonia","Andean Negrito",LC,U,-16731116
+9,5,"scutatum","Hemidactylium","Four-toed Salamander",LC,S,-16731116
+16,15,"attenuatus","Batrachoseps","California Slender Salamander",LC,S,-16731116
+17,15,"gabrieli","Batrachoseps","San Gabriel Slender Salamander",DD,U,-11513776
+19,18,"diabolicus","Batrachoseps","Hell Hollow Slender Salamander",DD,U,-11513776
+20,18,"relictus","Batrachoseps","Relictual Slender Salamander",DD,U,-11513776
+22,21,"robustus","Batrachoseps","Kern Plateau Salamander",NT,S,-12486656
+23,21,"campi","Batrachoseps","Inyo Mountains Salamander",EN,D,-8572416
+28,27,"kawia","Batrachoseps","Sequoia Slender Salamander",DD,U,-11513776
+29,27,"minor","Batrachoseps","Lesser Slender Salamander",DD,U,-11513776
+30,26,"gregarius","Batrachoseps","Gregarious Slender Salamander",LC,S,-16731116
+31,25,"regius","Batrachoseps","Kings River Slender Salamander",VU,S,-11184866
+32,24,"gavilanensis","Batrachoseps","Gabilan Mountains Slender Salamander",LC,S,-16731116
+38,37,"nigriventris","Batrachoseps","Blackbelly Slender Salamander",LC,S,-16731116
+39,37,"major","Batrachoseps","Garden Slender Salamander",LC,S,-16731116
+40,36,"pacificus","Batrachoseps","Channel Islands Slender Salamander",LC,S,-16731116
+41,35,"simatus","Batrachoseps","Kern Canyon Slender Salamander",VU,S,-11184866
+43,42,"stebbinsi","Batrachoseps","Tehachapi Slender Salamander",VU,U,-11184866
+44,42,"wrightorum","Batrachoseps","",NE,U,-16777216
+45,33,"incognitus","Batrachoseps","San Simeon Slender Salamander",DD,U,-11513776
+46,10,"luciae","Batrachoseps","Santa Lucia Mountains Slender Salamander",LC,S,-16731116
+57,56,"dorsalis","Plethodon","Northern Zigzag Salamander",LC,S,-16731116
+58,56,"welleri","Plethodon","Weller's Salamander",EN,D,-8572416
+59,55,"ventralis","Plethodon","Southern Zigzag Salamander",LC,D,-16731116
+60,54,"angusticlavius","Plethodon","Ozark Zigzag Salamander",LC,S,-16731116
+61,53,"websteri","Plethodon","Webster's Salamander",LC,D,-16731116
+65,64,"stormi","Plethodon","Siskiyou Mountains Salamander",EN,D,-8572416
+66,64,"asupak","Plethodon","Scottbar Salamander",VU,U,-11184866
+67,63,"elongatus","Plethodon","Del Norte Salamander",NT,D,-12486656
+68,62,"ainsworthi","Plethodon","Ainsworth's Salamander",EX,U,-16777036
+70,69,"idahoensis","Plethodon","Coeur D'Alene Salamander",LC,U,-16731116
+71,69,"vandykei","Plethodon","Van Dyke's Salamander",LC,S,-16731116
+73,72,"neomexicanus","Plethodon","Jemez Mountains Salamander",NT,S,-12486656
+74,72,"larselli","Plethodon","Larch Mountain Salamander",NT,S,-12486656
+80,79,"serratus","Plethodon","Southern Redback Salamander",LC,S,-16731116
+81,79,"nettingi","Plethodon","Cheat Mountain Salamander",NT,S,-12486656
+83,82,"hoffmani","Plethodon","Valley And Ridge Salamander",LC,S,-16731116
+84,82,"shenandoah","Plethodon","Shenandoah Salamander",VU,S,-11184866
+86,85,"hubrichti","Plethodon","Peaks Of Otter Salamander",VU,U,-11184866
+87,85,"richmondi","Plethodon","Ravine Salamander",LC,S,-16731116
+91,90,"virginia","Plethodon","Shenandoah Mountain Salamander",NT,U,-12486656
+92,90,"sherando","Plethodon","Big Levels Salamander",VU,U,-11184866
+93,89,"cinereus","Plethodon","Redback Salamander",LC,S,-16731116
+94,88,"electromorphus","Plethodon","Northern Ravine Salamander",LC,S,-16731116
+96,95,"punctatus","Plethodon","White-spotted Salamander",NT,S,-12486656
+97,95,"wehrlei","Plethodon","Wehrle's Salamander",LC,S,-16731116
+100,99,"tridactylum","Amphiuma","Three-toed Amphiuma",LC,S,-16731116
+101,99,"means","Amphiuma","Two-toed Amphiuma",LC,U,-16731116
+102,98,"pholeter","Amphiuma","One-toed Amphiuma",NT,D,-12486656
+105,104,"variegatus","Rhyacotriton","Southern Torrent Salamander",LC,S,-16731116
+106,104,"kezeri","Rhyacotriton","Columbia Torrent Salamander",NT,S,-12486656
+108,107,"olympicus","Rhyacotriton","Olympic Torrent Salamander",VU,D,-11184866
+109,107,"cascadae","Rhyacotriton","Cascade Torrent Salamander",NT,D,-12486656
+119,118,"meridionalis","Notophthalmus","Black-spotted Newt",EN,D,-8572416
+120,118,"viridescens","Notophthalmus","Eastern Newt",LC,S,-16731116
+121,117,"perstriatus","Notophthalmus","Striped Newt",NT,D,-12486656
+124,123,"rivularis","Taricha","Redbelly Newt",LC,S,-16731116
+125,123,"torosa","Taricha","Coast Range Newt",LC,U,-16731116
+126,122,"granulosa","Taricha","Roughskin Newt",LC,S,-16731116
+133,132,"taliangensis","Tylototriton","Taliang Knobby Newt",NT,D,-12486656
+134,132,"hainanensis","Tylototriton","Hainan Knobby Newt",EN,D,-8572416
+135,131,"wenxianensis","Tylototriton","Wenxian Knobby Newt",VU,D,-11184866
+138,137,"kweichowensis","Tylototriton","Red-tailed Knobby Newt",VU,D,-11184866
+139,137,"asperrimus","Tylototriton","Black Knobby Newt",NT,D,-12486656
+140,136,"verrucosus","Tylototriton","Crocodile Newt",LC,U,-16731116
+141,129,"shanjing","Tylototriton","",NT,D,-12486656
+143,142,"andersoni","Echinotriton","Anderson's Crocodile Newt",EN,D,-8572416
+144,142,"chinhaiensis","Echinotriton","Chinhai Spiny Newt",CR,D,-3014646
+147,146,"nebulosus","Pleurodeles","Algerian Ribbed Newt",VU,D,-11184866
+148,146,"waltl","Pleurodeles","Sharp-ribbed Salamander",NT,D,-12486656
+149,145,"poireti","Pleurodeles","Edough Ribbed Newt",EN,D,-8572416
+150,113,"terdigitata","Salamandrina","Spectacled Salamander",LC,S,-16731116
+158,157,"antalyana","Lyciasalamandra","",EN,D,-8572416
+159,157,"fazilae","Lyciasalamandra","",EN,S,-8572416
+160,156,"luschani","Lyciasalamandra","",VU,S,-11184866
+161,155,"flavimembris","Lyciasalamandra","",EN,D,-8572416
+164,163,"helverseni","Lyciasalamandra","",VU,S,-11184866
+165,163,"billae","Lyciasalamandra","",CR,D,-3014646
+166,162,"atifi","Lyciasalamandra","",EN,S,-8572416
+167,153,"lusitanica","Chioglossa","Golden-striped Salamander",VU,D,-11184866
+172,171,"salamandra","Salamandra","Common Fire Salamander",LC,D,-16731116
+173,171,"corsica","Salamandra","Corsican Fire Salamander",LC,S,-16731116
+174,170,"lanzai","Salamandra","Lanza's Alpine Salamander",VU,S,-11184866
+175,169,"algira","Salamandra","North African Fire Salamander",VU,D,-11184866
+177,176,"infraimmaculata","Salamandra","Arouss Al Ayn",NT,D,-12486656
+178,176,"atra","Salamandra","Alpine Salamander",LC,D,-16731116
+179,151,"caucasica","Mertensiella","Caucasian Salamander",VU,D,-11184866
+184,183,"ensatus","Dicamptodon","California Giant Salamander",NT,U,-12486656
+185,183,"tenebrosus","Dicamptodon","Pacific Giant Salamander",LC,S,-16731116
+186,182,"copei","Dicamptodon","Cope's Giant Salamander",LC,S,-16731116
+187,181,"aterrimus","Dicamptodon","Idaho Giant Salamander",LC,S,-16731116
+193,192,"beyeri","Necturus","Gulf Coast Waterdog",LC,U,-16731116
+194,192,"punctatus","Necturus","Dwarf Waterdog",LC,U,-16731116
+195,191,"alabamensis","Necturus","Alabama Waterdog",EN,D,-8572416
+197,196,"lewisi","Necturus","Neuse River Waterdog",NT,D,-12486656
+198,196,"maculosus","Necturus","Mudpuppy",LC,S,-16731116
+199,189,"anguinus","Proteus","Olm",VU,D,-11184866
+202,201,"axanthus","Pseudobranchus","Narrow-striped Dwarf Siren",LC,D,-16731116
+203,201,"striatus","Pseudobranchus","Dwarf Siren",LC,D,-16731116
+205,204,"lacertina","Siren","Greater Siren",LC,U,-16731116
+206,204,"intermedia","Siren","Lesser Siren",LC,U,-16731116

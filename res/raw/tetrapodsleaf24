@@ -1,55 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"teerinki","Lonchura","Black-breasted Munia",LC,U,-16731116
-11,9,"stygia","Lonchura","Black Munia",NT,U,-12486656
-13,12,"spectabilis","Lonchura","Hooded Munia",LC,U,-16731116
-14,12,"nana","Lonchura","Madagascar Munia",LC,U,-16731116
-15,7,"flaviprymna","Lonchura","Yellow-rumped Munia",LC,U,-16731116
-16,6,"leucosticta","Lonchura","White-spotted Munia",LC,U,-16731116
-20,19,"leucogastra","Lonchura","White-bellied Munia",LC,U,-16731116
-21,19,"hunsteini","Lonchura","Mottled Munia",LC,U,-16731116
-23,22,"melaena","Lonchura","Bismarck Munia",LC,U,-16731116
-24,22,"fuscans","Lonchura","Dusky Munia",LC,U,-16731116
-26,25,"caniceps","Lonchura","Grey-headed Munia",LC,U,-16731116
-27,25,"monticola","Lonchura","Alpine Munia",LC,U,-16731116
-31,30,"malabarica","Lonchura","White-throated Munia",LC,U,-16731116
-32,30,"cantans","Lonchura","African Silverbill",LC,U,-16731116
-33,29,"forbesi","Lonchura","New Ireland Munia",LC,U,-16731116
-35,34,"atricapilla","Lonchura","Chestnut Munia",LC,U,-16731116
-36,34,"vana","Lonchura","Grey-banded Munia",VU,U,-11184866
-43,42,"castaneothorax","Lonchura","Chestnut-breasted Munia",LC,U,-16731116
-44,42,"quinticolor","Lonchura","Five-coloured Munia",LC,U,-16731116
-45,41,"tristissima","Lonchura","Streak-headed Munia",LC,U,-16731116
-48,47,"pallida","Lonchura","Pale-headed Munia",LC,U,-16731116
-49,47,"maja","Lonchura","White-headed Munia",LC,U,-16731116
-50,46,"malacca","Lonchura","Tricoloured Munia",LC,U,-16731116
-52,51,"nevermanni","Lonchura","Grey-crowned Munia",LC,U,-16731116
-53,51,"nigerrima","Lonchura","New Hanover Munia",LC,U,-16731116
-57,56,"kelaarti","Lonchura","Black-throated Munia",LC,U,-16731116
-58,56,"striata","Lonchura","White-rumped Munia",LC,U,-16731116
-59,55,"leucogastroides","Lonchura","Javan Munia",LC,U,-16731116
-60,54,"punctulata","Lonchura","Scaly-breasted Munia",LC,U,-16731116
-62,61,"ferruginosa","Lonchura","White-capped Munia",LC,U,-16731116
-63,61,"grandis","Lonchura","Grand Munia",LC,U,-16731116
-68,67,"bicolor","Lonchura","Black-and-white Munia",LC,U,-16731116
-69,67,"nigriceps","Lonchura","Brown-backed Munia",LC,U,-16731116
-70,66,"fringilloides","Lonchura","Magpie Munia",LC,U,-16731116
-72,71,"montana","Lonchura","Snow Mountain Munia",LC,U,-16731116
-73,71,"cucullata","Lonchura","Bronze Munia",LC,U,-16731116
-75,74,"griseicapilla","Lonchura","Grey-headed Silverbill",LC,U,-16731116
-76,74,"molucca","Lonchura","Black-faced Munia",LC,U,-16731116
-78,77,"oryzivora","Padda","Java Sparrow",VU,U,-11184866
-79,77,"fuscata","Padda","Timor Sparrow",NT,U,-12486656
-87,86,"modesta","Neochmia","Plum-headed Finch",LC,U,-16731116
-88,86,"phaeton","Neochmia","Crimson Finch",LC,U,-16731116
-89,85,"temporalis","Neochmia","Red-browed Finch",LC,U,-16731116
-90,84,"ruficauda","Neochmia","Star Finch",NT,U,-12486656
-93,92,"acuticauda","Poephila","Long-tailed Finch",LC,U,-16731116
-94,92,"cincta","Poephila","Black-throated Finch",NT,U,-12486656
-95,91,"personata","Poephila","Masked Finch",LC,U,-16731116
-97,96,"bichenovii","Taeniopygia","Double-barred Finch",LC,U,-16731116
-98,96,"guttata","Taeniopygia","Zebra Finch",LC,U,-16731116
-100,99,"fuliginosus","Oreostruthus","Mountain Firetail",LC,U,-16731116
-101,99,"pictum","Emblema","Painted Finch",LC,U,-16731116
-104,103,"oculata","Stagonopleura","Red-eared Firetail",LC,U,-16731116
-105,103,"bella","Stagonopleura","Beautiful Firetail",LC,U,-16731116
-106,102,"guttata","Stagonopleura","Diamond Firetail",NT,U,-12486656
+8,7,"pseudinsignifera","Crinia","False Western Froglet",LC,S,-16731116
+9,7,"remota","Crinia","Remote Froglet",LC,S,-16731116
+10,6,"riparia","Crinia","Streambank Froglet",LC,S,-16731116
+11,5,"sloanei","Crinia","Sloane's Froglet",DD,U,-11513776
+14,13,"parinsignifera","Crinia","Beeping Froglet",LC,U,-16731116
+15,13,"tasmaniensis","Crinia","Tasmanian Froglet",LC,S,-16731116
+16,12,"glauerti","Crinia","Glauert's Froglet",LC,S,-16731116
+17,3,"deserticola","Crinia","Desert Froglet",LC,S,-16731116
+20,19,"insignifera","Crinia","Sign-bearing Froglet",LC,S,-16731116
+21,19,"tinnula","Crinia","Tinkling Froglet",VU,D,-11184866
+22,18,"nimbus","Crinia","Moss Froglet",LC,S,-16731116
+26,25,"signifera","Crinia","Brown Froglet",LC,S,-16731116
+27,25,"georgiana","Crinia","Quacking Frog",LC,S,-16731116
+28,24,"bilingua","Crinia","Bilingual Frog",LC,S,-16731116
+29,23,"subinsignifera","Crinia","Small Western Froglet",LC,S,-16731116
+38,37,"alba","Geocrinia","White-bellied Frog",CR,D,-3014646
+39,37,"leai","Geocrinia","Lea's Frog",LC,S,-16731116
+40,36,"laevis","Geocrinia","Smooth Froglet",LC,S,-16731116
+41,35,"victoriana","Geocrinia","Eastern Smooth Frog",LC,S,-16731116
+42,34,"vitellina","Geocrinia","Orange-bellied Frog",VU,S,-11184866
+43,33,"rosea","Geocrinia","Karri Frog",LC,S,-16731116
+44,32,"lutea","Geocrinia","Nornalup Frog",NT,S,-12486656
+45,31,"darlingtoni","Assa","Hip-pocket Frog",LC,S,-16731116
+46,30,"haswelli","Paracrinia","Haswell's Froglet",LC,S,-16731116

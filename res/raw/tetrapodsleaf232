@@ -1,91 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"campestris","Dipodillus","",NE,U,-16777216
-14,12,"syrticus","Gerbillus","",NE,U,-16777216
-15,11,"stigmonyx","Dipodillus","",NE,U,-16777216
-16,10,"harwoodi","Dipodillus","",NE,U,-16777216
-17,9,"famulus","Gerbillus","Black-tufted Gerbil",LC,U,-16731116
-19,18,"muriculus","Gerbillus","Barfur Gerbil",DD,U,-11513776
-20,18,"agag","Gerbillus","Agag Gerbil",DD,U,-11513776
-25,24,"pyramidum","Gerbillus","Greater Egyptian Gerbil",LC,S,-16731116
-26,24,"latastei","Gerbillus","Lataste's Gerbil",LC,U,-16731116
-27,23,"mesopotamiae","Gerbillus","Mesopotamian Gerbil",LC,D,-16731116
-28,22,"pulvinatus","Gerbillus","Cushioned Gerbil",LC,U,-16731116
-29,21,"gerbillus","Gerbillus","Lesser Egyptian Gerbil",LC,S,-16731116
-35,34,"andersoni","Gerbillus","Anderson's Gerbil",LC,U,-16731116
-36,34,"nigeriae","Gerbillus","Nigerian Gerbil",LC,S,-16731116
-37,33,"mackilligini","Dipodillus","",NE,U,-16777216
-39,38,"zakariai","Dipodillus","",NE,U,-16777216
-40,38,"simoni","Dipodillus","",NE,U,-16777216
-43,42,"maghrebi","Dipodillus","",NE,U,-16777216
-44,42,"dasyurus","Dipodillus","",NE,U,-16777216
-45,41,"poecilops","Gerbillus","Large Aden Gerbil",LC,U,-16731116
-49,48,"dunni","Gerbillus","Somalia Gerbil",LC,U,-16731116
-50,48,"vivax","Gerbillus","",NE,U,-16777216
-51,47,"pusillus","Gerbillus","Least Gerbil",LC,U,-16731116
-52,46,"acticola","Gerbillus","Berbera Gerbil",DD,U,-11513776
-54,53,"nanus","Gerbillus","Dwarf Gerbil",LC,S,-16731116
-55,53,"dongolanus","Gerbillus","",NE,U,-16777216
-56,3,"peeli","Microdillus","Somali Pygmy Gerbil",LC,U,-16731116
-61,60,"vallinus","Gerbillurus","Bushy-tailed Hairy-footed Gerbil",LC,S,-16731116
-62,60,"paeba","Gerbillurus","Hairy-footed Gerbil",LC,S,-16731116
-63,59,"setzeri","Gerbillurus","Namib Brush-tailed Gerbil",LC,S,-16731116
-64,58,"tytonis","Gerbillurus","Dune Hairy-footed Gerbil",LC,S,-16731116
-65,57,"auricularis","Desmodillus","Cape Short-eared Gerbil",LC,S,-16731116
-81,80,"unguiculatus","Meriones","Mongolian Gerbil",LC,U,-16731116
-82,80,"tristrami","Meriones","Tristram's Jird",LC,S,-16731116
-84,83,"crassus","Meriones","Sundevall's Jird",LC,U,-16731116
-85,83,"dahli","Meriones","Dahl's Jird",EN,D,-8572416
-89,88,"chengi","Meriones","Cheng's Jird",LC,U,-16731116
-90,88,"libycus","Meriones","Libyan Jird",LC,S,-16731116
-91,87,"vinogradovi","Meriones","Vinogradov's Jird",LC,U,-16731116
-92,86,"zarudnyi","Meriones","Zarundny's Jird",DD,U,-11513776
-95,94,"meridianus","Meriones","Mid-day Gerbil",LC,U,-16731116
-96,94,"arimalius","Meriones","Arabian Jird",LC,U,-16731116
-97,93,"sacramenti","Meriones","Buxton's Jird",VU,D,-11184866
-99,98,"shawi","Meriones","Shaw's Jird",LC,S,-16731116
-100,98,"grandis","Meriones","",LC,S,-16731116
-101,75,"hurrianae","Meriones","Indian Desert Gerbil",LC,U,-16731116
-103,102,"persicus","Meriones","Persian Jird",LC,U,-16731116
-104,102,"rex","Meriones","King Jird",LC,U,-16731116
-105,73,"tamariscinus","Meriones","Tamarisk Gerbil",LC,U,-16731116
-107,106,"przewalskii","Brachiones","Przewalski's Jird",LC,U,-16731116
-108,106,"calurus","Sekeetamys","Bushy-tailed Jird",LC,S,-16731116
-110,109,"vexillaris","Psammomys","Thin Sand Rat",DD,U,-11513776
-111,109,"obesus","Psammomys","Fat Sand Rat",LC,S,-16731116
-112,70,"opimus","Rhombomys","Great Gerbil",LC,S,-16731116
-113,69,"imbellis","Ammodillus","Ammodile",DD,S,-11513776
-114,68,"duprasi","Pachyuromys","Fat-tailed Gerbil",LC,S,-16731116
-124,123,"nigricaudus","Gerbilliscus","Black-tailed Gerbil",LC,S,-16731116
-125,123,"robustus","Gerbilliscus","Fringe-tailed Gerbil",LC,S,-16731116
-126,122,"brantsii","Gerbilliscus","Highveld Gerbil",LC,U,-16731116
-127,121,"validus","Gerbilliscus","Savanna Gerbil",LC,S,-16731116
-129,128,"inclusus","Gerbilliscus","Gorongoza Gerbil",LC,U,-16731116
-130,128,"guineae","Gerbilliscus","Guinea Gerbil",LC,S,-16731116
-131,119,"phillipsi","Gerbilliscus","Phillip's Gerbil",LC,U,-16731116
-134,133,"kempi","Gerbilliscus","Kemp's Gerbil",LC,U,-16731116
-135,133,"afra","Gerbilliscus","Cape Gerbil",LC,U,-16731116
-136,132,"leucogaster","Gerbilliscus","Bushveld Gerbil",LC,S,-16731116
-137,117,"indica","Tatera","Indian Gerbil",LC,U,-16731116
-138,116,"boehmi","Gerbilliscus","Boehm's Gerbil",LC,S,-16731116
-143,142,"pygargus","Taterillus","Senegal Gerbil",LC,S,-16731116
-144,142,"congicus","Taterillus","Congo Gerbil",LC,U,-16731116
-146,145,"gracilis","Taterillus","Gracile Tateril",LC,S,-16731116
-147,145,"emini","Taterillus","Emin's Gerbil",LC,U,-16731116
-149,148,"arenarius","Taterillus","Robbins's Tateril",LC,U,-16731116
-150,148,"lacustris","Taterillus","Lake Chad Gerbil",LC,U,-16731116
-152,151,"petteri","Taterillus","Petter's Gerbil",LC,S,-16731116
-153,151,"harringtoni","Taterillus","",NE,U,-16777216
-154,66,"braueri","Desmodilliscus","Pouched Gerbil",LC,S,-16731116
-160,159,"emini","Cricetomys","Forest Giant Pouched Rat",LC,S,-16731116
-161,159,"kivuensis","Cricetomys","",NE,U,-16777216
-163,162,"gambianus","Cricetomys","Gambian Rat",LC,S,-16731116
-164,162,"ansorgei","Cricetomys","",NE,U,-16777216
-166,165,"hindei","Beamys","Long-tailed Pouched Rat",LC,D,-16731116
-167,165,"major","Beamys","",NE,U,-16777216
-169,168,"mearnsi","Saccostomus","East African Pouched Mouse",LC,S,-16731116
-170,168,"campestris","Saccostomus","Pouched Mouse",LC,S,-16731116
-174,173,"shortridgei","Petromyscus","Shortridge's Rock Mouse",LC,S,-16731116
-175,173,"barbouri","Petromyscus","Barbour's Rock Mouse",LC,S,-16731116
-177,176,"monticularis","Petromyscus","Brukkaros Pygmy Rock Mouse",LC,S,-16731116
-178,176,"collinus","Petromyscus","Pygmy Rock Mouse",LC,S,-16731116
-179,171,"brooksi","Delanymys","Delany's Mouse",VU,D,-11184866
+11,10,"ruficollis","Syndactyla","Rufous-necked Foliage-gleaner",VU,U,-11184866
+12,10,"guttulata","Syndactyla","Guttulate Foliage-gleaner",LC,U,-16731116
+13,9,"rufosuperciliata","Syndactyla","Buff-browed Foliage-gleaner",LC,U,-16731116
+14,8,"roraimae","Syndactyla","White-throated Foliage-gleaner",LC,U,-16731116
+15,7,"dimidiata","Syndactyla","Russet-mantled Foliage-gleaner",LC,U,-16731116
+16,6,"subalaris","Syndactyla","Lineated Foliage-gleaner",LC,U,-16731116
+18,17,"ucayalae","Simoxenops","Peruvian Recurvebill",NT,U,-12486656
+19,17,"striatus","Simoxenops","Bolivian Recurvebill",NT,U,-12486656
+22,21,"amaurotis","Anabacerthia","White-browed Foliage-gleaner",NT,U,-12486656
+23,21,"striaticollis","Anabacerthia","Montane Foliage-gleaner",LC,U,-16731116
+24,20,"variegaticeps","Anabacerthia","Scaly-throated Foliage-gleaner",LC,U,-16731116
+27,26,"dorsalis","Anabazenops","Dusky-cheeked Foliage-gleaner",LC,U,-16731116
+28,26,"fuscus","Anabazenops","White-collared Foliage-gleaner",LC,U,-16731116
+29,25,"parnaguae","Megaxenops","Great Xenops",LC,U,-16731116
+35,34,"erythrocercum","Philydor","Rufous-rumped Foliage-gleaner",LC,U,-16731116
+36,34,"novaesi","Philydor","Alagoas Foliage-gleaner",CR,U,-3014646
+37,33,"rufum","Philydor","Buff-fronted Foliage-gleaner",LC,U,-16731116
+39,38,"erythropterum","Philydor","Chestnut-winged Foliage-gleaner",LC,U,-16731116
+40,38,"atricapillus","Philydor","Black-capped Foliage-gleaner",LC,U,-16731116
+44,43,"ruficaudatum","Philydor","Rufous-tailed Foliage-gleaner",LC,U,-16731116
+45,43,"pyrrhodes","Philydor","Cinnamon-rumped Foliage-gleaner",LC,U,-16731116
+46,42,"lichtensteini","Philydor","Ochre-breasted Foliage-gleaner",LC,U,-16731116
+47,41,"fuscipenne","Philydor","Slaty-winged Foliage-gleaner",LC,U,-16731116
+48,30,"contaminatus","Heliobletus","Sharp-billed Treehunter",LC,U,-16731116
+49,1,"strigilatus","Ancistrops","Chestnut-winged Hookbill",LC,U,-16731116
+56,55,"virgaticeps","Thripadectes","Streak-capped Treehunter",LC,U,-16731116
+57,55,"flammulatus","Thripadectes","Flammulated Treehunter",LC,U,-16731116
+59,58,"melanorhynchus","Thripadectes","Black-billed Treehunter",LC,U,-16731116
+60,58,"holostictus","Thripadectes","Striped Treehunter",LC,U,-16731116
+63,62,"scrutator","Thripadectes","Buff-throated Treehunter",LC,U,-16731116
+64,62,"ignobilis","Thripadectes","Uniform Treehunter",LC,U,-16731116
+65,61,"rufobrunneus","Thripadectes","Streak-breasted Treehunter",LC,U,-16731116
+67,66,"rufipileatus","Automolus","Chestnut-crowned Foliage-gleaner",LC,U,-16731116
+68,66,"melanopezus","Automolus","Brown-rumped Foliage-gleaner",LC,U,-16731116
+72,71,"leucophthalmus","Automolus","White-eyed Foliage-gleaner",LC,U,-16731116
+73,71,"infuscatus","Automolus","Olive-backed Foliage-gleaner",LC,U,-16731116
+75,74,"subulatus","Hyloctistes","Striped Woodhaunter",LC,U,-16731116
+76,74,"virgatus","Hyloctistes","Western Woodhaunter",_U,[,-16777216
+78,77,"ochrolaemus","Automolus","Buff-throated Foliage-gleaner",LC,U,-16731116
+79,77,"leucophrus","Cichlocolaptes","Pale-browed Treehunter",LC,U,-16731116
+83,82,"erythrocephalus","Hylocryptus","Henna-hooded Foliage-gleaner",VU,U,-11184866
+84,82,"rectirostris","Hylocryptus","Chestnut-capped Foliage-gleaner",LC,U,-16731116
+85,81,"rubiginosus","Automolus","Ruddy Foliage-gleaner",LC,U,-16731116
+86,80,"dendrocolaptoides","Clibanornis","Canebrake Groundcreeper",NT,U,-12486656

@@ -1,34 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"rhodopyga","Estrilda","Crimson-rumped Waxbill",LC,U,-16731116
-11,9,"charmosyna","Estrilda","Red-rumped Waxbill",LC,U,-16731116
-12,8,"melpoda","Estrilda","Orange-cheeked Waxbill",LC,U,-16731116
-14,13,"troglodytes","Estrilda","Black-rumped Waxbill",LC,U,-16731116
-15,13,"paludicola","Estrilda","Fawn-breasted Waxbill",LC,U,-16731116
-16,6,"thomensis","Estrilda","Cinderella Waxbill",NT,U,-12486656
-19,18,"atricapilla","Estrilda","Black-headed Waxbill",LC,U,-16731116
-20,18,"nonnula","Estrilda","Black-crowned Waxbill",LC,U,-16731116
-21,17,"astrild","Estrilda","Common Waxbill",LC,U,-16731116
-25,24,"caerulescens","Estrilda","Lavender Waxbill",LC,U,-16731116
-26,24,"rufibarba","Estrilda","Arabian Waxbill",LC,U,-16731116
-27,23,"perreini","Estrilda","Black-tailed Waxbill",LC,U,-16731116
-29,28,"erythronotos","Estrilda","Black-cheeked Waxbill",LC,U,-16731116
-30,28,"kandti","Estrilda","Kandt's Waxbill",_U,[,-16777216
-32,31,"capistrata","Nesocharis","White-cheeked Oliveback",LC,U,-16731116
-33,31,"ansorgei","Nesocharis","White-collared Oliveback",LC,U,-16731116
-37,36,"quartinia","Estrilda","Yellow-bellied Waxbill",_U,[,-16777216
-38,36,"melanotis","Estrilda","Swee Waxbill",LC,U,-16731116
-39,35,"shelleyi","Nesocharis","Fernando Po Oliveback",LC,U,-16731116
-41,40,"nigriloris","Estrilda","Black-lored Waxbill",DD,U,-11513776
-42,40,"poliopareia","Estrilda","Anambra Waxbill",VU,U,-11184866
-46,45,"reichenovii","Cryptospiza","Red-faced Crimson-wing",LC,U,-16731116
-47,45,"salvadorii","Cryptospiza","Abyssinian Crimson-wing",LC,U,-16731116
-49,48,"shelleyi","Cryptospiza","Shelley's Crimson-wing",VU,U,-11184866
-50,48,"jacksoni","Cryptospiza","Dusky Crimson-wing",LC,U,-16731116
-51,43,"nitidula","Mandingoa","Green-backed Twinspot",LC,U,-16731116
-56,55,"fusconotus","Nigrita","White-breasted Negrofinch",LC,U,-16731116
-57,55,"canicapillus","Nigrita","Grey-headed Negrofinch",LC,U,-16731116
-58,54,"luteifrons","Nigrita","Pale-fronted Negrofinch",LC,U,-16731116
-59,53,"bicolor","Nigrita","Chestnut-breasted Negrofinch",LC,U,-16731116
-62,61,"woodhousei","Parmoptila","Woodhouse's Antpecker",LC,U,-16731116
-63,61,"jamesoni","Parmoptila","Jameson's Antpecker",LC,U,-16731116
-64,60,"rubrifrons","Parmoptila","Red-fronted Antpecker",NT,U,-12486656
+8,7,"mokokchungensis","Nanorana","",DD,U,-11513776
+9,7,"rostandi","Nanorana","",VU,D,-11184866
+11,10,"yunnanensis","Nanorana","",EN,D,-8572416
+12,10,"arnoldi","Nanorana","",NT,D,-12486656
+13,5,"bourreti","Nanorana","",DD,U,-11513776
+17,16,"blanfordii","Nanorana","",LC,D,-16731116
+18,16,"aenea","Nanorana","",DD,U,-11513776
+19,15,"unculuanus","Nanorana","",EN,D,-8572416
+21,20,"annandalii","Nanorana","",NT,D,-12486656
+22,20,"quadranus","Nanorana","",NT,D,-12486656
+27,26,"taihangnica","Nanorana","",DD,U,-11513776
+28,26,"ercepeae","Nanorana","",NT,D,-12486656
+29,25,"maculosa","Nanorana","",EN,D,-8572416
+31,30,"conaensis","Nanorana","",DD,U,-11513776
+32,30,"rarica","Nanorana","",DD,U,-11513776
+33,23,"parkeri","Nanorana","",LC,S,-16731116
+38,37,"ventripunctata","Nanorana","",LC,S,-16731116
+39,37,"minica","Nanorana","",VU,D,-11184866
+40,36,"liebigii","Nanorana","",LC,D,-16731116
+42,41,"pleskei","Nanorana","",NT,D,-12486656
+43,41,"vicina","Nanorana","",LC,U,-16731116
+47,46,"polunini","Nanorana","",LC,D,-16731116
+48,46,"liui","Nanorana","",VU,D,-11184866
+49,45,"medogensis","Nanorana","",DD,U,-11513776
+50,44,"feae","Nanorana","",DD,U,-11513776
+51,1,"sternosignata","Chrysopaa","",LC,S,-16731116
+52,0,"hazarensis","Allopaa","",LC,S,-16731116

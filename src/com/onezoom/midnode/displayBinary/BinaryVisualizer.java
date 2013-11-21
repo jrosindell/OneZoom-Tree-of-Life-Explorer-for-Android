@@ -21,6 +21,7 @@ public class BinaryVisualizer{
 	Paint signTextPaint;
 	Paint signPostPaint;
 	Path path;
+	Canvas canvas;
 	private static final float partl2 = 0.1f;
 	private static final int leaftype = 2;
 	private static final float Tsize = 1.1f;
@@ -47,44 +48,56 @@ public class BinaryVisualizer{
 	
 	
 	public void drawTree(Canvas canvas, MidNode midNode) {
-		drawElement(canvas, midNode);
-		if (drawSignPost) drawSignPost(canvas, midNode);
+		this.canvas = canvas;
+		drawElement(midNode);
+		if (drawSignPost) drawSignPost(midNode);
 	}
 	
-	private void drawElement(Canvas canvas, MidNode midNode) {
+	private void drawElement(MidNode midNode) {
 		if (midNode.child1 != null && midNode.positionData.dvar && midNode.traitsCaculator.getLengthbr() 
-				> BinaryTraitsCalculator.timelim) drawElement(canvas, midNode.child1);
+				> BinaryTraitsCalculator.timelim) drawElement(midNode.child1);
 		if (midNode.child2 != null && midNode.positionData.dvar && midNode.traitsCaculator.getLengthbr() 
-				> BinaryTraitsCalculator.timelim) drawElement(canvas, midNode.child2);
+				> BinaryTraitsCalculator.timelim) drawElement(midNode.child2);
 		
-		MidNode.countVisitedElement++;
-		if (midNode.positionData.gvar == false) return;
-		MidNode.countDrawElement++;
+//		MidNode.countVisitedElement++;
+		if (!midNode.positionData.gvar) {
+			if (midNode.positionData.insideScreen)
+				drawFakeLeaf(midNode);
+			return;
+		}
+//		MidNode.countDrawElement++;
 		if (midNode.getClass() == InteriorNode.class)
-			drawElement(canvas, (InteriorNode)midNode);
+			drawElement((InteriorNode)midNode);
 		else
-			drawElement(canvas, (LeafNode)midNode);
+			drawElement((LeafNode)midNode);
 	}
 	
-	private void drawElement(Canvas canvas, InteriorNode midNode) {
-		drawBranch(canvas, midNode);
-		drawCircle(canvas, midNode);
+	private void drawFakeLeaf(MidNode midNode) {
+		drawBranch(midNode);
+		if (midNode.getClass() == InteriorNode.class)
+			drawLeaf((InteriorNode)midNode);
+		else
+			drawLeaf((LeafNode)midNode);	}
+
+	private void drawElement(InteriorNode midNode) {
+		drawBranch(midNode);
+		drawCircle(midNode);
 		if (midNode.positionData.rvar >= thresholdDrawTextRoughCircle && midNode.positionData.rvar < thresholdDrawTextDetailCircle)
-			drawTextRough(canvas, midNode);
+			drawTextRough(midNode);
 		else if (midNode.positionData.rvar > thresholdDrawTextDetailCircle)
-			drawTextDetail(canvas, midNode);
+			drawTextDetail(midNode);
 	}
 
-	private void drawElement(Canvas canvas, LeafNode midNode) {
-		drawBranch(canvas, midNode);
-		drawLeaf(canvas, midNode);
+	private void drawElement(LeafNode midNode) {
+		drawBranch(midNode);
+		drawLeaf(midNode);
 		if (midNode.positionData.rvar >= thresholdDrawTextRoughLeaf && midNode.positionData.rvar < thresholdDrawTextDetailLeaf)
-			drawTextRough(canvas, midNode);
+			drawTextRough(midNode);
 		else if (midNode.positionData.rvar > thresholdDrawTextDetailLeaf)
-			drawTextDetail(canvas, midNode);
+			drawTextDetail(midNode);
 	}
 	
-	private void drawSignPost(Canvas canvas, MidNode midNode) {
+	private void drawSignPost(MidNode midNode) {
 		if (midNode.traitsCaculator.getLengthbr() < BinaryTraitsCalculator.timelim || midNode.positionData.dvar == false)
 			return;
 		// draw sign posts
@@ -101,8 +114,8 @@ public class BinaryVisualizer{
 					if (!midNode.traitsCaculator.getCname().equals("null")) // white
 																	// signposts
 					{
-						drawSignPostCircle(canvas, r, x, y, midNode);
-						drawSignPostText(canvas, r, x, y, midNode);
+						drawSignPostCircle(r, x, y, midNode);
+						drawSignPostText(r, x, y, midNode);
 						signdrawn = true;
 
 					}
@@ -112,14 +125,14 @@ public class BinaryVisualizer{
 				}
 
 				if (!signdrawn) {
-					drawSignPost(canvas, midNode.child1);
-					drawSignPost(canvas, midNode.child2);
+					drawSignPost(midNode.child1);
+					drawSignPost(midNode.child2);
 				}
 			}
 		}
 	}
 	
-	private void drawSignPostText(Canvas canvas, float r, float x, float y, MidNode midNode) {
+	private void drawSignPostText(float r, float x, float y, MidNode midNode) {
 		float centerX = x + r 
 				* (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
 		float centerY = y + r 
@@ -128,10 +141,10 @@ public class BinaryVisualizer{
 
 		if (midNode.traitsCaculator.signName == null)
 			midNode.traitsCaculator.signName = splitStringToAtMostThreeParts(midNode.traitsCaculator.getCname());
-		drawTextMultipleLines(midNode.traitsCaculator.signName, centerX, centerY, 2f * radius, canvas, signTextPaint);
+		drawTextMultipleLines(midNode.traitsCaculator.signName, centerX, centerY, 2f * radius, signTextPaint);
 	}
 
-	private void drawSignPostCircle(Canvas canvas, float r, float x, float y, MidNode midNode) {
+	private void drawSignPostCircle(float r, float x, float y, MidNode midNode) {
 		float centerX = x + r 
 				* (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
 		float centerY = y + r 
@@ -140,7 +153,7 @@ public class BinaryVisualizer{
 		canvas.drawCircle(centerX, centerY, radius, signPostPaint);
 	}
 	
-	private void drawTextDetail(Canvas canvas, InteriorNode midNode) {
+	private void drawTextDetail(InteriorNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
 		float r = midNode.positionData.rvar;
@@ -157,10 +170,10 @@ public class BinaryVisualizer{
 				speciesInfo, "conservation Status pie chart" };
 
 		drawTextMultipleLines(circleDetailText, startX + radius, startY + 0.3f
-				* radius, lineHeight, lineWidth, canvas, textPaint);		
+				* radius, lineHeight, lineWidth, textPaint);		
 	}
 
-	private void drawTextRough(Canvas canvas, InteriorNode midNode) {
+	private void drawTextRough(InteriorNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
 		float r = midNode.positionData.rvar;
@@ -171,7 +184,7 @@ public class BinaryVisualizer{
 		String outputInfo = Float.toString(midNode.traitsCaculator.getRichness());
 
 		drawTextOneLine(outputInfo, startX + radius, startY + 0.5f * radius,
-				radius, canvas, textPaint);
+				radius, textPaint);
 
 		if (!midNode.traitsCaculator.getCname().equals("null")) {
 			outputInfo = midNode.traitsCaculator.getCname();
@@ -180,10 +193,10 @@ public class BinaryVisualizer{
 		}
 
 		drawTextOneLine(outputInfo, startX + radius, startY + 1.1f * radius,
-				2f * radius, canvas, textPaint);		
+				2f * radius, textPaint);		
 	}
 
-	private void drawTextDetail(Canvas canvas, LeafNode midNode) {
+	private void drawTextDetail(LeafNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
 		float r = midNode.positionData.rvar;
@@ -213,17 +226,17 @@ public class BinaryVisualizer{
 			String[] detailInfo = { name, midNode.traitsCaculator.getCname(), conservationString,
 					populationString };
 			drawTextMultipleLines(detailInfo, startX, startY, lineHeight,
-					lineWidth, canvas, textPaint);
+					lineWidth, textPaint);
 		}
 		else {
 			String[]  detailInfo = {name, conservationString, populationString};
 			drawTextMultipleLines(detailInfo, startX, startY, lineHeight,
-					lineWidth, canvas, textPaint);
+					lineWidth, textPaint);
 		}
 		
 	}
 
-	private void drawTextRough(Canvas canvas, LeafNode midNode) {
+	private void drawTextRough(LeafNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
 		float r = midNode.positionData.rvar;
@@ -238,33 +251,32 @@ public class BinaryVisualizer{
 
 		if (!midNode.traitsCaculator.getCname().equals("null")) {
 			drawTextMultipleLines(midNode.traitsCaculator.getCname().split(" "), startX, startY, lineHeight,
-					lineWidth, canvas, textPaint);
+					lineWidth, textPaint);
 			return;
 		} else if (!midNode.traitsCaculator.getName2().equals("null")) {
 			drawTextMultipleLines(midNode.traitsCaculator.getName2().split(" "), startX, startY, lineHeight,
-					lineWidth, canvas, textPaint);
+					lineWidth, textPaint);
 			return;
 		} else if (!midNode.traitsCaculator.getName1().equals("null")) {
 			drawTextMultipleLines(midNode.traitsCaculator.getName1().split(" "), startX, startY, lineHeight,
-					lineWidth, canvas, textPaint);
+					lineWidth, textPaint);
 			return;
 		} else {
 			String tempName = "no name";
 			drawTextMultipleLines(tempName.split(" "), startX, startY,
-					lineHeight, lineWidth, canvas, textPaint);
+					lineHeight, lineWidth, textPaint);
 			return;
 		}		
 	}
 	
-	private void drawTextOneLine(String outputInfo, float startX, float startY, float lineWidth,
-			Canvas canvas, Paint paint) {
+	private void drawTextOneLine(String outputInfo, float startX, float startY, float lineWidth, Paint paint) {
 		paint.setTextAlign(Align.CENTER);
 		paint.setTextSize(1.7f * lineWidth / outputInfo.length());
 		canvas.drawText(outputInfo, startX, startY, paint);
 	}
 
 	private void drawTextMultipleLines(String[] split, float startX,
-			float startY, float lineHeight, float lineWidth, Canvas canvas, Paint textPaint) {
+			float startY, float lineHeight, float lineWidth, Paint textPaint) {
 		float lineSpace = lineHeight / (split.length + 1);
 		float minTextSize = 9999f;
 		float tempTextSize;
@@ -274,13 +286,13 @@ public class BinaryVisualizer{
 				minTextSize = tempTextSize;
 		}
 		for (String string : split) {
-			drawTextOneLine(string, startX, startY, minTextSize, canvas, true, textPaint);
+			drawTextOneLine(string, startX, startY, minTextSize, true, textPaint);
 			startY += lineSpace;
 		}	
 	}
 	
 	private void drawTextMultipleLines(String[] split, float startX,
-			float startY, float radius, Canvas canvas, Paint textPaint) {
+			float startY, float radius, Paint textPaint) {
 		float lineSpace = radius / (split.length + 1);
 		float minTextSize = 9999f;
 		float tempTextSize;
@@ -296,19 +308,19 @@ public class BinaryVisualizer{
 		} 
 		
 		for (String string : split) {
-			drawTextOneLine(string, startX, startY, minTextSize, canvas, true, textPaint);
+			drawTextOneLine(string, startX, startY, minTextSize, true, textPaint);
 			startY += lineSpace;
 		}	
 	}
 
 	private void drawTextOneLine(String string, float startX, float startY,
-			float minTextSize, Canvas canvas, boolean b, Paint paint) {
+			float minTextSize, boolean b, Paint paint) {
 		paint.setTextAlign(Align.CENTER);
 		paint.setTextSize(minTextSize);
 		canvas.drawText(string, startX, startY, paint);		
 	}
 
-	private void drawCircle(Canvas canvas, InteriorNode midNode) {
+	private void drawCircle(InteriorNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
 		float r = midNode.positionData.rvar;
@@ -325,16 +337,23 @@ public class BinaryVisualizer{
 		canvas.drawArc(rect, 0, 360, true, paint);
 	}
 	
-	private void drawLeaf(Canvas canvas, LeafNode midNode) {
+	private void drawLeaf(LeafNode midNode) {
 		tipleaflogic(midNode.positionData.xvar + midNode.positionData.rvar * midNode.positionData.arcx,
 				midNode.positionData.yvar + midNode.positionData.rvar * midNode.positionData.arcy, 
 				midNode.positionData.rvar * midNode.positionData.arcr, 
-				midNode.positionData.arcAngle, canvas, midNode);
+				midNode.positionData.arcAngle, midNode);
+	}
+	
+	private void drawLeaf(InteriorNode midNode) {
+		tipleaflogic(midNode.positionData.xvar + midNode.positionData.rvar * midNode.positionData.arcx2,
+				midNode.positionData.yvar + midNode.positionData.rvar * midNode.positionData.arcy2, 
+				midNode.positionData.rvar * midNode.positionData.arcr2, 
+				midNode.positionData.arcAngle, midNode);
 	}
 	
 	@SuppressWarnings("unused")
 	private void tipleaflogic(float x, float y, float r, float angle,
-			Canvas canvas, LeafNode midNode) {
+			MidNode midNode) {
 		/*
 		 * context.strokeStyle = this.leafcolor2(); context.fillStyle =
 		 * this.leafcolor1();
@@ -342,19 +361,19 @@ public class BinaryVisualizer{
 		
 		paint.setColor(midNode.traitsCaculator.getColor());
 		if (leaftype == 1) {
-			drawleaf1(x, y, r, canvas);
+			drawleaf1(x, y, r);
 		} else {
-			drawleaf2(x, y, r, angle, canvas, midNode);
+			drawleaf2(x, y, r, angle, midNode);
 		}
 	}
 	
-	private void drawleaf1(float x, float y, float r, Canvas canvas) {
+	private void drawleaf1(float x, float y, float r) {
 		paint.setStyle(Paint.Style.FILL);
 		canvas.drawArc(new RectF((float) (x - r), (float) (y - r),
 				(float) (x + r), (float) (y + r)), 0.0f, 360.0f, true, paint);
 	}
 
-	private void drawleaf2(float x, float y, float r, float angle, Canvas canvas,LeafNode midNode) {
+	private void drawleaf2(float x, float y, float r, float angle,MidNode midNode) {
 
 		paint.setStyle(Paint.Style.FILL);
 		paint.setColor(midNode.traitsCaculator.getColor());
@@ -386,7 +405,7 @@ public class BinaryVisualizer{
 		canvas.drawPath(path, paint);
 	}
 
-	private void drawBranch(Canvas canvas, MidNode midNode) {
+	private void drawBranch(MidNode midNode) {
 		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) midNode.traitsCaculator;
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
@@ -474,7 +493,7 @@ public class BinaryVisualizer{
 
 
 	//**********DEBUG FUNCTION******************//
-	private void drawBoundingBox(Canvas canvas, MidNode midNode) {
+	private void drawBoundingBox(MidNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
 		float r = midNode.positionData.rvar;
@@ -489,7 +508,7 @@ public class BinaryVisualizer{
 		canvas.drawPath(path, paint);
 	}
 	
-		private void drawBoundingBox2(Canvas canvas, MidNode midNode) {
+		private void drawBoundingBox2(MidNode midNode) {
 			float x = midNode.positionData.xvar;
 			float y = midNode.positionData.yvar;
 			float r = midNode.positionData.rvar;

@@ -1,29 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"pulchella","Ochthoeca","Golden-browed Chat-tyrant",LC,U,-16731116
-9,7,"fumicolor","Ochthoeca","Brown-backed Chat-tyrant",LC,U,-16731116
-10,6,"piurae","Ochthoeca","Piura Chat-tyrant",NT,U,-12486656
-11,5,"rufipectoralis","Ochthoeca","Rufous-breasted Chat-tyrant",LC,U,-16731116
-14,13,"diadema","Ochthoeca","Yellow-bellied Chat-tyrant",LC,U,-16731116
-15,13,"thoracica","Ochthoeca","Maroon-belted Chat-Tyrant",_U,[,-16777216
-16,12,"jelskii","Ochthoeca","Jelski's Chat-tyrant",LC,U,-16731116
-20,19,"oenanthoides","Ochthoeca","D'Orbigny's Chat-tyrant",LC,U,-16731116
-21,19,"frontalis","Ochthoeca","Crowned Chat-tyrant",LC,U,-16731116
-23,22,"nigrita","Ochthoeca","Blackish Chat-Tyrant",_U,[,-16777216
-24,22,"salvini","Tumbezia","Tumbes Tyrant",NT,U,-12486656
-26,25,"cinnamomeiventris","Ochthoeca","Slaty-backed Chat-tyrant",LC,U,-16731116
-27,25,"leucophrys","Ochthoeca","White-browed Chat-tyrant",LC,U,-16731116
-30,29,"flavicans","Myiophobus","Flavescent Flycatcher",LC,U,-16731116
-31,29,"roraimae","Myiophobus","Roraiman Flycatcher",LC,U,-16731116
-32,28,"phoenicomitra","Myiophobus","Orange-crested Flycatcher",LC,U,-16731116
-40,39,"risora","Alectrurus","Strange-tailed Tyrant",VU,U,-11184866
-41,39,"tricolor","Alectrurus","Cock-tailed Tyrant",VU,U,-11184866
-42,38,"yetapa","Gubernetes","Streamer-tailed Tyrant",LC,U,-16731116
-43,37,"leucocephala","Arundinicola","White-headed Marsh-tyrant",LC,U,-16731116
-45,44,"albiventer","Fluvicola","Black-backed Water-tyrant",LC,U,-16731116
-46,44,"pica","Fluvicola","Pied Water-tyrant",LC,U,-16731116
-47,35,"rubinus","Pyrocephalus","Vermilion Flycatcher",LC,U,-16731116
-50,49,"arenarum","Sublegatus","Northern Scrub-flycatcher",LC,U,-16731116
-51,49,"obscurior","Sublegatus","Todd's Scrub-flycatcher",LC,U,-16731116
-52,48,"modestus","Sublegatus","Southern Scrub-flycatcher",LC,U,-16731116
-53,33,"nengeta","Fluvicola","Masked Water-tyrant",LC,U,-16731116
-54,0,"parvirostris","Colorhamphus","Patagonian Tyrant",LC,U,-16731116
+10,9,"barbouri","Graptemys","Barbour's Map Turtle",NT,U,-12486656
+11,9,"versa","Graptemys","Texas Map Turtle",NT,U,-12486656
+12,8,"gibbonsi","Graptemys","Pascagoula Map Turtle",NT,U,-12486656
+14,13,"flavimaculata","Graptemys","Yellow-blotched Map Turtle",EN,U,-8572416
+15,13,"ouachitensis","Graptemys","Ouachita Map Turtle",NE,U,-16777216
+16,6,"pulchra","Graptemys","Alabama Map Turtle",NE,U,-16777216
+20,19,"pseudogeographica kohnii","Graptemys","Mississippi Map Turtle",NE,U,-16777216
+21,19,"oculifera","Graptemys","Ringed Map Turtle",EN,U,-8572416
+23,22,"pseudogeographica","Graptemys","False Map Turtle",NE,U,-16777216
+24,22,"nigrinoda","Graptemys","Black-knobbed Map Turtle",NT,U,-12486656
+25,17,"caglei","Graptemys","Cagle's Map Turtle",VU,U,-11184866
+26,4,"gaigeae","Trachemys","Big Bend Slider",VU,U,-11184866
+27,3,"geographica","Graptemys","Northern Map Turtle",NE,U,-16777216
+30,29,"scripta elegans","Trachemys","Red-eared Slider",NE,U,-16777216
+31,29,"stejnegeri","Trachemys","Inagua Island Turtle",NT,U,-12486656
+32,28,"scripta taylori","Trachemys","Cuatro Cienegas Slider",NE,U,-16777216
+33,1,"terrapin","Malaclemys","Diamondback Terrapin",NT,U,-12486656
+39,38,"rubriventris","Pseudemys","American Red-bellied Turtle",NT,U,-12486656
+40,38,"peninsularis","Pseudemys","Peninsula Cooter",NE,U,-16777216
+42,41,"concinna floridana","Pseudemys","Coastal Plain Cooter",NE,U,-16777216
+43,41,"suwanniensis","Pseudemys","",NE,U,-16777216
+47,46,"alabamensis","Pseudemys","Alabama Red-bellied Turtle",EN,U,-8572416
+48,46,"nelsoni","Pseudemys","Florida Red-bellied Cooter",NE,U,-16777216
+49,45,"concinna","Pseudemys","River cooter",NE,U,-16777216
+50,44,"texana","Pseudemys","Texas River Cooter",NE,U,-16777216
+51,35,"gorzugi","Pseudemys","Rio Grande Cooter",NT,U,-12486656
+52,34,"picta","Chrysemys","Painted Turtle",NE,U,-16777216

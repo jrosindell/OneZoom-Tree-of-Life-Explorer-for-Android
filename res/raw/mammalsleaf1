@@ -1,90 +1,85 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"airensis","Acomys","Western Saharan Spiny Mouse",LC,S,-16731116
-14,12,"seurati","Acomys","Seurat's Spiny Mouse",LC,S,-16731116
-16,15,"dimidiatus","Acomys","Arabian Spiny Mouse",LC,U,-16731116
-17,15,"cahirinus","Acomys","Cairo Spiny Mouse",LC,S,-16731116
-18,10,"chudeaui","Acomys","",NE,U,-16777216
-20,19,"minous","Acomys","Crete Spiny Mouse",DD,U,-11513776
-21,19,"kempi","Acomys","Kemp's Spiny Mouse",LC,S,-16731116
-24,23,"johannis","Acomys","Johan's Spiny Mouse",LC,S,-16731116
-25,23,"cineraceus","Acomys","Gray Spiny Mouse",LC,S,-16731116
-26,22,"cilicicus","Acomys","Asia Minor Spiny Mouse",DD,U,-11513776
-28,27,"wilsoni","Acomys","Wilson's Spiny Mouse",LC,S,-16731116
-29,27,"spinosissimus","Acomys","Spiny Mouse",LC,S,-16731116
-30,6,"percivali","Acomys","Percival's Spiny Mouse",LC,S,-16731116
-34,33,"nesiotes","Acomys","Cyprus Spiny Mouse",DD,U,-11513776
-35,33,"ignitus","Acomys","Fiery Spiny Mouse",LC,S,-16731116
-36,32,"russatus","Acomys","Golden Spiny Mouse",LC,U,-16731116
-38,37,"subspinosus","Acomys","Cape Spiny Mouse",LC,S,-16731116
-39,37,"mullah","Acomys","Mullah Spiny Mouse",LC,U,-16731116
-40,4,"louisae","Acomys","Louise's Spiny Mouse",LC,S,-16731116
-41,3,"ruddi","Uranomys","Rudd's Bristle-furred Rat",LC,D,-16731116
-50,49,"brunneus","Lophuromys","",NE,U,-16777216
-51,49,"zena","Lophuromys","",NE,U,-16777216
-52,48,"flavopunctatus","Lophuromys","Yellow-spotted Brush-furred Rat",LC,U,-16731116
-53,47,"chrysopus","Lophuromys","Ethiopian Forest Brush-furred Rat",LC,U,-16731116
-54,46,"brevicaudus","Lophuromys","Short-tailed Brush-furred Rat",NT,D,-12486656
-55,45,"melanonyx","Lophuromys","Black-clawed Brush-furred Rat",VU,U,-11184866
-56,44,"nudicaudus","Lophuromys","Fire-bellied Brush-furred Rat",LC,U,-16731116
-60,59,"sikapusi","Lophuromys","Rusty-bellied Brush-furred Rat",LC,U,-16731116
-61,59,"ansorgei","Lophuromys","",NE,U,-16777216
-62,58,"eisentrauti","Lophuromys","",EN,D,-8572416
-64,63,"luteogaster","Lophuromys","Yellow-bellied Brush-furred Rat",LC,U,-16731116
-65,63,"aquilus","Lophuromys","",NE,U,-16777216
-68,67,"medicaudatus","Lophuromys","Medium-tailed Brush-furred Rat",VU,D,-11184866
-69,67,"rahmi","Lophuromys","Rahm's Brush-furred Rat",EN,U,-8572416
-70,66,"woosnami","Lophuromys","Woosnam's Brush-furred Rat",LC,U,-16731116
-80,79,"cremoriventer","Niviventer","Sundaic Arboreal Niviventer",VU,D,-11184866
-81,79,"hinpoon","Niviventer","Limestone Niviventer",DD,U,-11513776
-82,78,"andersoni","Niviventer","Anderson's Niviventer",LC,U,-16731116
-83,77,"coninga","Niviventer","Spiny Taiwan Niviventer",LC,U,-16731116
-84,76,"niviventer","Niviventer","Himalayan White-bellied Rat",LC,U,-16731116
-85,75,"brahma","Niviventer","Brahma White-bellied Rat",LC,S,-16731116
-87,86,"culturatus","Niviventer","Soft-furred Taiwan Niviventer",NT,D,-12486656
-88,86,"langbianis","Niviventer","Lang Bian White-bellied Rat",LC,D,-16731116
-90,89,"confucianus","Niviventer","Confucian Niviventer",LC,S,-16731116
-91,89,"excelsior","Niviventer","Sichuan Niviventer",LC,U,-16731116
-94,93,"tenaster","Niviventer","Indochinese Mountain Niviventer",LC,U,-16731116
-95,93,"fulvescens","Niviventer","Chestnut White-bellied Rat",LC,D,-16731116
-96,92,"lepturus","Niviventer","Montane Javan Niviventer",LC,S,-16731116
-100,99,"fraternus","Niviventer","Montane Sumatran Niviventer",LC,U,-16731116
-101,99,"rapit","Niviventer","Montane Bornean Niviventer",LC,U,-16731116
-102,98,"cameroni","Niviventer","Cameron Highlands Niviventer",VU,D,-11184866
-103,97,"eha","Niviventer","Little Himalayan Rat",LC,S,-16731116
-112,111,"orangiae","Mus","Free State Pygmy Mouse",LC,U,-16731116
-113,111,"neavei","Mus","Neave's Mouse",DD,U,-11513776
-114,110,"mattheyi","Mus","Matthey's Mouse",LC,S,-16731116
-116,115,"setzeri","Mus","Setzer's Mouse",LC,S,-16731116
-117,115,"bufo","Mus","Toad Mouse",LC,S,-16731116
-119,118,"triton","Mus","Gray-bellied Mouse",LC,S,-16731116
-120,118,"baoulei","Mus","Baoule's Mouse",LC,S,-16731116
-122,121,"oubanguii","Mus","Oubangui Mouse",DD,U,-11513776
-123,121,"minutoides","Mus","Pygmy Mouse",LC,S,-16731116
-130,129,"indutus","Mus","Desert Pygmy Mouse",LC,S,-16731116
-131,129,"tenellus","Mus","Delicate Mouse",LC,S,-16731116
-132,128,"setulosus","Mus","Peter's Mouse",LC,S,-16731116
-133,127,"sorella","Mus","Thomas's Mouse",LC,S,-16731116
-134,126,"goundae","Mus","Gounda Mouse",DD,U,-11513776
-137,136,"haussa","Mus","Hausa Mouse",LC,S,-16731116
-138,136,"musculoides","Mus","",LC,U,-16731116
-139,135,"mahomet","Mus","Mahomet Mouse",LC,S,-16731116
-140,124,"callewaerti","Mus","Callewaert's Mouse",LC,U,-16731116
-145,144,"cervicolor","Mus","Fawn-colored Mouse",LC,S,-16731116
-146,144,"spretus","Mus","Algerian Mouse",LC,S,-16731116
-148,147,"terricolor","Mus","Earth-colored Mouse",LC,S,-16731116
-149,147,"cookii","Mus","Cook's Mouse",LC,S,-16731116
-150,142,"musculus","Mus","House Mouse",LC,S,-16731116
-154,153,"booduga","Mus","Common Indian Field Mouse",LC,S,-16731116
-155,153,"caroli","Mus","Ryukyu Mouse",LC,S,-16731116
-156,152,"macedonicus","Mus","Balkan Short-tailed Mouse",LC,S,-16731116
-157,151,"spicilegus","Mus","Mound-building Mouse",LC,D,-16731116
-162,161,"fernandoni","Mus","Ceylon Spiny Mouse",EN,D,-8572416
-163,161,"saxicola","Mus","Brown Spiny Mouse",LC,S,-16731116
-164,160,"phillipsi","Mus","Wroughton's Small Spiny Mouse",LC,S,-16731116
-166,165,"shortridgei","Mus","Shortridge's Mouse",LC,S,-16731116
-167,165,"platythrix","Mus","Brown Spiny Mouse",LC,S,-16731116
-172,171,"pahari","Mus","Gairdner's Shrewmouse",LC,S,-16731116
-173,171,"famulus","Mus","Bonhote's Mouse",EN,D,-8572416
-174,170,"crociduroides","Mus","Sumatran Shrewlike Mouse",DD,U,-11513776
-175,169,"mayori","Mus","Mayor's Mouse",VU,U,-11184866
-176,168,"vulcani","Mus","Javan Shrew-like Mouse",VU,S,-11184866
+12,11,"paulensis","Marmosops","Brazilian Slender Opossum",LC,U,-16731116
+13,11,"incanus","Marmosops","Gray Slender Mouse Opossum",LC,U,-16731116
+14,10,"handleyi","Marmosops","Handley's Slender Mouse Opossum",CR,D,-3014646
+16,15,"impavidus","Marmosops","Andean Slender Mouse Opossum",LC,S,-16731116
+17,15,"neblina","Marmosops","",LC,S,-16731116
+18,8,"cracens","Marmosops","Slim-faced Slender Mouse Opossum",DD,U,-11513776
+19,7,"noctivagus","Marmosops","White-bellied Slender Mouse Opossum",LC,S,-16731116
+24,23,"pinheiroi","Marmosops","Pinheiro's Slender Opossum",LC,U,-16731116
+25,23,"bishopi","Marmosops","",LC,U,-16731116
+26,22,"parvidens","Marmosops","Delicate Slender Mouse Opossum",LC,U,-16731116
+27,21,"juninensis","Marmosops","",VU,D,-11184866
+28,20,"fuscatus","Marmosops","Gray-bellied Slender Mouse Opossum",DD,D,-11513776
+30,29,"invictus","Marmosops","Slaty Slender Mouse Opossum",LC,S,-16731116
+31,29,"dorothea","Marmosops","",NE,U,-16777216
+37,36,"agilis","Gracilinanus","Agile Gracile Mouse Opossum",LC,U,-16731116
+38,36,"formosus","Gracilinanus","",NE,U,-16777216
+39,35,"microtarsus","Gracilinanus","Brazilian Gracile Mouse Opossum",LC,U,-16731116
+40,34,"aceramarcae","Gracilinanus","Aceramarca Gracile Mouse Opossum",LC,U,-16731116
+43,42,"emiliae","Gracilinanus","Emilia's Gracile Mouse Opossum",DD,U,-11513776
+44,42,"agricolai","Gracilinanus","",NE,U,-16777216
+45,41,"marica","Gracilinanus","Northern Gracile Mouse Opossum",LC,D,-16731116
+46,32,"dryas","Gracilinanus","Wood Sprite Gracile Mouse Opossum",NT,D,-12486656
+53,52,"cinderella","Thylamys","Cinderella Fat-tailed Mouse Opossum",LC,U,-16731116
+54,52,"sponsorius","Thylamys","",LC,U,-16731116
+55,51,"elegans","Thylamys","Elegant Fat-tailed Mouse Opossum",LC,D,-16731116
+57,56,"venustus","Thylamys","Buff-bellied Fat-tailed Mouse Opossum",DD,U,-11513776
+58,56,"tatei","Thylamys","",DD,U,-11513776
+59,49,"pallidior","Thylamys","Pallid Fat-tailed Opossum",LC,U,-16731116
+62,61,"karimii","Thylamys","Karimi's Fat-tailed Mouse Opossum",VU,D,-11184866
+63,61,"pusillus","Thylamys","Common Fat-tailed Mouse Opossum",LC,D,-16731116
+64,60,"macrurus","Thylamys","Long-tailed Fat-tailed Opossum",NT,D,-12486656
+65,47,"halli","Lestodelphys","Patagonian Opossum",LC,D,-16731116
+74,73,"imperfecta","Didelphis","Guianan White-eared Opossum",LC,S,-16731116
+75,73,"pernigra","Didelphis","",LC,S,-16731116
+76,72,"albiventris","Didelphis","White-eared Opossum",LC,S,-16731116
+78,77,"marsupialis","Didelphis","Black-eared Opossum",LC,S,-16731116
+79,77,"aurita","Didelphis","Big-eared Opossum",LC,S,-16731116
+80,70,"virginiana","Didelphis","Virginia Opossum",LC,I,-16731116
+83,82,"mcilhennyi","Philander","Mcilhenny's Four-eyed Opossum",LC,U,-16731116
+84,82,"andersoni","Philander","Anderson's Four-eyed Opossum",LC,S,-16731116
+86,85,"frenatus","Philander","Southeastern Four-eyed Opossum",LC,U,-16731116
+87,85,"opossum","Philander","Gray Four-eyed Opossum",LC,S,-16731116
+88,68,"crassicaudata","Lutreolina","Little Water Opossum",LC,U,-16731116
+89,67,"minimus","Chironectes","Water Opossum",LC,D,-16731116
+90,66,"nudicaudatus","Metachirus","Brown Four-eyed Opossum",LC,S,-16731116
+99,98,"glirina","Monodelphis","Amazonian Red-sided Opossum",LC,U,-16731116
+100,98,"palliolata","Monodelphis","Hooded Red-sided Opossum",LC,D,-16731116
+101,97,"brevicaudata","Monodelphis","Northern Red-sided Opossum",LC,U,-16731116
+104,103,"umbristriata","Monodelphis","Faint-striped Opossum",VU,D,-11184866
+105,103,"rubida","Monodelphis","Chestnut-striped Opossum",DD,D,-11513776
+106,102,"osgoodi","Monodelphis","Osgood's Short-tailed Opossum",LC,U,-16731116
+107,95,"iheringi","Monodelphis","Ihering's Short-tailed Opossum",DD,D,-11513776
+111,110,"theresa","Monodelphis","Southern Three-striped Opossum",DD,D,-11513776
+112,110,"adusta","Monodelphis","Sepia Short-tailed Opossum",LC,S,-16731116
+113,109,"sorex","Monodelphis","Hensel's Short-tailed Opossum",LC,D,-16731116
+114,108,"domestica","Monodelphis","Gray Short-tailed Opossum",LC,S,-16731116
+118,117,"scalops","Monodelphis","Long-nosed Short-tailed Opossum",LC,D,-16731116
+119,117,"unistriata","Monodelphis","Single-striped Opossum",DD,U,-11513776
+120,116,"americana","Monodelphis","Northern Three-striped Opossum",LC,D,-16731116
+122,121,"dimidiata","Monodelphis","Eastern Short-tailed Opossum",LC,D,-16731116
+123,121,"emiliae","Monodelphis","Emilia's Short-tailed Opossum",LC,U,-16731116
+125,124,"maraxina","Monodelphis","Marajo Short-tailed Opossum",DD,D,-11513776
+126,124,"kunsi","Monodelphis","Pygmy Short-tailed Opossum",LC,U,-16731116
+135,134,"demerarae","Micoureus","Long-furred Woolly Mouse Opossum",LC,S,-16731116
+136,134,"paraguayanus","Micoureus","Tate's Woolly Mouse Opossum",LC,S,-16731116
+137,133,"constantiae","Micoureus","Bay-colored Mouse Opossum",LC,U,-16731116
+139,138,"regina","Micoureus","Short-furred Woolly Mouse Opossum",LC,S,-16731116
+140,138,"phaeus","Micoureus","",VU,D,-11184866
+141,131,"alstoni","Micoureus","Alston's Woolly Mouse Opossum",LC,S,-16731116
+142,130,"tyleriana","Marmosa","Tyler's Mouse Opossum",DD,U,-11513776
+144,143,"murina","Marmosa","Linnaeus's Mouse Opossum",LC,S,-16731116
+145,143,"quichua","Marmosa","Quechuan Mouse Opossum",LC,D,-16731116
+149,148,"andersoni","Marmosa","Anderson's Mouse Opossum",DD,U,-11513776
+150,148,"rubra","Marmosa","Red Mouse Opossum",DD,U,-11513776
+151,147,"xerophila","Marmosa","Dryland Mouse Opossum",VU,D,-11184866
+152,146,"robinsoni","Marmosa","Robinson's Mouse Opossum",LC,S,-16731116
+155,154,"lepida","Marmosa","Little Rufous Mouse Opossum",LC,S,-16731116
+156,154,"canescens","Tlacuatzin","Grayish Mouse Opossum",LC,S,-16731116
+157,153,"mexicana","Marmosa","Mexican Mouse Opossum",LC,S,-16731116
+162,161,"derbianus","Caluromys","Central American Woolly Opossum",LC,D,-16731116
+163,161,"philander","Caluromys","Bare-tailed Woolly Opossum",LC,D,-16731116
+164,160,"lanatus","Caluromys","Brown-eared Wooly Opossum",LC,D,-16731116
+165,159,"irrupta","Caluromysiops","Black-shouldered Opossum",LC,D,-16731116
+166,158,"venusta","Glironia","Bushy-tailed Opossum",LC,U,-16731116

@@ -1,97 +1,77 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"ochraceus","Troglodytes","Ochraceous Wren",LC,U,-16731116
-15,13,"rufulus","Troglodytes","Tepui Wren",LC,U,-16731116
-16,12,"rufociliatus","Troglodytes","Rufous-browed Wren",LC,U,-16731116
-18,17,"monticola","Troglodytes","Santa Marta Wren",VU,U,-11184866
-19,17,"solstitialis","Troglodytes","Mountain Wren",LC,U,-16731116
-22,21,"sissonii","Troglodytes","Socorro Wren",NT,U,-12486656
-23,21,"aedon","Troglodytes","House Wren",LC,U,-16731116
-24,20,"cobbi","Troglodytes","Cobb's Wren",VU,U,-11184866
-26,25,"troglodytes","Troglodytes","Winter Wren",LC,U,-16731116
-27,25,"tanneri","Troglodytes","Clarion Wren",VU,U,-11184866
-30,29,"apolinari","Cistothorus","Apolinar's Wren",EN,U,-8572416
-31,29,"palustris","Cistothorus","Marsh Wren",LC,U,-16731116
-33,32,"platensis","Cistothorus","Sedge Wren",LC,U,-16731116
-34,32,"meridae","Cistothorus","Merida Wren",LC,U,-16731116
-35,7,"browni","Thryorchilus","Timberline Wren",LC,U,-16731116
-40,39,"thoracicus","Cyphorhinus","Chestnut-breasted Wren",LC,U,-16731116
-41,39,"phaeocephalus","Cyphorhinus","Song Wren",LC,U,-16731116
-42,38,"arada","Cyphorhinus","Musician Wren",LC,U,-16731116
-43,37,"leucogastra","Uropsila","White-bellied Wren",LC,U,-16731116
-47,46,"peruana","Cinnycerthia","Peruvian Wren",LC,U,-16731116
-48,46,"fulva","Cinnycerthia","Fulvous Wren",LC,U,-16731116
-49,45,"unirufa","Cinnycerthia","Rufous Wren",LC,U,-16731116
-50,44,"olivascens","Cinnycerthia","Sharpe's Wren",LC,U,-16731116
-58,57,"albobrunneus","Campylorhynchus","White-headed Wren",LC,U,-16731116
-59,57,"zonatus","Campylorhynchus","Band-backed Wren",LC,U,-16731116
-60,56,"fasciatus","Campylorhynchus","Fasciated Wren",LC,U,-16731116
-61,55,"megalopterus","Campylorhynchus","Grey-barred Wren",LC,U,-16731116
-63,62,"nuchalis","Campylorhynchus","Stripe-backed Wren",LC,U,-16731116
-64,62,"turdinus","Campylorhynchus","Thrush-like Wren",LC,U,-16731116
-69,68,"jocosus","Campylorhynchus","Boucard's Wren",LC,U,-16731116
-70,68,"gularis","Campylorhynchus","Spotted Wren",LC,U,-16731116
-71,67,"rufinucha","Campylorhynchus","Rufous-naped Wren",LC,U,-16731116
-73,72,"griseus","Campylorhynchus","Bicoloured Wren",LC,U,-16731116
-74,72,"chiapensis","Campylorhynchus","Giant Wren",LC,U,-16731116
-75,65,"yucatanicus","Campylorhynchus","Yucatan Wren",NT,U,-12486656
-76,52,"brunneicapillus","Campylorhynchus","Cactus Wren",LC,U,-16731116
-78,77,"branickii","Odontorchilus","Grey-mantled Wren",LC,U,-16731116
-79,77,"cinereus","Odontorchilus","Tooth-billed Wren",LC,U,-16731116
-84,83,"philomela","Microcerculus","Northern Nightingale-wren",LC,U,-16731116
-85,83,"bambla","Microcerculus","Wing-banded Wren",LC,U,-16731116
-86,82,"ustulatus","Microcerculus","Fluting Wren",LC,U,-16731116
-87,81,"marginatus","Microcerculus","Southern Nightingale-wren",LC,U,-16731116
-91,90,"sumichrasti","Hylorchilus","Sumichrast's Wren",NT,U,-12486656
-92,90,"navai","Hylorchilus","Nava's Wren",VU,U,-11184866
-93,89,"mexicanus","Catherpes","Canyon Wren",LC,U,-16731116
-94,88,"obsoletus","Salpinctes","Rock Wren",LC,U,-16731116
-105,104,"schistaceigula","Polioptila","Slate-throated Gnatcatcher",LC,U,-16731116
-106,104,"nigriceps","Polioptila","Black-capped Gnatcatcher",LC,U,-16731116
-107,103,"albiloris","Polioptila","White-lored Gnatcatcher",LC,U,-16731116
-110,109,"californica","Polioptila","California Gnatcatcher",LC,U,-16731116
-111,109,"guianensis","Polioptila","Guianan Gnatcatcher",LC,U,-16731116
-112,108,"melanura","Polioptila","Black-tailed Gnatcatcher",LC,U,-16731116
-113,101,"clementsi","Polioptila","Iquitos Gnatcatcher",CR,U,-3014646
-114,100,"caerulea","Polioptila","Blue-grey Gnatcatcher",LC,U,-16731116
-115,99,"plumbea","Polioptila","Tropical Gnatcatcher",LC,U,-16731116
-116,98,"dumicola","Polioptila","Masked Gnatcatcher",LC,U,-16731116
-118,117,"lactea","Polioptila","Creamy-bellied Gnatcatcher",NT,U,-12486656
-119,117,"lembeyei","Polioptila","Cuban Gnatcatcher",LC,U,-16731116
-121,120,"cinereiventris","Microbates","Tawny-faced Gnatwren",LC,U,-16731116
-122,120,"collaris","Microbates","Collared Gnatwren",LC,U,-16731116
-123,95,"melanurus","Ramphocaenus","Long-billed Gnatwren",LC,U,-16731116
-129,128,"brachydactyla","Certhia","Short-toed Treecreeper",LC,U,-16731116
-130,128,"hodgsoni","Certhia","Hodgson's Treecreeper",LC,U,-16731116
-132,131,"familiaris","Certhia","Eurasian Treecreeper",LC,U,-16731116
-133,131,"americana","Certhia","American Treecreeper",LC,U,-16731116
-134,126,"himalayana","Certhia","Bar-tailed Treecreeper",LC,U,-16731116
-137,136,"nipalensis","Certhia","Rusty-flanked Treecreeper",LC,U,-16731116
-138,136,"tianquanensis","Certhia","Sichuan Treecreeper",NT,U,-12486656
-140,139,"discolor","Certhia","Brown-throated Treecreeper",LC,U,-16731116
-141,139,"manipurensis","Certhia","Manipur Treecreeper",LC,U,-16731116
-143,142,"spilonotus","Salpornis","Spotted Treecreeper",LC,U,-16731116
-144,142,"muraria","Tichodroma","Wallcreeper",LC,U,-16731116
-154,153,"villosa","Sitta","Snowy-browed Nuthatch",LC,U,-16731116
-155,153,"whiteheadi","Sitta","Corsican Nuthatch",VU,U,-11184866
-156,152,"leucopsis","Sitta","White-cheeked Nuthatch",LC,U,-16731116
-157,151,"canadensis","Sitta","Red-breasted Nuthatch",LC,U,-16731116
-161,160,"nagaensis","Sitta","Chestnut-vented Nuthatch",LC,U,-16731116
-162,160,"ledanti","Sitta","Algerian Nuthatch",EN,U,-8572416
-163,159,"krueperi","Sitta","Krueper's Nuthatch",NT,U,-12486656
-164,158,"formosa","Sitta","Beautiful Nuthatch",VU,U,-11184866
-167,166,"victoriae","Sitta","White-browed Nuthatch",EN,U,-8572416
-168,166,"pygmaea","Sitta","Pygmy Nuthatch",LC,U,-16731116
-169,165,"pusilla","Sitta","Brown-headed Nuthatch",LC,U,-16731116
-174,173,"frontalis","Sitta","Velvet-fronted Nuthatch",LC,U,-16731116
-175,173,"yunnanensis","Sitta","Yunnan Nuthatch",NT,U,-12486656
-176,172,"cashmirensis","Sitta","Kashmir Nuthatch",LC,U,-16731116
-178,177,"oenochlamys","Sitta","Sulphur-billed Nuthatch",LC,U,-16731116
-179,177,"castanea","Sitta","Chestnut-bellied Nuthatch",LC,U,-16731116
-180,170,"magna","Sitta","Giant Nuthatch",VU,U,-11184866
-183,182,"himalayensis","Sitta","White-tailed Nuthatch",LC,U,-16731116
-184,182,"solangiae","Sitta","Yellow-billed Nuthatch",NT,U,-12486656
-185,181,"europaea","Sitta","Wood Nuthatch",LC,U,-16731116
-186,146,"carolinensis","Sitta","White-breasted Nuthatch",LC,U,-16731116
-189,188,"tephronota","Sitta","Eastern Rock-nuthatch",LC,U,-16731116
-190,188,"neumayer","Sitta","Western Rock-nuthatch",LC,U,-16731116
-191,187,"azurea","Sitta","Blue Nuthatch",LC,U,-16731116
+12,11,"caeruleostictus","Rhaebo","",EN,D,-8572416
+13,11,"guttatus","Rhaebo","",LC,S,-16731116
+15,14,"haematiticus","Rhaebo","",LC,D,-16731116
+16,14,"nasicus","Rhaebo","",LC,S,-16731116
+19,18,"glaberrimus","Rhaebo","",LC,S,-16731116
+20,18,"blombergi","Rhaebo","",NT,D,-12486656
+22,21,"anderssoni","Rhaebo","",LC,S,-16731116
+23,21,"hypomelas","Rhaebo","",NT,D,-12486656
+27,26,"brevipollicatus","Dendrophryniscus","",LC,D,-16731116
+28,26,"berthalutzae","Dendrophryniscus","",LC,D,-16731116
+30,29,"leucomystax","Dendrophryniscus","",LC,D,-16731116
+31,29,"bokermanni","Dendrophryniscus","",LC,S,-16731116
+34,33,"carvalhoi","Dendrophryniscus","",EN,D,-8572416
+35,33,"minutus","Dendrophryniscus","",LC,S,-16731116
+36,32,"stawiarskyi","Dendrophryniscus","",DD,U,-11513776
+45,44,"cupreuscapularis","Melanophryniscus","",NT,D,-12486656
+46,44,"krauczuki","Melanophryniscus","",DD,U,-11513776
+47,43,"tumifrons","Melanophryniscus","",LC,U,-16731116
+49,48,"spectabilis","Melanophryniscus","",LC,U,-16731116
+50,48,"atroluteus","Melanophryniscus","",LC,D,-16731116
+51,41,"devincenzii","Melanophryniscus","",EN,D,-8572416
+55,54,"orejasmirandai","Melanophryniscus","",VU,S,-11184866
+56,54,"klappenbachi","Melanophryniscus","",LC,S,-16731116
+58,57,"dorsalis","Melanophryniscus","",VU,D,-11184866
+59,57,"simplex","Melanophryniscus","",DD,U,-11513776
+60,52,"macrogranulosus","Melanophryniscus","",VU,D,-11184866
+62,61,"montevidensis","Melanophryniscus","",VU,D,-11184866
+63,61,"stelzneri","Melanophryniscus","",LC,S,-16731116
+65,64,"fulvoguttatus","Melanophryniscus","",LC,U,-16731116
+66,64,"moreirae","Melanophryniscus","",NT,S,-12486656
+70,69,"cambaraensis","Melanophryniscus","",DD,D,-11513776
+71,69,"pachyrhynus","Melanophryniscus","",DD,U,-11513776
+72,68,"sanmartini","Melanophryniscus","",NT,S,-12486656
+73,67,"rubriventris","Melanophryniscus","",LC,S,-16731116
+85,84,"yuracare","Telmatobius","",VU,D,-11184866
+86,84,"dankoi","Telmatobius","",DD,U,-11513776
+87,83,"ignavus","Telmatobius","",EN,D,-8572416
+88,82,"halli","Telmatobius","",DD,U,-11513776
+90,89,"stephani","Telmatobius","",EN,D,-8572416
+91,89,"hockingi","Telmatobius","",VU,D,-11184866
+93,92,"fronteriensis","Telmatobius","",DD,U,-11513776
+94,92,"cirrhacelis","Telmatobius","",CR,D,-3014646
+96,95,"brachydactylus","Batrachophrynus","",EN,D,-8572416
+97,95,"macrostomus","Batrachophrynus","",EN,D,-8572416
+107,106,"mantiqueira","Paratelmatobius","",DD,D,-11513776
+108,106,"gaigeae","Paratelmatobius","",DD,D,-11513776
+109,105,"lutzii","Paratelmatobius","",DD,D,-11513776
+110,104,"poecilogaster","Paratelmatobius","",DD,D,-11513776
+111,103,"cardosoi","Paratelmatobius","",DD,U,-11513776
+112,102,"sawayae","Scythrophrys","",LC,D,-16731116
+118,117,"riopiedadensis","Pseudopaludicola","",DD,U,-11513776
+119,117,"canga","Pseudopaludicola","",DD,U,-11513776
+120,116,"falcipes","Pseudopaludicola","",LC,S,-16731116
+123,122,"ceratophryes","Pseudopaludicola","",LC,U,-16731116
+124,122,"mirandae","Pseudopaludicola","",DD,U,-11513776
+125,121,"pusilla","Pseudopaludicola","",LC,S,-16731116
+126,114,"mystacalis","Pseudopaludicola","",LC,S,-16731116
+130,129,"boliviana","Pseudopaludicola","",LC,S,-16731116
+131,129,"mineira","Pseudopaludicola","",DD,U,-11513776
+133,132,"saltica","Pseudopaludicola","",LC,S,-16731116
+134,132,"llanera","Pseudopaludicola","",LC,S,-16731116
+135,127,"ternetzi","Pseudopaludicola","",LC,S,-16731116
+137,136,"ruthveni","Allophryne","",LC,D,-16731116
+152,151,"alboguttata","Litoria","Striped Burrowing Frog",LC,S,-16731116
+153,151,"verrucosa","Litoria","Rough Frog",LC,S,-16731116
+154,150,"cryptotis","Litoria","Hidden-ear Frog",LC,S,-16731116
+155,149,"manya","Litoria","Small Frog",LC,S,-16731116
+157,156,"platycephala","Litoria","Water-holding Frog",LC,S,-16731116
+158,156,"maini","Litoria","Main's Frog",LC,S,-16731116
+161,160,"novaehollandiae","Litoria","New Holland Frog",LC,S,-16731116
+162,160,"longipes","Litoria","Long-footed Frog",LC,S,-16731116
+164,163,"australis","Litoria","Giant Frog",LC,S,-16731116
+165,163,"vagitus","Litoria","Wailing Frog",LC,S,-16731116
+168,167,"maculosa","Litoria","Daly Waters Frog",LC,S,-16731116
+169,167,"brevipes","Litoria","Collared Frog",LC,S,-16731116
+170,166,"cultripes","Litoria","Knife-footed Frog",LC,S,-16731116

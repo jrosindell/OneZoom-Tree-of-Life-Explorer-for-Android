@@ -1,50 +1,39 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"malacoptilus","Rimator","Long-billed Wren-babbler",LC,U,-16731116
-11,9,"pasquieri","Rimator","White-throated Wren-babbler",LC,U,-16731116
-12,8,"albostriatus","Rimator","Sumatran Wren-babbler",LC,U,-16731116
-13,7,"danjoui","Jabouilleia","Short-tailed Scimitar-babbler",NT,U,-12486656
-15,14,"crispifrons","Gypsophila","Limestone Wren-babbler",LC,U,-16731116
-16,14,"epilepidota","Napothera","Eyebrowed Wren-babbler",LC,U,-16731116
-18,17,"brevicaudata","Napothera","Streaked Wren-babbler",LC,U,-16731116
-19,17,"crassa","Napothera","Mountain Wren-babbler",LC,U,-16731116
-24,23,"malaccensis","Malacocincla","Short-tailed Babbler",NT,U,-12486656
-25,23,"sepiaria","Malacocincla","Horsfield's Babbler",LC,U,-16731116
-26,22,"perspicillata","Malacocincla","Black-browed Babbler",DD,U,-11513776
-27,21,"cinereiceps","Malacocincla","Ashy-headed Babbler",LC,U,-16731116
-28,20,"abbotti","Malacocincla","Abbott's Babbler",LC,U,-16731116
-33,32,"albipectus","Illadopsis","Scaly-breasted Illadopsis",LC,U,-16731116
-34,32,"cleaveri","Illadopsis","Blackcap Illadopsis",LC,U,-16731116
-35,31,"turdinus","Ptyrticus","Thrush Babbler",LC,U,-16731116
-37,36,"rufescens","Illadopsis","Rufous-winged Illadopsis",NT,U,-12486656
-38,36,"puveli","Illadopsis","Puvel's Illadopsis",LC,U,-16731116
-41,40,"rufipennis","Illadopsis","Pale-breasted Illadopsis",LC,U,-16731116
-42,40,"pyrrhoptera","Illadopsis","Mountain Illadopsis",LC,U,-16731116
-43,39,"fulvescens","Illadopsis","Brown Illadopsis",LC,U,-16731116
-52,51,"tickelli","Trichastoma","Buff-breasted babbler",LC,U,-16731116
-53,51,"pyrrogenys","Trichastoma","Temminck's Babbler",LC,U,-16731116
-54,50,"bicolor","Trichastoma","Ferruginous Babbler",LC,U,-16731116
-55,49,"buettikoferi","Trichastoma","Sumatran Babbler",NT,U,-12486656
-56,48,"rostratum","Trichastoma","White-chested Babbler",NT,U,-12486656
-57,47,"celebense","Trichastoma","Sulawesi Babbler",LC,U,-16731116
-58,46,"woodi","Leonardina","Bagobo Babbler",LC,U,-16731116
-62,61,"albiventre","Pellorneum","Spot-throated Babbler",LC,U,-16731116
-63,61,"palustre","Pellorneum","Marsh Babbler",VU,U,-11184866
-64,60,"capistratum","Pellorneum","Black-capped Babbler",LC,U,-16731116
-66,65,"fuscocapillus","Pellorneum","Brown-capped Babbler",LC,U,-16731116
-67,65,"ruficeps","Pellorneum","Puff-throated Babbler",LC,U,-16731116
-68,44,"striata","Kenopia","Striped Wren-babbler",NT,U,-12486656
-75,74,"palawanense","Malacopteron","Melodious Babbler",NT,U,-12486656
-76,74,"magnum","Malacopteron","Rufous-crowned Babbler",NT,U,-12486656
-77,73,"cinereum","Malacopteron","Scaly-crowned Babbler",LC,U,-16731116
-78,72,"affine","Malacopteron","Sooty-capped Babbler",NT,U,-12486656
-80,79,"albogulare","Malacopteron","Grey-breasted Babbler",NT,U,-12486656
-81,79,"magnirostre","Malacopteron","Moustached Babbler",LC,U,-16731116
-85,84,"atrigularis","Turdinus","Black-throated Wren-babbler",NT,U,-12486656
-86,84,"rufipectus","Turdinus","Rusty-breasted Wren-babbler",LC,U,-16731116
-87,83,"macrodactylus","Turdinus","Large Wren-babbler",NT,U,-12486656
-88,82,"marmorata","Turdinus","Marbled Wren-babbler",LC,U,-16731116
-90,89,"rufulus","Gampsorhynchus","White-hooded Babbler",LC,U,-16731116
-91,89,"torquatus","Gampsorhynchus","Collared Babbler",LC,U,-16731116
-94,93,"sorsogonensis","Robsonius","Grey-banded Babbler",VU,U,-11184866
-95,93,"rabori","Robsonius","Rusty-faced Babbler",VU,U,-11184866
-96,92,"bengalensis","Graminicola","Rufous-rumped Grassbird",NT,U,-12486656
+11,10,"hanitschi","Ansonia","",NT,S,-12486656
+12,10,"malayana","Ansonia","",LC,D,-16731116
+13,9,"tiomanica","Ansonia","",VU,S,-11184866
+14,8,"anotis","Ansonia","",NE,U,-16777216
+15,7,"minuta","Ansonia","",NT,D,-12486656
+17,16,"albomaculata","Ansonia","",NT,D,-12486656
+18,16,"fuliginea","Ansonia","",VU,U,-11184866
+22,21,"leptopus","Ansonia","",NE,U,-16777216
+23,21,"ornata","Ansonia","",EN,D,-8572416
+24,20,"guibei","Ansonia","",EN,D,-8572416
+25,19,"platysoma","Ansonia","",EN,D,-8572416
+29,28,"penangensis","Ansonia","",NE,U,-16777216
+30,28,"inthanon","Ansonia","",DD,U,-11513776
+31,27,"glandulosa","Ansonia","",DD,U,-11513776
+34,33,"longidigita","Ansonia","",NT,D,-12486656
+35,33,"rubigina","Ansonia","",VU,S,-11184866
+36,32,"latidisca","Ansonia","",EN,D,-8572416
+38,37,"torrentis","Ansonia","",VU,S,-11184866
+39,37,"muelleri","Ansonia","",VU,D,-11184866
+41,40,"spinulifer","Ansonia","",NT,D,-12486656
+42,40,"mcgregori","Ansonia","",VU,D,-11184866
+43,1,"siamensis","Ansonia","",VU,U,-11184866
+52,51,"pseudotornieri","Nectophrynoides","",EN,D,-8572416
+53,51,"minutus","Nectophrynoides","",EN,D,-8572416
+54,50,"frontierei","Nectophrynoides","",DD,U,-11513776
+57,56,"tornieri","Nectophrynoides","",LC,U,-16731116
+58,56,"laevis","Nectophrynoides","",DD,U,-11513776
+59,55,"wendyae","Nectophrynoides","",CR,D,-3014646
+63,62,"viviparus","Nectophrynoides","",VU,D,-11184866
+64,62,"poyntoni","Nectophrynoides","",CR,D,-3014646
+65,61,"asperginis","Nectophrynoides","Kihansi Spray Toad",EW,U,-12832121
+66,60,"vestergaardi","Nectophrynoides","",EN,D,-8572416
+67,47,"cryptus","Nectophrynoides","",EN,D,-8572416
+69,68,"malcolmi","Altiphrynoides","",EN,D,-8572416
+70,68,"osgoodi","Altiphrynoides","",VU,D,-11184866
+72,71,"occidentalis","Nimbaphrynoides","",CR,D,-3014646
+73,71,"liberiensis","Nimbaphrynoides","",CR,D,-3014646
+74,44,"sjostedti","Didynamipus","",EN,D,-8572416

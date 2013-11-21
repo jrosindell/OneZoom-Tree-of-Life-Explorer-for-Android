@@ -1,24 +1,84 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"ochrogaster","Penelope","Chestnut-bellied Guan",VU,U,-11184866
-8,6,"obscura","Penelope","Dusky-legged Guan",LC,U,-16731116
-9,5,"ortoni","Penelope","Baudo Guan",EN,U,-8572416
-11,10,"argyrotis","Penelope","Band-tailed Guan",LC,U,-16731116
-12,10,"dabbenei","Penelope","Red-faced Guan",LC,U,-16731116
-15,14,"superciliaris","Penelope","Rusty-margined Guan",LC,U,-16731116
-16,14,"pileata","Penelope","White-crested Guan",NT,U,-12486656
-17,13,"marail","Penelope","Marail Guan",LC,U,-16731116
-22,21,"jacucaca","Penelope","White-browed Guan",VU,U,-11184866
-23,21,"purpurascens","Penelope","Crested Guan",LC,U,-16731116
-24,20,"montagnii","Penelope","Andean Guan",LC,U,-16731116
-26,25,"albipennis","Penelope","White-winged Guan",CR,U,-3014646
-27,25,"jacquacu","Penelope","Spix's Guan",LC,U,-16731116
-29,28,"perspicax","Penelope","Cauca Guan",EN,U,-8572416
-30,28,"barbata","Penelope","Bearded Guan",VU,U,-11184866
-35,34,"cumanensis","Pipile","Blue-throated Piping-guan",LC,U,-16731116
-36,34,"pipile","Pipile","Trinidad Piping-guan",CR,U,-3014646
-37,33,"cujubi","Pipile","Red-throated Piping-guan",LC,U,-16731116
-38,32,"jacutinga","Pipile","Black-fronted Piping-guan",EN,U,-8572416
-39,31,"aburri","Aburria","Wattled Guan",NT,U,-12486656
-42,41,"goudotii","Chamaepetes","Sickle-winged Guan",LC,U,-16731116
-43,41,"unicolor","Chamaepetes","Black Guan",NT,U,-12486656
-44,40,"nigra","Penelopina","Highland Guan",VU,U,-11184866
+13,12,"johnstoniae","Tarsiger","Collared Bush-robin",LC,U,-16731116
+14,12,"chrysaeus","Tarsiger","Golden Bush-robin",LC,U,-16731116
+15,11,"indicus","Tarsiger","White-browed Bush-robin",LC,U,-16731116
+17,16,"hyperythrus","Tarsiger","Rufous-breasted Bush-robin",LC,U,-16731116
+18,16,"cyanurus","Tarsiger","Orange-flanked Bush-robin",LC,U,-16731116
+20,19,"solitaris","Ficedula","Rufous-browed Flycatcher",LC,U,-16731116
+21,19,"disposita","Ficedula","Furtive Flycatcher",NT,U,-12486656
+22,6,"hodgsoni","Muscicapella","Pygmy Blue-flycatcher",LC,U,-16731116
+32,31,"melanops","Myadestes","Black-faced Solitaire",LC,U,-16731116
+33,31,"coloratus","Myadestes","Varied Solitaire",LC,U,-16731116
+34,30,"ralloides","Myadestes","Andean Solitaire",LC,U,-16731116
+36,35,"genibarbis","Myadestes","Rufous-throated Solitaire",LC,U,-16731116
+37,35,"lanaiensis","Myadestes","Olomao",CR,U,-3014646
+38,28,"elisabeth","Myadestes","Cuban Solitaire",NT,U,-12486656
+41,40,"occidentalis","Myadestes","Brown-backed Solitaire",LC,U,-16731116
+42,40,"palmeri","Myadestes","Puaiohi",CR,U,-3014646
+43,39,"unicolor","Myadestes","Slate-coloured Solitaire",LC,U,-16731116
+45,44,"townsendi","Myadestes","Townsend's Solitaire",LC,U,-16731116
+46,44,"obscurus","Myadestes","Omao",VU,U,-11184866
+50,49,"fraseri","Stizorhina","Rufous Flycatcher-thrush",LC,U,-16731116
+51,49,"finschi","Stizorhina","Finsch's Rufous Thrush",_U,[,-16777216
+52,48,"rufus","Neocossyphus","Red-tailed Ant-thrush",LC,U,-16731116
+53,47,"poensis","Neocossyphus","White-tailed Ant-thrush",LC,U,-16731116
+56,55,"currucoides","Sialia","Mountain Bluebird",LC,U,-16731116
+57,55,"mexicana","Sialia","Western Bluebird",LC,U,-16731116
+58,54,"sialis","Sialia","Eastern Bluebird",LC,U,-16731116
+63,62,"cinclus","Cinclus","White-throated Dipper",LC,U,-16731116
+64,62,"pallasii","Cinclus","Brown Dipper",LC,U,-16731116
+65,61,"schulzi","Cinclus","Rufous-throated Dipper",VU,U,-11184866
+66,60,"leucocephalus","Cinclus","White-capped Dipper",LC,U,-16731116
+67,59,"mexicanus","Cinclus","American Dipper",LC,U,-16731116
+72,71,"erythrorhynchus","Buphagus","Red-billed Oxpecker",LC,U,-16731116
+73,71,"africanus","Buphagus","Yellow-billed Oxpecker",LC,U,-16731116
+82,81,"philomela","Microcerculus","Northern Nightingale-wren",LC,U,-16731116
+83,81,"bambla","Microcerculus","Wing-banded Wren",LC,U,-16731116
+84,80,"ustulatus","Microcerculus","Fluting Wren",LC,U,-16731116
+85,79,"marginatus","Microcerculus","Southern Nightingale-wren",LC,U,-16731116
+89,88,"sumichrasti","Hylorchilus","Sumichrast's Wren",NT,U,-12486656
+90,88,"navai","Hylorchilus","Nava's Wren",VU,U,-11184866
+91,87,"mexicanus","Catherpes","Canyon Wren",LC,U,-16731116
+92,86,"obsoletus","Salpinctes","Rock Wren",LC,U,-16731116
+103,102,"schistaceigula","Polioptila","Slate-throated Gnatcatcher",LC,U,-16731116
+104,102,"nigriceps","Polioptila","Black-capped Gnatcatcher",LC,U,-16731116
+105,101,"albiloris","Polioptila","White-lored Gnatcatcher",LC,U,-16731116
+108,107,"californica","Polioptila","California Gnatcatcher",LC,U,-16731116
+109,107,"guianensis","Polioptila","Guianan Gnatcatcher",LC,U,-16731116
+110,106,"melanura","Polioptila","Black-tailed Gnatcatcher",LC,U,-16731116
+111,99,"clementsi","Polioptila","Iquitos Gnatcatcher",CR,U,-3014646
+112,98,"caerulea","Polioptila","Blue-grey Gnatcatcher",LC,U,-16731116
+113,97,"plumbea","Polioptila","Tropical Gnatcatcher",LC,U,-16731116
+114,96,"dumicola","Polioptila","Masked Gnatcatcher",LC,U,-16731116
+116,115,"lactea","Polioptila","Creamy-bellied Gnatcatcher",NT,U,-12486656
+117,115,"lembeyei","Polioptila","Cuban Gnatcatcher",LC,U,-16731116
+119,118,"cinereiventris","Microbates","Tawny-faced Gnatwren",LC,U,-16731116
+120,118,"collaris","Microbates","Collared Gnatwren",LC,U,-16731116
+121,93,"melanurus","Ramphocaenus","Long-billed Gnatwren",LC,U,-16731116
+127,126,"brachydactyla","Certhia","Short-toed Treecreeper",LC,U,-16731116
+128,126,"hodgsoni","Certhia","Hodgson's Treecreeper",LC,U,-16731116
+130,129,"familiaris","Certhia","Eurasian Treecreeper",LC,U,-16731116
+131,129,"americana","Certhia","American Treecreeper",LC,U,-16731116
+132,124,"himalayana","Certhia","Bar-tailed Treecreeper",LC,U,-16731116
+135,134,"nipalensis","Certhia","Rusty-flanked Treecreeper",LC,U,-16731116
+136,134,"tianquanensis","Certhia","Sichuan Treecreeper",NT,U,-12486656
+138,137,"discolor","Certhia","Brown-throated Treecreeper",LC,U,-16731116
+139,137,"manipurensis","Certhia","Manipur Treecreeper",LC,U,-16731116
+141,140,"spilonotus","Salpornis","Spotted Treecreeper",LC,U,-16731116
+142,140,"muraria","Tichodroma","Wallcreeper",LC,U,-16731116
+148,147,"japonica","Bombycilla","Japanese Waxwing",NT,U,-12486656
+149,147,"garrulus","Bombycilla","Bohemian Waxwing",LC,U,-16731116
+150,146,"cedrorum","Bombycilla","Cedar Waxwing",LC,U,-16731116
+152,151,"bonensis","Hylocitrea","Olive-flanked Whistler",LC,U,-16731116
+153,151,"ampelinus","Hypocolius","Grey Hypocolius",LC,U,-16731116
+157,156,"caudatus","Ptilogonys","Long-tailed Silky-flycatcher",LC,U,-16731116
+158,156,"cinereus","Ptilogonys","Grey Silky-flycatcher",LC,U,-16731116
+159,155,"nitens","Phainopepla","Phainopepla",LC,U,-16731116
+160,154,"melanoxantha","Phainoptila","Black-and-yellow Silky-flycatcher",LC,U,-16731116
+161,143,"dominicus","Dulus","Palmchat",LC,U,-16731116
+166,165,"calendula","Regulus","Ruby-crowned Kinglet",LC,U,-16731116
+167,165,"regulus","Regulus","Goldcrest",LC,U,-16731116
+168,164,"goodfellowi","Regulus","Flamecrest",LC,U,-16731116
+170,169,"madeirensis","Regulus","Madeira Kinglet",LC,U,-16731116
+171,169,"ignicapilla","Regulus","Firecrest",LC,U,-16731116
+172,162,"satrapa","Regulus","Golden-crowned Kinglet",LC,U,-16731116

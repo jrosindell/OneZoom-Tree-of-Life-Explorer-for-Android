@@ -1,41 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"pardus","Panthera","Leopard",NT,D,-12486656
-14,12,"leo","Panthera","Lion",VU,D,-11184866
-15,11,"onca","Panthera","Jaguar",NT,D,-12486656
-16,10,"tigris","Panthera","Tiger",EN,D,-8572416
-17,9,"uncia","Uncia","Snow Leopard",NE,U,-16777216
-18,8,"nebulosa","Neofelis","Clouded Leopard",VU,D,-11184866
-19,7,"marmorata","Pardofelis","Marbled Cat",VU,D,-11184866
-23,22,"canadensis","Lynx","Canada Lynx",LC,S,-16731116
-24,22,"lynx","Lynx","Eurasian Lynx",LC,S,-16731116
-25,21,"pardinus","Lynx","Iberian Lynx",CR,D,-3014646
-26,20,"rufus","Lynx","Bobcat",LC,S,-16731116
-29,28,"temminckii","Catopuma","Asiatic golden cat",NE,U,-16777216
-30,28,"badia","Catopuma","Bornean cat",NE,U,-16777216
-31,27,"aurata","Profelis","African golden cat",NE,U,-16777216
-37,36,"braccatus","Leopardus","Pantanal cat",NE,U,-16777216
-38,36,"pajeros","Leopardus","Pampas cat",NE,U,-16777216
-39,35,"colocolo","Leopardus","Colocolo",NT,D,-12486656
-40,34,"jacobitus","Leopardus","Andean mountain cat",NE,U,-16777216
-43,42,"guigna","Leopardus","Chilean Cat",VU,D,-11184866
-44,42,"tigrinus","Leopardus","Oncilla",VU,D,-11184866
-45,41,"geoffroyi","Leopardus","Geoffroy's Cat",NT,D,-12486656
-47,46,"pardalis","Leopardus","Ocelot",LC,D,-16731116
-48,46,"wiedii","Leopardus","Margay",NT,D,-12486656
-55,54,"nigripes","Felis","Black-footed Cat",VU,D,-11184866
-56,54,"margarita","Felis","Sand Cat",NT,U,-12486656
-58,57,"silvestris","Felis","Wild Cat",LC,D,-16731116
-59,57,"catus","Felis","",NE,U,-16777216
-61,60,"chaus","Felis","Jungle Cat",LC,D,-16731116
-62,60,"bieti","Felis","",NE,U,-16777216
-63,51,"manul","Felis","",NE,U,-16777216
-64,50,"caracal","Caracal","Caracal",LC,U,-16731116
-65,49,"serval","Leptailurus","Serval",LC,S,-16731116
-70,69,"bengalensis","Prionailurus","Leopard Cat",LC,S,-16731116
-71,69,"iriomotensis","Prionailurus","",NE,U,-16777216
-72,68,"viverrinus","Prionailurus","Fishing Cat",EN,D,-8572416
-73,67,"rubiginosus","Prionailurus","Rusty-spotted Cat",VU,D,-11184866
-74,66,"planiceps","Prionailurus","Flat-headed Cat",EN,D,-8572416
-76,75,"yagouaroundi","Puma","Jaguarundi",LC,D,-16731116
-77,75,"concolor","Puma","Puma",LC,D,-16731116
-78,0,"jubatus","Acinonyx","Cheetah",VU,D,-11184866
+9,8,"machadoi","Glauconycteris","Machado's Butterfly Bat",DD,U,-11513776
+10,8,"variegata","Glauconycteris","Butterfly Bat",LC,U,-16731116
+12,11,"kenyacola","Glauconycteris","Kenyan Wattled Bat",DD,U,-11513776
+13,11,"egeria","Glauconycteris","Bibundi Bat",DD,U,-11513776
+15,14,"humeralis","Glauconycteris","Allen's Spotted Bat",DD,U,-11513776
+16,14,"beatrix","Glauconycteris","Beatrix's Bat",LC,U,-16731116
+18,17,"alboguttata","Glauconycteris","Allen's Striped Bat",LC,U,-16731116
+19,17,"argentata","Glauconycteris","Silvered Bat",LC,U,-16731116
+21,20,"gleni","Glauconycteris","Glen's Wattled Bat",DD,U,-11513776
+22,20,"poensis","Glauconycteris","Abo Bat",LC,U,-16731116
+23,3,"superba","Glauconycteris","Pied Bat",LC,U,-16731116
+26,25,"wintoni","Laephotis","De Winton's Long-eared Bat",LC,U,-16731116
+27,25,"botswanae","Laephotis","Botswanan Long-eared Bat",LC,U,-16731116
+29,28,"angolensis","Laephotis","Angolan Long-eared Bats",DD,U,-11513776
+30,28,"namibensis","Laephotis","Namib Long-eared Bat",LC,S,-16731116
+31,1,"hemprichii","Otonycteris","Desert Long-eared Bat",LC,U,-16731116
+38,37,"finlaysoni","Vespadelus","Finlayson's Cave Bat",LC,S,-16731116
+39,37,"troughtoni","Vespadelus","Eastern Cave Bat",LC,S,-16731116
+41,40,"pumilus","Vespadelus","Eastern Forest Bat",LC,D,-16731116
+42,40,"caurinus","Vespadelus","Northern Cave Bat",LC,S,-16731116
+43,35,"darlingtoni","Vespadelus","Large Forest Bat",LC,S,-16731116
+44,34,"douglasorum","Vespadelus","Yellow-lipped Cave Bat",LC,U,-16731116
+47,46,"regulus","Vespadelus","Southern Forest Bat",LC,S,-16731116
+48,46,"vulturnus","Vespadelus","Little Forest Bat",LC,D,-16731116
+49,45,"baverstocki","Vespadelus","Inland Forest Bat",LC,S,-16731116
+51,50,"robustula","Tylonycteris","Greater Bamboo Bat",LC,U,-16731116
+52,50,"pachypus","Tylonycteris","Lesser Bamboo Bat",LC,U,-16731116

@@ -1,99 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"spectabilis","Liomys","Jaliscan Spiny Pocket Mouse",EN,D,-8572416
-17,15,"pictus","Liomys","Painted Spiny Pocket Mouse",LC,D,-16731116
-18,14,"irroratus","Liomys","Mexican Spiny Pocket Mouse",LC,S,-16731116
-20,19,"adspersus","Liomys","Panamanian Spiny Pocket Mouse",LC,S,-16731116
-21,19,"salvini","Liomys","Salvin's Spiny Pocket Mouse",LC,D,-16731116
-22,12,"australis","Heteromys","Southern Spiny Pocket Mouse",LC,S,-16731116
-23,11,"anomalus","Heteromys","Caribbean Spiny Pocket Mouse",LC,U,-16731116
-26,25,"desmarestianus","Heteromys","Demarest's Spiny Pocket Mouse",LC,S,-16731116
-27,25,"oresterus","Heteromys","Mountain Spiny Pocket Mouse",LC,S,-16731116
-28,24,"nelsoni","Heteromys","Nelson's Spiny Pocket Mouse",EN,D,-8572416
-29,9,"gaumeri","Heteromys","Gaumer's Spiny Pocket Mouse",LC,S,-16731116
-30,8,"zinseri","Cratogeomys","",NE,U,-16777216
-31,7,"alcorni","Pappogeomys","Alcorn's Pocket Gopher",CR,D,-3014646
-35,34,"castanops","Cratogeomys","Yellow-faced Pocket Gopher",LC,S,-16731116
-36,34,"goldmani","Cratogeomys","",LC,S,-16731116
-38,37,"tylorhinus","Cratogeomys","",NE,U,-16777216
-39,37,"neglectus","Cratogeomys","",NE,U,-16777216
-42,41,"merriami","Cratogeomys","Merriam's Pocket Gopher",LC,S,-16731116
-43,41,"fumosus","Cratogeomys","Smoky Pocket Gopher",LC,S,-16731116
-44,40,"gymnurus","Cratogeomys","",NE,U,-16777216
-45,5,"bulleri","Pappogeomys","Buller's Pocket Gopher",LC,S,-16731116
-54,53,"underwoodi","Orthogeomys","Underwood's Pocket Gopher",LC,I,-16731116
-55,53,"heterodus","Orthogeomys","Variable Pocket Gopher",LC,I,-16731116
-56,52,"thaeleri","Orthogeomys","Thaeler's Pocket Gopher",LC,S,-16731116
-57,51,"matagalpae","Orthogeomys","Nicaraguan Pocket Gopher",LC,I,-16731116
-58,50,"dariensis","Orthogeomys","Darien Pocket Gopher",LC,S,-16731116
-59,49,"grandis","Orthogeomys","Giant Pocket Gopher",LC,S,-16731116
-62,61,"hispidus","Orthogeomys","Hispid Pocket Gopher",LC,S,-16731116
-63,61,"lanius","Orthogeomys","Big Pocket Gopher",CR,D,-3014646
-64,60,"cavator","Orthogeomys","Chiriqui Pocket Gopher",LC,I,-16731116
-66,65,"cherriei","Orthogeomys","Cherrie's Pocket Gopher",LC,S,-16731116
-67,65,"cuniculus","Orthogeomys","Oaxacan Pocket Gopher",DD,D,-11513776
-68,46,"trichopus","Zygogeomys","Michoacan Pocket Gopher",EN,D,-8572416
-75,74,"texensis","Geomys","Central Texas Pocket Gopher",LC,U,-16731116
-76,74,"bursarius","Geomys","Plains Pocket Gopher",LC,S,-16731116
-77,73,"attwateri","Geomys","Attwater's Pocket Gopher",LC,S,-16731116
-79,78,"knoxjonesi","Geomys","Knox Jones's Pocket Gopher",LC,U,-16731116
-80,78,"breviceps","Geomys","Baird's Pocket Gopher",LC,S,-16731116
-81,71,"arenarius","Geomys","Desert Pocket Gopher",NT,U,-12486656
-83,82,"tropicalis","Geomys","Tropical Pocket Gopher",CR,D,-3014646
-84,82,"personatus","Geomys","Texas Pocket Gopher",LC,U,-16731116
-85,69,"pinetis","Geomys","Cumberland Island Picket Gopher",LC,U,-16731116
-90,89,"townsendii","Thomomys","Townsend's Pocket Gopher",LC,S,-16731116
-91,89,"bottae","Thomomys","Botta's Pocket Gopher",LC,S,-16731116
-92,88,"umbrinus","Thomomys","Animas Mountains Pocket Gopher",LC,U,-16731116
-93,87,"bulbivorus","Thomomys","Camas Pocket Gopher",LC,S,-16731116
-96,95,"monticola","Thomomys","Mountain Pocket Gopher",LC,S,-16731116
-97,95,"mazama","Thomomys","Western Pocket Gopher",LC,D,-16731116
-98,94,"talpoides","Thomomys","Northern Pocket Gopher",LC,S,-16731116
-110,109,"nelsoni","Chaetodipus","Nelson's Pocket Mouse",LC,S,-16731116
-111,109,"lineatus","Chaetodipus","Lined Pocket Gopher",DD,U,-11513776
-112,108,"intermedius","Chaetodipus","Rock Pocket Mouse",LC,S,-16731116
-114,113,"eremicus","Chaetodipus","Chihuahuan Desert Pocket Mouse",LC,U,-16731116
-115,113,"penicillatus","Chaetodipus","Desert Pocket Mouse",LC,S,-16731116
-117,116,"artus","Chaetodipus","Narrow-skulled Pocket Mouse",LC,S,-16731116
-118,116,"goldmani","Chaetodipus","Goldman's Pocket Mouse",VU,D,-11184866
-119,105,"pernix","Chaetodipus","Sinaloan Pocket Gopher",LC,S,-16731116
-122,121,"fallax","Chaetodipus","San Diego Pocket Mouse",LC,U,-16731116
-123,121,"spinatus","Chaetodipus","Spiny Pocket Mouse",LC,U,-16731116
-124,120,"californicus","Chaetodipus","California Pocket Mouse",LC,S,-16731116
-126,125,"arenarius","Chaetodipus","Little Desert Pocket Mouse",LC,U,-16731116
-127,125,"dalquesti","Chaetodipus","Dalquest's Pocket Mouse",VU,D,-11184866
-130,129,"baileyi","Chaetodipus","Bailey's Pocket Mouse",LC,S,-16731116
-131,129,"rudinoris","Chaetodipus","Baja Pocket Mouse",LC,S,-16731116
-132,128,"hispidus","Chaetodipus","Hispid Pocket Mouse",LC,S,-16731116
-133,101,"formosus","Chaetodipus","Long-tailed Pocket Mouse",LC,S,-16731116
-138,137,"merriami","Perognathus","Great Basin Pocket Mouse",LC,S,-16731116
-139,137,"amplus","Perognathus","Arizona Pocket Mouse",LC,S,-16731116
-141,140,"parvus","Perognathus","Great Basin Pocket Mouse",LC,S,-16731116
-142,140,"flavus","Perognathus","Silky Pocket Mouse",LC,S,-16731116
-143,135,"longimembris","Perognathus","Little Pocket Mouse",LC,S,-16731116
-147,146,"fasciatus","Perognathus","Olive-backed Pocket Mouse",LC,S,-16731116
-148,146,"inornatus","Perognathus","Salinas Pocket Mouse",LC,U,-16731116
-149,145,"alticolus","Perognathus","White-eared Pocket Mouse",EN,D,-8572416
-150,144,"flavescens","Perognathus","Plains Pocket Mouse",LC,S,-16731116
-160,159,"simulans","Dipodomys","Dulzura Kangaroo Rat",LC,U,-16731116
-161,159,"agilis","Dipodomys","Agile Kangaroo Rat",LC,D,-16731116
-162,158,"venustus","Dipodomys","Narrow-faced Kangaroo Rat",LC,D,-16731116
-163,157,"microps","Dipodomys","Chisel-toothed Kangaroo Rat",LC,S,-16731116
-166,165,"heermanni","Dipodomys","Heermann's Kangaroo Rat",LC,U,-16731116
-167,165,"stephensi","Dipodomys","Stephens' Kangaroo Rat",EN,D,-8572416
-168,164,"panamintinus","Dipodomys","Panamint Kangaroo Rat",LC,S,-16731116
-171,170,"californicus","Dipodomys","California Kangaroo Rat",LC,S,-16731116
-172,170,"phillipsii","Dipodomys","Phillip's Kangaroo Rat",LC,S,-16731116
-173,169,"elator","Dipodomys","Texas Kangaroo Rat",VU,D,-11184866
-175,174,"merriami","Dipodomys","Merriam's Kangaroo Rat",LC,S,-16731116
-176,174,"nitratoides","Dipodomys","Fresno Kangaroo Rat",VU,D,-11184866
-180,179,"gravipes","Dipodomys","San Quintin Kangaroo Rat",CR,U,-3014646
-181,179,"ingens","Dipodomys","Giant Kangaroo Rat",EN,D,-8572416
-182,178,"ordii","Dipodomys","Ord's Kangaroo Rat",LC,S,-16731116
-183,177,"compactus","Dipodomys","Gulf Coast Kangaroo Rat",LC,S,-16731116
-186,185,"spectabilis","Dipodomys","Banner-tailed Kangaroo Rat",NT,D,-12486656
-187,185,"nelsoni","Dipodomys","Nelson's Kangaroo Rat",LC,S,-16731116
-188,184,"deserti","Dipodomys","Desert Kangaroo Rat",LC,S,-16731116
-190,189,"megacephalus","Microdipodops","Dark Kangaroo Mouse",LC,D,-16731116
-191,189,"pallidus","Microdipodops","Pale Kangaroo Mouse",LC,D,-16731116
-193,192,"canadensis","Castor","American Beaver",LC,S,-16731116
-194,192,"fiber","Castor","Eurasian Beaver",LC,I,-16731116
+9,8,"martinensis","Neotoma","San Martin Island Woodrat",EX,U,-16777036
+10,8,"devia","Neotoma","Arizona Woodrat",LC,S,-16731116
+11,7,"palatina","Neotoma","Bolano's Woodrat",VU,D,-11184866
+12,6,"lepida","Neotoma","Desert Woodrat",LC,S,-16731116
+13,5,"micropus","Neotoma","Southern Plains Woodrat",LC,S,-16731116
+15,14,"nelsoni","Neotoma","Nelson's Woodrat",CR,D,-3014646
+16,14,"mexicana","Neotoma","Mexican Woodrat",LC,S,-16731116
+22,21,"magister","Neotoma","Allegheny Woodrat",NT,D,-12486656
+23,21,"floridana","Neotoma","Eastern Woodrat",LC,D,-16731116
+24,20,"goldmani","Neotoma","Goldman's Woodrat",LC,D,-16731116
+25,19,"angustapalata","Neotoma","Tamaulipan Woodrat",EN,D,-8572416
+26,18,"chrysomelas","Neotoma","Nicaraguan Woodrat",LC,S,-16731116
+27,17,"stephensi","Neotoma","Stephen's Woodrat",LC,S,-16731116
+32,31,"albigula","Neotoma","White-throated Woodrat",LC,S,-16731116
+33,31,"leucodon","Neotoma","White-toothed Woodrat",LC,S,-16731116
+34,30,"bryanti","Neotoma","Bryant's Woodrat",EN,D,-8572416
+35,29,"anthonyi","Neotoma","Anthony's Woodrat",EX,U,-16777036
+36,28,"bunkeri","Neotoma","Bunkers Woodrat",EX,U,-16777036
+40,39,"fuscipes","Neotoma","Dusky-footed Woodrat",LC,S,-16731116
+41,39,"macrotis","Neotoma","Big-eared Woodrat",LC,U,-16731116
+42,38,"cinerea","Neotoma","Bushy-tailed Woodrat",LC,S,-16731116
+43,37,"phenax","Neotoma","Sonoran Woodrat",NT,D,-12486656
+45,44,"alleni","Hodomys","Allen's Woodrat",LC,S,-16731116
+46,44,"nelsoni","Xenomys","Magdalena Rat",EN,D,-8572416

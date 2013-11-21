@@ -1,35 +1,35 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"quadrilineata","Cercosaura","",NE,U,-16777216
-12,10,"ocellata","Cercosaura","",NE,U,-16777216
-13,9,"vertebralis","Cercosaura","",NE,U,-16777216
-14,8,"schreibersii","Cercosaura","",NE,U,-16777216
-15,7,"argulus","Cercosaura","",NE,U,-16777216
-16,6,"manicatus","Cercosaura","",NE,U,-16777216
-20,19,"strangulatus","Potamites","",NE,U,-16777216
-21,19,"ecpleopus","Potamites","",NE,U,-16777216
-22,18,"ocelatus","Potamites","",NE,U,-16777216
-24,23,"chochranae","Potamites","",NE,U,-16777216
-25,23,"apodemus","Potamites","",NE,U,-16777216
-28,27,"bolivianus","Proctoporus","",NE,U,-16777216
-29,27,"pachyurus","Proctoporus","",NE,U,-16777216
-31,30,"affinis","Pholidobolus","",NE,U,-16777216
-32,30,"montium","Pholidobolus","",NE,U,-16777216
-36,35,"bicarinatus","Neusticurus","",NE,U,-16777216
-37,35,"rudis","Neusticurus","",NE,U,-16777216
-38,34,"tatei","Neusticurus","",NE,U,-16777216
-40,39,"bitaeniata","Anadia","",NE,U,-16777216
-41,39,"ocellata","Anadia","",NE,U,-16777216
-43,42,"panamensis","Echinosaura","",NE,U,-16777216
-44,42,"horrida","Echinosaura","",NE,U,-16777216
-50,49,"speciosus","Gymnophthalmus","",NE,U,-16777216
-51,49,"pleei","Gymnophthalmus","",NE,U,-16777216
-52,48,"lineatus","Gymnophthalmus","",NE,U,-16777216
-55,54,"bifasciatus","Tretioscincus","",NE,U,-16777216
-56,54,"agilis","Tretioscincus","",NE,U,-16777216
-57,53,"rubricauda","Vanzosaura","",NE,U,-16777216
-60,59,"leiolepis","Calyptommatus","",NE,U,-16777216
-61,59,"nicterus","Calyptommatus","",NE,U,-16777216
-62,58,"ablephara","Nothobachia","",NE,U,-16777216
-64,63,"dalcyanus","Colobodactylus","",NE,U,-16777216
-65,63,"elegans","Iphisa","",NE,U,-16777216
-66,0,"brachylepis","Rhachisaurus","",NE,U,-16777216
+9,8,"polyglottos","Mimus","Northern Mockingbird",LC,U,-16731116
+10,8,"gilvus","Mimus","Tropical Mockingbird",LC,U,-16731116
+11,7,"graysoni","Mimus","Socorro Mockingbird",CR,U,-3014646
+12,6,"longicaudatus","Mimus","Long-tailed Mockingbird",LC,U,-16731116
+13,5,"gundlachii","Mimus","Bahama Mockingbird",LC,U,-16731116
+16,15,"melanotis","Mimus","San Cristobal Mockingbird",EN,U,-8572416
+17,15,"macdonaldi","Mimus","Espanola Mockingbird",VU,U,-11184866
+19,18,"trifasciatus","Mimus","Floreana Mockingbird",CR,U,-3014646
+20,18,"parvulus","Mimus","Galapagos Mockingbird",LC,U,-16731116
+24,23,"dorsalis","Mimus","Brown-backed Mockingbird",LC,U,-16731116
+25,23,"triurus","Mimus","White-banded Mockingbird",LC,U,-16731116
+26,22,"saturninus","Mimus","Chalk-browed Mockingbird",LC,U,-16731116
+28,27,"patagonicus","Mimus","Patagonian Mockingbird",LC,U,-16731116
+29,27,"thenca","Mimus","Chilean Mockingbird",LC,U,-16731116
+30,2,"montanus","Oreoscoptes","Sage Thrasher",LC,U,-16731116
+36,35,"longirostre","Toxostoma","Long-billed Thrasher",LC,U,-16731116
+37,35,"guttatum","Toxostoma","Cozumel Thrasher",CR,U,-3014646
+38,34,"rufum","Toxostoma","Brown Thrasher",LC,U,-16731116
+39,33,"ocellatum","Toxostoma","Ocellated Thrasher",LC,U,-16731116
+40,32,"curvirostre","Toxostoma","Curve-billed Thrasher",LC,U,-16731116
+44,43,"lecontei","Toxostoma","Le Conte's Thrasher",LC,U,-16731116
+45,43,"crissale","Toxostoma","Crissal Thrasher",LC,U,-16731116
+46,42,"redivivum","Toxostoma","California Thrasher",LC,U,-16731116
+48,47,"bendirei","Toxostoma","Bendire's Thrasher",VU,U,-11184866
+49,47,"cinereum","Toxostoma","Grey Thrasher",LC,U,-16731116
+57,56,"gutturalis","Cinclocerthia","Grey Trembler",LC,U,-16731116
+58,56,"ruficauda","Cinclocerthia","Brown Trembler",LC,U,-16731116
+59,55,"fuscatus","Margarops","Pearly-eyed Thrasher",LC,U,-16731116
+60,54,"fuscus","Margarops","Scaly-breasted Thrasher",LC,U,-16731116
+61,53,"brachyurus","Ramphocinclus","White-breasted Thrasher",EN,U,-8572416
+62,52,"glabrirostris","Melanoptila","Black Catbird",NT,U,-12486656
+63,51,"carolinensis","Dumetella","Grey Catbird",LC,U,-16731116
+65,64,"hypoleucus","Melanotis","Blue-and-white Mockingbird",LC,U,-16731116
+66,64,"caerulescens","Melanotis","Blue Mockingbird",LC,U,-16731116

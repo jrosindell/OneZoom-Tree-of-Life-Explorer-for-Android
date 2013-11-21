@@ -1,31 +1,42 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"nigripennis","Oriolus","Black-winged Oriole",LC,U,-16731116
-12,10,"percivali","Oriolus","Black-tailed Oriole",LC,U,-16731116
-13,9,"larvatus","Oriolus","African Black-headed Oriole",LC,U,-16731116
-14,8,"monacha","Oriolus","Dark-headed Oriole",LC,U,-16731116
-17,16,"oriolus","Oriolus","Eurasian Golden Oriole",LC,U,-16731116
-18,16,"chinensis","Oriolus","Black-naped Oriole",LC,U,-16731116
-19,15,"auratus","Oriolus","African Golden Oriole",LC,U,-16731116
-20,6,"crassirostris","Oriolus","Sao Tome Oriole",VU,U,-11184866
-23,22,"brachyrhynchus","Oriolus","Western Black-headed Oriole",LC,U,-16731116
-24,22,"chlorocephalus","Oriolus","Green-headed Oriole",LC,U,-16731116
-25,21,"xanthornus","Oriolus","Black-hooded Oriole",LC,U,-16731116
-28,27,"cruentus","Oriolus","Black-and-crimson Oriole",LC,U,-16731116
-29,27,"hosii","Oriolus","Black Oriole",NT,U,-12486656
-30,26,"traillii","Oriolus","Maroon Oriole",LC,U,-16731116
-35,34,"albiloris","Oriolus","White-lored Oriole",LC,U,-16731116
-36,34,"isabellae","Oriolus","Isabela Oriole",CR,U,-3014646
-37,33,"steerii","Oriolus","Philippine Oriole",LC,U,-16731116
-38,32,"xanthonotus","Oriolus","Dark-throated Oriole",NT,U,-12486656
-39,31,"tenuirostris","Oriolus","Slender-billed Oriole",LC,U,-16731116
-45,44,"melanotis","Oriolus","Olive-brown Oriole",LC,U,-16731116
-46,44,"szalayi","Oriolus","Brown Oriole",LC,U,-16731116
-47,43,"flavocinctus","Oriolus","Green Oriole",LC,U,-16731116
-48,42,"sagittatus","Oriolus","Olive-backed Oriole",LC,U,-16731116
-50,49,"forsteni","Oriolus","Grey-collared Oriole",LC,U,-16731116
-51,49,"bouroensis","Oriolus","Black-eared Oriole",LC,U,-16731116
-52,40,"phaeochromus","Oriolus","Dusky-brown Oriole",LC,U,-16731116
-53,1,"mellianus","Oriolus","Silver Oriole",VU,U,-11184866
-56,55,"vieilloti","Sphecotheres","Australasian Figbird",LC,U,-16731116
-57,55,"viridis","Sphecotheres","Timor Figbird",LC,U,-16731116
-58,54,"hypoleucus","Sphecotheres","Wetar Figbird",NT,U,-12486656
+9,8,"varians","Eleutherodactylus","",VU,D,-11184866
+10,8,"vinhai","Eleutherodactylus","",NE,U,-16777216
+11,7,"fowleri","Eleutherodactylus","",CR,D,-3014646
+12,6,"hedricki","Eleutherodactylus","Hedrick's Coqui",EN,D,-8572416
+13,5,"antillensis","Eleutherodactylus","Red-eyed Coqui",LC,S,-16731116
+14,4,"locustus","Eleutherodactylus","Locust Coqui",CR,D,-3014646
+19,18,"auriculatoides","Eleutherodactylus","",EN,D,-8572416
+20,18,"barlagnei","Eleutherodactylus","",EN,D,-8572416
+21,17,"pinchoni","Eleutherodactylus","",EN,D,-8572416
+22,16,"flavescens","Eleutherodactylus","",NT,D,-12486656
+23,15,"gryllus","Eleutherodactylus","Cricket Coqui",EN,D,-8572416
+27,26,"cochranae","Eleutherodactylus","Cochran's Treefrog",LC,S,-16731116
+28,26,"shrevei","Eleutherodactylus","",NE,U,-16777216
+30,29,"eneidae","Eleutherodactylus","Elegant Coqui",CR,D,-3014646
+31,29,"eileenae","Eleutherodactylus","",NT,D,-12486656
+35,34,"schwartzi","Eleutherodactylus","Virgin Islands Coqui",EN,D,-8572416
+36,34,"fallax","Eleutherodactylus","",NE,U,-16777216
+37,33,"montanus","Eleutherodactylus","",EN,D,-8572416
+38,32,"cooki","Eleutherodactylus","",VU,U,-11184866
+49,48,"guantanamera","Eleutherodactylus","",VU,D,-11184866
+50,48,"wetmorei","Eleutherodactylus","",VU,D,-11184866
+51,47,"amplinympha","Eleutherodactylus","",EN,D,-8572416
+52,46,"jasperi","Eleutherodactylus","Golden Coqui",CR,D,-3014646
+53,45,"leberi","Eleutherodactylus","",EN,D,-8572416
+55,54,"brittoni","Eleutherodactylus","Grass Coqui",LC,S,-16731116
+56,54,"patriciae","Eleutherodactylus","",EN,D,-8572416
+58,57,"auriculatus","Eleutherodactylus","",LC,D,-16731116
+59,57,"taciturnus","Eleutherodactylus","",NE,U,-16777216
+63,62,"johnstonei","Eleutherodactylus","Lesser Antillean whistling frog",LC,I,-16731116
+64,62,"ronaldi","Eleutherodactylus","",VU,D,-11184866
+65,61,"briceni","Eleutherodactylus","",NE,U,-16777216
+67,66,"coqui","Eleutherodactylus","Common Coqui",LC,S,-16731116
+68,66,"pituinus","Eleutherodactylus","",EN,D,-8572416
+70,69,"euphronides","Eleutherodactylus","",NE,U,-16777216
+71,69,"poolei","Eleutherodactylus","",CR,D,-3014646
+72,40,"urichi","Eleutherodactylus","",NE,U,-16777216
+74,73,"martinicensis","Eleutherodactylus","",NT,D,-12486656
+75,73,"bartonsmithi","Eleutherodactylus","",CR,D,-3014646
+78,77,"portoricensis","Eleutherodactylus","Upland Coqui",EN,D,-8572416
+79,77,"ionthus","Eleutherodactylus","",EN,D,-8572416
+80,76,"reclusas","Eleutherodactylus","",NE,U,-16777216

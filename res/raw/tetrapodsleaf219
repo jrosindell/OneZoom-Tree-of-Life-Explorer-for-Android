@@ -1,64 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"polylepis","Chalcides","Many-scaled Cylindrical Skink",LC,D,-16731116
-16,14,"mionecton","Chalcides","Mionecton Skink",LC,U,-16731116
-18,17,"bedriagai","Chalcides","Bedriaga's Skink",NT,D,-12486656
-19,17,"colosii","Chalcides","Riffian Skink",LC,D,-16731116
-20,12,"ocellatus","Chalcides","",NE,U,-16777216
-21,11,"guentheri","Chalcides","G??????nther's Cylindrical Skink",VU,D,-11184866
-22,10,"thierryi","Chalcides","",NE,U,-16777216
-26,25,"ragazzi","Chalcides","",NE,U,-16777216
-27,25,"ghiarai","Chalcides","",NE,U,-16777216
-28,24,"levitoni","Chalcides","",NE,U,-16777216
-29,23,"viridanus","Chalcides","West Canary Skink",LC,S,-16731116
-32,31,"pseudostriatus","Chalcides","Moroccan Three-toed Skink",NT,D,-12486656
-33,31,"mauritanicus","Chalcides","Two-fingered Skink",EN,D,-8572416
-34,30,"manueli","Chalcides","Manuel's Skink",VU,D,-11184866
-36,35,"striatus","Chalcides","Western Three-toed Skink",LC,D,-16731116
-37,35,"sexlineatus","Chalcides","Gran Canaria Skink",LC,S,-16731116
-41,40,"minutus","Chalcides","Small Three-toed Skink",VU,D,-11184866
-42,40,"armitagei","Chalcides","",NE,U,-16777216
-43,39,"chalcides","Chalcides","Italian Three-toed Skink",LC,D,-16731116
-45,44,"pulchellus","Chalcides","",NE,U,-16777216
-46,44,"lanzai","Chalcides","",NT,U,-12486656
-48,47,"sepsoides","Sphenops","Wedge-snouted Skink",LC,S,-16731116
-49,47,"sphenopsiformis","Sphenops","",NE,U,-16777216
-56,55,"gronovii","Scelotes","Gronovi's Dwarf Burrowing Skink",NT,U,-12486656
-57,55,"sexlineatus","Scelotes","",NE,U,-16777216
-58,54,"bipes","Scelotes","",NE,U,-16777216
-59,53,"caffer","Scelotes","",NE,U,-16777216
-60,52,"uluguruensis","Scelotes","",NE,U,-16777216
-63,62,"anguina","Scelotes","",NE,U,-16777216
-64,62,"mirus","Scelotes","",NE,U,-16777216
-65,61,"arenicola","Scelotes","",NE,U,-16777216
-66,50,"eggeli","Proscelotes","",NE,U,-16777216
-80,79,"macrocercus","Amphiglossus","",NE,U,-16777216
-81,79,"punctatus","Amphiglossus","",NE,U,-16777216
-83,82,"ornaticeps","Amphiglossus","",NE,U,-16777216
-84,82,"melanurus","Amphiglossus","",NE,U,-16777216
-85,77,"braconnieri","Pygomeles","",NE,U,-16777216
-86,76,"splendidus","Amphiglossus","",NE,U,-16777216
-88,87,"fierinensis","Voeltzkowia","",NE,U,-16777216
-89,87,"lineata","Voeltzkowia","",NE,U,-16777216
-90,74,"menamainty","Pseudoacontias","",NE,U,-16777216
-94,93,"intermedius","Amphiglossus","",NE,U,-16777216
-95,93,"stumpffi","Amphiglossus","",NE,U,-16777216
-96,92,"mouroundavae","Amphiglossus","",NE,U,-16777216
-97,91,"melanopleura","Amphiglossus","",NE,U,-16777216
-99,98,"frontoparietalis","Amphiglossus","",NE,U,-16777216
-100,98,"reticulatus","Amphiglossus","",NE,U,-16777216
-101,71,"tsaratananensis","Amphiglossus","",NE,U,-16777216
-104,103,"astrolabi","Amphiglossus","",NE,U,-16777216
-105,103,"nanus","Amphiglossus","",NE,U,-16777216
-106,102,"tanysoma","Amphiglossus","",NE,U,-16777216
-108,107,"igneocaudatus","Amphiglossus","",NE,U,-16777216
-109,107,"crenni","Amphiglossus","",NE,U,-16777216
-112,111,"hildebrandti","Paracontias","",NE,U,-16777216
-113,111,"brocchii","Paracontias","",NE,U,-16777216
-114,110,"holomelas","Paracontias","",NE,U,-16777216
-115,67,"simonyi","Hakaria","",NE,U,-16777216
-117,116,"punctatissimus","Typhlacontias","",NE,U,-16777216
-118,116,"brevipes","Typhlacontias","",NE,U,-16777216
-120,119,"schwartzei","Mesoscincus","",LC,S,-16731116
-121,119,"managuae","Mesoscincus","",NE,U,-16777216
-123,122,"braueri","Janetaescincus","Brauer's Burrowing Skink",EN,D,-8572416
-124,122,"boulengeri","Feylinia","",NE,U,-16777216
+7,6,"aurantiifrons","Loriculus","Orange-fronted Hanging-parrot",LC,U,-16731116
+8,6,"pusillus","Loriculus","Yellow-throated Hanging-parrot",NT,U,-12486656
+9,5,"catamene","Loriculus","Sangihe Hanging-parrot",NT,U,-12486656
+12,11,"beryllinus","Loriculus","Sri Lanka Hanging-parrot",LC,U,-16731116
+13,11,"stigmatus","Loriculus","Sulawesi Hanging-parrot",LC,U,-16731116
+14,10,"exilis","Loriculus","Red-billed Hanging-parrot",NT,U,-12486656
+18,17,"philippensis","Loriculus","Philippine Hanging-parrot",LC,U,-16731116
+19,17,"galgulus","Loriculus","Blue-crowned Hanging-parrot",LC,U,-16731116
+20,16,"flosculus","Loriculus","Flores Hanging-parrot",EN,U,-8572416
+21,15,"amabilis","Loriculus","Moluccan Hanging-parrot",LC,U,-16731116
+22,2,"vernalis","Loriculus","Vernal Hanging-parrot",LC,U,-16731116
+24,23,"tener","Loriculus","Green-fronted Hanging-parrot",NT,U,-12486656
+25,23,"sclateri","Loriculus","Sula Hanging-parrot",LC,U,-16731116
+32,31,"nigrigenis","Agapornis","Black-cheeked Lovebird",VU,U,-11184866
+33,31,"lilianae","Agapornis","Lilian's Lovebird",NT,U,-12486656
+34,30,"personatus","Agapornis","Yellow-collared Lovebird",LC,U,-16731116
+35,29,"fischeri","Agapornis","Fischer's Lovebird",NT,U,-12486656
+37,36,"swindernianus","Agapornis","Black-collared Lovebird",LC,U,-16731116
+38,36,"roseicollis","Agapornis","Rosy-faced Lovebird",LC,U,-16731116
+41,40,"pullarius","Agapornis","Red-headed Lovebird",LC,U,-16731116
+42,40,"taranta","Agapornis","Black-winged Lovebird",LC,U,-16731116
+43,39,"canus","Agapornis","Grey-headed Lovebird",LC,U,-16731116
+46,45,"occidentalis","Pezoporus","Night Parrot",CR,U,-3014646
+47,45,"wallicus","Pezoporus","Ground Parrot",LC,U,-16731116
+48,44,"lunulatus","Bolbopsittacus","Guaiabero",LC,U,-16731116

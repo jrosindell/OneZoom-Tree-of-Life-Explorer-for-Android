@@ -1,38 +1,106 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"diminutus","Eptesicus","Diminutive Serotine",DD,U,-11513776
-14,12,"innoxius","Eptesicus","Harmles Serotine",NT,U,-12486656
-15,11,"bottae","Eptesicus","Botta's Serotine",LC,U,-16731116
-16,10,"platyops","Eptesicus","Lagos Serotine",DD,U,-11513776
-17,9,"tatei","Eptesicus","Sombre Bat",DD,U,-11513776
-19,18,"guadeloupensis","Eptesicus","Guadeloupean Big Brown Bat",VU,U,-11184866
-20,18,"pachyotis","Eptesicus","Thick-eared Bat",LC,U,-16731116
-21,7,"kobayashii","Eptesicus","Kobayashi's Serotine",DD,U,-11513776
-24,23,"andinus","Eptesicus","Little Black Serotinelittle Black Serotine",LC,U,-16731116
-25,23,"chiriquinus","Eptesicus","Chiriquinan Serotine",LC,U,-16731116
-26,22,"brasiliensis","Eptesicus","Brazilian Brown Bat",LC,U,-16731116
-31,30,"hottentotus","Eptesicus","Long-tailed House Bat",LC,U,-16731116
-32,30,"fuscus","Eptesicus","Big Brown Bat",LC,I,-16731116
-33,29,"serotinus","Eptesicus","Serotine",LC,U,-16731116
-34,28,"dimissus","Eptesicus","Surat Serotine",DD,U,-11513776
-35,27,"furinalis","Eptesicus","Argentine Brown Bat",LC,U,-16731116
-39,38,"gobiensis","Eptesicus","Gobi Big Brown Bat",LC,U,-16731116
-40,38,"nilssonii","Eptesicus","Northern Bat",LC,S,-16731116
-41,37,"japonensis","Eptesicus","Japanese Short-tailed Bat",EN,D,-8572416
-42,36,"bobrinskoi","Eptesicus","Bobrinski's Serotine",LC,U,-16731116
-43,3,"nasutus","Eptesicus","Sind Serotine Bat",LC,U,-16731116
-44,2,"floweri","Eptesicus","Horn-skinned Bat",LC,S,-16731116
-45,1,"brachypterus","Philetor","Rohu's Bat",LC,U,-16731116
-54,53,"dinganii","Scotophilus","African Yellow Bat",LC,U,-16731116
-55,53,"robustus","Scotophilus","Robust Yellow Bat",LC,U,-16731116
-56,52,"nux","Scotophilus","Nut-colored Yellow Bat",LC,U,-16731116
-58,57,"leucogaster","Scotophilus","White-bellied Yellow Bat",LC,U,-16731116
-59,57,"nucella","Scotophilus","Robbin's House Bat",DD,U,-11513776
-60,50,"nigrita","Scotophilus","Giant House Bat",LC,D,-16731116
-62,61,"kuhlii","Scotophilus","Lesser Asiatic Yellow House Bat",LC,S,-16731116
-63,61,"collinus","Scotophilus","Sody's Yellow House Bat",LC,U,-16731116
-66,65,"heathii","Scotophilus","Greater Asiatic Yellow House Bat",LC,S,-16731116
-67,65,"celebensis","Scotophilus","Sulawesi Yellow House Bat",DD,U,-11513776
-69,68,"borbonicus","Scotophilus","Lesser Yellow Bat",DD,U,-11513776
-70,68,"viridis","Scotophilus","Greenish Yellow Bat",LC,U,-16731116
-71,47,"ornatus","Scotomanes","Harlequin Bat",LC,U,-16731116
-72,46,"io","Ia","Great Evening Bat",LC,U,-16731116
+17,16,"penicillata","Petrogale","Brush-tailed Rock Wallaby",NT,D,-12486656
+18,16,"herberti","Petrogale","Herbert's Rock Wallaby",LC,U,-16731116
+19,15,"inornata","Petrogale","Unadorned Rock Wallaby",LC,U,-16731116
+21,20,"assimilis","Petrogale","Allied Rock Wallaby",LC,S,-16731116
+22,20,"godmani","Petrogale","Godman's Rock Wallaby",LC,S,-16731116
+23,13,"xanthopus","Petrogale","Yellow-footed Rock Wallaby",NT,U,-12486656
+26,25,"purpureicollis","Petrogale","Purple-necked Rock Wallaby",LC,U,-16731116
+27,25,"lateralis","Petrogale","Black-footed Rock Wallaby",NT,D,-12486656
+29,28,"rothschildi","Petrogale","Rothschild's Rock Wallaby",LC,U,-16731116
+30,28,"persephone","Petrogale","Proserpine Rock Wallaby",EN,D,-8572416
+33,32,"concinna","Petrogale","Nabarlek",DD,U,-11513776
+34,32,"burbidgei","Petrogale","Monjon",NT,U,-12486656
+35,31,"brachyotis","Petrogale","Short-eared Rock Wallaby",LC,U,-16731116
+40,39,"browni","Thylogale","New Guinea Pademelon",VU,D,-11184866
+41,39,"brunii","Thylogale","Dusky Pademelon",VU,D,-11184866
+42,38,"lanatus","Thylogale","Mountain Pademelon",EN,D,-8572416
+44,43,"stigmatica","Thylogale","Red-legged Pademelon",LC,D,-16731116
+45,43,"thetis","Thylogale","Red-necked Pademelon",LC,S,-16731116
+46,36,"billardierii","Thylogale","Tasmanian Pademelon",LC,S,-16731116
+56,55,"dorsalis","Macropus","Black-striped Wallaby",LC,D,-16731116
+57,55,"parma","Macropus","Parma Wallaby",NT,U,-12486656
+58,54,"irma","Macropus","Western Brush Wallaby",LC,S,-16731116
+60,59,"rufogriseus","Macropus","Red-necked Wallaby",LC,S,-16731116
+61,59,"parryi","Macropus","Whiptail Wallaby",LC,S,-16731116
+63,62,"eugenii","Macropus","Tammar Wallaby",LC,U,-16731116
+64,62,"agilis","Macropus","Agile Wallaby",LC,D,-16731116
+69,68,"antilopinus","Macropus","Antilopine Wallaroo",LC,D,-16731116
+70,68,"rufus","Macropus","Red Kangaroo",LC,S,-16731116
+71,67,"robustus","Macropus","Common Wallaroo",LC,S,-16731116
+72,66,"bernardus","Macropus","Black Wallaroo",NT,U,-12486656
+74,73,"fuliginosus","Macropus","Western Gray Kangaroo",LC,I,-16731116
+75,73,"giganteus","Macropus","Eastern Grey Kangaroo",LC,S,-16731116
+76,50,"bicolor","Wallabia","Swamp Wallaby",LC,I,-16731116
+78,77,"unguifera","Onychogalea","Northern Nailtail Wallaby",LC,U,-16731116
+79,77,"fraenata","Onychogalea","Bridled Nailtail Wallaby",EN,S,-8572416
+80,48,"brachyurus","Setonix","Quokka",VU,D,-11184866
+82,81,"conspicillatus","Lagorchestes","Spectacled Hare Wallaby",LC,D,-16731116
+83,81,"hirsutus","Lagorchestes","Rufous Hare Wallaby",VU,D,-11184866
+91,90,"pulcherrimus","Dendrolagus","Golden-mantled Tree Kangaroo",CR,D,-3014646
+92,90,"goodfellowi","Dendrolagus","Goodfellow's Tree Kangaroo",EN,D,-8572416
+94,93,"spadix","Dendrolagus","Lowlands Tree Kangaroo",LC,D,-16731116
+95,93,"matschiei","Dendrolagus","Huon Tree Kangaroo",EN,D,-8572416
+98,97,"dorianus","Dendrolagus","Doria's Tree Kangaroo",VU,D,-11184866
+99,97,"stellarum","Dendrolagus","Seri's Tree Kangaroo",VU,D,-11184866
+100,96,"scottae","Dendrolagus","Tenkile",CR,D,-3014646
+101,87,"ursinus","Dendrolagus","Vogelkop Tree Kangaroo",VU,D,-11184866
+102,86,"inustus","Dendrolagus","Grizzled Tree Kangaroo",VU,D,-11184866
+103,85,"lumholtzi","Dendrolagus","Lumholtz's Tree Kangaroo",LC,S,-16731116
+104,84,"bennettianus","Dendrolagus","Bennett's Tree Kangaroo",NT,S,-12486656
+109,108,"luctuosa","Dorcopsis","Grey Dorcopsis",VU,D,-11184866
+110,108,"atrata","Dorcopsis","Black Dorcopsis",CR,D,-3014646
+111,107,"muelleri","Dorcopsis","Brown Dorcopsis",LC,S,-16731116
+112,106,"hageni","Dorcopsis","White-striped Dorcopsis",LC,S,-16731116
+114,113,"macleayi","Dorcopsulus","Macleay's Dorcopsis",LC,S,-16731116
+115,113,"vanheurni","Dorcopsulus","Small Dorcopsis",NT,D,-12486656
+116,6,"fasciatus","Lagostrophus","Banded Hare Wallaby",EN,U,-8572416
+119,118,"tridactylus","Potorous","Long-nosed Potoroo",LC,D,-16731116
+120,118,"gilbertii","Potorous","Gilbert's Potoroo",CR,S,-3014646
+121,117,"longipes","Potorous","Long-footed Potoroo",EN,U,-8572416
+125,124,"gaimardi","Bettongia","Tasmanian Bettong",NT,S,-12486656
+126,124,"lesueur","Bettongia","Burrowing Bettong",NT,I,-12486656
+128,127,"tropica","Bettongia","Northern Bettong",EN,D,-8572416
+129,127,"penicillata","Bettongia","Woylie",CR,D,-3014646
+130,122,"rufescens","Aepyprymnus","Rufous Bettong",LC,U,-16731116
+131,3,"moschatus","Hypsiprymnodon","Musky Rat Kangaroo",LC,S,-16731116
+140,139,"herbertensis","Pseudochirulus","Herbert River Ringtail Possum",LC,S,-16731116
+141,139,"cinereus","Pseudochirulus","Daintree River Ringtail Possum",LC,S,-16731116
+142,138,"caroli","Pseudochirulus","Weyland Ringtail",LC,U,-16731116
+144,143,"forbesi","Pseudochirulus","Painted Ringtail",LC,U,-16731116
+145,143,"larvatus","Pseudochirulus","Masked Ringtail",LC,D,-16731116
+147,146,"canescens","Pseudochirulus","Lowland Ringtail",LC,D,-16731116
+148,146,"mayeri","Pseudochirulus","Pygmy Ringtail",LC,D,-16731116
+149,135,"peregrinus","Pseudocheirus","Common Ringtail Possum",LC,S,-16731116
+155,154,"albertisii","Pseudochirops","D'Albertis's Ringtail",NT,D,-12486656
+156,154,"coronatus","Pseudochirops","Reclusive Ringtail",VU,D,-11184866
+158,157,"archeri","Pseudochirops","Green Ringtail Possum",LC,S,-16731116
+159,157,"cupreus","Pseudochirops","Coppery Ringtail",LC,S,-16731116
+160,152,"corinnae","Pseudochirops","Plush-coated Ringtail",NT,D,-12486656
+161,151,"dahli","Petropseudes","Rock Ringtail Possum",LC,U,-16731116
+163,162,"lemuroides","Hemibelideus","Lemuroid Ringtail Possum",NT,S,-12486656
+164,162,"volans","Petauroides","Greater Glider",LC,D,-16731116
+171,170,"breviceps","Petaurus","Sugar Glider",LC,S,-16731116
+172,170,"biacensis","Petaurus","Biak Glider",LC,U,-16731116
+173,169,"abidi","Petaurus","Northern Glider",CR,D,-3014646
+174,168,"gracilis","Petaurus","Mahogany Glider",EN,D,-8572416
+176,175,"australis","Petaurus","Yellow-bellied Glider",LC,D,-16731116
+177,175,"norfolcensis","Petaurus","Squirrel Glider",LC,D,-16731116
+181,180,"megalura","Dactylopsila","Great-tailed Triok",LC,U,-16731116
+182,180,"trivirgata","Dactylopsila","Striped Possum",LC,D,-16731116
+184,183,"tatei","Dactylopsila","Tate's Triok",EN,U,-8572416
+185,183,"palpator","Dactylopsila","",NE,U,-16777216
+186,178,"leadbeateri","Gymnobelideus","Leadbeater's Possum",EN,D,-8572416
+189,188,"pennatus","Distoechurus","Feather-tailed Possum",LC,S,-16731116
+190,188,"pygmaeus","Acrobates","Feathertail Glider",LC,S,-16731116
+191,187,"rostratus","Tarsipes","Honey Possum",LC,S,-16731116
+197,196,"concinnus","Cercartetus","Western Pygmy Possum",LC,S,-16731116
+198,196,"lepidus","Cercartetus","Little Pygmy Possum",LC,S,-16731116
+199,195,"nanus","Cercartetus","Eastern Pygmy Possum",LC,D,-16731116
+200,194,"caudatus","Cercartetus","Long-tailed Pygmy Possum",LC,S,-16731116
+201,193,"parvus","Burramys","Mountain Pygmy Possum",CR,D,-3014646
+205,204,"latifrons","Lasiorhinus","Southern Hairy-nosed Wombat",LC,U,-16731116
+206,204,"krefftii","Lasiorhinus","Northern Hairy-nosed Wombat",CR,S,-3014646
+207,203,"ursinus","Vombatus","Common Wombat",LC,S,-16731116
+208,202,"cinereus","Phascolarctos","Koala",LC,U,-16731116
+209,0,"gliroides","Dromiciops","Monito Del Monte",NT,D,-12486656

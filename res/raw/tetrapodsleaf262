@@ -1,37 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"nigra","Macaca","Celebes Crested Macaque",CR,D,-3014646
-9,7,"nigrescens","Macaca","Gorontalo Macaque",VU,D,-11184866
-10,6,"ochreata","Macaca","Booted Macaque",VU,D,-11184866
-11,5,"maura","Macaca","Moor Macaque",EN,D,-8572416
-13,12,"tonkeana","Macaca","Tonkean Macaque",VU,D,-11184866
-14,12,"hecki","Macaca","Heck's Macaque",VU,D,-11184866
-18,17,"nemestrina","Macaca","Southern Pig-tailed Macaque",VU,D,-11184866
-19,17,"pagensis","Macaca","Pagai Island Macaque",CR,D,-3014646
-20,16,"leonina","Macaca","Northern Pig-tailed Macaque",VU,D,-11184866
-21,15,"silenus","Macaca","Lion-tailed Macaque",EN,D,-8572416
-22,2,"sylvanus","Macaca","Barbary Macaque",EN,D,-8572416
-27,26,"thibetana","Macaca","Milne-edwards' Macaque",NT,D,-12486656
-28,26,"assamensis","Macaca","Assam Macaque",NT,D,-12486656
-30,29,"radiata","Macaca","Bonnet Macaque",LC,D,-16731116
-31,29,"sinica","Macaca","Toque Macaque",EN,D,-8572416
-32,24,"arctoides","Macaca","Stump-tailed Macaque",VU,D,-11184866
-36,35,"cyclopis","Macaca","Formosan Rock Macaque",LC,S,-16731116
-37,35,"mulatta","Macaca","Rhesus Monkey",LC,U,-16731116
-38,34,"fuscata","Macaca","Japanese Macaque",LC,S,-16731116
-39,33,"fascicularis","Macaca","Crab-eating Macaque",LC,D,-16731116
-47,46,"hamadryas","Papio","Hamadryas Baboon",LC,I,-16731116
-48,46,"anubis","Papio","Olive Baboon",LC,I,-16731116
-49,45,"ursinus","Papio","Chacma Baboon",LC,S,-16731116
-50,44,"cynocephalus","Papio","Yellow Baboon",LC,S,-16731116
-51,43,"papio","Papio","Guinea Baboon",NT,U,-12486656
-52,42,"gelada","Theropithecus","Gelada Baboon",LC,D,-16731116
-55,54,"albigena","Lophocebus","Grey-cheeked Mangabey",LC,D,-16731116
-56,54,"opdenboschi","Lophocebus","",NE,U,-16777216
-57,53,"aterrimus","Lophocebus","Black Mangabey",NT,D,-12486656
-61,60,"torquatus","Cercocebus","White-collared Mangabey",VU,D,-11184866
-62,60,"atys","Cercocebus","Sooty/white-naped Mangabey",VU,D,-11184866
-64,63,"leucophaeus","Mandrillus","Drill",EN,U,-8572416
-65,63,"sphinx","Mandrillus","Mandrill",VU,U,-11184866
-68,67,"chrysogaster","Cercocebus","Golden-bellied Mangabey",DD,D,-11513776
-69,67,"agilis","Cercocebus","Agile Mangabey",LC,S,-16731116
-70,66,"galeritus","Cercocebus","Tana River Crested Mangabey",EN,D,-8572416
+10,9,"platyops","Graphiurus","Rock Dormouse",LC,U,-16731116
+11,9,"angolensis","Graphiurus","",DD,U,-11513776
+12,8,"ocularis","Graphiurus","Namtap",LC,U,-16731116
+13,7,"surdus","Graphiurus","Silent Dormouse",DD,U,-11513776
+14,6,"christyi","Graphiurus","Christy's Dormouse",LC,U,-16731116
+16,15,"lorraineus","Graphiurus","Lorrain Dormouse",LC,U,-16731116
+17,15,"monardi","Graphiurus","Monard's Dormouse",DD,U,-11513776
+21,20,"microtis","Graphiurus","Small-eared Dormouse",LC,U,-16731116
+22,20,"murinus","Graphiurus","Woodland Dormouse",LC,S,-16731116
+23,19,"rupicola","Graphiurus","Stone Dormouse",LC,U,-16731116
+25,24,"kelleni","Graphiurus","Kellen's Dormouse",LC,U,-16731116
+26,24,"johnstoni","Graphiurus","",DD,U,-11513776
+27,3,"crassicaudatus","Graphiurus","Jentink's Dormouse",DD,U,-11513776
+28,2,"nagtglasii","Graphiurus","",LC,U,-16731116
+30,29,"japonicus","Glirulus","Japanese Dormouse",LC,U,-16731116
+31,29,"glis","Glis","Edible Dormouse",LC,U,-16731116
+37,36,"sichuanensis","Chaetocauda","Sichuan Dormouse",DD,U,-11513776
+38,36,"laniger","Dryomys","Woolly Dormouse",DD,U,-11513776
+39,35,"nitedula","Dryomys","Forest Dormouse",LC,U,-16731116
+42,41,"melanurus","Eliomys","Asian Garden Dormouse",LC,U,-16731116
+43,41,"munbyanus","Eliomys","",LC,S,-16731116
+44,40,"quercinus","Eliomys","Garden Dormouse",NT,D,-12486656
+48,47,"personatus","Myomimus","Masked Mouse-tailed Dormouse",DD,U,-11513776
+49,47,"setzeri","Myomimus","Setzer's Mouse-tailed Dormouse",DD,U,-11513776
+50,46,"roachi","Myomimus","Mouse-tailed Dormouse",VU,D,-11184866
+51,45,"betpakdalaensis","Selevinia","Desert Dormouse",DD,U,-11513776
+52,32,"avellanarius","Muscardinus","Common Dormouse",LC,U,-16731116

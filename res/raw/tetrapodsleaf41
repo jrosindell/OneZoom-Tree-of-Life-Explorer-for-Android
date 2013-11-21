@@ -1,37 +1,29 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"rufigula","Ficedula","Rufous-throated Flycatcher",NT,U,-12486656
-10,8,"westermanni","Ficedula","Little Pied Flycatcher",LC,U,-16731116
-11,7,"superciliaris","Ficedula","Ultramarine Flycatcher",LC,U,-16731116
-12,6,"sapphira","Ficedula","Sapphire Flycatcher",LC,U,-16731116
-15,14,"strophiata","Ficedula","Rufous-gorgeted Flycatcher",LC,U,-16731116
-16,14,"basilanica","Ficedula","Little Slaty Flycatcher",VU,U,-11184866
-17,13,"pallipes","Cyornis","White-bellied Blue-flycatcher",LC,U,-16731116
-21,20,"colonus","Rhinomyias","Henna-tailed Jungle-flycatcher",NT,U,-12486656
-22,20,"hodgsonii","Ficedula","Slaty-backed Flycatcher",LC,U,-16731116
-23,19,"mugimaki","Ficedula","Mugimaki Flycatcher",LC,U,-16731116
-24,18,"hoevelli","Cyornis","Blue-fronted Flycatcher",LC,U,-16731116
-27,26,"lemprieri","Cyornis","Palawan Blue-flycatcher",NT,U,-12486656
-28,26,"tricolor","Ficedula","Slaty-blue Flycatcher",LC,U,-16731116
-29,25,"hyperythra","Ficedula","Snowy-browed Flycatcher",LC,U,-16731116
-35,34,"magnirostris","Cyornis","Large Blue-flycatcher",LC,U,-16731116
-36,34,"albicollis","Ficedula","Collared Flycatcher",LC,U,-16731116
-38,37,"hypoleuca","Ficedula","European Pied Flycatcher",LC,U,-16731116
-39,37,"sanfordi","Cyornis","Matinan Flycatcher",EN,U,-8572416
-40,32,"semitorquata","Ficedula","Semi-collared Flycatcher",NT,U,-12486656
-41,31,"herioti","Cyornis","Blue-breasted Flycatcher",LC,U,-16731116
-45,44,"parva","Ficedula","Red-breasted Flycatcher",LC,U,-16731116
-46,44,"albicilla","Ficedula","Taiga Flycatcher",LC,U,-16731116
-47,43,"subrubra","Ficedula","Kashmir Flycatcher",VU,U,-11184866
-49,48,"turcosus","Cyornis","Malaysian Blue-flycatcher",NT,U,-12486656
-50,48,"ruckii","Cyornis","Rueck's Blue-flycatcher",CR,U,-3014646
-55,54,"dumetoria","Ficedula","Rufous-chested Flycatcher",NT,U,-12486656
-56,54,"platenae","Ficedula","Palawan Flycatcher",VU,U,-11184866
-58,57,"timorensis","Ficedula","Black-banded Flycatcher",NT,U,-12486656
-59,57,"harterti","Ficedula","Sumba Flycatcher",LC,U,-16731116
-62,61,"rufocinereus","Monticola","Little Rock-thrush",LC,U,-16731116
-63,61,"ansorgei","Xenocopsychus","Angola Cave-chat",NT,U,-12486656
-64,60,"crypta","Ficedula","Cryptic Flycatcher",LC,U,-16731116
-66,65,"buruensis","Ficedula","Cinnamon-chested Flycatcher",LC,U,-16731116
-67,65,"bonthaina","Ficedula","Lompobatang Flycatcher",EN,U,-8572416
-69,68,"zanthopygia","Ficedula","Yellow-rumped Flycatcher",LC,U,-16731116
-70,68,"narcissina","Ficedula","Narcissus Flycatcher",LC,U,-16731116
+7,6,"sanchiangensis","Hyla","",LC,D,-16731116
+8,6,"tsinlingensis","Hyla","",LC,D,-16731116
+9,5,"savignyi","Hyla","",LC,S,-16731116
+11,10,"sarda","Hyla","Sardinian Treefrog",LC,S,-16731116
+12,10,"zhaopingensis","Hyla","",DD,U,-11513776
+16,15,"intermedia","Hyla","Italian Treefrog",LC,S,-16731116
+17,15,"arborea","Hyla","European Treefrog",LC,D,-16731116
+18,14,"simplex","Hyla","",LC,S,-16731116
+19,13,"femoralis","Hyla","",LC,S,-16731116
+21,20,"meridionalis","Hyla","Mediterranean Treefrog",LC,S,-16731116
+22,20,"hallowellii","Hyla","",LC,S,-16731116
+25,24,"immaculata","Hyla","",LC,S,-16731116
+26,24,"chinensis","Hyla","",LC,S,-16731116
+27,23,"annectans","Hyla","",LC,S,-16731116
+33,32,"rivularis","Isthmohyla","",CR,D,-3014646
+34,32,"debilis","Isthmohyla","",CR,D,-3014646
+36,35,"picadoi","Isthmohyla","",NT,D,-12486656
+37,35,"calypsa","Isthmohyla","",CR,D,-3014646
+40,39,"lancasteri","Isthmohyla","",LC,S,-16731116
+41,39,"insolita","Isthmohyla","",CR,D,-3014646
+42,38,"zeteki","Isthmohyla","",NT,D,-12486656
+45,44,"pictipes","Isthmohyla","",EN,D,-8572416
+46,44,"tica","Isthmohyla","",CR,D,-3014646
+47,43,"xanthosticta","Isthmohyla","",DD,U,-11513776
+51,50,"angustilineata","Isthmohyla","",CR,D,-3014646
+52,50,"pseudopuma","Isthmohyla","",LC,S,-16731116
+53,49,"graceae","Isthmohyla","",CR,D,-3014646
+54,48,"infucata","Isthmohyla","",DD,U,-11513776

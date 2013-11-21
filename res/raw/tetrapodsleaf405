@@ -1,32 +1,101 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"boumbaensis","Xenopus","Mawa Clawed Frog",DD,U,-11513776
-12,10,"andrei","Xenopus","Andre's Clawed Frog",LC,S,-16731116
-14,13,"largeni","Xenopus","Largen's Clawed Frog",DD,U,-11513776
-15,13,"clivii","Xenopus","Eritrea Clawed Frog",LC,D,-16731116
-16,8,"fraseri","Xenopus","Fraser's Clawed Frog",LC,S,-16731116
-18,17,"longipes","Xenopus","Lake Oku Clawed Frog",CR,S,-3014646
-19,17,"amieti","Xenopus","Volcano Clawed Frog",NT,D,-12486656
-20,6,"pygmaeus","Xenopus","Bouchia Clawed Frog",LC,S,-16731116
-23,22,"ruwenzoriensis","Xenopus","Uganda Clawed Frog",DD,U,-11513776
-24,22,"petersii","Xenopus","Peters' Platanna",LC,S,-16731116
-26,25,"laevis","Xenopus","African Clawed Frog",LC,I,-16731116
-27,25,"gilli","Xenopus","Cape Platanna",EN,D,-8572416
-31,30,"borealis","Xenopus","Marsabit Clawed Frog",LC,U,-16731116
-32,30,"muelleri","Xenopus","Muller's Platanna",LC,S,-16731116
-33,29,"wittei","Xenopus","De Witte's Clawed Frog",LC,S,-16731116
-34,28,"vestitus","Xenopus","Kivu Clawed Frog",LC,S,-16731116
-36,35,"epitropicalis","Silurana","Cameroon Clawed Frog",LC,D,-16731116
-37,35,"tropicalis","Silurana","Tropical Clawed Frog",LC,S,-16731116
-43,42,"pipa","Pipa","Suriname Toad",LC,S,-16731116
-44,42,"snethlageae","Pipa","",LC,U,-16731116
-45,41,"arrabali","Pipa","Arrabal's Suriname Toad",LC,S,-16731116
-46,40,"aspera","Pipa","Albina Surinam Toad",LC,S,-16731116
-47,39,"carvalhoi","Pipa","Carvalho's Surinam Toad",LC,D,-16731116
-49,48,"myersi","Pipa","Myers' Surinam Toad",EN,D,-8572416
-50,48,"parva","Pipa","",LC,I,-16731116
-55,54,"boulengeri","Hymenochirus","",DD,U,-11513776
-56,54,"feae","Hymenochirus","",DD,U,-11513776
-57,53,"boettgeri","Hymenochirus","Congo Dwarf Clawed Frog",LC,D,-16731116
-58,52,"curtipes","Hymenochirus","Western Dwarf Clawed Frog",LC,U,-16731116
-59,51,"merlini","Pseudhymenochirus","",LC,U,-16731116
-60,0,"dorsalis","Rhinophrynus","Burrowing Toad",LC,S,-16731116
+18,17,"plica","Tropidurus","",NE,U,-16777216
+19,17,"umbra","Tropidurus","",NE,U,-16777216
+20,16,"hygomi","Tropidurus","",NE,U,-16777216
+21,15,"spinulosus","Tropidurus","",NE,U,-16777216
+22,14,"bogerti","Tropidurus","",NE,U,-16777216
+24,23,"montanus","Tropidurus","",NE,U,-16777216
+25,23,"guarani","Tropidurus","",NE,U,-16777216
+26,12,"hispidus","Tropidurus","",NE,U,-16777216
+27,11,"superciliosus","Uranoscodon","",NE,U,-16777216
+29,28,"flaviceps","Uracentron","",NE,U,-16777216
+30,28,"azurea","Uracentron","",NE,U,-16777216
+38,37,"guentheri","Stenocercus","",NE,U,-16777216
+39,37,"chota","Stenocercus","",NE,U,-16777216
+40,36,"rhodomelas","Stenocercus","",NE,U,-16777216
+41,35,"iridescens","Stenocercus","",NE,U,-16777216
+42,34,"ornatus","Stenocercus","",NE,U,-16777216
+43,33,"roseiventris","Stenocercus","",NE,U,-16777216
+45,44,"variabilis","Stenocercus","",NE,U,-16777216
+46,44,"boettgeri","Stenocercus","",NE,U,-16777216
+47,31,"formosus","Stenocercus","",NE,U,-16777216
+55,54,"loxogrammus","Leiocephalus","",NE,U,-16777216
+56,54,"raviceps","Leiocephalus","",NE,U,-16777216
+58,57,"personatus","Leiocephalus","",NE,U,-16777216
+59,57,"lunatus","Leiocephalus","",NE,U,-16777216
+60,52,"cubensis","Leiocephalus","",NE,U,-16777216
+61,51,"semilineatus","Leiocephalus","",NE,U,-16777216
+62,50,"barahonensis","Leiocephalus","",NE,U,-16777216
+64,63,"schreibersi","Leiocephalus","",NE,U,-16777216
+65,63,"macropus","Leiocephalus","",NE,U,-16777216
+66,48,"carinatus","Leiocephalus","",NE,U,-16777216
+67,5,"palluma","Phymaturus","",NE,U,-16777216
+71,70,"quadrimaculatus","Oplurus","",NE,U,-16777216
+72,70,"grandidieri","Oplurus","",NE,U,-16777216
+74,73,"cyclurus","Oplurus","",NE,U,-16777216
+75,73,"cuvieri","Oplurus","",NE,U,-16777216
+76,68,"madagascariensis","Chalarodon","",NE,U,-16777216
+86,85,"extremus","Anolis","",NE,U,-16777216
+87,85,"roquet","Anolis","",NE,U,-16777216
+88,84,"aeneus","Anolis","",NE,U,-16777216
+89,83,"trinitatis","Anolis","",NE,U,-16777216
+90,82,"richardii","Anolis","",NE,U,-16777216
+92,91,"bonairensis","Anolis","",NE,U,-16777216
+93,91,"luciae","Anolis","",NE,U,-16777216
+94,80,"aequatorialis","Anolis","",NE,U,-16777216
+98,97,"punctatus","Anolis","",NE,U,-16777216
+99,97,"frenatus","Anolis","",NE,U,-16777216
+100,96,"chloris","Anolis","",NE,U,-16777216
+102,101,"heterodermus","Anolis","",NE,U,-16777216
+103,101,"nicefori","Anolis","",NE,U,-16777216
+107,106,"leopardinus","Diplolaemus","",NE,U,-16777216
+108,106,"darwinii","Diplolaemus","",NE,U,-16777216
+109,105,"bibroni","Diplolaemus","",NE,U,-16777216
+111,110,"brasiliensis","Enyalius","",NE,U,-16777216
+112,110,"perditus","Enyalius","",NE,U,-16777216
+116,115,"stansburiana","Uta","Common Side-blotched Lizard",LC,S,-16731116
+122,121,"collaris","Crotaphytus","Eastern Collared Lizard",LC,S,-16731116
+123,121,"insularis","Crotaphytus","",LC,S,-16731116
+124,120,"reticulatus","Crotaphytus","Reticulate Collared Lizard",VU,D,-11184866
+125,119,"dickersonae","Crotaphytus","Tiburon Collared Lizard",LC,S,-16731116
+127,126,"wislizenii","Gambelia","Long-nosed Leopard Lizard",LC,S,-16731116
+128,126,"sila","Gambelia","Blunt-nosed Leopard Lizard",EN,D,-8572416
+133,132,"microlepis","Enyalioides","",NE,U,-16777216
+134,132,"cofanorum","Enyalioides","",NE,U,-16777216
+135,131,"palpebralis","Enyalioides","",NE,U,-16777216
+136,130,"heterolepis","Enyalioides","",NE,U,-16777216
+139,138,"peruvianus","Morunasaurus","",NE,U,-16777216
+140,138,"spinosus","Hoplocercus","",NE,U,-16777216
+141,137,"annularis","Morunasaurus","",NE,U,-16777216
+147,146,"nigrilabris","Phoxophrys","",NE,U,-16777216
+148,146,"cephalum","Phoxophrys","",NE,U,-16777216
+153,152,"loricata","Uromastyx","Mesopotamian Spiny-tailed Lizard",LC,U,-16731116
+154,152,"hardwickii","Uromastyx","",NE,U,-16777216
+155,151,"ornata","Uromastyx","",NE,U,-16777216
+158,157,"acanthinura","Uromastyx","",NE,U,-16777216
+159,157,"aegyptia","Uromastyx","",NE,U,-16777216
+160,156,"ocellata","Uromastyx","",NE,U,-16777216
+161,149,"belliana","Leiolepis","",NE,U,-16777216
+164,163,"superciliaris","Brookesia","",NE,U,-16777216
+165,163,"stumpffi","Brookesia","",NE,U,-16777216
+173,172,"exanthematicus","Varanus","",NE,U,-16777216
+174,172,"niloticus","Varanus","",NE,U,-16777216
+175,171,"griseus","Varanus","",NE,U,-16777216
+176,169,"borneensis","Lanthanotus","",NE,U,-16777216
+177,168,"suspectum","Heloderma","Gila Monster",NT,D,-12486656
+186,185,"salvadorensis","Abronia","",NE,U,-16777216
+187,185,"montecristoi","Abronia","",CR,U,-3014646
+188,184,"taeniata","Abronia","",VU,D,-11184866
+189,183,"martindelcampi","Abronia","",NE,U,-16777216
+190,182,"deppii","Abronia","",EN,D,-8572416
+193,192,"monticolus","Mesaspis","",NE,U,-16777216
+194,192,"moreleti","Mesaspis","",NE,U,-16777216
+195,191,"gadovii","Mesaspis","",LC,S,-16731116
+196,180,"imbricata","Barisia","",LC,U,-16731116
+197,179,"liocephalus","Gerrhonotus","",LC,S,-16731116
+201,200,"multicarinata","Elgaria","Southern Alligator Lizard",LC,D,-16731116
+202,200,"paucicarinata","Elgaria","",LC,S,-16731116
+203,199,"kingii","Elgaria","Madrean Alligator Lizard",LC,S,-16731116
+204,198,"coerulea","Elgaria","Northern Alligator Lizard",LC,S,-16731116
+207,206,"grandis","Xenosaurus","",VU,D,-11184866
+208,205,"crocodilurus","Shinisaurus","",NE,U,-16777216

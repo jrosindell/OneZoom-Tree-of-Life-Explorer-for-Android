@@ -1,28 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"geelvinkianum","Dicaeum","Red-capped Flowerpecker",LC,U,-16731116
-8,6,"pectorale","Dicaeum","Olive-crowned Flowerpecker",LC,U,-16731116
-10,9,"proprium","Dicaeum","Whiskered Flowerpecker",NT,U,-12486656
-11,9,"hirundinaceum","Dicaeum","Mistletoebird",LC,U,-16731116
-14,13,"erythrothorax","Dicaeum","Flame-breasted Flowerpecker",LC,U,-16731116
-15,13,"eximium","Dicaeum","Red-banded Flowerpecker",LC,U,-16731116
-16,12,"aeneum","Dicaeum","Midget Flowerpecker",LC,U,-16731116
-20,19,"celebicum","Dicaeum","Grey-sided Flowerpecker",LC,U,-16731116
-21,19,"aeruginosum","Dicaeum","Striped Flowerpecker",LC,U,-16731116
-23,22,"ignipectus","Dicaeum","Fire-breasted Flowerpecker",LC,U,-16731116
-24,22,"vulneratum","Dicaeum","Ashy Flowerpecker",LC,U,-16731116
-25,17,"monticolum","Dicaeum","Black-sided Flowerpecker",LC,U,-16731116
-30,29,"cruentatum","Dicaeum","Scarlet-backed Flowerpecker",LC,U,-16731116
-31,29,"igniferum","Dicaeum","Black-fronted Flowerpecker",LC,U,-16731116
-33,32,"sanguinolentum","Dicaeum","Blood-breasted Flowerpecker",LC,U,-16731116
-34,32,"nitidum","Dicaeum","Louisiade Flowerpecker",LC,U,-16731116
-37,36,"erythrorhynchos","Dicaeum","Pale-billed Flowerpecker",LC,U,-16731116
-38,36,"nehrkorni","Dicaeum","Crimson-crowned Flowerpecker",LC,U,-16731116
-39,35,"tristrami","Dicaeum","Mottled Flowerpecker",LC,U,-16731116
-42,41,"concolor","Dicaeum","Plain Flowerpecker",LC,U,-16731116
-43,41,"pygmaeum","Dicaeum","Pygmy Flowerpecker",LC,U,-16731116
-44,40,"haematostictum","Dicaeum","Visayan Flowerpecker",VU,U,-11184866
-46,45,"nigrilore","Dicaeum","Olive-capped Flowerpecker",LC,U,-16731116
-47,45,"annae","Dicaeum","Golden-rumped Flowerpecker",LC,U,-16731116
-50,49,"trigonostigma","Dicaeum","Orange-bellied Flowerpecker",LC,U,-16731116
-51,49,"australe","Dicaeum","Red-striped Flowerpecker",LC,U,-16731116
-52,48,"aureolimbatum","Dicaeum","Yellow-sided Flowerpecker",LC,U,-16731116
+11,10,"lamottei","Kassina","",VU,D,-11184866
+12,10,"maculosa","Kassina","",LC,U,-16731116
+13,9,"maculata","Kassina","",LC,U,-16731116
+14,8,"somalica","Kassina","",LC,U,-16731116
+17,16,"cassinoides","Kassina","Silver Running Frog",LC,S,-16731116
+18,16,"arboricola","Kassina","",VU,D,-11184866
+19,15,"schioetzi","Kassina","",LC,U,-16731116
+21,20,"kuvangensis","Kassina","",LC,S,-16731116
+22,20,"cochranae","Kassina","",NT,D,-12486656
+24,23,"fusca","Kassina","Brown Running Frog",LC,S,-16731116
+25,23,"mertensi","Kassina","",DD,U,-11513776
+26,4,"senegalensis","Kassina","",LC,S,-16731116
+27,3,"maculifer","Kassina","",LC,U,-16731116
+31,30,"kounhiensis","Paracassina","",LC,D,-16731116
+32,30,"obscura","Paracassina","",LC,D,-16731116
+33,29,"wealii","Semnodactylus","Weale's Running Frog",LC,S,-16731116
+34,28,"wittei","Kassinula","",LC,S,-16731116
+38,37,"boulengeri","Phlyctimantis","",LC,S,-16731116
+39,37,"keithae","Phlyctimantis","",VU,D,-11184866
+40,36,"leonardi","Phlyctimantis","",LC,S,-16731116
+41,35,"verrucosus","Phlyctimantis","",LC,S,-16731116
+45,44,"spinosus","Acanthixalus","",LC,D,-16731116
+46,44,"sonjae","Acanthixalus","",NT,D,-12486656
+47,43,"pictus","Callixalus","",VU,D,-11184866
+48,42,"cupreonitens","Chrysobatrachus","",DD,U,-11513776

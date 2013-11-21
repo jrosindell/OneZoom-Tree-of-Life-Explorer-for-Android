@@ -1,22 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"lamottei","Kassina","",VU,D,-11184866
-11,9,"maculosa","Kassina","",LC,U,-16731116
-12,8,"maculata","Kassina","",LC,U,-16731116
-13,7,"somalica","Kassina","",LC,U,-16731116
-16,15,"cassinoides","Kassina","Silver Running Frog",LC,S,-16731116
-17,15,"arboricola","Kassina","",VU,D,-11184866
-18,14,"schioetzi","Kassina","",LC,U,-16731116
-20,19,"kuvangensis","Kassina","",LC,S,-16731116
-21,19,"cochranae","Kassina","",NT,D,-12486656
-23,22,"fusca","Kassina","Brown Running Frog",LC,S,-16731116
-24,22,"mertensi","Kassina","",DD,U,-11513776
-25,3,"senegalensis","Kassina","",LC,S,-16731116
-26,2,"maculifer","Kassina","",LC,U,-16731116
-30,29,"kounhiensis","Paracassina","",LC,D,-16731116
-31,29,"obscura","Paracassina","",LC,D,-16731116
-32,28,"wealii","Semnodactylus","Weale's Running Frog",LC,S,-16731116
-33,27,"wittei","Kassinula","",LC,S,-16731116
-37,36,"boulengeri","Phlyctimantis","",LC,S,-16731116
-38,36,"keithae","Phlyctimantis","",VU,D,-11184866
-39,35,"leonardi","Phlyctimantis","",LC,S,-16731116
-40,34,"verrucosus","Phlyctimantis","",LC,S,-16731116
+9,8,"machadoi","Glauconycteris","Machado's Butterfly Bat",DD,U,-11513776
+10,8,"variegata","Glauconycteris","Butterfly Bat",LC,U,-16731116
+12,11,"kenyacola","Glauconycteris","Kenyan Wattled Bat",DD,U,-11513776
+13,11,"egeria","Glauconycteris","Bibundi Bat",DD,U,-11513776
+15,14,"humeralis","Glauconycteris","Allen's Spotted Bat",DD,U,-11513776
+16,14,"beatrix","Glauconycteris","Beatrix's Bat",LC,U,-16731116
+18,17,"alboguttata","Glauconycteris","Allen's Striped Bat",LC,U,-16731116
+19,17,"argentata","Glauconycteris","Silvered Bat",LC,U,-16731116
+21,20,"gleni","Glauconycteris","Glen's Wattled Bat",DD,U,-11513776
+22,20,"poensis","Glauconycteris","Abo Bat",LC,U,-16731116
+23,3,"superba","Glauconycteris","Pied Bat",LC,U,-16731116
+26,25,"wintoni","Laephotis","De Winton's Long-eared Bat",LC,U,-16731116
+27,25,"botswanae","Laephotis","Botswanan Long-eared Bat",LC,U,-16731116
+29,28,"angolensis","Laephotis","Angolan Long-eared Bats",DD,U,-11513776
+30,28,"namibensis","Laephotis","Namib Long-eared Bat",LC,S,-16731116
+31,1,"hemprichii","Otonycteris","Desert Long-eared Bat",LC,U,-16731116
+38,37,"finlaysoni","Vespadelus","Finlayson's Cave Bat",LC,S,-16731116
+39,37,"troughtoni","Vespadelus","Eastern Cave Bat",LC,S,-16731116
+41,40,"pumilus","Vespadelus","Eastern Forest Bat",LC,D,-16731116
+42,40,"caurinus","Vespadelus","Northern Cave Bat",LC,S,-16731116
+43,35,"darlingtoni","Vespadelus","Large Forest Bat",LC,S,-16731116
+44,34,"douglasorum","Vespadelus","Yellow-lipped Cave Bat",LC,U,-16731116
+47,46,"regulus","Vespadelus","Southern Forest Bat",LC,S,-16731116
+48,46,"vulturnus","Vespadelus","Little Forest Bat",LC,D,-16731116
+49,45,"baverstocki","Vespadelus","Inland Forest Bat",LC,S,-16731116
+51,50,"robustula","Tylonycteris","Greater Bamboo Bat",LC,U,-16731116
+52,50,"pachypus","Tylonycteris","Lesser Bamboo Bat",LC,U,-16731116

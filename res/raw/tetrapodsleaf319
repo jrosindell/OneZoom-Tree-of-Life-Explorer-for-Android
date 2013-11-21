@@ -1,105 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"fantastica","Ranitomeya","Red-headed Poison Frog",LC,S,-16731116
-17,15,"minuta","Ranitomeya","Blue-bellied Poison Frog",LC,U,-16731116
-18,14,"rubrocephala","Ranitomeya","",DD,U,-11513776
-20,19,"bombetes","Ranitomeya","Cauca Poison Frog",EN,D,-8572416
-21,19,"biolat","Ranitomeya","",LC,S,-16731116
-23,22,"opisthomelas","Ranitomeya","Andean Poison Frog",VU,D,-11184866
-24,22,"ventrimaculata","Ranitomeya","",LC,S,-16731116
-27,26,"lamasi","Ranitomeya","Pasco Poison Frog",LC,S,-16731116
-28,26,"amazonica","Ranitomeya","",DD,U,-11513776
-29,25,"sirensis","Ranitomeya","",EN,D,-8572416
-30,10,"duellmani","Ranitomeya","",LC,S,-16731116
-36,35,"vanzolinii","Ranitomeya","",LC,S,-16731116
-37,35,"abdita","Ranitomeya","",CR,D,-3014646
-38,34,"fulgurita","Ranitomeya","Yellow-bellied Poison Frog",LC,U,-16731116
-39,33,"virolinensis","Ranitomeya","",EN,D,-8572416
-40,32,"viridis","Ranitomeya","Green Poison Frog",VU,D,-11184866
-43,42,"imitator","Ranitomeya","Mimic Poison Frog",LC,S,-16731116
-44,42,"claudiae","Ranitomeya","",DD,U,-11513776
-45,41,"variabilis","Ranitomeya","",DD,U,-11513776
-48,47,"flavovittata","Ranitomeya","",DD,U,-11513776
-49,47,"reticulata","Ranitomeya","",LC,S,-16731116
-50,46,"altobueyensis","Ranitomeya","",VU,S,-11184866
-53,52,"quinquevittatus","Adelphobates","",LC,S,-16731116
-54,52,"castaneoticus","Adelphobates","",LC,S,-16731116
-56,55,"galactonotus","Adelphobates","",LC,D,-16731116
-57,55,"captivus","Adelphobates","",NE,U,-16777216
-62,61,"tinctorius","Dendrobates","Dyeing Poison Frog",LC,S,-16731116
-63,61,"nubeculosus","Dendrobates","",DD,U,-11513776
-64,60,"leucomelas","Dendrobates","Yellow-headed Poison Frog",LC,S,-16731116
-65,59,"truncatus","Dendrobates","Yellow-striped Poison Frog",LC,S,-16731116
-66,58,"auratus","Dendrobates","Green And Black Poison Frog",LC,U,-16731116
-73,72,"histrionica","Oophaga","Harlequin Poison Frog",LC,D,-16731116
-74,72,"speciosa","Oophaga","Splendid Poison Frog",EN,D,-8572416
-75,71,"occultator","Oophaga","La Brea Poison Frog",DD,U,-11513776
-76,70,"lehmanni","Oophaga","Lehmann's Poison Frog",CR,D,-3014646
-78,77,"arborea","Oophaga","Polkadot Poison Frog",EN,D,-8572416
-79,77,"sylvatica","Oophaga","",NT,D,-12486656
-80,68,"granulifera","Oophaga","Granular Poison Frog",VU,D,-11184866
-82,81,"vicentei","Oophaga","Vicente's Poison Frog",DD,U,-11513776
-83,81,"pumilio","Oophaga","Strawberry Poison Frog",LC,D,-16731116
-84,4,"steyermarki","Minyobates","",CR,D,-3014646
-89,88,"terribilis","Phyllobates","Golden Poison Frog",EN,D,-8572416
-90,88,"lugubris","Phyllobates","Lovely Poison Frog",LC,U,-16731116
-91,87,"vittatus","Phyllobates","Golfodulcean Poison Frog",EN,D,-8572416
-92,86,"aurotaenia","Phyllobates","Kokoe Poison Frog",NT,D,-12486656
-93,85,"bicolor","Phyllobates","Black-legged Poison Frog",NT,D,-12486656
-102,101,"caeruleodactylus","Allobates","",DD,U,-11513776
-103,101,"olfersioides","Allobates","",VU,D,-11184866
-104,100,"picachos","Allobates","",DD,U,-11513776
-106,105,"kingsburyi","Allobates","",EN,D,-8572416
-107,105,"goianus","Allobates","",DD,U,-11513776
-111,110,"trilineatus","Allobates","",LC,S,-16731116
-112,110,"mandelorum","Allobates","",EN,D,-8572416
-114,113,"alessandroi","Allobates","",DD,U,-11513776
-115,113,"masniger","Allobates","",DD,U,-11513776
-116,108,"gasconi","Allobates","",DD,U,-11513776
-120,119,"chalcopis","Allobates","Martinique Volcano Frog",VU,S,-11184866
-121,119,"ranoides","Allobates","",EN,D,-8572416
-122,118,"humilis","Allobates","",VU,S,-11184866
-123,117,"bromelicola","Allobates","",DD,U,-11513776
-132,131,"baeobatrachus","Anomaloglossus","",DD,S,-11513776
-133,131,"roraima","Anomaloglossus","",DD,U,-11513776
-134,130,"tamacuarensis","Anomaloglossus","",DD,U,-11513776
-135,129,"tepuyensis","Anomaloglossus","",DD,U,-11513776
-137,136,"lacrimosus","Anomaloglossus","",DD,U,-11513776
-138,136,"beebei","Anomaloglossus","",VU,S,-11184866
-140,139,"praderioi","Anomaloglossus","",DD,U,-11513776
-141,139,"stepheni","Anomaloglossus","",LC,S,-16731116
-143,142,"murisipanensis","Anomaloglossus","",VU,S,-11184866
-144,142,"parimae","Anomaloglossus","",DD,U,-11513776
-150,149,"atopoglossus","Anomaloglossus","",DD,U,-11513776
-151,149,"degranvillei","Anomaloglossus","",LC,S,-16731116
-153,152,"wothuja","Anomaloglossus","",DD,U,-11513776
-154,152,"shrevei","Anomaloglossus","",DD,U,-11513776
-155,147,"ayarzaguenai","Anomaloglossus","",DD,U,-11513776
-156,146,"triunfo","Anomaloglossus","",DD,U,-11513776
-158,157,"guanayensis","Anomaloglossus","",DD,U,-11513776
-159,157,"parkerae","Anomaloglossus","",DD,U,-11513776
-161,160,"pseudopalmatus","Rheobates","",DD,U,-11513776
-162,160,"palmatus","Rheobates","",LC,S,-16731116
-171,170,"oblitterata","Mannophryne","",DD,U,-11513776
-172,170,"lamarcai","Mannophryne","",CR,D,-3014646
-173,169,"collaris","Mannophryne","",EN,D,-8572416
-174,168,"trinitatis","Mannophryne","Yellow-throated Frog",VU,D,-11184866
-175,167,"olmonae","Mannophryne","Bloody Bay Poison Frog",CR,D,-3014646
-179,178,"cordilleriana","Mannophryne","",CR,S,-3014646
-180,178,"larandina","Mannophryne","",DD,U,-11513776
-181,177,"riveroi","Mannophryne","",EN,D,-8572416
-182,176,"neblina","Mannophryne","",CR,D,-3014646
-184,183,"caquetio","Mannophryne","",CR,D,-3014646
-185,183,"yustizi","Mannophryne","",EN,D,-8572416
-186,164,"herminae","Mannophryne","",NT,D,-12486656
-195,194,"saltuensis","Aromobates","",EN,D,-8572416
-196,194,"haydeeae","Aromobates","",EN,D,-8572416
-197,193,"duranti","Aromobates","",EN,D,-8572416
-199,198,"nocturnus","Aromobates","Skunk Frog",CR,D,-3014646
-200,198,"alboguttatus","Aromobates","",EN,D,-8572416
-203,202,"serranus","Aromobates","",EN,D,-8572416
-204,202,"orostoma","Aromobates","",EN,D,-8572416
-205,201,"meridensis","Aromobates","",CR,D,-3014646
-206,190,"molinarii","Aromobates","",EN,D,-8572416
-207,189,"mayorgai","Aromobates","",EN,D,-8572416
-208,188,"capurinensis","Aromobates","",DD,U,-11513776
-209,187,"leopardalis","Aromobates","",CR,D,-3014646
+10,9,"borroloola","Gehyra","",NE,U,-16777216
+11,9,"pilbara","Gehyra","",NE,U,-16777216
+12,8,"oceanica","Gehyra","",NE,U,-16777216
+13,7,"vorax","Gehyra","",NE,U,-16777216
+15,14,"australis","Gehyra","",NE,U,-16777216
+16,14,"pamela","Gehyra","",NE,U,-16777216
+19,18,"variegata","Gehyra","",NE,U,-16777216
+20,18,"nana","Gehyra","",NE,U,-16777216
+21,17,"mutilata","Gehyra","",NE,U,-16777216
+22,4,"dubia","Gehyra","",NE,U,-16777216
+29,28,"punctatus","Pachydactylus","",NE,U,-16777216
+30,28,"rugosus","Pachydactylus","",NE,U,-16777216
+31,27,"capensis","Pachydactylus","",NE,U,-16777216
+32,26,"vanzyli","Pachydactylus","",NE,U,-16777216
+33,25,"bibroni","Chondrodactylus","",NE,U,-16777216
+34,24,"barnardi","Rhoptropus","",NE,U,-16777216
+35,23,"tuberculosus","Elasmodactylus","",NE,U,-16777216
+36,2,"annularis","Tarentola","",NE,U,-16777216
+37,1,"maculata","Geckolepis","",NE,U,-16777216
+41,40,"borbonica","Phelsuma","",NE,U,-16777216
+42,40,"cepediana","Phelsuma","",NE,U,-16777216
+43,39,"madagascariensis","Phelsuma","",NE,U,-16777216
+44,38,"lineata","Phelsuma","",NE,U,-16777216

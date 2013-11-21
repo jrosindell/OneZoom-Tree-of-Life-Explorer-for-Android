@@ -1,104 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"canadensis","Sakesphorus","Black-crested Antshrike",LC,U,-16731116
-12,10,"luctuosus","Sakesphorus","Glossy Antshrike",LC,U,-16731116
-13,9,"cristatus","Sakesphorus","Silvery-cheeked Antshrike",LC,U,-16731116
-22,21,"atricapillus","Herpsilochmus","Black-capped Antwren",LC,U,-16731116
-23,21,"gentryi","Herpsilochmus","Ancient Antwren",NT,U,-12486656
-24,20,"pectoralis","Herpsilochmus","Pectoral Antwren",VU,U,-11184866
-26,25,"motacilloides","Herpsilochmus","Creamy-bellied Antwren",LC,U,-16731116
-27,25,"parkeri","Herpsilochmus","Ash-throated Antwren",EN,U,-8572416
-30,29,"dorsimaculatus","Herpsilochmus","Spot-backed Antwren",LC,U,-16731116
-31,29,"dugandi","Herpsilochmus","Dugand's Antwren",LC,U,-16731116
-32,28,"stictocephalus","Herpsilochmus","Todd's Antwren",LC,U,-16731116
-35,34,"rufimarginatus","Herpsilochmus","Rufous-winged Antwren",LC,U,-16731116
-36,34,"sellowi","Herpsilochmus","Caatinga Antwren",NT,U,-12486656
-37,33,"pileatus","Herpsilochmus","Bahia Antwren",VU,U,-11184866
-40,39,"axillaris","Herpsilochmus","Yellow-breasted Antwren",LC,U,-16731116
-41,39,"sticturus","Herpsilochmus","Spot-tailed Antwren",LC,U,-16731116
-43,42,"longirostris","Herpsilochmus","Large-billed Antwren",LC,U,-16731116
-44,42,"roraimae","Herpsilochmus","Roraiman Antwren",LC,U,-16731116
-49,48,"xanthopterus","Dysithamnus","Rufous-backed Antvireo",LC,U,-16731116
-50,48,"plumbeus","Dysithamnus","Plumbeous Antvireo",VU,U,-11184866
-51,47,"mentalis","Dysithamnus","Plain Antvireo",LC,U,-16731116
-52,46,"stictothorax","Dysithamnus","Spot-breasted Antvireo",NT,U,-12486656
-55,54,"striaticeps","Dysithamnus","Streak-crowned Antvireo",LC,U,-16731116
-56,54,"occidentalis","Dysithamnus","Bicoloured Antvireo",VU,U,-11184866
-57,53,"leucostictus","Dysithamnus","White-streaked Antvireo",LC,U,-16731116
-58,14,"puncticeps","Dysithamnus","Spot-crowned Antvireo",LC,U,-16731116
-65,64,"viridis","Frederickena","Black-throated Antshrike",LC,U,-16731116
-66,64,"unduligera","Frederickena","Undulated Antshrike",LC,U,-16731116
-68,67,"leachii","Mackenziaena","Large-tailed Antshrike",LC,U,-16731116
-69,67,"severa","Mackenziaena","Tufted Antshrike",LC,U,-16731116
-71,70,"guttatus","Hypoedaleus","Spot-backed Antshrike",LC,U,-16731116
-72,70,"cinerea","Batara","Giant Antshrike",LC,U,-16731116
-75,74,"sanctaemariae","Cymbilaimus","Bamboo Antshrike",LC,U,-16731116
-76,74,"lineatus","Cymbilaimus","Fasciated Antshrike",LC,U,-16731116
-77,73,"major","Taraba","Great Antshrike",LC,U,-16731116
-79,78,"fluminensis","Myrmotherula","Rio de Janeiro Antwren",CR,U,-3014646
-80,78,"cincta","Dichrozona","Banded Antbird",LC,U,-16731116
-85,84,"ardesiacus","Thamnomanes","Dusky-throated Antshrike",LC,U,-16731116
-86,84,"saturninus","Thamnomanes","Saturnine Antshrike",LC,U,-16731116
-88,87,"schistogynus","Thamnomanes","Bluish-slate Antshrike",LC,U,-16731116
-89,87,"caesius","Thamnomanes","Cinereous Antshrike",LC,U,-16731116
-90,82,"hauxwelli","Myrmotherula","Plain-throated Antwren",LC,U,-16731116
-91,81,"margaritatus","Megastictus","Pearly Antshrike",LC,U,-16731116
-102,101,"melanogaster","Formicivora","Black-bellied Antwren",LC,U,-16731116
-103,101,"erythronotos","Formicivora","Black-hooded Antwren",EN,U,-8572416
-105,104,"grisea","Formicivora","White-fringed Antwren",LC,U,-16731116
-106,104,"rufa","Formicivora","Rusty-backed Antwren",LC,U,-16731116
-107,99,"intermedia","Formicivora","Northern White-fringed Antwren",_U,[,-16777216
-110,109,"iheringi","Formicivora","Narrow-billed Antwren",NT,U,-12486656
-111,109,"serrana","Formicivora","Serra Antwren",LC,U,-16731116
-112,108,"littoralis","Formicivora","Restinga Antwren",CR,U,-3014646
-113,97,"iheringi","Myrmotherula","Ihering's Antwren",LC,U,-16731116
-115,114,"axillaris","Myrmotherula","White-flanked Antwren",LC,U,-16731116
-116,114,"longipennis","Myrmotherula","Long-winged Antwren",LC,U,-16731116
-120,119,"minor","Myrmotherula","Salvadori's Antwren",VU,U,-11184866
-121,119,"sunensis","Myrmotherula","Rio Suno Antwren",LC,U,-16731116
-122,118,"urosticta","Myrmotherula","Band-tailed Antwren",VU,U,-11184866
-125,124,"behni","Myrmotherula","Plain-winged Antwren",LC,U,-16731116
-126,124,"grisea","Myrmotherula","Ashy Antwren",NT,U,-12486656
-127,123,"schisticolor","Myrmotherula","Slaty Antwren",LC,U,-16731116
-129,128,"guttata","Myrmotherula","Rufous-bellied Antwren",LC,U,-16731116
-130,128,"luctuosa","Myrmotherula","Silvery-flanked Antwren",_U,[,-16777216
-132,131,"menetriesii","Myrmotherula","Grey Antwren",LC,U,-16731116
-133,131,"assimilis","Myrmotherula","Leaden Antwren",LC,U,-16731116
-138,137,"ambigua","Myrmotherula","Yellow-throated Antwren",LC,U,-16731116
-139,137,"sclateri","Myrmotherula","Sclater's Antwren",LC,U,-16731116
-141,140,"ignota","Myrmotherula","Moustached Antwren",LC,U,-16731116
-142,140,"brachyura","Myrmotherula","Pygmy Antwren",LC,U,-16731116
-145,144,"longicauda","Myrmotherula","Stripe-chested Antwren",LC,U,-16731116
-146,144,"klagesi","Myrmotherula","Klages's Antwren",NT,U,-12486656
-147,143,"unicolor","Myrmotherula","Unicoloured Antwren",NT,U,-12486656
-151,150,"surinamensis","Myrmotherula","Guianan Streaked Antwren",LC,U,-16731116
-152,150,"pacifica","Myrmotherula","Pacific Antwren",LC,U,-16731116
-153,149,"multostriata","Myrmotherula","Amazonian Streaked Antwren",LC,U,-16731116
-155,154,"hemileucus","Myrmochanes","Black-and-white Antbird",LC,U,-16731116
-156,154,"cherriei","Myrmotherula","Cherrie's Antwren",LC,U,-16731116
-166,165,"haematonota","Epinecrophylla","Stipple-throated Antwren",LC,U,-16731116
-167,165,"spodionota","Epinecrophylla","Foothill Antwren",LC,U,-16731116
-168,164,"gutturalis","Myrmotherula","Brown-bellied Antwren",LC,U,-16731116
-170,169,"fjeldsaai","Epinecrophylla","Brown-backed Antwren",LC,U,-16731116
-171,169,"ornata","Epinecrophylla","Ornate Antwren",LC,U,-16731116
-174,173,"erythrura","Epinecrophylla","Rufous-tailed Antwren",LC,U,-16731116
-175,173,"acutirostris","Stymphalornis","Parana Antwren",EN,U,-8572416
-176,172,"leucophthalma","Epinecrophylla","White-eyed Antwren",LC,U,-16731116
-177,161,"fulviventris","Epinecrophylla","Checker-throated Antwren",LC,U,-16731116
-178,160,"niger","Neoctantes","Black Bushbird",LC,U,-16731116
-181,180,"gularis","Myrmotherula","Star-throated Antwren",LC,U,-16731116
-182,180,"snowi","Myrmotherula","Alagoas Antwren",CR,U,-3014646
-183,179,"strigilatus","Myrmorchilus","Stripe-backed Antbird",LC,U,-16731116
-187,186,"alixii","Clytoctantes","Recurve-billed Bushbird",EN,U,-8572416
-188,186,"atrogularis","Clytoctantes","Rondonia Bushbird",VU,U,-11184866
-189,185,"pelzelni","Myrmeciza","Grey-bellied Antbird",LC,U,-16731116
-190,184,"atrothorax","Myrmeciza","Black-throated Antbird",LC,U,-16731116
-191,157,"quixensis","Microrhopias","Dot-winged Antwren",LC,U,-16731116
-194,193,"stellaris","Pygiptila","Spot-winged Antshrike",LC,U,-16731116
-195,193,"anabatinus","Thamnistes","Russet Antshrike",LC,U,-16731116
-196,192,"torquata","Myrmornis","Wing-banded Antbird",LC,U,-16731116
-200,199,"humeralis","Terenura","Chestnut-shouldered Antwren",LC,U,-16731116
-201,199,"maculata","Terenura","Streak-capped Antwren",LC,U,-16731116
-203,202,"callinota","Terenura","Rufous-rumped Antwren",LC,U,-16731116
-204,202,"sharpei","Terenura","Yellow-rumped Antwren",EN,U,-8572416
-206,205,"spodioptila","Terenura","Ash-winged Antwren",LC,U,-16731116
-207,205,"sicki","Terenura","Orange-bellied Antwren",EN,U,-8572416
+9,8,"buckleyi","Eleutherodactylus","",NE,U,-16777216
+10,8,"curtipes","Eleutherodactylus","",NE,U,-16777216
+11,7,"juanchoi","Eleutherodactylus","",NE,U,-16777216
+12,6,"cristinae","Eleutherodactylus","",NE,U,-16777216
+14,13,"cryophilius","Eleutherodactylus","",NE,U,-16777216
+15,13,"savagei","Eleutherodactylus","",NE,U,-16777216
+17,16,"signifer","Eleutherodactylus","",NE,U,-16777216
+18,16,"duende","Eleutherodactylus","",NE,U,-16777216
+23,22,"gentryi","Eleutherodactylus","",NE,U,-16777216
+24,22,"xestus","Eleutherodactylus","",NE,U,-16777216
+25,21,"satagius","Eleutherodactylus","",NE,U,-16777216
+26,20,"vanadise","Eleutherodactylus","",NE,U,-16777216
+27,19,"mars","Eleutherodactylus","",NE,U,-16777216
+32,31,"discoidalis","Eleutherodactylus","",NE,U,-16777216
+33,31,"madidi","Eleutherodactylus","",NE,U,-16777216
+34,30,"pulvinatus","Eleutherodactylus","",NE,U,-16777216
+37,36,"cruralis","Eleutherodactylus","",NE,U,-16777216
+38,36,"lemur","Eleutherodactylus","",NE,U,-16777216
+39,35,"penelopus","Eleutherodactylus","",NE,U,-16777216
+44,43,"ganonotus","Eleutherodactylus","",NE,U,-16777216
+45,43,"ibischi","Eleutherodactylus","",NE,U,-16777216
+46,42,"silverstonei","Eleutherodactylus","",NE,U,-16777216
+47,41,"zongoensis","Eleutherodactylus","",NE,U,-16777216
+48,40,"platychilus","Eleutherodactylus","",NE,U,-16777216
+52,51,"melanoproctus","Eleutherodactylus","",NE,U,-16777216
+53,51,"fetosus","Eleutherodactylus","",NE,U,-16777216
+55,54,"pirrensis","Eleutherodactylus","",NE,U,-16777216
+56,54,"randorum","Eleutherodactylus","",NE,U,-16777216
+58,57,"polemistes","Eleutherodactylus","",NE,U,-16777216
+59,57,"piceus","Eleutherodactylus","",NE,U,-16777216
+60,0,"manezinho","Eleutherodactylus","",NE,U,-16777216

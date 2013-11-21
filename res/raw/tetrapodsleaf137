@@ -1,28 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"pusilla","Calidris","Semipalmated Sandpiper",LC,U,-16731116
-12,10,"mauri","Calidris","Western Sandpiper",LC,U,-16731116
-13,9,"acuminata","Calidris","Sharp-tailed Sandpiper",LC,U,-16731116
-14,8,"ruficollis","Calidris","Red-necked Stint",LC,U,-16731116
-18,17,"minuta","Calidris","Little Stint",LC,U,-16731116
-19,17,"alba","Calidris","Sanderling",LC,U,-16731116
-20,16,"fuscicollis","Calidris","White-rumped Sandpiper",LC,U,-16731116
-21,15,"minutilla","Calidris","Least Sandpiper",LC,U,-16731116
-24,23,"ptilocnemis","Calidris","Rock Sandpiper",LC,U,-16731116
-25,23,"maritima","Calidris","Purple Sandpiper",LC,U,-16731116
-26,22,"alpina","Calidris","Dunlin",LC,U,-16731116
-30,29,"subruficollis","Tryngites","Buff-breasted Sandpiper",NT,U,-12486656
-31,29,"bairdii","Calidris","Baird's Sandpiper",LC,U,-16731116
-32,28,"himantopus","Calidris","Stilt Sandpiper",LC,U,-16731116
-33,27,"melanotos","Calidris","Pectoral Sandpiper",LC,U,-16731116
-35,34,"temminckii","Calidris","Temminck's Stint",LC,U,-16731116
-36,34,"subminuta","Calidris","Long-toed Stint",LC,U,-16731116
-37,3,"ferruginea","Calidris","Curlew Sandpiper",LC,U,-16731116
-42,41,"tenuirostris","Calidris","Great Knot",VU,U,-11184866
-43,41,"virgata","Aphriza","Surfbird",LC,U,-16731116
-44,40,"canutus","Calidris","Red Knot",LC,U,-16731116
-45,39,"cancellata","Prosobonia","Tuamotu Sandpiper",EN,U,-8572416
-47,46,"falcinellus","Limicola","Broad-billed Sandpiper",LC,U,-16731116
-48,46,"pugnax","Philomachus","Ruff",LC,U,-16731116
-49,1,"pygmeus","Eurynorhynchus","Spoon-billed Sandpiper",CR,U,-3014646
-51,50,"melanocephala","Arenaria","Black Turnstone",LC,U,-16731116
-52,50,"interpres","Arenaria","Ruddy Turnstone",LC,U,-16731116
+9,8,"australis","Leucosticte","Brown-capped Rosy-finch",LC,U,-16731116
+10,8,"atrata","Leucosticte","Black Rosy-finch",LC,U,-16731116
+11,7,"tephrocotis","Leucosticte","Gray-crowned Rosy-finch",LC,U,-16731116
+12,6,"arctoa","Leucosticte","Asian Rosy-finch",LC,U,-16731116
+14,13,"brandti","Leucosticte","Black-headed Mountain-finch",LC,U,-16731116
+15,13,"sillemi","Leucosticte","Sillem's Mountain-finch",DD,U,-11513776
+16,4,"nemoricola","Leucosticte","Plain Mountain-finch",LC,U,-16731116
+20,19,"nipalensis","Carpodacus","Dark-breasted Rosefinch",LC,U,-16731116
+21,19,"rodopeplus","Carpodacus","Spot-winged Rosefinch",LC,U,-16731116
+23,22,"rhodochlamys","Carpodacus","Red-mantled Rosefinch",LC,U,-16731116
+24,22,"rubescens","Carpodacus","Crimson Rosefinch",LC,U,-16731116
+26,25,"eos","Carpodacus","Pink-rumped Rosefinch",LC,U,-16731116
+27,25,"synoicus","Carpodacus","Pale Rosefinch",LC,U,-16731116
+32,31,"roborowskii","Carpodacus","Tibetan Rosefinch",LC,U,-16731116
+33,31,"psittacea","Psittirostra","Ou",CR,U,-3014646
+34,30,"erythrinus","Carpodacus","Common Rosefinch",LC,U,-16731116
+35,29,"mexicanus","Carpodacus","House Finch",LC,U,-16731116
+38,37,"cassinii","Carpodacus","Cassin's Finch",NT,U,-12486656
+39,37,"purpureus","Carpodacus","Purple Finch",LC,U,-16731116
+40,36,"puniceus","Carpodacus","Red-fronted Rosefinch",LC,U,-16731116
+45,44,"rodochroa","Carpodacus","Pink-browed Rosefinch",LC,U,-16731116
+46,44,"vinaceus","Carpodacus","Vinaceous Rosefinch",LC,U,-16731116
+47,43,"edwardsii","Carpodacus","Dark-rumped Rosefinch",LC,U,-16731116
+49,48,"rubicilloides","Carpodacus","Streaked Rosefinch",LC,U,-16731116
+50,48,"rubicilla","Carpodacus","Great Rosefinch",LC,U,-16731116
+53,52,"trifasciatus","Carpodacus","Three-banded Rosefinch",LC,U,-16731116
+54,52,"thura","Carpodacus","White-browed Rosefinch",LC,U,-16731116
+56,55,"pulcherrimus","Carpodacus","Beautiful Rosefinch",LC,U,-16731116
+57,55,"roseus","Carpodacus","Pallas's Rosefinch",LC,U,-16731116
+61,60,"concolor","Neospiza","Sao Tome Grosbeak",CR,U,-3014646
+62,60,"sipahi","Haematospiza","Scarlet Finch",LC,U,-16731116
+63,59,"burtoni","Callacanthis","Spectacled Finch",LC,U,-16731116
+64,58,"sibiricus","Uragus","Long-tailed Rosefinch",LC,U,-16731116

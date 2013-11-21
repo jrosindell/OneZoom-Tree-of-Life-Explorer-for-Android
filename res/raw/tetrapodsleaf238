@@ -1,59 +1,36 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"intectus","Handleyomys","Colombian Rice Rat",LC,D,-16731116
-14,12,"talamancae","Oryzomys","",NE,U,-16777216
-15,11,"subflavus","Oryzomys","",NE,U,-16777216
-17,16,"chapmani","Oryzomys","",NE,U,-16777216
-18,16,"levipes","Oryzomys","",NE,U,-16777216
-21,20,"saturatior","Oryzomys","",NE,U,-16777216
-22,20,"devius","Oryzomys","",NE,U,-16777216
-23,19,"xanthaeolus","Oryzomys","",NE,U,-16777216
-26,25,"gorgasi","Oryzomys","Gorgas's Rice Rat",EN,D,-8572416
-27,25,"bolivaris","Oryzomys","",NE,U,-16777216
-29,28,"yunganus","Oryzomys","",NE,U,-16777216
-30,28,"laticeps","Oryzomys","",NE,U,-16777216
-33,32,"macconnelli","Oryzomys","",NE,U,-16777216
-34,32,"nitidus","Oryzomys","",NE,U,-16777216
-35,31,"alfaroi","Oryzomys","",NE,U,-16777216
-42,41,"albigularis","Oryzomys","",NE,U,-16777216
-43,41,"meridensis","Oryzomys","",NE,U,-16777216
-44,40,"caracolus","Oryzomys","",NE,U,-16777216
-45,39,"hammondi","Oryzomys","",NE,U,-16777216
-46,38,"palustris","Oryzomys","Marsh Rice Rat",LC,S,-16731116
-47,37,"russatus","Oryzomys","",NE,U,-16777216
-49,48,"melanotis","Oryzomys","",NE,U,-16777216
-50,48,"rhabdops","Oryzomys","",NE,U,-16777216
-54,53,"galapagoensis","Oryzomys","",NE,U,-16777216
-55,53,"legatus","Oryzomys","",NE,U,-16777216
-57,56,"auriventer","Oryzomys","",NE,U,-16777216
-58,56,"angouya","Oryzomys","",NE,U,-16777216
-61,60,"balneator","Oryzomys","",NE,U,-16777216
-62,60,"lamia","Oryzomys","",NE,U,-16777216
-63,59,"dimidiatus","Oryzomys","Thomas's Rice Rat",LC,U,-16731116
-67,66,"megacephalus","Oryzomys","",NE,U,-16777216
-68,66,"perenensis","Oryzomys","",NE,U,-16777216
-69,65,"rostratus","Oryzomys","",NE,U,-16777216
-70,64,"couesi","Oryzomys","Coues's Rice Rat",LC,U,-16731116
-72,71,"polius","Oryzomys","",NE,U,-16777216
-73,71,"keaysi","Oryzomys","",NE,U,-16777216
-77,76,"chinchilloides","Euneomys","Patagonian Chincilla Mouse",DD,U,-11513776
-78,76,"mordax","Euneomys","Biting Chincilla Mouse",LC,S,-16731116
-79,75,"petersoni","Euneomys","Peterson's Chincilla Mouse",LC,S,-16731116
-80,74,"fossor","Euneomys","Burrowing Euneomys",DD,U,-11513776
-87,86,"flavicans","Oecomys","Yellow Arboreal Rice Rat",LC,S,-16731116
-88,86,"roberti","Oecomys","Robert's Arboreal Rice Rat",LC,U,-16731116
-89,85,"rutilus","Oecomys","Red Arboreal Rice Rat",LC,U,-16731116
-90,84,"concolor","Oecomys","Unicolored Rice Rat",LC,U,-16731116
-93,92,"paricola","Oecomys","Brazilian Arboreal Rice Rat",DD,D,-11513776
-94,92,"auyantepui","Oecomys","",LC,U,-16731116
-95,91,"cleberi","Oecomys","Cleber's Arboreal Rice Rat",DD,D,-11513776
-98,97,"trinitatis","Oecomys","Long-furred Rice Rat",LC,S,-16731116
-99,97,"catherinae","Oecomys","",LC,D,-16731116
-100,96,"phaeotis","Oecomys","Dusky Arboreal Rice Rat",LC,S,-16731116
-105,104,"mamorae","Oecomys","Mamore Arboreal Rice Rat",LC,S,-16731116
-106,104,"rex","Oecomys","King Arboreal Rice Rat",LC,S,-16731116
-107,103,"superans","Oecomys","Foothill Arboreal Rice Rat",LC,S,-16731116
-108,102,"speciosus","Oecomys","Arboreal Rice Rat",LC,S,-16731116
-109,101,"bicolor","Oecomys","Bicolored Arboreal Rice Rat",LC,U,-16731116
-112,111,"brevicauda","Zygodontomys","Short-tailed Cane Mouse",LC,S,-16731116
-113,111,"brunneus","Zygodontomys","Brown Cane Mouse",LC,S,-16731116
-114,110,"ruschii","Abrawayaomys","Rushi's Rat",LC,U,-16731116
+8,7,"rufiventris","Neoxolmis","Chocolate-vented Tyrant",LC,U,-16731116
+9,7,"rubetra","Xolmis","Rusty-backed Monjita",LC,U,-16731116
+10,6,"coronatus","Xolmis","Black-crowned Monjita",LC,U,-16731116
+13,12,"salinarum","Xolmis","Salinas Monjita",NT,U,-12486656
+14,12,"cinereus","Xolmis","Grey Monjita",LC,U,-16731116
+15,11,"vetula","Muscipipra","Shear-tailed Grey-tyrant",LC,U,-16731116
+19,18,"micropterus","Agriornis","Grey-bellied Shrike-tyrant",LC,U,-16731116
+20,18,"montanus","Agriornis","Black-billed Shrike-tyrant",LC,U,-16731116
+22,21,"albicauda","Agriornis","White-tailed Shrike-tyrant",VU,U,-11184866
+23,21,"lividus","Agriornis","Great Shrike-tyrant",LC,U,-16731116
+24,16,"murinus","Agriornis","Lesser Shrike-tyrant",LC,U,-16731116
+29,28,"striaticollis","Myiotheretes","Streak-throated Bush-tyrant",LC,U,-16731116
+30,28,"fuscorufus","Myiotheretes","Rufous-bellied Bush-tyrant",LC,U,-16731116
+31,27,"fumigatus","Myiotheretes","Smoky Bush-tyrant",LC,U,-16731116
+32,26,"pernix","Myiotheretes","Santa Marta Bush-tyrant",EN,U,-8572416
+34,33,"dominicanus","Xolmis","Black-and-white Monjita",VU,U,-11184866
+35,33,"pyrope","Xolmis","Fire-eyed Diucon",LC,U,-16731116
+37,36,"velatus","Xolmis","White-rumped Monjita",LC,U,-16731116
+38,36,"irupero","Xolmis","White Monjita",LC,U,-16731116
+40,39,"rufipennis","Polioxolmis","Rufous-webbed Bush-tyrant",LC,U,-16731116
+41,39,"erythropygius","Cnemarchus","Red-rumped Bush-tyrant",LC,U,-16731116
+49,48,"capistratus","Muscisaxicola","Cinnamon-bellied Ground-tyrant",LC,U,-16731116
+50,48,"frontalis","Muscisaxicola","Black-fronted Ground-tyrant",LC,U,-16731116
+52,51,"maclovianus","Muscisaxicola","Dark-faced Ground-tyrant",LC,U,-16731116
+53,51,"alpinus","Muscisaxicola","Plain-capped Ground-tyrant",LC,U,-16731116
+54,46,"albilora","Muscisaxicola","White-browed Ground-tyrant",LC,U,-16731116
+58,57,"albifrons","Muscisaxicola","White-fronted Ground-tyrant",LC,U,-16731116
+59,57,"rufivertex","Muscisaxicola","Rufous-naped Ground-tyrant",LC,U,-16731116
+61,60,"flavinucha","Muscisaxicola","Ochre-naped Ground-tyrant",LC,U,-16731116
+62,60,"cinereus","Muscisaxicola","Cinereous Ground-tyrant",LC,U,-16731116
+63,55,"juninensis","Muscisaxicola","Puna Ground-tyrant",LC,U,-16731116
+64,44,"maculirostris","Muscisaxicola","Spot-billed Ground-tyrant",LC,U,-16731116
+65,43,"icterophrys","Satrapa","Yellow-browed Tyrant",LC,U,-16731116
+67,66,"griseus","Muscisaxicola","Taczanowski's Ground-tyrant",LC,U,-16731116
+68,66,"fluviatilis","Muscisaxicola","Little Ground-tyrant",LC,U,-16731116

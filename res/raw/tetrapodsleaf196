@@ -1,31 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"attenuatus","Ophisaurus","Slender Glass Lizard",LC,S,-16731116
-9,7,"ventralis","Ophisaurus","Eastern Glass Lizard",LC,S,-16731116
-10,6,"compressus","Ophisaurus","Island Glass Lizard",LC,D,-16731116
-12,11,"sokolovi","Ophisaurus","",NE,U,-16777216
-13,11,"gracilis","Ophisaurus","",NE,U,-16777216
-14,4,"harti","Ophisaurus","",NE,U,-16777216
-17,16,"intermedius","Ophiodes","",NE,U,-16777216
-18,16,"vertebralis","Ophiodes","",NE,U,-16777216
-19,15,"striatus","Ophiodes","",NE,U,-16777216
-24,23,"millepunctatus","Diploglossus","",NE,U,-16777216
-25,23,"bilobatus","Diploglossus","",NE,U,-16777216
-27,26,"delasagra","Diploglossus","",NE,U,-16777216
-28,26,"pleei","Diploglossus","",NE,U,-16777216
-30,29,"darlingtoni","Diploglossus","",NE,U,-16777216
-31,29,"curtisi","Diploglossus","",NE,U,-16777216
-33,32,"fasciatus","Diploglossus","",NE,U,-16777216
-34,32,"lessonae","Diploglossus","",NE,U,-16777216
-37,36,"sepsoides","Sauresia","",NE,U,-16777216
-38,36,"haetiana","Wetmorena","",NE,U,-16777216
-39,35,"fragilis","Anguis","",NE,U,-16777216
-46,45,"occiduus","Celestus","Jamaica Giant Galliwasp",EX,U,-16777036
-47,45,"hewardii","Celestus","",NE,U,-16777216
-48,44,"badius","Celestus","",NE,U,-16777216
-50,49,"crusculus","Celestus","",NE,U,-16777216
-51,49,"barbouri","Celestus","",NE,U,-16777216
-52,42,"fowleri","Celestus","",DD,U,-11513776
-54,53,"rozellae","Celestus","",NT,D,-12486656
-55,53,"sternus","Celestus","",NE,U,-16777216
-57,56,"stenurus","Celestus","",NE,U,-16777216
-58,56,"costatus","Celestus","",NE,U,-16777216
+7,6,"mixta","Batis","Short-tailed Batis",LC,U,-16731116
+8,6,"minima","Batis","Gabon Batis",NT,U,-12486656
+9,5,"diops","Batis","Ruwenzori Batis",LC,U,-16731116
+11,10,"occulta","Batis","West African Batis",LC,U,-16731116
+12,10,"fratrum","Batis","Zululand Batis",LC,U,-16731116
+17,16,"orientalis","Batis","Grey-headed Batis",LC,U,-16731116
+18,16,"capensis","Batis","Cape Batis",LC,U,-16731116
+19,15,"perkeo","Batis","Pygmy Batis",LC,U,-16731116
+20,14,"crypta","Batis","Dark Batis",LC,U,-16731116
+21,13,"ituriensis","Batis","Ituri Batis",LC,U,-16731116
+26,25,"pririt","Batis","Pririt Batis",LC,U,-16731116
+27,25,"soror","Batis","Pale Batis",LC,U,-16731116
+28,24,"minulla","Batis","Angola Batis",LC,U,-16731116
+30,29,"senegalensis","Batis","Senegal Batis",LC,U,-16731116
+31,29,"molitor","Batis","Chinspot Batis",LC,U,-16731116
+34,33,"margaritae","Batis","Boulton's Batis",LC,U,-16731116
+35,33,"minor","Batis","Black-headed Batis",LC,U,-16731116
+36,32,"poensis","Batis","Fernando Po Batis",LC,U,-16731116
+41,40,"albifrons","Platysteira","White-fronted Wattle-eye",NT,U,-12486656
+42,40,"cyanea","Platysteira","Brown-throated Wattle-eye",LC,U,-16731116
+44,43,"peltata","Platysteira","Black-throated Wattle-eye",LC,U,-16731116
+45,43,"laticincta","Platysteira","Banded Wattle-eye",EN,U,-8572416
+49,48,"chalybea","Platysteira","Black-necked Wattle-eye",LC,U,-16731116
+50,48,"jamesoni","Platysteira","Jameson's Wattle-eye",LC,U,-16731116
+51,47,"blissetti","Platysteira","Red-cheeked Wattle-eye",LC,U,-16731116
+52,46,"concreta","Platysteira","Yellow-bellied Wattle-eye",LC,U,-16731116
+54,53,"tonsa","Platysteira","White-spotted Wattle-eye",LC,U,-16731116
+55,53,"castanea","Platysteira","Chestnut Wattle-eye",LC,U,-16731116
+56,0,"torquatus","Lanioturdus","Chatshrike",LC,U,-16731116

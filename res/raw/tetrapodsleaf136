@@ -1,90 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"antarctica","Catharacta","Southern Skua",LC,U,-16731116
-13,11,"chilensis","Catharacta","Chilean Skua",LC,U,-16731116
-14,10,"maccormicki","Catharacta","South Polar Skua",LC,U,-16731116
-17,16,"pomarinus","Stercorarius","Pomarine Jaeger",LC,U,-16731116
-18,16,"skua","Catharacta","Great Skua",LC,U,-16731116
-19,15,"lonnbergi","Catharacta","Brown Skua",LC,U,-16731116
-21,20,"longicaudus","Stercorarius","Long-tailed Jaeger",LC,U,-16731116
-22,20,"parasiticus","Stercorarius","Parasitic Jaeger",LC,U,-16731116
-23,4,"ardeola","Dromas","Crab Plover",LC,U,-16731116
-33,32,"nordmanni","Glareola","Black-winged Pratincole",NT,U,-12486656
-34,32,"cinerea","Glareola","Grey Pratincole",LC,U,-16731116
-35,31,"pratincola","Glareola","Collared Pratincole",LC,U,-16731116
-37,36,"ocularis","Glareola","Madagascar Pratincole",VU,U,-11184866
-38,36,"lactea","Glareola","Small Pratincole",LC,U,-16731116
-39,29,"maldivarum","Glareola","Oriental Pratincole",LC,U,-16731116
-40,28,"nuchalis","Glareola","Rock Pratincole",LC,U,-16731116
-41,27,"isabella","Stiltia","Australian Pratincole",LC,U,-16731116
-45,44,"somalensis","Cursorius","Somali Courser",LC,U,-16731116
-46,44,"rufus","Cursorius","Burchell's Courser",LC,U,-16731116
-47,43,"coromandelicus","Cursorius","Indian Courser",LC,U,-16731116
-49,48,"temminckii","Cursorius","Temminck's Courser",LC,U,-16731116
-50,48,"cursor","Cursorius","Cream-coloured Courser",LC,U,-16731116
-52,51,"africanus","Rhinoptilus","Double-banded Courser",LC,U,-16731116
-53,51,"cinctus","Rhinoptilus","Three-banded Courser",LC,U,-16731116
-55,54,"chalcopterus","Rhinoptilus","Bronze-winged Courser",LC,U,-16731116
-56,54,"bitorquatus","Rhinoptilus","Jerdon's Courser",CR,U,-3014646
-64,63,"castanotus","Turnix","Chestnut-backed Buttonquail",NT,U,-12486656
-65,63,"maculosus","Turnix","Red-backed Buttonquail",LC,U,-16731116
-66,62,"olivii","Turnix","Buff-breasted Buttonquail",EN,U,-8572416
-69,68,"pyrrhothorax","Turnix","Red-chested Buttonquail",LC,U,-16731116
-70,68,"everetti","Turnix","Sumba Buttonquail",VU,U,-11184866
-71,67,"varius","Turnix","Painted Buttonquail",LC,U,-16731116
-74,73,"nigricollis","Turnix","Madagascar Buttonquail",LC,U,-16731116
-75,73,"ocellatus","Turnix","Spotted Buttonquail",LC,U,-16731116
-77,76,"hottentottus","Turnix","Hottentot Buttonquail",LC,U,-16731116
-78,76,"sylvaticus","Turnix","Small Buttonquail",LC,U,-16731116
-80,79,"melanogaster","Turnix","Black-breasted Buttonquail",VU,U,-11184866
-81,79,"worcesteri","Turnix","Luzon Buttonquail",DD,U,-11513776
-84,83,"tanki","Turnix","Yellow-legged Buttonquail",LC,U,-16731116
-85,83,"suscitator","Turnix","Barred Buttonquail",LC,U,-16731116
-86,82,"velox","Turnix","Little Buttonquail",LC,U,-16731116
-87,57,"meiffrenii","Ortyxelos","Lark Buttonquail",LC,U,-16731116
-96,95,"haemastica","Limosa","Hudsonian Godwit",LC,U,-16731116
-97,95,"fedoa","Limosa","Marbled Godwit",LC,U,-16731116
-98,94,"limosa","Limosa","Black-tailed Godwit",NT,U,-12486656
-99,93,"lapponica","Limosa","Bar-tailed Godwit",LC,U,-16731116
-100,92,"minimus","Lymnocryptes","Jack Snipe",LC,U,-16731116
-107,106,"arquata","Numenius","Eurasian Curlew",NT,U,-12486656
-108,106,"minutus","Numenius","Little Curlew",LC,U,-16731116
-109,105,"madagascariensis","Numenius","Far Eastern Curlew",VU,U,-11184866
-110,104,"borealis","Numenius","Eskimo Curlew",CR,U,-3014646
-111,103,"americanus","Numenius","Long-billed Curlew",LC,U,-16731116
-114,113,"tenuirostris","Numenius","Slender-billed Curlew",CR,U,-3014646
-115,113,"phaeopus","Numenius","Whimbrel",LC,U,-16731116
-116,112,"tahitiensis","Numenius","Bristle-thighed Curlew",VU,U,-11184866
-117,101,"longicauda","Bartramia","Upland Sandpiper",LC,U,-16731116
-124,123,"gallinacea","Irediparra","Comb-crested Jacana",LC,U,-16731116
-125,123,"capensis","Microparra","Lesser Jacana",LC,U,-16731116
-126,122,"indicus","Metopidius","Bronze-winged Jacana",LC,U,-16731116
-128,127,"albinucha","Actophilornis","Madagascar Jacana",LC,U,-16731116
-129,127,"africanus","Actophilornis","African Jacana",LC,U,-16731116
-132,131,"spinosa","Jacana","Northern Jacana",LC,U,-16731116
-133,131,"jacana","Jacana","Wattled Jacana",LC,U,-16731116
-134,130,"chirurgus","Hydrophasianus","Pheasant-tailed Jacana",LC,U,-16731116
-137,136,"australis","Rostratula","Australian Painted Snipe",EN,U,-8572416
-138,136,"benghalensis","Rostratula","Greater Painted-snipe",LC,U,-16731116
-139,135,"semicollaris","Rostratula","South American Painted-snipe",LC,U,-16731116
-143,142,"orbignyianus","Thinocorus","Grey-breasted Seedsnipe",LC,U,-16731116
-144,142,"rumicivorus","Thinocorus","Least Seedsnipe",LC,U,-16731116
-146,145,"malouinus","Attagis","White-bellied Seedsnipe",LC,U,-16731116
-147,145,"gayi","Attagis","Rufous-bellied Seedsnipe",LC,U,-16731116
-148,140,"torquatus","Pedionomus","Plains-wanderer",EN,U,-8572416
-155,154,"apricaria","Pluvialis","Eurasian Golden Plover",LC,U,-16731116
-156,154,"fulva","Pluvialis","Pacific Golden Plover",LC,U,-16731116
-157,153,"dominica","Pluvialis","American Golden Plover",LC,U,-16731116
-158,152,"squatarola","Pluvialis","Grey Plover",LC,U,-16731116
-159,150,"aegyptius","Pluvianus","Egyptian Plover",LC,U,-16731116
-167,166,"senegalensis","Burhinus","Senegal Thick-knee",LC,U,-16731116
-168,166,"capensis","Burhinus","Spotted Thick-knee",LC,U,-16731116
-169,165,"vermiculatus","Burhinus","Water Thick-knee",LC,U,-16731116
-170,164,"oedicnemus","Burhinus","Eurasian Thick-knee",LC,U,-16731116
-171,163,"grallarius","Burhinus","Bush Thick-knee",NT,U,-12486656
-173,172,"bistriatus","Burhinus","Double-striped Thick-knee",LC,U,-16731116
-174,172,"superciliaris","Burhinus","Peruvian Thick-knee",LC,U,-16731116
-176,175,"recurvirostris","Esacus","Great Thick-knee",LC,U,-16731116
-177,175,"giganteus","Esacus","Beach Thick-knee",NT,U,-12486656
-180,179,"minor","Chionis","Black-faced Sheathbill",LC,U,-16731116
-181,179,"albus","Chionis","Snowy Sheathbill",LC,U,-16731116
-182,178,"socialis","Pluvianellus","Magellanic Plover",NT,U,-12486656
+7,6,"albogularis","Serinus","White-throated Canary",LC,U,-16731116
+8,6,"reichardi","Serinus","Reichard's Seedeater",LC,U,-16731116
+9,5,"syriacus","Serinus","Syrian Serin",VU,U,-11184866
+12,11,"sulphuratus","Serinus","Brimstone Canary",LC,U,-16731116
+13,11,"koliensis","Serinus","Papyrus Canary",LC,U,-16731116
+14,10,"flaviventris","Serinus","Yellow Canary",LC,U,-16731116
+15,3,"gularis","Serinus","Streaky-headed Seedeater",LC,U,-16731116
+16,2,"burtoni","Serinus","Thick-billed Seedeater",LC,U,-16731116
+21,20,"xantholaemus","Serinus","Salvadori's Serin",VU,U,-11184866
+22,20,"striolatus","Serinus","Streaky Seedeater",LC,U,-16731116
+23,19,"nigriceps","Serinus","Ethiopian Siskin",LC,U,-16731116
+24,18,"whytii","Serinus","Yellow-browed Seedeater",LC,U,-16731116
+26,25,"frontalis","Serinus","Yellow-browed Citril",LC,U,-16731116
+27,25,"totta","Serinus","Cape Siskin",LC,U,-16731116
+34,33,"atrogularis","Serinus","Black-throated Seedeater",LC,U,-16731116
+35,33,"leucopygius","Serinus","White-rumped Seedeater",LC,U,-16731116
+36,32,"citrinipectus","Serinus","Lemon-breasted Seedeater",LC,U,-16731116
+37,31,"symonsi","Serinus","Drakensberg Siskin",LC,U,-16731116
+40,39,"dorsostriatus","Serinus","White-bellied Canary",LC,U,-16731116
+41,39,"estherae","Serinus","Mountain Serin",LC,U,-16731116
+42,38,"flavigula","Serinus","Yellow-throated Seedeater",EN,U,-8572416
+43,29,"mozambicus","Serinus","Yellow-fronted Canary",LC,U,-16731116
+47,46,"citrinelloides","Serinus","Abyssinian Citril",LC,U,-16731116
+48,46,"hypostictus","Serinus","Grey-faced Citril",LC,U,-16731116
+49,45,"capistratus","Serinus","Black-faced Canary",LC,U,-16731116
+51,50,"donaldsoni","Serinus","Ethiopian Grosbeak-canary",LC,U,-16731116
+52,50,"scotops","Serinus","Forest Canary",LC,U,-16731116

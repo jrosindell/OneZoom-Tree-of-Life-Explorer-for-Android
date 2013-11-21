@@ -1,23 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"speciosus","Apodemus","Large Japanese Field Mouse",LC,S,-16731116
-9,7,"latronum","Apodemus","Large-eared Field Mouse",LC,U,-16731116
-10,6,"draco","Apodemus","South China Field Mouse",LC,S,-16731116
-12,11,"argenteus","Apodemus","Small Japanese Field Mouse",LC,S,-16731116
-13,11,"gurkha","Apodemus","Himalayan Wood Mouse",EN,D,-8572416
-15,14,"peninsulae","Apodemus","Korean Field Mouse",LC,S,-16731116
-16,14,"semotus","Apodemus","Taiwan Field Mouse",LC,U,-16731116
-18,17,"chevrieri","Apodemus","Chevrier's Field Mouse",LC,U,-16731116
-19,17,"agrarius","Apodemus","Striped Field Mouse",LC,S,-16731116
-25,24,"sylvaticus","Apodemus","Long-tailed Field Mouse",LC,S,-16731116
-26,24,"alpicola","Apodemus","Alpine Field Mouse",LC,U,-16731116
-27,23,"rusiges","Apodemus","Kashmir Field Mouse",LC,U,-16731116
-28,22,"flavicollis","Apodemus","Yellow-necked Field Mouse",LC,S,-16731116
-29,21,"hyrcanicus","Apodemus","Hyrcanian Field Mouse",NT,D,-12486656
-33,32,"pallipes","Apodemus","Himalayan Field Mouse",LC,U,-16731116
-34,32,"witherbyi","Apodemus","Steppe Field Mouse",LC,U,-16731116
-35,31,"uralensis","Apodemus","Herb Field Mouse",LC,S,-16731116
-36,30,"ponticus","Apodemus","Black Sea Field Mouse",LC,U,-16731116
-38,37,"epimelas","Apodemus","Western Broad-toothed Field Mouse",LC,S,-16731116
-39,37,"mystacinus","Apodemus","Broad-toothed Field Mouse",LC,S,-16731116
-41,40,"muenninki","Tokudaia","Okinawa Spiny Rat",CR,D,-3014646
-42,40,"osimensis","Tokudaia","Amami Spiny Rat",EN,D,-8572416
+7,6,"davidi","Strix","Pere David's Owl",_U,[,-16777216
+8,6,"uralensis","Strix","Ural Owl",LC,U,-16731116
+9,5,"seloputo","Strix","Spotted Wood-owl",LC,U,-16731116
+11,10,"fulvescens","Strix","Fulvous Owl",LC,U,-16731116
+12,10,"aluco","Strix","Tawny Owl",LC,U,-16731116
+16,15,"leptogrammica","Strix","Brown Wood-owl",LC,U,-16731116
+17,15,"nebulosa","Strix","Great Grey Owl",LC,U,-16731116
+18,14,"butleri","Strix","Hume's Owl",LC,U,-16731116
+19,13,"huhula","Strix","Black-banded Owl",LC,U,-16731116
+20,2,"woodfordii","Strix","African Wood-owl",LC,U,-16731116
+27,26,"ocellata","Strix","Mottled Wood-owl",LC,U,-16731116
+28,26,"chacoensis","Strix","Chaco Owl",LC,U,-16731116
+29,25,"hylophila","Strix","Rusty-barred Owl",NT,U,-12486656
+30,24,"occidentalis","Strix","Spotted Owl",NT,U,-12486656
+31,23,"varia","Strix","Barred Owl",LC,U,-16731116
+34,33,"albitarsis","Strix","Rufous-banded Owl",LC,U,-16731116
+35,33,"rufipes","Strix","Rufous-legged Owl",LC,U,-16731116
+36,32,"nigrolineata","Strix","Black-and-white Owl",LC,U,-16731116
+37,21,"virgata","Strix","Mottled Owl",LC,U,-16731116
+41,40,"koeniswaldiana","Pulsatrix","Tawny-browed Owl",LC,U,-16731116
+42,40,"melanota","Pulsatrix","Band-bellied Owl",LC,U,-16731116
+43,39,"perspicillata","Pulsatrix","Spectacled Owl",LC,U,-16731116
+45,44,"cristata","Lophostrix","Crested Owl",LC,U,-16731116
+46,44,"lettii","Jubula","Maned Owl",DD,U,-11513776

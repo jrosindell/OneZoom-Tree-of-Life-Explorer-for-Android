@@ -1,28 +1,83 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"oorti","Megalaima","Black-browed Barbet",LC,U,-16731116
-10,8,"nuchalis","Megalaima","Taiwan Barbet",LC,U,-16731116
-11,7,"faber","Megalaima","Chinese Barbet",LC,U,-16731116
-12,6,"asiatica","Megalaima","Blue-throated Barbet",LC,U,-16731116
-13,5,"rafflesii","Megalaima","Red-crowned Barbet",NT,U,-12486656
-16,15,"franklinii","Megalaima","Golden-throated Barbet",LC,U,-16731116
-17,15,"henricii","Megalaima","Yellow-crowned Barbet",NT,U,-12486656
-18,14,"zeylanica","Megalaima","Brown-headed Barbet",LC,U,-16731116
-21,20,"pulcherrima","Megalaima","Golden-naped Barbet",LC,U,-16731116
-22,20,"lagrandieri","Megalaima","Red-vented Barbet",LC,U,-16731116
-24,23,"chrysopogon","Megalaima","Gold-whiskered Barbet",LC,U,-16731116
-25,23,"monticola","Megalaima","Mountain Barbet",LC,U,-16731116
-27,26,"viridis","Megalaima","White-cheeked Barbet",LC,U,-16731116
-28,26,"lineata","Megalaima","Lineated Barbet",LC,U,-16731116
-32,31,"armillaris","Megalaima","Flame-fronted Barbet",LC,U,-16731116
-33,31,"incognita","Megalaima","Moustached Barbet",LC,U,-16731116
-34,30,"mystacophanos","Megalaima","Red-throated Barbet",NT,U,-12486656
-37,36,"rubricapillus","Megalaima","Crimson-fronted Barbet",LC,U,-16731116
-38,36,"virens","Megalaima","Great Barbet",LC,U,-16731116
-39,35,"pyrolophus","Psilopogon","Fire-tufted Barbet",LC,U,-16731116
-44,43,"javensis","Megalaima","Black-banded Barbet",NT,U,-12486656
-45,43,"australis","Megalaima","Blue-eared Barbet",LC,U,-16731116
-46,42,"haemacephala","Megalaima","Coppersmith Barbet",LC,U,-16731116
-48,47,"faiostricta","Megalaima","Green-eared Barbet",LC,U,-16731116
-49,47,"eximia","Megalaima","Bornean Barbet",LC,U,-16731116
-51,50,"flavifrons","Megalaima","Yellow-fronted Barbet",LC,U,-16731116
-52,50,"corvina","Megalaima","Brown-throated Barbet",LC,U,-16731116
+10,9,"reichenbachii","Nectarinia","Reichenbach's Sunbird",LC,U,-16731116
+11,9,"shelleyi","Nectarinia","Shelley's Sunbird",LC,U,-16731116
+12,8,"famosa","Nectarinia","Malachite Sunbird",LC,U,-16731116
+14,13,"fuelleborni","Nectarinia","Olive-bellied Double-collared Sunbird",LC,U,-16731116
+15,13,"minulla","Nectarinia","Tiny Sunbird",LC,U,-16731116
+18,17,"neergardi","Nectarinia","Neergaard's Sunbird",NT,U,-12486656
+19,17,"batesi","Nectarinia","Bates's Sunbird",LC,U,-16731116
+20,16,"hartlaubii","Nectarinia","Principe Sunbird",LC,U,-16731116
+23,22,"chloropygia","Nectarinia","Olive-bellied Sunbird",LC,U,-16731116
+24,22,"pulchella","Nectarinia","Beautiful Sunbird",LC,U,-16731116
+25,21,"bannermani","Nectarinia","Bannerman's Sunbird",LC,U,-16731116
+26,4,"mariquensis","Nectarinia","Mariqua Sunbird",LC,U,-16731116
+30,29,"nectarinioides","Nectarinia","Black-bellied Sunbird",LC,U,-16731116
+31,29,"congensis","Nectarinia","Congo Sunbird",LC,U,-16731116
+32,28,"habessinica","Nectarinia","Shining Sunbird",LC,U,-16731116
+34,33,"stuhlmanni","Nectarinia","Ruwenzori Double-collared Sunbird",_U,[,-16777216
+35,33,"superba","Nectarinia","Superb Sunbird",LC,U,-16731116
+42,41,"balfouri","Nectarinia","Socotra Sunbird",LC,U,-16731116
+43,41,"pembae","Nectarinia","Pemba Sunbird",LC,U,-16731116
+44,40,"senegalensis","Nectarinia","Scarlet-chested Sunbird",LC,U,-16731116
+46,45,"adelberti","Nectarinia","Buff-throated Sunbird",LC,U,-16731116
+47,45,"hunteri","Nectarinia","Hunter's Sunbird",LC,U,-16731116
+49,48,"minima","Nectarinia","Crimson-backed Sunbird",LC,U,-16731116
+50,48,"kilimensis","Nectarinia","Bronze Sunbird",LC,U,-16731116
+51,37,"rockefelleri","Nectarinia","Rockefeller's Sunbird",VU,U,-11184866
+56,55,"manoensis","Nectarinia","Miombo Double-collared Sunbird",LC,U,-16731116
+57,55,"thomensis","Nectarinia","Giant Sunbird",VU,U,-11184866
+58,54,"erythrocerca","Nectarinia","Red-chested Sunbird",LC,U,-16731116
+59,53,"verticalis","Nectarinia","Green-headed Sunbird",LC,U,-16731116
+61,60,"notata","Nectarinia","Long-billed Green Sunbird",LC,U,-16731116
+62,60,"fuliginosa","Nectarinia","Carmelite Sunbird",LC,U,-16731116
+68,67,"talatala","Nectarinia","White-breasted Sunbird",LC,U,-16731116
+69,67,"bouvieri","Nectarinia","Orange-tufted Sunbird",LC,U,-16731116
+70,66,"venusta","Nectarinia","Variable Sunbird",LC,U,-16731116
+72,71,"buettikoferi","Nectarinia","Apricot-breasted Sunbird",LC,U,-16731116
+73,71,"jugularis","Nectarinia","Olive-backed Sunbird",LC,U,-16731116
+76,75,"rufipennis","Nectarinia","Rufous-winged Sunbird",VU,U,-11184866
+77,75,"oritis","Nectarinia","Cameroon Sunbird",LC,U,-16731116
+78,74,"olivacea","Nectarinia","Olive Sunbird",LC,U,-16731116
+84,83,"cyanolaema","Nectarinia","Blue-throated Brown Sunbird",LC,U,-16731116
+85,83,"coccinigaster","Nectarinia","Splendid Sunbird",LC,U,-16731116
+87,86,"alinae","Nectarinia","Blue-headed Sunbird",LC,U,-16731116
+88,86,"bocagii","Nectarinia","Bocage's Sunbird",LC,U,-16731116
+89,81,"comorensis","Nectarinia","Anjouan Sunbird",LC,U,-16731116
+90,80,"newtonii","Nectarinia","Newton's Sunbird",LC,U,-16731116
+91,79,"purpureiventris","Nectarinia","Purple-breasted Sunbird",LC,U,-16731116
+102,101,"sperata","Nectarinia","Purple-throated Sunbird",LC,U,-16731116
+103,101,"veroxii","Nectarinia","Mouse-coloured Sunbird",LC,U,-16731116
+104,100,"humbloti","Nectarinia","Humblot's Sunbird",LC,U,-16731116
+107,106,"preussi","Nectarinia","Northern Double-collared Sunbird",LC,U,-16731116
+108,106,"osea","Nectarinia","Palestine Sunbird",LC,U,-16731116
+109,105,"fusca","Nectarinia","Dusky Sunbird",LC,U,-16731116
+112,111,"rubescens","Nectarinia","Green-throated Sunbird",LC,U,-16731116
+113,111,"amethystina","Nectarinia","Amethyst Sunbird",LC,U,-16731116
+114,110,"asiatica","Nectarinia","Purple Sunbird",LC,U,-16731116
+118,117,"violacea","Nectarinia","Orange-breasted Sunbird",LC,U,-16731116
+119,117,"coquerellii","Nectarinia","Mayotte Sunbird",LC,U,-16731116
+120,116,"johnstoni","Nectarinia","Red-tufted Sunbird",LC,U,-16731116
+122,121,"seimundi","Nectarinia","Little Green Sunbird",LC,U,-16731116
+123,121,"regia","Nectarinia","Regal Sunbird",LC,U,-16731116
+126,125,"afra","Nectarinia","Greater Double-collared Sunbird",LC,U,-16731116
+127,125,"dussumieri","Nectarinia","Seychelles Sunbird",LC,U,-16731116
+128,124,"zeylonica","Nectarinia","Purple-rumped Sunbird",LC,U,-16731116
+132,131,"loveridgei","Nectarinia","Loveridge's Sunbird",EN,U,-8572416
+133,131,"moreaui","Nectarinia","Moreau's Sunbird",NT,U,-12486656
+134,130,"aspasia","Nectarinia","Black Sunbird",LC,U,-16731116
+135,129,"reichenowi","Nectarinia","Golden-winged Sunbird",LC,U,-16731116
+141,140,"ludovicensis","Nectarinia","Ludwig's Double-collared Sunbird",_U,[,-16777216
+142,140,"tsavoensis","Nectarinia","Tsavo Sunbird",_U,[,-16777216
+143,139,"johannae","Nectarinia","Johanna's Sunbird",LC,U,-16731116
+144,138,"bifasciata","Nectarinia","Purple-banded Sunbird",LC,U,-16731116
+147,146,"chalybea","Nectarinia","Southern Double-collared Sunbird",LC,U,-16731116
+148,146,"sovimanga","Nectarinia","Souimanga Sunbird",LC,U,-16731116
+150,149,"lotenia","Nectarinia","Long-billed Sunbird",LC,U,-16731116
+151,149,"cuprea","Nectarinia","Copper Sunbird",LC,U,-16731116
+152,136,"oustaleti","Nectarinia","Oustalet's Sunbird",LC,U,-16731116
+156,155,"mediocris","Nectarinia","Eastern Double-collared Sunbird",LC,U,-16731116
+157,155,"ursulae","Nectarinia","Ursula's Sunbird",NT,U,-12486656
+158,154,"solaris","Nectarinia","Flame-breasted Sunbird",LC,U,-16731116
+159,153,"tacazze","Nectarinia","Tacazze Sunbird",LC,U,-16731116
+161,160,"chalcomelas","Nectarinia","Violet-breasted Sunbird",LC,U,-16731116
+162,160,"calcostetha","Nectarinia","Copper-throated Sunbird",LC,U,-16731116

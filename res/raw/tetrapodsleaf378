@@ -1,27 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"hylaios","Phrynobatrachus","",LC,S,-16731116
-8,6,"dispar","Phrynobatrachus","",LC,S,-16731116
-9,5,"acridoides","Phrynobatrachus","",LC,S,-16731116
-11,10,"brevipalmatus","Phrynobatrachus","",DD,U,-11513776
-12,10,"phyllophilus","Phrynobatrachus","",NT,D,-12486656
-15,14,"perpalmatus","Phrynobatrachus","",LC,S,-16731116
-16,14,"pygmaeus","Phrynobatrachus","",DD,U,-11513776
-18,17,"accraensis","Phrynobatrachus","",NE,U,-16777216
-19,17,"asper","Phrynobatrachus","",DD,U,-11513776
-20,2,"werneri","Phrynobatrachus","",LC,S,-16731116
-24,23,"sulfureogularis","Phrynobatrachus","",DD,U,-11513776
-25,23,"cryptotis","Phrynobatrachus","",DD,U,-11513776
-26,22,"pakenhami","Phrynobatrachus","",EN,D,-8572416
-28,27,"cricogaster","Phrynobatrachus","",VU,D,-11184866
-29,27,"irangi","Phrynobatrachus","",EN,D,-8572416
-36,35,"manengoubensis","Phrynobatrachus","",DD,U,-11513776
-37,35,"fraterculus","Phrynobatrachus","",LC,D,-16731116
-38,34,"nanus","Phrynobatrachus","",DD,U,-11513776
-40,39,"natalensis","Phrynobatrachus","Natal Dwarf Puddle Frog",LC,S,-16731116
-41,39,"batesii","Phrynobatrachus","",LC,U,-16731116
-43,42,"albomarginatus","Phrynobatrachus","",DD,U,-11513776
-44,42,"minutus","Phrynobatrachus","",LC,U,-16731116
-47,46,"uzungwensis","Phrynobatrachus","",VU,D,-11184866
-48,46,"rungwensis","Phrynobatrachus","",LC,S,-16731116
-49,45,"vogti","Phrynobatrachus","",DD,U,-11513776
-50,30,"stewartae","Phrynobatrachus","",DD,U,-11513776
+11,10,"commersoni","Hipposideros","Commerson's Leaf-nosed Bat",NT,U,-12486656
+12,10,"vittatus","Hipposideros","",NT,D,-12486656
+13,9,"thomensis","Hipposideros","",LC,S,-16731116
+14,8,"gigas","Hipposideros","Giant Leaf-nosed Bat",LC,U,-16731116
+16,15,"lylei","Hipposideros","Shield-faced Leaf-nosed Bat",LC,D,-16731116
+17,15,"pratti","Hipposideros","Pratt's Leaf-nosed Bat",LC,U,-16731116
+18,6,"inexpectatus","Hipposideros","Crested Leaf-nosed Bat",DD,U,-11513776
+22,21,"sumbae","Hipposideros","Sumban Leaf-nosed Bat",LC,D,-16731116
+23,21,"grandis","Hipposideros","Grand Leaf-nosed Bat",DD,U,-11513776
+24,20,"larvatus","Hipposideros","Horsfield's Leaf-nosed Bat",LC,U,-16731116
+26,25,"armiger","Hipposideros","Great Himalayan Leaf-nosed Bat",LC,U,-16731116
+27,25,"turpis","Hipposideros","Lesser Leaf-nosed Bat",NT,D,-12486656
+33,32,"muscinus","Hipposideros","Fly River Leaf-nosed Bat",DD,U,-11513776
+34,32,"semoni","Hipposideros","Semon's Leaf-nosed Bat",DD,U,-11513776
+35,31,"corynophyllus","Hipposideros","Telefomin Leaf-nosed Bat",DD,U,-11513776
+37,36,"wollastoni","Hipposideros","Wollaston's Leaf-nosed Bat",LC,U,-16731116
+38,36,"stenotis","Hipposideros","Northern Leaf-nosed Bat",LC,U,-16731116
+40,39,"camerunensis","Hipposideros","Greater Roundleaf Bat",DD,U,-11513776
+41,39,"cyclops","Hipposideros","Cyclops Roundleaf Bat",LC,D,-16731116
+43,42,"patrizii","Asellia","Patrizi's Trident Leaf-nosed Bat",LC,U,-16731116
+44,42,"tridens","Asellia","Geoffroy's Trident Leaf-nosed Bat",LC,S,-16731116
+48,47,"demissus","Hipposideros","Makira Leaf-nosed Bat",VU,U,-11184866
+49,47,"diadema","Hipposideros","Diadem Leaf-nosed Bat",LC,U,-16731116
+50,46,"inornatus","Hipposideros","Arnhem Leaf-nosed Bat",VU,S,-11184866
+51,45,"lankadiva","Hipposideros","Indian Leaf-nosed Bat",LC,U,-16731116
+53,52,"pelingensis","Hipposideros","Peleng Leaf-nosed Bat",NT,D,-12486656
+54,52,"dinops","Hipposideros","Fierce Leaf-nosed Bat",DD,D,-11513776
+55,1,"lekaguli","Hipposideros","Large Asian Leaf-nosed Bat",NT,D,-12486656
+56,0,"ater","Hipposideros","Dusky Leaf-nosed Bat",LC,U,-16731116

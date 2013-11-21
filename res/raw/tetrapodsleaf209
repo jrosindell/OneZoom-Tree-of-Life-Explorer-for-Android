@@ -1,60 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-22,21,"peronii","Acalyptophis","Spiny-headed Sea Snake",NE,U,-16777216
-23,21,"kingii","Disteira","",NE,U,-16777216
-24,20,"schistosa","Enhydrina","Beaked Sea Snake",NE,U,-16777216
-26,25,"donaldi","Hydrophis","Rough-scaled Sea Snake",NE,U,-16777216
-27,25,"caerulescens","Polyodontognathus","",NE,U,-16777216
-28,18,"platurus","Pelamis","Yellow-bellied Sea Snake",NE,U,-16777216
-29,17,"curtus","Lapemis","Shaw's Sea Snake",NE,U,-16777216
-30,16,"cyanocincta","Leioselasma","",NE,U,-16777216
-31,15,"darwiniensis","Hydrelaps","",NE,U,-16777216
-33,32,"mertoni","Parahydrophis","",NE,U,-16777216
-34,32,"greyae","Ephalophis","",NE,U,-16777216
-36,35,"laevis","Aipysurus","Olive Sea Snake",NE,U,-16777216
-37,35,"annulatus","Emydocephalus","",NE,U,-16777216
-43,42,"bungaroides","Hoplocephalus","Broad-headed Snake",VU,U,-11184866
-44,42,"atriceps","Echiopsis","Lake Cronin Snake",VU,U,-11184866
-46,45,"carinatus","Tropidechis","",NE,U,-16777216
-47,45,"ater","Notechis","",NE,U,-16777216
-48,40,"superbus","Austrelaps","",NE,U,-16777216
-49,39,"coronoides","Drysdalia","",NE,U,-16777216
-50,38,"damelii","Hemiaspis","",NE,U,-16777216
-53,52,"microlepidotus","Oxyuranus","Inland Taipan",NE,U,-16777216
-54,52,"modesta","Pseudonaja","",NE,U,-16777216
-56,55,"intermedia","Vermicella","",NE,U,-16777216
-57,55,"devisi","Denisonia","",NE,U,-16777216
-62,61,"bicolor","Rhinoplocephalus","",NE,U,-16777216
-63,61,"nigrescens","Cryptophis","",NE,U,-16777216
-64,60,"coronata","Elapognathus","",NE,U,-16777216
-65,59,"fasciata","Suta","",NE,U,-16777216
-66,58,"squamulosus","Cacophis","",NE,U,-16777216
-69,68,"muelleri","Aspidomorphus","",NE,U,-16777216
-70,68,"diadema","Furina","",NE,U,-16777216
-71,67,"papuensis","Demansia","",NE,U,-16777216
-74,73,"ikaheka","Micropechis","Small-eyed Snake",NE,U,-16777216
-75,73,"australis","Pseudechis","",NE,U,-16777216
-77,76,"loriae","Toxicocalamus","",NE,U,-16777216
-78,76,"anomalus","Simoselaps","",NE,U,-16777216
-79,7,"antarcticus","Acanthophis","Common Death Adder",NE,U,-16777216
-80,6,"colubrina","Laticauda","Colubrine Sea Krait",NE,U,-16777216
-81,5,"semiannulata","Elapsoidea","",NE,U,-16777216
-87,86,"multicinctus","Bungarus","",NE,U,-16777216
-88,86,"candidus","Bungarus","",NE,U,-16777216
-90,89,"ceylonicus","Bungarus","",NE,U,-16777216
-91,89,"caeruleus","Bungarus","",NE,U,-16777216
-92,84,"fasciatus","Bungarus","",NE,U,-16777216
-94,93,"bungaroides","Bungarus","",NE,U,-16777216
-95,93,"slowinskii","Bungarus","",NE,U,-16777216
-96,82,"flaviceps","Bungarus","Red-headed Krait",NE,U,-16777216
-102,101,"haemachatus","Hemachatus","Ring-necked Spitting Cobra",NE,U,-16777216
-103,101,"scutatus","Aspidelaps","Shield-nose Snake",NE,U,-16777216
-104,100,"aegyptia","Walterinnesia","Desert Cobra",NE,U,-16777216
-105,99,"naja","Naja","Indian Cobra",NE,U,-16777216
-107,106,"angusticeps","Dendroaspis","Eastern Green Mamba",NE,U,-16777216
-108,106,"calligaster","Hemibungarus","",LC,U,-16731116
-109,97,"hannah","Ophiophagus","King Cobra",NE,U,-16777216
-112,111,"euryxanthus","Micruroides","Sonoran Coral Snake",LC,S,-16731116
-113,111,"fulvius","Micrurus","Eastern Coral Snake",LC,S,-16731116
-114,110,"japonicus","Sinomicrurus","Japanese Coral Snake",NT,U,-12486656
-115,1,"melanurus","Calliophis","Indian Coral Snake",NE,U,-16777216
-116,0,"leporinum","Oxyrhabdium","Banded Philippine Burrowing Snake",LC,S,-16731116
+7,6,"pectoralis","Notharchus","Black-breasted Puffbird",LC,U,-16731116
+8,6,"macrorhynchos","Notharchus","Guianan Puffbird",LC,U,-16731116
+9,5,"tectus","Notharchus","Pied Puffbird",LC,U,-16731116
+11,10,"hyperrhynchus","Notharchus","White-necked Puffbird",LC,U,-16731116
+12,10,"ordii","Notharchus","Brown-banded Puffbird",LC,U,-16731116
+13,3,"swainsoni","Notharchus","Buff-bellied Puffbird",LC,U,-16731116
+16,15,"lanceolata","Micromonacha","Lanceolated Monklet",LC,U,-16731116
+17,15,"castanea","Hapaloptila","White-faced Nunbird",LC,U,-16731116
+18,14,"ruficollis","Hypnelus","Russet-throated Puffbird",LC,U,-16731116
+22,21,"rubecula","Nonnula","Rusty-breasted Nunlet",LC,U,-16731116
+23,21,"frontalis","Nonnula","Grey-cheeked Nunlet",LC,U,-16731116
+25,24,"amaurocephala","Nonnula","Chestnut-headed Nunlet",LC,U,-16731116
+26,24,"brunnea","Nonnula","Brown Nunlet",LC,U,-16731116
+28,27,"ruficapilla","Nonnula","Rufous-capped Nunlet",LC,U,-16731116
+29,27,"sclateri","Nonnula","Fulvous-chinned Nunlet",LC,U,-16731116
+34,33,"fulvogularis","Malacoptila","Black-streaked Puffbird",LC,U,-16731116
+35,33,"striata","Malacoptila","Crescent-chested Puffbird",LC,U,-16731116
+37,36,"semicincta","Malacoptila","Semicollared Puffbird",LC,U,-16731116
+38,36,"rufa","Malacoptila","Rufous-necked Puffbird",LC,U,-16731116
+40,39,"panamensis","Malacoptila","White-whiskered Puffbird",LC,U,-16731116
+41,39,"fusca","Malacoptila","White-chested Puffbird",LC,U,-16731116
+42,30,"mystacalis","Malacoptila","Moustached Puffbird",LC,U,-16731116

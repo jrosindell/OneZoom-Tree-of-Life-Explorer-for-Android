@@ -1,32 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"chalybea","Progne","Grey-breasted Martin",LC,U,-16731116
-10,8,"sinaloae","Progne","Sinaloa Martin",DD,U,-11513776
-12,11,"modesta","Progne","Galapagos Martin",VU,U,-11184866
-13,11,"murphyi","Progne","Peruvian Martin",VU,U,-11184866
-14,6,"elegans","Progne","Southern Martin",LC,U,-16731116
-16,15,"dominicensis","Progne","Caribbean Martin",LC,U,-16731116
-17,15,"cryptoleuca","Progne","Cuban Martin",LC,U,-16731116
-18,4,"subis","Progne","Purple Martin",LC,U,-16731116
-19,3,"tapera","Progne","Brown-chested Martin",LC,U,-16731116
-21,20,"serripennis","Stelgidopteryx","Northern Rough-winged Swallow",LC,U,-16731116
-22,20,"ruficollis","Stelgidopteryx","Southern Rough-winged Swallow",LC,U,-16731116
-28,27,"murina","Notiochelidon","Brown-bellied Swallow",LC,U,-16731116
-29,27,"andecola","Haplochelidon","Andean Swallow",LC,U,-16731116
-30,26,"flavipes","Notiochelidon","Pale-footed Swallow",LC,U,-16731116
-31,25,"fucata","Alopochelidon","Tawny-headed Swallow",LC,U,-16731116
-33,32,"cyanoleuca","Pygochelidon","Blue-and-white Swallow",LC,U,-16731116
-34,32,"melanoleuca","Atticora","Black-collared Swallow",LC,U,-16731116
-37,36,"pileata","Notiochelidon","Black-capped Swallow",LC,U,-16731116
-38,36,"tibialis","Neochelidon","White-thighed Swallow",LC,U,-16731116
-39,35,"fasciata","Atticora","White-banded Swallow",LC,U,-16731116
-45,44,"albiventer","Tachycineta","White-winged Swallow",LC,U,-16731116
-46,44,"albilinea","Tachycineta","Mangrove Swallow",LC,U,-16731116
-47,43,"stolzmanni","Tachycineta","Tumbes Swallow",LC,U,-16731116
-49,48,"leucorrhoa","Tachycineta","White-rumped Swallow",LC,U,-16731116
-50,48,"meyeni","Tachycineta","Chilean Swallow",LC,U,-16731116
-54,53,"cyaneoviridis","Tachycineta","Bahama Swallow",EN,U,-8572416
-55,53,"euchrysea","Tachycineta","Golden Swallow",VU,U,-11184866
-56,52,"thalassina","Tachycineta","Violet-green Swallow",LC,U,-16731116
-57,51,"bicolor","Tachycineta","Tree Swallow",LC,U,-16731116
-59,58,"paludicola","Riparia","Plain Martin",LC,U,-16731116
-60,58,"riparia","Riparia","Sand Martin",LC,U,-16731116
+11,10,"obsoleta","Litoria","",DD,U,-11513776
+12,10,"avocalis","Litoria","",VU,U,-11184866
+13,9,"persimilis","Litoria","",DD,U,-11513776
+14,8,"cheesmanae","Litoria","",NE,U,-16777216
+16,15,"dayi","Litoria","Australian Lace-lid",EN,D,-8572416
+17,15,"montana","Litoria","",DD,U,-11513776
+18,6,"gularis","Litoria","",DD,U,-11513776
+21,20,"trachydermis","Litoria","",LC,S,-16731116
+22,20,"narinosa","Litoria","",LC,S,-16731116
+23,19,"kubori","Litoria","",LC,S,-16731116
+24,4,"pulchra","Litoria","",LC,S,-16731116
+30,29,"semipalmata","Litoria","",LC,S,-16731116
+31,29,"disrupta","Litoria","",LC,S,-16731116
+32,28,"perimetri","Litoria","",LC,S,-16731116
+33,27,"foricula","Litoria","",LC,S,-16731116
+34,26,"rueppelli","Litoria","",VU,D,-11184866
+36,35,"fluviatilis","Litoria","",DD,U,-11513776
+37,35,"daymani","Litoria","",DD,U,-11513776
+39,38,"zweifeli","Litoria","",DD,U,-11513776
+40,38,"papua","Litoria","",DD,U,-11513776
+43,42,"humeralis","Litoria","",LC,S,-16731116
+44,42,"granti","Litoria","",DD,U,-11513776
+45,41,"oktediensis","Litoria","",DD,S,-11513776
+46,0,"vagabunda","Litoria","",DD,U,-11513776

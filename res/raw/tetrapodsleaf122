@@ -1,51 +1,39 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"bouvieri","Scotopelia","Vermiculated Fishing-owl",LC,U,-16731116
-10,8,"ussheri","Scotopelia","Rufous Fishing-owl",EN,U,-8572416
-11,7,"peli","Scotopelia","Pel's Fishing-owl",LC,U,-16731116
-12,6,"bengalensis","Bubo","Rock Eagle-owl",LC,U,-16731116
-14,13,"sumatranus","Bubo","Barred Eagle-owl",LC,U,-16731116
-15,13,"africanus","Bubo","Spotted Eagle-owl",LC,U,-16731116
-20,19,"shelleyi","Bubo","Shelley's Eagle-owl",NT,U,-12486656
-21,19,"ascalaphus","Bubo","Pharaoh Eagle-owl",LC,U,-16731116
-22,18,"bubo","Bubo","Eurasian Eagle-owl",LC,U,-16731116
-23,17,"capensis","Bubo","Cape Eagle-owl",LC,U,-16731116
-24,16,"philippensis","Bubo","Philippine Eagle-owl",VU,U,-11184866
-29,28,"cinerascens","Bubo","Greyish Eagle-Owl",_U,[,-16777216
-30,28,"poensis","Bubo","Fraser's Eagle-owl",LC,U,-16731116
-31,27,"virginianus","Bubo","Great Horned Owl",LC,U,-16731116
-32,26,"magellanicus","Bubo","Lesser Horned Owl",_U,[,-16777216
-34,33,"vosseleri","Bubo","Usambara Eagle-owl",VU,U,-11184866
-35,33,"scandiaca","Bubo","Snowy Owl",LC,U,-16731116
-40,39,"blakistoni","Ketupa","Blakiston's Fish-owl",EN,U,-8572416
-41,39,"ketupu","Ketupa","Buffy Fish-owl",LC,U,-16731116
-42,38,"flavipes","Ketupa","Tawny Fish-owl",LC,U,-16731116
-43,37,"zeylonensis","Ketupa","Brown Fish-owl",LC,U,-16731116
-46,45,"nipalensis","Bubo","Spot-bellied Eagle-owl",LC,U,-16731116
-47,45,"coromandus","Bubo","Dusky Eagle-owl",LC,U,-16731116
-49,48,"leucostictus","Bubo","Akun Eagle-owl",LC,U,-16731116
-50,48,"lacteus","Bubo","Giant Eagle-owl",LC,U,-16731116
-58,57,"davidi","Strix","Pere David's Owl",_U,[,-16777216
-59,57,"uralensis","Strix","Ural Owl",LC,U,-16731116
-60,56,"seloputo","Strix","Spotted Wood-owl",LC,U,-16731116
-62,61,"fulvescens","Strix","Fulvous Owl",LC,U,-16731116
-63,61,"aluco","Strix","Tawny Owl",LC,U,-16731116
-67,66,"leptogrammica","Strix","Brown Wood-owl",LC,U,-16731116
-68,66,"nebulosa","Strix","Great Grey Owl",LC,U,-16731116
-69,65,"butleri","Strix","Hume's Owl",LC,U,-16731116
-70,64,"huhula","Strix","Black-banded Owl",LC,U,-16731116
-71,53,"woodfordii","Strix","African Wood-owl",LC,U,-16731116
-78,77,"ocellata","Strix","Mottled Wood-owl",LC,U,-16731116
-79,77,"chacoensis","Strix","Chaco Owl",LC,U,-16731116
-80,76,"hylophila","Strix","Rusty-barred Owl",NT,U,-12486656
-81,75,"occidentalis","Strix","Spotted Owl",NT,U,-12486656
-82,74,"varia","Strix","Barred Owl",LC,U,-16731116
-85,84,"albitarsis","Strix","Rufous-banded Owl",LC,U,-16731116
-86,84,"rufipes","Strix","Rufous-legged Owl",LC,U,-16731116
-87,83,"nigrolineata","Strix","Black-and-white Owl",LC,U,-16731116
-88,72,"virgata","Strix","Mottled Owl",LC,U,-16731116
-92,91,"koeniswaldiana","Pulsatrix","Tawny-browed Owl",LC,U,-16731116
-93,91,"melanota","Pulsatrix","Band-bellied Owl",LC,U,-16731116
-94,90,"perspicillata","Pulsatrix","Spectacled Owl",LC,U,-16731116
-96,95,"cristata","Lophostrix","Crested Owl",LC,U,-16731116
-97,95,"lettii","Jubula","Maned Owl",DD,U,-11513776
-98,0,"lawrencii","Gymnoglaux","Bare-legged Owl",LC,U,-16731116
+9,8,"cordofanicus","Passer","Kordofan Rufous-sparrow",LC,U,-16731116
+10,8,"eminibey","Passer","Chestnut Sparrow",LC,U,-16731116
+11,7,"shelleyi","Passer","Shelley's Rufous-sparrow",LC,U,-16731116
+14,13,"montanus","Passer","Eurasian Tree Sparrow",LC,U,-16731116
+15,13,"simplex","Passer","Desert Sparrow",LC,U,-16731116
+16,12,"rufocinctus","Passer","Kenya Rufous-sparrow",LC,U,-16731116
+20,19,"hispaniolensis","Passer","Spanish Sparrow",LC,U,-16731116
+21,19,"insularis","Passer","Socotra Sparrow",LC,U,-16731116
+22,18,"domesticus","Passer","House Sparrow",LC,U,-16731116
+24,23,"castanopterus","Passer","Somali Sparrow",LC,U,-16731116
+25,23,"iagoensis","Passer","Iago Sparrow",LC,U,-16731116
+29,28,"motitensis","Passer","Southern Rufous-sparrow",LC,U,-16731116
+30,28,"suahelicus","Passer","Swahili Sparrow",LC,U,-16731116
+32,31,"flaveolus","Passer","Plain-backed Sparrow",LC,U,-16731116
+33,31,"moabiticus","Passer","Dead Sea Sparrow",LC,U,-16731116
+35,34,"swainsonii","Passer","Swainson's Sparrow",LC,U,-16731116
+36,34,"luteus","Passer","Sudan Golden Sparrow",LC,U,-16731116
+39,38,"euchlorus","Passer","Arabian Golden Sparrow",LC,U,-16731116
+40,38,"rutilans","Passer","Russet Sparrow",LC,U,-16731116
+41,37,"diffusus","Passer","Southern Grey-headed Sparrow",LC,U,-16731116
+43,42,"hemileucus","Passer","Abd 'Al Kuri Sparrow",VU,U,-11184866
+44,42,"ammodendri","Passer","Saxaul Sparrow",LC,U,-16731116
+48,47,"pyrrhonotus","Passer","Sind Sparrow",LC,U,-16731116
+49,47,"melanurus","Passer","Cape Sparrow",LC,U,-16731116
+50,46,"gongonensis","Passer","Parrot-billed Sparrow",LC,U,-16731116
+51,45,"griseus","Passer","Northern Grey-headed Sparrow",LC,U,-16731116
+59,58,"blanfordi","Montifringilla","Plain-backed Snowfinch",LC,U,-16731116
+60,58,"davidiana","Montifringilla","Small Snowfinch",LC,U,-16731116
+61,57,"ruficollis","Montifringilla","Rufous-necked Snowfinch",LC,U,-16731116
+62,56,"theresae","Montifringilla","Afghan Snowfinch",LC,U,-16731116
+64,63,"nivalis","Montifringilla","White-winged Snowfinch",LC,U,-16731116
+65,63,"adamsi","Montifringilla","Black-winged Snowfinch",LC,U,-16731116
+66,54,"taczanowskii","Montifringilla","White-rumped Snowfinch",LC,U,-16731116
+67,53,"petronia","Petronia","Rock Sparrow",LC,U,-16731116
+71,70,"pyrgita","Petronia","Yellow-spotted Petronia",LC,U,-16731116
+72,70,"dentata","Petronia","Bush Petronia",LC,U,-16731116
+73,69,"xanthocollis","Petronia","Chestnut-shouldered Petronia",LC,U,-16731116
+74,68,"superciliaris","Petronia","Yellow-throated Petronia",LC,U,-16731116

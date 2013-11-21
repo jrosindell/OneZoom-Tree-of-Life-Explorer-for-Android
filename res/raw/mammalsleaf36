@@ -1,54 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"rufus","Eulemur","Red Brown Lemur",DD,D,-11513776
-14,12,"albocollaris","Eulemur","",NE,U,-16777216
-15,11,"fulvus","Eulemur","Brown Lemur",NT,D,-12486656
-16,10,"albifrons","Eulemur","White-fronted Brown Lemur",VU,D,-11184866
-19,18,"sanfordi","Eulemur","Sanford's Brown Lemur",EN,D,-8572416
-20,18,"collaris","Eulemur","Collared Brown Lemur",VU,D,-11184866
-21,17,"cinereiceps","Eulemur","White-collared Lemur",EN,D,-8572416
-22,8,"macaco","Eulemur","Black Lemur",VU,D,-11184866
-24,23,"rubriventer","Eulemur","Red-bellied Lemur",VU,D,-11184866
-25,23,"mongoz","Eulemur","Mongoose Lemur",VU,D,-11184866
-26,6,"coronatus","Eulemur","Crowned Lemur",VU,D,-11184866
-27,5,"catta","Lemur","Ring-tailed Lemur",NT,D,-12486656
-31,30,"griseus","Hapalemur","Eastern Lesser Bamboo Lemur",VU,D,-11184866
-32,30,"alaotrensis","Hapalemur","Alaotran Gentle Lemur",CR,D,-3014646
-33,29,"occidentalis","Hapalemur","Sambirano Lesser Bamboo Lemur",VU,D,-11184866
-35,34,"aureus","Hapalemur","Golden Bamboo Lemur",EN,D,-8572416
-36,34,"simus","Prolemur","Greater Bamboo Lemur",CR,D,-3014646
-38,37,"variegata","Varecia","Black-and-white Ruffed Lemur",CR,D,-3014646
-39,37,"rubra","Varecia","Red Ruffed Lemur",EN,D,-8572416
-44,43,"septentrionalis","Lepilemur","Sahafary Sportive Lemur",CR,D,-3014646
-45,43,"ankaranensis","Lepilemur","Ankarana Sportive Lemur",EN,D,-8572416
-46,42,"ruficaudatus","Lepilemur","Red-tailed Sportive Lemur",DD,D,-11513776
-48,47,"microdon","Lepilemur","Small-toothed Sportive Lemur",DD,U,-11513776
-49,47,"mustelinus","Lepilemur","Weasel Sportive Lemur",DD,U,-11513776
-52,51,"leucopus","Lepilemur","White-footed Sportive Lemur",DD,U,-11513776
-53,51,"dorsalis","Lepilemur","Gray's Sportive Lemur",DD,U,-11513776
-54,50,"edwardsi","Lepilemur","Milne-edwards's Sportive Lemur",VU,D,-11184866
-62,61,"deckenii","Propithecus","Van Der Decken's Sifaka",VU,D,-11184866
-63,61,"verreauxi","Propithecus","Verreaux's Sifaka",VU,D,-11184866
-64,60,"coquereli","Propithecus","Coquerel's Sifaka",EN,D,-8572416
-67,66,"perrieri","Propithecus","Perrier's Sifaka",CR,D,-3014646
-68,66,"diadema","Propithecus","Diademed Sifaka",EN,D,-8572416
-69,65,"edwardsi","Propithecus","Milne-edward's Sifaka",EN,D,-8572416
-70,58,"tattersalli","Propithecus","Golden-crowned Sifaka",EN,U,-8572416
-72,71,"occidentalis","Avahi","Lorenz Von Liburnau's Woolly Lemur",EN,D,-8572416
-73,71,"laniger","Avahi","Gmelin's Woolly Lemur",LC,D,-16731116
-74,56,"indri","Indri","Indri",EN,D,-8572416
-75,55,"madagascariensis","Daubentonia","Aye-aye",NT,D,-12486656
-83,82,"griseorufus","Microcebus","Grey-brown Mouse Lemur",LC,D,-16731116
-84,82,"myoxinus","Microcebus","Peters' Mouse Lemur",DD,U,-11513776
-85,81,"murinus","Microcebus","Grey Mouse-lemur",LC,D,-16731116
-86,80,"rufus","Microcebus","Rufous Mouse Lemur",LC,D,-16731116
-87,79,"coquereli","Mirza","Coquerel's Giant Mouse Lemur",NT,D,-12486656
-88,78,"trichotis","Allocebus","Hairy-eared Dwarf Lemur",DD,U,-11513776
-93,92,"adipicaudatus","Cheirogaleus","Southern Fat-tailed Dwarf Lemur",DD,U,-11513776
-94,92,"crossleyi","Cheirogaleus","Furry-eared Dwarf Lemur",DD,U,-11513776
-95,91,"major","Cheirogaleus","Geoffroy's Dwarf Lemur",LC,U,-16731116
-96,90,"sibreei","Cheirogaleus","Sibree's Dwarf Lemur",DD,U,-11513776
-97,89,"medius","Cheirogaleus","Western Fat-tailed Dwarf Lemur",LC,U,-16731116
-100,99,"electromontis","Phaner","Montagne D' Ambre Fork-marked Lemur",VU,D,-11184866
-101,99,"pallescens","Phaner","Pale Fork-marked Lemur",LC,D,-16731116
-103,102,"parienti","Phaner","Sambirano Fork-marked Lemur",VU,D,-11184866
-104,102,"furcifer","Phaner","Masoala Fork-marked Lemur",LC,D,-16731116
+11,10,"rufus","Eulemur","Red Brown Lemur",DD,D,-11513776
+12,10,"albocollaris","Eulemur","",NE,U,-16777216
+13,9,"fulvus","Eulemur","Brown Lemur",NT,D,-12486656
+14,8,"albifrons","Eulemur","White-fronted Brown Lemur",VU,D,-11184866
+17,16,"sanfordi","Eulemur","Sanford's Brown Lemur",EN,D,-8572416
+18,16,"collaris","Eulemur","Collared Brown Lemur",VU,D,-11184866
+19,15,"cinereiceps","Eulemur","White-collared Lemur",EN,D,-8572416
+20,6,"macaco","Eulemur","Black Lemur",VU,D,-11184866
+22,21,"rubriventer","Eulemur","Red-bellied Lemur",VU,D,-11184866
+23,21,"mongoz","Eulemur","Mongoose Lemur",VU,D,-11184866
+24,4,"coronatus","Eulemur","Crowned Lemur",VU,D,-11184866
+25,3,"catta","Lemur","Ring-tailed Lemur",NT,D,-12486656
+29,28,"griseus","Hapalemur","Eastern Lesser Bamboo Lemur",VU,D,-11184866
+30,28,"alaotrensis","Hapalemur","Alaotran Gentle Lemur",CR,D,-3014646
+31,27,"occidentalis","Hapalemur","Sambirano Lesser Bamboo Lemur",VU,D,-11184866
+33,32,"aureus","Hapalemur","Golden Bamboo Lemur",EN,D,-8572416
+34,32,"simus","Prolemur","Greater Bamboo Lemur",CR,D,-3014646
+36,35,"variegata","Varecia","Black-and-white Ruffed Lemur",CR,D,-3014646
+37,35,"rubra","Varecia","Red Ruffed Lemur",EN,D,-8572416
+42,41,"septentrionalis","Lepilemur","Sahafary Sportive Lemur",CR,D,-3014646
+43,41,"ankaranensis","Lepilemur","Ankarana Sportive Lemur",EN,D,-8572416
+44,40,"ruficaudatus","Lepilemur","Red-tailed Sportive Lemur",DD,D,-11513776
+46,45,"microdon","Lepilemur","Small-toothed Sportive Lemur",DD,U,-11513776
+47,45,"mustelinus","Lepilemur","Weasel Sportive Lemur",DD,U,-11513776
+50,49,"leucopus","Lepilemur","White-footed Sportive Lemur",DD,U,-11513776
+51,49,"dorsalis","Lepilemur","Gray's Sportive Lemur",DD,U,-11513776
+52,48,"edwardsi","Lepilemur","Milne-edwards's Sportive Lemur",VU,D,-11184866

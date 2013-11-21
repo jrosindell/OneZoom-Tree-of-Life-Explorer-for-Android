@@ -1,44 +1,29 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"iserni","Rhinella","Rio Perene Toad",DD,U,-11513776
-12,10,"acutirostris","Rhinella","",LC,S,-16731116
-13,9,"stanlaii","Rhinella","",LC,S,-16731116
-14,8,"proboscidea","Rhinella","",LC,S,-16731116
-17,16,"margaritifera","Rhinella","South American Common Toad",LC,S,-16731116
-18,16,"scitula","Rhinella","",DD,U,-11513776
-19,15,"roqueana","Rhinella","",LC,U,-16731116
-21,20,"ceratophrys","Rhinella","",LC,S,-16731116
-22,20,"cristinae","Rhinella","",DD,U,-11513776
-24,23,"sclerocephala","Rhinella","",EN,D,-8572416
-25,23,"castaneotica","Rhinella","",LC,S,-16731116
-26,4,"dapsilis","Rhinella","",LC,S,-16731116
-27,3,"intermedia","Rhinella","",NE,U,-16777216
-33,32,"festae","Rhamphophryne","",NE,U,-16777216
-34,32,"tenrec","Rhamphophryne","",NE,U,-16777216
-35,31,"rostrata","Rhamphophryne","",NE,U,-16777216
-37,36,"macrorhina","Rhamphophryne","",NE,U,-16777216
-38,36,"truebae","Rhamphophryne","",NE,U,-16777216
-39,29,"proboscidea","Rhamphophryne","",NE,U,-16777216
-42,41,"acrolopha","Rhamphophryne","",NE,U,-16777216
-43,41,"nicefori","Rhamphophryne","",NE,U,-16777216
-45,44,"lindae","Rhamphophryne","",NE,U,-16777216
-46,44,"ruizi","Rhamphophryne","",NE,U,-16777216
-53,52,"rhopophilius","Pelophryne","",NE,U,-16777216
-54,52,"brevipes","Pelophryne","",LC,D,-16731116
-55,51,"guentheri","Pelophryne","",VU,D,-11184866
-57,56,"signata","Pelophryne","",NT,D,-12486656
-58,56,"misera","Pelophryne","",VU,D,-11184866
-59,49,"macrotis","Pelophryne","",DD,U,-11513776
-62,61,"albotaeniata","Pelophryne","",EN,D,-8572416
-63,61,"api","Pelophryne","",EN,D,-8572416
-64,60,"lighti","Pelophryne","",VU,D,-11184866
-65,47,"scalpta","Parapelophryne","",EN,D,-8572416
-72,71,"galeatus","Ingerophrynus","Bony-headed Toad",LC,U,-16731116
-73,71,"parvus","Ingerophrynus","",LC,D,-16731116
-74,70,"biporcatus","Ingerophrynus","Crested Toad",LC,S,-16731116
-75,69,"kumquat","Ingerophrynus","",EN,D,-8572416
-76,68,"celebensis","Ingerophrynus","Sulawesian Toad",LC,S,-16731116
-78,77,"philippinicus","Ingerophrynus","Philippine Toad",LC,S,-16731116
-79,77,"divergens","Ingerophrynus","",LC,D,-16731116
-82,81,"quadriporcatus","Ingerophrynus","",LC,U,-16731116
-83,81,"macrotis","Ingerophrynus","",LC,D,-16731116
-84,80,"claviger","Ingerophrynus","",EN,D,-8572416
+8,7,"capueira","Odontophorus","Spot-winged Wood-quail",LC,U,-16731116
+9,7,"hyperythrus","Odontophorus","Chestnut Wood-quail",NT,U,-12486656
+10,6,"leucolaemus","Odontophorus","Black-breasted Wood-quail",LC,U,-16731116
+12,11,"columbianus","Odontophorus","Venezuelan Wood-quail",NT,U,-12486656
+13,11,"gujanensis","Odontophorus","Marbled Wood-quail",LC,U,-16731116
+16,15,"melanonotus","Odontophorus","Dark-backed Wood-quail",VU,U,-11184866
+17,15,"atrifrons","Odontophorus","Black-fronted Wood-quail",VU,U,-11184866
+19,18,"balliviani","Odontophorus","Stripe-faced Wood-quail",LC,U,-16731116
+20,18,"melanotis","Odontophorus","Black-eared Wood-quail",LC,U,-16731116
+23,22,"speciosus","Odontophorus","Rufous-breasted Wood-quail",LC,U,-16731116
+24,22,"dialeucos","Odontophorus","Tacarcuna Wood-quail",VU,U,-11184866
+26,25,"erythrops","Odontophorus","Rufous-fronted Wood-quail",LC,U,-16731116
+27,25,"guttatus","Odontophorus","Spotted Wood-quail",LC,U,-16731116
+29,28,"strophium","Odontophorus","Gorgeted Wood-quail",EN,U,-8572416
+30,28,"stellatus","Odontophorus","Starred Wood-quail",LC,U,-16731116
+33,32,"cinctus","Rhynchortyx","Tawny-faced Quail",LC,U,-16731116
+34,32,"thoracicus","Dactylortyx","Singing Quail",LC,U,-16731116
+36,35,"montezumae","Cyrtonyx","Montezuma Quail",LC,U,-16731116
+37,35,"ocellatus","Cyrtonyx","Ocellated Quail",VU,U,-11184866
+43,42,"virginianus","Colinus","Northern Bobwhite",NT,U,-12486656
+44,42,"cristatus","Colinus","Crested Bobwhite",LC,U,-16731116
+45,41,"nigrogularis","Colinus","Black-throated Bobwhite",LC,U,-16731116
+46,40,"leucopogon","Colinus","Spot-bellied Bobwhite",_U,[,-16777216
+49,48,"californica","Callipepla","California Quail",LC,U,-16731116
+50,48,"gambelii","Callipepla","Gambel's Quail",LC,U,-16731116
+52,51,"douglasii","Callipepla","Elegant Quail",LC,U,-16731116
+53,51,"squamata","Callipepla","Scaled Quail",LC,U,-16731116
+54,38,"pictus","Oreortyx","Mountain Quail",LC,U,-16731116

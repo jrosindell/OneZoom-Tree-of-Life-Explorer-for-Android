@@ -1,88 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"prehensilis","Mysateles","Prehensile-tailed Hutia",NT,U,-12486656
-16,14,"garridoi","Mysateles","Garrido's Hutia",CR,U,-3014646
-18,17,"meridionalis","Mysateles","Isla De La Juventud Tree Hutia",CR,D,-3014646
-19,17,"melanurus","Mesocapromys","",NE,U,-16777216
-22,21,"ingrahami","Geocapromys","Bahamian Hutia",VU,S,-11184866
-23,21,"brownii","Geocapromys","Brown's Hutia",VU,D,-11184866
-25,24,"pilorides","Capromys","Desmarest's Hutia",LC,S,-16731116
-26,24,"gundlachianus","Capromys","",NE,U,-16777216
-30,29,"angelcabrerai","Mesocapromys","Cabrera's Hutia",EN,U,-8572416
-31,29,"auritus","Mesocapromys","Eared Hutia",EN,S,-8572416
-32,28,"sanfelipensis","Mesocapromys","Little Earth Hutia",CR,U,-3014646
-33,27,"nanus","Mesocapromys","Dwarf Hutia",CR,U,-3014646
-34,10,"aedium","Plagiodontia","Cuvier's Hutia",EN,D,-8572416
-35,9,"portoricensis","Isolobodon","Puerto Rican Hutia",EX,U,-16777036
-44,43,"damarensis","Cryptomys","Damara Mole Rat",LC,S,-16731116
-45,43,"mechowi","Cryptomys","Mechow's Mole Rat",LC,S,-16731116
-46,42,"zechi","Cryptomys","Ghana Mole Rat",LC,S,-16731116
-49,48,"darlingi","Cryptomys","Mashona Mole-rat",LC,S,-16731116
-50,48,"amatus","Cryptomys","",NE,U,-16777216
-51,47,"hottentotus","Cryptomys","African Mole Rat",LC,S,-16731116
-54,53,"ochraceocinereus","Cryptomys","Ochre Mole Rat",LC,U,-16731116
-55,53,"bocagei","Cryptomys","Bocage's Mole Rat",LC,U,-16731116
-56,52,"foxi","Cryptomys","Nigerian Mole Rat",DD,U,-11513776
-59,58,"janetta","Bathyergus","Namaqua Dune Mole Rat",LC,U,-16731116
-60,58,"suillus","Bathyergus","Cape Dune Mole Rat",LC,S,-16731116
-61,57,"capensis","Georychus","Cape Mole Rat",LC,S,-16731116
-62,38,"argenteocinereus","Heliophobius","Silvery Mole Rat",LC,S,-16731116
-63,37,"glaber","Heterocephalus","Naked Mole Rat",LC,S,-16731116
-70,69,"shiptoni","Microcavia","Shipton's Mountain Cavy",NT,D,-12486656
-71,69,"niata","Microcavia","Andean Mountain Cavy",LC,S,-16731116
-72,68,"australis","Microcavia","Southern Mountain Cavy",LC,U,-16731116
-75,74,"tschudii","Cavia","Montane Guinea Pig",LC,S,-16731116
-76,74,"porcellus","Cavia","",NE,U,-16777216
-77,73,"aperea","Cavia","Brazilian Guinea Pig",LC,S,-16731116
-81,80,"spixii","Galea","Spix's Yellow-toothed Cavy",LC,S,-16731116
-82,80,"flavidens","Galea","Yellow-toothed Cavy",LC,U,-16731116
-83,79,"musteloides","Galea","Common Yellow-toothed Cavy",LC,S,-16731116
-84,78,"fulgida","Cavia","Shiny Guinea Pig",LC,S,-16731116
-85,65,"magna","Cavia","Greater Guinea Pig",LC,D,-16731116
-86,64,"rupestris","Kerodon","Rock Cavy",LC,S,-16731116
-95,94,"crassispinis","Hystrix","Thick-spined Porcupine",LC,S,-16731116
-96,94,"cristata","Hystrix","Crested Porcupine",LC,U,-16731116
-97,93,"sumatrae","Hystrix","Sumatran Porcupine",LC,S,-16731116
-98,92,"indica","Hystrix","Indian Crested Porcupine",LC,S,-16731116
-99,91,"brachyura","Hystrix","Malayan Porcupine",LC,D,-16731116
-102,101,"africaeaustralis","Hystrix","Cape Porcupine",LC,S,-16731116
-103,101,"pumila","Hystrix","Phillipine Porcupine",VU,D,-11184866
-104,100,"javanica","Hystrix","Sunda Porcupine",LC,S,-16731116
-106,105,"macrourus","Atherurus","Asiatic Brush-tailed Porcupine",LC,D,-16731116
-107,105,"africanus","Atherurus","African Brush-tailed Porcupine",LC,U,-16731116
-108,88,"fasciculata","Trichys","Long-tailed Porcupine",LC,S,-16731116
-109,87,"branickii","Dinomys","Pacarana",VU,D,-11184866
-115,114,"viscacia","Lagidium","Southern Mountain Viscacha",LC,S,-16731116
-116,114,"wolffsohni","Lagidium","Wolffsohn's Viscacha",DD,U,-11513776
-117,113,"peruanum","Lagidium","Northern Mountain Viscacha",LC,S,-16731116
-119,118,"chinchilla","Chinchilla","Short-tailed Chinchilla",CR,D,-3014646
-120,118,"lanigera","Chinchilla","Chinchilla",CR,D,-3014646
-121,111,"maximus","Lagostomus","Plains Viscacha",LC,U,-16731116
-122,110,"boliviensis","Abrocoma","Bolivian Chinchilla Rat",CR,D,-3014646
-128,127,"shistacea","Abrocoma","Sierra Del Tontal Chinchilla Rat",DD,U,-11513776
-129,127,"cinerea","Abrocoma","Ashy Chinchilla Rat",LC,S,-16731116
-131,130,"famatina","Abrocoma","Famatina Chinchilla Rat",DD,U,-11513776
-132,130,"vaccarum","Abrocoma","Mendozan Chinchilla Rat",DD,U,-11513776
-133,125,"budini","Abrocoma","Budin's Chinchilla Rat",DD,U,-11513776
-134,124,"bennettii","Abrocoma","Bennett's Chinchilla Rat",LC,U,-16731116
-136,135,"isthmius","Hydrochoerus","Lesser Capybara",DD,U,-11513776
-137,135,"hydrochaeris","Hydrochoerus","Capybara",LC,U,-16731116
-141,140,"taczanowskii","Cuniculus","Mountain Paca",NT,D,-12486656
-142,140,"paca","Cuniculus","Spotted Paca",LC,S,-16731116
-144,143,"patagonum","Dolichotis","Patagonian Cavy",NT,D,-12486656
-145,143,"salinicola","Dolichotis","Chacoan Mara",LC,S,-16731116
-147,146,"argentinus","Ctenomys","Argentine Tuco-tuco",NT,D,-12486656
-152,151,"fuscus","Aconaemys","Chilean Rock Rat",LC,U,-16731116
-153,151,"porteri","Aconaemys","",DD,U,-11513776
-154,150,"sagei","Aconaemys","Sage's Rock Rat",DD,U,-11513776
-156,155,"barrerae","Tympanoctomys","Plains Viscacha Rat",NT,D,-12486656
-157,155,"mimax","Octomys","Viscacha Rat",LC,U,-16731116
-159,158,"gliroides","Octodontomys","Mountain Degu",LC,S,-16731116
-160,158,"cyanus","Spalacopus","Coruro",LC,U,-16731116
-166,165,"vali","Ctenodactylus","Val's Gundi",DD,U,-11513776
-167,165,"gundi","Ctenodactylus","Gundi",LC,U,-16731116
-168,164,"spekei","Pectinator","Speke's Pectinator",LC,U,-16731116
-169,163,"mzabi","Massoutiera","Mzab Gundi",LC,U,-16731116
-170,162,"vae","Felovia","Felou Gundi",DD,U,-11513776
-173,172,"lunatus","Octodon","Moon-toothed Degu",VU,D,-11184866
-174,172,"degus","Octodon","Degu",LC,U,-16731116
-175,171,"bridgesi","Octodon","Bridges's Degu",VU,D,-11184866
+9,8,"melanoceps","Myrmeciza","White-shouldered Antbird",LC,U,-16731116
+10,8,"goeldii","Myrmeciza","Goeldi's Antbird",LC,U,-16731116
+12,11,"immaculata","Myrmeciza","Immaculate Antbird",LC,U,-16731116
+13,11,"fortis","Myrmeciza","Sooty Antbird",LC,U,-16731116
+15,14,"nudiceps","Gymnocichla","Bare-crowned Antbird",LC,U,-16731116
+16,14,"ardesiacus","Rhopornis","Slender Antbird",EN,U,-8572416
+19,18,"leucoptera","Pyriglena","White-shouldered Fire-eye",LC,U,-16731116
+20,18,"atra","Pyriglena","Fringe-backed Fire-eye",EN,U,-8572416
+21,17,"leuconota","Pyriglena","White-backed Fire-eye",LC,U,-16731116
+24,23,"lophotes","Percnostola","White-lined Antbird",LC,U,-16731116
+25,23,"arenarum","Percnostola","Allpahuayo Antbird",VU,U,-11184866
+26,22,"rufifrons","Percnostola","Black-headed Antbird",LC,U,-16731116
+29,28,"leucophrys","Myrmoborus","White-browed Antbird",LC,U,-16731116
+30,28,"melanurus","Myrmoborus","Black-tailed Antbird",NT,U,-12486656
+32,31,"myotherinus","Myrmoborus","Black-faced Antbird",LC,U,-16731116
+33,31,"lugubris","Myrmoborus","Ash-breasted Antbird",LC,U,-16731116
+34,2,"longipes","Myrmeciza","White-bellied Antbird",LC,U,-16731116
+40,39,"naevius","Hylophylax","Spot-backed Antbird",LC,U,-16731116
+41,39,"naevioides","Hylophylax","Spotted Antbird",LC,U,-16731116
+42,38,"punctulatus","Hylophylax","Dot-backed Antbird",LC,U,-16731116
+44,43,"melanopogon","Hypocnemoides","Black-chinned Antbird",LC,U,-16731116
+45,43,"maculicauda","Hypocnemoides","Band-tailed Antbird",LC,U,-16731116
+48,47,"loricata","Myrmeciza","White-bibbed Antbird",LC,U,-16731116
+49,47,"squamosa","Myrmeciza","Squamate Antbird",LC,U,-16731116
+50,46,"ferruginea","Myrmeciza","Ferruginous-backed Antbird",LC,U,-16731116
+54,53,"griseiceps","Myrmeciza","Grey-headed Antbird",VU,U,-11184866
+55,53,"ruficauda","Myrmeciza","Scalloped Antbird",EN,U,-8572416
+57,56,"exsul","Myrmeciza","Chestnut-backed Antbird",LC,U,-16731116
+58,56,"disjuncta","Myrmeciza","Yapacana Antbird",LC,U,-16731116
+61,60,"berlepschi","Myrmeciza","Stub-tailed Antbird",LC,U,-16731116
+62,60,"nigricauda","Myrmeciza","Esmeraldas Antbird",LC,U,-16731116
+63,59,"laemosticta","Myrmeciza","Dull-mantled Antbird",LC,U,-16731116
+71,70,"schistacea","Schistocichla","Slate-coloured Antbird",LC,U,-16731116
+72,70,"rufifacies","Schistocichla","Rufous-faced Antbird",LC,U,-16731116
+73,69,"caurensis","Schistocichla","Caura Antbird",LC,U,-16731116
+74,68,"humaythae","Schistocichla","Humaita Antbird",LC,U,-16731116
+76,75,"brunneiceps","Schistocichla","Brownish-headed Antbird",LC,U,-16731116
+77,75,"saturata","Schistocichla","Roraiman Antbird",LC,U,-16731116
+79,78,"leucostigma","Schistocichla","Spot-winged Antbird",LC,U,-16731116
+80,78,"hyperythra","Myrmeciza","Plumbeous Antbird",LC,U,-16731116
+81,65,"naevia","Sclateria","Silvered Antbird",LC,U,-16731116
+82,64,"nigropectus","Biatas","White-bearded Antshrike",VU,U,-11184866

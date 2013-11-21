@@ -1,49 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"varians","Eleutherodactylus","",VU,D,-11184866
-11,9,"vinhai","Eleutherodactylus","",NE,U,-16777216
-12,8,"fowleri","Eleutherodactylus","",CR,D,-3014646
-13,7,"hedricki","Eleutherodactylus","Hedrick's Coqui",EN,D,-8572416
-14,6,"antillensis","Eleutherodactylus","Red-eyed Coqui",LC,S,-16731116
-15,5,"locustus","Eleutherodactylus","Locust Coqui",CR,D,-3014646
-20,19,"auriculatoides","Eleutherodactylus","",EN,D,-8572416
-21,19,"barlagnei","Eleutherodactylus","",EN,D,-8572416
-22,18,"pinchoni","Eleutherodactylus","",EN,D,-8572416
-23,17,"flavescens","Eleutherodactylus","",NT,D,-12486656
-24,16,"gryllus","Eleutherodactylus","Cricket Coqui",EN,D,-8572416
-28,27,"cochranae","Eleutherodactylus","Cochran's Treefrog",LC,S,-16731116
-29,27,"shrevei","Eleutherodactylus","",NE,U,-16777216
-31,30,"eneidae","Eleutherodactylus","Elegant Coqui",CR,D,-3014646
-32,30,"eileenae","Eleutherodactylus","",NT,D,-12486656
-36,35,"schwartzi","Eleutherodactylus","Virgin Islands Coqui",EN,D,-8572416
-37,35,"fallax","Eleutherodactylus","",NE,U,-16777216
-38,34,"montanus","Eleutherodactylus","",EN,D,-8572416
-39,33,"cooki","Eleutherodactylus","",VU,U,-11184866
-50,49,"guantanamera","Eleutherodactylus","",VU,D,-11184866
-51,49,"wetmorei","Eleutherodactylus","",VU,D,-11184866
-52,48,"amplinympha","Eleutherodactylus","",EN,D,-8572416
-53,47,"jasperi","Eleutherodactylus","Golden Coqui",CR,D,-3014646
-54,46,"leberi","Eleutherodactylus","",EN,D,-8572416
-56,55,"brittoni","Eleutherodactylus","Grass Coqui",LC,S,-16731116
-57,55,"patriciae","Eleutherodactylus","",EN,D,-8572416
-59,58,"auriculatus","Eleutherodactylus","",LC,D,-16731116
-60,58,"taciturnus","Eleutherodactylus","",NE,U,-16777216
-64,63,"johnstonei","Eleutherodactylus","Lesser Antillean whistling frog",LC,I,-16731116
-65,63,"ronaldi","Eleutherodactylus","",VU,D,-11184866
-66,62,"briceni","Eleutherodactylus","",NE,U,-16777216
-68,67,"coqui","Eleutherodactylus","Common Coqui",LC,S,-16731116
-69,67,"pituinus","Eleutherodactylus","",EN,D,-8572416
-71,70,"euphronides","Eleutherodactylus","",NE,U,-16777216
-72,70,"poolei","Eleutherodactylus","",CR,D,-3014646
-73,41,"urichi","Eleutherodactylus","",NE,U,-16777216
-75,74,"martinicensis","Eleutherodactylus","",NT,D,-12486656
-76,74,"bartonsmithi","Eleutherodactylus","",CR,D,-3014646
-79,78,"portoricensis","Eleutherodactylus","Upland Coqui",EN,D,-8572416
-80,78,"ionthus","Eleutherodactylus","",EN,D,-8572416
-81,77,"reclusas","Eleutherodactylus","",NE,U,-16777216
-86,85,"pleurostriatus","Eleutherodactylus","",NE,U,-16777216
-87,85,"reticulatus","Eleutherodactylus","",NE,U,-16777216
-88,84,"lentiginosus","Eleutherodactylus","",NE,U,-16777216
-90,89,"hybotragus","Eleutherodactylus","",NE,U,-16777216
-91,89,"jaimei","Eleutherodactylus","",NE,U,-16777216
-93,92,"loustes","Eleutherodactylus","",NE,U,-16777216
-94,92,"uisae","Eleutherodactylus","",NE,U,-16777216
+10,9,"australis","Treron","Madagascar Green-pigeon",LC,U,-16731116
+11,9,"waalia","Treron","Bruce's Green-pigeon",LC,U,-16731116
+13,12,"pembaensis","Treron","Pemba Green-pigeon",VU,U,-11184866
+14,12,"calvus","Treron","African Green-pigeon",LC,U,-16731116
+15,7,"apicauda","Treron","Pin-tailed Green-pigeon",LC,U,-16731116
+16,6,"griseicauda","Treron","Grey-cheeked Green-pigeon",LC,U,-16731116
+18,17,"sphenurus","Treron","Wedge-tailed Green-pigeon",LC,U,-16731116
+19,17,"olax","Treron","Little Green-pigeon",LC,U,-16731116
+21,20,"vernans","Treron","Pink-necked Green-pigeon",LC,U,-16731116
+22,20,"formosae","Treron","Whistling Green-pigeon",NT,U,-12486656
+23,3,"sieboldii","Treron","White-bellied Green-pigeon",LC,U,-16731116
+26,25,"teysmannii","Treron","Sumba Green-pigeon",NT,U,-12486656
+27,25,"psittaceus","Treron","Timor Green-pigeon",EN,U,-8572416
+28,24,"fulvicollis","Treron","Cinnamon-headed Green-pigeon",NT,U,-12486656
+29,1,"phoenicopterus","Treron","Yellow-footed Green-pigeon",LC,U,-16731116
+36,35,"capellei","Treron","Large Green-pigeon",VU,U,-11184866
+37,35,"floris","Treron","Flores Green-pigeon",VU,U,-11184866
+38,34,"curvirostra","Treron","Thick-billed Green-pigeon",LC,U,-16731116
+39,33,"sanctithomae","Treron","Sao Tome Green-pigeon",LC,U,-16731116
+40,32,"pompadora","Treron","Pompadour Green-pigeon",LC,U,-16731116
+41,31,"oxyurus","Treron","Sumatran Green-pigeon",NT,U,-12486656
+43,42,"bicinctus","Treron","Orange-breasted Green-pigeon",LC,U,-16731116
+44,42,"seimundi","Treron","Yellow-vented Green-pigeon",LC,U,-16731116

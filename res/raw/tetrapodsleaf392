@@ -1,69 +1,46 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"ornatus","Cophixalus","Ornate Frog",LC,S,-16731116
-13,11,"bewaniensis","Cophixalus","",DD,U,-11513776
-14,10,"ateles","Cophixalus","",DD,U,-11513776
-15,9,"verrucosus","Cophixalus","",LC,S,-16731116
-17,16,"hosmeri","Cophixalus","Clicking Rainforest Frog",LC,S,-16731116
-18,16,"cheesmanae","Cophixalus","",LC,S,-16731116
-19,7,"kaindiensis","Cophixalus","",DD,U,-11513776
-20,6,"tetzlaffi","Cophixalus","",DD,U,-11513776
-22,21,"monticola","Cophixalus","Mountain-top Nursery-frog",EN,U,-8572416
-23,21,"pipilans","Cophixalus","",LC,S,-16731116
-29,28,"peninsularis","Cophixalus","Cape York Frog",DD,U,-11513776
-30,28,"shellyi","Cophixalus","",LC,S,-16731116
-31,27,"neglectus","Cophixalus","Neglected Frog",EN,D,-8572416
-32,26,"daymani","Cophixalus","",DD,U,-11513776
-33,25,"pulchellus","Cophixalus","",DD,U,-11513776
-35,34,"riparius","Cophixalus","",LC,S,-16731116
-36,34,"balbus","Cophixalus","",DD,U,-11513776
-44,43,"bombiens","Cophixalus","Buzzing Frog",NT,S,-12486656
-45,43,"parkeri","Cophixalus","",LC,S,-16731116
-46,42,"crepitans","Cophixalus","Rattling Frog",NT,S,-12486656
-48,47,"nubicola","Cophixalus","",VU,U,-11184866
-49,47,"montanus","Cophixalus","",DD,U,-11513776
-50,40,"verecundus","Cophixalus","",DD,U,-11513776
-53,52,"saxatilis","Cophixalus","Black Mountain Boulder Frog",VU,S,-11184866
-54,52,"aimbensis","Cophixalus","",DD,U,-11513776
-55,51,"biroi","Cophixalus","",LC,S,-16731116
-58,57,"cryptotympanum","Cophixalus","",DD,S,-11513776
-59,57,"zweifeli","Cophixalus","",DD,U,-11513776
-60,56,"infacetus","Cophixalus","Inelegant Frog",LC,S,-16731116
-61,37,"tagulensis","Cophixalus","",DD,U,-11513776
-66,65,"concinnus","Cophixalus","Beautiful Nursery-frog",CR,S,-3014646
-67,65,"sphagnicola","Cophixalus","",LC,S,-16731116
-68,64,"aenigma","Cophixalus","Tapping Nursery-frog",VU,S,-11184866
-69,63,"exiguus","Cophixalus","Scanty Frog",NT,S,-12486656
-70,62,"mcdonaldi","Cophixalus","Mcdonald's Frog",EN,U,-8572416
-75,74,"tetraphonus","Hylophorbus","",DD,U,-11513776
-76,74,"richardsi","Hylophorbus","",DD,U,-11513776
-77,73,"nigrinus","Hylophorbus","",DD,U,-11513776
-78,72,"rufescens","Hylophorbus","",LC,S,-16731116
-81,80,"picoides","Hylophorbus","",DD,U,-11513776
-82,80,"sextus","Hylophorbus","",DD,U,-11513776
-83,79,"wondiwoi","Hylophorbus","",DD,U,-11513776
-93,92,"bidens","Xenorhina","",LC,S,-16731116
-94,92,"huon","Xenorhina","",DD,U,-11513776
-95,91,"obesa","Xenorhina","",LC,S,-16731116
-97,96,"schiefenhoeveli","Xenorhina","",DD,U,-11513776
-98,96,"macrops","Xenorhina","",LC,S,-16731116
-101,100,"oxycephala","Xenorhina","",LC,S,-16731116
-102,100,"zweifeli","Xenorhina","",DD,U,-11513776
-104,103,"ocellatus","Xenorhina","",NE,U,-16777216
-105,103,"minima","Xenorhina","",DD,U,-11513776
-109,108,"eiponis","Xenorhina","",DD,U,-11513776
-110,108,"adisca","Xenorhina","",DD,U,-11513776
-111,107,"ophiodon","Xenorhina","",DD,U,-11513776
-112,106,"similis","Xenorhina","",LC,S,-16731116
-117,116,"parkerorum","Xenorhina","",LC,S,-16731116
-118,116,"bouwensi","Xenorhina","",LC,S,-16731116
-119,115,"rostrata","Xenorhina","",LC,S,-16731116
-120,114,"subcroceus","Xenorhina","",NE,U,-16777216
-122,121,"arfakiana","Xenorhina","",DD,U,-11513776
-123,121,"multisica","Xenorhina","",DD,U,-11513776
-125,124,"scheepstrai","Xenorhina","",DD,U,-11513776
-126,124,"mehelyi","Xenorhina","",LC,S,-16731116
-128,127,"gigantea","Xenorhina","",DD,U,-11513776
-129,127,"tumulus","Xenorhina","",DD,U,-11513776
-132,131,"arboricola","Xenorhina","",DD,S,-11513776
-133,131,"anorbis","Xenorhina","",DD,U,-11513776
-134,130,"fuscigula","Xenorhina","",LC,S,-16731116
+12,11,"pfeifferi","Lasiurus","Pfeiffer's Red Bat",NT,U,-12486656
+13,11,"blossevillii","Lasiurus","Red Bat",LC,U,-16731116
+14,10,"salinae","Lasiurus","",NE,U,-16777216
+15,9,"degelidus","Lasiurus","Jamaican Red Bat",VU,U,-11184866
+18,17,"borealis","Lasiurus","Eastern Red Bat",LC,S,-16731116
+19,17,"varius","Lasiurus","Cinnamon Red Bat",LC,U,-16731116
+20,16,"minor","Lasiurus","Minor Red Bat",VU,D,-11184866
+21,7,"seminolus","Lasiurus","Seminole Bat",LC,U,-16731116
+23,22,"cinereus","Lasiurus","Hawaiian Hoary Bat",LC,U,-16731116
+24,22,"castaneus","Lasiurus","Tacarcuna Bat",DD,U,-11513776
+27,26,"intermedius","Lasiurus","Northern Yellow Bat",LC,U,-16731116
+28,26,"insularis","Lasiurus","Cuban Yellow Bat",VU,U,-11184866
+30,29,"xanthinus","Lasiurus","Western Yellow Bat",LC,S,-16731116
+31,29,"ega","Lasiurus","Southern Yellow Bat",LC,U,-16731116
+32,4,"egregius","Lasiurus","Big Red Bat",DD,U,-11513776
+40,39,"gouldi","Nyctophilus","Gould's Long-eared Bat",LC,D,-16731116
+41,39,"bifax","Nyctophilus","Eastern Long-eared Bat",LC,S,-16731116
+42,38,"walkeri","Nyctophilus","Pygmy Long-eared Bat",LC,S,-16731116
+44,43,"microtis","Nyctophilus","Papuan Long-eared Bat",LC,S,-16731116
+45,43,"heran","Nyctophilus","Sundan Long-eared Bat",DD,D,-11513776
+47,46,"arnhemensis","Nyctophilus","Northern Long-eared Bat",LC,S,-16731116
+48,46,"geoffroyi","Nyctophilus","Lesser Long-eared Bat",LC,S,-16731116
+50,49,"microdon","Nyctophilus","Small-toothed Long-eared Bat",DD,U,-11513776
+51,49,"timoriensis","Nyctophilus","Greater Long-eared Bat",DD,D,-11513776
+52,34,"imogene","Pharotis","Thomas's Big-eared Bat",CR,U,-3014646
+53,33,"subflavus","Pipistrellus","Eastern Pipistrelle",LC,S,-16731116
+56,55,"circumdatus","Arielulus","Bronze Sprite",LC,U,-16731116
+57,55,"cuprosus","Arielulus","Coppery Sprite",DD,U,-11513776
+58,54,"societatis","Arielulus","Social Sprite",VU,D,-11184866
+61,60,"stenopterus","Pipistrellus","Narrow-winged Pipistrelle",LC,U,-16731116
+62,60,"joffrei","Hypsugo","",NE,U,-16777216
+63,59,"anthonyi","Hypsugo","",NE,U,-16777216
+69,68,"matroka","Eptesicus","Malagasy Serotine",LC,U,-16731116
+70,68,"capensis","Neoromicia","",NE,U,-16777216
+72,71,"somalicus","Neoromicia","",NE,U,-16777216
+73,71,"zuluensis","Neoromicia","",NE,U,-16777216
+76,75,"guineensis","Neoromicia","",NE,U,-16777216
+77,75,"brunneus","Neoromicia","",NE,U,-16777216
+78,74,"melckorum","Neoromicia","",NE,U,-16777216
+81,80,"tenuipinnis","Neoromicia","",NE,U,-16777216
+82,80,"rendalli","Neoromicia","",NE,U,-16777216
+83,79,"flavescens","Neoromicia","",NE,U,-16777216
+86,85,"kitcheneri","Hypsugo","",NE,U,-16777216
+87,85,"lophurus","Hypsugo","",NE,U,-16777216
+88,84,"pulveratus","Hypsugo","",NE,U,-16777216

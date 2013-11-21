@@ -1,22 +1,22 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"auriceps","Chlorostilbon","Golden-crowned Emerald",LC,U,-16731116
-9,7,"notata","Chlorestes","Blue-chinned Sapphire",LC,U,-16731116
-10,6,"lucidus","Chlorostilbon","Glittering-bellied Emerald",LC,U,-16731116
-13,12,"assimilis","Chlorostilbon","Garden Emerald",LC,U,-16731116
-14,12,"ricordii","Chlorostilbon","Cuban Emerald",LC,U,-16731116
-15,11,"mellisugus","Chlorostilbon","Blue-tailed Emerald",LC,U,-16731116
-19,18,"swainsonii","Chlorostilbon","Hispaniolan Emerald",LC,U,-16731116
-20,18,"melanorhynchus","Chlorostilbon","Western Emerald",LC,U,-16731116
-21,17,"forficatus","Chlorostilbon","Cozumel Emerald",LC,U,-16731116
-22,16,"stenurus","Chlorostilbon","Narrow-tailed Emerald",LC,U,-16731116
-26,25,"poortmani","Chlorostilbon","Short-tailed Emerald",LC,U,-16731116
-27,25,"alice","Chlorostilbon","Green-tailed Emerald",LC,U,-16731116
-29,28,"maugaeus","Chlorostilbon","Puerto Rican Emerald",LC,U,-16731116
-30,28,"russatus","Chlorostilbon","Coppery Emerald",LC,U,-16731116
-31,23,"canivetii","Chlorostilbon","Fork-tailed Emerald",LC,U,-16731116
-34,33,"albicollis","Leucochloris","White-throated Hummingbird",LC,U,-16731116
-35,33,"bicolor","Cyanophaia","Blue-headed Hummingbird",LC,U,-16731116
-37,36,"olivaresi","Chlorostilbon","Chiribiquete Emerald",LC,U,-16731116
-38,36,"gibsoni","Chlorostilbon","Red-billed Emerald",LC,U,-16731116
-39,1,"latirostris","Cynanthus","Broad-billed Hummingbird",LC,U,-16731116
-40,0,"sordidus","Cynanthus","Dusky Hummingbird",LC,U,-16731116
+7,6,"brachypterus","Cisticola","Siffling Cisticola",LC,U,-16731116
+8,6,"discolor","Cisticola","Brown-backed Cisticola",LC,U,-16731116
+10,9,"galactotes","Cisticola","Winding Cisticola",LC,U,-16731116
+11,9,"bulliens","Cisticola","Bubbling Cisticola",LC,U,-16731116
+12,4,"troglodytes","Cisticola","Foxy Cisticola",LC,U,-16731116
+15,14,"aberdare","Cisticola","Aberdare Cisticola",EN,U,-8572416
+16,14,"cantans","Cisticola","Singing Cisticola",LC,U,-16731116
+17,13,"chiniana","Cisticola","Rattling Cisticola",LC,U,-16731116
+21,20,"restrictus","Cisticola","Tana River Cisticola",DD,U,-11513776
+22,20,"erythrops","Cisticola","Red-faced Cisticola",LC,U,-16731116
+24,23,"guinea","Cisticola","Dorst's Cisticola",LC,U,-16731116
+25,23,"nanus","Cisticola","Tiny Cisticola",LC,U,-16731116
+28,27,"eximius","Cisticola","Black-necked Cisticola",LC,U,-16731116
+29,27,"rufilatus","Cisticola","Tinkling Cisticola",LC,U,-16731116
+31,30,"bodessa","Cisticola","Boran Cisticola",LC,U,-16731116
+32,30,"rufus","Cisticola","Rufous Cisticola",LC,U,-16731116
+36,35,"textrix","Cisticola","Tink-tink Cisticola",LC,U,-16731116
+37,35,"robustus","Cisticola","Stout Cisticola",LC,U,-16731116
+38,34,"haesitatus","Cisticola","Island Cisticola",NT,U,-12486656
+39,33,"angusticauda","Cisticola","Tabora Cisticola",LC,U,-16731116
+40,0,"melanurus","Cisticola","Slender-tailed Cisticola",DD,U,-11513776

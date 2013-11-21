@@ -1,40 +1,66 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"ruficollis","Sporophila","Dark-throated Seedeater",NT,U,-12486656
-13,11,"hypochroma","Sporophila","Rufous-rumped Seedeater",NT,U,-12486656
-14,10,"hypoxantha","Sporophila","Tawny-bellied Seedeater",LC,U,-16731116
-16,15,"bouvreuil","Sporophila","Capped Seedeater",LC,U,-16731116
-17,15,"palustris","Sporophila","Marsh Seedeater",EN,U,-8572416
-18,8,"nigrorufa","Sporophila","Black-and-tawny Seedeater",VU,U,-11184866
-19,7,"bouvronides","Sporophila","Lesson's Seedeater",LC,U,-16731116
-21,20,"melanogaster","Sporophila","Black-bellied Seedeater",NT,U,-12486656
-22,20,"cinnamomea","Sporophila","Chestnut Seedeater",VU,U,-11184866
-24,23,"peruviana","Sporophila","Parrot-billed Seedeater",LC,U,-16731116
-25,23,"minuta","Sporophila","Ruddy-breasted Seedeater",LC,U,-16731116
-27,26,"castaneiventris","Sporophila","Chestnut-bellied Seedeater",LC,U,-16731116
-28,26,"telasco","Sporophila","Chestnut-throated Seedeater",LC,U,-16731116
-31,30,"leucoptera","Sporophila","White-bellied Seedeater",LC,U,-16731116
-32,30,"ardesiaca","Sporophila","Dubois's Seedeater",LC,U,-16731116
-33,29,"murallae","Sporophila","Caqueta Seedeater",LC,U,-16731116
-37,36,"americana","Sporophila","Wing-barred Seedeater",LC,U,-16731116
-38,36,"corvina","Sporophila","Variable Seedeater",LC,U,-16731116
-39,35,"intermedia","Sporophila","Grey Seedeater",LC,U,-16731116
-41,40,"lineola","Sporophila","Lined Seedeater",LC,U,-16731116
-42,40,"simplex","Sporophila","Drab Seedeater",LC,U,-16731116
-47,46,"schistacea","Sporophila","Slate-coloured Seedeater",LC,U,-16731116
-48,46,"falcirostris","Sporophila","Temminck's Seedeater",VU,U,-11184866
-50,49,"torqueola","Sporophila","White-collared Seedeater",LC,U,-16731116
-51,49,"frontalis","Sporophila","Buffy-fronted Seedeater",VU,U,-11184866
-54,53,"collaris","Sporophila","Rusty-collared Seedeater",LC,U,-16731116
-55,53,"plumbea","Sporophila","Plumbeous Seedeater",LC,U,-16731116
-56,52,"albogularis","Sporophila","White-throated Seedeater",LC,U,-16731116
-59,58,"caerulescens","Sporophila","Double-collared Seedeater",LC,U,-16731116
-60,58,"nigricollis","Sporophila","Yellow-bellied Seedeater",LC,U,-16731116
-62,61,"luctuosa","Sporophila","Black-and-white Seedeater",LC,U,-16731116
-63,61,"melanops","Sporophila","Hooded Seedeater",CR,U,-3014646
-69,68,"crassirostris","Oryzoborus","Large-billed Seed-finch",LC,U,-16731116
-70,68,"nuttingi","Oryzoborus","Nicaraguan Seed-finch",LC,U,-16731116
-71,67,"maximiliani","Oryzoborus","Great-billed Seed-finch",NT,U,-12486656
-72,66,"atrirostris","Oryzoborus","Black-billed Seed-finch",LC,U,-16731116
-74,73,"funereus","Oryzoborus","Thick-billed Seed-finch",LC,U,-16731116
-75,73,"angolensis","Oryzoborus","Lesser Seed-finch",LC,U,-16731116
-76,64,"fringilloides","Dolospingus","White-naped Seedeater",LC,U,-16731116
+11,10,"hylaios","Phrynobatrachus","",LC,S,-16731116
+12,10,"dispar","Phrynobatrachus","",LC,S,-16731116
+13,9,"acridoides","Phrynobatrachus","",LC,S,-16731116
+15,14,"brevipalmatus","Phrynobatrachus","",DD,U,-11513776
+16,14,"phyllophilus","Phrynobatrachus","",NT,D,-12486656
+19,18,"perpalmatus","Phrynobatrachus","",LC,S,-16731116
+20,18,"pygmaeus","Phrynobatrachus","",DD,U,-11513776
+22,21,"accraensis","Phrynobatrachus","",NE,U,-16777216
+23,21,"asper","Phrynobatrachus","",DD,U,-11513776
+24,6,"werneri","Phrynobatrachus","",LC,S,-16731116
+28,27,"sulfureogularis","Phrynobatrachus","",DD,U,-11513776
+29,27,"cryptotis","Phrynobatrachus","",DD,U,-11513776
+30,26,"pakenhami","Phrynobatrachus","",EN,D,-8572416
+32,31,"cricogaster","Phrynobatrachus","",VU,D,-11184866
+33,31,"irangi","Phrynobatrachus","",EN,D,-8572416
+40,39,"manengoubensis","Phrynobatrachus","",DD,U,-11513776
+41,39,"fraterculus","Phrynobatrachus","",LC,D,-16731116
+42,38,"nanus","Phrynobatrachus","",DD,U,-11513776
+44,43,"natalensis","Phrynobatrachus","Natal Dwarf Puddle Frog",LC,S,-16731116
+45,43,"batesii","Phrynobatrachus","",LC,U,-16731116
+47,46,"albomarginatus","Phrynobatrachus","",DD,U,-11513776
+48,46,"minutus","Phrynobatrachus","",LC,U,-16731116
+51,50,"uzungwensis","Phrynobatrachus","",VU,D,-11184866
+52,50,"rungwensis","Phrynobatrachus","",LC,S,-16731116
+53,49,"vogti","Phrynobatrachus","",DD,U,-11513776
+54,34,"stewartae","Phrynobatrachus","",DD,U,-11513776
+61,60,"calcaratus","Phrynobatrachus","Boutry River Frog",LC,S,-16731116
+62,60,"anotis","Phrynobatrachus","",DD,U,-11513776
+63,59,"auritus","Phrynobatrachus","",LC,D,-16731116
+64,58,"scapularis","Phrynobatrachus","",LC,S,-16731116
+65,57,"africanus","Phrynobatrachus","",LC,D,-16731116
+66,56,"ukingensis","Phrynobatrachus","",DD,U,-11513776
+67,55,"albolabris","Phrynobatrachus","",DD,U,-11513776
+69,68,"bequaerti","Phrynobatrachus","",VU,D,-11184866
+70,68,"taiensis","Phrynobatrachus","",DD,U,-11513776
+76,75,"acutirostris","Phrynobatrachus","",VU,D,-11184866
+77,75,"dalcqi","Phrynobatrachus","",DD,D,-11513776
+78,74,"guineensis","Phrynobatrachus","",NT,D,-12486656
+81,80,"parvulus","Phrynobatrachus","",LC,S,-16731116
+82,80,"parkeri","Phrynobatrachus","",LC,S,-16731116
+83,79,"sternfeldi","Phrynobatrachus","",DD,U,-11513776
+85,84,"plicatus","Phrynobatrachus","Coast River Frog",LC,S,-16731116
+86,84,"bullans","Phrynobatrachus","",LC,U,-16731116
+92,91,"dendrobates","Phrynobatrachus","",LC,D,-16731116
+93,91,"rouxi","Phrynobatrachus","",DD,U,-11513776
+94,90,"graueri","Phrynobatrachus","",LC,U,-16731116
+95,89,"kinangopensis","Phrynobatrachus","",LC,S,-16731116
+96,88,"sandersoni","Phrynobatrachus","",LC,D,-16731116
+97,87,"krefftii","Phrynobatrachus","",EN,D,-8572416
+105,104,"steindachneri","Phrynobatrachus","",VU,D,-11184866
+106,104,"ogoensis","Phrynobatrachus","",DD,U,-11513776
+107,103,"annulatus","Phrynobatrachus","",EN,D,-8572416
+109,108,"inexpectatus","Phrynobatrachus","",DD,U,-11513776
+110,108,"congicus","Phrynobatrachus","",DD,U,-11513776
+111,101,"versicolor","Phrynobatrachus","",VU,D,-11184866
+113,112,"giorgii","Phrynobatrachus","",DD,U,-11513776
+114,112,"alleni","Phrynobatrachus","",NT,D,-12486656
+116,115,"gutturosus","Phrynobatrachus","Chabanaud's River Frog",LC,S,-16731116
+117,115,"villiersi","Phrynobatrachus","",VU,D,-11184866
+122,121,"mababiensis","Phrynobatrachus","",LC,S,-16731116
+123,121,"ghanensis","Phrynobatrachus","",EN,D,-8572416
+124,120,"keniensis","Phrynobatrachus","",LC,S,-16731116
+125,119,"cornutus","Phrynobatrachus","",LC,D,-16731116
+127,126,"francisci","Phrynobatrachus","",LC,S,-16731116
+128,126,"tokba","Phrynobatrachus","",LC,S,-16731116

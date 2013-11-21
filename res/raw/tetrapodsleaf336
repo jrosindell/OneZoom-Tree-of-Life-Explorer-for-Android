@@ -1,54 +1,71 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"lesueurii","Litoria","Lesueur's Frog",LC,D,-16731116
-11,9,"wilcoxii","Litoria","",LC,D,-16731116
-12,8,"jungguy","Litoria","",NT,U,-12486656
-13,7,"exophthalmia","Litoria","",LC,S,-16731116
-14,6,"quadrilineata","Litoria","",VU,U,-11184866
-16,15,"genimaculata","Litoria","Green-eyed Treefrog",LC,D,-16731116
-17,15,"eucnemis","Litoria","Fringed Treefrog",LC,S,-16731116
-21,20,"latopalmata","Litoria","Broad-palmed Rocket Frog",LC,S,-16731116
-22,20,"tornieri","Litoria","Tornier's Frog",LC,S,-16731116
-23,19,"inermis","Litoria","Bumpy Rocket Frog",LC,S,-16731116
-24,18,"pallida","Litoria","Pale Frog",LC,S,-16731116
-31,30,"phyllochroa","Litoria","Leaf Green River Treefrog",LC,S,-16731116
-32,30,"piperata","Litoria","Peppered Treefrog",CR,U,-3014646
-33,29,"daviesae","Litoria","",VU,D,-11184866
-35,34,"citropa","Litoria","Blue Mountains Treefrog",LC,S,-16731116
-36,34,"pearsoniana","Litoria","Cascade Treefrog",NT,D,-12486656
-37,27,"subglandulosa","Litoria","Glandular Frog",VU,D,-11184866
-38,26,"leucova","Litoria","",DD,U,-11513776
-41,40,"wollastoni","Litoria","",LC,S,-16731116
-42,40,"arfakiana","Litoria","",LC,S,-16731116
-43,39,"oenicolen","Litoria","",DD,U,-11513776
-50,49,"raniformis","Litoria","Green And Gold Frog",EN,D,-8572416
-51,49,"aurea","Litoria","Golden Bell Frog",VU,D,-11184866
-52,48,"dahlii","Litoria","Dahl's Aquatic Frog",LC,S,-16731116
-53,47,"castanea","Litoria","Yellow-spotted Treefrog",CR,U,-3014646
-54,46,"moorei","Litoria","Bell Frog",LC,S,-16731116
-57,56,"freycineti","Litoria","Freycinet's Frog",VU,D,-11184866
-58,56,"nasuta","Litoria","Rocket Frog",LC,S,-16731116
-59,55,"booroolongensis","Litoria","Booroolong Frog",CR,D,-3014646
-61,60,"dorsivena","Litoria","",DD,U,-11513776
-62,60,"bulmeri","Litoria","",DD,U,-11513776
-69,68,"umarensis","Litoria","Umar Treefrog",DD,U,-11513776
-70,68,"nigropunctata","Litoria","",LC,S,-16731116
-72,71,"vocivincens","Litoria","",LC,S,-16731116
-73,71,"iris","Litoria","",LC,S,-16731116
-74,66,"majikthise","Litoria","",DD,U,-11513776
-77,76,"verae","Litoria","Vera's Treefrog",DD,U,-11513776
-78,76,"rubrops","Litoria","",DD,U,-11513776
-80,79,"singadanae","Litoria","",DD,U,-11513776
-81,79,"pronimia","Litoria","",LC,S,-16731116
-85,84,"havina","Litoria","",LC,S,-16731116
-86,84,"mucro","Litoria","",DD,U,-11513776
-87,83,"wapogaensis","Litoria","",DD,S,-11513776
-89,88,"chloronota","Litoria","",DD,U,-11513776
-90,88,"ollauro","Litoria","",DD,U,-11513776
-95,94,"nyakalensis","Litoria","Mountain Mistfrog",CR,D,-3014646
-96,94,"lorica","Litoria","Armoured Frog",CR,D,-3014646
-97,93,"nannotis","Litoria","Torrent Treefrog",EN,S,-8572416
-98,92,"rheocola","Litoria","Common Mist Frog",EN,D,-8572416
-100,99,"cyclorhyncha","Litoria","Spotted-thighed Frog",LC,S,-16731116
-101,99,"coplandi","Litoria","Copland's Rock Frog",LC,S,-16731116
-103,102,"brevipalmata","Litoria","Green-thighed Frog",EN,D,-8572416
-104,102,"louisiadensis","Litoria","",LC,S,-16731116
+13,12,"coronata","Pseudoboa","",NE,U,-16777216
+14,12,"maculata","Boiruna","",NE,U,-16777216
+15,11,"brazili","Rhachidelus","",NE,U,-16777216
+16,10,"anomalus","Drepanoides","Black-collared Snake",NE,U,-16777216
+17,9,"guerini","Phimophis","",NE,U,-16777216
+18,8,"petola","Oxyrhopus","",NE,U,-16777216
+21,20,"triangularis","Hydrops","",NE,U,-16777216
+22,20,"angulatus","Helicops","",NE,U,-16777216
+23,19,"plicatilis","Pseudoeryx","",NE,U,-16777216
+26,25,"melanostigma","Echinanthera","",NE,U,-16777216
+27,25,"affinis","Taeniophallus","",NE,U,-16777216
+28,24,"punctata","Sordellina","",NE,U,-16777216
+31,30,"agassizii","Pseudablabes","",NE,U,-16777216
+32,30,"aestiva","Philodryas","",NE,U,-16777216
+33,29,"argenteus","Xenoxybelis","Mexican Vine Snake",NE,U,-16777216
+41,40,"trigonatus","Pseudotomodon","",NE,U,-16777216
+42,40,"peruviana","Tachymenis","",NE,U,-16777216
+43,39,"flavovirgatus","Ptychophis","",NE,U,-16777216
+45,44,"paucidens","Calamodontophis","",VU,D,-11184866
+46,44,"dorsatus","Tomodon","",NE,U,-16777216
+47,37,"brasiliensis","Gomesophis","",NE,U,-16777216
+48,36,"compressus","Siphlophis","",NE,U,-16777216
+51,50,"gigas","Hydrodynastes","",NE,U,-16777216
+52,50,"scalaris","Xenopholis","",NE,U,-16777216
+53,49,"striaticeps","Tropidodryas","",NE,U,-16777216
+54,34,"amarali","Caaeteboia","",NE,U,-16777216
+57,56,"quinquelineatus","Elapomorphus","",NE,U,-16777216
+58,56,"nasutus","Phalotris","",NE,U,-16777216
+59,55,"flavotorquata","Apostolepis","",NE,U,-16777216
+70,69,"cantherigerus","Cubophis","",NE,U,-16777216
+71,69,"dorsalis","Ialtris","",NE,U,-16777216
+72,68,"ferox","Hypsirhynchus","",NE,U,-16777216
+73,67,"andreae","Caraiba","",NE,U,-16777216
+74,66,"portoricensis","Borikenophis","",NE,U,-16777216
+75,65,"rufiventris","Alsophis","Red-bellied Racer",EN,U,-8572416
+76,64,"exiguum","Magliophis","",NE,U,-16777216
+77,63,"anomalus","Haitiophis","",NE,U,-16777216
+78,62,"vittatum","Arrhyton","",NE,U,-16777216
+84,83,"aesculapii","Erythrolamprus","",NE,U,-16777216
+85,83,"pygmaea","Umbrivaga","",NE,U,-16777216
+86,82,"clelia","Clelia","",NE,U,-16777216
+87,81,"neuwiedi","Xenodon","",NE,U,-16777216
+88,80,"lineatus","Liophis","",NE,U,-16777216
+89,79,"catesbyi","Uromacer","",NE,U,-16777216
+90,60,"joberti","Psomophis","",NE,U,-16777216
+93,92,"nevermanni","Crisantophis","",NE,U,-16777216
+94,92,"lineatus","Conophis","",LC,S,-16731116
+96,95,"elapoides","Pliocercus","",LC,S,-16731116
+97,95,"putnami","Manolepis","",LC,S,-16731116
+109,108,"pallidus","Thamnodynastes","",NE,U,-16777216
+110,108,"mikanii","Sibynomorphus","",NE,U,-16777216
+111,107,"catesbyi","Dipsas","",NE,U,-16777216
+113,112,"nebulatus","Sibon","",NE,U,-16777216
+114,112,"atrata","Ninia","",NE,U,-16777216
+116,115,"albuquerquei","Atractus","",NE,U,-16777216
+117,115,"carinosus","Geophis","",LC,S,-16731116
+118,104,"hallbergi","Cryophis","",DD,U,-11513776
+121,120,"nigroluteus","Tretanorhinus","",NE,U,-16777216
+122,120,"concolor","Hydromorphus","",NE,U,-16777216
+123,119,"quadrivirgatus","Adelphicos","",NE,U,-16777216
+126,125,"latifasciata","Pseudoleptodeira","",LC,S,-16731116
+127,125,"gracile","Trimetopon","",NE,U,-16777216
+128,124,"torquata","Hypsiglena","Night Snake",LC,S,-16731116
+131,130,"annulata","Leptodeira","",NE,U,-16777216
+132,130,"rugosus","Nothopsis","",NE,U,-16777216
+133,129,"cenchoa","Imantodes","",NE,U,-16777216
+135,134,"fulvivittis","Rhadinaea","",VU,D,-11184866
+136,134,"sapperi","Amastridium","",NE,U,-16777216
+137,99,"fissidens","Coniophanes","",NE,U,-16777216
+138,98,"discolor","Tantalophis","",VU,D,-11184866

@@ -1,48 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"edwardsi","Hyloxalus","",CR,D,-3014646
-12,10,"awa","Hyloxalus","",VU,D,-11184866
-13,9,"utcubambensis","Hyloxalus","",DD,U,-11513776
-14,8,"betancuri","Hyloxalus","",DD,U,-11513776
-16,15,"marmoreoventris","Hyloxalus","",DD,U,-11513776
-17,15,"mittermeieri","Hyloxalus","",DD,U,-11513776
-21,20,"vertebralis","Hyloxalus","",CR,D,-3014646
-22,20,"mystax","Hyloxalus","",DD,U,-11513776
-23,19,"fuliginosus","Hyloxalus","",DD,U,-11513776
-24,18,"abditaurantius","Hyloxalus","",LC,S,-16731116
-26,25,"cevallosi","Hyloxalus","",EN,D,-8572416
-27,25,"excisus","Hyloxalus","",DD,U,-11513776
-29,28,"infraguttatus","Hyloxalus","",NT,D,-12486656
-30,28,"elachyhistus","Hyloxalus","",EN,D,-8572416
-32,31,"chocoensis","Hyloxalus","",DD,U,-11513776
-33,31,"fallax","Hyloxalus","",DD,U,-11513776
-41,40,"patitae","Hyloxalus","",DD,U,-11513776
-42,40,"borjai","Hyloxalus","",DD,U,-11513776
-43,39,"fascianigrus","Hyloxalus","",NT,D,-12486656
-44,38,"argyrogaster","Hyloxalus","",LC,S,-16731116
-45,37,"subpunctatus","Hyloxalus","",LC,S,-16731116
-46,36,"anthracinus","Hyloxalus","",CR,D,-3014646
-48,47,"saltuarius","Hyloxalus","",DD,U,-11513776
-49,47,"vergeli","Hyloxalus","",VU,S,-11184866
-51,50,"sylvaticus","Hyloxalus","",DD,U,-11513776
-52,50,"sauli","Hyloxalus","",LC,S,-16731116
-58,57,"pinguis","Hyloxalus","",DD,U,-11513776
-59,57,"shuar","Hyloxalus","",NT,D,-12486656
-60,56,"breviquartus","Hyloxalus","",DD,U,-11513776
-62,61,"chlorocraspedus","Hyloxalus","",DD,D,-11513776
-63,61,"toachi","Hyloxalus","",EN,D,-8572416
-64,54,"idiomelus","Hyloxalus","",DD,U,-11513776
-65,53,"ruizi","Hyloxalus","",CR,D,-3014646
-71,70,"delatorreae","Hyloxalus","",CR,D,-3014646
-72,70,"ramosi","Hyloxalus","",DD,U,-11513776
-73,69,"faciopunctulatus","Hyloxalus","",DD,U,-11513776
-75,74,"whymperi","Hyloxalus","",DD,U,-11513776
-76,74,"bocagei","Hyloxalus","",LC,D,-16731116
-78,77,"maquipucuna","Hyloxalus","",DD,U,-11513776
-79,77,"nexipus","Hyloxalus","",LC,S,-16731116
-85,84,"pulchellus","Hyloxalus","",VU,D,-11184866
-86,84,"peculiaris","Hyloxalus","",DD,U,-11513776
-88,87,"exasperatus","Hyloxalus","",DD,U,-11513776
-89,87,"pumilus","Hyloxalus","",DD,U,-11513776
-90,82,"littoralis","Hyloxalus","",LC,D,-16731116
-91,81,"lehmanni","Hyloxalus","",NT,D,-12486656
-92,80,"peruvianus","Hyloxalus","",LC,S,-16731116
+11,10,"boumbaensis","Xenopus","Mawa Clawed Frog",DD,U,-11513776
+12,10,"andrei","Xenopus","Andre's Clawed Frog",LC,S,-16731116
+14,13,"largeni","Xenopus","Largen's Clawed Frog",DD,U,-11513776
+15,13,"clivii","Xenopus","Eritrea Clawed Frog",LC,D,-16731116
+16,8,"fraseri","Xenopus","Fraser's Clawed Frog",LC,S,-16731116
+18,17,"longipes","Xenopus","Lake Oku Clawed Frog",CR,S,-3014646
+19,17,"amieti","Xenopus","Volcano Clawed Frog",NT,D,-12486656
+20,6,"pygmaeus","Xenopus","Bouchia Clawed Frog",LC,S,-16731116
+23,22,"ruwenzoriensis","Xenopus","Uganda Clawed Frog",DD,U,-11513776
+24,22,"petersii","Xenopus","Peters' Platanna",LC,S,-16731116
+26,25,"laevis","Xenopus","African Clawed Frog",LC,I,-16731116
+27,25,"gilli","Xenopus","Cape Platanna",EN,D,-8572416
+31,30,"borealis","Xenopus","Marsabit Clawed Frog",LC,U,-16731116
+32,30,"muelleri","Xenopus","Muller's Platanna",LC,S,-16731116
+33,29,"wittei","Xenopus","De Witte's Clawed Frog",LC,S,-16731116
+34,28,"vestitus","Xenopus","Kivu Clawed Frog",LC,S,-16731116
+36,35,"epitropicalis","Silurana","Cameroon Clawed Frog",LC,D,-16731116
+37,35,"tropicalis","Silurana","Tropical Clawed Frog",LC,S,-16731116
+43,42,"pipa","Pipa","Suriname Toad",LC,S,-16731116
+44,42,"snethlageae","Pipa","",LC,U,-16731116
+45,41,"arrabali","Pipa","Arrabal's Suriname Toad",LC,S,-16731116
+46,40,"aspera","Pipa","Albina Surinam Toad",LC,S,-16731116
+47,39,"carvalhoi","Pipa","Carvalho's Surinam Toad",LC,D,-16731116
+49,48,"myersi","Pipa","Myers' Surinam Toad",EN,D,-8572416
+50,48,"parva","Pipa","",LC,I,-16731116
+55,54,"boulengeri","Hymenochirus","",DD,U,-11513776
+56,54,"feae","Hymenochirus","",DD,U,-11513776
+57,53,"boettgeri","Hymenochirus","Congo Dwarf Clawed Frog",LC,D,-16731116
+58,52,"curtipes","Hymenochirus","Western Dwarf Clawed Frog",LC,U,-16731116
+59,51,"merlini","Pseudhymenochirus","",LC,U,-16731116
+60,0,"dorsalis","Rhinophrynus","Burrowing Toad",LC,S,-16731116

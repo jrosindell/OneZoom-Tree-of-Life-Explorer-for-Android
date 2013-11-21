@@ -1,42 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"marinus","Chaunus","Cane Toad",NE,U,-16777216
-11,9,"poeppigii","Chaunus","",NE,U,-16777216
-13,12,"sternosignatus","Chaunus","",NE,U,-16777216
-14,12,"limensis","Chaunus","",NE,U,-16777216
-16,15,"granulosus","Chaunus","",NE,U,-16777216
-17,15,"nesiotes","Chaunus","",NE,U,-16777216
-21,20,"diptychus","Chaunus","",NE,U,-16777216
-22,20,"dorbignyi","Chaunus","",NE,U,-16777216
-23,19,"ictericus","Chaunus","",NE,U,-16777216
-24,18,"ornatus","Chaunus","",NE,U,-16777216
-25,5,"crucifer","Chaunus","",NE,U,-16777216
-27,26,"gnustae","Chaunus","",NE,U,-16777216
-28,26,"beebei","Chaunus","",NE,U,-16777216
-33,32,"henseli","Chaunus","",NE,U,-16777216
-34,32,"bergi","Chaunus","",NE,U,-16777216
-35,31,"jimi","Chaunus","",NE,U,-16777216
-36,30,"gallardoi","Chaunus","",NE,U,-16777216
-38,37,"vellardi","Chaunus","",NE,U,-16777216
-39,37,"inca","Chaunus","",NE,U,-16777216
-44,43,"multiverrucosus","Chaunus","",NE,U,-16777216
-45,43,"spinulosus","Chaunus","",NE,U,-16777216
-46,42,"arborescandens","Chaunus","",NE,U,-16777216
-47,41,"achalensis","Chaunus","",NE,U,-16777216
-48,40,"rumbolli","Chaunus","",NE,U,-16777216
-52,51,"justinianoi","Chaunus","",NE,U,-16777216
-53,51,"rubescens","Chaunus","",NE,U,-16777216
-54,50,"pygmaeus","Chaunus","",NE,U,-16777216
-55,49,"amabilis","Chaunus","",NE,U,-16777216
-62,61,"fissipes","Chaunus","",NE,U,-16777216
-63,61,"arenarum","Chaunus","",NE,U,-16777216
-64,60,"quechua","Chaunus","",NE,U,-16777216
-65,59,"atacamensis","Chaunus","",NE,U,-16777216
-67,66,"schneideri","Chaunus","",NE,U,-16777216
-68,66,"chavin","Chaunus","",NE,U,-16777216
-72,71,"rubropunctatus","Chaunus","",NE,U,-16777216
-73,71,"pombali","Chaunus","",NE,U,-16777216
-75,74,"amboroensis","Chaunus","",NE,U,-16777216
-76,74,"arunco","Chaunus","",NE,U,-16777216
-77,69,"veraguensis","Chaunus","",NE,U,-16777216
-79,78,"fernandezae","Chaunus","",NE,U,-16777216
-80,78,"abei","Chaunus","",NE,U,-16777216
+11,10,"cambodiana","Arborophila","Chestnut-headed Partridge",LC,U,-16731116
+12,10,"rubrirostris","Arborophila","Red-billed Partridge",LC,U,-16731116
+13,9,"rufipectus","Arborophila","Sichuan Partridge",EN,U,-8572416
+14,8,"torqueola","Arborophila","Hill Partridge",LC,U,-16731116
+17,16,"chloropus","Arborophila","Scaly-breasted Partridge",LC,U,-16731116
+18,16,"brunneopectus","Arborophila","Bar-backed Partridge",LC,U,-16731116
+19,15,"orientalis","Arborophila","White-faced Partridge",VU,U,-11184866
+22,21,"rufogularis","Arborophila","Rufous-throated Partridge",LC,U,-16731116
+23,21,"gingica","Arborophila","White-necklaced Partridge",VU,U,-11184866
+24,20,"crudigularis","Arborophila","Taiwan Partridge",NT,U,-12486656
+25,5,"hyperythra","Arborophila","Red-breasted Partridge",LC,U,-16731116
+28,27,"charltonii","Arborophila","Chestnut-necklaced Partridge",NT,U,-12486656
+29,27,"javanica","Arborophila","Chestnut-bellied Partridge",LC,U,-16731116
+30,26,"campbelli","Arborophila","Malaysian Partridge",LC,U,-16731116
+35,34,"mandellii","Arborophila","Chestnut-breasted Partridge",VU,U,-11184866
+36,34,"davidi","Arborophila","Orange-necked Partridge",NT,U,-12486656
+37,33,"sumatrana","Arborophila","Grey-breasted Partridge",LC,U,-16731116
+39,38,"ardens","Arborophila","Hainan Partridge",VU,U,-11184866
+40,38,"rolli","Arborophila","Roll's Partridge",LC,U,-16731116
+41,31,"atrogularis","Arborophila","White-cheeked Partridge",NT,U,-12486656
+43,42,"oculeus","Caloperdix","Ferruginous Partridge",NT,U,-12486656
+44,42,"rouloul","Rollulus","Crested Partridge",NT,U,-12486656
+45,1,"niger","Melanoperdix","Black Partridge",VU,U,-11184866
+46,0,"udzungwensis","Xenoperdix","Udzungwa Forest-partridge",EN,U,-8572416

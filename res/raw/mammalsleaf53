@@ -1,91 +1,107 @@
 index,parent,name1,name2,common,redlist,popstab,color
-6,5,"fulgens","Ailurus","Red Panda",VU,D,-11184866
-16,15,"philippii","Arctocephalus","Juan Fernandez Fur Seal",NT,I,-12486656
-17,15,"australis","Arctocephalus","South American Fur Seal",LC,I,-16731116
-19,18,"galapagoensis","Arctocephalus","Galapagos Fur Seal",EN,D,-8572416
-20,18,"forsteri","Arctocephalus","New Zealand Fur Seal",LC,I,-16731116
-21,13,"townsendi","Arctocephalus","Guadalupe Fur Seal",NT,I,-12486656
-22,12,"gazella","Arctocephalus","Antarctic Fur Seal",LC,I,-16731116
-23,11,"tropicalis","Arctocephalus","Subantarctic Fur Seal",LC,I,-16731116
-24,10,"pusillus","Arctocephalus","Afro-Australian Fur Seal",LC,I,-16731116
-30,29,"hookeri","Phocarctos","New Zealand Sea Lion",VU,D,-11184866
-31,29,"cinerea","Neophoca","Australian Sea Lion",EN,D,-8572416
-32,28,"flavescens","Otaria","South American Sea Lion",LC,S,-16731116
-33,27,"jubatus","Eumetopias","Steller Sea Lion",EN,D,-8572416
-36,35,"californianus","Zalophus","Californian Sea Lion",LC,I,-16731116
-37,35,"wollebaeki","Zalophus","Galapagos Sea Lion",EN,D,-8572416
-38,34,"japonicus","Zalophus","Japanese Sea Lion",EX,U,-16777036
-39,25,"ursinus","Callorhinus","Northern Fur Seal",VU,D,-11184866
-40,8,"rosmarus","Odobenus","Walrus",DD,U,-11513776
-49,48,"sibirica","Pusa","Baikal Seal",LC,S,-16731116
-50,48,"hispida","Pusa","Ringed Seal",LC,U,-16731116
-51,47,"caspica","Pusa","Caspian Seal",EN,D,-8572416
-53,52,"vitulina","Phoca","Harbour Seal",LC,S,-16731116
-54,52,"largha","Phoca","Spotted Seal",DD,U,-11513776
-55,45,"grypus","Halichoerus","Grey Seal",LC,I,-16731116
-57,56,"groenlandicus","Pagophilus","Harp Seal",LC,I,-16731116
-58,56,"fasciata","Histriophoca","Ribbon Seal",DD,U,-11513776
-59,43,"cristata","Cystophora","Hooded Seal",VU,D,-11184866
-60,42,"barbatus","Erignathus","Bearded Seal",LC,S,-16731116
-65,64,"carcinophaga","Lobodon","Crabeater Seal",LC,U,-16731116
-66,64,"leptonyx","Hydrurga","Leopard Seal",LC,U,-16731116
-68,67,"weddellii","Leptonychotes","Weddell Seal",LC,U,-16731116
-69,67,"rossii","Ommatophoca","Ross Seal",LC,U,-16731116
-71,70,"angustirostris","Mirounga","Northern Elephant Seal",LC,I,-16731116
-72,70,"leonina","Mirounga","Southern Elephant Seal",LC,U,-16731116
-74,73,"schauinslandi","Monachus","Hawaiian Monk Seal",CR,D,-3014646
-75,73,"monachus","Monachus","Mediterranean Monk Seal",CR,D,-3014646
-81,80,"malayanus","Helarctos","Malayan Sun Bear",VU,D,-11184866
-82,80,"ursinus","Melursus","Sloth Bear",VU,D,-11184866
-83,79,"americanus","Ursus","American Black Bear",LC,I,-16731116
-86,85,"maritimus","Ursus","Polar Bear",VU,D,-11184866
-87,85,"arctos","Ursus","Brown Bear",LC,S,-16731116
-88,84,"thibetanus","Ursus","Asiatic Black Bear",VU,D,-11184866
-89,77,"ornatus","Tremarctos","Andean Bear",VU,D,-11184866
-90,76,"melanoleuca","Ailuropoda","Giant Panda",EN,D,-8572416
-99,98,"adustus","Canis","Side-striped Jackal",LC,S,-16731116
-100,98,"aureus","Canis","Golden Jackal",LC,I,-16731116
-101,97,"mesomelas","Canis","Black-backed Jackal",LC,S,-16731116
-104,103,"simensis","Canis","Ethiopian Wolf",EN,D,-8572416
-105,103,"latrans","Canis","Coyote",LC,I,-16731116
-106,102,"lupus","Canis","Grey Wolf",LC,S,-16731116
-111,110,"gymnocercus","Lycalopex","",NE,U,-16777216
-112,110,"culpaeus","Lycalopex","",NE,U,-16777216
-114,113,"fulvipes","Lycalopex","",NE,U,-16777216
-115,113,"griseus","Lycalopex","",NE,U,-16777216
-116,108,"sechurae","Lycalopex","",NE,U,-16777216
-117,107,"vetulus","Lycalopex","",NE,U,-16777216
-120,119,"pictus","Lycaon","African Wild Dog",EN,D,-8572416
-121,119,"venaticus","Speothos","Bush Dog",NT,U,-12486656
-122,118,"brachyurus","Chrysocyon","Maned Wolf",NT,U,-12486656
-125,124,"thous","Cerdocyon","Crab-eating Fox",LC,S,-16731116
-126,124,"alpinus","Cuon","Dhole",EN,D,-8572416
-127,123,"microtis","Atelocynus","Short-eared Dog",NT,D,-12486656
-128,92,"procyonoides","Nyctereutes","Racoon Dog",LC,S,-16731116
-136,135,"ferrilata","Vulpes","Tibetan Fox",LC,U,-16731116
-137,135,"corsac","Vulpes","Corsac Fox",LC,U,-16731116
-139,138,"rueppellii","Vulpes","Ruppell's Fox",LC,U,-16731116
-140,138,"vulpes","Vulpes","Red Fox",LC,S,-16731116
-143,142,"macrotis","Vulpes","Kit Fox",LC,D,-16731116
-144,142,"velox","Vulpes","Swift Fox",LC,S,-16731116
-145,141,"lagopus","Vulpes","",NE,U,-16777216
-147,146,"cana","Vulpes","Blanford's Fox",LC,U,-16731116
-148,146,"zerda","Vulpes","Fennec Fox",LC,U,-16731116
-151,150,"bengalensis","Vulpes","Bengal Fox",LC,D,-16731116
-152,150,"chama","Vulpes","Cape Fox",LC,S,-16731116
-153,149,"pallida","Vulpes","Pale Fox",DD,U,-11513776
-155,154,"cinereoargenteus","Urocyon","Grey Fox",LC,S,-16731116
-156,154,"littoralis","Urocyon","Island Fox",CR,D,-3014646
-157,129,"megalotis","Otocyon","Bat-eared Fox",LC,U,-16731116
-164,163,"hyaena","Hyaena","Striped Hyaena",NT,D,-12486656
-165,163,"brunnea","Hyaena","Brown Hyaena",NT,D,-12486656
-166,162,"crocuta","Crocuta","Spotted Hyaena",LC,D,-16731116
-167,161,"cristata","Proteles","Aardwolf",LC,S,-16731116
-171,170,"crassicaudata","Manis","Indian Pangolin",NT,D,-12486656
-172,170,"pentadactyla","Manis","Chinese Pangolin",EN,D,-8572416
-174,173,"culionensis","Manis","Philippine Pangolin",NT,D,-12486656
-175,173,"javanica","Manis","Sunda Pangolin",EN,D,-8572416
-178,177,"tetradactyla","Manis","",NE,U,-16777216
-179,177,"gigantea","Manis","",NE,U,-16777216
-181,180,"temminckii","Manis","",NE,U,-16777216
-182,180,"tricuspis","Manis","",NE,U,-16777216
+14,13,"papillosa","Kerivoula","Papillose Woolly Bat",LC,U,-16731116
+15,13,"lenis","Kerivoula","Lenis Woolly Bat",LC,U,-16731116
+16,12,"pellucida","Kerivoula","Clear-winged Woolly Bat",NT,D,-12486656
+17,11,"lanosa","Kerivoula","Lesser Woolly Bat",LC,U,-16731116
+19,18,"myrella","Kerivoula","Manaus Island Woolly Bat",DD,U,-11513776
+20,18,"muscina","Kerivoula","Fly River Woolly Bat",LC,U,-16731116
+24,23,"intermedia","Kerivoula","Small Woolly Bat",NT,D,-12486656
+25,23,"minuta","Kerivoula","Least Woolly Bat",NT,D,-12486656
+27,26,"smithii","Kerivoula","Smith's Woolly Bat",LC,U,-16731116
+28,26,"picta","Kerivoula","Painted Bat",LC,U,-16731116
+29,21,"whiteheadi","Kerivoula","Whitehead's Woolly Bat",LC,U,-16731116
+30,8,"flora","Kerivoula","Flores Woolly Bat",VU,D,-11184866
+36,35,"hardwickii","Kerivoula","Common Woolly Bat",LC,S,-16731116
+37,35,"cuprosa","Kerivoula","Copper Woolly Bat",DD,U,-11513776
+38,34,"phalaena","Kerivoula","Spurrell's Woolly Bat",LC,U,-16731116
+39,33,"eriophora","Kerivoula","Ethiopian Woolly Bat",DD,U,-11513776
+40,32,"argentata","Kerivoula","Damara Woolly Bat",LC,U,-16731116
+41,31,"agnella","Kerivoula","Louisiade Woolly Bat",DD,U,-11513776
+44,43,"atrox","Phoniscus","Groove-toothed Trumpet-eared Bat",NT,D,-12486656
+45,43,"aerosa","Phoniscus","Dubious Trumpet-eared Bat",DD,U,-11513776
+47,46,"jagorii","Phoniscus","Peters's Trumpet-eared Bat",LC,U,-16731116
+48,46,"papuensis","Phoniscus","Golden-tipped Bat",LC,U,-16731116
+59,58,"hilgendorfi","Murina","Greater Tube-nosed Bat",LC,U,-16731116
+60,58,"leucogaster","Murina","Rufous Tube-nosed Bat",DD,U,-11513776
+61,57,"fusca","Murina","Dusky Tube-nosed Bat",DD,U,-11513776
+62,56,"tenebrosa","Murina","Gloomy Tube-nosed Bat",CR,U,-3014646
+63,55,"suilla","Murina","Brown Tube-nosed Bat",LC,U,-16731116
+64,54,"aurata","Murina","Little Tube-nosed Bat",LC,U,-16731116
+65,53,"ussuriensis","Murina","Ussuri Tube-nosed Bat",LC,U,-16731116
+68,67,"florium","Murina","Flute-nosed Bat",LC,U,-16731116
+69,67,"silvatica","Murina","",NE,U,-16777216
+70,66,"tubinaris","Murina","Scully's Tube-nosed Bat",LC,U,-16731116
+74,73,"huttoni","Murina","Hutton's Tube-nosed Bat",LC,U,-16731116
+75,73,"aenea","Murina","Bronze Tube-nosed Bat",VU,D,-11184866
+76,72,"cyclotis","Murina","Round-eared Tube-nosed Bat",LC,U,-16731116
+78,77,"rozendaali","Murina","Gilded Tube-nosed Bat",VU,D,-11184866
+79,77,"puta","Murina","Taiwanese Tube-nosed Bat",NT,U,-12486656
+80,50,"grisea","Murina","",NE,U,-16777216
+82,81,"mordax","Harpiocephalus","Greater Hairy-winged Bat",DD,U,-11513776
+83,81,"harpia","Harpiocephalus","Lesser Hairy-winged Bat",LC,D,-16731116
+84,4,"rueppellii","Scoteanax","Greater Broad-nosed Bat",LC,D,-16731116
+92,91,"neocaledonicus","Chalinolobus","New Caledonia Wattled Bat",EN,D,-8572416
+93,91,"gouldii","Chalinolobus","Gould's Wattled Bat",LC,S,-16731116
+94,90,"nigrogriseus","Chalinolobus","Hoary Wattled Bat",LC,S,-16731116
+97,96,"morio","Chalinolobus","Chocolate Wattled Bat",LC,S,-16731116
+98,96,"picatus","Chalinolobus","Little Pied Bat",NT,D,-12486656
+99,95,"dwyeri","Chalinolobus","Large-eared Pied Bat",NT,D,-12486656
+100,88,"tuberculatus","Chalinolobus","New Zealand Long-tailed Bat",VU,D,-11184866
+104,103,"affinis","Falsistrellus","Chocolate Pipistrelle",LC,U,-16731116
+105,103,"petersi","Falsistrellus","Peters's Pipistrelle",DD,U,-11513776
+106,102,"mordax","Falsistrellus","Pungent Pipistrelle",DD,U,-11513776
+108,107,"tasmaniensis","Falsistrellus","Eastern False Pipistrelle",LC,D,-16731116
+109,107,"mackenziei","Falsistrellus","Western False Pipistrelle",NT,D,-12486656
+113,112,"helios","Neoromicia","",NE,U,-16777216
+114,112,"nanus","Neoromicia","",NE,U,-16777216
+115,111,"arabicus","Hypsugo","",NE,U,-16777216
+116,110,"imbricatus","Hypsugo","",NE,U,-16777216
+118,117,"hesperus","Pipistrellus","Western Pipistrelle",LC,S,-16731116
+119,117,"musciculus","Hypsugo","",NE,U,-16777216
+129,128,"kolombatovici","Plecotus","Kolombatovic's Long-eared Bat",LC,D,-16731116
+130,128,"austriacus","Plecotus","Gray Big-eared Bat",LC,U,-16731116
+131,127,"teneriffae","Plecotus","Canary Big-eared Bat",EN,D,-8572416
+133,132,"taivanus","Plecotus","Taiwan Long-eared Bat",NT,D,-12486656
+134,132,"auritus","Plecotus","Brown Big-eared Bat",LC,S,-16731116
+137,136,"townsendii","Corynorhinus","Townsend's Big-eared Bat",LC,S,-16731116
+138,136,"mexicanus","Corynorhinus","Mexican Big-eared Bat",NT,D,-12486656
+139,135,"rafinesquii","Corynorhinus","Rafinesque's Big-eared Bat",LC,I,-16731116
+141,140,"phyllotis","Idionycteris","Allen's Big-eared Bat",LC,S,-16731116
+142,140,"maculatum","Euderma","Spotted Bat",LC,S,-16731116
+144,143,"leucomelas","Barbastella","Asian Barbastelle",LC,U,-16731116
+145,143,"barbastellus","Barbastella","Barbastelle",NT,D,-12486656
+148,147,"rueppellii","Pipistrellus","Ruppel's Pipistrelle",LC,U,-16731116
+149,147,"crassulus","Hypsugo","",NE,U,-16777216
+150,146,"nanulus","Pipistrellus","Tiny Pipistrelle",LC,U,-16731116
+158,157,"tumida","Rhogeessa","Black-winged Little Yellow Bat",LC,S,-16731116
+159,157,"aeneus","Rhogeessa","Yucatan Yellow Bat",LC,S,-16731116
+160,156,"io","Rhogeessa","Thomas's Yellow Bat",LC,U,-16731116
+161,155,"minutilla","Rhogeessa","Tiny Yellow Bat",VU,D,-11184866
+163,162,"genowaysi","Rhogeessa","Genoways's Yellow Bat",EN,D,-8572416
+164,162,"parvula","Rhogeessa","Little Yellow Bat",LC,S,-16731116
+165,153,"gracilis","Rhogeessa","Slender Yellow Bat",LC,U,-16731116
+166,152,"mira","Rhogeessa","Least Yellow Bat",VU,S,-11184866
+167,151,"alleni","Rhogeessa","Allen's Yellow Bat",LC,S,-16731116
+175,174,"lasiopterus","Nyctalus","Giant Noctule",NT,D,-12486656
+176,174,"leisleri","Nyctalus","LEISLER'S BAT",LC,U,-16731116
+177,173,"aviator","Nyctalus","Birdlike Noctule",NT,D,-12486656
+178,172,"montanus","Nyctalus","Mountain Noctule",LC,D,-16731116
+179,171,"azoreum","Nyctalus","Azorean Bat",EN,D,-8572416
+182,181,"plancyi","Nyctalus","Chinese Noctule",LC,U,-16731116
+183,181,"furvus","Nyctalus","Japanese Noctule",VU,D,-11184866
+184,180,"noctula","Nyctalus","Noctule",LC,U,-16731116
+186,185,"doriae","Hesperoptenus","False Serotine Bat",DD,U,-11513776
+187,185,"denticulus","Eudiscopus","Disk-footed Bat",DD,U,-11513776
+192,191,"bodenheimeri","Hypsugo","",NE,U,-16777216
+193,191,"ariel","Hypsugo","",NE,U,-16777216
+195,194,"alaschanicus","Hypsugo","",NE,U,-16777216
+196,194,"savii","Hypsugo","",NE,U,-16777216
+198,197,"vordermanni","Hypsugo","",NE,U,-16777216
+199,197,"macrotis","Hypsugo","",NE,U,-16777216
+200,188,"cadornae","Hypsugo","",NE,U,-16777216
+205,204,"moloneyi","Mimetillus","Moloney's Flat-headed Bat",LC,U,-16731116
+206,204,"dormeri","Scotozous","Dormer's Bat",LC,S,-16731116
+209,208,"tylopus","Glischropus","Common Thick-thumbed Bat",LC,U,-16731116
+210,208,"javanus","Glischropus","Javan Thick-thumbed Bat",DD,U,-11513776
+212,211,"dubiaquercus","Bauerus","Van Gelder's Bat",NT,U,-12486656
+213,211,"pallidus","Antrozous","Pallid Bat",LC,S,-16731116

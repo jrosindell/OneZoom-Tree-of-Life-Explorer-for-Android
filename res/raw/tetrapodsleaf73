@@ -1,54 +1,89 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"crassirostris","Vireo","Thick-billed Vireo",LC,U,-16731116
-13,11,"gracilirostris","Vireo","Noronha Vireo",NT,U,-12486656
-15,14,"flavifrons","Vireo","Yellow-throated Vireo",LC,U,-16731116
-16,14,"brevipennis","Vireo","Slaty Vireo",LC,U,-16731116
-20,19,"plumbeus","Vireo","Plumbeous Vireo",LC,U,-16731116
-21,19,"cassinii","Vireo","Cassin's Vireo",LC,U,-16731116
-22,18,"solitarius","Vireo","Blue-headed Vireo",LC,U,-16731116
-23,17,"magister","Vireo","Yucatan Vireo",LC,U,-16731116
-24,8,"gundlachii","Vireo","Cuban Vireo",LC,U,-16731116
-27,26,"vicinior","Vireo","Grey Vireo",LC,U,-16731116
-28,26,"nelsoni","Vireo","Dwarf Vireo",LC,U,-16731116
-29,25,"huttoni","Vireo","Hutton's Vireo",LC,U,-16731116
-30,6,"carmioli","Vireo","Yellow-winged Vireo",LC,U,-16731116
-36,35,"latimeri","Vireo","Puerto Rican Vireo",LC,U,-16731116
-37,35,"bellii","Vireo","Bell's Vireo",NT,U,-12486656
-38,34,"atricapilla","Vireo","Black-capped Vireo",VU,U,-11184866
-39,33,"griseus","Vireo","White-eyed Vireo",LC,U,-16731116
-40,32,"bairdi","Vireo","Cozumel Vireo",LC,U,-16731116
-42,41,"caribaeus","Vireo","San Andres Vireo",VU,U,-11184866
-43,41,"masteri","Vireo","Choco Vireo",EN,U,-8572416
-47,46,"osburni","Vireo","Blue Mountain Vireo",NT,U,-12486656
-48,46,"pallens","Vireo","Mangrove Vireo",LC,U,-16731116
-49,45,"hypochryseus","Vireo","Golden Vireo",LC,U,-16731116
-50,44,"modestus","Vireo","Jamaican Vireo",LC,U,-16731116
-54,53,"philadelphicus","Vireo","Philadelphia Vireo",LC,U,-16731116
-55,53,"leucophrys","Vireo","Brown-capped Vireo",LC,U,-16731116
-57,56,"nanus","Vireo","Flat-billed Vireo",LC,U,-16731116
-58,56,"gilvus","Vireo","Warbling Vireo",LC,U,-16731116
-61,60,"altiloquus","Vireo","Black-whiskered Vireo",LC,U,-16731116
-62,60,"flavoviridis","Vireo","Yellow-green Vireo",LC,U,-16731116
-63,59,"olivaceus","Vireo","Red-eyed Vireo",LC,U,-16731116
-70,69,"poicilotis","Hylophilus","Rufous-crowned Greenlet",LC,U,-16731116
-71,69,"pectoralis","Hylophilus","Ashy-headed Greenlet",LC,U,-16731116
-72,68,"muscicapinus","Hylophilus","Buff-cheeked Greenlet",LC,U,-16731116
-73,67,"ochraceiceps","Hylophilus","Tawny-crowned Greenlet",LC,U,-16731116
-75,74,"semicinereus","Hylophilus","Grey-chested Greenlet",LC,U,-16731116
-76,74,"sclateri","Hylophilus","Tepui Greenlet",LC,U,-16731116
-79,78,"hypoxanthus","Hylophilus","Dusky-capped Greenlet",LC,U,-16731116
-80,78,"olivaceus","Hylophilus","Olivaceous Greenlet",LC,U,-16731116
-82,81,"amaurocephalus","Hylophilus","Grey-eyed Greenlet",LC,U,-16731116
-83,81,"decurtatus","Hylophilus","Lesser Greenlet",LC,U,-16731116
-87,86,"aurantiifrons","Hylophilus","Golden-fronted Greenlet",LC,U,-16731116
-88,86,"brunneiceps","Hylophilus","Brown-headed Greenlet",LC,U,-16731116
-89,85,"flavipes","Hylophilus","Scrub Greenlet",LC,U,-16731116
-91,90,"semibrunneus","Hylophilus","Rufous-naped Greenlet",LC,U,-16731116
-92,90,"thoracicus","Hylophilus","Lemon-chested Greenlet",LC,U,-16731116
-96,95,"melitophrys","Vireolanius","Chestnut-sided Shrike-vireo",LC,U,-16731116
-97,95,"leucotis","Vireolanius","Slaty-capped Shrike-vireo",LC,U,-16731116
-98,94,"eximius","Vireolanius","Yellow-browed Shrike-vireo",LC,U,-16731116
-99,93,"pulchellus","Vireolanius","Green Shrike-vireo",LC,U,-16731116
-102,101,"nigrirostris","Cyclarhis","Black-billed Peppershrike",LC,U,-16731116
-103,101,"gujanensis","Cyclarhis","Rufous-browed Peppershrike",LC,U,-16731116
-104,100,"zantholeuca","Erpornis","White-bellied Yuhina",LC,U,-16731116
+11,10,"pleurostriatus","Eleutherodactylus","",NE,U,-16777216
+12,10,"reticulatus","Eleutherodactylus","",NE,U,-16777216
+13,9,"lentiginosus","Eleutherodactylus","",NE,U,-16777216
+15,14,"hybotragus","Eleutherodactylus","",NE,U,-16777216
+16,14,"jaimei","Eleutherodactylus","",NE,U,-16777216
+18,17,"loustes","Eleutherodactylus","",NE,U,-16777216
+19,17,"uisae","Eleutherodactylus","",NE,U,-16777216
+23,22,"paulodutrai","Eleutherodactylus","",NE,U,-16777216
+24,22,"ramagii","Eleutherodactylus","",NE,U,-16777216
+25,21,"renjiforum","Eleutherodactylus","",NE,U,-16777216
+26,20,"venancioi","Eleutherodactylus","",NE,U,-16777216
+31,30,"thymelensis","Eleutherodactylus","",NE,U,-16777216
+32,30,"racemus","Eleutherodactylus","",NE,U,-16777216
+34,33,"huicundo","Eleutherodactylus","",NE,U,-16777216
+35,33,"orcesi","Eleutherodactylus","",NE,U,-16777216
+36,28,"simoterus","Eleutherodactylus","",NE,U,-16777216
+39,38,"obmutescens","Eleutherodactylus","",NE,U,-16777216
+40,38,"ortizi","Eleutherodactylus","",NE,U,-16777216
+41,37,"bakeri","Eleutherodactylus","",CR,D,-3014646
+49,48,"nebulanastes","Eleutherodactylus","",NE,U,-16777216
+50,48,"elassodiscus","Eleutherodactylus","",NE,U,-16777216
+51,47,"melacara","Eleutherodactylus","",EN,D,-8572416
+53,52,"nigrovittatus","Eleutherodactylus","",NE,U,-16777216
+54,52,"diogenes","Eleutherodactylus","",NE,U,-16777216
+56,55,"batrachylus","Eleutherodactylus","",NE,U,-16777216
+57,55,"adercus","Eleutherodactylus","",NE,U,-16777216
+62,61,"flavomaculatus","Eleutherodactylus","",NE,U,-16777216
+63,61,"mantipus","Eleutherodactylus","",NE,U,-16777216
+64,60,"lucida","Eleutherodactylus","",NE,U,-16777216
+65,59,"lundbergi","Eleutherodactylus","",NE,U,-16777216
+67,66,"araiodactylus","Eleutherodactylus","",NE,U,-16777216
+68,66,"fallaciosus","Eleutherodactylus","",NE,U,-16777216
+70,69,"helvolus","Eleutherodactylus","",NE,U,-16777216
+71,69,"latens","Eleutherodactylus","",NE,U,-16777216
+76,75,"lasalleorum","Eleutherodactylus","",NE,U,-16777216
+77,75,"uranobates","Eleutherodactylus","",NE,U,-16777216
+78,74,"maculosus","Eleutherodactylus","",NE,U,-16777216
+79,73,"peraticus","Eleutherodactylus","",NE,U,-16777216
+81,80,"scoloblepharus","Eleutherodactylus","",NE,U,-16777216
+82,80,"leptolophus","Eleutherodactylus","",NE,U,-16777216
+85,84,"pusillus","Eleutherodactylus","",NE,U,-16777216
+86,84,"simonsii","Eleutherodactylus","",NE,U,-16777216
+88,87,"polychrus","Eleutherodactylus","",NE,U,-16777216
+89,87,"parvus","Eleutherodactylus","",NE,U,-16777216
+96,95,"gladiator","Eleutherodactylus","",NE,U,-16777216
+97,95,"myersi","Eleutherodactylus","",NE,U,-16777216
+98,94,"pyrrhomerus","Eleutherodactylus","",NE,U,-16777216
+99,93,"hectus","Eleutherodactylus","",NE,U,-16777216
+101,100,"floridus","Eleutherodactylus","",NE,U,-16777216
+102,100,"repens","Eleutherodactylus","",NE,U,-16777216
+106,105,"scopaeus","Eleutherodactylus","",NE,U,-16777216
+107,105,"veletis","Eleutherodactylus","",NE,U,-16777216
+108,104,"cavernibardus","Eleutherodactylus","",NE,U,-16777216
+109,103,"principalis","Eleutherodactylus","",EN,D,-8572416
+112,111,"corniger","Eleutherodactylus","",NE,U,-16777216
+113,111,"festae","Eleutherodactylus","",NE,U,-16777216
+114,110,"leoni","Eleutherodactylus","",NE,U,-16777216
+125,124,"skydmainos","Eleutherodactylus","",NE,U,-16777216
+126,124,"metabates","Eleutherodactylus","",NE,U,-16777216
+127,123,"lanthanites","Eleutherodactylus","",NE,U,-16777216
+129,128,"malkini","Eleutherodactylus","",NE,U,-16777216
+130,128,"ruedai","Eleutherodactylus","",NE,U,-16777216
+132,131,"conspicillatus","Eleutherodactylus","",NE,U,-16777216
+133,131,"thectopternus","Eleutherodactylus","",NE,U,-16777216
+135,134,"citriogaster","Eleutherodactylus","",NE,U,-16777216
+136,134,"ixalus","Eleutherodactylus","",NE,U,-16777216
+140,139,"peruvianus","Eleutherodactylus","",NE,U,-16777216
+141,139,"paisa","Eleutherodactylus","",NE,U,-16777216
+142,138,"babax","Eleutherodactylus","",NE,U,-16777216
+144,143,"bipunctatus","Eleutherodactylus","",NE,U,-16777216
+145,143,"insignitus","Eleutherodactylus","",NE,U,-16777216
+152,151,"cosnipatae","Eleutherodactylus","",NE,U,-16777216
+153,151,"condor","Eleutherodactylus","",NE,U,-16777216
+154,150,"cuneirostris","Eleutherodactylus","",NE,U,-16777216
+155,149,"zeuctotylus","Eleutherodactylus","",NE,U,-16777216
+156,148,"terraebolivaris","Eleutherodactylus","",NE,U,-16777216
+158,157,"carranguerorum","Eleutherodactylus","",NE,U,-16777216
+159,157,"vilarsi","Eleutherodactylus","",NE,U,-16777216
+160,146,"carmelitae","Eleutherodactylus","",NE,U,-16777216
+166,165,"nigriventris","Eleutherodactylus","",NE,U,-16777216
+167,165,"restrepoi","Eleutherodactylus","",NE,U,-16777216
+168,164,"esmeraldas","Eleutherodactylus","",NE,U,-16777216
+169,163,"hoehnei","Eleutherodactylus","",NE,U,-16777216
+170,162,"sambaqui","Eleutherodactylus","",NE,U,-16777216
+173,172,"bolbodactylus","Eleutherodactylus","",NE,U,-16777216
+174,172,"telefericus","Eleutherodactylus","",NE,U,-16777216
+176,175,"lacteus","Eleutherodactylus","",NE,U,-16777216
+177,175,"holti","Eleutherodactylus","",NE,U,-16777216

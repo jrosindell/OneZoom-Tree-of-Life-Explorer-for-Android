@@ -1,91 +1,83 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"landdrosia","Arthroleptella","Landdros Moss Frog",NT,S,-12486656
-11,9,"drewesii","Arthroleptella","Drewes' Moss Frog",DD,S,-11513776
-12,8,"ngongoniensis","Arthroleptella","",NE,U,-16777216
-14,13,"bicolor","Arthroleptella","Bainskloof Moss Frog",LC,S,-16731116
-15,13,"subvoce","Arthroleptella","",DD,U,-11513776
-17,16,"lightfooti","Arthroleptella","Lightfoot's Moss Frog",NT,S,-12486656
-18,16,"villiersi","Arthroleptella","De Villier's Moss Frog",LC,S,-16731116
-19,5,"bonebergi","Natalobatrachus","",EN,D,-8572416
-24,23,"tandyi","Tomopterna","Tandy's Sand Frog",LC,S,-16731116
-25,23,"luganga","Tomopterna","",LC,S,-16731116
-26,22,"krugerensis","Tomopterna","Knocking Sand Frog",LC,S,-16731116
-28,27,"cryptotis","Tomopterna","Common Sand Frog",LC,S,-16731116
-29,27,"damarensis","Tomopterna","",DD,U,-11513776
-32,31,"delalandii","Tomopterna","Delalande's Sand Frog",LC,S,-16731116
-33,31,"marmorata","Tomopterna","Marbled Sand Frog",LC,U,-16731116
-35,34,"tuberculosa","Tomopterna","Rough Sand Frog",LC,S,-16731116
-36,34,"natalensis","Tomopterna","Natal Sand Frog",LC,S,-16731116
-40,39,"obbianus","Pyxicephalus","Calabresi's Bullfrog",LC,U,-16731116
-41,39,"edulis","Pyxicephalus","Edible Bullfrog",LC,S,-16731116
-42,38,"adspersus","Pyxicephalus","African Bullfrog",LC,D,-16731116
-44,43,"subsigillata","Aubria","",LC,S,-16731116
-45,43,"masako","Aubria","",LC,D,-16731116
-53,52,"johnstoni","Petropedetes","",NT,U,-12486656
-54,52,"parkeri","Petropedetes","",LC,D,-16731116
-55,51,"cameronensis","Petropedetes","",NT,D,-12486656
-57,56,"newtoni","Petropedetes","",LC,D,-16731116
-58,56,"perreti","Petropedetes","",EN,D,-8572416
-60,59,"palmipes","Petropedetes","",EN,D,-8572416
-61,59,"natator","Petropedetes","",NT,D,-12486656
-64,63,"dutoiti","Petropedetes","Du Toit's Torrent Frog",CR,D,-3014646
-65,63,"yakusini","Petropedetes","",EN,D,-8572416
-66,62,"martiensseni","Petropedetes","Usambara Torrent Frog",EN,D,-8572416
-73,72,"tenuilingua","Indirana","",DD,U,-11513776
-74,72,"leithii","Indirana","",VU,D,-11184866
-75,71,"semipalmata","Indirana","",LC,U,-16731116
-76,70,"gundia","Indirana","",CR,D,-3014646
-77,69,"longicrus","Indirana","",DD,U,-11513776
-80,79,"brachytarsus","Indirana","",EN,D,-8572416
-81,79,"phrynoderma","Indirana","",CR,D,-3014646
-82,78,"leptodactyla","Indirana","",EN,D,-8572416
-84,83,"diplosticta","Indirana","",EN,D,-8572416
-85,83,"beddomii","Indirana","",LC,D,-16731116
-89,88,"goliath","Conraua","Goliath Frog",EN,D,-8572416
-90,88,"beccarii","Conraua","",LC,D,-16731116
-91,87,"robusta","Conraua","",VU,D,-11184866
-94,93,"alleni","Conraua","",VU,D,-11184866
-95,93,"derooi","Conraua","",CR,D,-3014646
-96,92,"crassipes","Conraua","",LC,D,-16731116
-108,107,"calcaratus","Phrynobatrachus","Boutry River Frog",LC,S,-16731116
-109,107,"anotis","Phrynobatrachus","",DD,U,-11513776
-110,106,"auritus","Phrynobatrachus","",LC,D,-16731116
-111,105,"scapularis","Phrynobatrachus","",LC,S,-16731116
-112,104,"africanus","Phrynobatrachus","",LC,D,-16731116
-113,103,"ukingensis","Phrynobatrachus","",DD,U,-11513776
-114,102,"albolabris","Phrynobatrachus","",DD,U,-11513776
-116,115,"bequaerti","Phrynobatrachus","",VU,D,-11184866
-117,115,"taiensis","Phrynobatrachus","",DD,U,-11513776
-123,122,"acutirostris","Phrynobatrachus","",VU,D,-11184866
-124,122,"dalcqi","Phrynobatrachus","",DD,D,-11513776
-125,121,"guineensis","Phrynobatrachus","",NT,D,-12486656
-128,127,"parvulus","Phrynobatrachus","",LC,S,-16731116
-129,127,"parkeri","Phrynobatrachus","",LC,S,-16731116
-130,126,"sternfeldi","Phrynobatrachus","",DD,U,-11513776
-132,131,"plicatus","Phrynobatrachus","Coast River Frog",LC,S,-16731116
-133,131,"bullans","Phrynobatrachus","",LC,U,-16731116
-139,138,"dendrobates","Phrynobatrachus","",LC,D,-16731116
-140,138,"rouxi","Phrynobatrachus","",DD,U,-11513776
-141,137,"graueri","Phrynobatrachus","",LC,U,-16731116
-142,136,"kinangopensis","Phrynobatrachus","",LC,S,-16731116
-143,135,"sandersoni","Phrynobatrachus","",LC,D,-16731116
-144,134,"krefftii","Phrynobatrachus","",EN,D,-8572416
-152,151,"steindachneri","Phrynobatrachus","",VU,D,-11184866
-153,151,"ogoensis","Phrynobatrachus","",DD,U,-11513776
-154,150,"annulatus","Phrynobatrachus","",EN,D,-8572416
-156,155,"inexpectatus","Phrynobatrachus","",DD,U,-11513776
-157,155,"congicus","Phrynobatrachus","",DD,U,-11513776
-158,148,"versicolor","Phrynobatrachus","",VU,D,-11184866
-160,159,"giorgii","Phrynobatrachus","",DD,U,-11513776
-161,159,"alleni","Phrynobatrachus","",NT,D,-12486656
-163,162,"gutturosus","Phrynobatrachus","Chabanaud's River Frog",LC,S,-16731116
-164,162,"villiersi","Phrynobatrachus","",VU,D,-11184866
-169,168,"mababiensis","Phrynobatrachus","",LC,S,-16731116
-170,168,"ghanensis","Phrynobatrachus","",EN,D,-8572416
-171,167,"keniensis","Phrynobatrachus","",LC,S,-16731116
-172,166,"cornutus","Phrynobatrachus","",LC,D,-16731116
-174,173,"francisci","Phrynobatrachus","",LC,S,-16731116
-175,173,"tokba","Phrynobatrachus","",LC,S,-16731116
-178,177,"gastoni","Phrynobatrachus","",DD,U,-11513776
-179,177,"elberti","Phrynobatrachus","",DD,U,-11513776
-180,176,"liberiensis","Phrynobatrachus","",NT,D,-12486656
+15,14,"breviceps","Hipposideros","Short-headed Leaf-nosed Bat",DD,U,-11513776
+16,14,"ridleyi","Hipposideros","Ridley's Leaf-nosed Bat",VU,D,-11184866
+17,13,"curtus","Hipposideros","Short-tailed Roundleaf Bat",VU,D,-11184866
+23,22,"stoliczkanus","Aselliscus","Stoliczka's Asian Trident Bat",LC,U,-16731116
+24,22,"percivali","Cloeotis","Percival's Trident Bat",LC,U,-16731116
+25,21,"bicolor","Hipposideros","Bicolored Leaf-nosed Bat",LC,S,-16731116
+27,26,"macrobullatus","Hipposideros","Big-eared Leaf-nosed Bat",DD,U,-11513776
+28,26,"beatus","Hipposideros","Benito Roundleaf Bat",LC,D,-16731116
+29,19,"speoris","Hipposideros","Schneider's Leaf-nosed Bat",LC,S,-16731116
+31,30,"fuliginosus","Hipposideros","Sooty Roundleaf Bat",LC,D,-16731116
+32,30,"dyacorum","Hipposideros","Dayak Leaf-nosed Bat",LC,U,-16731116
+35,34,"cervinus","Hipposideros","Fawn-colored Leaf-nosed Bat",LC,U,-16731116
+36,34,"crumeniferus","Hipposideros","Timor Leaf-nosed Bat",DD,U,-11513776
+38,37,"galeritus","Hipposideros","Cantor's Leaf-nosed Bat",LC,U,-16731116
+39,37,"fulvus","Hipposideros","Fulvus Leaf-nosed Bat",LC,S,-16731116
+42,41,"caffer","Hipposideros","Sundevall's Roundleaf Bat",LC,D,-16731116
+43,41,"marisae","Hipposideros","Aellen's Roundleaf Bat",VU,D,-11184866
+44,40,"pomona","Hipposideros","Andersen's Leaf-nosed Bat",LC,U,-16731116
+47,46,"doriae","Hipposideros","Bornean Leaf-nosed Bat",NT,D,-12486656
+48,46,"coxi","Hipposideros","Cox's Leaf-nosed Bat",DD,U,-11513776
+49,45,"papua","Hipposideros","Biak Leaf-nosed Bat",LC,S,-16731116
+58,57,"lamottei","Hipposideros","Lamotte's Roundleaf Bat",CR,D,-3014646
+59,57,"ruber","Hipposideros","Noack's Roundleaf Bat",LC,U,-16731116
+60,56,"halophyllus","Hipposideros","Thailand Leaf-nosed Bat",EN,D,-8572416
+62,61,"coronatus","Hipposideros","Large Mindanao Leaf-nosed Bat",DD,U,-11513776
+63,61,"calcaratus","Hipposideros","Spurred Leaf-nosed Bat",LC,U,-16731116
+64,54,"maggietaylorae","Hipposideros","Maggie Taylor's Leaf-nosed Bat",LC,S,-16731116
+65,53,"jonesi","Hipposideros","Jones' Roundleaf Bat",NT,D,-12486656
+66,52,"pygmaeus","Hipposideros","Philippine Pygmy Leaf-nosed Bat",LC,U,-16731116
+69,68,"megalotis","Hipposideros","Ethiopian Large-eard Roundleaf Bat",LC,U,-16731116
+70,68,"nequam","Hipposideros","Malayan Leaf-nosed Bat",DD,U,-11513776
+72,71,"durgadasi","Hipposideros","Durga Das's Leaf-nosed Bat",EN,D,-8572416
+73,71,"cineraceus","Hipposideros","Least Leaf-nosed Bat",LC,U,-16731116
+75,74,"obscurus","Hipposideros","Philippine Forest Leaf-nosed Bat",LC,U,-16731116
+76,74,"abae","Hipposideros","Aba Roundleaf Bat",LC,U,-16731116
+77,6,"ornatus","Anthops","Solomons Leaf-nosed Bat",DD,U,-11513776
+78,5,"tricuspidatus","Aselliscus","Trident Leaf-nosed Bat",LC,S,-16731116
+82,81,"furculus","Triaenops","Trouessart's Trident Bat",LC,U,-16731116
+83,81,"auritus","Triaenops","Grandidier's Trident Bat",VU,U,-11184866
+85,84,"persicus","Triaenops","Persian Trident Bat",LC,U,-16731116
+86,84,"rufus","Triaenops","Rufous Trident Bat",LC,U,-16731116
+87,79,"aurantia","Rhinonicteris","Orange Leaf-nosed Bat",LC,U,-16731116
+90,89,"robinsoni","Coelops","Malayan Tailless Leaf-nosed Bat",VU,D,-11184866
+91,89,"frithii","Coelops","Tail-less Leaf-nosed Bat",LC,U,-16731116
+92,88,"megalotis","Paracoelops","Vietnamese Leaf-nosed Bat",DD,U,-11513776
+103,102,"euryale","Rhinolophus","Mediterranean Horseshoe Bat",NT,D,-12486656
+104,102,"mehelyi","Rhinolophus","Mehely's Horseshoe Bat",VU,D,-11184866
+106,105,"guineensis","Rhinolophus","Guinean Horseshoe Bat",VU,U,-11184866
+107,105,"landeri","Rhinolophus","Lander's Horseshoe Bat",LC,U,-16731116
+110,109,"celebensis","Rhinolophus","Sulawesi Horseshoe Bat",LC,U,-16731116
+111,109,"madurensis","Rhinolophus","Madura Horseshoe Bat",EN,D,-8572416
+112,108,"fumigatus","Rhinolophus","Ruppell's Horseshoe Bat",LC,U,-16731116
+114,113,"subbadius","Rhinolophus","Little Nepalese Horseshoe Bat",LC,D,-16731116
+115,113,"cognatus","Rhinolophus","Andaman Horseshoe Bat",EN,D,-8572416
+116,96,"imaizumii","Rhinolophus","",NE,U,-16777216
+118,117,"shortridgei","Rhinolophus","Shortridge's Horseshoe Bat",LC,U,-16731116
+119,117,"lepidus","Rhinolophus","Blyth's Horseshoe Bat",LC,U,-16731116
+121,120,"osgoodi","Rhinolophus","Osgood's Horseshoe Bat",DD,U,-11513776
+122,120,"cornutus","Rhinolophus","",NE,U,-16777216
+124,123,"pusillus","Rhinolophus","Least Horseshoe Bat",LC,U,-16731116
+125,123,"monoceros","Rhinolophus","",NE,U,-16777216
+132,131,"madagascariensis","Nycteris","Madagascar Slit-faced Bat",DD,U,-11513776
+133,131,"macrotis","Nycteris","Large-eared Slit-faced Bat",LC,U,-16731116
+134,130,"vinsoni","Nycteris","Vinson's Slit-faced Bat",DD,U,-11513776
+136,135,"parisii","Nycteris","Parisi's Slit-faced Bat",DD,U,-11513776
+137,135,"woodi","Nycteris","Wood's Slit-faced Bat",LC,D,-16731116
+141,140,"aurita","Nycteris","Andersen's Slit-faced Bat",LC,U,-16731116
+142,140,"hispida","Nycteris","Hairy Slit-faced Bat",LC,S,-16731116
+143,139,"grandis","Nycteris","Large Slit-faced Bat",LC,D,-16731116
+145,144,"gambiensis","Nycteris","Gambian Slit-faced Bat",LC,U,-16731116
+146,144,"thebaica","Nycteris","Egyptian Slit-faced Bat",LC,U,-16731116
+150,149,"nana","Nycteris","Dwarf Slit-faced Bat",LC,U,-16731116
+151,149,"major","Nycteris","Dja Slit-faced Bat",DD,U,-11513776
+152,148,"intermedia","Nycteris","Intermediate Slit-faced Bat",LC,D,-16731116
+153,147,"arge","Nycteris","Bate's Slit-faced Bat",LC,S,-16731116
+155,154,"tragata","Nycteris","Malayan Slit-faced Bat",NT,D,-12486656
+156,154,"javanica","Nycteris","Javan Slit-faced Bat",VU,D,-11184866
+160,159,"spasma","Megaderma","Lesser False Vampire",LC,U,-16731116
+161,159,"lyra","Megaderma","Greater False Vampire",LC,U,-16731116
+162,158,"gigas","Macroderma","Ghost Bat",VU,D,-11184866
+164,163,"cor","Cardioderma","Heart-nosed Bat",LC,U,-16731116
+165,163,"frons","Lavia","Yellow-winged Bat",LC,S,-16731116

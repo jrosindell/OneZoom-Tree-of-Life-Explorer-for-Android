@@ -1,68 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"magnirostris","Myiarchus","Large-billed Flycatcher",LC,U,-16731116
-15,13,"barbirostris","Myiarchus","Sad Flycatcher",LC,U,-16731116
-16,12,"semirufus","Myiarchus","Rufous Flycatcher",EN,U,-8572416
-18,17,"phaeocephalus","Myiarchus","Sooty-crowned Flycatcher",LC,U,-16731116
-19,17,"ferox","Myiarchus","Short-crested Flycatcher",LC,U,-16731116
-20,10,"venezuelensis","Myiarchus","Venezuelan Flycatcher",LC,U,-16731116
-21,9,"sagrae","Myiarchus","La Sagra's Flycatcher",LC,U,-16731116
-23,22,"cephalotes","Myiarchus","Pale-edged Flycatcher",LC,U,-16731116
-24,22,"panamensis","Myiarchus","Panama Flycatcher",LC,U,-16731116
-27,26,"antillarum","Myiarchus","Puerto Rican Flycatcher",LC,U,-16731116
-28,26,"nugator","Myiarchus","Grenada Flycatcher",LC,U,-16731116
-29,25,"nuttingi","Myiarchus","Nutting's Flycatcher",LC,U,-16731116
-33,32,"validus","Myiarchus","Rufous-tailed Flycatcher",LC,U,-16731116
-34,32,"swainsoni","Myiarchus","Swainson's Flycatcher",LC,U,-16731116
-35,31,"yucatanensis","Myiarchus","Yucatan Flycatcher",LC,U,-16731116
-37,36,"tuberculifer","Myiarchus","Dusky-capped Flycatcher",LC,U,-16731116
-38,36,"apicalis","Myiarchus","Apical Flycatcher",LC,U,-16731116
-42,41,"cinerascens","Myiarchus","Ash-throated Flycatcher",LC,U,-16731116
-43,41,"oberi","Myiarchus","Lesser Antillean Flycatcher",LC,U,-16731116
-45,44,"crinitus","Myiarchus","Great Crested Flycatcher",LC,U,-16731116
-46,44,"stolidus","Myiarchus","Stolid Flycatcher",LC,U,-16731116
-47,39,"tyrannulus","Myiarchus","Brown-crested Flycatcher",LC,U,-16731116
-51,50,"immunda","Rhytipterna","Pale-bellied Mourner",LC,U,-16731116
-52,50,"holerythra","Rhytipterna","Rufous Mourner",LC,U,-16731116
-53,49,"simplex","Rhytipterna","Greyish Mourner",LC,U,-16731116
-55,54,"fuscus","Casiornis","Ash-throated Casiornis",LC,U,-16731116
-56,54,"rufus","Casiornis","Rufous Casiornis",LC,U,-16731116
-58,57,"albogriseus","Sirystes","Western Sirystes",_U,[,-16777216
-59,57,"sibilator","Sirystes","Sirystes",LC,U,-16731116
-64,63,"spadiceus","Attila","Bright-rumped Attila",LC,U,-16731116
-65,63,"torridus","Attila","Ochraceous Attila",VU,U,-11184866
-66,62,"citriniventris","Attila","Citron-bellied Attila",LC,U,-16731116
-67,61,"cinnamomeus","Attila","Cinnamon Attila",LC,U,-16731116
-70,69,"bolivianus","Attila","Dull-capped Attila",LC,U,-16731116
-71,69,"rufus","Attila","Grey-hooded Attila",LC,U,-16731116
-72,68,"phoenicurus","Attila","Rufous-tailed Attila",LC,U,-16731116
-86,85,"melancholicus","Tyrannus","Tropical Kingbird",LC,U,-16731116
-87,85,"savana","Tyrannus","Fork-tailed Flycatcher",LC,U,-16731116
-88,84,"dominicensis","Tyrannus","Grey Kingbird",LC,U,-16731116
-89,83,"couchii","Tyrannus","Couch's Kingbird",LC,U,-16731116
-91,90,"albogularis","Tyrannus","White-throated Kingbird",LC,U,-16731116
-92,90,"crassirostris","Tyrannus","Thick-billed Kingbird",LC,U,-16731116
-94,93,"vociferans","Tyrannus","Cassin's Kingbird",LC,U,-16731116
-95,93,"cubensis","Tyrannus","Giant Kingbird",EN,U,-8572416
-96,80,"caudifasciatus","Tyrannus","Loggerhead Kingbird",LC,U,-16731116
-97,79,"tyrannus","Tyrannus","Eastern Kingbird",LC,U,-16731116
-100,99,"niveigularis","Tyrannus","Snowy-throated Kingbird",LC,U,-16731116
-101,99,"verticalis","Tyrannus","Western Kingbird",LC,U,-16731116
-102,98,"forficatus","Tyrannus","Scissor-tailed Flycatcher",LC,U,-16731116
-104,103,"aurantioatrocristatus","Empidonomus","Crowned Slaty Flycatcher",LC,U,-16731116
-105,103,"varius","Empidonomus","Variegated Flycatcher",LC,U,-16731116
-108,107,"sulphurea","Tyrannopsis","Sulphury Flycatcher",LC,U,-16731116
-109,107,"ridgwayi","Nesotriccus","Cocos Flycatcher",VU,U,-11184866
-110,106,"pitangua","Megarynchus","Boat-billed Flycatcher",LC,U,-16731116
-115,114,"luteiventris","Myiodynastes","Sulphur-bellied Flycatcher",LC,U,-16731116
-116,114,"hemichrysus","Myiodynastes","Golden-bellied Flycatcher",LC,U,-16731116
-117,113,"bairdii","Myiodynastes","Baird's Flycatcher",LC,U,-16731116
-118,112,"maculatus","Myiodynastes","Streaked Flycatcher",LC,U,-16731116
-119,111,"chrysocephalus","Myiodynastes","Golden-crowned Flycatcher",LC,U,-16731116
-122,121,"luteiventris","Myiozetetes","Dusky-chested Flycatcher",LC,U,-16731116
-123,121,"granadensis","Myiozetetes","Grey-capped Flycatcher",LC,U,-16731116
-125,124,"cayanensis","Myiozetetes","Rusty-margined Flycatcher",LC,U,-16731116
-126,124,"similis","Myiozetetes","Social Flycatcher",LC,U,-16731116
-129,128,"sulphuratus","Pitangus","Great Kiskadee",LC,U,-16731116
-130,128,"lictor","Pitangus","Lesser Kiskadee",LC,U,-16731116
-131,127,"rixosa","Machetornis","Cattle Tyrant",LC,U,-16731116
-132,0,"leucophaius","Legatus","Piratic Flycatcher",LC,U,-16731116
+7,6,"trifasciata","Cuora","Chinese Three-striped Box Turtle",CR,U,-3014646
+8,6,"aurocapitata","Cuora","Yellow-headed Box Turtle",CR,U,-3014646
+9,5,"pani","Cuora","Pan's Box Turtle",CR,U,-3014646
+10,4,"zhoui","Cuora","Zhou's Box Turtle",CR,U,-3014646
+12,11,"philippeni","Ocadia","",NE,U,-16777216
+13,11,"iversoni","Mauremys","",NE,U,-16777216
+18,17,"galbinifrons","Cuora","Indochinese Box Turtle",CR,U,-3014646
+19,17,"picturata","Cuora","",NE,U,-16777216
+20,16,"flavomarginata_evelynae","Cuora","",NE,U,-16777216
+21,15,"mccordi","Cuora","Mccord's Box Turtle",CR,U,-3014646
+22,14,"serrata","Cuora","",NE,U,-16777216
+24,23,"amboinensis_amboinensis","Cuora","",NE,U,-16777216
+25,23,"mouhotii","Pyxidea","",NE,U,-16777216
+31,30,"megalocephala","Mauremys","",NE,U,-16777216
+32,30,"reevesii","Mauremys","",NE,U,-16777216
+33,29,"nigricans","Chinemys","Red-necked Pond Turtle",EN,U,-8572416
+35,34,"sinensis","Mauremys","",NE,U,-16777216
+36,34,"japonica","Mauremys","",NT,U,-12486656
+39,38,"rivulata","Mauremys","",NE,U,-16777216
+40,38,"caspica","Mauremys","",NE,U,-16777216
+41,37,"leprosa","Mauremys","",NE,U,-16777216
+44,43,"annamensis","Mauremys","Annam Leaf Turtle",CR,U,-3014646
+45,43,"glyphistoma","Ocadia","",NE,U,-16777216
+47,46,"pritchardi","Mauremys","",NE,U,-16777216
+48,46,"mutica","Mauremys","",EN,U,-8572416

@@ -1,72 +1,47 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"lineolateralis","Sceloporus","",NE,U,-16777216
-17,15,"torquatus","Sceloporus","",LC,S,-16731116
-18,14,"jarrovii","Sceloporus","",NE,U,-16777216
-19,13,"bulleri","Sceloporus","",LC,S,-16731116
-22,21,"poinsettii","Sceloporus","Crevice Spiny Lizard",LC,S,-16731116
-23,21,"cyanogenys","Sceloporus","",NE,U,-16777216
-24,20,"dugesii","Sceloporus","",LC,S,-16731116
-25,11,"grammicus","Sceloporus","Graphic Spiny Lizard",LC,S,-16731116
-31,30,"acanthinus","Sceloporus","",NE,U,-16777216
-32,30,"adleri","Sceloporus","",LC,S,-16731116
-33,29,"salvini","Sceloporus","",DD,U,-11513776
-35,34,"malachiticus","Sceloporus","",NE,U,-16777216
-36,34,"formosus","Sceloporus","",LC,S,-16731116
-38,37,"horridus","Sceloporus","",LC,S,-16731116
-39,37,"spinosus","Sceloporus","",LC,S,-16731116
-40,26,"olivaceus","Sceloporus","Texas Spiny Lizard",LC,S,-16731116
-47,46,"orcutti","Sceloporus","Granite Spiny Lizard",LC,S,-16731116
-48,46,"licki","Sceloporus","",LC,S,-16731116
-49,45,"hunsakeri","Sceloporus","",LC,S,-16731116
-51,50,"magister","Sceloporus","Desert Spiny Lizard",LC,S,-16731116
-52,50,"zosteromus","Sceloporus","",LC,S,-16731116
-54,53,"clarkii","Sceloporus","Clark's Spiny Lizard",LC,S,-16731116
-55,53,"melanorhinus","Sceloporus","",LC,S,-16731116
-58,57,"bicanthalis","Sceloporus","",LC,S,-16731116
-59,57,"aeneus","Sceloporus","",LC,S,-16731116
-60,56,"scalaris","Sceloporus","",LC,S,-16731116
-61,41,"edwardtaylori","Sceloporus","",LC,S,-16731116
-62,8,"graciosus","Sceloporus","Common Sagebrush Lizard",LC,S,-16731116
-64,63,"pyrocephalus","Sceloporus","",LC,S,-16731116
-65,63,"gadovae","Sceloporus","",NE,U,-16777216
-66,6,"maculosus","Sceloporus","",VU,U,-11184866
-71,70,"chrysostictus","Sceloporus","",LC,S,-16731116
-72,70,"cozumelae","Sceloporus","",LC,S,-16731116
-73,69,"variabilis","Sceloporus","",NE,U,-16777216
-74,68,"ornatus","Sceloporus","",NT,U,-12486656
-77,76,"carinatus","Sceloporus","",LC,S,-16731116
-78,76,"siniferus","Sceloporus","",LC,S,-16731116
-79,75,"utiformis","Sceloporus","",LC,S,-16731116
-81,80,"occidentalis","Sceloporus","Western Fence Lizard",LC,S,-16731116
-82,80,"undulatus","Sceloporus","Eastern Fence Lizard",LC,S,-16731116
-83,3,"merriami","Sceloporus","Canyon Lizard",LC,S,-16731116
-87,86,"bicarinatus","Urosaurus","",LC,S,-16731116
-88,86,"gadovi","Urosaurus","",LC,U,-16731116
-89,85,"nigricaudus","Urosaurus","Baja California Brush Lizard",LC,S,-16731116
-92,91,"clarionensis","Urosaurus","",VU,U,-11184866
-93,91,"auriculatus","Urosaurus","",EN,D,-8572416
-94,90,"ornatus","Urosaurus","Ornate Tree Lizard",LC,S,-16731116
-95,1,"stansburiana","Uta","Common Side-blotched Lizard",LC,S,-16731116
-106,105,"mcallii","Phrynosoma","Flat-tailed Horned Lizard",NT,D,-12486656
-107,105,"platyrhinos","Phrynosoma","Desert Horned Lizard",LC,S,-16731116
-108,104,"modestum","Phrynosoma","Round-tailed Horned Lizard",LC,S,-16731116
-109,103,"solare","Phrynosoma","Regal Horned Lizard",LC,S,-16731116
-110,102,"cornutum","Phrynosoma","Texas Horned Lizard",LC,S,-16731116
-112,111,"coronatum","Phrynosoma","Blainville Horned Lizard",LC,D,-16731116
-113,111,"cerroense","Phrynosoma","",NE,U,-16777216
-115,114,"douglassii","Phrynosoma","",NE,U,-16777216
-116,114,"orbiculare","Phrynosoma","",LC,S,-16731116
-117,99,"braconnieri","Phrynosoma","",LC,S,-16731116
-119,118,"taurus","Phrynosoma","",LC,S,-16731116
-120,118,"asio","Phrynosoma","",NE,U,-16777216
-126,125,"propinqua","Holbrookia","Keeled Earless Lizard",LC,S,-16731116
-127,125,"maculata","Holbrookia","Lesser Earless Lizard",LC,S,-16731116
-128,124,"lacerata","Holbrookia","Spot-tailed Earless Lizard",NT,D,-12486656
-129,123,"texanus","Cophosaurus","Greater Earless Lizard",LC,S,-16731116
-130,122,"draconoides","Callisaurus","Zebra-tailed Lizard",LC,S,-16731116
-134,133,"inornata","Uma","Coachella Valley Fringe-toed Lizard",EN,D,-8572416
-135,133,"notata","Uma","Colorado Desert Fringe-toed Lizard",NT,D,-12486656
-136,132,"scoparia","Uma","Mojave Fringe-toed Lizard",LC,S,-16731116
-137,131,"paraphygas","Uma","",NT,U,-12486656
-139,138,"mearnsi","Petrosaurus","Banded Rock Lizard",LC,S,-16731116
-140,138,"thalassinus","Petrosaurus","",LC,S,-16731116
+11,10,"erythrogaster","Laniarius","Black-headed Gonolek",LC,U,-16731116
+12,10,"barbarus","Laniarius","Common Gonolek",LC,U,-16731116
+13,9,"mufumbiri","Laniarius","Papyrus Gonolek",NT,U,-12486656
+14,8,"atroflavus","Laniarius","Yellow-breasted Boubou",LC,U,-16731116
+15,7,"amboimensis","Laniarius","Gabela Bush-shrike",EN,U,-8572416
+17,16,"luehderi","Laniarius","Luehder's Bush-shrike",LC,U,-16731116
+18,16,"ruficeps","Laniarius","Red-naped Bush-shrike",LC,U,-16731116
+24,23,"aethiopicus","Laniarius","Ethiopian Boubou",LC,U,-16731116
+25,23,"ferrugineus","Laniarius","Southern Boubou",LC,U,-16731116
+26,22,"turatii","Laniarius","Turati's Boubou",LC,U,-16731116
+27,21,"bicolor","Laniarius","Gabon Boubou",LC,U,-16731116
+28,20,"funebris","Laniarius","Slate-coloured Boubou",LC,U,-16731116
+29,19,"brauni","Laniarius","Orange-breasted Bush-shrike",EN,U,-8572416
+31,30,"fuelleborni","Laniarius","Fuelleborn's Boubou",LC,U,-16731116
+32,30,"poensis","Laniarius","Mountain Boubou",LC,U,-16731116
+34,33,"atrococcineus","Laniarius","Crimson-breasted Gonolek",LC,U,-16731116
+35,33,"leucorhynchus","Laniarius","Sooty Boubou",LC,U,-16731116
+40,39,"sulfureopectus","Telophorus","Sulphur-breasted Bush-shrike",LC,U,-16731116
+41,39,"bocagei","Telophorus","Grey-green Bush-shrike",LC,U,-16731116
+42,38,"multicolor","Telophorus","Many-coloured Bush-shrike",LC,U,-16731116
+45,44,"nigrifrons","Telophorus","Black-fronted Bush-shrike",LC,U,-16731116
+46,44,"kupeensis","Telophorus","Mount Kupe Bush-shrike",EN,U,-8572416
+47,43,"olivaceus","Telophorus","Olive Bush-shrike",LC,U,-16731116
+51,50,"quadricolor","Telophorus","Four-coloured Bush-shrike",LC,U,-16731116
+52,50,"zeylonus","Telophorus","Bokmakierie Bush-shrike",LC,U,-16731116
+53,49,"dohertyi","Telophorus","Doherty's Bush-shrike",LC,U,-16731116
+55,54,"cruentus","Rhodophoneus","Rosy-patched Bush-shrike",LC,U,-16731116
+56,54,"viridis","Telophorus","Perrin's Bush-shrike",LC,U,-16731116
+57,1,"afer","Nilaus","Brubru",LC,U,-16731116
+64,63,"sabini","Dryoscopus","Large-billed Puffback",LC,U,-16731116
+65,63,"pringlii","Dryoscopus","Pringle's Puffback",LC,U,-16731116
+66,62,"angolensis","Dryoscopus","Pink-footed Puffback",LC,U,-16731116
+68,67,"gambensis","Dryoscopus","Northern Puffback",LC,U,-16731116
+69,67,"cubla","Dryoscopus","Black-backed Puffback",LC,U,-16731116
+70,60,"senegalensis","Dryoscopus","Red-eyed Puffback",LC,U,-16731116
+74,73,"australis","Tchagra","Brown-crowned Tchagra",LC,U,-16731116
+75,73,"jamesi","Tchagra","Three-streaked Tchagra",LC,U,-16731116
+76,72,"senegalus","Tchagra","Black-crowned Tchagra",LC,U,-16731116
+78,77,"tchagra","Tchagra","Southern Tchagra",LC,U,-16731116
+79,77,"minutus","Tchagra","Marsh Tchagra",LC,U,-16731116
+84,83,"cruentus","Malaconotus","Fiery-breasted Bush-shrike",LC,U,-16731116
+85,83,"lagdeni","Malaconotus","Lagden's Bush-shrike",NT,U,-12486656
+86,82,"blanchoti","Malaconotus","Grey-headed Bush-shrike",LC,U,-16731116
+88,87,"gladiator","Malaconotus","Green-breasted Bush-shrike",VU,U,-11184866
+89,87,"monteiri","Malaconotus","Monteiro's Bush-shrike",DD,U,-11513776
+90,80,"alius","Malaconotus","Uluguru Bush-shrike",CR,U,-3014646

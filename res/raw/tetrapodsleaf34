@@ -1,63 +1,41 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"ruficollis","Turdus","Dark-throated Thrush",LC,U,-16731116
-10,8,"naumanni","Turdus","Dusky Thrush",LC,U,-16731116
-11,7,"torquatus","Turdus","Ring Ouzel",LC,U,-16731116
-12,6,"pilaris","Turdus","Fieldfare",LC,U,-16731116
-15,14,"albocinctus","Turdus","White-collared Blackbird",LC,U,-16731116
-16,14,"rubrocanus","Turdus","Chestnut Thrush",LC,U,-16731116
-17,13,"kessleri","Turdus","White-backed Thrush",LC,U,-16731116
-22,21,"obscurus","Turdus","Eyebrowed Thrush",LC,U,-16731116
-23,21,"feae","Turdus","Grey-sided Thrush",VU,U,-11184866
-24,20,"pallidus","Turdus","Pale Thrush",LC,U,-16731116
-26,25,"chrysolaus","Turdus","Brown-headed Thrush",LC,U,-16731116
-27,25,"celaenops","Turdus","Izu Thrush",VU,U,-11184866
-28,18,"poliocephalus","Turdus","Island Thrush",LC,U,-16731116
-33,32,"dissimilis","Turdus","Black-breasted Thrush",LC,U,-16731116
-34,32,"unicolor","Turdus","Tickell's Thrush",LC,U,-16731116
-36,35,"hortulorum","Turdus","Grey-backed Thrush",LC,U,-16731116
-37,35,"cardis","Turdus","Japanese Thrush",LC,U,-16731116
-38,30,"subalaris","Turdus","Eastern Slaty Thrush",_U,[,-16777216
-39,29,"boulboul","Turdus","Grey-winged Blackbird",LC,U,-16731116
-45,44,"rufitorques","Turdus","Rufous-collared Robin",LC,U,-16731116
-46,44,"migratorius","Turdus","American Robin",LC,U,-16731116
-48,47,"infuscatus","Turdus","Black Thrush",LC,U,-16731116
-49,47,"nigrescens","Turdus","Sooty Thrush",LC,U,-16731116
-53,52,"aurantius","Turdus","White-chinned Thrush",LC,U,-16731116
-54,52,"plumbeus","Turdus","Red-legged Thrush",LC,U,-16731116
-55,51,"swalesi","Turdus","La Selle Thrush",EN,U,-8572416
-56,50,"jamaicensis","Turdus","White-eyed Thrush",LC,U,-16731116
-58,57,"libonyanus","Turdus","Kurrichane Thrush",LC,U,-16731116
-59,57,"bewsheri","Turdus","Comoro Thrush",LC,U,-16731116
-60,40,"olivaceofuscus","Turdus","Sao Tome Thrush",NT,U,-12486656
-73,72,"haplochrous","Turdus","Unicoloured Thrush",NT,U,-12486656
-74,72,"nudigenis","Turdus","Spectacled Thrush",LC,U,-16731116
-75,71,"grayi","Turdus","Clay-coloured Thrush",LC,U,-16731116
-76,70,"maculirostris","Turdus","Ecuadorian Thrush",LC,U,-16731116
-77,69,"rufiventris","Turdus","Rufous-bellied Thrush",LC,U,-16731116
-78,68,"obsoletus","Turdus","Pale-vented Thrush",LC,U,-16731116
-81,80,"hauxwelli","Turdus","Hauxwell's Thrush",LC,U,-16731116
-82,80,"fumigatus","Turdus","Cocoa Thrush",LC,U,-16731116
-83,79,"leucomelas","Turdus","Pale-breasted Thrush",LC,U,-16731116
-86,85,"assimilis","Turdus","White-throated Thrush",LC,U,-16731116
-87,85,"albicollis","Turdus","White-necked Thrush",LC,U,-16731116
-88,84,"lawrencii","Turdus","Lawrence's Thrush",LC,U,-16731116
-90,89,"rufopalliatus","Turdus","Rufous-backed Robin",LC,U,-16731116
-91,89,"flavipes","Turdus","Yellow-legged Thrush",LC,U,-16731116
-98,97,"serranus","Turdus","Glossy-black Thrush",LC,U,-16731116
-99,97,"fuscater","Turdus","Great Thrush",LC,U,-16731116
-100,96,"nigriceps","Turdus","Slaty Thrush",LC,U,-16731116
-101,95,"olivater","Turdus","Black-hooded Thrush",LC,U,-16731116
-102,94,"chiguanco","Turdus","Chiguanco Thrush",LC,U,-16731116
-103,93,"fulviventris","Turdus","Chestnut-bellied Thrush",LC,U,-16731116
-107,106,"ignobilis","Turdus","Black-billed Thrush",LC,U,-16731116
-108,106,"maranonicus","Turdus","Maranon Thrush",LC,U,-16731116
-109,105,"amaurochalinus","Turdus","Creamy-bellied Thrush",LC,U,-16731116
-110,104,"eremita","Nesocichla","Tristan Thrush",NT,U,-12486656
-111,63,"reevei","Turdus","Plumbeous-backed Thrush",LC,U,-16731116
-112,62,"falcklandii","Turdus","Austral Thrush",LC,U,-16731116
-115,114,"leucops","Turdus","Pale-eyed Thrush",LC,U,-16731116
-116,114,"daguae","Turdus","Dagua Thrush",_U,[,-16777216
-117,113,"pelios","Turdus","African Thrush",LC,U,-16731116
-120,119,"merula","Turdus","Eurasian Blackbird",LC,U,-16731116
-121,119,"menachensis","Turdus","Yemen Thrush",VU,U,-11184866
-122,118,"tephronotus","Turdus","Bare-eyed Thrush",LC,U,-16731116
+9,8,"weidholzi","Afrixalus","Weidholz's Banana Frog",LC,S,-16731116
+10,8,"vittiger","Afrixalus","Savanna Banana Frog",LC,S,-16731116
+12,11,"knysnae","Afrixalus","Knysna Banana Frog",EN,D,-8572416
+13,11,"osorioi","Afrixalus","Angola Banana Frog",LC,I,-16731116
+14,6,"orophilus","Afrixalus","",VU,D,-11184866
+16,15,"fornasini","Afrixalus","",LC,S,-16731116
+17,15,"upembae","Afrixalus","",DD,U,-11513776
+18,4,"nigeriensis","Afrixalus","Nigeria Banana Frog",NT,S,-12486656
+25,24,"clarkeorum","Afrixalus","",NE,U,-16777216
+26,24,"lacteus","Afrixalus","",EN,D,-8572416
+27,23,"delicatus","Afrixalus","Pickersgill's Banana Frog",LC,D,-16731116
+28,22,"vibekensis","Afrixalus","",NT,D,-12486656
+29,21,"fulvovittatus","Afrixalus","Banded Banana Frog",LC,S,-16731116
+30,20,"spinifrons","Afrixalus","Natal Banana Frog",VU,D,-11184866
+31,19,"enseticola","Afrixalus","Ethiopian Banana Frog",VU,D,-11184866
+37,36,"lindholmi","Afrixalus","",DD,U,-11513776
+38,36,"morerei","Afrixalus","",VU,D,-11184866
+39,35,"leucostictus","Afrixalus","",LC,D,-16731116
+41,40,"quadrivittatus","Afrixalus","",LC,S,-16731116
+42,40,"schneideri","Afrixalus","",DD,U,-11513776
+43,33,"equatorialis","Afrixalus","Congo Banana Frog",LC,U,-16731116
+45,44,"stuhlmanni","Afrixalus","",LC,U,-16731116
+46,44,"laevis","Afrixalus","",LC,D,-16731116
+50,49,"aureus","Afrixalus","Golden Banana Frog",LC,S,-16731116
+51,49,"uluguruensis","Afrixalus","",EN,D,-8572416
+52,48,"paradorsalis","Afrixalus","",LC,S,-16731116
+54,53,"dorsalis","Afrixalus","Brown Banana Frog",LC,I,-16731116
+55,53,"wittei","Afrixalus","",LC,S,-16731116
+62,61,"boettgeri","Heterixalus","",LC,U,-16731116
+63,61,"andrakata","Heterixalus","",LC,S,-16731116
+65,64,"rutenbergi","Heterixalus","",NT,D,-12486656
+66,64,"carbonei","Heterixalus","",NT,D,-12486656
+67,59,"alboguttatus","Heterixalus","",LC,S,-16731116
+71,70,"variabilis","Heterixalus","",LC,S,-16731116
+72,70,"betsileo","Heterixalus","",LC,S,-16731116
+73,69,"tricolor","Heterixalus","",LC,S,-16731116
+74,68,"luteostriatus","Heterixalus","",LC,S,-16731116
+76,75,"madagascariensis","Heterixalus","",LC,S,-16731116
+77,75,"punctatus","Heterixalus","",LC,S,-16731116
+78,56,"seychellensis","Tachycnemis","Seychelles Treefrog",LC,U,-16731116

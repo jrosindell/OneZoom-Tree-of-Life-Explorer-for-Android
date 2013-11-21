@@ -1,93 +1,71 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"tholloni","Piliocolobus","",NE,U,-16777216
-18,16,"foai","Piliocolobus","",NE,U,-16777216
-19,15,"gordonorum","Piliocolobus","",NE,U,-16777216
-20,14,"kirkii","Piliocolobus","",NE,U,-16777216
-22,21,"tephrosceles","Piliocolobus","",NE,U,-16777216
-23,21,"pennantii","Piliocolobus","",NE,U,-16777216
-25,24,"preussi","Piliocolobus","",NE,U,-16777216
-26,24,"badius","Piliocolobus","",NE,U,-16777216
-27,11,"rufomitratus","Piliocolobus","",NE,U,-16777216
-28,10,"verus","Procolobus","Olive Colobus",NT,U,-12486656
-33,32,"vellerosus","Colobus","White-thighed Colobus",VU,U,-11184866
-34,32,"polykomos","Colobus","King Colobus",VU,U,-11184866
-35,31,"guereza","Colobus","Guereza",LC,U,-16731116
-36,30,"angolensis","Colobus","Angola Colobus",LC,U,-16731116
-37,29,"satanas","Colobus","Black Colobus",VU,D,-11184866
-47,46,"albibarbis","Hylobates","Bornean White-bearded Gibbon",EN,D,-8572416
-48,46,"agilis","Hylobates","Agile Gibbon",EN,D,-8572416
-49,45,"lar","Hylobates","Lar Gibbon",EN,D,-8572416
-50,44,"moloch","Hylobates","Silvery Javan Gibbon",EN,D,-8572416
-52,51,"muelleri","Hylobates","Muller's Bornean Gibbon",EN,D,-8572416
-53,51,"pileatus","Hylobates","Pileated Gibbon",EN,D,-8572416
-54,42,"klossii","Hylobates","Kloss's Gibbon",EN,D,-8572416
-55,41,"hoolock","Bunopithecus","",NE,U,-16777216
-56,40,"syndactylus","Symphalangus","Siamang",EN,D,-8572416
-60,59,"concolor","Nomascus","Black Crested Gibbon",CR,D,-3014646
-61,59,"hainanus","Nomascus","Hainan Gibbon",CR,S,-3014646
-62,58,"leucogenys","Nomascus","Northern White-cheeked Gibbon",CR,D,-3014646
-64,63,"siki","Nomascus","Southern White-cheeked Gibbon",EN,D,-8572416
-65,63,"gabriellae","Nomascus","Red-cheeked Gibbon",EN,D,-8572416
-70,69,"troglodytes","Pan","Chimpanzee",EN,D,-8572416
-71,69,"paniscus","Pan","Bonobo",EN,D,-8572416
-72,68,"sapiens","Homo","Human",LC,I,-16731116
-74,73,"beringei","Gorilla","Eastern Gorilla",EN,D,-8572416
-75,73,"gorilla","Gorilla","Lowland Gorilla",CR,D,-3014646
-77,76,"pygmaeus","Pongo","Bornean Orangutan",EN,D,-8572416
-78,76,"abelii","Pongo","Sumatran Orangutan",CR,D,-3014646
-83,82,"trivirgatus","Aotus","Douroucouli",LC,U,-16731116
-84,82,"vociferans","Aotus","Night Monkey",LC,D,-16731116
-85,81,"hershkovitzi","Aotus","",NE,U,-16777216
-93,92,"cana","Lagothrix","Geoffroy'S/peruvian Woolly Monkey",EN,D,-8572416
-94,92,"poeppigii","Lagothrix","Poeppig's Woolly Monkey",VU,D,-11184866
-96,95,"lagotricha","Lagothrix","Common Woolly Monkey",VU,D,-11184866
-97,95,"lugens","Lagothrix","Colombian Woolly Monkey",CR,D,-3014646
-98,90,"flavicauda","Oreonax","Peruvian Yellow-tailed Woolly Monkey",CR,D,-3014646
-100,99,"hypoxanthus","Brachyteles","Northern Muriqui",CR,D,-3014646
-101,99,"arachnoides","Brachyteles","Muriqui",EN,D,-8572416
-106,105,"hybridus","Ateles","Variegated Or Brown Spider Monkey",CR,D,-3014646
-107,105,"belzebuth","Ateles","Long-haired Spider Monkey",EN,D,-8572416
-109,108,"chamek","Ateles","Black-faced Black Spider Monkey",EN,D,-8572416
-110,108,"marginatus","Ateles","White-cheeked Spider Monkey",EN,D,-8572416
-112,111,"fusciceps","Ateles","Brown-headed Spider Monkey",CR,D,-3014646
-113,111,"geoffroyi","Ateles","Geoffroy's Spider Monkey",EN,D,-8572416
-114,102,"paniscus","Ateles","Guiana Spider Monkey",VU,D,-11184866
-120,119,"belzebul","Alouatta","Red-handed Howler Monkey",VU,D,-11184866
-121,119,"nigerrima","Alouatta","Black Howler Monkey",LC,U,-16731116
-122,118,"guariba","Alouatta","Brown Howler Monkey",LC,D,-16731116
-124,123,"palliata","Alouatta","Mantled Howler Monkey",LC,U,-16731116
-125,123,"coibensis","Alouatta","",NE,U,-16777216
-128,127,"seniculus","Alouatta","Colombian Red Howler Monkey",LC,D,-16731116
-129,127,"macconnelli","Alouatta","Guianan Red Howler Monkey",LC,U,-16731116
-130,126,"sara","Alouatta","Bolivian Red Howler Monkey",LC,D,-16731116
-132,131,"caraya","Alouatta","Black-and-gold Howler Monkey",LC,D,-16731116
-133,131,"pigra","Alouatta","Yucatan Black Howler Monkey",EN,D,-8572416
-138,137,"sangirensis","Tarsius","Sangihe Tarsier",EN,D,-8572416
-139,137,"tarsier","Tarsius","Spectral Tarsier",VU,D,-11184866
-140,136,"pelengensis","Tarsius","Peleng Tarsier",EN,D,-8572416
-142,141,"dentatus","Tarsius","Dian's Tarsier",VU,D,-11184866
-143,141,"pumilus","Tarsius","Pygmy Tarsier",DD,D,-11513776
-145,144,"bancanus","Tarsius","Horsfield's Tarsier",VU,D,-11184866
-146,144,"syrichta","Tarsius","Philippine Tarsier",NT,D,-12486656
-149,148,"volans","Cynocephalus","Philippine Flying Lemur",LC,S,-16731116
-150,148,"variegates","Galeopterus","",NE,U,-16777216
-161,160,"splendidula","Tupaia","Ruddy Treeshrew",LC,D,-16731116
-162,160,"tana","Tupaia","Large Treeshrew",LC,D,-16731116
-163,159,"gracilis","Tupaia","Slender Treeshrew",LC,D,-16731116
-165,164,"nicobarica","Tupaia","Nicobar Treeshrew",EN,D,-8572416
-166,164,"belangeri","Tupaia","Northern Treeshrew",LC,S,-16731116
-169,168,"chrysogaster","Tupaia","Golden-bellied Treeshrew",EN,D,-8572416
-170,168,"dorsalis","Tupaia","Striped Treeshrew",DD,D,-11513776
-171,167,"glis","Tupaia","Common Treeshrew",LC,D,-16731116
-172,156,"minor","Tupaia","Lesser Treeshrew",LC,D,-16731116
-176,175,"moellendorffi","Tupaia","Calamian Treeshrew",DD,U,-11513776
-177,175,"palawanensis","Tupaia","Palawan Treeshrew",LC,S,-16731116
-179,178,"javanica","Tupaia","Horsfield's Treeshrew",LC,D,-16731116
-180,178,"picta","Tupaia","Painted Treeshrew",LC,D,-16731116
-181,173,"longipes","Tupaia","Long-footed Treeshrew",LC,D,-16731116
-182,154,"montana","Tupaia","Mountain Treeshrew",LC,U,-16731116
-184,183,"melanura","Dendrogale","Bornean Smooth-tailed Treeshrew",DD,D,-11513776
-185,183,"murina","Dendrogale","Northern Smooth-tailed Treeshrew",LC,D,-16731116
-187,186,"everetti","Urogale","Mindanao Treeshrew",LC,S,-16731116
-188,186,"ellioti","Anathana","Madras Treeshrew",LC,D,-16731116
-189,151,"lowii","Ptilocercus","Pen-tailed Treeshrew",LC,D,-16731116
+14,13,"blainvillii","Phyllomys","Golden Atlantic Tree Rat",LC,U,-16731116
+15,13,"medius","Phyllomys","",LC,U,-16731116
+16,12,"lamarum","Phyllomys","Pallid Atlantic Tree Rat",DD,U,-11513776
+18,17,"dasythrix","Phyllomys","Drab Atlantic Tree Rat",LC,U,-16731116
+19,17,"chrysurus","Echimys","White-faced Tree Rat",LC,S,-16731116
+21,20,"macrura","Makalata","Long-tailed Tree Rat",LC,U,-16731116
+22,20,"grandis","Makalata","",NE,U,-16777216
+25,24,"unicolor","Phyllomys","Unicolored Tree Rat",CR,D,-3014646
+26,24,"pictus","Callistomys","Painted Tree-rat",EN,D,-8572416
+27,23,"nigrispinus","Phyllomys","Black-spined Atlantic Tree Rat",LC,U,-16731116
+30,29,"thomasi","Phyllomys","Giant Atlantic Tree Rat",EN,D,-8572416
+31,29,"saturnus","Echimys","Dark Spiny Tree-rat",DD,U,-11513776
+32,28,"semivillosus","Echimys","",NE,U,-16777216
+34,33,"brasiliensis","Phyllomys","Red-nosed Tree Rat",EN,D,-8572416
+35,33,"rhipidura","Makalata","Peruvian Tree Rat",DD,U,-11513776
+40,39,"caniceps","Diplomys","Arboreal Soft-furred Spiny Rat",DD,U,-11513776
+41,39,"rufodorsalis","Diplomys","",NE,U,-16777216
+42,38,"labilis","Diplomys","Rufous Tree Rat",LC,S,-16731116
+44,43,"didelphoides","Makalata","Brazilian Spiny Tree Rat",LC,U,-16731116
+45,43,"occasius","Makalata","",NE,U,-16777216
+48,47,"bistriata","Isothrix","Yellow-crowned Brush-tailed Rat",LC,U,-16731116
+49,47,"negrensis","Isothrix","",LC,U,-16731116
+50,46,"pagurus","Isothrix","Plain Brush-tailed Rat",LC,U,-16731116
+51,5,"urichi","Proechimys","Sucre Spiny Rat",LC,U,-16731116
+52,4,"goeldii","Proechimys","Goeldi's Spiny Rat",VU,D,-11184866
+53,3,"simonsi","Proechimys","Simon's Spiny Rat",LC,U,-16731116
+60,59,"leniceps","Mesomys","Woolly-headed Spiny Tree Rat",DD,U,-11513776
+61,59,"hispidus","Mesomys","Spiny Tree Rat",LC,U,-16731116
+63,62,"obscura","Makalata","Dark Armored Tree-rat",DD,U,-11513776
+64,62,"stimulax","Mesomys","Para Spiny Tree Rat",LC,U,-16731116
+66,65,"cuvieri","Proechimys","Cuvier's Spiny Rat",LC,U,-16731116
+67,65,"setosus","Trinomys","Hairy Spiny Rat",LC,U,-16731116
+68,56,"subspinosus","Chaetomys","Bristle-spined Rat",VU,D,-11184866
+70,69,"apereoides","Thrichomys","Punare",LC,U,-16731116
+71,69,"inermis","Thrichomys","",LC,U,-16731116
+74,73,"gratiosus","Trinomys","",LC,U,-16731116
+75,73,"paratus","Trinomys","",DD,U,-11513776
+76,72,"iheringi","Trinomys","Ihering's Spiny Rat",LC,S,-16731116
+79,78,"chrysaeolus","Proechimys","Boyaca Spiny Rat",DD,U,-11513776
+80,78,"mincae","Proechimys","Minca Spiny Rat",DD,U,-11513776
+81,77,"magdalenae","Proechimys","Magdalena Spiny Rat",DD,U,-11513776
+90,89,"hoplomyoides","Proechimys","Guyanan Spiny Rat",DD,U,-11513776
+91,89,"gymnurus","Hoplomys","Armored Rat",LC,S,-16731116
+92,88,"dimidiatus","Trinomys","Atlantic Spiny Rat",LC,U,-16731116
+94,93,"oconnelli","Proechimys","O'Connell's Spiny Rat",DD,U,-11513776
+95,93,"spinosus","Euryzygomatomys","Guiara",LC,U,-16731116
+96,86,"canicollis","Proechimys","Colombian Spiny Rat",LC,S,-16731116
+100,99,"poliopus","Proechimys","Gray-footed Spiny Rat",VU,D,-11184866
+101,99,"sulcidens","Carterodon","Owl's Spiny Rat",DD,U,-11513776
+102,98,"roberti","Proechimys","Roberto's Spiny Rat",VU,D,-11184866
+104,103,"emiliae","Lonchothrix","Tuft-tailed Spiny Tree Rat",LC,S,-16731116
+105,103,"albispinus","Trinomys","White-spined Spiny Rat",LC,U,-16731116
+109,108,"myosuros","Trinomys","Mouse-tailed Spiny Rat",LC,U,-16731116
+110,108,"trinitatus","Proechimys","Trinidad Spiny Rat",DD,U,-11513776
+111,107,"quadruplicatus","Proechimys","Napo Spiny Rat",LC,S,-16731116
+113,112,"semispinosus","Proechimys","Tome's Spiny Rat",LC,S,-16731116
+114,112,"steerei","Proechimys","Steere's Spiny Rat",LC,U,-16731116
+120,119,"boliviensis","Dactylomys","Bolivian Bamboo Rat",LC,S,-16731116
+121,119,"dactylinus","Dactylomys","Amazon Bamboo Rat",LC,S,-16731116
+122,118,"peruanus","Dactylomys","Peruvian Bamboo Rat",DD,U,-11513776
+124,123,"albicauda","Olallamys","White-tailed Olalla Rat",DD,U,-11513776
+125,123,"edax","Olallamys","Greedy Olalla Rat",DD,U,-11513776
+126,116,"amblyonyx","Kannabateomys","Atlantic Bamboo Rat",LC,U,-16731116
+127,115,"brevicauda","Proechimys","Huallaga Spiny Rat",LC,U,-16731116
+132,131,"bishopi","Clyomys","Bishop's Fossorial Spiny Rat",DD,U,-11513776
+133,131,"laticeps","Clyomys","Broad-headed Spiny Rat",LC,U,-16731116
+134,130,"decumanus","Proechimys","Pacific Spiny Rat",VU,D,-11184866
+135,129,"guyannensis","Proechimys","Cayenne Spiny Rat",LC,U,-16731116
+137,136,"longicaudatus","Proechimys","Long-tailed Spiny Rat",LC,D,-16731116
+138,136,"guairae","Proechimys","Guaira Spiny Rat",LC,U,-16731116

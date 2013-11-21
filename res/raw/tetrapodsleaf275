@@ -1,72 +1,103 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"keyensis","Pteropus","Kei Flying Fox",DD,U,-11513776
-13,11,"aruensis","Pteropus","Aru Flying Fox",CR,U,-3014646
-14,10,"melanopogon","Pteropus","Black-bearded Flying Fox",EN,D,-8572416
-15,9,"livingstonii","Pteropus","Comoro Black Flying Fox",EN,D,-8572416
-18,17,"poliocephalus","Pteropus","Grey-headed Flying Fox",VU,D,-11184866
-19,17,"macrotis","Pteropus","Large-eared Flying Fox",LC,S,-16731116
-20,16,"pohlei","Pteropus","Geelvink Bay Flying Fox",EN,D,-8572416
-24,23,"intermedius","Pteropus","Andersen's Flying Fox",DD,U,-11513776
-25,23,"vampyrus","Pteropus","Large Flying-fox",NT,D,-12486656
-27,26,"giganteus","Pteropus","Indian Flying Fox",LC,D,-16731116
-28,26,"lylei","Pteropus","Lyle's Flying Fox",VU,D,-11184866
-30,29,"conspicillatus","Pteropus","Spectacled Flying Fox",LC,S,-16731116
-31,29,"ocularis","Pteropus","Seram Flying Fox",VU,D,-11184866
-35,34,"aldabrensis","Pteropus","Aldabra Flying-fox",VU,S,-11184866
-36,34,"voeltzkowi","Pteropus","Pemba Flying Fox",VU,I,-11184866
-37,33,"seychellensis","Pteropus","Seychelles Flying Fox",LC,S,-16731116
-39,38,"niger","Pteropus","Greater Mascarene Flying Fox",EN,D,-8572416
-40,38,"rufus","Pteropus","Madagascan Flying Fox",VU,D,-11184866
-46,45,"vetulus","Pteropus","New Caledonia Flying Fox",VU,D,-11184866
-47,45,"nitendiensis","Pteropus","Temotu Flying Fox",EN,D,-8572416
-49,48,"insularis","Pteropus","Chuuk Flying Fox",DD,U,-11513776
-50,48,"pselaphon","Pteropus","Bonin Flying Fox",CR,D,-3014646
-52,51,"leucopterus","Pteropus","Mottle-winged Flying Fox",LC,D,-16731116
-53,51,"tuberculatus","Pteropus","Vanikoro Flying Fox",CR,U,-3014646
-56,55,"molossinus","Pteropus","Pohnpei Flying Fox",VU,S,-11184866
-57,55,"lombocensis","Pteropus","Lombok Flying Fox",DD,U,-11513776
-58,54,"rodricensis","Pteropus","Rodrigues Flying Fox",CR,I,-3014646
-59,41,"alecto","Pteropus","Black Flying Fox",LC,S,-16731116
-62,61,"caniceps","Pteropus","North Moluccan Flying Fox",NT,D,-12486656
-63,61,"ornatus","Pteropus","Ornate Flying Fox",VU,D,-11184866
-64,60,"admiralitatum","Pteropus","Admiralty Flying Fox",LC,U,-16731116
-73,72,"mariannus","Pteropus","Marianas Flying Fox",EN,D,-8572416
-74,72,"ualanus","Pteropus","Kosrae Flying Fox",VU,S,-11184866
-76,75,"pelewensis","Pteropus","Palau Flying Fox",NT,S,-12486656
-77,75,"yapensis","Pteropus","Yap Flying Fox",VU,U,-11184866
-78,70,"loochoensis","Pteropus","Okinawa Flying-fox",DD,U,-11513776
-79,69,"tonganus","Pteropus","Pacific Flying Fox",LC,D,-16731116
-84,83,"scapulatus","Pteropus","Little Red Flying Fox",LC,S,-16731116
-85,83,"mahaganus","Pteropus","Sanborn's Flying Fox",VU,D,-11184866
-86,82,"woodfordi","Pteropus","Dwarf Flying Fox",VU,D,-11184866
-87,81,"gilliardorum","Pteropus","Gilliard's Flying Fox",DD,U,-11513776
-88,80,"howensis","Pteropus","Ontong Java Flying Fox",DD,U,-11513776
-89,67,"griseus","Pteropus","Gray Flying Fox",DD,U,-11513776
-92,91,"speciosus","Pteropus","Philippine Gray Flying Fox",DD,U,-11513776
-93,91,"neohibernicus","Pteropus","Great Flying Fox",LC,U,-16731116
-95,94,"anetianus","Pteropus","Vanauatu Flying Fox",VU,D,-11184866
-96,94,"samoensis","Pteropus","Samoan Flying Fox",NT,D,-12486656
-105,104,"rennelli","Pteropus","Rennell Flying Fox",VU,S,-11184866
-106,104,"rayneri","Pteropus","Solomons Flying Fox",NT,D,-12486656
-107,103,"cognatus","Pteropus","Makira Flying Fox",EN,D,-8572416
-109,108,"chrysoproctus","Pteropus","Moluccan Flying Fox",NT,D,-12486656
-110,108,"fundatus","Pteropus","Banks Flying Fox",EN,D,-8572416
-111,101,"faunulus","Pteropus","Nicobar Flying Fox",VU,D,-11184866
-114,113,"temminckii","Pteropus","Temminck's Flying Fox",VU,D,-11184866
-115,113,"capistratus","Pteropus","Bismarck Flying Fox",EN,D,-8572416
-116,112,"personatus","Pteropus","Moluccan Masked Flying Fox",LC,S,-16731116
-118,117,"pumilus","Pteropus","Little Golden-mantled Flying-fox",NT,D,-12486656
-119,117,"hypomelanus","Pteropus","Island Flying Fox",LC,D,-16731116
-120,98,"dasymallus","Pteropus","Ryukyu Flying Fox",NT,D,-12486656
-121,97,"melanotus","Pteropus","Blyth's Flying Fox",VU,D,-11184866
-125,124,"jubatus","Acerodon","Golden-capped Fruit Bat",EN,D,-8572416
-126,124,"leucotis","Acerodon","Palawan Flying Fox",VU,D,-11184866
-128,127,"celebensis","Acerodon","Sulawesi Fruit Bat",LC,U,-16731116
-129,127,"humilis","Acerodon","Talaud Fruit Bat",EN,D,-8572416
-130,122,"mackloti","Acerodon","Sunda Fruit Bat",VU,D,-11184866
-134,133,"atrata","Pteralopex","Guadalcanal Monkey-faced Bat",EN,D,-8572416
-135,133,"pulchra","Pteralopex","Montane Monkey-faced Bat",CR,D,-3014646
-136,132,"acrodonta","Pteralopex","",NE,U,-16777216
-137,131,"anceps","Pteralopex","Bougainville Monkey-faced Bat",EN,D,-8572416
-139,138,"wallacei","Styloctenium","Stripe-faced Fruit Bat",VU,D,-11184866
-140,138,"frosti","Neopteryx","Small-toothed Fruit Bat",EN,D,-8572416
+10,9,"nigra","Macaca","Celebes Crested Macaque",CR,D,-3014646
+11,9,"nigrescens","Macaca","Gorontalo Macaque",VU,D,-11184866
+12,8,"ochreata","Macaca","Booted Macaque",VU,D,-11184866
+13,7,"maura","Macaca","Moor Macaque",EN,D,-8572416
+15,14,"tonkeana","Macaca","Tonkean Macaque",VU,D,-11184866
+16,14,"hecki","Macaca","Heck's Macaque",VU,D,-11184866
+20,19,"nemestrina","Macaca","Southern Pig-tailed Macaque",VU,D,-11184866
+21,19,"pagensis","Macaca","Pagai Island Macaque",CR,D,-3014646
+22,18,"leonina","Macaca","Northern Pig-tailed Macaque",VU,D,-11184866
+23,17,"silenus","Macaca","Lion-tailed Macaque",EN,D,-8572416
+24,4,"sylvanus","Macaca","Barbary Macaque",EN,D,-8572416
+29,28,"thibetana","Macaca","Milne-edwards' Macaque",NT,D,-12486656
+30,28,"assamensis","Macaca","Assam Macaque",NT,D,-12486656
+32,31,"radiata","Macaca","Bonnet Macaque",LC,D,-16731116
+33,31,"sinica","Macaca","Toque Macaque",EN,D,-8572416
+34,26,"arctoides","Macaca","Stump-tailed Macaque",VU,D,-11184866
+38,37,"cyclopis","Macaca","Formosan Rock Macaque",LC,S,-16731116
+39,37,"mulatta","Macaca","Rhesus Monkey",LC,U,-16731116
+40,36,"fuscata","Macaca","Japanese Macaque",LC,S,-16731116
+41,35,"fascicularis","Macaca","Crab-eating Macaque",LC,D,-16731116
+49,48,"hamadryas","Papio","Hamadryas Baboon",LC,I,-16731116
+50,48,"anubis","Papio","Olive Baboon",LC,I,-16731116
+51,47,"ursinus","Papio","Chacma Baboon",LC,S,-16731116
+52,46,"cynocephalus","Papio","Yellow Baboon",LC,S,-16731116
+53,45,"papio","Papio","Guinea Baboon",NT,U,-12486656
+54,44,"gelada","Theropithecus","Gelada Baboon",LC,D,-16731116
+57,56,"albigena","Lophocebus","Grey-cheeked Mangabey",LC,D,-16731116
+58,56,"opdenboschi","Lophocebus","",NE,U,-16777216
+59,55,"aterrimus","Lophocebus","Black Mangabey",NT,D,-12486656
+63,62,"torquatus","Cercocebus","White-collared Mangabey",VU,D,-11184866
+64,62,"atys","Cercocebus","Sooty/white-naped Mangabey",VU,D,-11184866
+66,65,"leucophaeus","Mandrillus","Drill",EN,U,-8572416
+67,65,"sphinx","Mandrillus","Mandrill",VU,U,-11184866
+70,69,"chrysogaster","Cercocebus","Golden-bellied Mangabey",DD,D,-11513776
+71,69,"agilis","Cercocebus","Agile Mangabey",LC,S,-16731116
+72,68,"galeritus","Cercocebus","Tana River Crested Mangabey",EN,D,-8572416
+84,83,"erythrogaster","Cercopithecus","White-throated Monkey",VU,D,-11184866
+85,83,"sclateri","Cercopithecus","Sclater's Monkey",VU,D,-11184866
+86,82,"ascanius","Cercopithecus","Red-tailed Monkey",LC,U,-16731116
+87,81,"cephus","Cercopithecus","Moustached Monkey",LC,U,-16731116
+89,88,"petaurista","Cercopithecus","Lesser Spot-nosed Monkey",LC,U,-16731116
+90,88,"erythrotis","Cercopithecus","Red-eared Monkey",VU,D,-11184866
+94,93,"mitis","Cercopithecus","Blue Monkey",LC,D,-16731116
+95,93,"albogularis","Cercopithecus","",NE,U,-16777216
+97,96,"doggetti","Cercopithecus","",NE,U,-16777216
+98,96,"kandti","Cercopithecus","",NE,U,-16777216
+99,91,"nictitans","Cercopithecus","Putty-nosed Monkey",LC,D,-16731116
+102,101,"diana","Cercopithecus","Diana/roloway Monkey",VU,D,-11184866
+103,101,"roloway","Cercopithecus","",NE,U,-16777216
+104,100,"dryas","Cercopithecus","Dryad Monkey",CR,U,-3014646
+109,108,"campbelli","Cercopithecus","Campbell's Monkey",LC,U,-16731116
+110,108,"lowei","Cercopithecus","",NE,U,-16777216
+111,107,"mona","Cercopithecus","Mona Monkey",LC,U,-16731116
+114,113,"wolfi","Cercopithecus","",NE,U,-16777216
+115,113,"denti","Cercopithecus","",NE,U,-16777216
+116,112,"pogonias","Cercopithecus","Crowned Monkey",LC,U,-16731116
+117,105,"neglectus","Cercopithecus","De Brazza's Monkey",LC,U,-16731116
+118,76,"hamlyni","Cercopithecus","Owl-faced Monkey",VU,D,-11184866
+126,125,"sabaeus","Chlorocebus","Green Monkey",LC,S,-16731116
+127,125,"pygerythrus","Chlorocebus","Vervet",LC,S,-16731116
+128,124,"aethiops","Chlorocebus","Grivet Monkey",LC,S,-16731116
+129,123,"djamdjamensis","Chlorocebus","Bale Monkey",VU,D,-11184866
+130,122,"cynosuros","Chlorocebus","Malbrouck Monkey",LC,S,-16731116
+131,121,"tantalus","Chlorocebus","Tantalus Monkey",LC,S,-16731116
+134,133,"lhoesti","Cercopithecus","L'hoest's Monkey",VU,D,-11184866
+135,133,"preussi","Cercopithecus","Preuss's Monkey",EN,D,-8572416
+136,132,"solatus","Cercopithecus","Sun-tailed Monkey",VU,U,-11184866
+137,119,"patas","Erythrocebus","Patas Monkey",LC,D,-16731116
+138,74,"talapoin","Miopithecus","Southern Talapoin Monkey",LC,U,-16731116
+139,73,"nigroviridis","Allenopithecus","Allen's Swamp Monkey",LC,U,-16731116
+150,149,"schistaceus","Semnopithecus","Nepal Gray Langur",LC,D,-16731116
+151,149,"hector","Semnopithecus","Tarai Gray Langur",NT,D,-12486656
+152,148,"entellus","Semnopithecus","Northern Plains Gray Langur",LC,D,-16731116
+154,153,"dussumieri","Semnopithecus","Southern Plains Gray Langur",LC,S,-16731116
+155,153,"hypoleucos","Semnopithecus","Black-footed Gray Langur",VU,D,-11184866
+157,156,"priam","Semnopithecus","Tufted Gray Langur",NT,D,-12486656
+158,156,"ajax","Semnopithecus","Kashmir Gray Langur",EN,D,-8572416
+159,145,"johnii","Trachypithecus","Nilgiri Langur",VU,D,-11184866
+160,143,"vetulus","Trachypithecus","Purple-faced Langur",EN,D,-8572416
+165,164,"brelichi","Rhinopithecus","Grey Snub-nosed Monkey",EN,D,-8572416
+166,164,"bieti","Rhinopithecus","Black Snub-nosed Monkey",EN,D,-8572416
+167,163,"roxellana","Rhinopithecus","Golden Snub-nosed Monkey",EN,D,-8572416
+168,162,"avunculus","Rhinopithecus","Tonkin Snub-nosed Monkey",CR,D,-3014646
+170,169,"nigripes","Pygathrix","Black-shanked Douc Langur",EN,D,-8572416
+171,169,"nemaeus","Pygathrix","Red-shanked Douc Langur",EN,D,-8572416
+173,172,"concolor","Simias","Pig-tailed Langur",CR,D,-3014646
+174,172,"larvatus","Nasalis","Proboscis Monkey",EN,D,-8572416
+183,182,"tholloni","Piliocolobus","",NE,U,-16777216
+184,182,"foai","Piliocolobus","",NE,U,-16777216
+185,181,"gordonorum","Piliocolobus","",NE,U,-16777216
+186,180,"kirkii","Piliocolobus","",NE,U,-16777216
+188,187,"tephrosceles","Piliocolobus","",NE,U,-16777216
+189,187,"pennantii","Piliocolobus","",NE,U,-16777216
+191,190,"preussi","Piliocolobus","",NE,U,-16777216
+192,190,"badius","Piliocolobus","",NE,U,-16777216
+193,177,"rufomitratus","Piliocolobus","",NE,U,-16777216
+194,176,"verus","Procolobus","Olive Colobus",NT,U,-12486656
+199,198,"vellerosus","Colobus","White-thighed Colobus",VU,U,-11184866
+200,198,"polykomos","Colobus","King Colobus",VU,U,-11184866
+201,197,"guereza","Colobus","Guereza",LC,U,-16731116
+202,196,"angolensis","Colobus","Angola Colobus",LC,U,-16731116
+203,195,"satanas","Colobus","Black Colobus",VU,D,-11184866

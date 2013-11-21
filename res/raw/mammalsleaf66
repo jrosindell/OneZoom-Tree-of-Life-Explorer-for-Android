@@ -1,28 +1,22 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"susiana","Crocidura","Iranian Shrew",DD,U,-11513776
-9,7,"lea","Crocidura","Sulawesi Shrew",LC,U,-16731116
-10,6,"olivieri","Crocidura","African Giant Shrew",LC,U,-16731116
-12,11,"stenocephala","Crocidura","Kahuzi Swamp Shrew",EN,D,-8572416
-13,11,"hispida","Crocidura","Andaman Spiny Shrew",VU,U,-11184866
-17,16,"thomensis","Crocidura","Sao Tome Shrew",EN,D,-8572416
-18,16,"beatus","Crocidura","Mindanao Shrew",LC,D,-16731116
-19,15,"silacea","Crocidura","Lesser Gray-brown Musk Shrew",LC,S,-16731116
-20,14,"kivuana","Crocidura","Kivu Shrew",VU,U,-11184866
-24,23,"monticola","Crocidura","Sunda Shrew",LC,U,-16731116
-25,23,"glassi","Crocidura","Glass's Shrew",VU,D,-11184866
-26,22,"sibirica","Crocidura","Siberian Shrew",LC,U,-16731116
-28,27,"ultima","Crocidura","Ultimate Shrew",DD,U,-11513776
-29,27,"ludia","Crocidura","Dramatic Shrew",LC,U,-16731116
-34,33,"rhoditis","Crocidura","Sulawesi White-handed Shrew",LC,U,-16731116
-35,33,"latona","Crocidura","Latona Shrew",LC,U,-16731116
-36,32,"lucina","Crocidura","Lucina's Shrew",VU,S,-11184866
-37,31,"floweri","Crocidura","Flower's Shrew",DD,U,-11513776
-40,39,"luna","Crocidura","Greater Gray-brown Musk Shrew",LC,U,-16731116
-41,39,"mariquensis","Crocidura","Swamp Musk Shrew",LC,U,-16731116
-42,38,"paradoxura","Crocidura","Sumatran Long-tailed Shrew",LC,D,-16731116
-45,44,"dolichura","Crocidura","Long-tailed Musk Shrew",LC,U,-16731116
-46,44,"grassei","Crocidura","Grasse's Shrew",LC,U,-16731116
-47,43,"whitakeri","Crocidura","Whitaker's Shrew",LC,U,-16731116
-50,49,"parvipes","Crocidura","Small-footed Shrew",LC,S,-16731116
-51,49,"congobelgica","Crocidura","Congo Shrew",LC,U,-16731116
-52,48,"nigripes","Crocidura","Black-footed Shrew",LC,U,-16731116
+10,9,"cuvieri","Gazella","Cuvier's Gazelle",EN,U,-8572416
+11,9,"leptoceros","Gazella","Rhim",EN,D,-8572416
+12,8,"subgutturosa","Gazella","Goitered Gazelle",VU,D,-11184866
+14,13,"saudiya","Gazella","Saudi Gazelle",EX,U,-16777036
+15,13,"bennettii","Gazella","Chinkara",LC,S,-16731116
+19,18,"gazella","Gazella","Mountain Gazelle",VU,D,-11184866
+20,18,"erlangeri","Gazella","",NE,U,-16777216
+21,17,"dorcas","Gazella","Dorcas Gazelle",VU,D,-11184866
+22,16,"spekei","Gazella","Speke's Gazelle",EN,D,-8572416
+26,25,"soemmerringii","Nanger","Soemmerring's Gazelle",VU,D,-11184866
+27,25,"dama","Nanger","Dama Gazelle",CR,D,-3014646
+28,24,"granti","Nanger","Grant's Gazelle",LC,D,-16731116
+30,29,"rufifrons","Eudorcas","Red-fronted Gazelle",VU,D,-11184866
+31,29,"thomsonii","Eudorcas","Thomson's Gazelle",NT,D,-12486656
+32,4,"cervicapra","Antilope","Blackbuck",NT,S,-12486656
+33,3,"marsupialis","Antidorcas","Springbok",LC,I,-16731116
+35,34,"clarkei","Ammodorcas","Clarke's Gazelle",VU,D,-11184866
+36,34,"walleri","Litocranius","Gerenuk",NT,D,-12486656
+38,37,"tatarica","Saiga","SAIGA",CR,D,-3014646
+39,37,"borealis","Saiga","",NE,U,-16777216
+40,0,"moschatus","Neotragus","",NE,U,-16777216

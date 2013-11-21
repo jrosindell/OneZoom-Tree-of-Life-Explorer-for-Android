@@ -1,89 +1,86 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"caniceps","Prionops","Chestnut-bellied Helmet-shrike",LC,U,-16731116
-14,12,"plumatus","Prionops","White Helmet-shrike",LC,U,-16731116
-15,11,"scopifrons","Prionops","Chestnut-fronted Helmet-shrike",LC,U,-16731116
-16,10,"retzii","Prionops","Retz's Helmet-shrike",LC,U,-16731116
-17,9,"gabela","Prionops","Gabela Helmet-shrike",EN,U,-8572416
-20,19,"rufiventris","Prionops","Rufous-bellied Helmetshrike",_U,[,-16777216
-21,19,"alberti","Prionops","Yellow-crested Helmet-shrike",VU,U,-11184866
-22,18,"poliolophus","Prionops","Grey-crested Helmet-shrike",NT,U,-12486656
-26,25,"pondicerianus","Tephrodornis","Common Woodshrike",LC,U,-16731116
-27,25,"gularis","Tephrodornis","Large Woodshrike",LC,U,-16731116
-28,24,"hirundinaceus","Hemipus","Black-winged Flycatcher-shrike",LC,U,-16731116
-29,23,"picatus","Hemipus","Bar-winged Flycatcher-shrike",LC,U,-16731116
-31,30,"flammulatus","Megabyas","African Shrike-flycatcher",LC,U,-16731116
-32,30,"musicus","Bias","Black-and-white Shrike-flycatcher",LC,U,-16731116
-34,33,"gymnocephala","Pityriasis","Bornean Bristlehead",NT,U,-12486656
-44,43,"leucorynchus","Artamus","White-breasted Woodswallow",LC,U,-16731116
-45,43,"monachus","Artamus","Ivory-backed Woodswallow",LC,U,-16731116
-47,46,"insignis","Artamus","Bismarck Woodswallow",LC,U,-16731116
-48,46,"cyanopterus","Artamus","Dusky Woodswallow",LC,U,-16731116
-49,41,"minor","Artamus","Little Woodswallow",LC,U,-16731116
-51,50,"cinereus","Artamus","Black-faced Woodswallow",LC,U,-16731116
-52,50,"maximus","Artamus","Great Woodswallow",LC,U,-16731116
-56,55,"superciliosus","Artamus","White-browed Woodswallow",LC,U,-16731116
-57,55,"personatus","Artamus","Masked Woodswallow",LC,U,-16731116
-58,54,"mentalis","Artamus","Fiji Woodswallow",LC,U,-16731116
-59,53,"fuscus","Artamus","Ashy Woodswallow",LC,U,-16731116
-61,60,"blainvillii","Peltops","Lowland Peltops",LC,U,-16731116
-62,60,"montanus","Peltops","Mountain Peltops",LC,U,-16731116
-68,67,"louisiadensis","Cracticus","Tagula Butcherbird",DD,U,-11513776
-69,67,"cassicus","Cracticus","Hooded Butcherbird",LC,U,-16731116
-70,66,"nigrogularis","Cracticus","Pied Butcherbird",LC,U,-16731116
-73,72,"torquatus","Cracticus","Grey Butcherbird",LC,U,-16731116
-74,72,"quoyi","Cracticus","Black Butcherbird",LC,U,-16731116
-75,71,"tibicen","Gymnorhina","Australian Magpie",LC,U,-16731116
-76,64,"mentalis","Cracticus","Black-backed Butcherbird",LC,U,-16731116
-79,78,"versicolor","Strepera","Grey Currawong",LC,U,-16731116
-80,78,"graculina","Strepera","Pied Currawong",LC,U,-16731116
-81,77,"fuliginosa","Strepera","Black Currawong",LC,U,-16731116
-83,82,"flaviventer","Machaerirhynchus","Yellow-breasted Boatbill",LC,U,-16731116
-84,82,"nigripectus","Machaerirhynchus","Black-breasted Boatbill",LC,U,-16731116
-89,88,"nigrolutea","Aegithina","White-tailed Iora",LC,U,-16731116
-90,88,"tiphia","Aegithina","Common Iora",LC,U,-16731116
-91,87,"lafresnayei","Aegithina","Great Iora",LC,U,-16731116
-92,86,"viridissima","Aegithina","Green Iora",NT,U,-12486656
-93,85,"leucostigma","Rhagologus","Mottled Whistler",LC,U,-16731116
-96,95,"rufinucha","Aleadryas","Rufous-naped Whistler",LC,U,-16731116
-97,95,"cristatus","Pitohui","Crested Pitohui",LC,U,-16731116
-98,94,"gutturalis","Oreoica","Crested Bellbird",LC,U,-16731116
-105,104,"phoenicea","Campephaga","Red-shouldered Cuckooshrike",LC,U,-16731116
-106,104,"lobata","Campephaga","Western Wattled Cuckooshrike",VU,U,-11184866
-108,107,"petiti","Campephaga","Petit's Cuckooshrike",LC,U,-16731116
-109,107,"flava","Campephaga","Black Cuckooshrike",LC,U,-16731116
-111,110,"quiscalina","Campephaga","Purple-throated Cuckooshrike",LC,U,-16731116
-112,110,"oriolina","Campephaga","Eastern Wattled Cuckooshrike",DD,U,-11513776
-124,123,"schistacea","Coracina","Slaty Cuckooshrike",LC,U,-16731116
-125,123,"larvata","Coracina","Sunda Cuckooshrike",LC,U,-16731116
-126,122,"leucopygia","Coracina","White-rumped Cuckooshrike",LC,U,-16731116
-128,127,"striata","Coracina","Bar-bellied Cuckooshrike",LC,U,-16731116
-129,127,"macei","Coracina","Large Cuckooshrike",LC,U,-16731116
-132,131,"papuensis","Coracina","White-bellied Cuckooshrike",LC,U,-16731116
-133,131,"atriceps","Coracina","Moluccan Cuckooshrike",LC,U,-16731116
-134,130,"caledonica","Coracina","Melanesian Cuckooshrike",LC,U,-16731116
-135,119,"novaehollandiae","Coracina","Black-faced Cuckooshrike",LC,U,-16731116
-136,118,"boyeri","Coracina","Boyer's Cuckooshrike",LC,U,-16731116
-137,117,"lineata","Coracina","Yellow-eyed Cuckooshrike",LC,U,-16731116
-139,138,"maxima","Coracina","Ground Cuckooshrike",LC,U,-16731116
-140,138,"bicolor","Coracina","Pied Cuckooshrike",NT,U,-12486656
-142,141,"temminckii","Coracina","Cerulean Cuckooshrike",LC,U,-16731116
-143,141,"melas","Coracina","New Guinea Cuckooshrike",LC,U,-16731116
-145,144,"caeruleogrisea","Coracina","Stout-billed Cuckooshrike",LC,U,-16731116
-146,144,"longicauda","Coracina","Hooded Cuckooshrike",LC,U,-16731116
-150,149,"pectoralis","Coracina","White-breasted Cuckooshrike",LC,U,-16731116
-151,149,"caesia","Coracina","Grey Cuckooshrike",LC,U,-16731116
-152,148,"graueri","Coracina","Grauer's Cuckooshrike",NT,U,-12486656
-153,147,"cinerea","Coracina","Ashy Cuckooshrike",LC,U,-16731116
-161,160,"cantonensis","Pericrocotus","Brown-rumped Minivet",LC,U,-16731116
-162,160,"divaricatus","Pericrocotus","Ashy Minivet",LC,U,-16731116
-164,163,"tegimae","Pericrocotus","Ryukyu Minivet",LC,U,-16731116
-165,163,"roseus","Pericrocotus","Rosy Minivet",LC,U,-16731116
-166,158,"flammeus","Pericrocotus","Scarlet Minivet",LC,U,-16731116
-169,168,"brevirostris","Pericrocotus","Short-billed Minivet",LC,U,-16731116
-170,168,"miniatus","Pericrocotus","Sunda Minivet",LC,U,-16731116
-172,171,"ethologus","Pericrocotus","Long-tailed Minivet",LC,U,-16731116
-173,171,"lansbergei","Pericrocotus","Flores Minivet",LC,U,-16731116
-174,156,"solaris","Pericrocotus","Grey-chinned Minivet",LC,U,-16731116
-176,175,"cinnamomeus","Pericrocotus","Small Minivet",LC,U,-16731116
-177,175,"igneus","Pericrocotus","Fiery Minivet",NT,U,-12486656
-178,154,"erythropygius","Pericrocotus","White-bellied Minivet",LC,U,-16731116
+14,13,"lozanoi","Atelopus","",CR,D,-3014646
+15,13,"certus","Atelopus","",EN,D,-8572416
+16,12,"sanjosei","Atelopus","",DD,U,-11513776
+17,11,"arsyecue","Atelopus","",CR,D,-3014646
+20,19,"sonsonensis","Atelopus","",CR,U,-3014646
+21,19,"flavescens","Atelopus","",VU,S,-11184866
+22,18,"pictiventris","Atelopus","",CR,U,-3014646
+24,23,"longibrachius","Atelopus","",EN,D,-8572416
+25,23,"franciscus","Atelopus","",VU,S,-11184866
+28,27,"carbonerensis","Atelopus","Venezuelan Yellow Frog",CR,D,-3014646
+29,27,"exiguus","Atelopus","",CR,D,-3014646
+30,26,"lynchi","Atelopus","",CR,D,-3014646
+33,32,"petriruizi","Atelopus","",CR,U,-3014646
+34,32,"ebenoides","Atelopus","",CR,D,-3014646
+35,31,"mucubajiensis","Atelopus","",CR,D,-3014646
+42,41,"zeteki","Atelopus","Golden Arrow Poison Frog",CR,D,-3014646
+43,41,"andinus","Atelopus","",CR,D,-3014646
+44,40,"guanujo","Atelopus","",CR,D,-3014646
+46,45,"pulcher","Atelopus","",CR,D,-3014646
+47,45,"farci","Atelopus","",CR,D,-3014646
+48,38,"reticulatus","Atelopus","",CR,D,-3014646
+50,49,"monohernandezii","Atelopus","",CR,D,-3014646
+51,49,"dimorphus","Atelopus","",EN,D,-8572416
+56,55,"chrysocorallus","Atelopus","",CR,D,-3014646
+57,55,"senex","Atelopus","",CR,D,-3014646
+58,54,"peruensis","Atelopus","",CR,U,-3014646
+59,53,"pedimarmoratus","Atelopus","",CR,U,-3014646
+61,60,"oxyrhynchus","Atelopus","",CR,D,-3014646
+62,60,"pachydermus","Atelopus","",CR,D,-3014646
+63,5,"palmatus","Atelopus","",DD,U,-11513776
+69,68,"laetissimus","Atelopus","",CR,D,-3014646
+70,68,"seminiferus","Atelopus","",CR,D,-3014646
+72,71,"galactogaster","Atelopus","",CR,U,-3014646
+73,71,"nanay","Atelopus","",CR,D,-3014646
+75,74,"cruciger","Atelopus","Rancho Grande Harlequin Frog",CR,D,-3014646
+76,74,"coynei","Atelopus","",CR,D,-3014646
+78,77,"eusebianus","Atelopus","",CR,D,-3014646
+79,77,"nahumae","Atelopus","",CR,U,-3014646
+83,82,"carrikeri","Atelopus","",CR,D,-3014646
+84,82,"siranus","Atelopus","",DD,U,-11513776
+85,81,"spumarius","Atelopus","",VU,D,-11184866
+87,86,"mandingues","Atelopus","",CR,U,-3014646
+88,86,"nepiozomus","Atelopus","",CR,U,-3014646
+93,92,"mindoensis","Atelopus","",CR,D,-3014646
+94,92,"chocoensis","Atelopus","",CR,D,-3014646
+95,91,"pinangoi","Atelopus","Green And Red Venter Harlequin Toad",CR,D,-3014646
+96,90,"chiriquiensis","Atelopus","",CR,D,-3014646
+100,99,"balios","Atelopus","",CR,D,-3014646
+101,99,"muisca","Atelopus","",CR,D,-3014646
+102,98,"quimbaya","Atelopus","",CR,U,-3014646
+103,97,"carauta","Atelopus","Rio Carauta Stubfoot Toad",CR,D,-3014646
+110,109,"sorianoi","Atelopus","Scarlet Harlequin Toad",CR,D,-3014646
+111,109,"planispina","Atelopus","",CR,D,-3014646
+113,112,"famelicus","Atelopus","",CR,D,-3014646
+114,112,"ignescens","Atelopus","",EX,U,-16777036
+115,107,"nicefori","Atelopus","",CR,U,-3014646
+116,106,"tricolor","Atelopus","Three-coloured Harlequin Toad",VU,D,-11184866
+117,105,"subornatus","Atelopus","",CR,D,-3014646
+118,104,"longirostris","Atelopus","",EX,U,-16777036
+125,124,"guitarraensis","Atelopus","",CR,D,-3014646
+126,124,"halihelos","Atelopus","",CR,D,-3014646
+127,123,"boulengeri","Atelopus","",CR,D,-3014646
+128,122,"angelito","Atelopus","",CR,D,-3014646
+131,130,"tamaensis","Atelopus","Tama Harlequin Frog",CR,D,-3014646
+132,130,"erythropus","Atelopus","",CR,D,-3014646
+133,129,"chrysophorus","Chaunus","",NE,U,-16777216
+136,135,"simulatus","Atelopus","",CR,D,-3014646
+137,135,"elegans","Atelopus","",CR,D,-3014646
+138,134,"limosus","Atelopus","",EN,D,-8572416
+143,142,"varius","Atelopus","Harlequin Frog",CR,D,-3014646
+144,142,"vogli","Atelopus","",EX,U,-16777036
+145,141,"walkeri","Atelopus","",CR,D,-3014646
+148,147,"minutulus","Atelopus","",CR,D,-3014646
+149,147,"sernai","Atelopus","",CR,D,-3014646
+150,146,"glyphus","Atelopus","",CR,D,-3014646
+153,152,"spurrelli","Atelopus","",VU,D,-11184866
+154,152,"arthuri","Atelopus","",CR,D,-3014646
+155,151,"bomolochos","Atelopus","",CR,D,-3014646
+161,160,"bufoniformis","Osornophryne","",NT,D,-12486656
+162,160,"sumacoensis","Osornophryne","",VU,S,-11184866
+163,159,"antisana","Osornophryne","",EN,D,-8572416
+164,158,"percrassa","Osornophryne","Herveo Plump Toad",EN,D,-8572416
+166,165,"talipes","Osornophryne","Cannatella's Plump Toad",EN,D,-8572416
+167,165,"guacamayo","Osornophryne","Guacamayo Plump Toad",EN,D,-8572416
+168,156,"pernambucensis","Frostius","",LC,D,-16731116

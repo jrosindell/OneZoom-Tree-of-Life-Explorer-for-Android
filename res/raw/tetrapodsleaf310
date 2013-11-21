@@ -1,77 +1,84 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"lutillus","Melomys","Grassland Melomys",LC,U,-16731116
-14,12,"burtoni","Melomys","Grassland Melomys",LC,S,-16731116
-15,11,"frigicola","Melomys","Snow Mountains Grassland Melomys",LC,U,-16731116
-18,17,"rattoides","Mammelomys","Lowland Mammelomys",LC,U,-16731116
-19,17,"rufescens","Melomys","Black-tailed Melomys",LC,S,-16731116
-20,16,"moncktoni","Paramelomys","Moncton's Paramelomys",LC,U,-16731116
-22,21,"mollis","Paramelomys","Montane Soft-furred Paramelomys",LC,S,-16731116
-23,21,"capensis","Melomys","Cape York Melomys",LC,S,-16731116
-24,8,"platyops","Paramelomys","Common Lowland Paramelomys",LC,S,-16731116
-29,28,"rubicola","Melomys","Bramble Cay Melomys",CR,U,-3014646
-30,28,"spechti","Melomys","",NE,U,-16777216
-31,27,"bougainville","Melomys","Bougainville Melomys",DD,U,-11513776
-33,32,"rubex","Paramelomys","Mountain Paramelomys",LC,S,-16731116
-34,32,"steini","Paramelomys","Stein's Paramelomys",DD,U,-11513776
-36,35,"fellowsi","Protochromys","Red-bellied Protochromys",LC,U,-16731116
-37,35,"fraterculus","Melomys","Manusela Melomys",CR,D,-3014646
-44,43,"talaudium","Melomys","Long-tailed Talaud Melomys",EN,D,-8572416
-45,43,"caurinus","Melomys","Short-tailed Talaud Melomys",EN,D,-8572416
-47,46,"leucogaster","Melomys","White-bellied Melomys",LC,S,-16731116
-48,46,"fulgens","Melomys","Seram Long-tailed Melomys",DD,U,-11513776
-49,41,"arcium","Melomys","Rossel Island Melomys",DD,U,-11513776
-51,50,"lorentzii","Paramelomys","Lorentz's Paramelomys",LC,U,-16731116
-52,50,"naso","Paramelomys","Long-nosed Paramelomys",LC,U,-16731116
-53,39,"aerosus","Melomys","Dusky Seram Melomys",EN,D,-8572416
-57,56,"cervinipes","Melomys","Fawn-footed Melomys",LC,S,-16731116
-58,56,"dollmani","Melomys","Dollman's Melomys",LC,S,-16731116
-59,55,"lanosus","Mammelomys","Highland Mammelomys",LC,U,-16731116
-61,60,"levipes","Paramelomys","Papuan Lowland Paramelomys",DD,U,-11513776
-62,60,"obiensis","Melomys","Obi Island Melomys",LC,U,-16731116
-66,65,"caudimaculatus","Uromys","White-tailed Giant Rat",LC,S,-16731116
-67,65,"siebersi","Uromys","Great Key Island Uromys",DD,U,-11513776
-69,68,"neobritannicus","Uromys","Bismarck Giant Rat",EN,D,-8572416
-70,68,"rex","Uromys","King Rat",EN,D,-8572416
-72,71,"hadrourus","Uromys","Pygmy White-tailed Rat",VU,S,-11184866
-73,71,"anak","Uromys","Black-tailed Giant Rat",LC,U,-16731116
-77,76,"macrurus","Mesembriomys","Golden-backed Tree Rat",LC,U,-16731116
-78,76,"gouldii","Mesembriomys","Black-footed Tree Rat",NT,D,-12486656
-79,75,"conditor","Leporillus","Greater Stick-nest Rat",VU,S,-11184866
-80,74,"penicillatus","Conilurus","Brush-tailed Rabbit Rat",NT,D,-12486656
-84,83,"woodwardi","Zyzomys","Kimberley Rock Rat",LC,S,-16731116
-85,83,"argurus","Zyzomys","Common Rock Rat",LC,S,-16731116
-86,82,"pedunculatus","Zyzomys","Central Rock Rat",CR,U,-3014646
-88,87,"maini","Zyzomys","Arnhem Land Rock Rat",NT,D,-12486656
-89,87,"palatilis","Zyzomys","",NE,U,-16777216
-93,92,"aquilo","Notomys","Northern Hopping Mouse",EN,D,-8572416
-94,92,"alexis","Notomys","Spinifex Hopping Mouse",LC,S,-16731116
-95,91,"fuscus","Notomys","Dusky Hopping Mouse",VU,U,-11184866
-97,96,"mitchellii","Notomys","Mitchell's Hopping Mouse",LC,S,-16731116
-98,96,"cervinus","Notomys","Fawn Hopping Mouse",VU,D,-11184866
-110,109,"calabyi","Pseudomys","Kakadu Pebble Mouse",VU,D,-11184866
-111,109,"laborifex","Pseudomys","",NE,U,-16777216
-112,108,"albocinereus","Pseudomys","Ash-grey Mouse",LC,S,-16731116
-113,107,"chapmani","Pseudomys","Western Pebble Mouse",LC,S,-16731116
-115,114,"nanus","Pseudomys","Western Chestnut Mouse",LC,D,-16731116
-116,114,"desertor","Pseudomys","Desert Mouse",LC,D,-16731116
-118,117,"oralis","Pseudomys","Hastings River Mouse",VU,D,-11184866
-119,117,"pilligaensis","Pseudomys","Pilliga Mouse",DD,D,-11513776
-121,120,"novaehollandiae","Pseudomys","New Holland Mouse",VU,D,-11184866
-122,120,"delicatulus","Pseudomys","Delicate Mouse",LC,U,-16731116
-126,125,"johnsoni","Pseudomys","Central Pebble Mouse",LC,S,-16731116
-127,125,"glaucus","Pseudomys","Blue-grey Mouse",EX,U,-16777036
-128,124,"apodemoides","Pseudomys","Silky Mouse",LC,S,-16731116
-129,123,"gracilicaudatus","Pseudomys","Eastern Chestnut Mouse",LC,D,-16731116
-134,133,"occidentalis","Pseudomys","Western Mouse",LC,U,-16731116
-135,133,"bolami","Pseudomys","Bolam's Mouse",LC,S,-16731116
-136,132,"higginsi","Pseudomys","Long-tailed Mouse",LC,S,-16731116
-137,131,"fuscus","Mastacomys","Broad-toothed Mouse",NT,D,-12486656
-140,139,"patrius","Pseudomys","Eastern Pebble Mouse",LC,U,-16731116
-141,139,"fieldi","Pseudomys","Shark Bay Mouse",VU,I,-11184866
-142,138,"hermannsburgensis","Pseudomys","Sandy Inland Mouse",LC,S,-16731116
-143,101,"fumeus","Pseudomys","Smoky Mouse",EN,D,-8572416
-145,144,"shortridgei","Pseudomys","Heath Mouse",NT,D,-12486656
-146,144,"australis","Pseudomys","Plains Mouse",VU,D,-11184866
-148,147,"lakedownensis","Leggadina","Northern Short-tailed Mouse",LC,U,-16731116
-149,147,"forresti","Leggadina","Central Short-tailed Mouse",LC,U,-16731116
-150,0,"harringtoni","Desmomys","Harrington's Rat",LC,U,-16731116
+10,9,"ocellata","Rheinardia","Crested Argus",NT,U,-12486656
+11,9,"argus","Argusianus","Great Argus",NT,U,-12486656
+12,5,"nahani","Francolinus","Nahan's Francolin",EN,U,-8572416
+18,17,"macroura","Dendrortyx","Long-tailed Wood-partridge",LC,U,-16731116
+19,17,"barbatus","Dendrortyx","Bearded Wood-partridge",VU,U,-11184866
+20,16,"leucophrys","Dendrortyx","Buffy-crowned Wood-partridge",LC,U,-16731116
+21,15,"fasciatus","Philortyx","Banded Quail",LC,U,-16731116
+22,13,"petrosus","Ptilopachus","Stone Partridge",LC,U,-16731116
+27,26,"pucherani","Guttera","Crested Guineafowl",LC,U,-16731116
+28,26,"plumifera","Guttera","Plumed Guineafowl",LC,U,-16731116
+29,25,"meleagris","Numida","Helmeted Guineafowl",LC,U,-16731116
+31,30,"meleagrides","Agelastes","White-breasted Guineafowl",VU,U,-11184866
+32,30,"niger","Agelastes","Black Guineafowl",LC,U,-16731116
+33,23,"vulturinum","Acryllium","Vulturine Guineafowl",LC,U,-16731116
+44,43,"fasciolata","Crax","Bare-faced Curassow",LC,U,-16731116
+45,43,"alector","Crax","Black Curassow",LC,U,-16731116
+46,42,"blumenbachii","Crax","Red-billed Curassow",EN,U,-8572416
+47,41,"globulosa","Crax","Wattled Curassow",EN,U,-8572416
+48,40,"daubentoni","Crax","Yellow-knobbed Curassow",NT,U,-12486656
+49,39,"rubra","Crax","Great Curassow",VU,U,-11184866
+50,38,"alberti","Crax","Blue-billed Curassow",CR,U,-3014646
+57,56,"tuberosum","Mitu","Razor-billed Curassow",LC,U,-16731116
+58,56,"unicornis","Pauxi","Horned Curassow",EN,U,-8572416
+59,55,"salvini","Mitu","Salvin's Curassow",LC,U,-16731116
+60,54,"tomentosum","Mitu","Crestless Curassow",LC,U,-16731116
+61,53,"mitu","Mitu","Alagoas Curassow",EW,U,-12832121
+62,52,"pauxi","Pauxi","Helmeted Curassow",EN,U,-8572416
+63,51,"urumutum","Nothocrax","Nocturnal Curassow",LC,U,-16731116
+71,70,"garrula","Ortalis","Chestnut-winged Chachalaca",LC,U,-16731116
+72,70,"ruficauda","Ortalis","Rufous-vented Chachalaca",LC,U,-16731116
+73,69,"erythroptera","Ortalis","Rufous-headed Chachalaca",VU,U,-11184866
+76,75,"cinereiceps","Ortalis","Grey-headed Chachalaca",LC,U,-16731116
+77,75,"guttata","Ortalis","Speckled Chachalaca",LC,U,-16731116
+78,74,"canicollis","Ortalis","Chaco Chachalaca",LC,U,-16731116
+79,67,"poliocephala","Ortalis","West Mexican Chachalaca",LC,U,-16731116
+82,81,"leucogastra","Ortalis","White-bellied Chachalaca",LC,U,-16731116
+83,81,"vetula","Ortalis","Plain Chachalaca",LC,U,-16731116
+84,80,"superciliaris","Ortalis","Buff-browed Chachalaca",NT,U,-12486656
+85,65,"motmot","Ortalis","Little Chachalaca",LC,U,-16731116
+86,64,"wagleri","Ortalis","Rufous-bellied Chachalaca",LC,U,-16731116
+87,35,"derbianus","Oreophasis","Horned Guan",EN,U,-8572416
+98,97,"affinis","Megapodius","New Guinea Megapode",LC,U,-16731116
+99,97,"freycinet","Megapodius","Dusky Megapode",LC,U,-16731116
+100,96,"reinwardt","Megapodius","Orange-footed Megapode",LC,U,-16731116
+101,95,"eremita","Megapodius","Melanesian Megapode",LC,U,-16731116
+102,94,"bernsteinii","Megapodius","Sula Megapode",NT,U,-12486656
+105,104,"pritchardii","Megapodius","Polynesian Megapode",EN,U,-8572416
+106,104,"layardi","Megapodius","Vanuatu Megapode",VU,U,-11184866
+107,103,"geelvinkianus","Megapodius","Biak Megapode",VU,U,-11184866
+109,108,"laperouse","Megapodius","Micronesian Megapode",EN,U,-8572416
+110,108,"nicobariensis","Megapodius","Nicobar Megapode",VU,U,-11184866
+112,111,"tenimberensis","Megapodius","Tanimbar Megapode",NT,U,-12486656
+113,111,"cumingii","Megapodius","Tabon Megapode",LC,U,-16731116
+114,90,"wallacei","Eulipoa","Moluccan Megapode",VU,U,-11184866
+115,89,"maleo","Macrocephalon","Maleo",EN,U,-8572416
+120,119,"jobiensis","Talegalla","Brown-collared Brush-turkey",LC,U,-16731116
+121,119,"cuvieri","Talegalla","Red-billed Brush-turkey",LC,U,-16731116
+122,118,"fuscirostris","Talegalla","Black-billed Brush-turkey",LC,U,-16731116
+125,124,"arfakianus","Aepypodius","Wattled Brush-turkey",LC,U,-16731116
+126,124,"bruijnii","Aepypodius","Bruijn's Brush-turkey",EN,U,-8572416
+127,123,"lathami","Alectura","Australian Brush-turkey",LC,U,-16731116
+128,116,"ocellata","Leipoa","Malleefowl",VU,U,-11184866
+136,135,"atricapilla","Heteronetta","Black-headed Duck",LC,U,-16731116
+137,135,"lobata","Biziura","Musk Duck",LC,U,-16731116
+143,142,"leucocephala","Oxyura","White-headed Duck",EN,U,-8572416
+144,142,"maccoa","Oxyura","Maccoa Duck",NT,U,-12486656
+145,141,"australis","Oxyura","Blue-billed Duck",NT,U,-12486656
+146,140,"jamaicensis","Oxyura","Ruddy Duck",LC,U,-16731116
+147,139,"vittata","Oxyura","Lake Duck",LC,U,-16731116
+148,138,"dominicus","Nomonyx","Masked Duck",LC,U,-16731116
+155,154,"bicolor","Dendrocygna","Fulvous Whistling-duck",LC,U,-16731116
+156,154,"eytoni","Dendrocygna","Plumed Whistling-duck",LC,U,-16731116
+157,153,"javanica","Dendrocygna","Lesser Whistling-duck",LC,U,-16731116
+159,158,"viduata","Dendrocygna","White-faced Whistling-duck",LC,U,-16731116
+160,158,"guttata","Dendrocygna","Spotted Whistling-duck",LC,U,-16731116
+161,151,"arcuata","Dendrocygna","Wandering Whistling-duck",LC,U,-16731116
+163,162,"autumnalis","Dendrocygna","Black-bellied Whistling-duck",LC,U,-16731116
+164,162,"arborea","Dendrocygna","West Indian Whistling-duck",VU,U,-11184866
+165,149,"leuconotus","Thalassornis","White-backed Duck",LC,U,-16731116
+166,130,"semipalmata","Anseranas","Magpie Goose",LC,U,-16731116
+169,168,"torquata","Chauna","Southern Screamer",LC,U,-16731116
+170,168,"chavaria","Chauna","Northern Screamer",NT,U,-12486656
+171,167,"cornuta","Anhima","Horned Screamer",LC,U,-16731116

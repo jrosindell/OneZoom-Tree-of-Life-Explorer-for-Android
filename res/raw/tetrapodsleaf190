@@ -1,89 +1,72 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"tiliguerta","Podarcis","Tyrrhenian Wall Lizard",LC,U,-16731116
-14,12,"filfolensis","Podarcis","Filfola Lizard",LC,S,-16731116
-16,15,"erhardii","Podarcis","Erhard's Wall Lizard",LC,S,-16731116
-17,15,"peloponnesianica","Podarcis","",NE,U,-16777216
-18,10,"taurica","Podarcis","",NE,U,-16777216
-19,9,"melisellensis","Podarcis","Dalmatian Wall Lizard",LC,S,-16731116
-21,20,"muralis","Podarcis","Common Wall Lizard",LC,S,-16731116
-22,20,"sicula","Podarcis","",NE,U,-16777216
-23,7,"pityusensis","Podarcis","Ibiza Wall Lizard",NT,S,-12486656
-24,6,"milensis","Podarcis","Miles Wall Lizard",VU,S,-11184866
-26,25,"wagleriana","Podarcis","",NE,U,-16777216
-27,25,"hispanica","Podarcis","",NE,U,-16777216
-28,4,"lilfordi","Podarcis","Lilford's Wall Lizard",EN,D,-8572416
-33,32,"hispanicus","Psammodromus","Spanish Psammodromus",LC,S,-16731116
-34,32,"algirus","Psammodromus","Large Psammodromus",LC,S,-16731116
-35,31,"microdactylus","Psammodromus","Green Psammodromus",EN,D,-8572416
-36,30,"blanci","Psammodromus","Blanc's Sand Racer",NT,D,-12486656
-39,38,"simonyi","Gallotia","El Hierro Giant Lizard",CR,S,-3014646
-40,38,"galloti","Gallotia","Tenerife Lizard",LC,S,-16731116
-41,37,"atlantica","Gallotia","Atlantic Lizard",LC,S,-16731116
-57,56,"haullagana","Bachia","",NE,U,-16777216
-58,56,"dorbignyi","Bachia","",NE,U,-16777216
-59,55,"trisanale","Bachia","",NE,U,-16777216
-60,54,"monodactylus","Bachia","",NE,U,-16777216
-61,53,"bicolor","Bachia","",NE,U,-16777216
-62,52,"barbouri","Bachia","",NE,U,-16777216
-63,51,"intermedia","Bachia","",NE,U,-16777216
-64,50,"heteropa","Bachia","",NE,U,-16777216
-65,49,"bresslaui","Bachia","",NE,U,-16777216
-66,48,"flavescens","Bachia","",NE,U,-16777216
-68,67,"reticulata","Arthrosaura","",NE,U,-16777216
-69,67,"kockii","Arthrosaura","",NE,U,-16777216
-72,71,"scincoides","Leposoma","",NE,U,-16777216
-73,71,"southi","Leposoma","",NE,U,-16777216
-74,70,"parietale","Leposoma","",NE,U,-16777216
-78,77,"plicatus","Ptychoglossus","",NE,U,-16777216
-79,77,"festae","Ptychoglossus","",NE,U,-16777216
-80,76,"brevifrontalis","Ptychoglossus","",NE,U,-16777216
-82,81,"buckleyi","Alopoglossus","",NE,U,-16777216
-83,81,"festae","Alopoglossus","",NE,U,-16777216
-87,86,"anatoloros","Riama","",NE,U,-16777216
-88,86,"shrevei","Riama","",NE,U,-16777216
-89,85,"unicolor","Riama","",NE,U,-16777216
-91,90,"hyposticta","Riama","",NE,U,-16777216
-92,90,"simoterus","Riama","",NE,U,-16777216
-105,104,"hyperythrus","Cnemidophorus","",NE,U,-16777216
-106,104,"guttatus","Cnemidophorus","",NE,U,-16777216
-107,103,"deppei","Cnemidophorus","",NE,U,-16777216
-108,102,"tigris","Cnemidophorus","",NE,U,-16777216
-111,110,"flagellicaudus","Cnemidophorus","",NE,U,-16777216
-112,110,"mexicanus","Cnemidophorus","",NE,U,-16777216
-113,109,"tesselatus","Cnemidophorus","",NE,U,-16777216
-116,115,"lemniscatus","Cnemidophorus","",NE,U,-16777216
-117,115,"velox","Cnemidophorus","",NE,U,-16777216
-118,114,"exsanguis","Cnemidophorus","",NE,U,-16777216
-122,121,"sexlineatus","Cnemidophorus","",NE,U,-16777216
-123,121,"inornatus","Cnemidophorus","",NE,U,-16777216
-125,124,"costatus","Cnemidophorus","",NE,U,-16777216
-126,124,"gularis","Cnemidophorus","",NE,U,-16777216
-128,127,"neomexicanus","Cnemidophorus","",NE,U,-16777216
-129,127,"communis","Cnemidophorus","",NE,U,-16777216
-130,98,"amazonicus","Crocodilurus","",NE,U,-16777216
-131,97,"teguixin","Tupinambis","",NE,U,-16777216
-133,132,"heterolepis","Dicrodon","",NE,U,-16777216
-134,132,"guttulatum","Dicrodon","",NE,U,-16777216
-144,143,"lineolata","Ameiva","",NE,U,-16777216
-145,143,"maynardi","Ameiva","",NE,U,-16777216
-146,142,"taeniura","Ameiva","",NE,U,-16777216
-147,141,"chrysolaema","Ameiva","",NE,U,-16777216
-148,140,"exsul","Ameiva","",NE,U,-16777216
-151,150,"dorsalis","Ameiva","",NE,U,-16777216
-152,150,"auberi","Ameiva","",NE,U,-16777216
-154,153,"griswoldi","Ameiva","",NE,U,-16777216
-155,153,"pleei","Ameiva","",NE,U,-16777216
-156,138,"undulata","Ameiva","",NE,U,-16777216
-158,157,"edracantha","Ameiva","",NE,U,-16777216
-159,157,"leberi","Ameiva","",NE,U,-16777216
-160,136,"leptophrys","Ameiva","",NE,U,-16777216
-163,162,"bifrontata","Ameiva","",NE,U,-16777216
-164,162,"ameiva","Ameiva","",NE,U,-16777216
-165,161,"quadrilineata","Ameiva","",NE,U,-16777216
-170,169,"altamazonica","Kentropyx","",NE,U,-16777216
-171,169,"pelviceps","Kentropyx","",NE,U,-16777216
-173,172,"viridistriga","Kentropyx","",NE,U,-16777216
-174,172,"borkiana","Kentropyx","",NE,U,-16777216
-175,167,"calcarata","Kentropyx","",NE,U,-16777216
-176,166,"maculatus","Callopistes","",DD,U,-11513776
-177,93,"teyou","Teius","",NE,U,-16777216
+12,11,"sclateri","Thryothorus","Speckle-breasted Wren",LC,U,-16731116
+13,11,"spadix","Thryothorus","Sooty-headed Wren",LC,U,-16731116
+15,14,"leucoptera","Henicorhina","Bar-winged Wood-wren",NT,U,-12486656
+16,14,"felix","Thryothorus","Happy Wren",LC,U,-16731116
+18,17,"maculipectus","Thryothorus","Spot-breasted Wren",LC,U,-16731116
+19,17,"rutilus","Thryothorus","Rufous-breasted Wren",LC,U,-16731116
+20,8,"atrogularis","Thryothorus","Black-throated Wren",LC,U,-16731116
+21,7,"negreti","Henicorhina","Munchique Wood-wren",CR,U,-3014646
+25,24,"euophrys","Thryothorus","Plain-tailed Wren",LC,U,-16731116
+26,24,"mystacalis","Thryothorus","Whiskered Wren",LC,U,-16731116
+28,27,"genibarbis","Thryothorus","Moustached Wren",LC,U,-16731116
+29,27,"coraya","Thryothorus","Coraya Wren",LC,U,-16731116
+30,22,"fasciatoventris","Thryothorus","Black-bellied Wren",LC,U,-16731116
+32,31,"leucophrys","Henicorhina","Grey-breasted Wood-wren",LC,U,-16731116
+33,31,"griseus","Thryothorus","Grey Wren",LC,U,-16731116
+41,40,"guarayanus","Thryothorus","Fawn-breasted Wren",LC,U,-16731116
+42,40,"leucotis","Thryothorus","Buff-breasted Wren",LC,U,-16731116
+43,39,"longirostris","Thryothorus","Long-billed Wren",LC,U,-16731116
+44,38,"superciliaris","Thryothorus","Superciliated Wren",LC,U,-16731116
+47,46,"semibadius","Thryothorus","Riverside Wren",LC,U,-16731116
+48,46,"nicefori","Thryothorus","Niceforo's Wren",CR,U,-3014646
+50,49,"nigricapillus","Thryothorus","Bay Wren",LC,U,-16731116
+51,49,"cerverai","Ferminia","Zapata Wren",EN,U,-8572416
+52,36,"modestus","Thryothorus","Plain Wren",LC,U,-16731116
+54,53,"thoracicus","Thryothorus","Stripe-breasted Wren",LC,U,-16731116
+55,53,"leucopogon","Thryothorus","Stripe-throated Wren",LC,U,-16731116
+59,58,"eisenmanni","Thryothorus","Inca Wren",LC,U,-16731116
+60,58,"sinaloa","Thryothorus","Sinaloa Wren",LC,U,-16731116
+61,57,"pleurostictus","Thryothorus","Banded Wren",LC,U,-16731116
+62,56,"rufalbus","Thryothorus","Rufous-and-white Wren",LC,U,-16731116
+65,64,"leucosticta","Henicorhina","White-breasted Wood-wren",LC,U,-16731116
+66,64,"ludovicianus","Thryothorus","Carolina Wren",LC,U,-16731116
+67,63,"bewickii","Thryomanes","Bewick's Wren",LC,U,-16731116
+75,74,"ochraceus","Troglodytes","Ochraceous Wren",LC,U,-16731116
+76,74,"rufulus","Troglodytes","Tepui Wren",LC,U,-16731116
+77,73,"rufociliatus","Troglodytes","Rufous-browed Wren",LC,U,-16731116
+79,78,"monticola","Troglodytes","Santa Marta Wren",VU,U,-11184866
+80,78,"solstitialis","Troglodytes","Mountain Wren",LC,U,-16731116
+83,82,"sissonii","Troglodytes","Socorro Wren",NT,U,-12486656
+84,82,"aedon","Troglodytes","House Wren",LC,U,-16731116
+85,81,"cobbi","Troglodytes","Cobb's Wren",VU,U,-11184866
+87,86,"troglodytes","Troglodytes","Winter Wren",LC,U,-16731116
+88,86,"tanneri","Troglodytes","Clarion Wren",VU,U,-11184866
+91,90,"apolinari","Cistothorus","Apolinar's Wren",EN,U,-8572416
+92,90,"palustris","Cistothorus","Marsh Wren",LC,U,-16731116
+94,93,"platensis","Cistothorus","Sedge Wren",LC,U,-16731116
+95,93,"meridae","Cistothorus","Merida Wren",LC,U,-16731116
+96,68,"browni","Thryorchilus","Timberline Wren",LC,U,-16731116
+101,100,"thoracicus","Cyphorhinus","Chestnut-breasted Wren",LC,U,-16731116
+102,100,"phaeocephalus","Cyphorhinus","Song Wren",LC,U,-16731116
+103,99,"arada","Cyphorhinus","Musician Wren",LC,U,-16731116
+104,98,"leucogastra","Uropsila","White-bellied Wren",LC,U,-16731116
+108,107,"peruana","Cinnycerthia","Peruvian Wren",LC,U,-16731116
+109,107,"fulva","Cinnycerthia","Fulvous Wren",LC,U,-16731116
+110,106,"unirufa","Cinnycerthia","Rufous Wren",LC,U,-16731116
+111,105,"olivascens","Cinnycerthia","Sharpe's Wren",LC,U,-16731116
+119,118,"albobrunneus","Campylorhynchus","White-headed Wren",LC,U,-16731116
+120,118,"zonatus","Campylorhynchus","Band-backed Wren",LC,U,-16731116
+121,117,"fasciatus","Campylorhynchus","Fasciated Wren",LC,U,-16731116
+122,116,"megalopterus","Campylorhynchus","Grey-barred Wren",LC,U,-16731116
+124,123,"nuchalis","Campylorhynchus","Stripe-backed Wren",LC,U,-16731116
+125,123,"turdinus","Campylorhynchus","Thrush-like Wren",LC,U,-16731116
+130,129,"jocosus","Campylorhynchus","Boucard's Wren",LC,U,-16731116
+131,129,"gularis","Campylorhynchus","Spotted Wren",LC,U,-16731116
+132,128,"rufinucha","Campylorhynchus","Rufous-naped Wren",LC,U,-16731116
+134,133,"griseus","Campylorhynchus","Bicoloured Wren",LC,U,-16731116
+135,133,"chiapensis","Campylorhynchus","Giant Wren",LC,U,-16731116
+136,126,"yucatanicus","Campylorhynchus","Yucatan Wren",NT,U,-12486656
+137,113,"brunneicapillus","Campylorhynchus","Cactus Wren",LC,U,-16731116
+139,138,"branickii","Odontorchilus","Grey-mantled Wren",LC,U,-16731116
+140,138,"cinereus","Odontorchilus","Tooth-billed Wren",LC,U,-16731116

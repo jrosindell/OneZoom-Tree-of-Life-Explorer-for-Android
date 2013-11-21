@@ -1,42 +1,63 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"hildebrandti","Francolinus","Hildebrandt's Francolin",LC,U,-16731116
-13,11,"natalensis","Francolinus","Natal Francolin",LC,U,-16731116
-15,14,"adspersus","Francolinus","Red-billed Francolin",LC,U,-16731116
-16,14,"capensis","Francolinus","Cape Francolin",LC,U,-16731116
-17,9,"griseostriatus","Francolinus","Grey-striped Francolin",NT,U,-12486656
-20,19,"bicalcaratus","Francolinus","Double-spurred Francolin",LC,U,-16731116
-21,19,"rufopictus","Francolinus","Grey-breasted Spurfowl",LC,U,-16731116
-22,18,"squamatus","Francolinus","Scaly Francolin",LC,U,-16731116
-26,25,"leucoscepus","Francolinus","Yellow-necked Spurfowl",LC,U,-16731116
-27,25,"swainsonii","Francolinus","Swainson's Spurfowl",LC,U,-16731116
-28,24,"afer","Francolinus","Red-necked Spurfowl",LC,U,-16731116
-29,23,"harwoodi","Francolinus","Harwood's Francolin",VU,U,-11184866
-33,32,"ochropectus","Francolinus","Djibouti Francolin",CR,U,-3014646
-34,32,"nobilis","Francolinus","Handsome Francolin",LC,U,-16731116
-35,31,"clappertoni","Francolinus","Clapperton's Francolin",LC,U,-16731116
-36,30,"ahantensis","Francolinus","Ahanta Francolin",LC,U,-16731116
-38,37,"castaneicollis","Francolinus","Chestnut-naped Francolin",LC,U,-16731116
-39,37,"erckelii","Francolinus","Erckel's Francolin",LC,U,-16731116
-40,4,"swierstrai","Francolinus","Swierstra's Francolin",EN,U,-8572416
-42,41,"icterorhynchus","Francolinus","Heuglin's Francolin",LC,U,-16731116
-43,41,"jacksoni","Francolinus","Jackson's Francolin",LC,U,-16731116
-45,44,"camerunensis","Francolinus","Mount Cameroon Francolin",EN,U,-8572416
-46,44,"hartlaubi","Francolinus","Hartlaub's Francolin",LC,U,-16731116
-53,52,"magna","Alectoris","Rusty-necklaced Partridge",LC,U,-16731116
-54,52,"graeca","Alectoris","Rock Partridge",LC,U,-16731116
-55,51,"philbyi","Alectoris","Philby's Partridge",LC,U,-16731116
-57,56,"rufa","Alectoris","Red-legged Partridge",LC,U,-16731116
-58,56,"chukar","Alectoris","Chukar",LC,U,-16731116
-59,49,"melanocephala","Alectoris","Arabian Partridge",LC,U,-16731116
-60,48,"barbara","Alectoris","Barbary Partridge",LC,U,-16731116
-65,64,"erythrorhyncha","Perdicula","Painted Bush-quail",LC,U,-16731116
-66,64,"asiatica","Perdicula","Jungle Bush-quail",LC,U,-16731116
-67,63,"argoondah","Perdicula","Rock Bush-quail",LC,U,-16731116
-68,62,"manipurensis","Perdicula","Manipur Bush-quail",VU,U,-11184866
-70,69,"griseogularis","Ammoperdix","See-see Partridge",LC,U,-16731116
-71,69,"heyi","Ammoperdix","Sand Partridge",LC,U,-16731116
-75,74,"himalayensis","Tetraogallus","Himalayan Snowcock",LC,U,-16731116
-76,74,"altaicus","Tetraogallus","Altai Snowcock",LC,U,-16731116
-77,73,"caspius","Tetraogallus","Caspian Snowcock",LC,U,-16731116
-79,78,"caucasicus","Tetraogallus","Caucasian Snowcock",LC,U,-16731116
-80,78,"tibetanus","Tetraogallus","Tibetan Snowcock",LC,U,-16731116
+12,11,"magnirostra","Sericornis","Large-billed Scrubwren",LC,U,-16731116
+13,11,"nouhuysi","Sericornis","Large Scrubwren",LC,U,-16731116
+14,10,"virgatus","Sericornis","Perplexing Scrubwren",LC,U,-16731116
+16,15,"frontalis","Sericornis","White-browed Scrubwren",LC,U,-16731116
+17,15,"keri","Sericornis","Atherton Scrubwren",LC,U,-16731116
+18,8,"spilodera","Sericornis","Pale-billed Scrubwren",LC,U,-16731116
+22,21,"perspicillatus","Sericornis","Buff-faced Scrubwren",LC,U,-16731116
+23,21,"papuensis","Sericornis","Papuan Scrubwren",LC,U,-16731116
+25,24,"beccarii","Sericornis","Beccari's Scrubwren",LC,U,-16731116
+26,24,"rufescens","Sericornis","Vogelkop Scrubwren",LC,U,-16731116
+27,19,"arfakianus","Sericornis","Grey-green Scrubwren",LC,U,-16731116
+29,28,"citreogularis","Sericornis","Yellow-throated Scrubwren",LC,U,-16731116
+30,28,"humilis","Sericornis","Tasmanian Scrubwren",LC,U,-16731116
+34,33,"nigrorufa","Crateroscelis","Bicoloured Mouse-warbler",LC,U,-16731116
+35,33,"murina","Crateroscelis","Rusty Mouse-warbler",LC,U,-16731116
+36,32,"robusta","Crateroscelis","Mountain Mouse-warbler",LC,U,-16731116
+37,31,"solitaria","Origma","Rockwarbler",LC,U,-16731116
+41,40,"fuliginosus","Calamanthus","Striated Fieldwren",LC,U,-16731116
+42,40,"campestris","Calamanthus","Rufous Fieldwren",LC,U,-16731116
+44,43,"pyrrhopygia","Hylacola","Chestnut-rumped Heathwren",LC,U,-16731116
+45,43,"cauta","Hylacola","Shy Heathwren",LC,U,-16731116
+48,47,"sagittatus","Chthonicola","Speckled Warbler",LC,U,-16731116
+49,47,"brunneus","Pyrrholaemus","Redthroat",LC,U,-16731116
+50,46,"floccosus","Pycnoptilus","Pilotbird",LC,U,-16731116
+51,3,"brevirostris","Smicrornis","Weebill",LC,U,-16731116
+58,57,"reguloides","Acanthiza","Buff-rumped Thornbill",LC,U,-16731116
+59,57,"inornata","Acanthiza","Western Thornbill",LC,U,-16731116
+60,56,"uropygialis","Acanthiza","Chestnut-rumped Thornbill",LC,U,-16731116
+62,61,"robustirostris","Acanthiza","Slaty-backed Thornbill",LC,U,-16731116
+63,61,"iredalei","Acanthiza","Slender-billed Thornbill",LC,U,-16731116
+67,66,"katherina","Acanthiza","Mountain Thornbill",LC,U,-16731116
+68,66,"pusilla","Acanthiza","Brown Thornbill",LC,U,-16731116
+69,65,"ewingii","Acanthiza","Tasmanian Thornbill",LC,U,-16731116
+70,64,"apicalis","Acanthiza","Inland Thornbill",LC,U,-16731116
+74,73,"murina","Acanthiza","Papuan Thornbill",LC,U,-16731116
+75,73,"nana","Acanthiza","Yellow Thornbill",LC,U,-16731116
+76,72,"chrysorrhoa","Acanthiza","Yellow-rumped Thornbill",LC,U,-16731116
+77,71,"lineata","Acanthiza","Striated Thornbill",LC,U,-16731116
+81,80,"pectoralis","Aphelocephala","Chestnut-breasted Whiteface",NT,U,-12486656
+82,80,"nigricincta","Aphelocephala","Banded Whiteface",LC,U,-16731116
+83,79,"leucopsis","Aphelocephala","Southern Whiteface",LC,U,-16731116
+84,78,"magna","Acanthornis","Scrubtit",LC,U,-16731116
+92,91,"sulphurea","Gerygone","Golden-bellied Gerygone",LC,U,-16731116
+93,91,"olivacea","Gerygone","White-throated Gerygone",LC,U,-16731116
+94,90,"fusca","Gerygone","Western Gerygone",LC,U,-16731116
+96,95,"chrysogaster","Gerygone","Yellow-bellied Gerygone",LC,U,-16731116
+97,95,"mouki","Gerygone","Brown Gerygone",LC,U,-16731116
+98,88,"ruficollis","Gerygone","Brown-breasted Gerygone",LC,U,-16731116
+101,100,"modesta","Gerygone","Norfolk Island Gerygone",VU,U,-11184866
+102,100,"albofrontata","Gerygone","Chatham Gerygone",LC,U,-16731116
+104,103,"dorsalis","Gerygone","Rufous-sided Gerygone",LC,U,-16731116
+105,103,"cinerea","Gerygone","Mountain Gerygone",LC,U,-16731116
+109,108,"magnirostris","Gerygone","Large-billed Gerygone",LC,U,-16731116
+110,108,"flavolateralis","Gerygone","Fan-tailed Gerygone",LC,U,-16731116
+112,111,"levigaster","Gerygone","Mangrove Gerygone",LC,U,-16731116
+113,111,"igata","Gerygone","Grey Gerygone",LC,U,-16731116
+116,115,"chloronota","Gerygone","Green-backed Gerygone",LC,U,-16731116
+117,115,"palpebrosa","Gerygone","Fairy Gerygone",LC,U,-16731116
+118,114,"inornata","Gerygone","Plain Gerygone",LC,U,-16731116
+120,119,"tenebrosa","Gerygone","Dusky Gerygone",LC,U,-16731116
+121,119,"hypoxantha","Gerygone","Biak Gerygone",_U,[,-16777216
+122,0,"gutturalis","Oreoscopus","Fernwren",LC,U,-16731116

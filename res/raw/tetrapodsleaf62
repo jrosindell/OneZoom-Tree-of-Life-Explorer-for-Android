@@ -1,85 +1,33 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"gigantea","Melampitta","Greater Melampitta",LC,U,-16731116
-12,10,"lugubris","Melampitta","Lesser Melampitta",LC,U,-16731116
-19,18,"chalybatus","Manucodia","Crinkle-collared Manucode",LC,U,-16731116
-20,18,"comrii","Manucodia","Curl-crested Manucode",LC,U,-16731116
-21,17,"ater","Manucodia","Glossy-mantled Manucode",LC,U,-16731116
-22,16,"jobiensis","Manucodia","Jobi Manucode",LC,U,-16731116
-23,15,"keraudrenii","Manucodia","Trumpet Manucode",LC,U,-16731116
-24,14,"pyrrhopterus","Lycocorax","Paradise-crow",LC,U,-16731116
-27,26,"melanorhamphos","Corcorax","White-winged Chough",LC,U,-16731116
-28,26,"cinerea","Struthidea","Apostlebird",LC,U,-16731116
-37,36,"internigrans","Perisoreus","Sichuan Jay",VU,U,-11184866
-38,36,"infaustus","Perisoreus","Siberian Jay",LC,U,-16731116
-39,35,"canadensis","Perisoreus","Grey Jay",LC,U,-16731116
-40,34,"cyanus","Cyanopica","Azure-winged Magpie",LC,U,-16731116
-46,45,"flavirostris","Urocissa","Gold-billed Magpie",LC,U,-16731116
-47,45,"caerulea","Urocissa","Taiwan Magpie",LC,U,-16731116
-48,44,"ornata","Urocissa","Sri Lanka Magpie",VU,U,-11184866
-49,43,"whiteheadi","Urocissa","White-winged Magpie",LC,U,-16731116
-50,42,"erythrorhyncha","Urocissa","Blue Magpie",LC,U,-16731116
-53,52,"hypoleuca","Cissa","Yellow-breasted Magpie",LC,U,-16731116
-54,52,"thalassina","Cissa","Short-tailed Magpie",LC,U,-16731116
-55,51,"chinensis","Cissa","Green Magpie",LC,U,-16731116
-63,62,"occipitalis","Dendrocitta","Sunda Treepie",LC,U,-16731116
-64,62,"vagabunda","Dendrocitta","Rufous Treepie",LC,U,-16731116
-65,61,"bayleyi","Dendrocitta","Andaman Treepie",NT,U,-12486656
-66,60,"frontalis","Dendrocitta","Collared Treepie",LC,U,-16731116
-67,59,"leucogastra","Dendrocitta","White-bellied Treepie",LC,U,-16731116
-68,58,"formosae","Dendrocitta","Grey Treepie",LC,U,-16731116
-71,70,"temnurus","Temnurus","Ratchet-tailed Treepie",LC,U,-16731116
-72,70,"leucopterus","Platysmurus","Black Magpie",NT,U,-12486656
-74,73,"temia","Crypsirina","Racket-tailed Treepie",LC,U,-16731116
-75,73,"cucullata","Crypsirina","Hooded Treepie",NT,U,-12486656
-77,76,"pyrrhocorax","Pyrrhocorax","Red-billed Chough",LC,U,-16731116
-78,76,"graculus","Pyrrhocorax","Yellow-billed Chough",LC,U,-16731116
-82,81,"anguitimens","Eurocephalus","White-crowned Shrike",LC,U,-16731116
-83,81,"rueppelli","Eurocephalus","White-rumped Shrike",LC,U,-16731116
-84,80,"galericulatus","Platylophus","Crested Jay",NT,U,-12486656
-85,29,"kowaldi","Ifrita","Ifrit",LC,U,-16731116
-87,86,"aeneus","Dicrurus","Bronzed Drongo",LC,U,-16731116
-91,90,"kirhocephalus","Pitohui","Variable Pitohui",LC,U,-16731116
-92,90,"dichrous","Pitohui","Hooded Pitohui",LC,U,-16731116
-94,93,"montium","Paramythia","Crested Berrypecker",LC,U,-16731116
-95,93,"arfaki","Oreocharis","Tit Berrypecker",LC,U,-16731116
-100,99,"aenobarbus","Pteruthius","Chestnut-fronted Shrike-babbler",LC,U,-16731116
-101,99,"melanotis","Pteruthius","Black-eared Shrike-babbler",LC,U,-16731116
-103,102,"flaviscapis","Pteruthius","White-browed Shrike-babbler",LC,U,-16731116
-104,102,"rufiventer","Pteruthius","Black-headed Shrike-babbler",LC,U,-16731116
-105,97,"xanthochlorus","Pteruthius","Green Shrike-babbler",LC,U,-16731116
-108,107,"chrysoptera","Daphoenositta","Varied Sittella",LC,U,-16731116
-109,107,"miranda","Daphoenositta","Black Sittella",LC,U,-16731116
-118,117,"castaneothorax","Cinclosoma","Chestnut-breasted Quail-thrush",LC,U,-16731116
-119,117,"punctatum","Cinclosoma","Spotted Quail-thrush",LC,U,-16731116
-121,120,"cinnamomeum","Cinclosoma","Cinnamon Quail-thrush",LC,U,-16731116
-122,120,"castanotum","Cinclosoma","Chestnut Quail-thrush",LC,U,-16731116
-123,115,"ajax","Cinclosoma","Painted Quail-thrush",LC,U,-16731116
-126,125,"castanonota","Ptilorrhoa","Chestnut-backed Jewel-babbler",LC,U,-16731116
-127,125,"caerulescens","Ptilorrhoa","Blue Jewel-babbler",LC,U,-16731116
-128,124,"leucosticta","Ptilorrhoa","Spotted Jewel-babbler",LC,U,-16731116
-131,130,"ochrocephala","Mohoua","Yellowhead",EN,U,-8572416
-132,130,"albicilla","Mohoua","Whitehead",LC,U,-16731116
-133,129,"novaeseelandiae","Mohoua","Pipipi",LC,U,-16731116
-135,134,"nigropectus","Eulacestoma","Wattled Ploughbill",LC,U,-16731116
-136,134,"viridis","Androphobus","Papuan Whipbird",DD,U,-11513776
-140,139,"occidentalis","Psophodes","Chiming Wedgebill",LC,U,-16731116
-141,139,"nigrogularis","Psophodes","Western Whipbird",NT,U,-12486656
-143,142,"cristatus","Psophodes","Chirruping Wedgebill",LC,U,-16731116
-144,142,"olivaceus","Psophodes","Eastern Whipbird",LC,U,-16731116
-145,137,"frontatus","Falcunculus","Crested Shrike-tit",LC,U,-16731116
-151,150,"longicauda","Melanocharis","Lemon-breasted Berrypecker",LC,U,-16731116
-152,150,"striativentris","Melanocharis","Streaked Berrypecker",LC,U,-16731116
-154,153,"versteri","Melanocharis","Fan-tailed Berrypecker",LC,U,-16731116
-155,153,"nigra","Melanocharis","Black Berrypecker",LC,U,-16731116
-157,156,"crassirostris","Melanocharis","Spotted Berrypecker",LC,U,-16731116
-158,156,"arfakiana","Melanocharis","Obscure Berrypecker",DD,U,-11513776
-162,161,"novaeguineae","Toxorhamphus","Green-crowned Longbill",LC,U,-16731116
-163,161,"poliopterus","Toxorhamphus","Grey-winged Longbill",LC,U,-16731116
-164,160,"iliolophus","Toxorhamphus","Plumed Longbill",LC,U,-16731116
-165,159,"pygmaeum","Oedistoma","Pygmy Longbill",LC,U,-16731116
-169,168,"sericea","Loboparadisea","Yellow-breasted Bird-of-paradise",NT,U,-12486656
-170,168,"loriae","Cnemophilus","Loria's Bird-of-paradise",LC,U,-16731116
-171,167,"macgregorii","Cnemophilus","Crested Bird-of-paradise",LC,U,-16731116
-174,173,"carunculatus","Philesturnus","Saddleback",NT,U,-12486656
-175,173,"cinereus","Callaeas","Kokako",EN,U,-8572416
-176,172,"cincta","Notiomystis","Stitchbird",VU,U,-11184866
+8,7,"melanochlora","Ollotis","",NE,U,-16777216
+9,7,"cristata","Ollotis","",NE,U,-16777216
+11,10,"bocourti","Ollotis","",NE,U,-16777216
+12,10,"porteri","Ollotis","",NE,U,-16777216
+13,5,"campbelli","Ollotis","",NE,U,-16777216
+16,15,"valliceps","Ollotis","",NE,U,-16777216
+17,15,"signifer","Ollotis","",NE,U,-16777216
+18,14,"luetkenii","Ollotis","",NE,U,-16777216
+20,19,"conifera","Ollotis","",NE,U,-16777216
+21,19,"alvaria","Ollotis","",NE,U,-16777216
+25,24,"macrocristata","Ollotis","",NE,U,-16777216
+26,24,"gemmifer","Ollotis","",NE,U,-16777216
+27,23,"mazatlanensis","Ollotis","",NE,U,-16777216
+30,29,"canalifera","Ollotis","",NE,U,-16777216
+31,29,"leucomyos","Ollotis","",NE,U,-16777216
+32,28,"cycladen","Ollotis","",NE,U,-16777216
+33,1,"nebulifer","Ollotis","",NE,U,-16777216
+40,39,"peripatetes","Ollotis","",NE,U,-16777216
+41,39,"coccifer","Ollotis","",NE,U,-16777216
+42,38,"occidentalis","Ollotis","",NE,U,-16777216
+45,44,"tacanensis","Ollotis","",NE,U,-16777216
+46,44,"spiculata","Ollotis","",NE,U,-16777216
+47,43,"pisinna","Ollotis","",NE,U,-16777216
+50,49,"fastidiosa","Ollotis","",NE,U,-16777216
+51,49,"marmorea","Ollotis","",NE,U,-16777216
+52,48,"periglenes","Ollotis","",NE,U,-16777216
+56,55,"tutelaria","Ollotis","",NE,U,-16777216
+57,55,"aucoinae","Ollotis","",NE,U,-16777216
+58,54,"ibarrai","Ollotis","",NE,U,-16777216
+60,59,"holdridgei","Ollotis","",NE,U,-16777216
+61,59,"perplexa","Ollotis","",NE,U,-16777216
+62,34,"cavifrons","Ollotis","",NE,U,-16777216

@@ -1,88 +1,50 @@
 index,parent,name1,name2,common,redlist,popstab,color
-22,21,"erythrogastrus","Phoenicurus","White-winged Redstart",LC,U,-16731116
-23,21,"hodgsoni","Phoenicurus","Hodgson's Redstart",LC,U,-16731116
-25,24,"auroreus","Phoenicurus","Daurian Redstart",LC,U,-16731116
-26,24,"ochruros","Phoenicurus","Black Redstart",LC,U,-16731116
-27,19,"phoenicurus","Phoenicurus","Common Redstart",LC,U,-16731116
-28,18,"moussieri","Phoenicurus","Moussier's Redstart",LC,U,-16731116
-31,30,"fuliginosa","Rhyacornis","Plumbeous Water-redstart",LC,U,-16731116
-32,30,"bicolor","Rhyacornis","Luzon Water-redstart",VU,U,-11184866
-33,29,"leucocephalus","Chaimarrornis","White-capped Water-redstart",LC,U,-16731116
-37,36,"caeruleocephala","Phoenicurus","Blue-capped Redstart",LC,U,-16731116
-38,36,"schisticeps","Phoenicurus","White-throated Redstart",LC,U,-16731116
-40,39,"frontalis","Phoenicurus","Blue-fronted Redstart",LC,U,-16731116
-41,39,"alaschanicus","Phoenicurus","Ala Shan Redstart",NT,U,-12486656
-42,34,"erythronotus","Phoenicurus","Rufous-backed Redstart",LC,U,-16731116
-47,46,"ruficeps","Luscinia","Rufous-headed Robin",VU,U,-11184866
-48,46,"calliope","Luscinia","Siberian Rubythroat",LC,U,-16731116
-49,45,"gularis","Rhinomyias","Eyebrowed Jungle-flycatcher",LC,U,-16731116
-50,44,"pectoralis","Luscinia","White-tailed Rubythroat",LC,U,-16731116
-58,57,"castaneus","Myophonus","Chestnut-winged Whistling-thrush",NT,U,-12486656
-59,57,"caeruleus","Myophonus","Blue Whistling-thrush",LC,U,-16731116
-61,60,"robinsoni","Myophonus","Malaysian Whistling-thrush",LC,U,-16731116
-62,60,"glaucinus","Myophonus","Javan Whistling Thrush",LC,U,-16731116
-66,65,"horsfieldii","Myophonus","Malabar Whistling-thrush",LC,U,-16731116
-67,65,"melanurus","Myophonus","Shiny Whistling-thrush",LC,U,-16731116
-68,64,"blighi","Myophonus","Sri Lanka Whistling-thrush",EN,U,-8572416
-69,63,"borneensis","Myophonus","Bornean Whistling-thrush",LC,U,-16731116
-70,54,"insularis","Myophonus","Taiwan Whistling-thrush",LC,U,-16731116
-71,53,"frontale","Cinclidium","Blue-fronted Robin",LC,U,-16731116
-76,75,"leschenaulti","Enicurus","White-crowned Forktail",LC,U,-16731116
-77,75,"maculatus","Enicurus","Spotted Forktail",LC,U,-16731116
-78,74,"velatus","Enicurus","Sunda Forktail",LC,U,-16731116
-79,73,"ruficapillus","Enicurus","Chestnut-naped Forktail",NT,U,-12486656
-82,81,"immaculatus","Enicurus","Black-backed Forktail",LC,U,-16731116
-83,81,"scouleri","Enicurus","Little Forktail",LC,U,-16731116
-84,80,"schistaceus","Enicurus","Slaty-backed Forktail",LC,U,-16731116
-86,85,"leucurum","Cinclidium","White-tailed Robin",LC,U,-16731116
-87,85,"diana","Cinclidium","Sunda Robin",LC,U,-16731116
-91,90,"megarhynchos","Luscinia","Common Nightingale",LC,U,-16731116
-92,90,"luscinia","Luscinia","Thrush Nightingale",LC,U,-16731116
-94,93,"phaenicuroides","Hodgsonius","White-bellied Redstart",LC,U,-16731116
-95,93,"svecica","Luscinia","Bluethroat",LC,U,-16731116
-97,96,"obscura","Luscinia","Black-throated Blue Robin",VU,U,-11184866
-98,96,"gutturalis","Irania","White-throated Robin",LC,U,-16731116
-105,104,"sibilans","Luscinia","Rufous-tailed Robin",LC,U,-16731116
-106,104,"komadori","Erithacus","Ryukyu Robin",NT,U,-12486656
-107,103,"akahige","Erithacus","Japanese Robin",LC,U,-16731116
-110,109,"brunnea","Luscinia","Indian Blue Robin",LC,U,-16731116
-111,109,"cyane","Luscinia","Siberian Blue Robin",LC,U,-16731116
-112,108,"pectardens","Luscinia","Firethroat",NT,U,-12486656
-115,114,"hyperythra","Brachypteryx","Rusty-bellied Shortwing",NT,U,-12486656
-116,114,"leucophrys","Brachypteryx","Lesser Shortwing",LC,U,-16731116
-118,117,"montana","Brachypteryx","White-browed Shortwing",LC,U,-16731116
-119,117,"stellata","Brachypteryx","Gould's Shortwing",LC,U,-16731116
-122,121,"brunneatus","Rhinomyias","Brown-chested Jungle-flycatcher",VU,U,-11184866
-123,121,"insignis","Rhinomyias","White-browed Jungle-flycatcher",VU,U,-11184866
-125,124,"calligyna","Heinrichia","Great Shortwing",LC,U,-16731116
-126,124,"plumosus","Pinarornis","Boulder Chat",LC,U,-16731116
-127,99,"rubecula","Erithacus","European Robin",LC,U,-16731116
-132,131,"johnstoniae","Tarsiger","Collared Bush-robin",LC,U,-16731116
-133,131,"chrysaeus","Tarsiger","Golden Bush-robin",LC,U,-16731116
-134,130,"indicus","Tarsiger","White-browed Bush-robin",LC,U,-16731116
-136,135,"hyperythrus","Tarsiger","Rufous-breasted Bush-robin",LC,U,-16731116
-137,135,"cyanurus","Tarsiger","Orange-flanked Bush-robin",LC,U,-16731116
-139,138,"solitaris","Ficedula","Rufous-browed Flycatcher",LC,U,-16731116
-140,138,"disposita","Ficedula","Furtive Flycatcher",NT,U,-12486656
-141,6,"hodgsoni","Muscicapella","Pygmy Blue-flycatcher",LC,U,-16731116
-146,145,"cinclus","Cinclus","White-throated Dipper",LC,U,-16731116
-147,145,"pallasii","Cinclus","Brown Dipper",LC,U,-16731116
-148,144,"schulzi","Cinclus","Rufous-throated Dipper",VU,U,-11184866
-149,143,"leucocephalus","Cinclus","White-capped Dipper",LC,U,-16731116
-150,142,"mexicanus","Cinclus","American Dipper",LC,U,-16731116
-156,155,"japonica","Bombycilla","Japanese Waxwing",NT,U,-12486656
-157,155,"garrulus","Bombycilla","Bohemian Waxwing",LC,U,-16731116
-158,154,"cedrorum","Bombycilla","Cedar Waxwing",LC,U,-16731116
-160,159,"bonensis","Hylocitrea","Olive-flanked Whistler",LC,U,-16731116
-161,159,"ampelinus","Hypocolius","Grey Hypocolius",LC,U,-16731116
-165,164,"caudatus","Ptilogonys","Long-tailed Silky-flycatcher",LC,U,-16731116
-166,164,"cinereus","Ptilogonys","Grey Silky-flycatcher",LC,U,-16731116
-167,163,"nitens","Phainopepla","Phainopepla",LC,U,-16731116
-168,162,"melanoxantha","Phainoptila","Black-and-yellow Silky-flycatcher",LC,U,-16731116
-169,151,"dominicus","Dulus","Palmchat",LC,U,-16731116
-174,173,"calendula","Regulus","Ruby-crowned Kinglet",LC,U,-16731116
-175,173,"regulus","Regulus","Goldcrest",LC,U,-16731116
-176,172,"goodfellowi","Regulus","Flamecrest",LC,U,-16731116
-178,177,"madeirensis","Regulus","Madeira Kinglet",LC,U,-16731116
-179,177,"ignicapilla","Regulus","Firecrest",LC,U,-16731116
-180,170,"satrapa","Regulus","Golden-crowned Kinglet",LC,U,-16731116
+10,9,"mixtura","Microhyla","Mixtured Pygmy Frog",LC,S,-16731116
+11,9,"annamensis","Microhyla","",LC,D,-16731116
+13,12,"borneensis","Microhyla","",LC,D,-16731116
+14,12,"petrigena","Microhyla","",NT,D,-12486656
+16,15,"palmipes","Microhyla","Palmated Chorus Frog",LC,D,-16731116
+17,15,"marmorata","Microhyla","",LC,U,-16731116
+20,19,"annectens","Microhyla","Larut Hills Rice Frog",DD,U,-11513776
+21,19,"maculifera","Microhyla","",VU,U,-11184866
+22,18,"berdmorei","Microhyla","Berdmore's Chorus Frog",LC,S,-16731116
+26,25,"superciliaris","Microhyla","",DD,U,-11513776
+27,25,"perparva","Microhyla","",NT,D,-12486656
+28,24,"butleri","Microhyla","Butler's Ricefrog",LC,S,-16731116
+29,23,"sholigari","Microhyla","",EN,D,-8572416
+34,33,"heymonsi","Microhyla","Arcuate-spotted Pygmy Frog",LC,S,-16731116
+35,33,"zeylanica","Microhyla","",EN,D,-8572416
+37,36,"nanapollexa","Microhyla","",DD,U,-11513776
+38,36,"fusca","Microhyla","",DD,U,-11513776
+39,31,"karunaratnei","Microhyla","",CR,D,-3014646
+41,40,"achatina","Microhyla","Javan Chorus Frog",LC,S,-16731116
+42,40,"chakrapanii","Microhyla","",DD,U,-11513776
+48,47,"ornata","Microhyla","Ornamented Pygmy Frog",LC,S,-16731116
+49,47,"picta","Microhyla","",DD,U,-11513776
+50,46,"rubra","Microhyla","",LC,S,-16731116
+51,45,"pulchra","Microhyla","Beautiful Pygmy Frog",LC,S,-16731116
+52,44,"pulverata","Microhyla","",DD,U,-11513776
+53,43,"erythropoda","Microhyla","",DD,U,-11513776
+59,58,"guttulata","Calluella","Burmese Squat Frog",LC,S,-16731116
+60,58,"yunnanensis","Calluella","",LC,S,-16731116
+61,57,"volzi","Calluella","",DD,U,-11513776
+63,62,"brooksii","Calluella","",DD,U,-11513776
+64,62,"minuta","Calluella","",DD,U,-11513776
+66,65,"smithi","Calluella","",DD,U,-11513776
+67,65,"flava","Calluella","",DD,U,-11513776
+68,54,"molossus","Glyphoglossus","",NT,D,-12486656
+69,1,"fusca","Chaperina","",LC,U,-16731116
+75,74,"verrucosa","Kaloula","Verrucous Digging Frog",LC,S,-16731116
+76,74,"taprobanica","Kaloula","Sri Lankan Bullfrog",LC,S,-16731116
+77,73,"borealis","Kaloula","Boreal Digging Frog",LC,S,-16731116
+80,79,"kalingensis","Kaloula","Kalinga Narrowmouth Toad",VU,D,-11184866
+81,79,"mediolineata","Kaloula","",NT,D,-12486656
+82,78,"assamensis","Kaloula","",LC,U,-16731116
+85,84,"conjuncta","Kaloula","Philippine Narrowmouth Toad",LC,S,-16731116
+86,84,"rigida","Kaloula","Luzon Narrow-mouthed Frog",VU,D,-11184866
+87,83,"rugifera","Kaloula","Sichuan Digging Frog",LC,D,-16731116
+91,90,"picta","Kaloula","Painted Narrowmouth Toad",LC,S,-16731116
+92,90,"walteri","Kaloula","",DD,U,-11513776
+93,89,"baleata","Kaloula","Brown Bullfrog",LC,S,-16731116
+95,94,"kokacii","Kaloula","Bicol Narrowmouth Toad",NT,S,-12486656
+96,94,"pulchra","Kaloula","Banded Bullfrog",LC,S,-16731116

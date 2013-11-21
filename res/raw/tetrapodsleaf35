@@ -1,95 +1,50 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"stuhlmanni","Poeoptera","Stuhlmann's Starling",LC,U,-16731116
-14,12,"kenricki","Poeoptera","Kenrick's Starling",LC,U,-16731116
-15,11,"lugubris","Poeoptera","Narrow-tailed Starling",LC,U,-16731116
-16,10,"femoralis","Cinnyricinclus","Abbott's Starling",VU,U,-11184866
-17,9,"sharpii","Cinnyricinclus","Sharpe's Starling",LC,U,-16731116
-18,8,"bicolor","Speculipastor","Magpie Starling",LC,U,-16731116
-19,7,"torquata","Grafisia","White-collared Starling",LC,U,-16731116
-21,20,"spiloptera","Saroglossa","Spot-winged Starling",LC,U,-16731116
-22,20,"gutturalis","Neocichla","Babbling Starling",LC,U,-16731116
-30,29,"frater","Onychognathus","Socotra Starling",LC,U,-16731116
-31,29,"blythii","Onychognathus","Somali Starling",LC,U,-16731116
-32,28,"salvadorii","Onychognathus","Bristle-crowned Starling",LC,U,-16731116
-34,33,"albirostris","Onychognathus","White-billed Starling",LC,U,-16731116
-35,33,"tristramii","Onychognathus","Tristram's Starling",LC,U,-16731116
-37,36,"fulgidus","Onychognathus","Chestnut-winged Starling",LC,U,-16731116
-38,36,"walleri","Onychognathus","Waller's Starling",LC,U,-16731116
-40,39,"morio","Onychognathus","Red-winged Starling",LC,U,-16731116
-41,39,"neumanni","Onychognathus","Neumann's Starling",_U,[,-16777216
-42,24,"nabouroup","Onychognathus","Pale-winged Starling",LC,U,-16731116
-43,23,"tenuirostris","Onychognathus","Slender-billed Starling",LC,U,-16731116
-54,53,"metallica","Aplonis","Metallic Starling",LC,U,-16731116
-55,53,"pelzelni","Aplonis","Pohnpei Starling",CR,U,-3014646
-56,52,"brunneicapillus","Aplonis","White-eyed Starling",EN,U,-8572416
-58,57,"grandis","Aplonis","Brown-winged Starling",LC,U,-16731116
-59,57,"mysolensis","Aplonis","Moluccan Starling",LC,U,-16731116
-62,61,"cinerascens","Aplonis","Rarotonga Starling",VU,U,-11184866
-63,61,"tabuensis","Aplonis","Polynesian Starling",LC,U,-16731116
-64,60,"insularis","Aplonis","Rennell Starling",LC,U,-16731116
-67,66,"mystacea","Aplonis","Yellow-eyed Starling",NT,U,-12486656
-68,66,"crassa","Aplonis","Tanimbar Starling",NT,U,-12486656
-69,65,"opaca","Aplonis","Micronesian Starling",LC,U,-16731116
-75,74,"minor","Aplonis","Short-tailed Starling",LC,U,-16731116
-76,74,"atrifusca","Aplonis","Samoan Starling",LC,U,-16731116
-77,73,"santovestris","Aplonis","Santo Starling",VU,U,-11184866
-78,72,"panayensis","Aplonis","Asian Glossy Starling",LC,U,-16731116
-81,80,"magna","Aplonis","Long-tailed Starling",LC,U,-16731116
-82,80,"striata","Aplonis","Striated Starling",LC,U,-16731116
-83,79,"zelandica","Aplonis","Rusty-winged Starling",NT,U,-12486656
-85,84,"cantoroides","Aplonis","Singing Starling",LC,U,-16731116
-86,84,"feadensis","Aplonis","Atoll Starling",NT,U,-12486656
-87,47,"dichroa","Aplonis","San Cristobal Starling",LC,U,-16731116
-89,88,"dubium","Scissirostrum","Finch-billed Myna",LC,U,-16731116
-90,88,"erythrophris","Enodes","Fiery-browed Myna",LC,U,-16731116
-96,95,"albicollis","Streptocitta","White-necked Myna",LC,U,-16731116
-97,95,"albertinae","Streptocitta","Bare-eyed Myna",NT,U,-12486656
-98,94,"calvus","Sarcops","Coleto",LC,U,-16731116
-101,100,"galeatus","Basilornis","Helmeted Myna",NT,U,-12486656
-102,100,"mirandus","Basilornis","Apo Myna",NT,U,-12486656
-103,99,"corythaix","Basilornis","Long-crested Myna",LC,U,-16731116
-104,92,"celebensis","Basilornis","Sulawesi Myna",LC,U,-16731116
-108,107,"ptilogenys","Gracula","Sri Lanka Myna",NT,U,-12486656
-109,107,"religiosa","Gracula","Hill Myna",LC,U,-16731116
-110,106,"coronatus","Ampeliceps","Golden-crested Myna",LC,U,-16731116
-112,111,"dumontii","Mino","Yellow-faced Myna",LC,U,-16731116
-113,111,"anais","Mino","Golden Myna",LC,U,-16731116
-116,115,"inornatus","Rhabdornis","Stripe-breasted Rhabdornis",LC,U,-16731116
-117,115,"grandis","Rhabdornis","Long-billed Rhabdornis",LC,U,-16731116
-118,114,"mystacalis","Rhabdornis","Stripe-sided Rhabdornis",LC,U,-16731116
-128,127,"polyglottos","Mimus","Northern Mockingbird",LC,U,-16731116
-129,127,"gilvus","Mimus","Tropical Mockingbird",LC,U,-16731116
-130,126,"graysoni","Mimus","Socorro Mockingbird",CR,U,-3014646
-131,125,"longicaudatus","Mimus","Long-tailed Mockingbird",LC,U,-16731116
-132,124,"gundlachii","Mimus","Bahama Mockingbird",LC,U,-16731116
-135,134,"melanotis","Mimus","San Cristobal Mockingbird",EN,U,-8572416
-136,134,"macdonaldi","Mimus","Espanola Mockingbird",VU,U,-11184866
-138,137,"trifasciatus","Mimus","Floreana Mockingbird",CR,U,-3014646
-139,137,"parvulus","Mimus","Galapagos Mockingbird",LC,U,-16731116
-143,142,"dorsalis","Mimus","Brown-backed Mockingbird",LC,U,-16731116
-144,142,"triurus","Mimus","White-banded Mockingbird",LC,U,-16731116
-145,141,"saturninus","Mimus","Chalk-browed Mockingbird",LC,U,-16731116
-147,146,"patagonicus","Mimus","Patagonian Mockingbird",LC,U,-16731116
-148,146,"thenca","Mimus","Chilean Mockingbird",LC,U,-16731116
-149,121,"montanus","Oreoscoptes","Sage Thrasher",LC,U,-16731116
-155,154,"longirostre","Toxostoma","Long-billed Thrasher",LC,U,-16731116
-156,154,"guttatum","Toxostoma","Cozumel Thrasher",CR,U,-3014646
-157,153,"rufum","Toxostoma","Brown Thrasher",LC,U,-16731116
-158,152,"ocellatum","Toxostoma","Ocellated Thrasher",LC,U,-16731116
-159,151,"curvirostre","Toxostoma","Curve-billed Thrasher",LC,U,-16731116
-163,162,"lecontei","Toxostoma","Le Conte's Thrasher",LC,U,-16731116
-164,162,"crissale","Toxostoma","Crissal Thrasher",LC,U,-16731116
-165,161,"redivivum","Toxostoma","California Thrasher",LC,U,-16731116
-167,166,"bendirei","Toxostoma","Bendire's Thrasher",VU,U,-11184866
-168,166,"cinereum","Toxostoma","Grey Thrasher",LC,U,-16731116
-176,175,"gutturalis","Cinclocerthia","Grey Trembler",LC,U,-16731116
-177,175,"ruficauda","Cinclocerthia","Brown Trembler",LC,U,-16731116
-178,174,"fuscatus","Margarops","Pearly-eyed Thrasher",LC,U,-16731116
-179,173,"fuscus","Margarops","Scaly-breasted Thrasher",LC,U,-16731116
-180,172,"brachyurus","Ramphocinclus","White-breasted Thrasher",EN,U,-8572416
-181,171,"glabrirostris","Melanoptila","Black Catbird",NT,U,-12486656
-182,170,"carolinensis","Dumetella","Grey Catbird",LC,U,-16731116
-184,183,"hypoleucus","Melanotis","Blue-and-white Mockingbird",LC,U,-16731116
-185,183,"caerulescens","Melanotis","Blue Mockingbird",LC,U,-16731116
-187,186,"erythrorhynchus","Buphagus","Red-billed Oxpecker",LC,U,-16731116
-188,186,"africanus","Buphagus","Yellow-billed Oxpecker",LC,U,-16731116
+11,10,"centralis","Chiasmocleis","",DD,U,-11513776
+12,10,"hudsoni","Chiasmocleis","",LC,S,-16731116
+13,9,"mehelyi","Chiasmocleis","",DD,U,-11513776
+14,8,"ventrimaculata","Chiasmocleis","",LC,S,-16731116
+17,16,"panamensis","Chiasmocleis","",LC,S,-16731116
+18,16,"bassleri","Chiasmocleis","",LC,S,-16731116
+19,15,"shudikarensis","Chiasmocleis","",LC,S,-16731116
+21,20,"leucosticta","Chiasmocleis","",LC,D,-16731116
+22,20,"gnoma","Chiasmocleis","",DD,U,-11513776
+25,24,"carvalhoi","Chiasmocleis","",EN,D,-8572416
+26,24,"crucis","Chiasmocleis","",DD,U,-11513776
+27,23,"jimi","Chiasmocleis","",DD,U,-11513776
+33,32,"schubarti","Chiasmocleis","",LC,D,-16731116
+34,32,"anatipes","Chiasmocleis","",LC,S,-16731116
+35,31,"atlantica","Chiasmocleis","",LC,D,-16731116
+36,30,"cordeiroi","Chiasmocleis","",DD,U,-11513776
+38,37,"alagoanus","Chiasmocleis","",DD,D,-11513776
+39,37,"capixaba","Chiasmocleis","",LC,D,-16731116
+40,28,"albopunctata","Chiasmocleis","",LC,S,-16731116
+46,45,"tridactyla","Syncope","",LC,S,-16731116
+47,45,"antenori","Syncope","",LC,D,-16731116
+48,44,"carvalhoi","Syncope","",LC,S,-16731116
+49,43,"hylonomos","Adelastes","",DD,U,-11513776
+50,42,"passarellii","Arcovomer","",LC,D,-16731116
+51,41,"boliviana","Hamptophryne","",LC,S,-16731116
+59,58,"elegans","Gastrophryne","",LC,S,-16731116
+60,58,"usta","Gastrophryne","",LC,S,-16731116
+61,57,"olivacea","Gastrophryne","Great Plains Narrowmouth Toad",LC,S,-16731116
+62,56,"carolinensis","Gastrophryne","Eastern Narrowmouth Toad",LC,S,-16731116
+63,55,"pictiventris","Gastrophryne","",LC,D,-16731116
+65,64,"variolosus","Hypopachus","Sheep Frog",LC,S,-16731116
+66,64,"barberi","Hypopachus","",VU,D,-11184866
+67,53,"muelleri","Dermatonotus","",LC,S,-16731116
+74,73,"erythrogaster","Elachistocleis","",NT,D,-12486656
+75,73,"ovalis","Elachistocleis","",LC,S,-16731116
+76,72,"piauiensis","Elachistocleis","",LC,S,-16731116
+78,77,"surinamensis","Elachistocleis","",LC,S,-16731116
+79,77,"bicolor","Elachistocleis","",LC,S,-16731116
+80,70,"skotogaster","Elachistocleis","",DD,U,-11513776
+81,69,"microps","Myersiella","",LC,D,-16731116
+82,68,"pearsei","Relictivomer","",LC,U,-16731116
+83,1,"schirchi","Dasypops","",VU,D,-11184866
+88,87,"incrassatus","Stereocyclops","",LC,D,-16731116
+89,87,"parkeri","Stereocyclops","",LC,D,-16731116
+90,86,"histrio","Hyophryne","",DD,U,-11513776
+92,91,"geayi","Ctenophryne","",LC,S,-16731116
+93,91,"minor","Ctenophryne","",DD,U,-11513776
+95,94,"aequatorialis","Nelsonophryne","",LC,S,-16731116
+96,94,"aterrima","Nelsonophryne","",LC,D,-16731116

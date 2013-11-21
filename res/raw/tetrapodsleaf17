@@ -1,72 +1,22 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"albogularis","Serinus","White-throated Canary",LC,U,-16731116
-10,8,"reichardi","Serinus","Reichard's Seedeater",LC,U,-16731116
-11,7,"syriacus","Serinus","Syrian Serin",VU,U,-11184866
-14,13,"sulphuratus","Serinus","Brimstone Canary",LC,U,-16731116
-15,13,"koliensis","Serinus","Papyrus Canary",LC,U,-16731116
-16,12,"flaviventris","Serinus","Yellow Canary",LC,U,-16731116
-17,5,"gularis","Serinus","Streaky-headed Seedeater",LC,U,-16731116
-18,4,"burtoni","Serinus","Thick-billed Seedeater",LC,U,-16731116
-23,22,"xantholaemus","Serinus","Salvadori's Serin",VU,U,-11184866
-24,22,"striolatus","Serinus","Streaky Seedeater",LC,U,-16731116
-25,21,"nigriceps","Serinus","Ethiopian Siskin",LC,U,-16731116
-26,20,"whytii","Serinus","Yellow-browed Seedeater",LC,U,-16731116
-28,27,"frontalis","Serinus","Yellow-browed Citril",LC,U,-16731116
-29,27,"totta","Serinus","Cape Siskin",LC,U,-16731116
-36,35,"atrogularis","Serinus","Black-throated Seedeater",LC,U,-16731116
-37,35,"leucopygius","Serinus","White-rumped Seedeater",LC,U,-16731116
-38,34,"citrinipectus","Serinus","Lemon-breasted Seedeater",LC,U,-16731116
-39,33,"symonsi","Serinus","Drakensberg Siskin",LC,U,-16731116
-42,41,"dorsostriatus","Serinus","White-bellied Canary",LC,U,-16731116
-43,41,"estherae","Serinus","Mountain Serin",LC,U,-16731116
-44,40,"flavigula","Serinus","Yellow-throated Seedeater",EN,U,-8572416
-45,31,"mozambicus","Serinus","Yellow-fronted Canary",LC,U,-16731116
-49,48,"citrinelloides","Serinus","Abyssinian Citril",LC,U,-16731116
-50,48,"hypostictus","Serinus","Grey-faced Citril",LC,U,-16731116
-51,47,"capistratus","Serinus","Black-faced Canary",LC,U,-16731116
-53,52,"donaldsoni","Serinus","Ethiopian Grosbeak-canary",LC,U,-16731116
-54,52,"scotops","Serinus","Forest Canary",LC,U,-16731116
-64,63,"xanthopygius","Serinus","Yellow-rumped Seedeater",LC,U,-16731116
-65,63,"alario","Serinus","Black-headed Canary",LC,U,-16731116
-66,62,"ankoberensis","Serinus","Ankober Serin",VU,U,-11184866
-69,68,"flavivertex","Serinus","Yellow-crowned Canary",LC,U,-16731116
-70,68,"menachensis","Serinus","Yemen Serin",LC,U,-16731116
-71,67,"canicollis","Serinus","Cape Canary",LC,U,-16731116
-72,60,"pusillus","Serinus","Fire-fronted Serin",LC,U,-16731116
-74,73,"tristriatus","Serinus","Brown-rumped Seedeater",LC,U,-16731116
-75,73,"melanochrous","Serinus","Kipengere Seedeater",NT,U,-12486656
-76,58,"rothschildi","Serinus","Olive-rumped Serin",LC,U,-16731116
-79,78,"buchanani","Serinus","Kenya Grosbeak-canary",LC,U,-16731116
-80,78,"mennelli","Serinus","Black-eared Seedeater",LC,U,-16731116
-82,81,"leucopterus","Serinus","Protea Canary",LC,U,-16731116
-83,81,"canaria","Serinus","Island Canary",LC,U,-16731116
-85,84,"rufobrunneus","Serinus","Principe Seedeater",LC,U,-16731116
-86,84,"serinus","Serinus","European Serin",LC,U,-16731116
-87,55,"thibetanus","Serinus","Tibetan Serin",LC,U,-16731116
-103,102,"crassirostris","Carduelis","Thick-billed Siskin",LC,U,-16731116
-104,102,"uropygialis","Carduelis","Yellow-rumped Siskin",LC,U,-16731116
-106,105,"siemiradzkii","Carduelis","Saffron Siskin",VU,U,-11184866
-107,105,"spinescens","Carduelis","Andean Siskin",LC,U,-16731116
-108,100,"cucullata","Carduelis","Red Siskin",EN,U,-8572416
-109,99,"atrata","Carduelis","Black Siskin",LC,U,-16731116
-111,110,"yarrellii","Carduelis","Yellow-faced Siskin",VU,U,-11184866
-112,110,"magellanica","Carduelis","Hooded Siskin",LC,U,-16731116
-113,97,"barbata","Carduelis","Black-chinned Siskin",LC,U,-16731116
-114,96,"olivacea","Carduelis","Olivaceous Siskin",LC,U,-16731116
-115,95,"xanthogastra","Carduelis","Yellow-bellied Siskin",LC,U,-16731116
-116,94,"notata","Carduelis","Black-headed Siskin",LC,U,-16731116
-117,93,"corsicana","Carduelis","Mediterranean Citril Finch",LC,U,-16731116
-118,92,"atriceps","Carduelis","Black-capped Siskin",LC,U,-16731116
-121,120,"lawrencei","Carduelis","Lawrence's Goldfinch",LC,U,-16731116
-122,120,"psaltria","Carduelis","Lesser Goldfinch",LC,U,-16731116
-123,119,"tristis","Carduelis","American Goldfinch",LC,U,-16731116
-126,125,"spinus","Carduelis","Eurasian Siskin",LC,U,-16731116
-127,125,"pinus","Carduelis","Pine Siskin",LC,U,-16731116
-128,124,"yemenensis","Carduelis","Yemen Linnet",LC,U,-16731116
-131,130,"percivali","Rhynchostruthus","Arabian Grosbeak",NT,U,-12486656
-132,130,"louisae","Rhynchostruthus","Somali Grosbeak",NT,U,-12486656
-133,129,"socotranus","Rhynchostruthus","Socotra Grosbeak",LC,U,-16731116
-136,135,"dominicensis","Carduelis","Antillean Siskin",LC,U,-16731116
-137,135,"phaeosoma","Melamprosops","Poo-uli",CR,U,-3014646
-139,138,"cannabina","Carduelis","Eurasian Linnet",LC,U,-16731116
-140,138,"flavirostris","Carduelis","Twite",LC,U,-16731116
+7,6,"albotuberculata","Hydrophylax","",NE,U,-16777216
+8,6,"fonensis","Hydrophylax","",NE,U,-16777216
+9,5,"lepus","Hydrophylax","",NE,U,-16777216
+10,4,"kampeni","Hydrophylax","",NE,U,-16777216
+13,12,"parkerianus","Hydrophylax","",NE,U,-16777216
+14,12,"macrops","Hydrophylax","",NE,U,-16777216
+15,11,"chalconotus","Hydrophylax","",NE,U,-16777216
+19,18,"luzonensis","Hydrophylax","",NE,U,-16777216
+20,18,"tipanan","Hydrophylax","",NE,U,-16777216
+21,17,"raniceps","Hydrophylax","",NE,U,-16777216
+23,22,"malabaricus","Hydrophylax","",NE,U,-16777216
+24,22,"lemairei","Hydrophylax","",NE,U,-16777216
+29,28,"galamensis","Hydrophylax","",NE,U,-16777216
+30,28,"darlingi","Hydrophylax","",NE,U,-16777216
+32,31,"albolabris","Hydrophylax","",NE,U,-16777216
+33,31,"amnicola","Hydrophylax","",NE,U,-16777216
+34,26,"longipes","Hydrophylax","",NE,U,-16777216
+35,25,"occidentalis","Hydrophylax","",NE,U,-16777216
+38,37,"asperrima","Hydrophylax","",NE,U,-16777216
+39,37,"igorota","Hydrophylax","",NE,U,-16777216
+40,36,"everetti","Hydrophylax","",NE,U,-16777216

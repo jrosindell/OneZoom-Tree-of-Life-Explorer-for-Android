@@ -1,27 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"albicapillus","Spreo","White-crowned Starling",LC,U,-16731116
-9,7,"fischeri","Spreo","Fischer's Starling",LC,U,-16731116
-10,6,"bicolor","Spreo","African Pied Starling",LC,U,-16731116
-12,11,"pulcher","Lamprotornis","Chestnut-bellied Starling",LC,U,-16731116
-13,11,"superbus","Lamprotornis","Superb Starling",LC,U,-16731116
-16,15,"splendidus","Lamprotornis","Splendid Glossy-starling",LC,U,-16731116
-17,15,"ornatus","Lamprotornis","Principe Glossy-starling",LC,U,-16731116
-18,14,"regius","Cosmopsarus","Golden-breasted Starling",LC,U,-16731116
-23,22,"chalcurus","Lamprotornis","Bronze-tailed Glossy-starling",LC,U,-16731116
-24,22,"nitens","Lamprotornis","Red-shouldered Glossy-starling",LC,U,-16731116
-25,21,"chalybaeus","Lamprotornis","Greater Blue-eared Glossy-starling",LC,U,-16731116
-26,20,"purpureus","Lamprotornis","Purple Glossy-starling",LC,U,-16731116
-29,28,"chloropterus","Lamprotornis","Lesser Blue-eared Glossy-starling",LC,U,-16731116
-30,28,"acuticaudus","Lamprotornis","Sharp-tailed Glossy-starling",LC,U,-16731116
-31,27,"iris","Coccycolius","Emerald Starling",DD,U,-11513776
-35,34,"purpuroptera","Lamprotornis","Rueppell's Glossy-starling",LC,U,-16731116
-36,34,"caudatus","Lamprotornis","Long-tailed Glossy-starling",LC,U,-16731116
-38,37,"mevesii","Lamprotornis","Meves's Glossy-starling",LC,U,-16731116
-39,37,"unicolor","Cosmopsarus","Ashy Starling",LC,U,-16731116
-40,32,"australis","Lamprotornis","Burchell's Glossy-starling",LC,U,-16731116
-42,41,"hildebrandti","Lamprotornis","Hildebrandt's Starling",LC,U,-16731116
-43,41,"shelleyi","Lamprotornis","Shelley's Starling",LC,U,-16731116
-47,46,"purpureiceps","Lamprotornis","Purple-headed Glossy-starling",LC,U,-16731116
-48,46,"cupreocauda","Lamprotornis","Copper-tailed Glossy-starling",NT,U,-12486656
-49,45,"elisabeth","Lamprotornis","Southern Blue-eared Glossy-starling",LC,U,-16731116
-50,44,"corruscus","Lamprotornis","Black-bellied Glossy-starling",LC,U,-16731116
+8,7,"nahangensis","Leptolalax","",DD,U,-11513776
+9,7,"pluvialis","Leptolalax","",DD,U,-11513776
+10,6,"pictus","Leptolalax","",VU,D,-11184866
+12,11,"pelodytoides","Leptolalax","",LC,S,-16731116
+13,11,"alpinus","Leptolalax","",EN,D,-8572416
+16,15,"sungi","Leptolalax","",DD,U,-11513776
+17,15,"liui","Leptolalax","",LC,D,-16731116
+18,14,"ventripunctatus","Leptolalax","",DD,U,-11513776
+23,22,"oshanensis","Leptolalax","Oshan Metacarpal-tubercled Toad",LC,S,-16731116
+24,22,"tuberosus","Leptolalax","",VU,D,-11184866
+25,21,"dringi","Leptolalax","",NT,D,-12486656
+26,20,"gracilis","Leptolalax","",NT,D,-12486656
+28,27,"maurus","Leptolalax","",NT,S,-12486656
+29,27,"hamidi","Leptolalax","",VU,D,-11184866
+32,31,"kajangensis","Leptolalax","",VU,U,-11184866
+33,31,"heteropus","Leptolalax","",LC,D,-16731116
+35,34,"bourreti","Leptolalax","",DD,U,-11513776
+36,34,"arayai","Leptolalax","",VU,D,-11184866
+42,41,"serasanae","Leptobrachella","",VU,D,-11184866
+43,41,"natunae","Leptobrachella","",DD,U,-11513776
+44,40,"baluensis","Leptobrachella","",VU,D,-11184866
+45,39,"brevicrus","Leptobrachella","",VU,S,-11184866
+47,46,"mjobergi","Leptobrachella","Mount Gadin Borneo Frog",LC,S,-16731116
+48,46,"palmata","Leptobrachella","",CR,D,-3014646
+49,37,"parva","Leptobrachella","",VU,D,-11184866
+58,57,"smithi","Leptobrachium","Smith's Litter Frog",LC,S,-16731116
+59,57,"hendricksoni","Leptobrachium","",LC,D,-16731116
+60,56,"buchardi","Leptobrachium","",DD,U,-11513776
+62,61,"xanthospilum","Leptobrachium","",DD,U,-11513776
+63,61,"nigrops","Leptobrachium","",LC,D,-16731116
+64,54,"huashen","Leptobrachium","",LC,U,-16731116
+65,53,"gunungense","Leptobrachium","",VU,S,-11184866
+66,52,"abbotti","Leptobrachium","",LC,D,-16731116
+72,71,"hasseltii","Leptobrachium","Java Spadefoot Toad",LC,U,-16731116
+73,71,"pullum","Leptobrachium","",DD,U,-11513776
+74,70,"banae","Leptobrachium","",VU,D,-11184866
+75,69,"chapaense","Leptobrachium","Chapa Spadefoot Toad",LC,U,-16731116
+76,68,"montanum","Leptobrachium","",LC,D,-16731116
+77,67,"hainanense","Leptobrachium","",VU,D,-11184866
+81,80,"ailaonica","Vibrissaphora","",NE,U,-16777216
+82,80,"echinata","Vibrissaphora","",NE,U,-16777216
+83,79,"boringiae","Vibrissaphora","",NE,U,-16777216
+85,84,"leishanensis","Vibrissaphora","",NE,U,-16777216
+86,84,"liui","Vibrissaphora","",NE,U,-16777216

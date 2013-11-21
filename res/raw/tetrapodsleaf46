@@ -1,74 +1,93 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"davidianus","Paradoxornis","Short-tailed Parrotbill",LC,U,-16731116
-11,9,"zappeyi","Paradoxornis","Grey-hooded Parrotbill",VU,U,-11184866
-12,8,"flavirostris","Paradoxornis","Black-breasted Parrotbill",VU,U,-11184866
-13,7,"atrosuperciliaris","Paradoxornis","Pale-billed Parrotbill",LC,U,-16731116
-14,6,"margaritae","Paradoxornis","Black-headed Parrotbill",NT,U,-12486656
-16,15,"przewalskii","Paradoxornis","Rusty-throated Parrotbill",VU,U,-11184866
-17,15,"nipalensis","Paradoxornis","Black-throated Parrotbill",LC,U,-16731116
-20,19,"guttaticollis","Paradoxornis","Spot-breasted Parrotbill",LC,U,-16731116
-21,19,"heudei","Paradoxornis","Reed Parrotbill",NT,U,-12486656
-23,22,"gularis","Paradoxornis","Grey-headed Parrotbill",LC,U,-16731116
-24,22,"verreauxi","Paradoxornis","Golden Parrotbill",LC,U,-16731116
-30,29,"webbianus","Paradoxornis","Vinous-throated Parrotbill",LC,U,-16731116
-31,29,"brunneus","Paradoxornis","Brown-winged Parrotbill",LC,U,-16731116
-32,28,"alphonsianus","Paradoxornis","Ashy-throated Parrotbill",LC,U,-16731116
-33,27,"paradoxus","Paradoxornis","Three-toed Parrotbill",LC,U,-16731116
-34,26,"ruficeps","Paradoxornis","Rufous-headed Parrotbill",LC,U,-16731116
-37,36,"conspicillatus","Paradoxornis","Spectacled Parrotbill",LC,U,-16731116
-38,36,"fulvifrons","Paradoxornis","Fulvous Parrotbill",LC,U,-16731116
-40,39,"unicolor","Paradoxornis","Brown Parrotbill",LC,U,-16731116
-41,39,"fasciata","Chamaea","Wrentit",LC,U,-16731116
-50,49,"manipurensis","Alcippe","Streak-throated Fulvetta",LC,U,-16731116
-51,49,"cinereiceps","Alcippe","Grey-hooded Fulvetta",LC,U,-16731116
-52,48,"formosana","Alcippe","Taiwan Fulvetta",LC,U,-16731116
-53,47,"vinipectus","Alcippe","White-browed Fulvetta",LC,U,-16731116
-55,54,"striaticollis","Alcippe","Chinese Fulvetta",LC,U,-16731116
-56,54,"klossi","Alcippe","Black-crowned Fulvetta",LC,U,-16731116
-57,45,"ruficapilla","Alcippe","Spectacled Fulvetta",LC,U,-16731116
-58,44,"pekinensis","Rhopophilus","White-browed Chinese Warbler",LC,U,-16731116
-61,60,"sinense","Chrysomma","Yellow-eyed Babbler",LC,U,-16731116
-62,60,"altirostre","Chrysomma","Jerdon's Babbler",VU,U,-11184866
-63,59,"poecilotis","Chrysomma","Rufous-tailed Babbler",LC,U,-16731116
-64,42,"chrysotis","Alcippe","Golden-breasted Fulvetta",LC,U,-16731116
-74,73,"leucomelaena","Sylvia","Arabian Warbler",LC,U,-16731116
-75,73,"hortensis","Sylvia","Orphean Warbler",LC,U,-16731116
-77,76,"lugens","Sylvia","Brown Warbler",LC,U,-16731116
-78,76,"buryi","Sylvia","Yemen Warbler",VU,U,-11184866
-79,71,"curruca","Sylvia","Lesser Whitethroat",LC,U,-16731116
-82,81,"subcaerulea","Sylvia","Rufous-vented Warbler",LC,U,-16731116
-83,81,"boehmi","Sylvia","Banded Warbler",LC,U,-16731116
-85,84,"layardi","Sylvia","Layard's Warbler",LC,U,-16731116
-86,84,"minula","Sylvia","Small Whitethroat",LC,U,-16731116
-88,87,"althaea","Sylvia","Hume's Whitethroat",LC,U,-16731116
-89,87,"nisoria","Sylvia","Barred Warbler",LC,U,-16731116
-94,93,"melanocephala","Sylvia","Sardinian Warbler",LC,U,-16731116
-95,93,"mystacea","Sylvia","Menetries's Warbler",LC,U,-16731116
-96,92,"cantillans","Sylvia","Subalpine Warbler",LC,U,-16731116
-98,97,"rueppelli","Sylvia","Rueppell's Warbler",LC,U,-16731116
-99,97,"melanothorax","Sylvia","Cyprus Warbler",LC,U,-16731116
-103,102,"deserticola","Sylvia","Tristram's Warbler",LC,U,-16731116
-104,102,"undata","Sylvia","Dartford Warbler",NT,U,-12486656
-105,101,"sarda","Sylvia","Marmora's Warbler",LC,U,-16731116
-107,106,"conspicillata","Sylvia","Spectacled Warbler",LC,U,-16731116
-108,106,"communis","Sylvia","Common Whitethroat",LC,U,-16731116
-109,67,"nana","Sylvia","Desert Warbler",LC,U,-16731116
-113,112,"abyssinica","Pseudoalcippe","African Hill Babbler",LC,U,-16731116
-114,112,"dohrni","Horizorhinus","Principe Thrush-babbler",LC,U,-16731116
-115,111,"borin","Sylvia","Garden Warbler",LC,U,-16731116
-116,110,"atricapilla","Sylvia","Blackcap",LC,U,-16731116
-117,65,"oemodium","Conostoma","Great Parrotbill",LC,U,-16731116
-123,122,"variegaticeps","Alcippe","Gold-fronted Fulvetta",VU,U,-11184866
-124,122,"cinerea","Alcippe","Yellow-throated Fulvetta",LC,U,-16731116
-126,125,"castaneceps","Alcippe","Rufous-winged Fulvetta",LC,U,-16731116
-127,125,"danisi","Alcippe","Indochinese Fulvetta",LC,U,-16731116
-129,128,"dubia","Alcippe","Rusty-capped Fulvetta",LC,U,-16731116
-130,128,"brunnea","Alcippe","Dusky Fulvetta",LC,U,-16731116
-133,132,"pyrrhoptera","Alcippe","Javan Fulvetta",LC,U,-16731116
-134,132,"ludlowi","Alcippe","Ludlow's Fulvetta",LC,U,-16731116
-135,131,"rufogularis","Alcippe","Rufous-throated Fulvetta",LC,U,-16731116
-139,138,"grotei","Alcippe","Black-browed Fulvetta",LC,U,-16731116
-140,138,"brunneicauda","Alcippe","Brown Fulvetta",NT,U,-12486656
-141,137,"nipalensis","Alcippe","Nepal Fulvetta",LC,U,-16731116
-143,142,"morrisonia","Alcippe","Grey-cheeked Fulvetta",LC,U,-16731116
-144,142,"peracensis","Alcippe","Mountain Fulvetta",LC,U,-16731116
+10,9,"geographicus","Hypsiboas","",LC,S,-16731116
+11,9,"wavrini","Hypsiboas","",LC,S,-16731116
+12,8,"semilineatus","Hypsiboas","",LC,S,-16731116
+14,13,"pombali","Hypsiboas","",LC,U,-16731116
+15,13,"boans","Hypsiboas","",LC,S,-16731116
+22,21,"sibleszi","Hypsiboas","",LC,D,-16731116
+23,21,"alemani","Hypsiboas","",DD,U,-11513776
+24,20,"picturatus","Hypsiboas","",LC,D,-16731116
+25,19,"atlanticus","Hypsiboas","",LC,S,-16731116
+26,18,"ornatissimus","Hypsiboas","",LC,S,-16731116
+27,17,"punctatus","Hypsiboas","",LC,S,-16731116
+29,28,"cinerascens","Hypsiboas","",LC,S,-16731116
+30,28,"hobbsi","Hypsiboas","",LC,S,-16731116
+36,35,"benitezi","Hypsiboas","",LC,S,-16731116
+37,35,"fuentei","Hypsiboas","",DD,U,-11513776
+38,34,"pulidoi","Hypsiboas","",DD,U,-11513776
+39,33,"rhythmicus","Hypsiboas","",DD,U,-11513776
+42,41,"hutchinsi","Hypsiboas","",LC,S,-16731116
+43,41,"roraima","Hypsiboas","",DD,U,-11513776
+44,40,"lemai","Hypsiboas","",LC,S,-16731116
+45,31,"microderma","Hypsiboas","",LC,S,-16731116
+53,52,"weygoldti","Aplastodiscus","",NT,D,-12486656
+54,52,"flumineus","Aplastodiscus","",DD,D,-11513776
+56,55,"ehrhardti","Aplastodiscus","",LC,D,-16731116
+57,55,"arildae","Aplastodiscus","",LC,D,-16731116
+58,50,"albofrenatus","Aplastodiscus","",LC,S,-16731116
+59,49,"eugenioi","Aplastodiscus","",NT,U,-12486656
+60,48,"musicus","Aplastodiscus","",DD,D,-11513776
+65,64,"callipygius","Aplastodiscus","",LC,D,-16731116
+66,64,"sibilatus","Aplastodiscus","",DD,U,-11513776
+67,63,"leucopygius","Aplastodiscus","",LC,S,-16731116
+68,62,"ibirapitanga","Aplastodiscus","",LC,U,-16731116
+70,69,"albosignatus","Aplastodiscus","",LC,D,-16731116
+71,69,"cavicola","Aplastodiscus","",NT,D,-12486656
+73,72,"perviridis","Aplastodiscus","",LC,S,-16731116
+74,72,"cochranae","Aplastodiscus","",LC,S,-16731116
+83,82,"lucianae","Bokermannohyla","",DD,U,-11513776
+84,82,"gouveai","Bokermannohyla","",DD,U,-11513776
+85,81,"circumdata","Bokermannohyla","",LC,D,-16731116
+87,86,"ibitipoca","Bokermannohyla","",DD,U,-11513776
+88,86,"luctuosa","Bokermannohyla","",LC,D,-16731116
+92,91,"astartea","Bokermannohyla","",LC,D,-16731116
+93,91,"sazimai","Bokermannohyla","",DD,U,-11513776
+94,90,"caramaschii","Bokermannohyla","",LC,U,-16731116
+95,89,"feioi","Bokermannohyla","",DD,U,-11513776
+96,78,"ahenea","Bokermannohyla","",DD,U,-11513776
+101,100,"izecksohni","Bokermannohyla","",CR,D,-3014646
+102,100,"ravida","Bokermannohyla","",DD,U,-11513776
+103,99,"hylax","Bokermannohyla","",LC,D,-16731116
+104,98,"carvalhoi","Bokermannohyla","",LC,D,-16731116
+105,97,"nanuzae","Bokermannohyla","",LC,D,-16731116
+108,107,"pseudopseudis","Bokermannohyla","",LC,D,-16731116
+109,107,"alvarengai","Bokermannohyla","",LC,S,-16731116
+111,110,"ibitiguara","Bokermannohyla","",DD,U,-11513776
+112,110,"saxicola","Bokermannohyla","",LC,D,-16731116
+115,114,"claresignata","Bokermannohyla","",DD,D,-11513776
+116,114,"clepsydra","Bokermannohyla","",DD,D,-11513776
+118,117,"martinsi","Bokermannohyla","",LC,D,-16731116
+119,117,"langei","Bokermannohyla","",DD,U,-11513776
+129,128,"bogotensis","Hyloscirtus","",NT,U,-12486656
+130,128,"lascinius","Hyloscirtus","",LC,S,-16731116
+131,127,"alytolylax","Hyloscirtus","",NT,D,-12486656
+132,126,"callipeza","Hyloscirtus","",NT,S,-12486656
+133,125,"jahni","Hyloscirtus","",NT,U,-12486656
+136,135,"denticulentus","Hyloscirtus","",EN,D,-8572416
+137,135,"platydactylus","Hyloscirtus","",VU,D,-11184866
+139,138,"albopunctulatus","Hyloscirtus","",LC,S,-16731116
+140,138,"simmonsi","Hyloscirtus","",EN,D,-8572416
+145,144,"torrenticola","Hyloscirtus","",VU,D,-11184866
+146,144,"palmeri","Hyloscirtus","",LC,U,-16731116
+147,143,"lynchi","Hyloscirtus","",EN,D,-8572416
+149,148,"phyllognathus","Hyloscirtus","",LC,D,-16731116
+150,148,"estevesi","Hyloscirtus","",DD,U,-11513776
+152,151,"piceigularis","Hyloscirtus","",EN,D,-8572416
+153,151,"colymba","Hyloscirtus","",CR,D,-3014646
+155,154,"charazani","Hyloscirtus","",EN,D,-8572416
+156,154,"armatus","Hyloscirtus","",LC,D,-16731116
+157,121,"chlorosteus","Hyloscirtus","",CR,D,-3014646
+162,161,"pantostictus","Hyloscirtus","",EN,D,-8572416
+163,161,"larinopygion","Hyloscirtus","",NT,D,-12486656
+165,164,"staufferorum","Hyloscirtus","",EN,D,-8572416
+166,164,"lindae","Hyloscirtus","",VU,D,-11184866
+168,167,"ptychodactylus","Hyloscirtus","",CR,D,-3014646
+169,167,"caucanus","Hyloscirtus","",DD,U,-11513776
+172,171,"tapichalaca","Hyloscirtus","",DD,U,-11513776
+173,171,"sarampiona","Hyloscirtus","",DD,U,-11513776
+175,174,"psarolaimus","Hyloscirtus","",EN,D,-8572416
+176,174,"pacha","Hyloscirtus","",DD,U,-11513776
+180,179,"inparquesi","Myersiohyla","",DD,U,-11513776
+181,179,"aromatica","Myersiohyla","",DD,U,-11513776
+182,178,"kanaima","Myersiohyla","",LC,S,-16731116
+183,177,"loveridgei","Myersiohyla","",DD,U,-11513776

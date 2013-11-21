@@ -1,26 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"magnirostra","Sericornis","Large-billed Scrubwren",LC,U,-16731116
-10,8,"nouhuysi","Sericornis","Large Scrubwren",LC,U,-16731116
-11,7,"virgatus","Sericornis","Perplexing Scrubwren",LC,U,-16731116
-13,12,"frontalis","Sericornis","White-browed Scrubwren",LC,U,-16731116
-14,12,"keri","Sericornis","Atherton Scrubwren",LC,U,-16731116
-15,5,"spilodera","Sericornis","Pale-billed Scrubwren",LC,U,-16731116
-19,18,"perspicillatus","Sericornis","Buff-faced Scrubwren",LC,U,-16731116
-20,18,"papuensis","Sericornis","Papuan Scrubwren",LC,U,-16731116
-22,21,"beccarii","Sericornis","Beccari's Scrubwren",LC,U,-16731116
-23,21,"rufescens","Sericornis","Vogelkop Scrubwren",LC,U,-16731116
-24,16,"arfakianus","Sericornis","Grey-green Scrubwren",LC,U,-16731116
-26,25,"citreogularis","Sericornis","Yellow-throated Scrubwren",LC,U,-16731116
-27,25,"humilis","Sericornis","Tasmanian Scrubwren",LC,U,-16731116
-31,30,"nigrorufa","Crateroscelis","Bicoloured Mouse-warbler",LC,U,-16731116
-32,30,"murina","Crateroscelis","Rusty Mouse-warbler",LC,U,-16731116
-33,29,"robusta","Crateroscelis","Mountain Mouse-warbler",LC,U,-16731116
-34,28,"solitaria","Origma","Rockwarbler",LC,U,-16731116
-38,37,"fuliginosus","Calamanthus","Striated Fieldwren",LC,U,-16731116
-39,37,"campestris","Calamanthus","Rufous Fieldwren",LC,U,-16731116
-41,40,"pyrrhopygia","Hylacola","Chestnut-rumped Heathwren",LC,U,-16731116
-42,40,"cauta","Hylacola","Shy Heathwren",LC,U,-16731116
-45,44,"sagittatus","Chthonicola","Speckled Warbler",LC,U,-16731116
-46,44,"brunneus","Pyrrholaemus","Redthroat",LC,U,-16731116
-47,43,"floccosus","Pycnoptilus","Pilotbird",LC,U,-16731116
-48,0,"brevirostris","Smicrornis","Weebill",LC,U,-16731116
+6,5,"cheiroplethus","Craugastor","",NE,U,-16777216
+7,5,"chrysozetetes","Craugastor","",EX,U,-16777036
+8,4,"bransfordii","Craugastor","",LC,D,-16731116
+10,9,"vulcani","Craugastor","",EN,D,-8572416
+11,9,"brocchi","Craugastor","",VU,D,-11184866
+15,14,"zygodactylus","Craugastor","",NE,U,-16777216
+16,14,"campbelli","Craugastor","",DD,U,-11513776
+18,17,"rugulosus","Craugastor","",LC,S,-16731116
+19,17,"uno","Craugastor","",EN,D,-8572416
+20,12,"mexicanus","Craugastor","",LC,D,-16731116
+27,26,"omiltemanus","Craugastor","",EN,D,-8572416
+28,26,"omoaensis","Craugastor","",CR,D,-3014646
+29,25,"hobartsmithi","Craugastor","",EN,D,-8572416
+30,24,"rugosus","Craugastor","",LC,U,-16731116
+33,32,"azueroensis","Craugastor","",EN,D,-8572416
+34,32,"pozo","Craugastor","",CR,D,-3014646
+35,31,"fecundus","Craugastor","",CR,D,-3014646
+37,36,"trachydermus","Craugastor","",CR,D,-3014646
+38,36,"fitzingeri","Craugastor","",LC,S,-16731116
+39,21,"palenque","Craugastor","",DD,U,-11513776
+46,45,"adamastus","Craugastor","",DD,U,-11513776
+47,45,"gollmeri","Craugastor","",LC,S,-16731116
+48,44,"cruzi","Craugastor","",CR,D,-3014646
+49,43,"rhyacobatrachus","Craugastor","",EN,D,-8572416
+50,42,"persimilis","Craugastor","",VU,D,-11184866
+51,41,"phasma","Craugastor","",DD,U,-11513776
+52,40,"rayo","Craugastor","",DD,D,-11513776

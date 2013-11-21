@@ -1,83 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"armatus","Vanellus","Blacksmith Lapwing",LC,U,-16731116
-12,10,"vanellus","Vanellus","Northern Lapwing",LC,U,-16731116
-13,9,"cinereus","Vanellus","Grey-headed Lapwing",LC,U,-16731116
-15,14,"melanocephalus","Vanellus","Spot-breasted Lapwing",LC,U,-16731116
-16,14,"spinosus","Vanellus","Spur-winged Lapwing",LC,U,-16731116
-19,18,"chilensis","Vanellus","Southern Lapwing",LC,U,-16731116
-20,18,"resplendens","Vanellus","Andean Lapwing",LC,U,-16731116
-22,21,"coronatus","Vanellus","Crowned Lapwing",LC,U,-16731116
-23,21,"tricolor","Vanellus","Banded Lapwing",LC,U,-16731116
-27,26,"malarbaricus","Vanellus","Yellow-wattled Lapwing",LC,U,-16731116
-28,26,"miles","Vanellus","Masked Lapwing",LC,U,-16731116
-29,25,"duvaucelii","Vanellus","River Lapwing",LC,U,-16731116
-30,24,"lugubris","Vanellus","Senegal Lapwing",LC,U,-16731116
-35,34,"superciliosus","Vanellus","Brown-chested Lapwing",LC,U,-16731116
-36,34,"tectus","Vanellus","Black-headed Lapwing",LC,U,-16731116
-37,33,"gregarius","Vanellus","Sociable Lapwing",CR,U,-3014646
-39,38,"leucurus","Vanellus","White-tailed Lapwing",LC,U,-16731116
-40,38,"albiceps","Vanellus","White-headed Lapwing",LC,U,-16731116
-41,31,"melanopterus","Vanellus","Black-winged Lapwing",LC,U,-16731116
-45,44,"crassirostris","Vanellus","Long-toed Lapwing",LC,U,-16731116
-46,44,"indicus","Vanellus","Red-wattled Lapwing",LC,U,-16731116
-47,43,"cayanus","Vanellus","Pied Lapwing",LC,U,-16731116
-48,42,"senegallus","Vanellus","Wattled Lapwing",LC,U,-16731116
-57,56,"montanus","Charadrius","Mountain Plover",NT,U,-12486656
-58,56,"peronii","Charadrius","Malaysian Plover",NT,U,-12486656
-59,55,"obscurus","Charadrius","New Zealand Dotterel",EN,U,-8572416
-61,60,"sanctaehelenae","Charadrius","St Helena Plover",CR,U,-3014646
-62,60,"javanicus","Charadrius","Javan Plover",NT,U,-12486656
-64,63,"marginatus","Charadrius","White-fronted Plover",LC,U,-16731116
-65,63,"alexandrinus","Charadrius","Kentish Plover",LC,U,-16731116
-71,70,"ruficapillus","Charadrius","Red-capped Plover",LC,U,-16731116
-72,70,"wilsonia","Charadrius","Wilson's Plover",LC,U,-16731116
-73,69,"bicinctus","Charadrius","Double-banded Plover",LC,U,-16731116
-75,74,"falklandicus","Charadrius","Two-banded Plover",LC,U,-16731116
-76,74,"alticola","Charadrius","Puna Plover",LC,U,-16731116
-77,67,"collaris","Charadrius","Collared Plover",LC,U,-16731116
-78,66,"australis","Charadrius","Inland Dotterel",LC,U,-16731116
-82,81,"leschenaultii","Charadrius","Greater Sand Plover",LC,U,-16731116
-83,81,"mongolus","Charadrius","Lesser Sand Plover",LC,U,-16731116
-84,80,"veredus","Charadrius","Oriental Plover",LC,U,-16731116
-85,79,"tricollaris","Charadrius","Three-banded Plover",LC,U,-16731116
-86,50,"frontalis","Anarhynchus","Wrybill",VU,U,-11184866
-88,87,"cinctus","Erythrogonys","Red-kneed Dotterel",LC,U,-16731116
-89,87,"thoracicus","Charadrius","Madagascar Plover",VU,U,-11184866
-96,95,"novaeseelandiae","Thinornis","Shore Plover",EN,U,-8572416
-97,95,"rubricollis","Thinornis","Hooded Plover",NT,U,-12486656
-98,94,"melanops","Elseyornis","Black-fronted Dotterel",LC,U,-16731116
-101,100,"dubius","Charadrius","Little Ringed Plover",LC,U,-16731116
-102,100,"pecuarius","Charadrius","Kittlitz's Plover",LC,U,-16731116
-103,99,"asiaticus","Charadrius","Caspian Plover",LC,U,-16731116
-106,105,"hiaticula","Charadrius","Common Ringed Plover",LC,U,-16731116
-107,105,"melodus","Charadrius","Piping Plover",NT,U,-12486656
-109,108,"semipalmatus","Charadrius","Semipalmated Plover",LC,U,-16731116
-110,108,"vociferus","Charadrius","Killdeer",LC,U,-16731116
-113,112,"morinellus","Eudromias","Eurasian Dotterel",LC,U,-16731116
-114,112,"forbesi","Charadrius","Forbes's Plover",LC,U,-16731116
-115,111,"placidus","Charadrius","Long-billed Plover",LC,U,-16731116
-118,117,"mitchellii","Phegornis","Diademed Sandpiper-plover",NT,U,-12486656
-119,117,"pallidus","Charadrius","Chestnut-banded Plover",NT,U,-12486656
-120,116,"modestus","Charadrius","Rufous-chested Plover",LC,U,-16731116
-121,1,"ruficollis","Oreopholus","Tawny-throated Dotterel",LC,U,-16731116
-131,130,"palliatus","Haematopus","American Oystercatcher",LC,U,-16731116
-132,130,"bachmani","Haematopus","Black Oystercatcher",LC,U,-16731116
-133,129,"ater","Haematopus","Blackish Oystercatcher",LC,U,-16731116
-134,128,"leucopodus","Haematopus","Magellanic Oystercatcher",LC,U,-16731116
-135,127,"fuliginosus","Haematopus","Sooty Oystercatcher",LC,U,-16731116
-136,126,"moquini","Haematopus","African Oystercatcher",NT,U,-12486656
-140,139,"finschi","Haematopus","South Island Oystercatcher",LC,U,-16731116
-141,139,"unicolor","Haematopus","Variable Oystercatcher",LC,U,-16731116
-142,138,"chathamensis","Haematopus","Chatham Oystercatcher",EN,U,-8572416
-143,137,"ostralegus","Haematopus","Eurasian Oystercatcher",LC,U,-16731116
-144,124,"longirostris","Haematopus","Pied Oystercatcher",LC,U,-16731116
-150,149,"leucocephalus","Himantopus","White-headed Stilt",LC,U,-16731116
-151,149,"mexicanus","Himantopus","Black-necked Stilt",LC,U,-16731116
-152,148,"himantopus","Himantopus","Black-winged Stilt",LC,U,-16731116
-153,147,"novaezelandiae","Himantopus","Black Stilt",CR,U,-3014646
-154,146,"leucocephalus","Cladorhynchus","Banded Stilt",LC,U,-16731116
-158,157,"americana","Recurvirostra","American Avocet",LC,U,-16731116
-159,157,"andina","Recurvirostra","Andean Avocet",LC,U,-16731116
-160,156,"avosetta","Recurvirostra","Pied Avocet",LC,U,-16731116
-161,155,"novaehollandiae","Recurvirostra","Red-necked Avocet",LC,U,-16731116
-162,122,"struthersii","Ibidorhyncha","Ibisbill",LC,U,-16731116
+15,14,"crassirostris","Carduelis","Thick-billed Siskin",LC,U,-16731116
+16,14,"uropygialis","Carduelis","Yellow-rumped Siskin",LC,U,-16731116
+18,17,"siemiradzkii","Carduelis","Saffron Siskin",VU,U,-11184866
+19,17,"spinescens","Carduelis","Andean Siskin",LC,U,-16731116
+20,12,"cucullata","Carduelis","Red Siskin",EN,U,-8572416
+21,11,"atrata","Carduelis","Black Siskin",LC,U,-16731116
+23,22,"yarrellii","Carduelis","Yellow-faced Siskin",VU,U,-11184866
+24,22,"magellanica","Carduelis","Hooded Siskin",LC,U,-16731116
+25,9,"barbata","Carduelis","Black-chinned Siskin",LC,U,-16731116
+26,8,"olivacea","Carduelis","Olivaceous Siskin",LC,U,-16731116
+27,7,"xanthogastra","Carduelis","Yellow-bellied Siskin",LC,U,-16731116
+28,6,"notata","Carduelis","Black-headed Siskin",LC,U,-16731116
+29,5,"corsicana","Carduelis","Mediterranean Citril Finch",LC,U,-16731116
+30,4,"atriceps","Carduelis","Black-capped Siskin",LC,U,-16731116
+33,32,"lawrencei","Carduelis","Lawrence's Goldfinch",LC,U,-16731116
+34,32,"psaltria","Carduelis","Lesser Goldfinch",LC,U,-16731116
+35,31,"tristis","Carduelis","American Goldfinch",LC,U,-16731116
+38,37,"spinus","Carduelis","Eurasian Siskin",LC,U,-16731116
+39,37,"pinus","Carduelis","Pine Siskin",LC,U,-16731116
+40,36,"yemenensis","Carduelis","Yemen Linnet",LC,U,-16731116
+43,42,"percivali","Rhynchostruthus","Arabian Grosbeak",NT,U,-12486656
+44,42,"louisae","Rhynchostruthus","Somali Grosbeak",NT,U,-12486656
+45,41,"socotranus","Rhynchostruthus","Socotra Grosbeak",LC,U,-16731116
+48,47,"dominicensis","Carduelis","Antillean Siskin",LC,U,-16731116
+49,47,"phaeosoma","Melamprosops","Poo-uli",CR,U,-3014646
+51,50,"cannabina","Carduelis","Eurasian Linnet",LC,U,-16731116
+52,50,"flavirostris","Carduelis","Twite",LC,U,-16731116

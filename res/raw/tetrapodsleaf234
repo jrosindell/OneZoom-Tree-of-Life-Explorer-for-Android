@@ -1,98 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"musculinus","Calomys","Drylands Vesper Mouse",LC,S,-16731116
-17,15,"lepidus","Calomys","Andean Vesper Mouse",LC,S,-16731116
-18,14,"boliviae","Calomys","Bolivian Vesper Mouse",LC,S,-16731116
-21,20,"sorellus","Calomys","Peruvian Vesper Mouse",LC,S,-16731116
-22,20,"tener","Calomys","Delicate Vesper Mouse",LC,I,-16731116
-23,19,"laucha","Calomys","Small Vesper Mouse",LC,U,-16731116
-25,24,"hummelincki","Calomys","Hummelinck's Vesper Mouse",VU,D,-11184866
-26,24,"callidus","Calomys","Crafty Vesper Mouse",LC,U,-16731116
-29,28,"venustus","Calomys","Cordoba Laucha",LC,S,-16731116
-30,28,"expulsus","Calomys","",LC,I,-16731116
-31,27,"callosus","Calomys","Large Vesper Mouse",LC,S,-16731116
-32,10,"pyrrhorhinos","Wiedomys","Red-nosed Mouse",LC,U,-16731116
-38,37,"morgani","Eligmodontia","Morgan's Gerbil Mouse",LC,S,-16731116
-39,37,"moreni","Eligmodontia","Monte Gerbil Mouse",LC,S,-16731116
-40,36,"puerulus","Eligmodontia","Andean Gerbil Mouse",LC,S,-16731116
-41,35,"typus","Eligmodontia","Highland Gerbil Mouse",LC,S,-16731116
-44,43,"altissimus","Microryzomys","Highland Small Rice Rat",LC,U,-16731116
-45,43,"minutus","Microryzomys","Forest Small Rice Rat",LC,U,-16731116
-46,42,"ferrugineus","Phaenomys","Rio De Janeiro Arboreal Rat",VU,D,-11184866
-52,51,"molitor","Lundomys","Lund's Amphibious Rat",LC,D,-16731116
-53,51,"chacarius","Holochilus","Chaco Marsh Rat",LC,D,-16731116
-54,50,"sciureus","Holochilus","Marsh Rat",LC,S,-16731116
-55,49,"brasiliensis","Holochilus","Web-footed Marsh Rat",LC,S,-16731116
-56,48,"simplex","Pseudoryzomys","Brazilian False Rice Rat",LC,U,-16731116
-57,6,"roraimae","Podoxymys","Roraima Mouse",VU,U,-11184866
-58,5,"tarsalis","Irenomys","Chilean Climbing Mouse",LC,S,-16731116
-68,67,"destructor","Oligoryzomys","Destructive Pygmy Rice Rat",LC,S,-16731116
-69,67,"andinus","Oligoryzomys","Andean Pygmy Rice Rat",LC,S,-16731116
-70,66,"flavescens","Oligoryzomys","Yellow Pygmy Rice Rat",LC,S,-16731116
-71,65,"chacoensis","Oligoryzomys","Chacoan Pygmy Rice Rat",LC,S,-16731116
-73,72,"nigripes","Oligoryzomys","Black-footed Pygmy Rice Rat",LC,S,-16731116
-74,72,"arenalis","Oligoryzomys","Sandy Pygmy Rice Rat",LC,D,-16731116
-77,76,"longicaudatus","Oligoryzomys","Long-tailed Pygmy Rice Rat",LC,S,-16731116
-78,76,"fulvescens","Oligoryzomys","Fulvous Pygmy Rice Rat",LC,S,-16731116
-80,79,"victus","Oligoryzomys","St Vincent Pygmy Rice Rat",EX,U,-16777036
-81,79,"eliurus","Oligoryzomys","Brazilian Pygmy Rice Rat",LC,D,-16731116
-83,82,"vegetus","Oligoryzomys","Sprightly Pygmy Rice Rat",LC,S,-16731116
-84,82,"griseolus","Oligoryzomys","Grayish Pygmy Rice Rat",LC,D,-16731116
-88,87,"microtis","Oligoryzomys","Small-eared Pygmy Rice Rat",LC,S,-16731116
-89,87,"fornesi","Oligoryzomys","Fornes' Colilargo",LC,D,-16731116
-90,86,"magellanicus","Oligoryzomys","Magellanic Pygmy Rice Rat",LC,S,-16731116
-91,85,"delticola","Oligoryzomys","Delta Pygmy Rice Rat",LC,S,-16731116
-92,60,"candango","Juscelinomys","Candango Mouse",EX,U,-16777036
-97,96,"oenax","Wilfredomys","Greater Wilfred's Mouse",EN,D,-8572416
-98,96,"pictipes","Juliomys","Lesser Wilfred's Mouse",LC,U,-16731116
-99,95,"instans","Chilomys","Colombian Forest Mouse",LC,S,-16731116
-102,101,"auritus","Reithrodon","Bunny Rat",LC,S,-16731116
-103,101,"typicus","Reithrodon","",LC,S,-16731116
-104,100,"edwardsii","Notiomys","Edwards's Long-clawed Mouse",LC,S,-16731116
-105,93,"sahamae","Chinchillula","Altiplano Chincilla Mouse",LC,S,-16731116
-111,110,"lasiurus","Necromys","Hairy-tailed Bolo Mouse",LC,U,-16731116
-112,110,"lenguarum","Necromys","",LC,S,-16731116
-113,109,"temchuki","Necromys","Temchuk's Bolo Mouse",LC,S,-16731116
-115,114,"obscurus","Necromys","Dark Bolo Mouse",NT,D,-12486656
-116,114,"benefactus","Necromys","",LC,D,-16731116
-119,118,"punctulatus","Necromys","Spotted Bolo Mouse",DD,U,-11513776
-120,118,"amoenus","Necromys","Pleasant Bolo Mouse",LC,S,-16731116
-121,117,"lactens","Necromys","Rufous-bellied Bolo Mouse",LC,D,-16731116
-128,127,"peruviensis","Neusticomys","Peruvian Fish-eating Rat",LC,S,-16731116
-129,127,"oyapocki","Neusticomys","Oyapock's Fish-eating Rat",DD,D,-11513776
-130,126,"mussoi","Neusticomys","Musso's Fish-eating Rat",EN,D,-8572416
-132,131,"venezuelae","Neusticomys","Venezuelan Fish-eating Rat",VU,D,-11184866
-133,131,"monticolus","Neusticomys","Montane Fish-eating Rat",LC,D,-16731116
-137,136,"underwoodi","Rheomys","Underwood's Water Mouse",LC,S,-16731116
-138,136,"thomasi","Rheomys","Thomas's Water Mouse",NT,U,-12486656
-139,135,"mexicanus","Rheomys","Mexican Water Mouse",EN,U,-8572416
-140,134,"raptor","Rheomys","Goldman's Water Mouse",LC,S,-16731116
-146,145,"pittieri","Ichthyomys","Pittier's Crab-eating Rat",VU,D,-11184866
-147,145,"hydrobates","Ichthyomys","Crab-eating Rat",NT,D,-12486656
-148,144,"tweedii","Ichthyomys","Tweedy's Crab-eating Rat",DD,U,-11513776
-149,143,"stolzmanni","Ichthyomys","Stolzmann's Crab-eating Rat",DD,U,-11513776
-150,142,"leander","Anotomys","Aquatic Rat",VU,D,-11184866
-151,141,"trichotis","Chibchanomys","Chibchan Water Mouse",DD,U,-11513776
-159,158,"hirsutus","Sigmodon","Southern Cotton Rat",LC,I,-16731116
-160,158,"hispidus","Sigmodon","Hispid Cotton Rat",LC,I,-16731116
-162,161,"toltecus","Sigmodon","Toltec Cotton Rat",LC,U,-16731116
-163,161,"zanjonensis","Sigmodon","",NE,U,-16777216
-164,156,"fulviventer","Sigmodon","Tawny-bellied Cotton Rat",LC,S,-16731116
-165,155,"arizonae","Sigmodon","Arizona Cotton Rat",LC,U,-16731116
-168,167,"ochrognathus","Sigmodon","Yellow-nosed Cotton Rat",LC,U,-16731116
-169,167,"alstoni","Sigmodon","Alston's Cotton Rat",LC,U,-16731116
-170,166,"inopinatus","Sigmodon","Unexpected Cotton Rat",VU,D,-11184866
-173,172,"mascotensis","Sigmodon","Jaliscan Cotton Rat",LC,S,-16731116
-174,172,"peruanus","Sigmodon","Peruvian Cotton Rat",LC,S,-16731116
-176,175,"planifrons","Sigmodon","Miahuatlan Cotton Rat",EN,D,-8572416
-177,175,"alleni","Sigmodon","Allen's Cotton Rat",VU,D,-11184866
-178,152,"leucotis","Sigmodon","White-eared Cotton Rat",LC,U,-16731116
-185,184,"fulviventer","Tylomys","Fulvous-bellied Climbing Rat",DD,U,-11513776
-186,184,"tumbalensis","Tylomys","Tumbala Climbing Rat",CR,D,-3014646
-187,183,"watsoni","Tylomys","Watson's Climbing Rat",LC,S,-16731116
-189,188,"bullaris","Tylomys","Chiapan Climbing Rat",CR,D,-3014646
-190,188,"mirae","Tylomys","Mira Climbing Rat",LC,U,-16731116
-192,191,"nudicaudus","Tylomys","Peter's Climbing Rat",LC,S,-16731116
-193,191,"panamensis","Tylomys","Panama Climbing Rat",DD,U,-11513776
-194,180,"phyllotis","Ototylomys","Big-eared Climbing Rat",LC,S,-16731116
-196,195,"hatti","Otonyctomys","Hatt's Vesper Mouse",LC,U,-16731116
-197,195,"sumichrasti","Nyctomys","Vesper Rat",LC,S,-16731116
+9,8,"henricae","Cranioleuca","Bolivian Spinetail",EN,U,-8572416
+10,8,"obsoleta","Cranioleuca","Olive Spinetail",LC,U,-16731116
+11,7,"pyrrhophia","Cranioleuca","Stripe-crowned Spinetail",LC,U,-16731116
+12,6,"semicinerea","Cranioleuca","Grey-headed Spinetail",LC,U,-16731116
+13,5,"dissita","Cranioleuca","Coiba Spinetail",_U,[,-16777216
+15,14,"albicapilla","Cranioleuca","Creamy-crested Spinetail",LC,U,-16731116
+16,14,"gutturata","Cranioleuca","Speckled Spinetail",LC,U,-16731116
+21,20,"antisiensis","Cranioleuca","Line-cheeked Spinetail",LC,U,-16731116
+22,20,"baroni","Cranioleuca","Baron's Spinetail",LC,U,-16731116
+23,19,"curtata","Cranioleuca","Ash-browed Spinetail",LC,U,-16731116
+25,24,"subcristata","Cranioleuca","Crested Spinetail",LC,U,-16731116
+26,24,"demissa","Cranioleuca","Tepui Spinetail",LC,U,-16731116
+27,17,"erythrops","Cranioleuca","Red-faced Spinetail",LC,U,-16731116
+30,29,"hellmayri","Cranioleuca","Streak-capped Spinetail",LC,U,-16731116
+31,29,"vulpina","Cranioleuca","Rusty-backed Spinetail",LC,U,-16731116
+32,28,"vulpecula","Cranioleuca","Parker's Spinetail",LC,U,-16731116
+34,33,"albiceps","Cranioleuca","Light-crowned Spinetail",LC,U,-16731116
+35,33,"marcapatae","Cranioleuca","Marcapata Spinetail",LC,U,-16731116
+38,37,"sulphurifera","Cranioleuca","Sulphur-throated Spinetail",LC,U,-16731116
+39,37,"muelleri","Cranioleuca","Scaled Spinetail",LC,U,-16731116
+41,40,"rectirostris","Limnoctites","Straight-billed Reedhaunter",NT,U,-12486656
+42,40,"pallida","Cranioleuca","Pallid Spinetail",LC,U,-16731116

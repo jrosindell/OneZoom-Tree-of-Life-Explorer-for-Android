@@ -1,62 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"spinoletta","Anthus","Water Pipit",LC,U,-16731116
-15,13,"petrosus","Anthus","Rock Pipit",LC,U,-16731116
-16,12,"pratensis","Anthus","Meadow Pipit",LC,U,-16731116
-17,11,"nattereri","Anthus","Ochre-breasted Pipit",VU,U,-11184866
-20,19,"rubescens","Anthus","American Pipit",LC,U,-16731116
-21,19,"hoeschi","Anthus","Mountain Pipit",LC,U,-16731116
-22,18,"sokokensis","Anthus","Sokoke Pipit",EN,U,-8572416
-24,23,"cervinus","Anthus","Red-throated Pipit",LC,U,-16731116
-25,23,"roseatus","Anthus","Rosy Pipit",LC,U,-16731116
-26,8,"leucophrys","Anthus","Plain-backed Pipit",LC,U,-16731116
-29,28,"hodgsoni","Anthus","Olive-backed Pipit",LC,U,-16731116
-30,28,"trivialis","Anthus","Tree Pipit",LC,U,-16731116
-31,27,"antarcticus","Anthus","South Georgia Pipit",NT,U,-12486656
-33,32,"crenatus","Anthus","Yellow-tufted Pipit",LC,U,-16731116
-34,32,"gustavi","Anthus","Pechora Pipit",LC,U,-16731116
-39,38,"longicaudatus","Anthus","Long-tailed Pipit",DD,U,-11513776
-40,38,"furcatus","Anthus","Short-billed Pipit",LC,U,-16731116
-41,37,"hellmayri","Anthus","Hellmayr's Pipit",LC,U,-16731116
-44,43,"spragueii","Anthus","Sprague's Pipit",VU,U,-11184866
-45,43,"rufulus","Anthus","Paddyfield Pipit",LC,U,-16731116
-46,42,"lutescens","Anthus","Yellowish Pipit",LC,U,-16731116
-50,49,"correndera","Anthus","Correndera Pipit",LC,U,-16731116
-51,49,"caffer","Anthus","Bush Pipit",LC,U,-16731116
-53,52,"melindae","Anthus","Malindi Pipit",NT,U,-12486656
-54,52,"sylvanus","Anthus","Upland Pipit",LC,U,-16731116
-56,55,"chloris","Anthus","Yellow-breasted Pipit",VU,U,-11184866
-57,55,"chacoensis","Anthus","Pampas Pipit",LC,U,-16731116
-59,58,"nilghiriensis","Anthus","Nilgiri Pipit",NT,U,-12486656
-60,58,"vaalensis","Anthus","Buffy Pipit",LC,U,-16731116
-66,65,"berthelotii","Anthus","Berthelot's Pipit",LC,U,-16731116
-67,65,"campestris","Anthus","Tawny Pipit",LC,U,-16731116
-68,64,"richardi","Anthus","Richard's Pipit",LC,U,-16731116
-69,63,"similis","Anthus","Long-billed Pipit",LC,U,-16731116
-71,70,"novaeseelandiae","Anthus","Australasian Pipit",LC,U,-16731116
-72,70,"lineiventris","Anthus","Striped Pipit",LC,U,-16731116
-76,75,"pallidiventris","Anthus","Long-legged Pipit",LC,U,-16731116
-77,75,"brachyurus","Anthus","Short-tailed Pipit",LC,U,-16731116
-78,74,"bogotensis","Anthus","Paramo Pipit",LC,U,-16731116
-80,79,"godlewskii","Anthus","Blyth's Pipit",LC,U,-16731116
-81,79,"gutturalis","Anthus","Alpine Pipit",LC,U,-16731116
-87,86,"flavicollis","Macronyx","Abyssinian Longclaw",NT,U,-12486656
-88,86,"capensis","Macronyx","Cape Longclaw",LC,U,-16731116
-89,85,"grimwoodi","Macronyx","Grimwood's Longclaw",DD,U,-11513776
-90,84,"aurantiigula","Macronyx","Pangani Longclaw",LC,U,-16731116
-92,91,"ameliae","Macronyx","Rosy-throated Longclaw",LC,U,-16731116
-93,91,"sharpei","Macronyx","Sharpe's Longclaw",EN,U,-8572416
-95,94,"fuellebornii","Macronyx","Fuelleborn's Longclaw",LC,U,-16731116
-96,94,"croceus","Macronyx","Yellow-throated Longclaw",LC,U,-16731116
-104,103,"citreola","Motacilla","Citrine Wagtail",LC,U,-16731116
-105,103,"flava","Motacilla","Yellow Wagtail",LC,U,-16731116
-106,102,"alba","Motacilla","White Wagtail",LC,U,-16731116
-108,107,"madaraspatensis","Motacilla","White-browed Wagtail",LC,U,-16731116
-109,107,"cinerea","Motacilla","Grey Wagtail",LC,U,-16731116
-110,100,"samveasnae","Motacilla","Mekong Wagtail",NT,U,-12486656
-111,99,"aguimp","Motacilla","African Pied Wagtail",LC,U,-16731116
-112,98,"grandis","Motacilla","Japanese Wagtail",LC,U,-16731116
-115,114,"clara","Motacilla","Mountain Wagtail",LC,U,-16731116
-116,114,"capensis","Motacilla","Cape Wagtail",LC,U,-16731116
-117,113,"flaviventris","Motacilla","Madagascar Wagtail",LC,U,-16731116
-119,118,"indicus","Dendronanthus","Forest Wagtail",LC,U,-16731116
-120,118,"tenellus","Tmetothylacus","Golden Pipit",LC,U,-16731116
+7,6,"bergeri","Pelophylax","Italian Pool Frog",LC,D,-16731116
+8,6,"plancyi","Pelophylax","",LC,D,-16731116
+9,5,"epeiroticus","Pelophylax","Epirus Water Frog",VU,D,-11184866
+12,11,"cerigensis","Pelophylax","Karpathos Frog",CR,D,-3014646
+13,11,"demarchii","Pelophylax","",DD,U,-11513776
+14,10,"lessonae","Pelophylax","Pool Frog",LC,D,-16731116
+16,15,"ridibundus","Pelophylax","Eurasian Marsh Frog",LC,I,-16731116
+17,15,"saharicus","Pelophylax","Sahara Frog",LC,S,-16731116
+18,2,"fukienensis","Pelophylax","",LC,D,-16731116
+21,20,"nigromaculatus","Pelophylax","Black-spotted Pond Frog",NT,D,-12486656
+22,20,"kurtmuelleri","Pelophylax","Balkan Water Frog",LC,S,-16731116
+23,19,"bedriagae","Pelophylax","Levantine Frog",LC,D,-16731116
+30,29,"nigrolineatus","Pelophylax","",NE,U,-16777216
+31,29,"terentievi","Pelophylax","",DD,U,-11513776
+32,28,"shqipericus","Pelophylax","Albanian Water Frog",EN,D,-8572416
+35,34,"tenggerensis","Pelophylax","",EN,D,-8572416
+36,34,"shuchinae","Pelophylax","",NE,U,-16777216
+37,33,"porosus","Pelophylax","Daruma Pond Frog",LC,D,-16731116
+38,26,"hubeiensis","Pelophylax","",LC,U,-16731116
+41,40,"perezi","Pelophylax","Perez's Frog",LC,S,-16731116
+42,40,"chosenicus","Pelophylax","",VU,D,-11184866
+43,39,"cretensis","Pelophylax","Cretan Frog",EN,D,-8572416
+44,24,"lateralis","Pelophylax","Kokarit Frog",LC,U,-16731116

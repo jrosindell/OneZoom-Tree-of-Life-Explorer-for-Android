@@ -1,35 +1,41 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"cachinus","Eothenomys","Kachin Red-backed Vole",LC,U,-16731116
-11,9,"melanogaster","Eothenomys","Pere David's Vole",LC,S,-16731116
-12,8,"miletus","Eothenomys","Yunnan Red-backed Vole",LC,U,-16731116
-14,13,"chinensis","Eothenomys","Sichuan Red-backed Vole",LC,U,-16731116
-15,13,"wardi","Eothenomys","Ward's Red-backed Vole",NT,U,-12486656
-16,6,"regulus","Myodes","Southern Red-backed Vole",LC,S,-16731116
-18,17,"proditor","Eothenomys","Yulongxuen Red-backed Vole",LC,U,-16731116
-19,17,"eva","Caryomys","Eva's Red-backed Vole",LC,U,-16731116
-20,4,"custos","Eothenomys","Southwest China Red-backed Vole",LC,U,-16731116
-23,22,"shanseius","Myodes","Shanxi Red-backed Vole",LC,U,-16731116
-24,22,"inez","Caryomys","Inez's Red-backed Vole",LC,U,-16731116
-25,21,"olitor","Eothenomys","Black-eared Red-backed Vole",LC,U,-16731116
-28,27,"andersoni","Myodes","Anderson's Red-backed Vole",LC,S,-16731116
-29,27,"imaizumii","Myodes","",NE,U,-16777216
-30,26,"smithii","Myodes","Smith's Red-backed Vole",LC,S,-16731116
-35,34,"rufocanus","Myodes","Grey Red-backed Vole",LC,D,-16731116
-36,34,"rex","Myodes","Hokkaido Red-backed Vole",LC,S,-16731116
-37,33,"californicus","Myodes","Western Red-backed Vole",LC,S,-16731116
-39,38,"gapperi","Myodes","Revillagigedo Island Red-backed Vole",LC,S,-16731116
-40,38,"glareolus","Myodes","Bank Vole",LC,S,-16731116
-42,41,"centralis","Myodes","Tien Shan Red-backed Vole",LC,U,-16731116
-43,41,"rutilus","Myodes","Northern Red-backed Vole",LC,U,-16731116
-52,51,"stoliczkanus","Alticola","Stoliczka's Mountain Vole",LC,U,-16731116
-53,51,"albicaudus","Alticola","White-tailed Mountain Vole",DD,U,-11513776
-55,54,"olchonensis","Alticola","Olkhon Mountain Vole",DD,U,-11513776
-56,54,"tuvinicus","Alticola","Tuva Silver Vole",LC,U,-16731116
-58,57,"barakshin","Alticola","Gobi Altai Mountain Vole",LC,U,-16731116
-59,57,"montosa","Alticola","Central Kashmir Vole",VU,D,-11184866
-60,48,"argentatus","Alticola","Silver Mountain Vole",LC,U,-16731116
-61,47,"roylei","Alticola","Royle's Mountain Vole",NT,D,-12486656
-63,62,"semicanus","Alticola","Mongolian Silver Vole",LC,U,-16731116
-64,62,"macrotis","Alticola","Large-eared Vole",LC,U,-16731116
-65,45,"lemminus","Alticola","Lemming Vole",LC,U,-16731116
-66,44,"strelzowi","Alticola","Flat-headed Vole",LC,U,-16731116
+8,7,"calopterus","Mecocerculus","Rufous-winged Tyrannulet",LC,U,-16731116
+9,7,"weedeni","Phyllomyias","Yungas Tyrannulet",VU,U,-11184866
+10,6,"griseocapilla","Phyllomyias","Grey-capped Tyrannulet",NT,U,-12486656
+12,11,"poecilocercus","Mecocerculus","White-tailed Tyrannulet",LC,U,-16731116
+13,11,"minor","Mecocerculus","Sulphur-bellied Tyrannulet",LC,U,-16731116
+17,16,"plumbeiceps","Phyllomyias","Plumbeous-crowned Tyrannulet",LC,U,-16731116
+18,16,"cinereiceps","Phyllomyias","Ashy-headed Tyrannulet",LC,U,-16731116
+19,15,"virescens","Phyllomyias","Greenish Tyrannulet",LC,U,-16731116
+20,14,"urichi","Phyllomyias","Urich's Tyrannulet",EN,U,-8572416
+25,24,"obsoletum","Camptostoma","Southern Beardless-tyrannulet",LC,U,-16731116
+26,24,"imberbe","Camptostoma","Northern Beardless-tyrannulet",LC,U,-16731116
+27,23,"inerme","Ornithion","White-lored Tyrannulet",LC,U,-16731116
+29,28,"brunneicapillus","Ornithion","Brown-capped Tyrannulet",LC,U,-16731116
+30,28,"semiflavum","Ornithion","Yellow-bellied Tyrannulet",LC,U,-16731116
+33,32,"uropygialis","Phyllomyias","Tawny-rumped Tyrannulet",LC,U,-16731116
+34,32,"burmeisteri","Phyllomyias","Rough-legged Tyrannulet",LC,U,-16731116
+35,31,"reiseri","Phyllomyias","Reiser's Tyrannulet",LC,U,-16731116
+43,42,"viridiflavus","Zimmerius","Tschudi's Tyrannulet",LC,U,-16731116
+44,42,"flavidifrons","Zimmerius","Loja Tyrannulet",_U,[,-16777216
+45,41,"gracilipes","Zimmerius","Slender-footed Tyrannulet",LC,U,-16731116
+46,40,"chrysops","Zimmerius","Golden-faced Tyrannulet",LC,U,-16731116
+47,39,"bolivianus","Zimmerius","Bolivian Tyrannulet",LC,U,-16731116
+49,48,"improbus","Zimmerius","Venezuelan Tyrannulet",LC,U,-16731116
+50,48,"acer","Zimmerius","Guianan Tyrannulet",LC,U,-16731116
+52,51,"vilissimus","Zimmerius","Paltry Tyrannulet",LC,U,-16731116
+53,51,"albigularis","Zimmerius","Choco Tyrannulet",LC,U,-16731116
+55,54,"cinereicapilla","Zimmerius","Red-billed Tyrannulet",LC,U,-16731116
+56,54,"villarejoi","Zimmerius","Mishana Tyrannulet",VU,U,-11184866
+57,1,"nigrocapillus","Phyllomyias","Black-capped Tyrannulet",LC,U,-16731116
+63,62,"tenuirostris","Inezia","Slender-billed Tyrannulet",LC,U,-16731116
+64,62,"caudata","Inezia","Pale-tipped Tyrannulet",LC,U,-16731116
+66,65,"subflava","Inezia","Amazonian Tyrannulet",LC,U,-16731116
+67,65,"inornata","Inezia","Plain Tyrannulet",LC,U,-16731116
+69,68,"rufomarginatus","Euscarthmus","Rufous-sided Pygmy-tyrant",NT,U,-12486656
+70,68,"meloryphus","Euscarthmus","Tawny-crowned Pygmy-tyrant",LC,U,-16731116
+73,72,"budytoides","Stigmatura","Greater Wagtail-tyrant",LC,U,-16731116
+74,72,"zeledoni","Phyllomyias","White-fronted Tyrannulet",_U,[,-16777216
+75,71,"stictopterus","Mecocerculus","White-banded Tyrannulet",LC,U,-16731116
+77,76,"hellmayri","Mecocerculus","Buff-banded Tyrannulet",LC,U,-16731116
+78,76,"sclateri","Phyllomyias","Sclater's Tyrannulet",LC,U,-16731116

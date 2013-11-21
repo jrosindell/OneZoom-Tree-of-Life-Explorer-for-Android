@@ -1,28 +1,67 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"intercastellanus","Phalanger","Eastern Common Cuscus",LC,D,-16731116
-12,10,"orientalis","Phalanger","Northern Common Cuscus",LC,S,-16731116
-13,9,"mimicus","Phalanger","Southern Common Cuscus",LC,D,-16731116
-15,14,"carmelitae","Phalanger","Mountain Cuscus",LC,S,-16731116
-16,14,"vestitus","Phalanger","Stein's Cuscus",LC,D,-16731116
-17,7,"sericeus","Phalanger","Silky Cuscus",LC,U,-16731116
-18,6,"lullulae","Phalanger","Woodlark Cuscus",EN,S,-8572416
-19,5,"pelengensis","Strigocuscus","Peleng Cuscus",LC,S,-16731116
-21,20,"celebensis","Strigocuscus","Small Sulawesi Cuscus",VU,D,-11184866
-22,20,"gymnotis","Phalanger","Ground Cuscus",LC,D,-16731116
-25,24,"maculatus","Spilocuscus","Common Spotted Cuscus",LC,S,-16731116
-26,24,"kraemeri","Spilocuscus","Admiralty Cuscus",NT,D,-12486656
-27,23,"rufoniger","Spilocuscus","Black-spotted Cuscus",CR,D,-3014646
-29,28,"melanotis","Ailurops","Talaud Bear Cuscus",CR,D,-3014646
-30,28,"ursinus","Ailurops","Bear Cuscus",VU,D,-11184866
-36,35,"vulpecula","Trichosurus","Common Brushtail Possum",LC,D,-16731116
-37,35,"johnstonii","Trichosurus","",NE,U,-16777216
-38,34,"arnhemensis","Trichosurus","",NE,U,-16777216
-39,33,"caninus","Trichosurus","Short-eared Brushtail Possum",LC,S,-16731116
-40,32,"squamicaudata","Wyulda","Scaly-tailed Possum",DD,D,-11513776
-42,41,"matanim","Phalanger","Telefomin Cuscus",CR,U,-3014646
-43,41,"ornatus","Phalanger","Ornate Cuscus",LC,S,-16731116
-48,47,"concinnus","Cercartetus","Western Pygmy Possum",LC,S,-16731116
-49,47,"lepidus","Cercartetus","Little Pygmy Possum",LC,S,-16731116
-50,46,"nanus","Cercartetus","Eastern Pygmy Possum",LC,D,-16731116
-51,45,"caudatus","Cercartetus","Long-tailed Pygmy Possum",LC,S,-16731116
-52,44,"parvus","Burramys","Mountain Pygmy Possum",CR,D,-3014646
+16,15,"geoffroii","Dasyurus","Western Quoll",NT,S,-12486656
+17,15,"spartacus","Dasyurus","Bronze Quoll",NT,U,-12486656
+18,14,"albopunctatus","Dasyurus","New Guinea Quoll",NT,D,-12486656
+19,13,"viverrinus","Dasyurus","Eastern Quoll",NT,S,-12486656
+20,12,"maculatus","Dasyurus","Spotted-tailed Quoll",NT,D,-12486656
+21,11,"hallucatus","Dasyurus","Northern Quoll",EN,D,-8572416
+22,10,"harrisii","Sarcophilus","Tasmanian Devil",EN,D,-8572416
+25,24,"dorsalis","Phascolosorex","Narrow-striped Dasyure",LC,S,-16731116
+26,24,"doriae","Phascolosorex","Red-bellied Phascogale",LC,U,-16731116
+27,23,"lorentzi","Neophascogale","",NE,U,-16777216
+28,8,"bilarni","Pseudantechinus","Sandstone Pseudantechinus",NT,D,-12486656
+30,29,"cristicauda","Dasycercus","Crest-tailed Mulgara",LC,S,-16731116
+31,29,"byrnei","Dasyuroides","Kowari",VU,D,-11184866
+34,33,"macdonnellensis","Pseudantechinus","Fat-tailed Pseudantechinus",LC,U,-16731116
+35,33,"mimulus","Pseudantechinus","Carpentarian Pseudantechinus",EN,D,-8572416
+36,32,"woolleyae","Pseudantechinus","Woolley's Pseudantechinus",LC,U,-16731116
+38,37,"apicalis","Parantechinus","Dibbler",EN,D,-8572416
+39,37,"rosamondae","Dasykaluta","Kaluta",LC,U,-16731116
+42,41,"melas","Myoictis","Three-striped Dasyure",LC,U,-16731116
+43,41,"wallacii","Myoictis","",NE,U,-16777216
+44,40,"ningbing","Pseudantechinus","Ningbing Pseudantechinus",LC,U,-16731116
+52,51,"flavipes","Antechinus","Yellow-footed Antechinus",LC,S,-16731116
+53,51,"bellus","Antechinus","Fawn Antechinus",LC,S,-16731116
+54,50,"leo","Antechinus","Cinnamon Antechinus",LC,S,-16731116
+56,55,"stuartii","Antechinus","Brown Antechinus",LC,S,-16731116
+57,55,"adustus","Antechinus","Rusty Antechinus",LC,D,-16731116
+58,48,"godmani","Antechinus","Atherton Antechinus",NT,S,-12486656
+60,59,"swainsonii","Antechinus","Dusky Antechinus",LC,U,-16731116
+61,59,"minimus","Antechinus","Swamp Antechinus",LC,D,-16731116
+66,65,"habbema","Micromurexia","",NE,U,-16777216
+67,65,"naso","Phascomurexia","",NE,U,-16777216
+68,64,"longicaudata","Murexia","Short-furred Dasyure",LC,U,-16731116
+69,63,"melanurus","Murexechinus","",NE,U,-16777216
+70,62,"rothschildi","Paramurexia","",NE,U,-16777216
+72,71,"tapoatafa","Phascogale","Brush-tailed Phascogale",NT,D,-12486656
+73,71,"calura","Phascogale","Red-tailed Phascogale",NT,D,-12486656
+86,85,"dolichura","Sminthopsis","Little Long-tailed Dunnart",LC,S,-16731116
+87,85,"murina","Sminthopsis","Common Dunnart",LC,D,-16731116
+88,84,"gilberti","Sminthopsis","Gilbert's Dunnart",LC,S,-16731116
+89,83,"leucopus","Sminthopsis","White-footed Dunnart",VU,D,-11184866
+90,82,"archeri","Sminthopsis","Chestnut Dunnart",DD,U,-11513776
+94,93,"youngsoni","Sminthopsis","Lesser Hairy-footed Dunnart",LC,S,-16731116
+95,93,"ooldea","Sminthopsis","Ooldea Dunnart",LC,U,-16731116
+96,92,"psammophila","Sminthopsis","Sandhill Dunnart",EN,D,-8572416
+97,91,"hirtipes","Sminthopsis","Hairy-footed Dunnart",LC,U,-16731116
+98,80,"longicaudata","Sminthopsis","Long-tailed Dunnart",LC,U,-16731116
+99,79,"granulipes","Sminthopsis","White-tailed Dunnart",LC,U,-16731116
+101,100,"griseoventer","Sminthopsis","Grey-bellied Dunnart",LC,U,-16731116
+102,100,"aitkeni","Sminthopsis","Kangaroo Island Dunnart",CR,D,-3014646
+107,106,"douglasi","Sminthopsis","Julia Creek Dunnart",NT,D,-12486656
+108,106,"butleri","Sminthopsis","Butler's Dunnart",VU,D,-11184866
+109,105,"virginiae","Sminthopsis","Red-cheeked Dunnart",LC,S,-16731116
+110,104,"macroura","Sminthopsis","Stripe-faced Dunnart",LC,U,-16731116
+111,103,"crassicaudata","Sminthopsis","Fat-tailed Dunnart",LC,S,-16731116
+114,113,"ridei","Ningaui","Wongai Ningaui",LC,S,-16731116
+115,113,"yvonnae","Ningaui","",NE,U,-16777216
+116,112,"timealeyi","Ningaui","Pilbara Ningaui",LC,S,-16731116
+117,75,"laniger","Antechinomys","Kultarr",LC,D,-16731116
+122,121,"ingrami","Planigale","Long-tailed Planigale",LC,S,-16731116
+123,121,"gilesi","Planigale","Giles' Planigale",LC,U,-16731116
+124,120,"novaeguineae","Planigale","Papuan Planigale",LC,U,-16731116
+125,119,"tenuirostris","Planigale","Narrow-nosed Planigale",LC,S,-16731116
+126,118,"maculata","Planigale","Common Planigale",LC,S,-16731116
+127,1,"fasciatus","Myrmecobius","Numbat",EN,D,-8572416
+129,128,"caurinus","Notoryctes","Northern Marsupial Mole",DD,U,-11513776
+130,128,"typhlops","Notoryctes","Marsupial Mole",DD,U,-11513776

@@ -1,67 +1,57 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"mindorensis","Penelopides","Mindoro Hornbill",EN,U,-8572416
-14,12,"manillae","Penelopides","Luzon Hornbill",LC,U,-16731116
-16,15,"samarensis","Penelopides","Samar Hornbill",LC,U,-16731116
-17,15,"panini","Penelopides","Visayan Hornbill",EN,U,-8572416
-19,18,"exarhatus","Penelopides","Sulawesi Hornbill",LC,U,-16731116
-20,18,"affinis","Penelopides","Mindanao Hornbill",LC,U,-16731116
-22,21,"leucocephalus","Aceros","Writhed Hornbill",NT,U,-12486656
-23,21,"corrugatus","Aceros","Wrinkled Hornbill",NT,U,-12486656
-27,26,"undulatus","Aceros","Wreathed Hornbill",LC,U,-16731116
-28,26,"plicatus","Aceros","Papuan Hornbill",LC,U,-16731116
-30,29,"cassidix","Aceros","Knobbed Hornbill",LC,U,-16731116
-31,29,"everetti","Aceros","Sumba Hornbill",VU,U,-11184866
-33,32,"subruficollis","Aceros","Plain-pouched Hornbill",VU,U,-11184866
-34,32,"narcondami","Aceros","Narcondam Hornbill",EN,U,-8572416
-35,7,"waldeni","Aceros","Rufous-headed Hornbill",CR,U,-3014646
-36,6,"nipalensis","Aceros","Rufous-necked Hornbill",VU,U,-11184866
-37,5,"comatus","Aceros","White-crowned Hornbill",NT,U,-12486656
-42,41,"albirostris","Anthracoceros","Oriental Pied Hornbill",LC,U,-16731116
-43,41,"montani","Anthracoceros","Sulu Hornbill",CR,U,-3014646
-44,40,"marchei","Anthracoceros","Palawan Hornbill",VU,U,-11184866
-46,45,"coronatus","Anthracoceros","Malabar Pied Hornbill",NT,U,-12486656
-47,45,"malayanus","Anthracoceros","Black Hornbill",NT,U,-12486656
-50,49,"tickelli","Anorrhinus","Tickell's Brown Hornbill",NT,U,-12486656
-51,49,"austeni","Anorrhinus","Austen's Brown Hornbill",NT,U,-12486656
-52,48,"galeritus","Anorrhinus","Bushy-crested Hornbill",LC,U,-16731116
-60,59,"subcylindricus","Bycanistes","Black-and-white-casqued Hornbill",LC,U,-16731116
-61,59,"fistulator","Bycanistes","Piping Hornbill",LC,U,-16731116
-62,58,"brevis","Bycanistes","Silvery-cheeked Hornbill",LC,U,-16731116
-64,63,"cylindricus","Bycanistes","Brown-cheeked Hornbill",NT,U,-12486656
-65,63,"bucinator","Bycanistes","Trumpeter Hornbill",LC,U,-16731116
-66,56,"albotibialis","Bycanistes","White-thighed Hornbill",LC,U,-16731116
-68,67,"atrata","Ceratogymna","Black-casqued Hornbill",LC,U,-16731116
-69,67,"elata","Ceratogymna","Yellow-casqued Hornbill",NT,U,-12486656
-70,54,"albocristatus","Tropicranus","White-crested Hornbill",LC,U,-16731116
-73,72,"gingalensis","Ocyceros","Sri Lanka Grey Hornbill",LC,U,-16731116
-74,72,"birostris","Ocyceros","Indian Grey Hornbill",LC,U,-16731116
-75,71,"griseus","Ocyceros","Malabar Grey Hornbill",LC,U,-16731116
-79,78,"hydrocorax","Buceros","Rufous Hornbill",NT,U,-12486656
-80,78,"bicornis","Buceros","Great Hornbill",NT,U,-12486656
-81,77,"rhinoceros","Buceros","Rhinoceros Hornbill",NT,U,-12486656
-82,76,"vigil","Rhinoplax","Helmeted Hornbill",NT,U,-12486656
-91,90,"erythrorhynchus","Tockus","Red-billed Hornbill",LC,U,-16731116
-92,90,"monteiri","Tockus","Monteiro's Hornbill",LC,U,-16731116
-93,89,"flavirostris","Tockus","Eastern Yellow-billed Hornbill",LC,U,-16731116
-94,88,"bradfieldi","Tockus","Bradfield's Hornbill",LC,U,-16731116
-96,95,"leucomelas","Tockus","Southern Yellow-billed Hornbill",LC,U,-16731116
-97,95,"jacksoni","Tockus","Jackson's Hornbill",LC,U,-16731116
-100,99,"pallidirostris","Tockus","Pale-billed Hornbill",LC,U,-16731116
-101,99,"hemprichii","Tockus","Hemprich's Hornbill",LC,U,-16731116
-102,98,"camurus","Tockus","Red-billed Dwarf Hornbill",LC,U,-16731116
-103,85,"deckeni","Tockus","Von der Decken's Hornbill",LC,U,-16731116
-107,106,"fasciatus","Tockus","African Pied Hornbill",LC,U,-16731116
-108,106,"alboterminatus","Tockus","Crowned Hornbill",LC,U,-16731116
-109,105,"nasutus","Tockus","African Grey Hornbill",LC,U,-16731116
-110,104,"hartlaubi","Tockus","Black Dwarf Hornbill",LC,U,-16731116
-112,111,"abyssinicus","Bucorvus","Abyssinian Ground-hornbill",LC,U,-16731116
-113,111,"cafer","Bucorvus","Southern Ground-hornbill",VU,U,-11184866
-119,118,"damarensis","Phoeniculus","Violet Woodhoopoe",LC,U,-16731116
-120,118,"purpureus","Phoeniculus","Green Woodhoopoe",LC,U,-16731116
-121,117,"castaneiceps","Phoeniculus","Forest Woodhoopoe",LC,U,-16731116
-123,122,"somaliensis","Phoeniculus","Black-billed Woodhoopoe",LC,U,-16731116
-124,122,"bollei","Phoeniculus","White-headed Woodhoopoe",LC,U,-16731116
-127,126,"cyanomelas","Rhinopomastus","Common Scimitarbill",LC,U,-16731116
-128,126,"minor","Rhinopomastus","Abyssinian Scimitarbill",LC,U,-16731116
-129,125,"aterrimus","Rhinopomastus","Black Scimitarbill",LC,U,-16731116
-130,114,"epops","Upupa","Eurasian Hoopoe",LC,U,-16731116
+21,20,"oreophilus","Buteo","Mountain Buzzard",LC,U,-16731116
+22,20,"buteo","Buteo","Common Buzzard",LC,U,-16731116
+23,19,"rufinus","Buteo","Long-legged Buzzard",LC,U,-16731116
+24,18,"hemilasius","Buteo","Upland Buzzard",LC,U,-16731116
+26,25,"rufofuscus","Buteo","Jackal Buzzard",LC,U,-16731116
+27,25,"augur","Buteo","Augur Buzzard",LC,U,-16731116
+29,28,"lagopus","Buteo","Rough-legged Hawk",LC,U,-16731116
+30,28,"regalis","Buteo","Ferruginous Hawk",LC,U,-16731116
+31,15,"albonotatus","Buteo","Zone-tailed Hawk",LC,U,-16731116
+36,35,"galapagoensis","Buteo","Galapagos Hawk",VU,U,-11184866
+37,35,"swainsoni","Buteo","Swainson's Hawk",LC,U,-16731116
+38,34,"brachyurus","Buteo","Short-tailed Hawk",LC,U,-16731116
+39,33,"albigula","Buteo","White-throated Hawk",LC,U,-16731116
+40,32,"solitarius","Buteo","Hawaiian Hawk",NT,U,-12486656
+41,13,"jamaicensis","Buteo","Red-tailed Hawk",LC,U,-16731116
+42,12,"platypterus","Buteo","Broad-winged Hawk",LC,U,-16731116
+44,43,"lineatus","Buteo","Red-shouldered Hawk",LC,U,-16731116
+45,43,"ridgwayi","Buteo","Ridgway's Hawk",CR,U,-3014646
+46,10,"auguralis","Buteo","Red-necked Buzzard",LC,U,-16731116
+50,49,"melanops","Leucopternis","Black-faced Hawk",LC,U,-16731116
+51,49,"kuhli","Leucopternis","White-browed Hawk",LC,U,-16731116
+52,48,"semiplumbeus","Leucopternis","Semiplumbeous Hawk",LC,U,-16731116
+54,53,"brachypterus","Buteo","Madagascar Buzzard",LC,U,-16731116
+55,53,"nitidus","Buteo","Grey Hawk",LC,U,-16731116
+56,8,"archeri","Buteo","Archer's Buzzard",_U,[,-16777216
+61,60,"polionotus","Leucopternis","Mantled Hawk",NT,U,-12486656
+62,60,"albicollis","Leucopternis","White Hawk",LC,U,-16731116
+63,59,"occidentalis","Leucopternis","Grey-backed Hawk",EN,U,-8572416
+64,58,"ventralis","Buteo","Rufous-tailed Hawk",NT,U,-12486656
+67,66,"melanoleucus","Geranoaetus","Black-chested Buzzard-eagle",LC,U,-16731116
+68,66,"polyosoma","Buteo","Red-backed Hawk",LC,U,-16731116
+69,65,"albicaudatus","Buteo","White-tailed Hawk",LC,U,-16731116
+72,71,"leucorrhous","Buteo","White-rumped Hawk",LC,U,-16731116
+73,71,"unicinctus","Parabuteo","Harris's Hawk",LC,U,-16731116
+74,70,"magnirostris","Buteo","Roadside Hawk",LC,U,-16731116
+75,5,"princeps","Leucopternis","Barred Hawk",LC,U,-16731116
+81,80,"aequinoctialis","Buteogallus","Rufous Crab-hawk",LC,U,-16731116
+82,80,"anthracinus","Buteogallus","Common Black-hawk",LC,U,-16731116
+83,79,"schistaceus","Leucopternis","Slate-coloured Hawk",LC,U,-16731116
+84,78,"lacernulatus","Leucopternis","White-necked Hawk",VU,U,-11184866
+88,87,"solitarius","Harpyhaliaetus","Solitary Eagle",NT,U,-12486656
+89,87,"coronatus","Harpyhaliaetus","Crowned Eagle",EN,U,-8572416
+90,86,"urubitinga","Buteogallus","Great Black-hawk",LC,U,-16731116
+91,85,"meridionalis","Buteogallus","Savanna Hawk",LC,U,-16731116
+93,92,"gundlachii","Buteogallus","Cuban Black Hawk",NT,U,-12486656
+94,92,"plumbeus","Leucopternis","Plumbeous Hawk",NT,U,-12486656
+97,96,"hamatus","Helicolestes","Slender-billed Kite",LC,U,-16731116
+98,96,"sociabilis","Rostrhamus","Snail Kite",LC,U,-16731116
+100,99,"mississippiensis","Ictinia","Mississippi Kite",LC,U,-16731116
+101,99,"plumbea","Ictinia","Plumbeous Kite",LC,U,-16731116
+102,2,"nigricollis","Busarellus","Black-collared Hawk",LC,U,-16731116
+103,1,"caerulescens","Geranospiza","Crane Hawk",LC,U,-16731116
+106,105,"liventer","Butastur","Rufous-winged Buzzard",LC,U,-16731116
+107,105,"rufipennis","Butastur","Grasshopper Buzzard",LC,U,-16731116
+109,108,"indicus","Butastur","Grey-faced Buzzard",LC,U,-16731116
+110,108,"teesa","Butastur","White-eyed Buzzard",LC,U,-16731116

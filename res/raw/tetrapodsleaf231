@@ -1,81 +1,39 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"typus","Otomys","Typical Vlei Rat",LC,D,-16731116
-15,13,"orestes","Otomys","",NE,U,-16777216
-17,16,"dartmouthi","Otomys","",NE,U,-16777216
-18,16,"jacksoni","Otomys","",NE,U,-16777216
-19,11,"uzungwensis","Otomys","",NE,U,-16777216
-20,10,"sloggetti","Myotomys","",NE,U,-16777216
-22,21,"irroratus","Otomys","Southern African Vlei Rat",LC,S,-16731116
-23,21,"angoniensis","Otomys","Angoni Vlei Rat",LC,S,-16731116
-24,8,"laminatus","Otomys","Laminate Vlei Rat",LC,S,-16731116
-29,28,"cuanzensis","Otomys","Cuanza Vlei Rat",LC,S,-16731116
-30,28,"maximus","Otomys","",NE,U,-16777216
-31,27,"occidentalis","Otomys","Western Vlei Rat",VU,D,-11184866
-32,26,"denti","Otomys","Dent's Vlei Rat",LC,D,-16731116
-35,34,"burtoni","Otomys","Burton's Vlei Rat",EN,D,-8572416
-36,34,"dollmani","Otomys","",NE,U,-16777216
-37,33,"tropicalis","Otomys","Tropical Vlei Rat",LC,S,-16731116
-42,41,"barbouri","Otomys","Barbour's Vlei Rat",EN,D,-8572416
-43,41,"anchietae","Otomys","Angolan Vlei Rat",LC,U,-16731116
-44,40,"lacustris","Otomys","Tanzanian Vlei Rat",VU,D,-11184866
-45,39,"unisulcatus","Myotomys","",NE,U,-16777216
-46,38,"saundersiae","Otomys","Saunder's Vlei Rat",LC,U,-16731116
-48,47,"littledalei","Parotomys","Littledale's Whistling Rat",LC,S,-16731116
-49,47,"brantsii","Parotomys","Brants's Whistling Rat",LC,S,-16731116
-50,4,"legata","Diplothrix","Ryukyus Islands Tree Rat",EN,D,-8572416
-57,56,"celebensis","Crunomys","Sulawesi Shrew Mouse",DD,D,-11513776
-58,56,"melanius","Crunomys","Mindanao Shrew Mouse",VU,D,-11184866
-59,55,"fallax","Crunomys","Luzon Shrew Mouse",DD,U,-11513776
-60,54,"luzonensis","Archboldomys","Isarog Shrew Mouse",VU,S,-11184866
-64,63,"mindorensis","Chrotomys","Lowland Chrotomys",NT,D,-12486656
-65,63,"whiteheadi","Chrotomys","Montane Chrotomys",LC,U,-16731116
-66,62,"gonzalesi","Chrotomys","Isarog Chrotomys",NT,D,-12486656
-67,61,"silaceus","Chrotomys","Blazed Luzon Chrotomys",LC,U,-16731116
-69,68,"soricoides","Rhynchomys","Northern Luzon Rhynchomys",NT,D,-12486656
-70,68,"isarogensis","Rhynchomys","Isarog Rhynchomys",VU,S,-11184866
-77,76,"abrae","Apomys","Luzon Cordillera Apomys",DD,U,-11513776
-78,76,"microdon","Apomys","Small Luzon Apomys",LC,U,-16731116
-79,75,"insignis","Apomys","Mindanao Montane Forest Apomys",NT,D,-12486656
-80,74,"sacobianus","Apomys","Long-nosed Luzon Apomys",DD,U,-11513776
-81,73,"datae","Apomys","Northern Luzon Apomys",LC,U,-16731116
-83,82,"hylocetes","Apomys","Mindanao Mossy Forest Apomys",LC,S,-16731116
-84,82,"musculus","Apomys","Least Philippine Apomys",LC,S,-16731116
-85,71,"littoralis","Apomys","Mindanao Lowland Apomys",DD,U,-11513776
-90,89,"schadenbergi","Crateromys","Luzon Crateromys",EN,D,-8572416
-91,89,"australis","Crateromys","Dinagat Crateromys",CR,U,-3014646
-92,88,"paulus","Crateromys","Ilin Crateromys",DD,U,-11513776
-94,93,"melanurus","Carpomys","Large Luzon Carpomys",DD,U,-11513776
-95,93,"phaeurus","Carpomys","Small Luzon Carpomys",LC,U,-16731116
-98,97,"dentatus","Batomys","Large-toothed Batomys",DD,U,-11513776
-99,97,"salomonseni","Batomys","Mindanao Batomys",LC,S,-16731116
-100,96,"granti","Batomys","Luzon Batomys",NT,D,-12486656
-108,107,"ruppi","Stenocephalemys","Rupp's Mouse",DD,U,-11513776
-109,107,"yemeni","Myomyscus","Yemeni Mouse",LC,U,-16731116
-110,106,"verreauxii","Myomyscus","Verreaux's Mouse",LC,S,-16731116
-111,105,"albipes","Stenocephalemys","Ethiopian White-footed Mouse",LC,S,-16731116
-114,113,"brockmani","Myomyscus","Brockman's Myomyscus",LC,S,-16731116
-115,113,"daltoni","Praomys","Dalton's Mouse",LC,S,-16731116
-116,112,"derooi","Praomys","Deroo's Mouse",LC,S,-16731116
-118,117,"griseicauda","Stenocephalemys","Gray-tailed Narrow-headed Rat",LC,D,-16731116
-119,117,"albocaudata","Stenocephalemys","Ethiopian Narrow-headed Rat",LC,S,-16731116
-125,124,"verschureni","Praomys","Verschuren's Swamp Rat",DD,U,-11513776
-126,124,"lukolelae","Praomys","Lukolela Swamp Rat",LC,U,-16731116
-127,123,"longipes","Malacomys","Big-eared Swamp Rat",LC,U,-16731116
-128,122,"cansdalei","Malacomys","Cansdale's Swamp Rat",LC,U,-16731116
-129,121,"edwardsi","Malacomys","Edward's Swamp Rat",LC,U,-16731116
-130,120,"crumpi","Diomys","Crump's Mouse",DD,U,-11513776
-137,136,"taerae","Taeromys","Northeastern Mountain Taeromys",DD,U,-11513776
-138,136,"punicans","Taeromys","Reddish-furred Taeromys",DD,U,-11513776
-139,135,"celebensis","Taeromys","Long-tailed Taeromys",LC,D,-16731116
-140,134,"arcuatus","Taeromys","Southeastern Mountain Taeromys",DD,S,-11513776
-141,133,"hamatus","Taeromys","Central Mountain Taeromys",DD,U,-11513776
-143,142,"microbullatus","Taeromys","Small-eared Taeromys",DD,U,-11513776
-144,142,"callitrichus","Taeromys","Greater Taeromys",DD,U,-11513776
-149,148,"siporanus","Leopoldamys","Mentawai Archipelago Leopoldamys",EN,D,-8572416
-150,148,"neilli","Leopoldamys","Neill's Leopoldamys",DD,U,-11513776
-151,147,"sabanus","Leopoldamys","Long-tailed Giant Rat",LC,S,-16731116
-154,153,"ciliatus","Leopoldamys","Sundaic Mountain Leopoldamys",LC,D,-16731116
-155,153,"edwardsi","Leopoldamys","Edward's Rat",LC,U,-16731116
-156,152,"milleti","Leopoldamys","Millet's Leopoldamys",LC,S,-16731116
-157,145,"dominator","Paruromys","Giant Sulawesi Rat",LC,S,-16731116
-158,0,"chiropus","Chiromyscus","Indochinese Chiromyscus",LC,S,-16731116
+13,12,"oustaleti","Cinclodes","Grey-flanked Cinclodes",LC,U,-16731116
+14,12,"olrogi","Cinclodes","Olrog's Cinclodes",LC,U,-16731116
+15,11,"comechingonus","Cinclodes","Cordoba Cinclodes",LC,U,-16731116
+16,10,"albidiventris","Cinclodes","Chestnut-winged Cinclodes",LC,U,-16731116
+18,17,"antarcticus","Cinclodes","Blackish Cinclodes",LC,U,-16731116
+19,17,"fuscus","Cinclodes","Buff-winged Cinclodes",LC,U,-16731116
+20,8,"excelsior","Cinclodes","Stout-billed Cinclodes",LC,U,-16731116
+25,24,"nigrofumosus","Cinclodes","Seaside Cinclodes",LC,U,-16731116
+26,24,"taczanowskii","Cinclodes","Surf Cinclodes",LC,U,-16731116
+27,23,"patagonicus","Cinclodes","Dark-bellied Cinclodes",LC,U,-16731116
+29,28,"atacamensis","Cinclodes","White-winged Cinclodes",LC,U,-16731116
+30,28,"palliatus","Cinclodes","White-bellied Cinclodes",CR,U,-3014646
+31,21,"aricomae","Cinclodes","Royal Cinclodes",CR,U,-3014646
+32,6,"pabsti","Cinclodes","Long-tailed Cinclodes",NT,U,-12486656
+33,5,"albiventris","Cinclodes","Cream-winged Cinclodes",LC,U,-16731116
+36,35,"validirostris","Upucerthia","Buff-breasted Earthcreeper",LC,U,-16731116
+37,35,"jelskii","Upucerthia","Plain-breasted Earthcreeper",LC,U,-16731116
+39,38,"dumetaria","Upucerthia","Scale-throated Earthcreeper",LC,U,-16731116
+40,38,"albigula","Upucerthia","White-throated Earthcreeper",LC,U,-16731116
+42,41,"saturatior","Upucerthia","Patagonian Forest Earthcreeper",LC,U,-16731116
+43,41,"serrana","Upucerthia","Striated Earthcreeper",LC,U,-16731116
+46,45,"curvirostris","Limnornis","Curve-billed Reedhaunter",LC,U,-16731116
+47,45,"melanops","Phleocryptes","Wren-like Rushbird",LC,U,-16731116
+48,44,"nematura","Lochmias","Sharp-tailed Streamcreeper",LC,U,-16731116
+54,53,"cinnamomeus","Furnarius","Pacific Hornero",_U,[,-16777216
+55,53,"rufus","Furnarius","Rufous Hornero",LC,U,-16731116
+56,52,"cristatus","Furnarius","Crested Hornero",LC,U,-16731116
+57,51,"torridus","Furnarius","Pale-billed Hornero",LC,U,-16731116
+58,50,"minor","Furnarius","Lesser Hornero",LC,U,-16731116
+61,60,"leucopus","Furnarius","Pale-legged Hornero",LC,U,-16731116
+62,60,"longirostris","Furnarius","Caribbean Hornero",_U,[,-16777216
+63,59,"figulus","Furnarius","Wing-banded Hornero",LC,U,-16731116
+67,66,"boissonneautii","Pseudocolaptes","Streaked Tuftedcheek",LC,U,-16731116
+68,66,"johnsoni","Pseudocolaptes","Pacific Tuftedcheek",_U,[,-16777216
+69,65,"lawrencii","Pseudocolaptes","Buffy Tuftedcheek",LC,U,-16731116
+72,71,"harterti","Tarphonomus","Bolivian Earthcreeper",LC,U,-16731116
+73,71,"certhioides","Tarphonomus","Chaco Earthcreeper",LC,U,-16731116
+74,70,"guttuligera","Premnornis","Rusty-winged Barbtail",LC,U,-16731116

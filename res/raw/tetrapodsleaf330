@@ -1,63 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"albomaculata","Cochranella","",LC,S,-16731116
-10,8,"ocellata","Cochranella","",NT,D,-12486656
-12,11,"posadae","Cochranella","",NE,U,-16777216
-13,11,"rosada","Cochranella","",NE,U,-16777216
-17,16,"bejaranoi","Cochranella","",NE,U,-16777216
-18,16,"ruizi","Cochranella","",NE,U,-16777216
-19,15,"luminosa","Cochranella","",NE,U,-16777216
-20,14,"vozmedianoi","Cochranella","",DD,U,-11513776
-24,23,"adiazeta","Cochranella","",VU,D,-11184866
-25,23,"ignota","Cochranella","",NE,U,-16777216
-26,22,"prasina","Cochranella","",NE,U,-16777216
-27,21,"chami","Cochranella","",NE,U,-16777216
-29,28,"cariticommata","Cochranella","",NE,U,-16777216
-30,28,"cochranae","Cochranella","",NE,U,-16777216
-37,36,"garciae","Cochranella","",NE,U,-16777216
-38,36,"chancas","Cochranella","",NE,U,-16777216
-39,35,"megacheira","Cochranella","",NE,U,-16777216
-41,40,"puyoensis","Cochranella","Puyo Giant Glass Frog",EN,U,-8572416
-42,40,"ametarsia","Cochranella","",NE,U,-16777216
-43,33,"pluvialis","Cochranella","",NE,U,-16777216
-44,32,"phenax","Cochranella","",NE,U,-16777216
-48,47,"cristinae","Cochranella","",NE,U,-16777216
-49,47,"nola","Cochranella","",NT,D,-12486656
-50,46,"adenocheira","Cochranella","",DD,U,-11513776
-53,52,"griffithsi","Cochranella","",NE,U,-16777216
-54,52,"truebae","Cochranella","",NE,U,-16777216
-55,51,"anomala","Cochranella","",NE,U,-16777216
-59,58,"oreonympha","Cochranella","",NE,U,-16777216
-60,58,"armata","Cochranella","",NE,U,-16777216
-61,57,"siren","Cochranella","",NE,U,-16777216
-62,56,"spilota","Cochranella","",NE,U,-16777216
-73,72,"oyampiensis","Cochranella","",LC,S,-16731116
-74,72,"riveroi","Cochranella","",VU,S,-11184866
-75,71,"spinosa","Cochranella","",LC,D,-16731116
-76,70,"flavopunctata","Cochranella","",LC,D,-16731116
-78,77,"susatamai","Cochranella","",VU,D,-11184866
-79,77,"euhystrix","Cochranella","",DD,U,-11513776
-82,81,"saxiscandens","Cochranella","",EN,D,-8572416
-83,81,"midas","Cochranella","",LC,S,-16731116
-84,80,"geijskesi","Cochranella","",DD,U,-11513776
-85,67,"nephelophila","Cochranella","",NE,U,-16777216
-86,66,"orejuela","Cochranella","",DD,U,-11513776
-87,65,"ocellifera","Cochranella","",NE,U,-16777216
-91,90,"duidaeana","Cochranella","",DD,U,-11513776
-92,90,"revocata","Cochranella","",VU,D,-11184866
-93,89,"megistra","Cochranella","",NT,S,-12486656
-94,88,"tangarana","Cochranella","",DD,U,-11513776
-98,97,"spiculata","Cochranella","",NT,D,-12486656
-99,97,"ritae","Cochranella","",DD,U,-11513776
-100,96,"punctulata","Cochranella","",VU,D,-11184866
-101,95,"xanthocheridia","Cochranella","",VU,D,-11184866
-107,106,"ramirezi","Cochranella","",DD,U,-11513776
-108,106,"savagei","Cochranella","",VU,D,-11184866
-109,105,"solitaria","Cochranella","",DD,U,-11513776
-110,104,"resplendens","Cochranella","",LC,U,-16731116
-112,111,"euknemos","Cochranella","",LC,D,-16731116
-113,111,"mache","Cochranella","",EN,U,-8572416
-117,116,"castroviejoi","Cochranella","",DD,U,-11513776
-118,116,"daidalea","Cochranella","",VU,D,-11184866
-120,119,"croceopodes","Cochranella","",DD,U,-11513776
-121,119,"granulosa","Cochranella","",LC,U,-16731116
-122,114,"luteopunctata","Cochranella","",NE,U,-16777216
+11,10,"prevostii","Anthracothorax","Green-breasted Mango",LC,U,-16731116
+12,10,"veraguensis","Anthracothorax","Veraguan Mango",LC,U,-16731116
+13,9,"viridigula","Anthracothorax","Green-throated Mango",LC,U,-16731116
+14,8,"nigricollis","Anthracothorax","Black-throated Mango",LC,U,-16731116
+15,7,"mango","Anthracothorax","Jamaican Mango",LC,U,-16731116
+18,17,"holosericeus","Eulampis","Green-throated Carib",LC,U,-16731116
+19,17,"jugularis","Eulampis","Purple-throated Carib",LC,U,-16731116
+20,16,"viridis","Anthracothorax","Green Mango",LC,U,-16731116
+21,5,"dominicus","Anthracothorax","Antillean Mango",LC,U,-16731116
+22,4,"mosquitus","Chrysolampis","Ruby-topaz Hummingbird",LC,U,-16731116
+23,3,"recurvirostris","Avocettula","Fiery-tailed Awlbill",LC,U,-16731116
+27,26,"guainumbi","Polytmus","White-tailed Goldenthroat",LC,U,-16731116
+28,26,"milleri","Polytmus","Tepui Goldenthroat",LC,U,-16731116
+29,25,"theresiae","Polytmus","Green-tailed Goldenthroat",LC,U,-16731116
+31,30,"lumachella","Augastes","Hooded Visorbearer",NT,U,-12486656
+32,30,"scutatus","Augastes","Hyacinth Visorbearer",NT,U,-12486656
+37,36,"pulcher","Calothorax","Beautiful Hummingbird",LC,U,-16731116
+38,36,"lucifer","Calothorax","Lucifer Hummingbird",LC,U,-16731116
+39,35,"bilophus","Heliactin","Horned Sungem",LC,U,-16731116
+41,40,"barroti","Heliothryx","Purple-crowned Fairy",LC,U,-16731116
+42,40,"auritus","Heliothryx","Black-eared Fairy",LC,U,-16731116
+43,33,"aequatorialis","Androdon","Tooth-billed Hummingbird",LC,U,-16731116
+49,48,"thalassinus","Colibri","Green Violet-ear",LC,U,-16731116
+50,48,"delphinae","Colibri","Brown Violet-ear",LC,U,-16731116
+51,47,"coruscans","Colibri","Sparkling Violet-ear",LC,U,-16731116
+52,46,"serrirostris","Colibri","White-vented Violet-ear",LC,U,-16731116
+53,45,"geoffroyi","Schistes","Wedge-billed Hummingbird",LC,U,-16731116
+55,54,"ludovicae","Doryfera","Green-fronted Lancebill",LC,U,-16731116
+56,54,"johannae","Doryfera","Blue-fronted Lancebill",LC,U,-16731116

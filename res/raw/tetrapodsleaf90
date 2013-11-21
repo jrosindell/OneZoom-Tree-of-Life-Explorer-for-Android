@@ -1,46 +1,52 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"rubricollis","Drymophila","Bertoni's Antbird",LC,U,-16731116
-8,6,"caudata","Drymophila","Long-tailed Antbird",LC,U,-16731116
-10,9,"ferruginea","Drymophila","Ferruginous Antbird",LC,U,-16731116
-11,9,"devillei","Drymophila","Striated Antbird",LC,U,-16731116
-15,14,"ochropyga","Drymophila","Ochre-rumped Antbird",NT,U,-12486656
-16,14,"malura","Drymophila","Dusky-tailed Antbird",LC,U,-16731116
-17,13,"genei","Drymophila","Rufous-tailed Antbird",NT,U,-12486656
-18,12,"squamata","Drymophila","Scaled Antbird",LC,U,-16731116
-25,24,"ochrogyna","Hypocnemis","Rondonia Warbling-antbird",LC,U,-16731116
-26,24,"cantator","Hypocnemis","Guianan Warbling-antbird",LC,U,-16731116
-27,23,"flavescens","Hypocnemis","Imeri Warbling-antbird",LC,U,-16731116
-28,22,"striata","Hypocnemis","Spix's Warbling-antbird",LC,U,-16731116
-29,21,"subflava","Hypocnemis","Yellow-breasted Warbling-antbird",LC,U,-16731116
-30,20,"peruviana","Hypocnemis","Peruvian Warbling-antbird",LC,U,-16731116
-31,19,"hypoxantha","Hypocnemis","Yellow-browed Antbird",LC,U,-16731116
-38,37,"carbonaria","Cercomacra","Rio Branco Antbird",NT,U,-12486656
-39,37,"cinerascens","Cercomacra","Grey Antbird",LC,U,-16731116
-40,36,"nigricans","Cercomacra","Jet Antbird",LC,U,-16731116
-42,41,"melanaria","Cercomacra","Mato Grosso Antbird",LC,U,-16731116
-43,41,"ferdinandi","Cercomacra","Bananal Antbird",VU,U,-11184866
-44,34,"brasiliana","Cercomacra","Rio de Janeiro Antbird",NT,U,-12486656
-45,33,"manu","Cercomacra","Manu Antbird",LC,U,-16731116
-50,49,"tyrannina","Cercomacra","Dusky Antbird",LC,U,-16731116
-51,49,"serva","Cercomacra","Black Antbird",LC,U,-16731116
-52,48,"nigrescens","Cercomacra","Blackish Antbird",LC,U,-16731116
-53,47,"parkeri","Cercomacra","Parker's Antbird",LC,U,-16731116
-54,46,"laeta","Cercomacra","Laeta Antbird",LC,U,-16731116
-56,55,"hemimelaena","Myrmeciza","Chestnut-tailed Antbird",LC,U,-16731116
-57,55,"castanea","Myrmeciza","Zimmer's Antbird",LC,U,-16731116
-65,64,"melanosticta","Rhegmatorhina","Hairy-crested Antbird",LC,U,-16731116
-66,64,"berlepschi","Rhegmatorhina","Harlequin Antbird",LC,U,-16731116
-67,63,"cristata","Rhegmatorhina","Chestnut-crested Antbird",LC,U,-16731116
-69,68,"hoffmannsi","Rhegmatorhina","White-breasted Antbird",LC,U,-16731116
-70,68,"gymnops","Rhegmatorhina","Bare-eyed Antbird",LC,U,-16731116
-73,72,"rufigula","Gymnopithys","Rufous-throated Antbird",LC,U,-16731116
-74,72,"leucaspis","Gymnopithys","Bicoloured Antbird",LC,U,-16731116
-76,75,"salvini","Gymnopithys","White-throated Antbird",LC,U,-16731116
-77,75,"lunulatus","Gymnopithys","Lunulated Antbird",LC,U,-16731116
-80,79,"nigromaculata","Phlegopsis","Black-spotted Bare-eye",LC,U,-16731116
-81,79,"borbae","Skutchia","Pale-faced Antbird",LC,U,-16731116
-82,78,"erythroptera","Phlegopsis","Reddish-winged Bare-eye",LC,U,-16731116
-83,59,"poecilinotus","Willisornis","Scale-backed Antbird",LC,U,-16731116
-86,85,"castaneus","Pithys","White-masked Antbird",NT,U,-12486656
-87,85,"albifrons","Pithys","White-plumed Antbird",LC,U,-16731116
-88,84,"mcleannani","Phaenostictus","Ocellated Antbird",LC,U,-16731116
+13,12,"tellinii","Ptychadena","Central Grassland Frog",LC,S,-16731116
+14,12,"guibei","Ptychadena","",LC,S,-16731116
+15,11,"newtoni","Ptychadena","",EN,D,-8572416
+16,10,"perreti","Ptychadena","",LC,S,-16731116
+17,9,"nana","Ptychadena","",DD,U,-11513776
+20,19,"taenioscelis","Ptychadena","Dwarf Grass Frog",LC,S,-16731116
+21,19,"superciliaris","Ptychadena","",NT,D,-12486656
+22,18,"pumilio","Ptychadena","",LC,S,-16731116
+27,26,"trinodis","Ptychadena","Dakar Grassland Frog",LC,S,-16731116
+28,26,"bunoderma","Ptychadena","Rough Ridged Frog",LC,S,-16731116
+29,25,"upembae","Ptychadena","",LC,S,-16731116
+31,30,"chrysogaster","Ptychadena","",LC,S,-16731116
+32,30,"cooperi","Ptychadena","",LC,S,-16731116
+33,23,"ingeri","Ptychadena","",DD,U,-11513776
+39,38,"submascareniensis","Ptychadena","",DD,U,-11513776
+40,38,"erlangeri","Ptychadena","",NT,D,-12486656
+41,37,"wadei","Ptychadena","",DD,U,-11513776
+43,42,"anchietae","Ptychadena","Anchieta's Ridged Frog",LC,S,-16731116
+44,42,"obscura","Ptychadena","",LC,S,-16731116
+45,35,"neumanni","Ptychadena","",LC,D,-16731116
+46,34,"christyi","Ptychadena","",DD,D,-11513776
+48,47,"straeleni","Ptychadena","",LC,S,-16731116
+49,47,"mahnerti","Ptychadena","",LC,S,-16731116
+52,51,"ansorgii","Ptychadena","Ansorge's Ridged Frog",LC,S,-16731116
+53,51,"subpunctata","Ptychadena","",LC,S,-16731116
+54,50,"tournieri","Ptychadena","",LC,S,-16731116
+55,3,"stenocephala","Ptychadena","",LC,U,-16731116
+64,63,"mossambica","Ptychadena","Mozambique Ridged Frog",LC,S,-16731116
+65,63,"schillukorum","Ptychadena","Schilluk Ridged Frog",LC,S,-16731116
+66,62,"longirostris","Ptychadena","",LC,D,-16731116
+69,68,"porosissima","Ptychadena","",LC,S,-16731116
+70,68,"harenna","Ptychadena","",DD,U,-11513776
+71,67,"filwoha","Ptychadena","",DD,U,-11513776
+74,73,"uzungwensis","Ptychadena","",LC,U,-16731116
+75,73,"gansi","Ptychadena","",LC,S,-16731116
+77,76,"mapacha","Ptychadena","",DD,U,-11513776
+78,76,"arnei","Ptychadena","",DD,U,-11513776
+80,79,"oxyrhynchus","Ptychadena","",LC,S,-16731116
+81,79,"pujoli","Ptychadena","",DD,U,-11513776
+84,83,"mascareniensis","Ptychadena","Mascarene Grass Frog",LC,S,-16731116
+85,83,"perplicata","Ptychadena","",LC,U,-16731116
+86,82,"keilingi","Ptychadena","",LC,S,-16731116
+90,89,"broadleyi","Ptychadena","Broadley's Ridged Frog",EN,D,-8572416
+91,89,"grandisonae","Ptychadena","",LC,S,-16731116
+92,88,"retropunctata","Ptychadena","",DD,U,-11513776
+93,87,"bibroni","Ptychadena","Broad-banded Grass Frog",LC,S,-16731116
+94,56,"aequiplicata","Ptychadena","Victoria Grassland Frog",LC,S,-16731116
+97,96,"macrotympanum","Hildebrandtia","",LC,U,-16731116
+98,96,"ornatissima","Hildebrandtia","",DD,U,-11513776
+99,95,"ornata","Hildebrandtia","African Ornate Frog",LC,S,-16731116
+100,0,"largeni","Lanzarana","",NT,U,-12486656

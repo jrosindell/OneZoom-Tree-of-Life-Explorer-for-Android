@@ -1,35 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"raggiana","Paradisaea","Raggiana Bird-of-paradise",LC,U,-16731116
-12,10,"apoda","Paradisaea","Greater Bird-of-paradise",LC,U,-16731116
-13,9,"minor","Paradisaea","Lesser Bird-of-paradise",LC,U,-16731116
-15,14,"decora","Paradisaea","Goldie's Bird-of-paradise",NT,U,-12486656
-16,14,"rubra","Paradisaea","Red Bird-of-paradise",NT,U,-12486656
-17,7,"guilielmi","Paradisaea","Emperor Bird-of-paradise",NT,U,-12486656
-18,6,"rudolphi","Paradisaea","Blue Bird-of-paradise",VU,U,-11184866
-21,20,"magnificus","Cicinnurus","Magnificent Bird-of-paradise",LC,U,-16731116
-22,20,"respublica","Cicinnurus","Wilson's Bird-of-paradise",NT,U,-12486656
-23,19,"regius","Cicinnurus","King Bird-of-paradise",LC,U,-16731116
-29,28,"stephaniae","Astrapia","Stephanie's Astrapia",LC,U,-16731116
-30,28,"mayeri","Astrapia","Ribbon-tailed Astrapia",NT,U,-12486656
-31,27,"rothschildi","Astrapia","Huon Astrapia",LC,U,-16731116
-33,32,"splendidissima","Astrapia","Splendid Astrapia",LC,U,-16731116
-34,32,"nigra","Astrapia","Arfak Astrapia",LC,U,-16731116
-36,35,"carunculata","Paradigalla","Long-tailed Paradigalla",NT,U,-12486656
-37,35,"brevicauda","Paradigalla","Short-tailed Paradigalla",LC,U,-16731116
-39,38,"fastuosus","Epimachus","Black Sicklebill",VU,U,-11184866
-40,38,"meyeri","Epimachus","Brown Sicklebill",LC,U,-16731116
-42,41,"albertisi","Epimachus","Black-billed Sicklebill",LC,U,-16731116
-43,41,"bruijnii","Epimachus","Pale-billed Sicklebill",NT,U,-12486656
-44,2,"melanoleucus","Seleucidis","Twelve-wired Bird-of-paradise",LC,U,-16731116
-49,48,"magnificus","Ptiloris","Magnificent Riflebird",LC,U,-16731116
-50,48,"intercedens","Ptiloris","Eastern Riflebird",LC,U,-16731116
-51,47,"superba","Lophorina","Superb Bird-of-paradise",LC,U,-16731116
-53,52,"victoriae","Ptiloris","Victoria's Riflebird",LC,U,-16731116
-54,52,"paradiseus","Ptiloris","Paradise Riflebird",LC,U,-16731116
-55,45,"wallacii","Semioptera","Standardwing",LC,U,-16731116
-60,59,"sefilata","Parotia","Western Parotia",LC,U,-16731116
-61,59,"wahnesi","Parotia","Wahnes's Parotia",VU,U,-11184866
-63,62,"lawesii","Parotia","Lawes's Parotia",LC,U,-16731116
-64,62,"helenae","Parotia","Eastern Parotia",LC,U,-16731116
-65,57,"carolae","Parotia","Carola's Parotia",LC,U,-16731116
-66,56,"alberti","Pteridophora","King-of-Saxony Bird-of-paradise",LC,U,-16731116
+10,9,"wushanensis","Xenophrys","Wushan Horned Toad",LC,D,-16731116
+11,9,"daweimontis","Xenophrys","",DD,U,-11513776
+12,8,"pachyproctus","Xenophrys","Convex-vented Horned Toad",DD,U,-11513776
+13,7,"omeimontis","Xenophrys","Omei Horned Toad",NT,D,-12486656
+15,14,"spinata","Xenophrys","Spiny-fingered Horned Toad",LC,D,-16731116
+16,14,"huangshanensis","Xenophrys","",DD,U,-11513776
+18,17,"brachykolos","Xenophrys","Short-legged Horned Toad",EN,D,-8572416
+19,17,"minor","Xenophrys","Little Horned Toad",LC,D,-16731116
+23,22,"boettgeri","Xenophrys","Pale-shouldered Horned Toad",LC,D,-16731116
+24,22,"baluensis","Xenophrys","Kinabalu Horned Frog",NT,S,-12486656
+25,21,"wuliangshanensis","Xenophrys","Wuliangshan Horned Toad",DD,U,-11513776
+27,26,"shuichengensis","Xenophrys","",DD,U,-11513776
+28,26,"parallela","Xenophrys","",DD,U,-11513776
+32,31,"jingdongensis","Xenophrys","Jingdong Horned Toad",LC,D,-16731116
+33,31,"parva","Xenophrys","Concave-crowned Horned Toad",LC,D,-16731116
+34,30,"caudoprocta","Xenophrys","Convex-tailed Horned Toad",DD,U,-11513776
+35,29,"wawuensis","Xenophrys","",DD,U,-11513776
+38,37,"palpebralespinosa","Xenophrys","Rough-skinned Horned Toad",LC,U,-16731116
+39,37,"mangshanensis","Xenophrys","Mangshan Horned Toad",NT,D,-12486656
+41,40,"nankiangensis","Xenophrys","Nankiang Horned Toad",VU,D,-11184866
+42,40,"major","Xenophrys","Glandular Horned Toad",LC,D,-16731116
+46,45,"medogensis","Xenophrys","Medog Horned Toad",DD,U,-11513776
+47,45,"robusta","Xenophrys","",DD,U,-11513776
+49,48,"auralensis","Xenophrys","",DD,U,-11513776
+50,48,"glandulosa","Xenophrys","",LC,D,-16731116
+52,51,"zhangi","Xenophrys","Zhang's Horned Toad",DD,U,-11513776
+53,51,"longipes","Xenophrys","",NT,D,-12486656
+56,55,"kuatunensis","Xenophrys","Kuatun Horned Toad",LC,D,-16731116
+57,55,"aceras","Xenophrys","",LC,D,-16731116
+59,58,"dringi","Xenophrys","Dring's Horned Frog",NT,S,-12486656
+60,58,"kempii","Xenophrys","",NE,U,-16777216

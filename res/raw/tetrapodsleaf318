@@ -1,86 +1,102 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"lozanoi","Atelopus","",CR,D,-3014646
-15,13,"certus","Atelopus","",EN,D,-8572416
-16,12,"sanjosei","Atelopus","",DD,U,-11513776
-17,11,"arsyecue","Atelopus","",CR,D,-3014646
-20,19,"sonsonensis","Atelopus","",CR,U,-3014646
-21,19,"flavescens","Atelopus","",VU,S,-11184866
-22,18,"pictiventris","Atelopus","",CR,U,-3014646
-24,23,"longibrachius","Atelopus","",EN,D,-8572416
-25,23,"franciscus","Atelopus","",VU,S,-11184866
-28,27,"carbonerensis","Atelopus","Venezuelan Yellow Frog",CR,D,-3014646
-29,27,"exiguus","Atelopus","",CR,D,-3014646
-30,26,"lynchi","Atelopus","",CR,D,-3014646
-33,32,"petriruizi","Atelopus","",CR,U,-3014646
-34,32,"ebenoides","Atelopus","",CR,D,-3014646
-35,31,"mucubajiensis","Atelopus","",CR,D,-3014646
-42,41,"zeteki","Atelopus","Golden Arrow Poison Frog",CR,D,-3014646
-43,41,"andinus","Atelopus","",CR,D,-3014646
-44,40,"guanujo","Atelopus","",CR,D,-3014646
-46,45,"pulcher","Atelopus","",CR,D,-3014646
-47,45,"farci","Atelopus","",CR,D,-3014646
-48,38,"reticulatus","Atelopus","",CR,D,-3014646
-50,49,"monohernandezii","Atelopus","",CR,D,-3014646
-51,49,"dimorphus","Atelopus","",EN,D,-8572416
-56,55,"chrysocorallus","Atelopus","",CR,D,-3014646
-57,55,"senex","Atelopus","",CR,D,-3014646
-58,54,"peruensis","Atelopus","",CR,U,-3014646
-59,53,"pedimarmoratus","Atelopus","",CR,U,-3014646
-61,60,"oxyrhynchus","Atelopus","",CR,D,-3014646
-62,60,"pachydermus","Atelopus","",CR,D,-3014646
-63,5,"palmatus","Atelopus","",DD,U,-11513776
-69,68,"laetissimus","Atelopus","",CR,D,-3014646
-70,68,"seminiferus","Atelopus","",CR,D,-3014646
-72,71,"galactogaster","Atelopus","",CR,U,-3014646
-73,71,"nanay","Atelopus","",CR,D,-3014646
-75,74,"cruciger","Atelopus","Rancho Grande Harlequin Frog",CR,D,-3014646
-76,74,"coynei","Atelopus","",CR,D,-3014646
-78,77,"eusebianus","Atelopus","",CR,D,-3014646
-79,77,"nahumae","Atelopus","",CR,U,-3014646
-83,82,"carrikeri","Atelopus","",CR,D,-3014646
-84,82,"siranus","Atelopus","",DD,U,-11513776
-85,81,"spumarius","Atelopus","",VU,D,-11184866
-87,86,"mandingues","Atelopus","",CR,U,-3014646
-88,86,"nepiozomus","Atelopus","",CR,U,-3014646
-93,92,"mindoensis","Atelopus","",CR,D,-3014646
-94,92,"chocoensis","Atelopus","",CR,D,-3014646
-95,91,"pinangoi","Atelopus","Green And Red Venter Harlequin Toad",CR,D,-3014646
-96,90,"chiriquiensis","Atelopus","",CR,D,-3014646
-100,99,"balios","Atelopus","",CR,D,-3014646
-101,99,"muisca","Atelopus","",CR,D,-3014646
-102,98,"quimbaya","Atelopus","",CR,U,-3014646
-103,97,"carauta","Atelopus","Rio Carauta Stubfoot Toad",CR,D,-3014646
-110,109,"sorianoi","Atelopus","Scarlet Harlequin Toad",CR,D,-3014646
-111,109,"planispina","Atelopus","",CR,D,-3014646
-113,112,"famelicus","Atelopus","",CR,D,-3014646
-114,112,"ignescens","Atelopus","",EX,U,-16777036
-115,107,"nicefori","Atelopus","",CR,U,-3014646
-116,106,"tricolor","Atelopus","Three-coloured Harlequin Toad",VU,D,-11184866
-117,105,"subornatus","Atelopus","",CR,D,-3014646
-118,104,"longirostris","Atelopus","",EX,U,-16777036
-125,124,"guitarraensis","Atelopus","",CR,D,-3014646
-126,124,"halihelos","Atelopus","",CR,D,-3014646
-127,123,"boulengeri","Atelopus","",CR,D,-3014646
-128,122,"angelito","Atelopus","",CR,D,-3014646
-131,130,"tamaensis","Atelopus","Tama Harlequin Frog",CR,D,-3014646
-132,130,"erythropus","Atelopus","",CR,D,-3014646
-133,129,"chrysophorus","Chaunus","",NE,U,-16777216
-136,135,"simulatus","Atelopus","",CR,D,-3014646
-137,135,"elegans","Atelopus","",CR,D,-3014646
-138,134,"limosus","Atelopus","",EN,D,-8572416
-143,142,"varius","Atelopus","Harlequin Frog",CR,D,-3014646
-144,142,"vogli","Atelopus","",EX,U,-16777036
-145,141,"walkeri","Atelopus","",CR,D,-3014646
-148,147,"minutulus","Atelopus","",CR,D,-3014646
-149,147,"sernai","Atelopus","",CR,D,-3014646
-150,146,"glyphus","Atelopus","",CR,D,-3014646
-153,152,"spurrelli","Atelopus","",VU,D,-11184866
-154,152,"arthuri","Atelopus","",CR,D,-3014646
-155,151,"bomolochos","Atelopus","",CR,D,-3014646
-161,160,"bufoniformis","Osornophryne","",NT,D,-12486656
-162,160,"sumacoensis","Osornophryne","",VU,S,-11184866
-163,159,"antisana","Osornophryne","",EN,D,-8572416
-164,158,"percrassa","Osornophryne","Herveo Plump Toad",EN,D,-8572416
-166,165,"talipes","Osornophryne","Cannatella's Plump Toad",EN,D,-8572416
-167,165,"guacamayo","Osornophryne","Guacamayo Plump Toad",EN,D,-8572416
-168,156,"pernambucensis","Frostius","",LC,D,-16731116
+10,9,"wolterstorffi","Urocotyledon","",NE,U,-16777216
+11,9,"weileri","Urocotyledon","",NE,U,-16777216
+12,8,"palmata","Urocotyledon","",NE,U,-16777216
+13,7,"fimbriatus","Uroplatus","",NE,U,-16777216
+23,22,"frenatus","Hemidactylus","",NE,U,-16777216
+24,22,"brookii","Hemidactylus","",NE,U,-16777216
+25,21,"platyurus","Hemidactylus","",NE,U,-16777216
+26,20,"platycephalus","Hemidactylus","",NE,U,-16777216
+28,27,"turcicus","Hemidactylus","Turkish Gecko",LC,I,-16731116
+29,27,"depressus","Hemidactylus","",NE,U,-16777216
+30,18,"leschenaulti","Hemidactylus","",NE,U,-16777216
+31,17,"europea","Euleptes","",NE,U,-16777216
+32,16,"sternus","Stenodactylus","",NE,U,-16777216
+33,15,"garrulus","Ptenopus","",NE,U,-16777216
+34,14,"bastardi","Paroedura","",NE,U,-16777216
+41,40,"luteopicturatus","Lygodactylus","",NE,U,-16777216
+42,40,"bernardi","Lygodactylus","",NE,U,-16777216
+43,39,"picturatus","Lygodactylus","",NE,U,-16777216
+46,45,"cochranae","Aristelliger","",NE,U,-16777216
+47,45,"lar","Aristelliger","",NE,U,-16777216
+48,44,"praesignis","Aristelliger","",NE,U,-16777216
+49,37,"underwoodi","Homonota","",NE,U,-16777216
+50,36,"rupestris","Pristurus","",NE,U,-16777216
+57,56,"annulatus","Cyrtodactylus","Small Bent-toed Gecko",LC,S,-16731116
+58,56,"louisiadensis","Cyrtodactylus","",NE,U,-16777216
+59,55,"scaber","Cyrtopodion","",NE,U,-16777216
+60,54,"transvaalica","Afroedura","",NE,U,-16777216
+61,53,"ateles","Perochirus","",NE,U,-16777216
+62,52,"kuhli","Ptychozoon","",NE,U,-16777216
+63,51,"persica","Agamura","",NE,U,-16777216
+67,66,"mindorensis","Gekko","Mindoro Narrow-disked Gecko",LC,S,-16731116
+68,66,"vittatus","Gekko","",NE,U,-16777216
+69,65,"monarchus","Gekko","",NE,U,-16777216
+77,76,"notatus","Sphaerodactylus","Reef Gecko",LC,S,-16731116
+78,76,"macrolepis","Sphaerodactylus","",NE,U,-16777216
+80,79,"elegans","Sphaerodactylus","",NE,U,-16777216
+81,79,"copei","Sphaerodactylus","",NE,U,-16777216
+82,74,"sputator","Sphaerodactylus","",NE,U,-16777216
+83,73,"glaucus","Sphaerodactylus","",NE,U,-16777216
+84,72,"argivus","Sphaerodactylus","",NE,U,-16777216
+86,85,"ruthveni","Lepidoblepharis","",NE,U,-16777216
+87,85,"festae","Lepidoblepharis","",NE,U,-16777216
+92,91,"hasemani","Gonatodes","",NE,U,-16777216
+93,91,"ceciliae","Gonatodes","",NE,U,-16777216
+94,90,"vittatus","Gonatodes","",NE,U,-16777216
+96,95,"annularis","Gonatodes","",NE,U,-16777216
+97,95,"humeralis","Gonatodes","",NE,U,-16777216
+99,98,"albogularis","Gonatodes","",NE,U,-16777216
+100,98,"taniae","Gonatodes","",NE,U,-16777216
+106,105,"variegatus","Coleonyx","Western Banded Gecko",LC,S,-16731116
+107,105,"brevis","Coleonyx","Texas Banded Gecko",LC,S,-16731116
+108,104,"reticulatus","Coleonyx","Reticulate Banded Gecko",LC,S,-16731116
+110,109,"mitratus","Coleonyx","",NE,U,-16777216
+111,109,"elegans","Coleonyx","",NE,U,-16777216
+115,114,"angramainyu","Eublepharis","",DD,D,-11513776
+116,114,"macularius","Eublepharis","",NE,U,-16777216
+117,113,"caudicinctus","Hemitheconyx","",NE,U,-16777216
+118,112,"kuroiwae","Goniurosaurus","Kuroiwa's Ground Gecko",VU,U,-11184866
+119,101,"felinus","Aeluroscalabotes","",NE,U,-16777216
+126,125,"caudiannulatus","Phyllurus","",NE,U,-16777216
+127,125,"platurus","Phyllurus","",NE,U,-16777216
+128,124,"cornutus","Saltuarius","",NE,U,-16777216
+130,129,"australis","Pseudothecadactylus","",NE,U,-16777216
+131,129,"lindneri","Pseudothecadactylus","",NE,U,-16777216
+139,138,"laevissimus","Nephrurus","",NE,U,-16777216
+140,138,"vertebralis","Nephrurus","",NE,U,-16777216
+141,137,"levis","Nephrurus","",NE,U,-16777216
+142,136,"wheeleri","Nephrurus","",NE,U,-16777216
+144,143,"sphyrurus","Nephrurus","",NE,U,-16777216
+145,143,"milii","Nephrurus","",NE,U,-16777216
+146,134,"asper","Nephrurus","",NE,U,-16777216
+147,133,"stellatus","Nephrurus","",NE,U,-16777216
+148,132,"laevis","Carphodactylus","Chameleon Gecko",NE,U,-16777216
+160,159,"tincta","Delma","",NE,U,-16777216
+161,159,"borea","Delma","",NE,U,-16777216
+162,158,"pax","Delma","",NE,U,-16777216
+164,163,"impar","Delma","Striped Legless Lizard",VU,U,-11184866
+165,163,"molleri","Delma","",NE,U,-16777216
+169,168,"fraseri","Delma","",NE,U,-16777216
+170,168,"grayii","Delma","",NE,U,-16777216
+171,167,"inornata","Delma","",NE,U,-16777216
+172,166,"nasuta","Delma","",NE,U,-16777216
+174,173,"torquata","Delma","Collared Delma",VU,U,-11184866
+175,173,"australis","Delma","",NE,U,-16777216
+176,154,"plebeia","Delma","",NE,U,-16777216
+177,153,"elegans","Delma","",NE,U,-16777216
+178,152,"concinna","Delma","",NE,U,-16777216
+179,151,"orientalis","Paradelma","Brigalow Scaly-foot",VU,U,-11184866
+181,180,"burtonis","Lialis","",NE,U,-16777216
+182,180,"jicari","Lialis","",NE,U,-16777216
+190,189,"pseudopulchella","Aprasia","Flinders Ranges Worm-lizard",NT,U,-12486656
+191,189,"striolata","Aprasia","",NE,U,-16777216
+192,188,"inaurita","Aprasia","",NE,U,-16777216
+193,187,"aurita","Aprasia","",VU,U,-11184866
+196,195,"repens","Aprasia","",NE,U,-16777216
+197,195,"smithi","Aprasia","",NE,U,-16777216
+198,194,"pulchella","Aprasia","",NE,U,-16777216
+200,199,"lepidopodus","Pygopus","",NE,U,-16777216
+201,199,"nigriceps","Pygopus","",NE,U,-16777216
+202,184,"taeniatus","Ophidiocephalus","Bronzeback Snake-lizard",VU,U,-11184866
+203,183,"gracilis","Pletholax","",NE,U,-16777216

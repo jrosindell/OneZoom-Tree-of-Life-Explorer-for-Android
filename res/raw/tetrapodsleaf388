@@ -1,63 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"chrysogaster","Hyperolius","",VU,D,-11184866
-10,8,"protchei","Hyperolius","",DD,U,-11513776
-11,7,"sylvaticus","Hyperolius","Bobiri Reed Frog",LC,S,-16731116
-12,6,"endjami","Hyperolius","",VU,D,-11184866
-14,13,"torrentis","Hyperolius","",EN,D,-8572416
-15,13,"montanus","Hyperolius","",LC,S,-16731116
-19,18,"cinnamomeoventris","Hyperolius","",LC,S,-16731116
-20,18,"pusillus","Hyperolius","",LC,S,-16731116
-21,17,"fasciatus","Hyperolius","",DD,U,-11513776
-23,22,"balfouri","Hyperolius","",LC,S,-16731116
-24,22,"kuligae","Hyperolius","",LC,S,-16731116
-27,26,"spinigularis","Hyperolius","Spiny-throated Reed Frog",LC,S,-16731116
-28,26,"wermuthi","Hyperolius","",NT,D,-12486656
-29,25,"fusciventris","Hyperolius","Lime Reed Frog",LC,S,-16731116
-35,34,"quadratomaculatus","Hyperolius","",DD,U,-11513776
-36,34,"pseudargus","Hyperolius","",LC,S,-16731116
-37,33,"gularis","Hyperolius","",DD,U,-11513776
-40,39,"dintelmanni","Hyperolius","",EN,D,-8572416
-41,39,"bobirensis","Hyperolius","",EN,D,-8572416
-42,38,"kachalolae","Hyperolius","",LC,S,-16731116
-43,31,"mosaicus","Hyperolius","",LC,D,-16731116
-44,30,"igbettensis","Hyperolius","",LC,S,-16731116
-50,49,"swynnertoni","Hyperolius","",LC,S,-16731116
-51,49,"lateralis","Hyperolius","",LC,S,-16731116
-52,48,"marginatus","Hyperolius","",LC,S,-16731116
-54,53,"pyrrhodictyon","Hyperolius","",LC,S,-16731116
-55,53,"acuticephalus","Hyperolius","",DD,U,-11513776
-59,58,"rubrovermiculatus","Hyperolius","",EN,D,-8572416
-60,58,"hutsebauti","Hyperolius","",DD,S,-11513776
-61,57,"ademetzi","Hyperolius","",NT,D,-12486656
-62,56,"diaphanus","Hyperolius","",DD,U,-11513776
-64,63,"kibarae","Hyperolius","",DD,U,-11513776
-65,63,"langi","Hyperolius","",LC,U,-16731116
-74,73,"laticeps","Hyperolius","Togo Reed Frog",DD,U,-11513776
-75,73,"adspersus","Hyperolius","",LC,I,-16731116
-77,76,"tornieri","Hyperolius","",DD,U,-11513776
-78,76,"lucani","Hyperolius","",DD,U,-11513776
-79,71,"obscurus","Hyperolius","",DD,U,-11513776
-80,70,"pardalis","Hyperolius","",LC,S,-16731116
-82,81,"tuberculatus","Hyperolius","",LC,S,-16731116
-83,81,"reesi","Hyperolius","",LC,S,-16731116
-86,85,"nienokouensis","Hyperolius","",EN,D,-8572416
-87,85,"schoutedeni","Hyperolius","",LC,U,-16731116
-89,88,"leucotaenius","Hyperolius","",EN,D,-8572416
-90,88,"nimbae","Hyperolius","",EN,D,-8572416
-94,93,"phantasticus","Hyperolius","",LC,S,-16731116
-95,93,"bolifambae","Hyperolius","",LC,S,-16731116
-96,92,"viridiflavus","Hyperolius","Common Reed Frog",LC,U,-16731116
-99,98,"molleri","Hyperolius","",LC,S,-16731116
-100,98,"polli","Hyperolius","",DD,U,-11513776
-101,97,"mitchelli","Hyperolius","",LC,D,-16731116
-108,107,"benguellensis","Hyperolius","",LC,S,-16731116
-109,107,"thomensis","Hyperolius","",EN,D,-8572416
-110,106,"mariae","Hyperolius","",LC,S,-16731116
-112,111,"cystocandicans","Hyperolius","",VU,D,-11184866
-113,111,"ferreirai","Hyperolius","",DD,U,-11513776
-114,104,"glandicolor","Hyperolius","",LC,S,-16731116
-116,115,"kihangensis","Hyperolius","",EN,D,-8572416
-117,115,"zonatus","Hyperolius","",NT,D,-12486656
-120,119,"platyceps","Hyperolius","",LC,S,-16731116
-121,119,"houyi","Hyperolius","",DD,U,-11513776
-122,118,"brachiofasciatus","Hyperolius","",DD,U,-11513776
+5,4,"roumanicus","Erinaceus","Northern White-breasted Hedgehog",LC,S,-16731116
+6,4,"concolor","Erinaceus","Southern White-breasted Hedgehog",LC,U,-16731116
+8,7,"europaeus","Erinaceus","Northern Hedgehog",LC,S,-16731116
+9,7,"amurensis","Erinaceus","Amur Hedgehog",LC,S,-16731116
+13,12,"albiventris","Atelerix","Four-toed Hedgehog",LC,S,-16731116
+14,12,"sclateri","Atelerix","Somali Hedgehog",LC,U,-16731116
+15,11,"algirus","Atelerix","Algerian Hedgehog",LC,U,-16731116
+16,10,"frontalis","Atelerix","Southern African Hedgehog",LC,S,-16731116
+21,20,"aethiopicus","Paraechinus","Desert Hedgehog",LC,S,-16731116
+22,20,"micropus","Paraechinus","Indian Hedgehog",LC,D,-16731116
+23,19,"hypomelas","Paraechinus","Brandt's Hedgehog",LC,U,-16731116
+25,24,"auritus","Hemiechinus","Long-eared Hedgehog",LC,U,-16731116
+26,24,"collaris","Hemiechinus","Collared Hedgehog",LC,U,-16731116
+28,27,"dauuricus","Mesechinus","Daurian Hedgehog",LC,S,-16731116
+29,27,"hughi","Mesechinus","Hugh's Hedgehog",LC,D,-16731116
+33,32,"hainanensis","Neohylomys","Hainan Gymnure",EN,D,-8572416
+34,32,"sinensis","Neotetracus","Shrew Gymnure",LC,U,-16731116
+36,35,"suillus","Hylomys","Short-tailed Gymnure",LC,S,-16731116
+37,35,"parvus","Hylomys","Dwarf Gymnure",VU,D,-11184866
+40,39,"aureospinula","Podogymnura","Dinagat Gymnure",EN,D,-8572416
+41,39,"truei","Podogymnura","Mindanao Gymnure",LC,S,-16731116
+42,38,"gymnura","Echinosorex","Moonrat",LC,U,-16731116

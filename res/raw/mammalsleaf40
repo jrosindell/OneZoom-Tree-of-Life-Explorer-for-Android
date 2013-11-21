@@ -1,43 +1,58 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"francoisi","Trachypithecus","Francois's Langur",EN,D,-8572416
-14,12,"hatinhensis","Trachypithecus","Hatinh Langur",EN,D,-8572416
-15,11,"laotum","Trachypithecus","Laotian Langur",VU,D,-11184866
-16,10,"delacouri","Trachypithecus","Delacour's Langur",CR,D,-3014646
-17,9,"poliocephalus","Trachypithecus","White-headed Langur",CR,D,-3014646
-18,8,"obscurus","Trachypithecus","Dusky Leaf-monkey",NT,D,-12486656
-21,20,"shortridgei","Trachypithecus","Shortridge's Langur",EN,D,-8572416
-22,20,"pileatus","Trachypithecus","Capped Langur",VU,D,-11184866
-23,19,"geei","Trachypithecus","Gee's Golden Langur",EN,D,-8572416
-27,26,"germaini","Trachypithecus","Indochinese Lutung",EN,D,-8572416
-28,26,"cristatus","Trachypithecus","Silvery Lutung",NT,D,-12486656
-29,25,"barbei","Trachypithecus","Tenasserim Lutung",DD,D,-11513776
-30,24,"phayrei","Trachypithecus","Phayre's Leaf-monkey",EN,D,-8572416
-31,5,"auratus","Trachypithecus","Javan Lutung",VU,D,-11184866
-37,36,"thomasi","Presbytis","Thomas's Langur",VU,D,-11184866
-38,36,"comata","Presbytis","Javan Surili",EN,D,-8572416
-39,35,"hosei","Presbytis","Hose's Langur",VU,D,-11184866
-41,40,"rubicunda","Presbytis","Maroon Leaf Monkey",LC,D,-16731116
-42,40,"potenziani","Presbytis","Mentawai Langur",EN,D,-8572416
-43,33,"frontata","Presbytis","White-fronted Langur",VU,D,-11184866
-47,46,"siamensis","Presbytis","White-thighed Surili",NT,D,-12486656
-48,46,"chrysomelas","Presbytis","Sarawak Surili",CR,D,-3014646
-50,49,"natunae","Presbytis","Natuna Island Surili",VU,D,-11184866
-51,49,"femoralis","Presbytis","Banded Surili",NT,D,-12486656
-52,44,"melalophos","Presbytis","Sumatran Surili",EN,D,-8572416
-58,57,"schistaceus","Semnopithecus","Nepal Gray Langur",LC,D,-16731116
-59,57,"hector","Semnopithecus","Tarai Gray Langur",NT,D,-12486656
-60,56,"entellus","Semnopithecus","Northern Plains Gray Langur",LC,D,-16731116
-62,61,"dussumieri","Semnopithecus","Southern Plains Gray Langur",LC,S,-16731116
-63,61,"hypoleucos","Semnopithecus","Black-footed Gray Langur",VU,D,-11184866
-65,64,"priam","Semnopithecus","Tufted Gray Langur",NT,D,-12486656
-66,64,"ajax","Semnopithecus","Kashmir Gray Langur",EN,D,-8572416
-67,53,"johnii","Trachypithecus","Nilgiri Langur",VU,D,-11184866
-68,2,"vetulus","Trachypithecus","Purple-faced Langur",EN,D,-8572416
-73,72,"brelichi","Rhinopithecus","Grey Snub-nosed Monkey",EN,D,-8572416
-74,72,"bieti","Rhinopithecus","Black Snub-nosed Monkey",EN,D,-8572416
-75,71,"roxellana","Rhinopithecus","Golden Snub-nosed Monkey",EN,D,-8572416
-76,70,"avunculus","Rhinopithecus","Tonkin Snub-nosed Monkey",CR,D,-3014646
-78,77,"nigripes","Pygathrix","Black-shanked Douc Langur",EN,D,-8572416
-79,77,"nemaeus","Pygathrix","Red-shanked Douc Langur",EN,D,-8572416
-81,80,"concolor","Simias","Pig-tailed Langur",CR,D,-3014646
-82,80,"larvatus","Nasalis","Proboscis Monkey",EN,D,-8572416
+14,13,"francoisi","Trachypithecus","Francois's Langur",EN,D,-8572416
+15,13,"hatinhensis","Trachypithecus","Hatinh Langur",EN,D,-8572416
+16,12,"laotum","Trachypithecus","Laotian Langur",VU,D,-11184866
+17,11,"delacouri","Trachypithecus","Delacour's Langur",CR,D,-3014646
+18,10,"poliocephalus","Trachypithecus","White-headed Langur",CR,D,-3014646
+19,9,"obscurus","Trachypithecus","Dusky Leaf-monkey",NT,D,-12486656
+22,21,"shortridgei","Trachypithecus","Shortridge's Langur",EN,D,-8572416
+23,21,"pileatus","Trachypithecus","Capped Langur",VU,D,-11184866
+24,20,"geei","Trachypithecus","Gee's Golden Langur",EN,D,-8572416
+28,27,"germaini","Trachypithecus","Indochinese Lutung",EN,D,-8572416
+29,27,"cristatus","Trachypithecus","Silvery Lutung",NT,D,-12486656
+30,26,"barbei","Trachypithecus","Tenasserim Lutung",DD,D,-11513776
+31,25,"phayrei","Trachypithecus","Phayre's Leaf-monkey",EN,D,-8572416
+32,6,"auratus","Trachypithecus","Javan Lutung",VU,D,-11184866
+38,37,"thomasi","Presbytis","Thomas's Langur",VU,D,-11184866
+39,37,"comata","Presbytis","Javan Surili",EN,D,-8572416
+40,36,"hosei","Presbytis","Hose's Langur",VU,D,-11184866
+42,41,"rubicunda","Presbytis","Maroon Leaf Monkey",LC,D,-16731116
+43,41,"potenziani","Presbytis","Mentawai Langur",EN,D,-8572416
+44,34,"frontata","Presbytis","White-fronted Langur",VU,D,-11184866
+48,47,"siamensis","Presbytis","White-thighed Surili",NT,D,-12486656
+49,47,"chrysomelas","Presbytis","Sarawak Surili",CR,D,-3014646
+51,50,"natunae","Presbytis","Natuna Island Surili",VU,D,-11184866
+52,50,"femoralis","Presbytis","Banded Surili",NT,D,-12486656
+53,45,"melalophos","Presbytis","Sumatran Surili",EN,D,-8572416
+59,58,"schistaceus","Semnopithecus","Nepal Gray Langur",LC,D,-16731116
+60,58,"hector","Semnopithecus","Tarai Gray Langur",NT,D,-12486656
+61,57,"entellus","Semnopithecus","Northern Plains Gray Langur",LC,D,-16731116
+63,62,"dussumieri","Semnopithecus","Southern Plains Gray Langur",LC,S,-16731116
+64,62,"hypoleucos","Semnopithecus","Black-footed Gray Langur",VU,D,-11184866
+66,65,"priam","Semnopithecus","Tufted Gray Langur",NT,D,-12486656
+67,65,"ajax","Semnopithecus","Kashmir Gray Langur",EN,D,-8572416
+68,54,"johnii","Trachypithecus","Nilgiri Langur",VU,D,-11184866
+69,3,"vetulus","Trachypithecus","Purple-faced Langur",EN,D,-8572416
+74,73,"brelichi","Rhinopithecus","Grey Snub-nosed Monkey",EN,D,-8572416
+75,73,"bieti","Rhinopithecus","Black Snub-nosed Monkey",EN,D,-8572416
+76,72,"roxellana","Rhinopithecus","Golden Snub-nosed Monkey",EN,D,-8572416
+77,71,"avunculus","Rhinopithecus","Tonkin Snub-nosed Monkey",CR,D,-3014646
+79,78,"nigripes","Pygathrix","Black-shanked Douc Langur",EN,D,-8572416
+80,78,"nemaeus","Pygathrix","Red-shanked Douc Langur",EN,D,-8572416
+82,81,"concolor","Simias","Pig-tailed Langur",CR,D,-3014646
+83,81,"larvatus","Nasalis","Proboscis Monkey",EN,D,-8572416
+92,91,"tholloni","Piliocolobus","",NE,U,-16777216
+93,91,"foai","Piliocolobus","",NE,U,-16777216
+94,90,"gordonorum","Piliocolobus","",NE,U,-16777216
+95,89,"kirkii","Piliocolobus","",NE,U,-16777216
+97,96,"tephrosceles","Piliocolobus","",NE,U,-16777216
+98,96,"pennantii","Piliocolobus","",NE,U,-16777216
+100,99,"preussi","Piliocolobus","",NE,U,-16777216
+101,99,"badius","Piliocolobus","",NE,U,-16777216
+102,86,"rufomitratus","Piliocolobus","",NE,U,-16777216
+103,85,"verus","Procolobus","Olive Colobus",NT,U,-12486656
+108,107,"vellerosus","Colobus","White-thighed Colobus",VU,U,-11184866
+109,107,"polykomos","Colobus","King Colobus",VU,U,-11184866
+110,106,"guereza","Colobus","Guereza",LC,U,-16731116
+111,105,"angolensis","Colobus","Angola Colobus",LC,U,-16731116
+112,104,"satanas","Colobus","Black Colobus",VU,D,-11184866

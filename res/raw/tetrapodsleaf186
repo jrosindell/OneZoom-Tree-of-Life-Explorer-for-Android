@@ -1,114 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"funerea","Rhinoclemmys","Black River Turtle",NT,U,-12486656
-14,12,"melanosterna","Rhinoclemmys","",NE,U,-16777216
-16,15,"punctularia_punctularia","Rhinoclemmys","",NE,U,-16777216
-17,15,"diademata","Rhinoclemmys","",NE,U,-16777216
-18,10,"areolata","Rhinoclemmys","Furrowed Wood Turtle",NT,D,-12486656
-19,9,"rubida","Rhinoclemmys","Mexican Spotted Terrapin",NT,D,-12486656
-22,21,"annulata","Rhinoclemmys","Brown Land Turtle",NT,U,-12486656
-23,21,"pulcherrima_incisa","Rhinoclemmys","",NE,U,-16777216
-24,20,"nasuta","Rhinoclemmys","Large-nosed Wood Turtle",NT,U,-12486656
-29,28,"flavomarginatus","Gopherus","Bolson Tortoise",VU,I,-11184866
-30,28,"polyphemus","Gopherus","Gopher Tortoise",VU,U,-11184866
-32,31,"agassizii","Gopherus","Desert Tortoise",VU,U,-11184866
-33,31,"berlanderi","Gopherus","",NE,U,-16777216
-35,34,"impressa","Manouria","Impressed Tortoise",VU,U,-11184866
-36,34,"emys","Manouria","Asian Giant Tortoise",EN,U,-8572416
-49,48,"barbouri","Graptemys","Barbour's Map Turtle",NT,U,-12486656
-50,48,"versa","Graptemys","Texas Map Turtle",NT,U,-12486656
-51,47,"gibbonsi","Graptemys","Pascagoula Map Turtle",NT,U,-12486656
-53,52,"flavimaculata","Graptemys","Yellow-blotched Map Turtle",EN,U,-8572416
-54,52,"ouachitensis","Graptemys","Ouachita Map Turtle",NE,U,-16777216
-55,45,"pulchra","Graptemys","Alabama Map Turtle",NE,U,-16777216
-59,58,"pseudogeographica kohnii","Graptemys","Mississippi Map Turtle",NE,U,-16777216
-60,58,"oculifera","Graptemys","Ringed Map Turtle",EN,U,-8572416
-62,61,"pseudogeographica","Graptemys","False Map Turtle",NE,U,-16777216
-63,61,"nigrinoda","Graptemys","Black-knobbed Map Turtle",NT,U,-12486656
-64,56,"caglei","Graptemys","Cagle's Map Turtle",VU,U,-11184866
-65,43,"gaigeae","Trachemys","Big Bend Slider",VU,U,-11184866
-66,42,"geographica","Graptemys","Northern Map Turtle",NE,U,-16777216
-69,68,"scripta elegans","Trachemys","Red-eared Slider",NE,U,-16777216
-70,68,"stejnegeri","Trachemys","Inagua Island Turtle",NT,U,-12486656
-71,67,"scripta taylori","Trachemys","Cuatro Cienegas Slider",NE,U,-16777216
-72,40,"terrapin","Malaclemys","Diamondback Terrapin",NT,U,-12486656
-78,77,"rubriventris","Pseudemys","American Red-bellied Turtle",NT,U,-12486656
-79,77,"peninsularis","Pseudemys","Peninsula Cooter",NE,U,-16777216
-81,80,"concinna floridana","Pseudemys","Coastal Plain Cooter",NE,U,-16777216
-82,80,"suwanniensis","Pseudemys","",NE,U,-16777216
-86,85,"alabamensis","Pseudemys","Alabama Red-bellied Turtle",EN,U,-8572416
-87,85,"nelsoni","Pseudemys","Florida Red-bellied Cooter",NE,U,-16777216
-88,84,"concinna","Pseudemys","River cooter",NE,U,-16777216
-89,83,"texana","Pseudemys","Texas River Cooter",NE,U,-16777216
-90,74,"gorzugi","Pseudemys","Rio Grande Cooter",NT,U,-12486656
-91,73,"picta","Chrysemys","Painted Turtle",NE,U,-16777216
-96,95,"marmorata","Actinemys","Pacific Pond Turtle",VU,U,-11184866
-97,95,"blandingii","Emydoidea","Blanding's Turtle",NT,U,-12486656
-99,98,"trinacris","Emys","Sicilian Pond Turtle",DD,U,-11513776
-100,98,"orbicularis","Emys","",NE,U,-16777216
-102,101,"muhlenbergii","Glyptemys","Bog Turtle",EN,U,-8572416
-103,101,"insculpta","Glyptemys","Wood Turtle",VU,U,-11184866
-107,106,"coahuila","Terrapene","Aquatic Box Terrapin",EN,D,-8572416
-108,106,"carolina_triunguis","Terrapene","",NE,U,-16777216
-110,109,"nelsoni","Terrapene","Sierra Box Turtle",DD,U,-11513776
-111,109,"ornata","Terrapene","Ornate Box Turtle",NT,U,-12486656
-112,104,"guttata","Clemmys","Spotted Turtle",VU,U,-11184866
-113,37,"reticularia","Deirochelys","Chicken Turtle",NE,U,-16777216
-116,115,"temminckii","Macrochelys","Alligator Snapping Turtle",VU,U,-11184866
-117,115,"serpentina","Chelydra","Common Snapping Turtle",NE,U,-16777216
-118,114,"megacephalum","Platysternon","Big-headed Turtle",EN,U,-8572416
-124,123,"olivacea","Lepidochelys","Olive Ridley",VU,D,-11184866
-125,123,"kempii","Lepidochelys","Kemp's Ridley",CR,U,-3014646
-126,122,"caretta","Caretta","Loggerhead",EN,U,-8572416
-127,121,"imbricata","Eretmochelys","Hawksbill Turtle",CR,D,-3014646
-129,128,"mydas","Chelonia","Green Turtle",EN,D,-8572416
-130,128,"depressa","Natator","",NE,U,-16777216
-131,119,"coriacea","Dermochelys","Leatherback",CR,D,-3014646
-134,133,"triporcatus","Staurotypus","Mexican Giant Musk Turtle",NT,U,-12486656
-135,133,"odoratus","Sternotherus","Common Musk Turtle",NE,U,-16777216
-136,132,"mawii","Dermatemys","Central American River Turtle",CR,D,-3014646
-147,146,"hurum","Aspideretes","Indian Peacock Softshell Turtle",VU,U,-11184866
-148,146,"nigricans","Aspideretes","Black Soft-shell Turtle",EW,U,-12832121
-150,149,"gangeticus","Aspideretes","Indian Softshell Turtle",VU,U,-11184866
-151,149,"leithii","Aspideretes","Leith's Softshell Turtle",VU,U,-11184866
-152,144,"formosa","Nilssonia","Burmese Peacock Softshell",EN,U,-8572416
-154,153,"steindachneri","Palea","Wattle-necked Softshell Turtle",EN,U,-8572416
-155,153,"cartilaginea","Amyda","Asiatic Softshell Turtle",VU,U,-11184866
-156,142,"subplana","Dogania","Malayan Soft-shelled Turtle",LC,U,-16731116
-158,157,"sinensis","Pelodiscus","",VU,D,-11184866
-159,157,"axenaria","Trionyx","",NE,U,-16777216
-163,162,"spinifera","Apalone","Gulf Coast Spiny Softshell Turtle",NE,U,-16777216
-164,162,"ferox","Apalone","Florida Softshell Turtle",NE,U,-16777216
-165,161,"mutica","Apalone","Smooth Softshell Turtle",NE,U,-16777216
-166,160,"euphraticus","Rafetus","Euphrates Softshell Turtle",EN,U,-8572416
-171,170,"chitra","Chitra","Southeast Asian Narrow-headed Softshell Turtle",CR,U,-3014646
-172,170,"vandijki","Chitra","Burmese Narrow-headed Softshell Turtle",NE,U,-16777216
-173,169,"indica","Chitra","Indian Narrow-headed Softshell Turtle",EN,U,-8572416
-175,174,"bibroni","Pelochelys","Asian Giant Softshell Turtle",VU,U,-11184866
-176,174,"cantorii","Pelochelys","Cantor's Giant Softshell",EN,U,-8572416
-177,167,"triunguis","Trionyx","African Softshell Turtle",CR,U,-3014646
-182,181,"frenatum","Cycloderma","Zambezi Flapshell Turtle",NT,U,-12486656
-183,181,"aubryi","Cycloderma","Aubry's Flapshell Turtle",NE,U,-16777216
-184,180,"elegans","Cyclanorbis","Nubian Flapshell Turtle",NT,U,-12486656
-185,179,"senegalensis","Cyclanorbis","Senegal Flapshell Turtle",NT,U,-12486656
-187,186,"punctata","Lissemys","Indian Flap-shelled Turtle",LC,U,-16731116
-188,186,"scutata","Lissemys","Burmese Flapshell Turtle",DD,U,-11513776
-189,137,"insculpta","Carettochelys","Pig-nosed Turtle",VU,U,-11184866
-197,196,"erythrocephala","Podocnemis","Red-headed Amazon River Turtle",VU,U,-11184866
-198,196,"lewyana","Podocnemis","Magdalena River Turtle",EN,U,-8572416
-199,195,"unifilis","Podocnemis","Yellow-headed Sideneck",VU,U,-11184866
-201,200,"sextuberculata","Podocnemis","Six-tubercled Amazon River Turtle",VU,U,-11184866
-202,200,"expansa","Podocnemis","Arrau",NE,U,-16777216
-203,193,"vogli","Podocnemis","Savanna Side-necked Turtle",NE,U,-16777216
-205,204,"madagascariensis","Erymnochelys","Madagascar Big-headed Turtle",CR,D,-3014646
-206,204,"dumeriliana","Peltocephalus","Big-headed Amazon River turtle",NE,U,-16777216
-208,207,"subrufa","Pelomedusa","African Helmeted Turtle",NE,U,-16777216
-209,207,"williamsi","Pelusios","William's Mud Turtle",NE,U,-16777216
-217,216,"pallidipectoris","Acanthochelys","Chaco Side-necked Turtle",VU,U,-11184866
-218,216,"spixii","Acanthochelys","Black Spine-necked Swamp Turtle",NT,U,-12486656
-219,215,"macrocephala","Acanthochelys","Big-headed Pantanal Swamp Turtle",NT,U,-12486656
-220,214,"radiolata","Acanthochelys","Brazilian Radiolated Swamp Turtle",NT,U,-12486656
-221,213,"platycephala","Platemys","Twist-necked Turtle",NE,U,-16777216
-222,212,"gibbus","Phrynops","",NE,U,-16777216
-223,211,"fimbriatus","Chelus","Mata-mata",NE,U,-16777216
-225,224,"longicollis","Chelodina","Eastern Long-necked Turtle",NE,U,-16777216
-226,224,"latisternum","Elseya","Saw-shelled Turtle",NE,U,-16777216
+8,7,"stricklandii","Copsychus","White-crowned Shama",_U,[,-16777216
+9,7,"malabaricus","Copsychus","White-rumped Shama",LC,U,-16731116
+10,6,"niger","Copsychus","White-vented Shama",LC,U,-16731116
+11,5,"cebuensis","Copsychus","Black Shama",EN,U,-8572416
+12,4,"luzoniensis","Copsychus","White-browed Shama",LC,U,-16731116
+13,3,"pyrropygus","Trichixos","Rufous-tailed Shama",NT,U,-12486656
+18,17,"saularis","Copsychus","Oriental Magpie-robin",LC,U,-16731116
+19,17,"hainanus","Cyornis","Hainan Blue-flycatcher",LC,U,-16731116
+20,16,"sechellarum","Copsychus","Seychelles Magpie-robin",EN,U,-8572416
+21,15,"albospecularis","Copsychus","Madagascar Magpie-robin",LC,U,-16731116
+22,14,"fulicatus","Saxicoloides","Indian Robin",LC,U,-16731116
+26,25,"chocolatinus","Dioptrornis","Abyssinian Slaty Flycatcher",LC,U,-16731116
+27,25,"fischeri","Dioptrornis","White-eyed Slaty Flycatcher",LC,U,-16731116
+28,24,"brunneus","Dioptrornis","Angola Slaty Flycatcher",LC,U,-16731116
+29,23,"omissus","Cyornis","Sulawesi Blue-flycatcher",LC,U,-16731116
+34,33,"hartlaubi","Erythropygia","Brown-backed Scrub-robin",LC,U,-16731116
+35,33,"leucophrys","Erythropygia","Red-backed Scrub-robin",LC,U,-16731116
+37,36,"galactotes","Erythropygia","Rufous-tailed Scrub-robin",LC,U,-16731116
+38,36,"podobe","Cercotrichas","Black Scrub-robin",LC,U,-16731116
+39,31,"paena","Erythropygia","Kalahari Scrub-robin",LC,U,-16731116
+43,42,"quadrivirgata","Erythropygia","Bearded Scrub-robin",LC,U,-16731116
+44,42,"barbata","Erythropygia","Miombo Scrub-robin",LC,U,-16731116
+45,41,"leucosticta","Erythropygia","Forest Scrub-robin",LC,U,-16731116
+47,46,"coryphaeus","Erythropygia","Karoo Scrub-robin",LC,U,-16731116
+48,46,"signata","Erythropygia","Brown Scrub-robin",LC,U,-16731116

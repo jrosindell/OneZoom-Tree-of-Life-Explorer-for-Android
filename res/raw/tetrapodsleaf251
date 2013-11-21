@@ -1,85 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"abstrusus","Prosciurillus","Secretive Dwarf Squirrel",DD,U,-11513776
-14,12,"weberi","Prosciurillus","Weber's Dwarf Squirrel",DD,U,-11513776
-16,15,"leucomus","Prosciurillus","Whitish Dwarf Squirrel",DD,U,-11513776
-17,15,"rosenbergii","Prosciurillus","Sanghir Squirrel",LC,S,-16731116
-18,10,"murinus","Prosciurillus","Celebes Dwarf Squirrel",DD,U,-11513776
-19,9,"rubriventer","Rubrisciurus","Sulawesi Giant Squirrel",VU,D,-11184866
-21,20,"heinrichi","Hyosciurus","Montane Long-nosed Squirrel",LC,U,-16731116
-22,20,"ileile","Hyosciurus","Lowland Long-nosed Squirrel",VU,D,-11184866
-36,35,"finlaysonii","Callosciurus","Finlayson's Squirrel",LC,S,-16731116
-37,35,"caniceps","Callosciurus","Gray-bellied Squirrel",LC,S,-16731116
-38,34,"orestes","Callosciurus","Borneo Black-banded Squirrel",LC,S,-16731116
-39,33,"adamsi","Callosciurus","Ear-spot Squirrel",VU,D,-11184866
-40,32,"notatus","Callosciurus","Plantain Squirrel",LC,I,-16731116
-41,31,"inornatus","Callosciurus","Inornate Squirrel",LC,U,-16731116
-42,30,"baluensis","Callosciurus","Kinabalu Squirrel",LC,S,-16731116
-43,29,"phayrei","Callosciurus","Phayre's Squirrel",LC,U,-16731116
-44,28,"melanogaster","Callosciurus","Mentawai Squirrel",VU,D,-11184866
-45,27,"prevostii","Callosciurus","Prevost's Squirrel",LC,D,-16731116
-46,26,"quinquestriatus","Callosciurus","Anderson's Squirrel",NT,D,-12486656
-47,25,"simus","Glyphotes","Sculptor Squirrel",DD,U,-11513776
-50,49,"obscurus","Lariscus","Mentawai Three-striped Squirrel",NT,D,-12486656
-51,49,"insignis","Lariscus","Three-striped Ground Squirrel",LC,D,-16731116
-53,52,"hosei","Lariscus","Four-striped Ground Squirrel",NT,D,-12486656
-54,52,"niobe","Lariscus","Niobe Ground Squirrel",DD,U,-11513776
-60,59,"sublineatus","Funambulus","Dusky-striped Squirrel",VU,D,-11184866
-61,59,"layardi","Funambulus","Layard's Palm Squirrel",VU,D,-11184866
-62,58,"palmarum","Funambulus","Common Palm Squirrel",LC,I,-16731116
-63,57,"pennantii","Funambulus","Five-striped Palm Squirrel",LC,U,-16731116
-64,56,"tristriatus","Funambulus","Western Ghats Striped Squirrel",LC,D,-16731116
-67,66,"laticaudatus","Rhinosciurus","Shrew-faced Squirrel",NT,D,-12486656
-68,66,"berdmorei","Menetes","Indochinese Ground Squirrel",LC,S,-16731116
-69,65,"melanotis","Nannosciurus","Black-eared Squirrel",LC,D,-16731116
-72,71,"nigrovittatus","Callosciurus","Black-striped Squirrel",NT,D,-12486656
-73,71,"pygerythrus","Callosciurus","Hoary-bellied Squirrel",LC,U,-16731116
-74,70,"albescens","Callosciurus","Kloss's Squirrel",DD,U,-11513776
-83,82,"leucurus","Ammospermophilus","White-tailed Antelope Sqirrel",LC,S,-16731116
-84,82,"interpres","Ammospermophilus","Texas Antelope Squirrel",LC,U,-16731116
-86,85,"harrisii","Ammospermophilus","Harris's Antelope Squirrel",LC,U,-16731116
-87,85,"nelsoni","Ammospermophilus","Nelson's Antelope Squirrel",EN,D,-8572416
-88,80,"insularis","Ammospermophilus","",NE,U,-16777216
-95,94,"rufobrachium","Heliosciurus","Red-legged Sun Squirrel",LC,U,-16731116
-96,94,"punctatus","Heliosciurus","Small Sun Squirrel",DD,U,-11513776
-97,93,"gambianus","Heliosciurus","Gambian Sun Squirrel",LC,U,-16731116
-98,92,"mutabilis","Heliosciurus","Mutable Sun Squirrel",LC,U,-16731116
-100,99,"ruwenzorii","Heliosciurus","Ruwenzori Sun Squirrel",LC,U,-16731116
-101,99,"undulatus","Heliosciurus","Zanj Sun Squirrel",DD,U,-11513776
-102,89,"pumilio","Myosciurus","African Pygmy Squirrel",LC,U,-16731116
-104,103,"davidianus","Sciurotamias","Pere David's Rock Squirrel",LC,U,-16731116
-105,103,"forresti","Sciurotamias","Forrest's Rock Squirrel",LC,U,-16731116
-111,110,"rutilus","Xerus","Unstriped Ground Squirrel",LC,S,-16731116
-112,110,"princeps","Xerus","Damara Ground Squirrel",LC,S,-16731116
-113,109,"erythropus","Xerus","Geoffroy's Ground Squirrel",LC,S,-16731116
-114,108,"inauris","Xerus","South African Ground Squirrel",LC,S,-16731116
-115,107,"getulus","Atlantoxerus","Barbary Ground Squirrel",LC,S,-16731116
-116,106,"leptodactylus","Spermophilopsis","Long-clawed Ground Squirrel",LC,U,-16731116
-117,2,"pusillus","Sciurillus","Neotropical Pygmy Squirrel",DD,U,-11513776
-118,1,"rufa","Aplodontia","Mountain Beaver",LC,S,-16731116
-129,128,"platyops","Graphiurus","Rock Dormouse",LC,U,-16731116
-130,128,"angolensis","Graphiurus","",DD,U,-11513776
-131,127,"ocularis","Graphiurus","Namtap",LC,U,-16731116
-132,126,"surdus","Graphiurus","Silent Dormouse",DD,U,-11513776
-133,125,"christyi","Graphiurus","Christy's Dormouse",LC,U,-16731116
-135,134,"lorraineus","Graphiurus","Lorrain Dormouse",LC,U,-16731116
-136,134,"monardi","Graphiurus","Monard's Dormouse",DD,U,-11513776
-140,139,"microtis","Graphiurus","Small-eared Dormouse",LC,U,-16731116
-141,139,"murinus","Graphiurus","Woodland Dormouse",LC,S,-16731116
-142,138,"rupicola","Graphiurus","Stone Dormouse",LC,U,-16731116
-144,143,"kelleni","Graphiurus","Kellen's Dormouse",LC,U,-16731116
-145,143,"johnstoni","Graphiurus","",DD,U,-11513776
-146,122,"crassicaudatus","Graphiurus","Jentink's Dormouse",DD,U,-11513776
-147,121,"nagtglasii","Graphiurus","",LC,U,-16731116
-149,148,"japonicus","Glirulus","Japanese Dormouse",LC,U,-16731116
-150,148,"glis","Glis","Edible Dormouse",LC,U,-16731116
-156,155,"sichuanensis","Chaetocauda","Sichuan Dormouse",DD,U,-11513776
-157,155,"laniger","Dryomys","Woolly Dormouse",DD,U,-11513776
-158,154,"nitedula","Dryomys","Forest Dormouse",LC,U,-16731116
-161,160,"melanurus","Eliomys","Asian Garden Dormouse",LC,U,-16731116
-162,160,"munbyanus","Eliomys","",LC,S,-16731116
-163,159,"quercinus","Eliomys","Garden Dormouse",NT,D,-12486656
-167,166,"personatus","Myomimus","Masked Mouse-tailed Dormouse",DD,U,-11513776
-168,166,"setzeri","Myomimus","Setzer's Mouse-tailed Dormouse",DD,U,-11513776
-169,165,"roachi","Myomimus","Mouse-tailed Dormouse",VU,D,-11184866
-170,164,"betpakdalaensis","Selevinia","Desert Dormouse",DD,U,-11513776
-171,151,"avellanarius","Muscardinus","Common Dormouse",LC,U,-16731116
+10,9,"rufus","Pachyramphus","Cinereous Becard",LC,U,-16731116
+11,9,"spodiurus","Pachyramphus","Slaty Becard",EN,U,-8572416
+12,8,"niger","Pachyramphus","Jamaican Becard",LC,U,-16731116
+14,13,"xanthogenys","Pachyramphus","Yellow-cheeked Becard",_U,[,-16777216
+15,13,"viridis","Pachyramphus","Green-backed Becard",LC,U,-16731116
+16,6,"versicolor","Pachyramphus","Barred Becard",LC,U,-16731116
+20,19,"homochrous","Pachyramphus","One-coloured Becard",LC,U,-16731116
+21,19,"aglaiae","Pachyramphus","Rose-throated Becard",LC,U,-16731116
+22,18,"minor","Pachyramphus","Pink-throated Becard",LC,U,-16731116
+23,17,"validus","Pachyramphus","Crested Becard",LC,U,-16731116
+28,27,"albogriseus","Pachyramphus","Black-and-white Becard",LC,U,-16731116
+29,27,"polychopterus","Pachyramphus","White-winged Becard",LC,U,-16731116
+30,26,"marginatus","Pachyramphus","Black-capped Becard",LC,U,-16731116
+31,25,"major","Pachyramphus","Grey-collared Becard",LC,U,-16731116
+34,33,"castaneus","Pachyramphus","Chestnut-crowned Becard",LC,U,-16731116
+35,33,"cinnamomeus","Pachyramphus","Cinnamon Becard",LC,U,-16731116
+36,32,"surinamus","Pachyramphus","Glossy-backed Becard",LC,U,-16731116
+37,3,"albinucha","Xenopsaris","White-naped Xenopsaris",LC,U,-16731116
+40,39,"semifasciata","Tityra","Masked Tityra",LC,U,-16731116
+41,39,"cayana","Tityra","Black-tailed Tityra",LC,U,-16731116
+42,38,"inquisitor","Tityra","Black-crowned Tityra",LC,U,-16731116
+45,44,"isabellae","Iodopleura","White-browed Purpletuft",LC,U,-16731116
+46,44,"fusca","Iodopleura","Dusky Purpletuft",LC,U,-16731116
+47,43,"pipra","Iodopleura","Buff-throated Purpletuft",NT,U,-12486656
+51,50,"hypopyrra","Laniocera","Cinereous Mourner",LC,U,-16731116
+52,50,"rufescens","Laniocera","Speckled Mourner",LC,U,-16731116
+54,53,"elegans","Laniisoma","Shrike-like Cotinga",LC,U,-16731116
+55,53,"buckleyi","Laniisoma","Andean Laniisoma",_U,[,-16777216
+58,57,"turdina","Schiffornis","Thrush-like Schiffornis",LC,U,-16731116
+59,57,"virescens","Schiffornis","Greenish Schiffornis",LC,U,-16731116
+60,56,"major","Schiffornis","Greater Schiffornis",LC,U,-16731116

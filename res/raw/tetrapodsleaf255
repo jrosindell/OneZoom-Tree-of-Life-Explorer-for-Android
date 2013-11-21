@@ -1,85 +1,97 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"fuscocapillus","Petinomys","Travancore Flying Squirrel",NT,D,-12486656
-12,10,"setosus","Petinomys","Temminck's Flying Squirrel",VU,D,-11184866
-13,9,"lugens","Petinomys","Siberut Flying Squirrel",EN,D,-8572416
-14,8,"hageni","Petinomys","Hagen's Flying Squirrel",DD,U,-11513776
-15,7,"vordermanni","Petinomys","Vordermann's Flying Squirrel",VU,D,-11184866
-19,18,"mindanensis","Petinomys","Mindanao Flying Squirrel",LC,U,-16731116
-20,18,"crinitus","Petinomys","Mindanao Flying Squirrel",LC,S,-16731116
-21,17,"sagitta","Petinomys","Arrow Flying Squirrel",DD,U,-11513776
-22,16,"genibarbis","Petinomys","Whiskered Flying Squirrel",VU,D,-11184866
-27,26,"winstoni","Hylopetes","Sumatran Flying Squirrel",DD,U,-11513776
-28,26,"nigripes","Hylopetes","Palawan Flying Squirrel",NT,D,-12486656
-30,29,"phayrei","Hylopetes","Indochinese Flying Squirrel",LC,S,-16731116
-31,29,"alboniger","Hylopetes","African Linsang",LC,D,-16731116
-32,24,"spadiceus","Hylopetes","Red-cheeked Flying Squirrel",LC,U,-16731116
-35,34,"kinlochii","Petaurillus","Selangor Pygmy Flying Squirrel",DD,U,-11513776
-36,34,"hosei","Petaurillus","Hose's Pygmy Flying Squirrel",DD,U,-11513776
-37,33,"emiliae","Petaurillus","Lesser Pygmy Flying Squirrel",DD,U,-11513776
-43,42,"lepidus","Hylopetes","Gray-cheeked Flying Squirrel",DD,U,-11513776
-44,42,"platyurus","Hylopetes","Jentink's Flying Squirrel",DD,U,-11513776
-45,41,"fimbriatus","Eoglaucomys","Small Kashmir Flying Squirrel",LC,U,-16731116
-46,40,"bartelsi","Hylopetes","Bartels's Flying Squirrel",DD,U,-11513776
-47,39,"sipora","Hylopetes","Sipora Flying Squirrel",EN,D,-8572416
-49,48,"sabrinus","Glaucomys","Carolina Flying Squirrel",LC,S,-16731116
-50,48,"volans","Glaucomys","Mexican Flying Squirrel",LC,S,-16731116
-52,51,"horsfieldii","Iomys","Javanese Flying Squirrel",LC,S,-16731116
-53,51,"sipora","Iomys","Mentawi Flying Squirrel",EN,D,-8572416
-62,61,"alborufus","Petaurista","Red And White Giant Flying Squirrel",LC,U,-16731116
-63,61,"nobilis","Petaurista","Bhutan Giant Flying Squirrel",VU,D,-11184866
-64,60,"magnificus","Petaurista","Hodgson's Giant Flying Squirrel",NT,D,-12486656
-65,59,"elegans","Petaurista","Spotted Giant Flying Squirrel",LC,S,-16731116
-67,66,"philippensis","Petaurista","Large Brown Flying Squirrel",LC,D,-16731116
-68,66,"petaurista","Petaurista","Common Giant Flying Squirrel",LC,D,-16731116
-69,57,"xanthotis","Petaurista","Chinese Giant Flying Squirrel",LC,U,-16731116
-70,56,"leucogenys","Petaurista","Japanese Giant Flying Squirrel",LC,U,-16731116
-76,75,"biswasi","Biswamoyopterus","Namdapha Flying Squirrel",CR,D,-3014646
-77,75,"pearsonii","Belomys","Hairy-footed Flying Squirrel",DD,U,-11513776
-78,74,"xanthipes","Trogopterus","Complex-toothed Flying Squirrel",NT,D,-12486656
-79,73,"pulverulentus","Pteromyscus","Smoky Flying Squirrel",EN,D,-8572416
-81,80,"tephromelas","Aeromys","Black Flying Squirrel",DD,U,-11513776
-82,80,"thomasi","Aeromys","Thomas's Flying Squirrel",DD,U,-11513776
-84,83,"melanopterus","Aeretes","Northern Chinese Flying Squirrel",NT,D,-12486656
-85,83,"cinereus","Eupetaurus","Woolly Flying Squirrel",DD,U,-11513776
-87,86,"momonga","Pteromys","Japanese Flying Squirrel",LC,U,-16731116
-88,86,"volans","Pteromys","Russian Flying Squirrel",LC,D,-16731116
-112,111,"igniventris","Sciurus","Northern Amazon Red Squirrel",LC,U,-16731116
-113,111,"spadiceus","Sciurus","Southern Amazon Red Squirrel",LC,U,-16731116
-114,110,"arizonensis","Sciurus","Arizona Gray Squirrel",DD,U,-11513776
-115,109,"oculatus","Sciurus","Peters's Squirrel",LC,U,-16731116
-116,108,"griseus","Sciurus","Western Gray Squirrel",LC,U,-16731116
-117,107,"alleni","Sciurus","Allen's Squirrel",LC,D,-16731116
-118,106,"richmondi","Sciurus","Richmond's Squirrel",NT,U,-12486656
-119,105,"colliaei","Sciurus","Collie's Squirrel",LC,U,-16731116
-120,104,"sanborni","Sciurus","Sanborn's Squirrel",DD,U,-11513776
-121,103,"lis","Sciurus","Japanese Squirrel",LC,S,-16731116
-122,102,"aureogaster","Sciurus","Bushy-tailed Olingo",LC,S,-16731116
-123,101,"pyrrhinus","Sciurus","Junin Red Squirrel",DD,U,-11513776
-124,100,"aestuans","Sciurus","Guianan Squirrel",LC,U,-16731116
-125,99,"vulgaris","Sciurus","Eurasian Red Squirrel",LC,D,-16731116
-132,131,"carolinensis","Sciurus","Eastern Gray Squirrel",LC,I,-16731116
-133,131,"niger","Sciurus","Bryant's Fox Squirrel",LC,S,-16731116
-134,130,"granatensis","Sciurus","Red-tailed Squirrel",LC,S,-16731116
-135,129,"flammifer","Sciurus","Fiery Squirrel",DD,U,-11513776
-136,128,"variegatoides","Sciurus","Variegated Squirrel",LC,S,-16731116
-137,127,"anomalus","Sciurus","Caucasian Squirrel",LC,D,-16731116
-138,126,"stramineus","Sciurus","Guayaquil Squirrel",LC,U,-16731116
-139,97,"ignitus","Sciurus","Bolivian Squirrel",DD,U,-11513776
-140,96,"yucatanensis","Sciurus","Yucatan Squirrel",LC,S,-16731116
-141,95,"gilvigularis","Sciurus","Yellow-throated Squirrel",DD,U,-11513776
-142,94,"pucheranii","Sciurus","Andean Squirrel",DD,U,-11513776
-143,93,"nayaritensis","Sciurus","Mexican Fox Squirrel",LC,U,-16731116
-144,92,"deppei","Sciurus","Deppe's Squirrel",LC,S,-16731116
-145,91,"macrotis","Rheithrosciurus","Tufted Ground Squirrel",VU,D,-11184866
-150,149,"flaviventer","Microsciurus","Amazon Dwarf Squirrel",DD,U,-11513776
-151,149,"mimulus","Microsciurus","Western Dwarf Squirrel",LC,S,-16731116
-152,148,"santanderensis","Microsciurus","Santander Dwarf Squirrel",DD,U,-11513776
-153,147,"alfari","Microsciurus","Central American Dwarf Squirrel",LC,S,-16731116
-154,146,"brochus","Syntheosciurus","Bangs's Mountain Squirrel",NT,U,-12486656
-157,156,"douglasii","Tamiasciurus","Douglas's Squirrel",LC,S,-16731116
-158,156,"hudsonicus","Tamiasciurus","Red Squirrel",LC,S,-16731116
-159,155,"mearnsi","Tamiasciurus","Mearns's Squirrel",EN,D,-8572416
-163,162,"bicolor","Ratufa","Black Giant Squirrel",NT,D,-12486656
-164,162,"affinis","Ratufa","Pale Giant Squirrel",NT,D,-12486656
-165,161,"indica","Ratufa","Indian Giant Squirrel",NT,D,-12486656
-166,160,"macroura","Ratufa","Grizzled Giant Squirrel",NT,D,-12486656
+15,14,"spectabilis","Liomys","Jaliscan Spiny Pocket Mouse",EN,D,-8572416
+16,14,"pictus","Liomys","Painted Spiny Pocket Mouse",LC,D,-16731116
+17,13,"irroratus","Liomys","Mexican Spiny Pocket Mouse",LC,S,-16731116
+19,18,"adspersus","Liomys","Panamanian Spiny Pocket Mouse",LC,S,-16731116
+20,18,"salvini","Liomys","Salvin's Spiny Pocket Mouse",LC,D,-16731116
+21,11,"australis","Heteromys","Southern Spiny Pocket Mouse",LC,S,-16731116
+22,10,"anomalus","Heteromys","Caribbean Spiny Pocket Mouse",LC,U,-16731116
+25,24,"desmarestianus","Heteromys","Demarest's Spiny Pocket Mouse",LC,S,-16731116
+26,24,"oresterus","Heteromys","Mountain Spiny Pocket Mouse",LC,S,-16731116
+27,23,"nelsoni","Heteromys","Nelson's Spiny Pocket Mouse",EN,D,-8572416
+28,8,"gaumeri","Heteromys","Gaumer's Spiny Pocket Mouse",LC,S,-16731116
+29,7,"zinseri","Cratogeomys","",NE,U,-16777216
+30,6,"alcorni","Pappogeomys","Alcorn's Pocket Gopher",CR,D,-3014646
+34,33,"castanops","Cratogeomys","Yellow-faced Pocket Gopher",LC,S,-16731116
+35,33,"goldmani","Cratogeomys","",LC,S,-16731116
+37,36,"tylorhinus","Cratogeomys","",NE,U,-16777216
+38,36,"neglectus","Cratogeomys","",NE,U,-16777216
+41,40,"merriami","Cratogeomys","Merriam's Pocket Gopher",LC,S,-16731116
+42,40,"fumosus","Cratogeomys","Smoky Pocket Gopher",LC,S,-16731116
+43,39,"gymnurus","Cratogeomys","",NE,U,-16777216
+44,4,"bulleri","Pappogeomys","Buller's Pocket Gopher",LC,S,-16731116
+53,52,"underwoodi","Orthogeomys","Underwood's Pocket Gopher",LC,I,-16731116
+54,52,"heterodus","Orthogeomys","Variable Pocket Gopher",LC,I,-16731116
+55,51,"thaeleri","Orthogeomys","Thaeler's Pocket Gopher",LC,S,-16731116
+56,50,"matagalpae","Orthogeomys","Nicaraguan Pocket Gopher",LC,I,-16731116
+57,49,"dariensis","Orthogeomys","Darien Pocket Gopher",LC,S,-16731116
+58,48,"grandis","Orthogeomys","Giant Pocket Gopher",LC,S,-16731116
+61,60,"hispidus","Orthogeomys","Hispid Pocket Gopher",LC,S,-16731116
+62,60,"lanius","Orthogeomys","Big Pocket Gopher",CR,D,-3014646
+63,59,"cavator","Orthogeomys","Chiriqui Pocket Gopher",LC,I,-16731116
+65,64,"cherriei","Orthogeomys","Cherrie's Pocket Gopher",LC,S,-16731116
+66,64,"cuniculus","Orthogeomys","Oaxacan Pocket Gopher",DD,D,-11513776
+67,45,"trichopus","Zygogeomys","Michoacan Pocket Gopher",EN,D,-8572416
+74,73,"texensis","Geomys","Central Texas Pocket Gopher",LC,U,-16731116
+75,73,"bursarius","Geomys","Plains Pocket Gopher",LC,S,-16731116
+76,72,"attwateri","Geomys","Attwater's Pocket Gopher",LC,S,-16731116
+78,77,"knoxjonesi","Geomys","Knox Jones's Pocket Gopher",LC,U,-16731116
+79,77,"breviceps","Geomys","Baird's Pocket Gopher",LC,S,-16731116
+80,70,"arenarius","Geomys","Desert Pocket Gopher",NT,U,-12486656
+82,81,"tropicalis","Geomys","Tropical Pocket Gopher",CR,D,-3014646
+83,81,"personatus","Geomys","Texas Pocket Gopher",LC,U,-16731116
+84,68,"pinetis","Geomys","Cumberland Island Picket Gopher",LC,U,-16731116
+89,88,"townsendii","Thomomys","Townsend's Pocket Gopher",LC,S,-16731116
+90,88,"bottae","Thomomys","Botta's Pocket Gopher",LC,S,-16731116
+91,87,"umbrinus","Thomomys","Animas Mountains Pocket Gopher",LC,U,-16731116
+92,86,"bulbivorus","Thomomys","Camas Pocket Gopher",LC,S,-16731116
+95,94,"monticola","Thomomys","Mountain Pocket Gopher",LC,S,-16731116
+96,94,"mazama","Thomomys","Western Pocket Gopher",LC,D,-16731116
+97,93,"talpoides","Thomomys","Northern Pocket Gopher",LC,S,-16731116
+109,108,"nelsoni","Chaetodipus","Nelson's Pocket Mouse",LC,S,-16731116
+110,108,"lineatus","Chaetodipus","Lined Pocket Gopher",DD,U,-11513776
+111,107,"intermedius","Chaetodipus","Rock Pocket Mouse",LC,S,-16731116
+113,112,"eremicus","Chaetodipus","Chihuahuan Desert Pocket Mouse",LC,U,-16731116
+114,112,"penicillatus","Chaetodipus","Desert Pocket Mouse",LC,S,-16731116
+116,115,"artus","Chaetodipus","Narrow-skulled Pocket Mouse",LC,S,-16731116
+117,115,"goldmani","Chaetodipus","Goldman's Pocket Mouse",VU,D,-11184866
+118,104,"pernix","Chaetodipus","Sinaloan Pocket Gopher",LC,S,-16731116
+121,120,"fallax","Chaetodipus","San Diego Pocket Mouse",LC,U,-16731116
+122,120,"spinatus","Chaetodipus","Spiny Pocket Mouse",LC,U,-16731116
+123,119,"californicus","Chaetodipus","California Pocket Mouse",LC,S,-16731116
+125,124,"arenarius","Chaetodipus","Little Desert Pocket Mouse",LC,U,-16731116
+126,124,"dalquesti","Chaetodipus","Dalquest's Pocket Mouse",VU,D,-11184866
+129,128,"baileyi","Chaetodipus","Bailey's Pocket Mouse",LC,S,-16731116
+130,128,"rudinoris","Chaetodipus","Baja Pocket Mouse",LC,S,-16731116
+131,127,"hispidus","Chaetodipus","Hispid Pocket Mouse",LC,S,-16731116
+132,100,"formosus","Chaetodipus","Long-tailed Pocket Mouse",LC,S,-16731116
+137,136,"merriami","Perognathus","Great Basin Pocket Mouse",LC,S,-16731116
+138,136,"amplus","Perognathus","Arizona Pocket Mouse",LC,S,-16731116
+140,139,"parvus","Perognathus","Great Basin Pocket Mouse",LC,S,-16731116
+141,139,"flavus","Perognathus","Silky Pocket Mouse",LC,S,-16731116
+142,134,"longimembris","Perognathus","Little Pocket Mouse",LC,S,-16731116
+146,145,"fasciatus","Perognathus","Olive-backed Pocket Mouse",LC,S,-16731116
+147,145,"inornatus","Perognathus","Salinas Pocket Mouse",LC,U,-16731116
+148,144,"alticolus","Perognathus","White-eared Pocket Mouse",EN,D,-8572416
+149,143,"flavescens","Perognathus","Plains Pocket Mouse",LC,S,-16731116
+159,158,"simulans","Dipodomys","Dulzura Kangaroo Rat",LC,U,-16731116
+160,158,"agilis","Dipodomys","Agile Kangaroo Rat",LC,D,-16731116
+161,157,"venustus","Dipodomys","Narrow-faced Kangaroo Rat",LC,D,-16731116
+162,156,"microps","Dipodomys","Chisel-toothed Kangaroo Rat",LC,S,-16731116
+165,164,"heermanni","Dipodomys","Heermann's Kangaroo Rat",LC,U,-16731116
+166,164,"stephensi","Dipodomys","Stephens' Kangaroo Rat",EN,D,-8572416
+167,163,"panamintinus","Dipodomys","Panamint Kangaroo Rat",LC,S,-16731116
+170,169,"californicus","Dipodomys","California Kangaroo Rat",LC,S,-16731116
+171,169,"phillipsii","Dipodomys","Phillip's Kangaroo Rat",LC,S,-16731116
+172,168,"elator","Dipodomys","Texas Kangaroo Rat",VU,D,-11184866
+174,173,"merriami","Dipodomys","Merriam's Kangaroo Rat",LC,S,-16731116
+175,173,"nitratoides","Dipodomys","Fresno Kangaroo Rat",VU,D,-11184866
+179,178,"gravipes","Dipodomys","San Quintin Kangaroo Rat",CR,U,-3014646
+180,178,"ingens","Dipodomys","Giant Kangaroo Rat",EN,D,-8572416
+181,177,"ordii","Dipodomys","Ord's Kangaroo Rat",LC,S,-16731116
+182,176,"compactus","Dipodomys","Gulf Coast Kangaroo Rat",LC,S,-16731116
+185,184,"spectabilis","Dipodomys","Banner-tailed Kangaroo Rat",NT,D,-12486656
+186,184,"nelsoni","Dipodomys","Nelson's Kangaroo Rat",LC,S,-16731116
+187,183,"deserti","Dipodomys","Desert Kangaroo Rat",LC,S,-16731116
+189,188,"megacephalus","Microdipodops","Dark Kangaroo Mouse",LC,D,-16731116
+190,188,"pallidus","Microdipodops","Pale Kangaroo Mouse",LC,D,-16731116

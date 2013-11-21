@@ -1,75 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"atricapillus","Parus","Black-capped Chickadee",LC,U,-16731116
-15,13,"gambeli","Parus","Mountain Chickadee",LC,U,-16731116
-17,16,"carolinensis","Parus","Carolina Chickadee",LC,U,-16731116
-18,16,"sclateri","Parus","Mexican Chickadee",LC,U,-16731116
-21,20,"rufescens","Parus","Chestnut-backed Chickadee",LC,U,-16731116
-22,20,"hudsonicus","Parus","Boreal Chickadee",LC,U,-16731116
-23,19,"cinctus","Parus","Siberian Tit",LC,U,-16731116
-25,24,"davidi","Parus","Rusty-breasted Tit",LC,U,-16731116
-26,24,"montanus","Parus","Willow Tit",LC,U,-16731116
-28,27,"fringillinus","Parus","Red-throated Tit",LC,U,-16731116
-29,27,"varius","Parus","Varied Tit",LC,U,-16731116
-31,30,"superciliosus","Parus","White-browed Tit",LC,U,-16731116
-32,30,"lugubris","Parus","Sombre Tit",LC,U,-16731116
-37,36,"rubidiventris","Parus","Rufous-vented Tit",LC,U,-16731116
-38,36,"rufonuchalis","Parus","Dark-grey Tit",LC,U,-16731116
-40,39,"carpi","Parus","Carp's Black Tit",_U,[,-16777216
-41,39,"ater","Parus","Coal Tit",LC,U,-16731116
-44,43,"venustulus","Parus","Yellow-bellied Tit",LC,U,-16731116
-45,43,"amabilis","Parus","Palawan Tit",NT,U,-12486656
-46,42,"elegans","Parus","Elegant Tit",LC,U,-16731116
-48,47,"cinerascens","Parus","Ashy Tit",LC,U,-16731116
-49,47,"thruppi","Parus","Somali Tit",LC,U,-16731116
-54,53,"atricristatus","Baeolophus","Black-crested Titmouse",LC,U,-16731116
-55,53,"bicolor","Baeolophus","Tufted Titmouse",LC,U,-16731116
-57,56,"ridgwayi","Baeolophus","Juniper Titmouse",LC,U,-16731116
-58,56,"inornatus","Baeolophus","Oak Titmouse",LC,U,-16731116
-59,51,"wollweberi","Baeolophus","Bridled Titmouse",LC,U,-16731116
-61,60,"dichrous","Parus","Grey-crested Tit",LC,U,-16731116
-62,60,"cristatus","Parus","Crested Tit",LC,U,-16731116
-68,67,"hypermelaenus","Parus","Black-bibbed Tit",LC,U,-16731116
-69,67,"nuchalis","Parus","White-naped Tit",VU,U,-11184866
-70,66,"funereus","Parus","Dusky Tit",LC,U,-16731116
-72,71,"albiventris","Parus","White-bellied Tit",LC,U,-16731116
-73,71,"niger","Parus","Black Tit",LC,U,-16731116
-76,75,"semilarvatus","Parus","White-fronted Tit",NT,U,-12486656
-77,75,"rufiventris","Parus","Rufous-bellied Tit",LC,U,-16731116
-79,78,"fasciiventer","Parus","Stripe-breasted Tit",LC,U,-16731116
-80,78,"leuconotus","Parus","White-backed Tit",LC,U,-16731116
-86,85,"spilonotus","Parus","Yellow-cheeked Tit",LC,U,-16731116
-87,85,"leucomelas","Parus","White-winged Tit",LC,U,-16731116
-88,84,"xanthogenys","Parus","Black-lored Tit",LC,U,-16731116
-89,83,"holsti","Parus","Yellow Tit",NT,U,-12486656
-90,82,"afer","Parus","Grey Tit",LC,U,-16731116
-93,92,"palustris","Parus","Marsh Tit",LC,U,-16731116
-94,92,"major","Parus","Great Tit",LC,U,-16731116
-95,91,"monticolus","Parus","Green-backed Tit",LC,U,-16731116
-99,98,"caeruleus","Parus","Blue Tit",LC,U,-16731116
-100,98,"cyanus","Parus","Azure Tit",LC,U,-16731116
-101,97,"teneriffae","Parus","African Blue Tit",_U,[,-16777216
-102,96,"griseiventris","Parus","Miombo Tit",LC,U,-16731116
-103,3,"sultanea","Melanochlora","Sultan Tit",LC,U,-16731116
-105,104,"humilis","Pseudopodoces","Tibetan Ground-tit",LC,U,-16731116
-106,104,"modestus","Sylviparus","Yellow-browed Tit",LC,U,-16731116
-113,112,"musculus","Anthoscopus","Mouse-coloured Penduline-tit",LC,U,-16731116
-114,112,"punctifrons","Anthoscopus","Sennar Penduline-tit",LC,U,-16731116
-115,111,"flavifrons","Anthoscopus","Forest Penduline-tit",LC,U,-16731116
-117,116,"minutus","Anthoscopus","Southern Penduline-tit",LC,U,-16731116
-118,116,"caroli","Anthoscopus","African Penduline-tit",LC,U,-16731116
-119,109,"parvulus","Anthoscopus","Yellow Penduline-tit",LC,U,-16731116
-123,122,"pendulinus","Remiz","Eurasian Penduline-tit",LC,U,-16731116
-124,122,"consobrinus","Remiz","Chinese Penduline-tit",LC,U,-16731116
-125,121,"macronyx","Remiz","Black-headed Penduline-tit",LC,U,-16731116
-126,120,"coronatus","Remiz","White-crowned Penduline-tit",LC,U,-16731116
-127,107,"flaviceps","Auriparus","Verdin",LC,U,-16731116
-134,133,"albiventris","Elminia","White-bellied Crested-flycatcher",LC,U,-16731116
-135,133,"albonotata","Elminia","White-tailed Crested-flycatcher",LC,U,-16731116
-136,132,"nigromitrata","Elminia","Dusky Crested-flycatcher",LC,U,-16731116
-138,137,"albicauda","Elminia","White-tailed Blue-flycatcher",LC,U,-16731116
-139,137,"longicauda","Elminia","African Blue-flycatcher",LC,U,-16731116
-141,140,"ceylonensis","Culicicapa","Grey-headed Canary-flycatcher",LC,U,-16731116
-142,140,"helianthea","Culicicapa","Citrine Canary-flycatcher",LC,U,-16731116
-143,129,"scita","Stenostira","Fairy Warbler",LC,U,-16731116
-145,144,"hypoxantha","Chelidorhynx","Yellow-bellied Fantail",_U,[,-16777216
-146,144,"flammiceps","Cephalopyrus","Fire-capped Tit",LC,U,-16731116
+9,8,"iserni","Rhinella","Rio Perene Toad",DD,U,-11513776
+10,8,"acutirostris","Rhinella","",LC,S,-16731116
+11,7,"stanlaii","Rhinella","",LC,S,-16731116
+12,6,"proboscidea","Rhinella","",LC,S,-16731116
+15,14,"margaritifera","Rhinella","South American Common Toad",LC,S,-16731116
+16,14,"scitula","Rhinella","",DD,U,-11513776
+17,13,"roqueana","Rhinella","",LC,U,-16731116
+19,18,"ceratophrys","Rhinella","",LC,S,-16731116
+20,18,"cristinae","Rhinella","",DD,U,-11513776
+22,21,"sclerocephala","Rhinella","",EN,D,-8572416
+23,21,"castaneotica","Rhinella","",LC,S,-16731116
+24,2,"dapsilis","Rhinella","",LC,S,-16731116
+25,1,"intermedia","Rhinella","",NE,U,-16777216
+31,30,"festae","Rhamphophryne","",NE,U,-16777216
+32,30,"tenrec","Rhamphophryne","",NE,U,-16777216
+33,29,"rostrata","Rhamphophryne","",NE,U,-16777216
+35,34,"macrorhina","Rhamphophryne","",NE,U,-16777216
+36,34,"truebae","Rhamphophryne","",NE,U,-16777216
+37,27,"proboscidea","Rhamphophryne","",NE,U,-16777216
+40,39,"acrolopha","Rhamphophryne","",NE,U,-16777216
+41,39,"nicefori","Rhamphophryne","",NE,U,-16777216
+43,42,"lindae","Rhamphophryne","",NE,U,-16777216
+44,42,"ruizi","Rhamphophryne","",NE,U,-16777216

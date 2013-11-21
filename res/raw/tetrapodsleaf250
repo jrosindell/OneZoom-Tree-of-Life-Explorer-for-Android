@@ -1,72 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"blainvillii","Phyllomys","Golden Atlantic Tree Rat",LC,U,-16731116
-16,14,"medius","Phyllomys","",LC,U,-16731116
-17,13,"lamarum","Phyllomys","Pallid Atlantic Tree Rat",DD,U,-11513776
-19,18,"dasythrix","Phyllomys","Drab Atlantic Tree Rat",LC,U,-16731116
-20,18,"chrysurus","Echimys","White-faced Tree Rat",LC,S,-16731116
-22,21,"macrura","Makalata","Long-tailed Tree Rat",LC,U,-16731116
-23,21,"grandis","Makalata","",NE,U,-16777216
-26,25,"unicolor","Phyllomys","Unicolored Tree Rat",CR,D,-3014646
-27,25,"pictus","Callistomys","Painted Tree-rat",EN,D,-8572416
-28,24,"nigrispinus","Phyllomys","Black-spined Atlantic Tree Rat",LC,U,-16731116
-31,30,"thomasi","Phyllomys","Giant Atlantic Tree Rat",EN,D,-8572416
-32,30,"saturnus","Echimys","Dark Spiny Tree-rat",DD,U,-11513776
-33,29,"semivillosus","Echimys","",NE,U,-16777216
-35,34,"brasiliensis","Phyllomys","Red-nosed Tree Rat",EN,D,-8572416
-36,34,"rhipidura","Makalata","Peruvian Tree Rat",DD,U,-11513776
-41,40,"caniceps","Diplomys","Arboreal Soft-furred Spiny Rat",DD,U,-11513776
-42,40,"rufodorsalis","Diplomys","",NE,U,-16777216
-43,39,"labilis","Diplomys","Rufous Tree Rat",LC,S,-16731116
-45,44,"didelphoides","Makalata","Brazilian Spiny Tree Rat",LC,U,-16731116
-46,44,"occasius","Makalata","",NE,U,-16777216
-49,48,"bistriata","Isothrix","Yellow-crowned Brush-tailed Rat",LC,U,-16731116
-50,48,"negrensis","Isothrix","",LC,U,-16731116
-51,47,"pagurus","Isothrix","Plain Brush-tailed Rat",LC,U,-16731116
-52,6,"urichi","Proechimys","Sucre Spiny Rat",LC,U,-16731116
-53,5,"goeldii","Proechimys","Goeldi's Spiny Rat",VU,D,-11184866
-54,4,"simonsi","Proechimys","Simon's Spiny Rat",LC,U,-16731116
-61,60,"leniceps","Mesomys","Woolly-headed Spiny Tree Rat",DD,U,-11513776
-62,60,"hispidus","Mesomys","Spiny Tree Rat",LC,U,-16731116
-64,63,"obscura","Makalata","Dark Armored Tree-rat",DD,U,-11513776
-65,63,"stimulax","Mesomys","Para Spiny Tree Rat",LC,U,-16731116
-67,66,"cuvieri","Proechimys","Cuvier's Spiny Rat",LC,U,-16731116
-68,66,"setosus","Trinomys","Hairy Spiny Rat",LC,U,-16731116
-69,57,"subspinosus","Chaetomys","Bristle-spined Rat",VU,D,-11184866
-71,70,"apereoides","Thrichomys","Punare",LC,U,-16731116
-72,70,"inermis","Thrichomys","",LC,U,-16731116
-75,74,"gratiosus","Trinomys","",LC,U,-16731116
-76,74,"paratus","Trinomys","",DD,U,-11513776
-77,73,"iheringi","Trinomys","Ihering's Spiny Rat",LC,S,-16731116
-80,79,"chrysaeolus","Proechimys","Boyaca Spiny Rat",DD,U,-11513776
-81,79,"mincae","Proechimys","Minca Spiny Rat",DD,U,-11513776
-82,78,"magdalenae","Proechimys","Magdalena Spiny Rat",DD,U,-11513776
-91,90,"hoplomyoides","Proechimys","Guyanan Spiny Rat",DD,U,-11513776
-92,90,"gymnurus","Hoplomys","Armored Rat",LC,S,-16731116
-93,89,"dimidiatus","Trinomys","Atlantic Spiny Rat",LC,U,-16731116
-95,94,"oconnelli","Proechimys","O'Connell's Spiny Rat",DD,U,-11513776
-96,94,"spinosus","Euryzygomatomys","Guiara",LC,U,-16731116
-97,87,"canicollis","Proechimys","Colombian Spiny Rat",LC,S,-16731116
-101,100,"poliopus","Proechimys","Gray-footed Spiny Rat",VU,D,-11184866
-102,100,"sulcidens","Carterodon","Owl's Spiny Rat",DD,U,-11513776
-103,99,"roberti","Proechimys","Roberto's Spiny Rat",VU,D,-11184866
-105,104,"emiliae","Lonchothrix","Tuft-tailed Spiny Tree Rat",LC,S,-16731116
-106,104,"albispinus","Trinomys","White-spined Spiny Rat",LC,U,-16731116
-110,109,"myosuros","Trinomys","Mouse-tailed Spiny Rat",LC,U,-16731116
-111,109,"trinitatus","Proechimys","Trinidad Spiny Rat",DD,U,-11513776
-112,108,"quadruplicatus","Proechimys","Napo Spiny Rat",LC,S,-16731116
-114,113,"semispinosus","Proechimys","Tome's Spiny Rat",LC,S,-16731116
-115,113,"steerei","Proechimys","Steere's Spiny Rat",LC,U,-16731116
-121,120,"boliviensis","Dactylomys","Bolivian Bamboo Rat",LC,S,-16731116
-122,120,"dactylinus","Dactylomys","Amazon Bamboo Rat",LC,S,-16731116
-123,119,"peruanus","Dactylomys","Peruvian Bamboo Rat",DD,U,-11513776
-125,124,"albicauda","Olallamys","White-tailed Olalla Rat",DD,U,-11513776
-126,124,"edax","Olallamys","Greedy Olalla Rat",DD,U,-11513776
-127,117,"amblyonyx","Kannabateomys","Atlantic Bamboo Rat",LC,U,-16731116
-128,116,"brevicauda","Proechimys","Huallaga Spiny Rat",LC,U,-16731116
-133,132,"bishopi","Clyomys","Bishop's Fossorial Spiny Rat",DD,U,-11513776
-134,132,"laticeps","Clyomys","Broad-headed Spiny Rat",LC,U,-16731116
-135,131,"decumanus","Proechimys","Pacific Spiny Rat",VU,D,-11184866
-136,130,"guyannensis","Proechimys","Cayenne Spiny Rat",LC,U,-16731116
-138,137,"longicaudatus","Proechimys","Long-tailed Spiny Rat",LC,D,-16731116
-139,137,"guairae","Proechimys","Guaira Spiny Rat",LC,U,-16731116
-140,0,"coypus","Myocastor","Coypu",LC,D,-16731116
+7,6,"lamellipennis","Xipholena","White-tailed Cotinga",LC,U,-16731116
+8,6,"atropurpurea","Xipholena","White-winged Cotinga",EN,U,-8572416
+9,5,"punicea","Xipholena","Pompadour Cotinga",LC,U,-16731116
+12,11,"hopkei","Carpodectes","Black-tipped Cotinga",LC,U,-16731116
+13,11,"nitidus","Carpodectes","Snowy Cotinga",LC,U,-16731116
+14,10,"antoniae","Carpodectes","Yellow-billed Cotinga",EN,U,-8572416
+16,15,"mcilhennyi","Conioptilon","Black-faced Cotinga",LC,U,-16731116
+17,15,"foetidus","Gymnoderus","Bare-necked Fruitcrow",LC,U,-16731116
+18,2,"porphyrolaema","Porphyrolaema","Purple-throated Cotinga",LC,U,-16731116
+22,21,"tricarunculatus","Procnias","Three-wattled Bellbird",VU,U,-11184866
+23,21,"albus","Procnias","White Bellbird",LC,U,-16731116
+24,20,"averano","Procnias","Bearded Bellbird",LC,U,-16731116
+25,19,"nudicollis","Procnias","Bare-throated Bellbird",VU,U,-11184866
+32,31,"uropygialis","Lipaugus","Scimitar-winged Piha",VU,U,-11184866
+33,31,"fuscocinereus","Lipaugus","Dusky Piha",LC,U,-16731116
+34,30,"streptophorus","Lipaugus","Rose-collared Piha",LC,U,-16731116
+35,29,"weberi","Lipaugus","Chestnut-capped Piha",EN,U,-8572416
+37,36,"lanioides","Lipaugus","Cinnamon-vented Piha",NT,U,-12486656
+38,36,"vociferans","Lipaugus","Screaming Piha",LC,U,-16731116
+39,27,"unirufus","Lipaugus","Rufous Piha",LC,U,-16731116
+41,40,"condita","Tijuca","Grey-winged Cotinga",VU,U,-11184866
+42,40,"atra","Tijuca","Black-and-gold Cotinga",NT,U,-12486656

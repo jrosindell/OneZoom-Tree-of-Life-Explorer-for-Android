@@ -1,29 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"nyctophylax","Eleutherodactylus","",NE,U,-16777216
-10,8,"schultei","Eleutherodactylus","",NE,U,-16777216
-11,7,"inguinalis","Eleutherodactylus","",NE,U,-16777216
-12,6,"memorans","Eleutherodactylus","",NE,U,-16777216
-13,5,"inusitatus","Eleutherodactylus","",NE,U,-16777216
-16,15,"pycnodermis","Eleutherodactylus","",NE,U,-16777216
-17,15,"ruidus","Eleutherodactylus","",NE,U,-16777216
-19,18,"atratus","Eleutherodactylus","",NE,U,-16777216
-20,18,"moro","Eleutherodactylus","",NE,U,-16777216
-22,21,"nervicus","Eleutherodactylus","",NE,U,-16777216
-23,21,"bacchus","Eleutherodactylus","",NE,U,-16777216
-29,28,"balionotus","Eleutherodactylus","",NE,U,-16777216
-30,28,"versicolor","Eleutherodactylus","",NE,U,-16777216
-31,27,"lirellus","Eleutherodactylus","",NE,U,-16777216
-32,26,"phragmipleuron","Eleutherodactylus","",NE,U,-16777216
-33,25,"carvalhoi","Eleutherodactylus","",NE,U,-16777216
-37,36,"cabrerai","Eleutherodactylus","",NE,U,-16777216
-38,36,"pugnax","Eleutherodactylus","",NE,U,-16777216
-39,35,"affinis","Eleutherodactylus","",NE,U,-16777216
-40,34,"baryecuus","Eleutherodactylus","",NE,U,-16777216
-44,43,"lacrimosus","Eleutherodactylus","",NE,U,-16777216
-45,43,"museosus","Eleutherodactylus","",NE,U,-16777216
-46,42,"rhodostichus","Eleutherodactylus","",NE,U,-16777216
-47,41,"calcaratus","Eleutherodactylus","",NE,U,-16777216
-51,50,"mercedesae","Eleutherodactylus","",NE,U,-16777216
-52,50,"petersi","Eleutherodactylus","",NE,U,-16777216
-53,49,"nigrogriseus","Eleutherodactylus","",NE,U,-16777216
-54,48,"anotis","Eleutherodactylus","",NE,U,-16777216
+10,9,"levraudi","Laterallus","Rusty-flanked Crake",EN,U,-8572416
+11,9,"spilonotus","Laterallus","Galapagos Rail",VU,U,-11184866
+12,8,"xenopterus","Laterallus","Rufous-faced Crake",VU,U,-11184866
+13,7,"melanophaius","Laterallus","Rufous-sided Crake",LC,U,-16731116
+15,14,"leucopyrrhus","Laterallus","Red-and-white Crake",LC,U,-16731116
+16,14,"albigularis","Laterallus","White-throated Crake",LC,U,-16731116
+18,17,"exilis","Laterallus","Grey-breasted Crake",LC,U,-16731116
+19,17,"ruber","Laterallus","Ruddy Crake",LC,U,-16731116
+21,20,"jamaicensis","Laterallus","Black Rail",NT,U,-12486656
+22,20,"tuerosi","Laterallus","Junin Rail",EN,U,-8572416
+25,24,"exquisitus","Coturnicops","Swinhoe's Rail",VU,U,-11184866
+26,24,"notatus","Coturnicops","Speckled Rail",LC,U,-16731116
+27,23,"noveboracensis","Coturnicops","Yellow Rail",LC,U,-16731116
+30,29,"plumbeiventris","Gymnocrex","Bare-eyed Rail",LC,U,-16731116
+31,29,"rosenbergii","Gymnocrex","Blue-faced Rail",VU,U,-11184866
+32,28,"talaudensis","Gymnocrex","Talaud Rail",EN,U,-8572416
+37,36,"forbesi","Rallina","Forbes's Forest-rail",LC,U,-16731116
+38,36,"mayri","Rallina","Mayr's Forest-rail",DD,U,-11513776
+39,35,"fasciata","Rallina","Red-legged Crake",LC,U,-16731116
+41,40,"leucospila","Rallina","White-striped Forest-rail",NT,U,-12486656
+42,40,"canningi","Rallina","Andaman Crake",NT,U,-12486656
+45,44,"eurizonoides","Rallina","Slaty-legged Crake",LC,U,-16731116
+46,44,"tricolor","Rallina","Red-necked Crake",LC,U,-16731116
+47,43,"rubra","Rallina","Chestnut Forest-rail",LC,U,-16731116
+51,50,"porphyrio","Porphyrio","Purple Swamphen",LC,U,-16731116
+52,50,"hochstetteri","Porphyrio","Takahe",EN,U,-8572416
+53,49,"alleni","Porphyrio","Allen's Gallinule",LC,U,-16731116
+55,54,"martinica","Porphyrio","Yellow-legged Gallinule",LC,U,-16731116
+56,54,"flavirostris","Porphyrio","Azure Gallinule",LC,U,-16731116

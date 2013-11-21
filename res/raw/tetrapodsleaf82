@@ -1,27 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"cerviniventris","Chlamydera","Fawn-breasted Bowerbird",LC,U,-16731116
-10,8,"nuchalis","Chlamydera","Great Bowerbird",LC,U,-16731116
-11,7,"guttata","Chlamydera","Western Bowerbird",LC,U,-16731116
-12,6,"maculata","Chlamydera","Spotted Bowerbird",LC,U,-16731116
-13,5,"lauterbachi","Chlamydera","Yellow-breasted Bowerbird",LC,U,-16731116
-16,15,"bakeri","Sericulus","Fire-maned Bowerbird",NT,U,-12486656
-17,15,"aureus","Sericulus","Masked Bowerbird",LC,U,-16731116
-18,14,"chrysocephalus","Sericulus","Regent Bowerbird",LC,U,-16731116
-19,3,"violaceus","Ptilonorhynchus","Satin Bowerbird",LC,U,-16731116
-22,21,"buccoides","Ailuroedus","White-eared Catbird",LC,U,-16731116
-23,21,"melanotis","Ailuroedus","Spotted Catbird",LC,U,-16731116
-24,20,"crassirostris","Ailuroedus","Green Catbird",LC,U,-16731116
-31,30,"papuensis","Archboldia","Archbold's Bowerbird",NT,U,-12486656
-32,30,"inornata","Amblyornis","Vogelkop Bowerbird",LC,U,-16731116
-33,29,"macgregoriae","Amblyornis","Macgregor's Bowerbird",LC,U,-16731116
-34,28,"flavifrons","Amblyornis","Golden-fronted Bowerbird",LC,U,-16731116
-35,27,"subalaris","Amblyornis","Streaked Bowerbird",LC,U,-16731116
-36,26,"newtoniana","Prionodura","Golden Bowerbird",LC,U,-16731116
-37,25,"dentirostris","Scenopoeetes","Tooth-billed Bowerbird",LC,U,-16731116
-43,42,"picumnus","Climacteris","Brown Treecreeper",LC,U,-16731116
-44,42,"rufus","Climacteris","Rufous Treecreeper",LC,U,-16731116
-45,41,"affinis","Climacteris","White-browed Treecreeper",LC,U,-16731116
-47,46,"melanurus","Climacteris","Black-tailed Treecreeper",LC,U,-16731116
-48,46,"erythrops","Climacteris","Red-browed Treecreeper",LC,U,-16731116
-49,39,"leucophaea","Cormobates","White-throated Treecreeper",LC,U,-16731116
-50,38,"placens","Cormobates","Papuan Treecreeper",LC,U,-16731116
+10,9,"cajamarcensis","Eleutherodactylus","",NE,U,-16777216
+11,9,"serendipitus","Eleutherodactylus","",NE,U,-16777216
+12,8,"bromeliaceus","Eleutherodactylus","",NE,U,-16777216
+13,7,"muscosus","Eleutherodactylus","",NE,U,-16777216
+14,6,"ventrimarmoratus","Eleutherodactylus","",NE,U,-16777216
+15,5,"pruinatus","Eleutherodactylus","",NE,U,-16777216
+16,4,"variabilis","Eleutherodactylus","",NE,U,-16777216
+18,17,"platydactylus","Eleutherodactylus","",NE,U,-16777216
+19,17,"leucopus","Eleutherodactylus","",NE,U,-16777216
+21,20,"phoxocephalus","Eleutherodactylus","",NE,U,-16777216
+22,20,"colodactylus","Eleutherodactylus","",NE,U,-16777216
+24,23,"hernandezi","Eleutherodactylus","",NE,U,-16777216
+25,23,"miyatai","Eleutherodactylus","",NE,U,-16777216
+30,29,"chloronotus","Eleutherodactylus","",NE,U,-16777216
+31,29,"alalocophus","Eleutherodactylus","",NE,U,-16777216
+33,32,"laticlavius","Eleutherodactylus","",NE,U,-16777216
+34,32,"spinosus","Eleutherodactylus","",NE,U,-16777216
+35,27,"brevifrons","Eleutherodactylus","",NE,U,-16777216
+40,39,"grandiceps","Eleutherodactylus","",NE,U,-16777216
+41,39,"modipeplus","Eleutherodactylus","",NE,U,-16777216
+42,38,"eriphus","Eleutherodactylus","",NE,U,-16777216
+43,37,"petrobardus","Eleutherodactylus","",NE,U,-16777216
+44,36,"vicarius","Eleutherodactylus","",NE,U,-16777216

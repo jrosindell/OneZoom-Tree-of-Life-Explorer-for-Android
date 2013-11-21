@@ -1,92 +1,88 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"adenopleura","Babina","",LC,S,-16731116
-15,13,"psaltes","Babina","",NE,U,-16777216
-16,12,"chapaensis","Babina","Chapa Frog",LC,S,-16731116
-17,11,"daunchina","Babina","Emei Music Frog",LC,S,-16731116
-20,19,"holsti","Babina","Holst's Frog",EN,D,-8572416
-21,19,"pleuraden","Babina","",LC,D,-16731116
-23,22,"subaspera","Babina","",EN,D,-8572416
-24,22,"lini","Babina","",DD,U,-11513776
-33,32,"bergeri","Pelophylax","Italian Pool Frog",LC,D,-16731116
-34,32,"plancyi","Pelophylax","",LC,D,-16731116
-35,31,"epeiroticus","Pelophylax","Epirus Water Frog",VU,D,-11184866
-38,37,"cerigensis","Pelophylax","Karpathos Frog",CR,D,-3014646
-39,37,"demarchii","Pelophylax","",DD,U,-11513776
-40,36,"lessonae","Pelophylax","Pool Frog",LC,D,-16731116
-42,41,"ridibundus","Pelophylax","Eurasian Marsh Frog",LC,I,-16731116
-43,41,"saharicus","Pelophylax","Sahara Frog",LC,S,-16731116
-44,28,"fukienensis","Pelophylax","",LC,D,-16731116
-47,46,"nigromaculatus","Pelophylax","Black-spotted Pond Frog",NT,D,-12486656
-48,46,"kurtmuelleri","Pelophylax","Balkan Water Frog",LC,S,-16731116
-49,45,"bedriagae","Pelophylax","Levantine Frog",LC,D,-16731116
-56,55,"nigrolineatus","Pelophylax","",NE,U,-16777216
-57,55,"terentievi","Pelophylax","",DD,U,-11513776
-58,54,"shqipericus","Pelophylax","Albanian Water Frog",EN,D,-8572416
-61,60,"tenggerensis","Pelophylax","",EN,D,-8572416
-62,60,"shuchinae","Pelophylax","",NE,U,-16777216
-63,59,"porosus","Pelophylax","Daruma Pond Frog",LC,D,-16731116
-64,52,"hubeiensis","Pelophylax","",LC,U,-16731116
-67,66,"perezi","Pelophylax","Perez's Frog",LC,S,-16731116
-68,66,"chosenicus","Pelophylax","",VU,D,-11184866
-69,65,"cretensis","Pelophylax","Cretan Frog",EN,D,-8572416
-70,50,"lateralis","Pelophylax","Kokarit Frog",LC,U,-16731116
-74,73,"rugosa","Glandirana","Japanese Wrinkled Frog",LC,S,-16731116
-75,73,"minima","Glandirana","",CR,D,-3014646
-76,72,"tientaiensis","Glandirana","",NT,D,-12486656
-77,71,"emeljanovi","Glandirana","",LC,D,-16731116
-83,82,"orphnocnemis","Meristogenys","",LC,D,-16731116
-84,82,"amoropalamus","Meristogenys","",VU,D,-11184866
-85,81,"jerboa","Meristogenys","",VU,S,-11184866
-87,86,"phaeomerus","Meristogenys","",NT,D,-12486656
-88,86,"poecilus","Meristogenys","",NT,D,-12486656
-91,90,"kinabaluensis","Meristogenys","Kiau Borneo Frog",NT,S,-12486656
-92,90,"whiteheadi","Meristogenys","",NT,D,-12486656
-93,89,"macrophthalmus","Meristogenys","",DD,U,-11513776
-94,78,"curtipes","Clinotarsus","",NT,D,-12486656
-99,98,"aurata","Sylvirana","",NE,U,-16777216
-100,98,"grisea","Sylvirana","",NE,U,-16777216
-101,96,"jimiensis","Sylvirana","",NE,U,-16777216
-111,110,"albotuberculata","Hydrophylax","",NE,U,-16777216
-112,110,"fonensis","Hydrophylax","",NE,U,-16777216
-113,109,"lepus","Hydrophylax","",NE,U,-16777216
-114,108,"kampeni","Hydrophylax","",NE,U,-16777216
-117,116,"parkerianus","Hydrophylax","",NE,U,-16777216
-118,116,"macrops","Hydrophylax","",NE,U,-16777216
-119,115,"chalconotus","Hydrophylax","",NE,U,-16777216
-123,122,"luzonensis","Hydrophylax","",NE,U,-16777216
-124,122,"tipanan","Hydrophylax","",NE,U,-16777216
-125,121,"raniceps","Hydrophylax","",NE,U,-16777216
-127,126,"malabaricus","Hydrophylax","",NE,U,-16777216
-128,126,"lemairei","Hydrophylax","",NE,U,-16777216
-133,132,"galamensis","Hydrophylax","",NE,U,-16777216
-134,132,"darlingi","Hydrophylax","",NE,U,-16777216
-136,135,"albolabris","Hydrophylax","",NE,U,-16777216
-137,135,"amnicola","Hydrophylax","",NE,U,-16777216
-138,130,"longipes","Hydrophylax","",NE,U,-16777216
-139,129,"occidentalis","Hydrophylax","",NE,U,-16777216
-142,141,"asperrima","Hydrophylax","",NE,U,-16777216
-143,141,"igorota","Hydrophylax","",NE,U,-16777216
-144,140,"everetti","Hydrophylax","",NE,U,-16777216
-145,103,"crassiovis","Hydrophylax","",NE,U,-16777216
-146,102,"sanguinea","Sanguirana","",LC,S,-16731116
-150,149,"erythraea","Hylarana","Common Green Frog",LC,S,-16731116
-151,149,"tytleri","Hylarana","",LC,S,-16731116
-153,152,"macrodactyla","Hylarana","",LC,S,-16731116
-154,152,"taipehensis","Hylarana","",LC,S,-16731116
-155,147,"guentheri","Hylarana","Gunther's Amoy Frog",LC,U,-16731116
-158,157,"tuberilinguis","Staurois","",NT,D,-12486656
-159,157,"natator","Staurois","",LC,D,-16731116
-160,156,"latopalmatus","Staurois","",LC,U,-16731116
-168,167,"deccanensis","Nyctibatrachus","",VU,D,-11184866
-169,167,"aliciae","Nyctibatrachus","",EN,D,-8572416
-170,166,"major","Nyctibatrachus","",VU,D,-11184866
-171,165,"petraeus","Nyctibatrachus","",LC,U,-16731116
-173,172,"kempholeyensis","Nyctibatrachus","",DD,U,-11513776
-174,172,"minor","Nyctibatrachus","",EN,D,-8572416
-177,176,"sylvaticus","Nyctibatrachus","",DD,U,-11513776
-178,176,"beddomii","Nyctibatrachus","",EN,D,-8572416
-180,179,"humayuni","Nyctibatrachus","",VU,D,-11184866
-181,179,"hussaini","Nyctibatrachus","",NE,U,-16777216
-183,182,"sanctipalustris","Nyctibatrachus","",EN,D,-8572416
-184,182,"vasanthi","Nyctibatrachus","",EN,D,-8572416
-185,161,"corrugatus","Lankanectes","",LC,S,-16731116
+14,13,"beccarii","Crocidura","Beccari's Shrew",LC,D,-16731116
+15,13,"elongata","Crocidura","Elongated Shrew",LC,D,-16731116
+16,12,"erica","Crocidura","Heather Shrew",DD,U,-11513776
+18,17,"obscurior","Crocidura","Obscure White-toothed Shrew",LC,U,-16731116
+19,17,"smithii","Crocidura","Desert Musk Shrew",LC,U,-16731116
+20,10,"bottegi","Crocidura","Bottego's Shrew",DD,U,-11513776
+24,23,"lasiura","Crocidura","Ussuri Shrew",LC,U,-16731116
+25,23,"attila","Crocidura","Hun Shrew",LC,U,-16731116
+26,22,"allex","Crocidura","East African Highland Shrew",VU,D,-11184866
+27,21,"lanosa","Crocidura","Kivu Long-haired Shrew",EN,D,-8572416
+31,30,"mindorus","Crocidura","Mindoro Shrew",DD,U,-11513776
+32,30,"raineyi","Crocidura","Rainey Shrew",DD,U,-11513776
+33,29,"picea","Crocidura","Cameroonian Shrew",EN,D,-8572416
+35,34,"manengubae","Crocidura","Manenguba Shrew",VU,D,-11184866
+36,34,"pitmani","Crocidura","Pitman's Shrew",DD,U,-11513776
+44,43,"eisentrauti","Crocidura","Eisentraut's Shrew",VU,S,-11184866
+45,43,"desperata","Crocidura","Desperate Shrew",EN,D,-8572416
+46,42,"buettikoferi","Crocidura","Buettikofer's Shrew",NT,D,-12486656
+48,47,"fuscomurina","Crocidura","Bicolored Musk Shrew",LC,U,-16731116
+49,47,"zaphiri","Crocidura","Zaphir's Shrew",DD,U,-11513776
+50,40,"pasha","Crocidura","Pasha Shrew",LC,U,-16731116
+51,39,"jacksoni","Crocidura","Jackson's Shrew",LC,S,-16731116
+53,52,"aleksandrisi","Crocidura","Alexandrian Shrew",LC,S,-16731116
+54,52,"zarudnyi","Crocidura","Zarudny's Shrew",LC,U,-16731116
+59,58,"trichura","Crocidura","Christmas Island Shrew",CR,U,-3014646
+60,58,"tanakae","Crocidura","Taiwanese Gray Shrew",LC,U,-16731116
+61,57,"attenuata","Crocidura","Grey Shrew",LC,U,-16731116
+62,56,"nana","Crocidura","Dwarf White-toothed Shrew",LC,U,-16731116
+63,55,"baileyi","Crocidura","Bailey's Shrew",EN,D,-8572416
+68,67,"dolichura","Crocidura","Long-tailed Musk Shrew",LC,U,-16731116
+69,67,"grassei","Crocidura","Grasse's Shrew",LC,U,-16731116
+70,66,"whitakeri","Crocidura","Whitaker's Shrew",LC,U,-16731116
+73,72,"parvipes","Crocidura","Small-footed Shrew",LC,S,-16731116
+74,72,"congobelgica","Crocidura","Congo Shrew",LC,U,-16731116
+75,71,"nigripes","Crocidura","Black-footed Shrew",LC,U,-16731116
+83,82,"roosevelti","Crocidura","Roosvelt's Shrew",LC,U,-16731116
+84,82,"wimmeri","Crocidura","Wimmer's Shrew",CR,U,-3014646
+86,85,"denti","Crocidura","Dent's Shrew",LC,U,-16731116
+87,85,"selina","Crocidura","Moon Shrew",DD,U,-11513776
+89,88,"fulvastra","Crocidura","Savanna Shrew",LC,S,-16731116
+90,88,"turba","Crocidura","Tumultuous Shrew",LC,U,-16731116
+94,93,"pergrisea","Crocidura","Pale Grey Shrew",DD,U,-11513776
+95,93,"nimbae","Crocidura","Nimba Shrew",NT,D,-12486656
+96,92,"tansaniana","Crocidura","Tanzanian Shrew",EN,D,-8572416
+97,91,"fischeri","Crocidura","Fischer's Shrew",DD,U,-11513776
+101,100,"douceti","Crocidura","Doucet's Musk Shrew",DD,U,-11513776
+102,100,"dhofarensis","Crocidura","Dhofarian Shrew",DD,U,-11513776
+104,103,"bottegoides","Crocidura","Bale Shrew",EN,D,-8572416
+105,103,"zimmeri","Crocidura","Upemba Shrew",DD,U,-11513776
+107,106,"palawanensis","Crocidura","Palawan Shrew",LC,U,-16731116
+108,106,"thalia","Crocidura","Thalia Shrew",LC,U,-16731116
+114,113,"andamanensis","Crocidura","Andaman White-toothed Shrew",CR,D,-3014646
+115,113,"arabica","Crocidura","Arabian Shrew",LC,U,-16731116
+117,116,"dsinezumi","Crocidura","Dsinezumi Shrew",LC,S,-16731116
+118,116,"macowi","Crocidura","Macow's Shrew",DD,U,-11513776
+119,111,"nanilla","Crocidura","Savanna Dwarf Shrew",LC,S,-16731116
+121,120,"mutesae","Crocidura","Uganda Large-toothed Shrew",DD,U,-11513776
+122,120,"voi","Crocidura","Voi Shrew",LC,S,-16731116
+123,109,"monax","Crocidura","Kilimanjaro Shrew",LC,U,-16731116
+134,133,"littoralis","Crocidura","Butiaba Naked-tailed Shrew",LC,U,-16731116
+135,133,"armenica","Crocidura","Armenian Shrew",DD,U,-11513776
+137,136,"negligens","Crocidura","Peninsular Shrew",LC,U,-16731116
+138,136,"malayana","Crocidura","Malayan Shrew",LC,U,-16731116
+139,131,"hirta","Crocidura","Lesser Red Musk Shrew",LC,U,-16731116
+142,141,"fumosa","Crocidura","Smoky White-toothed Shrew",VU,D,-11184866
+143,141,"somalica","Crocidura","Somali Shrew",LC,U,-16731116
+144,140,"longipes","Crocidura","Savanna Swamp Shrew",DD,U,-11513776
+145,129,"religiosa","Crocidura","Egyptian Pygmy Shrew",DD,U,-11513776
+148,147,"shantungensis","Crocidura","Asian Lesser White-toothed Shrew",LC,S,-16731116
+149,147,"suaveolens","Crocidura","Lesser Shrew",LC,S,-16731116
+150,146,"grandis","Crocidura","Greater Mindanao Shrew",DD,U,-11513776
+151,127,"phaeura","Crocidura","Guramba Shrew",EN,U,-8572416
+152,126,"macmillani","Crocidura","Macmillan's Shrew",VU,U,-11184866
+157,156,"nicobarica","Crocidura","Nicobar Shrew",CR,D,-3014646
+158,156,"sicula","Crocidura","Sicilian Shrew",LC,U,-16731116
+159,155,"yankariensis","Crocidura","Yankari Shrew",LC,S,-16731116
+160,154,"zimmermanni","Crocidura","Cretan Shrew",VU,D,-11184866
+161,153,"batesi","Crocidura","Bate's Shrew",LC,S,-16731116
+165,164,"polia","Crocidura","Fuscous Shrew",DD,U,-11513776
+166,164,"foxi","Crocidura","Fox's Shrew",LC,U,-16731116
+167,163,"elgonius","Crocidura","Elgon Shrew",LC,D,-16731116
+168,162,"jenkinsi","Crocidura","Jenkin's Shrew",CR,D,-3014646
+169,2,"goliath","Crocidura","Goliath Shrew",LC,U,-16731116
+172,171,"schoutedeni","Paracrocidura","Lesser Large-headed Shrew",LC,U,-16731116
+173,171,"maxima","Paracrocidura","Greater Large-headed Shrew",NT,D,-12486656
+174,170,"graueri","Paracrocidura","Grauer's Large-headed Shrew",DD,U,-11513776
+175,0,"pearsoni","Solisorex","Pearson's Long-clawed Shrew",EN,D,-8572416

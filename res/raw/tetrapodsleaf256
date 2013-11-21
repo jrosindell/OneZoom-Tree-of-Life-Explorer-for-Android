@@ -1,26 +1,104 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"quadrivittatus","Tamias","Colorado Chipmunk",LC,S,-16731116
-12,10,"dorsalis","Tamias","Cliff Chipmunk",LC,S,-16731116
-13,9,"cinereicollis","Tamias","Gray-collared Chipmunk",LC,S,-16731116
-15,14,"umbrinus","Tamias","Hidden Forest Chipmunk",LC,S,-16731116
-16,14,"palmeri","Tamias","Palmer's Chipmunk",EN,D,-8572416
-17,7,"rufus","Tamias","Hopi Chipmunk",LC,S,-16731116
-18,6,"bulleri","Tamias","Buller's Chipmunk",VU,D,-11184866
-22,21,"canipes","Tamias","Gray-footed Chipmunk",LC,S,-16731116
-23,21,"durangae","Tamias","Durango Chipmunk",LC,U,-16731116
-24,20,"quadrimaculatus","Tamias","Long-eared Chipmunk",LC,S,-16731116
-25,19,"amoenus","Tamias","Yellow-pine Chipmunk",LC,S,-16731116
-29,28,"sonomae","Tamias","Sonoma Chipmunk",LC,S,-16731116
-30,28,"senex","Tamias","Allen's Chipmunk",LC,S,-16731116
-31,27,"townsendii","Tamias","Townsend's Chipmunk",LC,S,-16731116
-32,26,"siskiyou","Tamias","Siskiyou Chipmunk",LC,S,-16731116
-34,33,"obscurus","Tamias","California Chipmunk",LC,S,-16731116
-35,33,"merriami","Tamias","Merriam's Chipmunk",LC,S,-16731116
-40,39,"ochrogenys","Tamias","Yellow-cheeked Chipmunk",LC,S,-16731116
-41,39,"ruficaudus","Tamias","Red-tailed Chipmunk",LC,S,-16731116
-42,38,"speciosus","Tamias","Lodgepole Chipmunk",LC,S,-16731116
-44,43,"alpinus","Tamias","Alpine Chipmunk",LC,S,-16731116
-45,43,"minimus","Tamias","Least Chipmunk",LC,S,-16731116
-46,36,"panamintinus","Tamias","Panamint Chipmunk",LC,S,-16731116
-47,1,"sibiricus","Tamias","Siberian Chipmunk",LC,S,-16731116
-48,0,"striatus","Tamias","Eastern Chipmunk",LC,S,-16731116
+8,7,"coypus","Myocastor","Coypu",LC,D,-16731116
+15,14,"prehensilis","Mysateles","Prehensile-tailed Hutia",NT,U,-12486656
+16,14,"garridoi","Mysateles","Garrido's Hutia",CR,U,-3014646
+18,17,"meridionalis","Mysateles","Isla De La Juventud Tree Hutia",CR,D,-3014646
+19,17,"melanurus","Mesocapromys","",NE,U,-16777216
+22,21,"ingrahami","Geocapromys","Bahamian Hutia",VU,S,-11184866
+23,21,"brownii","Geocapromys","Brown's Hutia",VU,D,-11184866
+25,24,"pilorides","Capromys","Desmarest's Hutia",LC,S,-16731116
+26,24,"gundlachianus","Capromys","",NE,U,-16777216
+30,29,"angelcabrerai","Mesocapromys","Cabrera's Hutia",EN,U,-8572416
+31,29,"auritus","Mesocapromys","Eared Hutia",EN,S,-8572416
+32,28,"sanfelipensis","Mesocapromys","Little Earth Hutia",CR,U,-3014646
+33,27,"nanus","Mesocapromys","Dwarf Hutia",CR,U,-3014646
+34,10,"aedium","Plagiodontia","Cuvier's Hutia",EN,D,-8572416
+35,9,"portoricensis","Isolobodon","Puerto Rican Hutia",EX,U,-16777036
+44,43,"crassispinis","Hystrix","Thick-spined Porcupine",LC,S,-16731116
+45,43,"cristata","Hystrix","Crested Porcupine",LC,U,-16731116
+46,42,"sumatrae","Hystrix","Sumatran Porcupine",LC,S,-16731116
+47,41,"indica","Hystrix","Indian Crested Porcupine",LC,S,-16731116
+48,40,"brachyura","Hystrix","Malayan Porcupine",LC,D,-16731116
+51,50,"africaeaustralis","Hystrix","Cape Porcupine",LC,S,-16731116
+52,50,"pumila","Hystrix","Phillipine Porcupine",VU,D,-11184866
+53,49,"javanica","Hystrix","Sunda Porcupine",LC,S,-16731116
+55,54,"macrourus","Atherurus","Asiatic Brush-tailed Porcupine",LC,D,-16731116
+56,54,"africanus","Atherurus","African Brush-tailed Porcupine",LC,U,-16731116
+57,37,"fasciculata","Trichys","Long-tailed Porcupine",LC,S,-16731116
+58,36,"branickii","Dinomys","Pacarana",VU,D,-11184866
+64,63,"viscacia","Lagidium","Southern Mountain Viscacha",LC,S,-16731116
+65,63,"wolffsohni","Lagidium","Wolffsohn's Viscacha",DD,U,-11513776
+66,62,"peruanum","Lagidium","Northern Mountain Viscacha",LC,S,-16731116
+68,67,"chinchilla","Chinchilla","Short-tailed Chinchilla",CR,D,-3014646
+69,67,"lanigera","Chinchilla","Chinchilla",CR,D,-3014646
+70,60,"maximus","Lagostomus","Plains Viscacha",LC,U,-16731116
+71,59,"boliviensis","Abrocoma","Bolivian Chinchilla Rat",CR,D,-3014646
+77,76,"shistacea","Abrocoma","Sierra Del Tontal Chinchilla Rat",DD,U,-11513776
+78,76,"cinerea","Abrocoma","Ashy Chinchilla Rat",LC,S,-16731116
+80,79,"famatina","Abrocoma","Famatina Chinchilla Rat",DD,U,-11513776
+81,79,"vaccarum","Abrocoma","Mendozan Chinchilla Rat",DD,U,-11513776
+82,74,"budini","Abrocoma","Budin's Chinchilla Rat",DD,U,-11513776
+83,73,"bennettii","Abrocoma","Bennett's Chinchilla Rat",LC,U,-16731116
+85,84,"isthmius","Hydrochoerus","Lesser Capybara",DD,U,-11513776
+86,84,"hydrochaeris","Hydrochoerus","Capybara",LC,U,-16731116
+99,98,"leporina","Dasyprocta","Red-rumped Agouti",LC,S,-16731116
+100,98,"cristata","Dasyprocta","Crested Agouti",DD,U,-11513776
+101,97,"punctata","Dasyprocta","Central American Agouti",LC,S,-16731116
+102,96,"ruatanica","Dasyprocta","Roatan Island Agouti",EN,D,-8572416
+105,104,"prymnolopha","Dasyprocta","Black-rumped Agouti",LC,U,-16731116
+106,104,"fuliginosa","Dasyprocta","Black Agouti",LC,S,-16731116
+107,103,"mexicana","Dasyprocta","Mexican Agouti",CR,D,-3014646
+109,108,"guamara","Dasyprocta","Orinoco Agouti",NT,D,-12486656
+110,108,"coibae","Dasyprocta","Coiban Agouti",VU,U,-11184866
+112,111,"kalinowskii","Dasyprocta","Kalinowski Agouti",DD,U,-11513776
+113,111,"azarae","Dasyprocta","Azara's Agouti",DD,D,-11513776
+115,114,"pratti","Myoprocta","Green Acouchi",LC,S,-16731116
+116,114,"acouchy","Myoprocta","Red Acouchi",LC,U,-16731116
+118,117,"swinderianus","Thryonomys","Greater Cane Rat",LC,U,-16731116
+119,117,"gregorianus","Thryonomys","Lesser Cane Rat",LC,U,-16731116
+126,125,"insidiosus","Sphiggurus","Bahia Hairy Dwarf Porcupine",LC,U,-16731116
+127,125,"melanurus","Sphiggurus","",LC,U,-16731116
+128,124,"mexicanus","Sphiggurus","Mexican Hairy Dwarf Porcupine",LC,D,-16731116
+131,130,"vestitus","Sphiggurus","Brown Hairy Dwarf Porcupine",DD,D,-11513776
+132,130,"pruinosus","Sphiggurus","",LC,U,-16731116
+133,129,"spinosus","Sphiggurus","Paraguay Hairy Dwarf Porcupine",LC,U,-16731116
+134,122,"villosus","Sphiggurus","Orange-spined Hairy Dwarf Porcupine",LC,U,-16731116
+135,121,"rufescens","Echinoprocta","Stump-tailed Porcupine",LC,U,-16731116
+140,139,"prehensilis","Coendou","Brazilian Porcupine",LC,S,-16731116
+141,139,"nycthemera","Coendou","Koopman's Porcupine",DD,U,-11513776
+142,138,"bicolor","Coendou","Bicolor-spined Porcupine",LC,U,-16731116
+143,137,"rothschildi","Coendou","Rothchild's Porcupine",LC,S,-16731116
+144,136,"dorsatum","Erethizon","North American Porcupine",LC,S,-16731116
+145,89,"typicus","Petromus","Dassie Rat",LC,S,-16731116
+147,146,"taczanowskii","Cuniculus","Mountain Paca",NT,D,-12486656
+148,146,"paca","Cuniculus","Spotted Paca",LC,S,-16731116
+150,149,"patagonum","Dolichotis","Patagonian Cavy",NT,D,-12486656
+151,149,"salinicola","Dolichotis","Chacoan Mara",LC,S,-16731116
+157,156,"torquatus","Ctenomys","Collared Tuco-tuco",LC,U,-16731116
+158,156,"maulinus","Ctenomys","Maule Tuco-tuco",LC,U,-16731116
+164,163,"knighti","Ctenomys","Catamarca Tuco-tuco",DD,U,-11513776
+165,163,"viperinus","Ctenomys","Vipos Tuco-tuco",DD,U,-11513776
+166,162,"steinbachi","Ctenomys","Steinbach's Tuco-tuco",LC,S,-16731116
+167,161,"pearsoni","Ctenomys","Pearson's Tuco-tuco",NT,D,-12486656
+169,168,"australis","Ctenomys","Southern Tuco-tuco",EN,D,-8572416
+170,168,"sociabilis","Ctenomys","Social Tuco-tuco",CR,D,-3014646
+174,173,"pontifex","Ctenomys","San Luis Tuco-tuco",DD,D,-11513776
+175,173,"perrensi","Ctenomys","Goya Tuco-tuco",LC,S,-16731116
+176,172,"validus","Ctenomys","Strong Tuco-tuco",DD,U,-11513776
+179,178,"frater","Ctenomys","Forest Tuco-tuco",LC,D,-16731116
+180,178,"sylvanus","Ctenomys","",DD,U,-11513776
+181,177,"budini","Ctenomys","",DD,U,-11513776
+188,187,"minutus","Ctenomys","Tiny Tuco-tuco",DD,U,-11513776
+189,187,"rionegrensis","Ctenomys","",EN,D,-8572416
+190,186,"azarae","Ctenomys","Azara's Tuco-tuco",VU,D,-11184866
+191,185,"latro","Ctenomys","Mottled Tuco-tuco",VU,D,-11184866
+193,192,"boliviensis","Ctenomys","Bolivian Tuco-tuco",LC,S,-16731116
+194,192,"goodfellowi","Ctenomys","",LC,U,-16731116
+198,197,"leucodon","Ctenomys","White-toothed Tuco-tuco",LC,S,-16731116
+199,197,"porteousi","Ctenomys","Porteous's Tuco-tuco",NT,D,-12486656
+200,196,"colburni","Ctenomys","Bolburn's Tuco-tuco",DD,U,-11513776
+202,201,"bonettoi","Ctenomys","Bonetto's Tuco-tuco",EN,D,-8572416
+203,201,"haigi","Ctenomys","Haig's Tuco-tuco",LC,U,-16731116
+205,204,"lewisi","Ctenomys","Lewis's Tuco-tuco",LC,S,-16731116
+206,204,"talarum","Ctenomys","Talas Tuco-tuco",LC,U,-16731116
+207,152,"argentinus","Ctenomys","Argentine Tuco-tuco",NT,D,-12486656

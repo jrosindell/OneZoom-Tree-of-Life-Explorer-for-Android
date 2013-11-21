@@ -1,39 +1,27 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"borroloola","Gehyra","",NE,U,-16777216
-13,11,"pilbara","Gehyra","",NE,U,-16777216
-14,10,"oceanica","Gehyra","",NE,U,-16777216
-15,9,"vorax","Gehyra","",NE,U,-16777216
-17,16,"australis","Gehyra","",NE,U,-16777216
-18,16,"pamela","Gehyra","",NE,U,-16777216
-21,20,"variegata","Gehyra","",NE,U,-16777216
-22,20,"nana","Gehyra","",NE,U,-16777216
-23,19,"mutilata","Gehyra","",NE,U,-16777216
-24,6,"dubia","Gehyra","",NE,U,-16777216
-31,30,"punctatus","Pachydactylus","",NE,U,-16777216
-32,30,"rugosus","Pachydactylus","",NE,U,-16777216
-33,29,"capensis","Pachydactylus","",NE,U,-16777216
-34,28,"vanzyli","Pachydactylus","",NE,U,-16777216
-35,27,"bibroni","Chondrodactylus","",NE,U,-16777216
-36,26,"barnardi","Rhoptropus","",NE,U,-16777216
-37,25,"tuberculosus","Elasmodactylus","",NE,U,-16777216
-38,4,"annularis","Tarentola","",NE,U,-16777216
-39,3,"maculata","Geckolepis","",NE,U,-16777216
-43,42,"borbonica","Phelsuma","",NE,U,-16777216
-44,42,"cepediana","Phelsuma","",NE,U,-16777216
-45,41,"madagascariensis","Phelsuma","",NE,U,-16777216
-46,40,"lineata","Phelsuma","",NE,U,-16777216
-50,49,"wolterstorffi","Urocotyledon","",NE,U,-16777216
-51,49,"weileri","Urocotyledon","",NE,U,-16777216
-52,48,"palmata","Urocotyledon","",NE,U,-16777216
-53,47,"fimbriatus","Uroplatus","",NE,U,-16777216
-63,62,"frenatus","Hemidactylus","",NE,U,-16777216
-64,62,"brookii","Hemidactylus","",NE,U,-16777216
-65,61,"platyurus","Hemidactylus","",NE,U,-16777216
-66,60,"platycephalus","Hemidactylus","",NE,U,-16777216
-68,67,"turcicus","Hemidactylus","Turkish Gecko",LC,I,-16731116
-69,67,"depressus","Hemidactylus","",NE,U,-16777216
-70,58,"leschenaulti","Hemidactylus","",NE,U,-16777216
-71,57,"europea","Euleptes","",NE,U,-16777216
-72,56,"sternus","Stenodactylus","",NE,U,-16777216
-73,55,"garrulus","Ptenopus","",NE,U,-16777216
-74,54,"bastardi","Paroedura","",NE,U,-16777216
+9,8,"hirundinacea","Sterna","South American Tern",LC,U,-16731116
+10,8,"vittata","Sterna","Antarctic Tern",LC,U,-16731116
+11,7,"paradisaea","Sterna","Arctic Tern",LC,U,-16731116
+12,6,"hirundo","Sterna","Common Tern",LC,U,-16731116
+15,14,"striata","Sterna","White-fronted Tern",LC,U,-16731116
+16,14,"dougallii","Sterna","Roseate Tern",LC,U,-16731116
+17,13,"sumatrana","Sterna","Black-naped Tern",LC,U,-16731116
+19,18,"trudeaui","Sterna","Snowy-crowned Tern",LC,U,-16731116
+20,18,"forsteri","Sterna","Forster's Tern",LC,U,-16731116
+24,23,"bengalensis","Sterna","Lesser Crested Tern",LC,U,-16731116
+25,23,"maxima","Sterna","Royal Tern",LC,U,-16731116
+26,22,"bergii","Sterna","Great Crested Tern",LC,U,-16731116
+28,27,"sandvicensis","Sterna","Sandwich Tern",LC,U,-16731116
+29,27,"elegans","Sterna","Elegant Tern",NT,U,-12486656
+32,31,"saundersi","Sterna","Saunders's Tern",LC,U,-16731116
+33,31,"inca","Larosterna","Inca Tern",NT,U,-12486656
+34,30,"repressa","Sterna","White-cheeked Tern",LC,U,-16731116
+38,37,"leucopterus","Chlidonias","White-winged Tern",LC,U,-16731116
+39,37,"niger","Chlidonias","Black Tern",LC,U,-16731116
+40,36,"hybrida","Chlidonias","Whiskered Tern",LC,U,-16731116
+42,41,"albostriata","Sterna","Black-fronted Tern",EN,U,-8572416
+43,41,"lorata","Sterna","Peruvian Tern",EN,U,-8572416
+47,46,"virgata","Sterna","Kerguelen Tern",NT,U,-12486656
+48,46,"aurantia","Sterna","River Tern",LC,U,-16731116
+49,45,"caspia","Sterna","Caspian Tern",LC,U,-16731116
+50,44,"nilotica","Sterna","Gull-billed Tern",LC,U,-16731116

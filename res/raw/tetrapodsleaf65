@@ -1,25 +1,37 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"fanovanae","Newtonia","Red-tailed Newtonia",VU,U,-11184866
-10,8,"amphichroa","Newtonia","Dark Newtonia",LC,U,-16731116
-11,7,"archboldi","Newtonia","Archbold's Newtonia",LC,U,-16731116
-12,6,"brunneicauda","Newtonia","Common Newtonia",LC,U,-16731116
-15,14,"polleni","Xenopirostris","Pollen's Vanga",NT,U,-12486656
-16,14,"damii","Xenopirostris","Van Dam's Vanga",EN,U,-8572416
-17,13,"xenopirostris","Xenopirostris","Lafresnaye's Vanga",LC,U,-16731116
-18,4,"madagascarinus","Cyanolanius","Blue Vanga",LC,U,-16731116
-21,20,"madagascariensis","Calicalicus","Red-tailed Vanga",LC,U,-16731116
-22,20,"rufocarpalis","Calicalicus","Red-shouldered Vanga",VU,U,-11184866
-23,19,"curvirostris","Vanga","Hook-billed Vanga",LC,U,-16731116
-27,26,"crossleyi","Mystacornis","Crossley's Babbler",LC,U,-16731116
-28,26,"chabert","Leptopterus","Chabert's Vanga",LC,U,-16731116
-30,29,"prevostii","Euryceros","Helmet Vanga",VU,U,-11184866
-31,29,"rufa","Schetba","Rufous Vanga",LC,U,-16731116
-32,24,"wardi","Pseudobias","Ward's Flycatcher",LC,U,-16731116
-36,35,"palliata","Falculea","Sickle-billed Vanga",LC,U,-16731116
-37,35,"viridis","Artamella","White-headed Vanga",LC,U,-16731116
-38,34,"bernieri","Oriolia","Bernier's Vanga",VU,U,-11184866
-41,40,"corallirostris","Hypositta","Nuthatch Vanga",LC,U,-16731116
-42,40,"perdita","Hypositta","Bluntschli's Vanga",DD,U,-11513776
-43,39,"eduardi","Tylas","Tylas Vanga",LC,U,-16731116
-45,44,"pyrhoptera","Philentoma","Rufous-winged Philentoma",LC,U,-16731116
-46,44,"velata","Philentoma","Maroon-breasted Philentoma",NT,U,-12486656
+11,10,"lateristrigatus","Hylodes","",LC,D,-16731116
+12,10,"otavioi","Hylodes","",DD,U,-11513776
+13,9,"charadranaetes","Hylodes","",DD,U,-11513776
+14,8,"vanzolinii","Hylodes","",DD,U,-11513776
+15,7,"amnicola","Hylodes","",DD,U,-11513776
+18,17,"heyeri","Hylodes","",DD,D,-11513776
+19,17,"regius","Hylodes","",DD,D,-11513776
+20,16,"magalhaesi","Hylodes","",DD,U,-11513776
+24,23,"meridionalis","Hylodes","",LC,D,-16731116
+25,23,"phyllodes","Hylodes","",LC,D,-16731116
+27,26,"sazimai","Hylodes","",DD,D,-11513776
+28,26,"uai","Hylodes","",DD,U,-11513776
+29,21,"ornatus","Hylodes","",LC,D,-16731116
+30,4,"babax","Hylodes","",DD,U,-11513776
+35,34,"perplicatus","Hylodes","",LC,D,-16731116
+36,34,"nasus","Hylodes","",LC,D,-16731116
+37,33,"asper","Hylodes","",LC,S,-16731116
+38,32,"dactylocinus","Hylodes","",DD,U,-11513776
+39,31,"mertensi","Hylodes","",DD,U,-11513776
+40,2,"glaber","Hylodes","",DD,U,-11513776
+45,44,"massarti","Megaelosia","",DD,U,-11513776
+46,44,"goeldii","Megaelosia","",LC,D,-16731116
+47,43,"boticariana","Megaelosia","",DD,U,-11513776
+48,42,"lutzae","Megaelosia","",DD,U,-11513776
+50,49,"bocainensis","Megaelosia","",DD,U,-11513776
+51,49,"apuana","Megaelosia","",DD,U,-11513776
+59,58,"caramaschii","Crossodactylus","",LC,D,-16731116
+60,58,"lutzorum","Crossodactylus","",DD,U,-11513776
+61,57,"grandis","Crossodactylus","",DD,D,-11513776
+62,56,"aeneus","Crossodactylus","",DD,D,-11513776
+63,55,"gaudichaudii","Crossodactylus","",LC,D,-16731116
+65,64,"bokermanni","Crossodactylus","",DD,D,-11513776
+66,64,"dantei","Crossodactylus","",DD,D,-11513776
+67,53,"schmidti","Crossodactylus","",NT,D,-12486656
+69,68,"trachystomus","Crossodactylus","",DD,D,-11513776
+70,68,"dispar","Crossodactylus","",DD,D,-11513776

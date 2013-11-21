@@ -1,24 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"cambodiana","Arborophila","Chestnut-headed Partridge",LC,U,-16731116
-11,9,"rubrirostris","Arborophila","Red-billed Partridge",LC,U,-16731116
-12,8,"rufipectus","Arborophila","Sichuan Partridge",EN,U,-8572416
-13,7,"torqueola","Arborophila","Hill Partridge",LC,U,-16731116
-16,15,"chloropus","Arborophila","Scaly-breasted Partridge",LC,U,-16731116
-17,15,"brunneopectus","Arborophila","Bar-backed Partridge",LC,U,-16731116
-18,14,"orientalis","Arborophila","White-faced Partridge",VU,U,-11184866
-21,20,"rufogularis","Arborophila","Rufous-throated Partridge",LC,U,-16731116
-22,20,"gingica","Arborophila","White-necklaced Partridge",VU,U,-11184866
-23,19,"crudigularis","Arborophila","Taiwan Partridge",NT,U,-12486656
-24,4,"hyperythra","Arborophila","Red-breasted Partridge",LC,U,-16731116
-27,26,"charltonii","Arborophila","Chestnut-necklaced Partridge",NT,U,-12486656
-28,26,"javanica","Arborophila","Chestnut-bellied Partridge",LC,U,-16731116
-29,25,"campbelli","Arborophila","Malaysian Partridge",LC,U,-16731116
-34,33,"mandellii","Arborophila","Chestnut-breasted Partridge",VU,U,-11184866
-35,33,"davidi","Arborophila","Orange-necked Partridge",NT,U,-12486656
-36,32,"sumatrana","Arborophila","Grey-breasted Partridge",LC,U,-16731116
-38,37,"ardens","Arborophila","Hainan Partridge",VU,U,-11184866
-39,37,"rolli","Arborophila","Roll's Partridge",LC,U,-16731116
-40,30,"atrogularis","Arborophila","White-cheeked Partridge",NT,U,-12486656
-42,41,"oculeus","Caloperdix","Ferruginous Partridge",NT,U,-12486656
-43,41,"rouloul","Rollulus","Crested Partridge",NT,U,-12486656
-44,0,"niger","Melanoperdix","Black Partridge",VU,U,-11184866
+9,8,"timorensis","Bradypterus","Timor Bush-warbler",NT,U,-12486656
+10,8,"brunneus","Dromaeocercus","Brown Emu-tail",LC,U,-16731116
+11,7,"baboecala","Bradypterus","African Bush-warbler",LC,U,-16731116
+12,6,"graueri","Bradypterus","Grauer's Swamp-warbler",EN,U,-8572416
+14,13,"carpalis","Bradypterus","White-winged Scrub-warbler",LC,U,-16731116
+15,13,"neumanni","Hemitesia","Neumann's Warbler",LC,U,-16731116
+20,19,"palliseri","Bradypterus","Sri Lanka Bush-warbler",NT,U,-12486656
+21,19,"barratti","Bradypterus","African Scrub-warbler",LC,U,-16731116
+22,18,"lopezi","Bradypterus","Cameroon Scrub-warbler",LC,U,-16731116
+23,17,"cinnamomeus","Bradypterus","Bracken Warbler",LC,U,-16731116
+24,16,"bangwaensis","Bradypterus","Bangwa Forest Warbler",NT,U,-12486656
+27,26,"major","Bradypterus","Long-billed Bush-warbler",NT,U,-12486656
+28,26,"sylvaticus","Bradypterus","Knysna Warbler",VU,U,-11184866
+29,25,"accentor","Bradypterus","Friendly Bush-warbler",LC,U,-16731116
+31,30,"brevirostris","Schoenicola","Fan-tailed Grassbird",LC,U,-16731116
+32,30,"platyurus","Schoenicola","Broad-tailed Grassbird",VU,U,-11184866
+35,34,"mathewsi","Cincloramphus","Rufous Songlark",LC,U,-16731116
+36,34,"cruralis","Cincloramphus","Brown Songlark",LC,U,-16731116
+38,37,"palustris","Megalurus","Striated Grassbird",LC,U,-16731116
+39,37,"timoriensis","Megalurus","Tawny Grassbird",LC,U,-16731116
+41,40,"albolimbatus","Megalurus","Fly River Grassbird",VU,U,-11184866
+42,40,"gramineus","Megalurus","Little Grassbird",LC,U,-16731116

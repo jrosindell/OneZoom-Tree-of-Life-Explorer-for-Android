@@ -1,0 +1,24 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"littoralis","Crocidura","Butiaba Naked-tailed Shrew",LC,U,-16731116
+11,9,"armenica","Crocidura","Armenian Shrew",DD,U,-11513776
+13,12,"negligens","Crocidura","Peninsular Shrew",LC,U,-16731116
+14,12,"malayana","Crocidura","Malayan Shrew",LC,U,-16731116
+15,7,"hirta","Crocidura","Lesser Red Musk Shrew",LC,U,-16731116
+18,17,"fumosa","Crocidura","Smoky White-toothed Shrew",VU,D,-11184866
+19,17,"somalica","Crocidura","Somali Shrew",LC,U,-16731116
+20,16,"longipes","Crocidura","Savanna Swamp Shrew",DD,U,-11513776
+21,5,"religiosa","Crocidura","Egyptian Pygmy Shrew",DD,U,-11513776
+24,23,"shantungensis","Crocidura","Asian Lesser White-toothed Shrew",LC,S,-16731116
+25,23,"suaveolens","Crocidura","Lesser Shrew",LC,S,-16731116
+26,22,"grandis","Crocidura","Greater Mindanao Shrew",DD,U,-11513776
+27,3,"phaeura","Crocidura","Guramba Shrew",EN,U,-8572416
+28,2,"macmillani","Crocidura","Macmillan's Shrew",VU,U,-11184866
+33,32,"nicobarica","Crocidura","Nicobar Shrew",CR,D,-3014646
+34,32,"sicula","Crocidura","Sicilian Shrew",LC,U,-16731116
+35,31,"yankariensis","Crocidura","Yankari Shrew",LC,S,-16731116
+36,30,"zimmermanni","Crocidura","Cretan Shrew",VU,D,-11184866
+37,29,"batesi","Crocidura","Bate's Shrew",LC,S,-16731116
+41,40,"polia","Crocidura","Fuscous Shrew",DD,U,-11513776
+42,40,"foxi","Crocidura","Fox's Shrew",LC,U,-16731116
+43,39,"elgonius","Crocidura","Elgon Shrew",LC,D,-16731116
+44,38,"jenkinsi","Crocidura","Jenkin's Shrew",CR,D,-3014646

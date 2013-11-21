@@ -1,114 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"novaezelandiae","Cyanoramphus","Red-fronted Parakeet",VU,U,-11184866
-18,16,"auriceps","Cyanoramphus","Yellow-crowned Parakeet",NT,U,-12486656
-20,19,"malherbi","Cyanoramphus","Malherbe's Parakeet",CR,U,-3014646
-21,19,"unicolor","Cyanoramphus","Antipodes Parakeet",VU,U,-11184866
-22,14,"cookii","Cyanoramphus","Norfolk Island Parakeet",EN,U,-8572416
-23,13,"forbesi","Cyanoramphus","Chatham Parakeet",EN,U,-8572416
-24,12,"saisseti","Cyanoramphus","New Caledonian Parakeet",VU,U,-11184866
-26,25,"cornutus","Eunymphicus","Horned Parakeet",VU,U,-11184866
-27,25,"uvaeensis","Eunymphicus","Uvea Parakeet",EN,U,-8572416
-32,31,"modesta","Psittacella","Modest Tiger-parrot",LC,U,-16731116
-33,31,"picta","Psittacella","Painted Tiger-parrot",LC,U,-16731116
-34,30,"madaraszi","Psittacella","Madarasz's Tiger-parrot",LC,U,-16731116
-35,29,"brehmii","Psittacella","Brehm's Tiger-parrot",LC,U,-16731116
-38,37,"personata","Prosopeia","Masked Shining-parrot",NT,U,-12486656
-39,37,"tabuensis","Prosopeia","Red Shining-parrot",LC,U,-16731116
-40,36,"splendens","Prosopeia","Crimson Shining-parrot",VU,U,-11184866
-41,9,"discolor","Lathamus","Swift Parrot",EN,U,-8572416
-49,48,"adscitus","Platycercus","Pale-headed Rosella",LC,U,-16731116
-50,48,"eximius","Platycercus","Eastern Rosella",LC,U,-16731116
-51,47,"venustus","Platycercus","Northern Rosella",LC,U,-16731116
-53,52,"caledonicus","Platycercus","Green Rosella",LC,U,-16731116
-54,52,"elegans","Platycercus","Crimson Rosella",LC,U,-16731116
-55,45,"icterotis","Platycercus","Western Rosella",LC,U,-16731116
-60,59,"haematonotus","Psephotus","Red-rumped Parrot",LC,U,-16731116
-61,59,"varius","Psephotus","Mulga Parrot",LC,U,-16731116
-62,58,"dissimilis","Psephotus","Hooded Parrot",LC,U,-16731116
-63,57,"chrysopterygius","Psephotus","Golden-shouldered Parrot",EN,U,-8572416
-64,56,"spurius","Purpureicephalus","Red-capped Parrot",LC,U,-16731116
-65,43,"zonarius","Barnardius","Ringneck Parrot",LC,U,-16731116
-66,42,"haematogaster","Northiella","Blue Bonnet",LC,U,-16731116
-72,71,"chrysogaster","Neophema","Orange-bellied Parrot",CR,U,-3014646
-73,71,"pulchella","Neophema","Turquoise Parrot",LC,U,-16731116
-74,70,"petrophila","Neophema","Rock Parrot",LC,U,-16731116
-76,75,"splendida","Neophema","Scarlet-chested Parrot",LC,U,-16731116
-77,75,"elegans","Neophema","Elegant Parrot",LC,U,-16731116
-78,68,"chrysostoma","Neophema","Blue-winged Parrot",LC,U,-16731116
-79,67,"bourkii","Neopsephotus","Bourke's Parrot",LC,U,-16731116
-85,84,"keiensis","Micropsitta","Yellow-capped Pygmy-parrot",LC,U,-16731116
-86,84,"pusio","Micropsitta","Buff-faced Pygmy-parrot",LC,U,-16731116
-87,83,"finschii","Micropsitta","Finsch's Pygmy-parrot",LC,U,-16731116
-88,82,"meeki","Micropsitta","Meek's Pygmy-parrot",LC,U,-16731116
-90,89,"bruijnii","Micropsitta","Red-breasted Pygmy-parrot",LC,U,-16731116
-91,89,"geelvinkiana","Micropsitta","Geelvink Pygmy-parrot",NT,U,-12486656
-94,93,"nigra","Coracopsis","Black Parrot",LC,U,-16731116
-95,93,"vasa","Coracopsis","Vasa Parrot",LC,U,-16731116
-96,92,"fulgidus","Psittrichas","Pesquet's Parrot",VU,U,-11184866
-104,103,"passerinus","Forpus","Green-rumped Parrotlet",LC,U,-16731116
-105,103,"modestus","Forpus","Dusky-billed Parrotlet",LC,U,-16731116
-107,106,"xanthopterygius","Forpus","Blue-winged Parrotlet",LC,U,-16731116
-108,106,"coelestis","Forpus","Pacific Parrotlet",LC,U,-16731116
-111,110,"conspicillatus","Forpus","Spectacled Parrotlet",LC,U,-16731116
-112,110,"xanthops","Forpus","Yellow-faced Parrotlet",VU,U,-11184866
-113,109,"cyanopygius","Forpus","Mexican Parrotlet",LC,U,-16731116
-119,118,"aurifrons","Psilopsiagon","Mountain Parakeet",LC,U,-16731116
-120,118,"aymara","Psilopsiagon","Grey-hooded Parakeet",LC,U,-16731116
-121,117,"pileata","Pionopsitta","Pileated Parrot",LC,U,-16731116
-122,116,"icterotis","Ognorhynchus","Yellow-eared Parrot",EN,U,-8572416
-127,126,"chrysoptera","Brotogeris","Golden-winged Parakeet",LC,U,-16731116
-128,126,"cyanoptera","Brotogeris","Cobalt-winged Parakeet",LC,U,-16731116
-130,129,"jugularis","Brotogeris","Orange-chinned Parakeet",LC,U,-16731116
-131,129,"pyrrhoptera","Brotogeris","Grey-cheeked Parakeet",EN,U,-8572416
-135,134,"versicolurus","Brotogeris","White-winged Parakeet",LC,U,-16731116
-136,134,"chiriri","Brotogeris","Yellow-chevroned Parakeet",LC,U,-16731116
-137,133,"sanctithomae","Brotogeris","Tui Parakeet",LC,U,-16731116
-138,132,"tirica","Brotogeris","Plain Parakeet",LC,U,-16731116
-139,123,"monachus","Myiopsitta","Monk Parakeet",LC,U,-16731116
-146,145,"costaricensis","Touit","Red-fronted Parrotlet",VU,U,-11184866
-147,145,"stictopterus","Touit","Spot-winged Parrotlet",VU,U,-11184866
-148,144,"huetii","Touit","Scarlet-shouldered Parrotlet",LC,U,-16731116
-150,149,"dilectissimus","Touit","Blue-fronted Parrotlet",LC,U,-16731116
-151,149,"batavicus","Touit","Lilac-tailed Parrotlet",LC,U,-16731116
-153,152,"purpuratus","Touit","Sapphire-rumped Parrotlet",LC,U,-16731116
-154,152,"surdus","Touit","Golden-tailed Parrotlet",VU,U,-11184866
-155,141,"melanonotus","Touit","Brown-backed Parrotlet",EN,U,-8572416
-159,158,"orbygnesius","Bolborhynchus","Andean Parakeet",LC,U,-16731116
-160,158,"lineola","Bolborhynchus","Barred Parakeet",LC,U,-16731116
-161,157,"ferrugineifrons","Bolborhynchus","Rufous-fronted Parakeet",VU,U,-11184866
-163,162,"dachilleae","Nannopsittaca","Amazonian Parrotlet",NT,U,-12486656
-164,162,"panychlora","Nannopsittaca","Tepui Parrotlet",LC,U,-16731116
-172,171,"flavifrons","Poicephalus","Yellow-fronted Parrot",LC,U,-16731116
-173,171,"meyeri","Poicephalus","Meyer's Parrot",LC,U,-16731116
-174,170,"crassus","Poicephalus","Niam-niam Parrot",LC,U,-16731116
-175,169,"cryptoxanthus","Poicephalus","Brown-headed Parrot",LC,U,-16731116
-178,177,"rufiventris","Poicephalus","Red-bellied Parrot",LC,U,-16731116
-179,177,"senegalus","Poicephalus","Senegal Parrot",LC,U,-16731116
-180,176,"rueppellii","Poicephalus","Rueppell's Parrot",LC,U,-16731116
-181,167,"gulielmi","Poicephalus","Red-fronted Parrot",LC,U,-16731116
-182,166,"robustus","Poicephalus","Brown-necked Parrot",LC,U,-16731116
-183,165,"erithacus","Psittacus","Grey Parrot",NT,U,-12486656
-195,194,"ducorpsii","Cacatua","Solomons Cockatoo",LC,U,-16731116
-196,194,"sanguinea","Cacatua","Little Corella",LC,U,-16731116
-197,193,"goffiniana","Cacatua","Tanimbar Cockatoo",NT,U,-12486656
-198,192,"haematuropygia","Cacatua","Philippine Cockatoo",CR,U,-3014646
-199,191,"leadbeateri","Cacatua","Major Mitchell's Cockatoo",LC,U,-16731116
-203,202,"galerita","Cacatua","Sulphur-crested Cockatoo",LC,U,-16731116
-204,202,"sulphurea","Cacatua","Yellow-crested Cockatoo",CR,U,-3014646
-206,205,"moluccensis","Cacatua","Salmon-crested Cockatoo",VU,U,-11184866
-207,205,"alba","Cacatua","White Cockatoo",VU,U,-11184866
-208,200,"pastinator","Cacatua","Western Corella",LC,U,-16731116
-209,189,"ophthalmica","Cacatua","Blue-eyed Cockatoo",VU,U,-11184866
-210,188,"tenuirostris","Cacatua","Long-billed Corella",LC,U,-16731116
-211,187,"roseicapilla","Cacatua","Galah",LC,U,-16731116
-212,186,"aterrimus","Probosciger","Palm Cockatoo",LC,U,-16731116
-213,185,"hollandicus","Nymphicus","Cockatiel",LC,U,-16731116
-218,217,"latirostris","Calyptorhynchus","Carnaby????????????s Black-Cockatoo",EN,U,-8572416
-219,217,"funereus","Calyptorhynchus","Yellow-tailed Black-cockatoo",LC,U,-16731116
-220,216,"banksii","Calyptorhynchus","Red-tailed Black-cockatoo",LC,U,-16731116
-222,221,"baudinii","Calyptorhynchus","Baudin????????????s Black-Cockatoo",EN,U,-8572416
-223,221,"lathami","Calyptorhynchus","Glossy Black-cockatoo",LC,U,-16731116
-224,214,"fimbriatum","Callocephalon","Gang-gang Cockatoo",LC,U,-16731116
-227,226,"meridionalis","Nestor","Kaka",EN,U,-8572416
-228,226,"notabilis","Nestor","Kea",VU,U,-11184866
-229,225,"habroptila","Strigops","Kakapo",CR,U,-3014646
+6,5,"narismagnus","Thorius","",CR,D,-3014646
+7,5,"omiltemi","Thorius","",EN,D,-8572416
+9,8,"infernalis","Thorius","",CR,D,-3014646
+10,8,"arboreus","Thorius","",EN,D,-8572416
+11,3,"schmidti","Thorius","",EN,D,-8572416
+15,14,"pulmonaris","Thorius","",EN,D,-8572416
+16,14,"dubitus","Thorius","",EN,D,-8572416
+17,13,"lunaris","Thorius","",EN,D,-8572416
+18,12,"munificus","Thorius","",CR,D,-3014646
+22,21,"macdougalli","Thorius","",VU,S,-11184866
+23,21,"pennatulus","Thorius","",CR,D,-3014646
+24,20,"grandis","Thorius","",EN,D,-8572416
+27,26,"troglodytes","Thorius","",EN,D,-8572416
+28,26,"aureus","Thorius","",CR,D,-3014646
+29,25,"magnipes","Thorius","",CR,D,-3014646
+33,32,"insperatus","Thorius","",DD,U,-11513776
+34,32,"minydemus","Thorius","",CR,D,-3014646
+36,35,"minutissimus","Thorius","",CR,D,-3014646
+37,35,"boreas","Thorius","",EN,D,-8572416
+40,39,"narisovalis","Thorius","",CR,D,-3014646
+41,39,"spilogaster","Thorius","",CR,D,-3014646
+43,42,"papaloae","Thorius","",EN,D,-8572416
+44,42,"smithi","Thorius","",CR,U,-3014646

@@ -1,58 +1,46 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"geoffroyi","Callithrix","Geoffroy's Tufted-ear Marmoset",LC,S,-16731116
-10,8,"kuhlii","Callithrix","Wied's Black-tufted-ear Marmoset",NT,D,-12486656
-12,11,"penicillata","Callithrix","Black-pencilled Marmoset",LC,I,-16731116
-13,11,"jacchus","Callithrix","Common Marmoset",LC,S,-16731116
-15,14,"aurita","Callithrix","Buffy-tufted-ear Marmoset",VU,D,-11184866
-16,14,"flaviceps","Callithrix","Buffy-headed Marmoset",EN,D,-8572416
-23,22,"melanura","Callithrix","",NE,U,-16777216
-24,22,"emiliae","Callithrix","",NE,U,-16777216
-25,21,"leucippe","Callithrix","",NE,U,-16777216
-26,20,"intermedia","Callithrix","",NE,U,-16777216
-27,19,"argentata","Callithrix","",NE,U,-16777216
-29,28,"humeralifera","Callithrix","",NE,U,-16777216
-30,28,"chrysoleuca","Callithrix","",NE,U,-16777216
-31,17,"pygmaea","Callithrix","",NE,U,-16777216
-32,4,"goeldii","Callimico","Goeldi's Monkey",VU,D,-11184866
-36,35,"caissara","Leontopithecus","Black-faced Lion Tamarin",CR,D,-3014646
-37,35,"chrysopygus","Leontopithecus","Black Lion Tamarin",EN,D,-8572416
-38,34,"rosalia","Leontopithecus","Golden Lion Tamarin",EN,S,-8572416
-39,33,"chrysomelas","Leontopithecus","Golden-headed Lion Tamarin",EN,D,-8572416
-47,46,"mystax","Saguinus","Moustached Tamarin",LC,S,-16731116
-48,46,"pileatus","Saguinus","",NE,U,-16777216
-49,45,"labiatus","Saguinus","Red-chested Mustached Tamarin",LC,S,-16731116
-50,44,"imperator","Saguinus","Emperor Tamarin",LC,D,-16731116
-53,52,"oedipus","Saguinus","Cotton-headed Tamarin",CR,D,-3014646
-54,52,"geoffroyi","Saguinus","Geoffroy's Tamarin",LC,D,-16731116
-55,51,"leucopus","Saguinus","Silvery-brown Tamarin",EN,D,-8572416
-58,57,"martinsi","Saguinus","Martin'S/ochraceous Bare-face Tamarin",LC,D,-16731116
-59,57,"bicolor","Saguinus","Brazilian Bare-faced Tamarin",EN,D,-8572416
-61,60,"midas","Saguinus","Golden-handed Tamarin",LC,S,-16731116
-62,60,"niger","Saguinus","Black-handed Tamarin",VU,D,-11184866
-63,41,"inustus","Saguinus","Mottled-face Tamarin",LC,S,-16731116
-67,66,"melanoleucus","Saguinus","White/crandall's Saddleback Tamarin",LC,D,-16731116
-68,66,"fuscicollis","Saguinus","Saddleback Tamarin",LC,D,-16731116
-69,65,"tripartitus","Saguinus","Golden-mantle Saddleback Tamarin",NT,D,-12486656
-71,70,"nigricollis","Saguinus","Black Mantle Tamarin",LC,D,-16731116
-72,70,"graellsi","Saguinus","",NE,U,-16777216
-78,77,"nigrifrons","Callicebus","Black-fronted Titi Monkey",NT,D,-12486656
-79,77,"melanochir","Callicebus","Coastal Black-handed Titi",VU,D,-11184866
-80,76,"personatus","Callicebus","Atlantic Titi",VU,D,-11184866
-81,75,"barbarabrownae","Callicebus","Blond Titi Monkey",CR,D,-3014646
-82,74,"miconax","Aotus","Andean Night Monkey",VU,D,-11184866
-83,73,"lemurinus","Aotus","Colombian Night Monkey",VU,D,-11184866
-90,89,"xanthosternos","Cebus","Buff-headed Capuchin",CR,D,-3014646
-91,89,"nigritus","Cebus","Black-horned Capuchin",NT,D,-12486656
-92,88,"apella","Cebus","Guianan/margarita Island Brown Capuchin",LC,D,-16731116
-93,87,"libidinosus","Cebus","Bearded Capuchin",LC,D,-16731116
-96,95,"capucinus","Cebus","White-throated Capuchin",LC,U,-16731116
-97,95,"albifrons","Cebus","White-fronted Capuchin",LC,D,-16731116
-98,94,"olivaceus","Cebus","Weeper Capuchin",LC,U,-16731116
-102,101,"ustus","Saimiri","Golden-backed Squirrel Monkey",NT,D,-12486656
-103,101,"sciureus","Saimiri","Common Squirrel Monkey",LC,D,-16731116
-104,100,"oerstedii","Saimiri","Black-crowned Central American Squirrel Monkey",VU,D,-11184866
-106,105,"boliviensis","Saimiri","Bolivian/peruvian Squirrel Monkey",LC,D,-16731116
-107,105,"vanzolinii","Saimiri","Black-headed Squirrel Monkey",VU,U,-11184866
-110,109,"nancymaae","Aotus","Nancy Ma's Night Monkey",LC,U,-16731116
-111,109,"azarae","Aotus","Azara's Night Monkey",LC,D,-16731116
-112,108,"nigriceps","Aotus","Black-headed Night Monkey",LC,U,-16731116
+15,14,"unguiculatus","Meriones","Mongolian Gerbil",LC,U,-16731116
+16,14,"tristrami","Meriones","Tristram's Jird",LC,S,-16731116
+18,17,"crassus","Meriones","Sundevall's Jird",LC,U,-16731116
+19,17,"dahli","Meriones","Dahl's Jird",EN,D,-8572416
+23,22,"chengi","Meriones","Cheng's Jird",LC,U,-16731116
+24,22,"libycus","Meriones","Libyan Jird",LC,S,-16731116
+25,21,"vinogradovi","Meriones","Vinogradov's Jird",LC,U,-16731116
+26,20,"zarudnyi","Meriones","Zarundny's Jird",DD,U,-11513776
+29,28,"meridianus","Meriones","Mid-day Gerbil",LC,U,-16731116
+30,28,"arimalius","Meriones","Arabian Jird",LC,U,-16731116
+31,27,"sacramenti","Meriones","Buxton's Jird",VU,D,-11184866
+33,32,"shawi","Meriones","Shaw's Jird",LC,S,-16731116
+34,32,"grandis","Meriones","",LC,S,-16731116
+35,9,"hurrianae","Meriones","Indian Desert Gerbil",LC,U,-16731116
+37,36,"persicus","Meriones","Persian Jird",LC,U,-16731116
+38,36,"rex","Meriones","King Jird",LC,U,-16731116
+39,7,"tamariscinus","Meriones","Tamarisk Gerbil",LC,U,-16731116
+41,40,"przewalskii","Brachiones","Przewalski's Jird",LC,U,-16731116
+42,40,"calurus","Sekeetamys","Bushy-tailed Jird",LC,S,-16731116
+44,43,"vexillaris","Psammomys","Thin Sand Rat",DD,U,-11513776
+45,43,"obesus","Psammomys","Fat Sand Rat",LC,S,-16731116
+46,4,"opimus","Rhombomys","Great Gerbil",LC,S,-16731116
+47,3,"imbellis","Ammodillus","Ammodile",DD,S,-11513776
+48,2,"duprasi","Pachyuromys","Fat-tailed Gerbil",LC,S,-16731116
+58,57,"nigricaudus","Gerbilliscus","Black-tailed Gerbil",LC,S,-16731116
+59,57,"robustus","Gerbilliscus","Fringe-tailed Gerbil",LC,S,-16731116
+60,56,"brantsii","Gerbilliscus","Highveld Gerbil",LC,U,-16731116
+61,55,"validus","Gerbilliscus","Savanna Gerbil",LC,S,-16731116
+63,62,"inclusus","Gerbilliscus","Gorongoza Gerbil",LC,U,-16731116
+64,62,"guineae","Gerbilliscus","Guinea Gerbil",LC,S,-16731116
+65,53,"phillipsi","Gerbilliscus","Phillip's Gerbil",LC,U,-16731116
+68,67,"kempi","Gerbilliscus","Kemp's Gerbil",LC,U,-16731116
+69,67,"afra","Gerbilliscus","Cape Gerbil",LC,U,-16731116
+70,66,"leucogaster","Gerbilliscus","Bushveld Gerbil",LC,S,-16731116
+71,51,"indica","Tatera","Indian Gerbil",LC,U,-16731116
+72,50,"boehmi","Gerbilliscus","Boehm's Gerbil",LC,S,-16731116
+77,76,"pygargus","Taterillus","Senegal Gerbil",LC,S,-16731116
+78,76,"congicus","Taterillus","Congo Gerbil",LC,U,-16731116
+80,79,"gracilis","Taterillus","Gracile Tateril",LC,S,-16731116
+81,79,"emini","Taterillus","Emin's Gerbil",LC,U,-16731116
+83,82,"arenarius","Taterillus","Robbins's Tateril",LC,U,-16731116
+84,82,"lacustris","Taterillus","Lake Chad Gerbil",LC,U,-16731116
+86,85,"petteri","Taterillus","Petter's Gerbil",LC,S,-16731116
+87,85,"harringtoni","Taterillus","",NE,U,-16777216
+88,0,"braueri","Desmodilliscus","Pouched Gerbil",LC,S,-16731116

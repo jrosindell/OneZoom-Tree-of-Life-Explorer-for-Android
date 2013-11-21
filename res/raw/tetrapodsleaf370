@@ -1,49 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"palustris","Lithobates","Pickerel Frog",LC,S,-16731116
-11,9,"maculatus","Lithobates","",LC,D,-16731116
-12,8,"vaillanti","Lithobates","",LC,S,-16731116
-14,13,"sphenocephalus","Lithobates","Southern Leopard Frog",LC,S,-16731116
-15,13,"taylori","Lithobates","",LC,U,-16731116
-19,18,"magnaocularis","Lithobates","Northwest Mexico Leopard Frog",LC,U,-16731116
-20,18,"warszewitschii","Lithobates","",LC,I,-16731116
-21,17,"capito","Lithobates","Gopher Frog",NT,D,-12486656
-22,16,"miadis","Lithobates","",VU,S,-11184866
-24,23,"tlaloci","Lithobates","Tlaloc's Leopard Frog",CR,D,-3014646
-25,23,"dunni","Lithobates","",EN,D,-8572416
-30,29,"macroglossa","Lithobates","",VU,D,-11184866
-31,29,"bwana","Lithobates","",VU,D,-11184866
-32,28,"johni","Lithobates","",EN,D,-8572416
-33,27,"pipiens","Lithobates","Northern Leopard Frog",LC,D,-16731116
-34,26,"palmipes","Lithobates","",LC,S,-16731116
-38,37,"onca","Lithobates","Relict Leopard Frog",EN,D,-8572416
-39,37,"sierramadrensis","Lithobates","",VU,D,-11184866
-40,36,"chiricahuensis","Lithobates","Chiricahua Leopard Frog",VU,D,-11184866
-41,35,"blairi","Lithobates","Plains Leopard Frog",LC,D,-16731116
-46,45,"areolatus","Lithobates","Crawfish Frog",NT,D,-12486656
-47,45,"juliani","Lithobates","",NT,S,-12486656
-49,48,"pustulosus","Lithobates","",LC,S,-16731116
-50,48,"megapoda","Lithobates","",VU,D,-11184866
-52,51,"chichicuahutla","Lithobates","",CR,D,-3014646
-53,51,"pueblae","Lithobates","",CR,D,-3014646
-57,56,"vibicarius","Lithobates","Green-eyed Frog",CR,D,-3014646
-58,56,"spectabilis","Lithobates","",LC,D,-16731116
-59,55,"tarahumarae","Lithobates","Tarahumara Frog",VU,D,-11184866
-60,54,"neovolcanicus","Lithobates","Transverse Volcanic Leopard Frog",NT,D,-12486656
-65,64,"fisheri","Lithobates","Las Vegas Leopard Frog",EX,U,-16777036
-66,64,"psilonota","Lithobates","",DD,U,-11513776
-67,63,"berlandieri","Lithobates","Rio Grande Leopard Frog",LC,S,-16731116
-69,68,"omiltemanus","Lithobates","Guerreran Leopard Frog",CR,D,-3014646
-70,68,"montezumae","Lithobates","",LC,D,-16731116
-74,73,"zweifeli","Lithobates","",LC,S,-16731116
-75,73,"forreri","Lithobates","",LC,S,-16731116
-76,72,"sevosus","Lithobates","Dusky Gopher Frog",CR,D,-3014646
-78,77,"lemosespinali","Lithobates","",DD,U,-11513776
-79,77,"yavapaiensis","Lithobates","",LC,D,-16731116
-84,83,"okaloosae","Lithobates","Florida Bog Frog",VU,U,-11184866
-85,83,"sylvaticus","Lithobates","Wood Frog",LC,S,-16731116
-87,86,"catesbeianus","Lithobates","American Bullfrog",LC,I,-16731116
-88,86,"grylio","Lithobates","Pig Frog",LC,D,-16731116
-89,81,"clamitans","Lithobates","Green Frog",LC,S,-16731116
-92,91,"virgatipes","Lithobates","Carpenter Frog",LC,U,-16731116
-93,91,"heckscheri","Lithobates","River Frog",LC,S,-16731116
-94,90,"septentrionalis","Lithobates","Mink Frog",LC,S,-16731116
+10,9,"harenna","Crocidura","Harenna Shrew",CR,D,-3014646
+11,9,"negrina","Crocidura","Negros Shrew",EN,D,-8572416
+13,12,"hildegardeae","Crocidura","Hildegarde's Shrew",LC,U,-16731116
+14,12,"virgata","Crocidura","",DD,U,-11513776
+15,7,"flavescens","Crocidura","Greater Red Musk Shrew",LC,U,-16731116
+16,6,"crenata","Crocidura","Long-footed Shrew",LC,U,-16731116
+17,5,"gracilipes","Crocidura","Peter's Musk Shrew",DD,U,-11513776
+20,19,"crossei","Crocidura","Crosse's Shrew",LC,U,-16731116
+21,19,"jouvenetae","Crocidura","",LC,U,-16731116
+22,18,"grandiceps","Crocidura","Large-headed Forest Shrew",NT,U,-12486656
+23,3,"poensis","Crocidura","Fraser's Musk Shrew",LC,U,-16731116
+28,27,"greenwoodi","Crocidura","Greenwood's Shrew",LC,U,-16731116
+29,27,"tarfayensis","Crocidura","Saharan Shrew",DD,D,-11513776
+30,26,"maxi","Crocidura","Javanese Shrew",LC,U,-16731116
+32,31,"maquassiensis","Crocidura","Makwassie Musk Shrew",LC,U,-16731116
+33,31,"maurisca","Crocidura","Dark Shrew",LC,U,-16731116
+34,24,"caliginea","Crocidura","African Dusky Shrew",LC,U,-16731116
+36,35,"theresae","Crocidura","Therese's Shrew",LC,U,-16731116
+37,35,"nigeriae","Crocidura","Nigerian Shrew",LC,U,-16731116
+46,45,"wuchihensis","Crocidura","Hainan Island Shrew",DD,U,-11513776
+47,45,"horsfieldii","Crocidura","Horsefield's Shrew",DD,U,-11513776
+48,44,"watasei","Crocidura","Lesser Ryukyu Shrew",LC,S,-16731116
+49,43,"indochinensis","Crocidura","Indochinese Shrew",LC,U,-16731116
+51,50,"serezkyensis","Crocidura","Serezkaya Shrew",LC,U,-16731116
+52,50,"arispa","Crocidura","Jackass Shrew",LC,U,-16731116
+54,53,"cinderella","Crocidura","Cinderella Shrew",LC,U,-16731116
+55,53,"xantippe","Crocidura","Vermiculate Shrew",LC,S,-16731116
+58,57,"canariensis","Crocidura","Canarian Shrew",EN,D,-8572416
+59,57,"grayi","Crocidura","Luzon Shrew",LC,U,-16731116
+60,56,"miya","Crocidura","Sri Lankan Long-tailed Shrew",EN,D,-8572416
+61,39,"nigrofusca","Crocidura","African Black Shrew",LC,U,-16731116
+63,62,"nigricans","Crocidura","Blackish White-toothed Shrew",LC,U,-16731116
+64,62,"russula","Crocidura","Greater White-toothed Shrew",LC,S,-16731116

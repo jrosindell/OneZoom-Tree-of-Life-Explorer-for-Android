@@ -1,31 +1,37 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"herbertensis","Pseudochirulus","Herbert River Ringtail Possum",LC,S,-16731116
-8,6,"cinereus","Pseudochirulus","Daintree River Ringtail Possum",LC,S,-16731116
-9,5,"caroli","Pseudochirulus","Weyland Ringtail",LC,U,-16731116
-11,10,"forbesi","Pseudochirulus","Painted Ringtail",LC,U,-16731116
-12,10,"larvatus","Pseudochirulus","Masked Ringtail",LC,D,-16731116
-14,13,"canescens","Pseudochirulus","Lowland Ringtail",LC,D,-16731116
-15,13,"mayeri","Pseudochirulus","Pygmy Ringtail",LC,D,-16731116
-16,2,"peregrinus","Pseudocheirus","Common Ringtail Possum",LC,S,-16731116
-22,21,"albertisii","Pseudochirops","D'Albertis's Ringtail",NT,D,-12486656
-23,21,"coronatus","Pseudochirops","Reclusive Ringtail",VU,D,-11184866
-25,24,"archeri","Pseudochirops","Green Ringtail Possum",LC,S,-16731116
-26,24,"cupreus","Pseudochirops","Coppery Ringtail",LC,S,-16731116
-27,19,"corinnae","Pseudochirops","Plush-coated Ringtail",NT,D,-12486656
-28,18,"dahli","Petropseudes","Rock Ringtail Possum",LC,U,-16731116
-30,29,"lemuroides","Hemibelideus","Lemuroid Ringtail Possum",NT,S,-12486656
-31,29,"volans","Petauroides","Greater Glider",LC,D,-16731116
-38,37,"breviceps","Petaurus","Sugar Glider",LC,S,-16731116
-39,37,"biacensis","Petaurus","Biak Glider",LC,U,-16731116
-40,36,"abidi","Petaurus","Northern Glider",CR,D,-3014646
-41,35,"gracilis","Petaurus","Mahogany Glider",EN,D,-8572416
-43,42,"australis","Petaurus","Yellow-bellied Glider",LC,D,-16731116
-44,42,"norfolcensis","Petaurus","Squirrel Glider",LC,D,-16731116
-48,47,"megalura","Dactylopsila","Great-tailed Triok",LC,U,-16731116
-49,47,"trivirgata","Dactylopsila","Striped Possum",LC,D,-16731116
-51,50,"tatei","Dactylopsila","Tate's Triok",EN,U,-8572416
-52,50,"palpator","Dactylopsila","",NE,U,-16777216
-53,45,"leadbeateri","Gymnobelideus","Leadbeater's Possum",EN,D,-8572416
-56,55,"pennatus","Distoechurus","Feather-tailed Possum",LC,S,-16731116
-57,55,"pygmaeus","Acrobates","Feathertail Glider",LC,S,-16731116
-58,54,"rostratus","Tarsipes","Honey Possum",LC,S,-16731116
+23,22,"igniventris","Sciurus","Northern Amazon Red Squirrel",LC,U,-16731116
+24,22,"spadiceus","Sciurus","Southern Amazon Red Squirrel",LC,U,-16731116
+25,21,"arizonensis","Sciurus","Arizona Gray Squirrel",DD,U,-11513776
+26,20,"oculatus","Sciurus","Peters's Squirrel",LC,U,-16731116
+27,19,"griseus","Sciurus","Western Gray Squirrel",LC,U,-16731116
+28,18,"alleni","Sciurus","Allen's Squirrel",LC,D,-16731116
+29,17,"richmondi","Sciurus","Richmond's Squirrel",NT,U,-12486656
+30,16,"colliaei","Sciurus","Collie's Squirrel",LC,U,-16731116
+31,15,"sanborni","Sciurus","Sanborn's Squirrel",DD,U,-11513776
+32,14,"lis","Sciurus","Japanese Squirrel",LC,S,-16731116
+33,13,"aureogaster","Sciurus","Bushy-tailed Olingo",LC,S,-16731116
+34,12,"pyrrhinus","Sciurus","Junin Red Squirrel",DD,U,-11513776
+35,11,"aestuans","Sciurus","Guianan Squirrel",LC,U,-16731116
+36,10,"vulgaris","Sciurus","Eurasian Red Squirrel",LC,D,-16731116
+43,42,"carolinensis","Sciurus","Eastern Gray Squirrel",LC,I,-16731116
+44,42,"niger","Sciurus","Bryant's Fox Squirrel",LC,S,-16731116
+45,41,"granatensis","Sciurus","Red-tailed Squirrel",LC,S,-16731116
+46,40,"flammifer","Sciurus","Fiery Squirrel",DD,U,-11513776
+47,39,"variegatoides","Sciurus","Variegated Squirrel",LC,S,-16731116
+48,38,"anomalus","Sciurus","Caucasian Squirrel",LC,D,-16731116
+49,37,"stramineus","Sciurus","Guayaquil Squirrel",LC,U,-16731116
+50,8,"ignitus","Sciurus","Bolivian Squirrel",DD,U,-11513776
+51,7,"yucatanensis","Sciurus","Yucatan Squirrel",LC,S,-16731116
+52,6,"gilvigularis","Sciurus","Yellow-throated Squirrel",DD,U,-11513776
+53,5,"pucheranii","Sciurus","Andean Squirrel",DD,U,-11513776
+54,4,"nayaritensis","Sciurus","Mexican Fox Squirrel",LC,U,-16731116
+55,3,"deppei","Sciurus","Deppe's Squirrel",LC,S,-16731116
+56,2,"macrotis","Rheithrosciurus","Tufted Ground Squirrel",VU,D,-11184866
+61,60,"flaviventer","Microsciurus","Amazon Dwarf Squirrel",DD,U,-11513776
+62,60,"mimulus","Microsciurus","Western Dwarf Squirrel",LC,S,-16731116
+63,59,"santanderensis","Microsciurus","Santander Dwarf Squirrel",DD,U,-11513776
+64,58,"alfari","Microsciurus","Central American Dwarf Squirrel",LC,S,-16731116
+65,57,"brochus","Syntheosciurus","Bangs's Mountain Squirrel",NT,U,-12486656
+68,67,"douglasii","Tamiasciurus","Douglas's Squirrel",LC,S,-16731116
+69,67,"hudsonicus","Tamiasciurus","Red Squirrel",LC,S,-16731116
+70,66,"mearnsi","Tamiasciurus","Mearns's Squirrel",EN,D,-8572416

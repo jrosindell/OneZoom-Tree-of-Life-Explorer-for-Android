@@ -43,6 +43,7 @@ public class BinaryInitializer {
 	}
 	
 	public MidNode createMidNode(String fileIndex) {
+		listOfHeadNodeInNextFile.clear();
 		return createTreeStartFromFileIndex(fileIndex, 0, null);
 	}
 	
@@ -92,6 +93,7 @@ public class BinaryInitializer {
 	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
 		BinaryInitializer.fileIndex = Integer.parseInt(fileIndex);
+//		Log.d("debug", "file name: " + selectedGroup + "interior" + fileIndex);
 		int resourceInteriorID = canvasActivity.getResources().getIdentifier(selectedGroup + "interior" + fileIndex, "raw", canvasActivity.getPackageName());
 		InputStream isInterior = canvasActivity.getResources().openRawResource(resourceInteriorID);
 		int resourceLeafID = canvasActivity.getResources().getIdentifier(selectedGroup + "leaf" + fileIndex, "raw", canvasActivity.getPackageName());

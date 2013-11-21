@@ -1,61 +1,40 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"mindorensis","Rattus","Mindoro Mountain Rat",DD,D,-11513776
-14,12,"lugens","Rattus","Mentawai Archipelago Rat",EN,D,-8572416
-15,11,"hoffmanni","Rattus","Hoffmann's Sulawesi Rat",LC,S,-16731116
-17,16,"mollicomulus","Rattus","Lampobatang Sulawesi Rat",VU,S,-11184866
-18,16,"palmarum","Rattus","Zelebor's Nicobar Rat",VU,U,-11184866
-19,9,"adustus","Rattus","Burnished Enggano Rat",DD,D,-11513776
-23,22,"osgoodi","Rattus","Osgood's Vietnamese Rat",LC,S,-16731116
-24,22,"burrus","Rattus","Miller's Nicobar Rat",EN,D,-8572416
-26,25,"tiomanicus","Rattus","Malaysian Field Rat",LC,I,-16731116
-27,25,"blangorum","Rattus","Aceh Rat",DD,U,-11513776
-29,28,"simalurensis","Rattus","Simalur Archipelago Rat",EN,D,-8572416
-30,28,"argentiventer","Rattus","Ricefield Rat",LC,S,-16731116
-34,33,"koopmani","Rattus","Koopman's Peleng Island Rat",DD,U,-11513776
-35,33,"tawitawiensis","Rattus","Tawitawi Forest Rat",DD,U,-11513776
-36,32,"andamanensis","Rattus","Indochinese Forest Rat",LC,S,-16731116
-37,31,"nitidus","Rattus","Himalayan Field Rat",LC,S,-16731116
-40,39,"everetti","Rattus","Philippine Forest Rat",LC,S,-16731116
-41,39,"pyctoris","Rattus","Himalayan Rat",LC,U,-16731116
-42,38,"baluensis","Rattus","Kinabalu Rat",LC,S,-16731116
-46,45,"rattus","Rattus","Black Rat",LC,S,-16731116
-47,45,"satarae","Rattus","",VU,D,-11184866
-48,44,"tanezumi","Rattus","Oriental House Rat",LC,I,-16731116
-49,43,"losea","Rattus","Losea Rat",LC,I,-16731116
-51,50,"norvegicus","Rattus","Brown Rat",LC,S,-16731116
-52,50,"stoicus","Rattus","Andaman Rat",VU,S,-11184866
-60,59,"hainaldi","Rattus","Hainald's Flores Island Rat",EN,D,-8572416
-61,59,"tunneyi","Rattus","Pale Field Rat",LC,U,-16731116
-63,62,"lutreolus","Rattus","Australian Swamp Rat",LC,D,-16731116
-64,62,"sordidus","Rattus","Canefield Rat",LC,S,-16731116
-65,57,"villosissimus","Rattus","Long-haired Rat",LC,U,-16731116
-68,67,"timorensis","Rattus","Timor Forest Rat",DD,U,-11513776
-69,67,"colletti","Rattus","Dusky Rat",LC,U,-16731116
-70,66,"fuscipes","Rattus","Bush Rat",LC,S,-16731116
-71,55,"montanus","Rattus","Sri Lankan Mountain Rat",EN,U,-8572416
-75,74,"xanthurus","Rattus","Northeastern Xanthurus Rat",VU,D,-11184866
-76,74,"salocco","Rattus","Southeastern Xanthurus Rat",DD,U,-11513776
-77,73,"pelurus","Rattus","Peleng Island Xanthurus Rat",DD,U,-11513776
-79,78,"bontanus","Rattus","Southwestern Xanthurus Rat",DD,U,-11513776
-80,78,"marmosurus","Rattus","Marmoset Xanthurus Rat",LC,D,-16731116
-88,87,"novaeguineae","Rattus","New Guinea Rat",LC,U,-16731116
-89,87,"mordax","Rattus","Eastern Rat",LC,S,-16731116
-90,86,"elaphinus","Rattus","Sula Archipelago Rat",NT,D,-12486656
-91,85,"sanila","Rattus","",NE,U,-16777216
-94,93,"feliceus","Rattus","Spiny Seram Island Rat",NT,D,-12486656
-95,93,"jobiensis","Rattus","Yapen Rat",NT,U,-12486656
-96,92,"giluwensis","Rattus","Giluwe Rat",DD,U,-11513776
-97,83,"praetor","Rattus","Large Spiny Rat",LC,S,-16731116
-99,98,"morotaiensis","Rattus","Halmahara Rat",LC,U,-16731116
-100,98,"steini","Rattus","Small Spiny Rat",LC,S,-16731116
-101,81,"leucopus","Rattus","Cape York Rat",LC,S,-16731116
-106,105,"korinchi","Rattus","Sumatran Mountain Rat",DD,U,-11513776
-107,105,"exulans","Rattus","Polynesian Rat",LC,S,-16731116
-108,104,"hoogerwerfi","Rattus","Hoogerwerf's Sumatran Rat",VU,D,-11184866
-109,103,"annandalei","Rattus","Annandale's Sundaic Rat",LC,D,-16731116
-111,110,"ranjiniae","Rattus","Ranjini's Field Rat",EN,D,-8572416
-112,110,"enganus","Rattus","Enggano Island Rat",DD,D,-11513776
-113,1,"furvus","Palawanomys","Palawan Mountain Rat",DD,U,-11513776
-116,115,"oleracea","Vandeleuria","Asiatic Long-tailed Climbing Mouse",LC,S,-16731116
-117,115,"nilagirica","Vandeleuria","",EN,D,-8572416
-118,114,"nolthenii","Vandeleuria","Sri Lankan Highland Tree Mouse",EN,D,-8572416
+11,10,"betulina","Sicista","Northern Birch Mouse",LC,U,-16731116
+12,10,"armenica","Sicista","Armenian Birch Mouse",EN,D,-8572416
+13,9,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U,-16731116
+15,14,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U,-12486656
+16,14,"napaea","Sicista","Altai Birch Mouse",LC,U,-16731116
+18,17,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U,-11513776
+19,17,"concolor","Sicista","Chinese Birch Mouse",LC,U,-16731116
+23,22,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S,-16731116
+24,22,"subtilis","Sicista","Southern Birch Mouse",LC,D,-16731116
+25,21,"caudata","Sicista","Long-tailed Birch Mouse",DD,U,-11513776
+28,27,"strandi","Sicista","Strand's Birch Mouse",LC,S,-16731116
+29,27,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U,-8572416
+30,26,"caucasica","Sicista","Caucasian Birch Mouse",VU,U,-11184866
+34,33,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U,-16731116
+35,33,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S,-16731116
+36,32,"princeps","Zapus","Pacific Jumping Mouse",LC,S,-16731116
+38,37,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S,-16731116
+39,37,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U,-16731116
+46,45,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U,-11513776
+47,45,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U,-11513776
+48,44,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U,-11513776
+49,43,"thomasi","Salpingotus","",NE,U,-16777216
+51,50,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U,-11513776
+52,50,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U,-16731116
+53,41,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U,-11513776
+54,40,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U,-16731116
+55,3,"naso","Euchoreutes","Long-eared Jerboa",LC,U,-16731116
+60,59,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D,-16731116
+61,59,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D,-16731116
+62,58,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U,-16731116
+63,57,"sagitta","Dipus","Hairy-footed Jerboa",LC,S,-16731116
+67,66,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S,-16731116
+68,66,"blanfordi","Jaculus","Blanford's Jerboa",LC,D,-16731116
+69,65,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U,-16731116
+70,64,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U,-16731116
+73,72,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U,-16731116
+74,72,"shitkovi","Pygeretmus","",NE,U,-16777216
+75,71,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U,-16731116
+76,0,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U,-16731116

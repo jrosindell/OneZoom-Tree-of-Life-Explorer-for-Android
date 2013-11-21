@@ -1,42 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"henricae","Cranioleuca","Bolivian Spinetail",EN,U,-8572416
-14,12,"obsoleta","Cranioleuca","Olive Spinetail",LC,U,-16731116
-15,11,"pyrrhophia","Cranioleuca","Stripe-crowned Spinetail",LC,U,-16731116
-16,10,"semicinerea","Cranioleuca","Grey-headed Spinetail",LC,U,-16731116
-17,9,"dissita","Cranioleuca","Coiba Spinetail",_U,[,-16777216
-19,18,"albicapilla","Cranioleuca","Creamy-crested Spinetail",LC,U,-16731116
-20,18,"gutturata","Cranioleuca","Speckled Spinetail",LC,U,-16731116
-25,24,"antisiensis","Cranioleuca","Line-cheeked Spinetail",LC,U,-16731116
-26,24,"baroni","Cranioleuca","Baron's Spinetail",LC,U,-16731116
-27,23,"curtata","Cranioleuca","Ash-browed Spinetail",LC,U,-16731116
-29,28,"subcristata","Cranioleuca","Crested Spinetail",LC,U,-16731116
-30,28,"demissa","Cranioleuca","Tepui Spinetail",LC,U,-16731116
-31,21,"erythrops","Cranioleuca","Red-faced Spinetail",LC,U,-16731116
-34,33,"hellmayri","Cranioleuca","Streak-capped Spinetail",LC,U,-16731116
-35,33,"vulpina","Cranioleuca","Rusty-backed Spinetail",LC,U,-16731116
-36,32,"vulpecula","Cranioleuca","Parker's Spinetail",LC,U,-16731116
-38,37,"albiceps","Cranioleuca","Light-crowned Spinetail",LC,U,-16731116
-39,37,"marcapatae","Cranioleuca","Marcapata Spinetail",LC,U,-16731116
-42,41,"sulphurifera","Cranioleuca","Sulphur-throated Spinetail",LC,U,-16731116
-43,41,"muelleri","Cranioleuca","Scaled Spinetail",LC,U,-16731116
-45,44,"rectirostris","Limnoctites","Straight-billed Reedhaunter",NT,U,-12486656
-46,44,"pallida","Cranioleuca","Pallid Spinetail",LC,U,-16731116
-52,51,"macroura","Thripophaga","Striated Softtail",VU,U,-11184866
-53,51,"fusciceps","Thripophaga","Plain Softtail",LC,U,-16731116
-54,50,"cherriei","Thripophaga","Orinoco Softtail",VU,U,-11184866
-55,49,"berlepschi","Thripophaga","Russet-mantled Softtail",VU,U,-11184866
-56,48,"adusta","Roraimia","Roraiman Barbtail",LC,U,-16731116
-57,47,"striaticollis","Siptornis","Spectacled Prickletail",LC,U,-16731116
-60,59,"minlosi","Xenerpestes","Double-banded Greytail",LC,U,-16731116
-61,59,"singularis","Xenerpestes","Equatorial Greytail",NT,U,-12486656
-62,58,"aurantiaca","Metopothrix","Orange-fronted Plushcrown",LC,U,-16731116
-63,1,"fonsecai","Acrobatornis","Pink-legged Graveteiro",VU,U,-11184866
-69,68,"gutturalis","Pseudoseisura","White-throated Cacholote",LC,U,-16731116
-70,68,"lophotes","Pseudoseisura","Brown Cacholote",LC,U,-16731116
-71,67,"cristata","Pseudoseisura","Caatinga Cacholote",LC,U,-16731116
-72,66,"unirufa","Pseudoseisura","Rufous Cacholote",LC,U,-16731116
-73,65,"maluroides","Spartonoica","Bay-capped Wren-spinetail",NT,U,-12486656
-76,75,"maculicauda","Asthenes","Scribble-tailed Canastero",LC,U,-16731116
-77,75,"cactorum","Asthenes","Cactus Canastero",LC,U,-16731116
-79,78,"humicola","Asthenes","Dusky-tailed Canastero",LC,U,-16731116
-80,78,"hudsoni","Asthenes","Hudson's Canastero",LC,U,-16731116
+11,10,"meridianus","Plethodon","South Mountain Gray-cheeked Salamander",VU,S,-11184866
+12,10,"caddoensis","Plethodon","Caddo Mountain Salamander",NT,U,-12486656
+13,9,"shermani","Plethodon","Red-legged Salamander",VU,S,-11184866
+14,8,"sequoyah","Plethodon","Sequoyah Slimy Salamander",DD,U,-11513776
+16,15,"albagula","Plethodon","Western Slimy Salamander",LC,S,-16731116
+17,15,"glutinosus","Plethodon","Slimy Salamander",LC,S,-16731116
+18,6,"aureolus","Plethodon","Tellico Salamander",DD,U,-11513776
+19,5,"ouachitae","Plethodon","Rich Mountain Salamander",NT,S,-12486656
+21,20,"cylindraceus","Plethodon","White-spotted Slimy Salamander",LC,S,-16731116
+22,20,"kentucki","Plethodon","Cumberland Plateau Salamander",LC,S,-16731116
+23,3,"kiamichi","Plethodon","Kiamichi Slimy Salamander",DD,U,-11513776
+28,27,"montanus","Plethodon","Northern Gray-cheeked Salamander",LC,S,-16731116
+29,27,"teyahalee","Plethodon","Southern Appalachian Salamander",LC,S,-16731116
+31,30,"metcalfi","Plethodon","Southern Gray-cheeked Salamander",LC,S,-16731116
+32,30,"cheoah","Plethodon","Cheoah Bald Salamander",VU,S,-11184866
+34,33,"amplus","Plethodon","Blue Ridge Gray-cheeked Salamander",VU,U,-11184866
+35,33,"yonahlossee","Plethodon","Yonahlossee Salamander",LC,S,-16731116
+36,24,"petraeus","Plethodon","Pigeon Mountain Salamander",VU,S,-11184866
+39,38,"fourchensis","Plethodon","Fourche Mountain Salamander",VU,U,-11184866
+40,38,"jordani","Plethodon","Red-cheeked Salamander",NT,S,-12486656
+41,37,"kisatchie","Plethodon","Louisiana Slimy Salamander",LC,U,-16731116
+43,42,"vehiculum","Plethodon","Western Redback Salamander",LC,S,-16731116
+44,42,"dunni","Plethodon","Dunn's Salamander",LC,S,-16731116

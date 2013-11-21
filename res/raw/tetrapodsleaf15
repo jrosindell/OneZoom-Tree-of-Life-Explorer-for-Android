@@ -1,93 +1,31 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"pytyopsittacus","Loxia","Parrot Crossbill",LC,U,-16731116
-12,10,"scotica","Loxia","Scottish Crossbill",LC,U,-16731116
-13,9,"curvirostra","Loxia","Red Crossbill",LC,U,-16731116
-15,14,"leucoptera","Loxia","White-winged Crossbill",LC,U,-16731116
-16,14,"megaplaga","Loxia","Hispaniolan Crossbill",EN,U,-8572416
-18,17,"hornemanni","Carduelis","Hoary Redpoll",LC,U,-16731116
-19,17,"flammea","Carduelis","Common Redpoll",LC,U,-16731116
-23,22,"citrinella","Carduelis","Alpine Citril Finch",LC,U,-16731116
-24,22,"monguilloti","Carduelis","Vietnam Greenfinch",NT,U,-12486656
-26,25,"carduelis","Carduelis","European Goldfinch",LC,U,-16731116
-27,25,"johannis","Carduelis","Warsangli Linnet",EN,U,-8572416
-28,20,"olivaceus","Linurgus","Oriole Finch",LC,U,-16731116
-33,32,"spinoides","Carduelis","Yellow-breasted Greenfinch",LC,U,-16731116
-34,32,"ambigua","Carduelis","Black-headed Greenfinch",LC,U,-16731116
-35,31,"sinica","Carduelis","Grey-capped Greenfinch",LC,U,-16731116
-36,30,"chloris","Carduelis","European Greenfinch",LC,U,-16731116
-38,37,"sanguineus","Rhodopechys","Crimson-winged Finch",LC,U,-16731116
-39,37,"obsoletus","Rhodopechys","Desert Finch",LC,U,-16731116
-46,45,"concolor","Neospiza","Sao Tome Grosbeak",CR,U,-3014646
-47,45,"sipahi","Haematospiza","Scarlet Finch",LC,U,-16731116
-48,44,"burtoni","Callacanthis","Spectacled Finch",LC,U,-16731116
-49,43,"sibiricus","Uragus","Long-tailed Rosefinch",LC,U,-16731116
-58,57,"kauaiensis","Hemignathus","Kauai Amakihi",VU,U,-11184866
-59,57,"virens","Hemignathus","Common Amakihi",LC,U,-16731116
-60,56,"parvus","Hemignathus","Anianiau",VU,U,-11184866
-62,61,"flavus","Hemignathus","Oahu Amakihi",VU,U,-11184866
-63,61,"lucidus","Hemignathus","Nukupuu",CR,U,-3014646
-64,54,"munroi","Hemignathus","Akiapolaau",EN,U,-8572416
-68,67,"caeruleirostris","Loxops","Akekee",CR,U,-3014646
-69,67,"coccineus","Loxops","Akepa",EN,U,-8572416
-70,66,"xanthophrys","Pseudonestor","Maui Parrotbill",CR,U,-3014646
-73,72,"sanguinea","Himatione","Apapane",LC,U,-16731116
-74,72,"coccinea","Vestiaria","Iiwi",VU,U,-11184866
-75,71,"dolei","Palmeria","Akohekohe",CR,U,-3014646
-78,77,"cantans","Telespiza","Laysan Finch",VU,U,-11184866
-79,77,"ultima","Telespiza","Nihoa Finch",CR,U,-3014646
-80,76,"bailleui","Loxioides","Palila",CR,U,-3014646
-82,81,"mana","Oreomystis","Hawaii Creeper",EN,U,-8572416
-83,81,"bairdi","Oreomystis","Akikiki",CR,U,-3014646
-85,84,"maculata","Paroreomyza","Oahu Alauahio",CR,U,-3014646
-86,84,"montana","Paroreomyza","Maui Alauahio",EN,U,-8572416
-95,94,"erythrocephala","Pyrrhula","Red-headed Bullfinch",LC,U,-16731116
-96,94,"erythaca","Pyrrhula","Grey-headed Bullfinch",LC,U,-16731116
-97,93,"aurantiaca","Pyrrhula","Orange Bullfinch",LC,U,-16731116
-98,92,"pyrrhula","Pyrrhula","Eurasian Bullfinch",LC,U,-16731116
-100,99,"leucogenis","Pyrrhula","White-cheeked Bullfinch",LC,U,-16731116
-101,99,"murina","Pyrrhula","Azores Bullfinch",EN,U,-8572416
-102,90,"nipalensis","Pyrrhula","Brown Bullfinch",LC,U,-16731116
-103,89,"epauletta","Pyrrhoplectes","Gold-naped Finch",LC,U,-16731116
-105,104,"subhimachala","Pinicola","Crimson-browed Finch",LC,U,-16731116
-106,104,"enucleator","Pinicola","Pine Grosbeak",LC,U,-16731116
-108,107,"mongolicus","Eremopsaltria","Mongolian Finch",LC,U,-16731116
-109,107,"githagineus","Bucanetes","Trumpeter Finch",LC,U,-16731116
-114,113,"icterioides","Mycerobas","Black-and-yellow Grosbeak",LC,U,-16731116
-115,113,"carnipes","Mycerobas","White-winged Grosbeak",LC,U,-16731116
-117,116,"melanozanthos","Mycerobas","Spot-winged Grosbeak",LC,U,-16731116
-118,116,"affinis","Mycerobas","Collared Grosbeak",LC,U,-16731116
-120,119,"migratoria","Eophona","Yellow-billed Grosbeak",LC,U,-16731116
-121,119,"personata","Eophona","Japanese Grosbeak",LC,U,-16731116
-124,123,"abeillei","Coccothraustes","Hooded Grosbeak",LC,U,-16731116
-125,123,"coccothraustes","Coccothraustes","Hawfinch",LC,U,-16731116
-126,122,"vespertinus","Coccothraustes","Evening Grosbeak",LC,U,-16731116
-136,135,"laniirostris","Euphonia","Thick-billed Euphonia",LC,U,-16731116
-137,135,"jamaica","Euphonia","Jamaican Euphonia",LC,U,-16731116
-138,134,"anneae","Euphonia","Tawny-capped Euphonia",LC,U,-16731116
-139,133,"chrysopasta","Euphonia","White-lored Euphonia",LC,U,-16731116
-140,132,"minuta","Euphonia","White-vented Euphonia",LC,U,-16731116
-143,142,"hirundinacea","Euphonia","Yellow-throated Euphonia",LC,U,-16731116
-144,142,"mesochrysa","Euphonia","Bronze-green Euphonia",LC,U,-16731116
-145,141,"trinitatis","Euphonia","Trinidad Euphonia",LC,U,-16731116
-149,148,"fulvicrissa","Euphonia","Fulvous-vented Euphonia",LC,U,-16731116
-150,148,"imitans","Euphonia","Spot-crowned Euphonia",LC,U,-16731116
-151,147,"gouldi","Euphonia","Olive-backed Euphonia",LC,U,-16731116
-153,152,"cayennensis","Euphonia","Golden-sided Euphonia",LC,U,-16731116
-154,152,"concinna","Euphonia","Velvet-fronted Euphonia",LC,U,-16731116
-155,129,"rufiventris","Euphonia","Rufous-bellied Euphonia",LC,U,-16731116
-161,160,"saturata","Euphonia","Orange-crowned Euphonia",LC,U,-16731116
-162,160,"plumbea","Euphonia","Plumbeous Euphonia",LC,U,-16731116
-163,159,"chalybea","Euphonia","Green-throated Euphonia",NT,U,-12486656
-165,164,"xanthogaster","Euphonia","Orange-bellied Euphonia",LC,U,-16731116
-166,164,"violacea","Euphonia","Violaceous Euphonia",LC,U,-16731116
-168,167,"pectoralis","Euphonia","Chestnut-bellied Euphonia",LC,U,-16731116
-169,167,"elegantissima","Euphonia","Blue-rumped Euphonia",LC,U,-16731116
-172,171,"chlorotica","Euphonia","Purple-throated Euphonia",LC,U,-16731116
-173,171,"finschi","Euphonia","Finsch's Euphonia",LC,U,-16731116
-174,170,"affinis","Euphonia","Scrub Euphonia",LC,U,-16731116
-177,176,"cyanocephala","Euphonia","Golden-rumped Euphonia",LC,U,-16731116
-178,176,"musica","Euphonia","Antillean Euphonia",LC,U,-16731116
-179,175,"luteicapilla","Euphonia","Yellow-crowned Euphonia",LC,U,-16731116
-182,181,"coelebs","Fringilla","Eurasian Chaffinch",LC,U,-16731116
-183,181,"teydea","Fringilla","Blue Chaffinch",NT,U,-12486656
-184,180,"montifringilla","Fringilla","Brambling",LC,U,-16731116
+11,10,"hongkongensis","Amolops","",EN,D,-8572416
+12,10,"loloensis","Amolops","",VU,D,-11184866
+14,13,"granulosus","Amolops","",LC,D,-16731116
+15,13,"kaulbacki","Amolops","",DD,U,-11513776
+17,16,"tuberodepressus","Amolops","",VU,S,-11184866
+18,16,"nepalicus","Amolops","",DD,U,-11513776
+19,7,"spinapectoralis","Amolops","",DD,U,-11513776
+20,6,"jinjiangensis","Amolops","",VU,D,-11184866
+24,23,"wuyiensis","Amolops","",LC,D,-16731116
+25,23,"torrentis","Amolops","",VU,D,-11184866
+26,22,"marmoratus","Amolops","",LC,D,-16731116
+28,27,"cremnobatus","Amolops","",NT,D,-12486656
+29,27,"gerbillus","Amolops","",LC,S,-16731116
+32,31,"kangtingensis","Amolops","",VU,D,-11184866
+33,31,"bellulus","Amolops","",DD,U,-11513776
+34,30,"larutensis","Amolops","",LC,D,-16731116
+40,39,"monticola","Amolops","",LC,D,-16731116
+41,39,"formosus","Amolops","",LC,D,-16731116
+42,38,"jaunsari","Amolops","",DD,U,-11513776
+43,37,"lifanensis","Amolops","",NT,S,-12486656
+44,36,"ricketti","Amolops","",LC,D,-16731116
+47,46,"viridimaculatus","Amolops","",NT,D,-12486656
+48,46,"liangshanensis","Amolops","",DD,U,-11513776
+49,45,"hainanensis","Amolops","",EN,D,-8572416
+50,2,"medogensis","Amolops","",DD,U,-11513776
+53,52,"aniqiaoensis","Amolops","",DD,U,-11513776
+54,52,"mantzorum","Amolops","",LC,D,-16731116
+55,51,"longimanus","Amolops","",DD,U,-11513776
+57,56,"chakrataensis","Amolops","",DD,U,-11513776
+58,56,"chunganensis","Amolops","",LC,D,-16731116

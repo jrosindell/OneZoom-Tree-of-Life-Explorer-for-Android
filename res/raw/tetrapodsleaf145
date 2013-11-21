@@ -1,24 +1,55 @@
 index,parent,name1,name2,common,redlist,popstab,color
-7,6,"livingstonii","Tauraco","Livingstone's Turaco",LC,U,-16731116
-8,6,"fischeri","Tauraco","Fischer's Turaco",NT,U,-12486656
-9,5,"corythaix","Tauraco","Knysna Turaco",LC,U,-16731116
-12,11,"hartlaubi","Tauraco","Hartlaub's Turaco",LC,U,-16731116
-13,11,"schalowi","Tauraco","Schalow's Turaco",LC,U,-16731116
-14,10,"schuetti","Tauraco","Black-billed Turaco",LC,U,-16731116
-18,17,"erythrolophus","Tauraco","Red-crested Turaco",LC,U,-16731116
-19,17,"leucolophus","Tauraco","White-crested Turaco",LC,U,-16731116
-20,16,"bannermani","Tauraco","Bannerman's Turaco",EN,U,-8572416
-21,15,"leucotis","Tauraco","White-cheeked Turaco",LC,U,-16731116
-26,25,"violacea","Musophaga","Violet Turaco",LC,U,-16731116
-27,25,"persa","Tauraco","Guinea Turaco",LC,U,-16731116
-28,24,"rossae","Musophaga","Ross's Turaco",LC,U,-16731116
-29,23,"macrorhynchus","Tauraco","Yellow-billed Turaco",LC,U,-16731116
-30,22,"ruspolii","Tauraco","Prince Ruspoli's Turaco",VU,U,-11184866
-32,31,"porphyreolophus","Tauraco","Purple-crested Turaco",LC,U,-16731116
-33,31,"johnstoni","Ruwenzorornis","Ruwenzori Turaco",LC,U,-16731116
-38,37,"personatus","Corythaixoides","Bare-faced Go-away-bird",LC,U,-16731116
-39,37,"concolor","Corythaixoides","Grey Go-away-bird",LC,U,-16731116
-40,36,"leucogaster","Corythaixoides","White-bellied Go-away-bird",LC,U,-16731116
-42,41,"piscator","Crinifer","Western Grey Plantain-eater",LC,U,-16731116
-43,41,"zonurus","Crinifer","Eastern Grey Plantain-eater",LC,U,-16731116
-44,34,"cristata","Corythaeola","Great Blue Turaco",LC,U,-16731116
+9,8,"citrinellus","Atlapetes","Yellow-striped Brush-finch",LC,U,-16731116
+10,8,"fulviceps","Atlapetes","Fulvous-headed Brush-finch",LC,U,-16731116
+12,11,"luteoviridis","Pselliophorus","Yellow-green Finch",VU,U,-11184866
+13,11,"tibialis","Pselliophorus","Yellow-thighed Finch",LC,U,-16731116
+16,15,"pileatus","Atlapetes","Rufous-capped Brush-finch",LC,U,-16731116
+17,15,"albinucha","Atlapetes","White-naped Brush-finch",LC,U,-16731116
+18,14,"semirufus","Atlapetes","Ochre-breasted Brush-finch",LC,U,-16731116
+20,19,"albiceps","Atlapetes","White-headed Brush-finch",LC,U,-16731116
+21,19,"forbesi","Atlapetes","Apurimac Brush-finch",LC,U,-16731116
+25,24,"erythrophthalmus","Pipilo","Eastern Towhee",LC,U,-16731116
+26,24,"maculatus","Pipilo","Spotted Towhee",LC,U,-16731116
+27,23,"ocai","Pipilo","Collared Towhee",LC,U,-16731116
+28,22,"chlorurus","Pipilo","Green-tailed Towhee",LC,U,-16731116
+36,35,"albicollis","Pipilo","White-throated Towhee",LC,U,-16731116
+37,35,"fuscus","Pipilo","Canyon Towhee",LC,U,-16731116
+39,38,"crissalis","Pipilo","California Towhee",LC,U,-16731116
+40,38,"aberti","Pipilo","Abert's Towhee",LC,U,-16731116
+42,41,"kieneri","Melozone","Rusty-crowned Ground-sparrow",LC,U,-16731116
+43,41,"cabanisi","Melozone","Cabanis's Ground Sparrow",_U,[,-16777216
+45,44,"leucotis","Melozone","White-eared Ground-sparrow",LC,U,-16731116
+46,44,"biarcuata","Melozone","Prevost's Ground-sparrow",LC,U,-16731116
+49,48,"ruficeps","Aimophila","Rufous-crowned Sparrow",LC,U,-16731116
+50,48,"notosticta","Aimophila","Oaxaca Sparrow",NT,U,-12486656
+51,47,"rufescens","Aimophila","Rusty Sparrow",LC,U,-16731116
+52,30,"leucopis","Atlapetes","White-rimmed Brush-finch",LC,U,-16731116
+53,29,"capitalis","Pezopetes","Large-footed Finch",LC,U,-16731116
+60,59,"lincolnii","Melospiza","Lincoln's Sparrow",LC,U,-16731116
+61,59,"georgiana","Melospiza","Swamp Sparrow",LC,U,-16731116
+62,58,"melodia","Melospiza","Song Sparrow",LC,U,-16731116
+63,57,"baileyi","Xenospiza","Sierra Madre Sparrow",EN,U,-8572416
+65,64,"henslowii","Ammodramus","Henslow's Sparrow",NT,U,-12486656
+66,64,"bairdii","Ammodramus","Baird's Sparrow",LC,U,-16731116
+67,55,"sandwichensis","Passerculus","Savannah Sparrow",LC,U,-16731116
+73,72,"caudacutus","Ammodramus","Saltmarsh Sparrow",VU,U,-11184866
+74,72,"nelsoni","Ammodramus","Nelson's Sparrow",LC,U,-16731116
+75,71,"maritimus","Ammodramus","Seaside Sparrow",LC,U,-16731116
+76,70,"leconteii","Ammodramus","Le Conte's Sparrow",LC,U,-16731116
+78,77,"gramineus","Pooecetes","Vesper Sparrow",LC,U,-16731116
+79,77,"belli","Amphispiza","Sage Sparrow",LC,U,-16731116
+80,68,"superciliosus","Oriturus","Striped Sparrow",LC,U,-16731116
+86,85,"atricapilla","Zonotrichia","Golden-crowned Sparrow",LC,U,-16731116
+87,85,"leucophrys","Zonotrichia","White-crowned Sparrow",LC,U,-16731116
+89,88,"albicollis","Zonotrichia","White-throated Sparrow",LC,U,-16731116
+90,88,"querula","Zonotrichia","Harris's Sparrow",LC,U,-16731116
+91,83,"capensis","Zonotrichia","Rufous-collared Sparrow",LC,U,-16731116
+94,93,"phaeonotus","Junco","Yellow-eyed Junco",LC,U,-16731116
+95,93,"hyemalis","Junco","Dark-eyed Junco",LC,U,-16731116
+97,96,"insularis","Junco","Guadalupe Junco",_U,[,-16777216
+98,96,"vulcani","Junco","Volcano Junco",LC,U,-16731116
+100,99,"arborea","Spizella","American Tree Sparrow",LC,U,-16731116
+101,99,"iliaca","Passerella","Fox Sparrow",LC,U,-16731116
+104,103,"albofrenatus","Atlapetes","Moustached Brush-finch",LC,U,-16731116
+105,103,"pallidinucha","Atlapetes","Pale-naped Brush-finch",LC,U,-16731116
+106,102,"fuscoolivaceus","Atlapetes","Dusky-headed Brush-finch",NT,U,-12486656

@@ -1,61 +1,107 @@
 index,parent,name1,name2,common,redlist,popstab,color
-21,20,"erythrogenys","Spermophilus","Red-cheeked Ground Squirrel",LC,S,-16731116
-22,20,"pallidicauda","Spermophilus","Pallid Ground Squirrel",LC,U,-16731116
-23,19,"brevicauda","Spermophilus","Brandt's Ground Squirrel",LC,U,-16731116
-26,25,"relictus","Spermophilus","Tien Shan Ground Squirrel",LC,U,-16731116
-27,25,"ralli","Spermophilus","Tien Shan Ground Squirrel",LC,U,-16731116
-28,24,"pygmaeus","Spermophilus","Little Ground Squirrel",LC,D,-16731116
-29,17,"mollis","Spermophilus","Piute Ground Squirrel",LC,U,-16731116
-30,16,"beldingi","Spermophilus","Belding's Ground Squirell",LC,S,-16731116
-31,15,"adocetus","Spermophilus","Tropical Ground Squirrel",LC,S,-16731116
-33,32,"musicus","Spermophilus","Caucasian Mountain Ground Squirrel",NT,U,-12486656
-34,32,"suslicus","Spermophilus","Speckled Ground Squirrel",NT,D,-12486656
-35,13,"xanthoprymnus","Spermophilus","Asia Minor Ground Squirrel",NT,D,-12486656
-40,39,"spilosoma","Spermophilus","Spotted Ground Squirrel",LC,S,-16731116
-41,39,"dauricus","Spermophilus","Daurian Ground Squirrel",LC,U,-16731116
-42,38,"beecheyi","Spermophilus","California Ground Squirrel",LC,S,-16731116
-43,37,"madrensis","Spermophilus","Sierra Madre Ground Squirrel",NT,U,-12486656
-46,45,"citellus","Spermophilus","European Ground Squirrel",VU,D,-11184866
-47,45,"major","Spermophilus","Russet Ground Squirrel",LC,U,-16731116
-48,44,"fulvus","Spermophilus","Yellow Ground Squirrel",LC,U,-16731116
-49,11,"alashanicus","Spermophilus","Alashan Ground Squirrel",LC,D,-16731116
-51,50,"townsendii","Spermophilus","Townsend's Ground Squirrel",VU,D,-11184866
-52,50,"brunneus","Spermophilus","Idaho Ground Squirrel",EN,D,-8572416
-59,58,"richardsonii","Spermophilus","Richardson's Ground Squirrel",LC,S,-16731116
-60,58,"armatus","Spermophilus","Uinita Ground Squirrel",LC,U,-16731116
-61,57,"atricapillus","Spermophilus","Baja California Rock Squirrel",EN,D,-8572416
-62,56,"parryii","Spermophilus","Arctic Ground Squirrel",LC,U,-16731116
-64,63,"undulatus","Spermophilus","Long-tailed Ground Squirrel",LC,S,-16731116
-65,63,"columbianus","Spermophilus","Columbian Ground Squirrel",LC,S,-16731116
-66,54,"washingtoni","Spermophilus","Washington Ground Squirrel",NT,D,-12486656
-69,68,"tridecemlineatus","Spermophilus","Big Horn Thirteen-lined Ground Squirrel",LC,S,-16731116
-70,68,"perotensis","Spermophilus","Perote Ground Squirrel",EN,D,-8572416
-71,67,"franklinii","Spermophilus","Franklin's Ground Squirrel",LC,D,-16731116
-72,8,"tereticaudus","Spermophilus","Round-tailed Ground Squirrel",LC,S,-16731116
-73,7,"canus","Spermophilus","Merriam's Ground Squirrel",LC,U,-16731116
-74,6,"mohavensis","Spermophilus","Mohave Ground Squirrel",VU,D,-11184866
-75,5,"annulatus","Spermophilus","Ring-tailed Ground Squirrel",LC,U,-16731116
-76,4,"saturatus","Spermophilus","Cascade Golden-mantled Ground Squirrel",LC,S,-16731116
-77,3,"mexicanus","Spermophilus","Mexican Ground Squirrel",LC,S,-16731116
-78,2,"elegans","Spermophilus","Nevada Ground Squirrel",LC,U,-16731116
-80,79,"lateralis","Spermophilus","Golden Mantled Ground Squirrel",LC,S,-16731116
-81,79,"variegatus","Spermophilus","Rock Squirrel",LC,S,-16731116
-90,89,"camtschatica","Marmota","Black-capped Marmot",LC,U,-16731116
-91,89,"himalayana","Marmota","Himalayan Marmot",LC,U,-16731116
-92,88,"sibirica","Marmota","Mongolian Marmot",EN,D,-8572416
-94,93,"baibacina","Marmota","Altai Marmot",LC,U,-16731116
-95,93,"bobak","Marmota","Bobak Marmot",LC,S,-16731116
-97,96,"menzbieri","Marmota","Menzbier's Marmot",VU,D,-11184866
-98,96,"caudata","Marmota","Long-tailed marmot",LC,U,-16731116
-100,99,"broweri","Marmota","Alaska Marmot",LC,S,-16731116
-101,99,"marmota","Marmota","Alpine Marmot",LC,S,-16731116
-102,84,"monax","Marmota","Woodchuck",LC,S,-16731116
-106,105,"vancouverensis","Marmota","Vancouver Island Marmot",CR,D,-3014646
-107,105,"caligata","Marmota","Hoary Marmot",LC,S,-16731116
-108,104,"olympus","Marmota","Olympic Marmot",LC,D,-16731116
-109,103,"flaviventris","Marmota","Yellow-bellied Marmot",LC,S,-16731116
-113,112,"leucurus","Cynomys","White-tailed Prairie Dog",LC,D,-16731116
-114,112,"parvidens","Cynomys","Utah Prairie Dog",EN,D,-8572416
-115,111,"gunnisoni","Cynomys","Gunnison's Prairie Dog",LC,D,-16731116
-117,116,"ludovicianus","Cynomys","Arizona Black-tailed Prairie Dog",LC,D,-16731116
-118,116,"mexicanus","Cynomys","Mexican Prairie Dog",EN,U,-8572416
+10,9,"goeldii","Proechimys","Goeldi's Spiny Rat",VU,D,-11184866
+11,8,"simonsi","Proechimys","Simon's Spiny Rat",LC,U,-16731116
+18,17,"leniceps","Mesomys","Woolly-headed Spiny Tree Rat",DD,U,-11513776
+19,17,"hispidus","Mesomys","Spiny Tree Rat",LC,U,-16731116
+21,20,"obscura","Makalata","Dark Armored Tree-rat",DD,U,-11513776
+22,20,"stimulax","Mesomys","Para Spiny Tree Rat",LC,U,-16731116
+24,23,"cuvieri","Proechimys","Cuvier's Spiny Rat",LC,U,-16731116
+25,23,"setosus","Trinomys","Hairy Spiny Rat",LC,U,-16731116
+26,14,"subspinosus","Chaetomys","Bristle-spined Rat",VU,D,-11184866
+28,27,"apereoides","Thrichomys","Punare",LC,U,-16731116
+29,27,"inermis","Thrichomys","",LC,U,-16731116
+32,31,"gratiosus","Trinomys","",LC,U,-16731116
+33,31,"paratus","Trinomys","",DD,U,-11513776
+34,30,"iheringi","Trinomys","Ihering's Spiny Rat",LC,S,-16731116
+37,36,"chrysaeolus","Proechimys","Boyaca Spiny Rat",DD,U,-11513776
+38,36,"mincae","Proechimys","Minca Spiny Rat",DD,U,-11513776
+39,35,"magdalenae","Proechimys","Magdalena Spiny Rat",DD,U,-11513776
+48,47,"hoplomyoides","Proechimys","Guyanan Spiny Rat",DD,U,-11513776
+49,47,"gymnurus","Hoplomys","Armored Rat",LC,S,-16731116
+50,46,"dimidiatus","Trinomys","Atlantic Spiny Rat",LC,U,-16731116
+52,51,"oconnelli","Proechimys","O'Connell's Spiny Rat",DD,U,-11513776
+53,51,"spinosus","Euryzygomatomys","Guiara",LC,U,-16731116
+54,44,"canicollis","Proechimys","Colombian Spiny Rat",LC,S,-16731116
+58,57,"poliopus","Proechimys","Gray-footed Spiny Rat",VU,D,-11184866
+59,57,"sulcidens","Carterodon","Owl's Spiny Rat",DD,U,-11513776
+60,56,"roberti","Proechimys","Roberto's Spiny Rat",VU,D,-11184866
+62,61,"emiliae","Lonchothrix","Tuft-tailed Spiny Tree Rat",LC,S,-16731116
+63,61,"albispinus","Trinomys","White-spined Spiny Rat",LC,U,-16731116
+67,66,"myosuros","Trinomys","Mouse-tailed Spiny Rat",LC,U,-16731116
+68,66,"trinitatus","Proechimys","Trinidad Spiny Rat",DD,U,-11513776
+69,65,"quadruplicatus","Proechimys","Napo Spiny Rat",LC,S,-16731116
+71,70,"semispinosus","Proechimys","Tome's Spiny Rat",LC,S,-16731116
+72,70,"steerei","Proechimys","Steere's Spiny Rat",LC,U,-16731116
+78,77,"boliviensis","Dactylomys","Bolivian Bamboo Rat",LC,S,-16731116
+79,77,"dactylinus","Dactylomys","Amazon Bamboo Rat",LC,S,-16731116
+80,76,"peruanus","Dactylomys","Peruvian Bamboo Rat",DD,U,-11513776
+82,81,"albicauda","Olallamys","White-tailed Olalla Rat",DD,U,-11513776
+83,81,"edax","Olallamys","Greedy Olalla Rat",DD,U,-11513776
+84,74,"amblyonyx","Kannabateomys","Atlantic Bamboo Rat",LC,U,-16731116
+85,73,"brevicauda","Proechimys","Huallaga Spiny Rat",LC,U,-16731116
+90,89,"bishopi","Clyomys","Bishop's Fossorial Spiny Rat",DD,U,-11513776
+91,89,"laticeps","Clyomys","Broad-headed Spiny Rat",LC,U,-16731116
+92,88,"decumanus","Proechimys","Pacific Spiny Rat",VU,D,-11184866
+93,87,"guyannensis","Proechimys","Cayenne Spiny Rat",LC,U,-16731116
+95,94,"longicaudatus","Proechimys","Long-tailed Spiny Rat",LC,D,-16731116
+96,94,"guairae","Proechimys","Guaira Spiny Rat",LC,U,-16731116
+97,4,"coypus","Myocastor","Coypu",LC,D,-16731116
+104,103,"prehensilis","Mysateles","Prehensile-tailed Hutia",NT,U,-12486656
+105,103,"garridoi","Mysateles","Garrido's Hutia",CR,U,-3014646
+107,106,"meridionalis","Mysateles","Isla De La Juventud Tree Hutia",CR,D,-3014646
+108,106,"melanurus","Mesocapromys","",NE,U,-16777216
+111,110,"ingrahami","Geocapromys","Bahamian Hutia",VU,S,-11184866
+112,110,"brownii","Geocapromys","Brown's Hutia",VU,D,-11184866
+114,113,"pilorides","Capromys","Desmarest's Hutia",LC,S,-16731116
+115,113,"gundlachianus","Capromys","",NE,U,-16777216
+119,118,"angelcabrerai","Mesocapromys","Cabrera's Hutia",EN,U,-8572416
+120,118,"auritus","Mesocapromys","Eared Hutia",EN,S,-8572416
+121,117,"sanfelipensis","Mesocapromys","Little Earth Hutia",CR,U,-3014646
+122,116,"nanus","Mesocapromys","Dwarf Hutia",CR,U,-3014646
+123,99,"aedium","Plagiodontia","Cuvier's Hutia",EN,D,-8572416
+124,98,"portoricensis","Isolobodon","Puerto Rican Hutia",EX,U,-16777036
+133,132,"damarensis","Cryptomys","Damara Mole Rat",LC,S,-16731116
+134,132,"mechowi","Cryptomys","Mechow's Mole Rat",LC,S,-16731116
+135,131,"zechi","Cryptomys","Ghana Mole Rat",LC,S,-16731116
+138,137,"darlingi","Cryptomys","Mashona Mole-rat",LC,S,-16731116
+139,137,"amatus","Cryptomys","",NE,U,-16777216
+140,136,"hottentotus","Cryptomys","African Mole Rat",LC,S,-16731116
+143,142,"ochraceocinereus","Cryptomys","Ochre Mole Rat",LC,U,-16731116
+144,142,"bocagei","Cryptomys","Bocage's Mole Rat",LC,U,-16731116
+145,141,"foxi","Cryptomys","Nigerian Mole Rat",DD,U,-11513776
+148,147,"janetta","Bathyergus","Namaqua Dune Mole Rat",LC,U,-16731116
+149,147,"suillus","Bathyergus","Cape Dune Mole Rat",LC,S,-16731116
+150,146,"capensis","Georychus","Cape Mole Rat",LC,S,-16731116
+151,127,"argenteocinereus","Heliophobius","Silvery Mole Rat",LC,S,-16731116
+152,126,"glaber","Heterocephalus","Naked Mole Rat",LC,S,-16731116
+159,158,"shiptoni","Microcavia","Shipton's Mountain Cavy",NT,D,-12486656
+160,158,"niata","Microcavia","Andean Mountain Cavy",LC,S,-16731116
+161,157,"australis","Microcavia","Southern Mountain Cavy",LC,U,-16731116
+164,163,"tschudii","Cavia","Montane Guinea Pig",LC,S,-16731116
+165,163,"porcellus","Cavia","",NE,U,-16777216
+166,162,"aperea","Cavia","Brazilian Guinea Pig",LC,S,-16731116
+170,169,"spixii","Galea","Spix's Yellow-toothed Cavy",LC,S,-16731116
+171,169,"flavidens","Galea","Yellow-toothed Cavy",LC,U,-16731116
+172,168,"musteloides","Galea","Common Yellow-toothed Cavy",LC,S,-16731116
+173,167,"fulgida","Cavia","Shiny Guinea Pig",LC,S,-16731116
+174,154,"magna","Cavia","Greater Guinea Pig",LC,D,-16731116
+175,153,"rupestris","Kerodon","Rock Cavy",LC,S,-16731116
+184,183,"crassispinis","Hystrix","Thick-spined Porcupine",LC,S,-16731116
+185,183,"cristata","Hystrix","Crested Porcupine",LC,U,-16731116
+186,182,"sumatrae","Hystrix","Sumatran Porcupine",LC,S,-16731116
+187,181,"indica","Hystrix","Indian Crested Porcupine",LC,S,-16731116
+188,180,"brachyura","Hystrix","Malayan Porcupine",LC,D,-16731116
+191,190,"africaeaustralis","Hystrix","Cape Porcupine",LC,S,-16731116
+192,190,"pumila","Hystrix","Phillipine Porcupine",VU,D,-11184866
+193,189,"javanica","Hystrix","Sunda Porcupine",LC,S,-16731116
+195,194,"macrourus","Atherurus","Asiatic Brush-tailed Porcupine",LC,D,-16731116
+196,194,"africanus","Atherurus","African Brush-tailed Porcupine",LC,U,-16731116
+197,177,"fasciculata","Trichys","Long-tailed Porcupine",LC,S,-16731116
+198,176,"branickii","Dinomys","Pacarana",VU,D,-11184866
+204,203,"viscacia","Lagidium","Southern Mountain Viscacha",LC,S,-16731116
+205,203,"wolffsohni","Lagidium","Wolffsohn's Viscacha",DD,U,-11513776
+206,202,"peruanum","Lagidium","Northern Mountain Viscacha",LC,S,-16731116
+208,207,"chinchilla","Chinchilla","Short-tailed Chinchilla",CR,D,-3014646
+209,207,"lanigera","Chinchilla","Chinchilla",CR,D,-3014646
+210,200,"maximus","Lagostomus","Plains Viscacha",LC,U,-16731116
+211,199,"boliviensis","Abrocoma","Bolivian Chinchilla Rat",CR,D,-3014646

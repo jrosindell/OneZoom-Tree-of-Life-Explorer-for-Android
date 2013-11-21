@@ -1,86 +1,107 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"strigidorsa","Mustela","Stripe-backed Weasel",LC,U,-16731116
-14,12,"lutreola","Mustela","European Mink",EN,D,-8572416
-15,11,"lutreolina","Mustela","Indonesian Mountain Weasel",DD,U,-11513776
-18,17,"sibirica","Mustela","SIBERIAN WEASEL",LC,S,-16731116
-19,17,"itatsi","Mustela","Japanese Weasel",LC,D,-16731116
-20,16,"nudipes","Mustela","Malay Weasel",LC,D,-16731116
-23,22,"nigripes","Mustela","Black-footed Ferret",EN,I,-8572416
-24,22,"eversmanii","Mustela","Steppe Polecat",LC,S,-16731116
-25,21,"putorius","Mustela","European Polecat",LC,D,-16731116
-31,30,"subpalmata","Mustela","Egyptian Weasel",LC,S,-16731116
-32,30,"nivalis","Mustela","Least Weasel",LC,S,-16731116
-33,29,"frenata","Mustela","Long-tailed Weasel",LC,S,-16731116
-35,34,"altaica","Mustela","Altai Weasel",NT,D,-12486656
-36,34,"erminea","Mustela","Stoat",LC,S,-16731116
-38,37,"felipei","Mustela","Colombian Weasel",VU,D,-11184866
-39,37,"africana","Mustela","Amazon Weasel",LC,U,-16731116
-40,26,"kathiah","Mustela","Yellow-bellied Weasel",LC,U,-16731116
-42,41,"vison","Neovison","American Mink",LC,S,-16731116
-43,41,"macrodon","Neovison","Sea Mink",EX,U,-16777036
-54,53,"americana","Martes","American Marten",LC,D,-16731116
-55,53,"melampus","Martes","Japanese Marten",LC,S,-16731116
-56,52,"zibellina","Martes","SABLE",LC,U,-16731116
-57,51,"martes","Martes","European Pine Marten",LC,S,-16731116
-58,50,"foina","Martes","Stone Marten",LC,S,-16731116
-59,49,"pennanti","Martes","Fisher",LC,U,-16731116
-61,60,"flavigula","Martes","Yellow-throated Marten",LC,S,-16731116
-62,60,"gwatkinsii","Martes","Nilgiri Marten",VU,D,-11184866
-63,47,"gulo","Gulo","Wolverine",LC,D,-16731116
-64,46,"barbara","Eira","Tayra",LC,D,-16731116
-66,65,"vittata","Galictis","Greater Grison",LC,S,-16731116
-67,65,"cuja","Galictis","Lesser Grison",LC,U,-16731116
-68,44,"patagonicus","Lyncodon","Patagonian Weasel",DD,U,-11513776
-71,70,"libyca","Ictonyx","Libyan Striped Weasel",LC,U,-16731116
-72,70,"striatus","Ictonyx","Zorilla",LC,S,-16731116
-73,69,"peregusna","Vormela","European Marbled Polecat",VU,D,-11184866
-74,4,"albinucha","Poecilogale","African Striped Weasel",LC,U,-16731116
-75,3,"capensis","Mellivora","Honey Badger",LC,D,-16731116
-81,80,"anakuma","Meles","Japanese Badger",LC,D,-16731116
-82,80,"meles","Meles","Eurasian Badger",LC,S,-16731116
-83,79,"leucurus","Meles","Asian Badger",LC,U,-16731116
-84,78,"collaris","Arctonyx","Hog Badger",NT,D,-12486656
-86,85,"javanensis","Mydaus","Sunda Stink-badger",LC,U,-16731116
-87,85,"marchei","Mydaus","Palawan Stink-badger",LC,U,-16731116
-88,76,"taxus","Taxidea","American Badger",LC,D,-16731116
-97,96,"provocax","Lontra","Southern River Otter",EN,D,-8572416
-98,96,"felina","Lontra","Marine Otter",EN,D,-8572416
-99,95,"longicaudis","Lontra","Neotropical Otter",DD,D,-11513776
-100,94,"canadensis","Lontra","North American Otter",LC,S,-16731116
-103,102,"lutra","Lutra","Eurasian Otter",NT,D,-12486656
-104,102,"nippon","Lutra","",NE,U,-16777216
-105,101,"sumatrana","Lutra","Hairy-nosed Otter",EN,D,-8572416
-109,108,"perspicillata","Lutrogale","Smooth-coated Otter",VU,U,-11184866
-110,108,"maculicollis","Hydrictis","",NE,U,-16777216
-111,107,"brasiliensis","Pteronura","Giant Otter",EN,D,-8572416
-112,106,"lutris","Enhydra","Sea Otter",EN,S,-8572416
-114,113,"cinerea","Aonyx","Asian Small-clawed Otter",VU,D,-11184866
-115,113,"capensis","Aonyx","African Clawless Otter",LC,S,-16731116
-121,120,"putorius","Spilogale","Eastern Spotted Skunk",LC,D,-16731116
-122,120,"gracilis","Spilogale","Western Spotted Skunk",LC,D,-16731116
-123,119,"angustifrons","Spilogale","Southern Spotted Skunk",LC,S,-16731116
-124,118,"pygmaea","Spilogale","Pygmy Spotted Skunk",VU,D,-11184866
-126,125,"mephitis","Mephitis","Striped Skunk",LC,S,-16731116
-127,125,"macroura","Mephitis","Hooded Skunk",LC,I,-16731116
-130,129,"humboldtii","Conepatus","Humboldt's Hog-nosed Skunk",LC,S,-16731116
-131,129,"semistriatus","Conepatus","Striped Hog-nosed Skunk",LC,U,-16731116
-133,132,"leuconotus","Conepatus","American Hog-nosed Skunk",LC,D,-16731116
-134,132,"chinga","Conepatus","Molina's Hog-nosed Skunk",LC,D,-16731116
-138,137,"personata","Melogale","Large-toothed Ferret Badger",DD,U,-11513776
-139,137,"orientalis","Melogale","Javan Ferret Badger",DD,U,-11513776
-140,136,"everetti","Melogale","Bornean Ferret Badger",DD,U,-11513776
-141,135,"moschata","Melogale","Small-toothed Ferret-badger",LC,U,-16731116
-147,146,"cancrivorus","Procyon","Crab-eating Raccoon",LC,D,-16731116
-148,146,"pygmaeus","Procyon","Pygmy Raccoon",CR,D,-3014646
-149,145,"lotor","Procyon","Northern Raccoon",LC,I,-16731116
-152,151,"nasua","Nasua","South American Coati",LC,D,-16731116
-153,151,"narica","Nasua","White-nosed Coati",LC,D,-16731116
-154,150,"olivacea","Nasuella","Mountain Coati",DD,U,-11513776
-156,155,"sumichrasti","Bassariscus","Cacomistle",LC,U,-16731116
-157,155,"astutus","Bassariscus","Ringtail",LC,U,-16731116
-163,162,"lasius","Bassaricyon","Harris's Olingo",DD,D,-11513776
-164,162,"gabbii","Bassaricyon","Olingo",LC,U,-16731116
-165,161,"pauli","Bassaricyon","Chiriqui Olingo",DD,U,-11513776
-166,160,"beddardi","Bassaricyon","Beddard's Olingo",LC,U,-16731116
-167,159,"alleni","Bassaricyon","Allen's Olingo",LC,D,-16731116
-168,158,"flavus","Potos","Kinkajou",LC,D,-16731116
+14,13,"unalascensis","Dicrostonyx","Umnak Island Collared Lemming",DD,U,-11513776
+15,13,"nelsoni","Dicrostonyx","Nelson's Collared Lemming",LC,S,-16731116
+16,12,"hudsonius","Dicrostonyx","Ungava Collared Lemming",LC,S,-16731116
+17,11,"groenlandicus","Dicrostonyx","Neartic Collared Lemming",LC,U,-16731116
+18,10,"nunatakensis","Dicrostonyx","Ogilvie Mountains Collared Lemming",LC,U,-16731116
+21,20,"richardsoni","Dicrostonyx","Richardson's Collared Lemming",LC,S,-16731116
+22,20,"torquatus","Dicrostonyx","Arctic Lemming",LC,S,-16731116
+23,19,"vinogradovi","Dicrostonyx","Wrangel Island Collared Lemming",DD,U,-11513776
+26,25,"roberti","Chionomys","Robert's Snow Vole",LC,U,-16731116
+27,25,"nivalis","Chionomys","European Snow Vole",LC,S,-16731116
+28,24,"gud","Chionomys","Caucasian Snow Vole",LC,U,-16731116
+32,31,"clarkei","Microtus","Clarke's Vole",LC,S,-16731116
+33,31,"kikuchii","Microtus","Taiwan Vole",NT,U,-12486656
+34,30,"millicens","Volemys","Sichuan Vole",DD,U,-11513776
+35,29,"musseri","Volemys","Marie's Vole",DD,U,-11513776
+37,36,"bedfordi","Proedromys","Duke Of Bedford's Vole",VU,D,-11184866
+42,41,"przewalskii","Eolagurus","Przewalski's Steppe Lemming",LC,U,-16731116
+43,41,"luteus","Eolagurus","Yellow Steppe Lemming",LC,U,-16731116
+44,40,"lagurus","Lagurus","Steppe Lemming",LC,S,-16731116
+47,46,"amphibius","Arvicola","Eurasian Water Vole",LC,S,-16731116
+48,46,"scherman","Arvicola","",LC,S,-16731116
+49,45,"sapidus","Arvicola","Southern Water Vole",VU,D,-11184866
+50,38,"curtatus","Lemmiscus","Sagebrush Vole",LC,S,-16731116
+54,53,"fontanierii","Eospalax","Chinese Zokor",LC,U,-16731116
+55,53,"smithii","Eospalax","Smith's Zokor",LC,U,-16731116
+56,52,"rothschildi","Eospalax","Rothschild's Zokor",LC,U,-16731116
+59,58,"psilurus","Myospalax","Transbaikal Zokor",LC,S,-16731116
+60,58,"myospalax","Myospalax","Siberian Zokor",LC,U,-16731116
+61,57,"aspalax","Myospalax","False Zokor",LC,U,-16731116
+62,1,"rousseloti","Dendroprionomys","Velvet African Climbing Mouse",DD,U,-11513776
+73,72,"penicillatus","Eliurus","White-tipped Tuft-tailed Rat",EN,U,-8572416
+74,72,"tanala","Eliurus","Tanala Tuft-tailed Rat",LC,U,-16731116
+76,75,"myoxinus","Eliurus","Western Tuft-tailed Rat",LC,U,-16731116
+77,75,"minor","Eliurus","Lesser Tufted-tailed Rat",LC,U,-16731116
+79,78,"majori","Eliurus","Major's Tufted-tailed Rat",LC,U,-16731116
+80,78,"webbi","Eliurus","Webb's Tuft-tailed Rat",LC,U,-16731116
+81,69,"roberti","Gymnuromys","",LC,U,-16731116
+83,82,"albicauda","Brachytarsomys","White-tailed Tree Rat",LC,U,-16731116
+84,82,"villosa","Brachytarsomys","Hairy-tailed Tree Rat",EN,U,-8572416
+86,85,"ingens","Macrotarsomys","Long-tailed Big-footed Mouse",EN,D,-8572416
+87,85,"bastardi","Macrotarsomys","Western Big-footed Mouse",LC,S,-16731116
+92,91,"lambertoni","Nesomys","Lowland Red Forest Rat",EN,U,-8572416
+93,91,"audeberti","Nesomys","Lowland Red Forest Rat",LC,D,-16731116
+94,90,"rufus","Nesomys","Eastern Red Forest Rat",LC,U,-16731116
+96,95,"betsileoensis","Brachyuromys","Betsileo Short-tailed Rat",LC,U,-16731116
+97,95,"ramirohitra","Brachyuromys","Gregarious Short-tailed Rat",LC,U,-16731116
+98,88,"antimena","Hypogeomys","Malagasy Giant Jumping Rat",EN,D,-8572416
+100,99,"lasiurus","Platacanthomys","Malabar Spiny Dormouse",VU,D,-11184866
+101,99,"cinereus","Typhlomys","Sort-furred Tree Mouse",LC,D,-16731116
+107,106,"longicaudatus","Cricetulus","Long-tailed Dwarf Hamster",LC,U,-16731116
+108,106,"barabensis","Cricetulus","Striped Dwarf Hamster",LC,U,-16731116
+110,109,"migratorius","Cricetulus","Gray Dwarf Hamster",LC,U,-16731116
+111,109,"kamensis","Cricetulus","Kam Dwarf Hamster",LC,U,-16731116
+113,112,"sokolovi","Cricetulus","Sokolov's Dwarf Hamster",LC,U,-16731116
+114,112,"alticola","Cricetulus","Ladakh Hamster",LC,U,-16731116
+117,116,"eversmanni","Allocricetulus","Eversmann's Hamster",LC,U,-16731116
+118,116,"curtatus","Allocricetulus","Mongolian Hamster",LC,U,-16731116
+119,115,"cricetus","Cricetus","Black-bellied Hamster",LC,D,-16731116
+125,124,"raddei","Mesocricetus","Ciscaucasian Hamster",LC,S,-16731116
+126,124,"auratus","Mesocricetus","Golden Hamster",VU,D,-11184866
+128,127,"brandti","Mesocricetus","Brandt's Hamster",NT,D,-12486656
+129,127,"newtoni","Mesocricetus","Romanian Hamster",NT,D,-12486656
+132,131,"campbelli","Phodopus","Campbell's Hamster",LC,S,-16731116
+133,131,"roborovskii","Phodopus","Desert Hamster",LC,S,-16731116
+134,130,"sungorus","Phodopus","Dzhungarian Hamster",LC,U,-16731116
+135,121,"triton","Tscherskia","Greater Long-tailed Hamster",LC,U,-16731116
+136,120,"canus","Cansumys","Gansu Hamster",LC,U,-16731116
+145,144,"splendens","Tachyoryctes","East African Mole Rat",LC,S,-16731116
+146,144,"ibeanus","Tachyoryctes","",NE,U,-16777216
+147,143,"macrocephalus","Tachyoryctes","Big-headed Mole Rat",EN,D,-8572416
+149,148,"naivashae","Tachyoryctes","",NE,U,-16777216
+150,148,"daemon","Tachyoryctes","",NE,U,-16777216
+152,151,"spalacinus","Tachyoryctes","",NE,U,-16777216
+153,151,"annectens","Tachyoryctes","",NE,U,-16777216
+157,156,"ruandae","Tachyoryctes","",NE,U,-16777216
+158,156,"rex","Tachyoryctes","",NE,U,-16777216
+159,155,"ruddi","Tachyoryctes","",NE,U,-16777216
+161,160,"ankoliae","Tachyoryctes","",NE,U,-16777216
+162,160,"audax","Tachyoryctes","",NE,U,-16777216
+166,165,"sumatrensis","Rhizomys","Indomalayan Bamboo Rat",LC,U,-16731116
+167,165,"pruinosus","Rhizomys","Hoary Bamboo Rat",LC,S,-16731116
+168,164,"sinensis","Rhizomys","Chinese Bamboo Rat",LC,U,-16731116
+169,163,"badius","Cannomys","Bay Bamboo Rat",LC,U,-16731116
+174,173,"insignis","Dendromus","Montane African Climbing Mouse",LC,S,-16731116
+175,173,"oreas","Dendromus","Cameroon Climbing Mouse",VU,U,-11184866
+176,172,"mesomelas","Dendromus","Brant's Climbing Mouse",LC,S,-16731116
+179,178,"vernayi","Dendromus","Vernay's Climbing Mouse",DD,U,-11513776
+180,178,"nyasae","Dendromus","",NE,U,-16777216
+181,177,"kahuziensis","Dendromus","Mount Kahuzi African Climbing Mouse",CR,D,-3014646
+185,184,"mystacalis","Dendromus","Chestnut Climbing Mouse",LC,S,-16731116
+186,184,"messorius","Dendromus","Banana Climbing Mouse",LC,S,-16731116
+188,187,"melanotis","Dendromus","Gray African Climbing Mouse",LC,S,-16731116
+189,187,"leucostomus","Dendromus","",NE,U,-16777216
+191,190,"lovati","Dendromus","Lovat's African Climbing Mouse",LC,D,-16731116
+192,190,"nyikae","Dendromus","Nyika Climbing Mouse",LC,U,-16731116
+201,200,"pratensis","Steatomys","Fat Mouse",LC,S,-16731116
+202,200,"opimus","Steatomys","",LC,U,-16731116
+203,199,"bocagei","Steatomys","",LC,U,-16731116
+205,204,"caurinus","Steatomys","Northwestern Fat Mouse",LC,S,-16731116
+206,204,"jacksoni","Steatomys","Jackson's Fat Mouse",DD,U,-11513776
+207,197,"cuppedius","Steatomys","Dainty Fat Mouse",LC,S,-16731116
+209,208,"krebsii","Steatomys","Kreb's Fat Mouse",LC,S,-16731116
+210,208,"parvus","Steatomys","Tiny Fat Mouse",LC,S,-16731116
+211,195,"buettneri","Leimacomys","Groove-toothed Forest Mouse",DD,U,-11513776
+212,194,"imhausi","Lophiomys","Crested Rat",LC,S,-16731116
+213,193,"typica","Malacothrix","Gerbil Mouse",LC,S,-16731116

@@ -1,35 +1,94 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"erythrogaster","Cercopithecus","White-throated Monkey",VU,D,-11184866
-12,10,"sclateri","Cercopithecus","Sclater's Monkey",VU,D,-11184866
-13,9,"ascanius","Cercopithecus","Red-tailed Monkey",LC,U,-16731116
-14,8,"cephus","Cercopithecus","Moustached Monkey",LC,U,-16731116
-16,15,"petaurista","Cercopithecus","Lesser Spot-nosed Monkey",LC,U,-16731116
-17,15,"erythrotis","Cercopithecus","Red-eared Monkey",VU,D,-11184866
-21,20,"mitis","Cercopithecus","Blue Monkey",LC,D,-16731116
-22,20,"albogularis","Cercopithecus","",NE,U,-16777216
-24,23,"doggetti","Cercopithecus","",NE,U,-16777216
-25,23,"kandti","Cercopithecus","",NE,U,-16777216
-26,18,"nictitans","Cercopithecus","Putty-nosed Monkey",LC,D,-16731116
-29,28,"diana","Cercopithecus","Diana/roloway Monkey",VU,D,-11184866
-30,28,"roloway","Cercopithecus","",NE,U,-16777216
-31,27,"dryas","Cercopithecus","Dryad Monkey",CR,U,-3014646
-36,35,"campbelli","Cercopithecus","Campbell's Monkey",LC,U,-16731116
-37,35,"lowei","Cercopithecus","",NE,U,-16777216
-38,34,"mona","Cercopithecus","Mona Monkey",LC,U,-16731116
-41,40,"wolfi","Cercopithecus","",NE,U,-16777216
-42,40,"denti","Cercopithecus","",NE,U,-16777216
-43,39,"pogonias","Cercopithecus","Crowned Monkey",LC,U,-16731116
-44,32,"neglectus","Cercopithecus","De Brazza's Monkey",LC,U,-16731116
-45,3,"hamlyni","Cercopithecus","Owl-faced Monkey",VU,D,-11184866
-53,52,"sabaeus","Chlorocebus","Green Monkey",LC,S,-16731116
-54,52,"pygerythrus","Chlorocebus","Vervet",LC,S,-16731116
-55,51,"aethiops","Chlorocebus","Grivet Monkey",LC,S,-16731116
-56,50,"djamdjamensis","Chlorocebus","Bale Monkey",VU,D,-11184866
-57,49,"cynosuros","Chlorocebus","Malbrouck Monkey",LC,S,-16731116
-58,48,"tantalus","Chlorocebus","Tantalus Monkey",LC,S,-16731116
-61,60,"lhoesti","Cercopithecus","L'hoest's Monkey",VU,D,-11184866
-62,60,"preussi","Cercopithecus","Preuss's Monkey",EN,D,-8572416
-63,59,"solatus","Cercopithecus","Sun-tailed Monkey",VU,U,-11184866
-64,46,"patas","Erythrocebus","Patas Monkey",LC,D,-16731116
-65,1,"talapoin","Miopithecus","Southern Talapoin Monkey",LC,U,-16731116
-66,0,"nigroviridis","Allenopithecus","Allen's Swamp Monkey",LC,U,-16731116
+10,9,"harringtoni","Desmomys","Harrington's Rat",LC,U,-16731116
+17,16,"tullbergi","Praomys","Tullberg's Praomys",LC,S,-16731116
+18,16,"morio","Praomys","Cameroon Praomys",EN,D,-8572416
+19,15,"rostratus","Praomys","Forest Soft-furred Mouse",LC,U,-16731116
+20,14,"mutoni","Praomys","Muton's Soft-furred Mouse",DD,U,-11513776
+22,21,"jacksoni","Praomys","Jackson's Praomys",LC,S,-16731116
+23,21,"minor","Praomys","Least Praomys",DD,U,-11513776
+26,25,"hartwigi","Praomys","Hartwig's Praomys",EN,D,-8572416
+27,25,"obscurus","Praomys","",EN,D,-8572416
+28,24,"delectorum","Praomys","Delectable Soft-furred Mouse",NT,S,-12486656
+29,11,"misonnei","Praomys","Misonne's Praomys",LC,S,-16731116
+32,31,"armandvillei","Papagomys","Armandville's Papagomys",NT,D,-12486656
+33,31,"rintjanus","Komodomys","Nusa Tenggara Komodomys",VU,S,-11184866
+46,45,"macmillani","Grammomys","Macmillan's Thicket Rat",LC,U,-16731116
+47,45,"cometes","Grammomys","Mozambique Thicket Rat",LC,U,-16731116
+48,44,"gigas","Grammomys","Giant Thicket Rat",EN,D,-8572416
+50,49,"caniceps","Grammomys","Gray-headed Thicket Rat",DD,U,-11513776
+51,49,"minnae","Grammomys","Ethiopian Thicket Rat",VU,D,-11184866
+55,54,"aridulus","Grammomys","Arid Thicket Rat",DD,U,-11513776
+56,54,"dryas","Grammomys","Forest Thicket Rat",NT,D,-12486656
+57,53,"buntingi","Grammomys","Bunting's Grammomys",DD,U,-11513776
+59,58,"dolichurus","Grammomys","Woodland Thicket Rat",LC,U,-16731116
+60,58,"ibeanus","Grammomys","Ruwenzori Thicket Rat",LC,U,-16731116
+62,61,"kuru","Grammomys","Eastern Rainforest Grammomys",LC,U,-16731116
+63,61,"poensis","Grammomys","",NE,U,-16777216
+67,66,"nigricauda","Thallomys","Black-tailed Tree Rat",LC,U,-16731116
+68,66,"shortridgei","Thallomys","Shortridge's Rat",DD,U,-11513776
+69,65,"paedulcus","Thallomys","Acacia Rat",LC,U,-16731116
+70,64,"loringi","Thallomys","Loring's Rat",LC,U,-16731116
+72,71,"hildegardeae","Zelotomys","Hildegarde's Broad-headed Mouse",LC,S,-16731116
+73,71,"woosnami","Zelotomys","Woosnam's Broad-headed Mouse",LC,S,-16731116
+79,78,"kempi","Thamnomys","Kemp's Thicket Rat",VU,U,-11184866
+80,78,"major","Thamnomys","",NE,U,-16777216
+81,77,"venustus","Thamnomys","Charming Thicket Rat",VU,D,-11184866
+83,82,"ornatus","Oenomys","Ghana Rufous-nosed Rat",LC,U,-16731116
+84,82,"hypoxanthus","Oenomys","Rufous-nosed Rats",LC,S,-16731116
+85,75,"okuensis","Lamottemys","Mount Oku Rat",EN,D,-8572416
+86,74,"longicaudatus","Stochomys","Target Rat",LC,U,-16731116
+90,89,"infraluteus","Sundamys","Mountain Sundamys",LC,U,-16731116
+91,89,"maxi","Sundamys","Javan Sundamys",EN,D,-8572416
+92,88,"muelleri","Sundamys","Muller's Sundamys",LC,D,-16731116
+93,87,"canus","Lenothrix","Sundaic Lenothrix",LC,U,-16731116
+101,100,"schadenbergi","Crateromys","Luzon Crateromys",EN,D,-8572416
+102,100,"australis","Crateromys","Dinagat Crateromys",CR,U,-3014646
+103,99,"paulus","Crateromys","Ilin Crateromys",DD,U,-11513776
+105,104,"melanurus","Carpomys","Large Luzon Carpomys",DD,U,-11513776
+106,104,"phaeurus","Carpomys","Small Luzon Carpomys",LC,U,-16731116
+109,108,"dentatus","Batomys","Large-toothed Batomys",DD,U,-11513776
+110,108,"salomonseni","Batomys","Mindanao Batomys",LC,S,-16731116
+111,107,"granti","Batomys","Luzon Batomys",NT,D,-12486656
+112,94,"chiropus","Chiromyscus","Indochinese Chiromyscus",LC,S,-16731116
+119,118,"nanus","Gerbillus","Dwarf Gerbil",LC,S,-16731116
+120,118,"dongolanus","Gerbillus","",NE,U,-16777216
+121,116,"peeli","Microdillus","Somali Pygmy Gerbil",LC,U,-16731116
+126,125,"vallinus","Gerbillurus","Bushy-tailed Hairy-footed Gerbil",LC,S,-16731116
+127,125,"paeba","Gerbillurus","Hairy-footed Gerbil",LC,S,-16731116
+128,124,"setzeri","Gerbillurus","Namib Brush-tailed Gerbil",LC,S,-16731116
+129,123,"tytonis","Gerbillurus","Dune Hairy-footed Gerbil",LC,S,-16731116
+130,122,"auricularis","Desmodillus","Cape Short-eared Gerbil",LC,S,-16731116
+136,135,"emini","Cricetomys","Forest Giant Pouched Rat",LC,S,-16731116
+137,135,"kivuensis","Cricetomys","",NE,U,-16777216
+139,138,"gambianus","Cricetomys","Gambian Rat",LC,S,-16731116
+140,138,"ansorgei","Cricetomys","",NE,U,-16777216
+142,141,"hindei","Beamys","Long-tailed Pouched Rat",LC,D,-16731116
+143,141,"major","Beamys","",NE,U,-16777216
+145,144,"mearnsi","Saccostomus","East African Pouched Mouse",LC,S,-16731116
+146,144,"campestris","Saccostomus","Pouched Mouse",LC,S,-16731116
+150,149,"shortridgei","Petromyscus","Shortridge's Rock Mouse",LC,S,-16731116
+151,149,"barbouri","Petromyscus","Barbour's Rock Mouse",LC,S,-16731116
+153,152,"monticularis","Petromyscus","Brukkaros Pygmy Rock Mouse",LC,S,-16731116
+154,152,"collinus","Petromyscus","Pygmy Rock Mouse",LC,S,-16731116
+155,147,"brooksi","Delanymys","Delany's Mouse",VU,D,-11184866
+165,164,"uralensis","Spalax","Kazakhstan Blind Mole Rat",NT,U,-12486656
+166,164,"giganteus","Spalax","Giant Blind Mole Rat",VU,D,-11184866
+167,163,"zemni","Spalax","Podolian Mole Rat",VU,D,-11184866
+168,162,"arenarius","Spalax","Sandy Mole Rat",EN,D,-8572416
+169,161,"graecus","Spalax","Balkan Blind Mole Rat",NT,U,-12486656
+170,160,"microphthalmus","Spalax","Greater Blind Mole Rat",LC,S,-16731116
+173,172,"ehrenbergi","Spalax","Middle East Blind Mole Rat",DD,D,-11513776
+174,172,"nehringi","Spalax","Nehring's Bilind Mole Rat",DD,U,-11513776
+175,171,"leucodon","Spalax","Lesser Blind Mole Rat",DD,D,-11513776
+176,158,"albicaudatus","Mystromys","White-tailed Mouse",EN,D,-8572416
+181,180,"elburzensis","Calomyscus","Goodwin's Brush-tailed Mouse",LC,U,-16731116
+182,180,"mystax","Calomyscus","Afghan Mouse-like Hamster",LC,S,-16731116
+183,179,"baluchi","Calomyscus","Baluchi Brush-tailed Mouse",LC,U,-16731116
+186,185,"bailwardi","Calomyscus","Mouse-like Hamster",LC,U,-16731116
+187,185,"grandis","Calomyscus","Noble Calomyscus",DD,U,-11513776
+188,184,"tsolovi","Calomyscus","Syrian Calomyscus",DD,U,-11513776
+190,189,"hotsoni","Calomyscus","Hotson's Brush-tailed Mouse",LC,U,-16731116
+191,189,"urartensis","Calomyscus","Urar Calomyscus",LC,U,-16731116
+192,156,"ferrugineus","Deomys","Congo Forest Mouse",LC,S,-16731116
+194,193,"nikolausi","Megadendromus","Nikolaus's Mouse",DD,U,-11513776
+195,193,"batesi","Prionomys","Dollman's Tree Mouse",DD,U,-11513776

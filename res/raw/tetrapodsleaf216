@@ -1,55 +1,54 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"ocellatus","Niveoscincus","",NE,U,-16777216
-12,10,"pretiosus","Niveoscincus","",NE,U,-16777216
-13,9,"metallicus","Niveoscincus","",NE,U,-16777216
-15,14,"palfreymani","Niveoscincus","Pedra Branca Skink",VU,U,-11184866
-16,14,"greeni","Niveoscincus","",NE,U,-16777216
-21,20,"guichenoti","Lampropholis","",NE,U,-16777216
-22,20,"caligula","Lampropholis","",NE,U,-16777216
-23,19,"amicula","Lampropholis","",NE,U,-16777216
-24,18,"mirabilis","Lampropholis","",NE,U,-16777216
-25,17,"delicata","Lampropholis","",NE,U,-16777216
-30,29,"lineoocellata","Morethia","",NE,U,-16777216
-31,29,"butleri","Morethia","",NE,U,-16777216
-32,28,"taeniopleura","Morethia","",NE,U,-16777216
-35,34,"trilineata","Bassiana","",NE,U,-16777216
-36,34,"platynota","Bassiana","",NE,U,-16777216
-37,33,"duperreyi","Bassiana","",NE,U,-16777216
-42,41,"maini","Menetia","",NE,U,-16777216
-43,41,"surda","Menetia","",NE,U,-16777216
-44,40,"alanae","Menetia","",NE,U,-16777216
-45,39,"amaura","Menetia","",NE,U,-16777216
-46,38,"greyii","Menetia","",NE,U,-16777216
-49,48,"plagiocephalus","Cryptoblepharus","",NE,U,-16777216
-50,48,"virgatus","Cryptoblepharus","",NE,U,-16777216
-51,47,"boutonii","Cryptoblepharus","",NE,U,-16777216
-63,62,"rufilabialis","Emoia","",NE,U,-16777216
-64,62,"slevini","Emoia","",NE,U,-16777216
-65,61,"pallidiceps","Emoia","",NE,U,-16777216
-67,66,"boettgeri","Emoia","",NE,U,-16777216
-68,66,"adspersa","Emoia","",NE,U,-16777216
-69,59,"atrocostata","Emoia","",NE,U,-16777216
-70,58,"mivarti","Emoia","",NE,U,-16777216
-71,57,"jakati","Emoia","",NE,U,-16777216
-72,56,"submetallica","Emoia","",NE,U,-16777216
-73,55,"longicauda","Emoia","",NE,U,-16777216
-74,54,"arnoensis","Emoia","",NE,U,-16777216
-76,75,"caeruleocauda","Emoia","",NE,U,-16777216
-77,75,"impar","Emoia","",NE,U,-16777216
-82,81,"cyanogaster","Emoia","",NE,U,-16777216
-83,81,"cyanura","Emoia","",NE,U,-16777216
-85,84,"samoensis","Emoia","",NE,U,-16777216
-86,84,"nigra","Emoia","",NE,U,-16777216
-87,79,"popei","Emoia","",NE,U,-16777216
-89,88,"tropidolepis","Emoia","",NE,U,-16777216
-90,88,"lawesii","Emoia","",NE,U,-16777216
-92,91,"albofasciolatus","Eugongylus","",NE,U,-16777216
-93,91,"rufescens","Eugongylus","",NE,U,-16777216
-95,94,"novaeguineae","Lygisaurus","",NE,U,-16777216
-96,94,"foliorum","Lygisaurus","",NE,U,-16777216
-97,1,"lineocellata","Leiolopisma","",NE,U,-16777216
-101,100,"melanopogon","Lygosoma","",NE,U,-16777216
-102,100,"fernandi","Lygosoma","",NE,U,-16777216
-103,99,"punctata","Lygosoma","",NE,U,-16777216
-105,104,"quadrupes","Lygosoma","",NE,U,-16777216
-106,104,"afrum","Lygosoma","",NE,U,-16777216
+12,11,"johnstoniae","Trichoglossus","Mindanao Lorikeet",NT,U,-12486656
+13,11,"euteles","Trichoglossus","Olive-headed Lorikeet",LC,U,-16731116
+14,10,"haematodus","Trichoglossus","Rainbow Lorikeet",LC,U,-16731116
+15,9,"chlorolepidotus","Trichoglossus","Scaly-breasted Lorikeet",LC,U,-16731116
+18,17,"flavoviridis","Trichoglossus","Yellow-and-green Lorikeet",LC,U,-16731116
+19,17,"ornatus","Trichoglossus","Ornate Lorikeet",LC,U,-16731116
+20,16,"rubiginosus","Trichoglossus","Pohnpei Lorikeet",LC,U,-16731116
+24,23,"reticulata","Eos","Blue-streaked Lory",NT,U,-12486656
+25,23,"semilarvata","Eos","Blue-eared Lory",LC,U,-16731116
+27,26,"squamata","Eos","Violet-necked Lory",LC,U,-16731116
+28,26,"histrio","Eos","Red-and-blue Lory",EN,U,-8572416
+30,29,"cyanogenia","Eos","Black-winged Lory",VU,U,-11184866
+31,29,"bornea","Eos","Red Lory",LC,U,-16731116
+33,32,"pusilla","Glossopsitta","Little Lorikeet",LC,U,-16731116
+34,32,"concinna","Glossopsitta","Musk Lorikeet",LC,U,-16731116
+35,5,"porphyrocephala","Glossopsitta","Purple-crowned Lorikeet",LC,U,-16731116
+41,40,"sintillata","Chalcopsitta","Yellow-streaked Lory",LC,U,-16731116
+42,40,"duivenbodei","Chalcopsitta","Brown Lory",LC,U,-16731116
+43,39,"atra","Chalcopsitta","Black Lory",LC,U,-16731116
+44,38,"cardinalis","Chalcopsitta","Cardinal Lory",LC,U,-16731116
+45,37,"fuscata","Pseudeos","Dusky Lory",LC,U,-16731116
+48,47,"goldiei","Psitteuteles","Goldie's Lorikeet",LC,U,-16731116
+49,47,"iris","Psitteuteles","Iris Lorikeet",NT,U,-12486656
+50,46,"versicolor","Psitteuteles","Varied Lorikeet",LC,U,-16731116
+56,55,"albidinucha","Lorius","White-naped Lory",NT,U,-12486656
+57,55,"garrulus","Lorius","Chattering Lory",VU,U,-11184866
+58,54,"domicella","Lorius","Purple-naped Lory",VU,U,-11184866
+59,53,"lory","Lorius","Black-capped Lory",LC,U,-16731116
+60,52,"hypoinochrous","Lorius","Purple-bellied Lory",LC,U,-16731116
+61,51,"chlorocercus","Lorius","Yellow-bibbed Lory",LC,U,-16731116
+63,62,"musschenbroekii","Neopsittacus","Yellow-billed Lorikeet",LC,U,-16731116
+64,62,"pullicauda","Neopsittacus","Orange-billed Lorikeet",LC,U,-16731116
+65,1,"arfaki","Oreopsittacus","Plum-faced Lorikeet",LC,U,-16731116
+72,71,"amabilis","Charmosyna","Red-throated Lorikeet",CR,U,-3014646
+73,71,"wilhelminae","Charmosyna","Pygmy Lorikeet",LC,U,-16731116
+74,70,"margarethae","Charmosyna","Duchess Lorikeet",NT,U,-12486656
+76,75,"toxopei","Charmosyna","Blue-fronted Lorikeet",CR,U,-3014646
+77,75,"palmarum","Charmosyna","Palm Lorikeet",VU,U,-11184866
+80,79,"rubronotata","Charmosyna","Red-fronted Lorikeet",LC,U,-16731116
+81,79,"meeki","Charmosyna","Meek's Lorikeet",NT,U,-12486656
+82,78,"placentis","Charmosyna","Red-flanked Lorikeet",LC,U,-16731116
+86,85,"multistriata","Charmosyna","Striated Lorikeet",NT,U,-12486656
+87,85,"josefinae","Charmosyna","Josephine's Lorikeet",LC,U,-16731116
+89,88,"pulchella","Charmosyna","Fairy Lorikeet",LC,U,-16731116
+90,88,"papou","Charmosyna","Papuan Lorikeet",LC,U,-16731116
+92,91,"rubrigularis","Charmosyna","Red-chinned Lorikeet",LC,U,-16731116
+93,91,"diadema","Charmosyna","New Caledonian Lorikeet",CR,U,-3014646
+99,98,"australis","Vini","Blue-crowned Lorikeet",LC,U,-16731116
+100,98,"kuhlii","Vini","Rimatara Lorikeet",EN,U,-8572416
+101,97,"peruviana","Vini","Blue Lorikeet",VU,U,-11184866
+102,96,"ultramarina","Vini","Ultramarine Lorikeet",EN,U,-8572416
+103,95,"stepheni","Vini","Henderson Lorikeet",VU,U,-11184866
+104,94,"solitarius","Phigys","Collared Lory",LC,U,-16731116

@@ -1,59 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"intectus","Handleyomys","Colombian Rice Rat",LC,D,-16731116
-14,12,"talamancae","Oryzomys","",NE,U,-16777216
-15,11,"subflavus","Oryzomys","",NE,U,-16777216
-17,16,"chapmani","Oryzomys","",NE,U,-16777216
-18,16,"levipes","Oryzomys","",NE,U,-16777216
-21,20,"saturatior","Oryzomys","",NE,U,-16777216
-22,20,"devius","Oryzomys","",NE,U,-16777216
-23,19,"xanthaeolus","Oryzomys","",NE,U,-16777216
-26,25,"gorgasi","Oryzomys","Gorgas's Rice Rat",EN,D,-8572416
-27,25,"bolivaris","Oryzomys","",NE,U,-16777216
-29,28,"yunganus","Oryzomys","",NE,U,-16777216
-30,28,"laticeps","Oryzomys","",NE,U,-16777216
-33,32,"macconnelli","Oryzomys","",NE,U,-16777216
-34,32,"nitidus","Oryzomys","",NE,U,-16777216
-35,31,"alfaroi","Oryzomys","",NE,U,-16777216
-42,41,"albigularis","Oryzomys","",NE,U,-16777216
-43,41,"meridensis","Oryzomys","",NE,U,-16777216
-44,40,"caracolus","Oryzomys","",NE,U,-16777216
-45,39,"hammondi","Oryzomys","",NE,U,-16777216
-46,38,"palustris","Oryzomys","Marsh Rice Rat",LC,S,-16731116
-47,37,"russatus","Oryzomys","",NE,U,-16777216
-49,48,"melanotis","Oryzomys","",NE,U,-16777216
-50,48,"rhabdops","Oryzomys","",NE,U,-16777216
-54,53,"galapagoensis","Oryzomys","",NE,U,-16777216
-55,53,"legatus","Oryzomys","",NE,U,-16777216
-57,56,"auriventer","Oryzomys","",NE,U,-16777216
-58,56,"angouya","Oryzomys","",NE,U,-16777216
-61,60,"balneator","Oryzomys","",NE,U,-16777216
-62,60,"lamia","Oryzomys","",NE,U,-16777216
-63,59,"dimidiatus","Oryzomys","Thomas's Rice Rat",LC,U,-16731116
-67,66,"megacephalus","Oryzomys","",NE,U,-16777216
-68,66,"perenensis","Oryzomys","",NE,U,-16777216
-69,65,"rostratus","Oryzomys","",NE,U,-16777216
-70,64,"couesi","Oryzomys","Coues's Rice Rat",LC,U,-16731116
-72,71,"polius","Oryzomys","",NE,U,-16777216
-73,71,"keaysi","Oryzomys","",NE,U,-16777216
-77,76,"chinchilloides","Euneomys","Patagonian Chincilla Mouse",DD,U,-11513776
-78,76,"mordax","Euneomys","Biting Chincilla Mouse",LC,S,-16731116
-79,75,"petersoni","Euneomys","Peterson's Chincilla Mouse",LC,S,-16731116
-80,74,"fossor","Euneomys","Burrowing Euneomys",DD,U,-11513776
-87,86,"flavicans","Oecomys","Yellow Arboreal Rice Rat",LC,S,-16731116
-88,86,"roberti","Oecomys","Robert's Arboreal Rice Rat",LC,U,-16731116
-89,85,"rutilus","Oecomys","Red Arboreal Rice Rat",LC,U,-16731116
-90,84,"concolor","Oecomys","Unicolored Rice Rat",LC,U,-16731116
-93,92,"paricola","Oecomys","Brazilian Arboreal Rice Rat",DD,D,-11513776
-94,92,"auyantepui","Oecomys","",LC,U,-16731116
-95,91,"cleberi","Oecomys","Cleber's Arboreal Rice Rat",DD,D,-11513776
-98,97,"trinitatis","Oecomys","Long-furred Rice Rat",LC,S,-16731116
-99,97,"catherinae","Oecomys","",LC,D,-16731116
-100,96,"phaeotis","Oecomys","Dusky Arboreal Rice Rat",LC,S,-16731116
-105,104,"mamorae","Oecomys","Mamore Arboreal Rice Rat",LC,S,-16731116
-106,104,"rex","Oecomys","King Arboreal Rice Rat",LC,S,-16731116
-107,103,"superans","Oecomys","Foothill Arboreal Rice Rat",LC,S,-16731116
-108,102,"speciosus","Oecomys","Arboreal Rice Rat",LC,S,-16731116
-109,101,"bicolor","Oecomys","Bicolored Arboreal Rice Rat",LC,U,-16731116
-112,111,"brevicauda","Zygodontomys","Short-tailed Cane Mouse",LC,S,-16731116
-113,111,"brunneus","Zygodontomys","Brown Cane Mouse",LC,S,-16731116
-114,110,"ruschii","Abrawayaomys","Rushi's Rat",LC,U,-16731116
+10,9,"typus","Otomys","Typical Vlei Rat",LC,D,-16731116
+11,9,"orestes","Otomys","",NE,U,-16777216
+13,12,"dartmouthi","Otomys","",NE,U,-16777216
+14,12,"jacksoni","Otomys","",NE,U,-16777216
+15,7,"uzungwensis","Otomys","",NE,U,-16777216
+16,6,"sloggetti","Myotomys","",NE,U,-16777216
+18,17,"irroratus","Otomys","Southern African Vlei Rat",LC,S,-16731116
+19,17,"angoniensis","Otomys","Angoni Vlei Rat",LC,S,-16731116
+20,4,"laminatus","Otomys","Laminate Vlei Rat",LC,S,-16731116
+25,24,"cuanzensis","Otomys","Cuanza Vlei Rat",LC,S,-16731116
+26,24,"maximus","Otomys","",NE,U,-16777216
+27,23,"occidentalis","Otomys","Western Vlei Rat",VU,D,-11184866
+28,22,"denti","Otomys","Dent's Vlei Rat",LC,D,-16731116
+31,30,"burtoni","Otomys","Burton's Vlei Rat",EN,D,-8572416
+32,30,"dollmani","Otomys","",NE,U,-16777216
+33,29,"tropicalis","Otomys","Tropical Vlei Rat",LC,S,-16731116
+38,37,"barbouri","Otomys","Barbour's Vlei Rat",EN,D,-8572416
+39,37,"anchietae","Otomys","Angolan Vlei Rat",LC,U,-16731116
+40,36,"lacustris","Otomys","Tanzanian Vlei Rat",VU,D,-11184866
+41,35,"unisulcatus","Myotomys","",NE,U,-16777216
+42,34,"saundersiae","Otomys","Saunder's Vlei Rat",LC,U,-16731116
+44,43,"littledalei","Parotomys","Littledale's Whistling Rat",LC,S,-16731116
+45,43,"brantsii","Parotomys","Brants's Whistling Rat",LC,S,-16731116
+46,0,"legata","Diplothrix","Ryukyus Islands Tree Rat",EN,D,-8572416

@@ -1,87 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"clarkei","Microtus","Clarke's Vole",LC,S,-16731116
-11,9,"kikuchii","Microtus","Taiwan Vole",NT,U,-12486656
-12,8,"millicens","Volemys","Sichuan Vole",DD,U,-11513776
-13,7,"musseri","Volemys","Marie's Vole",DD,U,-11513776
-23,22,"talpinus","Ellobius","Northern Mole Vole",LC,D,-16731116
-24,22,"tancrei","Ellobius","Zaisan Mole Vole",LC,U,-16731116
-25,21,"fuscocapillus","Ellobius","Afghan Mole-vole",LC,U,-16731116
-26,20,"lutescens","Ellobius","Mountain Mole Vole",LC,U,-16731116
-27,19,"alaicus","Ellobius","Alai Mole Vole",DD,U,-11513776
-28,18,"schaposchnikowi","Prometheomys","Long-clawed Mole Vole",NT,D,-12486656
-32,31,"longicaudus","Arborimus","Red Tree Vole",NT,D,-12486656
-33,31,"albipes","Arborimus","White-footed Vole",LC,U,-16731116
-34,30,"pomo","Arborimus","California Red Tree Mouse",NT,D,-12486656
-36,35,"intermedius","Phenacomys","Western Heather Vole",LC,S,-16731116
-37,35,"ungava","Phenacomys","Eastern Heather Vole",LC,S,-16731116
-40,39,"mandarinus","Lasiopodomys","Mandarin Vole",LC,U,-16731116
-41,39,"fuscus","Lasiopodomys","Smokey Vole",LC,U,-16731116
-42,38,"brandtii","Lasiopodomys","Brandt's Vole",LC,S,-16731116
-45,44,"bucharensis","Blanfordimys","Bucharian Vole",LC,U,-16731116
-46,44,"afghanus","Blanfordimys","Afghan Vole",LC,U,-16731116
-47,43,"zibethicus","Ondatra","Muskrat",LC,S,-16731116
-54,53,"sibiricus","Lemmus","Brown Lemming",LC,S,-16731116
-55,53,"portenkoi","Lemmus","",DD,U,-11513776
-56,52,"trimucronatus","Lemmus","Brown Lemming",LC,S,-16731116
-57,51,"amurensis","Lemmus","Amur Lemming",LC,U,-16731116
-58,50,"lemmus","Lemmus","Norway Lemming",LC,S,-16731116
-59,49,"schisticolor","Myopus","Wood Lemming",LC,U,-16731116
-61,60,"borealis","Synaptomys","Northern Bog Lemming",LC,U,-16731116
-62,60,"cooperi","Synaptomys","Kansas Bog Lemming",LC,U,-16731116
-67,66,"fertilis","Hyperacrius","Burrowing Vole",VU,U,-11184866
-68,66,"wynnei","Hyperacrius","Murree Vole",LC,U,-16731116
-69,64,"bogdanovi","Dinaromys","Balkan Snow Vole",VU,D,-11184866
-70,63,"bedfordi","Proedromys","Duke Of Bedford's Vole",VU,D,-11184866
-75,74,"przewalskii","Eolagurus","Przewalski's Steppe Lemming",LC,U,-16731116
-76,74,"luteus","Eolagurus","Yellow Steppe Lemming",LC,U,-16731116
-77,73,"lagurus","Lagurus","Steppe Lemming",LC,S,-16731116
-80,79,"amphibius","Arvicola","Eurasian Water Vole",LC,S,-16731116
-81,79,"scherman","Arvicola","",LC,S,-16731116
-82,78,"sapidus","Arvicola","Southern Water Vole",VU,D,-11184866
-83,71,"curtatus","Lemmiscus","Sagebrush Vole",LC,S,-16731116
-87,86,"fontanierii","Eospalax","Chinese Zokor",LC,U,-16731116
-88,86,"smithii","Eospalax","Smith's Zokor",LC,U,-16731116
-89,85,"rothschildi","Eospalax","Rothschild's Zokor",LC,U,-16731116
-92,91,"psilurus","Myospalax","Transbaikal Zokor",LC,S,-16731116
-93,91,"myospalax","Myospalax","Siberian Zokor",LC,U,-16731116
-94,90,"aspalax","Myospalax","False Zokor",LC,U,-16731116
-95,1,"rousseloti","Dendroprionomys","Velvet African Climbing Mouse",DD,U,-11513776
-105,104,"splendens","Tachyoryctes","East African Mole Rat",LC,S,-16731116
-106,104,"ibeanus","Tachyoryctes","",NE,U,-16777216
-107,103,"macrocephalus","Tachyoryctes","Big-headed Mole Rat",EN,D,-8572416
-109,108,"naivashae","Tachyoryctes","",NE,U,-16777216
-110,108,"daemon","Tachyoryctes","",NE,U,-16777216
-112,111,"spalacinus","Tachyoryctes","",NE,U,-16777216
-113,111,"annectens","Tachyoryctes","",NE,U,-16777216
-117,116,"ruandae","Tachyoryctes","",NE,U,-16777216
-118,116,"rex","Tachyoryctes","",NE,U,-16777216
-119,115,"ruddi","Tachyoryctes","",NE,U,-16777216
-121,120,"ankoliae","Tachyoryctes","",NE,U,-16777216
-122,120,"audax","Tachyoryctes","",NE,U,-16777216
-126,125,"sumatrensis","Rhizomys","Indomalayan Bamboo Rat",LC,U,-16731116
-127,125,"pruinosus","Rhizomys","Hoary Bamboo Rat",LC,S,-16731116
-128,124,"sinensis","Rhizomys","Chinese Bamboo Rat",LC,U,-16731116
-129,123,"badius","Cannomys","Bay Bamboo Rat",LC,U,-16731116
-134,133,"insignis","Dendromus","Montane African Climbing Mouse",LC,S,-16731116
-135,133,"oreas","Dendromus","Cameroon Climbing Mouse",VU,U,-11184866
-136,132,"mesomelas","Dendromus","Brant's Climbing Mouse",LC,S,-16731116
-139,138,"vernayi","Dendromus","Vernay's Climbing Mouse",DD,U,-11513776
-140,138,"nyasae","Dendromus","",NE,U,-16777216
-141,137,"kahuziensis","Dendromus","Mount Kahuzi African Climbing Mouse",CR,D,-3014646
-145,144,"mystacalis","Dendromus","Chestnut Climbing Mouse",LC,S,-16731116
-146,144,"messorius","Dendromus","Banana Climbing Mouse",LC,S,-16731116
-148,147,"melanotis","Dendromus","Gray African Climbing Mouse",LC,S,-16731116
-149,147,"leucostomus","Dendromus","",NE,U,-16777216
-151,150,"lovati","Dendromus","Lovat's African Climbing Mouse",LC,D,-16731116
-152,150,"nyikae","Dendromus","Nyika Climbing Mouse",LC,U,-16731116
-161,160,"pratensis","Steatomys","Fat Mouse",LC,S,-16731116
-162,160,"opimus","Steatomys","",LC,U,-16731116
-163,159,"bocagei","Steatomys","",LC,U,-16731116
-165,164,"caurinus","Steatomys","Northwestern Fat Mouse",LC,S,-16731116
-166,164,"jacksoni","Steatomys","Jackson's Fat Mouse",DD,U,-11513776
-167,157,"cuppedius","Steatomys","Dainty Fat Mouse",LC,S,-16731116
-169,168,"krebsii","Steatomys","Kreb's Fat Mouse",LC,S,-16731116
-170,168,"parvus","Steatomys","Tiny Fat Mouse",LC,S,-16731116
-171,155,"buettneri","Leimacomys","Groove-toothed Forest Mouse",DD,U,-11513776
-172,154,"imhausi","Lophiomys","Crested Rat",LC,S,-16731116
-173,153,"typica","Malacothrix","Gerbil Mouse",LC,S,-16731116
+9,8,"pulchella","Ochthoeca","Golden-browed Chat-tyrant",LC,U,-16731116
+10,8,"fumicolor","Ochthoeca","Brown-backed Chat-tyrant",LC,U,-16731116
+11,7,"piurae","Ochthoeca","Piura Chat-tyrant",NT,U,-12486656
+12,6,"rufipectoralis","Ochthoeca","Rufous-breasted Chat-tyrant",LC,U,-16731116
+15,14,"diadema","Ochthoeca","Yellow-bellied Chat-tyrant",LC,U,-16731116
+16,14,"thoracica","Ochthoeca","Maroon-belted Chat-Tyrant",_U,[,-16777216
+17,13,"jelskii","Ochthoeca","Jelski's Chat-tyrant",LC,U,-16731116
+21,20,"oenanthoides","Ochthoeca","D'Orbigny's Chat-tyrant",LC,U,-16731116
+22,20,"frontalis","Ochthoeca","Crowned Chat-tyrant",LC,U,-16731116
+24,23,"nigrita","Ochthoeca","Blackish Chat-Tyrant",_U,[,-16777216
+25,23,"salvini","Tumbezia","Tumbes Tyrant",NT,U,-12486656
+27,26,"cinnamomeiventris","Ochthoeca","Slaty-backed Chat-tyrant",LC,U,-16731116
+28,26,"leucophrys","Ochthoeca","White-browed Chat-tyrant",LC,U,-16731116
+31,30,"flavicans","Myiophobus","Flavescent Flycatcher",LC,U,-16731116
+32,30,"roraimae","Myiophobus","Roraiman Flycatcher",LC,U,-16731116
+33,29,"phoenicomitra","Myiophobus","Orange-crested Flycatcher",LC,U,-16731116
+41,40,"risora","Alectrurus","Strange-tailed Tyrant",VU,U,-11184866
+42,40,"tricolor","Alectrurus","Cock-tailed Tyrant",VU,U,-11184866
+43,39,"yetapa","Gubernetes","Streamer-tailed Tyrant",LC,U,-16731116
+44,38,"leucocephala","Arundinicola","White-headed Marsh-tyrant",LC,U,-16731116
+46,45,"albiventer","Fluvicola","Black-backed Water-tyrant",LC,U,-16731116
+47,45,"pica","Fluvicola","Pied Water-tyrant",LC,U,-16731116
+48,36,"rubinus","Pyrocephalus","Vermilion Flycatcher",LC,U,-16731116
+51,50,"arenarum","Sublegatus","Northern Scrub-flycatcher",LC,U,-16731116
+52,50,"obscurior","Sublegatus","Todd's Scrub-flycatcher",LC,U,-16731116
+53,49,"modestus","Sublegatus","Southern Scrub-flycatcher",LC,U,-16731116
+54,34,"nengeta","Fluvicola","Masked Water-tyrant",LC,U,-16731116
+55,1,"parvirostris","Colorhamphus","Patagonian Tyrant",LC,U,-16731116
+56,0,"colonus","Colonia","Long-tailed Tyrant",LC,U,-16731116

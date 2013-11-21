@@ -1,80 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-22,21,"multifasciata","Eutropis","",NE,U,-16777216
-23,21,"carinata","Eutropis","",NE,U,-16777216
-24,20,"macularia","Eutropis","",NE,U,-16777216
-26,25,"rugifera","Eutropis","",NE,U,-16777216
-27,25,"rudis","Eutropis","",NE,U,-16777216
-28,18,"andamanensis","Eutropis","",NE,U,-16777216
-29,17,"multicarinata","Eutropis","",NE,U,-16777216
-30,16,"longicauda","Eutropis","",NE,U,-16777216
-33,32,"vittatus","Apterygodon","",NE,U,-16777216
-34,32,"grisea","Dasia","",NE,U,-16777216
-35,31,"olivacea","Dasia","",NE,U,-16777216
-37,36,"smaragdina","Lamprolepis","",NE,U,-16777216
-46,45,"nigrolutea","Tiliqua","",NE,U,-16777216
-47,45,"scincoides","Tiliqua","",NE,U,-16777216
-48,44,"rugosa","Tiliqua","",NE,U,-16777216
-49,43,"gigas","Tiliqua","",NE,U,-16777216
-50,42,"occipitalis","Tiliqua","",NE,U,-16777216
-52,51,"adelaidensis","Tiliqua","Adelaide Pigmy Blue-tongue Skink",EN,U,-8572416
-53,51,"gerrardii","Tiliqua","",NE,U,-16777216
-54,40,"multifasciata","Tiliqua","",NE,U,-16777216
-57,56,"branchialis","Cyclodomorphus","",NE,U,-16777216
-58,56,"maxima","Cyclodomorphus","",NE,U,-16777216
-59,55,"casuarinae","Cyclodomorphus","",NE,U,-16777216
-63,62,"pseudoponceleti","Tribolonotus","",NE,U,-16777216
-64,62,"gracilis","Tribolonotus","",NE,U,-16777216
-65,61,"blanchardi","Tribolonotus","",NE,U,-16777216
-68,67,"ponceleti","Tribolonotus","",DD,U,-11513776
-69,67,"schmidti","Tribolonotus","",NE,U,-16777216
-70,66,"novaeguineae","Tribolonotus","",NE,U,-16777216
-71,11,"zebrata","Corucia","",NE,U,-16777216
-76,75,"reevesii","Scincella","",NE,U,-16777216
-77,75,"modesta","Scincella","",NE,U,-16777216
-78,74,"boettgeri","Scincella","",NE,U,-16777216
-80,79,"lateralis","Scincella","Ground Skink",LC,S,-16731116
-81,79,"travancorica","Scincella","",NE,U,-16777216
-87,86,"spenceri","Pseudemoia","",NE,U,-16777216
-88,86,"baudini","Pseudemoia","",NE,U,-16777216
-89,85,"entrecasteauxii","Pseudemoia","",NE,U,-16777216
-97,96,"punctatus","Glaphyromorphus","",NE,U,-16777216
-98,96,"douglasi","Glaphyromorphus","",NE,U,-16777216
-99,95,"fuscicaudis","Glaphyromorphus","",NE,U,-16777216
-101,100,"mjobergi","Glaphyromorphus","",NE,U,-16777216
-102,100,"pumilus","Glaphyromorphus","",NE,U,-16777216
-104,103,"gracilipes","Glaphyromorphus","",NE,U,-16777216
-105,103,"pardalis","Glaphyromorphus","",NE,U,-16777216
-110,109,"crassicaudus","Glaphyromorphus","",NE,U,-16777216
-111,109,"mjoebergi","Glaphyromorphus","",NE,U,-16777216
-112,108,"darwiniensis","Glaphyromorphus","",NE,U,-16777216
-114,113,"nigricaudis","Glaphyromorphus","",NE,U,-16777216
-115,113,"cracens","Glaphyromorphus","",NE,U,-16777216
-116,106,"arnhemicus","Glaphyromorphus","",NE,U,-16777216
-117,91,"isolepis","Glaphyromorphus","",NE,U,-16777216
-124,123,"talinis","Brachymeles","Dumeril's Short-legged Skink",LC,S,-16731116
-125,123,"pathfinderi","Brachymeles","Cotabato Worm Skink",DD,U,-11513776
-127,126,"bonitae","Brachymeles","Stub-limbed Burrowing Skink",LC,S,-16731116
-128,126,"samarensis","Brachymeles","Two-digit Worm Skink",LC,S,-16731116
-130,129,"schadenbergi","Brachymeles","",LC,S,-16731116
-131,129,"gracilis","Brachymeles","",LC,S,-16731116
-132,120,"boulengeri","Brachymeles","Boulenger's Short-legged Skink",LC,S,-16731116
-133,119,"tridactylus","Brachymeles","Negros Three-digit Worm Skink",LC,S,-16731116
-134,118,"zia","Cautula","",NE,U,-16777216
-136,135,"ornatus","Notoscincus","",NE,U,-16777216
-142,141,"pavimentatus","Eumeces","",NE,U,-16777216
-143,141,"schneideri","Eumeces","",NE,U,-16777216
-145,144,"mitranus","Scincus","",NE,U,-16777216
-146,144,"scincus","Scincus","",NE,U,-16777216
-147,139,"fasciatus","Scincopus","",NE,U,-16777216
-148,138,"taeniolatus","Eurylepis","",NE,U,-16777216
-151,150,"gyldenstolpei","Isopachys","Gyldenstolpe's Worm Skink",DD,U,-11513776
-152,150,"roulei","Isopachys","",NE,U,-16777216
-158,157,"arizonae","Xantusia","Arizona Night Lizard",LC,S,-16731116
-159,157,"vigilis","Xantusia","Desert Night Lizard",LC,S,-16731116
-160,156,"riversiana","Xantusia","Island Night Lizard",LC,S,-16731116
-161,155,"henshawi","Xantusia","Granite Night Lizard",LC,S,-16731116
-165,164,"gaigeae","Lepidophyma","",VU,D,-11184866
-166,164,"smithii","Lepidophyma","",NE,U,-16777216
-167,163,"flavimaculatum","Lepidophyma","",NE,U,-16777216
-168,162,"typica","Cricosaura","",NE,U,-16777216
-169,0,"punctatus","Sphenodon","Tuatara",LC,U,-16731116
+12,11,"haplochrous","Turdus","Unicoloured Thrush",NT,U,-12486656
+13,11,"nudigenis","Turdus","Spectacled Thrush",LC,U,-16731116
+14,10,"grayi","Turdus","Clay-coloured Thrush",LC,U,-16731116
+15,9,"maculirostris","Turdus","Ecuadorian Thrush",LC,U,-16731116
+16,8,"rufiventris","Turdus","Rufous-bellied Thrush",LC,U,-16731116
+17,7,"obsoletus","Turdus","Pale-vented Thrush",LC,U,-16731116
+20,19,"hauxwelli","Turdus","Hauxwell's Thrush",LC,U,-16731116
+21,19,"fumigatus","Turdus","Cocoa Thrush",LC,U,-16731116
+22,18,"leucomelas","Turdus","Pale-breasted Thrush",LC,U,-16731116
+25,24,"assimilis","Turdus","White-throated Thrush",LC,U,-16731116
+26,24,"albicollis","Turdus","White-necked Thrush",LC,U,-16731116
+27,23,"lawrencii","Turdus","Lawrence's Thrush",LC,U,-16731116
+29,28,"rufopalliatus","Turdus","Rufous-backed Robin",LC,U,-16731116
+30,28,"flavipes","Turdus","Yellow-legged Thrush",LC,U,-16731116
+37,36,"serranus","Turdus","Glossy-black Thrush",LC,U,-16731116
+38,36,"fuscater","Turdus","Great Thrush",LC,U,-16731116
+39,35,"nigriceps","Turdus","Slaty Thrush",LC,U,-16731116
+40,34,"olivater","Turdus","Black-hooded Thrush",LC,U,-16731116
+41,33,"chiguanco","Turdus","Chiguanco Thrush",LC,U,-16731116
+42,32,"fulviventris","Turdus","Chestnut-bellied Thrush",LC,U,-16731116
+46,45,"ignobilis","Turdus","Black-billed Thrush",LC,U,-16731116
+47,45,"maranonicus","Turdus","Maranon Thrush",LC,U,-16731116
+48,44,"amaurochalinus","Turdus","Creamy-bellied Thrush",LC,U,-16731116
+49,43,"eremita","Nesocichla","Tristan Thrush",NT,U,-12486656
+50,2,"reevei","Turdus","Plumbeous-backed Thrush",LC,U,-16731116
+51,1,"falcklandii","Turdus","Austral Thrush",LC,U,-16731116
+54,53,"leucops","Turdus","Pale-eyed Thrush",LC,U,-16731116
+55,53,"daguae","Turdus","Dagua Thrush",_U,[,-16777216
+56,52,"pelios","Turdus","African Thrush",LC,U,-16731116

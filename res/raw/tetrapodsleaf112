@@ -1,68 +1,58 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"canicularis","Aratinga","Orange-fronted Parakeet",LC,U,-16731116
-11,9,"weddellii","Aratinga","Dusky-headed Parakeet",LC,U,-16731116
-12,8,"rubritorquis","Aratinga","Red-throated Parakeet",LC,U,-16731116
-13,7,"erythrogenys","Aratinga","Red-masked Parakeet",NT,U,-12486656
-17,16,"solstitialis","Aratinga","Sun Parakeet",EN,U,-8572416
-18,16,"jandaya","Aratinga","Jandaya Parakeet",LC,U,-16731116
-19,15,"auricapillus","Aratinga","Golden-capped Parakeet",NT,U,-12486656
-20,14,"nenday","Nandayus","Nanday Parakeet",LC,U,-16731116
-23,22,"chloroptera","Aratinga","Hispaniolan Parakeet",VU,U,-11184866
-24,22,"holochlora","Aratinga","Green Parakeet",LC,U,-16731116
-25,21,"euops","Aratinga","Cuban Parakeet",VU,U,-11184866
-30,29,"acuticaudata","Aratinga","Blue-crowned Parakeet",LC,U,-16731116
-31,29,"pertinax","Aratinga","Brown-throated Parakeet",LC,U,-16731116
-33,32,"nana","Aratinga","Olive-throated Parakeet",LC,U,-16731116
-34,32,"cactorum","Aratinga","Cactus Parakeet",LC,U,-16731116
-37,36,"finschi","Aratinga","Crimson-fronted Parakeet",LC,U,-16731116
-38,36,"aurea","Aratinga","Peach-fronted Parakeet",LC,U,-16731116
-39,35,"brevipes","Aratinga","Socorro Parakeet",EN,U,-8572416
-42,41,"wagleri","Aratinga","Scarlet-fronted Parakeet",LC,U,-16731116
-43,41,"mitrata","Aratinga","Mitred Parakeet",LC,U,-16731116
-44,40,"leucophthalma","Aratinga","White-eyed Parakeet",LC,U,-16731116
-53,52,"chloropterus","Ara","Red-and-green Macaw",LC,U,-16731116
-54,52,"macao","Ara","Scarlet Macaw",LC,U,-16731116
-55,51,"severus","Ara","Chestnut-fronted Macaw",LC,U,-16731116
-56,50,"rubrogenys","Ara","Red-fronted Macaw",EN,U,-8572416
-58,57,"glaucogularis","Ara","Blue-throated Macaw",CR,U,-3014646
-59,57,"ambiguus","Ara","Great Green Macaw",EN,U,-8572416
-61,60,"ararauna","Ara","Blue-and-yellow Macaw",LC,U,-16731116
-62,60,"militaris","Ara","Military Macaw",VU,U,-11184866
-63,47,"manilata","Orthopsittaca","Red-bellied Macaw",LC,U,-16731116
-66,65,"auricollis","Primolius","Yellow-collared Macaw",LC,U,-16731116
-67,65,"maracana","Primolius","Blue-winged Macaw",NT,U,-12486656
-68,64,"couloni","Primolius","Blue-headed Macaw",VU,U,-11184866
-69,45,"spixii","Cyanopsitta","Spix's Macaw",CR,U,-3014646
-73,72,"nobilis","Diopsittaca","Red-shouldered Macaw",LC,U,-16731116
-74,72,"guarouba","Guaruba","Golden Parakeet",EN,U,-8572416
-75,71,"branickii","Leptosittaca","Golden-plumed Parakeet",VU,U,-11184866
-77,76,"hyacinthinus","Anodorhynchus","Hyacinth Macaw",EN,U,-8572416
-78,76,"leari","Anodorhynchus","Lear's Macaw",EN,U,-8572416
-88,87,"albipectus","Pyrrhura","White-necked Parakeet",VU,U,-11184866
-89,87,"melanura","Pyrrhura","Maroon-tailed Parakeet",LC,U,-16731116
-90,86,"rupicola","Pyrrhura","Black-capped Parakeet",LC,U,-16731116
-93,92,"hoffmanni","Pyrrhura","Sulphur-winged Parakeet",LC,U,-16731116
-94,92,"rhodocephala","Pyrrhura","Rose-headed Parakeet",LC,U,-16731116
-95,91,"orcesi","Pyrrhura","El Oro Parakeet",EN,U,-8572416
-99,98,"perlata","Pyrrhura","Crimson-bellied Parakeet",LC,U,-16731116
-100,98,"lepida","Pyrrhura","Pearly Parakeet",NT,U,-12486656
-101,97,"molinae","Pyrrhura","Green-cheeked Parakeet",LC,U,-16731116
-103,102,"frontalis","Pyrrhura","Maroon-bellied Parakeet",LC,U,-16731116
-104,102,"hoematotis","Pyrrhura","Red-eared Parakeet",LC,U,-16731116
-109,108,"griseipectus","Pyrrhura","Grey-breasted Parakeet",CR,U,-3014646
-110,108,"picta","Pyrrhura","Painted Parakeet",LC,U,-16731116
-111,107,"leucotis","Pyrrhura","Maroon-faced Parakeet",NT,U,-12486656
-112,106,"pfrimeri","Pyrrhura","Pfrimer's Parakeet",EN,U,-8572416
-114,113,"calliptera","Pyrrhura","Flame-winged Parakeet",VU,U,-11184866
-115,113,"devillei","Pyrrhura","Blaze-winged Parakeet",NT,U,-12486656
-118,117,"egregia","Pyrrhura","Fiery-shouldered Parakeet",LC,U,-16731116
-119,117,"cruentata","Pyrrhura","Blue-throated Parakeet",VU,U,-11184866
-120,116,"viridicata","Pyrrhura","Santa Marta Parakeet",EN,U,-8572416
-121,81,"patagonus","Cyanoliseus","Burrowing Parakeet",LC,U,-16731116
-123,122,"pachyrhyncha","Rhynchopsitta","Thick-billed Parrot",EN,U,-8572416
-124,122,"terrisi","Rhynchopsitta","Maroon-fronted Parrot",VU,U,-11184866
-126,125,"leptorhynchus","Enicognathus","Slender-billed Parakeet",LC,U,-16731116
-127,125,"ferrugineus","Enicognathus","Austral Parakeet",LC,U,-16731116
-130,129,"melanocephalus","Pionites","Black-headed Parrot",LC,U,-16731116
-131,129,"leucogaster","Pionites","White-bellied Parrot",LC,U,-16731116
-132,128,"accipitrinus","Deroptyus","Red-fan Parrot",LC,U,-16731116
+8,7,"herbertensis","Pseudochirulus","Herbert River Ringtail Possum",LC,S,-16731116
+9,7,"cinereus","Pseudochirulus","Daintree River Ringtail Possum",LC,S,-16731116
+10,6,"caroli","Pseudochirulus","Weyland Ringtail",LC,U,-16731116
+12,11,"forbesi","Pseudochirulus","Painted Ringtail",LC,U,-16731116
+13,11,"larvatus","Pseudochirulus","Masked Ringtail",LC,D,-16731116
+15,14,"canescens","Pseudochirulus","Lowland Ringtail",LC,D,-16731116
+16,14,"mayeri","Pseudochirulus","Pygmy Ringtail",LC,D,-16731116
+17,3,"peregrinus","Pseudocheirus","Common Ringtail Possum",LC,S,-16731116
+23,22,"albertisii","Pseudochirops","D'Albertis's Ringtail",NT,D,-12486656
+24,22,"coronatus","Pseudochirops","Reclusive Ringtail",VU,D,-11184866
+26,25,"archeri","Pseudochirops","Green Ringtail Possum",LC,S,-16731116
+27,25,"cupreus","Pseudochirops","Coppery Ringtail",LC,S,-16731116
+28,20,"corinnae","Pseudochirops","Plush-coated Ringtail",NT,D,-12486656
+29,19,"dahli","Petropseudes","Rock Ringtail Possum",LC,U,-16731116
+31,30,"lemuroides","Hemibelideus","Lemuroid Ringtail Possum",NT,S,-12486656
+32,30,"volans","Petauroides","Greater Glider",LC,D,-16731116
+39,38,"breviceps","Petaurus","Sugar Glider",LC,S,-16731116
+40,38,"biacensis","Petaurus","Biak Glider",LC,U,-16731116
+41,37,"abidi","Petaurus","Northern Glider",CR,D,-3014646
+42,36,"gracilis","Petaurus","Mahogany Glider",EN,D,-8572416
+44,43,"australis","Petaurus","Yellow-bellied Glider",LC,D,-16731116
+45,43,"norfolcensis","Petaurus","Squirrel Glider",LC,D,-16731116
+49,48,"megalura","Dactylopsila","Great-tailed Triok",LC,U,-16731116
+50,48,"trivirgata","Dactylopsila","Striped Possum",LC,D,-16731116
+52,51,"tatei","Dactylopsila","Tate's Triok",EN,U,-8572416
+53,51,"palpator","Dactylopsila","",NE,U,-16777216
+54,46,"leadbeateri","Gymnobelideus","Leadbeater's Possum",EN,D,-8572416
+57,56,"pennatus","Distoechurus","Feather-tailed Possum",LC,S,-16731116
+58,56,"pygmaeus","Acrobates","Feathertail Glider",LC,S,-16731116
+59,55,"rostratus","Tarsipes","Honey Possum",LC,S,-16731116
+71,70,"intercastellanus","Phalanger","Eastern Common Cuscus",LC,D,-16731116
+72,70,"orientalis","Phalanger","Northern Common Cuscus",LC,S,-16731116
+73,69,"mimicus","Phalanger","Southern Common Cuscus",LC,D,-16731116
+75,74,"carmelitae","Phalanger","Mountain Cuscus",LC,S,-16731116
+76,74,"vestitus","Phalanger","Stein's Cuscus",LC,D,-16731116
+77,67,"sericeus","Phalanger","Silky Cuscus",LC,U,-16731116
+78,66,"lullulae","Phalanger","Woodlark Cuscus",EN,S,-8572416
+79,65,"pelengensis","Strigocuscus","Peleng Cuscus",LC,S,-16731116
+81,80,"celebensis","Strigocuscus","Small Sulawesi Cuscus",VU,D,-11184866
+82,80,"gymnotis","Phalanger","Ground Cuscus",LC,D,-16731116
+85,84,"maculatus","Spilocuscus","Common Spotted Cuscus",LC,S,-16731116
+86,84,"kraemeri","Spilocuscus","Admiralty Cuscus",NT,D,-12486656
+87,83,"rufoniger","Spilocuscus","Black-spotted Cuscus",CR,D,-3014646
+89,88,"melanotis","Ailurops","Talaud Bear Cuscus",CR,D,-3014646
+90,88,"ursinus","Ailurops","Bear Cuscus",VU,D,-11184866
+96,95,"vulpecula","Trichosurus","Common Brushtail Possum",LC,D,-16731116
+97,95,"johnstonii","Trichosurus","",NE,U,-16777216
+98,94,"arnhemensis","Trichosurus","",NE,U,-16777216
+99,93,"caninus","Trichosurus","Short-eared Brushtail Possum",LC,S,-16731116
+100,92,"squamicaudata","Wyulda","Scaly-tailed Possum",DD,D,-11513776
+102,101,"matanim","Phalanger","Telefomin Cuscus",CR,U,-3014646
+103,101,"ornatus","Phalanger","Ornate Cuscus",LC,S,-16731116
+108,107,"concinnus","Cercartetus","Western Pygmy Possum",LC,S,-16731116
+109,107,"lepidus","Cercartetus","Little Pygmy Possum",LC,S,-16731116
+110,106,"nanus","Cercartetus","Eastern Pygmy Possum",LC,D,-16731116
+111,105,"caudatus","Cercartetus","Long-tailed Pygmy Possum",LC,S,-16731116
+112,104,"parvus","Burramys","Mountain Pygmy Possum",CR,D,-3014646

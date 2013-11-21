@@ -1,45 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"multicolor","Petroica","Scarlet Robin",LC,U,-16731116
-13,11,"phoenicea","Petroica","Flame Robin",NT,U,-12486656
-15,14,"rodinogaster","Petroica","Pink Robin",LC,U,-16731116
-16,14,"rosea","Petroica","Rose Robin",LC,U,-16731116
-18,17,"archboldi","Petroica","Snow Mountain Robin",DD,U,-11513776
-19,17,"goodenovii","Petroica","Red-capped Robin",LC,U,-16731116
-20,8,"bivittata","Petroica","Alpine Robin",LC,U,-16731116
-21,7,"australis","Petroica","New Zealand Robin",LC,U,-16731116
-23,22,"traversi","Petroica","Black Robin",EN,U,-8572416
-24,22,"macrocephala","Petroica","Tomtit",LC,U,-16731116
-25,5,"rubra","Eugerygone","Garnet Robin",LC,U,-16731116
-27,26,"hattamensis","Pachycephalopsis","Green-backed Robin",LC,U,-16731116
-28,26,"poliosoma","Pachycephalopsis","White-eyed Robin",LC,U,-16731116
-30,29,"sclateriana","Amalocichla","Greater Ground-robin",LC,U,-16731116
-31,29,"incerta","Amalocichla","Lesser Ground-robin",LC,U,-16731116
-35,34,"hemixantha","Microeca","Golden-bellied Flyrobin",NT,U,-12486656
-36,34,"flavovirescens","Microeca","Olive Flyrobin",LC,U,-16731116
-38,37,"flavigaster","Microeca","Lemon-bellied Flyrobin",LC,U,-16731116
-39,37,"fascinans","Microeca","Jacky-winter",LC,U,-16731116
-41,40,"griseoceps","Microeca","Yellow-legged Flyrobin",LC,U,-16731116
-42,40,"papuana","Microeca","Canary Flyrobin",LC,U,-16731116
-51,50,"bimaculata","Peneothello","White-rumped Robin",LC,U,-16731116
-52,50,"cryptoleuca","Peneothello","Smoky Robin",LC,U,-16731116
-54,53,"sigillatus","Peneothello","White-winged Robin",LC,U,-16731116
-55,53,"cyanus","Peneothello","Blue-grey Robin",LC,U,-16731116
-56,48,"pulverulenta","Eopsaltria","Mangrove Robin",LC,U,-16731116
-58,57,"cucullata","Melanodryas","Hooded Robin",LC,U,-16731116
-59,57,"vittata","Melanodryas","Dusky Robin",LC,U,-16731116
-60,46,"muelleriana","Monachella","Torrent Robin",LC,U,-16731116
-64,63,"leucops","Tregellasia","White-faced Robin",LC,U,-16731116
-65,63,"capito","Tregellasia","Pale-yellow Robin",LC,U,-16731116
-66,62,"georgiana","Eopsaltria","White-breasted Robin",LC,U,-16731116
-68,67,"griseogularis","Eopsaltria","Western Yellow Robin",LC,U,-16731116
-69,67,"australis","Eopsaltria","Eastern Yellow Robin",LC,U,-16731116
-70,44,"flaviventris","Eopsaltria","Yellow-bellied Robin",LC,U,-16731116
-73,72,"superciliaris","Drymodes","Northern Scrub-robin",LC,U,-16731116
-74,72,"brunneopygia","Drymodes","Southern Scrub-robin",LC,U,-16731116
-75,71,"albispecularis","Heteromyias","Grey-headed Robin",LC,U,-16731116
-80,79,"cerviniventris","Poecilodryas","Buff-sided Robin",LC,U,-16731116
-81,79,"brachyura","Poecilodryas","Black-chinned Robin",LC,U,-16731116
-82,78,"superciliosa","Poecilodryas","White-browed Robin",LC,U,-16731116
-83,77,"albonotata","Poecilodryas","Black-throated Robin",LC,U,-16731116
-85,84,"hypoleuca","Poecilodryas","Black-sided Robin",LC,U,-16731116
-86,84,"placens","Poecilodryas","Olive-yellow Robin",NT,U,-12486656
+9,8,"californicus","Anaxyrus","Arroyo Toad",EN,D,-8572416
+10,8,"compactilis","Anaxyrus","",LC,U,-16731116
+11,7,"quercicus","Anaxyrus","Oak Toad",LC,S,-16731116
+13,12,"mexicanus","Anaxyrus","Southwestern Toad",NT,D,-12486656
+14,12,"hemiophrys","Anaxyrus","Canadian Toad",LC,D,-16731116
+15,5,"punctatus","Anaxyrus","",LC,S,-16731116
+16,4,"fowleri","Anaxyrus","Fowler's Toad",LC,S,-16731116
+17,3,"terrestris","Anaxyrus","Southern Toad",LC,S,-16731116
+18,2,"speciosus","Anaxyrus","Texas Toad",LC,S,-16731116
+22,21,"retiformis","Anaxyrus","Sonoran Green Toad",LC,S,-16731116
+23,21,"nelsoni","Anaxyrus","",EN,D,-8572416
+24,20,"debilis","Anaxyrus","",LC,S,-16731116
+26,25,"kelloggi","Anaxyrus","Little Mexican Toad",LC,S,-16731116
+27,25,"microscaphus","Anaxyrus","Arizona Toad",LC,D,-16731116
+32,31,"boreas","Anaxyrus","Boreal Toad",NT,D,-12486656
+33,31,"exsul","Anaxyrus","Black Toad",VU,S,-11184866
+34,30,"americanus","Anaxyrus","American Toad",LC,S,-16731116
+36,35,"cognatus","Anaxyrus","Great Plains Toad",LC,D,-16731116
+37,35,"canorus","Anaxyrus","Yosemite Toad",EN,D,-8572416
+40,39,"woodhousii","Anaxyrus","Woodhouse's Toad",LC,S,-16731116
+41,39,"baxteri","Anaxyrus","Wyoming Toad",EW,D,-12832121
+42,38,"houstonensis","Anaxyrus","Houston Toad",EN,D,-8572416

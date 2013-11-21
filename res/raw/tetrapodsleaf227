@@ -1,61 +1,31 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"mindorensis","Rattus","Mindoro Mountain Rat",DD,D,-11513776
-14,12,"lugens","Rattus","Mentawai Archipelago Rat",EN,D,-8572416
-15,11,"hoffmanni","Rattus","Hoffmann's Sulawesi Rat",LC,S,-16731116
-17,16,"mollicomulus","Rattus","Lampobatang Sulawesi Rat",VU,S,-11184866
-18,16,"palmarum","Rattus","Zelebor's Nicobar Rat",VU,U,-11184866
-19,9,"adustus","Rattus","Burnished Enggano Rat",DD,D,-11513776
-23,22,"osgoodi","Rattus","Osgood's Vietnamese Rat",LC,S,-16731116
-24,22,"burrus","Rattus","Miller's Nicobar Rat",EN,D,-8572416
-26,25,"tiomanicus","Rattus","Malaysian Field Rat",LC,I,-16731116
-27,25,"blangorum","Rattus","Aceh Rat",DD,U,-11513776
-29,28,"simalurensis","Rattus","Simalur Archipelago Rat",EN,D,-8572416
-30,28,"argentiventer","Rattus","Ricefield Rat",LC,S,-16731116
-34,33,"koopmani","Rattus","Koopman's Peleng Island Rat",DD,U,-11513776
-35,33,"tawitawiensis","Rattus","Tawitawi Forest Rat",DD,U,-11513776
-36,32,"andamanensis","Rattus","Indochinese Forest Rat",LC,S,-16731116
-37,31,"nitidus","Rattus","Himalayan Field Rat",LC,S,-16731116
-40,39,"everetti","Rattus","Philippine Forest Rat",LC,S,-16731116
-41,39,"pyctoris","Rattus","Himalayan Rat",LC,U,-16731116
-42,38,"baluensis","Rattus","Kinabalu Rat",LC,S,-16731116
-46,45,"rattus","Rattus","Black Rat",LC,S,-16731116
-47,45,"satarae","Rattus","",VU,D,-11184866
-48,44,"tanezumi","Rattus","Oriental House Rat",LC,I,-16731116
-49,43,"losea","Rattus","Losea Rat",LC,I,-16731116
-51,50,"norvegicus","Rattus","Brown Rat",LC,S,-16731116
-52,50,"stoicus","Rattus","Andaman Rat",VU,S,-11184866
-60,59,"hainaldi","Rattus","Hainald's Flores Island Rat",EN,D,-8572416
-61,59,"tunneyi","Rattus","Pale Field Rat",LC,U,-16731116
-63,62,"lutreolus","Rattus","Australian Swamp Rat",LC,D,-16731116
-64,62,"sordidus","Rattus","Canefield Rat",LC,S,-16731116
-65,57,"villosissimus","Rattus","Long-haired Rat",LC,U,-16731116
-68,67,"timorensis","Rattus","Timor Forest Rat",DD,U,-11513776
-69,67,"colletti","Rattus","Dusky Rat",LC,U,-16731116
-70,66,"fuscipes","Rattus","Bush Rat",LC,S,-16731116
-71,55,"montanus","Rattus","Sri Lankan Mountain Rat",EN,U,-8572416
-75,74,"xanthurus","Rattus","Northeastern Xanthurus Rat",VU,D,-11184866
-76,74,"salocco","Rattus","Southeastern Xanthurus Rat",DD,U,-11513776
-77,73,"pelurus","Rattus","Peleng Island Xanthurus Rat",DD,U,-11513776
-79,78,"bontanus","Rattus","Southwestern Xanthurus Rat",DD,U,-11513776
-80,78,"marmosurus","Rattus","Marmoset Xanthurus Rat",LC,D,-16731116
-88,87,"novaeguineae","Rattus","New Guinea Rat",LC,U,-16731116
-89,87,"mordax","Rattus","Eastern Rat",LC,S,-16731116
-90,86,"elaphinus","Rattus","Sula Archipelago Rat",NT,D,-12486656
-91,85,"sanila","Rattus","",NE,U,-16777216
-94,93,"feliceus","Rattus","Spiny Seram Island Rat",NT,D,-12486656
-95,93,"jobiensis","Rattus","Yapen Rat",NT,U,-12486656
-96,92,"giluwensis","Rattus","Giluwe Rat",DD,U,-11513776
-97,83,"praetor","Rattus","Large Spiny Rat",LC,S,-16731116
-99,98,"morotaiensis","Rattus","Halmahara Rat",LC,U,-16731116
-100,98,"steini","Rattus","Small Spiny Rat",LC,S,-16731116
-101,81,"leucopus","Rattus","Cape York Rat",LC,S,-16731116
-106,105,"korinchi","Rattus","Sumatran Mountain Rat",DD,U,-11513776
-107,105,"exulans","Rattus","Polynesian Rat",LC,S,-16731116
-108,104,"hoogerwerfi","Rattus","Hoogerwerf's Sumatran Rat",VU,D,-11184866
-109,103,"annandalei","Rattus","Annandale's Sundaic Rat",LC,D,-16731116
-111,110,"ranjiniae","Rattus","Ranjini's Field Rat",EN,D,-8572416
-112,110,"enganus","Rattus","Enggano Island Rat",DD,D,-11513776
-113,1,"furvus","Palawanomys","Palawan Mountain Rat",DD,U,-11513776
-116,115,"oleracea","Vandeleuria","Asiatic Long-tailed Climbing Mouse",LC,S,-16731116
-117,115,"nilagirica","Vandeleuria","",EN,D,-8572416
-118,114,"nolthenii","Vandeleuria","Sri Lankan Highland Tree Mouse",EN,D,-8572416
+11,10,"atricapilla","Megascops","Black-capped Screech-owl",LC,U,-16731116
+12,10,"nudipes","Megascops","Puerto Rican Screech-owl",LC,U,-16731116
+13,9,"watsonii","Megascops","Tawny-bellied Screech-owl",LC,U,-16731116
+14,8,"roboratus","Megascops","West Peruvian Screech-owl",LC,U,-16731116
+16,15,"sanctaecatarinae","Megascops","Long-tufted Screech-owl",LC,U,-16731116
+17,15,"guatemalae","Megascops","Vermiculated Screech-owl",LC,U,-16731116
+20,19,"marshalli","Megascops","Cloud-forest Screech-owl",NT,U,-12486656
+21,19,"kennicottii","Megascops","Western Screech-owl",LC,U,-16731116
+23,22,"clarkii","Megascops","Bare-shanked Screech-owl",LC,U,-16731116
+24,22,"asio","Megascops","Eastern Screech-owl",LC,U,-16731116
+25,5,"hoyi","Megascops","Montane Forest Screech-owl",LC,U,-16731116
+27,26,"colombianus","Megascops","Colombian Screech-owl",NT,U,-12486656
+28,26,"petersoni","Megascops","Cinnamon Screech-owl",LC,U,-16731116
+33,32,"koepckeae","Megascops","Koepcke's Screech-owl",LC,U,-16731116
+34,32,"choliba","Megascops","Tropical Screech-owl",LC,U,-16731116
+36,35,"seductus","Megascops","Balsas Screech-owl",NT,U,-12486656
+37,35,"cooperi","Megascops","Pacific Screech-owl",LC,U,-16731116
+39,38,"albogularis","Megascops","White-throated Screech-owl",LC,U,-16731116
+40,38,"ingens","Megascops","Rufescent Screech-owl",LC,U,-16731116
+42,41,"trichopsis","Megascops","Whiskered Screech-owl",LC,U,-16731116
+43,41,"barbarus","Megascops","Bearded Screech-owl",NT,U,-12486656
+47,46,"thilohoffmanni","Otus","Serendib Scops-owl",EN,U,-8572416
+48,46,"alius","Otus","Nicobar Scops-owl",DD,U,-11513776
+49,45,"manadensis","Otus","Sulawesi Scops-owl",LC,U,-16731116
+52,51,"sagittatus","Otus","White-fronted Scops-owl",VU,U,-11184866
+53,51,"angelinae","Otus","Javan Scops-owl",VU,U,-11184866
+54,50,"flammeolus","Otus","Flammulated Owl",LC,U,-16731116
+56,55,"mentawi","Otus","Mentawai Scops-owl",NT,U,-12486656
+57,55,"balli","Otus","Andaman Scops-owl",NT,U,-12486656
+58,0,"alfredi","Otus","Flores Scops-owl",EN,U,-8572416

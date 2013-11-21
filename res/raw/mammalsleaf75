@@ -1,90 +1,86 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"wattsi","Pipistrellus","Watts's Pipistrelle",LC,U,-16731116
-13,11,"adamsi","Pipistrellus","Forest Pipistrelle",LC,S,-16731116
-14,10,"tenuis","Pipistrellus","Least Pipistrelle",LC,S,-16731116
-16,15,"westralis","Pipistrellus","Northern Pipistrelle",LC,S,-16731116
-17,15,"collinus","Pipistrellus","Mountain Pipistrelle",LC,S,-16731116
-19,18,"angulatus","Pipistrellus","New Guinea Pipistrelle",LC,S,-16731116
-20,18,"papuanus","Pipistrellus","Papuan Pipistrelle",LC,S,-16731116
-21,7,"coromandra","Pipistrellus","Coromandel Pipistrelle",LC,U,-16731116
-25,24,"abramus","Pipistrellus","Japanese Pipistrelle",LC,S,-16731116
-26,24,"javanicus","Pipistrellus","Javan Pipistrelle",LC,S,-16731116
-27,23,"paterculus","Pipistrellus","Mount Popa Pipistrelle",LC,U,-16731116
-28,22,"endoi","Pipistrellus","Endo's Pipistrelle",EN,D,-8572416
-31,30,"permixtus","Pipistrellus","Dar-es-salaam Pipistrelle",DD,U,-11513776
-32,30,"nathusii","Pipistrellus","Nathusius' Pipistrelle",LC,U,-16731116
-34,33,"pipistrellus","Pipistrellus","Common Pipistrelle",LC,S,-16731116
-35,33,"pygmaeus","Pipistrellus","Pygmy Pipistrelle",LC,U,-16731116
-42,41,"kuhlii","Pipistrellus","Kuhl's Pipistrelle",LC,U,-16731116
-43,41,"hesperidus","Pipistrellus","",LC,U,-16731116
-44,40,"inexspectatus","Pipistrellus","Aellen's Pipistrelle",DD,U,-11513776
-46,45,"aero","Pipistrellus","Mount Gargues Pipistrelle",DD,U,-11513776
-47,45,"maderensis","Pipistrellus","Madeira Pipistrelle",EN,D,-8572416
-48,38,"deserti","Pipistrellus","Egyptian Pipistrelle",LC,U,-16731116
-49,37,"rusticus","Pipistrellus","Rusty Pipistrelle",LC,U,-16731116
-51,50,"minahassae","Pipistrellus","Minahassa Pipistrelle",DD,U,-11513776
-52,50,"ceylonicus","Pipistrellus","Kelaart's Pipistrelle",LC,S,-16731116
-56,55,"sanborni","Scotorepens","Northern Broad-nosed Bat",LC,U,-16731116
-57,55,"greyii","Scotorepens","Little Broad-nosed Bat",LC,S,-16731116
-59,58,"balstoni","Scotorepens","Inland Broad-nosed Bat",LC,D,-16731116
-60,58,"orion","Scotorepens","Eastern Broad-nosed Bat",LC,U,-16731116
-61,53,"schlieffeni","Nycticeinops","Schlieffen's Bat",LC,U,-16731116
-68,67,"magellanicus","Histiotus","Southern Big-eared Brown Bat",LC,U,-16731116
-69,67,"montanus","Histiotus","Small Big-eared Brown Bat",LC,U,-16731116
-70,66,"velatus","Histiotus","Tropical Big-eared Brown Bat",DD,U,-11513776
-72,71,"laephotis","Histiotus","Thomas's Big-eared Brown Bat",NT,D,-12486656
-73,71,"macrotus","Histiotus","Big-eared Brown Bat",LC,U,-16731116
-74,64,"alienus","Histiotus","Strange Big-eared Brown Bat",DD,U,-11513776
-78,77,"gaskelli","Hesperoptenus","Gaskell's False Serotine",DD,U,-11513776
-79,77,"tomesi","Hesperoptenus","Large False Serotine",VU,D,-11184866
-80,76,"blanfordi","Hesperoptenus","Blanford's Bat",LC,U,-16731116
-81,75,"tickelli","Hesperoptenus","Tickell's Bat",LC,U,-16731116
-83,82,"cubanus","Nycticeius","Cuban Evening Bat",NT,U,-12486656
-84,82,"humeralis","Nycticeius","Evening Bat",LC,S,-16731116
-86,85,"moloneyi","Mimetillus","Moloney's Flat-headed Bat",LC,U,-16731116
-87,85,"dormeri","Scotozous","Dormer's Bat",LC,S,-16731116
-100,99,"pfeifferi","Lasiurus","Pfeiffer's Red Bat",NT,U,-12486656
-101,99,"blossevillii","Lasiurus","Red Bat",LC,U,-16731116
-102,98,"salinae","Lasiurus","",NE,U,-16777216
-103,97,"degelidus","Lasiurus","Jamaican Red Bat",VU,U,-11184866
-106,105,"borealis","Lasiurus","Eastern Red Bat",LC,S,-16731116
-107,105,"varius","Lasiurus","Cinnamon Red Bat",LC,U,-16731116
-108,104,"minor","Lasiurus","Minor Red Bat",VU,D,-11184866
-109,95,"seminolus","Lasiurus","Seminole Bat",LC,U,-16731116
-111,110,"cinereus","Lasiurus","Hawaiian Hoary Bat",LC,U,-16731116
-112,110,"castaneus","Lasiurus","Tacarcuna Bat",DD,U,-11513776
-115,114,"intermedius","Lasiurus","Northern Yellow Bat",LC,U,-16731116
-116,114,"insularis","Lasiurus","Cuban Yellow Bat",VU,U,-11184866
-118,117,"xanthinus","Lasiurus","Western Yellow Bat",LC,S,-16731116
-119,117,"ega","Lasiurus","Southern Yellow Bat",LC,U,-16731116
-120,92,"egregius","Lasiurus","Big Red Bat",DD,U,-11513776
-128,127,"gouldi","Nyctophilus","Gould's Long-eared Bat",LC,D,-16731116
-129,127,"bifax","Nyctophilus","Eastern Long-eared Bat",LC,S,-16731116
-130,126,"walkeri","Nyctophilus","Pygmy Long-eared Bat",LC,S,-16731116
-132,131,"microtis","Nyctophilus","Papuan Long-eared Bat",LC,S,-16731116
-133,131,"heran","Nyctophilus","Sundan Long-eared Bat",DD,D,-11513776
-135,134,"arnhemensis","Nyctophilus","Northern Long-eared Bat",LC,S,-16731116
-136,134,"geoffroyi","Nyctophilus","Lesser Long-eared Bat",LC,S,-16731116
-138,137,"microdon","Nyctophilus","Small-toothed Long-eared Bat",DD,U,-11513776
-139,137,"timoriensis","Nyctophilus","Greater Long-eared Bat",DD,D,-11513776
-140,122,"imogene","Pharotis","Thomas's Big-eared Bat",CR,U,-3014646
-141,121,"subflavus","Pipistrellus","Eastern Pipistrelle",LC,S,-16731116
-144,143,"circumdatus","Arielulus","Bronze Sprite",LC,U,-16731116
-145,143,"cuprosus","Arielulus","Coppery Sprite",DD,U,-11513776
-146,142,"societatis","Arielulus","Social Sprite",VU,D,-11184866
-149,148,"stenopterus","Pipistrellus","Narrow-winged Pipistrelle",LC,U,-16731116
-150,148,"joffrei","Hypsugo","",NE,U,-16777216
-151,147,"anthonyi","Hypsugo","",NE,U,-16777216
-157,156,"matroka","Eptesicus","Malagasy Serotine",LC,U,-16731116
-158,156,"capensis","Neoromicia","",NE,U,-16777216
-160,159,"somalicus","Neoromicia","",NE,U,-16777216
-161,159,"zuluensis","Neoromicia","",NE,U,-16777216
-164,163,"guineensis","Neoromicia","",NE,U,-16777216
-165,163,"brunneus","Neoromicia","",NE,U,-16777216
-166,162,"melckorum","Neoromicia","",NE,U,-16777216
-169,168,"tenuipinnis","Neoromicia","",NE,U,-16777216
-170,168,"rendalli","Neoromicia","",NE,U,-16777216
-171,167,"flavescens","Neoromicia","",NE,U,-16777216
-174,173,"kitcheneri","Hypsugo","",NE,U,-16777216
-175,173,"lophurus","Hypsugo","",NE,U,-16777216
-176,172,"pulveratus","Hypsugo","",NE,U,-16777216
+16,15,"aduncus","Tursiops","Indo-pacific Bottlenose Dolphin",DD,U,-11513776
+17,15,"truncatus","Tursiops","Common Bottlenose Dolphin",LC,U,-16731116
+19,18,"coeruleoalba","Stenella","Striped Dolphin",LC,U,-16731116
+20,18,"clymene","Stenella","Clymene Dolphin",DD,U,-11513776
+23,22,"delphis","Delphinus","Short-beaked Common Dolphin",LC,U,-16731116
+24,22,"capensis","Delphinus","Long-beaked Common Dolphin",DD,U,-11513776
+25,21,"attenuata","Stenella","Pantropical Spotted Dolphin",LC,U,-16731116
+26,12,"frontalis","Stenella","Atlantic Spotted Dolphin",DD,U,-11513776
+28,27,"chinensis","Sousa","Indo-pacific Hump-backed Dolphin",NT,D,-12486656
+29,27,"teuszii","Sousa","Atlantic Humpbacked Dolphin",VU,D,-11184866
+30,10,"orca","Orcinus","Killer Whale",DD,U,-11513776
+35,34,"acutus","Lagenorhynchus","Atlantic White-sided Dolphin",LC,U,-16731116
+36,34,"griseus","Grampus","Risso's Dolphin",LC,U,-16731116
+38,37,"brevirostris","Orcaella","Irrawaddy Dolphin",VU,D,-11184866
+39,37,"longirostris","Stenella","Spinner Dolphin",DD,U,-11513776
+40,32,"hosei","Lagenodelphis","Fraser's Dolphin",LC,U,-16731116
+42,41,"albirostris","Lagenorhynchus","White-beaked Dolphin",LC,U,-16731116
+43,41,"fluviatilis","Sotalia","Estuarine Dolphin",DD,U,-11513776
+51,50,"commersonii","Cephalorhynchus","Commerson's Dolphin",DD,U,-11513776
+52,50,"eutropia","Cephalorhynchus","Chilean Dolphin",NT,D,-12486656
+53,49,"hectori","Cephalorhynchus","Hector's Dolphin",EN,D,-8572416
+54,48,"heavisidii","Cephalorhynchus","Heaviside's Dolphin",DD,U,-11513776
+57,56,"obliquidens","Lagenorhynchus","Pacific White-sided Dolphin",LC,U,-16731116
+58,56,"obscurus","Lagenorhynchus","Dusky Dolphin",DD,U,-11513776
+60,59,"cruciger","Lagenorhynchus","Hourglass Dolphin",LC,U,-16731116
+61,59,"australis","Lagenorhynchus","Peale's Dolphin",DD,U,-11513776
+63,62,"borealis","Lissodelphis","Northern Right Whale Dolphin",LC,U,-16731116
+64,62,"peronii","Lissodelphis","Southern Right Whale Dolphin",DD,U,-11513776
+68,67,"macrorhynchus","Globicephala","Short-finned Pilot Whale",DD,U,-11513776
+69,67,"melas","Globicephala","Long-finned Pilot Whale",DD,U,-11513776
+71,70,"crassidens","Pseudorca","False Killer Whale",DD,U,-11513776
+72,70,"attenuata","Feresa","Pygmy Killer Whale",DD,U,-11513776
+73,65,"electra","Peponocephala","Melon-headed Whale",LC,U,-16731116
+74,44,"bredanensis","Steno","Rough-toothed Dolphin",LC,U,-16731116
+79,78,"dioptrica","Phocoena","Spectacled Porpoise",DD,U,-11513776
+80,78,"phocoena","Phocoena","Harbour Porpoise",LC,U,-16731116
+81,77,"phocaenoides","Neophocaena","Finless Porpoise",VU,D,-11184866
+82,76,"dalli","Phocoenoides","Dall's Porpoise",LC,U,-16731116
+84,83,"spinipinnis","Phocoena","Burmeister's Porpoise",DD,U,-11513776
+85,83,"sinus","Phocoena","Vaquita",CR,D,-3014646
+87,86,"leucas","Delphinapterus","Beluga",NT,U,-12486656
+88,86,"monoceros","Monodon","Narwhal",NT,U,-12486656
+91,90,"blainvillei","Pontoporia","Franciscana",VU,D,-11184866
+92,90,"geoffrensis","Inia","Boto",DD,U,-11513776
+93,89,"vexillifer","Lipotes","Changjiang Dolphin",CR,U,-3014646
+100,99,"europaeus","Mesoplodon","Gervais' Beaked Whale",DD,U,-11513776
+101,99,"bairdii","Berardius","Baird's Beaked Whale",DD,U,-11513776
+102,98,"ginkgodens","Mesoplodon","Ginkgo-toothed Beaked Whale",DD,U,-11513776
+104,103,"bowdoini","Mesoplodon","Andrew's Beaked Whale",DD,U,-11513776
+105,103,"peruvianus","Mesoplodon","Pygmy Beaked Whale",DD,U,-11513776
+110,109,"traversii","Mesoplodon","Spade-toothed Whale",DD,U,-11513776
+111,109,"layardii","Mesoplodon","Strap-toothed Whale",DD,U,-11513776
+112,108,"densirostris","Mesoplodon","Blainville's Beaked Whale",DD,U,-11513776
+113,107,"hectori","Mesoplodon","Hector's Beaked Whale",DD,U,-11513776
+114,106,"mirus","Mesoplodon","True's Beaked Whale",DD,U,-11513776
+117,116,"bidens","Mesoplodon","Sowerby's Beaked Whale",DD,U,-11513776
+118,116,"arnuxii","Berardius","Arnoux's Beaked Whale",DD,U,-11513776
+119,115,"shepherdi","Tasmacetus","Shepherd's Beaked Whale",DD,U,-11513776
+124,123,"pacificus","Indopacetus","Indo-pacific Beaked Whale",DD,U,-11513776
+125,123,"planifrons","Hyperoodon","Southern Bottlenose Whale",LC,U,-16731116
+126,122,"grayi","Mesoplodon","Gray's Beaked Whale",DD,U,-11513776
+128,127,"ampullatus","Hyperoodon","North Atlantic Bottlenose Whale",DD,U,-11513776
+129,127,"stejnegeri","Mesoplodon","Stejneger's Beaked Whale",DD,U,-11513776
+131,130,"cavirostris","Ziphius","Cuvier's Beaked Whale",LC,U,-16731116
+132,130,"carlhubbsi","Mesoplodon","Hubbs' Beaked Whale",DD,U,-11513776
+134,133,"gangetica","Platanista","South Asian River Dolphin",EN,D,-8572416
+135,133,"minor","Platanista","",NE,U,-16777216
+138,137,"breviceps","Kogia","Pygmy Sperm Whale",DD,U,-11513776
+139,137,"sima","Kogia","Dwarf Sperm Whale",DD,U,-11513776
+140,136,"catodon","Physeter","",NE,U,-16777216
+147,146,"novaeangliae","Megaptera","Humpback Whale",LC,I,-16731116
+148,146,"physalus","Balaenoptera","Fin Whale",EN,U,-8572416
+149,145,"musculus","Balaenoptera","Blue Whale",EN,I,-8572416
+150,144,"robustus","Eschrichtius","Gray Whale",LC,S,-16731116
+152,151,"edeni","Balaenoptera","Bryde's Whale",DD,U,-11513776
+153,151,"borealis","Balaenoptera","Sei Whale",EN,U,-8572416
+155,154,"bonaerensis","Balaenoptera","Antarctic Minke Whale",DD,U,-11513776
+156,154,"acutorostrata","Balaenoptera","Common Minke Whale",LC,S,-16731116
+161,160,"glacialis","Eubalaena","North Atlantic Right Whale",EN,U,-8572416
+162,160,"japonica","Eubalaena","North Pacific Right Whale",EN,U,-8572416
+163,159,"australis","Eubalaena","Southern Right Whale",LC,I,-16731116
+164,158,"mysticetus","Balaena","Bowhead Whale",LC,I,-16731116
+165,157,"marginata","Caperea","Pygmy Right Whale",DD,U,-11513776
+167,166,"amphibius","Hippopotamus","Common Hippopotamus",VU,D,-11184866
+168,166,"liberiensis","Hexaprotodon","",NE,U,-16777216

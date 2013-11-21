@@ -1,84 +1,94 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,14,"aduncus","Tursiops","Indo-pacific Bottlenose Dolphin",DD,U,-11513776
-16,14,"truncatus","Tursiops","Common Bottlenose Dolphin",LC,U,-16731116
-18,17,"coeruleoalba","Stenella","Striped Dolphin",LC,U,-16731116
-19,17,"clymene","Stenella","Clymene Dolphin",DD,U,-11513776
-22,21,"delphis","Delphinus","Short-beaked Common Dolphin",LC,U,-16731116
-23,21,"capensis","Delphinus","Long-beaked Common Dolphin",DD,U,-11513776
-24,20,"attenuata","Stenella","Pantropical Spotted Dolphin",LC,U,-16731116
-25,11,"frontalis","Stenella","Atlantic Spotted Dolphin",DD,U,-11513776
-27,26,"chinensis","Sousa","Indo-pacific Hump-backed Dolphin",NT,D,-12486656
-28,26,"teuszii","Sousa","Atlantic Humpbacked Dolphin",VU,D,-11184866
-29,9,"orca","Orcinus","Killer Whale",DD,U,-11513776
-34,33,"acutus","Lagenorhynchus","Atlantic White-sided Dolphin",LC,U,-16731116
-35,33,"griseus","Grampus","Risso's Dolphin",LC,U,-16731116
-37,36,"brevirostris","Orcaella","Irrawaddy Dolphin",VU,D,-11184866
-38,36,"longirostris","Stenella","Spinner Dolphin",DD,U,-11513776
-39,31,"hosei","Lagenodelphis","Fraser's Dolphin",LC,U,-16731116
-41,40,"albirostris","Lagenorhynchus","White-beaked Dolphin",LC,U,-16731116
-42,40,"fluviatilis","Sotalia","Estuarine Dolphin",DD,U,-11513776
-50,49,"commersonii","Cephalorhynchus","Commerson's Dolphin",DD,U,-11513776
-51,49,"eutropia","Cephalorhynchus","Chilean Dolphin",NT,D,-12486656
-52,48,"hectori","Cephalorhynchus","Hector's Dolphin",EN,D,-8572416
-53,47,"heavisidii","Cephalorhynchus","Heaviside's Dolphin",DD,U,-11513776
-56,55,"obliquidens","Lagenorhynchus","Pacific White-sided Dolphin",LC,U,-16731116
-57,55,"obscurus","Lagenorhynchus","Dusky Dolphin",DD,U,-11513776
-59,58,"cruciger","Lagenorhynchus","Hourglass Dolphin",LC,U,-16731116
-60,58,"australis","Lagenorhynchus","Peale's Dolphin",DD,U,-11513776
-62,61,"borealis","Lissodelphis","Northern Right Whale Dolphin",LC,U,-16731116
-63,61,"peronii","Lissodelphis","Southern Right Whale Dolphin",DD,U,-11513776
-67,66,"macrorhynchus","Globicephala","Short-finned Pilot Whale",DD,U,-11513776
-68,66,"melas","Globicephala","Long-finned Pilot Whale",DD,U,-11513776
-70,69,"crassidens","Pseudorca","False Killer Whale",DD,U,-11513776
-71,69,"attenuata","Feresa","Pygmy Killer Whale",DD,U,-11513776
-72,64,"electra","Peponocephala","Melon-headed Whale",LC,U,-16731116
-73,43,"bredanensis","Steno","Rough-toothed Dolphin",LC,U,-16731116
-78,77,"dioptrica","Phocoena","Spectacled Porpoise",DD,U,-11513776
-79,77,"phocoena","Phocoena","Harbour Porpoise",LC,U,-16731116
-80,76,"phocaenoides","Neophocaena","Finless Porpoise",VU,D,-11184866
-81,75,"dalli","Phocoenoides","Dall's Porpoise",LC,U,-16731116
-83,82,"spinipinnis","Phocoena","Burmeister's Porpoise",DD,U,-11513776
-84,82,"sinus","Phocoena","Vaquita",CR,D,-3014646
-86,85,"leucas","Delphinapterus","Beluga",NT,U,-12486656
-87,85,"monoceros","Monodon","Narwhal",NT,U,-12486656
-90,89,"blainvillei","Pontoporia","Franciscana",VU,D,-11184866
-91,89,"geoffrensis","Inia","Boto",DD,U,-11513776
-92,88,"vexillifer","Lipotes","Changjiang Dolphin",CR,U,-3014646
-99,98,"europaeus","Mesoplodon","Gervais' Beaked Whale",DD,U,-11513776
-100,98,"bairdii","Berardius","Baird's Beaked Whale",DD,U,-11513776
-101,97,"ginkgodens","Mesoplodon","Ginkgo-toothed Beaked Whale",DD,U,-11513776
-103,102,"bowdoini","Mesoplodon","Andrew's Beaked Whale",DD,U,-11513776
-104,102,"peruvianus","Mesoplodon","Pygmy Beaked Whale",DD,U,-11513776
-109,108,"traversii","Mesoplodon","Spade-toothed Whale",DD,U,-11513776
-110,108,"layardii","Mesoplodon","Strap-toothed Whale",DD,U,-11513776
-111,107,"densirostris","Mesoplodon","Blainville's Beaked Whale",DD,U,-11513776
-112,106,"hectori","Mesoplodon","Hector's Beaked Whale",DD,U,-11513776
-113,105,"mirus","Mesoplodon","True's Beaked Whale",DD,U,-11513776
-116,115,"bidens","Mesoplodon","Sowerby's Beaked Whale",DD,U,-11513776
-117,115,"arnuxii","Berardius","Arnoux's Beaked Whale",DD,U,-11513776
-118,114,"shepherdi","Tasmacetus","Shepherd's Beaked Whale",DD,U,-11513776
-123,122,"pacificus","Indopacetus","Indo-pacific Beaked Whale",DD,U,-11513776
-124,122,"planifrons","Hyperoodon","Southern Bottlenose Whale",LC,U,-16731116
-125,121,"grayi","Mesoplodon","Gray's Beaked Whale",DD,U,-11513776
-127,126,"ampullatus","Hyperoodon","North Atlantic Bottlenose Whale",DD,U,-11513776
-128,126,"stejnegeri","Mesoplodon","Stejneger's Beaked Whale",DD,U,-11513776
-130,129,"cavirostris","Ziphius","Cuvier's Beaked Whale",LC,U,-16731116
-131,129,"carlhubbsi","Mesoplodon","Hubbs' Beaked Whale",DD,U,-11513776
-133,132,"gangetica","Platanista","South Asian River Dolphin",EN,D,-8572416
-134,132,"minor","Platanista","",NE,U,-16777216
-137,136,"breviceps","Kogia","Pygmy Sperm Whale",DD,U,-11513776
-138,136,"sima","Kogia","Dwarf Sperm Whale",DD,U,-11513776
-139,135,"catodon","Physeter","",NE,U,-16777216
-146,145,"novaeangliae","Megaptera","Humpback Whale",LC,I,-16731116
-147,145,"physalus","Balaenoptera","Fin Whale",EN,U,-8572416
-148,144,"musculus","Balaenoptera","Blue Whale",EN,I,-8572416
-149,143,"robustus","Eschrichtius","Gray Whale",LC,S,-16731116
-151,150,"edeni","Balaenoptera","Bryde's Whale",DD,U,-11513776
-152,150,"borealis","Balaenoptera","Sei Whale",EN,U,-8572416
-154,153,"bonaerensis","Balaenoptera","Antarctic Minke Whale",DD,U,-11513776
-155,153,"acutorostrata","Balaenoptera","Common Minke Whale",LC,S,-16731116
-160,159,"glacialis","Eubalaena","North Atlantic Right Whale",EN,U,-8572416
-161,159,"japonica","Eubalaena","North Pacific Right Whale",EN,U,-8572416
-162,158,"australis","Eubalaena","Southern Right Whale",LC,I,-16731116
-163,157,"mysticetus","Balaena","Bowhead Whale",LC,I,-16731116
-164,156,"marginata","Caperea","Pygmy Right Whale",DD,U,-11513776
+11,10,"geoffroyi","Callithrix","Geoffroy's Tufted-ear Marmoset",LC,S,-16731116
+12,10,"kuhlii","Callithrix","Wied's Black-tufted-ear Marmoset",NT,D,-12486656
+14,13,"penicillata","Callithrix","Black-pencilled Marmoset",LC,I,-16731116
+15,13,"jacchus","Callithrix","Common Marmoset",LC,S,-16731116
+17,16,"aurita","Callithrix","Buffy-tufted-ear Marmoset",VU,D,-11184866
+18,16,"flaviceps","Callithrix","Buffy-headed Marmoset",EN,D,-8572416
+25,24,"melanura","Callithrix","",NE,U,-16777216
+26,24,"emiliae","Callithrix","",NE,U,-16777216
+27,23,"leucippe","Callithrix","",NE,U,-16777216
+28,22,"intermedia","Callithrix","",NE,U,-16777216
+29,21,"argentata","Callithrix","",NE,U,-16777216
+31,30,"humeralifera","Callithrix","",NE,U,-16777216
+32,30,"chrysoleuca","Callithrix","",NE,U,-16777216
+33,19,"pygmaea","Callithrix","",NE,U,-16777216
+34,6,"goeldii","Callimico","Goeldi's Monkey",VU,D,-11184866
+38,37,"caissara","Leontopithecus","Black-faced Lion Tamarin",CR,D,-3014646
+39,37,"chrysopygus","Leontopithecus","Black Lion Tamarin",EN,D,-8572416
+40,36,"rosalia","Leontopithecus","Golden Lion Tamarin",EN,S,-8572416
+41,35,"chrysomelas","Leontopithecus","Golden-headed Lion Tamarin",EN,D,-8572416
+49,48,"mystax","Saguinus","Moustached Tamarin",LC,S,-16731116
+50,48,"pileatus","Saguinus","",NE,U,-16777216
+51,47,"labiatus","Saguinus","Red-chested Mustached Tamarin",LC,S,-16731116
+52,46,"imperator","Saguinus","Emperor Tamarin",LC,D,-16731116
+55,54,"oedipus","Saguinus","Cotton-headed Tamarin",CR,D,-3014646
+56,54,"geoffroyi","Saguinus","Geoffroy's Tamarin",LC,D,-16731116
+57,53,"leucopus","Saguinus","Silvery-brown Tamarin",EN,D,-8572416
+60,59,"martinsi","Saguinus","Martin'S/ochraceous Bare-face Tamarin",LC,D,-16731116
+61,59,"bicolor","Saguinus","Brazilian Bare-faced Tamarin",EN,D,-8572416
+63,62,"midas","Saguinus","Golden-handed Tamarin",LC,S,-16731116
+64,62,"niger","Saguinus","Black-handed Tamarin",VU,D,-11184866
+65,43,"inustus","Saguinus","Mottled-face Tamarin",LC,S,-16731116
+69,68,"melanoleucus","Saguinus","White/crandall's Saddleback Tamarin",LC,D,-16731116
+70,68,"fuscicollis","Saguinus","Saddleback Tamarin",LC,D,-16731116
+71,67,"tripartitus","Saguinus","Golden-mantle Saddleback Tamarin",NT,D,-12486656
+73,72,"nigricollis","Saguinus","Black Mantle Tamarin",LC,D,-16731116
+74,72,"graellsi","Saguinus","",NE,U,-16777216
+80,79,"nigrifrons","Callicebus","Black-fronted Titi Monkey",NT,D,-12486656
+81,79,"melanochir","Callicebus","Coastal Black-handed Titi",VU,D,-11184866
+82,78,"personatus","Callicebus","Atlantic Titi",VU,D,-11184866
+83,77,"barbarabrownae","Callicebus","Blond Titi Monkey",CR,D,-3014646
+84,76,"miconax","Aotus","Andean Night Monkey",VU,D,-11184866
+85,75,"lemurinus","Aotus","Colombian Night Monkey",VU,D,-11184866
+92,91,"xanthosternos","Cebus","Buff-headed Capuchin",CR,D,-3014646
+93,91,"nigritus","Cebus","Black-horned Capuchin",NT,D,-12486656
+94,90,"apella","Cebus","Guianan/margarita Island Brown Capuchin",LC,D,-16731116
+95,89,"libidinosus","Cebus","Bearded Capuchin",LC,D,-16731116
+98,97,"capucinus","Cebus","White-throated Capuchin",LC,U,-16731116
+99,97,"albifrons","Cebus","White-fronted Capuchin",LC,D,-16731116
+100,96,"olivaceus","Cebus","Weeper Capuchin",LC,U,-16731116
+104,103,"ustus","Saimiri","Golden-backed Squirrel Monkey",NT,D,-12486656
+105,103,"sciureus","Saimiri","Common Squirrel Monkey",LC,D,-16731116
+106,102,"oerstedii","Saimiri","Black-crowned Central American Squirrel Monkey",VU,D,-11184866
+108,107,"boliviensis","Saimiri","Bolivian/peruvian Squirrel Monkey",LC,D,-16731116
+109,107,"vanzolinii","Saimiri","Black-headed Squirrel Monkey",VU,U,-11184866
+112,111,"nancymaae","Aotus","Nancy Ma's Night Monkey",LC,U,-16731116
+113,111,"azarae","Aotus","Azara's Night Monkey",LC,D,-16731116
+114,110,"nigriceps","Aotus","Black-headed Night Monkey",LC,U,-16731116
+117,116,"trivirgatus","Aotus","Douroucouli",LC,U,-16731116
+118,116,"vociferans","Aotus","Night Monkey",LC,D,-16731116
+119,115,"hershkovitzi","Aotus","",NE,U,-16777216
+129,128,"torquatus","Callicebus","Collared Titi Monkey",LC,U,-16731116
+130,128,"purinus","Callicebus","Widow Monkey",LC,U,-16731116
+132,131,"lugens","Callicebus","Collared Titi",LC,U,-16731116
+133,131,"lucifer","Callicebus","Widow Monkey",LC,U,-16731116
+134,126,"medemi","Callicebus","Colombian Black-handed Titi",VU,D,-11184866
+135,125,"regulus","Callicebus","Widow Monkey",LC,U,-16731116
+139,138,"donacophilus","Callicebus","Bolivian Gray Titi",LC,D,-16731116
+140,138,"pallescens","Callicebus","Chacoan Titi Monkey",LC,S,-16731116
+142,141,"olallae","Callicebus","Olalla Brothers' Titi",EN,D,-8572416
+143,141,"modestus","Callicebus","Beni Titi Monkey",EN,D,-8572416
+144,136,"oenanthe","Callicebus","Andean Titi Monkey",EN,D,-8572416
+149,148,"cupreus","Callicebus","Coppery Titi Monkey",LC,U,-16731116
+150,148,"ornatus","Callicebus","Ornate Titi Monkey",VU,D,-11184866
+151,147,"discolor","Callicebus","Red Titi Monkey",LC,U,-16731116
+152,146,"caligatus","Callicebus","Titi Monkey",LC,U,-16731116
+153,145,"dubius","Callicebus","Doubtful Titi Monkey",LC,U,-16731116
+157,156,"baptista","Callicebus","Baptista Lake Titi Monkey",LC,U,-16731116
+158,156,"hoffmannsi","Callicebus","Hoffmann's Titi Monkey",LC,U,-16731116
+159,155,"brunneus","Callicebus","Brown Titi Monkey",LC,U,-16731116
+161,160,"cinerascens","Callicebus","Ashy Black Titi Monkey",LC,U,-16731116
+162,160,"moloch","Callicebus","Red-bellied Titi Monkey",LC,U,-16731116
+168,167,"utahickae","Chiropotes","Uta Hick's Bearded Saki",EN,D,-8572416
+169,167,"chiropotes","Chiropotes","Bearded Saki",LC,S,-16731116
+171,170,"satanas","Chiropotes","Black Bearded Saki",CR,D,-3014646
+172,170,"israelita","Chiropotes","",NE,U,-16777216
+173,165,"albinasus","Chiropotes","Red-nosed Bearded Saki",EN,D,-8572416
+175,174,"melanocephalus","Cacajao","Golden-backed Black Uakari",LC,S,-16731116
+176,174,"calvus","Cacajao","Bald-headed Uacari",VU,D,-11184866
+180,179,"irrorata","Pithecia","Gray's Bald-faced Saki",LC,U,-16731116
+181,179,"monachus","Pithecia","Geoffroy's Monk Saki",LC,U,-16731116
+182,178,"albicans","Pithecia","White Saki",VU,D,-11184866
+184,183,"aequatorialis","Pithecia","Equatorial Saki",LC,D,-16731116
+185,183,"pithecia","Pithecia","Golden-faced Saki",LC,S,-16731116

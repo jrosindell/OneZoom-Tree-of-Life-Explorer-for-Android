@@ -1,58 +1,50 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,13,"microdiscus","Gastrotheca","",LC,D,-16731116
-15,13,"ossilaginis","Gastrotheca","",DD,U,-11513776
-16,12,"nicefori","Gastrotheca","",LC,S,-16731116
-17,11,"plumbea","Gastrotheca","",VU,D,-11184866
-19,18,"albolineata","Gastrotheca","",LC,D,-16731116
-20,18,"pseustes","Gastrotheca","",EN,D,-8572416
-22,21,"trachyceps","Gastrotheca","",EN,D,-8572416
-23,21,"ruizi","Gastrotheca","",EN,D,-8572416
-24,8,"longipes","Gastrotheca","",LC,D,-16731116
-27,26,"gracilis","Gastrotheca","",VU,D,-11184866
-28,26,"cornuta","Gastrotheca","",EN,D,-8572416
-29,25,"phalarosa","Gastrotheca","",DD,U,-11513776
-32,31,"pacchamama","Gastrotheca","",DD,U,-11513776
-33,31,"galeata","Gastrotheca","",DD,U,-11513776
-35,34,"rebeccae","Gastrotheca","",DD,U,-11513776
-36,34,"atympana","Gastrotheca","",DD,U,-11513776
-38,37,"williamsoni","Gastrotheca","",DD,U,-11513776
-39,37,"orophylax","Gastrotheca","",EN,D,-8572416
-42,41,"lateonota","Gastrotheca","",DD,U,-11513776
-43,41,"excubitor","Gastrotheca","",VU,D,-11184866
-44,40,"christiani","Gastrotheca","",EN,D,-8572416
-49,48,"testudinea","Gastrotheca","",LC,D,-16731116
-50,48,"abdita","Gastrotheca","",DD,U,-11513776
-51,47,"fissipes","Gastrotheca","",LC,S,-16731116
-53,52,"argenteovirens","Gastrotheca","",LC,S,-16731116
-54,52,"piperata","Gastrotheca","",LC,U,-16731116
-56,55,"zeugocystis","Gastrotheca","",CR,D,-3014646
-57,55,"peruana","Gastrotheca","",LC,S,-16731116
-63,62,"psychrophila","Gastrotheca","",EN,D,-8572416
-64,62,"riobambae","Gastrotheca","",EN,D,-8572416
-66,65,"walkeri","Gastrotheca","",DD,U,-11513776
-67,65,"bufona","Gastrotheca","",EN,D,-8572416
-70,69,"lauzuricae","Gastrotheca","",CR,D,-3014646
-71,69,"monticola","Gastrotheca","",LC,S,-16731116
-72,68,"dendronastes","Gastrotheca","",VU,D,-11184866
-74,73,"andaquiensis","Gastrotheca","",NT,D,-12486656
-75,73,"griswoldi","Gastrotheca","",LC,S,-16731116
-78,77,"guentheri","Gastrotheca","",VU,D,-11184866
-79,77,"ovifera","Gastrotheca","",EN,D,-8572416
-80,76,"aureomaculata","Gastrotheca","",NT,S,-12486656
-87,86,"marsupiata","Gastrotheca","",LC,S,-16731116
-88,86,"weinlandii","Gastrotheca","",DD,U,-11513776
-89,85,"chrysosticta","Gastrotheca","",VU,D,-11184866
-90,84,"litonedis","Gastrotheca","",EN,D,-8572416
-91,83,"helenae","Gastrotheca","",DD,U,-11513776
-93,92,"angustifrons","Gastrotheca","",VU,D,-11184866
-94,92,"espeletia","Gastrotheca","",EN,D,-8572416
-98,97,"antomia","Gastrotheca","",VU,D,-11184866
-99,97,"dunni","Gastrotheca","",LC,S,-16731116
-100,96,"splendens","Gastrotheca","",EN,D,-8572416
-102,101,"stictopleura","Gastrotheca","",EN,D,-8572416
-103,101,"ochoai","Gastrotheca","",DD,U,-11513776
-107,106,"fitzgeraldi","Flectonotus","",EN,D,-8572416
-108,106,"ohausi","Flectonotus","",LC,S,-16731116
-110,109,"pygmaeus","Flectonotus","",LC,U,-16731116
-111,109,"goeldii","Flectonotus","",LC,S,-16731116
-112,104,"fissilis","Flectonotus","",LC,S,-16731116
+16,15,"turkestanicus","Hynobius","Turkestanian Salamander",DD,U,-11513776
+17,15,"dunni","Hynobius","Oita Salamander",EN,D,-8572416
+19,18,"lichenatus","Hynobius","Tohoku Salamander",LC,S,-16731116
+20,18,"yunanicus","Hynobius","",NE,U,-16777216
+21,13,"okiensis","Hynobius","Oki Salamander",CR,D,-3014646
+22,12,"kimurae","Hynobius","Hida Salamander",LC,S,-16731116
+23,11,"nebulosus","Hynobius","Clouded Salamander",LC,D,-16731116
+27,26,"tsuensis","Hynobius","Tsushima Salamander",LC,S,-16731116
+28,26,"takedai","Hynobius","Hokuriku Salamander",EN,D,-8572416
+30,29,"quelpaertensis","Hynobius","",DD,U,-11513776
+31,29,"leechii","Hynobius","",LC,D,-16731116
+32,24,"stejnegeri","Hynobius","Amber-coloured Salamander",VU,D,-11184866
+36,35,"boulengeri","Hynobius","Odaigahara Salamander",VU,D,-11184866
+37,35,"yiwuensis","Hynobius","",VU,D,-11184866
+38,34,"naevius","Hynobius","Blotched Salamander",LC,S,-16731116
+39,33,"retardatus","Hynobius","Ezo Salamander",LC,S,-16731116
+40,8,"guabangshanensis","Hynobius","",DD,U,-11513776
+42,41,"arisanensis","Hynobius","",VU,D,-11184866
+43,41,"sonani","Hynobius","",EN,D,-8572416
+50,49,"chinensis","Hynobius","",EN,D,-8572416
+51,49,"amjiensis","Hynobius","",CR,D,-3014646
+52,48,"abei","Hynobius","Abe's Salamander",CR,D,-3014646
+53,47,"tokyoensis","Hynobius","Tokyo Salamander",VU,D,-11184866
+54,46,"nigrescens","Hynobius","Japanese Black Salamander",LC,S,-16731116
+55,45,"formosanus","Hynobius","",EN,D,-8572416
+57,56,"hidamontanus","Hynobius","Hakuba Salamander",EN,D,-8572416
+58,56,"katoi","Hynobius","",DD,U,-11513776
+65,64,"yenyuanensis","Batrachuperus","Yenyuan Stream Salamander",VU,D,-11184866
+66,64,"pinchonii","Batrachuperus","Stream Salamander",VU,D,-11184866
+67,63,"londongensis","Batrachuperus","Longdong Stream Salamander",EN,D,-8572416
+70,69,"taibaiensis","Batrachuperus","",DD,U,-11513776
+71,69,"cochranae","Batrachuperus","",NE,U,-16777216
+72,68,"tibetanus","Batrachuperus","Alpine Stream Salamander",VU,D,-11184866
+73,61,"karlschmidti","Batrachuperus","",VU,D,-11184866
+76,75,"tsinpaensis","Liua","Tsinpa Salamander",VU,D,-11184866
+77,75,"shihi","Liua","Wushan Salamander",NT,D,-12486656
+78,74,"flavomaculatus","Pseudohynobius","Yellow-spotted Salamander",VU,D,-11184866
+79,59,"keyserlingii","Salamandrella","Siberian Newt",LC,S,-16731116
+80,4,"shangchengensis","Pachyhynobius","Shancheng Stout Salamander",VU,D,-11184866
+84,83,"persicus","Paradactylodon","Persian Mountain Salamander",NT,U,-12486656
+85,83,"mustersi","Paradactylodon","",CR,D,-3014646
+86,82,"gorganensis","Paradactylodon","",CR,D,-3014646
+87,81,"sibiricus","Ranodon","Semirechensk Salamander",EN,D,-8572416
+89,88,"fischeri","Onychodactylus","Fischer's Clawed Salamander",LC,D,-16731116
+90,88,"japonicus","Onychodactylus","Japanese Clawed Salamander",LC,S,-16731116
+91,1,"puxiongensis","Protohynobius","",DD,U,-11513776
+94,93,"japonicus","Andrias","Japanese Giant Salamander",NT,D,-12486656
+95,93,"davidianus","Andrias","Chinese Giant Salamander",CR,D,-3014646
+96,92,"alleganiensis","Cryptobranchus","Hellbender",NT,D,-12486656

@@ -1,82 +1,39 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,7,"quadrimaculatus","Oplurus","",NE,U,-16777216
-9,7,"grandidieri","Oplurus","",NE,U,-16777216
-11,10,"cyclurus","Oplurus","",NE,U,-16777216
-12,10,"cuvieri","Oplurus","",NE,U,-16777216
-13,5,"madagascariensis","Chalarodon","",NE,U,-16777216
-18,17,"leopardinus","Diplolaemus","",NE,U,-16777216
-19,17,"darwinii","Diplolaemus","",NE,U,-16777216
-20,16,"bibroni","Diplolaemus","",NE,U,-16777216
-22,21,"brasiliensis","Enyalius","",NE,U,-16777216
-23,21,"perditus","Enyalius","",NE,U,-16777216
-30,29,"collaris","Crotaphytus","Eastern Collared Lizard",LC,S,-16731116
-31,29,"insularis","Crotaphytus","",LC,S,-16731116
-32,28,"reticulatus","Crotaphytus","Reticulate Collared Lizard",VU,D,-11184866
-33,27,"dickersonae","Crotaphytus","Tiburon Collared Lizard",LC,S,-16731116
-35,34,"wislizenii","Gambelia","Long-nosed Leopard Lizard",LC,S,-16731116
-36,34,"sila","Gambelia","Blunt-nosed Leopard Lizard",EN,D,-8572416
-41,40,"microlepis","Enyalioides","",NE,U,-16777216
-42,40,"cofanorum","Enyalioides","",NE,U,-16777216
-43,39,"palpebralis","Enyalioides","",NE,U,-16777216
-44,38,"heterolepis","Enyalioides","",NE,U,-16777216
-47,46,"peruvianus","Morunasaurus","",NE,U,-16777216
-48,46,"spinosus","Hoplocercus","",NE,U,-16777216
-49,45,"annularis","Morunasaurus","",NE,U,-16777216
-55,54,"nigrilabris","Phoxophrys","",NE,U,-16777216
-56,54,"cephalum","Phoxophrys","",NE,U,-16777216
-62,61,"blanfordii","Trapelus","",NE,U,-16777216
-63,61,"agilis","Trapelus","",NE,U,-16777216
-64,60,"pallida","Trapelus","",NE,U,-16777216
-65,59,"ruderatus","Trapelus","",NE,U,-16777216
-66,58,"amphiboluroides","Caimanops","",NE,U,-16777216
-71,70,"loricata","Uromastyx","Mesopotamian Spiny-tailed Lizard",LC,U,-16731116
-72,70,"hardwickii","Uromastyx","",NE,U,-16777216
-73,69,"ornata","Uromastyx","",NE,U,-16777216
-76,75,"acanthinura","Uromastyx","",NE,U,-16777216
-77,75,"aegyptia","Uromastyx","",NE,U,-16777216
-78,74,"ocellata","Uromastyx","",NE,U,-16777216
-79,67,"belliana","Leiolepis","",NE,U,-16777216
-91,90,"hoehneli","Chamaeleo","",NE,U,-16777216
-92,90,"ellioti","Chamaeleo","",NE,U,-16777216
-93,89,"jacksonii","Chamaeleo","",NE,U,-16777216
-94,88,"fuellerorni","Chamaeleo","",NE,U,-16777216
-95,87,"melleri","Chamaeleo","",NE,U,-16777216
-96,86,"bitaeniatus","Chamaeleo","",NE,U,-16777216
-100,99,"chamaeleon","Chamaeleo","",NE,U,-16777216
-101,99,"africanus","Chamaeleo","",NE,U,-16777216
-102,98,"senegalensis","Chamaeleo","",NE,U,-16777216
-104,103,"gracilis","Chamaeleo","",NE,U,-16777216
-105,103,"dilepis","Chamaeleo","",NE,U,-16777216
-106,84,"oustaleti","Furcifer","",NE,U,-16777216
-110,109,"tigris","Calumma","Tiger Chameleon",EN,D,-8572416
-111,109,"nasuta","Calumma","",NE,U,-16777216
-112,108,"brevicornis","Calumma","",NE,U,-16777216
-114,113,"globifer","Calumma","",NE,U,-16777216
-115,113,"parsonii","Calumma","",NE,U,-16777216
-118,117,"ventrale","Bradypodion","",NE,U,-16777216
-119,117,"pumilum","Bradypodion","",NE,U,-16777216
-120,116,"fischeri","Bradypodion","",NE,U,-16777216
-123,122,"platyceps","Rhampholeon","",NE,U,-16777216
-124,122,"spectrum","Rhampholeon","",NE,U,-16777216
-125,121,"kerstenii","Rhampholeon","",NE,U,-16777216
-127,126,"superciliaris","Brookesia","",NE,U,-16777216
-128,126,"stumpffi","Brookesia","",NE,U,-16777216
-132,131,"suspectum","Heloderma","Gila Monster",NT,D,-12486656
-141,140,"salvadorensis","Abronia","",NE,U,-16777216
-142,140,"montecristoi","Abronia","",CR,U,-3014646
-143,139,"taeniata","Abronia","",VU,D,-11184866
-144,138,"martindelcampi","Abronia","",NE,U,-16777216
-145,137,"deppii","Abronia","",EN,D,-8572416
-148,147,"monticolus","Mesaspis","",NE,U,-16777216
-149,147,"moreleti","Mesaspis","",NE,U,-16777216
-150,146,"gadovii","Mesaspis","",LC,S,-16731116
-151,135,"imbricata","Barisia","",LC,U,-16731116
-152,134,"liocephalus","Gerrhonotus","",LC,S,-16731116
-156,155,"multicarinata","Elgaria","Southern Alligator Lizard",LC,D,-16731116
-157,155,"paucicarinata","Elgaria","",LC,S,-16731116
-158,154,"kingii","Elgaria","Madrean Alligator Lizard",LC,S,-16731116
-159,153,"coerulea","Elgaria","Northern Alligator Lizard",LC,S,-16731116
-164,163,"pulchra","Anniella","Black Legless Lizard",LC,D,-16731116
-165,163,"geronimensis","Anniella","",EN,D,-8572416
-166,161,"grandis","Xenosaurus","",VU,D,-11184866
-167,160,"crocodilurus","Shinisaurus","",NE,U,-16777216
+10,9,"metallica","Aplonis","Metallic Starling",LC,U,-16731116
+11,9,"pelzelni","Aplonis","Pohnpei Starling",CR,U,-3014646
+12,8,"brunneicapillus","Aplonis","White-eyed Starling",EN,U,-8572416
+14,13,"grandis","Aplonis","Brown-winged Starling",LC,U,-16731116
+15,13,"mysolensis","Aplonis","Moluccan Starling",LC,U,-16731116
+18,17,"cinerascens","Aplonis","Rarotonga Starling",VU,U,-11184866
+19,17,"tabuensis","Aplonis","Polynesian Starling",LC,U,-16731116
+20,16,"insularis","Aplonis","Rennell Starling",LC,U,-16731116
+23,22,"mystacea","Aplonis","Yellow-eyed Starling",NT,U,-12486656
+24,22,"crassa","Aplonis","Tanimbar Starling",NT,U,-12486656
+25,21,"opaca","Aplonis","Micronesian Starling",LC,U,-16731116
+31,30,"minor","Aplonis","Short-tailed Starling",LC,U,-16731116
+32,30,"atrifusca","Aplonis","Samoan Starling",LC,U,-16731116
+33,29,"santovestris","Aplonis","Santo Starling",VU,U,-11184866
+34,28,"panayensis","Aplonis","Asian Glossy Starling",LC,U,-16731116
+37,36,"magna","Aplonis","Long-tailed Starling",LC,U,-16731116
+38,36,"striata","Aplonis","Striated Starling",LC,U,-16731116
+39,35,"zelandica","Aplonis","Rusty-winged Starling",NT,U,-12486656
+41,40,"cantoroides","Aplonis","Singing Starling",LC,U,-16731116
+42,40,"feadensis","Aplonis","Atoll Starling",NT,U,-12486656
+43,3,"dichroa","Aplonis","San Cristobal Starling",LC,U,-16731116
+45,44,"dubium","Scissirostrum","Finch-billed Myna",LC,U,-16731116
+46,44,"erythrophris","Enodes","Fiery-browed Myna",LC,U,-16731116
+52,51,"albicollis","Streptocitta","White-necked Myna",LC,U,-16731116
+53,51,"albertinae","Streptocitta","Bare-eyed Myna",NT,U,-12486656
+54,50,"calvus","Sarcops","Coleto",LC,U,-16731116
+57,56,"galeatus","Basilornis","Helmeted Myna",NT,U,-12486656
+58,56,"mirandus","Basilornis","Apo Myna",NT,U,-12486656
+59,55,"corythaix","Basilornis","Long-crested Myna",LC,U,-16731116
+60,48,"celebensis","Basilornis","Sulawesi Myna",LC,U,-16731116
+64,63,"ptilogenys","Gracula","Sri Lanka Myna",NT,U,-12486656
+65,63,"religiosa","Gracula","Hill Myna",LC,U,-16731116
+66,62,"coronatus","Ampeliceps","Golden-crested Myna",LC,U,-16731116
+68,67,"dumontii","Mino","Yellow-faced Myna",LC,U,-16731116
+69,67,"anais","Mino","Golden Myna",LC,U,-16731116
+72,71,"inornatus","Rhabdornis","Stripe-breasted Rhabdornis",LC,U,-16731116
+73,71,"grandis","Rhabdornis","Long-billed Rhabdornis",LC,U,-16731116
+74,70,"mystacalis","Rhabdornis","Stripe-sided Rhabdornis",LC,U,-16731116

@@ -1,69 +1,41 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"citrinellus","Atlapetes","Yellow-striped Brush-finch",LC,U,-16731116
-11,9,"fulviceps","Atlapetes","Fulvous-headed Brush-finch",LC,U,-16731116
-13,12,"luteoviridis","Pselliophorus","Yellow-green Finch",VU,U,-11184866
-14,12,"tibialis","Pselliophorus","Yellow-thighed Finch",LC,U,-16731116
-17,16,"pileatus","Atlapetes","Rufous-capped Brush-finch",LC,U,-16731116
-18,16,"albinucha","Atlapetes","White-naped Brush-finch",LC,U,-16731116
-19,15,"semirufus","Atlapetes","Ochre-breasted Brush-finch",LC,U,-16731116
-21,20,"albiceps","Atlapetes","White-headed Brush-finch",LC,U,-16731116
-22,20,"forbesi","Atlapetes","Apurimac Brush-finch",LC,U,-16731116
-26,25,"erythrophthalmus","Pipilo","Eastern Towhee",LC,U,-16731116
-27,25,"maculatus","Pipilo","Spotted Towhee",LC,U,-16731116
-28,24,"ocai","Pipilo","Collared Towhee",LC,U,-16731116
-29,23,"chlorurus","Pipilo","Green-tailed Towhee",LC,U,-16731116
-37,36,"albicollis","Pipilo","White-throated Towhee",LC,U,-16731116
-38,36,"fuscus","Pipilo","Canyon Towhee",LC,U,-16731116
-40,39,"crissalis","Pipilo","California Towhee",LC,U,-16731116
-41,39,"aberti","Pipilo","Abert's Towhee",LC,U,-16731116
-43,42,"kieneri","Melozone","Rusty-crowned Ground-sparrow",LC,U,-16731116
-44,42,"cabanisi","Melozone","Cabanis's Ground Sparrow",_U,[,-16777216
-46,45,"leucotis","Melozone","White-eared Ground-sparrow",LC,U,-16731116
-47,45,"biarcuata","Melozone","Prevost's Ground-sparrow",LC,U,-16731116
-50,49,"ruficeps","Aimophila","Rufous-crowned Sparrow",LC,U,-16731116
-51,49,"notosticta","Aimophila","Oaxaca Sparrow",NT,U,-12486656
-52,48,"rufescens","Aimophila","Rusty Sparrow",LC,U,-16731116
-53,31,"leucopis","Atlapetes","White-rimmed Brush-finch",LC,U,-16731116
-54,30,"capitalis","Pezopetes","Large-footed Finch",LC,U,-16731116
-61,60,"lincolnii","Melospiza","Lincoln's Sparrow",LC,U,-16731116
-62,60,"georgiana","Melospiza","Swamp Sparrow",LC,U,-16731116
-63,59,"melodia","Melospiza","Song Sparrow",LC,U,-16731116
-64,58,"baileyi","Xenospiza","Sierra Madre Sparrow",EN,U,-8572416
-66,65,"henslowii","Ammodramus","Henslow's Sparrow",NT,U,-12486656
-67,65,"bairdii","Ammodramus","Baird's Sparrow",LC,U,-16731116
-68,56,"sandwichensis","Passerculus","Savannah Sparrow",LC,U,-16731116
-74,73,"caudacutus","Ammodramus","Saltmarsh Sparrow",VU,U,-11184866
-75,73,"nelsoni","Ammodramus","Nelson's Sparrow",LC,U,-16731116
-76,72,"maritimus","Ammodramus","Seaside Sparrow",LC,U,-16731116
-77,71,"leconteii","Ammodramus","Le Conte's Sparrow",LC,U,-16731116
-79,78,"gramineus","Pooecetes","Vesper Sparrow",LC,U,-16731116
-80,78,"belli","Amphispiza","Sage Sparrow",LC,U,-16731116
-81,69,"superciliosus","Oriturus","Striped Sparrow",LC,U,-16731116
-87,86,"atricapilla","Zonotrichia","Golden-crowned Sparrow",LC,U,-16731116
-88,86,"leucophrys","Zonotrichia","White-crowned Sparrow",LC,U,-16731116
-90,89,"albicollis","Zonotrichia","White-throated Sparrow",LC,U,-16731116
-91,89,"querula","Zonotrichia","Harris's Sparrow",LC,U,-16731116
-92,84,"capensis","Zonotrichia","Rufous-collared Sparrow",LC,U,-16731116
-95,94,"phaeonotus","Junco","Yellow-eyed Junco",LC,U,-16731116
-96,94,"hyemalis","Junco","Dark-eyed Junco",LC,U,-16731116
-98,97,"insularis","Junco","Guadalupe Junco",_U,[,-16777216
-99,97,"vulcani","Junco","Volcano Junco",LC,U,-16731116
-101,100,"arborea","Spizella","American Tree Sparrow",LC,U,-16731116
-102,100,"iliaca","Passerella","Fox Sparrow",LC,U,-16731116
-105,104,"albofrenatus","Atlapetes","Moustached Brush-finch",LC,U,-16731116
-106,104,"pallidinucha","Atlapetes","Pale-naped Brush-finch",LC,U,-16731116
-107,103,"fuscoolivaceus","Atlapetes","Dusky-headed Brush-finch",NT,U,-12486656
-115,114,"virenticeps","Arremon","Green-striped Brush-finch",LC,U,-16731116
-116,114,"abeillei","Arremon","Black-capped Sparrow",LC,U,-16731116
-117,113,"flavirostris","Arremon","Saffron-billed Sparrow",LC,U,-16731116
-119,118,"aurantiirostris","Arremon","Orange-billed Sparrow",LC,U,-16731116
-120,118,"taciturnus","Arremon","Pectoral Sparrow",LC,U,-16731116
-121,111,"franciscanus","Arremon","Sao Francisco Sparrow",NT,U,-12486656
-126,125,"torquatus","Arremon","Stripe-headed Brush-finch",LC,U,-16731116
-127,125,"crassirostris","Arremon","Sooty-faced Finch",LC,U,-16731116
-128,124,"semitorquatus","Arremon","Half-collared Sparrow",LC,U,-16731116
-129,123,"brunneinucha","Arremon","Chestnut-capped Brush-finch",LC,U,-16731116
-131,130,"schlegeli","Arremon","Golden-winged Sparrow",LC,U,-16731116
-132,130,"castaneiceps","Arremon","Olive Finch",LC,U,-16731116
-133,109,"latinuchus","Atlapetes","Yellow-breasted Brush-finch",LC,U,-16731116
-134,108,"pallidiceps","Atlapetes","Pale-headed Brush-finch",CR,U,-3014646
+10,9,"macrocnemis","Rana","Long-legged Wood Frog",LC,D,-16731116
+11,9,"dalmatina","Rana","Agile Frog",LC,D,-16731116
+12,8,"okinavana","Rana","",NE,U,-16777216
+13,7,"temporaria","Rana","European Common Frog",LC,S,-16731116
+15,14,"asiatica","Rana","Central Asiatic Frog",LC,D,-16731116
+16,14,"chaochiaoensis","Rana","",LC,U,-16731116
+17,5,"pyrenaica","Rana","Pyrenean Frog",EN,D,-8572416
+18,4,"latastei","Rana","Italian Agile Frog",VU,D,-11184866
+22,21,"iberica","Rana","Iberian Frog",NT,D,-12486656
+23,21,"zhengi","Rana","",DD,U,-11513776
+24,20,"tsushimensis","Rana","Tsushima Brown Frog",LC,S,-16731116
+25,19,"huanrenensis","Rana","",NE,U,-16777216
+30,29,"chensinensis","Rana","Asiatic Grass Frog",LC,D,-16731116
+31,29,"dybowskii","Rana","",LC,S,-16731116
+32,28,"ornativentris","Rana","Montane Brown Frog",LC,S,-16731116
+35,34,"kunyuensis","Rana","",DD,U,-11513776
+36,34,"pirica","Rana","",LC,S,-16731116
+37,33,"kukunoris","Rana","",LC,U,-16731116
+40,39,"italica","Rana","Italian Stream Frog",LC,S,-16731116
+41,39,"graeca","Rana","Greek Stream Frog",LC,S,-16731116
+42,38,"arvalis","Rana","Altai Brown Frog",LC,S,-16731116
+47,46,"multidenticulata","Rana","",LC,S,-16731116
+48,46,"johnsi","Rana","",LC,U,-16731116
+49,45,"weiningensis","Rana","",NE,U,-16777216
+50,44,"sangzhiensis","Rana","",NE,U,-16777216
+51,43,"sauteri","Rana","",EN,D,-8572416
+59,58,"japonica","Rana","Japanese Brown Frog",LC,D,-16731116
+60,58,"longicrus","Rana","",VU,D,-11184866
+61,57,"amurensis","Rana","Siberian Wood Frog",LC,S,-16731116
+62,56,"sakuraii","Rana","Stream Brown Frog",LC,S,-16731116
+64,63,"zhenhaiensis","Rana","",LC,U,-16731116
+65,63,"chevronta","Rana","",CR,D,-3014646
+66,54,"omeimontis","Rana","",LC,D,-16731116
+67,53,"tagoi","Rana","",LC,S,-16731116
+71,70,"muscosa","Rana","Southern Mountain Yellow-legged Frog",EN,D,-8572416
+72,70,"pretiosa","Rana","Oregon Spotted Frog",VU,D,-11184866
+74,73,"aurora","Rana","Northern Red-legged Frog",LC,S,-16731116
+75,73,"boylii","Rana","",NT,D,-12486656
+77,76,"luteiventris","Rana","Columbia Spotted Frog",LC,D,-16731116
+78,76,"cascadae","Rana","Cascades Frog",NT,D,-12486656

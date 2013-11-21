@@ -1,38 +1,50 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"acutirostris","Philautus","",VU,D,-11184866
-10,8,"leitensis","Philautus","",VU,D,-11184866
-11,7,"petersi","Philautus","",LC,D,-16731116
-12,6,"mjobergi","Philautus","",NT,D,-12486656
-14,13,"schmackeri","Philautus","",EN,D,-8572416
-15,13,"saueri","Philautus","",VU,S,-11184866
-18,17,"longicrus","Philautus","",NT,D,-12486656
-19,17,"refugii","Philautus","",VU,U,-11184866
-20,16,"umbra","Philautus","",VU,S,-11184866
-23,22,"jinxiuensis","Philautus","Jinxiu Bubble-nest Frog",VU,U,-11184866
-24,22,"medogensis","Philautus","",DD,U,-11513776
-25,21,"tinniens","Philautus","",EN,D,-8572416
-31,30,"frankenbergi","Philautus","",EN,D,-8572416
-32,30,"hoipolloi","Philautus","",LC,S,-16731116
-34,33,"pleurotaenia","Philautus","",EN,D,-8572416
-35,33,"asankai","Philautus","",EN,D,-8572416
-36,28,"auratus","Philautus","",EN,D,-8572416
-37,27,"hoffmanni","Philautus","",EN,D,-8572416
-39,38,"travancoricus","Philautus","",EX,U,-16777036
-40,38,"luteolus","Philautus","",DD,U,-11513776
-48,47,"erythrophthalmus","Philautus","",VU,S,-11184866
-49,47,"disgregus","Philautus","",EN,D,-8572416
-50,46,"abditus","Philautus","",DD,U,-11513776
-52,51,"aurantium","Philautus","",EN,D,-8572416
-53,51,"acutus","Philautus","",VU,U,-11184866
-54,44,"poecilius","Philautus","",VU,D,-11184866
-55,43,"kerangae","Philautus","",EN,D,-8572416
-56,42,"bunitus","Philautus","",VU,D,-11184866
-58,57,"akroparallagi","Philautus","",NE,U,-16777216
-59,57,"tytthus","Philautus","",DD,U,-11513776
-64,63,"stictomerus","Philautus","",NT,S,-12486656
-65,63,"regius","Philautus","",DD,U,-11513776
-66,62,"fergusonianus","Philautus","",LC,S,-16731116
-67,61,"sarasinorum","Philautus","",EN,D,-8572416
-70,69,"pallidipes","Philautus","",VU,D,-11184866
-71,69,"cardamonus","Philautus","",DD,U,-11513776
-72,68,"maosonensis","Philautus","",DD,U,-11513776
+9,8,"trinitatis","Peropteryx","Trinidad Dog-like Bat",DD,U,-11513776
+10,8,"macrotis","Peropteryx","Lesser Dog-like Bat",LC,S,-16731116
+11,7,"kappleri","Peropteryx","Greater Dog-like Bat",LC,U,-16731116
+12,6,"leucoptera","Peropteryx","White-winged Dog-like Bat",LC,U,-16731116
+15,14,"plicata","Balantiopteryx","Gray Sac-winged Bat",LC,U,-16731116
+16,14,"io","Balantiopteryx","Thomas's Sac-winged Bat",VU,D,-11184866
+17,13,"infusca","Balantiopteryx","Ecuadorian Sac-winged Bat",EN,D,-8572416
+20,19,"centralis","Centronycteris","Thomas's Shaggy Bat",LC,U,-16731116
+21,19,"maximiliani","Centronycteris","Shaggy Bat",LC,U,-16731116
+22,18,"brevirostris","Cormura","Chestnut Sac-winged Bat",LC,U,-16731116
+25,24,"gymnura","Saccopteryx","Amazonian Sac-winged Bat",DD,U,-11513776
+26,24,"canescens","Saccopteryx","Frosted Sac-winged Bat",LC,U,-16731116
+28,27,"bilineata","Saccopteryx","Greater Sac-winged Bat",LC,U,-16731116
+29,27,"leptura","Saccopteryx","Lesser Sac-winged Bat",LC,U,-16731116
+35,34,"albus","Diclidurus","Northern Ghost Bat",LC,U,-16731116
+36,34,"ingens","Diclidurus","Greater Ghost Bat",DD,U,-11513776
+37,33,"scutatus","Diclidurus","Lesser Ghost Bat",LC,U,-16731116
+38,32,"isabellus","Diclidurus","Isabelle's Ghost Bat",LC,U,-16731116
+39,31,"alecto","Cyttarops","Short-eared Bat",LC,U,-16731116
+40,30,"naso","Rhynchonycteris","Proboscis Bat",LC,U,-16731116
+47,46,"seychellensis","Coleura","Seychelles Sheath-tailed Bat",CR,D,-3014646
+48,46,"afra","Coleura","African Sheath-tailed Bat",LC,U,-16731116
+49,45,"atrata","Emballonura","Peter's Sheath-tailed Bat",LC,U,-16731116
+50,44,"beccarii","Emballonura","Beccari's Sheath-tailed Bat",LC,U,-16731116
+52,51,"semicaudata","Emballonura","Pacific Sheath-tailed Bat",EN,D,-8572416
+53,51,"dianae","Emballonura","Large-eared Sheath-tailed Bat",LC,U,-16731116
+56,55,"raffrayana","Emballonura","Raffray's Sheath-tailed Bat",LC,U,-16731116
+57,55,"furax","Emballonura","New Guinea Sheath-tailed Bat",DD,U,-11513776
+59,58,"alecto","Emballonura","Small Asian Sheath-tailed Bat",LC,D,-16731116
+60,58,"monticola","Emballonura","Lesser Sheath-tailed Bat",LC,D,-16731116
+61,41,"nigrescens","Mosia","Lesser Sheath-tailed Bat",LC,S,-16731116
+69,68,"longimanus","Taphozous","Longed-winged Tomb Bat",LC,S,-16731116
+70,68,"mauritianus","Taphozous","Mauritian Tomb Bat",LC,U,-16731116
+71,67,"hildegardeae","Taphozous","Hildegarde's Tomb Bat",VU,D,-11184866
+74,73,"melanopogon","Taphozous","Black-bearded Tomb Bat",LC,U,-16731116
+75,73,"achates","Taphozous","Indonesian Tomb Bat",DD,U,-11513776
+76,72,"perforatus","Taphozous","Egyptian Tomb Bat",LC,S,-16731116
+81,80,"troughtoni","Taphozous","Troughton's Sheath-tailed Bat",LC,S,-16731116
+82,80,"georgianus","Taphozous","Common Sheath-tailed Bat",LC,S,-16731116
+83,79,"australis","Taphozous","Coastal Sheath-tailed Bat",NT,D,-12486656
+84,78,"kapalgensis","Taphozous","Arnhem Sheath-tailed Bat",LC,U,-16731116
+85,77,"hilli","Taphozous","Hill's Sheath-tailed Bat",LC,S,-16731116
+86,64,"theobaldi","Taphozous","Theobold's Bat",LC,U,-16731116
+88,87,"nudiventris","Taphozous","Naked-rumped Tomb Bat",LC,S,-16731116
+89,87,"hamiltoni","Taphozous","Hamilton's Tomb Bat",DD,U,-11513776
+93,92,"flaviventris","Saccolaimus","Yellow-bellied Sheath-tailed Bat",LC,D,-16731116
+94,92,"mixtus","Saccolaimus","Papuan Sheath-tailed Bat",DD,U,-11513776
+95,91,"saccolaimus","Saccolaimus","Bare-rumped Sheathtail-bat",LC,U,-16731116
+96,90,"peli","Saccolaimus","Pel's Pouched Bat",LC,U,-16731116

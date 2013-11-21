@@ -1,35 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"cachinus","Eothenomys","Kachin Red-backed Vole",LC,U,-16731116
-11,9,"melanogaster","Eothenomys","Pere David's Vole",LC,S,-16731116
-12,8,"miletus","Eothenomys","Yunnan Red-backed Vole",LC,U,-16731116
-14,13,"chinensis","Eothenomys","Sichuan Red-backed Vole",LC,U,-16731116
-15,13,"wardi","Eothenomys","Ward's Red-backed Vole",NT,U,-12486656
-16,6,"regulus","Myodes","Southern Red-backed Vole",LC,S,-16731116
-18,17,"proditor","Eothenomys","Yulongxuen Red-backed Vole",LC,U,-16731116
-19,17,"eva","Caryomys","Eva's Red-backed Vole",LC,U,-16731116
-20,4,"custos","Eothenomys","Southwest China Red-backed Vole",LC,U,-16731116
-23,22,"shanseius","Myodes","Shanxi Red-backed Vole",LC,U,-16731116
-24,22,"inez","Caryomys","Inez's Red-backed Vole",LC,U,-16731116
-25,21,"olitor","Eothenomys","Black-eared Red-backed Vole",LC,U,-16731116
-28,27,"andersoni","Myodes","Anderson's Red-backed Vole",LC,S,-16731116
-29,27,"imaizumii","Myodes","",NE,U,-16777216
-30,26,"smithii","Myodes","Smith's Red-backed Vole",LC,S,-16731116
-35,34,"rufocanus","Myodes","Grey Red-backed Vole",LC,D,-16731116
-36,34,"rex","Myodes","Hokkaido Red-backed Vole",LC,S,-16731116
-37,33,"californicus","Myodes","Western Red-backed Vole",LC,S,-16731116
-39,38,"gapperi","Myodes","Revillagigedo Island Red-backed Vole",LC,S,-16731116
-40,38,"glareolus","Myodes","Bank Vole",LC,S,-16731116
-42,41,"centralis","Myodes","Tien Shan Red-backed Vole",LC,U,-16731116
-43,41,"rutilus","Myodes","Northern Red-backed Vole",LC,U,-16731116
-52,51,"stoliczkanus","Alticola","Stoliczka's Mountain Vole",LC,U,-16731116
-53,51,"albicaudus","Alticola","White-tailed Mountain Vole",DD,U,-11513776
-55,54,"olchonensis","Alticola","Olkhon Mountain Vole",DD,U,-11513776
-56,54,"tuvinicus","Alticola","Tuva Silver Vole",LC,U,-16731116
-58,57,"barakshin","Alticola","Gobi Altai Mountain Vole",LC,U,-16731116
-59,57,"montosa","Alticola","Central Kashmir Vole",VU,D,-11184866
-60,48,"argentatus","Alticola","Silver Mountain Vole",LC,U,-16731116
-61,47,"roylei","Alticola","Royle's Mountain Vole",NT,D,-12486656
-63,62,"semicanus","Alticola","Mongolian Silver Vole",LC,U,-16731116
-64,62,"macrotis","Alticola","Large-eared Vole",LC,U,-16731116
-65,45,"lemminus","Alticola","Lemming Vole",LC,U,-16731116
-66,44,"strelzowi","Alticola","Flat-headed Vole",LC,U,-16731116
+7,6,"ruppi","Stenocephalemys","Rupp's Mouse",DD,U,-11513776
+8,6,"yemeni","Myomyscus","Yemeni Mouse",LC,U,-16731116
+9,5,"verreauxii","Myomyscus","Verreaux's Mouse",LC,S,-16731116
+10,4,"albipes","Stenocephalemys","Ethiopian White-footed Mouse",LC,S,-16731116
+13,12,"brockmani","Myomyscus","Brockman's Myomyscus",LC,S,-16731116
+14,12,"daltoni","Praomys","Dalton's Mouse",LC,S,-16731116
+15,11,"derooi","Praomys","Deroo's Mouse",LC,S,-16731116
+17,16,"griseicauda","Stenocephalemys","Gray-tailed Narrow-headed Rat",LC,D,-16731116
+18,16,"albocaudata","Stenocephalemys","Ethiopian Narrow-headed Rat",LC,S,-16731116
+24,23,"verschureni","Praomys","Verschuren's Swamp Rat",DD,U,-11513776
+25,23,"lukolelae","Praomys","Lukolela Swamp Rat",LC,U,-16731116
+26,22,"longipes","Malacomys","Big-eared Swamp Rat",LC,U,-16731116
+27,21,"cansdalei","Malacomys","Cansdale's Swamp Rat",LC,U,-16731116
+28,20,"edwardsi","Malacomys","Edward's Swamp Rat",LC,U,-16731116
+29,19,"crumpi","Diomys","Crump's Mouse",DD,U,-11513776
+36,35,"taerae","Taeromys","Northeastern Mountain Taeromys",DD,U,-11513776
+37,35,"punicans","Taeromys","Reddish-furred Taeromys",DD,U,-11513776
+38,34,"celebensis","Taeromys","Long-tailed Taeromys",LC,D,-16731116
+39,33,"arcuatus","Taeromys","Southeastern Mountain Taeromys",DD,S,-11513776
+40,32,"hamatus","Taeromys","Central Mountain Taeromys",DD,U,-11513776
+42,41,"microbullatus","Taeromys","Small-eared Taeromys",DD,U,-11513776
+43,41,"callitrichus","Taeromys","Greater Taeromys",DD,U,-11513776
+48,47,"siporanus","Leopoldamys","Mentawai Archipelago Leopoldamys",EN,D,-8572416
+49,47,"neilli","Leopoldamys","Neill's Leopoldamys",DD,U,-11513776
+50,46,"sabanus","Leopoldamys","Long-tailed Giant Rat",LC,S,-16731116
+53,52,"ciliatus","Leopoldamys","Sundaic Mountain Leopoldamys",LC,D,-16731116
+54,52,"edwardsi","Leopoldamys","Edward's Rat",LC,U,-16731116
+55,51,"milleti","Leopoldamys","Millet's Leopoldamys",LC,S,-16731116
+56,44,"dominator","Paruromys","Giant Sulawesi Rat",LC,S,-16731116

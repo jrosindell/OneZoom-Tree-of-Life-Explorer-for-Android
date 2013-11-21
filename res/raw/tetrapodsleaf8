@@ -1,52 +1,40 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"ludoviciana","Piranga","Western Tanager",LC,U,-16731116
-12,10,"olivacea","Piranga","Scarlet Tanager",LC,U,-16731116
-13,9,"bidentata","Piranga","Flame-coloured Tanager",LC,U,-16731116
-14,8,"flava","Piranga","Hepatic Tanager",LC,U,-16731116
-15,7,"rubra","Piranga","Summer Tanager",LC,U,-16731116
-16,6,"lutea","Piranga","Tooth-billed Tanager",_U,[,-16777216
-17,5,"hepatica","Piranga","Hepatic Tanager",_U,[,-16777216
-18,4,"roseogularis","Piranga","Rose-throated Tanager",LC,U,-16731116
-21,20,"leucoptera","Piranga","White-winged Tanager",LC,U,-16731116
-22,20,"rubriceps","Piranga","Red-hooded Tanager",LC,U,-16731116
-23,19,"erythrocephala","Piranga","Red-headed Tanager",LC,U,-16731116
-27,26,"erythromelas","Periporphyrus","Red-and-black Grosbeak",LC,U,-16731116
-28,26,"celaeno","Rhodothraupis","Crimson-collared Grosbeak",LC,U,-16731116
-30,29,"canadensis","Caryothraustes","Yellow-green Grosbeak",LC,U,-16731116
-31,29,"poliogaster","Caryothraustes","Black-faced Grosbeak",LC,U,-16731116
-34,33,"phoeniceus","Cardinalis","Vermilion Cardinal",LC,U,-16731116
-35,33,"cardinalis","Cardinalis","Northern Cardinal",LC,U,-16731116
-36,32,"sinuatus","Cardinalis","Pyrrhuloxia",LC,U,-16731116
-42,41,"olivacea","Chlorothraupis","Lemon-spectacled Tanager",LC,U,-16731116
-43,41,"carmioli","Chlorothraupis","Olive Tanager",LC,U,-16731116
-44,40,"frenata","Chlorothraupis","Olive Tanager",_U,[,-16777216
-45,39,"stolzmanni","Chlorothraupis","Ochre-breasted Tanager",LC,U,-16731116
-46,38,"rubica","Habia","Red-crowned Ant-tanager",LC,U,-16731116
-49,48,"atrimaxillaris","Habia","Black-cheeked Ant-tanager",EN,U,-8572416
-50,48,"gutturalis","Habia","Sooty Ant-tanager",NT,U,-12486656
-52,51,"fuscicauda","Habia","Red-throated Ant-tanager",LC,U,-16731116
-53,51,"cristata","Habia","Crested Ant-tanager",LC,U,-16731116
-62,61,"glaucocaerulea","Cyanoloxia","Glaucous-blue Grosbeak",LC,U,-16731116
-63,61,"brissonii","Cyanocompsa","Ultramarine Grosbeak",LC,U,-16731116
-64,60,"cyanoides","Cyanocompsa","Blue-black Grosbeak",LC,U,-16731116
-67,66,"carrizalensis","Amaurospiza","Carrizal Seedeater",CR,U,-3014646
-68,66,"moesta","Amaurospiza","Blackish-blue Seedeater",NT,U,-12486656
-69,65,"concolor","Amaurospiza","Blue Seedeater",LC,U,-16731116
-70,58,"parellina","Cyanocompsa","Blue Bunting",LC,U,-16731116
-76,75,"versicolor","Passerina","Varied Bunting",LC,U,-16731116
-77,75,"ciris","Passerina","Painted Bunting",NT,U,-12486656
-78,74,"leclancherii","Passerina","Orange-breasted Bunting",LC,U,-16731116
-79,73,"rositae","Passerina","Rose-bellied Bunting",NT,U,-12486656
-80,72,"cyanea","Passerina","Indigo Bunting",LC,U,-16731116
-82,81,"caerulea","Passerina","Blue Grosbeak",LC,U,-16731116
-83,81,"amoena","Passerina","Lazuli Bunting",LC,U,-16731116
-84,56,"americana","Spiza","Dickcissel",LC,U,-16731116
-87,86,"venustus","Granatellus","Red-breasted Chat",LC,U,-16731116
-88,86,"sallaei","Granatellus","Grey-throated Chat",LC,U,-16731116
-89,85,"pelzelni","Granatellus","Rose-breasted Chat",LC,U,-16731116
-94,93,"chrysogaster","Pheucticus","Golden-bellied Grosbeak",LC,U,-16731116
-95,93,"aureoventris","Pheucticus","Black-backed Grosbeak",LC,U,-16731116
-97,96,"melanocephalus","Pheucticus","Black-headed Grosbeak",LC,U,-16731116
-98,96,"ludovicianus","Pheucticus","Rose-breasted Grosbeak",LC,U,-16731116
-99,91,"chrysopeplus","Pheucticus","Yellow Grosbeak",LC,U,-16731116
-100,90,"tibialis","Pheucticus","Black-thighed Grosbeak",LC,U,-16731116
+11,10,"temporalis","Philautus","",EX,U,-16777036
+12,10,"popularis","Philautus","",LC,S,-16731116
+14,13,"nanus","Philautus","",EX,U,-16777036
+15,13,"rus","Philautus","",NT,S,-12486656
+16,8,"munnarensis","Philautus","",NE,U,-16777216
+17,7,"nerostagona","Philautus","",EN,D,-8572416
+20,19,"reticulatus","Philautus","",EN,D,-8572416
+21,19,"papillosus","Philautus","",CR,D,-3014646
+23,22,"nemus","Philautus","",CR,D,-3014646
+24,22,"simba","Philautus","",CR,D,-3014646
+25,5,"dubius","Philautus","",DD,U,-11513776
+26,4,"anili","Philautus","",LC,S,-16731116
+27,3,"wynaadensis","Philautus","",EN,D,-8572416
+28,2,"ingeri","Philautus","",VU,D,-11184866
+34,33,"oxyrhynchus","Philautus","",EX,U,-16777036
+35,33,"hypomelas","Philautus","",EX,U,-16777036
+36,32,"hosii","Philautus","",NT,D,-12486656
+37,31,"caeruleus","Philautus","",EN,D,-8572416
+40,39,"microtympanum","Philautus","",EN,D,-8572416
+41,39,"silus","Philautus","",EN,D,-8572416
+42,38,"steineri","Philautus","",EN,D,-8572416
+45,44,"aurifasciatus","Philautus","",LC,D,-16731116
+46,44,"flaviventris","Philautus","",DD,U,-11513776
+47,43,"jerdonii","Philautus","",DD,U,-11513776
+54,53,"zorro","Philautus","",EN,D,-8572416
+55,53,"alto","Philautus","",EN,D,-8572416
+56,52,"cuspis","Philautus","",EN,D,-8572416
+58,57,"malcolmsmithi","Philautus","",EX,U,-16777036
+59,57,"rugatus","Philautus","",EX,U,-16777036
+62,61,"glandulosus","Philautus","",VU,D,-11184866
+63,61,"bobingeri","Philautus","",VU,S,-11184866
+64,60,"amoenus","Philautus","",VU,S,-11184866
+65,49,"kempiae","Philautus","",DD,U,-11513776
+69,68,"tuberohumerus","Philautus","",DD,U,-11513776
+70,68,"bombayensis","Philautus","",VU,D,-11184866
+72,71,"ocularis","Philautus","",EN,D,-8572416
+73,71,"lunatus","Philautus","",CR,D,-3014646
+75,74,"worcesteri","Philautus","",VU,D,-11184866
+76,74,"stellatus","Philautus","",EX,U,-16777036

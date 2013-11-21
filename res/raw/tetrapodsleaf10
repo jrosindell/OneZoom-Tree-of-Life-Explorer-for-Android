@@ -1,101 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"cardonai","Myioborus","Saffron-breasted Redstart",NT,U,-12486656
-14,12,"castaneocapilla","Myioborus","Tepui Redstart",LC,U,-16731116
-15,11,"brunniceps","Myioborus","Brown-capped Redstart",LC,U,-16731116
-16,10,"pariae","Myioborus","Paria Redstart",EN,U,-8572416
-17,9,"albifacies","Myioborus","White-faced Redstart",LC,U,-16731116
-18,8,"torquatus","Myioborus","Collared Redstart",LC,U,-16731116
-22,21,"melanocephalus","Myioborus","Spectacled Redstart",LC,U,-16731116
-23,21,"ornatus","Myioborus","Golden-fronted Redstart",LC,U,-16731116
-24,20,"albifrons","Myioborus","White-fronted Redstart",NT,U,-12486656
-25,19,"flavivertex","Myioborus","Yellow-crowned Redstart",LC,U,-16731116
-26,6,"miniatus","Myioborus","Slate-throated Redstart",LC,U,-16731116
-27,5,"pictus","Myioborus","Painted Redstart",LC,U,-16731116
-32,31,"versicolor","Ergaticus","Pink-headed Warbler",VU,U,-11184866
-33,31,"ruber","Ergaticus","Red Warbler",LC,U,-16731116
-34,30,"rubrifrons","Cardellina","Red-faced Warbler",LC,U,-16731116
-35,29,"pusilla","Wilsonia","Wilson's Warbler",LC,U,-16731116
-36,28,"canadensis","Wilsonia","Canada Warbler",LC,U,-16731116
-41,40,"culicivorus","Basileuterus","Golden-crowned Warbler",LC,U,-16731116
-42,40,"hypoleucus","Basileuterus","White-bellied Warbler",LC,U,-16731116
-44,43,"tristriatus","Basileuterus","Three-striped Warbler",LC,U,-16731116
-45,43,"trifasciatus","Basileuterus","Three-banded Warbler",LC,U,-16731116
-46,38,"ignotus","Basileuterus","Pirre Warbler",VU,U,-11184866
-50,49,"melanogenys","Basileuterus","Black-cheeked Warbler",LC,U,-16731116
-51,49,"belli","Basileuterus","Golden-browed Warbler",LC,U,-16731116
-52,48,"rufifrons","Basileuterus","Rufous-capped Warbler",LC,U,-16731116
-53,47,"lachrymosa","Euthlypis","Fan-tailed Warbler",LC,U,-16731116
-59,58,"leucoblepharus","Basileuterus","White-browed Warbler",LC,U,-16731116
-60,58,"flaveolus","Basileuterus","Flavescent Warbler",LC,U,-16731116
-61,57,"leucophrys","Basileuterus","White-striped Warbler",LC,U,-16731116
-64,63,"basilicus","Basileuterus","Santa Marta Warbler",VU,U,-11184866
-65,63,"signatus","Basileuterus","Pale-legged Warbler",LC,U,-16731116
-66,62,"luteoviridis","Basileuterus","Citrine Warbler",LC,U,-16731116
-69,68,"rivularis","Phaeothlypis","Neotropical River Warbler",LC,U,-16731116
-70,68,"fulvicauda","Phaeothlypis","Buff-rumped Warbler",LC,U,-16731116
-71,67,"nigrocristatus","Basileuterus","Black-crested Warbler",LC,U,-16731116
-76,75,"cinereicollis","Basileuterus","Grey-throated Warbler",NT,U,-12486656
-77,75,"conspicillatus","Basileuterus","White-lored Warbler",NT,U,-12486656
-79,78,"chrysogaster","Basileuterus","Golden-bellied Warbler",LC,U,-16731116
-80,78,"bivittatus","Basileuterus","Two-banded Warbler",LC,U,-16731116
-81,73,"fraseri","Basileuterus","Grey-and-gold Warbler",LC,U,-16731116
-84,83,"griseiceps","Basileuterus","Grey-headed Warbler",EN,U,-8572416
-85,83,"chlorophrys","Basileuterus","Choco Warbler",_U,[,-16777216
-86,82,"coronatus","Basileuterus","Russet-crowned Warbler",LC,U,-16731116
-99,98,"virens","Dendroica","Black-throated Green Warbler",LC,U,-16731116
-100,98,"chrysoparia","Dendroica","Golden-cheeked Warbler",EN,U,-8572416
-102,101,"townsendi","Dendroica","Townsend's Warbler",LC,U,-16731116
-103,101,"occidentalis","Dendroica","Hermit Warbler",LC,U,-16731116
-105,104,"nigrescens","Dendroica","Black-throated Grey Warbler",LC,U,-16731116
-106,104,"graciae","Dendroica","Grace's Warbler",LC,U,-16731116
-107,95,"adelaidae","Dendroica","Adelaide's Warbler",LC,U,-16731116
-109,108,"vitellina","Dendroica","Vitelline Warbler",NT,U,-12486656
-110,108,"discolor","Dendroica","Prairie Warbler",LC,U,-16731116
-115,114,"pityophila","Dendroica","Olive-capped Warbler",LC,U,-16731116
-116,114,"pinus","Dendroica","Pine Warbler",LC,U,-16731116
-117,113,"dominica","Dendroica","Yellow-throated Warbler",LC,U,-16731116
-118,112,"coronata","Dendroica","Yellow-rumped Warbler",LC,U,-16731116
-119,111,"palmarum","Dendroica","Palm Warbler",LC,U,-16731116
-122,121,"caerulescens","Dendroica","Black-throated Blue Warbler",LC,U,-16731116
-123,121,"delicata","Dendroica","St Lucia Warbler",LC,U,-16731116
-124,120,"ruticilla","Setophaga","American Redstart",LC,U,-16731116
-131,130,"pensylvanica","Dendroica","Chestnut-sided Warbler",LC,U,-16731116
-132,130,"petechia","Dendroica","Yellow Warbler",LC,U,-16731116
-134,133,"castanea","Dendroica","Bay-breasted Warbler",LC,U,-16731116
-135,133,"striata","Dendroica","Blackpoll Warbler",LC,U,-16731116
-136,128,"fusca","Dendroica","Blackburnian Warbler",LC,U,-16731116
-137,127,"kirtlandii","Dendroica","Kirtland's Warbler",NT,U,-12486656
-138,126,"tigrina","Dendroica","Cape May Warbler",LC,U,-16731116
-141,140,"americana","Parula","Northern Parula",LC,U,-16731116
-142,140,"pitiayumi","Parula","Tropical Parula",LC,U,-16731116
-143,139,"cerulea","Dendroica","Cerulean Warbler",VU,U,-11184866
-146,145,"aestiva","Dendroica","American Yellow Warbler",_U,[,-16777216
-147,145,"magnolia","Dendroica","Magnolia Warbler",LC,U,-16731116
-148,144,"subita","Dendroica","Barbuda Warbler",NT,U,-12486656
-149,89,"citrina","Wilsonia","Hooded Warbler",LC,U,-16731116
-152,151,"pharetra","Dendroica","Arrowhead Warbler",LC,U,-16731116
-153,151,"plumbea","Dendroica","Plumbeous Warbler",LC,U,-16731116
-154,150,"angelae","Dendroica","Elfin-woods Warbler",VU,U,-11184866
-155,87,"bishopi","Catharopeza","Whistling Warbler",EN,U,-8572416
-167,166,"flavovelata","Geothlypis","Altamira Yellowthroat",VU,U,-11184866
-168,166,"nelsoni","Geothlypis","Hooded Yellowthroat",LC,U,-16731116
-169,165,"trichas","Geothlypis","Common Yellowthroat",LC,U,-16731116
-170,164,"rostrata","Geothlypis","Bahama Yellowthroat",LC,U,-16731116
-171,163,"beldingi","Geothlypis","Belding's Yellowthroat",CR,U,-3014646
-172,162,"semiflava","Geothlypis","Olive-crowned Yellowthroat",LC,U,-16731116
-173,161,"speciosa","Geothlypis","Black-polled Yellowthroat",EN,U,-8572416
-177,176,"poliocephala","Geothlypis","Grey-crowned Yellowthroat",LC,U,-16731116
-178,176,"velata","Geothlypis","Southern Yellowthroat",_U,[,-16777216
-179,175,"auricularis","Geothlypis","Black-lored Yellowthroat",_U,[,-16777216
-181,180,"aequinoctialis","Geothlypis","Masked Yellowthroat",LC,U,-16731116
-182,180,"chiriquensis","Geothlypis","Chiriqui Yellowthroat",_U,[,-16777216
-186,185,"tolmiei","Oporornis","MacGillivray's Warbler",LC,U,-16731116
-187,185,"philadelphia","Oporornis","Mourning Warbler",LC,U,-16731116
-188,184,"agilis","Oporornis","Connecticut Warbler",LC,U,-16731116
-189,183,"formosus","Oporornis","Kentucky Warbler",LC,U,-16731116
-190,158,"semperi","Leucopeza","Semper's Warbler",CR,U,-3014646
-192,191,"swainsonii","Limnothlypis","Swainson's Warbler",LC,U,-16731116
-193,191,"citrea","Protonotaria","Prothonotary Warbler",LC,U,-16731116
-196,195,"noveboracensis","Seiurus","Northern Waterthrush",LC,U,-16731116
-197,195,"motacilla","Seiurus","Louisiana Waterthrush",LC,U,-16731116
-198,194,"varia","Mniotilta","Black-and-white Warbler",LC,U,-16731116
+7,6,"grayii","Strongylopus","Gray's Stream Frog",LC,S,-16731116
+8,6,"kilimanjaro","Strongylopus","",DD,U,-11513776
+9,5,"fasciatus","Strongylopus","Striped Stream Frog",LC,S,-16731116
+11,10,"springbokensis","Strongylopus","Namaqua Stream Frog",VU,D,-11184866
+12,10,"hymenopus","Strongylopus","Drakensberg Stream Frog",LC,U,-16731116
+16,15,"fuelleborni","Strongylopus","Fuelleborn's Stream Frog",LC,D,-16731116
+17,15,"rhodesianus","Strongylopus","Chimanimani Stream Frog",VU,D,-11184866
+18,14,"wageri","Strongylopus","Wager's Stream Frog",NT,D,-12486656
+19,13,"bonaespei","Strongylopus","Banded Stream Frog",LC,S,-16731116
+21,20,"merumontanus","Strongylopus","",VU,S,-11184866
+22,20,"kitumbeine","Strongylopus","",VU,S,-11184866
+29,28,"poyntoni","Cacosternum","Poynton's Caco",DD,U,-11513776
+30,28,"striatum","Cacosternum","Striped Caco",DD,U,-11513776
+31,27,"nanum","Cacosternum","Bronze Caco",LC,S,-16731116
+32,26,"platys","Cacosternum","Flat Caco",LC,S,-16731116
+34,33,"namaquense","Cacosternum","Namaqua Caco",LC,S,-16731116
+35,33,"leleupi","Cacosternum","Katanga Caco",DD,U,-11513776
+38,37,"boettgeri","Cacosternum","Boettger's Dainty Frog",LC,U,-16731116
+39,37,"karooicum","Cacosternum","Karoo Dainty Frog",DD,U,-11513776
+40,36,"capense","Cacosternum","Cape Caco",VU,D,-11184866
+42,41,"hewitti","Anhydrophryne","Hewitt's Moss Frog",LC,S,-16731116
+43,41,"rattrayi","Anhydrophryne","Hogsback Frog",EN,D,-8572416
+49,48,"inyangae","Amietia","Inyangani River Frog",EN,D,-8572416
+50,48,"vertebralis","Amietia","Ice Frog",LC,U,-16731116
+52,51,"dracomontana","Amietia","Drakensberg River Frog",LC,S,-16731116
+53,51,"wittei","Amietia","",DD,U,-11513776
+54,46,"vandijki","Amietia","",DD,U,-11513776
+55,45,"fuscigula","Amietia","Cape River Frog",LC,S,-16731116
+59,58,"angolensis","Amietia","Angola River Frog",LC,S,-16731116
+60,58,"desaegeri","Amietia","",DD,U,-11513776
+62,61,"johnstoni","Amietia","Johnston's River Frog",EN,D,-8572416
+63,61,"amieti","Amietia","",DD,U,-11513776
+64,56,"ruwenzorica","Amietia","",DD,U,-11513776

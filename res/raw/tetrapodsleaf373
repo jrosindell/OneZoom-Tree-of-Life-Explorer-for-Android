@@ -1,103 +1,46 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,12,"mysorensis","Fejervarya","",DD,U,-11513776
-14,12,"raja","Fejervarya","",DD,U,-11513776
-15,11,"brevipalmata","Fejervarya","Short-webbed Frog",DD,U,-11513776
-18,17,"assimilis","Fejervarya","",DD,U,-11513776
-19,17,"murthii","Fejervarya","",CR,D,-3014646
-20,16,"pierrei","Fejervarya","Pierre's Wart Frog",LC,S,-16731116
-23,22,"nicobariensis","Fejervarya","",EN,D,-8572416
-24,22,"orissaensis","Fejervarya","",LC,S,-16731116
-26,25,"andamanensis","Fejervarya","",LC,S,-16731116
-27,25,"greenii","Fejervarya","",EN,D,-8572416
-30,29,"limnocharis","Fejervarya","Asian Grass Frog",LC,S,-16731116
-31,29,"nilagirica","Fejervarya","",EN,D,-8572416
-32,28,"teraiensis","Fejervarya","Terai Wart Frog",LC,S,-16731116
-34,33,"vittigera","Fejervarya","",LC,S,-16731116
-35,33,"iskandari","Fejervarya","",LC,S,-16731116
-36,6,"multistriata","Fejervarya","",DD,U,-11513776
-41,40,"parambikulamana","Fejervarya","",DD,U,-11513776
-42,40,"sauriceps","Fejervarya","",DD,U,-11513776
-43,39,"cancrivora","Fejervarya","Asian Brackish Frog",LC,I,-16731116
-44,38,"keralensis","Fejervarya","Kerala Warty Frog",LC,S,-16731116
-45,37,"altilabris","Fejervarya","",DD,U,-11513776
-54,53,"mokokchungensis","Nanorana","",DD,U,-11513776
-55,53,"rostandi","Nanorana","",VU,D,-11184866
-57,56,"yunnanensis","Nanorana","",EN,D,-8572416
-58,56,"arnoldi","Nanorana","",NT,D,-12486656
-59,51,"bourreti","Nanorana","",DD,U,-11513776
-63,62,"blanfordii","Nanorana","",LC,D,-16731116
-64,62,"aenea","Nanorana","",DD,U,-11513776
-65,61,"unculuanus","Nanorana","",EN,D,-8572416
-67,66,"annandalii","Nanorana","",NT,D,-12486656
-68,66,"quadranus","Nanorana","",NT,D,-12486656
-73,72,"taihangnica","Nanorana","",DD,U,-11513776
-74,72,"ercepeae","Nanorana","",NT,D,-12486656
-75,71,"maculosa","Nanorana","",EN,D,-8572416
-77,76,"conaensis","Nanorana","",DD,U,-11513776
-78,76,"rarica","Nanorana","",DD,U,-11513776
-79,69,"parkeri","Nanorana","",LC,S,-16731116
-84,83,"ventripunctata","Nanorana","",LC,S,-16731116
-85,83,"minica","Nanorana","",VU,D,-11184866
-86,82,"liebigii","Nanorana","",LC,D,-16731116
-88,87,"pleskei","Nanorana","",NT,D,-12486656
-89,87,"vicina","Nanorana","",LC,U,-16731116
-93,92,"polunini","Nanorana","",LC,D,-16731116
-94,92,"liui","Nanorana","",VU,D,-11184866
-95,91,"medogensis","Nanorana","",DD,U,-11513776
-96,90,"feae","Nanorana","",DD,U,-11513776
-97,47,"sternosignata","Chrysopaa","",LC,S,-16731116
-98,46,"hazarensis","Allopaa","",LC,S,-16731116
-104,103,"fasciculispina","Quasipaa","",VU,D,-11184866
-105,103,"exilispinosa","Quasipaa","",VU,D,-11184866
-106,102,"shini","Quasipaa","",VU,D,-11184866
-107,101,"jiulongensis","Quasipaa","",VU,D,-11184866
-109,108,"robertingeri","Quasipaa","",EN,D,-8572416
-110,108,"yei","Quasipaa","",DD,U,-11513776
-113,112,"verrucospinosa","Quasipaa","",NT,D,-12486656
-114,112,"boulengeri","Quasipaa","",EN,D,-8572416
-115,111,"spinosa","Quasipaa","",VU,D,-11184866
-124,123,"leporinus","Limnonectes","Giant River Frog",LC,D,-16731116
-125,123,"kadarsani","Limnonectes","",LC,D,-16731116
-130,129,"palavanensis","Limnonectes","",LC,D,-16731116
-131,129,"arathooni","Limnonectes","",EN,D,-8572416
-132,128,"woodworthi","Limnonectes","",LC,S,-16731116
-133,127,"dammermani","Limnonectes","",NT,U,-12486656
-136,135,"mawlyndipi","Limnonectes","",DD,U,-11513776
-137,135,"parvus","Limnonectes","",VU,D,-11184866
-138,134,"finchi","Limnonectes","",LC,D,-16731116
-142,141,"dabanus","Limnonectes","",DD,U,-11513776
-143,141,"diuatus","Limnonectes","",VU,D,-11184866
-144,140,"kuhlii","Limnonectes","Kuhl's Creek Frog",LC,D,-16731116
-145,139,"namiyei","Limnonectes","",EN,D,-8572416
-147,146,"macrognathus","Limnonectes","",DD,U,-11513776
-148,146,"asperatus","Limnonectes","",NT,D,-12486656
-151,150,"laticeps","Limnonectes","Broad-headed Frog",LC,S,-16731116
-152,150,"nitidus","Limnonectes","",EN,D,-8572416
-154,153,"gyldenstolpei","Limnonectes","",LC,D,-16731116
-155,153,"tweediei","Limnonectes","",NT,D,-12486656
-157,156,"fujianensis","Limnonectes","",LC,U,-16731116
-158,156,"plicatellus","Limnonectes","",LC,D,-16731116
-160,159,"hascheanus","Limnonectes","",LC,U,-16731116
-161,159,"limborgi","Limnonectes","",DD,U,-11513776
-168,167,"lima","Occidozyga","Green Puddle Frog",LC,U,-16731116
-169,167,"vittata","Occidozyga","",DD,U,-11513776
-170,166,"magnapustulosa","Occidozyga","",LC,U,-16731116
-172,171,"sumatrana","Occidozyga","Sumatran Puddle Frog",LC,D,-16731116
-173,171,"baluensis","Occidozyga","Seep Frog",NT,D,-12486656
-177,176,"celebensis","Occidozyga","Sulawesian Puddle Frog",LC,S,-16731116
-178,176,"laevis","Occidozyga","Common Puddle Frog",LC,S,-16731116
-179,175,"martensii","Occidozyga","Round-tongued Floating Frog",LC,S,-16731116
-180,174,"floresiana","Occidozyga","",DD,U,-11513776
-183,182,"diminutiva","Occidozyga","Small-headed Frog",VU,D,-11184866
-184,182,"semipalmata","Occidozyga","",LC,D,-16731116
-185,181,"borealis","Occidozyga","Northern Frog",VU,D,-11184866
-192,191,"tasanae","Ingerana","",VU,D,-11184866
-193,191,"liui","Ingerana","",VU,D,-11184866
-194,190,"alpina","Ingerana","",DD,U,-11513776
-195,189,"reticulata","Ingerana","",DD,U,-11513776
-196,188,"medogensis","Ingerana","",DD,U,-11513776
-198,197,"tenasserimensis","Ingerana","",LC,D,-16731116
-199,197,"charlesdarwini","Ingerana","",CR,D,-3014646
-202,201,"baluensis","Ingerana","",LC,D,-16731116
-203,201,"mariae","Ingerana","",DD,U,-11513776
-204,200,"xizangensis","Ingerana","",DD,D,-11513776
+11,10,"aduncus","Tursiops","Indo-pacific Bottlenose Dolphin",DD,U,-11513776
+12,10,"truncatus","Tursiops","Common Bottlenose Dolphin",LC,U,-16731116
+14,13,"coeruleoalba","Stenella","Striped Dolphin",LC,U,-16731116
+15,13,"clymene","Stenella","Clymene Dolphin",DD,U,-11513776
+18,17,"delphis","Delphinus","Short-beaked Common Dolphin",LC,U,-16731116
+19,17,"capensis","Delphinus","Long-beaked Common Dolphin",DD,U,-11513776
+20,16,"attenuata","Stenella","Pantropical Spotted Dolphin",LC,U,-16731116
+21,7,"frontalis","Stenella","Atlantic Spotted Dolphin",DD,U,-11513776
+23,22,"chinensis","Sousa","Indo-pacific Hump-backed Dolphin",NT,D,-12486656
+24,22,"teuszii","Sousa","Atlantic Humpbacked Dolphin",VU,D,-11184866
+25,5,"orca","Orcinus","Killer Whale",DD,U,-11513776
+30,29,"acutus","Lagenorhynchus","Atlantic White-sided Dolphin",LC,U,-16731116
+31,29,"griseus","Grampus","Risso's Dolphin",LC,U,-16731116
+33,32,"brevirostris","Orcaella","Irrawaddy Dolphin",VU,D,-11184866
+34,32,"longirostris","Stenella","Spinner Dolphin",DD,U,-11513776
+35,27,"hosei","Lagenodelphis","Fraser's Dolphin",LC,U,-16731116
+37,36,"albirostris","Lagenorhynchus","White-beaked Dolphin",LC,U,-16731116
+38,36,"fluviatilis","Sotalia","Estuarine Dolphin",DD,U,-11513776
+46,45,"commersonii","Cephalorhynchus","Commerson's Dolphin",DD,U,-11513776
+47,45,"eutropia","Cephalorhynchus","Chilean Dolphin",NT,D,-12486656
+48,44,"hectori","Cephalorhynchus","Hector's Dolphin",EN,D,-8572416
+49,43,"heavisidii","Cephalorhynchus","Heaviside's Dolphin",DD,U,-11513776
+52,51,"obliquidens","Lagenorhynchus","Pacific White-sided Dolphin",LC,U,-16731116
+53,51,"obscurus","Lagenorhynchus","Dusky Dolphin",DD,U,-11513776
+55,54,"cruciger","Lagenorhynchus","Hourglass Dolphin",LC,U,-16731116
+56,54,"australis","Lagenorhynchus","Peale's Dolphin",DD,U,-11513776
+58,57,"borealis","Lissodelphis","Northern Right Whale Dolphin",LC,U,-16731116
+59,57,"peronii","Lissodelphis","Southern Right Whale Dolphin",DD,U,-11513776
+63,62,"macrorhynchus","Globicephala","Short-finned Pilot Whale",DD,U,-11513776
+64,62,"melas","Globicephala","Long-finned Pilot Whale",DD,U,-11513776
+66,65,"crassidens","Pseudorca","False Killer Whale",DD,U,-11513776
+67,65,"attenuata","Feresa","Pygmy Killer Whale",DD,U,-11513776
+68,60,"electra","Peponocephala","Melon-headed Whale",LC,U,-16731116
+69,39,"bredanensis","Steno","Rough-toothed Dolphin",LC,U,-16731116
+74,73,"dioptrica","Phocoena","Spectacled Porpoise",DD,U,-11513776
+75,73,"phocoena","Phocoena","Harbour Porpoise",LC,U,-16731116
+76,72,"phocaenoides","Neophocaena","Finless Porpoise",VU,D,-11184866
+77,71,"dalli","Phocoenoides","Dall's Porpoise",LC,U,-16731116
+79,78,"spinipinnis","Phocoena","Burmeister's Porpoise",DD,U,-11513776
+80,78,"sinus","Phocoena","Vaquita",CR,D,-3014646
+82,81,"leucas","Delphinapterus","Beluga",NT,U,-12486656
+83,81,"monoceros","Monodon","Narwhal",NT,U,-12486656
+86,85,"blainvillei","Pontoporia","Franciscana",VU,D,-11184866
+87,85,"geoffrensis","Inia","Boto",DD,U,-11513776
+88,84,"vexillifer","Lipotes","Changjiang Dolphin",CR,U,-3014646

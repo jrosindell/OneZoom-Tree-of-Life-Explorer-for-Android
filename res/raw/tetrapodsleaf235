@@ -1,99 +1,84 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"levipes","Peromyscus","Nimble-footed Deer Mouse",LC,U,-16731116
-17,15,"sagax","Peromyscus","Michoacan Deer Mouse",DD,U,-11513776
-18,14,"beatae","Peromyscus","Orizaba Deermouse",LC,U,-16731116
-20,19,"hylocetes","Peromyscus","Transvolcanic Deermouse",LC,S,-16731116
-21,19,"aztecus","Peromyscus","Aztec Mouse",LC,S,-16731116
-23,22,"caniceps","Peromyscus","Monserrat Island Deermouse",CR,D,-3014646
-24,22,"crinitus","Peromyscus","Canyon Mouse",LC,S,-16731116
-25,11,"merriami","Peromyscus","Mesquite Mouse",LC,U,-16731116
-28,27,"maniculatus","Peromyscus","North American Deermouse",LC,S,-16731116
-29,27,"mexicanus","Peromyscus","Mexican Deer Mouse",LC,S,-16731116
-31,30,"guatemalensis","Peromyscus","Guatamalan Deer Mouse",LC,S,-16731116
-32,30,"furvus","Peromyscus","Blackish Deer Mouse",DD,U,-11513776
-37,36,"winkelmanni","Peromyscus","Coalcolman Deer Mouse",EN,D,-8572416
-38,36,"nasutus","Peromyscus","Northern Rock Mouse",LC,U,-16731116
-39,35,"stephani","Peromyscus","San Esteban Deermouse",CR,D,-3014646
-41,40,"zarhynchus","Peromyscus","Chiapan Deer Mouse",VU,D,-11184866
-42,40,"slevini","Peromyscus","Catalina Deer Mouse",CR,D,-3014646
-44,43,"pseudocrinitus","Peromyscus","Coronados Deer Mouse",CR,D,-3014646
-45,43,"megalops","Peromyscus","Broad-faced Deer Mouse",LC,U,-16731116
-50,49,"gymnotis","Peromyscus","Naked-eared Deer Mouse",LC,D,-16731116
-51,49,"spicilegus","Peromyscus","Gleaning Deer Mouse",LC,D,-16731116
-53,52,"hooperi","Peromyscus","Hooper's Deer Mouse",LC,S,-16731116
-54,52,"boylii","Peromyscus","Brush Mouse",LC,S,-16731116
-55,47,"madrensis","Peromyscus","Tres Marias Deer Mouse",EN,D,-8572416
-60,59,"melanocarpus","Peromyscus","Black-wristed Deer Mouse",EN,U,-8572416
-61,59,"mayensis","Peromyscus","Maya Mouse",CR,D,-3014646
-62,58,"bullatus","Peromyscus","Perote Deer Mouse",CR,D,-3014646
-63,57,"gratus","Peromyscus","Osgood's Mouse",LC,U,-16731116
-64,56,"guardia","Peromyscus","Angel Island Mouse",CR,D,-3014646
-66,65,"difficilis","Peromyscus","Rock Mouse",LC,S,-16731116
-67,65,"truei","Peromyscus","Pinyon Mouse",LC,S,-16731116
-75,74,"lophurus","Habromys","Crested-tailed Deer Mouse",NT,D,-12486656
-76,74,"simulatus","Habromys","Jico Deer Mouse",EN,D,-8572416
-78,77,"lepturus","Habromys","Slender-tailed Deer Mouse",CR,D,-3014646
-79,77,"ixtlani","Habromys","Ixtlan Deer Mouse",CR,D,-3014646
-80,72,"chinanteco","Habromys","Chinanteco Deer Mouse",CR,D,-3014646
-81,71,"alstoni","Neotomodon","Mexican Volcano Mouse",LC,S,-16731116
-82,70,"floridanus","Podomys","Florida Deermouse",VU,D,-11184866
-83,69,"banderanus","Osgoodomys","Michoacan Deer Mouse",LC,U,-16731116
-86,85,"cryophilus","Megadontomys","Oaxaca Giant Deer Mouse",EN,D,-8572416
-87,85,"thomasi","Megadontomys","Thomas's Giant Deer Mouse",EN,D,-8572416
-88,84,"nelsoni","Megadontomys","Nelson's Giant Deer Mouse",EN,D,-8572416
-91,90,"leucogaster","Onychomys","Northern Grasshopper Mouse",LC,S,-16731116
-92,90,"torridus","Onychomys","Southern Grasshopper Mouse",LC,S,-16731116
-93,89,"arenicola","Onychomys","Mearns's Grasshopper Mouse",LC,S,-16731116
-95,94,"pirrensis","Isthmomys","Mt. Pirri Isthmus Rat",LC,U,-16731116
-96,94,"flavidus","Isthmomys","Yellow Isthmus Rat",NT,U,-12486656
-102,101,"brevirostris","Reithrodontomys","Short-nosed Harvest Mouse",LC,S,-16731116
-103,101,"darienensis","Reithrodontomys","Darien Harvest Mouse",LC,S,-16731116
-104,100,"gracilis","Reithrodontomys","Slender Harvest Mouse",LC,S,-16731116
-107,106,"paradoxus","Reithrodontomys","Nicaraguan Harvest Mouse",DD,U,-11513776
-108,106,"spectabilis","Reithrodontomys","Cozumel Harvest Mouse",CR,D,-3014646
-109,105,"mexicanus","Reithrodontomys","Mexican Harvest Mouse",LC,S,-16731116
-113,112,"microdon","Reithrodontomys","Small-toothed Harvest Mouse",VU,D,-11184866
-114,112,"rodriguezi","Reithrodontomys","Rodriguez's Harvest Mouse",LC,S,-16731116
-115,111,"creper","Reithrodontomys","Chiriqui Harvest Mouse",LC,S,-16731116
-116,110,"tenuirostris","Reithrodontomys","Narrow-nosed Harvest Mouse",VU,D,-11184866
-123,122,"sumichrasti","Reithrodontomys","Sumachrasti's Harvest Mouse",LC,S,-16731116
-124,122,"montanus","Reithrodontomys","Plains Harvest Mouse",LC,S,-16731116
-125,121,"raviventris","Reithrodontomys","Saltmarsh Harvest Mouse",EN,D,-8572416
-126,120,"zacatecae","Reithrodontomys","Zacatecas Harvest Mouse",LC,U,-16731116
-127,119,"humulis","Reithrodontomys","Eastern Harvest Mouse",LC,S,-16731116
-130,129,"chrysopsis","Reithrodontomys","Volcano Harvest Mouse",LC,U,-16731116
-131,129,"burti","Reithrodontomys","Sonoran Harvest Mouse",DD,U,-11513776
-132,128,"megalotis","Reithrodontomys","Southern Marsh Harvest Mouse",LC,S,-16731116
-134,133,"fulvescens","Reithrodontomys","Fulvous Harvest Mouse",LC,S,-16731116
-135,133,"hirsutus","Reithrodontomys","Hairy Harvest Mouse",VU,D,-11184866
-139,138,"xerampelinus","Scotinomys","Chiriqui Brown Mouse",LC,S,-16731116
-140,138,"teguina","Scotinomys","Alston's Brown Mouse",LC,S,-16731116
-142,141,"musculus","Baiomys","Southern Pygmy Mouse",LC,S,-16731116
-143,141,"taylori","Baiomys","Northern Pygmy Mouse",LC,S,-16731116
-144,136,"nuttalli","Ochrotomys","Golden Mouse",LC,S,-16731116
-155,154,"martinensis","Neotoma","San Martin Island Woodrat",EX,U,-16777036
-156,154,"devia","Neotoma","Arizona Woodrat",LC,S,-16731116
-157,153,"palatina","Neotoma","Bolano's Woodrat",VU,D,-11184866
-158,152,"lepida","Neotoma","Desert Woodrat",LC,S,-16731116
-159,151,"micropus","Neotoma","Southern Plains Woodrat",LC,S,-16731116
-161,160,"nelsoni","Neotoma","Nelson's Woodrat",CR,D,-3014646
-162,160,"mexicana","Neotoma","Mexican Woodrat",LC,S,-16731116
-168,167,"magister","Neotoma","Allegheny Woodrat",NT,D,-12486656
-169,167,"floridana","Neotoma","Eastern Woodrat",LC,D,-16731116
-170,166,"goldmani","Neotoma","Goldman's Woodrat",LC,D,-16731116
-171,165,"angustapalata","Neotoma","Tamaulipan Woodrat",EN,D,-8572416
-172,164,"chrysomelas","Neotoma","Nicaraguan Woodrat",LC,S,-16731116
-173,163,"stephensi","Neotoma","Stephen's Woodrat",LC,S,-16731116
-178,177,"albigula","Neotoma","White-throated Woodrat",LC,S,-16731116
-179,177,"leucodon","Neotoma","White-toothed Woodrat",LC,S,-16731116
-180,176,"bryanti","Neotoma","Bryant's Woodrat",EN,D,-8572416
-181,175,"anthonyi","Neotoma","Anthony's Woodrat",EX,U,-16777036
-182,174,"bunkeri","Neotoma","Bunkers Woodrat",EX,U,-16777036
-186,185,"fuscipes","Neotoma","Dusky-footed Woodrat",LC,S,-16731116
-187,185,"macrotis","Neotoma","Big-eared Woodrat",LC,U,-16731116
-188,184,"cinerea","Neotoma","Bushy-tailed Woodrat",LC,S,-16731116
-189,183,"phenax","Neotoma","Sonoran Woodrat",NT,D,-12486656
-191,190,"alleni","Hodomys","Allen's Woodrat",LC,S,-16731116
-192,190,"nelsoni","Xenomys","Magdalena Rat",EN,D,-8572416
-194,193,"goldmani","Nelsonia","Nelson And Coldman's Woodrat",EN,D,-8572416
-195,193,"neotomodon","Nelsonia","Diminutive Woodrat",NT,D,-12486656
+19,18,"poecilocercus","Knipolegus","Amazonian Black-tyrant",LC,U,-16731116
+20,18,"aterrimus","Knipolegus","White-winged Black-tyrant",LC,U,-16731116
+21,17,"cyanirostris","Knipolegus","Blue-billed Black-tyrant",LC,U,-16731116
+23,22,"hudsoni","Knipolegus","Hudson's Black-tyrant",LC,U,-16731116
+24,22,"striaticeps","Knipolegus","Cinereous Tyrant",LC,U,-16731116
+25,15,"signatus","Knipolegus","Andean Tyrant",LC,U,-16731116
+28,27,"nigerrimus","Knipolegus","Velvety Black-tyrant",LC,U,-16731116
+29,27,"lophotes","Knipolegus","Crested Black-tyrant",LC,U,-16731116
+30,26,"franciscanus","Knipolegus","Brazilian Black-tyrant",NT,U,-12486656
+32,31,"poecilurus","Knipolegus","Rufous-tailed Tyrant",LC,U,-16731116
+33,31,"orenocensis","Knipolegus","Riverside Tyrant",LC,U,-16731116
+34,12,"perspicillatus","Hymenops","Spectacled Tyrant",LC,U,-16731116
+36,35,"rufa","Lessonia","Patagonian Negrito",LC,U,-16731116
+37,35,"oreas","Lessonia","Andean Negrito",LC,U,-16731116
+38,6,"brevicauda","Muscigralla","Short-tailed Field-tyrant",LC,U,-16731116
+45,44,"griseiceps","Phyllomyias","Sooty-headed Tyrannulet",LC,U,-16731116
+46,44,"fasciatus","Phyllomyias","Planalto Tyrannulet",LC,U,-16731116
+47,43,"flaveola","Capsiempis","Yellow Tyrannulet",LC,U,-16731116
+49,48,"murina","Phaeomyias","Mouse-coloured Tyrannulet",LC,U,-16731116
+50,48,"tumbezana","Phaeomyias","Tumbesian Tyrannulet",_U,[,-16777216
+56,55,"ochraceiventris","Myiophobus","Ochraceous-breasted Flycatcher",LC,U,-16731116
+57,55,"lintoni","Myiophobus","Orange-banded Flycatcher",NT,U,-12486656
+58,54,"pulcher","Myiophobus","Handsome Flycatcher",LC,U,-16731116
+59,53,"ornatus","Myiotriccus","Ornate Flycatcher",LC,U,-16731116
+60,52,"inornatus","Myiophobus","Unadorned Flycatcher",LC,U,-16731116
+63,62,"cinnamomeus","Pyrrhomyias","Cinnamon Flycatcher",LC,U,-16731116
+64,62,"ferruginea","Hirundinea","Cliff Flycatcher",LC,U,-16731116
+65,61,"inornatus","Phelpsia","White-bearded Flycatcher",LC,U,-16731116
+71,70,"flavigularis","Platyrinchus","Yellow-throated Spadebill",LC,U,-16731116
+72,70,"platyrhynchos","Platyrinchus","White-crested Spadebill",LC,U,-16731116
+73,69,"coronatus","Platyrinchus","Golden-crowned Spadebill",LC,U,-16731116
+75,74,"leucoryphus","Platyrinchus","Russet-winged Spadebill",VU,U,-11184866
+76,74,"cancrominus","Platyrinchus","Stub-tailed Spadebill",LC,U,-16731116
+78,77,"saturatus","Platyrinchus","Cinnamon-crested Spadebill",LC,U,-16731116
+79,77,"mystaceus","Platyrinchus","White-throated Spadebill",LC,U,-16731116
+80,66,"cinnamomea","Neopipo","Cinnamon Manakin-tyrant",LC,U,-16731116
+89,88,"atricapillus","Myiornis","Black-capped Pygmy-tyrant",LC,U,-16731116
+90,88,"ecaudatus","Myiornis","Short-tailed Pygmy-tyrant",LC,U,-16731116
+92,91,"albiventris","Myiornis","White-bellied Pygmy-tyrant",LC,U,-16731116
+93,91,"auricularis","Myiornis","Eared Pygmy-tyrant",LC,U,-16731116
+101,100,"latirostris","Poecilotriccus","Rusty-fronted Tody-flycatcher",LC,U,-16731116
+102,100,"senex","Poecilotriccus","Buff-cheeked Tody-flycatcher",LC,U,-16731116
+103,99,"plumbeiceps","Poecilotriccus","Ochre-faced Tody-flycatcher",LC,U,-16731116
+104,98,"russatus","Poecilotriccus","Ruddy Tody-flycatcher",LC,U,-16731116
+107,106,"calopterus","Poecilotriccus","Golden-winged Tody-flycatcher",LC,U,-16731116
+108,106,"sylvia","Poecilotriccus","Slate-headed Tody-flycatcher",LC,U,-16731116
+109,105,"pulchellus","Poecilotriccus","Black-backed Tody-flycatcher",LC,U,-16731116
+113,112,"capitalis","Poecilotriccus","Black-and-white Tody-flycatcher",LC,U,-16731116
+114,112,"fumifrons","Poecilotriccus","Smoky-fronted Tody-flycatcher",LC,U,-16731116
+115,111,"albifacies","Poecilotriccus","White-cheeked Tody-flycatcher",LC,U,-16731116
+116,110,"ruficeps","Poecilotriccus","Rufous-crowned Tody-flycatcher",LC,U,-16731116
+117,95,"luluae","Poecilotriccus","Lulu's Tody-flycatcher",VU,U,-11184866
+124,123,"chrysocrotaphum","Todirostrum","Yellow-browed Tody-flycatcher",LC,U,-16731116
+125,123,"nigriceps","Todirostrum","Black-headed Tody-flycatcher",LC,U,-16731116
+126,122,"pictum","Todirostrum","Painted Tody-flycatcher",LC,U,-16731116
+127,121,"maculatum","Todirostrum","Spotted Tody-flycatcher",LC,U,-16731116
+128,120,"cinereum","Todirostrum","Common Tody-flycatcher",LC,U,-16731116
+129,119,"viridanum","Todirostrum","Maracaibo Tody-flycatcher",NT,U,-12486656
+130,118,"poliocephalum","Todirostrum","Yellow-lored Tody-flycatcher",LC,U,-16731116
+133,132,"subbrunneus","Cnipodectes","Brownish Twistwing",LC,U,-16731116
+134,132,"superrufus","Cnipodectes","Rufous Twistwing",VU,U,-11184866
+135,131,"andrei","Taeniotriccus","Black-chested Tyrant",LC,U,-16731116
+143,142,"flaviventris","Tolmomyias","Yellow-breasted Flycatcher",LC,U,-16731116
+144,142,"flavotectus","Tolmomyias","Yellow-margined Flatbill",_U,[,-16777216
+146,145,"sulphurescens","Tolmomyias","Yellow-olive Flycatcher",LC,U,-16731116
+147,145,"traylori","Tolmomyias","Orange-eyed Flycatcher",LC,U,-16731116
+148,140,"assimilis","Tolmomyias","Yellow-margined Flycatcher",LC,U,-16731116
+150,149,"poliocephalus","Tolmomyias","Grey-crowned Flycatcher",LC,U,-16731116
+151,149,"viridiceps","Tolmomyias","Olive-faced Flatbill",_U,[,-16777216
+152,138,"pacificus","Rhynchocyclus","Pacific Flatbill",LC,U,-16731116
+154,153,"brevirostris","Rhynchocyclus","Eye-ringed Flatbill",LC,U,-16731116
+155,153,"olivaceus","Rhynchocyclus","Olivaceous Flatbill",LC,U,-16731116
+156,136,"fulvipectus","Rhynchocyclus","Fulvous-breasted Flatbill",LC,U,-16731116
+161,160,"ruficeps","Pseudotriccus","Rufous-headed Pygmy-tyrant",LC,U,-16731116
+162,160,"pelzelni","Pseudotriccus","Bronze-olive Pygmy-tyrant",LC,U,-16731116
+163,159,"simplex","Pseudotriccus","Hazel-fronted Pygmy-tyrant",LC,U,-16731116
+165,164,"delalandi","Corythopis","Southern Antpipit",LC,U,-16731116
+166,164,"torquatus","Corythopis","Ringed Antpipit",LC,U,-16731116
+167,81,"rubrigastra","Tachuris","Many-coloured Rush-tyrant",LC,U,-16731116
+170,169,"griseiceps","Piprites","Grey-headed Piprites",LC,U,-16731116
+171,169,"pileata","Piprites","Black-capped Piprites",VU,U,-11184866
+172,168,"chloris","Piprites","Wing-barred Piprites",LC,U,-16731116
+173,0,"cristatus","Oxyruncus","Sharpbill",LC,U,-16731116

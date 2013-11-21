@@ -1,85 +1,38 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,15,"simulator","Akodon","Gray-bellied Grass Mouse",LC,S,-16731116
-17,15,"toba","Akodon","Chaco Grass Mouse",LC,S,-16731116
-18,14,"dayi","Akodon","Day's Grass Mouse",LC,S,-16731116
-19,13,"dolores","Akodon","Cordoba Akodont",LC,S,-16731116
-22,21,"molinae","Akodon","Molina's Grass Mouse",LC,D,-16731116
-23,21,"neocenus","Akodon","Neuquen Akodont",DD,U,-11513776
-24,20,"varius","Akodon","Variable Grass Mouse",DD,U,-11513776
-26,25,"sylvanus","Akodon","Forest Grass Mouse",LC,S,-16731116
-27,25,"pervalens","Akodon","Tarija Akodont",DD,U,-11513776
-28,10,"iniscatus","Akodon","Intelligent Grass Mouse",LC,S,-16731116
-30,29,"markhami","Abrothrix","Markham's Grass Mouse",LC,S,-16731116
-31,29,"lutescens","Akodon","Altiplano Grass Mouse",LC,S,-16731116
-35,34,"boliviensis","Akodon","Bolivian Grass Mouse",LC,S,-16731116
-36,34,"juninensis","Akodon","Junin Grass Mouse",LC,S,-16731116
-37,33,"mollis","Akodon","Soft Grass Mouse",LC,S,-16731116
-39,38,"kofordi","Akodon","Koford's Grass Mouse",LC,U,-16731116
-40,38,"azarae","Akodon","Azara's Grass Mouse",LC,S,-16731116
-47,46,"serrensis","Akodon","Serrado Do Mar Grass Mouse",LC,U,-16731116
-48,46,"spegazzinii","Akodon","Spegazzini's Grass Mouse",LC,S,-16731116
-50,49,"cursor","Akodon","Cursor Grass Mouse",LC,U,-16731116
-51,49,"montensis","Akodon","Montane Akodont",LC,D,-16731116
-52,44,"fumeus","Akodon","Smoky Grass Mouse",LC,S,-16731116
-53,43,"torques","Akodon","Cloud Forest Grass Mouse",LC,S,-16731116
-57,56,"albiventer","Akodon","White-bellied Grass Mouse",LC,S,-16731116
-58,56,"urichi","Necromys","Northern Grass Mouse",LC,U,-16731116
-59,55,"affinis","Akodon","Colombian Grass Mouse",LC,S,-16731116
-61,60,"sanctipaulensis","Akodon","Sao Paulo Grass Mouse",DD,U,-11513776
-62,60,"orophilus","Akodon","El Dorado Grass Mouse",LC,S,-16731116
-65,64,"lindberghi","Akodon","Lindbergh's Grass Mouse",DD,U,-11513776
-66,64,"surdus","Akodon","Silent Grass Mouse",VU,D,-11184866
-68,67,"olivaceus","Abrothrix","Olive Grass Mouse",LC,S,-16731116
-69,67,"subfuscus","Akodon","Puno Grass Mouse",LC,S,-16731116
-70,6,"hershkovitzi","Abrothrix","Hershkovitz's Akodont",LC,S,-16731116
-75,74,"longipilis","Abrothrix","Long-haired Akodont",LC,D,-16731116
-76,74,"lanosus","Abrothrix","Woolly Grass Mouse",LC,S,-16731116
-77,73,"sanborni","Abrothrix","Sanborn's Grass Mouse",NT,D,-12486656
-78,72,"kempi","Deltamys","Kemp's Grass Mouse",LC,U,-16731116
-79,71,"nigrita","Thaptomys","Blackish Grass Mouse",LC,U,-16731116
-82,81,"siberiae","Akodon","Cochabamba Grass Mouse",NT,D,-12486656
-83,81,"budini","Akodon","Budin's Grass Mouse",LC,S,-16731116
-84,80,"illuteus","Abrothrix","Gray Akodont",NT,D,-12486656
-88,87,"latebricola","Akodon","Ecuadorean Grass Mouse",VU,D,-11184866
-89,87,"bogotensis","Akodon","Bogota Grass Mouse",LC,S,-16731116
-90,86,"mimus","Akodon","Thespian Grass Mouse",LC,S,-16731116
-91,85,"aerosus","Akodon","Highland Grass Mouse",LC,S,-16731116
-93,92,"jelskii","Abrothrix","Jelski's Altiplano Mouse",LC,S,-16731116
-94,92,"andinus","Abrothrix","Andean Akodont",LC,U,-16731116
-95,1,"ebriosus","Neotomys","Andean Swamp Rat",LC,S,-16731116
-107,106,"cinereus","Thomasomys","Ash-colored Oldfield Mouse",LC,S,-16731116
-108,106,"caudivarius","Thomasomys","",LC,D,-16731116
-109,105,"laniger","Thomasomys","Butcher Oldfield Mouse",LC,S,-16731116
-110,104,"kalinowskii","Thomasomys","Kalinowski's Oldfield Mouse",VU,D,-11184866
-111,103,"bombycinus","Thomasomys","Silky Oldfield Mouse",DD,U,-11513776
-115,114,"rosalinda","Thomasomys","Rosalinda's Oldfield Mouse",DD,D,-11513776
-116,114,"baeops","Thomasomys","Beady-eyed Mouse",LC,D,-16731116
-117,113,"silvestris","Thomasomys","Forest Oldfield Mouse",LC,D,-16731116
-119,118,"cinereiventer","Thomasomys","Ashy-bellied Oldfield Mouse",LC,D,-16731116
-120,118,"erro","Thomasomys","",LC,U,-16731116
-122,121,"notatus","Thomasomys","Distinguished Oldfield Mouse",LC,D,-16731116
-123,121,"vestitus","Thomasomys","Dressy Oldfield Mouse",LC,U,-16731116
-131,130,"gracilis","Thomasomys","Slender Oldfield Mouse",NT,D,-12486656
-132,130,"hudsoni","Thomasomys","",DD,U,-11513776
-133,129,"cinnameus","Thomasomys","",LC,U,-16731116
-134,128,"daphne","Thomasomys","Daphne's Oldfield Mouse",LC,U,-16731116
-137,136,"ladewi","Thomasomys","Ladew's Oldfield Mouse",LC,U,-16731116
-138,136,"oreas","Thomasomys","Montane Oldfield Mouse",LC,U,-16731116
-139,135,"niveipes","Thomasomys","Snow-footed Oldfield Mouse",LC,U,-16731116
-140,126,"incanus","Thomasomys","Inca Oldfield Mouse",VU,D,-11184866
-142,141,"rhoadsi","Thomasomys","Rhoads's Oldfield Mouse",LC,S,-16731116
-143,141,"eleusis","Thomasomys","Peruvian Oldfield Mouse",LC,U,-16731116
-144,124,"hylophilus","Thomasomys","Woodland Oldfield Mouse",EN,D,-8572416
-150,149,"taczanowskii","Thomasomys","Taczanowski's Oldfield Mouse",LC,U,-16731116
-151,149,"pyrrhonotus","Thomasomys","Thomas's Oldfield Mouse",VU,D,-11184866
-152,148,"ischyrus","Thomasomys","Strong-tailed Oldfield Mouse",VU,D,-11184866
-153,147,"monochromos","Thomasomys","Unicolored Oldfield Mouse",EN,D,-8572416
-156,155,"aureus","Thomasomys","Golden Oldfield Mouse",LC,D,-16731116
-157,155,"praetor","Thomasomys","",DD,U,-11513776
-158,154,"popayanus","Thomasomys","",DD,U,-11513776
-159,145,"paramorum","Thomasomys","Paramo Oldfield Mouse",LC,U,-16731116
-161,160,"fuscatus","Handleyomys","Dusky Montane Mouse",LC,D,-16731116
-162,160,"lugens","Aepeomys","Olive Montane Mouse",LC,U,-16731116
-164,163,"apicalis","Lenoxus","Andean Rat",LC,U,-16731116
-165,163,"edax","Andinomys","Andean Mouse",LC,S,-16731116
-166,96,"valdivianus","Geoxus","Long-clawed Mole Mouse",LC,S,-16731116
+10,9,"wilhelmina","Paraleptomys","Short-haired Hydromyine",DD,U,-11513776
+11,9,"rufilatus","Paraleptomys","Northern Hydromyine",EN,U,-8572416
+13,12,"occidentalis","Pseudohydromys","Western Shrew Mouse",DD,U,-11513776
+14,12,"murinus","Pseudohydromys","Eastern Shrew Mouse",LC,U,-16731116
+16,15,"ellermani","Pseudohydromys","One-toothed Shrew Mouse",LC,U,-16731116
+17,15,"fuscus","Pseudohydromys","Mottled-tailed Shrew Mouse",LC,S,-16731116
+18,6,"nouhuysi","Lorentzimys","Long-footed Tree Mouse",LC,S,-16731116
+21,20,"signatus","Leptomys","Fly River Leptomys",LC,U,-16731116
+22,20,"elegans","Leptomys","Large Leptomys",LC,U,-16731116
+23,19,"ernstmayri","Leptomys","Ernst Mayr's Leptomys",LC,U,-16731116
+25,24,"albidens","Coccymys","White-toothed Mouse",DD,U,-11513776
+26,24,"ruemmleri","Coccymys","Rummler's Mouse",LC,U,-16731116
+31,30,"mayeri","Pogonomelomys","Shaw Mayer's Pogonomelomys",LC,U,-16731116
+32,30,"bruijni","Pogonomelomys","",NE,U,-16777216
+33,29,"sevia","Abeomelomys","Menzies' Mouse",LC,U,-16731116
+34,28,"imitator","Anisomys","Uneven-toothed Rat",LC,S,-16731116
+36,35,"richardsoni","Microhydromys","Groove-toothed Shrew Mouse",DD,U,-11513776
+37,35,"musseri","Microhydromys","Musser's Shrew Mouse",DD,U,-11513776
+41,40,"salebrosus","Solomys","Bougainville Giant Rat",EN,D,-8572416
+42,40,"sapientis","Solomys","Isabel Giant Rat",EN,D,-8572416
+43,39,"salamonis","Solomys","Florida Giant Rat",DD,U,-11513776
+45,44,"ponceleti","Solomys","Poncelet's Giant Rat",CR,D,-3014646
+46,44,"spriggsarum","Solomys","",NE,U,-16777216
+47,1,"moncktoni","Crossomys","Earless Water Rat",LC,U,-16731116
+55,54,"istapantap","Mallomys","Subalpine Woolly Rat",LC,U,-16731116
+56,54,"gunung","Mallomys","Alpine Woolly Rat",EN,D,-8572416
+57,53,"aroaensis","Mallomys","De Vis's Woolly Rat",LC,U,-16731116
+58,52,"rothschildi","Mallomys","Rothschild's Woolly Rat",LC,S,-16731116
+59,51,"asper","Parahydromys","Waterside Rat",LC,U,-16731116
+61,60,"elegans","Macruromys","Lesser Small-toothed Rat",DD,U,-11513776
+62,60,"major","Macruromys","Greater Small-toothed Rat",LC,S,-16731116
+65,64,"lamia","Chiruromys","Broad-headed Tree Mouse",LC,U,-16731116
+66,64,"forbesi","Chiruromys","Forbes's Tree Mouse",LC,S,-16731116
+67,63,"vates","Chiruromys","Lesser Tree Mouse",LC,S,-16731116
+70,69,"dammermani","Hyomys","Western White-eared Giant Rat",DD,U,-11513776
+71,69,"goliath","Hyomys","Eastern White-eared Giant Rat",LC,U,-16731116
+72,68,"barbatus","Xenuromys","Rock-dwelling Giant Rat",LC,U,-16731116

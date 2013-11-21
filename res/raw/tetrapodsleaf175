@@ -1,26 +1,24 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"cygnoides","Anser","Swan Goose",VU,U,-11184866
-11,9,"anser","Anser","Greylag Goose",LC,U,-16731116
-12,8,"erythropus","Anser","Lesser White-fronted Goose",VU,U,-11184866
-13,7,"brachyrhynchus","Anser","Pink-footed Goose",LC,U,-16731116
-14,6,"indicus","Anser","Bar-headed Goose",LC,U,-16731116
-16,15,"albifrons","Anser","Greater White-fronted Goose",LC,U,-16731116
-17,15,"fabalis","Anser","Bean Goose",LC,U,-16731116
-20,19,"caerulescens","Chen","Snow Goose",LC,U,-16731116
-21,19,"rossii","Chen","Ross's Goose",LC,U,-16731116
-22,18,"canagica","Chen","Emperor Goose",NT,U,-12486656
-27,26,"hutchinsii","Branta","Cackling Goose",LC,U,-16731116
-28,26,"leucopsis","Branta","Barnacle Goose",LC,U,-16731116
-30,29,"sandvicensis","Branta","Hawaiian Goose",VU,U,-11184866
-31,29,"canadensis","Branta","Canada Goose",LC,U,-16731116
-32,24,"ruficollis","Branta","Red-breasted Goose",EN,U,-8572416
-33,23,"bernicla","Branta","Brent Goose",LC,U,-16731116
-38,37,"columbianus","Cygnus","Tundra Swan",LC,U,-16731116
-39,37,"cygnus","Cygnus","Whooper Swan",LC,U,-16731116
-40,36,"buccinator","Cygnus","Trumpeter Swan",LC,U,-16731116
-42,41,"atratus","Cygnus","Black Swan",LC,U,-16731116
-43,41,"olor","Cygnus","Mute Swan",LC,U,-16731116
-44,34,"melancoryphus","Cygnus","Black-necked Swan",LC,U,-16731116
-46,45,"novaehollandiae","Cereopsis","Cape Barren Goose",LC,U,-16731116
-47,45,"coscoroba","Coscoroba","Coscoroba Swan",LC,U,-16731116
-48,0,"membranaceus","Malacorhynchus","Pink-eared Duck",LC,U,-16731116
+9,8,"madagascariensis","Hypsipetes","Madagascar Black Bulbul",LC,U,-16731116
+10,8,"olivaceus","Hypsipetes","Mauritius Black Bulbul",VU,U,-11184866
+11,7,"borbonicus","Hypsipetes","Olivaceous Bulbul",LC,U,-16731116
+13,12,"leucocephalus","Hypsipetes","Asian Black Bulbul",LC,U,-16731116
+14,12,"parvirostris","Hypsipetes","Comoro Bulbul",LC,U,-16731116
+15,5,"crassirostris","Hypsipetes","Seychelles Bulbul",LC,U,-16731116
+16,4,"amaurotis","Ixos","Brown-eared Bulbul",LC,U,-16731116
+20,19,"rufigularis","Ixos","Zamboanga Bulbul",NT,U,-12486656
+21,19,"everetti","Ixos","Yellowish Bulbul",LC,U,-16731116
+22,18,"virescens","Hypsipetes","Green-winged Bulbul",LC,U,-16731116
+24,23,"siquijorensis","Ixos","Streak-breasted Bulbul",EN,U,-8572416
+25,23,"philippinus","Ixos","Philippine Bulbul",LC,U,-16731116
+26,2,"nicobariensis","Hypsipetes","Nicobar Bulbul",NT,U,-12486656
+30,29,"thompsoni","Hypsipetes","White-headed Bulbul",LC,U,-16731116
+31,29,"malaccensis","Ixos","Streaked Bulbul",NT,U,-12486656
+32,28,"mcclellandii","Hypsipetes","Mountain Bulbul",LC,U,-16731116
+34,33,"castanonotus","Hemixos","Chestnut Bulbul",LC,U,-16731116
+35,33,"flavala","Hemixos","Ashy Bulbul",LC,U,-16731116
+40,39,"olivacea","Iole","Buff-vented Bulbul",NT,U,-12486656
+41,39,"virescens","Iole","Olive Bulbul",LC,U,-16731116
+42,38,"indica","Iole","Yellow-browed Bulbul",LC,U,-16731116
+43,37,"propinqua","Iole","Grey-eyed Bulbul",LC,U,-16731116
+44,36,"palawanensis","Ixos","Sulphur-bellied Bulbul",LC,U,-16731116
