@@ -108,14 +108,16 @@ public abstract class MidNode implements Comparable<MidNode>{
 	public MidNode getParent() { return parent; }
 
 	public void recalculateDynamic() {
+		BinaryPositionCalculator.setDynamic(false);
+		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 		if (PositionData.ws > 100 || PositionData.ws < 0.01) {
-			recalculate();
 			positionCalculator.reanchor(this);
 		}
+		BinaryPositionCalculator.setDynamic(true);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 	}
-	
-	public void recalculateDynamic(float xp, float yp, float ws) {
+
+	public void recalculateDynamic(float xp, float yp, float ws) {		
 		initializer.setDynamic(true);
 		positionCalculator.recalculateDynamic(xp, yp, ws, this);
 	}

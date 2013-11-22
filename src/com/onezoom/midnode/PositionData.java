@@ -14,7 +14,7 @@ public class PositionData implements Comparable<PositionData>{
 	public static float xp = 0f;
 	public static float yp = 0f;
 	public static float ws = 1f;
-	public boolean graphref;
+	public boolean graphref = false;
 	
 	public static void setScreenSize(int left, int bottom, int width, int height) {
 		screenXmax = left + width;

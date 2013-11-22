@@ -1,6 +1,7 @@
 package com.onezoom;
 
 import com.onezoom.midnode.PositionData;
+import com.onezoom.midnode.displayBinary.BinaryPositionCalculator;
 
 import android.util.Log;
 import android.view.ScaleGestureDetector;
@@ -17,6 +18,13 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 	@Override
 	public boolean onScale(ScaleGestureDetector detector) {
 		TreeView.onScale = true;
+		if (BinaryPositionCalculator.isReanchored()) {
+			startXp = PositionData.getXp();
+			startYp = PositionData.getYp();
+			startscaleFactor = PositionData.getWs();
+			BinaryPositionCalculator.setReanchored(false);
+		}
+		
 		float shiftXp, shiftYp;
 		float scaleFactor = detector.getScaleFactor();
 		float scaleTotal = scaleFactor * PositionData.getWs() / startscaleFactor;
