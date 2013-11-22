@@ -108,6 +108,10 @@ public abstract class MidNode implements Comparable<MidNode>{
 	public MidNode getParent() { return parent; }
 
 	public void recalculateDynamic() {
+		if (PositionData.ws > 100 || PositionData.ws < 0.01) {
+			recalculate();
+			positionCalculator.reanchor(this);
+		}
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 	}
 	

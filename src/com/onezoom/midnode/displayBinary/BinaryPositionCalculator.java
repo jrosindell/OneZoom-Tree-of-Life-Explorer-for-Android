@@ -8,6 +8,7 @@ import com.onezoom.CanvasActivity;
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
+import com.onezoom.midnode.PositionData;
 
 public class BinaryPositionCalculator {
 
@@ -149,6 +150,48 @@ public class BinaryPositionCalculator {
 		if (max < c) max = c;
 		return max;
 	}
+	
+	public void reanchor(MidNode midNode) {
+		if (midNode.positionData.dvar) {
+			midNode.positionData.graphref = true;
+			if (
+					((midNode.positionData.gvar) || (midNode.child1 == null))
+					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 100))
+				) {
+				// reanchor here
+				PositionData.xp = midNode.positionData.xvar;
+				PositionData.yp = midNode.positionData.yvar;
+				PositionData.ws = midNode.positionData.rvar / 220;
+				if (midNode.child1 != null) {
+					deanchor(midNode.child2);
+					deanchor(midNode.child1);
+				}
+			} else {
+				// reanchor somewhere down the line
+				if (midNode.child1.positionData.dvar) {
+					reanchor(midNode.child1);
+					deanchor(midNode.child2);
+
+				} else {
+					reanchor(midNode.child2);
+					deanchor(midNode.child1);
+				}
+			}
+		}
+		// else not possible to reanchor
+	}
+
+	private void deanchor(MidNode midNode) {
+//		if (midNode.positionData.graphref) {
+//			if (midNode.child1 != null) {
+//				deanchor(midNode.child1);
+//				deanchor(midNode.child2);
+//			}
+//			midNode.positionData.graphref = false;
+//		}
+		midNode.positionData.graphref = false;
+	}
+
 
 	private void drawreg2(float x, float y, float r, MidNode midnode) {
 		midnode.positionData.xvar = x;
