@@ -3,6 +3,7 @@ package com.onezoom.midnode.displayBinary;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Locale;
@@ -21,29 +22,38 @@ import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
+import com.onezoom.midnode.Utility;
 
 public class BinaryInitializer {
+	public Hashtable<Integer, MidNode> fulltreeHash;
 	Hashtable<Integer, InteriorNode> interiorHash;
 	Hashtable<Integer, LeafNode> leafHash;
+	static Hashtable<Integer, Integer> fileConnection;
 	LinkedList<Pair<Integer, MidNode>> listOfHeadNodeInNextFile;
+//	public ArrayList<Integer> initialisedFile;
 	public PriorityQueue<MidNode> stackOfNodeHasNonInitChildren;
-	static Context canvasActivity;
+	public static CanvasActivity canvasActivity;
 	boolean dynamic = false;
 	public static int fileIndex;
 
 	public BinaryInitializer() {
+		fileConnection = new Hashtable<Integer, Integer>(1000);
+		fulltreeHash = new Hashtable<Integer, MidNode>(10000);
 		interiorHash = new Hashtable<Integer, InteriorNode>(200);
 		leafHash = new Hashtable<Integer, LeafNode>(200);
 		listOfHeadNodeInNextFile = new LinkedList<Pair<Integer,MidNode>>();
 		stackOfNodeHasNonInitChildren = new PriorityQueue<MidNode>();
 	}
-	
-	public static void setContext(Context context) {
+
+	public static void setContext(CanvasActivity context) {
 		canvasActivity = context;
+		fillFileConnection();
 	}
 	
 	public MidNode createMidNode(String fileIndex) {
 		listOfHeadNodeInNextFile.clear();
+		fulltreeHash.clear();
+//		initialisedFile.clear();
 		return createTreeStartFromFileIndex(fileIndex, 0, null);
 	}
 	
@@ -94,6 +104,7 @@ public class BinaryInitializer {
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
 		BinaryInitializer.fileIndex = Integer.parseInt(fileIndex);
 //		Log.d("debug", "file name: " + selectedGroup + "interior" + fileIndex);
+//		initialisedFile.add(BinaryInitializer.fileIndex);
 		int resourceInteriorID = canvasActivity.getResources().getIdentifier(selectedGroup + "interior" + fileIndex, "raw", canvasActivity.getPackageName());
 		InputStream isInterior = canvasActivity.getResources().openRawResource(resourceInteriorID);
 		int resourceLeafID = canvasActivity.getResources().getIdentifier(selectedGroup + "leaf" + fileIndex, "raw", canvasActivity.getPackageName());
@@ -113,6 +124,7 @@ public class BinaryInitializer {
 				interiorNode = createInteriorNode(nextline);
 				interiorNode.fileIndex = BinaryInitializer.fileIndex;
 				interiorHash.put(interiorNode.index, interiorNode);
+				fulltreeHash.put(Utility.combine(interiorNode.fileIndex, interiorNode.index), interiorNode);
 			}
 			
 			//create all leaf node in leaf file and put them into hash table
@@ -120,6 +132,7 @@ public class BinaryInitializer {
 				leafNode = createLeafNode(nextline);
 				leafNode.fileIndex = BinaryInitializer.fileIndex;
 				leafHash.put(leafNode.index, leafNode);
+				fulltreeHash.put(Utility.combine(leafNode.fileIndex, leafNode.index), leafNode);
 			}						
 			readerInterior.close();
 			readerLeaf.close();
@@ -262,6 +275,76 @@ public class BinaryInitializer {
 				interNode.child2 = createTreeStartFromTailNode(2, interNode);
 			}
 			listOfHeadNodeInNextFile.clear();
+		}
+	}
+
+	public void initialiseSearchedFile(int fileIndex) {
+		Stack<Integer> filesNeedToBeInit = new Stack<Integer>();
+		MidNode searchroot = findAllFileNeedToBeInit(fileIndex, filesNeedToBeInit);
+		initFilesInStack(searchroot, filesNeedToBeInit);
+	}
+
+	private MidNode findAllFileNeedToBeInit(int fileIndex,
+			Stack<Integer> filesNeedToBeInit) {
+		filesNeedToBeInit.add(fileIndex);
+		Log.d("debug", "files need to be init: " + fileIndex);
+		int parentFileIndex = fileConnection.get(fileIndex);
+		if (fulltreeHash.containsKey(Utility.combine(parentFileIndex, 0))) {
+			return fulltreeHash.get(Utility.combine(parentFileIndex, 0));
+		} else {
+			return findAllFileNeedToBeInit(parentFileIndex, filesNeedToBeInit);
+		}
+	}
+
+	
+	private void initFilesInStack(MidNode searchroot,
+			Stack<Integer> filesNeedToBeInit) {
+		Assert.assertNotNull(searchroot);
+		while (!filesNeedToBeInit.isEmpty()) {
+			searchroot = initNewFile(searchroot, filesNeedToBeInit.pop());
+		}
+	}
+	
+	
+	private MidNode initNewFile(MidNode searchroot, Integer fileIndex) {
+		MidNode search1 = null;
+		MidNode search2 = null;
+		if (searchroot.child1 == null && searchroot.child1Index < 0
+				&& findFileAndIndexInfo(searchroot.child1Index)[1] == fileIndex) {
+			searchroot.child1 = createFollowingOneFile(searchroot, 1);
+			Log.d("debug", "files are being init: " + fileIndex);
+			return searchroot.child1;
+		} else if (searchroot.child2 == null && searchroot.child2Index < 0
+				&& findFileAndIndexInfo(searchroot.child2Index)[1] == fileIndex) {
+			searchroot.child2 = createFollowingOneFile(searchroot, 2);
+			Log.d("debug", "files are being init: " + fileIndex);
+			return searchroot.child2;
+		} else if (searchroot.child1 != null) {
+			search1 = initNewFile(searchroot.child1, fileIndex);
+		} else if (searchroot.child2 != null) {
+			search2 = initNewFile(searchroot.child2, fileIndex);
+		} else {
+			return null;
+		}
+		if (search1 != null) return search1;
+		else return search2;
+	}
+
+	private static void fillFileConnection() {
+		fileConnection.clear();
+		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
+		int resourceID = canvasActivity.getResources().getIdentifier(selectedGroup + "search", "raw", canvasActivity.getPackageName());
+		InputStream is = canvasActivity.getResources().openRawResource(resourceID);
+		CSVReader reader = new CSVReader(new InputStreamReader(is));
+		try {
+			reader.readNext();
+			String[] nextline;
+			while ((nextline = reader.readNext()) != null) {
+				fileConnection.put(Integer.parseInt(nextline[0]), Integer.parseInt(nextline[1]));
+			}							
+			reader.close();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
 }

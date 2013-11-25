@@ -218,6 +218,7 @@ public class BinaryPositionCalculator {
 	}
 	
 	private void drawregDynamic(float xp, float yp, float r, MidNode midNode) {
+		midNode.traitsCaculator.setColor(Color.RED);
 		if (midNode.child1 != null) {
 			if (midNode.child1.positionData.graphref) {
 				drawregDynamic(xp, yp, r, midNode.child1);
@@ -230,11 +231,14 @@ public class BinaryPositionCalculator {
 						- midNode.positionData.rvar
 						* midNode.positionData.nexty1;
 				midNode.positionData.dvar = false;
-				midNode.child2.positionData.gvar = false;
-				midNode.child2.positionData.dvar = false;
-
+				
+				if (midNode.child2 != null) {
+					midNode.child2.positionData.gvar = false;
+					midNode.child2.positionData.dvar = false;
+				}
+				
 				if (midNode.positionData.horizonInsideScreen()) {
-					if (midNode.positionData.nodeBigEnoughToDisplay()) {
+					if (midNode.child2 != null && midNode.positionData.nodeBigEnoughToDisplay()) {
 						drawreg2Dynamic(midNode.positionData.xvar+((midNode.positionData.rvar)*(midNode.positionData.nextx2)),
 								midNode.positionData.yvar+(midNode.positionData.rvar)*(midNode.positionData.nexty2),
 								midNode.positionData.rvar*midNode.positionData.nextr2
@@ -250,19 +254,22 @@ public class BinaryPositionCalculator {
 					
 					if (!midNode.positionData.nodeBigEnoughToDisplay()) {
 						midNode.child1.positionData.gvar = false;
-						midNode.child2.positionData.gvar = false;
 						midNode.child1.positionData.dvar = false;
-						midNode.child2.positionData.dvar = false;
+						if (midNode.child2 != null) {
+							midNode.child2.positionData.gvar = false;
+							midNode.child2.positionData.dvar = false;
+						}
 					}
 				} else {
 					//node horizon not inside screen
 					midNode.positionData.gvar = false;
 				}
 				
-				if (midNode.child1.positionData.dvar || midNode.child2.positionData.dvar) {
+				if (midNode.child1.positionData.dvar ||
+						((midNode.child2 != null) && midNode.child2.positionData.dvar)) {
 					midNode.positionData.dvar = true;
 				}
-			} else if (midNode.child2.positionData.graphref) {
+			} else if (midNode.child2 != null && midNode.child2.positionData.graphref) {
 				drawregDynamic(xp, yp, r, midNode.child2);
 				midNode.positionData.rvar = midNode.child2.positionData.rvar
 						/ midNode.positionData.nextr2;
@@ -273,11 +280,12 @@ public class BinaryPositionCalculator {
 						- midNode.positionData.rvar
 						* midNode.positionData.nexty2;
 				midNode.positionData.dvar = false;
-				midNode.child1.positionData.gvar = false;
-				midNode.child1.positionData.dvar = false;
-
+				if (midNode.child1 != null) {
+					midNode.child1.positionData.gvar = false;
+					midNode.child1.positionData.dvar = false;
+				}
 				if (midNode.positionData.horizonInsideScreen()) {
-					if (midNode.positionData.nodeBigEnoughToDisplay()) {
+					if (midNode.child1 != null && midNode.positionData.nodeBigEnoughToDisplay()) {
 						drawreg2Dynamic(midNode.positionData.xvar+((midNode.positionData.rvar)*(midNode.positionData.nextx1)),
 								midNode.positionData.yvar+(midNode.positionData.rvar)*(midNode.positionData.nexty1),
 								midNode.positionData.rvar*midNode.positionData.nextr1
@@ -292,9 +300,11 @@ public class BinaryPositionCalculator {
 					}
 					
 					if (!midNode.positionData.nodeBigEnoughToDisplay()) {
-						midNode.child1.positionData.gvar = false;
+						if (midNode.child1 != null) {
+							midNode.child1.positionData.gvar = false;
+							midNode.child1.positionData.dvar = false;
+						}
 						midNode.child2.positionData.gvar = false;
-						midNode.child1.positionData.dvar = false;
 						midNode.child2.positionData.dvar = false;
 					}
 				} else {
@@ -302,7 +312,8 @@ public class BinaryPositionCalculator {
 					midNode.positionData.gvar = false;
 				}
 				
-				if (midNode.child1.positionData.dvar || midNode.child2.positionData.dvar) {
+				if ((midNode.child1 != null && midNode.child1.positionData.dvar)
+						|| midNode.child2.positionData.dvar) {
 					midNode.positionData.dvar = true;
 				}
 			} else {
@@ -364,12 +375,14 @@ public class BinaryPositionCalculator {
 		if (midNode.child1 != null && (depth < threshold || midNode.child1Index > 0)) {
 			dropInvisibleChunk(midNode.child1, depth+1);
 		} else if (midNode.child1Index < 0 && midNode.child1 != null) {
+//			MidNode.initializer.initialisedFile.remove(midNode.child1.fileIndex);
 			midNode.child1 = null;
 		}
 		
 		if (midNode.child2 != null && (depth < threshold || midNode.child2Index > 0)) {
 			dropInvisibleChunk(midNode.child2, depth+1);
 		} else if (midNode.child2Index < 0 && midNode.child2 != null) {
+//			MidNode.initializer.initialisedFile.remove(midNode.child2.fileIndex);
 			midNode.child2 = null;
 		}
 	}

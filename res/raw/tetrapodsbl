@@ -1,0 +1,902 @@
+name,fileindex,index,whichChild
+"Black Flowerpiercer",125,15,2
+"Black-throated Flowerpiercer",125,17,2
+"Bluish Flowerpiercer",125,37,1
+"Black-hooded Sierra-finch",125,94,1
+"Blue-backed Conebill",125,111,1
+"Black-and-tawny Seedeater",127,17,2
+"Black-bellied Seedeater",127,20,1
+"Black-and-white Seedeater",127,61,1
+"Black-billed Seed-finch",125,130,2
+"Black-capped Warbling-finch",126,11,1
+"Black-eared Hemispingus",126,48,1
+"Black-and-rufous Warbling-finch",126,52,1
+"Black-headed Hemispingus",126,64,2
+"Black-and-chestnut Warbling Finch",126,68,1
+"Black-capped Hemispingus",126,74,1
+"Blue Finch",125,143,2
+"Black-faced Dacnis",125,166,2
+"Blue Dacnis",125,177,2
+"Black-legged Dacnis",125,178,2
+"Black-throated Shrike-tanager",130,10,2
+"Black-goggled Tanager",130,27,1
+"Black-and-white Tanager",130,56,1
+"Blue-black Grassquit",130,58,2
+"Black-and-yellow Tanager",124,19,1
+"Black-masked Finch",124,42,2
+"Black-throated Grosbeak",124,56,2
+"Black-cowled Saltator",124,61,2
+"Black-winged Saltator",124,65,1
+"Black-headed Saltator",124,66,2
+"Black-throated Saltator",124,73,2
+"Blue-browed Tanager",128,24,2
+"Black-backed Tanager",128,25,2
+"Blue-whiskered Tanager",128,45,2
+"Blue-and-black Tanager",128,59,2
+"Blue-necked Tanager",128,69,1
+"Black-capped Tanager",128,97,2
+"Black-headed Tanager",128,99,2
+"Black-faced Grassquit",129,39,2
+"Blue-capped Tanager",128,116,2
+"Black-chested Mountain-tanager",128,126,2
+"Black-chinned Mountain-tanager",128,129,1
+"Blue-winged Mountain-tanager",128,130,2
+"Blue-backed Tanager",128,133,1
+"Blue-grey Tanager",128,140,1
+"Black-backed Bush-finch",128,143,2
+"Blue-and-yellow Tanager",128,151,2
+"Black-faced Tanager",128,170,2
+"Black-crested Finch",128,176,2
+"Black-and-gold Tanager",128,205,1
+"Blue-and-gold Tanager",128,210,2
+"Black-crowned Palm-tanager",124,93,2
+"Blue-crowned Chlorophonia",124,106,1
+"Blue-naped Chlorophonia",124,107,2
+"Black-faced Grosbeak",124,144,2
+"Black-cheeked Ant-tanager",124,162,1
+"Blue-black Grosbeak",124,177,2
+"Blackish-blue Seedeater",124,181,2
+"Blue Seedeater",124,182,2
+"Blue Bunting",124,183,2
+"Blue Grosbeak",124,195,1
+"Black-backed Grosbeak",124,208,2
+"Black-headed Grosbeak",124,210,1
+"Black-thighed Grosbeak",124,213,2
+"Black-capped Sparrow",142,15,2
+"Black-chinned Sparrow",142,47,2
+"Black-throated Sparrow",142,50,2
+"Black-striped Sparrow",146,10,2
+"Black-chested Sparrow",146,19,1
+"Black-faced Brush-finch",142,61,2
+"Black-spectacled Brush-finch",142,67,2
+"Black-headed Bunting",142,116,1
+"Black-faced Bunting",142,129,2
+"Black Oropendola",143,119,2
+"Black-cowled Oriole",147,18,1
+"Black-vented Oriole",147,23,2
+"Black-backed Oriole",147,42,1
+"Black-cheeked Warbler",144,52,1
+"Black-crested Warbler",144,73,2
+"Black-throated Green Warbler",144,101,1
+"Black-throated Grey Warbler",144,107,1
+"Black-throated Blue Warbler",144,124,1
+"Blackpoll Warbler",144,137,2
+"Blackburnian Warbler",144,138,2
+"Black-polled Yellowthroat",144,175,2
+"Black-lored Yellowthroat",144,181,2
+"Black-and-white Warbler",144,200,2
+"Blue-winged Warbler",144,220,2
+"Black-throated Seedeater",136,34,1
+"Black-faced Canary",136,49,2
+"Black-headed Canary",135,18,2
+"Black-eared Seedeater",135,33,2
+"Black Siskin",138,21,2
+"Black-chinned Siskin",138,25,2
+"Black-headed Siskin",138,28,2
+"Black-capped Siskin",138,30,2
+"Black-headed Greenfinch",135,69,2
+"Black Rosy-finch",137,10,2
+"Black-headed Mountain-finch",137,14,1
+"Black-and-yellow Grosbeak",135,141,1
+"Blue-rumped Euphonia",135,196,2
+"Blue Chaffinch",135,210,2
+"Blyth's Pipit",123,80,1
+"Black-winged Snowfinch",122,65,2
+"Black-breasted Munia",132,13,1
+"Black Munia",132,14,2
+"Black-throated Munia",132,60,1
+"Black-and-white Munia",132,71,1
+"Black-faced Munia",132,79,2
+"Black-throated Finch",132,97,2
+"Blue-faced Parrotfinch",132,120,2
+"Black-chinned Quail-Finch",132,139,1
+"Black-bellied Seedcracker",133,6,1
+"Blue-capped Cordonbleu",133,17,1
+"Blue-breasted Cordonbleu",133,19,2
+"Black-bellied Firefinch",133,38,2
+"Black-throated Firefinch",133,39,2
+"Black-rumped Waxbill",134,13,1
+"Black-headed Waxbill",134,18,1
+"Black-crowned Waxbill",134,19,2
+"Black-tailed Waxbill",134,26,2
+"Black-cheeked Waxbill",134,28,1
+"Black-lored Waxbill",134,40,1
+"Black-headed Weaver",141,16,2
+"Black-chinned Weaver",141,24,1
+"Black-billed Weaver",141,49,1
+"Black-necked Weaver",140,34,1
+"Black-breasted Weaver",140,79,1
+"Black-throated Malimbe",140,99,2
+"Black-winged Bishop",140,123,1
+"Black Bishop",140,131,2
+"Black-capped Social-weaver",140,148,1
+"Black-throated Accentor",121,76,1
+"Black-bellied Sunbird",131,30,1
+"Blue-throated Brown Sunbird",131,84,1
+"Blue-headed Sunbird",131,87,1
+"Black Sunbird",131,134,2
+"Black-throated Sunbird",121,141,1
+"Black-sided Flowerpecker",139,30,2
+"Black-fronted Flowerpecker",139,36,2
+"Blood-breasted Flowerpecker",139,38,1
+"Blue-winged Leafbird",121,167,1
+"Blue-masked Leafbird",121,175,2
+"Black Wheatear",184,22,2
+"Blackstart",184,28,2
+"Black-eared Wheatear",184,47,1
+"Blue Rock-thrush",184,119,2
+"Blue-capped Rock-thrush",184,124,2
+"Black Redstart",183,17,2
+"Blue-capped Redstart",183,28,1
+"Blue-fronted Redstart",183,31,1
+"Blue-fronted Flycatcher",187,25,2
+"Blue-breasted Flycatcher",187,42,2
+"Black-banded Flycatcher",187,59,1
+"Blue Whistling-thrush",183,42,2
+"Blue-fronted Robin",183,54,2
+"Black-backed Forktail",183,65,1
+"Bluethroat",183,78,2
+"Black-throated Blue Robin",183,80,1
+"Blue-throated Flycatcher",183,128,2
+"Blue-and-white Flycatcher",183,171,2
+"Black Shama",186,11,2
+"Black Scrub-robin",186,38,2
+"Black-and-rufous Flycatcher",183,206,2
+"Blue-shouldered Robin-chat",193,47,2
+"Black-breasted Thrush",188,41,1
+"Black Thrush",188,56,1
+"Black-hooded Thrush",189,40,2
+"Black-billed Thrush",189,46,1
+"Black-eared Ground-thrush",188,128,1
+"Black-billed Nightingale-thrush",188,187,2
+"Black-headed Nightingale-thrush",188,192,2
+"Black Solitaire",188,204,2
+"Black-faced Solitaire",181,32,1
+"Black-bellied Glossy-starling",191,53,2
+"Black-winged Starling",191,112,2
+"Black-collared Starling",191,135,1
+"Black Catbird",192,62,2
+"Blue-and-white Mockingbird",192,65,1
+"Blue Mockingbird",192,66,2
+"Black-throated Wren",190,20,2
+"Black-bellied Wren",190,30,2
+"Black-capped Gnatcatcher",181,104,2
+"Black-tailed Gnatcatcher",181,110,2
+"Blue-grey Gnatcatcher",181,112,2
+"Blue Nuthatch",182,46,2
+"Black-and-yellow Silky-flycatcher",181,160,2
+"Black-chinned Laughingthrush",164,46,1
+"Black-throated Laughingthrush",164,48,2
+"Blue-crowned Laughingthrush",164,74,1
+"Black-hooded Laughingthrush",164,75,2
+"Black Laughingthrush",164,78,2
+"Black-lored Babbler",164,121,1
+"Blackcap Babbler",164,122,2
+"Black-faced Laughingthrush",163,28,1
+"Blue-winged Laughingthrush",163,46,2
+"Black-headed Sibia",168,7,2
+"Black-crowned Barwing",168,34,2
+"Blue-winged Minla",168,40,2
+"Black-browed Babbler",165,26,2
+"Blackcap Illadopsis",165,34,2
+"Black-capped Babbler",165,64,2
+"Black-throated Wren-babbler",165,85,1
+"Blackish-breasted Babbler",167,17,2
+"Black-streaked Scimitar-babbler",167,35,1
+"Black-necklaced Scimitar-babbler",167,42,2
+"Black-chinned Babbler",163,88,1
+"Black-headed White-eye",166,66,2
+"Black-capped White-eye",166,84,2
+"Black-crowned White-eye",166,99,2
+"Black-capped Speirops",166,112,1
+"Black-fronted White-eye",166,176,2
+"Black-masked White-eye",166,187,2
+"Black-throated Babbler",166,202,2
+"Black-crowned Babbler",163,123,2
+"Black-chinned Yuhina",163,153,1
+"Black-breasted Parrotbill",179,12,2
+"Black-headed Parrotbill",179,14,2
+"Black-throated Parrotbill",179,17,2
+"Black-crowned Fulvetta",179,56,2
+"Blackcap",179,116,2
+"Black-browed Fulvetta",179,139,1
+"Black-capped Donacobius",176,79,2
+"Blyth's Reed-warbler",176,131,2
+"Blunt-winged Warbler",176,137,2
+"Black-browed Reed-warbler",176,144,2
+"Black-chested Prinia",170,33,1
+"Black-headed Tailorbird",170,56,2
+"Black-collared Apalis",170,80,1
+"Black-headed Apalis",171,17,1
+"Black-faced Apalis",171,35,2
+"Black-throated Apalis",171,39,2
+"Black-capped Apalis",171,46,2
+"Black-necked Eremomela",170,116,1
+"Black-necked Cisticola",172,28,1
+"Black-lored Cisticola",170,160,2
+"Black-tailed Cisticola",170,163,1
+"Black-headed Rufous Warbler",170,178,1
+"Black-faced Rufous Warbler",170,179,2
+"Black-fronted Bulbul",174,12,1
+"Black-crested Bulbul",174,58,1
+"Black-and-white Bulbul",174,66,2
+"Blue-wattled Bulbul",174,69,1
+"Black-headed Bulbul",174,76,2
+"Black-collared Bulbul",174,194,2
+"Black-capped Woodland-warbler",162,128,2
+"Black-faced Warbler",162,178,2
+"Black-browed Tit",162,210,2
+"Black-throated Tit",162,214,1
+"Black-and-rufous Swallow",178,32,1
+"Blue Swallow",178,33,2
+"Blue Saw-wing",178,86,2
+"Blue-and-white Swallow",178,127,1
+"Black-collared Swallow",178,128,2
+"Black-capped Swallow",178,131,1
+"Black Lark",173,44,1
+"Black-crowned Sparrow-lark",161,102,2
+"Black-eared Sparrow-lark",161,105,2
+"Black-capped Chickadee",169,9,1
+"Black-crested Titmouse",169,49,1
+"Black-bibbed Tit",169,63,1
+"Black Tit",169,68,2
+"Black-lored Tit",169,83,2
+"Blue Tit",161,126,1
+"Black-headed Penduline-tit",161,152,2
+"Black Robin",151,23,1
+"Blue-grey Robin",151,55,2
+"Black-chinned Robin",151,81,2
+"Black-throated Robin",151,83,2
+"Black-sided Robin",151,85,1
+"Black-throated Shrikebill",159,18,2
+"Black-faced Monarch",159,50,1
+"Black-winged Monarch",159,51,2
+"Black-tailed Monarch",159,64,1
+"Black-tipped Monarch",159,65,2
+"Black-chinned Monarch",159,66,2
+"Black Monarch",159,86,2
+"Black-backed Monarch",159,88,1
+"Black-bibbed Monarch",159,95,2
+"Black-and-white Monarch",159,96,2
+"Blue-crested Flycatcher",159,121,1
+"Blue Paradise-flycatcher",152,17,1
+"Black-headed Paradise-flycatcher",152,19,2
+"Black-naped Monarch",152,39,2
+"Blue-headed Crested-flycatcher",152,43,2
+"Blue Bird-of-paradise",160,19,2
+"Black Sicklebill",160,40,1
+"Black-billed Sicklebill",160,43,1
+"Blue-headed Fantail",153,56,1
+"Blue Fantail",153,57,2
+"Black-and-cinnamon Fantail",153,58,2
+"Black Fantail",153,62,2
+"Black Thicket-fantail",153,73,1
+"Black-billed Magpie",157,16,2
+"Black-billed Magpie",157,17,2
+"Black-headed Jay",157,30,1
+"Black-chested Jay",157,47,1
+"Black-throated Magpie-jay",157,73,2
+"Blue Jay",157,88,2
+"Black-collared Jay",157,95,2
+"Black-throated Jay",157,102,2
+"Blue Magpie",157,122,2
+"Black Magpie",157,144,2
+"Black Drongo",152,67,2
+"Black-winged Oriole",155,9,1
+"Black-tailed Oriole",155,10,2
+"Black-naped Oriole",155,16,2
+"Black-hooded Oriole",155,23,2
+"Black-and-crimson Oriole",155,26,1
+"Black Oriole",155,27,2
+"Black-eared Oriole",155,49,2
+"Blue-headed Vireo",154,19,2
+"Black-capped Vireo",154,35,2
+"Blue Mountain Vireo",154,44,1
+"Black-whiskered Vireo",154,58,1
+"Black-billed Peppershrike",152,152,1
+"Black-eared Shrike-babbler",152,159,2
+"Black-headed Shrike-babbler",152,162,2
+"Black-tailed Whistler",156,43,1
+"Black-headed Whistler",156,49,2
+"Black Pitohui",152,172,2
+"Black Sittella",152,187,2
+"Blue Vanga",195,25,2
+"Bluntschli's Vanga",195,49,2
+"Black-winged Flycatcher-shrike",195,76,2
+"Black-and-white Shrike-flycatcher",195,80,2
+"Black-headed Batis",196,35,2
+"Black-throated Wattle-eye",196,44,1
+"Black-necked Wattle-eye",196,49,1
+"Black-headed Gonolek",198,11,1
+"Black-fronted Bush-shrike",198,45,1
+"Black-backed Puffback",198,69,2
+"Black-crowned Tchagra",198,76,2
+"Black-faced Woodswallow",199,14,1
+"Black Butcherbird",199,37,2
+"Black-backed Butcherbird",199,39,2
+"Black Currawong",199,44,2
+"Black-breasted Boatbill",195,87,2
+"Black-shouldered Cicadabird",197,12,1
+"Black-bibbed Cicadabird",197,18,2
+"Black-bellied Cuckooshrike",197,26,1
+"Blackish Cuckooshrike",197,31,1
+"Blue Cuckooshrike",197,36,2
+"Black-headed Cuckooshrike",197,51,2
+"Black-winged Cuckooshrike",197,52,2
+"Black-and-white Triller",197,59,2
+"Black-browed Triller",197,61,1
+"Black Cuckooshrike",195,116,2
+"Black-faced Cuckooshrike",200,22,2
+"Blue Jewel-babbler",195,161,2
+"Black Berrypecker",120,29,2
+"Black-chinned Honeyeater",148,12,2
+"Black-headed Honeyeater",148,15,1
+"Blue-faced Honeyeater",148,18,2
+"Black-throated Honeyeater",148,23,2
+"Black-chested Honeyeater",148,44,2
+"Black-faced Friarbird",148,96,1
+"Black Myzomela",149,11,2
+"Black-headed Myzomela",149,32,1
+"Black-bellied Myzomela",149,48,1
+"Black Honeyeater",148,118,2
+"Black-eared Miner",150,31,1
+"Black-backed Honeyeater",148,196,1
+"Blue-breasted Fairywren",120,91,1
+"Black Grasswren",120,127,2
+"Black-tailed Treecreeper",120,184,1
+"Black-throated Spinetail",233,56,1
+"Blackish-headed Spinetail",233,72,2
+"Black-throated Thistletail",233,130,2
+"Blackish Cinclodes",231,18,1
+"Black-capped Foliage-gleaner",232,40,2
+"Black-billed Treehunter",232,59,1
+"Black-billed Scythebill",230,112,2
+"Black-striped Woodcreeper",230,121,1
+"Black-banded Woodcreeper",230,163,1
+"Black-tailed Leaftosser",229,35,2
+"Black-headed Antthrush",229,45,1
+"Black-faced Antthrush",229,46,2
+"Blackish Tapaculo",248,16,2
+"Black-throated Huet-huet",248,92,2
+"Black-cheeked Gnateater",229,77,1
+"Black-bellied Gnateater",229,80,1
+"Black-crowned Antpitta",229,84,2
+"Black Antbird",245,55,2
+"Blackish Antbird",245,56,2
+"Black-spotted Bare-eye",245,84,1
+"Black-headed Antbird",247,26,2
+"Black-tailed Antbird",247,30,2
+"Black-faced Antbird",247,32,1
+"Black-chinned Antbird",247,44,1
+"Blackish-grey Antshrike",246,30,1
+"Black Antshrike",246,33,1
+"Black-backed Antshrike",246,41,2
+"Black-hooded Antshrike",246,48,2
+"Black-crested Antshrike",246,65,1
+"Black-capped Antwren",246,76,1
+"Black-throated Antshrike",245,100,1
+"Bluish-slate Antshrike",245,123,1
+"Black-bellied Antwren",245,137,1
+"Black-hooded Antwren",245,138,2
+"Black-and-white Antbird",245,190,1
+"Black Bushbird",245,213,2
+"Black-throated Antbird",245,225,2
+"Black-crowned Monjita",238,10,2
+"Black-billed Shrike-tyrant",238,20,2
+"Black-and-white Monjita",238,34,1
+"Black-fronted Ground-tyrant",238,50,2
+"Black-Tyrants",235,14,1
+"Blue-billed Black-tyrant",235,21,2
+"Black-capped Flycatcher",243,20,2
+"Blackish Pewee",243,48,1
+"Black Phoebe",243,64,1
+"Black-billed Flycatcher",243,79,2
+"Blackish Chat-Tyrant",241,24,1
+"Black-backed Water-tyrant",241,46,1
+"Black-capped Tyrannulet",242,57,2
+"Black-throated Tody-tyrant",239,53,1
+"Black-capped Pygmy-tyrant",235,89,1
+"Black-backed Tody-flycatcher",235,109,2
+"Black-and-white Tody-flycatcher",235,113,1
+"Black-headed Tody-flycatcher",235,125,2
+"Black-chested Tyrant",235,135,2
+"Black-fronted Tyrannulet",237,21,1
+"Black-capped Piprites",235,171,2
+"Black-and-white Becard",251,28,1
+"Black-capped Becard",251,30,2
+"Black-tailed Tityra",251,41,2
+"Black-crowned Tityra",251,42,2
+"Black-tailed Flycatcher",229,120,2
+"Black-tipped Cotinga",250,12,1
+"Black-faced Cotinga",250,16,1
+"Black-and-gold Cotinga",250,42,2
+"Blue Cotinga",249,16,2
+"Black-necked Red-cotinga",249,43,1
+"Black-headed Berryeater",249,49,1
+"Black-chested Fruiteater",249,73,1
+"Blue-crowned Manakin",249,136,1
+"Blue-rumped Manakin",249,143,2
+"Blue-backed Manakin",249,151,2
+"Black Manakin",249,175,1
+"Black-faced Pitta",229,143,1
+"Blue-winged Pitta",229,156,2
+"Blue-banded Pitta",229,165,1
+"Blue Pitta",229,182,2
+"Blue-headed Pitta",229,184,1
+"Blue-naped Pitta",229,189,1
+"Blue-rumped Pitta",229,190,2
+"Black-headed Pitta",229,192,2
+"Black-and-red Broadbill",229,214,1
+"Black-and-yellow Broadbill",229,217,1
+"Blue-streaked Lory",216,24,1
+"Blue-eared Lory",216,25,2
+"Black-winged Lory",216,30,1
+"Black Lory",216,43,2
+"Black-capped Lory",216,59,2
+"Blue-fronted Lorikeet",216,76,1
+"Blue-crowned Lorikeet",216,99,1
+"Blue Lorikeet",216,101,2
+"Blue-crowned Hanging-parrot",219,19,2
+"Black-cheeked Lovebird",219,32,1
+"Black-collared Lovebird",219,37,1
+"Black-winged Lovebird",219,42,2
+"Blue Bonnet",218,58,2
+"Blue-winged Parrot",215,31,2
+"Blossom-headed Parakeet",220,24,2
+"Black-lored Parrot",220,33,2
+"Blue-naped Parrot",220,34,2
+"Blue-backed Parrot",220,35,2
+"Blue-collared Parrot",220,39,1
+"Blue-rumped Parrot",220,42,2
+"Blue-winged Racquet-tail",220,52,1
+"Blue-crowned Racquet-tail",220,53,2
+"Blue-headed Racquet-tail",220,56,1
+"Black Parrot",215,63,1
+"Blue-crowned Parakeet",217,30,1
+"Blue-throated Macaw",217,58,1
+"Blue-and-yellow Macaw",217,61,1
+"Blue-winged Macaw",217,67,2
+"Blue-headed Macaw",217,68,2
+"Black-capped Parakeet",217,90,2
+"Blaze-winged Parakeet",217,115,2
+"Blue-throated Parakeet",217,119,2
+"Black-headed Parrot",217,130,1
+"Blue-winged Parrotlet",215,76,1
+"Blue-fronted Amazon",221,18,2
+"Blue-cheeked Amazon",221,27,1
+"Black-billed Amazon",221,44,2
+"Blue-headed Parrot",221,73,2
+"Black-winged Parrot",221,101,2
+"Blue-bellied Parrot",221,102,2
+"Blue-fronted Parrotlet",215,93,1
+"Blue-eyed Cockatoo",215,152,2
+"Black-cockatoos",215,158,1
+"Black Falcon",222,15,1
+"Black-thighed Falconet",222,85,1
+"Black Caracara",222,105,2
+"Black-legged Seriema",114,28,1
+"Blue-naped Mousebird",114,39,1
+"Blood-coloured Woodpecker",206,35,1
+"Black-backed Woodpecker",206,133,2
+"Black-cheeked Woodpecker",207,40,2
+"Blond-crested Woodpecker",208,12,2
+"Black-bodied Woodpecker",208,35,1
+"Black Woodpecker",208,36,2
+"Black-necked Woodpecker",208,50,2
+"Black-rumped Flameback",208,84,1
+"Black-and-buff Woodpecker",208,95,1
+"Black-headed Woodpecker",206,160,1
+"Black-dotted Piculet",211,51,2
+"Black-billed Mountain-toucan",204,23,2
+"Blue-banded Toucanet",204,33,2
+"Black-necked Aracari",204,48,2
+"Black-mandibled Toucan",204,64,2
+"Black-spotted Barbet",204,85,1
+"Black-girdled Barbet",204,93,2
+"Black-throated Barbet",205,8,1
+"Black-breasted Barbet",205,11,1
+"Black-collared Barbet",205,19,1
+"Black-billed Barbet",205,22,2
+"Black-backed Barbet",205,34,2
+"Black-browed Barbet",204,143,1
+"Blue-throated Barbet",204,146,2
+"Black-banded Barbet",204,178,1
+"Blue-eared Barbet",204,179,2
+"Black-breasted Puffbird",209,7,1
+"Black-streaked Puffbird",209,34,1
+"Black-fronted Nunbird",201,68,1
+"Black Nunbird",201,69,2
+"Bluish-fronted Jacamar",201,81,2
+"Blue-necked Jacamar",201,87,2
+"Blue-black Kingfisher",202,15,1
+"Blue-and-white Kingfisher",202,29,1
+"Blue-capped Kingfisher",202,65,2
+"Blue-winged Kookaburra",202,90,2
+"Blue-breasted Kingfisher",202,105,1
+"Black-capped Kingfisher",202,116,2
+"Black-billed Kingfisher",202,119,1
+"Black-backed Kingfisher",202,155,2
+"Blue-eared Kingfisher",202,173,1
+"Blyth's Kingfisher",202,174,2
+"Blue-banded Kingfisher",202,175,2
+"Blue-crowned Motmot",202,195,2
+"Blue-throated Motmot",202,197,2
+"Blue-bellied Roller",201,121,1
+"Blue-throated Roller",201,130,2
+"Blue-cheeked Bee-eater",210,15,2
+"Blue-tailed Bee-eater",210,16,2
+"Blue-throated Bee-eater",210,23,2
+"Blue-breasted Bee-eater",210,35,1
+"Blue-headed Bee-eater",210,40,1
+"Black Bee-eater",210,41,2
+"Black-headed Bee-eater",210,43,2
+"Blue-bearded Bee-eater",210,49,1
+"Black Hornbill",203,44,2
+"Black-and-white-casqued Hornbill",203,57,1
+"Black-casqued Hornbill",203,65,1
+"Black Dwarf Hornbill",201,177,2
+"Black-billed Woodhoopoe",201,190,1
+"Black Scimitarbill",201,196,2
+"Black-headed Trogon",252,13,1
+"Blue-crowned Trogon",252,17,1
+"Black-tailed Trogon",252,24,1
+"Black-throated Trogon",252,40,2
+"Blakiston's Fish-owl",225,38,1
+"Black-banded Owl",228,19,2
+"Black-and-white Owl",228,36,2
+"Black-capped Screech-owl",227,11,1
+"Black-faced Hawk",118,50,1
+"Black-chested Buzzard-eagle",118,67,1
+"Black-collared Hawk",118,102,2
+"Black Kite",115,36,1
+"Black Harrier",117,30,2
+"Black-mantled Goshawk",117,54,2
+"Black Goshawk",117,102,2
+"Black Eagle",116,43,2
+"Black-and-chestnut Eagle",116,50,1
+"Black-and-white Hawk-eagle",116,52,2
+"Black Hawk-eagle",116,53,2
+"Blyth's Hawk-eagle",116,60,1
+"Black-chested Snake-eagle",115,70,2
+"Black Baza",115,124,2
+"Black Honey-buzzard",115,133,2
+"Black-breasted Buzzard",115,135,2
+"Black-shouldered Kite",115,163,1
+"Black-winged Kite",115,167,2
+"Black Vulture",115,182,2
+"Black-tailed Gull",214,40,1
+"Black-billed Gull",212,37,2
+"Black-headed Gull",212,47,2
+"Black-legged Kittiwake",212,56,2
+"Black Skimmer",212,67,2
+"Black-naped Tern",213,17,2
+"Black Tern",213,39,2
+"Black-fronted Tern",213,42,1
+"Black-bellied Tern",212,92,2
+"Blue Noddy",212,100,2
+"Black Noddy",212,104,2
+"Black Guillemot",212,121,2
+"Black-winged Pratincole",114,61,1
+"Black-breasted Buttonquail",114,108,1
+"Black Turnstone",223,149,1
+"Black-tailed Godwit",223,157,2
+"Blacksmith Lapwing",119,13,1
+"Black-headed Lapwing",119,38,2
+"Black-winged Lapwing",119,43,2
+"Black-fronted Dotterel",119,100,2
+"Black Oystercatcher",119,134,2
+"Blackish Oystercatcher",119,135,2
+"Black-necked Stilt",119,153,2
+"Black-winged Stilt",119,154,2
+"Black Stilt",119,155,2
+"Black-faced Sheathbill",114,169,1
+"Black-crowned Night-heron",354,22,1
+"Black-headed Heron",354,44,1
+"Black Heron",354,75,2
+"Black Bittern",354,110,2
+"Black-headed Ibis",354,140,1
+"Black-faced Spoonbill",354,146,2
+"Black-faced Ibis",354,184,2
+"Black-faced Cormorant",364,63,2
+"Blue-footed Booby",364,80,1
+"Black Stork",346,17,2
+"Black-necked Stork",346,40,2
+"Black-vented Shearwater",359,10,2
+"Black-winged Petrel",358,36,1
+"Black-capped Petrel",358,61,2
+"Blue Petrel",357,45,2
+"Black-browed Albatross",357,73,1
+"Black-footed Albatross",357,105,1
+"Black-bellied Storm-petrel",357,119,2
+"Black Storm-petrel",357,135,2
+"Black-billed Turaco",346,68,2
+"Black Cuckoo",355,29,2
+"Black-eared Cuckoo",355,78,2
+"Black-billed Koel",355,98,1
+"Black-billed Cuckoo",356,29,2
+"Black-bellied Cuckoo",356,30,2
+"Black-bellied Malkoha",356,44,2
+"Blue-faced Malkoha",356,49,2
+"Black Coucal",355,130,2
+"Blue-headed Coucal",355,143,2
+"Black-throated Coucal",355,146,1
+"Black-hooded Coucal",355,156,2
+"Black-faced Coucal",355,157,2
+"Blue Coua",355,182,2
+"Blue Bustard",363,11,2
+"Black Bustard",363,14,2
+"Black-bellied Bustard",363,22,1
+"Black-banded Crake",360,42,2
+"Black-tailed Native-hen",360,62,1
+"Black Crake",362,48,1
+"Black-tailed Crake",362,58,1
+"Blackish Rail",360,100,1
+"Black Rail",361,21,1
+"Blue-faced Rail",361,31,2
+"Blue Crane",360,172,2
+"Black-necked Crane",360,178,1
+"Black Crowned-crane",360,186,2
+"Blue pigeons",350,41,1
+"Blue-capped Fruit-dove",350,54,1
+"Black-naped Fruit-dove",350,68,1
+"Black-chinned Fruit-dove",350,80,1
+"Black-billed Wood-dove",347,13,1
+"Blue-headed Wood-dove",347,15,2
+"Blue-spotted Wood-dove",347,18,2
+"Bleeding heart doves, Ground-doves and more",347,43,2
+"Black-billed Cuckoo-dove",347,131,1
+"Blue-headed Quail-dove",349,36,1
+"Blue-eyed Ground-dove",347,194,2
+"Black-winged Ground-dove",347,202,2
+"Blue Ground-dove",347,209,2
+"Black-bellied Sandgrouse",346,154,2
+"Black-faced Sandgrouse",346,161,2
+"Black-necked Grebe",353,19,1
+"Black-billed Streamertail",327,11,1
+"Blue-chested Hummingbird",327,29,2
+"Blue-throated Goldentail",327,38,2
+"Blue-headed Sapphire",327,50,2
+"Blue-tailed Hummingbird",327,81,2
+"Blue-crowned Woodnymph",326,25,1
+"Black-bellied Hummingbird",326,39,1
+"Blue-capped Hummingbird",326,41,2
+"Blossomcrown",326,75,1
+"Blue-chinned Sapphire",326,89,2
+"Blue-tailed Emerald",326,95,2
+"Blue-headed Hummingbird",326,115,2
+"Black-chinned Hummingbird",328,36,1
+"Blue-throated Hummingbird",326,165,2
+"Blue-tufted Starthroat",326,177,2
+"Black Metaltail",332,23,2
+"Blue-mantled Thornbill",332,30,2
+"Black-breasted Hillstar",332,44,1
+"Black-backed Thornbill",332,55,2
+"Black-tailed Trainbearer",332,57,1
+"Black-crested Coquette",332,104,1
+"Black-bellied Thorntail",332,110,1
+"Black-throated Brilliant",332,133,2
+"Black-breasted Puffleg",332,167,1
+"Blue-capped Puffleg",332,170,2
+"Black-thighed Puffleg",332,175,2
+"Blue-throated Starfrontlet",332,194,2
+"Black Inca",332,204,1
+"Black-hooded Sunbeam",332,214,2
+"Black-throated Mango",330,14,2
+"Black-eared Fairy",330,42,2
+"Blue-fronted Lancebill",330,56,2
+"Black Jacobin",324,14,2
+"Black-throated Hermit",325,34,1
+"Black-nest Swiftlet",329,35,1
+"Black Spinetail",329,177,1
+"Blyth's Frogmouth",324,84,1
+"Blackish Nightjar",324,172,2
+"Black-shouldered Nightjar",331,51,2
+"Blue Eared-pheasant",312,37,2
+"Black-billed Capercaillie",312,84,1
+"Black Grouse",312,88,2
+"Blyth's Tragopan",312,121,2
+"Blood Pheasant",312,125,2
+"Black Francolin",312,159,1
+"Blue Quail",317,97,2
+"Black Partridge",314,45,2
+"Black-breasted Wood-quail",315,10,2
+"Black-fronted Wood-quail",315,17,2
+"Black-eared Wood-quail",315,20,2
+"Black-throated Bobwhite",315,45,2
+"Black Guineafowl",310,32,2
+"Black Curassow",310,45,2
+"Blue-billed Curassow",310,50,2
+"Blue-throated Piping-guan",311,35,1
+"Black-fronted Piping-guan",311,38,2
+"Black Guan",311,43,2
+"Black-billed Brush-turkey",310,122,2
+"Black Scoter",313,30,2
+"Blue-winged Goose",313,107,1
+"Blue Duck",313,114,2
+"Blue-winged Teal",313,190,1
+"Black-headed Duck",310,136,1
+"Blue-billed Duck",310,145,2
+"Black Geese",316,23,2
+"Black Swan",316,42,1
+"Black-necked Swan",316,44,2
+"Black-bellied Whistling-duck",310,163,1
+"Black-capped Tinamou",253,19,1
+"Black Tinamou",253,50,1
+"Black Caiman",0,69,2
+"Black Pond Turtle",94,75,2
+"Black-breasted Hill Turtle",94,83,2
+"Black River Turtle",94,93,1
+"Black-knobbed Map Turtle",95,24,2
+"Blanding's Turtle",94,144,2
+"Black Soft-shell Turtle",343,11,2
+"Black Spine-necked Swamp Turtle",0,106,2
+"Blue-tongued Skinks",305,156,1
+"Blue Mountain Water Skink",301,21,1
+"Blue-throated Keeled Lizard",308,32,2
+"Blanc's Sand Racer",298,196,2
+"Blainville Horned Lizard",414,16,1
+"Blunt-nosed Leopard Lizard",405,128,2
+"Black Legless Lizard",411,61,1
+"Black-collared Snake",336,16,2
+"Blind snakes, Thread Snakes and Worm Snakes",334,111,2
+"Blind snakes",334,152,2
+"Black-tailed Melomys",266,18,2
+"Black-tailed Giant Rat",266,72,2
+"Black-footed Tree Rat",266,77,2
+"Blue-grey Mouse",266,126,2
+"Black-clawed Brush-furred Rat",269,57,2
+"Black Rat",267,49,1
+"Black Sea Field Mouse",273,40,2
+"Blick's Grass Rat",273,58,2
+"Black-tailed Tree Rat",263,67,1
+"Blazed Luzon Chrotomys",264,64,2
+"Black-tufted Gerbil",268,59,2
+"Black-tailed Gerbil",265,58,1
+"Blind Mole Rats, Mouse-like Hamsters and more",263,156,2
+"Blind Mole Rats and more",263,159,1
+"Blackish Grass Mouse",289,81,2
+"Black-footed Pygmy Rice Rat",287,24,1
+"Black-tailed Deer Mouse",291,40,1
+"Black-eared Mouse",291,44,1
+"Blackish Deer Mouse",291,74,2
+"Black-wristed Deer Mouse",291,102,1
+"Blyth's Vole",282,58,1
+"Blanfordimys",283,30,1
+"Black-eared Red-backed Vole",284,27,2
+"Black-bellied Hamster",281,119,2
+"Blanford's Jerboa",280,69,2
+"Black-spined Atlantic Tree Rat",258,27,2
+"Black-rumped Agouti",256,105,1
+"Black Agouti",256,106,2
+"Black Flying Squirrel",278,85,1
+"Black Giant Squirrel",278,96,1
+"Black-eared Squirrel",278,216,2
+"Black-striped Squirrel",278,219,1
+"Black-capped Marmot",296,22,1
+"Black And Red Bush Squirrel",296,126,1
+"Black-tailed Jackrabbit",277,39,1
+"Black Jackrabbit",277,40,2
+"Black Mangabey",275,59,2
+"Blue Monkey",275,94,1
+"Black-footed Gray Langur",275,155,2
+"Black Snub-nosed Monkey",275,166,2
+"Black-shanked Douc Langur",275,170,1
+"Black Colobus",275,203,2
+"Black Crested Gibbon",295,22,1
+"Black-pencilled Marmoset",285,14,1
+"Black-faced Lion Tamarin",285,38,1
+"Black Lion Tamarin",285,39,2
+"Black-handed Tamarin",285,64,2
+"Black Mantle Tamarin",285,73,1
+"Black-fronted Titi Monkey",285,80,1
+"Blond Titi Monkey",285,83,2
+"Black-horned Capuchin",285,93,2
+"Black-crowned Central American Squirrel Monkey",285,106,2
+"Black-headed Squirrel Monkey",285,109,2
+"Black-headed Night Monkey",285,114,2
+"Black Bearded Saki",285,171,1
+"Black-faced Black Spider Monkey",286,22,1
+"Black Howler Monkey",286,34,2
+"Black-and-gold Howler Monkey",286,45,1
+"Black Lemur",260,23,2
+"Black-and-white Ruffed Lemur",260,39,1
+"Black-winged Little Yellow Bat",389,158,1
+"Blanford's Bat",390,78,2
+"Black Myotis",404,17,2
+"Black Mastiff Bat",396,21,2
+"Black Bonneted Bat",396,34,2
+"Blunt-eared Bat",396,194,2
+"BLASIUS' HORSESHOE BAT",379,10,1
+"Blyth's Horseshoe Bat",376,119,2
+"Black-bearded Tomb Bat",400,74,1
+"Black-bearded Flying Fox",366,16,2
+"Black Flying Fox",366,61,2
+"Blyth's Flying Fox",366,123,2
+"Blossom Bats",365,85,1
+"Black-bellied Blossom Bat",365,88,1
+"Black-capped Fruit Bat",387,36,2
+"Blandford's Fruit Bat",387,51,2
+"Blesbok",372,82,2
+"Black Wildebeest",372,86,2
+"Blackbuck",372,140,2
+"Black-fronted Duiker",372,168,1
+"Black Duiker",372,180,1
+"Blue Duiker",372,187,2
+"Black Muntjac",374,41,1
+"Black Musk Deer",371,92,2
+"Blainville's Beaked Whale",371,140,2
+"Blue Whale",371,177,2
+"Black Rhinoceros",365,126,2
+"Black-footed Ferret",383,21,1
+"Black-backed Jackal",381,129,2
+"Blanford's Fox",381,175,1
+"Black-footed Mogoose",384,27,2
+"Black-footed Cat",382,56,1
+"Black-footed Shrew",367,75,2
+"Blackish White-toothed Shrew",370,63,1
+"Black Shrew",402,23,2
+"Blarinella",397,61,2
+"Blackish Small-eared Shrew",397,78,1
+"Blarina",397,118,2
+"Blind Mole",380,37,2
+"Black And Rufous Elephant Shrew",323,113,2
+"Black-footed Rock Wallaby",110,23,2
+"Black-striped Wallaby",110,52,1
+"Black Wallaroo",110,68,2
+"Black Dorcopsis",110,106,2
+"Black-spotted Cuscus",112,87,2
+"Blackish Shrew Opossum",109,64,2
+"Black-eared Opossum",109,145,1
+"Black-shouldered Opossum",109,232,2
+"Black Toad",61,33,2
+"Blanford's Toad",57,45,1
+"Blue-bellied Poison Frog",44,11,2
+"Black-legged Poison Frog",43,221,2
+"Bloody Bay Poison Frog",68,134,2
+"Black-spotted Casque-headed Treefrog",64,83,1
+"Blue Mountains Treefrog",53,37,1
+"Bleating Treefrog",55,16,1
+"Blue-sided Treefrog",66,76,2
+"Blacksoil Toadlet",23,14,1
+"Black-soled Frog",23,142,2
+"Black-webbed Treefrog",21,72,2
+"Blue-legged Mantella",3,185,1
+"Black-eared Mantella",3,193,1
+"Black-spotted Pond Frog",18,21,1
+"Blyth's River Frog",19,22,1
+"Black Mountain Boulder Frog",33,54,1
+"Black Rain Frog",25,160,2
+"Blanco River Springs Salamander",104,14,2
+"Blanco Blind Salamander",104,16,2
+"Blue Ridge Two-lined Salamander",104,46,2
+"Blackbelly Slender Salamander",98,38,1
+"Blue Ridge Gray-cheeked Salamander",107,34,1
+"Blue Ridge Dusky Salamander",105,10,2
+"Blackbelly Salamander",105,28,2
+"Black Mountain Salamander",105,33,1
+"Black Salamander",105,64,2
+"Black-spotted Stout Newt",103,56,1
+"Black-spotted Newt",98,119,1
+"Black Knobby Newt",98,139,2
+"Blue-spotted Salamander",99,11,1
+"Blotched Salamander",344,38,2

@@ -5,6 +5,8 @@ import junit.framework.Assert;
 import android.content.Context;
 import android.graphics.Canvas;
 import android.util.Log;
+
+import com.onezoom.CanvasActivity;
 import com.onezoom.midnode.displayBinary.BinaryInitializer;
 import com.onezoom.midnode.displayBinary.BinaryPositionCalculator;
 import com.onezoom.midnode.displayBinary.BinaryPrecalculator;
@@ -57,7 +59,7 @@ public abstract class MidNode implements Comparable<MidNode>{
 		PositionData.setScreenSize(left, bottom, width, height);
 	}
 	
-	public static void setContext(Context context) {
+	public static void setContext(CanvasActivity context) {
 		BinaryInitializer.setContext(context);
 	}
 	
@@ -110,7 +112,8 @@ public abstract class MidNode implements Comparable<MidNode>{
 	public void recalculateDynamic() {
 		BinaryPositionCalculator.setDynamic(false);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
-		if (PositionData.ws > 100 || PositionData.ws < 0.01) {
+		if ((PositionData.ws > 100 || PositionData.ws < 0.01)
+				&& !BinaryInitializer.canvasActivity.getTreeView().isDuringInteraction()) {
 			positionCalculator.reanchor(this);
 		}
 		BinaryPositionCalculator.setDynamic(true);

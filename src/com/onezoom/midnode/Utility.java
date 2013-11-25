@@ -197,5 +197,18 @@ public class Utility {
 		else
 			return ("Not Evaluated");
 	}
+	
+	public static int combine(int fileIndex, int index) {
+        //most significant 4 bits set as 1
+        //5-22 bits set as file index
+        //23-32 bits set as parent index
+        int result = 0xF0000000;
+        assert index < 1024;
+        result = result | index;
+        assert fileIndex < 0x4FFFF;
+        fileIndex = fileIndex << 10;
+        result = result | fileIndex;
+        return result;
+}
 
 }

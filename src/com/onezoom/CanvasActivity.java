@@ -5,6 +5,7 @@ import java.util.TreeMap;
 
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
+import com.onezoom.midnode.displayBinary.BinarySearch;
 
 import android.app.Activity;
 import android.app.SearchManager;
@@ -18,7 +19,12 @@ import android.widget.SearchView;
 import android.widget.SearchView.OnQueryTextListener;
 
 public class CanvasActivity extends Activity{
-	TreeView treeView;
+	public TreeView treeView;
+	
+	public TreeView getTreeView() {
+		return treeView;
+	}
+
 	public static String selectedItem;
 	private String selectedString;
 	private MidNode fulltree;
@@ -27,6 +33,7 @@ public class CanvasActivity extends Activity{
 	private GrowthThread growthThread;
 	private boolean threadStarted = false;
 	private boolean growing = false;
+	private BinarySearch searchEngine;
 	private TreeMap<String, String> groupIndexMap;
 	
 	@Override
@@ -36,6 +43,7 @@ public class CanvasActivity extends Activity{
 		treeView = (TreeView) findViewById(R.id.tree_view);	
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
+		searchEngine = new BinarySearch(this);
 		groupIndexMap = new TreeMap<String, String>();
 		groupIndexMap.put("Mammals", "0");
 		groupIndexMap.put("Tetrapods", "0");
@@ -46,7 +54,7 @@ public class CanvasActivity extends Activity{
 		groupIndexMap.put("Turtles", "0");
 		groupIndexMap.put("CrossSpecies", "0");
 		groupIndexMap.put("Squamates", "0");
-	retrieveData();
+		retrieveData();
 	}
 
 	@Override
@@ -204,7 +212,8 @@ public class CanvasActivity extends Activity{
 				searchView.setQueryHint("Enter Species Name");
 				searchView.setQuery("", false);
 				searchView.clearFocus();
-//				BasicNode.searchEngine.performSearch(DrawCanvas.this);
+//				Log.d("debug", "initialized files: " + MidNode.initializer.initialisedFile.get(0) + " " + MidNode.initializer.initialisedFile.size());
+				searchEngine.performSearch(arg0);
 				getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 				return false;
 			}
