@@ -132,6 +132,10 @@ public class Utility {
 
 	public static String geologicAge(InteriorNode midNode) {
 		float lengthbr = midNode.traitsCaculator.getLengthbr();
+		return geologicAge(lengthbr);
+	}
+	
+	public static String geologicAge(float lengthbr) {
 		if (lengthbr > 253.8)
 			return ("pre Triassic Period");
 		else if (lengthbr > 203.6)
@@ -146,6 +150,14 @@ public class Utility {
 			return ("Neogene Period");
 		else
 			return ("Quaternary Period");
+	}
+	
+	public static String growthInfo() {
+		float lengthbr = BinaryTraitsCalculator.timelim;
+		if (lengthbr < 0) return "Present day";
+		else {
+			return lengthbr + " Million years ago - " + Utility.geologicAge(lengthbr);
+		}
 	}
 
 	public static String conservationStatus(LeafNode midNode) {

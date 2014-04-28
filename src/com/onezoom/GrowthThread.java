@@ -3,11 +3,13 @@ package com.onezoom;
 import java.util.Map;
 import java.util.TreeMap;
 
+import com.onezoom.midnode.Utility;
 import com.onezoom.midnode.displayBinary.BinaryTraitsCalculator;
 
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
+import android.widget.Toast;
 
 class GrowthThread extends Thread {
 	Handler handler;
@@ -69,7 +71,7 @@ class GrowthThread extends Thread {
 	}
 	
 	public void Play() {
-		if (!pause)
+		if (pause == false)
 			BinaryTraitsCalculator.timelim = map.get(client.selectedItem);
 		else 
 			pause = !pause;
@@ -107,7 +109,9 @@ class growthHandler extends Handler {
 		switch (msg.what) {
 		case GrowthThread.MSG_PLAY:
 			BinaryTraitsCalculator.timelim -= 4;
+			client.resetTree();
 			client.treeView.setDuringInteraction(false);
+			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
 			if (BinaryTraitsCalculator.timelim > 0)
 				sendEmptyMessageDelayed(GrowthThread.MSG_PLAY, 400);
@@ -135,7 +139,9 @@ class growthHandler extends Handler {
 		
 		case GrowthThread.MSG_CLOSE:
 			BinaryTraitsCalculator.timelim = -1;
+			this.removeMessages(GrowthThread.MSG_PLAY);
 			client.treeView.setDuringInteraction(false);
+			client.treeView.setDuringGrowthAnimation(false);
 			client.treeView.postInvalidate();
 			break;
 

@@ -105,12 +105,11 @@ public class CanvasActivity extends Activity{
 		MidNode.setContext(this);
 		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
 			MidNode.setScreenSize(0, 0, 800, 1200);			
-			PositionData.setScreenPosition(255, 800, 0.75f);
 		} else {
 			MidNode.setScreenSize(0, 0, 1280, 640);
-			PositionData.setScreenPosition(500, 545, 0.73f);
 		}
 
+		resetScreenPosition();
 		fulltree = MidNode.createNode(groupIndexMap.get(selectedItem));
 		fulltree.recalculate();
 		fulltree.init();
@@ -200,9 +199,9 @@ public class CanvasActivity extends Activity{
 		return super.onOptionsItemSelected(item);
 	}
 
-	private void resetTree() {
+	public void resetTree() {
 		treeView.setDuringInteraction(false);
-		PositionData.setScreenPosition(200, 900, 1);
+		resetScreenPosition();
 		this.reset();
 	}
 
@@ -251,5 +250,13 @@ public class CanvasActivity extends Activity{
 
 	public void setOrientation(int orientation) {
 		this.orientation = orientation;
+	}
+	
+	private void resetScreenPosition() {
+		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
+			PositionData.setScreenPosition(255, 800, 0.75f);
+		} else {
+			PositionData.setScreenPosition(500, 545, 0.73f);
+		}
 	}
 }

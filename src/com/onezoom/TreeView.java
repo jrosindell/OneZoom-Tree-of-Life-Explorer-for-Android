@@ -2,6 +2,7 @@ package com.onezoom;
 
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
+import com.onezoom.midnode.Utility;
 
 import android.content.Context;
 import android.content.res.Configuration;
@@ -25,6 +26,7 @@ public class TreeView extends View {
 	private boolean treeBeingInitialized = false;
 	private boolean duringRecalculation = false;
 	private boolean duringInteraction = false;
+	private boolean duringGrowthAnimation = false;
 	private Bitmap cachedBitmap;
 	private Paint paint;
 	private boolean toggle = true;
@@ -110,7 +112,10 @@ public class TreeView extends View {
 			this.distanceY = 0;
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
-			client.getTreeRoot().drawElement(canvas);				
+			client.getTreeRoot().drawElement(canvas);
+			if (this.isDuringGrowthAnimation()) {
+				drawGrowthPeriodInfo(canvas, paint);
+			}
 			toggle = !toggle;
 		}
 		duringInteraction = true;
@@ -218,6 +223,14 @@ public class TreeView extends View {
 		this.duringInteraction = duringInteraction;
 	}
 
+	public boolean isDuringGrowthAnimation() {
+		return duringGrowthAnimation;
+	}
+
+	public void setDuringGrowthAnimation(boolean duringGrowthAnimation) {
+		this.duringGrowthAnimation = duringGrowthAnimation;
+	}
+
 	private void drawLoading(Canvas canvas) {
 		String text = "loading...";
 		Paint textPaint = new Paint();
@@ -226,6 +239,17 @@ public class TreeView extends View {
 		textPaint.setTextSize(100);
 		int x = getWidth()/2;
 		int y = getHeight()/2;
+		canvas.drawText(text, x, y, textPaint);		
+	}
+	
+	private void drawGrowthPeriodInfo(Canvas canvas, Paint paint) {
+		String text = Utility.growthInfo();
+		Paint textPaint = new Paint();
+		textPaint.setColor(Color.BLACK);
+		textPaint.setTextAlign(Align.CENTER);
+		textPaint.setTextSize(35);
+		int x = getWidth()/2;
+		int y = getHeight() - 100;
 		canvas.drawText(text, x, y, textPaint);		
 	}
 
