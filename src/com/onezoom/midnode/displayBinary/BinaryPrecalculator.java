@@ -16,7 +16,7 @@ public class BinaryPrecalculator {
 	private static final float angleOfChild2Left = (float) (0.46f * Math.PI);
 	private static final float leafmult = 3.2f;
 	private static final float posmult = leafmult -2f;
-	private static final float partc = 0.4f;
+	private static final float partc = 0.5f;
 
 	private static float rootAngle = (float) (Math.PI * 3 / 2);
 	

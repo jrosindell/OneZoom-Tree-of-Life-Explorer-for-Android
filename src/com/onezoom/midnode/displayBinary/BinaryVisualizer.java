@@ -169,9 +169,9 @@ public class BinaryVisualizer{
 				.toString(midNode.traitsCaculator.getRichness()) + " species";
 		String[] circleDetailText = { Utility.geologicAge(midNode),
 				String.format("%.1f", midNode.traitsCaculator.getLengthbr()) + " million years ago",
-				speciesInfo, "conservation Status pie chart" };
+				speciesInfo};
 
-		drawTextMultipleLines(circleDetailText, startX + radius, startY + 0.3f
+		drawTextMultipleLines(circleDetailText, startX + radius, startY + 0.45f
 				* radius, lineHeight, lineWidth, textPaint);		
 	}
 
@@ -195,7 +195,7 @@ public class BinaryVisualizer{
 		}
 
 		drawTextOneLine(outputInfo, startX + radius, startY + 1.1f * radius,
-				2f * radius, textPaint);		
+				1.7f * radius, textPaint);		
 	}
 
 	private void drawTextDetail(LeafNode midNode) {

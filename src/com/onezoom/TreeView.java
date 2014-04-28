@@ -1,5 +1,6 @@
 package com.onezoom;
 
+import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 
 import android.content.Context;
@@ -54,7 +55,7 @@ public class TreeView extends View {
 		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); //this will not be used. set to 1,1 to speed up the app
 		paint = new Paint();
 	}
-
+	
 
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {

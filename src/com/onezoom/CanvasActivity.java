@@ -105,10 +105,10 @@ public class CanvasActivity extends Activity{
 		MidNode.setContext(this);
 		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
 			MidNode.setScreenSize(0, 0, 800, 1200);			
-			PositionData.setScreenPosition(235, 800, 1f);
+			PositionData.setScreenPosition(255, 800, 0.75f);
 		} else {
 			MidNode.setScreenSize(0, 0, 1280, 640);
-			PositionData.setScreenPosition(500, 700, 1f);
+			PositionData.setScreenPosition(500, 545, 0.73f);
 		}
 
 		fulltree = MidNode.createNode(groupIndexMap.get(selectedItem));
