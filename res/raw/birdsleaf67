@@ -1,0 +1,41 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"ogilviegranti","Phylloscopus","Kloss's Leaf-warbler",LC,U,-16731116
+10,8,"hainanus","Phylloscopus","Hainan Leaf-warbler",VU,U,-11184866
+11,7,"davisoni","Phylloscopus","Davison's Leaf-warbler",LC,U,-16731116
+13,12,"xanthoschistos","Phylloscopus","Grey-hooded Warbler",LC,U,-16731116
+14,12,"presbytes","Phylloscopus","Timor Leaf-warbler",LC,U,-16731116
+18,17,"poliocephalus","Phylloscopus","Island Leaf-warbler",LC,U,-16731116
+19,17,"amoenus","Phylloscopus","Sombre Leaf-warbler",VU,U,-11184866
+20,16,"sarasinorum","Phylloscopus","Sulawesi Leaf-warbler",LC,U,-16731116
+21,15,"trivirgatus","Phylloscopus","Mountain Leaf-warbler",LC,U,-16731116
+25,24,"occipitalis","Phylloscopus","Western Crowned Warbler",LC,U,-16731116
+26,24,"goodsoni","Phylloscopus","Hartert's Warbler",LC,U,-16731116
+27,23,"claudiae","Phylloscopus","Claudia's Warbler",LC,U,-16731116
+28,22,"reguloides","Phylloscopus","Southern Blyth's Leaf-warbler",LC,U,-16731116
+30,29,"ricketti","Phylloscopus","Sulphur-breasted Warbler",LC,U,-16731116
+31,29,"cantator","Phylloscopus","Yellow-vented Warbler",LC,U,-16731116
+37,36,"tenellipes","Phylloscopus","Pale-legged Leaf-warbler",LC,U,-16731116
+38,36,"borealoides","Phylloscopus","Sakhalin Leaf-warbler",LC,U,-16731116
+39,35,"magnirostris","Phylloscopus","Large-billed Leaf-warbler",LC,U,-16731116
+40,34,"borealis","Phylloscopus","Arctic Warbler",LC,U,-16731116
+41,33,"emeiensis","Phylloscopus","Emei Leaf-warbler",LC,U,-16731116
+43,42,"trochiloides","Phylloscopus","Greenish Warbler",LC,U,-16731116
+44,42,"nitidus","Phylloscopus","Green Warbler",_U,[,-16777216
+51,50,"tephrocephalus","Seicercus","Grey-crowned Warbler",LC,U,-16731116
+52,50,"burkii","Seicercus","Green-crowned Warbler",LC,U,-16731116
+53,49,"affinis","Seicercus","White-spectacled Warbler",LC,U,-16731116
+54,48,"poliogenys","Seicercus","Grey-cheeked Warbler",LC,U,-16731116
+58,57,"whistleri","Seicercus","Whistler's Warbler",LC,U,-16731116
+59,57,"valentini","Seicercus","Bianchi's Warbler",LC,U,-16731116
+60,56,"soror","Seicercus","Alstrom's Warbler",LC,U,-16731116
+61,55,"omeiensis","Seicercus","Martens's Warbler",LC,U,-16731116
+64,63,"castaniceps","Seicercus","Chestnut-crowned Warbler",LC,U,-16731116
+65,63,"grammiceps","Seicercus","Sunda Warbler",LC,U,-16731116
+66,62,"montis","Seicercus","Yellow-breasted Warbler",LC,U,-16731116
+69,68,"ruficapilla","Phylloscopus","Yellow-throated Woodland-warbler",LC,U,-16731116
+70,68,"umbrovirens","Phylloscopus","Brown Woodland-warbler",LC,U,-16731116
+71,67,"laetus","Phylloscopus","Red-faced Woodland-warbler",LC,U,-16731116
+74,73,"cebuensis","Phylloscopus","Lemon-throated Leaf-warbler",LC,U,-16731116
+75,73,"olivaceus","Phylloscopus","Philippine Leaf-warbler",LC,U,-16731116
+77,76,"coronatus","Phylloscopus","Eastern Crowned Warbler",LC,U,-16731116
+78,76,"ijimae","Phylloscopus","Izu Leaf-warbler",VU,U,-11184866

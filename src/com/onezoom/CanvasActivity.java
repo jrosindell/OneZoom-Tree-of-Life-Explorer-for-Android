@@ -48,13 +48,8 @@ public class CanvasActivity extends Activity{
 		groupIndexMap = new TreeMap<String, String>();
 		groupIndexMap.put("Mammals", "0");
 		groupIndexMap.put("Tetrapods", "0");
-		groupIndexMap.put("Bacteria", "0");
 		groupIndexMap.put("Amphibian", "0");
 		groupIndexMap.put("Birds", "0");
-		groupIndexMap.put("Snakes", "0");
-		groupIndexMap.put("Turtles", "0");
-		groupIndexMap.put("CrossSpecies", "0");
-		groupIndexMap.put("Squamates", "0");
 		retrieveData();
 	}
 	
@@ -137,20 +132,9 @@ public class CanvasActivity extends Activity{
 		} else if (selectedItem.equals("Birds")) {
 			selectedString = Data.newBirdsString;
 		} else if (selectedItem.equals("Amphibian")) {
-			selectedString = Data.newApibiansString;
-		} else if (selectedItem.equals("Snakes")) {
-			selectedString = Data.newSnakeString;
-		} else if (selectedItem.equals("Turtles")) {
-			selectedString = Data.newTurtleString;
-		} else if (selectedItem.equals("Cross Species")) {
-			selectedItem = "CrossSpecies";
-			selectedString = Data.newCrocsString;
-		} else if (selectedItem.equals("Squamates")) {
-			selectedString = Data.newSquamatesString;
+			selectedString = Data.newAmphibianString;
 		} else if (selectedItem.equals("Tetrapods")) {
 			selectedString = Data.newTetrapodsString;
-		} else if (selectedItem.equals("Bacteria")) {
-			selectedString = Data.newBacteriaString;
 		}
 	}
 	

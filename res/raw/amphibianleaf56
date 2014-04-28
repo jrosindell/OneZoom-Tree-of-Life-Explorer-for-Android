@@ -1,0 +1,89 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,7,"townsendi","Parvimolge","Tropical Dwarf Salamander",CR,D,-3014646
+16,15,"narismagnus","Thorius","",CR,D,-3014646
+17,15,"omiltemi","Thorius","",EN,D,-8572416
+19,18,"infernalis","Thorius","",CR,D,-3014646
+20,18,"arboreus","Thorius","",EN,D,-8572416
+21,13,"schmidti","Thorius","",EN,D,-8572416
+25,24,"pulmonaris","Thorius","",EN,D,-8572416
+26,24,"dubitus","Thorius","",EN,D,-8572416
+27,23,"lunaris","Thorius","",EN,D,-8572416
+28,22,"munificus","Thorius","",CR,D,-3014646
+32,31,"macdougalli","Thorius","",VU,S,-11184866
+33,31,"pennatulus","Thorius","",CR,D,-3014646
+34,30,"grandis","Thorius","",EN,D,-8572416
+37,36,"troglodytes","Thorius","",EN,D,-8572416
+38,36,"aureus","Thorius","",CR,D,-3014646
+39,35,"magnipes","Thorius","",CR,D,-3014646
+43,42,"insperatus","Thorius","",DD,U,-11513776
+44,42,"minydemus","Thorius","",CR,D,-3014646
+46,45,"minutissimus","Thorius","",CR,D,-3014646
+47,45,"boreas","Thorius","",EN,D,-8572416
+50,49,"narisovalis","Thorius","",CR,D,-3014646
+51,49,"spilogaster","Thorius","",CR,D,-3014646
+53,52,"papaloae","Thorius","",EN,D,-8572416
+54,52,"smithi","Thorius","",CR,U,-3014646
+60,59,"naufragia","Eurycea","San Gabriel Springs Salamander",EN,D,-8572416
+61,59,"rathbuni","Eurycea","Texas Blind Salamander",VU,S,-11184866
+62,58,"lucifuga","Eurycea","Cave Salamander",LC,U,-16731116
+68,67,"gulolineatus","Gyrinophilus","Berry Cave Salamander",EN,D,-8572416
+69,67,"porphyriticus","Gyrinophilus","Spring Salamander",LC,S,-16731116
+70,66,"palleucus","Gyrinophilus","Tennessee Cave Salamander",VU,D,-11184866
+71,65,"subterraneus","Gyrinophilus","West Virginia Spring Salamander",EN,U,-8572416
+72,64,"marginatus","Stereochilus","Many-lined Salamander",LC,U,-16731116
+74,73,"montanus","Pseudotriton","Mud Salamander",LC,U,-16731116
+75,73,"ruber","Pseudotriton","Red Salamander",LC,D,-16731116
+76,2,"scutatum","Hemidactylium","Four-toed Salamander",LC,S,-16731116
+83,82,"attenuatus","Batrachoseps","California Slender Salamander",LC,S,-16731116
+84,82,"gabrieli","Batrachoseps","San Gabriel Slender Salamander",DD,U,-11513776
+86,85,"diabolicus","Batrachoseps","Hell Hollow Slender Salamander",DD,U,-11513776
+87,85,"relictus","Batrachoseps","Relictual Slender Salamander",DD,U,-11513776
+89,88,"robustus","Batrachoseps","Kern Plateau Salamander",NT,S,-12486656
+90,88,"campi","Batrachoseps","Inyo Mountains Salamander",EN,D,-8572416
+95,94,"kawia","Batrachoseps","Sequoia Slender Salamander",DD,U,-11513776
+96,94,"minor","Batrachoseps","Lesser Slender Salamander",DD,U,-11513776
+97,93,"gregarius","Batrachoseps","Gregarious Slender Salamander",LC,S,-16731116
+98,92,"regius","Batrachoseps","Kings River Slender Salamander",VU,S,-11184866
+99,91,"gavilanensis","Batrachoseps","Gabilan Mountains Slender Salamander",LC,S,-16731116
+105,104,"nigriventris","Batrachoseps","Blackbelly Slender Salamander",LC,S,-16731116
+106,104,"major","Batrachoseps","Garden Slender Salamander",LC,S,-16731116
+107,103,"pacificus","Batrachoseps","Channel Islands Slender Salamander",LC,S,-16731116
+108,102,"simatus","Batrachoseps","Kern Canyon Slender Salamander",VU,S,-11184866
+110,109,"stebbinsi","Batrachoseps","Tehachapi Slender Salamander",VU,U,-11184866
+111,109,"wrightorum","Batrachoseps","",NE,U,-16777216
+112,100,"incognitus","Batrachoseps","San Simeon Slender Salamander",DD,U,-11513776
+113,77,"luciae","Batrachoseps","Santa Lucia Mountains Slender Salamander",LC,S,-16731116
+124,123,"dorsalis","Plethodon","Northern Zigzag Salamander",LC,S,-16731116
+125,123,"welleri","Plethodon","Weller's Salamander",EN,D,-8572416
+126,122,"ventralis","Plethodon","Southern Zigzag Salamander",LC,D,-16731116
+127,121,"angusticlavius","Plethodon","Ozark Zigzag Salamander",LC,S,-16731116
+128,120,"websteri","Plethodon","Webster's Salamander",LC,D,-16731116
+132,131,"stormi","Plethodon","Siskiyou Mountains Salamander",EN,D,-8572416
+133,131,"asupak","Plethodon","Scottbar Salamander",VU,U,-11184866
+134,130,"elongatus","Plethodon","Del Norte Salamander",NT,D,-12486656
+135,129,"ainsworthi","Plethodon","Ainsworth's Salamander",EX,U,-16777036
+137,136,"idahoensis","Plethodon","Coeur D'Alene Salamander",LC,U,-16731116
+138,136,"vandykei","Plethodon","Van Dyke's Salamander",LC,S,-16731116
+140,139,"neomexicanus","Plethodon","Jemez Mountains Salamander",NT,S,-12486656
+141,139,"larselli","Plethodon","Larch Mountain Salamander",NT,S,-12486656
+147,146,"serratus","Plethodon","Southern Redback Salamander",LC,S,-16731116
+148,146,"nettingi","Plethodon","Cheat Mountain Salamander",NT,S,-12486656
+150,149,"hoffmani","Plethodon","Valley And Ridge Salamander",LC,S,-16731116
+151,149,"shenandoah","Plethodon","Shenandoah Salamander",VU,S,-11184866
+153,152,"hubrichti","Plethodon","Peaks Of Otter Salamander",VU,U,-11184866
+154,152,"richmondi","Plethodon","Ravine Salamander",LC,S,-16731116
+158,157,"virginia","Plethodon","Shenandoah Mountain Salamander",NT,U,-12486656
+159,157,"sherando","Plethodon","Big Levels Salamander",VU,U,-11184866
+160,156,"cinereus","Plethodon","Redback Salamander",LC,S,-16731116
+161,155,"electromorphus","Plethodon","Northern Ravine Salamander",LC,S,-16731116
+163,162,"punctatus","Plethodon","White-spotted Salamander",NT,S,-12486656
+164,162,"wehrlei","Plethodon","Wehrle's Salamander",LC,S,-16731116
+167,166,"vehiculum","Plethodon","Western Redback Salamander",LC,S,-16731116
+168,166,"dunni","Plethodon","Dunn's Salamander",LC,S,-16731116
+174,173,"hardii","Aneides","Sacramento Mountain Salamander",LC,S,-16731116
+175,173,"aeneus","Aneides","Green Salamander",NT,D,-12486656
+176,172,"flavipunctatus","Aneides","Black Salamander",NT,D,-12486656
+179,178,"lugubris","Aneides","Arboreal Salamander",LC,S,-16731116
+180,178,"vagrans","Aneides","Wandering Salamander",NT,D,-12486656
+181,177,"ferreus","Aneides","Clouded Salamander",NT,D,-12486656
+182,169,"eschscholtzii","Ensatina","Ensatina",LC,D,-16731116

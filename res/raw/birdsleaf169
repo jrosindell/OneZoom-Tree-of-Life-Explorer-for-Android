@@ -1,0 +1,25 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"natalis","Ninox","Christmas Island Hawk-owl",VU,U,-11184866
+10,8,"squamipila","Ninox","Moluccan Hawk-owl",LC,U,-16731116
+12,11,"novaeseelandiae","Ninox","Southern Boobook",LC,U,-16731116
+13,11,"boobook","Ninox","Southern Boobook",_U,[,-16777216
+14,6,"rudolfi","Ninox","Sumba Boobook",NT,U,-12486656
+17,16,"burhani","Ninox","Togian Hawk-owl",NT,U,-12486656
+18,16,"odiosa","Ninox","Russet Hawk-owl",VU,U,-11184866
+20,19,"affinis","Ninox","Andaman Hawk-owl",NT,U,-12486656
+21,19,"connivens","Ninox","Barking Owl",LC,U,-16731116
+24,23,"sumbaensis","Ninox","Little Sumba Hawk-owl",NT,U,-12486656
+25,23,"philippensis","Ninox","Philippine Hawk-owl",LC,U,-16731116
+27,26,"superciliaris","Ninox","White-browed Hawk-owl",LC,U,-16731116
+28,26,"ios","Ninox","Cinnabar Hawk-owl",VU,U,-11184866
+31,30,"ochracea","Ninox","Ochre-bellied Hawk-owl",NT,U,-12486656
+32,30,"strenua","Ninox","Powerful Owl",LC,U,-16731116
+34,33,"variegata","Ninox","Bismarck Hawk-owl",LC,U,-16731116
+35,33,"rufa","Ninox","Rufous Owl",LC,U,-16731116
+39,38,"punctulata","Ninox","Speckled Hawk-owl",LC,U,-16731116
+40,38,"meeki","Ninox","Manus Hawk-owl",LC,U,-16731116
+41,37,"scutulata","Ninox","Brown Hawk-owl",LC,U,-16731116
+42,36,"jacquinoti","Ninox","Solomons Hawk-owl",LC,U,-16731116
+43,1,"theomacha","Ninox","Jungle Hawk-owl",LC,U,-16731116
+45,44,"loweryi","Xenoglaux","Long-whiskered Owlet",EN,U,-8572416
+46,44,"dimorpha","Uroglaux","Papuan Hawk-owl",DD,U,-11513776

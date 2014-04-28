@@ -1,0 +1,31 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"psittacula","Camarhynchus","Large Tree-finch",LC,U,-16731116
+14,12,"pallidus","Camarhynchus","Woodpecker Finch",LC,U,-16731116
+16,15,"parvulus","Camarhynchus","Small Tree-finch",LC,U,-16731116
+17,15,"pauper","Camarhynchus","Medium Tree-finch",CR,U,-3014646
+18,10,"heliobates","Camarhynchus","Mangrove Finch",CR,U,-3014646
+19,9,"inornata","Pinaroloxias","Cocos Finch",VU,U,-11184866
+24,23,"difficilis","Geospiza","Sharp-beaked Ground-finch",LC,U,-16731116
+25,23,"fuliginosa","Geospiza","Small Ground-finch",LC,U,-16731116
+26,22,"conirostris","Geospiza","Large Cactus-finch",LC,U,-16731116
+27,21,"magnirostris","Geospiza","Large Ground-finch",LC,U,-16731116
+28,20,"scandens","Geospiza","Common Cactus-finch",LC,U,-16731116
+29,7,"crassirostris","Platyspiza","Vegetarian Finch",LC,U,-16731116
+30,6,"olivacea","Certhidea","Warbler Finch",LC,U,-16731116
+31,5,"fortis","Geospiza","Medium Ground-finch",LC,U,-16731116
+32,4,"richardsoni","Melanospiza","St Lucia Black Finch",EN,U,-8572416
+37,36,"obscurus","Tiaris","Dull-coloured Grassquit",LC,U,-16731116
+38,36,"fuliginosus","Tiaris","Sooty Grassquit",LC,U,-16731116
+39,35,"bicolor","Tiaris","Black-faced Grassquit",LC,U,-16731116
+40,34,"canorus","Tiaris","Cuban Grassquit",LC,U,-16731116
+41,33,"olivaceus","Tiaris","Yellow-faced Grassquit",LC,U,-16731116
+43,42,"anoxanthus","Loxipasser","Yellow-shouldered Grassquit",LC,U,-16731116
+44,42,"loricata","Compsothraupis","Scarlet-throated Tanager",LC,U,-16731116
+50,49,"barbadensis","Loxigilla","Barbados Bullfinch",LC,U,-16731116
+51,49,"nigra","Melopyrrha","Cuban Bullfinch",LC,U,-16731116
+53,52,"violacea","Loxigilla","Greater Antillean Bullfinch",LC,U,-16731116
+54,52,"abeillei","Orchesticus","Brown Tanager",NT,U,-12486656
+55,47,"portoricensis","Loxigilla","Puerto Rican Bullfinch",LC,U,-16731116
+56,46,"noctis","Loxigilla","Lesser Antillean Bullfinch",LC,U,-16731116
+57,45,"campestris","Euneornis","Orangequit",LC,U,-16731116
+58,0,"flaveola","Coereba","Bananaquit",LC,U,-16731116

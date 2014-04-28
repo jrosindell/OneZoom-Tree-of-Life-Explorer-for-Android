@@ -1,0 +1,52 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"cerviniventris","Phyllastrephus","Grey-olive Greenbul",LC,U,-16731116
+13,11,"baumanni","Phyllastrephus","Baumann's Greenbul",LC,U,-16731116
+15,14,"fischeri","Phyllastrephus","Fischer's Greenbul",LC,U,-16731116
+16,14,"cabanisi","Phyllastrephus","Cabanis's Greenbul",LC,U,-16731116
+17,9,"strepitans","Phyllastrephus","Northern Brownbul",LC,U,-16731116
+19,18,"poensis","Phyllastrephus","Cameroon Olive Greenbul",LC,U,-16731116
+20,18,"leucolepis","Phyllastrephus","Liberian Greenbul",CR,U,-3014646
+21,7,"terrestris","Phyllastrephus","Terrestrial Brownbul",LC,U,-16731116
+23,22,"poliocephalus","Phyllastrephus","Grey-headed Greenbul",NT,U,-12486656
+24,22,"scandens","Pyrrhurus","Leaf-love",LC,U,-16731116
+29,28,"albigularis","Phyllastrephus","White-throated Greenbul",LC,U,-16731116
+30,28,"xavieri","Phyllastrephus","Xavier's Greenbul",LC,U,-16731116
+31,27,"icterinus","Phyllastrephus","Icterine Greenbul",LC,U,-16731116
+32,26,"lorenzi","Phyllastrephus","Sassi's Olive Greenbul",_U,[,-16777216
+33,25,"debilis","Phyllastrephus","Tiny Greenbul",LC,U,-16731116
+36,35,"flavostriatus","Phyllastrephus","Yellow-streaked Greenbul",LC,U,-16731116
+37,35,"fulviventris","Phyllastrephus","Pale-olive Greenbul",LC,U,-16731116
+38,34,"hypochloris","Phyllastrephus","Toro Olive Greenbul",LC,U,-16731116
+43,42,"ndussumensis","Criniger","White-bearded Bulbul",LC,U,-16731116
+44,42,"calurus","Criniger","Red-tailed Bulbul",LC,U,-16731116
+46,45,"chloronotus","Criniger","Green-backed Bulbul",LC,U,-16731116
+47,45,"barbatus","Criniger","Bearded Bulbul",LC,U,-16731116
+48,40,"olivaceus","Criniger","Yellow-bearded Greenbul",VU,U,-11184866
+52,51,"ansorgei","Andropadus","Ansorge's Greenbul",LC,U,-16731116
+53,51,"gracilis","Andropadus","Grey Greenbul",LC,U,-16731116
+54,50,"curvirostris","Andropadus","Plain Greenbul",LC,U,-16731116
+56,55,"latirostris","Andropadus","Yellow-whiskered Greenbul",LC,U,-16731116
+57,55,"virens","Andropadus","Little Greenbul",LC,U,-16731116
+65,64,"leucopleura","Thescelocichla","Swamp Greenbul",LC,U,-16731116
+66,64,"guttatus","Ixonotus","Spotted Greenbul",LC,U,-16731116
+67,63,"flavicollis","Chlorocichla","Yellow-throated Greenbul",LC,U,-16731116
+69,68,"prigoginei","Chlorocichla","Prigogine's Greenbul",EN,U,-8572416
+70,68,"laetissima","Chlorocichla","Joyful Greenbul",LC,U,-16731116
+73,72,"flaviventris","Chlorocichla","Yellow-bellied Greenbul",LC,U,-16731116
+74,72,"simplex","Chlorocichla","Simple Greenbul",LC,U,-16731116
+75,71,"falkensteini","Chlorocichla","Yellow-necked Greenbul",LC,U,-16731116
+77,76,"indicator","Baeopogon","Honeyguide Greenbul",LC,U,-16731116
+78,76,"clamans","Baeopogon","White-tailed Greenbul",LC,U,-16731116
+83,82,"tephrolaemus","Andropadus","Western Mountain Greenbul",LC,U,-16731116
+84,82,"masukuensis","Andropadus","Shelley's Greenbul",LC,U,-16731116
+85,81,"nigriceps","Andropadus","Eastern Mountain Greenbul",LC,U,-16731116
+86,80,"milanjensis","Andropadus","Stripe-cheeked Greenbul",LC,U,-16731116
+87,79,"montanus","Andropadus","Cameroon Montane Greenbul",NT,U,-12486656
+91,90,"canicapillus","Bleda","Grey-headed Bristlebill",LC,U,-16731116
+92,90,"notatus","Bleda","Lesser Bristlebill",LC,U,-16731116
+93,89,"eximius","Bleda","Green-tailed Bristlebill",VU,U,-11184866
+94,88,"syndactylus","Bleda","Common Bristlebill",LC,U,-16731116
+95,1,"torquatus","Neolestes","Black-collared Bulbul",LC,U,-16731116
+98,97,"gracilirostris","Andropadus","Slender-billed Greenbul",LC,U,-16731116
+99,97,"serina","Calyptocichla","Golden Greenbul",LC,U,-16731116
+100,96,"importunus","Andropadus","Sombre Greenbul",LC,U,-16731116

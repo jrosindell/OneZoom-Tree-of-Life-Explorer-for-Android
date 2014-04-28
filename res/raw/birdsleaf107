@@ -1,0 +1,96 @@
+index,parent,name1,name2,common,redlist,popstab,color
+16,15,"malabarica","Galerida","Malabar Lark",LC,U,-16731116
+17,15,"cristata","Galerida","Crested Lark",LC,U,-16731116
+18,14,"deva","Galerida","Tawny Lark",LC,U,-16731116
+19,13,"theklae","Galerida","Thekla Lark",LC,U,-16731116
+21,20,"magnirostris","Galerida","Large-billed Lark",LC,U,-16731116
+22,20,"modesta","Galerida","Sun Lark",LC,U,-16731116
+26,25,"arvensis","Alauda","Eurasian Skylark",LC,U,-16731116
+27,25,"razae","Alauda","Raso Lark",CR,U,-3014646
+28,24,"japonica","Alauda","Japanese Skylark",LC,U,-16731116
+29,23,"gulgula","Alauda","Oriental Skylark",LC,U,-16731116
+30,10,"arborea","Lullula","Wood Lark",LC,U,-16731116
+36,35,"fringillaris","Spizocorys","Botha's Lark",EN,U,-8572416
+37,35,"personata","Spizocorys","Masked Lark",LC,U,-16731116
+38,34,"sclateri","Spizocorys","Sclater's Lark",NT,U,-12486656
+39,33,"conirostris","Spizocorys","Pink-billed Lark",LC,U,-16731116
+40,32,"obbiensis","Spizocorys","Obbia Lark",DD,U,-11513776
+42,41,"starki","Eremalauda","Stark's Lark",LC,U,-16731116
+43,41,"dunni","Eremalauda","Dunn's Lark",LC,U,-16731116
+48,47,"yeltoniensis","Melanocorypha","Black Lark",LC,U,-16731116
+49,47,"maxima","Melanocorypha","Tibetan Lark",LC,U,-16731116
+50,46,"calandra","Melanocorypha","Calandra Lark",LC,U,-16731116
+52,51,"leucoptera","Melanocorypha","White-winged Lark",LC,U,-16731116
+53,51,"mongolica","Melanocorypha","Mongolian Lark",LC,U,-16731116
+54,44,"bimaculata","Melanocorypha","Bimaculated Lark",LC,U,-16731116
+59,58,"brachydactyla","Calandrella","Greater Short-toed Lark",LC,U,-16731116
+60,58,"cinerea","Calandrella","Red-capped Lark",LC,U,-16731116
+61,57,"cheleensis","Calandrella","Asian Short-toed Lark",LC,U,-16731116
+62,56,"somalica","Calandrella","Rufous Short-toed Lark",LC,U,-16731116
+65,64,"rufescens","Calandrella","Lesser Short-toed Lark",LC,U,-16731116
+66,64,"raytal","Calandrella","Indian Short-toed Lark",LC,U,-16731116
+67,63,"acutirostris","Calandrella","Hume's Lark",LC,U,-16731116
+69,68,"bilopha","Eremophila","Temminck's Lark",LC,U,-16731116
+70,68,"alpestris","Eremophila","Horned Lark",LC,U,-16731116
+72,71,"clotbey","Rhamphocoris","Thick-billed Lark",LC,U,-16731116
+73,71,"duponti","Chersophilus","Dupont's Lark",NT,U,-12486656
+83,82,"williamsi","Mirafra","Williams's Lark",DD,U,-11513776
+84,82,"rufa","Mirafra","Rusty Lark",LC,U,-16731116
+85,81,"affinis","Mirafra","Jerdon's Bushlark",LC,U,-16731116
+86,80,"pulpa","Mirafra","Friedmann's Lark",DD,U,-11513776
+87,79,"javanica","Mirafra","Australasian Lark",LC,U,-16731116
+89,88,"poecilosterna","Mirafra","Pink-breasted Lark",LC,U,-16731116
+90,88,"hypermetra","Mirafra","Red-winged Lark",LC,U,-16731116
+94,93,"passerina","Mirafra","Monotonous Lark",LC,U,-16731116
+95,93,"cheniana","Mirafra","Melodious Lark",NT,U,-12486656
+96,92,"erythroptera","Mirafra","Indian Lark",LC,U,-16731116
+99,98,"assamica","Mirafra","Rufous-winged Lark",LC,U,-16731116
+100,98,"angolensis","Mirafra","Angola Lark",LC,U,-16731116
+101,97,"apiata","Mirafra","Clapper Lark",LC,U,-16731116
+103,102,"albicauda","Mirafra","White-tailed Lark",LC,U,-16731116
+104,102,"alopex","Mirafra","Abyssinian Lark",LC,U,-16731116
+109,108,"rufocinnamomea","Mirafra","Flappet Lark",LC,U,-16731116
+110,108,"cantillans","Mirafra","Singing Bushlark",LC,U,-16731116
+111,107,"cordofanica","Mirafra","Kordofan Lark",LC,U,-16731116
+113,112,"africanoides","Mirafra","Fawn-coloured Lark",LC,U,-16731116
+114,112,"ashi","Mirafra","Ash's Lark",EN,U,-8572416
+118,117,"microptera","Mirafra","Burmese Bushlark",LC,U,-16731116
+119,117,"sabota","Mirafra","Sabota Lark",LC,U,-16731116
+120,116,"gilletti","Mirafra","Gillett's Lark",LC,U,-16731116
+122,121,"erythrocephala","Mirafra","Indochinese Bushlark",LC,U,-16731116
+123,121,"somalica","Mirafra","Somali Lark",LC,U,-16731116
+126,125,"africana","Mirafra","Rufous-naped Lark",LC,U,-16731116
+127,125,"collaris","Mirafra","Collared Lark",LC,U,-16731116
+128,124,"hova","Mirafra","Madagascar Lark",LC,U,-16731116
+137,136,"semitorquata","Certhilauda","Eastern Long-billed Lark",LC,U,-16731116
+138,136,"curvirostris","Certhilauda","Cape Long-billed Lark",LC,U,-16731116
+140,139,"fremantlii","Pseudalaemon","Short-tailed Lark",LC,U,-16731116
+141,139,"chuana","Certhilauda","Short-clawed Lark",LC,U,-16731116
+142,134,"subcoronata","Certhilauda","Karoo Long-billed Lark",LC,U,-16731116
+145,144,"sidamoensis","Heteromirafra","Liben Lark",CR,U,-3014646
+146,144,"ruddi","Heteromirafra","Rudd's Lark",VU,U,-11184866
+147,143,"archeri","Heteromirafra","Archer's Lark",CR,U,-3014646
+148,132,"erythrochlamys","Certhilauda","Dune Lark",LC,U,-16731116
+151,150,"erythropygia","Pinarocorys","Rufous-rumped Lark",LC,U,-16731116
+152,150,"nigricans","Pinarocorys","Dusky Lark",LC,U,-16731116
+154,153,"albofasciata","Chersomanes","Spike-heeled Lark",LC,U,-16731116
+155,153,"grayi","Ammomanes","Gray's Lark",LC,U,-16731116
+159,158,"barlowi","Certhilauda","Barlow's Lark",LC,U,-16731116
+160,158,"burra","Certhilauda","Red Lark",VU,U,-11184866
+161,157,"albescens","Certhilauda","Karoo Lark",LC,U,-16731116
+162,156,"deserti","Ammomanes","Desert Lark",LC,U,-16731116
+164,163,"alaudipes","Alaemon","Greater Hoopoe-lark",LC,U,-16731116
+165,163,"hamertoni","Alaemon","Lesser Hoopoe-lark",LC,U,-16731116
+172,171,"signatus","Eremopterix","Chestnut-headed Sparrow-lark",LC,U,-16731116
+173,171,"nigriceps","Eremopterix","Black-crowned Sparrow-lark",LC,U,-16731116
+174,170,"leucopareia","Eremopterix","Fischer's Sparrow-lark",LC,U,-16731116
+175,169,"verticalis","Eremopterix","Grey-backed Sparrow-lark",LC,U,-16731116
+176,168,"australis","Eremopterix","Black-eared Sparrow-lark",LC,U,-16731116
+178,177,"leucotis","Eremopterix","Chestnut-backed Sparrow-lark",LC,U,-16731116
+179,177,"griseus","Eremopterix","Ashy-crowned Sparrow-lark",LC,U,-16731116
+181,180,"phoenicura","Ammomanes","Rufous-tailed Lark",LC,U,-16731116
+182,180,"cinctura","Ammomanes","Bar-tailed Lark",LC,U,-16731116
+183,1,"biarmicus","Panurus","Bearded Parrotbill",LC,U,-16731116
+186,185,"chloris","Nicator","Yellow-spotted Nicator",LC,U,-16731116
+187,185,"vireo","Nicator","Yellow-throated Nicator",LC,U,-16731116
+188,184,"gularis","Nicator","Eastern Nicator",LC,U,-16731116

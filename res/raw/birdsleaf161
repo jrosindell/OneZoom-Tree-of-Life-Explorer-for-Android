@@ -1,0 +1,79 @@
+index,parent,name1,name2,common,redlist,popstab,color
+16,15,"variegatus","Indicator","Scaly-throated Honeyguide",LC,U,-16731116
+17,15,"maculatus","Indicator","Spotted Honeyguide",LC,U,-16731116
+18,14,"pumilio","Indicator","Dwarf Honeyguide",NT,U,-12486656
+21,20,"minor","Indicator","Lesser Honeyguide",LC,U,-16731116
+22,20,"exilis","Indicator","Least Honeyguide",LC,U,-16731116
+23,19,"willcocksi","Indicator","Willcocks's Honeyguide",LC,U,-16731116
+25,24,"xanthonotus","Indicator","Yellow-rumped Honeyguide",NT,U,-12486656
+26,24,"indicator","Indicator","Greater Honeyguide",LC,U,-16731116
+28,27,"conirostris","Indicator","Thick-billed Honeyguide",_U,[,-16777216
+29,27,"meliphilus","Indicator","Pallid Honeyguide",LC,U,-16731116
+30,10,"archipelagicus","Indicator","Malaysian Honeyguide",NT,U,-12486656
+35,34,"regulus","Prodotiscus","Wahlberg's Honeyguide",LC,U,-16731116
+36,34,"insignis","Prodotiscus","Cassin's Honeyguide",LC,U,-16731116
+37,33,"zambesiae","Prodotiscus","Green-backed Honeyguide",LC,U,-16731116
+38,32,"robustus","Melichneutes","Lyre-tailed Honeyguide",LC,U,-16731116
+40,39,"eisentrauti","Melignomon","Yellow-footed Honeyguide",DD,U,-11513776
+41,39,"zenkeri","Melignomon","Zenker's Honeyguide",LC,U,-16731116
+49,48,"damarensis","Phoeniculus","Violet Woodhoopoe",LC,U,-16731116
+50,48,"purpureus","Phoeniculus","Green Woodhoopoe",LC,U,-16731116
+51,47,"castaneiceps","Phoeniculus","Forest Woodhoopoe",LC,U,-16731116
+53,52,"somaliensis","Phoeniculus","Black-billed Woodhoopoe",LC,U,-16731116
+54,52,"bollei","Phoeniculus","White-headed Woodhoopoe",LC,U,-16731116
+57,56,"cyanomelas","Rhinopomastus","Common Scimitarbill",LC,U,-16731116
+58,56,"minor","Rhinopomastus","Abyssinian Scimitarbill",LC,U,-16731116
+59,55,"aterrimus","Rhinopomastus","Black Scimitarbill",LC,U,-16731116
+60,44,"epops","Upupa","Eurasian Hoopoe",LC,U,-16731116
+72,71,"erythrocephalus","Harpactes","Red-headed Trogon",LC,U,-16731116
+73,71,"whiteheadi","Harpactes","Whitehead's Trogon",NT,U,-12486656
+74,70,"ardens","Harpactes","Philippine Trogon",LC,U,-16731116
+75,69,"wardi","Harpactes","Ward's Trogon",NT,U,-12486656
+76,68,"kasumba","Harpactes","Red-naped Trogon",NT,U,-12486656
+77,67,"diardii","Harpactes","Diard's Trogon",NT,U,-12486656
+78,66,"fasciatus","Harpactes","Malabar Trogon",LC,U,-16731116
+79,65,"oreskios","Harpactes","Orange-breasted Trogon",LC,U,-16731116
+81,80,"orrhophaeus","Harpactes","Cinnamon-rumped Trogon",NT,U,-12486656
+82,80,"duvaucelii","Harpactes","Scarlet-rumped Trogon",NT,U,-12486656
+85,84,"aequatoriale","Apaloderma","Bare-cheeked Trogon",LC,U,-16731116
+86,84,"narina","Apaloderma","Narina Trogon",LC,U,-16731116
+87,83,"vittatum","Apaloderma","Bar-tailed Trogon",LC,U,-16731116
+93,92,"fulgidus","Pharomachrus","White-tipped Quetzal",LC,U,-16731116
+94,92,"antisianus","Pharomachrus","Crested Quetzal",LC,U,-16731116
+96,95,"auriceps","Pharomachrus","Golden-headed Quetzal",LC,U,-16731116
+97,95,"pavoninus","Pharomachrus","Pavonine Quetzal",LC,U,-16731116
+98,90,"mocinno","Pharomachrus","Resplendent Quetzal",NT,U,-12486656
+99,89,"neoxenus","Euptilotis","Eared Quetzal",NT,U,-12486656
+101,100,"mackloti","Apalharpactes","Sumatran Trogon",LC,U,-16731116
+102,100,"reinwardtii","Apalharpactes","Javan Trogon",EN,U,-8572416
+103,2,"discolor","Leptosomus","Cuckoo-roller",LC,U,-16731116
+115,114,"longimembris","Tyto","Eastern Grass-owl",LC,U,-16731116
+116,114,"capensis","Tyto","African Grass-owl",LC,U,-16731116
+117,113,"novaehollandiae","Tyto","Australian Masked-owl",LC,U,-16731116
+118,112,"tenebricosa","Tyto","Sooty Owl",LC,U,-16731116
+120,119,"inexspectata","Tyto","Sulawesi Golden Owl",VU,U,-11184866
+121,119,"aurantia","Tyto","Bismarck Masked-owl",VU,U,-11184866
+125,124,"glaucops","Tyto","Ashy-faced Owl",LC,U,-16731116
+126,124,"alba","Tyto","Barn Owl",LC,U,-16731116
+127,123,"manusi","Tyto","Manus Masked-owl",VU,U,-11184866
+129,128,"nigrobrunnea","Tyto","Taliabu Masked-owl",EN,U,-8572416
+130,128,"rosenbergii","Tyto","Sulawesi Owl",LC,U,-16731116
+132,131,"soumagnei","Tyto","Madagascar Red Owl",VU,U,-11184866
+133,131,"sororcula","Tyto","Lesser Masked-owl",DD,U,-11513776
+135,134,"prigoginei","Phodilus","Congo Bay-owl",EN,U,-8572416
+136,134,"badius","Phodilus","Oriental Bay-owl",LC,U,-16731116
+145,144,"axillaris","Elanus","Black-shouldered Kite",LC,U,-16731116
+146,144,"leucurus","Elanus","White-tailed Kite",LC,U,-16731116
+148,147,"scriptus","Elanus","Letter-winged Kite",NT,U,-12486656
+149,147,"caeruleus","Elanus","Black-winged Kite",LC,U,-16731116
+151,150,"riocourii","Chelictinia","African Swallow-tailed Kite",LC,U,-16731116
+152,150,"swainsonii","Gampsonyx","Pearl Kite",LC,U,-16731116
+153,139,"haliaetus","Pandion","Osprey",LC,U,-16731116
+154,138,"serpentarius","Sagittarius","Secretarybird",LC,U,-16731116
+159,158,"melambrotus","Cathartes","Greater Yellow-headed Vulture",LC,U,-16731116
+160,158,"burrovianus","Cathartes","Lesser Yellow-headed Vulture",LC,U,-16731116
+161,157,"aura","Cathartes","Turkey Vulture",LC,U,-16731116
+163,162,"californianus","Gymnogyps","California Condor",CR,U,-3014646
+164,162,"atratus","Coragyps","Black Vulture",LC,U,-16731116
+166,165,"papa","Sarcoramphus","King Vulture",LC,U,-16731116
+167,165,"gryphus","Vultur","Andean Condor",NT,U,-12486656

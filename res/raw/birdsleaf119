@@ -1,0 +1,26 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"albipectus","Pyrrhura","White-necked Parakeet",VU,U,-11184866
+10,8,"melanura","Pyrrhura","Maroon-tailed Parakeet",LC,U,-16731116
+11,7,"rupicola","Pyrrhura","Black-capped Parakeet",LC,U,-16731116
+14,13,"hoffmanni","Pyrrhura","Sulphur-winged Parakeet",LC,U,-16731116
+15,13,"rhodocephala","Pyrrhura","Rose-headed Parakeet",LC,U,-16731116
+16,12,"orcesi","Pyrrhura","El Oro Parakeet",EN,U,-8572416
+20,19,"perlata","Pyrrhura","Crimson-bellied Parakeet",LC,U,-16731116
+21,19,"lepida","Pyrrhura","Pearly Parakeet",NT,U,-12486656
+22,18,"molinae","Pyrrhura","Green-cheeked Parakeet",LC,U,-16731116
+24,23,"frontalis","Pyrrhura","Maroon-bellied Parakeet",LC,U,-16731116
+25,23,"hoematotis","Pyrrhura","Red-eared Parakeet",LC,U,-16731116
+30,29,"griseipectus","Pyrrhura","Grey-breasted Parakeet",CR,U,-3014646
+31,29,"picta","Pyrrhura","Painted Parakeet",LC,U,-16731116
+32,28,"leucotis","Pyrrhura","Maroon-faced Parakeet",NT,U,-12486656
+33,27,"pfrimeri","Pyrrhura","Pfrimer's Parakeet",EN,U,-8572416
+35,34,"calliptera","Pyrrhura","Flame-winged Parakeet",VU,U,-11184866
+36,34,"devillei","Pyrrhura","Blaze-winged Parakeet",NT,U,-12486656
+39,38,"egregia","Pyrrhura","Fiery-shouldered Parakeet",LC,U,-16731116
+40,38,"cruentata","Pyrrhura","Blue-throated Parakeet",VU,U,-11184866
+41,37,"viridicata","Pyrrhura","Santa Marta Parakeet",EN,U,-8572416
+42,2,"patagonus","Cyanoliseus","Burrowing Parakeet",LC,U,-16731116
+44,43,"pachyrhyncha","Rhynchopsitta","Thick-billed Parrot",EN,U,-8572416
+45,43,"terrisi","Rhynchopsitta","Maroon-fronted Parrot",VU,U,-11184866
+47,46,"leptorhynchus","Enicognathus","Slender-billed Parakeet",LC,U,-16731116
+48,46,"ferrugineus","Enicognathus","Austral Parakeet",LC,U,-16731116

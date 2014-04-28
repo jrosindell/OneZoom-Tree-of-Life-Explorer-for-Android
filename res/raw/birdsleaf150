@@ -1,0 +1,36 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"levaillantoides","Francolinus","Orange River Francolin",LC,U,-16731116
+10,8,"levaillantii","Francolinus","Red-winged Francolin",LC,U,-16731116
+11,7,"africanus","Francolinus","Grey-winged Francolin",LC,U,-16731116
+12,6,"shelleyi","Francolinus","Shelley's Francolin",LC,U,-16731116
+14,13,"psilolaemus","Francolinus","Moorland Francolin",LC,U,-16731116
+15,13,"finschi","Francolinus","Finsch's Francolin",LC,U,-16731116
+16,4,"streptophorus","Francolinus","Ring-necked Francolin",NT,U,-12486656
+21,20,"varius","Gallus","Green Junglefowl",LC,U,-16731116
+22,20,"gallus","Gallus","Red Junglefowl",LC,U,-16731116
+23,19,"lafayetii","Gallus","Sri Lanka Junglefowl",LC,U,-16731116
+24,18,"sonneratii","Gallus","Grey Junglefowl",LC,U,-16731116
+26,25,"thoracicus","Bambusicola","Chinese Bamboo-partridge",LC,U,-16731116
+27,25,"fytchii","Bambusicola","Mountain Bamboo-partridge",LC,U,-16731116
+32,31,"francolinus","Francolinus","Black Francolin",LC,U,-16731116
+33,31,"pictus","Francolinus","Painted Francolin",LC,U,-16731116
+35,34,"pondicerianus","Francolinus","Grey Francolin",LC,U,-16731116
+36,34,"gularis","Francolinus","Swamp Francolin",VU,U,-11184866
+37,29,"pintadeanus","Francolinus","Chinese Francolin",LC,U,-16731116
+38,28,"sephaena","Francolinus","Crested Francolin",LC,U,-16731116
+41,40,"albogularis","Francolinus","White-throated Francolin",LC,U,-16731116
+42,40,"lathami","Francolinus","Forest Francolin",LC,U,-16731116
+44,43,"schlegelii","Francolinus","Schlegel's Francolin",LC,U,-16731116
+45,43,"coqui","Francolinus","Coqui Francolin",LC,U,-16731116
+54,53,"chalcurum","Polyplectron","Bronze-tailed Peacock-pheasant",LC,U,-16731116
+55,53,"bicalcaratum","Polyplectron","Grey Peacock-pheasant",LC,U,-16731116
+56,52,"inopinatum","Polyplectron","Mountain Peacock-pheasant",VU,U,-11184866
+57,51,"germaini","Polyplectron","Germain's Peacock-pheasant",NT,U,-12486656
+58,50,"katsumatae","Polyplectron","Hainan Peacock-pheasant",EN,U,-8572416
+60,59,"schleiermacheri","Polyplectron","Bornean Peacock-pheasant",EN,U,-8572416
+61,59,"malacense","Polyplectron","Malayan Peacock-pheasant",VU,U,-11184866
+62,48,"napoleonis","Polyplectron","Palawan Peacock-pheasant",VU,U,-11184866
+65,64,"bicalcarata","Galloperdix","Sri Lanka Spurfowl",LC,U,-16731116
+66,64,"spadicea","Galloperdix","Red Spurfowl",LC,U,-16731116
+67,63,"lunulata","Galloperdix","Painted Spurfowl",LC,U,-16731116
+68,46,"sanguiniceps","Haematortyx","Crimson-headed Partridge",LC,U,-16731116

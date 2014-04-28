@@ -1,0 +1,111 @@
+index,parent,name1,name2,common,redlist,popstab,color
+21,20,"squamatus","Mergus","Scaly-sided Merganser",EN,U,-8572416
+22,20,"merganser","Mergus","Common Merganser",LC,U,-16731116
+23,19,"serrator","Mergus","Red-breasted Merganser",LC,U,-16731116
+24,18,"octosetaceus","Mergus","Brazilian Merganser",CR,U,-3014646
+25,17,"cucullatus","Lophodytes","Hooded Merganser",LC,U,-16731116
+26,16,"albellus","Mergellus","Smew",LC,U,-16731116
+29,28,"islandica","Bucephala","Barrow's Goldeneye",LC,U,-16731116
+30,28,"clangula","Bucephala","Common Goldeneye",LC,U,-16731116
+31,27,"albeola","Bucephala","Bufflehead",LC,U,-16731116
+34,33,"fusca","Melanitta","White-winged Scoter",LC,U,-16731116
+35,33,"perspicillata","Melanitta","Surf Scoter",LC,U,-16731116
+36,32,"nigra","Melanitta","Black Scoter",LC,U,-16731116
+41,40,"mollissima","Somateria","Common Eider",LC,U,-16731116
+42,40,"spectabilis","Somateria","King Eider",LC,U,-16731116
+43,39,"fischeri","Somateria","Spectacled Eider",LC,U,-16731116
+44,38,"stelleri","Polysticta","Steller's Eider",VU,U,-11184866
+45,37,"histrionicus","Histrionicus","Harlequin Duck",LC,U,-16731116
+46,12,"hyemalis","Clangula","Long-tailed Duck",LC,U,-16731116
+55,54,"cana","Tadorna","South African Shelduck",LC,U,-16731116
+56,54,"ferruginea","Tadorna","Ruddy Shelduck",LC,U,-16731116
+57,53,"tadornoides","Tadorna","Australian Shelduck",LC,U,-16731116
+58,52,"variegata","Tadorna","Paradise Shelduck",LC,U,-16731116
+59,51,"tadorna","Tadorna","Common Shelduck",LC,U,-16731116
+60,50,"radjah","Tadorna","Radjah Shelduck",LC,U,-16731116
+61,49,"aegyptiaca","Alopochen","Egyptian Goose",LC,U,-16731116
+65,64,"melanoptera","Chloephaga","Andean Goose",LC,U,-16731116
+66,64,"jubata","Neochen","Orinoco Goose",NT,U,-12486656
+67,63,"rubidiceps","Chloephaga","Ruddy-headed Goose",LC,U,-16731116
+70,69,"poliocephala","Chloephaga","Ashy-headed Goose",LC,U,-16731116
+71,69,"hybrida","Chloephaga","Kelp Goose",LC,U,-16731116
+72,68,"picta","Chloephaga","Upland Goose",LC,U,-16731116
+75,74,"galericulata","Aix","Mandarin Duck",LC,U,-16731116
+76,74,"sponsa","Aix","Wood Duck",LC,U,-16731116
+77,73,"moschata","Cairina","Muscovy Duck",LC,U,-16731116
+87,86,"valisineria","Aythya","Canvasback",LC,U,-16731116
+88,86,"ferina","Aythya","Common Pochard",LC,U,-16731116
+89,85,"innotata","Aythya","Madagascar Pochard",CR,U,-3014646
+91,90,"collaris","Aythya","Ring-necked Duck",LC,U,-16731116
+92,90,"americana","Aythya","Redhead",LC,U,-16731116
+96,95,"affinis","Aythya","Lesser Scaup",LC,U,-16731116
+97,95,"marila","Aythya","Greater Scaup",LC,U,-16731116
+98,94,"fuligula","Aythya","Tufted Duck",LC,U,-16731116
+99,93,"baeri","Aythya","Baer's Pochard",EN,U,-8572416
+102,101,"nyroca","Aythya","Ferruginous Duck",NT,U,-12486656
+103,101,"australis","Aythya","Hardhead",LC,U,-16731116
+104,100,"novaeseelandiae","Aythya","New Zealand Scaup",LC,U,-16731116
+107,106,"erythrophthalma","Netta","Southern Pochard",LC,U,-16731116
+108,106,"rufina","Netta","Red-crested Pochard",LC,U,-16731116
+109,105,"peposaca","Netta","Rosy-billed Pochard",LC,U,-16731116
+110,80,"scutulata","Cairina","White-winged Duck",EN,U,-8572416
+111,79,"angustirostris","Marmaronetta","Marbled Teal",VU,U,-11184866
+113,112,"cyanoptera","Cyanochen","Blue-winged Goose",VU,U,-11184866
+114,112,"hartlaubii","Pteronetta","Hartlaub's Duck",LC,U,-16731116
+118,117,"jubata","Chenonetta","Australian Wood Duck",LC,U,-16731116
+119,117,"melanotos","Sarkidiornis","Comb Duck",LC,U,-16731116
+120,116,"malacorhynchos","Hymenolaimus","Blue Duck",EN,U,-8572416
+123,122,"waigiuensis","Salvadorina","Salvadori's Teal",VU,U,-11184866
+124,122,"armata","Merganetta","Torrent Duck",LC,U,-16731116
+125,121,"leucophrys","Callonetta","Ringed Teal",LC,U,-16731116
+126,7,"naevosa","Stictonetta","Freckled Duck",LC,U,-16731116
+130,129,"coromandelianus","Nettapus","Cotton Pygmy-goose",LC,U,-16731116
+131,129,"auritus","Nettapus","African Pygmy-goose",LC,U,-16731116
+132,128,"pulchellus","Nettapus","Green Pygmy-goose",LC,U,-16731116
+133,127,"gambensis","Plectropterus","Spur-winged Goose",LC,U,-16731116
+135,134,"atricapilla","Heteronetta","Black-headed Duck",LC,U,-16731116
+136,134,"lobata","Biziura","Musk Duck",LC,U,-16731116
+142,141,"leucocephala","Oxyura","White-headed Duck",EN,U,-8572416
+143,141,"maccoa","Oxyura","Maccoa Duck",NT,U,-12486656
+144,140,"australis","Oxyura","Blue-billed Duck",NT,U,-12486656
+145,139,"jamaicensis","Oxyura","Ruddy Duck",LC,U,-16731116
+146,138,"vittata","Oxyura","Lake Duck",LC,U,-16731116
+147,137,"dominicus","Nomonyx","Masked Duck",LC,U,-16731116
+158,157,"cygnoides","Anser","Swan Goose",VU,U,-11184866
+159,157,"anser","Anser","Greylag Goose",LC,U,-16731116
+160,156,"erythropus","Anser","Lesser White-fronted Goose",VU,U,-11184866
+161,155,"brachyrhynchus","Anser","Pink-footed Goose",LC,U,-16731116
+162,154,"indicus","Anser","Bar-headed Goose",LC,U,-16731116
+164,163,"albifrons","Anser","Greater White-fronted Goose",LC,U,-16731116
+165,163,"fabalis","Anser","Bean Goose",LC,U,-16731116
+168,167,"caerulescens","Chen","Snow Goose",LC,U,-16731116
+169,167,"rossii","Chen","Ross's Goose",LC,U,-16731116
+170,166,"canagica","Chen","Emperor Goose",NT,U,-12486656
+175,174,"hutchinsii","Branta","Cackling Goose",LC,U,-16731116
+176,174,"leucopsis","Branta","Barnacle Goose",LC,U,-16731116
+178,177,"sandvicensis","Branta","Hawaiian Goose",VU,U,-11184866
+179,177,"canadensis","Branta","Canada Goose",LC,U,-16731116
+180,172,"ruficollis","Branta","Red-breasted Goose",EN,U,-8572416
+181,171,"bernicla","Branta","Brent Goose",LC,U,-16731116
+186,185,"columbianus","Cygnus","Tundra Swan",LC,U,-16731116
+187,185,"cygnus","Cygnus","Whooper Swan",LC,U,-16731116
+188,184,"buccinator","Cygnus","Trumpeter Swan",LC,U,-16731116
+190,189,"atratus","Cygnus","Black Swan",LC,U,-16731116
+191,189,"olor","Cygnus","Mute Swan",LC,U,-16731116
+192,182,"melancoryphus","Cygnus","Black-necked Swan",LC,U,-16731116
+194,193,"novaehollandiae","Cereopsis","Cape Barren Goose",LC,U,-16731116
+195,193,"coscoroba","Coscoroba","Coscoroba Swan",LC,U,-16731116
+196,148,"membranaceus","Malacorhynchus","Pink-eared Duck",LC,U,-16731116
+203,202,"bicolor","Dendrocygna","Fulvous Whistling-duck",LC,U,-16731116
+204,202,"eytoni","Dendrocygna","Plumed Whistling-duck",LC,U,-16731116
+205,201,"javanica","Dendrocygna","Lesser Whistling-duck",LC,U,-16731116
+207,206,"viduata","Dendrocygna","White-faced Whistling-duck",LC,U,-16731116
+208,206,"guttata","Dendrocygna","Spotted Whistling-duck",LC,U,-16731116
+209,199,"arcuata","Dendrocygna","Wandering Whistling-duck",LC,U,-16731116
+211,210,"autumnalis","Dendrocygna","Black-bellied Whistling-duck",LC,U,-16731116
+212,210,"arborea","Dendrocygna","West Indian Whistling-duck",VU,U,-11184866
+213,197,"leuconotus","Thalassornis","White-backed Duck",LC,U,-16731116
+214,1,"semipalmata","Anseranas","Magpie Goose",LC,U,-16731116
+217,216,"torquata","Chauna","Southern Screamer",LC,U,-16731116
+218,216,"chavaria","Chauna","Northern Screamer",NT,U,-12486656
+219,215,"cornuta","Anhima","Horned Screamer",LC,U,-16731116

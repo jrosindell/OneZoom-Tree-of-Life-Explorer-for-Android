@@ -1,0 +1,35 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"ostrinus","Pyrenestes","Black-bellied Seedcracker",LC,U,-16731116
+10,8,"sanguineus","Pyrenestes","Crimson Seedcracker",LC,U,-16731116
+11,7,"minor","Pyrenestes","Lesser Seedcracker",LC,U,-16731116
+14,13,"poliogenys","Spermophaga","Grant's Bluebill",LC,U,-16731116
+15,13,"haematina","Spermophaga","Western Bluebill",LC,U,-16731116
+16,12,"ruficapilla","Spermophaga","Red-headed Bluebill",LC,U,-16731116
+20,19,"cyanocephalus","Uraeginthus","Blue-capped Cordonbleu",LC,U,-16731116
+21,19,"bengalus","Uraeginthus","Red-cheeked Cordonbleu",LC,U,-16731116
+22,18,"angolensis","Uraeginthus","Blue-breasted Cordonbleu",LC,U,-16731116
+24,23,"ianthinogaster","Uraeginthus","Purple Grenadier",LC,U,-16731116
+25,23,"granatinus","Uraeginthus","Common Grenadier",LC,U,-16731116
+26,4,"monteiri","Clytospiza","Brown Twinspot",LC,U,-16731116
+34,33,"sanguinodorsalis","Lagonosticta","Rock Firefinch",LC,U,-16731116
+35,33,"umbrinodorsalis","Lagonosticta","Chad Firefinch",_U,[,-16777216
+36,32,"virata","Lagonosticta","Mali Firefinch",LC,U,-16731116
+38,37,"rhodopareia","Lagonosticta","Jameson's Firefinch",LC,U,-16731116
+39,37,"landanae","Lagonosticta","Pale-billed Firefinch",LC,U,-16731116
+40,30,"rubricata","Lagonosticta","African Firefinch",LC,U,-16731116
+41,29,"rara","Lagonosticta","Black-bellied Firefinch",LC,U,-16731116
+42,28,"larvata","Lagonosticta","Black-throated Firefinch",LC,U,-16731116
+45,44,"rufopicta","Lagonosticta","Bar-breasted Firefinch",LC,U,-16731116
+46,44,"nitidula","Lagonosticta","Brown Firefinch",LC,U,-16731116
+47,43,"senegala","Lagonosticta","Red-billed Firefinch",LC,U,-16731116
+52,51,"phoenicoptera","Pytilia","Red-winged Pytilia",LC,U,-16731116
+53,51,"hypogrammica","Pytilia","Red-faced Pytilia",LC,U,-16731116
+54,50,"lineata","Pytilia","Red-billed Pytilia",_U,[,-16777216
+55,49,"afra","Pytilia","Orange-winged Pytilia",LC,U,-16731116
+56,48,"melba","Pytilia","Green-winged Pytilia",LC,U,-16731116
+59,58,"dybowskii","Euschistospiza","Dybowski's Twinspot",LC,U,-16731116
+60,58,"cinereovinacea","Euschistospiza","Dusky Twinspot",LC,U,-16731116
+62,61,"margaritatus","Hypargos","Pink-throated Twinspot",LC,U,-16731116
+63,61,"niveoguttatus","Hypargos","Peters's Twinspot",LC,U,-16731116
+65,64,"erythrocephala","Amadina","Red-headed Finch",LC,U,-16731116
+66,64,"fasciata","Amadina","Cut-throat",LC,U,-16731116

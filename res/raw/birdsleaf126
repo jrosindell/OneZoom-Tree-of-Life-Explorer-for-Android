@@ -1,0 +1,29 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"albiceps","Elaenia","White-crested Elaenia",LC,U,-16731116
+13,11,"frantzii","Elaenia","Mountain Elaenia",LC,U,-16731116
+14,10,"pallatangae","Elaenia","Sierran Elaenia",LC,U,-16731116
+15,9,"martinica","Elaenia","Caribbean Elaenia",LC,U,-16731116
+16,8,"fallax","Elaenia","Greater Antillean Elaenia",LC,U,-16731116
+18,17,"mesoleuca","Elaenia","Olivaceous Elaenia",LC,U,-16731116
+19,17,"chiriquensis","Elaenia","Lesser Elaenia",LC,U,-16731116
+22,21,"flavogaster","Elaenia","Yellow-bellied Elaenia",LC,U,-16731116
+23,21,"parvirostris","Elaenia","Small-billed Elaenia",LC,U,-16731116
+25,24,"pelzelni","Elaenia","Brownish Elaenia",LC,U,-16731116
+26,24,"spectabilis","Elaenia","Large Elaenia",LC,U,-16731116
+27,5,"strepera","Elaenia","Slaty Elaenia",LC,U,-16731116
+30,29,"ridleyana","Elaenia","Noronha Elaenia",VU,U,-11184866
+31,29,"obscura","Elaenia","Highland Elaenia",LC,U,-16731116
+32,28,"dayi","Elaenia","Great Elaenia",LC,U,-16731116
+33,3,"gigas","Elaenia","Mottle-backed Elaenia",LC,U,-16731116
+35,34,"ruficeps","Elaenia","Rufous-crowned Elaenia",LC,U,-16731116
+36,34,"cristata","Elaenia","Plain-crested Elaenia",LC,U,-16731116
+42,41,"viridicata","Myiopagis","Greenish Elaenia",LC,U,-16731116
+43,41,"cotta","Myiopagis","Jamaican Elaenia",LC,U,-16731116
+44,40,"flavivertex","Myiopagis","Yellow-crowned Elaenia",LC,U,-16731116
+46,45,"subplacens","Myiopagis","Pacific Elaenia",LC,U,-16731116
+47,45,"gaimardii","Myiopagis","Forest Elaenia",LC,U,-16731116
+49,48,"olallai","Myiopagis","Foothill Elaenia",NT,U,-12486656
+50,48,"caniceps","Myiopagis","Grey Elaenia",LC,U,-16731116
+51,37,"elatus","Tyrannulus","Yellow-crowned Tyrannulet",LC,U,-16731116
+53,52,"islerorum","Suiriri","Chapada Flycatcher",NT,U,-12486656
+54,52,"suiriri","Suiriri","Suiriri Flycatcher",LC,U,-16731116

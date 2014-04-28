@@ -1,0 +1,22 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"affinis","Megapodius","New Guinea Megapode",LC,U,-16731116
+11,9,"freycinet","Megapodius","Dusky Megapode",LC,U,-16731116
+12,8,"reinwardt","Megapodius","Orange-footed Megapode",LC,U,-16731116
+13,7,"eremita","Megapodius","Melanesian Megapode",LC,U,-16731116
+14,6,"bernsteinii","Megapodius","Sula Megapode",NT,U,-12486656
+17,16,"pritchardii","Megapodius","Polynesian Megapode",EN,U,-8572416
+18,16,"layardi","Megapodius","Vanuatu Megapode",VU,U,-11184866
+19,15,"geelvinkianus","Megapodius","Biak Megapode",VU,U,-11184866
+21,20,"laperouse","Megapodius","Micronesian Megapode",EN,U,-8572416
+22,20,"nicobariensis","Megapodius","Nicobar Megapode",VU,U,-11184866
+24,23,"tenimberensis","Megapodius","Tanimbar Megapode",NT,U,-12486656
+25,23,"cumingii","Megapodius","Tabon Megapode",LC,U,-16731116
+26,2,"wallacei","Eulipoa","Moluccan Megapode",VU,U,-11184866
+27,1,"maleo","Macrocephalon","Maleo",EN,U,-8572416
+32,31,"jobiensis","Talegalla","Brown-collared Brush-turkey",LC,U,-16731116
+33,31,"cuvieri","Talegalla","Red-billed Brush-turkey",LC,U,-16731116
+34,30,"fuscirostris","Talegalla","Black-billed Brush-turkey",LC,U,-16731116
+37,36,"arfakianus","Aepypodius","Wattled Brush-turkey",LC,U,-16731116
+38,36,"bruijnii","Aepypodius","Bruijn's Brush-turkey",EN,U,-8572416
+39,35,"lathami","Alectura","Australian Brush-turkey",LC,U,-16731116
+40,28,"ocellata","Leipoa","Malleefowl",VU,U,-11184866

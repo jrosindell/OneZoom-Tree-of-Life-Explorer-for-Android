@@ -1,0 +1,84 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"hewitti","Heleophryne","Hewitt's Ghost Frog",CR,D,-3014646
+13,11,"regis","Heleophryne","Royal Ghost Frog",LC,S,-16731116
+14,10,"orientalis","Heleophryne","Eastern Ghost Frog",LC,S,-16731116
+15,9,"purcelli","Heleophryne","Purcell's Ghost Frog",LC,S,-16731116
+17,16,"rosei","Heleophryne","Table Mountain Ghost Frog",CR,D,-3014646
+18,16,"natalensis","Heleophryne","Natal Ghost Frog",LC,D,-16731116
+25,24,"sardus","Discoglossus","Tyrrhenian Painted Frog",LC,D,-16731116
+26,24,"nigriventer","Discoglossus","Hula Painted Frog",EX,U,-16777036
+27,23,"montalentii","Discoglossus","Corsican Painted Frog",NT,U,-12486656
+28,22,"galganoi","Discoglossus","Iberian Painted Frog",LC,D,-16731116
+30,29,"pictus","Discoglossus","Painted Frog",LC,S,-16731116
+31,29,"scovazzi","Discoglossus","",LC,S,-16731116
+36,35,"cisternasii","Alytes","Iberian Midwife Toad",NT,D,-12486656
+37,35,"obstetricans","Alytes","Common Midwife Toad",LC,D,-16731116
+38,34,"maurus","Alytes","",NT,S,-12486656
+39,33,"dickhilleni","Alytes","Betic Midwife Toad",VU,D,-11184866
+40,32,"muletensis","Alytes","Mallorcan Midwife Toad",VU,I,-11184866
+46,45,"variegata","Bombina","Yellow??????????????????bellied Toad",LC,D,-16731116
+47,45,"pachypus","Bombina","Appenine Yellow-bellied Toad",EN,D,-8572416
+49,48,"orientalis","Bombina","Oriental Bell Toad",LC,D,-16731116
+50,48,"bombina","Bombina","Fire-bellied Toad",LC,D,-16731116
+51,43,"lichuanensis","Bombina","Lichuan Bell Toad",VU,D,-11184866
+54,53,"microdeladigitora","Bombina","",NE,U,-16777216
+55,53,"fortinuptialis","Bombina","",NE,U,-16777216
+56,52,"maxima","Bombina","",NE,U,-16777216
+58,57,"busuangensis","Barbourula","Philippine Flat-headed Frog",VU,D,-11184866
+59,57,"kalimantanensis","Barbourula","Bornean Flat-headed Frog",EN,D,-8572416
+66,65,"boulengeri","Hymenochirus","",DD,U,-11513776
+67,65,"feae","Hymenochirus","",DD,U,-11513776
+68,64,"boettgeri","Hymenochirus","Congo Dwarf Clawed Frog",LC,D,-16731116
+69,63,"curtipes","Hymenochirus","Western Dwarf Clawed Frog",LC,U,-16731116
+70,62,"merlini","Pseudhymenochirus","",LC,U,-16731116
+71,60,"dorsalis","Rhinophrynus","Burrowing Toad",LC,S,-16731116
+76,75,"hamiltoni","Leiopelma","Hamilton's Frog",EN,S,-8572416
+77,75,"pakeka","Leiopelma","Maud Island Frog",VU,S,-11184866
+78,74,"archeyi","Leiopelma","Archey's Frog",CR,D,-3014646
+79,73,"hochstetteri","Leiopelma","Hochstetter's Frog",VU,D,-11184866
+81,80,"montanus","Ascaphus","Inland Tailed Frog",LC,U,-16731116
+82,80,"truei","Ascaphus","Coastal Tailed Frog",LC,U,-16731116
+89,88,"tridactylum","Amphiuma","Three-toed Amphiuma",LC,S,-16731116
+90,88,"means","Amphiuma","Two-toed Amphiuma",LC,U,-16731116
+91,87,"pholeter","Amphiuma","One-toed Amphiuma",NT,D,-12486656
+94,93,"variegatus","Rhyacotriton","Southern Torrent Salamander",LC,S,-16731116
+95,93,"kezeri","Rhyacotriton","Columbia Torrent Salamander",NT,S,-12486656
+97,96,"olympicus","Rhyacotriton","Olympic Torrent Salamander",VU,D,-11184866
+98,96,"cascadae","Rhyacotriton","Cascade Torrent Salamander",NT,D,-12486656
+110,109,"indistinctum","Chthonerpeton","",LC,U,-16731116
+111,109,"arii","Chthonerpeton","",DD,U,-11513776
+112,108,"noctinectes","Chthonerpeton","",DD,U,-11513776
+115,114,"perissodus","Chthonerpeton","",DD,U,-11513776
+116,114,"onorei","Chthonerpeton","",DD,U,-11513776
+117,113,"braestrupi","Chthonerpeton","",DD,U,-11513776
+119,118,"viviparum","Chthonerpeton","",DD,U,-11513776
+120,118,"exile","Chthonerpeton","",DD,U,-11513776
+124,123,"natans","Typhlonectes","Rubber Eel",LC,S,-16731116
+125,123,"cunhai","Typhlonectes","",DD,U,-11513776
+126,122,"compressicauda","Typhlonectes","",LC,U,-16731116
+127,121,"eiselti","Atretochoana","",DD,U,-11513776
+129,128,"petersii","Nectocaecilia","",LC,U,-16731116
+130,128,"kaupii","Potomotyphlus","",LC,U,-16731116
+136,135,"boulengeri","Boulengerula","",LC,U,-16731116
+137,135,"denhardti","Boulengerula","",DD,U,-11513776
+138,134,"niedeni","Boulengerula","",CR,D,-3014646
+140,139,"changamwensis","Boulengerula","",DD,U,-11513776
+141,139,"fischeri","Boulengerula","",DD,U,-11513776
+143,142,"uluguruensis","Boulengerula","",LC,U,-16731116
+144,142,"taitana","Boulengerula","",LC,S,-16731116
+146,145,"multiplicata","Herpele","",DD,U,-11513776
+147,145,"squalostoma","Herpele","",LC,D,-16731116
+153,152,"interruptus","Uraeotyphlus","",DD,U,-11513776
+154,152,"oxyurus","Uraeotyphlus","",DD,U,-11513776
+155,151,"menoni","Uraeotyphlus","",DD,U,-11513776
+156,150,"narayani","Uraeotyphlus","",DD,U,-11513776
+157,149,"malabaricus","Uraeotyphlus","",DD,U,-11513776
+163,162,"lativittatus","Epicrionops","",DD,U,-11513776
+164,162,"parkeri","Epicrionops","",DD,U,-11513776
+165,161,"columbianus","Epicrionops","",DD,U,-11513776
+168,167,"peruvianus","Epicrionops","",DD,U,-11513776
+169,167,"petersi","Epicrionops","",LC,U,-16731116
+170,166,"niger","Epicrionops","",LC,U,-16731116
+172,171,"marmoratus","Epicrionops","",DD,U,-11513776
+173,171,"bicolor","Epicrionops","",LC,U,-16731116
+174,158,"bivittatum","Rhinatrema","",LC,U,-16731116

@@ -1,0 +1,955 @@
+name,fileindex,index,whichChild
+"Tanagers, Conebills, Warbling-finches and more",44,8,1
+"Coal-crested Finch",50,50,2
+"columbiana",50,79,1
+"Conebills",50,102,2
+"Rufous-browed Conebill",50,107,1
+"Conirostrum",50,107,1
+"Capped Conebill",50,108,2
+"Conirostrum",50,108,2
+"Tamarugo Conebill",50,110,1
+"Conirostrum",50,110,1
+"Giant Conebill",50,111,2
+"Blue-backed Conebill",50,113,1
+"Conirostrum",50,113,1
+"Cinereous Conebill",50,114,2
+"Conirostrum",50,114,2
+"Chestnut-vented Conebill",50,115,2
+"Conirostrum",50,115,2
+"Pearly-breasted Conebill",50,118,1
+"Conirostrum",50,118,1
+"White-eared Conebill",50,119,2
+"Conirostrum",50,119,2
+"White-browed Conebill",50,121,1
+"Conirostrum",50,121,1
+"Bicoloured Conebill",50,122,2
+"Conirostrum",50,122,2
+"corvina",52,38,2
+"collaris",52,54,1
+"Collared Warbling-finch",51,67,2
+"Cochabamba Mountain-finch",51,84,1
+"Compsospiza",51,84,1
+"Compsospiza",51,85,2
+"Coryphospingus",50,169,1
+"Coryphospingus",50,170,2
+"costaricensis",50,199,2
+"coronatus",50,206,1
+"Conothraupis",50,211,1
+"Cone-billed Tanager",50,212,2
+"Conothraupis",50,212,2
+"concolor",44,14,2
+"Coryphaspiza",44,17,2
+"coerulescens",44,30,2
+"Cocos Finch",56,19,2
+"conirostris",56,26,2
+"Common Cactus-finch",56,28,2
+"Compsothraupis",56,44,2
+"Coereba",56,58,2
+"coccineus",54,103,2
+"coronata",54,115,2
+"Common Diuca-finch",54,130,2
+"concolor",61,15,2
+"Collared Towhee",48,26,2
+"Le Conte's Sparrow",48,75,2
+"conirostris",47,65,2
+"Common Bush-tanager",47,99,2
+"Corn Bunting",47,168,2
+"Bay-winged Cowbird",60,21,2
+"Shiny Cowbird",60,57,1
+"Brown-headed Cowbird",60,58,2
+"Bronzed Cowbird",60,59,2
+"Bronze-brown Cowbird",60,60,2
+"Giant Cowbird",60,61,2
+"Screaming Cowbird",60,62,2
+"Common Grackle",60,83,2
+"Collared Redstart",57,23,2
+"conspicillatus",57,82,2
+"coronatus",57,91,2
+"coronata",58,30,2
+"Common Yellowthroat",57,107,2
+"Connecticut Warbler",57,126,2
+"Colima Warbler",57,147,2
+"coronata",57,174,2
+"corsicana",53,118,2
+"Common Redpoll",53,155,2
+"Common Rosefinch",59,36,2
+"concolor",59,63,1
+"Common Amakihi",59,76,2
+"coccineus",59,86,2
+"coccinea",59,91,2
+"Collared Grosbeak",44,88,2
+"Coccothraustes",44,94,1
+"coccothraustes",44,95,2
+"Coccothraustes",44,95,2
+"Coccothraustes",44,96,2
+"concinna",49,27,2
+"coelebs",44,99,1
+"Correndera Pipit",45,45,1
+"correndera",45,45,1
+"cordofanicus",108,10,1
+"coloria",101,63,2
+"Blue-capped Cordonbleu",103,20,1
+"Red-cheeked Cordonbleu",103,21,2
+"Blue-breasted Cordonbleu",103,22,2
+"Common Grenadier",103,25,2
+"Common Waxbill",106,21,2
+"codringtoni",101,107,1
+"Compact Weaver",102,116,1
+"coronatus",102,145,2
+"collaris",101,168,2
+"Congo Sunbird",62,35,2
+"congensis",62,35,2
+"coccinigaster",62,89,2
+"comorensis",62,93,2
+"coquerellii",64,27,2
+"Copper Sunbird",64,59,2
+"Copper-throated Sunbird",64,70,2
+"Collared Sunbird",62,106,2
+"collaris",62,106,2
+"concolor",63,45,1
+"cochinchinensis",62,203,1
+"Congo Moor-chat",93,58,1
+"Common Stonechat",93,85,2
+"Common Redstart",92,43,2
+"colonus",94,22,1
+"Collared Flycatcher",94,37,2
+"Common Nightingale",92,99,1
+"concretus",92,183,2
+"comitata",99,44,2
+"Copsychus",99,87,1
+"Copsychus",99,88,2
+"Copsychus",99,89,2
+"Copsychus",99,90,2
+"Copsychus",99,91,2
+"Copsychus",99,97,1
+"Copsychus",99,99,2
+"Copsychus",99,100,2
+"coryphaeus",99,126,1
+"Cossypha",97,10,1
+"East Coast Akalat",97,11,2
+"Cossypha",97,12,2
+"Cossypha",97,28,1
+"Cossypha",97,29,2
+"Cossypha",97,30,2
+"Cossypha",97,31,2
+"Cossypha",97,39,1
+"Cossypha",97,40,2
+"Cossypha",97,41,2
+"Cossypha",97,43,1
+"Cossypha",97,44,2
+"Cossypha",97,45,2
+"Cossypha",97,47,2
+"Cossyphicula",97,49,1
+"Cossypha",97,50,2
+"Grand Comoro Flycatcher",97,54,1
+"Collared Palm-thrush",97,62,2
+"Collared Bush-robin",87,12,1
+"Comoro Thrush",89,67,2
+"Cocoa Thrush",90,21,2
+"Purple Cochoa",89,163,1
+"Cochoa",89,163,1
+"Javan Cochoa",89,164,2
+"Cochoa",89,164,2
+"Sumatran Cochoa",89,165,2
+"Cochoa",89,165,2
+"Green Cochoa",89,166,2
+"Cochoa",89,166,2
+"coelicolor",89,169,2
+"coracinus",89,204,2
+"coloratus",87,32,2
+"Cosmopsarus",88,21,2
+"Coccycolius",88,34,2
+"Cosmopsarus",88,42,2
+"Copper-tailed Glossy-starling",88,51,2
+"corruscus",88,53,2
+"Collared Myna",88,106,2
+"Common Myna",88,115,2
+"contra",88,136,2
+"Common Starling",88,140,2
+"Coleto",98,54,2
+"corythaix",98,59,2
+"coronatus",98,66,2
+"Cozumel Thrasher",96,37,2
+"Le Conte's Thrasher",96,44,1
+"Coraya Wren",95,28,2
+"coraya",95,28,2
+"Cobb's Wren",95,84,2
+"cobbi",95,84,2
+"Collared Gnatwren",87,149,2
+"collaris",87,149,2
+"Corsican Nuthatch",91,9,2
+"courtoisi",74,72,1
+"Common Babbler",76,48,2
+"Collared Laughingthrush",72,11,2
+"Collared Babbler",72,81,2
+"Coral-billed Scimitar-babbler",72,115,2
+"conspicillatus",86,16,2
+"consobrinorum",85,109,1
+"conspicillatus",69,36,1
+"conspicillata",69,106,1
+"Common Whitethroat",69,107,2
+"communis",69,107,2
+"Conostoma",69,116,2
+"Common Grasshopper-warbler",68,20,2
+"Cook Islands Reed-warbler",83,20,1
+"concinens",83,57,2
+"Grand Comoro Brush-warbler",83,100,2
+"Common Tailorbird",77,67,2
+"Collared Apalis",65,81,2
+"Common Jery",65,99,2
+"Common Bulbul",66,11,2
+"Collared Finchbill",66,43,1
+"Comoro Bulbul",79,16,2
+"Common Bristlebill",70,94,2
+"Common Tetraka",65,134,2
+"coronatus",67,77,1
+"Common Chiffchaff",82,12,2
+"collybita",82,12,2
+"concinnus",65,151,1
+"concolor",71,37,1
+"Congo Martin",84,66,2
+"congica",84,66,2
+"concolor",43,85,2
+"conirostris",107,39,2
+"cordofanica",107,111,2
+"Collared Lark",107,127,2
+"collaris",107,127,2
+"Coal Tit",100,41,2
+"consobrinus",100,124,2
+"coronatus",100,126,2
+"corvina",133,157,1
+"coelestis",133,170,1
+"comrii",144,74,2
+"cockerelli",142,50,1
+"Corcoracidae",142,86,2
+"Corcorax",142,87,1
+"Corvids",137,2,1
+"Corvidae",137,2,1
+"Corvus",138,11,1
+"Common Raven",138,12,2
+"corax",138,12,2
+"Corvus",138,12,2
+"Corvus",138,13,2
+"Corvus",138,15,1
+"Corvus",138,16,2
+"Corvus",138,20,1
+"Corvus",138,21,2
+"Corvus",138,22,2
+"Collared Crow",138,24,1
+"Corvus",138,24,1
+"Corvus",138,25,2
+"Corvus",138,31,1
+"Corvus",138,32,2
+"Corvus",138,33,2
+"Corvus",138,34,2
+"Corvus",138,36,1
+"Corvus",138,37,2
+"Corvus",138,39,1
+"Corvus",138,40,2
+"Corvus",138,45,1
+"Corvus",138,46,2
+"Corvus",138,48,1
+"Corvus",138,49,2
+"Corvus",138,51,1
+"corone",138,52,2
+"Corvus",138,52,2
+"Corvus",138,54,1
+"Corvus",138,55,2
+"Corvus",138,58,1
+"Corvus",138,59,2
+"Corvus",138,60,2
+"coronoides",138,65,1
+"Corvus",138,65,1
+"Corvus",138,66,2
+"Corvus",138,67,2
+"Corvus",138,68,2
+"Corvus",138,69,2
+"Corvus",138,71,1
+"Corvus",138,72,2
+"Corvus",138,75,1
+"Corvus",138,76,2
+"Corvus",138,77,2
+"Corvus",138,81,1
+"Corvus",138,82,2
+"Corvus",138,83,2
+"Corvus",138,85,1
+"Corvus",138,86,2
+"columbiana",137,12,2
+"colliei",137,74,2
+"coerulescens",137,82,2
+"Coughs and Treepies",137,129,2
+"Collared Treepie",137,139,2
+"Coughs",137,149,2
+"collurio",137,169,2
+"Common Fiscal",137,175,2
+"collaris",137,175,2
+"corvina",137,201,1
+"Corvinella",137,201,1
+"collurioides",137,209,2
+"Grand Comoro Drongo",136,14,2
+"Colluricinclidae",132,19,1
+"Cozumel Vireo",139,38,2
+"Colluricincla",134,24,2
+"Colluricincla",134,34,2
+"Colluricincla",134,69,1
+"Coracornis",134,70,2
+"Colluricinclidae",132,54,2
+"Colluricincla",132,58,1
+"Colluricincla",132,59,2
+"Colluricincla",132,60,2
+"Colluricincla",132,61,2
+"Common Newtonia",135,14,2
+"corallirostris",135,43,1
+"Common Woodshrike",135,69,1
+"concreta",135,128,2
+"Common Gonolek",145,13,2
+"Common Iora",143,55,2
+"Coracina",141,15,1
+"Coracina",141,16,2
+"Coracina",141,18,1
+"Coracina",141,19,2
+"Coracina",141,20,2
+"Coracina",141,21,2
+"Coracina",141,23,1
+"Coracina",141,26,1
+"Coracina",141,27,2
+"Coracina",141,29,1
+"Coracina",141,30,2
+"Coracina",141,31,2
+"coerulescens",141,34,1
+"Coracina",141,34,1
+"Coracina",141,35,2
+"Coracina",141,36,2
+"Coracina",141,38,1
+"Coracina",141,39,2
+"Coracina",141,41,1
+"Coracina",141,42,2
+"Coracina",141,52,1
+"Coracina",141,53,2
+"Coracina",141,54,2
+"Coracina",141,55,2
+"Coracina",141,57,1
+"Coracina",141,58,2
+"Coracina",141,76,2
+"Coracina",141,79,1
+"Coracina",141,103,1
+"Coracina",141,104,2
+"Coracina",141,105,2
+"Coracina",141,107,1
+"Coracina",141,108,2
+"Coracina",141,111,1
+"Coracina",141,112,2
+"Coracina",141,113,2
+"Coracina",141,114,2
+"Coracina",141,115,2
+"Coracina",141,116,2
+"Coracina",141,118,1
+"Coracina",141,119,2
+"Coracina",141,121,1
+"Coracina",141,122,2
+"Coracina",141,124,1
+"Coracina",141,125,2
+"Coracina",141,129,1
+"Coracina",141,130,2
+"Coracina",141,131,2
+"Coracina",141,132,2
+"cockerelli",112,68,2
+"cockerelli",116,14,2
+"corniculatus",116,24,2
+"Conopophila",113,152,1
+"Conopophila",113,153,2
+"Conopophila",113,154,2
+"coronatus",112,166,2
+"Cormobates",29,73,2
+"Cormobates",29,74,2
+"courseni",37,60,2
+"Coiba Spinetail",37,99,2
+"coryi",38,10,1
+"Cordilleran Canastero",38,39,2
+"Coryphistera",35,10,1
+"Cordoba Cinclodes",36,13,2
+"comechingonus",36,13,2
+"contaminatus",35,133,2
+"Cocoa Woodcreeper",39,44,2
+"Common Miner",30,44,2
+"Coastal Miner",30,45,2
+"colma",30,66,1
+"Conopophagidae",30,103,1
+"Conopophaga",30,108,1
+"Conopophaga",30,109,2
+"Conopophaga",30,110,2
+"Conopophaga",30,112,1
+"Conopophaga",30,113,2
+"Conopophaga",30,115,1
+"Conopophaga",30,116,2
+"Conopophaga",30,118,1
+"Conopophaga",30,119,2
+"Collared Crescentchest",30,127,2
+"Cocha Antshrike",32,32,2
+"Collared Antshrike",32,47,2
+"Tyrant-Flycatchers, Cotingas and  more",121,1,1
+"coronatus",123,16,2
+"Cordilleran Flycatcher",124,29,1
+"Contopus",124,41,1
+"Contopus",124,42,2
+"Contopus",124,43,2
+"Contopus",124,45,1
+"Contopus",124,46,2
+"Contopus",124,48,1
+"Contopus",124,49,2
+"Contopus",124,51,1
+"Contopus",124,52,2
+"Contopus",124,54,1
+"Contopus",124,55,2
+"Contopus",124,58,1
+"Contopus",124,59,2
+"cooperi",124,60,2
+"Contopus",124,60,2
+"Contopus",124,70,2
+"Conopias",124,90,1
+"Conopias",124,91,2
+"Conopias",124,92,2
+"Conopias",124,93,2
+"Cock-tailed Tyrant",125,41,2
+"Colorhamphus",125,54,2
+"colonus",123,103,2
+"Colonia",123,103,2
+"Couch's Kingbird",129,16,2
+"couchii",129,16,2
+"Cocos Flycatcher",129,36,2
+"cotta",126,43,2
+"coronatus",121,30,2
+"Common Tody-flycatcher",130,102,2
+"Corythopis",130,202,1
+"Corythopis",130,203,2
+"Cotingas",121,44,2
+"Cotingidae",121,44,2
+"Shrike-like Cotinga",121,98,1
+"coronatus",121,118,1
+"Cotingidae",121,123,1
+"White-tailed Cotinga",131,10,1
+"White-winged Cotinga",131,11,2
+"Pompadour Cotinga",131,12,2
+"Black-tipped Cotinga",131,15,1
+"Snowy Cotinga",131,16,2
+"Yellow-billed Cotinga",131,17,2
+"Black-faced Cotinga",131,19,1
+"Conioptilon",131,19,1
+"Purple-throated Cotinga",131,21,2
+"Grey-winged Cotinga",131,44,1
+"condita",131,44,1
+"Black-and-gold Cotinga",131,45,2
+"Plum-throated Cotinga",131,52,1
+"Cotinga",131,52,1
+"Spangled Cotinga",131,53,2
+"Cotinga",131,53,2
+"Blue Cotinga",131,54,2
+"Cotinga",131,54,2
+"Purple-breasted Cotinga",131,55,2
+"cotinga",131,55,2
+"Cotinga",131,55,2
+"Banded Cotinga",131,56,2
+"Cotinga",131,56,2
+"Turquoise Cotinga",131,57,2
+"Cotinga",131,57,2
+"Lovely Cotinga",131,58,2
+"Cotinga",131,58,2
+"Swallow-tailed Cotinga",131,72,2
+"Andean Cock-of-the-rock",121,136,1
+"Guianan Cock-of-the-rock",121,137,2
+"Red-crested Cotinga",121,145,1
+"Chestnut-crested Cotinga",121,146,2
+"Chestnut-bellied Cotinga",121,148,1
+"Bay-vented Cotinga",121,149,2
+"White-cheeked Cotinga",121,155,2
+"cornuta",122,17,2
+"coeruleocapilla",122,43,1
+"coronata",122,46,1
+"Corapipo",122,73,1
+"Corapipo",122,74,2
+"Corapipo",122,75,2
+"Corydon",120,93,2
+"coruscans",120,98,2
+"concinna",110,31,2
+"Collared Lory",109,49,2
+"cookii",109,124,2
+"cornutus",109,128,1
+"columboides",146,12,2
+"Coracopsis",29,94,1
+"Coracopsis",29,95,2
+"couloni",117,72,2
+"coelestis",117,95,2
+"conspicillatus",117,98,1
+"collaria",118,38,2
+"Cobalt-winged Parakeet",117,139,2
+"costaricensis",117,157,1
+"Cockatoos, Corellas and more",42,0,2
+"Cockatoos, Corellas and more",42,0,2
+"Solomons Cockatoo",42,11,1
+"Little Corella",42,12,2
+"Tanimbar Cockatoo",42,13,2
+"Philippine Cockatoo",42,14,2
+"Major Mitchell's Cockatoo",42,15,2
+"Sulphur-crested Cockatoo",42,19,1
+"Yellow-crested Cockatoo",42,20,2
+"Salmon-crested Cockatoo",42,22,1
+"White Cockatoo",42,23,2
+"Western Corella",42,24,2
+"Blue-eyed Cockatoo",42,25,2
+"Long-billed Corella",42,26,2
+"Palm Cockatoo",42,28,2
+"Cockatiel",42,29,2
+"Gang-gang Cockatoo",42,40,2
+"concolor",111,35,2
+"Common Kestrel",29,119,2
+"columbarius",29,130,2
+"Collared Falconet",29,136,2
+"Collared Forest-falcon",29,175,1
+"COLIIFORMES",0,11,2
+"colius",0,15,1
+"Colius",0,15,1
+"Colius",0,16,2
+"Colius",0,17,2
+"Colius",0,18,2
+"Colaptes",171,50,1
+"Colaptes",171,51,2
+"Colaptes",171,52,2
+"Colaptes",171,55,1
+"Colaptes",171,56,2
+"Colaptes",171,57,2
+"Colaptes",171,60,1
+"Colaptes",171,61,2
+"Colaptes",171,63,1
+"Colaptes",171,64,2
+"Colaptes",171,65,2
+"Colaptes",171,66,2
+"Common Flameback",171,87,2
+"concretus",170,120,1
+"conirostris",161,28,1
+"coeruleicinctis",178,33,2
+"Collared Aracari",178,43,2
+"coryphaeus",179,54,2
+"Coppersmith Barbet",178,180,2
+"corvina",178,186,2
+"Collared Puffbird",176,55,2
+"Coppery-chested Jacamar",176,80,2
+"CORACIIFORMES",161,42,2
+"Collared Kingfisher",175,18,1
+"concretus",175,53,2
+"Common Paradise-kingfisher",174,24,2
+"coromanda",174,56,2
+"coerulescens",174,112,1
+"Common Kingfisher",174,113,2
+"Coraciidae",174,158,1
+"Coracias",174,165,1
+"Coracias",174,166,2
+"Coracias",174,167,2
+"Coracias",174,168,2
+"Coracias",174,169,2
+"Coracias",174,171,1
+"Coracias",174,172,2
+"Coracias",174,173,2
+"corrugatus",168,22,2
+"comatus",168,36,2
+"coronatus",168,45,1
+"Common Scimitarbill",161,57,1
+"comptus",167,24,2
+"Collared Trogon",167,34,2
+"collaris",167,34,2
+"coromandus",166,50,2
+"Colombian Screech-owl",166,129,1
+"colombianus",166,129,1
+"cooperi",166,139,2
+"Grand Comoro Scops-owl",180,15,1
+"collari",180,26,2
+"Common Scops-owl",180,38,2
+"Collared Scops-owl",180,54,1
+"Collared Scops Owl",180,56,2
+"Colima Pygmy-owl",177,33,2
+"Collared Owlet",177,46,2
+"Costa Rican Pygmy-owl",177,51,1
+"costaricanum",177,51,1
+"connivens",169,21,2
+"Congo Bay-owl",161,135,1
+"Common Buzzard",163,21,2
+"Common Black-hawk",163,81,2
+"coronatus",163,88,2
+"Cooper's Hawk",165,56,2
+"cooperii",165,56,2
+"collaris",165,93,1
+"Collared Sparrowhawk",162,63,1
+"coronatus",162,113,2
+"Congo Serpent-eagle",162,133,1
+"coprotheres",162,160,2
+"California Condor",161,163,1
+"Coragyps",161,164,2
+"Andean Condor",161,167,2
+"Common Tern",25,17,2
+"Common White Tern",25,80,2
+"columba",23,14,2
+"Common Guillemot",23,20,2
+"corniculata",23,42,1
+"Coursers and pratincoles",20,14,2
+"Collared Pratincole",20,25,2
+"Somali Courser",20,35,1
+"Burchell's Courser",20,36,2
+"Indian Courser",20,37,2
+"coromandelicus",20,37,2
+"Temminck's Courser",20,39,1
+"Cream-coloured Courser",20,40,2
+"Double-banded Courser",20,42,1
+"Three-banded Courser",20,43,2
+"Bronze-winged Courser",20,45,1
+"Jerdon's Courser",20,46,2
+"Common Snipe",21,31,2
+"Coenocorypha",21,37,1
+"Coenocorypha",21,38,2
+"Common Greenshank",21,68,2
+"Common Redshank",21,75,2
+"Common Sandpiper",21,88,2
+"Comb-crested Jacana",20,113,1
+"coronatus",24,20,1
+"Collared Plover",24,75,2
+"collaris",24,75,2
+"Common Ringed Plover",24,104,1
+"Cocoi Heron",3,41,2
+"cocoi",3,41,2
+"cochlearius",3,117,1
+"Cochlearius",3,117,1
+"conspicillatus",3,201,1
+"Cormorants, Anhingas, Gannets and Frigatebirds",19,0,2
+"Cormorants and Shags",19,3,1
+"Little Black Cormorant",19,13,1
+"Large Pied Cormorant",19,14,2
+"Reed Cormorant",19,17,1
+"Great Cormorant",19,18,2
+"Crowned Cormorant",19,22,2
+"coronatus",19,22,2
+"Little Cormorant",19,23,2
+"Guanay Cormorant",19,25,1
+"Double-crested Cormorant",19,38,1
+"Cape Cormorant",19,39,2
+"Neotropic Cormorant",19,40,2
+"Pygmy Cormorant",19,41,2
+"Little Pied Cormorant",19,45,1
+"Flightless Cormorant",19,46,2
+"Brandt's Cormorant",19,48,1
+"Red-legged Cormorant",19,49,2
+"Pelagic Cormorant",19,51,1
+"Red-faced Cormorant",19,52,2
+"Japanese Cormorant",19,56,2
+"colensoi",19,61,1
+"Black-faced Cormorant",19,63,2
+"Socotra Cormorant",19,64,2
+"Indian Cormorant",19,66,1
+"Bank Cormorant",19,67,2
+"Cory's Shearwater",12,15,2
+"conspicillata",12,24,2
+"Collared Petrel",13,31,2
+"Cook's Petrel",13,42,2
+"cookii",13,42,2
+"Common Diving-petrel",12,52,2
+"Common Loon",1,49,2
+"corythaix",1,62,2
+"Corythaixoides",1,91,1
+"concolor",1,92,2
+"Corythaixoides",1,92,2
+"Corythaixoides",1,93,2
+"Corythaeola",1,97,2
+"Common Cuckoo",10,21,2
+"Common Hawk-cuckoo",10,34,2
+"Coccyzus",11,10,1
+"Coccyzus",11,11,2
+"Coccyzus",11,12,2
+"Coccyzus",11,13,2
+"Coccyzus",11,15,1
+"Coccyzus",11,16,2
+"Coccyzus",11,17,2
+"Cocos Cuckoo",11,20,1
+"Coccyzus",11,20,1
+"Coccyzus",11,21,2
+"Coccyzus",11,26,1
+"Coccyzus",11,27,2
+"Coccyzus",11,28,2
+"Coccyzus",11,29,2
+"Coccycua",11,33,1
+"Coccycua",11,34,2
+"Coccycua",11,35,2
+"coromandus",11,64,2
+"Coucals",10,110,1
+"Lesser Black Coucal",10,121,1
+"Pheasant Coucal",10,122,2
+"Violaceous Coucal",10,123,2
+"Goliath Coucal",10,124,2
+"Madagascar Coucal",10,125,2
+"Philippine Coucal",10,128,1
+"Lesser Coucal",10,129,2
+"Black Coucal",10,130,2
+"Greater Coucal",10,133,1
+"Sunda Coucal",10,134,2
+"Brown Coucal",10,135,2
+"Coppery-tailed Coucal",10,141,1
+"Coppery-tailed Coucal",10,141,1
+"White-browed Coucal",10,142,2
+"Blue-headed Coucal",10,143,2
+"Senegal Coucal",10,144,2
+"Black-throated Coucal",10,146,1
+"Gabon Coucal",10,147,2
+"Kai Coucal",10,148,2
+"Bay Coucal",10,149,2
+"Green-billed Coucal",10,151,1
+"Rufous Coucal",10,152,2
+"Short-toed Coucal",10,155,1
+"Black-hooded Coucal",10,156,2
+"Black-faced Coucal",10,157,2
+"Greater Black Coucal",10,161,1
+"Biak Coucal",10,162,2
+"Pied Coucal",10,163,2
+"Buff-headed Coucal",10,164,2
+"Couas",10,166,1
+"Coquerel's Coua",10,171,1
+"Coquerel's Coua",10,171,1
+"coquereli",10,171,1
+"Coua",10,171,1
+"Running Coua",10,172,2
+"Coua",10,172,2
+"Red-fronted Coua",10,173,2
+"Coua",10,173,2
+"Red-breasted Coua",10,175,1
+"Coua",10,175,1
+"Giant Coua",10,176,2
+"Coua",10,176,2
+"Red-capped Coua",10,177,2
+"Coua",10,177,2
+"Verreaux's Coua",10,180,1
+"Coua",10,180,1
+"Crested Coua",10,181,2
+"Coua",10,181,2
+"Blue Coua",10,182,2
+"Coua",10,182,2
+"Coral-billed Ground-cuckoo",10,187,2
+"Coots, Moorhens and more",15,5,1
+"Hawaiian Coot",15,26,2
+"Red-knobbed Coot",15,35,2
+"White-winged Coot",15,43,2
+"Caribbean Coot",15,44,2
+"Slate-coloured Coot",15,52,1
+"American Coot",15,53,2
+"Common Coot",15,54,2
+"Common Coot",15,54,2
+"Red-gartered Coot",15,56,1
+"Giant Coot",15,57,2
+"Horned Coot",15,60,2
+"cornuta",15,60,2
+"Red-fronted Coot",15,63,2
+"Common Moorhen",15,65,1
+"Corncrake",17,25,2
+"Coturnicops",16,25,1
+"Coturnicops",16,26,2
+"Coturnicops",16,27,2
+"concolor",15,110,1
+"Colombian Crake",15,125,2
+"colombiana",15,125,2
+"Common Crane",15,180,2
+"COLUMBIFORMES",1,133,1
+"Cook Islands Fruit-dove",6,16,2
+"Comoro Blue-pigeon",6,44,2
+"Coroneted Fruit-dove",6,69,2
+"coronulatus",6,69,2
+"coralensis",6,100,2
+"Collared Imperial-pigeon",9,15,1
+"concinna",9,66,2
+"Common Bronzewing",4,67,1
+"Columba",7,10,1
+"Columba",7,11,2
+"Columba",7,12,2
+"Columba",7,13,2
+"Columba",7,14,2
+"Columba",7,16,1
+"Columba",7,17,2
+"Comoro Olive-pigeon",7,18,2
+"Columba",7,18,2
+"Columba",7,21,1
+"Common Wood-pigeon",7,22,2
+"Columba",7,22,2
+"Columba",7,23,2
+"Columba",7,28,1
+"Columba",7,29,2
+"Columba",7,30,2
+"Columba",7,33,1
+"Columba",7,34,2
+"Columba",7,35,2
+"Columba",7,39,1
+"Columba",7,40,2
+"Columba",7,41,2
+"Columba",7,42,2
+"Columba",7,46,1
+"Columba",7,47,2
+"Columba",7,48,2
+"Columba",7,50,1
+"Columba",7,51,2
+"Columba",7,55,1
+"Columba",7,56,2
+"Columba",7,57,2
+"Columba",7,60,1
+"Columba",7,61,2
+"Columba",7,62,2
+"Turtle doves, Collared-doves and more",4,113,2
+"Red Collared-dove",4,124,1
+"White-winged Collared-dove",4,127,1
+"Island Collared-dove",4,128,2
+"African Collared-dove",4,132,1
+"Eurasian Collared-dove",4,133,2
+"Mourning Collared-dove",4,134,2
+"corensis",4,204,2
+"costaricensis",5,8,1
+"conoveri",5,62,2
+"Columbina",1,142,1
+"Columbina",1,143,2
+"Common Ground-dove",1,144,2
+"Columbina",1,144,2
+"Columbina",1,146,1
+"Columbina",1,147,2
+"Columbina",1,150,1
+"Columbina",1,151,2
+"Columbina",1,152,2
+"Columbina",1,153,2
+"coronatus",1,183,2
+"coeruleogularis",156,47,1
+"Copper-rumped Hummingbird",156,70,2
+"colombica",155,25,1
+"Coppery-headed Emerald",155,46,1
+"Cozumel Emerald",155,101,2
+"Coppery Emerald",155,110,2
+"cora",157,25,2
+"colubris",157,37,2
+"Costa's Hummingbird",155,148,1
+"costae",155,148,1
+"constantii",155,174,2
+"Coppery Metaltail",160,15,2
+"Bronze-tailed Comet",160,49,2
+"Red-tailed Comet",160,59,2
+"coelestis",160,66,2
+"Grey-bellied Comet",160,67,2
+"Coquettes, Thorntails and Firecrowns",160,85,2
+"Coquettes",160,87,1
+"Short-crested Coquette",160,92,1
+"White-crested Coquette",160,93,2
+"Rufous-crested Coquette",160,94,2
+"Festive Coquette",160,95,2
+"Spangled Coquette",160,99,1
+"Tufted Coquette",160,100,2
+"Frilled Coquette",160,101,2
+"Peacock Coquette",160,102,2
+"Black-crested Coquette",160,104,1
+"Dot-eared Coquette",160,105,2
+"conversii",160,112,2
+"Coppery Thorntail",160,113,2
+"Racket-tailed Coquette",160,114,2
+"Whitetips, Coronets and more",160,142,2
+"Coronets",160,144,1
+"Buff-tailed Coronet",160,146,1
+"Velvet-purple Coronet",160,147,2
+"Chestnut-breasted Coronet",160,148,2
+"Colourful Puffleg",160,169,2
+"Coppery-bellied Puffleg",160,174,1
+"Coeligena",160,193,1
+"Coeligena",160,194,2
+"Coeligena",160,196,1
+"Coeligena",160,197,2
+"Coeligena",160,198,2
+"Coeligena",160,199,2
+"Coeligena",160,200,2
+"Collared Inca",160,201,2
+"Coeligena",160,201,2
+"Coeligena",160,204,1
+"Coeligena",160,205,2
+"coeligena",160,206,2
+"Coeligena",160,206,2
+"COLIBRI",158,46,1
+"Colibri",158,49,1
+"Colibri",158,50,2
+"coruscans",158,51,2
+"Colibri",158,51,2
+"Colibri",158,52,2
+"condamini",154,67,1
+"Collocalia",153,12,1
+"Collocalia",153,13,2
+"Collocalia",153,15,1
+"Collocalia",153,16,2
+"Collocalia",153,17,2
+"Collocalia",153,21,1
+"Collocalia",153,22,2
+"Collocalia",153,23,2
+"Collocalia",153,24,2
+"Collocalia",153,25,2
+"Collocalia",153,29,1
+"Collocalia",153,30,2
+"Collocalia",153,32,1
+"Collocalia",153,33,2
+"Collocalia",153,36,1
+"Collocalia",153,37,2
+"Collocalia",153,38,2
+"Collocalia",153,46,2
+"Collocalia",153,48,1
+"Collocalia",153,49,2
+"Collocalia",153,52,1
+"Collocalia",153,55,1
+"Collocalia",153,56,2
+"Collocalia",153,58,1
+"Collocalia",153,59,2
+"Collocalia",153,64,1
+"Collocalia",153,65,2
+"Collocalia",153,66,2
+"Collocalia",153,67,2
+"Collocalia",153,69,1
+"Collocalia",153,70,2
+"Common Swift",153,90,2
+"cochinchinensis",153,133,1
+"Costa Rican Swift",153,160,2
+"coronata",152,21,2
+"comata",152,22,2
+"cornutus",152,49,2
+"Common Poorwill",152,91,1
+"concretus",152,102,2
+"Common Pauraque",152,140,1
+"Common Nighthawk",159,65,2
+"Collared Nightjar",152,166,1
+"Common Pheasant",149,40,1
+"colchicus",149,40,1
+"Copper Pheasant",149,49,2
+"Coqui Francolin",150,45,2
+"coqui",150,45,2
+"Congo Peafowl",147,34,2
+"congensis",147,34,2
+"Coturnix",147,40,1
+"coromandelica",147,41,2
+"Coturnix",147,41,2
+"Coturnix",147,43,1
+"Common Quail",147,44,2
+"coturnix",147,44,2
+"Coturnix",147,44,2
+"Coturnix",147,47,2
+"Coturnix",147,51,2
+"Coturnix",147,52,2
+"columbianus",147,118,1
+"COLINUS",147,146,1
+"Colinus",147,149,1
+"Colinus",147,150,2
+"Colinus",147,151,2
+"Colinus",147,152,2
+"Common Merganser",27,22,2
+"Common Goldeneye",27,30,2
+"Common Eider",27,41,1
+"Common Shelduck",27,59,2
+"Common Pochard",27,88,2
+"collaris",27,91,1
+"Comb Duck",27,119,2
+"Common Teal",28,19,2
+"Cotton Pygmy-goose",27,130,1
+"coromandelianus",27,130,1
+"columbianus",27,186,1
+"Coscoroba Swan",27,195,2
+"coscoroba",27,195,2
+"Coscoroba",27,195,2
+"cornuta",27,219,2

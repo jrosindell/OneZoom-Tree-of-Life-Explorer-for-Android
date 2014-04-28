@@ -35,20 +35,37 @@ public class BinarySearch {
 			Toast.makeText(client, "name too short", Toast.LENGTH_LONG).show();
 		} else if (arg.equals(previousSearch)) {
 			currentHit = (currentHit + 1) % searchHit;
-			process(searchResults.get(currentHit));
+			processAndShowSearchResult();
 		} else {
 			searchResults.clear();
 			previousSearch = arg;
-			String filename = client.selectedItem.toLowerCase() + arg.substring(0, 2);
-			File file = new File(filename);
+			String filename = client.selectedItem.toLowerCase() + arg.substring(0, 2).toLowerCase();
 			int resourceID = client.getResources().getIdentifier(filename, "raw", client.getPackageName());
 			InputStream is = client.getResources().openRawResource(resourceID);
 			CSVReader reader = new CSVReader(new InputStreamReader(is));
 			searchReader(reader, arg.toLowerCase());
-			if (searchHit > 0) {
-				process(searchResults.get(currentHit));
-			}
+			processAndShowSearchResult();
 		}
+	}
+	
+	private void processAndShowSearchResult() {
+		if (searchHit > 0) {
+			process(searchResults.get(currentHit));
+			Toast.makeText(client, searchResult(currentHit, searchHit), Toast.LENGTH_LONG).show();	
+		} else {
+			Toast.makeText(client, "No Result", Toast.LENGTH_LONG).show();
+		}
+	}
+	
+	private String searchResult(int currentHit, int total) {
+		if (currentHit == 0)
+			return "The 1st hit, " + total + " hits in total";
+		else if (currentHit == 1) 
+			return "The 2nd hit, " + total + " hits in total";
+		else if (currentHit == 2) 
+			return "The 3rd hit, " + total + " hits in total";
+		else
+			return "The " + (currentHit+1) + "st hit, " + total + " hits in total";
 	}
 
 	private void process(Record record) {
@@ -62,6 +79,7 @@ public class BinarySearch {
 		}
 		reanchorNode(searchedNode, 0);
 		PositionData.setScreenPosition(360, 500, 1f);
+		PositionData.moveNodeToCenter(searchedNode);
 		client.treeView.setDuringInteraction(false);
 		client.recalculate();
 	}
@@ -86,18 +104,29 @@ public class BinarySearch {
 		midNode.positionData.graphref = false;
 	}
 
-	private void searchReader(CSVReader reader, String arg) {
+	private void searchReader(CSVReader reader, String searchWord) {
 		searchHit = 0;	
 		currentHit = 0;
 		try {
 			String[] line;
 			reader.readNext();
 			while ((line = reader.readNext()) != null) {
-				if (line[0].toLowerCase().contains(arg.toLowerCase())) {
-					searchHit++;
+				if (line[0].toLowerCase().contains(searchWord.toLowerCase())) {
 					Record newRecord = new Record(line);
-					if (!searchResults.contains(newRecord))
-						searchResults.add(new Record(line));
+					if (!searchResults.contains(newRecord)) {
+						if (newRecord.name.toLowerCase().equals(searchWord.toLowerCase())) {
+							//exact match appears first
+							searchResults.add(0, newRecord);
+						} else {
+							searchResults.add(newRecord);							
+						}
+						searchHit++;
+					} else if (newRecord.name.toLowerCase().equals(searchWord.toLowerCase())) {
+						//If node has already been added to list but not has the exact match name, then delete it and append 
+						//the exact match at the initial position of the list.
+						deletePreviousResult(searchResults, newRecord);
+						searchResults.add(0, new Record(line));
+					}
 				}
 			}
 			
@@ -112,6 +141,15 @@ public class BinarySearch {
 				e.printStackTrace();
 			}
 		}	
+	}
+
+	private void deletePreviousResult(ArrayList<Record> searchResults,
+			Record newRecord) {
+		for (int i = 0; i < searchResults.size(); i++) {
+			if (searchResults.get(i).equals(newRecord)) {
+				searchResults.remove(i);
+			}
+		}
 	}
 }
 
@@ -134,11 +172,13 @@ class Record {
 		return string;
 	}
 
-	public boolean equals(Record another) {
+	@Override
+	public boolean equals(Object another) {
 		if (this == another) return true;
 		if (another == null) return false;
-		if (this.fileIndex == another.fileIndex
-				&& this.index == another.index)
+		Record that = (Record)another;
+		if (this.fileIndex == that.fileIndex
+				&& this.index == that.index)
 			return true;
 		return false;
 	}

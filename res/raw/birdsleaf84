@@ -1,0 +1,36 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"chalybea","Progne","Grey-breasted Martin",LC,U,-16731116
+11,9,"sinaloae","Progne","Sinaloa Martin",DD,U,-11513776
+13,12,"modesta","Progne","Galapagos Martin",VU,U,-11184866
+14,12,"murphyi","Progne","Peruvian Martin",VU,U,-11184866
+15,7,"elegans","Progne","Southern Martin",LC,U,-16731116
+17,16,"dominicensis","Progne","Caribbean Martin",LC,U,-16731116
+18,16,"cryptoleuca","Progne","Cuban Martin",LC,U,-16731116
+19,5,"subis","Progne","Purple Martin",LC,U,-16731116
+20,4,"tapera","Progne","Brown-chested Martin",LC,U,-16731116
+22,21,"serripennis","Stelgidopteryx","Northern Rough-winged Swallow",LC,U,-16731116
+23,21,"ruficollis","Stelgidopteryx","Southern Rough-winged Swallow",LC,U,-16731116
+29,28,"murina","Notiochelidon","Brown-bellied Swallow",LC,U,-16731116
+30,28,"andecola","Haplochelidon","Andean Swallow",LC,U,-16731116
+31,27,"flavipes","Notiochelidon","Pale-footed Swallow",LC,U,-16731116
+32,26,"fucata","Alopochelidon","Tawny-headed Swallow",LC,U,-16731116
+34,33,"cyanoleuca","Pygochelidon","Blue-and-white Swallow",LC,U,-16731116
+35,33,"melanoleuca","Atticora","Black-collared Swallow",LC,U,-16731116
+38,37,"pileata","Notiochelidon","Black-capped Swallow",LC,U,-16731116
+39,37,"tibialis","Neochelidon","White-thighed Swallow",LC,U,-16731116
+40,36,"fasciata","Atticora","White-banded Swallow",LC,U,-16731116
+46,45,"albiventer","Tachycineta","White-winged Swallow",LC,U,-16731116
+47,45,"albilinea","Tachycineta","Mangrove Swallow",LC,U,-16731116
+48,44,"stolzmanni","Tachycineta","Tumbes Swallow",LC,U,-16731116
+50,49,"leucorrhoa","Tachycineta","White-rumped Swallow",LC,U,-16731116
+51,49,"meyeni","Tachycineta","Chilean Swallow",LC,U,-16731116
+55,54,"cyaneoviridis","Tachycineta","Bahama Swallow",EN,U,-8572416
+56,54,"euchrysea","Tachycineta","Golden Swallow",VU,U,-11184866
+57,53,"thalassina","Tachycineta","Violet-green Swallow",LC,U,-16731116
+58,52,"bicolor","Tachycineta","Tree Swallow",LC,U,-16731116
+60,59,"paludicola","Riparia","Plain Martin",LC,U,-16731116
+61,59,"riparia","Riparia","Sand Martin",LC,U,-16731116
+65,64,"brazzae","Phedina","Brazza's Martin",LC,U,-16731116
+66,64,"congica","Riparia","Congo Martin",LC,U,-16731116
+67,63,"cincta","Riparia","Banded Martin",LC,U,-16731116
+68,62,"borbonica","Phedina","Mascarene Martin",LC,U,-16731116

@@ -1,0 +1,98 @@
+index,parent,name1,name2,common,redlist,popstab,color
+14,13,"nigrorum","Zosterops","Golden-yellow White-eye",LC,U,-16731116
+20,19,"erythropleurus","Zosterops","Chestnut-flanked White-eye",LC,U,-16731116
+21,19,"abyssinicus","Zosterops","White-breasted White-eye",LC,U,-16731116
+22,18,"atricapilla","Zosterops","Black-capped White-eye",LC,U,-16731116
+24,23,"japonicus","Zosterops","Japanese White-eye",LC,U,-16731116
+25,23,"montanus","Zosterops","Mountain White-eye",LC,U,-16731116
+27,26,"somadikartai","Zosterops","Togian White-eye",NT,U,-12486656
+28,26,"emiliae","Chlorocharis","Mountain Blackeye",LC,U,-16731116
+29,15,"everetti","Zosterops","Everett's White-eye",LC,U,-16731116
+35,34,"uropygialis","Zosterops","Golden-bellied White-eye",NT,U,-12486656
+36,34,"flavus","Zosterops","Javan White-eye",NT,U,-12486656
+37,33,"atrifrons","Zosterops","Black-crowned White-eye",LC,U,-16731116
+38,32,"salvadorii","Zosterops","Enggano White-eye",LC,U,-16731116
+40,39,"novaeguineae","Zosterops","New Guinea White-eye",LC,U,-16731116
+41,39,"chloris","Zosterops","Lemon-bellied White-eye",LC,U,-16731116
+42,30,"anomalus","Zosterops","Lemon-throated White-eye",LC,U,-16731116
+50,49,"lugubris","Speirops","Black-capped Speirops",LC,U,-16731116
+51,49,"leucophoeus","Speirops","Principe Speirops",NT,U,-12486656
+52,48,"brunneus","Speirops","Fernando Po Speirops",VU,U,-11184866
+53,47,"melanocephalus","Speirops","Mount Cameroon Speirops",VU,U,-11184866
+56,55,"senegalensis","Zosterops","African Yellow White-eye",LC,U,-16731116
+57,55,"mysorensis","Zosterops","Biak White-eye",NT,U,-12486656
+59,58,"poliogastrus","Zosterops","Montane White-eye",LC,U,-16731116
+60,58,"explorator","Zosterops","Layard's White-eye",LC,U,-16731116
+62,61,"sordidus","Micromacronus","Mindanao Miniature-babbler",DD,U,-11513776
+63,61,"leytensis","Micromacronus","Visayan Miniature-babbler",DD,U,-11513776
+66,65,"maderaspatanus","Zosterops","Madagascar White-eye",LC,U,-16731116
+67,65,"modestus","Zosterops","Seychelles White-eye",EN,U,-8572416
+68,64,"pallidus","Zosterops","Pale White-eye",LC,U,-16731116
+73,72,"mouroniensis","Zosterops","Mount Karthala White-eye",VU,U,-11184866
+74,72,"borbonicus","Zosterops","Mascarene Grey White-eye",LC,U,-16731116
+75,71,"olivaceus","Zosterops","Reunion Olive White-eye",LC,U,-16731116
+78,77,"sanctaecrucis","Zosterops","Santa Cruz White-eye",LC,U,-16731116
+79,77,"natalis","Zosterops","Christmas Island White-eye",VU,U,-11184866
+80,76,"semperi","Zosterops","Caroline Islands White-eye",LC,U,-16731116
+83,82,"palpebrosus","Zosterops","Oriental White-eye",LC,U,-16731116
+84,82,"mayottensis","Zosterops","Mayotte White-eye",LC,U,-16731116
+85,81,"meyeni","Zosterops","Lowland White-eye",LC,U,-16731116
+86,9,"ruficollis","Madanga","Rufous-throated White-eye",EN,U,-8572416
+90,89,"xanthochroa","Zosterops","Green-backed White-eye",LC,U,-16731116
+91,89,"atriceps","Zosterops","Creamy-throated White-eye",LC,U,-16731116
+92,88,"finschii","Zosterops","Dusky White-eye",LC,U,-16731116
+94,93,"albogularis","Zosterops","White-chested White-eye",CR,U,-3014646
+95,93,"vaughani","Zosterops","Pemba White-eye",LC,U,-16731116
+101,100,"chloronothus","Zosterops","Mauritius Olive White-eye",CR,U,-3014646
+102,100,"minutus","Zosterops","Small Lifu White-eye",LC,U,-16731116
+104,103,"palauensis","Megazosterops","Giant White-eye",NT,U,-12486656
+105,103,"grayi","Zosterops","Pearl-bellied White-eye",NT,U,-12486656
+106,98,"gibbsi","Zosterops","Vanikoro White-eye",LC,U,-16731116
+109,108,"consobrinorum","Zosterops","Pale-bellied White-eye",LC,U,-16731116
+110,108,"griseovirescens","Zosterops","Annobon White-eye",VU,U,-11184866
+111,107,"stalkeri","Tephrozosterops","Bicoloured White-eye",LC,U,-16731116
+113,112,"wallacei","Zosterops","Yellow-spectacled White-eye",LC,U,-16731116
+114,112,"minor","Zosterops","Black-fronted White-eye",LC,U,-16731116
+120,119,"javanicus","Lophozosterops","Javan Grey-throated White-eye",LC,U,-16731116
+121,119,"dohertyi","Lophozosterops","Crested White-eye",LC,U,-16731116
+123,122,"squamiceps","Lophozosterops","Streaky-headed White-eye",LC,U,-16731116
+124,122,"pinaiae","Lophozosterops","Grey-hooded White-eye",LC,U,-16731116
+125,117,"goodfellowi","Lophozosterops","Black-masked White-eye",LC,U,-16731116
+126,116,"superciliaris","Lophozosterops","Yellow-browed White-eye",LC,U,-16731116
+129,128,"crassirostris","Heleia","Thick-billed White-eye",LC,U,-16731116
+130,128,"muelleri","Heleia","Spot-breasted White-eye",NT,U,-12486656
+131,127,"squamifrons","Oculocincta","Pygmy White-eye",LC,U,-16731116
+132,5,"marchei","Cleptornis","Golden White-eye",CR,U,-3014646
+135,134,"leucogrammica","Ptilocichla","Bornean Wren-babbler",VU,U,-11184866
+136,134,"mindanensis","Ptilocichla","Striated Wren-babbler",LC,U,-16731116
+137,133,"falcata","Ptilocichla","Falcated Wren-babbler",VU,U,-11184866
+139,138,"hypogrammica","Stachyris","Palawan Striped-babbler",NT,U,-12486656
+140,138,"nigricollis","Stachyris","Black-throated Babbler",NT,U,-12486656
+143,142,"latistriata","Stachyris","Panay Striped-babbler",NT,U,-12486656
+144,142,"striata","Stachyris","Luzon Striped-babbler",NT,U,-12486656
+145,141,"whiteheadi","Stachyris","Chestnut-faced Babbler",LC,U,-16731116
+152,151,"longirostra","Rukia","Long-billed White-eye",NT,U,-12486656
+153,151,"ruki","Rukia","Faichuk White-eye",CR,U,-3014646
+154,150,"thoracica","Stachyris","White-bibbed Babbler",LC,U,-16731116
+155,149,"pygmaea","Stachyris","Visayan Pygmy Babbler",NT,U,-12486656
+156,148,"nigrocapitata","Stachyris","Black-crowned Babbler",LC,U,-16731116
+160,159,"speciosa","Dasycrotapha","Flame-templed Babbler",EN,U,-8572416
+161,159,"leucotis","Stachyris","White-necked Babbler",NT,U,-12486656
+162,158,"grammiceps","Stachyris","White-breasted Babbler",NT,U,-12486656
+163,157,"plateni","Stachyris","Mindanao Pygmy-babbler",NT,U,-12486656
+168,167,"dennistouni","Stachyris","Golden-crowned Babbler",NT,U,-12486656
+169,167,"nigrorum","Stachyris","Negros Striped-babbler",EN,U,-8572416
+170,166,"capitalis","Stachyris","Rusty-crowned Babbler",LC,U,-16731116
+171,165,"atriceps","Rhopocichla","Dark-fronted Babbler",LC,U,-16731116
+172,164,"nonggangensis","Stachyris","Nonggang Babbler",NT,U,-12486656
+179,178,"bakeri","Yuhina","White-naped Yuhina",LC,U,-16731116
+180,178,"humilis","Yuhina","Burmese Yuhina",LC,U,-16731116
+181,177,"flavicollis","Yuhina","Whiskered Yuhina",LC,U,-16731116
+183,182,"occipitalis","Yuhina","Rufous-vented Yuhina",LC,U,-16731116
+184,182,"gularis","Yuhina","Stripe-throated Yuhina",LC,U,-16731116
+186,185,"nigrimenta","Yuhina","Black-chinned Yuhina",LC,U,-16731116
+187,185,"brunneiceps","Yuhina","Taiwan Yuhina",LC,U,-16731116
+190,189,"torqueola","Yuhina","Indochinese Yuhina",LC,U,-16731116
+191,189,"castaniceps","Yuhina","Striated Yuhina",LC,U,-16731116
+192,188,"everetti","Yuhina","Chestnut-crested Yuhina",LC,U,-16731116
+193,173,"diademata","Yuhina","White-collared Yuhina",LC,U,-16731116

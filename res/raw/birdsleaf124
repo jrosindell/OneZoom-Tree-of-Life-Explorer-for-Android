@@ -1,0 +1,50 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"oberholseri","Empidonax","American Dusky Flycatcher",LC,U,-16731116
+13,11,"affinis","Empidonax","Pine Flycatcher",LC,U,-16731116
+14,10,"hammondii","Empidonax","Hammond's Flycatcher",LC,U,-16731116
+16,15,"minimus","Empidonax","Least Flycatcher",LC,U,-16731116
+17,15,"wrightii","Empidonax","Grey Flycatcher",LC,U,-16731116
+19,18,"fulvifrons","Empidonax","Buff-breasted Flycatcher",LC,U,-16731116
+20,18,"atriceps","Empidonax","Black-capped Flycatcher",LC,U,-16731116
+23,22,"traillii","Empidonax","Willow Flycatcher",LC,U,-16731116
+24,22,"alnorum","Empidonax","Alder Flycatcher",LC,U,-16731116
+25,21,"albigularis","Empidonax","White-throated Flycatcher",LC,U,-16731116
+29,28,"occidentalis","Empidonax","Cordilleran Flycatcher",LC,U,-16731116
+30,28,"difficilis","Empidonax","Pacific-slope Flycatcher",LC,U,-16731116
+31,27,"flavescens","Empidonax","Yellowish Flycatcher",LC,U,-16731116
+32,26,"flaviventris","Empidonax","Yellow-bellied Flycatcher",LC,U,-16731116
+33,5,"virescens","Empidonax","Acadian Flycatcher",LC,U,-16731116
+41,40,"hispaniolensis","Contopus","Hispaniolan Pewee",LC,U,-16731116
+42,40,"sordidulus","Contopus","Western Wood-pewee",LC,U,-16731116
+43,39,"punensis","Contopus","Tumbes Pewee",_U,[,-16777216
+45,44,"ochraceus","Contopus","Ochraceous Pewee",LC,U,-16731116
+46,44,"cinereus","Contopus","Tropical Pewee",LC,U,-16731116
+48,47,"nigrescens","Contopus","Blackish Pewee",LC,U,-16731116
+49,47,"lugubris","Contopus","Dark Pewee",LC,U,-16731116
+51,50,"caribaeus","Contopus","Greater Antillean Pewee",LC,U,-16731116
+52,50,"virens","Contopus","Eastern Wood-pewee",LC,U,-16731116
+54,53,"latirostris","Contopus","Lesser Antillean Pewee",LC,U,-16731116
+55,53,"fumigatus","Contopus","Smoke-coloured Pewee",LC,U,-16731116
+58,57,"albogularis","Contopus","White-throated Pewee",LC,U,-16731116
+59,57,"pallidus","Contopus","Jamaican Pewee",LC,U,-16731116
+60,56,"cooperi","Contopus","Olive-sided Flycatcher",NT,U,-12486656
+64,63,"nigricans","Sayornis","Black Phoebe",LC,U,-16731116
+65,63,"phoebe","Sayornis","Eastern Phoebe",LC,U,-16731116
+66,62,"saya","Sayornis","Say's Phoebe",LC,U,-16731116
+68,67,"phaeocercus","Mitrephanes","Tufted Flycatcher",LC,U,-16731116
+69,67,"olivaceus","Mitrephanes","Olive Flycatcher",LC,U,-16731116
+70,2,"pertinax","Contopus","Greater Pewee",LC,U,-16731116
+75,74,"griseipectus","Lathrotriccus","Grey-breasted Flycatcher",VU,U,-11184866
+76,74,"euleri","Lathrotriccus","Euler's Flycatcher",LC,U,-16731116
+78,77,"capitalis","Aphanotriccus","Tawny-chested Flycatcher",VU,U,-11184866
+79,77,"audax","Aphanotriccus","Black-billed Flycatcher",NT,U,-12486656
+82,81,"mexicanus","Xenotriccus","Pileated Flycatcher",NT,U,-12486656
+83,81,"callizonus","Xenotriccus","Belted Flycatcher",NT,U,-12486656
+84,80,"fuscatus","Cnemotriccus","Fuscous Flycatcher",LC,U,-16731116
+85,71,"littoralis","Ochthornis","Drab Water Tyrant",LC,U,-16731116
+90,89,"trivirgatus","Conopias","Three-striped Flycatcher",LC,U,-16731116
+91,89,"cinchoneti","Conopias","Lemon-browed Flycatcher",LC,U,-16731116
+92,88,"parvus","Conopias","Yellow-throated Flycatcher",LC,U,-16731116
+93,87,"albovittatus","Conopias","White-ringed Flycatcher",LC,U,-16731116
+95,94,"cryptoxanthus","Myiophobus","Olive-chested Flycatcher",LC,U,-16731116
+96,94,"fasciatus","Myiophobus","Bran-coloured Flycatcher",LC,U,-16731116

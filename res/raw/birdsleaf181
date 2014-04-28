@@ -1,0 +1,24 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"cuculoides","Aviceda","African Baza",LC,U,-16731116
+9,7,"leuphotes","Aviceda","Black Baza",LC,U,-16731116
+10,6,"jerdoni","Aviceda","Jerdon's Baza",LC,U,-16731116
+12,11,"madagascariensis","Aviceda","Madagascar Baza",LC,U,-16731116
+13,11,"subcristata","Aviceda","Pacific Baza",LC,U,-16731116
+17,16,"longicauda","Henicopernis","Long-tailed Honey-buzzard",LC,U,-16731116
+18,16,"infuscatus","Henicopernis","Black Honey-buzzard",VU,U,-11184866
+19,15,"isura","Lophoictinia","Square-tailed Kite",LC,U,-16731116
+20,14,"melanosternon","Hamirostra","Black-breasted Buzzard",LC,U,-16731116
+24,23,"ptilorhyncus","Pernis","Oriental Honey-buzzard",LC,U,-16731116
+25,23,"celebensis","Pernis","Barred Honey-buzzard",LC,U,-16731116
+26,22,"apivorus","Pernis","European Honey-buzzard",LC,U,-16731116
+27,21,"forficatus","Elanoides","American Swallow-tailed Kite",LC,U,-16731116
+28,2,"astur","Eutriorchis","Madagascar Serpent-eagle",EN,U,-8572416
+31,30,"uncinatus","Chondrohierax","Hook-billed Kite",LC,U,-16731116
+32,30,"wilsonii","Chondrohierax","Cuban Kite",CR,U,-3014646
+34,33,"cayanensis","Leptodon","Grey-headed Kite",LC,U,-16731116
+35,33,"forbesi","Leptodon","White-collared Kite",CR,U,-3014646
+39,38,"radiatus","Polyboroides","Madagascar Harrier-hawk",LC,U,-16731116
+40,38,"typus","Polyboroides","African Harrier-hawk",LC,U,-16731116
+41,37,"angolensis","Gypohierax","Palm-nut Vulture",LC,U,-16731116
+43,42,"percnopterus","Neophron","Egyptian Vulture",EN,U,-8572416
+44,42,"barbatus","Gypaetus","Lammergeier",LC,U,-16731116

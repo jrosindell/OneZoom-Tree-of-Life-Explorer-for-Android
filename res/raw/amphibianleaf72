@@ -1,0 +1,81 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"buergeri","Buergeria","Kajika Frog",LC,S,-16731116
+13,11,"robusta","Buergeria","",LC,S,-16731116
+14,10,"oxycephala","Buergeria","",VU,D,-11184866
+15,9,"japonica","Buergeria","Ryukyu Kajika Frog",LC,D,-16731116
+24,23,"kottigeharensis","Micrixalus","",CR,D,-3014646
+25,23,"elegans","Micrixalus","",DD,U,-11513776
+26,22,"narainensis","Micrixalus","",DD,U,-11513776
+27,21,"nudis","Micrixalus","",VU,D,-11184866
+28,20,"fuscus","Micrixalus","",NT,D,-12486656
+30,29,"swamianus","Micrixalus","",DD,U,-11513776
+31,29,"gadgili","Micrixalus","",EN,D,-8572416
+32,18,"saxicola","Micrixalus","Malabar Tropical Frog",VU,S,-11184866
+35,34,"phyllophilus","Micrixalus","",VU,D,-11184866
+36,34,"thampii","Micrixalus","",DD,U,-11513776
+37,33,"silvaticus","Micrixalus","",DD,U,-11513776
+46,45,"minutus","Batrachylodes","",LC,U,-16731116
+47,45,"gigas","Batrachylodes","",DD,U,-11513776
+48,44,"elegans","Batrachylodes","",LC,S,-16731116
+49,43,"vertebralis","Batrachylodes","",LC,S,-16731116
+51,50,"mediodiscus","Batrachylodes","",LC,S,-16731116
+52,50,"montanus","Batrachylodes","",LC,S,-16731116
+54,53,"trossulus","Batrachylodes","",LC,S,-16731116
+55,53,"wolfi","Batrachylodes","",LC,S,-16731116
+56,39,"guentheri","Ceratobatrachus","",LC,S,-16731116
+60,59,"opisthodon","Discodeles","",DD,U,-11513776
+61,59,"malukuna","Discodeles","",DD,U,-11513776
+62,58,"vogti","Discodeles","",LC,S,-16731116
+64,63,"bufoniformis","Discodeles","",LC,S,-16731116
+65,63,"guppyi","Discodeles","",LC,S,-16731116
+70,69,"stenocephala","Ptychadena","",LC,U,-16731116
+79,78,"mossambica","Ptychadena","Mozambique Ridged Frog",LC,S,-16731116
+80,78,"schillukorum","Ptychadena","Schilluk Ridged Frog",LC,S,-16731116
+81,77,"longirostris","Ptychadena","",LC,D,-16731116
+84,83,"porosissima","Ptychadena","",LC,S,-16731116
+85,83,"harenna","Ptychadena","",DD,U,-11513776
+86,82,"filwoha","Ptychadena","",DD,U,-11513776
+89,88,"uzungwensis","Ptychadena","",LC,U,-16731116
+90,88,"gansi","Ptychadena","",LC,S,-16731116
+92,91,"mapacha","Ptychadena","",DD,U,-11513776
+93,91,"arnei","Ptychadena","",DD,U,-11513776
+95,94,"oxyrhynchus","Ptychadena","",LC,S,-16731116
+96,94,"pujoli","Ptychadena","",DD,U,-11513776
+99,98,"mascareniensis","Ptychadena","Mascarene Grass Frog",LC,S,-16731116
+100,98,"perplicata","Ptychadena","",LC,U,-16731116
+101,97,"keilingi","Ptychadena","",LC,S,-16731116
+105,104,"broadleyi","Ptychadena","Broadley's Ridged Frog",EN,D,-8572416
+106,104,"grandisonae","Ptychadena","",LC,S,-16731116
+107,103,"retropunctata","Ptychadena","",DD,U,-11513776
+108,102,"bibroni","Ptychadena","Broad-banded Grass Frog",LC,S,-16731116
+109,71,"aequiplicata","Ptychadena","Victoria Grassland Frog",LC,S,-16731116
+112,111,"macrotympanum","Hildebrandtia","",LC,U,-16731116
+113,111,"ornatissima","Hildebrandtia","",DD,U,-11513776
+114,110,"ornata","Hildebrandtia","African Ornate Frog",LC,S,-16731116
+115,66,"largeni","Lanzarana","",NT,U,-12486656
+126,125,"somalicus","Phrynomantis","Somali Rubber Frog",LC,U,-16731116
+127,125,"affinis","Phrynomantis","Spotted Rubber Frog",LC,S,-16731116
+128,124,"bifasciatus","Phrynomantis","Banded Rubber Frog",LC,S,-16731116
+130,129,"microps","Phrynomantis","West African Rubber Frog",LC,S,-16731116
+131,129,"annectens","Phrynomantis","Marbled Rubber Frog",LC,S,-16731116
+132,122,"palmata","Paradoxophyla","",LC,U,-16731116
+134,133,"inornata","Micryletta","Deli Paddy Frog",LC,S,-16731116
+135,133,"steinegeri","Micryletta","",EN,D,-8572416
+138,137,"mirandaribeiroi","Synapturanus","",LC,S,-16731116
+139,137,"salseri","Synapturanus","",LC,S,-16731116
+140,136,"rabus","Synapturanus","",LC,S,-16731116
+149,148,"intermedius","Kalophrynus","",VU,D,-11184866
+150,148,"eok","Kalophrynus","",DD,U,-11513776
+151,147,"baluensis","Kalophrynus","",NT,S,-12486656
+152,146,"minusculus","Kalophrynus","",VU,D,-11184866
+154,153,"palmatissimus","Kalophrynus","",EN,D,-8572416
+155,153,"punctatus","Kalophrynus","",VU,D,-11184866
+156,144,"heterochirus","Kalophrynus","",LC,D,-16731116
+160,159,"interlineatus","Kalophrynus","",LC,S,-16731116
+161,159,"bunguranus","Kalophrynus","",DD,U,-11513776
+163,162,"pleurostigma","Kalophrynus","",LC,S,-16731116
+164,162,"nubicola","Kalophrynus","",NT,S,-12486656
+166,165,"menglienicus","Kalophrynus","",DD,U,-11513776
+167,165,"robinsoni","Kalophrynus","",DD,U,-11513776
+168,142,"subterrestris","Kalophrynus","",NT,D,-12486656
+169,141,"indicus","Melanobatrachus","",EN,D,-8572416

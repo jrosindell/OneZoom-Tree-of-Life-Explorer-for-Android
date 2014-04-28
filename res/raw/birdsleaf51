@@ -1,0 +1,56 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"melanoleuca","Poospiza","Black-capped Warbling-finch",LC,U,-16731116
+13,11,"cinerea","Poospiza","Cinereous Warbling-finch",VU,U,-11184866
+14,10,"alticola","Poospiza","Plain-tailed Warbling-finch",EN,U,-8572416
+15,9,"erythrophrys","Poospiza","Rusty-browed Warbling-finch",LC,U,-16731116
+17,16,"trifasciatus","Hemispingus","Three-striped Hemispingus",LC,U,-16731116
+18,16,"torquata","Poospiza","Ringed Warbling-finch",LC,U,-16731116
+19,7,"lateralis","Poospiza","Buff-throated Warbling-finch",LC,U,-16731116
+23,22,"albifrons","Donacospiza","Long-tailed Reed-finch",LC,U,-16731116
+24,22,"hirundinacea","Cypsnagra","White-rumped Tanager",LC,U,-16731116
+25,21,"cabanisi","Poospiza","Grey-throated Warbling-finch",LC,U,-16731116
+27,26,"hypochondria","Poospiza","Rufous-sided Warbling-finch",LC,U,-16731116
+28,26,"caesar","Poospiza","Chestnut-breasted Mountain-finch",LC,U,-16731116
+29,5,"oneilli","Nephelornis","Pardusco",LC,U,-16731116
+37,36,"pectoralis","Thlypopsis","Brown-flanked Tanager",LC,U,-16731116
+38,36,"fulviceps","Thlypopsis","Fulvous-headed Tanager",LC,U,-16731116
+39,35,"inornata","Thlypopsis","Buff-bellied Tanager",LC,U,-16731116
+40,34,"sordida","Thlypopsis","Orange-headed Tanager",LC,U,-16731116
+42,41,"ruficeps","Thlypopsis","Rust-and-yellow Tanager",LC,U,-16731116
+43,41,"ornata","Thlypopsis","Rufous-chested Tanager",LC,U,-16731116
+44,32,"ruficeps","Pyrrhocoma","Chestnut-headed Tanager",LC,U,-16731116
+45,31,"superciliaris","Hemispingus","Superciliaried Hemispingus",LC,U,-16731116
+49,48,"melanotis","Hemispingus","Black-eared Hemispingus",LC,U,-16731116
+50,48,"frontalis","Hemispingus","Oleaginous Hemispingus",LC,U,-16731116
+51,47,"piurae","Hemispingus","Piura Hemispingus",_U,[,-16777216
+53,52,"nigrorufa","Poospiza","Black-and-rufous Warbling-finch",LC,U,-16731116
+54,52,"ochraceus","Hemispingus","Western Hemispingus",_U,[,-16777216
+62,61,"xanthophthalmus","Hemispingus","Drab Hemispingus",LC,U,-16731116
+63,61,"boliviana","Poospiza","Bolivian Warbling-finch",LC,U,-16731116
+64,60,"ornata","Poospiza","Cinnamon Warbling-finch",LC,U,-16731116
+65,59,"verticalis","Hemispingus","Black-headed Hemispingus",LC,U,-16731116
+66,58,"thoracica","Poospiza","Bay-chested Warbling-finch",LC,U,-16731116
+67,57,"hispaniolensis","Poospiza","Collared Warbling-finch",LC,U,-16731116
+69,68,"whitii","Poospiza","Black-and-chestnut Warbling Finch",_U,[,-16777216
+70,68,"goeringi","Hemispingus","Slaty-backed Hemispingus",VU,U,-11184866
+75,74,"atropileus","Hemispingus","Black-capped Hemispingus",LC,U,-16731116
+76,74,"auricularis","Hemispingus","White-browed Hemispingus",_U,[,-16777216
+77,73,"reyi","Hemispingus","Grey-capped Hemispingus",NT,U,-12486656
+79,78,"calophrys","Hemispingus","Orange-browed Hemispingus",LC,U,-16731116
+80,78,"parodii","Hemispingus","Parodi's Hemispingus",LC,U,-16731116
+81,71,"rubecula","Poospiza","Rufous-breasted Warbling-finch",EN,U,-8572416
+84,83,"garleppi","Compsospiza","Cochabamba Mountain-finch",EN,U,-8572416
+85,83,"baeri","Compsospiza","Tucuman Mountain-finch",VU,U,-11184866
+86,82,"rufosuperciliaris","Hemispingus","Rufous-browed Hemispingus",VU,U,-11184866
+87,1,"rubrirostris","Cnemoscopus","Grey-hooded Bush Tanager",LC,U,-16731116
+93,92,"carbonarius","Phrygilus","Carbonated Sierra-finch",LC,U,-16731116
+94,92,"caerulescens","Porphyrospiza","Blue Finch",NT,U,-12486656
+95,91,"alaudinus","Phrygilus","Band-tailed Sierra-finch",LC,U,-16731116
+96,90,"fruticeti","Phrygilus","Mourning Sierra-finch",LC,U,-16731116
+98,97,"verticalis","Creurgops","Rufous-crested Tanager",LC,U,-16731116
+99,97,"dentatus","Creurgops","Slaty Tanager",LC,U,-16731116
+103,102,"ypiranganus","Emberizoides","Grey-cheeked Grass-finch",LC,U,-16731116
+104,102,"herbicola","Emberizoides","Wedge-tailed Grass-finch",LC,U,-16731116
+105,101,"duidae","Emberizoides","Duida Grass-finch",NT,U,-12486656
+107,106,"longicauda","Embernagra","Pale-throated Pampa-finch",NT,U,-12486656
+108,106,"platensis","Embernagra","Great Pampa-finch",LC,U,-16731116

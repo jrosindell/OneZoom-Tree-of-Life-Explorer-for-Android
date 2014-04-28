@@ -297,17 +297,17 @@ public class BinaryVisualizer{
 			float startY, float radius, Paint textPaint) {
 		float lineSpace = radius / (split.length + 1);
 		float minTextSize = 9999f;
-		float tempTextSize;
-		for (String string : split) {
-			tempTextSize = 1.7f * radius / string.length();
-			if (minTextSize > tempTextSize)
-				minTextSize = tempTextSize;
-		}
+		
 		if (split.length == 2) {
 			startY = startY - radius/7f;
+			minTextSize = Math.min(1.7f * radius / split[0].length(), 1.7f * radius / split[1].length());
 		} else if (split.length == 3) {
-			startY = startY - radius/4f;
-		} 
+			startY = startY - radius/5f;
+			minTextSize = Math.min(Math.min(1.35f * radius / split[0].length(), 1.7f * radius / split[0].length()), 
+					1.35f * radius / split[2].length());
+		} else if (split.length == 1) {
+			minTextSize = 1.9f * radius / split[0].length();
+		}
 		
 		for (String string : split) {
 			drawTextOneLine(string, startX, startY, minTextSize, true, textPaint);

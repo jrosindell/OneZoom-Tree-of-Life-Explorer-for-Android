@@ -1,0 +1,28 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"wushanensis","Xenophrys","Wushan Horned Toad",LC,D,-16731116
+10,8,"daweimontis","Xenophrys","",DD,U,-11513776
+11,7,"pachyproctus","Xenophrys","Convex-vented Horned Toad",DD,U,-11513776
+12,6,"omeimontis","Xenophrys","Omei Horned Toad",NT,D,-12486656
+14,13,"spinata","Xenophrys","Spiny-fingered Horned Toad",LC,D,-16731116
+15,13,"huangshanensis","Xenophrys","",DD,U,-11513776
+17,16,"brachykolos","Xenophrys","Short-legged Horned Toad",EN,D,-8572416
+18,16,"minor","Xenophrys","Little Horned Toad",LC,D,-16731116
+22,21,"boettgeri","Xenophrys","Pale-shouldered Horned Toad",LC,D,-16731116
+23,21,"baluensis","Xenophrys","Kinabalu Horned Frog",NT,S,-12486656
+24,20,"wuliangshanensis","Xenophrys","Wuliangshan Horned Toad",DD,U,-11513776
+26,25,"shuichengensis","Xenophrys","",DD,U,-11513776
+27,25,"parallela","Xenophrys","",DD,U,-11513776
+31,30,"jingdongensis","Xenophrys","Jingdong Horned Toad",LC,D,-16731116
+32,30,"parva","Xenophrys","Concave-crowned Horned Toad",LC,D,-16731116
+33,29,"caudoprocta","Xenophrys","Convex-tailed Horned Toad",DD,U,-11513776
+34,28,"wawuensis","Xenophrys","",DD,U,-11513776
+37,36,"palpebralespinosa","Xenophrys","Rough-skinned Horned Toad",LC,U,-16731116
+38,36,"mangshanensis","Xenophrys","Mangshan Horned Toad",NT,D,-12486656
+40,39,"nankiangensis","Xenophrys","Nankiang Horned Toad",VU,D,-11184866
+41,39,"major","Xenophrys","Glandular Horned Toad",LC,D,-16731116
+45,44,"medogensis","Xenophrys","Medog Horned Toad",DD,U,-11513776
+46,44,"robusta","Xenophrys","",DD,U,-11513776
+48,47,"auralensis","Xenophrys","",DD,U,-11513776
+49,47,"glandulosa","Xenophrys","",LC,D,-16731116
+51,50,"zhangi","Xenophrys","Zhang's Horned Toad",DD,U,-11513776
+52,50,"longipes","Xenophrys","",NT,D,-12486656

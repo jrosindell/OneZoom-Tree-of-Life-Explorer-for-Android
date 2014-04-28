@@ -1,0 +1,74 @@
+index,parent,name1,name2,common,redlist,popstab,color
+11,10,"albicapillus","Spreo","White-crowned Starling",LC,U,-16731116
+12,10,"fischeri","Spreo","Fischer's Starling",LC,U,-16731116
+13,9,"bicolor","Spreo","African Pied Starling",LC,U,-16731116
+15,14,"pulcher","Lamprotornis","Chestnut-bellied Starling",LC,U,-16731116
+16,14,"superbus","Lamprotornis","Superb Starling",LC,U,-16731116
+19,18,"splendidus","Lamprotornis","Splendid Glossy-starling",LC,U,-16731116
+20,18,"ornatus","Lamprotornis","Principe Glossy-starling",LC,U,-16731116
+21,17,"regius","Cosmopsarus","Golden-breasted Starling",LC,U,-16731116
+26,25,"chalcurus","Lamprotornis","Bronze-tailed Glossy-starling",LC,U,-16731116
+27,25,"nitens","Lamprotornis","Red-shouldered Glossy-starling",LC,U,-16731116
+28,24,"chalybaeus","Lamprotornis","Greater Blue-eared Glossy-starling",LC,U,-16731116
+29,23,"purpureus","Lamprotornis","Purple Glossy-starling",LC,U,-16731116
+32,31,"chloropterus","Lamprotornis","Lesser Blue-eared Glossy-starling",LC,U,-16731116
+33,31,"acuticaudus","Lamprotornis","Sharp-tailed Glossy-starling",LC,U,-16731116
+34,30,"iris","Coccycolius","Emerald Starling",DD,U,-11513776
+38,37,"purpuroptera","Lamprotornis","Rueppell's Glossy-starling",LC,U,-16731116
+39,37,"caudatus","Lamprotornis","Long-tailed Glossy-starling",LC,U,-16731116
+41,40,"mevesii","Lamprotornis","Meves's Glossy-starling",LC,U,-16731116
+42,40,"unicolor","Cosmopsarus","Ashy Starling",LC,U,-16731116
+43,35,"australis","Lamprotornis","Burchell's Glossy-starling",LC,U,-16731116
+45,44,"hildebrandti","Lamprotornis","Hildebrandt's Starling",LC,U,-16731116
+46,44,"shelleyi","Lamprotornis","Shelley's Starling",LC,U,-16731116
+50,49,"purpureiceps","Lamprotornis","Purple-headed Glossy-starling",LC,U,-16731116
+51,49,"cupreocauda","Lamprotornis","Copper-tailed Glossy-starling",NT,U,-12486656
+52,48,"elisabeth","Lamprotornis","Southern Blue-eared Glossy-starling",LC,U,-16731116
+53,47,"corruscus","Lamprotornis","Black-bellied Glossy-starling",LC,U,-16731116
+61,60,"stuhlmanni","Poeoptera","Stuhlmann's Starling",LC,U,-16731116
+62,60,"kenricki","Poeoptera","Kenrick's Starling",LC,U,-16731116
+63,59,"lugubris","Poeoptera","Narrow-tailed Starling",LC,U,-16731116
+64,58,"femoralis","Cinnyricinclus","Abbott's Starling",VU,U,-11184866
+65,57,"sharpii","Cinnyricinclus","Sharpe's Starling",LC,U,-16731116
+66,56,"bicolor","Speculipastor","Magpie Starling",LC,U,-16731116
+67,55,"torquata","Grafisia","White-collared Starling",LC,U,-16731116
+69,68,"spiloptera","Saroglossa","Spot-winged Starling",LC,U,-16731116
+70,68,"gutturalis","Neocichla","Babbling Starling",LC,U,-16731116
+78,77,"frater","Onychognathus","Socotra Starling",LC,U,-16731116
+79,77,"blythii","Onychognathus","Somali Starling",LC,U,-16731116
+80,76,"salvadorii","Onychognathus","Bristle-crowned Starling",LC,U,-16731116
+82,81,"albirostris","Onychognathus","White-billed Starling",LC,U,-16731116
+83,81,"tristramii","Onychognathus","Tristram's Starling",LC,U,-16731116
+85,84,"fulgidus","Onychognathus","Chestnut-winged Starling",LC,U,-16731116
+86,84,"walleri","Onychognathus","Waller's Starling",LC,U,-16731116
+88,87,"morio","Onychognathus","Red-winged Starling",LC,U,-16731116
+89,87,"neumanni","Onychognathus","Neumann's Starling",_U,[,-16777216
+90,72,"nabouroup","Onychognathus","Pale-winged Starling",LC,U,-16731116
+91,71,"tenuirostris","Onychognathus","Slender-billed Starling",LC,U,-16731116
+104,103,"cristatellus","Acridotheres","Crested Myna",LC,U,-16731116
+105,103,"grandis","Acridotheres","White-vented Myna",LC,U,-16731116
+106,102,"albocinctus","Acridotheres","Collared Myna",LC,U,-16731116
+108,107,"cinereus","Acridotheres","Pale-bellied Myna",LC,U,-16731116
+109,107,"fuscus","Acridotheres","Jungle Myna",LC,U,-16731116
+111,110,"burmannicus","Sturnus","Vinous-breasted Starling",LC,U,-16731116
+112,110,"melanopterus","Sturnus","Black-winged Starling",CR,U,-3014646
+114,113,"ginginianus","Acridotheres","Bank Myna",LC,U,-16731116
+115,113,"tristis","Acridotheres","Common Myna",LC,U,-16731116
+117,116,"cineraceus","Sturnus","White-cheeked Starling",LC,U,-16731116
+118,116,"sericeus","Sturnus","Red-billed Starling",LC,U,-16731116
+124,123,"malabaricus","Sturnus","Chestnut-tailed Starling",LC,U,-16731116
+125,123,"erythropygius","Sturnus","White-headed Starling",LC,U,-16731116
+126,122,"pagodarum","Sturnus","Brahminy Starling",LC,U,-16731116
+127,121,"sinensis","Sturnus","White-shouldered Starling",LC,U,-16731116
+128,120,"albofrontatus","Sturnus","White-faced Starling",VU,U,-11184866
+129,119,"rothschildi","Leucopsar","Bali Starling",CR,U,-3014646
+132,131,"philippensis","Sturnus","Chestnut-cheeked Starling",LC,U,-16731116
+133,131,"sturninus","Sturnus","Purple-backed Starling",LC,U,-16731116
+135,134,"nigricollis","Sturnus","Black-collared Starling",LC,U,-16731116
+136,134,"contra","Sturnus","Asian Pied Starling",LC,U,-16731116
+137,95,"roseus","Sturnus","Rosy Starling",LC,U,-16731116
+139,138,"unicolor","Sturnus","Spotless Starling",LC,U,-16731116
+140,138,"vulgaris","Sturnus","Common Starling",LC,U,-16731116
+141,93,"cinerea","Creatophora","Wattled Starling",LC,U,-16731116
+143,142,"leucogaster","Cinnyricinclus","Violet-backed Starling",LC,U,-16731116
+144,142,"aurata","Saroglossa","Madagascar Starling",LC,U,-16731116

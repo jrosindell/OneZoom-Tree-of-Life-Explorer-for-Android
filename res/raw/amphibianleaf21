@@ -1,0 +1,89 @@
+index,parent,name1,name2,common,redlist,popstab,color
+15,14,"brachyphona","Pseudacris","Mountain Chorus Frog",LC,U,-16731116
+16,14,"brimleyi","Pseudacris","Brimley's Chorus Frog",LC,S,-16731116
+17,13,"feriarum","Pseudacris","Upland Chorus Frog",LC,S,-16731116
+19,18,"nigrita","Pseudacris","Southern Chorus Frog",LC,S,-16731116
+20,18,"clarkii","Pseudacris","Spotted Chorus Frog",LC,S,-16731116
+21,11,"triseriata","Pseudacris","Western Chorus Frog",LC,D,-16731116
+24,23,"streckeri","Pseudacris","Strecker's Chorus Frog",LC,U,-16731116
+25,23,"ornata","Pseudacris","Ornate Chorus Frog",LC,S,-16731116
+27,26,"ocularis","Pseudacris","Little Grass Frog",LC,S,-16731116
+28,26,"crucifer","Pseudacris","Spring Peeper",LC,S,-16731116
+30,29,"cadaverina","Pseudacris","California Treefrog",LC,S,-16731116
+31,29,"regilla","Pseudacris","Pacific Chorus Frog",LC,S,-16731116
+33,32,"crepitans","Acris","Northern Cricket Frog",LC,S,-16731116
+34,32,"gryllus","Acris","Southern Cricket Frog",LC,S,-16731116
+38,37,"altipotens","Charadrahyla","",CR,D,-3014646
+39,37,"chaneque","Charadrahyla","",EN,D,-8572416
+40,36,"nephila","Charadrahyla","",VU,D,-11184866
+42,41,"taeniopus","Charadrahyla","",VU,D,-11184866
+43,41,"trux","Charadrahyla","",CR,D,-3014646
+51,50,"brevirostris","Phyllodytes","",DD,D,-11513776
+52,50,"luteolus","Phyllodytes","",LC,D,-16731116
+54,53,"acuminatus","Phyllodytes","",LC,D,-16731116
+55,53,"kautskyi","Phyllodytes","",LC,D,-16731116
+57,56,"melanomystax","Phyllodytes","",LC,D,-16731116
+58,56,"edelmoi","Phyllodytes","",DD,D,-11513776
+60,59,"tuberculosus","Phyllodytes","",DD,U,-11513776
+61,59,"punctatus","Phyllodytes","",DD,U,-11513776
+62,46,"gyrinaethes","Phyllodytes","",DD,D,-11513776
+64,63,"wuchereri","Phyllodytes","",DD,U,-11513776
+65,63,"auratus","Phyllodytes","",CR,D,-3014646
+74,73,"sarayacuensis","Dendropsophus","",LC,S,-16731116
+75,73,"anceps","Dendropsophus","",LC,S,-16731116
+76,72,"amicorum","Dendropsophus","",CR,D,-3014646
+77,71,"elegans","Dendropsophus","",LC,S,-16731116
+79,78,"leucophyllatus","Dendropsophus","",LC,S,-16731116
+80,78,"ebraccatus","Dendropsophus","",LC,S,-16731116
+83,82,"rossalleni","Dendropsophus","",LC,S,-16731116
+84,82,"bifurcus","Dendropsophus","",LC,S,-16731116
+85,81,"triangulum","Dendropsophus","",LC,S,-16731116
+87,86,"eugenioi","Xenohyla","",DD,U,-11513776
+88,86,"truncata","Xenohyla","",NT,D,-12486656
+95,94,"cardosoi","Pseudis","",LC,S,-16731116
+96,94,"minuta","Pseudis","",LC,S,-16731116
+97,93,"bolbodactyla","Pseudis","",LC,U,-16731116
+98,92,"fusca","Pseudis","",LC,U,-16731116
+100,99,"tocantins","Pseudis","",LC,U,-16731116
+101,99,"paradoxa","Pseudis","",LC,S,-16731116
+104,103,"limellum","Lysapsus","",NE,U,-16777216
+105,103,"laevis","Lysapsus","",NE,U,-16777216
+106,102,"caraya","Lysapsus","",NE,U,-16777216
+108,107,"vigilans","Scarthyla","",LC,S,-16731116
+109,107,"goinorum","Scarthyla","",LC,S,-16731116
+116,115,"inparquesi","Myersiohyla","",DD,U,-11513776
+117,115,"aromatica","Myersiohyla","",DD,U,-11513776
+118,114,"kanaima","Myersiohyla","",LC,S,-16731116
+119,113,"loveridgei","Myersiohyla","",DD,U,-11513776
+130,129,"alboguttata","Litoria","Striped Burrowing Frog",LC,S,-16731116
+131,129,"verrucosa","Litoria","Rough Frog",LC,S,-16731116
+132,128,"cryptotis","Litoria","Hidden-ear Frog",LC,S,-16731116
+133,127,"manya","Litoria","Small Frog",LC,S,-16731116
+135,134,"platycephala","Litoria","Water-holding Frog",LC,S,-16731116
+136,134,"maini","Litoria","Main's Frog",LC,S,-16731116
+139,138,"novaehollandiae","Litoria","New Holland Frog",LC,S,-16731116
+140,138,"longipes","Litoria","Long-footed Frog",LC,S,-16731116
+142,141,"australis","Litoria","Giant Frog",LC,S,-16731116
+143,141,"vagitus","Litoria","Wailing Frog",LC,S,-16731116
+146,145,"maculosa","Litoria","Daly Waters Frog",LC,S,-16731116
+147,145,"brevipes","Litoria","Collared Frog",LC,S,-16731116
+148,144,"cultripes","Litoria","Knife-footed Frog",LC,S,-16731116
+156,155,"callidryas","Agalychnis","Red-eyed Treefrog",LC,D,-16731116
+157,155,"moreletii","Agalychnis","Morelet's Treefrog",CR,D,-3014646
+159,158,"spurrelli","Agalychnis","Gliding Treefrog",LC,D,-16731116
+160,158,"annae","Agalychnis","Blue-sided Treefrog",EN,D,-8572416
+162,161,"litodryas","Agalychnis","Pink-sided Treefrog",VU,D,-11184866
+163,161,"saltator","Agalychnis","",LC,S,-16731116
+164,152,"dacnicolor","Pachymedusa","",LC,D,-16731116
+169,168,"psilopygion","Hylomantis","",DD,U,-11513776
+170,168,"lemur","Hylomantis","",CR,D,-3014646
+171,167,"buckleyi","Hylomantis","",LC,U,-16731116
+174,173,"medinai","Hylomantis","",NE,U,-16777216
+175,173,"hulli","Hylomantis","",LC,D,-16731116
+176,172,"danieli","Hylomantis","",DD,U,-11513776
+178,177,"granulosa","Hylomantis","",LC,D,-16731116
+179,177,"aspera","Hylomantis","",LC,D,-16731116
+183,182,"guttata","Phasmahyla","",LC,D,-16731116
+184,182,"exilis","Phasmahyla","",LC,D,-16731116
+185,181,"jandaia","Phasmahyla","",LC,D,-16731116
+186,180,"cochranae","Phasmahyla","",LC,D,-16731116

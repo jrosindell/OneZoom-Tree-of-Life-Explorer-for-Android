@@ -1,0 +1,89 @@
+index,parent,name1,name2,common,redlist,popstab,color
+17,16,"fragilis","Leptodactylus","American White Lipped Frog",LC,S,-16731116
+18,16,"marambaiae","Leptodactylus","",LC,S,-16731116
+20,19,"longirostris","Leptodactylus","",LC,S,-16731116
+21,19,"didymus","Leptodactylus","",LC,S,-16731116
+22,14,"spixi","Leptodactylus","",LC,D,-16731116
+23,13,"labrosus","Leptodactylus","",LC,U,-16731116
+24,12,"gracilis","Leptodactylus","",LC,S,-16731116
+25,11,"mystacinus","Leptodactylus","",LC,S,-16731116
+31,30,"tapiti","Leptodactylus","",DD,U,-11513776
+32,30,"jolyi","Leptodactylus","",DD,U,-11513776
+33,29,"elenae","Leptodactylus","",LC,U,-16731116
+34,28,"notoaktites","Leptodactylus","",LC,S,-16731116
+36,35,"caatingae","Leptodactylus","",LC,U,-16731116
+37,35,"fuscus","Leptodactylus","",LC,S,-16731116
+39,38,"cunicularius","Leptodactylus","",LC,S,-16731116
+40,38,"troglodytes","Leptodactylus","",LC,S,-16731116
+43,42,"furnarius","Leptodactylus","",LC,S,-16731116
+44,42,"latinasus","Leptodactylus","",LC,S,-16731116
+45,41,"albilabris","Leptodactylus","",LC,S,-16731116
+46,8,"poecilochilus","Leptodactylus","",LC,S,-16731116
+51,50,"ventrimaculatus","Leptodactylus","",LC,S,-16731116
+52,50,"bufonius","Leptodactylus","",LC,S,-16731116
+53,49,"plaumanni","Leptodactylus","",LC,S,-16731116
+54,48,"mystaceus","Leptodactylus","",LC,S,-16731116
+55,47,"camaquara","Leptodactylus","",DD,U,-11513776
+64,63,"myersi","Leptodactylus","Myers' Thin-toed Frog",LC,S,-16731116
+65,63,"rhodonotus","Leptodactylus","",LC,U,-16731116
+66,62,"flavopictus","Leptodactylus","",LC,D,-16731116
+67,61,"fallax","Leptodactylus","Giant Ditch Frog",CR,D,-3014646
+68,60,"stenodema","Leptodactylus","",LC,S,-16731116
+72,71,"validus","Leptodactylus","Smooth-skinned ditch frog",LC,S,-16731116
+73,71,"rugosus","Leptodactylus","",LC,S,-16731116
+74,70,"laticeps","Leptodactylus","",NT,D,-12486656
+75,69,"labyrinthicus","Leptodactylus","",LC,S,-16731116
+76,58,"rhodomystax","Leptodactylus","",LC,S,-16731116
+79,78,"pentadactylus","Leptodactylus","",LC,S,-16731116
+80,78,"lithonaetes","Leptodactylus","",LC,S,-16731116
+81,77,"knudseni","Leptodactylus","",LC,S,-16731116
+84,83,"silvanimbus","Leptodactylus","",CR,D,-3014646
+85,83,"syphax","Leptodactylus","",LC,S,-16731116
+86,82,"hylodes","Leptodactylus","",DD,U,-11513776
+93,92,"hylaedactylus","Leptodactylus","",LC,S,-16731116
+94,92,"diptyx","Leptodactylus","",LC,S,-16731116
+95,91,"bokermanni","Leptodactylus","",LC,S,-16731116
+97,96,"martinezi","Leptodactylus","",LC,S,-16731116
+98,96,"lutzi","Leptodactylus","",DD,U,-11513776
+100,99,"marmoratus","Leptodactylus","",LC,U,-16731116
+101,99,"heyeri","Leptodactylus","",LC,S,-16731116
+103,102,"araucaria","Leptodactylus","",LC,S,-16731116
+104,102,"andreae","Leptodactylus","",LC,S,-16731116
+105,87,"lineatus","Leptodactylus","",LC,S,-16731116
+111,110,"mantiqueira","Paratelmatobius","",DD,D,-11513776
+112,110,"gaigeae","Paratelmatobius","",DD,D,-11513776
+113,109,"lutzii","Paratelmatobius","",DD,D,-11513776
+114,108,"poecilogaster","Paratelmatobius","",DD,D,-11513776
+115,107,"cardosoi","Paratelmatobius","",DD,U,-11513776
+116,106,"sawayae","Scythrophrys","",LC,D,-16731116
+122,121,"riopiedadensis","Pseudopaludicola","",DD,U,-11513776
+123,121,"canga","Pseudopaludicola","",DD,U,-11513776
+124,120,"falcipes","Pseudopaludicola","",LC,S,-16731116
+127,126,"ceratophryes","Pseudopaludicola","",LC,U,-16731116
+128,126,"mirandae","Pseudopaludicola","",DD,U,-11513776
+129,125,"pusilla","Pseudopaludicola","",LC,S,-16731116
+130,118,"mystacalis","Pseudopaludicola","",LC,S,-16731116
+134,133,"boliviana","Pseudopaludicola","",LC,S,-16731116
+135,133,"mineira","Pseudopaludicola","",DD,U,-11513776
+137,136,"saltica","Pseudopaludicola","",LC,S,-16731116
+138,136,"llanera","Pseudopaludicola","",LC,S,-16731116
+139,131,"ternetzi","Pseudopaludicola","",LC,S,-16731116
+143,142,"nattereri","Eupemphix","",LC,D,-16731116
+145,144,"nasuta","Edalorhina","",DD,U,-11513776
+146,144,"perezi","Edalorhina","",LC,S,-16731116
+154,153,"kriegi","Pleurodema","",NT,I,-12486656
+155,153,"thaul","Pleurodema","",LC,S,-16731116
+156,152,"guayapae","Pleurodema","",LC,U,-16731116
+157,151,"diplolister","Pleurodema","Peters' Four-eyed Frog",LC,S,-16731116
+159,158,"brachyops","Pleurodema","Colombian Four-eyed Frog",LC,S,-16731116
+160,158,"bibroni","Pleurodema","Four-eyed Frog",NT,D,-12486656
+163,162,"borellii","Pleurodema","",LC,S,-16731116
+164,162,"cinereum","Pleurodema","",LC,S,-16731116
+165,161,"tucumanum","Pleurodema","",LC,S,-16731116
+168,167,"bufoninum","Pleurodema","Large Four-eyed Frog",LC,S,-16731116
+169,167,"marmoratum","Pleurodema","",LC,S,-16731116
+170,166,"nebulosum","Pleurodema","",LC,S,-16731116
+171,147,"somuncurensis","Somuncuria","",CR,D,-3014646
+177,176,"antisthenesi","Cochranella","",VU,D,-11184866
+178,176,"pulverata","Cochranella","",LC,U,-16731116
+179,172,"ruthveni","Allophryne","",LC,D,-16731116

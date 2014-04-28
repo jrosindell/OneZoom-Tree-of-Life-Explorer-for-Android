@@ -1,0 +1,99 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"fissipes","Chaunus","",NE,U,-16777216
+14,12,"arenarum","Chaunus","",NE,U,-16777216
+15,11,"quechua","Chaunus","",NE,U,-16777216
+16,10,"atacamensis","Chaunus","",NE,U,-16777216
+18,17,"schneideri","Chaunus","",NE,U,-16777216
+19,17,"chavin","Chaunus","",NE,U,-16777216
+23,22,"rubropunctatus","Chaunus","",NE,U,-16777216
+24,22,"pombali","Chaunus","",NE,U,-16777216
+26,25,"amboroensis","Chaunus","",NE,U,-16777216
+27,25,"arunco","Chaunus","",NE,U,-16777216
+28,20,"veraguensis","Chaunus","",NE,U,-16777216
+30,29,"fernandezae","Chaunus","",NE,U,-16777216
+31,29,"abei","Chaunus","",NE,U,-16777216
+38,37,"bufo","Bufo","Common Toad",LC,S,-16731116
+39,37,"tuberculatus","Bufo","",NT,D,-12486656
+40,36,"japonicus","Bufo","Japanese Common Toad",LC,S,-16731116
+41,35,"minshanicus","Bufo","",LC,S,-16731116
+42,34,"gargarizans","Bufo","Asiatic Toad",LC,S,-16731116
+44,43,"verrucosissimus","Bufo","Caucasian Toad",NT,D,-12486656
+45,43,"bankorensis","Bufo","",LC,S,-16731116
+49,48,"tibetanus","Bufo","Tibetan Toad",LC,S,-16731116
+50,48,"wolongensis","Bufo","",DD,U,-11513776
+51,47,"kabischi","Bufo","",DD,U,-11513776
+53,52,"torrenticola","Bufo","Japanese Stream Toad",LC,S,-16731116
+54,52,"aspinius","Bufo","",DD,U,-11513776
+63,62,"gundlachi","Peltophryne","Cuban High-crested Toad",VU,D,-11184866
+64,62,"cataulaciceps","Peltophryne","Cuban Pine Toad",EN,D,-8572416
+65,61,"fracta","Peltophryne","Eastern Crested Toad",EN,D,-8572416
+67,66,"lemur","Peltophryne","Puerto Rican Crested Toad",CR,D,-3014646
+68,66,"peltocephala","Peltophryne","",LC,D,-16731116
+69,59,"taladai","Peltophryne","Cuban Spotted Toad",VU,D,-11184866
+73,72,"fluviatica","Peltophryne","Hispaniolan Crestless Toad",CR,D,-3014646
+74,72,"empusa","Peltophryne","Cuban Small-eared Toad",VU,D,-11184866
+75,71,"longinasus","Peltophryne","Cuban Long-nosed Toad",EN,D,-8572416
+77,76,"fustiger","Peltophryne","Western Giant Toad",LC,S,-16731116
+78,76,"guentheri","Peltophryne","",VU,D,-11184866
+79,57,"carens","Schismaderma","African Red Toad",LC,U,-16731116
+84,83,"himalayanus","Duttaphrynus","Himalayan Toad",LC,S,-16731116
+85,83,"noellerti","Duttaphrynus","",EN,D,-8572416
+86,82,"crocus","Duttaphrynus","",DD,D,-11513776
+88,87,"melanostictus","Duttaphrynus","Asian Common Toad",LC,I,-16731116
+89,87,"microtympanum","Duttaphrynus","",VU,D,-11184866
+92,91,"kandianus","Adenomus","",EX,U,-16777036
+93,91,"dasi","Adenomus","",CR,D,-3014646
+94,90,"kelaartii","Adenomus","",EN,D,-8572416
+102,101,"luristanica","Pseudepidalea","",LC,U,-16731116
+103,101,"latastii","Pseudepidalea","",LC,U,-16731116
+104,100,"brongersmai","Pseudepidalea","Brongersma's Toad",NT,D,-12486656
+105,99,"surda","Pseudepidalea","Iranian Earless Toad",LC,D,-16731116
+106,98,"raddei","Pseudepidalea","Mongolian Toad",LC,S,-16731116
+107,97,"pseudoraddei","Pseudepidalea","",LC,S,-16731116
+110,109,"viridis","Pseudepidalea","Green Toad",LC,D,-16731116
+111,109,"oblonga","Pseudepidalea","",LC,S,-16731116
+112,108,"pewzowi","Pseudepidalea","",NE,U,-16777216
+113,95,"calamita","Epidalea","Natterjack Toad",LC,D,-16731116
+126,125,"iserni","Rhinella","Rio Perene Toad",DD,U,-11513776
+127,125,"acutirostris","Rhinella","",LC,S,-16731116
+128,124,"stanlaii","Rhinella","",LC,S,-16731116
+129,123,"proboscidea","Rhinella","",LC,S,-16731116
+132,131,"margaritifera","Rhinella","South American Common Toad",LC,S,-16731116
+133,131,"scitula","Rhinella","",DD,U,-11513776
+134,130,"roqueana","Rhinella","",LC,U,-16731116
+136,135,"ceratophrys","Rhinella","",LC,S,-16731116
+137,135,"cristinae","Rhinella","",DD,U,-11513776
+139,138,"sclerocephala","Rhinella","",EN,D,-8572416
+140,138,"castaneotica","Rhinella","",LC,S,-16731116
+141,119,"dapsilis","Rhinella","",LC,S,-16731116
+142,118,"intermedia","Rhinella","",NE,U,-16777216
+148,147,"festae","Rhamphophryne","",NE,U,-16777216
+149,147,"tenrec","Rhamphophryne","",NE,U,-16777216
+150,146,"rostrata","Rhamphophryne","",NE,U,-16777216
+152,151,"macrorhina","Rhamphophryne","",NE,U,-16777216
+153,151,"truebae","Rhamphophryne","",NE,U,-16777216
+154,144,"proboscidea","Rhamphophryne","",NE,U,-16777216
+157,156,"acrolopha","Rhamphophryne","",NE,U,-16777216
+158,156,"nicefori","Rhamphophryne","",NE,U,-16777216
+160,159,"lindae","Rhamphophryne","",NE,U,-16777216
+161,159,"ruizi","Rhamphophryne","",NE,U,-16777216
+168,167,"rhopophilius","Pelophryne","",NE,U,-16777216
+169,167,"brevipes","Pelophryne","",LC,D,-16731116
+170,166,"guentheri","Pelophryne","",VU,D,-11184866
+172,171,"signata","Pelophryne","",NT,D,-12486656
+173,171,"misera","Pelophryne","",VU,D,-11184866
+174,164,"macrotis","Pelophryne","",DD,U,-11513776
+177,176,"albotaeniata","Pelophryne","",EN,D,-8572416
+178,176,"api","Pelophryne","",EN,D,-8572416
+179,175,"lighti","Pelophryne","",VU,D,-11184866
+180,162,"scalpta","Parapelophryne","",EN,D,-8572416
+187,186,"galeatus","Ingerophrynus","Bony-headed Toad",LC,U,-16731116
+188,186,"parvus","Ingerophrynus","",LC,D,-16731116
+189,185,"biporcatus","Ingerophrynus","Crested Toad",LC,S,-16731116
+190,184,"kumquat","Ingerophrynus","",EN,D,-8572416
+191,183,"celebensis","Ingerophrynus","Sulawesian Toad",LC,S,-16731116
+193,192,"philippinicus","Ingerophrynus","Philippine Toad",LC,S,-16731116
+194,192,"divergens","Ingerophrynus","",LC,D,-16731116
+197,196,"quadriporcatus","Ingerophrynus","",LC,U,-16731116
+198,196,"macrotis","Ingerophrynus","",LC,D,-16731116
+199,195,"claviger","Ingerophrynus","",EN,D,-8572416

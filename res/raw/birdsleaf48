@@ -1,0 +1,52 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"citrinellus","Atlapetes","Yellow-striped Brush-finch",LC,U,-16731116
+9,7,"fulviceps","Atlapetes","Fulvous-headed Brush-finch",LC,U,-16731116
+11,10,"luteoviridis","Pselliophorus","Yellow-green Finch",VU,U,-11184866
+12,10,"tibialis","Pselliophorus","Yellow-thighed Finch",LC,U,-16731116
+15,14,"pileatus","Atlapetes","Rufous-capped Brush-finch",LC,U,-16731116
+16,14,"albinucha","Atlapetes","White-naped Brush-finch",LC,U,-16731116
+17,13,"semirufus","Atlapetes","Ochre-breasted Brush-finch",LC,U,-16731116
+19,18,"albiceps","Atlapetes","White-headed Brush-finch",LC,U,-16731116
+20,18,"forbesi","Atlapetes","Apurimac Brush-finch",LC,U,-16731116
+24,23,"erythrophthalmus","Pipilo","Eastern Towhee",LC,U,-16731116
+25,23,"maculatus","Pipilo","Spotted Towhee",LC,U,-16731116
+26,22,"ocai","Pipilo","Collared Towhee",LC,U,-16731116
+27,21,"chlorurus","Pipilo","Green-tailed Towhee",LC,U,-16731116
+35,34,"albicollis","Pipilo","White-throated Towhee",LC,U,-16731116
+36,34,"fuscus","Pipilo","Canyon Towhee",LC,U,-16731116
+38,37,"crissalis","Pipilo","California Towhee",LC,U,-16731116
+39,37,"aberti","Pipilo","Abert's Towhee",LC,U,-16731116
+41,40,"kieneri","Melozone","Rusty-crowned Ground-sparrow",LC,U,-16731116
+42,40,"cabanisi","Melozone","Cabanis's Ground Sparrow",_U,[,-16777216
+44,43,"leucotis","Melozone","White-eared Ground-sparrow",LC,U,-16731116
+45,43,"biarcuata","Melozone","Prevost's Ground-sparrow",LC,U,-16731116
+48,47,"ruficeps","Aimophila","Rufous-crowned Sparrow",LC,U,-16731116
+49,47,"notosticta","Aimophila","Oaxaca Sparrow",NT,U,-12486656
+50,46,"rufescens","Aimophila","Rusty Sparrow",LC,U,-16731116
+51,29,"leucopis","Atlapetes","White-rimmed Brush-finch",LC,U,-16731116
+52,28,"capitalis","Pezopetes","Large-footed Finch",LC,U,-16731116
+59,58,"lincolnii","Melospiza","Lincoln's Sparrow",LC,U,-16731116
+60,58,"georgiana","Melospiza","Swamp Sparrow",LC,U,-16731116
+61,57,"melodia","Melospiza","Song Sparrow",LC,U,-16731116
+62,56,"baileyi","Xenospiza","Sierra Madre Sparrow",EN,U,-8572416
+64,63,"henslowii","Ammodramus","Henslow's Sparrow",NT,U,-12486656
+65,63,"bairdii","Ammodramus","Baird's Sparrow",LC,U,-16731116
+66,54,"sandwichensis","Passerculus","Savannah Sparrow",LC,U,-16731116
+72,71,"caudacutus","Ammodramus","Saltmarsh Sparrow",VU,U,-11184866
+73,71,"nelsoni","Ammodramus","Nelson's Sparrow",LC,U,-16731116
+74,70,"maritimus","Ammodramus","Seaside Sparrow",LC,U,-16731116
+75,69,"leconteii","Ammodramus","Le Conte's Sparrow",LC,U,-16731116
+77,76,"gramineus","Pooecetes","Vesper Sparrow",LC,U,-16731116
+78,76,"belli","Amphispiza","Sage Sparrow",LC,U,-16731116
+79,67,"superciliosus","Oriturus","Striped Sparrow",LC,U,-16731116
+85,84,"atricapilla","Zonotrichia","Golden-crowned Sparrow",LC,U,-16731116
+86,84,"leucophrys","Zonotrichia","White-crowned Sparrow",LC,U,-16731116
+88,87,"albicollis","Zonotrichia","White-throated Sparrow",LC,U,-16731116
+89,87,"querula","Zonotrichia","Harris's Sparrow",LC,U,-16731116
+90,82,"capensis","Zonotrichia","Rufous-collared Sparrow",LC,U,-16731116
+93,92,"phaeonotus","Junco","Yellow-eyed Junco",LC,U,-16731116
+94,92,"hyemalis","Junco","Dark-eyed Junco",LC,U,-16731116
+96,95,"insularis","Junco","Guadalupe Junco",_U,[,-16777216
+97,95,"vulcani","Junco","Volcano Junco",LC,U,-16731116
+99,98,"arborea","Spizella","American Tree Sparrow",LC,U,-16731116
+100,98,"iliaca","Passerella","Fox Sparrow",LC,U,-16731116

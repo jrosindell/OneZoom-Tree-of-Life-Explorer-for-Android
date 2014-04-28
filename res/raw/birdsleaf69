@@ -1,0 +1,60 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"davidianus","Paradoxornis","Short-tailed Parrotbill",LC,U,-16731116
+10,8,"zappeyi","Paradoxornis","Grey-hooded Parrotbill",VU,U,-11184866
+11,7,"flavirostris","Paradoxornis","Black-breasted Parrotbill",VU,U,-11184866
+12,6,"atrosuperciliaris","Paradoxornis","Pale-billed Parrotbill",LC,U,-16731116
+13,5,"margaritae","Paradoxornis","Black-headed Parrotbill",NT,U,-12486656
+15,14,"przewalskii","Paradoxornis","Rusty-throated Parrotbill",VU,U,-11184866
+16,14,"nipalensis","Paradoxornis","Black-throated Parrotbill",LC,U,-16731116
+19,18,"guttaticollis","Paradoxornis","Spot-breasted Parrotbill",LC,U,-16731116
+20,18,"heudei","Paradoxornis","Reed Parrotbill",NT,U,-12486656
+22,21,"gularis","Paradoxornis","Grey-headed Parrotbill",LC,U,-16731116
+23,21,"verreauxi","Paradoxornis","Golden Parrotbill",LC,U,-16731116
+29,28,"webbianus","Paradoxornis","Vinous-throated Parrotbill",LC,U,-16731116
+30,28,"brunneus","Paradoxornis","Brown-winged Parrotbill",LC,U,-16731116
+31,27,"alphonsianus","Paradoxornis","Ashy-throated Parrotbill",LC,U,-16731116
+32,26,"paradoxus","Paradoxornis","Three-toed Parrotbill",LC,U,-16731116
+33,25,"ruficeps","Paradoxornis","Rufous-headed Parrotbill",LC,U,-16731116
+36,35,"conspicillatus","Paradoxornis","Spectacled Parrotbill",LC,U,-16731116
+37,35,"fulvifrons","Paradoxornis","Fulvous Parrotbill",LC,U,-16731116
+39,38,"unicolor","Paradoxornis","Brown Parrotbill",LC,U,-16731116
+40,38,"fasciata","Chamaea","Wrentit",LC,U,-16731116
+49,48,"manipurensis","Alcippe","Streak-throated Fulvetta",LC,U,-16731116
+50,48,"cinereiceps","Alcippe","Grey-hooded Fulvetta",LC,U,-16731116
+51,47,"formosana","Alcippe","Taiwan Fulvetta",LC,U,-16731116
+52,46,"vinipectus","Alcippe","White-browed Fulvetta",LC,U,-16731116
+54,53,"striaticollis","Alcippe","Chinese Fulvetta",LC,U,-16731116
+55,53,"klossi","Alcippe","Black-crowned Fulvetta",LC,U,-16731116
+56,44,"ruficapilla","Alcippe","Spectacled Fulvetta",LC,U,-16731116
+57,43,"pekinensis","Rhopophilus","White-browed Chinese Warbler",LC,U,-16731116
+60,59,"sinense","Chrysomma","Yellow-eyed Babbler",LC,U,-16731116
+61,59,"altirostre","Chrysomma","Jerdon's Babbler",VU,U,-11184866
+62,58,"poecilotis","Chrysomma","Rufous-tailed Babbler",LC,U,-16731116
+63,41,"chrysotis","Alcippe","Golden-breasted Fulvetta",LC,U,-16731116
+73,72,"leucomelaena","Sylvia","Arabian Warbler",LC,U,-16731116
+74,72,"hortensis","Sylvia","Orphean Warbler",LC,U,-16731116
+76,75,"lugens","Sylvia","Brown Warbler",LC,U,-16731116
+77,75,"buryi","Sylvia","Yemen Warbler",VU,U,-11184866
+78,70,"curruca","Sylvia","Lesser Whitethroat",LC,U,-16731116
+81,80,"subcaerulea","Sylvia","Rufous-vented Warbler",LC,U,-16731116
+82,80,"boehmi","Sylvia","Banded Warbler",LC,U,-16731116
+84,83,"layardi","Sylvia","Layard's Warbler",LC,U,-16731116
+85,83,"minula","Sylvia","Small Whitethroat",LC,U,-16731116
+87,86,"althaea","Sylvia","Hume's Whitethroat",LC,U,-16731116
+88,86,"nisoria","Sylvia","Barred Warbler",LC,U,-16731116
+93,92,"melanocephala","Sylvia","Sardinian Warbler",LC,U,-16731116
+94,92,"mystacea","Sylvia","Menetries's Warbler",LC,U,-16731116
+95,91,"cantillans","Sylvia","Subalpine Warbler",LC,U,-16731116
+97,96,"rueppelli","Sylvia","Rueppell's Warbler",LC,U,-16731116
+98,96,"melanothorax","Sylvia","Cyprus Warbler",LC,U,-16731116
+102,101,"deserticola","Sylvia","Tristram's Warbler",LC,U,-16731116
+103,101,"undata","Sylvia","Dartford Warbler",NT,U,-12486656
+104,100,"sarda","Sylvia","Marmora's Warbler",LC,U,-16731116
+106,105,"conspicillata","Sylvia","Spectacled Warbler",LC,U,-16731116
+107,105,"communis","Sylvia","Common Whitethroat",LC,U,-16731116
+108,66,"nana","Sylvia","Desert Warbler",LC,U,-16731116
+112,111,"abyssinica","Pseudoalcippe","African Hill Babbler",LC,U,-16731116
+113,111,"dohrni","Horizorhinus","Principe Thrush-babbler",LC,U,-16731116
+114,110,"borin","Sylvia","Garden Warbler",LC,U,-16731116
+115,109,"atricapilla","Sylvia","Blackcap",LC,U,-16731116
+116,64,"oemodium","Conostoma","Great Parrotbill",LC,U,-16731116

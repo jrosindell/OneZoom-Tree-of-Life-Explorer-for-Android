@@ -1,0 +1,81 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"aeneus","Dicrurus","Bronzed Drongo",LC,U,-16731116
+15,14,"vieilloti","Sphecotheres","Australasian Figbird",LC,U,-16731116
+16,14,"viridis","Sphecotheres","Timor Figbird",LC,U,-16731116
+17,13,"hypoleucus","Sphecotheres","Wetar Figbird",NT,U,-12486656
+20,19,"kirhocephalus","Pitohui","Variable Pitohui",LC,U,-16731116
+21,19,"dichrous","Pitohui","Hooded Pitohui",LC,U,-16731116
+23,22,"montium","Paramythia","Crested Berrypecker",LC,U,-16731116
+24,22,"arfaki","Oreocharis","Tit Berrypecker",LC,U,-16731116
+31,30,"melitophrys","Vireolanius","Chestnut-sided Shrike-vireo",LC,U,-16731116
+32,30,"leucotis","Vireolanius","Slaty-capped Shrike-vireo",LC,U,-16731116
+33,29,"eximius","Vireolanius","Yellow-browed Shrike-vireo",LC,U,-16731116
+34,28,"pulchellus","Vireolanius","Green Shrike-vireo",LC,U,-16731116
+37,36,"nigrirostris","Cyclarhis","Black-billed Peppershrike",LC,U,-16731116
+38,36,"gujanensis","Cyclarhis","Rufous-browed Peppershrike",LC,U,-16731116
+39,35,"zantholeuca","Erpornis","White-bellied Yuhina",LC,U,-16731116
+43,42,"aenobarbus","Pteruthius","Chestnut-fronted Shrike-babbler",LC,U,-16731116
+44,42,"melanotis","Pteruthius","Black-eared Shrike-babbler",LC,U,-16731116
+46,45,"flaviscapis","Pteruthius","White-browed Shrike-babbler",LC,U,-16731116
+47,45,"rufiventer","Pteruthius","Black-headed Shrike-babbler",LC,U,-16731116
+48,40,"xanthochlorus","Pteruthius","Green Shrike-babbler",LC,U,-16731116
+53,52,"nigrescens","Pitohui","Black Pitohui",LC,U,-16731116
+58,57,"woodwardi","Colluricincla","Sandstone Shrike-thrush",LC,U,-16731116
+59,57,"harmonica","Colluricincla","Grey Shrike-thrush",LC,U,-16731116
+60,56,"boweri","Colluricincla","Bower's Shrike-thrush",LC,U,-16731116
+61,55,"megarhyncha","Colluricincla","Little Shrike-thrush",LC,U,-16731116
+63,62,"incertus","Pitohui","White-bellied Pitohui",NT,U,-12486656
+64,62,"ferrugineus","Pitohui","Rusty Pitohui",LC,U,-16731116
+65,50,"flavogriseum","Pachycare","Goldenface",LC,U,-16731116
+67,66,"chrysoptera","Daphoenositta","Varied Sittella",LC,U,-16731116
+68,66,"miranda","Daphoenositta","Black Sittella",LC,U,-16731116
+76,75,"rufinucha","Aleadryas","Rufous-naped Whistler",LC,U,-16731116
+77,75,"cristatus","Pitohui","Crested Pitohui",LC,U,-16731116
+78,74,"gutturalis","Oreoica","Crested Bellbird",LC,U,-16731116
+87,86,"cantonensis","Pericrocotus","Brown-rumped Minivet",LC,U,-16731116
+88,86,"divaricatus","Pericrocotus","Ashy Minivet",LC,U,-16731116
+90,89,"tegimae","Pericrocotus","Ryukyu Minivet",LC,U,-16731116
+91,89,"roseus","Pericrocotus","Rosy Minivet",LC,U,-16731116
+92,84,"flammeus","Pericrocotus","Scarlet Minivet",LC,U,-16731116
+95,94,"brevirostris","Pericrocotus","Short-billed Minivet",LC,U,-16731116
+96,94,"miniatus","Pericrocotus","Sunda Minivet",LC,U,-16731116
+98,97,"ethologus","Pericrocotus","Long-tailed Minivet",LC,U,-16731116
+99,97,"lansbergei","Pericrocotus","Flores Minivet",LC,U,-16731116
+100,82,"solaris","Pericrocotus","Grey-chinned Minivet",LC,U,-16731116
+102,101,"cinnamomeus","Pericrocotus","Small Minivet",LC,U,-16731116
+103,101,"igneus","Pericrocotus","Fiery Minivet",NT,U,-12486656
+104,80,"erythropygius","Pericrocotus","White-bellied Minivet",LC,U,-16731116
+112,111,"castaneothorax","Cinclosoma","Chestnut-breasted Quail-thrush",LC,U,-16731116
+113,111,"punctatum","Cinclosoma","Spotted Quail-thrush",LC,U,-16731116
+115,114,"cinnamomeum","Cinclosoma","Cinnamon Quail-thrush",LC,U,-16731116
+116,114,"castanotum","Cinclosoma","Chestnut Quail-thrush",LC,U,-16731116
+117,109,"ajax","Cinclosoma","Painted Quail-thrush",LC,U,-16731116
+120,119,"castanonota","Ptilorrhoa","Chestnut-backed Jewel-babbler",LC,U,-16731116
+121,119,"caerulescens","Ptilorrhoa","Blue Jewel-babbler",LC,U,-16731116
+122,118,"leucosticta","Ptilorrhoa","Spotted Jewel-babbler",LC,U,-16731116
+125,124,"ochrocephala","Mohoua","Yellowhead",EN,U,-8572416
+126,124,"albicilla","Mohoua","Whitehead",LC,U,-16731116
+127,123,"novaeseelandiae","Mohoua","Pipipi",LC,U,-16731116
+129,128,"nigropectus","Eulacestoma","Wattled Ploughbill",LC,U,-16731116
+130,128,"viridis","Androphobus","Papuan Whipbird",DD,U,-11513776
+134,133,"occidentalis","Psophodes","Chiming Wedgebill",LC,U,-16731116
+135,133,"nigrogularis","Psophodes","Western Whipbird",NT,U,-12486656
+137,136,"cristatus","Psophodes","Chirruping Wedgebill",LC,U,-16731116
+138,136,"olivaceus","Psophodes","Eastern Whipbird",LC,U,-16731116
+139,131,"frontatus","Falcunculus","Crested Shrike-tit",LC,U,-16731116
+145,144,"longicauda","Melanocharis","Lemon-breasted Berrypecker",LC,U,-16731116
+146,144,"striativentris","Melanocharis","Streaked Berrypecker",LC,U,-16731116
+148,147,"versteri","Melanocharis","Fan-tailed Berrypecker",LC,U,-16731116
+149,147,"nigra","Melanocharis","Black Berrypecker",LC,U,-16731116
+151,150,"crassirostris","Melanocharis","Spotted Berrypecker",LC,U,-16731116
+152,150,"arfakiana","Melanocharis","Obscure Berrypecker",DD,U,-11513776
+156,155,"novaeguineae","Toxorhamphus","Green-crowned Longbill",LC,U,-16731116
+157,155,"poliopterus","Toxorhamphus","Grey-winged Longbill",LC,U,-16731116
+158,154,"iliolophus","Toxorhamphus","Plumed Longbill",LC,U,-16731116
+159,153,"pygmaeum","Oedistoma","Pygmy Longbill",LC,U,-16731116
+163,162,"sericea","Loboparadisea","Yellow-breasted Bird-of-paradise",NT,U,-12486656
+164,162,"loriae","Cnemophilus","Loria's Bird-of-paradise",LC,U,-16731116
+165,161,"macgregorii","Cnemophilus","Crested Bird-of-paradise",LC,U,-16731116
+168,167,"carunculatus","Philesturnus","Saddleback",NT,U,-12486656
+169,167,"cinereus","Callaeas","Kokako",EN,U,-8572416
+170,166,"cincta","Notiomystis","Stitchbird",VU,U,-11184866

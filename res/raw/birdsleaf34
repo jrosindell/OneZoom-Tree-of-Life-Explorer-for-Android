@@ -1,0 +1,44 @@
+index,parent,name1,name2,common,redlist,popstab,color
+12,11,"femoralis","Scytalopus","Rufous-vented Tapaculo",LC,U,-16731116
+13,11,"micropterus","Scytalopus","Long-tailed Tapaculo",LC,U,-16731116
+14,10,"latrans","Scytalopus","Blackish Tapaculo",LC,U,-16731116
+15,9,"griseicollis","Scytalopus","Pale-bellied Tapaculo",LC,U,-16731116
+17,16,"sanctaemartae","Scytalopus","Santa Marta Tapaculo",LC,U,-16731116
+18,16,"pachecoi","Scytalopus","Planalto Tapaculo",LC,U,-16731116
+21,20,"parkeri","Scytalopus","Chusquea Tapaculo",LC,U,-16731116
+22,20,"vicinior","Scytalopus","Narino Tapaculo",LC,U,-16731116
+23,19,"panamensis","Scytalopus","Tacarcuna Tapaculo",VU,U,-11184866
+28,27,"superciliaris","Scytalopus","White-browed Tapaculo",LC,U,-16731116
+29,27,"zimmeri","Scytalopus","Zimmer's Tapaculo",LC,U,-16731116
+30,26,"acutirostris","Scytalopus","Tschudi's Tapaculo",LC,U,-16731116
+33,32,"affinis","Scytalopus","Ancash Tapaculo",LC,U,-16731116
+34,32,"fuscus","Scytalopus","Dusky Tapaculo",LC,U,-16731116
+35,31,"canus","Scytalopus","Paramo Tapaculo",LC,U,-16731116
+38,37,"speluncae","Scytalopus","Mouse-coloured Tapaculo",LC,U,-16731116
+39,37,"novacapitalis","Scytalopus","Brasilia Tapaculo",NT,U,-12486656
+40,36,"iraiensis","Scytalopus","Marsh Tapaculo",EN,U,-8572416
+45,44,"argentifrons","Scytalopus","Silvery-fronted Tapaculo",LC,U,-16731116
+46,44,"simonsi","Scytalopus","Puna Tapaculo",LC,U,-16731116
+47,43,"macropus","Scytalopus","Large-footed Tapaculo",LC,U,-16731116
+48,42,"rodriguezi","Scytalopus","Upper Magdalena Tapaculo",EN,U,-8572416
+51,50,"latebricola","Scytalopus","Brown-rumped Tapaculo",LC,U,-16731116
+52,50,"spillmanni","Scytalopus","Spillmann's Tapaculo",LC,U,-16731116
+53,49,"parvirostris","Scytalopus","Trilling Tapaculo",LC,U,-16731116
+59,58,"unicolor","Scytalopus","Unicoloured Tapaculo",LC,U,-16731116
+60,58,"bolivianus","Scytalopus","Bolivian Tapaculo",LC,U,-16731116
+62,61,"atratus","Scytalopus","White-crowned Tapaculo",LC,U,-16731116
+63,61,"meridanus","Scytalopus","Merida Tapaculo",LC,U,-16731116
+65,64,"magellanicus","Scytalopus","Magellanic Tapaculo",LC,U,-16731116
+66,64,"caracae","Scytalopus","Caracas Tapaculo",LC,U,-16731116
+68,67,"robbinsi","Scytalopus","Ecuadorian Tapaculo",EN,U,-8572416
+69,67,"chocoensis","Scytalopus","Choco Tapaculo",LC,U,-16731116
+71,70,"urubambae","Scytalopus","Vilcabamba Tapaculo",LC,U,-16731116
+72,70,"altirostris","Scytalopus","Neblina Tapaculo",LC,U,-16731116
+74,73,"schulenbergi","Scytalopus","Diademed Tapaculo",LC,U,-16731116
+75,73,"stilesi","Scytalopus","Stiles's Tapaculo",LC,U,-16731116
+76,2,"paradoxa","Eugralla","Ochre-flanked Tapaculo",LC,U,-16731116
+77,1,"senilis","Myornis","Ash-coloured Tapaculo",LC,U,-16731116
+80,79,"indigoticus","Eleoscytalopus","White-breasted Tapaculo",NT,U,-12486656
+81,79,"psychopompus","Eleoscytalopus","Bahia Tapaculo",CR,U,-3014646
+83,82,"stresemanni","Merulaxis","Stresemann's Bristlefront",CR,U,-3014646
+84,82,"ater","Merulaxis","Slaty Bristlefront",NT,U,-12486656

@@ -1,0 +1,30 @@
+index,parent,name1,name2,common,redlist,popstab,color
+10,9,"levraudi","Laterallus","Rusty-flanked Crake",EN,U,-8572416
+11,9,"spilonotus","Laterallus","Galapagos Rail",VU,U,-11184866
+12,8,"xenopterus","Laterallus","Rufous-faced Crake",VU,U,-11184866
+13,7,"melanophaius","Laterallus","Rufous-sided Crake",LC,U,-16731116
+15,14,"leucopyrrhus","Laterallus","Red-and-white Crake",LC,U,-16731116
+16,14,"albigularis","Laterallus","White-throated Crake",LC,U,-16731116
+18,17,"exilis","Laterallus","Grey-breasted Crake",LC,U,-16731116
+19,17,"ruber","Laterallus","Ruddy Crake",LC,U,-16731116
+21,20,"jamaicensis","Laterallus","Black Rail",NT,U,-12486656
+22,20,"tuerosi","Laterallus","Junin Rail",EN,U,-8572416
+25,24,"exquisitus","Coturnicops","Swinhoe's Rail",VU,U,-11184866
+26,24,"notatus","Coturnicops","Speckled Rail",LC,U,-16731116
+27,23,"noveboracensis","Coturnicops","Yellow Rail",LC,U,-16731116
+30,29,"plumbeiventris","Gymnocrex","Bare-eyed Rail",LC,U,-16731116
+31,29,"rosenbergii","Gymnocrex","Blue-faced Rail",VU,U,-11184866
+32,28,"talaudensis","Gymnocrex","Talaud Rail",EN,U,-8572416
+37,36,"forbesi","Rallina","Forbes's Forest-rail",LC,U,-16731116
+38,36,"mayri","Rallina","Mayr's Forest-rail",DD,U,-11513776
+39,35,"fasciata","Rallina","Red-legged Crake",LC,U,-16731116
+41,40,"leucospila","Rallina","White-striped Forest-rail",NT,U,-12486656
+42,40,"canningi","Rallina","Andaman Crake",NT,U,-12486656
+45,44,"eurizonoides","Rallina","Slaty-legged Crake",LC,U,-16731116
+46,44,"tricolor","Rallina","Red-necked Crake",LC,U,-16731116
+47,43,"rubra","Rallina","Chestnut Forest-rail",LC,U,-16731116
+51,50,"porphyrio","Porphyrio","Purple Swamphen",LC,U,-16731116
+52,50,"hochstetteri","Porphyrio","Takahe",EN,U,-8572416
+53,49,"alleni","Porphyrio","Allen's Gallinule",LC,U,-16731116
+55,54,"martinica","Porphyrio","Yellow-legged Gallinule",LC,U,-16731116
+56,54,"flavirostris","Porphyrio","Azure Gallinule",LC,U,-16731116

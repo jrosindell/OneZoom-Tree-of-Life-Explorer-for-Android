@@ -1,0 +1,46 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"opistherythra","Rhipidura","Long-tailed Fantail",NT,U,-12486656
+14,12,"semirubra","Rhipidura","Manus Fantail",VU,U,-11184866
+15,11,"phasiana","Rhipidura","Mangrove Fantail",LC,U,-16731116
+17,16,"rennelliana","Rhipidura","Rennell Fantail",LC,U,-16731116
+18,16,"fuliginosa","Rhipidura","Grey Fantail",LC,U,-16731116
+20,19,"personata","Rhipidura","Kadavu Fantail",NT,U,-12486656
+21,19,"lepida","Rhipidura","Palau Fantail",LC,U,-16731116
+23,22,"verreauxi","Rhipidura","Streaked Fantail",LC,U,-16731116
+24,22,"tenebrosa","Rhipidura","Dusky Fantail",NT,U,-12486656
+27,26,"hyperythra","Rhipidura","Chestnut-bellied Fantail",LC,U,-16731116
+28,26,"dedemi","Rhipidura","Streaky-breasted Fantail",LC,U,-16731116
+30,29,"albolimbata","Rhipidura","Friendly Fantail",LC,U,-16731116
+31,29,"kubaryi","Rhipidura","Pohnpei Fantail",LC,U,-16731116
+37,36,"teysmanni","Rhipidura","Rusty-bellied Fantail",LC,U,-16731116
+38,36,"rufifrons","Rhipidura","Rufous Fantail",LC,U,-16731116
+39,35,"phoenicura","Rhipidura","Rufous-tailed Fantail",LC,U,-16731116
+41,40,"malaitae","Rhipidura","Malaita Fantail",VU,U,-11184866
+42,40,"dahli","Rhipidura","Bismarck Fantail",LC,U,-16731116
+43,33,"rufidorsa","Rhipidura","Rufous-backed Fantail",LC,U,-16731116
+45,44,"brachyrhyncha","Rhipidura","Dimorphic Fantail",LC,U,-16731116
+46,44,"superflua","Rhipidura","Tawny-backed Fantail",LC,U,-16731116
+50,49,"cockerelli","Rhipidura","White-winged Fantail",NT,U,-12486656
+51,49,"rufiventris","Rhipidura","Northern Fantail",LC,U,-16731116
+52,48,"fuscorufa","Rhipidura","Cinnamon-tailed Fantail",NT,U,-12486656
+53,47,"perlata","Rhipidura","Spotted Fantail",LC,U,-16731116
+56,55,"cyaniceps","Rhipidura","Blue-headed Fantail",LC,U,-16731116
+57,55,"superciliaris","Rhipidura","Blue Fantail",LC,U,-16731116
+58,54,"nigrocinnamomea","Rhipidura","Black-and-cinnamon Fantail",LC,U,-16731116
+61,60,"euryura","Rhipidura","White-bellied Fantail",LC,U,-16731116
+62,60,"atra","Rhipidura","Black Fantail",LC,U,-16731116
+63,59,"drownei","Rhipidura","Brown Fantail",LC,U,-16731116
+70,69,"albicollis","Rhipidura","White-throated Fantail",LC,U,-16731116
+71,69,"aureola","Rhipidura","White-browed Fantail",LC,U,-16731116
+73,72,"maculipectus","Rhipidura","Black Thicket-fantail",LC,U,-16731116
+74,72,"matthiae","Rhipidura","Matthias Fantail",NT,U,-12486656
+75,67,"javanica","Rhipidura","Pied Fantail",LC,U,-16731116
+76,66,"leucophrys","Rhipidura","Willie-wagtail",LC,U,-16731116
+78,77,"leucothorax","Rhipidura","White-bellied Thicket-fantail",LC,U,-16731116
+79,77,"threnothorax","Rhipidura","Sooty Thicket-fantail",LC,U,-16731116
+81,80,"diluta","Rhipidura","Brown-capped Fantail",LC,U,-16731116
+82,80,"nebulosa","Rhipidura","Samoan Fantail",LC,U,-16731116
+84,83,"papuensis","Chaetorhynchus","Pygmy Drongo",LC,U,-16731116
+85,83,"victoriae","Lamprolia","Silktail",NT,U,-12486656
+87,86,"melanorhamphos","Corcorax","White-winged Chough",LC,U,-16731116
+88,86,"cinerea","Struthidea","Apostlebird",LC,U,-16731116

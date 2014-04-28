@@ -1,0 +1,53 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"mendanae","Acrocephalus","Marquesan Reed-warbler",LC,U,-16731116
+14,12,"atyphus","Acrocephalus","Tuamotu Reed-warbler",LC,U,-16731116
+15,11,"caffer","Acrocephalus","Tahiti Reed-warbler",EN,U,-8572416
+17,16,"vaughani","Acrocephalus","Pitcairn Reed-warbler",EN,U,-8572416
+18,16,"taiti","Acrocephalus","Henderson Reed-warbler",VU,U,-11184866
+20,19,"kerearako","Acrocephalus","Cook Islands Reed-warbler",NT,U,-12486656
+21,19,"rimatarae","Acrocephalus","Rimatara Reed-warbler",VU,U,-11184866
+24,23,"aequinoctialis","Acrocephalus","Kiritimati Reed-warbler",EN,U,-8572416
+25,23,"australis","Acrocephalus","Australian Reed-warbler",LC,U,-16731116
+26,22,"familiaris","Acrocephalus","Millerbird",CR,U,-3014646
+27,7,"sorghophilus","Acrocephalus","Streaked Reed-warbler",VU,U,-11184866
+29,28,"stentoreus","Acrocephalus","Clamorous Reed-warbler",LC,U,-16731116
+30,28,"arundinaceus","Acrocephalus","Great Reed-warbler",LC,U,-16731116
+34,33,"gracilirostris","Acrocephalus","Lesser Swamp-warbler",LC,U,-16731116
+35,33,"luscinius","Acrocephalus","Nightingale Reed-warbler",CR,U,-3014646
+37,36,"rufescens","Acrocephalus","Greater Swamp-warbler",LC,U,-16731116
+38,36,"brevipennis","Acrocephalus","Cape Verde Warbler",EN,U,-8572416
+40,39,"newtoni","Acrocephalus","Madagascar Swamp-warbler",LC,U,-16731116
+41,39,"sechellensis","Acrocephalus","Seychelles Warbler",VU,U,-11184866
+42,4,"griseldis","Acrocephalus","Basra Reed-warbler",EN,U,-8572416
+47,46,"scirpaceus","Acrocephalus","Eurasian Reed-warbler",LC,U,-16731116
+48,46,"baeticatus","Acrocephalus","African Reed Warbler",_U,[,-16777216
+50,49,"orinus","Acrocephalus","Large-billed Reed-warbler",DD,U,-11513776
+51,49,"dumetorum","Acrocephalus","Blyth's Reed-warbler",LC,U,-16731116
+55,54,"tangorum","Acrocephalus","Manchurian Reed-warbler",VU,U,-11184866
+56,54,"rehsei","Acrocephalus","Nauru Reed-warbler",VU,U,-11184866
+57,53,"concinens","Acrocephalus","Blunt-winged Warbler",LC,U,-16731116
+58,52,"agricola","Acrocephalus","Paddyfield Warbler",LC,U,-16731116
+62,61,"paludicola","Acrocephalus","Aquatic Warbler",VU,U,-11184866
+63,61,"striata","Chaetornis","Bristled Grassbird",VU,U,-11184866
+64,60,"bistrigiceps","Acrocephalus","Black-browed Reed-warbler",LC,U,-16731116
+67,66,"rodericanus","Acrocephalus","Rodrigues Warbler",EN,U,-8572416
+68,66,"schoenobaenus","Acrocephalus","Sedge Warbler",LC,U,-16731116
+69,65,"melanopogon","Acrocephalus","Moustached Warbler",LC,U,-16731116
+76,75,"natalensis","Chloropeta","Yellow Flycatcher-warbler",LC,U,-16731116
+77,75,"similis","Chloropeta","Mountain Flycatcher-warbler",LC,U,-16731116
+78,74,"pallida","Hippolais","Eastern Olivaceous Warbler",LC,U,-16731116
+79,73,"opaca","Hippolais","Western Olivaceous Warbler",LC,U,-16731116
+81,80,"caligata","Hippolais","Booted Warbler",LC,U,-16731116
+82,80,"rama","Hippolais","Sykes's Warbler",LC,U,-16731116
+84,83,"syrinx","Acrocephalus","Caroline Islands Reed-warbler",LC,U,-16731116
+85,83,"aedon","Acrocephalus","Thick-billed Warbler",LC,U,-16731116
+86,70,"gracilirostris","Chloropeta","Papyrus Yellow Warbler",VU,U,-11184866
+89,88,"olivetorum","Hippolais","Olive-tree Warbler",LC,U,-16731116
+90,88,"languida","Hippolais","Upcher's Warbler",LC,U,-16731116
+92,91,"polyglotta","Hippolais","Melodious Warbler",LC,U,-16731116
+93,91,"icterina","Hippolais","Icterine Warbler",LC,U,-16731116
+98,97,"lantzii","Nesillas","Lantz's Brush-warbler",LC,U,-16731116
+99,97,"mariae","Nesillas","Moheli Warbler",LC,U,-16731116
+100,96,"brevicaudata","Nesillas","Grand Comoro Brush-warbler",LC,U,-16731116
+101,95,"longicaudata","Nesillas","Anjouan Brush-warbler",LC,U,-16731116
+102,94,"typica","Nesillas","Madagascar Brush-warbler",LC,U,-16731116

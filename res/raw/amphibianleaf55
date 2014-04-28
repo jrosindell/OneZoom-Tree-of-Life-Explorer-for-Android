@@ -1,0 +1,25 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"pseudinsignifera","Crinia","False Western Froglet",LC,S,-16731116
+9,7,"remota","Crinia","Remote Froglet",LC,S,-16731116
+10,6,"riparia","Crinia","Streambank Froglet",LC,S,-16731116
+11,5,"sloanei","Crinia","Sloane's Froglet",DD,U,-11513776
+14,13,"parinsignifera","Crinia","Beeping Froglet",LC,U,-16731116
+15,13,"tasmaniensis","Crinia","Tasmanian Froglet",LC,S,-16731116
+16,12,"glauerti","Crinia","Glauert's Froglet",LC,S,-16731116
+17,3,"deserticola","Crinia","Desert Froglet",LC,S,-16731116
+20,19,"insignifera","Crinia","Sign-bearing Froglet",LC,S,-16731116
+21,19,"tinnula","Crinia","Tinkling Froglet",VU,D,-11184866
+22,18,"nimbus","Crinia","Moss Froglet",LC,S,-16731116
+26,25,"signifera","Crinia","Brown Froglet",LC,S,-16731116
+27,25,"georgiana","Crinia","Quacking Frog",LC,S,-16731116
+28,24,"bilingua","Crinia","Bilingual Frog",LC,S,-16731116
+29,23,"subinsignifera","Crinia","Small Western Froglet",LC,S,-16731116
+38,37,"alba","Geocrinia","White-bellied Frog",CR,D,-3014646
+39,37,"leai","Geocrinia","Lea's Frog",LC,S,-16731116
+40,36,"laevis","Geocrinia","Smooth Froglet",LC,S,-16731116
+41,35,"victoriana","Geocrinia","Eastern Smooth Frog",LC,S,-16731116
+42,34,"vitellina","Geocrinia","Orange-bellied Frog",VU,S,-11184866
+43,33,"rosea","Geocrinia","Karri Frog",LC,S,-16731116
+44,32,"lutea","Geocrinia","Nornalup Frog",NT,S,-12486656
+45,31,"darlingtoni","Assa","Hip-pocket Frog",LC,S,-16731116
+46,30,"haswelli","Paracrinia","Haswell's Froglet",LC,S,-16731116

@@ -1,0 +1,30 @@
+index,parent,name1,name2,common,redlist,popstab,color
+7,6,"santeetlah","Desmognathus","Santeetlah Dusky Salamander",LC,S,-16731116
+8,6,"orestes","Desmognathus","Blue Ridge Dusky Salamander",LC,S,-16731116
+10,9,"marmoratus","Desmognathus","Shovelnose Salamander",LC,S,-16731116
+11,9,"monticola","Desmognathus","Seal Salamander",LC,S,-16731116
+13,12,"apalachicolae","Desmognathus","Apalachicola Dusky Salamander",LC,S,-16731116
+14,12,"abditus","Desmognathus","Cumberland Dusky Salamander",NT,U,-12486656
+15,3,"carolinensis","Desmognathus","Carolina Mountain Dusky Salamander",LC,S,-16731116
+20,19,"brimleyorum","Desmognathus","Ouachita Dusky Salamander",LC,S,-16731116
+21,19,"auriculatus","Desmognathus","Southern Dusky Salamander",LC,S,-16731116
+23,22,"folkertsi","Desmognathus","Dwarf Black-bellied Salamander",DD,U,-11513776
+24,22,"imitator","Desmognathus","Imitator Salamander",LC,S,-16731116
+25,17,"aeneus","Desmognathus","Seepage Salamander",NT,D,-12486656
+26,16,"quadramaculatus","Desmognathus","Blackbelly Salamander",LC,S,-16731116
+31,30,"welteri","Desmognathus","Black Mountain Salamander",LC,S,-16731116
+32,30,"ocoee","Desmognathus","Ocoee Salamander",LC,S,-16731116
+33,29,"ochrophaeus","Desmognathus","Allegheny Mountain Dusky Salamander",LC,S,-16731116
+34,28,"fuscus","Desmognathus","Dusky Salamander",LC,S,-16731116
+35,27,"wrighti","Desmognathus","Pygmy Salamander",LC,S,-16731116
+42,41,"ambrosii","Hydromantes","",NE,U,-16777216
+43,41,"italicus","Hydromantes","",NE,U,-16777216
+45,44,"strinatii","Hydromantes","",NE,U,-16777216
+46,44,"flavus","Hydromantes","",NE,U,-16777216
+48,47,"supramontis","Hydromantes","",NE,U,-16777216
+49,47,"imperialis","Hydromantes","",NE,U,-16777216
+50,38,"genei","Hydromantes","",NE,U,-16777216
+53,52,"platycephalus","Hydromantes","Mount Lyell Salamander",LC,S,-16731116
+54,52,"shastae","Hydromantes","Shasta Salamander",VU,S,-11184866
+55,51,"brunus","Hydromantes","Limestone Salamander",VU,U,-11184866
+56,36,"hubrichti","Phaeognathus","Red Hills Salamander",EN,D,-8572416

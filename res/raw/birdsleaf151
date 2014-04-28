@@ -1,0 +1,23 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"phasianellus","Tympanuchus","Sharp-tailed Grouse",LC,U,-16731116
+10,8,"cupido","Tympanuchus","Greater Prairie-chicken",VU,U,-11184866
+11,7,"pallidicinctus","Tympanuchus","Lesser Prairie-chicken",VU,U,-11184866
+13,12,"fuliginosus","Dendragapus","Sooty Grouse",LC,U,-16731116
+14,12,"obscurus","Dendragapus","Dusky Grouse",LC,U,-16731116
+16,15,"urophasianus","Centrocercus","Greater Sage-grouse",NT,U,-12486656
+17,15,"minimus","Centrocercus","Gunnison Sage-grouse",EN,U,-8572416
+21,20,"parvirostris","Tetrao","Black-billed Capercaillie",LC,U,-16731116
+22,20,"urogallus","Tetrao","Western Capercaillie",LC,U,-16731116
+24,23,"mlokosiewiczi","Tetrao","Caucasian Grouse",NT,U,-12486656
+25,23,"tetrix","Tetrao","Black Grouse",LC,U,-16731116
+27,26,"falcipennis","Dendragapus","Siberian Grouse",NT,U,-12486656
+28,26,"canadensis","Dendragapus","Spruce Grouse",LC,U,-16731116
+31,30,"lagopus","Lagopus","Willow Ptarmigan",LC,U,-16731116
+32,30,"muta","Lagopus","Rock Ptarmigan",LC,U,-16731116
+33,29,"leucura","Lagopus","White-tailed Ptarmigan",LC,U,-16731116
+34,2,"lerwa","Lerwa","Snow Partridge",LC,U,-16731116
+37,36,"sewerzowi","Bonasa","Chinese Grouse",NT,U,-12486656
+38,36,"bonasia","Bonasa","Hazel Grouse",LC,U,-16731116
+39,35,"umbellus","Bonasa","Ruffed Grouse",LC,U,-16731116
+41,40,"ocellata","Meleagris","Ocellated Turkey",NT,U,-12486656
+42,40,"gallopavo","Meleagris","Wild Turkey",LC,U,-16731116

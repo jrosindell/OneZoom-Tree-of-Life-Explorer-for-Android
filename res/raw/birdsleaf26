@@ -1,0 +1,22 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"palliatus","Haematopus","American Oystercatcher",LC,U,-16731116
+10,8,"bachmani","Haematopus","Black Oystercatcher",LC,U,-16731116
+11,7,"ater","Haematopus","Blackish Oystercatcher",LC,U,-16731116
+12,6,"leucopodus","Haematopus","Magellanic Oystercatcher",LC,U,-16731116
+13,5,"fuliginosus","Haematopus","Sooty Oystercatcher",LC,U,-16731116
+14,4,"moquini","Haematopus","African Oystercatcher",NT,U,-12486656
+18,17,"finschi","Haematopus","South Island Oystercatcher",LC,U,-16731116
+19,17,"unicolor","Haematopus","Variable Oystercatcher",LC,U,-16731116
+20,16,"chathamensis","Haematopus","Chatham Oystercatcher",EN,U,-8572416
+21,15,"ostralegus","Haematopus","Eurasian Oystercatcher",LC,U,-16731116
+22,2,"longirostris","Haematopus","Pied Oystercatcher",LC,U,-16731116
+28,27,"leucocephalus","Himantopus","White-headed Stilt",LC,U,-16731116
+29,27,"mexicanus","Himantopus","Black-necked Stilt",LC,U,-16731116
+30,26,"himantopus","Himantopus","Black-winged Stilt",LC,U,-16731116
+31,25,"novaezelandiae","Himantopus","Black Stilt",CR,U,-3014646
+32,24,"leucocephalus","Cladorhynchus","Banded Stilt",LC,U,-16731116
+36,35,"americana","Recurvirostra","American Avocet",LC,U,-16731116
+37,35,"andina","Recurvirostra","Andean Avocet",LC,U,-16731116
+38,34,"avosetta","Recurvirostra","Pied Avocet",LC,U,-16731116
+39,33,"novaehollandiae","Recurvirostra","Red-necked Avocet",LC,U,-16731116
+40,0,"struthersii","Ibidorhyncha","Ibisbill",LC,U,-16731116

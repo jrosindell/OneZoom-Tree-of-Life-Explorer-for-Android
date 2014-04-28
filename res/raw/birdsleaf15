@@ -1,0 +1,97 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"fusca","Porzana","Ruddy-breasted Crake",LC,U,-16731116
+14,12,"tenebrosa","Gallinula","Dusky Moorhen",LC,U,-16731116
+15,11,"fluminea","Porzana","Australian Crake",LC,U,-16731116
+17,16,"silvestris","Gallinula","Makira Moorhen",CR,U,-3014646
+18,16,"pusilla","Porzana","Baillon's Crake",LC,U,-16731116
+20,19,"paykullii","Porzana","Band-bellied Crake",NT,U,-12486656
+21,19,"atra","Porzana","Henderson Crake",VU,U,-11184866
+25,24,"cerverai","Cyanolimnas","Zapata Rail",CR,U,-3014646
+26,24,"alai","Fulica","Hawaiian Coot",VU,U,-11184866
+27,23,"mortierii","Gallinula","Tasmanian Native-hen",LC,U,-16731116
+29,28,"albicollis","Porzana","Ash-throated Crake",LC,U,-16731116
+30,28,"tabuensis","Porzana","Spotless Crake",LC,U,-16731116
+33,32,"kioloides","Canirallus","Madagascar Wood Rail",LC,U,-16731116
+34,32,"oculeus","Canirallus","Grey-throated Rail",LC,U,-16731116
+35,31,"cristata","Fulica","Red-knobbed Coot",LC,U,-16731116
+40,39,"castaneiceps","Anurolimnas","Chestnut-headed Crake",LC,U,-16731116
+41,39,"viridis","Anurolimnas","Russet-crowned Crake",LC,U,-16731116
+42,38,"fasciatus","Anurolimnas","Black-banded Crake",LC,U,-16731116
+43,37,"leucoptera","Fulica","White-winged Coot",LC,U,-16731116
+44,36,"caribaea","Fulica","Caribbean Coot",NT,U,-12486656
+52,51,"ardesiaca","Fulica","Slate-coloured Coot",LC,U,-16731116
+53,51,"americana","Fulica","American Coot",LC,U,-16731116
+54,50,"atra","Fulica","Common Coot",LC,U,-16731116
+56,55,"armillata","Fulica","Red-gartered Coot",LC,U,-16731116
+57,55,"gigantea","Fulica","Giant Coot",LC,U,-16731116
+59,58,"angulata","Gallinula","Lesser Moorhen",LC,U,-16731116
+60,58,"cornuta","Fulica","Horned Coot",NT,U,-12486656
+62,61,"ventralis","Gallinula","Black-tailed Native-hen",LC,U,-16731116
+63,61,"rufifrons","Fulica","Red-fronted Coot",LC,U,-16731116
+65,64,"chloropus","Gallinula","Common Moorhen",LC,U,-16731116
+66,64,"nesiotis","Gallinula","Gough Moorhen",VU,U,-11184866
+73,72,"rogersi","Atlantisia","Inaccessible Rail",VU,U,-11184866
+74,72,"cinerea","Porzana","White-browed Crake",LC,U,-16731116
+75,71,"spiloptera","Porzana","Dot-winged Crake",VU,U,-11184866
+76,70,"carolina","Porzana","Sora",LC,U,-16731116
+78,77,"flaviventer","Porzana","Yellow-breasted Crake",LC,U,-16731116
+79,77,"melanops","Gallinula","Spot-flanked Gallinule",LC,U,-16731116
+81,80,"porzana","Porzana","Spotted Crake",LC,U,-16731116
+82,80,"parva","Porzana","Little Crake",LC,U,-16731116
+83,67,"castaneoventris","Eulabeornis","Chestnut Rail",LC,U,-16731116
+88,87,"saracura","Aramides","Slaty-breasted Wood-rail",LC,U,-16731116
+89,87,"axillaris","Aramides","Rufous-necked Wood-rail",LC,U,-16731116
+91,90,"cajanea","Aramides","Grey-necked Wood-rail",LC,U,-16731116
+92,90,"ypecaha","Aramides","Giant Wood-rail",LC,U,-16731116
+95,94,"mangle","Aramides","Little Wood-rail",LC,U,-16731116
+96,94,"wolfi","Aramides","Brown Wood-rail",VU,U,-11184866
+97,93,"calopterus","Aramides","Red-winged Wood-rail",LC,U,-16731116
+100,99,"nigricans","Pardirallus","Blackish Rail",LC,U,-16731116
+101,99,"maculatus","Pardirallus","Spotted Rail",LC,U,-16731116
+102,98,"sanguinolentus","Pardirallus","Plumbeous Rail",LC,U,-16731116
+110,109,"concolor","Amaurolimnas","Uniform Crake",LC,U,-16731116
+111,109,"egregia","Crecopsis","African Crake",LC,U,-16731116
+112,108,"woodfordi","Nesoclopeus","Woodford's Rail",NT,U,-12486656
+114,113,"marginalis","Aenigmatolimnas","Striped Crake",LC,U,-16731116
+115,113,"senegalensis","Podica","African Finfoot",LC,U,-16731116
+116,106,"rougetii","Rougetius","Rouget's Rail",NT,U,-12486656
+118,117,"cuvieri","Dryolimnas","White-throated Rail",LC,U,-16731116
+119,117,"plateni","Aramidopsis","Snoring Rail",VU,U,-11184866
+124,123,"erythrops","Neocrex","Paint-billed Crake",LC,U,-16731116
+125,123,"colombiana","Neocrex","Colombian Crake",DD,U,-11513776
+126,122,"personatus","Heliopais","Masked Finfoot",EN,U,-8572416
+127,121,"schomburgkii","Micropygia","Ocellated Crake",LC,U,-16731116
+131,130,"muelleri","Lewinia","Auckland Islands Rail",VU,U,-11184866
+132,130,"pectoralis","Lewinia","Lewin's Rail",LC,U,-16731116
+133,129,"mirifica","Lewinia","Brown-banded Rail",DD,U,-11513776
+134,128,"fulica","Heliornis","Sungrebe",LC,U,-16731116
+140,139,"elegans","Sarothrura","Buff-spotted Flufftail",LC,U,-16731116
+141,139,"ayresi","Sarothrura","White-winged Flufftail",EN,U,-8572416
+143,142,"lugens","Sarothrura","Chestnut-headed Flufftail",LC,U,-16731116
+144,142,"rufa","Sarothrura","Red-chested Flufftail",LC,U,-16731116
+146,145,"watersi","Sarothrura","Slender-billed Flufftail",EN,U,-8572416
+147,145,"affinis","Sarothrura","Striped Flufftail",LC,U,-16731116
+150,149,"pulchra","Sarothrura","White-spotted Flufftail",LC,U,-16731116
+151,149,"insularis","Sarothrura","Madagascar Flufftail",LC,U,-16731116
+152,148,"boehmi","Sarothrura","Streaky-breasted Flufftail",LC,U,-16731116
+154,153,"wallacii","Habroptila","Invisible Rail",VU,U,-11184866
+155,153,"cinerea","Gallicrex","Watercock",LC,U,-16731116
+165,164,"antigone","Grus","Sarus Crane",VU,U,-11184866
+166,164,"rubicunda","Grus","Brolga",LC,U,-16731116
+167,163,"vipio","Grus","White-naped Crane",VU,U,-11184866
+168,162,"canadensis","Grus","Sandhill Crane",LC,U,-16731116
+171,170,"virgo","Grus","Demoiselle Crane",LC,U,-16731116
+172,170,"paradisea","Grus","Blue Crane",VU,U,-11184866
+173,169,"carunculatus","Grus","Wattled Crane",VU,U,-11184866
+178,177,"nigricollis","Grus","Black-necked Crane",VU,U,-11184866
+179,177,"monacha","Grus","Hooded Crane",VU,U,-11184866
+180,176,"grus","Grus","Common Crane",LC,U,-16731116
+181,175,"americana","Grus","Whooping Crane",EN,U,-8572416
+182,174,"japonensis","Grus","Red-crowned Crane",EN,U,-8572416
+183,159,"leucogeranus","Grus","Siberian Crane",CR,U,-3014646
+185,184,"regulorum","Balearica","Grey Crowned-crane",EN,U,-8572416
+186,184,"pavonina","Balearica","Black Crowned-crane",VU,U,-11184866
+187,157,"guarauna","Aramus","Limpkin",LC,U,-16731116
+190,189,"leucoptera","Psophia","Pale-winged Trumpeter",LC,U,-16731116
+191,189,"viridis","Psophia","Dark-winged Trumpeter",LC,U,-16731116
+192,188,"crepitans","Psophia","Grey-winged Trumpeter",LC,U,-16731116

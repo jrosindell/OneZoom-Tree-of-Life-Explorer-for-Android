@@ -1,0 +1,31 @@
+index,parent,name1,name2,common,redlist,popstab,color
+13,12,"melancholicus","Tyrannus","Tropical Kingbird",LC,U,-16731116
+14,12,"savana","Tyrannus","Fork-tailed Flycatcher",LC,U,-16731116
+15,11,"dominicensis","Tyrannus","Grey Kingbird",LC,U,-16731116
+16,10,"couchii","Tyrannus","Couch's Kingbird",LC,U,-16731116
+18,17,"albogularis","Tyrannus","White-throated Kingbird",LC,U,-16731116
+19,17,"crassirostris","Tyrannus","Thick-billed Kingbird",LC,U,-16731116
+21,20,"vociferans","Tyrannus","Cassin's Kingbird",LC,U,-16731116
+22,20,"cubensis","Tyrannus","Giant Kingbird",EN,U,-8572416
+23,7,"caudifasciatus","Tyrannus","Loggerhead Kingbird",LC,U,-16731116
+24,6,"tyrannus","Tyrannus","Eastern Kingbird",LC,U,-16731116
+27,26,"niveigularis","Tyrannus","Snowy-throated Kingbird",LC,U,-16731116
+28,26,"verticalis","Tyrannus","Western Kingbird",LC,U,-16731116
+29,25,"forficatus","Tyrannus","Scissor-tailed Flycatcher",LC,U,-16731116
+31,30,"aurantioatrocristatus","Empidonomus","Crowned Slaty Flycatcher",LC,U,-16731116
+32,30,"varius","Empidonomus","Variegated Flycatcher",LC,U,-16731116
+35,34,"sulphurea","Tyrannopsis","Sulphury Flycatcher",LC,U,-16731116
+36,34,"ridgwayi","Nesotriccus","Cocos Flycatcher",VU,U,-11184866
+37,33,"pitangua","Megarynchus","Boat-billed Flycatcher",LC,U,-16731116
+42,41,"luteiventris","Myiodynastes","Sulphur-bellied Flycatcher",LC,U,-16731116
+43,41,"hemichrysus","Myiodynastes","Golden-bellied Flycatcher",LC,U,-16731116
+44,40,"bairdii","Myiodynastes","Baird's Flycatcher",LC,U,-16731116
+45,39,"maculatus","Myiodynastes","Streaked Flycatcher",LC,U,-16731116
+46,38,"chrysocephalus","Myiodynastes","Golden-crowned Flycatcher",LC,U,-16731116
+49,48,"luteiventris","Myiozetetes","Dusky-chested Flycatcher",LC,U,-16731116
+50,48,"granadensis","Myiozetetes","Grey-capped Flycatcher",LC,U,-16731116
+52,51,"cayanensis","Myiozetetes","Rusty-margined Flycatcher",LC,U,-16731116
+53,51,"similis","Myiozetetes","Social Flycatcher",LC,U,-16731116
+56,55,"sulphuratus","Pitangus","Great Kiskadee",LC,U,-16731116
+57,55,"lictor","Pitangus","Lesser Kiskadee",LC,U,-16731116
+58,54,"rixosa","Machetornis","Cattle Tyrant",LC,U,-16731116

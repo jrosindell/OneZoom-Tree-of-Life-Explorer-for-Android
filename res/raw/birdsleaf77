@@ -1,0 +1,36 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"inornata","Prinia","Plain Prinia",LC,U,-16731116
+10,8,"bairdii","Prinia","Banded Prinia",LC,U,-16731116
+11,7,"hodgsonii","Prinia","Grey-breasted Prinia",LC,U,-16731116
+12,6,"gracilis","Prinia","Graceful Prinia",LC,U,-16731116
+13,5,"rufescens","Prinia","Rufescent Prinia",LC,U,-16731116
+15,14,"vittata","Graueria","Grauer's Warbler",LC,U,-16731116
+16,14,"somalica","Prinia","Pale Prinia",LC,U,-16731116
+17,3,"erythropterus","Heliolais","Red-winged Warbler",LC,U,-16731116
+23,22,"subflava","Prinia","Tawny-flanked Prinia",LC,U,-16731116
+24,22,"fluviatilis","Prinia","River Prinia",LC,U,-16731116
+25,21,"burnesii","Prinia","Rufous-vented Prinia",NT,U,-12486656
+26,20,"incana","Drymocichla","Red-winged Grey Warbler",LC,U,-16731116
+27,19,"socialis","Prinia","Ashy Prinia",LC,U,-16731116
+29,28,"flavicans","Prinia","Black-chested Prinia",LC,U,-16731116
+30,28,"maculosa","Prinia","Karoo Prinia",LC,U,-16731116
+36,35,"crinigera","Prinia","Striated Prinia",LC,U,-16731116
+37,35,"polychroa","Prinia","Brown Prinia",LC,U,-16731116
+38,34,"molleri","Prinia","Sao Tome Prinia",LC,U,-16731116
+39,33,"atrogularis","Prinia","Hill Prinia",LC,U,-16731116
+41,40,"flaviventris","Prinia","Yellow-bellied Prinia",LC,U,-16731116
+42,40,"cinereocapilla","Prinia","Grey-crowned Prinia",VU,U,-11184866
+44,43,"familiaris","Prinia","Bar-winged Prinia",LC,U,-16731116
+45,43,"sylvatica","Prinia","Jungle Prinia",LC,U,-16731116
+51,50,"cinereiceps","Orthotomus","White-eared Tailorbird",LC,U,-16731116
+52,50,"nigriceps","Orthotomus","Black-headed Tailorbird",LC,U,-16731116
+53,49,"derbianus","Orthotomus","Grey-backed Tailorbird",LC,U,-16731116
+55,54,"samarensis","Orthotomus","Yellow-breasted Tailorbird",NT,U,-12486656
+56,54,"atrogularis","Orthotomus","Dark-necked Tailorbird",LC,U,-16731116
+59,58,"frontalis","Orthotomus","Rufous-fronted Tailorbird",LC,U,-16731116
+60,58,"sericeus","Orthotomus","Rufous-tailed Tailorbird",LC,U,-16731116
+62,61,"castaneiceps","Orthotomus","Philippine Tailorbird",LC,U,-16731116
+63,61,"ruficeps","Orthotomus","Ashy Tailorbird",LC,U,-16731116
+66,65,"sepium","Orthotomus","Olive-backed Tailorbird",LC,U,-16731116
+67,65,"sutorius","Orthotomus","Common Tailorbird",LC,U,-16731116
+68,64,"heterolaemus","Orthotomus","Rufous-headed Tailorbird",LC,U,-16731116

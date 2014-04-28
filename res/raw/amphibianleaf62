@@ -1,0 +1,51 @@
+index,parent,name1,name2,common,redlist,popstab,color
+9,8,"galeanae","Pseudoeurycea","",NT,U,-12486656
+10,8,"brunnata","Pseudoeurycea","",CR,D,-3014646
+11,7,"aquatica","Pseudoeurycea","",CR,D,-3014646
+13,12,"orchileucos","Pseudoeurycea","",EN,D,-8572416
+14,12,"anitae","Pseudoeurycea","",CR,U,-3014646
+17,16,"quetzalanensis","Pseudoeurycea","Cuetzalan Salamander",DD,U,-11513776
+18,16,"werleri","Pseudoeurycea","",EN,D,-8572416
+19,15,"sulcata","Pseudoeurycea","",NE,U,-16777216
+25,24,"papenfussi","Pseudoeurycea","Muscular Salamander",NT,U,-12486656
+26,24,"nigromaculata","Pseudoeurycea","",CR,D,-3014646
+27,23,"firscheini","Pseudoeurycea","",EN,D,-8572416
+29,28,"gigantea","Pseudoeurycea","",CR,D,-3014646
+30,28,"mystax","Pseudoeurycea","",EN,D,-8572416
+31,21,"teotepec","Pseudoeurycea","",EN,D,-8572416
+33,32,"amuzga","Pseudoeurycea","",DD,U,-11513776
+34,32,"rex","Pseudoeurycea","",CR,D,-3014646
+36,35,"maxima","Pseudoeurycea","Southern Giant Salamander",DD,U,-11513776
+37,35,"saltator","Pseudoeurycea","",CR,D,-3014646
+42,41,"obesa","Pseudoeurycea","Ridge Tail Salamander",DD,U,-11513776
+43,41,"scandens","Pseudoeurycea","",VU,U,-11184866
+45,44,"praecellens","Pseudoeurycea","",CR,D,-3014646
+46,44,"nigra","Pseudoeurycea","",CR,D,-3014646
+49,48,"leprosa","Pseudoeurycea","",VU,D,-11184866
+50,48,"conanti","Pseudoeurycea","",EN,U,-8572416
+51,47,"exspectata","Pseudoeurycea","",CR,D,-3014646
+55,54,"mixcoatl","Pseudoeurycea","",DD,D,-11513776
+56,54,"boneti","Pseudoeurycea","",VU,D,-11184866
+57,53,"gadovii","Pseudoeurycea","",EN,D,-8572416
+59,58,"bellii","Pseudoeurycea","Bell's False Brook Salamander",VU,D,-11184866
+60,58,"altamontana","Pseudoeurycea","",EN,D,-8572416
+64,63,"ahuitzotl","Pseudoeurycea","",CR,D,-3014646
+65,63,"cochranae","Pseudoeurycea","",EN,D,-8572416
+66,62,"tenchalli","Pseudoeurycea","",EN,D,-8572416
+67,61,"melanomolga","Pseudoeurycea","",EN,D,-8572416
+73,72,"unguidentis","Pseudoeurycea","",CR,D,-3014646
+74,72,"mixteca","Pseudoeurycea","",LC,S,-16731116
+76,75,"tlilicxitl","Pseudoeurycea","",DD,U,-11513776
+77,75,"parva","Pseudoeurycea","",CR,D,-3014646
+80,79,"ruficauda","Pseudoeurycea","",DD,U,-11513776
+81,79,"lynchi","Pseudoeurycea","",CR,D,-3014646
+83,82,"robertsi","Pseudoeurycea","",CR,S,-3014646
+84,82,"lineola","Pseudoeurycea","",EN,D,-8572416
+88,87,"aurantia","Pseudoeurycea","",VU,U,-11184866
+89,87,"juarezi","Pseudoeurycea","",CR,D,-3014646
+90,86,"longicauda","Pseudoeurycea","",EN,D,-8572416
+91,85,"naucampatepetl","Pseudoeurycea","",CR,D,-3014646
+95,94,"goebeli","Pseudoeurycea","",CR,D,-3014646
+96,94,"smithi","Pseudoeurycea","",CR,D,-3014646
+97,93,"orchimelas","Pseudoeurycea","",EN,D,-8572416
+98,92,"tlahcuiloh","Pseudoeurycea","",CR,D,-3014646

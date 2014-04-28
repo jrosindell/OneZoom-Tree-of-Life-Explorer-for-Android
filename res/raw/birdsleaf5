@@ -1,0 +1,36 @@
+index,parent,name1,name2,common,redlist,popstab,color
+8,7,"costaricensis","Geotrygon","Buff-fronted Quail-dove",LC,U,-16731116
+9,7,"chrysia","Geotrygon","Key West Quail-dove",LC,U,-16731116
+10,6,"linearis","Geotrygon","Lined Quail-dove",LC,U,-16731116
+12,11,"chiriquensis","Geotrygon","Rufous-breasted Quail-dove",LC,U,-16731116
+13,11,"albifacies","Geotrygon","White-faced Quail-dove",LC,U,-16731116
+16,15,"veraguensis","Geotrygon","Olive-backed Quail-dove",LC,U,-16731116
+17,15,"goldmani","Geotrygon","Russet-crowned Quail-dove",NT,U,-12486656
+18,14,"caniceps","Geotrygon","Grey-headed Quail-dove",VU,U,-11184866
+24,23,"macroura","Zenaida","Mourning Dove",LC,U,-16731116
+25,23,"graysoni","Zenaida","Socorro Dove",EW,U,-12832121
+26,22,"auriculata","Zenaida","Eared Dove",LC,U,-16731116
+27,21,"galapagoensis","Zenaida","Galapagos Dove",LC,U,-16731116
+28,20,"aurita","Zenaida","Zenaida Dove",LC,U,-16731116
+30,29,"asiatica","Zenaida","White-winged Dove",LC,U,-16731116
+31,29,"meloda","Zenaida","West Peruvian Dove",LC,U,-16731116
+36,35,"cyanocephala","Starnoenas","Blue-headed Quail-dove",EN,U,-8572416
+37,35,"mystacea","Geotrygon","Bridled Quail-dove",LC,U,-16731116
+38,34,"lawrencii","Geotrygon","Purplish-backed Quail-dove",LC,U,-16731116
+39,33,"carrikeri","Geotrygon","Tuxtla Quail-dove",EN,U,-8572416
+42,41,"frenata","Geotrygon","White-throated Quail-dove",LC,U,-16731116
+43,41,"violacea","Geotrygon","Violaceous Quail-dove",LC,U,-16731116
+44,40,"saphirina","Geotrygon","Sapphire Quail-dove",LC,U,-16731116
+46,45,"versicolor","Geotrygon","Crested Quail-dove",NT,U,-12486656
+47,45,"montana","Geotrygon","Ruddy Quail-dove",LC,U,-16731116
+53,52,"plumbeiceps","Leptotila","Grey-headed Dove",LC,U,-16731116
+54,52,"cassini","Leptotila","Grey-chested Dove",LC,U,-16731116
+56,55,"rufaxilla","Leptotila","Grey-fronted Dove",LC,U,-16731116
+57,55,"megalura","Leptotila","White-faced Dove",LC,U,-16731116
+58,50,"wellsi","Leptotila","Grenada Dove",CR,U,-3014646
+61,60,"jamaicensis","Leptotila","Caribbean Dove",LC,U,-16731116
+62,60,"conoveri","Leptotila","Tolima Dove",EN,U,-8572416
+63,59,"verreauxi","Leptotila","White-tipped Dove",LC,U,-16731116
+66,65,"battyi","Leptotila","Brown-backed Dove",VU,U,-11184866
+67,65,"pallida","Leptotila","Pallid Dove",LC,U,-16731116
+68,64,"ochraceiventris","Leptotila","Ochre-bellied Dove",VU,U,-11184866
