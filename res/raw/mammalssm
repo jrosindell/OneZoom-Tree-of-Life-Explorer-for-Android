@@ -1,8 +1,12 @@
 name,fileindex,index,whichChild
 "Smoky Mouse",13,142,2
 "Small-toothed Rats",15,60,2
+"Lesser Small-toothed Rat",15,61,1
+"Greater Small-toothed Rat",15,62,2
+"Wroughton's Small Spiny Mouse",11,167,2
 "Small Spiny Rat",10,97,2
 "Small Bornean Maxomys",9,49,1
+"African Smoky Mouse",9,95,2
 "Small Japanese Field Mouse",19,16,1
 "Small Luzon Apomys",8,118,2
 "Small Luzon Carpomys",8,135,2
@@ -10,11 +14,15 @@ name,fileindex,index,whichChild
 "Smoky Grass Mouse",23,54,2
 "Small Vesper Mouse",23,137,2
 "Small Hocicudo",23,157,1
+"Highland Small Rice Rat",23,201,1
+"Forest Small Rice Rat",23,202,2
 "Small-eared Pygmy Rice Rat",21,39,1
 "Small-toothed Harvest Mouse",21,179,1
 "Smokey Vole",6,27,2
 "Smith's Red-backed Vole",7,32,2
+"smithii",7,32,2
 "Smith's Zokor",4,55,2
+"smithii",4,55,2
 "Small Five-toed Jerboa",2,57,2
 "Smoky Pocket Gopher",20,39,2
 "Small Kashmir Flying Squirrel",80,42,2
@@ -25,10 +33,16 @@ name,fileindex,index,whichChild
 "Smith's Red Rock Hare",76,113,2
 "Small-toothed Sportive Lemur",36,46,1
 "Small-eared Greater Galago",39,11,2
+"Bornean Smooth-tailed Treeshrew",35,182,1
+"Northern Smooth-tailed Treeshrew",35,183,2
 "Small Woolly Bat",53,24,1
 "Smith's Woolly Bat",53,27,1
+"smithii",53,27,1
 "Small Big-eared Brown Bat",54,67,2
 "Small-toothed Long-eared Bat",56,50,1
+"Dark-nosed Small-footed Myotis",74,67,1
+"Western Small-footed Myotis",74,68,2
+"Eastern Small-footed Myotis",74,69,2
 "Small Melanesian Bent-winged Bat",45,21,1
 "Small Long-fingered Bat",45,22,2
 "Smokey Bat",45,62,1
@@ -37,16 +51,59 @@ name,fileindex,index,whichChild
 "Small Asian Sheath-tailed Bat",71,59,1
 "Small-toothed Fruit Bat",57,141,2
 "Smooth-coated Otter",52,20,1
+"Asian Small-clawed Otter",52,25,1
 "Small-toothed Ferret-badger",52,52,2
 "Small Asian Mongoose",50,40,1
+"smithii",50,49,2
 "Small Indian Civet",51,45,2
 "Small-toothed Palm Civet",51,61,2
+"smithii",88,29,2
 "Small-footed Shrew",88,83,1
 "Smoky White-toothed Shrew",93,18,1
 "Smoky Shrew",86,94,2
 "Small-eared shrews and more",92,1,1
+"Merriam's Small-eared Shrew",92,9,1
+"Yucatan Small-eared Shrew",92,10,2
+"Blackish Small-eared Shrew",92,12,1
+"Darien Small Eared Shrew",92,13,2
+"Big Mexican Small-eared Shrew",92,14,2
+"Tropical Small-eared Shrew",92,18,2
+"Honduran Small-eared Shrew",92,22,1
+"Merida Small-eared Shrew",92,24,2
+"Medellin Small-eared Shrew",92,27,1
+"Thomas' Small-eared Shrew",92,28,2
+"Ecuadorean Small-eared Shrew",92,29,2
+"Scaly-footed Small-eared Shrew",92,31,1
+"Ecuadorean Small-eared Shrew",92,32,2
+"Grizzled Mexican Small-eared Shrew",92,38,1
+"Phillip's Small-eared Shrew",92,41,1
+"Nelson's Small Eared Shrew",92,42,2
+"Mexican Small-eared Shrew",92,43,2
+"Guatamalan Small Eared Shrew",92,46,1
+"Talamancan Small-eared Shrew",92,50,1
+"Ender's Small-eared Shrew",92,51,2
 "Smith's Shrew",91,23,2
+"smithii",91,23,2
 "Small-toothed Mole",85,108,2
 "Small Japanese Mole",85,118,2
 "Small Dorcopsis",43,115,2
 "Small Sulawesi Cuscus",44,20,1
+"Sminthopsis",84,77,1
+"Sminthopsis",84,86,1
+"Sminthopsis",84,87,2
+"Sminthopsis",84,88,2
+"Sminthopsis",84,89,2
+"Sminthopsis",84,90,2
+"Sminthopsis",84,94,1
+"Sminthopsis",84,95,2
+"Sminthopsis",84,96,2
+"Sminthopsis",84,97,2
+"Sminthopsis",84,98,2
+"Sminthopsis",84,99,2
+"Sminthopsis",84,101,1
+"Sminthopsis",84,102,2
+"Sminthopsis",84,107,1
+"Sminthopsis",84,108,2
+"Sminthopsis",84,109,2
+"Sminthopsis",84,110,2
+"Sminthopsis",84,111,2

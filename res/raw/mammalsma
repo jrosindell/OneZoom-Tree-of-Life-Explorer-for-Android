@@ -1,132 +1,604 @@
 name,fileindex,index,whichChild
 "Mammals",0,0,0
+"Placental mammals",0,2,1
+"Lowland Mammelomys",13,17,1
+"Mammelomys",13,17,1
 "Manusela Melomys",13,36,2
+"Highland Mammelomys",13,58,2
+"Mammelomys",13,58,2
+"macrurus",13,76,1
+"maini",13,87,1
+"Mastacomys",13,136,2
+"Ernst Mayr's Leptomys",15,23,2
+"Shaw Mayer's Pogonomelomys",15,31,1
+"mayeri",15,31,1
+"Mallomys",15,52,1
+"Mallomys",15,55,1
+"Mallomys",15,56,2
+"Mallomys",15,57,2
+"Mallomys",15,58,2
+"Macruromys",15,60,2
+"Macruromys",15,61,1
+"major",15,62,2
+"Macruromys",15,62,2
 "Matthey's Mouse",11,117,2
+"mattheyi",11,117,2
 "Mahomet Mouse",11,142,2
+"mahomet",11,142,2
+"macedonicus",11,159,2
 "Mayor's Mouse",11,178,2
+"mayori",11,178,2
 "Malaysian Field Rat",10,23,1
 "Marmoset Xanthurus Rat",10,77,2
+"marmosurus",10,77,2
+"Shaggy Rats and Marsh Rats",9,25,1
+"African Marsh Rat",9,29,1
+"Angolan Marsh Rat",9,31,2
+"Maxomys",9,41,1
+"Small Bornean Maxomys",9,49,1
+"Maxomys",9,49,1
+"Palawan Maxomys",9,50,2
+"Maxomys",9,50,2
+"Rajah Sundaic Maxomys",9,51,2
+"Maxomys",9,51,2
+"Musschenbroek's Sulawesi Maxomys",9,53,1
+"Maxomys",9,53,1
+"Bornean Mountain Maxomys",9,54,2
+"Maxomys",9,54,2
+"Watts's Sulawesi Maxomys",9,57,1
+"Maxomys",9,57,1
 "Malayan Mountain Maxomys",9,58,2
+"Malayan Mountain Maxomys",9,58,2
+"Maxomys",9,58,2
+"Mentawai Archipelago Maxomys",9,59,2
+"Maxomys",9,59,2
+"Broad-nosed Sumatran Maxomys",9,60,2
+"Maxomys",9,60,2
+"Sumatran Mountain Maxomys",9,62,1
+"Maxomys",9,62,1
+"Dollman's Sulawesi Maxomys",9,63,2
+"Maxomys",9,63,2
+"Ochraceous-bellied Bornean Maxomys",9,64,2
+"Maxomys",9,64,2
+"Whitehead's Sundaic Maxomys",9,68,1
+"Maxomys",9,68,1
+"Indomalayan Maxomys",9,69,2
+"Maxomys",9,69,2
+"Indochinese Mountain Maxomys",9,70,2
+"Maxomys",9,70,2
+"Hellwald's Sulawesi Maxomys",9,72,1
+"Maxomys",9,72,1
+"Bartels's Javan Maxomys",9,73,2
+"Maxomys",9,73,2
+"major",9,81,2
 "Marmoset Rats",9,87,2
+"Greater Marmoset Rat",9,88,1
+"Lesser Marmoset Rat",9,89,2
 "Margaret's Haeromys",9,94,2
+"margarettae",9,94,2
+"Madromys",9,109,1
+"macrourus",9,117,2
+"macculus",9,140,2
 "Malay Peninsula Pithecheir",9,152,1
+"mackenziei",19,63,1
 "Manipur White-toothed Rat",19,64,2
+"manipulus",19,64,2
+"Mastomys",19,87,1
+"Shortridge's Mastomys",19,88,2
+"Mastomys",19,88,2
+"Kollmannsperger's Mastomys",19,89,2
+"Mastomys",19,89,2
+"Hubert's Mastomys",19,93,1
+"Mastomys",19,93,1
+"Dwarf Mastomys",19,94,2
+"Mastomys",19,94,2
+"Southern African Mastomys",19,95,2
+"Mastomys",19,95,2
+"Natal Mastomys",19,96,2
+"Mastomys",19,96,2
+"macrocercus",17,46,1
 "Margaretamys",17,49,2
+"Spiny Lowland Margaretamys",17,51,1
+"Margaretamys",17,51,1
+"Elegant Margaretamys",17,52,2
+"Margaretamys",17,52,2
+"Lesser Margaretamys",17,53,2
+"Margaretamys",17,53,2
 "Macmillan's Thicket Rat",8,39,1
+"macmillani",8,39,1
+"major",8,73,2
+"maxi",8,84,2
+"maximus",14,26,2
+"Malacomys",18,26,2
+"Malacomys",18,27,2
+"Malacomys",18,28,2
+"mauritaniae",16,47,2
+"mackilligini",16,79,2
+"maghrebi",16,85,1
+"major",8,172,2
 "Markham's Grass Mouse",23,32,1
+"markhami",23,32,1
+"Serrado Do Mar Grass Mouse",23,49,1
+"macconnelli",27,34,1
 "Marsh Rice Rat",27,47,2
 "Mamore Arboreal Rice Rat",27,106,1
+"mamorae",27,106,1
 "Marsh Rats",27,117,1
+"Chaco Marsh Rat",27,121,2
 "Marsh Rat",27,122,2
+"Web-footed Marsh Rat",27,123,2
 "Magellanic Pygmy Rice Rat",21,41,2
+"magellanicus",21,41,2
 "Master Leaf-eared Mouse",26,30,2
+"magister",26,30,2
+"macronyx",26,71,2
+"macrurus",28,8,1
+"mastacalis",28,10,2
 "Macconnell's Climbing Mouse",28,27,2
+"macconnelli",28,27,2
+"magdalenae",28,40,2
+"mascotensis",21,125,1
 "Marsh Mouse",25,14,2
+"maniculatus",25,70,1
+"Tres Marias Deer Mouse",25,97,2
+"madrensis",25,97,2
 "Maya Mouse",25,103,2
+"mayensis",25,103,2
+"Southern Marsh Harvest Mouse",21,198,2
+"San Martin Island Woodrat",22,9,1
+"martinensis",22,9,1
+"magister",22,22,1
+"macrotis",22,41,2
 "Magdalena Rat",22,46,2
+"majori",5,34,2
 "Maximowicz's Vole",5,47,1
+"maximowiczii",5,47,1
 "Marie's Vole",4,35,2
 "Mandarin Vole",6,26,1
+"mandarinus",6,26,1
+"macrotis",7,66,2
 "Major's Tufted-tailed Rat",4,79,1
+"majori",4,79,1
+"Macrotarsomys",4,85,2
+"Macrotarsomys",4,86,1
+"Macrotarsomys",4,87,2
 "Malagasy Giant Jumping Rat",4,98,2
 "Malabar Spiny Dormouse",4,100,1
+"macrocephalus",4,147,2
+"Malacothrix",4,213,2
+"major",2,71,2
+"macrotis",2,84,2
+"matagalpae",20,53,2
+"mazama",2,121,2
+"macrura",30,16,1
+"Makalata",30,16,1
+"Makalata",30,17,2
+"Makalata",30,30,2
+"Makalata",30,39,1
+"Makalata",30,40,2
+"Makalata",29,21,1
 "Magdalena Spiny Rat",29,39,2
+"magdalenae",29,39,2
 "Mashona Mole-rat",29,138,1
+"magna",29,174,2
 "Malayan Porcupine",29,188,2
+"macrourus",29,195,1
+"maximus",29,210,2
+"Chacoan Mara",33,64,2
 "Magellanic Tuco-tuco",32,29,1
+"magellanicus",32,29,1
 "Maule Tuco-tuco",32,51,2
+"maulinus",32,51,2
+"Massoutiera",2,167,2
+"magnificus",77,21,2
+"macrotis",82,56,2
+"macroura",77,52,2
 "Maritime Striped Squirrel",78,47,2
+"maritimus",78,47,2
+"Sierra Madre Ground Squirrel",79,44,2
+"madrensis",79,44,2
+"major",79,48,2
+"Golden Mantled Ground Squirrel",79,81,1
 "Marmots",79,84,1
+"Marmota",79,84,1
+"Black-capped Marmot",79,91,1
+"Marmota",79,91,1
+"Himalayan Marmot",79,92,2
+"Marmota",79,92,2
+"Mongolian Marmot",79,93,2
+"Marmota",79,93,2
+"Altai Marmot",79,95,1
+"Marmota",79,95,1
+"Bobak Marmot",79,96,2
+"Marmota",79,96,2
+"Menzbier's Marmot",79,98,1
+"Marmota",79,98,1
+"Long-tailed marmot",79,99,2
+"Marmota",79,99,2
+"Alaska Marmot",79,101,1
+"Marmota",79,101,1
+"Alpine Marmot",79,102,2
+"marmota",79,102,2
+"Marmota",79,102,2
+"Marmota",79,103,2
+"Vancouver Island Marmot",79,107,1
+"Marmota",79,107,1
+"Hoary Marmot",79,108,2
+"Marmota",79,108,2
+"Olympic Marmot",79,109,2
+"Marmota",79,109,2
+"Yellow-bellied Marmot",79,110,2
+"Marmota",79,110,2
 "Masked Mouse-tailed Dormouse",77,188,1
 "Manchurian Hare",76,24,1
+"mandshuricus",76,24,1
+"marjorita",76,72,1
 "Manzano Mountain Cottontail",76,84,2
+"Tres Marias Cottontail",76,87,2
 "Marsh Rabbit",76,95,1
+"mansuetus",76,102,1
+"macrotis",76,149,1
 "Macaques",35,9,1
+"Macaca",35,9,1
+"Celebes Crested Macaque",35,16,1
+"Macaca",35,16,1
+"Gorontalo Macaque",35,17,2
+"Macaca",35,17,2
+"Booted Macaque",35,18,2
+"Macaca",35,18,2
+"Moor Macaque",35,19,2
+"maura",35,19,2
+"Macaca",35,19,2
+"Tonkean Macaque",35,21,1
+"Macaca",35,21,1
+"Heck's Macaque",35,22,2
+"Macaca",35,22,2
+"Southern Pig-tailed Macaque",35,26,1
+"Macaca",35,26,1
+"Pagai Island Macaque",35,27,2
+"Macaca",35,27,2
+"Northern Pig-tailed Macaque",35,28,2
+"Macaca",35,28,2
+"Lion-tailed Macaque",35,29,2
+"Macaca",35,29,2
+"Barbary Macaque",35,30,2
+"Macaca",35,30,2
+"Milne-edwards' Macaque",35,35,1
+"Macaca",35,35,1
+"Assam Macaque",35,36,2
+"Macaca",35,36,2
+"Bonnet Macaque",35,38,1
+"Macaca",35,38,1
+"Toque Macaque",35,39,2
+"Macaca",35,39,2
+"Stump-tailed Macaque",35,40,2
+"Macaca",35,40,2
+"Formosan Rock Macaque",35,44,1
+"Macaca",35,44,1
+"Macaca",35,45,2
+"Japanese Macaque",35,46,2
+"Macaca",35,46,2
+"Crab-eating Macaque",35,47,2
+"Macaca",35,47,2
 "Mangabeys, Baboons and more",35,48,2
+"Grey-cheeked Mangabey",35,63,1
+"Black Mangabey",35,65,2
+"White-collared Mangabey",35,69,1
+"Sooty/white-naped Mangabey",35,70,2
 "Mandrillus",35,71,2
+"Mandrillus",35,72,1
 "Mandrill",35,73,2
+"Mandrillus",35,73,2
+"Golden-bellied Mangabey",35,76,1
+"Agile Mangabey",35,77,2
+"Tana River Crested Mangabey",35,78,2
 "Malbrouck Monkey",41,57,2
 "Maroon Leaf Monkey",40,42,1
 "Marmosets",38,6,1
+"Geoffroy's Tufted-ear Marmoset",38,10,1
+"Wied's Black-tufted-ear Marmoset",38,11,2
+"Black-pencilled Marmoset",38,13,1
+"Common Marmoset",38,14,2
+"Buffy-tufted-ear Marmoset",38,16,1
+"Buffy-headed Marmoset",38,17,2
 "Martin'S/ochraceous Bare-face Tamarin",38,59,1
+"martinsi",38,59,1
+"Black Mantle Tamarin",38,72,1
+"Nancy Ma's Night Monkey",38,111,1
+"marginatus",42,89,2
 "Mantled Howler Monkey",42,103,1
+"macconnelli",42,108,2
+"macaco",36,20,2
+"madagascariensis",35,116,2
+"major",35,136,2
 "Masoala Fork-marked Lemur",35,145,2
+"matschiei",39,22,2
 "Madras Treeshrew",35,186,2
 "Manaus Island Woolly Bat",53,19,1
 "Machado's Butterfly Bat",55,9,1
+"machadoi",55,9,1
+"mackenziei",53,109,2
+"maculatum",53,142,2
+"macrotis",53,199,2
 "Madeira Pipistrelle",54,45,2
+"maderensis",54,45,2
+"magellanicus",54,66,1
+"macrotus",54,71,2
 "Malagasy Serotine",56,69,1
+"matroka",56,69,1
+"martiniquensis",74,12,1
+"macrodactylus",73,15,2
+"macrotarsus",73,33,1
 "Mandelli's Mouse-eared Myotis",73,53,2
 "Malagasy Mouse-eared Bat",73,69,1
 "Maluku Myotis",73,102,2
+"macropus",73,103,2
 "Manavil Long-fingered Bat",45,18,1
+"manavi",45,18,1
+"macrocneme",45,21,1
 "Major's Long-fingered Bat",45,33,2
+"majori",45,33,2
+"magnater",45,42,2
 "Mastiff Bats",62,8,1
+"Aztec Mastiff Bat",62,15,1
+"Coiban Mastiff Bat",62,17,2
+"Pallas's Mastiff Bat",62,18,2
+"Miller's Mastiff Bat",62,20,1
+"Black Mastiff Bat",62,21,2
+"Bonda Mastiff Bat",62,22,2
+"Sinaloan Mastiff Bat",62,23,2
+"Big Crested Mastiff Bat",62,25,1
+"Brown Mastiff Bat",62,26,2
+"maurus",62,36,2
 "Madagascar Free-tailed Bat",62,49,1
+"madagascariensis",62,49,1
+"martiensseni",62,50,2
 "Mantled Free-tailed Bat",62,51,2
+"Java Giant Mastiff Bat",62,55,2
+"major",62,84,2
+"macrotis",62,125,2
 "Malagasy Free-tailed Bat",62,139,2
 "Mato Grosso Dog-faced Bat",62,160,2
+"mattogrossensis",62,160,2
+"Sumatran Mastiff Bat",62,177,2
+"Kalinowski's Mastiff Bat",62,181,1
+"Incan Little Mastiff Bat",62,182,2
+"magnirostrum",68,24,1
 "Macconnell's Bat",68,40,2
+"macconnelli",68,40,2
+"magna",67,68,2
 "Macrotus",67,191,2
+"Macrotus",67,192,1
+"Macrotus",67,193,2
 "Marinkelle's Sword-nosed Bat",67,198,1
+"marinkellei",67,198,1
+"macrophyllum",67,202,2
+"Macrophyllum",67,202,2
 "Macleay's Mustached Bat",67,213,1
+"macleayii",67,213,1
+"major",45,52,1
 "Makira Leaf-nosed Bat",61,47,1
+"macrobullatus",58,28,1
+"marisae",58,44,2
 "Maggie Taylor's Leaf-nosed Bat",58,65,2
+"maggietaylorae",58,65,2
 "Malayan Leaf-nosed Bat",58,71,2
 "Malayan Tailless Leaf-nosed Bat",58,91,1
 "Maclaud's Horseshoe Bat",59,31,2
+"maclaudi",59,31,2
+"macrotis",59,45,1
 "Malayan Horseshoe Bat",59,52,2
+"malayanus",59,52,2
 "Madura Horseshoe Bat",58,114,2
+"madurensis",58,114,2
 "Marshall's Horseshoe Bat",60,30,2
+"marshalli",60,30,2
 "Madagascar Slit-faced Bat",58,135,1
+"madagascariensis",58,135,1
+"macrotis",58,136,2
+"major",58,154,2
 "Malayan Slit-faced Bat",58,158,1
+"Macroderma",45,76,2
 "Macinnes's Mouse-tailed Bat",45,84,1
+"macinnesi",45,84,1
+"macrotis",71,10,2
+"maximiliani",71,21,2
 "Mauritian Tomb Bat",71,70,2
+"mauritianus",71,70,2
+"macrotis",57,20,2
+"Greater Mascarene Flying Fox",57,40,1
 "Madagascan Flying Fox",57,41,2
 "Marianas Flying Fox",57,74,1
+"mariannus",57,74,1
+"mahaganus",57,86,2
 "Makira Flying Fox",57,108,2
+"Moluccan Masked Flying Fox",57,117,2
+"mackloti",57,131,2
+"magna",57,164,2
+"macdonaldi",45,105,2
 "Macroglossus",45,111,2
+"Macroglossus",45,112,1
+"Macroglossus",45,113,2
+"major",45,117,2
 "Manado Rousette",70,41,2
 "Madagascan Fruit Bat",70,45,2
 "Madagascan Rousette",70,53,1
+"madagascariensis",70,53,1
+"maculata",46,35,1
+"masalai",46,60,2
 "Malaita Tube-nosed Bat",46,62,2
+"malaitensis",46,62,2
+"major",46,76,2
 "Markhor",64,25,2
+"Madoqua",64,104,2
+"marsupialis",66,33,2
+"Madoqua",63,10,2
 "Maxwell's Duiker",65,36,1
+"maxwellii",65,36,1
+"Madoqua",63,37,1
+"Madoqua",63,38,2
+"marianna",63,108,2
 "Mazama",63,137,1
+"Mazama",63,142,1
+"Mazama",63,143,2
+"Mazama",63,144,2
+"Mazama",63,146,1
+"Mazama",63,147,2
+"Mazama",63,149,1
+"Mazama",63,150,2
+"Mazama",63,151,2
 "Marsh Deer",63,161,2
+"macrorhynchus",75,68,1
+"marginata",75,165,2
 "Malay Weasel",49,18,2
+"macrodon",49,41,2
 "Martes",49,46,1
+"American Marten",49,52,1
+"Martes",49,52,1
+"Japanese Marten",49,53,2
+"Martes",49,53,2
+"Martes",49,54,2
+"European Pine Marten",49,55,2
+"martes",49,55,2
+"Martes",49,55,2
+"Stone Marten",49,56,2
+"Martes",49,56,2
+"Martes",49,57,2
+"Yellow-throated Marten",49,59,1
+"Martes",49,59,1
+"Nilgiri Marten",49,60,2
+"Martes",49,60,2
+"European Marbled Polecat",49,71,2
+"marchei",49,85,2
 "Marine Otter",52,9,2
+"maculicollis",52,21,2
+"macroura",52,38,2
 "Malayan Sun Bear",47,109,1
+"malayanus",47,109,1
+"maritimus",47,114,1
 "Maned Wolf",47,150,2
+"macrotis",47,171,1
 "Marsh Mongoose",47,192,2
 "Malagasy Ring-tailed Mongoose",47,199,2
 "Malagasy Narrow-striped Mongoose",47,200,2
+"maculata",51,11,1
 "Malabar Civet",51,41,2
 "Malay Civet",51,44,2
 "Masked Palm Civet",51,58,1
+"Macrogalidia",51,60,2
 "Marbled Cat",48,20,2
+"marmorata",48,20,2
 "Margay",48,49,2
+"margarita",48,57,2
+"manul",48,64,2
+"PHOLIDOTA Manis",45,163,2
+"Manis",45,166,1
+"Manis",45,167,2
+"Manis",45,169,1
+"Manis",45,170,2
+"Manis",45,173,1
+"Manis",45,174,2
+"Manis",45,176,1
+"Manis",45,177,2
 "Mauritanian Shrew",90,18,1
 "Macarthur's Shrew",90,42,2
+"macarthuri",90,42,2
 "Manenguba Shrew",88,45,1
+"manengubae",88,45,1
+"mariquensis",89,39,2
+"maxi",88,119,2
 "Makwassie Musk Shrew",88,121,1
+"maquassiensis",88,121,1
+"maurisca",88,122,2
 "Macow's Shrew",88,193,2
+"macowi",88,193,2
 "Malayan Shrew",93,14,2
+"malayana",93,14,2
 "Macmillan's Shrew",93,28,2
+"macmillani",93,28,2
+"maxima",85,13,2
 "Malayan Pgymy Shrew",87,13,2
+"malayanus",87,13,2
 "Madagascan Shrew",87,34,1
+"madagascariensis",87,34,1
 "Maritime Shrew",86,26,1
+"maritimensis",86,26,1
 "Marsh Shrew",86,71,2
+"mayensis",92,10,2
+"magna",92,14,2
+"macrurus",91,14,2
 "Malayan Water Shrew",91,34,2
+"matacus",0,24,2
+"maximus",0,25,2
 "Maned Sloth",0,55,2
 "Marley's Golden Mole",34,60,2
+"marleyi",34,60,2
+"MACROSCELIDEA",0,69,2
+"Macroscelides",0,91,2
+"African Manatee",0,111,1
+"American Manatee",0,112,2
+"manatus",0,112,2
+"Amazonian Manatee",0,113,2
+"maximus",0,119,2
 "Marsupials",0,120,2
+"MACROPODIFORMES",43,3,1
 "Macropodidae",43,6,1
 "Macropus",43,51,1
+"Macropus",43,56,1
+"Macropus",43,57,2
+"Macropus",43,58,2
+"Macropus",43,60,1
+"Macropus",43,61,2
+"Macropus",43,63,1
+"Macropus",43,64,2
+"Macropus",43,69,1
+"Macropus",43,70,2
+"Macropus",43,71,2
+"Macropus",43,72,2
+"Macropus",43,74,1
+"Macropus",43,75,2
+"matschiei",43,95,2
 "Macleay's Dorcopsis",43,114,1
+"macleayi",43,114,1
 "Masked Ringtail",43,145,2
+"mayeri",43,148,2
 "Mahogany Glider",43,174,2
+"maculatus",44,24,1
+"matanim",44,41,1
+"maculatus",84,20,2
+"macdonnellensis",84,34,1
+"macroura",84,110,2
+"maculata",84,126,2
+"Northern Marsupial Mole",84,129,1
 "Marsupial Mole",84,130,2
+"macrourus",0,153,2
+"Macrotis",0,158,2
 "Marmosops",1,5,1
+"Marmosops",1,12,1
+"Marmosops",1,13,2
+"Marmosops",1,14,2
+"Marmosops",1,16,1
+"Marmosops",1,17,2
+"Marmosops",1,18,2
+"Marmosops",1,19,2
+"Marmosops",1,24,1
+"Marmosops",1,25,2
+"Marmosops",1,26,2
+"Marmosops",1,27,2
+"Marmosops",1,28,2
+"Marmosops",1,30,1
+"Marmosops",1,31,2
+"marica",1,45,2
+"macrurus",1,64,2
+"marsupialis",1,78,1
 "Marajo Short-tailed Opossum",1,125,1
+"maraxina",1,125,1
+"Marmosa",1,142,2
+"Marmosa",1,144,1
+"Marmosa",1,145,2
+"Marmosa",1,149,1
+"Marmosa",1,150,2
+"Marmosa",1,151,2
+"Marmosa",1,152,2
+"Marmosa",1,155,1
+"Marmosa",1,157,2

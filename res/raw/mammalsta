@@ -1,61 +1,292 @@
 name,fileindex,index,whichChild
+"Long-tailed Talaud Melomys",13,43,1
+"talaudium",13,43,1
+"Short-tailed Talaud Melomys",13,44,2
+"Spiny Taiwan Niviventer",11,86,2
+"Soft-furred Taiwan Niviventer",11,90,1
 "Tawitawi Forest Rat",10,32,2
+"tawitawiensis",10,32,2
+"tanezumi",10,45,2
 "Tambusisi Bunomys",9,185,2
 "Taiwan Field Mouse",19,20,2
 "Tarsomys",17,35,2
+"Spiny Tarsomys",17,36,1
+"Tarsomys",17,36,1
+"Dusky Tarsomys",17,37,2
+"Tarsomys",17,37,2
 "Tateomys",17,45,1
+"Tateomys",17,46,1
 "Tate's Sulawesian Shrew Rat",17,47,2
+"Tateomys",17,47,2
 "Target Rat",8,79,2
 "Tanzanian Vlei Rat",14,40,2
 "Taeromys",18,31,1
+"Taeromys",18,31,1
+"Northeastern Mountain Taeromys",18,36,1
+"taerae",18,36,1
+"Taeromys",18,36,1
+"Reddish-furred Taeromys",18,37,2
+"Taeromys",18,37,2
+"Long-tailed Taeromys",18,38,2
+"Taeromys",18,38,2
+"Southeastern Mountain Taeromys",18,39,2
+"Taeromys",18,39,2
+"Central Mountain Taeromys",18,40,2
+"Taeromys",18,40,2
+"Small-eared Taeromys",18,42,1
+"Taeromys",18,42,1
+"Greater Taeromys",18,43,2
+"Taeromys",18,43,2
 "Tarabul's Gerbil",16,30,2
+"tarabuli",16,30,2
 "Tamarisk Gerbil",12,39,2
+"tamariscinus",12,39,2
+"Tatera",12,71,2
 "Taterillus",12,73,2
+"Taterillus",12,77,1
+"Taterillus",12,78,2
+"Gracile Tateril",12,80,1
+"Taterillus",12,80,1
+"Taterillus",12,81,2
+"Robbins's Tateril",12,83,1
+"Taterillus",12,83,1
+"Taterillus",12,84,2
+"Taterillus",12,86,1
+"Taterillus",12,87,2
 "Tarija Akodont",23,29,2
 "Taczanowski's Oldfield Mouse",23,107,1
+"taczanowskii",23,107,1
+"talamancae",27,15,2
+"tarsalis",21,9,2
 "Tawny-bellied Cotton Rat",21,116,2
+"taylori",21,209,2
 "Tamaulipan Woodrat",22,25,2
 "Tatra Vole",5,20,2
+"tatricus",5,20,2
 "Taiga Vole",5,111,1
 "Tarabundi Vole",5,122,2
 "Taiwan Vole",4,33,2
+"talpinus",6,9,1
+"tancrei",6,10,2
 "Tanala Tuft-tailed Rat",4,74,2
+"tanala",4,74,2
+"Tachyoryctes",4,140,1
+"Tachyoryctes",4,145,1
+"Tachyoryctes",4,146,2
+"Tachyoryctes",4,147,2
+"Tachyoryctes",4,149,1
+"Tachyoryctes",4,150,2
+"Tachyoryctes",4,152,1
+"Tachyoryctes",4,153,2
+"Tachyoryctes",4,157,1
+"Tachyoryctes",4,158,2
+"Tachyoryctes",4,159,2
+"Tachyoryctes",4,161,1
+"Tachyoryctes",4,162,2
+"talpoides",2,122,2
+"taczanowskii",33,60,1
 "Tawny Tuco-tuco",32,14,1
 "Talas Tuco-tuco",32,99,2
+"talarum",32,99,2
 "Tamiasciurus",82,66,2
+"Tamiasciurus",82,68,1
+"Tamiasciurus",82,69,2
+"Tamiasciurus",82,70,2
+"Tamiops",78,43,2
+"Tamiops",78,46,1
+"Tamiops",78,47,2
+"Tamiops",78,48,2
+"Tamiops",78,49,2
+"Tamias",83,0,2
+"Tamias",83,11,1
+"Tamias",83,12,2
+"Tamias",83,13,2
+"Tamias",83,15,1
+"Tamias",83,16,2
+"Tamias",83,17,2
+"Tamias",83,18,2
+"Tamias",83,22,1
+"Tamias",83,23,2
+"Tamias",83,24,2
+"Tamias",83,25,2
+"Tamias",83,29,1
+"Tamias",83,30,2
+"Tamias",83,31,2
+"Tamias",83,32,2
+"Tamias",83,34,1
+"Tamias",83,35,2
+"Tamias",83,40,1
+"Tamias",83,41,2
+"Tamias",83,42,2
+"Tamias",83,44,1
+"Tamias",83,45,2
+"Tamias",83,46,2
+"Tamias",83,47,2
+"Tamias",83,48,2
 "Tapeti",76,92,2
 "Tana River Crested Mangabey",35,78,2
 "Tantalus Monkey",41,58,2
+"tantalus",41,58,2
+"Southern Talapoin Monkey",41,65,2
+"talapoin",41,65,2
 "Tarai Gray Langur",40,60,2
+"Lion Tamarins",38,34,2
+"Black-faced Lion Tamarin",38,37,1
+"Black Lion Tamarin",38,38,2
+"Golden Lion Tamarin",38,39,2
+"Golden-headed Lion Tamarin",38,40,2
 "Tamarins",38,41,2
+"Moustached Tamarin",38,48,1
+"Red-chested Mustached Tamarin",38,50,2
+"Emperor Tamarin",38,51,2
+"Cotton-headed Tamarin",38,54,1
+"Geoffroy's Tamarin",38,55,2
+"Silvery-brown Tamarin",38,56,2
+"Martin'S/ochraceous Bare-face Tamarin",38,59,1
+"Brazilian Bare-faced Tamarin",38,60,2
+"Golden-handed Tamarin",38,62,1
+"Black-handed Tamarin",38,63,2
+"Mottled-face Tamarin",38,64,2
+"White/crandall's Saddleback Tamarin",38,68,1
+"Saddleback Tamarin",38,69,2
+"Golden-mantle Saddleback Tamarin",38,70,2
+"Black Mantle Tamarin",38,72,1
 "Tarsiers",35,80,2
+"TARSIIFORMES",35,80,2
+"Eastern Tarsiers",35,81,1
+"Sangihe Tarsier",35,84,1
+"Tarsius",35,84,1
+"Spectral Tarsier",35,85,2
+"tarsier",35,85,2
+"Tarsius",35,85,2
+"Peleng Tarsier",35,86,2
+"Tarsius",35,86,2
+"Dian's Tarsier",35,88,1
+"Tarsius",35,88,1
+"Pygmy Tarsier",35,89,2
+"Tarsius",35,89,2
+"Horsfield's Tarsier",35,91,1
+"Tarsius",35,91,1
+"Philippine Tarsier",35,92,2
+"Tarsius",35,92,2
+"tattersalli",35,111,2
+"tardigradus",39,45,2
+"tana",35,160,2
 "Taiwanese Tube-nosed Bat",53,79,2
+"tasmaniensis",53,108,1
 "Taiwan Long-eared Bat",53,133,1
+"taivanus",53,133,1
 "Tacarcuna Bat",56,24,2
+"tatei",73,136,2
+"Tadarida",62,127,2
+"Tadarida",62,135,1
+"Tadarida",62,136,2
+"Tadarida",62,137,2
+"Tadarida",62,138,2
+"Tadarida",62,139,2
+"Tadarida",62,140,2
+"Tadarida",62,142,1
+"Tadarida",62,143,2
+"Tadarida",62,144,2
+"Tadarida",62,145,2
 "Talamancan Yellow-shouldered Bat",67,73,2
 "Tailless Bats",69,17,2
+"Broad-toothed Tailless Bat",69,20,1
+"Handley's Tailless Bat",69,21,2
 "Tailed Tailless Bat",69,22,2
+"Tailed Tailless Bat",69,22,2
+"Geoffroy's Tailless Bat",69,23,2
+"Maggie Taylor's Leaf-nosed Bat",58,65,2
+"Malayan Tailless Leaf-nosed Bat",58,91,1
 "Tail-less Leaf-nosed Bat",58,92,2
+"Taphozous",71,63,1
+"Taphozous",71,69,1
+"Taphozous",71,70,2
+"Taphozous",71,71,2
+"Taphozous",71,74,1
+"Taphozous",71,75,2
+"Taphozous",71,76,2
+"Taphozous",71,81,1
+"Taphozous",71,82,2
+"Taphozous",71,83,2
+"Taphozous",71,84,2
+"Taphozous",71,85,2
+"Taphozous",71,86,2
+"Taphozous",71,88,1
+"Taphozous",71,89,2
 "Talaud Fruit Bat",57,130,2
+"Javan Tailless Fruit Bat",46,24,2
+"Temminck's Tailless Fruit Bat",46,25,2
+"Himalayan Tahr",64,19,1
 "Takin",64,41,2
+"taxicolor",64,41,2
+"taurinus",64,82,1
+"tatarica",66,38,1
 "Taurotragus",63,53,1
+"Taurotragus",63,54,1
+"Taurotragus",63,55,2
+"taurus",63,72,2
 "Taruca",63,159,2
+"tarandus",63,165,2
+"Tasmacetus",75,119,2
 "Tayassuidae",72,36,2
+"Tayassu",72,38,1
+"tajacu",72,40,2
 "Tapirs",45,142,2
+"Tapiridae",45,142,2
+"Mountain Tapir",45,145,1
+"Tapirus",45,145,1
+"Lowland Tapir",45,146,2
+"Tapirus",45,146,2
+"Baird's Tapir",45,147,2
+"Tapirus",45,147,2
+"Asian Tapir",45,148,2
+"Tapirus",45,148,2
 "Tayra",49,62,2
+"taxus",49,86,2
+"Taxidea",49,86,2
+"tangalunga",51,44,2
 "Tarella Shrew",90,40,1
+"tarella",90,40,1
 "Taiwanese Gray Shrew",88,70,2
+"tanakae",88,70,2
+"tarfayensis",88,118,2
 "Tanzanian Shrew",88,171,2
+"tansaniana",88,171,2
 "Talamancan Small-eared Shrew",92,50,1
 "Taiwan Brown-toothed Shrew",91,9,1
+"Lesser Taiwanese Shrew",91,10,2
 "Taiwanese Mole Shrew",91,48,1
+"Talpidae",85,91,2
+"Talpa",85,121,1
+"Talpa",85,122,2
+"Talpa",85,123,2
+"Talpa",85,127,1
+"Talpa",85,128,2
+"Talpa",85,129,2
+"Talpa",85,130,2
+"Talpa",85,132,1
+"Talpa",85,133,2
+"talpoides",85,154,1
+"tatouay",0,18,2
 "Tamandua",0,61,1
+"Tamandua",0,62,1
+"Northern Tamandua",0,63,2
+"Tamandua",0,63,2
 "Taiva Shrew Tenrec",34,14,2
+"taiva",34,14,2
 "Talzac's Shrew Tenrec",34,16,2
+"talazaci",34,16,2
 "Tasmanian Pademelon",43,46,2
 "Tammar Wallaby",43,63,1
 "Tasmanian Bettong",43,125,1
 "Tate's Triok",43,184,1
+"tatei",43,184,1
+"Tarsipes",43,191,2
 "Talaud Bear Cuscus",44,28,1
 "Tasmanian Devil",84,22,2
+"tapoatafa",84,72,1
+"tatei",1,58,2
 "Tate's Woolly Mouse Opossum",1,136,2
+"Tachyglossidae",0,169,1
+"Tachyglossus",0,173,2

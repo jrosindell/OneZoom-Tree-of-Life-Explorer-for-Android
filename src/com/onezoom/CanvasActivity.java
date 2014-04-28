@@ -10,6 +10,7 @@ import com.onezoom.midnode.displayBinary.BinarySearch;
 import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Context;
+import android.content.res.Configuration;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -17,14 +18,10 @@ import android.view.MenuItem;
 import android.view.WindowManager;
 import android.widget.SearchView;
 import android.widget.SearchView.OnQueryTextListener;
+import android.widget.Toast;
 
 public class CanvasActivity extends Activity{
 	public TreeView treeView;
-	
-	public TreeView getTreeView() {
-		return treeView;
-	}
-
 	public static String selectedItem;
 	private String selectedString;
 	private MidNode fulltree;
@@ -34,13 +31,17 @@ public class CanvasActivity extends Activity{
 	private boolean threadStarted = false;
 	private boolean growing = false;
 	private BinarySearch searchEngine;
+	private int orientation;
+
 	private TreeMap<String, String> groupIndexMap;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
+		
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
 		searchEngine = new BinarySearch(this);
@@ -56,6 +57,10 @@ public class CanvasActivity extends Activity{
 		groupIndexMap.put("Squamates", "0");
 		retrieveData();
 	}
+	
+	public TreeView getTreeView() {
+		return treeView;
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -69,6 +74,8 @@ public class CanvasActivity extends Activity{
 	@Override
 	protected void onStart() {
 		super.onStart();
+		orientation = getResources().getConfiguration().orientation;
+		Log.d("orientation", "oror " + Integer.toString(orientation));
 //		
 //		//only start the activity once
 		if (started) return;
@@ -96,10 +103,15 @@ public class CanvasActivity extends Activity{
 
 	public void initialization() {
 		MidNode.setContext(this);
-		MidNode.setScreenSize(0, 0, 800, 1200);
-		PositionData.setScreenPosition(200, 900, 1f);
+		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
+			MidNode.setScreenSize(0, 0, 800, 1200);			
+			PositionData.setScreenPosition(235, 800, 1f);
+		} else {
+			MidNode.setScreenSize(0, 0, 1280, 640);
+			PositionData.setScreenPosition(500, 700, 1f);
+		}
+
 		fulltree = MidNode.createNode(groupIndexMap.get(selectedItem));
-		Log.d("debug", selectedItem);
 		fulltree.recalculate();
 		fulltree.init();
 		fulltree.outputInitElement();
@@ -108,6 +120,10 @@ public class CanvasActivity extends Activity{
 	
 	public void recalculate() {
 		memoryThread.recalculate();
+	}
+	
+	public void reset() {
+		memoryThread.reset();
 	}
 	
 	/**
@@ -187,7 +203,7 @@ public class CanvasActivity extends Activity{
 	private void resetTree() {
 		treeView.setDuringInteraction(false);
 		PositionData.setScreenPosition(200, 900, 1);
-		this.recalculate();
+		this.reset();
 	}
 
 	private void inflateSearchMenu(Menu menu) {
@@ -210,7 +226,7 @@ public class CanvasActivity extends Activity{
 			@Override
 			public boolean onQueryTextSubmit(String arg0) {
 				searchView.setQueryHint("Enter Species Name");
-				searchView.setQuery("", false);
+				searchView.setQuery(arg0, false);
 				searchView.clearFocus();
 //				Log.d("debug", "initialized files: " + MidNode.initializer.initialisedFile.get(0) + " " + MidNode.initializer.initialisedFile.size());
 				searchEngine.performSearch(arg0);
@@ -227,5 +243,13 @@ public class CanvasActivity extends Activity{
 	
 	private void inflateGrowMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.grow, menu);
+	}
+	
+	public int getOrientation() {
+		return orientation;
+	}
+
+	public void setOrientation(int orientation) {
+		this.orientation = orientation;
 	}
 }

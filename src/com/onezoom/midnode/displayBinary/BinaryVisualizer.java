@@ -48,6 +48,8 @@ public class BinaryVisualizer{
 	
 	
 	public void drawTree(Canvas canvas, MidNode midNode) {
+		Log.d("DRAWTREE",  midNode.positionData.xvar + " " + midNode.traitsCaculator.cname);
+		Log.d("DRAWTREE", "" + midNode.positionData.xp);
 		this.canvas = canvas;
 		drawElement(midNode);
 		if (drawSignPost) drawSignPost(midNode);
@@ -163,7 +165,7 @@ public class BinaryVisualizer{
 		float lineWidth = 2f * radius;
 		float lineHeight = 1.9f * radius;
 
-		String speciesInfo = (midNode.traitsCaculator.getCname() != null) ? midNode.traitsCaculator.getCname() : Integer
+		String speciesInfo = (!midNode.traitsCaculator.getCname().equals("null")) ? midNode.traitsCaculator.getCname() : Integer
 				.toString(midNode.traitsCaculator.getRichness()) + " species";
 		String[] circleDetailText = { Utility.geologicAge(midNode),
 				String.format("%.1f", midNode.traitsCaculator.getLengthbr()) + " million years ago",

@@ -93,9 +93,11 @@ public class BinarySearch {
 			String[] line;
 			reader.readNext();
 			while ((line = reader.readNext()) != null) {
-				if (line[0].toLowerCase().equals(arg)) {
+				if (line[0].toLowerCase().contains(arg.toLowerCase())) {
 					searchHit++;
-					searchResults.add(new Record(line));
+					Record newRecord = new Record(line);
+					if (!searchResults.contains(newRecord))
+						searchResults.add(new Record(line));
 				}
 			}
 			
@@ -130,5 +132,14 @@ class Record {
 	
 	public String toString() {
 		return string;
+	}
+
+	public boolean equals(Record another) {
+		if (this == another) return true;
+		if (another == null) return false;
+		if (this.fileIndex == another.fileIndex
+				&& this.index == another.index)
+			return true;
+		return false;
 	}
 }

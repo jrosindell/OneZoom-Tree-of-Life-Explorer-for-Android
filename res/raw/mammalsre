@@ -1,63 +1,164 @@
 name,fileindex,index,whichChild
 "Red-bellied Protochromys",13,35,1
+"rex",13,69,2
 "Red Rock Rat",11,199,2
+"rex",11,214,2
 "Reddish-furred Taeromys",18,37,2
+"rex",12,38,2
 "Red-nosed Mouse",23,146,2
 "Red Hocicudo",23,172,1
 "Red Arboreal Rice Rat",27,90,2
+"rex",27,107,2
 "Reithrodon",21,52,1
+"Reithrodon",21,53,1
+"Reithrodon",21,54,2
+"Reithrodontomys",21,163,2
+"Reithrodontomys",21,168,1
+"Reithrodontomys",21,169,2
+"Reithrodontomys",21,170,2
+"Reithrodontomys",21,173,1
+"Reithrodontomys",21,174,2
+"Reithrodontomys",21,175,2
+"Reithrodontomys",21,179,1
+"Reithrodontomys",21,180,2
+"Reithrodontomys",21,181,2
+"Reithrodontomys",21,182,2
+"Reithrodontomys",21,189,1
+"Reithrodontomys",21,190,2
+"Reithrodontomys",21,191,2
+"Reithrodontomys",21,192,2
+"Reithrodontomys",21,193,2
+"Reithrodontomys",21,196,1
+"Reithrodontomys",21,197,2
+"Reithrodontomys",21,198,2
+"Reithrodontomys",21,200,1
+"Reithrodontomys",21,201,2
 "Reed Vole",5,50,2
 "Red Tree Vole",6,18,1
+"California Red Tree Mouse",6,20,2
+"Kachin Red-backed Vole",7,12,1
+"Yunnan Red-backed Vole",7,14,2
+"Sichuan Red-backed Vole",7,16,1
+"Ward's Red-backed Vole",7,17,2
+"Southern Red-backed Vole",7,18,2
+"regulus",7,18,2
+"Yulongxuen Red-backed Vole",7,20,1
+"Eva's Red-backed Vole",7,21,2
+"Southwest China Red-backed Vole",7,22,2
+"Shanxi Red-backed Vole",7,25,1
+"Inez's Red-backed Vole",7,26,2
+"Black-eared Red-backed Vole",7,27,2
+"Anderson's Red-backed Vole",7,30,1
+"Smith's Red-backed Vole",7,32,2
+"Grey Red-backed Vole",7,37,1
+"Hokkaido Red-backed Vole",7,38,2
+"rex",7,38,2
+"Western Red-backed Vole",7,39,2
 "Revillagigedo Island Red-backed Vole",7,41,1
+"Revillagigedo Island Red-backed Vole",7,41,1
+"Tien Shan Red-backed Vole",7,44,1
+"Northern Red-backed Vole",7,45,2
 "Red Forest Rats",4,90,1
+"Lowland Red Forest Rat",4,92,1
+"Lowland Red Forest Rat",4,93,2
+"Eastern Red Forest Rat",4,94,2
+"rex",4,158,2
 "Red-nosed Tree Rat",30,29,1
 "Red-rumped Agouti",33,12,1
 "Red Acouchi",33,29,2
 "Red-cheeked Flying Squirrel",80,29,2
 "Red And White Giant Flying Squirrel",77,19,1
+"Northern Amazon Red Squirrel",82,23,1
+"Southern Amazon Red Squirrel",82,24,2
+"Junin Red Squirrel",82,34,2
+"Eurasian Red Squirrel",82,36,2
 "Red-tailed Squirrel",82,45,2
 "Red Squirrel",82,69,2
 "Red-cheeked Squirrel",78,32,1
+"Asian Red-cheeked Squirrel",78,38,1
 "Red-hipped Squirrel",78,41,1
 "Red-throated Squirrel",78,42,2
 "Red-cheeked Ground Squirrel",79,22,1
+"relictus",79,27,1
 "Red-tailed Chipmunk",83,41,2
 "Red Bush Squirrel",81,10,2
+"Black And Red Bush Squirrel",81,17,1
 "Redness Tree Squirrel",81,41,2
 "Red-legged Sun Squirrel",81,51,1
+"Natal Red Rock Hare",76,112,1
+"Smith's Red Rock Hare",76,113,2
+"Jameson's Red Rock Hare",76,114,2
+"Chinese Red Pika",76,134,2
+"Turkestan Red Pika",76,139,1
 "Red-tailed Monkey",41,13,2
 "Red-eared Monkey",41,17,2
 "Red-shanked Douc Langur",40,80,2
 "Red Colobus Monkeys",40,86,1
 "Red-cheeked Gibbon",37,27,2
 "Red-chested Mustached Tamarin",38,50,2
+"regulus",42,15,2
 "Red Titi Monkey",42,31,2
 "Red-bellied Titi Monkey",42,42,2
 "Red-nosed Bearded Saki",42,53,2
 "Red-handed Howler Monkey",42,99,1
+"Colombian Red Howler Monkey",42,107,1
+"Guianan Red Howler Monkey",42,108,2
+"Bolivian Red Howler Monkey",42,109,2
 "Red Brown Lemur",36,11,1
 "Red-bellied Lemur",36,22,1
 "Red Ruffed Lemur",36,37,2
 "Red-tailed Sportive Lemur",36,44,2
 "Red Slender Loris",39,45,2
+"regulus",55,47,1
+"Pfeiffer's Red Bat",56,12,1
 "Red Bat",56,13,2
+"Jamaican Red Bat",56,15,2
+"Eastern Red Bat",56,18,1
+"Cinnamon Red Bat",56,19,2
+"Minor Red Bat",56,20,2
+"Big Red Bat",56,32,2
+"rendalli",56,82,2
 "Red Myotis",73,111,2
 "Recife Broad-nosed Bat",68,8,1
+"recifinus",68,8,1
 "Red Fruit Bat",67,50,2
+"redmani",69,37,2
+"rex",59,66,2
+"Little Red Flying Fox",57,85,1
 "Rennell Flying Fox",57,106,1
+"rennelli",57,106,1
+"relicta",70,65,1
 "Red Serow",64,57,2
 "Red Goral",64,60,1
 "Red-fronted Gazelle",66,30,1
 "Red-flanked Duiker",65,19,2
+"Natal Red Duiker",65,20,2
 "Redunca",63,29,2
+"Southern Reedbuck",63,31,1
+"Redunca",63,31,1
+"Bohor Reedbuck",63,32,2
+"redunca",63,32,2
+"Redunca",63,32,2
+"Mountain Reedbuck",63,33,2
+"Redunca",63,33,2
 "Red Deer",63,97,2
+"Southern Red Muntjac",63,126,2
 "Reeves' Muntjac",63,129,2
+"reevesi",63,129,2
+"Central American Red Brocket",63,142,1
 "Red Brocket",63,143,2
+"Dwarf Red Brocket",63,151,2
 "Reindeer",63,165,2
 "Red River Hog",72,24,1
 "Red Panda",47,34,2
 "Red Fox",47,168,2
 "Reddish-gray Musk Shrew",88,13,2
+"Greater Red Musk Shrew",88,104,2
+"Lesser Red Musk Shrew",93,15,2
+"religiosa",93,21,2
+"remyi",87,31,2
+"retusus",0,47,1
+"revoili",0,86,2
 "Red-legged Pademelon",43,44,1
 "Red-necked Pademelon",43,45,2
 "Red-necked Wallaby",43,60,1
@@ -66,4 +167,8 @@ name,fileindex,index,whichChild
 "Red-bellied Phascogale",84,26,2
 "Red-tailed Phascogale",84,73,2
 "Red-cheeked Dunnart",84,109,2
+"Amazonian Red-sided Opossum",1,99,1
+"Hooded Red-sided Opossum",1,100,2
+"Northern Red-sided Opossum",1,101,2
+"regina",1,139,1
 "Red Mouse Opossum",1,150,2

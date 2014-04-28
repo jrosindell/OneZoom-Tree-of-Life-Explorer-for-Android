@@ -8,6 +8,7 @@ name,fileindex,index,whichChild
 "Eastern Rat",10,86,2
 "Eastern Rainforest Grammomys",8,55,1
 "East African Pouched Mouse",8,174,1
+"Middle East Blind Mole Rat",2,25,1
 "Eastern Harvest Mouse",21,193,2
 "Eastern Woodrat",22,23,2
 "East European Vole",5,81,2
@@ -16,6 +17,7 @@ name,fileindex,index,whichChild
 "East African Mole Rat",4,145,1
 "East African Spring-hare",2,87,1
 "Eared Hutia",29,120,2
+"Little Earth Hutia",29,121,2
 "Eastern Gray Squirrel",82,43,1
 "Ear-spot Squirrel",77,84,2
 "Eastern Chipmunk",83,48,2
@@ -31,6 +33,7 @@ name,fileindex,index,whichChild
 "Eastern Long-eared Bat",56,41,2
 "Eastern Pipistrelle",56,53,2
 "Eastern Small-footed Myotis",74,69,2
+"Far Eastern Myotis",73,59,1
 "East Asian Free-tailed Bat",62,136,2
 "East-coast Free-tailed Bat",62,192,2
 "Eastern Sucker-footed Bat",45,67,2
@@ -40,6 +43,9 @@ name,fileindex,index,whichChild
 "Eastern Tube-nosed Bat",46,75,1
 "Eastern Spotted Skunk",52,32,1
 "East African Highland Shrew",88,36,2
+"Darien Small Eared Shrew",92,13,2
+"Nelson's Small Eared Shrew",92,42,2
+"Guatamalan Small Eared Shrew",92,46,1
 "Eastern Mole",85,149,2
 "Eastern Rock Elephant Shrew",0,88,1
 "Eastern Grey Kangaroo",43,75,2

@@ -10,6 +10,7 @@ import android.util.Log;
 
 public class MemoryThread extends Thread {
 	public static final int MSG_RECALCULATE = 0;
+	public static final int MSG_RESET = 3;
 	public static final int MSG_INITIALIZATION = 1;
 	public static final int MSG_IDLECALCULATION = 2;
 	
@@ -45,6 +46,10 @@ public class MemoryThread extends Thread {
 	public void recalculate() {
 		handler.sendEmptyMessage(MSG_RECALCULATE);
 	}
+
+	public void reset() {
+		handler.sendEmptyMessage(MSG_RESET);
+	}
 }
 
 
@@ -67,7 +72,19 @@ class MemoryHandler extends Handler {
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				clientActivity.treeView.setDuringRecalculation(true);
-				clientActivity.getTreeRoot().recalculateDynamic();					
+				clientActivity.getTreeRoot().recalculateDynamic();	
+//				Log.d("debug", "stack size after recalculate: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
+				clientActivity.treeView.setDuringRecalculation(false);
+				clientActivity.treeView.postInvalidate();
+				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
+					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
+			}
+			break;
+		case MemoryThread.MSG_RESET:
+			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
+				clientActivity.treeView.setDuringRecalculation(true);
+				//TODO: change graphref such that the view won't jump
+				clientActivity.getTreeRoot().recalculate();	
 //				Log.d("debug", "stack size after recalculate: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
 				clientActivity.treeView.setDuringRecalculation(false);
 				clientActivity.treeView.postInvalidate();

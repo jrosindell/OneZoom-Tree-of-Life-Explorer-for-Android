@@ -79,6 +79,7 @@ public abstract class MidNode implements Comparable<MidNode>{
 	
 	public void recalculate() {
 		positionCalculator.recalculate(this, positionData.xp, positionData.yp, positionData.ws);
+		this.positionCalculator.reanchor(this);
 	}
 	
 	public void init() {

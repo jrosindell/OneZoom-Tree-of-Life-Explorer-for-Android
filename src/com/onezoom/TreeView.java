@@ -3,6 +3,7 @@ package com.onezoom;
 import com.onezoom.midnode.PositionData;
 
 import android.content.Context;
+import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -14,6 +15,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
+import android.widget.ImageView;
 
 public class TreeView extends View {
 	private CanvasActivity client;
@@ -49,9 +51,10 @@ public class TreeView extends View {
 		client = (CanvasActivity) context;
 		gestureDetector = new GestureDetector(context, new GestureListener(this));
 		scaleDetector = new ScaleGestureDetector(context, new ScaleListener(this));
-		cachedBitmap = Bitmap.createBitmap(720,1280, Bitmap.Config.ARGB_8888);
+		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); //this will not be used. set to 1,1 to speed up the app
 		paint = new Paint();
 	}
+
 
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
@@ -89,27 +92,24 @@ public class TreeView extends View {
 			} else {
 				canvas.translate(distanceX, distanceY);
 				canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
-				canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, 720,
-						1280), paint);
+				canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
 			}
 		}
 	}
 	
-	private void drawElementAndCache(Canvas canvas) {
-		
+	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
 			canvas.translate(distanceX, distanceY);
 			canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
-			canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, 720,
-					1280), paint);
+			canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
 			this.scaleX = 1;
 			this.scaleY = 1;
 			this.distanceX = 0;
 			this.distanceY = 0;
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
-				client.getTreeRoot().drawElement(canvas);				
+			client.getTreeRoot().drawElement(canvas);				
 			toggle = !toggle;
 		}
 		duringInteraction = true;
@@ -120,7 +120,7 @@ public class TreeView extends View {
 		if (v == null) {
 			return null;
 		}
-		Bitmap bitmap = Bitmap.createBitmap(720,1280, Bitmap.Config.ARGB_8888);
+		Bitmap bitmap = Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
 		Canvas c = new Canvas(bitmap);
 		c.translate(-v.getScrollX(), -v.getScrollY());
 		v.draw(c);
@@ -228,5 +228,17 @@ public class TreeView extends View {
 		canvas.drawText(text, x, y, textPaint);		
 	}
 
-
+	private Bitmap createBitmapAccordingToOrientation() {
+		if (client.getOrientation() == Configuration.ORIENTATION_PORTRAIT)
+			return Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
+		else
+			return Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
+	}
+	
+	private void drawBitmapAccordingToOrientation(Canvas canvas, Paint paint, Bitmap bitmap) {
+		if (client.getOrientation() == Configuration.ORIENTATION_PORTRAIT)
+			canvas.drawBitmap(bitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+		else
+			canvas.drawBitmap(bitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+	}
 }

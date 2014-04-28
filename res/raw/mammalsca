@@ -1,96 +1,452 @@
 name,fileindex,index,whichChild
 "Cape York Melomys",13,22,2
+"capensis",13,22,2
+"Bramble Cay Melomys",13,28,1
+"caurinus",13,44,2
+"caudimaculatus",13,65,1
+"calabyi",13,109,1
 "Cameroon Praomys",8,16,2
 "Cairo Spiny Mouse",11,20,2
+"cahirinus",11,20,2
 "Cape Spiny Mouse",11,41,1
 "Cameron Highlands Niviventer",11,105,2
+"cameroni",11,105,2
 "Callewaert's Mouse",11,143,2
+"callewaerti",11,143,2
+"caroli",11,158,2
+"campanae",11,207,1
 "Canefield Rat",10,61,2
 "Cape York Rat",10,98,2
+"calamianensis",9,85,1
+"canus",9,177,1
+"carillus",19,101,1
 "Cameroon Highland Hybomys",17,11,2
+"caniceps",8,43,1
+"canus",8,86,2
 "Carpomys",8,133,2
+"Large Luzon Carpomys",8,134,1
+"Carpomys",8,134,1
+"Small Luzon Carpomys",8,135,2
+"Carpomys",8,135,2
 "Cansdale's Swamp Rat",18,27,2
+"cansdalei",18,27,2
+"callitrichus",18,43,2
+"campestris",16,55,1
 "Cape Short-eared Gerbil",8,159,2
+"calurus",12,42,2
 "Cape Gerbil",12,69,2
+"campestris",8,175,2
+"Calomyscidae",2,29,2
+"Calomyscus",2,33,1
+"Calomyscus",2,34,2
+"Calomyscus",2,35,2
+"Calomyscus",2,38,1
+"Noble Calomyscus",2,39,2
+"Calomyscus",2,39,2
+"Syrian Calomyscus",2,40,2
+"Calomyscus",2,40,2
+"Calomyscus",2,42,1
+"Urar Calomyscus",2,43,2
+"Calomyscus",2,43,2
+"caudivarius",24,8,2
+"Calomys",23,125,1
+"Calomys",23,130,1
+"Calomys",23,131,2
+"Calomys",23,132,2
+"Calomys",23,135,1
+"Calomys",23,136,2
+"Calomys",23,137,2
+"Calomys",23,139,1
+"callidus",23,140,2
+"Calomys",23,140,2
+"Calomys",23,143,1
+"Calomys",23,144,2
+"callosus",23,145,2
+"Calomys",23,145,2
+"caliginosus",23,189,2
+"caracolus",27,45,2
+"catherinae",27,100,2
 "Cane Mice",27,112,1
+"Short-tailed Cane Mouse",27,113,1
+"Brown Cane Mouse",27,114,2
 "Candango Mouse",21,43,2
+"candango",21,43,2
 "Capricorn Leaf-eared Mouse",26,12,1
+"caprinus",26,12,1
 "Cauca Climbing Mouse",28,11,2
+"caucensis",28,11,2
+"El Carrizo Deer Mouse",25,29,2
 "California Mouse",25,37,2
+"californicus",25,37,2
 "Cactus Mouse",25,49,2
+"caniceps",25,65,1
 "Canyon Mouse",25,66,2
 "Catalina Deer Mouse",25,84,2
 "Caucasus Pine Vole",5,22,2
 "Calabria Pine Vole",5,27,1
 "Cabrera's Vole",5,89,1
+"cabrerae",5,89,1
+"californicus",5,102,2
+"canicaudus",5,105,1
 "Caucasian Snow Vole",4,28,2
 "California Red Tree Mouse",6,20,2
+"cachinus",7,12,1
+"Caryomys",7,21,2
+"Caryomys",7,26,2
+"californicus",7,39,2
 "Campbell's Hamster",4,132,1
+"campbelli",4,132,1
+"canus",4,136,2
+"Cansumys",4,136,2
+"Cannomys",4,169,2
 "Cameroon Climbing Mouse",4,175,2
+"caurinus",4,205,1
+"caudata",3,25,2
 "Caucasian Birch Mouse",3,30,2
+"caucasica",3,30,2
+"Cardiocranius",3,53,2
 "Cameroon Scaly-tail",2,85,2
+"capensis",2,88,2
+"CASTORIMORPHA",2,89,2
 "Caribbean Spiny Pocket Mouse",20,19,2
+"castanops",20,31,1
+"cavator",20,60,2
 "Camas Pocket Gopher",2,117,2
 "California Pocket Mouse",31,25,2
+"californicus",31,25,2
 "California Kangaroo Rat",31,72,1
+"californicus",31,72,1
+"Castoridae",2,123,2
+"canadensis",2,124,1
+"Castor",2,124,1
+"Castor",2,125,2
+"Callistomys",30,21,2
+"caniceps",30,35,1
+"canicollis",29,54,2
+"Carterodon",29,59,2
 "Cayenne Spiny Rat",29,93,2
+"Capromyidae",29,98,2
 "Capromys",29,113,2
+"Capromys",29,114,1
+"Capromys",29,115,2
 "Cabrera's Hutia",29,119,1
 "Cape Dune Mole Rat",29,149,2
 "Cape Mole Rat",29,150,2
+"capensis",29,150,2
+"Guinea Pigs and Cavys",29,153,2
+"Shipton's Mountain Cavy",29,159,1
+"Andean Mountain Cavy",29,160,2
+"Southern Mountain Cavy",29,161,2
+"Cavia",29,164,1
+"Cavia",29,165,2
+"Cavia",29,166,2
+"Spix's Yellow-toothed Cavy",29,170,1
+"Yellow-toothed Cavy",29,171,2
+"Common Yellow-toothed Cavy",29,172,2
+"Cavia",29,173,2
+"Cavia",29,174,2
+"Rock Cavy",29,175,2
 "Cape Porcupine",29,191,1
 "Capybaras",2,143,2
+"Lesser Capybara",2,144,1
 "Capybara",2,145,2
+"Greater Cane Rat",33,31,1
+"Lesser Cane Rat",33,32,2
+"Patagonian Cavy",33,63,1
 "Catamarca Tuco-tuco",32,57,1
 "Carolina Flying Squirrel",80,46,1
+"carolinensis",82,43,1
 "Caucasian Squirrel",82,48,2
 "Cambodian Striped Squirrel",78,46,1
+"Callosciurus",77,81,1
+"caniceps",77,82,2
+"Callosciurus",77,82,2
+"Callosciurus",77,83,2
+"Callosciurus",77,84,2
+"Callosciurus",77,85,2
+"Callosciurus",77,86,2
+"Callosciurus",77,87,2
+"Callosciurus",77,88,2
+"Callosciurus",77,89,2
+"Callosciurus",77,90,2
+"Callosciurus",77,91,2
+"Callosciurus",77,117,1
+"Callosciurus",77,118,2
+"Callosciurus",77,119,2
 "Caucasian Mountain Ground Squirrel",79,34,1
 "California Ground Squirrel",79,43,2
+"Baja California Rock Squirrel",79,62,2
+"canus",79,74,2
 "Cascade Golden-mantled Ground Squirrel",79,77,2
+"camtschatica",79,91,1
+"caudata",79,99,2
+"caligata",79,108,2
+"canipes",83,22,1
 "California Chipmunk",83,34,1
 "Carruther's Mountain Squirrel",81,34,1
+"carruthersi",81,34,1
+"castroviejoi",76,33,2
+"callotis",76,41,2
+"californicus",76,44,1
 "Cape Hare",76,54,2
+"capensis",76,54,2
+"Caprolagus",76,73,2
+"cansus",76,165,2
 "Campbell's Monkey",41,36,1
+"campbelli",41,36,1
 "Capped Langur",40,23,2
+"Callithrix",38,6,1
+"Callithrix",38,10,1
+"Callithrix",38,11,2
+"Callithrix",38,13,1
+"Callithrix",38,14,2
+"Callithrix",38,16,1
+"Callithrix",38,17,2
+"Callithrix",38,24,1
+"Callithrix",38,25,2
+"Callithrix",38,26,2
+"Callithrix",38,27,2
+"Callithrix",38,28,2
+"Callithrix",38,30,1
+"Callithrix",38,31,2
+"Callithrix",38,32,2
+"Callimico",38,33,2
+"caissara",38,37,1
+"Callicebus",38,79,1
+"Callicebus",38,80,2
+"Callicebus",38,81,2
+"Callicebus",38,82,2
 "Capuchins",38,87,1
+"Buff-headed Capuchin",38,91,1
+"Black-horned Capuchin",38,92,2
+"Guianan/margarita Island Brown Capuchin",38,93,2
+"Bearded Capuchin",38,94,2
+"White-throated Capuchin",38,97,1
+"capucinus",38,97,1
+"White-fronted Capuchin",38,98,2
+"Weeper Capuchin",38,99,2
+"Callicebus",42,9,1
+"Callicebus",42,10,2
+"Callicebus",42,12,1
+"Callicebus",42,13,2
+"Callicebus",42,14,2
+"Callicebus",42,15,2
+"Callicebus",42,19,1
+"Callicebus",42,20,2
+"Callicebus",42,22,1
+"Callicebus",42,23,2
+"Callicebus",42,24,2
+"Callicebus",42,29,1
+"Callicebus",42,30,2
+"Callicebus",42,31,2
+"caligatus",42,32,2
+"Callicebus",42,32,2
+"Callicebus",42,33,2
+"Callicebus",42,37,1
+"Callicebus",42,38,2
+"Callicebus",42,39,2
+"Callicebus",42,41,1
+"Callicebus",42,42,2
 "Cacajao",42,54,2
+"Cacajao",42,55,1
+"calvus",42,56,2
+"Cacajao",42,56,2
+"cana",42,72,1
+"caraya",42,111,1
+"catta",36,25,2
+"cameronensis",39,25,1
 "Calabar Angwantibo",39,48,1
+"calabarensis",39,48,1
 "Calamian Treeshrew",35,174,1
 "Carnivorans, Bats, Hedgehogs and more",0,8,2
+"Finlayson's Cave Bat",55,38,1
+"Eastern Cave Bat",55,39,2
+"Northern Cave Bat",55,42,2
+"caurinus",55,42,2
+"Yellow-lipped Cave Bat",55,44,2
+"New Caledonia Wattled Bat",53,92,1
 "Canary Big-eared Bat",53,131,2
+"cadornae",53,200,2
+"castaneus",56,24,2
+"capensis",56,70,2
 "California Myotis",74,70,2
+"californicus",74,70,2
 "Cave Myotis",74,79,2
+"Kashmir Cave Bat",73,16,2
+"capaccinii",73,22,2
 "Cape Hairy Bat",73,72,2
+"caraccioli",68,22,2
+"Carollia",67,86,1
+"Carollia",67,88,1
+"Carollia",67,89,2
+"castanea",67,91,1
+"Carollia",67,91,1
+"Carollia",67,92,2
+"caudifer",69,22,2
+"cavernarum",67,126,1
 "Carriker's Round-eared Bat",67,156,1
+"carrikeri",67,156,1
 "California Leaf-nosed Bat",67,193,2
+"californicus",67,193,2
+"camerunensis",61,39,1
 "Cantor's Leaf-nosed Bat",58,39,1
+"caffer",58,43,1
+"calcaratus",58,64,2
 "Cape Horseshoe Bat",59,15,2
+"capensis",59,15,2
 "Canut's Horseshoe Bat",60,15,2
+"canuti",60,15,2
+"Cardioderma",45,78,1
+"canescens",71,26,2
+"New Caledonia Flying Fox",57,47,1
+"caniceps",57,63,1
+"capistratus",57,116,2
+"New Caledonia Blossom Bat",45,104,1
+"carolinae",45,108,1
+"Casinycteris",70,39,2
+"cartilagonodus",46,43,2
+"Capra",64,12,1
+"Capra",64,13,2
+"Capra",64,15,1
+"Capra",64,16,2
+"Capra",64,24,1
+"Capra",64,25,2
+"Capra",64,26,2
+"caucasica",64,27,2
+"Capra",64,27,2
+"canadensis",64,37,2
+"Capricornis",64,54,1
+"Capricornis",64,55,2
+"Capricornis",64,56,2
+"Capricornis",64,57,2
+"caudatus",64,65,1
+"Capricornis",64,67,2
+"Capricornis",64,68,2
+"caama",64,87,2
+"callipygus",65,27,2
+"campestris",65,43,2
 "Cape Grysbok",65,44,2
+"capreolus",63,34,2
+"caffer",63,84,2
 "Calamanian Deer",63,112,1
+"calamianensis",63,112,1
 "Capreolus",63,168,1
+"capreolus",63,169,1
+"Capreolus",63,169,1
+"Capreolus",63,170,2
+"camelopardalis",63,190,1
+"capensis",75,24,2
+"cavirostris",75,131,1
+"carlhubbsi",75,132,2
+"catodon",75,140,2
+"Caperea",75,165,2
+"Catagonus",72,39,2
 "Camelidae",45,124,2
 "Camels",45,125,1
+"Camelus",45,125,1
+"Bactrian Camel",45,126,1
+"Camelus",45,126,1
+"Camelus",45,127,2
+"caballus",45,161,2
 "Carnivorans",47,0,1
+"CARNIVORA",47,0,1
+"CANIFORMIA",47,1,1
+"capensis",49,73,2
+"canadensis",52,11,2
+"capensis",52,26,2
+"cancrivorus",47,12,1
 "Cacomistle",47,21,1
 "Californian Sea Lion",47,64,1
+"californianus",47,64,1
+"Callorhinus",47,67,2
 "Caspian Seal",47,79,2
+"caspica",47,79,2
+"carcinophaga",47,93,1
+"Canidae",47,119,2
 "Canis",47,124,1
+"Canis",47,127,1
+"Canis",47,128,2
+"Canis",47,129,2
+"Canis",47,132,1
+"Canis",47,133,2
+"Canis",47,134,2
+"cana",47,175,1
 "Cape Fox",47,180,2
 "Cameroon Cusimanse",50,11,1
+"Big cats",48,9,1
+"Marbled Cat",48,20,2
 "Canada Lynx",48,24,1
+"canadensis",48,24,1
 "Catopuma",48,29,1
+"Asiatic golden cat",48,30,1
+"Catopuma",48,30,1
+"Bornean cat",48,31,2
+"Catopuma",48,31,2
+"African golden cat",48,32,2
+"Pantanal cat",48,38,1
+"Pampas cat",48,39,2
+"Andean mountain cat",48,41,2
+"Chilean Cat",48,44,1
+"Geoffroy's Cat",48,46,2
+"Black-footed Cat",48,56,1
+"Sand Cat",48,57,2
+"Wild Cat",48,59,1
+"catus",48,60,2
+"Jungle Cat",48,62,1
 "Caracal",48,65,2
+"caracal",48,65,2
+"Caracal",48,65,2
+"Leopard Cat",48,71,1
+"Fishing Cat",48,73,2
+"Rusty-spotted Cat",48,74,2
+"Flat-headed Cat",48,75,2
 "Caspian Shrew",88,18,2
+"caspica",88,18,2
 "Cameroonian Shrew",88,43,2
+"caliginea",88,123,2
 "Canarian Shrew",88,147,1
+"canariensis",88,147,1
+"camerunensis",87,60,2
+"cafer",85,34,1
 "Caucasian Shrew",86,21,2
+"caecutiens",86,34,1
 "Caucasian Pygmy Shrew",86,47,1
+"carolinensis",92,55,1
+"caudatus",91,13,1
+"caeca",85,129,2
 "Caucasian Mole",85,132,1
+"caucasica",85,132,1
+"Cabassous",0,15,1
+"Cabassous",0,17,1
+"Cabassous",0,18,2
+"Cabassous",0,20,1
 "Cabasu",0,21,2
+"Cabassous",0,21,2
+"Calyptophractus",0,47,1
+"Calcochloris",34,64,2
 "Cape Golden Mole",34,69,2
+"Calcochloris",34,75,1
+"Carpitalpa",34,76,2
+"Calcochloris",34,77,2
 "Cape Elephant Shrew",0,89,2
+"capensis",0,107,2
+"caroli",43,142,2
+"canescens",43,147,1
+"carmelitae",44,14,1
+"caninus",44,38,2
+"caudatus",43,200,2
 "Carpentarian Pseudantechinus",84,35,2
+"calura",84,73,2
+"caurinus",84,129,1
 "Caenolestes",0,161,1
+"caniventer",0,163,1
+"Caenolestes",0,163,1
+"Caenolestes",0,164,2
+"Caenolestes",0,165,2
+"Chilean Caenolestid",0,166,2
+"canescens",1,156,2
 "Caluromys",1,160,1
+"Caluromys",1,162,1
+"Caluromys",1,163,2
+"Caluromys",1,164,2
+"Caluromysiops",1,165,2
