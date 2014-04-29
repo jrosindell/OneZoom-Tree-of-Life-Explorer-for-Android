@@ -253,7 +253,7 @@ public class TreeView extends View {
 		textPaint.setTextAlign(Align.CENTER);
 		textPaint.setTextSize(35 * CanvasActivity.getScaleFactor());
 		int x = getWidth()/2;
-		int y = getHeight() - 100;
+		int y = (int) (getHeight() - 100 * CanvasActivity.getScaleFactor());
 		canvas.drawText(text, x, y, textPaint);		
 	}
 }

@@ -278,11 +278,17 @@ public class BinaryVisualizer{
 		float lineSpace = lineHeight / (split.length + 1);
 		float minTextSize = 9999f;
 		float tempTextSize;
+		float factor;
+		if (split.length <= 2) factor = 1.7f;
+		else if (split.length == 3) factor = 1.5f;
+		else if (split.length == 4) factor = 1.2f;
+		else factor = 1.0f;
 		for (String string : split) {
-			tempTextSize = 1.7f * lineWidth / string.length();
+			tempTextSize = factor * lineWidth / string.length();
 			if (minTextSize > tempTextSize)
 				minTextSize = tempTextSize;
 		}
+		minTextSize = Math.max(minTextSize, lineSpace / 4);
 		for (String string : split) {
 			drawTextOneLine(string, startX, startY, minTextSize, true, textPaint);
 			startY += lineSpace;

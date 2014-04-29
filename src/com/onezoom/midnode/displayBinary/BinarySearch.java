@@ -31,7 +31,7 @@ public class BinarySearch {
 	
 	public void performSearch(String userInput) {
 		if (userInput.length() < 3) {
-			Toast.makeText(client, "name too short", Toast.LENGTH_LONG).show();
+			Toast.makeText(client, "name too short", Toast.LENGTH_SHORT).show();
 		} else if (userInput.equals(previousSearch)) {
 			currentHit = (currentHit + 1) % searchHit;
 			processAndShowSearchResult();
@@ -50,9 +50,9 @@ public class BinarySearch {
 	private void processAndShowSearchResult() {
 		if (searchHit > 0) {
 			process(searchResults.get(currentHit));
-			Toast.makeText(client, searchResult(currentHit, searchHit), Toast.LENGTH_LONG).show();	
+			Toast.makeText(client, searchResult(currentHit, searchHit), Toast.LENGTH_SHORT).show();	
 		} else {
-			Toast.makeText(client, "No Result", Toast.LENGTH_LONG).show();
+			Toast.makeText(client, "No Result", Toast.LENGTH_SHORT).show();
 		}
 	}
 	
