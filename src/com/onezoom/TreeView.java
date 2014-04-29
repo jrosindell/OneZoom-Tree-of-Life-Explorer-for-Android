@@ -240,7 +240,7 @@ public class TreeView extends View {
 		Paint textPaint = new Paint();
 		textPaint.setColor(Color.GREEN);
 		textPaint.setTextAlign(Align.CENTER);
-		textPaint.setTextSize(100);
+		textPaint.setTextSize(100 * CanvasActivity.getScaleFactor());
 		int x = getWidth()/2;
 		int y = getHeight()/2;
 		canvas.drawText(text, x, y, textPaint);		
@@ -251,7 +251,7 @@ public class TreeView extends View {
 		Paint textPaint = new Paint();
 		textPaint.setColor(Color.BLACK);
 		textPaint.setTextAlign(Align.CENTER);
-		textPaint.setTextSize(35);
+		textPaint.setTextSize(35 * CanvasActivity.getScaleFactor());
 		int x = getWidth()/2;
 		int y = getHeight() - 100;
 		canvas.drawText(text, x, y, textPaint);		

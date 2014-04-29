@@ -21,30 +21,16 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int close=0x7f020000;
-        public static final int closecolor=0x7f020001;
-        public static final int grow_close=0x7f020002;
-        public static final int grow_icon=0x7f020003;
-        public static final int grow_pause=0x7f020004;
-        public static final int grow_play=0x7f020005;
-        public static final int grow_revert=0x7f020006;
-        public static final int grow_stop=0x7f020007;
-        public static final int growcolor=0x7f020008;
-        public static final int ic_action_pause=0x7f020009;
-        public static final int ic_action_play=0x7f02000a;
-        public static final int ic_action_stop=0x7f02000b;
-        public static final int ic_launcher=0x7f02000c;
-        public static final int onezoom=0x7f02000d;
-        public static final int pause=0x7f02000e;
-        public static final int pausecolor=0x7f02000f;
-        public static final int play=0x7f020010;
-        public static final int playcolor=0x7f020011;
-        public static final int reset=0x7f020012;
-        public static final int revertcolor=0x7f020013;
-        public static final int search_icon=0x7f020014;
-        public static final int searchcolor=0x7f020015;
-        public static final int stop=0x7f020016;
-        public static final int stopcolor=0x7f020017;
+        public static final int closecolor=0x7f020000;
+        public static final int growcolor=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
+        public static final int onezoom=0x7f020003;
+        public static final int pausecolor=0x7f020004;
+        public static final int playcolor=0x7f020005;
+        public static final int reset=0x7f020006;
+        public static final int revertcolor=0x7f020007;
+        public static final int searchcolor=0x7f020008;
+        public static final int stopcolor=0x7f020009;
     }
     public static final class id {
         public static final int action_settings=0x7f090007;

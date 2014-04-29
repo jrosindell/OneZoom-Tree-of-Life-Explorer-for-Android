@@ -8,6 +8,7 @@ import java.util.Locale;
 
 import org.apache.commons.lang3.StringUtils;
 
+import android.util.Log;
 import android.widget.Toast;
 import au.com.bytecode.opencsv.CSVReader;
 
@@ -29,6 +30,7 @@ public class BinarySearch {
 	}
 	
 	public void performSearch(String userInput) {
+		Log.d("DEBUG", "size ->" + client.getTreeRoot().traitsCaculator.richness_val);
 		if (userInput.length() < 3) {
 			Toast.makeText(client, "name too short", Toast.LENGTH_LONG).show();
 		} else if (userInput.equals(previousSearch)) {

@@ -1,5 +1,7 @@
 package com.onezoom.midnode;
 
+import com.onezoom.CanvasActivity;
+
 
 public class PositionData implements Comparable<PositionData>{
 	public float bezsx, bezsy, bezex, bezey, bezc1x, bezc1y, bezc2x, bezc2y, bezr;
@@ -60,7 +62,7 @@ public class PositionData implements Comparable<PositionData>{
 	}
 	
 	public String toString() {
-		return Boolean.toString(dvar) + " " + Boolean.toString(gvar) + " ";
+		return Float.toString(xp) + " " + Float.toString(yp) + " ";
 	}
 
 	public static float getXp() {
@@ -86,6 +88,9 @@ public class PositionData implements Comparable<PositionData>{
 	}
 
 	public static void moveNodeToCenter(MidNode searchedNode) {
-		PositionData.shiftScreenPosition(-220 * searchedNode.positionData.arcx, -220 * searchedNode.positionData.arcy, 1f);	
+		PositionData.shiftScreenPosition(
+				-220 * searchedNode.positionData.arcx * CanvasActivity.getScaleFactor(), 
+				-220 * searchedNode.positionData.arcy * CanvasActivity.getScaleFactor(),
+				1f);	
 	}
 }

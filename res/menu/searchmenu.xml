@@ -4,7 +4,7 @@
         android:id = "@+id/search"
         android:title = "@string/search_hint"
         android:icon = "@drawable/searchcolor"
-        android:showAsAction="collapseActionView|ifRoom"
+        android:showAsAction="always"
         android:actionViewClass="android.widget.SearchView" /> 
         
      <item

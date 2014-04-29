@@ -12,6 +12,7 @@ import java.util.Stack;
 import junit.framework.Assert;
 import android.content.Context;
 import android.graphics.Color;
+import android.util.Log;
 import android.util.Pair;
 import au.com.bytecode.opencsv.CSVReader;
 

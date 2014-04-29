@@ -12,6 +12,7 @@ import android.app.SearchManager;
 import android.content.Context;
 import android.content.res.Configuration;
 import android.os.Bundle;
+import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -30,6 +31,9 @@ public class CanvasActivity extends Activity{
 	private boolean growing = false;
 	private BinarySearch searchEngine;
 	private int orientation;
+	private int screenHeight;
+	private int screenWidth;
+	private static float scaleFactor;
 
 	private TreeMap<String, String> groupIndexMap;
 	
@@ -39,7 +43,7 @@ public class CanvasActivity extends Activity{
 		
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
-	
+
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
 		searchEngine = new BinarySearch(this);
@@ -52,14 +56,17 @@ public class CanvasActivity extends Activity{
 		
 		selectedItem = getIntent().getExtras().getString(
 				"com.onezoom.selectedTree");
+		
+		getDeviceScreenSize();
 	}
-	
+
 	public TreeView getTreeView() {
 		return treeView;
 	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
+	    getActionBar().setDisplayShowTitleEnabled(false);
 		getActionBar().setDisplayHomeAsUpEnabled(false);
 		if (growing) inflateGrowMenu(menu);
 		else inflateSearchMenu(menu);    
@@ -71,7 +78,6 @@ public class CanvasActivity extends Activity{
 	protected void onStart() {
 		super.onStart();
 		orientation = getResources().getConfiguration().orientation;
-		Log.d("orientation", "oror " + Integer.toString(orientation));
 //		
 //		//only start the activity once
 		if (started) return;
@@ -180,7 +186,6 @@ public class CanvasActivity extends Activity{
 				.getSearchableInfo(getComponentName()));
 		searchView.setIconifiedByDefault(true);
 		MenuItem searchMenuItem = (MenuItem) menu.findItem(R.id.search);
-		searchMenuItem.expandActionView();
 		searchView.setQueryHint("Enter Species Name");
 		searchView.clearFocus();
 		
@@ -190,7 +195,6 @@ public class CanvasActivity extends Activity{
 				searchView.setQueryHint("Enter Species Name");
 				searchView.setQuery(arg0, false);
 				searchView.clearFocus();
-//				Log.d("debug", "initialized files: " + MidNode.initializer.initialisedFile.get(0) + " " + MidNode.initializer.initialisedFile.size());
 				searchEngine.performSearch(arg0);
 				getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 				return false;
@@ -215,23 +219,39 @@ public class CanvasActivity extends Activity{
 		this.orientation = orientation;
 	}
 	
-	private void setScreenSize() {
-		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
-			MidNode.setScreenSize(0, 0, 800, 1200);			
-		} else {
-			MidNode.setScreenSize(0, 0, 1280, 640);
-		}
+	private void getDeviceScreenSize() {
+		DisplayMetrics displaymetrics = new DisplayMetrics();
+		getWindowManager().getDefaultDisplay().getMetrics(displaymetrics);
+		screenHeight = displaymetrics.heightPixels;
+		screenWidth = displaymetrics.widthPixels;		
+		scaleFactor = Math.min(screenHeight, screenWidth) / 720f;
 	}
 	
+	private void setScreenSize() {
+		MidNode.setScreenSize(0, 0, screenWidth, screenHeight - 140);
+	}
+	
+	public int getScreenHeight() {
+		return screenHeight;
+	}
+
+	public static float getScaleFactor() {
+		return scaleFactor;
+	}
+
+	public int getScreenWidth() {
+		return screenWidth;
+	}
+
 	private void resetScreenPosition() {
 		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
-			PositionData.setScreenPosition(255, 800, 0.75f);
+			PositionData.setScreenPosition(265f * scaleFactor, 800f * scaleFactor, 0.73f * scaleFactor);
 		} else {
-			PositionData.setScreenPosition(500, 545, 0.73f);
+			PositionData.setScreenPosition(500f * scaleFactor, 545f * scaleFactor, 0.73f * scaleFactor);
 		}
 	}
 	
 	public void setPositionToMoveNodeCenter() {
-		PositionData.setScreenPosition(treeView.getWidth()/2, treeView.getHeight()/2, 1);
+		PositionData.setScreenPosition(treeView.getWidth()/2, treeView.getHeight()/2, 1f * scaleFactor);
 	}
 }
