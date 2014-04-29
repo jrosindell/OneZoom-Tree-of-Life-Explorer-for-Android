@@ -192,10 +192,6 @@ public class BinaryInitializer {
 			buildConnection(interiorNode.child1);
 		} else {
 			MidNode child1 = leafHash.get(child1Id);
-			if (child1 == null) {
-				Log.d("debug", "size child 1 id -> " + child1Id);
-				Log.d("debug", "size of leaf hash -> " + leafHash.toString());
-			}
 			Assert.assertNotNull(child1);
 			interiorNode.child1 = child1;
 			child1.parent = interiorNode;
@@ -212,10 +208,6 @@ public class BinaryInitializer {
 			buildConnection(interiorNode.child2);
 		} else {
 			MidNode child2 = leafHash.get(child2Id);
-			if (child2 == null) {
-				Log.d("debug", "size child 2 id -> " + child2Id);
-				Log.d("debug", "size of leaf hash -> " + leafHash.size());
-			}
 			Assert.assertNotNull(child2);
 			interiorNode.child2 = child2;
 			child2.parent = interiorNode;
@@ -321,9 +313,8 @@ public class BinaryInitializer {
 				&& findFileAndIndexInfo(searchroot.child2Index)[1] == fileIndex) {
 			searchroot.child2 = createFollowingOneFile(searchroot, 2);
 			return searchroot.child2;
-		} else if (searchroot.child1 != null) {
+		} else if (searchroot.child1 != null && searchroot.child2 != null) {
 			search1 = initNewFile(searchroot.child1, fileIndex);
-		} else if (searchroot.child2 != null) {
 			search2 = initNewFile(searchroot.child2, fileIndex);
 		} else {
 			return null;
