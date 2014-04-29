@@ -37,9 +37,9 @@ public class BinaryInitializer {
 
 	public BinaryInitializer() {
 		fileConnection = new Hashtable<Integer, Integer>(1000);
-		fulltreeHash = new Hashtable<Integer, MidNode>(10000);
-		interiorHash = new Hashtable<Integer, InteriorNode>(200);
-		leafHash = new Hashtable<Integer, LeafNode>(200);
+		fulltreeHash = new Hashtable<Integer, MidNode>(20000);
+		interiorHash = new Hashtable<Integer, InteriorNode>(1000);
+		leafHash = new Hashtable<Integer, LeafNode>(1000);
 		listOfHeadNodeInNextFile = new LinkedList<Pair<Integer,MidNode>>();
 		stackOfNodeHasNonInitChildren = new PriorityQueue<MidNode>();
 	}
@@ -102,8 +102,6 @@ public class BinaryInitializer {
 	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
 		BinaryInitializer.fileIndex = Integer.parseInt(fileIndex);
-//		Log.d("debug", "file name: " + selectedGroup + "interior" + fileIndex);
-//		initialisedFile.add(BinaryInitializer.fileIndex);
 		int resourceInteriorID = canvasActivity.getResources().getIdentifier(selectedGroup + "interior" + fileIndex, "raw", canvasActivity.getPackageName());
 		InputStream isInterior = canvasActivity.getResources().openRawResource(resourceInteriorID);
 		int resourceLeafID = canvasActivity.getResources().getIdentifier(selectedGroup + "leaf" + fileIndex, "raw", canvasActivity.getPackageName());
@@ -194,6 +192,10 @@ public class BinaryInitializer {
 			buildConnection(interiorNode.child1);
 		} else {
 			MidNode child1 = leafHash.get(child1Id);
+			if (child1 == null) {
+				Log.d("debug", "size child 1 id -> " + child1Id);
+				Log.d("debug", "size of leaf hash -> " + leafHash.toString());
+			}
 			Assert.assertNotNull(child1);
 			interiorNode.child1 = child1;
 			child1.parent = interiorNode;
@@ -210,6 +212,10 @@ public class BinaryInitializer {
 			buildConnection(interiorNode.child2);
 		} else {
 			MidNode child2 = leafHash.get(child2Id);
+			if (child2 == null) {
+				Log.d("debug", "size child 2 id -> " + child2Id);
+				Log.d("debug", "size of leaf hash -> " + leafHash.size());
+			}
 			Assert.assertNotNull(child2);
 			interiorNode.child2 = child2;
 			child2.parent = interiorNode;
