@@ -1,91 +1,885 @@
 name,fileindex,index,whichChild
+"trifasciatus",126,16,1
+"Trichothraupis",130,27,1
+"Large Tree-finch",129,13,1
+"Small Tree-finch",129,16,1
+"Medium Tree-finch",129,17,2
+"American Tree Sparrow",145,100,1
 "Tricoloured Brush-finch",142,59,2
+"tricolor",142,59,2
 "Tristram's Bunting",142,136,1
+"tristrami",142,136,1
 "Tricoloured Blackbird",143,65,2
+"tricolor",143,65,2
+"Orange-backed Troupial",147,22,1
+"Venezuelan Troupial",147,31,1
+"Campo Troupial",147,32,2
+"tristriatus",144,46,1
+"trifasciatus",144,47,2
 "Tropical Parula",144,144,2
+"trichas",144,171,2
+"tristriatus",135,27,1
+"tristis",138,35,2
+"trifasciatus",137,53,1
 "Trumpeter Finch",135,136,2
 "Trinidad Euphonia",135,172,2
+"trinitatis",135,172,2
 "Tree Pipit",123,30,2
+"trivialis",123,30,2
+"Eurasian Tree Sparrow",122,14,1
+"tristissima",132,48,2
 "Tricoloured Munia",132,53,2
 "Tricoloured Parrotfinch",132,117,2
+"tricolor",132,117,2
+"trichroa",132,120,2
+"troglodytes",134,13,1
+"tricolor",140,63,2
+"tristrami",139,44,2
+"trigonostigma",139,55,1
+"trochileum",139,61,1
 "Tractrac Chat",184,75,2
+"tractrac",184,75,2
+"tricolor",187,29,2
+"Trichixos",186,13,2
 "Tristan Thrush",189,49,2
 "Tristram's Starling",191,83,2
+"tristramii",191,83,2
+"tristis",191,115,2
 "Tropical Mockingbird",192,10,2
+"trifasciatus",192,19,1
+"triurus",192,25,2
+"Grey Trembler",192,57,1
+"Brown Trembler",192,58,2
+"Wrens, Nuthatches, Treecreepers and more",181,74,2
+"Troglodytidae",181,77,1
+"Troglodytes",190,75,1
+"Troglodytes",190,76,2
+"Troglodytes",190,77,2
+"Troglodytes",190,79,1
+"Troglodytes",190,80,2
+"Troglodytes",190,83,1
+"Troglodytes",190,84,2
+"Troglodytes",190,85,2
+"troglodytes",190,87,1
+"Troglodytes",190,87,1
+"Troglodytes",190,88,2
 "Tropical Gnatcatcher",181,113,2
 "Treecreepers",181,123,1
+"Short-toed Treecreeper",181,127,1
+"Hodgson's Treecreeper",181,128,2
+"Eurasian Treecreeper",181,130,1
+"American Treecreeper",181,131,2
+"Bar-tailed Treecreeper",181,132,2
+"Rusty-flanked Treecreeper",181,135,1
+"Sichuan Treecreeper",181,136,2
+"Brown-throated Treecreeper",181,138,1
+"Manipur Treecreeper",181,139,2
+"Spotted Treecreeper",181,141,1
+"Trichastoma",165,52,1
+"Trichastoma",165,53,2
+"Trichastoma",165,54,2
+"Trichastoma",165,55,2
+"Trichastoma",165,56,2
+"Trichastoma",165,57,2
+"troglodytoides",163,69,1
 "Tristram's Warbler",179,103,1
+"Trichocichla",176,29,2
+"troglodytes",172,12,2
 "Trilling Cisticola",170,132,1
+"Tricholestes",174,98,2
+"trivirgatus",162,25,2
+"trochiloides",162,47,1
+"trochilus",162,96,2
 "Tree Martin",178,51,2
 "Tree Swallow",178,151,2
+"traversi",151,23,1
+"Tregellasia",151,64,1
+"Tregellasia",151,65,2
+"trivirgatus",159,93,1
+"Trochocercus",152,42,1
+"Trochocercus",152,43,2
 "Trumpet Manucode",160,77,2
+"tristis",158,16,2
+"Coughs and Treepies",157,128,2
 "Treepies",157,129,1
+"Sunda Treepie",157,135,1
+"Rufous Treepie",157,136,2
+"Andaman Treepie",157,137,2
+"Collared Treepie",157,138,2
+"White-bellied Treepie",157,139,2
+"Grey Treepie",157,140,2
+"Ratchet-tailed Treepie",157,143,1
+"Racket-tailed Treepie",157,146,1
+"Hooded Treepie",157,147,2
+"traillii",155,28,2
+"Rufous-bellied Triller",197,21,2
+"White-rumped Triller",197,57,1
+"Pied Triller",197,58,2
+"Black-and-white Triller",197,59,2
+"Black-browed Triller",197,61,1
+"Varied Triller",197,62,2
+"White-shouldered Triller",197,68,1
+"White-winged Triller",197,69,2
+"tricolor",197,69,2
+"Long-tailed Triller",197,70,2
+"Samoan Triller",197,71,2
+"Polynesian Triller",197,72,2
+"White-browed Triller",197,74,2
+"Trichodere",148,64,2
+"tristrami",149,52,2
+"tricolor",148,166,1
+"Australian Treecreepers, Bowerbirds",120,137,2
+"Australian treecreepers",120,175,2
+"Brown Treecreeper",120,180,1
+"Rufous Treecreeper",120,181,2
+"White-browed Treecreeper",120,182,2
+"Black-tailed Treecreeper",120,184,1
+"Red-browed Treecreeper",120,185,2
+"White-throated Treecreeper",120,186,2
+"Papuan Treecreeper",120,187,2
+"Foliage-gleaners, Treehunters and Recurvebills",232,0,1
+"Sharp-billed Treehunter",232,48,2
+"Streak-capped Treehunter",232,56,1
+"Flammulated Treehunter",232,57,2
+"Black-billed Treehunter",232,59,1
+"Striped Treehunter",232,60,2
+"Buff-throated Treehunter",232,63,1
+"Uniform Treehunter",232,64,2
+"Streak-breasted Treehunter",232,65,2
+"Pale-browed Treehunter",232,79,2
 "Treerunners",230,54,1
+"Beautiful Treerunner",230,57,1
+"Pearled Treerunner",230,58,2
+"Ruddy Treerunner",230,59,2
+"Fulvous-dotted Treerunner",230,60,2
+"White-throated Treerunner",230,74,2
+"trochilirostris",230,109,1
+"triangularis",230,127,1
 "Trilling Tapaculo",248,55,2
+"traillii",243,23,1
 "Tropical Pewee",243,46,2
+"trivirgatus",243,90,1
+"tricolor",241,42,2
 "Tropical Kingbird",236,87,1
+"traylori",235,147,2
+"tricarunculatus",250,22,1
+"tricolor",249,31,2
+"Trichoglossus",216,12,1
+"Trichoglossus",216,13,2
+"Trichoglossus",216,14,2
+"Trichoglossus",216,15,2
+"Trichoglossus",216,18,1
+"Trichoglossus",216,19,2
+"Trichoglossus",216,20,2
+"Triclaria",221,102,2
+"tridactylus",206,131,1
+"tristis",208,96,2
+"Tricholaema",205,8,1
+"Tricholaema",205,21,2
+"Tricholaema",205,29,1
+"Tricholaema",205,30,2
+"Tricholaema",205,33,1
+"Tricholaema",205,35,2
+"Trachyphonus",204,125,1
+"Trachyphonus",204,126,2
+"Trachyphonus",204,127,2
+"Trachyphonus",204,130,1
+"Trachyphonus",204,131,2
+"Trachyphonus",204,132,2
+"tridactyla",201,104,2
 "Trumpeter Hornbill",203,62,2
+"Tropicranus",203,67,2
 "Trogons",252,0,2
+"TROGONIFORMES",252,0,2
+"White-tailed Trogon",252,9,1
+"Trogon",252,9,1
+"Green-backed Trogon",252,10,2
+"Trogon",252,10,2
+"Baird's Trogon",252,11,2
+"Trogon",252,11,2
+"Black-headed Trogon",252,13,1
+"Trogon",252,13,1
+"Citreoline Trogon",252,14,2
+"Trogon",252,14,2
+"Blue-crowned Trogon",252,17,1
+"Trogon",252,17,1
+"Surucua Trogon",252,18,2
+"Trogon",252,18,2
+"Violaceous Trogon",252,19,2
+"Trogon",252,19,2
+"Black-tailed Trogon",252,24,1
+"Trogon",252,24,1
+"Slaty-tailed Trogon",252,25,2
+"Trogon",252,25,2
+"White-eyed Trogon",252,26,2
+"Trogon",252,26,2
+"Lattice-tailed Trogon",252,27,2
+"Trogon",252,27,2
+"Ecuadorian Trogon",252,28,2
+"Trogon",252,28,2
+"Orange-bellied Trogon",252,35,1
+"Trogon",252,35,1
+"Collared Trogon",252,36,2
+"Trogon",252,36,2
+"Masked Trogon",252,37,2
+"Trogon",252,37,2
+"Mountain Trogon",252,38,2
+"Trogon",252,38,2
+"Elegant Trogon",252,39,2
+"Trogon",252,39,2
+"Black-throated Trogon",252,40,2
+"Trogon",252,40,2
+"Gartered Trogon",252,41,2
+"Trogon",252,41,2
+"Hispaniolan Trogon",252,43,1
+"Cuban Trogon",252,44,2
+"Red-headed Trogon",252,54,1
+"Whitehead's Trogon",252,55,2
+"Philippine Trogon",252,56,2
+"Ward's Trogon",252,57,2
+"Red-naped Trogon",252,58,2
+"Diard's Trogon",252,59,2
+"Malabar Trogon",252,60,2
+"Orange-breasted Trogon",252,61,2
+"Cinnamon-rumped Trogon",252,63,1
+"Scarlet-rumped Trogon",252,64,2
+"Bare-cheeked Trogon",252,67,1
+"Narina Trogon",252,68,2
+"Bar-tailed Trogon",252,69,2
+"Sumatran Trogon",252,83,1
+"Javan Trogon",252,84,2
 "Tropical Screech-owl",227,34,2
+"trichopsis",227,42,1
+"trivirgatus",117,93,2
+"trinotatus",117,110,2
+"tracheliotos",115,111,1
+"Trigonoceps",115,113,2
+"tridactyla",212,56,2
+"trudeaui",213,19,1
+"Tringa",223,69,1
+"Tringa",223,70,2
+"Tringa",223,72,1
+"Tringa",223,73,2
+"Tringa",223,76,1
+"Tringa",223,77,2
+"Tringa",223,78,2
+"Tringa",223,81,2
+"Tringa",223,86,1
+"Tringa",223,87,2
+"tricolor",223,96,2
+"Tryngites",223,128,1
+"tricolor",119,25,2
+"tricollaris",119,87,2
 "Tricoloured Heron",354,87,1
+"tricolor",354,87,1
 "Trindade Petrel",358,11,1
 "Tristan Albatross",357,99,2
+"tropica",357,119,2
 "Tristram's Storm-petrel",357,146,2
+"tristrami",357,146,2
+"tristis",356,43,1
+"tricolor",361,46,2
+"Cranes, Trumpeters and Limpkin",360,156,2
 "Trumpeters",360,188,2
+"Pale-winged Trumpeter",360,190,1
+"Dark-winged Trumpeter",360,191,2
+"Grey-winged Trumpeter",360,192,2
+"Treron",351,10,1
+"Treron",351,11,2
+"Treron",351,13,1
+"Treron",351,14,2
+"Treron",351,15,2
+"Treron",351,16,2
+"Treron",351,18,1
+"Treron",351,19,2
+"Treron",351,21,1
+"Treron",351,22,2
+"Treron",351,23,2
+"Treron",351,26,1
+"Treron",351,27,2
+"Treron",351,28,2
+"Treron",351,29,2
+"Treron",351,36,1
+"Treron",351,37,2
+"Treron",351,38,2
+"Treron",351,39,2
+"Treron",351,40,2
+"Treron",351,41,2
+"Treron",351,43,1
+"Treron",351,44,2
+"Trugon",347,42,2
+"tristigmata",347,99,1
+"trocaz",348,41,2
+"tranquebarica",348,75,1
 "Tropicbirds",346,172,2
+"Red-tailed Tropicbird",346,174,1
+"White-tailed Tropicbird",346,175,2
+"Red-billed Tropicbird",346,176,2
+"Trochilidae",324,7,1
+"Trochilus",327,11,1
+"Trochilus",327,12,2
 "Trainbearers",332,56,2
+"Black-tailed Trainbearer",332,57,1
+"Green-tailed Trainbearer",332,58,2
+"Swifts and Treeswifts",324,18,2
+"troglodytes",329,69,2
 "Treeswifts",324,45,2
+"Grey-rumped Treeswift",324,48,1
+"Moustached Treeswift",324,49,2
+"Crested Treeswift",324,50,2
+"Whiskered Treeswift",324,51,2
+"tristigma",324,196,2
 "Tragopans",312,116,2
+"TRAGOPAN",312,116,2
+"Western Tragopan",312,119,1
+"Tragopan",312,119,1
+"Satyr Tragopan",312,120,2
+"Tragopan",312,120,2
+"Blyth's Tragopan",312,121,2
+"Tragopan",312,121,2
+"Temminck's Tragopan",312,123,1
+"Tragopan",312,123,1
+"Cabot's Tragopan",312,124,2
+"Tragopan",312,124,2
 "Trinidad Piping-guan",311,36,2
 "True Geese",316,3,1
 "True Swans",316,34,2
 "Trumpeter Swan",316,40,2
+"transfasciatus",253,24,1
+"trigonatus",0,72,2
+"trifasciata",96,7,1
+"trijuga",94,48,2
+"trivittata",94,58,2
+"triserrata",97,45,2
 "Travancore Tortoise",94,123,1
+"travancorica",94,123,1
+"Trachemys",95,26,2
+"Trachemys",95,30,1
+"Trachemys",95,31,2
+"Trachemys",95,32,2
+"trinacris",94,146,1
+"triporcatus",94,181,1
+"Trionyx",343,22,2
+"triunguis",343,40,2
+"Trionyx",343,40,2
+"Trachylepis",305,16,1
+"Trachylepis",305,17,2
+"Trachylepis",305,18,2
+"Trachylepis",305,19,2
+"Trachylepis",305,21,1
+"Trachylepis",305,22,2
+"Trachylepis",305,23,2
+"Trachylepis",305,24,2
+"Trachylepis",305,25,2
+"Trachylepis",305,27,1
+"Trachylepis",305,28,2
+"Trachylepis",305,30,1
+"Trachylepis",305,31,2
+"Trachylepis",305,35,1
+"Trachylepis",305,36,2
+"Trachylepis",305,37,2
+"Trachylepis",305,40,1
+"Trachylepis",305,41,2
+"Trachylepis",305,42,2
+"Trachylepis",305,50,1
+"Trachylepis",305,51,2
+"Trachylepis",305,52,2
+"Trachylepis",305,54,1
+"Trachylepis",305,55,2
+"Trachylepis",305,56,2
+"Trachylepis",305,59,1
+"Trachylepis",305,60,2
+"Trachylepis",305,61,2
+"Trachylepis",305,63,1
+"Trachylepis",305,64,2
+"Trachylepis",305,65,2
+"Trachylepis",305,71,1
+"Trachylepis",305,72,2
+"Trachylepis",305,73,2
+"Trachylepis",305,75,1
+"Trachylepis",305,76,2
+"Trachylepis",305,79,1
+"Trachylepis",305,80,2
+"Trachylepis",305,81,2
+"Trachylepis",305,85,1
+"Trachylepis",305,86,2
+"Trachylepis",305,87,2
+"Trachylepis",305,88,2
+"trilineata",306,34,1
+"tropidolepis",306,88,1
+"Tribolonotus",305,178,1
+"Tribolonotus",305,179,2
+"Tribolonotus",305,180,2
+"Tribolonotus",305,183,1
+"Tribolonotus",305,184,2
+"Tribolonotus",305,185,2
+"Tropidomorphus",307,50,1
+"Tropidomorphus",307,51,2
+"travancorica",298,17,2
+"truncatus",301,30,2
+"tridactylus",300,102,2
+"tropidosternum",298,99,2
+"Tracheloptychus",298,142,1
+"Tracheloptychus",298,143,2
 "Tropical Night Lizards",298,153,2
+"tristrami",299,41,1
+"trilineata",299,96,2
+"Tretioscincus",304,60,1
+"Tretioscincus",304,61,2
+"trisanale",304,83,2
+"Tropidurus",405,18,1
+"Tropidurus",405,19,2
+"Tropidurus",405,20,2
+"Tropidurus",405,21,2
+"Tropidurus",405,22,2
+"Tropidurus",405,24,1
+"Tropidurus",405,25,2
+"Tropidurus",405,26,2
+"tropidogaster",409,32,2
+"trinitatis",405,89,2
 "Tree and Brush Lizards",408,82,2
+"Ornate Tree Lizard",408,92,2
+"Trapelus",413,100,1
+"Trapelus",413,101,2
+"Trapelus",413,102,2
+"Trapelus",413,103,2
+"tristis",407,23,2
+"Trimorphodon",337,9,2
 "Trans-pecos Rat Snake",335,18,1
+"triaspis",335,29,2
+"trigonata",338,12,2
+"tristis",335,88,2
+"Tropidoclonion",335,129,2
+"trachyprocta",335,140,1
+"Trachischium",335,170,1
+"triangularis",335,183,2
+"triangularis",336,21,1
+"trigonatus",336,41,1
+"Tropidodryas",336,53,2
+"Tretanorhinus",336,121,1
+"Trimetopon",336,127,2
+"Tropidechis",341,37,1
 "Transvaal Quillsnout Snake",340,124,1
+"transvaalensis",340,124,1
+"trigonocephalus",339,42,1
+"Trimeresurus",339,42,1
+"Trimeresurus",339,43,2
+"Trimeresurus",339,44,2
+"Trimeresurus",339,46,1
+"Trimeresurus",339,47,2
+"Tropidolaemus",339,59,2
+"travancoricus",334,49,2
+"Amazon Tree Boa",334,91,2
+"trivirgata",334,97,1
+"Madagascar Tree Boa",334,103,1
+"Trachyboa",334,108,1
+"Tropidophis",334,109,2
+"Tricheilostoma",334,121,1
 "Trinidad Blind Snake",334,154,2
+"transvaalica",318,60,2
+"Hamsters, Gerbils, True Mice, Rats and more",254,7,1
+"Golden-backed Tree Rat",266,76,1
+"Black-footed Tree Rat",266,77,2
+"Long-footed Tree Mouse",270,18,2
 "Tree Mice",270,63,2
+"Broad-headed Tree Mouse",270,65,1
+"Forbes's Tree Mouse",270,66,2
+"Lesser Tree Mouse",270,67,2
+"triton",269,121,1
+"Sri Lankan Highland Tree Mouse",267,121,2
+"Pencil-tailed Tree Mice",267,174,1
+"Koopman's Pencil-tailed Tree Mouse",267,178,1
+"Greater Pencil-tailed Tree Mouse",267,179,2
+"Pencil-tailed Tree Mouse",267,180,2
+"Gray-bellied Pencil-tailed Tree Mouse",267,181,2
+"Palawan Pencil-tailed Tree Mouse",267,183,1
+"Lesser Pencil-tailed Tree Mouse",267,184,2
+"Chestnut Tree Mouse",267,215,2
+"Gray-bellied Tree Mouse",267,217,1
+"Champion's Tree Mouse",267,218,2
+"trivirgatus",271,10,2
+"Luzon Tryphomys",271,38,2
+"Tryphomys",271,38,2
+"Black-tailed Tree Rat",263,67,1
 "Tropical Vlei Rat",264,34,2
+"tropicalis",264,34,2
+"Ryukyus Islands Tree Rat",264,47,2
 "Tristram's Jird",265,16,2
+"tristrami",265,16,2
+"Dollman's Tree Mouse",263,195,2
+"trinitatis",293,99,1
 "Trinidad Water Rat",294,42,2
+"trichotis",287,103,2
 "Transvolcanic Deermouse",291,62,1
 "Tres Marias Deer Mouse",291,97,2
+"truei",291,109,2
+"transcaspicus",282,80,2
+"Red Tree Vole",283,18,1
+"California Red Tree Mouse",283,20,2
+"trimucronatus",283,42,2
 "Transbaikal Zokor",281,59,1
 "Tree Rats",281,82,2
+"White-tailed Tree Rat",281,83,1
+"Hairy-tailed Tree Rat",281,84,2
+"Sort-furred Tree Mouse",281,101,2
+"triton",281,135,2
+"trinotatus",280,35,1
+"trichopus",255,67,2
 "Tropical Pocket Gopher",255,82,1
+"tropicalis",255,82,1
+"Spiny Rats, Tree Rats and more",258,0,1
+"Golden Atlantic Tree Rat",258,14,1
+"Pallid Atlantic Tree Rat",258,16,2
+"Drab Atlantic Tree Rat",258,18,1
+"White-faced Tree Rat",258,19,2
+"Long-tailed Tree Rat",258,21,1
+"Unicolored Tree Rat",258,25,1
+"Painted Tree-rat",258,26,2
+"Black-spined Atlantic Tree Rat",258,27,2
+"Giant Atlantic Tree Rat",258,30,1
+"Dark Spiny Tree-rat",258,31,2
+"Red-nosed Tree Rat",258,34,1
+"Peruvian Tree Rat",258,35,2
+"Rufous Tree Rat",258,42,2
+"Brazilian Spiny Tree Rat",258,44,1
+"Woolly-headed Spiny Tree Rat",258,60,1
+"Spiny Tree Rat",258,61,2
+"Dark Armored Tree-rat",258,63,1
+"Para Spiny Tree Rat",258,64,2
+"Trinomys",258,67,2
+"Trinomys",258,74,1
+"Trinomys",258,75,2
+"Trinomys",258,76,2
+"Trinomys",258,92,2
+"Tuft-tailed Spiny Tree Rat",258,104,1
+"Trinomys",258,105,2
+"Trinomys",258,109,1
 "Trinidad Spiny Rat",258,110,2
+"trinitatus",258,110,2
+"Isla De La Juventud Tree Hutia",256,18,1
+"Trichys",256,57,2
 "Travancore Flying Squirrel",278,15,1
+"Trogopterus",278,82,2
+"Philippine Tree Squirrel",278,139,2
+"Southern Palawan Tree Squirrel",278,141,1
+"Northern Palawan Tree Squirrel",278,143,2
+"Culion Tree Squirrel",278,144,2
+"tristriatus",278,211,2
 "Tropical Ground Squirrel",297,27,2
+"tridecemlineatus",297,65,1
+"Orange Headed Tree Squirrel",296,138,1
+"Redness Tree Squirrel",296,150,2
 "Tres Marias Cottontail",254,84,2
+"transitionalis",254,94,2
+"Primates, Flying Lemurs and Treeshrews",254,115,2
+"Trachypithecus",276,9,1
+"Trachypithecus",276,10,2
+"Trachypithecus",276,11,2
+"Trachypithecus",276,12,2
+"Trachypithecus",276,13,2
+"Trachypithecus",276,14,2
+"Trachypithecus",276,17,1
+"Trachypithecus",276,18,2
+"Trachypithecus",276,19,2
+"Trachypithecus",276,23,1
+"Trachypithecus",276,24,2
+"Trachypithecus",276,25,2
+"Trachypithecus",276,26,2
+"Trachypithecus",276,27,2
+"Trachypithecus",275,159,2
+"Trachypithecus",275,160,2
+"troglodytes",295,32,1
+"tripartitus",285,71,2
+"trivirgatus",285,117,1
+"trichotis",260,89,2
 "Treeshrews",254,137,2
+"Ruddy Treeshrew",254,147,1
+"Large Treeshrew",254,148,2
+"Slender Treeshrew",254,149,2
+"Nicobar Treeshrew",254,151,1
+"Northern Treeshrew",254,152,2
+"Golden-bellied Treeshrew",254,155,1
+"Striped Treeshrew",254,156,2
+"Common Treeshrew",254,157,2
+"Lesser Treeshrew",254,158,2
+"Calamian Treeshrew",254,162,1
+"Palawan Treeshrew",254,163,2
+"Horsfield's Treeshrew",254,165,1
+"Painted Treeshrew",254,166,2
+"Long-footed Treeshrew",254,167,2
+"Mountain Treeshrew",254,168,2
+"Bornean Smooth-tailed Treeshrew",254,170,1
+"Northern Smooth-tailed Treeshrew",254,171,2
+"Mindanao Treeshrew",254,173,1
+"Madras Treeshrew",254,174,2
+"Pen-tailed Treeshrew",254,175,2
+"Groove-toothed Trumpet-eared Bat",389,44,1
+"Dubious Trumpet-eared Bat",389,45,2
+"Peters's Trumpet-eared Bat",389,47,1
+"troughtoni",391,39,2
 "Tropical Big-eared Brown Bat",390,68,2
+"tricolor",403,72,2
+"tristis",365,38,2
+"trumbulli",396,44,2
+"trevori",396,108,2
+"trinitatum",394,48,1
 "Tree Bat",393,53,2
+"Trachops",393,167,2
 "Tricolored Bat",393,186,2
+"Trinycteris",393,189,2
 "Trinidadian Funnel-eared Bat",365,57,2
+"tricolor",365,67,2
+"Patrizi's Trident Leaf-nosed Bat",378,43,1
+"Geoffroy's Trident Leaf-nosed Bat",378,44,2
+"tridens",378,44,2
+"Stoliczka's Asian Trident Bat",376,23,1
+"Percival's Trident Bat",376,24,2
 "Trident Leaf-nosed Bat",376,78,2
+"tricuspidatus",376,78,2
 "Triaenops",376,80,1
 "Trouessart's Trident Bat",376,82,1
+"Trouessart's Trident Bat",376,82,1
+"Triaenops",376,82,1
+"Grandidier's Trident Bat",376,83,2
+"Triaenops",376,83,2
+"Persian Trident Bat",376,85,1
+"Triaenops",376,85,1
+"Rufous Trident Bat",376,86,2
+"Triaenops",376,86,2
 "Trefoil Horseshoe Bat",377,40,2
+"trifoliatus",377,40,2
+"tragata",376,155,1
 "Trinidad Dog-like Bat",400,9,1
+"trinitatis",400,9,1
 "Troughton's Sheath-tailed Bat",400,81,1
+"troughtoni",400,81,1
+"Tragelaphus",371,45,1
+"Tragelaphus",371,46,2
+"Tragelaphus",371,47,2
+"Tragelaphus",371,48,2
+"Tragelaphus",371,53,2
+"Tragelaphus",371,54,2
+"Tragelaphus",371,55,2
+"tragocamelus",371,58,2
+"Tragulidae",371,102,2
 "Tragulus",371,104,1
+"Tragulus",371,107,1
+"Tragulus",371,108,2
+"Tragulus",371,109,2
+"Tragulus",371,112,1
+"Tragulus",371,113,2
+"Tragulus",371,114,2
+"truncatus",373,12,2
+"traversii",371,138,1
 "True's Beaked Whale",371,142,2
+"tropicalis",381,51,2
 "True seals",381,69,2
+"Tremarctos",381,117,2
+"trivirgata",385,61,2
+"tricuspis",365,163,2
+"trichura",367,59,1
 "Trowbridge's Shrew",397,58,1
+"trowbridgii",397,58,1
 "Tropical Small-eared Shrew",397,84,2
+"tropicalis",397,84,2
 "Transcaucasian Water Shrew",397,167,2
+"truei",388,41,2
 "True's Shrew Mole",380,63,2
+"tricinctus",333,14,1
+"truncatus",333,39,2
+"tridactylus",333,45,2
+"tridactyla",333,55,2
 "Tree Shrew Tenrec",323,21,2
+"trevelyani",323,85,2
+"Southern Tree Hyrax",323,121,1
+"Western Tree Hyrax",323,122,2
 "Trichechidae",323,126,1
+"Trichechus",323,128,1
+"Trichechus",323,129,2
+"Trichechus",323,130,2
+"Golden-mantled Tree Kangaroo",110,87,1
+"Goodfellow's Tree Kangaroo",110,88,2
+"Lowlands Tree Kangaroo",110,90,1
+"Huon Tree Kangaroo",110,91,2
+"Doria's Tree Kangaroo",110,94,1
+"Seri's Tree Kangaroo",110,95,2
+"Vogelkop Tree Kangaroo",110,97,2
+"Grizzled Tree Kangaroo",110,98,2
+"Lumholtz's Tree Kangaroo",110,99,2
+"Bennett's Tree Kangaroo",110,100,2
+"tridactylus",110,115,1
+"tropica",110,124,1
+"Possums, Cuscuses, Trioks and Gliders",112,0,2
+"Great-tailed Triok",112,49,1
+"trivirgata",112,50,2
+"Tate's Triok",112,52,1
 "Trichosurus",112,93,1
+"Trichosurus",112,96,1
+"Trichosurus",112,97,2
+"Trichosurus",112,98,2
+"Trichosurus",112,99,2
 "True toads",38,5,1
 "Tradouw's Mountain Toad",57,113,1
+"tradouwi",57,113,1
+"truebae",58,36,2
+"Asian Tree Toads",56,158,1
+"African Tree Toads",56,185,2
+"Bates' Tree Toad",56,186,1
+"African Tree Toad",56,187,2
+"tricolor",63,116,2
+"trivittata",43,31,2
+"tricolor",43,62,2
+"truncatus",44,59,2
+"trilineatus",68,70,1
+"triunfo",68,115,2
+"trinitatis",68,133,2
+"trachystomus",65,69,1
+"truebae",42,56,2
+"troglodytes",39,36,2
+"truebae",49,57,2
 "Treefrogs and more",38,138,2
+"triseriata",40,119,2
+"California Treefrog",40,128,1
+"Pine Barrens Treefrog",40,146,1
+"Canyon Treefrog",40,153,2
+"Japanese Treefrog",40,155,1
+"Cope's Gray Treefrog",40,162,1
+"Gray Treefrog",40,163,2
+"Bird-voiced Treefrog",40,164,2
+"Squirrel Treefrog",40,167,1
+"Green Treefrog",40,168,2
+"Mexican Treefrogs",40,178,1
+"Shovel-headed Treefrogs",40,194,1
+"Triprion",40,195,1
+"Triprion",40,196,2
+"Sardinian Treefrog",41,11,1
+"Italian Treefrog",41,16,1
+"European Treefrog",41,17,2
+"Mediterranean Treefrog",41,21,1
+"trux",40,213,2
+"Bromeliad Treefrogs",67,43,2
+"Fringe-limbed Treefrogs",67,46,2
+"Slender-legged Treefrogs",64,5,1
+"Amazon Treefrogs",64,38,2
+"Hispaniolan Common Treefrog",64,57,1
+"Cuban Treefrog",64,58,2
+"Hispaniolan Yellow Treefrog",64,66,1
+"Hispaniolan Giant Treefrog",64,67,2
+"Trachycephalus",64,75,1
+"Trachycephalus",64,76,2
+"Trachycephalus",64,77,2
+"Bokermann's Casque-headed Treefrog",64,78,2
+"Trachycephalus",64,78,2
+"Trachycephalus",64,80,1
+"Trachycephalus",64,81,2
+"Black-spotted Casque-headed Treefrog",64,83,1
+"Trachycephalus",64,83,1
+"Trachycephalus",64,84,2
+"Trachycephalus",64,86,1
+"Trachycephalus",64,87,2
+"tritaeniatus",48,17,1
+"triangulum",48,178,2
+"truncata",48,181,2
+"Canebrake Treefrogs",46,46,2
+"Snouted Treefrogs",70,1,1
+"trilineatus",70,13,1
+"Lanceback Treefrog",70,89,1
+"trapicheiroi",70,121,2
+"Lime Treefrogs",70,178,2
+"Australasian Treefrogs",38,145,1
+"Green-eyed Treefrog",53,18,1
+"Fringed Treefrog",53,19,2
+"Leaf Green River Treefrog",53,33,1
+"Peppered Treefrog",53,34,2
+"Blue Mountains Treefrog",53,37,1
+"Cascade Treefrog",53,38,2
+"Yellow-spotted Treefrog",53,55,2
+"Umar Treefrog",53,71,1
+"Vera's Treefrog",53,79,1
+"Torrent Treefrog",53,99,2
+"trachydermis",54,21,1
+"Alpine Treefrog",53,114,1
+"Plains Brown Treefrog",53,116,2
+"Brown Treefrog",53,117,2
+"Large Brown Treefrog",53,119,1
+"Slender Treefrog",53,121,2
+"Dainty Green Treefrog",53,137,1
+"Red-eyed Green Treefrog",53,142,1
+"Cape Melville Treefrog",53,159,1
+"Eastern Dwarf Treefrog",53,160,2
+"Centralian Treefrog",53,172,2
+"Magnificent Treefrog",53,174,1
+"Green Treefrog",53,175,2
+"Giant Treefrog",53,181,1
+"Multi-coloured Treefrog",53,183,2
+"Spencer's River Treefrog",53,201,1
+"Buzzing Treefrog",55,9,2
+"Bleating Treefrog",55,16,1
+"Desert Treefrog",55,18,2
+"Emerald Spotted Treefrog",55,24,1
+"Laughing Treefrog",55,25,2
+"Everett's Treefrog",55,29,1
+"Roth's Treefrog",55,31,2
+"trinitatis",66,16,1
+"Splendid Treefrog",66,64,1
+"Red-eyed Treefrog",66,72,1
+"Morelet's Treefrog",66,73,2
+"Gliding Treefrog",66,75,1
+"Blue-sided Treefrog",66,76,2
+"Pink-sided Treefrog",66,78,1
+"trachyceps",93,22,1
+"trachyblepharis",81,133,1
+"truebae",89,16,1
+"Cochran's Treefrog",75,27,1
+"tribulosus",74,12,1
+"tridactyla",72,62,1
+"trachydermus",78,37,1
+"trachyderma",23,14,1
+"Desert Trilling Frog",23,130,2
 "True Frogs, Shrub Frogs and more",1,38,1
+"travancoricus",7,45,1
+"translineatus",21,12,2
+"Frilled Treefrog",21,28,1
+"Black-webbed Treefrog",21,72,2
+"Orlov's Treefrog",21,127,1
+"Himalayan Treefrog",21,159,1
+"Common Treefrog",21,165,2
+"African Foam-nest Treefrog",21,172,1
+"Grey Foam-nest Treefrog",21,176,1
+"Doria's Asian Treefrog",21,193,2
+"tricinctus",3,82,2
 "Transverse Volcanic Leopard Frog",12,66,2
+"trankieni",16,58,1
+"Malabar Tropical Frog",2,167,2
+"Fiji Treefrog",92,23,2
+"trossulus",92,125,1
+"trinodis",90,27,1
+"tridactyla",32,38,2
+"triangularis",25,62,1
+"tridactyla",35,46,1
+"tricolor",34,73,2
+"Seychelles Treefrog",34,78,2
+"Forest Treefrogs, Night Frogs and more",25,135,2
+"troglodytes",26,54,1
+"trifasciata",26,85,1
+"Trichobatrachus",26,155,2
+"Forest Treefrogs",36,0,2
 "Tropical Clawed Frog",322,37,2
+"tropicalis",322,37,2
+"truei",0,147,2
 "Tropical Climbing Salamanders",100,2,1
 "Tropical Dwarf Salamander",100,87,2
+"troglodytes",108,27,1
+"Eurycea Troglodytes Complex",104,22,2
+"troglodytes",104,22,2
+"Chisholm Trail Salamander",104,23,2
+"tridentifera",104,42,2
+"tridactylum",98,100,1
 "True Salamanders and Newts",98,112,1
+"Triturus",103,23,1
+"Triturus",103,24,2
+"Triturus",103,25,2
+"Triturus",103,27,1
+"Triturus",103,28,2
+"Triturus",103,29,2
+"tricolor",345,45,2

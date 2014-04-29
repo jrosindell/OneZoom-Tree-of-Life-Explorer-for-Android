@@ -1,39 +1,374 @@
 name,fileindex,index,whichChild
+"Tanagers, Conebills, Warbling-finches and more",124,4,1
 "Warbling-finches",126,8,1
+"Black-capped Warbling-finch",126,11,1
+"Cinereous Warbling-finch",126,12,2
+"Plain-tailed Warbling-finch",126,13,2
+"Rusty-browed Warbling-finch",126,14,2
+"Ringed Warbling-finch",126,17,2
+"Buff-throated Warbling-finch",126,18,2
+"Grey-throated Warbling-finch",126,24,2
 "Warbling-finches, Reed-finches and more",126,25,2
+"Rufous-sided Warbling-finch",126,26,1
+"Black-and-rufous Warbling-finch",126,52,1
+"Bolivian Warbling-finch",126,62,2
+"Cinnamon Warbling-finch",126,63,2
+"Bay-chested Warbling-finch",126,65,2
+"Collared Warbling-finch",126,66,2
+"Black-and-chestnut Warbling Finch",126,68,1
+"Rufous-breasted Warbling-finch",126,80,2
+"watkinsi",124,26,2
 "Warbler Finch",129,30,2
+"New World Warblers, Buntings, American Sparrows and more",142,2,1
+"warszewiczi",143,46,2
+"wagleri",143,120,2
+"wagleri",147,23,2
+"New World warblers, Buntings, American Sparrows and more",142,184,2
+"New World warblers",142,185,1
+"Pink-headed Warbler",144,34,1
+"Red Warbler",144,35,2
+"Red-faced Warbler",144,36,2
+"Wilson's Warbler",144,37,2
+"Canada Warbler",144,38,2
+"Golden-crowned Warbler",144,43,1
+"White-bellied Warbler",144,44,2
+"Three-striped Warbler",144,46,1
+"Three-banded Warbler",144,47,2
+"Pirre Warbler",144,48,2
+"Black-cheeked Warbler",144,52,1
+"Golden-browed Warbler",144,53,2
+"Rufous-capped Warbler",144,54,2
+"Fan-tailed Warbler",144,55,2
+"White-browed Warbler",144,61,1
+"Flavescent Warbler",144,62,2
+"White-striped Warbler",144,63,2
+"Santa Marta Warbler",144,66,1
+"Pale-legged Warbler",144,67,2
+"Citrine Warbler",144,68,2
+"Neotropical River Warbler",144,71,1
+"Buff-rumped Warbler",144,72,2
+"Black-crested Warbler",144,73,2
+"Grey-throated Warbler",144,78,1
+"White-lored Warbler",144,79,2
+"Golden-bellied Warbler",144,81,1
+"Two-banded Warbler",144,82,2
+"Grey-and-gold Warbler",144,83,2
+"Grey-headed Warbler",144,86,1
+"Choco Warbler",144,87,2
+"Russet-crowned Warbler",144,88,2
+"Black-throated Green Warbler",144,101,1
+"Golden-cheeked Warbler",144,102,2
+"Townsend's Warbler",144,104,1
+"Hermit Warbler",144,105,2
+"Black-throated Grey Warbler",144,107,1
+"Grace's Warbler",144,108,2
+"Adelaide's Warbler",144,109,2
+"Vitelline Warbler",144,111,1
+"Prairie Warbler",144,112,2
+"Olive-capped Warbler",144,117,1
+"Pine Warbler",144,118,2
+"Yellow-throated Warbler",144,119,2
+"Yellow-rumped Warbler",144,120,2
+"Palm Warbler",144,121,2
+"Black-throated Blue Warbler",144,124,1
+"St Lucia Warbler",144,125,2
+"Chestnut-sided Warbler",144,133,1
+"Yellow Warbler",144,134,2
+"Bay-breasted Warbler",144,136,1
+"Blackpoll Warbler",144,137,2
+"Blackburnian Warbler",144,138,2
+"Kirtland's Warbler",144,139,2
+"Cape May Warbler",144,140,2
+"Cerulean Warbler",144,145,2
+"American Yellow Warbler",144,148,1
+"Magnolia Warbler",144,149,2
+"Barbuda Warbler",144,150,2
+"Hooded Warbler",144,151,2
+"Arrowhead Warbler",144,154,1
+"Plumbeous Warbler",144,155,2
+"Elfin-woods Warbler",144,156,2
+"Whistling Warbler",144,157,2
+"MacGillivray's Warbler",144,188,1
+"Mourning Warbler",144,189,2
+"Connecticut Warbler",144,190,2
+"Kentucky Warbler",144,191,2
+"Semper's Warbler",144,192,2
+"Swainson's Warbler",144,194,1
+"Prothonotary Warbler",144,195,2
+"Northern Waterthrush",144,198,1
+"Louisiana Waterthrush",144,199,2
+"Black-and-white Warbler",144,200,2
+"Virginia's Warbler",144,208,1
+"Lucy's Warbler",144,209,2
+"Nashville Warbler",144,210,2
+"Colima Warbler",144,211,2
+"Orange-crowned Warbler",144,212,2
+"Tennessee Warbler",144,213,2
+"Crescent-chested Warbler",144,215,1
+"Flame-throated Warbler",144,216,2
+"Golden-winged Warbler",144,219,1
+"Blue-winged Warbler",144,220,2
+"Bachman's Warbler",144,221,2
+"Worm-eating Warbler",144,222,2
+"Yellow-headed Warbler",142,190,1
+"Oriente Warbler",142,191,2
+"New World warblers",142,203,2
+"Green-tailed Warbler",142,204,1
+"White-winged Warbler",142,205,2
 "Warsangli Linnet",135,62,2
 "Wagtails and pipits",123,0,2
 "Water Pipit",123,14,1
+"Citrine Wagtail",123,104,1
+"Yellow Wagtail",123,105,2
+"White Wagtail",123,106,2
+"White-browed Wagtail",123,108,1
+"Grey Wagtail",123,109,2
+"Mekong Wagtail",123,110,2
+"African Pied Wagtail",123,111,2
+"Japanese Wagtail",123,112,2
+"Mountain Wagtail",123,115,1
+"Cape Wagtail",123,116,2
+"Madagascar Wagtail",123,117,2
+"Forest Wagtail",123,119,1
+"Weavers, Waxbills and more",121,22,1
 "Waxbills and more",121,23,1
 "Waxbills, grass finches, munias and more",132,0,1
+"Crimson-rumped Waxbill",134,9,1
+"Red-rumped Waxbill",134,10,2
+"Orange-cheeked Waxbill",134,11,2
+"Black-rumped Waxbill",134,13,1
+"Fawn-breasted Waxbill",134,14,2
+"Cinderella Waxbill",134,15,2
+"Black-headed Waxbill",134,18,1
+"Black-crowned Waxbill",134,19,2
+"Common Waxbill",134,20,2
+"Lavender Waxbill",134,24,1
+"Arabian Waxbill",134,25,2
+"Black-tailed Waxbill",134,26,2
+"Black-cheeked Waxbill",134,28,1
+"Kandt's Waxbill",134,29,2
+"Yellow-bellied Waxbill",134,36,1
+"Swee Waxbill",134,37,2
+"Black-lored Waxbill",134,40,1
+"Anambra Waxbill",134,41,2
+"Zebra Waxbill",132,184,1
+"Accentors and Olive Warbler",121,63,2
+"Olive Warbler",121,89,2
+"Plumbeous Water-redstart",183,22,1
+"Luzon Water-redstart",183,23,2
+"White-capped Water-redstart",183,24,2
+"wardii",188,125,2
 "Waller's Starling",191,86,2
+"walleri",191,86,2
 "Wattled Starling",191,141,2
 "Wallcreeper",181,142,2
+"Nuthatches and Wallcreeper",182,0,2
 "Waxwings and more",181,143,2
 "Waxwings",181,146,1
+"Japanese Waxwing",181,148,1
+"Bohemian Waxwing",181,149,2
+"Cedar Waxwing",181,150,2
 "Waxwings",181,154,2
+"waddelli",164,32,2
+"waldeni",168,30,1
+"wallacei",166,175,1
+"Babblers, Old World Warblers and more",179,0,2
+"White-browed Chinese Warbler",179,58,2
+"Old World warblers",179,67,1
+"Arabian Warbler",179,74,1
+"Orphean Warbler",179,75,2
+"Brown Warbler",179,77,1
+"Yemen Warbler",179,78,2
+"Rufous-vented Warbler",179,82,1
+"Banded Warbler",179,83,2
+"Layard's Warbler",179,85,1
+"Barred Warbler",179,89,2
+"Sardinian Warbler",179,94,1
+"Menetries's Warbler",179,95,2
+"Subalpine Warbler",179,96,2
+"Rueppell's Warbler",179,98,1
+"Cyprus Warbler",179,99,2
+"Tristram's Warbler",179,103,1
+"Dartford Warbler",179,104,2
+"Marmora's Warbler",179,105,2
+"Spectacled Warbler",179,107,1
+"Desert Warbler",179,109,2
+"Garden Warbler",179,115,2
+"Old World Warblers",176,0,2
+"Old World warblers",176,3,1
+"Eurasian River Warbler",176,28,1
+"Savi's Warbler",176,33,1
+"Bamboo Warbler",176,34,2
+"Lanceolated Warbler",176,38,2
+"Dja River Warbler",176,48,2
+"Rand's Warbler",176,53,2
+"Neumann's Warbler",177,15,2
+"Bracken Warbler",177,23,2
+"Bangwa Forest Warbler",177,24,2
+"Knysna Warbler",177,28,2
+"Marsh Warbler",176,57,1
+"Old World warblers",176,62,1
+"Cryptic Warbler",176,73,1
+"Old World warblers",176,76,2
+"Thamnornis Warbler",176,78,2
+"Old World warblers",176,80,2
+"Cape Verde Warbler",176,118,2
+"Seychelles Warbler",176,121,2
+"African Reed Warbler",176,128,2
+"Blunt-winged Warbler",176,137,2
+"Paddyfield Warbler",176,138,2
+"Aquatic Warbler",176,142,1
+"Rodrigues Warbler",176,147,1
+"Sedge Warbler",176,148,2
+"Moustached Warbler",176,149,2
+"Eastern Olivaceous Warbler",176,158,2
+"Western Olivaceous Warbler",176,159,2
+"Booted Warbler",176,161,1
+"Sykes's Warbler",176,162,2
+"Thick-billed Warbler",176,165,2
+"Papyrus Yellow Warbler",176,166,2
+"Olive-tree Warbler",176,169,1
+"Upcher's Warbler",176,170,2
+"Melodious Warbler",176,172,1
+"Icterine Warbler",176,173,2
+"Moheli Warbler",176,179,2
+"Old World warblers",176,184,1
+"Grauer's Warbler",170,19,1
+"Red-winged Warbler",170,21,2
+"Red-winged Grey Warbler",170,30,2
+"Old World warblers",170,50,2
+"Old World warblers",170,76,1
+"Namaqua Warbler",170,83,1
+"Briar Warbler",170,94,2
+"Rufous-eared Warbler",170,95,2
+"White-tailed Warbler",171,62,2
+"Old World warblers",170,109,2
+"Old World warblers",170,112,2
+"Old World warblers",170,115,2
 "Wailing Cisticola",170,141,2
+"Buff-bellied Warbler",170,172,1
+"Grey-capped Warbler",170,173,2
+"Oriole Warbler",170,174,2
+"Kopje Warbler",170,175,2
+"Old World warblers",170,176,2
+"Black-headed Rufous Warbler",170,178,1
+"Black-faced Rufous Warbler",170,179,2
+"Mrs Moreau's Warbler",170,180,2
+"Socotra Warbler",170,181,2
+"Old World warblers",161,9,2
+"Old World warblers",162,2,1
+"Leaf-warblers and other warblers",162,3,1
+"Grey-hooded Warbler",162,17,1
+"Western Crowned Warbler",162,29,1
+"Hartert's Warbler",162,30,2
+"Claudia's Warbler",162,31,2
+"Sulphur-breasted Warbler",162,34,1
+"Yellow-vented Warbler",162,35,2
+"Arctic Warbler",162,44,2
+"Greenish Warbler",162,47,1
+"Green Warbler",162,48,2
+"Grey-crowned Warbler",162,55,1
+"Green-crowned Warbler",162,56,2
+"White-spectacled Warbler",162,57,2
+"Grey-cheeked Warbler",162,58,2
+"Whistler's Warbler",162,62,1
+"Bianchi's Warbler",162,63,2
+"Alstrom's Warbler",162,64,2
+"Martens's Warbler",162,65,2
+"Chestnut-crowned Warbler",162,68,1
+"Sunda Warbler",162,69,2
+"Yellow-breasted Warbler",162,70,2
+"Eastern Crowned Warbler",162,81,1
+"Willow Warbler",162,96,2
+"Buff-throated Warbler",162,97,2
+"Smoky Warbler",162,100,1
+"Dusky Warbler",162,101,2
+"Sulphur-bellied Warbler",162,107,1
+"Yellow-streaked Warbler",162,110,1
+"Radde's Warbler",162,111,2
+"Lemon-rumped Warbler",162,123,1
+"Pale-rumped Warbler",162,125,2
+"Inornate Warbler",162,130,1
+"Ashy-throated Warbler",162,135,2
+"Buff-barred Warbler",162,137,1
+"Eastern Bonelli's Warbler",162,141,1
+"Bonelli's Warbler",162,142,2
+"Wood Warbler",162,143,2
+"Shade Warbler",162,156,2
+"Broad-billed Warbler",162,173,2
+"Yellow-bellied Warbler",162,177,1
+"Black-faced Warbler",162,178,2
+"Rufous-faced Warbler",162,179,2
+"Cetti's Warbler",162,193,2
+"Old World warblers",161,19,2
+"Fairy Warbler",161,170,2
+"wallacii",160,56,2
 "Wahnes's Parotia",160,62,2
+"wahnesi",160,62,2
+"waldenii",152,59,2
 "Wallacean Drongo",152,85,2
 "Warbling Vireo",154,55,2
 "Wallacean Whistler",156,34,2
 "Ward's Flycatcher",195,39,2
+"wardi",195,39,2
+"Shrike-flycatchers, wattle-eyes and batises",195,78,2
+"Shrike-flycatchers, wattle-eyes and batises",196,0,2
 "Wattle-eyes",196,37,2
+"White-fronted Wattle-eye",196,41,1
+"Brown-throated Wattle-eye",196,42,2
+"Black-throated Wattle-eye",196,44,1
+"Banded Wattle-eye",196,45,2
+"Black-necked Wattle-eye",196,49,1
+"Jameson's Wattle-eye",196,50,2
+"Red-cheeked Wattle-eye",196,51,2
+"Yellow-bellied Wattle-eye",196,52,2
+"White-spotted Wattle-eye",196,54,1
+"Chestnut Wattle-eye",196,55,2
 "Wallacean Cuckooshrike",197,39,2
+"Western Wattled Cuckooshrike",195,113,2
+"Eastern Wattled Cuckooshrike",195,119,2
 "Wattled Ploughbill",195,169,1
 "Wattled crows",120,47,1
 "Wattled Honeyeater",148,31,2
 "Wakolo Myzomela",149,58,2
+"wakoloensis",149,58,2
+"Little Wattlebird",150,49,1
+"Western Wattlebird",150,50,2
+"Red Wattlebird",150,52,1
+"Yellow Wattlebird",150,53,2
+"Speckled Warbler",180,48,1
 "Wallace's Fairywren",120,112,2
+"wallacii",120,112,2
 "Watkins's Antpitta",248,130,2
+"watkinsi",248,130,2
 "Warbling-antbirds",245,24,1
+"Rondonia Warbling-antbird",245,29,1
+"Guianan Warbling-antbird",245,30,2
+"Imeri Warbling-antbird",245,31,2
+"Spix's Warbling-antbird",245,32,2
+"Yellow-breasted Warbling-antbird",245,33,2
+"Peruvian Warbling-antbird",245,34,2
+"Drab Water Tyrant",243,85,2
+"Black-backed Water-tyrant",241,46,1
+"Pied Water-tyrant",241,47,2
+"Masked Water-tyrant",241,54,2
 "Warbling Doradito",240,8,1
+"Lesser Wagtail-tyrant",240,44,2
+"Tyrannulets, Pygmy Tyrants and Wagtail-Tyrant",242,0,2
+"Greater Wagtail-tyrant",242,73,1
+"wallicus",219,47,2
+"waterstradti",220,60,2
+"wagleri",217,42,1
 "Waved Woodpecker",208,17,2
 "Wahlberg's Honeyguide",201,36,1
+"wallacei",204,87,2
+"waldeni",203,32,2
 "Ward's Trogon",252,57,2
+"wardi",252,57,2
+"watsonii",227,13,2
 "Wallace's Scops-owl",224,71,1
 "Wahlberg's Eagle",116,35,2
+"wahlbergi",116,35,2
 "Wallace's Hawk-eagle",116,64,2
 "Waders, Gulls, Sandpipers and more",114,46,2
 "Wandering Tattler",223,84,2
@@ -44,52 +379,227 @@ name,fileindex,index,whichChild
 "Wattled Ibis",354,160,1
 "Wandering Albatross",357,85,2
 "Waved Albatross",357,109,2
+"African Water Rail",362,32,2
 "Water Rail",362,36,2
+"Bush hens, Waterhens and more",362,44,1
+"Rufous-tailed Waterhen",362,50,2
+"Isabelline Waterhen",362,52,1
+"White-breasted Waterhen",362,55,1
+"watersi",360,146,1
+"wallacii",360,154,1
 "Watercock",360,155,2
 "Wattled Crane",360,173,2
 "Wallace's Fruit-dove",350,99,1
+"wallacii",350,99,1
+"waalia",351,11,2
+"watertonii",326,31,2
 "Waterfall Swift",329,52,2
 "Wallace's Owlet-nightjar",324,62,2
+"wallacii",324,62,2
 "Wattled Pheasant",312,22,2
+"wallichi",312,32,2
 "Wattled Curassow",310,47,2
+"wagleri",310,86,2
 "Wattled Guan",311,39,2
+"wallacei",310,114,2
 "Wattled Brush-turkey",310,125,1
 "Waterfowl, Screamers and Magpie Goose",310,129,2
+"waigiuensis",313,117,1
 "Wandering Whistling-duck",310,161,2
 "Wattle-necked Softshell Turtle",343,17,1
 "Water Skinks",301,3,1
+"Blue Mountain Water Skink",301,21,1
+"wahlbergi",300,176,2
+"warreni",298,92,2
 "Wall Lizards, Whiptail Lizards and more",298,160,2
 "Wall Lizards",299,77,2
 "Wall Lizards",299,116,2
 "Wall Lizards and more",298,164,2
+"Tyrrhenian Wall Lizard",298,173,1
+"Erhard's Wall Lizard",298,176,1
+"Dalmatian Wall Lizard",298,179,2
+"Common Wall Lizard",298,181,1
+"Ibiza Wall Lizard",298,183,2
+"Miles Wall Lizard",298,184,2
+"wagleriana",298,186,1
+"Lilford's Wall Lizard",298,188,2
 "Wall Lizards",298,197,2
+"wattsi",409,68,2
 "Water Dragons",413,93,2
+"Lake Erie Water Snake",335,128,1
+"Cobras, Sea Snakes, Water Snakes and more",340,0,2
+"Walterinnesia",340,44,2
+"Common Brown Water Snake",340,112,2
+"Crab-eating Water Snake",340,161,1
+"Cantor's Water Snake",340,163,2
+"Rainbow Water Snake",340,170,2
+"wagleri",339,59,2
+"Earless Water Rat",270,47,2
 "Waterside Rat",270,59,2
+"African Wading Rat",269,217,2
 "Watts's Sulawesi Maxomys",267,155,1
+"wattsi",267,155,1
 "Water Rats",271,19,1
+"New Britain Water Rat",271,22,1
+"Common Water Rat",271,24,2
+"Western Water Rat",271,26,1
+"False Water Rat",271,28,2
 "Waters's Gerbil",268,11,1
+"watersi",268,11,1
+"Rice Water Rats",292,77,2
+"Harris's Rice Water Rat",292,78,1
+"Alfaro's Rice Water Rat",292,79,2
+"South American Water Rat",294,39,1
+"Trinidad Water Rat",294,42,2
 "Water Mice",287,86,2
+"Underwood's Water Mouse",287,89,1
+"Thomas's Water Mouse",287,90,2
+"Mexican Water Mouse",287,91,2
+"Goldman's Water Mouse",287,92,2
+"Chibchan Water Mouse",287,103,2
 "Watson's Climbing Rat",287,139,2
+"watsoni",287,139,2
 "Water Vole",282,112,2
 "Ward's Red-backed Vole",284,17,2
+"wardi",284,17,2
 "Water Voles",281,45,2
+"Eurasian Water Vole",281,47,1
+"Southern Water Vole",281,49,2
 "Washington Ground Squirrel",297,62,2
+"washingtoni",297,62,2
+"Kenyan Wattled Bat",391,12,1
+"Glen's Wattled Bat",391,21,1
+"New Caledonia Wattled Bat",389,92,1
+"Gould's Wattled Bat",389,93,2
+"Hoary Wattled Bat",389,94,2
+"Chocolate Wattled Bat",389,97,1
 "Watts's Pipistrelle",390,10,1
+"wattsi",390,10,1
+"walkeri",392,42,2
+"Chinese Water Myotis",403,20,2
 "Wagner's Bonneted Bat",396,35,2
+"watsoni",393,35,1
 "Waterhouse's Leaf-nosed Bat",393,192,1
+"waterhousii",393,192,1
 "Wagner's Mustached Bat",393,215,2
+"wallacei",366,141,1
 "Wahlberg's Epauletted Fruit Bat",399,23,2
+"wahlbergi",399,23,2
 "Walia Ibex",372,19,2
+"walie",372,19,2
+"walleri",372,144,2
 "Waterbuck",371,22,2
+"Chinese Water Deer",375,39,2
 "Water Chevrotain",371,115,2
+"Philippine Warty Pig",401,11,2
+"Indo-chinese Warty Pig",401,13,1
+"Javan Warty Pig",401,14,2
+"Sulawesi Warty Pig",401,17,1
+"Visayan Warty Pig",401,18,2
+"Desert Warthog",401,27,1
+"Common Warthog",401,28,2
+"wagneri",401,39,2
+"Seals, Sea Lions and Walrus",381,35,2
 "Walrus",381,68,2
+"watasei",370,48,2
+"American Water Shrew",398,16,1
+"wardi",397,65,2
 "Water shrews",397,152,2
+"Japanese Water Shrew",397,157,1
+"Sumatran Water Shrew",397,158,2
+"Malayan Water Shrew",397,159,2
+"Himalayan Water Shrew",397,160,2
+"Chinese Water Shrew",397,161,2
+"Bornean Water Shrew",397,162,2
 "Water shrews",397,163,2
+"Mediterranean Water Shrew",397,166,1
+"Transcaucasian Water Shrew",397,167,2
+"Eurasian Water Shrew",397,168,2
+"Elegant Water Shrew",397,169,2
+"Kangaroos, Wallabys and more",109,7,1
+"Brush-tailed Rock Wallaby",110,13,1
+"Herbert's Rock Wallaby",110,14,2
+"Unadorned Rock Wallaby",110,15,2
+"Allied Rock Wallaby",110,17,1
+"Godman's Rock Wallaby",110,18,2
+"Yellow-footed Rock Wallaby",110,19,2
+"Purple-necked Rock Wallaby",110,22,1
+"Black-footed Rock Wallaby",110,23,2
+"Rothschild's Rock Wallaby",110,25,1
+"Proserpine Rock Wallaby",110,26,2
+"Short-eared Rock Wallaby",110,31,2
+"Black-striped Wallaby",110,52,1
+"Parma Wallaby",110,53,2
+"Western Brush Wallaby",110,54,2
+"Red-necked Wallaby",110,56,1
+"Whiptail Wallaby",110,57,2
+"Tammar Wallaby",110,59,1
+"Agile Wallaby",110,60,2
+"Antilopine Wallaroo",110,65,1
+"Common Wallaroo",110,67,2
+"Black Wallaroo",110,68,2
+"Swamp Wallaby",110,72,2
+"Wallabia",110,72,2
+"Northern Nailtail Wallaby",110,74,1
+"Bridled Nailtail Wallaby",110,75,2
+"Spectacled Hare Wallaby",110,78,1
+"Rufous Hare Wallaby",110,79,2
+"Banded Hare Wallaby",110,112,2
+"wallacii",111,41,2
+"Little Water Opossum",109,155,2
 "Water Opossum",109,156,2
+"walkeri",63,145,2
+"wayuu",68,40,2
+"Titicaca Water Frog",42,22,2
+"wagneri",39,59,2
+"walkeri",40,151,2
+"walfordi",48,36,2
+"wavrini",46,11,2
+"wandae",70,22,2
+"wapogaensis",53,89,2
+"watjulumensis",53,150,2
 "Water-holding Frog",38,157,1
 "Wailing Frog",38,165,2
+"Daly Waters Frog",38,168,1
+"walkeri",93,66,1
+"walkeri",84,50,2
+"warreni",87,21,1
 "Wallace's Flying Frog",21,74,1
+"Wakea",3,168,2
+"warszewitschii",12,26,2
+"Epirus Water Frog",18,9,2
+"Balkan Water Frog",18,22,2
+"Albanian Water Frog",18,32,2
+"Malabar Wart Frog",11,28,1
+"Bombay Wart Frog",11,30,2
+"Nepal Wart Frog",11,32,1
+"Pierre's Wart Frog",11,65,2
+"Terai Wart Frog",11,77,2
+"Kerala Warty Frog",11,89,2
 "Wager's Stream Frog",10,18,2
+"wageri",10,18,2
+"wadei",90,41,2
+"waira",28,14,2
+"wapoga",28,86,2
+"walteri",29,92,2
+"African Wart Frogs, Reed Frogs, Midwife Frogs and more",25,127,1
+"African Wart Frogs",27,44,1
+"wahlbergii",26,29,2
+"wawuensis",71,35,2
+"walkeri",102,15,2
+"wakei",106,67,2
+"wallacei",104,21,2
+"waterlooensis",104,30,2
 "Wandering Salamander",105,68,2
+"Chinese Warty Newt",103,47,2
 "Wanggao Warty Newt",103,49,2
+"Wanggao Warty Newt",103,49,2
+"Spot-tailed Warty Newt",103,52,1
+"Guangxi Warty Newt",103,53,2
+"Hong Kong Warty Newt",103,54,2
+"waltl",98,148,2
 "Waterdogs",98,190,1
+"Gulf Coast Waterdog",98,193,1
+"Dwarf Waterdog",98,194,2
+"Alabama Waterdog",98,195,2
+"Neuse River Waterdog",98,197,1

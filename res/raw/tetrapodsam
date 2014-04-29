@@ -1,92 +1,616 @@
 name,fileindex,index,whichChild
+"americana",127,36,1
+"Buntings, American sparrows and more",124,83,1
+"Amaurospiza",124,180,1
+"Amaurospiza",124,181,2
+"Amaurospiza",124,182,2
+"Buntings, American sparrows and more",124,184,2
+"amoena",124,196,2
+"americana",124,197,2
+"New World Warblers, Buntings, American Sparrows and more",142,2,1
+"Buntings, American sparrows and more",142,5,1
+"Ammodramus",145,65,1
+"Ammodramus",145,66,2
+"Ammodramus",145,73,1
+"Ammodramus",145,74,2
+"Ammodramus",145,75,2
+"Ammodramus",145,76,2
+"Amphispiza",145,79,2
 "American Tree Sparrow",145,100,1
+"Amphispiza",142,50,2
+"Buntings, American sparrows and more",146,1,1
+"Ammodramus",146,13,1
+"Ammodramus",146,14,2
+"Ammodramus",146,15,2
+"Buntings, American sparrows and more",142,82,2
+"Amblyramphus",143,31,2
+"Amblycercus",143,85,2
+"New World warblers, Buntings, American Sparrows and more",142,184,2
 "American Redstart",144,126,2
+"americana",144,143,1
 "American Yellow Warbler",144,148,1
+"Buntings, American sparrows and more",121,8,2
 "American Goldfinch",138,35,2
+"ambigua",135,69,2
+"Kauai Amakihi",135,85,1
+"Common Amakihi",135,86,2
+"Oahu Amakihi",135,89,1
 "American Pipit",123,20,1
+"ameliae",123,92,1
+"ammodendri",122,44,2
+"Amadina",132,166,1
+"Amadina",132,167,2
+"Amandava",132,184,1
+"amandava",132,185,2
+"Amandava",132,185,2
+"Amandava",132,186,2
+"Amblyospiza",140,179,2
 "Amethyst Sunbird",131,113,2
+"amethystina",131,113,2
 "Amani Sunbird",121,103,1
 "Amber Mountain Rock-thrush",184,106,1
 "American Robin",188,54,2
+"amaurochalinus",189,48,2
 "American Mountain Thrush",188,79,2
 "Amami Thrush",188,144,2
 "American Dipper",181,67,2
+"Ampeliceps",194,66,2
 "American Treecreeper",181,131,2
+"americana",181,131,2
+"ampelinus",181,153,2
+"ambigua",163,84,2
 "Ambon Yellow White-eye",166,28,2
+"Amphilais",176,18,2
+"Amaurocichla",176,193,2
+"amaurotis",175,16,2
+"amoenus",162,23,2
+"Ammomanes",161,84,2
+"Ammomanes",161,91,2
+"Ammomanes",161,110,1
+"Ammomanes",161,111,2
+"amabilis",169,40,2
+"Amalocichla",151,30,1
+"Amalocichla",151,31,2
 "American Crow",158,54,1
 "Amami Jay",157,32,2
+"amaurocephalus",152,132,1
+"amphichroa",195,17,2
+"amboimensis",198,15,2
+"amabilis",120,103,2
+"Amytornis",120,124,1
+"Amytornis",120,125,2
+"Amytornis",120,126,2
+"Amytornis",120,127,2
+"Amytornis",120,128,2
+"Amytornis",120,132,1
+"Amytornis",120,133,2
+"Amytornis",120,134,2
+"Amytornis",120,135,2
+"Amytornis",120,136,2
+"Amblyornis",120,169,2
+"Amblyornis",120,170,2
+"Amblyornis",120,171,2
+"Amblyornis",120,172,2
+"amaurotis",232,22,1
 "Amazonian Barred Woodcreeper",230,161,2
 "Amazonian Antpitta",248,176,2
+"ambiguus",246,25,2
 "Amazonian Antshrike",246,39,2
+"amazonicus",246,39,2
+"ambigua",245,173,1
 "Amazonian Streaked Antwren",245,188,2
 "Amazonian Black-tyrant",235,19,1
 "American Dusky Flycatcher",243,12,1
 "Amazonian Tyrannulet",242,66,1
+"amaurocephalus",237,59,1
 "Amazonian Royal Flycatcher",229,126,1
+"amabilis",249,20,2
 "Amazonian Umbrellabird",249,29,2
+"Ampelion",249,55,1
+"Ampelion",249,56,2
+"Ampelioides",249,88,2
+"amabilis",216,72,1
+"amabilis",219,21,2
+"amboinensis",215,39,1
+"ambiguus",217,59,2
 "Amazons",221,4,1
+"Yellow-crowned Amazon",221,15,1
+"Amazona",221,15,1
+"Yellow-headed Amazon",221,16,2
+"Amazona",221,16,2
+"Yellow-naped Amazon",221,17,2
+"Amazona",221,17,2
+"Blue-fronted Amazon",221,18,2
+"Amazona",221,18,2
+"Red-necked Amazon",221,20,1
+"Amazona",221,20,1
+"St Lucia Amazon",221,21,2
+"Amazona",221,21,2
+"Yellow-shouldered Amazon",221,22,2
+"Amazona",221,22,2
+"Blue-cheeked Amazon",221,27,1
+"Amazona",221,27,1
+"Red-browed Amazon",221,28,2
+"Amazona",221,28,2
+"Red-lored Amazon",221,29,2
+"Amazona",221,29,2
+"Orange-winged Amazon",221,30,2
+"amazonica",221,30,2
+"Amazona",221,30,2
+"Red-crowned Amazon",221,32,1
+"Amazona",221,32,1
+"Lilac-crowned Amazon",221,33,2
+"Amazona",221,33,2
+"Puerto Rican Amazon",221,39,1
+"Amazona",221,39,1
+"Cuban Amazon",221,40,2
+"Amazona",221,40,2
+"Yellow-billed Amazon",221,41,2
+"Amazona",221,41,2
+"Hispaniolan Amazon",221,42,2
+"Amazona",221,42,2
+"White-fronted Amazon",221,43,2
+"Amazona",221,43,2
+"Black-billed Amazon",221,44,2
+"Amazona",221,44,2
+"Red-spectacled Amazon",221,48,1
+"Amazona",221,48,1
+"Tucuman Amazon",221,49,2
+"Amazona",221,49,2
+"Vinaceous Amazon",221,51,1
+"Amazona",221,51,1
+"Festive Amazon",221,52,2
+"Amazona",221,52,2
+"Yellow-lored Amazon",221,53,2
+"Amazona",221,53,2
+"Red-tailed Amazon",221,57,1
+"Amazona",221,57,1
+"St Vincent Amazon",221,58,2
+"Amazona",221,58,2
+"Scaly-naped Amazon",221,59,2
+"Amazona",221,59,2
+"Imperial Amazon",221,60,2
+"Amazona",221,60,2
+"Kawall's Amazon",221,62,1
+"Amazona",221,62,1
+"Mealy Amazon",221,63,2
+"Amazona",221,63,2
+"Yellow-faced Amazon",221,66,2
+"amazonina",221,99,2
 "Amazonian Parrotlet",215,106,1
 "Amur Falcon",222,49,2
+"amurensis",222,49,2
 "American Kestrel",222,55,1
+"americanus",222,106,2
 "American Three-toed Woodpecker",206,132,2
+"ambiguus",204,64,2
+"amaurocephala",209,25,1
+"amauroptera",202,120,2
+"americana",202,131,2
 "American Pygmy Kingfisher",202,132,2
 "Amazon Kingfisher",202,133,2
+"amazona",202,133,2
+"amictus",210,50,2
+"Central American Pygmy-owl",226,14,2
 "Amazonian Pygmy-owl",226,15,2
 "American Swallow-tailed Kite",115,142,2
+"South American Tern",213,9,1
+"South American Snipe",223,32,2
 "American Woodcock",223,51,1
+"americanus",223,170,2
+"South American Painted-snipe",114,138,2
 "American Oystercatcher",119,133,1
 "American Avocet",119,160,1
+"americana",119,160,1
 "American Golden Plover",119,170,2
 "American Bittern",354,101,1
 "American White Pelican",354,197,1
+"americana",346,36,2
 "Amsterdam Albatross",357,97,1
+"amsterdamensis",357,97,1
+"americanus",356,26,1
 "American Coot",360,53,2
+"americana",360,53,2
+"Amaurornis",362,48,1
+"Amaurornis",362,49,2
+"Amaurornis",362,50,2
+"Amaurornis",362,52,1
+"Amaurornis",362,53,2
+"Amaurornis",362,55,1
+"Amaurornis",362,56,2
+"Amaurornis",362,58,1
+"Amaurornis",362,59,2
+"Amaurolimnas",360,110,1
+"americana",360,181,2
 "Amethyst Brown-dove",347,29,2
+"amethystinus",347,29,2
+"amboinensis",347,126,1
 "American Flamingo",353,44,2
+"Amazilia",327,16,2
+"Amazilia",327,19,1
+"Amazilia",327,20,2
+"Amazilia",327,22,1
+"Amazilia",327,23,2
+"Amazilia",327,28,1
+"amabilis",327,29,2
+"Amazilia",327,29,2
+"Amazilia",327,31,1
+"Amazilia",327,32,2
+"Amazilia",327,39,2
+"Amazilia",327,52,1
+"Amazilia",327,55,1
+"Amazilia",327,56,2
 "Amazilia Hummingbird",327,57,2
+"amazilia",327,57,2
+"Amazilia",327,57,2
+"Amazilia",327,61,2
+"Amazilia",327,62,2
+"Amazilia",327,64,1
+"Amazilia",327,69,1
+"Amazilia",327,70,2
+"Amazilia",327,71,2
+"Amazilia",327,72,2
+"Amazilia",327,73,2
+"Amazilia",327,79,1
+"Amazilia",327,80,2
+"Amazilia",327,81,2
+"Amazilia",327,83,1
+"Amazilia",327,87,1
+"Amazilia",327,88,2
+"Amazilia",327,89,2
 "Amethyst Woodstar",328,31,1
+"amethystina",328,31,1
 "Amethyst-throated Hummingbird",326,164,2
+"amethystinus",326,164,2
 "Amethyst-throated Sunangel",332,79,2
+"amethysticollis",332,79,2
+"amelis",329,55,2
 "Amazonian Swift",329,147,2
 "American Black Swift",324,27,2
+"Lady Amherst's Pheasant",312,41,1
+"amherstiae",312,41,1
+"Ammoperdix",317,71,1
+"Ammoperdix",317,72,2
+"americana",313,86,2
 "American Black Duck",313,163,1
 "American Wigeon",313,173,1
+"americana",313,173,1
+"Amazonetta",313,216,1
+"americana",0,28,1
 "American Crocodile",0,40,2
 "American Alligator",0,74,1
+"amboinensis_amboinensis",96,24,1
 "American Red-bellied Turtle",95,39,1
+"Central American River Turtle",94,183,2
+"Amyda",343,18,2
+"South American River Turtles",0,81,1
+"Red-headed Amazon River Turtle",0,85,1
+"Six-tubercled Amazon River Turtle",0,89,1
+"Big-headed Amazon River turtle",0,94,2
+"amicula",306,22,2
+"amaura",306,44,2
+"ameles",302,53,2
+"amplus",301,14,2
+"Amphiglossus",303,80,1
+"Amphiglossus",303,81,2
+"Amphiglossus",303,83,1
+"Amphiglossus",303,84,2
+"Amphiglossus",303,86,2
+"Amphiglossus",303,94,1
+"Amphiglossus",303,95,2
+"Amphiglossus",303,96,2
+"Amphiglossus",303,97,2
+"Amphiglossus",303,99,1
+"Amphiglossus",303,100,2
+"Amphiglossus",303,101,2
+"Amphiglossus",303,104,1
+"Amphiglossus",303,105,2
+"Amphiglossus",303,106,2
+"Amphiglossus",303,108,1
+"Amphiglossus",303,109,2
+"amurensis",308,13,2
+"amazonicus",309,37,2
+"Ameiva",309,51,1
+"Ameiva",309,52,2
+"Ameiva",309,53,2
+"Ameiva",309,54,2
+"Ameiva",309,55,2
+"Ameiva",309,58,1
+"Ameiva",309,59,2
+"Ameiva",309,61,1
+"Ameiva",309,62,2
+"Ameiva",309,63,2
+"Ameiva",309,65,1
+"Ameiva",309,66,2
+"Ameiva",309,67,2
+"Ameiva",309,70,1
+"ameiva",309,71,2
+"Ameiva",309,71,2
+"Ameiva",309,72,2
+"Amblyrhynchus",415,38,2
+"Amphibolurus",413,27,1
+"Amphibolurus",413,28,2
+"Amphibolurus",413,29,2
+"amphiboluroides",413,104,2
 "American Legless Lizards",411,60,2
+"Amphiesma",335,165,2
+"amarali",336,54,2
+"Amastridium",336,136,2
+"amoenus",335,198,1
+"ambreensis",340,91,1
+"Amplorhinus",340,96,1
+"Amblyodipsas",340,125,2
 "Amazon Tree Boa",334,91,2
+"Amphisbaena",334,165,1
+"Amphisbaena",334,166,2
+"Amphisbaena",334,167,2
+"Amphisbaena",334,169,1
+"Amphisbaena",334,170,2
+"Amphisbaena",334,171,2
+"Amphisbaena",334,172,2
+"Ethiopian Amphibious Rat",269,216,1
 "Amami Spiny Rat",273,46,2
+"amoenus",268,42,2
 "Ammodile",265,47,2
+"Ammodillus",265,47,2
+"Lund's Amphibious Rat",293,120,1
+"amicus",292,16,2
+"South American Spiny Mouse",292,81,1
+"South American Water Rat",294,39,1
 "Amazonian Mouse",294,43,2
+"amoenus",287,72,2
+"North American Deermouse",291,70,1
 "Amargosa Vole",282,102,2
 "Amur Lemming",283,43,2
+"amurensis",283,43,2
+"amphibius",281,47,1
+"amplus",255,138,2
 "American Beaver",254,28,1
 "Amazon Bamboo Rat",258,121,2
+"amblyonyx",258,126,2
+"amatus",259,14,2
+"Central American Agouti",256,101,2
+"North American Porcupine",256,144,2
+"Northern Amazon Red Squirrel",279,23,1
+"Southern Amazon Red Squirrel",279,24,2
 "Amazon Dwarf Squirrel",279,61,1
+"Central American Dwarf Squirrel",279,64,2
+"Ammospermophilus",296,51,2
+"Ammospermophilus",296,54,1
+"Ammospermophilus",296,55,2
+"Ammospermophilus",296,57,1
+"Ammospermophilus",296,58,2
+"Ammospermophilus",296,59,2
+"amoenus",296,85,2
+"americanus",277,41,2
 "Amami Rabbit",254,112,2
 "American Pika",261,15,2
+"Black-crowned Central American Squirrel Monkey",285,106,2
+"Montagne D' Ambre Fork-marked Lemur",260,101,1
+"amplus",393,26,2
+"Ametrida",393,55,1
+"Amorphochilus",365,63,1
 "Amazonian Sac-winged Bat",400,25,1
+"amplexicaudatus",399,57,1
+"ammon",372,42,1
+"Ammotragus",372,49,2
+"americanus",372,72,2
+"Ammodorcas",372,143,1
 "American Bison",371,65,2
+"Central American Red Brocket",375,10,1
+"americana",375,11,2
+"americanus",375,42,2
+"americana",371,101,2
+"ampullatus",371,156,1
+"amphibius",371,195,1
 "Amazon Weasel",383,37,2
 "American Mink",383,40,1
 "American Marten",383,52,1
+"americana",383,52,1
 "American Badger",383,86,2
+"North American Otter",386,11,2
 "American Hog-nosed Skunk",386,44,1
+"South American Coati",381,17,1
+"South American Fur Seal",381,45,2
+"South American Sea Lion",381,60,2
 "American Black Bear",381,111,2
+"americanus",381,111,2
 "American Water Shrew",398,16,1
 "American Pygmy Shrew",398,21,1
+"Central American Least Shrew",397,83,1
 "Amur Hedgehog",388,9,2
+"amurensis",388,9,2
 "Amblysomus",323,57,1
+"Amblysomus",323,60,1
+"Amblysomus",323,61,2
+"Amblysomus",323,62,2
+"Amblysomus",323,63,2
 "American Manatee",323,129,2
 "Amazonian Manatee",323,130,2
 "Amazonian Red-sided Opossum",109,166,1
+"americana",109,187,2
+"Central American Woolly Opossum",109,229,1
 "Amphibians",0,132,2
+"amabilis",60,54,2
+"amboroensis",56,28,1
 "American Toad",61,34,2
+"americanus",61,34,2
+"Amietophrynus",57,11,1
+"Amietophrynus",57,12,2
+"Amietophrynus",57,13,2
+"Amietophrynus",57,15,1
+"Amietophrynus",57,16,2
+"Amietophrynus",57,18,1
+"Amietophrynus",57,19,2
+"Amietophrynus",57,22,1
+"Amietophrynus",57,23,2
+"Amietophrynus",57,24,2
+"Amietophrynus",57,27,1
+"Amietophrynus",57,28,2
+"Amietophrynus",57,29,2
+"Amietophrynus",57,37,1
+"Amietophrynus",57,38,2
+"Amietophrynus",57,39,2
+"Amietophrynus",57,41,1
+"Amietophrynus",57,42,2
+"Amietophrynus",57,45,1
+"Amietophrynus",57,46,2
+"Amietophrynus",57,47,2
+"Amietophrynus",57,48,2
+"Amietophrynus",57,49,2
+"Amietophrynus",57,52,1
+"Amietophrynus",57,53,2
+"Amietophrynus",57,54,2
+"Amietophrynus",57,59,1
+"Amietophrynus",57,60,2
+"Amietophrynus",57,61,2
+"Amietophrynus",57,62,2
+"Amietophrynus",57,65,1
+"Amietophrynus",57,66,2
+"Amietophrynus",57,67,2
+"Amietophrynus",57,71,1
+"Amietophrynus",57,72,2
+"Amietophrynus",57,73,2
+"Amietophrynus",57,75,1
+"Amietophrynus",57,76,2
 "Amatola Toad",57,110,1
+"amatolicus",57,110,1
+"South American Common Toad",58,15,1
+"South American Redbelly Toads",38,37,2
+"Ameerega",43,13,1
+"Ameerega",43,14,2
+"Ameerega",43,16,1
+"Ameerega",43,17,2
+"Ameerega",43,18,2
+"Ameerega",43,22,1
+"Ameerega",43,23,2
+"Ameerega",43,24,2
+"Ameerega",43,25,2
+"Ameerega",43,27,1
+"Ameerega",43,28,2
+"Ameerega",43,30,1
+"Ameerega",43,31,2
+"Ameerega",43,36,1
+"Ameerega",43,37,2
+"Ameerega",43,38,2
+"Ameerega",43,40,1
+"Ameerega",43,41,2
+"Ameerega",43,42,2
+"Ameerega",43,45,1
+"Ameerega",43,46,2
+"Ameerega",43,48,1
+"Ameerega",43,49,2
+"amazonica",44,22,2
+"americanus",45,52,2
+"amnicola",65,15,2
+"South American Horned Frogs",52,3,1
 "Amazonian Horned Frog",52,10,2
 "American White Lipped Frog",39,13,1
+"ametarsia",49,45,2
+"ameibothalame",40,23,1
 "Amazon Treefrogs",64,38,2
+"amicorum",48,169,2
+"amboinensis",55,26,2
+"AMPHIGNATHODONTIDAE",93,0,2
+"amplinympha",75,51,2
+"amniscola",72,98,1
+"amadeus",87,28,2
+"amboli",9,37,2
+"amoenus",8,64,2
+"ambohitra",3,14,2
+"ambohimitombi",3,88,2
+"ambreensis",3,111,1
 "American Bullfrog",12,93,1
+"amurensis",13,61,2
+"amamiensis",16,35,2
+"Amolops",15,11,1
+"Amolops",15,12,2
+"Amolops",15,14,1
+"Amolops",15,15,2
+"Amolops",15,17,1
+"Amolops",15,18,2
+"Amolops",15,19,2
+"Amolops",15,20,2
+"Amolops",15,24,1
+"Amolops",15,25,2
+"Amolops",15,26,2
+"Amolops",15,28,1
+"Amolops",15,29,2
+"Amolops",15,32,1
+"Amolops",15,33,2
+"Amolops",15,34,2
+"Amolops",15,40,1
+"Amolops",15,41,2
+"Amolops",15,42,2
+"Amolops",15,43,2
+"Amolops",15,44,2
+"Amolops",15,47,1
+"Amolops",15,48,2
+"Amolops",15,49,2
+"Amolops",15,50,2
+"Amolops",15,53,1
+"Amolops",15,54,2
+"Amolops",15,55,2
+"Amolops",15,57,1
+"Amolops",15,58,2
+"amoropalamus",12,133,2
+"amnicola",17,33,2
+"Gunther's Amoy Frog",2,48,2
+"Amietia",10,49,1
+"Amietia",10,50,2
+"Amietia",10,52,1
+"Amietia",10,53,2
+"Amietia",10,54,2
+"Amietia",10,55,2
+"Amietia",10,59,1
+"Amietia",10,60,2
+"Amietia",10,62,1
+"amieti",10,63,2
+"Amietia",10,63,2
+"Amietia",10,64,2
 "American Spadefoot Toads",1,166,1
+"amieti",322,19,2
+"New Zealand and North American Primitive Frogs",0,138,1
+"amuzga",100,121,1
+"amplus",107,34,1
+"ambrosii",105,44,1
+"Three-toed Amphiuma",98,100,1
+"Amphiuma",98,100,1
+"Two-toed Amphiuma",98,101,2
+"Amphiuma",98,101,2
+"One-toed Amphiuma",98,102,2
+"Amphiuma",98,102,2
+"AMBYSTOMATIDAE",98,180,2
+"Ambystoma",99,11,1
+"Ambystoma",99,12,2
+"Ambystoma",99,13,2
+"Ambystoma",99,14,2
+"Ambystoma",99,15,2
+"Ambystoma",99,19,1
+"Ambystoma",99,20,2
+"Ambystoma",99,21,2
+"Ambystoma",99,22,2
+"Ambystoma",99,25,1
+"Ambystoma",99,26,2
+"Ambystoma",99,27,2
+"Ambystoma",99,29,1
+"Ambystoma",99,30,2
+"Ambystoma",99,32,1
+"Ambystoma",99,33,2
+"Ambystoma",99,36,1
+"Ambystoma",99,37,2
+"Ambystoma",99,39,1
+"amblycephalum",99,40,2
+"Ambystoma",99,40,2
+"Ambystoma",99,44,1
+"Ambystoma",99,45,2
+"Ambystoma",99,46,2
+"Ambystoma",99,47,2
+"Ambystoma",99,51,1
+"Ambystoma",99,52,2
+"Ambystoma",99,54,1
+"Ambystoma",99,55,2
+"Ambystoma",99,57,1
+"Ambystoma",99,58,2
 "Amber-coloured Salamander",344,32,2
+"amjiensis",344,51,2

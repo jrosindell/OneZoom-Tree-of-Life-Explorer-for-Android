@@ -29,7 +29,6 @@ public class CanvasActivity extends Activity{
 	private GrowthThread growthThread;
 	private boolean threadStarted = false;
 	private boolean growing = false;
-	private BinarySearch searchEngine;
 	private int orientation;
 	private int screenHeight;
 	private int screenWidth;
@@ -46,7 +45,6 @@ public class CanvasActivity extends Activity{
 
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
-		searchEngine = new BinarySearch(this);
 		
 		groupIndexMap = new TreeMap<String, String>();
 		groupIndexMap.put("Mammals", "0");
@@ -123,6 +121,10 @@ public class CanvasActivity extends Activity{
 		memoryThread.reset();
 	}
 	
+	public void search(String userInput) {
+		memoryThread.search(userInput);
+	}
+	
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		switch (item.getItemId()) {
@@ -195,7 +197,7 @@ public class CanvasActivity extends Activity{
 				searchView.setQueryHint("Enter Species Name");
 				searchView.setQuery(arg0, false);
 				searchView.clearFocus();
-				searchEngine.performSearch(arg0);
+				search(arg0);
 				getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 				return false;
 			}

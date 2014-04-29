@@ -1,60 +1,969 @@
 name,fileindex,index,whichChild
 "Raimondi's Yellow-finch",125,74,2
+"raimondii",125,74,2
+"Ramphocelus",130,35,1
+"Ramphocelus",130,36,2
+"Ramphocelus",130,37,2
+"Ramphocelus",130,39,1
+"Ramphocelus",130,40,2
+"Ramphocelus",130,43,1
+"Ramphocelus",130,44,2
+"Ramphocelus",130,46,1
+"Ramphocelus",130,47,2
+"Ramphocelus",130,48,2
+"rara",133,38,2
+"raricola",121,52,2
 "Rachel's Malimbe",140,94,1
+"racheliae",140,94,1
 "Radde's Accentor",121,80,2
+"randi",185,43,1
+"ralloides",181,34,2
 "Rarotonga Starling",194,18,1
+"Ramphocinclus",192,61,2
+"Ramphocaenus",181,121,2
+"ramsayi",168,43,2
+"rabori",165,95,2
 "Ranongga White-eye",166,37,2
 "Rand's Warbler",176,53,2
+"Randia",176,53,2
+"randrianasoloi",176,73,1
+"rama",176,162,2
 "Rattling Cisticola",172,17,2
 "Radde's Warbler",162,111,2
 "Raso Lark",173,23,2
+"razae",173,23,2
+"raytal",173,62,2
 "Rail-babbler",120,14,2
 "Rarotonga Monarch",159,34,1
 "Raggiana Bird-of-paradise",160,12,1
+"raggiana",160,12,1
+"Crows, Ravens and Jackdaws",158,0,1
+"Chihuahuan Raven",158,11,1
+"Common Raven",158,12,2
+"White-necked Raven",158,15,1
+"Brown-necked Raven",158,45,1
+"Little Raven",158,49,2
+"Australian Raven",158,65,1
+"Thick-billed Raven",158,68,2
+"Fan-tailed Raven",158,75,1
+"Forest Raven",158,85,1
 "Ratchet-tailed Treepie",157,143,1
 "Racket-tailed Treepie",157,146,1
+"Greater Racket-tailed Drongo",152,90,1
+"Lesser Racket-tailed Drongo",152,92,2
+"raveni",152,171,2
+"Ramsayornis",148,188,1
+"Ramsayornis",148,189,2
 "Rayaditos",230,49,2
+"Thorn-tailed Rayadito",230,50,1
+"Masafuera Rayadito",230,51,2
+"Ramphotrigon",236,137,1
+"Ramphotrigon",236,138,2
+"Ramphotrigon",236,140,2
+"raimondii",249,63,2
+"rara",249,64,2
 "Rainbow Pitta",229,149,2
 "Rainbow Lorikeet",216,14,2
 "Racquet-Tails",220,44,2
+"Yellowish-breasted Racquet-tail",220,49,1
+"Luzon Racquet-tail",220,50,2
+"Blue-winged Racquet-tail",220,52,1
+"Blue-crowned Racquet-tail",220,53,2
+"Blue-headed Racquet-tail",220,56,1
+"Buru Racquet-tail",220,57,2
+"Golden-mantled Racquet-tail",220,58,2
+"Green Racquet-tail",220,59,2
+"Mindanao Racquet-tail",220,60,2
+"ramsayi",206,128,2
+"radiolatus",207,18,2
+"rafflesii",208,87,2
+"rabieri",206,151,2
+"Ramphastidae",204,0,2
+"Ramphastos",204,63,1
+"Ramphastos",204,64,2
+"Ramphastos",204,65,2
+"Ramphastos",204,68,1
+"Ramphastos",204,69,2
+"Ramphastos",204,70,2
+"Ramphastos",204,71,2
+"Ramphastos",204,72,2
+"ramphastinus",204,75,2
+"rafflesii",204,147,2
+"radiatus",201,52,2
 "Racket-tailed Roller",201,122,2
 "Rainbow Bee-eater",210,19,2
 "Rajah Scops-owl",224,10,2
+"radiatum",226,56,2
+"ranivorus",117,12,2
+"radiatus",117,119,2
+"rapax",116,25,2
+"radiatus",115,154,1
 "Razorbill",212,128,1
+"ralloides",354,20,2
+"rara",354,161,2
+"ranfurlyi",364,26,2
 "Raffles's Malkoha",355,108,2
+"radiatus",355,186,2
+"radiolosus",346,114,2
 "Rails and Finfoots",360,1,1
 "Rails, crakes and more",360,2,1
+"Rallidae",360,2,1
+"Zapata Rail",360,25,1
+"Madagascar Wood Rail",360,33,1
+"Grey-throated Rail",360,34,2
+"Inaccessible Rail",360,73,1
+"Chestnut Rail",360,83,2
+"Guam Rail",362,10,2
+"Buff-banded Rail",362,11,2
+"Calayan Rail",362,14,1
+"Okinawa Rail",362,15,2
+"New Britain Rail",362,18,1
+"Roviana Rail",362,19,2
+"Slaty-breasted Rail",362,21,1
+"Barred Rail",362,22,2
+"New Guinea Flightless Rail",362,24,1
+"Madagascar Rail",362,30,1
+"Rallus",362,30,1
+"Virginia Rail",362,31,2
+"Rallus",362,31,2
+"African Water Rail",362,32,2
+"Rallus",362,32,2
+"Plain-flanked Rail",362,35,1
+"Rallus",362,35,1
+"Water Rail",362,36,2
+"Rallus",362,36,2
+"Bogota Rail",362,37,2
+"Rallus",362,37,2
+"Clapper Rail",362,40,1
+"Rallus",362,40,1
+"King Rail",362,41,2
+"Rallus",362,41,2
+"Austral Rail",362,42,2
+"Rallus",362,42,2
+"Sakalava Rail",362,59,2
+"Nkulengu Rail",362,60,2
+"Blackish Rail",360,100,1
+"Spotted Rail",360,101,2
+"Plumbeous Rail",360,102,2
+"Galapagos Rail",361,11,2
+"Black Rail",361,21,1
+"Junin Rail",361,22,2
+"Swinhoe's Rail",361,25,1
+"Speckled Rail",361,26,2
+"Yellow Rail",361,27,2
+"Bare-eyed Rail",361,30,1
+"Blue-faced Rail",361,31,2
+"Talaud Rail",361,32,2
+"Rallina",361,37,1
+"Rallina",361,38,2
+"Rallina",361,39,2
+"Rallina",361,41,1
+"Rallina",361,42,2
+"Rallina",361,45,1
+"Rallina",361,46,2
+"Rallina",361,47,2
+"Woodford's Rail",360,112,2
+"Rouget's Rail",360,116,2
+"White-throated Rail",360,118,1
+"Snoring Rail",360,119,2
+"Auckland Islands Rail",360,131,1
+"Lewin's Rail",360,132,2
+"Brown-banded Rail",360,133,2
+"Invisible Rail",360,154,1
+"rarotongensis",350,16,2
 "Rapa Fruit-dove",350,65,2
+"radiata",352,13,2
 "Rainbow-bearded Thornbill",332,29,1
+"Ramphomicron",332,54,1
+"Ramphomicron",332,55,2
 "Racket-tailed Coquette",332,114,2
+"Booted Racket-tail",332,153,2
 "Rainbow Starfrontlet",332,199,2
+"Ramphodon",325,56,1
 "Rain Quail",317,87,2
 "Razor-billed Curassow",310,57,1
 "Radjah Shelduck",313,54,2
+"radjah",313,54,2
+"radiata",97,52,2
+"Rafetus",343,29,2
+"Brazilian Radiolated Swamp Turtle",0,108,2
+"radiolata",0,108,2
+"ragazzi",303,26,1
+"Strauch's Racerunner",308,43,2
+"Blanc's Sand Racer",298,196,2
+"raviceps",405,56,2
+"raddei",406,105,2
+"Rankinia",413,48,1
+"Rankinia",413,49,2
+"Eastern Racer",337,14,2
+"Trans-pecos Rat Snake",335,18,1
+"Red-bellied Racer",336,75,2
 "Rainbow Water Snake",340,170,2
+"Eastern Diamond-backed Rattlesnake",339,27,1
+"Pygmy Rattlesnake",339,28,2
 "Rainbow Boa",334,89,1
+"Ramphotyphlops",334,148,1
+"Flinders Ranges Worm-lizard",318,190,1
+"Hamsters, Gerbils, True Mice, Rats and more",254,7,1
+"rattoides",266,17,1
+"White-tailed Giant Rat",266,65,1
+"Bismarck Giant Rat",266,68,1
+"King Rat",266,69,2
+"Pygmy White-tailed Rat",266,71,1
+"Black-tailed Giant Rat",266,72,2
+"Golden-backed Tree Rat",266,76,1
+"Black-footed Tree Rat",266,77,2
+"Greater Stick-nest Rat",266,78,2
+"Brush-tailed Rabbit Rat",266,79,2
+"Brush-tailed Rabbit Rat",266,79,2
+"Rock Rats",266,80,2
+"Kimberley Rock Rat",266,83,1
+"Common Rock Rat",266,84,2
+"Central Rock Rat",266,85,2
+"Arnhem Land Rock Rat",266,87,1
+"Harrington's Rat",263,10,2
+"Uneven-toothed Rat",270,34,2
+"Bougainville Giant Rat",270,41,1
+"Isabel Giant Rat",270,42,2
+"Florida Giant Rat",270,43,2
+"Poncelet's Giant Rat",270,45,1
+"Earless Water Rat",270,47,2
+"Woolly Rats",270,52,1
+"Subalpine Woolly Rat",270,55,1
+"Alpine Woolly Rat",270,56,2
+"De Vis's Woolly Rat",270,57,2
+"Rothschild's Woolly Rat",270,58,2
+"Waterside Rat",270,59,2
+"Small-toothed Rats",270,60,2
+"Lesser Small-toothed Rat",270,61,1
+"Greater Small-toothed Rat",270,62,2
+"Giant Rats",270,68,2
+"Western White-eared Giant Rat",270,70,1
+"Eastern White-eared Giant Rat",270,71,2
+"Rock-dwelling Giant Rat",270,72,2
+"Rudd's Bristle-furred Rat",269,43,2
+"Brush-furred Rats and more",269,44,2
+"Yellow-spotted Brush-furred Rat",269,54,2
+"Ethiopian Forest Brush-furred Rat",269,55,2
+"Short-tailed Brush-furred Rat",269,56,2
+"Black-clawed Brush-furred Rat",269,57,2
+"Fire-bellied Brush-furred Rat",269,58,2
+"Rusty-bellied Brush-furred Rat",269,62,1
+"Yellow-bellied Brush-furred Rat",269,66,1
+"Medium-tailed Brush-furred Rat",269,70,1
 "Rahm's Brush-furred Rat",269,71,2
+"Rahm's Brush-furred Rat",269,71,2
+"rahmi",269,71,2
+"Woosnam's Brush-furred Rat",269,72,2
+"White-bellied Rats and more",269,73,2
+"Himalayan White-bellied Rat",269,86,2
+"Brahma White-bellied Rat",269,87,2
+"Lang Bian White-bellied Rat",269,90,2
+"Chestnut White-bellied Rat",269,97,2
+"rapit",269,103,2
+"Little Himalayan Rat",269,105,2
+"Rock Rats",269,181,1
+"Tinfields Rock Rat",269,185,1
+"Bocage's Rock Rat",269,187,2
+"Thomas's Rock Rat",269,189,1
+"Nyika Rock Rat",269,190,2
+"Kaiser's Rock Rat",269,192,1
+"Red Rock Rat",269,198,2
+"Hinde's Rock Rat",269,199,2
+"Selinda Veld Rat",269,200,2
+"Groove-toothed Swamp Rats",269,202,1
+"Bell Groove-toothed Swamp Rat",269,206,1
+"Least Groove-toothed Swamp Rat",269,207,2
+"Hopkins's Groove-toothed Swamp Rat",269,208,2
+"Creek Groove-toothed Swamp Rat",269,209,2
+"Issel's Groove-toothed Swamp Rat",269,210,2
+"African Groove-toothed Rat",269,212,1
+"Ethiopian Amphibious Rat",269,216,1
+"African Wading Rat",269,217,2
+"Mindoro Mountain Rat",267,16,1
+"Rattus",267,16,1
+"Mentawai Archipelago Rat",267,17,2
+"Rattus",267,17,2
+"Hoffmann's Sulawesi Rat",267,18,2
+"Rattus",267,18,2
+"Lampobatang Sulawesi Rat",267,20,1
+"Rattus",267,20,1
+"Zelebor's Nicobar Rat",267,21,2
+"Rattus",267,21,2
+"Burnished Enggano Rat",267,22,2
+"Rattus",267,22,2
+"Osgood's Vietnamese Rat",267,26,1
+"Rattus",267,26,1
+"Miller's Nicobar Rat",267,27,2
+"Rattus",267,27,2
+"Malaysian Field Rat",267,29,1
+"Rattus",267,29,1
+"Aceh Rat",267,30,2
+"Rattus",267,30,2
+"Simalur Archipelago Rat",267,32,1
+"Rattus",267,32,1
+"Ricefield Rat",267,33,2
+"Rattus",267,33,2
+"Koopman's Peleng Island Rat",267,37,1
+"Rattus",267,37,1
+"Tawitawi Forest Rat",267,38,2
+"Rattus",267,38,2
+"Indochinese Forest Rat",267,39,2
+"Rattus",267,39,2
+"Himalayan Field Rat",267,40,2
+"Rattus",267,40,2
+"Philippine Forest Rat",267,43,1
+"Rattus",267,43,1
+"Himalayan Rat",267,44,2
+"Rattus",267,44,2
+"Kinabalu Rat",267,45,2
+"Rattus",267,45,2
+"Black Rat",267,49,1
+"rattus",267,49,1
+"Rattus",267,49,1
+"Rattus",267,50,2
+"Oriental House Rat",267,51,2
+"Rattus",267,51,2
+"Losea Rat",267,52,2
+"Rattus",267,52,2
+"Brown Rat",267,54,1
+"Rattus",267,54,1
+"Andaman Rat",267,55,2
+"Rattus",267,55,2
+"Hainald's Flores Island Rat",267,63,1
+"Rattus",267,63,1
+"Pale Field Rat",267,64,2
+"Rattus",267,64,2
+"Australian Swamp Rat",267,66,1
+"Rattus",267,66,1
+"Canefield Rat",267,67,2
+"Rattus",267,67,2
+"Long-haired Rat",267,68,2
+"Rattus",267,68,2
+"Timor Forest Rat",267,71,1
+"Rattus",267,71,1
+"Dusky Rat",267,72,2
+"Rattus",267,72,2
+"Bush Rat",267,73,2
+"Rattus",267,73,2
+"Sri Lankan Mountain Rat",267,74,2
+"Rattus",267,74,2
+"Xanthurus Rats",267,75,2
+"Northeastern Xanthurus Rat",267,78,1
+"Rattus",267,78,1
+"Southeastern Xanthurus Rat",267,79,2
+"Rattus",267,79,2
+"Peleng Island Xanthurus Rat",267,80,2
+"Rattus",267,80,2
+"Southwestern Xanthurus Rat",267,82,1
+"Rattus",267,82,1
+"Marmoset Xanthurus Rat",267,83,2
+"Rattus",267,83,2
+"New Guinea Rat",267,91,1
+"Rattus",267,91,1
+"Eastern Rat",267,92,2
+"Rattus",267,92,2
+"Sula Archipelago Rat",267,93,2
+"Rattus",267,93,2
+"Rattus",267,94,2
+"Spiny Seram Island Rat",267,97,1
+"Rattus",267,97,1
+"Yapen Rat",267,98,2
+"Rattus",267,98,2
+"Giluwe Rat",267,99,2
+"Rattus",267,99,2
+"Large Spiny Rat",267,100,2
+"Rattus",267,100,2
+"Halmahara Rat",267,102,1
+"Rattus",267,102,1
+"Small Spiny Rat",267,103,2
+"Rattus",267,103,2
+"Cape York Rat",267,104,2
+"Rattus",267,104,2
+"Sumatran Mountain Rat",267,109,1
+"Rattus",267,109,1
+"Polynesian Rat",267,110,2
+"Rattus",267,110,2
+"Hoogerwerf's Sumatran Rat",267,111,2
+"Rattus",267,111,2
+"Annandale's Sundaic Rat",267,112,2
+"Rattus",267,112,2
 "Ranjini's Field Rat",267,114,1
+"Ranjini's Field Rat",267,114,1
+"ranjiniae",267,114,1
+"Rattus",267,114,1
+"Enggano Island Rat",267,115,2
+"Rattus",267,115,2
+"Palawan Mountain Rat",267,116,2
+"Shaggy Rats and Marsh Rats",267,123,1
+"Shaggy Rats and Marsh Rats",267,123,1
+"African Marsh Rat",267,127,1
+"Angolan Marsh Rat",267,129,2
+"Montane Shaggy Rat",267,130,2
+"West African Shaggy Rat",267,132,1
+"Fox's Shaggy Rat",267,133,2
+"Hume's Rat",267,136,2
+"Rajah Rats",267,139,1
 "Rajah Rats",267,139,1
 "Rajah Sundaic Maxomys",267,149,2
+"rajah",267,149,2
+"Marmoset Rats",267,185,2
+"Greater Marmoset Rat",267,186,1
+"Lesser Marmoset Rat",267,187,2
 "Ranee Mice",267,188,2
+"Kondana Rat",267,203,2
+"White-tailed Wood Rat",267,207,1
+"Bandicoot Rats",267,220,2
+"Bunn's Short-tailed Bandicoot Rat",267,221,1
+"Short-tailed Bandicoot Rat",267,222,2
+"Ohiya Rat",274,29,2
+"Western New Guinea Mountain Rat",274,35,1
+"Rattus",274,35,1
+"Pocock's Highland Rat",274,36,2
+"Rattus",274,36,2
+"Moss-forest Rat",274,38,1
+"Rattus",274,38,1
+"Rattus",274,39,2
+"Arianus's Rat",274,41,1
+"Rattus",274,41,1
+"Glacier Rat",274,42,2
+"Rattus",274,42,2
+"Van Deusen's Rat",274,45,1
+"Rattus",274,45,1
+"Slender Rat",274,46,2
+"Rattus",274,46,2
+"Seram Island Mountain Rat",274,47,2
+"Millard's Rat",274,50,2
+"Sulawesi Soft-furred Rat",274,52,1
+"Hill Rats",274,55,1
+"Spiny Rats",273,44,2
+"Okinawa Spiny Rat",273,45,1
+"Amami Spiny Rat",273,46,2
+"Grass Rats",273,47,2
+"African Grass Rat",273,52,1
+"Somali Grass Rat",273,55,2
+"Nairobi Grass Rat",273,57,1
+"Blick's Grass Rat",273,58,2
+"Abyssinian Grass Rat",273,59,2
+"White-toothed Rats",273,60,2
+"Kenneth's White-toothed Rat",273,63,1
+"Manipur White-toothed Rat",273,64,2
+"Bower's White-toothed Rat",273,66,2
+"Bandicoot Rats",273,70,1
+"Lesser Bandicoot Rat",273,72,1
+"Greater Bandicoot Rat",273,73,2
+"Savile's Bandicoot Rat",273,74,2
+"Javan Bamboo Rat",273,75,2
+"Defua Rat",271,16,1
+"Water Rats",271,19,1
+"New Britain Water Rat",271,22,1
+"Common Water Rat",271,24,2
+"Western Water Rat",271,26,1
+"False Water Rat",271,28,2
+"Luzon Broad-toothed Rat",271,40,1
+"Long-tailed Sulawesian Shrew Rat",271,46,1
+"Tate's Sulawesian Shrew Rat",271,47,2
+"Diurnal Sulawesian Shrew Rat",271,48,2
+"Thicket Rats",263,41,1
+"Macmillan's Thicket Rat",263,46,1
+"Mozambique Thicket Rat",263,47,2
+"Giant Thicket Rat",263,48,2
+"Gray-headed Thicket Rat",263,50,1
+"Ethiopian Thicket Rat",263,51,2
+"Arid Thicket Rat",263,55,1
+"Forest Thicket Rat",263,56,2
+"Woodland Thicket Rat",263,59,1
+"Ruwenzori Thicket Rat",263,60,2
+"Eastern Rainforest Grammomys",263,62,1
+"Black-tailed Tree Rat",263,67,1
+"Shortridge's Rat",263,68,2
+"Acacia Rat",263,69,2
+"Loring's Rat",263,70,2
+"Thicket Rats",263,77,1
+"Kemp's Thicket Rat",263,79,1
+"Charming Thicket Rat",263,81,2
+"Rufous-nosed Rats",263,82,2
+"Ghana Rufous-nosed Rat",263,83,1
+"Rufous-nosed Rats",263,84,2
+"Mount Oku Rat",263,85,2
+"Target Rat",263,86,2
+"Vlei Rats",264,3,1
+"Typical Vlei Rat",264,11,1
+"Southern African Vlei Rat",264,19,1
+"Angoni Vlei Rat",264,20,2
+"Laminate Vlei Rat",264,21,2
+"Cuanza Vlei Rat",264,26,1
+"Western Vlei Rat",264,28,2
+"Dent's Vlei Rat",264,29,2
+"Burton's Vlei Rat",264,32,1
+"Tropical Vlei Rat",264,34,2
+"Barbour's Vlei Rat",264,39,1
+"Angolan Vlei Rat",264,40,2
+"Tanzanian Vlei Rat",264,41,2
+"Saunder's Vlei Rat",264,43,2
+"Whistling Rats",264,44,2
+"Littledale's Whistling Rat",264,45,1
+"Brants's Whistling Rat",264,46,2
+"Ryukyus Islands Tree Rat",264,47,2
+"Narrow-headed Rats",272,16,2
+"Gray-tailed Narrow-headed Rat",272,17,1
+"Ethiopian Narrow-headed Rat",272,18,2
+"Swamp Rats",272,20,1
+"Verschuren's Swamp Rat",272,24,1
+"Lukolela Swamp Rat",272,25,2
+"Big-eared Swamp Rat",272,26,2
+"Cansdale's Swamp Rat",272,27,2
+"Edward's Swamp Rat",272,28,2
+"Long-tailed Giant Rat",272,50,2
+"Edward's Rat",272,54,2
+"Giant Sulawesi Rat",272,56,2
+"Gerbils, Jirds and Sand Rats",263,114,1
+"Gerbils, Jirds and Sand Rats",265,0,2
+"Gerbils, Jirds and Sand Rats",265,5,1
+"Thin Sand Rat",265,44,1
+"Fat Sand Rat",265,45,2
+"Pouched Mice and Pouched Rats",263,132,1
+"Pouched Rats",263,133,1
+"Giant Pouched Rats",263,134,1
+"Forest Giant Pouched Rat",263,136,1
+"Gambian Rat",263,139,1
+"Long-tailed Pouched Rats",263,141,2
+"Long-tailed Pouched Rat",263,142,1
+"Blind Mole Rats, Mouse-like Hamsters and more",263,156,2
+"Blind Mole Rats and more",263,159,1
+"Kazakhstan Blind Mole Rat",263,165,1
+"Giant Blind Mole Rat",263,166,2
+"Podolian Mole Rat",263,167,2
+"Sandy Mole Rat",263,168,2
+"Balkan Blind Mole Rat",263,169,2
+"Greater Blind Mole Rat",263,170,2
+"Middle East Blind Mole Rat",263,173,1
+"Nehring's Bilind Mole Rat",263,174,2
+"Lesser Blind Mole Rat",263,175,2
+"Andean Swamp Rat",289,97,2
+"Andean Rat",289,121,1
+"Robust Dark Rice Rat",289,188,1
+"Dusky Rice Rat",289,189,2
+"Zuniga's Dark Rice Rat",289,190,2
+"Highland Small Rice Rat",289,201,1
+"Forest Small Rice Rat",289,202,2
+"Rio De Janeiro Arboreal Rat",289,203,2
+"Rice Rats and more",293,4,1
+"Colombian Rice Rat",293,14,1
+"Gorgas's Rice Rat",293,27,1
+"Marsh Rice Rat",293,47,2
+"Thomas's Rice Rat",293,64,2
+"Coues's Rice Rat",293,71,2
+"Rice Rats and more",293,82,2
+"Yellow Arboreal Rice Rat",293,88,1
+"Robert's Arboreal Rice Rat",293,89,2
+"Red Arboreal Rice Rat",293,90,2
+"Unicolored Rice Rat",293,91,2
+"Brazilian Arboreal Rice Rat",293,94,1
+"Cleber's Arboreal Rice Rat",293,96,2
+"Long-furred Rice Rat",293,99,1
+"Dusky Arboreal Rice Rat",293,101,2
+"Mamore Arboreal Rice Rat",293,106,1
+"King Arboreal Rice Rat",293,107,2
+"Foothill Arboreal Rice Rat",293,108,2
+"Arboreal Rice Rat",293,109,2
+"Bicolored Arboreal Rice Rat",293,110,2
+"Rushi's Rat",293,115,2
+"Marsh Rats",293,117,1
+"Lund's Amphibious Rat",293,120,1
+"Chaco Marsh Rat",293,121,2
+"Marsh Rat",293,122,2
+"Web-footed Marsh Rat",293,123,2
+"Brazilian False Rice Rat",293,124,2
+"Pygmy Rice Rats and more",287,12,1
+"Destructive Pygmy Rice Rat",287,19,1
+"Andean Pygmy Rice Rat",287,20,2
+"Yellow Pygmy Rice Rat",287,21,2
+"Chacoan Pygmy Rice Rat",287,22,2
+"Black-footed Pygmy Rice Rat",287,24,1
+"Sandy Pygmy Rice Rat",287,25,2
+"Long-tailed Pygmy Rice Rat",287,28,1
+"Fulvous Pygmy Rice Rat",287,29,2
+"St Vincent Pygmy Rice Rat",287,31,1
+"Brazilian Pygmy Rice Rat",287,32,2
+"Sprightly Pygmy Rice Rat",287,34,1
+"Grayish Pygmy Rice Rat",287,35,2
+"Small-eared Pygmy Rice Rat",287,39,1
+"Magellanic Pygmy Rice Rat",287,41,2
+"Delta Pygmy Rice Rat",287,42,2
+"Bunny Rat",287,53,1
+"Crimson-nosed Rats",292,56,1
+"Torres's Crimson-nosed Rat",292,58,1
+"Chaco Crimson-nosed Rat",292,59,2
+"Large-lipped Crimson-nosed Rat",292,60,2
+"Giant Rats",292,61,2
+"Woolly Giant Rat",292,62,1
+"Fossorial Giant Rat",292,63,2
+"Swamp Rats",292,64,2
+"Swamp Rat",292,65,1
+"Rice Water Rats",292,77,2
+"Harris's Rice Water Rat",292,78,1
+"Alfaro's Rice Water Rat",292,79,2
+"South American Water Rat",294,39,1
+"Trinidad Water Rat",294,42,2
+"rattus",294,43,2
+"Striped Atlantic Forest Rat",294,46,1
+"Pallid Atlantic Forest Rat",294,48,2
+"Fish-eating Rats",287,77,1
+"Peruvian Fish-eating Rat",287,80,1
+"Oyapock's Fish-eating Rat",287,81,2
+"Musso's Fish-eating Rat",287,82,2
+"Venezuelan Fish-eating Rat",287,84,1
+"Montane Fish-eating Rat",287,85,2
+"raptor",287,92,2
+"Crab-eating Rats",287,95,1
+"Pittier's Crab-eating Rat",287,98,1
+"Crab-eating Rat",287,99,2
+"Tweedy's Crab-eating Rat",287,100,2
+"Stolzmann's Crab-eating Rat",287,101,2
+"Aquatic Rat",287,102,2
+"Cotton Rats",287,104,2
+"Southern Cotton Rat",287,111,1
+"Hispid Cotton Rat",287,112,2
+"Toltec Cotton Rat",287,114,1
+"Tawny-bellied Cotton Rat",287,116,2
+"Arizona Cotton Rat",287,117,2
+"Yellow-nosed Cotton Rat",287,120,1
+"Alston's Cotton Rat",287,121,2
+"Unexpected Cotton Rat",287,122,2
+"Jaliscan Cotton Rat",287,125,1
+"Peruvian Cotton Rat",287,126,2
+"Miahuatlan Cotton Rat",287,128,1
+"Allen's Cotton Rat",287,129,2
+"White-eared Cotton Rat",287,130,2
+"Climbing Rats",287,132,1
+"Fulvous-bellied Climbing Rat",287,137,1
+"Tumbala Climbing Rat",287,138,2
+"Watson's Climbing Rat",287,139,2
+"Chiapan Climbing Rat",287,141,1
+"Mira Climbing Rat",287,142,2
+"Peter's Climbing Rat",287,144,1
+"Panama Climbing Rat",287,145,2
+"Big-eared Climbing Rat",287,146,2
+"Vesper Rat",287,149,2
+"Mt. Pirri Isthmus Rat",287,161,1
+"Yellow Isthmus Rat",287,162,2
+"raviventris",287,191,2
+"Magdalena Rat",288,46,2
+"Tuft-tailed Rats",281,70,1
+"White-tipped Tuft-tailed Rat",281,73,1
+"Tanala Tuft-tailed Rat",281,74,2
+"Western Tuft-tailed Rat",281,76,1
+"Lesser Tufted-tailed Rat",281,77,2
+"Major's Tufted-tailed Rat",281,79,1
+"Webb's Tuft-tailed Rat",281,80,2
+"Tree Rats",281,82,2
+"White-tailed Tree Rat",281,83,1
+"Hairy-tailed Tree Rat",281,84,2
+"Red Forest Rats",281,90,1
+"Lowland Red Forest Rat",281,92,1
+"Lowland Red Forest Rat",281,93,2
+"Eastern Red Forest Rat",281,94,2
+"Betsileo Short-tailed Rat",281,96,1
+"Gregarious Short-tailed Rat",281,97,2
+"ramirohitra",281,97,2
+"Malagasy Giant Jumping Rat",281,98,2
+"raddei",281,125,1
+"Mole Rats",281,140,1
+"East African Mole Rat",281,145,1
+"Big-headed Mole Rat",281,147,2
+"Bamboo Rats",281,163,2
+"Indomalayan Bamboo Rat",281,166,1
+"Hoary Bamboo Rat",281,167,2
+"Chinese Bamboo Rat",281,168,2
+"Bay Bamboo Rat",281,169,2
+"Crested Rat",281,212,2
+"Dulzura Kangaroo Rat",255,159,1
+"Agile Kangaroo Rat",255,160,2
+"Narrow-faced Kangaroo Rat",255,161,2
+"Chisel-toothed Kangaroo Rat",255,162,2
+"Heermann's Kangaroo Rat",255,165,1
+"Stephens' Kangaroo Rat",255,166,2
+"Panamint Kangaroo Rat",255,167,2
+"California Kangaroo Rat",255,170,1
+"Phillip's Kangaroo Rat",255,171,2
+"Texas Kangaroo Rat",255,172,2
+"Merriam's Kangaroo Rat",255,174,1
+"Fresno Kangaroo Rat",255,175,2
+"San Quintin Kangaroo Rat",255,179,1
+"Giant Kangaroo Rat",255,180,2
+"Ord's Kangaroo Rat",255,181,2
+"Gulf Coast Kangaroo Rat",255,182,2
+"Banner-tailed Kangaroo Rat",255,185,1
+"Nelson's Kangaroo Rat",255,186,2
+"Desert Kangaroo Rat",255,187,2
+"Spiny Rats, Tree Rats and more",258,0,1
+"Spiny Rats, Tree Rats and more",258,0,1
+"Golden Atlantic Tree Rat",258,14,1
+"Pallid Atlantic Tree Rat",258,16,2
+"Drab Atlantic Tree Rat",258,18,1
+"White-faced Tree Rat",258,19,2
+"Long-tailed Tree Rat",258,21,1
+"Unicolored Tree Rat",258,25,1
+"Black-spined Atlantic Tree Rat",258,27,2
+"Giant Atlantic Tree Rat",258,30,1
+"Red-nosed Tree Rat",258,34,1
+"Peruvian Tree Rat",258,35,2
+"Arboreal Soft-furred Spiny Rat",258,40,1
+"Rufous Tree Rat",258,42,2
+"Brazilian Spiny Tree Rat",258,44,1
+"Brush-tailed Rats",258,46,2
+"Yellow-crowned Brush-tailed Rat",258,48,1
+"Plain Brush-tailed Rat",258,50,2
+"Sucre Spiny Rat",258,51,2
+"Goeldi's Spiny Rat",258,52,2
+"Simon's Spiny Rat",258,53,2
+"Woolly-headed Spiny Tree Rat",258,60,1
+"Spiny Tree Rat",258,61,2
+"Para Spiny Tree Rat",258,64,2
+"Cuvier's Spiny Rat",258,66,1
+"Hairy Spiny Rat",258,67,2
+"Bristle-spined Rat",258,68,2
+"Ihering's Spiny Rat",258,76,2
+"Boyaca Spiny Rat",258,79,1
+"Minca Spiny Rat",258,80,2
+"Magdalena Spiny Rat",258,81,2
+"Guyanan Spiny Rat",258,90,1
+"Armored Rat",258,91,2
+"Atlantic Spiny Rat",258,92,2
+"Colombian Spiny Rat",258,96,2
+"Gray-footed Spiny Rat",258,100,1
+"Owl's Spiny Rat",258,101,2
+"Roberto's Spiny Rat",258,102,2
+"Tuft-tailed Spiny Tree Rat",258,104,1
+"White-spined Spiny Rat",258,105,2
+"Mouse-tailed Spiny Rat",258,109,1
+"Trinidad Spiny Rat",258,110,2
+"Napo Spiny Rat",258,111,2
+"Tome's Spiny Rat",258,113,1
+"Steere's Spiny Rat",258,114,2
+"Bamboo Rats and Olalla Rats",258,116,1
+"Bamboo Rats and Olalla Rats",258,116,1
+"Bolivian Bamboo Rat",258,120,1
+"Amazon Bamboo Rat",258,121,2
+"Peruvian Bamboo Rat",258,122,2
+"White-tailed Olalla Rat",258,124,1
+"Greedy Olalla Rat",258,125,2
+"Atlantic Bamboo Rat",258,126,2
+"Huallaga Spiny Rat",258,127,2
+"Bishop's Fossorial Spiny Rat",258,132,1
+"Broad-headed Spiny Rat",258,133,2
+"Pacific Spiny Rat",258,134,2
+"Cayenne Spiny Rat",258,135,2
+"Long-tailed Spiny Rat",258,137,1
+"Guaira Spiny Rat",258,138,2
+"Mole Rats",259,1,1
+"Damara Mole Rat",259,8,1
+"Mechow's Mole Rat",259,9,2
+"Ghana Mole Rat",259,10,2
+"African Mole Rat",259,15,2
+"Ochre Mole Rat",259,18,1
+"Bocage's Mole Rat",259,19,2
+"Nigerian Mole Rat",259,20,2
+"Namaqua Dune Mole Rat",259,23,1
+"Cape Dune Mole Rat",259,24,2
+"Cape Mole Rat",259,25,2
+"Silvery Mole Rat",259,26,2
+"Naked Mole Rat",259,27,2
+"Bolivian Chinchilla Rat",256,71,2
+"Chinchilla Rats",256,73,1
+"Sierra Del Tontal Chinchilla Rat",256,77,1
+"Ashy Chinchilla Rat",256,78,2
+"Famatina Chinchilla Rat",256,80,1
+"Mendozan Chinchilla Rat",256,81,2
+"Budin's Chinchilla Rat",256,82,2
+"Bennett's Chinchilla Rat",256,83,2
+"Greater Cane Rat",256,118,1
+"Lesser Cane Rat",256,119,2
+"Dassie Rat",256,145,2
+"Rock Rats, Viscacha Rats and more",254,32,2
+"Rock Rats, Viscacha Rats and more",254,32,2
+"Chilean Rock Rat",254,36,1
+"Sage's Rock Rat",254,38,2
+"Plains Viscacha Rat",254,40,1
+"Viscacha Rat",254,41,2
+"Ratufa",278,93,2
+"Ratufa",278,96,1
+"Ratufa",278,97,2
+"Ratufa",278,98,2
+"Ratufa",278,99,2
+"rabori",278,127,2
+"ralli",297,23,2
 "Rabbits and Hares",254,67,1
+"European Rabbit",277,65,2
+"Bunyoro Rabbit",277,67,1
+"Cottontail Rabbits",254,72,1
+"Marsh Rabbit",254,92,1
+"Swamp Rabbit",254,93,2
+"San Jose Brush Rabbit",254,99,1
+"Brush Rabbit",254,100,2
+"Sumatran Striped Rabbit",254,102,1
+"Pygmy Rabbit",254,103,2
+"Riverine Rabbit",254,104,2
+"Volcano Rabbit",254,105,2
+"randensis",254,111,2
+"Amami Rabbit",254,112,2
+"radiata",275,32,1
 "Rafinesque's Big-eared Bat",389,139,2
+"rafinesquii",389,139,2
+"ravus",396,194,2
 "Raffray's Sheath-tailed Bat",400,56,1
+"raffrayana",400,56,1
+"rayneri",366,108,2
 "Ratanaworabhan's Fruit Bat",387,23,1
+"rabori",387,61,2
+"raptor",387,78,2
 "Raphicerus",372,190,1
+"Raphicerus",372,192,1
+"Raphicerus",372,193,2
+"Raphicerus",372,194,2
+"Rangifer",375,33,2
 "Raccoons, Olingos and more",381,7,2
+"Crab-eating Raccoon",381,12,1
+"Pygmy Raccoon",381,13,2
+"Northern Raccoon",381,14,2
 "Racoon Dog",381,156,2
+"rapax",368,10,1
 "Rainey Shrew",367,32,2
+"raineyi",367,32,2
 "Radde's Shrew",397,42,2
+"raddei",397,42,2
+"Musky Rat Kangaroo",109,8,2
 "Raffray's Bandicoot",109,39,1
+"raffrayana",109,39,1
+"raphanurus",109,65,2
 "Ranger's Toad",57,59,1
+"rangeri",57,59,1
+"raddei",56,108,2
 "Rancho Grande Harlequin Frog",63,75,1
+"ramosi",43,171,2
+"Ranitomeya",44,10,1
+"Ranitomeya",44,11,2
+"Ranitomeya",44,12,2
+"Ranitomeya",44,14,1
+"Ranitomeya",44,15,2
+"Ranitomeya",44,17,1
+"Ranitomeya",44,18,2
+"Ranitomeya",44,21,1
+"Ranitomeya",44,22,2
+"Ranitomeya",44,23,2
+"Ranitomeya",44,24,2
+"Ranitomeya",44,30,1
+"Ranitomeya",44,31,2
+"Ranitomeya",44,32,2
+"Ranitomeya",44,33,2
+"Ranitomeya",44,34,2
+"Ranitomeya",44,37,1
+"Ranitomeya",44,38,2
+"Ranitomeya",44,39,2
+"Ranitomeya",44,42,1
+"Ranitomeya",44,43,2
+"Ranitomeya",44,44,2
+"ranoides",68,80,2
+"randi",51,88,2
+"ramirezi",49,110,1
+"raniceps",47,87,2
+"ravida",46,102,2
+"ranki",70,165,2
+"raniformis",53,52,1
 "Rain Frogs, Saddleback Toads and more",72,0,2
 "Rain Frogs",72,6,1
+"randorum",88,56,2
+"ramagii",73,24,2
+"racemus",73,32,2
+"raniformis",72,94,2
+"ranoides",72,131,2
+"rayo",78,52,2
 "Rain Frogs",72,172,2
+"raveni",23,71,2
+"rappiodes",20,10,1
 "RANIDAE",2,38,1
+"Rana",13,10,1
+"Rana",13,11,2
+"Rana",13,12,2
+"Rana",13,13,2
+"Rana",13,15,1
+"Rana",13,16,2
+"Rana",13,17,2
+"Rana",13,18,2
+"Rana",13,22,1
+"Rana",13,23,2
+"Rana",13,24,2
+"Rana",13,25,2
+"Rana",13,30,1
+"Rana",13,31,2
+"Rana",13,32,2
+"Rana",13,35,1
+"Rana",13,36,2
+"Rana",13,37,2
+"Rana",13,40,1
+"Rana",13,41,2
+"Rana",13,42,2
+"Rana",13,47,1
+"Rana",13,48,2
+"Rana",13,49,2
+"Rana",13,50,2
+"Rana",13,51,2
+"Rana",13,59,1
+"Rana",13,60,2
+"Rana",13,61,2
+"Rana",13,62,2
+"Rana",13,64,1
+"Rana",13,65,2
+"Rana",13,66,2
+"Rana",13,67,2
+"Rana",13,71,1
+"Rana",13,72,2
+"Rana",13,74,1
+"Rana",13,75,2
+"Rana",13,77,1
+"Rana",13,78,2
+"raniceps",17,21,2
+"raja",11,59,2
+"rarica",22,32,2
+"rattrayi",10,43,2
 "RANIXALIDAE",6,21,2
+"rabori",92,106,2
 "Rain Frog",28,161,2
+"Clicking Rainforest Frog",33,18,1
 "Rattling Frog",33,47,2
+"Ramanella",25,54,1
+"Ramanella",25,55,2
+"Ramanella",25,56,2
+"Ramanella",25,58,1
+"Ramanella",25,59,2
+"Ramanella",25,62,1
+"Ramanella",25,63,2
+"Ramanella",25,64,2
+"Ramanella",25,65,2
+"rabus",25,95,2
+"raveni",30,127,2
+"ranoides",26,142,2
+"ragazzii",36,66,1
+"Common Rain Frog",25,143,1
+"Rose's Rain Frog",25,145,2
+"Common Rain Frog",25,147,1
+"Whistling Rain Frog",25,148,2
+"Namaqua Rain Frog",25,152,1
+"Giant Rain Frog",25,153,2
+"Power's Rain Frog",25,154,2
+"Mountain Rain Frog",25,155,2
+"Plaintive Rain Frog",25,159,1
+"Black Rain Frog",25,160,2
+"Desert Rain Frog",25,161,2
+"Mozambique Rain Frog",25,164,1
+"Forest Rain Frog",25,165,2
+"ramosi",101,31,2
+"rabbi",106,57,2
+"rathbuni",104,50,2
 "Ravine Salamander",98,87,2
+"Northern Ravine Salamander",98,94,2
+"Coast Range Newt",98,125,2
+"Ranodon",344,87,2
+"rabei",113,119,2
+"ramaswamii",113,128,1

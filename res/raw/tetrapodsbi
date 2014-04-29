@@ -1,93 +1,379 @@
 name,fileindex,index,whichChild
 "Birds",0,5,1
+"Passerine birds",114,6,1
 "Bicoloured Conebill",125,120,2
+"bicolor",125,120,2
+"bicolor",129,39,2
+"bidentata",124,126,2
+"biarcuata",145,46,2
+"bilineata",142,50,2
+"bifasciatus",143,126,2
+"bivittatus",144,82,2
+"bishopi",144,157,2
 "Bismarck Munia",132,26,1
+"bicolor",132,71,1
+"bichenovii",132,100,1
+"bicolor",132,176,2
+"bicolor",141,50,2
+"Yellow Bishop",140,118,2
+"Black-winged Bishop",140,123,1
+"Fire-fronted Bishop",140,124,2
+"Zanzibar Bishop",140,126,1
+"Red Bishop",140,127,2
+"Orange Bishop",140,130,1
+"Black Bishop",140,131,2
+"Golden-backed Bishop",140,132,2
+"Yellow-crowned Bishop",140,133,2
+"bifasciata",131,144,2
 "Bicoloured Flowerpecker",139,63,2
+"bicolor",139,63,2
+"bifasciata",184,77,2
+"bicolor",183,23,2
 "Bicknell's Thrush",188,182,2
+"bicknelli",188,182,2
+"bicolor",191,13,2
+"bicolor",191,66,2
 "Bicoloured Wren",190,134,1
+"bicolor",164,59,2
+"bieti",164,85,1
+"bicolor",164,105,2
+"bicolor",165,54,2
 "Biak White-eye",166,119,2
 "Bicoloured White-eye",166,173,2
+"bivittata",176,35,2
 "Bismarck Thicketbird",176,67,2
+"bistrigiceps",176,144,2
+"binotata",171,34,2
+"bimaculatus",174,55,1
 "Bianchi's Warbler",162,63,2
+"bicolor",178,151,2
 "Bimaculated Lark",173,50,2
+"bimaculata",173,50,2
+"bilopha",173,65,1
+"biarmicus",161,112,2
+"bicolor",169,50,2
+"bivittata",151,20,2
+"bimaculata",151,51,1
+"Shrikes, Birds Of Paradise and more",120,19,1
+"Shrikes, Monarchs, Birds of paradise and more",152,3,1
 "Biak Monarch",159,40,2
 "Biak Flycatcher",159,129,2
 "Birds of paradise",160,0,2
+"Raggiana Bird-of-paradise",160,12,1
+"Greater Bird-of-paradise",160,13,2
+"Lesser Bird-of-paradise",160,14,2
+"Goldie's Bird-of-paradise",160,16,1
+"Red Bird-of-paradise",160,17,2
+"Emperor Bird-of-paradise",160,18,2
+"Blue Bird-of-paradise",160,19,2
+"Magnificent Bird-of-paradise",160,22,1
+"Wilson's Bird-of-paradise",160,23,2
+"King Bird-of-paradise",160,24,2
+"Twelve-wired Bird-of-paradise",160,45,2
+"Superb Bird-of-paradise",160,52,2
+"King-of-Saxony Bird-of-paradise",160,67,2
 "Bismarck Fantail",153,42,2
+"biddulphi",157,25,2
+"Bias",195,80,2
+"bicolor",198,27,2
 "Bismarck Woodswallow",199,10,1
+"bicolor",200,27,2
+"Satin birds",120,41,1
+"Yellow-breasted Bird-of-paradise",120,43,1
+"Loria's Bird-of-paradise",120,44,2
+"Crested Bird-of-paradise",120,45,2
 "Bismarck Melidectes",150,12,2
 "Bicoloured Mouse-warbler",180,34,1
 "Biak Gerygone",180,121,2
 "Bicoloured Antpitta",248,139,2
 "Bicoloured Antbird",245,78,2
+"Biatas",247,82,2
 "Bicoloured Antvireo",246,110,2
+"biarmicus",222,18,2
 "Birds of Prey, Toucans and more",114,41,2
+"bitorquatus",204,57,2
+"bidentatus",205,9,2
+"bilineatus",205,53,2
 "Biak Paradise-kingfisher",202,74,2
 "Bismarck Kingfisher",202,159,1
+"birostris",203,71,2
+"bicornis",201,147,2
 "Biak Scops-owl",224,99,2
 "Bismarck Hawk-owl",224,157,1
 "Bismarck Masked-owl",224,183,2
+"bidentatus",115,39,1
 "Bicoloured Hawk",117,59,2
+"bicolor",117,59,2
+"bitorquatus",114,84,2
+"bicinctus",119,75,2
+"bistriatus",114,162,1
 "Bitterns",354,91,1
+"Australasian Bittern",354,98,1
+"Great Bittern",354,99,2
+"American Bittern",354,101,1
+"Pinnated Bittern",354,102,2
+"Least Bittern",354,103,2
+"Little Bittern",354,104,2
+"Dwarf Bittern",354,105,2
+"Stripe-backed Bittern",354,106,2
+"Cinnamon Bittern",354,109,1
+"Black Bittern",354,110,2
+"Schrenck's Bittern",354,112,1
+"Yellow Bittern",354,113,2
+"Forest Bittern",354,118,2
 "Biak Coucal",355,162,2
+"bicolor",362,58,1
+"bicolor",352,12,2
 "Bismarck Imperial-pigeon",352,19,1
+"bicinctus",351,43,1
+"bitorquata",348,79,2
+"bicinctus",346,159,1
+"bicolor",326,115,2
+"bilophus",330,39,2
 "Biscutate Swift",324,40,2
+"biscutata",324,40,2
+"binotatus",331,32,1
+"bicalcaratum",312,182,2
+"bicalcarata",312,192,1
+"bicalcaratus",317,21,1
 "Biak Megapode",310,107,2
+"Biziura",310,137,2
+"bicolor",310,155,1
 "Big Bend Slider",95,26,2
 "Big-headed Turtle",94,165,2
+"bibroni",343,38,1
+"Madagascar Big-headed Turtle",0,93,1
 "Big-headed Amazon River turtle",0,94,2
 "Big-headed Pantanal Swamp Turtle",0,107,2
+"binotata",305,76,2
+"bistriata",305,109,2
+"bipes",302,8,2
+"bicarinata",300,133,2
+"bipes",303,58,2
+"bivittatus",298,70,1
+"bicarinatus",304,41,1
+"bitaeniata",304,45,1
+"bifasciatus",304,60,1
+"bicolor",304,85,2
+"bifrontata",309,70,1
+"bibronii",412,12,2
+"biporcatus",409,12,1
+"bimaculatus",409,60,1
+"bibroni",405,109,2
+"bicanthalis",408,56,1
+"bicarinatus",408,85,1
+"bimaculatus",406,82,2
+"bilineata",413,36,2
+"bitaeniatus",410,15,2
+"bilobatus",411,26,2
+"biscutatus",337,9,2
+"biserialis",337,32,2
+"bifrenalis",335,93,2
+"bistrigatus",335,186,2
+"bicolor",341,53,1
+"bicoloratus",340,57,2
+"bibronii",340,132,2
+"Bitia",340,164,2
+"bilineata",339,15,1
+"Bitis",339,70,2
+"bicolor",334,76,2
+"Bipes",334,174,1
+"biporus",334,175,2
+"Bipes",334,175,2
+"bibroni",319,33,2
+"binoei",321,22,2
 "Bismarck Giant Rat",266,68,1
+"Lang Bian White-bellied Rat",269,90,2
 "Bioko Hybomys",271,9,2
 "Big-eared Swamp Rat",272,26,2
+"Nehring's Bilind Mole Rat",263,174,2
 "Biting Chincilla Mouse",293,79,2
 "Bicolored Arboreal Rice Rat",293,110,2
+"bicolor",293,110,2
+"Bolivian Big-eared Mouse",292,35,1
+"Painted Big-eared Mouse",292,36,2
+"Andean Big-eared Mouse",292,38,1
+"Bibimys",292,56,1
+"Bibimys",292,58,1
+"Bibimys",292,59,2
+"Bibimys",292,60,2
 "Big-eared Climbing Rat",287,146,2
 "Big Deer Mouse",291,41,2
 "Big-eared Woodrat",288,41,2
 "Big-footed Mice",281,85,2
+"Long-tailed Big-footed Mouse",281,86,1
+"Western Big-footed Mouse",281,87,2
 "Big-headed Mole Rat",281,147,2
+"Jerboas, Jumping Mice and Birch Mice",280,0,2
+"Jumping Mice and Birch Mice",280,6,1
 "Birch Mice",280,7,1
+"Northern Birch Mouse",280,12,1
+"Armenian Birch Mouse",280,13,2
+"Tien Shan Birch Mouse",280,14,2
+"Kluchor Birch Mouse",280,16,1
+"Altai Birch Mouse",280,17,2
+"Gray Birch Mouse",280,19,1
+"Chinese Birch Mouse",280,20,2
+"Severtzov's Birch Mouse",280,24,1
+"Southern Birch Mouse",280,25,2
+"Long-tailed Birch Mouse",280,26,2
+"Strand's Birch Mouse",280,29,1
+"Kazbeg Birch Mouse",280,30,2
+"Caucasian Birch Mouse",280,31,2
 "Big Pocket Gopher",255,62,2
+"bistriata",258,48,1
 "Bishop's Fossorial Spiny Rat",258,132,1
+"bishopi",258,132,1
 "Bicolor-spined Porcupine",256,142,2
+"bicolor",256,142,2
+"biswasi",278,80,1
+"Biswamoyopterus",278,80,1
+"bicolor",278,96,1
 "Big Horn Thirteen-lined Ground Squirrel",297,65,1
+"bieti",275,166,2
+"bicolor",285,61,2
 "Bibundi Bat",391,13,2
+"Gray Big-eared Bat",389,130,2
+"Canary Big-eared Bat",389,131,2
+"Brown Big-eared Bat",389,134,2
+"Townsend's Big-eared Bat",389,137,1
+"Mexican Big-eared Bat",389,138,2
+"Rafinesque's Big-eared Bat",389,139,2
+"Allen's Big-eared Bat",389,141,1
 "Birdlike Noctule",389,177,2
+"Southern Big-eared Brown Bat",390,66,1
+"Small Big-eared Brown Bat",390,67,2
+"Tropical Big-eared Brown Bat",390,68,2
+"Thomas's Big-eared Brown Bat",390,70,1
 "Big-eared Brown Bat",390,71,2
+"Strange Big-eared Brown Bat",390,72,2
 "Big Red Bat",392,32,2
+"bifax",392,41,2
+"Thomas's Big-eared Bat",392,52,2
 "Big-footed Myotis",403,15,2
+"Guadeloupean Big Brown Bat",403,138,1
 "Big Brown Bat",403,151,2
+"Gobi Big Brown Bat",403,158,1
 "Big Crested Mastiff Bat",396,25,1
 "Big Bonneted Bat",396,40,2
+"bivittatus",396,90,2
 "Big Free-tailed Bat",396,125,2
+"Kenyan Big-eared Free-tailed Bat",396,138,2
 "Bini Free-tailed Bat",396,167,2
+"bilobatum",394,25,2
+"bidens",394,39,2
 "Big-eyed Bats",394,42,2
+"Guadeloupean Big-eyed Bat",394,45,1
+"Hairy Big-eyed Bat",394,46,2
+"Little Big-eyed Bat",394,48,1
+"Brazilian Big-eyed Bat",394,49,2
+"Salvin's Big-eyed Bat",394,50,2
+"bilabiatum",393,58,1
 "Bidentate Yellow-shouldered Bat",393,83,1
+"bidens",393,83,1
 "Big-eared Bats and more",393,130,1
+"bidens",393,161,2
 "Big-eared Wooly Bat",393,165,1
 "Big-eared Bats",393,169,1
+"Little Big-eared Bat",393,173,1
+"Common Big-eared Bat",393,174,2
+"Schmidts's Big-eared Bat",393,177,1
+"Tiny Big-eared Bat",393,178,2
+"Hairy Big-eared Bat",393,179,2
+"Behni's Big-eared Bat",393,185,1
+"Davies's Big-eared Bat",393,187,2
+"Least Big-eared Bat",393,188,2
+"Niceforo's Big-eared Bat",393,189,2
 "Big Naked-backed Bat",393,218,1
 "Bicolored Leaf-nosed Bat",376,25,2
+"bicolor",376,25,2
 "Big-eared Leaf-nosed Bat",376,27,1
 "Biak Leaf-nosed Bat",376,49,2
 "Big-eared Horseshoe Bat",377,46,1
+"bilineata",400,28,1
 "Bismarck Flying Fox",366,117,2
 "Bismarck Bare-backed Fruit Bat",366,155,2
 "Biak Bare-backed Fruit Bat",366,168,2
+"bidens",399,41,2
 "Bighorn Sheep",372,40,2
+"Cows, Bison, Ox and more",371,37,2
 "Bison",371,63,1
+"European Bison",371,64,1
+"Bison",371,64,1
+"American Bison",371,65,2
+"bison",371,65,2
+"Bison",371,65,2
+"bisulcus",375,26,1
+"bidens",371,145,1
+"bicornis",365,126,2
 "Binturong",385,59,2
+"binturong",385,59,2
+"binotata",385,62,2
 "Big cats",382,9,1
+"bieti",382,63,2
 "Bicolored Shrew",368,54,1
 "Bicolored Musk Shrew",367,48,1
 "Bioko Forest Shrew",402,53,2
 "Big Mexican Small-eared Shrew",397,80,2
+"billardierii",110,42,2
+"bicolor",110,72,2
 "Biak Glider",112,40,2
+"biacensis",112,40,2
+"bilarni",111,26,2
+"Bandicoots and Bilbies",109,23,2
 "Bilby",109,57,2
+"bishopi",109,92,2
 "Big-eared Opossum",109,146,2
+"biporcatus",56,146,2
+"bilinguis",43,41,2
+"biolat",44,15,2
+"bicolor",43,221,2
+"bigibbosa",45,15,2
+"biligonigerus",51,42,2
+"bibroni",51,107,2
+"bistincta",40,20,2
+"bivocata",40,105,2
 "Bird-voiced Treefrog",40,164,2
+"bipunctatus",48,19,2
+"bifurcus",48,177,2
+"bischoffi",47,55,2
+"bicolor",53,162,2
+"bicolor",66,17,2
+"bicolor",81,186,2
+"binotatus",86,10,1
+"bicumulus",86,34,1
+"bipunctatus",73,144,1
+"bisignatus",76,13,2
+"bilineatus",74,43,2
+"biporcatus",72,149,1
 "Bibron's Toadlet",23,63,2
+"bibronii",23,63,2
 "Bilingual Frog",24,28,2
+"bilingua",24,28,2
+"bicolor",7,174,1
+"bipunctatus",21,89,2
+"bimaculatus",21,130,2
+"bisacculus",2,20,1
+"biporus",3,77,1
+"bicalcaratus",3,144,1
+"bicolor",2,114,1
+"bimaculata",92,47,2
+"bibroni",90,93,2
+"biroi",28,60,1
+"biroi",33,56,2
+"bidens",33,94,1
 "Bicol Narrowmouth Toad",29,95,1
+"bipunctata",32,20,1
+"bicolor",35,79,2
+"bifasciatus",25,83,2
+"bicolor",30,120,2
+"bivittatus",26,15,1
+"bicolor",26,131,2
+"biseriata",100,75,1
+"bislineata",104,31,2
 "Big Levels Salamander",98,92,2
+"billae",98,165,2
+"billitonensis",345,35,1
+"biangularis",345,57,2
+"bicolor",0,166,2
+"bivittatum",0,167,2

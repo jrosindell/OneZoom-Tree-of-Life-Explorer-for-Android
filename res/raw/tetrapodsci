@@ -1,80 +1,498 @@
 name,fileindex,index,whichChild
 "Cinnamon-bellied Flowerpiercer",125,31,1
 "Citron-headed Yellow-finch",125,73,1
+"citrina",125,87,2
 "Cinereous Conebill",125,112,2
+"cinereum",125,112,2
+"cinnamomea",127,21,2
 "Cinereous Warbling-finch",126,12,2
+"cinerea",126,12,2
 "Cinnamon Warbling-finch",126,63,2
 "Cinereous Finch",125,180,1
+"cinerea",125,180,1
+"cinctus",124,70,2
 "Cinnamon Tanager",128,169,1
+"Cissopis",128,171,2
+"ciris",124,190,2
+"citrinellus",145,9,1
 "Cinnamon-tailed Sparrow",146,29,1
+"citrinella",142,99,2
 "Cirl Bunting",142,101,2
+"cirlus",142,101,2
+"cioides",142,106,2
+"cia",142,107,2
 "Cinnamon-breasted Bunting",142,155,1
 "Cinereous Bunting",142,156,2
+"cineracea",142,156,2
 "Citrine Warbler",144,68,2
+"cinereicollis",144,78,1
+"citrina",144,151,2
+"citrea",144,195,2
+"Yellow-browed Citril",136,26,1
+"citrinipectus",136,36,2
+"Abyssinian Citril",136,47,1
+"citrinelloides",136,47,1
+"Grey-faced Citril",136,48,2
+"Mediterranean Citril Finch",138,29,2
+"Alpine Citril Finch",135,58,1
+"citrinella",135,58,1
 "Citrine Wagtail",123,104,1
+"citreola",123,104,1
+"cinerea",123,109,2
+"cincta",132,97,2
+"cinereovinacea",132,161,2
 "Cinderella Waxbill",134,15,2
 "Cinnamon Weaver",141,29,2
+"cinnamomeiventris",184,66,2
+"cinclorhynchus",184,124,2
 "Cinnamon-chested Flycatcher",187,67,1
+"Cinclidium",183,54,2
+"Cinclidium",183,69,1
+"Cinclidium",183,70,2
+"cinerascens",183,193,1
+"Cichladusa",193,61,1
+"Cichladusa",193,62,2
+"Cichladusa",193,63,2
+"cinerea",188,104,2
+"citrina",188,109,2
+"Cichlopsis",188,205,2
+"Cinclidae",181,59,2
+"cinclus",181,63,1
+"Cinclus",181,63,1
+"Cinclus",181,64,2
+"Cinclus",181,65,2
+"Cinclus",181,66,2
+"Cinclus",181,67,2
+"Cinnyricinclus",191,64,2
+"Cinnyricinclus",191,65,2
+"cinereus",191,108,1
+"cineraceus",191,117,1
+"cinerea",191,141,2
+"Cinnyricinclus",191,143,1
+"cinerascens",194,18,1
+"cinereum",192,49,2
+"Cinclocerthia",192,57,1
+"Cinclocerthia",192,58,2
+"Cistothorus",190,91,1
+"Cistothorus",190,92,2
+"Cistothorus",190,94,1
+"Cistothorus",190,95,2
+"Cinnycerthia",190,108,1
+"Cinnycerthia",190,109,2
+"Cinnycerthia",190,110,2
+"Cinnycerthia",190,111,2
+"cinereus",190,140,2
+"cinereiventris",181,119,1
+"cinereus",181,158,2
+"cineraceus",164,69,2
+"cinereifrons",163,24,1
+"cinereiceps",165,27,2
+"cinereum",165,77,2
+"citrinella",166,61,1
+"cinereus",166,71,2
 "Cinnamon Ibon",163,171,2
+"cinnamomeus",163,171,2
+"cinereiceps",179,51,2
+"cinerea",179,124,2
+"cinnamomeus",177,23,2
+"Cincloramphus",177,35,1
+"Cincloramphus",177,36,2
 "Cisticolas and more",170,0,2
 "Cisticolas and more",170,9,1
+"Cisticolidae",170,9,1
 "Cisticolas and more",170,22,2
+"Cisticolidae",170,22,2
 "Cisticolas and more",170,35,2
+"Cisticolidae",170,35,2
+"cinereocapilla",170,46,2
+"cinereiceps",170,55,1
 "Cisticolas and more",170,79,2
+"Cisticolidae",170,79,2
 "Cisticolas and more",170,82,2
+"Cisticolidae",170,82,2
 "Cisticolas and more",170,85,2
+"Cisticolidae",170,85,2
 "Cisticolas and more",171,1,1
+"Cisticolidae",171,1,1
+"cinerea",171,29,2
 "Cisticolas and more",171,51,1
+"Cisticolidae",171,51,1
 "Cisticolas and more",170,119,1
+"Cisticolidae",170,119,1
+"Siffling Cisticola",172,7,1
+"Cisticola",172,7,1
+"Brown-backed Cisticola",172,8,2
+"Cisticola",172,8,2
+"Winding Cisticola",172,10,1
+"Cisticola",172,10,1
+"Bubbling Cisticola",172,11,2
+"Cisticola",172,11,2
+"Foxy Cisticola",172,12,2
+"Cisticola",172,12,2
+"Aberdare Cisticola",172,15,1
+"Cisticola",172,15,1
+"Singing Cisticola",172,16,2
+"Cisticola",172,16,2
+"Rattling Cisticola",172,17,2
+"Cisticola",172,17,2
+"Tana River Cisticola",172,21,1
+"Cisticola",172,21,1
+"Red-faced Cisticola",172,22,2
+"Cisticola",172,22,2
+"Dorst's Cisticola",172,24,1
+"Cisticola",172,24,1
+"Tiny Cisticola",172,25,2
+"Cisticola",172,25,2
+"Black-necked Cisticola",172,28,1
+"Cisticola",172,28,1
+"Tinkling Cisticola",172,29,2
+"Cisticola",172,29,2
+"Boran Cisticola",172,31,1
+"Cisticola",172,31,1
+"Rufous Cisticola",172,32,2
+"Cisticola",172,32,2
+"Tink-tink Cisticola",172,36,1
+"Cisticola",172,36,1
+"Stout Cisticola",172,37,2
+"Cisticola",172,37,2
+"Island Cisticola",172,38,2
+"Cisticola",172,38,2
+"Tabora Cisticola",172,39,2
+"Cisticola",172,39,2
+"Slender-tailed Cisticola",172,40,2
+"Cisticola",172,40,2
+"Whistling Cisticola",170,127,1
+"Cisticola",170,127,1
+"Lazy Cisticola",170,128,2
+"Cisticola",170,128,2
+"Pectoral-patch Cisticola",170,129,2
+"Cisticola",170,129,2
+"Chubb's Cisticola",170,130,2
+"Cisticola",170,130,2
+"Trilling Cisticola",170,132,1
+"Cisticola",170,132,1
+"Hunter's Cisticola",170,133,2
+"Cisticola",170,133,2
+"Chattering Cisticola",170,137,1
+"Cisticola",170,137,1
+"Red-pate Cisticola",170,138,2
+"Cisticola",170,138,2
+"Grey-backed Cisticola",170,139,2
+"Cisticola",170,139,2
+"Piping Cisticola",170,140,2
+"Cisticola",170,140,2
+"Wailing Cisticola",170,141,2
+"Cisticola",170,141,2
+"Zitting Cisticola",170,149,1
+"Cisticola",170,149,1
+"Ashy Cisticola",170,150,2
+"cinereolus",170,150,2
+"Cisticola",170,150,2
+"Madagascar Cisticola",170,151,2
+"Cisticola",170,151,2
+"Churring Cisticola",170,152,2
+"Cisticola",170,152,2
+"Croaking Cisticola",170,153,2
+"Cisticola",170,153,2
+"Carruthers's Cisticola",170,157,1
+"Cisticola",170,157,1
+"Golden-headed Cisticola",170,158,2
+"Cisticola",170,158,2
+"Wing-snapping Cisticola",170,159,2
+"Cisticola",170,159,2
+"Black-lored Cisticola",170,160,2
+"Cisticola",170,160,2
+"Black-tailed Cisticola",170,163,1
+"Cisticola",170,163,1
+"Desert Cisticola",170,164,2
+"Cisticola",170,164,2
+"Chirping Cisticola",170,165,2
+"Cisticola",170,165,2
+"Levaillant's Cisticola",170,166,2
+"Cisticola",170,166,2
 "Cisticolas and more",170,169,1
+"Cisticolidae",170,169,1
+"cinereiceps",161,13,1
+"cincta",178,160,2
+"cinerea",173,56,2
+"cinctura",161,111,2
+"cinctus",169,18,2
+"cinerascens",169,43,1
 "Citrine Canary-flycatcher",161,169,2
+"cinerascens",159,52,2
+"cinnamomea",152,20,2
+"Cicinnurus",160,22,1
+"Cicinnurus",160,23,2
+"Cicinnurus",160,24,2
 "Cinnamon-tailed Fantail",153,52,2
+"cinerea",153,88,2
+"Cissa",157,125,1
+"Cissa",157,126,2
+"Cissa",157,127,2
+"cinereus",199,14,1
+"Black-shouldered Cicadabird",197,12,1
+"Sulawesi Cicadabird",197,13,2
+"Slender-billed Cicadabird",197,15,1
+"Sula Cicadabird",197,16,2
+"Black-bibbed Cicadabird",197,18,2
+"Pale Cicadabird",197,20,1
+"Sumba Cicadabird",197,23,1
+"Kai Cicadabird",197,24,2
+"cinerea",200,40,2
+"cinnamomeus",195,142,1
+"Cinclosomatidae",195,149,1
+"Cinclosoma",195,152,1
+"Cinclosoma",195,153,2
 "Cinnamon Quail-thrush",195,155,1
+"cinnamomeum",195,155,1
+"Cinclosoma",195,155,1
+"Cinclosoma",195,156,2
+"Cinclosoma",195,157,2
+"cinereus",120,49,2
+"cincta",120,50,2
+"citreogularis",148,75,2
+"cineracea",149,30,2
 "Cinnamon-browed Melidectes",150,25,2
+"cinereus",148,132,2
+"citreogularis",180,29,1
+"cinerea",180,105,2
 "Cinereous-breasted Spinetail",233,24,2
+"cinnamomeus",233,42,1
+"cinnamomea",233,69,1
+"cinerascens",233,76,2
 "Cipo Canastero",233,83,2
+"Earthcreepers, Horneros, Ciclodes and more",231,0,2
 "Cinclodes",231,5,1
+"Grey-flanked Cinclodes",231,13,1
+"Cinclodes",231,13,1
+"Olrog's Cinclodes",231,14,2
+"Cinclodes",231,14,2
+"Cordoba Cinclodes",231,15,2
+"Cinclodes",231,15,2
+"Chestnut-winged Cinclodes",231,16,2
+"Cinclodes",231,16,2
+"Blackish Cinclodes",231,18,1
+"Cinclodes",231,18,1
+"Buff-winged Cinclodes",231,19,2
+"Cinclodes",231,19,2
+"Stout-billed Cinclodes",231,20,2
+"Cinclodes",231,20,2
+"Seaside Cinclodes",231,25,1
+"Cinclodes",231,25,1
+"Surf Cinclodes",231,26,2
+"Cinclodes",231,26,2
+"Dark-bellied Cinclodes",231,27,2
+"Cinclodes",231,27,2
+"White-winged Cinclodes",231,29,1
+"Cinclodes",231,29,1
+"White-bellied Cinclodes",231,30,2
+"Cinclodes",231,30,2
+"Royal Cinclodes",231,31,2
+"Cinclodes",231,31,2
+"Long-tailed Cinclodes",231,32,2
+"Cinclodes",231,32,2
+"Cream-winged Cinclodes",231,33,2
+"Cinclodes",231,33,2
+"cinnamomeus",231,54,1
 "Cinnamon-rumped Foliage-gleaner",232,45,2
+"Cichlocolaptes",232,79,2
 "Cinnamon-throated Woodcreeper",230,166,1
+"cinerascens",245,43,2
+"cinerea",245,107,2
+"cincta",245,115,2
 "Cinereous Antshrike",245,124,2
+"cinereus",238,14,2
 "Cinnamon-bellied Ground-tyrant",238,49,1
 "Cinereous Ground-tyrant",238,62,2
+"cinereus",238,62,2
 "Cinereous Tyrant",235,24,2
+"cinereus",243,46,2
+"cinchoneti",243,91,2
+"cinnamomeiventris",241,27,1
+"cinerascens",236,43,1
 "Citron-bellied Attila",236,67,2
+"citriniventris",236,67,2
 "Cinnamon Attila",236,68,2
+"cinnamomeus",236,68,2
+"cinerea",240,14,2
+"cinereiceps",242,18,2
+"cinereicapilla",242,55,1
 "Cinnamon Flycatcher",235,63,1
+"cinnamomeus",235,63,1
 "Cinnamon-crested Spadebill",235,78,1
 "Cinnamon Manakin-tyrant",235,80,2
+"cinnamomea",235,80,2
+"cinereigulare",239,16,1
 "Cinnamon-breasted Tody-tyrant",239,43,1
+"cinnamomeipectus",239,43,1
+"cinereum",235,128,2
 "Cinnamon-faced Tyrannulet",237,37,1
 "Cinereous Becard",251,10,1
 "Cinnamon Becard",251,35,2
+"cinnamomeus",251,35,2
 "Cinereous Mourner",251,51,1
 "Cinnamon-vented Piha",250,37,1
+"circumcincta",222,110,2
 "Cinnamon Woodpecker",208,21,2
+"cirratus",211,11,2
+"cinnamomeus",211,52,2
+"cinnamominus",202,31,2
 "Cinnamon-banded Kingfisher",202,44,2
+"Cittura",202,83,2
 "Cinnamon-chested Bee-eater",210,37,2
 "Citreoline Trogon",252,14,2
+"citreolus",252,14,2
 "Cinnamon-rumped Trogon",252,63,1
+"cinerascens",225,27,1
 "Cinnamon Screech-owl",227,28,2
 "Cinnabar Hawk-owl",224,151,2
+"Circus",117,11,1
+"Circus",117,12,2
+"Circus",117,14,1
+"Circus",117,15,2
 "Cinereous Harrier",117,19,1
+"cinereus",117,19,1
+"Circus",117,19,1
+"Circus",117,20,2
+"Circus",117,21,2
+"Circus",117,22,2
+"Circus",117,28,1
+"Circus",117,29,2
+"Circus",117,30,2
+"Circus",117,31,2
+"Circus",117,32,2
+"Circus",117,33,2
+"cirrocephalus",117,109,1
+"cirrhatus",116,68,2
+"Circaetus",115,68,1
+"cinereus",115,69,2
+"Circaetus",115,69,2
+"Circaetus",115,70,2
+"Circaetus",115,73,2
+"Circaetus",115,75,1
+"cinerascens",115,76,2
+"Circaetus",115,76,2
 "Cinereous Vulture",115,112,2
+"cirrocephalus",212,45,1
+"cirrhata",212,150,2
+"cinerea",114,62,2
+"cinctus",114,81,2
+"cinereus",223,97,2
+"cinereus",119,15,2
+"cinctus",119,90,1
+"cinerea",354,40,1
 "Cinnamon Bittern",354,109,1
+"cinnamomeus",354,109,1
+"CICONIIFORMES",346,8,2
+"Ciconia",346,14,1
+"ciconia",346,15,2
+"Ciconia",346,15,2
+"Ciconia",346,16,2
+"Ciconia",346,17,2
+"Ciconia",346,20,1
+"Ciconia",346,21,2
+"Ciconia",346,22,2
+"cinerea",346,34,2
+"cinerea",357,26,2
+"cinerea",356,33,1
+"cinerea",360,74,2
+"cinerea",360,155,2
+"cinctus",350,15,2
 "Cinnamon-bellied Imperial-pigeon",352,46,2
+"cineracea",352,52,2
 "Cinnamon-headed Green-pigeon",351,28,2
+"cinereiceps",347,28,2
 "Cinnamon Ground-dove",347,87,2
 "Cinnamon Hummingbird",327,80,2
+"cirrochloris",326,14,2
 "Cinnamon-throated Hermit",325,8,1
+"cinereiventris",329,157,1
+"cinctus",315,33,1
+"cinereiceps",310,76,1
 "Cinnamon Teal",313,191,2
 "Cinereous Tinamou",253,25,2
+"cinereus",253,25,2
+"cinnamomeus",253,42,2
+"cinerascens",253,67,1
+"tentoria circumdata",94,69,1
+"Cuatro Cienegas Slider",95,32,2
+"cinerea",302,39,2
+"cinereus",335,54,2
+"citrinus",340,71,2
+"cinereus",334,177,2
+"cineraceus",269,27,2
+"cilicicus",269,28,2
+"ciliatus",272,53,1
+"cinereus",290,7,1
+"cinereiventer",290,19,1
+"cinnameus",290,33,2
+"cinerea",288,42,2
+"cinereus",281,101,2
 "Ciscaucasian Hamster",281,125,1
+"cinerea",256,78,2
+"cinereus",278,89,2
+"citellus",297,42,1
+"cinereicollis",296,73,2
+"cinerascens",285,161,1
+"cinereiceps",260,22,2
 "Cinnamon Red Bat",392,19,2
+"cinereus",392,23,1
+"circumdatus",392,56,1
+"ciliolabrum",404,68,2
 "Cinnamon Myotis",404,81,2
 "Cistugo",403,26,1
+"Cistugo",403,27,1
+"Cistugo",403,28,2
 "Cinnamon Dog-faced Bat",396,158,2
+"cinereus",393,39,2
+"cirrhosus",393,167,2
+"cineraceus",376,73,2
+"cinerea",386,25,1
+"cinerea",381,59,2
+"cinereoargenteus",381,183,1
 "Civets, Linsangs and Genets",385,1,1
+"Large-spotted Civet",385,40,1
+"Malabar Civet",385,41,2
+"civettina",385,41,2
+"Large Indian Civet",385,43,1
+"Malay Civet",385,44,2
+"Small Indian Civet",385,45,2
+"African Civet",385,46,2
+"civetta",385,46,2
+"Civettictis",385,46,2
+"Golden Palm Civet",385,54,1
+"Brown Palm Civet",385,55,2
+"Common Palm Civet",385,56,2
+"Masked Palm Civet",385,58,1
+"Brown Palm Civet",385,60,2
+"Small-toothed Palm Civet",385,61,2
+"African Palm Civet",385,62,2
+"Owston's Civet",385,66,1
+"Hose's Civet",385,67,2
+"Banded Civit",385,68,2
 "Cinderella Shrew",370,54,1
+"cinderella",370,54,1
 "Cinereus Shrew",398,37,2
+"cinereus",398,37,2
+"cirnei",323,114,2
+"cinereus",112,9,2
+"cinereus",109,15,2
 "Cinnamon Antechinus",111,52,2
 "Cinderella Fat-tailed Mouse Opossum",109,120,1
+"cinderella",109,120,1
+"cirrhacelis",38,94,2
+"cicada",51,51,2
+"cinereum",51,111,2
+"cinerea",40,168,2
+"cipoensis",47,40,2
+"cinerascens",46,29,1
+"circumdata",46,85,2
+"citropa",53,37,1
+"citriogaster",73,135,1
+"cinerascens",9,36,1
+"cinnamomeoventris",30,23,1
+"cinereus",30,186,2
+"cisternasii",342,17,1
+"cirrigera",104,20,1
+"cinereus",98,93,2
+"cingulatum",99,36,1

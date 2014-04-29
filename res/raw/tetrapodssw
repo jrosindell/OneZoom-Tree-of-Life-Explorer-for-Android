@@ -2,53 +2,260 @@ name,fileindex,index,whichChild
 "Swallow Tanager",125,181,2
 "Swamp Sparrow",145,61,2
 "Swainson's Warbler",144,194,1
+"swainsonii",144,194,1
 "Swahili Sparrow",122,30,2
 "Swainson's Sparrow",122,35,1
+"swainsonii",122,35,1
 "Swee Waxbill",134,37,2
 "Swamp Flycatcher",185,10,2
 "Swynnerton's Robin",193,57,1
+"swynnertoni",193,57,1
+"Swynnertonia",193,57,1
+"swalesi",188,63,2
 "Swainson's Thrush",188,188,2
+"swinhoei",167,22,1
+"Grauer's Swamp-warbler",177,12,2
+"Lesser Swamp-warbler",176,114,1
+"Greater Swamp-warbler",176,117,1
+"Madagascar Swamp-warbler",176,120,1
 "Swamp Greenbul",174,164,1
 "Swallows and martins",178,0,2
 "Swallows",178,4,1
+"Ethiopian Swallow",178,16,1
+"Red-chested Swallow",178,17,2
+"Angola Swallow",178,18,2
+"Barn Swallow",178,19,2
+"White-throated Blue Swallow",178,20,2
+"Wire-tailed Swallow",178,21,2
+"White-throated Swallow",178,22,2
+"Pacific Swallow",178,24,1
+"Welcome Swallow",178,25,2
+"White-tailed Swallow",178,29,2
+"Pied-winged Swallow",178,30,2
+"Black-and-rufous Swallow",178,32,1
+"Blue Swallow",178,33,2
+"Forest Swallow",178,34,2
+"Hill Swallow",178,43,2
+"Streak-throated Swallow",178,50,1
+"South African Swallow",178,53,2
+"Red-throated Swallow",178,55,1
+"Preuss's Swallow",178,56,2
+"Cliff Swallow",178,59,1
+"Cave Swallow",178,60,2
+"Pearl-breasted Swallow",178,62,1
+"Red Sea Swallow",178,63,2
+"Rufous-chested Swallow",178,67,1
+"Mosque Swallow",178,68,2
+"Chestnut-collared Swallow",178,69,2
+"Red-rumped Swallow",178,72,1
+"Striated Swallow",178,73,2
+"White-backed Swallow",178,91,1
+"Grey-rumped Swallow",178,92,2
 "Swallows",178,94,1
+"Northern Rough-winged Swallow",178,115,1
+"Southern Rough-winged Swallow",178,116,2
+"Brown-bellied Swallow",178,122,1
+"Andean Swallow",178,123,2
+"Pale-footed Swallow",178,124,2
+"Tawny-headed Swallow",178,125,2
+"Blue-and-white Swallow",178,127,1
+"Black-collared Swallow",178,128,2
+"Black-capped Swallow",178,131,1
+"White-thighed Swallow",178,132,2
+"White-banded Swallow",178,133,2
+"White-winged Swallow",178,139,1
+"Mangrove Swallow",178,140,2
+"Tumbes Swallow",178,141,2
+"White-rumped Swallow",178,143,1
+"Chilean Swallow",178,144,2
+"Bahama Swallow",178,148,1
+"Golden Swallow",178,149,2
+"Violet-green Swallow",178,150,2
+"Tree Swallow",178,151,2
 "Swainson's Flycatcher",236,35,2
+"swainsoni",236,35,2
+"swainsoni",229,128,2
 "Swallow-tailed Cotinga",249,34,2
 "Swallow-tailed Manakin",249,153,1
+"swindernianus",219,37,1
 "Swift Parrot",218,33,2
+"swainsonii",215,45,2
+"swainsonii",204,63,1
+"swainsoni",209,13,2
 "Swallow-wing",201,59,2
 "Swallow-tailed Bee-eater",210,38,2
 "Swainson's Hawk",118,37,2
+"swainsoni",118,37,2
 "Swamp Harrier",117,32,2
+"American Swallow-tailed Kite",115,142,2
+"African Swallow-tailed Kite",115,169,1
+"swainsonii",115,170,2
 "Swallow-tailed Gull",212,61,1
 "Swinhoe's Snipe",223,13,1
 "Swinhoe's Storm-petrel",357,147,2
 "Swinhoe's Rail",361,25,1
 "Swamphen, Gallinules and Takane",361,48,2
+"Purple Swamphen",361,51,1
 "Swallow-tailed Hummingbird",326,13,1
+"swainsonii",326,99,1
 "Sword-billed Hummingbird",332,155,1
 "Swifts and Treeswifts",324,18,2
 "Swifts",324,19,1
 "Swiftlets",329,3,1
+"Edible-nest Swiftlet",329,11,1
+"Mossy-nest Swiftlet",329,12,2
+"Seychelles Swiftlet",329,14,1
+"Mascarene Swiftlet",329,15,2
+"Philippine Swiftlet",329,16,2
+"Guam Swiftlet",329,20,1
+"Atiu Swiftlet",329,21,2
+"Uniform Swiftlet",329,22,2
+"White-rumped Swiftlet",329,23,2
+"Marquesan Swiftlet",329,24,2
+"Whitehead's Swiftlet",329,28,1
+"Bare-legged Swiftlet",329,29,2
+"Australian Swiftlet",329,31,1
+"Palau Swiftlet",329,32,2
+"Black-nest Swiftlet",329,35,1
+"Tahiti Swiftlet",329,36,2
+"Himalayan Swiftlet",329,37,2
+"Schouteden's Swift",329,43,1
+"Scarce Swift",329,44,2
+"Mountain Swiftlet",329,45,2
+"Volcano Swiftlet",329,47,1
+"German's Swiftlet",329,48,2
+"Micronesian Swiftlet",329,51,1
+"Waterfall Swift",329,52,2
+"Palawan Swiftlet",329,54,1
+"Grey Swiftlet",329,55,2
+"Moluccan Swiftlet",329,57,1
+"Papuan Swiftlet",329,58,2
+"Glossy Swiftlet",329,63,1
+"Cave Swiftlet",329,64,2
+"Mayr's Swiftlet",329,65,2
+"Indian Swiftlet",329,66,2
+"Indochinese Swiftlet",329,68,1
+"Pygmy Swiftlet",329,69,2
+"Pallid Swift",329,80,1
+"Plain Swift",329,81,2
+"Bates's Swift",329,83,1
+"Horus Swift",329,84,2
+"Fernando Po Swift",329,85,2
+"Loanda Swift",329,88,1
+"Common Swift",329,89,2
+"Forbes-Watson's Swift",329,90,2
+"House Swift",329,93,1
+"Little Swift",329,94,2
+"Madagascar Swift",329,95,2
+"Fork-tailed Swift",329,99,1
+"Alexander's Swift",329,100,2
+"Bradfield's Swift",329,101,2
+"White-rumped Swift",329,103,1
+"Nyanza Swift",329,104,2
+"Dark-rumped Swift",329,106,1
+"African Black Swift",329,107,2
+"Mottled Swift",329,109,1
+"Alpine Swift",329,110,2
 "Swallow-tailed swifts",329,112,1
+"Swallow-tailed swifts",329,112,1
+"Great Swallow-tailed Swift",329,113,1
+"Great Swallow-tailed Swift",329,113,1
+"Lesser Swallow-tailed Swift",329,114,2
+"Lesser Swallow-tailed Swift",329,114,2
+"Pygmy Swift",329,122,2
+"White-throated Swift",329,126,1
+"White-tipped Swift",329,127,2
+"Andean Swift",329,128,2
+"Chimney Swift",329,145,1
+"Vaux's Swift",329,146,2
+"Amazonian Swift",329,147,2
+"Lesser Antillean Swift",329,148,2
+"Pale-rumped Swift",329,151,1
+"Chapman's Swift",329,152,2
+"Short-tailed Swift",329,153,2
+"Sick's Swift",329,154,2
+"Grey-rumped Swift",329,157,1
+"Band-rumped Swift",329,158,2
+"Costa Rican Swift",329,159,2
+"Rothschild's Swift",324,25,1
+"Great Dusky Swift",324,26,2
+"American Black Swift",324,27,2
+"White-fronted Swift",324,29,1
+"White-chinned Swift",324,30,2
+"Spot-fronted Swift",324,33,1
+"Sooty Swift",324,34,2
+"White-chested Swift",324,35,2
+"White-collared Swift",324,39,1
+"Biscutate Swift",324,40,2
+"White-naped Swift",324,41,2
+"Chestnut-collared Swift",324,43,1
+"Tepui Swift",324,44,2
 "Swallow-tailed Nightjar",324,164,1
 "Swamp Nightjar",331,12,2
 "Swinhoe's Pheasant",312,18,2
+"swinhoii",312,18,2
 "Swamp Francolin",312,163,2
 "Swainson's Spurfowl",317,28,2
+"swainsonii",317,28,2
 "Swierstra's Francolin",317,41,2
+"swierstrai",317,41,2
+"Ducks, Geese and Swans",310,131,1
 "Swan Goose",316,10,1
+"True Swans",316,34,2
+"Tundra Swan",316,38,1
+"Whooper Swan",316,39,2
+"Trumpeter Swan",316,40,2
+"Black Swan",316,42,1
+"Mute Swan",316,43,2
+"Black-necked Swan",316,44,2
+"Coscoroba Swan",316,47,2
+"Black Spine-necked Swamp Turtle",0,106,2
+"Big-headed Pantanal Swamp Turtle",0,107,2
+"Brazilian Radiolated Swamp Turtle",0,108,2
+"swansoni",298,60,2
+"swinhonis",406,45,2
+"swazicus",340,118,2
+"Groove-toothed Swamp Rats",269,202,1
+"Bell Groove-toothed Swamp Rat",269,206,1
+"Least Groove-toothed Swamp Rat",269,207,2
+"Hopkins's Groove-toothed Swamp Rat",269,208,2
+"Creek Groove-toothed Swamp Rat",269,209,2
+"Issel's Groove-toothed Swamp Rat",269,210,2
+"Australian Swamp Rat",267,66,1
 "Swamp Rats",272,20,1
+"Verschuren's Swamp Rat",272,24,1
+"Lukolela Swamp Rat",272,25,2
+"Big-eared Swamp Rat",272,26,2
+"Cansdale's Swamp Rat",272,27,2
+"Edward's Swamp Rat",272,28,2
 "Swarthy Gerbil",268,29,2
+"Andean Swamp Rat",289,97,2
 "Swamp Rats",292,64,2
 "Swamp Rat",292,65,1
+"swarthi",292,75,2
+"swinderianus",256,118,1
 "Swinhoe's Striped Squirrel",278,165,2
+"swinhoei",278,165,2
 "Swamp Rabbit",254,93,2
+"Allen's Swamp Monkey",275,139,2
 "Sword-nosed Bats",393,195,1
+"Marinkelle's Sword-nosed Bat",393,198,1
+"Common Sword-nosed Bat",393,199,2
+"Fernandez's Sword-nosed Bat",393,200,2
+"Orinoco Sword-nosed Bat",393,201,2
 "Swinny's Horseshoe Bat",379,42,2
+"swinnyi",379,42,2
 "Swift Fruit Bat",387,49,2
+"swinhoei",372,70,2
 "Swift Fox",381,172,2
+"Kahuzi Swamp Shrew",369,10,1
 "Swamp Musk Shrew",369,39,2
+"Savanna Swamp Shrew",367,144,2
 "Swamp Wallaby",110,72,2
+"swainsonii",111,58,1
 "Swamp Antechinus",111,59,2
+"swinhoana",16,27,2
+"swamianus",2,165,1
+"swanhildae",33,163,2
+"swynnertoni",30,54,1
 "Sword-tailed Newt",103,66,2

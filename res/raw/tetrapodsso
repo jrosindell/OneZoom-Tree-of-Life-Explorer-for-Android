@@ -1,17 +1,23 @@
 name,fileindex,index,whichChild
 "Songbirds",120,0,1
+"sordida",126,39,2
 "Sooty Grassquit",129,38,2
+"somptuosus",128,130,2
 "Sooty Ant-tanager",124,163,2
 "Song Sparrow",145,62,2
 "Sooty-faced Finch",142,26,2
 "Sooty-capped Bush-tanager",146,45,2
 "Somali Golden-breasted Bunting",142,112,1
 "Socotra Bunting",142,160,2
+"socotrana",142,160,2
 "Solitary Black Cacique",143,111,2
+"solitarius",143,111,2
 "Southern Yellowthroat",144,180,2
 "Somali Grosbeak",138,44,2
 "Socotra Grosbeak",138,45,2
+"socotranus",138,45,2
 "Sokoke Pipit",123,22,2
+"sokokensis",123,22,2
 "South Georgia Pipit",123,31,2
 "Socotra Sparrow",122,21,2
 "Somali Sparrow",122,24,1
@@ -19,42 +25,79 @@ name,fileindex,index,whichChild
 "Southern Grey-headed Sparrow",122,41,2
 "Southern Brown-throated Weaver",141,28,1
 "Southern Masked-weaver",141,42,2
+"Black-capped Social-weaver",140,148,1
+"Grey-headed Social-weaver",140,149,2
 "Sociable Weaver",140,171,2
+"socius",140,171,2
 "Socotra Sunbird",131,42,1
 "Southern Double-collared Sunbird",131,147,1
 "Souimanga Sunbird",131,148,2
+"sovimanga",131,148,2
+"solaris",131,158,2
+"sonnerati",121,169,2
 "Sombre Chat",184,32,2
 "Somali Wheatear",184,33,2
 "Sooty Chat",184,62,2
 "Southern Anteater-chat",184,68,1
+"sordida",184,69,2
+"solitarius",184,119,2
+"sordidus",183,169,2
 "Sooty Flycatcher",185,35,2
 "Southern Black Flycatcher",183,182,1
+"solitaris",181,20,1
 "Sooty Thrush",188,57,2
 "Somali Thrush",188,83,2
 "Song Thrush",188,87,2
+"White-eared Solitaire",188,203,1
+"Black Solitaire",188,204,2
+"Rufous-brown Solitaire",188,205,2
+"Black-faced Solitaire",181,32,1
+"Varied Solitaire",181,33,2
+"Andean Solitaire",181,34,2
+"Rufous-throated Solitaire",181,36,1
+"Cuban Solitaire",181,38,2
+"Brown-backed Solitaire",181,41,1
+"Slate-coloured Solitaire",181,43,2
+"Townsend's Solitaire",181,45,1
 "Southern Blue-eared Glossy-starling",191,52,2
 "Socotra Starling",191,78,1
 "Somali Starling",191,79,2
 "Socorro Mockingbird",192,11,2
 "Sooty-headed Wren",190,13,2
+"solstitialis",190,80,2
 "Socorro Wren",190,83,1
 "Song Wren",190,102,2
 "Southern Nightingale-wren",181,85,2
+"solangiae",182,39,2
 "Southern Pied-babbler",164,105,2
+"souliei",168,31,2
+"sodangorum",168,34,2
 "Sooty-capped Babbler",165,78,2
+"sorsogonensis",165,94,1
 "Sooty Babbler",163,89,2
 "Solomons White-eye",166,34,1
+"somadikartai",166,89,1
+"sordidus",166,124,1
+"Rufous Songlark",177,35,1
+"Brown Songlark",177,36,2
+"sorghophilus",176,107,2
 "Southern Hyliota",176,190,2
+"somalica",170,20,2
+"socialis",170,31,2
 "Socotra Warbler",170,181,2
 "Sooty-headed Bulbul",174,18,1
 "Sombre Greenbul",174,199,2
 "Sombre Leaf-warbler",162,23,2
 "Southern Blyth's Leaf-warbler",162,32,2
+"soror",162,64,2
+"sophiae",162,220,1
 "South African Swallow",178,53,2
 "Southern Martin",178,108,2
 "Southern Rough-winged Swallow",178,116,2
 "Somali Crombec",161,36,2
+"somalica",173,58,2
 "Somali Lark",173,119,2
+"somalica",173,119,2
 "Sombre Tit",169,27,2
 "Somali Tit",169,44,2
 "Southern Penduline-tit",161,144,1
@@ -63,21 +106,34 @@ name,fileindex,index,whichChild
 "Sooty Thicket-fantail",153,79,2
 "Somali Crow",158,33,2
 "Souza's Shrike",157,175,2
+"souzae",157,175,2
 "Southern Grey Shrike",157,195,1
 "Somali Fiscal",157,197,2
+"somalicus",157,197,2
+"solitarius",154,19,2
 "Sooty Shrike-thrush",156,23,2
+"soror",156,54,2
+"soror",196,27,2
 "Southern Boubou",198,25,2
 "Sooty Boubou",198,35,2
 "Southern Tchagra",198,78,1
 "Solomons Cuckooshrike",197,17,2
+"solaris",195,140,2
 "Sooty Myzomela",149,52,2
 "Sooty Melidectes",150,11,2
+"solitaria",180,37,2
 "Southern Whiteface",180,83,2
 "Southern Emuwren",120,115,1
 "Sooty-fronted Spinetail",233,13,2
 "Softtails",233,90,1
+"Striated Softtail",233,93,1
+"Plain Softtail",233,94,2
+"Orinoco Softtail",233,95,2
+"Russet-mantled Softtail",233,96,2
+"souleyetii",230,101,2
 "Sooty Antbird",247,13,2
 "Sooretama Slaty-antshrike",246,25,2
+"sordidulus",243,42,2
 "Southern Scrub-flycatcher",241,53,2
 "Sooty-crowned Flycatcher",236,19,1
 "Social Flycatcher",236,127,2
@@ -87,8 +143,13 @@ name,fileindex,index,whichChild
 "Southern Bentbill",239,17,2
 "Southern Bristle-tyrant",237,39,2
 "Southern Antpipit",235,165,1
+"sordida",229,154,1
+"soror",229,190,2
 "South Island Wren",114,9,1
+"solitarius",216,104,2
+"solstitialis",217,17,1
 "Socorro Parakeet",217,39,2
+"sordidus",221,78,2
 "Solomons Cockatoo",215,138,1
 "Sooty Falcon",222,40,2
 "Southern Caracara",222,109,2
@@ -99,6 +160,8 @@ name,fileindex,index,whichChild
 "Somali Bee-eater",210,29,2
 "Southern Yellow-billed Hornbill",201,163,1
 "Southern Ground-hornbill",201,180,2
+"somaliensis",201,190,1
+"solomonensis",224,23,2
 "Southern White-faced Owl",224,33,2
 "Sokoke Scops-owl",224,102,2
 "Southern Saw-whet Owl",224,118,1
@@ -106,7 +169,13 @@ name,fileindex,index,whichChild
 "Southern Boobook",224,136,2
 "Solomons Hawk-owl",224,165,2
 "Sooty Owl",224,180,2
+"soumagnei",224,194,1
+"sororcula",224,195,2
+"solitarius",118,40,2
 "Solitary Eagle",118,88,1
+"solitarius",118,88,1
+"sociabilis",118,98,2
+"soloensis",117,122,2
 "Southern Banded Snake-eagle",115,75,1
 "South Nicobar Serpent-eagle",115,86,2
 "Sooty Gull",212,16,2
@@ -115,17 +184,22 @@ name,fileindex,index,whichChild
 "Southern Skua",212,156,1
 "South Polar Skua",212,158,2
 "Somali Courser",114,73,1
+"somalensis",114,73,1
 "Solitary Snipe",223,16,1
+"solitaria",223,16,1
 "South American Snipe",223,32,2
 "Solitary Sandpiper",223,86,1
+"solitaria",223,86,1
 "South American Painted-snipe",114,138,2
 "Southern Lapwing",119,21,1
 "Sociable Lapwing",119,39,2
 "Sooty Oystercatcher",119,137,2
 "South Island Oystercatcher",119,142,1
+"socialis",114,171,2
 "Southern Bald Ibis",354,189,2
 "Socotra Cormorant",364,64,2
 "Sooty Shearwater",359,32,2
+"solandri",358,33,2
 "Soft-plumaged Petrel",358,62,2
 "South Georgia Diving-petrel",357,50,1
 "Southern Giant-petrel",357,58,1
@@ -133,46 +207,125 @@ name,fileindex,index,whichChild
 "Sooty Albatross",357,92,2
 "Southern Royal Albatross",357,101,1
 "Southern Rockhopper Penguin",357,166,1
+"solitarius",355,26,2
+"sonneratii",355,61,2
 "Sora",360,76,2
+"solomonensis",350,32,1
 "Sombre Pigeon",350,96,2
+"solomonensis",352,79,2
 "Southern Crowned-pigeon",347,35,1
 "Somali Pigeon",348,43,2
 "Socorro Dove",349,25,2
 "Sombre Hummingbird",326,14,2
+"sordidus",326,120,2
 "Sooty-capped Hermit",325,11,1
 "Sooty Barbthroat",325,64,2
 "Sooty Swift",324,34,2
 "Solomon Islands Frogmouth",324,97,2
 "Sombre Nightjar",331,17,2
+"solala",324,186,2
+"soemmerringii",312,53,2
 "Sooty Grouse",312,76,1
+"sonneratii",312,151,2
+"Somateria",313,35,1
+"Somateria",313,36,2
+"Somateria",313,37,2
 "South African Shelduck",313,49,1
 "Southern Pochard",313,101,1
 "Southern Screamer",310,169,1
+"soui",253,35,2
 "Solitary Tinamou",253,52,2
+"solitarius",253,52,2
 "Southern Cassowary",0,16,1
 "Southern Brown Kiwi",0,22,1
 "Softshell Turtles",343,2,1
+"Indian Peacock Softshell Turtle",343,10,1
+"Black Soft-shell Turtle",343,11,2
+"Indian Softshell Turtle",343,13,1
+"Leith's Softshell Turtle",343,14,2
+"Burmese Peacock Softshell",343,15,2
+"Wattle-necked Softshell Turtle",343,17,1
+"Asiatic Softshell Turtle",343,18,2
+"Malayan Soft-shelled Turtle",343,19,2
+"Gulf Coast Spiny Softshell Turtle",343,26,1
+"Florida Softshell Turtle",343,27,2
+"Smooth Softshell Turtle",343,28,2
+"Euphrates Softshell Turtle",343,29,2
 "Southeast Asian Narrow-headed Softshell Turtle",343,34,1
+"Southeast Asian Narrow-headed Softshell Turtle",343,34,1
+"Burmese Narrow-headed Softshell Turtle",343,35,2
+"Indian Narrow-headed Softshell Turtle",343,36,2
+"Asian Giant Softshell Turtle",343,38,1
+"Cantor's Giant Softshell",343,39,2
+"African Softshell Turtle",343,40,2
 "South American River Turtles",0,81,1
+"socotrana",305,64,2
+"solomonis",307,38,1
+"southi",304,97,2
+"solare",414,13,2
 "South African Dwarf Chameleons",410,35,2
 "Southern Alligator Lizard",405,201,1
+"sokolovi",411,13,1
+"Sonora",337,37,2
+"socotrae",337,59,2
+"Sordellina",336,28,2
 "Sonoran Coral Snake",340,52,1
+"Montane Soft-furred Paramelomys",266,21,1
+"some",266,80,2
+"Forest Soft-furred Mouse",263,19,2
+"Muton's Soft-furred Mouse",263,20,2
+"Delectable Soft-furred Mouse",263,28,2
 "Solomys",270,38,2
+"Solomys",270,41,1
+"Solomys",270,42,2
+"Solomys",270,43,2
+"Solomys",270,45,1
+"Solomys",270,46,2
+"some",270,52,1
+"some",270,63,2
+"some",270,68,2
+"some",269,6,1
 "Soft-furred Taiwan Niviventer",269,89,1
+"sorella",269,135,2
+"some",269,181,1
+"sordidus",267,67,2
 "Southeastern Xanthurus Rat",267,79,2
 "Southwestern Xanthurus Rat",267,82,1
+"some",267,123,1
 "Soft-furred Metad",267,201,1
+"some",267,220,2
+"Sulawesi Soft-furred Rat",274,52,1
 "South China Field Mouse",273,14,2
+"some",273,44,2
 "Somali Grass Rat",273,55,2
+"some",273,70,1
+"sodyi",273,75,2
 "Southern Luzon Phloeomys",273,78,2
 "Southern African Mastomys",273,95,2
+"some",271,19,1
+"some",263,41,1
+"some",263,77,1
 "Southern African Vlei Rat",264,19,1
+"some",264,51,1
+"soricoides",264,66,1
+"some",272,20,1
 "Southeastern Mountain Taeromys",272,39,2
+"some",263,115,1
+"somalicus",268,34,2
 "Somalia Gerbil",268,91,1
 "Somali Pygmy Gerbil",263,121,2
+"some",265,0,2
+"some",265,5,1
 "Soft Grass Mouse",289,39,2
+"sorellus",289,135,1
+"some",293,4,1
+"some",293,82,2
+"some",293,117,1
 "Southern Pericote",292,39,2
+"some",292,61,2
+"some",292,80,2
 "South American Spiny Mouse",292,81,1
+"some",294,1,1
 "Southern Climbing Mouse",294,16,2
 "South American Water Rat",294,39,1
 "Southern Cotton Rat",287,111,1
@@ -182,59 +335,120 @@ name,fileindex,index,whichChild
 "Southern Pygmy Mouse",287,208,1
 "Southern Plains Woodrat",288,13,2
 "Sonoran Woodrat",288,43,2
+"some",282,1,1
+"some",282,5,1
 "Social Vole",282,74,2
+"socialis",282,74,2
+"some",281,24,2
+"some",283,1,1
+"some",283,34,2
+"some",281,36,2
 "Southern Red-backed Vole",284,18,2
 "Southwest China Red-backed Vole",284,22,2
+"some",281,45,2
 "Southern Water Vole",281,49,2
+"some",281,82,2
 "Sort-furred Tree Mouse",281,101,2
 "Sokolov's Dwarf Hamster",281,113,1
+"sokolovi",281,113,1
+"some",281,140,1
+"some",281,163,2
+"some",281,170,2
 "Southern Birch Mouse",280,25,2
+"some",280,57,2
+"some",280,78,2
 "Southern Spiny Pocket Mouse",255,21,2
+"some",255,99,1
+"some",254,27,2
+"Arboreal Soft-furred Spiny Rat",258,40,1
 "Southern Mountain Cavy",259,36,2
 "Southern Mountain Viscacha",256,64,1
+"some",256,120,2
 "Southern Tuco-tuco",256,169,1
 "Social Tuco-tuco",256,170,2
+"sociabilis",256,170,2
+"some",254,45,2
+"some",254,55,2
 "Southern Amazon Red Squirrel",279,24,2
+"some",279,58,1
+"some",278,93,2
+"some",278,102,1
 "Southern Palawan Tree Squirrel",278,141,1
+"some",296,6,1
 "Sonoma Chipmunk",296,89,1
+"sonomae",296,89,1
+"some",296,168,2
+"some",296,171,2
 "South African Ground Squirrel",296,179,2
 "Southern Pig-tailed Macaque",275,20,1
 "Sooty/white-naped Mangabey",275,64,2
+"solatus",275,136,2
 "Southern Talapoin Monkey",275,138,2
 "Southern Plains Gray Langur",275,154,1
 "Southern White-cheeked Gibbon",295,26,1
+"some",285,77,1
+"some",285,110,2
+"some",285,115,2
+"some",285,122,1
 "Southern Fat-tailed Dwarf Lemur",260,94,1
 "Somali Lesser Galago",260,118,2
 "Southern Needle-clawed Galago",260,120,1
 "Southern Lesser Galago",260,125,1
+"some",389,50,1
 "Southern Forest Bat",391,47,1
+"some",389,151,2
+"some",390,2,1
+"some",390,52,1
 "Southern Big-eared Brown Bat",390,66,1
 "Southern Yellow Bat",392,31,2
+"some",392,35,1
 "Social Sprite",392,58,2
+"societatis",392,58,2
+"somalicus",392,72,1
+"sodalis",404,20,2
 "Southern Myotis",404,80,2
 "Southwestern Myotis",403,82,2
 "Southeastern Myotis",403,93,2
 "Sombre Bat",403,136,2
 "Sody's Yellow House Bat",403,182,2
+"some",403,193,1
 "Southeast Asian Long-fingered Bat",365,26,1
+"some",396,8,1
+"solomonis",396,66,1
+"some",396,127,2
+"some",396,147,1
 "Southern Dog-faced Bat",396,156,1
 "Southern Free-tailed Bat",396,190,2
+"some",393,10,2
+"some",395,26,1
+"soricina",395,33,2
+"some",393,169,1
 "Sooty Mustached Bat",393,214,2
 "Sooty Roundleaf Bat",376,31,1
 "Solomons Leaf-nosed Bat",376,77,2
 "Solomons Flying Fox",366,108,2
 "Solomons Bare-backed Fruit Bat",366,157,2
+"sobrinus",365,100,2
+"some",399,0,2
+"some",387,1,1
+"some",387,52,2
 "Soemmerring's Gazelle",372,134,1
+"soemmerringii",372,134,1
 "Southern Lechwe",371,20,1
 "Southern Reedbuck",371,28,1
 "Southern Red Muntjac",374,39,2
 "Southern Pudu",375,32,2
 "Sousa",373,22,2
+"Sousa",373,23,1
+"Sousa",373,24,2
+"Sotalia",373,38,2
 "Southern Right Whale Dolphin",373,59,2
 "Sowerby's Beaked Whale",371,145,1
 "Southern Bottlenose Whale",371,153,2
 "South Asian River Dolphin",371,162,1
 "Southern Right Whale",371,191,2
+"sondaicus",365,123,2
+"some",383,74,2
 "Southern River Otter",386,8,1
 "Southern Spotted Skunk",386,34,2
 "South American Coati",381,17,1
@@ -243,15 +457,77 @@ name,fileindex,index,whichChild
 "Southern Elephant Seal",381,100,2
 "Somali Dwarf Mongoose",384,17,1
 "South African Large-spotted Genet",385,21,1
+"Soricidae",365,167,1
 "Southeast Asian Shrew",368,35,2
 "Somali Shrew",367,143,2
+"somalica",367,143,2
+"Solisorex",367,175,2
+"somereni",402,39,2
 "Sorex",397,3,1
+"Sorex",397,17,1
+"Sorex",397,18,2
+"Sorex",397,19,2
+"Sorex",397,20,2
+"Sorex",397,22,1
+"Sorex",397,23,2
+"Sorex",397,25,1
+"Sorex",397,26,2
+"Sorex",397,28,1
+"Sorex",397,29,2
+"Sorex",397,30,2
+"Sorex",397,31,2
+"Sorex",397,36,1
+"Sorex",397,37,2
+"Sorex",397,38,2
+"Sorex",397,40,1
+"Sorex",397,41,2
+"Sorex",397,42,2
+"Sorex",397,43,2
+"Sorex",397,49,1
+"Sorex",397,50,2
+"Sorex",397,51,2
+"Sorex",397,52,2
+"Sorex",397,53,2
+"Sorex",397,54,2
+"Sorex",397,55,2
+"Sorex",398,9,1
+"Sorex",398,10,2
+"Sorex",398,12,1
+"Sorex",398,13,2
+"Sorex",398,16,1
+"Sorex",398,17,2
+"Sorex",398,18,2
+"Sorex",398,19,2
+"Sorex",398,21,1
+"Sorex",398,22,2
+"Sorex",398,25,1
+"Sorex",398,26,2
+"Sorex",398,28,1
+"Sorex",398,29,2
+"Sorex",398,31,1
+"Sorex",398,32,2
 "Southeastern Shrew",398,36,1
+"Sorex",398,36,1
+"Sorex",398,37,2
+"Sorex",398,38,2
+"Sorex",398,39,2
+"Sorex",398,40,2
+"Sorex",397,58,1
+"Sorex",397,59,2
+"Sorex",397,60,2
 "Southern Short-tailed Shrew",397,121,1
+"sodalis",397,135,2
+"Soriculus",397,141,1
+"some",397,152,2
+"some",397,163,2
 "Southern White-breasted Hedgehog",388,6,2
 "Somali Hedgehog",388,14,2
 "Southern African Hedgehog",388,16,2
+"soricipes",365,173,2
 "Solenodontidae",365,177,2
+"Haitian Solenodon",365,178,1
+"Solenodon",365,178,1
+"Solenodon",365,179,2
 "Southern Three-banded Armadillo",333,15,2
 "Southern Long-nosed Armadillo",333,36,2
 "Somali Golden Mole",323,78,1
@@ -262,22 +538,50 @@ name,fileindex,index,whichChild
 "Southern Brown Bandicoot",109,50,1
 "Southeastern Four-eyed Opossum",109,153,1
 "Southern Three-striped Opossum",109,178,1
+"sorex",109,180,2
 "Southwestern Toad",61,13,1
 "Southern Toad",61,17,2
 "Sonoran Green Toad",61,22,1
 "South American Common Toad",58,15,1
+"sonsonensis",63,20,1
+"sorianoi",63,110,1
 "South American Redbelly Toads",38,37,2
 "South American Horned Frogs",52,3,1
+"solitarius",52,40,2
+"soaresi",51,65,1
+"somuncurensis",51,118,2
+"Somuncuria",51,118,2
+"solitaria",49,112,2
 "Southern Chorus Frog",40,117,1
 "Southern Cricket Frog",40,132,2
+"sordida",40,189,2
+"soralia",67,38,2
+"soaresi",48,129,2
+"sobetes",86,37,1
 "Southern Toadlet",23,79,2
 "Southern Gastric Brooding Frog",23,110,2
+"SOOGLOSSIDAE",1,28,2
+"Sooglossus",1,31,1
+"Sooglossus",1,32,2
+"Sooglossus",1,34,1
+"Sooglossus",1,35,2
+"sordidus",9,29,1
+"solomaso",20,30,2
 "Southern Leopard Frog",12,20,1
 "Southern Mountain Yellow-legged Frog",13,71,1
+"solomonis",92,30,2
 "Somali Rubber Frog",25,81,1
+"somalicus",25,81,1
+"soror",30,162,2
+"somalica",27,14,2
+"sonjae",27,46,2
+"sopranus",25,148,2
 "Southern Spadefoot Toads",1,174,2
+"sooyorum",100,27,2
+"sombra",100,81,1
 "Southern Giant Salamander",100,124,1
 "Southern Two-lined Salamander",104,20,1
+"sosorum",104,44,1
 "Southern Zigzag Salamander",98,59,2
 "Southern Redback Salamander",98,80,1
 "South Mountain Gray-cheeked Salamander",107,11,1
@@ -288,3 +592,4 @@ name,fileindex,index,whichChild
 "Southern Crested Newt",103,23,1
 "Southern Marbled Newt",103,27,1
 "Southern Banded Newt",103,39,2
+"sonani",344,43,2

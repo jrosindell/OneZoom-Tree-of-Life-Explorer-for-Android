@@ -1,5 +1,6 @@
 name,fileindex,index,whichChild
 "Chestnut-bellied Flowerpiercer",125,25,1
+"Charitospiza",125,48,2
 "Chestnut-vented Conebill",125,113,2
 "Chestnut Seedeater",127,21,2
 "Chestnut-bellied Seedeater",127,26,1
@@ -7,38 +8,137 @@ name,fileindex,index,whichChild
 "Chestnut-breasted Mountain-finch",126,27,2
 "Chestnut-headed Tanager",126,43,2
 "Cherrie's Tanager",130,44,2
+"chrysomelas",124,19,1
+"Chrysothlypis",124,19,1
+"Chrysothlypis",124,20,2
+"Chlorophanes",124,33,2
 "Cherry-throated Tanager",124,37,1
+"Many-coloured Chaco-finch",124,72,1
+"chilensis",128,31,2
+"chrysotis",128,49,2
 "Chestnut-backed Tanager",128,91,2
 "Chestnut-bellied Mountain-tanager",128,110,1
+"Chlorornis",128,113,2
+"chloricterus",128,134,2
+"Chlorochrysa",128,186,1
+"Chlorochrysa",128,187,2
+"Chlorochrysa",128,188,2
+"Western Chat-Tanager",124,95,1
 "Chat Tanager",124,96,2
 "Chlorophonias",124,103,2
+"Blue-crowned Chlorophonia",124,106,1
+"Chlorophonia",124,106,1
+"Blue-naped Chlorophonia",124,107,2
+"Chlorophonia",124,107,2
+"Yellow-collared Chlorophonia",124,108,2
+"Chlorophonia",124,108,2
 "Chestnut-breasted Chlorophonia",124,110,1
+"Chestnut-breasted Chlorophonia",124,110,1
+"Chlorophonia",124,110,1
+"Golden-browed Chlorophonia",124,111,2
+"Chlorophonia",124,111,2
+"Chlorothraupis",124,155,1
+"Chlorothraupis",124,156,2
+"Chlorothraupis",124,157,2
+"Chlorothraupis",124,158,2
+"Red-breasted Chat",124,200,1
+"Grey-throated Chat",124,201,2
+"Rose-breasted Chat",124,202,2
+"chrysogaster",124,207,1
+"chrysopeplus",124,212,2
+"chlorurus",145,28,2
 "Chestnut-capped Brush-finch",142,28,2
 "Chipping Sparrow",142,40,2
+"chloronotus",146,9,2
+"Chlorospingus",146,40,1
+"Chlorospingus",146,41,2
+"Chlorospingus",146,42,2
+"Chlorospingus",146,43,2
+"Chlorospingus",146,44,2
+"Chlorospingus",146,45,2
+"Chlorospingus",146,48,1
+"Chlorospingus",146,49,2
+"Chlorospingus",146,50,2
+"Chondestes",142,71,2
 "Chestnut-breasted Bunting",142,100,2
 "Chestnut Bunting",142,128,2
 "Chestnut-eared Bunting",142,132,1
+"chrysophrys",142,138,2
+"Chrysomus",143,15,1
 "Chestnut-capped Blackbird",143,16,2
+"Chrysomus",143,16,2
 "Chopi Blackbird",143,26,2
+"chopi",143,26,2
+"chrysonotus",143,98,2
+"chrysopterus",143,106,1
 "Chestnut-headed Oropendola",143,120,2
+"chrysater",147,52,1
+"chrysogaster",144,81,1
 "Choco Warbler",144,87,2
+"chlorophrys",144,87,2
+"chrysoparia",144,102,2
 "Chestnut-sided Warbler",144,133,1
 "Chiriqui Yellowthroat",144,184,2
+"chiriquensis",144,184,2
+"chrysoptera",144,219,1
+"Yellow-breasted Chat",142,192,2
 "Chestnut-collared Longspur",121,12,1
+"chloris",135,71,2
+"chrysopasta",135,166,2
+"chalybea",135,190,2
 "Chestnut-bellied Euphonia",135,195,1
+"chlorotica",135,199,1
+"Eurasian Chaffinch",135,209,1
+"Blue Chaffinch",135,210,2
+"chloris",123,56,1
+"chacoensis",123,57,2
 "Chestnut Sparrow",122,10,2
 "Chestnut-shouldered Petronia",122,73,2
 "Chestnut Munia",132,38,1
 "Chestnut-breasted Munia",132,46,1
 "Chad Firefinch",133,32,2
+"charmosyna",134,10,2
 "Chestnut-breasted Negrofinch",132,176,2
+"chalybeata",121,50,1
 "Chestnut Weaver",141,47,2
 "Chestnut-backed Sparrow-weaver",140,165,1
 "Chestnut-crowned Sparrow-weaver",140,168,1
+"chloropygia",131,23,1
+"chalybea",131,147,1
+"chalcomelas",131,161,1
+"christinae",121,145,1
+"chrysorrheum",139,78,2
+"chrysogenys",139,99,1
+"Chloropseidae",121,161,1
+"Chloropsis",121,167,1
+"Chloropsis",121,168,2
+"Chloropsis",121,169,2
+"Chloropsis",121,171,1
+"Chloropsis",121,172,2
+"Chloropsis",121,174,1
+"Chloropsis",121,175,2
+"Chloropsis",121,177,1
+"Chloropsis",121,178,2
+"Chloropsis",121,180,1
+"Chloropsis",121,181,2
 "Chats and Old World flycatchers",121,187,1
+"Thrushes, Dippers, Chats, Old World Flycatchers",181,4,1
 "Chats and Old World Flycatchers",181,6,1
 "Chats and Old World flycatchers",183,5,1
+"chrysopygia",184,15,1
+"Indian Chat",184,25,2
+"Familiar Chat",184,27,1
+"Brown-tailed Chat",184,31,1
+"Sombre Chat",184,32,2
+"Rueppell's Chat",184,60,2
+"Sooty Chat",184,62,2
+"Moorland Chat",184,69,2
+"Sicklewing Chat",184,74,1
+"Tractrac Chat",184,75,2
+"Karoo Chat",184,76,2
+"Buff-streaked Chat",184,77,2
 "Chestnut-bellied Rock-thrush",184,122,1
+"Chaimarrornis",183,24,2
 "Chestnut-winged Whistling-thrush",183,41,1
 "Chats and Old World flycatchers",183,55,2
 "Chestnut-naped Forktail",183,62,2
@@ -46,83 +146,169 @@ name,fileindex,index,whichChild
 "Chats and Old World flycatchers",183,71,2
 "Chats and Old World flycatchers",183,85,1
 "Chats and Old World flycatchers",183,104,1
+"Boulder Chat",183,109,2
 "Chats and Old World flycatchers",183,111,2
 "Chats and Old World flycatchers",183,172,2
 "Chapin's Flycatcher",185,25,2
+"Herero Chat",183,189,2
 "Chat Flycatcher",183,203,1
+"chocolatinus",186,26,1
 "Chats and Old World flycatchers",193,1,1
 "Chorister Robin-chat",193,44,2
+"choloensis",193,69,2
 "Chats and Old World flycatchers",181,9,2
+"chrysaeus",181,14,2
 "Chestnut Thrush",188,24,2
+"chrysolaus",188,34,1
 "Chiguanco Thrush",189,41,2
+"chiguanco",189,41,2
 "Chestnut-bellied Thrush",189,42,2
 "Chinese Thrush",188,90,2
 "Chestnut-capped Thrush",188,107,2
 "Chestnut-backed Thrush",188,108,2
+"Chlamydochaera",188,168,1
 "Chestnut-bellied Starling",191,15,1
+"chalcurus",191,26,1
+"chalybaeus",191,28,2
+"chloropterus",191,32,1
 "Chestnut-winged Starling",191,85,1
 "Chestnut-tailed Starling",191,124,1
 "Chestnut-cheeked Starling",191,132,1
 "Chalk-browed Mockingbird",192,26,2
 "Chilean Mockingbird",192,29,2
 "Chestnut-breasted Wren",190,101,1
+"chiapensis",190,135,2
 "Chestnut-vented Nuthatch",182,16,1
 "Chestnut-bellied Nuthatch",182,34,2
 "Chestnut-capped Laughingthrush",164,25,1
 "Chinese Babax",164,33,2
 "Chestnut-backed Laughingthrush",164,43,2
+"chinensis",164,48,2
 "Chinese Hwamei",164,87,2
 "Chapin's Mountain-babbler",164,97,2
+"chapini",164,97,2
+"Fulvous Chatterer",164,109,1
+"Rufous Chatterer",164,146,2
+"Scaly Chatterer",164,152,2
 "Chestnut-eared Laughingthrush",164,160,2
+"chrysopterus",163,25,2
 "Chestnut-crowned Laughingthrush",163,35,1
 "Chestnut-tailed Minla",168,38,1
 "Chestnut-backed Scimitar-babbler",167,13,2
 "Chevron-breasted Babbler",167,16,1
+"chocolatinus",163,62,2
 "Chin Hills Wren-babbler",163,67,2
 "Chestnut-winged Babbler",163,80,2
+"chrysaea",163,90,2
 "Chestnut-rumped Babbler",163,96,2
 "Chestnut-capped Babbler",163,103,2
 "Chestnut-flanked White-eye",166,82,1
+"Chlorocharis",166,90,2
+"chloris",166,103,2
 "Christmas Island White-eye",166,141,2
+"chloronothus",166,163,1
 "Chestnut-faced Babbler",163,112,2
 "Chestnut-crested Yuhina",163,159,2
+"Chamaea",179,41,2
 "Chinese Fulvetta",179,55,1
+"White-browed Chinese Warbler",179,58,2
+"Chrysomma",179,61,1
+"Chrysomma",179,62,2
+"Chrysomma",179,63,2
+"chrysotis",179,64,2
 "Chestnut-backed Bush-warbler",176,17,1
 "Chinese Bush-warbler",176,21,1
+"chloropetoides",176,78,2
+"Chaetornis",176,143,2
+"Chloropeta",176,156,1
+"Chloropeta",176,157,2
+"Chloropeta",176,166,2
+"chariessa",171,12,2
 "Chestnut-throated Apalis",171,15,2
 "Chapin's Apalis",171,26,2
+"chapini",171,26,2
 "Chirinda Apalis",171,43,1
+"chirindensis",171,43,1
+"chloronota",171,61,2
+"chiniana",172,17,2
 "Chubb's Cisticola",170,130,2
+"chubbi",170,130,2
 "Chattering Cisticola",170,137,1
+"cherina",170,151,2
 "Churring Cisticola",170,152,2
 "Chirping Cisticola",170,165,2
 "Chestnut Bulbul",175,34,1
+"chloronotus",174,145,1
+"Chlorocichla",174,166,2
+"Chlorocichla",174,168,1
+"Chlorocichla",174,169,2
+"Chlorocichla",174,172,1
+"Chlorocichla",174,173,2
+"Chlorocichla",174,174,2
 "Chestnut-crowned Warbler",162,68,1
+"Canary Islands Chiffchaff",162,93,1
+"Mountain Chiffchaff",162,94,2
+"Common Chiffchaff",162,95,2
+"chloronotus",162,125,2
 "Chinese Leaf-warbler",162,127,2
+"Iberian Chiffchaff",162,138,2
 "Chestnut-headed Tesia",162,185,1
 "Chestnut-crowned Bush-warbler",162,192,1
 "Chestnut-capped Flycatcher",162,227,2
 "Chestnut-collared Swallow",178,69,2
+"Cheramoeca",178,91,1
+"chalybea",178,103,1
 "Chilean Swallow",178,144,2
+"cheleensis",173,57,2
+"Chersophilus",173,69,2
+"cheniana",173,91,2
+"chuana",161,70,2
+"Chersomanes",161,83,1
 "Chestnut-headed Sparrow-lark",161,101,1
 "Chestnut-backed Sparrow-lark",161,107,1
+"chloris",161,115,1
+"Tits, Chickadees and more",161,118,2
+"Tits and Chickadees",161,120,1
 "Chickadees",169,6,1
+"Black-capped Chickadee",169,9,1
+"Mountain Chickadee",169,10,2
+"Carolina Chickadee",169,12,1
+"Mexican Chickadee",169,13,2
 "Chestnut-backed Chickadee",169,16,1
+"Chestnut-backed Chickadee",169,16,1
+"Boreal Chickadee",169,17,2
 "Chinese Penduline-tit",161,151,2
 "Chats and Old World flycatchers",161,167,2
+"Chelidorhynx",161,172,1
+"Chaetops",120,12,1
+"Chaetops",120,13,2
+"Chasiempis",159,39,2
 "Chestnut-bellied Monarch",159,47,1
 "Chuuk Monarch",159,60,1
+"chrysomela",159,77,2
+"chalybatus",160,73,1
 "Chestnut-bellied Fantail",153,27,1
+"Chaetorhynchus",153,84,1
+"White-winged Chough",153,87,1
 "Chihuahuan Raven",158,11,1
+"chrysops",157,43,1
+"chinensis",157,127,2
+"Red-billed Chough",157,149,1
+"Yellow-billed Chough",157,150,2
 "Chinese Grey Shrike",157,190,1
+"chinensis",155,16,2
+"chlorocephalus",155,22,2
 "Choco Vireo",154,40,2
 "Chestnut-sided Shrike-vireo",152,146,1
 "Chestnut-fronted Shrike-babbler",152,158,1
+"chrysoptera",152,186,1
 "Chabert's Vanga",195,35,2
+"chabert",195,35,2
 "Chats and Old World flycatchers",195,51,2
 "Chestnut-bellied Helmet-shrike",195,61,1
 "Chestnut-fronted Helmet-shrike",195,63,2
 "Chinspot Batis",196,31,2
+"chalybea",196,49,1
 "Chestnut Wattle-eye",196,55,2
 "Chatshrike",196,56,2
 "Chestnut-breasted Quail-thrush",195,152,1
@@ -132,12 +318,33 @@ name,fileindex,index,whichChild
 "Chirruping Wedgebill",195,177,1
 "Chestnut-crowned Babbler",120,56,2
 "Chowchilla",120,64,2
+"chermesina",149,14,2
+"chloroptera",149,27,2
+"chrysoptera",150,49,1
+"chrysogenys",150,60,2
+"chrysops",148,144,1
+"White-fronted Chat",148,163,1
+"Orange Chat",148,164,2
+"Crimson Chat",148,166,1
+"Yellow Chat",148,167,2
 "Chestnut-rumped Heathwren",180,44,1
+"Chthonicola",180,48,1
 "Chestnut-rumped Thornbill",180,60,2
+"chrysorrhoa",180,76,2
 "Chestnut-breasted Whiteface",180,81,1
+"chrysogaster",180,96,1
 "Chatham Gerygone",180,102,2
+"chloronota",180,116,1
+"Chlamydera",120,146,1
+"Chlamydera",120,147,2
+"Chlamydera",120,148,2
+"Chlamydera",120,149,2
+"Chlamydera",120,150,2
+"chrysocephalus",120,155,2
 "Chotoy Spinetail",233,44,2
 "Chestnut-throated Spinetail",233,75,1
+"cherriei",233,75,1
+"cherriei",233,95,2
 "Chestnut-backed Thornbird",230,19,2
 "Chestnut-winged Cinclodes",231,16,2
 "Chaco Earthcreeper",231,73,2
@@ -145,14 +352,23 @@ name,fileindex,index,whichChild
 "Chestnut-winged Hookbill",232,49,2
 "Chestnut-crowned Foliage-gleaner",232,67,1
 "Chestnut-capped Foliage-gleaner",232,84,2
+"Crag Chilia",230,73,2
 "Chestnut-rumped Woodcreeper",230,133,1
+"Chamaeza",229,55,1
+"Chamaeza",229,56,2
+"Chamaeza",229,57,2
+"Chamaeza",229,60,1
+"Chamaeza",229,61,2
+"Chamaeza",229,62,2
 "Chusquea Tapaculo",248,23,1
 "Choco Tapaculo",248,71,2
+"chocoensis",248,71,2
 "Chestnut-throated Huet-huet",248,91,1
 "Chucao Tapaculo",248,95,2
 "Chestnut-crowned Antpitta",248,129,1
 "Chestnut-naped Antpitta",248,131,2
 "Chestnut Antpitta",248,143,1
+"chthonia",248,160,2
 "Chestnut-belted Gnateater",229,70,1
 "Chestnut-crowned Gnateater",229,74,1
 "Chestnut-tailed Antbird",245,60,1
@@ -161,144 +377,567 @@ name,fileindex,index,whichChild
 "Chestnut-backed Antshrike",246,54,1
 "Chapman's Antshrike",246,57,2
 "Cherrie's Antwren",245,191,2
+"cherriei",245,191,2
 "Checker-throated Antwren",245,212,2
 "Chestnut-shouldered Antwren",229,102,1
 "Chocolate-vented Tyrant",238,8,1
 "Chat-Tyrants",241,4,1
+"Golden-browed Chat-tyrant",241,9,1
+"Brown-backed Chat-tyrant",241,10,2
+"Piura Chat-tyrant",241,11,2
+"Rufous-breasted Chat-tyrant",241,12,2
+"Yellow-bellied Chat-tyrant",241,15,1
+"Maroon-belted Chat-Tyrant",241,16,2
+"Jelski's Chat-tyrant",241,17,2
+"Crowned Chat-tyrant",241,22,2
+"Blackish Chat-Tyrant",241,24,1
+"Slaty-backed Chat-tyrant",241,27,1
+"White-browed Chat-tyrant",241,28,2
+"chrysocephalus",236,120,2
+"chiriquensis",244,19,2
 "Chapada Flycatcher",244,53,1
+"chrysops",242,46,2
 "Choco Tyrannulet",242,53,2
+"chrysocrotaphum",235,124,1
 "Chapman's Tyrannulet",237,42,1
+"chapmani",237,42,1
+"chloris",235,172,2
 "Chestnut-crowned Becard",251,34,1
 "Chestnut-capped Piha",250,35,2
 "Chestnut-crested Cotinga",249,56,2
 "Chestnut-bellied Cotinga",249,58,1
+"chlorolepidota",249,87,2
+"chloromeros",249,106,1
+"Chiroxiphia",249,150,1
+"Chiroxiphia",249,151,2
+"Chiroxiphia",249,153,1
+"Chiroxiphia",249,154,2
+"Chiroxiphia",249,155,2
+"chrysopterus",249,166,2
+"chrysolophum",249,183,2
+"chrysocephalum",249,185,2
+"chloris",114,10,2
+"chlorolepidotus",216,15,2
+"Chalcopsitta",216,41,1
+"Chalcopsitta",216,42,2
+"Chalcopsitta",216,43,2
+"Chalcopsitta",216,44,2
 "Chattering Lory",216,57,2
+"chlorocercus",216,61,2
+"Charmosyna",216,72,1
+"Charmosyna",216,73,2
+"Charmosyna",216,74,2
+"Charmosyna",216,76,1
+"Charmosyna",216,77,2
+"Charmosyna",216,80,1
+"Charmosyna",216,81,2
+"Charmosyna",216,82,2
+"Charmosyna",216,86,1
+"Charmosyna",216,87,2
+"Charmosyna",216,89,1
+"Charmosyna",216,90,2
+"Charmosyna",216,92,1
+"Charmosyna",216,93,2
 "Chatham Parakeet",218,15,2
+"chrysopterygius",218,55,2
+"chrysogaster",215,25,1
+"chrysostoma",215,31,2
+"chloropterus",215,40,2
+"chloroptera",217,23,1
+"chloropterus",217,53,1
 "Chestnut-fronted Macaw",217,55,2
+"chalcopterus",221,71,1
+"chrysoptera",221,114,1
+"chiriri",221,123,2
+"cherrug",222,16,2
+"chicquera",222,25,1
+"chimachima",222,103,1
 "Chimango Caracara",222,104,2
+"chimango",222,104,2
+"cheriway",222,108,1
+"Chunga",114,28,1
 "Checkered Woodpecker",206,29,2
 "Choco Woodpecker",206,36,2
+"chocoensis",206,36,2
+"chrysogenys",207,9,2
+"chrysauchen",207,39,1
 "Chestnut Woodpecker",208,11,2
 "Chestnut-coloured Woodpecker",208,22,2
+"chrysoides",208,54,1
 "Chilean Flicker",208,56,2
+"chrysochloros",208,78,2
+"chlorolophus",206,164,2
 "Checker-throated Woodpecker",206,168,1
+"Chrysocolaptes",206,198,1
+"Chrysocolaptes",206,199,2
 "Chestnut Piculet",211,52,2
 "Chestnut-tipped Toucanet",204,32,2
 "Chestnut-eared Aracari",204,46,1
 "Chestnut-mandibled Toucan",204,63,1
 "Channel-billed Toucan",204,68,1
 "Choco Toucan",204,69,2
+"chaplini",205,15,2
+"chrysoconus",205,43,1
 "Chinese Barbet",204,145,2
+"chrysopogon",204,158,1
 "Chestnut-headed Nunlet",209,25,1
+"chacuru",201,51,1
 "Chestnut-capped Puffbird",201,58,1
+"Chelidoptera",201,59,2
+"chalcothorax",201,83,1
 "Chestnut Jacamar",201,94,2
 "Chattering Kingfisher",202,22,1
+"chloris",202,25,1
 "Chestnut-bellied Kingfisher",202,48,1
 "Chocolate-backed Kingfisher",202,110,2
+"chelicuti",202,113,1
+"Chloroceryle",202,130,1
+"Chloroceryle",202,131,2
+"Chloroceryle",202,132,2
+"Chloroceryle",202,133,2
+"chimaera",201,137,2
 "Chestnut-headed Bee-eater",210,22,1
+"chionurus",252,9,1
 "Chaco Owl",228,28,2
+"chacoensis",228,28,2
+"choliba",227,34,2
 "Chestnut Owlet",226,32,2
 "Chestnut-backed Owlet",226,37,1
 "Christmas Island Hawk-owl",224,132,1
+"Eastern Chanting-goshawk",115,46,1
+"Pale Chanting-goshawk",115,47,2
+"Dark Chanting-goshawk",115,48,2
+"chionogaster",117,71,1
 "Chestnut-flanked Sparrowhawk",117,99,2
 "Chestnut-shouldered Goshawk",117,118,1
 "Chinese Goshawk",117,122,2
 "Chilean Hawk",117,123,2
+"chilensis",117,123,2
+"chrysaetos",116,19,2
 "Changeable Hawk-eagle",116,68,2
+"cheela",115,85,2
+"Chondrohierax",115,146,1
+"Chondrohierax",115,147,2
+"Chelictinia",115,169,1
+"CHARADRIIFORMES",114,46,2
+"Chlidonias",213,38,1
+"Chlidonias",213,39,2
+"Chlidonias",213,40,2
 "Chinese Crested Tern",212,93,2
 "Chilean Skua",212,157,2
+"chilensis",212,157,2
+"chalcopterus",114,83,1
 "Chestnut-backed Buttonquail",114,92,1
 "Chatham Snipe",223,40,2
+"chirurgus",114,133,2
+"Charadriidae",119,3,1
+"chilensis",119,21,1
+"Charadrius",119,59,1
+"Charadrius",119,60,2
+"Charadrius",119,61,2
+"Charadrius",119,63,1
+"Charadrius",119,64,2
+"Charadrius",119,66,1
+"Charadrius",119,67,2
+"Charadrius",119,73,1
+"Charadrius",119,74,2
+"Charadrius",119,75,2
+"Charadrius",119,77,1
+"Charadrius",119,78,2
+"Charadrius",119,79,2
+"Charadrius",119,80,2
+"Charadrius",119,84,1
+"Charadrius",119,85,2
+"Charadrius",119,86,2
+"Charadrius",119,87,2
+"Charadrius",119,91,2
+"Charadrius",119,103,1
+"Charadrius",119,104,2
+"Charadrius",119,105,2
+"Charadrius",119,108,1
+"Charadrius",119,109,2
+"Charadrius",119,111,1
+"Charadrius",119,112,2
+"Charadrius",119,116,2
+"Charadrius",119,117,2
 "Chestnut-banded Plover",119,121,2
+"Charadrius",119,121,2
+"Charadrius",119,122,2
 "Chatham Oystercatcher",119,144,2
+"chathamensis",119,144,2
+"Charadriidae",119,165,2
+"Chionidae",114,167,2
+"Chionis",114,169,1
+"Chionis",114,170,2
 "Chinese Pond-heron",354,18,1
 "Chinese Egret",354,81,2
+"chihi",354,172,2
 "Chatham Islands Shag",364,21,1
+"chalconotus",364,33,2
 "Christmas Island Frigatebird",364,101,1
 "Christmas Island Shearwater",359,23,2
 "Chatham Petrel",358,38,2
+"chrysostoma",357,75,2
+"chlororhynchos",357,77,1
 "Chatham Albatross",357,88,2
+"chrysolophus",357,163,1
+"chrysocome",357,166,1
 "Chinstrap Penguin",357,184,1
 "Chestnut-breasted Cuckoo",355,58,1
+"Chrysococcyx",355,73,1
+"Chrysococcyx",355,74,2
+"Chrysococcyx",355,76,1
+"Chrysococcyx",355,77,2
+"Chrysococcyx",355,78,2
+"Chrysococcyx",355,79,2
+"Chrysococcyx",355,80,2
+"Chrysococcyx",355,81,2
+"Chrysococcyx",355,85,1
+"Chrysococcyx",355,86,2
+"Chrysococcyx",355,88,1
+"Chrysococcyx",355,89,2
+"Chrysococcyx",355,91,1
+"Chrysococcyx",355,92,2
 "Channel-billed Cuckoo",355,94,2
 "Chestnut-bellied Cuckoo",356,15,1
 "Chestnut-bellied Malkoha",356,45,2
 "Chestnut-breasted Malkoha",356,48,1
 "Chestnut-winged Cuckoo",356,64,2
+"chlorophaeus",355,108,2
+"chlororhynchus",355,151,1
+"chalybeus",355,162,2
+"Chlamydotis",363,44,1
 "Chestnut-headed Crake",360,40,1
+"chloropus",360,65,1
 "Chestnut Rail",360,83,2
 "Chestnut Forest-rail",361,47,2
 "Chestnut-headed Flufftail",360,143,1
+"chalcurus",350,64,1
 "Chestnut-bellied Imperial-pigeon",352,42,1
+"chalconota",352,71,2
 "Christmas Island Imperial-pigeon",352,73,2
+"chalcospilos",347,17,1
+"Chalcophaps",347,21,1
+"Chalcophaps",347,22,2
+"chalcoptera",347,68,1
 "Chestnut-quilled Rock-pigeon",347,72,1
+"chinensis",348,93,2
 "Chilean Pigeon",347,175,2
+"chrysia",349,9,2
+"chiriquensis",349,12,1
 "Chestnut-bellied Sandgrouse",346,166,1
 "Chilean Flamingo",353,46,1
+"chilensis",353,46,1
+"chrysura",327,15,1
+"chionogaster",327,20,2
 "Charming Hummingbird",327,32,2
+"Chrysuronia",327,53,2
+"chlorocercus",327,60,1
 "Chestnut-bellied Hummingbird",327,64,1
+"Chalybura",326,33,1
+"Chalybura",326,34,2
+"chionura",326,47,2
+"Chlorostilbon",326,88,1
+"Chlorestes",326,89,2
+"Chlorostilbon",326,90,2
+"Chlorostilbon",326,93,1
+"Chlorostilbon",326,94,2
+"Chlorostilbon",326,95,2
+"Chlorostilbon",326,99,1
+"Chlorostilbon",326,100,2
+"Chlorostilbon",326,101,2
+"Chlorostilbon",326,102,2
+"Chlorostilbon",326,106,1
+"Chlorostilbon",326,107,2
+"Chlorostilbon",326,109,1
+"Chlorostilbon",326,110,2
+"Chlorostilbon",326,111,2
 "Chiribiquete Emerald",326,117,1
+"Chlorostilbon",326,117,1
+"Chlorostilbon",326,118,2
+"Chaetocercus",328,10,1
+"Chaetocercus",328,11,2
+"Chaetocercus",328,12,2
+"Chaetocercus",328,13,2
+"Chaetocercus",328,15,1
+"Chaetocercus",328,16,2
 "Chilean Woodstar",328,32,2
+"Chalcostigma",332,29,1
+"Chalcostigma",332,30,2
+"Chalcostigma",332,32,2
+"Chalcostigma",332,35,1
+"Chalcostigma",332,37,2
+"chimborazo",332,45,2
+"chalybeus",332,95,2
 "Chestnut-breasted Coronet",332,148,2
+"Chrysolampis",330,22,2
 "Chimney Swift",329,145,1
+"Chaetura",329,145,1
+"Chaetura",329,146,2
+"Chaetura",329,147,2
+"Chaetura",329,148,2
+"Chaetura",329,151,1
 "Chapman's Swift",329,152,2
+"chapmani",329,152,2
+"Chaetura",329,152,2
+"Chaetura",329,153,2
+"Chaetura",329,154,2
+"Chaetura",329,157,1
+"Chaetura",329,158,2
+"Chaetura",329,159,2
+"cherriei",324,33,1
 "Chestnut-collared Swift",324,43,1
 "Chuck-will's-widow",324,111,1
 "Choco Poorwill",324,128,2
+"Chordeiles",331,63,1
+"Chordeiles",331,64,2
+"Chordeiles",331,65,2
+"Chordeiles",331,66,2
+"Chordeiles",331,67,2
 "Cheer Pheasant",312,32,2
+"Chrysolophus",312,41,1
+"Chrysolophus",312,42,2
 "Chinese Grouse",312,100,1
 "Chinese Monal",312,112,2
 "Chestnut-throated Partridge",312,114,1
 "Chinese Bamboo-partridge",312,153,1
 "Chinese Francolin",312,164,2
+"chalcurum",312,181,1
 "Chestnut-naped Francolin",317,39,1
 "Chukar",317,59,2
+"chukar",317,59,2
+"chinensis",317,97,2
 "Chestnut-headed Partridge",314,11,1
+"chloropus",314,17,1
 "Chestnut-necklaced Partridge",314,28,1
+"charltonii",314,28,1
 "Chestnut-bellied Partridge",314,29,2
 "Chestnut-breasted Partridge",314,35,1
 "Chestnut Wood-quail",315,9,2
 "Chachalacas",310,64,2
 "Chestnut-winged Chachalaca",310,71,1
+"Chestnut-winged Chachalaca",310,71,1
+"Rufous-vented Chachalaca",310,72,2
+"Rufous-headed Chachalaca",310,73,2
+"Grey-headed Chachalaca",310,76,1
+"Speckled Chachalaca",310,77,2
 "Chaco Chachalaca",310,78,2
+"Chaco Chachalaca",310,78,2
+"West Mexican Chachalaca",310,79,2
+"White-bellied Chachalaca",310,82,1
+"Plain Chachalaca",310,83,2
+"Buff-browed Chachalaca",310,84,2
+"Little Chachalaca",310,85,2
+"Rufous-bellied Chachalaca",310,86,2
 "Chestnut-bellied Guan",311,7,1
+"Chamaepetes",311,42,1
+"Chamaepetes",311,43,2
+"Chloephaga",313,59,1
+"Chloephaga",313,61,2
+"Chloephaga",313,64,1
+"Chloephaga",313,65,2
+"Chloephaga",313,66,2
+"Chenonetta",313,112,1
+"chlorotis",313,131,2
 "Chestnut Teal",313,135,1
 "Chiloe Wigeon",313,174,2
+"CHEN",316,18,2
+"Chen",316,20,1
+"Chen",316,21,2
+"Chen",316,22,2
+"Chauna",310,169,1
+"chavaria",310,170,2
+"Chauna",310,170,2
 "Choco Tinamou",253,20,2
 "Chilean Tinamou",253,71,2
 "Chaco Nothura",253,83,2
+"chacoensis",253,83,2
 "China Alligator",0,75,2
 "Chinese Three-striped Box Turtle",96,7,1
+"Chinemys",96,33,2
+"nigra chatamensis",97,22,2
+"chilensis",97,27,2
+"Chersine",97,75,2
+"Chrysemys",95,52,2
 "Chicken Turtle",94,160,2
+"Chelydra",94,164,2
+"Chelonia",94,176,1
+"chitra",343,34,1
+"Chitra",343,34,1
+"Chitra",343,35,2
+"Chitra",343,36,2
 "Chaco Side-necked Turtle",0,105,1
+"Chelus",0,111,2
+"Chelodina",0,113,1
+"cherriei",307,39,2
+"Chioninia",300,137,1
+"Chioninia",300,138,2
+"Chioninia",300,139,2
+"Chioninia",300,141,1
+"Chioninia",300,142,2
+"chinensis",300,158,1
+"challengeri",300,188,2
+"Chalcides",303,15,1
+"Chalcides",303,16,2
+"Chalcides",303,18,1
+"Chalcides",303,19,2
+"Chalcides",303,20,2
+"Chalcides",303,21,2
+"Chalcides",303,22,2
+"Chalcides",303,26,1
+"Chalcides",303,27,2
+"Chalcides",303,28,2
+"Chalcides",303,29,2
+"Chalcides",303,32,1
+"Chalcides",303,33,2
+"Chalcides",303,34,2
+"Chalcides",303,36,1
+"Chalcides",303,37,2
+"Chalcides",303,41,1
+"Chalcides",303,42,2
+"chalcides",303,43,2
+"Chalcides",303,43,2
+"Chalcides",303,45,1
+"Chalcides",303,46,2
+"Chamaesaura",298,116,1
+"Chamaesaura",298,117,2
+"chlorogaster",299,102,2
+"chochranae",304,29,1
+"chrysolaema",309,54,2
+"Monitor Lizards, Chameleons, Iguanas and more",405,0,2
+"chota",405,39,2
+"Chalarodon",405,76,2
+"chlorocyanus",409,86,1
+"chamaeleonides",409,103,1
+"chloris",405,100,2
+"chrysostictus",408,69,1
+"chamaeleontinus",406,10,1
+"Chlamydosaurus",413,41,2
+"Chelosania",413,91,2
 "Chameleons",405,162,2
+"Chamaeleo",410,10,1
+"Chamaeleo",410,11,2
+"Chamaeleo",410,12,2
+"Chamaeleo",410,13,2
+"Chamaeleo",410,14,2
+"Chamaeleo",410,15,2
+"chamaeleon",410,19,1
+"Chamaeleo",410,19,1
+"Chamaeleo",410,20,2
+"Chamaeleo",410,21,2
+"Chamaeleo",410,23,1
+"Chamaeleo",410,24,2
+"Tiger Chameleon",410,29,1
+"South African Dwarf Chameleons",410,35,2
+"Pygmy Chameleons",410,40,2
+"Leaf Chameleons",405,163,2
 "Chihuahuan Hook-nosed Snake",337,31,2
+"Chionactis",337,36,1
+"Chilomeniscus",337,38,2
+"Chironius",337,46,2
+"chinensis",335,67,2
+"Chrysopelea",335,97,1
+"Chrysopelea",335,98,2
+"Chrysopelea",335,99,2
+"chinensis",335,181,1
+"chabaudi",340,93,2
+"chaseni",339,60,2
+"childreni",334,73,2
+"Charina",334,98,2
 "Chiapan Boa",334,100,1
+"Chondrodactylus",319,33,2
+"Christinus",321,12,1
+"Christinus",321,13,2
 "Christian Scaly-toed Gecko",321,19,2
+"christiani",321,19,2
 "Chameleon Gecko",318,148,2
+"chapmani",266,112,2
+"Western Chestnut Mouse",266,114,1
+"Eastern Chestnut Mouse",266,128,2
+"Chiruromys",270,63,2
+"Chiruromys",270,65,1
+"Chiruromys",270,66,2
+"Chiruromys",270,67,2
+"chudeaui",269,20,2
+"chrysopus",269,55,2
 "Chestnut White-bellied Rat",269,97,2
+"chrysophilus",269,198,2
+"Chiropodomys",267,174,1
+"Chiropodomys",267,178,1
+"Chiropodomys",267,179,2
+"Chiropodomys",267,180,2
+"Chiropodomys",267,181,2
+"Chiropodomys",267,183,1
+"Chiropodomys",267,184,2
 "Chestnut Tree Mouse",267,215,2
 "Champion's Tree Mouse",267,218,2
+"championi",267,218,2
+"chrysocomus",274,62,1
+"South China Field Mouse",273,14,2
 "Chevrier's Field Mouse",273,22,1
+"chevrieri",273,22,1
+"chrysogaster",271,24,2
 "Charming Thicket Rat",263,81,2
 "Chrotomys",264,58,2
+"Lowland Chrotomys",264,61,1
+"Chrotomys",264,61,1
+"Montane Chrotomys",264,62,2
+"Chrotomys",264,62,2
+"Isarog Chrotomys",264,63,2
+"Chrotomys",264,63,2
+"Blazed Luzon Chrotomys",264,64,2
+"Chrotomys",264,64,2
+"Indochinese Chiromyscus",263,112,2
+"chiropus",263,112,2
+"Chiromyscus",263,112,2
 "Cheesman's Gerbil",268,27,1
+"cheesmani",268,27,1
 "Cheng's Jird",265,23,1
+"chengi",265,23,1
+"Lake Chad Gerbil",265,84,2
 "Chaco Grass Mouse",289,19,2
+"chapmani",293,18,1
 "Chinchilla Mice",293,76,1
+"Patagonian Chincilla Mouse",293,78,1
+"chinchilloides",293,78,1
+"Biting Chincilla Mouse",293,79,2
+"Peterson's Chincilla Mouse",293,80,2
 "Chaco Marsh Rat",293,121,2
+"chacarius",293,121,2
 "Chilean Climbing Mouse",287,9,2
 "Chacoan Pygmy Rice Rat",287,22,2
+"chacoensis",287,22,2
+"Chilomys",287,50,2
+"Altiplano Chincilla Mouse",287,56,2
+"Chinchillula",287,56,2
+"Pearson's Chaco Mouse",292,41,1
+"Olrog's Chaco Mouse",292,42,2
 "Chaco Crimson-nosed Rat",292,59,2
+"chacoensis",292,59,2
+"Chelemys",292,67,2
+"Chelemys",292,69,1
+"Chelemys",292,70,2
+"Chelemys",292,71,2
 "Charming Climbing Mouse",294,14,1
 "Chibchan Water Mouse",287,103,2
+"Chibchanomys",287,103,2
 "Chiapan Climbing Rat",287,141,1
 "Chihuahuan Deer Mouse",291,28,2
 "Chiapan Deer Mouse",291,83,1
 "Chinanteco Deer Mouse",291,122,2
+"chinanteco",291,122,2
 "Chiriqui Harvest Mouse",287,181,2
+"chrysopsis",287,196,1
 "Chiriqui Brown Mouse",287,205,1
+"chrysomelas",288,26,2
 "Chihuahua Vole",282,99,1
+"chrotorrhinus",282,113,2
+"Chionomys",281,24,2
+"Chionomys",281,26,1
+"Chionomys",281,27,2
+"Chionomys",281,28,2
+"chinensis",284,16,1
+"Southwest China Red-backed Vole",284,22,2
 "Chinese Zokor",281,54,1
 "Chinese Bamboo Rat",281,168,2
 "Chestnut Climbing Mouse",281,185,1
@@ -306,86 +945,479 @@ name,fileindex,index,whichChild
 "Chinese Jumping Mouse",280,40,2
 "Chiriqui Pocket Gopher",255,63,2
 "Cherrie's Pocket Gopher",255,65,1
+"cherriei",255,65,1
 "Chaetodipus",255,100,1
+"Chaetodipus",255,109,1
+"Chaetodipus",255,110,2
+"Chaetodipus",255,111,2
 "Chihuahuan Desert Pocket Mouse",255,113,1
+"Chaetodipus",255,113,1
+"Chaetodipus",255,114,2
+"Chaetodipus",255,116,1
+"Chaetodipus",255,117,2
+"Chaetodipus",255,118,2
+"Chaetodipus",255,121,1
+"Chaetodipus",255,122,2
+"Chaetodipus",255,123,2
+"Chaetodipus",255,125,1
+"Chaetodipus",255,126,2
+"Chaetodipus",255,129,1
+"Chaetodipus",255,130,2
+"Chaetodipus",255,131,2
+"Chaetodipus",255,132,2
 "Chisel-toothed Kangaroo Rat",255,162,2
+"Degus, Porcupines, Chinchillas and more",254,30,2
+"chrysurus",258,19,2
+"Chaetomys",258,68,2
+"chrysaeolus",258,79,1
 "Chinchillas, Viscachas and more",256,59,2
 "Chinchillidae",256,60,1
 "Chinchillas",256,67,2
+"Chinchilla",256,67,2
+"Short-tailed Chinchilla",256,68,1
+"chinchilla",256,68,1
+"Chinchilla",256,68,1
 "Chinchilla",256,69,2
+"Chinchilla",256,69,2
+"Bolivian Chinchilla Rat",256,71,2
 "Chinchilla Rats",256,73,1
+"Sierra Del Tontal Chinchilla Rat",256,77,1
+"Ashy Chinchilla Rat",256,78,2
+"Famatina Chinchilla Rat",256,80,1
+"Mendozan Chinchilla Rat",256,81,2
+"Budin's Chinchilla Rat",256,82,2
+"Bennett's Chinchilla Rat",256,83,2
 "Chacoan Mara",256,151,2
 "Chacoan Tuco-tuco",257,18,1
 "Chilean Rock Rat",254,36,1
+"Squirrels, Chipmunks and more",254,62,1
 "Chinese Giant Flying Squirrel",278,73,2
+"Northern Chinese Flying Squirrel",278,88,1
 "Chipmunks",296,60,2
+"Colorado Chipmunk",296,71,1
+"Cliff Chipmunk",296,72,2
+"Gray-collared Chipmunk",296,73,2
+"Hidden Forest Chipmunk",296,75,1
+"Palmer's Chipmunk",296,76,2
+"Hopi Chipmunk",296,77,2
+"Buller's Chipmunk",296,78,2
+"Gray-footed Chipmunk",296,82,1
+"Durango Chipmunk",296,83,2
+"Long-eared Chipmunk",296,84,2
+"Yellow-pine Chipmunk",296,85,2
+"Sonoma Chipmunk",296,89,1
+"Allen's Chipmunk",296,90,2
+"Townsend's Chipmunk",296,91,2
+"Siskiyou Chipmunk",296,92,2
+"California Chipmunk",296,94,1
+"Merriam's Chipmunk",296,95,2
+"Yellow-cheeked Chipmunk",296,100,1
+"Red-tailed Chipmunk",296,101,2
+"Lodgepole Chipmunk",296,102,2
+"Alpine Chipmunk",296,104,1
+"Least Chipmunk",296,105,2
+"Panamint Chipmunk",296,106,2
+"Siberian Chipmunk",296,107,2
+"Eastern Chipmunk",296,108,2
 "Christy's Dormouse",262,14,2
+"christyi",262,14,2
+"Chaetocauda",262,37,1
 "Chinese Hare",277,22,1
 "Chinese Red Pika",261,17,2
 "Chacma Baboon",275,51,2
+"chrysogaster",275,70,1
 "Chlorocebus",275,121,1
+"Chlorocebus",275,126,1
+"Chlorocebus",275,127,2
+"Chlorocebus",275,128,2
+"Chlorocebus",275,129,2
+"Chlorocebus",275,130,2
+"Chlorocebus",275,131,2
+"chrysomelas",276,44,2
 "Chimpanzee",295,32,1
+"chrysoleuca",285,32,2
+"chrysopygus",285,39,2
+"chrysomelas",285,41,2
 "Chacoan Titi Monkey",285,140,2
 "Chiropotes",285,165,1
+"Chiropotes",285,168,1
+"chiropotes",285,169,2
+"Chiropotes",285,169,2
+"Chiropotes",285,171,1
+"Chiropotes",285,172,2
+"Chiropotes",285,173,2
+"chamek",286,22,1
 "Cheirogaleoidea",260,77,2
 "Cheirogaleus",260,90,2
+"Cheirogaleus",260,94,1
+"Cheirogaleus",260,95,2
+"Cheirogaleus",260,96,2
+"Cheirogaleus",260,97,2
+"Cheirogaleus",260,98,2
+"chrysogaster",254,155,1
+"CHIROPTERA",365,2,1
 "Chalinolobus",389,88,1
+"Chalinolobus",389,92,1
+"Chalinolobus",389,93,2
+"Chalinolobus",389,94,2
 "Chocolate Wattled Bat",389,97,1
+"Chalinolobus",389,97,1
+"Chalinolobus",389,98,2
+"Chalinolobus",389,99,2
+"Chalinolobus",389,100,2
 "Chocolate Pipistrelle",389,104,1
 "Chinese Noctule",389,182,1
 "Chilean Myotis",404,84,2
+"chiloensis",404,84,2
 "Chinese Water Myotis",403,20,2
+"chinensis",403,54,2
 "Chiriquinan Serotine",403,144,2
+"chiriquinus",403,144,2
 "Chaerephon",396,58,1
+"Chaerephon",396,66,1
+"Chaerephon",396,67,2
+"Chaerephon",396,68,2
+"Chaerephon",396,69,2
+"Chaerephon",396,70,2
+"Chaerephon",396,71,2
+"Chaerephon",396,75,1
+"Chaerephon",396,76,2
+"Chaerephon",396,77,2
+"Chaerephon",396,78,2
+"Chaerephon",396,82,1
+"chapini",396,83,2
+"Chaerephon",396,83,2
+"Chaerephon",396,84,2
+"Chaerephon",396,85,2
+"Chaerephon",396,88,1
+"Chaerephon",396,89,2
+"Chaerephon",396,90,2
 "Cheiromeles",396,168,2
+"Cheiromeles",396,169,1
+"Cheiromeles",396,170,2
 "Choco Broad-nosed Bat",394,17,2
+"chocoensis",394,17,2
+"Chiroderma",394,42,2
+"Chiroderma",394,45,1
+"Chiroderma",394,46,2
+"Chiroderma",394,48,1
+"Chiroderma",394,49,2
+"Chiroderma",394,50,2
 "Chestnut Short-tailed Bat",393,91,1
 "Choeroniscus",395,4,1
+"Choeroniscus",395,6,1
+"Choeroniscus",395,7,2
+"Choeroniscus",395,8,2
+"Choeronycteris",395,10,1
 "Chestnut Long-tongued Bat",393,115,2
+"Chrotopterus",393,165,1
 "Chilonatalus",365,58,2
+"Chilonatalus",365,59,1
+"Chilonatalus",365,60,2
 "Chinese Horseshoe Bat",379,17,1
 "Chestnut Sac-winged Bat",400,22,2
 "Chuuk Flying Fox",366,51,1
+"chrysoproctus",366,111,1
+"Chironax",387,36,2
+"Pyrenean Chamois",372,47,1
+"Northern Chamois",372,48,2
 "Chinese Serow",372,57,1
 "Chinese Goral",372,69,2
 "Chiru",372,73,2
 "Chinkara",372,123,2
 "Chital",374,26,2
 "Chunyi",375,15,2
+"chunyi",375,15,2
 "Chinese Water Deer",375,39,2
+"chrysogaster",371,90,2
+"Lesser Oriental Chevrotain",371,107,1
+"Javan Chevrotain",371,108,2
+"Williamson's Chevrotain",371,109,2
+"Silver-backed Chevrotain",371,112,1
+"Greater Oriental Chevrotain",371,113,2
+"Water Chevrotain",371,115,2
+"White-spotted Chevrotain",371,116,2
+"chinensis",373,23,1
 "Chilean Dolphin",373,47,2
 "Changjiang Dolphin",373,88,2
 "Chacoan Peccary",401,39,2
+"chinga",386,45,2
 "Chiriqui Olingo",381,30,2
+"Chrysocyon",381,150,2
+"chama",381,180,2
+"Chrotogale",385,66,1
 "Chilean Cat",382,44,1
+"chaus",382,62,1
 "Cheetah",382,79,2
 "Chinese Pangolin",365,153,2
 "Chinese White-toothed Shrew",368,10,1
 "Christmas Island Shrew",367,59,1
+"Chodsigoa",397,135,2
+"Chodsigoa",397,142,2
+"Chodsigoa",397,146,1
+"Chodsigoa",397,147,2
+"Chodsigoa",397,148,2
+"Chodsigoa",397,150,1
+"Chodsigoa",397,151,2
+"Chimarrogale",397,152,2
+"Chimarrogale",397,157,1
+"Chimarrogale",397,158,2
+"Chimarrogale",397,159,2
+"Chimarrogale",397,160,2
 "Chinese Water Shrew",397,161,2
+"Chimarrogale",397,161,2
+"Chimarrogale",397,162,2
+"Greater Chinese Mole",380,18,1
 "Chinese Shrew Mole",365,173,2
 "Chacoan Naked-tailed Armadillo",333,11,1
+"chacoensis",333,11,1
+"Chaetophractus",333,18,1
+"Chaetophractus",333,20,1
+"Chaetophractus",333,21,2
+"Chaetophractus",333,22,2
+"Chlamyphorus",333,39,2
+"Choloepus",333,48,1
+"Choloepus",333,49,2
+"CHRYSOCHLORIDEA",323,53,2
 "Chrysochloris",323,68,2
+"Chrysochloris",323,70,1
+"Chrysochloris",323,71,2
+"Chrysochloris",323,72,2
+"Chlorotalpa",323,81,2
+"Chlorotalpa",323,82,2
 "Chrysospalax",323,83,2
+"Chrysospalax",323,84,1
+"Chrysospalax",323,85,2
+"chrysopygus",323,112,1
 "Checkered Sengi",323,114,2
 "Chestnut Dunnart",111,88,2
 "Chilean Caenolestid",109,65,2
+"Chironectes",109,156,2
 "Chestnut-striped Opossum",109,172,2
+"Chaunus",60,9,1
+"Chaunus",60,10,2
+"Chaunus",60,12,1
+"Chaunus",60,13,2
+"Chaunus",60,15,1
+"Chaunus",60,16,2
+"Chaunus",60,20,1
+"Chaunus",60,21,2
+"Chaunus",60,22,2
+"Chaunus",60,23,2
+"Chaunus",60,24,2
+"Chaunus",60,26,1
+"Chaunus",60,27,2
+"Chaunus",60,32,1
+"Chaunus",60,33,2
+"Chaunus",60,34,2
+"Chaunus",60,35,2
+"Chaunus",60,37,1
+"Chaunus",60,38,2
+"Chaunus",60,43,1
+"Chaunus",60,44,2
+"Chaunus",60,45,2
+"Chaunus",60,46,2
+"Chaunus",60,47,2
+"Chaunus",60,51,1
+"Chaunus",60,52,2
+"Chaunus",60,53,2
+"Chaunus",60,54,2
+"Chaunus",56,15,1
+"Chaunus",56,16,2
+"Chaunus",56,17,2
+"Chaunus",56,18,2
+"Chaunus",56,20,1
+"chavin",56,21,2
+"Chaunus",56,21,2
+"Chaunus",56,25,1
+"Chaunus",56,26,2
+"Chaunus",56,28,1
+"Chaunus",56,29,2
+"Chaunus",56,30,2
+"Chaunus",56,32,1
+"Chaunus",56,33,2
+"chudeaui",57,42,2
 "Chirinda Toad",57,88,1
+"chirioi",56,190,1
+"chrysocorallus",63,56,1
+"chocoensis",63,94,2
+"chiriquiensis",63,96,2
+"chrysophorus",63,133,2
+"Chaunus",63,133,2
+"chocoensis",43,131,1
+"chlorocraspedus",43,161,1
+"chalcopis",68,79,1
+"charadranaetes",65,13,2
 "Chacoan Horned Frog",52,17,2
+"Chacophrys",52,18,2
+"chaquensis",39,85,1
+"chami",49,30,2
+"chancas",49,41,2
+"chirripoi",49,209,2
+"charadricola",40,19,1
+"chryses",40,39,2
+"chrysopleura",40,79,1
+"chimalapa",40,94,1
 "Chorus Frogs",40,107,1
+"Mountain Chorus Frog",40,113,1
+"Brimley's Chorus Frog",40,114,2
+"Upland Chorus Frog",40,115,2
+"Southern Chorus Frog",40,117,1
+"Spotted Chorus Frog",40,118,2
+"Western Chorus Frog",40,119,2
+"Strecker's Chorus Frog",40,122,1
+"Ornate Chorus Frog",40,123,2
+"Pacific Chorus Frog",40,129,2
+"chrysoscelis",40,162,1
+"chinensis",41,26,2
+"Charadrahyla",40,208,1
+"chaneque",40,209,2
+"Charadrahyla",40,209,2
+"Charadrahyla",40,210,2
+"Charadrahyla",40,212,1
+"Charadrahyla",40,213,2
+"chamulae",67,37,1
+"charazani",46,155,1
+"chlorosteus",46,157,2
+"chiquitanus",70,39,1
+"chloronota",53,91,1
+"cheesmanae",54,14,2
+"chloris",53,142,1
+"christiani",93,44,2
+"chrysosticta",93,89,2
+"chloronotus",82,30,1
+"charlottevillensis",81,220,1
+"chrysops",86,51,2
+"chiastonotus",76,35,1
+"chalceus",74,14,2
+"chlorophenax",72,18,1
+"choristolemma",72,39,1
+"charadra",85,70,2
+"chac",72,122,2
+"cheiroplethus",78,6,1
+"chrysozetetes",78,7,2
+"charius",9,21,1
+"chalazodes",9,46,2
+"chlorosomma",7,153,2
 "Chapa Bug-eyed Frog",7,174,1
+"chenfui",21,40,2
+"Chiromantis",21,172,1
+"Chiromantis",21,173,2
+"Chiromantis",21,174,2
+"Chiromantis",21,176,1
+"Chiromantis",21,177,2
+"Chiromantis",21,180,1
+"Chiromantis",21,181,2
+"cherrapunjiae",21,182,2
+"Chiromantis",21,182,2
+"Chiromantis",21,184,1
+"Chiromantis",21,185,2
+"Chiromantis",21,190,1
+"Chiromantis",21,191,2
+"Chiromantis",21,192,2
+"Chiromantis",21,193,2
+"Chiromantis",21,194,2
+"charlotteae",3,93,1
 "Chiricahua Leopard Frog",12,46,2
+"chiricahuensis",12,46,2
+"chichicuahutla",12,58,1
+"chaochiaoensis",13,16,2
+"chensinensis",13,30,1
+"chevronta",13,65,2
+"chapaensis",16,33,1
+"chloronota",16,37,2
 "Chapa Frog",12,108,2
+"chapaensis",12,108,2
+"chakrataensis",15,57,1
+"chunganensis",15,58,2
+"chosenicus",18,42,2
+"chitwanensis",14,11,2
+"chalconotus",17,15,2
+"chinensis",11,10,2
+"Chrysopaa",22,51,2
+"charlesdarwini",5,37,2
 "Chimanimani Stream Frog",10,17,2
 "Chabanaud's River Frog",4,116,1
+"cheesmanae",92,46,2
+"chrysogaster",90,31,1
+"christyi",90,46,2
+"cheesmanae",25,20,1
+"cheesmanae",33,19,2
+"Choerophryne",33,167,1
+"Choerophryne",33,168,2
+"Choerophryne",33,169,2
+"Choerophryne",33,170,2
+"Palmated Chorus Frog",29,16,1
+"Berdmore's Chorus Frog",29,22,2
+"Javan Chorus Frog",29,41,1
+"chakrapanii",29,42,2
+"Chaperina",29,69,2
+"Chiasmocleis",35,11,1
+"Chiasmocleis",35,12,2
+"Chiasmocleis",35,13,2
+"Chiasmocleis",35,14,2
+"Chiasmocleis",35,17,1
+"Chiasmocleis",35,18,2
+"Chiasmocleis",35,19,2
+"Chiasmocleis",35,21,1
+"Chiasmocleis",35,22,2
+"Chiasmocleis",35,25,1
+"Chiasmocleis",35,26,2
+"Chiasmocleis",35,27,2
+"Chiasmocleis",35,33,1
+"Chiasmocleis",35,34,2
+"Chiasmocleis",35,35,2
+"Chiasmocleis",35,36,2
+"Chiasmocleis",35,38,1
+"Chiasmocleis",35,39,2
+"Chiasmocleis",35,40,2
+"chrysogaster",30,13,1
+"chlorosteus",30,76,1
+"Chrysobatrachus",27,48,2
+"christyi",36,67,2
+"chintingensis",1,88,1
+"chuanbeiensis",1,113,1
+"chuannanensis",1,155,2
 "Chapa Spadefoot Toad",37,75,2
+"chapaense",37,75,2
+"chica",101,12,2
+"Chiropterotriton",106,76,1
+"Chiropterotriton",106,77,2
+"Chiropterotriton",106,78,2
+"Chiropterotriton",106,81,1
+"Chiropterotriton",106,82,2
+"Chiropterotriton",106,83,2
+"Chiropterotriton",106,87,1
+"Chiropterotriton",106,88,2
+"Chiropterotriton",106,89,2
+"Chiropterotriton",106,90,2
+"chondrostega",106,92,1
+"Chiropterotriton",106,92,1
+"chiropterus",106,93,2
+"Chiropterotriton",106,93,2
 "Chisholm Trail Salamander",104,23,2
+"chisholmensis",104,23,2
 "Chamberlain's Dwarf Salamander",104,28,1
+"chamberlaini",104,28,1
 "Channel Islands Slender Salamander",98,40,2
 "Cheat Mountain Salamander",98,81,2
 "Cheoah Bald Salamander",107,32,2
+"cheoah",107,32,2
 "Chinese Warty Newt",103,47,2
+"chinensis",103,47,2
 "Chuxiong Fire-bellied Newt",103,67,2
+"chenggongensis",103,70,2
 "Chinhai Spiny Newt",98,144,2
+"chinhaiensis",98,144,2
+"Chioglossa",98,167,2
+"chinensis",344,50,1
 "Chinese Giant Salamander",344,95,2
+"Chthonerpeton",113,74,1
+"Chthonerpeton",113,75,2
+"Chthonerpeton",113,76,2
+"Chthonerpeton",113,79,1
+"Chthonerpeton",113,80,2
+"Chthonerpeton",113,81,2
+"Chthonerpeton",113,83,1
+"Chthonerpeton",113,84,2
+"changamwensis",113,181,1

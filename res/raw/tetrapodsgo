@@ -1,4 +1,5 @@
 name,fileindex,index,whichChild
+"goeringi",126,69,2
 "Golden-collared Honeycreeper",124,32,1
 "Golden-billed Saltator",124,59,1
 "Golden Tanager",128,42,2
@@ -12,11 +13,15 @@ name,fileindex,index,whichChild
 "Golden-chested Tanager",128,206,2
 "Gold-ringed Tanager",128,208,1
 "Gough Bunting",124,89,2
+"goughensis",124,89,2
 "Golden-browed Chlorophonia",124,111,2
 "Golden-bellied Grosbeak",124,207,1
 "Golden-crowned Sparrow",145,86,1
 "Golden-winged Sparrow",142,30,1
 "Godlewski's Bunting",142,105,1
+"godlewskii",142,105,1
+"Somali Golden-breasted Bunting",142,112,1
+"African Golden-breasted Bunting",142,163,1
 "Golden-tufted Grackle",143,39,1
 "Golden-winged Cacique",143,106,1
 "Golden-fronted Redstart",144,25,2
@@ -25,56 +30,90 @@ name,fileindex,index,whichChild
 "Golden-bellied Warbler",144,81,1
 "Golden-cheeked Warbler",144,102,2
 "Golden-winged Warbler",144,219,1
+"Lawrence's Goldfinch",138,33,1
+"Lesser Goldfinch",138,34,2
+"American Goldfinch",138,35,2
+"European Goldfinch",135,61,1
 "Gold-naped Finch",135,130,2
+"gouldi",135,178,2
 "Golden-sided Euphonia",135,180,1
 "Golden-rumped Euphonia",135,204,1
+"godlewskii",123,80,1
 "Golden Pipit",123,120,2
+"Sudan Golden Sparrow",122,36,2
+"Arabian Golden Sparrow",122,39,1
+"gongonensis",122,50,2
 "Gouldian Finch",132,134,2
+"gouldiae",132,134,2
+"African Golden Weaver",141,43,2
+"golandi",140,17,2
+"Taveta Golden Weaver",140,20,1
 "Golden-backed Weaver",140,21,2
 "Golden Palm Weaver",140,27,2
+"Holub's Golden Weaver",140,41,1
+"Asian Golden Weaver",140,62,2
+"Principe Golden Weaver",140,71,2
 "Golden-naped Weaver",140,75,1
 "Gola Malimbe",140,92,2
 "Golden-backed Bishop",140,132,2
 "Golden-winged Sunbird",131,135,2
 "Gould's Sunbird",121,158,2
+"gouldiae",121,158,2
 "Golden-rumped Flowerpecker",139,52,2
 "Golden-fronted Leafbird",121,168,2
 "Gould's Shortwing",183,102,2
+"goodfellowi",183,205,2
 "Golden Bush-robin",181,14,2
 "Golden-breasted Starling",191,21,2
 "Golden-crested Myna",194,66,2
 "Golden Myna",194,69,2
 "Goldcrests and kinglets",181,162,2
 "Goldcrest",181,167,2
+"goodfellowi",181,168,2
 "Golden-crowned Kinglet",181,172,2
 "Golden-winged Laughingthrush",164,77,1
 "Golden Babbler",163,90,2
 "Golden-yellow White-eye",166,76,2
 "Golden-bellied White-eye",166,97,1
+"goodfellowi",166,187,2
 "Golden White-eye",166,194,2
 "Golden-crowned Babbler",163,135,1
 "Golden Parrotbill",179,24,2
 "Golden-breasted Fulvetta",179,64,2
 "Gold-fronted Fulvetta",179,123,1
 "Gosling's Apalis",171,33,1
+"goslingi",171,33,1
 "Golden-headed Cisticola",170,158,2
+"goiavier",174,20,2
 "Golden Bulbul",174,94,2
 "Golden Greenbul",174,198,2
+"goodsoni",162,30,2
 "Golden Swallow",178,149,2
+"goodenovii",151,19,2
 "Golden-bellied Flyrobin",151,35,1
+"godeffroyi",159,61,2
 "Golden Monarch",159,77,2
 "Goldie's Bird-of-paradise",160,16,1
 "Gold-billed Magpie",157,118,1
+"Eurasian Golden Oriole",155,15,1
+"African Golden Oriole",155,17,2
 "Golden Vireo",154,46,2
 "Golden-fronted Greenlet",152,137,1
 "Golden-backed Whistler",156,35,2
 "Golden Whistler",156,44,2
 "Goldenface",152,184,2
+"Boubous, Bushshrikes and Gonoleks",198,3,1
+"Black-headed Gonolek",198,11,1
+"Common Gonolek",198,12,2
+"Papyrus Gonolek",198,13,2
+"Crimson-breasted Gonolek",198,34,1
 "Golden Cuckooshrike",195,108,2
 "Golden-bellied Gerygone",180,92,1
+"goyderi",120,126,2
 "Golden-fronted Bowerbird",120,171,2
 "Golden Bowerbird",120,173,2
 "Goeldi's Antbird",247,10,2
+"goeldii",247,10,2
 "Golden-browed Chat-tyrant",241,9,1
 "Golden-bellied Flycatcher",236,117,2
 "Golden-crowned Flycatcher",236,120,2
@@ -87,6 +126,7 @@ name,fileindex,index,whichChild
 "Golden-crowned Manakin",249,142,2
 "Golden-winged Manakin",249,166,2
 "Goldie's Lorikeet",216,48,1
+"goldiei",216,48,1
 "Golden-shouldered Parrot",218,55,2
 "Golden-mantled Racquet-tail",220,58,2
 "Golden-capped Parakeet",217,19,2
@@ -94,8 +134,10 @@ name,fileindex,index,whichChild
 "Golden-plumed Parakeet",217,75,2
 "Golden-winged Parakeet",221,114,1
 "Golden-tailed Parrotlet",215,97,2
+"goffiniana",215,140,2
 "Golden-collared Woodpecker",206,32,2
 "Golden-crowned Woodpecker",206,98,1
+"goertae",206,103,2
 "Golden-cheeked Woodpecker",207,9,2
 "Golden-fronted Woodpecker",207,31,2
 "Golden-naped Woodpecker",207,39,1
@@ -104,61 +146,238 @@ name,fileindex,index,whichChild
 "Golden-tailed Woodpecker",208,112,1
 "Golden-spangled Piculet",211,13,1
 "Gould's Toucanet",204,14,2
+"gouldii",204,14,2
 "Golden-collared Toucanet",204,16,2
 "Golden-throated Barbet",204,150,1
 "Golden-naped Barbet",204,155,1
 "Gold-whiskered Barbet",204,158,1
+"goeringi",201,103,2
+"godeffroyi",202,38,1
 "Golden-headed Quetzal",252,78,1
+"Sulawesi Golden Owl",224,182,1
+"Gabar Goshawk",115,49,2
+"Pied Goshawk",117,42,2
+"Grey-headed Goshawk",117,43,2
+"Moluccan Goshawk",117,46,1
+"New Britain Goshawk",117,47,2
+"Northern Goshawk",117,48,2
+"Meyer's Goshawk",117,50,1
+"Black-mantled Goshawk",117,54,2
+"White-bellied Goshawk",117,57,1
+"African Goshawk",117,60,2
+"Grey Goshawk",117,67,2
+"Sulawesi Goshawk",117,68,2
+"Brown Goshawk",117,72,2
+"Crested Goshawk",117,93,2
+"Black Goshawk",117,102,2
+"Spot-tailed Goshawk",117,110,2
+"Fiji Goshawk",117,114,2
+"Red-chested Goshawk",117,115,2
+"Chestnut-shouldered Goshawk",117,118,1
+"Red Goshawk",117,119,2
+"Doria's Goshawk",117,121,1
+"Chinese Goshawk",117,122,2
+"Henst's Goshawk",117,129,2
 "Golden Eagle",116,19,2
 "Godwits",223,152,1
+"Hudsonian Godwit",223,155,1
+"Marbled Godwit",223,156,2
+"Black-tailed Godwit",223,157,2
+"Bar-tailed Godwit",223,158,2
+"Eurasian Golden Plover",119,168,1
+"Pacific Golden Plover",119,169,2
+"American Golden Plover",119,170,2
+"Gorsachius",354,28,1
+"goisagi",354,29,2
+"Gorsachius",354,29,2
+"Gorsachius",354,30,2
+"Gorsachius",354,31,2
 "Goliath Heron",354,55,2
+"goliath",354,55,2
 "Gould's Petrel",358,37,2
 "Go-away-birds",346,90,1
+"Bare-faced Go-away-bird",346,92,1
+"Grey Go-away-bird",346,93,2
+"White-bellied Go-away-bird",346,94,2
 "Gould's Bronze-cuckoo",355,79,2
 "Goliath Coucal",355,124,2
+"goliath",355,124,2
 "Gough Moorhen",360,66,2
 "Golden Dove",350,55,2
+"goliath",352,58,1
+"Goura",347,35,1
+"Goura",347,36,2
+"Goura",347,37,2
+"goodsoni",347,176,2
+"goldmani",349,17,2
 "Golden-spotted Ground-dove",347,203,2
+"godefrida",347,208,2
+"Blue-throated Goldentail",327,38,2
+"Goldmania",327,40,2
+"goudoti",327,49,2
 "Golden-tailed Sapphire",327,53,2
+"Goethalsia",326,18,2
 "Golden-crowned Emerald",326,88,1
 "Gorgeted Woodstar",328,12,2
 "Gorgeted Sunangel",332,80,2
+"gouldii",332,105,2
 "Gould's Jewelfront",332,132,2
 "Golden-breasted Puffleg",332,164,1
 "Gorgeted Puffleg",332,165,2
+"godini",332,177,2
 "Golden-bellied Starfrontlet",332,193,1
 "Goldenthroats",330,25,1
+"White-tailed Goldenthroat",330,27,1
+"Tepui Goldenthroat",330,28,2
+"Green-tailed Goldenthroat",330,29,2
+"gounellei",325,58,2
 "Gould's Frogmouth",324,75,2
 "Golden Nightjar",331,33,2
 "Golden Pheasant",312,42,2
 "Gorgeted Wood-quail",315,29,1
+"goudotii",311,42,1
+"Waterfowl, Screamers and Magpie Goose",310,129,2
 "Goldeneyes",313,21,2
+"Barrow's Goldeneye",313,23,1
+"Common Goldeneye",313,24,2
+"Egyptian Goose",313,55,2
+"Orinoco Goose and Sheldgeese",313,56,2
+"Andean Goose",313,59,1
+"Orinoco Goose",313,60,2
+"Ruddy-headed Goose",313,61,2
+"Ashy-headed Goose",313,64,1
+"Kelp Goose",313,65,2
+"Upland Goose",313,66,2
+"Blue-winged Goose",313,107,1
+"Spur-winged Goose",313,226,2
+"Swan Goose",316,10,1
+"Greylag Goose",316,11,2
+"Lesser White-fronted Goose",316,12,2
+"Pink-footed Goose",316,13,2
+"Bar-headed Goose",316,14,2
+"Greater White-fronted Goose",316,16,1
+"Bean Goose",316,17,2
+"Snow Goose",316,20,1
+"Ross's Goose",316,21,2
+"Emperor Goose",316,22,2
+"Cackling Goose",316,27,1
+"Barnacle Goose",316,28,2
+"Hawaiian Goose",316,30,1
+"Canada Goose",316,31,2
+"Red-breasted Goose",316,32,2
+"Brent Goose",316,33,2
+"Cape Barren Goose",316,46,1
+"Magpie Goose",310,166,2
 "Gopher Tortoises",94,127,1
+"Gopherus",94,129,1
 "Gopher Tortoise",94,130,2
+"Gopherus",94,130,2
+"Gopherus",94,132,1
+"Gopherus",94,133,2
+"gorzugi",95,51,2
+"gowi",298,55,2
+"Gonocephalus",406,10,1
+"Gonocephalus",406,11,2
+"Gonocephalus",406,12,2
+"Gonocephalus",406,13,2
+"godeffroyi",413,90,2
+"gouldii",407,30,2
+"Gonyosoma",338,55,2
 "Golden Flying Snake",335,98,2
+"Gomesophis",336,47,2
+"Gonionotophis",340,119,2
+"godmani",339,32,1
+"Gonatodes",318,92,1
+"Gonatodes",318,93,2
+"Gonatodes",318,94,2
+"Gonatodes",318,96,1
+"Gonatodes",318,97,2
+"Gonatodes",318,99,1
+"Gonatodes",318,100,2
+"Goniurosaurus",318,118,2
 "Golden-backed Tree Rat",266,76,1
+"gouldii",266,77,2
+"goliath",270,71,2
 "Golden Spiny Mouse",269,38,2
 "Gounda Mouse",269,136,2
+"goundae",269,136,2
+"goslingi",269,217,2
+"Golunda",269,218,2
+"gonzalesi",264,63,2
 "Gorongoza Gerbil",265,63,1
 "Goodwin's Brush-tailed Mouse",263,181,1
 "Golden Oldfield Mouse",289,113,1
 "Gorgas's Rice Rat",293,27,1
+"gorgasi",293,27,1
 "Goldman's Water Mouse",287,92,2
+"gossypinus",291,11,2
 "Golden Mouse",287,210,2
 "Goldman's Woodrat",288,24,2
+"goldmani",288,24,2
+"goldmani",287,213,1
 "Gobi Altai Mountain Vole",284,60,1
 "Golden Hamster",281,126,2
 "Gobi Jerboa",280,92,2
+"Beavers, Pocket Gophers and more",254,26,2
+"Pocket Gophers and more",255,1,1
+"Alcorn's Pocket Gopher",255,30,2
+"Yellow-faced Pocket Gopher",255,34,1
+"goldmani",255,35,2
+"Merriam's Pocket Gopher",255,41,1
+"Smoky Pocket Gopher",255,42,2
+"Buller's Pocket Gopher",255,44,2
+"Underwood's Pocket Gopher",255,53,1
+"Variable Pocket Gopher",255,54,2
+"Thaeler's Pocket Gopher",255,55,2
+"Nicaraguan Pocket Gopher",255,56,2
+"Darien Pocket Gopher",255,57,2
+"Giant Pocket Gopher",255,58,2
+"Hispid Pocket Gopher",255,61,1
+"Big Pocket Gopher",255,62,2
+"Chiriqui Pocket Gopher",255,63,2
+"Cherrie's Pocket Gopher",255,65,1
+"Oaxacan Pocket Gopher",255,66,2
+"Michoacan Pocket Gopher",255,67,2
+"Central Texas Pocket Gopher",255,74,1
+"Plains Pocket Gopher",255,75,2
+"Attwater's Pocket Gopher",255,76,2
+"Knox Jones's Pocket Gopher",255,78,1
+"Baird's Pocket Gopher",255,79,2
+"Desert Pocket Gopher",255,80,2
+"Tropical Pocket Gopher",255,82,1
+"Texas Pocket Gopher",255,83,2
+"Cumberland Island Picket Gopher",255,84,2
+"Townsend's Pocket Gopher",255,89,1
+"Botta's Pocket Gopher",255,90,2
+"Animas Mountains Pocket Gopher",255,91,2
+"Camas Pocket Gopher",255,92,2
+"Mountain Pocket Gopher",255,95,1
+"Western Pocket Gopher",255,96,2
+"Northern Pocket Gopher",255,97,2
+"Lined Pocket Gopher",255,110,2
 "Goldman's Pocket Mouse",255,117,2
+"goldmani",255,117,2
+"Sinaloan Pocket Gopher",255,118,2
 "Golden Atlantic Tree Rat",258,14,1
 "Goeldi's Spiny Rat",258,52,2
+"goeldii",258,52,2
 "Goya Tuco-tuco",256,175,2
+"goodfellowi",256,194,2
+"Cascade Golden-mantled Ground Squirrel",297,72,2
 "Golden Mantled Ground Squirrel",296,12,1
 "Gorontalo Macaque",275,11,2
 "Golden-bellied Mangabey",275,70,1
+"Gee's Golden Langur",276,19,2
 "Golden Snub-nosed Monkey",275,167,2
+"gordonorum",275,185,2
 "Gorilla",295,35,2
+"Eastern Gorilla",295,36,1
+"Gorilla",295,36,1
+"Lowland Gorilla",295,37,2
+"gorilla",295,37,2
+"Gorilla",295,37,2
 "Goeldi's Monkey",285,34,2
+"goeldii",285,34,2
 "Golden Lion Tamarin",285,40,2
 "Golden-headed Lion Tamarin",285,41,2
 "Golden-handed Tamarin",285,63,1
@@ -172,34 +391,100 @@ name,fileindex,index,whichChild
 "Golden-bellied Treeshrew",254,155,1
 "Golden-tipped Bat",389,48,2
 "Gould's Wattled Bat",389,93,2
+"gouldii",389,93,2
 "Gould's Long-eared Bat",392,40,1
+"gouldi",392,40,1
+"goudoti",403,69,1
 "Gobi Big Brown Bat",403,158,1
+"gobiensis",403,158,1
+"Little Goblin Bat",396,183,2
 "Godman's Long-tailed Bat",395,8,2
+"godmani",395,8,2
 "Goldman' Nectar Bat",393,111,2
+"Cozumelan Golden Bat",393,146,1
 "Golden Bat",393,147,2
+"Little Golden-mantled Flying-fox",366,120,1
 "Golden-capped Fruit Bat",366,127,1
+"IBERIAN WILD GOAT",372,15,1
+"Himalayan Goral",372,61,2
+"goral",372,61,2
+"Red Goral",372,63,1
+"Long-tailed Goral",372,68,1
+"Chinese Goral",372,69,2
+"Mountain Goat",372,72,2
 "Goitered Gazelle",372,120,2
 "Goa",371,13,2
 "Gongshan Muntjac",374,38,2
+"gongshanensis",374,38,2
+"gouazoubira",375,14,1
 "Golden Jackal",381,128,2
 "Golden Palm Civet",385,54,1
+"goudotii",385,72,1
+"Asiatic golden cat",382,30,1
+"African golden cat",382,32,2
 "Goliath Shrew",367,169,2
+"goliath",367,169,2
 "Goodwin's Broad-clawed Shrew",397,89,2
+"goodwini",397,89,2
 "Goldman's Broad-clawed Shrew",397,113,2
+"goldmani",397,113,2
 "Golden moles",323,53,2
+"Highveld Golden Mole",323,60,1
+"Hottentot Golden Mole",323,61,2
+"Fynbos Golden Mole",323,62,2
+"Marley's Golden Mole",323,63,2
+"Gunning's Golden Mole",323,65,1
+"Juliana's Golden Mole",323,66,2
+"Yellow Golden Mole",323,67,2
+"Stuhlmann's Golden Mole",323,70,1
+"Visagie's Golden Mole",323,71,2
+"Cape Golden Mole",323,72,2
+"Somali Golden Mole",323,78,1
+"Arend's Golden Mole",323,79,2
+"Congo Golden Mole",323,80,2
+"Duthie's Golden Mole",323,81,2
+"Sclater's Golden Mole",323,82,2
+"Rough-haired Golden Mole",323,84,1
+"Giant Golden Mole",323,85,2
 "Golden-rumped Elephant Shrew",323,112,1
 "Godman's Rock Wallaby",110,18,2
+"godmani",110,18,2
 "Golden-mantled Tree Kangaroo",110,87,1
 "Goodfellow's Tree Kangaroo",110,88,2
+"goodfellowi",110,88,2
+"godmani",111,56,2
 "Golden Bandicoot",109,51,2
 "Golden Arrow Poison Frog",63,42,1
 "Golden Poison Frog",43,217,1
 "Golfodulcean Poison Frog",43,219,2
+"goianus",68,66,2
+"goyana",45,29,2
+"goeldii",65,46,2
+"gorzulai",50,60,2
+"godmani",40,176,2
+"goinorum",48,202,2
+"goianus",47,61,2
+"gouveai",46,84,2
+"Green And Gold Frog",53,52,1
 "Golden Bell Frog",53,53,2
+"goeldii",93,111,2
+"goini",91,34,2
 "Golden Coqui",75,52,2
+"gollmeri",78,47,2
+"gossei",79,27,2
+"goini",87,11,2
+"gouldii",23,84,2
 "Goldfield's Bull Frog",23,132,1
+"gordoni",7,178,2
 "Golden Mantella",3,195,2
+"goudotii",20,50,1
 "Gopher Frog",12,27,2
+"Dusky Gopher Frog",12,82,2
 "Goliath Frog",6,43,1
+"goliath",6,43,1
+"gottlebei",25,34,2
 "Golden Banana Frog",34,50,1
+"gongshanensis",1,70,1
+"goebeli",100,183,1
 "Golden-striped Salamander",98,167,2
+"gorganensis",344,86,2

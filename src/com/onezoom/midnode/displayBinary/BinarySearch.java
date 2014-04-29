@@ -70,14 +70,18 @@ public class BinarySearch {
 	private void process(Record record) {
 		int key = Utility.combine(record.fileIndex, record.index);
 		MidNode searchedNode = null;
+		int previousSize = MidNode.initializer.fulltreeHash.size();
 		if (MidNode.initializer.fulltreeHash.containsKey(key)) {
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		} else {
 			MidNode.initializer.initialiseSearchedFile(record.fileIndex);
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		}
+		if (searchedNode == null) {
+			Log.d("debug", "previous size fulltree hash -> " + previousSize);
+			Log.d("debug", "size fulltree hash -> " + MidNode.initializer.fulltreeHash.size());
+		}
 		reanchorNode(searchedNode, 0);
-//		PositionData.setScreenPosition(360, 500, 1f);
 		client.setPositionToMoveNodeCenter();
 		PositionData.moveNodeToCenter(searchedNode);
 		client.treeView.setDuringInteraction(false);

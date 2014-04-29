@@ -36,6 +36,7 @@ name,fileindex,index,whichChild
 "Blue-necked Tanager",128,69,1
 "Black-capped Tanager",128,97,2
 "Black-headed Tanager",128,99,2
+"St Lucia Black Finch",129,32,2
 "Black-faced Grassquit",129,39,2
 "Blue-capped Tanager",128,116,2
 "Black-chested Mountain-tanager",128,126,2
@@ -71,14 +72,43 @@ name,fileindex,index,whichChild
 "Black-spectacled Brush-finch",142,67,2
 "Black-headed Bunting",142,116,1
 "Black-faced Bunting",142,129,2
+"New World blackbirds",142,165,2
+"Saffron-cowled Blackbird",143,13,2
+"Yellow-hooded Blackbird",143,15,1
+"Chestnut-capped Blackbird",143,16,2
+"Bolivian Blackbird",143,18,1
+"Pale-eyed Blackbird",143,23,1
+"Unicoloured Blackbird",143,24,2
+"Yellow-winged Blackbird",143,25,2
+"Chopi Blackbird",143,26,2
+"Forbes's Blackbird",143,29,1
+"Austral Blackbird",143,30,2
+"Scarlet-headed Blackbird",143,31,2
+"Oriole Blackbird",143,37,2
+"Cuban Blackbird",143,44,1
+"Melodious Blackbird",143,45,2
+"Scrub Blackbird",143,46,2
+"Jamaican Blackbird",143,47,2
+"Red-shouldered Blackbird",143,64,1
+"Tricoloured Blackbird",143,65,2
+"Red-winged Blackbird",143,66,2
+"Yellow-shouldered Blackbird",143,68,1
+"Tawny-shouldered Blackbird",143,69,2
+"Brewer's Blackbird",143,83,1
+"Rusty Blackbird",143,84,2
+"Solitary Black Cacique",143,111,2
 "Black Oropendola",143,119,2
 "Black-cowled Oriole",147,18,1
 "Black-vented Oriole",147,23,2
 "Black-backed Oriole",147,42,1
+"White-browed Blackbird",142,172,1
+"Red-breasted Blackbird",142,179,1
+"Yellow-headed Blackbird",142,182,1
 "Black-cheeked Warbler",144,52,1
 "Black-crested Warbler",144,73,2
 "Black-throated Green Warbler",144,101,1
 "Black-throated Grey Warbler",144,107,1
+"Black-throated Blue Warbler",144,124,1
 "Black-throated Blue Warbler",144,124,1
 "Blackpoll Warbler",144,137,2
 "Blackburnian Warbler",144,138,2
@@ -101,6 +131,7 @@ name,fileindex,index,whichChild
 "Blue-rumped Euphonia",135,196,2
 "Blue Chaffinch",135,210,2
 "Blyth's Pipit",123,80,1
+"blanfordi",122,59,1
 "Black-winged Snowfinch",122,65,2
 "Black-breasted Munia",132,13,1
 "Black Munia",132,14,2
@@ -111,6 +142,9 @@ name,fileindex,index,whichChild
 "Blue-faced Parrotfinch",132,120,2
 "Black-chinned Quail-Finch",132,139,1
 "Black-bellied Seedcracker",133,6,1
+"Grant's Bluebill",133,11,1
+"Western Bluebill",133,12,2
+"Red-headed Bluebill",133,13,2
 "Blue-capped Cordonbleu",133,17,1
 "Blue-breasted Cordonbleu",133,19,2
 "Black-bellied Firefinch",133,38,2
@@ -123,7 +157,9 @@ name,fileindex,index,whichChild
 "Black-lored Waxbill",134,40,1
 "Black-headed Weaver",141,16,2
 "Black-chinned Weaver",141,24,1
+"Vieillot's Black Weaver",141,34,2
 "Black-billed Weaver",141,49,1
+"Maxwell's Black Weaver",140,18,2
 "Black-necked Weaver",140,34,1
 "Black-breasted Weaver",140,79,1
 "Black-throated Malimbe",140,99,2
@@ -144,35 +180,72 @@ name,fileindex,index,whichChild
 "Black Wheatear",184,22,2
 "Blackstart",184,28,2
 "Black-eared Wheatear",184,47,1
+"White-headed Black-chat",184,61,2
+"White-fronted Black-chat",184,78,2
 "Blue Rock-thrush",184,119,2
 "Blue-capped Rock-thrush",184,124,2
 "Black Redstart",183,17,2
 "Blue-capped Redstart",183,28,1
 "Blue-fronted Redstart",183,31,1
+"White-bellied Blue-flycatcher",187,18,2
 "Blue-fronted Flycatcher",187,25,2
+"Palawan Blue-flycatcher",187,28,1
+"Large Blue-flycatcher",187,36,1
 "Blue-breasted Flycatcher",187,42,2
+"Malaysian Blue-flycatcher",187,50,1
+"Rueck's Blue-flycatcher",187,51,2
 "Black-banded Flycatcher",187,59,1
 "Blue Whistling-thrush",183,42,2
+"blighi",183,51,2
 "Blue-fronted Robin",183,54,2
 "Black-backed Forktail",183,65,1
 "Bluethroat",183,78,2
 "Black-throated Blue Robin",183,80,1
+"Black-throated Blue Robin",183,80,1
+"Indian Blue Robin",183,93,1
+"Siberian Blue Robin",183,94,2
+"Mangrove Blue-flycatcher",183,121,2
+"Pale-chinned Blue-flycatcher",183,126,2
+"Hill Blue-flycatcher",183,127,2
 "Blue-throated Flycatcher",183,128,2
+"Large-billed Blue-flycatcher",183,133,2
+"Bornean Blue-flycatcher",183,134,2
+"Pale Blue-flycatcher",183,135,2
+"Tickell's Blue-flycatcher",183,139,1
+"Timor Blue-flycatcher",183,142,2
+"White-bellied Blue Robin",183,156,1
+"Nilgiri Blue Robin",183,157,2
 "Blue-and-white Flycatcher",183,171,2
+"Southern Black Flycatcher",183,182,1
+"Northern Black Flycatcher",183,183,2
+"Yellow-eyed Black Flycatcher",183,185,2
 "Black Shama",186,11,2
+"Hainan Blue-flycatcher",186,19,2
+"Sulawesi Blue-flycatcher",186,29,2
 "Black Scrub-robin",186,38,2
 "Black-and-rufous Flycatcher",183,206,2
 "Blue-shouldered Robin-chat",193,47,2
+"Pygmy Blue-flycatcher",181,22,2
+"White-collared Blackbird",188,23,1
 "Black-breasted Thrush",188,41,1
+"Grey-winged Blackbird",188,47,2
 "Black Thrush",188,56,1
 "Black-hooded Thrush",189,40,2
 "Black-billed Thrush",189,46,1
+"Eurasian Blackbird",188,71,1
 "Black-eared Ground-thrush",188,128,1
 "Black-billed Nightingale-thrush",188,187,2
 "Black-headed Nightingale-thrush",188,192,2
 "Black Solitaire",188,204,2
 "Black-faced Solitaire",181,32,1
+"Mountain Bluebird",181,56,1
+"Western Bluebird",181,57,2
+"Eastern Bluebird",181,58,2
+"Greater Blue-eared Glossy-starling",191,28,2
+"Lesser Blue-eared Glossy-starling",191,32,1
+"Southern Blue-eared Glossy-starling",191,52,2
 "Black-bellied Glossy-starling",191,53,2
+"blythii",191,79,2
 "Black-winged Starling",191,112,2
 "Black-collared Starling",191,135,1
 "Black Catbird",192,62,2
@@ -207,6 +280,7 @@ name,fileindex,index,whichChild
 "Black-chinned Babbler",163,88,1
 "Black-headed White-eye",166,66,2
 "Black-capped White-eye",166,84,2
+"Mountain Blackeye",166,90,2
 "Black-crowned White-eye",166,99,2
 "Black-capped Speirops",166,112,1
 "Black-fronted White-eye",166,176,2
@@ -214,6 +288,7 @@ name,fileindex,index,whichChild
 "Black-throated Babbler",166,202,2
 "Black-crowned Babbler",163,123,2
 "Black-chinned Yuhina",163,153,1
+"Bush Blackcap",163,178,2
 "Black-breasted Parrotbill",179,12,2
 "Black-headed Parrotbill",179,14,2
 "Black-throated Parrotbill",179,17,2
@@ -238,15 +313,25 @@ name,fileindex,index,whichChild
 "Black-headed Rufous Warbler",170,178,1
 "Black-faced Rufous Warbler",170,179,2
 "Black-fronted Bulbul",174,12,1
+"blanfordi",174,27,1
 "Black-crested Bulbul",174,58,1
 "Black-and-white Bulbul",174,66,2
 "Blue-wattled Bulbul",174,69,1
 "Black-headed Bulbul",174,76,2
+"Madagascar Black Bulbul",175,9,1
+"Mauritius Black Bulbul",175,10,2
+"Asian Black Bulbul",175,13,1
+"Bleda",174,190,1
+"Bleda",174,191,2
+"Bleda",174,192,2
+"Bleda",174,193,2
 "Black-collared Bulbul",174,194,2
+"Southern Blyth's Leaf-warbler",162,32,2
 "Black-capped Woodland-warbler",162,128,2
 "Black-faced Warbler",162,178,2
 "Black-browed Tit",162,210,2
 "Black-throated Tit",162,214,1
+"White-throated Blue Swallow",178,20,2
 "Black-and-rufous Swallow",178,32,1
 "Blue Swallow",178,33,2
 "Blue Saw-wing",178,86,2
@@ -257,12 +342,16 @@ name,fileindex,index,whichChild
 "Black-crowned Sparrow-lark",161,102,2
 "Black-eared Sparrow-lark",161,105,2
 "Black-capped Chickadee",169,9,1
+"Carp's Black Tit",169,35,1
 "Black-crested Titmouse",169,49,1
 "Black-bibbed Tit",169,63,1
 "Black Tit",169,68,2
 "Black-lored Tit",169,83,2
 "Blue Tit",161,126,1
+"African Blue Tit",161,128,2
 "Black-headed Penduline-tit",161,152,2
+"White-tailed Blue-flycatcher",161,165,1
+"African Blue-flycatcher",161,166,2
 "Black Robin",151,23,1
 "Blue-grey Robin",151,55,2
 "Black-chinned Robin",151,81,2
@@ -295,6 +384,7 @@ name,fileindex,index,whichChild
 "Black-billed Magpie",157,17,2
 "Black-headed Jay",157,30,1
 "Black-chested Jay",157,47,1
+"San Blas Jay",157,54,2
 "Black-throated Magpie-jay",157,73,2
 "Blue Jay",157,88,2
 "Black-collared Jay",157,95,2
@@ -304,7 +394,9 @@ name,fileindex,index,whichChild
 "Black Drongo",152,67,2
 "Black-winged Oriole",155,9,1
 "Black-tailed Oriole",155,10,2
+"African Black-headed Oriole",155,11,2
 "Black-naped Oriole",155,16,2
+"Western Black-headed Oriole",155,21,1
 "Black-hooded Oriole",155,23,2
 "Black-and-crimson Oriole",155,26,1
 "Black Oriole",155,27,2
@@ -327,11 +419,14 @@ name,fileindex,index,whichChild
 "Black-headed Batis",196,35,2
 "Black-throated Wattle-eye",196,44,1
 "Black-necked Wattle-eye",196,49,1
+"blissetti",196,51,2
 "Black-headed Gonolek",198,11,1
 "Black-fronted Bush-shrike",198,45,1
 "Black-backed Puffback",198,69,2
 "Black-crowned Tchagra",198,76,2
+"blanchoti",198,86,2
 "Black-faced Woodswallow",199,14,1
+"blainvillii",199,24,1
 "Black Butcherbird",199,37,2
 "Black-backed Butcherbird",199,39,2
 "Black Currawong",199,44,2
@@ -357,6 +452,7 @@ name,fileindex,index,whichChild
 "Black-faced Friarbird",148,96,1
 "Black Myzomela",149,11,2
 "Black-headed Myzomela",149,32,1
+"blasii",149,44,2
 "Black-bellied Myzomela",149,48,1
 "Black Honeyeater",148,118,2
 "Black-eared Miner",150,31,1
@@ -378,6 +474,7 @@ name,fileindex,index,whichChild
 "Black-faced Antthrush",229,46,2
 "Blackish Tapaculo",248,16,2
 "Black-throated Huet-huet",248,92,2
+"blakei",248,143,1
 "Black-cheeked Gnateater",229,77,1
 "Black-bellied Gnateater",229,80,1
 "Black-crowned Antpitta",229,84,2
@@ -406,7 +503,14 @@ name,fileindex,index,whichChild
 "Black-and-white Monjita",238,34,1
 "Black-fronted Ground-tyrant",238,50,2
 "Black-Tyrants",235,14,1
+"Amazonian Black-tyrant",235,19,1
+"White-winged Black-tyrant",235,20,2
 "Blue-billed Black-tyrant",235,21,2
+"Blue-billed Black-tyrant",235,21,2
+"Hudson's Black-tyrant",235,23,1
+"Velvety Black-tyrant",235,28,1
+"Crested Black-tyrant",235,29,2
+"Brazilian Black-tyrant",235,30,2
 "Black-capped Flycatcher",243,20,2
 "Blackish Pewee",243,48,1
 "Black Phoebe",243,64,1
@@ -491,6 +595,11 @@ name,fileindex,index,whichChild
 "Blue-fronted Parrotlet",215,93,1
 "Blue-eyed Cockatoo",215,152,2
 "Black-cockatoos",215,158,1
+"Carnaby????????????s Black-Cockatoo",215,161,1
+"Yellow-tailed Black-cockatoo",215,162,2
+"Red-tailed Black-cockatoo",215,163,2
+"Baudin????????????s Black-Cockatoo",215,165,1
+"Glossy Black-cockatoo",215,166,2
 "Black Falcon",222,15,1
 "Black-thighed Falconet",222,85,1
 "Black Caracara",222,105,2
@@ -506,6 +615,8 @@ name,fileindex,index,whichChild
 "Black-rumped Flameback",208,84,1
 "Black-and-buff Woodpecker",208,95,1
 "Black-headed Woodpecker",206,160,1
+"Blythipicus",206,202,1
+"Blythipicus",206,203,2
 "Black-dotted Piculet",211,51,2
 "Black-billed Mountain-toucan",204,23,2
 "Blue-banded Toucanet",204,33,2
@@ -536,6 +647,8 @@ name,fileindex,index,whichChild
 "Black-capped Kingfisher",202,116,2
 "Black-billed Kingfisher",202,119,1
 "Black-backed Kingfisher",202,155,2
+"Shining Blue Kingfisher",202,168,2
+"Small Blue Kingfisher",202,170,1
 "Blue-eared Kingfisher",202,173,1
 "Blyth's Kingfisher",202,174,2
 "Blue-banded Kingfisher",202,175,2
@@ -562,11 +675,16 @@ name,fileindex,index,whichChild
 "Black-tailed Trogon",252,24,1
 "Black-throated Trogon",252,40,2
 "Blakiston's Fish-owl",225,38,1
+"blakistoni",225,38,1
 "Black-banded Owl",228,19,2
 "Black-and-white Owl",228,36,2
 "Black-capped Screech-owl",227,11,1
+"blewitti",224,114,2
 "Black-faced Hawk",118,50,1
 "Black-chested Buzzard-eagle",118,67,1
+"Common Black-hawk",118,82,2
+"Great Black-hawk",118,90,2
+"Cuban Black Hawk",118,93,1
 "Black-collared Hawk",118,102,2
 "Black Kite",115,36,1
 "Black Harrier",117,30,2
@@ -584,6 +702,8 @@ name,fileindex,index,whichChild
 "Black-shouldered Kite",115,163,1
 "Black-winged Kite",115,167,2
 "Black Vulture",115,182,2
+"Lesser Black-backed Gull",214,21,2
+"Great Black-backed Gull",214,27,2
 "Black-tailed Gull",214,40,1
 "Black-billed Gull",212,37,2
 "Black-headed Gull",212,47,2
@@ -611,12 +731,15 @@ name,fileindex,index,whichChild
 "Black Stilt",119,155,2
 "Black-faced Sheathbill",114,169,1
 "Black-crowned Night-heron",354,22,1
+"Great Blue Heron",354,42,2
 "Black-headed Heron",354,44,1
 "Black Heron",354,75,2
+"Little Blue Heron",354,84,1
 "Black Bittern",354,110,2
 "Black-headed Ibis",354,140,1
 "Black-faced Spoonbill",354,146,2
 "Black-faced Ibis",354,184,2
+"Little Black Cormorant",364,13,1
 "Black-faced Cormorant",364,63,2
 "Blue-footed Booby",364,80,1
 "Black Stork",346,17,2
@@ -630,6 +753,7 @@ name,fileindex,index,whichChild
 "Black-bellied Storm-petrel",357,119,2
 "Black Storm-petrel",357,135,2
 "Black-billed Turaco",346,68,2
+"Great Blue Turaco",346,98,2
 "Black Cuckoo",355,29,2
 "Black-eared Cuckoo",355,78,2
 "Black-billed Koel",355,98,1
@@ -637,11 +761,13 @@ name,fileindex,index,whichChild
 "Black-bellied Cuckoo",356,30,2
 "Black-bellied Malkoha",356,44,2
 "Blue-faced Malkoha",356,49,2
+"Lesser Black Coucal",355,121,1
 "Black Coucal",355,130,2
 "Blue-headed Coucal",355,143,2
 "Black-throated Coucal",355,146,1
 "Black-hooded Coucal",355,156,2
 "Black-faced Coucal",355,157,2
+"Greater Black Coucal",355,161,1
 "Blue Coua",355,182,2
 "Blue Bustard",363,11,2
 "Black Bustard",363,14,2
@@ -656,7 +782,11 @@ name,fileindex,index,whichChild
 "Blue Crane",360,172,2
 "Black-necked Crane",360,178,1
 "Black Crowned-crane",360,186,2
+"Fruit doves, Blue pigeons and more",347,7,1
 "Blue pigeons",350,41,1
+"Seychelles Blue-pigeon",350,43,1
+"Comoro Blue-pigeon",350,44,2
+"Madagascar Blue-pigeon",350,45,2
 "Blue-capped Fruit-dove",350,54,1
 "Black-naped Fruit-dove",350,68,1
 "Black-chinned Fruit-dove",350,80,1
@@ -664,6 +794,11 @@ name,fileindex,index,whichChild
 "Blue-headed Wood-dove",347,15,2
 "Blue-spotted Wood-dove",347,18,2
 "Bleeding heart doves, Ground-doves and more",347,43,2
+"Mindoro Bleeding-heart",347,93,1
+"Negros Bleeding-heart",347,100,2
+"Sulu Bleeding-heart",347,101,2
+"Mindanao Bleeding-heart",347,102,2
+"Luzon Bleeding-heart",347,106,1
 "Black-billed Cuckoo-dove",347,131,1
 "Blue-headed Quail-dove",349,36,1
 "Blue-eyed Ground-dove",347,194,2
@@ -707,7 +842,9 @@ name,fileindex,index,whichChild
 "Black Jacobin",324,14,2
 "Black-throated Hermit",325,34,1
 "Black-nest Swiftlet",329,35,1
+"African Black Swift",329,107,2
 "Black Spinetail",329,177,1
+"American Black Swift",324,27,2
 "Blyth's Frogmouth",324,84,1
 "Blackish Nightjar",324,172,2
 "Black-shouldered Nightjar",331,51,2
@@ -715,6 +852,7 @@ name,fileindex,index,whichChild
 "Black-billed Capercaillie",312,84,1
 "Black Grouse",312,88,2
 "Blyth's Tragopan",312,121,2
+"blythii",312,121,2
 "Blood Pheasant",312,125,2
 "Black Francolin",312,159,1
 "Blue Quail",317,97,2
@@ -725,6 +863,7 @@ name,fileindex,index,whichChild
 "Black-throated Bobwhite",315,45,2
 "Black Guineafowl",310,32,2
 "Black Curassow",310,45,2
+"blumenbachii",310,46,2
 "Blue-billed Curassow",310,50,2
 "Blue-throated Piping-guan",311,35,1
 "Black-fronted Piping-guan",311,38,2
@@ -733,6 +872,9 @@ name,fileindex,index,whichChild
 "Black Scoter",313,30,2
 "Blue-winged Goose",313,107,1
 "Blue Duck",313,114,2
+"American Black Duck",313,163,1
+"Pacific Black Duck",313,168,2
+"African Black Duck",313,169,2
 "Blue-winged Teal",313,190,1
 "Black-headed Duck",310,136,1
 "Blue-billed Duck",310,145,2
@@ -743,38 +885,67 @@ name,fileindex,index,whichChild
 "Black-capped Tinamou",253,19,1
 "Black Tinamou",253,50,1
 "Black Caiman",0,69,2
+"Indian Black Turtle",94,48,2
 "Black Pond Turtle",94,75,2
+"Ryukyu Black-breasted Leaf Turtle",94,82,1
 "Black-breasted Hill Turtle",94,83,2
 "Black River Turtle",94,93,1
 "Black-knobbed Map Turtle",95,24,2
 "Blanding's Turtle",94,144,2
+"blandingii",94,144,2
 "Black Soft-shell Turtle",343,11,2
 "Black Spine-necked Swamp Turtle",0,106,2
 "Blue-tongued Skinks",305,156,1
+"Adelaide Pigmy Blue-tongue Skink",305,167,1
+"blanchardi",305,180,2
 "Blue Mountain Water Skink",301,21,1
+"blochmanni",298,73,2
+"blanfordii",299,27,1
 "Blue-throated Keeled Lizard",308,32,2
 "Blanc's Sand Racer",298,196,2
+"blanci",298,196,2
 "Blainville Horned Lizard",414,16,1
 "Blunt-nosed Leopard Lizard",405,128,2
+"blanfordii",406,67,1
+"blanfordii",413,100,1
 "Black Legless Lizard",411,61,1
 "Black-collared Snake",336,16,2
+"blythii",334,40,2
+"Beddome's Black Shieldtail",334,52,2
 "Blind snakes, Thread Snakes and Worm Snakes",334,111,2
+"Seven-striped Blind Snake",334,123,2
+"San Salvador Blind Snake",334,124,2
+"Villiers' Blind Snake",334,125,2
+"Spotted Blind Snake",334,138,1
 "Blind snakes",334,152,2
+"Whitenose Blind Snake",334,153,1
+"Trinidad Blind Snake",334,154,2
+"Blanus",334,177,2
 "Black-tailed Melomys",266,18,2
 "Black-tailed Giant Rat",266,72,2
 "Black-footed Tree Rat",266,77,2
 "Blue-grey Mouse",266,126,2
 "Black-clawed Brush-furred Rat",269,57,2
+"blangorum",267,30,2
 "Black Rat",267,49,1
+"blanfordi",267,207,1
 "Black Sea Field Mouse",273,40,2
 "Blick's Grass Rat",273,58,2
+"blicki",273,58,2
 "Black-tailed Tree Rat",263,67,1
 "Blazed Luzon Chrotomys",264,64,2
 "Black-tufted Gerbil",268,59,2
 "Black-tailed Gerbil",265,58,1
 "Blind Mole Rats, Mouse-like Hamsters and more",263,156,2
 "Blind Mole Rats and more",263,159,1
+"Kazakhstan Blind Mole Rat",263,165,1
+"Giant Blind Mole Rat",263,166,2
+"Balkan Blind Mole Rat",263,169,2
+"Greater Blind Mole Rat",263,170,2
+"Middle East Blind Mole Rat",263,173,1
+"Lesser Blind Mole Rat",263,175,2
 "Blackish Grass Mouse",289,81,2
+"Blarinomys",289,185,2
 "Black-footed Pygmy Rice Rat",287,24,1
 "Black-tailed Deer Mouse",291,40,1
 "Black-eared Mouse",291,44,1
@@ -782,17 +953,23 @@ name,fileindex,index,whichChild
 "Black-wristed Deer Mouse",291,102,1
 "Blyth's Vole",282,58,1
 "Blanfordimys",283,30,1
+"Blanfordimys",283,31,1
+"Blanfordimys",283,32,2
 "Black-eared Red-backed Vole",284,27,2
 "Black-bellied Hamster",281,119,2
 "Blanford's Jerboa",280,69,2
+"blanfordi",280,69,2
+"blainvillii",258,14,1
 "Black-spined Atlantic Tree Rat",258,27,2
 "Black-rumped Agouti",256,105,1
 "Black Agouti",256,106,2
 "Black Flying Squirrel",278,85,1
 "Black Giant Squirrel",278,96,1
+"Borneo Black-banded Squirrel",278,185,2
 "Black-eared Squirrel",278,216,2
 "Black-striped Squirrel",278,219,1
 "Black-capped Marmot",296,22,1
+"Arizona Black-tailed Prairie Dog",296,49,1
 "Black And Red Bush Squirrel",296,126,1
 "Black-tailed Jackrabbit",277,39,1
 "Black Jackrabbit",277,40,2
@@ -803,39 +980,62 @@ name,fileindex,index,whichChild
 "Black-shanked Douc Langur",275,170,1
 "Black Colobus",275,203,2
 "Black Crested Gibbon",295,22,1
+"Wied's Black-tufted-ear Marmoset",285,12,2
 "Black-pencilled Marmoset",285,14,1
 "Black-faced Lion Tamarin",285,38,1
 "Black Lion Tamarin",285,39,2
 "Black-handed Tamarin",285,64,2
 "Black Mantle Tamarin",285,73,1
 "Black-fronted Titi Monkey",285,80,1
+"Coastal Black-handed Titi",285,81,2
 "Blond Titi Monkey",285,83,2
 "Black-horned Capuchin",285,93,2
 "Black-crowned Central American Squirrel Monkey",285,106,2
 "Black-headed Squirrel Monkey",285,109,2
 "Black-headed Night Monkey",285,114,2
+"Colombian Black-handed Titi",285,134,2
+"Ashy Black Titi Monkey",285,161,1
 "Black Bearded Saki",285,171,1
+"Golden-backed Black Uakari",285,175,1
+"Black-faced Black Spider Monkey",286,22,1
 "Black-faced Black Spider Monkey",286,22,1
 "Black Howler Monkey",286,34,2
 "Black-and-gold Howler Monkey",286,45,1
+"Yucatan Black Howler Monkey",286,46,2
 "Black Lemur",260,23,2
 "Black-and-white Ruffed Lemur",260,39,1
 "Black-winged Little Yellow Bat",389,158,1
 "Blanford's Bat",390,78,2
+"blanfordi",390,78,2
+"blossevillii",392,13,2
 "Black Myotis",404,17,2
+"blythii",403,50,1
+"Little Black Serotinelittle Black Serotine",403,143,1
+"Little Black Serotinelittle Black Serotine",403,143,1
 "Black Mastiff Bat",396,21,2
 "Black Bonneted Bat",396,34,2
 "Blunt-eared Bat",396,194,2
+"blainvillei",393,221,1
 "BLASIUS' HORSESHOE BAT",379,10,1
+"blasii",379,10,1
 "Blyth's Horseshoe Bat",376,119,2
 "Black-bearded Tomb Bat",400,74,1
 "Black-bearded Flying Fox",366,16,2
+"Comoro Black Flying Fox",366,17,2
 "Black Flying Fox",366,61,2
 "Blyth's Flying Fox",366,123,2
 "Blossom Bats",365,85,1
 "Black-bellied Blossom Bat",365,88,1
+"Black-bellied Blossom Bat",365,88,1
+"Woodford's Blossom Bat",365,89,2
+"New Caledonia Blossom Bat",365,91,1
+"Fijian Blossom Bat",365,92,2
+"Halmaheran Blossom Bat",365,95,1
+"Moss-forest Blossom Bat",365,96,2
+"Common Blossom Bat",365,97,2
 "Black-capped Fruit Bat",387,36,2
 "Blandford's Fruit Bat",387,51,2
+"blanfordi",387,51,2
 "Blesbok",372,82,2
 "Black Wildebeest",372,86,2
 "Blackbuck",372,140,2
@@ -843,21 +1043,34 @@ name,fileindex,index,whichChild
 "Black Duiker",372,180,1
 "Blue Duiker",372,187,2
 "Black Muntjac",374,41,1
+"Blastocerus",375,29,2
 "Black Musk Deer",371,92,2
+"blainvillei",373,86,1
 "Blainville's Beaked Whale",371,140,2
 "Blue Whale",371,177,2
 "Black Rhinoceros",365,126,2
 "Black-footed Ferret",383,21,1
+"American Black Bear",381,111,2
+"Asiatic Black Bear",381,116,2
 "Black-backed Jackal",381,129,2
 "Blanford's Fox",381,175,1
 "Black-footed Mogoose",384,27,2
 "Black-footed Cat",382,56,1
 "Black-footed Shrew",367,75,2
+"African Black Shrew",370,61,2
 "Blackish White-toothed Shrew",370,63,1
 "Black Shrew",402,23,2
+"blarina",402,71,2
 "Blarinella",397,61,2
+"Blarinella",397,63,1
+"Blarinella",397,64,2
+"Blarinella",397,65,2
 "Blackish Small-eared Shrew",397,78,1
 "Blarina",397,118,2
+"Blarina",397,121,1
+"Blarina",397,122,2
+"Blarina",397,123,2
+"Blarina",397,124,2
 "Blind Mole",380,37,2
 "Black And Rufous Elephant Shrew",323,113,2
 "Black-footed Rock Wallaby",110,23,2
@@ -870,28 +1083,53 @@ name,fileindex,index,whichChild
 "Black-shouldered Opossum",109,232,2
 "Black Toad",61,33,2
 "Blanford's Toad",57,45,1
+"blanfordii",57,45,1
+"blombergi",38,20,2
 "Blue-bellied Poison Frog",44,11,2
+"Green And Black Poison Frog",44,60,2
 "Black-legged Poison Frog",43,221,2
 "Bloody Bay Poison Frog",68,134,2
 "Black-spotted Casque-headed Treefrog",64,83,1
+"blairi",70,50,2
 "Blue Mountains Treefrog",53,37,1
 "Bleating Treefrog",55,16,1
 "Blue-sided Treefrog",66,76,2
+"blairhedgesi",79,20,2
 "Blacksoil Toadlet",23,14,1
 "Black-soled Frog",23,142,2
 "Black-webbed Treefrog",21,72,2
+"blanci",3,48,1
+"Blommersia",3,162,1
+"Blommersia",3,163,2
+"Blommersia",3,164,2
+"Blommersia",3,166,1
+"Blommersia",3,167,2
 "Blue-legged Mantella",3,185,1
 "Black-eared Mantella",3,193,1
+"blommersae",20,80,2
+"blairi",12,47,2
 "Black-spotted Pond Frog",18,21,1
+"blanfordii",22,17,1
 "Blyth's River Frog",19,22,1
+"blythii",19,22,1
+"blumi",28,183,2
 "Black Mountain Boulder Frog",33,54,1
+"Uluguru Blue-bellied Frog",25,74,1
+"Usambara Blue-bellied Frog",25,75,2
+"blanci",26,112,2
 "Black Rain Frog",25,160,2
 "Blanco River Springs Salamander",104,14,2
 "Blanco Blind Salamander",104,16,2
+"Blanco Blind Salamander",104,16,2
+"Georgia Blind Salamander",104,21,2
+"Austin Blind Salamander",104,30,2
+"Comal Blind Salamander",104,42,2
 "Blue Ridge Two-lined Salamander",104,46,2
+"Texas Blind Salamander",104,50,2
 "Blackbelly Slender Salamander",98,38,1
 "Blue Ridge Gray-cheeked Salamander",107,34,1
 "Blue Ridge Dusky Salamander",105,10,2
+"Dwarf Black-bellied Salamander",105,25,1
 "Blackbelly Salamander",105,28,2
 "Black Mountain Salamander",105,33,1
 "Black Salamander",105,64,2
@@ -900,3 +1138,4 @@ name,fileindex,index,whichChild
 "Black Knobby Newt",98,139,2
 "Blue-spotted Salamander",99,11,1
 "Blotched Salamander",344,38,2
+"Japanese Black Salamander",344,54,2

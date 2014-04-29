@@ -1,24 +1,36 @@
 name,fileindex,index,whichChild
 "Scaled Flowerpiercer",125,22,2
+"schistacea",127,46,1
 "Scarlet-thighed Dacnis",125,169,1
 "Scarlet-breasted Dacnis",125,175,1
 "Scarlet-rumped Tanager",130,43,1
 "Scarlet-browed Tanager",124,16,1
 "Scarlet-and-white Tanager",124,20,2
+"schrankii",128,44,1
 "Scrub Tanager",128,88,2
+"scandens",129,28,2
 "Scarlet-throated Tanager",129,44,2
 "Scarlet-bellied Mountain-tanager",128,119,1
+"Schistochlamys",128,169,1
+"Schistochlamys",128,170,2
 "Scarlet Tanager",124,125,2
+"schlegeli",142,30,1
+"schistaceus",142,68,2
+"schoeniclus",142,143,2
 "Scarlet-headed Blackbird",143,31,2
 "Scrub Blackbird",143,46,2
 "Screaming Cowbird",143,60,2
 "Scarlet-rumped Cacique",143,101,1
 "Scarlet-rumped Cacique",143,103,2
+"sclateri",143,107,2
 "Scott's Oriole",147,54,2
+"scotops",136,52,2
 "Scottish Crossbill",135,47,2
+"scotica",135,47,2
 "Scarlet Finch",137,62,2
 "Scrub Euphonia",135,201,2
 "Scaly-breasted Munia",132,63,2
+"scutatus",140,90,1
 "Scaly Weaver",140,176,2
 "Scarlet-chested Sunbird",131,44,2
 "Scarlet-tufted Sunbird",121,101,2
@@ -27,135 +39,837 @@ name,fileindex,index,whichChild
 "Scarlet-headed Flowerpecker",139,61,1
 "Scarlet-collared Flowerpecker",139,77,1
 "Scarlet-breasted Flowerpecker",139,87,1
+"scotocerca",184,31,1
+"schlegelii",184,76,2
+"schisticeps",183,29,2
+"scouleri",183,66,2
+"schistaceus",183,67,2
+"Brown-backed Scrub-robin",186,34,1
+"Red-backed Scrub-robin",186,35,2
+"Rufous-tailed Scrub-robin",186,37,1
+"Black Scrub-robin",186,38,2
+"Kalahari Scrub-robin",186,39,2
+"Bearded Scrub-robin",186,43,1
+"Miombo Scrub-robin",186,44,2
+"Forest Scrub-robin",186,45,2
+"Karoo Scrub-robin",186,47,1
+"Brown Scrub-robin",186,48,2
+"schistacea",188,105,2
+"Eurasian Scaly Thrush",188,145,2
+"Sri Lanka Scaly Thrush",188,158,2
+"schulzi",181,65,2
+"Scissirostrum",194,45,1
 "Scaly-breasted Thrasher",192,60,2
+"sclateri",190,12,1
+"schistaceigula",181,103,1
 "Scaly Babbler",164,151,2
 "Scaly Chatterer",164,152,2
 "Scaly Laughingthrush",163,45,2
+"Short-tailed Scimitar-babbler",165,13,2
 "Scaly-breasted Illadopsis",165,33,1
 "Scaly-crowned Babbler",165,77,2
+"Streak-breasted Scimitar-babbler",167,8,1
+"White-browed Scimitar-babbler",167,9,2
+"schisticeps",167,9,2
+"Taiwan Scimitar-babbler",167,10,2
+"Spot-breasted Scimitar-babbler",167,12,1
+"Chestnut-backed Scimitar-babbler",167,13,2
+"Slender-billed Scimitar-babbler",167,18,2
+"Grey-sided Scimitar-babbler",167,22,1
+"Red-billed Scimitar-babbler",167,24,2
+"Coral-billed Scimitar-babbler",167,25,2
+"Sri Lanka Scimitar-babbler",167,28,1
+"Black-streaked Scimitar-babbler",167,35,1
+"Large Scimitar-babbler",167,36,2
+"Rusty-cheeked Scimitar-babbler",167,37,2
+"Indian Scimitar-babbler",167,40,1
+"Black-necklaced Scimitar-babbler",167,42,2
 "Scaly-breasted Wren-babbler",163,164,1
+"White-winged Scrub-warbler",177,14,1
+"African Scrub-warbler",177,21,2
+"Cameroon Scrub-warbler",177,22,2
+"Schoenicola",177,31,1
+"Schoenicola",177,32,2
+"scirpaceus",176,127,1
+"schoenobaenus",176,148,2
+"Streaked Scrub-warbler",176,192,1
+"Scotocerca",176,192,1
+"scotops",170,111,2
 "Scaly-breasted Bulbul",174,56,2
+"scandens",174,123,2
+"schwarzi",162,111,2
+"schisticeps",162,178,2
+"Victorin's Scrub-warbler",161,44,2
 "Sclater's Lark",173,34,2
+"sclateri",173,34,2
+"sclateri",169,13,2
+"scita",161,170,2
 "Scarlet Robin",151,12,1
+"sclateriana",151,30,1
+"Northern Scrub-robin",151,73,1
+"Southern Scrub-robin",151,74,2
+"schistaceus",159,21,1
+"Western Scrub-jay",157,79,1
+"Island Scrub-jay",157,80,2
+"Florida Scrub-jay",157,81,2
+"schach",157,165,2
+"sclateri",152,126,2
 "Scrub Greenlet",152,139,2
+"schlegelii",156,51,1
 "Sclater's Whistler",156,54,2
+"Schetba",195,38,2
+"scopifrons",195,63,2
+"schisticeps",195,107,1
+"schistacea",200,11,1
 "Scarlet Minivet",195,132,2
 "Scaly-crowned Honeyeater",148,46,1
 "Scarlet Myzomela",149,9,1
 "Scarlet-naped Myzomela",149,13,1
 "Scarlet-bibbed Myzomela",149,26,1
+"sclateri",149,26,1
+"sclateri",150,18,1
 "Scrub Honeyeater",150,83,2
 "Scrubwrens",180,6,1
+"Large-billed Scrubwren",180,12,1
+"Large Scrubwren",180,13,2
+"Perplexing Scrubwren",180,14,2
+"White-browed Scrubwren",180,16,1
+"Atherton Scrubwren",180,17,2
+"Pale-billed Scrubwren",180,18,2
+"Buff-faced Scrubwren",180,22,1
+"Papuan Scrubwren",180,23,2
+"Beccari's Scrubwren",180,25,1
+"Vogelkop Scrubwren",180,26,2
+"Grey-green Scrubwren",180,27,2
+"Yellow-throated Scrubwren",180,29,1
+"Tasmanian Scrubwren",180,30,2
 "Scrubtit",180,84,2
+"Scenopoeetes",120,174,2
 "Scrub-birds, Lyrebirds",120,188,2
 "Scrub-birds",120,189,1
+"Rufous Scrub-bird",120,190,1
+"Noisy Scrub-bird",120,191,2
+"Schoeniophylax",233,44,2
+"scutata",233,53,2
 "Scaled Spinetail",234,39,2
 "Scribble-tailed Canastero",233,117,1
+"Schizoeaca",233,129,1
+"Schizoeaca",233,130,2
+"Schizoeaca",233,132,1
+"Schizoeaca",233,133,2
+"Schizoeaca",233,135,1
+"Schizoeaca",233,136,2
+"Schizoeaca",233,138,1
+"Schizoeaca",233,139,2
+"sclateri",233,159,2
 "Scale-throated Earthcreeper",231,39,1
 "Scaly-throated Foliage-gleaner",232,24,2
+"scrutator",232,63,1
 "Scalloped Woodcreeper",230,93,1
 "Scaled Woodcreeper",230,97,2
 "Scimitar-billed Woodcreeper",230,104,1
+"Greater Scythebill",230,105,2
+"Red-billed Scythebill",230,109,1
+"Curve-billed Scythebill",230,110,2
+"Brown-billed Scythebill",230,111,2
+"Black-billed Scythebill",230,112,2
 "Scaly-throated Leaftosser",229,33,1
+"Sclerurus",229,33,1
+"scansor",229,34,2
+"Sclerurus",229,34,2
+"Sclerurus",229,35,2
+"Sclerurus",229,36,2
+"Sclerurus",229,38,1
+"Sclerurus",229,39,2
 "Schwartz's Antthrush",229,62,2
+"Scytalopus",248,14,1
+"Scytalopus",248,15,2
+"Scytalopus",248,16,2
+"Scytalopus",248,17,2
+"Scytalopus",248,19,1
+"Scytalopus",248,20,2
+"Scytalopus",248,23,1
+"Scytalopus",248,24,2
+"Scytalopus",248,25,2
+"Scytalopus",248,30,1
+"Scytalopus",248,31,2
+"Scytalopus",248,32,2
+"Scytalopus",248,35,1
+"Scytalopus",248,36,2
+"Scytalopus",248,37,2
+"Scytalopus",248,40,1
+"Scytalopus",248,41,2
+"Scytalopus",248,42,2
+"Scytalopus",248,47,1
+"Scytalopus",248,48,2
+"Scytalopus",248,49,2
+"Scytalopus",248,50,2
+"Scytalopus",248,53,1
+"Scytalopus",248,54,2
+"Scytalopus",248,55,2
+"Scytalopus",248,61,1
+"Scytalopus",248,62,2
+"Scytalopus",248,64,1
+"Scytalopus",248,65,2
+"Scytalopus",248,67,1
+"Scytalopus",248,68,2
+"Scytalopus",248,70,1
+"Scytalopus",248,71,2
+"Scytalopus",248,73,1
+"Scytalopus",248,74,2
+"schulenbergi",248,76,1
+"Scytalopus",248,76,1
+"Scytalopus",248,77,2
+"Scelorchilus",248,94,1
+"Scelorchilus",248,95,2
 "Scaled Antpitta",248,155,2
 "Scallop-breasted Antpitta",248,193,2
 "Scaled Antbird",245,22,2
 "Scale-backed Antbird",245,87,2
 "Scalloped Antbird",247,55,2
+"schistacea",247,71,1
+"Schistocichla",247,71,1
+"Schistocichla",247,72,2
+"Schistocichla",247,73,2
+"Schistocichla",247,74,2
+"Schistocichla",247,76,1
+"Schistocichla",247,77,2
+"Schistocichla",247,79,1
+"Sclateria",247,81,2
+"schistaceus",246,43,1
+"schistogynus",245,123,1
+"schisticolor",245,162,2
 "Sclater's Antwren",245,174,2
+"sclateri",245,174,2
 "Scrub-flycatchers",241,49,2
+"Northern Scrub-flycatcher",241,51,1
+"Todd's Scrub-flycatcher",241,52,2
+"Southern Scrub-flycatcher",241,53,2
 "Scissor-tailed Flycatcher",236,103,2
+"sclateri",240,11,2
 "Sclater's Tyrannulet",242,78,2
+"sclateri",242,78,2
 "Scale-crested Pygmy-tyrant",239,13,1
 "Schiffornis",251,56,2
+"Thrush-like Schiffornis",251,58,1
+"Schiffornis",251,58,1
+"Greenish Schiffornis",251,59,2
+"Schiffornis",251,59,2
+"Greater Schiffornis",251,60,2
+"Schiffornis",251,60,2
 "Scimitar-winged Piha",250,32,1
 "Screaming Piha",250,38,2
+"scutatus",249,32,2
+"sclateri",249,59,2
 "Scarlet-breasted Fruiteater",249,84,1
 "Scaled Fruiteater",249,88,2
 "Scarlet-horned Manakin",249,107,2
 "Schneider's Pitta",229,172,2
+"schneideri",229,172,2
 "Schlegel's Asity",229,230,1
+"schlegeli",229,230,1
 "Scaly-breasted Lorikeet",216,15,2
+"sclateri",219,25,2
 "Scarlet-chested Parrot",215,29,1
+"scapularis",215,41,2
 "Scarlet-fronted Parakeet",217,42,1
 "Scarlet Macaw",217,54,2
 "Scaly-naped Amazon",221,59,2
 "Scaly-headed Parrot",221,77,1
 "Scarlet-shouldered Parrotlet",215,91,2
 "Scarlet-backed Woodpecker",206,15,1
+"scalaris",206,55,1
 "Scaly-breasted Woodpecker",208,16,2
+"schulzi",208,35,1
+"scriptoricauda",208,120,2
 "Scaly-bellied Woodpecker",206,171,1
+"sclateri",211,25,1
 "Scaled Piculet",211,42,2
 "Scaly-throated Honeyguide",201,17,1
 "Scarlet-banded Barbet",204,87,2
 "Scarlet-crowned Barbet",204,91,1
 "Scarlet-hooded Barbet",204,99,2
+"scolopaceus",205,45,2
+"sclateri",209,29,2
 "Scaly Kingfisher",202,59,2
 "Scaly Ground-roller",201,138,2
 "Scimitarbills",201,192,2
+"Common Scimitarbill",201,194,1
+"Abyssinian Scimitarbill",201,195,2
+"Black Scimitarbill",201,196,2
 "Scarlet-rumped Trogon",252,64,2
+"Scotopelia",225,7,1
+"Scotopelia",225,8,2
+"Scotopelia",225,9,2
+"scandiaca",225,33,2
 "Screech-owls",227,3,1
+"Black-capped Screech-owl",227,11,1
+"Puerto Rican Screech-owl",227,12,2
+"Tawny-bellied Screech-owl",227,13,2
+"West Peruvian Screech-owl",227,14,2
+"Long-tufted Screech-owl",227,16,1
+"Vermiculated Screech-owl",227,17,2
+"Cloud-forest Screech-owl",227,20,1
+"Western Screech-owl",227,21,2
+"Bare-shanked Screech-owl",227,23,1
+"Eastern Screech-owl",227,24,2
+"Montane Forest Screech-owl",227,25,2
+"Colombian Screech-owl",227,27,1
+"Cinnamon Screech-owl",227,28,2
+"Koepcke's Screech-owl",227,33,1
+"Tropical Screech-owl",227,34,2
+"Balsas Screech-owl",227,36,1
+"Pacific Screech-owl",227,37,2
+"White-throated Screech-owl",227,39,1
+"Rufescent Screech-owl",227,40,2
+"Whiskered Screech-owl",227,42,1
+"Bearded Screech-owl",227,43,2
+"Serendib Scops-owl",227,47,1
+"Nicobar Scops-owl",227,48,2
+"Sulawesi Scops-owl",227,49,2
+"White-fronted Scops-owl",227,52,1
+"Javan Scops-owl",227,53,2
+"Mentawai Scops-owl",227,56,1
+"Andaman Scops-owl",227,57,2
+"Flores Scops-owl",227,58,2
+"Rajah Scops-owl",224,10,2
+"White-faced Scops-owl",224,31,1
+"Moluccan Scops-owl",224,32,2
 "Scops-owls",224,34,2
+"Malagasy Scops-owl",224,45,1
+"Anjouan Scops-owl",224,46,2
+"Mayotte Scops-owl",224,47,2
+"Grand Comoro Scops-owl",224,49,1
+"Moheli Scops-owl",224,50,2
+"Seychelles Scops-owl",224,52,1
+"Oriental Scops-owl",224,53,2
+"Luzon Scops-owl",224,55,1
+"Mindanao Scops-owl",224,56,2
+"Elegant Scops-owl",224,59,1
+"Sangihe Scops-owl",224,60,2
+"Sandy Scops-owl",224,61,2
+"African Scops-owl",224,67,1
+"Siau Scops-owl",224,68,2
+"Pemba Scops-owl",224,69,2
+"Wallace's Scops-owl",224,71,1
+"Common Scops-owl",224,72,2
+"scops",224,72,2
+"Sao Tome Scops-owl",224,73,2
+"Enggano Scops-owl",224,74,2
+"Palawan Scops-owl",224,75,2
+"Philippine Scops-owl",224,81,1
+"Reddish Scops-owl",224,82,2
+"Palau Scops-owl",224,83,2
+"Japanese Scops Owl",224,84,2
+"Collared Scops-owl",224,88,1
+"Sunda Scops Owl",224,89,2
+"Collared Scops Owl",224,90,2
+"Giant Scops-owl",224,91,2
+"Mountain Scops-owl",224,93,1
+"Simeulue Scops-owl",224,94,2
+"Mantanani Scops-owl",224,97,1
+"Pallid Scops-owl",224,98,2
+"Biak Scops-owl",224,99,2
+"Mindoro Scops-owl",224,101,1
+"Sokoke Scops-owl",224,102,2
+"scutulata",224,164,2
+"schistaceus",118,83,2
+"scriptus",115,166,1
+"schistisagus",214,13,1
+"scoresbii",212,28,1
+"scopulinus",212,42,2
+"Scolopacidae",223,0,1
+"Scolopax",223,45,1
+"Scolopax",223,46,2
+"Scolopax",223,48,1
+"Scolopax",223,49,2
+"Scolopax",223,51,1
+"Scolopax",223,52,2
+"Scolopax",223,54,1
+"Scolopax",223,55,2
+"scolopaceus",223,58,1
 "Schrenck's Bittern",354,112,1
 "Scarlet Ibis",354,182,1
+"Scopus",354,210,2
+"schlegeli",357,164,2
+"sclateri",357,168,2
 "Schalow's Turaco",346,67,2
+"schalowi",346,67,2
+"schuetti",346,68,2
+"Scythrops",355,94,2
+"scolopaceus",355,100,2
 "Scale-feathered Malkoha",356,56,2
 "Scaled Ground-cuckoo",346,110,2
+"schomburgkii",360,127,2
 "Scarlet-breasted Fruit-dove",350,86,1
+"scheepmakeri",347,35,1
+"scripta",347,62,2
 "Scaly-naped Pigeon",347,150,2
 "Scaled Pigeon",347,153,2
 "Scaled Dove",347,189,1
+"scitulus",327,11,1
 "Scaly-breasted Hummingbird",326,17,1
 "Scissor-tailed Hummingbird",326,49,2
 "Scintillant Hummingbird",326,139,1
+"scintilla",326,139,1
 "Scaled Metaltail",332,20,2
+"schreibersii",332,133,2
+"scutatus",330,32,2
+"Schistes",330,53,2
 "Scale-throated Hermit",325,9,2
 "Schouteden's Swift",329,43,1
+"schoutedeni",329,43,1
+"Schoutedenapus",329,43,1
 "Scarce Swift",329,44,2
+"Schoutedenapus",329,44,2
 "Scissor-tailed Nightjar",324,153,2
 "Scrub Nightjar",324,171,2
 "Sclater's Monal",312,111,2
+"sclateri",312,111,2
 "Schlegel's Francolin",312,171,1
+"schlegelii",312,171,1
+"schleiermacheri",312,187,1
 "Scaly Francolin",317,23,2
 "Scaly-breasted Partridge",314,17,1
 "Scaled Quail",315,53,2
+"Waterfowl, Screamers and Magpie Goose",310,129,2
 "Scaly-sided Merganser",313,15,1
 "Scoters",313,26,2
+"White-winged Scoter",313,28,1
+"Surf Scoter",313,29,2
+"Black Scoter",313,30,2
+"Lesser Scaup",313,90,1
+"Greater Scaup",313,91,2
+"New Zealand Scaup",313,98,2
+"scutulata",313,104,2
 "Screamers",310,167,2
+"Southern Screamer",310,169,1
+"Northern Screamer",310,170,2
+"Horned Screamer",310,171,2
+"schlegelii",0,60,2
+"scripta elegans",95,30,1
+"scripta taylori",95,32,2
+"scutata",343,51,2
+"scincoides",305,162,2
+"schmidti",305,184,2
+"Scincella",298,12,1
+"Scincella",298,13,2
+"Scincella",298,14,2
+"Scincella",298,16,1
+"Scincella",298,17,2
+"schevilli",300,38,2
+"scutirostrum",301,39,1
+"schadenbergi",300,99,1
+"Scelotes",303,56,1
+"Scelotes",303,57,2
+"Scelotes",303,58,2
+"Scelotes",303,59,2
+"Scelotes",303,60,2
+"Scelotes",303,63,1
+"Scelotes",303,64,2
+"Scelotes",303,65,2
+"schwartzei",303,120,1
+"schneideri",298,24,2
+"Scincus",298,26,1
+"scincus",298,27,2
+"Scincus",298,27,2
+"Scincopus",298,28,2
+"scutellatus",299,13,1
+"schmidti",299,28,2
+"schreiberi",299,112,2
+"schreibersii",304,19,2
+"scincoides",304,96,1
+"schreibersi",405,64,1
+"Sceloporus",408,14,1
+"Sceloporus",408,15,2
+"Sceloporus",408,16,2
+"Sceloporus",408,17,2
+"Sceloporus",408,20,1
+"Sceloporus",408,21,2
+"Sceloporus",408,22,2
+"Sceloporus",408,23,2
+"Sceloporus",408,29,1
+"Sceloporus",408,30,2
+"Sceloporus",408,31,2
+"Sceloporus",408,33,1
+"Sceloporus",408,34,2
+"Sceloporus",408,36,1
+"Sceloporus",408,37,2
+"Sceloporus",408,38,2
+"Sceloporus",408,45,1
+"Sceloporus",408,46,2
+"Sceloporus",408,47,2
+"Sceloporus",408,49,1
+"Sceloporus",408,50,2
+"Sceloporus",408,52,1
+"Sceloporus",408,53,2
+"Sceloporus",408,56,1
+"Sceloporus",408,57,2
+"scalaris",408,58,2
+"Sceloporus",408,58,2
+"Sceloporus",408,59,2
+"Sceloporus",408,60,2
+"Sceloporus",408,62,1
+"Sceloporus",408,63,2
+"Sceloporus",408,64,2
+"Sceloporus",408,69,1
+"Sceloporus",408,70,2
+"Sceloporus",408,71,2
+"Sceloporus",408,72,2
+"Sceloporus",408,75,1
+"Sceloporus",408,76,2
+"Sceloporus",408,77,2
+"Sceloporus",408,79,1
+"Sceloporus",408,80,2
+"Sceloporus",408,81,2
+"scoparia",414,40,2
+"scutulatus",413,78,1
 "Scarlet Snake",335,22,2
+"scalaris",335,35,2
+"Scaphiophis",338,68,1
+"schokarii",335,87,2
+"schistosum",335,159,2
+"schnurrenbergeri",335,161,1
+"Scaphiodontophis",335,187,2
+"scalaris",336,52,2
+"schistosa",341,15,2
+"scutatus",340,43,2
+"schlegelii",339,20,2
+"schaeferi",334,80,2
+"scytale",334,110,2
+"schmidti",334,166,2
+"scaber",318,59,2
 "Scaly-toed Geckos",321,16,1
+"Christian Scaly-toed Gecko",321,19,2
+"scincus",321,27,2
 "Scaly-eyed Geckos",318,85,2
+"Brigalow Scaly-foot",318,179,2
 "Scalyfoots",318,199,2
+"schadenbergi",263,101,1
+"sciureus",293,122,2
+"Scapteromys",292,64,2
+"Scapteromys",292,65,1
+"Scapteromys",292,66,2
+"Scolomys",292,80,2
+"Scolomys",292,81,1
+"Scolomys",292,82,2
 "Scotinomys",287,204,1
+"Scotinomys",287,205,1
+"Scotinomys",287,206,2
 "Schelkovnikov's Pine Vole",282,15,2
+"schelkovnikovi",282,15,2
 "Schidlovsky Pine Vole",282,73,1
+"schidlovskii",282,73,1
+"schaposchnikowi",283,14,2
+"schisticolor",283,45,2
+"scherman",281,48,2
 "Scaly-tailed Squirrels",254,10,1
+"Dwarf Scaly-tailed Squirrel",254,13,1
+"Pygmy Scaly-tailed Flying Squirrel",254,20,1
+"Cameroon Scaly-tail",254,22,2
+"SCIUROMORPHA",254,60,2
+"Sciuridae",254,62,1
 "Sciurus",279,3,1
+"Sciurus",279,23,1
+"Sciurus",279,24,2
+"Sciurus",279,25,2
+"Sciurus",279,26,2
+"Sciurus",279,27,2
+"Sciurus",279,28,2
+"Sciurus",279,29,2
+"Sciurus",279,30,2
+"Sciurus",279,31,2
+"Sciurus",279,32,2
+"Sciurus",279,33,2
+"Sciurus",279,34,2
+"Sciurus",279,35,2
+"Sciurus",279,36,2
+"Sciurus",279,43,1
+"Sciurus",279,44,2
+"Sciurus",279,45,2
+"Sciurus",279,46,2
+"Sciurus",279,47,2
+"Sciurus",279,48,2
+"Sciurus",279,49,2
+"Sciurus",279,50,2
+"Sciurus",279,51,2
+"Sciurus",279,52,2
+"Sciurus",279,53,2
+"Sciurus",279,54,2
+"Sciurus",279,55,2
 "Sculptor Squirrel",278,194,2
+"Sciurotamias",296,168,2
+"Sciurotamias",296,169,1
+"Sciurotamias",296,170,2
+"Sciurillus",254,64,2
 "Scrub Hare",277,58,2
 "Sclater's Monkey",275,85,2
+"sclateri",275,85,2
+"schistaceus",275,150,1
+"sciureus",285,105,2
+"SCANDENTIA",254,137,2
 "Scully's Tube-nosed Bat",389,70,2
+"Scoteanax",389,84,2
+"Scotorepens",390,52,1
+"Scotorepens",390,54,1
+"Scotorepens",390,55,2
+"Scotorepens",390,57,1
+"Scotorepens",390,58,2
 "Schlieffen's Bat",390,59,2
+"schlieffeni",390,59,2
+"Scotozous",389,206,2
 "Schwartz's Myotis",404,12,1
 "Scott's Mouse-eared Bat",404,62,2
+"scotti",404,62,2
 "Schaub's Myotis",403,63,2
+"schaubi",403,63,2
 "Scotophilus",403,167,1
+"Scotophilus",403,173,1
+"Scotophilus",403,174,2
+"Scotophilus",403,175,2
+"Scotophilus",403,177,1
+"Scotophilus",403,178,2
+"Scotophilus",403,179,2
+"Scotophilus",403,181,1
+"Scotophilus",403,182,2
+"Scotophilus",403,185,1
+"Scotophilus",403,186,2
+"Scotophilus",403,188,1
+"Scotophilus",403,189,2
+"Scotomanes",403,190,2
+"Scotoecus",403,193,1
+"Scotoecus",403,197,1
+"Scotoecus",403,198,2
+"Scotoecus",403,199,2
+"Scotoecus",403,200,2
+"Scotoecus",403,201,2
+"schreibersii",365,35,2
+"Scleronycteris",395,16,2
 "Schultz's Round-eared Bat",393,163,2
+"schulzi",393,163,2
 "Schmidts's Big-eared Bat",393,177,1
+"schmidtorum",393,177,1
+"schnablii",365,63,1
 "Schneider's Leaf-nosed Bat",376,29,2
+"scutatus",400,37,2
+"scapulatus",366,86,1
 "Scotonycteris",399,36,1
+"Scotonycteris",399,37,1
+"Scotonycteris",399,38,2
+"schaeferi",372,32,1
 "Scimitar-horned Oryx",372,100,2
+"scriptus",371,47,2
+"scrofa",401,20,1
+"schauinslandi",381,102,1
+"schoutedeni",367,172,1
+"Scutisorex",402,39,2
 "Schaller's Mouse Shrew",402,75,1
+"schalleri",402,75,1
 "Sclater's Mouse Shrew",402,87,2
+"sclateri",402,87,2
 "Scaly-footed Small-eared Shrew",397,97,1
+"schmidi",397,176,2
+"sclateri",388,14,2
+"Scaptochirus",380,44,1
+"Scaptonyx",380,46,2
 "Scapanus",380,52,1
+"Scapanus",380,54,1
+"Scapanus",380,55,2
+"Scapanus",380,56,2
+"Scalopus",380,57,2
+"Scapanulus",380,59,2
 "Screaming Hairy Armadillo",333,20,1
 "Sclater's Golden Mole",323,82,2
+"sclateri",323,82,2
+"scottae",110,96,2
 "Scaly-tailed Possum",112,100,2
+"scalops",109,185,1
+"schneideri",56,20,1
+"schmidti",57,101,2
+"Schismaderma",56,81,2
+"scitula",58,16,2
+"sclerocephala",58,22,1
+"scalpta",56,137,2
 "Scarlet Harlequin Toad",63,110,1
+"schirchi",45,19,1
+"schmidti",65,67,2
+"scrocchii",42,32,2
+"schreiteri",42,42,2
+"Scythrophrys",38,112,2
+"scirtetes",50,35,1
+"schmidtorum",67,33,1
+"schubarti",48,37,2
+"Scarthyla",48,201,1
+"Scarthyla",48,202,2
+"Scinax",70,13,1
+"Scinax",70,14,2
+"Scinax",70,16,1
+"Scinax",70,17,2
+"Scinax",70,18,2
+"Scinax",70,21,1
+"Scinax",70,22,2
+"Scinax",70,23,2
+"Scinax",70,24,2
+"Scinax",70,25,2
+"Scinax",70,30,1
+"Scinax",70,31,2
+"Scinax",70,32,2
+"Scinax",70,34,1
+"Scinax",70,35,2
+"Scinax",70,39,1
+"Scinax",70,40,2
+"Scinax",70,41,2
+"Scinax",70,42,2
+"Scinax",70,49,1
+"Scinax",70,50,2
+"Scinax",70,51,2
+"Scinax",70,54,1
+"Scinax",70,55,2
+"Scinax",70,56,2
+"Scinax",70,58,1
+"Scinax",70,59,2
+"Scinax",70,60,2
+"Scinax",70,62,1
+"Scinax",70,63,2
+"Scinax",70,64,2
+"Scinax",70,71,1
+"Scinax",70,72,2
+"Scinax",70,73,2
+"Scinax",70,74,2
+"Scinax",70,76,1
+"Scinax",70,77,2
+"Scinax",70,78,2
+"Scinax",70,81,1
+"Scinax",70,82,2
+"Scinax",70,83,2
+"Scinax",70,89,1
+"Scinax",70,90,2
+"Scinax",70,92,1
+"Scinax",70,93,2
+"Scinax",70,96,1
+"Scinax",70,97,2
+"Scinax",70,98,2
+"Scinax",70,101,1
+"Scinax",70,102,2
+"Scinax",70,103,2
+"Scinax",70,107,1
+"Scinax",70,108,2
+"Scinax",70,109,2
+"Scinax",70,110,2
+"Scinax",70,119,1
+"Scinax",70,120,2
+"Scinax",70,121,2
+"Scinax",70,124,1
+"Scinax",70,125,2
+"Scinax",70,126,2
+"Scinax",70,129,1
+"Scinax",70,130,2
+"Scinax",70,131,2
+"Scinax",70,136,1
+"Scinax",70,137,2
+"Scinax",70,138,2
+"Scinax",70,140,1
+"Scinax",70,141,2
+"Scinax",70,142,2
+"Scinax",70,145,1
+"Scinax",70,146,2
+"Scinax",70,147,2
+"Scinax",70,148,2
+"Scinax",70,156,1
+"Scinax",70,157,2
+"Scinax",70,158,2
+"Scinax",70,159,2
+"Scinax",70,160,2
+"Scinax",70,164,1
+"Scinax",70,165,2
+"Scinax",70,166,2
+"Scinax",70,168,1
+"Scinax",70,169,2
+"Scinax",70,172,1
+"Scinax",70,173,2
+"Scinax",70,174,2
+"Scinax",70,176,1
+"Scinax",70,177,2
+"schuberti",91,15,2
+"scalae",91,25,1
+"schultei",83,10,2
+"scitulus",86,49,1
+"schwartzi",75,35,1
+"scoloblepharus",73,81,1
+"scopaeus",73,106,1
+"scolodiscus",74,10,2
+"schmidti",79,36,1
+"sciagraphus",87,62,1
+"scutatus",1,19,2
+"schevilli",23,107,2
+"schmackeri",7,20,1
+"schmarda",7,151,2
+"schlegelii",21,23,1
+"schilfi",3,18,1
+"sculpturatus",3,27,2
+"schuboeae",20,40,2
+"schmackeri",16,91,2
+"scutigera",14,23,2
+"schlueteri",11,39,2
+"scapularis",4,64,2
+"schmidti",92,24,2
 "Schilluk Ridged Frog",90,65,2
+"schillukorum",90,65,2
+"schlaginhaufeni",28,139,2
 "Scanty Frog",33,70,2
+"schiefenhoeveli",33,98,1
+"scheepstrai",33,126,1
+"Scaphiophryne",25,33,1
+"Scaphiophryne",25,34,2
+"Scaphiophryne",25,35,2
+"Scaphiophryne",25,37,1
+"Scaphiophryne",25,38,2
+"Scaphiophryne",25,39,2
+"Scaphiophryne",25,42,1
+"Scaphiophryne",25,43,2
+"Scaphiophryne",25,44,2
+"schubarti",35,33,1
+"schirchi",35,83,2
+"schoutedeni",31,21,2
+"schneideri",34,42,2
+"schioetzi",27,19,2
 "Screeching Frogs, Night Frogs and more",26,0,1
 "Screeching Frogs",26,3,1
+"schubotzi",26,64,2
+"schioetzi",26,79,2
+"Scotobleps",26,101,2
+"schioetzi",26,146,2
+"Scutiger",1,63,1
+"Scutiger",1,64,2
+"Scutiger",1,65,2
+"Scutiger",1,67,1
+"Scutiger",1,68,2
+"Scutiger",1,70,1
+"Scutiger",1,71,2
+"Scutiger",1,74,1
+"Scutiger",1,75,2
+"Scutiger",1,76,2
+"Scutiger",1,81,1
+"Scutiger",1,82,2
+"Scutiger",1,84,1
+"Scutiger",1,85,2
+"Scutiger",1,88,1
+"Scutiger",1,89,2
+"Scutiger",1,90,2
+"Scutiger",1,91,2
+"schmidti",1,104,2
+"SCAPHIOPODIDAE",1,166,1
+"Scaphiopus",1,176,1
+"Scaphiopus",1,177,2
+"Scaphiopus",1,178,2
+"scovazzi",342,12,2
+"schizodactyla",100,25,2
+"scandens",100,131,2
+"schmidti",108,11,2
+"scutatum",98,9,2
 "Scottbar Salamander",98,66,2
+"Schistometopum",113,154,1
+"Schistometopum",113,155,2
+"Scolecomorphus",113,169,1
+"Scolecomorphus",113,170,2
+"Scolecomorphus",113,171,2

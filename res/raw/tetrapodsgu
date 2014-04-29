@@ -1,83 +1,423 @@
 name,fileindex,index,whichChild
 "Guira Tanager",124,13,2
+"guira",124,13,2
+"guttata",128,81,2
+"gularis",128,163,2
+"Gubernatrix",128,182,2
+"gutturalis",124,163,2
 "Guadalupe Junco",145,97,1
+"guirahuro",143,12,2
+"guatimozinus",143,119,2
+"gularis",147,47,2
+"gutturalis",144,216,2
+"gularis",136,15,2
+"gustavi",123,34,2
+"gutturalis",123,81,2
+"guttata",132,101,2
+"guttata",132,109,2
 "Gurney's Sugarbird",121,191,1
+"gurneyi",121,191,1
+"gutturalis",184,95,2
+"gularis",184,123,2
+"gularis",187,77,2
+"gutturalis",183,81,2
+"gunningi",193,11,2
+"guttata",193,63,2
 "Guadalcanal Thrush",188,121,2
+"gurneyi",188,126,2
+"guttata",188,131,1
+"guttatus",188,186,2
+"gutturalis",191,70,2
+"gundlachii",192,13,2
+"guttatum",192,37,2
+"gutturalis",192,57,1
+"guarayanus",190,41,1
+"gularis",190,131,2
 "Guianan Gnatcatcher",181,109,2
+"guianensis",181,109,2
+"gularis",164,41,2
+"gularis",164,118,1
+"gularis",163,104,2
+"New Guinea White-eye",166,102,1
+"gularis",163,151,2
+"guttaticollis",179,20,1
+"gularis",179,23,1
 "Guadalcanal Thicketbird",176,65,1
+"guinea",172,24,1
+"guttatus",174,165,2
+"gulgula",173,25,2
+"gularis",161,117,2
+"guttula",159,94,2
+"guilielmi",160,18,2
+"gubernator",157,183,2
+"gundlachii",154,21,2
+"gujanensis",152,153,2
+"gularis",195,75,2
+"gutturalis",195,101,2
+"New Guinea Cuckooshrike",200,30,2
+"New Guinea Babbler",120,60,2
+"New Guinea Logrunner",120,65,2
+"gularis",148,12,2
+"New Guinea Friarbird",148,79,1
 "Guadalcanal Honeyeater",148,136,1
+"Guadalcanaria",148,136,1
+"guisei",148,197,2
+"gutturalis",180,122,2
+"guttata",120,148,2
+"gujanensis",233,31,2
+"gutturata",234,16,2
+"gutturalis",233,110,1
+"gularis",233,177,2
+"guttuligera",231,74,2
 "Guttulate Foliage-gleaner",232,12,2
+"guttulata",232,12,2
+"guttatus",230,124,1
+"guatemalensis",229,33,1
+"guttatus",248,105,2
+"guatimalensis",248,155,2
 "Guianan Warbling-antbird",245,30,2
+"guttatus",245,106,1
+"guttata",245,164,1
 "Guianan Streaked Antwren",245,186,1
+"gutturalis",245,203,2
+"gularis",245,216,1
+"Gubernetes",241,43,2
 "Guianan Tyrannulet",242,50,2
+"gualaquizae",237,22,2
 "Guianan Red-cotinga",249,44,2
 "Guianan Cock-of-the-rock",249,47,2
+"gutturalis",249,163,1
 "Gurney's Pitta",229,181,2
+"gurneyi",229,181,2
+"guajana",229,185,2
+"gulielmitertii",215,16,1
 "Guaiabero",219,48,2
+"guarouba",217,74,2
+"Guaruba",217,74,2
+"guildingii",221,58,2
+"gulielmi",215,124,2
 "Guadeloupe Woodpecker",207,12,1
 "Guayaquil Woodpecker",206,182,2
+"guatemalensis",206,183,2
 "Guianan Piculet",211,38,2
 "Guianan Toucanet",204,18,2
+"guifsobalito",205,22,2
 "Guianan Puffbird",209,8,2
+"gularis",202,197,2
+"gularis",201,130,2
+"gularis",210,41,2
+"guatemalae",227,17,2
+"gurneyi",224,91,2
+"gundlachii",118,93,1
+"gularis",117,112,1
 "Gundlach's Hawk",117,132,2
+"gundlachi",117,132,2
 "Gurney's Eagle",116,17,2
+"gurneyi",116,17,2
+"New Guinea Hawk-eagle",116,31,1
+"guianensis",115,56,1
+"New Guinea Eagle",115,58,2
+"Waders, Gulls, Sandpipers and more",114,46,2
 "Gulls, Terns, Auks and Plovers",114,49,1
 "Gulls and terns",212,1,1
 "Gulls and Kittiwakes",212,3,1
+"Slaty-backed Gull",214,13,1
+"Thayer's Gull",214,14,2
+"Glaucous-winged Gull",214,15,2
+"Iceland Gull",214,16,2
+"Caspian Gull",214,17,2
+"California Gull",214,19,1
+"Kelp Gull",214,20,2
+"Lesser Black-backed Gull",214,21,2
+"Yellow-legged Gull",214,25,1
+"Armenian Gull",214,26,2
+"Great Black-backed Gull",214,27,2
+"Glaucous Gull",214,29,1
+"Herring Gull",214,30,2
+"Yellow-footed Gull",214,31,2
+"Western Gull",214,32,2
+"Ring-billed Gull",214,34,1
+"Heermann's Gull",214,35,2
+"Pacific Gull",214,36,2
+"Mew Gull",214,37,2
+"Black-tailed Gull",214,40,1
+"Olrog's Gull",214,41,2
+"Band-tailed Gull",214,42,2
+"White-eyed Gull",212,15,1
+"Sooty Gull",212,16,2
+"Audouin's Gull",212,17,2
+"Mediterranean Gull",212,18,2
+"Pallas's Gull",212,19,2
+"Relict Gull",212,20,2
+"Franklin's Gull",212,24,1
+"Laughing Gull",212,25,2
+"Lava Gull",212,26,2
+"Dolphin Gull",212,28,1
+"Grey Gull",212,29,2
+"Silver Gull",212,36,1
+"Black-billed Gull",212,37,2
+"Andean Gull",212,38,2
+"Brown-headed Gull",212,39,2
+"Brown-hooded Gull",212,41,1
+"Red-billed Gull",212,42,2
+"Grey-headed Gull",212,45,1
+"King Gull",212,46,2
+"Black-headed Gull",212,47,2
+"Bonaparte's Gull",212,49,1
+"Slender-billed Gull",212,50,2
+"Saunders's Gull",212,51,2
+"Little Gull",212,52,2
+"Ivory Gull",212,58,1
+"Sabine's Gull",212,59,2
+"Swallow-tailed Gull",212,61,1
+"Ross's Gull",212,62,2
 "Gull-billed Tern",213,50,2
+"Spectacled Guillemot",212,119,1
+"Pigeon Guillemot",212,120,2
+"Black Guillemot",212,121,2
+"Thick-billed Guillemot",212,125,1
+"Common Guillemot",212,126,2
+"New Guinea Woodcock",223,45,1
+"guttifer",223,72,1
+"gularis",354,74,2
 "Guanay Cormorant",364,25,1
 "Guinea Turaco",346,81,2
+"gularis",355,22,2
 "Guira Cuckoo",346,130,2
+"guira",346,130,2
+"Guira",346,130,2
 "Guam Rail",362,10,2
+"New Guinea Flightless Rail",362,24,1
+"guarauna",360,187,2
+"New Guinea Bronzewing",347,91,2
+"guinea",348,18,2
+"gutturalis",346,153,1
+"guimeti",326,78,2
+"guerinii",332,31,2
+"gularis",332,137,2
+"guainumbi",330,27,1
+"guy",325,48,2
 "Guam Swiftlet",329,20,1
+"gundlachii",331,66,2
+"Pheasants, Quails and Guineafowl",310,3,1
 "Gunnison Sage-grouse",312,80,2
+"gularis",312,163,2
+"gujanensis",315,13,2
+"guttatus",315,27,2
 "Guineafowl",310,23,2
+"Crested Guineafowl",310,27,1
+"Guttera",310,27,1
+"Plumed Guineafowl",310,28,2
+"Guttera",310,28,2
+"Helmeted Guineafowl",310,29,2
+"White-breasted Guineafowl",310,31,1
+"Black Guineafowl",310,32,2
+"Vulturine Guineafowl",310,33,2
 "Guans and curassows",310,34,2
+"guttata",310,77,2
+"Horned Guan",310,87,2
+"Chestnut-bellied Guan",311,7,1
+"Dusky-legged Guan",311,8,2
+"Baudo Guan",311,9,2
+"Band-tailed Guan",311,11,1
+"Red-faced Guan",311,12,2
+"Rusty-margined Guan",311,15,1
+"White-crested Guan",311,16,2
+"Marail Guan",311,17,2
+"White-browed Guan",311,22,1
+"Crested Guan",311,23,2
+"Andean Guan",311,24,2
+"White-winged Guan",311,26,1
+"Spix's Guan",311,27,2
+"Cauca Guan",311,29,1
+"Bearded Guan",311,30,2
+"Wattled Guan",311,39,2
+"Sickle-winged Guan",311,42,1
+"Black Guan",311,43,2
+"Highland Guan",311,44,2
+"New Guinea Megapode",310,98,1
+"guttata",310,160,2
+"guttatus",253,47,1
+"New Guinea Crocodile",0,53,2
+"nigra guntheri",97,16,2
+"guttata",94,159,2
 "Gulf Coast Spiny Softshell Turtle",343,26,1
+"guaporicola",305,103,1
+"guichenoti",306,20,1
+"guentheri",303,21,2
+"guttatus",298,114,2
+"guentheri",299,76,2
+"guttatus",309,13,2
+"gularis",309,33,2
+"guttulatum",309,41,2
+"guarani",405,25,2
+"guentheri",405,38,1
+"gundlachi",409,44,2
+"guentheri",406,79,2
+"guttatus",406,109,2
+"guttatus",335,28,2
 "Gunther's Whipsnake",335,102,1
+"guentheri",335,145,2
+"guerini",336,17,2
+"guentheri",321,13,2
+"gunung",270,56,2
+"New Guinea Rat",267,91,1
+"Western New Guinea Mountain Rat",274,35,1
+"gurkha",273,17,2
 "Guinean Arvicanthis",273,53,2
 "Guinea Multimammate Mouse",273,87,1
 "Guinea Gerbil",265,64,2
+"guineae",265,64,2
 "Guiana Bristly Mouse",289,181,2
+"guianae",289,181,2
 "Guatamalan Deer Mouse",291,73,1
+"guatemalensis",291,73,1
+"guardia",291,106,2
 "Gunther's Vole",282,71,2
+"guentheri",282,71,2
 "Guatemalan Vole",282,117,2
+"guatemalensis",282,117,2
+"gud",281,28,2
 "Gulf Coast Kangaroo Rat",255,182,2
 "Guyanan Spiny Rat",258,90,1
 "Guiara",258,95,2
+"guyannensis",258,135,2
 "Guaira Spiny Rat",258,138,2
+"guairae",258,138,2
+"gundlachianus",256,26,2
 "Guinea Pigs and Cavys",259,28,2
+"Montane Guinea Pig",259,39,1
+"Brazilian Guinea Pig",259,41,2
+"Shiny Guinea Pig",259,48,2
+"Greater Guinea Pig",259,49,2
+"guamara",256,109,1
 "Gundis and Degus",254,45,2
 "Gundis",254,46,1
+"Val's Gundi",254,50,1
 "Gundi",254,51,2
+"gundi",254,51,2
+"Mzab Gundi",254,53,2
+"Felou Gundi",254,54,2
 "Guianan Squirrel",279,35,2
 "Guayaquil Squirrel",279,49,2
+"gularis",278,158,2
 "Gunnison's Prairie Dog",296,47,2
+"gunnisoni",296,47,2
 "Guinea Baboon",275,53,2
 "Guereza",275,201,2
+"guereza",275,201,2
 "Guianan/margarita Island Brown Capuchin",285,94,2
 "Guiana Spider Monkey",286,27,2
+"guariba",286,35,2
 "Guianan Red Howler Monkey",286,42,2
+"New Guinea Pipistrelle",390,17,1
+"guineensis",392,76,1
 "Guatemalan Myotis",403,91,1
 "Guadeloupean Big Brown Bat",403,138,1
+"guadeloupensis",403,138,1
 "Guianan Bonneted Bat",396,36,2
+"New Guinea Free-tailed Bat",396,143,2
 "Guadeloupean Big-eyed Bat",394,45,1
 "Guianan Spear-nosed Bat",393,141,2
 "Guinean Horseshoe Bat",376,106,1
+"guineensis",376,106,1
+"New Guinea Horseshoe Bat",379,21,2
+"New Guinea Sheath-tailed Bat",400,57,2
 "Guadalcanal Monkey-faced Bat",366,136,1
+"gutturosa",371,12,2
 "Guenther's Dik-dik",371,34,1
+"guentheri",371,34,1
+"gulo",383,61,2
+"Gulo",383,61,2
 "Guadalupe Fur Seal",381,49,2
+"guigna",382,44,1
 "Guramba Shrew",367,151,2
 "Guatamalan Small Eared Shrew",397,112,1
 "Gunning's Golden Mole",323,65,1
+"gunningi",323,65,1
+"New Guinea Pademelon",110,36,1
+"New Guinea Quoll",111,16,2
+"gunnii",109,55,1
 "Guianan White-eared Opossum",109,141,1
+"gutturalis",57,13,2
+"gundlachi",56,65,1
+"guentheri",56,80,2
+"guentheri",56,127,2
+"guibei",59,24,2
+"guttatus",38,13,2
+"guanujo",63,44,2
+"guitarraensis",63,125,1
 "Guacamayo Plump Toad",63,167,2
+"guacamayo",63,167,2
+"guanayensis",68,117,1
+"guayaco",51,87,1
+"guayapae",51,103,2
+"guanacarum",50,28,1
+"guairarepanense",49,165,2
+"guatemalensis",40,57,1
+"guentheri",47,28,2
+"gularis",54,18,2
+"guttata",66,99,1
+"guentheri",93,78,1
+"guentheri",86,16,1
+"gualteri",86,21,1
+"guantanamera",75,49,1
+"gutturalis",76,9,2
+"gularis",74,21,2
 "Guiana Shield Frog",72,26,2
+"gutturosa",72,26,2
 "Guanabara Frogs",72,59,2
+"guerreroensis",85,21,1
+"gulosus",72,100,2
+"guanahacabibes",79,71,1
+"gundlachi",87,63,2
+"guttilatus",80,14,2
 "Gunther's Toadlet",23,62,2
+"guentheri",23,62,2
+"gunungensis",7,90,2
+"guttulatus",3,117,2
+"Guibemantis",3,144,1
+"Guibemantis",3,145,2
+"Guibemantis",3,147,1
+"Guibemantis",3,148,2
+"Guibemantis",3,150,1
+"Guibemantis",3,151,2
+"Guibemantis",3,154,1
+"Guibemantis",3,155,2
+"Guibemantis",3,157,1
+"Guibemantis",3,158,2
 "Guibe'S Mantella",3,175,1
+"guibei",20,104,2
 "Guerreran Leopard Frog",12,75,1
 "Gunther's Amoy Frog",2,48,2
+"guentheri",2,48,2
+"guentheri",11,22,2
+"gundia",6,30,2
+"guineensis",4,78,2
+"gutturosus",4,116,1
+"guentheri",92,109,1
+"guppyi",92,111,2
+"guentheri",92,127,2
+"guppyi",92,136,2
+"guibei",90,14,2
+"guttata",28,174,2
+"gudrunae",33,153,2
+"gunnari",33,159,1
+"guineti",25,26,2
+"guttulata",29,59,1
+"guentherpetersi",32,23,2
+"gularis",30,41,2
+"guttulatus",30,141,2
 "Guinea Snout-burrower",25,186,2
+"guineensis",25,186,2
+"guttatus",25,191,2
+"gunungense",37,65,2
+"guaramacalensis",101,26,2
+"guanacaste",106,113,1
+"guttolineata",104,13,2
+"gulolineatus",104,57,1
 "Guangxi Warty Newt",103,53,2
+"guanxiensis",103,53,2
 "Gulf Coast Waterdog",98,193,1
+"guabangshanensis",344,40,2
+"guntheri",113,43,2

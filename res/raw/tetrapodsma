@@ -1,458 +1,1921 @@
 name,fileindex,index,whichChild
+"major",125,21,2
 "Masked Flowerpiercer",125,38,2
+"margaritae",125,116,1
 "Marsh Seedeater",127,16,2
+"maximiliani",125,129,2
 "Masked Crimson Tanager",130,39,1
+"maximus",124,67,2
+"maxillosus",124,68,2
 "Masked Saltator",124,70,2
 "Many-coloured Chaco-finch",124,72,1
 "Masked Tanager",128,72,2
 "Mangrove Finch",129,18,2
+"magnirostris",129,27,2
 "Masked Mountain-tanager",128,115,1
+"Santa Marta Mountain-tanager",128,121,2
 "Magpie Tanager",128,171,2
+"maculatus",145,26,2
+"Sierra Madre Sparrow",145,63,2
+"maritimus",145,75,2
+"Santa Marta Brush-finch",142,70,1
+"Brown-and-yellow Marshbird",143,11,1
+"Yellow-rumped Marshbird",143,12,2
+"Macroagelaius",143,39,1
+"Macroagelaius",143,40,2
+"major",143,76,2
 "Martinique Oriole",147,10,1
+"maculialatus",147,24,2
+"magna",142,177,2
+"Santa Marta Warbler",144,66,1
+"Cape May Warbler",144,140,2
 "Magnolia Warbler",144,149,2
+"magnolia",144,149,2
 "Masked Yellowthroat",144,183,1
 "MacGillivray's Warbler",144,188,1
+"magellanica",138,24,2
 "Maui Parrotbill",135,97,2
+"mana",135,109,1
+"maculata",135,112,1
 "Maui Alauahio",135,113,2
 "Malindi Pipit",123,53,1
+"Macronyx",123,87,1
+"Macronyx",123,88,2
+"Macronyx",123,89,2
+"Macronyx",123,90,2
+"Macronyx",123,92,1
+"Macronyx",123,93,2
+"Macronyx",123,95,1
+"Macronyx",123,96,2
+"madaraspatensis",123,108,1
 "Madagascar Wagtail",123,117,2
 "Madagascar Munia",132,17,2
+"malabarica",132,34,1
+"maja",132,52,2
+"malacca",132,53,2
 "Magpie Munia",132,73,2
 "Masked Finch",132,98,2
 "Mali Firefinch",133,33,2
+"margaritatus",132,163,1
+"Mandingoa",134,50,2
+"maryae",121,40,2
+"macroura",121,43,2
+"Lesser Masked Weaver",141,9,1
+"Tanzania Masked-weaver",141,11,2
+"Northern Masked-weaver",141,15,1
+"Southern Masked-weaver",141,42,2
+"Heuglin's Masked-weaver",140,11,1
+"Vitelline Masked-weaver",140,16,1
 "Maxwell's Black Weaver",140,18,2
+"Katanga Masked-weaver",140,51,1
+"manyar",140,61,2
+"Red-bellied Malimbe",140,87,1
+"Malimbus",140,87,1
+"Gray's Malimbe",140,88,2
+"Malimbus",140,88,2
+"Red-vented Malimbe",140,90,1
+"Malimbus",140,90,1
+"Ibadan Malimbe",140,91,2
+"Malimbus",140,91,2
+"Gola Malimbe",140,92,2
+"Malimbus",140,92,2
+"Rachel's Malimbe",140,94,1
+"Malimbus",140,94,1
+"Crested Malimbe",140,95,2
+"malimbicus",140,95,2
+"Malimbus",140,95,2
+"Red-headed Malimbe",140,97,1
+"Malimbus",140,97,1
+"Red-crowned Malimbe",140,98,2
+"Malimbus",140,98,2
+"Black-throated Malimbe",140,99,2
+"Malimbus",140,99,2
 "Marsh Widowbird",140,113,2
+"macroura",140,117,2
 "Mauritius Fody",140,141,2
 "Madagascar Red Fody",140,144,1
+"madagascariensis",140,144,1
+"mahali",140,169,2
 "Maroon-backed Accentor",121,86,1
 "Malachite Sunbird",131,12,2
 "Mariqua Sunbird",131,26,2
+"mariquensis",131,26,2
+"manoensis",131,56,1
 "Mayotte Sunbird",131,119,2
+"malacensis",121,127,1
+"maugei",139,62,2
+"maculatus",139,88,2
+"magna",139,97,2
+"macrorhynchus",184,94,1
+"magnirostris",187,36,1
 "Matinan Flycatcher",187,40,2
 "Malaysian Blue-flycatcher",187,50,1
 "Malaysian Whistling-thrush",183,44,1
 "Malabar Whistling-thrush",183,49,1
+"maculatus",183,60,2
 "Mangrove Blue-flycatcher",183,121,2
+"macgrigoriae",183,151,1
+"major",183,157,2
 "Marico Flycatcher",183,201,2
+"mariquensis",183,201,2
+"malabaricus",186,9,2
+"Oriental Magpie-robin",186,18,1
+"Seychelles Magpie-robin",186,20,2
 "Madagascar Magpie-robin",186,21,2
+"Madagascar Magpie-robin",186,21,2
+"maculirostris",189,15,2
 "Maranon Thrush",189,47,2
+"maranonicus",189,47,2
+"major",188,144,2
+"marginata",188,151,2
 "Makira Thrush",188,207,1
+"margaretae",188,207,1
+"machiki",188,210,1
 "Magpie Starling",191,66,2
+"malabaricus",191,124,1
 "Madagascar Starling",191,144,2
+"magna",194,37,1
+"macdonaldi",192,17,2
+"Margarops",192,59,2
+"Margarops",192,60,2
+"maculipectus",190,18,1
+"Santa Marta Wren",190,79,1
 "Marsh Wren",190,92,2
+"marginatus",181,85,2
 "Masked Gnatcatcher",181,114,2
 "Manipur Treecreeper",181,139,2
+"manipurensis",181,139,2
+"magna",182,35,2
 "Madeira Kinglet",181,170,1
+"madeirensis",181,170,1
 "Malayan Laughingthrush",164,12,2
 "Masked Laughingthrush",164,40,1
+"maximus",164,56,2
+"malcolmi",164,111,2
+"maesi",163,31,2
+"malacoptilus",165,10,1
+"malaccensis",165,24,1
+"Malacocincla",165,24,1
+"Malacocincla",165,25,2
+"Malacocincla",165,26,2
+"Malacocincla",165,27,2
+"Malacocincla",165,28,2
 "Marsh Babbler",165,63,2
+"Malacopteron",165,75,1
+"magnum",165,76,2
+"Malacopteron",165,76,2
+"Malacopteron",165,77,2
+"Malacopteron",165,78,2
+"Malacopteron",165,80,1
+"magnirostre",165,81,2
+"Malacopteron",165,81,2
+"macrodactylus",165,87,2
 "Marbled Wren-babbler",165,88,2
+"marmorata",165,88,2
 "Malia",167,23,2
+"Malia",167,23,2
+"Macronous",163,78,1
+"Macronous",163,79,2
+"Macronous",163,95,1
+"maculata",163,96,2
+"Macronous",163,97,2
+"Macronous",163,98,2
+"Macronous",163,104,2
 "Malaita White-eye",166,75,2
 "Madagascar White-eye",166,128,1
+"maderaspatanus",166,128,1
 "Mascarene Grey White-eye",166,136,2
 "Mayotte White-eye",166,146,2
+"mayottensis",166,146,2
+"Madanga",166,148,2
 "Mauritius Olive White-eye",166,163,1
+"marchei",166,194,2
+"margaritae",179,14,2
+"manipurensis",179,50,1
 "Marmora's Warbler",179,105,2
+"mandelli",176,14,1
+"major",177,27,1
+"mathewsi",177,35,1
 "Marsh Warbler",176,57,1
 "Marsh Grassbird",176,58,2
+"mariei",176,70,2
+"madagascariensis",176,75,2
 "Madagascar Yellowbrow",176,77,1
 "Marquesan Reed-warbler",176,93,1
 "Madagascar Swamp-warbler",176,120,1
 "Manchurian Reed-warbler",176,135,1
+"mariae",176,179,2
 "Madagascar Brush-warbler",176,182,2
+"maculosa",170,34,2
+"Malcorus",170,95,2
 "Masked Apalis",171,34,2
 "Madagascar Cisticola",170,151,2
 "Madagascar Black Bulbul",175,9,1
+"madagascariensis",175,9,1
 "Mauritius Black Bulbul",175,10,2
+"malaccensis",175,31,2
+"masukuensis",174,183,2
+"madagascariensis",161,17,2
+"magnirostris",162,43,2
 "Martens's Warbler",162,65,2
 "Makira Leaf-warbler",162,114,1
+"makirensis",162,114,1
+"maculipennis",162,135,2
+"major",162,192,1
 "Manchurian Bush-warbler",162,201,1
+"Swallows and martins",178,0,2
+"Rock Martin",178,40,2
+"Tree Martin",178,51,2
+"Fairy Martin",178,52,2
+"Grey-breasted Martin",178,103,1
+"Sinaloa Martin",178,104,2
+"Galapagos Martin",178,106,1
+"Peruvian Martin",178,107,2
+"Southern Martin",178,108,2
+"Caribbean Martin",178,110,1
+"Cuban Martin",178,111,2
+"Purple Martin",178,112,2
+"Brown-chested Martin",178,113,2
 "Mangrove Swallow",178,140,2
+"Plain Martin",178,153,1
+"Sand Martin",178,154,2
+"Brazza's Martin",178,158,1
+"Congo Martin",178,159,2
+"Banded Martin",178,160,2
 "Mascarene Martin",178,161,2
+"Mascarene Martin",178,161,2
+"Macrosphenus",161,48,1
+"Macrosphenus",161,49,2
+"Macrosphenus",161,51,1
+"Macrosphenus",161,52,2
+"Macrosphenus",161,53,2
 "Malabar Lark",173,12,1
+"malabarica",173,12,1
+"magnirostris",173,17,1
 "Masked Lark",173,33,2
+"maxima",173,45,2
 "Madagascar Lark",173,124,2
 "Marsh Tit",169,88,1
+"major",169,89,2
+"macronyx",161,152,2
+"macrocephala",151,24,2
 "Mangrove Robin",151,56,2
+"macrocerus",120,14,2
+"Mayrornis",159,21,1
+"Mayrornis",159,22,2
+"Mayrornis",159,23,2
 "Marquesan Monarch",159,32,2
 "Manus Monarch",159,72,2
+"manadensis",159,84,2
 "Mangrove Flycatcher",159,107,2
 "Makira Flycatcher",159,109,2
 "Magpie-lark",159,137,1
 "Madagascar Paradise-flycatcher",152,27,2
 "Mascarene Paradise-flycatcher",152,33,1
 "Magnificent Bird-of-paradise",160,22,1
+"magnificus",160,22,1
+"mayeri",160,31,2
 "Magnificent Riflebird",160,50,1
+"magnificus",160,50,1
+"Crinkle-collared Manucode",160,73,1
+"Manucodia",160,73,1
+"Curl-crested Manucode",160,74,2
+"Manucodia",160,74,2
+"Glossy-mantled Manucode",160,75,2
+"Manucodia",160,75,2
+"Jobi Manucode",160,76,2
+"Manucodia",160,76,2
+"Trumpet Manucode",160,77,2
+"Manucodia",160,77,2
 "Manus Fantail",153,14,2
 "Mangrove Fantail",153,15,2
 "Malaita Fantail",153,41,1
+"malaitae",153,41,1
+"maculipectus",153,73,1
 "Matthias Fantail",153,74,2
+"matthiae",153,74,2
 "Magpies and Jays",157,3,1
+"macrorhynchos",158,58,1
 "Mariana Crow",158,59,2
+"Yellow-billed Magpie",157,15,1
+"Black-billed Magpie",157,16,2
+"Black-billed Magpie",157,17,2
+"White-throated Magpie-jay",157,72,1
+"Black-throated Magpie-jay",157,73,2
+"Azure-winged Magpie",157,112,2
 "Magpies",157,113,2
+"Gold-billed Magpie",157,118,1
+"Taiwan Magpie",157,119,2
+"Sri Lanka Magpie",157,120,2
+"White-winged Magpie",157,121,2
+"Blue Magpie",157,122,2
+"Yellow-breasted Magpie",157,125,1
+"Short-tailed Magpie",157,126,2
+"Green Magpie",157,127,2
+"Black Magpie",157,144,2
 "Mackinnon's Shrike",157,173,1
+"mackinnoni",157,173,1
 "Masked Shrike",157,181,1
+"marwitzi",157,182,2
 "Magpie Shrike",157,206,1
 "Mayotte Drongo",152,59,2
+"macrocercus",152,67,2
 "Maroon Oriole",155,28,2
+"magister",154,20,2
+"masteri",154,40,2
 "Mangrove Vireo",154,45,2
 "Mangrove Whistler",156,13,2
 "Maroon-backed Whistler",152,171,2
+"madagascarinus",195,25,2
+"madagascariensis",195,28,1
 "Maroon-breasted Philentoma",195,53,2
+"Malaconotidae",195,56,1
+"margaritae",196,34,1
+"Malaconotidae",198,0,1
 "Many-coloured Bush-shrike",198,42,2
 "Marsh Tchagra",198,79,2
+"Malaconotus",198,84,1
+"Malaconotus",198,85,2
+"Malaconotus",198,86,2
+"Malaconotus",198,88,1
+"Malaconotus",198,89,2
+"Malaconotus",198,90,2
+"maximus",199,15,2
 "Masked Woodswallow",199,20,2
+"Australian Magpie",199,38,2
+"Machaerirhynchidae",195,85,2
+"Machaerirhynchus",195,86,1
+"Machaerirhynchus",195,87,2
 "Mauritius Cuckooshrike",197,54,1
+"maculosa",197,72,2
+"macei",200,16,2
+"maxima",200,26,1
+"macgregorii",120,45,2
 "Mao",148,29,2
 "Macleay's Honeyeater",148,104,2
+"macleayanus",148,104,2
+"malaitae",149,49,2
+"Manorina",150,28,1
+"Manorina",150,29,2
+"Manorina",150,31,1
+"Manorina",150,32,2
 "Mangrove Honeyeater",150,38,1
 "Marbled Honeyeater",148,132,2
+"Macgregoria",148,175,2
 "Mayr's Honeyeater",148,202,2
+"mayri",148,202,2
+"magnirostra",180,12,1
+"magna",180,84,2
+"magnirostris",180,109,1
 "Mangrove Gerygone",180,112,1
+"Maluridae",120,82,2
+"Malurus",120,91,1
+"Malurus",120,92,2
+"Malurus",120,94,1
+"Malurus",120,95,2
+"Malurus",120,97,1
+"Malurus",120,98,2
+"Malurus",120,102,1
+"Malurus",120,103,2
+"Malurus",120,104,2
+"Malurus",120,105,2
+"Malurus",120,106,2
+"Malurus",120,108,1
+"Malurus",120,109,2
+"malachurus",120,115,1
 "Mallee Emuwren",120,116,2
+"mallee",120,116,2
+"maculata",120,149,2
 "Masked Bowerbird",120,154,2
 "Macgregor's Bowerbird",120,170,2
+"macgregoriae",120,170,2
 "MacConnell's Spinetail",233,39,2
+"macconnelli",233,39,2
 "Maranon Spinetail",233,54,2
+"maranonica",233,54,2
 "Marcapata Spinetail",234,35,2
+"marcapatae",234,35,2
+"macroura",233,93,1
+"maluroides",233,114,2
+"maculicauda",233,117,1
 "Maquis Canastero",233,145,2
 "Many-striped Canastero",233,162,2
+"maculipectus",230,26,2
 "Masafuera Rayadito",230,51,2
+"masafuerae",230,51,2
+"Margarornis",230,57,1
+"Margarornis",230,58,2
+"Margarornis",230,59,2
+"Margarornis",230,60,2
+"major",230,146,2
 "Mato Grosso Woodcreeper",230,154,1
+"maritima",229,16,2
 "Mayan Antthrush",229,50,2
+"Santa Marta Tapaculo",248,19,1
 "Marsh Tapaculo",248,42,2
+"macropus",248,49,2
+"Upper Magdalena Tapaculo",248,50,2
 "Magellanic Tapaculo",248,67,1
+"magellanicus",248,67,1
+"Santa Marta Antpitta",248,153,1
 "Masked Antpitta",248,178,2
+"macularius",248,182,2
+"maximiliani",229,88,1
 "Maranon Crescentchest",229,90,2
+"maranonica",229,90,2
+"malura",245,20,2
 "Mato Grosso Antbird",245,46,1
 "Manu Antbird",245,49,2
+"manu",245,49,2
+"maculicauda",247,45,2
+"Mackenziaena",245,103,1
+"Mackenziaena",245,104,2
+"major",245,112,2
+"margaritatus",245,126,2
+"maculata",229,103,2
+"Santa Marta Bush-tyrant",238,32,2
+"maclovianus",238,52,1
+"maculirostris",238,64,2
 "Maroon-belted Chat-Tyrant",241,16,2
+"White-headed Marsh-tyrant",241,44,2
 "Masked Water-tyrant",241,54,2
+"magnirostris",236,15,1
+"maculatus",236,119,2
+"Machetornis",236,132,2
 "Maranon Tit-tyrant",240,39,2
+"martinica",244,15,2
+"Cinnamon Manakin-tyrant",235,80,2
+"margaritaceiventer",239,49,1
+"maculatum",235,127,2
 "Maracaibo Tody-flycatcher",235,129,2
+"Serra Do Mar Tyrannulet",237,19,2
 "Marble-faced Bristle-tyrant",237,26,1
 "MacConnell's Flycatcher",237,52,2
+"macconnelli",237,52,2
 "Many-coloured Rush-tyrant",235,167,2
+"marginatus",251,30,2
+"major",251,31,2
 "Masked Tityra",251,40,1
+"major",251,60,2
+"maynana",249,14,1
+"maculata",249,18,2
 "Masked Fruiteater",249,74,2
 "Manakins",249,89,2
+"Golden-headed Manakin",249,99,1
+"Red-capped Manakin",249,100,2
+"Red-headed Manakin",249,101,2
+"Club-winged Manakin",249,103,1
+"Machaeropterus",249,103,1
+"White-crowned Manakin",249,104,2
+"Round-tailed Manakin",249,106,1
+"Scarlet-horned Manakin",249,107,2
+"Fiery-capped Manakin",249,109,1
+"Machaeropterus",249,109,1
+"Striped Manakin",249,110,2
+"Machaeropterus",249,110,2
+"Band-tailed Manakin",249,113,1
+"Crimson-hooded Manakin",249,114,2
+"Wire-tailed Manakin",249,115,2
+"Golden-collared Manakin",249,119,1
+"Manacus",249,119,1
+"White-bearded Manakin",249,120,2
+"manacus",249,120,2
+"Manacus",249,120,2
+"Orange-collared Manakin",249,122,1
+"Manacus",249,122,1
+"White-collared Manakin",249,123,2
+"Manacus",249,123,2
+"Orange-crested Manakin",249,126,1
+"Yellow-crested Manakin",249,127,2
+"Flame-crested Manakin",249,128,2
+"Cerulean-capped Manakin",249,133,1
+"Opal-crowned Manakin",249,134,2
+"Blue-crowned Manakin",249,136,1
+"Snow-capped Manakin",249,137,2
+"Orange-bellied Manakin",249,140,1
+"White-fronted Manakin",249,141,2
+"Golden-crowned Manakin",249,142,2
+"Blue-rumped Manakin",249,143,2
+"Lance-tailed Manakin",249,150,1
+"Blue-backed Manakin",249,151,2
+"Swallow-tailed Manakin",249,153,1
+"Yungas Manakin",249,154,2
+"Long-tailed Manakin",249,155,2
+"Araripe Manakin",249,157,1
+"Helmeted Manakin",249,158,2
+"White-throated Manakin",249,163,1
+"White-bibbed Manakin",249,164,2
+"White-ruffed Manakin",249,165,2
+"Golden-winged Manakin",249,166,2
+"Masius",249,166,2
+"Pin-tailed Manakin",249,167,2
+"Green Manakin",249,171,1
+"Jet Manakin",249,172,2
+"Yellow-headed Manakin",249,173,2
+"Black Manakin",249,175,1
+"Olive Manakin",249,176,2
+"Serra do Mar Tyrant-manakin",249,183,2
+"maxima",229,145,2
 "Mangrove Pitta",229,194,1
+"macrorhynchos",229,214,1
+"margarethae",216,74,2
 "Malherbe's Parakeet",218,12,1
+"malherbi",218,12,1
 "Madarasz's Tiger-parrot",218,26,2
+"madaraszi",218,26,2
 "Masked Shining-parrot",218,30,1
 "Malabar Parakeet",220,10,2
 "Mauritius Parakeet",220,18,2
+"mada",220,57,2
+"Parrotlets, Parakeets, Macaws and more",215,66,2
 "Macaws and other Parakeets",217,2,1
+"Red-and-green Macaw",217,53,1
+"Scarlet Macaw",217,54,2
+"macao",217,54,2
+"Chestnut-fronted Macaw",217,55,2
+"Red-fronted Macaw",217,56,2
+"Blue-throated Macaw",217,58,1
+"Great Green Macaw",217,59,2
+"Blue-and-yellow Macaw",217,61,1
+"Military Macaw",217,62,2
+"Red-bellied Macaw",217,63,2
+"manilata",217,63,2
+"Yellow-collared Macaw",217,66,1
+"Blue-winged Macaw",217,67,2
+"maracana",217,67,2
+"Blue-headed Macaw",217,68,2
+"Spix's Macaw",217,69,2
+"Red-shouldered Macaw",217,73,1
+"Hyacinth Macaw",217,77,1
+"Lear's Macaw",217,78,2
 "Maroon-tailed Parakeet",217,89,2
 "Maroon-bellied Parakeet",217,103,1
 "Maroon-faced Parakeet",217,111,2
+"Santa Marta Parakeet",217,120,2
 "Maroon-fronted Parrot",217,124,2
+"maximiliani",221,77,1
+"malachitacea",221,102,2
 "Major Mitchell's Cockatoo",215,142,2
 "Mauritius Kestrel",222,66,2
 "Madagascar Kestrel",222,68,1
+"macrourus",114,39,1
+"maculifrons",206,30,2
+"major",206,64,2
+"macei",206,71,1
+"mahrattensis",206,107,1
+"maculatus",206,124,1
+"martius",208,36,2
+"maculosa",208,107,1
 "Magellanic Woodpecker",206,191,2
+"magellanicus",206,191,2
 "Maroon Woodpecker",206,202,1
+"maculatus",201,18,2
 "Malaysian Honeyguide",201,31,2
+"maculirostris",204,15,2
 "Many-banded Aracari",204,47,2
+"maculicoronatus",204,82,1
+"makawai",205,47,1
+"margaritatus",204,125,1
+"macrorhynchos",209,8,2
+"Malacoptila",209,34,1
+"Malacoptila",209,35,2
+"Malacoptila",209,37,1
+"Malacoptila",209,38,2
+"Malacoptila",209,40,1
+"Malacoptila",209,41,2
+"Malacoptila",209,42,2
+"maculatus",201,54,2
+"macrodactylus",201,58,1
+"macleayii",202,23,2
 "Mangaia Kingfisher",202,35,1
 "Marquesan Kingfisher",202,38,1
+"macrorrhina",202,94,2
+"malimbica",202,105,1
 "Mangrove Kingfisher",202,107,2
+"maxima",202,141,2
 "Madagascar Kingfisher",202,180,1
 "Malachite Kingfisher",202,181,2
 "Madagascar Pygmy-kingfisher",202,183,2
+"madagascariensis",202,183,2
+"martii",202,198,2
 "Madagascar Bee-eater",210,14,1
+"malimbicus",210,26,2
+"manillae",203,11,2
+"marchei",203,41,2
 "Malabar Pied Hornbill",203,43,1
+"malayanus",203,44,2
 "Malabar Grey Hornbill",203,72,2
+"massena",252,25,2
 "Masked Trogon",252,37,2
 "Malabar Trogon",252,60,2
+"mackloti",252,83,1
+"magellanicus",225,30,2
 "Maned Owl",228,46,2
+"marshalli",227,20,1
+"manadensis",227,49,2
 "Marsh Owl",224,18,2
 "Madagascar Owl",224,22,1
+"madagascariensis",224,22,1
+"magicus",224,32,2
 "Malagasy Scops-owl",224,45,1
 "Mayotte Scops-owl",224,47,2
+"mayottensis",224,47,2
 "Mantanani Scops-owl",224,97,1
+"mantananensis",224,97,1
 "Manus Hawk-owl",224,163,2
+"Australian Masked-owl",224,179,2
+"Bismarck Masked-owl",224,183,2
 "Manus Masked-owl",224,189,2
+"Manus Masked-owl",224,189,2
+"manusi",224,189,2
+"Taliabu Masked-owl",224,191,1
 "Madagascar Red Owl",224,194,1
+"Lesser Masked-owl",224,195,2
 "Madagascar Buzzard",118,54,1
 "Mantled Hawk",118,61,1
+"magnirostris",118,74,2
 "Madagascar Fish-eagle",115,19,1
+"macrourus",115,50,2
+"Western Marsh-harrier",117,11,1
+"African Marsh-harrier",117,12,2
 "Madagascar Harrier",117,21,2
+"macrosceles",117,21,2
+"maillardi",117,22,2
+"Eastern Marsh-harrier",117,28,1
+"maurus",117,30,2
+"macrourus",117,31,2
 "Madagascar Sparrowhawk",117,127,1
+"madagascariensis",117,127,1
+"malayensis",116,43,2
 "Martial Eagle",116,45,2
+"Macheiramphus",115,59,2
 "Madagascar Baza",115,127,1
+"madagascariensis",115,127,1
 "Madagascar Serpent-eagle",115,143,2
 "Madagascar Harrier-hawk",115,154,1
+"marinus",214,27,2
+"maculipennis",212,41,1
+"maxima",213,25,2
 "Marbled Murrelet",212,133,2
+"marmoratus",212,133,2
+"maccormicki",212,158,2
 "Madagascar Pratincole",114,65,1
+"maldivarum",114,67,2
+"maculosus",114,93,2
 "Madagascar Buttonquail",114,102,1
 "Madagascar Snipe",223,36,1
+"macrodactyla",223,36,1
 "Marsh Sandpiper",223,78,2
+"macularius",223,89,1
+"mauri",223,110,2
+"maritima",223,123,2
 "Marbled Godwit",223,156,2
+"madagascariensis",223,168,2
 "Madagascar Jacana",114,127,1
+"malouinus",114,145,1
+"malarbaricus",119,29,1
 "Masked Lapwing",119,30,2
 "Malaysian Plover",119,60,2
+"marginatus",119,66,1
 "Madagascar Plover",119,91,2
 "Magellanic Oystercatcher",119,136,2
 "Magellanic Plover",114,171,2
 "Madagascar Pond-heron",354,15,2
 "Malaysian Night-heron",354,28,1
+"magnificus",354,30,2
 "Madagascar Heron",354,54,1
 "Madagascar Sacred Ibis",354,138,2
 "Madagascar Crested Ibis",354,152,1
+"magellanicus",364,34,2
 "Masked Booby",364,83,1
 "Magnificent Frigatebird",364,97,1
+"magnificens",364,97,1
 "Maguari Stork",346,16,2
+"maguari",346,16,2
 "Marabou Stork",346,25,1
 "Mascarene Petrel",359,8,1
 "Manx Shearwater",359,15,2
+"mauretanicus",359,17,1
+"macgillivrayi",357,16,2
+"macroptera",358,51,1
 "Magenta Petrel",358,54,2
+"magentae",358,54,2
+"madeira",358,58,1
 "Magellanic Diving-petrel",357,51,2
+"magellani",357,51,2
+"Macronectes",357,58,1
+"Macronectes",357,59,2
+"marina",357,115,2
+"maorianus",357,123,2
 "Markham's Storm-petrel",357,134,1
+"markhami",357,134,1
 "Matsudaira's Storm-petrel",357,138,1
+"matsudairae",357,138,1
 "Madeiran Storm-petrel",357,150,2
 "Macaroni Penguin",357,163,1
 "Magellanic Penguin",357,173,1
+"magellanicus",357,173,1
+"macrorhynchus",346,83,2
 "Malkoha, Koels and other cuckoos",355,1,1
 "Madagascar Cuckoo",355,23,2
+"maculatus",355,91,1
 "Mangrove Cuckoo",356,21,2
 "Malkohas",356,37,1
+"Green-billed Malkoha",356,43,1
+"Black-bellied Malkoha",356,44,2
+"Chestnut-bellied Malkoha",356,45,2
+"Red-faced Malkoha",356,46,2
+"Chestnut-breasted Malkoha",356,48,1
+"Blue-faced Malkoha",356,49,2
+"Sirkeer Malkoha",356,51,1
+"Red-billed Malkoha",356,52,2
+"Red-crested Malkoha",356,55,1
+"Scale-feathered Malkoha",356,56,2
+"Yellow-billed Malkoha",356,57,2
+"Raffles's Malkoha",355,108,2
 "Madagascar Coucal",355,125,2
+"major",346,129,2
 "Makira Moorhen",360,17,1
 "Madagascar Wood Rail",360,33,1
 "Madagascar Rail",362,30,1
+"madagascariensis",362,30,1
+"magnirostris",362,53,2
+"mangle",360,95,1
+"maculatus",360,101,2
 "Mayr's Forest-rail",361,38,2
+"mayri",361,38,2
+"martinica",361,55,1
+"marginalis",360,114,1
 "Masked Finfoot",360,126,2
 "Madagascar Flufftail",360,151,2
 "Many-coloured Fruit-dove",350,33,2
 "Madagascar Blue-pigeon",350,45,2
+"madagascariensis",350,45,2
 "Makatea Fruit-dove",350,64,1
+"magnificus",350,74,1
+"marchei",350,81,2
 "Maroon-chinned Fruit-dove",350,87,2
 "Mariana Fruit-dove",350,106,2
 "Marquesan Imperial-pigeon",352,20,2
+"mada",352,80,2
 "Madagascar Green-pigeon",351,10,1
+"maugeus",347,58,2
 "Marquesan Ground-dove",347,79,2
+"malherbii",348,29,1
 "Madeira Laurel Pigeon",348,41,2
 "Maroon Pigeon",348,52,2
 "Madagascar Turtle-dove",348,95,1
+"mayeri",348,96,2
+"Macropygia",347,121,1
+"Macropygia",347,122,2
+"Macropygia",347,123,2
+"magna",347,124,2
+"Macropygia",347,124,2
+"Macropygia",347,126,1
+"Macropygia",347,127,2
+"Macropygia",347,131,1
+"Macropygia",347,132,2
+"Macropygia",347,133,2
 "Mackinlay's Cuckoo-dove",347,134,2
+"mackinlayi",347,134,2
+"Macropygia",347,134,2
+"manadensis",347,136,1
+"maculosa",347,169,1
+"macroura",349,24,1
 "Maroon-chested Ground-dove",347,207,1
 "Madagascar Sandgrouse",346,155,2
+"major",353,13,2
 "Madagascar Grebe",353,35,2
 "Mangrove Hummingbird",327,79,1
 "Many-spotted Hummingbird",326,11,2
+"macroura",326,13,1
+"macrocerca",326,49,2
+"Santa Marta Sabrewing",326,56,1
+"maugaeus",326,109,1
+"Santa Marta Woodstar",328,10,1
 "Magenta-throated Woodstar",328,21,2
 "Magnificent Hummingbird",326,179,2
+"mavors",332,77,2
+"magnificus",332,101,2
 "Marvellous Spatuletail",332,140,1
+"matthewsii",332,148,2
 "Mangoes and Caribs",330,5,1
+"Green-breasted Mango",330,11,1
+"Veraguan Mango",330,12,2
+"Green-throated Mango",330,13,2
+"Black-throated Mango",330,14,2
+"Jamaican Mango",330,15,2
+"mango",330,15,2
+"Green Mango",330,20,2
+"Antillean Mango",330,21,2
+"malaris",325,45,2
 "Mascarene Swiftlet",329,15,2
 "Marquesan Swiftlet",329,24,2
+"maxima",329,35,1
 "Mayr's Swiftlet",329,65,2
 "Madagascar Swift",329,95,2
+"martinica",329,148,2
 "Malagasy Spinetail",329,168,2
 "Marbled Frogmouth",324,96,2
+"Macropsalis",324,138,2
+"maculicaudus",324,155,2
+"maculosus",324,170,2
+"Macrodipteryx",331,19,1
+"Macrodipteryx",331,20,2
+"manillensis",331,27,1
+"macrurus",331,36,1
 "Madagascar Nightjar",331,40,1
+"madagascariensis",331,40,1
+"macrotis",324,185,2
 "Malaysian Eared-nightjar",324,192,1
+"mahrattensis",324,208,2
+"maculosus",324,215,2
+"mantchuricum",312,36,1
+"macrolopha",312,62,2
 "Malayan Peacock-pheasant",312,188,2
+"malacense",312,188,2
+"magna",317,54,1
 "Manipur Bush-quail",317,69,2
+"manipurensis",317,69,2
 "Madagascar Partridge",317,92,1
+"madagascariensis",317,92,1
+"Margaroperdix",317,92,1
 "Malaysian Partridge",314,30,2
+"mandellii",314,35,1
 "Marbled Wood-quail",315,13,2
+"macroura",310,18,1
 "Marail Guan",311,17,2
+"marail",311,17,2
 "Maleo",310,115,2
+"maleo",310,115,2
+"Macrocephalon",310,115,2
 "Malleefowl",310,128,2
+"Waterfowl, Screamers and Magpie Goose",310,129,2
 "Mandarin Duck",313,69,1
 "Madagascar Pochard",313,83,2
+"marila",313,91,2
 "Marbled Teal",313,105,2
+"Marmaronetta",313,105,2
+"malacorhynchos",313,114,2
 "Madagascar Teal",313,133,2
 "Mallard",313,159,2
 "Maccoa Duck",310,144,2
+"maccoa",310,144,2
 "Masked Duck",310,148,2
+"Malacorhynchus",316,48,2
 "Magpie Goose",310,166,2
+"major",253,51,2
+"maculicollis",253,74,2
+"maculosa",253,80,2
+"mantelli",0,23,2
+"Mauremys",96,13,2
+"Mauremys",96,31,1
+"Mauremys",96,32,2
+"Mauremys",96,35,1
+"Mauremys",96,36,2
+"Mauremys",96,39,1
+"Mauremys",96,40,2
+"Mauremys",96,41,2
+"Mauremys",96,44,1
+"Mauremys",96,47,1
+"Mauremys",96,48,2
 "Malayan Flat-shelled Turtle",94,43,1
+"Malayemys",94,78,2
 "Marginated Tortoise",94,112,1
 "Marginated Tortoise",94,113,2
+"marginata",94,113,2
+"Malacochersus",94,120,2
+"Manouria",94,135,1
+"Manouria",94,136,2
 "Map Turtles",95,5,1
+"Barbour's Map Turtle",95,10,1
+"Texas Map Turtle",95,11,2
+"Pascagoula Map Turtle",95,12,2
+"Yellow-blotched Map Turtle",95,14,1
+"Ouachita Map Turtle",95,15,2
+"Alabama Map Turtle",95,16,2
+"Mississippi Map Turtle",95,20,1
+"Ringed Map Turtle",95,21,2
+"False Map Turtle",95,23,1
+"Black-knobbed Map Turtle",95,24,2
+"Cagle's Map Turtle",95,25,2
+"Northern Map Turtle",95,27,2
+"Malaclemys",95,33,2
+"marmorata",94,143,1
+"Macrochelys",94,163,1
+"mawii",94,183,2
 "Malayan Soft-shelled Turtle",343,19,2
 "Magdalena River Turtle",0,86,2
 "Madagascar Big-headed Turtle",0,93,1
+"madagascariensis",0,93,1
+"macrocephala",0,107,2
 "Mata-mata",0,111,2
+"maculilabris",305,27,1
+"Mabuya",305,98,1
+"Mabuya",305,99,2
+"Mabuya",305,100,2
+"macrorhyncha",305,101,2
+"Mabuya",305,101,2
+"Mabuya",305,103,1
+"mabouya",305,104,2
+"Mabuya",305,104,2
+"Mabuya",305,107,1
+"Mabuya",305,108,2
+"Mabuya",305,109,2
+"Mabuya",305,110,2
+"Mabuya",305,111,2
+"Mabuya",305,113,1
+"Mabuya",305,114,2
+"macularia",305,117,1
+"Mabuya",305,117,1
+"Mabuya",305,118,2
+"Mabuya",305,119,2
+"macularia",305,129,2
+"maini",306,41,1
+"maxima",305,173,2
+"maculatus",307,36,2
+"margaretae",307,98,1
+"major",307,99,2
+"macropisthopus",300,19,2
+"martini",301,11,2
 "Marbled Skink",300,180,1
 "Many-scaled Cylindrical Skink",303,15,1
+"mauritanicus",303,33,2
 "Manuel's Skink",303,34,2
+"manueli",303,34,2
+"macrocercus",303,80,1
+"managuae",303,121,2
+"mackayi",298,61,2
+"macropholis",298,98,2
+"maculatus",298,113,2
+"macrolepis",298,116,1
+"major",298,128,2
+"maximus",298,138,1
 "Madagascar Girdled Lizard",298,140,2
+"madagascariensis",298,140,2
+"madagascariensis",298,142,1
+"maculatus",299,20,2
 "Madeira Lizard",308,21,1
+"marchi",308,30,2
+"manicatus",304,21,2
+"maynardi",309,52,2
+"maculatus",309,83,2
+"macropus",405,65,2
+"marmoratus",415,22,1
+"Galapagos Marine Iguana",415,38,2
 "Malagasy Iguanian Lizards",405,69,1
+"madagascariensis",405,76,2
+"marmoratus",409,65,1
+"malachiticus",408,33,1
+"magister",408,49,1
+"maculosus",408,64,2
+"maculata",414,31,2
+"marmoratus",406,19,2
+"maximus",406,70,2
+"maculatus",406,73,2
+"maculatus",406,117,2
+"magna",413,40,2
+"maculatus",413,67,2
+"martindelcampi",405,189,2
 "Madrean Alligator Lizard",405,203,2
+"Mastigodryas",337,21,1
+"Macroprotodon",337,65,2
+"major",338,71,1
+"maculatus",335,53,2
+"marcianus",335,131,1
+"Macropisthodon",335,171,2
 "Many Toothed Snakes",335,178,1
+"maculata",336,14,2
+"Magliophis",336,76,2
+"Manolepis",336,97,2
+"Eastern Green Mamba",340,47,1
+"Madagascarophis",340,72,2
+"madagascariensis",340,77,2
+"madagascariensis",340,79,1
+"Macrelaps",340,126,2
+"mahfalensis",340,148,2
+"Malpolon",340,152,1
+"Glossy Marsh Snake",340,162,2
+"malabaricus",339,44,2
+"Macrovipera",339,77,1
+"macmahoni",339,82,2
+"maculatus",334,54,1
+"mackloti",334,66,2
 "Madagascar Tree Boa",334,103,1
+"madagascariensis",334,103,1
+"macrolepis",334,121,1
+"manni",334,171,2
+"maculata",319,37,2
+"madagascariensis",319,43,2
 "Marbled Geckos",321,11,2
+"marmoratus",321,12,1
+"macrolepis",318,78,2
+"macularius",318,116,2
+"maculatus",320,40,2
+"marmorata",320,52,1
 "Mammals",0,120,2
+"Placental mammals",0,122,1
+"Lowland Mammelomys",266,17,1
+"Mammelomys",266,17,1
 "Manusela Melomys",266,36,2
+"Highland Mammelomys",266,58,2
+"Mammelomys",266,58,2
+"macrurus",266,76,1
+"maini",266,87,1
+"Mastacomys",266,136,2
+"Ernst Mayr's Leptomys",270,23,2
+"Shaw Mayer's Pogonomelomys",270,31,1
+"mayeri",270,31,1
+"Mallomys",270,52,1
+"Mallomys",270,55,1
+"Mallomys",270,56,2
+"Mallomys",270,57,2
+"Mallomys",270,58,2
+"Macruromys",270,60,2
+"Macruromys",270,61,1
+"major",270,62,2
+"Macruromys",270,62,2
 "Matthey's Mouse",269,116,2
+"mattheyi",269,116,2
 "Mahomet Mouse",269,141,2
+"mahomet",269,141,2
+"macedonicus",269,158,2
 "Mayor's Mouse",269,177,2
+"mayori",269,177,2
 "Malaysian Field Rat",267,29,1
 "Marmoset Xanthurus Rat",267,83,2
+"marmosurus",267,83,2
+"Shaggy Rats and Marsh Rats",267,123,1
+"African Marsh Rat",267,127,1
+"Angolan Marsh Rat",267,129,2
+"Maxomys",267,139,1
+"Small Bornean Maxomys",267,147,1
+"Maxomys",267,147,1
+"Palawan Maxomys",267,148,2
+"Maxomys",267,148,2
+"Rajah Sundaic Maxomys",267,149,2
+"Maxomys",267,149,2
+"Musschenbroek's Sulawesi Maxomys",267,151,1
+"Maxomys",267,151,1
+"Bornean Mountain Maxomys",267,152,2
+"Maxomys",267,152,2
+"Watts's Sulawesi Maxomys",267,155,1
+"Maxomys",267,155,1
 "Malayan Mountain Maxomys",267,156,2
+"Malayan Mountain Maxomys",267,156,2
+"Maxomys",267,156,2
+"Mentawai Archipelago Maxomys",267,157,2
+"Maxomys",267,157,2
+"Broad-nosed Sumatran Maxomys",267,158,2
+"Maxomys",267,158,2
+"Sumatran Mountain Maxomys",267,160,1
+"Maxomys",267,160,1
+"Dollman's Sulawesi Maxomys",267,161,2
+"Maxomys",267,161,2
+"Ochraceous-bellied Bornean Maxomys",267,162,2
+"Maxomys",267,162,2
+"Whitehead's Sundaic Maxomys",267,166,1
+"Maxomys",267,166,1
+"Indomalayan Maxomys",267,167,2
+"Maxomys",267,167,2
+"Indochinese Mountain Maxomys",267,168,2
+"Maxomys",267,168,2
+"Hellwald's Sulawesi Maxomys",267,170,1
+"Maxomys",267,170,1
+"Bartels's Javan Maxomys",267,171,2
+"Maxomys",267,171,2
+"major",267,179,2
 "Marmoset Rats",267,185,2
+"Greater Marmoset Rat",267,186,1
+"Lesser Marmoset Rat",267,187,2
 "Margaret's Haeromys",267,192,2
+"margarettae",267,192,2
+"Madromys",267,207,1
+"macrourus",267,215,2
+"macculus",274,15,2
 "Malay Peninsula Pithecheir",274,27,1
+"mackenziei",273,63,1
 "Manipur White-toothed Rat",273,64,2
+"manipulus",273,64,2
+"Mastomys",273,87,1
+"Shortridge's Mastomys",273,88,2
+"Mastomys",273,88,2
+"Kollmannsperger's Mastomys",273,89,2
+"Mastomys",273,89,2
+"Hubert's Mastomys",273,93,1
+"Mastomys",273,93,1
+"Dwarf Mastomys",273,94,2
+"Mastomys",273,94,2
+"Southern African Mastomys",273,95,2
+"Mastomys",273,95,2
+"Natal Mastomys",273,96,2
+"Mastomys",273,96,2
+"macrocercus",271,46,1
 "Margaretamys",271,49,2
+"Spiny Lowland Margaretamys",271,51,1
+"Margaretamys",271,51,1
+"Elegant Margaretamys",271,52,2
+"Margaretamys",271,52,2
+"Lesser Margaretamys",271,53,2
+"Margaretamys",271,53,2
 "Macmillan's Thicket Rat",263,46,1
+"macmillani",263,46,1
+"major",263,80,2
+"maxi",263,91,2
+"maximus",264,27,2
+"Malacomys",272,26,2
+"Malacomys",272,27,2
+"Malacomys",272,28,2
+"mauritaniae",268,47,2
+"mackilligini",268,79,2
+"maghrebi",268,85,1
+"major",263,143,2
 "Markham's Grass Mouse",289,32,1
+"markhami",289,32,1
+"Serrado Do Mar Grass Mouse",289,49,1
+"macconnelli",293,34,1
 "Marsh Rice Rat",293,47,2
 "Mamore Arboreal Rice Rat",293,106,1
+"mamorae",293,106,1
 "Marsh Rats",293,117,1
+"Chaco Marsh Rat",293,121,2
 "Marsh Rat",293,122,2
+"Web-footed Marsh Rat",293,123,2
 "Magellanic Pygmy Rice Rat",287,41,2
+"magellanicus",287,41,2
 "Master Leaf-eared Mouse",292,30,2
+"magister",292,30,2
+"macronyx",292,71,2
+"macrurus",294,8,1
+"mastacalis",294,10,2
 "Macconnell's Climbing Mouse",294,27,2
+"macconnelli",294,27,2
+"magdalenae",294,40,2
+"mascotensis",287,125,1
 "Marsh Mouse",291,14,2
+"maniculatus",291,70,1
+"Tres Marias Deer Mouse",291,97,2
+"madrensis",291,97,2
 "Maya Mouse",291,103,2
+"mayensis",291,103,2
+"Southern Marsh Harvest Mouse",287,198,2
+"San Martin Island Woodrat",288,9,1
+"martinensis",288,9,1
+"magister",288,22,1
+"macrotis",288,41,2
 "Magdalena Rat",288,46,2
+"majori",282,34,2
 "Maximowicz's Vole",282,47,1
+"maximowiczii",282,47,1
 "Marie's Vole",281,35,2
 "Mandarin Vole",283,26,1
+"mandarinus",283,26,1
+"macrotis",284,66,2
 "Major's Tufted-tailed Rat",281,79,1
+"majori",281,79,1
+"Macrotarsomys",281,85,2
+"Macrotarsomys",281,86,1
+"Macrotarsomys",281,87,2
 "Malagasy Giant Jumping Rat",281,98,2
 "Malabar Spiny Dormouse",281,100,1
+"macrocephalus",281,147,2
+"Malacothrix",281,213,2
+"major",280,100,2
+"macrotis",254,21,2
+"matagalpae",255,56,2
+"mazama",255,96,2
+"macrura",258,21,1
+"Makalata",258,21,1
+"Makalata",258,22,2
+"Makalata",258,35,2
+"Makalata",258,44,1
+"Makalata",258,45,2
+"Makalata",258,63,1
 "Magdalena Spiny Rat",258,81,2
+"magdalenae",258,81,2
 "Mashona Mole-rat",259,13,1
+"magna",259,49,2
 "Malayan Porcupine",256,48,2
+"macrourus",256,55,1
+"maximus",256,70,2
+"Chacoan Mara",256,151,2
 "Magellanic Tuco-tuco",257,25,1
+"magellanicus",257,25,1
 "Maule Tuco-tuco",256,158,2
+"maulinus",256,158,2
+"Massoutiera",254,53,2
+"magnificus",278,68,2
+"macrotis",279,56,2
+"macroura",278,99,2
 "Maritime Striped Squirrel",278,163,2
+"maritimus",278,163,2
+"Sierra Madre Ground Squirrel",297,39,2
+"madrensis",297,39,2
+"major",297,43,2
+"Golden Mantled Ground Squirrel",296,12,1
 "Marmots",296,15,1
+"Marmota",296,15,1
+"Black-capped Marmot",296,22,1
+"Marmota",296,22,1
+"Himalayan Marmot",296,23,2
+"Marmota",296,23,2
+"Mongolian Marmot",296,24,2
+"Marmota",296,24,2
+"Altai Marmot",296,26,1
+"Marmota",296,26,1
+"Bobak Marmot",296,27,2
+"Marmota",296,27,2
+"Menzbier's Marmot",296,29,1
+"Marmota",296,29,1
+"Long-tailed marmot",296,30,2
+"Marmota",296,30,2
+"Alaska Marmot",296,32,1
+"Marmota",296,32,1
+"Alpine Marmot",296,33,2
+"marmota",296,33,2
+"Marmota",296,33,2
+"Marmota",296,34,2
+"Vancouver Island Marmot",296,38,1
+"Marmota",296,38,1
+"Hoary Marmot",296,39,2
+"Marmota",296,39,2
+"Olympic Marmot",296,40,2
+"Marmota",296,40,2
+"Yellow-bellied Marmot",296,41,2
+"Marmota",296,41,2
 "Masked Mouse-tailed Dormouse",262,48,1
 "Manchurian Hare",277,19,1
+"mandshuricus",277,19,1
+"marjorita",277,67,1
 "Manzano Mountain Cottontail",254,81,2
+"Tres Marias Cottontail",254,84,2
 "Marsh Rabbit",254,92,1
+"mansuetus",254,99,1
+"macrotis",261,32,1
 "Macaques",275,3,1
+"Macaca",275,3,1
+"Celebes Crested Macaque",275,10,1
+"Macaca",275,10,1
+"Gorontalo Macaque",275,11,2
+"Macaca",275,11,2
+"Booted Macaque",275,12,2
+"Macaca",275,12,2
+"Moor Macaque",275,13,2
+"maura",275,13,2
+"Macaca",275,13,2
+"Tonkean Macaque",275,15,1
+"Macaca",275,15,1
+"Heck's Macaque",275,16,2
+"Macaca",275,16,2
+"Southern Pig-tailed Macaque",275,20,1
+"Macaca",275,20,1
+"Pagai Island Macaque",275,21,2
+"Macaca",275,21,2
+"Northern Pig-tailed Macaque",275,22,2
+"Macaca",275,22,2
+"Lion-tailed Macaque",275,23,2
+"Macaca",275,23,2
+"Barbary Macaque",275,24,2
+"Macaca",275,24,2
+"Milne-edwards' Macaque",275,29,1
+"Macaca",275,29,1
+"Assam Macaque",275,30,2
+"Macaca",275,30,2
+"Bonnet Macaque",275,32,1
+"Macaca",275,32,1
+"Toque Macaque",275,33,2
+"Macaca",275,33,2
+"Stump-tailed Macaque",275,34,2
+"Macaca",275,34,2
+"Formosan Rock Macaque",275,38,1
+"Macaca",275,38,1
+"Macaca",275,39,2
+"Japanese Macaque",275,40,2
+"Macaca",275,40,2
+"Crab-eating Macaque",275,41,2
+"Macaca",275,41,2
 "Mangabeys, Baboons and more",275,42,2
+"Grey-cheeked Mangabey",275,57,1
+"Black Mangabey",275,59,2
+"White-collared Mangabey",275,63,1
+"Sooty/white-naped Mangabey",275,64,2
 "Mandrillus",275,65,2
+"Mandrillus",275,66,1
 "Mandrill",275,67,2
+"Mandrillus",275,67,2
+"Golden-bellied Mangabey",275,70,1
+"Agile Mangabey",275,71,2
+"Tana River Crested Mangabey",275,72,2
 "Malbrouck Monkey",275,130,2
 "Maroon Leaf Monkey",276,37,1
 "Marmosets",285,7,1
+"Geoffroy's Tufted-ear Marmoset",285,11,1
+"Wied's Black-tufted-ear Marmoset",285,12,2
+"Black-pencilled Marmoset",285,14,1
+"Common Marmoset",285,15,2
+"Buffy-tufted-ear Marmoset",285,17,1
+"Buffy-headed Marmoset",285,18,2
 "Martin'S/ochraceous Bare-face Tamarin",285,60,1
+"martinsi",285,60,1
+"Black Mantle Tamarin",285,73,1
+"Nancy Ma's Night Monkey",285,112,1
+"marginatus",286,23,2
 "Mantled Howler Monkey",286,37,1
+"macconnelli",286,42,2
+"macaco",260,23,2
+"madagascariensis",260,76,2
+"major",260,96,2
 "Masoala Fork-marked Lemur",260,105,2
+"matschiei",260,128,2
 "Madras Treeshrew",254,174,2
 "Manaus Island Woolly Bat",389,19,1
 "Machado's Butterfly Bat",391,9,1
+"machadoi",391,9,1
+"mackenziei",389,109,2
+"maculatum",389,142,2
+"macrotis",389,199,2
 "Madeira Pipistrelle",390,45,2
+"maderensis",390,45,2
+"magellanicus",390,66,1
+"macrotus",390,71,2
 "Malagasy Serotine",392,69,1
+"matroka",392,69,1
+"martiniquensis",404,12,1
+"macrodactylus",403,15,2
+"macrotarsus",403,33,1
 "Mandelli's Mouse-eared Myotis",403,53,2
 "Malagasy Mouse-eared Bat",403,69,1
 "Maluku Myotis",403,102,2
+"macropus",403,103,2
 "Manavil Long-fingered Bat",365,19,1
+"manavi",365,19,1
+"macrocneme",365,22,1
 "Major's Long-fingered Bat",365,34,2
+"majori",365,34,2
+"magnater",365,43,2
 "Mastiff Bats",396,8,1
+"Aztec Mastiff Bat",396,15,1
+"Coiban Mastiff Bat",396,17,2
+"Pallas's Mastiff Bat",396,18,2
+"Miller's Mastiff Bat",396,20,1
+"Black Mastiff Bat",396,21,2
+"Bonda Mastiff Bat",396,22,2
+"Sinaloan Mastiff Bat",396,23,2
+"Big Crested Mastiff Bat",396,25,1
+"Brown Mastiff Bat",396,26,2
+"maurus",396,36,2
 "Madagascar Free-tailed Bat",396,49,1
+"madagascariensis",396,49,1
+"martiensseni",396,50,2
 "Mantled Free-tailed Bat",396,51,2
+"Java Giant Mastiff Bat",396,55,2
+"major",396,84,2
+"macrotis",396,125,2
 "Malagasy Free-tailed Bat",396,139,2
 "Mato Grosso Dog-faced Bat",396,160,2
+"mattogrossensis",396,160,2
+"Sumatran Mastiff Bat",396,177,2
+"Kalinowski's Mastiff Bat",396,181,1
+"Incan Little Mastiff Bat",396,182,2
+"magnirostrum",394,24,1
 "Macconnell's Bat",394,40,2
+"macconnelli",394,40,2
+"magna",393,68,2
 "Macrotus",393,191,2
+"Macrotus",393,192,1
+"Macrotus",393,193,2
 "Marinkelle's Sword-nosed Bat",393,198,1
+"marinkellei",393,198,1
+"macrophyllum",393,202,2
+"Macrophyllum",393,202,2
 "Macleay's Mustached Bat",393,213,1
+"macleayii",393,213,1
+"major",365,53,1
 "Makira Leaf-nosed Bat",378,48,1
+"macrobullatus",376,27,1
+"marisae",376,43,2
 "Maggie Taylor's Leaf-nosed Bat",376,64,2
+"maggietaylorae",376,64,2
 "Malayan Leaf-nosed Bat",376,70,2
 "Malayan Tailless Leaf-nosed Bat",376,90,1
 "Maclaud's Horseshoe Bat",377,32,2
+"maclaudi",377,32,2
+"macrotis",377,46,1
 "Malayan Horseshoe Bat",377,53,2
+"malayanus",377,53,2
 "Madura Horseshoe Bat",376,111,2
+"madurensis",376,111,2
 "Marshall's Horseshoe Bat",379,30,2
+"marshalli",379,30,2
 "Madagascar Slit-faced Bat",376,132,1
+"madagascariensis",376,132,1
+"macrotis",376,133,2
+"major",376,151,2
 "Malayan Slit-faced Bat",376,155,1
+"Macroderma",376,162,2
 "Macinnes's Mouse-tailed Bat",365,75,1
+"macinnesi",365,75,1
+"macrotis",400,10,2
+"maximiliani",400,21,2
 "Mauritian Tomb Bat",400,70,2
+"mauritianus",400,70,2
+"macrotis",366,21,2
+"Greater Mascarene Flying Fox",366,41,1
 "Madagascan Flying Fox",366,42,2
 "Marianas Flying Fox",366,75,1
+"mariannus",366,75,1
+"mahaganus",366,87,2
 "Makira Flying Fox",366,109,2
+"Moluccan Masked Flying Fox",366,118,2
+"mackloti",366,132,2
+"magna",366,165,2
+"macdonaldi",365,92,2
 "Macroglossus",365,98,2
+"Macroglossus",365,99,1
+"Macroglossus",365,100,2
+"major",365,104,2
 "Manado Rousette",399,41,2
 "Madagascan Fruit Bat",399,45,2
 "Madagascan Rousette",399,53,1
+"madagascariensis",399,53,1
+"maculata",387,35,1
+"masalai",387,60,2
 "Malaita Tube-nosed Bat",387,62,2
+"malaitensis",387,62,2
+"major",387,76,2
 "Markhor",372,28,2
+"Madoqua",372,107,2
+"marsupialis",372,141,2
+"Madoqua",372,149,2
 "Maxwell's Duiker",372,186,1
+"maxwellii",372,186,1
+"Madoqua",371,34,1
+"Madoqua",371,35,2
+"marianna",374,21,2
 "Mazama",375,5,1
+"Mazama",375,10,1
+"Mazama",375,11,2
+"Mazama",375,12,2
+"Mazama",375,14,1
+"Mazama",375,15,2
+"Mazama",375,17,1
+"Mazama",375,18,2
+"Mazama",375,19,2
 "Marsh Deer",375,29,2
+"macrorhynchus",373,63,1
+"marginata",371,193,2
 "Malay Weasel",383,18,2
+"macrodon",383,41,2
 "Martes",383,46,1
+"American Marten",383,52,1
+"Martes",383,52,1
+"Japanese Marten",383,53,2
+"Martes",383,53,2
+"Martes",383,54,2
+"European Pine Marten",383,55,2
+"martes",383,55,2
+"Martes",383,55,2
+"Stone Marten",383,56,2
+"Martes",383,56,2
+"Martes",383,57,2
+"Yellow-throated Marten",383,59,1
+"Martes",383,59,1
+"Nilgiri Marten",383,60,2
+"Martes",383,60,2
+"European Marbled Polecat",383,71,2
+"marchei",383,85,2
 "Marine Otter",386,9,2
+"maculicollis",386,21,2
+"macroura",386,38,2
 "Malayan Sun Bear",381,109,1
+"malayanus",381,109,1
+"maritimus",381,114,1
 "Maned Wolf",381,150,2
+"macrotis",381,171,1
 "Marsh Mongoose",381,192,2
 "Malagasy Ring-tailed Mongoose",381,199,2
 "Malagasy Narrow-striped Mongoose",381,200,2
+"maculata",385,11,1
 "Malabar Civet",385,41,2
 "Malay Civet",385,44,2
 "Masked Palm Civet",385,58,1
+"Macrogalidia",385,60,2
 "Marbled Cat",382,20,2
+"marmorata",382,20,2
 "Margay",382,49,2
+"margarita",382,57,2
+"manul",382,64,2
+"PHOLIDOTA Manis",365,149,2
+"Manis",365,152,1
+"Manis",365,153,2
+"Manis",365,155,1
+"Manis",365,156,2
+"Manis",365,159,1
+"Manis",365,160,2
+"Manis",365,162,1
+"Manis",365,163,2
 "Mauritanian Shrew",368,19,1
 "Macarthur's Shrew",368,43,2
+"macarthuri",368,43,2
 "Manenguba Shrew",367,35,1
+"manengubae",367,35,1
+"mariquensis",369,39,2
+"maxi",370,30,2
 "Makwassie Musk Shrew",370,32,1
+"maquassiensis",370,32,1
+"maurisca",370,33,2
 "Macow's Shrew",367,118,2
+"macowi",367,118,2
 "Malayan Shrew",367,138,2
+"malayana",367,138,2
 "Macmillan's Shrew",367,152,2
+"macmillani",367,152,2
+"maxima",367,173,2
 "Malayan Pgymy Shrew",402,14,2
+"malayanus",402,14,2
 "Madagascan Shrew",402,35,1
+"madagascariensis",402,35,1
 "Maritime Shrew",397,28,1
+"maritimensis",397,28,1
 "Marsh Shrew",398,17,2
+"mayensis",397,76,2
+"magna",397,80,2
+"macrurus",397,139,2
 "Malayan Water Shrew",397,159,2
+"matacus",333,15,2
+"maximus",333,16,2
 "Maned Sloth",333,46,2
 "Marley's Golden Mole",323,63,2
+"marleyi",323,63,2
+"MACROSCELIDEA",323,86,2
+"Macroscelides",323,108,2
+"African Manatee",323,128,1
+"American Manatee",323,129,2
+"manatus",323,129,2
+"Amazonian Manatee",323,130,2
+"maximus",323,136,2
 "Marsupials",109,0,2
+"MACROPODIFORMES",109,7,1
 "Macropodidae",110,2,1
 "Macropus",110,47,1
+"Macropus",110,52,1
+"Macropus",110,53,2
+"Macropus",110,54,2
+"Macropus",110,56,1
+"Macropus",110,57,2
+"Macropus",110,59,1
+"Macropus",110,60,2
+"Macropus",110,65,1
+"Macropus",110,66,2
+"Macropus",110,67,2
+"Macropus",110,68,2
+"Macropus",110,70,1
+"Macropus",110,71,2
+"matschiei",110,91,2
 "Macleay's Dorcopsis",110,110,1
+"macleayi",110,110,1
 "Masked Ringtail",112,13,2
+"mayeri",112,16,2
 "Mahogany Glider",112,42,2
+"maculatus",112,85,1
+"matanim",112,102,1
+"maculatus",111,18,2
+"macdonnellensis",111,32,1
+"macroura",111,108,2
+"maculata",111,124,2
+"Northern Marsupial Mole",109,21,1
 "Marsupial Mole",109,22,2
+"macrourus",109,52,2
+"Macrotis",109,57,2
 "Marmosops",109,72,1
+"Marmosops",109,79,1
+"Marmosops",109,80,2
+"Marmosops",109,81,2
+"Marmosops",109,83,1
+"Marmosops",109,84,2
+"Marmosops",109,85,2
+"Marmosops",109,86,2
+"Marmosops",109,91,1
+"Marmosops",109,92,2
+"Marmosops",109,93,2
+"Marmosops",109,94,2
+"Marmosops",109,95,2
+"Marmosops",109,97,1
+"Marmosops",109,98,2
+"marica",109,112,2
+"macrurus",109,131,2
+"marsupialis",109,145,1
 "Marajo Short-tailed Opossum",109,192,1
+"maraxina",109,192,1
+"Marmosa",109,209,2
+"Marmosa",109,211,1
+"Marmosa",109,212,2
+"Marmosa",109,216,1
+"Marmosa",109,217,2
+"Marmosa",109,218,2
+"Marmosa",109,219,2
+"Marmosa",109,222,1
+"Marmosa",109,224,2
+"marinus",60,9,1
+"macrocristata",62,25,1
+"mazatlanensis",62,27,2
+"marmorea",62,51,2
+"maculatus",57,76,2
+"margaritifera",58,15,1
+"macrorhina",58,35,1
+"macrotis",56,131,2
+"macrotis",56,155,2
+"malayana",59,12,2
+"malcolmi",59,69,1
+"maculatus",56,162,1
+"mandingues",63,87,1
+"macrogranulosus",38,60,2
+"maculata",43,22,1
 "Manu Poison Frog",43,25,2
+"macero",43,25,2
 "Marbled Poison Frog",43,58,1
+"machalilla",43,59,2
+"marmoreoventris",43,115,1
+"maquipucuna",43,177,1
+"marchesianus",68,23,1
+"mandelorum",68,71,2
+"masniger",68,74,2
 "Martinique Volcano Frog",68,79,1
+"Mannophryne",68,130,1
+"Mannophryne",68,131,2
+"Mannophryne",68,132,2
+"Mannophryne",68,133,2
+"Mannophryne",68,134,2
+"Mannophryne",68,138,1
+"Mannophryne",68,139,2
+"Mannophryne",68,140,2
+"Mannophryne",68,141,2
+"Mannophryne",68,143,1
+"Mannophryne",68,144,2
+"Mannophryne",68,145,2
+"mayorgai",68,166,2
+"macroglossa",45,55,2
+"magalhaesi",65,20,2
+"massarti",65,45,1
+"marmoratus",42,34,2
+"mayoloi",42,46,2
+"macrostomus",38,97,2
+"marambaiae",39,14,2
+"magistris",39,74,2
+"martinezi",39,134,1
+"marmoratus",39,137,1
+"mantiqueira",38,107,1
+"maculiventris",51,25,2
+"maximus",51,66,2
+"marmoratum",51,116,2
+"mache",49,116,2
+"mariae",50,55,2
+"matudai",40,80,2
+"macrotympanum",67,25,1
+"marianae",64,63,2
+"mathiassoni",48,34,2
+"marmoratus",48,128,1
+"marianitae",47,12,2
+"marginatus",47,62,2
+"martinsi",46,118,1
+"maracaya",70,58,1
+"machadoi",70,177,2
+"majikthise",53,76,2
 "Masked Frog",53,149,2
 "Magnificent Treefrog",53,174,1
+"macki",55,43,2
+"manya",38,155,2
 "Main's Frog",38,158,2
+"maini",38,158,2
+"maculosa",38,168,1
+"marginata",66,62,2
 "Marsupial Frogs",93,0,2
+"marsupiata",93,87,1
+"marahuaquensis",91,16,2
+"marmoratus",81,53,1
+"marahuaka",81,128,2
+"martiae",84,44,2
+"mariposa",89,59,2
+"mars",88,27,2
+"madidi",88,33,2
+"manezinho",88,60,2
+"martinicensis",75,74,1
+"mantipus",73,63,2
+"maculosus",73,78,2
+"malkini",73,129,1
+"maranguapensis",72,24,1
+"matudai",85,45,1
+"maestrensis",79,48,1
+"marnockii",80,34,2
 "Marbled Toadlet",23,35,1
+"marmorata",23,35,1
 "Martin's Toadlet",23,36,2
+"martini",23,36,2
+"major",23,70,1
 "Magnificent Broodfrog",23,76,2
 "Marbled Frog",23,165,1
+"Western Marsh Frog",23,185,2
+"maosonensis",7,78,2
+"macropus",9,30,2
+"malcolmsmithi",8,58,1
+"margaritifer",7,192,2
+"margaritifer",21,48,1
 "Malabar Gliding Frog",21,57,1
+"malabaricus",21,57,1
+"maximus",21,82,2
 "Malayan Flying Frog",21,87,1
+"macrotis",21,154,2
+"maculatus",21,159,1
 "MANTELLIDAE",2,36,2
+"malagasius",3,64,1
+"Mantidactylus",3,77,1
+"Mantidactylus",3,78,2
+"Mantidactylus",3,79,2
+"Mantidactylus",3,81,1
+"Mantidactylus",3,82,2
+"madecassus",3,86,1
+"Mantidactylus",3,86,1
+"Mantidactylus",3,87,2
+"Mantidactylus",3,88,2
+"Mantidactylus",3,89,2
+"Mantidactylus",3,93,1
+"Mantidactylus",3,94,2
+"Mantidactylus",3,96,1
+"Mantidactylus",3,97,2
+"Mantidactylus",3,100,1
+"Mantidactylus",3,101,2
+"Mantidactylus",3,102,2
+"Mantidactylus",3,107,1
+"majori",3,108,2
+"Mantidactylus",3,108,2
+"Mantidactylus",3,109,2
+"Mantidactylus",3,111,1
+"Mantidactylus",3,112,2
+"Mantidactylus",3,116,1
+"Mantidactylus",3,117,2
+"Mantidactylus",3,118,2
+"Mantidactylus",3,119,2
+"massorum",3,126,1
+"madinika",3,168,2
+"Guibe'S Mantella",3,175,1
+"Mantella",3,175,1
+"Cowan's Mantella",3,176,2
+"Mantella",3,176,2
+"Haraldmeier's Mantella",3,177,2
+"Mantella",3,177,2
+"Baron's Mantella",3,178,2
+"Mantella",3,178,2
+"Bernhard's Mantella",3,180,1
+"Mantella",3,180,1
+"Climbing Mantella",3,181,2
+"Mantella",3,181,2
+"Blue-legged Mantella",3,185,1
+"Mantella",3,185,1
+"Brown Mantella",3,186,2
+"Mantella",3,186,2
 "Marojejy Mantella",3,187,2
+"Marojejy Mantella",3,187,2
+"manery",3,187,2
+"Mantella",3,187,2
+"Green Mantella",3,188,2
+"Mantella",3,188,2
+"Black-eared Mantella",3,193,1
+"Mantella",3,193,1
+"Yellow Mantella",3,194,2
+"Mantella",3,194,2
+"Golden Mantella",3,195,2
+"Mantella",3,195,2
+"Beautiful Mantella",3,196,2
+"Mantella",3,196,2
 "Madagascan Mantella",3,197,2
+"Madagascan Mantella",3,197,2
+"madagascariensis",3,197,2
+"Mantella",3,197,2
+"madagascariensis",3,201,1
+"mandraka",20,29,1
+"madagascariensis",20,55,2
+"marojezensis",20,70,2
+"majori",20,79,2
+"maculatus",12,17,2
+"magnaocularis",12,25,1
+"macroglossa",12,36,1
+"macrocnemis",13,10,1
+"masonii",16,49,1
+"margaretae",16,65,1
+"marmoratus",15,26,2
+"mantzorum",15,54,2
+"Eurasian Marsh Frog",18,16,1
+"macrophthalmus",12,142,2
+"margariana",14,32,1
+"maosonensis",12,168,1
+"mangyanum",12,184,2
+"macrops",17,14,2
+"malabaricus",17,23,1
+"macrodactyla",2,46,1
+"major",2,63,2
+"marmorata",11,23,2
 "Malabar Wart Frog",11,28,1
+"maculosa",22,29,2
+"macrodon",19,15,2
 "Malesian Frog",19,18,1
+"malesianus",19,18,1
+"magnus",19,41,1
+"macrocephalus",19,45,1
+"mawphlangensis",19,53,1
+"mawlyndipi",19,71,1
+"macrognathus",19,82,1
+"magnapustulosa",5,8,2
+"martensii",5,17,2
+"mariae",5,41,2
 "Marbled Sand Frog",2,133,2
+"marmorata",2,133,2
+"masako",2,145,2
+"martiensseni",6,20,2
+"manengoubensis",4,40,1
+"mababiensis",4,122,1
 "Malabar Tropical Frog",2,167,2
+"magna",92,18,2
+"macrosceles",92,32,1
+"mamusiorum",92,40,2
+"macrops",92,45,2
+"malukuna",92,132,2
+"mahnerti",90,49,2
+"mapacha",90,77,1
 "Mascarene Grass Frog",90,84,1
+"mascareniensis",90,84,1
+"macrotympanum",90,97,1
+"marmoratus",28,96,1
+"Mantophryne",28,121,1
+"Mantophryne",28,122,2
+"Mantophryne",28,123,2
+"macrorhyncha",28,190,2
+"major",28,208,2
+"maculata",25,21,2
+"macrops",33,99,2
+"marmorata",29,17,2
+"maculifera",29,21,2
+"marmorata",25,37,1
+"madagascariensis",25,44,2
+"mavomavo",32,56,1
 "Marbled Rubber Frog",25,86,2
+"marginatus",30,56,2
+"mariae",31,44,2
+"maestus",30,85,1
 "Marbled Reed Frog",30,173,1
+"marmoratus",30,173,1
+"major",30,190,2
 "Madagascan Reed Frogs",34,57,1
+"madagascariensis",34,76,1
+"maculosa",27,12,2
+"maculata",27,13,2
+"maculifer",27,27,2
+"marginatus",36,37,2
+"macrotis",36,74,2
+"macrops",25,161,2
+"macrodactylus",25,171,1
 "Marbled Snout-burrower",25,188,2
+"marmoratus",25,188,2
 "Masiliwa Snout-burrower",25,196,2
 "Mangshan Horned Toad",71,39,2
+"mangshanensis",71,39,2
+"major",71,42,2
+"maculatus",1,68,2
+"mammatus",1,90,2
+"major",1,123,2
+"maurus",37,28,1
+"maurus",342,19,2
 "Mallorcan Midwife Toad",342,21,2
+"maxima",342,37,2
 "Mawa Clawed Frog",322,11,1
 "Marsabit Clawed Frog",322,31,1
 "Maud Island Frog",0,142,2
+"macrinii",100,18,1
 "Magnificent Web-footed Salamander",100,41,1
+"magnifica",100,41,1
+"marmorea",100,58,2
+"maxima",100,124,1
+"macdougalli",108,22,1
+"magnipes",108,29,2
+"maritima",106,20,2
+"magnipes",106,82,2
+"major",106,108,2
 "Many-ribbed Salamander",104,41,1
+"San Marcos Salamander",104,45,2
 "Many-lined Salamander",104,61,2
+"marginatus",104,61,2
+"major",98,39,2
+"marmoratus",105,12,1
+"Southern Marbled Newt",103,27,1
 "Marbled Newt",103,28,2
+"marmoratus",103,28,2
+"macrodactylum",99,25,1
 "Marbled Salamander",99,27,2
 "Mabee's Salamander",99,39,1
+"mabeei",99,39,1
+"maculatum",99,46,2
+"maculosus",98,198,2
+"marcusi",113,64,2
+"madhavaorum",113,136,1
+"malabarensis",345,23,2
+"malabaricus",345,86,2
+"marmoratus",0,165,1

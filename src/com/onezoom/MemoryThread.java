@@ -2,6 +2,7 @@ package com.onezoom;
 
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.displayBinary.BinaryInitializer;
+import com.onezoom.midnode.displayBinary.BinarySearch;
 
 import android.os.Handler;
 import android.os.Looper;
@@ -10,10 +11,11 @@ import android.util.Log;
 
 public class MemoryThread extends Thread {
 	public static final int MSG_RECALCULATE = 0;
-	public static final int MSG_RESET = 3;
 	public static final int MSG_INITIALIZATION = 1;
 	public static final int MSG_IDLECALCULATION = 2;
-	
+	public static final int MSG_RESET = 3;
+	public static final int MSG_SEARCH = 4;
+
 	private Handler handler;
 	private CanvasActivity clientActivity;
 	
@@ -50,14 +52,23 @@ public class MemoryThread extends Thread {
 	public void reset() {
 		handler.sendEmptyMessage(MSG_RESET);
 	}
+
+	public void search(String userInput) {
+		Message msg = new Message();
+		msg.what = MSG_SEARCH;
+		msg.obj = userInput;
+		handler.sendMessage(msg);
+	}
 }
 
 
 class MemoryHandler extends Handler {
 	private CanvasActivity clientActivity;
+	private BinarySearch searchEngine;
 
 	public MemoryHandler(CanvasActivity client) {
 		clientActivity = client;
+		searchEngine = new BinarySearch(client);
 	}
 
 	@Override
@@ -102,6 +113,9 @@ class MemoryHandler extends Handler {
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
+		case MemoryThread.MSG_SEARCH:
+			searchEngine.performSearch((String)msg.obj);
+			clientActivity.treeView.postInvalidate();
 		}
 	}
 }

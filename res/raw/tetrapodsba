@@ -1,120 +1,375 @@
 name,fileindex,index,whichChild
+"baritula",125,31,1
+"bairdii",125,58,2
 "Band-tailed Seedeater",125,66,2
 "Bay-chested Warbling-finch",126,65,2
+"baeri",126,84,2
 "Band-tailed Sierra-finch",125,144,2
 "Bay-headed Tanager",128,23,2
 "Barbados Bullfinch",129,50,1
+"barbadensis",129,50,1
 "Bananaquit",129,58,2
+"baeri",128,165,2
+"Bangsia",128,205,1
+"Bangsia",128,206,2
+"Bangsia",128,208,1
+"Bangsia",128,209,2
+"Bangsia",128,210,2
+"baileyi",145,63,2
 "Baird's Sparrow",145,66,2
+"bairdii",145,66,2
 "Bachman's Sparrow",146,24,1
 "Bay-crowned Brush-finch",142,60,2
 "Bay-winged Cowbird",143,19,2
+"badius",143,19,2
 "Band-tailed Oropendola",143,93,1
 "Baudo Oropendola",143,121,2
 "Bar-winged Oriole",147,24,2
 "Baltimore Oriole",147,43,2
+"Basileuterus",144,43,1
+"Basileuterus",144,44,2
+"Basileuterus",144,46,1
+"Basileuterus",144,47,2
+"Basileuterus",144,48,2
+"Basileuterus",144,52,1
+"Basileuterus",144,53,2
+"Basileuterus",144,54,2
+"Basileuterus",144,61,1
+"Basileuterus",144,62,2
+"Basileuterus",144,63,2
+"basilicus",144,66,1
+"Basileuterus",144,66,1
+"Basileuterus",144,67,2
+"Basileuterus",144,68,2
+"Basileuterus",144,73,2
+"Basileuterus",144,78,1
+"Basileuterus",144,79,2
+"Basileuterus",144,81,1
+"Basileuterus",144,82,2
+"Basileuterus",144,83,2
+"Basileuterus",144,86,1
+"Basileuterus",144,87,2
+"Basileuterus",144,88,2
 "Bay-breasted Warbler",144,136,1
 "Barbuda Warbler",144,150,2
 "Bahama Yellowthroat",144,172,2
 "Bachman's Warbler",144,221,2
+"bachmanii",144,221,2
+"barbata",138,25,2
+"bailleui",135,107,2
+"bairdi",135,110,2
 "Bar-breasted Firefinch",133,42,1
 "Baka Indigobird",121,61,2
 "Bannerman's Weaver",141,25,2
+"bannermani",141,25,2
+"badius",141,29,2
 "Bates's Weaver",140,38,2
+"batesi",140,38,2
 "Bar-winged Weaver",140,43,2
 "Baglafecht Weaver",140,56,2
+"baglafecht",140,56,2
 "Baya Weaver",140,60,1
+"ballmanni",140,92,2
 "Bates's Sunbird",131,19,2
+"batesi",131,19,2
 "Bannerman's Sunbird",131,25,2
+"bannermani",131,25,2
+"balfouri",131,42,1
 "Banded Sunbird",121,111,1
+"basilanica",187,17,2
+"banyumas",183,127,2
+"barbata",186,44,2
 "Bare-eyed Thrush",188,73,2
 "Bassian Thrush",188,143,2
 "Babbling Starling",191,70,2
 "Bank Myna",191,114,1
 "Bali Starling",191,129,2
 "Bare-eyed Myna",194,53,2
+"Basilornis",194,57,1
+"Basilornis",194,58,2
+"Basilornis",194,59,2
+"Basilornis",194,60,2
 "Bahama Mockingbird",192,13,2
 "Bar-winged Wood-wren",190,15,1
 "Bay Wren",190,50,1
 "Banded Wren",190,61,2
 "Band-backed Wren",190,120,2
+"bambla",181,83,2
 "Bar-tailed Treecreeper",181,132,2
+"Whiteyes, Babblers, Parrotbills and more",161,7,1
+"Whiteyes, Babblers and Parrotbills",163,0,1
 "Babblers and parrotbills",163,6,1
+"Laughingthrushes, Babblers and more",163,8,1
+"Tibetan Babax",164,31,1
+"Babax",164,31,1
+"Giant Babax",164,32,2
+"Babax",164,32,2
+"Chinese Babax",164,33,2
+"Babax",164,33,2
 "Barred Laughingthrush",164,58,2
 "Bare-headed Laughingthrush",164,60,2
+"Cretschmar's Babbler",164,100,1
+"Capuchin Babbler",164,101,2
+"Slender-billed Babbler",164,104,1
+"Striated Babbler",164,106,2
+"Brown Babbler",164,110,2
+"Large Grey Babbler",164,111,2
+"White-throated Babbler",164,118,1
+"Arrow-marked Babbler",164,119,2
+"Black-lored Babbler",164,121,1
+"Blackcap Babbler",164,122,2
+"Yellow-billed Babbler",164,123,2
+"Iraq Babbler",164,125,1
+"Spiny Babbler",164,126,2
+"Angola Babbler",164,127,2
+"Rufous Babbler",164,128,2
+"Arabian Babbler",164,136,1
+"Common Babbler",164,137,2
+"Jungle Babbler",164,138,2
+"Dusky Babbler",164,142,2
+"White-rumped Babbler",164,145,1
+"Orange-billed Babbler",164,147,2
+"Scaly Babbler",164,151,2
 "Bare-cheeked Babbler",164,153,2
+"Bare-cheeked Babbler",164,153,2
+"Streak-throated Barwing",168,30,1
+"Streaked Barwing",168,31,2
+"Taiwan Barwing",168,32,2
+"Hoary-throated Barwing",168,33,2
+"Black-crowned Barwing",168,34,2
+"Rusty-fronted Barwing",168,42,1
+"Spectacled Barwing",168,43,2
 "Babblers and parrotbills",165,1,1
+"Short-tailed Babbler",165,24,1
+"Horsfield's Babbler",165,25,2
+"Black-browed Babbler",165,26,2
+"Ashy-headed Babbler",165,27,2
+"Abbott's Babbler",165,28,2
+"Thrush Babbler",165,35,2
+"Buff-breasted babbler",165,52,1
+"Temminck's Babbler",165,53,2
+"Ferruginous Babbler",165,54,2
+"Sumatran Babbler",165,55,2
+"White-chested Babbler",165,56,2
+"Sulawesi Babbler",165,57,2
 "Bagobo Babbler",165,58,2
+"Bagobo Babbler",165,58,2
+"Spot-throated Babbler",165,62,1
+"Marsh Babbler",165,63,2
+"Black-capped Babbler",165,64,2
+"Brown-capped Babbler",165,66,1
+"Puff-throated Babbler",165,67,2
+"Melodious Babbler",165,75,1
+"Rufous-crowned Babbler",165,76,2
+"Scaly-crowned Babbler",165,77,2
+"Sooty-capped Babbler",165,78,2
+"Grey-breasted Babbler",165,80,1
+"Moustached Babbler",165,81,2
+"White-hooded Babbler",165,90,1
+"Collared Babbler",165,91,2
 "Babblers and parrotbills",165,93,1
+"Grey-banded Babbler",165,94,1
+"Rusty-faced Babbler",165,95,2
 "Babblers and parrotbills",163,53,2
+"Chevron-breasted Babbler",167,16,1
+"Blackish-breasted Babbler",167,17,2
+"Grey-throated Babbler",167,29,2
+"Grey-headed Babbler",167,30,2
+"Spot-necked Babbler",167,31,2
+"Crescent-chested Babbler",167,41,2
+"badeigularis",163,66,1
 "Bar-winged Wren-babbler",163,69,1
+"Chestnut-winged Babbler",163,80,2
+"Rufous-capped Babbler",163,83,1
+"Buff-chested Babbler",163,84,2
+"Rufous-fronted Babbler",163,85,2
+"Black-chinned Babbler",163,88,1
+"Sooty Babbler",163,89,2
+"Golden Babbler",163,90,2
+"Chestnut-rumped Babbler",163,96,2
+"Snowy-throated Babbler",163,99,2
+"Tawny-bellied Babbler",163,102,1
+"Chestnut-capped Babbler",163,103,2
 "Bare-eyed White-eye",166,18,1
 "Banded White-eye",166,40,1
 "Babblers and parrotbills",166,195,2
 "Babblers and parrotbills",166,200,2
+"Black-throated Babbler",166,202,2
 "Babblers and parrotbills",163,108,2
+"Chestnut-faced Babbler",163,112,2
+"White-bibbed Babbler",163,121,2
+"Visayan Pygmy Babbler",163,122,2
+"Black-crowned Babbler",163,123,2
 "Babblers and parrotbills",163,124,2
+"Flame-templed Babbler",163,127,1
+"White-necked Babbler",163,128,2
+"White-breasted Babbler",163,129,2
 "Babblers and parrotbills",163,131,2
+"Golden-crowned Babbler",163,135,1
+"Rusty-crowned Babbler",163,137,2
+"Dark-fronted Babbler",163,138,2
+"Nonggang Babbler",163,139,2
+"bakeri",163,146,1
+"Grey-chested Babbler",163,170,1
 "Babblers and parrotbills",163,173,2
 "Babblers, Old World Warblers and more",179,0,2
 "Babblers and parrotbills",179,3,1
 "Babblers and parrotbills",179,59,2
+"Yellow-eyed Babbler",179,61,1
+"Jerdon's Babbler",179,62,2
+"Rufous-tailed Babbler",179,63,2
 "Banded Warbler",179,83,2
 "Barred Warbler",179,89,2
 "Babblers and parrotbills",179,112,1
+"African Hill Babbler",179,113,1
 "Babblers and parrotbills",179,118,2
 "Bamboo Warbler",176,34,2
+"baboecala",177,11,2
+"barratti",177,21,2
 "Bangwa Forest Warbler",177,24,2
+"bangwaensis",177,24,2
 "Basra Reed-warbler",176,122,2
+"baeticatus",176,128,2
 "Banded Prinia",170,14,2
+"bairdii",170,14,2
 "Bar-winged Prinia",170,48,1
 "Bamenda Apalis",171,18,2
+"bamendae",171,18,2
 "Bar-throated Apalis",171,45,2
 "Barred Wren-warbler",171,59,2
+"badiceps",170,107,1
+"Bathmocercus",170,178,1
+"Bathmocercus",170,179,2
+"Bathmocercus",170,180,2
+"barbatus",174,14,2
 "Bare-faced Bulbul",174,80,2
 "Baumann's Greenbul",174,112,2
+"baumanni",174,112,2
+"barbatus",174,146,2
+"Baeopogon",174,176,1
+"Baeopogon",174,177,2
 "Barn Swallow",178,19,2
 "Bahama Swallow",178,148,1
 "Banded Martin",178,160,2
 "Barlow's Lark",161,88,1
+"barlowi",161,88,1
 "Bar-tailed Lark",161,111,2
+"Baeolophus",169,49,1
+"Baeolophus",169,50,2
+"Baeolophus",169,52,1
+"Baeolophus",169,53,2
+"Baeolophus",169,54,2
+"banksiana",159,25,1
+"barbatus",159,96,2
 "Banggai Crow",158,71,1
+"bayleyi",157,137,2
 "Bay-backed Shrike",157,202,2
 "Balicassiao",152,88,2
+"balicassius",152,88,2
+"bairdi",154,37,2
 "Bare-throated Whistler",156,65,1
+"Crossley's Babbler",195,34,1
 "Bar-winged Flycatcher-shrike",195,77,2
+"Shrike-flycatchers, wattle-eyes and batises",195,78,2
+"Shrike-flycatchers, wattle-eyes and batises",196,0,2
 "Batis",196,2,1
+"Short-tailed Batis",196,7,1
+"Batis",196,7,1
+"Gabon Batis",196,8,2
+"Batis",196,8,2
+"Ruwenzori Batis",196,9,2
+"Batis",196,9,2
+"West African Batis",196,11,1
+"Batis",196,11,1
+"Zululand Batis",196,12,2
+"Batis",196,12,2
+"Grey-headed Batis",196,17,1
+"Batis",196,17,1
+"Cape Batis",196,18,2
+"Batis",196,18,2
+"Pygmy Batis",196,19,2
+"Batis",196,19,2
+"Dark Batis",196,20,2
+"Batis",196,20,2
+"Ituri Batis",196,21,2
+"Batis",196,21,2
+"Pririt Batis",196,26,1
+"Batis",196,26,1
+"Pale Batis",196,27,2
+"Batis",196,27,2
+"Angola Batis",196,28,2
+"Batis",196,28,2
+"Senegal Batis",196,30,1
+"Batis",196,30,1
+"Chinspot Batis",196,31,2
+"Batis",196,31,2
+"Boulton's Batis",196,34,1
+"Batis",196,34,1
+"Black-headed Batis",196,35,2
+"Batis",196,35,2
+"Fernando Po Batis",196,36,2
+"Batis",196,36,2
 "Banded Wattle-eye",196,45,2
+"barbarus",198,12,2
 "Bar-bellied Cuckooshrike",200,15,1
+"Australasian Babblers and Logrunners",120,51,2
+"Australasian babblers",120,52,1
+"White-browed Babbler",120,55,1
+"Chestnut-crowned Babbler",120,56,2
+"Grey-crowned Babbler",120,58,1
+"Hall's Babbler",120,59,2
+"New Guinea Babbler",120,60,2
 "Banded Honeyeater",148,65,2
 "Banda Myzomela",149,59,2
 "Barred Honeyeater",150,42,2
 "Bar-breasted Honeyeater",148,188,1
 "Banded Whiteface",180,82,2
+"ballarae",120,124,1
+"barbatus",120,136,2
+"bakeri",120,153,1
 "Bahia Spinetail",233,30,2
 "Baron's Spinetail",234,22,2
+"baroni",234,22,2
+"Roraiman Barbtail",233,97,2
 "Bay-capped Wren-spinetail",233,114,2
+"baeri",233,172,2
+"Rusty-winged Barbtail",231,74,2
+"White-throated Barbtail",230,62,1
+"Spotted Barbtail",230,63,2
 "Band-tailed Earthcreeper",230,71,2
 "Bar-bellied Woodcreeper",230,151,1
+"Northern Barred Woodcreeper",230,159,1
+"Amazonian Barred Woodcreeper",230,161,2
 "Barred Antthrush",229,56,2
 "Bahia Tapaculo",248,83,2
+"Spotted Bamboowren",248,105,2
 "Bay Antpitta",248,125,2
+"bangsi",248,153,1
 "Bare-eyes, Antbirds",245,4,1
 "Bananal Antbird",245,47,2
 "Bare-eyed Antbird",245,74,2
+"Black-spotted Bare-eye",245,84,1
+"Reddish-winged Bare-eye",245,86,2
 "Bare-crowned Antbird",247,15,1
 "Band-tailed Antbird",247,45,2
 "Band-tailed Antshrike",246,38,1
 "Bar-crested Antshrike",246,56,2
 "Barred Antshrike",246,62,2
 "Bahia Antwren",246,91,2
+"Batara",245,107,2
 "Bamboo Antshrike",245,110,1
 "Banded Antbird",245,115,2
 "Band-tailed Antwren",245,157,2
+"barbirostris",236,16,2
 "Baird's Flycatcher",236,118,2
+"bairdii",236,118,2
+"Drab-breasted Bamboo-tyrant",239,25,2
+"Brown-breasted Bamboo-tyrant",239,35,1
+"Flammulated Bamboo-tyrant",239,36,2
 "Bay-ringed Tyrannulet",237,13,2
 "Bahia Tyrannulet",237,43,2
 "Barred Becard",251,16,2
+"barbatus",229,119,2
 "Bare-necked Fruitcrow",250,17,2
 "Bare-throated Bellbird",250,25,2
 "Banded Cotinga",249,18,2
@@ -124,57 +379,178 @@ name,fileindex,index,whichChild
 "Band-tailed Fruiteater",249,81,2
 "Band-tailed Manakin",249,113,1
 "Bar-bellied Pitta",229,180,1
+"baudii",229,184,1
 "Banded Pitta",229,185,2
 "Banded Broadbill",229,218,2
+"Barnardius",218,57,2
+"barbadensis",221,22,2
+"barrabandi",221,86,1
 "Bald Parrot",221,91,2
+"batavicus",215,94,2
 "Barred Parakeet",215,103,2
+"banksii",215,163,2
 "Baudin????????????s Black-Cockatoo",215,165,1
+"baudinii",215,165,1
 "Barbary Falcon",222,21,1
 "Bat Falcon",222,42,2
 "Banded Kestrel",222,72,2
 "Barred Forest-falcon",114,24,2
+"Woodpeckers, Honeyguides, Toucans and Barbets",201,3,1
 "Bar-bellied Woodpecker",206,18,1
 "Bamboo Woodpecker",208,90,2
 "Banded Woodpecker",206,172,2
 "Bay Woodpecker",206,203,2
 "Bar-breasted Piculet",211,14,2
+"Toucans and barbets",204,0,2
+"bailloni",204,54,2
+"Prong-billed Barbet",204,74,1
+"Toucan Barbet",204,75,2
+"Spot-crowned Barbet",204,82,1
+"Orange-fronted Barbet",204,83,2
+"Black-spotted Barbet",204,85,1
+"Gilded Barbet",204,86,2
+"Scarlet-banded Barbet",204,87,2
+"Scarlet-crowned Barbet",204,91,1
+"White-mantled Barbet",204,92,2
+"Black-girdled Barbet",204,93,2
+"Brown-chested Barbet",204,94,2
+"Five-coloured Barbet",204,95,2
+"Lemon-throated Barbet",204,98,1
+"Scarlet-hooded Barbet",204,99,2
+"Versicoloured Barbet",204,101,1
+"Red-headed Barbet",204,102,2
+"Black-throated Barbet",205,8,1
+"Double-toothed Barbet",205,9,2
+"Black-breasted Barbet",205,11,1
+"Bearded Barbet",205,12,2
+"Brown-breasted Barbet",205,14,1
+"Zambian Barbet",205,15,2
+"Black-collared Barbet",205,19,1
+"Vieillot's Barbet",205,20,2
+"Spot-flanked Barbet",205,21,2
+"Black-billed Barbet",205,22,2
+"White-headed Barbet",205,25,1
 "Banded Barbet",205,26,2
+"Banded Barbet",205,26,2
+"Red-faced Barbet",205,27,2
+"Red-fronted Barbet",205,29,1
+"Pied Barbet",205,30,2
+"Miombo Barbet",205,33,1
+"Black-backed Barbet",205,34,2
+"Hairy-breasted Barbet",205,35,2
+"Grey-throated Barbet",204,111,1
+"Sladen's Barbet",204,112,2
+"Naked-faced Barbet",204,113,2
+"Bristle-nosed Barbet",204,114,2
+"White-eared Barbet",204,117,1
+"Whyte's Barbet",204,118,2
+"Anchieta's Barbet",204,119,2
+"Green Barbet",204,120,2
+"Yellow-spotted Barbet",204,121,2
+"Yellow-breasted Barbet",204,125,1
+"Crested Barbet",204,126,2
+"Yellow-billed Barbet",204,127,2
+"Usambiro Barbet",204,131,2
+"Red-and-yellow Barbet",204,132,2
+"Black-browed Barbet",204,143,1
+"Taiwan Barbet",204,144,2
+"Chinese Barbet",204,145,2
+"Blue-throated Barbet",204,146,2
+"Red-crowned Barbet",204,147,2
+"Golden-throated Barbet",204,150,1
+"Yellow-crowned Barbet",204,151,2
+"Brown-headed Barbet",204,152,2
+"Golden-naped Barbet",204,155,1
+"Red-vented Barbet",204,156,2
+"Gold-whiskered Barbet",204,158,1
+"Mountain Barbet",204,159,2
+"White-cheeked Barbet",204,161,1
+"Lineated Barbet",204,162,2
+"Flame-fronted Barbet",204,166,1
+"Moustached Barbet",204,167,2
+"Red-throated Barbet",204,168,2
+"Crimson-fronted Barbet",204,171,1
+"Great Barbet",204,172,2
+"Fire-tufted Barbet",204,173,2
+"Black-banded Barbet",204,178,1
+"Blue-eared Barbet",204,179,2
+"Coppersmith Barbet",204,180,2
+"Green-eared Barbet",204,182,1
+"Bornean Barbet",204,183,2
+"Yellow-fronted Barbet",204,185,1
+"Brown-throated Barbet",204,186,2
+"Brown Barbet",204,187,2
 "Barred Puffbird",201,52,2
+"badia",202,110,2
 "Banded Kingfisher",202,124,2
+"Baryphthengus",202,196,2
+"Baryphthengus",202,198,2
 "Baird's Trogon",252,11,2
+"bairdii",252,11,2
 "Bare-cheeked Trogon",252,67,1
 "Bar-tailed Trogon",252,69,2
+"Owls, Barn Owls",224,0,2
 "Barred Eagle-owl",225,12,1
 "Barred Owl",228,31,2
 "Band-bellied Owl",228,42,2
 "Bare-legged Owl",224,9,2
 "Bare-shanked Screech-owl",227,23,1
 "Balsas Screech-owl",227,36,1
+"barbarus",227,43,2
+"balli",227,57,2
+"bakkamoena",224,88,1
+"Asian Barred Owlet",226,54,1
+"African Barred Owlet",226,55,2
 "Barking Owl",224,144,2
 "Barn owls",224,170,2
 "Barn Owl",224,188,2
 "Bay-owls",224,196,2
+"Congo Bay-owl",224,197,1
+"Oriental Bay-owl",224,198,2
+"badius",224,198,2
 "Barred Hawk",118,75,2
 "Bald Eagle",115,25,2
+"badius",117,85,2
+"bartelsi",116,61,2
 "Bat Hawk",115,59,2
+"Southern Banded Snake-eagle",115,75,1
 "Banded Snake-eagle",115,76,2
 "Bateleur",115,77,2
+"African Baza",115,123,1
+"Black Baza",115,124,2
+"Jerdon's Baza",115,125,2
+"Madagascar Baza",115,127,1
+"Pacific Baza",115,128,2
 "Barred Honey-buzzard",115,140,2
+"barbatus",115,159,2
 "Band-tailed Gull",214,42,2
+"balaenarum",212,82,2
 "Barred Buttonquail",114,113,2
 "Baird's Sandpiper",223,129,2
+"bairdii",223,129,2
 "Bar-tailed Godwit",223,158,2
+"Bartramia",223,176,2
 "Banded Lapwing",119,25,2
+"bachmani",119,134,2
 "Banded Stilt",119,156,2
+"bacchus",354,18,1
 "Bare-throated Tiger-heron",354,122,1
+"Northern Bald Ibis",354,188,1
+"Southern Bald Ibis",354,189,2
 "Bare-faced Ibis",354,190,2
+"Balaeniceps",354,209,1
 "Bank Cormorant",364,67,2
+"bassanus",364,92,2
 "Balearic Shearwater",359,17,1
 "Barau's Petrel",358,25,2
+"baraui",358,25,2
 "Bannerman's Turaco",346,74,2
+"bannermani",346,74,2
 "Bare-faced Go-away-bird",346,92,1
 "Barred Long-tailed Cuckoo",355,40,1
 "Banded Bay Cuckoo",355,61,2
+"Banded Bay Cuckoo",355,61,2
+"basalis",355,76,1
 "Bay-breasted Cuckoo",356,16,2
 "Bay Coucal",355,149,2
 "Banded Ground-cuckoo",346,114,2
@@ -182,150 +558,1378 @@ name,fileindex,index,whichChild
 "Band-bellied Crake",360,20,1
 "Barred Rail",362,22,2
 "Bare-eyed Rail",361,30,1
+"Balearica",360,185,1
+"Balearica",360,186,2
 "Banded Fruit-dove",350,15,2
+"badia",352,30,1
+"basilica",352,46,2
 "Banded Imperial-pigeon",352,55,2
+"bakeri",352,56,2
 "Bar-shouldered Dove",347,55,2
 "Barred Dove",347,58,2
 "Barred Cuckoo-dove",347,123,2
 "Bare-eyed Pigeon",347,171,2
 "Band-tailed Pigeon",347,174,1
+"battyi",349,66,1
 "Bare-faced Ground-dove",347,200,1
 "Bare-eyed Ground-dove",347,201,2
+"baeri",326,15,2
 "Bahama Woodstar",328,22,2
+"baroni",332,18,1
+"barroti",330,41,1
+"Hermits and Barbthroats",325,1,1
 "Barbthroats",325,61,2
+"Pale-tailed Barbthroat",325,63,1
+"Sooty Barbthroat",325,64,2
 "Band-tailed Barbthroat",325,65,2
+"Band-tailed Barbthroat",325,65,2
+"bartschi",329,20,1
 "Bare-legged Swiftlet",329,29,2
 "Bates's Swift",329,83,1
+"batesi",329,83,1
+"balstoni",329,95,2
+"barbatus",329,107,2
+"balasiensis",329,116,1
 "Band-rumped Swift",329,158,2
 "Bat-like Spinetail",329,171,2
 "Barred Owlet-nightjar",324,57,2
+"Batrachostomus",324,74,1
+"Batrachostomus",324,75,2
+"Batrachostomus",324,77,1
+"Batrachostomus",324,78,2
+"Batrachostomus",324,81,1
+"Batrachostomus",324,82,2
+"Batrachostomus",324,84,1
+"Batrachostomus",324,85,2
+"Batrachostomus",324,88,1
+"Batrachostomus",324,89,2
+"Batrachostomus",324,90,2
 "Band-winged Nightjar",324,160,1
 "Band-tailed Nighthawk",324,175,2
 "Bates's Nightjar",331,23,2
+"batesi",331,23,2
+"badius",331,41,2
 "Bamboo-Partridges",312,152,2
+"BAMBUSICOLA",312,152,2
+"Chinese Bamboo-partridge",312,153,1
+"Bambusicola",312,153,1
+"Mountain Bamboo-partridge",312,154,2
+"Bambusicola",312,154,2
 "Barbary Partridge",317,61,2
+"barbara",317,61,2
 "Bar-backed Partridge",314,18,2
+"balliviani",315,19,1
+"barbatus",310,19,2
 "Banded Quail",310,21,2
 "Bare-faced Curassow",310,44,1
 "Baudo Guan",311,9,2
 "Band-tailed Guan",311,11,1
+"barbata",311,30,2
 "Barrow's Goldeneye",313,23,1
 "Baer's Pochard",313,93,2
+"baeri",313,93,2
+"bahamensis",313,146,2
 "Baikal Teal",313,204,2
 "Bar-headed Goose",316,14,2
 "Barnacle Goose",316,28,2
+"Cape Barren Goose",316,46,1
 "Barred Tinamou",253,11,1
 "Bartlett's Tinamou",253,41,2
+"bartletti",253,41,2
+"Painted Batagur",94,57,1
+"Batagur",94,62,1
+"Batagur",94,63,2
+"Batagur",94,64,2
+"baska",94,64,2
 "Batagur",94,64,2
 "Barbour's Map Turtle",95,10,1
+"barbouri",95,10,1
+"bayoni",305,85,1
+"Bassiana",306,34,1
+"Bassiana",306,35,2
+"Bassiana",306,36,2
+"Jurien Bay Rock-skink",307,65,1
+"baudini",300,57,2
+"basiliscus",300,191,2
 "Balkan Green Lizard",299,96,2
+"Bachia",304,81,1
+"Bachia",304,82,2
+"Bachia",304,83,2
+"Bachia",304,84,2
+"Bachia",304,85,2
+"barbouri",304,86,2
+"Bachia",304,86,2
+"Bachia",304,87,2
+"Bachia",304,88,2
+"Bachia",304,89,2
+"Bachia",304,90,2
+"Iguanas, Basilisks and more",405,4,1
+"barahonensis",405,62,2
 "Basilisks",415,12,2
+"basiliscus",415,15,1
+"Basiliscus",415,15,1
+"Basiliscus",415,16,2
+"Basiliscus",415,17,2
+"Basiliscus",415,18,2
+"barbatus",409,104,2
+"barahonae",409,106,1
+"barbouri",409,108,2
 "Baja California Brush Lizard",408,87,2
 "Banded Rock Lizard",414,43,1
+"badakhshana",406,122,1
+"barbata",413,17,2
+"Barisia",405,196,2
+"badius",411,49,2
+"barbouri",411,52,2
+"barnesii",338,16,2
 "Barred Short-headed Snake",335,53,2
+"barroni",335,66,2
+"Balanophis",335,167,1
+"baileyi",335,200,2
 "Banded Philippine Burrowing Snake",340,56,2
+"barbouri",339,23,2
+"barbouri",334,167,2
+"barnardi",319,34,2
+"bastardi",318,34,2
 "Banded Geckos",318,103,1
+"Western Banded Gecko",318,106,1
+"Texas Banded Gecko",318,107,2
+"Reticulate Banded Gecko",318,108,2
+"Bavayia",320,54,2
+"Shark Bay Mouse",266,140,2
+"barbatus",270,72,2
 "Baoule's Mouse",269,122,2
+"baoulei",269,122,2
 "Balkan Short-tailed Mouse",269,158,2
+"baluensis",267,45,2
+"baeodon",267,147,1
 "Bartels's Javan Maxomys",267,171,2
+"bartelsii",267,171,2
 "Bandicoot Rats",267,220,2
+"Bunn's Short-tailed Bandicoot Rat",267,221,1
+"Short-tailed Bandicoot Rat",267,222,2
 "Barbary Lemniscomys",274,10,1
+"barbarus",274,10,1
 "Bandicoot Rats",273,70,1
+"Bandicota",273,70,1
+"Lesser Bandicoot Rat",273,72,1
+"Bandicota",273,72,1
+"Greater Bandicoot Rat",273,73,2
+"Bandicota",273,73,2
+"Savile's Bandicoot Rat",273,74,2
+"Bandicota",273,74,2
+"Javan Bamboo Rat",273,75,2
 "Baer's Hylomyscus",273,109,2
+"baeri",273,109,2
+"basilii",271,9,2
+"badius",271,11,2
+"bagobus",271,33,1
 "Barbour's Vlei Rat",264,39,1
+"barbouri",264,39,1
 "Batomys",263,107,2
+"Large-toothed Batomys",263,109,1
+"Batomys",263,109,1
+"Mindanao Batomys",263,110,2
+"Batomys",263,110,2
+"Luzon Batomys",263,111,2
+"Batomys",263,111,2
 "Barfur Gerbil",268,61,1
 "Barbour's Rock Mouse",263,151,2
+"barbouri",263,151,2
 "Balkan Blind Mole Rat",263,169,2
 "Baluchi Brush-tailed Mouse",263,183,2
+"baluchi",263,183,2
+"bailwardi",263,186,1
+"batesi",263,195,2
+"baeops",290,16,2
+"balneator",293,62,1
+"Northern Baja Deermouse",291,48,1
+"banderanus",291,125,2
 "Baiomys",287,207,2
+"Baiomys",287,208,1
+"Baiomys",287,209,2
 "Bavarian Pine Vole",282,19,1
+"bavaricus",282,19,1
 "Balkan Pine Vole",282,29,2
 "Baluchistan Vole",282,80,2
 "Bank Vole",284,42,2
+"barakshin",284,60,1
 "Balkan Snow Vole",284,72,2
+"bastardi",281,87,2
+"barabensis",281,108,2
 "Bamboo Rats",281,163,2
+"Indomalayan Bamboo Rat",281,166,1
+"Hoary Bamboo Rat",281,167,2
+"Chinese Bamboo Rat",281,168,2
 "Bay Bamboo Rat",281,169,2
+"Bay Bamboo Rat",281,169,2
+"badius",281,169,2
 "Banana Climbing Mouse",281,186,2
 "Baluchistan Pygmy Jerboa",280,52,1
 "Balikun Jerboa",280,85,2
+"balikunica",280,85,2
 "Baird's Pocket Gopher",255,79,2
 "Bailey's Pocket Mouse",255,129,1
+"baileyi",255,129,1
 "Baja Pocket Mouse",255,130,2
+"Great Basin Pocket Mouse",255,137,1
+"Great Basin Pocket Mouse",255,140,1
 "Banner-tailed Kangaroo Rat",255,185,1
 "Bamboo Rats and Olalla Rats",258,116,1
+"Bolivian Bamboo Rat",258,120,1
+"Amazon Bamboo Rat",258,121,2
+"Peruvian Bamboo Rat",258,122,2
+"Atlantic Bamboo Rat",258,126,2
 "Bahamian Hutia",256,22,1
+"Bathyergidae",259,1,1
 "Bathyergus",259,22,1
+"Bathyergus",259,23,1
+"Bathyergus",259,24,2
 "Bahia Hairy Dwarf Porcupine",256,126,1
+"barrerae",254,40,1
 "Bartels's Flying Squirrel",278,50,2
+"bartelsi",278,50,2
 "Bangs's Mountain Squirrel",279,65,2
+"baluensis",278,189,2
 "Baja California Rock Squirrel",297,57,2
+"baibacina",296,26,1
+"bayonii",296,145,2
 "Barbary Ground Squirrel",296,180,2
+"bachmani",254,100,2
 "Barbary Macaque",275,24,2
+"Mangabeys, Baboons and more",275,42,2
 "Baboons",275,44,1
+"Hamadryas Baboon",275,49,1
+"Olive Baboon",275,50,2
+"Chacma Baboon",275,51,2
+"Yellow Baboon",275,52,2
+"Guinea Baboon",275,53,2
+"Gelada Baboon",275,54,2
 "Bale Monkey",275,129,2
+"barbei",276,25,2
 "Banded Surili",276,47,2
+"badius",275,192,2
+"Martin'S/ochraceous Bare-face Tamarin",285,60,1
+"Brazilian Bare-faced Tamarin",285,61,2
+"barbarabrownae",285,83,2
 "Baptista Lake Titi Monkey",285,157,1
+"baptista",285,157,1
 "Bald-headed Uacari",285,176,2
+"Gray's Bald-faced Saki",285,180,1
+"bancanus",254,132,1
 "Bamboo Lemurs",260,29,2
+"Eastern Lesser Bamboo Lemur",260,32,1
+"Sambirano Lesser Bamboo Lemur",260,34,2
+"Golden Bamboo Lemur",260,36,1
+"Greater Bamboo Lemur",260,37,2
+"Carnivorans, Bats, Hedgehogs and more",365,0,2
 "Bats",365,2,1
+"Vesper Bats",365,7,1
+"Woolly Bats and more",389,7,1
+"Papillose Woolly Bat",389,14,1
+"Lenis Woolly Bat",389,15,2
+"Clear-winged Woolly Bat",389,16,2
+"Lesser Woolly Bat",389,17,2
+"Manaus Island Woolly Bat",389,19,1
+"Fly River Woolly Bat",389,20,2
+"Small Woolly Bat",389,24,1
+"Least Woolly Bat",389,25,2
+"Smith's Woolly Bat",389,27,1
+"Painted Bat",389,28,2
+"Whitehead's Woolly Bat",389,29,2
+"Flores Woolly Bat",389,30,2
+"Common Woolly Bat",389,36,1
+"Copper Woolly Bat",389,37,2
+"Spurrell's Woolly Bat",389,38,2
+"Ethiopian Woolly Bat",389,39,2
+"Damara Woolly Bat",389,40,2
+"Louisiade Woolly Bat",389,41,2
+"Groove-toothed Trumpet-eared Bat",389,44,1
+"Dubious Trumpet-eared Bat",389,45,2
+"Peters's Trumpet-eared Bat",389,47,1
+"Golden-tipped Bat",389,48,2
+"Tube-nosed Bats",389,50,1
+"Greater Tube-nosed Bat",389,59,1
+"Rufous Tube-nosed Bat",389,60,2
+"Dusky Tube-nosed Bat",389,61,2
+"Gloomy Tube-nosed Bat",389,62,2
+"Brown Tube-nosed Bat",389,63,2
+"Little Tube-nosed Bat",389,64,2
+"Ussuri Tube-nosed Bat",389,65,2
+"Flute-nosed Bat",389,68,1
+"Scully's Tube-nosed Bat",389,70,2
+"Hutton's Tube-nosed Bat",389,74,1
+"Bronze Tube-nosed Bat",389,75,2
+"Round-eared Tube-nosed Bat",389,76,2
+"Gilded Tube-nosed Bat",389,78,1
+"Taiwanese Tube-nosed Bat",389,79,2
+"Greater Hairy-winged Bat",389,82,1
+"Lesser Hairy-winged Bat",389,83,2
+"Greater Broad-nosed Bat",389,84,2
+"Machado's Butterfly Bat",391,9,1
+"Butterfly Bat",391,10,2
+"Kenyan Wattled Bat",391,12,1
+"Bibundi Bat",391,13,2
+"Allen's Spotted Bat",391,15,1
+"Beatrix's Bat",391,16,2
+"Allen's Striped Bat",391,18,1
+"Silvered Bat",391,19,2
+"Glen's Wattled Bat",391,21,1
+"Abo Bat",391,22,2
+"Pied Bat",391,23,2
+"De Winton's Long-eared Bat",391,26,1
+"Botswanan Long-eared Bat",391,27,2
+"Angolan Long-eared Bats",391,29,1
+"Namib Long-eared Bat",391,30,2
+"Desert Long-eared Bat",391,31,2
+"Finlayson's Cave Bat",391,38,1
+"Eastern Cave Bat",391,39,2
+"Eastern Forest Bat",391,41,1
+"Northern Cave Bat",391,42,2
+"Large Forest Bat",391,43,2
+"Yellow-lipped Cave Bat",391,44,2
+"Southern Forest Bat",391,47,1
+"Little Forest Bat",391,48,2
+"Inland Forest Bat",391,49,2
+"baverstocki",391,49,2
+"Greater Bamboo Bat",391,51,1
+"Greater Bamboo Bat",391,51,1
+"Lesser Bamboo Bat",391,52,2
+"Lesser Bamboo Bat",391,52,2
+"New Caledonia Wattled Bat",389,92,1
+"Gould's Wattled Bat",389,93,2
+"Hoary Wattled Bat",389,94,2
+"Chocolate Wattled Bat",389,97,1
+"Little Pied Bat",389,98,2
+"Large-eared Pied Bat",389,99,2
+"New Zealand Long-tailed Bat",389,100,2
+"Kolombatovic's Long-eared Bat",389,129,1
+"Gray Big-eared Bat",389,130,2
+"Canary Big-eared Bat",389,131,2
+"Taiwan Long-eared Bat",389,133,1
+"Brown Big-eared Bat",389,134,2
+"Townsend's Big-eared Bat",389,137,1
+"Mexican Big-eared Bat",389,138,2
+"Rafinesque's Big-eared Bat",389,139,2
+"Allen's Big-eared Bat",389,141,1
+"Spotted Bat",389,142,2
 "Barbastella",389,143,2
+"Asian Barbastelle",389,144,1
+"Barbastella",389,144,1
 "Barbastelle",389,145,2
+"barbastellus",389,145,2
+"Barbastella",389,145,2
+"Yellow Bats",389,151,2
+"Black-winged Little Yellow Bat",389,158,1
+"Yucatan Yellow Bat",389,159,2
+"Thomas's Yellow Bat",389,160,2
+"Tiny Yellow Bat",389,161,2
+"Genoways's Yellow Bat",389,163,1
+"Little Yellow Bat",389,164,2
+"Slender Yellow Bat",389,165,2
+"Least Yellow Bat",389,166,2
+"Allen's Yellow Bat",389,167,2
+"Noctule Bats",389,170,1
+"LEISLER'S BAT",389,176,2
+"Azorean Bat",389,179,2
+"False Serotine Bat",389,186,1
+"Disk-footed Bat",389,187,2
+"Broad-nosed Bats",390,52,1
+"Northern Broad-nosed Bat",390,54,1
+"Little Broad-nosed Bat",390,55,2
+"Inland Broad-nosed Bat",390,57,1
+"balstoni",390,57,1
+"Eastern Broad-nosed Bat",390,58,2
+"Schlieffen's Bat",390,59,2
+"Southern Big-eared Brown Bat",390,66,1
+"Small Big-eared Brown Bat",390,67,2
+"Tropical Big-eared Brown Bat",390,68,2
+"Thomas's Big-eared Brown Bat",390,70,1
+"Big-eared Brown Bat",390,71,2
+"Strange Big-eared Brown Bat",390,72,2
+"Blanford's Bat",390,78,2
+"Tickell's Bat",390,79,2
+"Cuban Evening Bat",390,81,1
+"Evening Bat",390,82,2
+"Moloney's Flat-headed Bat",389,205,1
+"Dormer's Bat",389,206,2
+"Pfeiffer's Red Bat",392,12,1
+"Red Bat",392,13,2
+"Jamaican Red Bat",392,15,2
+"Eastern Red Bat",392,18,1
+"Cinnamon Red Bat",392,19,2
+"Minor Red Bat",392,20,2
+"Seminole Bat",392,21,2
+"Hawaiian Hoary Bat",392,23,1
+"Tacarcuna Bat",392,24,2
+"Northern Yellow Bat",392,27,1
+"Cuban Yellow Bat",392,28,2
+"Western Yellow Bat",392,30,1
+"Southern Yellow Bat",392,31,2
+"Big Red Bat",392,32,2
+"Long-eared Bats",392,35,1
+"Gould's Long-eared Bat",392,40,1
+"Eastern Long-eared Bat",392,41,2
+"Pygmy Long-eared Bat",392,42,2
+"Papuan Long-eared Bat",392,44,1
+"Sundan Long-eared Bat",392,45,2
+"Northern Long-eared Bat",392,47,1
+"Lesser Long-eared Bat",392,48,2
+"Small-toothed Long-eared Bat",392,50,1
+"Greater Long-eared Bat",392,51,2
+"Thomas's Big-eared Bat",392,52,2
+"Common Thick-thumbed Bat",389,209,1
+"Javan Thick-thumbed Bat",389,210,2
+"Van Gelder's Bat",389,212,1
+"Bauerus",389,212,1
+"Pallid Bat",389,213,2
+"Mouse-eared Bats and more",403,3,1
+"Indiana Bat",404,20,2
+"Bokhara Whiskered Bat",404,38,1
+"Himalayan Whiskered Bat",404,40,2
+"Nepalese Whiskered Bat",404,48,1
+"Hairy-faced Bat",404,52,1
+"Ikonnikov's Bat",404,57,1
+"Scott's Mouse-eared Bat",404,62,2
+"Little Brown Bat",404,77,1
+"Kashmir Cave Bat",403,16,2
+"Long-fingered Bat",403,22,2
+"Lesueur's Hairy Bat",403,27,1
+"Angolan Hairy Bat",403,28,2
+"Fish-eating Bat",403,35,2
+"Temminck's Mysterious Bat",403,38,1
+"Greater Mouse-eared Bat",403,55,2
+"Natterer's Bat",403,60,2
+"Malagasy Mouse-eared Bat",403,69,1
+"Morris's Bat",403,71,2
+"Cape Hairy Bat",403,72,2
+"Geoffroy's Bat",403,73,2
+"Hodgson's Bat",403,87,2
+"Welwitch's Bat",403,88,2
+"Rufous Mouse-eared Bat",403,104,2
+"Sombre Bat",403,136,2
+"Guadeloupean Big Brown Bat",403,138,1
+"Thick-eared Bat",403,139,2
+"Brazilian Brown Bat",403,145,2
+"Long-tailed House Bat",403,150,1
+"Big Brown Bat",403,151,2
+"Argentine Brown Bat",403,154,2
+"Gobi Big Brown Bat",403,158,1
+"Northern Bat",403,159,2
+"Japanese Short-tailed Bat",403,160,2
+"Sind Serotine Bat",403,162,2
+"Horn-skinned Bat",403,163,2
+"Rohu's Bat",403,164,2
+"African Yellow Bat",403,173,1
+"Robust Yellow Bat",403,174,2
+"Nut-colored Yellow Bat",403,175,2
+"White-bellied Yellow Bat",403,177,1
+"Robbin's House Bat",403,178,2
+"Giant House Bat",403,179,2
+"Lesser Asiatic Yellow House Bat",403,181,1
+"Sody's Yellow House Bat",403,182,2
+"Greater Asiatic Yellow House Bat",403,185,1
+"Sulawesi Yellow House Bat",403,186,2
+"Lesser Yellow Bat",403,188,1
+"Greenish Yellow Bat",403,189,2
+"Harlequin Bat",403,190,2
+"Great Evening Bat",403,191,2
+"House Bats",403,193,1
+"Dark-winged Lesser House Bat",403,199,2
+"Light-winged Lesser House Bat",403,200,2
+"Desert Yellow Lesser House Bat.",403,201,2
+"Asian Particolored Bat",403,203,1
+"Particoloured Bat",403,204,2
+"Silver-haired Bat",403,209,2
+"Long-winged Bats",365,9,2
+"Shortridge's Long-fingered Bat",365,15,1
+"Philippine Long-fingered Bat",365,16,2
+"Little Long-fingered Bat",365,17,2
+"Manavil Long-fingered Bat",365,19,1
+"Least Long-fingered Bat",365,20,2
+"Small Melanesian Bent-winged Bat",365,22,1
+"Small Long-fingered Bat",365,23,2
+"Southeast Asian Long-fingered Bat",365,26,1
+"Medium Bent-winged Bat",365,27,2
+"Lesser Long-fingered Bat",365,28,2
+"Natal Long-fingered Bat",365,33,1
+"Major's Long-fingered Bat",365,34,2
+"Common Bentwing Bat",365,35,2
+"Loyalty Bent-winged Bat",365,37,1
+"Great Long-fingered Bat",365,38,2
+"Greater Long-fingered Bat",365,41,1
+"Large Bent-winged Bat",365,43,2
+"Mastiff Bats",396,8,1
+"Aztec Mastiff Bat",396,15,1
+"barnesi",396,16,2
+"Coiban Mastiff Bat",396,17,2
+"Pallas's Mastiff Bat",396,18,2
+"Miller's Mastiff Bat",396,20,1
+"Black Mastiff Bat",396,21,2
+"Bonda Mastiff Bat",396,22,2
+"Sinaloan Mastiff Bat",396,23,2
+"Big Crested Mastiff Bat",396,25,1
+"Brown Mastiff Bat",396,26,2
+"Bonneted Bats",396,27,2
+"Underwood's Bonneted Bat",396,33,1
+"Black Bonneted Bat",396,34,2
+"Wagner's Bonneted Bat",396,35,2
+"Guianan Bonneted Bat",396,36,2
+"Patagonian Dwarf Bonneted Bat",396,38,1
+"Dwarf Bonneted Bat",396,39,2
+"Big Bonneted Bat",396,40,2
+"Greater Bonneted Bat",396,43,1
+"Sanborn's Bonneted Bat",396,45,2
+"Madagascar Free-tailed Bat",396,49,1
+"Large-eared Free-tailed Bat",396,50,2
+"Mantled Free-tailed Bat",396,51,2
+"Papuan Free-tailed Bat",396,54,1
+"Java Giant Mastiff Bat",396,55,2
+"Wroughton's Free-tailed Bat",396,56,2
+"Pocketed Free-tailed Bat",396,123,1
+"Broad-eared Bat",396,124,2
+"Big Free-tailed Bat",396,125,2
+"Peale's Free-tailed Bat",396,126,2
+"Free-tailed Bats",396,127,2
+"La Touche's Free-tailed Bat",396,135,1
+"East Asian Free-tailed Bat",396,136,2
+"European Free-tailed Bat",396,137,2
+"Kenyan Big-eared Free-tailed Bat",396,138,2
+"Malagasy Free-tailed Bat",396,139,2
+"African Giant Free-tailed Bat",396,140,2
+"White-striped Free-tailed Bat",396,142,1
+"New Guinea Free-tailed Bat",396,143,2
+"Egyptian Free-tailed Bat",396,144,2
+"Brazilian Free-tailed Bat",396,145,2
+"Dog-faced Bats",396,147,1
+"Greenhall's Dog-faced Bat",396,153,1
+"Mexican Dog-faced Bat",396,154,2
+"Southern Dog-faced Bat",396,156,1
+"Brown Dog-faced Bat",396,157,2
+"Cinnamon Dog-faced Bat",396,158,2
+"Equatorial Dog-faced Bat",396,159,2
+"Mato Grosso Dog-faced Bat",396,160,2
+"Rufous Dog-faced Bat",396,162,1
+"Dwarf Dog-faced Bat",396,163,2
+"Daubenton's Free-tailed Bat",396,166,1
+"Bini Free-tailed Bat",396,167,2
+"Greater Naked Bat",396,169,1
+"Lesser Naked Bat",396,170,2
+"Peters' Wrinkle-lipped Bat",396,176,1
+"Sumatran Mastiff Bat",396,177,2
+"Natal Free-tailed Bat",396,178,2
+"Kalinowski's Mastiff Bat",396,181,1
+"Incan Little Mastiff Bat",396,182,2
+"Little Goblin Bat",396,183,2
+"Roberts's Flat-headed Bat",396,184,2
+"Little Northern Free-tailed Bat",396,189,1
+"Southern Free-tailed Bat",396,190,2
+"Beccari's Free-tailed Bat",396,191,2
+"East-coast Free-tailed Bat",396,192,2
+"Peters's Flat-headed Bat",396,193,2
+"Blunt-eared Bat",396,194,2
+"Broad-nosed Bats",394,3,1
+"Recife Broad-nosed Bat",394,8,1
+"Buffy Broad-nosed Bat",394,9,2
+"Thomas's Broad-nosed Bat",394,10,2
+"Shadowy Broad-nosed Bat",394,12,1
+"Greater Broad-nosed Bat",394,13,2
+"Heller's Broad-nosed Bat",394,16,1
+"Choco Broad-nosed Bat",394,17,2
+"Eldorado Broad-nosed Bat",394,18,2
+"Short-headed Broad-nosed Bat",394,20,1
+"White-lined Bat",394,21,2
+"Great Stripe-faced Bat",394,22,2
+"Brown Tent-making Bat",394,24,1
+"Tent-maiking Bat",394,25,2
+"Yellow-eared Bats",394,29,1
+"Northern Little Yellow-eared Bat",394,32,1
+"Little Yellow-eared Bat",394,33,2
+"Melissa's Yellow-eared Bat",394,34,2
+"Striped Yellow-eared Bat",394,37,1
+"Brock's Yellow-eared Bat",394,38,2
+"Bedentate Yellow-eared Bat",394,39,2
+"Macconnell's Bat",394,40,2
+"Honduran White Bat",394,41,2
+"Big-eyed Bats",394,42,2
+"Guadeloupean Big-eyed Bat",394,45,1
+"Hairy Big-eyed Bat",394,46,2
+"Little Big-eyed Bat",394,48,1
+"Brazilian Big-eyed Bat",394,49,2
+"Salvin's Big-eyed Bat",394,50,2
+"Fruit-eating Bats",393,10,2
+"Honduran Fruit-eating Bat",393,18,1
+"Hairy Fruit-eating Bat",393,19,2
+"Fraternal Fruit-eating Bat",393,20,2
+"Jamaican Fruit-eating Bat",393,23,1
+"Great Fruit-eating Bat",393,24,2
+"Dark Fruit-eating Bat",393,25,2
+"Large Fruit-eating Bat",393,26,2
+"Fringed Fruit-eating Bat",393,27,2
+"Brown Fruit-eating Bat",393,28,2
+"Thomas's Fruit-eating Bat",393,35,1
+"Silver Fruit-eating Bat",393,36,2
+"Dwarf Fruit-eating Bat",393,37,2
+"Andersen's Fruit-eating Bat",393,38,2
+"Gervais's Fruit-eating Bat",393,39,2
+"Toltec Fruit-eating Bat",393,40,2
+"Pygmy Fruit-eating Bat",393,42,1
+"Aztec Fruit-eating Bat",393,43,2
+"Velvety Fruit-eating Bat",393,44,2
+"Cuban Fig-eating Bat",393,49,1
+"Red Fruit Bat",393,50,2
+"Jamaican Fig-eating Bat",393,52,1
+"Tree Bat",393,53,2
+"Little White-shouldered Bat",393,55,1
+"Visored Bat",393,56,2
+"Ipanema Bat",393,58,1
+"Wrinkle-faced Bat",393,59,2
+"Yellow-shouldered Bats",393,60,2
+"Tschudi's Yellow-shouldered Bat",393,66,1
+"Bogota Yellow-shouldered Bat",393,67,2
+"Greater Yellow-shouldered Bat",393,68,2
+"Thomas's Yellow-shouldered Bat",393,71,1
+"Tilda Yellow-shouldered Bat",393,72,2
+"Talamancan Yellow-shouldered Bat",393,73,2
+"Highland Yellow-shouldered Bat",393,76,1
+"Hairy Yellow-shouldered Bat",393,77,2
+"Louis's Yellow-shouldered Bat",393,78,2
+"Aratathomas's Yellow shouldered Bat",393,80,1
+"Little Yellow-shouldered Bat",393,81,2
+"Bidentate Yellow-shouldered Bat",393,83,1
+"Lesser Yellow-shouldered Bat",393,84,2
+"Short-tailed Bats",393,86,1
+"Seba's Short-tailed Bat",393,88,1
+"Silky Short-tailed Bat",393,89,2
+"Chestnut Short-tailed Bat",393,91,1
+"Gray Short-tailed Bat",393,92,2
+"Fischer's Little Fruit Bat",393,95,1
+"Hairy Little Fruit Bat",393,96,2
+"Dwarf Little Fruit Bat",393,97,2
+"Greater Long-tailed Bat",395,6,1
+"Lesser Long-tailed Bat",395,7,2
+"Godman's Long-tailed Bat",395,8,2
+"Mexican Long-tongued Bat",395,10,1
 "Banana Bat",395,11,2
+"Banana Bat",395,11,2
+"Underwood's Long-tongued Bat",395,14,1
+"Dark Long-tongued Bat",395,15,2
+"Ega Long-tongued Bat",395,16,2
+"Tailless Bats",395,17,2
+"Broad-toothed Tailless Bat",395,20,1
+"Handley's Tailless Bat",395,21,2
+"Tailed Tailless Bat",395,22,2
+"Geoffroy's Tailless Bat",395,23,2
+"Long-tongued Bats",395,26,1
+"Western Long-tongued Bat",395,30,1
+"Gray Long-tongued Bat",395,31,2
+"Miller's Long-tongued Bat",395,32,2
+"Pallas's Long-tongued Bat",395,33,2
+"Commissaris's Long-tongued Bat",395,34,2
+"Insular Single-leaf Bat",395,36,1
+"Leach's Single-leaf Bat",395,37,2
+"Curacaoan Long-nosed Bat",395,40,1
+"Lesser Long-nosed Bat",395,41,2
+"Greater Long-nosed Bat",395,42,2
+"Nectar Bats",393,102,1
+"Handley's Nectar Bat",393,106,1
+"Orange Nectar Bat",393,107,2
+"Western Nectar Bat",393,108,2
+"Bokermann's Nectar Bat",393,110,1
+"Goldman' Nectar Bat",393,111,2
+"Dekeyser's Nectar Bat",393,113,1
+"Thomas's Nectar Bat",393,114,2
+"Chestnut Long-tongued Bat",393,115,2
+"Long-snouted Bat",393,116,2
+"Flower Bats",393,118,1
+"Jamaican Flower Bat",393,120,1
+"Cuban Flower Bat",393,121,2
+"Brown Flower Bat",393,123,1
+"Buffy Flower Bat",393,124,2
+"Antillean Fruit-eating Bat",393,126,1
+"Cuban Fruit-eating Bat",393,127,2
+"Big-eared Bats and more",393,130,1
+"Lesser Spear-nosed Bat",393,139,1
+"Greater Spear-nosed Bat",393,140,2
+"Guianan Spear-nosed Bat",393,141,2
+"Pale Spear-nosed Bat",393,142,2
+"Pale-faced Bat",393,143,2
+"Cozumelan Golden Bat",393,146,1
+"Golden Bat",393,147,2
+"Striped Hairy-nosed Bat",393,149,1
+"Round-eared Bats",393,151,2
+"Carriker's Round-eared Bat",393,156,1
+"Davis's Round-eared Bat",393,157,2
+"White-throated Round-eared Bat",393,158,2
+"Stripe-headed Round-eared Bat",393,160,1
+"Greater Round-eared Bat",393,161,2
+"Pygmy Round-eared Bat",393,162,2
+"Schultz's Round-eared Bat",393,163,2
+"Big-eared Wooly Bat",393,165,1
+"Spectral Bat",393,166,2
+"Fringe-lipped Bat",393,167,2
+"Big-eared Bats",393,169,1
+"Little Big-eared Bat",393,173,1
+"Common Big-eared Bat",393,174,2
+"Schmidts's Big-eared Bat",393,177,1
+"Tiny Big-eared Bat",393,178,2
+"Hairy Big-eared Bat",393,179,2
+"Behni's Big-eared Bat",393,185,1
+"Tricolored Bat",393,186,2
+"Davies's Big-eared Bat",393,187,2
+"Least Big-eared Bat",393,188,2
+"Niceforo's Big-eared Bat",393,189,2
+"Orange-throated Bat",393,190,2
+"Waterhouse's Leaf-nosed Bat",393,192,1
+"California Leaf-nosed Bat",393,193,2
+"Sword-nosed Bats",393,195,1
+"Marinkelle's Sword-nosed Bat",393,198,1
+"Common Sword-nosed Bat",393,199,2
+"Fernandez's Sword-nosed Bat",393,200,2
+"Orinoco Sword-nosed Bat",393,201,2
+"Long-legged Bat",393,202,2
+"White-winged Vampire Bat",393,205,1
+"Common Vampire Bat",393,206,2
+"Hairy-legged Vampire Bat",393,207,2
+"Mustached Bats and more",393,208,2
+"Macleay's Mustached Bat",393,213,1
+"Sooty Mustached Bat",393,214,2
+"Wagner's Mustached Bat",393,215,2
+"Common Mustached Bat",393,216,2
+"Big Naked-backed Bat",393,218,1
+"Davy's Naked-backed Bat",393,219,2
+"Antillean Ghost-faced Bat",393,221,1
+"Ghost-faced Bat",393,222,2
+"Lesser Bulldog Bat",393,224,1
+"Greater Bulldog Bat",393,225,2
+"New Zealand Lesser Short-tailed Bat",393,226,2
+"Funnel-eared Bats",365,47,1
+"Hispaniolan Greater Funnel-eared Bat",365,53,1
+"Cuban Greater Funnel-eared Bat",365,54,2
+"Mexican Funnel-eared Bat",365,55,2
+"Jamaican Greater Funnel-eared Bat",365,56,2
+"Trinidadian Funnel-eared Bat",365,57,2
 "Bahaman Funnel-eared Bat",365,59,1
+"Bahaman Funnel-eared Bat",365,59,1
+"Cuban Funnel-eared Bat",365,60,2
+"Gervais's Funnel-eared Bat",365,61,2
+"Smokey Bat",365,63,1
+"Thumbless Bat",365,64,2
+"Peter's Disk-winged Bat",365,66,1
+"Spix's Disk-winged Bat",365,67,2
+"Eastern Sucker-footed Bat",365,68,2
+"Old World Leaf-nosed Bats",376,3,1
+"Commerson's Leaf-nosed Bat",378,11,1
+"Giant Leaf-nosed Bat",378,14,2
+"Shield-faced Leaf-nosed Bat",378,16,1
+"Pratt's Leaf-nosed Bat",378,17,2
+"Crested Leaf-nosed Bat",378,18,2
+"Sumban Leaf-nosed Bat",378,22,1
+"Grand Leaf-nosed Bat",378,23,2
+"Horsfield's Leaf-nosed Bat",378,24,2
+"Great Himalayan Leaf-nosed Bat",378,26,1
+"Lesser Leaf-nosed Bat",378,27,2
+"Fly River Leaf-nosed Bat",378,33,1
+"Semon's Leaf-nosed Bat",378,34,2
+"Telefomin Leaf-nosed Bat",378,35,2
+"Wollaston's Leaf-nosed Bat",378,37,1
+"Northern Leaf-nosed Bat",378,38,2
+"Greater Roundleaf Bat",378,40,1
+"Cyclops Roundleaf Bat",378,41,2
+"Patrizi's Trident Leaf-nosed Bat",378,43,1
+"Geoffroy's Trident Leaf-nosed Bat",378,44,2
+"Makira Leaf-nosed Bat",378,48,1
+"Diadem Leaf-nosed Bat",378,49,2
+"Arnhem Leaf-nosed Bat",378,50,2
+"Indian Leaf-nosed Bat",378,51,2
+"Peleng Leaf-nosed Bat",378,53,1
+"Fierce Leaf-nosed Bat",378,54,2
+"Large Asian Leaf-nosed Bat",378,55,2
+"Dusky Leaf-nosed Bat",378,56,2
+"Short-headed Leaf-nosed Bat",376,15,1
+"Ridley's Leaf-nosed Bat",376,16,2
+"Short-tailed Roundleaf Bat",376,17,2
+"Stoliczka's Asian Trident Bat",376,23,1
+"Percival's Trident Bat",376,24,2
+"Bicolored Leaf-nosed Bat",376,25,2
+"Big-eared Leaf-nosed Bat",376,27,1
+"Benito Roundleaf Bat",376,28,2
+"Schneider's Leaf-nosed Bat",376,29,2
+"Sooty Roundleaf Bat",376,31,1
+"Dayak Leaf-nosed Bat",376,32,2
+"Fawn-colored Leaf-nosed Bat",376,35,1
+"Timor Leaf-nosed Bat",376,36,2
+"Cantor's Leaf-nosed Bat",376,38,1
+"Fulvus Leaf-nosed Bat",376,39,2
+"Sundevall's Roundleaf Bat",376,42,1
+"Aellen's Roundleaf Bat",376,43,2
+"Andersen's Leaf-nosed Bat",376,44,2
+"Bornean Leaf-nosed Bat",376,47,1
+"Cox's Leaf-nosed Bat",376,48,2
+"Biak Leaf-nosed Bat",376,49,2
+"Lamotte's Roundleaf Bat",376,58,1
+"Noack's Roundleaf Bat",376,59,2
+"Thailand Leaf-nosed Bat",376,60,2
+"Large Mindanao Leaf-nosed Bat",376,62,1
+"Spurred Leaf-nosed Bat",376,63,2
+"Maggie Taylor's Leaf-nosed Bat",376,64,2
+"Jones' Roundleaf Bat",376,65,2
+"Philippine Pygmy Leaf-nosed Bat",376,66,2
+"Ethiopian Large-eard Roundleaf Bat",376,69,1
+"Malayan Leaf-nosed Bat",376,70,2
+"Durga Das's Leaf-nosed Bat",376,72,1
+"Least Leaf-nosed Bat",376,73,2
+"Philippine Forest Leaf-nosed Bat",376,75,1
+"Aba Roundleaf Bat",376,76,2
+"Solomons Leaf-nosed Bat",376,77,2
+"Trident Leaf-nosed Bat",376,78,2
+"Trouessart's Trident Bat",376,82,1
+"Grandidier's Trident Bat",376,83,2
+"Persian Trident Bat",376,85,1
+"Rufous Trident Bat",376,86,2
+"Orange Leaf-nosed Bat",376,87,2
+"Malayan Tailless Leaf-nosed Bat",376,90,1
+"Tail-less Leaf-nosed Bat",376,91,2
+"Vietnamese Leaf-nosed Bat",376,92,2
+"Horseshoe Bats",376,93,2
+"Mitred Horseshow Bat",377,13,1
+"Kai Horseshoe Bat",377,14,2
+"Yellow-faced Horseshoe Bat",377,15,2
+"Cape Horseshoe Bat",377,16,2
+"Large-eared Horseshoe Bat",377,18,1
+"Timorese Horseshoe Bat",377,19,2
+"Lesser Wooly Horseshoe Bat",377,20,2
+"Bushveld Horseshoe Bat",377,24,1
+"Dent's Horseshoe Bat",377,25,2
+"Pearson's Horseshoe Bat",377,26,2
+"Bourret's Horseshoe Bat",377,27,2
+"Ruwenzori Horseshoe Bat",377,31,1
+"Maclaud's Horseshoe Bat",377,32,2
+"Hill's Horseshoe Bat",377,33,2
+"Greater Horseshoe Bat",377,35,1
+"Small Rufous Horseshoe Bat",377,36,2
+"Peninsular Horseshoe Bat",377,37,2
+"Accuminate Horseshoe Bat",377,39,1
+"Trefoil Horseshoe Bat",377,40,2
+"Big-eared Horseshoe Bat",377,46,1
+"Thai Horseshoe Bat",377,47,2
+"Lesser Horseshoe Bat",377,48,2
+"Intermediate Horseshoe Bat",377,52,1
+"Malayan Horseshoe Bat",377,53,2
+"Eastern Horseshoe Bat",377,54,2
+"Darling's Horseshoe Bat",377,55,2
+"Geoffroy's Horseshoe Bat",377,61,1
+"Upland Horseshoe Bat",377,62,2
+"Bokhara Horseshoe Bat",377,63,2
+"Croslet Horseshoe Bat",377,64,2
+"Forest Horseshoe Bat",377,65,2
+"Decken's Horseshoe Bat",377,66,2
+"King Horseshoe Bat",377,67,2
+"Shamel's Horseshoe Bat",377,68,2
+"Mediterranean Horseshoe Bat",376,103,1
+"Mehely's Horseshoe Bat",376,104,2
+"Guinean Horseshoe Bat",376,106,1
+"Lander's Horseshoe Bat",376,107,2
+"Sulawesi Horseshoe Bat",376,110,1
+"Madura Horseshoe Bat",376,111,2
+"Ruppell's Horseshoe Bat",376,112,2
+"BLASIUS' HORSESHOE BAT",379,10,1
+"Halcyon Horseshoe Bat",379,11,2
+"Adam's Horseshoe Bat",379,12,2
+"Creagh's Horseshoe Bat",379,14,1
+"Canut's Horseshoe Bat",379,15,2
+"Chinese Horseshoe Bat",379,17,1
+"Rufous Horseshoe Bat",379,18,2
+"Thomas's Horseshoe Bat",379,19,2
+"Eloquent Horseshoe Bat",379,20,2
+"New Guinea Horseshoe Bat",379,21,2
+"Bornean Horseshoe Bat",379,26,1
+"Anamban Horseshoe Bat",379,27,2
+"Large Rufous Horseshoe Bat",379,28,2
+"Lesser Brown Horseshoe Bat",379,29,2
+"Marshall's Horseshoe Bat",379,30,2
+"Dobson's Horseshoe Bat",379,31,2
+"Formosan Woolly Horseshoe Bat",379,36,1
+"Beddome's Horseshoe Bat",379,37,2
+"Great Woolly Horsehoe Bat",379,38,2
+"Arcuate Horseshoe Bat",379,39,2
+"Philippine Forest Horseshoe Bat",379,41,1
+"Swinny's Horseshoe Bat",379,42,2
+"Little Nepalese Horseshoe Bat",376,114,1
+"Andaman Horseshoe Bat",376,115,2
+"Shortridge's Horseshoe Bat",376,118,1
+"Blyth's Horseshoe Bat",376,119,2
+"Osgood's Horseshoe Bat",376,121,1
+"Least Horseshoe Bat",376,124,1
+"Slit-faced Bats",376,126,2
+"Madagascar Slit-faced Bat",376,132,1
+"Large-eared Slit-faced Bat",376,133,2
+"Vinson's Slit-faced Bat",376,134,2
+"Parisi's Slit-faced Bat",376,136,1
+"Wood's Slit-faced Bat",376,137,2
+"Andersen's Slit-faced Bat",376,141,1
+"Hairy Slit-faced Bat",376,142,2
+"Large Slit-faced Bat",376,143,2
+"Gambian Slit-faced Bat",376,145,1
+"Egyptian Slit-faced Bat",376,146,2
+"Dwarf Slit-faced Bat",376,150,1
+"Dja Slit-faced Bat",376,151,2
+"Intermediate Slit-faced Bat",376,152,2
 "Bate's Slit-faced Bat",376,153,2
+"Bate's Slit-faced Bat",376,153,2
+"Malayan Slit-faced Bat",376,155,1
+"Javan Slit-faced Bat",376,156,2
+"Ghost Bat",376,162,2
+"Heart-nosed Bat",376,164,1
+"Yellow-winged Bat",376,165,2
+"Mouse-tailed Bats",365,72,1
+"Macinnes's Mouse-tailed Bat",365,75,1
+"Lesser Mouse-tailed Bat",365,76,2
+"Greater Mouse-tailed Bat",365,77,2
+"Small Mouse-tailed Bat",365,78,2
+"Hog-nosed Bat",365,79,2
+"Sac-winged Bats, Sheath-tailed Bats and more",400,0,2
+"Sac-winged Bats, Sheath-tailed Bats and more",400,0,2
+"Dog-like Bats",400,6,1
+"Trinidad Dog-like Bat",400,9,1
+"Lesser Dog-like Bat",400,10,2
+"Greater Dog-like Bat",400,11,2
+"White-winged Dog-like Bat",400,12,2
 "Balantiopteryx",400,13,2
+"Gray Sac-winged Bat",400,15,1
+"Balantiopteryx",400,15,1
+"Thomas's Sac-winged Bat",400,16,2
+"Balantiopteryx",400,16,2
+"Ecuadorian Sac-winged Bat",400,17,2
+"Balantiopteryx",400,17,2
+"Thomas's Shaggy Bat",400,20,1
+"Shaggy Bat",400,21,2
+"Chestnut Sac-winged Bat",400,22,2
+"Sac-winged Bats",400,23,2
+"Amazonian Sac-winged Bat",400,25,1
+"Frosted Sac-winged Bat",400,26,2
+"Greater Sac-winged Bat",400,28,1
+"Lesser Sac-winged Bat",400,29,2
+"Ghost Bats",400,32,1
+"Northern Ghost Bat",400,35,1
+"Greater Ghost Bat",400,36,2
+"Lesser Ghost Bat",400,37,2
+"Isabelle's Ghost Bat",400,38,2
+"Short-eared Bat",400,39,2
+"Proboscis Bat",400,40,2
+"Sheath-tailed Bats",400,41,2
+"Seychelles Sheath-tailed Bat",400,47,1
+"African Sheath-tailed Bat",400,48,2
+"Peter's Sheath-tailed Bat",400,49,2
+"Beccari's Sheath-tailed Bat",400,50,2
+"Pacific Sheath-tailed Bat",400,52,1
+"Large-eared Sheath-tailed Bat",400,53,2
+"Raffray's Sheath-tailed Bat",400,56,1
+"New Guinea Sheath-tailed Bat",400,57,2
+"Small Asian Sheath-tailed Bat",400,59,1
+"Lesser Sheath-tailed Bat",400,60,2
+"Lesser Sheath-tailed Bat",400,61,2
+"Tomb Bats and more",400,63,1
+"Longed-winged Tomb Bat",400,69,1
+"Mauritian Tomb Bat",400,70,2
+"Hildegarde's Tomb Bat",400,71,2
+"Black-bearded Tomb Bat",400,74,1
+"Indonesian Tomb Bat",400,75,2
+"Egyptian Tomb Bat",400,76,2
+"Troughton's Sheath-tailed Bat",400,81,1
+"Common Sheath-tailed Bat",400,82,2
+"Coastal Sheath-tailed Bat",400,83,2
+"Arnhem Sheath-tailed Bat",400,84,2
+"Hill's Sheath-tailed Bat",400,85,2
+"Theobold's Bat",400,86,2
+"Naked-rumped Tomb Bat",400,88,1
+"Hamilton's Tomb Bat",400,89,2
+"Yellow-bellied Sheath-tailed Bat",400,93,1
+"Papuan Sheath-tailed Bat",400,94,2
 "Bare-rumped Sheathtail-bat",400,95,2
+"Pel's Pouched Bat",400,96,2
+"Geelvink Bay Flying Fox",366,22,2
 "Banks Flying Fox",366,112,2
+"Golden-capped Fruit Bat",366,127,1
+"Sulawesi Fruit Bat",366,130,1
+"Talaud Fruit Bat",366,131,2
+"Sunda Fruit Bat",366,132,2
+"Monkey-faced Bats",366,133,2
+"Guadalcanal Monkey-faced Bat",366,136,1
+"Montane Monkey-faced Bat",366,137,2
+"Bougainville Monkey-faced Bat",366,139,2
+"Stripe-faced Fruit Bat",366,141,1
+"Small-toothed Fruit Bat",366,142,2
 "Bare-backed Fruit Bats",366,144,1
+"Bare-backed Fruit Bats",366,144,1
+"Halmahera Naked-backed Fruit Bat",366,153,1
+"Greenish Naked-backed Fruit Bat",366,154,2
+"Bismarck Bare-backed Fruit Bat",366,155,2
+"Bismarck Bare-backed Fruit Bat",366,155,2
+"Beaufort's Bare-backed Fruit Bat",366,156,2
+"Beaufort's Bare-backed Fruit Bat",366,156,2
+"Solomons Bare-backed Fruit Bat",366,157,2
+"Solomons Bare-backed Fruit Bat",366,157,2
+"Sulawesi Naked-backed Fruit Bat",366,158,2
+"Western Naked-backed Fruit Bat",366,160,1
+"Lesser Bare-backed Fruit Bat",366,161,2
+"Lesser Bare-backed Fruit Bat",366,161,2
+"Moluccan Naked-backed Fruit Bat",366,164,1
+"Andersen's Bare-backed Fruit Bat",366,166,2
+"Andersen's Bare-backed Fruit Bat",366,166,2
+"Panaeati Bare-backed Fruit Bat",366,167,2
+"Panaeati Bare-backed Fruit Bat",366,167,2
+"Biak Bare-backed Fruit Bat",366,168,2
+"Biak Bare-backed Fruit Bat",366,168,2
+"Bulmer's Fruit Bat",366,169,2
+"Sulawesi Harpy Fruit Bat",366,171,1
+"Harpy Fruit Bat",366,172,2
+"Blossom Bats",365,85,1
+"Black-bellied Blossom Bat",365,88,1
+"Woodford's Blossom Bat",365,89,2
+"New Caledonia Blossom Bat",365,91,1
+"Fijian Blossom Bat",365,92,2
+"Halmaheran Blossom Bat",365,95,1
+"Moss-forest Blossom Bat",365,96,2
+"Common Blossom Bat",365,97,2
+"Dagger-toothed Long-nosed Fruit Bat",365,99,1
+"Hill Long-tongued Fruit Bat",365,100,2
+"Dawn Bats",365,101,2
+"Philippine Dawn Bat",365,103,1
+"Greater Dawn Bat",365,104,2
+"Dawn Bat",365,105,2
+"Fruit Bats",399,0,2
+"Peters's Epauletted Fruit Bat",399,13,1
+"Gambian Epauletted Fruit Bat",399,14,2
+"Ethiopian Epauletted Fruit Bat",399,16,1
+"East African Epauletted Fruit Bat",399,20,1
+"Angolan Epauletted Fruit Bat",399,21,2
+"Lesser Angolan Epauletted Fruit Bat",399,22,2
+"Wahlberg's Epauletted Fruit Bat",399,23,2
+"Hayman's Lesser Epauletted Fruit Bat",399,25,1
+"Peter's Dwarf Epauletted Fruit Bat",399,26,2
+"Buettikofer's Epauletted Fruit Bat",399,30,1
+"Dobson's Fruit Bat",399,31,2
+"Franquet's Epauletted Fruit Bat",399,32,2
+"Hammer-headed Fruit Bat",399,33,2
+"Veldkamp's Bat",399,34,2
+"Pohle's Fruit Bat",399,37,1
+"Zenker's Fruit Bat",399,38,2
+"Short-palated Fruit Bat",399,39,2
+"Straw-coloured Fruit Bat",399,44,1
+"Madagascan Fruit Bat",399,45,2
+"Woermann's Bat",399,46,2
+"Egyptian Fruit Bat",399,54,2
 "Bare-backed Rousette",399,60,1
+"East African Little Collared Fruit Bat",399,65,1
+"Little Collared Fruit Bat",399,66,2
+"Sao Tome Collared Fruit Bat",399,67,2
+"Angolan Fruit Bat",399,68,2
+"Fruit Bats",387,1,1
+"Peters's Fruit Bat",387,10,1
+"Minute Fruit Bat",387,11,2
+"Lesser Dog-faced Fruit Bat",387,12,2
+"Greater Shortnosed Fruit Bat",387,13,2
+"Indonesian Short-nosed Fruit Bat",387,16,1
+"Horsfield's Fruit Bat",387,17,2
+"Nusatenggara Short-nosed Fruit Bat",387,18,2
+"Ratanaworabhan's Fruit Bat",387,23,1
+"Javan Tailless Fruit Bat",387,24,2
+"Temminck's Tailless Fruit Bat",387,25,2
+"White-collared Fruit Bat",387,26,2
+"Greater Musky Fruit Bat",387,28,1
+"Lesser Musky Fruit Bat",387,29,2
+"Brooks's Dyak Fruit Bat",387,31,1
+"Dayak Fruit Bat",387,32,2
+"Spotted-winged Fruit Bat",387,35,1
+"Balionycteris",387,35,1
+"Black-capped Fruit Bat",387,36,2
+"Borneo Fruit Bat",387,38,1
+"Pygmy Fruit Bat",387,39,2
+"Fischer's Pygmy Fruit Bat",387,42,1
+"Luzon Fruit Bat",387,43,2
+"Mindanao Pygmy Fruit Bat",387,44,2
+"Lucas's Short-nosed Fruit Bat",387,48,1
+"Swift Fruit Bat",387,49,2
+"Salim Ali's Fruit Bat",387,50,2
+"Blandford's Fruit Bat",387,51,2
+"Tube-nosed Bats",387,52,2
+"Pallas's Tube-nosed Bat",387,59,1
+"Demonic Tube-nosed Bat",387,60,2
+"Philippine Tube-nosed Fruit Bat",387,61,2
+"Malaita Tube-nosed Bat",387,62,2
+"Umboi Tube-nosed Bat",387,63,2
+"Lesser Tube-nosed Fruit Bat",387,67,1
+"Common Tube-nosed Bat",387,68,2
+"Lesser Tube-nosed Bat",387,69,2
+"Round-eared Tube-nosed Bat",387,71,1
+"Mountain Tube-nosed Bat",387,72,2
+"Eastern Tube-nosed Bat",387,75,1
+"Island Tube-nosed Bat",387,76,2
+"Greater Tube-nosed Bat",387,77,2
+"Unstriped Tube-nosed Bat",387,78,2
+"baileyi",372,63,1
 "Bay Duiker",372,164,2
 "Bates' Pygmy Antelope",372,188,2
+"batesi",372,188,2
 "Banteng",371,71,1
 "Barasingha",374,11,2
 "Bawean Deer",374,28,1
 "Balabac Mouse Deer",371,114,2
 "Baird's Beaked Whale",371,129,2
+"bairdii",371,129,2
+"Balaenoptera",371,176,2
+"Balaenoptera",371,177,2
+"Balaenoptera",371,180,1
+"Balaenoptera",371,181,2
+"Balaenoptera",371,183,1
+"Balaenoptera",371,184,2
 "Balaenidae",371,186,1
+"Balaena",371,192,2
+"barbatus",401,10,2
 "Babyrousa",401,29,2
+"Togian Islands Babirusa",401,31,1
+"Babyrousa",401,31,1
+"Sulawesi Babirusa",401,32,2
+"Babyrousa",401,32,2
+"Hairy Babirusa",401,34,1
+"babyrussa",401,34,1
+"Babyrousa",401,34,1
+"Babyrousa",401,35,2
 "Bactrian Camel",365,112,1
+"bactrianus",365,112,1
 "Baird's Tapir",365,133,2
+"bairdii",365,133,2
+"barbara",383,62,2
+"Honey Badger",383,73,2
 "Badgers",383,74,2
+"Japanese Badger",383,79,1
+"Eurasian Badger",383,80,2
+"Asian Badger",383,81,2
+"Hog Badger",383,82,2
+"American Badger",383,86,2
+"Ferret Badgers",386,46,2
+"Large-toothed Ferret Badger",386,49,1
+"Javan Ferret Badger",386,50,2
+"Bornean Ferret Badger",386,51,2
 "Bassariscus",381,20,2
+"Bassariscus",381,21,1
+"Bassariscus",381,22,2
 "Bassaricyon",381,24,1
+"Bassaricyon",381,28,1
+"Bassaricyon",381,29,2
+"Bassaricyon",381,30,2
+"Bassaricyon",381,31,2
+"Bassaricyon",381,32,2
 "Baikal Seal",381,77,1
+"barbatus",381,88,2
 "Bat-eared Fox",381,185,2
 "Banded Mongoose",384,21,2
 "Banded Linsang",385,31,2
 "Banded Civit",385,68,2
+"badia",382,31,2
+"baluensis",368,37,1
 "Banka Shrew",368,38,2
 "Bailey's Shrew",367,63,2
+"baileyi",367,63,2
 "Bale Shrew",367,104,1
 "Bate's Shrew",367,161,2
+"batesi",367,161,2
 "Babault's Mouse Shrew",402,82,2
+"babaulti",402,82,2
 "Baird's Shrew",398,28,1
+"bairdi",398,28,1
 "Barren Ground Shrew",398,31,1
 "Balkan Mole",380,41,2
 "Banded Hare Wallaby",110,112,2
 "Bandicoots and Bilbies",109,23,2
+"Raffray's Bandicoot",109,39,1
+"Giant Bandicoot",109,40,2
+"Papuan Bandicoot",109,41,2
+"Seram Bandicoot",109,42,2
+"Striped Bandicoot",109,44,1
+"Mouse Bandicoot",109,45,2
+"Southern Brown Bandicoot",109,50,1
+"Golden Bandicoot",109,51,2
+"Northern Brown Bandicoot",109,52,2
+"Western Barred Bandicoot",109,53,2
+"Western Barred Bandicoot",109,53,2
+"Eastern Barred Bandicoot",109,55,1
+"Eastern Barred Bandicoot",109,55,1
+"Long-nosed Bandicoot",109,56,2
 "Bay-colored Mouse Opossum",109,204,2
 "Bare-tailed Woolly Opossum",109,230,2
+"bartoni",0,128,1
+"baxteri",61,41,2
+"bankorensis",56,47,2
+"bambutensis",56,180,2
 "Bates' Tree Toad",56,186,1
+"batesii",56,186,1
+"balios",63,100,1
+"bassleri",43,45,1
+"baeobatrachus",68,91,1
+"Bloody Bay Poison Frog",68,134,2
+"barrioi",45,48,2
+"barrioi",45,65,1
+"bandeirensis",69,46,1
+"babax",65,30,2
+"Batrachophrynus",38,96,1
+"Batrachophrynus",38,97,2
+"Batrachyla",52,47,1
+"Batrachyla",52,48,2
+"Batrachyla",52,49,2
+"Batrachyla",52,51,1
+"Batrachyla",52,52,2
+"barrioi",51,32,2
+"bacatum",50,20,2
+"ballux",50,29,2
+"balionotum",50,53,1
+"Pine Barrens Treefrog",40,146,1
+"baudinii",40,183,1
+"battersbyi",48,52,1
+"balzani",47,32,2
+"baumgardneri",70,41,2
+"baltea",66,29,2
 "Backpack Frogs",91,36,2
+"bacchus",83,23,2
+"balionotus",83,29,1
+"baryecuus",83,40,2
+"baiotis",84,34,2
+"batrachites",86,39,2
+"barlagnei",75,20,2
+"bartonsmithi",75,75,2
+"bakeri",73,41,2
+"batrachylus",73,56,1
+"babax",73,142,2
+"baturitensis",72,25,2
+"Barycholos",72,67,1
+"Barycholos",72,68,2
 "Barking Frog",85,26,1
+"bagrecitoi",77,36,2
+"barthlenae",72,164,2
 "Barred Frogs",23,97,1
+"Great Barred-frog",23,100,1
+"Grey Barred Frog",23,101,2
+"balbus",23,101,2
+"Giant Barred-frog",23,102,2
+"Fleay's Barred-frog",23,105,1
+"Northern Barred Frog",23,107,2
 "Barking Frog",23,162,2
 "Banjo Frogs",23,168,2
+"Northern Banjo Frog",23,171,1
+"Giant Banjo Frog",23,172,2
 "Banjo Frog",23,173,2
 "Banjo Frog",23,174,2
+"barycragus",23,185,2
 "Baw Baw Frog",23,192,1
+"Baw Baw Frog",23,192,1
+"banaensis",9,23,2
+"barisani",21,39,2
+"baluensis",21,41,2
+"baliogaster",2,25,2
 "Baron's Mantella",3,178,2
+"baroni",3,178,2
+"bacboensis",16,34,2
+"banaorum",16,81,1
+"Babina",12,106,1
+"Babina",12,107,2
+"Babina",12,108,2
+"Babina",12,109,2
+"Babina",12,112,1
+"Babina",12,113,2
+"Babina",12,115,1
+"Babina",12,116,2
 "Balkan Water Frog",18,22,2
+"baramica",14,26,2
+"bannanica",12,158,2
+"banjarana",12,169,2
+"baluensis",5,11,2
+"baluensis",5,40,1
 "Banded Stream Frog",10,19,2
 "Bainskloof Moss Frog",2,114,1
+"batesii",4,45,2
+"batantae",92,53,2
+"banahao",92,104,2
+"Batrachylodes",92,117,1
+"Batrachylodes",92,118,2
+"Batrachylodes",92,119,2
+"Batrachylodes",92,120,2
+"Batrachylodes",92,122,1
+"Batrachylodes",92,123,2
+"Batrachylodes",92,125,1
+"Batrachylodes",92,126,2
+"basipalmata",28,173,1
+"Barygenys",25,14,1
+"Barygenys",25,15,2
+"Barygenys",25,16,2
+"Barygenys",25,17,2
+"Barygenys",25,18,2
+"Barygenys",25,20,1
+"Barygenys",25,21,2
+"balbus",33,37,2
+"baleata",29,93,2
 "Banded Bullfrog",29,96,2
+"barbouri",32,65,2
+"bassleri",35,18,2
+"barberi",35,66,2
 "Banded Rubber Frog",25,83,2
+"baluensis",25,106,2
+"balfouri",30,27,1
 "Baumann's Reed Frog",30,148,1
+"baumanni",30,148,1
 "Banana Frogs",34,1,1
+"Weidholz's Banana Frog",34,9,1
+"Savanna Banana Frog",34,10,2
+"Knysna Banana Frog",34,12,1
+"Angola Banana Frog",34,13,2
+"Nigeria Banana Frog",34,18,2
+"Pickersgill's Banana Frog",34,27,2
 "Banded Banana Frog",34,29,2
+"Banded Banana Frog",34,29,2
+"Natal Banana Frog",34,30,2
+"Ethiopian Banana Frog",34,31,2
+"Congo Banana Frog",34,43,2
+"Golden Banana Frog",34,50,1
+"Brown Banana Frog",34,54,1
+"batesi",26,151,1
+"barbouri",36,78,1
+"bagginsi",25,144,2
+"barotseensis",25,195,2
+"baluensis",71,24,2
+"baluensis",37,44,2
+"banae",37,74,2
+"Great Basin Spadefoot",1,170,1
+"Barbourula",342,39,1
+"Barbourula",342,40,2
+"barbouri",106,109,2
 "Barton Springs Salamander",104,44,1
+"Batrachoseps",98,16,1
+"Batrachoseps",98,17,2
+"Batrachoseps",98,19,1
+"Batrachoseps",98,20,2
+"Batrachoseps",98,22,1
+"Batrachoseps",98,23,2
+"Batrachoseps",98,28,1
+"Batrachoseps",98,29,2
+"Batrachoseps",98,30,2
+"Batrachoseps",98,31,2
+"Batrachoseps",98,32,2
+"Batrachoseps",98,38,1
+"Batrachoseps",98,39,2
+"Batrachoseps",98,40,2
+"Batrachoseps",98,41,2
+"Batrachoseps",98,43,1
+"Batrachoseps",98,44,2
+"Batrachoseps",98,45,2
+"Batrachoseps",98,46,2
+"Cheoah Bald Salamander",107,32,2
+"Southern Banded Newt",103,39,2
+"barbouri",99,13,2
+"Batrachuperus",344,65,1
+"Batrachuperus",344,66,2
+"Batrachuperus",344,67,2
+"Batrachuperus",344,70,1
+"Batrachuperus",344,71,2
+"Batrachuperus",344,72,2
+"Batrachuperus",344,73,2
+"bannanicus",345,36,2

@@ -10,10 +10,15 @@ name,fileindex,index,whichChild
 "Slaty Bunting",142,147,1
 "Slate-throated Redstart",144,28,2
 "Slender-billed Weaver",140,46,2
+"Little Slaty Flycatcher",187,17,2
 "Slaty-backed Flycatcher",187,23,2
 "Slaty-blue Flycatcher",187,29,2
 "Slaty-backed Forktail",183,67,2
 "Slaty-backed Jungle-flycatcher",183,205,2
+"Abyssinian Slaty Flycatcher",186,26,1
+"White-eyed Slaty Flycatcher",186,27,2
+"Angola Slaty Flycatcher",186,28,2
+"Eastern Slaty Thrush",188,46,2
 "Slaty Thrush",189,39,2
 "Slaty-backed Thrush",188,105,2
 "Slaty-backed Nightingale-thrush",188,194,1
@@ -33,6 +38,7 @@ name,fileindex,index,whichChild
 "Slaty-capped Shrike-vireo",152,147,2
 "Slate-coloured Boubou",198,28,2
 "Slender-billed Cicadabird",197,15,1
+"sloetii",195,108,2
 "Slaty Cuckooshrike",200,11,1
 "Slaty-backed Thornbill",180,62,1
 "Slender-billed Thornbill",180,63,2
@@ -45,8 +51,15 @@ name,fileindex,index,whichChild
 "Slaty Gnateater",229,81,2
 "Slender Antbird",247,16,2
 "Slate-coloured Antbird",247,71,1
+"Bolivian Slaty-antshrike",246,23,1
+"Planalto Slaty-antshrike",246,24,2
+"Sooretama Slaty-antshrike",246,25,2
+"Natterer's Slaty-antshrike",246,27,1
+"Northern Slaty-antshrike",246,28,2
+"Western Slaty-antshrike",246,47,1
 "Slaty Antwren",245,162,2
 "Slaty-backed Chat-tyrant",241,27,1
+"Crowned Slaty Flycatcher",236,105,1
 "Slaty Elaenia",244,27,2
 "Slender-footed Tyrannulet",242,45,2
 "Slender-billed Tyrannulet",242,63,1
@@ -56,7 +69,9 @@ name,fileindex,index,whichChild
 "Slaty-headed Parakeet",220,26,1
 "Slender-billed Parakeet",217,126,1
 "Slaty-backed Forest-falcon",114,19,2
+"Great Slaty Woodpecker",208,39,1
 "Sladen's Barbet",204,112,2
+"sladeni",204,112,2
 "Slaty-tailed Trogon",252,25,2
 "Slate-coloured Hawk",118,83,2
 "Slender-billed Kite",118,97,1
@@ -74,26 +89,96 @@ name,fileindex,index,whichChild
 "Slaty Cuckoo-dove",347,137,2
 "Slender-tailed Woodstar",328,17,2
 "Slender Sheartail",326,151,1
+"sladeniae",329,85,2
 "Slender-tailed Nightjar",324,136,2
 "Slaty-breasted Tinamou",253,17,2
+"African Slender-snouted Crocodile",0,56,1
+"Big Bend Slider",95,26,2
+"Red-eared Slider",95,30,1
+"Cuatro Cienegas Slider",95,32,2
+"slevini",306,63,2
+"slateri",307,66,2
 "Slender Glass Lizard",411,9,1
+"slowinskii",340,35,2
 "Slender Rat",274,46,2
+"sloggetti",264,17,2
 "Slender Oldfield Mouse",290,31,1
+"slevini",291,84,2
 "Slender-tailed Deer Mouse",291,120,1
 "Slender Harvest Mouse",287,170,2
 "Slender Squirrel",278,138,2
 "Slender-tailed Squirrel",296,153,1
+"Bengal Slow Loris",260,146,1
+"Greater Slow Loris",260,147,2
+"Pygmy Slow Loris",260,148,2
+"Gray Slender Loris",260,150,1
+"Red Slender Loris",260,151,2
 "Slender Treeshrew",254,149,2
 "Slender Yellow Bat",389,165,2
 "Slit-faced Bats",376,126,2
+"Madagascar Slit-faced Bat",376,132,1
+"Large-eared Slit-faced Bat",376,133,2
+"Vinson's Slit-faced Bat",376,134,2
+"Parisi's Slit-faced Bat",376,136,1
+"Wood's Slit-faced Bat",376,137,2
+"Andersen's Slit-faced Bat",376,141,1
+"Hairy Slit-faced Bat",376,142,2
+"Large Slit-faced Bat",376,143,2
+"Gambian Slit-faced Bat",376,145,1
+"Egyptian Slit-faced Bat",376,146,2
+"Dwarf Slit-faced Bat",376,150,1
+"Dja Slit-faced Bat",376,151,2
+"Intermediate Slit-faced Bat",376,152,2
+"Bate's Slit-faced Bat",376,153,2
+"Malayan Slit-faced Bat",376,155,1
+"Javan Slit-faced Bat",376,156,2
 "Sloth Bear",381,110,2
 "Slender Shrew",397,52,2
+"Armadillos, Anteaters and Sloths",333,0,2
 "Sloths",333,41,1
+"Bolivian Three-toed Sloth",333,44,1
+"Pale-throated Sloth",333,45,2
+"Maned Sloth",333,46,2
+"Hoffmann's Two-toed Sloth",333,48,1
+"Linne's Two-toed Sloth",333,49,2
+"Brazilian Slender Opossum",109,79,1
+"Gray Slender Mouse Opossum",109,80,2
+"Handley's Slender Mouse Opossum",109,81,2
+"Andean Slender Mouse Opossum",109,83,1
 "Slim-faced Slender Mouse Opossum",109,85,2
+"Slim-faced Slender Mouse Opossum",109,85,2
+"White-bellied Slender Mouse Opossum",109,86,2
+"Pinheiro's Slender Opossum",109,91,1
+"Delicate Slender Mouse Opossum",109,93,2
+"Gray-bellied Slender Mouse Opossum",109,95,2
+"Slaty Slender Mouse Opossum",109,97,1
 "Slaty Slender Mouse Opossum",109,97,1
 "Slender-legged Treefrogs",64,5,1
 "Slender Treefrog",53,121,2
 "Sloane's Froglet",24,11,2
+"sloanei",24,11,2
+"slateri",28,106,2
 "Slender Frog",28,188,1
 "Slender Salamanders",98,10,2
+"California Slender Salamander",98,16,1
+"San Gabriel Slender Salamander",98,17,2
+"Hell Hollow Slender Salamander",98,19,1
+"Relictual Slender Salamander",98,20,2
+"Sequoia Slender Salamander",98,28,1
+"Lesser Slender Salamander",98,29,2
+"Gregarious Slender Salamander",98,30,2
+"Kings River Slender Salamander",98,31,2
+"Gabilan Mountains Slender Salamander",98,32,2
+"Blackbelly Slender Salamander",98,38,1
+"Garden Slender Salamander",98,39,2
+"Channel Islands Slender Salamander",98,40,2
+"Kern Canyon Slender Salamander",98,41,2
+"Tehachapi Slender Salamander",98,43,1
+"San Simeon Slender Salamander",98,45,2
+"Santa Lucia Mountains Slender Salamander",98,46,2
+"Sequoyah Slimy Salamander",107,14,2
+"Western Slimy Salamander",107,16,1
 "Slimy Salamander",107,17,2
+"White-spotted Slimy Salamander",107,21,1
+"Kiamichi Slimy Salamander",107,23,2
+"Louisiana Slimy Salamander",107,41,2

@@ -1,7 +1,10 @@
 name,fileindex,index,whichChild
+"duidae",125,22,2
 "Dubois's Seedeater",127,31,2
 "Duida Grass-finch",125,154,2
+"duidae",125,154,2
 "Dull-coloured Grassquit",129,37,1
+"Dubusia",128,111,2
 "Dusky-faced Tanager",124,99,2
 "Dusky-headed Brush-finch",145,106,2
 "Dusky Bush-tanager",146,41,2
@@ -11,17 +14,33 @@ name,fileindex,index,whichChild
 "Dusky Crimson-wing",134,49,2
 "Dusky Indigobird",121,51,2
 "Dusky Sunbird",131,109,2
+"dussumieri",131,127,2
+"duyvenbodei",121,159,2
+"dubia",184,32,2
+"dumetoria",187,56,1
 "Dull-blue Flycatcher",183,169,2
+"African Dusky Flycatcher",185,16,2
 "Dusky-blue Flycatcher",185,40,2
 "Dusky Thrush",188,18,2
+"dumasi",188,112,2
+"dubium",194,45,1
+"dumontii",194,68,1
+"Dumetella",192,63,2
+"dumicola",181,114,2
+"Dulus",181,161,2
 "Dusky Babbler",164,142,2
+"Dumetia",163,102,1
 "Dusky White-eye",166,154,2
+"dubia",179,129,1
 "Dusky Fulvetta",179,130,2
+"dumetorum",176,131,2
 "Dusky Tetraka",161,16,2
 "Dusky Warbler",162,101,2
 "Dusky Crag-martin",178,39,1
 "Dunn's Lark",173,39,2
+"dunni",173,39,2
 "Dupont's Lark",173,69,2
+"duponti",173,69,2
 "Dune Lark",161,77,2
 "Dusky Lark",161,81,2
 "Dusky Tit",169,65,2
@@ -38,13 +57,16 @@ name,fileindex,index,whichChild
 "Dusky Grasswren",120,125,2
 "Dusky Spinetail",233,70,2
 "Dusky-tailed Canastero",233,120,1
+"dumetaria",231,39,1
 "Dusky-cheeked Foliage-gleaner",232,27,1
 "Dusky Tapaculo",248,36,2
 "Dusky-tailed Antbird",245,20,2
 "Dusky Antbird",245,54,1
 "Dull-mantled Antbird",247,63,2
 "Dugand's Antwren",246,85,2
+"dugandi",246,85,2
 "Dusky-throated Antshrike",245,120,1
+"American Dusky Flycatcher",243,12,1
 "Dusky-capped Flycatcher",236,38,1
 "Dull-capped Attila",236,71,1
 "Dusky-chested Flycatcher",236,123,1
@@ -52,60 +74,262 @@ name,fileindex,index,whichChild
 "Dusky Purpletuft",251,46,2
 "Dusky Piha",250,33,2
 "Dusky Broadbill",229,223,2
+"duivenbodei",216,42,2
 "Dusky Lory",216,45,2
 "Duchess Lorikeet",216,74,2
 "Dusky-headed Parakeet",217,11,2
 "Dusky-billed Parrotlet",215,74,2
+"dufresniana",221,27,1
 "Dusky Parrot",221,79,2
+"ducorpsii",215,138,1
+"dubius",205,12,2
+"duchaillui",204,121,2
 "Dusky-backed Jacamar",201,102,1
+"duvaucelii",252,64,2
 "Dusky Eagle-owl",225,45,2
 "Dunlin",223,124,2
+"duvaucelii",119,31,2
+"dubius",119,103,1
+"dubius",346,26,2
 "Dusky Long-tailed Cuckoo",355,42,2
 "Dusky Moorhen",360,14,2
+"dupetithouarsii",350,51,1
+"Ducula",352,11,1
+"Ducula",352,12,2
+"Ducula",352,13,2
+"Ducula",352,15,1
+"Ducula",352,16,2
+"Ducula",352,19,1
+"Ducula",352,20,2
+"Ducula",352,21,2
+"Ducula",352,26,1
+"Ducula",352,27,2
+"Ducula",352,28,2
+"Ducula",352,30,1
+"Ducula",352,31,2
+"Ducula",352,32,2
+"Ducula",352,35,1
+"Ducula",352,36,2
+"Ducula",352,37,2
+"Ducula",352,42,1
+"Ducula",352,43,2
+"Ducula",352,44,2
+"Ducula",352,45,2
+"Ducula",352,46,2
+"Ducula",352,51,1
+"Ducula",352,52,2
+"Ducula",352,54,1
+"Ducula",352,55,2
+"Ducula",352,56,2
+"Ducula",352,58,1
+"Ducula",352,59,2
+"Ducula",352,62,1
+"Ducula",352,63,2
+"Ducula",352,65,1
+"Ducula",352,66,2
+"Ducula",352,70,1
+"Ducula",352,71,2
+"Ducula",352,72,2
+"Ducula",352,73,2
 "Dusky Turtle-dove",348,76,2
 "Dusky Cuckoo-dove",347,124,2
 "Dusky Pigeon",347,176,2
+"duidae",326,61,2
 "Dusky Hummingbird",326,120,2
+"dupontii",328,33,2
 "Dusky Starfrontlet",332,197,2
 "Dusky-throated Hermit",325,32,2
+"Great Dusky Swift",324,26,2
 "Dulit Frogmouth",324,82,2
 "Dusky Nightjar",324,117,2
 "Dusky Grouse",312,77,2
 "Dusky-legged Guan",311,8,2
 "Dusky Megapode",310,99,2
 "Ducks, Geese and Swans",310,131,1
+"Harlequin Duck",313,39,2
+"Long-tailed Duck",313,40,2
+"Mandarin Duck",313,69,1
+"Wood Duck",313,70,2
+"Muscovy Duck",313,71,2
+"Ring-necked Duck",313,85,1
+"Tufted Duck",313,92,2
+"Ferruginous Duck",313,96,1
+"White-winged Duck",313,104,2
+"Hartlaub's Duck",313,108,2
+"Australian Wood Duck",313,112,1
+"Comb Duck",313,113,2
+"Blue Duck",313,114,2
+"Torrent Duck",313,118,2
+"Red-billed Duck",313,147,2
+"Hawaiian Duck",313,149,1
+"Spot-billed Duck",313,158,1
+"Philippine Duck",313,160,2
+"American Black Duck",313,163,1
+"Mottled Duck",313,164,2
+"Laysan Duck",313,165,2
+"Meller's Duck",313,166,2
+"Yellow-billed Duck",313,167,2
+"Pacific Black Duck",313,168,2
+"African Black Duck",313,169,2
+"Falcated Duck",313,177,1
+"Spectacled Duck",313,217,2
+"Crested Duck",313,218,2
+"Freckled Duck",313,219,2
+"Black-headed Duck",310,136,1
+"Musk Duck",310,137,2
+"White-headed Duck",310,143,1
+"Maccoa Duck",310,144,2
+"Blue-billed Duck",310,145,2
+"Ruddy Duck",310,146,2
+"Lake Duck",310,147,2
+"Masked Duck",310,148,2
+"Pink-eared Duck",316,48,2
+"White-backed Duck",310,165,2
+"duidae",253,40,2
+"dussumieri",97,49,1
+"dumeriliana",0,94,2
+"duperreyi",306,36,2
+"dusumierii",307,35,2
 "Dumeril's Short-legged Skink",300,93,1
+"dugesii",308,21,1
+"dugesii",408,22,2
+"dumerilii",407,42,2
+"Duberria",340,97,2
+"dussumieri",334,79,1
 "Dumeril's Boa",334,104,2
+"dumerili",334,104,2
+"dubia",319,22,2
 "Dusky Seram Melomys",266,52,2
 "Dusky Hopping Mouse",266,94,2
 "Dusky Rat",267,72,2
 "Dusky Tarsomys",271,37,2
+"dunni",268,91,1
 "Dune Hairy-footed Gerbil",263,129,2
+"duprasi",265,48,2
 "Dusky Montane Mouse",289,118,1
 "Dusky Rice Rat",289,189,2
 "Dusky Arboreal Rice Rat",293,101,2
 "Dusky-footed Woodrat",288,40,1
+"duodecimcostatus",282,12,1
 "Duke Of Bedford's Vole",281,37,2
 "Dulzura Kangaroo Rat",255,159,1
+"Namaqua Dune Mole Rat",259,23,1
+"Cape Dune Mole Rat",259,24,2
 "Dusky-striped Squirrel",278,207,1
 "Durango Chipmunk",296,83,2
+"durangae",296,83,2
 "Dusky Leaf-monkey",276,14,2
+"dussumieri",275,154,1
+"dubius",285,153,2
 "Dubious Trumpet-eared Bat",389,45,2
 "Dusky Tube-nosed Bat",389,61,2
+"dubiaquercus",389,212,1
 "Dusky Leaf-nosed Bat",378,56,2
 "Durga Das's Leaf-nosed Bat",376,72,1
+"durgadasi",376,72,1
+"dupreanum",399,45,2
 "Duikers",372,153,1
+"Yellow-backed Duiker",372,162,1
+"Abbott's Duiker",372,163,2
+"Bay Duiker",372,164,2
+"Jentink's Duiker",372,165,2
+"Black-fronted Duiker",372,168,1
+"Red-flanked Duiker",372,169,2
+"Natal Red Duiker",372,170,2
+"Ogilby's Duiker",372,175,1
+"Peters' Duiker",372,177,2
+"Weyns' Duiker",372,178,2
+"Black Duiker",372,180,1
+"Zebra Duiker",372,181,2
+"White-bellied Duiker",372,182,2
+"Aders' Duiker",372,183,2
+"Common Duiker",372,184,2
+"Maxwell's Duiker",372,186,1
+"Blue Duiker",372,187,2
+"duvaucelii",374,11,2
 "Dusky Dolphin",373,53,2
+"African Dusky Shrew",370,34,2
 "Dusky Shrew",398,10,2
 "Duthie's Golden Mole",323,81,2
+"duthieae",323,81,2
 "Dusky-footed Elephant Shrew",323,95,1
 "Dusky Elephant Shrew",323,96,2
+"Dugong",323,131,2
+"dugon",323,131,2
 "Dugong",323,131,2
 "Dusky Pademelon",110,37,2
 "Dusky Antechinus",111,58,1
 "Dunnart",111,75,1
+"Little Long-tailed Dunnart",111,84,1
+"Common Dunnart",111,85,2
+"Gilbert's Dunnart",111,86,2
+"White-footed Dunnart",111,87,2
+"Chestnut Dunnart",111,88,2
+"Lesser Hairy-footed Dunnart",111,92,1
+"Ooldea Dunnart",111,93,2
+"Sandhill Dunnart",111,94,2
+"Hairy-footed Dunnart",111,95,2
+"Long-tailed Dunnart",111,96,2
+"White-tailed Dunnart",111,97,2
+"Grey-bellied Dunnart",111,99,1
+"Kangaroo Island Dunnart",111,100,2
+"Julia Creek Dunnart",111,105,1
+"Butler's Dunnart",111,106,2
+"Red-cheeked Dunnart",111,107,2
+"Stripe-faced Dunnart",111,108,2
+"Fat-tailed Dunnart",111,109,2
+"Duttaphrynus",56,86,1
+"Duttaphrynus",56,87,2
+"Duttaphrynus",56,88,2
+"Duttaphrynus",56,90,1
+"Duttaphrynus",56,91,2
+"duellmani",44,24,2
+"duranti",68,156,2
+"duseni",69,28,2
+"dubius",69,36,2
+"duidaeana",49,94,1
+"duranti",49,192,2
+"Duellmanohyla",67,33,1
+"Duellmanohyla",67,34,2
+"Duellmanohyla",67,35,2
+"Duellmanohyla",67,37,1
+"Duellmanohyla",67,38,2
+"Duellmanohyla",67,39,2
+"Duellmanohyla",67,41,1
+"Duellmanohyla",67,42,2
+"dutrai",48,125,2
+"duartei",70,72,2
+"duellmani",66,25,2
+"dunni",93,99,2
+"duende",88,18,2
+"duellmani",86,44,2
+"dundeei",86,78,2
 "Dusky Toadlet",23,27,2
+"dumerilii",23,174,2
+"duboisi",9,33,2
+"dubius",8,25,2
+"dugritei",21,49,2
+"duboisi",21,53,1
+"dulitensis",21,71,2
+"dudhwaensis",21,190,1
+"dunni",12,31,2
 "Dusky Gopher Frog",12,82,2
-"Du Toit's Torrent Frog",6,18,1
+"dutoiti",6,18,1
+"dubius",28,115,2
+"dunni",101,49,2
+"dubitus",108,16,2
 "Dunn's Salamander",107,44,2
+"dunni",107,44,2
+"Santeetlah Dusky Salamander",105,9,1
+"Blue Ridge Dusky Salamander",105,10,2
+"Apalachicola Dusky Salamander",105,15,1
+"Cumberland Dusky Salamander",105,16,2
+"Carolina Mountain Dusky Salamander",105,17,2
+"Ouachita Dusky Salamander",105,22,1
+"Southern Dusky Salamander",105,23,2
+"Allegheny Mountain Dusky Salamander",105,35,2
 "Dusky Salamander",105,36,2
+"dumerilii",99,37,2
+"dunni",344,17,2
+"dunni",113,25,2
+"dulitensis",345,49,2

@@ -1,97 +1,598 @@
 name,fileindex,index,whichChild
 "Seedeaters and more",125,62,2
+"Plain-coloured Seedeater",125,64,1
+"Paramo Seedeater",125,65,2
+"Band-tailed Seedeater",125,66,2
 "Seedeaters and more",125,121,2
+"Dark-throated Seedeater",127,11,1
+"Rufous-rumped Seedeater",127,12,2
+"Tawny-bellied Seedeater",127,13,2
+"Capped Seedeater",127,15,1
+"Marsh Seedeater",127,16,2
+"Black-and-tawny Seedeater",127,17,2
+"Lesson's Seedeater",127,18,2
+"Black-bellied Seedeater",127,20,1
+"Chestnut Seedeater",127,21,2
+"Parrot-billed Seedeater",127,23,1
+"Ruddy-breasted Seedeater",127,24,2
+"Chestnut-bellied Seedeater",127,26,1
+"Chestnut-throated Seedeater",127,27,2
+"White-bellied Seedeater",127,30,1
+"Dubois's Seedeater",127,31,2
+"Caqueta Seedeater",127,32,2
+"Wing-barred Seedeater",127,36,1
+"Variable Seedeater",127,37,2
+"Grey Seedeater",127,38,2
+"Lined Seedeater",127,40,1
+"Drab Seedeater",127,41,2
+"Slate-coloured Seedeater",127,46,1
+"Temminck's Seedeater",127,47,2
+"White-collared Seedeater",127,49,1
+"Buffy-fronted Seedeater",127,50,2
+"Rusty-collared Seedeater",127,53,1
+"Plumbeous Seedeater",127,54,2
+"White-throated Seedeater",127,55,2
+"Double-collared Seedeater",127,58,1
+"Yellow-bellied Seedeater",127,59,2
+"Black-and-white Seedeater",127,61,1
+"Hooded Seedeater",127,62,2
+"Large-billed Seed-finch",125,127,1
+"Nicaraguan Seed-finch",125,128,2
+"Great-billed Seed-finch",125,129,2
+"Black-billed Seed-finch",125,130,2
+"Thick-billed Seed-finch",125,132,1
+"Lesser Seed-finch",125,133,2
+"White-naped Seedeater",125,134,2
+"Sericossypha",124,41,1
 "Seven-coloured Tanager",128,17,1
+"seledon",128,18,2
+"Carrizal Seedeater",124,180,1
+"Blackish-blue Seedeater",124,181,2
+"Blue Seedeater",124,182,2
+"semirufus",145,18,2
 "Seaside Sparrow",145,75,2
+"semitorquatus",142,27,2
+"semifuscus",146,41,2
+"seebohmi",142,60,2
 "Selva Cacique",143,108,2
+"Setophaga",144,126,2
+"semiflava",144,174,2
 "Semper's Warbler",144,192,2
+"semperi",144,192,2
+"Seiurus",144,198,1
+"Seiurus",144,199,2
+"Seiurus",142,187,2
+"Serinus",136,7,1
+"Reichard's Seedeater",136,8,2
+"Serinus",136,8,2
+"Syrian Serin",136,9,2
+"Serinus",136,9,2
+"Serinus",136,12,1
+"Serinus",136,13,2
+"Serinus",136,14,2
+"Streaky-headed Seedeater",136,15,2
+"Serinus",136,15,2
+"Thick-billed Seedeater",136,16,2
+"Serinus",136,16,2
+"Salvadori's Serin",136,21,1
+"Serinus",136,21,1
+"Streaky Seedeater",136,22,2
+"Serinus",136,22,2
+"Serinus",136,23,2
+"Yellow-browed Seedeater",136,24,2
+"Serinus",136,24,2
+"Serinus",136,26,1
+"Serinus",136,27,2
+"Black-throated Seedeater",136,34,1
+"Serinus",136,34,1
+"White-rumped Seedeater",136,35,2
+"Serinus",136,35,2
+"Lemon-breasted Seedeater",136,36,2
+"Serinus",136,36,2
+"Serinus",136,37,2
+"Serinus",136,40,1
+"Mountain Serin",136,41,2
+"Serinus",136,41,2
+"Yellow-throated Seedeater",136,42,2
+"Serinus",136,42,2
+"Serinus",136,43,2
+"Serinus",136,47,1
+"Serinus",136,48,2
+"Serinus",136,49,2
+"Serinus",136,51,1
+"Serinus",136,52,2
+"Yellow-rumped Seedeater",135,17,1
+"Serinus",135,17,1
+"Serinus",135,18,2
+"Ankober Serin",135,19,2
+"Serinus",135,19,2
+"Serinus",135,22,1
+"Yemen Serin",135,23,2
+"Serinus",135,23,2
+"Serinus",135,24,2
+"Fire-fronted Serin",135,25,2
+"Serinus",135,25,2
+"Brown-rumped Seedeater",135,27,1
+"Serinus",135,27,1
+"Kipengere Seedeater",135,28,2
+"Serinus",135,28,2
+"Olive-rumped Serin",135,29,2
+"Serinus",135,29,2
+"Serinus",135,32,1
+"Black-eared Seedeater",135,33,2
+"Serinus",135,33,2
+"Serinus",135,35,1
+"Serinus",135,36,2
+"Principe Seedeater",135,38,1
+"Serinus",135,38,1
+"European Serin",135,39,2
+"serinus",135,39,2
+"Serinus",135,39,2
+"Tibetan Serin",135,40,2
+"Serinus",135,40,2
+"Dead Sea Sparrow",122,33,2
+"Black-bellied Seedcracker",133,6,1
+"Crimson Seedcracker",133,7,2
+"Lesser Seedcracker",133,8,2
+"senegala",133,44,2
 "Seychelles Fody",140,140,1
+"sechellarum",140,140,1
+"senegalensis",131,44,2
+"seimundi",131,122,1
 "Seychelles Sunbird",131,127,2
 "Sentinel Rock-thrush",184,109,2
+"semirufa",184,116,2
 "Semi-collared Flycatcher",187,41,2
+"semitorquata",187,41,2
+"sethsmithi",185,18,1
+"segregata",185,34,1
+"semipartitus",183,190,2
 "Seychelles Magpie-robin",186,20,2
+"sechellarum",186,20,2
+"semirufa",193,40,2
+"La Selle Thrush",188,63,2
+"serranus",189,37,1
 "Seram Thrush",188,148,2
+"sericeus",191,118,2
+"semibadius",190,47,1
 "Sedge Wren",190,94,1
+"sepiaria",165,25,2
 "Seram White-eye",166,55,2
+"senegalensis",166,118,1
 "Seychelles White-eye",166,129,2
+"semperi",166,142,2
+"seebohmi",176,18,2
+"seebohmi",176,23,2
 "Seychelles Warbler",176,121,2
+"sechellensis",176,121,2
 "Sedge Warbler",176,148,2
+"sericeus",170,64,2
+"sepium",170,70,1
 "Senegal Eremomela",170,114,2
+"semitorques",174,46,1
 "Seychelles Bulbul",175,15,2
+"Setornis",174,97,2
+"serina",174,198,2
+"Seicercus",162,55,1
+"Seicercus",162,56,2
+"Seicercus",162,57,2
+"Seicercus",162,58,2
+"Seicercus",162,62,1
+"Seicercus",162,63,2
+"Seicercus",162,64,2
+"Seicercus",162,65,2
+"Seicercus",162,68,1
+"Seicercus",162,69,2
+"Seicercus",162,70,2
+"seebohmi",162,157,2
+"Red Sea Swallow",178,63,2
+"semirufa",178,67,1
+"senegalensis",178,68,2
+"serripennis",178,115,1
+"semitorquata",161,66,1
+"semilarvatus",169,71,1
 "Sennar Penduline-tit",161,141,2
 "Seychelles Paradise-flycatcher",152,25,1
+"Seleucidis",160,45,2
+"Semioptera",160,56,2
+"sefilata",160,61,1
+"semirubra",153,14,2
+"senator",157,178,2
+"semicinereus",152,125,1
+"semibrunneus",152,141,1
 "Senegal Batis",196,30,1
+"senegalensis",196,30,1
+"senegalensis",198,70,2
+"senegalus",198,76,2
+"sericea",120,43,1
 "Seram Honeyeater",148,54,2
+"Sericornis",180,12,1
+"Sericornis",180,13,2
+"Sericornis",180,14,2
+"Sericornis",180,16,1
+"Sericornis",180,17,2
+"Sericornis",180,18,2
+"Sericornis",180,22,1
+"Sericornis",180,23,2
+"Sericornis",180,25,1
+"Sericornis",180,26,2
+"Sericornis",180,27,2
+"Sericornis",180,29,1
+"Sericornis",180,30,2
+"Sericulus",120,153,1
+"Sericulus",120,154,2
+"Sericulus",120,155,2
+"semicinerea",234,12,2
+"setaria",230,43,1
 "Seaside Cinclodes",231,25,1
+"serrana",231,43,2
+"senilis",248,79,2
+"serva",245,55,2
+"setifrons",246,16,1
+"sellowi",246,90,2
+"severa",245,104,2
 "Serra Antwren",245,146,2
+"serrana",245,146,2
+"semirufus",236,17,2
+"Serpophaga",240,13,1
+"Serpophaga",240,14,2
+"Serpophaga",240,18,1
+"Serpophaga",240,19,2
+"Serpophaga",240,20,2
+"semiflavum",242,30,2
+"senex",235,102,2
 "Serra Do Mar Tyrannulet",237,19,2
 "Sepia-capped Flycatcher",237,59,1
+"semifasciata",251,40,1
+"serena",249,141,2
 "Serra do Mar Tyrant-manakin",249,183,2
+"Serilophus",229,215,2
+"semilarvata",216,25,2
+"severus",217,55,2
+"senilis",221,72,2
 "Senegal Parrot",215,122,2
+"senegalus",215,122,2
+"severus",222,43,2
 "Seychelles Kestrel",222,69,2
+"semitorquatus",222,89,2
+"semitorquatus",114,22,1
 "Seriemas",114,27,2
+"Black-legged Seriema",114,28,1
+"Red-legged Seriema",114,29,2
+"Selenidera",204,13,1
+"Selenidera",204,14,2
+"Selenidera",204,15,2
+"Selenidera",204,16,2
+"Selenidera",204,17,2
+"Selenidera",204,18,2
+"Semnornis",204,74,1
+"Semnornis",204,75,2
 "Semicollared Puffbird",209,37,1
+"semicincta",209,37,1
+"senegalensis",202,103,2
+"senegaloides",202,107,2
+"semitorquata",202,167,1
+"seloputo",228,9,2
+"seductus",227,36,1
 "Serendib Scops-owl",227,47,1
 "Seychelles Scops-owl",224,52,1
+"senegalensis",224,67,1
+"semitorques",224,84,2
 "Semiplumbeous Hawk",118,52,2
+"semiplumbeus",118,52,2
+"Fish-eagles and Sea-eagles",115,12,1
+"White-bellied Sea-eagle",115,16,1
+"Sanford's Sea-eagle",115,17,2
+"Steller's Sea-eagle",115,27,2
 "Semicollared Hawk",117,95,1
+"Congo Serpent-eagle",115,72,1
 "Serpent-eagles",115,78,2
+"Philippine Serpent-eagle",115,83,1
+"Sulawesi Serpent-eagle",115,84,2
+"Crested Serpent-eagle",115,85,2
+"South Nicobar Serpent-eagle",115,86,2
+"Mountain Serpent-eagle",115,87,2
+"Andaman Serpent-eagle",115,88,2
+"Madagascar Serpent-eagle",115,143,2
 "Secretarybird",115,172,2
+"serpentarius",115,172,2
+"serranus",212,38,2
+"Sandpipers, Jacanas, Seedsnipes and more",114,116,2
+"semipalmatus",223,59,2
+"semipalmatus",223,80,1
 "Semipalmated Sandpiper",223,109,1
+"semicollaris",114,138,2
 "Seedsnipes",114,140,1
+"Grey-breasted Seedsnipe",114,142,1
+"Least Seedsnipe",114,143,2
+"White-bellied Seedsnipe",114,145,1
+"Rufous-bellied Seedsnipe",114,146,2
 "Senegal Lapwing",119,32,2
+"senegallus",119,50,2
 "Semipalmated Plover",119,111,1
+"semipalmatus",119,111,1
 "Senegal Thick-knee",114,156,1
+"senegalensis",114,156,1
+"serrator",364,90,1
+"senegalensis",346,39,1
+"sepulcralis",355,54,2
 "Senegal Coucal",355,144,2
+"senegalensis",355,144,2
+"serriana",355,175,1
+"senegalensis",363,10,1
+"semiplumbeus",362,37,2
+"senegalensis",360,115,2
 "Seychelles Blue-pigeon",350,43,1
+"seimundi",351,44,2
+"semitorquata",348,86,2
+"senegalensis",348,92,1
+"senegallus",346,167,2
+"Selasphorus",326,137,2
+"Selasphorus",326,139,1
+"Selasphorus",326,140,2
+"Selasphorus",326,141,2
+"Selasphorus",326,145,2
+"Selasphorus",326,146,2
+"Sephanoides",332,116,1
+"sephaniodes",332,117,2
+"Sephanoides",332,117,2
+"serrirostris",330,52,2
 "Seychelles Swiftlet",329,14,1
+"senex",324,26,2
+"semicollaris",324,41,2
+"septimus",324,74,1
+"segmentata",324,164,1
+"semitorquatus",324,177,1
+"sericocaudatus",324,188,1
+"sewerzowi",312,100,1
+"sephaena",312,165,2
 "See-see Partridge",317,71,1
 "Seaducks",313,6,1
+"serrator",313,17,2
+"semipalmata",310,166,2
+"serrata",96,22,2
 "Serrated Tortoise",97,81,2
+"serpentina",94,164,2
+"Ridley Sea Turtles",94,170,1
 "Senegal Flapshell Turtle",343,48,2
+"senegalensis",343,48,2
+"sextuberculata",0,89,1
+"seychellensis",305,113,1
+"septentrionalis",300,152,1
+"sexlineatus",303,37,2
+"sepsoides",303,48,1
+"sexlineatus",303,57,2
+"seps",298,134,2
+"septentrionalis",308,18,1
+"sexlineatus",308,19,2
+"sexlineatus",309,29,1
+"semilineatus",405,61,2
+"serratus",415,11,2
+"semperi",406,12,2
+"senegalensis",410,21,2
+"semiremex",407,21,2
+"sepsoides",411,38,1
+"Vipers, Cobras, Sea Snakes, Whip Snakes and more",334,5,1
+"semiannulata",337,37,2
+"Senticolis",335,29,2
+"Seminatrix",335,122,2
 "Seychelles Wolf Snake",335,174,1
+"seychellensis",335,174,1
+"Cobras, Sea Snakes, Water Snakes and more",340,0,2
 "Sea Snakes, Coral Snakes, Cobras and more",340,4,1
 "Sea Snakes",341,4,1
+"Spiny-headed Sea Snake",341,13,1
+"Beaked Sea Snake",341,15,2
+"Rough-scaled Sea Snake",341,17,1
+"Yellow-bellied Sea Snake",341,19,2
+"Shaw's Sea Snake",341,20,2
+"Olive Sea Snake",341,27,1
+"Colubrine Sea Krait",340,20,2
+"semiannulata",340,21,2
+"sexlineatus",340,88,1
 "Seven-striped Blind Snake",334,123,2
+"septemstriatus",334,123,2
 "Seram Long-tailed Melomys",266,47,2
+"Dusky Seram Melomys",266,52,2
+"sevia",270,33,2
 "Seurat's Spiny Mouse",269,16,2
+"seurati",269,16,2
 "Setzer's Mouse",269,118,1
+"setzeri",269,118,1
+"setulosus",269,134,2
 "Selinda Veld Rat",269,200,2
+"Spiny Seram Island Rat",267,97,1
 "Senegal Lemniscomys",274,19,2
 "Seram Island Mountain Rat",274,47,2
+"semotus",273,20,2
+"Black Sea Field Mouse",273,40,2
+"setzeri",263,128,2
+"Sekeetamys",265,42,2
 "Senegal Gerbil",265,77,1
 "Serrado Do Mar Grass Mouse",289,49,1
+"serrensis",289,49,1
+"sejugis",291,50,2
+"semicanus",284,65,1
 "Severtzov's Birch Mouse",280,24,1
+"severtzovi",280,24,1
+"setchuanus",280,40,2
+"severtzovi",280,90,1
+"semivillosus",258,32,2
+"setosus",258,67,2
+"semispinosus",258,113,1
+"sericeus",257,38,2
+"setosus",278,16,2
 "Selangor Pygmy Flying Squirrel",278,39,1
 "Secretive Dwarf Squirrel",278,105,1
+"senex",296,90,2
 "Setzer's Mouse-tailed Dormouse",262,49,2
+"setzeri",262,49,2
+"Selevinia",262,51,2
+"Semnopithecus",275,146,1
+"Semnopithecus",275,150,1
+"Semnopithecus",275,151,2
+"Semnopithecus",275,152,2
+"Semnopithecus",275,154,1
+"Semnopithecus",275,155,2
+"Semnopithecus",275,157,1
+"Semnopithecus",275,158,2
+"seniculus",286,41,1
+"septentrionalis",260,45,1
+"senegalensis",260,127,2
+"False Serotine Bat",389,186,1
+"Gaskell's False Serotine",390,76,1
+"Large False Serotine",390,77,2
 "Seminole Bat",392,21,2
+"seminolus",392,21,2
+"Malagasy Serotine",392,69,1
+"seabrae",403,28,2
+"septentrionalis",403,79,1
+"Diminutive Serotine",403,132,1
+"Harmles Serotine",403,133,2
+"Botta's Serotine",403,134,2
+"Lagos Serotine",403,135,2
+"Kobayashi's Serotine",403,140,2
+"Little Black Serotinelittle Black Serotine",403,143,1
+"Little Black Serotinelittle Black Serotine",403,143,1
+"Chiriquinan Serotine",403,144,2
 "Serotine",403,152,2
+"serotinus",403,152,2
+"Surat Serotine",403,153,2
+"Bobrinski's Serotine",403,161,2
+"Sind Serotine Bat",403,162,2
+"secundus",396,51,2
+"setiger",396,193,2
+"senex",393,59,2
 "Seba's Short-tailed Bat",393,88,1
+"sezekorni",393,124,2
 "Semon's Leaf-nosed Bat",378,34,2
+"semoni",378,34,2
+"sedulus",377,20,2
 "Seychelles Sheath-tailed Bat",400,47,1
+"seychellensis",400,47,1
+"semicaudata",400,52,1
 "Seram Flying Fox",366,33,2
 "Seychelles Flying Fox",366,39,2
+"seychellensis",366,39,2
+"Chinese Serow",372,57,1
 "Serow",372,58,2
+"Himalayan Serow",372,59,2
+"Red Serow",372,60,2
+"Formosan Serow",372,70,2
+"Japanese Serow",372,71,2
 "Sei Whale",371,181,2
 "Sea Mink",383,41,2
 "Sea Otter",386,23,2
+"semistriatus",386,42,2
 "Seals, Sea Lions and Walrus",381,35,2
+"Seals, Sea Lions and Walrus",381,35,2
+"Fur Seals",381,38,1
+"Juan Fernandez Fur Seal",381,44,1
+"South American Fur Seal",381,45,2
+"Galapagos Fur Seal",381,47,1
+"New Zealand Fur Seal",381,48,2
+"Guadalupe Fur Seal",381,49,2
+"Antarctic Fur Seal",381,50,2
+"Subantarctic Fur Seal",381,51,2
+"Afro-Australian Fur Seal",381,52,2
 "Sea Lions",381,54,1
+"New Zealand Sea Lion",381,58,1
+"Australian Sea Lion",381,59,2
+"South American Sea Lion",381,60,2
+"Steller Sea Lion",381,61,2
+"Californian Sea Lion",381,64,1
+"Galapagos Sea Lion",381,65,2
+"Japanese Sea Lion",381,66,2
+"Northern Fur Seal",381,67,2
+"True seals",381,69,2
+"Baikal Seal",381,77,1
+"Ringed Seal",381,78,2
+"Caspian Seal",381,79,2
+"Harbour Seal",381,81,1
+"Spotted Seal",381,82,2
+"Grey Seal",381,83,2
+"Harp Seal",381,85,1
+"Ribbon Seal",381,86,2
+"Hooded Seal",381,87,2
+"Bearded Seal",381,88,2
+"Crabeater Seal",381,93,1
+"Leopard Seal",381,94,2
+"Weddell Seal",381,96,1
+"Ross Seal",381,97,2
+"Northern Elephant Seal",381,99,1
+"Southern Elephant Seal",381,100,2
+"Hawaiian Monk Seal",381,102,1
+"Mediterranean Monk Seal",381,103,2
+"sechurae",381,144,2
 "Selous' Mongoose",384,31,1
+"selousi",384,31,1
+"semitorquatus",384,51,1
 "Servaline Genet",385,25,1
+"servalina",385,25,1
 "Serval",382,66,2
+"serval",382,66,2
 "Serezkaya Shrew",370,51,1
+"serezkyensis",370,51,1
+"selina",367,87,2
 "Senkaku Mole",380,45,2
+"sexcinctus",333,24,1
+"septemcinctus",333,32,2
+"semispinosus",323,47,1
+"setosus",323,52,2
+"Setifer",323,52,2
+"septentrionalis",323,60,1
+"Four-toed Sengi",323,109,2
+"Checkered Sengi",323,114,2
 "Sea cows",323,125,2
+"senegalensis",323,128,1
+"Setonix",110,76,2
 "Seri's Tree Kangaroo",110,95,2
+"sericeus",112,77,2
 "Seram Bandicoot",109,42,2
 "Sepia Short-tailed Opossum",109,179,2
+"senex",63,57,2
+"seminiferus",63,70,2
+"sernai",63,149,2
+"serranus",68,162,1
+"semipalmatus",69,27,1
+"septentrionalis",64,58,2
+"seniculus",48,130,2
+"semiguttatus",47,29,2
+"secedens",47,45,1
+"semilineatus",46,12,2
+"semipalmata",54,30,1
+"Cooloola Sedgefrog",53,161,2
+"serendipitus",82,11,2
+"semipalmata",79,38,2
+"semimarmorata",23,79,2
+"Purple Frog, Seychelles Palm Frog and more",1,28,2
+"Gardiner's Seychelles frog",1,31,1
 "Seychelles palm frog",1,34,1
+"sechellensis",1,35,2
+"semiruber",7,167,2
+"securifer",3,202,2
+"septentionalis",20,72,1
+"sevosus",12,82,2
+"septentrionalis",12,100,2
 "Seep Frog",5,11,2
+"semipalmata",5,22,2
+"semipalmata",6,29,2
+"septentrionalis",28,162,2
+"sextus",33,83,2
+"serratopalpebrosa",32,22,2
+"semidiscus",30,77,2
+"seabrai",30,126,1
 "Seychelles Treefrog",34,78,2
+"seychellensis",34,78,2
+"senegalensis",27,26,2
+"Semnodactylus",27,33,2
+"serasanae",37,42,1
 "Sequoia Slender Salamander",98,28,1
+"serratus",98,80,1
 "Sequoyah Slimy Salamander",107,14,2
+"sequoyah",107,14,2
 "Seal Salamander",105,13,2
 "Seepage Salamander",105,27,2
 "Semirechensk Salamander",344,87,2
+"seshachari",113,131,1
+"seraphini",113,159,2
