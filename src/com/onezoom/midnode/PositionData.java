@@ -86,10 +86,6 @@ public class PositionData implements Comparable<PositionData>{
 	}
 
 	public static void moveNodeToCenter(MidNode searchedNode) {
-		if (searchedNode.getClass() == InteriorNode.class)
-			PositionData.shiftScreenPosition(-220 * searchedNode.positionData.arcx2, -220 * searchedNode.positionData.arcy2, 1f);
-		else {
-			PositionData.shiftScreenPosition(-220 * searchedNode.positionData.arcx, -220 * searchedNode.positionData.arcy, 1f);
-		}
+		PositionData.shiftScreenPosition(-220 * searchedNode.positionData.arcx, -220 * searchedNode.positionData.arcy, 1f);	
 	}
 }

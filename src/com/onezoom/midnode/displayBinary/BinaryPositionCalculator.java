@@ -1,11 +1,5 @@
 package com.onezoom.midnode.displayBinary;
 
-import android.app.ActivityManager;
-import android.app.ActivityManager.MemoryInfo;
-import android.graphics.Color;
-import android.util.Log;
-
-import com.onezoom.CanvasActivity;
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
@@ -377,6 +371,7 @@ public class BinaryPositionCalculator {
 	}
 
 
+	@SuppressWarnings("unused")
 	private void dropInvisibleChunk(MidNode midNode, int depth) {
 		//if there are more than 10MB free memory, then return;
 //		if (Runtime.getRuntime().freeMemory() > 10 * 1024 * 1024) return;

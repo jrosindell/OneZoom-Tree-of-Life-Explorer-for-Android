@@ -7,12 +7,10 @@ import android.graphics.Paint.Align;
 import android.graphics.Paint.Style;
 import android.graphics.Path;
 import android.graphics.RectF;
-import android.util.Log;
 
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
-import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
 
 public class BinaryVisualizer{
@@ -48,8 +46,6 @@ public class BinaryVisualizer{
 	
 	
 	public void drawTree(Canvas canvas, MidNode midNode) {
-		Log.d("DRAWTREE",  midNode.positionData.xvar + " " + midNode.traitsCaculator.cname);
-		Log.d("DRAWTREE", "" + midNode.positionData.xp);
 		this.canvas = canvas;
 		drawElement(midNode);
 		if (drawSignPost) drawSignPost(midNode);
@@ -495,6 +491,7 @@ public class BinaryVisualizer{
 
 
 	//**********DEBUG FUNCTION******************//
+	@SuppressWarnings("unused")
 	private void drawBoundingBox(MidNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
@@ -510,6 +507,7 @@ public class BinaryVisualizer{
 		canvas.drawPath(path, paint);
 	}
 	
+		@SuppressWarnings("unused")
 		private void drawBoundingBox2(MidNode midNode) {
 			float x = midNode.positionData.xvar;
 			float y = midNode.positionData.yvar;

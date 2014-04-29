@@ -1,19 +1,17 @@
 package com.onezoom.midnode.displayBinary;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Locale;
 
 import org.apache.commons.lang3.StringUtils;
 
-import android.util.Log;
 import android.widget.Toast;
 import au.com.bytecode.opencsv.CSVReader;
 
 import com.onezoom.CanvasActivity;
-import com.onezoom.TreeView;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
@@ -30,20 +28,20 @@ public class BinarySearch {
 		searchResults = new ArrayList<Record>();
 	}
 	
-	public void performSearch(String arg) {
-		if (arg.length() < 3) {
+	public void performSearch(String userInput) {
+		if (userInput.length() < 3) {
 			Toast.makeText(client, "name too short", Toast.LENGTH_LONG).show();
-		} else if (arg.equals(previousSearch)) {
+		} else if (userInput.equals(previousSearch)) {
 			currentHit = (currentHit + 1) % searchHit;
 			processAndShowSearchResult();
 		} else {
 			searchResults.clear();
-			previousSearch = arg;
-			String filename = client.selectedItem.toLowerCase() + arg.substring(0, 2).toLowerCase();
+			previousSearch = userInput;
+			String filename = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH) + userInput.substring(0, 2).toLowerCase();
 			int resourceID = client.getResources().getIdentifier(filename, "raw", client.getPackageName());
 			InputStream is = client.getResources().openRawResource(resourceID);
 			CSVReader reader = new CSVReader(new InputStreamReader(is));
-			searchReader(reader, arg.toLowerCase());
+			searchReader(reader, userInput.toLowerCase(Locale.ENGLISH));
 			processAndShowSearchResult();
 		}
 	}
@@ -79,6 +77,7 @@ public class BinarySearch {
 		}
 		reanchorNode(searchedNode, 0);
 //		PositionData.setScreenPosition(360, 500, 1f);
+		client.setPositionToMoveNodeCenter();
 		PositionData.moveNodeToCenter(searchedNode);
 		client.treeView.setDuringInteraction(false);
 		client.recalculate();
@@ -104,24 +103,24 @@ public class BinarySearch {
 		midNode.positionData.graphref = false;
 	}
 
-	private void searchReader(CSVReader reader, String searchWord) {
+	private void searchReader(CSVReader reader, String userInput) {
 		searchHit = 0;	
 		currentHit = 0;
 		try {
 			String[] line;
 			reader.readNext();
 			while ((line = reader.readNext()) != null) {
-				if (line[0].toLowerCase().contains(searchWord.toLowerCase())) {
+				if (line[0].toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase())) {
 					Record newRecord = new Record(line);
 					if (!searchResults.contains(newRecord)) {
-						if (newRecord.name.toLowerCase().equals(searchWord.toLowerCase())) {
+						if (newRecord.name.toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase())) {
 							//exact match appears first
 							searchResults.add(0, newRecord);
 						} else {
 							searchResults.add(newRecord);							
 						}
 						searchHit++;
-					} else if (newRecord.name.toLowerCase().equals(searchWord.toLowerCase())) {
+					} else if (newRecord.name.toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase())) {
 						//If node has already been added to list but not has the exact match name, then delete it and append 
 						//the exact match at the initial position of the list.
 						deletePreviousResult(searchResults, newRecord);

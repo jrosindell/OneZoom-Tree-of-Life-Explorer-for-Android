@@ -4,7 +4,6 @@ import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
 
 import android.content.Context;
-import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -249,19 +248,5 @@ public class TreeView extends View {
 		int x = getWidth()/2;
 		int y = getHeight() - 100;
 		canvas.drawText(text, x, y, textPaint);		
-	}
-
-	private Bitmap createBitmapAccordingToOrientation() {
-		if (client.getOrientation() == Configuration.ORIENTATION_PORTRAIT)
-			return Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
-		else
-			return Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
-	}
-	
-	private void drawBitmapAccordingToOrientation(Canvas canvas, Paint paint, Bitmap bitmap) {
-		if (client.getOrientation() == Configuration.ORIENTATION_PORTRAIT)
-			canvas.drawBitmap(bitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
-		else
-			canvas.drawBitmap(bitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
 	}
 }

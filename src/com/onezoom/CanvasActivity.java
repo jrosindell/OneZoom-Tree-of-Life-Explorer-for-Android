@@ -231,4 +231,8 @@ public class CanvasActivity extends Activity{
 			PositionData.setScreenPosition(500, 545, 0.73f);
 		}
 	}
+	
+	public void setPositionToMoveNodeCenter() {
+		PositionData.setScreenPosition(treeView.getWidth()/2, treeView.getHeight()/2, 1);
+	}
 }

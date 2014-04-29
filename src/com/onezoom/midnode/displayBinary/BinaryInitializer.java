@@ -3,7 +3,6 @@ package com.onezoom.midnode.displayBinary;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Locale;
@@ -13,7 +12,6 @@ import java.util.Stack;
 import junit.framework.Assert;
 import android.content.Context;
 import android.graphics.Color;
-import android.util.Log;
 import android.util.Pair;
 import au.com.bytecode.opencsv.CSVReader;
 
@@ -287,7 +285,6 @@ public class BinaryInitializer {
 	private MidNode findAllFileNeedToBeInit(int fileIndex,
 			Stack<Integer> filesNeedToBeInit) {
 		filesNeedToBeInit.add(fileIndex);
-		Log.d("debug", "files need to be init: " + fileIndex);
 		int parentFileIndex = fileConnection.get(fileIndex);
 		if (fulltreeHash.containsKey(Utility.combine(parentFileIndex, 0))) {
 			return fulltreeHash.get(Utility.combine(parentFileIndex, 0));
@@ -312,12 +309,10 @@ public class BinaryInitializer {
 		if (searchroot.child1 == null && searchroot.child1Index < 0
 				&& findFileAndIndexInfo(searchroot.child1Index)[1] == fileIndex) {
 			searchroot.child1 = createFollowingOneFile(searchroot, 1);
-			Log.d("debug", "files are being init: " + fileIndex);
 			return searchroot.child1;
 		} else if (searchroot.child2 == null && searchroot.child2Index < 0
 				&& findFileAndIndexInfo(searchroot.child2Index)[1] == fileIndex) {
 			searchroot.child2 = createFollowingOneFile(searchroot, 2);
-			Log.d("debug", "files are being init: " + fileIndex);
 			return searchroot.child2;
 		} else if (searchroot.child1 != null) {
 			search1 = initNewFile(searchroot.child1, fileIndex);
