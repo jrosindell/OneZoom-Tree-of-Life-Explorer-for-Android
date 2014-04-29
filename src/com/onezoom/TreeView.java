@@ -15,6 +15,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 
 public class TreeView extends View {
 	private CanvasActivity client;
@@ -226,6 +227,12 @@ public class TreeView extends View {
 
 	public void setDuringGrowthAnimation(boolean duringGrowthAnimation) {
 		this.duringGrowthAnimation = duringGrowthAnimation;
+	}
+	
+	public void hideKeyboard() {
+		InputMethodManager imm = (InputMethodManager)client.getSystemService(
+			      Context.INPUT_METHOD_SERVICE);
+		imm.hideSoftInputFromWindow(this.getWindowToken(), 0);
 	}
 
 	private void drawLoading(Canvas canvas) {

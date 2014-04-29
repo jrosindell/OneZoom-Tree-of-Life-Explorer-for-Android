@@ -2,9 +2,11 @@ package com.onezoom;
 
 import com.onezoom.midnode.PositionData;
 
+import android.content.Context;
 import android.util.Log;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
+import android.view.inputmethod.InputMethodManager;
 
 public class GestureListener extends GestureDetector.SimpleOnGestureListener{
 	private TreeView treeView;
@@ -42,7 +44,7 @@ public class GestureListener extends GestureDetector.SimpleOnGestureListener{
 
 	@Override
 	public boolean onSingleTapConfirmed(MotionEvent e) {
-		// TODO Auto-generated method stub
+		treeView.hideKeyboard();
 		return super.onSingleTapConfirmed(e);
 	}
 
