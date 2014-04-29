@@ -78,7 +78,7 @@ public class BinarySearch {
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		}
 		reanchorNode(searchedNode, 0);
-		PositionData.setScreenPosition(360, 500, 1f);
+//		PositionData.setScreenPosition(360, 500, 1f);
 		PositionData.moveNodeToCenter(searchedNode);
 		client.treeView.setDuringInteraction(false);
 		client.recalculate();

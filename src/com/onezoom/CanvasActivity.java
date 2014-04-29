@@ -23,7 +23,6 @@ import android.widget.Toast;
 public class CanvasActivity extends Activity{
 	public TreeView treeView;
 	public static String selectedItem;
-	private String selectedString;
 	private MidNode fulltree;
 	private boolean started = false;
 	private MemoryThread memoryThread;
@@ -41,16 +40,19 @@ public class CanvasActivity extends Activity{
 		
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
-		
+	
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
 		searchEngine = new BinarySearch(this);
+		
 		groupIndexMap = new TreeMap<String, String>();
 		groupIndexMap.put("Mammals", "0");
 		groupIndexMap.put("Tetrapods", "0");
 		groupIndexMap.put("Amphibian", "0");
 		groupIndexMap.put("Birds", "0");
-		retrieveData();
+		
+		selectedItem = getIntent().getExtras().getString(
+				"com.onezoom.selectedTree");
 	}
 	
 	public TreeView getTreeView() {
@@ -98,11 +100,7 @@ public class CanvasActivity extends Activity{
 
 	public void initialization() {
 		MidNode.setContext(this);
-		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
-			MidNode.setScreenSize(0, 0, 800, 1200);			
-		} else {
-			MidNode.setScreenSize(0, 0, 1280, 640);
-		}
+		setScreenSize();
 
 		resetScreenPosition();
 		fulltree = MidNode.createNode(groupIndexMap.get(selectedItem));
@@ -118,24 +116,6 @@ public class CanvasActivity extends Activity{
 	
 	public void reset() {
 		memoryThread.reset();
-	}
-	
-	/**
-	 * Load Data from data class to a string called selectedstring.
-	 */
-	private void retrieveData() {
-		selectedItem = getIntent().getExtras().getString(
-				"com.onezoom.selectedTree");
-
-		if (selectedItem.equals("Mammals")) {
-			selectedString = Data.newMammalsString;
-		} else if (selectedItem.equals("Birds")) {
-			selectedString = Data.newBirdsString;
-		} else if (selectedItem.equals("Amphibian")) {
-			selectedString = Data.newAmphibianString;
-		} else if (selectedItem.equals("Tetrapods")) {
-			selectedString = Data.newTetrapodsString;
-		}
 	}
 	
 	@Override
@@ -234,6 +214,14 @@ public class CanvasActivity extends Activity{
 
 	public void setOrientation(int orientation) {
 		this.orientation = orientation;
+	}
+	
+	private void setScreenSize() {
+		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
+			MidNode.setScreenSize(0, 0, 800, 1200);			
+		} else {
+			MidNode.setScreenSize(0, 0, 1280, 640);
+		}
 	}
 	
 	private void resetScreenPosition() {

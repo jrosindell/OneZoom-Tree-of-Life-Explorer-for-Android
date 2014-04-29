@@ -1,6 +1,5 @@
 package com.onezoom;
 
-import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
 
@@ -17,7 +16,6 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
-import android.widget.ImageView;
 
 public class TreeView extends View {
 	private CanvasActivity client;

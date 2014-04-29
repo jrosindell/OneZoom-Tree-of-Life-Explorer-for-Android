@@ -300,13 +300,13 @@ public class BinaryVisualizer{
 		
 		if (split.length == 2) {
 			startY = startY - radius/7f;
-			minTextSize = Math.min(1.7f * radius / split[0].length(), 1.7f * radius / split[1].length());
+			minTextSize = Math.min(1.55f * radius / split[0].length(), 1.55f * radius / split[1].length());
 		} else if (split.length == 3) {
 			startY = startY - radius/5f;
-			minTextSize = Math.min(Math.min(1.35f * radius / split[0].length(), 1.7f * radius / split[0].length()), 
+			minTextSize = Math.min(Math.min(1.35f * radius / split[0].length(), 1.55f * radius / split[0].length()), 
 					1.35f * radius / split[2].length());
 		} else if (split.length == 1) {
-			minTextSize = 1.9f * radius / split[0].length();
+			minTextSize = 1.55f * radius / split[0].length();
 		}
 		
 		for (String string : split) {
