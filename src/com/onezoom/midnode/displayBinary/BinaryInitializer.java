@@ -277,8 +277,8 @@ public class BinaryInitializer {
 
 	public void initialiseSearchedFile(int fileIndex) {
 		Stack<Integer> filesNeedToBeInit = new Stack<Integer>();
-		MidNode searchroot = findAllFileNeedToBeInit(fileIndex, filesNeedToBeInit);
-		initFilesInStack(searchroot, filesNeedToBeInit);
+		findAllFileNeedToBeInit(fileIndex, filesNeedToBeInit);		
+		initFilesInStack(filesNeedToBeInit);
 	}
 
 	private MidNode findAllFileNeedToBeInit(int fileIndex,
@@ -293,34 +293,33 @@ public class BinaryInitializer {
 	}
 
 	
-	private void initFilesInStack(MidNode searchroot,
-			Stack<Integer> filesNeedToBeInit) {
-		Assert.assertNotNull(searchroot);
+	private void initFilesInStack(Stack<Integer> filesNeedToBeInit) {
 		while (!filesNeedToBeInit.isEmpty()) {
-			searchroot = initNewFile(searchroot, filesNeedToBeInit.pop());
+			Integer fileIndex = filesNeedToBeInit.pop();
+			MidNode searchroot = fulltreeHash.get(Utility.combine(fileConnection.get(fileIndex), 0));
+			initNewFile(searchroot, fileIndex);
 		}
 	}
 	
 	
-	private MidNode initNewFile(MidNode searchroot, Integer fileIndex) {
-		MidNode search1 = null;
-		MidNode search2 = null;
+	private void initNewFile(MidNode searchroot, Integer fileIndex) {		
 		if (searchroot.child1 == null && searchroot.child1Index < 0
 				&& findFileAndIndexInfo(searchroot.child1Index)[1] == fileIndex) {
 			searchroot.child1 = createFollowingOneFile(searchroot, 1);
-			return searchroot.child1;
-		} else if (searchroot.child2 == null && searchroot.child2Index < 0
+		} 
+		
+		if (searchroot.child2 == null && searchroot.child2Index < 0
 				&& findFileAndIndexInfo(searchroot.child2Index)[1] == fileIndex) {
 			searchroot.child2 = createFollowingOneFile(searchroot, 2);
-			return searchroot.child2;
-		} else if (searchroot.child1 != null && searchroot.child2 != null) {
-			search1 = initNewFile(searchroot.child1, fileIndex);
-			search2 = initNewFile(searchroot.child2, fileIndex);
-		} else {
-			return null;
+		} 
+
+		if (searchroot.child1 != null && searchroot.child1Index > 0) {
+			initNewFile(searchroot.child1, fileIndex);			
 		}
-		if (search1 != null) return search1;
-		else return search2;
+		
+		if (searchroot.child2 != null && searchroot.child2Index > 0) {
+			initNewFile(searchroot.child2, fileIndex);
+		}
 	}
 
 	private static void fillFileConnection() {
