@@ -98,12 +98,10 @@ name,fileindex,index,whichChild
 "Myiagra",159,130,2
 "mystacalis",157,57,2
 "Mystacornis",195,34,1
-"Myzas",148,108,1
 "White-eared Myza",148,109,1
 "Myza",148,109,1
 "Dark-eared Myza",148,110,2
 "Myza",148,110,2
-"Myzomelas",149,0,1
 "Scarlet Myzomela",149,9,1
 "Myzomela",149,9,1
 "Cardinal Myzomela",149,10,2
@@ -308,8 +306,6 @@ name,fileindex,index,whichChild
 "mystaceus",406,118,2
 "Myron",340,171,2
 "Myriopholis",334,130,2
-"MYOMORPHA",254,6,1
-"Mylomys",269,211,2
 "Mylomys",269,212,1
 "Ethiopian Mylomys",269,213,2
 "Mylomys",269,213,2
@@ -337,7 +333,6 @@ name,fileindex,index,whichChild
 "Myodes",284,42,2
 "Myodes",284,44,1
 "Myodes",284,45,2
-"Myospalax",281,57,2
 "Myospalax",281,59,1
 "myospalax",281,60,2
 "Myospalax",281,60,2
@@ -349,11 +344,9 @@ name,fileindex,index,whichChild
 "Mysateles",256,15,1
 "Mysateles",256,16,2
 "Mysateles",256,18,1
-"Myoprocta",256,114,2
 "Myoprocta",256,115,1
 "Myoprocta",256,116,2
 "Myosciurus",296,167,2
-"Myomimus",262,46,1
 "Myomimus",262,48,1
 "Myomimus",262,49,2
 "Myomimus",262,50,2
@@ -533,21 +526,16 @@ name,fileindex,index,whichChild
 "Myotis",403,117,2
 "Burmese Whiskered Myotis",403,118,2
 "Myotis",403,118,2
-"Myopterus",396,165,1
 "Myopterus",396,166,1
 "Myopterus",396,167,2
 "Mystacina",393,226,2
 "Myzopoda",365,68,2
-"Myonycteris",399,63,2
 "Myonycteris",399,65,1
 "Myonycteris",399,66,2
 "Myonycteris",399,67,2
-"MYSTICETI",371,169,2
 "mysticetus",371,192,2
-"Mydaus",383,83,2
 "Mydaus",383,84,1
 "Mydaus",383,85,2
-"Myosorex",402,65,1
 "Myosorex",402,70,1
 "Myosorex",402,71,2
 "Myosorex",402,72,2
@@ -560,10 +548,8 @@ name,fileindex,index,whichChild
 "Myosorex",402,85,1
 "Myosorex",402,86,2
 "Myosorex",402,87,2
-"Myrmecophagidae",333,51,1
 "Myrmecophaga",333,55,2
 "myurus",323,105,1
-"Myoictis",111,39,1
 "Myoictis",111,40,1
 "Myoictis",111,41,2
 "Myrmecobius",109,19,2
@@ -584,7 +570,6 @@ name,fileindex,index,whichChild
 "myersi",73,97,2
 "myllomyllon",85,13,1
 "myrmecoides",77,25,2
-"MYOBATRACHIDAE",23,1,1
 "Myobatrachus",23,84,2
 "mysorensis",11,58,1
 "myersi",92,29,2

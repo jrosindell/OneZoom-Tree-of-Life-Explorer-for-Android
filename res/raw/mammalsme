@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Grassland Melomys",13,10,1
 "Grassland Melomys",13,12,1
 "Melomys",13,12,1
 "Grassland Melomys",13,13,2
@@ -35,7 +34,6 @@ name,fileindex,index,whichChild
 "Melomys",13,57,2
 "Obi Island Melomys",13,61,2
 "Melomys",13,61,2
-"Mesembriomys",13,75,1
 "Mesembriomys",13,76,1
 "Mesembriomys",13,77,2
 "Menzies' Mouse",15,33,2
@@ -57,7 +55,6 @@ name,fileindex,index,whichChild
 "Mentawai Archipelago Leopoldamys",18,48,1
 "Mesopotamian Gerbil",16,69,2
 "mesopotamiae",16,69,2
-"Meriones",12,7,1
 "Meriones",12,15,1
 "Meriones",12,16,2
 "Meriones",12,18,1
@@ -78,7 +75,6 @@ name,fileindex,index,whichChild
 "Meriones",12,39,2
 "mearnsi",8,174,1
 "Megadendromus",2,46,1
-"Melanomys",23,186,2
 "Melanomys",23,188,1
 "Melanomys",23,189,2
 "Melanomys",23,190,2
@@ -100,7 +96,6 @@ name,fileindex,index,whichChild
 "megalops",25,87,2
 "melanocarpus",25,102,1
 "Mexican Volcano Mouse",25,123,2
-"Megadontomys",25,126,2
 "Megadontomys",25,128,1
 "Megadontomys",25,129,2
 "Megadontomys",25,130,2
@@ -114,7 +109,6 @@ name,fileindex,index,whichChild
 "Mexican Vole",5,121,2
 "mexicanus",5,121,2
 "melanogaster",7,13,2
-"Mesocricetus",4,123,1
 "Mesocricetus",4,125,1
 "Mesocricetus",4,126,2
 "Mesocricetus",4,128,1
@@ -205,20 +199,15 @@ name,fileindex,index,whichChild
 "Mediterranean Horseshoe Bat",58,106,1
 "Mehely's Horseshoe Bat",58,107,2
 "mehelyi",58,107,2
-"Megadermatidae",45,71,2
-"Megaderma",45,73,1
 "Megaderma",45,74,1
 "Megaderma",45,75,2
 "melanopogon",71,74,1
-"Megabats",45,89,2
 "melanopogon",57,15,2
 "melanotus",57,122,2
-"Melonycteris",45,100,1
 "melanops",45,101,1
 "Melonycteris",45,101,1
 "Melonycteris",45,102,2
 "Megaloglossus",70,46,2
-"Megaerops",46,20,1
 "Megaerops",46,23,1
 "Megaerops",46,24,2
 "Megaerops",46,25,2
@@ -250,16 +239,13 @@ name,fileindex,index,whichChild
 "meinertzhageni",72,22,2
 "melampus",49,53,2
 "Mellivora",49,73,2
-"Meles",49,77,1
 "Meles",49,79,1
 "meles",49,80,2
 "Meles",49,80,2
 "Meles",49,81,2
-"Mephitis",52,36,2
 "mephitis",52,37,1
 "Mephitis",52,37,1
 "Mephitis",52,38,2
-"Melogale",52,46,2
 "Melogale",52,49,1
 "Melogale",52,50,2
 "Melogale",52,51,2
@@ -293,10 +279,8 @@ name,fileindex,index,whichChild
 "Mediterranean Water Shrew",91,41,1
 "Mexican Shrew",91,56,2
 "Megasorex",91,56,2
-"Mesechinus",85,75,2
 "Mesechinus",85,76,1
 "Mesechinus",85,77,2
-"Megalonychidae",0,56,2
 "mexicana",0,63,2
 "mergulus",34,40,2
 "megalura",43,181,1

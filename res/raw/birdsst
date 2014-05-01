@@ -58,9 +58,6 @@ name,fileindex,index,whichChild
 "stellata",97,58,2
 "Stizorhina",87,49,1
 "Stizorhina",87,50,2
-"Mockingbirds, Thrashers, Starlings and more",87,67,2
-"Starlings",88,0,1
-"Sturnidae",88,0,1
 "White-crowned Starling",88,11,1
 "Fischer's Starling",88,12,2
 "African Pied Starling",88,13,2
@@ -130,8 +127,6 @@ name,fileindex,index,whichChild
 "Wattled Starling",88,141,2
 "Violet-backed Starling",88,143,1
 "Madagascar Starling",88,144,2
-"Starlings",98,1,1
-"Sturnidae",98,1,1
 "Metallic Starling",98,10,1
 "Pohnpei Starling",98,11,2
 "White-eyed Starling",98,12,2
@@ -159,8 +154,6 @@ name,fileindex,index,whichChild
 "Streptocitta",98,53,2
 "Stripe-breasted Rhabdornis",98,72,1
 "Stripe-sided Rhabdornis",98,74,2
-"Starlings",87,70,2
-"Sturnidae",87,70,2
 "Stripe-breasted Wren",95,53,1
 "Stripe-throated Wren",95,54,2
 "Stripe-backed Wren",87,90,1
@@ -410,8 +403,6 @@ name,fileindex,index,whichChild
 "striolatus",176,53,2
 "Striped Kingfisher",174,55,1
 "Stork-billed Kingfisher",174,63,2
-"STRIGIFORMES",161,104,2
-"Strigidae",161,105,1
 "Strix",166,61,1
 "Strix",166,62,2
 "Strix",166,63,2
@@ -474,7 +465,6 @@ name,fileindex,index,whichChild
 "Sterna",25,75,2
 "Sterna",25,76,2
 "stolidus",25,86,1
-"Stercorariidae",23,46,2
 "Stercorarius",23,55,1
 "Stercorarius",23,59,1
 "Stercorarius",23,60,2
@@ -488,8 +478,6 @@ name,fileindex,index,whichChild
 "Stilt Sandpiper",21,128,2
 "Temminck's Stint",21,131,1
 "Long-toed Stint",21,132,2
-"Stilts and avocets",26,23,2
-"Stilts",26,24,1
 "White-headed Stilt",26,28,1
 "Black-necked Stilt",26,29,2
 "Black-winged Stilt",26,30,2
@@ -503,7 +491,6 @@ name,fileindex,index,whichChild
 "Stripe-backed Bittern",3,106,2
 "Straw-necked Ibis",3,141,2
 "Stewart Island Shag",19,33,2
-"Storks",1,7,2
 "Oriental Stork",1,13,1
 "White Stork",1,14,2
 "Maguari Stork",1,15,2
@@ -523,7 +510,6 @@ name,fileindex,index,whichChild
 "Streaked Shearwater",12,14,2
 "Stejneger's Petrel",13,41,1
 "steadi",12,83,1
-"Storm-petrels",12,110,2
 "White-throated Storm-petrel",12,114,1
 "White-faced Storm-petrel",12,115,2
 "Grey-backed Storm-petrel",12,116,2
@@ -532,7 +518,6 @@ name,fileindex,index,whichChild
 "White-vented Storm-petrel",12,122,1
 "New Zealand Storm-petrel",12,123,2
 "Wilson's Storm-petrel",12,124,2
-"Storm-petrels",12,125,2
 "Wedge-rumped Storm-petrel",12,131,1
 "Least Storm-petrel",12,132,2
 "Markham's Storm-petrel",12,134,1
@@ -576,7 +561,6 @@ name,fileindex,index,whichChild
 "Stigmatopelia",4,141,1
 "Stigmatopelia",4,142,2
 "Starnoenas",5,36,1
-"Streamertails",156,10,1
 "Black-billed Streamertail",156,11,1
 "Red-billed Streamertail",156,12,2
 "Steely-vented Hummingbird",156,69,1
@@ -585,7 +569,6 @@ name,fileindex,index,whichChild
 "Stephanoxis",155,76,2
 "stenurus",155,102,2
 "Stellula",155,144,1
-"Starthroats",155,171,1
 "Long-billed Starthroat",155,173,1
 "Plain-capped Starthroat",155,174,2
 "Stripe-breasted Starthroat",155,176,1
@@ -594,7 +577,6 @@ name,fileindex,index,whichChild
 "stanleyi",160,30,2
 "strophianus",160,80,2
 "stictolophus",160,99,1
-"Starfrontlets",160,188,1
 "Golden-bellied Starfrontlet",160,193,1
 "Blue-throated Starfrontlet",160,194,2
 "Buff-winged Starfrontlet",160,196,1
@@ -630,7 +612,6 @@ name,fileindex,index,whichChild
 "Steller's Eider",27,44,2
 "stelleri",27,44,2
 "strepera",28,58,2
-"Steamerducks",28,87,1
 "White-headed Steamerduck",28,89,1
 "Flying Steamerduck",28,90,2
 "Falkland Steamerduck",28,92,1

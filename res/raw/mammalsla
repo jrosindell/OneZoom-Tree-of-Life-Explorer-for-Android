@@ -46,7 +46,6 @@ name,fileindex,index,whichChild
 "lasiurus",21,63,1
 "lactens",21,73,2
 "Lacustrine Vole",5,86,2
-"Lasiopodomys",6,24,2
 "Lasiopodomys",6,26,1
 "Lasiopodomys",6,27,2
 "Lasiopodomys",6,28,2
@@ -60,7 +59,6 @@ name,fileindex,index,whichChild
 "lamarum",30,11,2
 "labilis",30,37,2
 "laticeps",29,91,2
-"Lagidium",29,202,1
 "Lagidium",29,204,1
 "Lagidium",29,205,2
 "Lagidium",29,206,2
@@ -68,7 +66,6 @@ name,fileindex,index,whichChild
 "Lagostomus",29,210,2
 "latro",32,84,2
 "Large Brown Flying Squirrel",77,24,1
-"Lariscus",77,93,2
 "Lariscus",77,95,1
 "Lariscus",77,96,2
 "Lariscus",77,98,1
@@ -79,11 +76,9 @@ name,fileindex,index,whichChild
 "lateralis",79,81,1
 "Lady Burton's Rope Squirrel",81,30,2
 "laniger",77,178,2
-"LAGOMORPHA",76,0,2
 "Ladak Pika",76,140,2
 "ladacensis",76,140,2
 "Large-eared Pika",76,149,1
-"Langurs, Surilis and more",40,1,1
 "Francois's Langur",40,14,1
 "Hatinh Langur",40,15,2
 "Laotian Langur",40,16,2
@@ -98,7 +93,6 @@ name,fileindex,index,whichChild
 "Hose's Langur",40,40,2
 "Mentawai Langur",40,43,2
 "White-fronted Langur",40,44,2
-"Gray Langurs",40,55,1
 "Nepal Gray Langur",40,59,1
 "Tarai Gray Langur",40,60,2
 "Northern Plains Gray Langur",40,61,2
@@ -116,7 +110,6 @@ name,fileindex,index,whichChild
 "lar",37,11,2
 "labiatus",38,50,2
 "Baptista Lake Titi Monkey",42,37,1
-"Lagothrix",42,70,1
 "Lagothrix",42,72,1
 "Lagothrix",42,73,2
 "lagotricha",42,75,1
@@ -124,9 +117,7 @@ name,fileindex,index,whichChild
 "Lagothrix",42,76,2
 "laniger",35,114,2
 "Large Treeshrew",35,160,2
-"Laurasiatheria",0,8,2
 "lanosa",53,17,2
-"Laephotis",55,24,2
 "Laephotis",55,26,1
 "Laephotis",55,27,2
 "Laephotis",55,29,1
@@ -136,7 +127,6 @@ name,fileindex,index,whichChild
 "lasiopterus",53,175,1
 "laephotis",54,70,1
 "Large False Serotine",54,77,2
-"Lasiurus",56,4,1
 "Lasiurus",56,12,1
 "Lasiurus",56,13,2
 "Lasiurus",56,14,2
@@ -233,12 +223,10 @@ name,fileindex,index,whichChild
 "lamottei",34,38,2
 "lateralis",43,27,2
 "lanatus",43,42,2
-"Lagorchestes",43,81,2
 "Lagorchestes",43,82,1
 "Lagorchestes",43,83,2
 "Lagostrophus",43,116,2
 "larvatus",43,145,2
-"Lasiorhinus",43,204,1
 "latifrons",43,205,1
 "Lasiorhinus",43,205,1
 "Lasiorhinus",43,206,2

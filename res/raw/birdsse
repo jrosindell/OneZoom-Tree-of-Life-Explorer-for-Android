@@ -1,9 +1,7 @@
 name,fileindex,index,whichChild
-"Seedeaters and more",50,64,2
 "Plain-coloured Seedeater",50,66,1
 "Paramo Seedeater",50,67,2
 "Band-tailed Seedeater",50,68,2
-"Seedeaters and more",52,0,2
 "Dark-throated Seedeater",52,12,1
 "Rufous-rumped Seedeater",52,13,2
 "Tawny-bellied Seedeater",52,14,2
@@ -256,7 +254,6 @@ name,fileindex,index,whichChild
 "Seychelles Kestrel",29,123,2
 "semitorquatus",29,143,2
 "semitorquatus",29,175,1
-"Seriemas",0,8,2
 "Black-legged Seriema",0,9,1
 "Red-legged Seriema",0,10,2
 "Selenidera",178,13,1
@@ -280,13 +277,11 @@ name,fileindex,index,whichChild
 "semitorques",180,50,2
 "Semiplumbeous Hawk",163,51,2
 "semiplumbeus",163,51,2
-"Fish-eagles and Sea-eagles",162,15,1
 "White-bellied Sea-eagle",162,19,1
 "Sanford's Sea-eagle",162,20,2
 "Steller's Sea-eagle",162,30,2
 "Semicollared Hawk",165,93,1
 "Congo Serpent-eagle",162,133,1
-"Serpent-eagles",162,139,2
 "Philippine Serpent-eagle",162,144,1
 "Sulawesi Serpent-eagle",162,145,2
 "Crested Serpent-eagle",162,146,2
@@ -297,12 +292,10 @@ name,fileindex,index,whichChild
 "Secretarybird",161,154,2
 "serpentarius",161,154,2
 "serranus",22,78,2
-"Sandpipers, Jacanas, Seedsnipes and more",20,78,2
 "semipalmatus",21,57,2
 "semipalmatus",21,78,1
 "Semipalmated Sandpiper",21,107,1
 "semicollaris",20,128,2
-"Seedsnipes",20,130,1
 "Grey-breasted Seedsnipe",20,132,1
 "Least Seedsnipe",20,133,2
 "White-bellied Seedsnipe",20,135,1
@@ -347,6 +340,5 @@ name,fileindex,index,whichChild
 "sewerzowi",151,37,1
 "sephaena",150,38,2
 "See-see Partridge",148,70,1
-"Seaducks",27,12,1
 "serrator",27,23,2
 "semipalmata",27,214,2

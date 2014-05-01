@@ -223,7 +223,6 @@ name,fileindex,index,whichChild
 "maculipennis",82,52,2
 "major",78,48,1
 "Manchurian Bush-warbler",78,57,1
-"Swallows and martins",65,168,2
 "Rock Martin",71,38,2
 "Tree Martin",71,49,2
 "Fairy Martin",71,50,2
@@ -294,7 +293,6 @@ name,fileindex,index,whichChild
 "maculipectus",142,73,1
 "Matthias Fantail",142,74,2
 "matthiae",142,74,2
-"Magpies and Jays",137,4,1
 "macrorhynchos",138,58,1
 "Mariana Crow",138,59,2
 "Yellow-billed Magpie",137,16,1
@@ -303,7 +301,6 @@ name,fileindex,index,whichChild
 "White-throated Magpie-jay",137,73,1
 "Black-throated Magpie-jay",137,74,2
 "Azure-winged Magpie",137,113,2
-"Magpies",137,114,2
 "Gold-billed Magpie",137,119,1
 "Taiwan Magpie",137,120,2
 "Sri Lanka Magpie",137,121,2
@@ -329,9 +326,7 @@ name,fileindex,index,whichChild
 "madagascarinus",135,20,2
 "madagascariensis",135,23,1
 "Maroon-breasted Philentoma",135,48,2
-"Malaconotidae",135,51,1
 "margaritae",135,110,1
-"Malaconotidae",145,1,1
 "Many-coloured Bush-shrike",145,43,2
 "Marsh Tchagra",145,80,2
 "Malaconotus",145,85,1
@@ -343,7 +338,6 @@ name,fileindex,index,whichChild
 "maximus",143,17,2
 "Masked Woodswallow",143,22,2
 "Australian Magpie",143,40,2
-"Machaerirhynchidae",143,47,2
 "Machaerirhynchus",143,48,1
 "Machaerirhynchus",143,49,2
 "Mauritius Cuckooshrike",141,57,1
@@ -368,7 +362,6 @@ name,fileindex,index,whichChild
 "magna",112,112,2
 "magnirostris",112,137,1
 "Mangrove Gerygone",112,140,1
-"Maluridae",112,156,2
 "Malurus",112,165,1
 "Malurus",112,166,2
 "Malurus",112,168,1
@@ -460,7 +453,6 @@ name,fileindex,index,whichChild
 "maynana",131,52,1
 "maculata",131,56,2
 "Masked Fruiteater",121,164,2
-"Manakins",121,179,2
 "Golden-headed Manakin",122,9,1
 "Red-capped Manakin",122,10,2
 "Red-headed Manakin",122,11,2
@@ -527,8 +519,6 @@ name,fileindex,index,whichChild
 "Malabar Parakeet",146,12,2
 "Mauritius Parakeet",146,20,2
 "mada",146,59,2
-"Parrotlets, Parakeets, Macaws and more",117,0,2
-"Macaws and other Parakeets",117,6,1
 "Red-and-green Macaw",117,57,1
 "Scarlet Macaw",117,58,2
 "macao",117,58,2
@@ -716,11 +706,9 @@ name,fileindex,index,whichChild
 "Magellanic Penguin",12,173,1
 "magellanicus",12,173,1
 "macrorhynchus",1,82,2
-"Malkoha, Koels and other cuckoos",10,1,1
 "Madagascar Cuckoo",10,23,2
 "maculatus",10,91,1
 "Mangrove Cuckoo",11,21,2
-"Malkohas",11,37,1
 "Green-billed Malkoha",11,43,1
 "Black-bellied Malkoha",11,44,2
 "Chestnut-bellied Malkoha",11,45,2
@@ -799,7 +787,6 @@ name,fileindex,index,whichChild
 "magnificus",160,101,2
 "Marvellous Spatuletail",160,140,1
 "matthewsii",160,148,2
-"Mangoes and Caribs",158,5,1
 "Green-breasted Mango",158,11,1
 "Veraguan Mango",158,12,2
 "Green-throated Mango",158,13,2
@@ -850,7 +837,6 @@ name,fileindex,index,whichChild
 "maleo",183,27,2
 "Macrocephalon",183,27,2
 "Malleefowl",183,40,2
-"Waterfowl, Screamers and Magpie Goose",27,0,2
 "Mandarin Duck",27,75,1
 "Madagascar Pochard",27,89,2
 "marila",27,97,2

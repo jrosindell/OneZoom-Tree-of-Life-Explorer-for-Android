@@ -18,7 +18,6 @@ name,fileindex,index,whichChild
 "cayana",125,177,2
 "caeruleus",125,187,2
 "carbo",130,36,2
-"Cardinalidae",124,44,1
 "callophrys",128,29,1
 "cabanisi",128,70,2
 "cayana",128,89,2
@@ -33,7 +32,6 @@ name,fileindex,index,whichChild
 "campestris",129,57,2
 "castaneoventris",128,110,1
 "Calochaetes",128,152,2
-"Cardinals",128,158,1
 "Yellow-billed Cardinal",128,162,1
 "capitata",128,162,1
 "Red-capped Cardinal",128,163,2
@@ -47,10 +45,6 @@ name,fileindex,index,whichChild
 "cassinii",124,99,2
 "callophrys",124,111,2
 "Catamblyrhynchus",124,112,2
-"Cardinals and more",124,113,2
-"Cardinalidae",124,120,1
-"Cardinalidae",124,132,2
-"Cardinalidae",124,137,2
 "canadensis",124,143,1
 "Caryothraustes",124,143,1
 "Caryothraustes",124,144,2
@@ -60,15 +54,10 @@ name,fileindex,index,whichChild
 "cardinalis",124,148,2
 "Cardinalis",124,148,2
 "Cardinalis",124,149,2
-"Cardinalidae",124,154,1
 "carmioli",124,156,2
-"Cardinalidae",124,160,2
-"Cardinalidae",124,171,1
 "Carrizal Seedeater",124,180,1
 "carrizalensis",124,180,1
 "caerulea",124,195,1
-"Cardinalidae",124,198,2
-"Cardinalidae",124,203,2
 "Canyon Towhee",145,37,2
 "California Towhee",145,39,1
 "Cabanis's Ground Sparrow",145,43,2
@@ -427,12 +416,10 @@ name,fileindex,index,whichChild
 "Calicalicus",195,28,1
 "Calicalicus",195,29,2
 "caniceps",195,61,1
-"Campephagidae",195,71,2
 "Cape Batis",196,18,2
 "capensis",196,18,2
 "castanea",196,55,2
 "cassicus",199,32,2
-"Campephagidae",195,102,2
 "New Caledonian Cuckooshrike",197,33,2
 "Campochaera",195,108,2
 "Campephaga",195,112,1
@@ -449,7 +436,6 @@ name,fileindex,index,whichChild
 "castanotum",195,156,2
 "castanonota",195,160,1
 "caerulescens",195,161,2
-"Callaeatidae",120,47,1
 "carunculatus",120,48,1
 "Callaeas",120,49,2
 "carunculatus",148,31,2
@@ -466,11 +452,9 @@ name,fileindex,index,whichChild
 "Campbell's Fairywren",120,105,2
 "campbelli",120,105,2
 "Carpentarian Grasswren",120,133,2
-"Catbirds",120,157,2
 "White-eared Catbird",120,159,1
 "Spotted Catbird",120,160,2
 "Green Catbird",120,161,2
-"Canasteros, Spinetails and more",233,1,1
 "Cabanis's Spinetail",233,29,1
 "cabanisi",233,29,1
 "castanea",233,56,1
@@ -478,7 +462,6 @@ name,fileindex,index,whichChild
 "Steinbach's Canastero",233,80,1
 "Patagonian Canastero",233,81,2
 "Cipo Canastero",233,83,2
-"Cacholotes",233,107,1
 "White-throated Cacholote",233,110,1
 "Brown Cacholote",233,111,2
 "Caatinga Cacholote",233,112,2
@@ -617,9 +600,7 @@ name,fileindex,index,whichChild
 "Calyptorhynchus",215,165,1
 "Calyptorhynchus",215,166,2
 "Callocephalon",215,167,2
-"Falcons and caracaras",114,11,2
 "caerulescens",222,82,2
-"Caracaras",222,91,1
 "White-throated Caracara",222,96,1
 "Carunculated Caracara",222,97,2
 "Carunculated Caracara",222,97,2
@@ -635,7 +616,6 @@ name,fileindex,index,whichChild
 "Southern Caracara",222,109,2
 "Caracara",222,109,2
 "cachinnans",114,26,2
-"CARIAMIFORMES",114,27,2
 "Cariama",114,29,2
 "castanotus",114,36,2
 "callonotus",206,15,1
@@ -724,7 +704,6 @@ name,fileindex,index,whichChild
 "calvus",115,114,2
 "cayanensis",115,149,1
 "caeruleus",115,167,2
-"Cathartidae",115,173,2
 "Cathartes",115,177,1
 "Cathartes",115,178,2
 "Cathartes",115,179,2
@@ -883,8 +862,6 @@ name,fileindex,index,whichChild
 "calolaemus",326,160,2
 "caroli",332,49,2
 "castelnaudii",332,213,1
-"Mangoes and Caribs",330,5,1
-"Caribs",330,17,1
 "Green-throated Carib",330,18,1
 "Purple-throated Carib",330,19,2
 "Calothorax",330,37,1
@@ -896,8 +873,6 @@ name,fileindex,index,whichChild
 "Cassin's Spinetail",329,170,1
 "cassini",329,170,1
 "New Caledonian Owlet-nightjar",324,68,2
-"CAPRIMULGIFORMES",324,69,2
-"CAPRIMULGIFORMES",324,98,2
 "carolinensis",324,111,1
 "Caprimulgus",324,111,1
 "Caprimulgus",324,112,2
@@ -960,10 +935,8 @@ name,fileindex,index,whichChild
 "Caprimulgus",324,203,2
 "Caprimulgus",324,208,2
 "Caprimulgus",324,209,2
-"CAPRIMULGIFORMES",324,210,2
 "caripensis",324,223,2
 "Catreus",312,32,2
-"Capercaillies",312,83,1
 "Black-billed Capercaillie",312,84,1
 "Western Capercaillie",312,85,2
 "Caucasian Grouse",312,87,1
@@ -1008,9 +981,6 @@ name,fileindex,index,whichChild
 "canadensis",316,31,2
 "Cape Barren Goose",316,46,1
 "casiquiare",253,11,1
-"CASUARIIFORMES",0,13,1
-"Cassowaries",0,14,1
-"Casuariidae",0,14,1
 "Southern Cassowary",0,16,1
 "casuarius",0,16,1
 "Casuarius",0,16,1
@@ -1020,7 +990,6 @@ name,fileindex,index,whichChild
 "Casuarius",0,18,2
 "camelus",0,30,2
 "cataphractus",0,56,1
-"Caimans",0,62,1
 "Common Caiman",0,66,1
 "Caiman",0,66,1
 "Yacare Caiman",0,67,2
@@ -1085,7 +1054,6 @@ name,fileindex,index,whichChild
 "calcarata",309,82,2
 "Callopistes",309,83,2
 "carinatus",405,66,2
-"Casquehead Iguanas",415,9,2
 "Cayman Islands Ground Iguana",415,40,1
 "capito",409,33,2
 "carolinensis",409,73,1
@@ -1093,7 +1061,6 @@ name,fileindex,index,whichChild
 "Canyon Lizard",408,81,2
 "Baja California Brush Lizard",408,87,2
 "Callisaurus",414,34,2
-"California Rock Lizard",414,42,2
 "Calotes",406,37,1
 "Calotes",406,38,2
 "Calotes",406,39,2
@@ -1154,7 +1121,6 @@ name,fileindex,index,whichChild
 "caeca",334,169,1
 "canaliculatus",334,174,1
 "capensis",319,31,2
-"Calling Geckos",318,65,2
 "caudicinctus",318,117,2
 "castelnaui",320,48,1
 "caudiannulatus",318,126,1
@@ -1183,7 +1149,6 @@ name,fileindex,index,whichChild
 "Cameroon Highland Hybomys",271,11,2
 "caniceps",263,50,1
 "canus",263,93,2
-"Carpomys",263,104,2
 "Large Luzon Carpomys",263,105,1
 "Carpomys",263,105,1
 "Small Luzon Carpomys",263,106,2
@@ -1196,7 +1161,6 @@ name,fileindex,index,whichChild
 "calurus",265,42,2
 "Cape Gerbil",265,69,2
 "campestris",263,146,2
-"Calomyscidae",263,177,2
 "Calomyscus",263,181,1
 "Calomyscus",263,182,2
 "Calomyscus",263,183,2
@@ -1209,7 +1173,6 @@ name,fileindex,index,whichChild
 "Urar Calomyscus",263,191,2
 "Calomyscus",263,191,2
 "caudivarius",290,8,2
-"Calomys",289,125,1
 "Calomys",289,130,1
 "Calomys",289,131,2
 "Calomys",289,132,2
@@ -1226,7 +1189,6 @@ name,fileindex,index,whichChild
 "caliginosus",289,189,2
 "caracolus",293,45,2
 "catherinae",293,100,2
-"Cane Mice",293,112,1
 "Short-tailed Cane Mouse",293,113,1
 "Brown Cane Mouse",293,114,2
 "Candango Mouse",287,43,2
@@ -1267,7 +1229,6 @@ name,fileindex,index,whichChild
 "Cardiocranius",280,54,2
 "Cameroon Scaly-tail",254,22,2
 "capensis",254,25,2
-"CASTORIMORPHA",254,26,2
 "Caribbean Spiny Pocket Mouse",255,22,2
 "castanops",255,34,1
 "cavator",255,63,2
@@ -1276,7 +1237,6 @@ name,fileindex,index,whichChild
 "californicus",255,123,2
 "California Kangaroo Rat",255,170,1
 "californicus",255,170,1
-"Castoridae",254,27,2
 "canadensis",254,28,1
 "Castor",254,28,1
 "Castor",254,29,2
@@ -1285,15 +1245,12 @@ name,fileindex,index,whichChild
 "canicollis",258,96,2
 "Carterodon",258,101,2
 "Cayenne Spiny Rat",258,135,2
-"Capromyidae",256,9,2
-"Capromys",256,24,2
 "Capromys",256,25,1
 "Capromys",256,26,2
 "Cabrera's Hutia",256,30,1
 "Cape Dune Mole Rat",259,24,2
 "Cape Mole Rat",259,25,2
 "capensis",259,25,2
-"Guinea Pigs and Cavys",259,28,2
 "Shipton's Mountain Cavy",259,34,1
 "Andean Mountain Cavy",259,35,2
 "Southern Mountain Cavy",259,36,2
@@ -1307,7 +1264,6 @@ name,fileindex,index,whichChild
 "Cavia",259,49,2
 "Rock Cavy",259,50,2
 "Cape Porcupine",256,51,1
-"Capybaras",256,84,2
 "Lesser Capybara",256,85,1
 "Capybara",256,86,2
 "Greater Cane Rat",256,118,1
@@ -1355,7 +1311,6 @@ name,fileindex,index,whichChild
 "Campbell's Monkey",275,109,1
 "campbelli",275,109,1
 "Capped Langur",276,18,2
-"Callithrix",285,7,1
 "Callithrix",285,11,1
 "Callithrix",285,12,2
 "Callithrix",285,14,1
@@ -1376,7 +1331,6 @@ name,fileindex,index,whichChild
 "Callicebus",285,81,2
 "Callicebus",285,82,2
 "Callicebus",285,83,2
-"Capuchins",285,88,1
 "Buff-headed Capuchin",285,92,1
 "Black-horned Capuchin",285,93,2
 "Guianan/margarita Island Brown Capuchin",285,94,2
@@ -1407,7 +1361,6 @@ name,fileindex,index,whichChild
 "Callicebus",285,159,2
 "Callicebus",285,161,1
 "Callicebus",285,162,2
-"Cacajao",285,174,2
 "Cacajao",285,175,1
 "calvus",285,176,2
 "Cacajao",285,176,2
@@ -1418,7 +1371,6 @@ name,fileindex,index,whichChild
 "Calabar Angwantibo",260,154,1
 "calabarensis",260,154,1
 "Calamian Treeshrew",254,162,1
-"Carnivorans, Bats, Hedgehogs and more",365,0,2
 "Finlayson's Cave Bat",391,38,1
 "Eastern Cave Bat",391,39,2
 "Northern Cave Bat",391,42,2
@@ -1436,7 +1388,6 @@ name,fileindex,index,whichChild
 "capaccinii",403,22,2
 "Cape Hairy Bat",403,72,2
 "caraccioli",394,22,2
-"Carollia",393,86,1
 "Carollia",393,88,1
 "Carollia",393,89,2
 "castanea",393,91,1
@@ -1490,7 +1441,6 @@ name,fileindex,index,whichChild
 "caffer",371,81,2
 "Calamanian Deer",374,25,1
 "calamianensis",374,25,1
-"Capreolus",375,36,1
 "capreolus",375,37,1
 "Capreolus",375,37,1
 "Capreolus",375,38,2
@@ -1501,16 +1451,10 @@ name,fileindex,index,whichChild
 "catodon",371,168,2
 "Caperea",371,193,2
 "Catagonus",401,39,2
-"Camelidae",365,110,2
-"Camels",365,111,1
-"Camelus",365,111,1
 "Bactrian Camel",365,112,1
 "Camelus",365,112,1
 "Camelus",365,113,2
 "caballus",365,147,2
-"Carnivorans",381,0,1
-"CARNIVORA",381,0,1
-"CANIFORMIA",381,1,1
 "capensis",383,73,2
 "canadensis",386,11,2
 "capensis",386,26,2
@@ -1522,8 +1466,6 @@ name,fileindex,index,whichChild
 "Caspian Seal",381,79,2
 "caspica",381,79,2
 "carcinophaga",381,93,1
-"Canidae",381,119,2
-"Canis",381,124,1
 "Canis",381,127,1
 "Canis",381,128,2
 "Canis",381,129,2
@@ -1533,11 +1475,9 @@ name,fileindex,index,whichChild
 "cana",381,175,1
 "Cape Fox",381,180,2
 "Cameroon Cusimanse",384,11,1
-"Big cats",382,9,1
 "Marbled Cat",382,20,2
 "Canada Lynx",382,24,1
 "canadensis",382,24,1
-"Catopuma",382,29,1
 "Asiatic golden cat",382,30,1
 "Catopuma",382,30,1
 "Bornean cat",382,31,2
@@ -1576,7 +1516,6 @@ name,fileindex,index,whichChild
 "caeca",380,37,2
 "Caucasian Mole",380,40,1
 "caucasica",380,40,1
-"Cabassous",333,6,1
 "Cabassous",333,8,1
 "Cabassous",333,9,2
 "Cabassous",333,11,1
@@ -1598,14 +1537,12 @@ name,fileindex,index,whichChild
 "Carpentarian Pseudantechinus",111,33,2
 "calura",111,71,2
 "caurinus",109,21,1
-"Caenolestes",109,60,1
 "caniventer",109,62,1
 "Caenolestes",109,62,1
 "Caenolestes",109,63,2
 "Caenolestes",109,64,2
 "Chilean Caenolestid",109,65,2
 "canescens",109,223,2
-"Caluromys",109,227,1
 "Caluromys",109,229,1
 "Caluromys",109,230,2
 "Caluromys",109,231,2
@@ -1618,7 +1555,6 @@ name,fileindex,index,whichChild
 "Canadian Toad",61,14,2
 "canorus",61,37,2
 "camerunensis",57,47,2
-"Cape Toads",57,112,2
 "Capensibufo",57,113,1
 "Capensibufo",57,114,2
 "Caucasian Toad",56,46,1
@@ -1680,7 +1616,6 @@ name,fileindex,index,whichChild
 "caingua",47,15,2
 "callipleura",47,16,2
 "calcaratus",47,94,2
-"Canebrake Treefrogs",46,46,2
 "callipygius",46,65,1
 "cavicola",46,71,2
 "caramaschii",46,94,2
@@ -1727,7 +1662,6 @@ name,fileindex,index,whichChild
 "cavernicola",79,25,1
 "casparii",87,85,1
 "capitulata",23,20,1
-"CALYPTOCEPHALELLIDAE",1,21,2
 "caudiverbera",1,27,2
 "Caudiverbera",1,27,2
 "cardamonus",7,77,2
@@ -1829,7 +1763,6 @@ name,fileindex,index,whichChild
 "Cameroon Clawed Frog",322,36,1
 "Carvalho's Surinam Toad",322,47,2
 "carvalhoi",322,47,2
-"Caudata",0,148,2
 "carri",101,8,2
 "capitana",101,24,2
 "carablanca",106,29,1
@@ -1856,9 +1789,6 @@ name,fileindex,index,whichChild
 "California Tiger Salamander",99,51,1
 "californiense",99,51,1
 "California Giant Salamander",98,184,1
-"Caecilians",0,149,2
-"Common Caecilians",113,0,1
-"CAECILIIDAE",113,0,1
 "Caecilia",113,12,1
 "Caecilia",113,13,2
 "Caecilia",113,14,2
@@ -1894,7 +1824,6 @@ name,fileindex,index,whichChild
 "Caecilia",113,66,1
 "Caecilia",113,67,2
 "carnosus",113,134,2
-"Asiatic Tailed Caecilians",345,0,2
 "Koa Tao Island Caecilian",345,10,1
 "Javan Caecilian",345,66,1
 "Caudacaecilia",345,72,1
@@ -1902,5 +1831,3 @@ name,fileindex,index,whichChild
 "Caudacaecilia",345,74,2
 "Caudacaecilia",345,76,1
 "Caudacaecilia",345,77,2
-"Indian Caecilians",345,78,2
-"Neotropical Tailed Caecilians",0,151,2

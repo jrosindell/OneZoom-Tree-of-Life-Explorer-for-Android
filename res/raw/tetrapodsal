@@ -118,7 +118,6 @@ name,fileindex,index,whichChild
 "Alopochelidon",178,125,2
 "albiventer",178,139,1
 "albilinea",178,140,2
-"Alaudidae",161,56,1
 "Alauda",173,22,1
 "Alauda",173,23,2
 "Alauda",173,24,2
@@ -232,7 +231,6 @@ name,fileindex,index,whichChild
 "albosquamatus",211,17,1
 "albirostris",201,79,1
 "albogularis",201,99,1
-"Alcedinidae",202,2,1
 "albonotatus",202,51,2
 "albiventris",202,102,1
 "alcyon",202,138,2
@@ -279,7 +277,6 @@ name,fileindex,index,whichChild
 "aleutica",212,91,2
 "alba",212,97,2
 "albivitta",212,99,1
-"Alcidae",212,107,1
 "Alca",212,128,1
 "alle",212,129,2
 "Alle",212,129,2
@@ -294,13 +291,10 @@ name,fileindex,index,whichChild
 "albus",354,58,2
 "alba",354,147,2
 "albus",354,183,2
-"Albatrosses, Shearwaters and Petrels",357,1,1
 "alba",358,16,2
-"Albatrosses",357,67,2
 "Black-browed Albatross",357,73,1
 "Campbell Albatross",357,74,2
 "Grey-headed Albatross",357,75,2
-"Yellow-nosed Albatrosses",357,76,2
 "Atlantic Yellow-nosed Albatross",357,77,1
 "Indian Yellow-nosed Albatross",357,78,2
 "White-capped Albatross",357,83,1
@@ -367,7 +361,6 @@ name,fileindex,index,whichChild
 "albeola",313,25,2
 "Alopochen",313,55,2
 "albifrons",316,16,1
-"Alligators",0,73,2
 "American Alligator",0,74,1
 "Alligator",0,74,1
 "China Alligator",0,75,2
@@ -397,7 +390,6 @@ name,fileindex,index,whichChild
 "allisoni",409,77,2
 "aliniger",409,87,2
 "albilabris",413,37,2
-"Alligator Lizards and more",405,198,2
 "Southern Alligator Lizard",405,201,1
 "Madrean Alligator Lizard",405,203,2
 "Northern Alligator Lizard",405,204,2
@@ -449,7 +441,6 @@ name,fileindex,index,whichChild
 "Alai Mole Vole",283,13,2
 "alaicus",283,13,2
 "albipes",283,19,2
-"Alticola",284,46,2
 "Alticola",284,54,1
 "albicaudus",284,55,2
 "Alticola",284,55,2
@@ -466,12 +457,10 @@ name,fileindex,index,whichChild
 "Alticola",284,68,2
 "albicauda",281,83,1
 "alticola",281,114,2
-"Allocricetulus",281,116,1
 "Allocricetulus",281,117,1
 "Allocricetulus",281,118,2
 "Altai Birch Mouse",280,17,2
 "Allactodipus",280,77,2
-"Allactaga",280,78,2
 "Allactaga",280,84,1
 "Allactaga",280,85,2
 "Allactaga",280,86,2
@@ -517,7 +506,6 @@ name,fileindex,index,whichChild
 "albifrons",285,99,2
 "albinasus",285,173,2
 "albicans",285,182,2
-"Alouatta",286,28,2
 "Alouatta",286,33,1
 "Alouatta",286,34,2
 "Alouatta",286,35,2
@@ -562,13 +550,11 @@ name,fileindex,index,whichChild
 "Salim Ali's Fruit Bat",387,50,2
 "albiventer",387,68,2
 "Alpine Ibex",372,16,2
-"Alcelaphus",372,87,2
 "Alcelaphus",372,89,1
 "Alcelaphus",372,90,2
 "Alcelaphus",372,91,2
 "alfredi",374,9,1
 "albirostris",374,19,1
-"Alces",375,40,2
 "alces",375,41,1
 "Alces",375,41,1
 "Alces",375,42,2
@@ -756,7 +742,6 @@ name,fileindex,index,whichChild
 "alsco",26,87,2
 "albiventris",26,116,1
 "alpinus",37,13,2
-"ALYTIDAE",342,1,1
 "Alytes",342,17,1
 "Alytes",342,18,2
 "Alytes",342,19,2

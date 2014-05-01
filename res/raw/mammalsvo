@@ -1,9 +1,6 @@
 name,fileindex,index,whichChild
 "Mexican Volcano Mouse",25,123,2
 "Volcano Harvest Mouse",21,196,1
-"Voles, Lemmings and Muskrats",4,3,1
-"Voles",5,1,1
-"Pine Voles",5,5,1
 "Mediterranean Pine Vole",5,12,1
 "Lusitanian Pine Vole",5,13,2
 "Thomas's Pine Vole",5,14,2
@@ -65,7 +62,6 @@ name,fileindex,index,whichChild
 "Mexican Vole",5,121,2
 "Tarabundi Vole",5,122,2
 "Prairie Vole",5,123,2
-"Snow Voles",4,24,2
 "Robert's Snow Vole",4,26,1
 "European Snow Vole",4,27,2
 "Caucasian Snow Vole",4,28,2
@@ -75,8 +71,6 @@ name,fileindex,index,whichChild
 "Volemys",4,34,2
 "Marie's Vole",4,35,2
 "Volemys",4,35,2
-"Muskrat and Voles",6,1,1
-"Mole Voles",6,4,1
 "Northern Mole Vole",6,9,1
 "Zaisan Mole Vole",6,10,2
 "Mountain Mole Vole",6,12,2
@@ -91,7 +85,6 @@ name,fileindex,index,whichChild
 "Brandt's Vole",6,28,2
 "Bucharian Vole",6,31,1
 "Afghan Vole",6,32,2
-"Voles",4,36,2
 "Kachin Red-backed Vole",7,12,1
 "Pere David's Vole",7,13,2
 "Yunnan Red-backed Vole",7,14,2
@@ -129,7 +122,6 @@ name,fileindex,index,whichChild
 "Murree Vole",7,71,2
 "Balkan Snow Vole",7,72,2
 "Duke Of Bedford's Vole",4,37,2
-"Water Voles",4,45,2
 "Eurasian Water Vole",4,47,1
 "Southern Water Vole",4,49,2
 "Sagebrush Vole",4,50,2
@@ -154,6 +146,4 @@ name,fileindex,index,whichChild
 "volnuchini",86,47,1
 "Vogelkop Tree Kangaroo",43,101,2
 "volans",43,164,2
-"VOMBATIFORMES",43,202,2
-"Vombatidae",43,203,1
 "Vombatus",43,207,2

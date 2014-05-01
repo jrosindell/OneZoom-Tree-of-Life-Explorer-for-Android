@@ -1,7 +1,4 @@
 name,fileindex,index,whichChild
-"Passerine birds",29,2,1
-"PASSERIFORMES",29,2,1
-"Passeri",29,4,1
 "parina",50,54,2
 "Paramo Seedeater",50,67,2
 "Patagonian Yellow-finch",50,91,1
@@ -56,7 +53,6 @@ name,fileindex,index,whichChild
 "Pale-eyed Blackbird",60,25,1
 "parisorum",60,185,2
 "Pampas Meadowlark",60,192,2
-"Parulidae",57,1,1
 "Paria Redstart",57,21,2
 "pariae",57,21,2
 "Painted Redstart",57,32,2
@@ -69,7 +65,6 @@ name,fileindex,index,whichChild
 "Parula",58,54,2
 "Parula",57,151,1
 "Parula",57,152,2
-"Parulidae",57,175,2
 "palustris",57,176,1
 "Papyrus Canary",53,16,2
 "Parrot Crossbill",53,147,1
@@ -86,7 +81,6 @@ name,fileindex,index,whichChild
 "pallidiventris",44,125,1
 "Paramo Pipit",44,127,2
 "Pangani Longclaw",44,139,2
-"Passeridae",108,0,2
 "Passer",108,10,1
 "Passer",108,11,2
 "Passer",108,12,2
@@ -148,9 +142,6 @@ name,fileindex,index,whichChild
 "Togo Paradise-whydah",101,123,2
 "Pale-winged Indigobird",101,127,2
 "Golden Palm Weaver",102,74,2
-"Passeridae",105,47,2
-"Passeridae",101,142,1
-"Passeridae",101,152,1
 "Palestine Sunbird",64,16,2
 "pallidigaster",62,105,1
 "Pale-billed Flowerpecker",63,40,1
@@ -185,33 +176,20 @@ name,fileindex,index,whichChild
 "patagonicus",96,28,1
 "palustris",95,91,2
 "Palmchat",43,37,2
-"Whiteyes, Babblers, Parrotbills and more",65,4,1
-"Whiteyes, Babblers and Parrotbills",65,5,1
-"Babblers and parrotbills",72,2,1
 "palliatus",74,79,2
-"Babblers and parrotbills",72,58,1
 "pasquieri",75,9,2
 "Pale-breasted Illadopsis",75,39,1
 "palustre",75,61,2
 "palawanense",72,65,1
-"Babblers and parrotbills",72,83,1
-"Babblers and parrotbills",72,88,2
 "Pale-throated Wren-babbler",72,139,2
 "Pale White-eye",85,68,2
 "pallidus",85,68,2
 "palpebrosus",85,83,1
 "palauensis",85,104,1
 "Pale-bellied White-eye",85,109,1
-"Babblers and parrotbills",85,133,2
-"Babblers and parrotbills",85,138,2
 "Palawan Striped-babbler",85,139,1
-"Babblers and parrotbills",85,141,2
 "Panay Striped-babbler",85,143,1
-"Babblers and parrotbills",85,157,2
-"Babblers and parrotbills",85,164,2
-"Babblers and parrotbills",65,21,2
 "Parophasma",65,27,2
-"Babblers and parrotbills",69,2,1
 "Short-tailed Parrotbill",69,9,1
 "Paradoxornis",69,9,1
 "Grey-hooded Parrotbill",69,10,2
@@ -252,10 +230,7 @@ name,fileindex,index,whichChild
 "Paradoxornis",69,37,2
 "Brown Parrotbill",69,39,1
 "Paradoxornis",69,39,1
-"Babblers and parrotbills",69,58,2
-"Babblers and parrotbills",69,111,1
 "Great Parrotbill",69,116,2
-"Babblers and parrotbills",65,29,2
 "Pallas's Grasshopper-warbler",68,43,2
 "palliseri",68,74,1
 "palustris",68,92,1
@@ -282,7 +257,6 @@ name,fileindex,index,whichChild
 "passerina",107,94,1
 "Bearded Parrotbill",107,183,2
 "Panurus",107,183,2
-"Paridae",100,2,1
 "Parus",100,14,1
 "Parus",100,15,2
 "Parus",100,17,1
@@ -335,11 +309,8 @@ name,fileindex,index,whichChild
 "Pachycephalopsis",43,115,2
 "papuana",43,129,2
 "Pale-yellow Robin",43,152,2
-"Shrikes, Birds Of Paradise and more",132,1,1
-"Shrikes, Monarchs, Birds of paradise and more",132,5,1
 "pachycephaloides",133,16,1
 "Cerulean Paradise-flycatcher",133,40,1
-"Paradise-Flycatchers",133,143,1
 "Blue Paradise-flycatcher",133,149,1
 "Annobon Paradise Flycatcher",133,150,2
 "Black-headed Paradise-flycatcher",133,151,2
@@ -354,8 +325,6 @@ name,fileindex,index,whichChild
 "Mascarene Paradise-flycatcher",133,165,1
 "Bedford's Paradise-flycatcher",133,166,2
 "Japanese Paradise-flycatcher",133,167,2
-"Birds of paradise",144,0,2
-"Paradisaeidae",144,0,2
 "Paradisaea",144,12,1
 "Paradisaea",144,13,2
 "Paradisaea",144,14,2
@@ -390,44 +359,36 @@ name,fileindex,index,whichChild
 "paradiseus",136,40,1
 "Paramythia",132,23,1
 "pallens",139,46,2
-"Pachycephalidae",134,9,1
 "Pachycephala",134,13,1
 "Pachycephala",134,14,2
 "Pachycephala",134,15,2
 "Pachycephala",134,16,2
 "Pachycephala",134,17,2
-"Pachycephalidae",134,19,1
 "Pachycephala",134,21,1
 "Pachycephala",134,22,2
 "Pachycephala",134,23,2
-"Pachycephalidae",134,29,1
 "Pachycephala",134,30,1
 "Pachycephala",134,31,2
 "Pachycephala",134,33,1
 "Pachycephala",134,35,2
 "Pachycephala",134,36,2
-"Pachycephalidae",134,37,2
 "Pachycephala",134,39,1
 "Pachycephala",134,40,2
 "Pachycephala",134,41,2
-"Pachycephalidae",134,42,2
 "Pachycephala",134,44,1
 "Pachycephala",134,45,2
 "Pachycephala",134,46,2
-"Pachycephalidae",134,47,2
 "Pachycephala",134,49,1
 "Pachycephala",134,50,2
 "Pachycephala",134,52,1
 "Pachycephala",134,53,2
 "Pachycephala",134,54,2
 "Pachycephala",134,55,2
-"Pachycephalidae",134,56,2
 "Pachycephala",134,59,1
 "Pachycephala",134,60,2
 "Pachycephala",134,62,1
 "Pachycephala",134,63,2
 "Pachycephala",134,64,2
-"Pachycephalidae",134,65,2
 "Pachycephala",134,66,1
 "Pachycephala",134,67,2
 "Pachycare",132,65,2
@@ -442,8 +403,6 @@ name,fileindex,index,whichChild
 "Painted Honeyeater",116,45,2
 "pammelaena",115,23,2
 "paradoxa",113,57,2
-"Pardalotes",112,70,2
-"Pardalotidae",112,70,2
 "Forty-spotted Pardalote",112,73,1
 "Pardalotus",112,73,1
 "Spotted Pardalote",112,74,2
@@ -539,7 +498,6 @@ name,fileindex,index,whichChild
 "pareola",122,61,2
 "Pale-bellied Tyrant-manakin",121,187,2
 "pallescens",121,187,2
-"Parrots",29,87,2
 "Palm Lorikeet",109,22,2
 "palmarum",109,22,2
 "Papuan Lorikeet",109,35,2
@@ -602,10 +560,6 @@ name,fileindex,index,whichChild
 "Black Parrot",29,94,1
 "Vasa Parrot",29,95,2
 "Pesquet's Parrot",29,96,2
-"Parrotlets, Parakeets, Macaws and more",117,0,2
-"Parrotlets, Parakeets, Macaws and more",117,0,2
-"Macaws and other Parakeets",117,6,1
-"Other Parakeets",117,8,1
 "Orange-fronted Parakeet",117,14,1
 "Dusky-headed Parakeet",117,15,2
 "Red-throated Parakeet",117,16,2
@@ -629,7 +583,6 @@ name,fileindex,index,whichChild
 "White-eyed Parakeet",117,48,2
 "Golden Parakeet",117,78,2
 "Golden-plumed Parakeet",117,79,2
-"Parakeets",119,0,2
 "White-necked Parakeet",119,9,1
 "Maroon-tailed Parakeet",119,10,2
 "Black-capped Parakeet",119,11,2
@@ -661,7 +614,6 @@ name,fileindex,index,whichChild
 "Black-headed Parrot",117,85,1
 "White-bellied Parrot",117,86,2
 "Red-fan Parrot",117,87,2
-"Parrotlets",117,88,2
 "Green-rumped Parrotlet",117,91,1
 "passerinus",117,91,1
 "Dusky-billed Parrotlet",117,92,2
@@ -704,7 +656,6 @@ name,fileindex,index,whichChild
 "Tui Parakeet",117,148,2
 "Plain Parakeet",117,149,2
 "Monk Parakeet",117,150,2
-"Parrotlets",117,151,2
 "Red-fronted Parrotlet",117,157,1
 "Spot-winged Parrotlet",117,158,2
 "Scarlet-shouldered Parrotlet",117,159,2
@@ -731,7 +682,6 @@ name,fileindex,index,whichChild
 "Grey Parrot",117,194,2
 "pastinator",42,24,2
 "Palm Cockatoo",42,28,2
-"New Zealand Parrots",29,97,2
 "passerinus",173,14,2
 "Pale-crested Woodpecker",171,11,1
 "Pale-headed Woodpecker",171,90,1
@@ -741,7 +691,6 @@ name,fileindex,index,whichChild
 "pastazae",176,80,2
 "Paradise Jacamar",176,90,2
 "Pale-headed Jacamar",176,103,2
-"Paradise-Kingfishers",174,10,1
 "Little Paradise-kingfisher",174,15,1
 "Biak Paradise-kingfisher",174,16,2
 "Brown-headed Paradise-kingfisher",174,17,2
@@ -784,7 +733,6 @@ name,fileindex,index,whichChild
 "parasiticus",23,60,2
 "Painted Buttonquail",20,61,2
 "paraguaiae",21,30,2
-"Painted-snipes",20,124,2
 "Australian Painted Snipe",20,126,1
 "Greater Painted-snipe",20,127,2
 "South American Painted-snipe",20,128,2
@@ -878,21 +826,17 @@ name,fileindex,index,whichChild
 "Pallid Swift",153,81,1
 "pallidus",153,81,1
 "pacificus",153,100,1
-"PANYPTILA",153,113,1
 "Panyptila",153,114,1
 "Panyptila",153,115,2
-"Palm-swifts",153,116,2
 "Asian Palm-swift",153,117,1
 "African Palm-swift",153,118,2
 "parvus",153,118,2
-"Palm-swifts",153,120,1
 "Antillean Palm-swift",153,122,1
 "Fork-tailed Palm-swift",153,124,2
 "Pale-rumped Swift",153,152,1
 "Papuan Needletail",153,162,1
 "Papuan Frogmouth",152,66,2
 "papuensis",152,66,2
-"Nighthawks, Pauraques and more",152,73,1
 "Least Pauraque",152,112,2
 "parvulus",152,132,2
 "Common Pauraque",152,140,1
@@ -913,7 +857,6 @@ name,fileindex,index,whichChild
 "Crimson-headed Partridge",150,68,2
 "Pavo",147,32,1
 "Pavo",147,33,2
-"Partridges",148,48,1
 "Rusty-necklaced Partridge",148,53,1
 "Rock Partridge",148,54,2
 "Philby's Partridge",148,55,2
@@ -924,7 +867,6 @@ name,fileindex,index,whichChild
 "See-see Partridge",148,70,1
 "Sand Partridge",148,71,2
 "Madagascar Partridge",147,46,1
-"Partridges",147,56,2
 "Chestnut-headed Partridge",147,67,1
 "Red-billed Partridge",147,68,2
 "Sichuan Partridge",147,69,2
@@ -955,7 +897,6 @@ name,fileindex,index,whichChild
 "Paradise Shelduck",27,58,2
 "Pacific Black Duck",28,48,2
 "patachonicus",28,90,2
-"Palaeognathae",0,63,2
 "parvirostris",0,79,1
 "Pale-browed Tinamou",0,88,1
 "Patagonian Tinamou",0,155,1

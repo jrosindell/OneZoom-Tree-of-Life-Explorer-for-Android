@@ -47,7 +47,6 @@ name,fileindex,index,whichChild
 "Pinicola",59,122,1
 "Pine Grosbeak",59,123,2
 "Pinicola",59,123,2
-"Wagtails and pipits",44,102,2
 "Water Pipit",45,9,1
 "Rock Pipit",45,10,2
 "Meadow Pipit",45,11,2
@@ -128,7 +127,6 @@ name,fileindex,index,whichChild
 "Pinarocorys",107,151,1
 "Pinarocorys",107,152,2
 "Pink Robin",43,102,1
-"Picathartidae",43,180,2
 "White-necked Picathartes",43,181,1
 "Picathartes",43,181,1
 "Grey-necked Picathartes",43,182,2
@@ -159,7 +157,6 @@ name,fileindex,index,whichChild
 "Pityriasis",145,92,2
 "Pied Butcherbird",143,35,2
 "Pied Currawong",143,45,2
-"Pitohui and more",132,74,2
 "Crested Pitohui",132,77,2
 "Pitohui",132,77,2
 "Pied Triller",141,61,2
@@ -193,8 +190,6 @@ name,fileindex,index,whichChild
 "pileatus",130,19,1
 "pilaris",130,25,2
 "pictum",130,100,2
-"Piprites",121,38,2
-"Pipridae",121,38,2
 "Grey-headed Piprites",121,40,1
 "Piprites",121,40,1
 "Black-capped Piprites",121,41,2
@@ -204,7 +199,6 @@ name,fileindex,index,whichChild
 "Piprites",121,42,2
 "Pink-throated Becard",121,66,2
 "pipra",121,91,2
-"Pihas",131,30,1
 "Scimitar-winged Piha",131,35,1
 "Dusky Piha",131,36,2
 "Rose-collared Piha",131,37,2
@@ -225,7 +219,6 @@ name,fileindex,index,whichChild
 "Pipreola",121,175,2
 "Pipreola",121,176,2
 "Pipreola",121,177,2
-"Pipridae",121,179,2
 "Pipra",122,9,1
 "Pipra",122,10,2
 "Pipra",122,11,2
@@ -237,9 +230,6 @@ name,fileindex,index,whichChild
 "Pipra",122,24,2
 "Pipra",122,25,2
 "Pin-tailed Manakin",122,77,2
-"Broadbills, Pittas, Asities and more",120,0,2
-"Pittas",120,3,1
-"Pittidae",120,3,1
 "Black-faced Pitta",120,13,1
 "Pitta",120,13,1
 "Elegant Pitta",120,14,2
@@ -319,8 +309,6 @@ name,fileindex,index,whichChild
 "pileata",117,132,2
 "Pionopsitta",117,132,2
 "Pied Falconet",29,137,2
-"PICIFORMES",161,6,1
-"Picidae",170,0,1
 "Picoides",173,34,1
 "Picoides",173,35,2
 "Picoides",173,36,2
@@ -359,7 +347,6 @@ name,fileindex,index,whichChild
 "Picus",171,153,1
 "Picus",171,154,2
 "Antillean Piculet",170,122,2
-"Piculets",170,124,2
 "White-bellied Piculet",170,133,1
 "Picumnus",170,133,1
 "Ochre-collared Piculet",170,134,2
@@ -429,7 +416,6 @@ name,fileindex,index,whichChild
 "Malabar Pied Hornbill",168,45,1
 "Piping Hornbill",168,60,2
 "African Pied Hornbill",168,106,1
-"Owlets and Pigmy owls",177,4,1
 "Pied Harrier",165,31,2
 "Pied Goshawk",165,40,2
 "Pithecophaga",162,150,2
@@ -457,13 +443,9 @@ name,fileindex,index,whichChild
 "Piaya",11,30,2
 "Pied Cuckoo",11,62,2
 "Pied Coucal",10,163,2
-"Doves and pigeons",1,133,1
-"Fruit doves, Blue pigeons and more",4,6,1
-"Blue pigeons",6,41,1
 "Pink-spotted Fruit-dove",6,70,2
 "Pink-headed Fruit-dove",6,77,2
 "Sombre Pigeon",6,96,2
-"Imperial Pigeons",9,1,1
 "Pied Imperial-pigeon",9,12,2
 "Pinon Imperial-pigeon",9,16,2
 "pinon",9,16,2
@@ -473,7 +455,6 @@ name,fileindex,index,whichChild
 "pickeringii",9,54,1
 "Topknot Pigeon",9,81,2
 "New Zealand Pigeon",9,82,2
-"Green pigeons",8,0,2
 "Pin-tailed Green-pigeon",8,15,2
 "Pink-necked Green-pigeon",8,21,1
 "Tooth-billed Pigeon",4,38,1
@@ -482,11 +463,8 @@ name,fileindex,index,whichChild
 "Spinifex Pigeon",4,60,1
 "Squatter Pigeon",4,61,2
 "Partridge Pigeon",4,62,2
-"Rock pigeons",4,70,2
 "Crested Pigeon",4,73,2
 "Wonga Pigeon",4,74,2
-"Wood pigeons, Laurel pigeons and more",7,0,1
-"Wood pigeons, Laurel pigeons and more",7,0,1
 "Hill Pigeon",7,10,1
 "Rock Pigeon",7,11,2
 "Pale-backed Pigeon",7,12,2
@@ -534,7 +512,6 @@ name,fileindex,index,whichChild
 "picui",1,152,2
 "Pin-tailed Sandgrouse",1,180,2
 "Pied-billed Grebe",2,37,2
-"Piedtails",160,82,2
 "Ecuadorian Piedtail",160,83,1
 "Peruvian Piedtail",160,84,2
 "Pink-throated Brilliant",160,137,2
@@ -544,8 +521,6 @@ name,fileindex,index,whichChild
 "pintadeanus",150,37,2
 "pictus",147,160,2
 "pileata",184,70,2
-"Piping-Guans",184,86,1
-"PIPILE",184,86,1
 "Blue-throated Piping-guan",184,89,1
 "Pipile",184,89,1
 "Trinidad Piping-guan",184,90,2

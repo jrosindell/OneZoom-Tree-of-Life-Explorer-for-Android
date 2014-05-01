@@ -1,6 +1,4 @@
 name,fileindex,index,whichChild
-"Birds",0,5,1
-"Passerine birds",114,6,1
 "Bicoloured Conebill",125,120,2
 "bicolor",125,120,2
 "bicolor",129,39,2
@@ -54,11 +52,8 @@ name,fileindex,index,whichChild
 "bicolor",169,50,2
 "bivittata",151,20,2
 "bimaculata",151,51,1
-"Shrikes, Birds Of Paradise and more",120,19,1
-"Shrikes, Monarchs, Birds of paradise and more",152,3,1
 "Biak Monarch",159,40,2
 "Biak Flycatcher",159,129,2
-"Birds of paradise",160,0,2
 "Raggiana Bird-of-paradise",160,12,1
 "Greater Bird-of-paradise",160,13,2
 "Lesser Bird-of-paradise",160,14,2
@@ -78,7 +73,6 @@ name,fileindex,index,whichChild
 "bicolor",198,27,2
 "Bismarck Woodswallow",199,10,1
 "bicolor",200,27,2
-"Satin birds",120,41,1
 "Yellow-breasted Bird-of-paradise",120,43,1
 "Loria's Bird-of-paradise",120,44,2
 "Crested Bird-of-paradise",120,45,2
@@ -90,7 +84,6 @@ name,fileindex,index,whichChild
 "Biatas",247,82,2
 "Bicoloured Antvireo",246,110,2
 "biarmicus",222,18,2
-"Birds of Prey, Toucans and more",114,41,2
 "bitorquatus",204,57,2
 "bidentatus",205,9,2
 "bilineatus",205,53,2
@@ -107,7 +100,6 @@ name,fileindex,index,whichChild
 "bitorquatus",114,84,2
 "bicinctus",119,75,2
 "bistriatus",114,162,1
-"Bitterns",354,91,1
 "Australasian Bittern",354,98,1
 "Great Bittern",354,99,2
 "American Bittern",354,101,1
@@ -193,20 +185,15 @@ name,fileindex,index,whichChild
 "Bolivian Big-eared Mouse",292,35,1
 "Painted Big-eared Mouse",292,36,2
 "Andean Big-eared Mouse",292,38,1
-"Bibimys",292,56,1
 "Bibimys",292,58,1
 "Bibimys",292,59,2
 "Bibimys",292,60,2
 "Big-eared Climbing Rat",287,146,2
 "Big Deer Mouse",291,41,2
 "Big-eared Woodrat",288,41,2
-"Big-footed Mice",281,85,2
 "Long-tailed Big-footed Mouse",281,86,1
 "Western Big-footed Mouse",281,87,2
 "Big-headed Mole Rat",281,147,2
-"Jerboas, Jumping Mice and Birch Mice",280,0,2
-"Jumping Mice and Birch Mice",280,6,1
-"Birch Mice",280,7,1
 "Northern Birch Mouse",280,12,1
 "Armenian Birch Mouse",280,13,2
 "Tien Shan Birch Mouse",280,14,2
@@ -262,7 +249,6 @@ name,fileindex,index,whichChild
 "Bini Free-tailed Bat",396,167,2
 "bilobatum",394,25,2
 "bidens",394,39,2
-"Big-eyed Bats",394,42,2
 "Guadeloupean Big-eyed Bat",394,45,1
 "Hairy Big-eyed Bat",394,46,2
 "Little Big-eyed Bat",394,48,1
@@ -271,10 +257,8 @@ name,fileindex,index,whichChild
 "bilabiatum",393,58,1
 "Bidentate Yellow-shouldered Bat",393,83,1
 "bidens",393,83,1
-"Big-eared Bats and more",393,130,1
 "bidens",393,161,2
 "Big-eared Wooly Bat",393,165,1
-"Big-eared Bats",393,169,1
 "Little Big-eared Bat",393,173,1
 "Common Big-eared Bat",393,174,2
 "Schmidts's Big-eared Bat",393,177,1
@@ -296,8 +280,6 @@ name,fileindex,index,whichChild
 "Biak Bare-backed Fruit Bat",366,168,2
 "bidens",399,41,2
 "Bighorn Sheep",372,40,2
-"Cows, Bison, Ox and more",371,37,2
-"Bison",371,63,1
 "European Bison",371,64,1
 "Bison",371,64,1
 "American Bison",371,65,2
@@ -309,7 +291,6 @@ name,fileindex,index,whichChild
 "Binturong",385,59,2
 "binturong",385,59,2
 "binotata",385,62,2
-"Big cats",382,9,1
 "bieti",382,63,2
 "Bicolored Shrew",368,54,1
 "Bicolored Musk Shrew",367,48,1
@@ -320,7 +301,6 @@ name,fileindex,index,whichChild
 "Biak Glider",112,40,2
 "biacensis",112,40,2
 "bilarni",111,26,2
-"Bandicoots and Bilbies",109,23,2
 "Bilby",109,57,2
 "bishopi",109,92,2
 "Big-eared Opossum",109,146,2

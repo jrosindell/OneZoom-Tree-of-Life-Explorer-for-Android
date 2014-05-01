@@ -18,7 +18,6 @@ name,fileindex,index,whichChild
 "cayana",50,143,2
 "caeruleus",50,153,2
 "carbo",50,191,2
-"Cardinalidae",44,19,1
 "callophrys",54,31,1
 "cabanisi",54,72,2
 "cayana",54,91,2
@@ -33,7 +32,6 @@ name,fileindex,index,whichChild
 "campestris",56,57,2
 "castaneoventris",55,9,1
 "Calochaetes",54,103,2
-"Cardinals",54,109,1
 "Yellow-billed Cardinal",54,113,1
 "capitata",54,113,1
 "Red-capped Cardinal",54,114,2
@@ -47,10 +45,6 @@ name,fileindex,index,whichChild
 "cassinii",54,186,2
 "callophrys",54,198,2
 "Catamblyrhynchus",44,49,2
-"Cardinals and more",44,50,2
-"Cardinalidae",46,6,1
-"Cardinalidae",46,18,2
-"Cardinalidae",46,23,2
 "canadensis",46,29,1
 "Caryothraustes",46,29,1
 "Caryothraustes",46,30,2
@@ -60,15 +54,10 @@ name,fileindex,index,whichChild
 "cardinalis",46,34,2
 "Cardinalis",46,34,2
 "Cardinalis",46,35,2
-"Cardinalidae",46,40,1
 "carmioli",46,42,2
-"Cardinalidae",46,46,2
-"Cardinalidae",61,4,1
 "Carrizal Seedeater",61,13,1
 "carrizalensis",61,13,1
 "caerulea",61,28,1
-"Cardinalidae",61,31,2
-"Cardinalidae",61,36,2
 "Canyon Towhee",48,36,2
 "California Towhee",48,38,1
 "Cabanis's Ground Sparrow",48,42,2
@@ -427,12 +416,10 @@ name,fileindex,index,whichChild
 "Calicalicus",135,23,1
 "Calicalicus",135,24,2
 "caniceps",135,56,1
-"Campephagidae",135,66,2
 "Cape Batis",135,94,2
 "capensis",135,94,2
 "castanea",135,131,2
 "cassicus",143,34,2
-"Campephagidae",132,79,2
 "New Caledonian Cuckooshrike",141,36,2
 "Campochaera",141,80,2
 "Campephaga",141,84,1
@@ -449,7 +436,6 @@ name,fileindex,index,whichChild
 "castanotum",132,116,2
 "castanonota",132,120,1
 "caerulescens",132,121,2
-"Callaeatidae",132,167,1
 "carunculatus",132,168,1
 "Callaeas",132,169,2
 "carunculatus",112,35,2
@@ -466,11 +452,9 @@ name,fileindex,index,whichChild
 "Campbell's Fairywren",112,179,2
 "campbelli",112,179,2
 "Carpentarian Grasswren",112,207,2
-"Catbirds",29,44,2
 "White-eared Catbird",29,46,1
 "Spotted Catbird",29,47,2
 "Green Catbird",29,48,2
-"Canasteros, Spinetails and more",35,7,1
 "Cabanis's Spinetail",37,27,1
 "cabanisi",37,27,1
 "castanea",37,54,1
@@ -478,7 +462,6 @@ name,fileindex,index,whichChild
 "Steinbach's Canastero",37,78,1
 "Patagonian Canastero",37,79,2
 "Cipo Canastero",37,81,2
-"Cacholotes",37,148,1
 "White-throated Cacholote",37,151,1
 "Brown Cacholote",37,152,2
 "Caatinga Cacholote",37,153,2
@@ -617,9 +600,7 @@ name,fileindex,index,whichChild
 "Calyptorhynchus",42,38,1
 "Calyptorhynchus",42,39,2
 "Callocephalon",42,40,2
-"Falcons and caracaras",29,102,2
 "caerulescens",29,136,2
-"Caracaras",29,145,1
 "White-throated Caracara",29,150,1
 "Carunculated Caracara",29,151,2
 "Carunculated Caracara",29,151,2
@@ -635,7 +616,6 @@ name,fileindex,index,whichChild
 "Southern Caracara",29,163,2
 "Caracara",29,163,2
 "cachinnans",29,179,2
-"CARIAMIFORMES",0,8,2
 "Cariama",0,10,2
 "castanotus",0,17,2
 "callonotus",173,7,1
@@ -724,7 +704,6 @@ name,fileindex,index,whichChild
 "calvus",162,175,2
 "cayanensis",181,34,1
 "caeruleus",161,149,2
-"Cathartidae",161,155,2
 "Cathartes",161,159,1
 "Cathartes",161,160,2
 "Cathartes",161,161,2
@@ -883,8 +862,6 @@ name,fileindex,index,whichChild
 "calolaemus",155,160,2
 "caroli",160,49,2
 "castelnaudii",160,213,1
-"Mangoes and Caribs",158,5,1
-"Caribs",158,17,1
 "Green-throated Carib",158,18,1
 "Purple-throated Carib",158,19,2
 "Calothorax",158,37,1
@@ -896,8 +873,6 @@ name,fileindex,index,whichChild
 "Cassin's Spinetail",153,171,1
 "cassini",153,171,1
 "New Caledonian Owlet-nightjar",152,39,2
-"CAPRIMULGIFORMES",152,40,2
-"CAPRIMULGIFORMES",152,69,2
 "carolinensis",152,82,1
 "Caprimulgus",152,82,1
 "Caprimulgus",152,83,2
@@ -960,10 +935,8 @@ name,fileindex,index,whichChild
 "Caprimulgus",152,174,2
 "Caprimulgus",152,179,2
 "Caprimulgus",152,180,2
-"CAPRIMULGIFORMES",0,31,2
 "caripensis",0,44,2
 "Catreus",149,28,2
-"Capercaillies",151,20,1
 "Black-billed Capercaillie",151,21,1
 "Western Capercaillie",151,22,2
 "Caucasian Grouse",151,24,1
@@ -1008,9 +981,6 @@ name,fileindex,index,whichChild
 "canadensis",27,179,2
 "Cape Barren Goose",27,194,1
 "casiquiare",0,75,1
-"CASUARIIFORMES",0,160,1
-"Cassowaries",0,161,1
-"Casuariidae",0,161,1
 "Southern Cassowary",0,163,1
 "casuarius",0,163,1
 "Casuarius",0,163,1

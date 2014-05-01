@@ -1,14 +1,10 @@
 name,fileindex,index,whichChild
 "americana",127,36,1
-"Buntings, American sparrows and more",124,83,1
 "Amaurospiza",124,180,1
 "Amaurospiza",124,181,2
 "Amaurospiza",124,182,2
-"Buntings, American sparrows and more",124,184,2
 "amoena",124,196,2
 "americana",124,197,2
-"New World Warblers, Buntings, American Sparrows and more",142,2,1
-"Buntings, American sparrows and more",142,5,1
 "Ammodramus",145,65,1
 "Ammodramus",145,66,2
 "Ammodramus",145,73,1
@@ -18,18 +14,14 @@ name,fileindex,index,whichChild
 "Amphispiza",145,79,2
 "American Tree Sparrow",145,100,1
 "Amphispiza",142,50,2
-"Buntings, American sparrows and more",146,1,1
 "Ammodramus",146,13,1
 "Ammodramus",146,14,2
 "Ammodramus",146,15,2
-"Buntings, American sparrows and more",142,82,2
 "Amblyramphus",143,31,2
 "Amblycercus",143,85,2
-"New World warblers, Buntings, American Sparrows and more",142,184,2
 "American Redstart",144,126,2
 "americana",144,143,1
 "American Yellow Warbler",144,148,1
-"Buntings, American sparrows and more",121,8,2
 "American Goldfinch",138,35,2
 "ambigua",135,69,2
 "Kauai Amakihi",135,85,1
@@ -113,7 +105,6 @@ name,fileindex,index,whichChild
 "amabilis",219,21,2
 "amboinensis",215,39,1
 "ambiguus",217,59,2
-"Amazons",221,4,1
 "Yellow-crowned Amazon",221,15,1
 "Amazona",221,15,1
 "Yellow-headed Amazon",221,16,2
@@ -283,7 +274,6 @@ name,fileindex,index,whichChild
 "American Red-bellied Turtle",95,39,1
 "Central American River Turtle",94,183,2
 "Amyda",343,18,2
-"South American River Turtles",0,81,1
 "Red-headed Amazon River Turtle",0,85,1
 "Six-tubercled Amazon River Turtle",0,89,1
 "Big-headed Amazon River turtle",0,94,2
@@ -332,7 +322,6 @@ name,fileindex,index,whichChild
 "Amphibolurus",413,28,2
 "Amphibolurus",413,29,2
 "amphiboluroides",413,104,2
-"American Legless Lizards",411,60,2
 "Amphiesma",335,165,2
 "amarali",336,54,2
 "Amastridium",336,136,2
@@ -375,7 +364,6 @@ name,fileindex,index,whichChild
 "Southern Amazon Red Squirrel",279,24,2
 "Amazon Dwarf Squirrel",279,61,1
 "Central American Dwarf Squirrel",279,64,2
-"Ammospermophilus",296,51,2
 "Ammospermophilus",296,54,1
 "Ammospermophilus",296,55,2
 "Ammospermophilus",296,57,1
@@ -420,7 +408,6 @@ name,fileindex,index,whichChild
 "Central American Least Shrew",397,83,1
 "Amur Hedgehog",388,9,2
 "amurensis",388,9,2
-"Amblysomus",323,57,1
 "Amblysomus",323,60,1
 "Amblysomus",323,61,2
 "Amblysomus",323,62,2
@@ -430,7 +417,6 @@ name,fileindex,index,whichChild
 "Amazonian Red-sided Opossum",109,166,1
 "americana",109,187,2
 "Central American Woolly Opossum",109,229,1
-"Amphibians",0,132,2
 "amabilis",60,54,2
 "amboroensis",56,28,1
 "American Toad",61,34,2
@@ -476,7 +462,6 @@ name,fileindex,index,whichChild
 "Amatola Toad",57,110,1
 "amatolicus",57,110,1
 "South American Common Toad",58,15,1
-"South American Redbelly Toads",38,37,2
 "Ameerega",43,13,1
 "Ameerega",43,14,2
 "Ameerega",43,16,1
@@ -503,15 +488,12 @@ name,fileindex,index,whichChild
 "amazonica",44,22,2
 "americanus",45,52,2
 "amnicola",65,15,2
-"South American Horned Frogs",52,3,1
 "Amazonian Horned Frog",52,10,2
 "American White Lipped Frog",39,13,1
 "ametarsia",49,45,2
 "ameibothalame",40,23,1
-"Amazon Treefrogs",64,38,2
 "amicorum",48,169,2
 "amboinensis",55,26,2
-"AMPHIGNATHODONTIDAE",93,0,2
 "amplinympha",75,51,2
 "amniscola",72,98,1
 "amadeus",87,28,2
@@ -568,9 +550,7 @@ name,fileindex,index,whichChild
 "amieti",10,63,2
 "Amietia",10,63,2
 "Amietia",10,64,2
-"American Spadefoot Toads",1,166,1
 "amieti",322,19,2
-"New Zealand and North American Primitive Frogs",0,138,1
 "amuzga",100,121,1
 "amplus",107,34,1
 "ambrosii",105,44,1
@@ -580,7 +560,6 @@ name,fileindex,index,whichChild
 "Amphiuma",98,101,2
 "One-toed Amphiuma",98,102,2
 "Amphiuma",98,102,2
-"AMBYSTOMATIDAE",98,180,2
 "Ambystoma",99,11,1
 "Ambystoma",99,12,2
 "Ambystoma",99,13,2

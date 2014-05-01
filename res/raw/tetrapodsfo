@@ -66,7 +66,6 @@ name,fileindex,index,whichChild
 "Forty-spotted Pardalote",120,73,1
 "fonsecai",233,104,2
 "Patagonian Forest Earthcreeper",231,42,1
-"Foliage-gleaners, Treehunters and Recurvebills",232,0,1
 "Rufous-necked Foliage-gleaner",232,11,1
 "Guttulate Foliage-gleaner",232,12,2
 "Buff-browed Foliage-gleaner",232,13,2
@@ -95,15 +94,12 @@ name,fileindex,index,whichChild
 "Henna-hooded Foliage-gleaner",232,83,1
 "Chestnut-capped Foliage-gleaner",232,84,2
 "Ruddy Foliage-gleaner",232,85,2
-"Formicariidae",229,40,2
 "Formicarius",229,45,1
 "Formicarius",229,46,2
 "Formicarius",229,47,2
 "Formicarius",229,49,1
 "Formicarius",229,50,2
 "Formicarius",229,51,2
-"Formicariidae",248,106,2
-"Formicariidae",229,82,2
 "fortis",247,13,2
 "Formicivora",245,137,1
 "Formicivora",245,138,2
@@ -130,7 +126,6 @@ name,fileindex,index,whichChild
 "Forpus",215,81,2
 "Forpus",215,82,2
 "Fox Kestrel",222,53,2
-"Forest-falcons",114,13,1
 "Lined Forest-falcon",114,17,1
 "Cryptic Forest-falcon",114,18,2
 "Slaty-backed Forest-falcon",114,19,2
@@ -153,7 +148,6 @@ name,fileindex,index,whichChild
 "Forest Bittern",354,118,2
 "Fork-tailed Storm-petrel",357,140,2
 "forsteri",357,181,2
-"Forest-Rails and Crakes",361,33,2
 "Forbes's Forest-rail",361,37,1
 "Forbes's Forest-rail",361,37,1
 "forbesi",361,37,1
@@ -172,7 +166,6 @@ name,fileindex,index,whichChild
 "Fork-tailed Palm-swift",329,123,2
 "forcipata",324,138,2
 "fossii",331,11,2
-"Fowl",310,0,2
 "Forest Francolin",312,169,2
 "Udzungwa Forest-partridge",314,46,2
 "formosa",313,204,2
@@ -184,7 +177,6 @@ name,fileindex,index,whichChild
 "formosa",343,15,2
 "foliorum",306,95,2
 "formosa",307,90,2
-"Four-fingered Skinks",300,109,1
 "fogoensis",300,139,2
 "formosus",405,47,2
 "fowleri",409,79,2
@@ -233,7 +225,6 @@ name,fileindex,index,whichChild
 "Forrest's Mountain Vole",282,54,1
 "forresti",282,54,1
 "fontanierii",281,54,1
-"Red Forest Rats",281,90,1
 "Lowland Red Forest Rat",281,92,1
 "Lowland Red Forest Rat",281,93,2
 "Eastern Red Forest Rat",281,94,2
@@ -256,7 +247,6 @@ name,fileindex,index,whichChild
 "forresti",261,43,2
 "Formosan Rock Macaque",275,38,1
 "foai",275,184,2
-"Fork-marked Lemurs",260,99,2
 "Montagne D' Ambre Fork-marked Lemur",260,101,1
 "Pale Fork-marked Lemur",260,102,2
 "Sambirano Fork-marked Lemur",260,104,1
@@ -275,7 +265,6 @@ name,fileindex,index,whichChild
 "Formosan Woolly Horseshoe Bat",379,36,1
 "formosae",379,36,1
 "Philippine Forest Horseshoe Bat",379,41,1
-"Flying Foxes",366,4,1
 "Kei Flying Fox",366,14,1
 "Aru Flying Fox",366,15,2
 "Black-bearded Flying Fox",366,16,2
@@ -339,9 +328,7 @@ name,fileindex,index,whichChild
 "Forest Hog",401,22,2
 "foina",383,56,2
 "forsteri",381,48,2
-"Wolves, Foxes and more",381,119,2
 "Crab-eating Fox",381,153,1
-"Foxes",381,157,2
 "Tibetan Fox",381,164,1
 "Corsac Fox",381,165,2
 "Ruppell's Fox",381,167,1
@@ -375,7 +362,6 @@ name,fileindex,index,whichChild
 "Forest Shrew",402,83,2
 "fodiens",397,168,2
 "Four-toed Hedgehog",388,13,1
-"FOLIVORA",333,41,1
 "Four-toed Mole Tenrec",323,34,1
 "Four-toed Sengi",323,109,2
 "forbesi",112,12,1
@@ -401,8 +387,6 @@ name,fileindex,index,whichChild
 "formosus",15,41,2
 "fonensis",17,8,2
 "fornasini",34,16,1
-"Forest Treefrogs, Night Frogs and more",25,135,2
-"Forest Treefrogs",36,0,2
 "Forest Rain Frog",25,165,2
 "fortinuptialis",342,36,2
 "Four-toed Salamander",98,9,2

@@ -1,69 +1,32 @@
 name,fileindex,index,whichChild
-"Thraupidae",50,7,1
-"Thraupidae",50,102,2
 "Thick-billed Seed-finch",52,74,1
 "Three-striped Hemispingus",51,17,1
-"Thraupidae",51,31,1
 "Thlypopsis",51,37,1
 "Thlypopsis",51,38,2
 "Thlypopsis",51,39,2
 "Thlypopsis",51,40,2
 "Thlypopsis",51,42,1
 "Thlypopsis",51,43,2
-"Thraupidae",51,47,1
 "thoracica",51,66,2
-"Thraupidae",51,68,2
-"Thraupidae",51,72,1
-"Thraupidae",51,82,2
-"Thraupidae",51,97,2
-"Thraupidae",50,126,1
-"Thraupidae",50,148,2
-"Thraupidae",50,161,1
-"Thraupidae",50,172,1
-"Thraupidae",50,181,2
-"Thraupidae",50,184,2
-"Thraupidae",50,210,1
-"Thraupidae",50,215,1
-"Thraupidae",50,238,2
-"Thraupidae",44,11,1
 "Thick-billed Saltator",44,43,2
-"Thraupidae",54,5,1
-"Thraupidae",55,8,1
-"Thraupidae",55,13,2
 "Thraupis",55,15,2
-"Thraupidae",55,16,2
-"Thraupidae",55,21,2
-"Thraupidae",55,31,2
-"Thraupidae",55,37,1
 "Thraupis",55,39,1
 "Thraupis",55,40,2
 "Thraupis",55,41,2
-"Thraupidae",55,43,2
 "Thraupis",55,46,1
 "Thraupis",55,47,2
 "Thraupis",55,48,2
 "Thraupis",55,49,2
 "Thraupis",55,50,2
-"Thraupidae",54,118,2
-"Thraupidae",54,135,2
-"Thraupidae",54,140,2
-"Thraupidae",54,178,2
-"Thraupidae",54,181,2
-"Thraupidae",54,184,2
-"Thraupidae",54,187,2
 "Rosy Thrush-tanager",54,189,2
-"Thraupidae",54,190,2
-"Thraupidae",47,89,2
 "thilius",60,27,2
 "Three-striped Warbler",57,49,1
 "Three-banded Warbler",57,50,2
-"Thraupidae",57,167,1
 "Thick-billed Seedeater",53,19,2
 "thibetanus",53,88,2
 "Thick-billed Siskin",53,104,1
 "Three-banded Rosefinch",59,55,1
 "thura",59,56,2
-"Thraupidae",49,0,2
 "Thick-billed Euphonia",49,9,1
 "theresae",108,63,2
 "thomensis",106,16,2
@@ -71,17 +34,11 @@ name,fileindex,index,whichChild
 "Thick-billed Flowerpecker",63,72,2
 "thoracicus",62,172,1
 "Thick-billed Spiderhunter",62,180,1
-"Thrushes, Dippers, Chats, Old World Flycatchers",87,2,1
 "tholloni",93,58,1
-"Thrushes",92,62,1
 "Javan Whistling Thrush",92,70,2
 "Thrush Nightingale",92,100,2
-"Thrushes",92,121,2
 "thalassinus",92,193,1
-"Thrushes",97,64,2
 "Thyolo Alethe",97,69,2
-"Thrushes",87,22,2
-"Thrushes",89,3,1
 "Dark-throated Thrush",89,17,1
 "Dusky Thrush",89,18,2
 "Chestnut Thrush",89,24,2
@@ -158,7 +115,6 @@ name,fileindex,index,whichChild
 "Buru Thrush",89,112,2
 "Guadalcanal Thrush",89,121,2
 "Pied Thrush",89,125,2
-"Thrushes",89,134,1
 "Russet-tailed Thrush",89,141,1
 "New Britain Thrush",89,142,2
 "Bassian Thrush",89,143,2
@@ -172,8 +128,6 @@ name,fileindex,index,whichChild
 "Enggano Thrush",89,156,2
 "Long-tailed Thrush",89,157,2
 "Sri Lanka Scaly Thrush",89,158,2
-"Thrushes",89,160,1
-"Thrushes",89,170,2
 "Grey-cheeked Thrush",89,180,1
 "Bicknell's Thrush",89,182,2
 "Hermit Thrush",89,186,2
@@ -183,13 +137,9 @@ name,fileindex,index,whichChild
 "Aztec Thrush",89,200,2
 "Makira Thrush",89,207,1
 "Varied Thrush",89,208,2
-"Thrushes",89,209,2
 "Fawn-breasted Thrush",89,210,1
 "Sulawesi Thrush",89,211,2
-"Thrushes",87,23,2
 "Finsch's Rufous Thrush",87,50,2
-"Mockingbirds, Thrashers, Starlings and more",87,67,2
-"Mockingbirds and Thrashers",96,0,2
 "thenca",96,29,2
 "Sage Thrasher",96,30,2
 "Long-billed Thrasher",96,36,1
@@ -259,7 +209,6 @@ name,fileindex,index,whichChild
 "theklae",107,19,2
 "Thick-billed Lark",107,72,1
 "thruppi",100,49,2
-"Thrushes",43,176,1
 "Black Thicket-fantail",142,73,1
 "White-bellied Thicket-fantail",142,78,1
 "Sooty Thicket-fantail",142,79,2
@@ -269,9 +218,6 @@ name,fileindex,index,whichChild
 "Thick-billed Vireo",139,10,1
 "thoracicus",139,90,2
 "Three-streaked Tchagra",145,76,2
-"Honeyeaters, Thornbills, Bristlebirds and more",112,0,2
-"Thornbills and gerygones",112,77,2
-"Thornbills",112,81,1
 "Buff-rumped Thornbill",112,86,1
 "Western Thornbill",112,87,2
 "Chestnut-rumped Thornbill",112,88,2
@@ -290,7 +236,6 @@ name,fileindex,index,whichChild
 "Thripophaga",37,135,2
 "Thripophaga",37,136,2
 "Thripophaga",37,137,2
-"Thistletails",38,2,1
 "Mouse-coloured Thistletail",38,7,1
 "Black-throated Thistletail",38,8,2
 "Ochre-browed Thistletail",38,10,1
@@ -300,7 +245,6 @@ name,fileindex,index,whichChild
 "White-chinned Thistletail",38,16,1
 "Vilcabamba Thistletail",38,17,2
 "Itatiaia Thistletail",38,22,1
-"Thornbills",35,13,2
 "Orange-breasted Thornbird",35,18,1
 "Plain Thornbird",35,19,2
 "Rufous-fronted Thornbird",35,20,2
@@ -323,11 +267,6 @@ name,fileindex,index,whichChild
 "thoracicus",30,99,1
 "Thicket Antpitta",40,77,2
 "Thrush-like Antpitta",40,80,1
-"Thamnophilidae",31,3,1
-"Thamnophilidae",31,63,1
-"Thamnophilidae",31,86,2
-"Thamnophilidae",31,91,2
-"Thamnophilidae",31,174,2
 "Thamnophilus",32,11,1
 "Thamnophilus",32,12,2
 "Thamnophilus",32,15,2
@@ -359,11 +298,7 @@ name,fileindex,index,whichChild
 "Thamnomanes",31,209,2
 "Thamnomanes",31,211,1
 "Thamnomanes",31,212,2
-"Thamnophilidae",41,0,2
-"Thamnophilidae",30,134,2
-"Thamnophilidae",30,169,2
 "Thamnistes",30,172,2
-"Thamnophilidae",30,174,2
 "Three-striped Flycatcher",124,90,1
 "thoracica",125,15,2
 "Thick-billed Kingbird",129,19,2
@@ -384,14 +319,12 @@ name,fileindex,index,whichChild
 "thayeri",22,21,2
 "Thick-billed Guillemot",23,19,1
 "Three-banded Courser",20,43,2
-"Thinocoridae",20,130,1
 "Thinocorus",20,132,1
 "Thinocorus",20,133,2
 "Three-banded Plover",24,83,2
 "thoracicus",24,87,2
 "Thinornis",24,94,1
 "Thinornis",24,95,2
-"Thick-knees",20,153,1
 "Senegal Thick-knee",20,159,1
 "Spotted Thick-knee",20,160,2
 "Water Thick-knee",20,161,2
@@ -402,7 +335,6 @@ name,fileindex,index,whichChild
 "Great Thick-knee",20,168,1
 "Beach Thick-knee",20,169,2
 "thula",3,80,2
-"Threskiornithidae",3,125,2
 "Threskiornis",3,137,1
 "Threskiornis",3,138,2
 "Threskiornis",3,140,1
@@ -444,15 +376,12 @@ name,fileindex,index,whichChild
 "Olivaceous Thornbill",160,37,2
 "Purple-backed Thornbill",160,54,1
 "Black-backed Thornbill",160,55,2
-"Coquettes, Thorntails and Firecrowns",160,85,2
-"Thorntails",160,107,1
 "Black-bellied Thorntail",160,110,1
 "Wire-crested Thorntail",160,111,2
 "Green Thorntail",160,112,2
 "Coppery Thorntail",160,113,2
 "theresiae",158,29,2
 "thalassinus",158,49,1
-"THRENETES",154,61,2
 "Threnetes",154,63,1
 "Threnetes",154,64,2
 "Threnetes",154,65,2

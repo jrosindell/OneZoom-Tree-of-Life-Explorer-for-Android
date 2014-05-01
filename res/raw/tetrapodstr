@@ -50,8 +50,6 @@ name,fileindex,index,whichChild
 "triurus",192,25,2
 "Grey Trembler",192,57,1
 "Brown Trembler",192,58,2
-"Wrens, Nuthatches, Treecreepers and more",181,74,2
-"Troglodytidae",181,77,1
 "Troglodytes",190,75,1
 "Troglodytes",190,76,2
 "Troglodytes",190,77,2
@@ -64,7 +62,6 @@ name,fileindex,index,whichChild
 "Troglodytes",190,87,1
 "Troglodytes",190,88,2
 "Tropical Gnatcatcher",181,113,2
-"Treecreepers",181,123,1
 "Short-toed Treecreeper",181,127,1
 "Hodgson's Treecreeper",181,128,2
 "Eurasian Treecreeper",181,130,1
@@ -100,8 +97,6 @@ name,fileindex,index,whichChild
 "Trochocercus",152,43,2
 "Trumpet Manucode",160,77,2
 "tristis",158,16,2
-"Coughs and Treepies",157,128,2
-"Treepies",157,129,1
 "Sunda Treepie",157,135,1
 "Rufous Treepie",157,136,2
 "Andaman Treepie",157,137,2
@@ -128,8 +123,6 @@ name,fileindex,index,whichChild
 "Trichodere",148,64,2
 "tristrami",149,52,2
 "tricolor",148,166,1
-"Australian Treecreepers, Bowerbirds",120,137,2
-"Australian treecreepers",120,175,2
 "Brown Treecreeper",120,180,1
 "Rufous Treecreeper",120,181,2
 "White-browed Treecreeper",120,182,2
@@ -137,7 +130,6 @@ name,fileindex,index,whichChild
 "Red-browed Treecreeper",120,185,2
 "White-throated Treecreeper",120,186,2
 "Papuan Treecreeper",120,187,2
-"Foliage-gleaners, Treehunters and Recurvebills",232,0,1
 "Sharp-billed Treehunter",232,48,2
 "Streak-capped Treehunter",232,56,1
 "Flammulated Treehunter",232,57,2
@@ -147,7 +139,6 @@ name,fileindex,index,whichChild
 "Uniform Treehunter",232,64,2
 "Streak-breasted Treehunter",232,65,2
 "Pale-browed Treehunter",232,79,2
-"Treerunners",230,54,1
 "Beautiful Treerunner",230,57,1
 "Pearled Treerunner",230,58,2
 "Ruddy Treerunner",230,59,2
@@ -189,8 +180,6 @@ name,fileindex,index,whichChild
 "tridactyla",201,104,2
 "Trumpeter Hornbill",203,62,2
 "Tropicranus",203,67,2
-"Trogons",252,0,2
-"TROGONIFORMES",252,0,2
 "White-tailed Trogon",252,9,1
 "Trogon",252,9,1
 "Green-backed Trogon",252,10,2
@@ -279,8 +268,6 @@ name,fileindex,index,whichChild
 "tristrami",357,146,2
 "tristis",356,43,1
 "tricolor",361,46,2
-"Cranes, Trumpeters and Limpkin",360,156,2
-"Trumpeters",360,188,2
 "Pale-winged Trumpeter",360,190,1
 "Dark-winged Trumpeter",360,191,2
 "Grey-winged Trumpeter",360,192,2
@@ -311,26 +298,19 @@ name,fileindex,index,whichChild
 "tristigmata",347,99,1
 "trocaz",348,41,2
 "tranquebarica",348,75,1
-"Tropicbirds",346,172,2
 "Red-tailed Tropicbird",346,174,1
 "White-tailed Tropicbird",346,175,2
 "Red-billed Tropicbird",346,176,2
-"Trochilidae",324,7,1
 "Trochilus",327,11,1
 "Trochilus",327,12,2
-"Trainbearers",332,56,2
 "Black-tailed Trainbearer",332,57,1
 "Green-tailed Trainbearer",332,58,2
-"Swifts and Treeswifts",324,18,2
 "troglodytes",329,69,2
-"Treeswifts",324,45,2
 "Grey-rumped Treeswift",324,48,1
 "Moustached Treeswift",324,49,2
 "Crested Treeswift",324,50,2
 "Whiskered Treeswift",324,51,2
 "tristigma",324,196,2
-"Tragopans",312,116,2
-"TRAGOPAN",312,116,2
 "Western Tragopan",312,119,1
 "Tragopan",312,119,1
 "Satyr Tragopan",312,120,2
@@ -342,8 +322,6 @@ name,fileindex,index,whichChild
 "Cabot's Tragopan",312,124,2
 "Tragopan",312,124,2
 "Trinidad Piping-guan",311,36,2
-"True Geese",316,3,1
-"True Swans",316,34,2
 "Trumpeter Swan",316,40,2
 "transfasciatus",253,24,1
 "trigonatus",0,72,2
@@ -421,7 +399,6 @@ name,fileindex,index,whichChild
 "tropidosternum",298,99,2
 "Tracheloptychus",298,142,1
 "Tracheloptychus",298,143,2
-"Tropical Night Lizards",298,153,2
 "tristrami",299,41,1
 "trilineata",299,96,2
 "Tretioscincus",304,60,1
@@ -437,7 +414,6 @@ name,fileindex,index,whichChild
 "Tropidurus",405,26,2
 "tropidogaster",409,32,2
 "trinitatis",405,89,2
-"Tree and Brush Lizards",408,82,2
 "Ornate Tree Lizard",408,92,2
 "Trapelus",413,100,1
 "Trapelus",413,101,2
@@ -477,17 +453,14 @@ name,fileindex,index,whichChild
 "Tricheilostoma",334,121,1
 "Trinidad Blind Snake",334,154,2
 "transvaalica",318,60,2
-"Hamsters, Gerbils, True Mice, Rats and more",254,7,1
 "Golden-backed Tree Rat",266,76,1
 "Black-footed Tree Rat",266,77,2
 "Long-footed Tree Mouse",270,18,2
-"Tree Mice",270,63,2
 "Broad-headed Tree Mouse",270,65,1
 "Forbes's Tree Mouse",270,66,2
 "Lesser Tree Mouse",270,67,2
 "triton",269,121,1
 "Sri Lankan Highland Tree Mouse",267,121,2
-"Pencil-tailed Tree Mice",267,174,1
 "Koopman's Pencil-tailed Tree Mouse",267,178,1
 "Greater Pencil-tailed Tree Mouse",267,179,2
 "Pencil-tailed Tree Mouse",267,180,2
@@ -518,7 +491,6 @@ name,fileindex,index,whichChild
 "California Red Tree Mouse",283,20,2
 "trimucronatus",283,42,2
 "Transbaikal Zokor",281,59,1
-"Tree Rats",281,82,2
 "White-tailed Tree Rat",281,83,1
 "Hairy-tailed Tree Rat",281,84,2
 "Sort-furred Tree Mouse",281,101,2
@@ -527,7 +499,6 @@ name,fileindex,index,whichChild
 "trichopus",255,67,2
 "Tropical Pocket Gopher",255,82,1
 "tropicalis",255,82,1
-"Spiny Rats, Tree Rats and more",258,0,1
 "Golden Atlantic Tree Rat",258,14,1
 "Pallid Atlantic Tree Rat",258,16,2
 "Drab Atlantic Tree Rat",258,18,1
@@ -571,7 +542,6 @@ name,fileindex,index,whichChild
 "Redness Tree Squirrel",296,150,2
 "Tres Marias Cottontail",254,84,2
 "transitionalis",254,94,2
-"Primates, Flying Lemurs and Treeshrews",254,115,2
 "Trachypithecus",276,9,1
 "Trachypithecus",276,10,2
 "Trachypithecus",276,11,2
@@ -592,7 +562,6 @@ name,fileindex,index,whichChild
 "tripartitus",285,71,2
 "trivirgatus",285,117,1
 "trichotis",260,89,2
-"Treeshrews",254,137,2
 "Ruddy Treeshrew",254,147,1
 "Large Treeshrew",254,148,2
 "Slender Treeshrew",254,149,2
@@ -636,7 +605,6 @@ name,fileindex,index,whichChild
 "Percival's Trident Bat",376,24,2
 "Trident Leaf-nosed Bat",376,78,2
 "tricuspidatus",376,78,2
-"Triaenops",376,80,1
 "Trouessart's Trident Bat",376,82,1
 "Trouessart's Trident Bat",376,82,1
 "Triaenops",376,82,1
@@ -661,8 +629,6 @@ name,fileindex,index,whichChild
 "Tragelaphus",371,54,2
 "Tragelaphus",371,55,2
 "tragocamelus",371,58,2
-"Tragulidae",371,102,2
-"Tragulus",371,104,1
 "Tragulus",371,107,1
 "Tragulus",371,108,2
 "Tragulus",371,109,2
@@ -673,7 +639,6 @@ name,fileindex,index,whichChild
 "traversii",371,138,1
 "True's Beaked Whale",371,142,2
 "tropicalis",381,51,2
-"True seals",381,69,2
 "Tremarctos",381,117,2
 "trivirgata",385,61,2
 "tricuspis",365,163,2
@@ -693,7 +658,6 @@ name,fileindex,index,whichChild
 "trevelyani",323,85,2
 "Southern Tree Hyrax",323,121,1
 "Western Tree Hyrax",323,122,2
-"Trichechidae",323,126,1
 "Trichechus",323,128,1
 "Trichechus",323,129,2
 "Trichechus",323,130,2
@@ -709,21 +673,16 @@ name,fileindex,index,whichChild
 "Bennett's Tree Kangaroo",110,100,2
 "tridactylus",110,115,1
 "tropica",110,124,1
-"Possums, Cuscuses, Trioks and Gliders",112,0,2
 "Great-tailed Triok",112,49,1
 "trivirgata",112,50,2
 "Tate's Triok",112,52,1
-"Trichosurus",112,93,1
 "Trichosurus",112,96,1
 "Trichosurus",112,97,2
 "Trichosurus",112,98,2
 "Trichosurus",112,99,2
-"True toads",38,5,1
 "Tradouw's Mountain Toad",57,113,1
 "tradouwi",57,113,1
 "truebae",58,36,2
-"Asian Tree Toads",56,158,1
-"African Tree Toads",56,185,2
 "Bates' Tree Toad",56,186,1
 "African Tree Toad",56,187,2
 "tricolor",63,116,2
@@ -737,7 +696,6 @@ name,fileindex,index,whichChild
 "truebae",42,56,2
 "troglodytes",39,36,2
 "truebae",49,57,2
-"Treefrogs and more",38,138,2
 "triseriata",40,119,2
 "California Treefrog",40,128,1
 "Pine Barrens Treefrog",40,146,1
@@ -748,8 +706,6 @@ name,fileindex,index,whichChild
 "Bird-voiced Treefrog",40,164,2
 "Squirrel Treefrog",40,167,1
 "Green Treefrog",40,168,2
-"Mexican Treefrogs",40,178,1
-"Shovel-headed Treefrogs",40,194,1
 "Triprion",40,195,1
 "Triprion",40,196,2
 "Sardinian Treefrog",41,11,1
@@ -757,10 +713,6 @@ name,fileindex,index,whichChild
 "European Treefrog",41,17,2
 "Mediterranean Treefrog",41,21,1
 "trux",40,213,2
-"Bromeliad Treefrogs",67,43,2
-"Fringe-limbed Treefrogs",67,46,2
-"Slender-legged Treefrogs",64,5,1
-"Amazon Treefrogs",64,38,2
 "Hispaniolan Common Treefrog",64,57,1
 "Cuban Treefrog",64,58,2
 "Hispaniolan Yellow Treefrog",64,66,1
@@ -780,13 +732,9 @@ name,fileindex,index,whichChild
 "tritaeniatus",48,17,1
 "triangulum",48,178,2
 "truncata",48,181,2
-"Canebrake Treefrogs",46,46,2
-"Snouted Treefrogs",70,1,1
 "trilineatus",70,13,1
 "Lanceback Treefrog",70,89,1
 "trapicheiroi",70,121,2
-"Lime Treefrogs",70,178,2
-"Australasian Treefrogs",38,145,1
 "Green-eyed Treefrog",53,18,1
 "Fringed Treefrog",53,19,2
 "Leaf Green River Treefrog",53,33,1
@@ -836,7 +784,6 @@ name,fileindex,index,whichChild
 "trachydermus",78,37,1
 "trachyderma",23,14,1
 "Desert Trilling Frog",23,130,2
-"True Frogs, Shrub Frogs and more",1,38,1
 "travancoricus",7,45,1
 "translineatus",21,12,2
 "Frilled Treefrog",21,28,1
@@ -859,15 +806,12 @@ name,fileindex,index,whichChild
 "tridactyla",35,46,1
 "tricolor",34,73,2
 "Seychelles Treefrog",34,78,2
-"Forest Treefrogs, Night Frogs and more",25,135,2
 "troglodytes",26,54,1
 "trifasciata",26,85,1
 "Trichobatrachus",26,155,2
-"Forest Treefrogs",36,0,2
 "Tropical Clawed Frog",322,37,2
 "tropicalis",322,37,2
 "truei",0,147,2
-"Tropical Climbing Salamanders",100,2,1
 "Tropical Dwarf Salamander",100,87,2
 "troglodytes",108,27,1
 "Eurycea Troglodytes Complex",104,22,2
@@ -875,7 +819,6 @@ name,fileindex,index,whichChild
 "Chisholm Trail Salamander",104,23,2
 "tridentifera",104,42,2
 "tridactylum",98,100,1
-"True Salamanders and Newts",98,112,1
 "Triturus",103,23,1
 "Triturus",103,24,2
 "Triturus",103,25,2

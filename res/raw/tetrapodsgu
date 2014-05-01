@@ -117,10 +117,6 @@ name,fileindex,index,whichChild
 "New Guinea Hawk-eagle",116,31,1
 "guianensis",115,56,1
 "New Guinea Eagle",115,58,2
-"Waders, Gulls, Sandpipers and more",114,46,2
-"Gulls, Terns, Auks and Plovers",114,49,1
-"Gulls and terns",212,1,1
-"Gulls and Kittiwakes",212,3,1
 "Slaty-backed Gull",214,13,1
 "Thayer's Gull",214,14,2
 "Glaucous-winged Gull",214,15,2
@@ -199,12 +195,10 @@ name,fileindex,index,whichChild
 "guy",325,48,2
 "Guam Swiftlet",329,20,1
 "gundlachii",331,66,2
-"Pheasants, Quails and Guineafowl",310,3,1
 "Gunnison Sage-grouse",312,80,2
 "gularis",312,163,2
 "gujanensis",315,13,2
 "guttatus",315,27,2
-"Guineafowl",310,23,2
 "Crested Guineafowl",310,27,1
 "Guttera",310,27,1
 "Plumed Guineafowl",310,28,2
@@ -213,7 +207,6 @@ name,fileindex,index,whichChild
 "White-breasted Guineafowl",310,31,1
 "Black Guineafowl",310,32,2
 "Vulturine Guineafowl",310,33,2
-"Guans and curassows",310,34,2
 "guttata",310,77,2
 "Horned Guan",310,87,2
 "Chestnut-bellied Guan",311,7,1
@@ -285,14 +278,11 @@ name,fileindex,index,whichChild
 "Guaira Spiny Rat",258,138,2
 "guairae",258,138,2
 "gundlachianus",256,26,2
-"Guinea Pigs and Cavys",259,28,2
 "Montane Guinea Pig",259,39,1
 "Brazilian Guinea Pig",259,41,2
 "Shiny Guinea Pig",259,48,2
 "Greater Guinea Pig",259,49,2
 "guamara",256,109,1
-"Gundis and Degus",254,45,2
-"Gundis",254,46,1
 "Val's Gundi",254,50,1
 "Gundi",254,51,2
 "gundi",254,51,2
@@ -366,7 +356,6 @@ name,fileindex,index,whichChild
 "gularis",74,21,2
 "Guiana Shield Frog",72,26,2
 "gutturosa",72,26,2
-"Guanabara Frogs",72,59,2
 "guerreroensis",85,21,1
 "gulosus",72,100,2
 "guanahacabibes",79,71,1

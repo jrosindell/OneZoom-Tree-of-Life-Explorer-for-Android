@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Tetrapods",0,0,0
 "telasco",127,27,2
 "Temminck's Seedeater",127,47,2
 "Tersina",125,181,2
@@ -31,7 +30,6 @@ name,fileindex,index,whichChild
 "Tephrozosterops",166,173,2
 "textrix",172,36,1
 "tenella",170,185,2
-"Bulbuls and Tetrakas",161,8,2
 "Terrestrial Brownbul",174,120,2
 "terrestris",174,120,2
 "tephrolaemus",174,182,1
@@ -43,7 +41,6 @@ name,fileindex,index,whichChild
 "Common Tetraka",161,17,2
 "tenellipes",162,41,1
 "tephrocephalus",162,55,1
-"Tesias",162,182,1
 "Chestnut-headed Tesia",162,185,1
 "Tesia",162,185,1
 "Slaty-bellied Tesia",162,186,2
@@ -127,9 +124,6 @@ name,fileindex,index,whichChild
 "teesa",118,110,2
 "Terathopius",115,77,2
 "tenuirostris",115,98,1
-"Gulls, Terns, Auks and Plovers",114,49,1
-"Gulls and terns",212,1,1
-"Terns and Noddies",212,68,2
 "South American Tern",213,9,1
 "Antarctic Tern",213,10,2
 "Arctic Tern",213,11,2
@@ -202,7 +196,6 @@ name,fileindex,index,whichChild
 "Tetraophasis",312,115,2
 "Temminck's Tragopan",312,123,1
 "temminckii",312,123,1
-"TETRAOGALLUS",317,73,2
 "Tetraogallus",317,76,1
 "Tetraogallus",317,77,2
 "Tetraogallus",317,78,2
@@ -212,7 +205,6 @@ name,fileindex,index,whichChild
 "Marbled Teal",313,105,2
 "Salvadori's Teal",313,117,1
 "Ringed Teal",313,119,2
-"Teals, Shovelers and more",313,121,1
 "Auckland Islands Teal",313,130,1
 "Brown Teal",313,131,2
 "Campbell Islands Teal",313,132,2
@@ -233,8 +225,6 @@ name,fileindex,index,whichChild
 "Brazilian Teal",313,216,1
 "Tepui Tinamou",253,34,1
 "tetraspis",0,57,2
-"Turtles, Tortoises and Terrapins",0,76,2
-"Testudines",0,76,2
 "Yellow-headed Temple Turtle",94,40,2
 "Spiny Terrapin",94,41,2
 "tentoria circumdata",94,69,1
@@ -275,7 +265,6 @@ name,fileindex,index,whichChild
 "Teira",308,21,1
 "Teira",308,22,2
 "Tenerife Lizard",298,200,2
-"Spined Tegus",304,47,2
 "tesselatus",309,20,2
 "teguixin",309,38,2
 "teyou",309,84,2
@@ -351,8 +340,6 @@ name,fileindex,index,whichChild
 "tenellus",398,29,2
 "teres",397,167,2
 "tetradactyla",333,53,1
-"Tenrecs",323,4,1
-"TENRECOMORPHA",323,4,1
 "Striped Shrew Tenrec",323,16,1
 "Taiva Shrew Tenrec",323,17,2
 "Cowan's Shrew Tenrec",323,18,2

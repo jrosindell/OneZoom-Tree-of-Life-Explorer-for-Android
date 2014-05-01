@@ -150,8 +150,6 @@ name,fileindex,index,whichChild
 "hypoleucos",223,90,2
 "Hydrophasianus",114,133,2
 "hypoleuca",358,45,2
-"Hydrobatidae",357,110,2
-"Hydrobatidae",357,125,2
 "Hydrobates",357,139,2
 "hyogastrus",350,23,2
 "hypopyrrha",348,71,1
@@ -200,13 +198,11 @@ name,fileindex,index,whichChild
 "Hypnale",339,54,2
 "Short-haired Hydromyine",270,10,1
 "Northern Hydromyine",270,11,2
-"Hyomys",270,69,1
 "Hyomys",270,70,1
 "Hyomys",270,71,2
 "hylomyoides",267,160,1
 "Hyrcanian Field Mouse",273,33,2
 "hyrcanicus",273,33,2
-"Hylomyscus",273,97,2
 "Angolan Hylomyscus",273,101,1
 "Hylomyscus",273,101,1
 "Stella Hylomyscus",273,102,2
@@ -223,7 +219,6 @@ name,fileindex,index,whichChild
 "Hylomyscus",273,110,2
 "Lesser Hylomyscus",273,111,2
 "Hylomyscus",273,111,2
-"Hybomys",271,4,1
 "Hybomys",271,8,1
 "Bioko Hybomys",271,9,2
 "Hybomys",271,9,2
@@ -234,7 +229,6 @@ name,fileindex,index,whichChild
 "Hybomys",271,13,1
 "Peters' Hybomys",271,14,2
 "Hybomys",271,14,2
-"Hydromys",271,19,1
 "Hydromys",271,22,1
 "Hydromys",271,23,2
 "Hydromys",271,24,2
@@ -245,13 +239,9 @@ name,fileindex,index,whichChild
 "hylophilus",290,44,2
 "hydrobates",287,99,2
 "hylocetes",291,62,1
-"Hyperacrius",284,69,2
 "Hyperacrius",284,70,1
 "Hyperacrius",284,71,2
 "Hypogeomys",281,98,2
-"HYSTRICOMORPHA",254,30,2
-"Hystricidae",256,37,1
-"Hystrix",256,39,1
 "Hystrix",256,44,1
 "Hystrix",256,45,2
 "Hystrix",256,46,2
@@ -272,13 +262,10 @@ name,fileindex,index,whichChild
 "Hylopetes",278,48,2
 "Hylopetes",278,50,2
 "Hylopetes",278,51,2
-"Hyosciurus",278,112,2
 "Hyosciurus",278,113,1
 "Hyosciurus",278,114,2
 "hyperborea",261,9,2
 "hypoleucos",275,155,2
-"Hylobatidae",295,1,1
-"Hylobates",295,4,1
 "Hylobates",295,9,1
 "Hylobates",295,10,2
 "Hylobates",295,11,2
@@ -317,9 +304,6 @@ name,fileindex,index,whichChild
 "Hylochoerus",401,22,2
 "Hydrictis",386,21,2
 "Hydrurga",381,94,2
-"Hyena family",382,80,2
-"Hyaenidae",382,80,2
-"Hyaena",382,82,1
 "Striped Hyaena",382,83,1
 "hyaena",382,83,1
 "Hyaena",382,83,1
@@ -329,12 +313,9 @@ name,fileindex,index,whichChild
 "hylophaga",397,124,2
 "hypsibia",397,150,1
 "hypomelas",388,23,2
-"Hylomys",388,35,2
 "Hylomys",388,36,1
 "Hylomys",388,37,2
 "hybridus",333,36,2
-"Hyraxes",323,118,1
-"HYRACOIDEA",323,118,1
 "Southern Tree Hyrax",323,121,1
 "Western Tree Hyrax",323,122,2
 "Bush Hyrax",323,123,2
@@ -389,7 +370,6 @@ name,fileindex,index,whichChild
 "Hyloxalus",43,190,2
 "Hyloxalus",43,191,2
 "Hylorina",45,104,2
-"HYLODIDAE",65,0,2
 "Hylodes",65,11,1
 "Hylodes",65,12,2
 "Hylodes",65,13,2
@@ -447,7 +427,6 @@ name,fileindex,index,whichChild
 "Hyalinobatrachium",49,211,1
 "Hyalinobatrachium",49,212,2
 "Hyalinobatrachium",49,213,2
-"HYLIDAE",38,138,2
 "Hyla",40,146,1
 "Hyla",40,147,2
 "Hyla",40,148,2
@@ -636,7 +615,6 @@ name,fileindex,index,whichChild
 "Hypopachus",35,65,1
 "Hypopachus",35,66,2
 "Hyophryne",35,90,2
-"HYPEROLIIDAE",25,127,1
 "Hyperolius",30,13,1
 "Hyperolius",30,14,2
 "Hyperolius",30,15,2
@@ -777,7 +755,6 @@ name,fileindex,index,whichChild
 "Hydromantes",105,55,1
 "Hydromantes",105,56,2
 "Hydromantes",105,57,2
-"HYNOBIIDAE",344,1,1
 "Hynobius",344,16,1
 "Hynobius",344,17,2
 "Hynobius",344,19,1

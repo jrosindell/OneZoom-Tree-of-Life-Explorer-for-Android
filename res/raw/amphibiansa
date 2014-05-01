@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Salientia",0,2,1
 "Sand Toad",10,107,2
 "sanjosei",5,15,2
 "sanmartini",3,121,2
@@ -38,7 +37,6 @@ name,fileindex,index,whichChild
 "sauvagii",27,46,1
 "saltator",21,163,2
 "satelles",2,50,2
-"Rain Frogs, Saddleback Toads and more",2,60,2
 "salaputium",34,15,1
 "sanguineus",40,21,2
 "sanctaemartae",34,42,2
@@ -49,7 +47,6 @@ name,fileindex,index,whichChild
 "sanctaecrucis",2,66,1
 "sanderi",2,72,2
 "saxatilis",2,73,2
-"Saddleback Toads",2,76,1
 "sandersoni",44,14,2
 "sabrinus",44,73,2
 "saltuarius",44,89,2
@@ -91,9 +88,6 @@ name,fileindex,index,whichChild
 "sankuruensis",87,77,2
 "Savanna Banana Frog",85,56,2
 "sardus",0,25,1
-"Salamanders and Newts",0,83,2
-"Lungless Salamanders",56,0,1
-"Tropical Climbing Salamanders",56,8,1
 "salvinii",61,12,2
 "El Cope Giant Salamander",61,23,2
 "Magnificent Web-footed Salamander",61,38,1
@@ -103,23 +97,15 @@ name,fileindex,index,whichChild
 "savagei",64,17,2
 "Holy-mountain Salamander",64,49,1
 "Tropical Dwarf Salamander",56,9,2
-"False Brook Salamanders",62,0,2
 "Cuetzalan Salamander",62,17,1
 "Muscular Salamander",62,25,1
 "Southern Giant Salamander",62,36,1
 "saltator",62,37,2
 "Ridge Tail Salamander",62,42,1
 "Bell's False Brook Salamander",62,59,1
-"Minute Salamanders",56,10,2
-"Worm Salamanders",58,1,1
 "savagei",58,18,2
-"Bromeliad Salamanders",58,47,1
 "sanctibarbarus",58,57,2
-"Hidden Salamanders",58,58,2
-"Splayfoot Salamanders",63,1,1
-"Moss Salamanders",63,24,2
 "saslaya",63,37,2
-"Brook Salamanders",56,57,1
 "Cascade Caverns Salamander",57,9,1
 "Dwarf Salamander",57,10,2
 "Three-lined Salamander",57,11,2
@@ -147,7 +133,6 @@ name,fileindex,index,whichChild
 "San Gabriel Springs Salamander",56,60,1
 "Texas Blind Salamander",56,61,2
 "Cave Salamander",56,62,2
-"Spring Salamanders",56,64,1
 "Berry Cave Salamander",56,68,1
 "Spring Salamander",56,69,2
 "Tennessee Cave Salamander",56,70,2
@@ -156,7 +141,6 @@ name,fileindex,index,whichChild
 "Mud Salamander",56,74,1
 "Red Salamander",56,75,2
 "Four-toed Salamander",56,76,2
-"Slender Salamanders",56,77,2
 "California Slender Salamander",56,83,1
 "San Gabriel Slender Salamander",56,84,2
 "San Gabriel Slender Salamander",56,84,2
@@ -178,7 +162,6 @@ name,fileindex,index,whichChild
 "San Simeon Slender Salamander",56,112,2
 "Santa Lucia Mountains Slender Salamander",56,113,2
 "Santa Lucia Mountains Slender Salamander",56,113,2
-"Woodland Salamanders",56,115,1
 "Northern Zigzag Salamander",56,124,1
 "Weller's Salamander",56,125,2
 "Southern Zigzag Salamander",56,126,2
@@ -246,12 +229,10 @@ name,fileindex,index,whichChild
 "Allegheny Mountain Dusky Salamander",60,33,2
 "Dusky Salamander",60,34,2
 "Pygmy Salamander",60,35,2
-"Web-toed Salamanders",60,37,1
 "Mount Lyell Salamander",60,53,1
 "Shasta Salamander",60,54,2
 "Limestone Salamander",60,55,2
 "Red Hills Salamander",60,56,2
-"Climbing salamanders",56,171,2
 "Sacramento Mountain Salamander",56,174,1
 "Sacramento Mountain Salamander",56,174,1
 "Green Salamander",56,175,2
@@ -259,13 +240,10 @@ name,fileindex,index,whichChild
 "Arboreal Salamander",56,179,1
 "Wandering Salamander",56,180,2
 "Clouded Salamander",56,181,2
-"Torrent Salamanders",0,92,2
 "Southern Torrent Salamander",0,94,1
 "Columbia Torrent Salamander",0,95,2
 "Olympic Torrent Salamander",0,97,1
 "Cascade Torrent Salamander",0,98,2
-"True Salamanders and Newts",69,2,1
-"SALAMANDRIDAE",69,2,1
 "Sardinian Brook Salamander",69,22,1
 "Sardinian Brook Salamander",69,22,1
 "Corsican Brook Salamander",69,23,2
@@ -288,7 +266,6 @@ name,fileindex,index,whichChild
 "Alpine Salamander",69,139,2
 "Salamandra",69,139,2
 "Caucasian Salamander",69,140,2
-"Mole Salamanders",69,141,2
 "Blue-spotted Salamander",69,153,1
 "Streamside Salamander",69,155,2
 "Tiger Salamander",69,156,2
@@ -310,12 +287,10 @@ name,fileindex,index,whichChild
 "Mole Salamander",69,197,2
 "Lake Lerma Salamander",69,199,1
 "Tarahumara Salamander",69,200,2
-"Pacific Giant Salamanders",69,201,2
 "California Giant Salamander",69,204,1
 "Pacific Giant Salamander",69,205,2
 "Cope's Giant Salamander",69,206,2
 "Idaho Giant Salamander",69,207,2
-"Asiatic Salamanders",1,1,1
 "Turkestanian Salamander",1,16,1
 "Oita Salamander",1,17,2
 "Tohoku Salamander",1,19,1
@@ -341,12 +316,9 @@ name,fileindex,index,whichChild
 "Yellow-spotted Salamander",1,78,2
 "Salamandrella",1,79,2
 "Shancheng Stout Salamander",1,80,2
-"Mountain Salamanders",1,82,1
 "Persian Mountain Salamander",1,84,1
 "Semirechensk Salamander",1,87,2
-"Clawed Salamanders",1,88,2
 "Fischer's Clawed Salamander",1,89,1
 "Japanese Clawed Salamander",1,90,2
-"Giant Salamanders",1,92,2
 "Japanese Giant Salamander",1,94,1
 "Chinese Giant Salamander",1,95,2

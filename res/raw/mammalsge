@@ -1,7 +1,4 @@
 name,fileindex,index,whichChild
-"Hamsters, Gerbils, True Mice, Rats and more",2,4,1
-"Gerbils, Jirds and Sand Rats",8,143,1
-"Gerbils",8,144,1
 "Waters's Gerbil",16,11,1
 "Gerbillus",16,11,1
 "Sudan Gerbil",16,12,2
@@ -75,7 +72,6 @@ name,fileindex,index,whichChild
 "Gerbillus",8,148,1
 "Gerbillus",8,149,2
 "Somali Pygmy Gerbil",8,150,2
-"Gerbillurus",8,152,1
 "Bushy-tailed Hairy-footed Gerbil",8,155,1
 "Gerbillurus",8,155,1
 "Hairy-footed Gerbil",8,156,2
@@ -85,8 +81,6 @@ name,fileindex,index,whichChild
 "Dune Hairy-footed Gerbil",8,158,2
 "Gerbillurus",8,158,2
 "Cape Short-eared Gerbil",8,159,2
-"Gerbils, Jirds and Sand Rats",12,0,2
-"Gerbils, Jirds and Sand Rats",12,5,1
 "Mongolian Gerbil",12,15,1
 "Mid-day Gerbil",12,29,1
 "Indian Desert Gerbil",12,35,2
@@ -123,7 +117,6 @@ name,fileindex,index,whichChild
 "Petter's Gerbil",12,86,1
 "Pouched Gerbil",12,88,2
 "Geoxus",23,123,2
-"Gerbil Mice",23,192,1
 "Morgan's Gerbil Mouse",23,195,1
 "Monte Gerbil Mouse",23,196,2
 "Andean Gerbil Mouse",23,197,2
@@ -134,7 +127,6 @@ name,fileindex,index,whichChild
 "Gerbe's Vole",5,30,2
 "gerbei",5,30,2
 "Gerbil Mouse",4,213,2
-"Geomys",2,93,2
 "Geomys",2,99,1
 "Geomys",2,100,2
 "Geomys",2,101,2
@@ -144,7 +136,6 @@ name,fileindex,index,whichChild
 "Geomys",2,107,1
 "Geomys",2,108,2
 "Geomys",2,109,2
-"Geocapromys",29,110,1
 "Geocapromys",29,111,1
 "Geocapromys",29,112,2
 "Georychus",29,150,2
@@ -185,7 +176,6 @@ name,fileindex,index,whichChild
 "Gerenuk",66,36,2
 "geoffrensis",75,92,2
 "Gervais' Beaked Whale",75,100,1
-"Civets, Linsangs and Genets",51,1,1
 "Central African Large-spotted Genet",51,11,1
 "Genetta",51,11,1
 "West African Large-spotted Genet",51,12,2

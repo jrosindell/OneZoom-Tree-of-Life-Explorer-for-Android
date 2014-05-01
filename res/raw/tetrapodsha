@@ -10,11 +10,9 @@ name,fileindex,index,whichChild
 "Harris's Sparrow",145,90,2
 "Half-collared Sparrow",142,27,2
 "haemorrhous",143,95,2
-"Finches and Hawaiian honeycreepers",135,2,1
 "Haematospiza",137,62,2
 "Hawaii Creeper",135,109,1
 "Hawfinch",135,152,2
-"Finches and Hawaiian honeycreepers",135,207,2
 "New Hanover Munia",132,56,2
 "haematina",133,12,2
 "hartlaubi",140,113,2
@@ -64,7 +62,6 @@ name,fileindex,index,whichChild
 "Haematoderus",249,35,2
 "Handsome Fruiteater",249,85,2
 "haematodus",216,14,2
-"Hanging-Parrots",219,1,1
 "Orange-fronted Hanging-parrot",219,7,1
 "Yellow-throated Hanging-parrot",219,8,2
 "Sangihe Hanging-parrot",219,9,2
@@ -120,7 +117,6 @@ name,fileindex,index,whichChild
 "hardyi",226,15,2
 "Northern Hawk Owl",224,107,2
 "harrisii",224,120,2
-"Hawk-owls, Boobook and more",224,123,2
 "Christmas Island Hawk-owl",224,132,1
 "Moluccan Hawk-owl",224,133,2
 "Togian Hawk-owl",224,140,1
@@ -138,7 +134,6 @@ name,fileindex,index,whichChild
 "Solomons Hawk-owl",224,165,2
 "Jungle Hawk-owl",224,166,2
 "Papuan Hawk-owl",224,169,2
-"Osprey, kites, hawks and eagles",115,1,1
 "Rough-legged Hawk",118,29,1
 "Ferruginous Hawk",118,30,2
 "Zone-tailed Hawk",118,31,2
@@ -213,7 +208,6 @@ name,fileindex,index,whichChild
 "Tiny Hawk",117,96,2
 "Chilean Hawk",117,123,2
 "Gundlach's Hawk",117,132,2
-"Hawk-eagles and other eagles",116,0,1
 "African Hawk-eagle",116,12,1
 "Cassin's Hawk-eagle",116,18,2
 "New Guinea Hawk-eagle",116,31,1
@@ -237,14 +231,12 @@ name,fileindex,index,whichChild
 "Harpyopsis",115,58,2
 "Bat Hawk",115,59,2
 "Hamirostra",115,135,2
-"Harrier-hawks",115,153,1
 "Madagascar Harrier-hawk",115,154,1
 "African Harrier-hawk",115,155,2
 "haliaetus",115,171,2
 "hartlaubii",212,46,2
 "hardwickii",223,34,2
 "haemastica",223,155,1
-"Haematopodidae",119,126,1
 "Haematopus",119,133,1
 "Haematopus",119,134,2
 "Haematopus",119,135,2
@@ -258,7 +250,6 @@ name,fileindex,index,whichChild
 "Haematopus",119,146,2
 "Hadada Ibis",354,158,2
 "hagedash",354,158,2
-"Pelicans, Shoebill and Hamerkop",354,192,2
 "Hamerkop",354,210,2
 "harrisi",364,46,2
 "Hawaiian Petrel",358,21,1
@@ -324,7 +315,6 @@ name,fileindex,index,whichChild
 "haetianus",334,109,2
 "hasselquisti",321,29,2
 "hasemani",318,92,1
-"Hamsters, Gerbils, True Mice, Rats and more",254,7,1
 "hadrourus",266,71,1
 "Hastings River Mouse",266,117,1
 "Harrington's Rat",263,10,2
@@ -336,14 +326,11 @@ name,fileindex,index,whichChild
 "Hainald's Flores Island Rat",267,63,1
 "hainaldi",267,63,1
 "Halmahara Rat",267,102,1
-"Hadromys",267,134,2
 "Yunnan Hadromys",267,135,1
 "Hadromys",267,135,1
 "Hadromys",267,136,2
-"Hapalomys",267,185,2
 "Hapalomys",267,186,1
 "Hapalomys",267,187,2
-"Haeromys",267,188,2
 "Lowland Sulawesi Haeromys",267,190,1
 "Haeromys",267,190,1
 "Sundaic Haeromys",267,191,2
@@ -359,8 +346,6 @@ name,fileindex,index,whichChild
 "Hairy-footed Gerbil",263,127,2
 "Dune Hairy-footed Gerbil",263,129,2
 "harringtoni",265,87,2
-"Blind Mole Rats, Mouse-like Hamsters and more",263,156,2
-"Mouse-like Hamsters",263,177,2
 "Afghan Mouse-like Hamster",263,182,2
 "Mouse-like Hamster",263,186,1
 "Handleyomys",289,118,1
@@ -373,14 +358,11 @@ name,fileindex,index,whichChild
 "Hairy-tailed Bolo Mouse",287,63,1
 "Hatt's Vesper Mouse",287,148,1
 "hatti",287,148,1
-"Deer Mice, Harvest Mice, Woodrats and more",287,150,2
-"Habromys",291,114,1
 "Habromys",291,117,1
 "Habromys",291,118,2
 "Habromys",291,120,1
 "Habromys",291,121,2
 "Habromys",291,122,2
-"Harvest Mice",287,163,2
 "Short-nosed Harvest Mouse",287,168,1
 "Darien Harvest Mouse",287,169,2
 "Slender Harvest Mouse",287,170,2
@@ -403,8 +385,6 @@ name,fileindex,index,whichChild
 "Hairy Harvest Mouse",287,201,2
 "Hairy Harvest Mouse",287,201,2
 "Hairy-tailed Tree Rat",281,84,2
-"Hamsters",281,102,2
-"Dwarf Hamsters",281,104,1
 "Long-tailed Dwarf Hamster",281,107,1
 "Striped Dwarf Hamster",281,108,2
 "Gray Dwarf Hamster",281,110,1
@@ -437,8 +417,6 @@ name,fileindex,index,whichChild
 "Hairy-footed Flying Squirrel",278,81,2
 "Harris's Antelope Squirrel",296,57,1
 "harrisii",296,57,1
-"Rabbits and Hares",254,67,1
-"Hares and Jackrabbits",277,2,1
 "Mountain Hare",277,13,1
 "Alaskan Hare",277,14,2
 "Arctic Hare",277,15,2
@@ -472,7 +450,6 @@ name,fileindex,index,whichChild
 "Natal Red Rock Hare",254,109,1
 "Smith's Red Rock Hare",254,110,2
 "Jameson's Red Rock Hare",254,111,2
-"HAPLORRHINI",254,118,1
 "Hamadryas Baboon",275,49,1
 "hamadryas",275,49,1
 "hamlyni",275,118,2
@@ -486,7 +463,6 @@ name,fileindex,index,whichChild
 "Hapalemur",260,36,1
 "Hairy-eared Dwarf Lemur",260,89,2
 "hardwickii",389,36,1
-"Harpiocephalus",389,81,2
 "Greater Hairy-winged Bat",389,82,1
 "Harpiocephalus",389,82,1
 "Lesser Hairy-winged Bat",389,83,2
@@ -523,7 +499,6 @@ name,fileindex,index,whichChild
 "Hamilton's Tomb Bat",400,89,2
 "hamiltoni",400,89,2
 "Halmahera Naked-backed Fruit Bat",366,153,1
-"Harpyionycteris",366,170,2
 "Sulawesi Harpy Fruit Bat",366,171,1
 "Harpyionycteris",366,171,1
 "Harpy Fruit Bat",366,172,2
@@ -551,7 +526,6 @@ name,fileindex,index,whichChild
 "hainanensis",388,33,1
 "Hairy-tailed Mole",380,58,2
 "Haitian Solenodon",365,178,1
-"Hairy Armadillos",333,18,1
 "Screaming Hairy Armadillo",333,20,1
 "Andean Hairy Armadillo",333,21,2
 "Large Hairy Armadillo",333,22,2
@@ -572,7 +546,6 @@ name,fileindex,index,whichChild
 "halli",109,132,2
 "hanitschi",59,11,1
 "haematiticus",38,15,1
-"Harlequin Frogs and more",63,1,1
 "Rancho Grande Harlequin Frog",63,75,1
 "Green And Red Venter Harlequin Toad",63,95,2
 "Scarlet Harlequin Toad",63,110,1
@@ -591,7 +564,6 @@ name,fileindex,index,whichChild
 "hadroceps",64,81,2
 "haddadi",48,59,2
 "haraldschultzi",48,123,1
-"Harlequin Frogs",48,195,2
 "hayii",70,108,2
 "havina",53,87,1
 "haitianus",89,53,1

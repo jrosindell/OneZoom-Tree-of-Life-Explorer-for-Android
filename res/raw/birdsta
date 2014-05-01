@@ -1,13 +1,9 @@
 name,fileindex,index,whichChild
-"Tanagers, Grosbeaks, Saltators and more",44,5,1
-"Tanagers, Conebills, Warbling-finches and more",44,8,1
 "taczanowskii",50,87,1
 "Tamarugo Conebill",50,110,1
 "tamarugense",50,110,1
 "Tawny-bellied Seedeater",52,14,2
-"Hemispingus, Mountain-Finches, Tanagers and more",51,2,1
 "White-rumped Tanager",51,24,2
-"Tanagers",51,31,1
 "Brown-flanked Tanager",51,37,1
 "Fulvous-headed Tanager",51,38,2
 "Buff-bellied Tanager",51,39,2
@@ -15,17 +11,10 @@ name,fileindex,index,whichChild
 "Rust-and-yellow Tanager",51,42,1
 "Rufous-chested Tanager",51,43,2
 "Chestnut-headed Tanager",51,44,2
-"Tanagers",51,47,1
-"Tanagers",51,68,2
-"Tanagers",51,72,1
-"Tanagers",51,82,2
 "Grey-hooded Bush Tanager",51,87,2
-"Tanagers",51,97,2
 "Rufous-crested Tanager",51,98,1
 "Slaty Tanager",51,99,2
 "Swallow Tanager",50,147,2
-"Tanagers",50,161,1
-"Tanagers",50,172,1
 "White-shouldered Tanager",50,174,1
 "Tachyphonus",50,174,1
 "Yellow-crested Tanager",50,175,2
@@ -37,10 +26,8 @@ name,fileindex,index,whichChild
 "Tachyphonus",50,179,2
 "Fulvous-crested Tanager",50,180,2
 "Tachyphonus",50,180,2
-"Tanagers",50,181,2
 "Black-goggled Tanager",50,182,1
 "Grey-headed Tanager",50,183,2
-"Tanagers",50,184,2
 "Huallaga Tanager",50,190,1
 "Silver-beaked Tanager",50,191,2
 "Brazilian Tanager",50,192,2
@@ -57,10 +44,8 @@ name,fileindex,index,whichChild
 "Tachyphonus",50,207,2
 "Red-shouldered Tanager",50,208,2
 "Tachyphonus",50,208,2
-"Tanagers",50,210,1
 "Black-and-white Tanager",50,211,1
 "Cone-billed Tanager",50,212,2
-"Tanagers",50,215,1
 "Yellow-backed Tanager",50,219,1
 "Guira Tanager",50,220,2
 "Rufous-headed Tanager",50,221,2
@@ -68,13 +53,9 @@ name,fileindex,index,whichChild
 "Sulphur-rumped Tanager",50,224,2
 "Black-and-yellow Tanager",50,226,1
 "Scarlet-and-white Tanager",50,227,2
-"Tanagers",50,238,2
-"Tanagers",44,11,1
 "Cherry-throated Tanager",44,12,1
 "Hooded Tanager",44,13,2
 "White-capped Tanager",44,16,1
-"Tanagers and more",54,0,2
-"Tanagers",54,5,1
 "Brassy-breasted Tanager",54,14,1
 "Tangara",54,14,1
 "Gilt-edged Tanager",54,15,2
@@ -175,39 +156,29 @@ name,fileindex,index,whichChild
 "Tangara",54,101,2
 "Scarlet-throated Tanager",56,44,2
 "Brown Tanager",56,54,2
-"Tanagers",55,8,1
 "taeniata",55,10,2
 "Grass-green Tanager",55,12,2
-"Tanagers",55,13,2
 "Blue-capped Tanager",55,15,2
-"Tanagers",55,16,2
-"Tanagers",55,21,2
 "Tanager Finch",55,30,2
-"Tanagers",55,31,2
 "Blue-backed Tanager",55,32,1
 "Olive-green Tanager",55,33,2
-"Tanagers",55,37,1
 "Blue-grey Tanager",55,39,1
 "Sayaca Tanager",55,40,2
 "Azure-shouldered Tanager",55,41,2
-"Tanagers",55,43,2
 "Golden-chevroned Tanager",55,46,1
 "Palm Tanager",55,47,2
 "Glaucous Tanager",55,48,2
 "Yellow-winged Tanager",55,49,2
 "Blue-and-yellow Tanager",55,50,2
 "Vermilion Tanager",54,103,2
-"Tanagers",54,118,2
 "Cinnamon Tanager",54,120,1
 "Black-faced Tanager",54,121,2
 "Magpie Tanager",54,122,2
 "White-banded Tanager",54,132,1
 "Diademed Tanager",54,134,2
-"Tanagers",54,135,2
 "Multicoloured Tanager",54,137,1
 "Orange-eared Tanager",54,138,2
 "Glistening-green Tanager",54,139,2
-"Tanagers",54,140,2
 "Yellow-scarfed Tanager",54,145,1
 "Golden-crowned Tanager",54,146,2
 "Golden-collared Tanager",54,147,2
@@ -221,13 +192,9 @@ name,fileindex,index,whichChild
 "Blue-and-gold Tanager",54,161,2
 "Orange-throated Tanager",54,162,2
 "Puerto Rican Tanager",54,177,2
-"Tanagers",54,178,2
-"Tanagers",54,181,2
 "Chat Tanager",54,183,2
-"Tanagers",54,184,2
 "Olive-backed Tanager",54,185,1
 "Dusky-faced Tanager",54,186,2
-"Tanagers",54,187,2
 "Red-billed Pied Tanager",54,188,1
 "Western Tanager",46,10,1
 "Scarlet Tanager",46,11,2
@@ -245,13 +212,11 @@ name,fileindex,index,whichChild
 "Olive Tanager",46,43,2
 "Ochre-breasted Tanager",46,44,2
 "taciturnus",47,23,2
-"Tanagers",47,89,2
 "Tacarcuna Bush-tanager",47,97,2
 "tacarcunae",47,97,2
 "tahapisi",47,210,1
 "tanagrinus",60,38,2
 "Tawny-shouldered Blackbird",60,71,2
-"Tanagers",57,167,1
 "Tawny-capped Euphonia",49,11,2
 "Tawny Pipit",44,116,2
 "taczanowskii",108,67,2
@@ -295,7 +260,6 @@ name,fileindex,index,whichChild
 "Tahiti Reed-warbler",83,15,2
 "taiti",83,18,2
 "tangorum",83,55,1
-"Prinias, Tailorbirds and more",65,72,1
 "Tawny-flanked Prinia",77,23,1
 "White-eared Tailorbird",77,51,1
 "Black-headed Tailorbird",77,52,2
@@ -353,8 +317,6 @@ name,fileindex,index,whichChild
 "tatei",35,181,1
 "Tawny-winged Woodcreeper",39,92,1
 "Tawny-throated Leaftosser",30,56,2
-"Antpittas, Tapaculos",30,80,2
-"Tapaculos",30,81,1
 "Rufous-vented Tapaculo",34,12,1
 "Long-tailed Tapaculo",34,13,2
 "Blackish Tapaculo",34,14,2
@@ -446,7 +408,6 @@ name,fileindex,index,whichChild
 "tachiro",165,58,2
 "Tawny Eagle",164,23,2
 "tanki",20,74,1
-"Tattlers",21,80,2
 "Grey-tailed Tattler",21,81,1
 "Wandering Tattler",21,82,2
 "tahitiensis",20,105,2
@@ -474,7 +435,6 @@ name,fileindex,index,whichChild
 "Talaud Bush-hen",17,53,2
 "Talaud Rail",16,32,2
 "talaudensis",16,32,2
-"Swamphen, Gallinules and Takane",16,48,2
 "Takahe",16,52,2
 "Tanna Fruit-dove",6,97,2
 "tannensis",6,97,2
@@ -493,7 +453,6 @@ name,fileindex,index,whichChild
 "Tahiti Swiftlet",153,37,2
 "Tachymarptis",153,110,1
 "Tachymarptis",153,111,2
-"TACHORNIS",153,120,1
 "Tachornis",153,122,1
 "Tachornis",153,123,2
 "Tachornis",153,124,2
@@ -508,7 +467,6 @@ name,fileindex,index,whichChild
 "Talegalla",183,32,1
 "Talegalla",183,33,2
 "Talegalla",183,34,2
-"TADORNA",27,50,1
 "Tadorna",27,55,1
 "Tadorna",27,56,2
 "tadornoides",27,57,2
@@ -517,7 +475,6 @@ name,fileindex,index,whichChild
 "tadorna",27,59,2
 "Tadorna",27,59,2
 "Tadorna",27,60,2
-"TACHYERES",28,87,1
 "Tachyeres",28,89,1
 "Tachyeres",28,90,2
 "Tachyeres",28,92,1

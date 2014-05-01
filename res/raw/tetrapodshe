@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Hemispingus, Mountain-Finches, Tanagers and more",126,1,1
 "Three-striped Hemispingus",126,16,1
 "Hemispingus",126,16,1
 "Superciliaried Hemispingus",126,44,2
@@ -108,7 +107,6 @@ name,fileindex,index,whichChild
 "hendersoni",157,23,1
 "heilprini",157,48,2
 "Helmet Vanga",195,37,1
-"Helmetshrikes, bushshrikes and puffbacks",195,56,1
 "Chestnut-bellied Helmet-shrike",195,61,1
 "White Helmet-shrike",195,62,2
 "Chestnut-fronted Helmet-shrike",195,63,2
@@ -119,7 +117,6 @@ name,fileindex,index,whichChild
 "Grey-crested Helmet-shrike",195,70,2
 "Hemipus",195,76,2
 "Hemipus",195,77,2
-"Helmet-shrikes",198,0,1
 "Helmeted Friarbird",148,94,2
 "New Hebrides Honeyeater",148,140,2
 "Chestnut-rumped Heathwren",180,44,1
@@ -206,8 +203,6 @@ name,fileindex,index,whichChild
 "Heteroscelus",223,83,1
 "Heteroscelus",223,84,2
 "St Helena Plover",119,63,1
-"Ibises, Herons and more",354,1,1
-"Herons and egrets",354,2,1
 "Rufous-bellied Heron",354,13,1
 "Squacco Heron",354,20,2
 "Grey Heron",354,40,1
@@ -243,12 +238,10 @@ name,fileindex,index,whichChild
 "Heuglin's Bustard",363,39,2
 "heuglinii",363,39,2
 "Henderson Crake",360,21,2
-"Bush hens, Waterhens and more",362,44,1
 "Heliopais",360,126,2
 "Heliornis",360,134,2
 "Henderson Fruit-dove",350,62,2
 "Hemiphaga",352,82,2
-"Bleeding heart doves, Ground-doves and more",347,43,2
 "Henicophaps",347,90,1
 "Henicophaps",347,91,2
 "hemileucurus",326,71,2
@@ -272,7 +265,6 @@ name,fileindex,index,whichChild
 "Heliangelus",332,81,2
 "hemileucurus",332,83,1
 "helenae",332,104,1
-"HELIODOXA",332,122,1
 "Heliodoxa",332,128,1
 "Heliodoxa",332,129,2
 "Heliodoxa",332,130,2
@@ -284,10 +276,8 @@ name,fileindex,index,whichChild
 "Heliodoxa",332,138,2
 "helianthea",332,194,2
 "Heliactin",330,39,2
-"HELIOTHRYX",330,40,2
 "Heliothryx",330,41,1
 "Heliothryx",330,42,2
-"Hermits and Barbthroats",325,1,1
 "Cinnamon-throated Hermit",325,8,1
 "Scale-throated Hermit",325,9,2
 "Sooty-capped Hermit",325,11,1
@@ -318,7 +308,6 @@ name,fileindex,index,whichChild
 "Broad-tipped Hermit",325,58,2
 "Rufous-breasted Hermit",325,59,2
 "Bronzy Hermit",325,60,2
-"Hemiprocnidae",324,45,2
 "Hemiprocne",324,48,1
 "Hemiprocne",324,49,2
 "Hemiprocne",324,50,2
@@ -347,13 +336,11 @@ name,fileindex,index,whichChild
 "henshawi",298,152,2
 "heteropa",304,88,2
 "heterolepis",309,40,1
-"Helmeted Iguanas",415,4,1
 "hernandezi",415,8,2
 "hemilopha",415,37,2
 "heterodermus",405,102,1
 "heterolepis",405,136,2
 "helioscopus",406,104,1
-"Heath Dragons",413,47,2
 "Heloderma",405,177,2
 "hewardii",411,48,2
 "Hemerophis",337,59,2
@@ -404,7 +391,6 @@ name,fileindex,index,whichChild
 "Heterocephalus",259,27,2
 "heinrichi",278,113,1
 "Orange Headed Tree Squirrel",296,138,1
-"Heliosciurus",296,156,2
 "Heliosciurus",296,160,1
 "Heliosciurus",296,161,2
 "Heliosciurus",296,162,2
@@ -415,7 +401,6 @@ name,fileindex,index,whichChild
 "hecki",275,16,2
 "hector",275,151,2
 "hershkovitzi",285,119,2
-"Carnivorans, Bats, Hedgehogs and more",365,0,2
 "hemprichii",391,31,2
 "helios",389,113,1
 "hesperus",389,118,1
@@ -434,7 +419,6 @@ name,fileindex,index,whichChild
 "hesperia",393,108,2
 "Heart-nosed Bat",376,164,1
 "helvum",399,44,1
-"Hemitragus",372,20,2
 "Hemitragus",372,22,1
 "Hemitragus",372,23,2
 "Hemitragus",372,24,2
@@ -448,11 +432,8 @@ name,fileindex,index,whichChild
 "Hexaprotodon",371,196,2
 "hemionus",365,146,2
 "Helarctos",381,109,1
-"Herpestidae",381,189,1
-"Helogale",384,16,1
 "Helogale",384,17,1
 "Helogale",384,18,2
-"Herpestes",384,34,1
 "Herpestes",384,40,1
 "Herpestes",384,41,2
 "Herpestes",384,42,2
@@ -466,8 +447,6 @@ name,fileindex,index,whichChild
 "hermaphroditus",385,56,2
 "Hemigalus",385,68,2
 "Heather Shrew",367,16,2
-"Hedgehogs and Gymnuras",388,0,2
-"Hedgehogs",388,1,1
 "Northern White-breasted Hedgehog",388,5,1
 "Southern White-breasted Hedgehog",388,6,2
 "Northern Hedgehog",388,8,1
@@ -479,14 +458,12 @@ name,fileindex,index,whichChild
 "Desert Hedgehog",388,21,1
 "Indian Hedgehog",388,22,2
 "Brandt's Hedgehog",388,23,2
-"Hemiechinus",388,24,2
 "Long-eared Hedgehog",388,25,1
 "Hemiechinus",388,25,1
 "Collared Hedgehog",388,26,2
 "Hemiechinus",388,26,2
 "Daurian Hedgehog",388,28,1
 "Hugh's Hedgehog",388,29,2
-"Hemicentetes",323,46,1
 "Hemicentetes",323,47,1
 "Hemicentetes",323,48,2
 "Lesser Hedgehog Tenrec",323,51,1
@@ -510,7 +487,6 @@ name,fileindex,index,whichChild
 "heloderma",50,36,2
 "helenae",49,163,1
 "heyeri",64,30,2
-"Heart-tongued Frogs",64,100,2
 "heilprini",47,84,1
 "heyeri",70,164,1
 "Heath Frog",53,115,2

@@ -4,10 +4,6 @@ name,fileindex,index,whichChild
 "Turquoise Tanager",128,34,2
 "Tumbes Sparrow",146,33,2
 "turcosus",187,50,1
-"Turdidae",183,37,1
-"Turdidae",183,96,2
-"Turdidae",193,64,2
-"Turdidae",188,3,1
 "Turdus",188,17,1
 "Turdus",188,18,2
 "Turdus",188,19,2
@@ -79,12 +75,7 @@ name,fileindex,index,whichChild
 "Turdus",188,87,2
 "Turdus",188,90,2
 "turipavae",188,121,2
-"Turdidae",188,134,1
-"Turdidae",188,160,1
-"Turdidae",188,170,2
-"Turdidae",188,209,2
 "turdoides",188,211,2
-"Turdidae",181,24,2
 "turdinus",190,125,2
 "Turdoides",164,100,1
 "Turdoides",164,104,1
@@ -125,7 +116,6 @@ name,fileindex,index,whichChild
 "turneri",170,110,1
 "Tumbes Swallow",178,141,2
 "Tufted Titmouse",169,50,2
-"Turdidae",120,11,1
 "Turkestan Ground-jay",157,24,2
 "Tufted Jay",157,49,2
 "Turquoise Jay",157,94,2
@@ -134,7 +124,6 @@ name,fileindex,index,whichChild
 "turatii",198,26,2
 "Tui",148,134,2
 "Tufted Tit-spinetail",230,38,2
-"Tuftedcheeks",231,65,1
 "Streaked Tuftedcheek",231,67,1
 "Pacific Tuftedcheek",231,68,2
 "Buffy Tuftedcheek",231,69,2
@@ -167,7 +156,6 @@ name,fileindex,index,whichChild
 "Turquoise-browed Motmot",202,204,1
 "Turkey Vulture",115,179,2
 "Tufted Puffin",212,150,2
-"Turnicidae",114,85,2
 "Turnix",114,92,1
 "Turnix",114,93,2
 "Turnix",114,94,2
@@ -184,11 +172,9 @@ name,fileindex,index,whichChild
 "Turnix",114,113,2
 "Turnix",114,114,2
 "Tuamotu Sandpiper",223,143,2
-"Turnstones",223,148,2
 "Black Turnstone",223,149,1
 "Ruddy Turnstone",223,150,2
 "turtur",357,41,2
-"Turacos",346,54,2
 "Livingstone's Turaco",346,61,1
 "Fischer's Turaco",346,62,2
 "Knysna Turaco",346,63,2
@@ -213,7 +199,6 @@ name,fileindex,index,whichChild
 "Turtur",347,15,2
 "Turtur",347,17,1
 "Turtur",347,18,2
-"Turtle doves, Collared-doves and more",348,64,2
 "Adamawa Turtle-dove",348,71,1
 "European Turtle-dove",348,72,2
 "turtur",348,72,2
@@ -231,17 +216,14 @@ name,fileindex,index,whichChild
 "tuberosum",310,57,1
 "Tufted Duck",313,92,2
 "Tundra Swan",316,38,1
-"Turtles, Tortoises and Terrapins",0,76,2
 "Chinese Three-striped Box Turtle",96,7,1
 "Yellow-headed Box Turtle",96,8,2
 "Pan's Box Turtle",96,9,2
 "Zhou's Box Turtle",96,10,2
-"Asian Box Turtles",96,14,2
 "Indochinese Box Turtle",96,18,1
 "Mccord's Box Turtle",96,21,2
 "Red-necked Pond Turtle",96,33,2
 "Annam Leaf Turtle",96,44,1
-"Asian Leaf Turtles",94,12,1
 "Asian Leaf Turtle",94,27,1
 "Giant Asian Pond Turtle",94,38,1
 "Arakan Forest Turtle",94,39,2
@@ -257,12 +239,10 @@ name,fileindex,index,whichChild
 "Ryukyu Black-breasted Leaf Turtle",94,82,1
 "Black-breasted Hill Turtle",94,83,2
 "Philippine Pond Turtle",94,86,1
-"Neotropical Wood Turtles",94,88,2
 "Black River Turtle",94,93,1
 "Furrowed Wood Turtle",94,98,2
 "Brown Land Turtle",94,102,1
 "Large-nosed Wood Turtle",94,104,2
-"Map Turtles",95,5,1
 "Barbour's Map Turtle",95,10,1
 "Texas Map Turtle",95,11,2
 "Pascagoula Map Turtle",95,12,2
@@ -284,22 +264,18 @@ name,fileindex,index,whichChild
 "Sicilian Pond Turtle",94,146,1
 "Bog Turtle",94,149,1
 "Wood Turtle",94,150,2
-"Box Turtle",94,152,1
 "Sierra Box Turtle",94,157,1
 "Ornate Box Turtle",94,158,2
 "Spotted Turtle",94,159,2
 "Chicken Turtle",94,160,2
-"Snapping Turtles",94,162,1
 "Alligator Snapping Turtle",94,163,1
 "Common Snapping Turtle",94,164,2
 "Big-headed Turtle",94,165,2
-"Ridley Sea Turtles",94,170,1
 "Hawksbill Turtle",94,174,2
 "Green Turtle",94,176,1
 "Mexican Giant Musk Turtle",94,181,1
 "Common Musk Turtle",94,182,2
 "Central American River Turtle",94,183,2
-"Softshell Turtles",343,2,1
 "Indian Peacock Softshell Turtle",343,10,1
 "Black Soft-shell Turtle",343,11,2
 "Indian Softshell Turtle",343,13,1
@@ -316,7 +292,6 @@ name,fileindex,index,whichChild
 "Indian Narrow-headed Softshell Turtle",343,36,2
 "Asian Giant Softshell Turtle",343,38,1
 "African Softshell Turtle",343,40,2
-"Flap-shell Turtles",343,41,2
 "Zambezi Flapshell Turtle",343,45,1
 "Aubry's Flapshell Turtle",343,46,2
 "Nubian Flapshell Turtle",343,47,2
@@ -324,7 +299,6 @@ name,fileindex,index,whichChild
 "Indian Flap-shelled Turtle",343,50,1
 "Burmese Flapshell Turtle",343,51,2
 "Pig-nosed Turtle",343,52,2
-"South American River Turtles",0,81,1
 "Red-headed Amazon River Turtle",0,85,1
 "Magdalena River Turtle",0,86,2
 "Six-tubercled Amazon River Turtle",0,89,1
@@ -357,7 +331,6 @@ name,fileindex,index,whichChild
 "tumbalensis",287,138,2
 "Tuva Silver Vole",284,58,2
 "tuvinicus",284,58,2
-"Tuft-tailed Rats",281,70,1
 "White-tipped Tuft-tailed Rat",281,73,1
 "Tanala Tuft-tailed Rat",281,74,2
 "Western Tuft-tailed Rat",281,76,1
@@ -365,7 +338,6 @@ name,fileindex,index,whichChild
 "Major's Tufted-tailed Rat",281,79,1
 "Webb's Tuft-tailed Rat",281,80,2
 "Tuft-tailed Spiny Tree Rat",258,104,1
-"Tuco-tuco",256,152,2
 "Tawny Tuco-tuco",257,10,1
 "tulduco",257,12,2
 "Robust Tuco-tuco",257,16,2
@@ -415,8 +387,6 @@ name,fileindex,index,whichChild
 "Turkestan Red Pika",261,22,1
 "Tufted Gray Langur",275,157,1
 "Geoffroy's Tufted-ear Marmoset",285,11,1
-"Tupaiidae",254,138,1
-"Tupaia",254,140,1
 "Tupaia",254,147,1
 "Tupaia",254,148,2
 "Tupaia",254,149,2
@@ -432,7 +402,6 @@ name,fileindex,index,whichChild
 "Tupaia",254,166,2
 "Tupaia",254,167,2
 "Tupaia",254,168,2
-"Tube-nosed Bats",389,50,1
 "Greater Tube-nosed Bat",389,59,1
 "Rufous Tube-nosed Bat",389,60,2
 "Dusky Tube-nosed Bat",389,61,2
@@ -454,7 +423,6 @@ name,fileindex,index,whichChild
 "tumidifrons",365,59,1
 "turpis",378,27,2
 "tuberculatus",366,55,2
-"Tube-nosed Bats",387,52,2
 "Pallas's Tube-nosed Bat",387,59,1
 "Demonic Tube-nosed Bat",387,60,2
 "Philippine Tube-nosed Fruit Bat",387,61,2
@@ -471,7 +439,6 @@ name,fileindex,index,whichChild
 "Unstriped Tube-nosed Bat",387,78,2
 "Western Tur",372,30,2
 "Tufted Deer",374,44,2
-"Tursiops",373,10,1
 "Tursiops",373,11,1
 "Tursiops",373,12,2
 "Tumultuous Shrew",367,90,2

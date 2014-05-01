@@ -76,7 +76,6 @@ name,fileindex,index,whichChild
 "Petrochelidon",178,69,2
 "Peruvian Martin",178,107,2
 "personata",173,33,2
-"Penduline-tits",161,134,2
 "Mouse-coloured Penduline-tit",161,140,1
 "Sennar Penduline-tit",161,141,2
 "Forest Penduline-tit",161,142,2
@@ -88,7 +87,6 @@ name,fileindex,index,whichChild
 "Chinese Penduline-tit",161,151,2
 "Black-headed Penduline-tit",161,152,2
 "White-crowned Penduline-tit",161,153,2
-"Petroicidae",151,0,2
 "Petroica",151,12,1
 "Petroica",151,13,2
 "Petroica",151,15,1
@@ -109,7 +107,6 @@ name,fileindex,index,whichChild
 "Perisoreus",157,110,2
 "Perisoreus",157,111,2
 "percivali",155,10,2
-"Peppershrikes",152,112,1
 "pectoralis",152,121,2
 "Black-billed Peppershrike",152,152,1
 "Rufous-browed Peppershrike",152,153,2
@@ -168,7 +165,6 @@ name,fileindex,index,whichChild
 "pelzelni",245,224,2
 "pernix",238,32,2
 "perspicillatus",235,34,2
-"Phoebes, Pewees and other flycatchers",243,2,1
 "Hispaniolan Pewee",243,41,1
 "Tumbes Pewee",243,43,2
 "Ochraceous Pewee",243,45,1
@@ -247,11 +243,6 @@ name,fileindex,index,whichChild
 "peronii",119,60,2
 "pecuarius",119,104,2
 "Peruvian Thick-knee",114,163,2
-"Flamingos, Petrels and more",346,0,2
-"PELECANIFORMES",354,0,1
-"Pelicans, Shoebill and Hamerkop",354,192,2
-"Pelicans",354,193,1
-"Pelecanidae",354,193,1
 "American White Pelican",354,197,1
 "Pelecanus",354,197,1
 "Brown Pelican",354,198,2
@@ -273,8 +264,6 @@ name,fileindex,index,whichChild
 "Pelagic Cormorant",364,51,1
 "pelagicus",364,51,1
 "Peruvian Booby",364,81,2
-"Albatrosses, Shearwaters and Petrels",357,1,1
-"Petrels and shearwaters",357,6,1
 "Mascarene Petrel",359,8,1
 "Beck's Petrel",359,40,2
 "Fiji Petrel",357,16,2
@@ -318,27 +307,22 @@ name,fileindex,index,whichChild
 "Bermuda Petrel",358,60,2
 "Black-capped Petrel",358,61,2
 "Soft-plumaged Petrel",358,62,2
-"Petrels and shearwaters",357,32,1
 "Blue Petrel",357,45,2
 "Kerguelen Petrel",357,46,2
-"Pelecanoididae",357,47,2
 "Pelecanoides",357,50,1
 "Pelecanoides",357,51,2
 "Pelecanoides",357,52,2
 "Peruvian Diving-petrel",357,53,2
 "Pelecanoides",357,53,2
-"Petrels and shearwaters",357,54,2
 "Cape Petrel",357,63,2
 "Antarctic Petrel",357,65,1
 "Snow Petrel",357,66,2
 "Pelagodroma",357,115,2
 "pelagicus",357,139,2
-"Penguins",357,152,2
 "Fiordland Penguin",357,160,1
 "Snares Penguin",357,161,2
 "Macaroni Penguin",357,163,1
 "Royal Penguin",357,164,2
-"Rockhopper Penguins",357,165,2
 "Southern Rockhopper Penguin",357,166,1
 "Northern Rockhopper Penguin",357,167,2
 "Erect-crested Penguin",357,168,2
@@ -385,7 +369,6 @@ name,fileindex,index,whichChild
 "perdix",312,58,2
 "Perdix",312,58,2
 "Perdix",312,59,2
-"Peacock-Pheasants",312,175,1
 "Bronze-tailed Peacock-pheasant",312,181,1
 "Grey Peacock-pheasant",312,182,2
 "Mountain Peacock-pheasant",312,183,2
@@ -394,12 +377,9 @@ name,fileindex,index,whichChild
 "Bornean Peacock-pheasant",312,187,1
 "Malayan Peacock-pheasant",312,188,2
 "Palawan Peacock-pheasant",312,189,2
-"Peafowl or Peacocks",312,196,2
-"Peafowl or Peacocks",312,196,2
 "Indian Peafowl",312,198,1
 "Green Peafowl",312,199,2
 "Congo Peafowl",312,200,2
-"PERDICULA",317,63,1
 "Perdicula",317,66,1
 "Perdicula",317,67,2
 "Perdicula",317,68,2
@@ -482,7 +462,6 @@ name,fileindex,index,whichChild
 "Percival's Spiny Mouse",269,32,2
 "percivali",269,32,2
 "Peter's Mouse",269,134,2
-"Pelomys",269,202,1
 "Pelomys",269,206,1
 "Pelomys",269,207,2
 "Pelomys",269,208,2
@@ -491,7 +470,6 @@ name,fileindex,index,whichChild
 "Koopman's Peleng Island Rat",267,37,1
 "Peleng Island Xanthurus Rat",267,80,2
 "pelurus",267,80,2
-"Pencil-tailed Tree Mice",267,174,1
 "Koopman's Pencil-tailed Tree Mouse",267,178,1
 "Greater Pencil-tailed Tree Mouse",267,179,2
 "Pencil-tailed Tree Mouse",267,180,2
@@ -510,7 +488,6 @@ name,fileindex,index,whichChild
 "persicus",265,37,1
 "Petter's Gerbil",265,86,1
 "petteri",265,86,1
-"Petromyscus",263,148,1
 "Petromyscus",263,150,1
 "Petromyscus",263,151,2
 "Petromyscus",263,153,1
@@ -529,7 +506,6 @@ name,fileindex,index,whichChild
 "Peruvian Cotton Rat",287,126,2
 "peruanus",287,126,2
 "Peter's Climbing Rat",287,144,1
-"Peromyscus",291,1,1
 "Peromyscus",291,10,1
 "Peromyscus",291,11,2
 "Peromyscus",291,13,1
@@ -594,13 +570,11 @@ name,fileindex,index,whichChild
 "penicillatus",281,73,1
 "Pel's Flying Squirrel",254,17,2
 "pelii",254,17,2
-"Pedetidae",254,23,2
 "Pedetes",254,24,1
 "Pedetes",254,25,2
 "personatus",255,83,2
 "penicillatus",255,114,2
 "pernix",255,118,2
-"Perognathus",255,133,2
 "Perognathus",255,137,1
 "Perognathus",255,138,2
 "Perognathus",255,140,1
@@ -622,7 +596,6 @@ name,fileindex,index,whichChild
 "perrensi",256,175,2
 "Speke's Pectinator",254,52,2
 "Pectinator",254,52,2
-"Petinomys",278,10,1
 "Petinomys",278,15,1
 "Petinomys",278,16,2
 "Petinomys",278,17,2
@@ -632,11 +605,9 @@ name,fileindex,index,whichChild
 "Petinomys",278,24,2
 "Petinomys",278,25,2
 "Petinomys",278,26,2
-"Petaurillus",278,37,2
 "Petaurillus",278,39,1
 "Petaurillus",278,40,2
 "Petaurillus",278,41,2
-"Petaurista",278,60,1
 "Petaurista",278,66,1
 "Petaurista",278,67,2
 "Petaurista",278,68,2
@@ -698,7 +669,6 @@ name,fileindex,index,whichChild
 "Pearson's Horseshoe Bat",377,26,2
 "pearsonii",377,26,2
 "Peninsular Horseshoe Bat",377,37,2
-"Peropteryx",400,6,1
 "Peropteryx",400,9,1
 "Peropteryx",400,10,2
 "Peropteryx",400,11,2
@@ -727,7 +697,6 @@ name,fileindex,index,whichChild
 "Chacoan Peccary",401,39,2
 "Collared Peccary",401,40,2
 "Pecari",401,40,2
-"PERISSODACTYLA",365,117,2
 "pennanti",383,57,2
 "peregusna",383,71,2
 "perspicillata",386,20,1
@@ -744,7 +713,6 @@ name,fileindex,index,whichChild
 "Pere David's Mole",380,38,2
 "Petrodromus",323,109,2
 "petersi",323,113,2
-"Petrogale",110,7,1
 "penicillata",110,13,1
 "Petrogale",110,13,1
 "Petrogale",110,14,2
@@ -761,12 +729,9 @@ name,fileindex,index,whichChild
 "Petrogale",110,30,2
 "Petrogale",110,31,2
 "penicillata",110,125,2
-"Petauroidea",112,1,1
 "peregrinus",112,17,2
 "Petropseudes",112,29,2
 "Petauroides",112,32,2
-"Petauridae",112,34,1
-"Petaurus",112,35,1
 "Petaurus",112,39,1
 "Petaurus",112,40,2
 "Petaurus",112,41,2
@@ -776,9 +741,6 @@ name,fileindex,index,whichChild
 "pennatus",112,57,1
 "Peleng Cuscus",112,79,2
 "pelengensis",112,79,2
-"PERAMELEMORPHIA",109,23,2
-"Peramelidae",109,24,1
-"Peroryctes",109,38,1
 "Peroryctes",109,39,1
 "Peroryctes",109,40,2
 "Perameles",109,53,2

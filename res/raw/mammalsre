@@ -9,10 +9,8 @@ name,fileindex,index,whichChild
 "Red Hocicudo",23,172,1
 "Red Arboreal Rice Rat",27,90,2
 "rex",27,107,2
-"Reithrodon",21,52,1
 "Reithrodon",21,53,1
 "Reithrodon",21,54,2
-"Reithrodontomys",21,163,2
 "Reithrodontomys",21,168,1
 "Reithrodontomys",21,169,2
 "Reithrodontomys",21,170,2
@@ -58,7 +56,6 @@ name,fileindex,index,whichChild
 "Revillagigedo Island Red-backed Vole",7,41,1
 "Tien Shan Red-backed Vole",7,44,1
 "Northern Red-backed Vole",7,45,2
-"Red Forest Rats",4,90,1
 "Lowland Red Forest Rat",4,92,1
 "Lowland Red Forest Rat",4,93,2
 "Eastern Red Forest Rat",4,94,2
@@ -74,7 +71,6 @@ name,fileindex,index,whichChild
 "Eurasian Red Squirrel",82,36,2
 "Red-tailed Squirrel",82,45,2
 "Red Squirrel",82,69,2
-"Red-cheeked Squirrel",78,32,1
 "Asian Red-cheeked Squirrel",78,38,1
 "Red-hipped Squirrel",78,41,1
 "Red-throated Squirrel",78,42,2
@@ -93,7 +89,6 @@ name,fileindex,index,whichChild
 "Red-tailed Monkey",41,13,2
 "Red-eared Monkey",41,17,2
 "Red-shanked Douc Langur",40,80,2
-"Red Colobus Monkeys",40,86,1
 "Red-cheeked Gibbon",37,27,2
 "Red-chested Mustached Tamarin",38,50,2
 "regulus",42,15,2
@@ -133,7 +128,6 @@ name,fileindex,index,whichChild
 "Red-fronted Gazelle",66,30,1
 "Red-flanked Duiker",65,19,2
 "Natal Red Duiker",65,20,2
-"Redunca",63,29,2
 "Southern Reedbuck",63,31,1
 "Redunca",63,31,1
 "Bohor Reedbuck",63,32,2

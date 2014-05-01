@@ -38,12 +38,8 @@ name,fileindex,index,whichChild
 "Spotted Tanager",128,79,2
 "Speckled Tanager",128,81,2
 "speculifera",128,178,1
-"Buntings, American sparrows and more",124,83,1
 "speculiferus",124,90,2
-"Buntings, American sparrows and more",124,184,2
 "Spiza",124,197,2
-"New World Warblers, Buntings, American Sparrows and more",142,2,1
-"Buntings, American sparrows and more",142,5,1
 "Spotted Towhee",145,26,2
 "Cabanis's Ground Sparrow",145,43,2
 "Rufous-crowned Sparrow",145,49,1
@@ -93,7 +89,6 @@ name,fileindex,index,whichChild
 "Spizella",142,47,2
 "Five-striped Sparrow",142,49,1
 "Black-throated Sparrow",142,50,2
-"Buntings, American sparrows and more",146,1,1
 "Olive Sparrow",146,7,1
 "Tocuyo Sparrow",146,8,2
 "Green-backed Sparrow",146,9,2
@@ -112,11 +107,9 @@ name,fileindex,index,whichChild
 "Stripe-capped Sparrow",146,32,1
 "Tumbes Sparrow",146,33,2
 "Lark Sparrow",142,71,2
-"Buntings, American sparrows and more",142,82,2
 "spodocephala",142,129,2
 "spurius",147,19,2
 "Spot-breasted Oriole",147,28,1
-"New World warblers, Buntings, American Sparrows and more",142,184,2
 "Spectacled Redstart",144,24,1
 "speciosa",144,175,2
 "Jamaican Spindalis",142,198,1
@@ -127,7 +120,6 @@ name,fileindex,index,whichChild
 "Spindalis",142,200,2
 "Hispaniolan Spindalis",142,201,2
 "Spindalis",142,201,2
-"Buntings, American sparrows and more",121,8,2
 "spinescens",138,19,2
 "spinus",138,38,1
 "spinoides",135,68,1
@@ -138,7 +130,6 @@ name,fileindex,index,whichChild
 "spinoletta",123,14,1
 "Sprague's Pipit",123,44,1
 "spragueii",123,44,1
-"Sparrows, Snowfinches and more",121,19,2
 "Chestnut Sparrow",122,10,2
 "Eurasian Tree Sparrow",122,14,1
 "Desert Sparrow",122,15,2
@@ -173,13 +164,10 @@ name,fileindex,index,whichChild
 "spekeoides",140,26,2
 "Speke's Weaver",140,35,2
 "spekei",140,35,2
-"Sparrows, snowfinches and more",140,147,2
-"Sparrows, snowfinches and more",140,163,1
 "Chestnut-backed Sparrow-weaver",140,165,1
 "Donaldson-Smith's Sparrow-weaver",140,166,2
 "Chestnut-crowned Sparrow-weaver",140,168,1
 "White-browed Sparrow-weaver",140,169,2
-"Sparrows, snowfinches and more",140,173,1
 "Speckle-fronted Weaver",140,175,1
 "Sporopipes",140,175,1
 "Sporopipes",140,176,2
@@ -274,7 +262,6 @@ name,fileindex,index,whichChild
 "Spizocorys",173,35,2
 "Spizocorys",173,36,2
 "Spike-heeled Lark",161,83,1
-"Sparrow-larks",161,96,1
 "Chestnut-headed Sparrow-lark",161,101,1
 "Black-crowned Sparrow-lark",161,102,2
 "Fischer's Sparrow-lark",161,103,2
@@ -311,8 +298,6 @@ name,fileindex,index,whichChild
 "splendens",120,94,1
 "Spotted Bowerbird",120,149,2
 "Spotted Catbird",120,160,2
-"Canasteros, Spinetails and more",233,1,1
-"Spinetails",233,3,1
 "Pale-breasted Spinetail",233,12,1
 "Sooty-fronted Spinetail",233,13,2
 "Azara's Spinetail",233,14,2
@@ -353,7 +338,6 @@ name,fileindex,index,whichChild
 "Chestnut-throated Spinetail",233,75,1
 "Grey-bellied Spinetail",233,76,2
 "Great Spinetail",233,82,2
-"Spinetails",234,0,1
 "Bolivian Spinetail",234,9,1
 "Olive Spinetail",234,10,2
 "Stripe-crowned Spinetail",234,11,2
@@ -412,7 +396,6 @@ name,fileindex,index,whichChild
 "Spectacled Tyrant",235,34,2
 "spadiceus",236,65,1
 "spectabilis",244,26,2
-"Spadebills",235,67,1
 "Yellow-throated Spadebill",235,71,1
 "White-crested Spadebill",235,72,2
 "Golden-crowned Spadebill",235,73,2
@@ -476,7 +459,6 @@ name,fileindex,index,whichChild
 "Spotted Owlet",224,111,1
 "Speckled Hawk-owl",224,162,1
 "sphenurus",115,33,1
-"Sparrowhawks and more",117,0,2
 "spilonotus",117,28,1
 "Spotted Harrier",117,29,2
 "Frances's Sparrowhawk",117,34,2
@@ -526,7 +508,6 @@ name,fileindex,index,whichChild
 "spinosus",119,18,2
 "Spotted Thick-knee",114,157,2
 "speciosa",354,14,2
-"Ibises and spoonbills",354,125,2
 "spinicollis",354,141,2
 "Eurasian Spoonbill",354,145,1
 "Black-faced Spoonbill",354,146,2
@@ -538,7 +519,6 @@ name,fileindex,index,whichChild
 "Spot-billed Pelican",354,202,2
 "Spotted Shag",364,15,2
 "Spectacled Petrel",357,24,2
-"SPHENISCIFORMES",357,152,2
 "Spheniscus",357,173,1
 "Spheniscus",357,174,2
 "Spheniscus",357,176,1
@@ -662,13 +642,8 @@ name,fileindex,index,whichChild
 "Spiny-Tailed Lizard",299,121,2
 "Spanish Algyroides",308,30,2
 "Spanish Psammodromus",298,193,1
-"Spined Tegus",304,47,2
 "speciosus",304,55,1
-"Spectacled Lizards",304,72,2
-"Spectacled Lizards",304,91,2
 "spinulosus",405,21,2
-"Spinytail Iguanas",415,31,1
-"Spiny Lizards",408,1,1
 "Crevice Spiny Lizard",408,20,1
 "Graphic Spiny Lizard",408,23,2
 "spinosus",408,37,2
@@ -682,7 +657,6 @@ name,fileindex,index,whichChild
 "spilopterus",406,78,1
 "White Spotted Flying Lizard",406,80,2
 "spinipes",413,89,2
-"Spiny-tailed Lizards",405,150,1
 "Mesopotamian Spiny-tailed Lizard",405,153,1
 "spectrum",410,43,2
 "spenceri",407,34,2
@@ -706,14 +680,12 @@ name,fileindex,index,whichChild
 "Sphaerodactylus",318,82,2
 "Sphaerodactylus",318,83,2
 "Sphaerodactylus",318,84,2
-"Spiny-tailed Geckos",320,33,1
 "spinigerus",320,36,1
 "sphyrurus",318,144,1
 "Sphenodon",0,119,2
 "spechti",266,29,2
 "Spinifex Hopping Mouse",266,93,2
 "spriggsarum",270,46,2
-"Spiny Mice",269,6,1
 "Western Saharan Spiny Mouse",269,15,1
 "Seurat's Spiny Mouse",269,16,2
 "Arabian Spiny Mouse",269,18,1
@@ -744,12 +716,10 @@ name,fileindex,index,whichChild
 "Large Spiny Rat",267,100,2
 "Small Spiny Rat",267,103,2
 "speciosus",273,12,1
-"Spiny Rats",273,44,2
 "Okinawa Spiny Rat",273,45,1
 "Amami Spiny Rat",273,46,2
 "Spiny Tarsomys",271,36,1
 "Spiny Lowland Margaretamys",271,51,1
-"Spalax",263,159,1
 "Spalax",263,165,1
 "Spalax",263,166,2
 "Spalax",263,167,2
@@ -765,7 +735,6 @@ name,fileindex,index,whichChild
 "spinosus",289,184,2
 "speciosus",293,109,2
 "Sprightly Pygmy Rice Rat",287,34,1
-"Spiny Mice",292,80,2
 "South American Spiny Mouse",292,81,1
 "Ucayali Spiny Mouse",292,82,2
 "Splendid Climbing Mouse",294,31,2
@@ -777,7 +746,6 @@ name,fileindex,index,whichChild
 "spalacinus",281,152,1
 "East African Spring-hare",254,24,1
 "Springhaas",254,25,2
-"Spiny Pocket Mice",255,8,1
 "Jaliscan Spiny Pocket Mouse",255,15,1
 "spectabilis",255,15,1
 "Painted Spiny Pocket Mouse",255,16,2
@@ -793,7 +761,6 @@ name,fileindex,index,whichChild
 "Spiny Pocket Mouse",255,122,2
 "spinatus",255,122,2
 "spectabilis",255,185,1
-"Spiny Rats, Tree Rats and more",258,0,1
 "Dark Spiny Tree-rat",258,31,2
 "Arboreal Soft-furred Spiny Rat",258,40,1
 "Brazilian Spiny Tree Rat",258,44,1
@@ -832,7 +799,6 @@ name,fileindex,index,whichChild
 "Guaira Spiny Rat",258,138,2
 "Spix's Yellow-toothed Cavy",259,45,1
 "spixii",259,45,1
-"Sphiggurus",256,122,1
 "Sphiggurus",256,126,1
 "Sphiggurus",256,127,2
 "Sphiggurus",256,128,2
@@ -848,7 +814,6 @@ name,fileindex,index,whichChild
 "spadiceus",278,36,2
 "Spotted Giant Flying Squirrel",278,69,2
 "spadiceus",279,24,2
-"Spermophilus",296,6,1
 "Spermophilus",297,17,1
 "Spermophilus",297,18,2
 "Spermophilus",297,19,2
@@ -897,7 +862,6 @@ name,fileindex,index,whichChild
 "Spermophilopsis",296,181,2
 "sphinx",275,67,2
 "Lesser Spot-nosed Monkey",275,89,1
-"Spider Monkeys",286,15,2
 "Variegated Or Brown Spider Monkey",286,19,1
 "Long-haired Spider Monkey",286,20,2
 "Black-faced Black Spider Monkey",286,22,1
@@ -906,7 +870,6 @@ name,fileindex,index,whichChild
 "Geoffroy's Spider Monkey",286,26,2
 "Guiana Spider Monkey",286,27,2
 "Spectral Tarsier",254,126,2
-"Sportive Lemurs",260,41,2
 "Sahafary Sportive Lemur",260,45,1
 "Ankarana Sportive Lemur",260,46,2
 "Red-tailed Sportive Lemur",260,47,2
@@ -956,10 +919,8 @@ name,fileindex,index,whichChild
 "Spectacled Porpoise",373,74,1
 "spinipinnis",373,79,1
 "Spade-toothed Whale",371,138,1
-"Sperm Whales",371,164,2
 "Pygmy Sperm Whale",371,166,1
 "Dwarf Sperm Whale",371,167,2
-"Spilogale",386,29,1
 "Eastern Spotted Skunk",386,32,1
 "Spilogale",386,32,1
 "Western Spotted Skunk",386,33,2
@@ -975,7 +936,6 @@ name,fileindex,index,whichChild
 "Andaman Spiny Shrew",369,11,2
 "Spectacled Hare Wallaby",110,78,1
 "spadix",110,90,1
-"Spilocuscus",112,83,2
 "Common Spotted Cuscus",112,85,1
 "Spilocuscus",112,85,1
 "Spilocuscus",112,86,2
@@ -1001,7 +961,6 @@ name,fileindex,index,whichChild
 "spilota",49,65,2
 "spinosa",49,78,2
 "spiculata",49,101,1
-"Spikethumb Frogs",40,4,1
 "Spotted Chorus Frog",40,118,2
 "Spring Peeper",40,126,2
 "spatulatus",40,195,1
@@ -1075,18 +1034,14 @@ name,fileindex,index,whichChild
 "spinalis",26,26,2
 "Spelaeophryne",25,179,2
 "Spotted Snout-burrower",25,191,2
-"Spadefoot Toads, Asian Horned Frogs and more",1,51,2
 "Spiny-fingered Horned Toad",71,15,1
 "spinata",71,15,1
 "Java Spadefoot Toad",37,72,1
 "Chapa Spadefoot Toad",37,75,2
-"European Spadefoot Toads",1,158,2
 "Varaldi's Spadefoot Toad",1,161,1
 "Western Spadefoot",1,162,2
 "Common Spadefoot",1,163,2
 "Eastern Spadefoot",1,164,2
-"American Spadefoot Toads",1,166,1
-"Western Spadefoot Toads",1,167,1
 "Great Basin Spadefoot",1,170,1
 "Spea",1,170,1
 "Western Spadefoot",1,171,2
@@ -1095,18 +1050,15 @@ name,fileindex,index,whichChild
 "Spea",1,172,2
 "Plains Spadefoot",1,173,2
 "Spea",1,173,2
-"Southern Spadefoot Toads",1,174,2
 "Eastern Spadefoot",1,176,1
 "Hurter's Spadefoot",1,177,2
 "Couch's Spadefoot",1,178,2
 "spongai",102,33,2
 "spilogaster",108,41,2
-"Splayfoot Salamanders",106,71,1
 "Blanco River Springs Salamander",104,14,2
 "spelaea",104,32,2
 "Barton Springs Salamander",104,44,1
 "San Gabriel Springs Salamander",104,49,1
-"Spring Salamanders",104,53,1
 "Spring Salamander",104,58,2
 "West Virginia Spring Salamander",104,60,2
 "Spot-tailed Warty Newt",103,52,1

@@ -178,8 +178,6 @@ name,fileindex,index,whichChild
 "White-tailed Nuthatch",91,37,1
 "White-breasted Nuthatch",91,40,2
 "Olive-flanked Whistler",43,28,1
-"Whiteyes, Babblers, Parrotbills and more",65,4,1
-"Whiteyes, Babblers and Parrotbills",65,5,1
 "White-throated Laughingthrush",74,17,1
 "White-browed Laughingthrush",74,42,2
 "White-necked Laughingthrush",74,62,1
@@ -195,7 +193,6 @@ name,fileindex,index,whichChild
 "White-chested Babbler",75,54,2
 "White-hooded Babbler",72,80,1
 "White-browed Scimitar-babbler",72,99,2
-"White-eyes",85,5,1
 "Bare-eyed White-eye",86,7,1
 "Sanford's White-eye",86,8,2
 "Sao Tome White-eye",86,9,2
@@ -289,7 +286,6 @@ name,fileindex,index,whichChild
 "Pygmy White-eye",85,131,2
 "Golden White-eye",85,132,2
 "whiteheadi",85,145,2
-"White-eyes",85,151,1
 "Long-billed White-eye",85,152,1
 "Faichuk White-eye",85,153,2
 "White-bibbed Babbler",85,154,2
@@ -392,34 +388,27 @@ name,fileindex,index,whichChild
 "White-eyed Vireo",139,37,2
 "White-bellied Yuhina",132,39,2
 "White-browed Shrike-babbler",132,46,1
-"Whistlers and more",132,50,1
-"Whistlers",134,9,1
 "Green-backed Whistler",134,13,1
 "Mangrove Whistler",134,14,2
 "Sulphur-bellied Whistler",134,15,2
 "Bornean Whistler",134,16,2
 "Yellow-bellied Whistler",134,17,2
-"Whistlers",134,19,1
 "Brown-backed Whistler",134,21,1
 "Lorentz's Whistler",134,22,2
 "White-bellied Whistler",134,23,2
 "White-bellied Whistler",134,23,2
-"Whistlers",134,29,1
 "White-breasted Whistler",134,30,1
 "White-breasted Whistler",134,30,1
 "Rufous Whistler",134,31,2
 "Drab Whistler",134,33,1
 "Wallacean Whistler",134,35,2
 "Golden-backed Whistler",134,36,2
-"Whistlers",134,37,2
 "Rusty Whistler",134,39,1
 "Island Whistler",134,40,2
 "Grey Whistler",134,41,2
-"Whistlers",134,42,2
 "Black-tailed Whistler",134,44,1
 "Golden Whistler",134,45,2
 "Hooded Whistler",134,46,2
-"Whistlers",134,47,2
 "White-vented Whistler",134,49,1
 "White-vented Whistler",134,49,1
 "Black-headed Whistler",134,50,2
@@ -427,13 +416,11 @@ name,fileindex,index,whichChild
 "Tongan Whistler",134,53,2
 "New Caledonian Whistler",134,54,2
 "Sclater's Whistler",134,55,2
-"Whistlers",134,56,2
 "Red-lored Whistler",134,59,1
 "Gilbert's Whistler",134,60,2
 "Vogelkop Whistler",134,62,1
 "Olive Whistler",134,63,2
 "Fawn-breasted Whistler",134,64,2
-"Whistlers",134,65,2
 "Bare-throated Whistler",134,66,1
 "Samoan Whistler",134,67,2
 "Maroon-backed Whistler",134,70,2
@@ -456,11 +443,8 @@ name,fileindex,index,whichChild
 "White-bellied Cuckooshrike",141,111,1
 "White-breasted Cuckooshrike",141,129,1
 "White-bellied Minivet",132,104,2
-"Whipbirds, Quail-Thrushes and more",132,105,2
-"Whipbirds, wedgebills and jewel-babblers",132,118,2
 "Whitehead",132,126,2
 "Papuan Whipbird",132,130,2
-"Whipbirds, wedgebills and jewel-babblers",132,132,1
 "Western Whipbird",132,135,2
 "Eastern Whipbird",132,138,2
 "White-browed Babbler",29,13,1
@@ -483,7 +467,6 @@ name,fileindex,index,whichChild
 "White-fronted Chat",113,131,1
 "whitei",113,153,2
 "White-browed Scrubwren",114,13,1
-"Whitefaces",112,107,1
 "Chestnut-breasted Whiteface",112,109,1
 "Banded Whiteface",112,110,2
 "Southern Whiteface",112,111,2
@@ -768,8 +751,6 @@ name,fileindex,index,whichChild
 "White-sided Hillstar",160,48,2
 "White-crested Coquette",160,93,2
 "White-tailed Hillstar",160,141,2
-"Whitetips, Coronets and more",160,142,2
-"Whitetips",160,150,1
 "Rufous-vented Whitetip",160,151,1
 "Purple-bibbed Whitetip",160,152,2
 "White-tailed Starfrontlet",160,198,2
@@ -819,9 +800,7 @@ name,fileindex,index,whichChild
 "White-headed Duck",27,142,1
 "Lesser White-fronted Goose",27,160,2
 "Greater White-fronted Goose",27,164,1
-"White Geese",27,166,2
 "Whooper Swan",27,187,2
-"Whistling-Ducks",27,198,1
 "Fulvous Whistling-duck",27,203,1
 "Plumed Whistling-duck",27,204,2
 "Lesser Whistling-duck",27,205,2

@@ -25,8 +25,6 @@ name,fileindex,index,whichChild
 "genibarbis",181,36,1
 "genibarbis",190,28,1
 "georgiana",151,66,2
-"Thornbills and gerygones",180,0,2
-"Gerygones",180,85,2
 "Golden-bellied Gerygone",180,92,1
 "Gerygone",180,92,1
 "White-throated Gerygone",180,93,2
@@ -130,12 +128,7 @@ name,fileindex,index,whichChild
 "Germain's Peacock-pheasant",312,184,2
 "germaini",312,184,2
 "geelvinkianus",310,107,2
-"Ducks, Geese and Swans",310,131,1
 "georgica",313,144,1
-"True Geese",316,3,1
-"Grey Geese",316,5,1
-"White Geese",316,18,2
-"Black Geese",316,23,2
 "gemeli",94,33,1
 "Geoclemys",94,75,2
 "Geoemyda",94,82,1
@@ -175,9 +168,6 @@ name,fileindex,index,whichChild
 "Gerarda",340,162,2
 "Gerrhopilus",334,151,2
 "Geocalamus",334,178,2
-"Geckos and Legless Lizards",318,0,2
-"Geckos",318,1,1
-"Web-toed Geckos",319,4,1
 "Gehyra",319,10,1
 "Gehyra",319,11,2
 "Gehyra",319,12,2
@@ -188,50 +178,27 @@ name,fileindex,index,whichChild
 "Gehyra",319,20,2
 "Gehyra",319,21,2
 "Gehyra",319,22,2
-"Thick-toed Geckos",319,26,1
 "Geckolepis",319,37,2
-"Day Geckos",319,38,2
-"House Geckos",318,18,1
 "Turkish Gecko",318,28,1
-"Dwarf Geckos",318,39,1
-"Croaking Geckos",318,44,2
-"Bent-toed Geckos",318,56,1
 "Small Bent-toed Gecko",318,57,1
-"False Geckos",321,5,1
 "Cylindrical-bodied Smooth-scaled Gecko",321,7,1
 "Green Smooth-scaled Gecko",321,8,2
 "Orange-spotted Smooth-scaled Gecko",321,9,2
-"Marbled Geckos",321,11,2
-"Scaly-toed Geckos",321,16,1
 "Yellow-lined Smooth-scaled Gecko",321,18,1
 "Christian Scaly-toed Gecko",321,19,2
-"Wonder Geckos",321,24,1
-"Leaf-toed Geckos",321,30,2
 "Leaf-toed Gecko",321,33,1
 "gerrhopygus",321,34,2
-"Calling Geckos",318,65,2
 "Mindoro Narrow-disked Gecko",318,67,1
 "Gekko",318,67,1
 "Gekko",318,68,2
 "Gekko",318,69,2
 "Reef Gecko",318,77,1
-"Scaly-eyed Geckos",318,85,2
-"Dwarf Geckos",318,88,2
-"Banded Geckos",318,103,1
 "Western Banded Gecko",318,106,1
 "Texas Banded Gecko",318,107,2
 "Reticulate Banded Gecko",318,108,2
 "Kuroiwa's Ground Gecko",318,118,2
-"Geckos",318,121,1
-"Spiny-tailed Geckos",320,33,1
-"Velvet Geckos",320,45,1
 "gemmata",320,53,2
-"Leaf-tailed Geckos",318,125,1
-"Knob-tailed Geckos",318,133,1
 "Chameleon Gecko",318,148,2
-"Hamsters, Gerbils, True Mice, Rats and more",254,7,1
-"Gerbils, Jirds and Sand Rats",263,114,1
-"Gerbils",263,115,1
 "Waters's Gerbil",268,11,1
 "Gerbillus",268,11,1
 "Sudan Gerbil",268,12,2
@@ -305,7 +272,6 @@ name,fileindex,index,whichChild
 "Gerbillus",263,119,1
 "Gerbillus",263,120,2
 "Somali Pygmy Gerbil",263,121,2
-"Gerbillurus",263,123,1
 "Bushy-tailed Hairy-footed Gerbil",263,126,1
 "Gerbillurus",263,126,1
 "Hairy-footed Gerbil",263,127,2
@@ -315,8 +281,6 @@ name,fileindex,index,whichChild
 "Dune Hairy-footed Gerbil",263,129,2
 "Gerbillurus",263,129,2
 "Cape Short-eared Gerbil",263,130,2
-"Gerbils, Jirds and Sand Rats",265,0,2
-"Gerbils, Jirds and Sand Rats",265,5,1
 "Mongolian Gerbil",265,15,1
 "Mid-day Gerbil",265,29,1
 "Indian Desert Gerbil",265,35,2
@@ -353,7 +317,6 @@ name,fileindex,index,whichChild
 "Petter's Gerbil",265,86,1
 "Pouched Gerbil",265,88,2
 "Geoxus",289,123,2
-"Gerbil Mice",289,192,1
 "Morgan's Gerbil Mouse",289,195,1
 "Monte Gerbil Mouse",289,196,2
 "Andean Gerbil Mouse",289,197,2
@@ -364,7 +327,6 @@ name,fileindex,index,whichChild
 "Gerbe's Vole",282,30,2
 "gerbei",282,30,2
 "Gerbil Mouse",281,213,2
-"Geomys",255,68,2
 "Geomys",255,74,1
 "Geomys",255,75,2
 "Geomys",255,76,2
@@ -374,7 +336,6 @@ name,fileindex,index,whichChild
 "Geomys",255,82,1
 "Geomys",255,83,2
 "Geomys",255,84,2
-"Geocapromys",256,21,1
 "Geocapromys",256,22,1
 "Geocapromys",256,23,2
 "Georychus",259,25,2
@@ -415,7 +376,6 @@ name,fileindex,index,whichChild
 "Gerenuk",372,144,2
 "geoffrensis",373,87,2
 "Gervais' Beaked Whale",371,128,1
-"Civets, Linsangs and Genets",385,1,1
 "Central African Large-spotted Genet",385,11,1
 "Genetta",385,11,1
 "West African Large-spotted Genet",385,12,2

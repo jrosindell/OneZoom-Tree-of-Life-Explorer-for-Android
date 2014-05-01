@@ -2,7 +2,6 @@ name,fileindex,index,whichChild
 "Thomas's Mouse",11,136,2
 "Thomas's Rock Rat",11,190,1
 "thomasi",11,190,1
-"Thicket Rats",8,34,1
 "Macmillan's Thicket Rat",8,39,1
 "Mozambique Thicket Rat",8,40,2
 "Giant Thicket Rat",8,41,2
@@ -12,13 +11,10 @@ name,fileindex,index,whichChild
 "Forest Thicket Rat",8,49,2
 "Woodland Thicket Rat",8,52,1
 "Ruwenzori Thicket Rat",8,53,2
-"Thallomys",8,57,2
 "Thallomys",8,60,1
 "Thallomys",8,61,2
 "Thallomys",8,62,2
 "Thallomys",8,63,2
-"Thicket Rats",8,70,1
-"Thamnomys",8,70,1
 "Kemp's Thicket Rat",8,72,1
 "Thamnomys",8,72,1
 "Thamnomys",8,73,2
@@ -27,7 +23,6 @@ name,fileindex,index,whichChild
 "Thin Sand Rat",12,44,1
 "Thaptomys",23,81,2
 "Thespian Grass Mouse",23,92,2
-"Thomasomys",23,101,1
 "Thomasomys",24,7,1
 "Thomasomys",24,8,2
 "Thomasomys",24,9,2
@@ -61,7 +56,6 @@ name,fileindex,index,whichChild
 "Thomasomys",23,115,2
 "Thomasomys",23,116,2
 "Thomas's Rice Rat",27,64,2
-"Thalpomys",28,52,2
 "Thalpomys",28,53,1
 "Thalpomys",28,54,2
 "Thomas's Water Mouse",21,90,2
@@ -78,7 +72,6 @@ name,fileindex,index,whichChild
 "Andrews's Three-toed Jerboa",3,62,2
 "Thaeler's Pocket Gopher",20,52,2
 "thaeleri",20,52,2
-"Thomomys",2,110,2
 "Thomomys",2,114,1
 "Thomomys",2,115,2
 "Thomomys",2,116,2
@@ -87,11 +80,9 @@ name,fileindex,index,whichChild
 "Thomomys",2,121,2
 "Thomomys",2,122,2
 "thomasi",30,25,1
-"Thrichomys",29,27,2
 "Thrichomys",29,28,1
 "Thrichomys",29,29,2
 "Thick-spined Porcupine",29,184,1
-"Thryonomyidae",33,30,2
 "Thryonomys",33,31,1
 "Thryonomys",33,32,2
 "Thomas's Flying Squirrel",77,39,2
@@ -126,7 +117,6 @@ name,fileindex,index,whichChild
 "Thomas's Nectar Bat",67,114,2
 "thomasi",67,114,2
 "Thumbless Bat",45,63,2
-"Thyropteridae",45,64,2
 "Thyroptera",45,65,1
 "Thyroptera",45,66,2
 "thomensis",61,12,2
@@ -157,13 +147,11 @@ name,fileindex,index,whichChild
 "Thin Mouse Shrew",85,30,2
 "Thomas' Small-eared Shrew",92,28,2
 "thomasi",92,28,2
-"Three-banded Armadillos",0,22,2
 "Brazilian Three-banded Armadillo",0,23,1
 "Southern Three-banded Armadillo",0,24,2
 "Bolivian Three-toed Sloth",0,53,1
 "Thomas' Shrew Tenrec",34,28,2
 "thomasi",34,28,2
-"Thylogale",43,36,2
 "Thylogale",43,40,1
 "Thylogale",43,41,2
 "Thylogale",43,42,2
@@ -172,7 +160,6 @@ name,fileindex,index,whichChild
 "Thylogale",43,45,2
 "Thylogale",43,46,2
 "Three-striped Dasyure",84,42,1
-"Thylamys",1,48,1
 "Thylamys",1,53,1
 "Thylamys",1,54,2
 "Thylamys",1,55,2

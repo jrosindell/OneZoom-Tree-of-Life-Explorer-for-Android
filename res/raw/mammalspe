@@ -8,7 +8,6 @@ name,fileindex,index,whichChild
 "Percival's Spiny Mouse",11,33,2
 "percivali",11,33,2
 "Peter's Mouse",11,135,2
-"Pelomys",11,203,1
 "Pelomys",11,207,1
 "Pelomys",11,208,2
 "Pelomys",11,209,2
@@ -17,7 +16,6 @@ name,fileindex,index,whichChild
 "Koopman's Peleng Island Rat",10,31,1
 "Peleng Island Xanthurus Rat",10,74,2
 "pelurus",10,74,2
-"Pencil-tailed Tree Mice",9,76,1
 "Koopman's Pencil-tailed Tree Mouse",9,80,1
 "Greater Pencil-tailed Tree Mouse",9,81,2
 "Pencil-tailed Tree Mouse",9,82,2
@@ -36,7 +34,6 @@ name,fileindex,index,whichChild
 "persicus",12,37,1
 "Petter's Gerbil",12,86,1
 "petteri",12,86,1
-"Petromyscus",8,177,1
 "Petromyscus",8,179,1
 "Petromyscus",8,180,2
 "Petromyscus",8,182,1
@@ -55,7 +52,6 @@ name,fileindex,index,whichChild
 "Peruvian Cotton Rat",21,126,2
 "peruanus",21,126,2
 "Peter's Climbing Rat",21,144,1
-"Peromyscus",25,1,1
 "Peromyscus",25,10,1
 "Peromyscus",25,11,2
 "Peromyscus",25,13,1
@@ -120,13 +116,11 @@ name,fileindex,index,whichChild
 "penicillatus",4,73,1
 "Pel's Flying Squirrel",2,80,2
 "pelii",2,80,2
-"Pedetidae",2,86,2
 "Pedetes",2,87,1
 "Pedetes",2,88,2
 "personatus",2,108,2
 "penicillatus",31,16,2
 "pernix",31,20,2
-"Perognathus",31,35,2
 "Perognathus",31,39,1
 "Perognathus",31,40,2
 "Perognathus",31,42,1
@@ -148,7 +142,6 @@ name,fileindex,index,whichChild
 "perrensi",32,68,2
 "Speke's Pectinator",2,166,2
 "Pectinator",2,166,2
-"Petinomys",80,3,1
 "Petinomys",80,8,1
 "Petinomys",80,9,2
 "Petinomys",80,10,2
@@ -158,11 +151,9 @@ name,fileindex,index,whichChild
 "Petinomys",80,17,2
 "Petinomys",80,18,2
 "Petinomys",80,19,2
-"Petaurillus",80,30,2
 "Petaurillus",80,32,1
 "Petaurillus",80,33,2
 "Petaurillus",80,34,2
-"Petaurista",77,13,1
 "Petaurista",77,19,1
 "Petaurista",77,20,2
 "Petaurista",77,21,2
@@ -224,7 +215,6 @@ name,fileindex,index,whichChild
 "Pearson's Horseshoe Bat",59,25,2
 "pearsonii",59,25,2
 "Peninsular Horseshoe Bat",59,36,2
-"Peropteryx",71,6,1
 "Peropteryx",71,9,1
 "Peropteryx",71,10,2
 "Peropteryx",71,11,2
@@ -253,7 +243,6 @@ name,fileindex,index,whichChild
 "Chacoan Peccary",72,39,2
 "Collared Peccary",72,40,2
 "Pecari",72,40,2
-"PERISSODACTYLA",45,131,2
 "pennanti",49,57,2
 "peregusna",49,71,2
 "perspicillata",52,20,1
@@ -270,7 +259,6 @@ name,fileindex,index,whichChild
 "Pere David's Mole",85,130,2
 "Petrodromus",0,92,2
 "petersi",0,96,2
-"Petrogale",43,11,1
 "penicillata",43,17,1
 "Petrogale",43,17,1
 "Petrogale",43,18,2
@@ -287,12 +275,9 @@ name,fileindex,index,whichChild
 "Petrogale",43,34,2
 "Petrogale",43,35,2
 "penicillata",43,129,2
-"Petauroidea",43,133,1
 "peregrinus",43,149,2
 "Petropseudes",43,161,2
 "Petauroides",43,164,2
-"Petauridae",43,166,1
-"Petaurus",43,167,1
 "Petaurus",43,171,1
 "Petaurus",43,172,2
 "Petaurus",43,173,2
@@ -302,9 +287,6 @@ name,fileindex,index,whichChild
 "pennatus",43,189,1
 "Peleng Cuscus",44,18,2
 "pelengensis",44,18,2
-"PERAMELEMORPHIA",0,124,2
-"Peramelidae",0,125,1
-"Peroryctes",0,139,1
 "Peroryctes",0,140,1
 "Peroryctes",0,141,2
 "Perameles",0,154,2

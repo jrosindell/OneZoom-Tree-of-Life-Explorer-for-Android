@@ -27,7 +27,6 @@ name,fileindex,index,whichChild
 "Riparia",178,154,2
 "Riparia",178,159,2
 "Riparia",178,160,2
-"River-martins",178,162,2
 "African River-martin",178,163,1
 "White-eyed River-martin",178,164,2
 "ridgwayi",169,52,1
@@ -105,11 +104,9 @@ name,fileindex,index,whichChild
 "River cooter",95,49,2
 "Texas River Cooter",95,50,2
 "Rio Grande Cooter",95,51,2
-"Ridley Sea Turtles",94,170,1
 "Olive Ridley",94,171,1
 "Kemp's Ridley",94,172,2
 "Central American River Turtle",94,183,2
-"South American River Turtles",0,81,1
 "Red-headed Amazon River Turtle",0,85,1
 "Magdalena River Turtle",0,86,2
 "Six-tubercled Amazon River Turtle",0,89,1
@@ -143,13 +140,11 @@ name,fileindex,index,whichChild
 "Highland Small Rice Rat",289,201,1
 "Forest Small Rice Rat",289,202,2
 "Rio De Janeiro Arboreal Rat",289,203,2
-"Rice Rats and more",293,4,1
 "Colombian Rice Rat",293,14,1
 "Gorgas's Rice Rat",293,27,1
 "Marsh Rice Rat",293,47,2
 "Thomas's Rice Rat",293,64,2
 "Coues's Rice Rat",293,71,2
-"Rice Rats and more",293,82,2
 "Yellow Arboreal Rice Rat",293,88,1
 "Robert's Arboreal Rice Rat",293,89,2
 "Red Arboreal Rice Rat",293,90,2
@@ -164,7 +159,6 @@ name,fileindex,index,whichChild
 "Arboreal Rice Rat",293,109,2
 "Bicolored Arboreal Rice Rat",293,110,2
 "Brazilian False Rice Rat",293,124,2
-"Pygmy Rice Rats and more",287,12,1
 "Destructive Pygmy Rice Rat",287,19,1
 "Andean Pygmy Rice Rat",287,20,2
 "Yellow Pygmy Rice Rat",287,21,2
@@ -180,7 +174,6 @@ name,fileindex,index,whichChild
 "Small-eared Pygmy Rice Rat",287,39,1
 "Magellanic Pygmy Rice Rat",287,41,2
 "Delta Pygmy Rice Rat",287,42,2
-"Rice Water Rats",292,77,2
 "Harris's Rice Water Rat",292,78,1
 "Alfaro's Rice Water Rat",292,79,2
 "richardsoni",282,112,2

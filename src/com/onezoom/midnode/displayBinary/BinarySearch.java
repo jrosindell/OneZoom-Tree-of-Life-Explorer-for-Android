@@ -48,6 +48,24 @@ public class BinarySearch {
 		}
 	}
 	
+	public void performBackSearch() {
+		if (previousSearch == null || previousSearch.length() < 3) {
+			client.showToast("name too short");
+		} else {
+			currentHit = (currentHit - 1 + searchHit) % searchHit;
+			processAndShowSearchResult();
+		}
+	}
+
+	public void performForwardSearch() {
+		if (previousSearch == null || previousSearch.length() < 3) {
+			client.showToast("name too short");
+		} else {
+			currentHit = (currentHit + 1) % searchHit;
+			processAndShowSearchResult();
+		}
+	}
+	
 	private void processAndShowSearchResult() {
 		if (searchHit > 0) {
 			process(searchResults.get(currentHit));
@@ -114,14 +132,14 @@ public class BinarySearch {
 				if (line[0].toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase())) {
 					Record newRecord = new Record(line);
 					if (!searchResults.contains(newRecord)) {
-						if (newRecord.name.toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase())) {
+						if (newRecord.name.toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase())) {
 							//exact match appears first
 							searchResults.add(0, newRecord);
 						} else {
-							searchResults.add(newRecord);							
+							searchResults.add(newRecord);					
 						}
 						searchHit++;
-					} else if (newRecord.name.toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase())) {
+					} else if (newRecord.name.toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase())) {
 						//If node has already been added to list but not has the exact match name, then delete it and append 
 						//the exact match at the initial position of the list.
 						deletePreviousResult(searchResults, newRecord);
@@ -166,6 +184,15 @@ class Record {
 		fileIndex = Integer.parseInt(line[1]);
 		index = Integer.parseInt(line[2]);
 		childIndex = Integer.parseInt(line[3]);
+	}
+	
+	public boolean contains (String userInput) {
+		String[] names = name.split(" ");
+		for (int i = 0; i < names.length; i++) {
+			if (names[i].equals(userInput))
+				return true;
+		}
+		return false;
 	}
 	
 	public String toString() {

@@ -1,7 +1,6 @@
 name,fileindex,index,whichChild
 "Tit-like Dacnis",125,52,2
 "Dark-throated Seedeater",127,11,1
-"Dacnis",125,160,1
 "Yellow-bellied Dacnis",125,165,1
 "Dacnis",125,165,1
 "Black-faced Dacnis",125,166,2
@@ -71,7 +70,6 @@ name,fileindex,index,whichChild
 "Dark-brown Honeyeater",148,48,2
 "Dark-eared Myza",148,110,2
 "dammermani",149,22,2
-"Dasyornithidae",120,77,2
 "Dasyornis",120,79,1
 "Dasyornis",120,80,2
 "Dasyornis",120,81,2
@@ -144,10 +142,8 @@ name,fileindex,index,whichChild
 "Daboia",339,78,2
 "Darwin's Ringed Worm Lizard",334,172,2
 "darwini",334,172,2
-"Day Geckos",319,38,2
 "damaeum",320,42,2
 "dammermani",270,70,1
-"Dasymys",267,123,1
 "Dasymys",267,127,1
 "Dasymys",267,128,2
 "Dasymys",267,129,2
@@ -186,7 +182,6 @@ name,fileindex,index,whichChild
 "dasythrix",258,18,1
 "Dark Spiny Tree-rat",258,31,2
 "Dark Armored Tree-rat",258,63,1
-"Dactylomys",258,118,1
 "Dactylomys",258,120,1
 "dactylinus",258,121,2
 "Dactylomys",258,121,2
@@ -194,8 +189,6 @@ name,fileindex,index,whichChild
 "Damara Mole Rat",259,8,1
 "damarensis",259,8,1
 "darlingi",259,13,1
-"Dasyproctidae",256,92,1
-"Dasyprocta",256,93,1
 "Dasyprocta",256,99,1
 "Dasyprocta",256,100,2
 "Dasyprocta",256,101,2
@@ -244,13 +237,11 @@ name,fileindex,index,whichChild
 "darlingi",377,55,2
 "dasymallus",366,122,2
 "Dagger-toothed Long-nosed Fruit Bat",365,99,1
-"Dawn Bats",365,101,2
 "Philippine Dawn Bat",365,103,1
 "Greater Dawn Bat",365,104,2
 "Dawn Bat",365,105,2
 "Dayak Fruit Bat",387,32,2
 "dalli",372,38,1
-"Damaliscus",372,78,1
 "Damaliscus",372,80,1
 "Damaliscus",372,81,2
 "Damaliscus",372,82,2
@@ -273,7 +264,6 @@ name,fileindex,index,whichChild
 "dauuricus",388,28,1
 "Pere David's Mole",380,38,2
 "davidiana",380,38,2
-"Dasypus",333,26,2
 "Dasypus",333,30,1
 "Dasypus",333,31,2
 "Dasypus",333,32,2
@@ -282,14 +272,10 @@ name,fileindex,index,whichChild
 "Dasypus",333,36,2
 "Daintree River Ringtail Possum",112,9,2
 "dahli",112,29,2
-"Dactylopsila",112,47,1
 "Dactylopsila",112,49,1
 "Dactylopsila",112,50,2
 "Dactylopsila",112,52,1
 "Dactylopsila",112,53,2
-"DASYUROMORPHIA",109,18,1
-"Dasyuridae",111,0,1
-"Dasyurus",111,9,1
 "Dasyurus",111,14,1
 "Dasyurus",111,15,2
 "Dasyurus",111,16,2
@@ -307,10 +293,6 @@ name,fileindex,index,whichChild
 "danielae",57,48,2
 "dasi",56,95,2
 "dapsilis",58,24,2
-"Poison Dart Frogs",38,74,2
-"Darwin's Frogs and more",38,75,2
-"Darwin's Frogs and more",69,0,2
-"Darwin's Frogs",69,62,2
 "Darwin's Frog",69,63,1
 "darwinii",69,63,1
 "dactylocinus",65,38,2

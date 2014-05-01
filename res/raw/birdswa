@@ -1,6 +1,4 @@
 name,fileindex,index,whichChild
-"Tanagers, Conebills, Warbling-finches and more",44,8,1
-"Warbling-finches",51,9,1
 "Black-capped Warbling-finch",51,12,1
 "Cinereous Warbling-finch",51,13,2
 "Plain-tailed Warbling-finch",51,14,2
@@ -8,7 +6,6 @@ name,fileindex,index,whichChild
 "Ringed Warbling-finch",51,18,2
 "Buff-throated Warbling-finch",51,19,2
 "Grey-throated Warbling-finch",51,25,2
-"Warbling-finches, Reed-finches and more",51,26,2
 "Rufous-sided Warbling-finch",51,27,1
 "Black-and-rufous Warbling-finch",51,53,1
 "Bolivian Warbling-finch",51,63,2
@@ -19,12 +16,9 @@ name,fileindex,index,whichChild
 "Rufous-breasted Warbling-finch",51,81,2
 "watkinsi",50,233,2
 "Warbler Finch",56,30,2
-"New World Warblers, Buntings, American Sparrows and more",47,0,1
 "warszewiczi",60,48,2
 "wagleri",60,122,2
 "wagleri",60,154,2
-"New World warblers, Buntings, American Sparrows and more",57,0,2
-"New World warblers",57,1,1
 "Pink-headed Warbler",57,37,1
 "Red Warbler",57,38,2
 "Red-faced Warbler",57,39,2
@@ -112,11 +106,9 @@ name,fileindex,index,whichChild
 "Worm-eating Warbler",57,158,2
 "Yellow-headed Warbler",57,162,1
 "Oriente Warbler",57,163,2
-"New World warblers",57,175,2
 "Green-tailed Warbler",57,176,1
 "White-winged Warbler",57,177,2
 "Warsangli Linnet",53,163,2
-"Wagtails and pipits",44,102,2
 "Water Pipit",45,9,1
 "Citrine Wagtail",44,153,1
 "Yellow Wagtail",44,154,2
@@ -130,9 +122,6 @@ name,fileindex,index,whichChild
 "Cape Wagtail",44,165,2
 "Madagascar Wagtail",44,166,2
 "Forest Wagtail",44,168,1
-"Weavers, Waxbills and more",101,1,1
-"Waxbills and more",101,2,1
-"Waxbills, grass finches, munias and more",101,3,1
 "Crimson-rumped Waxbill",106,10,1
 "Red-rumped Waxbill",106,11,2
 "Orange-cheeked Waxbill",106,12,2
@@ -152,7 +141,6 @@ name,fileindex,index,whichChild
 "Black-lored Waxbill",106,41,1
 "Anambra Waxbill",106,42,2
 "Zebra Waxbill",101,90,1
-"Accentors and Olive Warbler",101,159,2
 "Olive Warbler",101,185,2
 "Plumbeous Water-redstart",92,47,1
 "Luzon Water-redstart",92,48,2
@@ -162,19 +150,13 @@ name,fileindex,index,whichChild
 "walleri",88,86,2
 "Wattled Starling",88,141,2
 "Wallcreeper",87,171,2
-"Nuthatches and Wallcreeper",87,172,2
-"Waxwings and more",43,19,2
-"Waxwings",43,22,1
 "Japanese Waxwing",43,24,1
 "Bohemian Waxwing",43,25,2
 "Cedar Waxwing",43,26,2
-"Waxwings",43,30,2
 "waddelli",74,30,2
 "waldeni",73,30,1
 "wallacei",85,113,1
-"Babblers, Old World Warblers and more",65,28,2
 "White-browed Chinese Warbler",69,57,2
-"Old World warblers",69,66,1
 "Arabian Warbler",69,73,1
 "Orphean Warbler",69,74,2
 "Brown Warbler",69,76,1
@@ -194,8 +176,6 @@ name,fileindex,index,whichChild
 "Spectacled Warbler",69,106,1
 "Desert Warbler",69,108,2
 "Garden Warbler",69,114,2
-"Old World Warblers",65,56,2
-"Old World warblers",68,1,1
 "Eurasian River Warbler",68,26,1
 "Savi's Warbler",68,31,1
 "Bamboo Warbler",68,32,2
@@ -207,11 +187,8 @@ name,fileindex,index,whichChild
 "Bangwa Forest Warbler",68,78,2
 "Knysna Warbler",68,82,2
 "Marsh Warbler",68,98,1
-"Old World warblers",68,103,1
 "Cryptic Warbler",68,114,1
-"Old World warblers",68,117,2
 "Thamnornis Warbler",68,119,2
-"Old World warblers",83,0,2
 "Cape Verde Warbler",83,38,2
 "Seychelles Warbler",83,41,2
 "African Reed Warbler",83,48,2
@@ -232,32 +209,22 @@ name,fileindex,index,whichChild
 "Melodious Warbler",83,92,1
 "Icterine Warbler",83,93,2
 "Moheli Warbler",83,99,2
-"Old World warblers",65,59,1
 "Grauer's Warbler",77,15,1
 "Red-winged Warbler",77,17,2
 "Red-winged Grey Warbler",77,26,2
-"Old World warblers",77,46,2
-"Old World warblers",65,76,1
 "Namaqua Warbler",65,83,1
 "Briar Warbler",65,94,2
 "Rufous-eared Warbler",65,95,2
 "White-tailed Warbler",81,63,2
-"Old World warblers",81,76,2
-"Old World warblers",81,79,2
-"Old World warblers",81,82,2
 "Wailing Cisticola",80,64,2
 "Buff-bellied Warbler",80,95,1
 "Grey-capped Warbler",80,96,2
 "Oriole Warbler",80,97,2
 "Kopje Warbler",80,98,2
-"Old World warblers",80,99,2
 "Black-headed Rufous Warbler",80,101,1
 "Black-faced Rufous Warbler",80,102,2
 "Mrs Moreau's Warbler",80,103,2
 "Socotra Warbler",80,104,2
-"Old World warblers",65,126,2
-"Old World warblers",65,138,1
-"Leaf-warblers and other warblers",65,139,1
 "Grey-hooded Warbler",67,13,1
 "Western Crowned Warbler",67,25,1
 "Hartert's Warbler",67,26,2
@@ -300,7 +267,6 @@ name,fileindex,index,whichChild
 "Black-faced Warbler",78,34,2
 "Rufous-faced Warbler",78,35,2
 "Cetti's Warbler",78,49,2
-"Old World warblers",43,52,2
 "Fairy Warbler",100,143,2
 "wallacii",144,56,2
 "Wahnes's Parotia",144,62,2
@@ -311,9 +277,6 @@ name,fileindex,index,whichChild
 "Wallacean Whistler",134,35,2
 "Ward's Flycatcher",135,34,2
 "wardi",135,34,2
-"Shrike-flycatchers, wattle-eyes and batises",135,73,2
-"Shrike-flycatchers, wattle-eyes and batises",135,76,2
-"Wattle-eyes",135,113,2
 "White-fronted Wattle-eye",135,117,1
 "Brown-throated Wattle-eye",135,118,2
 "Black-throated Wattle-eye",135,120,1
@@ -328,7 +291,6 @@ name,fileindex,index,whichChild
 "Western Wattled Cuckooshrike",141,85,2
 "Eastern Wattled Cuckooshrike",141,91,2
 "Wattled Ploughbill",132,129,1
-"Wattled crows",132,167,1
 "Wattled Honeyeater",112,35,2
 "Wakolo Myzomela",115,60,2
 "wakoloensis",115,60,2
@@ -341,7 +303,6 @@ name,fileindex,index,whichChild
 "wallacii",112,186,2
 "Watkins's Antpitta",40,24,2
 "watkinsi",40,24,2
-"Warbling-antbirds",31,22,1
 "Rondonia Warbling-antbird",31,27,1
 "Guianan Warbling-antbird",31,28,2
 "Imeri Warbling-antbird",31,29,2
@@ -354,7 +315,6 @@ name,fileindex,index,whichChild
 "Masked Water-tyrant",125,53,2
 "Warbling Doradito",123,127,1
 "Lesser Wagtail-tyrant",123,163,2
-"Tyrannulets, Pygmy Tyrants and Wagtail-Tyrant",123,173,2
 "Greater Wagtail-tyrant",123,189,1
 "wallicus",109,107,2
 "waterstradti",146,62,2
@@ -370,10 +330,8 @@ name,fileindex,index,whichChild
 "Wahlberg's Eagle",164,33,2
 "wahlbergi",164,33,2
 "Wallace's Hawk-eagle",162,107,2
-"Waders, Gulls, Sandpipers and more",20,0,2
 "Wandering Tattler",21,82,2
 "Wattled Jacana",20,122,2
-"Waders and more",20,138,2
 "Wattled Lapwing",24,46,2
 "Water Thick-knee",20,161,2
 "Wattled Ibis",3,160,1
@@ -381,7 +339,6 @@ name,fileindex,index,whichChild
 "Waved Albatross",12,109,2
 "African Water Rail",17,32,2
 "Water Rail",17,36,2
-"Bush hens, Waterhens and more",17,44,1
 "Rufous-tailed Waterhen",17,50,2
 "Isabelline Waterhen",17,52,1
 "White-breasted Waterhen",17,55,1
@@ -403,6 +360,5 @@ name,fileindex,index,whichChild
 "Wattled Guan",184,93,2
 "wallacei",183,26,2
 "Wattled Brush-turkey",183,37,1
-"Waterfowl, Screamers and Magpie Goose",27,0,2
 "waigiuensis",27,123,1
 "Wandering Whistling-duck",27,209,2

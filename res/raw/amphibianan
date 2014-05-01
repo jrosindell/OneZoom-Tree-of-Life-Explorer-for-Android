@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Frogs and Toads",0,2,1
 "Anaxyrus",13,9,1
 "Anaxyrus",13,10,2
 "Anaxyrus",13,11,2
@@ -48,7 +47,6 @@ name,fileindex,index,whichChild
 "Ansonia",11,42,2
 "Ansonia",11,43,2
 "anderssoni",3,57,1
-"Harlequin Frogs and more",5,0,1
 "andinus",5,42,2
 "Green And Red Venter Harlequin Toad",5,94,2
 "angelito",5,127,2
@@ -76,17 +74,12 @@ name,fileindex,index,whichChild
 "Anomaloglossus",6,115,2
 "Anomaloglossus",6,117,1
 "Anomaloglossus",6,118,2
-"Darwin's Frogs and more",3,162,2
-"Darwin's Frogs and more",7,0,2
 "antartandica",54,155,1
-"Glassfrogs and more",48,0,2
-"LEIUPERIDAE and LEPTODACTYLIDAE",48,1,1
 "andreae",48,104,2
 "anomala",49,55,2
 "antisthenesi",48,177,1
 "andinum",52,49,2
 "antioquiense",52,51,1
-"Treefrogs and more",21,0,2
 "andersonii",31,13,1
 "Anotheca",31,64,2
 "annectans",31,92,2
@@ -102,7 +95,6 @@ name,fileindex,index,whichChild
 "andaquiensis",20,73,1
 "angustifrons",20,92,1
 "antomia",20,97,1
-"Rain Frogs, Saddleback Toads and more",2,60,2
 "anemerus",38,99,2
 "anotis",38,165,2
 "anolirex",40,13,2
@@ -118,10 +110,6 @@ name,fileindex,index,whichChild
 "andi",42,48,2
 "andrewsi",42,178,2
 "angustidigitorum",43,23,2
-"Gastric-brooding Frogs, Toadlets and more",2,112,2
-"Toadlets and more",19,0,1
-"Purple Frog, Seychelles Palm Frog and more",2,162,2
-"True Frogs, Shrub Frogs and more",72,1,1
 "andersoni",93,56,2
 "anili",91,27,2
 "annandalii",90,23,1
@@ -161,19 +149,11 @@ name,fileindex,index,whichChild
 "anatipes",105,142,2
 "antenori",105,155,2
 "annectens",72,131,2
-"African Wart Frogs, Reed Frogs, Midwife Frogs and more",85,0,1
 "Angola Banana Frog",85,59,2
 "andrakata",85,109,2
-"Forest Treefrogs, Night Frogs and more",107,0,2
-"Screeching Frogs, Night Frogs and more",107,1,1
 "anchietae",107,169,2
-"Spadefoot Toads, Asian Horned Frogs and more",66,0,2
-"Karin Hills Frogs, Asian Horned Frogs and more",66,2,1
-"Burrowing Toad, Surinam Toads and more",0,60,2
 "Andre's Clawed Frog",68,10,2
 "andrei",68,10,2
-"New Zealand and North American Primitive Frogs",0,73,1
-"Salamanders and Newts",0,83,2
 "anthracina",61,112,2
 "anitae",62,14,2
 "angusticlavius",56,127,2
@@ -184,7 +164,6 @@ name,fileindex,index,whichChild
 "Aneides",56,179,1
 "Aneides",56,180,2
 "Aneides",56,181,2
-"True Salamanders and Newts",69,2,1
 "Anderson's Crocodile Newt",69,104,1
 "andersoni",69,104,1
 "antalyana",69,119,1

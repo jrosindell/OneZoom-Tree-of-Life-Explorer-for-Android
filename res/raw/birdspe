@@ -76,7 +76,6 @@ name,fileindex,index,whichChild
 "Petrochelidon",71,67,2
 "Peruvian Martin",84,14,2
 "personata",107,37,2
-"Penduline-tits",100,107,2
 "Mouse-coloured Penduline-tit",100,113,1
 "Sennar Penduline-tit",100,114,2
 "Forest Penduline-tit",100,115,2
@@ -88,7 +87,6 @@ name,fileindex,index,whichChild
 "Chinese Penduline-tit",100,124,2
 "Black-headed Penduline-tit",100,125,2
 "White-crowned Penduline-tit",100,126,2
-"Petroicidae",43,87,2
 "Petroica",43,99,1
 "Petroica",43,100,2
 "Petroica",43,102,1
@@ -109,7 +107,6 @@ name,fileindex,index,whichChild
 "Perisoreus",137,111,2
 "Perisoreus",137,112,2
 "percivali",140,11,2
-"Peppershrikes",132,27,1
 "pectoralis",139,69,2
 "Black-billed Peppershrike",132,37,1
 "Rufous-browed Peppershrike",132,38,2
@@ -168,7 +165,6 @@ name,fileindex,index,whichChild
 "pelzelni",30,166,2
 "pernix",123,38,2
 "perspicillatus",123,98,2
-"Phoebes, Pewees and other flycatchers",124,2,1
 "Hispaniolan Pewee",124,41,1
 "Tumbes Pewee",124,43,2
 "Ochraceous Pewee",124,45,1
@@ -247,11 +243,6 @@ name,fileindex,index,whichChild
 "peronii",24,56,2
 "pecuarius",24,100,2
 "Peruvian Thick-knee",20,166,2
-"Flamingos, Petrels and more",0,22,2
-"PELECANIFORMES",3,0,1
-"Pelicans, Shoebill and Hamerkop",3,192,2
-"Pelicans",3,193,1
-"Pelecanidae",3,193,1
 "American White Pelican",3,197,1
 "Pelecanus",3,197,1
 "Brown Pelican",3,198,2
@@ -273,8 +264,6 @@ name,fileindex,index,whichChild
 "Pelagic Cormorant",19,51,1
 "pelagicus",19,51,1
 "Peruvian Booby",19,81,2
-"Albatrosses, Shearwaters and Petrels",12,1,1
-"Petrels and shearwaters",12,6,1
 "Mascarene Petrel",14,8,1
 "Beck's Petrel",14,40,2
 "Fiji Petrel",12,16,2
@@ -318,27 +307,22 @@ name,fileindex,index,whichChild
 "Bermuda Petrel",13,60,2
 "Black-capped Petrel",13,61,2
 "Soft-plumaged Petrel",13,62,2
-"Petrels and shearwaters",12,32,1
 "Blue Petrel",12,45,2
 "Kerguelen Petrel",12,46,2
-"Pelecanoididae",12,47,2
 "Pelecanoides",12,50,1
 "Pelecanoides",12,51,2
 "Pelecanoides",12,52,2
 "Peruvian Diving-petrel",12,53,2
 "Pelecanoides",12,53,2
-"Petrels and shearwaters",12,54,2
 "Cape Petrel",12,63,2
 "Antarctic Petrel",12,65,1
 "Snow Petrel",12,66,2
 "Pelagodroma",12,115,2
 "pelagicus",12,139,2
-"Penguins",12,152,2
 "Fiordland Penguin",12,160,1
 "Snares Penguin",12,161,2
 "Macaroni Penguin",12,163,1
 "Royal Penguin",12,164,2
-"Rockhopper Penguins",12,165,2
 "Southern Rockhopper Penguin",12,166,1
 "Northern Rockhopper Penguin",12,167,2
 "Erect-crested Penguin",12,168,2
@@ -385,7 +369,6 @@ name,fileindex,index,whichChild
 "perdix",149,54,2
 "Perdix",149,54,2
 "Perdix",149,55,2
-"Peacock-Pheasants",150,48,1
 "Bronze-tailed Peacock-pheasant",150,54,1
 "Grey Peacock-pheasant",150,55,2
 "Mountain Peacock-pheasant",150,56,2
@@ -394,12 +377,9 @@ name,fileindex,index,whichChild
 "Bornean Peacock-pheasant",150,60,1
 "Malayan Peacock-pheasant",150,61,2
 "Palawan Peacock-pheasant",150,62,2
-"Peafowl or Peacocks",147,30,2
-"Peafowl or Peacocks",147,30,2
 "Indian Peafowl",147,32,1
 "Green Peafowl",147,33,2
 "Congo Peafowl",147,34,2
-"PERDICULA",148,62,1
 "Perdicula",148,65,1
 "Perdicula",148,66,2
 "Perdicula",148,67,2

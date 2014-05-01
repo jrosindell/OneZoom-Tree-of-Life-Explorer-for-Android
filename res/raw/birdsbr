@@ -28,7 +28,6 @@ name,fileindex,index,whichChild
 "Brewer's Sparrow",47,50,2
 "breweri",47,50,2
 "Bridled Sparrow",47,75,2
-"Brush-finches",47,106,2
 "Rufous-naped Brush-finch",47,113,1
 "Tricoloured Brush-finch",47,114,2
 "Bay-crowned Brush-finch",47,115,2
@@ -235,7 +234,6 @@ name,fileindex,index,whichChild
 "Bornean Bristlehead",145,92,2
 "Brown-rumped Minivet",132,87,1
 "brevirostris",132,95,1
-"Honeyeaters, Thornbills, Bristlebirds and more",112,0,2
 "Brown-headed Honeyeater",112,15,1
 "brevirostris",112,15,1
 "Brown Honeyeater",112,51,2
@@ -249,7 +247,6 @@ name,fileindex,index,whichChild
 "Brown Thornbill",112,96,2
 "Brown Gerygone",112,125,2
 "Brown-breasted Gerygone",112,126,2
-"Bristlebirds",112,151,2
 "Eastern Bristlebird",112,153,1
 "brachypterus",112,153,1
 "Rufous Bristlebird",112,154,2
@@ -299,16 +296,13 @@ name,fileindex,index,whichChild
 "Southern Bristle-tyrant",130,171,2
 "Variegated Bristle-tyrant",130,176,2
 "Bronze-olive Pygmy-tyrant",130,199,2
-"Broadbills, Pittas, Asities and more",120,0,2
 "brachyura",120,27,2
-"Broadbills",120,66,2
 "Rufous-sided Broadbill",120,69,1
 "African Broadbill",120,70,2
 "Grey-headed Broadbill",120,71,2
 "Whitehead's Broadbill",120,74,1
 "Asian Green Broadbill",120,75,2
 "Hose's Broadbill",120,76,2
-"Broadbills",120,78,1
 "Black-and-red Broadbill",120,84,1
 "Silver-breasted Broadbill",120,85,2
 "Black-and-yellow Broadbill",120,87,1
@@ -371,7 +365,6 @@ name,fileindex,index,whichChild
 "Broad-billed Motmot",174,143,1
 "Broad-billed Tody",174,156,2
 "Broad-billed Roller",174,177,1
-"Brachypteraciidae",174,181,2
 "Brachypteracias",174,188,2
 "Brachypteracias",174,189,2
 "breweri",182,43,2
@@ -424,7 +417,6 @@ name,fileindex,index,whichChild
 "Broad-billed Prion",12,40,2
 "brevirostris",12,46,2
 "Brush Cuckoo",10,53,2
-"Bronze-cuckoos",10,67,1
 "White-eared Bronze-cuckoo",10,73,1
 "Little Bronze-cuckoo",10,74,2
 "Horsfield's Bronze-cuckoo",10,76,1
@@ -442,19 +434,16 @@ name,fileindex,index,whichChild
 "brenchleyi",9,42,1
 "Bruce's Green-pigeon",8,11,2
 "brehmeri",4,14,2
-"Brown-doves",4,22,2
 "Mindanao Brown-dove",4,25,1
 "brunneiceps",4,25,1
 "White-eared Brown-dove",4,26,2
 "Tawitawi Brown-dove",4,27,2
 "Amethyst Brown-dove",4,28,2
-"Bronzewings",4,65,1
 "Common Bronzewing",4,67,1
 "Brush Bronzewing",4,68,2
 "Brush Bronzewing",4,68,2
 "Flock Bronzewing",4,69,2
 "Bronze Ground-dove",4,81,2
-"Bronzewings",4,88,2
 "New Britain Bronzewing",4,89,1
 "New Britain Bronzewing",4,89,1
 "New Guinea Bronzewing",4,90,2
@@ -475,7 +464,6 @@ name,fileindex,index,whichChild
 "Bronze-tailed Thornbill",160,35,1
 "Bronze-tailed Comet",160,49,2
 "brachylophus",160,92,1
-"Brilliants",160,122,1
 "Violet-fronted Brilliant",160,128,1
 "Green-crowned Brilliant",160,129,2
 "Empress Brilliant",160,130,2
@@ -503,7 +491,6 @@ name,fileindex,index,whichChild
 "Bronze-tailed Peacock-pheasant",150,54,1
 "Brown Quail",147,52,2
 "brunneopectus",147,74,2
-"Brush-Turkeys",183,29,1
 "Brown-collared Brush-turkey",183,32,1
 "Brown-collared Brush-turkey",183,32,1
 "Red-billed Brush-turkey",183,33,2
@@ -519,7 +506,6 @@ name,fileindex,index,whichChild
 "Brazilian Teal",28,96,1
 "brasiliensis",28,96,1
 "brachyrhynchus",27,161,2
-"BRANTA",27,171,2
 "Branta",27,175,1
 "Branta",27,176,2
 "Branta",27,178,1

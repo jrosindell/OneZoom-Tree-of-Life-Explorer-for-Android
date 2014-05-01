@@ -2,11 +2,9 @@ name,fileindex,index,whichChild
 "leucogaster",13,46,1
 "levipes",13,60,1
 "Leporillus",13,78,2
-"Leggadina",13,146,2
 "Leggadina",13,147,1
 "Leggadina",13,148,2
 "Least Praomys",8,21,2
-"Leptomys",15,19,2
 "Fly River Leptomys",15,21,1
 "Leptomys",15,21,1
 "Large Leptomys",15,22,2
@@ -20,7 +18,6 @@ name,fileindex,index,whichChild
 "leucopus",10,98,2
 "Lesser Pencil-tailed Tree Mouse",9,86,2
 "Lesser Marmoset Rat",9,89,2
-"Lemniscomys",9,129,1
 "Barbary Lemniscomys",9,135,1
 "Lemniscomys",9,135,1
 "Heuglin's Lemniscomys",9,136,2
@@ -52,7 +49,6 @@ name,fileindex,index,whichChild
 "Lenothrix",8,86,2
 "legata",14,46,2
 "Least Philippine Apomys",8,124,2
-"Leopoldamys",18,45,1
 "Mentawai Archipelago Leopoldamys",18,48,1
 "Leopoldamys",18,48,1
 "Neill's Leopoldamys",18,49,2
@@ -73,7 +69,6 @@ name,fileindex,index,whichChild
 "levipes",27,19,2
 "legatus",27,56,2
 "Lesser Wilfred's Mouse",21,49,2
-"Leaf-eared Mice and more",26,3,1
 "Capricorn Leaf-eared Mouse",26,12,1
 "Osgood's Leaf-eared Mouse",26,13,2
 "Gerbil Leaf-eared Mouse",26,15,1
@@ -101,10 +96,8 @@ name,fileindex,index,whichChild
 "leucogaster",21,157,1
 "lepida",22,12,2
 "leucodon",22,33,2
-"Voles, Lemmings and Muskrats",4,3,1
 "leucurus",5,58,1
 "levis",5,81,2
-"Collared Lemmings",4,9,1
 "Umnak Island Collared Lemming",4,14,1
 "Nelson's Collared Lemming",4,15,2
 "Ungava Collared Lemming",4,16,2
@@ -113,8 +106,6 @@ name,fileindex,index,whichChild
 "Richardson's Collared Lemming",4,21,1
 "Arctic Lemming",4,22,2
 "Wrangel Island Collared Lemming",4,23,2
-"Lemmings",6,34,2
-"Lemmus",6,36,1
 "Brown Lemming",6,40,1
 "Lemmus",6,40,1
 "Lemmus",6,41,2
@@ -157,8 +148,6 @@ name,fileindex,index,whichChild
 "leucogenys",81,29,1
 "lemniscatus",81,39,1
 "leptodactylus",77,137,2
-"Leporidae",76,1,1
-"Lepus",76,7,1
 "Lepus",76,18,1
 "Lepus",76,19,2
 "Lepus",76,20,2
@@ -191,7 +180,6 @@ name,fileindex,index,whichChild
 "Lepus",76,67,1
 "Lepus",76,68,2
 "Lepus",76,69,2
-"Primates, Flying Lemurs and Treeshrews",35,0,2
 "leonina",35,28,2
 "leucophaeus",35,72,1
 "Lesser Spot-nosed Monkey",41,16,1
@@ -200,15 +188,12 @@ name,fileindex,index,whichChild
 "Maroon Leaf Monkey",40,42,1
 "leucogenys",37,24,2
 "leucippe",38,26,2
-"Leontopithecus",38,34,2
 "Leontopithecus",38,37,1
 "Leontopithecus",38,38,2
 "Leontopithecus",38,39,2
 "Leontopithecus",38,40,2
 "leucopus",38,56,2
 "lemurinus",38,84,2
-"Lemurs",35,94,1
-"Lemuridae",36,1,1
 "Red Brown Lemur",36,11,1
 "Brown Lemur",36,13,2
 "White-fronted Brown Lemur",36,14,2
@@ -221,7 +206,6 @@ name,fileindex,index,whichChild
 "Crowned Lemur",36,24,2
 "Ring-tailed Lemur",36,25,2
 "Lemur",36,25,2
-"Bamboo Lemurs",36,26,2
 "Eastern Lesser Bamboo Lemur",36,29,1
 "Eastern Lesser Bamboo Lemur",36,29,1
 "Alaotran Gentle Lemur",36,30,2
@@ -229,11 +213,8 @@ name,fileindex,index,whichChild
 "Sambirano Lesser Bamboo Lemur",36,31,2
 "Golden Bamboo Lemur",36,33,1
 "Greater Bamboo Lemur",36,34,2
-"Ruffed Lemurs",36,35,2
 "Black-and-white Ruffed Lemur",36,36,1
 "Red Ruffed Lemur",36,37,2
-"Sportive Lemurs",36,38,2
-"Lepilemuridae",36,38,2
 "Sahafary Sportive Lemur",36,42,1
 "Lepilemur",36,42,1
 "Ankarana Sportive Lemur",36,43,2
@@ -253,8 +234,6 @@ name,fileindex,index,whichChild
 "Lepilemur",36,52,2
 "Lorenz Von Liburnau's Woolly Lemur",35,113,1
 "Gmelin's Woolly Lemur",35,114,2
-"Dwarf Lemurs and Mouse Lemurs",35,118,1
-"Dwarf Lemurs and Mouse Lemurs",35,118,1
 "Grey-brown Mouse Lemur",35,124,1
 "Peters' Mouse Lemur",35,125,2
 "Rufous Mouse Lemur",35,127,2
@@ -265,7 +244,6 @@ name,fileindex,index,whichChild
 "Geoffroy's Dwarf Lemur",35,136,2
 "Sibree's Dwarf Lemur",35,137,2
 "Western Fat-tailed Dwarf Lemur",35,138,2
-"Fork-marked Lemurs",35,139,2
 "Montagne D' Ambre Fork-marked Lemur",35,141,1
 "Pale Fork-marked Lemur",35,142,2
 "Sambirano Fork-marked Lemur",35,144,1
@@ -274,7 +252,6 @@ name,fileindex,index,whichChild
 "Southern Lesser Galago",39,19,1
 "Northern Lesser Galago",39,21,2
 "Spectacled Lesser Galago",39,22,2
-"Flying Lemurs",35,146,2
 "Philippine Flying Lemur",35,147,1
 "Lesser Treeshrew",35,170,2
 "Lenis Woolly Bat",53,15,2
@@ -311,7 +288,6 @@ name,fileindex,index,whichChild
 "Lesser Long-tailed Bat",69,7,2
 "leachii",69,31,2
 "Leach's Single-leaf Bat",69,37,2
-"Leptonycteris",69,38,2
 "Leptonycteris",69,40,1
 "Lesser Long-nosed Bat",69,41,2
 "Leptonycteris",69,41,2
@@ -324,7 +300,6 @@ name,fileindex,index,whichChild
 "leporinus",67,225,2
 "New Zealand Lesser Short-tailed Bat",67,226,2
 "lepidus",45,60,2
-"Old World Leaf-nosed Bats",58,2,1
 "Commerson's Leaf-nosed Bat",61,10,1
 "Giant Leaf-nosed Bat",61,13,2
 "Shield-faced Leaf-nosed Bat",61,15,1
@@ -432,7 +407,6 @@ name,fileindex,index,whichChild
 "leo",48,15,2
 "Snow Leopard",48,18,2
 "Clouded Leopard",48,19,2
-"Leopardus",48,33,2
 "Leopardus",48,38,1
 "Leopardus",48,39,2
 "Leopardus",48,40,2

@@ -22,7 +22,6 @@ name,fileindex,index,whichChild
 "Plain-backed Snowfinch",122,59,1
 "Plum-headed Finch",132,90,1
 "Jos Plateau Indigobird",121,40,2
-"Ploceidae",140,4,1
 "Ploceus",141,9,1
 "Ploceus",141,10,2
 "Ploceus",141,11,2
@@ -87,10 +86,6 @@ name,fileindex,index,whichChild
 "Ploceus",140,77,2
 "Ploceus",140,79,1
 "Ploceus",140,80,2
-"Ploceidae",140,101,1
-"Ploceidae",140,136,1
-"Ploceidae",140,150,2
-"Ploceidae",140,157,2
 "Plocepasser",140,165,1
 "Plocepasser",140,166,2
 "Plocepasser",140,168,1
@@ -136,8 +131,6 @@ name,fileindex,index,whichChild
 "Plumbeous Vireo",154,17,1
 "plumbeus",154,17,1
 "plumatus",195,62,2
-"Platysteiridae",195,78,2
-"Platysteiridae",196,0,2
 "Platysteira",196,41,1
 "Platysteira",196,42,2
 "Platysteira",196,44,1
@@ -225,10 +218,8 @@ name,fileindex,index,whichChild
 "Plumbeous Kite",118,101,2
 "plumbea",118,101,2
 "Plain-breasted Hawk",117,73,2
-"Gulls, Terns, Auks and Plovers",114,49,1
 "Crab Plover",114,51,2
 "Plains-wanderer",114,147,2
-"Dotterels, other Plovers and more",119,3,1
 "Mountain Plover",119,59,1
 "Malaysian Plover",119,60,2
 "St Helena Plover",119,63,1
@@ -259,7 +250,6 @@ name,fileindex,index,whichChild
 "placidus",119,117,2
 "Chestnut-banded Plover",119,121,2
 "Rufous-chested Plover",119,122,2
-"Plovers",119,165,2
 "Eurasian Golden Plover",119,168,1
 "Pluvialis",119,168,1
 "Pacific Golden Plover",119,169,2
@@ -282,7 +272,6 @@ name,fileindex,index,whichChild
 "Plegadis",354,172,2
 "Plegadis",354,173,2
 "Plumbeous Ibis",354,179,1
-"Plantain-eaters",346,95,2
 "Western Grey Plantain-eater",346,96,1
 "Eastern Grey Plantain-eater",346,97,2
 "Plaintive Cuckoo",355,52,1
@@ -300,7 +289,6 @@ name,fileindex,index,whichChild
 "plumbeiceps",349,53,1
 "Plain-breasted Ground-dove",347,185,1
 "Plain-bellied Emerald",327,61,2
-"Plumeleteers",326,32,2
 "Bronze-tailed Plumeleteer",326,33,1
 "White-vented Plumeleteer",326,34,2
 "Plovercrest",326,76,2
@@ -370,7 +358,6 @@ name,fileindex,index,whichChild
 "platurus",318,127,2
 "plebeia",318,176,2
 "Pletholax",318,203,2
-"Placental mammals",0,122,1
 "platyops",266,23,2
 "Plains Mouse",266,145,2
 "platythrix",269,169,2
@@ -382,7 +369,6 @@ name,fileindex,index,whichChild
 "Plateau Deer Mouse",291,13,1
 "Plains Harvest Mouse",287,190,2
 "Southern Plains Woodrat",288,13,2
-"Platacanthomyidae",281,99,2
 "Platacanthomys",281,100,1
 "platyurus",280,74,1
 "Plains Pocket Gopher",255,75,2
@@ -397,7 +383,6 @@ name,fileindex,index,whichChild
 "Plateau Pika",261,51,1
 "Northern Plains Gray Langur",275,152,2
 "Southern Plains Gray Langur",275,154,1
-"Plecotus",389,126,1
 "Plecotus",389,129,1
 "Plecotus",389,130,2
 "Plecotus",389,131,2
@@ -410,7 +395,6 @@ name,fileindex,index,whichChild
 "planirostris",396,156,1
 "planiceps",396,190,2
 "Platymops",396,193,2
-"Platyrrhinus",394,3,1
 "Platyrrhinus",394,8,1
 "Platyrrhinus",394,9,2
 "Platyrrhinus",394,10,2
@@ -426,7 +410,6 @@ name,fileindex,index,whichChild
 "plicata",400,15,1
 "Plerotes",399,40,2
 "planifrons",371,153,2
-"Platanistidae",371,161,2
 "Platanista",371,162,1
 "Platanista",371,163,2
 "platycephalus",384,11,1
@@ -434,7 +417,6 @@ name,fileindex,index,whichChild
 "planiceps",368,15,2
 "platycephalus",397,157,1
 "Plush-coated Ringtail",112,28,2
-"Planigale",111,116,2
 "Long-tailed Planigale",111,120,1
 "Planigale",111,120,1
 "Giles' Planigale",111,121,2
@@ -449,7 +431,6 @@ name,fileindex,index,whichChild
 "Great Plains Toad",61,36,1
 "platysoma",59,25,2
 "planispina",63,111,2
-"Plump Toads",63,157,1
 "Herveo Plump Toad",63,164,2
 "Cannatella's Plump Toad",63,166,1
 "Guacamayo Plump Toad",63,167,2
@@ -628,7 +609,6 @@ name,fileindex,index,whichChild
 "Peters' Platanna",322,24,2
 "Cape Platanna",322,27,2
 "Muller's Platanna",322,32,2
-"PLETHODONTIDAE",98,3,1
 "platydactyla",102,22,2
 "Jollyville Plateau Salamander",104,37,1
 "Kern Plateau Salamander",98,22,1

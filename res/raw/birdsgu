@@ -117,10 +117,6 @@ name,fileindex,index,whichChild
 "New Guinea Hawk-eagle",164,29,1
 "guianensis",162,117,1
 "New Guinea Eagle",162,119,2
-"Waders, Gulls, Sandpipers and more",20,0,2
-"Gulls, Terns, Auks and Plovers",20,3,1
-"Gulls and terns",20,6,1
-"Gulls and Kittiwakes",22,0,1
 "Slaty-backed Gull",22,20,1
 "Thayer's Gull",22,21,2
 "Glaucous-winged Gull",22,22,2
@@ -199,12 +195,10 @@ name,fileindex,index,whichChild
 "guy",154,48,2
 "Guam Swiftlet",153,21,1
 "gundlachii",159,66,2
-"Pheasants, Quails and Guineafowl",0,51,1
 "Gunnison Sage-grouse",151,17,2
 "gularis",150,36,2
 "gujanensis",147,119,2
 "guttatus",147,133,2
-"Guineafowl",0,52,2
 "Crested Guineafowl",0,56,1
 "Guttera",0,56,1
 "Plumed Guineafowl",0,57,2
@@ -213,7 +207,6 @@ name,fileindex,index,whichChild
 "White-breasted Guineafowl",0,60,1
 "Black Guineafowl",0,61,2
 "Vulturine Guineafowl",0,62,2
-"Guans and curassows",184,0,2
 "guttata",184,43,2
 "Horned Guan",184,53,2
 "Chestnut-bellied Guan",184,61,1

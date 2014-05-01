@@ -1,10 +1,7 @@
 name,fileindex,index,whichChild
-"Tanagers, Grosbeaks, Saltators and more",44,5,1
 "Saffron Finch",50,88,2
 "sanguinolentus",50,203,2
 "salmoni",50,227,2
-"Grosbeaks, Saltators and more",44,18,2
-"Grosbeaks, saltators and more",44,19,1
 "Lesser Antillean Saltator",44,27,1
 "Saltator",44,27,1
 "Green-winged Saltator",44,28,2
@@ -40,15 +37,7 @@ name,fileindex,index,whichChild
 "Santa Marta Mountain-tanager",55,20,2
 "Sayaca Tanager",55,40,2
 "sayaca",55,40,2
-"Grosbeaks, saltators and more",46,6,1
-"Grosbeaks, saltators and more",46,18,2
-"Grosbeaks, saltators and more",46,23,2
-"Grosbeaks, saltators and more",46,40,1
-"Grosbeaks, saltators and more",46,46,2
-"Grosbeaks, saltators and more",61,4,1
-"Grosbeaks, saltators and more",61,31,2
 "sallaei",61,34,2
-"Grosbeaks, saltators and more",61,36,2
 "Savannah Sparrow",48,66,2
 "sandwichensis",48,66,2
 "Saltmarsh Sparrow",48,72,1
@@ -133,7 +122,6 @@ name,fileindex,index,whichChild
 "Sassi's Olive Greenbul",70,32,2
 "sarasinorum",67,20,2
 "Sakhalin Leaf-warbler",67,38,2
-"Saw-wings",71,79,1
 "Cameroon Mountain Saw-wing",71,83,1
 "Blue Saw-wing",71,84,2
 "Fanti Saw-wing",71,85,2
@@ -162,8 +150,6 @@ name,fileindex,index,whichChild
 "Sandstone Shrike-thrush",132,58,1
 "sabini",145,65,1
 "Samoan Triller",141,74,2
-"Berrypeckers, Satinbirds and more",132,140,2
-"Satin birds",132,161,1
 "Saddleback",132,168,1
 "samoensis",112,33,2
 "sarasinorum",116,43,1
@@ -223,7 +209,6 @@ name,fileindex,index,whichChild
 "Saker Falcon",111,11,2
 "sanguineus",173,27,1
 "Sahelian Woodpecker",170,44,1
-"Sapsuckers",172,46,2
 "Red-naped Sapsucker",172,49,1
 "Red-breasted Sapsucker",172,50,2
 "Yellow-bellied Sapsucker",172,51,2
@@ -244,7 +229,6 @@ name,fileindex,index,whichChild
 "Sandy Scops-owl",180,27,2
 "Sao Tome Scops-owl",180,39,2
 "sanchezi",177,43,2
-"Saw-whet owls",177,71,1
 "Southern Saw-whet Owl",177,72,1
 "Northern Saw-whet Owl",177,73,2
 "Savanna Hawk",163,90,2
@@ -253,7 +237,6 @@ name,fileindex,index,whichChild
 "Sarcogyps",162,175,2
 "Sagittarius",161,154,2
 "Sarcoramphus",161,166,1
-"Waders, Gulls, Sandpipers and more",20,0,2
 "Saunders's Gull",22,91,2
 "saundersi",22,91,2
 "Sabine's Gull",22,99,2
@@ -262,8 +245,6 @@ name,fileindex,index,whichChild
 "sandvicensis",25,33,1
 "Saunders's Tern",25,37,1
 "saundersi",25,37,1
-"Sandpipers, Jacanas, Seedsnipes and more",20,78,2
-"Sandpipers and more",20,79,1
 "saturata",21,53,2
 "Wood Sandpiper",21,74,1
 "Marsh Sandpiper",21,76,2
@@ -272,7 +253,6 @@ name,fileindex,index,whichChild
 "Spotted Sandpiper",21,87,1
 "Common Sandpiper",21,88,2
 "Terek Sandpiper",21,95,2
-"Sandpipers, Knots and more",21,97,1
 "Semipalmated Sandpiper",21,107,1
 "Western Sandpiper",21,108,2
 "Sharp-tailed Sandpiper",21,109,2
@@ -328,7 +308,6 @@ name,fileindex,index,whichChild
 "Sao Tome Bronze-naped Pigeon",7,28,1
 "Sapphire Quail-dove",5,44,2
 "saphirina",5,44,2
-"Sandgrouse",1,173,1
 "Lichtenstein's Sandgrouse",1,179,1
 "Pin-tailed Sandgrouse",1,180,2
 "Burchell's Sandgrouse",1,182,1
@@ -354,7 +333,6 @@ name,fileindex,index,whichChild
 "Blue-headed Sapphire",156,50,2
 "Golden-tailed Sapphire",156,53,2
 "saucerrottei",156,69,1
-"Sabrewings",155,51,1
 "Santa Marta Sabrewing",155,56,1
 "Santa Marta Sabrewing",155,56,1
 "White-tailed Sabrewing",155,57,2
@@ -389,7 +367,6 @@ name,fileindex,index,whichChild
 "Savanna Nightjar",159,53,2
 "Sand-coloured Nighthawk",159,63,1
 "Salvadori's Pheasant",149,25,2
-"Sage-grouse",151,15,2
 "Greater Sage-grouse",151,16,1
 "Gunnison Sage-grouse",151,17,2
 "Satyr Tragopan",147,23,2

@@ -73,7 +73,6 @@ name,fileindex,index,whichChild
 "Todd's Scrub-flycatcher",241,52,2
 "torridus",236,66,2
 "Torrent Tyrannulet",240,14,2
-"Tody-tyrants, Pygmy Tyrants and more",239,0,1
 "Snethlage's Tody-tyrant",239,18,2
 "White-bellied Tody-tyrant",239,21,1
 "White-eyed Tody-tyrant",239,22,2
@@ -134,12 +133,8 @@ name,fileindex,index,whichChild
 "Touit",215,96,1
 "Touit",215,97,2
 "Touit",215,98,2
-"Birds of Prey, Toucans and more",114,41,2
-"Woodpeckers, Honeyguides, Toucans and Barbets",201,3,1
 "torquatus",208,98,2
 "torquilla",201,9,2
-"Toucans and barbets",204,0,2
-"Toucanets",204,6,1
 "Tawny-tufted Toucanet",204,13,1
 "Gould's Toucanet",204,14,2
 "Spot-billed Toucanet",204,15,2
@@ -167,7 +162,6 @@ name,fileindex,index,whichChild
 "Toucan Barbet",204,75,2
 "torquatus",205,19,1
 "tombacea",201,89,1
-"Kingfishers, Motmots, Todies",202,0,1
 "Todiramphus",202,15,1
 "Todiramphus",202,16,2
 "Todiramphus",202,18,1
@@ -193,8 +187,6 @@ name,fileindex,index,whichChild
 "torotoro",202,53,1
 "torquata",202,137,1
 "Tody Motmot",202,205,2
-"Todies",202,206,2
-"Todidae",202,206,2
 "Cuban Tody",202,209,1
 "Todus",202,209,1
 "Jamaican Tody",202,210,2
@@ -241,8 +233,6 @@ name,fileindex,index,whichChild
 "Tourmaline Sunangel",332,75,1
 "torquata",332,201,2
 "Tooth-billed Hummingbird",330,43,2
-"Topazes",324,15,2
-"TOPAZA",324,15,2
 "Crimson Topaz",324,16,1
 "Topaza",324,16,1
 "Fiery Topaz",324,17,2
@@ -256,9 +246,6 @@ name,fileindex,index,whichChild
 "Torrent Duck",313,118,2
 "torquata",310,169,1
 "Tomistoma",0,60,2
-"Turtles, Tortoises and Terrapins",0,76,2
-"Tortoises",94,105,2
-"Typical Tortoises",97,3,1
 "Galapagos Tortoise",97,25,1
 "Argentine Tortoise",97,27,2
 "Burmese Starred Tortoise",97,30,1
@@ -269,7 +256,6 @@ name,fileindex,index,whichChild
 "Flat-tailed Tortoise",97,55,1
 "Spider Tortoise",97,56,2
 "Karoo Cape Tortoise",97,57,2
-"Hinged Tortoises",97,60,1
 "Natal Hinge-backed Tortoise",97,63,1
 "Bell's Hinge-back Tortoise",97,64,2
 "Speke's Hinge-back Tortoise",97,65,2
@@ -290,7 +276,6 @@ name,fileindex,index,whichChild
 "Travancore Tortoise",94,123,1
 "Elongated Tortoise",94,124,2
 "Celebes Tortoise",94,125,2
-"Gopher Tortoises",94,127,1
 "Bolson Tortoise",94,129,1
 "Gopher Tortoise",94,130,2
 "Desert Tortoise",94,132,1
@@ -298,17 +283,14 @@ name,fileindex,index,whichChild
 "Asian Giant Tortoise",94,136,2
 "togoensis",300,175,1
 "torquatus",408,15,2
-"Toadhead Agamas",406,87,1
 "Toxicodryas",338,25,2
 "tornieri",338,28,1
 "torquatus",335,52,2
-"Many Toothed Snakes",335,178,1
 "Tomodon",336,46,2
 "torquata",336,128,2
 "Toxicocalamus",340,17,1
 "torquata",318,174,1
 "Toad Mouse",269,119,2
-"Tokudaia",273,44,2
 "Tokudaia",273,45,1
 "Tokudaia",273,46,2
 "toba",289,19,2
@@ -349,10 +331,8 @@ name,fileindex,index,whichChild
 "Toltec Fruit-eating Bat",393,40,2
 "toltecus",393,40,2
 "toxophyllum",393,56,2
-"Tonatia",393,159,2
 "Tonatia",393,160,1
 "Tonatia",393,161,2
-"Tomb Bats and more",400,63,1
 "Longed-winged Tomb Bat",400,69,1
 "Mauritian Tomb Bat",400,70,2
 "Hildegarde's Tomb Bat",400,71,2
@@ -364,7 +344,6 @@ name,fileindex,index,whichChild
 "tonganus",366,81,2
 "torquata",399,66,2
 "Sao Tome Collared Fruit Bat",399,67,2
-"Toothed Whales",371,119,1
 "Togian Islands Babirusa",401,31,1
 "togeanensis",401,31,1
 "townsendi",381,49,2
@@ -372,13 +351,9 @@ name,fileindex,index,whichChild
 "tokudae",380,25,2
 "Townsend's Mole",380,54,1
 "townsendii",380,54,1
-"Tolypeutes",333,13,2
 "Tolypeutes",333,14,1
 "Tolypeutes",333,15,2
 "torquatus",333,46,2
-"Frogs and Toads",0,134,1
-"True toads",38,5,1
-"Beaked Toads",56,8,1
 "Cane Toad",60,9,1
 "Arroyo Toad",61,9,1
 "Oak Toad",61,11,2
@@ -415,7 +390,6 @@ name,fileindex,index,whichChild
 "Karoo Toad",57,108,2
 "Amatola Toad",57,110,1
 "Inyanga Toad",57,111,2
-"Cape Toads",57,112,2
 "Tradouw's Mountain Toad",57,113,1
 "Rose's Mountain Toad",57,114,2
 "Common Toad",56,40,1
@@ -442,35 +416,25 @@ name,fileindex,index,whichChild
 "Mongolian Toad",56,108,2
 "Green Toad",56,112,1
 "Natterjack Toad",56,115,2
-"Beaked Toads",58,0,1
 "Rio Perene Toad",58,9,1
 "South American Common Toad",58,15,1
-"Flathead Toads",56,120,1
 "Bony-headed Toad",56,144,1
 "Crested Toad",56,146,2
 "Sulawesian Toad",56,148,2
 "Philippine Toad",56,150,1
-"Stream Toads",59,1,1
 "torrentis",59,38,1
 "tornieri",59,57,1
 "Kihansi Spray Toad",59,65,2
-"Ethiopian Toads",59,68,2
-"Asian Tree Toads",56,158,1
 "Asian Giant Toad",56,170,1
-"Smalltongue Toads",56,174,1
-"African Tree Toads",56,185,2
 "Bates' Tree Toad",56,186,1
 "African Tree Toad",56,187,2
-"Wolterstorff Toads",56,188,2
 "Green And Red Venter Harlequin Toad",63,95,2
 "Rio Carauta Stubfoot Toad",63,103,2
 "Scarlet Harlequin Toad",63,110,1
 "Three-coloured Harlequin Toad",63,116,2
-"Plump Toads",63,157,1
 "Herveo Plump Toad",63,164,2
 "Cannatella's Plump Toad",63,166,1
 "Guacamayo Plump Toad",63,167,2
-"South American Redbelly Toads",38,37,2
 "toachi",43,162,2
 "tocantins",48,193,1
 "torrenticola",46,145,1
@@ -478,15 +442,11 @@ name,fileindex,index,whichChild
 "tornieri",53,24,2
 "Torrent Treefrog",53,99,2
 "tomopterna",66,38,2
-"Rain Frogs, Saddleback Toads and more",72,0,2
 "torrenticola",81,72,2
 "toftae",86,63,2
-"Saddleback Toads",72,44,1
 "Pumpkin Toadlet",72,53,1
 "toa",87,75,2
 "tonyi",87,86,2
-"Gastric-brooding Frogs, Toadlets and more",1,20,2
-"Toadlets and more",23,4,1
 "Blacksoil Toadlet",23,14,1
 "Wrinkled Toadlet",23,15,2
 "Fat Toadlet",23,17,1
@@ -554,7 +514,6 @@ name,fileindex,index,whichChild
 "torrentis",30,18,1
 "Togo Reed Frog",31,8,1
 "tornieri",31,11,1
-"Spadefoot Toads, Asian Horned Frogs and more",1,51,2
 "Wushan Horned Toad",71,10,1
 "Convex-vented Horned Toad",71,12,2
 "Omei Horned Toad",71,13,2
@@ -576,24 +535,16 @@ name,fileindex,index,whichChild
 "Oshan Metacarpal-tubercled Toad",37,23,1
 "Java Spadefoot Toad",37,72,1
 "Chapa Spadefoot Toad",37,75,2
-"European Spadefoot Toads",1,158,2
 "Varaldi's Spadefoot Toad",1,161,1
-"American Spadefoot Toads",1,166,1
-"Western Spadefoot Toads",1,167,1
-"Southern Spadefoot Toads",1,174,2
 "Iberian Midwife Toad",342,17,1
 "Common Midwife Toad",342,18,2
 "Betic Midwife Toad",342,20,2
 "Mallorcan Midwife Toad",342,21,2
-"Fire-bellied Toads",342,22,2
 "Yellow??????????????????bellied Toad",342,27,1
 "Appenine Yellow-bellied Toad",342,28,2
 "Oriental Bell Toad",342,30,1
 "Fire-bellied Toad",342,31,2
 "Lichuan Bell Toad",342,32,2
-"Burrowing Toad, Surinam Toads and more",322,0,2
-"Burrowing Toad, Surinam Toads and more",322,0,2
-"Surinam Toads",322,38,2
 "Suriname Toad",322,43,1
 "Arrabal's Suriname Toad",322,45,2
 "Albina Surinam Toad",322,46,2
@@ -602,7 +553,6 @@ name,fileindex,index,whichChild
 "Burrowing Toad",322,60,2
 "townsendi",100,87,2
 "tonkawae",104,37,1
-"Torrent Salamanders",98,103,2
 "Southern Torrent Salamander",98,105,1
 "Columbia Torrent Salamander",98,106,2
 "Olympic Torrent Salamander",98,108,1

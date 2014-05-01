@@ -34,7 +34,6 @@ name,fileindex,index,whichChild
 "Forrest's Mountain Vole",5,54,1
 "forresti",5,54,1
 "fontanierii",4,54,1
-"Red Forest Rats",4,90,1
 "Lowland Red Forest Rat",4,92,1
 "Lowland Red Forest Rat",4,93,2
 "Eastern Red Forest Rat",4,94,2
@@ -57,7 +56,6 @@ name,fileindex,index,whichChild
 "forresti",76,160,2
 "Formosan Rock Macaque",35,44,1
 "foai",40,93,2
-"Fork-marked Lemurs",35,139,2
 "Montagne D' Ambre Fork-marked Lemur",35,141,1
 "Pale Fork-marked Lemur",35,142,2
 "Sambirano Fork-marked Lemur",35,144,1
@@ -76,7 +74,6 @@ name,fileindex,index,whichChild
 "Formosan Woolly Horseshoe Bat",60,36,1
 "formosae",60,36,1
 "Philippine Forest Horseshoe Bat",60,41,1
-"Flying Foxes",57,3,1
 "Kei Flying Fox",57,13,1
 "Aru Flying Fox",57,14,2
 "Black-bearded Flying Fox",57,15,2
@@ -140,9 +137,7 @@ name,fileindex,index,whichChild
 "Forest Hog",72,22,2
 "foina",49,56,2
 "forsteri",47,48,2
-"Wolves, Foxes and more",47,119,2
 "Crab-eating Fox",47,153,1
-"Foxes",47,157,2
 "Tibetan Fox",47,164,1
 "Corsac Fox",47,165,2
 "Ruppell's Fox",47,167,1
@@ -176,7 +171,6 @@ name,fileindex,index,whichChild
 "Forest Shrew",85,36,2
 "fodiens",91,43,2
 "Four-toed Hedgehog",85,61,1
-"FOLIVORA",0,50,1
 "Four-toed Mole Tenrec",34,31,1
 "Four-toed Sengi",0,92,2
 "forbesi",43,144,1

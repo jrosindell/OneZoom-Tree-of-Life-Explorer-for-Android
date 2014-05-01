@@ -129,7 +129,6 @@ name,fileindex,index,whichChild
 "sclateri",115,28,1
 "sclateri",113,22,1
 "Scrub Honeyeater",113,87,2
-"Scrubwrens",114,3,1
 "Large-billed Scrubwren",114,9,1
 "Large Scrubwren",114,10,2
 "Perplexing Scrubwren",114,11,2
@@ -145,8 +144,6 @@ name,fileindex,index,whichChild
 "Tasmanian Scrubwren",114,27,2
 "Scrubtit",112,112,2
 "Scenopoeetes",29,61,2
-"Scrub-birds, Lyrebirds",29,75,2
-"Scrub-birds",29,76,1
 "Rufous Scrub-bird",29,77,1
 "Noisy Scrub-bird",29,78,2
 "Schoeniophylax",37,42,2
@@ -241,7 +238,6 @@ name,fileindex,index,whichChild
 "schisticolor",41,35,2
 "Sclater's Antwren",41,47,2
 "sclateri",41,47,2
-"Scrub-flycatchers",125,48,2
 "Northern Scrub-flycatcher",125,50,1
 "Todd's Scrub-flycatcher",125,51,2
 "Southern Scrub-flycatcher",125,52,2
@@ -250,7 +246,6 @@ name,fileindex,index,whichChild
 "Sclater's Tyrannulet",123,194,2
 "sclateri",123,194,2
 "Scale-crested Pygmy-tyrant",130,19,1
-"Schiffornis",121,100,2
 "Thrush-like Schiffornis",121,102,1
 "Schiffornis",121,102,1
 "Greenish Schiffornis",121,103,2
@@ -293,7 +288,6 @@ name,fileindex,index,whichChild
 "sclateri",176,31,2
 "Scaly Kingfisher",175,52,2
 "Scaly Ground-roller",174,188,2
-"Scimitarbills",161,55,2
 "Common Scimitarbill",161,57,1
 "Abyssinian Scimitarbill",161,58,2
 "Black Scimitarbill",161,59,2
@@ -302,7 +296,6 @@ name,fileindex,index,whichChild
 "Scotopelia",166,13,2
 "Scotopelia",166,14,2
 "scandiaca",166,38,2
-"Screech-owls",166,105,1
 "Black-capped Screech-owl",166,113,1
 "Puerto Rican Screech-owl",166,114,2
 "Tawny-bellied Screech-owl",166,115,2
@@ -335,7 +328,6 @@ name,fileindex,index,whichChild
 "Rajah Scops-owl",166,161,2
 "White-faced Scops-owl",166,182,1
 "Moluccan Scops-owl",166,183,2
-"Scops-owls",180,0,2
 "Malagasy Scops-owl",180,11,1
 "Anjouan Scops-owl",180,12,2
 "Mayotte Scops-owl",180,13,2
@@ -378,7 +370,6 @@ name,fileindex,index,whichChild
 "schistisagus",22,20,1
 "scoresbii",22,68,1
 "scopulinus",22,82,2
-"Scolopacidae",20,79,1
 "Scolopax",21,43,1
 "Scolopax",21,44,2
 "Scolopax",21,46,1
@@ -432,9 +423,7 @@ name,fileindex,index,whichChild
 "Scaly Francolin",148,22,2
 "Scaly-breasted Partridge",147,73,1
 "Scaled Quail",147,159,2
-"Waterfowl, Screamers and Magpie Goose",27,0,2
 "Scaly-sided Merganser",27,21,1
-"Scoters",27,32,2
 "White-winged Scoter",27,34,1
 "Surf Scoter",27,35,2
 "Black Scoter",27,36,2
@@ -442,7 +431,6 @@ name,fileindex,index,whichChild
 "Greater Scaup",27,97,2
 "New Zealand Scaup",27,104,2
 "scutulata",27,110,2
-"Screamers",27,215,2
 "Southern Screamer",27,217,1
 "Northern Screamer",27,218,2
 "Horned Screamer",27,219,2

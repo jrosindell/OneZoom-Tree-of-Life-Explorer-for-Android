@@ -1,28 +1,10 @@
 name,fileindex,index,whichChild
 "Woodpecker Finch",129,14,2
-"New World Warblers, Buntings, American Sparrows and more",142,2,1
 "Worthen's Sparrow",142,44,1
 "wortheni",142,44,1
-"New World blackbirds",142,165,2
-"New World warblers, Buntings, American Sparrows and more",142,184,2
-"New World warblers",142,185,1
 "Worm-eating Warbler",144,222,2
-"New World warblers",142,203,2
 "Woodhouse's Antpecker",132,179,1
 "woodhousei",132,179,1
-"Chats and Old World flycatchers",121,187,1
-"Thrushes, Dippers, Chats, Old World Flycatchers",181,4,1
-"Chats and Old World Flycatchers",181,6,1
-"Chats and Old World flycatchers",183,5,1
-"Chats and Old World flycatchers",183,55,2
-"Chats and Old World flycatchers",183,68,2
-"Chats and Old World flycatchers",183,71,2
-"Chats and Old World flycatchers",183,85,1
-"Chats and Old World flycatchers",183,104,1
-"Chats and Old World flycatchers",183,111,2
-"Chats and Old World flycatchers",183,172,2
-"Chats and Old World flycatchers",193,1,1
-"Chats and Old World flycatchers",181,9,2
 "Wood Thrush",188,199,2
 "Bar-winged Wood-wren",190,15,1
 "Munchique Wood-wren",190,21,2
@@ -32,23 +14,7 @@ name,fileindex,index,whichChild
 "woodi",165,58,2
 "Woodfordia",166,18,1
 "Woodfordia",166,19,2
-"Babblers, Old World Warblers and more",179,0,2
-"Old World warblers",179,67,1
-"Old World Warblers",176,0,2
-"Old World warblers",176,3,1
-"Old World warblers",176,62,1
-"Old World warblers",176,76,2
-"Old World warblers",176,80,2
-"Old World warblers",176,184,1
-"Old World warblers",170,50,2
-"Old World warblers",170,76,1
-"Old World warblers",170,109,2
-"Old World warblers",170,112,2
-"Old World warblers",170,115,2
 "woosnami",170,132,1
-"Old World warblers",170,176,2
-"Old World warblers",161,9,2
-"Old World warblers",162,2,1
 "Yellow-throated Woodland-warbler",162,73,1
 "Brown Woodland-warbler",162,74,2
 "Red-faced Woodland-warbler",162,75,2
@@ -56,18 +22,13 @@ name,fileindex,index,whichChild
 "Black-capped Woodland-warbler",162,128,2
 "Uganda Woodland-warbler",162,134,1
 "Wood Warbler",162,143,2
-"Old World warblers",161,19,2
 "Wood Lark",173,26,2
 "wollweberi",169,54,2
-"Chats and Old World flycatchers",161,167,2
 "woodfordi",158,31,1
 "Woodchat Shrike",157,178,2
 "woodwardi",152,177,1
-"Shrike-Flycatchers, Butcherbirds, Woodswallows and more",195,3,1
-"Chats and Old World flycatchers",195,51,2
 "Common Woodshrike",195,74,1
 "Large Woodshrike",195,75,2
-"Woodswallows",199,2,1
 "White-breasted Woodswallow",199,7,1
 "Ivory-backed Woodswallow",199,8,2
 "Bismarck Woodswallow",199,10,1
@@ -80,11 +41,8 @@ name,fileindex,index,whichChild
 "Fiji Woodswallow",199,21,2
 "Ashy Woodswallow",199,22,2
 "woodwardi",120,132,1
-"Ovenbirds, Woodcreepers, Antthrushes",229,5,1
-"Ovenbirds, Woodcreepers",229,6,1
 "Striped Woodhaunter",232,75,1
 "Western Woodhaunter",232,76,2
-"Woodcreepers",230,81,2
 "Scalloped Woodcreeper",230,93,1
 "Spot-crowned Woodcreeper",230,94,2
 "Montane Woodcreeper",230,95,2
@@ -135,8 +93,6 @@ name,fileindex,index,whichChild
 "Wedge-billed Woodcreeper",230,185,2
 "Western Wood-pewee",243,42,2
 "Eastern Wood-pewee",243,52,2
-"Woodpeckers, Honeyguides, Toucans and Barbets",201,3,1
-"Woodpeckers",201,5,1
 "Scarlet-backed Woodpecker",206,15,1
 "Yellow-vented Woodpecker",206,16,2
 "Bar-bellied Woodpecker",206,18,1
@@ -245,7 +201,6 @@ name,fileindex,index,whichChild
 "Great Slaty Woodpecker",208,39,1
 "Ashy Woodpecker",208,40,2
 "Sooty Woodpecker",208,41,2
-"Flickers and other woodpeckers",208,43,1
 "Golden-olive Woodpecker",208,49,1
 "Black-necked Woodpecker",208,50,2
 "Grey-crowned Woodpecker",208,51,2
@@ -312,10 +267,6 @@ name,fileindex,index,whichChild
 "Heart-spotted Woodpecker",206,206,2
 "Cuban Green Woodpecker",206,208,2
 "Woodland Kingfisher",202,103,2
-"Hornbills, Woodhoopoes and Hoopoe",201,140,2
-"Woodhoopoes and more",201,181,2
-"Woodhoopoes",201,182,1
-"Woodhoopoes",201,183,1
 "Violet Woodhoopoe",201,186,1
 "Green Woodhoopoe",201,187,2
 "Forest Woodhoopoe",201,188,2
@@ -326,10 +277,8 @@ name,fileindex,index,whichChild
 "African Wood-owl",228,20,2
 "woodfordii",228,20,2
 "Mottled Wood-owl",228,27,1
-"New World vultures",115,173,2
 "worcesteri",114,109,2
 "Wood Snipe",223,31,2
-"Woodcocks",223,41,2
 "New Guinea Woodcock",223,45,1
 "Eurasian Woodcock",223,46,2
 "Moluccan Woodcock",223,48,1
@@ -343,7 +292,6 @@ name,fileindex,index,whichChild
 "Wood Stork",346,36,2
 "Madagascar Wood Rail",360,33,1
 "Lord Howe Woodhen",362,9,1
-"Wood-Rails",360,85,1
 "Slaty-breasted Wood-rail",360,88,1
 "Rufous-necked Wood-rail",360,89,2
 "Grey-necked Wood-rail",360,91,1
@@ -355,13 +303,11 @@ name,fileindex,index,whichChild
 "Woodford's Rail",360,112,2
 "woodfordi",360,112,2
 "Wompoo Fruit-dove",350,74,1
-"Wood-doves",347,10,1
 "Black-billed Wood-dove",347,13,1
 "Blue-headed Wood-dove",347,15,2
 "Emerald-spotted Wood-dove",347,17,1
 "Blue-spotted Wood-dove",347,18,2
 "Wonga Pigeon",347,75,2
-"Wood pigeons, Laurel pigeons and more",348,1,1
 "Speckled Wood-pigeon",348,17,1
 "Common Wood-pigeon",348,23,2
 "Sri Lanka Wood-pigeon",348,31,2
@@ -370,15 +316,12 @@ name,fileindex,index,whichChild
 "Japanese Wood-pigeon",348,48,2
 "Ashy Wood-pigeon",348,49,2
 "Nilgiri Wood-pigeon",348,58,2
-"Woodnymphs",326,21,1
 "Blue-crowned Woodnymph",326,25,1
 "Green-crowned Woodnymph",326,26,2
 "Mexican Woodnymph",326,27,2
 "Fork-tailed Woodnymph",326,28,2
 "Violet-capped Woodnymph",326,30,1
 "Long-tailed Woodnymph",326,31,2
-"Woodstars",328,1,1
-"Typical Woodstars",328,6,1
 "Santa Marta Woodstar",328,10,1
 "Little Woodstar",328,11,2
 "Gorgeted Woodstar",328,12,2
@@ -393,8 +336,6 @@ name,fileindex,index,whichChild
 "Purple-collared Woodstar",328,27,1
 "Amethyst Woodstar",328,31,1
 "Chilean Woodstar",328,32,2
-"New World quails",310,14,1
-"Wood-Quails",315,2,1
 "Spot-winged Wood-quail",315,8,1
 "Chestnut Wood-quail",315,9,2
 "Black-breasted Wood-quail",315,10,2
@@ -410,13 +351,11 @@ name,fileindex,index,whichChild
 "Spotted Wood-quail",315,27,2
 "Gorgeted Wood-quail",315,29,1
 "Starred Wood-quail",315,30,2
-"Wood-Partridges",310,16,1
 "Long-tailed Wood-partridge",310,18,1
 "Bearded Wood-partridge",310,19,2
 "Buffy-crowned Wood-partridge",310,20,2
 "Wood Duck",313,70,2
 "Australian Wood Duck",313,112,1
-"Neotropical Wood Turtles",94,88,2
 "Furrowed Wood Turtle",94,98,2
 "Large-nosed Wood Turtle",94,104,2
 "Wood Turtle",94,150,2
@@ -424,25 +363,20 @@ name,fileindex,index,whichChild
 "Two-digit Worm Skink",300,97,2
 "Negros Three-digit Worm Skink",300,102,2
 "Woodbush Legless Skink",298,48,2
-"Worm-skinks",298,49,2
 "Long-legged Worm-skink",298,61,2
 "Gyldenstolpe's Worm Skink",298,75,1
 "wolteri",308,11,1
 "Seychelles Wolf Snake",335,174,1
 "Eastern Worm Snake",335,198,1
-"Blind snakes, Thread Snakes and Worm Snakes",334,111,2
 "Adler's Worm Snake",334,130,2
 "Jan's Worm Snake",334,151,2
-"Worm Lizards",334,155,2
 "Darwin's Ringed Worm Lizard",334,172,2
 "Four-toed Worm Lizard",334,174,1
 "Five-toed Worm Lizard",334,175,2
 "Iberian Worm Lizard",334,177,2
 "wolterstorffi",318,10,1
-"Wonder Geckos",321,24,1
 "Flinders Ranges Worm-lizard",318,190,1
 "woodwardi",266,83,1
-"Woolly Rats",270,52,1
 "Subalpine Woolly Rat",270,55,1
 "Alpine Woolly Rat",270,56,2
 "De Vis's Woolly Rat",270,57,2
@@ -459,8 +393,6 @@ name,fileindex,index,whichChild
 "Wolffsohn's Leaf-eared Mouse",292,31,2
 "wolffsohni",292,31,2
 "Woolly Giant Rat",292,62,1
-"Deer Mice, Harvest Mice, Woodrats and more",287,150,2
-"Woodrats and more",287,211,2
 "San Martin Island Woodrat",288,9,1
 "Arizona Woodrat",288,10,2
 "Bolano's Woodrat",288,11,2
@@ -490,7 +422,6 @@ name,fileindex,index,whichChild
 "Wood Lemming",283,45,2
 "Woodland Jumping Mouse",280,39,1
 "Woolly-headed Spiny Tree Rat",258,60,1
-"Old World Porcupines",256,37,1
 "Wolffsohn's Viscacha",256,65,2
 "wolffsohni",256,65,2
 "Woolly Flying Squirrel",278,89,2
@@ -498,10 +429,7 @@ name,fileindex,index,whichChild
 "Woodland Dormouse",262,22,2
 "Woolly Dormouse",262,38,2
 "Woolly Hare",277,43,1
-"Old World Monkeys",275,0,1
 "wolfi",275,114,1
-"New World Monkeys",285,0,2
-"Woolly Monkeys",286,4,1
 "Geoffroy'S/peruvian Woolly Monkey",286,6,1
 "Poeppig's Woolly Monkey",286,7,2
 "Common Woolly Monkey",286,9,1
@@ -509,7 +437,6 @@ name,fileindex,index,whichChild
 "Peruvian Yellow-tailed Woolly Monkey",286,11,2
 "Lorenz Von Liburnau's Woolly Lemur",260,73,1
 "Gmelin's Woolly Lemur",260,74,2
-"Woolly Bats and more",389,7,1
 "Papillose Woolly Bat",389,14,1
 "Lenis Woolly Bat",389,15,2
 "Clear-winged Woolly Bat",389,16,2
@@ -528,7 +455,6 @@ name,fileindex,index,whichChild
 "Damara Woolly Bat",389,40,2
 "Louisiade Woolly Bat",389,41,2
 "Big-eared Wooly Bat",393,165,1
-"Old World Leaf-nosed Bats",376,3,1
 "Wollaston's Leaf-nosed Bat",378,37,1
 "wollastoni",378,37,1
 "Lesser Wooly Horseshoe Bat",377,20,2
@@ -543,14 +469,12 @@ name,fileindex,index,whichChild
 "woermanni",399,46,2
 "Wolverine",383,61,2
 "wollebaeki",381,65,2
-"Wolves, Foxes and more",381,119,2
 "Ethiopian Wolf",381,132,1
 "Grey Wolf",381,134,2
 "Maned Wolf",381,150,2
 "wogura",380,24,1
 "Woylie",110,125,2
 "Woodlark Cuscus",112,78,2
-"Wombats",109,10,1
 "Southern Hairy-nosed Wombat",109,12,1
 "Northern Hairy-nosed Wombat",109,13,2
 "Common Wombat",109,14,2
@@ -568,7 +492,6 @@ name,fileindex,index,whichChild
 "Woodhouse's Toad",61,40,1
 "woodhousii",61,40,1
 "wolongensis",56,52,2
-"Wolterstorff Toads",56,188,2
 "Wolterstorffina",56,190,1
 "Wolterstorffina",56,191,2
 "Wolterstorffina",56,192,2
@@ -585,6 +508,4 @@ name,fileindex,index,whichChild
 "wolfi",92,126,2
 "wolterstorffi",28,79,2
 "wondiwoi",33,84,2
-"Worm Salamanders",106,2,1
-"Woodland Salamanders",98,48,1
 "wolterstorffi",103,64,2

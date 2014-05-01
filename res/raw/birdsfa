@@ -9,8 +9,6 @@ name,fileindex,index,whichChild
 "Fan-tailed Widowbird",105,16,2
 "fagani",101,179,2
 "famosa",62,16,2
-"Leafbirds, Fairy-Bluebirds",62,196,2
-"Fairy-bluebirds",62,218,2
 "Philippine Fairy-bluebird",62,219,1
 "Asian Fairy-bluebird",62,220,2
 "Familiar Chat",93,26,1
@@ -43,7 +41,6 @@ name,fileindex,index,whichChild
 "fascinans",43,126,2
 "Fatuhiva Monarch",133,32,1
 "fastuosus",144,40,1
-"Fantails",142,2,1
 "Long-tailed Fantail",142,13,1
 "Manus Fantail",142,14,2
 "Mangrove Fantail",142,15,2
@@ -93,7 +90,6 @@ name,fileindex,index,whichChild
 "fallax",113,171,2
 "Fan-tailed Gerygone",112,138,2
 "Fairy Gerygone",112,145,2
-"Fairywrens",112,158,1
 "Blue-breasted Fairywren",112,165,1
 "Purple-crowned Fairywren",112,166,2
 "Splendid Fairywren",112,168,1
@@ -121,8 +117,6 @@ name,fileindex,index,whichChild
 "Fairy Pitta",120,25,2
 "Fairy Lorikeet",109,34,1
 "farinosa",118,60,2
-"Falcons and caracaras",29,102,2
-"FALCONIFORMES",29,102,2
 "Black Falcon",111,10,1
 "Falco",111,10,1
 "Saker Falcon",111,11,2
@@ -170,7 +164,6 @@ name,fileindex,index,whichChild
 "Taita Falcon",29,110,2
 "fasciinucha",29,110,2
 "Falco",29,110,2
-"Kestrels and other falcons",29,111,2
 "Falco",29,118,1
 "Falco",29,119,2
 "Falco",29,120,2
@@ -183,7 +176,6 @@ name,fileindex,index,whichChild
 "Grey Falcon",29,129,2
 "Falco",29,129,2
 "Falco",29,130,2
-"Falconets",29,132,1
 "Philippine Falconet",29,135,1
 "Collared Falconet",29,136,2
 "Pied Falconet",29,137,2
@@ -220,7 +212,6 @@ name,fileindex,index,whichChild
 "falcatus",155,70,2
 "fanny",157,27,1
 "Fawn-breasted Brilliant",160,131,2
-"Fairies",158,40,2
 "Purple-crowned Fairy",158,41,1
 "Black-eared Fairy",158,42,2
 "falcipennis",151,27,1

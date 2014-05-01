@@ -1,12 +1,5 @@
 name,fileindex,index,whichChild
-"Leaf-warblers and other warblers",162,3,1
-"Short-toe Larks and other Larks",173,51,2
 "ottonis",233,150,1
-"Phoebes, Pewees and other flycatchers",243,2,1
-"Macaws and other Parakeets",217,2,1
-"Other Parakeets",217,4,1
-"Kestrels and other falcons",222,57,2
-"Flickers and other woodpeckers",208,43,1
 "Otus",227,47,1
 "Otus",227,48,2
 "Otus",227,49,2
@@ -54,10 +47,6 @@ name,fileindex,index,whichChild
 "Otus",224,99,2
 "Otus",224,101,1
 "Otus",224,102,2
-"Hawk-eagles and other eagles",116,0,1
-"Dotterels, other Plovers and more",119,3,1
-"Malkoha, Koels and other cuckoos",355,1,1
-"OTIDIFORMES",363,0,2
 "Otis",363,45,2
 "Otidiphaps",347,41,2
 "Otocryptis",406,55,2
@@ -83,12 +72,10 @@ name,fileindex,index,whichChild
 "Ototylomys",287,146,2
 "Otonyctomys",287,148,1
 "othus",277,14,2
-"Otolemur",260,113,1
 "Otolemur",260,115,1
 "Otolemur",260,116,2
 "Otolemur",260,117,2
 "Otonycteris",391,31,2
-"Otomops",396,46,2
 "Otomops",396,49,1
 "Otomops",396,50,2
 "Otomops",396,51,2
@@ -96,7 +83,6 @@ name,fileindex,index,whichChild
 "Otomops",396,55,2
 "Otomops",396,56,2
 "Otopteropus",387,43,2
-"Otters",386,2,1
 "Southern River Otter",386,8,1
 "Marine Otter",386,9,2
 "Neotropical Otter",386,10,2
@@ -108,7 +94,6 @@ name,fileindex,index,whichChild
 "Sea Otter",386,23,2
 "Asian Small-clawed Otter",386,25,1
 "African Clawless Otter",386,26,2
-"Otariidae",381,37,1
 "Otaria",381,60,2
 "Otocyon",381,185,2
 "Otter-civet",385,69,2

@@ -4,7 +4,6 @@ name,fileindex,index,whichChild
 "Uniform Finch",125,56,1
 "Slaty Finch",125,57,2
 "Peg-billed Finch",125,58,2
-"Finches and more",125,67,2
 "Sulphur-throated Finch",125,85,1
 "Saffron Finch",125,86,2
 "Yellow-bridled Finch",125,98,1
@@ -17,7 +16,6 @@ name,fileindex,index,whichChild
 "Crimson-breasted Finch",130,23,1
 "Slender-billed Finch",124,39,2
 "Black-masked Finch",124,42,2
-"Finchs, Grassquits and more",129,3,1
 "Woodpecker Finch",129,14,2
 "Mangrove Finch",129,18,2
 "Cocos Finch",129,19,2
@@ -25,7 +23,6 @@ name,fileindex,index,whichChild
 "Warbler Finch",129,30,2
 "St Lucia Black Finch",129,32,2
 "Tanager Finch",128,131,2
-"Finches and more",128,173,1
 "Grey-crested Finch",128,175,1
 "Black-crested Finch",128,176,2
 "Yellow-green Finch",145,12,1
@@ -35,8 +32,6 @@ name,fileindex,index,whichChild
 "Olive Finch",142,31,2
 "Field Sparrow",142,45,2
 "Five-striped Sparrow",142,49,1
-"Finches and more",135,0,2
-"Finches and Hawaiian honeycreepers",135,2,1
 "Fire-fronted Serin",135,25,2
 "Mediterranean Citril Finch",138,29,2
 "Alpine Citril Finch",135,58,1
@@ -56,8 +51,6 @@ name,fileindex,index,whichChild
 "Trumpeter Finch",135,136,2
 "Finsch's Euphonia",135,200,2
 "finschi",135,200,2
-"Finches and Hawaiian honeycreepers",135,207,2
-"Waxbills, grass finches, munias and more",132,0,1
 "Five-coloured Munia",132,47,2
 "Plum-headed Finch",132,90,1
 "Crimson Finch",132,91,2
@@ -158,8 +151,6 @@ name,fileindex,index,whichChild
 "Taita Fiscal",157,201,2
 "Grey-backed Fiscal",157,203,2
 "Long-tailed Fiscal",157,207,2
-"Orioles and figbirds",152,95,1
-"Figbirds",152,98,2
 "Australasian Figbird",152,100,1
 "Timor Figbird",152,101,2
 "Wetar Figbird",152,102,2
@@ -172,7 +163,6 @@ name,fileindex,index,whichChild
 "Fire-maned Bowerbird",120,153,1
 "Firewood-gatherer",233,176,2
 "figulus",231,63,2
-"Fire-eyes",247,17,2
 "White-shouldered Fire-eye",247,19,1
 "Fringe-backed Fire-eye",247,20,2
 "White-backed Fire-eye",247,21,2
@@ -181,7 +171,6 @@ name,fileindex,index,whichChild
 "Fiery-throated Fruiteater",249,87,2
 "Fiery-capped Manakin",249,109,1
 "filicauda",249,115,2
-"Fig-Parrots",215,9,2
 "Edwards's Fig-parrot",215,12,1
 "Large Fig-parrot",215,13,2
 "Salvadori's Fig-parrot",215,14,2
@@ -203,16 +192,13 @@ name,fileindex,index,whichChild
 "Five-coloured Barbet",204,95,2
 "Fire-tufted Barbet",204,173,2
 "fistulator",203,58,2
-"Fish-owls, Eagle-owls and more",225,0,1
 "Vermiculated Fishing-owl",225,7,1
 "Rufous Fishing-owl",225,8,2
 "Pel's Fishing-owl",225,9,2
-"Fish-owls",225,35,1
 "Blakiston's Fish-owl",225,38,1
 "Buffy Fish-owl",225,39,2
 "Tawny Fish-owl",225,40,2
 "Brown Fish-owl",225,41,2
-"Fish-eagles and Sea-eagles",115,12,1
 "Madagascar Fish-eagle",115,19,1
 "African Fish-eagle",115,20,2
 "Pallas's Fish-eagle",115,26,2
@@ -225,7 +211,6 @@ name,fileindex,index,whichChild
 "Fiordland Penguin",357,160,1
 "Fischer's Turaco",346,62,2
 "fischeri",346,62,2
-"Rails and Finfoots",360,1,1
 "African Finfoot",360,115,2
 "Masked Finfoot",360,126,2
 "fischeri",350,89,2
@@ -234,8 +219,6 @@ name,fileindex,index,whichChild
 "fimbriata",327,22,1
 "Fiery-throated Hummingbird",326,178,2
 "Fire-throated Metaltail",332,14,1
-"Coquettes, Thorntails and Firecrowns",332,85,2
-"Firecrowns",332,115,2
 "Juan Fernandez Firecrown",332,116,1
 "Green-backed Firecrown",332,117,2
 "Fiery-tailed Awlbill",330,23,2
@@ -249,7 +232,6 @@ name,fileindex,index,whichChild
 "fischeri",313,37,2
 "Fish-eating Crocodile",0,59,1
 "fimbriatus",0,111,2
-"Firetail Skinks",306,27,1
 "fierinensis",303,88,1
 "Fitzinger's Algyroides",308,29,1
 "fitzingeri",308,29,1
@@ -272,7 +254,6 @@ name,fileindex,index,whichChild
 "Himalayan Field Rat",267,40,2
 "Pale Field Rat",267,64,2
 "Ranjini's Field Rat",267,114,1
-"Field Mice",273,5,1
 "Large Japanese Field Mouse",273,12,1
 "Large-eared Field Mouse",273,13,2
 "South China Field Mouse",273,14,2
@@ -290,10 +271,8 @@ name,fileindex,index,whichChild
 "Steppe Field Mouse",273,38,2
 "Herb Field Mouse",273,39,2
 "Black Sea Field Mouse",273,40,2
-"Broad-toothed Field Mice",273,41,2
 "Western Broad-toothed Field Mouse",273,42,1
 "Broad-toothed Field Mouse",273,43,2
-"Fish-eating Rats",287,77,1
 "Peruvian Fish-eating Rat",287,80,1
 "Oyapock's Fish-eating Rat",287,81,2
 "Musso's Fish-eating Rat",287,82,2
@@ -349,7 +328,6 @@ name,fileindex,index,whichChild
 "fistulans",28,206,1
 "fiziensis",36,88,2
 "fichus",25,166,2
-"Fire-bellied Toads",342,22,2
 "Fire-bellied Toad",342,31,2
 "firscheini",100,115,2
 "Oriental Fire-bellied Newt",103,63,1

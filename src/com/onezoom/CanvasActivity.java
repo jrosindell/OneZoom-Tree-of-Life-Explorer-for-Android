@@ -13,6 +13,7 @@ import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.view.WindowManager;
 import android.widget.SearchView;
 import android.widget.SearchView.OnQueryTextListener;
@@ -27,11 +28,12 @@ public class CanvasActivity extends Activity{
 	private GrowthThread growthThread;
 	private boolean threadStarted = false;
 	private boolean growing = false;
+	private boolean searching = false;
 	private int orientation;
 	private int screenHeight;
 	private int screenWidth;
 	private static float scaleFactor;
-	Toast toast;
+	Toast previousToast;
 
 	
 	@Override
@@ -44,7 +46,6 @@ public class CanvasActivity extends Activity{
 
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
-		toast = Toast.makeText(this, "", Toast.LENGTH_SHORT);
 		
 		selectedItem = getIntent().getExtras().getString(
 				"com.onezoom.selectedTree");
@@ -61,7 +62,8 @@ public class CanvasActivity extends Activity{
 	    getActionBar().setDisplayShowTitleEnabled(false);
 		getActionBar().setDisplayHomeAsUpEnabled(false);
 		if (growing) inflateGrowMenu(menu);
-		else inflateSearchMenu(menu);    
+		else if (searching) inflateSearchMenu(menu);
+		else inflateViewMenu(menu);    
 		return true;
 	}
 	
@@ -125,11 +127,21 @@ public class CanvasActivity extends Activity{
 		memoryThread.search(userInput);
 	}
 	
+	public void backSearch() {
+		memoryThread.backSearch();
+	}
+	
+	public void forwardSearch() {
+		memoryThread.forwardSearch();
+	}
+	
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		switch (item.getItemId()) {
 		case android.R.id.home:
 			growing = false;
+			searching = false;
+			growthThread.Close();
 			invalidateOptionsMenu();
 			break;
 		
@@ -164,6 +176,19 @@ public class CanvasActivity extends Activity{
 			resetTree();
 			break;
 		
+		case R.id.search:
+			searching = true;
+			invalidateOptionsMenu();
+			break;
+			
+		case R.id.back:
+			backSearch();
+			break;
+			
+		case R.id.forward:
+			forwardSearch();
+			break;
+			
 		default:
 			break;
 		}
@@ -178,7 +203,7 @@ public class CanvasActivity extends Activity{
 
 	private void inflateSearchMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.searchmenu, menu);
+		getMenuInflater().inflate(R.menu.searhmenu, menu);
 
 		// Associate searchable configuration with the SearchView
 		SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
@@ -187,9 +212,12 @@ public class CanvasActivity extends Activity{
 		searchView.setSearchableInfo(searchManager
 				.getSearchableInfo(getComponentName()));
 		searchView.setIconifiedByDefault(true);
+		
 		MenuItem searchMenuItem = (MenuItem) menu.findItem(R.id.search);
+		searchMenuItem.expandActionView();
+		
 		searchView.setQueryHint("Enter Species Name");
-		searchView.clearFocus();
+		
 		
 		searchView.setOnQueryTextListener(new OnQueryTextListener() {		
 			@Override
@@ -211,6 +239,10 @@ public class CanvasActivity extends Activity{
 	
 	private void inflateGrowMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.grow, menu);
+	}
+	
+	private void inflateViewMenu(Menu menu) {
+		getMenuInflater().inflate(R.menu.viewmenu, menu);
 	}
 	
 	public int getOrientation() {
@@ -260,7 +292,9 @@ public class CanvasActivity extends Activity{
 	}
 
 	public void showToast(String text) {
-		toast.setText(text);
-		toast.show();
+		if (previousToast != null)
+			previousToast.cancel();
+		previousToast = Toast.makeText(this, text, Toast.LENGTH_SHORT);
+		previousToast.show();
 	}
 }

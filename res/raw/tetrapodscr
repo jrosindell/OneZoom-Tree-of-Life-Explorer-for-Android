@@ -62,7 +62,6 @@ name,fileindex,index,whichChild
 "Creatophora",191,141,2
 "crassa",194,24,2
 "San Cristobal Starling",194,43,2
-"Philippine creepers",194,70,2
 "San Cristobal Mockingbird",192,16,1
 "Crissal Thrasher",192,45,2
 "crissale",192,45,2
@@ -100,12 +99,10 @@ name,fileindex,index,whichChild
 "Western Crowned Warbler",162,29,1
 "Eastern Crowned Warbler",162,81,1
 "Crested Tit-warbler",162,221,2
-"Crag-martins",178,36,1
 "Dusky Crag-martin",178,39,1
 "Eurasian Crag-martin",178,41,2
 "Pale Crag-martin",178,42,2
 "cryptoleuca",178,111,2
-"Crombecs",161,21,1
 "White-browed Crombec",161,27,1
 "Northern Crombec",161,28,2
 "Green Crombec",161,29,2
@@ -127,7 +124,6 @@ name,fileindex,index,whichChild
 "African Crested-flycatcher",152,42,1
 "Blue-headed Crested-flycatcher",152,43,2
 "Crinkle-collared Manucode",160,73,1
-"Crows, Ravens and Jackdaws",158,0,1
 "cryptoleucus",158,11,1
 "Pied Crow",158,13,2
 "Grey Crow",158,16,2
@@ -180,8 +176,6 @@ name,fileindex,index,whichChild
 "Crimson-breasted Gonolek",198,34,1
 "cruentus",198,55,1
 "cruentus",198,84,1
-"Cracticidae",199,23,2
-"Cracticidae",199,26,2
 "Cracticus",199,31,1
 "Cracticus",199,32,2
 "Cracticus",199,33,2
@@ -195,7 +189,6 @@ name,fileindex,index,whichChild
 "Crested Shrike-tit",195,179,2
 "crassirostris",120,31,1
 "Crested Bird-of-paradise",120,45,2
-"Wattled crows",120,47,1
 "Crow Honeyeater",148,28,1
 "Crescent Honeyeater",148,63,2
 "cruentata",149,39,2
@@ -241,7 +234,6 @@ name,fileindex,index,whichChild
 "crassirostris",229,19,1
 "Crested Gallito",248,101,2
 "Crescent-faced Antpitta",248,197,1
-"Crescentchests",229,85,2
 "Olive-crowned Crescentchest",229,88,1
 "Collared Crescentchest",229,89,2
 "Maranon Crescentchest",229,90,2
@@ -332,7 +324,6 @@ name,fileindex,index,whichChild
 "Crotophaga",346,127,1
 "Crotophaga",346,128,2
 "Crotophaga",346,129,2
-"Rails, crakes and more",360,2,1
 "Ruddy-breasted Crake",360,13,1
 "Australian Crake",360,15,2
 "Baillon's Crake",360,18,2
@@ -361,7 +352,6 @@ name,fileindex,index,whichChild
 "White-throated Crake",361,16,2
 "Grey-breasted Crake",361,18,1
 "Ruddy Crake",361,19,2
-"Forest-Rails and Crakes",361,33,2
 "Red-legged Crake",361,39,2
 "Andaman Crake",361,42,2
 "Slaty-legged Crake",361,45,1
@@ -373,8 +363,6 @@ name,fileindex,index,whichChild
 "Paint-billed Crake",360,124,1
 "Colombian Crake",360,125,2
 "Ocellated Crake",360,127,2
-"Cranes, Trumpeters and Limpkin",360,156,2
-"Cranes",360,158,1
 "Sarus Crane",360,165,1
 "White-naped Crane",360,167,2
 "Sandhill Crane",360,168,2
@@ -392,7 +380,6 @@ name,fileindex,index,whichChild
 "crepitans",360,192,2
 "Cream-bellied Fruit-dove",350,34,2
 "Cryptophaps",350,96,2
-"Crowned-pigeons",347,33,1
 "Southern Crowned-pigeon",347,35,1
 "Western Crowned-pigeon",347,36,2
 "cristata",347,36,2
@@ -417,7 +404,6 @@ name,fileindex,index,whichChild
 "crinifrons",324,58,2
 "Crested Fireback",312,27,1
 "Crestless Fireback",312,31,2
-"CROSSOPTILON",312,33,2
 "Crossoptilon",312,36,1
 "Crossoptilon",312,37,2
 "crossoptilon",312,38,2
@@ -433,7 +419,6 @@ name,fileindex,index,whichChild
 "Crested Bobwhite",315,44,2
 "cristatus",315,44,2
 "Crested Guineafowl",310,27,1
-"Cracidae",310,34,2
 "Crax",310,44,1
 "Crax",310,45,2
 "Crax",310,46,2
@@ -468,8 +453,6 @@ name,fileindex,index,whichChild
 "Crypturellus",253,42,2
 "Quebracho Crested-tinamou",253,87,1
 "Elegant Crested-tinamou",253,88,2
-"Crocodilians",0,31,2
-"Crocodiles",0,32,1
 "Orinoco Crocodile",0,39,1
 "Crocodylus",0,39,1
 "American Crocodile",0,40,2
@@ -532,7 +515,6 @@ name,fileindex,index,whichChild
 "crucifer",340,150,2
 "Crab-eating Water Snake",340,161,1
 "Crotalus",339,27,1
-"Croaking Geckos",318,44,2
 "Crenadactylus",320,56,2
 "Crossomys",270,47,2
 "Crete Spiny Mouse",269,22,1
@@ -541,11 +523,9 @@ name,fileindex,index,whichChild
 "Creek Groove-toothed Swamp Rat",269,209,2
 "Cremnomys",267,208,2
 "Cremnomys",267,209,2
-"Crunomys",264,52,1
 "Crunomys",264,54,1
 "Crunomys",264,55,2
 "Crunomys",264,56,2
-"Crateromys",263,99,1
 "Luzon Crateromys",263,101,1
 "Crateromys",263,101,1
 "Dinagat Crateromys",263,102,2
@@ -555,17 +535,14 @@ name,fileindex,index,whichChild
 "Crump's Mouse",272,29,2
 "crumpi",272,29,2
 "crassus",265,18,1
-"Cricetomys",263,134,1
 "Cricetomys",263,136,1
 "Cricetomys",263,137,2
 "Cricetomys",263,139,1
 "Cricetomys",263,140,2
 "Crafty Vesper Mouse",289,140,2
-"Crimson-nosed Rats",292,56,1
 "Torres's Crimson-nosed Rat",292,58,1
 "Chaco Crimson-nosed Rat",292,59,2
 "Large-lipped Crimson-nosed Rat",292,60,2
-"Crab-eating Rats",287,95,1
 "Pittier's Crab-eating Rat",287,98,1
 "Crab-eating Rat",287,99,2
 "Tweedy's Crab-eating Rat",287,100,2
@@ -576,7 +553,6 @@ name,fileindex,index,whichChild
 "cryophilus",291,128,1
 "creper",287,181,2
 "Creeping Vole",282,107,2
-"Cricetulus",281,104,1
 "Cricetulus",281,107,1
 "Cricetulus",281,108,2
 "Cricetulus",281,110,1
@@ -595,7 +571,6 @@ name,fileindex,index,whichChild
 "Cratogeomys",255,41,1
 "Cratogeomys",255,42,2
 "Cratogeomys",255,43,2
-"Cryptomys",259,4,1
 "Cryptomys",259,8,1
 "Cryptomys",259,9,2
 "Cryptomys",259,10,2
@@ -642,7 +617,6 @@ name,fileindex,index,whichChild
 "cristata",381,87,2
 "Crabeater Seal",381,93,1
 "Crab-eating Fox",381,153,1
-"Crossarchus",384,8,1
 "Crossarchus",384,11,1
 "Crossarchus",384,12,2
 "Crossarchus",384,13,2
@@ -656,7 +630,6 @@ name,fileindex,index,whichChild
 "Crocuta",382,85,2
 "cristata",382,86,2
 "crassicaudata",365,152,1
-"Crocidura",367,2,1
 "Crocidura",368,10,1
 "Crocidura",368,11,2
 "Crocidura",368,12,2
@@ -828,7 +801,6 @@ name,fileindex,index,whichChild
 "Crocidura",367,168,2
 "Crocidura",367,169,2
 "Crowned Shrew",397,20,2
-"Cryptotis",397,67,1
 "Cryptotis",397,75,1
 "Cryptotis",397,76,2
 "Cryptotis",397,78,1
@@ -897,7 +869,6 @@ name,fileindex,index,whichChild
 "crurifasciatum",49,205,2
 "crassa",40,25,2
 "crucifer",40,126,2
-"Cricket Frogs",40,130,2
 "Northern Cricket Frog",40,131,1
 "crepitans",40,131,1
 "Southern Cricket Frog",40,132,2
@@ -910,7 +881,6 @@ name,fileindex,index,whichChild
 "Cruziohyla",66,64,1
 "craspedopus",66,65,2
 "Cruziohyla",66,65,2
-"CRYPTOBATRACHIDAE",91,0,2
 "Cryptobatrachus",91,38,1
 "Cryptobatrachus",91,39,2
 "Cryptobatrachus",91,40,2
@@ -925,7 +895,6 @@ name,fileindex,index,whichChild
 "cruralis",88,37,1
 "Cricket Coqui",75,23,2
 "crenunguis",74,64,2
-"CRAUGASTORIDAE",72,71,1
 "Craugastor",85,13,1
 "Craugastor",85,14,2
 "Craugastor",85,15,2
@@ -1098,7 +1067,6 @@ name,fileindex,index,whichChild
 "crocatus",103,36,2
 "Crocodile Newt",98,140,2
 "Anderson's Crocodile Newt",98,143,1
-"CRYPTOBRANCHIDAE",344,92,2
 "Cryptobranchus",344,96,2
 "crassisquama",113,17,1
 "Crotaphatrema",113,164,1

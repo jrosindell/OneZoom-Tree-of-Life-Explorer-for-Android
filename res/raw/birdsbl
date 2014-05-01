@@ -72,7 +72,6 @@ name,fileindex,index,whichChild
 "Black-spectacled Brush-finch",47,122,2
 "Black-headed Bunting",47,171,1
 "Black-faced Bunting",47,184,2
-"New World blackbirds",60,0,2
 "Saffron-cowled Blackbird",60,15,2
 "Yellow-hooded Blackbird",60,17,1
 "Chestnut-capped Blackbird",60,18,2
@@ -502,7 +501,6 @@ name,fileindex,index,whichChild
 "Black-billed Shrike-tyrant",123,26,2
 "Black-and-white Monjita",123,40,1
 "Black-fronted Ground-tyrant",123,56,2
-"Black-Tyrants",123,78,1
 "Amazonian Black-tyrant",123,83,1
 "White-winged Black-tyrant",123,84,2
 "Blue-billed Black-tyrant",123,85,2
@@ -594,7 +592,6 @@ name,fileindex,index,whichChild
 "Blue-bellied Parrot",117,126,2
 "Blue-fronted Parrotlet",117,161,1
 "Blue-eyed Cockatoo",42,25,2
-"Black-cockatoos",42,31,1
 "Carnaby????????????s Black-Cockatoo",42,34,1
 "Yellow-tailed Black-cockatoo",42,35,2
 "Red-tailed Black-cockatoo",42,36,2
@@ -782,8 +779,6 @@ name,fileindex,index,whichChild
 "Blue Crane",15,172,2
 "Black-necked Crane",15,178,1
 "Black Crowned-crane",15,186,2
-"Fruit doves, Blue pigeons and more",4,6,1
-"Blue pigeons",6,41,1
 "Seychelles Blue-pigeon",6,43,1
 "Comoro Blue-pigeon",6,44,2
 "Madagascar Blue-pigeon",6,45,2
@@ -793,7 +788,6 @@ name,fileindex,index,whichChild
 "Black-billed Wood-dove",4,12,1
 "Blue-headed Wood-dove",4,14,2
 "Blue-spotted Wood-dove",4,17,2
-"Bleeding heart doves, Ground-doves and more",4,42,2
 "Mindoro Bleeding-heart",4,92,1
 "Negros Bleeding-heart",4,99,2
 "Sulu Bleeding-heart",4,100,2
@@ -878,7 +872,6 @@ name,fileindex,index,whichChild
 "Blue-winged Teal",28,70,1
 "Black-headed Duck",27,135,1
 "Blue-billed Duck",27,144,2
-"Black Geese",27,171,2
 "Black Swan",27,190,1
 "Black-necked Swan",27,192,2
 "Black-bellied Whistling-duck",27,211,1

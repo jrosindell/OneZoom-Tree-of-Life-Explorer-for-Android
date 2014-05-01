@@ -65,7 +65,6 @@ name,fileindex,index,whichChild
 "pratti",33,28,1
 "pruinosus",33,45,2
 "prehensilis",33,53,1
-"Prosciurillus",77,55,1
 "Prosciurillus",77,58,1
 "Prosciurillus",77,59,2
 "Prosciurillus",77,61,1
@@ -73,27 +72,20 @@ name,fileindex,index,whichChild
 "Prosciurillus",77,63,2
 "Prevost's Squirrel",77,90,2
 "prevostii",77,90,2
-"Prairie Dogs",79,111,2
 "White-tailed Prairie Dog",79,114,1
 "Utah Prairie Dog",79,115,2
 "Gunnison's Prairie Dog",79,116,2
 "Arizona Black-tailed Prairie Dog",79,118,1
 "Mexican Prairie Dog",79,119,2
-"Protoxerus",81,43,1
 "Protoxerus",81,44,1
 "Protoxerus",81,45,2
 "princeps",77,133,2
-"Pronolagus",76,110,1
 "Pronolagus",76,112,1
 "Pronolagus",76,113,2
 "Pronolagus",76,114,2
 "princeps",76,132,2
-"Primates, Flying Lemurs and Treeshrews",35,0,2
-"Primates",35,2,1
-"PRIMATES",35,2,1
 "Preuss's Monkey",41,62,2
 "preussi",41,62,2
-"Presbytis",40,33,2
 "Presbytis",40,38,1
 "Presbytis",40,39,2
 "Presbytis",40,40,2
@@ -110,7 +102,6 @@ name,fileindex,index,whichChild
 "preussi",40,100,1
 "Procolobus",40,103,2
 "Prolemur",36,34,2
-"Propithecus",35,99,1
 "Propithecus",35,103,1
 "Propithecus",35,104,2
 "Propithecus",35,105,2
@@ -120,7 +111,6 @@ name,fileindex,index,whichChild
 "Propithecus",35,111,2
 "pruinosus",73,21,2
 "pretiosus",62,20,1
-"Promops",62,24,2
 "Promops",62,25,1
 "Promops",62,26,2
 "primus",45,53,2
@@ -128,7 +118,6 @@ name,fileindex,index,whichChild
 "pratti",61,16,2
 "Proboscis Bat",71,40,2
 "praedatrix",57,154,2
-"Procapra",63,12,1
 "Przewalski's Gazelle",63,14,1
 "przewalskii",63,14,1
 "Procapra",63,14,1
@@ -137,17 +126,13 @@ name,fileindex,index,whichChild
 "Przewalskium",63,106,1
 "Pronghorn",63,192,2
 "provocax",52,8,1
-"Procyonidae",47,7,2
-"Procyon",47,10,1
 "Procyon",47,12,1
 "Procyon",47,13,2
 "Procyon",47,14,2
 "procyonoides",47,156,2
-"Prionodon",51,29,1
 "Prionodon",51,30,1
 "Prionodon",51,31,2
 "Profelis",48,32,2
-"Prionailurus",48,67,2
 "Prionailurus",48,71,1
 "Prionailurus",48,72,2
 "Prionailurus",48,73,2
@@ -161,6 +146,5 @@ name,fileindex,index,whichChild
 "principula",34,24,1
 "proboscideus",0,91,2
 "Procavia",0,107,2
-"PROBOSCIDEA",0,115,2
 "Proserpine Rock Wallaby",43,30,2
 "prattorum",0,143,2

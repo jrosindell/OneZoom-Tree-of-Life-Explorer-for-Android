@@ -53,8 +53,6 @@ name,fileindex,index,whichChild
 "Dot-winged Antwren",245,226,2
 "dominicanus",238,34,1
 "dominicensis",236,89,2
-"Tyrannulets, Tit-Tyrants, Doraditos and more",235,41,1
-"Doraditos",240,5,1
 "Warbling Doradito",240,8,1
 "Dinelli's Doradito",240,9,2
 "Subtropical Doradito",240,10,2
@@ -80,11 +78,9 @@ name,fileindex,index,whichChild
 "Dolphin Gull",212,28,1
 "dougallii",213,16,2
 "Double-banded Courser",114,80,1
-"Dowitchers",223,56,2
 "Long-billed Dowitcher",223,58,1
 "Asian Dowitcher",223,59,2
 "Short-billed Dowitcher",223,60,2
-"Dotterels, other Plovers and more",119,3,1
 "New Zealand Dotterel",119,61,2
 "Double-banded Plover",119,75,2
 "Inland Dotterel",119,80,2
@@ -96,8 +92,6 @@ name,fileindex,index,whichChild
 "Double-striped Thick-knee",114,162,1
 "Double-crested Cormorant",364,38,1
 "Dot-winged Crake",360,75,2
-"Doves and pigeons",347,0,1
-"Fruit doves, Blue pigeons and more",347,7,1
 "Cloven-feathered Dove",350,46,2
 "Orange Dove",350,52,2
 "Golden Dove",350,55,2
@@ -107,21 +101,18 @@ name,fileindex,index,whichChild
 "Namaqua Dove",347,19,2
 "Stephan's Dove",347,21,1
 "Emerald Dove",347,22,2
-"Bleeding heart doves, Ground-doves and more",347,43,2
 "Peaceful Dove",347,53,1
 "Zebra Dove",347,54,2
 "Bar-shouldered Dove",347,55,2
 "Diamond Dove",347,57,1
 "Barred Dove",347,58,2
 "Stock Dove",348,15,2
-"Turtle doves, Collared-doves and more",348,64,2
 "Red-eyed Dove",348,86,2
 "Ring-necked Dove",348,88,1
 "Vinaceous Dove",348,89,2
 "Laughing Dove",348,92,1
 "Spotted Dove",348,93,2
 "Lemon Dove",347,143,2
-"Quail doves",349,1,1
 "Mourning Dove",349,24,1
 "Socorro Dove",349,25,2
 "Eared Dove",349,26,2
@@ -140,7 +131,6 @@ name,fileindex,index,whichChild
 "Brown-backed Dove",349,66,1
 "Pallid Dove",349,67,2
 "Ochre-bellied Dove",349,68,2
-"Ground doves",347,177,2
 "Scaled Dove",347,189,1
 "Inca Dove",347,190,2
 "Double-banded Sandgrouse",346,159,1
@@ -150,7 +140,6 @@ name,fileindex,index,whichChild
 "dorsale",332,55,2
 "Dot-eared Coquette",332,105,2
 "dominicus",330,21,2
-"DORYFERA",330,54,2
 "Doryfera",330,55,1
 "Doryfera",330,56,2
 "dohrnii",325,57,2
@@ -188,21 +177,17 @@ name,fileindex,index,whichChild
 "dorsalis",294,46,1
 "Malabar Spiny Dormouse",281,100,1
 "dorsatum",256,144,2
-"Dolichotis",256,149,2
 "Dolichotis",256,150,1
 "Dolichotis",256,151,2
 "dorsalis",257,18,1
-"Dormice, Squirrels and more",254,60,2
 "Douglas's Squirrel",279,68,1
 "douglasii",279,68,1
-"Prairie Dogs",296,42,2
 "White-tailed Prairie Dog",296,45,1
 "Utah Prairie Dog",296,46,2
 "Gunnison's Prairie Dog",296,47,2
 "Arizona Black-tailed Prairie Dog",296,49,1
 "Mexican Prairie Dog",296,50,2
 "dorsalis",296,72,2
-"Dormice",262,0,2
 "Rock Dormouse",262,10,1
 "Silent Dormouse",262,13,2
 "Christy's Dormouse",262,14,2
@@ -239,7 +224,6 @@ name,fileindex,index,whichChild
 "dormeri",389,206,2
 "Dominican Myotis",404,8,1
 "dominicensis",404,8,1
-"Dog-faced Bats",396,147,1
 "Greenhall's Dog-faced Bat",396,153,1
 "Mexican Dog-faced Bat",396,154,2
 "Southern Dog-faced Bat",396,156,1
@@ -254,12 +238,10 @@ name,fileindex,index,whichChild
 "doriae",394,49,2
 "doriae",376,47,1
 "Dobson's Horseshoe Bat",379,31,2
-"Dog-like Bats",400,6,1
 "Trinidad Dog-like Bat",400,9,1
 "Lesser Dog-like Bat",400,10,2
 "Greater Dog-like Bat",400,11,2
 "White-winged Dog-like Bat",400,12,2
-"Dobsonia",366,144,1
 "Dobsonia",366,153,1
 "Dobsonia",366,154,2
 "Dobsonia",366,155,2
@@ -276,14 +258,10 @@ name,fileindex,index,whichChild
 "Dobson's Fruit Bat",399,31,2
 "dobsonii",399,31,2
 "Lesser Dog-faced Fruit Bat",387,12,2
-"Ungulates, Whales, Dolphins and Porpoises",365,107,1
-"Even-toed Ungulates, Whales, Dolphins and Porpoises",365,108,1
 "Dorcas Gazelle",372,129,2
 "dorcas",372,129,2
 "dorsalis",372,164,2
 "Dorcatragus",372,195,2
-"Whales, Dolphins and Porpoises",371,118,1
-"Oceanic Dolphins",373,3,1
 "Indo-pacific Bottlenose Dolphin",373,11,1
 "Common Bottlenose Dolphin",373,12,2
 "Striped Dolphin",373,14,1
@@ -329,7 +307,6 @@ name,fileindex,index,whichChild
 "dorsalis",110,52,1
 "Doria's Tree Kangaroo",110,94,1
 "dorianus",110,94,1
-"Dorcopsis",110,102,1
 "Grey Dorcopsis",110,105,1
 "Dorcopsis",110,105,1
 "Black Dorcopsis",110,106,2
@@ -338,7 +315,6 @@ name,fileindex,index,whichChild
 "Dorcopsis",110,107,2
 "White-striped Dorcopsis",110,108,2
 "Dorcopsis",110,108,2
-"Dorcopsulus",110,109,2
 "Macleay's Dorcopsis",110,110,1
 "Dorcopsulus",110,110,1
 "Small Dorcopsis",110,111,2

@@ -43,12 +43,10 @@ name,fileindex,index,whichChild
 "Australasian Lark",107,87,2
 "australis",107,176,2
 "Auriparus",100,127,2
-"Australasian robins",43,87,2
 "australis",43,108,2
 "australis",43,156,2
 "aurantius",43,177,1
 "aureola",142,71,2
-"Australian mudnesters",142,86,2
 "Australian Raven",138,65,1
 "auratus",140,18,2
 "Australasian Figbird",132,15,1
@@ -57,15 +55,10 @@ name,fileindex,index,whichChild
 "australis",145,75,1
 "Australian Magpie",143,40,2
 "aurea",141,24,2
-"Australasian Babblers and Logrunners",29,9,2
-"Australasian babblers",29,10,1
 "Australian Logrunner",29,21,1
 "aubryana",112,32,1
 "aurifrons",113,132,2
-"Australasian wrens",112,156,2
-"Australian Treecreepers, Bowerbirds",29,24,2
 "aureus",29,41,2
-"Australian treecreepers",29,62,2
 "aurantiaca",37,144,2
 "Austral Canastero",38,36,1
 "Automolus",35,152,1
@@ -127,11 +120,9 @@ name,fileindex,index,whichChild
 "auguralis",163,45,2
 "audax",164,14,1
 "aura",161,161,2
-"Gulls, Terns, Auks and Plovers",20,3,1
 "Audouin's Gull",22,57,2
 "audouinii",22,57,2
 "aurantia",25,53,2
-"Auks",23,1,1
 "Little Auk",23,23,2
 "Parakeet Auklet",23,34,1
 "Least Auklet",23,35,2
@@ -139,7 +130,6 @@ name,fileindex,index,whichChild
 "Crested Auklet",23,37,2
 "Cassin's Auklet",23,38,2
 "Rhinoceros Auklet",23,45,2
-"Auklets and Puffins",20,15,1
 "Australian Pratincole",20,31,2
 "aucklandica",21,37,1
 "Australian Painted Snipe",20,126,1
@@ -171,7 +161,6 @@ name,fileindex,index,whichChild
 "auriceps",155,88,1
 "aurescens",160,132,2
 "aureliae",160,182,2
-"AUGASTES",158,30,2
 "Augastes",158,31,1
 "Augastes",158,32,2
 "auritus",158,42,2

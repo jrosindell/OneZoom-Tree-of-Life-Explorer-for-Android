@@ -50,8 +50,6 @@ name,fileindex,index,whichChild
 "triurus",96,25,2
 "Grey Trembler",96,57,1
 "Brown Trembler",96,58,2
-"Wrens, Nuthatches, Treecreepers and more",87,73,2
-"Troglodytidae",87,76,1
 "Troglodytes",95,74,1
 "Troglodytes",95,75,2
 "Troglodytes",95,76,2
@@ -64,7 +62,6 @@ name,fileindex,index,whichChild
 "Troglodytes",95,86,1
 "Troglodytes",95,87,2
 "Tropical Gnatcatcher",87,142,2
-"Treecreepers",87,152,1
 "Short-toed Treecreeper",87,156,1
 "Hodgson's Treecreeper",87,157,2
 "Eurasian Treecreeper",87,159,1
@@ -100,8 +97,6 @@ name,fileindex,index,whichChild
 "Trochocercus",133,175,2
 "Trumpet Manucode",144,77,2
 "tristis",138,16,2
-"Coughs and Treepies",137,129,2
-"Treepies",137,130,1
 "Sunda Treepie",137,136,1
 "Rufous Treepie",137,137,2
 "Andaman Treepie",137,138,2
@@ -128,8 +123,6 @@ name,fileindex,index,whichChild
 "Trichodere",112,68,2
 "tristrami",115,54,2
 "tricolor",113,134,1
-"Australian Treecreepers, Bowerbirds",29,24,2
-"Australian treecreepers",29,62,2
 "Brown Treecreeper",29,67,1
 "Rufous Treecreeper",29,68,2
 "White-browed Treecreeper",29,69,2
@@ -137,7 +130,6 @@ name,fileindex,index,whichChild
 "Red-browed Treecreeper",29,72,2
 "White-throated Treecreeper",29,73,2
 "Papuan Treecreeper",29,74,2
-"Foliage-gleaners, Treehunters and Recurvebills",35,85,1
 "Sharp-billed Treehunter",35,133,2
 "Streak-capped Treehunter",35,141,1
 "Flammulated Treehunter",35,142,2
@@ -147,7 +139,6 @@ name,fileindex,index,whichChild
 "Uniform Treehunter",35,149,2
 "Streak-breasted Treehunter",35,150,2
 "Pale-browed Treehunter",35,164,2
-"Treerunners",35,173,1
 "Beautiful Treerunner",35,176,1
 "Pearled Treerunner",35,177,2
 "Ruddy Treerunner",35,178,2
@@ -189,8 +180,6 @@ name,fileindex,index,whichChild
 "tridactyla",176,104,2
 "Trumpeter Hornbill",168,64,2
 "Tropicranus",168,69,2
-"Trogons",161,61,2
-"TROGONIFORMES",161,61,2
 "White-tailed Trogon",167,7,1
 "Trogon",167,7,1
 "Green-backed Trogon",167,8,2
@@ -279,8 +268,6 @@ name,fileindex,index,whichChild
 "tristrami",12,146,2
 "tristis",11,43,1
 "tricolor",16,46,2
-"Cranes, Trumpeters and Limpkin",15,156,2
-"Trumpeters",15,188,2
 "Pale-winged Trumpeter",15,190,1
 "Dark-winged Trumpeter",15,191,2
 "Grey-winged Trumpeter",15,192,2
@@ -311,26 +298,19 @@ name,fileindex,index,whichChild
 "tristigmata",4,98,1
 "trocaz",7,40,2
 "tranquebarica",4,124,1
-"Tropicbirds",0,23,2
 "Red-tailed Tropicbird",0,25,1
 "White-tailed Tropicbird",0,26,2
 "Red-billed Tropicbird",0,27,2
-"Trochilidae",152,4,1
 "Trochilus",156,11,1
 "Trochilus",156,12,2
-"Trainbearers",160,56,2
 "Black-tailed Trainbearer",160,57,1
 "Green-tailed Trainbearer",160,58,2
-"Swifts and Treeswifts",152,15,2
 "troglodytes",153,70,2
-"Treeswifts",152,16,2
 "Grey-rumped Treeswift",152,19,1
 "Moustached Treeswift",152,20,2
 "Crested Treeswift",152,21,2
 "Whiskered Treeswift",152,22,2
 "tristigma",152,167,2
-"Tragopans",147,19,2
-"TRAGOPAN",147,19,2
 "Western Tragopan",147,22,1
 "Tragopan",147,22,1
 "Satyr Tragopan",147,23,2
@@ -342,7 +322,5 @@ name,fileindex,index,whichChild
 "Cabot's Tragopan",147,27,2
 "Tragopan",147,27,2
 "Trinidad Piping-guan",184,90,2
-"True Geese",27,151,1
-"True Swans",27,182,2
 "Trumpeter Swan",27,188,2
 "transfasciatus",0,88,1

@@ -1,16 +1,11 @@
 name,fileindex,index,whichChild
-"Hamsters, Gerbils, True Mice, Rats and more",2,4,1
-"Hopping Mice",13,89,2
 "Mitchell's Hopping Mouse",13,96,1
 "mitchellii",13,96,1
 "minor",8,21,2
 "Misonne's Praomys",8,27,2
 "misonnei",8,27,2
-"Microhydromys",15,35,2
 "Microhydromys",15,36,1
 "Microhydromys",15,37,2
-"Tree Mice",15,63,2
-"Spiny Mice",11,7,1
 "minous",11,23,1
 "Asia Minor Spiny Mouse",11,29,2
 "minutoides",11,126,2
@@ -20,29 +15,21 @@ name,fileindex,index,whichChild
 "Mindoro Mountain Rat",10,10,1
 "mindorensis",10,10,1
 "Miller's Nicobar Rat",10,21,2
-"Pencil-tailed Tree Mice",9,76,1
-"Ranee Mice",9,90,2
 "minahassae",9,92,1
-"Millardia",9,100,1
 "Millardia",9,103,1
 "Millardia",9,104,2
 "Millardia",9,105,2
 "Millardia",9,106,2
 "minutus",9,121,2
 "Micromys",9,121,2
-"Striped Grass Mice",9,129,1
 "Mittendorf's Lemniscomys",9,142,1
 "mittendorfi",9,142,1
 "Millard's Rat",9,175,2
 "millardi",9,175,2
-"Field Mice",19,5,1
-"Broad-toothed Field Mice",19,41,2
 "Mindoro Forest Anonymomys",19,79,2
 "mindorensis",19,79,2
 "Mindanao Bullimus",17,33,1
 "minnae",8,44,2
-"Broad-headed Mice",8,64,2
-"Shrew Mice",8,94,1
 "Mindanao Shrew Mouse",8,98,2
 "mindorensis",8,104,1
 "microdon",8,118,2
@@ -55,44 +42,19 @@ name,fileindex,index,whichChild
 "milleti",18,55,2
 "Microdillus",8,150,2
 "Mid-day Gerbil",12,29,1
-"Pouched Mice and Pouched Rats",8,161,1
-"Pouched Mice",8,173,2
-"Rock Mice",8,177,1
 "microphthalmus",2,22,2
 "Middle East Blind Mole Rat",2,25,1
-"Grass Mice and Akodonts",23,4,1
 "mimus",23,92,2
-"Oldfield Mice",23,101,1
-"Montane Mice",23,117,2
-"Vesper Mice",23,125,1
-"Bristly Mice",23,178,2
-"Gerbil Mice",23,192,1
-"Microryzomys",23,200,1
 "Microryzomys",23,201,1
 "minutus",23,202,2
 "Microryzomys",23,202,2
-"Chinchilla Mice",27,76,1
-"Cane Mice",27,112,1
 "microtis",21,39,1
-"Leaf-eared Mice and more",26,3,1
 "micropus",26,39,2
-"Long-clawed Mice",26,67,2
-"Galapagos Mice",26,72,2
-"Spiny Mice",26,80,2
-"Climbing Mice",28,1,1
-"Bolo Mice",21,59,2
-"Water Mice",21,86,2
 "Miahuatlan Cotton Rat",21,128,1
 "Mira Climbing Rat",21,142,2
 "mirae",21,142,2
-"Deer Mice, Harvest Mice, Woodrats and more",21,150,2
-"Deer Mice, Harvest Mice, Woodrats and more",21,150,2
-"Deer Mice and more",25,0,1
 "Michoacan Deer Mouse",25,59,2
 "Michoacan Deer Mouse",25,125,2
-"Giant Deer Mice",25,126,2
-"Grasshopper Mice",21,155,2
-"Harvest Mice",21,163,2
 "microdon",21,179,1
 "micropus",22,13,2
 "Microtus",5,12,1
@@ -160,28 +122,14 @@ name,fileindex,index,whichChild
 "millicens",4,34,2
 "miletus",7,14,2
 "minor",4,77,2
-"Big-footed Mice",4,85,2
 "migratorius",4,110,1
-"Climbing Mice",4,170,2
-"Fat Mice",4,196,1
-"Jerboas, Jumping Mice and Birch Mice",2,48,2
-"Jerboas, Jumping Mice and Birch Mice",2,48,2
-"Jumping Mice and Birch Mice",3,5,1
-"Jumping Mice and Birch Mice",3,5,1
-"Birch Mice",3,6,1
-"Jumping Mice",3,31,2
 "michaelis",3,51,1
-"Spiny Pocket Mice",20,5,1
 "Michoacan Pocket Gopher",20,64,2
-"Pocket Mice",31,1,1
-"Kangaroo Mice",31,52,2
 "microps",31,64,2
-"Microdipodops",31,90,2
 "Microdipodops",31,91,1
 "Microdipodops",31,92,2
 "Minca Spiny Rat",29,38,2
 "mincae",29,38,2
-"Microcavia",29,157,1
 "Microcavia",29,159,1
 "Microcavia",29,160,2
 "Microcavia",29,161,2
@@ -190,7 +138,6 @@ name,fileindex,index,whichChild
 "Mindanao Flying Squirrel",80,16,1
 "mindanensis",80,16,1
 "Mindanao Flying Squirrel",80,17,2
-"Microsciurus",82,58,1
 "Microsciurus",82,61,1
 "mimulus",82,62,2
 "Microsciurus",82,62,2
@@ -210,7 +157,6 @@ name,fileindex,index,whichChild
 "microdon",36,46,1
 "Milne-edwards's Sportive Lemur",36,52,2
 "Milne-edward's Sifaka",35,110,2
-"Microcebus",35,121,1
 "Microcebus",35,124,1
 "Microcebus",35,125,2
 "Microcebus",35,126,2
@@ -228,7 +174,6 @@ name,fileindex,index,whichChild
 "minor",56,20,2
 "microtis",56,44,1
 "microdon",56,50,1
-"Miniopterus",45,8,2
 "Miniopterus",45,14,1
 "Miniopterus",45,15,2
 "Miniopterus",45,16,2
@@ -253,12 +198,10 @@ name,fileindex,index,whichChild
 "minutus",62,183,2
 "minor",69,7,2
 "Miller's Long-tongued Bat",69,32,2
-"Mimon",67,144,2
 "Mimon",67,146,1
 "Mimon",67,147,2
 "Mimon",67,149,1
 "Mimon",67,150,2
-"Micronycteris",67,169,1
 "Micronycteris",67,173,1
 "microtis",67,174,2
 "Micronycteris",67,174,2
@@ -277,7 +220,6 @@ name,fileindex,index,whichChild
 "minimus",45,112,1
 "minor",70,17,2
 "minimus",70,20,1
-"Micropteropus",70,24,2
 "Micropteropus",70,25,1
 "Micropteropus",70,26,2
 "Minute Fruit Bat",46,11,2
@@ -295,7 +237,6 @@ name,fileindex,index,whichChild
 "European Mink",49,12,2
 "American Mink",49,40,1
 "Sea Mink",49,41,2
-"Mirounga",47,98,2
 "Mirounga",47,99,1
 "Mirounga",47,100,2
 "microtis",47,155,2
@@ -312,7 +253,6 @@ name,fileindex,index,whichChild
 "Mindanao Gymnure",85,89,2
 "micrura",85,106,1
 "mizura",85,112,2
-"Microgale",34,5,1
 "Microgale",34,13,1
 "Microgale",34,14,2
 "Microgale",34,15,2
@@ -326,7 +266,6 @@ name,fileindex,index,whichChild
 "Microgale",34,27,1
 "Microgale",34,28,2
 "Microgale",34,29,2
-"Micropotamogale",34,36,1
 "Micropotamogale",34,37,1
 "Micropotamogale",34,38,2
 "mimicus",44,12,2
@@ -338,7 +277,6 @@ name,fileindex,index,whichChild
 "Microperoryctes",0,146,2
 "microtarsus",1,39,2
 "minimus",1,89,2
-"Micoureus",1,131,1
 "Micoureus",1,135,1
 "Micoureus",1,136,2
 "Micoureus",1,137,2

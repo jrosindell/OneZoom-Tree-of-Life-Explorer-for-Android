@@ -68,8 +68,6 @@ name,fileindex,index,whichChild
 "pumilo",137,103,2
 "Puerto Rican Vireo",139,34,1
 "pulchellus",132,34,2
-"Helmetshrikes, bushshrikes and puffbacks",135,51,1
-"Puffbacks",145,61,1
 "Large-billed Puffback",145,65,1
 "Pringle's Puffback",145,66,2
 "Pink-footed Puffback",145,67,2
@@ -104,7 +102,6 @@ name,fileindex,index,whichChild
 "Puerto Rican Flycatcher",128,25,1
 "pulcher",121,15,2
 "pulchellus",130,83,2
-"Purpletufts",121,87,2
 "White-browed Purpletuft",121,89,1
 "Dusky Purpletuft",121,90,2
 "Buff-throated Purpletuft",121,91,2
@@ -142,8 +139,6 @@ name,fileindex,index,whichChild
 "pusillus",179,48,2
 "purpuratus",178,127,2
 "pulcherrima",178,155,1
-"Puffbirds and Jacamars",176,0,2
-"Puffbirds",176,1,1
 "Black-breasted Puffbird",176,9,1
 "Guianan Puffbird",176,10,2
 "Pied Puffbird",176,11,2
@@ -182,11 +177,9 @@ name,fileindex,index,whichChild
 "Puerto Rican Screech-owl",166,114,2
 "punctulata",169,39,1
 "pusilla",23,35,2
-"Puffins",23,40,1
 "Horned Puffin",23,42,1
 "Atlantic Puffin",23,43,2
 "Tufted Puffin",23,44,2
-"Auklets and Puffins",20,15,1
 "Puna Snipe",21,21,2
 "pusilla",21,38,2
 "pusilla",21,107,1
@@ -242,7 +235,6 @@ name,fileindex,index,whichChild
 "Purple-backed Thornbill",160,54,1
 "Purple-throated Sunangel",160,78,2
 "Purple-bibbed Whitetip",160,152,2
-"Pufflegs",160,157,2
 "Golden-breasted Puffleg",160,164,1
 "Gorgeted Puffleg",160,165,2
 "Black-breasted Puffleg",160,167,1

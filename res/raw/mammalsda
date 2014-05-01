@@ -1,6 +1,5 @@
 name,fileindex,index,whichChild
 "dammermani",15,70,1
-"Dasymys",9,25,1
 "Dasymys",9,29,1
 "Dasymys",9,30,2
 "Dasymys",9,31,2
@@ -39,7 +38,6 @@ name,fileindex,index,whichChild
 "dasythrix",30,13,1
 "Dark Spiny Tree-rat",30,26,2
 "Dark Armored Tree-rat",29,21,1
-"Dactylomys",29,76,1
 "Dactylomys",29,78,1
 "dactylinus",29,79,2
 "Dactylomys",29,79,2
@@ -47,8 +45,6 @@ name,fileindex,index,whichChild
 "Damara Mole Rat",29,133,1
 "damarensis",29,133,1
 "darlingi",29,138,1
-"Dasyproctidae",33,5,1
-"Dasyprocta",33,6,1
 "Dasyprocta",33,12,1
 "Dasyprocta",33,13,2
 "Dasyprocta",33,14,2
@@ -97,13 +93,11 @@ name,fileindex,index,whichChild
 "darlingi",59,54,2
 "dasymallus",57,121,2
 "Dagger-toothed Long-nosed Fruit Bat",45,112,1
-"Dawn Bats",45,114,2
 "Philippine Dawn Bat",45,116,1
 "Greater Dawn Bat",45,117,2
 "Dawn Bat",45,118,2
 "Dayak Fruit Bat",46,32,2
 "dalli",64,35,1
-"Damaliscus",64,75,1
 "Damaliscus",64,77,1
 "Damaliscus",64,78,2
 "Damaliscus",64,79,2
@@ -126,7 +120,6 @@ name,fileindex,index,whichChild
 "dauuricus",85,76,1
 "Pere David's Mole",85,130,2
 "davidiana",85,130,2
-"Dasypus",0,35,2
 "Dasypus",0,39,1
 "Dasypus",0,40,2
 "Dasypus",0,41,2
@@ -135,14 +128,10 @@ name,fileindex,index,whichChild
 "Dasypus",0,45,2
 "Daintree River Ringtail Possum",43,141,2
 "dahli",43,161,2
-"Dactylopsila",43,179,1
 "Dactylopsila",43,181,1
 "Dactylopsila",43,182,2
 "Dactylopsila",43,184,1
 "Dactylopsila",43,185,2
-"DASYUROMORPHIA",84,1,1
-"Dasyuridae",84,2,1
-"Dasyurus",84,11,1
 "Dasyurus",84,16,1
 "Dasyurus",84,17,2
 "Dasyurus",84,18,2

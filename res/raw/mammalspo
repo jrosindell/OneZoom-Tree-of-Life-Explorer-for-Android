@@ -1,12 +1,10 @@
 name,fileindex,index,whichChild
-"Pogonomelomys",15,30,1
 "Shaw Mayer's Pogonomelomys",15,31,1
 "Pogonomelomys",15,31,1
 "Pogonomelomys",15,32,2
 "Poncelet's Giant Rat",15,45,1
 "ponceleti",15,45,1
 "Polynesian Rat",9,12,2
-"Pogonomys",9,112,2
 "Pogonomys",9,115,1
 "Loria's Pogonomys",9,116,2
 "Pogonomys",9,116,2
@@ -19,14 +17,8 @@ name,fileindex,index,whichChild
 "poensis",8,56,2
 "poecilops",16,87,2
 "Pouched Gerbil",12,88,2
-"Pouched Mice and Pouched Rats",8,161,1
-"Pouched Mice and Pouched Rats",8,161,1
-"Pouched Rats",8,162,1
-"Giant Pouched Rats",8,163,1
 "Forest Giant Pouched Rat",8,165,1
-"Long-tailed Pouched Rats",8,170,2
 "Long-tailed Pouched Rat",8,171,1
-"Pouched Mice",8,173,2
 "East African Pouched Mouse",8,174,1
 "Pouched Mouse",8,175,2
 "Podolian Mole Rat",2,19,2
@@ -38,9 +30,6 @@ name,fileindex,index,whichChild
 "Podomys",25,124,2
 "pomo",6,20,2
 "portenkoi",6,41,2
-"Beavers, Pocket Gophers and more",2,89,2
-"Pocket Gophers and more",2,91,1
-"Spiny Pocket Mice",20,5,1
 "Jaliscan Spiny Pocket Mouse",20,12,1
 "Painted Spiny Pocket Mouse",20,13,2
 "Mexican Spiny Pocket Mouse",20,14,2
@@ -84,7 +73,6 @@ name,fileindex,index,whichChild
 "Mountain Pocket Gopher",2,120,1
 "Western Pocket Gopher",2,121,2
 "Northern Pocket Gopher",2,122,2
-"Pocket Mice",31,1,1
 "Nelson's Pocket Mouse",31,11,1
 "Lined Pocket Gopher",31,12,2
 "Rock Pocket Mouse",31,13,2
@@ -111,11 +99,9 @@ name,fileindex,index,whichChild
 "Salinas Pocket Mouse",31,49,2
 "White-eared Pocket Mouse",31,50,2
 "Plains Pocket Mouse",31,51,2
-"Degus, Porcupines, Chinchillas and more",2,126,2
 "poliopus",29,58,1
 "portoricensis",29,124,2
 "porcellus",29,165,2
-"Old World Porcupines",29,177,1
 "Thick-spined Porcupine",29,184,1
 "Crested Porcupine",29,185,2
 "Sumatran Porcupine",29,186,2
@@ -127,9 +113,6 @@ name,fileindex,index,whichChild
 "Asiatic Brush-tailed Porcupine",29,195,1
 "African Brush-tailed Porcupine",29,196,2
 "Long-tailed Porcupine",29,197,2
-"Agoutis, Porcupines and more",33,0,2
-"Porupines",33,33,2
-"Dwarf Porcupines",33,35,1
 "Bahia Hairy Dwarf Porcupine",33,39,1
 "Mexican Hairy Dwarf Porcupine",33,41,2
 "Brown Hairy Dwarf Porcupine",33,44,1
@@ -151,7 +134,6 @@ name,fileindex,index,whichChild
 "poliocephalus",40,18,2
 "potenziani",40,43,2
 "polykomos",40,109,2
-"Pongo",37,38,2
 "Pongo",37,39,1
 "Pongo",37,40,2
 "Poeppig's Woolly Monkey",42,73,2
@@ -169,18 +151,13 @@ name,fileindex,index,whichChild
 "pohlei",57,21,2
 "Pohnpei Flying Fox",57,57,1
 "Pohle's Fruit Bat",70,37,1
-"Ungulates, Whales, Dolphins and Porpoises",45,120,1
-"Even-toed Ungulates, Whales, Dolphins and Porpoises",45,121,1
 "porcinus",63,116,2
-"Whales, Dolphins and Porpoises",75,1,1
-"Porpoises",75,75,2
 "Spectacled Porpoise",75,79,1
 "Harbour Porpoise",75,80,2
 "Finless Porpoise",75,81,2
 "Dall's Porpoise",75,82,2
 "Burmeister's Porpoise",75,84,1
 "Pontoporia",75,91,1
-"Potamochoerus",72,23,2
 "porcus",72,24,1
 "Potamochoerus",72,24,1
 "Potamochoerus",72,25,2
@@ -192,7 +169,6 @@ name,fileindex,index,whichChild
 "Polar Bear",47,114,1
 "Pousargues' Mongoose",50,60,2
 "poensis",51,13,2
-"Poiana",51,32,2
 "Poiana",51,33,1
 "Poiana",51,34,2
 "poensis",88,112,2
@@ -201,18 +177,15 @@ name,fileindex,index,whichChild
 "polulus",85,43,1
 "Portenko's Shrew",86,92,2
 "portenkoi",86,92,2
-"Podogymnura",85,87,1
 "Podogymnura",85,88,1
 "Podogymnura",85,89,2
 "Potamogale",34,39,2
-"Potorous",43,117,2
 "Long-nosed Potoroo",43,119,1
 "Potorous",43,119,1
 "Gilbert's Potoroo",43,120,2
 "Potorous",43,120,2
 "Long-footed Potoroo",43,121,2
 "Potorous",43,121,2
-"Possums, Cuscuses, Trioks and Gliders",43,132,2
 "Herbert River Ringtail Possum",43,140,1
 "Daintree River Ringtail Possum",43,141,2
 "Common Ringtail Possum",43,149,2

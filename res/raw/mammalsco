@@ -3,7 +3,6 @@ name,fileindex,index,whichChild
 "conditor",13,78,2
 "Conilurus",13,79,2
 "Common Rock Rat",13,84,2
-"Coccymys",15,24,2
 "Coccymys",15,25,1
 "Coccymys",15,26,2
 "coninga",11,86,2
@@ -37,7 +36,6 @@ name,fileindex,index,whichChild
 "Coues's Climbing Mouse",28,25,1
 "couesi",28,25,1
 "collinus",28,47,2
-"Cotton Rats",21,104,2
 "Southern Cotton Rat",21,111,1
 "Hispid Cotton Rat",21,112,2
 "Toltec Cotton Rat",21,114,1
@@ -58,7 +56,6 @@ name,fileindex,index,whichChild
 "Nelson And Coldman's Woodrat",21,213,1
 "Common Pine Vole",5,21,2
 "Common Vole",5,79,2
-"Collared Lemmings",4,9,1
 "Umnak Island Collared Lemming",4,14,1
 "Nelson's Collared Lemming",4,15,2
 "Ungava Collared Lemming",4,16,2
@@ -77,7 +74,6 @@ name,fileindex,index,whichChild
 "Common Yellow-toothed Cavy",29,172,2
 "Coiban Agouti",33,23,2
 "coibae",33,23,2
-"Coendou",33,50,1
 "Coendou",33,53,1
 "Coendou",33,54,2
 "Coendou",33,55,2
@@ -106,7 +102,6 @@ name,fileindex,index,whichChild
 "Corsican Hare",76,32,1
 "corsicanus",76,32,1
 "comus",76,49,2
-"Cottontail Rabbits",76,75,1
 "Eastern Cottontail",76,82,1
 "Robust Cottontail",76,83,2
 "Manzano Mountain Cottontail",76,84,2
@@ -122,10 +117,7 @@ name,fileindex,index,whichChild
 "collaris",76,131,1
 "comata",40,39,2
 "concolor",40,82,1
-"Colobus Monkeys",40,84,2
-"Red Colobus Monkeys",40,86,1
 "Olive Colobus",40,103,2
-"Colobus",40,104,2
 "White-thighed Colobus",40,108,1
 "Colobus",40,108,1
 "King Colobus",40,109,2
@@ -160,7 +152,6 @@ name,fileindex,index,whichChild
 "Common Treeshrew",35,169,2
 "Common Woolly Bat",53,36,1
 "Copper Woolly Bat",53,37,2
-"Corynorhinus",53,135,2
 "Corynorhinus",53,137,1
 "Corynorhinus",53,138,2
 "Corynorhinus",53,139,2
@@ -192,7 +183,6 @@ name,fileindex,index,whichChild
 "Cox's Leaf-nosed Bat",58,49,2
 "coxi",58,49,2
 "coronatus",58,63,1
-"Coelops",58,90,1
 "Coelops",58,91,1
 "Coelops",58,92,2
 "coelophyllus",59,63,2
@@ -200,7 +190,6 @@ name,fileindex,index,whichChild
 "cornutus",58,125,2
 "cor",45,78,1
 "Cormura",71,22,2
-"Coleura",71,46,1
 "Coleura",71,47,1
 "Coleura",71,48,2
 "Common Sheath-tailed Bat",71,82,2
@@ -214,12 +203,10 @@ name,fileindex,index,whichChild
 "Little Collared Fruit Bat",70,66,2
 "Sao Tome Collared Fruit Bat",70,67,2
 "Common Tube-nosed Bat",46,68,2
-"Connochaetes",64,81,2
 "Common Wildebeest",64,82,1
 "Connochaetes",64,82,1
 "Connochaetes",64,83,2
 "Common Duiker",65,34,2
-"Cows, Bison, Ox and more",63,40,2
 "Cows",63,72,2
 "Common Bottlenose Dolphin",75,17,2
 "coeruleoalba",75,19,1
@@ -233,7 +220,6 @@ name,fileindex,index,whichChild
 "Collared Peccary",72,40,2
 "Colombian Weasel",49,36,1
 "collaris",49,82,2
-"Conepatus",52,39,2
 "Conepatus",52,41,1
 "Conepatus",52,42,2
 "Conepatus",52,44,1
@@ -272,7 +258,6 @@ name,fileindex,index,whichChild
 "Common Tenrec",34,46,2
 "corriae",34,59,2
 "Congo Golden Mole",34,77,2
-"Sea cows",0,108,2
 "concinna",43,33,1
 "Common Wallaroo",43,71,2
 "conspicillatus",43,82,1

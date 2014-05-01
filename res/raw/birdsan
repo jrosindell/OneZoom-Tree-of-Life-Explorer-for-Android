@@ -1,21 +1,9 @@
 name,fileindex,index,whichChild
-"Tanagers, Grosbeaks, Saltators and more",44,5,1
-"Tanagers, Conebills, Warbling-finches and more",44,8,1
-"Seedeaters and more",50,64,2
 "analis",50,68,2
-"Finches and more",50,69,2
-"Seedeaters and more",52,0,2
 "angolensis",52,75,2
-"Hemispingus, Mountain-Finches, Tanagers and more",51,2,1
-"Warbling-finches, Reed-finches and more",51,26,2
-"Grosbeaks, Saltators and more",44,18,2
-"Grosbeaks, saltators and more",44,19,1
 "Lesser Antillean Saltator",44,27,1
-"Tanagers and more",54,0,2
 "Lesser Antillean Tanager",54,89,1
-"Finchs, Grassquits and more",56,3,1
 "anoxanthus",56,43,1
-"Bullfinches and more",56,49,1
 "Greater Antillean Bullfinch",56,53,1
 "Lesser Antillean Bullfinch",56,56,2
 "Anisognathus",55,18,1
@@ -23,36 +11,16 @@ name,fileindex,index,whichChild
 "Anisognathus",55,20,2
 "Anisognathus",55,28,1
 "Anisognathus",55,29,2
-"Finches and more",54,124,1
 "analis",54,150,2
-"Buntings, American sparrows and more",54,170,1
-"Cardinals and more",44,50,2
-"Grosbeaks, saltators and more",46,6,1
-"Grosbeaks, saltators and more",46,18,2
-"Grosbeaks, saltators and more",46,23,2
-"Grosbeaks, saltators and more",46,40,1
 "Red-crowned Ant-tanager",46,45,2
-"Grosbeaks, saltators and more",46,46,2
 "Black-cheeked Ant-tanager",46,48,1
 "Sooty Ant-tanager",46,49,2
 "Red-throated Ant-tanager",46,51,1
 "Crested Ant-tanager",46,52,2
-"Grosbeaks, saltators and more",61,4,1
-"Buntings, American sparrows and more",61,17,2
-"Grosbeaks, saltators and more",61,31,2
-"Grosbeaks, saltators and more",61,36,2
-"New World Warblers, Buntings, American Sparrows and more",47,0,1
-"Buntings, American sparrows and more",47,3,1
-"Buntings, American sparrows and more",47,56,1
-"Buntings, American sparrows and more",47,137,2
 "Greater Antillean Grackle",60,79,2
 "angustifrons",60,119,1
 "Greater Antillean Oriole",60,146,1
-"New World warblers, Buntings, American Sparrows and more",57,0,2
 "angelae",58,66,2
-"Buntings, American sparrows and more",44,53,2
-"Finches and more",44,64,2
-"Finches and Hawaiian honeycreepers",44,66,1
 "Ankober Serin",53,67,2
 "ankoberensis",53,67,2
 "Andean Siskin",53,108,2
@@ -60,8 +28,6 @@ name,fileindex,index,whichChild
 "Anianiau",59,77,2
 "anneae",49,11,2
 "Antillean Euphonia",49,51,2
-"Finches and Hawaiian honeycreepers",44,97,2
-"Wagtails and pipits",44,102,2
 "Anthus",45,9,1
 "Anthus",45,10,2
 "Anthus",45,11,2
@@ -103,32 +69,16 @@ name,fileindex,index,whichChild
 "Anthus",44,127,2
 "Anthus",44,129,1
 "Anthus",44,130,2
-"Sparrows, Snowfinches and more",108,0,2
-"Weavers, Waxbills and more",101,1,1
-"Waxbills and more",101,2,1
-"Waxbills, grass finches, munias and more",101,3,1
 "angolensis",103,22,2
 "ansorgei",106,33,2
 "Anambra Waxbill",106,42,2
 "Woodhouse's Antpecker",106,62,1
 "Jameson's Antpecker",106,63,2
 "Red-fronted Antpecker",106,64,2
-"Indigobirds and more",101,93,2
 "Anomalospiza",101,131,2
-"Weavers and more",101,132,2
-"Weavers and more",102,0,1
 "angolensis",102,90,2
-"Weavers and more",105,1,1
-"Weavers and more",105,36,1
-"Sparrows, snowfinches and more",105,47,2
-"Weavers and more",105,50,2
 "Anaplectes",105,56,2
-"Weavers and more",101,136,2
-"Sparrows, snowfinches and more",101,142,1
-"Sparrows, snowfinches and more",101,152,1
 "anomala",101,157,2
-"Accentors and Olive Warbler",101,159,2
-"Sunbirds and Flowerpeckers",62,1,1
 "Anjouan Sunbird",62,93,2
 "Anthreptes",62,102,1
 "Anthreptes",62,103,2
@@ -152,77 +102,27 @@ name,fileindex,index,whichChild
 "Anthreptes",62,130,2
 "annae",63,50,2
 "anthonyi",63,63,1
-"Sugarbirds and more",43,9,1
-"Chats and Old World flycatchers",43,10,1
-"Chats and Old World Flycatchers",87,4,1
-"Chats and Old World flycatchers",92,4,1
 "Northern Anteater-chat",93,63,1
 "Southern Anteater-chat",93,67,1
 "angolensis",92,21,1
 "Angola Cave-chat",94,64,2
 "ansorgei",94,64,2
-"Chats and Old World flycatchers",92,80,2
-"Chats and Old World flycatchers",92,93,2
-"Chats and Old World flycatchers",92,96,2
-"Chats and Old World flycatchers",92,110,1
-"Chats and Old World flycatchers",92,129,1
-"Chats and Old World flycatchers",92,136,2
-"Chats and Old World flycatchers",99,0,2
 "annamarulae",99,57,2
 "Angola Slaty Flycatcher",99,107,2
-"Chats and Old World flycatchers",97,1,1
 "anomala",97,30,2
-"Chats and Old World flycatchers",87,8,2
 "andromedae",89,147,1
 "Andean Solitaire",87,33,2
 "Red-tailed Ant-thrush",87,51,2
 "White-tailed Ant-thrush",87,52,2
-"Mockingbirds, Thrashers, Starlings and more",87,67,2
 "anais",98,69,2
-"Mockingbirds and Thrashers",96,0,2
-"Wrens, Nuthatches, Treecreepers and more",87,73,2
-"Nuthatches and Wallcreeper",87,172,2
-"Waxwings and more",43,19,2
-"Goldcrests and kinglets",43,38,2
-"Whiteyes, Babblers, Parrotbills and more",65,4,1
-"Whiteyes, Babblers and Parrotbills",65,5,1
-"Babblers and parrotbills",72,2,1
-"Laughingthrushes, Babblers and more",72,4,1
 "Angola Babbler",76,38,2
 "annamensis",72,26,1
 "annectens",73,13,1
-"Babblers and parrotbills",72,58,1
-"Babblers and parrotbills",72,83,1
-"Babblers and parrotbills",72,88,2
 "anomalus",85,42,2
 "Annobon White-eye",85,110,2
-"Babblers and parrotbills",85,133,2
-"Babblers and parrotbills",85,138,2
-"Babblers and parrotbills",85,141,2
-"Babblers and parrotbills",85,157,2
-"Babblers and parrotbills",85,164,2
-"Babblers and parrotbills",65,21,2
-"Babblers, Old World Warblers and more",65,28,2
-"Babblers and parrotbills",69,2,1
-"Babblers and parrotbills",69,58,2
-"Babblers and parrotbills",69,111,1
-"Babblers and parrotbills",65,29,2
 "Anjouan Brush-warbler",83,101,2
-"Cisticolas and more",65,69,2
-"Prinias, Tailorbirds and more",65,72,1
-"Cisticolas and more",77,5,1
-"Cisticolas and more",77,18,2
-"Cisticolas and more",77,31,2
-"Cisticolas and more",65,79,2
-"Cisticolas and more",65,82,2
-"Cisticolas and more",65,85,2
-"Cisticolas and more",81,2,1
-"Cisticolas and more",81,52,1
-"Cisticolas and more",80,1,1
 "angusticauda",80,42,2
 "anonymus",80,60,1
-"Cisticolas and more",80,92,1
-"Bulbuls and Tetrakas",65,101,2
 "Ansorge's Greenbul",70,52,1
 "ansorgei",70,52,1
 "Andropadus",70,52,1
@@ -237,87 +137,43 @@ name,fileindex,index,whichChild
 "Andropadus",70,87,2
 "Andropadus",70,98,1
 "Andropadus",70,100,2
-"Leaf-Warblers, Bush-Warblers and Long-tailed Tits",65,136,1
-"Leaf-warblers and other warblers",65,139,1
 "annae",78,14,2
-"Swallows and martins",65,168,2
 "Angola Swallow",71,16,2
 "angolensis",71,16,2
 "Andean Swallow",84,30,2
 "andecola",84,30,2
-"Larks and more",107,1,1
-"Short-toe Larks and other Larks",107,55,2
 "Angola Lark",107,100,2
 "angolensis",107,100,2
-"Tits, Chickadees and more",100,0,2
-"Tits and Chickadees",100,2,1
 "Anthoscopus",100,113,1
 "Anthoscopus",100,114,2
 "Anthoscopus",100,115,2
 "Anthoscopus",100,117,1
 "Anthoscopus",100,118,2
 "Anthoscopus",100,119,2
-"Chats and Old World flycatchers",100,140,2
-"Rockjumpers and Rockfowl",43,174,2
-"Shrikes, Birds Of Paradise and more",132,1,1
-"Shrikes, Monarchs, Birds of paradise and more",132,5,1
 "Annobon Paradise Flycatcher",133,150,2
-"Magpies and Jays",137,4,1
-"Crows, Ravens and Jackdaws",138,0,1
-"Coughs and Treepies",137,129,2
 "Andaman Treepie",137,138,2
 "anguitimens",137,212,1
 "Andaman Drongo",136,26,2
 "andamanensis",136,26,2
 "annectans",136,41,2
-"Orioles and more",132,11,2
-"Orioles and figbirds",132,12,1
-"Shrike-thrushes and more",132,19,1
-"Vireos and more",132,25,2
 "San Andres Vireo",139,40,1
-"Vireos and more",132,36,1
-"Whistlers and more",132,50,1
-"Shrike-thrushes and more",132,54,2
-"Shrike-Flycatchers, Butcherbirds, Woodswallows and more",132,72,1
-"Vangas and Newtonias",135,3,1
-"Chats and Old World flycatchers",135,46,2
-"Helmetshrikes, bushshrikes and puffbacks",135,51,1
-"Shrike-flycatchers, wattle-eyes and batises",135,73,2
-"Shrike-flycatchers, wattle-eyes and batises",135,76,2
 "Angola Batis",135,104,2
-"Boubous, Bushshrikes and Gonoleks",145,4,1
 "angolensis",145,67,2
-"Pitohui and more",132,74,2
-"Cuckoo-shrikes and Minivets",132,79,2
 "analis",141,36,2
-"Whipbirds, Quail-Thrushes and more",132,105,2
-"Whipbirds, wedgebills and jewel-babblers",132,118,2
 "Androphobus",132,130,2
-"Whipbirds, wedgebills and jewel-babblers",132,132,1
-"Berrypeckers, Satinbirds and more",132,140,2
-"Australasian Babblers and Logrunners",29,9,2
-"Honeyeaters, Thornbills, Bristlebirds and more",112,0,2
 "Anthornis",115,65,1
 "Anthochaera",113,53,1
 "Anthochaera",113,54,2
 "Anthochaera",113,56,1
 "Anthochaera",113,57,2
 "analoga",113,84,2
-"Thornbills and gerygones",112,77,2
-"Antbirds, Ovenbirds and more",29,82,2
-"Antbirds, Ovenbirds and more",29,82,2
-"Ovenbirds, Woodcreepers, Antthrushes",30,3,1
-"Canasteros, Spinetails and more",35,7,1
 "antisiensis",37,107,1
 "anthoides",38,36,1
 "annumbi",35,11,2
 "Anumbius",35,11,2
-"Tit-Spinetails and Wiretail",35,32,2
 "Andean Tit-spinetail",35,51,2
 "andicola",35,51,2
-"Earthcreepers, Horneros, Ciclodes and more",35,56,2
 "antarcticus",36,16,1
-"Foliage-gleaners, Treehunters and Recurvebills",35,85,1
 "Anabacerthia",35,107,1
 "Anabacerthia",35,108,2
 "Anabacerthia",35,109,2
@@ -328,7 +184,6 @@ name,fileindex,index,whichChild
 "angustirostris",39,19,1
 "anabatina",39,92,1
 "antarctica",30,32,2
-"Antthrushes",30,57,2
 "Black-headed Antthrush",30,62,1
 "Black-faced Antthrush",30,63,2
 "analis",30,63,2
@@ -342,9 +197,7 @@ name,fileindex,index,whichChild
 "Such's Antthrush",30,77,1
 "Striated Antthrush",30,78,2
 "Schwartz's Antthrush",30,79,2
-"Antpittas, Tapaculos",30,80,2
 "Ancash Tapaculo",34,33,1
-"Antpittas",40,0,2
 "Stripe-headed Antpitta",40,8,1
 "andicolus",40,8,1
 "Pale-billed Antpitta",40,9,2
@@ -395,13 +248,8 @@ name,fileindex,index,whichChild
 "Hooded Antpitta",40,93,2
 "Rusty-breasted Antpitta",40,95,1
 "Slate-crowned Antpitta",40,96,2
-"Gnateaters and more",30,101,2
-"Antpittas",30,120,2
 "Rufous-crowned Antpitta",30,121,1
 "Black-crowned Antpitta",30,122,2
-"Antbirds",30,130,2
-"Bare-eyes, Antbirds",31,2,1
-"Antbirds",31,3,1
 "Bertoni's Antbird",31,9,1
 "Long-tailed Antbird",31,10,2
 "Ferruginous Antbird",31,12,1
@@ -425,7 +273,6 @@ name,fileindex,index,whichChild
 "Laeta Antbird",31,56,2
 "Chestnut-tailed Antbird",31,58,1
 "Zimmer's Antbird",31,59,2
-"Antbirds",31,63,1
 "Hairy-crested Antbird",31,67,1
 "Harlequin Antbird",31,68,2
 "Chestnut-crested Antbird",31,69,2
@@ -437,13 +284,9 @@ name,fileindex,index,whichChild
 "Lunulated Antbird",31,79,2
 "Pale-faced Antbird",31,83,2
 "Scale-backed Antbird",31,85,2
-"Antbirds",31,86,2
 "White-masked Antbird",31,88,1
 "White-plumed Antbird",31,89,2
 "Ocellated Antbird",31,90,2
-"Antbirds and Antshrikes",31,91,2
-"Antbirds and Antshrikes",31,91,2
-"Antbirds and Antshrikes",31,91,2
 "White-shouldered Antbird",31,100,1
 "Goeldi's Antbird",31,101,2
 "Immaculate Antbird",31,103,1
@@ -483,8 +326,6 @@ name,fileindex,index,whichChild
 "Plumbeous Antbird",31,171,2
 "Silvered Antbird",31,172,2
 "White-bearded Antshrike",31,173,2
-"Antbirds",31,174,2
-"Antshrikes",31,176,1
 "White-shouldered Antshrike",32,11,1
 "Upland Antshrike",32,12,2
 "Spiny-faced Antshrike",32,14,1
@@ -513,12 +354,6 @@ name,fileindex,index,whichChild
 "Black-crested Antshrike",31,179,1
 "Glossy Antshrike",31,180,2
 "Silvery-cheeked Antshrike",31,181,2
-"Antwrens and Antvireos",33,0,2
-"Antwrens and Antvireos",33,0,2
-"Antwrens and Antvireos",33,0,2
-"Antwrens, Bushbirds and Antbirds",33,2,1
-"Antwrens, Bushbirds and Antbirds",33,2,1
-"Antwrens, Bushbirds and Antbirds",33,2,1
 "Black-capped Antwren",33,8,1
 "Ancient Antwren",33,9,2
 "Ancient Antwren",33,9,2
@@ -543,9 +378,6 @@ name,fileindex,index,whichChild
 "Bicoloured Antvireo",33,42,2
 "White-streaked Antvireo",33,43,2
 "Spot-crowned Antvireo",33,44,2
-"Antshrikes, Antwrens and more",31,182,2
-"Antshrikes, Antwrens and more",31,182,2
-"Antshrikes, Antwrens and more",31,182,2
 "Black-throated Antshrike",31,188,1
 "Undulated Antshrike",31,189,2
 "Large-tailed Antshrike",31,191,1
@@ -563,7 +395,6 @@ name,fileindex,index,whichChild
 "Cinereous Antshrike",31,212,2
 "Plain-throated Antwren",31,213,2
 "Pearly Antshrike",31,214,2
-"Antwrens",41,0,2
 "Black-bellied Antwren",41,10,1
 "Black-hooded Antwren",41,11,2
 "White-fringed Antwren",41,13,1
@@ -597,7 +428,6 @@ name,fileindex,index,whichChild
 "Amazonian Streaked Antwren",41,61,2
 "Black-and-white Antbird",41,63,1
 "Cherrie's Antwren",41,64,2
-"Antwrens",30,134,2
 "Stipple-throated Antwren",30,143,1
 "Foothill Antwren",30,144,2
 "Brown-bellied Antwren",30,145,2
@@ -613,32 +443,22 @@ name,fileindex,index,whichChild
 "Grey-bellied Antbird",30,166,2
 "Black-throated Antbird",30,167,2
 "Dot-winged Antwren",30,168,2
-"Antbirds and Antshrikes",30,169,2
-"Antbirds and Antshrikes",30,169,2
-"Antbirds and Antshrikes",30,169,2
 "Spot-winged Antshrike",30,171,1
 "Russet Antshrike",30,172,2
 "anabatinus",30,172,2
 "Wing-banded Antbird",30,173,2
-"Antwrens",30,174,2
 "Chestnut-shouldered Antwren",30,177,1
 "Streak-capped Antwren",30,178,2
 "Rufous-rumped Antwren",30,180,1
 "Yellow-rumped Antwren",30,181,2
 "Ash-winged Antwren",30,183,1
 "Orange-bellied Antwren",30,184,2
-"Tyrant-Flycatchers, Cotingas and  more",121,1,1
-"Monjitas, Bush-Tyrants and more",123,7,1
 "Andean Tyrant",123,89,2
 "Andean Negrito",123,101,2
-"Phoebes, Pewees and other flycatchers",124,2,1
 "Greater Antillean Pewee",124,51,1
 "Lesser Antillean Pewee",124,54,1
 "antillarum",128,25,1
 "Lesser Antillean Flycatcher",128,41,2
-"Kiskadees, Kingbirds and more",129,0,2
-"Tyrannulets, Elaenias and more",123,116,2
-"Tyrannulets, Tit-Tyrants, Doraditos and more",123,118,1
 "Anairetes",123,148,1
 "Anairetes",123,149,2
 "Anairetes",123,151,1
@@ -648,55 +468,33 @@ name,fileindex,index,whichChild
 "Anairetes",123,157,2
 "Anairetes",123,158,2
 "Greater Antillean Elaenia",126,16,2
-"Tyrannulets, Pygmy Tyrants and Wagtail-Tyrant",123,173,2
-"Pygmy-Tyrants, Flatbills and more",130,0,2
-"Tody-tyrants, Pygmy Tyrants and more",130,6,1
 "andrei",130,109,2
 "Antioquia Bristle-tyrant",130,141,2
-"Antpipits",130,201,2
 "Southern Antpipit",130,202,1
 "Ringed Antpipit",130,203,2
 "Andean Laniisoma",121,99,2
-"Fruiteaters, Berryeaters and more",121,123,1
 "antoniae",131,17,2
-"Fruitcrows, Umbrellabirds and more",131,59,2
 "Andean Cock-of-the-rock",121,136,1
 "Antilophia",122,67,1
 "Antilophia",122,68,2
-"Broadbills, Pittas, Asities and more",120,0,2
 "anerythra",120,13,1
 "angolensis",120,30,2
-"Lorikeets and Lorys",109,4,1
 "Antipodes Parakeet",109,123,2
-"Shining-Parrots and Tiger-Parrots",109,130,2
 "anthopeplus",146,72,1
-"Parrotlets, Parakeets, Macaws and more",117,0,2
-"Macaws and other Parakeets",117,6,1
 "Anodorhynchus",117,81,1
 "Anodorhynchus",117,82,2
 "Andean Parakeet",117,170,1
-"Cockatoos, Corellas and more",42,0,2
-"Falcons and caracaras",29,102,2
-"Kestrels and other falcons",29,111,2
-"Birds of Prey, Toucans and more",161,0,2
-"Woodpeckers, Honeyguides, Toucans and Barbets",161,7,1
 "Andaman Woodpecker",171,34,2
-"Flickers and other woodpeckers",171,44,1
 "Andean Flicker",171,56,2
 "Antillean Piculet",170,122,2
-"Toucans and barbets",178,0,2
 "Andigena",178,22,1
 "Andigena",178,23,2
 "Andigena",178,24,2
 "Andigena",178,25,2
 "Anchieta's Barbet",178,119,2
 "anchietae",178,119,2
-"Puffbirds and Jacamars",176,0,2
-"Bee-eaters, Kingfishers and more",161,42,2
 "Andean Motmot",174,136,2
 "angustirostris",174,153,2
-"Rollers and Ground-Rollers",174,157,2
-"Hornbills, Woodhoopoes and Hoopoe",161,43,2
 "Anthracoceros",168,41,1
 "Anthracoceros",168,42,2
 "Anthracoceros",168,43,2
@@ -705,31 +503,17 @@ name,fileindex,index,whichChild
 "Anorrhinus",168,49,1
 "Anorrhinus",168,50,2
 "Anorrhinus",168,51,2
-"Woodhoopoes and more",161,44,2
 "antisianus",161,94,2
-"Fish-owls, Eagle-owls and more",166,5,1
 "angelinae",166,155,2
 "Andaman Scops-owl",166,159,2
 "Anjouan Scops-owl",180,12,2
-"Owlets and Pigmy owls",177,4,1
 "Andean Pygmy-owl",177,23,2
-"Hawk-owls, Boobook and more",169,0,2
 "Andaman Hawk-owl",169,20,1
-"Osprey, kites, hawks and eagles",161,138,1
-"Kites, Eagles and more",161,140,1
 "anthracinus",163,81,2
-"Fish-eagles and Sea-eagles",162,15,1
-"Sparrowhawks and more",162,55,2
-"Hawk-eagles and other eagles",162,88,1
 "Andaman Serpent-eagle",162,149,2
 "angolensis",181,41,2
 "Andean Condor",161,167,2
-"Waders, Gulls, Sandpipers and more",20,0,2
-"Gulls, Terns, Auks and Plovers",20,3,1
-"Gulls and terns",20,6,1
-"Gulls and Kittiwakes",22,0,1
 "Andean Gull",22,78,2
-"Terns and Noddies",25,0,2
 "Antarctic Tern",25,15,2
 "antillarum",25,61,2
 "anaethetus",25,72,2
@@ -738,99 +522,53 @@ name,fileindex,index,whichChild
 "Anous",25,88,2
 "Ancient Murrelet",23,10,2
 "antiquus",23,10,2
-"Skuas and jaegers",23,46,2
 "antarctica",23,50,1
-"Coursers and pratincoles",20,14,2
-"Auklets and Puffins",20,15,1
-"Sandpipers, Jacanas, Seedsnipes and more",20,78,2
-"Sandpipers and more",20,79,1
 "andina",21,21,2
 "Andean Snipe",21,22,2
-"Sandpipers, Knots and more",21,97,1
-"Waders and more",20,138,2
-"Dotterels, other Plovers and more",20,142,1
 "Andean Lapwing",24,18,2
 "Anarhynchus",24,84,2
-"Stilts and avocets",26,23,2
 "Andean Avocet",26,37,2
 "andina",26,37,2
-"Sheathbills and more",20,170,2
-"Flamingos, Petrels and more",0,22,2
-"Ibises, Herons and more",3,1,1
-"Herons and egrets",3,2,1
-"Pond-herons, Night-herons and more",3,8,1
-"Ibises and spoonbills",3,125,2
-"Pelicans, Shoebill and Hamerkop",3,192,2
-"Cormorants, Anhingas, Gannets and Frigatebirds",19,0,2
-"Cormorants, Anhingas, Gannets and Frigatebirds",19,0,2
-"Cormorants and Shags",19,3,1
-"Anhingidae",19,68,2
 "Anhinga",19,71,1
 "Anhinga",19,72,2
 "anhinga",19,72,2
 "Anhinga",19,72,2
 "Anhinga",19,73,2
 "Anhinga",19,74,2
-"Gannets and boobies",19,75,2
 "andrewsi",19,101,1
 "Anastomus",1,42,1
 "Anastomus",1,43,2
-"Albatrosses, Shearwaters and Petrels",12,1,1
-"Petrels and shearwaters",12,6,1
-"Petrels and shearwaters",12,32,1
 "Antarctic Prion",12,39,2
-"Petrels and shearwaters",12,54,2
 "Antarctic Petrel",12,65,1
 "antarctica",12,65,1
 "Antipodean Albatross",12,98,2
 "antipodensis",12,98,2
 "antipodes",12,169,2
 "antarcticus",12,184,1
-"Malkoha, Koels and other cuckoos",10,1,1
 "andamanensis",10,135,2
 "anselli",10,147,2
-"Ground-Cuckoos and Roadrunners",1,103,1
-"Anis",1,124,1
 "Groove-billed Ani",1,126,1
 "Smooth-billed Ani",1,127,2
 "ani",1,127,2
 "Greater Ani",1,128,2
-"Rails and Finfoots",15,1,1
-"Rails, crakes and more",15,2,1
-"Coots, Moorhens and more",15,5,1
 "Anurolimnas",15,40,1
 "Anurolimnas",15,41,2
 "Anurolimnas",15,42,2
 "angulata",15,59,1
 "antarcticus",17,42,2
-"Bush hens, Waterhens and more",17,44,1
-"Forest-Rails and Crakes",16,33,2
 "Andaman Crake",16,42,2
-"Swamphen, Gallinules and Takane",16,48,2
-"Cranes, Trumpeters and Limpkin",15,156,2
 "antigone",15,165,1
-"Doves and pigeons",1,133,1
-"Fruit doves, Blue pigeons and more",4,6,1
 "antarcticus",9,81,2
-"Bleeding heart doves, Ground-doves and more",4,42,2
-"Wood pigeons, Laurel pigeons and more",7,0,1
 "Andaman Wood-pigeon",7,35,2
-"Turtle doves, Collared-doves and more",4,113,2
 "Andaman Cuckoo-dove",4,166,2
-"Flamingos and Grebes",2,0,2
 "Andean Flamingo",2,42,1
 "andinus",2,42,1
-"Hummingbirds, Nightjars and more",0,28,2
 "Andean Emerald",156,56,2
 "Anthocephala",155,75,1
 "Antillean Crested Hummingbird",155,77,2
 "Anna's Hummingbird",155,149,2
 "anna",155,149,2
 "Andean Hillstar",160,46,2
-"Coquettes, Thorntails and Firecrowns",160,85,2
-"Whitetips, Coronets and more",160,142,2
-"Sunbeams and more",160,184,2
-"Mangoes and Caribs",158,5,1
 "Anthracothorax",158,11,1
 "Anthracothorax",158,12,2
 "Anthracothorax",158,13,2
@@ -840,33 +578,20 @@ name,fileindex,index,whichChild
 "Antillean Mango",158,21,2
 "Anthracothorax",158,21,2
 "Androdon",158,43,2
-"Hermits and Barbthroats",154,1,1
 "anthophilus",154,39,2
 "Anopetia",154,58,2
-"Swifts and Treeswifts",152,15,2
 "Antillean Palm-swift",153,122,1
 "Andean Swift",153,129,2
 "andecolus",153,129,2
 "Lesser Antillean Swift",153,149,2
-"Nighthawks, Pauraques and more",152,73,1
 "anomalus",152,128,1
 "anthonyi",152,142,2
 "Antillean Nighthawk",159,66,2
 "Andean Potoo",0,36,2
-"Pheasants, Quails and Guineafowl",0,51,1
-"Grouse, Pheasants and more",147,1,1
 "Anurophasis",147,50,1
-"Guans and curassows",184,0,2
 "Andean Guan",184,78,2
-"Waterfowl, Screamers and Magpie Goose",27,0,2
-"ANSERIFORMES",27,0,2
-"Ducks, Geese and Swans",27,2,1
-"Anatidae",27,2,1
-"Orinoco Goose and Sheldgeese",27,62,2
 "Andean Goose",27,65,1
 "angustirostris",27,111,2
-"Teals, Shovelers and more",28,1,1
-"ANAS",28,1,1
 "Anas",28,10,1
 "Anas",28,11,2
 "Anas",28,12,2
@@ -912,8 +637,6 @@ name,fileindex,index,whichChild
 "Anas",28,83,1
 "Anas",28,84,2
 "Anas",28,85,2
-"ANSERINI",27,151,1
-"ANSER",27,153,1
 "Anser",27,158,1
 "anser",27,159,2
 "Anser",27,159,2
@@ -923,8 +646,5 @@ name,fileindex,index,whichChild
 "Anser",27,164,1
 "Anser",27,165,2
 "Anseranas",27,214,2
-"Anhimidae",27,215,2
 "Anhima",27,219,2
-"Tinamous, Rheas, Ostrich and more",0,63,2
 "Andean Tinamou",0,129,2
-"Kiwis, Rheas, Ostrich and more",0,157,2

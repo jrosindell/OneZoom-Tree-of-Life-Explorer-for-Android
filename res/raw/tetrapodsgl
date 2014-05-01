@@ -76,7 +76,6 @@ name,fileindex,index,whichChild
 "glaucescens",214,15,2
 "glaucoides",214,16,2
 "Glaucous Gull",214,29,1
-"Glareolidae",114,52,2
 "Glareola",114,61,1
 "Glareola",114,62,2
 "Glareola",114,63,2
@@ -118,7 +117,6 @@ name,fileindex,index,whichChild
 "Glaphyromorphus",300,85,2
 "Glaphyromorphus",300,86,2
 "globifer",410,33,1
-"Glass Lizards",411,5,1
 "Slender Glass Lizard",411,9,1
 "Eastern Glass Lizard",411,10,2
 "Island Glass Lizard",411,11,2
@@ -136,11 +134,9 @@ name,fileindex,index,whichChild
 "glareolus",284,42,2
 "glaber",259,27,2
 "gliroides",254,43,1
-"Glaucomys",278,52,2
 "Glaucomys",278,53,1
 "Glaucomys",278,54,2
 "Glyphotes",278,194,2
-"Gliridae",262,0,2
 "Glirulus",262,30,1
 "glis",262,31,2
 "Glis",262,31,2
@@ -148,7 +144,6 @@ name,fileindex,index,whichChild
 "gloveri",261,25,1
 "glis",254,157,2
 "Gloomy Tube-nosed Bat",389,62,2
-"Glauconycteris",391,3,1
 "Glauconycteris",391,9,1
 "Glauconycteris",391,10,2
 "Glauconycteris",391,12,1
@@ -162,31 +157,25 @@ name,fileindex,index,whichChild
 "Glauconycteris",391,21,1
 "Glauconycteris",391,22,2
 "Glauconycteris",391,23,2
-"Glischropus",389,208,1
 "Glischropus",389,209,1
 "Glischropus",389,210,2
 "glaucinus",396,35,2
 "glaucus",393,36,2
-"Glossophaga",395,26,1
 "Glossophaga",395,30,1
 "Glossophaga",395,31,2
 "Glossophaga",395,32,2
 "Glossophaga",395,33,2
 "Glossophaga",395,34,2
-"Glyphonycteris",393,183,1
 "Glyphonycteris",393,185,1
 "Glyphonycteris",393,186,2
 "Glyphonycteris",393,187,2
-"Globicephala",373,62,1
 "Globicephala",373,63,1
 "Globicephala",373,64,2
 "glacialis",371,189,1
 "glama",365,116,2
 "Glass's Shrew",369,23,2
 "glassi",369,23,2
-"Possums, Cuscuses, Trioks and Gliders",112,0,2
 "Greater Glider",112,32,2
-"Gliders",112,35,1
 "Sugar Glider",112,39,1
 "Biak Glider",112,40,2
 "Northern Glider",112,41,2
@@ -201,8 +190,6 @@ name,fileindex,index,whichChild
 "glaberrimus",38,19,1
 "glyphus",63,150,2
 "glaber",65,40,2
-"Glassfrogs and more",38,98,2
-"Glassfrogs",38,136,2
 "Puyo Giant Glass Frog",49,44,1
 "Tandayapa Giant Glass Frog",50,35,1
 "Fleischmann's Glass Frog",49,171,2

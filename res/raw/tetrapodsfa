@@ -9,8 +9,6 @@ name,fileindex,index,whichChild
 "Fan-tailed Widowbird",140,116,2
 "fagani",121,83,2
 "famosa",131,12,2
-"Leafbirds, Fairy-Bluebirds",121,160,2
-"Fairy-bluebirds",121,182,2
 "Philippine Fairy-bluebird",121,183,1
 "Asian Fairy-bluebird",121,184,2
 "Familiar Chat",184,27,1
@@ -43,7 +41,6 @@ name,fileindex,index,whichChild
 "fascinans",151,39,2
 "Fatuhiva Monarch",159,30,1
 "fastuosus",160,40,1
-"Fantails",153,2,1
 "Long-tailed Fantail",153,13,1
 "Manus Fantail",153,14,2
 "Mangrove Fantail",153,15,2
@@ -93,7 +90,6 @@ name,fileindex,index,whichChild
 "fallax",148,203,2
 "Fan-tailed Gerygone",180,110,2
 "Fairy Gerygone",180,117,2
-"Fairywrens",120,84,1
 "Blue-breasted Fairywren",120,91,1
 "Purple-crowned Fairywren",120,92,2
 "Splendid Fairywren",120,94,1
@@ -121,8 +117,6 @@ name,fileindex,index,whichChild
 "Fairy Pitta",229,155,2
 "Fairy Lorikeet",216,89,1
 "farinosa",221,63,2
-"Falcons and caracaras",114,11,2
-"FALCONIFORMES",114,11,2
 "Black Falcon",222,15,1
 "Falco",222,15,1
 "Saker Falcon",222,16,2
@@ -170,7 +164,6 @@ name,fileindex,index,whichChild
 "Taita Falcon",222,56,2
 "fasciinucha",222,56,2
 "Falco",222,56,2
-"Kestrels and other falcons",222,57,2
 "Falco",222,64,1
 "Falco",222,65,2
 "Falco",222,66,2
@@ -183,7 +176,6 @@ name,fileindex,index,whichChild
 "Grey Falcon",222,75,2
 "Falco",222,75,2
 "Falco",222,76,2
-"Falconets",222,78,1
 "Philippine Falconet",222,81,1
 "Collared Falconet",222,82,2
 "Pied Falconet",222,83,2
@@ -220,7 +212,6 @@ name,fileindex,index,whichChild
 "falcatus",326,70,2
 "fanny",328,27,1
 "Fawn-breasted Brilliant",332,131,2
-"Fairies",330,40,2
 "Purple-crowned Fairy",330,41,1
 "Black-eared Fairy",330,42,2
 "falcipennis",312,90,1
@@ -244,7 +235,6 @@ name,fileindex,index,whichChild
 "fasciata",341,56,2
 "fasciatus",340,32,2
 "False Coral Snake",334,110,2
-"False Geckos",321,5,1
 "Fawn-footed Melomys",266,56,1
 "Fawn Hopping Mouse",266,97,2
 "Fawn-colored Mouse",269,147,1
@@ -257,14 +247,12 @@ name,fileindex,index,whichChild
 "Fat-tailed Gerbil",265,48,2
 "Brazilian False Rice Rat",293,124,2
 "False Zokor",281,61,2
-"Fat Mice",281,196,1
 "Fat Mouse",281,201,1
 "Northwestern Fat Mouse",281,205,1
 "Jackson's Fat Mouse",281,206,2
 "Dainty Fat Mouse",281,207,2
 "Kreb's Fat Mouse",281,209,1
 "Tiny Fat Mouse",281,210,2
-"Fat-tailed Jerboas",280,72,2
 "Lesser Fat-tailed Jerboa",280,74,1
 "Dwarf Fat-tailed Jerboa",280,76,2
 "fallax",255,121,1
@@ -277,7 +265,6 @@ name,fileindex,index,whichChild
 "fascicularis",275,41,2
 "Southern Fat-tailed Dwarf Lemur",260,94,1
 "Western Fat-tailed Dwarf Lemur",260,98,2
-"Falsistrellus",389,101,2
 "Falsistrellus",389,104,1
 "Falsistrellus",389,105,2
 "Falsistrellus",389,106,2
@@ -297,14 +284,10 @@ name,fileindex,index,whichChild
 "falconeri",372,28,2
 "Fallow Deer",374,22,2
 "False Killer Whale",373,66,1
-"Pig family",401,1,1
-"Horse family",365,135,2
 "fasciata",381,86,2
 "fasciata",381,198,2
 "Falanouc",385,72,1
 "Fanaloka",385,73,2
-"Hyena family",382,80,2
-"Fairy Armadillos",333,37,2
 "Greater Fairy Armadillo",333,38,1
 "Lesser Fairy Armadillo",333,39,2
 "fasciatus",110,112,2
@@ -349,6 +332,5 @@ name,fileindex,index,whichChild
 "fafniri",33,160,2
 "fasciatus",30,25,2
 "fallax",26,152,2
-"False Brook Salamanders",100,88,2
 "Bell's False Brook Salamander",100,147,1
 "fazilae",98,159,2

@@ -35,13 +35,11 @@ name,fileindex,index,whichChild
 "bocagei",193,14,2
 "boulboul",188,47,2
 "Boucard's Wren",190,130,1
-"Bombycillidae",181,146,1
 "Bombycilla",181,148,1
 "Bohemian Waxwing",181,149,2
 "Bombycilla",181,149,2
 "Bombycilla",181,150,2
 "bonensis",181,152,1
-"Bombycillidae",181,154,2
 "Bold-striped Tit-babbler",163,95,1
 "bornensis",163,95,1
 "borbonicus",166,136,2
@@ -74,9 +72,7 @@ name,fileindex,index,whichChild
 "Bower's Shrike-thrush",152,179,2
 "boweri",152,179,2
 "Boulton's Batis",196,34,1
-"Boubous, Bushshrikes and Gonoleks",198,3,1
 "Yellow-breasted Boubou",198,14,2
-"Boubous",198,20,1
 "Ethiopian Boubou",198,24,1
 "Southern Boubou",198,25,2
 "Turati's Boubou",198,26,2
@@ -88,7 +84,6 @@ name,fileindex,index,whichChild
 "bocagei",198,41,2
 "Bokmakierie Bush-shrike",198,52,2
 "Bornean Bristlehead",195,82,2
-"Boatbills",195,85,2
 "Yellow-breasted Boatbill",195,86,1
 "Black-breasted Boatbill",195,87,2
 "Boyer's Cuckooshrike",200,23,2
@@ -97,8 +92,6 @@ name,fileindex,index,whichChild
 "Bougainville Honeyeater",148,119,2
 "bougainvillei",148,119,2
 "Bonin White-eye",148,145,2
-"Australian Treecreepers, Bowerbirds",120,137,2
-"Bowerbirds",120,138,1
 "Fawn-breasted Bowerbird",120,146,1
 "Great Bowerbird",120,147,2
 "Western Bowerbird",120,148,2
@@ -149,7 +142,6 @@ name,fileindex,index,whichChild
 "bouvieri",225,7,1
 "bolivianum",226,20,2
 "Boreal Owl",224,121,2
-"Hawk-owls, Boobook and more",224,123,2
 "Southern Boobook",224,135,1
 "Southern Boobook",224,136,2
 "boobook",224,136,2
@@ -171,7 +163,6 @@ name,fileindex,index,whichChild
 "Bostrychia",354,162,2
 "bougainvillii",364,25,1
 "Bounty Islands Shag",364,26,2
-"Gannets and boobies",364,75,2
 "Blue-footed Booby",364,80,1
 "Peruvian Booby",364,81,2
 "Masked Booby",364,83,1
@@ -188,7 +179,6 @@ name,fileindex,index,whichChild
 "boucardi",327,79,1
 "bombus",328,11,2
 "bougueri",332,141,2
-"BOISSONNEAUA",332,144,1
 "Boissonneaua",332,146,1
 "Boissonneaua",332,147,2
 "Boissonneaua",332,148,2
@@ -202,7 +192,6 @@ name,fileindex,index,whichChild
 "Bonasa",312,101,2
 "Bonasa",312,102,2
 "Bornean Peacock-pheasant",312,187,1
-"Bobwhites",315,40,1
 "Northern Bobwhite",315,43,1
 "Crested Bobwhite",315,44,2
 "Black-throated Bobwhite",315,45,2
@@ -214,7 +203,6 @@ name,fileindex,index,whichChild
 "Yellow-headed Box Turtle",96,8,2
 "Pan's Box Turtle",96,9,2
 "Zhou's Box Turtle",96,10,2
-"Asian Box Turtles",96,14,2
 "Indochinese Box Turtle",96,18,1
 "Mccord's Box Turtle",96,21,2
 "borneoensis",94,57,1
@@ -225,7 +213,6 @@ name,fileindex,index,whichChild
 "hermanni boettgeri",94,119,2
 "Bolson Tortoise",94,129,1
 "Bog Turtle",94,149,1
-"Box Turtle",94,152,1
 "Aquatic Box Terrapin",94,154,1
 "Sierra Box Turtle",94,157,1
 "Ornate Box Turtle",94,158,2
@@ -274,7 +261,6 @@ name,fileindex,index,whichChild
 "boa",334,12,2
 "Borneo Red Snake",334,17,2
 "borneensis",334,17,2
-"Boas, Pythons, Earth Snakes and more",334,19,2
 "boa",334,70,2
 "Bothrochilus",334,70,2
 "Round Island Boa",334,79,1
@@ -289,7 +275,6 @@ name,fileindex,index,whichChild
 "Chiapan Boa",334,100,1
 "Madagascar Tree Boa",334,103,1
 "Dumeril's Boa",334,104,2
-"Flase Coral Snake and Boas",334,106,2
 "Northern Eyelash Boa",334,108,1
 "boulengeri",334,108,1
 "Haitian Dwarf Boa",334,109,2
@@ -297,7 +282,6 @@ name,fileindex,index,whichChild
 "borbonica",319,41,1
 "boulengerii",321,10,2
 "borea",318,161,2
-"Boreoeutheria",0,124,1
 "Bougainville Melomys",266,30,2
 "bougainville",266,30,2
 "Bolam's Mouse",266,134,2
@@ -328,7 +312,6 @@ name,fileindex,index,whichChild
 "bonariensis",292,25,2
 "Bolivian Big-eared Mouse",292,35,1
 "boliviensis",292,35,1
-"Bolo Mice",287,59,2
 "Hairy-tailed Bolo Mouse",287,63,1
 "Temchuk's Bolo Mouse",287,65,2
 "Dark Bolo Mouse",287,67,1
@@ -389,7 +372,6 @@ name,fileindex,index,whichChild
 "bobrinskoi",403,161,2
 "borbonicus",403,188,1
 "Bonda Mastiff Bat",396,22,2
-"Bonneted Bats",396,27,2
 "Underwood's Bonneted Bat",396,33,1
 "Black Bonneted Bat",396,34,2
 "Wagner's Bonneted Bat",396,35,2
@@ -414,8 +396,6 @@ name,fileindex,index,whichChild
 "Bonin Flying Fox",366,52,2
 "Bougainville Monkey-faced Bat",366,139,2
 "Borneo Fruit Bat",387,38,1
-"Bovids",371,4,1
-"Bovidae",371,4,1
 "borealis",372,147,2
 "Bohor Reedbuck",371,29,2
 "Bongo",371,46,2
@@ -618,7 +598,6 @@ name,fileindex,index,whichChild
 "Mount Gadin Borneo Frog",37,47,1
 "boringiae",37,83,2
 "bombifrons",1,173,2
-"BOMBINATORIDAE",342,22,2
 "Bombina",342,27,1
 "Bombina",342,28,2
 "Bombina",342,30,1

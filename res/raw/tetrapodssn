@@ -1,6 +1,5 @@
 name,fileindex,index,whichChild
 "Snow Bunting",121,18,2
-"Sparrows, Snowfinches and more",121,19,2
 "Plain-backed Snowfinch",122,59,1
 "Small Snowfinch",122,60,2
 "Rufous-necked Snowfinch",122,61,2
@@ -9,9 +8,6 @@ name,fileindex,index,whichChild
 "Black-winged Snowfinch",122,65,2
 "White-rumped Snowfinch",122,66,2
 "Snow Mountain Munia",132,75,1
-"Sparrows, snowfinches and more",140,147,2
-"Sparrows, snowfinches and more",140,163,1
-"Sparrows, snowfinches and more",140,173,1
 "Snowy-browed Flycatcher",187,30,2
 "Snowy-crowned Robin-chat",193,41,2
 "Snowy-browed Nuthatch",182,9,1
@@ -27,7 +23,6 @@ name,fileindex,index,whichChild
 "Snow-capped Manakin",249,137,2
 "Snowy Owl",225,33,2
 "Snail Kite",118,98,2
-"Snake-eagles",115,64,1
 "Short-toed Snake-eagle",115,68,1
 "Brown Snake-eagle",115,69,2
 "Black-chested Snake-eagle",115,70,2
@@ -35,7 +30,6 @@ name,fileindex,index,whichChild
 "Southern Banded Snake-eagle",115,75,1
 "Banded Snake-eagle",115,76,2
 "Snowy-crowned Tern",213,19,1
-"Snipes",223,6,1
 "Swinhoe's Snipe",223,13,1
 "Pintail Snipe",223,14,2
 "Solitary Snipe",223,16,1
@@ -58,7 +52,6 @@ name,fileindex,index,whichChild
 "Australian Painted Snipe",114,136,1
 "Snowy Sheathbill",114,170,2
 "Snowy Egret",354,80,2
-"Snakebirds",364,68,2
 "Snow Petrel",357,66,2
 "Snares Penguin",357,161,2
 "Snoring Rail",360,119,2
@@ -66,7 +59,6 @@ name,fileindex,index,whichChild
 "Snowy-breasted Hummingbird",327,39,2
 "Snowcap",326,48,2
 "Snow Partridge",312,97,2
-"Snowcocks",317,73,2
 "Himalayan Snowcock",317,76,1
 "Altai Snowcock",317,77,2
 "Caspian Snowcock",317,78,2
@@ -74,16 +66,9 @@ name,fileindex,index,whichChild
 "Tibetan Snowcock",317,81,2
 "Snow Mountain Quail",317,96,1
 "Snow Goose",316,20,1
-"Snapping Turtles",94,162,1
 "Alligator Snapping Turtle",94,163,1
 "Common Snapping Turtle",94,164,2
-"Lizards and Snakes",0,115,2
-"Snow Skinks",306,7,1
-"Snake-eyed Skinks",298,68,2
 "Two-streaked Snake-eyed Skink",298,70,1
-"Snakes",334,1,1
-"Vipers, Cobras, Sea Snakes, Whip Snakes and more",334,5,1
-"Vipers, Cobras, Sea Snakes, Whip Snakes and more",334,5,1
 "Spotted Leaf-nosed Snake",337,8,1
 "Florida Crowned Snake",337,13,1
 "Mexican Hooknose Snake",337,28,1
@@ -91,7 +76,6 @@ name,fileindex,index,whichChild
 "Western Shovel-nosed Snake",337,36,1
 "Ground Snake",337,37,2
 "Sand Snake",337,38,2
-"Whip Snakes and more",337,52,1
 "Green Whip Snake",337,56,1
 "Ring-Headed Dwarf Snake",337,58,2
 "Horseshoe Whip Snake",337,62,1
@@ -110,11 +94,9 @@ name,fileindex,index,whichChild
 "Cat Snake",338,30,2
 "Barred Short-headed Snake",335,53,2
 "Spotted-bellied Short-headed Snake",335,72,1
-"Flying Snakes",335,95,2
 "Paradise Flying Snake",335,97,1
 "Golden Flying Snake",335,98,2
 "Indian Flying Snake",335,99,2
-"Whip Snakes",335,100,2
 "Green Vine Snake",335,103,2
 "Negros Light-scaled Burrowing Snake",335,109,1
 "Rough Earth Snake",335,121,1
@@ -125,7 +107,6 @@ name,fileindex,index,whichChild
 "Lined Snake",335,129,2
 "Grass Snake",335,133,2
 "Seychelles Wolf Snake",335,174,1
-"Many Toothed Snakes",335,178,1
 "Black-collared Snake",336,16,2
 "Mexican Vine Snake",336,33,2
 "Night Snake",336,128,2
@@ -134,11 +115,6 @@ name,fileindex,index,whichChild
 "Sharp-tailed Snake",335,196,2
 "Eastern Worm Snake",335,198,1
 "Mud Snake",335,199,2
-"Cobras, Sea Snakes, Water Snakes and more",340,0,2
-"Cobras, Sea Snakes, Water Snakes and more",340,0,2
-"Sea Snakes, Coral Snakes, Cobras and more",340,4,1
-"Sea Snakes, Coral Snakes, Cobras and more",340,4,1
-"Sea Snakes",341,4,1
 "Spiny-headed Sea Snake",341,13,1
 "Beaked Sea Snake",341,15,2
 "Rough-scaled Sea Snake",341,17,1
@@ -149,7 +125,6 @@ name,fileindex,index,whichChild
 "Lake Cronin Snake",341,35,2
 "Small-eyed Snake",340,14,1
 "Shield-nose Snake",340,43,2
-"Coral Snakes",340,50,2
 "Sonoran Coral Snake",340,52,1
 "Eastern Coral Snake",340,53,2
 "Japanese Coral Snake",340,54,2
@@ -168,16 +143,10 @@ name,fileindex,index,whichChild
 "Java Tubercle Snake",334,15,1
 "Borneo Red Snake",334,17,2
 "Little Small Snake",334,18,2
-"Boas, Pythons, Earth Snakes and more",334,19,2
-"Earth Snakes",334,26,1
 "Ceylonese Cylinder Snake",334,54,1
 "Leonard's Pipe Snake",334,56,2
 "Sunbeam Snake",334,77,2
-"Flase Coral Snake and Boas",334,106,2
 "False Coral Snake",334,110,2
-"Blind snakes, Thread Snakes and Worm Snakes",334,111,2
-"Blind snakes, Thread Snakes and Worm Snakes",334,111,2
-"Blind snakes, Thread Snakes and Worm Snakes",334,111,2
 "Seven-striped Blind Snake",334,123,2
 "San Salvador Blind Snake",334,124,2
 "Villiers' Blind Snake",334,125,2
@@ -186,28 +155,23 @@ name,fileindex,index,whichChild
 "Adler's Worm Snake",334,130,2
 "Spotted Blind Snake",334,138,1
 "Jan's Worm Snake",334,151,2
-"Blind snakes",334,152,2
 "Whitenose Blind Snake",334,153,1
 "Trinidad Blind Snake",334,154,2
 "Bronzeback Snake-lizard",318,202,2
 "Snow Mountains Grassland Melomys",266,14,2
 "Snow-footed Oldfield Mouse",290,39,2
-"Snow Voles",281,24,2
 "Robert's Snow Vole",281,26,1
 "European Snow Vole",281,27,2
 "Caucasian Snow Vole",281,28,2
 "Balkan Snow Vole",284,72,2
 "Snowshoe Hare",277,41,2
-"Snub-nosed Monkeys",275,162,1
 "Grey Snub-nosed Monkey",275,165,1
 "Black Snub-nosed Monkey",275,166,2
 "Golden Snub-nosed Monkey",275,167,2
 "Tonkin Snub-nosed Monkey",275,168,2
 "Snow Sheep",372,39,2
 "Snow Leopard",382,18,2
-"Snouted Frogs",57,78,1
 "Jamaican Snoring Frog",64,59,2
-"Snouted Treefrogs",70,1,1
 "Sharp Snouted Day Frog",23,93,1
 "De Witte's Snout-burrower",25,185,1
 "Guinea Snout-burrower",25,186,2

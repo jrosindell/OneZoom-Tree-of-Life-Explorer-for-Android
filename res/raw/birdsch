@@ -25,7 +25,6 @@ name,fileindex,index,whichChild
 "Chlorochrysa",54,139,2
 "Western Chat-Tanager",54,182,1
 "Chat Tanager",54,183,2
-"Chlorophonias",54,190,2
 "Blue-crowned Chlorophonia",54,193,1
 "Chlorophonia",54,193,1
 "Blue-naped Chlorophonia",54,194,2
@@ -109,7 +108,6 @@ name,fileindex,index,whichChild
 "christinae",62,147,1
 "chrysorrheum",63,76,2
 "chrysogenys",62,184,1
-"Chloropseidae",62,197,1
 "Chloropsis",62,203,1
 "Chloropsis",62,204,2
 "Chloropsis",62,205,2
@@ -121,10 +119,6 @@ name,fileindex,index,whichChild
 "Chloropsis",62,214,2
 "Chloropsis",62,216,1
 "Chloropsis",62,217,2
-"Chats and Old World flycatchers",43,10,1
-"Thrushes, Dippers, Chats, Old World Flycatchers",87,2,1
-"Chats and Old World Flycatchers",87,4,1
-"Chats and Old World flycatchers",92,4,1
 "chrysopygia",93,14,1
 "Indian Chat",93,24,2
 "Familiar Chat",93,26,1
@@ -140,23 +134,14 @@ name,fileindex,index,whichChild
 "Chestnut-bellied Rock-thrush",92,29,1
 "Chaimarrornis",92,49,2
 "Chestnut-winged Whistling-thrush",92,66,1
-"Chats and Old World flycatchers",92,80,2
 "Chestnut-naped Forktail",92,87,2
-"Chats and Old World flycatchers",92,93,2
-"Chats and Old World flycatchers",92,96,2
-"Chats and Old World flycatchers",92,110,1
-"Chats and Old World flycatchers",92,129,1
 "Boulder Chat",92,134,2
-"Chats and Old World flycatchers",92,136,2
-"Chats and Old World flycatchers",99,0,2
 "Chapin's Flycatcher",99,29,2
 "Herero Chat",99,62,2
 "Chat Flycatcher",99,76,1
 "chocolatinus",99,105,1
-"Chats and Old World flycatchers",97,1,1
 "Chorister Robin-chat",97,44,2
 "choloensis",97,69,2
-"Chats and Old World flycatchers",87,8,2
 "chrysaeus",87,13,2
 "Chestnut Thrush",89,24,2
 "chrysolaus",89,34,1
@@ -267,9 +252,6 @@ name,fileindex,index,whichChild
 "Chestnut-headed Sparrow-lark",107,172,1
 "Chestnut-backed Sparrow-lark",107,178,1
 "chloris",107,186,1
-"Tits, Chickadees and more",100,0,2
-"Tits and Chickadees",100,2,1
-"Chickadees",100,11,1
 "Black-capped Chickadee",100,14,1
 "Mountain Chickadee",100,15,2
 "Carolina Chickadee",100,17,1
@@ -278,7 +260,6 @@ name,fileindex,index,whichChild
 "Chestnut-backed Chickadee",100,21,1
 "Boreal Chickadee",100,22,2
 "Chinese Penduline-tit",100,124,2
-"Chats and Old World flycatchers",100,140,2
 "Chelidorhynx",100,145,1
 "Chaetops",43,177,1
 "Chaetops",43,178,2
@@ -304,7 +285,6 @@ name,fileindex,index,whichChild
 "chrysoptera",132,67,1
 "Chabert's Vanga",135,30,2
 "chabert",135,30,2
-"Chats and Old World flycatchers",135,46,2
 "Chestnut-bellied Helmet-shrike",135,56,1
 "Chestnut-fronted Helmet-shrike",135,58,2
 "Chinspot Batis",135,107,2
@@ -381,7 +361,6 @@ name,fileindex,index,whichChild
 "Checker-throated Antwren",30,154,2
 "Chestnut-shouldered Antwren",30,177,1
 "Chocolate-vented Tyrant",123,14,1
-"Chat-Tyrants",125,3,1
 "Golden-browed Chat-tyrant",125,8,1
 "Brown-backed Chat-tyrant",125,9,2
 "Piura Chat-tyrant",125,10,2
@@ -519,7 +498,6 @@ name,fileindex,index,whichChild
 "Chondrohierax",181,31,1
 "Chondrohierax",181,32,2
 "Chelictinia",161,151,1
-"CHARADRIIFORMES",20,0,2
 "Chlidonias",25,43,1
 "Chlidonias",25,44,2
 "Chlidonias",25,45,2
@@ -530,7 +508,6 @@ name,fileindex,index,whichChild
 "Chestnut-backed Buttonquail",20,54,1
 "Chatham Snipe",21,38,2
 "chirurgus",20,123,2
-"Charadriidae",20,142,1
 "chilensis",24,17,1
 "Charadrius",24,55,1
 "Charadrius",24,56,2
@@ -565,8 +542,6 @@ name,fileindex,index,whichChild
 "Charadrius",24,118,2
 "Chatham Oystercatcher",26,20,2
 "chathamensis",26,20,2
-"Charadriidae",20,144,2
-"Chionidae",20,170,2
 "Chionis",20,172,1
 "Chionis",20,173,2
 "Chinese Pond-heron",3,18,1
@@ -714,7 +689,6 @@ name,fileindex,index,whichChild
 "Chestnut-bellied Partridge",147,85,2
 "Chestnut-breasted Partridge",147,91,1
 "Chestnut Wood-quail",147,115,2
-"Chachalacas",184,30,2
 "Chestnut-winged Chachalaca",184,37,1
 "Chestnut-winged Chachalaca",184,37,1
 "Rufous-vented Chachalaca",184,38,2
@@ -741,7 +715,6 @@ name,fileindex,index,whichChild
 "chlorotis",28,11,2
 "Chestnut Teal",28,15,1
 "Chiloe Wigeon",28,54,2
-"CHEN",27,166,2
 "Chen",27,168,1
 "Chen",27,169,2
 "Chen",27,170,2

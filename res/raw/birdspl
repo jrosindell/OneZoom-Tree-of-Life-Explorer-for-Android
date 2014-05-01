@@ -22,7 +22,6 @@ name,fileindex,index,whichChild
 "Plain-backed Snowfinch",108,60,1
 "Plum-headed Finch",101,32,1
 "Jos Plateau Indigobird",101,109,2
-"Ploceidae",102,0,1
 "Ploceus",102,15,1
 "Ploceus",102,16,2
 "Ploceus",102,17,2
@@ -87,10 +86,6 @@ name,fileindex,index,whichChild
 "Ploceus",102,124,2
 "Ploceus",102,126,1
 "Ploceus",102,127,2
-"Ploceidae",105,1,1
-"Ploceidae",105,36,1
-"Ploceidae",105,50,2
-"Ploceidae",101,136,2
 "Plocepasser",101,144,1
 "Plocepasser",101,145,2
 "Plocepasser",101,147,1
@@ -136,8 +131,6 @@ name,fileindex,index,whichChild
 "Plumbeous Vireo",139,18,1
 "plumbeus",139,18,1
 "plumatus",135,57,2
-"Platysteiridae",135,73,2
-"Platysteiridae",135,76,2
 "Platysteira",135,117,1
 "Platysteira",135,118,2
 "Platysteira",135,120,1
@@ -225,10 +218,8 @@ name,fileindex,index,whichChild
 "Plumbeous Kite",163,100,2
 "plumbea",163,100,2
 "Plain-breasted Hawk",165,71,2
-"Gulls, Terns, Auks and Plovers",20,3,1
 "Crab Plover",20,13,2
 "Plains-wanderer",20,137,2
-"Dotterels, other Plovers and more",20,142,1
 "Mountain Plover",24,55,1
 "Malaysian Plover",24,56,2
 "St Helena Plover",24,59,1
@@ -259,7 +250,6 @@ name,fileindex,index,whichChild
 "placidus",24,113,2
 "Chestnut-banded Plover",24,117,2
 "Rufous-chested Plover",24,118,2
-"Plovers",20,144,2
 "Eurasian Golden Plover",20,147,1
 "Pluvialis",20,147,1
 "Pacific Golden Plover",20,148,2
@@ -282,7 +272,6 @@ name,fileindex,index,whichChild
 "Plegadis",3,172,2
 "Plegadis",3,173,2
 "Plumbeous Ibis",3,179,1
-"Plantain-eaters",1,94,2
 "Western Grey Plantain-eater",1,95,1
 "Eastern Grey Plantain-eater",1,96,2
 "Plaintive Cuckoo",10,52,1
@@ -300,7 +289,6 @@ name,fileindex,index,whichChild
 "plumbeiceps",5,53,1
 "Plain-breasted Ground-dove",1,142,1
 "Plain-bellied Emerald",156,61,2
-"Plumeleteers",155,32,2
 "Bronze-tailed Plumeleteer",155,33,1
 "White-vented Plumeleteer",155,34,2
 "Plovercrest",155,76,2

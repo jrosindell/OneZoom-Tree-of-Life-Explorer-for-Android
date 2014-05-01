@@ -67,7 +67,6 @@ name,fileindex,index,whichChild
 "Golden-breasted Starling",191,21,2
 "Golden-crested Myna",194,66,2
 "Golden Myna",194,69,2
-"Goldcrests and kinglets",181,162,2
 "Goldcrest",181,167,2
 "goodfellowi",181,168,2
 "Golden-crowned Kinglet",181,172,2
@@ -102,7 +101,6 @@ name,fileindex,index,whichChild
 "Golden-backed Whistler",156,35,2
 "Golden Whistler",156,44,2
 "Goldenface",152,184,2
-"Boubous, Bushshrikes and Gonoleks",198,3,1
 "Black-headed Gonolek",198,11,1
 "Common Gonolek",198,12,2
 "Papyrus Gonolek",198,13,2
@@ -179,7 +177,6 @@ name,fileindex,index,whichChild
 "Chinese Goshawk",117,122,2
 "Henst's Goshawk",117,129,2
 "Golden Eagle",116,19,2
-"Godwits",223,152,1
 "Hudsonian Godwit",223,155,1
 "Marbled Godwit",223,156,2
 "Black-tailed Godwit",223,157,2
@@ -195,7 +192,6 @@ name,fileindex,index,whichChild
 "Goliath Heron",354,55,2
 "goliath",354,55,2
 "Gould's Petrel",358,37,2
-"Go-away-birds",346,90,1
 "Bare-faced Go-away-bird",346,92,1
 "Grey Go-away-bird",346,93,2
 "White-bellied Go-away-bird",346,94,2
@@ -226,7 +222,6 @@ name,fileindex,index,whichChild
 "Gorgeted Puffleg",332,165,2
 "godini",332,177,2
 "Golden-bellied Starfrontlet",332,193,1
-"Goldenthroats",330,25,1
 "White-tailed Goldenthroat",330,27,1
 "Tepui Goldenthroat",330,28,2
 "Green-tailed Goldenthroat",330,29,2
@@ -236,12 +231,9 @@ name,fileindex,index,whichChild
 "Golden Pheasant",312,42,2
 "Gorgeted Wood-quail",315,29,1
 "goudotii",311,42,1
-"Waterfowl, Screamers and Magpie Goose",310,129,2
-"Goldeneyes",313,21,2
 "Barrow's Goldeneye",313,23,1
 "Common Goldeneye",313,24,2
 "Egyptian Goose",313,55,2
-"Orinoco Goose and Sheldgeese",313,56,2
 "Andean Goose",313,59,1
 "Orinoco Goose",313,60,2
 "Ruddy-headed Goose",313,61,2
@@ -268,7 +260,6 @@ name,fileindex,index,whichChild
 "Brent Goose",316,33,2
 "Cape Barren Goose",316,46,1
 "Magpie Goose",310,166,2
-"Gopher Tortoises",94,127,1
 "Gopherus",94,129,1
 "Gopher Tortoise",94,130,2
 "Gopherus",94,130,2
@@ -318,8 +309,6 @@ name,fileindex,index,whichChild
 "Gobi Altai Mountain Vole",284,60,1
 "Golden Hamster",281,126,2
 "Gobi Jerboa",280,92,2
-"Beavers, Pocket Gophers and more",254,26,2
-"Pocket Gophers and more",255,1,1
 "Alcorn's Pocket Gopher",255,30,2
 "Yellow-faced Pocket Gopher",255,34,1
 "goldmani",255,35,2
@@ -370,7 +359,6 @@ name,fileindex,index,whichChild
 "Gee's Golden Langur",276,19,2
 "Golden Snub-nosed Monkey",275,167,2
 "gordonorum",275,185,2
-"Gorilla",295,35,2
 "Eastern Gorilla",295,36,1
 "Gorilla",295,36,1
 "Lowland Gorilla",295,37,2
@@ -428,7 +416,6 @@ name,fileindex,index,whichChild
 "goodwini",397,89,2
 "Goldman's Broad-clawed Shrew",397,113,2
 "goldmani",397,113,2
-"Golden moles",323,53,2
 "Highveld Golden Mole",323,60,1
 "Hottentot Golden Mole",323,61,2
 "Fynbos Golden Mole",323,62,2

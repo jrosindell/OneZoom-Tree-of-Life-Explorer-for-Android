@@ -5,7 +5,6 @@ name,fileindex,index,whichChild
 "bruijni",15,32,2
 "Broad-headed Tree Mouse",15,65,1
 "Rudd's Bristle-furred Rat",11,44,2
-"Brush-furred Rats and more",11,45,2
 "brunneus",11,53,1
 "Yellow-spotted Brush-furred Rat",11,55,2
 "Ethiopian Forest Brush-furred Rat",11,56,2
@@ -24,12 +23,10 @@ name,fileindex,index,whichChild
 "Brown Spiny Mouse",11,170,2
 "Brown Rat",10,48,1
 "Broad-nosed Sumatran Maxomys",9,60,2
-"Broad-toothed Field Mice",19,41,2
 "Western Broad-toothed Field Mouse",19,42,1
 "Broad-toothed Field Mouse",19,43,2
 "New Britain Water Rat",17,22,1
 "Luzon Broad-toothed Rat",17,40,1
-"Broad-headed Mice",8,64,2
 "Hildegarde's Broad-headed Mouse",8,65,1
 "Woosnam's Broad-headed Mouse",8,66,2
 "Brants's Whistling Rat",14,45,2
@@ -48,7 +45,6 @@ name,fileindex,index,whichChild
 "Baluchi Brush-tailed Mouse",2,35,2
 "Hotson's Brush-tailed Mouse",2,42,1
 "Brucepattersonius",23,176,2
-"Bristly Mice",23,178,2
 "Narrow-footed Bristly Mouse",23,180,1
 "Guiana Bristly Mouse",23,181,2
 "Painted Bristly Mouse",23,183,1
@@ -77,10 +73,8 @@ name,fileindex,index,whichChild
 "brandtii",6,28,2
 "Brown Lemming",6,40,1
 "Brown Lemming",6,42,2
-"Brachytarsomys",4,82,2
 "Brachytarsomys",4,83,1
 "Brachytarsomys",4,84,2
-"Brachyuromys",4,95,2
 "Brachyuromys",4,96,1
 "Brachyuromys",4,97,2
 "Brandt's Hamster",4,128,1
@@ -89,7 +83,6 @@ name,fileindex,index,whichChild
 "breviceps",2,104,2
 "brasiliensis",30,29,1
 "Brazilian Spiny Tree Rat",30,39,1
-"Brush-tailed Rats",30,41,2
 "Yellow-crowned Brush-tailed Rat",30,43,1
 "Plain Brush-tailed Rat",30,45,2
 "Bristle-spined Rat",29,26,2
@@ -130,7 +123,6 @@ name,fileindex,index,whichChild
 "Olalla Brothers' Titi",42,22,1
 "Brown Titi Monkey",42,39,2
 "brunneus",42,39,2
-"Brachyteles",42,78,2
 "Brachyteles",42,79,1
 "Brachyteles",42,80,2
 "Variegated Or Brown Spider Monkey",42,85,1
@@ -145,7 +137,6 @@ name,fileindex,index,whichChild
 "Bronze Tube-nosed Bat",53,75,2
 "Greater Broad-nosed Bat",53,84,2
 "Brown Big-eared Bat",53,134,2
-"Broad-nosed Bats",54,52,1
 "Northern Broad-nosed Bat",54,54,1
 "Little Broad-nosed Bat",54,55,2
 "Inland Broad-nosed Bat",54,57,1
@@ -176,7 +167,6 @@ name,fileindex,index,whichChild
 "Brazilian Free-tailed Bat",62,145,2
 "brasiliensis",62,145,2
 "Brown Dog-faced Bat",62,157,2
-"Broad-nosed Bats",68,3,1
 "Recife Broad-nosed Bat",68,8,1
 "Buffy Broad-nosed Bat",68,9,2
 "Thomas's Broad-nosed Bat",68,10,2
@@ -195,7 +185,6 @@ name,fileindex,index,whichChild
 "brevicauda",67,89,2
 "Broad-toothed Tailless Bat",69,20,1
 "Brown Flower Bat",67,123,1
-"Brachyphylla",67,125,2
 "Brachyphylla",67,126,1
 "Brachyphylla",67,127,2
 "brasiliense",67,162,2
@@ -250,7 +239,6 @@ name,fileindex,index,whichChild
 "breweri",85,150,2
 "Brazilian Three-banded Armadillo",0,23,1
 "Brazilian Lesser Long-nosed Armadillo",0,41,2
-"Bradypodidae",0,51,1
 "Bradypus",0,53,1
 "Bradypus",0,54,2
 "Bradypus",0,55,2

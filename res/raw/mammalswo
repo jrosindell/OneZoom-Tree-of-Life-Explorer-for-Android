@@ -1,6 +1,5 @@
 name,fileindex,index,whichChild
 "woodwardi",13,83,1
-"Woolly Rats",15,52,1
 "Subalpine Woolly Rat",15,55,1
 "Alpine Woolly Rat",15,56,2
 "De Vis's Woolly Rat",15,57,2
@@ -17,8 +16,6 @@ name,fileindex,index,whichChild
 "Wolffsohn's Leaf-eared Mouse",26,31,2
 "wolffsohni",26,31,2
 "Woolly Giant Rat",26,62,1
-"Deer Mice, Harvest Mice, Woodrats and more",21,150,2
-"Woodrats and more",21,211,2
 "San Martin Island Woodrat",22,9,1
 "Arizona Woodrat",22,10,2
 "Bolano's Woodrat",22,11,2
@@ -48,7 +45,6 @@ name,fileindex,index,whichChild
 "Wood Lemming",6,45,2
 "Woodland Jumping Mouse",3,38,1
 "Woolly-headed Spiny Tree Rat",29,18,1
-"Old World Porcupines",29,177,1
 "Wolffsohn's Viscacha",29,205,2
 "wolffsohni",29,205,2
 "Woolly Flying Squirrel",77,42,2
@@ -56,10 +52,7 @@ name,fileindex,index,whichChild
 "Woodland Dormouse",77,162,2
 "Woolly Dormouse",77,178,2
 "Woolly Hare",76,48,1
-"Old World Monkeys",35,6,1
 "wolfi",41,41,1
-"New World Monkeys",35,79,2
-"Woolly Monkeys",42,70,1
 "Geoffroy'S/peruvian Woolly Monkey",42,72,1
 "Poeppig's Woolly Monkey",42,73,2
 "Common Woolly Monkey",42,75,1
@@ -67,7 +60,6 @@ name,fileindex,index,whichChild
 "Peruvian Yellow-tailed Woolly Monkey",42,77,2
 "Lorenz Von Liburnau's Woolly Lemur",35,113,1
 "Gmelin's Woolly Lemur",35,114,2
-"Woolly Bats and more",53,7,1
 "Papillose Woolly Bat",53,14,1
 "Lenis Woolly Bat",53,15,2
 "Clear-winged Woolly Bat",53,16,2
@@ -86,7 +78,6 @@ name,fileindex,index,whichChild
 "Damara Woolly Bat",53,40,2
 "Louisiade Woolly Bat",53,41,2
 "Big-eared Wooly Bat",67,165,1
-"Old World Leaf-nosed Bats",58,2,1
 "Wollaston's Leaf-nosed Bat",61,36,1
 "wollastoni",61,36,1
 "Lesser Wooly Horseshoe Bat",59,19,2
@@ -101,14 +92,12 @@ name,fileindex,index,whichChild
 "woermanni",70,46,2
 "Wolverine",49,61,2
 "wollebaeki",47,65,2
-"Wolves, Foxes and more",47,119,2
 "Ethiopian Wolf",47,132,1
 "Grey Wolf",47,134,2
 "Maned Wolf",47,150,2
 "wogura",85,116,1
 "Woylie",43,129,2
 "Woodlark Cuscus",44,17,2
-"Wombats",43,203,1
 "Southern Hairy-nosed Wombat",43,205,1
 "Northern Hairy-nosed Wombat",43,206,2
 "Common Wombat",43,207,2

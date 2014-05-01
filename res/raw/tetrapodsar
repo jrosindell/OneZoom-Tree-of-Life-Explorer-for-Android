@@ -74,7 +74,6 @@ name,fileindex,index,whichChild
 "Archbold's Newtonia",195,18,2
 "archboldi",195,18,2
 "Artamella",195,44,2
-"Artamidae",199,2,1
 "Artamus",199,7,1
 "Artamus",199,8,2
 "Artamus",199,10,1
@@ -146,7 +145,6 @@ name,fileindex,index,whichChild
 "Arabian Woodpecker",206,68,2
 "arcticus",206,133,2
 "archipelagicus",201,31,2
-"Aracaris",204,37,2
 "Fiery-billed Aracari",204,42,1
 "Collared Aracari",204,43,2
 "Ivory-billed Aracari",204,44,2
@@ -173,7 +171,6 @@ name,fileindex,index,whichChild
 "Arenaria",223,150,2
 "arquata",223,166,1
 "armatus",119,13,1
-"Ardeidae",354,2,1
 "Ardeola",354,13,1
 "Ardeola",354,14,2
 "Ardeola",354,15,2
@@ -227,7 +224,6 @@ name,fileindex,index,whichChild
 "argus",324,202,2
 "Arabian Partridge",317,60,2
 "argoondah",317,68,2
-"Argus",310,9,2
 "Crested Argus",310,10,1
 "Great Argus",310,11,2
 "argus",310,11,2
@@ -309,7 +305,6 @@ name,fileindex,index,whichChild
 "arfakiensis",274,39,2
 "Arianus's Rat",274,41,1
 "argenteus",273,16,1
-"Arvicanthis",273,47,2
 "Arvicanthis",273,52,1
 "Guinean Arvicanthis",273,53,2
 "Arvicanthis",273,53,2
@@ -349,12 +344,10 @@ name,fileindex,index,whichChild
 "Arizona Woodrat",288,10,2
 "arvalis",282,79,2
 "Arctic Lemming",281,22,2
-"Arborimus",283,16,1
 "Arborimus",283,18,1
 "Arborimus",283,19,2
 "Arborimus",283,20,2
 "argentatus",284,62,2
-"Arvicola",281,45,2
 "Arvicola",281,47,1
 "Arvicola",281,48,2
 "Arvicola",281,49,2
@@ -382,7 +375,6 @@ name,fileindex,index,whichChild
 "arctoides",275,34,2
 "argentata",285,29,2
 "arachnoides",286,14,2
-"Arctocebus",260,153,1
 "Arctocebus",260,154,1
 "Arctocebus",260,155,2
 "argentata",389,40,2
@@ -390,14 +382,12 @@ name,fileindex,index,whichChild
 "arabicus",389,115,2
 "ariel",389,193,2
 "arnhemensis",392,47,1
-"Arielulus",392,54,2
 "Arielulus",392,56,1
 "Arielulus",392,57,2
 "Arielulus",392,58,2
 "Armenian Myotis",404,31,1
 "Arizona Myotis",404,78,2
 "Argentine Brown Bat",403,154,2
-"Artibeus",393,11,1
 "Artibeus",393,18,1
 "Artibeus",393,19,2
 "Artibeus",393,20,2
@@ -435,7 +425,6 @@ name,fileindex,index,whichChild
 "Arnoux's Beaked Whale",371,146,2
 "arnuxii",371,146,2
 "Arctonyx",383,82,2
-"Arctocephalus",381,38,1
 "Arctocephalus",381,44,1
 "Arctocephalus",381,45,2
 "Arctocephalus",381,47,1
@@ -460,29 +449,22 @@ name,fileindex,index,whichChild
 "Arizona Shrew",397,60,2
 "arizonae",397,60,2
 "Arboreal Brown-toothed Shrew",397,139,2
-"Armadillos, Anteaters and Sloths",333,0,2
-"Armadillos",333,1,1
-"Naked-tailed Armadillos",333,6,1
 "Northern Naked-tailed Armadillo",333,8,1
 "Greater Naked-tailed Armadillo",333,9,2
 "Chacoan Naked-tailed Armadillo",333,11,1
-"Three-banded Armadillos",333,13,2
 "Brazilian Three-banded Armadillo",333,14,1
 "Southern Three-banded Armadillo",333,15,2
 "Giant Armadillo",333,16,2
-"Hairy Armadillos",333,18,1
 "Screaming Hairy Armadillo",333,20,1
 "Andean Hairy Armadillo",333,21,2
 "Large Hairy Armadillo",333,22,2
 "Six-banded Armadillo",333,24,1
-"Long-nosed Armadillos",333,26,2
 "Common Long-nosed Armadillo",333,30,1
 "Hairy Long-nosed Armadillo",333,31,2
 "Brazilian Lesser Long-nosed Armadillo",333,32,2
 "Llanos Long-nosed Armadillo",333,34,1
 "Greater Long-nosed Armadillo",333,35,2
 "Southern Long-nosed Armadillo",333,36,2
-"Fairy Armadillos",333,37,2
 "Greater Fairy Armadillo",333,38,1
 "Lesser Fairy Armadillo",333,39,2
 "Arend's Golden Mole",323,79,2
@@ -501,7 +483,6 @@ name,fileindex,index,whichChild
 "arthuri",63,154,2
 "argyrogaster",43,143,2
 "arborea",43,206,1
-"AROMOBATIDAE",68,0,2
 "Aromobates",68,154,1
 "Aromobates",68,155,2
 "Aromobates",68,156,2
@@ -563,7 +544,6 @@ name,fileindex,index,whichChild
 "Arcovomer",35,50,2
 "argus",30,121,2
 "arboricola",27,18,2
-"ARTHROLEPTIDAE",25,135,2
 "Arthroleptis",26,12,1
 "Arthroleptis",26,13,2
 "Arthroleptis",26,15,1

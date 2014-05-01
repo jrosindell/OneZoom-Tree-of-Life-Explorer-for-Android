@@ -14,21 +14,17 @@ name,fileindex,index,whichChild
 "dorsalis",28,46,1
 "Malabar Spiny Dormouse",4,100,1
 "dorsatum",33,57,2
-"Dolichotis",33,62,2
 "Dolichotis",33,63,1
 "Dolichotis",33,64,2
 "dorsalis",32,22,1
-"Dormice, Squirrels and more",77,0,2
 "Douglas's Squirrel",82,68,1
 "douglasii",82,68,1
-"Prairie Dogs",79,111,2
 "White-tailed Prairie Dog",79,114,1
 "Utah Prairie Dog",79,115,2
 "Gunnison's Prairie Dog",79,116,2
 "Arizona Black-tailed Prairie Dog",79,118,1
 "Mexican Prairie Dog",79,119,2
 "dorsalis",83,12,2
-"Dormice",77,140,2
 "Rock Dormouse",77,150,1
 "Silent Dormouse",77,153,2
 "Christy's Dormouse",77,154,2
@@ -65,7 +61,6 @@ name,fileindex,index,whichChild
 "dormeri",53,206,2
 "Dominican Myotis",74,8,1
 "dominicensis",74,8,1
-"Dog-faced Bats",62,147,1
 "Greenhall's Dog-faced Bat",62,153,1
 "Mexican Dog-faced Bat",62,154,2
 "Southern Dog-faced Bat",62,156,1
@@ -80,12 +75,10 @@ name,fileindex,index,whichChild
 "doriae",68,49,2
 "doriae",58,48,1
 "Dobson's Horseshoe Bat",60,31,2
-"Dog-like Bats",71,6,1
 "Trinidad Dog-like Bat",71,9,1
 "Lesser Dog-like Bat",71,10,2
 "Greater Dog-like Bat",71,11,2
 "White-winged Dog-like Bat",71,12,2
-"Dobsonia",57,143,1
 "Dobsonia",57,152,1
 "Dobsonia",57,153,2
 "Dobsonia",57,154,2
@@ -102,14 +95,10 @@ name,fileindex,index,whichChild
 "Dobson's Fruit Bat",70,31,2
 "dobsonii",70,31,2
 "Lesser Dog-faced Fruit Bat",46,12,2
-"Ungulates, Whales, Dolphins and Porpoises",45,120,1
-"Even-toed Ungulates, Whales, Dolphins and Porpoises",45,121,1
 "Dorcas Gazelle",66,21,2
 "dorcas",66,21,2
 "dorsalis",65,14,2
 "Dorcatragus",65,45,2
-"Whales, Dolphins and Porpoises",75,1,1
-"Oceanic Dolphins",75,8,1
 "Indo-pacific Bottlenose Dolphin",75,16,1
 "Common Bottlenose Dolphin",75,17,2
 "Striped Dolphin",75,19,1
@@ -155,7 +144,6 @@ name,fileindex,index,whichChild
 "dorsalis",43,56,1
 "Doria's Tree Kangaroo",43,98,1
 "dorianus",43,98,1
-"Dorcopsis",43,106,1
 "Grey Dorcopsis",43,109,1
 "Dorcopsis",43,109,1
 "Black Dorcopsis",43,110,2
@@ -164,7 +152,6 @@ name,fileindex,index,whichChild
 "Dorcopsis",43,111,2
 "White-striped Dorcopsis",43,112,2
 "Dorcopsis",43,112,2
-"Dorcopsulus",43,113,2
 "Macleay's Dorcopsis",43,114,1
 "Dorcopsulus",43,114,1
 "Small Dorcopsis",43,115,2

@@ -51,7 +51,6 @@ name,fileindex,index,whichChild
 "phaenicuroides",183,77,1
 "philomelos",188,87,2
 "philippensis",191,132,1
-"Philippine creepers",194,70,2
 "phaeocephalus",190,102,2
 "philomela",181,82,1
 "Phainopepla",181,159,2
@@ -213,8 +212,6 @@ name,fileindex,index,whichChild
 "Phlegopsis",245,84,1
 "Phlegopsis",245,86,2
 "Phaenostictus",245,92,2
-"Phoebes, Pewees and other flycatchers",243,2,1
-"Phoebes",243,62,1
 "Black Phoebe",243,64,1
 "Eastern Phoebe",243,65,2
 "phoebe",243,65,2
@@ -270,7 +267,6 @@ name,fileindex,index,whichChild
 "Phytotoma",249,63,2
 "Phytotoma",249,64,2
 "phayrei",229,195,2
-"Philepittidae",229,225,2
 "Philepitta",229,230,1
 "Philepitta",229,231,2
 "Phigys",216,104,2
@@ -285,7 +281,6 @@ name,fileindex,index,whichChild
 "Philippine Woodpecker",206,124,1
 "Philippine Dwarf-kingfisher",202,156,2
 "philippinus",210,16,2
-"Phoeniculidae",201,182,1
 "Phoeniculus",201,186,1
 "Phoeniculus",201,187,2
 "Phoeniculus",201,188,2
@@ -312,7 +307,6 @@ name,fileindex,index,whichChild
 "philadelphia",212,49,1
 "Phaetusa",212,73,2
 "Philippine Woodcock",223,54,1
-"Phalaropos",223,92,1
 "Red-necked Phalarope",223,94,1
 "Phalaropus",223,94,1
 "Red Phalarope",223,95,2
@@ -324,7 +318,6 @@ name,fileindex,index,whichChild
 "Phegornis",119,120,1
 "Phimosus",354,190,2
 "philippensis",354,202,2
-"Phalacrocoracidae",364,3,1
 "Phalacrocorax",364,13,1
 "Phalacrocorax",364,14,2
 "Phalacrocorax",364,15,2
@@ -397,14 +390,12 @@ name,fileindex,index,whichChild
 "Phaps",347,70,2
 "Philippine Cuckoo-dove",347,121,1
 "phasianella",347,122,2
-"PHOENICOPTERIFORMES",353,38,2
 "Phoenicoparrus",353,42,1
 "Phoenicoparrus",353,43,2
 "Phoenicopterus",353,44,2
 "Phoenicopterus",353,46,1
 "Phoenicopterus",353,47,2
 "Phoeniconaias",353,48,2
-"PHAETHONTIFORMES",346,172,2
 "Phaethon",346,174,1
 "Phaethon",346,175,2
 "Phaethon",346,176,2
@@ -447,9 +438,6 @@ name,fileindex,index,whichChild
 "Philippine Frogmouth",324,74,1
 "Phalaenoptilus",324,120,1
 "Philippine Nightjar",331,27,1
-"Pheasants, Quails and Guineafowl",310,3,1
-"Grouse, Pheasants and more",310,5,1
-"Phasianidae",310,5,1
 "Vietnamese Pheasant",312,16,1
 "Edwards's Pheasant",312,17,2
 "Swinhoe's Pheasant",312,18,2
@@ -459,7 +447,6 @@ name,fileindex,index,whichChild
 "Salvadori's Pheasant",312,29,2
 "Aceh Pheasant",312,30,2
 "Cheer Pheasant",312,32,2
-"Eared Pheasants",312,33,2
 "Lady Amherst's Pheasant",312,41,1
 "Golden Pheasant",312,42,2
 "Common Pheasant",312,44,1
@@ -542,7 +529,6 @@ name,fileindex,index,whichChild
 "Phyllurus",318,127,2
 "phillipsi",269,166,2
 "Philippine Forest Rat",267,43,1
-"Phloeomys",273,76,2
 "Northern Luzon Phloeomys",273,77,1
 "Phloeomys",273,77,1
 "Southern Luzon Phloeomys",273,78,2
@@ -569,10 +555,8 @@ name,fileindex,index,whichChild
 "phyllotis",287,146,2
 "phenax",288,43,2
 "Phaiomys",282,58,1
-"Phenacomys",283,21,2
 "Phenacomys",283,22,1
 "Phenacomys",283,23,2
-"Phodopus",281,130,2
 "Phodopus",281,132,1
 "Phodopus",281,133,2
 "Phodopus",281,134,2
@@ -597,14 +581,12 @@ name,fileindex,index,whichChild
 "Phayre's Leaf-monkey",276,26,2
 "phayrei",276,26,2
 "Philippine Tarsier",254,133,2
-"Phaner",260,99,2
 "Phaner",260,101,1
 "Phaner",260,102,2
 "Phaner",260,104,1
 "Phaner",260,105,2
 "Philippine Flying Lemur",254,135,1
 "phalaena",389,38,2
-"Phoniscus",389,42,2
 "Phoniscus",389,44,1
 "Phoniscus",389,45,2
 "Phoniscus",389,47,1
@@ -614,13 +596,10 @@ name,fileindex,index,whichChild
 "Philetor",403,164,2
 "Philippine Long-fingered Bat",365,16,2
 "phrudus",396,182,2
-"Phyllostomidae",393,3,1
 "phaeotis",393,42,1
 "Phyllops",393,49,1
-"Phyllonycteris",393,119,1
 "Phyllonycteris",393,120,1
 "Phyllonycteris",393,121,2
-"Phyllostomus",393,136,1
 "Phyllostomus",393,139,1
 "Phyllostomus",393,140,2
 "Phyllostomus",393,141,2
@@ -633,12 +612,10 @@ name,fileindex,index,whichChild
 "Philippine Gray Flying Fox",366,94,1
 "Philippine Dawn Bat",365,103,1
 "Philippine Tube-nosed Fruit Bat",387,61,2
-"Philantomba",372,185,2
 "Philantomba",372,186,1
 "Philantomba",372,187,2
 "Phillipine Spotted Deer",374,9,1
 "Philippine Deer",374,21,2
-"Phocoenidae",373,70,2
 "Phocoena",373,74,1
 "phocoena",373,75,2
 "Phocoena",373,75,2
@@ -646,29 +623,21 @@ name,fileindex,index,whichChild
 "Phocoenoides",373,77,2
 "Phocoena",373,79,1
 "Phocoena",373,80,2
-"Physeteridae",371,164,2
 "Physeter",371,168,2
 "physalus",371,176,2
 "Philippine Warty Pig",401,11,2
 "philippensis",401,11,2
-"Phacochoerus",401,26,2
 "Phacochoerus",401,27,1
 "Phacochoerus",401,28,2
 "philippii",381,44,1
 "Phocarctos",381,58,1
-"Phocidae",381,69,2
-"Phoca",381,80,2
 "Phoca",381,81,1
 "Phoca",381,82,2
-"PHOLIDOTA Manis",365,149,2
 "Philippine Pangolin",365,155,1
 "phaeura",367,151,2
 "Phillip's Small-eared Shrew",397,107,1
 "phillipsii",397,107,1
 "phaeura",397,162,2
-"PHALANGERIFORMES",112,0,2
-"Phalangeroidea",112,60,2
-"Phalangeridae",112,61,1
 "Phalanger",112,71,1
 "Phalanger",112,72,2
 "Phalanger",112,73,2
@@ -680,17 +649,14 @@ name,fileindex,index,whichChild
 "Phalanger",112,102,1
 "Phalanger",112,103,2
 "Phascolarctos",109,15,2
-"Phascolosorex",111,22,1
 "Phascolosorex",111,23,1
 "Red-bellied Phascogale",111,24,2
 "Phascolosorex",111,24,2
 "Phascomurexia",111,65,2
-"Phascogale",111,69,2
 "Brush-tailed Phascogale",111,70,1
 "Phascogale",111,70,1
 "Red-tailed Phascogale",111,71,2
 "Phascogale",111,71,2
-"Philander",109,148,2
 "Philander",109,150,1
 "Philander",109,151,2
 "Philander",109,153,1
@@ -997,7 +963,6 @@ name,fileindex,index,whichChild
 "phaeomerus",12,136,1
 "Giant Philippine Frog",19,41,1
 "phrynoderma",6,35,2
-"PHRYNOBATRACHIDAE",2,146,2
 "Phrynobatrachus",4,11,1
 "Phrynobatrachus",4,12,2
 "Phrynobatrachus",4,13,2

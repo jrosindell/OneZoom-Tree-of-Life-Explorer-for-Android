@@ -6,7 +6,6 @@ name,fileindex,index,whichChild
 "Buff-bridled Inca-finch",50,232,1
 "Buff-throated Saltator",44,42,2
 "Burnished-buff Tanager",54,91,2
-"Bullfinches and more",56,49,1
 "Barbados Bullfinch",56,50,1
 "Cuban Bullfinch",56,51,2
 "Greater Antillean Bullfinch",56,53,1
@@ -18,22 +17,17 @@ name,fileindex,index,whichChild
 "Buthraupis",55,25,2
 "Buthraupis",55,26,2
 "Black-backed Bush-finch",55,42,2
-"Buntings, American sparrows and more",54,170,1
 "Inaccessible Bunting",54,173,1
 "Nightingale Bunting",54,174,2
 "Wilkins's Bunting",54,175,2
 "Gough Bunting",54,176,2
 "Blue Bunting",61,16,2
-"Buntings, American sparrows and more",61,17,2
 "Varied Bunting",61,22,1
 "Painted Bunting",61,23,2
 "Orange-breasted Bunting",61,24,2
 "Rose-bellied Bunting",61,25,2
 "Indigo Bunting",61,26,2
 "Lazuli Bunting",61,29,2
-"New World Warblers, Buntings, American Sparrows and more",47,0,1
-"Buntings, American sparrows and more",47,3,1
-"Buntings, American sparrows and more",47,56,1
 "Yellow-green Bush-tanager",47,95,1
 "Dusky Bush-tanager",47,96,2
 "Tacarcuna Bush-tanager",47,97,2
@@ -44,7 +38,6 @@ name,fileindex,index,whichChild
 "Yellow-throated Bush-tanager",47,104,2
 "Ashy-throated Bush-tanager",47,105,2
 "Lark Bunting",47,136,2
-"Buntings, American sparrows and more",47,137,2
 "Ortolan Bunting",47,146,1
 "Tibetan Bunting",47,147,2
 "Cretzschmar's Bunting",47,148,2
@@ -89,9 +82,7 @@ name,fileindex,index,whichChild
 "Cabanis's Bunting",47,219,2
 "Bullock's Oriole",60,171,2
 "bullockii",60,171,2
-"New World warblers, Buntings, American Sparrows and more",57,0,2
 "Buff-rumped Warbler",57,75,2
-"Buntings, American sparrows and more",44,53,2
 "McKay's Bunting",44,62,1
 "Snow Bunting",44,63,2
 "burtoni",53,19,2
@@ -173,8 +164,6 @@ name,fileindex,index,whichChild
 "Bubbling Cisticola",80,14,2
 "bulliens",80,14,2
 "Buff-bellied Warbler",80,95,1
-"Bulbuls and Tetrakas",65,101,2
-"Bulbuls",65,102,1
 "Black-fronted Bulbul",66,9,1
 "Cape Bulbul",66,10,2
 "Common Bulbul",66,11,2
@@ -251,12 +240,10 @@ name,fileindex,index,whichChild
 "Green-backed Bulbul",70,46,1
 "Bearded Bulbul",70,47,2
 "Black-collared Bulbul",70,95,2
-"Leaf-Warblers, Bush-Warblers and Long-tailed Tits",65,136,1
 "burkii",67,52,2
 "Buff-throated Warbler",82,14,2
 "budongoensis",82,51,1
 "Buff-barred Warbler",82,54,1
-"Bush-warblers",78,4,1
 "Fiji Bush-warbler",78,11,1
 "Philippine Bush-warbler",78,13,2
 "Palau Bush-warbler",78,14,2
@@ -287,14 +274,10 @@ name,fileindex,index,whichChild
 "bucephalus",137,165,2
 "Burmese Shrike",137,209,2
 "Buff-cheeked Greenlet",139,70,2
-"Shrike-Flycatchers, Butcherbirds, Woodswallows and more",132,72,1
-"Helmetshrikes, bushshrikes and puffbacks",135,51,1
-"Boubous, Bushshrikes and Gonoleks",145,4,1
 "Gabela Bush-shrike",145,16,2
 "Luehder's Bush-shrike",145,18,1
 "Red-naped Bush-shrike",145,19,2
 "Orange-breasted Bush-shrike",145,30,2
-"Bush-shrikes",145,37,2
 "Sulphur-breasted Bush-shrike",145,41,1
 "Grey-green Bush-shrike",145,42,2
 "Many-coloured Bush-shrike",145,43,2
@@ -306,15 +289,12 @@ name,fileindex,index,whichChild
 "Doherty's Bush-shrike",145,54,2
 "Rosy-patched Bush-shrike",145,56,1
 "Perrin's Bush-shrike",145,57,2
-"Bush-shrikes",145,81,2
 "Fiery-breasted Bush-shrike",145,85,1
 "Lagden's Bush-shrike",145,86,2
 "Grey-headed Bush-shrike",145,87,2
 "Green-breasted Bush-shrike",145,89,1
 "Monteiro's Bush-shrike",145,90,2
 "Uluguru Bush-shrike",145,91,2
-"Butcherbirds",143,25,2
-"Butcherbirds",143,28,2
 "Tagula Butcherbird",143,33,1
 "Hooded Butcherbird",143,34,2
 "Pied Butcherbird",143,35,2
@@ -335,11 +315,9 @@ name,fileindex,index,whichChild
 "Buff-throated Treehunter",35,148,1
 "Buff-throated Foliage-gleaner",35,163,1
 "Buff-throated Woodcreeper",39,43,1
-"Antwrens, Bushbirds and Antbirds",33,2,1
 "Black Bushbird",30,155,2
 "Recurve-billed Bushbird",30,164,1
 "Rondonia Bushbird",30,165,2
-"Monjitas, Bush-Tyrants and more",123,7,1
 "Streak-throated Bush-tyrant",123,35,1
 "Rufous-bellied Bush-tyrant",123,36,2
 "Smoky Bush-tyrant",123,37,2
@@ -366,7 +344,6 @@ name,fileindex,index,whichChild
 "Buff-necked Woodpecker",171,98,2
 "Buff-spotted Woodpecker",171,110,2
 "Buccanodon",178,121,2
-"Bucconidae",176,1,1
 "Buff-bellied Puffbird",176,15,2
 "Bucco",176,55,2
 "Bucco",176,58,1
@@ -375,15 +352,11 @@ name,fileindex,index,whichChild
 "Buff-breasted Paradise-kingfisher",174,23,1
 "bullockoides",182,45,1
 "bulocki",182,46,2
-"BUCEROTIFORMES",161,43,2
-"Bucerotidae",168,1,1
 "Bushy-crested Hornbill",168,51,2
 "bucinator",168,64,2
 "Buceros",168,78,1
 "Buceros",168,79,2
 "Buceros",168,80,2
-"Bucerotidae",168,83,1
-"Bucorvidae",168,110,2
 "Bucorvus",168,111,1
 "Bucorvus",168,112,2
 "Bubo",166,15,2
@@ -470,7 +443,6 @@ name,fileindex,index,whichChild
 "burrovianus",161,160,2
 "bulleri",22,77,2
 "Burchell's Courser",20,36,2
-"Buttonquails",20,47,2
 "Chestnut-backed Buttonquail",20,54,1
 "Red-backed Buttonquail",20,55,2
 "Buff-breasted Buttonquail",20,56,2
@@ -490,7 +462,6 @@ name,fileindex,index,whichChild
 "Lark Buttonquail",20,77,2
 "bukidnonensis",21,52,1
 "Buff-breasted Sandpiper",21,126,1
-"Burhinidae",20,153,1
 "Burhinus",20,159,1
 "Burhinus",20,160,2
 "Burhinus",20,161,2
@@ -512,7 +483,6 @@ name,fileindex,index,whichChild
 "Buller's Albatross",12,89,2
 "bulleri",12,89,2
 "Buff-headed Coucal",10,164,2
-"Bustards",18,0,2
 "White-bellied Bustard",18,10,1
 "Blue Bustard",18,11,2
 "White-quilled Bustard",18,13,1
@@ -538,7 +508,6 @@ name,fileindex,index,whichChild
 "Houbara Bustard",18,44,1
 "Great Bustard",18,45,2
 "Buff-banded Rail",17,11,2
-"Bush hens, Waterhens and more",17,44,1
 "Talaud Bush-hen",17,53,2
 "Bush-hen",17,56,2
 "Buff-spotted Flufftail",15,140,1
@@ -560,14 +529,12 @@ name,fileindex,index,whichChild
 "Buff-collared Nightjar",152,89,2
 "bulweri",149,18,2
 "Buff-throated Partridge",147,18,2
-"Bush-Quails",148,62,1
 "Painted Bush-quail",148,65,1
 "Jungle Bush-quail",148,66,2
 "Rock Bush-quail",148,67,2
 "Manipur Bush-quail",148,68,2
 "Buffy-crowned Wood-partridge",147,166,2
 "Buff-browed Chachalaca",184,50,2
-"BUCEPHALA",27,27,2
 "Bucephala",27,29,1
 "Bucephala",27,30,2
 "Bufflehead",27,31,2

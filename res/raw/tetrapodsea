@@ -21,7 +21,6 @@ name,fileindex,index,whichChild
 "Eastern Whipbird",195,178,2
 "Eastern Spinebill",148,153,2
 "Eastern Bristlebird",120,79,1
-"Earthcreepers, Horneros, Ciclodes and more",231,0,2
 "Buff-breasted Earthcreeper",231,36,1
 "Plain-breasted Earthcreeper",231,37,2
 "Scale-throated Earthcreeper",231,39,1
@@ -42,7 +41,6 @@ name,fileindex,index,whichChild
 "Eastern Grey Woodpecker",206,93,2
 "Eastern Yellow-billed Hornbill",201,160,2
 "Eared Quetzal",252,81,2
-"Fish-owls, Eagle-owls and more",225,0,1
 "Rock Eagle-owl",225,10,2
 "Barred Eagle-owl",225,12,1
 "Spotted Eagle-owl",225,13,2
@@ -60,15 +58,12 @@ name,fileindex,index,whichChild
 "Giant Eagle-owl",225,48,2
 "Eastern Screech-owl",227,24,2
 "Eastern Grass-owl",224,177,1
-"Osprey, kites, hawks and eagles",115,1,1
-"Kites, Eagles and more",115,3,1
 "Solitary Eagle",118,88,1
 "Crowned Eagle",118,89,2
 "White-tailed Eagle",115,24,1
 "Bald Eagle",115,25,2
 "Eastern Chanting-goshawk",115,46,1
 "Eastern Marsh-harrier",117,28,1
-"Hawk-eagles and other eagles",116,0,1
 "Bonelli's Eagle",116,13,2
 "Verreaux's Eagle",116,14,2
 "Wedge-tailed Eagle",116,16,1
@@ -107,7 +102,6 @@ name,fileindex,index,whichChild
 "Spotted Eared-nightjar",324,202,2
 "Sulawesi Eared-nightjar",324,204,2
 "Papuan Eared-nightjar",324,207,1
-"Eared Pheasants",312,33,2
 "Brown Eared-pheasant",312,36,1
 "Blue Eared-pheasant",312,37,2
 "White Eared-pheasant",312,38,2
@@ -115,9 +109,7 @@ name,fileindex,index,whichChild
 "Eaton's Pintail",313,203,1
 "eatoni",313,203,1
 "Eastern Long-necked Turtle",0,113,1
-"Earless Skinks",300,192,2
 "Eastern Fence Lizard",408,80,2
-"Lesser Earless Lizards",414,28,1
 "Keeled Earless Lizard",414,30,1
 "Lesser Earless Lizard",414,31,2
 "Spot-tailed Earless Lizard",414,32,2
@@ -131,8 +123,6 @@ name,fileindex,index,whichChild
 "Eastern Green Mamba",340,47,1
 "Eastern Coral Snake",340,53,2
 "Eastern Diamond-backed Rattlesnake",339,27,1
-"Boas, Pythons, Earth Snakes and more",334,19,2
-"Earth Snakes",334,26,1
 "Eastern Chestnut Mouse",266,128,2
 "Eastern Pebble Mouse",266,139,1
 "Eastern Shrew Mouse",270,14,2
@@ -157,7 +147,6 @@ name,fileindex,index,whichChild
 "Eastern Chipmunk",296,108,2
 "Eastern Cottontail",254,79,1
 "Eastern Gorilla",295,36,1
-"Eastern Tarsiers",254,122,1
 "Eastern Lesser Bamboo Lemur",260,32,1
 "Eastern Cave Bat",391,39,2
 "Eastern Forest Bat",391,41,1

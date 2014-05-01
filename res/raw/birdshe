@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Hemispingus, Mountain-Finches, Tanagers and more",51,2,1
 "Three-striped Hemispingus",51,17,1
 "Hemispingus",51,17,1
 "Superciliaried Hemispingus",51,45,2
@@ -108,7 +107,6 @@ name,fileindex,index,whichChild
 "hendersoni",137,24,1
 "heilprini",137,49,2
 "Helmet Vanga",135,32,1
-"Helmetshrikes, bushshrikes and puffbacks",135,51,1
 "Chestnut-bellied Helmet-shrike",135,56,1
 "White Helmet-shrike",135,57,2
 "Chestnut-fronted Helmet-shrike",135,58,2
@@ -119,7 +117,6 @@ name,fileindex,index,whichChild
 "Grey-crested Helmet-shrike",135,65,2
 "Hemipus",135,71,2
 "Hemipus",135,72,2
-"Helmet-shrikes",145,1,1
 "Helmeted Friarbird",116,28,2
 "New Hebrides Honeyeater",113,108,2
 "Chestnut-rumped Heathwren",114,41,1
@@ -206,8 +203,6 @@ name,fileindex,index,whichChild
 "Heteroscelus",21,81,1
 "Heteroscelus",21,82,2
 "St Helena Plover",24,59,1
-"Ibises, Herons and more",3,1,1
-"Herons and egrets",3,2,1
 "Rufous-bellied Heron",3,13,1
 "Squacco Heron",3,20,2
 "Grey Heron",3,40,1
@@ -243,12 +238,10 @@ name,fileindex,index,whichChild
 "Heuglin's Bustard",18,39,2
 "heuglinii",18,39,2
 "Henderson Crake",15,21,2
-"Bush hens, Waterhens and more",17,44,1
 "Heliopais",15,126,2
 "Heliornis",15,134,2
 "Henderson Fruit-dove",6,62,2
 "Hemiphaga",9,82,2
-"Bleeding heart doves, Ground-doves and more",4,42,2
 "Henicophaps",4,89,1
 "Henicophaps",4,90,2
 "hemileucurus",155,71,2
@@ -272,7 +265,6 @@ name,fileindex,index,whichChild
 "Heliangelus",160,81,2
 "hemileucurus",160,83,1
 "helenae",160,104,1
-"HELIODOXA",160,122,1
 "Heliodoxa",160,128,1
 "Heliodoxa",160,129,2
 "Heliodoxa",160,130,2
@@ -284,10 +276,8 @@ name,fileindex,index,whichChild
 "Heliodoxa",160,138,2
 "helianthea",160,194,2
 "Heliactin",158,39,2
-"HELIOTHRYX",158,40,2
 "Heliothryx",158,41,1
 "Heliothryx",158,42,2
-"Hermits and Barbthroats",154,1,1
 "Cinnamon-throated Hermit",154,8,1
 "Scale-throated Hermit",154,9,2
 "Sooty-capped Hermit",154,11,1
@@ -318,7 +308,6 @@ name,fileindex,index,whichChild
 "Broad-tipped Hermit",154,58,2
 "Rufous-breasted Hermit",154,59,2
 "Bronzy Hermit",154,60,2
-"Hemiprocnidae",152,16,2
 "Hemiprocne",152,19,1
 "Hemiprocne",152,20,2
 "Hemiprocne",152,21,2

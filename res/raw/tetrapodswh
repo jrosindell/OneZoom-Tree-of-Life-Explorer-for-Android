@@ -178,8 +178,6 @@ name,fileindex,index,whichChild
 "White-tailed Nuthatch",182,38,1
 "White-breasted Nuthatch",182,41,2
 "Olive-flanked Whistler",181,152,1
-"Whiteyes, Babblers, Parrotbills and more",161,7,1
-"Whiteyes, Babblers and Parrotbills",163,0,1
 "White-throated Laughingthrush",164,19,1
 "White-browed Laughingthrush",164,44,2
 "White-necked Laughingthrush",164,64,1
@@ -195,7 +193,6 @@ name,fileindex,index,whichChild
 "White-chested Babbler",165,56,2
 "White-hooded Babbler",165,90,1
 "White-browed Scimitar-babbler",167,9,2
-"White-eyes",166,2,1
 "Bare-eyed White-eye",166,18,1
 "Sanford's White-eye",166,19,2
 "Sao Tome White-eye",166,20,2
@@ -289,7 +286,6 @@ name,fileindex,index,whichChild
 "Pygmy White-eye",166,193,2
 "Golden White-eye",166,194,2
 "whiteheadi",163,112,2
-"White-eyes",163,118,1
 "Long-billed White-eye",163,119,1
 "Faichuk White-eye",163,120,2
 "White-bibbed Babbler",163,121,2
@@ -392,34 +388,27 @@ name,fileindex,index,whichChild
 "White-eyed Vireo",154,36,2
 "White-bellied Yuhina",152,154,2
 "White-browed Shrike-babbler",152,161,1
-"Whistlers and more",152,165,1
-"Whistlers",156,8,1
 "Green-backed Whistler",156,12,1
 "Mangrove Whistler",156,13,2
 "Sulphur-bellied Whistler",156,14,2
 "Bornean Whistler",156,15,2
 "Yellow-bellied Whistler",156,16,2
-"Whistlers",156,18,1
 "Brown-backed Whistler",156,20,1
 "Lorentz's Whistler",156,21,2
 "White-bellied Whistler",156,22,2
 "White-bellied Whistler",156,22,2
-"Whistlers",156,28,1
 "White-breasted Whistler",156,29,1
 "White-breasted Whistler",156,29,1
 "Rufous Whistler",156,30,2
 "Drab Whistler",156,32,1
 "Wallacean Whistler",156,34,2
 "Golden-backed Whistler",156,35,2
-"Whistlers",156,36,2
 "Rusty Whistler",156,38,1
 "Island Whistler",156,39,2
 "Grey Whistler",156,40,2
-"Whistlers",156,41,2
 "Black-tailed Whistler",156,43,1
 "Golden Whistler",156,44,2
 "Hooded Whistler",156,45,2
-"Whistlers",156,46,2
 "White-vented Whistler",156,48,1
 "White-vented Whistler",156,48,1
 "Black-headed Whistler",156,49,2
@@ -427,13 +416,11 @@ name,fileindex,index,whichChild
 "Tongan Whistler",156,52,2
 "New Caledonian Whistler",156,53,2
 "Sclater's Whistler",156,54,2
-"Whistlers",156,55,2
 "Red-lored Whistler",156,58,1
 "Gilbert's Whistler",156,59,2
 "Vogelkop Whistler",156,61,1
 "Olive Whistler",156,62,2
 "Fawn-breasted Whistler",156,63,2
-"Whistlers",156,64,2
 "Bare-throated Whistler",156,65,1
 "Samoan Whistler",156,66,2
 "Maroon-backed Whistler",152,171,2
@@ -456,11 +443,8 @@ name,fileindex,index,whichChild
 "White-bellied Cuckooshrike",200,19,1
 "White-breasted Cuckooshrike",200,37,1
 "White-bellied Minivet",195,144,2
-"Whipbirds, Quail-Thrushes and more",195,145,2
-"Whipbirds, wedgebills and jewel-babblers",195,158,2
 "Whitehead",195,166,2
 "Papuan Whipbird",195,170,2
-"Whipbirds, wedgebills and jewel-babblers",195,172,1
 "Western Whipbird",195,175,2
 "Eastern Whipbird",195,178,2
 "White-browed Babbler",120,55,1
@@ -483,7 +467,6 @@ name,fileindex,index,whichChild
 "White-fronted Chat",148,163,1
 "whitei",148,185,2
 "White-browed Scrubwren",180,16,1
-"Whitefaces",180,79,1
 "Chestnut-breasted Whiteface",180,81,1
 "Banded Whiteface",180,82,2
 "Southern Whiteface",180,83,2
@@ -768,8 +751,6 @@ name,fileindex,index,whichChild
 "White-sided Hillstar",332,48,2
 "White-crested Coquette",332,93,2
 "White-tailed Hillstar",332,141,2
-"Whitetips, Coronets and more",332,142,2
-"Whitetips",332,150,1
 "Rufous-vented Whitetip",332,151,1
 "Purple-bibbed Whitetip",332,152,2
 "White-tailed Starfrontlet",332,198,2
@@ -819,9 +800,7 @@ name,fileindex,index,whichChild
 "White-headed Duck",310,143,1
 "Lesser White-fronted Goose",316,12,2
 "Greater White-fronted Goose",316,16,1
-"White Geese",316,18,2
 "Whooper Swan",316,39,2
-"Whistling-Ducks",310,150,1
 "Fulvous Whistling-duck",310,155,1
 "Plumed Whistling-duck",310,156,2
 "Lesser Whistling-duck",310,157,2
@@ -834,16 +813,10 @@ name,fileindex,index,whichChild
 "White-backed Duck",310,165,2
 "White-throated Tinamou",253,47,1
 "White-bellied Nothura",253,82,1
-"Wall Lizards, Whiptail Lizards and more",298,160,2
-"Whiptail Lizards",309,0,2
-"Whorltail Iguanas",405,31,2
 "White Spotted Flying Lizard",406,80,2
-"Vipers, Cobras, Sea Snakes, Whip Snakes and more",334,5,1
-"Whip Snakes and more",337,52,1
 "Green Whip Snake",337,56,1
 "Horseshoe Whip Snake",337,62,1
 "Dahl's Whip Snake",337,63,2
-"Whip Snakes",335,100,2
 "Gunther's Whipsnake",335,102,1
 "Brown-speckled Whipsnake",335,104,2
 "Whitenose Blind Snake",334,153,1
@@ -854,7 +827,6 @@ name,fileindex,index,whichChild
 "White-toothed Mouse",270,25,1
 "Western White-eared Giant Rat",270,70,1
 "Eastern White-eared Giant Rat",270,71,2
-"White-bellied Rats and more",269,73,2
 "Himalayan White-bellied Rat",269,86,2
 "Brahma White-bellied Rat",269,87,2
 "Lang Bian White-bellied Rat",269,90,2
@@ -862,12 +834,10 @@ name,fileindex,index,whichChild
 "Whitehead's Sundaic Maxomys",267,166,1
 "whiteheadi",267,166,1
 "White-tailed Wood Rat",267,207,1
-"White-toothed Rats",273,60,2
 "Kenneth's White-toothed Rat",273,63,1
 "Manipur White-toothed Rat",273,64,2
 "Bower's White-toothed Rat",273,66,2
 "White-bellied Limnomys",271,41,2
-"Whistling Rats",264,44,2
 "Littledale's Whistling Rat",264,45,1
 "Brants's Whistling Rat",264,46,2
 "whiteheadi",264,62,2
@@ -933,14 +903,10 @@ name,fileindex,index,whichChild
 "White-winged Dog-like Bat",400,12,2
 "whiteheadi",366,172,2
 "White-collared Fruit Bat",387,26,2
-"Ungulates, Whales, Dolphins and Porpoises",365,107,1
-"Even-toed Ungulates, Whales, Dolphins and Porpoises",365,108,1
 "White-bellied Duiker",372,182,2
 "White-lipped Deer",374,19,1
 "White-tailed Deer",375,21,1
 "White-spotted Chevrotain",371,116,2
-"Whales, Dolphins and Porpoises",371,118,1
-"Toothed Whales",371,119,1
 "Killer Whale",373,25,2
 "Atlantic White-sided Dolphin",373,30,1
 "White-beaked Dolphin",373,37,1
@@ -952,7 +918,6 @@ name,fileindex,index,whichChild
 "False Killer Whale",373,66,1
 "Pygmy Killer Whale",373,67,2
 "Melon-headed Whale",373,68,2
-"Beaked Whales",371,122,2
 "Gervais' Beaked Whale",371,128,1
 "Baird's Beaked Whale",371,129,2
 "Ginkgo-toothed Beaked Whale",371,130,2
@@ -973,10 +938,8 @@ name,fileindex,index,whichChild
 "Stejneger's Beaked Whale",371,157,2
 "Cuvier's Beaked Whale",371,159,1
 "Hubbs' Beaked Whale",371,160,2
-"Sperm Whales",371,164,2
 "Pygmy Sperm Whale",371,166,1
 "Dwarf Sperm Whale",371,167,2
-"Great Whales",371,169,2
 "Humpback Whale",371,175,1
 "Fin Whale",371,176,2
 "Blue Whale",371,177,2

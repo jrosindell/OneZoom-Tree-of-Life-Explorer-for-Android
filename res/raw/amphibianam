@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Amphibians",0,0,0
 "amabilis",12,54,2
 "amboroensis",9,26,1
 "American Toad",13,34,2
@@ -45,7 +44,6 @@ name,fileindex,index,whichChild
 "Amatola Toad",10,110,1
 "amatolicus",10,110,1
 "South American Common Toad",9,132,1
-"South American Redbelly Toads",3,86,2
 "Ameerega",15,10,1
 "Ameerega",15,11,2
 "Ameerega",15,13,1
@@ -72,15 +70,12 @@ name,fileindex,index,whichChild
 "amazonica",16,25,2
 "americanus",4,50,2
 "amnicola",8,14,2
-"South American Horned Frogs",54,111,1
 "Amazonian Horned Frog",54,118,2
 "American White Lipped Frog",48,17,1
 "ametarsia",49,42,2
 "ameibothalame",28,20,1
-"Amazon Treefrogs",25,37,2
 "amicorum",21,76,2
 "amboinensis",30,106,2
-"AMPHIGNATHODONTIDAE",2,9,2
 "amplinympha",36,55,2
 "amniscola",42,29,1
 "amadeus",47,28,2
@@ -137,9 +132,7 @@ name,fileindex,index,whichChild
 "amieti",84,67,2
 "Amietia",84,67,2
 "Amietia",84,68,2
-"American Spadefoot Toads",66,210,1
 "amieti",68,17,2
-"New Zealand and North American Primitive Frogs",0,73,1
 "amuzga",62,33,1
 "amplus",59,33,1
 "ambrosii",60,42,1
@@ -149,7 +142,6 @@ name,fileindex,index,whichChild
 "Amphiuma",0,90,2
 "One-toed Amphiuma",0,91,2
 "Amphiuma",0,91,2
-"AMBYSTOMATIDAE",69,141,2
 "Ambystoma",69,153,1
 "Ambystoma",69,154,2
 "Ambystoma",69,155,2

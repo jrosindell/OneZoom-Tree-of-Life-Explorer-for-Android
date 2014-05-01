@@ -6,11 +6,9 @@ name,fileindex,index,whichChild
 "Creek Groove-toothed Swamp Rat",11,210,2
 "Cremnomys",9,110,2
 "Cremnomys",9,111,2
-"Crunomys",8,95,1
 "Crunomys",8,97,1
 "Crunomys",8,98,2
 "Crunomys",8,99,2
-"Crateromys",8,128,1
 "Luzon Crateromys",8,130,1
 "Crateromys",8,130,1
 "Dinagat Crateromys",8,131,2
@@ -20,17 +18,14 @@ name,fileindex,index,whichChild
 "Crump's Mouse",18,29,2
 "crumpi",18,29,2
 "crassus",12,18,1
-"Cricetomys",8,163,1
 "Cricetomys",8,165,1
 "Cricetomys",8,166,2
 "Cricetomys",8,168,1
 "Cricetomys",8,169,2
 "Crafty Vesper Mouse",23,140,2
-"Crimson-nosed Rats",26,56,1
 "Torres's Crimson-nosed Rat",26,58,1
 "Chaco Crimson-nosed Rat",26,59,2
 "Large-lipped Crimson-nosed Rat",26,60,2
-"Crab-eating Rats",21,95,1
 "Pittier's Crab-eating Rat",21,98,1
 "Crab-eating Rat",21,99,2
 "Tweedy's Crab-eating Rat",21,100,2
@@ -41,7 +36,6 @@ name,fileindex,index,whichChild
 "cryophilus",25,128,1
 "creper",21,181,2
 "Creeping Vole",5,107,2
-"Cricetulus",4,104,1
 "Cricetulus",4,107,1
 "Cricetulus",4,108,2
 "Cricetulus",4,110,1
@@ -60,7 +54,6 @@ name,fileindex,index,whichChild
 "Cratogeomys",20,38,1
 "Cratogeomys",20,39,2
 "Cratogeomys",20,40,2
-"Cryptomys",29,129,1
 "Cryptomys",29,133,1
 "Cryptomys",29,134,2
 "Cryptomys",29,135,2
@@ -107,7 +100,6 @@ name,fileindex,index,whichChild
 "cristata",47,87,2
 "Crabeater Seal",47,93,1
 "Crab-eating Fox",47,153,1
-"Crossarchus",50,8,1
 "Crossarchus",50,11,1
 "Crossarchus",50,12,2
 "Crossarchus",50,13,2
@@ -121,7 +113,6 @@ name,fileindex,index,whichChild
 "Crocuta",48,85,2
 "cristata",48,86,2
 "crassicaudata",45,166,1
-"Crocidura",85,7,1
 "Crocidura",90,9,1
 "Crocidura",90,10,2
 "Crocidura",90,11,2
@@ -293,7 +284,6 @@ name,fileindex,index,whichChild
 "Crocidura",93,44,2
 "Crocidura",85,9,2
 "Crowned Shrew",86,18,2
-"Cryptotis",92,1,1
 "Cryptotis",92,9,1
 "Cryptotis",92,10,2
 "Cryptotis",92,12,1

@@ -67,10 +67,8 @@ name,fileindex,index,whichChild
 "Asian Giant Softshell Turtle",343,38,1
 "Cantor's Giant Softshell",343,39,2
 "gibbus",0,110,2
-"Short-legged Giant Skinks",306,90,2
 "gigas",305,164,2
 "gilberti",300,166,2
-"Girdle-tailed Lizards",298,81,1
 "Giant Girdled Lizard",298,91,2
 "Giant Girdled Lizard",298,91,2
 "giganteus",298,91,2
@@ -92,7 +90,6 @@ name,fileindex,index,whichChild
 "Isabel Giant Rat",270,42,2
 "Florida Giant Rat",270,43,2
 "Poncelet's Giant Rat",270,45,1
-"Giant Rats",270,68,2
 "Western White-eared Giant Rat",270,70,1
 "Eastern White-eared Giant Rat",270,71,2
 "Rock-dwelling Giant Rat",270,72,2
@@ -102,14 +99,11 @@ name,fileindex,index,whichChild
 "gigas",263,48,2
 "Long-tailed Giant Rat",272,50,2
 "Giant Sulawesi Rat",272,56,2
-"Giant Pouched Rats",263,134,1
 "Forest Giant Pouched Rat",263,136,1
 "Giant Blind Mole Rat",263,166,2
 "giganteus",263,166,2
-"Giant Rats",292,61,2
 "Woolly Giant Rat",292,62,1
 "Fossorial Giant Rat",292,63,2
-"Giant Deer Mice",291,126,2
 "Oaxaca Giant Deer Mouse",291,128,1
 "Thomas's Giant Deer Mouse",291,129,2
 "Nelson's Giant Deer Mouse",291,130,2
@@ -117,8 +111,6 @@ name,fileindex,index,whichChild
 "Giant Pocket Gopher",255,58,2
 "Giant Kangaroo Rat",255,180,2
 "Giant Atlantic Tree Rat",258,30,1
-"Pygmy Squirrels, Giant Squirrels and more",278,0,1
-"Giant Flying Squirrels",278,60,1
 "Red And White Giant Flying Squirrel",278,66,1
 "Bhutan Giant Flying Squirrel",278,67,2
 "Hodgson's Giant Flying Squirrel",278,68,2
@@ -127,14 +119,12 @@ name,fileindex,index,whichChild
 "Chinese Giant Flying Squirrel",278,73,2
 "Japanese Giant Flying Squirrel",278,74,2
 "gilvigularis",279,52,2
-"Giant Squirrels",278,93,2
 "Black Giant Squirrel",278,96,1
 "Pale Giant Squirrel",278,97,2
 "Indian Giant Squirrel",278,98,2
 "Grizzled Giant Squirrel",278,99,2
 "Sulawesi Giant Squirrel",278,111,2
 "African Giant Squirrel",296,154,2
-"Gibbons",295,1,1
 "Bornean White-bearded Gibbon",295,9,1
 "Agile Gibbon",295,10,2
 "Lar Gibbon",295,11,2
@@ -159,7 +149,6 @@ name,fileindex,index,whichChild
 "giganteus",366,29,1
 "Gilliard's Flying Fox",366,89,2
 "gilliardorum",366,89,2
-"Giraffidae",371,98,1
 "Giraffe",371,99,1
 "Giraffa",371,99,1
 "Ginkgo-toothed Beaked Whale",371,130,2
@@ -217,11 +206,9 @@ name,fileindex,index,whichChild
 "Tapanti Giant Salamander",102,25,1
 "gigantea",100,117,1
 "Southern Giant Salamander",100,124,1
-"Pacific Giant Salamanders",98,181,2
 "California Giant Salamander",98,184,1
 "Pacific Giant Salamander",98,185,2
 "Cope's Giant Salamander",98,186,2
 "Idaho Giant Salamander",98,187,2
-"Giant Salamanders",344,92,2
 "Japanese Giant Salamander",344,94,1
 "Chinese Giant Salamander",344,95,2

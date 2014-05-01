@@ -4,19 +4,19 @@
         android:id = "@+id/search"
         android:title = "@string/search_hint"
         android:icon = "@drawable/searchcolor"
-        android:showAsAction="always"
+        android:showAsAction="collapseActionView|ifRoom"
         android:actionViewClass="android.widget.SearchView" /> 
         
      <item
-        android:id = "@+id/grow"
+        android:id = "@+id/back"
         android:title = "@string/search_hint"
-        android:icon = "@drawable/growcolor"
+        android:icon = "@drawable/backward"
         android:showAsAction="always" /> 
         
      <item 
-         android:id = "@+id/reset"
+         android:id = "@+id/forward"
          android:title = "@string/search_hint"
-         android:icon = "@drawable/reset"
+         android:icon = "@drawable/forward"
          android:showAsAction="always" />
 
 </menu>

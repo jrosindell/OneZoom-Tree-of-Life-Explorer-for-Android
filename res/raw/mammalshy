@@ -1,13 +1,11 @@
 name,fileindex,index,whichChild
 "Short-haired Hydromyine",15,10,1
 "Northern Hydromyine",15,11,2
-"Hyomys",15,69,1
 "Hyomys",15,70,1
 "Hyomys",15,71,2
 "hylomyoides",9,62,1
 "Hyrcanian Field Mouse",19,33,2
 "hyrcanicus",19,33,2
-"Hylomyscus",19,97,2
 "Angolan Hylomyscus",19,101,1
 "Hylomyscus",19,101,1
 "Stella Hylomyscus",19,102,2
@@ -24,7 +22,6 @@ name,fileindex,index,whichChild
 "Hylomyscus",19,110,2
 "Lesser Hylomyscus",19,111,2
 "Hylomyscus",19,111,2
-"Hybomys",17,4,1
 "Hybomys",17,8,1
 "Bioko Hybomys",17,9,2
 "Hybomys",17,9,2
@@ -35,7 +32,6 @@ name,fileindex,index,whichChild
 "Hybomys",17,13,1
 "Peters' Hybomys",17,14,2
 "Hybomys",17,14,2
-"Hydromys",17,19,1
 "Hydromys",17,22,1
 "Hydromys",17,23,2
 "Hydromys",17,24,2
@@ -46,13 +42,9 @@ name,fileindex,index,whichChild
 "hylophilus",24,44,2
 "hydrobates",21,99,2
 "hylocetes",25,62,1
-"Hyperacrius",7,69,2
 "Hyperacrius",7,70,1
 "Hyperacrius",7,71,2
 "Hypogeomys",4,98,2
-"HYSTRICOMORPHA",2,126,2
-"Hystricidae",29,177,1
-"Hystrix",29,179,1
 "Hystrix",29,184,1
 "Hystrix",29,185,2
 "Hystrix",29,186,2
@@ -73,13 +65,10 @@ name,fileindex,index,whichChild
 "Hylopetes",80,41,2
 "Hylopetes",80,43,2
 "Hylopetes",80,44,2
-"Hyosciurus",77,65,2
 "Hyosciurus",77,66,1
 "Hyosciurus",77,67,2
 "hyperborea",76,126,2
 "hypoleucos",40,64,2
-"Hylobatidae",37,1,1
-"Hylobates",37,4,1
 "Hylobates",37,9,1
 "Hylobates",37,10,2
 "Hylobates",37,11,2
@@ -118,9 +107,6 @@ name,fileindex,index,whichChild
 "Hylochoerus",72,22,2
 "Hydrictis",52,21,2
 "Hydrurga",47,94,2
-"Hyena family",48,80,2
-"Hyaenidae",48,80,2
-"Hyaena",48,82,1
 "Striped Hyaena",48,83,1
 "hyaena",48,83,1
 "Hyaena",48,83,1
@@ -130,12 +116,9 @@ name,fileindex,index,whichChild
 "hylophaga",92,58,2
 "hypsibia",91,25,1
 "hypomelas",85,71,2
-"Hylomys",85,83,2
 "Hylomys",85,84,1
 "Hylomys",85,85,2
 "hybridus",0,45,2
-"Hyraxes",0,101,1
-"HYRACOIDEA",0,101,1
 "Southern Tree Hyrax",0,104,1
 "Western Tree Hyrax",0,105,2
 "Bush Hyrax",0,106,2

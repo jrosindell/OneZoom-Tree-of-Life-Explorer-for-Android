@@ -118,7 +118,6 @@ name,fileindex,index,whichChild
 "gabonensis",206,92,2
 "galeatus",208,28,1
 "gayaquilensis",206,182,2
-"Galbulidae",201,70,2
 "Galbula",201,79,1
 "Galbula",201,80,2
 "Galbula",201,81,2
@@ -164,9 +163,7 @@ name,fileindex,index,whichChild
 "gallinacea",114,123,1
 "gayi",114,146,2
 "garzetta",354,79,1
-"Cormorants, Anhingas, Gannets and Frigatebirds",364,0,2
 "gaimardi",364,49,2
-"Gannets and boobies",364,75,2
 "Australasian Gannet",364,90,1
 "Cape Gannet",364,91,2
 "Northern Gannet",364,92,2
@@ -175,7 +172,6 @@ name,fileindex,index,whichChild
 "garnotii",357,53,2
 "Garrodia",357,116,2
 "Galapagos Penguin",357,176,1
-"GAVIIFORMES",346,45,2
 "Gavia",346,49,1
 "Gavia",346,50,2
 "Gavia",346,51,2
@@ -202,7 +198,6 @@ name,fileindex,index,whichChild
 "Gallirallus",362,21,1
 "Gallirallus",362,22,2
 "Galapagos Rail",361,11,2
-"Swamphen, Gallinules and Takane",361,48,2
 "Allen's Gallinule",361,53,2
 "Yellow-legged Gallinule",361,55,1
 "Azure Gallinule",361,56,2
@@ -230,12 +225,7 @@ name,fileindex,index,whichChild
 "gallardoi",353,20,2
 "Garden Emerald",326,93,1
 "Garnet-throated Hummingbird",326,168,2
-"GALLOANSERAE",310,0,2
-"Gamebirds",310,1,1
-"GALLIFORMES",310,1,1
-"Gallopheasants",312,11,1
 "gallopavo",312,105,2
-"GALLUS",312,145,1
 "Gallus",312,148,1
 "gallus",312,149,2
 "Gallus",312,149,2
@@ -283,7 +273,6 @@ name,fileindex,index,whichChild
 "Gambian Rat",263,139,1
 "gambianus",263,139,1
 "galapagoensis",293,55,1
-"Galapagos Mice",292,72,2
 "Fernandina Galapagos Mouse",292,74,1
 "Santiago Galapagos Mouse",292,75,2
 "Indefatigable Galapagos Mouse",292,76,2
@@ -295,7 +284,6 @@ name,fileindex,index,whichChild
 "gaumeri",255,28,2
 "Garrido's Hutia",256,16,2
 "garridoi",256,16,2
-"Galea",259,43,1
 "Galea",259,45,1
 "Galea",259,46,2
 "Galea",259,47,2
@@ -308,8 +296,6 @@ name,fileindex,index,whichChild
 "Gansu Pika",261,48,2
 "galeritus",275,72,2
 "gabriellae",295,27,2
-"Galagos - Bushbabies",260,107,1
-"Galagidae",260,107,1
 "Thick-tailed Greater Galago",260,115,1
 "Small-eared Greater Galago",260,117,2
 "garnettii",260,117,2
@@ -345,8 +331,6 @@ name,fileindex,index,whichChild
 "Gambian Epauletted Fruit Bat",399,14,2
 "gambianus",399,14,2
 "gazella",372,98,2
-"Gazelles",372,113,1
-"Gazella",372,114,1
 "Cuvier's Gazelle",372,118,1
 "Gazella",372,118,1
 "Gazella",372,119,2
@@ -373,7 +357,6 @@ name,fileindex,index,whichChild
 "Mongolian Gazelle",371,12,2
 "Gaur",371,72,2
 "gangetica",371,162,1
-"Galictis",383,63,2
 "Galictis",383,64,1
 "Galictis",383,65,2
 "gabbii",381,29,2
@@ -383,12 +366,10 @@ name,fileindex,index,whichChild
 "Galapagos Sea Lion",381,65,2
 "Gambian Mongoose",384,20,1
 "gambianus",384,20,1
-"Galerella",384,53,2
 "Galerella",384,55,1
 "Galerella",384,56,2
 "Galerella",384,58,1
 "Galerella",384,59,2
-"Galidictis",381,196,1
 "Galidictis",381,197,1
 "Galidictis",381,198,2
 "Galidia",381,199,2
@@ -468,8 +449,6 @@ name,fileindex,index,whichChild
 "galdi",89,69,2
 "ganonotus",88,44,1
 "gaigeae",76,40,2
-"Gastric-brooding Frogs, Toadlets and more",1,20,2
-"Gastric-brooding Frogs",23,108,2
 "Eungella Gastric-brooding Frog",23,109,1
 "Southern Gastric Brooding Frog",23,110,2
 "Gardiner's Seychelles frog",1,31,1

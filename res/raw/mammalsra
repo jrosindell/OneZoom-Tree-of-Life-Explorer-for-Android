@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Hamsters, Gerbils, True Mice, Rats and more",2,4,1
 "rattoides",13,17,1
 "White-tailed Giant Rat",13,65,1
 "Bismarck Giant Rat",13,68,1
@@ -11,7 +10,6 @@ name,fileindex,index,whichChild
 "Greater Stick-nest Rat",13,78,2
 "Brush-tailed Rabbit Rat",13,79,2
 "Brush-tailed Rabbit Rat",13,79,2
-"Rock Rats",13,80,2
 "Kimberley Rock Rat",13,83,1
 "Common Rock Rat",13,84,2
 "Central Rock Rat",13,85,2
@@ -23,21 +21,17 @@ name,fileindex,index,whichChild
 "Florida Giant Rat",15,43,2
 "Poncelet's Giant Rat",15,45,1
 "Earless Water Rat",15,47,2
-"Woolly Rats",15,52,1
 "Subalpine Woolly Rat",15,55,1
 "Alpine Woolly Rat",15,56,2
 "De Vis's Woolly Rat",15,57,2
 "Rothschild's Woolly Rat",15,58,2
 "Waterside Rat",15,59,2
-"Small-toothed Rats",15,60,2
 "Lesser Small-toothed Rat",15,61,1
 "Greater Small-toothed Rat",15,62,2
-"Giant Rats",15,68,2
 "Western White-eared Giant Rat",15,70,1
 "Eastern White-eared Giant Rat",15,71,2
 "Rock-dwelling Giant Rat",15,72,2
 "Rudd's Bristle-furred Rat",11,44,2
-"Brush-furred Rats and more",11,45,2
 "Yellow-spotted Brush-furred Rat",11,55,2
 "Ethiopian Forest Brush-furred Rat",11,56,2
 "Short-tailed Brush-furred Rat",11,57,2
@@ -50,14 +44,12 @@ name,fileindex,index,whichChild
 "Rahm's Brush-furred Rat",11,72,2
 "rahmi",11,72,2
 "Woosnam's Brush-furred Rat",11,73,2
-"White-bellied Rats and more",11,74,2
 "Himalayan White-bellied Rat",11,87,2
 "Brahma White-bellied Rat",11,88,2
 "Lang Bian White-bellied Rat",11,91,2
 "Chestnut White-bellied Rat",11,98,2
 "rapit",11,104,2
 "Little Himalayan Rat",11,106,2
-"Rock Rats",11,182,1
 "Tinfields Rock Rat",11,186,1
 "Bocage's Rock Rat",11,188,2
 "Thomas's Rock Rat",11,190,1
@@ -66,7 +58,6 @@ name,fileindex,index,whichChild
 "Red Rock Rat",11,199,2
 "Hinde's Rock Rat",11,200,2
 "Selinda Veld Rat",11,201,2
-"Groove-toothed Swamp Rats",11,203,1
 "Bell Groove-toothed Swamp Rat",11,207,1
 "Least Groove-toothed Swamp Rat",11,208,2
 "Hopkins's Groove-toothed Swamp Rat",11,209,2
@@ -143,7 +134,6 @@ name,fileindex,index,whichChild
 "Rattus",10,67,2
 "Sri Lankan Mountain Rat",10,68,2
 "Rattus",10,68,2
-"Xanthurus Rats",10,69,2
 "Northeastern Xanthurus Rat",10,72,1
 "Rattus",10,72,1
 "Southeastern Xanthurus Rat",10,73,2
@@ -190,25 +180,18 @@ name,fileindex,index,whichChild
 "Enggano Island Rat",9,17,2
 "Rattus",9,17,2
 "Palawan Mountain Rat",9,18,2
-"Shaggy Rats and Marsh Rats",9,25,1
-"Shaggy Rats and Marsh Rats",9,25,1
 "African Marsh Rat",9,29,1
 "Angolan Marsh Rat",9,31,2
 "Montane Shaggy Rat",9,32,2
 "West African Shaggy Rat",9,34,1
 "Fox's Shaggy Rat",9,35,2
 "Hume's Rat",9,38,2
-"Rajah Rats",9,41,1
-"Rajah Rats",9,41,1
 "Rajah Sundaic Maxomys",9,51,2
 "rajah",9,51,2
-"Marmoset Rats",9,87,2
 "Greater Marmoset Rat",9,88,1
 "Lesser Marmoset Rat",9,89,2
-"Ranee Mice",9,90,2
 "Kondana Rat",9,105,2
 "White-tailed Wood Rat",9,109,1
-"Bandicoot Rats",9,122,2
 "Bunn's Short-tailed Bandicoot Rat",9,123,1
 "Short-tailed Bandicoot Rat",9,124,2
 "Ohiya Rat",9,154,2
@@ -230,27 +213,21 @@ name,fileindex,index,whichChild
 "Seram Island Mountain Rat",9,172,2
 "Millard's Rat",9,175,2
 "Sulawesi Soft-furred Rat",9,177,1
-"Hill Rats",9,180,1
-"Spiny Rats",19,44,2
 "Okinawa Spiny Rat",19,45,1
 "Amami Spiny Rat",19,46,2
-"Grass Rats",19,47,2
 "African Grass Rat",19,52,1
 "Somali Grass Rat",19,55,2
 "Nairobi Grass Rat",19,57,1
 "Blick's Grass Rat",19,58,2
 "Abyssinian Grass Rat",19,59,2
-"White-toothed Rats",19,60,2
 "Kenneth's White-toothed Rat",19,63,1
 "Manipur White-toothed Rat",19,64,2
 "Bower's White-toothed Rat",19,66,2
-"Bandicoot Rats",19,70,1
 "Lesser Bandicoot Rat",19,72,1
 "Greater Bandicoot Rat",19,73,2
 "Savile's Bandicoot Rat",19,74,2
 "Javan Bamboo Rat",19,75,2
 "Defua Rat",17,16,1
-"Water Rats",17,19,1
 "New Britain Water Rat",17,22,1
 "Common Water Rat",17,24,2
 "Western Water Rat",17,26,1
@@ -259,7 +236,6 @@ name,fileindex,index,whichChild
 "Long-tailed Sulawesian Shrew Rat",17,46,1
 "Tate's Sulawesian Shrew Rat",17,47,2
 "Diurnal Sulawesian Shrew Rat",17,48,2
-"Thicket Rats",8,34,1
 "Macmillan's Thicket Rat",8,39,1
 "Mozambique Thicket Rat",8,40,2
 "Giant Thicket Rat",8,41,2
@@ -274,15 +250,12 @@ name,fileindex,index,whichChild
 "Shortridge's Rat",8,61,2
 "Acacia Rat",8,62,2
 "Loring's Rat",8,63,2
-"Thicket Rats",8,70,1
 "Kemp's Thicket Rat",8,72,1
 "Charming Thicket Rat",8,74,2
-"Rufous-nosed Rats",8,75,2
 "Ghana Rufous-nosed Rat",8,76,1
 "Rufous-nosed Rats",8,77,2
 "Mount Oku Rat",8,78,2
 "Target Rat",8,79,2
-"Vlei Rats",14,2,1
 "Typical Vlei Rat",14,10,1
 "Southern African Vlei Rat",14,18,1
 "Angoni Vlei Rat",14,19,2
@@ -296,14 +269,11 @@ name,fileindex,index,whichChild
 "Angolan Vlei Rat",14,39,2
 "Tanzanian Vlei Rat",14,40,2
 "Saunder's Vlei Rat",14,42,2
-"Whistling Rats",14,43,2
 "Littledale's Whistling Rat",14,44,1
 "Brants's Whistling Rat",14,45,2
 "Ryukyus Islands Tree Rat",14,46,2
-"Narrow-headed Rats",18,16,2
 "Gray-tailed Narrow-headed Rat",18,17,1
 "Ethiopian Narrow-headed Rat",18,18,2
-"Swamp Rats",18,20,1
 "Verschuren's Swamp Rat",18,24,1
 "Lukolela Swamp Rat",18,25,2
 "Big-eared Swamp Rat",18,26,2
@@ -312,20 +282,11 @@ name,fileindex,index,whichChild
 "Long-tailed Giant Rat",18,50,2
 "Edward's Rat",18,54,2
 "Giant Sulawesi Rat",18,56,2
-"Gerbils, Jirds and Sand Rats",8,143,1
-"Gerbils, Jirds and Sand Rats",12,0,2
-"Gerbils, Jirds and Sand Rats",12,5,1
 "Thin Sand Rat",12,44,1
 "Fat Sand Rat",12,45,2
-"Pouched Mice and Pouched Rats",8,161,1
-"Pouched Rats",8,162,1
-"Giant Pouched Rats",8,163,1
 "Forest Giant Pouched Rat",8,165,1
 "Gambian Rat",8,168,1
-"Long-tailed Pouched Rats",8,170,2
 "Long-tailed Pouched Rat",8,171,1
-"Blind Mole Rats, Mouse-like Hamsters and more",2,8,2
-"Blind Mole Rats and more",2,11,1
 "Kazakhstan Blind Mole Rat",2,17,1
 "Giant Blind Mole Rat",2,18,2
 "Podolian Mole Rat",2,19,2
@@ -343,13 +304,11 @@ name,fileindex,index,whichChild
 "Highland Small Rice Rat",23,201,1
 "Forest Small Rice Rat",23,202,2
 "Rio De Janeiro Arboreal Rat",23,203,2
-"Rice Rats and more",27,4,1
 "Colombian Rice Rat",27,14,1
 "Gorgas's Rice Rat",27,27,1
 "Marsh Rice Rat",27,47,2
 "Thomas's Rice Rat",27,64,2
 "Coues's Rice Rat",27,71,2
-"Rice Rats and more",27,82,2
 "Yellow Arboreal Rice Rat",27,88,1
 "Robert's Arboreal Rice Rat",27,89,2
 "Red Arboreal Rice Rat",27,90,2
@@ -364,13 +323,11 @@ name,fileindex,index,whichChild
 "Arboreal Rice Rat",27,109,2
 "Bicolored Arboreal Rice Rat",27,110,2
 "Rushi's Rat",27,115,2
-"Marsh Rats",27,117,1
 "Lund's Amphibious Rat",27,120,1
 "Chaco Marsh Rat",27,121,2
 "Marsh Rat",27,122,2
 "Web-footed Marsh Rat",27,123,2
 "Brazilian False Rice Rat",27,124,2
-"Pygmy Rice Rats and more",21,12,1
 "Destructive Pygmy Rice Rat",21,19,1
 "Andean Pygmy Rice Rat",21,20,2
 "Yellow Pygmy Rice Rat",21,21,2
@@ -387,16 +344,12 @@ name,fileindex,index,whichChild
 "Magellanic Pygmy Rice Rat",21,41,2
 "Delta Pygmy Rice Rat",21,42,2
 "Bunny Rat",21,53,1
-"Crimson-nosed Rats",26,56,1
 "Torres's Crimson-nosed Rat",26,58,1
 "Chaco Crimson-nosed Rat",26,59,2
 "Large-lipped Crimson-nosed Rat",26,60,2
-"Giant Rats",26,61,2
 "Woolly Giant Rat",26,62,1
 "Fossorial Giant Rat",26,63,2
-"Swamp Rats",26,64,2
 "Swamp Rat",26,65,1
-"Rice Water Rats",26,77,2
 "Harris's Rice Water Rat",26,78,1
 "Alfaro's Rice Water Rat",26,79,2
 "South American Water Rat",28,39,1
@@ -404,20 +357,17 @@ name,fileindex,index,whichChild
 "rattus",28,43,2
 "Striped Atlantic Forest Rat",28,46,1
 "Pallid Atlantic Forest Rat",28,48,2
-"Fish-eating Rats",21,77,1
 "Peruvian Fish-eating Rat",21,80,1
 "Oyapock's Fish-eating Rat",21,81,2
 "Musso's Fish-eating Rat",21,82,2
 "Venezuelan Fish-eating Rat",21,84,1
 "Montane Fish-eating Rat",21,85,2
 "raptor",21,92,2
-"Crab-eating Rats",21,95,1
 "Pittier's Crab-eating Rat",21,98,1
 "Crab-eating Rat",21,99,2
 "Tweedy's Crab-eating Rat",21,100,2
 "Stolzmann's Crab-eating Rat",21,101,2
 "Aquatic Rat",21,102,2
-"Cotton Rats",21,104,2
 "Southern Cotton Rat",21,111,1
 "Hispid Cotton Rat",21,112,2
 "Toltec Cotton Rat",21,114,1
@@ -431,7 +381,6 @@ name,fileindex,index,whichChild
 "Miahuatlan Cotton Rat",21,128,1
 "Allen's Cotton Rat",21,129,2
 "White-eared Cotton Rat",21,130,2
-"Climbing Rats",21,132,1
 "Fulvous-bellied Climbing Rat",21,137,1
 "Tumbala Climbing Rat",21,138,2
 "Watson's Climbing Rat",21,139,2
@@ -445,17 +394,14 @@ name,fileindex,index,whichChild
 "Yellow Isthmus Rat",21,162,2
 "raviventris",21,191,2
 "Magdalena Rat",22,46,2
-"Tuft-tailed Rats",4,70,1
 "White-tipped Tuft-tailed Rat",4,73,1
 "Tanala Tuft-tailed Rat",4,74,2
 "Western Tuft-tailed Rat",4,76,1
 "Lesser Tufted-tailed Rat",4,77,2
 "Major's Tufted-tailed Rat",4,79,1
 "Webb's Tuft-tailed Rat",4,80,2
-"Tree Rats",4,82,2
 "White-tailed Tree Rat",4,83,1
 "Hairy-tailed Tree Rat",4,84,2
-"Red Forest Rats",4,90,1
 "Lowland Red Forest Rat",4,92,1
 "Lowland Red Forest Rat",4,93,2
 "Eastern Red Forest Rat",4,94,2
@@ -464,10 +410,8 @@ name,fileindex,index,whichChild
 "ramirohitra",4,97,2
 "Malagasy Giant Jumping Rat",4,98,2
 "raddei",4,125,1
-"Mole Rats",4,140,1
 "East African Mole Rat",4,145,1
 "Big-headed Mole Rat",4,147,2
-"Bamboo Rats",4,163,2
 "Indomalayan Bamboo Rat",4,166,1
 "Hoary Bamboo Rat",4,167,2
 "Chinese Bamboo Rat",4,168,2
@@ -492,8 +436,6 @@ name,fileindex,index,whichChild
 "Banner-tailed Kangaroo Rat",31,87,1
 "Nelson's Kangaroo Rat",31,88,2
 "Desert Kangaroo Rat",31,89,2
-"Spiny Rats, Tree Rats and more",29,5,1
-"Spiny Rats, Tree Rats and more",29,5,1
 "Golden Atlantic Tree Rat",30,9,1
 "Pallid Atlantic Tree Rat",30,11,2
 "Drab Atlantic Tree Rat",30,13,1
@@ -507,7 +449,6 @@ name,fileindex,index,whichChild
 "Arboreal Soft-furred Spiny Rat",30,35,1
 "Rufous Tree Rat",30,37,2
 "Brazilian Spiny Tree Rat",30,39,1
-"Brush-tailed Rats",30,41,2
 "Yellow-crowned Brush-tailed Rat",30,43,1
 "Plain Brush-tailed Rat",30,45,2
 "Sucre Spiny Rat",30,46,2
@@ -537,8 +478,6 @@ name,fileindex,index,whichChild
 "Napo Spiny Rat",29,69,2
 "Tome's Spiny Rat",29,71,1
 "Steere's Spiny Rat",29,72,2
-"Bamboo Rats and Olalla Rats",29,74,1
-"Bamboo Rats and Olalla Rats",29,74,1
 "Bolivian Bamboo Rat",29,78,1
 "Amazon Bamboo Rat",29,79,2
 "Peruvian Bamboo Rat",29,80,2
@@ -552,7 +491,6 @@ name,fileindex,index,whichChild
 "Cayenne Spiny Rat",29,93,2
 "Long-tailed Spiny Rat",29,95,1
 "Guaira Spiny Rat",29,96,2
-"Mole Rats",29,126,1
 "Damara Mole Rat",29,133,1
 "Mechow's Mole Rat",29,134,2
 "Ghana Mole Rat",29,135,2
@@ -566,7 +504,6 @@ name,fileindex,index,whichChild
 "Silvery Mole Rat",29,151,2
 "Naked Mole Rat",29,152,2
 "Bolivian Chinchilla Rat",29,211,2
-"Chinchilla Rats",2,132,1
 "Sierra Del Tontal Chinchilla Rat",2,136,1
 "Ashy Chinchilla Rat",2,137,2
 "Famatina Chinchilla Rat",2,139,1
@@ -576,23 +513,18 @@ name,fileindex,index,whichChild
 "Greater Cane Rat",33,31,1
 "Lesser Cane Rat",33,32,2
 "Dassie Rat",33,58,2
-"Rock Rats, Viscacha Rats and more",2,146,2
-"Rock Rats, Viscacha Rats and more",2,146,2
 "Chilean Rock Rat",2,150,1
 "Sage's Rock Rat",2,152,2
 "Plains Viscacha Rat",2,154,1
 "Viscacha Rat",2,155,2
-"Ratufa",77,46,2
 "Ratufa",77,49,1
 "Ratufa",77,50,2
 "Ratufa",77,51,2
 "Ratufa",77,52,2
 "rabori",78,11,2
 "ralli",79,28,2
-"Rabbits and Hares",76,1,1
 "European Rabbit",76,70,2
 "Bunyoro Rabbit",76,72,1
-"Cottontail Rabbits",76,75,1
 "Marsh Rabbit",76,95,1
 "Swamp Rabbit",76,96,2
 "San Jose Brush Rabbit",76,102,1
@@ -613,12 +545,10 @@ name,fileindex,index,whichChild
 "Ratanaworabhan's Fruit Bat",46,23,1
 "rabori",46,61,2
 "raptor",46,78,2
-"Raphicerus",65,40,1
 "Raphicerus",65,42,1
 "Raphicerus",65,43,2
 "Raphicerus",65,44,2
 "Rangifer",63,165,2
-"Raccoons, Olingos and more",47,7,2
 "Crab-eating Raccoon",47,12,1
 "Pygmy Raccoon",47,13,2
 "Northern Raccoon",47,14,2

@@ -8,13 +8,10 @@ name,fileindex,index,whichChild
 "baeodon",9,49,1
 "Bartels's Javan Maxomys",9,73,2
 "bartelsii",9,73,2
-"Bandicoot Rats",9,122,2
 "Bunn's Short-tailed Bandicoot Rat",9,123,1
 "Short-tailed Bandicoot Rat",9,124,2
 "Barbary Lemniscomys",9,135,1
 "barbarus",9,135,1
-"Bandicoot Rats",19,70,1
-"Bandicota",19,70,1
 "Lesser Bandicoot Rat",19,72,1
 "Bandicota",19,72,1
 "Greater Bandicoot Rat",19,73,2
@@ -29,7 +26,6 @@ name,fileindex,index,whichChild
 "bagobus",17,33,1
 "Barbour's Vlei Rat",14,38,1
 "barbouri",14,38,1
-"Batomys",8,136,2
 "Large-toothed Batomys",8,138,1
 "Batomys",8,138,1
 "Mindanao Batomys",8,139,2
@@ -48,7 +44,6 @@ name,fileindex,index,whichChild
 "balneator",27,62,1
 "Northern Baja Deermouse",25,48,1
 "banderanus",25,125,2
-"Baiomys",21,207,2
 "Baiomys",21,208,1
 "Baiomys",21,209,2
 "Bavarian Pine Vole",5,19,1
@@ -60,7 +55,6 @@ name,fileindex,index,whichChild
 "Balkan Snow Vole",7,72,2
 "bastardi",4,87,2
 "barabensis",4,108,2
-"Bamboo Rats",4,163,2
 "Indomalayan Bamboo Rat",4,166,1
 "Hoary Bamboo Rat",4,167,2
 "Chinese Bamboo Rat",4,168,2
@@ -78,14 +72,11 @@ name,fileindex,index,whichChild
 "Great Basin Pocket Mouse",31,39,1
 "Great Basin Pocket Mouse",31,42,1
 "Banner-tailed Kangaroo Rat",31,87,1
-"Bamboo Rats and Olalla Rats",29,74,1
 "Bolivian Bamboo Rat",29,78,1
 "Amazon Bamboo Rat",29,79,2
 "Peruvian Bamboo Rat",29,80,2
 "Atlantic Bamboo Rat",29,84,2
 "Bahamian Hutia",29,111,1
-"Bathyergidae",29,126,1
-"Bathyergus",29,147,1
 "Bathyergus",29,148,1
 "Bathyergus",29,149,2
 "Bahia Hairy Dwarf Porcupine",33,39,1
@@ -100,8 +91,6 @@ name,fileindex,index,whichChild
 "Barbary Ground Squirrel",77,136,2
 "bachmani",76,103,2
 "Barbary Macaque",35,30,2
-"Mangabeys, Baboons and more",35,48,2
-"Baboons",35,50,1
 "Hamadryas Baboon",35,55,1
 "Olive Baboon",35,56,2
 "Chacma Baboon",35,57,2
@@ -120,15 +109,10 @@ name,fileindex,index,whichChild
 "Bald-headed Uacari",42,56,2
 "Gray's Bald-faced Saki",42,60,1
 "bancanus",35,91,1
-"Bamboo Lemurs",36,26,2
 "Eastern Lesser Bamboo Lemur",36,29,1
 "Sambirano Lesser Bamboo Lemur",36,31,2
 "Golden Bamboo Lemur",36,33,1
 "Greater Bamboo Lemur",36,34,2
-"Carnivorans, Bats, Hedgehogs and more",0,8,2
-"Bats",45,1,1
-"Vesper Bats",45,6,1
-"Woolly Bats and more",53,7,1
 "Papillose Woolly Bat",53,14,1
 "Lenis Woolly Bat",53,15,2
 "Clear-winged Woolly Bat",53,16,2
@@ -151,7 +135,6 @@ name,fileindex,index,whichChild
 "Dubious Trumpet-eared Bat",53,45,2
 "Peters's Trumpet-eared Bat",53,47,1
 "Golden-tipped Bat",53,48,2
-"Tube-nosed Bats",53,50,1
 "Greater Tube-nosed Bat",53,59,1
 "Rufous Tube-nosed Bat",53,60,2
 "Dusky Tube-nosed Bat",53,61,2
@@ -216,13 +199,11 @@ name,fileindex,index,whichChild
 "Rafinesque's Big-eared Bat",53,139,2
 "Allen's Big-eared Bat",53,141,1
 "Spotted Bat",53,142,2
-"Barbastella",53,143,2
 "Asian Barbastelle",53,144,1
 "Barbastella",53,144,1
 "Barbastelle",53,145,2
 "barbastellus",53,145,2
 "Barbastella",53,145,2
-"Yellow Bats",53,151,2
 "Black-winged Little Yellow Bat",53,158,1
 "Yucatan Yellow Bat",53,159,2
 "Thomas's Yellow Bat",53,160,2
@@ -232,12 +213,10 @@ name,fileindex,index,whichChild
 "Slender Yellow Bat",53,165,2
 "Least Yellow Bat",53,166,2
 "Allen's Yellow Bat",53,167,2
-"Noctule Bats",53,170,1
 "LEISLER'S BAT",53,176,2
 "Azorean Bat",53,179,2
 "False Serotine Bat",53,186,1
 "Disk-footed Bat",53,187,2
-"Broad-nosed Bats",54,52,1
 "Northern Broad-nosed Bat",54,54,1
 "Little Broad-nosed Bat",54,55,2
 "Inland Broad-nosed Bat",54,57,1
@@ -270,7 +249,6 @@ name,fileindex,index,whichChild
 "Western Yellow Bat",56,30,1
 "Southern Yellow Bat",56,31,2
 "Big Red Bat",56,32,2
-"Long-eared Bats",56,35,1
 "Gould's Long-eared Bat",56,40,1
 "Eastern Long-eared Bat",56,41,2
 "Pygmy Long-eared Bat",56,42,2
@@ -286,7 +264,6 @@ name,fileindex,index,whichChild
 "Van Gelder's Bat",53,212,1
 "Bauerus",53,212,1
 "Pallid Bat",53,213,2
-"Mouse-eared Bats and more",73,3,1
 "Indiana Bat",74,20,2
 "Bokhara Whiskered Bat",74,38,1
 "Himalayan Whiskered Bat",74,40,2
@@ -337,14 +314,12 @@ name,fileindex,index,whichChild
 "Greenish Yellow Bat",73,189,2
 "Harlequin Bat",73,190,2
 "Great Evening Bat",73,191,2
-"House Bats",73,193,1
 "Dark-winged Lesser House Bat",73,199,2
 "Light-winged Lesser House Bat",73,200,2
 "Desert Yellow Lesser House Bat.",73,201,2
 "Asian Particolored Bat",73,203,1
 "Particoloured Bat",73,204,2
 "Silver-haired Bat",73,209,2
-"Long-winged Bats",45,8,2
 "Shortridge's Long-fingered Bat",45,14,1
 "Philippine Long-fingered Bat",45,15,2
 "Little Long-fingered Bat",45,16,2
@@ -362,7 +337,6 @@ name,fileindex,index,whichChild
 "Great Long-fingered Bat",45,37,2
 "Greater Long-fingered Bat",45,40,1
 "Large Bent-winged Bat",45,42,2
-"Mastiff Bats",62,8,1
 "Aztec Mastiff Bat",62,15,1
 "barnesi",62,16,2
 "Coiban Mastiff Bat",62,17,2
@@ -373,7 +347,6 @@ name,fileindex,index,whichChild
 "Sinaloan Mastiff Bat",62,23,2
 "Big Crested Mastiff Bat",62,25,1
 "Brown Mastiff Bat",62,26,2
-"Bonneted Bats",62,27,2
 "Underwood's Bonneted Bat",62,33,1
 "Black Bonneted Bat",62,34,2
 "Wagner's Bonneted Bat",62,35,2
@@ -393,7 +366,6 @@ name,fileindex,index,whichChild
 "Broad-eared Bat",62,124,2
 "Big Free-tailed Bat",62,125,2
 "Peale's Free-tailed Bat",62,126,2
-"Free-tailed Bats",62,127,2
 "La Touche's Free-tailed Bat",62,135,1
 "East Asian Free-tailed Bat",62,136,2
 "European Free-tailed Bat",62,137,2
@@ -404,7 +376,6 @@ name,fileindex,index,whichChild
 "New Guinea Free-tailed Bat",62,143,2
 "Egyptian Free-tailed Bat",62,144,2
 "Brazilian Free-tailed Bat",62,145,2
-"Dog-faced Bats",62,147,1
 "Greenhall's Dog-faced Bat",62,153,1
 "Mexican Dog-faced Bat",62,154,2
 "Southern Dog-faced Bat",62,156,1
@@ -431,7 +402,6 @@ name,fileindex,index,whichChild
 "East-coast Free-tailed Bat",62,192,2
 "Peters's Flat-headed Bat",62,193,2
 "Blunt-eared Bat",62,194,2
-"Broad-nosed Bats",68,3,1
 "Recife Broad-nosed Bat",68,8,1
 "Buffy Broad-nosed Bat",68,9,2
 "Thomas's Broad-nosed Bat",68,10,2
@@ -445,7 +415,6 @@ name,fileindex,index,whichChild
 "Great Stripe-faced Bat",68,22,2
 "Brown Tent-making Bat",68,24,1
 "Tent-maiking Bat",68,25,2
-"Yellow-eared Bats",68,29,1
 "Northern Little Yellow-eared Bat",68,32,1
 "Little Yellow-eared Bat",68,33,2
 "Melissa's Yellow-eared Bat",68,34,2
@@ -454,13 +423,11 @@ name,fileindex,index,whichChild
 "Bedentate Yellow-eared Bat",68,39,2
 "Macconnell's Bat",68,40,2
 "Honduran White Bat",68,41,2
-"Big-eyed Bats",68,42,2
 "Guadeloupean Big-eyed Bat",68,45,1
 "Hairy Big-eyed Bat",68,46,2
 "Little Big-eyed Bat",68,48,1
 "Brazilian Big-eyed Bat",68,49,2
 "Salvin's Big-eyed Bat",68,50,2
-"Fruit-eating Bats",67,10,2
 "Honduran Fruit-eating Bat",67,18,1
 "Hairy Fruit-eating Bat",67,19,2
 "Fraternal Fruit-eating Bat",67,20,2
@@ -487,7 +454,6 @@ name,fileindex,index,whichChild
 "Visored Bat",67,56,2
 "Ipanema Bat",67,58,1
 "Wrinkle-faced Bat",67,59,2
-"Yellow-shouldered Bats",67,60,2
 "Tschudi's Yellow-shouldered Bat",67,66,1
 "Bogota Yellow-shouldered Bat",67,67,2
 "Greater Yellow-shouldered Bat",67,68,2
@@ -501,7 +467,6 @@ name,fileindex,index,whichChild
 "Little Yellow-shouldered Bat",67,81,2
 "Bidentate Yellow-shouldered Bat",67,83,1
 "Lesser Yellow-shouldered Bat",67,84,2
-"Short-tailed Bats",67,86,1
 "Seba's Short-tailed Bat",67,88,1
 "Silky Short-tailed Bat",67,89,2
 "Chestnut Short-tailed Bat",67,91,1
@@ -518,12 +483,10 @@ name,fileindex,index,whichChild
 "Underwood's Long-tongued Bat",69,14,1
 "Dark Long-tongued Bat",69,15,2
 "Ega Long-tongued Bat",69,16,2
-"Tailless Bats",69,17,2
 "Broad-toothed Tailless Bat",69,20,1
 "Handley's Tailless Bat",69,21,2
 "Tailed Tailless Bat",69,22,2
 "Geoffroy's Tailless Bat",69,23,2
-"Long-tongued Bats",69,26,1
 "Western Long-tongued Bat",69,30,1
 "Gray Long-tongued Bat",69,31,2
 "Miller's Long-tongued Bat",69,32,2
@@ -534,7 +497,6 @@ name,fileindex,index,whichChild
 "Curacaoan Long-nosed Bat",69,40,1
 "Lesser Long-nosed Bat",69,41,2
 "Greater Long-nosed Bat",69,42,2
-"Nectar Bats",67,102,1
 "Handley's Nectar Bat",67,106,1
 "Orange Nectar Bat",67,107,2
 "Western Nectar Bat",67,108,2
@@ -544,14 +506,12 @@ name,fileindex,index,whichChild
 "Thomas's Nectar Bat",67,114,2
 "Chestnut Long-tongued Bat",67,115,2
 "Long-snouted Bat",67,116,2
-"Flower Bats",67,118,1
 "Jamaican Flower Bat",67,120,1
 "Cuban Flower Bat",67,121,2
 "Brown Flower Bat",67,123,1
 "Buffy Flower Bat",67,124,2
 "Antillean Fruit-eating Bat",67,126,1
 "Cuban Fruit-eating Bat",67,127,2
-"Big-eared Bats and more",67,130,1
 "Lesser Spear-nosed Bat",67,139,1
 "Greater Spear-nosed Bat",67,140,2
 "Guianan Spear-nosed Bat",67,141,2
@@ -560,7 +520,6 @@ name,fileindex,index,whichChild
 "Cozumelan Golden Bat",67,146,1
 "Golden Bat",67,147,2
 "Striped Hairy-nosed Bat",67,149,1
-"Round-eared Bats",67,151,2
 "Carriker's Round-eared Bat",67,156,1
 "Davis's Round-eared Bat",67,157,2
 "White-throated Round-eared Bat",67,158,2
@@ -571,7 +530,6 @@ name,fileindex,index,whichChild
 "Big-eared Wooly Bat",67,165,1
 "Spectral Bat",67,166,2
 "Fringe-lipped Bat",67,167,2
-"Big-eared Bats",67,169,1
 "Little Big-eared Bat",67,173,1
 "Common Big-eared Bat",67,174,2
 "Schmidts's Big-eared Bat",67,177,1
@@ -585,7 +543,6 @@ name,fileindex,index,whichChild
 "Orange-throated Bat",67,190,2
 "Waterhouse's Leaf-nosed Bat",67,192,1
 "California Leaf-nosed Bat",67,193,2
-"Sword-nosed Bats",67,195,1
 "Marinkelle's Sword-nosed Bat",67,198,1
 "Common Sword-nosed Bat",67,199,2
 "Fernandez's Sword-nosed Bat",67,200,2
@@ -594,7 +551,6 @@ name,fileindex,index,whichChild
 "White-winged Vampire Bat",67,205,1
 "Common Vampire Bat",67,206,2
 "Hairy-legged Vampire Bat",67,207,2
-"Mustached Bats and more",67,208,2
 "Macleay's Mustached Bat",67,213,1
 "Sooty Mustached Bat",67,214,2
 "Wagner's Mustached Bat",67,215,2
@@ -606,7 +562,6 @@ name,fileindex,index,whichChild
 "Lesser Bulldog Bat",67,224,1
 "Greater Bulldog Bat",67,225,2
 "New Zealand Lesser Short-tailed Bat",67,226,2
-"Funnel-eared Bats",45,46,1
 "Hispaniolan Greater Funnel-eared Bat",45,52,1
 "Cuban Greater Funnel-eared Bat",45,53,2
 "Mexican Funnel-eared Bat",45,54,2
@@ -621,7 +576,6 @@ name,fileindex,index,whichChild
 "Peter's Disk-winged Bat",45,65,1
 "Spix's Disk-winged Bat",45,66,2
 "Eastern Sucker-footed Bat",45,67,2
-"Old World Leaf-nosed Bats",58,2,1
 "Commerson's Leaf-nosed Bat",61,10,1
 "Giant Leaf-nosed Bat",61,13,2
 "Shield-faced Leaf-nosed Bat",61,15,1
@@ -694,7 +648,6 @@ name,fileindex,index,whichChild
 "Malayan Tailless Leaf-nosed Bat",58,91,1
 "Tail-less Leaf-nosed Bat",58,92,2
 "Vietnamese Leaf-nosed Bat",58,93,2
-"Horseshoe Bats",58,94,2
 "Mitred Horseshow Bat",59,12,1
 "Kai Horseshoe Bat",59,13,2
 "Yellow-faced Horseshoe Bat",59,14,2
@@ -764,7 +717,6 @@ name,fileindex,index,whichChild
 "Blyth's Horseshoe Bat",58,122,2
 "Osgood's Horseshoe Bat",58,124,1
 "Least Horseshoe Bat",58,127,1
-"Slit-faced Bats",58,129,2
 "Madagascar Slit-faced Bat",58,135,1
 "Large-eared Slit-faced Bat",58,136,2
 "Vinson's Slit-faced Bat",58,137,2
@@ -785,20 +737,15 @@ name,fileindex,index,whichChild
 "Ghost Bat",45,76,2
 "Heart-nosed Bat",45,78,1
 "Yellow-winged Bat",45,79,2
-"Mouse-tailed Bats",45,81,1
 "Macinnes's Mouse-tailed Bat",45,84,1
 "Lesser Mouse-tailed Bat",45,85,2
 "Greater Mouse-tailed Bat",45,86,2
 "Small Mouse-tailed Bat",45,87,2
 "Hog-nosed Bat",45,88,2
-"Sac-winged Bats, Sheath-tailed Bats and more",71,0,2
-"Sac-winged Bats, Sheath-tailed Bats and more",71,0,2
-"Dog-like Bats",71,6,1
 "Trinidad Dog-like Bat",71,9,1
 "Lesser Dog-like Bat",71,10,2
 "Greater Dog-like Bat",71,11,2
 "White-winged Dog-like Bat",71,12,2
-"Balantiopteryx",71,13,2
 "Gray Sac-winged Bat",71,15,1
 "Balantiopteryx",71,15,1
 "Thomas's Sac-winged Bat",71,16,2
@@ -808,19 +755,16 @@ name,fileindex,index,whichChild
 "Thomas's Shaggy Bat",71,20,1
 "Shaggy Bat",71,21,2
 "Chestnut Sac-winged Bat",71,22,2
-"Sac-winged Bats",71,23,2
 "Amazonian Sac-winged Bat",71,25,1
 "Frosted Sac-winged Bat",71,26,2
 "Greater Sac-winged Bat",71,28,1
 "Lesser Sac-winged Bat",71,29,2
-"Ghost Bats",71,32,1
 "Northern Ghost Bat",71,35,1
 "Greater Ghost Bat",71,36,2
 "Lesser Ghost Bat",71,37,2
 "Isabelle's Ghost Bat",71,38,2
 "Short-eared Bat",71,39,2
 "Proboscis Bat",71,40,2
-"Sheath-tailed Bats",71,41,2
 "Seychelles Sheath-tailed Bat",71,47,1
 "African Sheath-tailed Bat",71,48,2
 "Peter's Sheath-tailed Bat",71,49,2
@@ -832,7 +776,6 @@ name,fileindex,index,whichChild
 "Small Asian Sheath-tailed Bat",71,59,1
 "Lesser Sheath-tailed Bat",71,60,2
 "Lesser Sheath-tailed Bat",71,61,2
-"Tomb Bats and more",71,63,1
 "Longed-winged Tomb Bat",71,69,1
 "Mauritian Tomb Bat",71,70,2
 "Hildegarde's Tomb Bat",71,71,2
@@ -857,14 +800,11 @@ name,fileindex,index,whichChild
 "Sulawesi Fruit Bat",57,129,1
 "Talaud Fruit Bat",57,130,2
 "Sunda Fruit Bat",57,131,2
-"Monkey-faced Bats",57,132,2
 "Guadalcanal Monkey-faced Bat",57,135,1
 "Montane Monkey-faced Bat",57,136,2
 "Bougainville Monkey-faced Bat",57,138,2
 "Stripe-faced Fruit Bat",57,140,1
 "Small-toothed Fruit Bat",57,141,2
-"Bare-backed Fruit Bats",57,143,1
-"Bare-backed Fruit Bats",57,143,1
 "Halmahera Naked-backed Fruit Bat",57,152,1
 "Greenish Naked-backed Fruit Bat",57,153,2
 "Bismarck Bare-backed Fruit Bat",57,154,2
@@ -887,7 +827,6 @@ name,fileindex,index,whichChild
 "Bulmer's Fruit Bat",57,168,2
 "Sulawesi Harpy Fruit Bat",45,94,1
 "Harpy Fruit Bat",45,95,2
-"Blossom Bats",45,98,1
 "Black-bellied Blossom Bat",45,101,1
 "Woodford's Blossom Bat",45,102,2
 "New Caledonia Blossom Bat",45,104,1
@@ -897,11 +836,9 @@ name,fileindex,index,whichChild
 "Common Blossom Bat",45,110,2
 "Dagger-toothed Long-nosed Fruit Bat",45,112,1
 "Hill Long-tongued Fruit Bat",45,113,2
-"Dawn Bats",45,114,2
 "Philippine Dawn Bat",45,116,1
 "Greater Dawn Bat",45,117,2
 "Dawn Bat",45,118,2
-"Fruit Bats",70,0,2
 "Peters's Epauletted Fruit Bat",70,13,1
 "Gambian Epauletted Fruit Bat",70,14,2
 "Ethiopian Epauletted Fruit Bat",70,16,1
@@ -928,7 +865,6 @@ name,fileindex,index,whichChild
 "Little Collared Fruit Bat",70,66,2
 "Sao Tome Collared Fruit Bat",70,67,2
 "Angolan Fruit Bat",70,68,2
-"Fruit Bats",46,1,1
 "Peters's Fruit Bat",46,10,1
 "Minute Fruit Bat",46,11,2
 "Lesser Dog-faced Fruit Bat",46,12,2
@@ -956,7 +892,6 @@ name,fileindex,index,whichChild
 "Swift Fruit Bat",46,49,2
 "Salim Ali's Fruit Bat",46,50,2
 "Blandford's Fruit Bat",46,51,2
-"Tube-nosed Bats",46,52,2
 "Pallas's Tube-nosed Bat",46,59,1
 "Demonic Tube-nosed Bat",46,60,2
 "Philippine Tube-nosed Fruit Bat",46,61,2
@@ -987,10 +922,8 @@ name,fileindex,index,whichChild
 "Balaenoptera",75,153,2
 "Balaenoptera",75,155,1
 "Balaenoptera",75,156,2
-"Balaenidae",75,158,1
 "Balaena",75,164,2
 "barbatus",72,10,2
-"Babyrousa",72,29,2
 "Togian Islands Babirusa",72,31,1
 "Babyrousa",72,31,1
 "Sulawesi Babirusa",72,32,2
@@ -1005,20 +938,16 @@ name,fileindex,index,whichChild
 "bairdii",45,147,2
 "barbara",49,62,2
 "Honey Badger",49,73,2
-"Badgers",49,74,2
 "Japanese Badger",49,79,1
 "Eurasian Badger",49,80,2
 "Asian Badger",49,81,2
 "Hog Badger",49,82,2
 "American Badger",49,86,2
-"Ferret Badgers",52,46,2
 "Large-toothed Ferret Badger",52,49,1
 "Javan Ferret Badger",52,50,2
 "Bornean Ferret Badger",52,51,2
-"Bassariscus",47,20,2
 "Bassariscus",47,21,1
 "Bassariscus",47,22,2
-"Bassaricyon",47,24,1
 "Bassaricyon",47,28,1
 "Bassaricyon",47,29,2
 "Bassaricyon",47,30,2
@@ -1045,7 +974,6 @@ name,fileindex,index,whichChild
 "Barren Ground Shrew",86,85,1
 "Balkan Mole",85,133,2
 "Banded Hare Wallaby",43,116,2
-"Bandicoots and Bilbies",0,124,2
 "Raffray's Bandicoot",0,140,1
 "Giant Bandicoot",0,141,2
 "Papuan Bandicoot",0,142,2

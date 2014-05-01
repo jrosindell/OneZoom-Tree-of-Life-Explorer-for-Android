@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Tanagers, Grosbeaks, Saltators and more",124,1,1
 "Grey-bellied Flowerpiercer",125,14,1
 "Greater Flowerpiercer",125,21,2
 "Greenish Yellow-finch",125,78,2
@@ -21,8 +20,6 @@ name,fileindex,index,whichChild
 "Great Inca-finch",124,27,2
 "Grey-winged Inca-finch",124,30,2
 "Green Honeycreeper",124,33,2
-"Grosbeaks, Saltators and more",124,43,2
-"Grosbeaks, saltators and more",124,44,1
 "Green-winged Saltator",124,53,2
 "Greyish Saltator",124,55,2
 "Black-throated Grosbeak",124,56,2
@@ -33,7 +30,6 @@ name,fileindex,index,whichChild
 "Green-naped Tanager",128,58,2
 "Grey-and-gold Tanager",128,73,2
 "Green-capped Tanager",128,90,2
-"Finchs, Grassquits and more",129,3,1
 "Sharp-beaked Ground-finch",129,24,1
 "Small Ground-finch",129,25,2
 "Large Ground-finch",129,27,2
@@ -50,26 +46,18 @@ name,fileindex,index,whichChild
 "griseocristatus",128,175,1
 "Yellow-shouldered Grosbeak",124,76,2
 "Grey-crowned Palm-tanager",124,92,1
-"Grosbeaks, saltators and more",124,120,1
-"Grosbeaks, saltators and more",124,132,2
-"Grosbeaks, saltators and more",124,137,2
 "Red-and-black Grosbeak",124,140,1
 "Crimson-collared Grosbeak",124,141,2
 "Yellow-green Grosbeak",124,143,1
 "Black-faced Grosbeak",124,144,2
-"Grosbeaks, saltators and more",124,154,1
-"Grosbeaks, saltators and more",124,160,2
-"Grosbeaks, saltators and more",124,171,1
 "Glaucous-blue Grosbeak",124,175,1
 "Ultramarine Grosbeak",124,176,2
 "Blue-black Grosbeak",124,177,2
 "Blue Grosbeak",124,195,1
-"Grosbeaks, saltators and more",124,198,2
 "Granatellus",124,200,1
 "Grey-throated Chat",124,201,2
 "Granatellus",124,201,2
 "Granatellus",124,202,2
-"Grosbeaks, saltators and more",124,203,2
 "Golden-bellied Grosbeak",124,207,1
 "Black-backed Grosbeak",124,208,2
 "Black-headed Grosbeak",124,210,1
@@ -149,7 +137,6 @@ name,fileindex,index,whichChild
 "Southern Grey-headed Sparrow",122,41,2
 "Northern Grey-headed Sparrow",122,51,2
 "griseus",122,51,2
-"Waxbills, grass finches, munias and more",132,0,1
 "Grey-headed Munia",132,29,1
 "Grey-banded Munia",132,39,2
 "Grey-crowned Munia",132,55,1
@@ -404,7 +391,6 @@ name,fileindex,index,whichChild
 "Tibetan Ground-tit",161,132,1
 "Grey-headed Canary-flycatcher",161,168,1
 "Green-backed Robin",151,27,1
-"Ground-robins",151,29,2
 "Greater Ground-robin",151,30,1
 "Greater Ground-robin",151,30,1
 "Lesser Ground-robin",151,31,2
@@ -443,7 +429,6 @@ name,fileindex,index,whichChild
 "gracilirostris",154,10,2
 "Grey Vireo",154,24,1
 "griseus",154,36,2
-"Greenlets",152,114,2
 "Rufous-crowned Greenlet",152,120,1
 "Ashy-headed Greenlet",152,121,2
 "Buff-cheeked Greenlet",152,122,2
@@ -502,7 +487,6 @@ name,fileindex,index,whichChild
 "Grey Gerygone",180,113,2
 "Green-backed Gerygone",180,116,1
 "grayi",120,98,2
-"Grasswrens",120,118,2
 "Kalkadoon Grasswren",120,124,1
 "Dusky Grasswren",120,125,2
 "Eyrean Grasswren",120,126,2
@@ -589,7 +573,6 @@ name,fileindex,index,whichChild
 "Shear-tailed Grey-tyrant",238,15,2
 "Grey-bellied Shrike-tyrant",238,19,1
 "Great Shrike-tyrant",238,23,2
-"Ground-Tyrants",238,42,2
 "Cinnamon-bellied Ground-tyrant",238,49,1
 "Black-fronted Ground-tyrant",238,50,2
 "Dark-faced Ground-tyrant",238,52,1
@@ -713,8 +696,6 @@ name,fileindex,index,whichChild
 "Grey-headed Kingfisher",202,115,2
 "Green-and-rufous Kingfisher",202,130,1
 "Green Kingfisher",202,131,2
-"Rollers and Ground-Rollers",201,107,2
-"Ground-rollers",201,131,2
 "Rufous-headed Ground-roller",201,135,1
 "Pitta-like Ground-roller",201,136,2
 "Long-tailed Ground-roller",201,137,2
@@ -727,7 +708,6 @@ name,fileindex,index,whichChild
 "griseus",203,72,2
 "Great Hornbill",201,147,2
 "African Grey Hornbill",201,176,2
-"Ground-hornbills",201,178,2
 "Abyssinian Ground-hornbill",201,179,1
 "Southern Ground-hornbill",201,180,2
 "Green Woodhoopoe",201,187,2
@@ -817,11 +797,9 @@ name,fileindex,index,whichChild
 "Greater Coucal",355,133,1
 "Green-billed Coucal",355,151,1
 "Greater Black Coucal",355,161,1
-"Ground-cuckoos",355,183,2
 "Sumatran Ground-cuckoo",355,185,1
 "Bornean Ground-cuckoo",355,186,2
 "Coral-billed Ground-cuckoo",355,187,2
-"Ground-Cuckoos and Roadrunners",346,104,1
 "Red-billed Ground-cuckoo",346,109,1
 "Scaled Ground-cuckoo",346,110,2
 "Rufous-winged Ground-cuckoo",346,111,2
@@ -833,11 +811,9 @@ name,fileindex,index,whichChild
 "Greater Ani",346,129,2
 "Great Indian Bustard",363,35,1
 "Great Bustard",363,45,2
-"GRUIFORMES",360,0,2
 "Grey-throated Rail",360,34,2
 "Grey-necked Wood-rail",360,91,1
 "Grey-breasted Crake",361,18,1
-"Gruidae",360,158,1
 "Grus",360,165,1
 "Grus",360,166,2
 "Grus",360,167,2
@@ -861,7 +837,6 @@ name,fileindex,index,whichChild
 "Grey-headed Imperial-pigeon",352,13,2
 "Green Imperial-pigeon",352,31,2
 "Grey Imperial-pigeon",352,54,1
-"Green pigeons",351,0,2
 "Madagascar Green-pigeon",351,10,1
 "Bruce's Green-pigeon",351,11,2
 "Pemba Green-pigeon",351,13,1
@@ -888,7 +863,6 @@ name,fileindex,index,whichChild
 "Orange-breasted Green-pigeon",351,43,1
 "Yellow-vented Green-pigeon",351,44,2
 "Thick-billed Ground-pigeon",347,42,2
-"Bleeding heart doves, Ground-doves and more",347,43,2
 "Caroline Islands Ground-dove",347,78,1
 "Marquesan Ground-dove",347,79,2
 "White-bibbed Ground-dove",347,81,1
@@ -908,7 +882,6 @@ name,fileindex,index,whichChild
 "Grey-chested Dove",349,54,2
 "Grey-fronted Dove",349,56,1
 "Grenada Dove",349,58,2
-"Ground doves",347,177,2
 "Plain-breasted Ground-dove",347,185,1
 "Ruddy Ground-dove",347,186,2
 "Common Ground-dove",347,187,2
@@ -924,8 +897,6 @@ name,fileindex,index,whichChild
 "Maroon-chested Ground-dove",347,207,1
 "Purple-winged Ground-dove",347,208,2
 "Blue Ground-dove",347,209,2
-"Flamingos and Grebes",353,0,2
-"Grebes",353,1,1
 "Great Crested Grebe",353,12,1
 "Great Crested Grebe",353,12,1
 "Great Grebe",353,13,2
@@ -989,7 +960,6 @@ name,fileindex,index,whichChild
 "griseus",324,218,2
 "Great Potoo",324,221,2
 "grandis",324,221,2
-"Grouse, Pheasants and more",310,5,1
 "Green Pheasant",312,45,2
 "Grey Partridge",312,58,2
 "Sharp-tailed Grouse",312,72,1
@@ -1023,7 +993,6 @@ name,fileindex,index,whichChild
 "Grey Teal",313,136,2
 "gracilis",313,136,2
 "Green Pygmy-goose",313,225,2
-"Grey Geese",316,5,1
 "Greylag Goose",316,11,2
 "Greater White-fronted Goose",316,16,1
 "Grey-legged Tinamou",253,40,2
@@ -1052,10 +1021,8 @@ name,fileindex,index,whichChild
 "greeni",306,15,2
 "greyii",306,45,2
 "gracilis",305,179,2
-"Green-blooded Skink",307,40,2
 "grayi",307,51,2
 "Great Desert Skink",307,59,1
-"Ground Skinks",298,9,2
 "Ground Skink",298,16,1
 "greeri",302,10,2
 "griffini",302,38,1
@@ -1066,13 +1033,11 @@ name,fileindex,index,whichChild
 "Gronovi's Dwarf Burrowing Skink",303,56,1
 "gronovii",303,56,1
 "gracilicauda",298,42,1
-"Grass Lizards",298,115,2
 "Granite Night Lizard",298,152,2
 "grandis",299,36,2
 "Balkan Green Lizard",299,96,2
 "Green Lizard",299,101,1
 "graeca",299,105,2
-"Grass Lizards",308,5,1
 "Greek Algyroides",308,31,2
 "Green Psammodromus",298,195,2
 "griswoldi",309,61,1
@@ -1109,7 +1074,6 @@ name,fileindex,index,whichChild
 "granariensis",320,21,2
 "grayii",318,170,2
 "gracilis",318,203,2
-"Grassland Melomys",266,10,1
 "Grassland Melomys",266,12,1
 "Grassland Melomys",266,13,2
 "Snow Mountains Grassland Melomys",266,14,2
@@ -1121,7 +1085,6 @@ name,fileindex,index,whichChild
 "Gray Spiny Mouse",269,27,2
 "Gray-bellied Mouse",269,121,1
 "granti",269,193,2
-"Groove-toothed Swamp Rats",269,202,1
 "Bell Groove-toothed Swamp Rat",269,206,1
 "Least Groove-toothed Swamp Rat",269,207,2
 "Hopkins's Groove-toothed Swamp Rat",269,208,2
@@ -1132,11 +1095,9 @@ name,fileindex,index,whichChild
 "Gray-bellied Pencil-tailed Tree Mouse",267,181,2
 "Greater Marmoset Rat",267,186,1
 "Gray-bellied Tree Mouse",267,217,1
-"Striped Grass Mice",274,4,1
 "Single-striped Grass Mouse",274,18,2
 "Griselda's Lemniscomys",274,24,2
 "griselda",274,24,2
-"Grass Rats",273,47,2
 "African Grass Rat",273,52,1
 "Somali Grass Rat",273,55,2
 "Nairobi Grass Rat",273,57,1
@@ -1145,7 +1106,6 @@ name,fileindex,index,whichChild
 "Greater Bandicoot Rat",273,73,2
 "grandis",273,104,1
 "Four-striped Grass Mouse",273,113,1
-"Grammomys",263,41,1
 "Grammomys",263,46,1
 "Grammomys",263,47,2
 "Grammomys",263,48,2
@@ -1175,7 +1135,6 @@ name,fileindex,index,whichChild
 "graecus",263,169,2
 "Greater Blind Mole Rat",263,170,2
 "grandis",263,187,2
-"Grass Mice and Akodonts",289,4,1
 "Gray-bellied Grass Mouse",289,18,1
 "Gray-bellied Grass Mouse",289,18,1
 "Chaco Grass Mouse",289,19,2
@@ -1220,7 +1179,6 @@ name,fileindex,index,whichChild
 "Grayish Pygmy Rice Rat",287,35,2
 "griseolus",287,35,2
 "Greater Wilfred's Mouse",287,48,1
-"Graomys",292,43,2
 "Gray Leaf-eared Mouse",292,46,1
 "griseoflavus",292,46,1
 "Graomys",292,46,1
@@ -1229,7 +1187,6 @@ name,fileindex,index,whichChild
 "Graomys",292,49,2
 "grandis",291,41,2
 "gratus",291,105,2
-"Grasshopper Mice",287,155,2
 "Northern Grasshopper Mouse",287,157,1
 "Southern Grasshopper Mouse",287,158,2
 "Mearns's Grasshopper Mouse",287,159,2
@@ -1273,8 +1230,6 @@ name,fileindex,index,whichChild
 "Four-striped Ground Squirrel",278,200,1
 "Niobe Ground Squirrel",278,201,2
 "Indochinese Ground Squirrel",278,215,2
-"Ground Squirrels and more",296,0,2
-"Ground Squirrles",296,6,1
 "Red-cheeked Ground Squirrel",297,17,1
 "Pallid Ground Squirrel",297,18,2
 "Brandt's Ground Squirrel",297,19,2
@@ -1317,14 +1272,12 @@ name,fileindex,index,whichChild
 "Gray-collared Chipmunk",296,73,2
 "Gray-footed Chipmunk",296,82,1
 "Green Bush Squirrel",296,123,2
-"Ground Squirrels",296,171,2
 "Unstriped Ground Squirrel",296,176,1
 "Damara Ground Squirrel",296,177,2
 "Geoffroy's Ground Squirrel",296,178,2
 "South African Ground Squirrel",296,179,2
 "Barbary Ground Squirrel",296,180,2
 "Long-clawed Ground Squirrel",296,181,2
-"Graphiurus",262,2,1
 "Graphiurus",262,10,1
 "Graphiurus",262,11,2
 "Graphiurus",262,12,2
@@ -1345,7 +1298,6 @@ name,fileindex,index,whichChild
 "Grey-cheeked Mangabey",275,57,1
 "Green Monkey",275,126,1
 "Grivet Monkey",275,128,2
-"Gray Langurs",275,146,1
 "Nepal Gray Langur",275,150,1
 "Tarai Gray Langur",275,151,2
 "Northern Plains Gray Langur",275,152,2
@@ -1354,7 +1306,6 @@ name,fileindex,index,whichChild
 "Tufted Gray Langur",275,157,1
 "Kashmir Gray Langur",275,158,2
 "Grey Snub-nosed Monkey",275,165,1
-"Great Apes",295,28,2
 "graellsi",285,74,2
 "Bolivian Gray Titi",285,139,1
 "Gray's Bald-faced Saki",285,180,1
@@ -1449,7 +1400,6 @@ name,fileindex,index,whichChild
 "Grampus",373,31,2
 "Gray's Beaked Whale",371,154,2
 "grayi",371,154,2
-"Great Whales",371,169,2
 "Gray Whale",371,178,2
 "Grevy's Zebra",365,142,2
 "grevyi",365,142,2
@@ -1522,7 +1472,6 @@ name,fileindex,index,whichChild
 "Gray-bellied Shrew Opossum",109,62,1
 "Gray Slender Mouse Opossum",109,80,2
 "Gray-bellied Slender Mouse Opossum",109,95,2
-"Gracilinanus",109,99,2
 "Agile Gracile Mouse Opossum",109,104,1
 "Gracilinanus",109,104,1
 "Gracilinanus",109,105,2

@@ -24,7 +24,6 @@ name,fileindex,index,whichChild
 "Rhinomyias",92,166,2
 "Rhinomyias",92,189,1
 "Rhinomyias",99,78,2
-"Rhabdornithidae",98,70,2
 "Stripe-breasted Rhabdornis",98,72,1
 "Rhabdornis",98,72,1
 "Long-billed Rhabdornis",98,73,2
@@ -34,7 +33,6 @@ name,fileindex,index,whichChild
 "Rhopocichla",85,171,2
 "Rhopophilus",69,57,2
 "Rhamphocoris",107,72,1
-"Rhipiduridae",142,2,1
 "Rhipidura",142,13,1
 "Rhipidura",142,14,2
 "Rhipidura",142,15,2
@@ -79,9 +77,7 @@ name,fileindex,index,whichChild
 "rhipidurus",138,75,1
 "Rhodophoneus",145,56,1
 "Rhagologus",143,58,2
-"Rhinocryptidae",30,81,1
 "Rhinocrypta",30,96,2
-"Rhinocryptidae",30,123,2
 "Rhegmatorhina",31,67,1
 "Rhegmatorhina",31,68,2
 "Rhegmatorhina",31,69,2
@@ -122,12 +118,8 @@ name,fileindex,index,whichChild
 "Rheinardia",147,54,1
 "Rhynchortyx",147,139,1
 "rhynchotis",28,66,1
-"Tinamous, Rheas, Ostrich and more",0,63,2
 "Rhynchotus",0,137,1
 "Rhynchotus",0,138,2
-"Kiwis, Rheas, Ostrich and more",0,157,2
-"Rheas",0,174,2
-"RHEIFORMES",0,174,2
 "Greater Rhea",0,175,1
 "Rhea",0,175,1
 "Lesser Rhea",0,176,2

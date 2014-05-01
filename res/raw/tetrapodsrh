@@ -24,7 +24,6 @@ name,fileindex,index,whichChild
 "Rhinomyias",183,141,2
 "Rhinomyias",183,164,1
 "Rhinomyias",183,205,2
-"Rhabdornithidae",194,70,2
 "Stripe-breasted Rhabdornis",194,72,1
 "Rhabdornis",194,72,1
 "Long-billed Rhabdornis",194,73,2
@@ -34,7 +33,6 @@ name,fileindex,index,whichChild
 "Rhopocichla",163,138,2
 "Rhopophilus",179,58,2
 "Rhamphocoris",173,68,1
-"Rhipiduridae",153,2,1
 "Rhipidura",153,13,1
 "Rhipidura",153,14,2
 "Rhipidura",153,15,2
@@ -79,9 +77,7 @@ name,fileindex,index,whichChild
 "rhipidurus",158,75,1
 "Rhodophoneus",198,55,1
 "Rhagologus",195,96,2
-"Rhinocryptidae",248,1,1
 "Rhinocrypta",248,101,2
-"Rhinocryptidae",229,85,2
 "Rhegmatorhina",245,69,1
 "Rhegmatorhina",245,70,2
 "Rhegmatorhina",245,71,2
@@ -122,12 +118,8 @@ name,fileindex,index,whichChild
 "Rheinardia",310,10,1
 "Rhynchortyx",315,33,1
 "rhynchotis",313,186,1
-"Tinamous, Rheas, Ostrich and more",0,9,2
 "Rhynchotus",253,73,1
 "Rhynchotus",253,74,2
-"Kiwis, Rheas, Ostrich and more",0,10,2
-"Rheas",0,27,2
-"RHEIFORMES",0,27,2
 "Greater Rhea",0,28,1
 "Rhea",0,28,1
 "Lesser Rhea",0,29,2
@@ -174,11 +166,9 @@ name,fileindex,index,whichChild
 "Rhoptropus",319,34,2
 "Rhynchoedura",320,41,2
 "Rhacodactylus",320,55,2
-"Rhabdomys",273,112,2
 "Rhabdomys",273,113,1
 "Rhabdomys",273,114,2
 "rhinogradoides",271,47,2
-"Rhynchomys",264,65,2
 "Northern Luzon Rhynchomys",264,66,1
 "Rhynchomys",264,66,1
 "Isarog Rhynchomys",264,67,2
@@ -188,7 +178,6 @@ name,fileindex,index,whichChild
 "rhoadsi",290,42,1
 "rhabdops",293,51,2
 "Rhagomys",292,50,2
-"Rhipidomys",294,1,1
 "Rhipidomys",294,8,1
 "Rhipidomys",294,9,2
 "Rhipidomys",294,10,2
@@ -205,12 +194,10 @@ name,fileindex,index,whichChild
 "Rhipidomys",294,28,2
 "Rhipidomys",294,30,1
 "Rhipidomys",294,31,2
-"Rheomys",287,86,2
 "Rheomys",287,89,1
 "Rheomys",287,90,2
 "Rheomys",287,91,2
 "Rheomys",287,92,2
-"Rhizomys",281,164,1
 "Rhizomys",281,166,1
 "Rhizomys",281,167,2
 "Rhizomys",281,168,2
@@ -218,12 +205,10 @@ name,fileindex,index,whichChild
 "Rheithrosciurus",279,56,2
 "Rhinosciurus",278,214,1
 "Rhesus Monkey",275,39,2
-"Rhinopithecus",275,162,1
 "Rhinopithecus",275,165,1
 "Rhinopithecus",275,166,2
 "Rhinopithecus",275,167,2
 "Rhinopithecus",275,168,2
-"Rhogeessa",389,151,2
 "Rhogeessa",389,158,1
 "Rhogeessa",389,159,2
 "Rhogeessa",389,160,2
@@ -233,12 +218,10 @@ name,fileindex,index,whichChild
 "Rhogeessa",389,165,2
 "Rhogeessa",389,166,2
 "Rhogeessa",389,167,2
-"Rhinophylla",393,93,2
 "Rhinophylla",393,95,1
 "Rhinophylla",393,96,2
 "Rhinophylla",393,97,2
 "Rhinonicteris",376,87,2
-"Rhinolophidae",376,93,2
 "Rhinolophus",377,13,1
 "Rhinolophus",377,14,2
 "Rhinolophus",377,15,2
@@ -312,7 +295,6 @@ name,fileindex,index,whichChild
 "Rhinolophus",376,122,2
 "Rhinolophus",376,124,1
 "Rhinolophus",376,125,2
-"Rhinopomatidae",365,72,1
 "Rhinopoma",365,75,1
 "Rhinopoma",365,76,2
 "Rhinopoma",365,77,2
@@ -320,9 +302,6 @@ name,fileindex,index,whichChild
 "Rhynchonycteris",400,40,2
 "Rhim",372,119,2
 "Grey Rhebok",371,31,2
-"Rhinoceros",365,119,1
-"Rhinocerotidae",365,119,1
-"Rhinoceros",365,121,1
 "Indian Rhinoceros",365,122,1
 "Rhinoceros",365,122,1
 "Javan Rhinoceros",365,123,2
@@ -332,7 +311,6 @@ name,fileindex,index,whichChild
 "Sumatran Rhinoceros",365,127,2
 "Rhynchogale",381,191,1
 "rhoditis",369,32,1
-"Rhynchocyon",323,110,2
 "Rhynchocyon",323,112,1
 "Rhynchocyon",323,113,2
 "Rhynchocyon",323,114,2
@@ -391,7 +369,6 @@ name,fileindex,index,whichChild
 "rheophilus",23,89,1
 "Rheobatrachus",23,109,1
 "Rheobatrachus",23,110,2
-"RHACOPHORIDAE",2,5,1
 "rhododiscus",9,12,2
 "Rhacophorus",21,10,1
 "Rhacophorus",21,11,2
@@ -480,5 +457,4 @@ name,fileindex,index,whichChild
 "Rhyacotriton",98,106,2
 "Rhyacotriton",98,108,1
 "Rhyacotriton",98,109,2
-"RHINATREMATIDAE",0,151,2
 "Rhinatrema",0,167,2

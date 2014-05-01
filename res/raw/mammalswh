@@ -5,7 +5,6 @@ name,fileindex,index,whichChild
 "White-toothed Mouse",15,25,1
 "Western White-eared Giant Rat",15,70,1
 "Eastern White-eared Giant Rat",15,71,2
-"White-bellied Rats and more",11,74,2
 "Himalayan White-bellied Rat",11,87,2
 "Brahma White-bellied Rat",11,88,2
 "Lang Bian White-bellied Rat",11,91,2
@@ -13,12 +12,10 @@ name,fileindex,index,whichChild
 "Whitehead's Sundaic Maxomys",9,68,1
 "whiteheadi",9,68,1
 "White-tailed Wood Rat",9,109,1
-"White-toothed Rats",19,60,2
 "Kenneth's White-toothed Rat",19,63,1
 "Manipur White-toothed Rat",19,64,2
 "Bower's White-toothed Rat",19,66,2
 "White-bellied Limnomys",17,41,2
-"Whistling Rats",14,43,2
 "Littledale's Whistling Rat",14,44,1
 "Brants's Whistling Rat",14,45,2
 "whiteheadi",8,105,2
@@ -84,14 +81,10 @@ name,fileindex,index,whichChild
 "White-winged Dog-like Bat",71,12,2
 "whiteheadi",45,95,2
 "White-collared Fruit Bat",46,26,2
-"Ungulates, Whales, Dolphins and Porpoises",45,120,1
-"Even-toed Ungulates, Whales, Dolphins and Porpoises",45,121,1
 "White-bellied Duiker",65,32,2
 "White-lipped Deer",63,106,1
 "White-tailed Deer",63,153,1
 "White-spotted Chevrotain",63,207,2
-"Whales, Dolphins and Porpoises",75,1,1
-"Toothed Whales",75,2,1
 "Killer Whale",75,30,2
 "Atlantic White-sided Dolphin",75,35,1
 "White-beaked Dolphin",75,42,1
@@ -103,7 +96,6 @@ name,fileindex,index,whichChild
 "False Killer Whale",75,71,1
 "Pygmy Killer Whale",75,72,2
 "Melon-headed Whale",75,73,2
-"Beaked Whales",75,94,2
 "Gervais' Beaked Whale",75,100,1
 "Baird's Beaked Whale",75,101,2
 "Ginkgo-toothed Beaked Whale",75,102,2
@@ -124,10 +116,8 @@ name,fileindex,index,whichChild
 "Stejneger's Beaked Whale",75,129,2
 "Cuvier's Beaked Whale",75,131,1
 "Hubbs' Beaked Whale",75,132,2
-"Sperm Whales",75,136,2
 "Pygmy Sperm Whale",75,138,1
 "Dwarf Sperm Whale",75,139,2
-"Great Whales",75,141,2
 "Humpback Whale",75,147,1
 "Fin Whale",75,148,2
 "Blue Whale",75,149,2

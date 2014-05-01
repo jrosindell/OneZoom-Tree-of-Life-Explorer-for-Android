@@ -1,9 +1,7 @@
 name,fileindex,index,whichChild
-"Seedeaters and more",125,62,2
 "Plain-coloured Seedeater",125,64,1
 "Paramo Seedeater",125,65,2
 "Band-tailed Seedeater",125,66,2
-"Seedeaters and more",125,121,2
 "Dark-throated Seedeater",127,11,1
 "Rufous-rumped Seedeater",127,12,2
 "Tawny-bellied Seedeater",127,13,2
@@ -256,7 +254,6 @@ name,fileindex,index,whichChild
 "Seychelles Kestrel",222,69,2
 "semitorquatus",222,89,2
 "semitorquatus",114,22,1
-"Seriemas",114,27,2
 "Black-legged Seriema",114,28,1
 "Red-legged Seriema",114,29,2
 "Selenidera",204,13,1
@@ -280,13 +277,11 @@ name,fileindex,index,whichChild
 "semitorques",224,84,2
 "Semiplumbeous Hawk",118,52,2
 "semiplumbeus",118,52,2
-"Fish-eagles and Sea-eagles",115,12,1
 "White-bellied Sea-eagle",115,16,1
 "Sanford's Sea-eagle",115,17,2
 "Steller's Sea-eagle",115,27,2
 "Semicollared Hawk",117,95,1
 "Congo Serpent-eagle",115,72,1
-"Serpent-eagles",115,78,2
 "Philippine Serpent-eagle",115,83,1
 "Sulawesi Serpent-eagle",115,84,2
 "Crested Serpent-eagle",115,85,2
@@ -297,12 +292,10 @@ name,fileindex,index,whichChild
 "Secretarybird",115,172,2
 "serpentarius",115,172,2
 "serranus",212,38,2
-"Sandpipers, Jacanas, Seedsnipes and more",114,116,2
 "semipalmatus",223,59,2
 "semipalmatus",223,80,1
 "Semipalmated Sandpiper",223,109,1
 "semicollaris",114,138,2
-"Seedsnipes",114,140,1
 "Grey-breasted Seedsnipe",114,142,1
 "Least Seedsnipe",114,143,2
 "White-bellied Seedsnipe",114,145,1
@@ -347,13 +340,11 @@ name,fileindex,index,whichChild
 "sewerzowi",312,100,1
 "sephaena",312,165,2
 "See-see Partridge",317,71,1
-"Seaducks",313,6,1
 "serrator",313,17,2
 "semipalmata",310,166,2
 "serrata",96,22,2
 "Serrated Tortoise",97,81,2
 "serpentina",94,164,2
-"Ridley Sea Turtles",94,170,1
 "Senegal Flapshell Turtle",343,48,2
 "senegalensis",343,48,2
 "sextuberculata",0,89,1
@@ -372,15 +363,11 @@ name,fileindex,index,whichChild
 "senegalensis",410,21,2
 "semiremex",407,21,2
 "sepsoides",411,38,1
-"Vipers, Cobras, Sea Snakes, Whip Snakes and more",334,5,1
 "semiannulata",337,37,2
 "Senticolis",335,29,2
 "Seminatrix",335,122,2
 "Seychelles Wolf Snake",335,174,1
 "seychellensis",335,174,1
-"Cobras, Sea Snakes, Water Snakes and more",340,0,2
-"Sea Snakes, Coral Snakes, Cobras and more",340,4,1
-"Sea Snakes",341,4,1
 "Spiny-headed Sea Snake",341,13,1
 "Beaked Sea Snake",341,15,2
 "Rough-scaled Sea Snake",341,17,1
@@ -428,7 +415,6 @@ name,fileindex,index,whichChild
 "Setzer's Mouse-tailed Dormouse",262,49,2
 "setzeri",262,49,2
 "Selevinia",262,51,2
-"Semnopithecus",275,146,1
 "Semnopithecus",275,150,1
 "Semnopithecus",275,151,2
 "Semnopithecus",275,152,2
@@ -484,9 +470,6 @@ name,fileindex,index,whichChild
 "Sea Mink",383,41,2
 "Sea Otter",386,23,2
 "semistriatus",386,42,2
-"Seals, Sea Lions and Walrus",381,35,2
-"Seals, Sea Lions and Walrus",381,35,2
-"Fur Seals",381,38,1
 "Juan Fernandez Fur Seal",381,44,1
 "South American Fur Seal",381,45,2
 "Galapagos Fur Seal",381,47,1
@@ -495,7 +478,6 @@ name,fileindex,index,whichChild
 "Antarctic Fur Seal",381,50,2
 "Subantarctic Fur Seal",381,51,2
 "Afro-Australian Fur Seal",381,52,2
-"Sea Lions",381,54,1
 "New Zealand Sea Lion",381,58,1
 "Australian Sea Lion",381,59,2
 "South American Sea Lion",381,60,2
@@ -504,7 +486,6 @@ name,fileindex,index,whichChild
 "Galapagos Sea Lion",381,65,2
 "Japanese Sea Lion",381,66,2
 "Northern Fur Seal",381,67,2
-"True seals",381,69,2
 "Baikal Seal",381,77,1
 "Ringed Seal",381,78,2
 "Caspian Seal",381,79,2
@@ -543,7 +524,6 @@ name,fileindex,index,whichChild
 "septentrionalis",323,60,1
 "Four-toed Sengi",323,109,2
 "Checkered Sengi",323,114,2
-"Sea cows",323,125,2
 "senegalensis",323,128,1
 "Setonix",110,76,2
 "Seri's Tree Kangaroo",110,95,2
@@ -565,7 +545,6 @@ name,fileindex,index,whichChild
 "serendipitus",82,11,2
 "semipalmata",79,38,2
 "semimarmorata",23,79,2
-"Purple Frog, Seychelles Palm Frog and more",1,28,2
 "Gardiner's Seychelles frog",1,31,1
 "Seychelles palm frog",1,34,1
 "sechellensis",1,35,2

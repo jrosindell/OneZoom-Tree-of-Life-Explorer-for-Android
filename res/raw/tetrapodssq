@@ -37,24 +37,17 @@ name,fileindex,index,whichChild
 "squamatus",317,23,2
 "squamata",315,53,2
 "squamatus",313,15,1
-"Squamates",0,115,2
 "squamulosus",341,57,2
 "squamigera",339,67,1
 "squamosus",334,154,2
 "squarrosus",320,31,2
 "squamipes",294,39,1
-"Scaly-tailed Squirrels",254,10,1
 "Dwarf Scaly-tailed Squirrel",254,13,1
 "Derby's Flying Squirrel",254,14,2
 "Beecroft's Flying Squirrel",254,16,1
 "Pel's Flying Squirrel",254,17,2
 "Pygmy Scaly-tailed Flying Squirrel",254,20,1
 "Long-eared Flying Squirrel",254,21,2
-"Dormice, Squirrels and more",254,60,2
-"Squirrels, Chipmunks and more",254,62,1
-"Pygmy Squirrels, Giant Squirrels and more",278,0,1
-"Pygmy Squirrels, Giant Squirrels and more",278,0,1
-"Flying Squirrels",278,6,1
 "Travancore Flying Squirrel",278,15,1
 "Temminck's Flying Squirrel",278,16,2
 "Siberut Flying Squirrel",278,17,2
@@ -68,7 +61,6 @@ name,fileindex,index,whichChild
 "Palawan Flying Squirrel",278,32,2
 "Indochinese Flying Squirrel",278,34,1
 "Red-cheeked Flying Squirrel",278,36,2
-"Pygmy Flying Squirrels",278,37,2
 "Selangor Pygmy Flying Squirrel",278,39,1
 "Hose's Pygmy Flying Squirrel",278,40,2
 "Lesser Pygmy Flying Squirrel",278,41,2
@@ -81,7 +73,6 @@ name,fileindex,index,whichChild
 "Mexican Flying Squirrel",278,54,2
 "Javanese Flying Squirrel",278,56,1
 "Mentawi Flying Squirrel",278,57,2
-"Giant Flying Squirrels",278,60,1
 "Red And White Giant Flying Squirrel",278,66,1
 "Bhutan Giant Flying Squirrel",278,67,2
 "Hodgson's Giant Flying Squirrel",278,68,2
@@ -127,7 +118,6 @@ name,fileindex,index,whichChild
 "Mexican Fox Squirrel",279,54,2
 "Deppe's Squirrel",279,55,2
 "Tufted Ground Squirrel",279,56,2
-"Dwarf Squirrels",279,58,1
 "Amazon Dwarf Squirrel",279,61,1
 "Western Dwarf Squirrel",279,62,2
 "Santander Dwarf Squirrel",279,63,2
@@ -136,12 +126,10 @@ name,fileindex,index,whichChild
 "Douglas's Squirrel",279,68,1
 "Red Squirrel",279,69,2
 "Mearns's Squirrel",279,70,2
-"Giant Squirrels",278,93,2
 "Black Giant Squirrel",278,96,1
 "Pale Giant Squirrel",278,97,2
 "Indian Giant Squirrel",278,98,2
 "Grizzled Giant Squirrel",278,99,2
-"Dwarf Squirrels and more",278,102,1
 "Secretive Dwarf Squirrel",278,105,1
 "Weber's Dwarf Squirrel",278,106,2
 "Whitish Dwarf Squirrel",278,108,1
@@ -165,18 +153,15 @@ name,fileindex,index,whichChild
 "Northern Palawan Tree Squirrel",278,143,2
 "Culion Tree Squirrel",278,144,2
 "Samar Squirrel",278,145,2
-"Red-cheeked Squirrel",278,148,1
 "Bornean Mountain Ground Squirrel",278,151,1
 "Orange-bellied Himalayan Squirrel",278,152,2
 "Asian Red-cheeked Squirrel",278,154,1
 "Perny's Long-nosed Squirrel",278,155,2
 "Red-hipped Squirrel",278,157,1
 "Red-throated Squirrel",278,158,2
-"Asiatic Striped Squirrels",278,159,2
 "Cambodian Striped Squirrel",278,162,1
 "Maritime Striped Squirrel",278,163,2
 "Swinhoe's Striped Squirrel",278,165,2
-"Pygmy Squirrels",278,166,2
 "Tufted Pygmy Squirrel",278,168,1
 "Least Pygmy Squirrel",278,169,2
 "Philippine Pygmy Squirrel",278,170,2
@@ -207,8 +192,6 @@ name,fileindex,index,whichChild
 "Black-striped Squirrel",278,219,1
 "Hoary-bellied Squirrel",278,220,2
 "Kloss's Squirrel",278,221,2
-"Ground Squirrels and more",296,0,2
-"Ground Squirrles",296,6,1
 "Red-cheeked Ground Squirrel",297,17,1
 "Pallid Ground Squirrel",297,18,2
 "Brandt's Ground Squirrel",297,19,2
@@ -250,12 +233,10 @@ name,fileindex,index,whichChild
 "Nevada Ground Squirrel",296,10,2
 "Golden Mantled Ground Squirrel",296,12,1
 "Rock Squirrel",296,13,2
-"Antelope Squirrels",296,51,2
 "White-tailed Antelope Sqirrel",296,54,1
 "Texas Antelope Squirrel",296,55,2
 "Harris's Antelope Squirrel",296,57,1
 "Nelson's Antelope Squirrel",296,58,2
-"African Bush Squirrels",296,113,1
 "Vincent's Bush Squirrel",296,118,1
 "Red Bush Squirrel",296,119,2
 "Cooper's Mountain Squirrel",296,120,2
@@ -267,7 +248,6 @@ name,fileindex,index,whichChild
 "Striped Bush Squirrel",296,131,1
 "Ochre Bush Squirrel",296,132,2
 "Svynnerton's Bush Squirrel",296,133,2
-"African Striped Squirrels",296,134,2
 "Orange Headed Tree Squirrel",296,138,1
 "Lady Burton's Rope Squirrel",296,139,2
 "Kintampo Rope Squirrel",296,140,2
@@ -280,7 +260,6 @@ name,fileindex,index,whichChild
 "Slender-tailed Squirrel",296,153,1
 "African Giant Squirrel",296,154,2
 "Western Palm Squirrel",296,155,2
-"Sun Squirrels",296,156,2
 "Red-legged Sun Squirrel",296,160,1
 "Small Sun Squirrel",296,161,2
 "Gambian Sun Squirrel",296,162,2
@@ -288,10 +267,8 @@ name,fileindex,index,whichChild
 "Ruwenzori Sun Squirrel",296,165,1
 "Zanj Sun Squirrel",296,166,2
 "African Pygmy Squirrel",296,167,2
-"Rock Squirrels",296,168,2
 "Pere David's Rock Squirrel",296,169,1
 "Forrest's Rock Squirrel",296,170,2
-"Ground Squirrels",296,171,2
 "Unstriped Ground Squirrel",296,176,1
 "Damara Ground Squirrel",296,177,2
 "Geoffroy's Ground Squirrel",296,178,2
@@ -299,7 +276,6 @@ name,fileindex,index,whichChild
 "Barbary Ground Squirrel",296,180,2
 "Long-clawed Ground Squirrel",296,181,2
 "Neotropical Pygmy Squirrel",254,64,2
-"Squirrel Monkeys",285,101,2
 "Golden-backed Squirrel Monkey",285,104,1
 "Common Squirrel Monkey",285,105,2
 "Black-crowned Central American Squirrel Monkey",285,106,2

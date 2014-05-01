@@ -19,8 +19,6 @@ name,fileindex,index,whichChild
 "Greater Swamp-warbler",83,37,1
 "Madagascar Swamp-warbler",83,40,1
 "Swamp Greenbul",70,65,1
-"Swallows and martins",65,168,2
-"Swallows",71,2,1
 "Ethiopian Swallow",71,14,1
 "Red-chested Swallow",71,15,2
 "Angola Swallow",71,16,2
@@ -51,7 +49,6 @@ name,fileindex,index,whichChild
 "Striated Swallow",71,71,2
 "White-backed Swallow",71,89,1
 "Grey-rumped Swallow",71,90,2
-"Swallows",84,1,1
 "Northern Rough-winged Swallow",84,22,1
 "Southern Rough-winged Swallow",84,23,2
 "Brown-bellied Swallow",84,29,1
@@ -94,14 +91,10 @@ name,fileindex,index,whichChild
 "Swinhoe's Snipe",21,11,1
 "Swinhoe's Storm-petrel",12,147,2
 "Swinhoe's Rail",16,25,1
-"Swamphen, Gallinules and Takane",16,48,2
 "Purple Swamphen",16,51,1
 "Swallow-tailed Hummingbird",155,13,1
 "swainsonii",155,99,1
 "Sword-billed Hummingbird",160,155,1
-"Swifts and Treeswifts",152,15,2
-"Swifts",153,0,1
-"Swiftlets",153,4,1
 "Edible-nest Swiftlet",153,12,1
 "Mossy-nest Swiftlet",153,13,2
 "Seychelles Swiftlet",153,15,1
@@ -156,8 +149,6 @@ name,fileindex,index,whichChild
 "African Black Swift",153,108,2
 "Mottled Swift",153,110,1
 "Alpine Swift",153,111,2
-"Swallow-tailed swifts",153,113,1
-"Swallow-tailed swifts",153,113,1
 "Great Swallow-tailed Swift",153,114,1
 "Great Swallow-tailed Swift",153,114,1
 "Lesser Swallow-tailed Swift",153,115,2
@@ -199,9 +190,7 @@ name,fileindex,index,whichChild
 "swainsonii",148,27,2
 "Swierstra's Francolin",148,40,2
 "swierstrai",148,40,2
-"Ducks, Geese and Swans",27,2,1
 "Swan Goose",27,158,1
-"True Swans",27,182,2
 "Tundra Swan",27,186,1
 "Whooper Swan",27,187,2
 "Trumpeter Swan",27,188,2

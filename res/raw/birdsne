@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"NEOGNATHAE",0,1,1
 "Nephelornis",51,29,2
 "Nemosia",44,12,1
 "Nemosia",44,13,2
@@ -8,17 +7,12 @@ name,fileindex,index,whichChild
 "Nesospiza",54,174,2
 "Nesospiza",54,175,2
 "Nesospingus",54,177,2
-"New World Warblers, Buntings, American Sparrows and more",47,0,1
 "Nelson's Sparrow",48,73,2
 "nelsoni",48,73,2
-"New World blackbirds",60,0,2
 "Nesopsar",60,49,2
 "neglecta",60,195,1
-"New World warblers, Buntings, American Sparrows and more",57,0,2
-"New World warblers",57,1,1
 "Neotropical River Warbler",57,74,1
 "nelsoni",57,106,2
-"New World warblers",57,175,2
 "nemoricola",59,18,2
 "Neospiza",59,63,1
 "New Ireland Munia",104,30,2
@@ -37,7 +31,6 @@ name,fileindex,index,whichChild
 "Chestnut-breasted Negrofinch",106,59,2
 "Nelicourvi Weaver",102,123,2
 "nelicourvi",102,123,2
-"Nectariniidae",62,2,1
 "Nectarinia",62,14,1
 "Nectarinia",62,15,2
 "Nectarinia",62,16,2
@@ -127,7 +120,6 @@ name,fileindex,index,whichChild
 "Nectarinia",64,70,2
 "neglectus",62,102,1
 "nehrkorni",63,41,2
-"Nectariniidae",62,175,2
 "Nesocichla",90,49,2
 "New Britain Thrush",89,142,2
 "Neocossyphus",87,51,2
@@ -170,8 +162,6 @@ name,fileindex,index,whichChild
 "newtoni",137,193,2
 "nelsoni",139,26,2
 "New Caledonian Whistler",134,54,2
-"Neosittidae",132,66,2
-"Vangas and Newtonias",135,3,1
 "Red-tailed Newtonia",135,11,1
 "Newtonia",135,11,1
 "Dark Newtonia",135,12,2
@@ -199,7 +189,6 @@ name,fileindex,index,whichChild
 "Neblina Tapaculo",34,72,2
 "Neoctantes",30,155,2
 "Neoxolmis",123,14,1
-"Negritos",123,99,2
 "Patagonian Negrito",123,100,1
 "Andean Negrito",123,101,2
 "nengeta",125,53,2
@@ -212,7 +201,6 @@ name,fileindex,index,whichChild
 "Neopelma",121,189,2
 "Neodrepanis",120,97,1
 "Neodrepanis",120,98,2
-"New Zealand wrens",29,84,2
 "Neopsittacus",109,8,1
 "Neopsittacus",109,9,2
 "New Caledonian Lorikeet",109,38,2
@@ -225,7 +213,6 @@ name,fileindex,index,whichChild
 "Neophema",109,180,2
 "Neopsephotus",109,181,2
 "nenday",117,24,2
-"New Zealand Parrots",29,97,2
 "Nestor",29,99,1
 "Nestor",29,100,2
 "New Zealand Falcon",111,23,1
@@ -242,7 +229,6 @@ name,fileindex,index,whichChild
 "New Guinea Eagle",162,119,2
 "Necrosyrtes",162,168,2
 "Neophron",181,43,1
-"New World vultures",161,155,2
 "nereis",25,64,2
 "nemoricola",21,29,2
 "New Zealand Snipe",21,37,1
@@ -285,19 +271,16 @@ name,fileindex,index,whichChild
 "New Zealand Grebe",2,29,2
 "Neblina Metaltail",160,16,2
 "Needle-billed Hermit",154,22,1
-"Needletails",153,130,2
 "Silver-backed Needletail",153,133,1
 "White-throated Needletail",153,134,2
 "Brown-backed Needletail",153,135,2
 "Purple Needletail",153,136,2
-"Needletails",153,161,2
 "Papuan Needletail",153,162,1
 "Philippine Needletail",153,163,2
 "Neafrapus",153,171,1
 "Neafrapus",153,172,2
 "New Caledonian Owlet-nightjar",152,39,2
 "Nechisar Nightjar",152,157,2
-"New World quails",147,105,1
 "New Guinea Megapode",183,10,1
 "Neochen",27,66,2
 "New Zealand Scaup",27,104,2
@@ -305,7 +288,6 @@ name,fileindex,index,whichChild
 "Netta",27,108,2
 "Netta",27,109,2
 "nesiotis",28,12,2
-"NETTAPUS",27,128,1
 "Nettapus",27,130,1
 "Nettapus",27,131,2
 "Nettapus",27,132,2

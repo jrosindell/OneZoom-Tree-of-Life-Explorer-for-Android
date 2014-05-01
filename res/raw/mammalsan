@@ -1,17 +1,13 @@
 name,fileindex,index,whichChild
-"Hamsters, Gerbils, True Mice, Rats and more",2,4,1
 "anak",13,72,2
 "Anisomys",15,34,2
-"Brush-furred Rats and more",11,45,2
 "ansorgei",11,64,2
-"White-bellied Rats and more",11,74,2
 "Anderson's Niviventer",11,85,2
 "andersoni",11,85,2
 "andamanensis",10,33,2
 "Andaman Rat",10,49,2
 "Annandale's Sundaic Rat",9,14,2
 "annandalei",9,14,2
-"Shaggy Rats and Marsh Rats",9,25,1
 "Angolan Marsh Rat",9,31,2
 "Andrew's Bunomys",9,188,2
 "andrewsi",9,188,2
@@ -25,16 +21,9 @@ name,fileindex,index,whichChild
 "angoniensis",14,19,2
 "Angolan Vlei Rat",14,39,2
 "anchietae",14,39,2
-"Gerbils, Jirds and Sand Rats",8,143,1
 "Anderson's Gerbil",16,77,1
 "andersoni",16,77,1
-"Gerbils, Jirds and Sand Rats",12,0,2
-"Gerbils, Jirds and Sand Rats",12,5,1
-"Pouched Mice and Pouched Rats",8,161,1
 "ansorgei",8,169,2
-"Blind Mole Rats, Mouse-like Hamsters and more",2,8,2
-"Blind Mole Rats and more",2,11,1
-"Grass Mice and Akodonts",23,4,1
 "Andean Akodont",23,96,2
 "andinus",23,96,2
 "Andean Swamp Rat",23,97,2
@@ -45,72 +34,41 @@ name,fileindex,index,whichChild
 "Angular Hocicudo",23,165,1
 "angularis",23,165,1
 "Andean Gerbil Mouse",23,197,2
-"Rice Rats and more",27,4,1
 "angouya",27,59,2
-"Rice Rats and more",27,82,2
-"Pygmy Rice Rats and more",21,12,1
 "Andean Pygmy Rice Rat",21,20,2
 "andinus",21,20,2
-"Leaf-eared Mice and more",26,3,1
 "Andean Leaf-eared Mouse",26,20,2
 "andium",26,20,2
 "Andean Big-eared Mouse",26,38,1
-"Andalgalomys",26,40,2
 "Andalgalomys",26,41,1
 "Andalgalomys",26,42,2
 "Andean Long-clawed Mouse",26,71,2
 "Anotomys",21,102,2
-"Deer Mice, Harvest Mice, Woodrats and more",21,150,2
-"Deer Mice and more",25,0,1
 "Angel Island Mouse",25,106,2
-"Woodrats and more",21,211,2
 "angustapalata",22,25,2
 "Anthony's Woodrat",22,35,2
 "anthonyi",22,35,2
 "Nelson And Coldman's Woodrat",21,213,1
-"Voles, Lemmings and Muskrats",4,3,1
-"Muskrat and Voles",6,1,1
 "Anderson's Red-backed Vole",7,30,1
 "andersoni",7,30,1
 "antimena",4,98,2
 "annectens",4,153,2
 "ankoliae",4,161,1
-"Jerboas, Jumping Mice and Birch Mice",2,48,2
-"Jumping Mice and Birch Mice",3,5,1
 "Andrews's Three-toed Jerboa",3,62,2
 "andrewsi",3,62,2
-"ANOMALUROMORPHA",2,72,2
-"Anomaluridae",2,73,1
-"Anomalurus",2,74,1
 "Anomalurus",2,76,1
 "Anomalurus",2,77,2
 "Anomalurus",2,79,1
 "Anomalurus",2,80,2
-"Beavers, Pocket Gophers and more",2,89,2
-"Pocket Gophers and more",2,91,1
 "anomalus",20,19,2
 "Animas Mountains Pocket Gopher",2,116,2
-"Degus, Porcupines, Chinchillas and more",2,126,2
-"Spiny Rats, Tree Rats and more",29,5,1
-"Bamboo Rats and Olalla Rats",29,74,1
 "angelcabrerai",29,119,1
-"Guinea Pigs and Cavys",29,153,2
 "Andean Mountain Cavy",29,160,2
-"Chinchillas, Viscachas and more",29,199,2
-"Agoutis, Porcupines and more",33,0,2
-"Rock Rats, Viscacha Rats and more",2,146,2
-"Gundis and Degus",2,159,2
-"Dormice, Squirrels and more",77,0,2
-"Squirrels, Chipmunks and more",77,2,1
-"Pygmy Squirrels, Giant Squirrels and more",77,4,1
 "Red And White Giant Flying Squirrel",77,19,1
 "anomalus",82,48,2
 "Andean Squirrel",82,53,2
-"Dwarf Squirrels and more",77,55,1
 "Anderson's Squirrel",77,91,2
-"Ground Squirrels and more",77,120,2
 "annulatus",79,76,2
-"Antelope Squirrels",79,120,2
 "White-tailed Antelope Sqirrel",79,123,1
 "Texas Antelope Squirrel",79,124,2
 "Harris's Antelope Squirrel",79,126,1
@@ -118,33 +76,22 @@ name,fileindex,index,whichChild
 "Black And Red Bush Squirrel",81,17,1
 "anerythrus",81,41,2
 "angolensis",77,151,2
-"Rabbits and Hares",76,1,1
-"Hares and Jackrabbits",76,7,1
 "Antelope Jackrabbit",76,42,2
-"Primates, Flying Lemurs and Treeshrews",35,0,2
-"Mangabeys, Baboons and more",35,48,2
 "anubis",35,56,2
-"Langurs, Surilis and more",40,1,1
 "Angola Colobus",40,111,2
 "angolensis",40,111,2
-"Apes and Humans",37,0,2
 "Andean Night Monkey",38,83,2
 "Andean Titi Monkey",42,24,2
-"Saki and more",42,43,2
 "Ankarana Sportive Lemur",36,43,2
 "ankaranensis",36,43,2
-"Dwarf Lemurs and Mouse Lemurs",35,118,1
 "Calabar Angwantibo",39,48,1
 "Golden Angwantibo",39,49,2
 "Anathana",35,186,2
-"Carnivorans, Bats, Hedgehogs and more",0,8,2
-"Woolly Bats and more",53,7,1
 "Angolan Long-eared Bats",55,29,1
 "angolensis",55,29,1
 "angulatus",54,17,1
 "anthonyi",56,63,2
 "Antrozous",53,213,2
-"Mouse-eared Bats and more",73,3,1
 "annectans",74,52,1
 "Angolan Hairy Bat",73,28,2
 "Anjouan Myotis",73,70,2
@@ -154,22 +101,17 @@ name,fileindex,index,whichChild
 "ansorgei",62,89,2
 "Andersen's Fruit-eating Bat",67,38,2
 "anderseni",67,38,2
-"Anoura",69,17,2
 "Anoura",69,20,1
 "Anoura",69,21,2
 "Anoura",69,22,2
 "Anoura",69,23,2
 "Antillean Fruit-eating Bat",67,126,1
-"Big-eared Bats and more",67,130,1
-"Mustached Bats and more",67,208,2
 "Antillean Ghost-faced Bat",67,221,1
 "Andersen's Leaf-nosed Bat",58,45,2
 "Anthops",58,78,2
 "Anamban Horseshoe Bat",60,27,2
 "Andaman Horseshoe Bat",58,118,2
 "Andersen's Slit-faced Bat",58,144,1
-"Sac-winged Bats, Sheath-tailed Bats and more",71,0,2
-"Tomb Bats and more",71,63,1
 "Andersen's Flying Fox",57,25,1
 "anetianus",57,96,1
 "anceps",57,138,2
@@ -181,43 +123,30 @@ name,fileindex,index,whichChild
 "anchietae",70,40,2
 "Angolan Fruit Bat",70,68,2
 "angolensis",70,68,2
-"Ungulates, Whales, Dolphins and Porpoises",45,120,1
-"Ungulata and Cetacea",45,120,1
-"Even-toed Ungulates, Whales, Dolphins and Porpoises",45,121,1
 "Roan Antelope",64,100,1
 "Sable Antelope",64,101,2
 "Antilope",66,32,2
 "Antidorcas",66,33,2
 "Bates' Pygmy Antelope",65,38,2
 "Royal Antelope",63,39,2
-"Cows, Bison, Ox and more",63,40,2
 "angasii",63,57,2
 "Four-horned Antelope",63,60,1
 "Mountain Anoa",63,79,1
 "Anoa",63,80,2
-"Deer, Moose and more",63,86,1
 "antisensis",63,159,2
 "Anhui Musk Deer",63,186,2
 "anhuiensis",63,186,2
 "Antilocapra",63,192,2
-"Whales, Dolphins and Porpoises",75,1,1
 "Andrew's Beaked Whale",75,104,1
 "Antarctic Minke Whale",75,155,1
-"Weasels, Stoats and more",49,2,1
 "anakuma",49,79,1
 "angustifrons",52,34,2
-"Raccoons, Olingos and more",47,7,2
-"Seals, Sea Lions and Walrus",47,35,2
 "Antarctic Fur Seal",47,50,2
 "angustirostris",47,99,1
 "Andean Bear",47,117,2
-"Wolves, Foxes and more",47,119,2
-"Mongooses and more",47,188,1
 "Ansorge's Cusimanse",50,14,2
 "ansorgei",50,14,2
-"Civets, Linsangs and Genets",51,1,1
 "angolensis",51,14,2
-"Lynx and more",48,21,2
 "Andean mountain cat",48,41,2
 "Ansell's Shrew",88,19,2
 "ansellorum",88,19,2
@@ -226,31 +155,20 @@ name,fileindex,index,whichChild
 "andamanensis",88,189,1
 "Anderson's Shrew",87,32,2
 "antinorii",86,15,1
-"Small-eared shrews and more",92,1,1
 "anomalus",91,41,1
-"Anourosorex",91,45,2
 "Anourosorex",91,48,1
 "Anourosorex",91,49,2
 "Anourosorex",91,50,2
 "Anourosorex",91,51,2
-"Hedgehogs and Gymnuras",85,48,2
-"Moles and Desmans",85,91,2
 "Anderson's Shrew Mole",85,166,1
 "andersoni",85,166,1
-"Armadillos, Anteaters and Sloths",0,9,2
-"Armadillos, Anteaters and Sloths",0,9,2
 "Andean Hairy Armadillo",0,30,2
-"Anteaters",0,59,2
 "Collared Anteater",0,62,1
 "Giant Anteater",0,64,2
 "Pygmy Anteater",0,65,2
-"Elephants, Elephant shrews and more",0,66,2
 "Black And Rufous Elephant Shrew",0,96,2
-"Kangaroos, Wallabys and more",43,3,1
 "Antilopine Wallaroo",43,69,1
 "antilopinus",43,69,1
-"Possums, Cuscuses, Trioks and Gliders",43,132,2
-"Antechinus",84,47,1
 "Yellow-footed Antechinus",84,52,1
 "Antechinus",84,52,1
 "Fawn Antechinus",84,53,2
@@ -268,7 +186,6 @@ name,fileindex,index,whichChild
 "Swamp Antechinus",84,61,2
 "Antechinus",84,61,2
 "Antechinomys",84,117,2
-"Bandicoots and Bilbies",0,124,2
 "Andean Slender Mouse Opossum",1,16,1
 "Anderson's Four-eyed Opossum",1,84,2
 "andersoni",1,84,2

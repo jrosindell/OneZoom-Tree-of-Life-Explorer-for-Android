@@ -6,7 +6,6 @@ name,fileindex,index,whichChild
 "Isabel Giant Rat",15,42,2
 "Florida Giant Rat",15,43,2
 "Poncelet's Giant Rat",15,45,1
-"Giant Rats",15,68,2
 "Western White-eared Giant Rat",15,70,1
 "Eastern White-eared Giant Rat",15,71,2
 "Rock-dwelling Giant Rat",15,72,2
@@ -16,14 +15,11 @@ name,fileindex,index,whichChild
 "gigas",8,41,2
 "Long-tailed Giant Rat",18,50,2
 "Giant Sulawesi Rat",18,56,2
-"Giant Pouched Rats",8,163,1
 "Forest Giant Pouched Rat",8,165,1
 "Giant Blind Mole Rat",2,18,2
 "giganteus",2,18,2
-"Giant Rats",26,61,2
 "Woolly Giant Rat",26,62,1
 "Fossorial Giant Rat",26,63,2
-"Giant Deer Mice",25,126,2
 "Oaxaca Giant Deer Mouse",25,128,1
 "Thomas's Giant Deer Mouse",25,129,2
 "Nelson's Giant Deer Mouse",25,130,2
@@ -31,8 +27,6 @@ name,fileindex,index,whichChild
 "Giant Pocket Gopher",20,55,2
 "Giant Kangaroo Rat",31,82,2
 "Giant Atlantic Tree Rat",30,25,1
-"Pygmy Squirrels, Giant Squirrels and more",77,4,1
-"Giant Flying Squirrels",77,13,1
 "Red And White Giant Flying Squirrel",77,19,1
 "Bhutan Giant Flying Squirrel",77,20,2
 "Hodgson's Giant Flying Squirrel",77,21,2
@@ -41,14 +35,12 @@ name,fileindex,index,whichChild
 "Chinese Giant Flying Squirrel",77,26,2
 "Japanese Giant Flying Squirrel",77,27,2
 "gilvigularis",82,52,2
-"Giant Squirrels",77,46,2
 "Black Giant Squirrel",77,49,1
 "Pale Giant Squirrel",77,50,2
 "Indian Giant Squirrel",77,51,2
 "Grizzled Giant Squirrel",77,52,2
 "Sulawesi Giant Squirrel",77,64,2
 "African Giant Squirrel",81,45,2
-"Gibbons",37,1,1
 "Bornean White-bearded Gibbon",37,9,1
 "Agile Gibbon",37,10,2
 "Lar Gibbon",37,11,2
@@ -73,7 +65,6 @@ name,fileindex,index,whichChild
 "giganteus",57,28,1
 "Gilliard's Flying Fox",57,88,2
 "gilliardorum",57,88,2
-"Giraffidae",63,189,1
 "Giraffe",63,190,1
 "Giraffa",63,190,1
 "Ginkgo-toothed Beaked Whale",75,102,2

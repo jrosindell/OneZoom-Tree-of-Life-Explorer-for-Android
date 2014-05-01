@@ -1,7 +1,4 @@
 name,fileindex,index,whichChild
-"Owls, Barn Owls",224,0,2
-"Owls, Barn Owls",224,0,2
-"Owls",224,1,1
 "Great Horned Owl",225,29,2
 "Lesser Horned Owl",225,30,2
 "Snowy Owl",225,33,2
@@ -40,8 +37,6 @@ name,fileindex,index,whichChild
 "Japanese Scops Owl",224,84,2
 "Sunda Scops Owl",224,89,2
 "Collared Scops Owl",224,90,2
-"Owlets and Pigmy owls",226,0,1
-"Owlets and Pigmy owls",226,0,1
 "Northern Pygmy Owl",226,23,1
 "Pearl-spotted Owlet",226,28,1
 "Javan Owlet",226,31,1
@@ -59,7 +54,6 @@ name,fileindex,index,whichChild
 "Little Owl",224,112,2
 "Burrowing Owl",224,113,2
 "Forest Owlet",224,114,2
-"Saw-whet owls",224,117,1
 "Southern Saw-whet Owl",224,118,1
 "Northern Saw-whet Owl",224,119,2
 "Buff-fronted Owl",224,120,2
@@ -69,7 +63,6 @@ name,fileindex,index,whichChild
 "Powerful Owl",224,155,2
 "Rufous Owl",224,158,2
 "Long-whiskered Owlet",224,168,1
-"Barn owls",224,170,2
 "Sooty Owl",224,180,2
 "Sulawesi Golden Owl",224,182,1
 "Ashy-faced Owl",224,187,1
@@ -77,7 +70,6 @@ name,fileindex,index,whichChild
 "Sulawesi Owl",224,192,2
 "Madagascar Red Owl",224,194,1
 "owstoni",362,10,2
-"Owlet-nightjars",324,52,2
 "Australian Owlet-nightjar",324,56,1
 "Barred Owlet-nightjar",324,57,2
 "Long-whiskered Owlet-nightjar",324,58,2

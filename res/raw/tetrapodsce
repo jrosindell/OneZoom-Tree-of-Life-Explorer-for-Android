@@ -22,7 +22,6 @@ name,fileindex,index,whichChild
 "celaenops",188,35,2
 "celebensis",194,60,2
 "cerverai",190,51,2
-"Certhiidae",181,123,1
 "Certhia",181,127,1
 "Certhia",181,128,2
 "Certhia",181,130,1
@@ -176,7 +175,6 @@ name,fileindex,index,whichChild
 "celebensis",329,135,2
 "centralasicus",324,183,1
 "celebensis",324,203,2
-"CENTROCERCUS",312,78,2
 "Centrocercus",312,79,1
 "Centrocercus",312,80,2
 "Cereopsis",316,46,1
@@ -245,7 +243,6 @@ name,fileindex,index,whichChild
 "Central American Dwarf Squirrel",279,64,2
 "Celebes Dwarf Squirrel",278,110,2
 "cepapi",296,128,2
-"Cercopithecoidea",275,0,1
 "Celebes Crested Macaque",275,10,1
 "Cercocebus",275,63,1
 "Cercocebus",275,64,2
@@ -278,7 +275,6 @@ name,fileindex,index,whichChild
 "Cercopithecus",275,134,1
 "Cercopithecus",275,135,2
 "Cercopithecus",275,136,2
-"Cebus",285,88,1
 "Cebus",285,92,1
 "Cebus",285,93,2
 "Cebus",285,94,2
@@ -294,7 +290,6 @@ name,fileindex,index,whichChild
 "Centurio",393,59,2
 "cervinus",376,35,1
 "celebensis",376,110,1
-"Centronycteris",400,19,1
 "centralis",400,20,1
 "Centronycteris",400,20,1
 "Centronycteris",400,21,2
@@ -303,10 +298,7 @@ name,fileindex,index,whichChild
 "celebensis",399,58,2
 "cephalotes",387,59,1
 "certans",387,72,2
-"Ungulata and Cetacea",365,107,1
-"Cetartiodactyla",365,108,1
 "cervicapra",372,140,2
-"Cephalophus",372,155,1
 "Cephalophus",372,162,1
 "Cephalophus",372,163,2
 "Cephalophus",372,164,2
@@ -322,13 +314,10 @@ name,fileindex,index,whichChild
 "Cephalophus",372,181,2
 "Cephalophus",372,182,2
 "Cephalophus",372,183,2
-"Cervidae",371,83,1
 "Cervus",374,10,2
 "Cervus",374,14,2
 "cephalophus",374,44,2
 "Central American Red Brocket",375,10,1
-"CETACEA",371,118,1
-"Cephalorhynchus",373,43,1
 "Cephalorhynchus",373,46,1
 "Cephalorhynchus",373,47,2
 "Cephalorhynchus",373,48,2
@@ -345,7 +334,6 @@ name,fileindex,index,whichChild
 "Central Mexican Broad-clawed Shrew",397,114,2
 "centralis",333,8,1
 "celebensis",112,81,1
-"Cercartetus",112,105,1
 "Cercartetus",112,108,1
 "Cercartetus",112,109,2
 "Cercartetus",112,110,2
@@ -357,7 +345,6 @@ name,fileindex,index,whichChild
 "cevallosi",43,125,1
 "cepedai",68,25,2
 "cedrensis",69,52,2
-"CERATOPHRYIDAE",38,77,2
 "ceiorum",42,67,2
 "Ceratophrys",52,7,1
 "Ceratophrys",52,8,2
@@ -370,7 +357,6 @@ name,fileindex,index,whichChild
 "ceii",52,31,2
 "ceratophryes",38,123,1
 "centralis",51,61,2
-"CENTROLENIDAE",38,136,2
 "Centrolene",50,14,1
 "Centrolene",50,15,2
 "Centrolene",50,16,2
@@ -429,7 +415,6 @@ name,fileindex,index,whichChild
 "celebensis",14,20,1
 "ceylonensis",11,21,1
 "celebensis",5,15,1
-"CERATOBATRACHIDAE",92,0,2
 "Ceratobatrachus",92,127,2
 "Central Grassland Frog",90,13,1
 "celebensis",28,37,1

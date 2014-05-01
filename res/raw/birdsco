@@ -1,8 +1,6 @@
 name,fileindex,index,whichChild
-"Tanagers, Conebills, Warbling-finches and more",44,8,1
 "Coal-crested Finch",50,50,2
 "columbiana",50,79,1
-"Conebills",50,102,2
 "Rufous-browed Conebill",50,107,1
 "Conirostrum",50,107,1
 "Capped Conebill",50,108,2
@@ -221,10 +219,7 @@ name,fileindex,index,whichChild
 "coelestis",133,170,1
 "comrii",144,74,2
 "cockerelli",142,50,1
-"Corcoracidae",142,86,2
 "Corcorax",142,87,1
-"Corvids",137,2,1
-"Corvidae",137,2,1
 "Corvus",138,11,1
 "Common Raven",138,12,2
 "corax",138,12,2
@@ -277,9 +272,7 @@ name,fileindex,index,whichChild
 "columbiana",137,12,2
 "colliei",137,74,2
 "coerulescens",137,82,2
-"Coughs and Treepies",137,129,2
 "Collared Treepie",137,139,2
-"Coughs",137,149,2
 "collurio",137,169,2
 "Common Fiscal",137,175,2
 "collaris",137,175,2
@@ -287,13 +280,11 @@ name,fileindex,index,whichChild
 "Corvinella",137,201,1
 "collurioides",137,209,2
 "Grand Comoro Drongo",136,14,2
-"Colluricinclidae",132,19,1
 "Cozumel Vireo",139,38,2
 "Colluricincla",134,24,2
 "Colluricincla",134,34,2
 "Colluricincla",134,69,1
 "Coracornis",134,70,2
-"Colluricinclidae",132,54,2
 "Colluricincla",132,58,1
 "Colluricincla",132,59,2
 "Colluricincla",132,60,2
@@ -374,7 +365,6 @@ name,fileindex,index,whichChild
 "Common Miner",30,44,2
 "Coastal Miner",30,45,2
 "colma",30,66,1
-"Conopophagidae",30,103,1
 "Conopophaga",30,108,1
 "Conopophaga",30,109,2
 "Conopophaga",30,110,2
@@ -387,7 +377,6 @@ name,fileindex,index,whichChild
 "Collared Crescentchest",30,127,2
 "Cocha Antshrike",32,32,2
 "Collared Antshrike",32,47,2
-"Tyrant-Flycatchers, Cotingas and  more",121,1,1
 "coronatus",123,16,2
 "Cordilleran Flycatcher",124,29,1
 "Contopus",124,41,1
@@ -422,11 +411,8 @@ name,fileindex,index,whichChild
 "Common Tody-flycatcher",130,102,2
 "Corythopis",130,202,1
 "Corythopis",130,203,2
-"Cotingas",121,44,2
-"Cotingidae",121,44,2
 "Shrike-like Cotinga",121,98,1
 "coronatus",121,118,1
-"Cotingidae",121,123,1
 "White-tailed Cotinga",131,10,1
 "White-winged Cotinga",131,11,2
 "Pompadour Cotinga",131,12,2
@@ -483,8 +469,6 @@ name,fileindex,index,whichChild
 "collaria",118,38,2
 "Cobalt-winged Parakeet",117,139,2
 "costaricensis",117,157,1
-"Cockatoos, Corellas and more",42,0,2
-"Cockatoos, Corellas and more",42,0,2
 "Solomons Cockatoo",42,11,1
 "Little Corella",42,12,2
 "Tanimbar Cockatoo",42,13,2
@@ -505,7 +489,6 @@ name,fileindex,index,whichChild
 "columbarius",29,130,2
 "Collared Falconet",29,136,2
 "Collared Forest-falcon",29,175,1
-"COLIIFORMES",0,11,2
 "colius",0,15,1
 "Colius",0,15,1
 "Colius",0,16,2
@@ -533,14 +516,12 @@ name,fileindex,index,whichChild
 "corvina",178,186,2
 "Collared Puffbird",176,55,2
 "Coppery-chested Jacamar",176,80,2
-"CORACIIFORMES",161,42,2
 "Collared Kingfisher",175,18,1
 "concretus",175,53,2
 "Common Paradise-kingfisher",174,24,2
 "coromanda",174,56,2
 "coerulescens",174,112,1
 "Common Kingfisher",174,113,2
-"Coraciidae",174,158,1
 "Coracias",174,165,1
 "Coracias",174,166,2
 "Coracias",174,167,2
@@ -589,7 +570,6 @@ name,fileindex,index,whichChild
 "columba",23,14,2
 "Common Guillemot",23,20,2
 "corniculata",23,42,1
-"Coursers and pratincoles",20,14,2
 "Collared Pratincole",20,25,2
 "Somali Courser",20,35,1
 "Burchell's Courser",20,36,2
@@ -617,8 +597,6 @@ name,fileindex,index,whichChild
 "cochlearius",3,117,1
 "Cochlearius",3,117,1
 "conspicillatus",3,201,1
-"Cormorants, Anhingas, Gannets and Frigatebirds",19,0,2
-"Cormorants and Shags",19,3,1
 "Little Black Cormorant",19,13,1
 "Large Pied Cormorant",19,14,2
 "Reed Cormorant",19,17,1
@@ -676,7 +654,6 @@ name,fileindex,index,whichChild
 "Coccycua",11,34,2
 "Coccycua",11,35,2
 "coromandus",11,64,2
-"Coucals",10,110,1
 "Lesser Black Coucal",10,121,1
 "Pheasant Coucal",10,122,2
 "Violaceous Coucal",10,123,2
@@ -706,7 +683,6 @@ name,fileindex,index,whichChild
 "Biak Coucal",10,162,2
 "Pied Coucal",10,163,2
 "Buff-headed Coucal",10,164,2
-"Couas",10,166,1
 "Coquerel's Coua",10,171,1
 "Coquerel's Coua",10,171,1
 "coquereli",10,171,1
@@ -728,7 +704,6 @@ name,fileindex,index,whichChild
 "Blue Coua",10,182,2
 "Coua",10,182,2
 "Coral-billed Ground-cuckoo",10,187,2
-"Coots, Moorhens and more",15,5,1
 "Hawaiian Coot",15,26,2
 "Red-knobbed Coot",15,35,2
 "White-winged Coot",15,43,2
@@ -751,7 +726,6 @@ name,fileindex,index,whichChild
 "Colombian Crake",15,125,2
 "colombiana",15,125,2
 "Common Crane",15,180,2
-"COLUMBIFORMES",1,133,1
 "Cook Islands Fruit-dove",6,16,2
 "Comoro Blue-pigeon",6,44,2
 "Coroneted Fruit-dove",6,69,2
@@ -794,7 +768,6 @@ name,fileindex,index,whichChild
 "Columba",7,60,1
 "Columba",7,61,2
 "Columba",7,62,2
-"Turtle doves, Collared-doves and more",4,113,2
 "Red Collared-dove",4,124,1
 "White-winged Collared-dove",4,127,1
 "Island Collared-dove",4,128,2
@@ -831,8 +804,6 @@ name,fileindex,index,whichChild
 "Red-tailed Comet",160,59,2
 "coelestis",160,66,2
 "Grey-bellied Comet",160,67,2
-"Coquettes, Thorntails and Firecrowns",160,85,2
-"Coquettes",160,87,1
 "Short-crested Coquette",160,92,1
 "White-crested Coquette",160,93,2
 "Rufous-crested Coquette",160,94,2
@@ -846,8 +817,6 @@ name,fileindex,index,whichChild
 "conversii",160,112,2
 "Coppery Thorntail",160,113,2
 "Racket-tailed Coquette",160,114,2
-"Whitetips, Coronets and more",160,142,2
-"Coronets",160,144,1
 "Buff-tailed Coronet",160,146,1
 "Velvet-purple Coronet",160,147,2
 "Chestnut-breasted Coronet",160,148,2
@@ -866,7 +835,6 @@ name,fileindex,index,whichChild
 "Coeligena",160,205,2
 "coeligena",160,206,2
 "Coeligena",160,206,2
-"COLIBRI",158,46,1
 "Colibri",158,49,1
 "Colibri",158,50,2
 "coruscans",158,51,2
@@ -933,7 +901,6 @@ name,fileindex,index,whichChild
 "Coturnix",147,51,2
 "Coturnix",147,52,2
 "columbianus",147,118,1
-"COLINUS",147,146,1
 "Colinus",147,149,1
 "Colinus",147,150,2
 "Colinus",147,151,2

@@ -1,5 +1,4 @@
 name,fileindex,index,whichChild
-"Flowerpiercers",50,7,1
 "Grey-bellied Flowerpiercer",50,16,1
 "Black Flowerpiercer",50,17,2
 "Merida Flowerpiercer",50,18,2
@@ -54,11 +53,9 @@ name,fileindex,index,whichChild
 "flaviprymna",104,12,2
 "flavipes",102,38,1
 "flavicans",105,45,2
-"Sunbirds and Flowerpeckers",62,1,1
 "Flame-breasted Sunbird",64,66,2
 "Flaming Sunbird",62,140,1
 "flagrans",62,140,1
-"Flowerpeckers",62,163,1
 "Red-capped Flowerpecker",63,10,1
 "Olive-crowned Flowerpecker",63,11,2
 "Whiskered Flowerpecker",63,13,1
@@ -107,10 +104,6 @@ name,fileindex,index,whichChild
 "Olive-backed Flowerpecker",62,174,2
 "flavigaster",62,188,1
 "flavipennis",62,210,1
-"Chats and Old World flycatchers",43,10,1
-"Thrushes, Dippers, Chats, Old World Flycatchers",87,2,1
-"Chats and Old World Flycatchers",87,4,1
-"Chats and Old World flycatchers",92,4,1
 "Rufous-throated Flycatcher",94,10,1
 "Little Pied Flycatcher",94,11,2
 "Ultramarine Flycatcher",94,12,2
@@ -139,12 +132,6 @@ name,fileindex,index,whichChild
 "Lompobatang Flycatcher",94,68,2
 "Yellow-rumped Flycatcher",94,70,1
 "Narcissus Flycatcher",94,71,2
-"Chats and Old World flycatchers",92,80,2
-"Chats and Old World flycatchers",92,93,2
-"Chats and Old World flycatchers",92,96,2
-"Chats and Old World flycatchers",92,110,1
-"Chats and Old World flycatchers",92,129,1
-"Chats and Old World flycatchers",92,136,2
 "Blue-throated Flycatcher",92,153,2
 "White-gorgeted Flycatcher",92,165,2
 "White-tailed Flycatcher",92,183,2
@@ -154,7 +141,6 @@ name,fileindex,index,whichChild
 "Dull-blue Flycatcher",92,194,2
 "Indigo Flycatcher",92,195,2
 "Blue-and-white Flycatcher",92,196,2
-"Chats and Old World flycatchers",99,0,2
 "Rusty-tailed Flycatcher",99,13,1
 "Swamp Flycatcher",99,14,2
 "Cassin's Grey Flycatcher",99,16,1
@@ -193,11 +179,9 @@ name,fileindex,index,whichChild
 "White-eyed Slaty Flycatcher",99,106,2
 "Angola Slaty Flycatcher",99,107,2
 "Black-and-rufous Flycatcher",99,128,2
-"Chats and Old World flycatchers",97,1,1
 "Damar Flycatcher",97,46,2
 "Grand Comoro Flycatcher",97,54,1
 "flavirostris",97,54,1
-"Chats and Old World flycatchers",87,8,2
 "Rufous-browed Flycatcher",87,19,1
 "Furtive Flycatcher",87,20,2
 "flavipes",90,30,2
@@ -241,10 +225,8 @@ name,fileindex,index,whichChild
 "Flappet Lark",107,109,1
 "flavifrons",100,115,2
 "flaviceps",100,127,2
-"Chats and Old World flycatchers",100,140,2
 "flammiceps",100,146,2
 "Flame Robin",43,100,2
-"Flyrobins",43,119,2
 "Golden-bellied Flyrobin",43,122,1
 "Olive Flyrobin",43,123,2
 "flavovirescens",43,123,2
@@ -285,7 +267,6 @@ name,fileindex,index,whichChild
 "flavifrons",134,67,2
 "flavogriseum",132,65,2
 "Ward's Flycatcher",135,34,2
-"Chats and Old World flycatchers",135,46,2
 "Black-winged Flycatcher-shrike",135,71,2
 "Bar-winged Flycatcher-shrike",135,72,2
 "flammulatus",135,74,1
@@ -313,7 +294,6 @@ name,fileindex,index,whichChild
 "fluminensis",31,202,1
 "flavinucha",123,67,1
 "fluviatilis",123,74,2
-"Phoebes, Pewees and other flycatchers",124,2,1
 "American Dusky Flycatcher",124,12,1
 "Pine Flycatcher",124,13,2
 "Hammond's Flycatcher",124,14,2
@@ -418,10 +398,8 @@ name,fileindex,index,whichChild
 "Cliff Flycatcher",121,21,2
 "White-bearded Flycatcher",121,22,2
 "flavigularis",121,28,1
-"Pygmy-Tyrants, Flatbills and more",130,0,2
 "Flammulated Bamboo-tyrant",130,42,2
 "flammulatus",130,42,2
-"Flatbills",130,110,2
 "Yellow-breasted Flycatcher",130,117,1
 "flaviventris",130,117,1
 "Yellow-margined Flatbill",130,118,2
@@ -468,7 +446,6 @@ name,fileindex,index,whichChild
 "flavifrons",172,38,2
 "flavescens",171,13,2
 "flavus",171,19,2
-"Flickers and other woodpeckers",171,44,1
 "Gilded Flicker",171,55,1
 "Andean Flicker",171,56,2
 "Chilean Flicker",171,57,2
@@ -476,7 +453,6 @@ name,fileindex,index,whichChild
 "Fernandina's Flicker",171,65,2
 "Northern Flicker",171,66,2
 "flavigula",171,74,1
-"Flamebacks",171,83,1
 "Black-rumped Flameback",171,85,1
 "Himalayan Flameback",171,86,2
 "Common Flameback",171,87,2
@@ -496,7 +472,6 @@ name,fileindex,index,whichChild
 "floris",162,106,2
 "flavirostris",20,10,1
 "flavipes",21,79,2
-"Flamingos, Petrels and more",0,22,2
 "flavicollis",3,110,2
 "flavipes",3,149,1
 "Flightless Cormorant",19,46,2
@@ -504,7 +479,6 @@ name,fileindex,index,whichChild
 "Flesh-footed Shearwater",14,30,1
 "flabelliformis",10,59,2
 "flavigularis",10,85,1
-"Floricans",18,46,2
 "Bengal Florican",18,47,1
 "Lesser Florican",18,48,2
 "fluminea",15,15,2
@@ -512,7 +486,6 @@ name,fileindex,index,whichChild
 "New Guinea Flightless Rail",17,24,1
 "flavirostra",17,48,1
 "flavirostris",16,56,2
-"Flufftails",15,136,1
 "Buff-spotted Flufftail",15,140,1
 "White-winged Flufftail",15,141,2
 "Chestnut-headed Flufftail",15,143,1
@@ -527,8 +500,6 @@ name,fileindex,index,whichChild
 "floris",8,37,2
 "Flock Bronzewing",4,69,2
 "flavirostris",4,198,1
-"Flamingos and Grebes",2,0,2
-"Flamingos",2,38,2
 "Andean Flamingo",2,42,1
 "Puna Flamingo",2,43,2
 "American Flamingo",2,44,2
@@ -538,7 +509,6 @@ name,fileindex,index,whichChild
 "floriceps",155,75,1
 "flammula",155,140,2
 "flavescens",160,146,1
-"FLORISUGA",152,9,1
 "Florisuga",152,10,1
 "Florisuga",152,11,2
 "flavirostris",28,18,1

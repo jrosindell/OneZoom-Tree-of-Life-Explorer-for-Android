@@ -44,13 +44,10 @@ name,fileindex,index,whichChild
 "cucullata",137,148,2
 "Cuban Vireo",139,22,2
 "curvirostris",135,25,2
-"Cuckoo-shrikes",135,66,2
 "cubla",145,70,2
-"Currawongs",143,42,2
 "Grey Currawong",143,44,1
 "Pied Currawong",143,45,2
 "Black Currawong",143,46,2
-"Cuckoo-shrikes and Minivets",132,79,2
 "Solomons Cuckooshrike",141,20,2
 "Black-bellied Cuckooshrike",141,29,1
 "Halmahera Cuckooshrike",141,30,2
@@ -131,7 +128,6 @@ name,fileindex,index,whichChild
 "cursor",20,40,2
 "Cursorius",20,40,2
 "Curlew Sandpiper",21,133,2
-"Curlews",20,91,1
 "Eurasian Curlew",20,96,1
 "Little Curlew",20,97,2
 "Far Eastern Curlew",20,98,2
@@ -139,9 +135,6 @@ name,fileindex,index,whichChild
 "Long-billed Curlew",20,100,2
 "Slender-billed Curlew",20,103,1
 "Bristle-thighed Curlew",20,105,2
-"Cuckoos",1,100,1
-"CUCULIFORMES",1,100,1
-"Malkoha, Koels and other cuckoos",10,1,1
 "Cuculus",10,19,1
 "Himalayan Cuckoo",10,20,2
 "Cuculus",10,20,2
@@ -165,11 +158,9 @@ name,fileindex,index,whichChild
 "Oriental Cuckoo",10,35,2
 "Cuculus",10,35,2
 "Cuculus",10,36,2
-"Long-tailed Cuckoos",10,38,1
 "Barred Long-tailed Cuckoo",10,40,1
 "Olive Long-tailed Cuckoo",10,41,2
 "Dusky Long-tailed Cuckoo",10,42,2
-"Drongo Cuckoos",10,43,2
 "Drongo Cuckoo",10,45,2
 "Plaintive Cuckoo",10,52,1
 "Brush Cuckoo",10,53,2
@@ -223,7 +214,6 @@ name,fileindex,index,whichChild
 "cuvieri",15,118,1
 "curvirostra",8,38,2
 "cuneata",4,56,1
-"Cuckoo-doves",4,147,1
 "Philippine Cuckoo-dove",4,154,1
 "Brown Cuckoo-Dove",4,155,2
 "Barred Cuckoo-dove",4,156,2
@@ -248,8 +238,6 @@ name,fileindex,index,whichChild
 "Cuban Nightjar",152,155,2
 "cubanensis",152,155,2
 "cupido",151,10,2
-"Guans and curassows",184,0,2
-"Currasows",184,3,1
 "Bare-faced Curassow",184,10,1
 "Black Curassow",184,11,2
 "Red-billed Curassow",184,12,2

@@ -129,7 +129,6 @@ name,fileindex,index,whichChild
 "sclateri",149,26,1
 "sclateri",150,18,1
 "Scrub Honeyeater",150,83,2
-"Scrubwrens",180,6,1
 "Large-billed Scrubwren",180,12,1
 "Large Scrubwren",180,13,2
 "Perplexing Scrubwren",180,14,2
@@ -145,8 +144,6 @@ name,fileindex,index,whichChild
 "Tasmanian Scrubwren",180,30,2
 "Scrubtit",180,84,2
 "Scenopoeetes",120,174,2
-"Scrub-birds, Lyrebirds",120,188,2
-"Scrub-birds",120,189,1
 "Rufous Scrub-bird",120,190,1
 "Noisy Scrub-bird",120,191,2
 "Schoeniophylax",233,44,2
@@ -241,7 +238,6 @@ name,fileindex,index,whichChild
 "schisticolor",245,162,2
 "Sclater's Antwren",245,174,2
 "sclateri",245,174,2
-"Scrub-flycatchers",241,49,2
 "Northern Scrub-flycatcher",241,51,1
 "Todd's Scrub-flycatcher",241,52,2
 "Southern Scrub-flycatcher",241,53,2
@@ -250,7 +246,6 @@ name,fileindex,index,whichChild
 "Sclater's Tyrannulet",242,78,2
 "sclateri",242,78,2
 "Scale-crested Pygmy-tyrant",239,13,1
-"Schiffornis",251,56,2
 "Thrush-like Schiffornis",251,58,1
 "Schiffornis",251,58,1
 "Greenish Schiffornis",251,59,2
@@ -293,7 +288,6 @@ name,fileindex,index,whichChild
 "sclateri",209,29,2
 "Scaly Kingfisher",202,59,2
 "Scaly Ground-roller",201,138,2
-"Scimitarbills",201,192,2
 "Common Scimitarbill",201,194,1
 "Abyssinian Scimitarbill",201,195,2
 "Black Scimitarbill",201,196,2
@@ -302,7 +296,6 @@ name,fileindex,index,whichChild
 "Scotopelia",225,8,2
 "Scotopelia",225,9,2
 "scandiaca",225,33,2
-"Screech-owls",227,3,1
 "Black-capped Screech-owl",227,11,1
 "Puerto Rican Screech-owl",227,12,2
 "Tawny-bellied Screech-owl",227,13,2
@@ -335,7 +328,6 @@ name,fileindex,index,whichChild
 "Rajah Scops-owl",224,10,2
 "White-faced Scops-owl",224,31,1
 "Moluccan Scops-owl",224,32,2
-"Scops-owls",224,34,2
 "Malagasy Scops-owl",224,45,1
 "Anjouan Scops-owl",224,46,2
 "Mayotte Scops-owl",224,47,2
@@ -378,7 +370,6 @@ name,fileindex,index,whichChild
 "schistisagus",214,13,1
 "scoresbii",212,28,1
 "scopulinus",212,42,2
-"Scolopacidae",223,0,1
 "Scolopax",223,45,1
 "Scolopax",223,46,2
 "Scolopax",223,48,1
@@ -432,9 +423,7 @@ name,fileindex,index,whichChild
 "Scaly Francolin",317,23,2
 "Scaly-breasted Partridge",314,17,1
 "Scaled Quail",315,53,2
-"Waterfowl, Screamers and Magpie Goose",310,129,2
 "Scaly-sided Merganser",313,15,1
-"Scoters",313,26,2
 "White-winged Scoter",313,28,1
 "Surf Scoter",313,29,2
 "Black Scoter",313,30,2
@@ -442,7 +431,6 @@ name,fileindex,index,whichChild
 "Greater Scaup",313,91,2
 "New Zealand Scaup",313,98,2
 "scutulata",313,104,2
-"Screamers",310,167,2
 "Southern Screamer",310,169,1
 "Northern Screamer",310,170,2
 "Horned Screamer",310,171,2
@@ -539,21 +527,15 @@ name,fileindex,index,whichChild
 "scytale",334,110,2
 "schmidti",334,166,2
 "scaber",318,59,2
-"Scaly-toed Geckos",321,16,1
 "Christian Scaly-toed Gecko",321,19,2
 "scincus",321,27,2
-"Scaly-eyed Geckos",318,85,2
 "Brigalow Scaly-foot",318,179,2
-"Scalyfoots",318,199,2
 "schadenbergi",263,101,1
 "sciureus",293,122,2
-"Scapteromys",292,64,2
 "Scapteromys",292,65,1
 "Scapteromys",292,66,2
-"Scolomys",292,80,2
 "Scolomys",292,81,1
 "Scolomys",292,82,2
-"Scotinomys",287,204,1
 "Scotinomys",287,205,1
 "Scotinomys",287,206,2
 "Schelkovnikov's Pine Vole",282,15,2
@@ -563,13 +545,9 @@ name,fileindex,index,whichChild
 "schaposchnikowi",283,14,2
 "schisticolor",283,45,2
 "scherman",281,48,2
-"Scaly-tailed Squirrels",254,10,1
 "Dwarf Scaly-tailed Squirrel",254,13,1
 "Pygmy Scaly-tailed Flying Squirrel",254,20,1
 "Cameroon Scaly-tail",254,22,2
-"SCIUROMORPHA",254,60,2
-"Sciuridae",254,62,1
-"Sciurus",279,3,1
 "Sciurus",279,23,1
 "Sciurus",279,24,2
 "Sciurus",279,25,2
@@ -598,7 +576,6 @@ name,fileindex,index,whichChild
 "Sciurus",279,54,2
 "Sciurus",279,55,2
 "Sculptor Squirrel",278,194,2
-"Sciurotamias",296,168,2
 "Sciurotamias",296,169,1
 "Sciurotamias",296,170,2
 "Sciurillus",254,64,2
@@ -607,10 +584,8 @@ name,fileindex,index,whichChild
 "sclateri",275,85,2
 "schistaceus",275,150,1
 "sciureus",285,105,2
-"SCANDENTIA",254,137,2
 "Scully's Tube-nosed Bat",389,70,2
 "Scoteanax",389,84,2
-"Scotorepens",390,52,1
 "Scotorepens",390,54,1
 "Scotorepens",390,55,2
 "Scotorepens",390,57,1
@@ -623,7 +598,6 @@ name,fileindex,index,whichChild
 "scotti",404,62,2
 "Schaub's Myotis",403,63,2
 "schaubi",403,63,2
-"Scotophilus",403,167,1
 "Scotophilus",403,173,1
 "Scotophilus",403,174,2
 "Scotophilus",403,175,2
@@ -637,7 +611,6 @@ name,fileindex,index,whichChild
 "Scotophilus",403,188,1
 "Scotophilus",403,189,2
 "Scotomanes",403,190,2
-"Scotoecus",403,193,1
 "Scotoecus",403,197,1
 "Scotoecus",403,198,2
 "Scotoecus",403,199,2
@@ -653,7 +626,6 @@ name,fileindex,index,whichChild
 "Schneider's Leaf-nosed Bat",376,29,2
 "scutatus",400,37,2
 "scapulatus",366,86,1
-"Scotonycteris",399,36,1
 "Scotonycteris",399,37,1
 "Scotonycteris",399,38,2
 "schaeferi",372,32,1
@@ -672,7 +644,6 @@ name,fileindex,index,whichChild
 "sclateri",388,14,2
 "Scaptochirus",380,44,1
 "Scaptonyx",380,46,2
-"Scapanus",380,52,1
 "Scapanus",380,54,1
 "Scapanus",380,55,2
 "Scapanus",380,56,2
@@ -833,8 +804,6 @@ name,fileindex,index,whichChild
 "schoutedeni",31,21,2
 "schneideri",34,42,2
 "schioetzi",27,19,2
-"Screeching Frogs, Night Frogs and more",26,0,1
-"Screeching Frogs",26,3,1
 "schubotzi",26,64,2
 "schioetzi",26,79,2
 "Scotobleps",26,101,2
@@ -858,7 +827,6 @@ name,fileindex,index,whichChild
 "Scutiger",1,90,2
 "Scutiger",1,91,2
 "schmidti",1,104,2
-"SCAPHIOPODIDAE",1,166,1
 "Scaphiopus",1,176,1
 "Scaphiopus",1,177,2
 "Scaphiopus",1,178,2

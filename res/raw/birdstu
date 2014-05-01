@@ -4,10 +4,6 @@ name,fileindex,index,whichChild
 "Turquoise Tanager",54,36,2
 "Tumbes Sparrow",47,88,2
 "turcosus",94,50,1
-"Turdidae",92,62,1
-"Turdidae",92,121,2
-"Turdidae",97,64,2
-"Turdidae",89,3,1
 "Turdus",89,17,1
 "Turdus",89,18,2
 "Turdus",89,19,2
@@ -79,12 +75,7 @@ name,fileindex,index,whichChild
 "Turdus",89,87,2
 "Turdus",89,90,2
 "turipavae",89,121,2
-"Turdidae",89,134,1
-"Turdidae",89,160,1
-"Turdidae",89,170,2
-"Turdidae",89,209,2
 "turdoides",89,211,2
-"Turdidae",87,23,2
 "turdinus",87,91,2
 "Turdoides",76,11,1
 "Turdoides",76,15,1
@@ -125,7 +116,6 @@ name,fileindex,index,whichChild
 "turneri",81,77,1
 "Tumbes Swallow",84,48,2
 "Tufted Titmouse",100,55,2
-"Turdidae",43,176,1
 "Turkestan Ground-jay",137,25,2
 "Tufted Jay",137,50,2
 "Turquoise Jay",137,95,2
@@ -134,7 +124,6 @@ name,fileindex,index,whichChild
 "turatii",145,27,2
 "Tui",113,102,2
 "Tufted Tit-spinetail",35,42,2
-"Tuftedcheeks",35,74,1
 "Streaked Tuftedcheek",35,76,1
 "Pacific Tuftedcheek",35,77,2
 "Buffy Tuftedcheek",35,78,2
@@ -167,7 +156,6 @@ name,fileindex,index,whichChild
 "Turquoise-browed Motmot",174,146,1
 "Turkey Vulture",161,161,2
 "Tufted Puffin",23,44,2
-"Turnicidae",20,47,2
 "Turnix",20,54,1
 "Turnix",20,55,2
 "Turnix",20,56,2
@@ -184,11 +172,9 @@ name,fileindex,index,whichChild
 "Turnix",20,75,2
 "Turnix",20,76,2
 "Tuamotu Sandpiper",21,141,2
-"Turnstones",21,146,2
 "Black Turnstone",21,147,1
 "Ruddy Turnstone",21,148,2
 "turtur",12,41,2
-"Turacos",1,53,2
 "Livingstone's Turaco",1,60,1
 "Fischer's Turaco",1,61,2
 "Knysna Turaco",1,62,2
@@ -213,7 +199,6 @@ name,fileindex,index,whichChild
 "Turtur",4,14,2
 "Turtur",4,16,1
 "Turtur",4,17,2
-"Turtle doves, Collared-doves and more",4,113,2
 "Adamawa Turtle-dove",4,120,1
 "European Turtle-dove",4,121,2
 "turtur",4,121,2

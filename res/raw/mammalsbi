@@ -10,20 +10,15 @@ name,fileindex,index,whichChild
 "Bolivian Big-eared Mouse",26,35,1
 "Painted Big-eared Mouse",26,36,2
 "Andean Big-eared Mouse",26,38,1
-"Bibimys",26,56,1
 "Bibimys",26,58,1
 "Bibimys",26,59,2
 "Bibimys",26,60,2
 "Big-eared Climbing Rat",21,146,2
 "Big Deer Mouse",25,41,2
 "Big-eared Woodrat",22,41,2
-"Big-footed Mice",4,85,2
 "Long-tailed Big-footed Mouse",4,86,1
 "Western Big-footed Mouse",4,87,2
 "Big-headed Mole Rat",4,147,2
-"Jerboas, Jumping Mice and Birch Mice",2,48,2
-"Jumping Mice and Birch Mice",3,5,1
-"Birch Mice",3,6,1
 "Northern Birch Mouse",3,11,1
 "Armenian Birch Mouse",3,12,2
 "Tien Shan Birch Mouse",3,13,2
@@ -79,7 +74,6 @@ name,fileindex,index,whichChild
 "Bini Free-tailed Bat",62,167,2
 "bilobatum",68,25,2
 "bidens",68,39,2
-"Big-eyed Bats",68,42,2
 "Guadeloupean Big-eyed Bat",68,45,1
 "Hairy Big-eyed Bat",68,46,2
 "Little Big-eyed Bat",68,48,1
@@ -88,10 +82,8 @@ name,fileindex,index,whichChild
 "bilabiatum",67,58,1
 "Bidentate Yellow-shouldered Bat",67,83,1
 "bidens",67,83,1
-"Big-eared Bats and more",67,130,1
 "bidens",67,161,2
 "Big-eared Wooly Bat",67,165,1
-"Big-eared Bats",67,169,1
 "Little Big-eared Bat",67,173,1
 "Common Big-eared Bat",67,174,2
 "Schmidts's Big-eared Bat",67,177,1
@@ -113,8 +105,6 @@ name,fileindex,index,whichChild
 "Biak Bare-backed Fruit Bat",57,167,2
 "bidens",70,41,2
 "Bighorn Sheep",64,37,2
-"Cows, Bison, Ox and more",63,40,2
-"Bison",63,66,1
 "European Bison",63,67,1
 "Bison",63,67,1
 "American Bison",63,68,2
@@ -126,7 +116,6 @@ name,fileindex,index,whichChild
 "Binturong",51,59,2
 "binturong",51,59,2
 "binotata",51,62,2
-"Big cats",48,9,1
 "bieti",48,63,2
 "Bicolored Shrew",88,17,1
 "Bicolored Musk Shrew",88,58,1
@@ -137,7 +126,6 @@ name,fileindex,index,whichChild
 "Biak Glider",43,172,2
 "biacensis",43,172,2
 "bilarni",84,28,2
-"Bandicoots and Bilbies",0,124,2
 "Bilby",0,158,2
 "bishopi",1,25,2
 "Big-eared Opossum",1,79,2

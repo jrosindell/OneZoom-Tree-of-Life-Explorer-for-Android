@@ -1,6 +1,4 @@
 name,fileindex,index,whichChild
-"Mammals",0,0,0
-"Placental mammals",0,2,1
 "Lowland Mammelomys",13,17,1
 "Mammelomys",13,17,1
 "Manusela Melomys",13,36,2
@@ -12,12 +10,10 @@ name,fileindex,index,whichChild
 "Ernst Mayr's Leptomys",15,23,2
 "Shaw Mayer's Pogonomelomys",15,31,1
 "mayeri",15,31,1
-"Mallomys",15,52,1
 "Mallomys",15,55,1
 "Mallomys",15,56,2
 "Mallomys",15,57,2
 "Mallomys",15,58,2
-"Macruromys",15,60,2
 "Macruromys",15,61,1
 "major",15,62,2
 "Macruromys",15,62,2
@@ -31,10 +27,8 @@ name,fileindex,index,whichChild
 "Malaysian Field Rat",10,23,1
 "Marmoset Xanthurus Rat",10,77,2
 "marmosurus",10,77,2
-"Shaggy Rats and Marsh Rats",9,25,1
 "African Marsh Rat",9,29,1
 "Angolan Marsh Rat",9,31,2
-"Maxomys",9,41,1
 "Small Bornean Maxomys",9,49,1
 "Maxomys",9,49,1
 "Palawan Maxomys",9,50,2
@@ -71,7 +65,6 @@ name,fileindex,index,whichChild
 "Bartels's Javan Maxomys",9,73,2
 "Maxomys",9,73,2
 "major",9,81,2
-"Marmoset Rats",9,87,2
 "Greater Marmoset Rat",9,88,1
 "Lesser Marmoset Rat",9,89,2
 "Margaret's Haeromys",9,94,2
@@ -97,7 +90,6 @@ name,fileindex,index,whichChild
 "Natal Mastomys",19,96,2
 "Mastomys",19,96,2
 "macrocercus",17,46,1
-"Margaretamys",17,49,2
 "Spiny Lowland Margaretamys",17,51,1
 "Margaretamys",17,51,1
 "Elegant Margaretamys",17,52,2
@@ -123,7 +115,6 @@ name,fileindex,index,whichChild
 "Marsh Rice Rat",27,47,2
 "Mamore Arboreal Rice Rat",27,106,1
 "mamorae",27,106,1
-"Marsh Rats",27,117,1
 "Chaco Marsh Rat",27,121,2
 "Marsh Rat",27,122,2
 "Web-footed Marsh Rat",27,123,2
@@ -159,7 +150,6 @@ name,fileindex,index,whichChild
 "macrotis",7,66,2
 "Major's Tufted-tailed Rat",4,79,1
 "majori",4,79,1
-"Macrotarsomys",4,85,2
 "Macrotarsomys",4,86,1
 "Macrotarsomys",4,87,2
 "Malagasy Giant Jumping Rat",4,98,2
@@ -199,8 +189,6 @@ name,fileindex,index,whichChild
 "madrensis",79,44,2
 "major",79,48,2
 "Golden Mantled Ground Squirrel",79,81,1
-"Marmots",79,84,1
-"Marmota",79,84,1
 "Black-capped Marmot",79,91,1
 "Marmota",79,91,1
 "Himalayan Marmot",79,92,2
@@ -238,8 +226,6 @@ name,fileindex,index,whichChild
 "Marsh Rabbit",76,95,1
 "mansuetus",76,102,1
 "macrotis",76,149,1
-"Macaques",35,9,1
-"Macaca",35,9,1
 "Celebes Crested Macaque",35,16,1
 "Macaca",35,16,1
 "Gorontalo Macaque",35,17,2
@@ -280,12 +266,10 @@ name,fileindex,index,whichChild
 "Macaca",35,46,2
 "Crab-eating Macaque",35,47,2
 "Macaca",35,47,2
-"Mangabeys, Baboons and more",35,48,2
 "Grey-cheeked Mangabey",35,63,1
 "Black Mangabey",35,65,2
 "White-collared Mangabey",35,69,1
 "Sooty/white-naped Mangabey",35,70,2
-"Mandrillus",35,71,2
 "Mandrillus",35,72,1
 "Mandrill",35,73,2
 "Mandrillus",35,73,2
@@ -294,7 +278,6 @@ name,fileindex,index,whichChild
 "Tana River Crested Mangabey",35,78,2
 "Malbrouck Monkey",41,57,2
 "Maroon Leaf Monkey",40,42,1
-"Marmosets",38,6,1
 "Geoffroy's Tufted-ear Marmoset",38,10,1
 "Wied's Black-tufted-ear Marmoset",38,11,2
 "Black-pencilled Marmoset",38,13,1
@@ -339,7 +322,6 @@ name,fileindex,index,whichChild
 "Major's Long-fingered Bat",45,33,2
 "majori",45,33,2
 "magnater",45,42,2
-"Mastiff Bats",62,8,1
 "Aztec Mastiff Bat",62,15,1
 "Coiban Mastiff Bat",62,17,2
 "Pallas's Mastiff Bat",62,18,2
@@ -367,7 +349,6 @@ name,fileindex,index,whichChild
 "Macconnell's Bat",68,40,2
 "macconnelli",68,40,2
 "magna",67,68,2
-"Macrotus",67,191,2
 "Macrotus",67,192,1
 "Macrotus",67,193,2
 "Marinkelle's Sword-nosed Bat",67,198,1
@@ -416,7 +397,6 @@ name,fileindex,index,whichChild
 "mackloti",57,131,2
 "magna",57,164,2
 "macdonaldi",45,105,2
-"Macroglossus",45,111,2
 "Macroglossus",45,112,1
 "Macroglossus",45,113,2
 "major",45,117,2
@@ -438,7 +418,6 @@ name,fileindex,index,whichChild
 "Madoqua",63,37,1
 "Madoqua",63,38,2
 "marianna",63,108,2
-"Mazama",63,137,1
 "Mazama",63,142,1
 "Mazama",63,143,2
 "Mazama",63,144,2
@@ -452,7 +431,6 @@ name,fileindex,index,whichChild
 "marginata",75,165,2
 "Malay Weasel",49,18,2
 "macrodon",49,41,2
-"Martes",49,46,1
 "American Marten",49,52,1
 "Martes",49,52,1
 "Japanese Marten",49,53,2
@@ -491,7 +469,6 @@ name,fileindex,index,whichChild
 "Margay",48,49,2
 "margarita",48,57,2
 "manul",48,64,2
-"PHOLIDOTA Manis",45,163,2
 "Manis",45,166,1
 "Manis",45,167,2
 "Manis",45,169,1
@@ -533,17 +510,12 @@ name,fileindex,index,whichChild
 "Maned Sloth",0,55,2
 "Marley's Golden Mole",34,60,2
 "marleyi",34,60,2
-"MACROSCELIDEA",0,69,2
 "Macroscelides",0,91,2
 "African Manatee",0,111,1
 "American Manatee",0,112,2
 "manatus",0,112,2
 "Amazonian Manatee",0,113,2
 "maximus",0,119,2
-"Marsupials",0,120,2
-"MACROPODIFORMES",43,3,1
-"Macropodidae",43,6,1
-"Macropus",43,51,1
 "Macropus",43,56,1
 "Macropus",43,57,2
 "Macropus",43,58,2
@@ -573,7 +545,6 @@ name,fileindex,index,whichChild
 "Marsupial Mole",84,130,2
 "macrourus",0,153,2
 "Macrotis",0,158,2
-"Marmosops",1,5,1
 "Marmosops",1,12,1
 "Marmosops",1,13,2
 "Marmosops",1,14,2

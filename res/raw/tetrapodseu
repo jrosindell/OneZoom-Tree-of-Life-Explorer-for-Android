@@ -11,7 +11,6 @@ name,fileindex,index,whichChild
 "European Goldfinch",135,61,1
 "European Greenfinch",135,71,2
 "Eurasian Bullfinch",135,125,2
-"Euphonias",135,154,2
 "Thick-billed Euphonia",135,163,1
 "Euphonia",135,163,1
 "Jamaican Euphonia",135,164,2
@@ -120,9 +119,7 @@ name,fileindex,index,whichChild
 "Eurocephalus",157,212,2
 "Eurasian Golden Oriole",155,15,1
 "Euryceros",195,37,1
-"Eupetidae",195,158,2
 "Eulacestoma",195,169,1
-"Eupetidae",195,172,1
 "Eungella Honeyeater",148,155,1
 "Eugralla",248,78,2
 "Euler's Flycatcher",243,76,2
@@ -130,8 +127,6 @@ name,fileindex,index,whichChild
 "Euscarthmus",242,69,1
 "Euscarthmus",242,70,2
 "eulophotes",239,10,1
-"Eurylaimidae",229,196,2
-"Eurylaimidae",229,208,1
 "Eurylaimus",229,217,1
 "Eurylaimus",229,218,2
 "Eurylaimus",229,219,2
@@ -218,7 +213,6 @@ name,fileindex,index,whichChild
 "Eugenes",326,179,2
 "eupogon",332,14,1
 "euryptera",332,50,2
-"EULAMPIS",330,17,1
 "Eulampis",330,18,1
 "Eulampis",330,19,2
 "eurynome",325,9,2
@@ -233,7 +227,6 @@ name,fileindex,index,whichChild
 "Eurostopodus",324,202,2
 "Eurostopodus",324,204,2
 "Eurostopodus",324,207,1
-"EURYPYGIFORMES",324,224,2
 "Eurypyga",324,225,1
 "Eulipoa",310,114,2
 "Eurasian Wigeon",313,175,2
@@ -274,10 +267,7 @@ name,fileindex,index,whichChild
 "Euleptes",318,31,2
 "Eublepharis",318,115,1
 "Eublepharis",318,116,2
-"Eutheria",0,122,1
-"Euarchontoglires",254,0,1
 "Eurasian Harvest Mouse",267,219,2
-"Euneomys",293,75,2
 "Euneomys",293,78,1
 "Euneomys",293,79,2
 "Euneomys",293,80,2
@@ -297,7 +287,6 @@ name,fileindex,index,whichChild
 "European Hare",277,29,2
 "europaeus",277,29,2
 "European Rabbit",277,65,2
-"Eulemur",260,7,1
 "Eulemur",260,14,1
 "Eulemur",260,15,2
 "Eulemur",260,16,2
@@ -309,12 +298,10 @@ name,fileindex,index,whichChild
 "Eulemur",260,25,1
 "Eulemur",260,26,2
 "Eulemur",260,27,2
-"Euoticus",260,119,2
 "Euoticus",260,120,1
 "Euoticus",260,121,2
 "Euderma",389,142,2
 "Eudiscopus",389,187,2
-"Eumops",396,27,2
 "Eumops",396,33,1
 "Eumops",396,34,2
 "Eumops",396,35,2
@@ -328,7 +315,6 @@ name,fileindex,index,whichChild
 "European Free-tailed Bat",396,137,2
 "euryale",376,103,1
 "euryotis",379,21,2
-"Eudorcas",372,137,2
 "Eudorcas",372,138,1
 "Eudorcas",372,139,2
 "eurycerus",371,46,2
@@ -337,7 +323,6 @@ name,fileindex,index,whichChild
 "Eurasian Elk",375,41,1
 "eutropia",373,47,2
 "europaeus",371,128,1
-"Eubalaena",371,187,1
 "Eubalaena",371,189,1
 "Eubalaena",371,190,2
 "Eubalaena",371,191,2
@@ -355,7 +340,6 @@ name,fileindex,index,whichChild
 "Eurasian Least Shrew",397,54,2
 "Eurasian Water Shrew",397,168,2
 "europaeus",388,8,1
-"Euroscaptor",380,10,1
 "Euroscaptor",380,14,1
 "Euroscaptor",380,15,2
 "Euroscaptor",380,16,2
@@ -498,7 +482,6 @@ name,fileindex,index,whichChild
 "Euphlyctis",11,17,2
 "Euphlyctis",11,18,2
 "eurydactylus",28,102,2
-"European Spadefoot Toads",1,158,2
 "Eurycea",104,11,1
 "Eurycea",104,12,2
 "Eurycea",104,13,2

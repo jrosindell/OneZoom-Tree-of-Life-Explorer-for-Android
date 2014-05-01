@@ -51,7 +51,6 @@ name,fileindex,index,whichChild
 "phaenicuroides",92,102,1
 "philomelos",89,87,2
 "philippensis",88,132,1
-"Philippine creepers",98,70,2
 "phaeocephalus",95,101,2
 "philomela",87,111,1
 "Phainopepla",43,35,2
@@ -213,8 +212,6 @@ name,fileindex,index,whichChild
 "Phlegopsis",31,82,1
 "Phlegopsis",31,84,2
 "Phaenostictus",31,90,2
-"Phoebes, Pewees and other flycatchers",124,2,1
-"Phoebes",124,62,1
 "Black Phoebe",124,64,1
 "Eastern Phoebe",124,65,2
 "phoebe",124,65,2
@@ -270,7 +267,6 @@ name,fileindex,index,whichChild
 "Phytotoma",121,153,2
 "Phytotoma",121,154,2
 "phayrei",120,65,2
-"Philepittidae",120,95,2
 "Philepitta",120,100,1
 "Philepitta",120,101,2
 "Phigys",109,49,2
@@ -285,7 +281,6 @@ name,fileindex,index,whichChild
 "Philippine Woodpecker",170,77,1
 "Philippine Dwarf-kingfisher",174,98,2
 "philippinus",182,16,2
-"Phoeniculidae",161,45,1
 "Phoeniculus",161,49,1
 "Phoeniculus",161,50,2
 "Phoeniculus",161,51,2
@@ -312,7 +307,6 @@ name,fileindex,index,whichChild
 "philadelphia",22,89,1
 "Phaetusa",25,56,2
 "Philippine Woodcock",21,52,1
-"Phalaropos",21,90,1
 "Red-necked Phalarope",21,92,1
 "Phalaropus",21,92,1
 "Red Phalarope",21,93,2
@@ -324,7 +318,6 @@ name,fileindex,index,whichChild
 "Phegornis",24,116,1
 "Phimosus",3,190,2
 "philippensis",3,202,2
-"Phalacrocoracidae",19,3,1
 "Phalacrocorax",19,13,1
 "Phalacrocorax",19,14,2
 "Phalacrocorax",19,15,2
@@ -397,14 +390,12 @@ name,fileindex,index,whichChild
 "Phaps",4,69,2
 "Philippine Cuckoo-dove",4,154,1
 "phasianella",4,155,2
-"PHOENICOPTERIFORMES",2,38,2
 "Phoenicoparrus",2,42,1
 "Phoenicoparrus",2,43,2
 "Phoenicopterus",2,44,2
 "Phoenicopterus",2,46,1
 "Phoenicopterus",2,47,2
 "Phoeniconaias",2,48,2
-"PHAETHONTIFORMES",0,23,2
 "Phaethon",0,25,1
 "Phaethon",0,26,2
 "Phaethon",0,27,2
@@ -447,9 +438,6 @@ name,fileindex,index,whichChild
 "Philippine Frogmouth",152,45,1
 "Phalaenoptilus",152,91,1
 "Philippine Nightjar",159,27,1
-"Pheasants, Quails and Guineafowl",0,51,1
-"Grouse, Pheasants and more",147,1,1
-"Phasianidae",147,1,1
 "Vietnamese Pheasant",149,12,1
 "Edwards's Pheasant",149,13,2
 "Swinhoe's Pheasant",149,14,2
@@ -459,7 +447,6 @@ name,fileindex,index,whichChild
 "Salvadori's Pheasant",149,25,2
 "Aceh Pheasant",149,26,2
 "Cheer Pheasant",149,28,2
-"Eared Pheasants",149,29,2
 "Lady Amherst's Pheasant",149,37,1
 "Golden Pheasant",149,38,2
 "Common Pheasant",149,40,1

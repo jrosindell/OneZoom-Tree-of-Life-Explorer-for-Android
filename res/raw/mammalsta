@@ -9,19 +9,15 @@ name,fileindex,index,whichChild
 "tanezumi",10,45,2
 "Tambusisi Bunomys",9,185,2
 "Taiwan Field Mouse",19,20,2
-"Tarsomys",17,35,2
 "Spiny Tarsomys",17,36,1
 "Tarsomys",17,36,1
 "Dusky Tarsomys",17,37,2
 "Tarsomys",17,37,2
-"Tateomys",17,45,1
 "Tateomys",17,46,1
 "Tate's Sulawesian Shrew Rat",17,47,2
 "Tateomys",17,47,2
 "Target Rat",8,79,2
 "Tanzanian Vlei Rat",14,40,2
-"Taeromys",18,31,1
-"Taeromys",18,31,1
 "Northeastern Mountain Taeromys",18,36,1
 "taerae",18,36,1
 "Taeromys",18,36,1
@@ -42,7 +38,6 @@ name,fileindex,index,whichChild
 "Tamarisk Gerbil",12,39,2
 "tamariscinus",12,39,2
 "Tatera",12,71,2
-"Taterillus",12,73,2
 "Taterillus",12,77,1
 "Taterillus",12,78,2
 "Gracile Tateril",12,80,1
@@ -70,7 +65,6 @@ name,fileindex,index,whichChild
 "tancrei",6,10,2
 "Tanala Tuft-tailed Rat",4,74,2
 "tanala",4,74,2
-"Tachyoryctes",4,140,1
 "Tachyoryctes",4,145,1
 "Tachyoryctes",4,146,2
 "Tachyoryctes",4,147,2
@@ -88,16 +82,13 @@ name,fileindex,index,whichChild
 "Tawny Tuco-tuco",32,14,1
 "Talas Tuco-tuco",32,99,2
 "talarum",32,99,2
-"Tamiasciurus",82,66,2
 "Tamiasciurus",82,68,1
 "Tamiasciurus",82,69,2
 "Tamiasciurus",82,70,2
-"Tamiops",78,43,2
 "Tamiops",78,46,1
 "Tamiops",78,47,2
 "Tamiops",78,48,2
 "Tamiops",78,49,2
-"Tamias",83,0,2
 "Tamias",83,11,1
 "Tamias",83,12,2
 "Tamias",83,13,2
@@ -130,12 +121,10 @@ name,fileindex,index,whichChild
 "Southern Talapoin Monkey",41,65,2
 "talapoin",41,65,2
 "Tarai Gray Langur",40,60,2
-"Lion Tamarins",38,34,2
 "Black-faced Lion Tamarin",38,37,1
 "Black Lion Tamarin",38,38,2
 "Golden Lion Tamarin",38,39,2
 "Golden-headed Lion Tamarin",38,40,2
-"Tamarins",38,41,2
 "Moustached Tamarin",38,48,1
 "Red-chested Mustached Tamarin",38,50,2
 "Emperor Tamarin",38,51,2
@@ -151,9 +140,6 @@ name,fileindex,index,whichChild
 "Saddleback Tamarin",38,69,2
 "Golden-mantle Saddleback Tamarin",38,70,2
 "Black Mantle Tamarin",38,72,1
-"Tarsiers",35,80,2
-"TARSIIFORMES",35,80,2
-"Eastern Tarsiers",35,81,1
 "Sangihe Tarsier",35,84,1
 "Tarsius",35,84,1
 "Spectral Tarsier",35,85,2
@@ -178,7 +164,6 @@ name,fileindex,index,whichChild
 "taivanus",53,133,1
 "Tacarcuna Bat",56,24,2
 "tatei",73,136,2
-"Tadarida",62,127,2
 "Tadarida",62,135,1
 "Tadarida",62,136,2
 "Tadarida",62,137,2
@@ -190,7 +175,6 @@ name,fileindex,index,whichChild
 "Tadarida",62,144,2
 "Tadarida",62,145,2
 "Talamancan Yellow-shouldered Bat",67,73,2
-"Tailless Bats",69,17,2
 "Broad-toothed Tailless Bat",69,20,1
 "Handley's Tailless Bat",69,21,2
 "Tailed Tailless Bat",69,22,2
@@ -199,7 +183,6 @@ name,fileindex,index,whichChild
 "Maggie Taylor's Leaf-nosed Bat",58,65,2
 "Malayan Tailless Leaf-nosed Bat",58,91,1
 "Tail-less Leaf-nosed Bat",58,92,2
-"Taphozous",71,63,1
 "Taphozous",71,69,1
 "Taphozous",71,70,2
 "Taphozous",71,71,2
@@ -222,18 +205,14 @@ name,fileindex,index,whichChild
 "taxicolor",64,41,2
 "taurinus",64,82,1
 "tatarica",66,38,1
-"Taurotragus",63,53,1
 "Taurotragus",63,54,1
 "Taurotragus",63,55,2
 "taurus",63,72,2
 "Taruca",63,159,2
 "tarandus",63,165,2
 "Tasmacetus",75,119,2
-"Tayassuidae",72,36,2
 "Tayassu",72,38,1
 "tajacu",72,40,2
-"Tapirs",45,142,2
-"Tapiridae",45,142,2
 "Mountain Tapir",45,145,1
 "Tapirus",45,145,1
 "Lowland Tapir",45,146,2
@@ -257,7 +236,6 @@ name,fileindex,index,whichChild
 "Taiwan Brown-toothed Shrew",91,9,1
 "Lesser Taiwanese Shrew",91,10,2
 "Taiwanese Mole Shrew",91,48,1
-"Talpidae",85,91,2
 "Talpa",85,121,1
 "Talpa",85,122,2
 "Talpa",85,123,2
@@ -269,7 +247,6 @@ name,fileindex,index,whichChild
 "Talpa",85,133,2
 "talpoides",85,154,1
 "tatouay",0,18,2
-"Tamandua",0,61,1
 "Tamandua",0,62,1
 "Northern Tamandua",0,63,2
 "Tamandua",0,63,2
@@ -288,5 +265,4 @@ name,fileindex,index,whichChild
 "tapoatafa",84,72,1
 "tatei",1,58,2
 "Tate's Woolly Mouse Opossum",1,136,2
-"Tachyglossidae",0,169,1
 "Tachyglossus",0,173,2

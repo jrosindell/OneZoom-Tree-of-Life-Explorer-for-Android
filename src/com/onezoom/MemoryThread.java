@@ -15,7 +15,9 @@ public class MemoryThread extends Thread {
 	public static final int MSG_IDLECALCULATION = 2;
 	public static final int MSG_RESET = 3;
 	public static final int MSG_SEARCH = 4;
-
+	public static final int MSG_BACK_SEARCH = 5;
+	public static final int MSG_FORWARD_SEARCH = 6;
+	
 	private MemoryHandler handler;
 	private CanvasActivity clientActivity;
 	
@@ -58,6 +60,14 @@ public class MemoryThread extends Thread {
 		msg.what = MSG_SEARCH;
 		msg.obj = userInput;
 		handler.sendMessage(msg);
+	}
+
+	public void backSearch() {
+		handler.sendEmptyMessage(MSG_BACK_SEARCH);
+	}
+
+	public void forwardSearch() {
+		handler.sendEmptyMessage(MSG_FORWARD_SEARCH);
 	}
 }
 
@@ -110,6 +120,15 @@ class MemoryHandler extends Handler {
 		case MemoryThread.MSG_SEARCH:
 			searchEngine.performSearch((String)msg.obj);
 			client.treeView.postInvalidate();
+			break;
+		case MemoryThread.MSG_BACK_SEARCH:
+			searchEngine.performBackSearch();
+			client.treeView.postInvalidate();
+			break;
+		case MemoryThread.MSG_FORWARD_SEARCH:
+			searchEngine.performForwardSearch();
+			client.treeView.postInvalidate();
+			break;
 		}
 	}
 }

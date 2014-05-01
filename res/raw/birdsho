@@ -1,7 +1,6 @@
 name,fileindex,index,whichChild
 "homochroa",50,67,2
 "Hooded Seedeater",52,63,2
-"Honeycreepers",50,148,2
 "Short-billed Honeycreeper",50,151,1
 "Shining Honeycreeper",50,152,2
 "Purple Honeycreeper",50,153,2
@@ -17,13 +16,11 @@ name,fileindex,index,whichChild
 "Hooded Oriole",60,151,2
 "Hooded Warbler",58,61,2
 "Hooded Yellowthroat",57,106,2
-"Finches and Hawaiian honeycreepers",44,66,1
 "Hooded Siskin",53,113,2
 "Hoary Redpoll",53,154,1
 "hornemanni",53,154,1
 "House Finch",59,37,2
 "Hooded Grosbeak",44,94,1
-"Finches and Hawaiian honeycreepers",44,97,2
 "hoeschi",45,16,2
 "hodgsoni",45,24,1
 "House Sparrow",108,23,2
@@ -52,13 +49,11 @@ name,fileindex,index,whichChild
 "Honeyguide Greenbul",70,77,1
 "hodgsoni",78,29,2
 "holochlorus",65,163,2
-"House-martins",71,73,2
 "Nepal House-martin",71,75,1
 "Asian House-martin",71,76,2
 "Northern House-martin",71,77,2
 "Horned Lark",107,70,2
 "hova",107,128,2
-"Hoopoe-Larks",107,163,2
 "Greater Hoopoe-lark",107,164,1
 "Lesser Hoopoe-lark",107,165,2
 "holsti",100,89,2
@@ -75,9 +70,6 @@ name,fileindex,index,whichChild
 "Hooded Butcherbird",143,34,2
 "holopolia",141,20,2
 "Hooded Cuckooshrike",141,125,2
-"Honeyeaters, Thornbills, Bristlebirds and more",112,0,2
-"Honeyeaters",112,3,1
-"Honeyeaters",112,5,1
 "Brown-headed Honeyeater",112,15,1
 "Black-chinned Honeyeater",112,16,2
 "Strong-billed Honeyeater",112,17,2
@@ -119,7 +111,6 @@ name,fileindex,index,whichChild
 "Black Honeyeater",115,66,2
 "Bougainville Honeyeater",115,67,2
 "White-gaped Honeyeater",115,68,2
-"Honeyeaters",113,4,1
 "White-fronted Honeyeater",113,37,2
 "Mangrove Honeyeater",113,42,1
 "Singing Honeyeater",113,43,2
@@ -145,7 +136,6 @@ name,fileindex,index,whichChild
 "Yellow-spotted Honeyeater",113,90,1
 "Lewin's Honeyeater",113,91,2
 "Puff-backed Honeyeater",113,92,2
-"Honeyeaters",113,94,1
 "Streak-headed Honeyeater",113,99,1
 "Marbled Honeyeater",113,100,2
 "Plain Honeyeater",113,101,2
@@ -155,13 +145,10 @@ name,fileindex,index,whichChild
 "New Hebrides Honeyeater",113,108,2
 "Yellow-faced Honeyeater",113,112,1
 "Varied Honeyeater",113,114,2
-"Honeyeaters",113,115,2
 "Yellow-tinted Honeyeater",113,116,1
 "Grey-fronted Honeyeater",113,117,2
-"Honeyeaters",113,118,2
 "Eungella Honeyeater",113,123,1
 "Bridled Honeyeater",113,124,2
-"Honeyeaters",113,125,2
 "Arfak Honeyeater",113,140,1
 "Spangled Honeyeater",113,141,2
 "Smoky Honeyeater",113,142,2
@@ -172,7 +159,6 @@ name,fileindex,index,whichChild
 "Rufous-throated Honeyeater",113,154,2
 "Bar-breasted Honeyeater",113,156,1
 "Brown-backed Honeyeater",113,157,2
-"Honeyeaters",113,158,2
 "Black-backed Honeyeater",113,164,1
 "Rufous-backed Honeyeater",113,165,2
 "Rufous-sided Honeyeater",113,166,2
@@ -183,8 +169,6 @@ name,fileindex,index,whichChild
 "Tawny-crowned Honeyeater",113,172,2
 "housei",112,201,2
 "Hoary-throated Spinetail",37,55,2
-"Earthcreepers, Horneros, Ciclodes and more",35,56,2
-"Horneros",35,58,2
 "Pacific Hornero",35,63,1
 "Rufous Hornero",35,64,2
 "Crested Hornero",35,65,2
@@ -219,11 +203,9 @@ name,fileindex,index,whichChild
 "African Hobby",111,33,2
 "Australian Hobby",111,36,2
 "Oriental Hobby",111,38,2
-"Woodpeckers, Honeyguides, Toucans and Barbets",161,7,1
 "Hoffmann's Woodpecker",172,8,1
 "hoffmannii",172,8,1
 "hodgei",171,34,2
-"Honeyguides",161,9,2
 "Scaly-throated Honeyguide",161,16,1
 "Spotted Honeyguide",161,17,2
 "Dwarf Honeyguide",161,18,2
@@ -244,10 +226,6 @@ name,fileindex,index,whichChild
 "Hooded Mountain-toucan",178,25,2
 "hombroni",175,58,2
 "Hook-billed Kingfisher",174,36,2
-"Hornbills, Woodhoopoes and Hoopoe",161,43,2
-"Hornbills, Woodhoopoes and Hoopoe",161,43,2
-"Hornbills",168,0,1
-"Hornbills",168,1,1
 "Mindoro Hornbill",168,12,1
 "Luzon Hornbill",168,13,2
 "Samar Hornbill",168,15,1
@@ -289,7 +267,6 @@ name,fileindex,index,whichChild
 "Great Hornbill",168,79,2
 "Rhinoceros Hornbill",168,80,2
 "Helmeted Hornbill",168,81,2
-"Hornbills",168,83,1
 "Red-billed Hornbill",168,90,1
 "Monteiro's Hornbill",168,91,2
 "Eastern Yellow-billed Hornbill",168,92,2

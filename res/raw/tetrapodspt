@@ -27,7 +27,6 @@ name,fileindex,index,whichChild
 "Ptiloprora",148,199,2
 "Ptiloprora",148,201,1
 "Ptiloprora",148,202,2
-"Ptilonorhynchidae",120,138,1
 "Ptilonorhynchus",120,156,2
 "Pteroptochos",248,91,1
 "Pteroptochos",248,92,2
@@ -128,7 +127,6 @@ name,fileindex,index,whichChild
 "Ptilinopus",350,104,2
 "Ptilinopus",350,105,2
 "Ptilinopus",350,106,2
-"PTEROCLIDIFORMES",346,140,1
 "Pterocles",346,146,1
 "Pterocles",346,147,2
 "Pterocles",346,149,1
@@ -144,7 +142,6 @@ name,fileindex,index,whichChild
 "Pterocles",346,166,1
 "Pterocles",346,167,2
 "Pterophanes",332,156,2
-"Ptarmigans",312,92,2
 "Willow Ptarmigan",312,94,1
 "Rock Ptarmigan",312,95,2
 "White-tailed Ptarmigan",312,96,2
@@ -161,19 +158,15 @@ name,fileindex,index,whichChild
 "Ptychozoon",318,62,2
 "Ptyodactylus",321,29,2
 "Pteromyscus",278,83,2
-"Pteromys",278,90,2
 "Pteromys",278,91,1
 "Pteromys",278,92,2
 "Ptilocercus",254,175,2
-"Pteronotus",393,209,1
 "Pteronotus",393,213,1
 "Pteronotus",393,214,2
 "Pteronotus",393,215,2
 "Pteronotus",393,216,2
 "Pteronotus",393,218,1
 "Pteronotus",393,219,2
-"Pteropodidae",365,80,2
-"Pteropus",366,5,1
 "Pteropus",366,14,1
 "Pteropus",366,15,2
 "Pteropus",366,16,2
@@ -234,12 +227,10 @@ name,fileindex,index,whichChild
 "Pteropus",366,121,2
 "Pteropus",366,122,2
 "Pteropus",366,123,2
-"Pteralopex",366,133,2
 "Pteralopex",366,136,1
 "Pteralopex",366,137,2
 "Pteralopex",366,138,2
 "Pteralopex",366,139,2
-"Ptenochirus",387,27,2
 "Ptenochirus",387,28,1
 "Ptenochirus",387,29,2
 "Pteronura",386,22,2
@@ -259,7 +250,6 @@ name,fileindex,index,whichChild
 "ptychodactylus",46,168,1
 "pteridophilus",81,100,1
 "ptochus",81,185,1
-"PTYCHADENIDAE",90,0,2
 "Ptychadena",90,13,1
 "Ptychadena",90,14,2
 "Ptychadena",90,15,2

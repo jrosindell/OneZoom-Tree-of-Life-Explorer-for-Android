@@ -4,7 +4,6 @@ name,fileindex,index,whichChild
 "Uniform Finch",50,58,1
 "Slaty Finch",50,59,2
 "Peg-billed Finch",50,60,2
-"Finches and more",50,69,2
 "Sulphur-throated Finch",50,87,1
 "Saffron Finch",50,88,2
 "Yellow-bridled Finch",50,100,1
@@ -17,7 +16,6 @@ name,fileindex,index,whichChild
 "Crimson-breasted Finch",50,178,1
 "Slender-billed Finch",44,14,2
 "Black-masked Finch",44,17,2
-"Finchs, Grassquits and more",56,3,1
 "Woodpecker Finch",56,14,2
 "Mangrove Finch",56,18,2
 "Cocos Finch",56,19,2
@@ -25,7 +23,6 @@ name,fileindex,index,whichChild
 "Warbler Finch",56,30,2
 "St Lucia Black Finch",56,32,2
 "Tanager Finch",55,30,2
-"Finches and more",54,124,1
 "Grey-crested Finch",54,126,1
 "Black-crested Finch",54,127,2
 "Yellow-green Finch",48,11,1
@@ -35,8 +32,6 @@ name,fileindex,index,whichChild
 "Olive Finch",47,35,2
 "Field Sparrow",47,49,2
 "Five-striped Sparrow",47,53,1
-"Finches and more",44,64,2
-"Finches and Hawaiian honeycreepers",44,66,1
 "Fire-fronted Serin",53,73,2
 "Mediterranean Citril Finch",53,118,2
 "Alpine Citril Finch",53,159,1
@@ -56,8 +51,6 @@ name,fileindex,index,whichChild
 "Trumpeter Finch",59,126,2
 "Finsch's Euphonia",49,46,2
 "finschi",49,46,2
-"Finches and Hawaiian honeycreepers",44,97,2
-"Waxbills, grass finches, munias and more",101,3,1
 "Five-coloured Munia",104,41,2
 "Plum-headed Finch",101,32,1
 "Crimson Finch",101,33,2
@@ -158,8 +151,6 @@ name,fileindex,index,whichChild
 "Taita Fiscal",137,202,2
 "Grey-backed Fiscal",137,204,2
 "Long-tailed Fiscal",137,208,2
-"Orioles and figbirds",132,12,1
-"Figbirds",132,13,2
 "Australasian Figbird",132,15,1
 "Timor Figbird",132,16,2
 "Wetar Figbird",132,17,2
@@ -172,7 +163,6 @@ name,fileindex,index,whichChild
 "Fire-maned Bowerbird",29,40,1
 "Firewood-gatherer",35,11,2
 "figulus",35,72,2
-"Fire-eyes",31,108,2
 "White-shouldered Fire-eye",31,110,1
 "Fringe-backed Fire-eye",31,111,2
 "White-backed Fire-eye",31,112,2
@@ -181,7 +171,6 @@ name,fileindex,index,whichChild
 "Fiery-throated Fruiteater",121,177,2
 "Fiery-capped Manakin",122,19,1
 "filicauda",122,25,2
-"Fig-Parrots",109,50,2
 "Edwards's Fig-parrot",109,53,1
 "Large Fig-parrot",109,54,2
 "Salvadori's Fig-parrot",109,55,2
@@ -203,16 +192,13 @@ name,fileindex,index,whichChild
 "Five-coloured Barbet",178,95,2
 "Fire-tufted Barbet",178,173,2
 "fistulator",168,60,2
-"Fish-owls, Eagle-owls and more",166,5,1
 "Vermiculated Fishing-owl",166,12,1
 "Rufous Fishing-owl",166,13,2
 "Pel's Fishing-owl",166,14,2
-"Fish-owls",166,40,1
 "Blakiston's Fish-owl",166,43,1
 "Buffy Fish-owl",166,44,2
 "Tawny Fish-owl",166,45,2
 "Brown Fish-owl",166,46,2
-"Fish-eagles and Sea-eagles",162,15,1
 "Madagascar Fish-eagle",162,22,1
 "African Fish-eagle",162,23,2
 "Pallas's Fish-eagle",162,29,2
@@ -225,7 +211,6 @@ name,fileindex,index,whichChild
 "Fiordland Penguin",12,160,1
 "Fischer's Turaco",1,61,2
 "fischeri",1,61,2
-"Rails and Finfoots",15,1,1
 "African Finfoot",15,115,2
 "Masked Finfoot",15,126,2
 "fischeri",6,89,2
@@ -234,8 +219,6 @@ name,fileindex,index,whichChild
 "fimbriata",156,22,1
 "Fiery-throated Hummingbird",155,178,2
 "Fire-throated Metaltail",160,14,1
-"Coquettes, Thorntails and Firecrowns",160,85,2
-"Firecrowns",160,115,2
 "Juan Fernandez Firecrown",160,116,1
 "Green-backed Firecrown",160,117,2
 "Fiery-tailed Awlbill",158,23,2

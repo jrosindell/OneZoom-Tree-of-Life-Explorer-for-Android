@@ -9,9 +9,7 @@ name,fileindex,index,whichChild
 "Sao Francisco Sparrow",142,20,2
 "franciscanus",142,20,2
 "fraseri",144,83,2
-"Fringillidae",135,2,1
 "frontalis",136,26,1
-"Fringillidae",135,207,2
 "Fringilla",135,209,1
 "Fringilla",135,210,2
 "Fringilla",135,211,2
@@ -42,7 +40,6 @@ name,fileindex,index,whichChild
 "frontalis",157,138,2
 "fratrum",196,12,2
 "frontatus",195,179,2
-"Friarbirds",148,67,1
 "New Caledonian Friarbird",148,74,1
 "Little Friarbird",148,75,2
 "Grey Friarbird",148,76,2
@@ -71,13 +68,10 @@ name,fileindex,index,whichChild
 "franciscanus",235,30,2
 "frontalis",241,22,2
 "frantzii",244,13,2
-"Fruiteaters, Berryeaters and more",249,1,1
 "Bare-necked Fruitcrow",250,17,2
-"Fruitcrows, Umbrellabirds and more",249,21,2
 "Red-ruffed Fruitcrow",249,32,2
 "Purple-throated Fruitcrow",249,33,2
 "Crimson Fruitcrow",249,35,2
-"Fruiteaters",249,68,1
 "Black-chested Fruiteater",249,73,1
 "Masked Fruiteater",249,74,2
 "Barred Fruiteater",249,75,2
@@ -107,9 +101,6 @@ name,fileindex,index,whichChild
 "Fratercula",212,149,2
 "Fratercula",212,150,2
 "frontalis",119,88,2
-"Cormorants, Anhingas, Gannets and Frigatebirds",364,0,2
-"Frigatebirds",364,94,2
-"Fregatidae",364,94,2
 "Magnificent Frigatebird",364,97,1
 "Fregata",364,97,1
 "Ascension Frigatebird",364,98,2
@@ -122,7 +113,6 @@ name,fileindex,index,whichChild
 "Fregata",364,102,2
 "Fregetta",357,118,1
 "Fregetta",357,119,2
-"Fruit doves, Blue pigeons and more",347,7,1
 "Silver-capped Fruit-dove",350,14,1
 "Banded Fruit-dove",350,15,2
 "Cook Islands Fruit-dove",350,16,2
@@ -173,7 +163,6 @@ name,fileindex,index,whichChild
 "franciae",327,56,2
 "Frilled Coquette",332,101,2
 "francica",329,15,2
-"Frogmouths",324,69,2
 "Philippine Frogmouth",324,74,1
 "Gould's Frogmouth",324,75,2
 "Javan Frogmouth",324,77,1
@@ -280,7 +269,6 @@ name,fileindex,index,whichChild
 "fragilis",302,20,1
 "frontalis",301,34,2
 "frontoparietalis",303,99,1
-"Fringe-toed Lizards",299,6,1
 "Savigny's Fringe-fingered Lizard",299,16,2
 "Doumergue's Fringe-fingered Lizard",299,19,1
 "Spotted Fringe-fingered Lizard",299,20,2
@@ -329,7 +317,6 @@ name,fileindex,index,whichChild
 "Pocketed Free-tailed Bat",396,123,1
 "Big Free-tailed Bat",396,125,2
 "Peale's Free-tailed Bat",396,126,2
-"Free-tailed Bats",396,127,2
 "La Touche's Free-tailed Bat",396,135,1
 "East Asian Free-tailed Bat",396,136,2
 "European Free-tailed Bat",396,137,2
@@ -347,7 +334,6 @@ name,fileindex,index,whichChild
 "Southern Free-tailed Bat",396,190,2
 "Beccari's Free-tailed Bat",396,191,2
 "East-coast Free-tailed Bat",396,192,2
-"Fruit-eating Bats",393,10,2
 "Honduran Fruit-eating Bat",393,18,1
 "Hairy Fruit-eating Bat",393,19,2
 "Fraternal Fruit-eating Bat",393,20,2
@@ -386,7 +372,6 @@ name,fileindex,index,whichChild
 "Stripe-faced Fruit Bat",366,141,1
 "Small-toothed Fruit Bat",366,142,2
 "frosti",366,142,2
-"Bare-backed Fruit Bats",366,144,1
 "Halmahera Naked-backed Fruit Bat",366,153,1
 "Greenish Naked-backed Fruit Bat",366,154,2
 "Bismarck Bare-backed Fruit Bat",366,155,2
@@ -404,7 +389,6 @@ name,fileindex,index,whichChild
 "Harpy Fruit Bat",366,172,2
 "Dagger-toothed Long-nosed Fruit Bat",365,99,1
 "Hill Long-tongued Fruit Bat",365,100,2
-"Fruit Bats",399,0,2
 "Peters's Epauletted Fruit Bat",399,13,1
 "Gambian Epauletted Fruit Bat",399,14,2
 "Ethiopian Epauletted Fruit Bat",399,16,1
@@ -430,7 +414,6 @@ name,fileindex,index,whichChild
 "Little Collared Fruit Bat",399,66,2
 "Sao Tome Collared Fruit Bat",399,67,2
 "Angolan Fruit Bat",399,68,2
-"Fruit Bats",387,1,1
 "Peters's Fruit Bat",387,10,1
 "Minute Fruit Bat",387,11,2
 "Lesser Dog-faced Fruit Bat",387,12,2
@@ -468,11 +451,8 @@ name,fileindex,index,whichChild
 "frontalis",388,16,2
 "fraenata",110,75,2
 "frenatus",109,153,1
-"Frogs and Toads",0,134,1
-"Snouted Frogs",57,78,1
 "fracta",56,67,2
 "frontierei",59,54,2
-"Harlequin Frogs and more",63,1,1
 "franciscus",63,25,2
 "Venezuelan Yellow Frog",63,28,1
 "Golden Arrow Poison Frog",63,42,1
@@ -480,7 +460,6 @@ name,fileindex,index,whichChild
 "Tama Harlequin Frog",63,131,1
 "Harlequin Frog",63,143,1
 "Frostius",63,168,2
-"Poison Dart Frogs",38,74,2
 "Emerald Poison Frog",43,13,1
 "Spot-legged Poison Frog",43,14,2
 "Palenque Poison Frog",43,18,2
@@ -526,17 +505,11 @@ name,fileindex,index,whichChild
 "Martinique Volcano Frog",68,79,1
 "Yellow-throated Frog",68,133,2
 "Bloody Bay Poison Frog",68,134,2
-"Skunk Frogs",68,146,2
 "Skunk Frog",68,158,1
-"Darwin's Frogs and more",38,75,2
 "fryi",45,32,2
-"Darwin's Frogs and more",69,0,2
-"Darwin's Frogs",69,62,2
 "Darwin's Frog",69,63,1
-"Common Horned Frogs",38,77,2
 "Titicaca Water Frog",42,22,2
 "fronteriensis",38,93,1
-"South American Horned Frogs",52,3,1
 "Ecuadorian Horned Frog",52,7,1
 "Pacific Horned Frog",52,8,2
 "Venezuelan Horned Frog",52,9,2
@@ -545,7 +518,6 @@ name,fileindex,index,whichChild
 "Ornate Horned Frog",52,15,2
 "Caatinga Horned Frog",52,16,2
 "Chacoan Horned Frog",52,17,2
-"Budgett's frogs",52,19,2
 "American White Lipped Frog",39,13,1
 "fragilis",39,13,1
 "Myers' Thin-toed Frog",39,101,1
@@ -560,8 +532,6 @@ name,fileindex,index,whichChild
 "Tandayapa Giant Glass Frog",50,35,1
 "Fleischmann's Glass Frog",49,171,2
 "fragile",49,200,2
-"Spikethumb Frogs",40,4,1
-"Chorus Frogs",40,107,1
 "Mountain Chorus Frog",40,113,1
 "Brimley's Chorus Frog",40,114,2
 "Upland Chorus Frog",40,115,2
@@ -572,20 +542,14 @@ name,fileindex,index,whichChild
 "Ornate Chorus Frog",40,123,2
 "Little Grass Frog",40,125,1
 "Pacific Chorus Frog",40,129,2
-"Cricket Frogs",40,130,2
 "Northern Cricket Frog",40,131,1
 "Southern Cricket Frog",40,132,2
-"Stream Frogs",67,2,1
-"Mountain Brook Frogs",67,28,1
-"Fringe-limbed Treefrogs",67,46,2
 "Jamaican Snoring Frog",64,59,2
 "Jamaican Laughing Frog",64,62,1
 "Yellow Bromeliad Frog",64,63,2
 "Green Bromeliad Frog",64,64,2
 "Bruno's Casque-headed Frog",64,93,1
 "Bokermann's Casque-headed Frog",64,95,2
-"Heart-tongued Frogs",64,100,2
-"Harlequin Frogs",48,195,2
 "freicanecae",47,54,1
 "Lesueur's Frog",53,12,1
 "Fringed Treefrog",53,19,2
@@ -633,23 +597,13 @@ name,fileindex,index,whichChild
 "Daly Waters Frog",38,168,1
 "Collared Frog",38,169,2
 "Knife-footed Frog",38,170,2
-"Colored Leaf Frogs",66,54,2
-"Rough Leaf Frogs",66,81,2
-"Shining Leaf Frogs",66,96,2
-"Marsupial Frogs",93,0,2
 "Brewer's Carrying Frog",91,14,1
-"Backpack Frogs",91,36,2
-"Rain Frogs, Saddleback Toads and more",72,0,2
-"Rain Frogs",72,6,1
 "frater",84,43,2
 "fraudator",86,72,2
 "Lesser Antillean whistling frog",75,63,1
 "Guiana Shield Frog",72,26,2
-"Guanabara Frogs",72,59,2
 "Barking Frog",85,26,1
 "Miles' Robber Frog",72,146,1
-"Rain Frogs",72,172,2
-"Gastric-brooding Frogs, Toadlets and more",1,20,2
 "Sunset Frog",23,53,2
 "Northern Corroboree Frog",23,65,1
 "Corroboree Frog",23,75,2
@@ -679,17 +633,14 @@ name,fileindex,index,whichChild
 "Nornalup Frog",24,44,2
 "Hip-pocket Frog",24,45,2
 "Haswell's Froglet",24,46,2
-"Tinker Frogs",23,87,1
 "Northern Tinker Frog",23,89,1
 "Eungella Tinker Frog",23,90,2
 "Kroombit Tinker Frog",23,91,2
 "Sharp Snouted Day Frog",23,93,1
 "Mount Glorious Torrent Frog",23,94,2
 "Eungella Torrent Frog",23,95,2
-"Barred Frogs",23,97,1
 "Grey Barred Frog",23,101,2
 "Northern Barred Frog",23,107,2
-"Gastric-brooding Frogs",23,108,2
 "Eungella Gastric-brooding Frog",23,109,1
 "Southern Gastric Brooding Frog",23,110,2
 "Painted Burrowing Frog",23,119,1
@@ -710,7 +661,6 @@ name,fileindex,index,whichChild
 "Marbled Frog",23,165,1
 "Salmon-striped Frog",23,166,2
 "Woodworker Frog",23,167,2
-"Banjo Frogs",23,168,2
 "Northern Banjo Frog",23,171,1
 "Giant Banjo Frog",23,172,2
 "Banjo Frog",23,173,2
@@ -727,14 +677,9 @@ name,fileindex,index,whichChild
 "Sphagnum Frog",23,195,2
 "Mountain Frog",23,196,2
 "Loveridge's Frog",23,197,2
-"Purple Frog, Seychelles Palm Frog and more",1,28,2
-"Purple Frog, Seychelles Palm Frog and more",1,28,2
 "Gardiner's Seychelles frog",1,31,1
 "Seychelles palm frog",1,34,1
 "Purple frog",1,36,2
-"True Frogs, Shrub Frogs and more",1,38,1
-"True Frogs, Shrub Frogs and more",1,38,1
-"Shrub Frogs",2,5,1
 "Jinxiu Bubble-nest Frog",7,29,1
 "frankenbergi",7,37,1
 "Indonesian Bubble-nest Frog",9,43,1
@@ -882,7 +827,6 @@ name,fileindex,index,whichChild
 "Du Toit's Torrent Frog",6,18,1
 "Usambara Torrent Frog",6,20,2
 "Goliath Frog",6,43,1
-"Dwarf Puddle Frogs",2,146,2
 "fraterculus",4,41,2
 "Natal Dwarf Puddle Frog",4,44,1
 "Boutry River Frog",4,61,1
@@ -904,7 +848,6 @@ name,fileindex,index,whichChild
 "Broad-banded Grass Frog",90,93,2
 "Victoria Grassland Frog",90,94,2
 "African Ornate Frog",90,99,2
-"Microhylid Frogs",25,1,1
 "frontifasciata",28,29,2
 "Robust Frog",28,155,1
 "Fry's Frog",28,156,2
@@ -947,10 +890,6 @@ name,fileindex,index,whichChild
 "West African Rubber Frog",25,85,1
 "Marbled Rubber Frog",25,86,2
 "Deli Paddy Frog",25,89,1
-"African Wart Frogs, Reed Frogs, Midwife Frogs and more",25,127,1
-"African Wart Frogs, Reed Frogs, Midwife Frogs and more",25,127,1
-"African Wart Frogs, Reed Frogs, Midwife Frogs and more",25,127,1
-"African Reed Frogs",30,1,1
 "Bobiri Reed Frog",30,15,2
 "Spiny-throated Reed Frog",30,31,1
 "Lime Reed Frog",30,33,2
@@ -962,8 +901,6 @@ name,fileindex,index,whichChild
 "Baumann's Reed Frog",30,148,1
 "Marbled Reed Frog",30,173,1
 "Pickersgill's Reed Frog",30,184,2
-"Midwife Frogs",30,191,2
-"Banana Frogs",34,1,1
 "Weidholz's Banana Frog",34,9,1
 "Savanna Banana Frog",34,10,2
 "Knysna Banana Frog",34,12,1
@@ -976,22 +913,10 @@ name,fileindex,index,whichChild
 "Congo Banana Frog",34,43,2
 "Golden Banana Frog",34,50,1
 "Brown Banana Frog",34,54,1
-"Madagascan Reed Frogs",34,57,1
-"Running Frogs",27,3,1
 "Silver Running Frog",27,17,1
 "Brown Running Frog",27,24,1
-"Common Striped Frogs",27,30,1
 "Weale's Running Frog",27,33,2
-"African Striped Frogs",27,35,2
-"African Wart Frogs",27,44,1
-"Forest Treefrogs, Night Frogs and more",25,135,2
-"Screeching Frogs, Night Frogs and more",26,0,1
-"Screeching Frogs, Night Frogs and more",26,0,1
-"Screeching Frogs",26,3,1
 "francei",26,28,2
-"Long-fingered Frogs",26,72,2
-"Egg Frogs",26,103,1
-"Night Frogs",26,134,1
 "Hairy Frog",26,155,2
 "Common Rain Frog",25,143,1
 "Rose's Rain Frog",25,145,2
@@ -1006,31 +931,23 @@ name,fileindex,index,whichChild
 "Desert Rain Frog",25,161,2
 "Mozambique Rain Frog",25,164,1
 "Forest Rain Frog",25,165,2
-"Shovelnose Frogs",25,180,2
-"Ghost Frogs",1,40,2
 "Hewitt's Ghost Frog",1,44,1
 "Royal Ghost Frog",1,45,2
 "Eastern Ghost Frog",1,46,2
 "Purcell's Ghost Frog",1,47,2
 "Table Mountain Ghost Frog",1,49,1
 "Natal Ghost Frog",1,50,2
-"Spadefoot Toads, Asian Horned Frogs and more",1,51,2
-"Karin Hills Frogs, Asian Horned Frogs and more",1,53,1
-"Karin Hills Frogs, Asian Horned Frogs and more",1,53,1
 "Kinabalu Horned Frog",71,24,2
 "Dring's Horned Frog",71,59,1
-"Asian Horned Frogs",1,128,1
 "Kobayashi's Horned Frog",1,132,1
 "Horned Frog",1,133,2
 "Borneon Horned Frog",1,135,1
 "Mindanao Horned Frog",1,137,2
 "Palawan Horned Frog",1,138,2
-"Karin Hills Frogs",1,149,2
 "Mount Gadin Borneo Frog",37,47,1
 "Smith's Litter Frog",37,58,1
 "Parsley Frog",1,181,1
 "Caucasian Parsley Frog",1,183,2
-"Disc-Tongued Frogs",342,1,1
 "Tyrrhenian Painted Frog",342,6,1
 "Hula Painted Frog",342,7,2
 "Corsican Painted Frog",342,8,2
@@ -1055,15 +972,12 @@ name,fileindex,index,whichChild
 "Kivu Clawed Frog",322,34,2
 "Cameroon Clawed Frog",322,36,1
 "Tropical Clawed Frog",322,37,2
-"African Dwarf Frogs",322,52,1
 "Congo Dwarf Clawed Frog",322,57,2
 "Western Dwarf Clawed Frog",322,58,2
-"New Zealand and North American Primitive Frogs",0,138,1
 "Hamilton's Frog",0,141,1
 "Maud Island Frog",0,142,2
 "Archey's Frog",0,143,2
 "Hochstetter's Frog",0,144,2
-"Tailed Frogs",0,145,2
 "Inland Tailed Frog",0,146,1
 "Coastal Tailed Frog",0,147,2
 "Paramo Frontino Salamander",100,54,2

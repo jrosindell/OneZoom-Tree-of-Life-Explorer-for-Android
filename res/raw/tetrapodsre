@@ -1,7 +1,6 @@
 name,fileindex,index,whichChild
 "Red-backed Sierra-finch",125,51,2
 "Long-tailed Reed-finch",126,22,1
-"Warbling-finches, Reed-finches and more",126,25,2
 "reyi",126,76,2
 "Red-legged Honeycreeper",125,188,2
 "Red-crested Finch",130,14,1
@@ -131,7 +130,6 @@ name,fileindex,index,whichChild
 "redivivum",192,46,2
 "Red-billed Oxpecker",181,72,1
 "Red-breasted Nuthatch",182,12,2
-"Reguliidae",181,162,2
 "Regulus",181,166,1
 "regulus",181,167,2
 "Regulus",181,167,2
@@ -198,7 +196,6 @@ name,fileindex,index,whichChild
 "Red-winged Lark",173,86,2
 "Red Lark",161,89,2
 "Red-throated Tit",169,23,1
-"Remizidae",161,134,2
 "Remiz",161,150,1
 "Remiz",161,151,2
 "Remiz",161,152,2
@@ -249,8 +246,6 @@ name,fileindex,index,whichChild
 "Straight-billed Reedhaunter",234,41,1
 "rectirostris",234,41,1
 "Curve-billed Reedhaunter",231,46,1
-"Foliage-gleaners, Treehunters and Recurvebills",232,0,1
-"Recurvebills",232,17,2
 "Peruvian Recurvebill",232,18,1
 "Bolivian Recurvebill",232,19,2
 "rectirostris",232,84,2
@@ -389,7 +384,6 @@ name,fileindex,index,whichChild
 "Red-wattled Lapwing",119,48,2
 "Red-capped Plover",119,73,1
 "Red-kneed Dotterel",119,90,1
-"Recurvirostridae",119,147,2
 "Recurvirostra",119,160,1
 "Recurvirostra",119,161,2
 "Recurvirostra",119,162,2
@@ -517,10 +511,8 @@ name,fileindex,index,whichChild
 "Red Hocicudo",289,172,1
 "Red Arboreal Rice Rat",293,90,2
 "rex",293,107,2
-"Reithrodon",287,52,1
 "Reithrodon",287,53,1
 "Reithrodon",287,54,2
-"Reithrodontomys",287,163,2
 "Reithrodontomys",287,168,1
 "Reithrodontomys",287,169,2
 "Reithrodontomys",287,170,2
@@ -566,7 +558,6 @@ name,fileindex,index,whichChild
 "Revillagigedo Island Red-backed Vole",284,41,1
 "Tien Shan Red-backed Vole",284,44,1
 "Northern Red-backed Vole",284,45,2
-"Red Forest Rats",281,90,1
 "Lowland Red Forest Rat",281,92,1
 "Lowland Red Forest Rat",281,93,2
 "Eastern Red Forest Rat",281,94,2
@@ -582,7 +573,6 @@ name,fileindex,index,whichChild
 "Eurasian Red Squirrel",279,36,2
 "Red-tailed Squirrel",279,45,2
 "Red Squirrel",279,69,2
-"Red-cheeked Squirrel",278,148,1
 "Asian Red-cheeked Squirrel",278,154,1
 "Red-hipped Squirrel",278,157,1
 "Red-throated Squirrel",278,158,2
@@ -601,7 +591,6 @@ name,fileindex,index,whichChild
 "Red-tailed Monkey",275,86,2
 "Red-eared Monkey",275,90,2
 "Red-shanked Douc Langur",275,171,2
-"Red Colobus Monkeys",275,177,1
 "Red-cheeked Gibbon",295,27,2
 "Red-chested Mustached Tamarin",285,51,2
 "regulus",285,135,2
@@ -641,7 +630,6 @@ name,fileindex,index,whichChild
 "Red-fronted Gazelle",372,138,1
 "Red-flanked Duiker",372,169,2
 "Natal Red Duiker",372,170,2
-"Redunca",371,26,2
 "Southern Reedbuck",371,28,1
 "Redunca",371,28,1
 "Bohor Reedbuck",371,29,2
@@ -686,7 +674,6 @@ name,fileindex,index,whichChild
 "African Red Toad",56,81,2
 "reticulatus",63,48,2
 "Green And Red Venter Harlequin Toad",63,95,2
-"South American Redbelly Toads",38,37,2
 "Red-headed Poison Frog",44,10,1
 "reticulata",44,43,2
 "regius",65,19,2
@@ -721,8 +708,6 @@ name,fileindex,index,whichChild
 "reticulata",5,33,2
 "retropunctata",90,92,2
 "Relictivomer",35,82,2
-"African Wart Frogs, Reed Frogs, Midwife Frogs and more",25,127,1
-"African Reed Frogs",30,1,1
 "Bobiri Reed Frog",30,15,2
 "Spiny-throated Reed Frog",30,31,1
 "Lime Reed Frog",30,33,2
@@ -734,7 +719,6 @@ name,fileindex,index,whichChild
 "Baumann's Reed Frog",30,148,1
 "Marbled Reed Frog",30,173,1
 "Pickersgill's Reed Frog",30,184,2
-"Madagascan Reed Frogs",34,57,1
 "reichei",26,18,1
 "regis",1,45,2
 "rex",100,122,2

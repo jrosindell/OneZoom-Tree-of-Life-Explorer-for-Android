@@ -22,8 +22,6 @@ name,fileindex,index,whichChild
 "subpersonatus",140,12,2
 "superciliosus",140,69,1
 "superciliosus",140,168,1
-"Sunbirds and Flowerpeckers",121,91,1
-"Sunbirds",121,92,1
 "Reichenbach's Sunbird",131,10,1
 "Shelley's Sunbird",131,11,2
 "Malachite Sunbird",131,12,2
@@ -142,11 +140,8 @@ name,fileindex,index,whichChild
 "Crimson Sunbird",121,157,2
 "Gould's Sunbird",121,158,2
 "Elegant Sunbird",121,159,2
-"Sunbirds",139,90,2
 "Purple-naped Sunbird",139,104,2
 "Sumatran Leafbird",121,178,2
-"Sugarbirds and more",121,186,1
-"Sugarbirds",121,190,2
 "Gurney's Sugarbird",121,191,1
 "Cape Sugarbird",121,192,2
 "superciliaris",187,12,2
@@ -346,9 +341,7 @@ name,fileindex,index,whichChild
 "superciliosus",119,37,1
 "superciliaris",114,163,2
 "sumatrana",354,51,1
-"SULIFORMES",364,0,2
 "sulcirostris",364,13,1
-"Sulidae",364,75,2
 "Sula",364,80,1
 "Sula",364,81,2
 "Sula",364,83,1
@@ -377,7 +370,6 @@ name,fileindex,index,whichChild
 "Sulu Bleeding-heart",347,101,2
 "subvinacea",347,157,2
 "Subdesert Mesite",346,138,2
-"Sunangels",332,69,2
 "Tourmaline Sunangel",332,75,1
 "Little Sunangel",332,76,2
 "Orange-throated Sunangel",332,77,2
@@ -385,8 +377,6 @@ name,fileindex,index,whichChild
 "Amethyst-throated Sunangel",332,79,2
 "Gorgeted Sunangel",332,80,2
 "Royal Sunangel",332,81,2
-"Sunbeams and more",332,184,2
-"Sunbeams",332,210,2
 "White-tufted Sunbeam",332,213,1
 "Black-hooded Sunbeam",332,214,2
 "Purple-backed Sunbeam",332,215,2
@@ -413,7 +403,6 @@ name,fileindex,index,whichChild
 "subplana",343,19,2
 "subrufa",0,96,1
 "sulcata",305,18,2
-"Sunskinks",306,16,2
 "surda",306,42,2
 "submetallica",306,71,2
 "subtesselatus",298,144,2
@@ -459,7 +448,6 @@ name,fileindex,index,whichChild
 "Diurnal Sulawesian Shrew Rat",271,48,2
 "Northern Sulawesi Echiothrix",271,55,1
 "Central Sulawesi Echiothrix",271,56,2
-"Sundamys",263,88,1
 "Mountain Sundamys",263,90,1
 "Sundamys",263,90,1
 "Javan Sundamys",263,91,2
@@ -496,7 +484,6 @@ name,fileindex,index,whichChild
 "Sunda Porcupine",256,53,2
 "Sumatran Flying Squirrel",278,31,1
 "Sulawesi Giant Squirrel",278,111,2
-"Sundasciurus",278,117,1
 "Sundasciurus",278,124,1
 "Sundasciurus",278,125,2
 "Sundasciurus",278,126,2
@@ -515,7 +502,6 @@ name,fileindex,index,whichChild
 "sublineatus",278,207,1
 "suslicus",297,30,2
 "substriatus",296,140,2
-"Sun Squirrels",296,156,2
 "Red-legged Sun Squirrel",296,160,1
 "Small Sun Squirrel",296,161,2
 "Gambian Sun Squirrel",296,162,2
@@ -525,9 +511,7 @@ name,fileindex,index,whichChild
 "surdus",262,13,2
 "Sumatran Striped Rabbit",254,102,1
 "Sun-tailed Monkey",275,136,2
-"Langurs, Surilis and more",275,141,1
 "Javan Surili",276,34,2
-"Surilis",276,40,2
 "White-thighed Surili",276,43,1
 "Sarawak Surili",276,44,2
 "Natuna Island Surili",276,46,1
@@ -557,8 +541,6 @@ name,fileindex,index,whichChild
 "Sulawesi Rousette",399,58,2
 "sumatraensis",372,58,2
 "subgutturosa",372,120,2
-"Suidae",401,1,1
-"Sus",401,5,1
 "Sus",401,9,1
 "Sus",401,10,2
 "Sus",401,11,2
@@ -607,7 +589,6 @@ name,fileindex,index,whichChild
 "Suncus",402,36,2
 "Suncus",402,37,2
 "Suncus",402,58,2
-"Surdisorex",402,89,1
 "Surdisorex",402,90,1
 "Surdisorex",402,91,2
 "suncoides",402,92,2
@@ -670,8 +651,6 @@ name,fileindex,index,whichChild
 "subterrestris",25,123,2
 "susanae",36,63,2
 "sungi",37,16,1
-"Burrowing Toad, Surinam Toads and more",322,0,2
-"Surinam Toads",322,38,2
 "Suriname Toad",322,43,1
 "Arrabal's Suriname Toad",322,45,2
 "Albina Surinam Toad",322,46,2

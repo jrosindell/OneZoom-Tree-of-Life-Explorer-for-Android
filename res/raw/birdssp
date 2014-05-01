@@ -38,12 +38,8 @@ name,fileindex,index,whichChild
 "Spotted Tanager",54,81,2
 "Speckled Tanager",54,83,2
 "speculifera",54,129,1
-"Buntings, American sparrows and more",54,170,1
 "speculiferus",54,177,2
-"Buntings, American sparrows and more",61,17,2
 "Spiza",61,30,2
-"New World Warblers, Buntings, American Sparrows and more",47,0,1
-"Buntings, American sparrows and more",47,3,1
 "Spotted Towhee",48,25,2
 "Cabanis's Ground Sparrow",48,42,2
 "Rufous-crowned Sparrow",48,48,1
@@ -93,7 +89,6 @@ name,fileindex,index,whichChild
 "Spizella",47,51,2
 "Five-striped Sparrow",47,53,1
 "Black-throated Sparrow",47,54,2
-"Buntings, American sparrows and more",47,56,1
 "Olive Sparrow",47,62,1
 "Tocuyo Sparrow",47,63,2
 "Green-backed Sparrow",47,64,2
@@ -112,11 +107,9 @@ name,fileindex,index,whichChild
 "Stripe-capped Sparrow",47,87,1
 "Tumbes Sparrow",47,88,2
 "Lark Sparrow",47,126,2
-"Buntings, American sparrows and more",47,137,2
 "spodocephala",47,184,2
 "spurius",60,150,2
 "Spot-breasted Oriole",60,159,1
-"New World warblers, Buntings, American Sparrows and more",57,0,2
 "Spectacled Redstart",57,27,1
 "speciosa",57,111,2
 "Jamaican Spindalis",57,170,1
@@ -127,7 +120,6 @@ name,fileindex,index,whichChild
 "Spindalis",57,172,2
 "Hispaniolan Spindalis",57,173,2
 "Spindalis",57,173,2
-"Buntings, American sparrows and more",44,53,2
 "spinescens",53,108,2
 "spinus",53,127,1
 "spinoides",44,73,1
@@ -138,7 +130,6 @@ name,fileindex,index,whichChild
 "spinoletta",45,9,1
 "Sprague's Pipit",45,39,1
 "spragueii",45,39,1
-"Sparrows, Snowfinches and more",108,0,2
 "Chestnut Sparrow",108,11,2
 "Eurasian Tree Sparrow",108,15,1
 "Desert Sparrow",108,16,2
@@ -173,13 +164,10 @@ name,fileindex,index,whichChild
 "spekeoides",102,73,2
 "Speke's Weaver",102,82,2
 "spekei",102,82,2
-"Sparrows, snowfinches and more",105,47,2
-"Sparrows, snowfinches and more",101,142,1
 "Chestnut-backed Sparrow-weaver",101,144,1
 "Donaldson-Smith's Sparrow-weaver",101,145,2
 "Chestnut-crowned Sparrow-weaver",101,147,1
 "White-browed Sparrow-weaver",101,148,2
-"Sparrows, snowfinches and more",101,152,1
 "Speckle-fronted Weaver",101,154,1
 "Sporopipes",101,154,1
 "Sporopipes",101,155,2
@@ -274,7 +262,6 @@ name,fileindex,index,whichChild
 "Spizocorys",107,39,2
 "Spizocorys",107,40,2
 "Spike-heeled Lark",107,154,1
-"Sparrow-larks",107,167,1
 "Chestnut-headed Sparrow-lark",107,172,1
 "Black-crowned Sparrow-lark",107,173,2
 "Fischer's Sparrow-lark",107,174,2
@@ -311,8 +298,6 @@ name,fileindex,index,whichChild
 "splendens",112,168,1
 "Spotted Bowerbird",29,36,2
 "Spotted Catbird",29,47,2
-"Canasteros, Spinetails and more",35,7,1
-"Spinetails",37,1,1
 "Pale-breasted Spinetail",37,10,1
 "Sooty-fronted Spinetail",37,11,2
 "Azara's Spinetail",37,12,2
@@ -353,7 +338,6 @@ name,fileindex,index,whichChild
 "Chestnut-throated Spinetail",37,73,1
 "Grey-bellied Spinetail",37,74,2
 "Great Spinetail",37,80,2
-"Spinetails",37,86,1
 "Bolivian Spinetail",37,95,1
 "Olive Spinetail",37,96,2
 "Stripe-crowned Spinetail",37,97,2
@@ -412,7 +396,6 @@ name,fileindex,index,whichChild
 "Spectacled Tyrant",123,98,2
 "spadiceus",128,62,1
 "spectabilis",126,26,2
-"Spadebills",121,24,1
 "Yellow-throated Spadebill",121,28,1
 "White-crested Spadebill",121,29,2
 "Golden-crowned Spadebill",121,30,2
@@ -476,7 +459,6 @@ name,fileindex,index,whichChild
 "Spotted Owlet",177,65,1
 "Speckled Hawk-owl",169,39,1
 "sphenurus",162,36,1
-"Sparrowhawks and more",162,55,2
 "spilonotus",165,26,1
 "Spotted Harrier",165,27,2
 "Frances's Sparrowhawk",165,32,2
@@ -526,7 +508,6 @@ name,fileindex,index,whichChild
 "spinosus",24,14,2
 "Spotted Thick-knee",20,160,2
 "speciosa",3,14,2
-"Ibises and spoonbills",3,125,2
 "spinicollis",3,141,2
 "Eurasian Spoonbill",3,145,1
 "Black-faced Spoonbill",3,146,2
@@ -538,7 +519,6 @@ name,fileindex,index,whichChild
 "Spot-billed Pelican",3,202,2
 "Spotted Shag",19,15,2
 "Spectacled Petrel",12,24,2
-"SPHENISCIFORMES",12,152,2
 "Spheniscus",12,173,1
 "Spheniscus",12,174,2
 "Spheniscus",12,176,1

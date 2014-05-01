@@ -3,35 +3,21 @@ name,fileindex,index,whichChild
 "Japanese Skylark",173,24,2
 "Oriental Skylark",173,25,2
 "Skutchia",245,85,2
-"Skimmers",212,63,2
 "African Skimmer",212,65,1
 "Indian Skimmer",212,66,2
 "Black Skimmer",212,67,2
-"Skuas and jaegers",212,152,2
 "Southern Skua",212,156,1
 "Chilean Skua",212,157,2
 "South Polar Skua",212,158,2
 "Great Skua",212,162,2
 "skua",212,162,2
 "Brown Skua",212,163,2
-"Skinks",298,2,1
 "Bridled Skink",305,35,1
 "Levant Skink",305,81,2
-"Snow Skinks",306,7,1
 "Pedra Branca Skink",306,14,1
-"Firetail Skinks",306,27,1
-"Shining Skinks",306,46,2
-"Short-legged Giant Skinks",306,90,2
-"Writhing Skinks",305,143,2
-"Blue-tongued Skinks",305,156,1
 "Adelaide Pigmy Blue-tongue Skink",305,167,1
-"Common Skinks",307,3,1
-"Green-blooded Skink",307,40,2
 "Great Desert Skink",307,59,1
-"Ground Skinks",298,9,2
 "Ground Skink",298,16,1
-"Comb-eared Skinks",300,28,2
-"Water Skinks",301,3,1
 "Blue Mountain Water Skink",301,21,1
 "Dumeril's Short-legged Skink",300,93,1
 "Cotabato Worm Skink",300,94,2
@@ -39,12 +25,8 @@ name,fileindex,index,whichChild
 "Two-digit Worm Skink",300,97,2
 "Boulenger's Short-legged Skink",300,101,2
 "Negros Three-digit Worm Skink",300,102,2
-"Four-fingered Skinks",300,109,1
 "skiltonianus",300,165,1
-"Lidless Skinks",300,173,1
 "Marbled Skink",300,180,1
-"Shade Skinks",300,183,2
-"Earless Skinks",300,192,2
 "Many-scaled Cylindrical Skink",303,15,1
 "Mionecton Skink",303,16,2
 "Bedriaga's Skink",303,18,1
@@ -60,14 +42,11 @@ name,fileindex,index,whichChild
 "Wedge-snouted Skink",303,48,1
 "Gronovi's Dwarf Burrowing Skink",303,56,1
 "Brauer's Burrowing Skink",303,123,1
-"Lance Skinks",298,37,1
 "Woodbush Legless Skink",298,48,2
-"Snake-eyed Skinks",298,68,2
 "Two-streaked Snake-eyed Skink",298,70,1
 "European Copper Skink",298,72,2
 "Gyldenstolpe's Worm Skink",298,75,1
 "skoogi",298,129,2
-"Skunks",386,27,2
 "Eastern Spotted Skunk",386,32,1
 "Western Spotted Skunk",386,33,2
 "Southern Spotted Skunk",386,34,2
@@ -78,7 +57,6 @@ name,fileindex,index,whichChild
 "Striped Hog-nosed Skunk",386,42,2
 "American Hog-nosed Skunk",386,44,1
 "Molina's Hog-nosed Skunk",386,45,2
-"Skunk Frogs",68,146,2
 "Skunk Frog",68,158,1
 "skydmainos",73,125,1
 "skotogaster",35,80,2

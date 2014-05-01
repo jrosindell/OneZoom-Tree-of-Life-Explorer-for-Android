@@ -72,7 +72,6 @@ name,fileindex,index,whichChild
 "Black-spectacled Brush-finch",142,67,2
 "Black-headed Bunting",142,116,1
 "Black-faced Bunting",142,129,2
-"New World blackbirds",142,165,2
 "Saffron-cowled Blackbird",143,13,2
 "Yellow-hooded Blackbird",143,15,1
 "Chestnut-capped Blackbird",143,16,2
@@ -502,7 +501,6 @@ name,fileindex,index,whichChild
 "Black-billed Shrike-tyrant",238,20,2
 "Black-and-white Monjita",238,34,1
 "Black-fronted Ground-tyrant",238,50,2
-"Black-Tyrants",235,14,1
 "Amazonian Black-tyrant",235,19,1
 "White-winged Black-tyrant",235,20,2
 "Blue-billed Black-tyrant",235,21,2
@@ -594,7 +592,6 @@ name,fileindex,index,whichChild
 "Blue-bellied Parrot",221,102,2
 "Blue-fronted Parrotlet",215,93,1
 "Blue-eyed Cockatoo",215,152,2
-"Black-cockatoos",215,158,1
 "Carnaby????????????s Black-Cockatoo",215,161,1
 "Yellow-tailed Black-cockatoo",215,162,2
 "Red-tailed Black-cockatoo",215,163,2
@@ -782,8 +779,6 @@ name,fileindex,index,whichChild
 "Blue Crane",360,172,2
 "Black-necked Crane",360,178,1
 "Black Crowned-crane",360,186,2
-"Fruit doves, Blue pigeons and more",347,7,1
-"Blue pigeons",350,41,1
 "Seychelles Blue-pigeon",350,43,1
 "Comoro Blue-pigeon",350,44,2
 "Madagascar Blue-pigeon",350,45,2
@@ -793,7 +788,6 @@ name,fileindex,index,whichChild
 "Black-billed Wood-dove",347,13,1
 "Blue-headed Wood-dove",347,15,2
 "Blue-spotted Wood-dove",347,18,2
-"Bleeding heart doves, Ground-doves and more",347,43,2
 "Mindoro Bleeding-heart",347,93,1
 "Negros Bleeding-heart",347,100,2
 "Sulu Bleeding-heart",347,101,2
@@ -878,7 +872,6 @@ name,fileindex,index,whichChild
 "Blue-winged Teal",313,190,1
 "Black-headed Duck",310,136,1
 "Blue-billed Duck",310,145,2
-"Black Geese",316,23,2
 "Black Swan",316,42,1
 "Black-necked Swan",316,44,2
 "Black-bellied Whistling-duck",310,163,1
@@ -895,7 +888,6 @@ name,fileindex,index,whichChild
 "blandingii",94,144,2
 "Black Soft-shell Turtle",343,11,2
 "Black Spine-necked Swamp Turtle",0,106,2
-"Blue-tongued Skinks",305,156,1
 "Adelaide Pigmy Blue-tongue Skink",305,167,1
 "blanchardi",305,180,2
 "Blue Mountain Water Skink",301,21,1
@@ -912,12 +904,10 @@ name,fileindex,index,whichChild
 "Black-collared Snake",336,16,2
 "blythii",334,40,2
 "Beddome's Black Shieldtail",334,52,2
-"Blind snakes, Thread Snakes and Worm Snakes",334,111,2
 "Seven-striped Blind Snake",334,123,2
 "San Salvador Blind Snake",334,124,2
 "Villiers' Blind Snake",334,125,2
 "Spotted Blind Snake",334,138,1
-"Blind snakes",334,152,2
 "Whitenose Blind Snake",334,153,1
 "Trinidad Blind Snake",334,154,2
 "Blanus",334,177,2
@@ -936,8 +926,6 @@ name,fileindex,index,whichChild
 "Blazed Luzon Chrotomys",264,64,2
 "Black-tufted Gerbil",268,59,2
 "Black-tailed Gerbil",265,58,1
-"Blind Mole Rats, Mouse-like Hamsters and more",263,156,2
-"Blind Mole Rats and more",263,159,1
 "Kazakhstan Blind Mole Rat",263,165,1
 "Giant Blind Mole Rat",263,166,2
 "Balkan Blind Mole Rat",263,169,2
@@ -952,7 +940,6 @@ name,fileindex,index,whichChild
 "Blackish Deer Mouse",291,74,2
 "Black-wristed Deer Mouse",291,102,1
 "Blyth's Vole",282,58,1
-"Blanfordimys",283,30,1
 "Blanfordimys",283,31,1
 "Blanfordimys",283,32,2
 "Black-eared Red-backed Vole",284,27,2
@@ -1024,7 +1011,6 @@ name,fileindex,index,whichChild
 "Comoro Black Flying Fox",366,17,2
 "Black Flying Fox",366,61,2
 "Blyth's Flying Fox",366,123,2
-"Blossom Bats",365,85,1
 "Black-bellied Blossom Bat",365,88,1
 "Black-bellied Blossom Bat",365,88,1
 "Woodford's Blossom Bat",365,89,2
@@ -1061,12 +1047,10 @@ name,fileindex,index,whichChild
 "Blackish White-toothed Shrew",370,63,1
 "Black Shrew",402,23,2
 "blarina",402,71,2
-"Blarinella",397,61,2
 "Blarinella",397,63,1
 "Blarinella",397,64,2
 "Blarinella",397,65,2
 "Blackish Small-eared Shrew",397,78,1
-"Blarina",397,118,2
 "Blarina",397,121,1
 "Blarina",397,122,2
 "Blarina",397,123,2

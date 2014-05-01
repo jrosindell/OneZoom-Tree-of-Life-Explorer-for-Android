@@ -44,13 +44,10 @@ name,fileindex,index,whichChild
 "cucullata",157,147,2
 "Cuban Vireo",154,21,2
 "curvirostris",195,30,2
-"Cuckoo-shrikes",195,71,2
 "cubla",198,69,2
-"Currawongs",199,40,2
 "Grey Currawong",199,42,1
 "Pied Currawong",199,43,2
 "Black Currawong",199,44,2
-"Cuckoo-shrikes and Minivets",195,102,2
 "Solomons Cuckooshrike",197,17,2
 "Black-bellied Cuckooshrike",197,26,1
 "Halmahera Cuckooshrike",197,27,2
@@ -131,7 +128,6 @@ name,fileindex,index,whichChild
 "cursor",114,78,2
 "Cursorius",114,78,2
 "Curlew Sandpiper",223,135,2
-"Curlews",223,161,1
 "Eurasian Curlew",223,166,1
 "Little Curlew",223,167,2
 "Far Eastern Curlew",223,168,2
@@ -139,9 +135,6 @@ name,fileindex,index,whichChild
 "Long-billed Curlew",223,170,2
 "Slender-billed Curlew",223,173,1
 "Bristle-thighed Curlew",223,175,2
-"Cuckoos",346,101,1
-"CUCULIFORMES",346,101,1
-"Malkoha, Koels and other cuckoos",355,1,1
 "Cuculus",355,19,1
 "Himalayan Cuckoo",355,20,2
 "Cuculus",355,20,2
@@ -165,11 +158,9 @@ name,fileindex,index,whichChild
 "Oriental Cuckoo",355,35,2
 "Cuculus",355,35,2
 "Cuculus",355,36,2
-"Long-tailed Cuckoos",355,38,1
 "Barred Long-tailed Cuckoo",355,40,1
 "Olive Long-tailed Cuckoo",355,41,2
 "Dusky Long-tailed Cuckoo",355,42,2
-"Drongo Cuckoos",355,43,2
 "Drongo Cuckoo",355,45,2
 "Plaintive Cuckoo",355,52,1
 "Brush Cuckoo",355,53,2
@@ -223,7 +214,6 @@ name,fileindex,index,whichChild
 "cuvieri",360,118,1
 "curvirostra",351,38,2
 "cuneata",347,57,1
-"Cuckoo-doves",347,114,1
 "Philippine Cuckoo-dove",347,121,1
 "Brown Cuckoo-Dove",347,122,2
 "Barred Cuckoo-dove",347,123,2
@@ -248,8 +238,6 @@ name,fileindex,index,whichChild
 "Cuban Nightjar",324,184,2
 "cubanensis",324,184,2
 "cupido",312,73,2
-"Guans and curassows",310,34,2
-"Currasows",310,37,1
 "Bare-faced Curassow",310,44,1
 "Black Curassow",310,45,2
 "Red-billed Curassow",310,46,2
@@ -287,7 +275,6 @@ name,fileindex,index,whichChild
 "cunninghami",307,86,1
 "cuprea",300,181,2
 "cuneirostris",299,52,2
-"Curly-tailed Lizards",405,48,2
 "cubensis",405,60,2
 "cuvieri",405,75,2
 "cuvieri",409,107,2
@@ -313,7 +300,6 @@ name,fileindex,index,whichChild
 "Cuvier's Spiny Rat",258,66,1
 "cuvieri",258,66,1
 "Cuvier's Hutia",256,34,2
-"Cuniculidae",256,146,2
 "Cuniculus",256,147,1
 "Cuniculus",256,148,2
 "Culion Tree Squirrel",278,144,2
@@ -350,7 +336,6 @@ name,fileindex,index,whichChild
 "Ansorge's Cusimanse",384,14,2
 "culionensis",365,155,1
 "cubanus",365,179,2
-"Possums, Cuscuses, Trioks and Gliders",112,0,2
 "cupreus",112,27,2
 "Eastern Common Cuscus",112,71,1
 "Northern Common Cuscus",112,72,2

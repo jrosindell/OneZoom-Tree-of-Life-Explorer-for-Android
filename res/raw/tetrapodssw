@@ -19,8 +19,6 @@ name,fileindex,index,whichChild
 "Greater Swamp-warbler",176,117,1
 "Madagascar Swamp-warbler",176,120,1
 "Swamp Greenbul",174,164,1
-"Swallows and martins",178,0,2
-"Swallows",178,4,1
 "Ethiopian Swallow",178,16,1
 "Red-chested Swallow",178,17,2
 "Angola Swallow",178,18,2
@@ -51,7 +49,6 @@ name,fileindex,index,whichChild
 "Striated Swallow",178,73,2
 "White-backed Swallow",178,91,1
 "Grey-rumped Swallow",178,92,2
-"Swallows",178,94,1
 "Northern Rough-winged Swallow",178,115,1
 "Southern Rough-winged Swallow",178,116,2
 "Brown-bellied Swallow",178,122,1
@@ -94,14 +91,10 @@ name,fileindex,index,whichChild
 "Swinhoe's Snipe",223,13,1
 "Swinhoe's Storm-petrel",357,147,2
 "Swinhoe's Rail",361,25,1
-"Swamphen, Gallinules and Takane",361,48,2
 "Purple Swamphen",361,51,1
 "Swallow-tailed Hummingbird",326,13,1
 "swainsonii",326,99,1
 "Sword-billed Hummingbird",332,155,1
-"Swifts and Treeswifts",324,18,2
-"Swifts",324,19,1
-"Swiftlets",329,3,1
 "Edible-nest Swiftlet",329,11,1
 "Mossy-nest Swiftlet",329,12,2
 "Seychelles Swiftlet",329,14,1
@@ -156,8 +149,6 @@ name,fileindex,index,whichChild
 "African Black Swift",329,107,2
 "Mottled Swift",329,109,1
 "Alpine Swift",329,110,2
-"Swallow-tailed swifts",329,112,1
-"Swallow-tailed swifts",329,112,1
 "Great Swallow-tailed Swift",329,113,1
 "Great Swallow-tailed Swift",329,113,1
 "Lesser Swallow-tailed Swift",329,114,2
@@ -199,9 +190,7 @@ name,fileindex,index,whichChild
 "swainsonii",317,28,2
 "Swierstra's Francolin",317,41,2
 "swierstrai",317,41,2
-"Ducks, Geese and Swans",310,131,1
 "Swan Goose",316,10,1
-"True Swans",316,34,2
 "Tundra Swan",316,38,1
 "Whooper Swan",316,39,2
 "Trumpeter Swan",316,40,2
@@ -215,14 +204,12 @@ name,fileindex,index,whichChild
 "swansoni",298,60,2
 "swinhonis",406,45,2
 "swazicus",340,118,2
-"Groove-toothed Swamp Rats",269,202,1
 "Bell Groove-toothed Swamp Rat",269,206,1
 "Least Groove-toothed Swamp Rat",269,207,2
 "Hopkins's Groove-toothed Swamp Rat",269,208,2
 "Creek Groove-toothed Swamp Rat",269,209,2
 "Issel's Groove-toothed Swamp Rat",269,210,2
 "Australian Swamp Rat",267,66,1
-"Swamp Rats",272,20,1
 "Verschuren's Swamp Rat",272,24,1
 "Lukolela Swamp Rat",272,25,2
 "Big-eared Swamp Rat",272,26,2
@@ -230,7 +217,6 @@ name,fileindex,index,whichChild
 "Edward's Swamp Rat",272,28,2
 "Swarthy Gerbil",268,29,2
 "Andean Swamp Rat",289,97,2
-"Swamp Rats",292,64,2
 "Swamp Rat",292,65,1
 "swarthi",292,75,2
 "swinderianus",256,118,1
@@ -238,7 +224,6 @@ name,fileindex,index,whichChild
 "swinhoei",278,165,2
 "Swamp Rabbit",254,93,2
 "Allen's Swamp Monkey",275,139,2
-"Sword-nosed Bats",393,195,1
 "Marinkelle's Sword-nosed Bat",393,198,1
 "Common Sword-nosed Bat",393,199,2
 "Fernandez's Sword-nosed Bat",393,200,2

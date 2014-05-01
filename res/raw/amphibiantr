@@ -1,10 +1,7 @@
 name,fileindex,index,whichChild
-"True toads",3,2,1
 "Tradouw's Mountain Toad",10,113,1
 "tradouwi",10,113,1
 "truebae",9,153,2
-"Asian Tree Toads",3,9,1
-"African Tree Toads",3,36,2
 "Bates' Tree Toad",3,37,1
 "African Tree Toad",3,38,2
 "tricolor",5,115,2
@@ -18,7 +15,6 @@ name,fileindex,index,whichChild
 "truebae",54,59,2
 "troglodytes",48,40,2
 "truebae",49,54,2
-"Treefrogs and more",21,0,2
 "triseriata",21,21,2
 "California Treefrog",21,30,1
 "Pine Barrens Treefrog",31,13,1
@@ -29,8 +25,6 @@ name,fileindex,index,whichChild
 "Bird-voiced Treefrog",31,31,2
 "Squirrel Treefrog",31,34,1
 "Green Treefrog",31,35,2
-"Mexican Treefrogs",31,45,1
-"Shovel-headed Treefrogs",31,61,1
 "Triprion",31,62,1
 "Triprion",31,63,2
 "Sardinian Treefrog",31,76,1
@@ -38,10 +32,6 @@ name,fileindex,index,whichChild
 "European Treefrog",31,82,2
 "Mediterranean Treefrog",31,86,1
 "trux",21,43,2
-"Bromeliad Treefrogs",24,43,2
-"Fringe-limbed Treefrogs",24,46,2
-"Slender-legged Treefrogs",25,4,1
-"Amazon Treefrogs",25,37,2
 "Hispaniolan Common Treefrog",25,56,1
 "Cuban Treefrog",25,57,2
 "Hispaniolan Yellow Treefrog",25,65,1
@@ -61,13 +51,9 @@ name,fileindex,index,whichChild
 "tritaeniatus",29,14,1
 "triangulum",21,85,2
 "truncata",21,88,2
-"Canebrake Treefrogs",22,145,2
-"Snouted Treefrogs",26,1,1
 "trilineatus",26,13,1
 "Lanceback Treefrog",26,89,1
 "trapicheiroi",26,121,2
-"Lime Treefrogs",26,178,2
-"Australasian Treefrogs",21,121,1
 "Green-eyed Treefrog",23,16,1
 "Fringed Treefrog",23,17,2
 "Leaf Green River Treefrog",23,31,1
@@ -117,7 +103,6 @@ name,fileindex,index,whichChild
 "trachydermus",42,111,1
 "trachyderma",19,10,1
 "Desert Trilling Frog",41,18,2
-"True Frogs, Shrub Frogs and more",72,1,1
 "travancoricus",89,39,1
 "translineatus",88,46,2
 "Frilled Treefrog",88,62,1
@@ -140,15 +125,12 @@ name,fileindex,index,whichChild
 "tridactyla",105,154,1
 "tricolor",85,119,2
 "Seychelles Treefrog",85,124,2
-"Forest Treefrogs, Night Frogs and more",107,0,2
 "troglodytes",107,55,1
 "trifasciata",107,86,1
 "Trichobatrachus",107,156,2
-"Forest Treefrogs",107,158,2
 "Tropical Clawed Frog",68,35,2
 "tropicalis",68,35,2
 "truei",0,82,2
-"Tropical Climbing Salamanders",56,8,1
 "Tropical Dwarf Salamander",56,9,2
 "troglodytes",56,37,1
 "Eurycea Troglodytes Complex",57,20,2
@@ -156,7 +138,6 @@ name,fileindex,index,whichChild
 "Chisholm Trail Salamander",57,21,2
 "tridentifera",57,40,2
 "tridactylum",0,89,1
-"True Salamanders and Newts",69,2,1
 "Triturus",69,29,1
 "Triturus",69,30,2
 "Triturus",69,31,2

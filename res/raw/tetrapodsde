@@ -75,7 +75,6 @@ name,fileindex,index,whichChild
 "Des Murs's Wiretail",230,48,2
 "desmursii",230,48,2
 "dendrocolaptoides",232,86,2
-"Dendrocolaptidae",230,83,1
 "Dendroplex",230,114,1
 "Dendroplex",230,115,2
 "Dendrocolaptes",230,159,1
@@ -84,14 +83,12 @@ name,fileindex,index,whichChild
 "Dendrocolaptes",230,163,1
 "Dendrocolaptes",230,164,2
 "Dendrexetastes",230,166,1
-"Dendrocolaptidae",230,170,1
 "Dendrocincla",230,173,1
 "Dendrocincla",230,174,2
 "Dendrocincla",230,175,2
 "Dendrocincla",230,176,2
 "Dendrocincla",230,178,1
 "Dendrocincla",230,179,2
-"Dendrocolaptidae",230,180,2
 "Deconychura",230,182,1
 "Deconychura",230,183,2
 "devillei",245,15,2
@@ -162,12 +159,10 @@ name,fileindex,index,whichChild
 "Dendragapus",312,90,1
 "Dendragapus",312,91,2
 "delegorguei",317,93,2
-"DENDRORTYX",310,16,1
 "Dendrortyx",310,18,1
 "Dendrortyx",310,19,2
 "Dendrortyx",310,20,2
 "derbianus",310,87,2
-"DENDROCYGNA",310,150,1
 "Dendrocygna",310,155,1
 "Dendrocygna",310,156,2
 "Dendrocygna",310,157,2
@@ -251,7 +246,6 @@ name,fileindex,index,whichChild
 "delacouri",267,187,2
 "Van Deusen's Rat",274,45,1
 "denniae",273,110,2
-"Dephomys",271,15,2
 "Defua Rat",271,16,1
 "defua",271,16,1
 "Dephomys",271,16,1
@@ -278,13 +272,10 @@ name,fileindex,index,whichChild
 "Definitive Leaf-eared Mouse",292,24,2
 "definitus",292,24,2
 "delfini",292,70,2
-"Delomys",294,44,2
 "Delomys",294,46,1
 "Montane Delomys",294,47,2
 "Delomys",294,47,2
 "Delomys",294,48,2
-"Deer Mice, Harvest Mice, Woodrats and more",287,150,2
-"Deer Mice and more",291,0,1
 "Puebla Deer Mouse",291,10,1
 "Cotton Deermouse",291,11,2
 "Plateau Deer Mouse",291,13,1
@@ -329,7 +320,6 @@ name,fileindex,index,whichChild
 "Chinanteco Deer Mouse",291,122,2
 "Florida Deermouse",291,124,2
 "Michoacan Deer Mouse",291,125,2
-"Giant Deer Mice",291,126,2
 "Oaxaca Giant Deer Mouse",291,128,1
 "Thomas's Giant Deer Mouse",291,129,2
 "Nelson's Giant Deer Mouse",291,130,2
@@ -337,7 +327,6 @@ name,fileindex,index,whichChild
 "Desert Woodrat",288,12,2
 "Dendroprionomys",281,62,2
 "Desert Hamster",281,133,2
-"Dendromus",281,170,2
 "Dendromus",281,174,1
 "Dendromus",281,175,2
 "Dendromus",281,176,2
@@ -360,13 +349,10 @@ name,fileindex,index,whichChild
 "Little Desert Pocket Mouse",255,125,1
 "Desert Kangaroo Rat",255,187,2
 "deserti",255,187,2
-"Degus, Porcupines, Chinchillas and more",254,30,2
 "decumanus",258,134,2
 "Desmarest's Hutia",256,25,1
 "Sierra Del Tontal Chinchilla Rat",256,77,1
 "Mountain Degu",254,43,1
-"Gundis and Degus",254,45,2
-"Degus",254,55,2
 "Moon-toothed Degu",254,57,1
 "Degu",254,58,2
 "degus",254,58,2
@@ -384,8 +370,6 @@ name,fileindex,index,whichChild
 "Van Der Decken's Sifaka",260,63,1
 "deckenii",260,63,1
 "demidoff",260,136,1
-"DERMOPTERA",254,134,2
-"Dendrogale",254,169,2
 "Dendrogale",254,170,1
 "Dendrogale",254,171,2
 "Desert Long-eared Bat",391,31,2
@@ -405,7 +389,6 @@ name,fileindex,index,whichChild
 "Demonic Tube-nosed Bat",387,60,2
 "derbianus",371,51,1
 "depressicornis",371,77,2
-"Deer, Moose and more",371,83,1
 "Phillipine Spotted Deer",374,9,1
 "Red Deer",374,10,2
 "Sika Deer",374,14,2
@@ -425,16 +408,12 @@ name,fileindex,index,whichChild
 "European Roe Deer",375,37,1
 "SIBERIAN ROE DEER",375,38,2
 "Chinese Water Deer",375,39,2
-"Musk Deer",371,84,2
 "Alpine Musk Deer",371,90,2
 "Black Musk Deer",371,92,2
 "Forest Musk Deer",371,94,1
 "Anhui Musk Deer",371,95,2
 "Siberian Musk Deer",371,96,2
-"Mouse deer",371,102,2
 "Balabac Mouse Deer",371,114,2
-"Delphinidae",373,3,1
-"Delphinus",373,17,1
 "delphis",373,18,1
 "Delphinus",373,18,1
 "Delphinus",373,19,2
@@ -450,14 +429,11 @@ name,fileindex,index,whichChild
 "denti",367,86,1
 "Desert Shrew",397,180,2
 "Desert Hedgehog",388,21,1
-"Moles and Desmans",365,169,2
 "Pyrenean Desman",380,67,1
 "Russian Desman",380,68,2
 "Desmana",380,68,2
-"Dendrohyrax",323,120,1
 "Dendrohyrax",323,121,1
 "Dendrohyrax",323,122,2
-"Dendrolagus",110,80,2
 "Dendrolagus",110,87,1
 "Dendrolagus",110,88,2
 "Dendrolagus",110,90,1
@@ -484,7 +460,6 @@ name,fileindex,index,whichChild
 "Dendrophryniscus",38,35,2
 "Dendrophryniscus",38,36,2
 "devincenzii",38,51,2
-"DENDROBATIDAE",43,0,1
 "delatorreae",43,170,1
 "Dendrobates",44,56,1
 "Dendrobates",44,57,2

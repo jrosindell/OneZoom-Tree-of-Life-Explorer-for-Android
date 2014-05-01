@@ -115,9 +115,7 @@ name,fileindex,index,whichChild
 "Aptenodytes",357,181,2
 "apicauda",351,15,2
 "Aplopelia",347,143,2
-"APODIFORMES",324,5,1
 "Aphantochroa",326,14,2
-"Apodidae",324,19,1
 "Apus",329,80,1
 "Apus",329,81,2
 "Apus",329,83,1
@@ -137,7 +135,6 @@ name,fileindex,index,whichChild
 "Apus",329,104,2
 "Apus",329,106,1
 "Apus",329,107,2
-"APTERYGIFORMES",0,20,2
 "Apteryx",0,22,1
 "Apteryx",0,23,2
 "Apteryx",0,25,1
@@ -162,7 +159,6 @@ name,fileindex,index,whichChild
 "Aprasia",318,197,2
 "Aprasia",318,198,2
 "apodemoides",266,127,2
-"Apodemus",273,5,1
 "Apodemus",273,12,1
 "Apodemus",273,13,2
 "Apodemus",273,14,2
@@ -184,8 +180,6 @@ name,fileindex,index,whichChild
 "Apodemus",273,42,1
 "Apodemus",273,43,2
 "apoensis",271,37,2
-"Apomys",264,68,2
-"Apomys",264,68,2
 "Luzon Cordillera Apomys",264,74,1
 "Apomys",264,74,1
 "Small Luzon Apomys",264,75,2
@@ -208,8 +202,6 @@ name,fileindex,index,whichChild
 "apereoides",258,70,1
 "aperea",259,41,2
 "Aplodontia",254,65,2
-"Apes and Humans",295,0,2
-"Great Apes",295,28,2
 "apella",285,94,2
 "aphylla",393,120,1
 "Aproteles",366,169,2

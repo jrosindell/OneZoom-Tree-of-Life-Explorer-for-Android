@@ -22,8 +22,6 @@ name,fileindex,index,whichChild
 "subpersonatus",102,59,2
 "superciliosus",102,116,1
 "superciliosus",101,147,1
-"Sunbirds and Flowerpeckers",62,1,1
-"Sunbirds",62,2,1
 "Reichenbach's Sunbird",62,14,1
 "Shelley's Sunbird",62,15,2
 "Malachite Sunbird",62,16,2
@@ -142,11 +140,8 @@ name,fileindex,index,whichChild
 "Crimson Sunbird",62,159,2
 "Gould's Sunbird",62,160,2
 "Elegant Sunbird",62,161,2
-"Sunbirds",62,175,2
 "Purple-naped Sunbird",62,189,2
 "Sumatran Leafbird",62,214,2
-"Sugarbirds and more",43,9,1
-"Sugarbirds",43,13,2
 "Gurney's Sugarbird",43,14,1
 "Cape Sugarbird",43,15,2
 "superciliaris",94,12,2
@@ -346,9 +341,7 @@ name,fileindex,index,whichChild
 "superciliosus",24,33,1
 "superciliaris",20,166,2
 "sumatrana",3,51,1
-"SULIFORMES",19,0,2
 "sulcirostris",19,13,1
-"Sulidae",19,75,2
 "Sula",19,80,1
 "Sula",19,81,2
 "Sula",19,83,1
@@ -377,7 +370,6 @@ name,fileindex,index,whichChild
 "Sulu Bleeding-heart",4,100,2
 "subvinacea",4,190,2
 "Subdesert Mesite",1,171,2
-"Sunangels",160,69,2
 "Tourmaline Sunangel",160,75,1
 "Little Sunangel",160,76,2
 "Orange-throated Sunangel",160,77,2
@@ -385,8 +377,6 @@ name,fileindex,index,whichChild
 "Amethyst-throated Sunangel",160,79,2
 "Gorgeted Sunangel",160,80,2
 "Royal Sunangel",160,81,2
-"Sunbeams and more",160,184,2
-"Sunbeams",160,210,2
 "White-tufted Sunbeam",160,213,1
 "Black-hooded Sunbeam",160,214,2
 "Purple-backed Sunbeam",160,215,2

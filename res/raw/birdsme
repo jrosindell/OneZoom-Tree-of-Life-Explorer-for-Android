@@ -177,7 +177,6 @@ name,fileindex,index,whichChild
 "megarhynchus",136,33,1
 "melanotis",140,44,1
 "mellianus",140,52,2
-"Melanocharitidae",132,22,2
 "melitophrys",132,31,1
 "melanotis",132,44,2
 "melanura",134,44,1
@@ -191,14 +190,12 @@ name,fileindex,index,whichChild
 "melanoleuca",141,62,2
 "Melanesian Cuckooshrike",141,113,2
 "melas",141,122,2
-"Melanocharitidae",132,141,1
 "Melanocharis",132,145,1
 "Melanocharis",132,146,2
 "Melanocharis",132,148,1
 "Melanocharis",132,149,2
 "Melanocharis",132,151,1
 "Melanocharis",132,152,2
-"Meliphagidae",112,5,1
 "Melithreptus",112,15,1
 "Melithreptus",112,16,2
 "Melithreptus",112,17,2
@@ -210,8 +207,6 @@ name,fileindex,index,whichChild
 "meyeri",116,18,2
 "melanocephala",115,34,1
 "melanura",115,65,1
-"Meliphagidae",113,4,1
-"Melidectes",113,9,1
 "Yellow-browed Melidectes",113,14,1
 "Melidectes",113,14,1
 "Sooty Melidectes",113,15,2
@@ -251,23 +246,17 @@ name,fileindex,index,whichChild
 "Meliphaga",113,90,1
 "Meliphaga",113,91,2
 "Meliphaga",113,92,2
-"Meliphagidae",113,94,1
-"Meliphagidae",113,115,2
-"Meliphagidae",113,118,2
-"Meliphagidae",113,125,2
 "Melipotes",113,140,1
 "Melipotes",113,141,2
 "Melipotes",113,142,2
 "megarhynchus",113,148,2
 "Melilestes",113,148,2
-"Meliphagidae",113,158,2
 "meekiana",113,169,1
 "melanops",113,172,2
 "melanocephalus",112,182,1
 "merrotsyi",112,209,2
 "melanotis",29,47,2
 "melanurus",29,71,1
-"Menuridae",29,79,2
 "Menura",29,80,1
 "Menura",29,81,2
 "Metopothrix",37,144,2
@@ -415,7 +404,6 @@ name,fileindex,index,whichChild
 "meninting",174,115,1
 "mexicanus",174,135,1
 "mexicanus",174,155,1
-"Meropidae",182,0,2
 "Merops",182,14,1
 "Merops",182,15,2
 "Merops",182,16,2
@@ -543,8 +531,6 @@ name,fileindex,index,whichChild
 "melanoptera",1,159,2
 "Metriopelia",1,159,2
 "Metriopelia",1,160,2
-"Mesites",1,167,2
-"MESITORNITHIFORMES",1,167,2
 "White-breasted Mesite",1,169,1
 "Mesitornis",1,169,1
 "Brown Mesite",1,170,2
@@ -556,7 +542,6 @@ name,fileindex,index,whichChild
 "Mellisuga",157,39,1
 "Mellisuga",157,40,2
 "Mexican Sheartail",155,152,2
-"Metaltails",160,8,1
 "Fire-throated Metaltail",160,14,1
 "Metallura",160,14,1
 "Coppery Metaltail",160,15,2
@@ -581,7 +566,6 @@ name,fileindex,index,whichChild
 "mearnsi",153,17,2
 "melba",153,111,2
 "meridionalis",153,155,2
-"MEARNSIA",153,161,2
 "Mearnsia",153,162,1
 "Mearnsia",153,163,2
 "melanopygia",153,178,1
@@ -597,8 +581,6 @@ name,fileindex,index,whichChild
 "meleagris",0,58,2
 "meleagrides",0,60,1
 "West Mexican Chachalaca",184,45,2
-"Megapodes",183,0,2
-"Megapodiidae",183,0,2
 "New Guinea Megapode",183,10,1
 "Megapodius",183,10,1
 "Dusky Megapode",183,11,2
@@ -625,8 +607,6 @@ name,fileindex,index,whichChild
 "Tabon Megapode",183,25,2
 "Megapodius",183,25,2
 "Moluccan Megapode",183,26,2
-"MERGINAE",27,12,1
-"Mergansers",27,17,1
 "Scaly-sided Merganser",27,21,1
 "Mergus",27,21,1
 "Common Merganser",27,22,2
@@ -638,7 +618,6 @@ name,fileindex,index,whichChild
 "Mergus",27,24,2
 "Hooded Merganser",27,25,2
 "Mergellus",27,26,2
-"MELANITTA",27,32,2
 "Melanitta",27,34,1
 "Melanitta",27,35,2
 "Melanitta",27,36,2

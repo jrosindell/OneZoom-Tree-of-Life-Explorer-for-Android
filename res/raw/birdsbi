@@ -1,6 +1,4 @@
 name,fileindex,index,whichChild
-"Birds",0,0,0
-"Passerine birds",29,2,1
 "Bicoloured Conebill",50,122,2
 "bicolor",50,122,2
 "bicolor",56,39,2
@@ -54,11 +52,8 @@ name,fileindex,index,whichChild
 "bicolor",100,55,2
 "bivittata",43,107,2
 "bimaculata",43,138,1
-"Shrikes, Birds Of Paradise and more",132,1,1
-"Shrikes, Monarchs, Birds of paradise and more",132,5,1
 "Biak Monarch",133,42,2
 "Biak Flycatcher",133,131,2
-"Birds of paradise",144,0,2
 "Raggiana Bird-of-paradise",144,12,1
 "Greater Bird-of-paradise",144,13,2
 "Lesser Bird-of-paradise",144,14,2
@@ -78,7 +73,6 @@ name,fileindex,index,whichChild
 "bicolor",145,28,2
 "Bismarck Woodswallow",143,12,1
 "bicolor",141,119,2
-"Satin birds",132,161,1
 "Yellow-breasted Bird-of-paradise",132,163,1
 "Loria's Bird-of-paradise",132,164,2
 "Crested Bird-of-paradise",132,165,2
@@ -90,7 +84,6 @@ name,fileindex,index,whichChild
 "Biatas",31,173,2
 "Bicoloured Antvireo",33,42,2
 "biarmicus",111,13,2
-"Birds of Prey, Toucans and more",161,0,2
 "bitorquatus",178,57,2
 "bidentatus",179,9,2
 "bilineatus",179,53,2
@@ -107,7 +100,6 @@ name,fileindex,index,whichChild
 "bitorquatus",20,46,2
 "bicinctus",24,71,2
 "bistriatus",20,165,1
-"Bitterns",3,91,1
 "Australasian Bittern",3,98,1
 "Great Bittern",3,99,2
 "American Bittern",3,101,1

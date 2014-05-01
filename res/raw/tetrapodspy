@@ -46,7 +46,6 @@ name,fileindex,index,whichChild
 "Pygmy Wren-babbler",163,168,2
 "pyrrhoura",163,172,2
 "pyrrhoptera",179,133,1
-"Pycnonotidae",174,0,1
 "Pycnonotus",174,12,1
 "Pycnonotus",174,13,2
 "Pycnonotus",174,14,2
@@ -90,7 +89,6 @@ name,fileindex,index,whichChild
 "pyrrhonota",178,59,1
 "Pygochelidon",178,127,1
 "pycnopygius",161,42,2
-"Pycnonotidae",161,113,2
 "pyrrhopterus",160,78,2
 "Pygmy Drongo",153,84,1
 "pyrrhocorax",157,149,1
@@ -119,12 +117,9 @@ name,fileindex,index,whichChild
 "Pygiptila",229,96,1
 "pyrope",238,35,2
 "Pyrocephalus",241,48,2
-"Tyrannulets, Pygmy Tyrants and Wagtail-Tyrant",242,0,2
 "Rufous-sided Pygmy-tyrant",242,69,1
 "Tawny-crowned Pygmy-tyrant",242,70,2
 "Pyrrhomyias",235,63,1
-"Pygmy-Tyrants, Flatbills and more",235,81,2
-"Tody-tyrants, Pygmy Tyrants and more",239,0,1
 "Long-crested Pygmy-tyrant",239,10,1
 "Double-banded Pygmy-tyrant",239,11,2
 "Scale-crested Pygmy-tyrant",239,13,1
@@ -141,7 +136,6 @@ name,fileindex,index,whichChild
 "Pyroderus",249,32,2
 "pyrocephalus",249,109,1
 "Pygmy Lorikeet",216,73,2
-"Pygmy-Parrots",215,50,2
 "Yellow-capped Pygmy-parrot",215,54,1
 "Buff-faced Pygmy-parrot",215,55,2
 "Finsch's Pygmy-parrot",215,56,2
@@ -223,7 +217,6 @@ name,fileindex,index,whichChild
 "Pygmy Swiftlet",329,69,2
 "Pygmy Swift",329,122,2
 "Pygmy Nightjar",324,137,2
-"Pygmy-Geese",313,221,1
 "Cotton Pygmy-goose",313,223,1
 "African Pygmy-goose",313,224,2
 "Green Pygmy-goose",313,225,2
@@ -232,18 +225,15 @@ name,fileindex,index,whichChild
 "Pyxis",97,56,2
 "Pygomeles",303,85,2
 "pyrocephalus",408,62,1
-"Pygmy Chameleons",410,40,2
 "pygeae",335,122,2
 "pygmaea",336,85,2
 "Pythonodipsas",340,138,1
 "Pygmy Rattlesnake",339,28,2
-"Boas, Pythons, Earth Snakes and more",334,19,2
 "Western Australian Carpet Python",334,72,1
 "Asiatic Rock Python",334,75,2
 "Python",334,75,2
 "Mexican Python",334,76,2
 "Calabar Ground Python",334,105,2
-"PYGOPODIDAE",318,149,2
 "Pygopus",318,200,1
 "Pygopus",318,201,2
 "Pygmy White-tailed Rat",266,71,1
@@ -259,7 +249,6 @@ name,fileindex,index,whichChild
 "Pygmy Rock Mouse",263,154,2
 "pyrrhonotus",289,108,2
 "pyrrhorhinos",289,146,2
-"Pygmy Rice Rats and more",287,12,1
 "Destructive Pygmy Rice Rat",287,19,1
 "Andean Pygmy Rice Rat",287,20,2
 "Yellow Pygmy Rice Rat",287,21,2
@@ -277,26 +266,21 @@ name,fileindex,index,whichChild
 "Delta Pygmy Rice Rat",287,42,2
 "Southern Pygmy Mouse",287,208,1
 "Northern Pygmy Mouse",287,209,2
-"Pygmy Jerboas",280,42,1
 "Thick-tailed Pygmy Jerboa",280,47,1
 "Pale Pygmy Jerboa",280,48,2
 "Heptner's Pygmy Jerboa",280,49,2
 "Baluchistan Pygmy Jerboa",280,52,1
 "Kozlov's Pygmy Jerboa",280,53,2
 "Five-toed Pygmy Jerboa",280,54,2
-"Pygeretmus",280,72,2
 "Pygeretmus",280,74,1
 "Pygeretmus",280,75,2
 "Pygeretmus",280,76,2
 "Pygmy Scaly-tailed Flying Squirrel",254,20,1
-"Pygmy Squirrels, Giant Squirrels and more",278,0,1
-"Pygmy Flying Squirrels",278,37,2
 "Selangor Pygmy Flying Squirrel",278,39,1
 "Hose's Pygmy Flying Squirrel",278,40,2
 "Lesser Pygmy Flying Squirrel",278,41,2
 "pyrrhinus",279,34,2
 "pyrrhomerus",278,157,1
-"Pygmy Squirrels",278,166,2
 "Tufted Pygmy Squirrel",278,168,1
 "Least Pygmy Squirrel",278,169,2
 "Philippine Pygmy Squirrel",278,170,2
@@ -307,7 +291,6 @@ name,fileindex,index,whichChild
 "Neotropical Pygmy Squirrel",254,64,2
 "Pygmy Rabbit",254,103,2
 "pygerythrus",275,127,2
-"Pygathrix",275,169,2
 "Pygathrix",275,170,1
 "Pygathrix",275,171,2
 "pygmaeus",295,39,1
@@ -369,7 +352,6 @@ name,fileindex,index,whichChild
 "pyrrhus",20,73,2
 "Pyrenean Frog",13,17,2
 "pyrenaica",13,17,2
-"PYXICEPHALIDAE",2,102,1
 "Pyxicephalus",2,140,1
 "Pyxicephalus",2,141,2
 "Pyxicephalus",2,142,2

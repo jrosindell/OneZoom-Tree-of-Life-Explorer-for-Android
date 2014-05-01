@@ -53,8 +53,6 @@ name,fileindex,index,whichChild
 "Dot-winged Antwren",30,168,2
 "dominicanus",123,40,1
 "dominicensis",129,15,2
-"Tyrannulets, Tit-Tyrants, Doraditos and more",123,118,1
-"Doraditos",123,124,1
 "Warbling Doradito",123,127,1
 "Dinelli's Doradito",123,128,2
 "Subtropical Doradito",123,129,2
@@ -80,11 +78,9 @@ name,fileindex,index,whichChild
 "Dolphin Gull",22,68,1
 "dougallii",25,21,2
 "Double-banded Courser",20,42,1
-"Dowitchers",21,54,2
 "Long-billed Dowitcher",21,56,1
 "Asian Dowitcher",21,57,2
 "Short-billed Dowitcher",21,58,2
-"Dotterels, other Plovers and more",20,142,1
 "New Zealand Dotterel",24,57,2
 "Double-banded Plover",24,71,2
 "Inland Dotterel",24,76,2
@@ -96,8 +92,6 @@ name,fileindex,index,whichChild
 "Double-striped Thick-knee",20,165,1
 "Double-crested Cormorant",19,38,1
 "Dot-winged Crake",15,75,2
-"Doves and pigeons",1,133,1
-"Fruit doves, Blue pigeons and more",4,6,1
 "Cloven-feathered Dove",6,46,2
 "Orange Dove",6,52,2
 "Golden Dove",6,55,2
@@ -107,21 +101,18 @@ name,fileindex,index,whichChild
 "Namaqua Dove",4,18,2
 "Stephan's Dove",4,20,1
 "Emerald Dove",4,21,2
-"Bleeding heart doves, Ground-doves and more",4,42,2
 "Peaceful Dove",4,52,1
 "Zebra Dove",4,53,2
 "Bar-shouldered Dove",4,54,2
 "Diamond Dove",4,56,1
 "Barred Dove",4,57,2
 "Stock Dove",7,14,2
-"Turtle doves, Collared-doves and more",4,113,2
 "Red-eyed Dove",4,135,2
 "Ring-necked Dove",4,137,1
 "Vinaceous Dove",4,138,2
 "Laughing Dove",4,141,1
 "Spotted Dove",4,142,2
 "Lemon Dove",4,176,2
-"Quail doves",5,1,1
 "Mourning Dove",5,24,1
 "Socorro Dove",5,25,2
 "Eared Dove",5,26,2
@@ -140,7 +131,6 @@ name,fileindex,index,whichChild
 "Brown-backed Dove",5,66,1
 "Pallid Dove",5,67,2
 "Ochre-bellied Dove",5,68,2
-"Ground doves",1,134,2
 "Scaled Dove",1,146,1
 "Inca Dove",1,147,2
 "Double-banded Sandgrouse",1,192,1
@@ -150,7 +140,6 @@ name,fileindex,index,whichChild
 "dorsale",160,55,2
 "Dot-eared Coquette",160,105,2
 "dominicus",158,21,2
-"DORYFERA",158,54,2
 "Doryfera",158,55,1
 "Doryfera",158,56,2
 "dohrnii",154,57,2

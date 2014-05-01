@@ -27,7 +27,6 @@ name,fileindex,index,whichChild
 "libonyanus",188,66,1
 "litsitsirupa",188,89,1
 "lineatus",163,47,2
-"Liocichla",168,17,2
 "Red-faced Liocichla",168,20,1
 "Liocichla",168,20,1
 "Bugun Liocichla",168,21,2
@@ -180,7 +179,6 @@ name,fileindex,index,whichChild
 "Livingstone's Turaco",346,61,1
 "livingstonii",346,61,1
 "Little Bronze-cuckoo",355,74,2
-"Lizard-cuckoos",356,7,1
 "Hispaniolan Lizard-cuckoo",356,10,1
 "Puerto Rican Lizard-cuckoo",356,11,2
 "Great Lizard-cuckoo",356,12,2
@@ -191,7 +189,6 @@ name,fileindex,index,whichChild
 "Little Crake",360,82,2
 "limicola",362,31,2
 "Little Wood-rail",360,95,1
-"Cranes, Trumpeters and Limpkin",360,156,2
 "Limpkin",360,187,2
 "Little Green-pigeon",351,19,2
 "livia",348,12,2
@@ -213,32 +210,22 @@ name,fileindex,index,whichChild
 "Little Spotted Kiwi",0,25,1
 "Lissemys",343,50,1
 "Lissemys",343,51,2
-"Lizards and Snakes",0,115,2
 "lineoocellata",306,29,1
 "lineocellata",306,96,2
 "Lipinia",307,46,1
 "Lipinia",307,47,2
 "Lipinia",307,48,2
 "lineopunctulata",302,40,2
-"Lidless Skinks",300,173,1
 "lineata",303,89,2
 "litoralis",298,46,2
 "lineatus",298,48,2
-"Girdle-tailed Lizards",298,81,1
 "Giant Girdled Lizard",298,91,2
 "Armadillo Girdled Lizard",298,101,1
-"Flat Lizards",298,108,2
-"Grass Lizards",298,115,2
 "Madagascar Girdled Lizard",298,140,2
-"Night Lizards",298,146,1
 "Arizona Night Lizard",298,149,1
 "Desert Night Lizard",298,150,2
 "Island Night Lizard",298,151,2
 "Granite Night Lizard",298,152,2
-"Tropical Night Lizards",298,153,2
-"Wall Lizards, Whiptail Lizards and more",298,160,2
-"Wall Lizards, Whiptail Lizards and more",298,160,2
-"Fringe-toed Lizards",299,6,1
 "Savigny's Fringe-fingered Lizard",299,16,2
 "Doumergue's Fringe-fingered Lizard",299,19,1
 "Spotted Fringe-fingered Lizard",299,20,2
@@ -246,25 +233,21 @@ name,fileindex,index,whichChild
 "Lebanon Fringe-fingered Lizard",299,41,1
 "Spiny-footed Lizard",299,42,2
 "lineoocellata",299,65,2
-"Wall Lizards",299,77,2
 "Horvath's Rock Lizard",299,83,1
 "Iberian Rock Lizard",299,84,2
 "Balkan Green Lizard",299,96,2
 "Green Lizard",299,101,1
 "Iberian Emerald Lizard",299,112,2
 "Common Lizard",299,115,2
-"Wall Lizards",299,116,2
 "Derjugin's Lizard",299,119,1
 "Meadow Lizard",299,120,2
 "Spiny-Tailed Lizard",299,121,2
 "Rock Lizard",299,122,2
-"Grass Lizards",308,5,1
 "Madeira Lizard",308,21,1
 "Ocellated Lizard",308,24,1
 "Siirt Lizard",308,25,2
 "Blue-throated Keeled Lizard",308,32,2
 "Dwarf Lizard",308,35,1
-"Wall Lizards and more",298,164,2
 "Tyrrhenian Wall Lizard",298,173,1
 "Filfola Lizard",298,174,2
 "Erhard's Wall Lizard",298,176,1
@@ -275,17 +258,11 @@ name,fileindex,index,whichChild
 "Lilford's Wall Lizard",298,188,2
 "Lilford's Wall Lizard",298,188,2
 "lilfordi",298,188,2
-"Wall Lizards",298,197,2
 "El Hierro Giant Lizard",298,199,1
 "Tenerife Lizard",298,200,2
 "Atlantic Lizard",298,201,2
 "lineatus",304,57,2
-"Spectacled Lizards",304,72,2
-"Spectacled Lizards",304,91,2
-"Whiptail Lizards",309,0,2
 "lineolata",309,51,1
-"Monitor Lizards, Chameleons, Iguanas and more",405,0,2
-"Curly-tailed Lizards",405,48,2
 "liogaster",415,25,2
 "Liolaemus",412,10,1
 "Liolaemus",412,11,2
@@ -302,12 +279,8 @@ name,fileindex,index,whichChild
 "Liolaemus",412,27,1
 "Liolaemus",412,28,2
 "Liolaemus",412,29,2
-"Lava Lizards",412,30,2
-"Malagasy Iguanian Lizards",405,69,1
-"Anolis Lizards",405,78,1
 "lineatopus",409,26,2
 "lividus",409,66,2
-"Spiny Lizards",408,1,1
 "lineolateralis",408,14,1
 "Crevice Spiny Lizard",408,20,1
 "Graphic Spiny Lizard",408,23,2
@@ -320,18 +293,15 @@ name,fileindex,index,whichChild
 "Western Fence Lizard",408,79,1
 "Eastern Fence Lizard",408,80,2
 "Canyon Lizard",408,81,2
-"Tree and Brush Lizards",408,82,2
 "Baja California Brush Lizard",408,87,2
 "Ornate Tree Lizard",408,92,2
 "Common Side-blotched Lizard",405,116,2
-"Horned Lizards",414,2,1
 "Flat-tailed Horned Lizard",414,10,1
 "Desert Horned Lizard",414,11,2
 "Round-tailed Horned Lizard",414,12,2
 "Regal Horned Lizard",414,13,2
 "Texas Horned Lizard",414,14,2
 "Blainville Horned Lizard",414,16,1
-"Lesser Earless Lizards",414,28,1
 "Keeled Earless Lizard",414,30,1
 "Lesser Earless Lizard",414,31,2
 "Spot-tailed Earless Lizard",414,32,2
@@ -340,34 +310,25 @@ name,fileindex,index,whichChild
 "Coachella Valley Fringe-toed Lizard",414,38,1
 "Colorado Desert Fringe-toed Lizard",414,39,2
 "Mojave Fringe-toed Lizard",414,40,2
-"California Rock Lizard",414,42,2
 "Banded Rock Lizard",414,43,1
 "Eastern Collared Lizard",405,122,1
 "Reticulate Collared Lizard",405,124,2
 "Tiburon Collared Lizard",405,125,2
-"Leopard Lizards",405,126,2
 "Long-nosed Leopard Lizard",405,127,1
 "Blunt-nosed Leopard Lizard",405,128,2
-"Dragon Lizards",405,143,1
 "Leaf-nosed Lizard",406,27,1
 "White Spotted Flying Lizard",406,80,2
 "Two-spotted Flying Lizard",406,82,2
-"Sailfin Lizards",406,142,2
 "Crested Lizard",406,143,1
 "lineata",413,23,2
-"Spiny-tailed Lizards",405,150,1
 "Mesopotamian Spiny-tailed Lizard",405,153,1
-"Monitor Lizards",405,170,1
 "liocephalus",405,197,2
-"Alligator Lizards and more",405,198,2
 "Southern Alligator Lizard",405,201,1
 "Madrean Alligator Lizard",405,203,2
 "Northern Alligator Lizard",405,204,2
-"Glass Lizards",411,5,1
 "Slender Glass Lizard",411,9,1
 "Eastern Glass Lizard",411,10,2
 "Island Glass Lizard",411,11,2
-"American Legless Lizards",411,60,2
 "Black Legless Lizard",411,61,1
 "lippiens",337,30,2
 "Negros Light-scaled Burrowing Snake",335,109,1
@@ -383,15 +344,12 @@ name,fileindex,index,whichChild
 "Liasis",334,66,2
 "Lichanura",334,97,1
 "Liotyphlops",334,153,1
-"Worm Lizards",334,155,2
 "Darwin's Ringed Worm Lizard",334,172,2
 "Four-toed Worm Lizard",334,174,1
 "Five-toed Worm Lizard",334,175,2
 "Iberian Worm Lizard",334,177,2
-"Geckos and Legless Lizards",318,0,2
 "lineata",319,44,2
 "lindneri",318,131,2
-"Legless Lizards",318,149,2
 "Striped Legless Lizard",318,164,1
 "Lialis",318,181,1
 "Lialis",318,182,2
@@ -415,7 +373,6 @@ name,fileindex,index,whichChild
 "limnophilus",282,86,2
 "Lichtenstein's Jerboa",280,71,2
 "lichtensteini",280,71,2
-"Liomys",255,12,1
 "Liomys",255,15,1
 "Liomys",255,16,2
 "Liomys",255,17,2
@@ -430,7 +387,6 @@ name,fileindex,index,whichChild
 "lis",279,32,2
 "Little Ground Squirrel",297,24,2
 "Lion-tailed Macaque",275,23,2
-"Lion Tamarins",285,35,2
 "Black-faced Lion Tamarin",285,38,1
 "Black Lion Tamarin",285,39,2
 "Golden Lion Tamarin",285,40,2
@@ -473,15 +429,12 @@ name,fileindex,index,whichChild
 "Lissonycteris",399,68,2
 "lichtensteinii",372,91,2
 "Litocranius",372,144,2
-"Lissodelphis",373,57,2
 "Lissodelphis",373,58,1
 "Lissodelphis",373,59,2
 "Lipotes",373,88,2
 "liberiensis",371,196,2
 "Libyan Striped Weasel",383,69,1
 "libyca",383,69,1
-"Seals, Sea Lions and Walrus",381,35,2
-"Sea Lions",381,54,1
 "New Zealand Sea Lion",381,58,1
 "Australian Sea Lion",381,59,2
 "South American Sea Lion",381,60,2
@@ -492,7 +445,6 @@ name,fileindex,index,whichChild
 "littoralis",381,184,2
 "Liberian Mongoose",384,29,2
 "Liberiictis",384,29,2
-"Civets, Linsangs and Genets",385,1,1
 "Spotted Linsang",385,30,1
 "Banded Linsang",385,31,2
 "linsang",385,31,2
@@ -529,7 +481,6 @@ name,fileindex,index,whichChild
 "lindsayi",70,31,2
 "littoralis",70,137,2
 "littoreus",70,169,2
-"Lime Treefrogs",70,178,2
 "Litoria",53,12,1
 "Litoria",53,13,2
 "Litoria",53,14,2
@@ -705,7 +656,6 @@ name,fileindex,index,whichChild
 "Littlejohn's Toadlet",23,44,1
 "littlejohni",23,44,1
 "liemi",23,90,2
-"LIMNODYNASTIDAE",23,111,2
 "Limnodynastes",23,158,1
 "Limnodynastes",23,159,2
 "Limnodynastes",23,161,1

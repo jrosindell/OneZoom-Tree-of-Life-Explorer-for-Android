@@ -1,10 +1,7 @@
 name,fileindex,index,whichChild
-"Tanagers, Grosbeaks, Saltators and more",124,1,1
 "Saffron Finch",125,86,2
 "sanguinolentus",130,48,2
 "salmoni",124,20,2
-"Grosbeaks, Saltators and more",124,43,2
-"Grosbeaks, saltators and more",124,44,1
 "Lesser Antillean Saltator",124,52,1
 "Saltator",124,52,1
 "Green-winged Saltator",124,53,2
@@ -40,15 +37,7 @@ name,fileindex,index,whichChild
 "Santa Marta Mountain-tanager",128,121,2
 "Sayaca Tanager",128,141,2
 "sayaca",128,141,2
-"Grosbeaks, saltators and more",124,120,1
-"Grosbeaks, saltators and more",124,132,2
-"Grosbeaks, saltators and more",124,137,2
-"Grosbeaks, saltators and more",124,154,1
-"Grosbeaks, saltators and more",124,160,2
-"Grosbeaks, saltators and more",124,171,1
-"Grosbeaks, saltators and more",124,198,2
 "sallaei",124,201,2
-"Grosbeaks, saltators and more",124,203,2
 "Savannah Sparrow",145,67,2
 "sandwichensis",145,67,2
 "Saltmarsh Sparrow",145,73,1
@@ -133,7 +122,6 @@ name,fileindex,index,whichChild
 "Sassi's Olive Greenbul",174,131,2
 "sarasinorum",162,24,2
 "Sakhalin Leaf-warbler",162,42,2
-"Saw-wings",178,81,1
 "Cameroon Mountain Saw-wing",178,85,1
 "Blue Saw-wing",178,86,2
 "Fanti Saw-wing",178,87,2
@@ -162,8 +150,6 @@ name,fileindex,index,whichChild
 "Sandstone Shrike-thrush",152,177,1
 "sabini",198,64,1
 "Samoan Triller",197,71,2
-"Berrypeckers, Satinbirds and more",120,20,2
-"Satin birds",120,41,1
 "Saddleback",120,48,1
 "samoensis",148,29,2
 "sarasinorum",148,109,1
@@ -223,7 +209,6 @@ name,fileindex,index,whichChild
 "Saker Falcon",222,16,2
 "sanguineus",206,35,1
 "Sahelian Woodpecker",206,91,1
-"Sapsuckers",206,135,2
 "Red-naped Sapsucker",206,138,1
 "Red-breasted Sapsucker",206,139,2
 "Yellow-bellied Sapsucker",206,140,2
@@ -244,7 +229,6 @@ name,fileindex,index,whichChild
 "Sandy Scops-owl",224,61,2
 "Sao Tome Scops-owl",224,73,2
 "sanchezi",226,39,2
-"Saw-whet owls",224,117,1
 "Southern Saw-whet Owl",224,118,1
 "Northern Saw-whet Owl",224,119,2
 "Savanna Hawk",118,91,2
@@ -253,7 +237,6 @@ name,fileindex,index,whichChild
 "Sarcogyps",115,114,2
 "Sagittarius",115,172,2
 "Sarcoramphus",115,184,1
-"Waders, Gulls, Sandpipers and more",114,46,2
 "Saunders's Gull",212,51,2
 "saundersi",212,51,2
 "Sabine's Gull",212,59,2
@@ -262,8 +245,6 @@ name,fileindex,index,whichChild
 "sandvicensis",213,28,1
 "Saunders's Tern",213,32,1
 "saundersi",213,32,1
-"Sandpipers, Jacanas, Seedsnipes and more",114,116,2
-"Sandpipers and more",223,0,1
 "saturata",223,55,2
 "Wood Sandpiper",223,76,1
 "Marsh Sandpiper",223,78,2
@@ -272,7 +253,6 @@ name,fileindex,index,whichChild
 "Spotted Sandpiper",223,89,1
 "Common Sandpiper",223,90,2
 "Terek Sandpiper",223,97,2
-"Sandpipers, Knots and more",223,99,1
 "Semipalmated Sandpiper",223,109,1
 "Western Sandpiper",223,110,2
 "Sharp-tailed Sandpiper",223,111,2
@@ -328,7 +308,6 @@ name,fileindex,index,whichChild
 "Sao Tome Bronze-naped Pigeon",348,29,1
 "Sapphire Quail-dove",349,44,2
 "saphirina",349,44,2
-"Sandgrouse",346,140,1
 "Lichtenstein's Sandgrouse",346,146,1
 "Pin-tailed Sandgrouse",346,147,2
 "Burchell's Sandgrouse",346,149,1
@@ -354,7 +333,6 @@ name,fileindex,index,whichChild
 "Blue-headed Sapphire",327,50,2
 "Golden-tailed Sapphire",327,53,2
 "saucerrottei",327,69,1
-"Sabrewings",326,51,1
 "Santa Marta Sabrewing",326,56,1
 "Santa Marta Sabrewing",326,56,1
 "White-tailed Sabrewing",326,57,2
@@ -389,7 +367,6 @@ name,fileindex,index,whichChild
 "Savanna Nightjar",331,53,2
 "Sand-coloured Nighthawk",331,63,1
 "Salvadori's Pheasant",312,29,2
-"Sage-grouse",312,78,2
 "Greater Sage-grouse",312,79,1
 "Gunnison Sage-grouse",312,80,2
 "Satyr Tragopan",312,120,2
@@ -425,7 +402,6 @@ name,fileindex,index,whichChild
 "sagrei",409,36,2
 "salvini",408,31,2
 "Common Sagebrush Lizard",408,60,2
-"Sailfin Lizards",406,142,2
 "salinarum",413,68,2
 "salvator",407,45,2
 "salvadorensis",405,186,1
@@ -455,14 +431,10 @@ name,fileindex,index,whichChild
 "sacobianus",264,77,2
 "salomonseni",263,110,2
 "sabanus",272,50,2
-"Gerbils, Jirds and Sand Rats",263,114,1
-"Gerbils, Jirds and Sand Rats",265,0,2
-"Gerbils, Jirds and Sand Rats",265,5,1
 "sacramenti",265,31,2
 "Thin Sand Rat",265,44,1
 "Fat Sand Rat",265,45,2
 "Savanna Gerbil",265,61,2
-"Saccostomus",263,144,2
 "Saccostomus",263,145,1
 "Saccostomus",263,146,2
 "Sandy Mole Rat",263,168,2
@@ -523,7 +495,6 @@ name,fileindex,index,whichChild
 "Sarawak Surili",276,44,2
 "satanas",275,203,2
 "sapiens",295,34,2
-"Saguinus",285,42,2
 "Saguinus",285,49,1
 "Saguinus",285,50,2
 "Saguinus",285,51,2
@@ -544,13 +515,11 @@ name,fileindex,index,whichChild
 "Saguinus",285,71,2
 "Saguinus",285,73,1
 "Saguinus",285,74,2
-"Saimiri",285,101,2
 "Saimiri",285,104,1
 "Saimiri",285,105,2
 "Saimiri",285,106,2
 "Saimiri",285,108,1
 "Saimiri",285,109,2
-"Saki and more",285,163,2
 "Uta Hick's Bearded Saki",285,168,1
 "Bearded Saki",285,169,2
 "Black Bearded Saki",285,171,1
@@ -578,13 +547,10 @@ name,fileindex,index,whichChild
 "Salvin's Big-eyed Bat",394,50,2
 "salvini",394,50,2
 "saurophila",393,160,1
-"Sac-winged Bats, Sheath-tailed Bats and more",400,0,2
 "Gray Sac-winged Bat",400,15,1
 "Thomas's Sac-winged Bat",400,16,2
 "Ecuadorian Sac-winged Bat",400,17,2
 "Chestnut Sac-winged Bat",400,22,2
-"Sac-winged Bats",400,23,2
-"Saccopteryx",400,23,2
 "Amazonian Sac-winged Bat",400,25,1
 "Saccopteryx",400,25,1
 "Frosted Sac-winged Bat",400,26,2
@@ -593,7 +559,6 @@ name,fileindex,index,whichChild
 "Saccopteryx",400,28,1
 "Lesser Sac-winged Bat",400,29,2
 "Saccopteryx",400,29,2
-"Saccolaimus",400,90,2
 "Saccolaimus",400,93,1
 "Saccolaimus",400,94,2
 "saccolaimus",400,95,2
@@ -608,7 +573,6 @@ name,fileindex,index,whichChild
 "Sable Antelope",372,104,2
 "Saudi Gazelle",372,122,1
 "saudiya",372,122,1
-"Saiga",372,145,2
 "SAIGA",372,146,1
 "Saiga",372,146,1
 "Saiga",372,147,2
@@ -637,7 +601,6 @@ name,fileindex,index,whichChild
 "Sarcophilus",111,20,2
 "Sandstone Pseudantechinus",111,26,2
 "Sandhill Dunnart",111,94,2
-"Salientia",0,134,1
 "Sand Toad",57,107,2
 "sanjosei",63,16,2
 "sanmartini",38,72,2
@@ -676,7 +639,6 @@ name,fileindex,index,whichChild
 "sauvagii",66,47,1
 "saltator",66,79,2
 "satelles",91,31,2
-"Rain Frogs, Saddleback Toads and more",72,0,2
 "salaputium",81,127,1
 "sanguineus",81,168,2
 "sanctaemartae",81,214,2
@@ -687,7 +649,6 @@ name,fileindex,index,whichChild
 "sanctaecrucis",72,34,1
 "sanderi",72,40,2
 "saxatilis",72,41,2
-"Saddleback Toads",72,44,1
 "sandersoni",85,14,2
 "sabrinus",85,73,2
 "saltuarius",85,89,2
@@ -729,9 +690,6 @@ name,fileindex,index,whichChild
 "sankuruensis",30,174,2
 "Savanna Banana Frog",34,10,2
 "sardus",342,6,1
-"Salamanders and Newts",0,148,2
-"Lungless Salamanders",98,3,1
-"Tropical Climbing Salamanders",100,2,1
 "salvinii",100,15,2
 "El Cope Giant Salamander",100,26,2
 "Magnificent Web-footed Salamander",100,41,1
@@ -741,23 +699,15 @@ name,fileindex,index,whichChild
 "savagei",101,16,2
 "Holy-mountain Salamander",101,48,1
 "Tropical Dwarf Salamander",100,87,2
-"False Brook Salamanders",100,88,2
 "Cuetzalan Salamander",100,105,1
 "Muscular Salamander",100,113,1
 "Southern Giant Salamander",100,124,1
 "saltator",100,125,2
 "Ridge Tail Salamander",100,130,1
 "Bell's False Brook Salamander",100,147,1
-"Minute Salamanders",108,0,2
-"Worm Salamanders",106,2,1
 "savagei",106,19,2
-"Bromeliad Salamanders",106,48,1
 "sanctibarbarus",106,58,2
-"Hidden Salamanders",106,59,2
-"Splayfoot Salamanders",106,71,1
-"Moss Salamanders",106,94,2
 "saslaya",106,107,2
-"Brook Salamanders",104,1,1
 "Cascade Caverns Salamander",104,11,1
 "Dwarf Salamander",104,12,2
 "Three-lined Salamander",104,13,2
@@ -785,7 +735,6 @@ name,fileindex,index,whichChild
 "San Gabriel Springs Salamander",104,49,1
 "Texas Blind Salamander",104,50,2
 "Cave Salamander",104,51,2
-"Spring Salamanders",104,53,1
 "Berry Cave Salamander",104,57,1
 "Spring Salamander",104,58,2
 "Tennessee Cave Salamander",104,59,2
@@ -794,7 +743,6 @@ name,fileindex,index,whichChild
 "Mud Salamander",104,63,1
 "Red Salamander",104,64,2
 "Four-toed Salamander",98,9,2
-"Slender Salamanders",98,10,2
 "California Slender Salamander",98,16,1
 "San Gabriel Slender Salamander",98,17,2
 "San Gabriel Slender Salamander",98,17,2
@@ -816,7 +764,6 @@ name,fileindex,index,whichChild
 "San Simeon Slender Salamander",98,45,2
 "Santa Lucia Mountains Slender Salamander",98,46,2
 "Santa Lucia Mountains Slender Salamander",98,46,2
-"Woodland Salamanders",98,48,1
 "Northern Zigzag Salamander",98,57,1
 "Weller's Salamander",98,58,2
 "Southern Zigzag Salamander",98,59,2
@@ -884,12 +831,10 @@ name,fileindex,index,whichChild
 "Allegheny Mountain Dusky Salamander",105,35,2
 "Dusky Salamander",105,36,2
 "Pygmy Salamander",105,37,2
-"Web-toed Salamanders",105,39,1
 "Mount Lyell Salamander",105,55,1
 "Shasta Salamander",105,56,2
 "Limestone Salamander",105,57,2
 "Red Hills Salamander",105,58,2
-"Climbing salamanders",105,59,2
 "Sacramento Mountain Salamander",105,62,1
 "Sacramento Mountain Salamander",105,62,1
 "Green Salamander",105,63,2
@@ -897,13 +842,10 @@ name,fileindex,index,whichChild
 "Arboreal Salamander",105,67,1
 "Wandering Salamander",105,68,2
 "Clouded Salamander",105,69,2
-"Torrent Salamanders",98,103,2
 "Southern Torrent Salamander",98,105,1
 "Columbia Torrent Salamander",98,106,2
 "Olympic Torrent Salamander",98,108,1
 "Cascade Torrent Salamander",98,109,2
-"True Salamanders and Newts",98,112,1
-"SALAMANDRIDAE",98,112,1
 "Sardinian Brook Salamander",103,16,1
 "Sardinian Brook Salamander",103,16,1
 "Corsican Brook Salamander",103,17,2
@@ -926,7 +868,6 @@ name,fileindex,index,whichChild
 "Alpine Salamander",98,178,2
 "Salamandra",98,178,2
 "Caucasian Salamander",98,179,2
-"Mole Salamanders",98,180,2
 "Blue-spotted Salamander",99,11,1
 "Streamside Salamander",99,13,2
 "Tiger Salamander",99,14,2
@@ -948,12 +889,10 @@ name,fileindex,index,whichChild
 "Mole Salamander",99,55,2
 "Lake Lerma Salamander",99,57,1
 "Tarahumara Salamander",99,58,2
-"Pacific Giant Salamanders",98,181,2
 "California Giant Salamander",98,184,1
 "Pacific Giant Salamander",98,185,2
 "Cope's Giant Salamander",98,186,2
 "Idaho Giant Salamander",98,187,2
-"Asiatic Salamanders",344,1,1
 "Turkestanian Salamander",344,16,1
 "Oita Salamander",344,17,2
 "Tohoku Salamander",344,19,1
@@ -979,12 +918,9 @@ name,fileindex,index,whichChild
 "Yellow-spotted Salamander",344,78,2
 "Salamandrella",344,79,2
 "Shancheng Stout Salamander",344,80,2
-"Mountain Salamanders",344,82,1
 "Persian Mountain Salamander",344,84,1
 "Semirechensk Salamander",344,87,2
-"Clawed Salamanders",344,88,2
 "Fischer's Clawed Salamander",344,89,1
 "Japanese Clawed Salamander",344,90,2
-"Giant Salamanders",344,92,2
 "Japanese Giant Salamander",344,94,1
 "Chinese Giant Salamander",344,95,2

@@ -67,7 +67,6 @@ name,fileindex,index,whichChild
 "Shelley's Greenbul",70,84,2
 "Shade Warbler",78,12,2
 "Short-billed Crombec",43,68,1
-"Short-toe Larks and other Larks",107,55,2
 "Greater Short-toed Lark",107,59,1
 "Asian Short-toed Lark",107,61,2
 "Rufous Short-toed Lark",107,62,2
@@ -75,9 +74,6 @@ name,fileindex,index,whichChild
 "Indian Short-toed Lark",107,66,2
 "Short-tailed Lark",107,140,1
 "Short-clawed Lark",107,141,2
-"Shrikes, Birds Of Paradise and more",132,1,1
-"Shrikes, Monarchs, Birds of paradise and more",132,5,1
-"Shrikebills",133,12,1
 "Southern Shrikebill",133,16,1
 "Fiji Shrikebill",133,17,2
 "Santa Cruz Shrikebill",133,18,2
@@ -87,7 +83,6 @@ name,fileindex,index,whichChild
 "Short-crested Monarch",133,172,2
 "Short-tailed Paradigalla",144,38,2
 "Short-tailed Magpie",137,127,2
-"Shrikes",137,153,1
 "Grey-backed Shrike",137,163,1
 "Brown Shrike",137,164,2
 "Bull-headed Shrike",137,165,2
@@ -110,17 +105,13 @@ name,fileindex,index,whichChild
 "Bay-backed Shrike",137,203,2
 "Magpie Shrike",137,207,1
 "Burmese Shrike",137,209,2
-"Shrikes",137,211,1
 "White-crowned Shrike",137,212,1
 "White-rumped Shrike",137,213,2
 "Shining Drongo",136,27,2
-"Shrike-thrushes and more",132,19,1
-"Shrike-vireos",132,28,2
 "Chestnut-sided Shrike-vireo",132,31,1
 "Slaty-capped Shrike-vireo",132,32,2
 "Yellow-browed Shrike-vireo",132,33,2
 "Green Shrike-vireo",132,34,2
-"Shrike-babblers",132,40,2
 "Chestnut-fronted Shrike-babbler",132,43,1
 "Black-eared Shrike-babbler",132,44,2
 "White-browed Shrike-babbler",132,46,1
@@ -128,16 +119,12 @@ name,fileindex,index,whichChild
 "Green Shrike-babbler",132,48,2
 "Sooty Shrike-thrush",134,24,2
 "Sangihe Shrike-thrush",134,69,1
-"Shrike-thrushes and more",132,54,2
 "Sandstone Shrike-thrush",132,58,1
 "Grey Shrike-thrush",132,59,2
 "Bower's Shrike-thrush",132,60,2
 "Little Shrike-thrush",132,61,2
-"Shrike-Flycatchers, Butcherbirds, Woodswallows and more",132,72,1
-"Shrike-flycatchers, wattle-eyes and batises",135,73,2
 "African Shrike-flycatcher",135,74,1
 "Black-and-white Shrike-flycatcher",135,75,2
-"Shrike-flycatchers, wattle-eyes and batises",135,76,2
 "Short-tailed Batis",135,83,1
 "sharpei",141,74,2
 "Short-billed Minivet",132,95,1
@@ -153,7 +140,6 @@ name,fileindex,index,whichChild
 "Short-tailed Antthrush",30,72,1
 "sharpei",30,181,2
 "Shear-tailed Grey-tyrant",123,21,2
-"Shrike-Tyrants",123,22,2
 "Grey-bellied Shrike-tyrant",123,25,1
 "Black-billed Shrike-tyrant",123,26,2
 "White-tailed Shrike-tyrant",123,28,1
@@ -166,8 +152,6 @@ name,fileindex,index,whichChild
 "Sharpbill",121,43,2
 "Shrike-like Cotinga",121,98,1
 "sharpei",120,71,2
-"Shining-Parrots and Tiger-Parrots",109,130,2
-"Shining-Parrots",109,138,2
 "Masked Shining-parrot",109,140,1
 "Red Shining-parrot",109,141,2
 "Crimson Shining-parrot",109,142,2
@@ -186,13 +170,10 @@ name,fileindex,index,whichChild
 "Short-billed Dowitcher",21,58,2
 "Sharp-tailed Sandpiper",21,109,2
 "Shore Plover",24,94,1
-"Sheathbills and more",20,170,2
 "Black-faced Sheathbill",20,172,1
 "Snowy Sheathbill",20,173,2
 "Sharp-tailed Ibis",3,185,2
-"Pelicans, Shoebill and Hamerkop",3,192,2
 "Shoebill",3,209,1
-"Cormorants and Shags",19,3,1
 "Spotted Shag",19,15,2
 "Chatham Islands Shag",19,21,1
 "Bounty Islands Shag",19,26,2
@@ -204,9 +185,6 @@ name,fileindex,index,whichChild
 "European Shag",19,55,2
 "Auckland Islands Shag",19,61,1
 "Pitt Island Shag",19,62,2
-"Albatrosses, Shearwaters and Petrels",12,1,1
-"Petrels and shearwaters",12,6,1
-"Shearwaters",12,9,1
 "Newell's Shearwater",14,9,2
 "Black-vented Shearwater",14,10,2
 "Audubon's Shearwater",14,13,1
@@ -230,8 +208,6 @@ name,fileindex,index,whichChild
 "Cape Verde Shearwater",12,13,1
 "Streaked Shearwater",12,14,2
 "Cory's Shearwater",12,15,2
-"Petrels and shearwaters",12,32,1
-"Petrels and shearwaters",12,54,2
 "Shy Albatross",12,84,2
 "Short-tailed Albatross",12,108,1
 "Shining Bronze-cuckoo",10,77,2
@@ -243,7 +219,6 @@ name,fileindex,index,whichChild
 "Short-tailed Emerald",155,106,1
 "Short-tailed Woodstar",157,24,1
 "Peruvian Sheartail",157,25,2
-"Sheartails",155,150,2
 "Slender Sheartail",155,151,1
 "Mexican Sheartail",155,152,2
 "Short-crested Coquette",160,92,1
@@ -254,15 +229,12 @@ name,fileindex,index,whichChild
 "Sharp-tailed Grouse",151,9,1
 "Shelley's Francolin",150,12,2
 "shelleyi",150,12,2
-"Shelducks",27,50,1
 "South African Shelduck",27,55,1
 "Ruddy Shelduck",27,56,2
 "Australian Shelduck",27,57,2
 "Paradise Shelduck",27,58,2
 "Common Shelduck",27,59,2
 "Radjah Shelduck",27,60,2
-"Orinoco Goose and Sheldgeese",27,62,2
-"Teals, Shovelers and more",28,1,1
 "Australasian Shoveler",28,66,1
 "Northern Shoveler",28,67,2
 "Cape Shoveler",28,68,2

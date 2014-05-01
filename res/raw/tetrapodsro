@@ -124,7 +124,6 @@ name,fileindex,index,whichChild
 "Northern Rough-winged Swallow",178,115,1
 "Southern Rough-winged Swallow",178,116,2
 "Rockrunner",161,42,2
-"Australasian robins",151,0,2
 "Scarlet Robin",151,12,1
 "Flame Robin",151,13,2
 "Pink Robin",151,15,1
@@ -161,11 +160,8 @@ name,fileindex,index,whichChild
 "Black-throated Robin",151,83,2
 "Black-sided Robin",151,85,1
 "Olive-yellow Robin",151,86,2
-"Rockjumpers and Rockfowl",120,9,2
-"Rockjumpers and Rockfowl",120,9,2
 "Drakensberg Rockjumper",120,12,1
 "Cape Rock-jumper",120,13,2
-"Rockfowl",120,15,2
 "rowleyi",159,38,1
 "rothschildi",160,32,2
 "Rook",158,32,2
@@ -203,7 +199,6 @@ name,fileindex,index,whichChild
 "Round-tailed Manakin",249,106,1
 "Rosy-faced Lovebird",219,38,2
 "roseicollis",219,38,2
-"Rosellas",218,37,1
 "Pale-headed Rosella",218,41,1
 "Eastern Rosella",218,42,2
 "Northern Rosella",218,43,2
@@ -222,8 +217,6 @@ name,fileindex,index,whichChild
 "robustus",206,194,2
 "robustus",201,39,2
 "rolleti",205,11,1
-"Rollers and Ground-Rollers",201,107,2
-"Rollers",201,108,1
 "Abyssinian Roller",201,115,1
 "European Roller",201,116,2
 "Lilac-breasted Roller",201,117,2
@@ -250,7 +243,6 @@ name,fileindex,index,whichChild
 "rosenbergii",223,45,1
 "rochussenii",223,48,1
 "Rock Sandpiper",223,122,1
-"Rostratulidae",114,134,2
 "Rostratula",114,136,1
 "Rostratula",114,137,2
 "Rostratula",114,138,2
@@ -262,14 +254,11 @@ name,fileindex,index,whichChild
 "Northern Royal Albatross",357,102,2
 "robustus",357,161,2
 "Royal Penguin",357,164,2
-"Rockhopper Penguins",357,165,2
 "Southern Rockhopper Penguin",357,166,1
 "Northern Rockhopper Penguin",357,167,2
 "Ross's Turaco",346,82,2
 "rossae",346,82,2
 "rochii",355,23,2
-"Ground-Cuckoos and Roadrunners",346,104,1
-"Roadrunners",346,115,2
 "Greater Roadrunner",346,116,1
 "Lesser Roadrunner",346,117,2
 "rogersi",360,73,1
@@ -282,7 +271,6 @@ name,fileindex,index,whichChild
 "Rose-crowned Fruit-dove",350,19,2
 "roseicapilla",350,106,2
 "rosacea",352,37,2
-"Rock pigeons",347,71,2
 "Chestnut-quilled Rock-pigeon",347,72,1
 "White-quilled Rock-pigeon",347,73,2
 "Rock Pigeon",348,12,2
@@ -320,11 +308,9 @@ name,fileindex,index,whichChild
 "roseiventris",405,43,2
 "roquet",405,87,2
 "Round-tailed Horned Lizard",414,12,2
-"California Rock Lizard",414,42,2
 "Banded Rock Lizard",414,43,1
 "roborowskii",406,97,1
 "rossikowi",406,101,2
-"Asian Rock Agamas",406,120,2
 "rozellae",411,55,1
 "Rough Earth Snake",335,121,1
 "Rough-scaled Sea Snake",341,17,1
@@ -334,11 +320,7 @@ name,fileindex,index,whichChild
 "Rough-scaled Sand Boa",334,93,2
 "Rosy Boa",334,97,1
 "robusta",320,49,2
-"Rodents",254,2,1
-"RODENTIA",254,2,1
-"Mouse-like Rodents",254,6,1
 "Rossel Island Melomys",266,48,2
-"Rock Rats",266,80,2
 "Kimberley Rock Rat",266,83,1
 "Common Rock Rat",266,84,2
 "Central Rock Rat",266,85,2
@@ -347,7 +329,6 @@ name,fileindex,index,whichChild
 "Rothschild's Woolly Rat",270,58,2
 "rothschildi",270,58,2
 "Rock-dwelling Giant Rat",270,72,2
-"Rock Rats",269,181,1
 "Tinfields Rock Rat",269,185,1
 "Bocage's Rock Rat",269,187,2
 "Thomas's Rock Rat",269,189,1
@@ -364,7 +345,6 @@ name,fileindex,index,whichChild
 "rosalinda",268,17,2
 "robustus",265,59,2
 "Robbins's Tateril",265,83,1
-"Rock Mice",263,148,1
 "Shortridge's Rock Mouse",263,150,1
 "Barbour's Rock Mouse",263,151,2
 "Brukkaros Pygmy Rock Mouse",263,153,1
@@ -405,7 +385,6 @@ name,fileindex,index,whichChild
 "Rothchild's Porcupine",256,143,2
 "rothschildi",256,143,2
 "Robust Tuco-tuco",257,16,2
-"Rock Rats, Viscacha Rats and more",254,32,2
 "Chilean Rock Rat",254,36,1
 "Sage's Rock Rat",254,38,2
 "rosenbergii",278,109,2
@@ -419,7 +398,6 @@ name,fileindex,index,whichChild
 "Lunda Rope Squirrel",296,145,2
 "Ribboned Rope Squirrel",296,148,1
 "Fire-footed Rope Squirrel",296,149,2
-"Rock Squirrels",296,168,2
 "Pere David's Rock Squirrel",296,169,1
 "Forrest's Rock Squirrel",296,170,2
 "Rock Dormouse",262,10,1
@@ -447,7 +425,6 @@ name,fileindex,index,whichChild
 "robustior",365,37,1
 "Roberts's Flat-headed Bat",396,184,2
 "robusta",393,107,2
-"Round-eared Bats",393,151,2
 "Carriker's Round-eared Bat",393,156,1
 "Davis's Round-eared Bat",393,157,2
 "White-throated Round-eared Bat",393,158,2
@@ -561,7 +538,6 @@ name,fileindex,index,whichChild
 "rothii",55,31,2
 "Rough Frog",38,153,2
 "rohdei",66,10,2
-"Rough Leaf Frogs",66,81,2
 "roraimae",91,8,1
 "roseus",81,23,2
 "rozei",81,62,2

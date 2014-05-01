@@ -28,7 +28,6 @@ name,fileindex,index,whichChild
 "Diurnal Sulawesian Shrew Rat",17,48,2
 "Northern Sulawesi Echiothrix",17,55,1
 "Central Sulawesi Echiothrix",17,56,2
-"Sundamys",8,81,1
 "Mountain Sundamys",8,83,1
 "Sundamys",8,83,1
 "Javan Sundamys",8,84,2
@@ -65,7 +64,6 @@ name,fileindex,index,whichChild
 "Sunda Porcupine",29,193,2
 "Sumatran Flying Squirrel",80,24,1
 "Sulawesi Giant Squirrel",77,64,2
-"Sundasciurus",78,1,1
 "Sundasciurus",78,8,1
 "Sundasciurus",78,9,2
 "Sundasciurus",78,10,2
@@ -84,7 +82,6 @@ name,fileindex,index,whichChild
 "sublineatus",77,105,1
 "suslicus",79,35,2
 "substriatus",81,31,2
-"Sun Squirrels",81,47,2
 "Red-legged Sun Squirrel",81,51,1
 "Small Sun Squirrel",81,52,2
 "Gambian Sun Squirrel",81,53,2
@@ -94,9 +91,7 @@ name,fileindex,index,whichChild
 "surdus",77,153,2
 "Sumatran Striped Rabbit",76,105,1
 "Sun-tailed Monkey",41,63,2
-"Langurs, Surilis and more",40,1,1
 "Javan Surili",40,39,2
-"Surilis",40,45,2
 "White-thighed Surili",40,48,1
 "Sarawak Surili",40,49,2
 "Natuna Island Surili",40,51,1
@@ -126,8 +121,6 @@ name,fileindex,index,whichChild
 "Sulawesi Rousette",70,58,2
 "sumatraensis",64,55,2
 "subgutturosa",66,12,2
-"Suidae",72,1,1
-"Sus",72,5,1
 "Sus",72,9,1
 "Sus",72,10,2
 "Sus",72,11,2
@@ -176,7 +169,6 @@ name,fileindex,index,whichChild
 "Suncus",87,35,2
 "Suncus",87,36,2
 "Suncus",87,57,2
-"Surdisorex",85,42,1
 "Surdisorex",85,43,1
 "Surdisorex",85,44,2
 "suncoides",85,45,2

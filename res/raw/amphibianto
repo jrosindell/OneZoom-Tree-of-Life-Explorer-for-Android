@@ -1,7 +1,4 @@
 name,fileindex,index,whichChild
-"Frogs and Toads",0,2,1
-"True toads",3,2,1
-"Beaked Toads",9,6,1
 "Cane Toad",12,9,1
 "Arroyo Toad",13,9,1
 "Oak Toad",13,11,2
@@ -38,7 +35,6 @@ name,fileindex,index,whichChild
 "Karoo Toad",10,108,2
 "Amatola Toad",10,110,1
 "Inyanga Toad",10,111,2
-"Cape Toads",10,112,2
 "Tradouw's Mountain Toad",10,113,1
 "Rose's Mountain Toad",10,114,2
 "Common Toad",9,38,1
@@ -65,35 +61,25 @@ name,fileindex,index,whichChild
 "Mongolian Toad",9,106,2
 "Green Toad",9,110,1
 "Natterjack Toad",9,113,2
-"Beaked Toads",9,117,1
 "Rio Perene Toad",9,126,1
 "South American Common Toad",9,132,1
-"Flathead Toads",9,163,1
 "Bony-headed Toad",9,187,1
 "Crested Toad",9,189,2
 "Sulawesian Toad",9,191,2
 "Philippine Toad",9,193,1
-"Stream Toads",11,1,1
 "torrentis",11,38,1
 "tornieri",11,57,1
 "Kihansi Spray Toad",11,65,2
-"Ethiopian Toads",11,68,2
-"Asian Tree Toads",3,9,1
 "Asian Giant Toad",3,21,1
-"Smalltongue Toads",3,25,1
-"African Tree Toads",3,36,2
 "Bates' Tree Toad",3,37,1
 "African Tree Toad",3,38,2
-"Wolterstorff Toads",3,39,2
 "Green And Red Venter Harlequin Toad",5,94,2
 "Rio Carauta Stubfoot Toad",5,102,2
 "Scarlet Harlequin Toad",5,109,1
 "Three-coloured Harlequin Toad",5,115,2
-"Plump Toads",3,74,1
 "Herveo Plump Toad",3,81,2
 "Cannatella's Plump Toad",3,83,1
 "Guacamayo Plump Toad",3,84,2
-"South American Redbelly Toads",3,86,2
 "toachi",18,63,2
 "tocantins",21,100,1
 "torrenticola",32,25,1
@@ -101,15 +87,11 @@ name,fileindex,index,whichChild
 "tornieri",23,22,2
 "Torrent Treefrog",23,97,2
 "tomopterna",27,37,2
-"Rain Frogs, Saddleback Toads and more",2,60,2
 "torrenticola",38,69,2
 "toftae",34,157,2
-"Saddleback Toads",2,76,1
 "Pumpkin Toadlet",2,85,1
 "toa",47,75,2
 "tonyi",47,86,2
-"Gastric-brooding Frogs, Toadlets and more",2,112,2
-"Toadlets and more",19,0,1
 "Blacksoil Toadlet",19,10,1
 "Wrinkled Toadlet",19,11,2
 "Fat Toadlet",19,13,1
@@ -177,7 +159,6 @@ name,fileindex,index,whichChild
 "torrentis",86,14,1
 "Togo Reed Frog",86,74,1
 "tornieri",86,77,1
-"Spadefoot Toads, Asian Horned Frogs and more",66,0,2
 "Wushan Horned Toad",67,9,1
 "Convex-vented Horned Toad",67,11,2
 "Omei Horned Toad",67,12,2
@@ -199,24 +180,16 @@ name,fileindex,index,whichChild
 "Oshan Metacarpal-tubercled Toad",66,138,1
 "Java Spadefoot Toad",66,187,1
 "Chapa Spadefoot Toad",66,190,2
-"European Spadefoot Toads",66,202,2
 "Varaldi's Spadefoot Toad",66,205,1
-"American Spadefoot Toads",66,210,1
-"Western Spadefoot Toads",66,211,1
-"Southern Spadefoot Toads",66,218,2
 "Iberian Midwife Toad",0,36,1
 "Common Midwife Toad",0,37,2
 "Betic Midwife Toad",0,39,2
 "Mallorcan Midwife Toad",0,40,2
-"Fire-bellied Toads",0,41,2
 "Yellow??????????????????bellied Toad",0,46,1
 "Appenine Yellow-bellied Toad",0,47,2
 "Oriental Bell Toad",0,49,1
 "Fire-bellied Toad",0,50,2
 "Lichuan Bell Toad",0,51,2
-"Burrowing Toad, Surinam Toads and more",0,60,2
-"Burrowing Toad, Surinam Toads and more",0,60,2
-"Surinam Toads",68,36,2
 "Suriname Toad",68,41,1
 "Arrabal's Suriname Toad",68,43,2
 "Albina Surinam Toad",68,44,2
@@ -225,7 +198,6 @@ name,fileindex,index,whichChild
 "Burrowing Toad",0,71,2
 "townsendi",56,9,2
 "tonkawae",57,35,1
-"Torrent Salamanders",0,92,2
 "Southern Torrent Salamander",0,94,1
 "Columbia Torrent Salamander",0,95,2
 "Olympic Torrent Salamander",0,97,1
