@@ -16,7 +16,7 @@ public class MemoryThread extends Thread {
 	public static final int MSG_RESET = 3;
 	public static final int MSG_SEARCH = 4;
 
-	private Handler handler;
+	private MemoryHandler handler;
 	private CanvasActivity clientActivity;
 	
 	/**
@@ -63,59 +63,53 @@ public class MemoryThread extends Thread {
 
 
 class MemoryHandler extends Handler {
-	private CanvasActivity clientActivity;
-	private BinarySearch searchEngine;
+	private CanvasActivity client;
+	public BinarySearch searchEngine;
 
-	public MemoryHandler(CanvasActivity client) {
-		clientActivity = client;
-		searchEngine = new BinarySearch(client);
+	public MemoryHandler(CanvasActivity _client) {
+		client = _client;
+		searchEngine = new BinarySearch(_client);
 	}
 
 	@Override
 	public void handleMessage(Message msg) {
 		switch (msg.what) {
 		case MemoryThread.MSG_INITIALIZATION:
-			clientActivity.initialization();
-			clientActivity.treeView.postInvalidate();
+			client.initialization();
+			client.treeView.postInvalidate();
 			if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
 				this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			break;
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
-				clientActivity.treeView.setDuringRecalculation(true);
-				clientActivity.getTreeRoot().recalculateDynamic();	
-//				Log.d("debug", "stack size after recalculate: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
-				clientActivity.treeView.setDuringRecalculation(false);
-				clientActivity.treeView.postInvalidate();
+				client.treeView.setDuringRecalculation(true);
+				client.getTreeRoot().recalculateDynamic();	
+				client.treeView.setDuringRecalculation(false);
+				client.treeView.postInvalidate();
 				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
 		case MemoryThread.MSG_RESET:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
-				clientActivity.treeView.setDuringRecalculation(true);
-				//TODO: change graphref such that the view won't jump
-				clientActivity.getTreeRoot().recalculate();	
-//				Log.d("debug", "stack size after recalculate: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
-				clientActivity.treeView.setDuringRecalculation(false);
-				clientActivity.treeView.postInvalidate();
+				client.treeView.setDuringRecalculation(true);
+				client.getTreeRoot().recalculate();	
+				client.treeView.setDuringRecalculation(false);
+				client.treeView.postInvalidate();
 				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
 		case MemoryThread.MSG_IDLECALCULATION:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
-//				clientActivity.treeView.setDuringRecalculation(true);
 				MidNode.initializer.idleTimeInitialization();
-//				clientActivity.treeView.setDuringRecalculation(false);
-//				Log.d("debug", "stack size after ini: " + MidNode.initializer.stackOfNodeHasNonInitChildren.size());
 				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
 		case MemoryThread.MSG_SEARCH:
 			searchEngine.performSearch((String)msg.obj);
-			clientActivity.treeView.postInvalidate();
+			client.treeView.postInvalidate();
 		}
 	}
 }

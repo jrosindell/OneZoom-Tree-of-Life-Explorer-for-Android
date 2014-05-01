@@ -24,6 +24,10 @@ class GrowthThread extends Thread {
 	final int GROWTH_RATE = 10;
 	Map<String, Integer> map;
 	
+	/**
+	 * Map stores the age of each group.
+	 * @param activity
+	 */
 	public GrowthThread(CanvasActivity activity) {
 		client = activity;
 		map = new TreeMap<String, Integer>();

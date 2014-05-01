@@ -8,6 +8,7 @@ import java.util.Locale;
 
 import org.apache.commons.lang3.StringUtils;
 
+import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
 import au.com.bytecode.opencsv.CSVReader;
@@ -31,7 +32,7 @@ public class BinarySearch {
 	
 	public void performSearch(String userInput) {
 		if (userInput.length() < 3) {
-			Toast.makeText(client, "name too short", Toast.LENGTH_SHORT).show();
+			client.showToast("name too short");
 		} else if (userInput.equals(previousSearch)) {
 			currentHit = (currentHit + 1) % searchHit;
 			processAndShowSearchResult();
@@ -50,9 +51,9 @@ public class BinarySearch {
 	private void processAndShowSearchResult() {
 		if (searchHit > 0) {
 			process(searchResults.get(currentHit));
-			Toast.makeText(client, searchResult(currentHit, searchHit), Toast.LENGTH_SHORT).show();	
+			client.showToast(searchResult(currentHit, searchHit));
 		} else {
-			Toast.makeText(client, "No Result", Toast.LENGTH_SHORT).show();
+			client.showToast("No Result");
 		}
 	}
 	
@@ -70,19 +71,14 @@ public class BinarySearch {
 	private void process(Record record) {
 		int key = Utility.combine(record.fileIndex, record.index);
 		MidNode searchedNode = null;
-		int previousSize = MidNode.initializer.fulltreeHash.size();
 		if (MidNode.initializer.fulltreeHash.containsKey(key)) {
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		} else {
 			MidNode.initializer.initialiseSearchedFile(record.fileIndex);
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		}
-		if (searchedNode == null) {
-			Log.d("debug", "previous size fulltree hash -> " + previousSize);
-			Log.d("debug", "size fulltree hash -> " + MidNode.initializer.fulltreeHash.size());
-		}
 		reanchorNode(searchedNode, 0);
-		client.setPositionToMoveNodeCenter();
+		client.moveRootToCenter();
 		PositionData.moveNodeToCenter(searchedNode);
 		client.treeView.setDuringInteraction(false);
 		client.recalculate();

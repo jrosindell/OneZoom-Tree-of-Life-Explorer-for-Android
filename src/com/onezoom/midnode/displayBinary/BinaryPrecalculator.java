@@ -1,8 +1,5 @@
 package com.onezoom.midnode.displayBinary;
 
-import junit.framework.Assert;
-import android.util.Log;
-
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
 import com.onezoom.midnode.MidNode;
@@ -35,17 +32,12 @@ public class BinaryPrecalculator {
 	
 	
 	public void preCalcOneInteriorNode(InteriorNode interiorNode) {
-//		assert interiorNode != null;
-		Assert.assertNotNull(interiorNode);
 		MidNode parent = interiorNode.getParent();
 		if (parent == null) {
-			Log.d("debug", "calculate as root");
 			precalcRoot(interiorNode.positionData);
 		} else if (interiorNode.childIndex == 1){
 			precalcAsRightChildren(interiorNode.positionData, parent.positionData);
 		} else {
-//			assert interiorNode.childIndex == 2;
-			Assert.assertEquals(2, interiorNode.childIndex);
 			precalcAsLeftChildren(interiorNode.positionData, parent.positionData);
 		}
 		precalcInteriorCircle(interiorNode.positionData);
@@ -53,26 +45,19 @@ public class BinaryPrecalculator {
 
 	
 	public void preCalcOneLeafNode(LeafNode leafNode) {
-//		assert leafNode != null;
-		Assert.assertNotNull(leafNode);
 		MidNode parent = leafNode.getParent();
 		if (leafNode.childIndex == 1) {
 			precalcAsRightChildren(leafNode.positionData, parent.positionData);
 		} else {
-			assert leafNode.childIndex == 2;
-			Assert.assertEquals(leafNode.childIndex, 2);
 			precalcAsLeftChildren(leafNode.positionData, parent.positionData);
 		}
 		precalcLeafShape(leafNode.positionData);
-		//TODO: leaf node needs more precalc
 	}
 	
 	public void precalcOneNode(MidNode node) {
 		if (node.getClass() == InteriorNode.class) {
 			preCalcOneInteriorNode((InteriorNode)node);
 		} else {
-//			assert node.getClass() == LeafNode.class;
-			Assert.assertEquals(node.getClass(), LeafNode.class);
 			preCalcOneLeafNode((LeafNode)node);
 		}
 		MidNode.positionCalculator.calculateGBoundingBox(node);
@@ -80,20 +65,12 @@ public class BinaryPrecalculator {
 	
 	private void precalcAsLeftChildren(PositionData thisData,
 			PositionData parentData) {
-//		assert thisData != null;
-//		assert parentData != null;
-		Assert.assertNotNull(thisData);
-		Assert.assertNotNull(parentData);
 		precalcBezierAsLeftChildren(thisData, parentData);
 		precalcNextReference(thisData);
 	}
 
 	private void precalcAsRightChildren(PositionData thisData,
 			PositionData parentData) {
-//		assert thisData != null;
-//		assert parentData != null;
-		Assert.assertNotNull(thisData);
-		Assert.assertNotNull(parentData);
 		precalcBezierAsRightChildren(thisData, parentData);
 		precalcNextReference(thisData);
 	}
@@ -127,8 +104,6 @@ public class BinaryPrecalculator {
 	}
 
 	private void precalcRoot(PositionData positionData) {
-//		assert positionData != null;
-		Assert.assertNotNull(positionData);
 		positionData.bezsx = 0;
 		positionData.bezsy = 0;
 		positionData.bezex = 0;

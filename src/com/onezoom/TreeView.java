@@ -52,7 +52,8 @@ public class TreeView extends View {
 		client = (CanvasActivity) context;
 		gestureDetector = new GestureDetector(context, new GestureListener(this));
 		scaleDetector = new ScaleGestureDetector(context, new ScaleListener(this));
-		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); //this will not be used. set to 1,1 to speed up the app
+		//this will not be used. set to 1,1 to speed up the app
+		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); 
 		paint = new Paint();
 	}
 	
@@ -88,22 +89,27 @@ public class TreeView extends View {
 			drawLoading(canvas);
 		} else {
 			if (!duringRecalculation && !duringInteraction){
-				client.getTreeRoot().outputInitElement();
 				drawElementAndCache(canvas);
 			} else {
-				canvas.translate(distanceX, distanceY);
-				canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
-				canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+				drawUsingCachedBitmap(canvas);
 			}
 		}
 	}
 	
+	/**
+	 * When this function first called, it will draw cached bitmap.
+	 * Then it calls load bitmap from view, which calls onDraw, which calls drawElementAndCache again. 
+	 * Then this function will execute the else branch, which does the actual drawing. 
+	 * The result of the actual drawing will be returned from loadBitmapFromView and cached in cachedBitmap.
+	 * 
+	 * At the end of the function call, view will be invalidated and since duringInteraction is set to true, 
+	 * view will use the cached bitmap to refresh itself.
+	 * @param canvas
+	 */
 	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
-			canvas.translate(distanceX, distanceY);
-			canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
-			canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+			drawUsingCachedBitmap(canvas);
 			this.scaleX = 1;
 			this.scaleY = 1;
 			this.distanceX = 0;
@@ -120,6 +126,17 @@ public class TreeView extends View {
 		invalidate();		
 	}
 
+	private void drawUsingCachedBitmap(Canvas canvas) {
+		canvas.translate(distanceX, distanceY);
+		canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
+		canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+	}
+
+	/**
+	 * This function will call onDraw().
+	 * @param v
+	 * @return
+	 */
 	private Bitmap loadBitmapFromView(TreeView v) {
 		if (v == null) {
 			return null;

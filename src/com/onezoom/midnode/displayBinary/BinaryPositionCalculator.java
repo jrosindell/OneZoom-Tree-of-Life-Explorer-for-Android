@@ -343,14 +343,8 @@ public class BinaryPositionCalculator {
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
 		} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
-//			midnode.child1 = MidNode.initializer.createFollowingOneFile(midnode, 1);
-//			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
-//					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
-//					r * midnode.positionData.nextr1, midnode.child1);
 			if (dynamic)
 				midnode.child1 = MidNode.initializer.createTreeStartFromTailNode(1, midnode);
-		} else if (!midnode.positionData.dvar && midnode.child1 != null) {
-//			dropInvisibleChunk(midnode.child1, 1);
 		}
 		
 		if (midnode.child2 != null && midnode.positionData.dvar) {
@@ -359,14 +353,8 @@ public class BinaryPositionCalculator {
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
 		} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
-//			midnode.child2 = MidNode.initializer.createFollowingOneFile(midnode, 2);
-//			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
-//					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
-//					r * midnode.positionData.nextr2, midnode.child2);
 			if (dynamic)
 				midnode.child2 = MidNode.initializer.createTreeStartFromTailNode(2, midnode);
-		} else if (!midnode.positionData.dvar && midnode.child2 != null) {
-//			dropInvisibleChunk(midnode.child2, 1);
 		}
 	}
 
@@ -413,32 +401,3 @@ public class BinaryPositionCalculator {
 		BinaryPositionCalculator.reanchored = reanchored;
 	}
 }
-
-
-//private void drawreg2Dynamic2(float x, float y, float r, MidNode midnode) {
-//midnode.positionData.xvar = x;
-//midnode.positionData.yvar = y;
-//midnode.positionData.rvar = r;		
-//midnode.positionData.dvar = midnode.positionData.horizonInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
-//midnode.positionData.gvar = midnode.positionData.nodeInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
-//
-//if (midnode.child1 != null && midnode.positionData.dvar) {
-//	drawreg2Dynamic2(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
-//			y + midnode.positionData.nexty1 * midnode.positionData.rvar,
-//			r * midnode.positionData.nextr1, midnode.child1);
-//} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
-//	MidNode.initializer.createFollowingNodes(midnode, 1);
-//} else if (!midnode.positionData.dvar && midnode.child1 != null) {
-//	dropInvisibleChunk(midnode.child1, 1);
-//}
-//
-//if (midnode.child2 != null && midnode.positionData.dvar) {
-//	drawreg2Dynamic2(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
-//			y + midnode.positionData.nexty2 * midnode.positionData.rvar,
-//			r * midnode.positionData.nextr2, midnode.child2);
-//} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
-//	MidNode.initializer.createFollowingNodes(midnode, 2);
-//} else if (!midnode.positionData.dvar && midnode.child2 != null) {
-//	dropInvisibleChunk(midnode.child2, 1);
-//}
-//}

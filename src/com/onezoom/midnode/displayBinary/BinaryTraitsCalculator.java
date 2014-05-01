@@ -15,7 +15,6 @@ public class BinaryTraitsCalculator{
 	
 	
 	public void initLeafNode(String data) {
-		// TODO Auto-generated method stub
 		setLengthAndRichness(data);
 		if (data.length() > 0) {
 			setLeafNames(data);
@@ -42,10 +41,10 @@ public class BinaryTraitsCalculator{
 	public void setColor(MidNode midNode) {
 		setMyColor(midNode);
 		if (midNode.child1 != null) {
-			midNode.child1.traitsCaculator.setColor(midNode.child1);
+			midNode.child1.traitsCalculator.setColor(midNode.child1);
 		}
 		if (midNode.child2 != null) {
-			midNode.child2.traitsCaculator.setColor(midNode.child2);
+			midNode.child2.traitsCalculator.setColor(midNode.child2);
 		}
 	}
 	
@@ -74,10 +73,10 @@ public class BinaryTraitsCalculator{
 		num_U = 0;
 
 		if ((node.child1 != null) && (node.child2 != null)) {
-			node.child1.traitsCaculator.concalc(node.child1);
-			node.child2.traitsCaculator.concalc(node.child2);
-			BinaryTraitsCalculator trait1 = (BinaryTraitsCalculator) node.child1.traitsCaculator;
-			BinaryTraitsCalculator trait2 = (BinaryTraitsCalculator) node.child2.traitsCaculator;
+			node.child1.traitsCalculator.concalc(node.child1);
+			node.child2.traitsCalculator.concalc(node.child2);
+			BinaryTraitsCalculator trait1 = (BinaryTraitsCalculator) node.child1.traitsCalculator;
+			BinaryTraitsCalculator trait2 = (BinaryTraitsCalculator) node.child2.traitsCalculator;
 			num_EX = (trait1.num_EX) + (trait2.num_EX);
 			num_EW = (trait1.num_EW) + (trait2.num_EW);
 			num_CR = (trait1.num_CR) + (trait2.num_CR);

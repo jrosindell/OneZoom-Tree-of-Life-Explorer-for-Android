@@ -9,7 +9,7 @@ public class Utility {
 	
 	public static int barccolor(MidNode node) { // branch outline colour logic
 		// this script sets the color for the outline of the branches
-		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCaculator;
+		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCalculator;
 		int colortoreturn = Color.argb(80, 50, 37, 25);// 'rgba(50,37,25,0.3)';
 		if (colourtype == 2) {
 			if ((traits.lengthbr < 70.6) && (BinaryTraitsCalculator.timelim < 70.6)) {
@@ -23,7 +23,7 @@ public class Utility {
 	}
 	
 	public static int leafcolor1(LeafNode node) {
-		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCaculator;
+		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCalculator;
 		// for the leaf fill
 		if ((traits.redlist != null) && (colourtype == 3)) {
 			return (redlistcolor(traits.redlist));
@@ -63,7 +63,7 @@ public class Utility {
 	
 	
 	public static int branchcolor(MidNode node) {// branch colour logic
-		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCaculator;
+		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCalculator;
 		// this script sets the colours of the branches
 		int colortoreturn = Color.argb(255, 100, 75, 50);
 		if (colourtype == 2) // there are two different color schemes in this
@@ -131,7 +131,7 @@ public class Utility {
 	}
 
 	public static String geologicAge(InteriorNode midNode) {
-		float lengthbr = midNode.traitsCaculator.getLengthbr();
+		float lengthbr = midNode.traitsCalculator.getLengthbr();
 		return geologicAge(lengthbr);
 	}
 	
@@ -161,16 +161,16 @@ public class Utility {
 	}
 
 	public static String conservationStatus(LeafNode midNode) {
-		if (midNode.traitsCaculator.getRedlist() != null) {
-			return "Conservation status: " + conconvert(midNode.traitsCaculator.getRedlist());
+		if (midNode.traitsCalculator.getRedlist() != null) {
+			return "Conservation status: " + conconvert(midNode.traitsCalculator.getRedlist());
 		} else {
 			return "Conservation status: " + ("Not Evaluated");
 		}
 	}
 
 	public static String populationStability(LeafNode midNode) {
-		String popstab = midNode.traitsCaculator.getPopstab();
-		String redlist = midNode.traitsCaculator.getRedlist();
+		String popstab = midNode.traitsCalculator.getPopstab();
+		String redlist = midNode.traitsCalculator.getRedlist();
 		if (popstab != null && popstab.equals("D"))
 			return "population decreasing";
 		else if (popstab != null && popstab.equals("I"))
