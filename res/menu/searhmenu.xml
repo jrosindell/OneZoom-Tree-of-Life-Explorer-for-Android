@@ -4,8 +4,8 @@
         android:id = "@+id/search"
         android:title = "@string/search_hint"
         android:icon = "@drawable/searchcolor"
-        android:showAsAction="collapseActionView|ifRoom"
-        android:actionViewClass="android.widget.SearchView" /> 
+        android:showAsAction="ifRoom|collapseActionView"
+        android:actionViewClass="com.onezoom.CustomizeSearchView" /> 
         
      <item
         android:id = "@+id/back"

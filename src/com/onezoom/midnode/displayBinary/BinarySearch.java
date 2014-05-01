@@ -31,11 +31,9 @@ public class BinarySearch {
 	}
 	
 	public void performSearch(String userInput) {
-		if (userInput.length() < 3) {
-			client.showToast("name too short");
-		} else if (userInput.equals(previousSearch)) {
-			currentHit = (currentHit + 1) % searchHit;
-			processAndShowSearchResult();
+		if (userInput.length() < 3 || userInput.equals(previousSearch)) {
+			previousSearch = userInput;
+			showResult(1);
 		} else {
 			searchResults.clear();
 			previousSearch = userInput;
@@ -49,20 +47,23 @@ public class BinarySearch {
 	}
 	
 	public void performBackSearch() {
-		if (previousSearch == null || previousSearch.length() < 3) {
-			client.showToast("name too short");
-		} else {
-			currentHit = (currentHit - 1 + searchHit) % searchHit;
-			processAndShowSearchResult();
-		}
+		showResult(-1);
 	}
 
 	public void performForwardSearch() {
-		if (previousSearch == null || previousSearch.length() < 3) {
-			client.showToast("name too short");
-		} else {
-			currentHit = (currentHit + 1) % searchHit;
+		showResult(1);
+	}
+	
+	private void showResult(int indexChange) {
+		if (previousSearch == null || previousSearch.length() == 0) {
+			client.showToast("You have to enter a name");
+		} else if (previousSearch.length() < 3) {
+			client.showToast("Name should contain at least 3 characters");
+		} else if (searchHit > 0){
+			currentHit = (currentHit + indexChange + searchHit) % searchHit;
 			processAndShowSearchResult();
+		} else if (searchHit == 0) {
+			client.showToast("Sorry, no result has been found.");
 		}
 	}
 	
@@ -71,7 +72,7 @@ public class BinarySearch {
 			process(searchResults.get(currentHit));
 			client.showToast(searchResult(currentHit, searchHit));
 		} else {
-			client.showToast("No Result");
+			client.showToast("Sorry, no result has been found");
 		}
 	}
 	

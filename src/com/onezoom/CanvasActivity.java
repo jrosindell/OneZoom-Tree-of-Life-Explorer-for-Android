@@ -11,6 +11,8 @@ import android.content.Context;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
+import android.util.Log;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -86,6 +88,8 @@ public class CanvasActivity extends Activity{
 	
 	@Override
 	protected void onDestroy() {
+		if (previousToast != null)
+			previousToast.cancel();
 		super.onDestroy();
 		memoryThread.requestStop();
 		growthThread.requestStop();
@@ -139,10 +143,7 @@ public class CanvasActivity extends Activity{
 	public boolean onOptionsItemSelected(MenuItem item) {
 		switch (item.getItemId()) {
 		case android.R.id.home:
-			growing = false;
-			searching = false;
-			growthThread.Close();
-			invalidateOptionsMenu();
+			returnToMainMenu();
 			break;
 		
 		case R.id.grow:
@@ -195,6 +196,13 @@ public class CanvasActivity extends Activity{
 		return super.onOptionsItemSelected(item);
 	}
 
+	public void returnToMainMenu() {
+		growing = false;
+		searching = false;
+		growthThread.Close();
+		invalidateOptionsMenu();
+	}
+
 	public void resetTree() {
 		treeView.setDuringInteraction(false);
 		resetTreeRootPosition();
@@ -207,7 +215,7 @@ public class CanvasActivity extends Activity{
 
 		// Associate searchable configuration with the SearchView
 		SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
-		final SearchView searchView = (SearchView) menu.findItem(R.id.search)
+		final CustomizeSearchView searchView = (CustomizeSearchView) menu.findItem(R.id.search)
 				.getActionView();
 		searchView.setSearchableInfo(searchManager
 				.getSearchableInfo(getComponentName()));
@@ -217,24 +225,8 @@ public class CanvasActivity extends Activity{
 		searchMenuItem.expandActionView();
 		
 		searchView.setQueryHint("Enter Species Name");
-		
-		
-		searchView.setOnQueryTextListener(new OnQueryTextListener() {		
-			@Override
-			public boolean onQueryTextSubmit(String userInput) {
-				searchView.setQueryHint("Enter Species Name");
-				searchView.setQuery(userInput, false);
-				searchView.clearFocus();
-				search(userInput);
-				getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-				return false;
-			}
-			
-			@Override
-			public boolean onQueryTextChange(String arg0) {
-				return false;
-			}
-		});
+		searchView.addClient(this);
+		searchView.setOnQueryTextListener(searchView.queryTextListener);		
 	}
 	
 	private void inflateGrowMenu(Menu menu) {
