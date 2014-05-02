@@ -38,6 +38,7 @@ public class CanvasActivity extends Activity{
 	private int screenHeight;
 	private int screenWidth;
 	private static float scaleFactor;
+	private String userInput = "";
 	Toast previousToast;
 
 	
@@ -310,7 +311,7 @@ public class CanvasActivity extends Activity{
 		searchView.addClient(this);
 		searchView.setOnQueryTextListener(searchView.queryWebListener);
 		searchView.clearFocus();			
-
+		searchView.setQuery(userInput, false);
 		int id = searchView.getContext().getResources().getIdentifier("android:id/search_src_text", null, null);
 		TextView textView = (TextView) searchView.findViewById(id);
 		textView.setTextColor(Color.BLACK);
@@ -350,6 +351,14 @@ public class CanvasActivity extends Activity{
 
 	public boolean isSubmitSearching() {
 		return submitSearching;
+	}
+
+	public String getUserInput() {
+		return userInput;
+	}
+
+	public void setUserInput(String userInput) {
+		this.userInput = userInput;
 	}
 
 	private void resetTreeRootPosition() {

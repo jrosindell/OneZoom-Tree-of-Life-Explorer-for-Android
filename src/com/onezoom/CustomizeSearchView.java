@@ -18,6 +18,7 @@ public class CustomizeSearchView extends SearchView{
 			self.setQueryHint("Enter Species Name");
 			self.setQuery(userInput, false);
 			self.clearFocus();
+			client.setUserInput(userInput);
 			client.search(userInput);
 			client.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 			return false;
