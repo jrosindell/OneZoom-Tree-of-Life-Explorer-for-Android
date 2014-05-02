@@ -52,4 +52,9 @@ public class LinkHandler {
 	public static String wikiLink() {
 		return wikiLink;
 	}
+
+	public static void setWikiLink(MidNode node) {
+		wikiLink = node.traitsCalculator.name2.toLowerCase() + "_" 
+				+ node.traitsCalculator.name1.toLowerCase();
+	}
 }

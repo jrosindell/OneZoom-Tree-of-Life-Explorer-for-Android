@@ -13,8 +13,6 @@ import android.widget.Toast;
 public class CustomizeWebView extends WebView{
 	CanvasActivity client; 
 	private GestureDetector gestureDetector;
-	Stack<String> backPages;
-	Stack<String> forwardPages;
 
 	public CustomizeWebView(Context context) {
 		super(context);
@@ -32,8 +30,6 @@ public class CustomizeWebView extends WebView{
 	}
 	
 	private void init(Context context) {
-		backPages = new Stack<String>();
-		forwardPages = new Stack<String>();
 		client = (CanvasActivity) context;
 		gestureDetector = new GestureDetector(context, new WebViewGestureListener(this));
 		this.setWebViewClient(new WebViewClient() {
@@ -59,21 +55,17 @@ public class CustomizeWebView extends WebView{
 	}
 
 	public void backNavigate() {
-		if (backPages.size() == 0) {
+		if (client.isSearching() && client.isSubmitSearching()) {
+			client.backSearchAndLoad();
+		} else {
 			client.hideWebView();
 			client.displayTreeView();
-		} else {
-			String url = backPages.pop();
-			forwardPages.push(url);
-			this.loadUrl(url);
 		}
 	}
 	
 	public void forwardNavigate() {
-		if (forwardPages.size() > 0) {
-			String url = forwardPages.pop();
-			backPages.push(url);
-			this.loadUrl(url);
+		if (client.isSearching()) {
+			client.forwardSearchAndLoad();
 		}
 	}
 

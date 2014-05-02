@@ -13,16 +13,10 @@ import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
-import android.util.Log;
-import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
-import android.webkit.WebView;
-import android.widget.SearchView;
-import android.widget.SearchView.OnQueryTextListener;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -37,6 +31,7 @@ public class CanvasActivity extends Activity{
 	private boolean threadStarted = false;
 	private boolean growing = false;
 	private boolean searching = false;
+	private boolean submitSearching = false;
 	private boolean viewingWeb = false;
 	private boolean jumpingFromWebView = false;
 	private int orientation;
@@ -142,6 +137,7 @@ public class CanvasActivity extends Activity{
 	}
 	
 	public void search(String userInput) {
+		this.submitSearching = true;
 		memoryThread.search(userInput);
 	}
 	
@@ -151,6 +147,20 @@ public class CanvasActivity extends Activity{
 	
 	public void forwardSearch() {
 		memoryThread.forwardSearch();
+	}
+	
+	public void searchAndLoad(String userInput) {
+		this.submitSearching = true;
+		memoryThread.searchAndLoad(userInput);
+	}
+
+	public void backSearchAndLoad() {
+		memoryThread.backSearchAndLoad();
+		
+	}
+
+	public void forwardSearchAndLoad() {
+		memoryThread.forwardSearchAndLoad();		
 	}
 	
 	@Override
@@ -284,6 +294,26 @@ public class CanvasActivity extends Activity{
 	private void inflateWebMenu(Menu menu) {
 		this.jumpingFromWebView = true;
 		getMenuInflater().inflate(R.menu.webmenu, menu);
+		
+		// Associate searchable configuration with the SearchView
+		SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
+		final CustomizeSearchView searchView = (CustomizeSearchView) menu.findItem(R.id.search)
+				.getActionView();
+		searchView.setSearchableInfo(searchManager
+				.getSearchableInfo(getComponentName()));
+		searchView.setIconifiedByDefault(true);
+		
+		MenuItem searchMenuItem = (MenuItem) menu.findItem(R.id.search);
+		searchMenuItem.expandActionView();
+		
+		searchView.setQueryHint("Enter Species Name");
+		searchView.addClient(this);
+		searchView.setOnQueryTextListener(searchView.queryWebListener);
+		searchView.clearFocus();			
+
+		int id = searchView.getContext().getResources().getIdentifier("android:id/search_src_text", null, null);
+		TextView textView = (TextView) searchView.findViewById(id);
+		textView.setTextColor(Color.BLACK);
 	}
 	
 	public int getOrientation() {
@@ -314,6 +344,14 @@ public class CanvasActivity extends Activity{
 		return screenWidth;
 	}
 
+	public boolean isSearching() {
+		return searching;
+	}
+
+	public boolean isSubmitSearching() {
+		return submitSearching;
+	}
+
 	private void resetTreeRootPosition() {
 		//user scale factor to adjust the size of the tree according to the size of device width
 		//set the root to (265,800) or (500,545) to ensure that all nodes are drawn on the screen
@@ -342,9 +380,6 @@ public class CanvasActivity extends Activity{
 	public void hideWebView() {
 		webView.setVisibility(View.GONE);
 		this.viewingWeb = false;
-		if (webView.backPages.empty() || !webView.backPages.peek().equals(webView.getUrl())) {
-			webView.backPages.push(webView.getUrl());
-		}
 		this.invalidateOptionsMenu();
 	}
 	

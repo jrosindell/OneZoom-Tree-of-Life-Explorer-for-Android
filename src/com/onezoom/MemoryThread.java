@@ -17,6 +17,9 @@ public class MemoryThread extends Thread {
 	public static final int MSG_SEARCH = 4;
 	public static final int MSG_BACK_SEARCH = 5;
 	public static final int MSG_FORWARD_SEARCH = 6;
+	public static final int MSG_SEARCH_LOAD = 7;
+	public static final int MSG_BACK_SEARCH_LOAD = 8;
+	public static final int MSG_FORWARD_SEARCH_LOAD = 9;
 	
 	private MemoryHandler handler;
 	private CanvasActivity clientActivity;
@@ -68,6 +71,21 @@ public class MemoryThread extends Thread {
 
 	public void forwardSearch() {
 		handler.sendEmptyMessage(MSG_FORWARD_SEARCH);
+	}
+
+	public void searchAndLoad(String userInput) {
+		Message msg = new Message();
+		msg.what = MSG_SEARCH_LOAD;
+		msg.obj = userInput;
+		handler.sendMessage(msg);
+	}
+
+	public void backSearchAndLoad() {
+		handler.sendEmptyMessage(MSG_BACK_SEARCH_LOAD);		
+	}
+
+	public void forwardSearchAndLoad() {
+		handler.sendEmptyMessage(MSG_FORWARD_SEARCH_LOAD);		
 	}
 }
 
@@ -128,6 +146,21 @@ class MemoryHandler extends Handler {
 		case MemoryThread.MSG_FORWARD_SEARCH:
 			searchEngine.performForwardSearch();
 			client.treeView.postInvalidate();
+			break;
+		case MemoryThread.MSG_SEARCH_LOAD:
+			searchEngine.performSearch((String)msg.obj);
+			client.loadWikiURL();
+			client.webView.postInvalidate();
+			break;
+		case MemoryThread.MSG_BACK_SEARCH_LOAD:
+			searchEngine.performBackSearch();
+			client.loadWikiURL();
+			client.webView.postInvalidate();
+			break;
+		case MemoryThread.MSG_FORWARD_SEARCH_LOAD:
+			searchEngine.performForwardSearch();
+			client.loadWikiURL();
+			client.webView.postInvalidate();
 			break;
 		}
 	}

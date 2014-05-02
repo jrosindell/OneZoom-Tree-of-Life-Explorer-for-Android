@@ -7,13 +7,10 @@ import java.util.ArrayList;
 import java.util.Locale;
 
 import org.apache.commons.lang3.StringUtils;
-
-import android.content.Context;
-import android.util.Log;
-import android.widget.Toast;
 import au.com.bytecode.opencsv.CSVReader;
 
 import com.onezoom.CanvasActivity;
+import com.onezoom.midnode.LinkHandler;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
@@ -96,6 +93,8 @@ public class BinarySearch {
 			MidNode.initializer.initialiseSearchedFile(record.fileIndex);
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		}
+		
+		LinkHandler.setWikiLink(searchedNode);
 		reanchorNode(searchedNode, 0);
 		client.moveRootToCenter();
 		PositionData.moveNodeToCenter(searchedNode);

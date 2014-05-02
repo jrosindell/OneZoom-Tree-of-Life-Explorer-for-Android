@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
-      
+    
+    <item
+        android:id = "@+id/search"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/searchcolor"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:actionViewClass="com.onezoom.CustomizeSearchView" />
+    
     <item
         android:id = "@+id/reload_page"
         android:title = "@string/reload_page"
@@ -9,12 +16,12 @@
      <item
         android:id = "@+id/back_navigation"
         android:title = "@string/back_navigation"
-        android:icon = "@drawable/backnavigation"
+        android:icon = "@drawable/backward"
         android:showAsAction="always"/> 
         
      <item
         android:id = "@+id/forward_navigation"
         android:title = "@string/back_navigation"
-        android:icon = "@drawable/forwardnavigation"
+        android:icon = "@drawable/forward"
         android:showAsAction="always"/> 
 </menu>

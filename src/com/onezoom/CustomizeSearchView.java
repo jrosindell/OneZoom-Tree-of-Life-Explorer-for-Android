@@ -29,6 +29,23 @@ public class CustomizeSearchView extends SearchView{
 		}
 	};
 	
+	final SearchView.OnQueryTextListener queryWebListener = new SearchView.OnQueryTextListener() {	
+		@Override
+		public boolean onQueryTextSubmit(String userInput) {
+			self.setQueryHint("Enter Species Name");
+			self.setQuery(userInput, false);
+			self.clearFocus();
+			client.searchAndLoad(userInput);
+			client.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+			return false;
+		}
+		
+		@Override
+		public boolean onQueryTextChange(String arg0) {
+			return false;
+		}
+	};
+	
 	public CustomizeSearchView(Context context) {
 		super(context);
 		self = this;
