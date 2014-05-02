@@ -7,6 +7,7 @@ import android.graphics.Paint.Align;
 import android.graphics.Paint.Style;
 import android.graphics.Path;
 import android.graphics.RectF;
+import android.util.Log;
 
 import com.onezoom.midnode.InteriorNode;
 import com.onezoom.midnode.LeafNode;
@@ -197,17 +198,11 @@ public class BinaryVisualizer{
 	}
 
 	private void drawTextDetail(LeafNode midNode) {
-		float x = midNode.positionData.xvar;
-		float y = midNode.positionData.yvar;
-		float r = midNode.positionData.rvar;
-		float temp_theight = ((r * leafmult * partc - r * leafmult * partl2)
-				* Tsize / 3.0f);
-
 		float startX, startY, lineWidth, lineHeight;
-		startX = x + r * midNode.positionData.arcx;
-		startY = y + r * midNode.positionData.arcy - temp_theight * 1.75f;
-		lineHeight = 1.3f * r * midNode.positionData.arcr;
-		lineWidth = 1.5f * r * midNode.positionData.arcr;
+		startX = midNode.positionData.getWikiCenterX();
+		startY = midNode.positionData.getWikiCenterY();
+		lineHeight = 1.3f * midNode.positionData.rvar * midNode.positionData.arcr;
+		lineWidth = 1.5f * midNode.positionData.rvar * midNode.positionData.arcr;
 
 		String name;
 		if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
@@ -221,13 +216,14 @@ public class BinaryVisualizer{
 		String conservationString = Utility.conservationStatus(midNode);
 	
 		if( !midNode.traitsCalculator.getCname().equals("null")){
-			drawWikiLink(startX, startY, lineWidth / 10);
-			drawTextOneLine(name, startX, startY, lineHeight / 2, textPaint);
-			startY += lineHeight / 4;
-			drawTextMultipleLines(midNode.traitsCalculator.getCname().split(" "),
-					startX, startY, lineWidth, lineHeight / 2, textPaint);
-			startY += lineHeight / 3;
-			drawTextOneLine(conservationString,startX, startY, lineHeight / 2, textPaint);
+			drawWikiLink(startX, startY, midNode.positionData.getWikiRadius());
+			startY += lineWidth / 6f;
+			drawTextOneLine(name, startX, startY, lineWidth / 1.5f, textPaint);
+			startY += lineHeight / 5f;
+			drawTextOnTwoLines(midNode.traitsCalculator.getCname(),
+					startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
+			startY += lineHeight / 3f;
+			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
 		}
 		else {
 			String[]  detailInfo = {name, conservationString};
@@ -286,6 +282,64 @@ public class BinaryVisualizer{
 		paint.setTextSize(1.7f * lineWidth / outputInfo.length());
 		canvas.drawText(outputInfo, startX, startY, paint);
 	}
+	
+	private void drawTextOnTwoLines(String text, float startX, float startY, float lineHeight,
+			float lineWidth, Paint textPaint) {
+		String[] pieces = text.split(" ");
+		
+		if (pieces.length > 4) {
+			int cut = (pieces.length + 1) / 2;
+			for (int i = 1; i < cut; i++) {
+				pieces[0] += " " + pieces[i];
+			}
+			pieces[1] = pieces[cut];
+			for (int i = cut + 1; i < pieces.length; i++) {
+				pieces[1] += " " + pieces[i]; 
+			}
+			drawTextOnTwoLines(pieces, startX, startY, lineHeight, lineWidth, textPaint);
+		} else if (pieces.length == 4) {
+		
+			if (pieces[0].length() > pieces[1].length() + pieces[2].length() + pieces[3].length()) {
+				pieces[1] += " " + pieces[2] + " " + pieces[3];
+			} else if (pieces[3].length() > pieces[0].length() + pieces[1].length() + pieces[2].length()) {
+				pieces[0] += " " + pieces[1] + " " + pieces[2];
+				pieces[1] = pieces[3];
+			} else {
+				pieces[0] += " " + pieces[1];
+				pieces[1] = pieces[2] + " " + pieces[3];
+			}
+			drawTextOnTwoLines(pieces, startX, startY, lineHeight, lineWidth, textPaint);
+			
+		} else if (pieces.length == 3) {
+
+			if (pieces[0].length() > pieces[2].length()) {
+				pieces[1] += " " + pieces[2];
+			} else if (pieces[2].length() > pieces[0].length()) {
+				pieces[0] += " " + pieces[1];
+				pieces[1] = pieces[2];
+			}
+			drawTextOnTwoLines(pieces, startX, startY, lineHeight, lineWidth, textPaint);
+
+		} else if (pieces.length == 2) {
+			drawTextOnTwoLines(pieces, startX, startY, lineHeight, lineWidth, textPaint);
+		} else if (pieces.length == 1) {
+			drawTextOneLine(pieces[0], startX, startY + lineHeight / 2f, lineWidth, textPaint, 7);
+		}
+	}
+	
+	private void drawTextOnTwoLines(String[] text, float startX, float startY, float lineHeight,
+			float lineWidth, Paint textPaint) {
+		drawTextOneLine(text[0], startX, startY, lineWidth, textPaint, 7);
+		drawTextOneLine(text[1], startX, startY + lineHeight, lineWidth, textPaint, 7);
+	}
+
+	private void drawTextOneLine(String text, float startX, float startY,
+			float lineWidth, Paint textPaint, int minTextLength) {
+		textPaint.setTextAlign(Align.CENTER);
+		textPaint.setTextSize(1.7f * lineWidth / Math.max(text.length(), minTextLength));
+		canvas.drawText(text, startX, startY, textPaint);		
+	}
+
 
 	private void drawTextMultipleLines(String[] split, float startX,
 			float startY, float lineHeight, float lineWidth, Paint textPaint) {

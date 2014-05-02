@@ -23,6 +23,7 @@ import android.view.inputmethod.InputMethodManager;
 import android.webkit.WebView;
 import android.widget.SearchView;
 import android.widget.SearchView.OnQueryTextListener;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class CanvasActivity extends Activity{
@@ -37,6 +38,7 @@ public class CanvasActivity extends Activity{
 	private boolean growing = false;
 	private boolean searching = false;
 	private boolean viewingWeb = false;
+	private boolean jumpingFromWebView = false;
 	private int orientation;
 	private int screenHeight;
 	private int screenWidth;
@@ -155,7 +157,13 @@ public class CanvasActivity extends Activity{
 	public boolean onOptionsItemSelected(MenuItem item) {
 		switch (item.getItemId()) {
 		case android.R.id.home:
-			returnToMainMenu();
+			if (this.viewingWeb) {
+				this.hideWebView();
+				this.displayTreeView();
+			} else {
+				this.returnToMainMenu();
+			}
+			
 			break;
 		
 		case R.id.grow:
@@ -184,7 +192,7 @@ public class CanvasActivity extends Activity{
 			growthThread.Close();
 			invalidateOptionsMenu();
 			break;
-			
+
 		case R.id.reset:
 			resetTree();
 			break;
@@ -203,8 +211,15 @@ public class CanvasActivity extends Activity{
 			break;
 			
 		case R.id.back_navigation:
-			this.hideWebView();
-			this.displayTreeView();
+			webView.backNavigate();
+			break;
+			
+		case R.id.forward_navigation:
+			webView.forwardNavigate();
+			break;
+			
+		case R.id.reload_page:
+			this.reloadPage();
 			break;
 			
 		default:
@@ -247,7 +262,15 @@ public class CanvasActivity extends Activity{
 		searchView.setQueryHint("Enter Species Name");
 		searchView.addClient(this);
 		searchView.setOnQueryTextListener(searchView.queryTextListener);
-		searchView.clearFocus();
+		
+		int id = searchView.getContext().getResources().getIdentifier("android:id/search_src_text", null, null);
+		TextView textView = (TextView) searchView.findViewById(id);
+		textView.setTextColor(Color.BLACK);
+		
+		if (this.jumpingFromWebView) {
+			searchView.clearFocus();			
+			this.jumpingFromWebView = false;
+		} 
 	}
 	
 	private void inflateGrowMenu(Menu menu) {
@@ -259,6 +282,7 @@ public class CanvasActivity extends Activity{
 	}
 	
 	private void inflateWebMenu(Menu menu) {
+		this.jumpingFromWebView = true;
 		getMenuInflater().inflate(R.menu.webmenu, menu);
 	}
 	
@@ -318,6 +342,9 @@ public class CanvasActivity extends Activity{
 	public void hideWebView() {
 		webView.setVisibility(View.GONE);
 		this.viewingWeb = false;
+		if (webView.backPages.empty() || !webView.backPages.peek().equals(webView.getUrl())) {
+			webView.backPages.push(webView.getUrl());
+		}
 		this.invalidateOptionsMenu();
 	}
 	
@@ -342,6 +369,10 @@ public class CanvasActivity extends Activity{
 	public void loadWikiURL() {
 		String wikiLink = "http://en.wikipedia.org/wiki/" + fulltree.wikilink();
 		webView.loadUrl(wikiLink);
+	}
+	
+	private void reloadPage() {
+		loadWikiURL();
 	}
 
 	public void hideKeyBoard(View view) {

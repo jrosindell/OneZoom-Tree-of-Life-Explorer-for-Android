@@ -19,13 +19,12 @@ public class WebViewGestureListener extends GestureDetector.SimpleOnGestureListe
         else {
             try { // right to left swipe .. go to next page
                 if(e1.getX() - e2.getX() > 100 && Math.abs(velocityX) > 800) {
-                	//do nothing here
+                	webView.forwardNavigate();
                 	return true;
                 } //left to right swipe .. go to prev page
                 else if (e2.getX() - e1.getX() > 100 && Math.abs(velocityX) > 800) {
                     //return to tree view
-                	webView.client.hideWebView();
-                	webView.client.displayTreeView();
+                	webView.backNavigate();
                     return true;
                 } //bottom to top, go to next document
                 else if(e1.getY() - e2.getY() > 100 && Math.abs(velocityY) > 800 

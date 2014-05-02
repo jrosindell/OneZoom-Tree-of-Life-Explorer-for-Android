@@ -103,11 +103,11 @@ public class PositionData implements Comparable<PositionData>{
 		float temp_theight = (rvar * BinaryVisualizer.leafmult * BinaryVisualizer.partc
 				- rvar * BinaryVisualizer.leafmult * BinaryVisualizer.partl2)
 				* BinaryVisualizer.Tsize / 3.0f;
-		return yvar + rvar * arcy - temp_theight * 1.75f;
+		return yvar + rvar * arcy - temp_theight * 2.25f;
 	}
 	
 	public float getWikiRadius() {
-		return 0.3f * rvar * arcr;
+		return 0.12f * rvar * arcr;
 	}
 	
 }

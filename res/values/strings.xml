@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="search_hint">Hello world!</string>
     <string name="back_navigation">back navigation</string>
+    <string name="reload_page">reload</string>
     
 </resources>
