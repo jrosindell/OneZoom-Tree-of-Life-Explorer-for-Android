@@ -18,7 +18,7 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
 public class TreeView extends View {
-	private CanvasActivity client;
+	public CanvasActivity client;
 	private GestureDetector gestureDetector;
 	private ScaleGestureDetector scaleDetector;
 	private boolean treeBeingInitialized = false;
@@ -50,13 +50,12 @@ public class TreeView extends View {
 	
 	private void init(Context context) {
 		client = (CanvasActivity) context;
-		gestureDetector = new GestureDetector(context, new GestureListener(this));
+		gestureDetector = new GestureDetector(context, new TreeViewGestureListener(this));
 		scaleDetector = new ScaleGestureDetector(context, new ScaleListener(this));
 		//this will not be used. set to 1,1 to speed up the app
 		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); 
 		paint = new Paint();
 	}
-	
 
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
@@ -116,6 +115,7 @@ public class TreeView extends View {
 			this.distanceY = 0;
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
+			canvas.drawColor(Color.WHITE);
 			client.getTreeRoot().drawElement(canvas);
 			if (this.isDuringGrowthAnimation()) {
 				drawGrowthPeriodInfo(canvas, paint);
@@ -247,9 +247,7 @@ public class TreeView extends View {
 	}
 	
 	public void hideKeyboard() {
-		InputMethodManager imm = (InputMethodManager)client.getSystemService(
-			      Context.INPUT_METHOD_SERVICE);
-		imm.hideSoftInputFromWindow(this.getWindowToken(), 0);
+		client.hideKeyBoard(this);
 	}
 
 	private void drawLoading(Canvas canvas) {

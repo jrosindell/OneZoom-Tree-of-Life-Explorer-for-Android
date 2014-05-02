@@ -20,10 +20,10 @@ public class BinaryVisualizer{
 	Paint signPostPaint;
 	Path path;
 	Canvas canvas;
-	private static final float partl2 = 0.1f;
-	private static final float Tsize = 1.1f;
-	private static final float leafmult = 3.2f;
-	private static final float partc = 0.4f;
+	public static final float partl2 = 0.1f;
+	public static final float Tsize = 1.1f;
+	public static final float leafmult = 3.2f;
+	public static final float partc = 0.4f;
 	private static final float thresholdDrawTextRoughCircle = 80f;
 	private static final float thresholdDrawTextDetailCircle = 300f;
 	private static final float thresholdDrawTextRoughLeaf = 35f;
@@ -205,7 +205,6 @@ public class BinaryVisualizer{
 
 		float startX, startY, lineWidth, lineHeight;
 		startX = x + r * midNode.positionData.arcx;
-		// startY = y + r * arcCenterY;
 		startY = y + r * midNode.positionData.arcy - temp_theight * 1.75f;
 		lineHeight = 1.3f * r * midNode.positionData.arcr;
 		lineWidth = 1.5f * r * midNode.positionData.arcr;
@@ -220,21 +219,34 @@ public class BinaryVisualizer{
 		else
 			name = "no name";
 		String conservationString = Utility.conservationStatus(midNode);
-		String populationString = Utility.populationStability(midNode);
 	
 		if( !midNode.traitsCalculator.getCname().equals("null")){
-			String[] detailInfo = { name, midNode.traitsCalculator.getCname(), conservationString,
-					populationString };
-			drawTextMultipleLines(detailInfo, startX, startY, lineHeight,
-					lineWidth, textPaint);
+			drawWikiLink(startX, startY, lineWidth / 10);
+			drawTextOneLine(name, startX, startY, lineHeight / 2, textPaint);
+			startY += lineHeight / 4;
+			drawTextMultipleLines(midNode.traitsCalculator.getCname().split(" "),
+					startX, startY, lineWidth, lineHeight / 2, textPaint);
+			startY += lineHeight / 3;
+			drawTextOneLine(conservationString,startX, startY, lineHeight / 2, textPaint);
 		}
 		else {
-			String[]  detailInfo = {name, conservationString, populationString};
+			String[]  detailInfo = {name, conservationString};
 			drawTextMultipleLines(detailInfo, startX, startY, lineHeight,
 					lineWidth, textPaint);
 		}
 		
 	}
+
+	private void drawWikiLink(float x, float y, float radius) {
+		Paint wikiPaint = new Paint();
+		wikiPaint.setColor(Color.WHITE);
+		wikiPaint.setStyle(Paint.Style.STROKE);
+		wikiPaint.setStrokeWidth(radius / 10);
+		canvas.drawCircle(x, y, radius, wikiPaint);
+		textPaint.setTextSize(radius / 1.5f);
+		canvas.drawText("Wiki", x, y + radius * 0.15f, textPaint);
+	}
+
 
 	private void drawTextRough(LeafNode midNode) {
 		float x = midNode.positionData.xvar;

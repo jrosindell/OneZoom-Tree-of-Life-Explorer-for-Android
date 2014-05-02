@@ -1,6 +1,8 @@
 package com.onezoom.midnode;
 
 import android.graphics.Canvas;
+import android.util.Log;
+
 import com.onezoom.CanvasActivity;
 import com.onezoom.midnode.displayBinary.BinaryInitializer;
 import com.onezoom.midnode.displayBinary.BinaryPositionCalculator;
@@ -15,9 +17,7 @@ public abstract class MidNode implements Comparable<MidNode>{
 	public static BinaryPositionCalculator positionCalculator = new BinaryPositionCalculator();
 	
 	public PositionData positionData = new PositionData();
-	public BinaryTraitsCalculator traitsCalculator = new BinaryTraitsCalculator();
-	
-
+	public BinaryTraitsCalculator traitsCalculator = new BinaryTraitsCalculator();	
 	public MidNode child1;
 	public MidNode child2;
 	//childIndex tells which children this node belongs to
@@ -80,5 +80,16 @@ public abstract class MidNode implements Comparable<MidNode>{
 	@Override
 	public int compareTo(MidNode another) {
 		return this.positionData.compareTo(another.positionData);
+	}
+
+
+	public boolean testLink(float mouseX, float mouseY) {
+		return LinkHandler.testLink(this, mouseX, mouseY);
+	}
+
+	
+
+	public String wikilink() {
+		return LinkHandler.wikiLink();
 	}
 }

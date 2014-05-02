@@ -1,6 +1,7 @@
 package com.onezoom.midnode;
 
 import com.onezoom.CanvasActivity;
+import com.onezoom.midnode.displayBinary.BinaryVisualizer;
 
 
 public class PositionData implements Comparable<PositionData>{
@@ -93,4 +94,20 @@ public class PositionData implements Comparable<PositionData>{
 				-220 * searchedNode.positionData.arcy * CanvasActivity.getScaleFactor(),
 				1f);	
 	}
+	
+	public float getWikiCenterX() {
+		return xvar + rvar * arcx;
+	}
+	
+	public float getWikiCenterY() {
+		float temp_theight = (rvar * BinaryVisualizer.leafmult * BinaryVisualizer.partc
+				- rvar * BinaryVisualizer.leafmult * BinaryVisualizer.partl2)
+				* BinaryVisualizer.Tsize / 3.0f;
+		return yvar + rvar * arcy - temp_theight * 1.75f;
+	}
+	
+	public float getWikiRadius() {
+		return 0.3f * rvar * arcr;
+	}
+	
 }

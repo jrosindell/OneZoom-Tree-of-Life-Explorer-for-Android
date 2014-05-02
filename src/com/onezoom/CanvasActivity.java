@@ -9,6 +9,8 @@ import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Context;
 import android.content.res.Configuration;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.util.Log;
@@ -17,12 +19,15 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
+import android.view.inputmethod.InputMethodManager;
+import android.webkit.WebView;
 import android.widget.SearchView;
 import android.widget.SearchView.OnQueryTextListener;
 import android.widget.Toast;
 
 public class CanvasActivity extends Activity{
 	public TreeView treeView;
+	public CustomizeWebView webView;
 	public static String selectedItem;
 	private MidNode fulltree;
 	private boolean started = false;
@@ -31,6 +36,7 @@ public class CanvasActivity extends Activity{
 	private boolean threadStarted = false;
 	private boolean growing = false;
 	private boolean searching = false;
+	private boolean viewingWeb = false;
 	private int orientation;
 	private int screenHeight;
 	private int screenWidth;
@@ -43,14 +49,18 @@ public class CanvasActivity extends Activity{
 		super.onCreate(savedInstanceState);
 		
 		//init view
-		setContentView(R.layout.canvas_activity);
-		treeView = (TreeView) findViewById(R.id.tree_view);	
-
-		memoryThread = new MemoryThread(this);
-		growthThread = new GrowthThread(this);
-		
 		selectedItem = getIntent().getExtras().getString(
 				"com.onezoom.selectedTree");
+		
+		
+		setContentView(R.layout.canvas_activity);
+		treeView = (TreeView) findViewById(R.id.tree_view);	
+		webView = (CustomizeWebView) findViewById(R.id.webview);
+		hideWebView();
+		
+		
+		memoryThread = new MemoryThread(this);
+		growthThread = new GrowthThread(this);
 		
 		getDeviceScreenSize();
 	}
@@ -63,9 +73,11 @@ public class CanvasActivity extends Activity{
 	public boolean onCreateOptionsMenu(Menu menu) {
 	    getActionBar().setDisplayShowTitleEnabled(false);
 		getActionBar().setDisplayHomeAsUpEnabled(false);
-		if (growing) inflateGrowMenu(menu);
+		getActionBar().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
+		if (viewingWeb) inflateWebMenu(menu);
+		else if (growing) inflateGrowMenu(menu);
 		else if (searching) inflateSearchMenu(menu);
-		else inflateViewMenu(menu);    
+		else inflateViewMenu(menu);  
 		return true;
 	}
 	
@@ -190,6 +202,11 @@ public class CanvasActivity extends Activity{
 			forwardSearch();
 			break;
 			
+		case R.id.back_navigation:
+			this.hideWebView();
+			this.displayTreeView();
+			break;
+			
 		default:
 			break;
 		}
@@ -197,9 +214,12 @@ public class CanvasActivity extends Activity{
 	}
 
 	public void returnToMainMenu() {
-		growing = false;
-		searching = false;
 		growthThread.Close();
+		if (this.viewingWeb == false) {
+			growing = false;
+			searching = false;	
+		}
+		
 		invalidateOptionsMenu();
 	}
 
@@ -226,7 +246,8 @@ public class CanvasActivity extends Activity{
 		
 		searchView.setQueryHint("Enter Species Name");
 		searchView.addClient(this);
-		searchView.setOnQueryTextListener(searchView.queryTextListener);		
+		searchView.setOnQueryTextListener(searchView.queryTextListener);
+		searchView.clearFocus();
 	}
 	
 	private void inflateGrowMenu(Menu menu) {
@@ -235,6 +256,10 @@ public class CanvasActivity extends Activity{
 	
 	private void inflateViewMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.viewmenu, menu);
+	}
+	
+	private void inflateWebMenu(Menu menu) {
+		getMenuInflater().inflate(R.menu.webmenu, menu);
 	}
 	
 	public int getOrientation() {
@@ -288,5 +313,40 @@ public class CanvasActivity extends Activity{
 			previousToast.cancel();
 		previousToast = Toast.makeText(this, text, Toast.LENGTH_SHORT);
 		previousToast.show();
+	}
+
+	public void hideWebView() {
+		webView.setVisibility(View.GONE);
+		this.viewingWeb = false;
+		this.invalidateOptionsMenu();
+	}
+	
+	public void hideTreeView() {
+		treeView.setVisibility(View.GONE);
+		this.viewingWeb = true;
+		this.invalidateOptionsMenu();
+	}
+	
+	public void displayWebView() {
+		webView.setVisibility(View.VISIBLE);
+	}
+	
+	public void displayTreeView() {
+		treeView.setVisibility(View.VISIBLE);
+	}
+
+	public boolean hasHitWikiLink(float mouseX, float mouseY) {
+		return this.fulltree.testLink(mouseX, mouseY);
+	}
+
+	public void loadWikiURL() {
+		String wikiLink = "http://en.wikipedia.org/wiki/" + fulltree.wikilink();
+		webView.loadUrl(wikiLink);
+	}
+
+	public void hideKeyBoard(View view) {
+		InputMethodManager imm = (InputMethodManager)this.getSystemService(
+			      Context.INPUT_METHOD_SERVICE);
+		imm.hideSoftInputFromWindow(view.getWindowToken(), 0);		
 	}
 }
