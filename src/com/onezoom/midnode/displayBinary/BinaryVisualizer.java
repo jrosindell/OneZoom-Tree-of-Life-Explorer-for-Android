@@ -57,27 +57,20 @@ public class BinaryVisualizer{
 		if (midNode.child2 != null && midNode.positionData.dvar && midNode.traitsCalculator.getLengthbr() 
 				> BinaryTraitsCalculator.timelim) drawElement(midNode.child2);
 		
-		//TODO: why add this if block??
-		//maybe copied from the website code. But I don't understand the meaning 
-		//of drawing fakeleaf while the node is out of the screen.
-		if (!midNode.positionData.gvar) {
-			if (midNode.positionData.insideScreen)
-				drawFakeLeaf(midNode);
-			return;
-		}
-
-		if (midNode.getClass() == InteriorNode.class)
+		if (midNode.positionData.gvar == false) return;
+		if (midNode.positionData.insideScreen &&
+				midNode.traitsCalculator.getLengthbr() <= BinaryTraitsCalculator.timelim) {
+			this.drawBranch(midNode);
+			this.drawFakeLeaf(midNode);
+		} else if (midNode.getClass() == InteriorNode.class) {
 			drawElement((InteriorNode)midNode);
-		else
+		} else
 			drawElement((LeafNode)midNode);
 	}
 	
 	private void drawFakeLeaf(MidNode midNode) {
-		drawBranch(midNode);
 		if (midNode.getClass() == InteriorNode.class)
-			drawLeaf((InteriorNode)midNode);
-		else
-			drawLeaf((LeafNode)midNode);	
+			drawFakeLeaf((InteriorNode)midNode);	
 	}
 
 	private void drawElement(InteriorNode midNode) {
@@ -159,19 +152,36 @@ public class BinaryVisualizer{
 		float y = midNode.positionData.yvar;
 		float r = midNode.positionData.rvar;
 		float radius = r * midNode.positionData.arcr * (1 - partl2 / 2.0f);
-		float startX = x + midNode.positionData.arcr / 2f + r * midNode.positionData.arcx - radius;
-		float startY = y + midNode.positionData.arcr / 2f + r * midNode.positionData.arcy - radius;
-		float lineWidth = 2f * radius;
-		float lineHeight = 1.9f * radius;
+		float startX = x + midNode.positionData.arcr / 2f + r * midNode.positionData.arcx;
+		float startY = y + midNode.positionData.arcr / 2f + r * midNode.positionData.arcy - radius * 0.6f;
+		float lineHeight = radius;
 
-		String speciesInfo = (!midNode.traitsCalculator.getCname().equals("null")) ? midNode.traitsCalculator.getCname() : Integer
-				.toString(midNode.traitsCalculator.getRichness()) + " species";
-		String[] circleDetailText = { Utility.geologicAge(midNode),
-				String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
-				speciesInfo};
-
-		drawTextMultipleLines(circleDetailText, startX + radius, startY + 0.45f
-				* radius, lineHeight, lineWidth, textPaint);		
+	
+		if (!midNode.traitsCalculator.getCname().equals("null") &&
+				!midNode.traitsCalculator.getCname().equals("")) {
+			String name = midNode.traitsCalculator.getCname();
+			this.drawTextOneLine(Utility.geologicAge(midNode), 
+					startX, startY, lineHeight, textPaint);
+			startY += lineHeight / 4.5f;
+			this.drawTextOneLine(String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
+					startX, startY, lineHeight * 1.7f, textPaint);
+			startY += lineHeight / 2.5f;
+			this.drawTextOnTwoLines(name, 
+					startX, startY,lineHeight / 3f, lineHeight * 1.5f, textPaint);	
+			startY += lineHeight / 1.5f;
+			this.drawTextOneLine((midNode.traitsCalculator.richness_val + " species"),
+					startX, startY, lineHeight, textPaint);
+		} else {
+			String speciesInfo = Integer
+					.toString(midNode.traitsCalculator.getRichness()) + " species";
+			this.drawTextOneLine(Utility.geologicAge(midNode), 
+					startX, startY, lineHeight, textPaint);
+			startY += lineHeight / 3f;
+			this.drawTextOneLine(String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
+					startX, startY, lineHeight * 1.7f, textPaint);
+			startY += lineHeight / 1.7f;
+			this.drawTextOneLine(speciesInfo, startX, startY, lineHeight * 1.7f, textPaint);
+		}
 	}
 
 	private void drawTextRough(InteriorNode midNode) {
@@ -189,12 +199,13 @@ public class BinaryVisualizer{
 
 		if (!midNode.traitsCalculator.getCname().equals("null")) {
 			outputInfo = midNode.traitsCalculator.getCname();
+			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 0.9f * radius,
+					0.4f * radius, 1.65f * radius, textPaint);		
 		} else {
 			outputInfo = String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " Mya";
+			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 1.1f * radius,
+					0.4f * radius, 2.0f * radius, textPaint);		
 		}
-
-		drawTextOneLine(outputInfo, startX + radius, startY + 1.1f * radius,
-				1.7f * radius, textPaint);		
 	}
 
 	private void drawTextDetail(LeafNode midNode) {
@@ -204,18 +215,11 @@ public class BinaryVisualizer{
 		lineHeight = 1.3f * midNode.positionData.rvar * midNode.positionData.arcr;
 		lineWidth = 1.5f * midNode.positionData.rvar * midNode.positionData.arcr;
 
-		String name;
-		if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
-			name = midNode.traitsCalculator.getName2() + " " + midNode.traitsCalculator.getName1();
-		else if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
-			name = midNode.traitsCalculator.getName2();
-		else if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
-			name = midNode.traitsCalculator.getName1();
-		else
-			name = "no name";
+		String name = getLatinName(midNode);
 		String conservationString = Utility.conservationStatus(midNode);
-	
-		if( !midNode.traitsCalculator.getCname().equals("null")){
+
+		if( !midNode.traitsCalculator.getCname().equals("null") &&
+				!midNode.traitsCalculator.getCname().equals("")){
 			drawWikiLink(startX, startY, midNode.positionData.getWikiRadius());
 			startY += lineWidth / 6f;
 			drawTextOneLine(name, startX, startY, lineWidth / 1.5f, textPaint);
@@ -226,9 +230,14 @@ public class BinaryVisualizer{
 			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
 		}
 		else {
-			String[]  detailInfo = {name, conservationString};
-			drawTextMultipleLines(detailInfo, startX, startY, lineHeight,
-					lineWidth, textPaint);
+			drawWikiLink(startX, startY, midNode.positionData.getWikiRadius());
+			startY += lineHeight / 6f;
+			drawTextOneLine("no common name", startX, startY, lineWidth / 1.5f, textPaint);
+			startY += lineHeight / 5f;
+			drawTextOnTwoLines(name,
+					startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
+			startY += lineHeight / 3f;
+			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
 		}
 		
 	}
@@ -256,17 +265,15 @@ public class BinaryVisualizer{
 		startY = y + r * midNode.positionData.arcy - 0.5f * temp_theight;
 		lineHeight = r * midNode.positionData.arcr;
 		lineWidth = r * midNode.positionData.arcr;
+		String name = getLatinName(midNode);
 
-		if (!midNode.traitsCalculator.getCname().equals("null")) {
+		if (!midNode.traitsCalculator.getCname().equals("null")
+				&& !midNode.traitsCalculator.getCname().equals("")) {
 			drawTextMultipleLines(midNode.traitsCalculator.getCname().split(" "), startX, startY, lineHeight,
 					lineWidth, textPaint);
 			return;
-		} else if (!midNode.traitsCalculator.getName2().equals("null")) {
-			drawTextMultipleLines(midNode.traitsCalculator.getName2().split(" "), startX, startY, lineHeight,
-					lineWidth, textPaint);
-			return;
-		} else if (!midNode.traitsCalculator.getName1().equals("null")) {
-			drawTextMultipleLines(midNode.traitsCalculator.getName1().split(" "), startX, startY, lineHeight,
+		} else if (!name.equals("")) {
+			drawTextMultipleLines(name.split(" "), startX, startY, lineHeight,
 					lineWidth, textPaint);
 			return;
 		} else {
@@ -288,7 +295,7 @@ public class BinaryVisualizer{
 		String[] pieces = text.split(" ");
 		
 		if (pieces.length > 4) {
-			int cut = (pieces.length + 1) / 2;
+			int cut = (pieces.length) / 2;
 			for (int i = 1; i < cut; i++) {
 				pieces[0] += " " + pieces[i];
 			}
@@ -314,7 +321,7 @@ public class BinaryVisualizer{
 
 			if (pieces[0].length() > pieces[2].length()) {
 				pieces[1] += " " + pieces[2];
-			} else if (pieces[2].length() > pieces[0].length()) {
+			} else {
 				pieces[0] += " " + pieces[1];
 				pieces[1] = pieces[2];
 			}
@@ -415,11 +422,14 @@ public class BinaryVisualizer{
 				midNode.positionData.rvar * midNode.positionData.arcr, 
 				midNode.positionData.arcAngle, midNode);
 	}
+
 	
-	private void drawLeaf(InteriorNode midNode) {
-		tipleaflogic(midNode.positionData.xvar + midNode.positionData.rvar * midNode.positionData.arcx2,
-				midNode.positionData.yvar + midNode.positionData.rvar * midNode.positionData.arcy2, 
-				midNode.positionData.rvar * midNode.positionData.arcr2, 
+	private void drawFakeLeaf(InteriorNode midNode) {
+		tipleaflogic(midNode.positionData.xvar + 
+				+ midNode.positionData.rvar * midNode.positionData.nextx1,
+				midNode.positionData.yvar + 
+				midNode.positionData.rvar * midNode.positionData.nexty1, 
+				midNode.positionData.rvar * midNode.positionData.arcr2 * 0.55f, 
 				midNode.positionData.arcAngle, midNode);
 	}
 	
@@ -548,6 +558,18 @@ public class BinaryVisualizer{
 		return result;
 	}
 
+	private String getLatinName(MidNode midNode) {
+		String name;
+		if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
+			name = midNode.traitsCalculator.getName2() + " " + midNode.traitsCalculator.getName1();
+		else if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
+			name = midNode.traitsCalculator.getName2();
+		else if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
+			name = midNode.traitsCalculator.getName1();
+		else
+			name = "no name";
+		return name;
+	}
 
 	//**********DEBUG FUNCTION******************//
 	@SuppressWarnings("unused")

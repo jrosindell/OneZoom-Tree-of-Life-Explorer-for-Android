@@ -18,5 +18,11 @@
          android:title = "@string/search_hint"
          android:icon = "@drawable/forward"
          android:showAsAction="always" />
+     
+     <item 
+         android:id = "@+id/search_close"
+         android:title = "@string/search_hint"
+         android:icon = "@drawable/closecolor"
+         android:showAsAction = "always"/>
 
 </menu>

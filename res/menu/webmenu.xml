@@ -24,4 +24,10 @@
         android:title = "@string/back_navigation"
         android:icon = "@drawable/forward"
         android:showAsAction="always"/> 
+        
+     <item
+        android:id = "@+id/web_back_to_tree"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/onezoom"
+        android:showAsAction = "always"/>
 </menu>

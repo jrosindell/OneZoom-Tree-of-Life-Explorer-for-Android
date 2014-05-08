@@ -263,12 +263,23 @@ public class TreeView extends View {
 	
 	private void drawGrowthPeriodInfo(Canvas canvas, Paint paint) {
 		String text = Utility.growthInfo();
+		int x = getWidth()/2;
+		
+		int y = (int) (getHeight() -
+				80 * client.getScreenHeight() / client.getScreenWidth() * CanvasActivity.getScaleFactor());
+		
 		Paint textPaint = new Paint();
-		textPaint.setColor(Color.BLACK);
 		textPaint.setTextAlign(Align.CENTER);
 		textPaint.setTextSize(35 * CanvasActivity.getScaleFactor());
-		int x = getWidth()/2;
-		int y = (int) (getHeight() - 100 * CanvasActivity.getScaleFactor());
-		canvas.drawText(text, x, y, textPaint);		
+		textPaint.setColor(Color.argb(100, 0, 0, 0));
+		canvas.drawRect(
+				Math.max(10, getWidth()/2 - text.length() * textPaint.getTextSize() / 3.3f),   //left
+				y - textPaint.getTextSize() * 1.3f,      //top
+				Math.min(client.getScreenWidth() - 10, 
+						getWidth()/2 + text.length() * textPaint.getTextSize() / 3.3f),   //right
+				y + textPaint.getTextSize() * 0.7f, textPaint);  //bottom
+		
+		textPaint.setColor(Color.WHITE);
+		canvas.drawText(text, x, y, textPaint);	                     
 	}
 }

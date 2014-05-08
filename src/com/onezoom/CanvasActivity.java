@@ -13,6 +13,7 @@ import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -38,7 +39,6 @@ public class CanvasActivity extends Activity{
 	private int screenHeight;
 	private int screenWidth;
 	private static float scaleFactor;
-	private String userInput = "";
 	Toast previousToast;
 
 	
@@ -69,6 +69,7 @@ public class CanvasActivity extends Activity{
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
+		getActionBar().setDisplayShowHomeEnabled(false);
 	    getActionBar().setDisplayShowTitleEnabled(false);
 		getActionBar().setDisplayHomeAsUpEnabled(false);
 		getActionBar().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
@@ -166,7 +167,11 @@ public class CanvasActivity extends Activity{
 	
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
-		switch (item.getItemId()) {
+		switch (item.getItemId()) {	
+		case R.id.web_back_to_tree:
+			this.hideWebView();
+			this.displayTreeView();
+			break;
 		case android.R.id.home:
 			if (this.viewingWeb) {
 				this.hideWebView();
@@ -221,6 +226,10 @@ public class CanvasActivity extends Activity{
 			forwardSearch();
 			break;
 			
+		case R.id.search_close:
+			this.returnToMainMenu();
+			break;
+			
 		case R.id.back_navigation:
 			webView.backNavigate();
 			break;
@@ -256,6 +265,7 @@ public class CanvasActivity extends Activity{
 	}
 
 	private void inflateSearchMenu(Menu menu) {
+		getActionBar().setDisplayUseLogoEnabled(false);
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.searhmenu, menu);
 
@@ -270,14 +280,22 @@ public class CanvasActivity extends Activity{
 		MenuItem searchMenuItem = (MenuItem) menu.findItem(R.id.search);
 		searchMenuItem.expandActionView();
 		
+		getActionBar().setIcon(
+				   new ColorDrawable(getResources().getColor(android.R.color.transparent)));
+		
+		
 		searchView.setQueryHint("Enter Species Name");
 		searchView.addClient(this);
 		searchView.setOnQueryTextListener(searchView.queryTextListener);
+		searchView.setWebView(false);
 		
+		this.getActionBar().setDisplayShowHomeEnabled(false);
+		this.getActionBar().setDisplayShowTitleEnabled(false);
+
 		int id = searchView.getContext().getResources().getIdentifier("android:id/search_src_text", null, null);
 		TextView textView = (TextView) searchView.findViewById(id);
 		textView.setTextColor(Color.BLACK);
-		
+
 		if (this.jumpingFromWebView) {
 			searchView.clearFocus();			
 			this.jumpingFromWebView = false;
@@ -307,23 +325,19 @@ public class CanvasActivity extends Activity{
 		MenuItem searchMenuItem = (MenuItem) menu.findItem(R.id.search);
 		searchMenuItem.expandActionView();
 		
+		getActionBar().setIcon(
+				   new ColorDrawable(getResources().getColor(android.R.color.transparent)));
+		
 		searchView.setQueryHint("Enter Species Name");
 		searchView.addClient(this);
 		searchView.setOnQueryTextListener(searchView.queryWebListener);
+		searchView.setWebView(true);
 		searchView.clearFocus();			
-		searchView.setQuery(userInput, false);
 		int id = searchView.getContext().getResources().getIdentifier("android:id/search_src_text", null, null);
 		TextView textView = (TextView) searchView.findViewById(id);
 		textView.setTextColor(Color.BLACK);
 	}
-	
-	public int getOrientation() {
-		return orientation;
-	}
 
-	public void setOrientation(int orientation) {
-		this.orientation = orientation;
-	}
 	
 	private void getDeviceScreenSize() {
 		DisplayMetrics displaymetrics = new DisplayMetrics();
@@ -333,33 +347,7 @@ public class CanvasActivity extends Activity{
 		scaleFactor = Math.min(screenHeight, screenWidth) / 720f;
 	}
 	
-	public int getScreenHeight() {
-		return screenHeight;
-	}
-
-	public static float getScaleFactor() {
-		return scaleFactor;
-	}
-
-	public int getScreenWidth() {
-		return screenWidth;
-	}
-
-	public boolean isSearching() {
-		return searching;
-	}
-
-	public boolean isSubmitSearching() {
-		return submitSearching;
-	}
-
-	public String getUserInput() {
-		return userInput;
-	}
-
-	public void setUserInput(String userInput) {
-		this.userInput = userInput;
-	}
+	
 
 	private void resetTreeRootPosition() {
 		//user scale factor to adjust the size of the tree according to the size of device width
@@ -411,8 +399,16 @@ public class CanvasActivity extends Activity{
 	}
 
 	public void loadWikiURL() {
+		this.resetSearchKeyWord();
 		String wikiLink = "http://en.wikipedia.org/wiki/" + fulltree.wikilink();
 		webView.loadUrl(wikiLink);
+	}
+	
+	private void resetSearchKeyWord() {
+//		if (!fulltree.wikilink().contains(this.userInput)
+//				&& !fulltree.traitsCalculator.getCname().contains(this.userInput)) {
+//			this.userInput = "";
+//		}
 	}
 	
 	private void reloadPage() {
@@ -423,5 +419,37 @@ public class CanvasActivity extends Activity{
 		InputMethodManager imm = (InputMethodManager)this.getSystemService(
 			      Context.INPUT_METHOD_SERVICE);
 		imm.hideSoftInputFromWindow(view.getWindowToken(), 0);		
+	}
+	
+	public int getScreenHeight() {
+		return screenHeight;
+	}
+
+	public static float getScaleFactor() {
+		return scaleFactor;
+	}
+
+	public int getScreenWidth() {
+		return screenWidth;
+	}
+
+	public boolean isSearching() {
+		return searching;
+	}
+
+	public boolean isSubmitSearching() {
+		return submitSearching;
+	}
+
+	public boolean isViewingWeb() {
+		return viewingWeb;
+	}
+	
+	public int getOrientation() {
+		return orientation;
+	}
+
+	public void setOrientation(int orientation) {
+		this.orientation = orientation;
 	}
 }

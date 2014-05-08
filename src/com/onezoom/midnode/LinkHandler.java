@@ -2,6 +2,7 @@ package com.onezoom.midnode;
 
 public class LinkHandler {
 	private static String wikiLink;
+	private static MidNode wikiNode;
 	
 	LinkHandler() {
 		
@@ -56,5 +57,10 @@ public class LinkHandler {
 	public static void setWikiLink(MidNode node) {
 		wikiLink = node.traitsCalculator.name2.toLowerCase() + "_" 
 				+ node.traitsCalculator.name1.toLowerCase();
+		wikiNode = node;
+	}
+
+	public static MidNode wikiNode() {
+		return wikiNode;
 	}
 }

@@ -4,6 +4,7 @@ import java.util.Stack;
 
 import android.content.Context;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.webkit.WebView;
@@ -55,18 +56,11 @@ public class CustomizeWebView extends WebView{
 	}
 
 	public void backNavigate() {
-		if (client.isSearching() && client.isSubmitSearching()) {
-			client.backSearchAndLoad();
-		} else {
-			client.hideWebView();
-			client.displayTreeView();
-		}
+		client.backSearchAndLoad();
 	}
 	
 	public void forwardNavigate() {
-		if (client.isSearching()) {
-			client.forwardSearchAndLoad();
-		}
+		client.forwardSearchAndLoad();
 	}
 
 }

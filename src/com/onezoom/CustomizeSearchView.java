@@ -8,6 +8,8 @@ import android.widget.SearchView;
 
 public class CustomizeSearchView extends SearchView{
 	private CustomizeSearchView self;
+	private boolean isWebView;
+
 	private CanvasActivity client;
 	private boolean toggle = true;
 	
@@ -18,7 +20,6 @@ public class CustomizeSearchView extends SearchView{
 			self.setQueryHint("Enter Species Name");
 			self.setQuery(userInput, false);
 			self.clearFocus();
-			client.setUserInput(userInput);
 			client.search(userInput);
 			client.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 			return false;
@@ -56,7 +57,13 @@ public class CustomizeSearchView extends SearchView{
 	public void onActionViewCollapsed() {
 		if (toggle) {
 			toggle = false;
-			client.returnToMainMenu();
+			if (isWebView) {
+				client.hideWebView();
+				client.displayTreeView();
+				client.invalidateOptionsMenu();
+			} else {
+				client.returnToMainMenu();
+			}
 		} else {
 			toggle = true;
 		}
@@ -66,6 +73,14 @@ public class CustomizeSearchView extends SearchView{
 	
 	public void addClient(CanvasActivity _c) {
 		client = _c;
+	}
+	
+	public boolean isWebView() {
+		return isWebView;
+	}
+
+	public void setWebView(boolean isWebView) {
+		this.isWebView = isWebView;
 	}
 
 }

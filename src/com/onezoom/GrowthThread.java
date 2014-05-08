@@ -21,9 +21,10 @@ class GrowthThread extends Thread {
 	static final int MSG_STOP = 2;
 	static final int MSG_REVERT = 3;
 	static final int MSG_CLOSE = 4;
+	static final int MSG_START_PLAY = 5;
 	final int GROWTH_RATE = 10;
 	Map<String, Integer> map;
-	
+	static int treeAge = 0;
 	/**
 	 * Map stores the age of each group.
 	 * @param activity
@@ -75,12 +76,14 @@ class GrowthThread extends Thread {
 	}
 	
 	public void Play() {
-		if (pause == false)
-			BinaryTraitsCalculator.timelim = map.get(client.selectedItem);
+		if (pause == false) {
+			treeAge = map.get(client.selectedItem);
+			BinaryTraitsCalculator.timelim = treeAge;
+		}
 		else 
 			pause = !pause;
 		handler.removeMessages(MSG_REVERT);
-		handler.sendEmptyMessage(MSG_PLAY);
+		handler.sendEmptyMessage(MSG_START_PLAY);
 	}
 	
 	public void Pause() {
@@ -93,6 +96,7 @@ class GrowthThread extends Thread {
 	}
 	
 	public void Revert() {
+		treeAge = map.get(client.selectedItem);
 		handler.removeMessages(MSG_PLAY);
 		handler.sendEmptyMessage(MSG_REVERT);
 	}
@@ -111,9 +115,12 @@ class growthHandler extends Handler {
 	@Override
 	public void handleMessage(Message msg) {
 		switch (msg.what) {
+		case GrowthThread.MSG_START_PLAY:
+			client.resetTree();
+			this.sendEmptyMessage(GrowthThread.MSG_PLAY);
+			break;
 		case GrowthThread.MSG_PLAY:
 			BinaryTraitsCalculator.timelim -= 4;
-			client.resetTree();
 			client.treeView.setDuringInteraction(false);
 			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
@@ -122,14 +129,16 @@ class growthHandler extends Handler {
 			break;
 	
 		case GrowthThread.MSG_PAUSE:
-			removeMessages(GrowthThread.MSG_PLAY);
+			this.removeMessages(GrowthThread.MSG_PLAY);
+			this.removeMessages(GrowthThread.MSG_START_PLAY);
 			break;
 	
 		case GrowthThread.MSG_STOP:
 			client.treeView.setDuringInteraction(false);
 			client.treeView.postInvalidate();
-			removeMessages(GrowthThread.MSG_PLAY);
-			removeMessages(GrowthThread.MSG_REVERT);
+			this.removeMessages(GrowthThread.MSG_PLAY);
+			this.removeMessages(GrowthThread.MSG_REVERT);
+			this.removeMessages(GrowthThread.MSG_START_PLAY);
 			BinaryTraitsCalculator.timelim = -1;
 			break;
 	
@@ -137,13 +146,14 @@ class growthHandler extends Handler {
 			BinaryTraitsCalculator.timelim += 4;
 			client.treeView.setDuringInteraction(false);
 			client.treeView.postInvalidate();
-			if (BinaryTraitsCalculator.timelim < 400)
+			if (BinaryTraitsCalculator.timelim < GrowthThread.treeAge)
 				sendEmptyMessageDelayed(GrowthThread.MSG_REVERT, 400);
 			break;
 		
 		case GrowthThread.MSG_CLOSE:
 			BinaryTraitsCalculator.timelim = -1;
 			this.removeMessages(GrowthThread.MSG_PLAY);
+			this.removeMessages(GrowthThread.MSG_START_PLAY);
 			client.treeView.setDuringInteraction(false);
 			client.treeView.setDuringGrowthAnimation(false);
 			client.treeView.postInvalidate();
