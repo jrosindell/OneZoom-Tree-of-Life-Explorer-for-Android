@@ -57,21 +57,29 @@ public class BinaryVisualizer{
 		if (midNode.child2 != null && midNode.positionData.dvar && midNode.traitsCalculator.getLengthbr() 
 				> BinaryTraitsCalculator.timelim) drawElement(midNode.child2);
 		
-		if (midNode.positionData.gvar == false) return;
-		if (midNode.positionData.insideScreen &&
-				midNode.traitsCalculator.getLengthbr() <= BinaryTraitsCalculator.timelim) {
+		if (midNode.positionData.insideScreen && !midNode.positionData.gvar) {
 			this.drawBranch(midNode);
-			this.drawFakeLeaf(midNode);
+			this.drawLeaf(midNode);
+		} else if (!midNode.positionData.gvar) {
+			return;
+		} else if (midNode.positionData.insideScreen &&
+			midNode.traitsCalculator.getLengthbr() <= BinaryTraitsCalculator.timelim) {
+			this.drawBranch(midNode);
+			this.drawLeaf(midNode);
 		} else if (midNode.getClass() == InteriorNode.class) {
 			drawElement((InteriorNode)midNode);
 		} else
 			drawElement((LeafNode)midNode);
 	}
 	
-	private void drawFakeLeaf(MidNode midNode) {
+	private void drawLeaf(MidNode midNode) {
 		if (midNode.getClass() == InteriorNode.class)
-			drawFakeLeaf((InteriorNode)midNode);	
+			drawLeaf((InteriorNode)midNode);	
+		else if (midNode.getClass() == LeafNode.class) 
+			drawLeaf((LeafNode)midNode);
 	}
+
+
 
 	private void drawElement(InteriorNode midNode) {
 		drawBranch(midNode);
@@ -424,7 +432,7 @@ public class BinaryVisualizer{
 	}
 
 	
-	private void drawFakeLeaf(InteriorNode midNode) {
+	private void drawLeaf(InteriorNode midNode) {
 		tipleaflogic(midNode.positionData.xvar + 
 				+ midNode.positionData.rvar * midNode.positionData.nextx1,
 				midNode.positionData.yvar + 

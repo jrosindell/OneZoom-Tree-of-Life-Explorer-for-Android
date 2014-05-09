@@ -107,6 +107,7 @@ public class CanvasActivity extends Activity{
 		super.onDestroy();
 		memoryThread.requestStop();
 		growthThread.requestStop();
+		BinarySearch.destory();
 	}
 
 	public MidNode getTreeRoot() {

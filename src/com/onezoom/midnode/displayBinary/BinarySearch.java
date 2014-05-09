@@ -190,6 +190,10 @@ public class BinarySearch {
 	public String getPreviousSearch() {
 		return previousSearch;
 	}
+
+	public static void destory() {
+		instance = null;
+	}
 }
 
 class Record {

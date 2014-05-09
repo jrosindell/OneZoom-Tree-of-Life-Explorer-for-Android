@@ -22,7 +22,7 @@
      <item 
          android:id = "@+id/search_close"
          android:title = "@string/search_hint"
-         android:icon = "@drawable/closecolor"
+         android:icon = "@drawable/back_arrow"
          android:showAsAction = "always"/>
 
 </menu>
