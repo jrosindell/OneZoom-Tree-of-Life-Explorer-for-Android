@@ -7,6 +7,8 @@ import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.displayBinary.BinarySearch;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.Dialog;
 import android.app.SearchManager;
 import android.content.Context;
 import android.content.res.Configuration;
@@ -15,10 +17,15 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.ViewGroup.LayoutParams;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -185,7 +192,10 @@ public class CanvasActivity extends Activity{
 			}
 			
 			break;
-		
+		case R.id.information:
+			popupInformationDialog();
+			break;
+			
 		case R.id.grow:
 			growing = true;
 			invalidateOptionsMenu();
@@ -250,6 +260,11 @@ public class CanvasActivity extends Activity{
 			break;
 		}
 		return super.onOptionsItemSelected(item);
+	}
+
+	private void popupInformationDialog() {
+		Dialog dialog = new CustomDialog(this);
+		dialog.show();
 	}
 
 	public void returnToMainMenu() {

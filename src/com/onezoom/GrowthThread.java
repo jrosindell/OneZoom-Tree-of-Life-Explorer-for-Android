@@ -145,6 +145,7 @@ class growthHandler extends Handler {
 		case GrowthThread.MSG_REVERT:
 			BinaryTraitsCalculator.timelim += 4;
 			client.treeView.setDuringInteraction(false);
+			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
 			if (BinaryTraitsCalculator.timelim < GrowthThread.treeAge)
 				sendEmptyMessageDelayed(GrowthThread.MSG_REVERT, 400);
@@ -154,6 +155,7 @@ class growthHandler extends Handler {
 			BinaryTraitsCalculator.timelim = -1;
 			this.removeMessages(GrowthThread.MSG_PLAY);
 			this.removeMessages(GrowthThread.MSG_START_PLAY);
+			this.removeMessages(GrowthThread.MSG_REVERT);
 			client.treeView.setDuringInteraction(false);
 			client.treeView.setDuringGrowthAnimation(false);
 			client.treeView.postInvalidate();

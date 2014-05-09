@@ -13,6 +13,12 @@
         android:showAsAction="always" /> 
         
      <item 
+        android:id = "@+id/information"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/main_information"
+        android:showAsAction="always" /> 
+          
+     <item 
          android:id = "@+id/reset"
          android:title = "@string/search_hint"
          android:icon = "@drawable/reset"

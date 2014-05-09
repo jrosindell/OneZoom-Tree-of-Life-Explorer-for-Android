@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
-    
-        
-    <item
-        android:id = "@+id/grow_play"
+     <item
+        android:id = "@+id/grow_reverse"
         android:title = "@string/search_hint"
-        android:icon = "@drawable/grow_play"
+        android:icon = "@drawable/grow_revert"
         android:showAsAction="always" /> 
-        
+       
      <item
         android:id = "@+id/grow_pause"
         android:title = "@string/search_hint"
@@ -15,11 +13,12 @@
         android:showAsAction="always" /> 
         
      <item
-        android:id = "@+id/grow_reverse"
+        android:id = "@+id/grow_play"
         android:title = "@string/search_hint"
-        android:icon = "@drawable/grow_revert"
+        android:icon = "@drawable/grow_play"
         android:showAsAction="always" /> 
-    
+        
+     
      <item
         android:id = "@+id/grow_stop"
         android:title = "@string/search_hint"
