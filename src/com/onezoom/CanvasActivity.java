@@ -4,6 +4,7 @@ package com.onezoom;
 
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
+import com.onezoom.midnode.displayBinary.BinarySearch;
 
 import android.app.Activity;
 import android.app.SearchManager;
@@ -39,6 +40,7 @@ public class CanvasActivity extends Activity{
 	private int screenHeight;
 	private int screenWidth;
 	private static float scaleFactor;
+	private BinarySearch searchEngine;
 	Toast previousToast;
 
 	
@@ -56,7 +58,7 @@ public class CanvasActivity extends Activity{
 		webView = (CustomizeWebView) findViewById(R.id.webview);
 		hideWebView();
 		
-		
+		searchEngine =  BinarySearch.getInstance(this);
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
 		
@@ -73,6 +75,7 @@ public class CanvasActivity extends Activity{
 	    getActionBar().setDisplayShowTitleEnabled(false);
 		getActionBar().setDisplayHomeAsUpEnabled(false);
 		getActionBar().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
+		getActionBar().setIcon(android.R.color.transparent);
 		if (viewingWeb) inflateWebMenu(menu);
 		else if (growing) inflateGrowMenu(menu);
 		else if (searching) inflateSearchMenu(menu);
@@ -279,15 +282,18 @@ public class CanvasActivity extends Activity{
 		
 		MenuItem searchMenuItem = (MenuItem) menu.findItem(R.id.search);
 		searchMenuItem.expandActionView();
+
 		
-		getActionBar().setIcon(
-				   new ColorDrawable(getResources().getColor(android.R.color.transparent)));
+		if (!this.searchEngine.getPreviousSearch().equals("")) {
+			searchView.setQuery(this.searchEngine.getPreviousSearch(), false);
+		} else {
+			searchView.setQueryHint("Enter Species Name");			
+		}
 		
-		
-		searchView.setQueryHint("Enter Species Name");
 		searchView.addClient(this);
 		searchView.setOnQueryTextListener(searchView.queryTextListener);
 		searchView.setWebView(false);
+		
 		
 		this.getActionBar().setDisplayShowHomeEnabled(false);
 		this.getActionBar().setDisplayShowTitleEnabled(false);
@@ -325,10 +331,12 @@ public class CanvasActivity extends Activity{
 		MenuItem searchMenuItem = (MenuItem) menu.findItem(R.id.search);
 		searchMenuItem.expandActionView();
 		
-		getActionBar().setIcon(
-				   new ColorDrawable(getResources().getColor(android.R.color.transparent)));
+		if (!this.searchEngine.getPreviousSearch().equals("")) {
+			searchView.setQuery(this.searchEngine.getPreviousSearch(), false);
+		} else {
+			searchView.setQueryHint("Enter Species Name");			
+		}
 		
-		searchView.setQueryHint("Enter Species Name");
 		searchView.addClient(this);
 		searchView.setOnQueryTextListener(searchView.queryWebListener);
 		searchView.setWebView(true);
@@ -399,16 +407,12 @@ public class CanvasActivity extends Activity{
 	}
 
 	public void loadWikiURL() {
-		this.resetSearchKeyWord();
 		String wikiLink = "http://en.wikipedia.org/wiki/" + fulltree.wikilink();
 		webView.loadUrl(wikiLink);
 	}
 	
-	private void resetSearchKeyWord() {
-//		if (!fulltree.wikilink().contains(this.userInput)
-//				&& !fulltree.traitsCalculator.getCname().contains(this.userInput)) {
-//			this.userInput = "";
-//		}
+	public void resetSearch() {
+		this.searchEngine.resetSearch(fulltree.wikilink(), fulltree.wikiNode().traitsCalculator.getCname());
 	}
 	
 	private void reloadPage() {

@@ -20,22 +20,23 @@ public class MemoryThread extends Thread {
 	public static final int MSG_SEARCH_LOAD = 7;
 	public static final int MSG_BACK_SEARCH_LOAD = 8;
 	public static final int MSG_FORWARD_SEARCH_LOAD = 9;
+
 	
 	private MemoryHandler handler;
-	private CanvasActivity clientActivity;
+	private CanvasActivity client;
 	
 	/**
 	 * @constructor
 	 * @param canvasActivity
 	 */
 	public MemoryThread(CanvasActivity canvasActivity) {
-		clientActivity = canvasActivity;
+		client = canvasActivity;
 	}
 	
 	@Override
 	public void run() {
 		Looper.prepare();
-		handler = new MemoryHandler(clientActivity);
+		handler = new MemoryHandler(client);
 		handler.sendEmptyMessage(MSG_INITIALIZATION);
 		Looper.loop();
 		super.run();
@@ -96,7 +97,7 @@ class MemoryHandler extends Handler {
 
 	public MemoryHandler(CanvasActivity _client) {
 		client = _client;
-		searchEngine = new BinarySearch(_client);
+		searchEngine = BinarySearch.getInstance(_client);
 	}
 
 	@Override

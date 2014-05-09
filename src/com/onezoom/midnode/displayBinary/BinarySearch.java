@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.Locale;
 
 import org.apache.commons.lang3.StringUtils;
+
+import android.util.Log;
 import au.com.bytecode.opencsv.CSVReader;
 
 import com.onezoom.CanvasActivity;
@@ -16,13 +18,21 @@ import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
 
 public class BinarySearch {
+	private static BinarySearch instance = null;
 	CanvasActivity client;
-	String previousSearch;
+	String previousSearch = "";
 	int searchHit;
 	int currentHit;
 	ArrayList<Record> searchResults;
 	
-	public BinarySearch(CanvasActivity canvasActivity) {
+	public static BinarySearch getInstance(CanvasActivity canvasActivity) {
+		if (instance == null) {
+			instance = new BinarySearch(canvasActivity);
+		}
+		return instance;
+	}
+	
+	private BinarySearch(CanvasActivity canvasActivity) {
 		client = canvasActivity;
 		searchResults = new ArrayList<Record>();
 	}
@@ -168,6 +178,17 @@ public class BinarySearch {
 				searchResults.remove(i);
 			}
 		}
+	}
+
+	public void resetSearch(String wikilink, String cname) {
+		if (!wikilink.toLowerCase(Locale.ENGLISH).contains(previousSearch.toLowerCase(Locale.ENGLISH))
+				&& !cname.toLowerCase(Locale.ENGLISH).contains(previousSearch.toLowerCase(Locale.ENGLISH))) {
+			this.previousSearch = "";
+		}
+	}
+
+	public String getPreviousSearch() {
+		return previousSearch;
 	}
 }
 

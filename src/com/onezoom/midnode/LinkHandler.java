@@ -42,8 +42,7 @@ public class LinkHandler {
 
 		if (mouseX > cx - radius && mouseX < cx + radius
 				&& mouseY > cy - radius && mouseY < cy + radius) {
-			wikiLink = node.traitsCalculator.name2.toLowerCase() + "_" 
-				+ node.traitsCalculator.name1.toLowerCase();
+			setWikiLink(node);
 			return true;
 		} else {
 			return false;
