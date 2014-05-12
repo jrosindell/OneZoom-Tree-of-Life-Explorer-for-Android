@@ -33,6 +33,9 @@ public class MemoryThread extends Thread {
 		client = canvasActivity;
 	}
 	
+	/**
+	 * When the activity starts, this method is called and do initialization of the tree.
+	 */
 	@Override
 	public void run() {
 		Looper.prepare();
@@ -42,6 +45,9 @@ public class MemoryThread extends Thread {
 		super.run();
 	}
 	
+	/**
+	 * Destroy this thread.
+	 */
 	public synchronized void requestStop() {
 		handler.post(new Runnable() {		
 			@Override
@@ -100,6 +106,10 @@ class MemoryHandler extends Handler {
 		searchEngine = BinarySearch.getInstance(_client);
 	}
 
+	/**
+	 * Handler of the thread.
+	 * Do idle time calculation when the thread is not occupied with other messages.
+	 */
 	@Override
 	public void handleMessage(Message msg) {
 		switch (msg.what) {
@@ -130,7 +140,7 @@ class MemoryHandler extends Handler {
 			}
 			break;
 		case MemoryThread.MSG_IDLECALCULATION:
-			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
+			if (!this.HasMessages()) {
 				MidNode.initializer.idleTimeInitialization();
 				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
@@ -164,5 +174,13 @@ class MemoryHandler extends Handler {
 			client.webView.postInvalidate();
 			break;
 		}
+	}
+
+	private boolean HasMessages() {
+		for (int i = 0; i < 10; i++) {
+			if (this.hasMessages(i) && i != 2)
+				return true;
+		}
+		return false;
 	}
 }

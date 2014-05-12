@@ -13,6 +13,9 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 		treeView = v;
 	}
 
+	/**
+	 * Zoom in the tree.
+	 */
 	@Override
 	public boolean onDoubleTap(MotionEvent e) {
 		float currentXp = e.getX();
@@ -30,6 +33,9 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 		return true;
 	}
 
+	/**
+	 * Drag the tree
+	 */
 	@Override
 	public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
 			float distanceY) {
@@ -39,9 +45,12 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 		return true;
 	}
 
+	/**
+	 * Test if clicks on wiki link. If it do, then load wiki link.
+	 */
 	@Override
 	public boolean onSingleTapConfirmed(MotionEvent e) {
-		treeView.hideKeyboard();
+		treeView.client.hideKeyBoard(treeView);
 		if (treeView.client.hasHitWikiLink(e.getX(), e.getY())) {
 			treeView.client.resetSearch();
 			treeView.client.hideTreeView();

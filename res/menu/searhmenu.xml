@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
      <item
-        android:id = "@+id/search"
+        android:id = "@+id/search_tree"
         android:title = "@string/search_hint"
         android:icon = "@drawable/searchcolor"
         android:showAsAction="ifRoom|collapseActionView"
         android:actionViewClass="com.onezoom.CustomizeSearchView" /> 
         
      <item
-        android:id = "@+id/back"
+        android:id = "@+id/search_backward_tree"
         android:title = "@string/search_hint"
         android:icon = "@drawable/backward"
         android:showAsAction="always" /> 
         
      <item 
-         android:id = "@+id/forward"
+         android:id = "@+id/search_forward_tree"
          android:title = "@string/search_hint"
          android:icon = "@drawable/forward"
          android:showAsAction="always" />

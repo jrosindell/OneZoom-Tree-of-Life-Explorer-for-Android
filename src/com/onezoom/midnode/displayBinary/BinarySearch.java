@@ -181,6 +181,9 @@ public class BinarySearch {
 	}
 
 	public void resetSearch(String wikilink, String cname) {
+//		Log.d("debug", "reset search wiki ->" + wikilink.toLowerCase(Locale.ENGLISH));
+//		Log.d("debug", "reset search cname ->" + cname.toLowerCase(Locale.ENGLISH));
+//		Log.d("debug", "reset search previous ->" + previousSearch.toLowerCase(Locale.ENGLISH));
 		if (!wikilink.toLowerCase(Locale.ENGLISH).contains(previousSearch.toLowerCase(Locale.ENGLISH))
 				&& !cname.toLowerCase(Locale.ENGLISH).contains(previousSearch.toLowerCase(Locale.ENGLISH))) {
 			this.previousSearch = "";

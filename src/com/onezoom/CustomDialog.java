@@ -2,19 +2,13 @@ package com.onezoom;
 
 import android.app.Dialog;
 import android.content.Context;
-import android.graphics.Color;
-import android.util.Log;
-import android.view.ContextMenu;
+import android.text.method.ScrollingMovementMethod;
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
-import android.view.ContextMenu.ContextMenuInfo;
-import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TabHost;
 import android.widget.TextView;
@@ -36,7 +30,7 @@ public class CustomDialog extends Dialog
      * 
      * @param context
      */
-    public CustomDialog(Context context)
+    public CustomDialog(CanvasActivity context)
     {
         super(context);
 
@@ -45,7 +39,7 @@ public class CustomDialog extends Dialog
 
         // change the position. 0,0 is center
         params.x = 0;
-        params.y = -120;
+        params.y = -30;//-context.getScreenHeight() / 24;
         this.getWindow().setAttributes(params); 
 
         // no title on this dialog
@@ -60,20 +54,13 @@ public class CustomDialog extends Dialog
         // register a context menu for all our listView02 items
         registerForContextMenu(listView02);
 
+        //set text for tab1 and enable scrolling
         textView01.setText(Information.guide);
-
+        textView01.setMovementMethod(new ScrollingMovementMethod());
+        
+     
         listView02Adapter = new ListView02Adapter(context);
         listView02.setAdapter(listView02Adapter);
-
-        // bind a click listener to the listView02 list
-        listView02.setOnItemClickListener(new AdapterView.OnItemClickListener()
-        {
-            public void onItemClick(AdapterView<?> parentView, View childView, int position, long id)
-            {                   
-                // will dismiss the dialog
-                dismiss();          
-            }           
-        });
 
         // get our tabHost from the xml
         TabHost tabs = (TabHost)findViewById(R.id.TabHost01);
@@ -96,7 +83,7 @@ public class CustomDialog extends Dialog
     /**
      * A custom list adapter for listView02
      */
-    private class ListView02Adapter extends ArrayAdapter
+    private class ListView02Adapter extends ArrayAdapter<Object>
     {        
     	private final Context context;
     	
@@ -111,7 +98,6 @@ public class CustomDialog extends Dialog
          */
         public int getCount()
         {
-            // add code here to determine how many results we have, hard coded for now
             return 4;
         }
 

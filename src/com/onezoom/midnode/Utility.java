@@ -156,7 +156,7 @@ public class Utility {
 		float lengthbr = BinaryTraitsCalculator.timelim;
 		if (lengthbr < 0) return "Present day";
 		else {
-			return lengthbr + " Million years ago - " + Utility.geologicAge(lengthbr);
+			return String.format("%.2f", lengthbr) + " Million years ago - " + Utility.geologicAge(lengthbr);
 		}
 	}
 

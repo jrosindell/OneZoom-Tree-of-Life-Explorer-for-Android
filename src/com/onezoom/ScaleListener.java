@@ -3,7 +3,6 @@ package com.onezoom;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.displayBinary.BinaryPositionCalculator;
 
-import android.util.Log;
 import android.view.ScaleGestureDetector;
 
 public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureListener {
@@ -15,6 +14,11 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 		treeView = v;
 	}
 
+	/**
+	 * Scale is a continuous action.
+	 * During scale, reanchor may occur and it will change xp, yp and ws,
+	 * that's why startXp, startYp should be reset when it occurs.
+	 */
 	@Override
 	public boolean onScale(ScaleGestureDetector detector) {
 		TreeView.onScale = true;
@@ -41,17 +45,14 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 		return true;
 	}
 
+	/**
+	 * record start finger position when scale starts.
+	 */
 	@Override
 	public boolean onScaleBegin(ScaleGestureDetector detector) {
 		startXp = PositionData.getXp();
 		startYp = PositionData.getYp();
 		startscaleFactor = PositionData.getWs();
 		return true;
-	}
-	
-	@Override
-	public void onScaleEnd(ScaleGestureDetector detector) {
-		// TODO Auto-generated method stub
-		super.onScaleEnd(detector);
 	}
 }

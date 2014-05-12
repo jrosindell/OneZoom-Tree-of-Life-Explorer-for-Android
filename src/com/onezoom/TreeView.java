@@ -15,7 +15,6 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
-import android.view.inputmethod.InputMethodManager;
 
 public class TreeView extends View {
 	public CanvasActivity client;
@@ -56,132 +55,7 @@ public class TreeView extends View {
 		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); 
 		paint = new Paint();
 	}
-
-	@Override
-	public boolean onTouchEvent(MotionEvent event) {
-		switch (event.getAction()) {
-		case MotionEvent.ACTION_DOWN:
-			duringInteraction = true;
-			break;
-		case MotionEvent.ACTION_UP:
-			onScale = false;
-			duringInteraction = false;
-			break;
-		default:
-				break;
-		}
-
-		scaleDetector.onTouchEvent(event);
-		if (!onScale)
-			gestureDetector.onTouchEvent(event);
 	
-		invalidate();
-		return true;
-	}
-
-	
-	@Override
-	protected void onDraw(Canvas canvas) {
-		// TODO Auto-generated method stub
-		super.onDraw(canvas);
-		if (!treeBeingInitialized) {
-			drawLoading(canvas);
-		} else {
-			if (!duringRecalculation && !duringInteraction){
-				drawElementAndCache(canvas);
-			} else {
-				drawUsingCachedBitmap(canvas);
-			}
-		}
-	}
-	
-	/**
-	 * When this function first called, it will draw cached bitmap.
-	 * Then it calls load bitmap from view, which calls onDraw, which calls drawElementAndCache again. 
-	 * Then this function will execute the else branch, which does the actual drawing. 
-	 * The result of the actual drawing will be returned from loadBitmapFromView and cached in cachedBitmap.
-	 * 
-	 * At the end of the function call, view will be invalidated and since duringInteraction is set to true, 
-	 * view will use the cached bitmap to refresh itself.
-	 * @param canvas
-	 */
-	private void drawElementAndCache(Canvas canvas) {	
-		if (toggle) {
-			toggle = !toggle;
-			drawUsingCachedBitmap(canvas);
-			this.scaleX = 1;
-			this.scaleY = 1;
-			this.distanceX = 0;
-			this.distanceY = 0;
-			cachedBitmap = loadBitmapFromView(this);
-		} else {
-			canvas.drawColor(Color.WHITE);
-			client.getTreeRoot().drawElement(canvas);
-			if (this.isDuringGrowthAnimation()) {
-				drawGrowthPeriodInfo(canvas, paint);
-			}
-			toggle = !toggle;
-		}
-		duringInteraction = true;
-		invalidate();		
-	}
-
-	private void drawUsingCachedBitmap(Canvas canvas) {
-		canvas.translate(distanceX, distanceY);
-		canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
-		canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
-	}
-
-	/**
-	 * This function will call onDraw().
-	 * @param v
-	 * @return
-	 */
-	private Bitmap loadBitmapFromView(TreeView v) {
-		if (v == null) {
-			return null;
-		}
-		Bitmap bitmap = Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
-		Canvas c = new Canvas(bitmap);
-		c.translate(-v.getScrollX(), -v.getScrollY());
-		v.draw(c);
-		return bitmap;
-	}
-
-	public void drag(float distanceX, float distanceY) {
-		PositionData.shiftScreenPosition(distanceX, distanceY, 1f);
-		duringRecalculation = true;
-		client.recalculate();
-	}
-	
-	public void zoomin(float factor) {
-		PositionData.shiftScreenPosition(0, 0, factor);
-		duringRecalculation = true;
-		client.recalculate();
-	}
-	
-	public void zoomin(float scaleFactor, float focusX, float focusY) {	
-		PositionData.shiftScreenPosition(focusX, focusY, scaleFactor);
-		duringRecalculation = true;
-		client.recalculate();
-	}
-	
-	public boolean isTreeBeingInitialized() {
-		return treeBeingInitialized;
-	}
-
-	public void setTreeBeingInitialized(boolean treeBeingInitialized) {
-		this.treeBeingInitialized = treeBeingInitialized;
-	}
-
-	public boolean isDuringRecalculation() {
-		return duringRecalculation;
-	}
-
-	public void setDuringRecalculation(boolean duringRecalculation) {
-		this.duringRecalculation = duringRecalculation;
-	}
-
 	public float getDistanceX() {
 		return distanceX;
 	}
@@ -246,10 +120,163 @@ public class TreeView extends View {
 		this.duringGrowthAnimation = duringGrowthAnimation;
 	}
 	
-	public void hideKeyboard() {
-		client.hideKeyBoard(this);
+	public boolean isTreeBeingInitialized() {
+		return treeBeingInitialized;
 	}
 
+	public void setTreeBeingInitialized(boolean treeBeingInitialized) {
+		this.treeBeingInitialized = treeBeingInitialized;
+	}
+
+	public boolean isDuringRecalculation() {
+		return duringRecalculation;
+	}
+
+	public void setDuringRecalculation(boolean duringRecalculation) {
+		this.duringRecalculation = duringRecalculation;
+	}
+
+	/**
+	 * When user finger is on the screen, set duringInteraction as true. 
+	 * When it's off the screen, set duringInteraction as false.
+	 * 
+	 * Then test scale and other actions including drag, double taps and single tap using gestureDetector.
+	 */
+	@Override
+	public boolean onTouchEvent(MotionEvent event) {
+		switch (event.getAction()) {
+		case MotionEvent.ACTION_DOWN:
+			duringInteraction = true;
+			break;
+		case MotionEvent.ACTION_UP:
+			onScale = false;
+			duringInteraction = false;
+			break;
+		default:
+				break;
+		}
+
+		scaleDetector.onTouchEvent(event);
+		if (!onScale)
+			gestureDetector.onTouchEvent(event);
+	
+		invalidate();
+		return true;
+	}
+
+	/**
+	 * Draw 'loading' when tree is not ready.
+	 * 
+	 * If the tree is during recalculation or user is interacting with view, draw using bitmap,
+	 * otherwise draw the tree and then cached it as a bitmap.
+	 */
+	@Override
+	protected void onDraw(Canvas canvas) {
+		super.onDraw(canvas);
+		if (!treeBeingInitialized) {
+			drawLoading(canvas);
+		} else {
+			if (!duringRecalculation && !duringInteraction){
+				drawElementAndCache(canvas);
+			} else {
+				drawUsingCachedBitmap(canvas);
+			}
+		}
+	}
+	
+	/**
+	 * When this function first called, it executes 'if' branch and draws cached bitmap.
+	 * Then it calls load bitmap from view, which calls onDraw, which calls drawElementAndCache again. 
+	 * Then this function executes the 'else' branch, which does the actual drawing. 
+	 * The result of the actual drawing will be returned to loadBitmapFromView and cached in cachedBitmap.
+	 * 
+	 * At the end of the function call, view will be invalidated and since duringInteraction is set to true, 
+	 * view will use the cached bitmap to refresh itself.
+	 * 
+	 * 
+	 * The reason for write this function in such a complex why is that cache bitmap actually calls onDraw 
+	 * in this view. 
+	 * 
+	 * If the method is written plainly as drawElement followed with loadBitmapFromView then this method will
+	 * be infinitely called by itself. Hence, a toggle is needed to make sure that loadBitmap will call this
+	 * method with drawElement routine.
+	 * 
+	 * drawUsingCachedBitmap in 'if' branch is used to prevent the view from blinking.
+	 * set duringInteraction as true so that following invalidating view caused by delayed message in
+	 * other threads use the cached bitmap in order to speed up the app.
+	 * @param canvas
+	 */
+	private void drawElementAndCache(Canvas canvas) {	
+		if (toggle) {
+			toggle = !toggle;
+			drawUsingCachedBitmap(canvas);
+			this.scaleX = 1;
+			this.scaleY = 1;
+			this.distanceX = 0;
+			this.distanceY = 0;
+			cachedBitmap = loadBitmapFromView(this);
+		} else {
+			canvas.drawColor(Color.WHITE);
+			client.getTreeRoot().drawElement(canvas);
+			if (this.isDuringGrowthAnimation()) {
+				drawGrowthPeriodInfo(canvas, paint);
+			}
+			toggle = !toggle;
+		}
+		duringInteraction = true;
+		invalidate();		
+	}
+
+	/**
+	 * Scale and translate the bitmap to give a user preview of the tree.
+	 * @param canvas
+	 */
+	private void drawUsingCachedBitmap(Canvas canvas) {
+		canvas.translate(distanceX, distanceY);
+		canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
+		canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+	}
+
+	/**
+	 * This function will call onDraw().
+	 * @param v
+	 * @return
+	 */
+	private Bitmap loadBitmapFromView(TreeView v) {
+		if (v == null) {
+			return null;
+		}
+		Bitmap bitmap = Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
+		Canvas c = new Canvas(bitmap);
+		c.translate(-v.getScrollX(), -v.getScrollY());
+		v.draw(c);
+		return bitmap;
+	}
+
+	
+	public void drag(float distanceX, float distanceY) {
+		PositionData.shiftScreenPosition(distanceX, distanceY, 1f);
+		duringRecalculation = true;
+		client.recalculate();
+	}
+	
+	public void zoomin(float factor) {
+		PositionData.shiftScreenPosition(0, 0, factor);
+		duringRecalculation = true;
+		client.recalculate();
+	}
+	
+	public void zoomin(float scaleFactor, float focusX, float focusY) {	
+		PositionData.shiftScreenPosition(focusX, focusY, scaleFactor);
+		duringRecalculation = true;
+		client.recalculate();
+	}
+	
+
+	/**
+	 * Draw 'loading' when the tree is not initialized yet.
+	 * @param canvas
+	 */
 	private void drawLoading(Canvas canvas) {
 		String text = "loading...";
 		Paint textPaint = new Paint();
@@ -261,6 +288,11 @@ public class TreeView extends View {
 		canvas.drawText(text, x, y, textPaint);		
 	}
 	
+	/**
+	 * This method is called during growth animation. It draws time information of growth.
+	 * @param canvas
+	 * @param paint
+	 */
 	private void drawGrowthPeriodInfo(Canvas canvas, Paint paint) {
 		String text = Utility.growthInfo();
 		int x = getWidth()/2;

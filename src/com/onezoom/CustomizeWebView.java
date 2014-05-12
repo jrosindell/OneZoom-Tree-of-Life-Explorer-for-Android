@@ -1,19 +1,13 @@
 package com.onezoom;
 
-import java.util.Stack;
 
 import android.content.Context;
 import android.util.AttributeSet;
-import android.util.Log;
-import android.view.GestureDetector;
-import android.view.MotionEvent;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.Toast;
 
 public class CustomizeWebView extends WebView{
 	CanvasActivity client; 
-	private GestureDetector gestureDetector;
 
 	public CustomizeWebView(Context context) {
 		super(context);
@@ -30,9 +24,11 @@ public class CustomizeWebView extends WebView{
 		init(context);
 	}
 	
+	/**
+	 * Overload url redirection to prevent openning browser from the app
+	 * @param context
+	 */
 	private void init(Context context) {
-		client = (CanvasActivity) context;
-		gestureDetector = new GestureDetector(context, new WebViewGestureListener(this));
 		this.setWebViewClient(new WebViewClient() {
 			@Override
 			public boolean shouldOverrideUrlLoading(WebView view, String url) {
@@ -41,26 +37,4 @@ public class CustomizeWebView extends WebView{
 			}		
 		});
 	}
-	
-	public void addClient(CanvasActivity activity) {
-		client = activity;
-	}
-
-	@Override
-	public boolean onTouchEvent(MotionEvent event) {
-		return gestureDetector.onTouchEvent(event) || super.onTouchEvent(event);
-	}
-
-	public void makeToast(String string) {
-		Toast.makeText(client, string, Toast.LENGTH_SHORT).show();
-	}
-
-	public void backNavigate() {
-		client.backSearchAndLoad();
-	}
-	
-	public void forwardNavigate() {
-		client.forwardSearchAndLoad();
-	}
-
 }

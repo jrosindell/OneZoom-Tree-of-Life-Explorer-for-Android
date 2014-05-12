@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     
     <item
-        android:id = "@+id/search"
+        android:id = "@+id/search_web"
         android:title = "@string/search_hint"
         android:icon = "@drawable/searchcolor"
         android:showAsAction="ifRoom|collapseActionView"
@@ -14,13 +14,13 @@
         android:icon = "@drawable/reset"
         android:showAsAction="always"/> 
      <item
-        android:id = "@+id/back_navigation"
+        android:id = "@+id/search_backward_web"
         android:title = "@string/back_navigation"
         android:icon = "@drawable/backward"
         android:showAsAction="always"/> 
         
      <item
-        android:id = "@+id/forward_navigation"
+        android:id = "@+id/search_forward_web"
         android:title = "@string/back_navigation"
         android:icon = "@drawable/forward"
         android:showAsAction="always"/> 
