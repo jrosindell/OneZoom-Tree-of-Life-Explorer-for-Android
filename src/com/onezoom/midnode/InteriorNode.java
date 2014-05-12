@@ -1,7 +1,11 @@
 package com.onezoom.midnode;
 
 public class InteriorNode extends MidNode {
-
+	
+	/**
+	 * Initialize interior node from file.
+	 * @param line
+	 */
 	public InteriorNode(String[] line) {	
 		this.index = Integer.parseInt(line[0]);
 		this.parentIndex = Integer.parseInt(line[1]);

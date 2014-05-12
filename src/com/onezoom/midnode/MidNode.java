@@ -1,23 +1,17 @@
 package com.onezoom.midnode;
 
 import android.graphics.Canvas;
-import android.util.Log;
 
 import com.onezoom.CanvasActivity;
-import com.onezoom.midnode.displayBinary.BinaryInitializer;
-import com.onezoom.midnode.displayBinary.BinaryPositionCalculator;
-import com.onezoom.midnode.displayBinary.BinaryPrecalculator;
-import com.onezoom.midnode.displayBinary.BinaryTraitsCalculator;
-import com.onezoom.midnode.displayBinary.BinaryVisualizer;
 
 public abstract class MidNode implements Comparable<MidNode>{
-	public static BinaryInitializer initializer = new BinaryInitializer();
-	public static BinaryPrecalculator precalculator = new BinaryPrecalculator();
-	protected static BinaryVisualizer visualizer = new BinaryVisualizer();
-	public static BinaryPositionCalculator positionCalculator = new BinaryPositionCalculator();
+	public static Initializer initializer = new Initializer();
+	public static Precalculator precalculator = new Precalculator();
+	protected static Visualizer visualizer = new Visualizer();
+	public static PositionCalculator positionCalculator = new PositionCalculator();
 	
 	public PositionData positionData = new PositionData();
-	public BinaryTraitsCalculator traitsCalculator = new BinaryTraitsCalculator();	
+	public TraitsData traitsCalculator = new TraitsData();	
 	public MidNode child1;
 	public MidNode child2;
 	//childIndex tells which children this node belongs to
@@ -39,7 +33,7 @@ public abstract class MidNode implements Comparable<MidNode>{
 	}
 	
 	public static void setContext(CanvasActivity context) {
-		BinaryInitializer.setContext(context);
+		Initializer.setContext(context);
 	}
 	
 	public void preCalculateWholeTree() {
@@ -62,13 +56,13 @@ public abstract class MidNode implements Comparable<MidNode>{
 	public MidNode getParent() { return parent; }
 
 	public void recalculateDynamic() {
-		BinaryPositionCalculator.setDynamic(false);
+		PositionCalculator.setDynamic(false);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 		if ((PositionData.ws > 100 || PositionData.ws < 0.01)
-				&& !BinaryInitializer.canvasActivity.getTreeView().isDuringInteraction()) {
+				&& !Initializer.canvasActivity.getTreeView().isDuringInteraction()) {
 			positionCalculator.reanchor(this);
 		}
-		BinaryPositionCalculator.setDynamic(true);
+		PositionCalculator.setDynamic(true);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 	}
 
@@ -90,10 +84,10 @@ public abstract class MidNode implements Comparable<MidNode>{
 	
 
 	public String wikilink() {
-		return LinkHandler.wikiLink();
+		return LinkHandler.getWikiLink();
 	}
 	
 	public MidNode wikiNode() {
-		return LinkHandler.wikiNode();
+		return LinkHandler.getWikiNode();
 	}
 }

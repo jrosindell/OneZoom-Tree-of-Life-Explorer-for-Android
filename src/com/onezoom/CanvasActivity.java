@@ -2,9 +2,9 @@ package com.onezoom;
 
 
 
+import com.onezoom.midnode.Search;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
-import com.onezoom.midnode.displayBinary.BinarySearch;
 
 import android.util.Log;
 import android.app.Activity;
@@ -38,7 +38,7 @@ public class CanvasActivity extends Activity{
 	private int screenHeight;
 	private int screenWidth;
 	private static float scaleFactor;
-	private BinarySearch searchEngine;
+	private Search searchEngine;
 	private Toast previousToast;
 
 	public MidNode getTreeRoot() {
@@ -105,7 +105,7 @@ public class CanvasActivity extends Activity{
 		//only display tree view when the activity start
 		hideWebView();
 		
-		searchEngine =  BinarySearch.getInstance(this);
+		searchEngine =  Search.getInstance(this);
 		orientation = getResources().getConfiguration().orientation;
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
@@ -147,7 +147,7 @@ public class CanvasActivity extends Activity{
 		super.onDestroy();
 		memoryThread.requestStop();
 		growthThread.requestStop();
-		BinarySearch.destory();
+		Search.destory();
 	}
 
 	

@@ -3,8 +3,8 @@ package com.onezoom;
 import java.util.Map;
 import java.util.TreeMap;
 
+import com.onezoom.midnode.TraitsData;
 import com.onezoom.midnode.Utility;
-import com.onezoom.midnode.displayBinary.BinaryTraitsCalculator;
 
 import android.os.Handler;
 import android.os.Looper;
@@ -61,7 +61,7 @@ class GrowthThread extends Thread {
 		handler.post(new Runnable() {
 			@Override
 			public void run() {
-				BinaryTraitsCalculator.timelim = -1;
+				TraitsData.timelim = -1;
 				Looper.myLooper().quit();
 			}
 		});
@@ -85,7 +85,7 @@ class GrowthThread extends Thread {
 	public void Play() {
 		if (pause == false) {
 			treeAge = map.get(CanvasActivity.selectedItem);
-			BinaryTraitsCalculator.timelim = treeAge;
+			TraitsData.timelim = treeAge;
 		}
 		else 
 			pause = !pause;
@@ -116,11 +116,11 @@ class growthHandler extends Handler {
 			this.sendEmptyMessage(GrowthThread.MSG_REVERT);
 			break;			
 		case GrowthThread.MSG_REVERT:
-			BinaryTraitsCalculator.timelim += 0.4;
+			TraitsData.timelim += 0.4;
 			client.treeView.setDuringInteraction(false);
 			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
-			if (BinaryTraitsCalculator.timelim < GrowthThread.treeAge)
+			if (TraitsData.timelim < GrowthThread.treeAge)
 				sendEmptyMessageDelayed(GrowthThread.MSG_REVERT, 40);
 			break;
 			
@@ -136,16 +136,16 @@ class growthHandler extends Handler {
 			this.sendEmptyMessage(GrowthThread.MSG_PLAY);
 			break;
 		case GrowthThread.MSG_PLAY:
-			BinaryTraitsCalculator.timelim -= 0.4;
+			TraitsData.timelim -= 0.4;
 			client.treeView.setDuringInteraction(false);
 			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
-			if (BinaryTraitsCalculator.timelim > 0)
+			if (TraitsData.timelim > 0)
 				sendEmptyMessageDelayed(GrowthThread.MSG_PLAY, 40);
 			break;
 	
 		case GrowthThread.MSG_STOP:
-			BinaryTraitsCalculator.timelim = -1;
+			TraitsData.timelim = -1;
 			this.removeMessages(GrowthThread.MSG_PLAY);
 			this.removeMessages(GrowthThread.MSG_REVERT);
 			this.removeMessages(GrowthThread.MSG_START_PLAY);
@@ -155,7 +155,7 @@ class growthHandler extends Handler {
 			break;
 		
 		case GrowthThread.MSG_CLOSE:
-			BinaryTraitsCalculator.timelim = -1;
+			TraitsData.timelim = -1;
 			this.removeMessages(GrowthThread.MSG_PLAY);
 			this.removeMessages(GrowthThread.MSG_REVERT);
 			this.removeMessages(GrowthThread.MSG_START_PLAY);

@@ -1,8 +1,8 @@
 package com.onezoom;
 
+import com.onezoom.midnode.Initializer;
+import com.onezoom.midnode.Search;
 import com.onezoom.midnode.MidNode;
-import com.onezoom.midnode.displayBinary.BinaryInitializer;
-import com.onezoom.midnode.displayBinary.BinarySearch;
 
 import android.os.Handler;
 import android.os.Looper;
@@ -99,11 +99,11 @@ public class MemoryThread extends Thread {
 
 class MemoryHandler extends Handler {
 	private CanvasActivity client;
-	public BinarySearch searchEngine;
+	public Search searchEngine;
 
 	public MemoryHandler(CanvasActivity _client) {
 		client = _client;
-		searchEngine = BinarySearch.getInstance(_client);
+		searchEngine = Search.getInstance(_client);
 	}
 
 	/**

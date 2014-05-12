@@ -1,18 +1,21 @@
 package com.onezoom.midnode;
 
-import com.onezoom.midnode.displayBinary.BinaryTraitsCalculator;
-
 import android.graphics.Color;
 
 public class Utility {
 	static int colourtype = 3;
 	
+	/**
+	 * return branch color
+	 * @param node
+	 * @return
+	 */
 	public static int barccolor(MidNode node) { // branch outline colour logic
 		// this script sets the color for the outline of the branches
-		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCalculator;
+		TraitsData traits = (TraitsData) node.traitsCalculator;
 		int colortoreturn = Color.argb(80, 50, 37, 25);// 'rgba(50,37,25,0.3)';
 		if (colourtype == 2) {
-			if ((traits.lengthbr < 70.6) && (BinaryTraitsCalculator.timelim < 70.6)) {
+			if ((traits.getLengthbr() < 70.6) && (TraitsData.timelim < 70.6)) {
 				colortoreturn = Color.argb(80, 200, 200, 200);// 'rgba(200,200,200,0.3)';
 			}
 		}
@@ -22,22 +25,31 @@ public class Utility {
 		return colortoreturn;
 	}
 	
-	public static int leafcolor1(LeafNode node) {
-		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCalculator;
-		// for the leaf fill
-		if ((traits.redlist != null) && (colourtype == 3)) {
-			return (redlistcolor(traits.redlist));
-		} else {
-			if (colourtype == 3) {
-				return (branchcolor(node));
-			} else {
-				return (Color.argb(255, 0, 100, 0));
-			}
-		}
-	}
+//	/**
+//	 * return leaf color
+//	 * @param node
+//	 * @return
+//	 */
+//	public static int leafcolor1(LeafNode node) {
+//		TraitsCalculator traits = (TraitsCalculator) node.traitsCalculator;
+//		// for the leaf fill
+//		if ((traits.getRedlist() != null) && (colourtype == 3)) {
+//			return (redlistcolor(traits.getRedlist()));
+//		} else {
+//			if (colourtype == 3) {
+//				return (branchcolor(node));
+//			} else {
+//				return (Color.argb(255, 0, 100, 0));
+//			}
+//		}
+//	}
 	
 	
-	
+	/**
+	 * return color according to conservation string
+	 * @param codein
+	 * @return
+	 */
 	public static int redlistcolor(String codein) {
 		if (codein == "EX")
 			return Color.argb(255, 0, 0, 180);
@@ -61,80 +73,94 @@ public class Utility {
 			return Color.argb(255, 0, 0, 0);
 	}
 	
-	
-	public static int branchcolor(MidNode node) {// branch colour logic
-		BinaryTraitsCalculator traits = (BinaryTraitsCalculator) node.traitsCalculator;
-		// this script sets the colours of the branches
-		int colortoreturn = Color.argb(255, 100, 75, 50);
-		if (colourtype == 2) // there are two different color schemes in this
-								// version described by the colourtype variable
-		{
-			// this.lengthbr is the date of the node
-			// timelim is the cut of date beyond which the tree is not drawn
-			// (when using growth animation functions
-			if ((traits.lengthbr < 150.8) && (BinaryTraitsCalculator.timelim < 150.8)) {
-				colortoreturn = Color.argb(255, 180, 50, 25);
-			}
-			if ((traits.lengthbr < 70.6) && (BinaryTraitsCalculator.timelim < 70.6)) {
-				colortoreturn = Color.argb(255, 50, 25, 50);
-			}
-		} else {
+//	/**
+//	 * return branch colors
+//	 * @param node
+//	 * @return
+//	 */
+//	public static int branchcolor(MidNode node) {// branch colour logic
+//		TraitsCalculator traits = (TraitsCalculator) node.traitsCalculator;
+//		// this script sets the colours of the branches
+//		int colortoreturn = Color.argb(255, 100, 75, 50);
+//		if (colourtype == 2) // there are two different color schemes in this
+//								// version described by the colourtype variable
+//		{
+//			// this.lengthbr is the date of the node
+//			// timelim is the cut of date beyond which the tree is not drawn
+//			// (when using growth animation functions
+//			if ((traits.lengthbr < 150.8) && (TraitsCalculator.timelim < 150.8)) {
+//				colortoreturn = Color.argb(255, 180, 50, 25);
+//			}
+//			if ((traits.lengthbr < 70.6) && (TraitsCalculator.timelim < 70.6)) {
+//				colortoreturn = Color.argb(255, 50, 25, 50);
+//			}
+//		} else {
+//
+//			int conservation = (4 * (traits.num_CR) + 3 * (traits.num_EN) + 2
+//					* (traits.num_VU) + traits.num_NT);
+//			int num_surveyed = (traits.num_CR + traits.num_EN + traits.num_VU
+//					+ traits.num_NT + traits.num_LC);
+//			if (colourtype == 3) {
+//				if (num_surveyed == 0) {
+//					if (((traits.num_NE >= traits.num_DD) && (traits.num_NE >= traits.num_EW))
+//							&& (traits.num_NE >= traits.num_EX)) {
+//						colortoreturn = redlistcolor("NE");
+//					} else {
+//						if ((traits.num_DD >= traits.num_EX)
+//								&& (traits.num_DD >= traits.num_EW)) {
+//							colortoreturn = redlistcolor("DD");
+//						} else {
+//							if (traits.num_EW >= traits.num_EX) {
+//								colortoreturn = redlistcolor("EW");
+//							} else {
+//								colortoreturn = redlistcolor("EX");
+//							}
+//						}
+//					}
+//				} else {
+//					if ((conservation / num_surveyed) > 3.5) {
+//						colortoreturn = redlistcolor("CR");
+//					} else {
+//						if ((conservation / num_surveyed) > 2.5) {
+//							colortoreturn = redlistcolor("EN");
+//						} else {
+//							if ((conservation / num_surveyed) > 1.5) {
+//								colortoreturn = redlistcolor("VU");
+//							} else {
+//								if ((conservation / num_surveyed) > 0.5) {
+//									colortoreturn = redlistcolor("NT");
+//								} else {
+//									colortoreturn = redlistcolor("LC");
+//								}
+//							}
+//						}
+//					}
+//				}
+//			}
+//		}
+//		// the current logic uses different colorschemes for pre, post and
+//		// during the Cretaceous period, if color type = 2
+//		// otherwise it uses a fixed brown color for the branches
+//		// when the tree is growing it only allows branches to be coloured for a
+//		// certain period if the tree has already growed up to that period.
+//		return colortoreturn;
+//	}
 
-			int conservation = (4 * (traits.num_CR) + 3 * (traits.num_EN) + 2
-					* (traits.num_VU) + traits.num_NT);
-			int num_surveyed = (traits.num_CR + traits.num_EN + traits.num_VU
-					+ traits.num_NT + traits.num_LC);
-			if (colourtype == 3) {
-				if (num_surveyed == 0) {
-					if (((traits.num_NE >= traits.num_DD) && (traits.num_NE >= traits.num_EW))
-							&& (traits.num_NE >= traits.num_EX)) {
-						colortoreturn = redlistcolor("NE");
-					} else {
-						if ((traits.num_DD >= traits.num_EX)
-								&& (traits.num_DD >= traits.num_EW)) {
-							colortoreturn = redlistcolor("DD");
-						} else {
-							if (traits.num_EW >= traits.num_EX) {
-								colortoreturn = redlistcolor("EW");
-							} else {
-								colortoreturn = redlistcolor("EX");
-							}
-						}
-					}
-				} else {
-					if ((conservation / num_surveyed) > 3.5) {
-						colortoreturn = redlistcolor("CR");
-					} else {
-						if ((conservation / num_surveyed) > 2.5) {
-							colortoreturn = redlistcolor("EN");
-						} else {
-							if ((conservation / num_surveyed) > 1.5) {
-								colortoreturn = redlistcolor("VU");
-							} else {
-								if ((conservation / num_surveyed) > 0.5) {
-									colortoreturn = redlistcolor("NT");
-								} else {
-									colortoreturn = redlistcolor("LC");
-								}
-							}
-						}
-					}
-				}
-			}
-		}
-		// the current logic uses different colorschemes for pre, post and
-		// during the Cretaceous period, if color type = 2
-		// otherwise it uses a fixed brown color for the branches
-		// when the tree is growing it only allows branches to be coloured for a
-		// certain period if the tree has already growed up to that period.
-		return colortoreturn;
-	}
-
+	/**
+	 * return geological age 
+	 * @param midNode
+	 * @return
+	 */
 	public static String geologicAge(InteriorNode midNode) {
 		float lengthbr = midNode.traitsCalculator.getLengthbr();
 		return geologicAge(lengthbr);
 	}
 	
+	/**
+	 * return geological age
+	 * @param lengthbr
+	 * @return
+	 */
 	public static String geologicAge(float lengthbr) {
 		if (lengthbr > 253.8)
 			return ("pre Triassic Period");
@@ -152,14 +178,23 @@ public class Utility {
 			return ("Quaternary Period");
 	}
 	
+	/**
+	 * return string shown in growth animation
+	 * @return
+	 */
 	public static String growthInfo() {
-		float lengthbr = BinaryTraitsCalculator.timelim;
+		float lengthbr = TraitsData.timelim;
 		if (lengthbr < 0) return "Present day";
 		else {
 			return String.format("%.2f", lengthbr) + " Million years ago - " + Utility.geologicAge(lengthbr);
 		}
 	}
 
+	/**
+	 * return string shown as conservation status
+	 * @param midNode
+	 * @return
+	 */
 	public static String conservationStatus(LeafNode midNode) {
 		if (midNode.traitsCalculator.getRedlist() != null) {
 			return "Conservation status: " + conconvert(midNode.traitsCalculator.getRedlist());
@@ -168,6 +203,11 @@ public class Utility {
 		}
 	}
 
+	/**
+	 * return string shown as population stability
+	 * @param midNode
+	 * @return
+	 */
 	public static String populationStability(LeafNode midNode) {
 		String popstab = midNode.traitsCalculator.getPopstab();
 		String redlist = midNode.traitsCalculator.getRedlist();
@@ -187,6 +227,11 @@ public class Utility {
 			return "population stability unknown";
 	}
 	
+	/**
+	 * convert conservation status abbreviation to full name
+	 * @param conservation
+	 * @return
+	 */
 	private static  String conconvert(String conservation) {
 		if (conservation.equals("EX"))
 			return ("Extinct");
@@ -210,6 +255,14 @@ public class Utility {
 			return ("Not Evaluated");
 	}
 	
+	/**
+	 * combine fileindex and index of node into a new integer to reduce usage of file space.
+	 * Quite unnecessary and un-intuitive. 
+	 * This actually make the initialization part much harder to understand.
+	 * @param fileIndex
+	 * @param index
+	 * @return
+	 */
 	public static int combine(int fileIndex, int index) {
         //most significant 4 bits set as 1
         //5-22 bits set as file index

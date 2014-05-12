@@ -4,18 +4,30 @@ public class LinkHandler {
 	private static String wikiLink;
 	private static MidNode wikiNode;
 	
-	LinkHandler() {
-		
+	
+	public static String getWikiLink() {
+		return wikiLink;
 	}
 	
-	public static boolean testLink(MidNode node, float mouseX, float mouseY) {
+	public static MidNode getWikiNode() {
+		return wikiNode;
+	}
+	
+	/**
+	 * Test if finger is on wiki link
+	 * @param node
+	 * @param fingerX
+	 * @param fingerY
+	 * @return
+	 */
+	public static boolean testLink(MidNode node, float fingerX, float fingerY) {
 		if (node.positionData.dvar) {
 			if (node.child1 == null && node.child2 == null) {
-				if( testLinkClick(node, mouseX, mouseY)) return true;
+				if( testLinkClick(node, fingerX, fingerY)) return true;
 			} else {
-				if (testLinkClick(node, mouseX, mouseY)) return true;
+				if (testLinkClick(node, fingerX, fingerY)) return true;
 				else {
-					return forwardTesting(node, mouseX, mouseY);
+					return forwardTesting(node, fingerX, fingerY);
 				}
 			}
 		}
@@ -33,33 +45,36 @@ public class LinkHandler {
 		return false;
 	}
 
-	private static boolean testLinkClick(MidNode node, float mouseX, float mouseY) {
+	/**
+	 * Test if finger is on the wiki circle of a particular node.
+	 * @param node
+	 * @param fingerX
+	 * @param fingerY
+	 * @return
+	 */
+	private static boolean testLinkClick(MidNode node, float fingerX, float fingerY) {
 		float cx = node.positionData.getWikiCenterX();
 		
 		float cy = node.positionData.getWikiCenterY();
 		
 		float radius =node.positionData.getWikiRadius();
 
-		if (mouseX > cx - radius && mouseX < cx + radius
-				&& mouseY > cy - radius && mouseY < cy + radius) {
+		if (fingerX > cx - radius && fingerX < cx + radius
+				&& fingerY > cy - radius && fingerY < cy + radius) {
 			setWikiLink(node);
 			return true;
 		} else {
 			return false;
 		}
 	}
-	
-	public static String wikiLink() {
-		return wikiLink;
-	}
 
+	/**
+	 * Record the wiki link and link node.
+	 * @param node
+	 */
 	public static void setWikiLink(MidNode node) {
-		wikiLink = node.traitsCalculator.name2.toLowerCase() + "_" 
-				+ node.traitsCalculator.name1.toLowerCase();
+		wikiLink = node.traitsCalculator.getName2().toLowerCase() + "_" 
+				+ node.traitsCalculator.getName1().toLowerCase();
 		wikiNode = node;
-	}
-
-	public static MidNode wikiNode() {
-		return wikiNode;
 	}
 }

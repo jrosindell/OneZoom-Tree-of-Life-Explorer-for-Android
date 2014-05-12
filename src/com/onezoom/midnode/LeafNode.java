@@ -4,6 +4,10 @@ package com.onezoom.midnode;
 
 public class LeafNode extends MidNode {
 
+	/**
+	 * Initialize leafnode from file.
+	 * @param line
+	 */
 	public LeafNode(String[] line) {		
 		this.index = Integer.parseInt(line[0]);
 		this.parentIndex = Integer.parseInt(line[1]);
