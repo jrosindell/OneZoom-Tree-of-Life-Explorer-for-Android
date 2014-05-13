@@ -59,24 +59,25 @@ public class Initializer {
 	 * @return
 	 */
 	public MidNode createMidNode(String fileIndex) {
-		return createTreeStartFromFileIndex(fileIndex, 0, null);
+		return createTreeStartFromFileIndex(fileIndex, 0);
 	}
 	
-	public MidNode createTreeStartFromTailNode(int childIndex, MidNode midnode) {
-		int[] infos;
-		if (childIndex == 1) {
-			infos = findFileAndIndexInfo(midnode.child1Index);
-		} else {
-			infos = findFileAndIndexInfo(midnode.child2Index);
-		}
-		int fileIndex = infos[1];
+	/**
+	 * First create nodes in one file which is specified by fileIndex.
+	 * 
+	 * When the file is loaded, 
+	 * it will push nodes which have further children in other files into listOfHeadNodeInNextFile.
+	 * 
+	 * Poll the head node in next file out and if its horizon is visible, then initialize it, otherwise
+	 * push the node into the stack of non-initialized nodes.
+	 * 
+	 * @param fileIndex
+	 * @param childIndex
+	 * @return
+	 */
+	private MidNode createTreeStartFromFileIndex(String fileIndex, int childIndex) {
 		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
-		return createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(fileIndex), childIndex, midnode);
-	}
-
-	public MidNode createTreeStartFromFileIndex(String fileIndex, int childIndex, MidNode parent) {
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
-		MidNode fulltree = createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, parent);
+		MidNode fulltree = createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, null);
 		while (!listOfHeadNodeInNextFile.isEmpty()) {
 			Pair<Integer, MidNode> pair = listOfHeadNodeInNextFile.poll();
 			if (pair.first.equals(1)) {	
@@ -84,19 +85,13 @@ public class Initializer {
 				if (pair.second.positionData.dvar)
 					pair.second.child1 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 1, pair.second);
 				else {
-					Assert.assertEquals(pair.second.child1Index < 0, true);
-					Assert.assertNull(pair.second.child1);
 					stackOfNodeHasNonInitChildren.add(pair.second);
 				}
 			} else {
-				Assert.assertEquals(pair.first, Integer.valueOf(2));
 				int[] infos = findFileAndIndexInfo(pair.second.child2Index);
-				
 				if (pair.second.positionData.dvar)
 					pair.second.child2 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 2, pair.second);
 				else {
-					Assert.assertEquals(pair.second.child2Index < 0, true);
-					Assert.assertNull(pair.second.child2);
 					stackOfNodeHasNonInitChildren.add(pair.second);
 				}
 			}	
@@ -104,7 +99,17 @@ public class Initializer {
 		return fulltree;
 	}
 	
-	
+	/**
+	 * Create nodes in file 'fileIndex'.
+	 * 
+	 * 
+	 * @param canvasActivity
+	 * @param selectedGroup
+	 * @param fileIndex
+	 * @param childIndex
+	 * @param parentNode
+	 * @return
+	 */
 	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
 		Initializer.fileIndex = Integer.parseInt(fileIndex);
@@ -117,14 +122,16 @@ public class Initializer {
 		interiorHash.clear();
 		leafHash.clear();
 		try {
+			//skip the first line.
 			readerInterior.readNext();
 			readerLeaf.readNext();
+			
 			InteriorNode interiorNode;
 			LeafNode leafNode;
 			String[] nextline;
 			//create all interior node in interior file and put them into hash table
 			while ((nextline = readerInterior.readNext()) != null) {
-				interiorNode = createInteriorNode(nextline);
+				interiorNode = new InteriorNode(nextline);
 				interiorNode.fileIndex = Initializer.fileIndex;
 				interiorHash.put(interiorNode.index, interiorNode);
 				fulltreeHash.put(Utility.combine(interiorNode.fileIndex, interiorNode.index), interiorNode);
@@ -132,7 +139,7 @@ public class Initializer {
 			
 			//create all leaf node in leaf file and put them into hash table
 			while ((nextline = readerLeaf.readNext()) != null) {
-				leafNode = createLeafNode(nextline);
+				leafNode = new LeafNode(nextline);
 				leafNode.fileIndex = Initializer.fileIndex;
 				leafHash.put(leafNode.index, leafNode);
 				fulltreeHash.put(Utility.combine(leafNode.fileIndex, leafNode.index), leafNode);
@@ -142,38 +149,27 @@ public class Initializer {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		
+		//initialization always from index '0' in interior file.
 		MidNode interNode = interiorHash.get(0);
 		interNode.childIndex = childIndex;
 		interNode.parent = parentNode;
+		
+		//build connections between the nodes in this file.
 		buildConnection(interNode);
 		precalculateThisChunk(interNode);
 		return interNode;
 	}
 	
-	private void precalculateThisChunk(MidNode interNode) {
-		MidNode.precalculator.preCalcWholeTree(interNode);
-
-		if (duringInitalization) {
-			if (interNode.parent == null) {
-				MidNode.positionCalculator.recalculate(
-						interNode, PositionData.xp, PositionData.yp, PositionData.ws);
-			} else {
-				PositionData positionData = interNode.parent.positionData;
-				if (interNode.childIndex == 1) {
-					MidNode.positionCalculator.recalculate(interNode,
-							positionData.xvar + positionData.rvar * positionData.nextx1, 
-							positionData.yvar + positionData.rvar * positionData.nexty1,
-							positionData.rvar * positionData.nextr1 / 220);
-				} else {
-					MidNode.positionCalculator.recalculate(interNode,
-							positionData.xvar + positionData.rvar * positionData.nextx2,
-							positionData.yvar + positionData.rvar * positionData.nexty2,
-							positionData.rvar * positionData.nextr2 / 220);
-				}
-			}
-		}
-	}
-
+	/**
+	 * build connections between nodes starting from 'interiorNode'
+	 * 
+	 * This function connect children-parent relationship between nodes.
+	 * It also push the node that has further children need to be initialized in other files
+	 * into the listOfHeadNodeInNextFile linkList.
+	 * 
+	 * @param interiorNode
+	 */
 	private void buildConnection(MidNode interiorNode) {
 		Assert.assertEquals(interiorNode.getClass(), InteriorNode.class);
 		
@@ -212,7 +208,71 @@ public class Initializer {
 			child2.childIndex = 2;
 		}
 	}
+	
+	/**
+	 * Do recalculation starting from 'interNode'
+	 * Since it is called in createNodesInOneFile, it will actually pre-calculate nodes in that file.
+	 * 
+	 * re-calculation is needed during first initialization, since first initialization needs to load 
+	 * more than one file, which can only be achieved when dvar of head node is true.
+	 * 
+	 * When dynamically loading one file re-calculation here could be unnecessary.
+	 * 
+	 * Maybe I should do re-calculation whether it is first initialization or not... I don't know..
+	 * @param interNode
+	 */
+	private void precalculateThisChunk(MidNode interNode) {
+		MidNode.precalculator.preCalcWholeTree(interNode);
 
+		if (duringInitalization) {
+			if (interNode.parent == null) {
+				MidNode.positionCalculator.recalculate(
+						interNode, PositionData.xp, PositionData.yp, PositionData.ws);
+			} else {
+				PositionData positionData = interNode.parent.positionData;
+				if (interNode.childIndex == 1) {
+					MidNode.positionCalculator.recalculate(interNode,
+							positionData.xvar + positionData.rvar * positionData.nextx1, 
+							positionData.yvar + positionData.rvar * positionData.nexty1,
+							positionData.rvar * positionData.nextr1 / 220);
+				} else {
+					MidNode.positionCalculator.recalculate(interNode,
+							positionData.xvar + positionData.rvar * positionData.nextx2,
+							positionData.yvar + positionData.rvar * positionData.nexty2,
+							positionData.rvar * positionData.nextr2 / 220);
+				}
+			}
+		}
+	}
+	
+	/**
+	 * Load a file starting from midnode, which is a tail node from a initialized file.
+	 * 
+	 * infos[0] is not used... Maybe I should delete it....
+	 * @param childIndex
+	 * @param midnode
+	 * @return
+	 */
+	public MidNode createTreeStartFromTailNode(int childIndex, MidNode midnode) {
+		int[] infos;
+		if (childIndex == 1) {
+			infos = findFileAndIndexInfo(midnode.child1Index);
+		} else {
+			infos = findFileAndIndexInfo(midnode.child2Index);
+		}
+		int fileIndex = infos[1];
+		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
+		return createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(fileIndex), childIndex, midnode);
+	}
+
+	/**
+	 * child1ID should be a negative number. It contains fileIndex of where its further children locates.
+	 * 
+	 * The reason for using such way to decode and encode fileIndex is that to use a negative number to 
+	 * distinct from a node which has children within the file and a node whose children is in another file.
+	 * @param child1Id
+	 * @return
+	 */
 	private int[] findFileAndIndexInfo(int child1Id) {
 		int [] infos = new int[2];
 		infos[0] = 0;
@@ -220,63 +280,55 @@ public class Initializer {
 		infos[1] = infos[1] & 0x03FFFF;
 		return infos;
 	}
-
-	private LeafNode createLeafNode(String[] nextline) {
-		return new LeafNode(nextline);
-	}
-
-	private InteriorNode createInteriorNode(String[] nextline) {
-		return new InteriorNode(nextline);
-	}
 	
-
-	public MidNode createFollowingOneFile(MidNode midnode, int childIndex) {
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
-		int[] infos;
-		if (childIndex == 1) {
-			infos = findFileAndIndexInfo(midnode.child1Index);
-		} else {
-			infos = findFileAndIndexInfo(midnode.child2Index);
-		}
-		String fileIndex = Integer.toString(infos[1]);
-		return createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, midnode);
-	}
-
+	/**
+	 * Load files in idle time.
+	 * 
+	 */
 	public void idleTimeInitialization() {
 		if (!stackOfNodeHasNonInitChildren.isEmpty()) {
 			MidNode interNode = stackOfNodeHasNonInitChildren.poll();
-			//internode might have been deleted...
 			if (interNode == null) return;
 			if (interNode.child1 == null) {
-				Assert.assertEquals(interNode.child1Index < 0, true);
 				interNode.child1 = createTreeStartFromTailNode(1, interNode);
 			} else if (interNode.child2 == null){
-				Assert.assertNull(interNode.child2);
-				Assert.assertEquals(interNode.child2Index < 0, true);
 				interNode.child2 = createTreeStartFromTailNode(2, interNode);
 			}
 			listOfHeadNodeInNextFile.clear();
 		}
 	}
-
+	
+	/**
+	 * Initialize file which contains the searched node.
+	 * @param fileIndex
+	 */
 	public void initialiseSearchedFile(int fileIndex) {
 		Stack<Integer> filesNeedToBeInit = new Stack<Integer>();
 		findAllFileNeedToBeInit(fileIndex, filesNeedToBeInit);		
 		initFilesInStack(filesNeedToBeInit);
 	}
-
-	private MidNode findAllFileNeedToBeInit(int fileIndex,
+	
+	/**
+	 * Find all files need to be loaded by searching parent files until parent file has already been initialised.
+	 * @param fileIndex
+	 * @param filesNeedToBeInit
+	 * @return
+	 */
+	private void findAllFileNeedToBeInit(int fileIndex,
 			Stack<Integer> filesNeedToBeInit) {
 		filesNeedToBeInit.add(fileIndex);
 		int parentFileIndex = fileConnection.get(fileIndex);
-		if (fulltreeHash.containsKey(Utility.combine(parentFileIndex, 0))) {
-			return fulltreeHash.get(Utility.combine(parentFileIndex, 0));
-		} else {
-			return findAllFileNeedToBeInit(parentFileIndex, filesNeedToBeInit);
+		if (!fulltreeHash.containsKey(Utility.combine(parentFileIndex, 0))) {
+			//parent file has not been initialized yet.
+			findAllFileNeedToBeInit(parentFileIndex, filesNeedToBeInit);
 		}
 	}
-
 	
+	/**
+	 * Init all files in the stack.
+	 * Start from the most recently added files, which should be the parent of other files.
+	 * @param filesNeedToBeInit
+	 */
 	private void initFilesInStack(Stack<Integer> filesNeedToBeInit) {
 		while (!filesNeedToBeInit.isEmpty()) {
 			Integer fileIndex = filesNeedToBeInit.pop();
@@ -285,16 +337,23 @@ public class Initializer {
 		}
 	}
 	
-	
+	/**
+	 * searchroot should be in a file that has already been initialized.
+	 * 
+	 * Start from node find the node that has children in another file whose index equals 'fileindex'
+	 * 
+	 * @param searchroot
+	 * @param fileIndex
+	 */
 	private void initNewFile(MidNode searchroot, Integer fileIndex) {		
 		if (searchroot.child1 == null && searchroot.child1Index < 0
 				&& findFileAndIndexInfo(searchroot.child1Index)[1] == fileIndex) {
-			searchroot.child1 = createFollowingOneFile(searchroot, 1);
+			searchroot.child1 = createTreeStartFromTailNode(1, searchroot);
 		} 
 		
 		if (searchroot.child2 == null && searchroot.child2Index < 0
 				&& findFileAndIndexInfo(searchroot.child2Index)[1] == fileIndex) {
-			searchroot.child2 = createFollowingOneFile(searchroot, 2);
+			searchroot.child2 = createTreeStartFromTailNode(2, searchroot);
 		} 
 
 		if (searchroot.child1 != null && searchroot.child1Index > 0) {
@@ -305,6 +364,7 @@ public class Initializer {
 			initNewFile(searchroot.child2, fileIndex);
 		}
 	}
+
 
 	/**
 	 * This method read data from *search, which stores the parent-child relationship of files.
