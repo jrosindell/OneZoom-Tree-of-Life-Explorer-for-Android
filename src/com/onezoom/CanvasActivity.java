@@ -474,33 +474,32 @@ public class CanvasActivity extends Activity{
 	}
 
 	/**
-	 * Test whether user click is on wiki link.
-	 * If it is true, during the test, the selected node and wiki url will be marked and can
+	 * Test whether user click is on link.
+	 * If it is true, during the test, the selected node and url will be marked and can
 	 * be accessed through MidNode class method.
 	 * @param mouseX
 	 * @param mouseY
 	 * @return
 	 */
-	public boolean hasHitWikiLink(float mouseX, float mouseY) {
+	public boolean hasHitLink(float mouseX, float mouseY) {
 		return this.fulltree.testLink(mouseX, mouseY);
 	}
 
-	public void loadWikiURL() {
-		String wikiLink = "http://en.wikipedia.org/wiki/" + fulltree.wikilink();
-		webView.loadUrl(wikiLink);
+	public void loadLinkURL() {
+		webView.loadUrl(fulltree.getLink());
 	}
 	
 	/**
-	 * This method is called when user click on a wiki link.
+	 * This method is called when user click on a link.
 	 * If the node user selected contains keyword of user search, then do nothing.
 	 * Otherwise, reset the searchEngine.
 	 */
 	public void resetSearch() {
-		this.searchEngine.resetSearch(fulltree.wikilink(), fulltree.wikiNode().traitsCalculator.getCname());
+		this.searchEngine.resetSearch(fulltree.getLink(), fulltree.getLinkNode().traitsCalculator.getCname());
 	}
 	
 	private void reloadPage() {
-		loadWikiURL();
+		loadLinkURL();
 	}
 
 	public void hideKeyBoard(View view) {

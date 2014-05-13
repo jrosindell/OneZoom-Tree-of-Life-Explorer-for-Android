@@ -50,7 +50,8 @@ public class CustomDialog extends Dialog
         // instantiate our list views for each tab
         TextView textView01 = (TextView)findViewById(R.id.textView01);
         ListView listView02 = (ListView)findViewById(R.id.listView02);
-
+        TextView textView03 = (TextView)findViewById(R.id.textView03);
+        
         // register a context menu for all our listView02 items
         registerForContextMenu(listView02);
 
@@ -62,6 +63,11 @@ public class CustomDialog extends Dialog
         listView02Adapter = new ListView02Adapter(context);
         listView02.setAdapter(listView02Adapter);
 
+        
+        //set text for tab3 and enable scrolling
+        textView03.setText(Information.authorAndCredit);
+        textView03.setMovementMethod(new ScrollingMovementMethod());
+        
         // get our tabHost from the xml
         TabHost tabs = (TabHost)findViewById(R.id.TabHost01);
         tabs.setup();
@@ -69,14 +75,20 @@ public class CustomDialog extends Dialog
         // create tab 1
         TabHost.TabSpec tab1 = tabs.newTabSpec("tab1");
         tab1.setContent(R.id.textView01);
-        tab1.setIndicator("Introduction");
+        tab1.setIndicator("Instructions");
         tabs.addTab(tab1);
 
         // create tab 2
         TabHost.TabSpec tab2 = tabs.newTabSpec("tab2");
         tab2.setContent(R.id.listView02);
-        tab2.setIndicator("Colors Meaning");
+        tab2.setIndicator("Colour Key");
         tabs.addTab(tab2);
+        
+        // create tab 3
+        TabHost.TabSpec tab3 = tabs.newTabSpec("tab3");
+        tab3.setContent(R.id.textView03);
+        tab3.setIndicator("Credit");
+        tabs.addTab(tab3);
     }
 
     
@@ -98,7 +110,7 @@ public class CustomDialog extends Dialog
          */
         public int getCount()
         {
-            return 4;
+            return 9;
         }
 
         /**

@@ -83,11 +83,11 @@ public abstract class MidNode implements Comparable<MidNode>{
 
 	
 
-	public String wikilink() {
-		return LinkHandler.getWikiLink();
+	public String getLink() {
+		return LinkHandler.getLink();
 	}
 	
-	public MidNode wikiNode() {
-		return LinkHandler.getWikiNode();
+	public MidNode getLinkNode() {
+		return LinkHandler.getLinkNode();
 	}
 }

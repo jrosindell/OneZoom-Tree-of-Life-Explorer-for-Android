@@ -1,20 +1,20 @@
 package com.onezoom.midnode;
 
 public class LinkHandler {
-	private static String wikiLink;
-	private static MidNode wikiNode;
+	private static String currentLink = "";
+	private static MidNode linkNode;
 	
 	
-	public static String getWikiLink() {
-		return wikiLink;
+	public static String getLink() {
+		return currentLink;
 	}
 	
-	public static MidNode getWikiNode() {
-		return wikiNode;
+	public static MidNode getLinkNode() {
+		return linkNode;
 	}
 	
 	/**
-	 * Test if finger is on wiki link
+	 * Test if finger is on links
 	 * @param node
 	 * @param fingerX
 	 * @param fingerY
@@ -46,22 +46,28 @@ public class LinkHandler {
 	}
 
 	/**
-	 * Test if finger is on the wiki circle of a particular node.
+	 * Test if finger is on the links of a particular node.
 	 * @param node
 	 * @param fingerX
 	 * @param fingerY
 	 * @return
 	 */
 	private static boolean testLinkClick(MidNode node, float fingerX, float fingerY) {
-		float cx = node.positionData.getWikiCenterX();
+		float wikiX = node.positionData.getWikiX();
+		float wikiY = node.positionData.getWikiY();
 		
-		float cy = node.positionData.getWikiCenterY();
+		float arkiveX = node.positionData.getArkiveX();
+		float arkiveY = node.positionData.getArkiveY();
 		
-		float radius =node.positionData.getWikiRadius();
+		float radius =node.positionData.getLinkRadius();
 
-		if (fingerX > cx - radius && fingerX < cx + radius
-				&& fingerY > cy - radius && fingerY < cy + radius) {
+		if (fingerX > wikiX - radius && fingerX < wikiX + radius
+				&& fingerY > wikiY - radius && fingerY < wikiY + radius) {
 			setWikiLink(node);
+			return true;
+		} else if (fingerX > arkiveX - radius && fingerX < arkiveX + radius
+				&& fingerY > arkiveY - radius && fingerY < arkiveY + radius) {
+			setArkiveLink(node);
 			return true;
 		} else {
 			return false;
@@ -69,12 +75,39 @@ public class LinkHandler {
 	}
 
 	/**
+	 * Record the arkive link and link node.
+	 * @param node
+	 */
+	private static void setArkiveLink(MidNode node) {	
+		currentLink = "http://www.arkive.org/explore/species?q=" 
+				+ node.traitsCalculator.getName2().toLowerCase() + " " 
+				+ node.traitsCalculator.getName1().toLowerCase();
+		
+		linkNode = node;
+	}
+
+	/**
 	 * Record the wiki link and link node.
 	 * @param node
 	 */
-	public static void setWikiLink(MidNode node) {
-		wikiLink = node.traitsCalculator.getName2().toLowerCase() + "_" 
+	private static void setWikiLink(MidNode node) {
+		currentLink = "http://en.wikipedia.org/wiki/" 
+				+ node.traitsCalculator.getName2().toLowerCase() + "_" 
 				+ node.traitsCalculator.getName1().toLowerCase();
-		wikiNode = node;
+		linkNode = node;
+	}
+
+	/**
+	 * Record link and link node.
+	 * @param searchedNode
+	 */
+	public static void setLink(MidNode searchedNode) {
+		if (currentLink.contains("wikipedia")) {
+			setWikiLink(searchedNode);
+		} else if (currentLink.contains("arkive")) {
+			setArkiveLink(searchedNode);
+		} else {
+			setWikiLink(searchedNode); //set as default. it'll be used by search to match key word.
+		}
 	}
 }

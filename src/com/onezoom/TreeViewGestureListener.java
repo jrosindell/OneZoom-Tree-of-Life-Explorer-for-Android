@@ -51,10 +51,10 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 	@Override
 	public boolean onSingleTapConfirmed(MotionEvent e) {
 		treeView.client.hideKeyBoard(treeView);
-		if (treeView.client.hasHitWikiLink(e.getX(), e.getY())) {
+		if (treeView.client.hasHitLink(e.getX(), e.getY())) {
 			treeView.client.resetSearch();
 			treeView.client.hideTreeView();
-			treeView.client.loadWikiURL();
+			treeView.client.loadLinkURL();
 			treeView.client.displayWebView();	
 		}
 		

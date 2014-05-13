@@ -45,6 +45,19 @@ public class Visualizer{
 		if (drawSignPost) drawSignPost(midNode);
 	}
 	
+	/**
+	 * Call this method to draw a node and its descendants.
+	 * 
+	 * dvar tests whether the horizon of a node(including its descendants) is within the screen.
+	 * 
+	 * lengthbr is used in growth animation to select only parts of the tree which is older the time line.
+	 * 
+	 * Draw node which is inside screen but has small ratio in order add fake leafs to prevent simply
+	 * drawing a branch in the end.
+	 * 
+	 * Draw node whose lengthbr is smaller than time line to add fake leafs
+	 * @param midNode
+	 */
 	private void drawElement(MidNode midNode) {
 		if (midNode.child1 != null && midNode.positionData.dvar && midNode.traitsCalculator.getLengthbr() 
 				> TraitsData.timelim) drawElement(midNode.child1);
@@ -66,15 +79,10 @@ public class Visualizer{
 			drawElement((LeafNode)midNode);
 	}
 	
-	private void drawLeaf(MidNode midNode) {
-		if (midNode.getClass() == InteriorNode.class)
-			drawLeaf((InteriorNode)midNode);	
-		else if (midNode.getClass() == LeafNode.class) 
-			drawLeaf((LeafNode)midNode);
-	}
-
-
-
+	/**
+	 * Draw interior node.
+	 * @param midNode
+	 */
 	private void drawElement(InteriorNode midNode) {
 		drawBranch(midNode);
 		drawCircle(midNode);
@@ -84,6 +92,10 @@ public class Visualizer{
 			drawTextDetail(midNode);
 	}
 
+	/**
+	 * Draw leaf node
+	 * @param midNode
+	 */
 	private void drawElement(LeafNode midNode) {
 		drawBranch(midNode);
 		drawLeaf(midNode);
@@ -93,6 +105,150 @@ public class Visualizer{
 			drawTextDetail(midNode);
 	}
 	
+	/**
+	 * Draw circle of interior node.
+	 * @param midNode
+	 */
+	private void drawCircle(InteriorNode midNode) {
+		float r = midNode.positionData.rvar;
+		float R = r * midNode.positionData.arcr;
+		float centerX = midNode.positionData.xvar + r * midNode.positionData.arcx;
+		float centerY = midNode.positionData.yvar + r * midNode.positionData.arcy;
+		RectF rect = new RectF(
+				centerX - R * (1 - partl2 / 2.0f),
+				centerY - R * (1 - partl2 / 2.0f),	
+				centerX + R * (1 - partl2 / 2.0f),	
+				centerY + R * (1 - partl2 / 2.0f));
+		
+		paint.setStrokeWidth(R * partl2);
+
+		paint.setColor(Utility.barccolor(midNode));
+
+		canvas.drawArc(rect, 0, 360, true, paint);
+	}
+	
+	/**
+	 * Draw branch of either interior node or leaf node
+	 * @param midNode
+	 */
+	private void drawBranch(MidNode midNode) {
+		TraitsData traits = (TraitsData) midNode.traitsCalculator;
+		float x = midNode.positionData.xvar;
+		float y = midNode.positionData.yvar;
+		float r = midNode.positionData.rvar;
+		paint.setStrokeCap(Paint.Cap.ROUND);
+		paint.setStrokeWidth((float) (midNode.positionData.rvar * midNode.positionData.bezr));
+		paint.setColor(traits.getColor());
+		paint.setStyle(Paint.Style.STROKE);
+		path.reset();
+		path.moveTo(
+				(float) (x + r * midNode.positionData.bezsx), 
+				(float) (y + r * midNode.positionData.bezsy));
+		path.cubicTo(
+				(float) (x + r * midNode.positionData.bezc1x),
+				(float) (y + r * midNode.positionData.bezc1y), 
+				(float) (x + r * midNode.positionData.bezc2x),
+				(float) (y + r * midNode.positionData.bezc2y), 
+				(float) (x + r * midNode.positionData.bezex), 
+				(float) (y + r * midNode.positionData.bezey));
+		canvas.drawPath(path, paint);
+	}
+	
+	
+	/**
+	 * Draw leaf.
+	 * Sometimes draw interior node as leaf node to make the view looks nice 
+	 * @param midNode
+	 */
+	private void drawLeaf(MidNode midNode) {
+		if (midNode.getClass() == InteriorNode.class)
+			drawLeaf((InteriorNode)midNode);	
+		else if (midNode.getClass() == LeafNode.class) 
+			drawLeaf((LeafNode)midNode);
+	}
+	
+	/**
+	 * Draw leaf for leaf node.
+	 * @param midNode
+	 */
+	private void drawLeaf(LeafNode midNode) {
+		tipleaflogic(
+				midNode.positionData.xvar + midNode.positionData.rvar * midNode.positionData.arcx,
+				midNode.positionData.yvar + midNode.positionData.rvar * midNode.positionData.arcy, 
+				midNode.positionData.rvar * midNode.positionData.arcr, 
+				midNode.positionData.arcAngle, midNode);
+	}
+
+	/**
+	 * Draw fake leaf for interior node.
+	 * @param midNode
+	 */
+	private void drawLeaf(InteriorNode midNode) {
+		tipleaflogic(
+				midNode.positionData.xvar + midNode.positionData.rvar * midNode.positionData.nextx1,
+				midNode.positionData.yvar + midNode.positionData.rvar * midNode.positionData.nexty1, 
+				midNode.positionData.rvar * midNode.positionData.arcr2 * 0.55f, 
+				midNode.positionData.arcAngle, midNode);
+	}
+	
+	/**
+	 * 
+	 * @param x
+	 * @param y
+	 * @param r
+	 * @param angle
+	 * @param midNode
+	 */
+	private void tipleaflogic(float x, float y, float r, float angle,
+			MidNode midNode) {		
+		paint.setStyle(Paint.Style.FILL);
+		paint.setColor(midNode.traitsCalculator.getColor());
+		drawleaf(x, y, r, angle);
+	}
+	
+	/**
+	 * Actual drawing leaf routine.
+	 * @param x
+	 * @param y
+	 * @param r
+	 * @param angle
+	 */
+	private void drawleaf(float x, float y, float r, float angle) {
+		float tempsinpre = (float) Math.sin(angle);
+		float tempcospre = (float) Math.cos(angle);
+		float tempsin90pre = (float) Math.sin(angle + (float) Math.PI / 2.0f);
+		float tempcos90pre = (float) Math.cos(angle + (float) Math.PI / 2.0f);
+
+		float startx = x - r * (1 - partl2) * tempcospre;
+		float endx = x + r * (1 - partl2) * tempcospre;
+		float starty = y - r * (1 - partl2) * tempsinpre;
+		float endy = y + r * (1 - partl2) * tempsinpre;
+		float midy = (endy - starty) / 3.0f;
+		float midx = (endx - startx) / 3.0f;
+
+		Path path = new Path();
+		path.moveTo(startx, starty);
+		path.cubicTo(
+				startx + midx + 2f * r / 2.4f * tempcos90pre,
+				starty + midy + 2f * r / 2.4f * tempsin90pre,
+				startx + 2f * midx + 2f * r / 2.4f * tempcos90pre,
+				starty + 2f * midy + 2f * r / 2.4f * tempsin90pre,
+				endx, 
+				endy);
+		path.cubicTo(
+				startx + 2f * midx - 2f * r / 2.4f * tempcos90pre,
+				starty + 2f * midy - 2f * r / 2.4f * tempsin90pre,
+				startx + midx - 2f * r / 2.4f * tempcos90pre,
+				starty + midy - 2f * r / 2.4f * tempsin90pre,
+				startx, 
+				starty);
+		canvas.drawPath(path, paint);
+	}
+	
+	/**
+	 * Draw sign post.
+	 * @param midNode
+	 */
 	private void drawSignPost(MidNode midNode) {
 		if (midNode.traitsCalculator.getLengthbr() < TraitsData.timelim || midNode.positionData.dvar == false)
 			return;
@@ -103,24 +259,24 @@ public class Visualizer{
 				float r = midNode.positionData.rvar;
 				float x = midNode.positionData.xvar;
 				float y = midNode.positionData.yvar;
-				float radius = midNode.positionData.hxmax
-						- midNode.positionData.hxmin;
+				float radius = midNode.positionData.hxmax - midNode.positionData.hxmin;
 				if (r * radius > 1f * rangeBaseForDrawSignPost
 						&& r * radius < 4f * rangeBaseForDrawSignPost) {
-					if (!midNode.traitsCalculator.getCname().equals("null")) // white
-																	// signposts
-					{
+					//if the ratio of the node is appropriate for drawing signpost
+					//and it has a common name, then draw sign post on this node
+					if (!midNode.traitsCalculator.getCname().equals("null")) {
 						drawSignPostCircle(r, x, y, midNode);
 						drawSignPostText(r, x, y, midNode);
-						signdrawn = true;
-
+						signdrawn = true;  //prevent signpost passing down to its descendants
 					}
 
 				} else if (r * radius < 1f * rangeBaseForDrawSignPost) {
+					//ratio too samll, prevent signpost passing down.
 					signdrawn = true;
 				}
 
 				if (!signdrawn) {
+					//pass sign post drawing to children
 					drawSignPost(midNode.child1);
 					drawSignPost(midNode.child2);
 				}
@@ -128,27 +284,69 @@ public class Visualizer{
 		}
 	}
 	
+	/**
+	 * Draw the transparent circle of signpost.
+	 * @param r
+	 * @param x
+	 * @param y
+	 * @param midNode
+	 */
+	private void drawSignPostCircle(float r, float x, float y, MidNode midNode) {
+		float centerX = x + r * (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
+		float centerY = y + r * (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
+		float radius = r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
+		canvas.drawCircle(centerX, centerY, radius, signPostPaint);
+	}
+	
+	/**
+	 * Draw text on signpost
+	 * @param r
+	 * @param x
+	 * @param y
+	 * @param midNode
+	 */
 	private void drawSignPostText(float r, float x, float y, MidNode midNode) {
-		float centerX = x + r 
-				* (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
-		float centerY = y + r 
-				* (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
+		float centerX = x + r * (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
+		float centerY = y + r * (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
 		float radius = r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
 
 		if (midNode.traitsCalculator.getSignName() == null)
 			midNode.traitsCalculator.setSignName(splitStringToAtMostThreeParts(midNode.traitsCalculator.getCname()));
 		drawTextMultipleLines(midNode.traitsCalculator.getSignName(), centerX, centerY, 2f * radius, signTextPaint);
 	}
+	
+	/**
+	 * Draw rough text on interior node when ratio is small.
+	 * @param midNode
+	 */
+	private void drawTextRough(InteriorNode midNode) {
+		float x = midNode.positionData.xvar;
+		float y = midNode.positionData.yvar;
+		float r = midNode.positionData.rvar;
+		float radius = r * midNode.positionData.arcr * (1 - partl2 / 2.0f);
+		float startX = x + midNode.positionData.arcr / 2f + r * midNode.positionData.arcx - radius;
+		float startY = y + midNode.positionData.arcr / 2f + r * midNode.positionData.arcy - radius;
 
-	private void drawSignPostCircle(float r, float x, float y, MidNode midNode) {
-		float centerX = x + r 
-				* (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
-		float centerY = y + r 
-				* (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
-		float radius = r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
-		canvas.drawCircle(centerX, centerY, radius, signPostPaint);
+		String outputInfo = Float.toString(midNode.traitsCalculator.getRichness());
+
+		drawTextOneLine(outputInfo, startX + radius, startY + 0.5f * radius,
+				radius, textPaint);
+
+		if (!midNode.traitsCalculator.getCname().equals("null")) {
+			outputInfo = midNode.traitsCalculator.getCname();
+			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 0.9f * radius,
+					0.4f * radius, 1.65f * radius, textPaint);		
+		} else {
+			outputInfo = String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " Mya";
+			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 1.1f * radius,
+					0.4f * radius, 2.0f * radius, textPaint);		
+		}
 	}
 	
+	/**
+	 * Draw text in detail on interior node when ratio is high.
+	 * @param midNode
+	 */
 	private void drawTextDetail(InteriorNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
@@ -185,76 +383,11 @@ public class Visualizer{
 			this.drawTextOneLine(speciesInfo, startX, startY, lineHeight * 1.7f, textPaint);
 		}
 	}
-
-	private void drawTextRough(InteriorNode midNode) {
-		float x = midNode.positionData.xvar;
-		float y = midNode.positionData.yvar;
-		float r = midNode.positionData.rvar;
-		float radius = r * midNode.positionData.arcr * (1 - partl2 / 2.0f);
-		float startX = x + midNode.positionData.arcr / 2f + r * midNode.positionData.arcx - radius;
-		float startY = y + midNode.positionData.arcr / 2f + r * midNode.positionData.arcy - radius;
-
-		String outputInfo = Float.toString(midNode.traitsCalculator.getRichness());
-
-		drawTextOneLine(outputInfo, startX + radius, startY + 0.5f * radius,
-				radius, textPaint);
-
-		if (!midNode.traitsCalculator.getCname().equals("null")) {
-			outputInfo = midNode.traitsCalculator.getCname();
-			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 0.9f * radius,
-					0.4f * radius, 1.65f * radius, textPaint);		
-		} else {
-			outputInfo = String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " Mya";
-			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 1.1f * radius,
-					0.4f * radius, 2.0f * radius, textPaint);		
-		}
-	}
-
-	private void drawTextDetail(LeafNode midNode) {
-		float startX, startY, lineWidth, lineHeight;
-		startX = midNode.positionData.getWikiCenterX();
-		startY = midNode.positionData.getWikiCenterY();
-		lineHeight = 1.3f * midNode.positionData.rvar * midNode.positionData.arcr;
-		lineWidth = 1.5f * midNode.positionData.rvar * midNode.positionData.arcr;
-
-		String name = getLatinName(midNode);
-		String conservationString = Utility.conservationStatus(midNode);
-
-		if( !midNode.traitsCalculator.getCname().equals("null") &&
-				!midNode.traitsCalculator.getCname().equals("")){
-			drawWikiLink(startX, startY, midNode.positionData.getWikiRadius());
-			startY += lineWidth / 6f;
-			drawTextOneLine(name, startX, startY, lineWidth / 1.5f, textPaint);
-			startY += lineHeight / 5f;
-			drawTextOnTwoLines(midNode.traitsCalculator.getCname(),
-					startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
-			startY += lineHeight / 3f;
-			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
-		}
-		else {
-			drawWikiLink(startX, startY, midNode.positionData.getWikiRadius());
-			startY += lineHeight / 6f;
-			drawTextOneLine("no common name", startX, startY, lineWidth / 1.5f, textPaint);
-			startY += lineHeight / 5f;
-			drawTextOnTwoLines(name,
-					startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
-			startY += lineHeight / 3f;
-			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
-		}
-		
-	}
-
-	private void drawWikiLink(float x, float y, float radius) {
-		Paint wikiPaint = new Paint();
-		wikiPaint.setColor(Color.WHITE);
-		wikiPaint.setStyle(Paint.Style.STROKE);
-		wikiPaint.setStrokeWidth(radius / 10);
-		canvas.drawCircle(x, y, radius, wikiPaint);
-		textPaint.setTextSize(radius / 1.5f);
-		canvas.drawText("Wiki", x, y + radius * 0.15f, textPaint);
-	}
-
-
+	
+	/**
+	 * Draw rough text on leaf node when ratio is small
+	 * @param midNode
+	 */
 	private void drawTextRough(LeafNode midNode) {
 		float x = midNode.positionData.xvar;
 		float y = midNode.positionData.yvar;
@@ -267,15 +400,15 @@ public class Visualizer{
 		startY = y + r * midNode.positionData.arcy - 0.5f * temp_theight;
 		lineHeight = r * midNode.positionData.arcr;
 		lineWidth = r * midNode.positionData.arcr;
-		String name = getLatinName(midNode);
-
-		if (!midNode.traitsCalculator.getCname().equals("null")
-				&& !midNode.traitsCalculator.getCname().equals("")) {
-			drawTextMultipleLines(midNode.traitsCalculator.getCname().split(" "), startX, startY, lineHeight,
+		String latinName = midNode.traitsCalculator.getLatinName();
+		String commonName = midNode.traitsCalculator.getCname();
+		
+		if (!commonName.equals("null") && !commonName.equals("")) {
+			drawTextMultipleLines(commonName.split(" "), startX, startY, lineHeight,
 					lineWidth, textPaint);
 			return;
-		} else if (!name.equals("")) {
-			drawTextMultipleLines(name.split(" "), startX, startY, lineHeight,
+		} else if (!latinName.equals("null") && !latinName.equals("")) {
+			drawTextMultipleLines(latinName.split(" "), startX, startY, lineHeight,
 					lineWidth, textPaint);
 			return;
 		} else {
@@ -285,6 +418,68 @@ public class Visualizer{
 			return;
 		}		
 	}
+	
+	/**
+	 * Draw text in details on leaf node.
+	 * @param midNode
+	 */
+	private void drawTextDetail(LeafNode midNode) {
+		float startX, startY, lineWidth, lineHeight;
+		float startWikiX, startWikiY, startArkiveX, startArkiveY;
+		startWikiX = midNode.positionData.getWikiX();
+		startWikiY = midNode.positionData.getWikiY();
+		startArkiveX = midNode.positionData.getArkiveX();
+		startArkiveY = midNode.positionData.getArkiveY();
+		startX = (startWikiX + startArkiveX)/2;
+		startY = startWikiY;
+		lineHeight = 1.3f * midNode.positionData.rvar * midNode.positionData.arcr;
+		lineWidth = 1.5f * midNode.positionData.rvar * midNode.positionData.arcr;
+
+		String latinName = midNode.traitsCalculator.getLatinName();
+		String commonName = midNode.traitsCalculator.getCname();
+		String conservationString = Utility.conservationStatus(midNode);
+
+		if( !commonName.equals("null") && !commonName.equals("")){
+			drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
+			drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
+			startY += lineWidth / 6f;
+			drawTextOneLine(latinName, startX, startY, lineWidth / 1.5f, textPaint);
+			startY += lineHeight / 5f;
+			drawTextOnTwoLines(commonName, startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
+			startY += lineHeight / 3f;
+			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
+		}
+		else {
+			drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
+			drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
+			startY += lineHeight / 6f;
+			drawTextOneLine("no common name", startX, startY, lineWidth / 1.5f, textPaint);
+			startY += lineHeight / 5f;
+			drawTextOnTwoLines(latinName,
+					startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
+			startY += lineHeight / 3f;
+			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
+		}
+		
+	}
+
+	/**
+	 * Draw link
+	 * @param x
+	 * @param y
+	 * @param radius
+	 * @param linkName
+	 */
+	private void drawLink(float x, float y, float radius, String linkName) {
+		Paint wikiPaint = new Paint();
+		wikiPaint.setColor(Color.WHITE);
+		wikiPaint.setStyle(Paint.Style.STROKE);
+		wikiPaint.setStrokeWidth(radius / 10);
+		canvas.drawCircle(x, y, radius, wikiPaint);
+		textPaint.setTextSize(radius / linkName.length() * 3f);
+		canvas.drawText(linkName, x, y + radius * 0.15f, textPaint);
+	}
+
 	
 	private void drawTextOneLine(String outputInfo, float startX, float startY, float lineWidth, Paint paint) {
 		paint.setTextAlign(Align.CENTER);
@@ -401,102 +596,7 @@ public class Visualizer{
 		canvas.drawText(string, startX, startY, paint);		
 	}
 
-	private void drawCircle(InteriorNode midNode) {
-		float x = midNode.positionData.xvar;
-		float y = midNode.positionData.yvar;
-		float r = midNode.positionData.rvar;
-		RectF rect = new RectF((float) (x + r * (midNode.positionData.arcx) - r * midNode.positionData.arcr
-				* (1 - partl2 / 2.0f)), (float) (y + r * midNode.positionData.arcy - r
-				* midNode.positionData.arcr * (1 - partl2 / 2.0f)), (float) (x + r
-				* (midNode.positionData.arcx) + r * midNode.positionData.arcr * (1 - partl2 / 2.0f)),
-				(float) (y + r * midNode.positionData.arcy + r * midNode.positionData.arcr
-						* (1 - partl2 / 2.0f)));
-		paint.setStrokeWidth((float) (r * midNode.positionData.arcr * partl2));
 
-		paint.setColor(Utility.barccolor(midNode));
-
-		canvas.drawArc(rect, 0, 360, true, paint);
-	}
-	
-	private void drawLeaf(LeafNode midNode) {
-		tipleaflogic(midNode.positionData.xvar + midNode.positionData.rvar * midNode.positionData.arcx,
-				midNode.positionData.yvar + midNode.positionData.rvar * midNode.positionData.arcy, 
-				midNode.positionData.rvar * midNode.positionData.arcr, 
-				midNode.positionData.arcAngle, midNode);
-	}
-
-	
-	private void drawLeaf(InteriorNode midNode) {
-		tipleaflogic(midNode.positionData.xvar + 
-				+ midNode.positionData.rvar * midNode.positionData.nextx1,
-				midNode.positionData.yvar + 
-				midNode.positionData.rvar * midNode.positionData.nexty1, 
-				midNode.positionData.rvar * midNode.positionData.arcr2 * 0.55f, 
-				midNode.positionData.arcAngle, midNode);
-	}
-	
-	private void tipleaflogic(float x, float y, float r, float angle,
-			MidNode midNode) {		
-		paint.setColor(midNode.traitsCalculator.getColor());
-		drawleaf2(x, y, r, angle, midNode);
-	}
-	
-	
-	private void drawleaf2(float x, float y, float r, float angle,MidNode midNode) {
-
-		paint.setStyle(Paint.Style.FILL);
-		paint.setColor(midNode.traitsCalculator.getColor());
-
-		float tempsinpre = (float) Math.sin(angle);
-		float tempcospre = (float) Math.cos(angle);
-		float tempsin90pre = (float) Math.sin(angle + (float) Math.PI / 2.0f);
-		float tempcos90pre = (float) Math.cos(angle + (float) Math.PI / 2.0f);
-
-		float startx = x - r * (1 - partl2) * tempcospre;
-		float endx = x + r * (1 - partl2) * tempcospre;
-		float starty = y - r * (1 - partl2) * tempsinpre;
-		float endy = y + r * (1 - partl2) * tempsinpre;
-		float midy = (endy - starty) / 3.0f;
-		float midx = (endx - startx) / 3.0f;
-
-		Path path = new Path();
-		path.moveTo((float) startx, (float) starty);
-		path.cubicTo((float) (startx + midx + 2 * r / 2.4 * tempcos90pre),
-				(float) (starty + midy + 2 * r / 2.4 * tempsin90pre),
-				(float) (startx + 2 * midx + 2 * r / 2.4 * tempcos90pre),
-				(float) (starty + 2 * midy + 2 * r / 2.4 * tempsin90pre),
-				(float) (endx), (float) (endy));
-		path.cubicTo((float) (startx + 2 * midx - 2 * r / 2.4 * tempcos90pre),
-				(float) (starty + 2 * midy - 2 * r / 2.4 * tempsin90pre),
-				(float) (startx + midx - 2 * r / 2.4 * tempcos90pre),
-				(float) (starty + midy - 2 * r / 2.4 * tempsin90pre),
-				(float) (startx), (float) (starty));
-		canvas.drawPath(path, paint);
-	}
-
-	private void drawBranch(MidNode midNode) {
-		TraitsData traits = (TraitsData) midNode.traitsCalculator;
-		float x = midNode.positionData.xvar;
-		float y = midNode.positionData.yvar;
-		float r = midNode.positionData.rvar;
-		paint.setStrokeCap(Paint.Cap.ROUND);
-		paint.setStrokeWidth((float) (midNode.positionData.rvar * midNode.positionData.bezr));
-		paint.setColor(traits.getColor());
-		paint.setStyle(Paint.Style.STROKE);
-		path.reset();
-		path.moveTo(
-				(float) (x + r * midNode.positionData.bezsx), 
-				(float) (y + r * midNode.positionData.bezsy));
-		path.cubicTo(
-				(float) (x + r * midNode.positionData.bezc1x),
-				(float) (y + r * midNode.positionData.bezc1y), 
-				(float) (x + r * midNode.positionData.bezc2x),
-				(float) (y + r * midNode.positionData.bezc2y), 
-				(float) (x + r * midNode.positionData.bezex), 
-				(float) (y + r * midNode.positionData.bezey));
-		canvas.drawPath(path, paint);
-	}
-	
 	private String[] splitStringToAtMostThreeParts(String cname) {
 		int centerpoint = cname.length() / 4;
 		String[] splitstr = cname.split(" ");
@@ -558,51 +658,5 @@ public class Visualizer{
 		result[0] = print1;
 		result[1] = print2;
 		return result;
-	}
-
-	private String getLatinName(MidNode midNode) {
-		String name;
-		if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
-			name = midNode.traitsCalculator.getName2() + " " + midNode.traitsCalculator.getName1();
-		else if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
-			name = midNode.traitsCalculator.getName2();
-		else if (!midNode.traitsCalculator.getName1().equals("null") && !midNode.traitsCalculator.getName2().equals("null"))
-			name = midNode.traitsCalculator.getName1();
-		else
-			name = "no name";
-		return name;
-	}
-
-	//**********DEBUG FUNCTION******************//
-	@SuppressWarnings("unused")
-	private void drawBoundingBox(MidNode midNode) {
-		float x = midNode.positionData.xvar;
-		float y = midNode.positionData.yvar;
-		float r = midNode.positionData.rvar;
-		Paint paint = new Paint();
-		paint.setColor(Color.RED);
-		Path path = new Path();
-		path.moveTo(midNode.positionData.hxmax * r + x, y + r * midNode.positionData.hymax);
-		path.lineTo(midNode.positionData.hxmax * r + x, y + r * midNode.positionData.hymin);
-		path.lineTo(midNode.positionData.hxmin * r + x, y + r * midNode.positionData.hymin);
-		path.lineTo(midNode.positionData.hxmin * r + x, y + r * midNode.positionData.hymax);
-		path.lineTo(midNode.positionData.hxmax * r + x, y + r * midNode.positionData.hymax);
-		canvas.drawPath(path, paint);
-	}
-	
-	@SuppressWarnings("unused")
-	private void drawBoundingBox2(MidNode midNode) {
-		float x = midNode.positionData.xvar;
-		float y = midNode.positionData.yvar;
-		float r = midNode.positionData.rvar;
-		Paint paint = new Paint();
-		paint.setColor(Color.RED);
-		Path path = new Path();
-		path.moveTo(midNode.positionData.gxmax * r + x, y + r * midNode.positionData.gymax);
-		path.lineTo(midNode.positionData.gxmax * r + x, y + r * midNode.positionData.gymin);
-		path.lineTo(midNode.positionData.gxmin * r + x, y + r * midNode.positionData.gymin);
-		path.lineTo(midNode.positionData.gxmin * r + x, y + r * midNode.positionData.gymax);
-		path.lineTo(midNode.positionData.gxmax * r + x, y + r * midNode.positionData.gymax);
-		canvas.drawPath(path, paint);
 	}
 }

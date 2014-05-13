@@ -30,19 +30,27 @@ public class PositionData implements Comparable<PositionData>{
 		return ws;
 	}
 	
-	public float getWikiCenterX() {
-		return xvar + rvar * arcx;
+	public float getWikiX() {
+		return xvar + rvar * arcx - 0.12f * rvar * arcr;
 	}
 	
-	public float getWikiCenterY() {
+	public float getWikiY() {
 		float temp_theight = (rvar * Visualizer.leafmult * Visualizer.partc
 				- rvar * Visualizer.leafmult * Visualizer.partl2)
 				* Visualizer.Tsize / 3.0f;
 		return yvar + rvar * arcy - temp_theight * 2.25f;
 	}
 	
-	public float getWikiRadius() {
-		return 0.12f * rvar * arcr;
+	public float getArkiveX() {
+		return xvar + rvar * arcx  + 0.12f * rvar * arcr;
+	}
+
+	public float getArkiveY() {
+		return getWikiY();
+	}
+	
+	public float getLinkRadius() {
+		return 0.105f * rvar * arcr;
 	}
 	
 	public static void setScreenSize(int left, int bottom, int width, int height) {

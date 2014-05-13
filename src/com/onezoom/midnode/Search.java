@@ -122,7 +122,7 @@ public class Search {
 	 * If the node has been initialized, then return it directly, 
 	 * otherwise initialize the file that contains the node.
 	 * 
-	 * Then set wiki link in case search is executed in web view. 
+	 * Then set link in case search is executed in web view. 
 	 * Then reanchor search node and move it to the center of the screen.
 	 * @param record
 	 */
@@ -136,7 +136,7 @@ public class Search {
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		}
 		
-		LinkHandler.setWikiLink(searchedNode);
+		LinkHandler.setLink(searchedNode);
 		PositionCalculator.reanchorNode(searchedNode);
 		client.moveRootToCenter();
 		PositionData.moveNodeToCenter(searchedNode);
@@ -206,13 +206,13 @@ public class Search {
 	}
 
 	/**
-	 * If both wiki name, which contains latin name of a node and cname does not contains the previous
+	 * If both link name, which contains latin name of a node and cname does not contains the previous
 	 * search key word, then reset previousSearch to empty.
-	 * @param wikilink
+	 * @param link
 	 * @param cname
 	 */
-	public void resetSearch(String wikilink, String cname) {
-		if (!wikilink.toLowerCase(Locale.ENGLISH).contains(previousSearch.toLowerCase(Locale.ENGLISH))
+	public void resetSearch(String link, String cname) {
+		if (!link.toLowerCase(Locale.ENGLISH).contains(previousSearch.toLowerCase(Locale.ENGLISH))
 				&& !cname.toLowerCase(Locale.ENGLISH).contains(previousSearch.toLowerCase(Locale.ENGLISH))) {
 			this.previousSearch = "";
 		}

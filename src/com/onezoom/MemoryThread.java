@@ -160,17 +160,17 @@ class MemoryHandler extends Handler {
 			break;
 		case MemoryThread.MSG_SEARCH_LOAD:
 			searchEngine.performSearch((String)msg.obj);
-			client.loadWikiURL();
+			client.loadLinkURL();
 			client.webView.postInvalidate();
 			break;
 		case MemoryThread.MSG_BACK_SEARCH_LOAD:
 			searchEngine.performBackSearch();
-			client.loadWikiURL();
+			client.loadLinkURL();
 			client.webView.postInvalidate();
 			break;
 		case MemoryThread.MSG_FORWARD_SEARCH_LOAD:
 			searchEngine.performForwardSearch();
-			client.loadWikiURL();
+			client.loadLinkURL();
 			client.webView.postInvalidate();
 			break;
 		}

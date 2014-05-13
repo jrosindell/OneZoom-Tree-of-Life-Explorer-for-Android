@@ -116,7 +116,7 @@ class growthHandler extends Handler {
 			this.sendEmptyMessage(GrowthThread.MSG_REVERT);
 			break;			
 		case GrowthThread.MSG_REVERT:
-			TraitsData.timelim += 0.4;
+			TraitsData.timelim += 0.65;
 			client.treeView.setDuringInteraction(false);
 			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
@@ -136,7 +136,7 @@ class growthHandler extends Handler {
 			this.sendEmptyMessage(GrowthThread.MSG_PLAY);
 			break;
 		case GrowthThread.MSG_PLAY:
-			TraitsData.timelim -= 0.4;
+			TraitsData.timelim -= 0.65;
 			client.treeView.setDuringInteraction(false);
 			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();

@@ -97,4 +97,17 @@ public class TraitsData{
 	public void setSignName(String[] signName) {
 		this.signName = signName;
 	}
+	
+	public String getLatinName() {
+		String name;
+		if (!getName1().equals("null") && !getName2().equals("null"))
+			name = getName2() + " " + getName1();
+		else if (!getName1().equals("null") && !getName2().equals("null"))
+			name = getName2();
+		else if (!getName1().equals("null") && !getName2().equals("null"))
+			name = getName1();
+		else
+			name = "no name";
+		return name;
+	}
 }

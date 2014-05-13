@@ -34,7 +34,14 @@
             android:layout_height="wrap_content"
             android:scrollbars="vertical"
             android:scrollbarFadeDuration="1000000"/>
-
+        
+        <TextView 
+            android:id="@+id/textView03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            android:scrollbarFadeDuration="1000000"/>
+        
         </FrameLayout>
     </LinearLayout>
 </TabHost>
