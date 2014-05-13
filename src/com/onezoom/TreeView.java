@@ -1,5 +1,6 @@
 package com.onezoom;
 
+import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
 
@@ -217,7 +218,7 @@ public class TreeView extends View {
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
 			canvas.drawColor(Color.WHITE);
-			client.getTreeRoot().drawElement(canvas);
+			MidNode.visualizer.drawTree(canvas, client.getTreeRoot());
 			if (this.isDuringGrowthAnimation()) {
 				drawGrowthPeriodInfo(canvas, paint);
 			}

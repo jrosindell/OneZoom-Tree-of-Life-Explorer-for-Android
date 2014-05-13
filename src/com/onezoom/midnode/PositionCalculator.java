@@ -5,211 +5,43 @@ public class PositionCalculator {
 	private static boolean dynamic;
 	private static boolean reanchored;
 	
+	public static boolean isDynamic() {
+		return dynamic;
+	}
+
+
+	public static void setDynamic(boolean dynamic) {
+		PositionCalculator.dynamic = dynamic;
+	}
+
+
+	public static boolean isReanchored() {
+		return reanchored;
+	}
+
+
+	public static void setReanchored(boolean reanchored) {
+		PositionCalculator.reanchored = reanchored;
+	}
+	
+	/**
+	 * re-calculate as the tree is anchored at root.
+	 * @param midnode
+	 * @param xp
+	 * @param yp
+	 * @param ws
+	 */
 	public void recalculate(MidNode midnode, float xp, float yp, float ws) {
 		drawreg2(xp, yp, ws * 220, midnode);
 	}
-
 	
-	public void recalculateDynamic(float xp, float yp, float ws, MidNode midNode) {
-		drawregDynamic(xp, yp, ws * 220, midNode);
-	}
-
-
-	public void calculateBoundingBox(MidNode midNode) {
-		if (midNode.child1 != null) {
-			MidNode.positionCalculator.calculateBoundingBox(midNode.child1);
-		}
-		if (midNode.child2 != null) {
-			MidNode.positionCalculator.calculateBoundingBox(midNode.child2);
-		}
-		calculateSelfBoundingBox(midNode);
-	}
-	
-	public void calculateGBoundingBox(MidNode midNode) {
-		float [] maxAndMinX =new float [2];
-		float [] maxAndMinY =new float [2];
-
-		maxAndMinX = findMaxAndMin(
-				midNode.positionData.bezsx,
-				midNode.positionData.bezex,
-				midNode.positionData.bezc1x,
-				midNode.positionData.bezc2x);
-		
-		midNode.positionData.gxmax = maxAndMinX[0] + midNode.positionData.bezr / 2;
-		midNode.positionData.gxmin = maxAndMinX[1] - midNode.positionData.bezr / 2;
-		
-		maxAndMinY = findMaxAndMin(
-				midNode.positionData.bezsy,
-				midNode.positionData.bezey,
-				midNode.positionData.bezc1y,
-				midNode.positionData.bezc2y);
-		
-		midNode.positionData.gymax = maxAndMinY[0] + midNode.positionData.bezr / 2;
-		midNode.positionData.gymin = maxAndMinY[1] - midNode.positionData.bezr / 2;
-		
-		// expand the bounding box to include the arc if necessary
-		if (midNode.positionData.gxmax < (midNode.positionData.arcx + midNode.positionData.arcr)) {
-			midNode.positionData.gxmax = (midNode.positionData.arcx + midNode.positionData.arcr);
-		}
-		if (midNode.positionData.gxmin > (midNode.positionData.arcx - midNode.positionData.arcr)) {
-			midNode.positionData.gxmin = (midNode.positionData.arcx - midNode.positionData.arcr);
-		}
-		if (midNode.positionData.gymax < (midNode.positionData.arcy + midNode.positionData.arcr)) {
-			midNode.positionData.gymax = (midNode.positionData.arcy + midNode.positionData.arcr);
-		}
-		if (midNode.positionData.gymin > (midNode.positionData.arcy - midNode.positionData.arcr)) {
-			midNode.positionData.gymin = (midNode.positionData.arcy - midNode.positionData.arcr);
-		}
-		
-		if (midNode.getClass() == LeafNode.class) {
-			midNode.positionData.hxmax = midNode.positionData.gxmax;
-			midNode.positionData.hxmin = midNode.positionData.gxmin;
-			midNode.positionData.hymax = midNode.positionData.gymax;
-			midNode.positionData.hymin = midNode.positionData.gymin;
-		}
-	}
-	
-	private void calculateSelfBoundingBox(MidNode midNode) {
-		calculateGBoundingBox(midNode);
-		
-		midNode.positionData.hxmax = midNode.positionData.gxmax;
-		midNode.positionData.hxmin = midNode.positionData.gxmin;
-		midNode.positionData.hymax = midNode.positionData.gymax;
-		midNode.positionData.hymin = midNode.positionData.gymin;
-		
-		float max, min;
-		
-		if (midNode.child1 == null || midNode.child2 == null) return;
-		
-		max = findMax(
-				midNode.positionData.hxmax,
-				midNode.positionData.nextx1 + midNode.positionData.nextr1 * midNode.child1.positionData.hxmax,
-				midNode.positionData.nextx2 + midNode.positionData.nextr2 * midNode.child2.positionData.hxmax);
-		midNode.positionData.hxmax = max;
-		
-		min = findMin(
-				midNode.positionData.hxmin,
-				midNode.positionData.nextx1 + midNode.positionData.nextr1 * midNode.child1.positionData.hxmin,
-				midNode.positionData.nextx2 + midNode.positionData.nextr2 * midNode.child2.positionData.hxmin);
-		midNode.positionData.hxmin = min;
-		
-		max = findMax(
-				midNode.positionData.hymax,
-				midNode.positionData.nexty1 + midNode.positionData.nextr1 * midNode.child1.positionData.hymax,
-				midNode.positionData.nexty2 + midNode.positionData.nextr2 * midNode.child2.positionData.hymax);
-		midNode.positionData.hymax = max;
-		
-		min = findMin(
-				midNode.positionData.hymin,
-				midNode.positionData.nexty1 + midNode.positionData.nextr1 * midNode.child1.positionData.hymin,
-				midNode.positionData.nexty2 + midNode.positionData.nextr2 * midNode.child2.positionData.hymin);
-		midNode.positionData.hymin = min;
-	}
-
-	private float[] findMaxAndMin(float a, float b, float c,
-			float d) {
-		float[] result = new float [2];
-		result[0] = a;
-		result[1] = a;
-	
-		if (b > result[0]) 
-			result[0] = b;
-		else if(b < result[1]) 
-			result[1] = b;
-		
-		if (c > result[0]) 
-			result[0] = c;
-		else if(c < result[1]) 
-			result[1] = c;
-		
-		if (d > result[0]) 
-			result[0] = d;
-		else if (d < result[1])
-			result[1] = d;
-	
-		return result;
-	}
-
-	private float findMin(float a, float b, float c) {
-		float min = a;
-		if (min > b) min = b;
-		if (min > c) min = c;
-		return min;
-	}
-
-	private float findMax(float a, float b, float c) {
-		float max = a;
-		if (max < b) max = b;
-		if (max < c) max = c;
-		return max;
-	}
-	
-	public static void reanchorNode(MidNode searchedNode) {
-		reanchorNode(searchedNode, 0);
-	}
-	
-	private static  void reanchorNode(MidNode searchedNode, int deanchorWhichChild) {
-		searchedNode.positionData.graphref = true;
-		if (searchedNode.child1 != null && deanchorWhichChild == 0) {
-			deanchorNode(searchedNode.child1);
-			deanchorNode(searchedNode.child2);
-		} else if (searchedNode.child2 != null && deanchorWhichChild == 1) {
-			deanchorNode(searchedNode.child2);
-		} else if (searchedNode.child1 != null && deanchorWhichChild == 2) {
-			deanchorNode(searchedNode.child1);
-		}		
-		if (searchedNode.parent != null) {
-			reanchorNode(searchedNode.parent, searchedNode.childIndex);
-		}
-	}
-	
-	private static void deanchorNode(MidNode midNode) {
-		midNode.positionData.graphref = false;
-	}
-	
-	public void reanchor(MidNode midNode) {
-		if (midNode.positionData.dvar) {
-			midNode.positionData.graphref = true;
-			if (
-					((midNode.positionData.gvar) || (midNode.child1 == null))
-					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 30))
-				) {
-				// reanchor here
-				reanchored = true;
-				PositionData.xp = midNode.positionData.xvar;
-				PositionData.yp = midNode.positionData.yvar;
-				PositionData.ws = midNode.positionData.rvar / 220;
-
-				if (midNode.child1 != null) {
-					deanchor(midNode.child2);
-					deanchor(midNode.child1);
-				}
-			} else {
-				// reanchor somewhere down the line
-				if (midNode.child1.positionData.dvar) {
-					reanchor(midNode.child1);
-					deanchor(midNode.child2);
-
-				} else {
-					reanchor(midNode.child2);
-					deanchor(midNode.child1);
-				}
-			}
-		}
-		// else not possible to reanchor
-	}
-
-	private void deanchor(MidNode midNode) {
-		if (midNode.positionData.graphref) {
-			if (midNode.child1 != null) {
-				deanchor(midNode.child1);
-				deanchor(midNode.child2);
-			}
-			midNode.positionData.graphref = false;
-		}
-	}
-
-
+	/**
+	 * Do actual position calculation.
+	 * @param x
+	 * @param y
+	 * @param r
+	 * @param midnode
+	 */
 	private void drawreg2(float x, float y, float r, MidNode midnode) {
 		midnode.positionData.xvar = x;
 		midnode.positionData.yvar = y;
@@ -229,10 +61,40 @@ public class PositionCalculator {
 					r * midnode.positionData.nextr2, midnode.child2);
 		}
 	}
+
+	/**
+	 * re-calculate from anchored node.
+	 * @param xp
+	 * @param yp
+	 * @param ws
+	 * @param midNode
+	 */
+	public void recalculateDynamic(float xp, float yp, float ws, MidNode midNode) {
+		drawregDynamic(xp, yp, ws * 220, midNode);
+	}
+
 	
+	/**
+	 * The same as website code.
+	 * 
+	 * If a node's child1 graphref is true, then trace down the child1 to find the re-anchored node.
+	 * Then use child1 to calculate back the position of this node.
+	 * 
+	 * The same rule applys to child2.
+	 * 
+	 * If both children's graphref of a node is false, then this node is re-anchored. So call drawreg2Dynamic
+	 * to re-calculate this node.
+	 * @param xp
+	 * @param yp
+	 * @param r
+	 * @param midNode
+	 */
 	private void drawregDynamic(float xp, float yp, float r, MidNode midNode) {
 		if (midNode.child1 != null && midNode.child1.positionData.graphref) {
+			//re-anchored node is child1 or its descendants.
 			drawregDynamic(xp, yp, r, midNode.child1);
+			
+			//using child1 to back calculating this node.
 			midNode.positionData.rvar = midNode.child1.positionData.rvar
 					/ midNode.positionData.nextr1;
 			midNode.positionData.xvar = midNode.child1.positionData.xvar
@@ -247,8 +109,8 @@ public class PositionCalculator {
 			}
 
 			if (midNode.positionData.horizonInsideScreen()) {
-				if (midNode.child2 != null
-						&& midNode.positionData.nodeBigEnoughToDisplay()) {
+				//re-calculate child2
+				if (midNode.child2 != null && midNode.positionData.nodeBigEnoughToDisplay()) {
 					drawreg2Dynamic(
 							midNode.positionData.xvar
 									+ ((midNode.positionData.rvar) * (midNode.positionData.nextx2)),
@@ -279,16 +141,23 @@ public class PositionCalculator {
 				// node horizon not inside screen
 				midNode.positionData.gvar = false;
 			}
+			
+			
 			if (midNode.child1.positionData.dvar
 					|| ((midNode.child2 != null) && midNode.child2.positionData.dvar)) {
 				midNode.positionData.dvar = true;
 			}			
 			
-			if (dynamic && midNode.child2 == null)
+			if (
+					midNode.positionData.dvar &&
+					midNode.getClass() == InteriorNode.class &&
+					dynamic &&
+					midNode.child2 == null) {
+				//dynamically add child2
 				midNode.child2 = MidNode.initializer.createTreeStartFromTailNode(2, midNode);
+			}
 			
-		} else if (midNode.child2 != null
-				&& midNode.child2.positionData.graphref) {
+		} else if (midNode.child2 != null && midNode.child2.positionData.graphref) {
 			drawregDynamic(xp, yp, r, midNode.child2);
 			midNode.positionData.rvar = midNode.child2.positionData.rvar
 					/ midNode.positionData.nextr2;
@@ -340,14 +209,26 @@ public class PositionCalculator {
 				midNode.positionData.dvar = true;
 			}			
 			
-			if (dynamic && midNode.child1 == null)
+			if (
+					midNode.positionData.dvar &&
+					midNode.getClass() == InteriorNode.class &&
+					dynamic &&
+					midNode.child1 == null)
 				midNode.child1 = MidNode.initializer.createTreeStartFromTailNode(1, midNode);
 			
 		} else {
+			//midNode is the re-anchored node. 
 			drawreg2Dynamic(xp, yp, r, midNode);
 		}
 	}
 	
+	/**
+	 * Similar to drawreg2. But if dynamic is set to true, it will create new nodes from file.
+	 * @param x
+	 * @param y
+	 * @param r
+	 * @param midnode
+	 */
 	private void drawreg2Dynamic(float x, float y, float r, MidNode midnode) {
 		midnode.positionData.xvar = x;
 		midnode.positionData.yvar = y;
@@ -361,8 +242,11 @@ public class PositionCalculator {
 			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
-		} else if (midnode.positionData.dvar && midnode.child1 == null && midnode.getClass() == InteriorNode.class) {
-			if (dynamic)
+		} else if (
+				midnode.positionData.dvar && 
+				midnode.child1 == null && 
+				midnode.getClass() == InteriorNode.class && 
+				dynamic) {
 				midnode.child1 = MidNode.initializer.createTreeStartFromTailNode(1, midnode);
 		}
 		
@@ -371,8 +255,11 @@ public class PositionCalculator {
 			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
-		} else if (midnode.child2 == null && midnode.positionData.dvar && midnode.getClass() == InteriorNode.class) {
-			if (dynamic)
+		} else if (
+				midnode.child2 == null && 
+				midnode.positionData.dvar && 
+				midnode.getClass() == InteriorNode.class &&
+				dynamic) {
 				midnode.child2 = MidNode.initializer.createTreeStartFromTailNode(2, midnode);
 		}
 	}
@@ -399,24 +286,164 @@ public class PositionCalculator {
 			midNode.child2 = null;
 		}
 	}
+	
+	/**
+	 * Calculate bounding box of a node. 
+	 * 
+	 * Notice the bounding box does not include the descendants of the node.
+	 * The 'H' bounding box which includes the descendants are loaded from file.
+	 * @param midNode
+	 */
+	public void calculateGBoundingBox(MidNode midNode) {
+		float max, min;
 
+		max = findMax(
+				midNode.positionData.bezsx,
+				midNode.positionData.bezex,
+				midNode.positionData.bezc1x,
+				midNode.positionData.bezc2x);
+		
+		min = findMin(
+				midNode.positionData.bezsx,
+				midNode.positionData.bezex,
+				midNode.positionData.bezc1x,
+				midNode.positionData.bezc2x);
+		
+		midNode.positionData.gxmax = max + midNode.positionData.bezr / 2;
+		midNode.positionData.gxmin = min - midNode.positionData.bezr / 2;
+		
+		max = findMax(
+				midNode.positionData.bezsy,
+				midNode.positionData.bezey,
+				midNode.positionData.bezc1y,
+				midNode.positionData.bezc2y);
+		
+		min = findMin(
+				midNode.positionData.bezsy,
+				midNode.positionData.bezey,
+				midNode.positionData.bezc1y,
+				midNode.positionData.bezc2y);
+		
+		midNode.positionData.gymax = max + midNode.positionData.bezr / 2;
+		midNode.positionData.gymin = min - midNode.positionData.bezr / 2;
+		
+		// expand the bounding box to include the arc if necessary
+		midNode.positionData.gxmax = 
+				Math.max(midNode.positionData.gxmax, midNode.positionData.arcx + midNode.positionData.arcr);
+		midNode.positionData.gxmin = 
+				Math.min(midNode.positionData.gxmin, midNode.positionData.arcx - midNode.positionData.arcr);
+		midNode.positionData.gymax =
+				Math.max(midNode.positionData.gymax, midNode.positionData.arcy + midNode.positionData.arcr);
+		midNode.positionData.gymin =
+				Math.min(midNode.positionData.gymin, midNode.positionData.arcy - midNode.positionData.arcr);
+		
+		if (midNode.getClass() == LeafNode.class) {
+			midNode.positionData.hxmax = midNode.positionData.gxmax;
+			midNode.positionData.hxmin = midNode.positionData.gxmin;
+			midNode.positionData.hymax = midNode.positionData.gymax;
+			midNode.positionData.hymin = midNode.positionData.gymin;
+		}
+	}
+	
+	private float findMax(float a, float b, float c, float d) {
+		return Math.max(Math.max(a, b), Math.max(c, d));
+	}
+	
+	private float findMin(float a, float b, float c, float d) {
+		return Math.min(Math.min(a, b), Math.min(c, d));
+	}
+	
+	/**
+	 * re-anchor the tree to 'searchedNode'
+	 * @param searchedNode
+	 */
+	public static void reanchorNode(MidNode searchedNode) {
+		reanchorNode(searchedNode, 0);
+	}
+	
+	/**
+	 * First called from reanchorNode and deanchorOppositeChild is 0, means deanchor both children 
+	 * of searchedNode.
+	 * 
+	 * Then reanchor passed up until parent equals null, which means reanchoring reaches the root.
+	 * 
+	 * set deanchorOpposite child as childIndex to deanchor another side of the children.
+	 * 
+	 * For example, if searchedNode's childIndex is 1, then calling reanchorNode (searchedNode.parent, 1)
+	 * will call deanchorNode(searchedNode.parent.child2) afterwards.
+	 * @param searchedNode
+	 * @param deanchorOppositeChild
+	 */
+	private static  void reanchorNode(MidNode searchedNode, int deanchorOppositeChild) {
+		searchedNode.positionData.graphref = true;
+		if (searchedNode.child1 != null && searchedNode.child2 != null && deanchorOppositeChild == 0) {
+			deanchorNode(searchedNode.child1);
+			deanchorNode(searchedNode.child2);
+		} else if (searchedNode.child2 != null && deanchorOppositeChild == 1) {
+			deanchorNode(searchedNode.child2);
+		} else if (searchedNode.child1 != null && deanchorOppositeChild == 2) {
+			deanchorNode(searchedNode.child1);
+		}		
+		if (searchedNode.parent != null) {
+			reanchorNode(searchedNode.parent, searchedNode.childIndex);
+		}
+	}
+	
+	/**
+	 * de-anchor node.
+	 * @param midNode
+	 */
+	private static void deanchorNode(MidNode midNode) {
+		midNode.positionData.graphref = false;
+	}
+	
+	/**
+	 * This function acts the same as in website version
+	 * @param midNode
+	 */
+	public void reanchor(MidNode midNode) {
+		if (midNode.positionData.dvar) {
+			midNode.positionData.graphref = true;
+			if (
+					((midNode.positionData.gvar) || (midNode.child1 == null))
+					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 30))
+				) {
+				// reanchor here
+				reanchored = true;
+				PositionData.xp = midNode.positionData.xvar;
+				PositionData.yp = midNode.positionData.yvar;
+				PositionData.ws = midNode.positionData.rvar / 220;
 
-	public static boolean isDynamic() {
-		return dynamic;
+				if (midNode.child1 != null) {
+					deanchor(midNode.child2);
+					deanchor(midNode.child1);
+				}
+			} else {
+				// reanchor somewhere down the line
+				if (midNode.child1.positionData.dvar) {
+					reanchor(midNode.child1);
+					deanchor(midNode.child2);
+
+				} else {
+					reanchor(midNode.child2);
+					deanchor(midNode.child1);
+				}
+			}
+		}
+		// else not possible to reanchor
 	}
 
-
-	public static void setDynamic(boolean dynamic) {
-		PositionCalculator.dynamic = dynamic;
-	}
-
-
-	public static boolean isReanchored() {
-		return reanchored;
-	}
-
-
-	public static void setReanchored(boolean reanchored) {
-		PositionCalculator.reanchored = reanchored;
+	/**
+	 * Same as website version.
+	 * @param midNode
+	 */
+	private void deanchor(MidNode midNode) {
+		if (midNode.positionData.graphref) {
+			if (midNode.child1 != null) {
+				deanchor(midNode.child1);
+				deanchor(midNode.child2);
+			}
+			midNode.positionData.graphref = false;
+		}
 	}
 }

@@ -1,13 +1,11 @@
 package com.onezoom.midnode;
 
-import android.graphics.Canvas;
-
-import com.onezoom.CanvasActivity;
-
 public abstract class MidNode implements Comparable<MidNode>{
-	public static Initializer initializer = new Initializer();
+	//initializer contains different file information for different species.
+	//Therefore, it needs to be destroy and create after quit and start the corresponding activity.
+	public static Initializer initializer;
 	public static Precalculator precalculator = new Precalculator();
-	protected static Visualizer visualizer = new Visualizer();
+	public static Visualizer visualizer = new Visualizer();
 	public static PositionCalculator positionCalculator = new PositionCalculator();
 	
 	public PositionData positionData = new PositionData();
@@ -23,38 +21,38 @@ public abstract class MidNode implements Comparable<MidNode>{
 	public int index;
 	public MidNode parent = null;
 	
-	public static MidNode createNode(String fileIndex) {
-		initializer.setDynamic(false);
-		return initializer.createMidNode(fileIndex);
-	}
-
-	public static void setScreenSize(int left, int bottom, int width, int height) {
-		PositionData.setScreenSize(left, bottom, width, height);
+	public MidNode getParent() { return parent; }
+	
+	/**
+	 * Loading tree from file to memory starting from *interior0
+	 * @return
+	 */
+	public static MidNode startLoadingTree() {
+		initializer.setDuringInitialization(true);
+		return initializer.createMidNode("0");
 	}
 	
-	public static void setContext(CanvasActivity context) {
-		Initializer.setContext(context);
-	}
-	
-	public void preCalculateWholeTree() {
-		MidNode.precalculator.preCalcWholeTree(this);
-	}
-	
-	public void drawElement(Canvas canvas) {
-		visualizer.drawTree(canvas, this);
-	}
-	
-	public void recalculate(float xp, float yp, float ws) {
-		positionCalculator.recalculate(this, xp, yp, ws);
-	}
-	
+	/**
+	 * re-calculate the tree. 
+	 * 
+	 * This function recalculate from the root the tree rather than re-anchored node.
+	 * After re-calculation, re-anchor the tree to a new node.
+	 */
 	public void recalculate() {
 		positionCalculator.recalculate(this, PositionData.xp, PositionData.yp, PositionData.ws);
 		MidNode.positionCalculator.reanchor(this);
 	}
 	
-	public MidNode getParent() { return parent; }
-
+	/**
+	 * re-calculate the tree
+	 * 
+	 * This function recalculate the tree from a re-anchored node.
+	 * More detail can be seen in positionCalculator.java.
+	 * 
+	 * Set dynamic first to prevent dynamically loading chunks from file.
+	 * Then re-anchor the tree and set dynamic to true to 
+	 * calculate new position and load new file at the same time.
+	 */
 	public void recalculateDynamic() {
 		PositionCalculator.setDynamic(false);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
@@ -67,27 +65,32 @@ public abstract class MidNode implements Comparable<MidNode>{
 	}
 
 	public void recalculateDynamic(float xp, float yp, float ws) {		
-		initializer.setDynamic(true);
+		initializer.setDuringInitialization(false);
 		positionCalculator.recalculateDynamic(xp, yp, ws, this);
 	}
 	
+	/**
+	 * Used to decide which file to be loaded first.
+	 */
 	@Override
 	public int compareTo(MidNode another) {
 		return this.positionData.compareTo(another.positionData);
 	}
 
-
-	public boolean testLink(float mouseX, float mouseY) {
-		return LinkHandler.testLink(this, mouseX, mouseY);
+	/**
+	 * Unlink current initializer. Called when the activity is being destroyed.
+	 */
+	public static void destory() {
+		initializer = null;
 	}
 
-	
-
-	public String getLink() {
-		return LinkHandler.getLink();
-	}
-	
-	public MidNode getLinkNode() {
-		return LinkHandler.getLinkNode();
+	/**
+	 * Create new initializer. 
+	 * 
+	 * Called when the activity starts. 
+	 * Called within memoryThread to assure it is being created before initialization.
+	 */
+	public static void createStaticObjects() {
+		initializer = new Initializer();
 	}
 }

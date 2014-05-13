@@ -11,7 +11,6 @@ import java.util.Stack;
 
 import junit.framework.Assert;
 import android.content.Context;
-import android.graphics.Color;
 import android.util.Pair;
 import au.com.bytecode.opencsv.CSVReader;
 
@@ -25,27 +24,41 @@ public class Initializer {
 	LinkedList<Pair<Integer, MidNode>> listOfHeadNodeInNextFile;
 	public PriorityQueue<MidNode> stackOfNodeHasNonInitChildren;
 	public static CanvasActivity canvasActivity;
-	boolean dynamic = false;
+	boolean duringInitalization = false;
 	public static int fileIndex;
 
 	public Initializer() {
 		fileConnection = new Hashtable<Integer, Integer>(1000);
-		fulltreeHash = new Hashtable<Integer, MidNode>(20000);
+		fulltreeHash = new Hashtable<Integer, MidNode>(60000);
 		interiorHash = new Hashtable<Integer, InteriorNode>(1000);
 		leafHash = new Hashtable<Integer, LeafNode>(1000);
 		listOfHeadNodeInNextFile = new LinkedList<Pair<Integer,MidNode>>();
 		stackOfNodeHasNonInitChildren = new PriorityQueue<MidNode>();
 	}
+	
+	public boolean isDuringInitialization() {
+		return duringInitalization;
+	}
 
+	public void setDuringInitialization(boolean dynamic) {
+		this.duringInitalization = dynamic;
+	}
+
+	/**
+	 * Set context and build file connection.
+	 * @param context
+	 */
 	public static void setContext(CanvasActivity context) {
 		canvasActivity = context;
 		fillFileConnection();
 	}
 	
+	/**
+	 * When the activity starts, this method will be called to build the tree.
+	 * @param fileIndex
+	 * @return
+	 */
 	public MidNode createMidNode(String fileIndex) {
-		listOfHeadNodeInNextFile.clear();
-		fulltreeHash.clear();
-//		initialisedFile.clear();
 		return createTreeStartFromFileIndex(fileIndex, 0, null);
 	}
 	
@@ -136,33 +149,25 @@ public class Initializer {
 		precalculateThisChunk(interNode);
 		return interNode;
 	}
-
-	public boolean isDynamic() {
-		return dynamic;
-	}
-
-	public void setDynamic(boolean dynamic) {
-		this.dynamic = dynamic;
-	}
 	
 	private void precalculateThisChunk(MidNode interNode) {
 		MidNode.precalculator.preCalcWholeTree(interNode);
 
-		if (!dynamic) {
+		if (duringInitalization) {
 			if (interNode.parent == null) {
-				interNode.recalculate(PositionData.xp, PositionData.yp,
-						PositionData.ws);
+				MidNode.positionCalculator.recalculate(
+						interNode, PositionData.xp, PositionData.yp, PositionData.ws);
 			} else {
 				PositionData positionData = interNode.parent.positionData;
 				if (interNode.childIndex == 1) {
-					interNode.recalculate(positionData.xvar + positionData.rvar
-							* positionData.nextx1, positionData.yvar
-							+ positionData.rvar * positionData.nexty1,
+					MidNode.positionCalculator.recalculate(interNode,
+							positionData.xvar + positionData.rvar * positionData.nextx1, 
+							positionData.yvar + positionData.rvar * positionData.nexty1,
 							positionData.rvar * positionData.nextr1 / 220);
 				} else {
-					interNode.recalculate(positionData.xvar + positionData.rvar
-							* positionData.nextx2, positionData.yvar
-							+ positionData.rvar * positionData.nexty2,
+					MidNode.positionCalculator.recalculate(interNode,
+							positionData.xvar + positionData.rvar * positionData.nextx2,
+							positionData.yvar + positionData.rvar * positionData.nexty2,
 							positionData.rvar * positionData.nextr2 / 220);
 				}
 			}
@@ -236,20 +241,6 @@ public class Initializer {
 		String fileIndex = Integer.toString(infos[1]);
 		return createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, midnode);
 	}
-	
-	public static int getColor() {
-		if (fileIndex % 5 == 0) {
-			return Color.argb(255, 255, 0, 0);
-		} else if (fileIndex % 5 == 1) {
-			return Color.argb(255, 255, 255, 0);
-		} else if (fileIndex % 5 == 2) {
-			return Color.argb(255, 0, 255, 0);
-		} else if (fileIndex % 5 == 3) {
-			return Color.argb(255, 0, 255, 255);
-		} else {
-			return Color.argb(255, 0, 0, 255);
-		}
-	}
 
 	public void idleTimeInitialization() {
 		if (!stackOfNodeHasNonInitChildren.isEmpty()) {
@@ -315,6 +306,12 @@ public class Initializer {
 		}
 	}
 
+	/**
+	 * This method read data from *search, which stores the parent-child relationship of files.
+	 * 
+	 * For example, if a node 'A' is in file 30, and it has a child 'B' in file 40, then fileConnection
+	 * will add a hash pair <30,40> to fileConnection object.
+	 */
 	private static void fillFileConnection() {
 		fileConnection.clear();
 		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);

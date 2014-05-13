@@ -13,21 +13,39 @@ public class Precalculator {
 
 	private static float rootAngle = (float) (Math.PI * 3 / 2);
 	
+	private float getCos(Float angle) { return (float) Math.cos(angle); }
+	private float getSin(Float angle) { return (float) Math.sin(angle); }	
+	private float getSin90Pre(Float angle) { return (float) Math.sin(angle + Math.PI / 2.0); }
+	private float getCos90Pre(Float angle) { return (float) Math.cos(angle + Math.PI / 2.0); }
 	
+	/**
+	 * precalculate node 'tree' and all its descendants.
+	 * @param tree
+	 */
 	public void preCalcWholeTree(MidNode tree) {
 		precalcOneNode(tree);
 		if (tree.child1 != null) preCalcWholeTree(tree.child1);
 		if (tree.child2 != null) preCalcWholeTree(tree.child2);
 	}
-
 	
-	public void preCalcWholeTree(MidNode tree, Float angle) {
-		rootAngle = angle;
-		preCalcWholeTree(tree);
+	/**
+	 * Precalculate node and its horizon.
+	 * @param node
+	 */
+	private void precalcOneNode(MidNode node) {
+		if (node.getClass() == InteriorNode.class) {
+			preCalcOneInteriorNode((InteriorNode)node);
+		} else {
+			preCalcOneLeafNode((LeafNode)node);
+		}
+		MidNode.positionCalculator.calculateGBoundingBox(node);
 	}
 	
-	
-	public void preCalcOneInteriorNode(InteriorNode interiorNode) {
+	/**
+	 * Precalculate interior node.
+	 * @param interiorNode
+	 */
+	private void preCalcOneInteriorNode(InteriorNode interiorNode) {
 		MidNode parent = interiorNode.getParent();
 		if (parent == null) {
 			precalcRoot(interiorNode.positionData);
@@ -39,8 +57,11 @@ public class Precalculator {
 		precalcInteriorCircle(interiorNode.positionData);
 	}
 
-	
-	public void preCalcOneLeafNode(LeafNode leafNode) {
+	/**
+	 * Precalculate leaf node
+	 * @param leafNode
+	 */
+	private void preCalcOneLeafNode(LeafNode leafNode) {
 		MidNode parent = leafNode.getParent();
 		if (leafNode.childIndex == 1) {
 			precalcAsRightChildren(leafNode.positionData, parent.positionData);
@@ -50,27 +71,33 @@ public class Precalculator {
 		precalcLeafShape(leafNode.positionData);
 	}
 	
-	public void precalcOneNode(MidNode node) {
-		if (node.getClass() == InteriorNode.class) {
-			preCalcOneInteriorNode((InteriorNode)node);
-		} else {
-			preCalcOneLeafNode((LeafNode)node);
-		}
-		MidNode.positionCalculator.calculateGBoundingBox(node);
-	}
-	
-	private void precalcAsLeftChildren(PositionData thisData,
-			PositionData parentData) {
-		precalcBezierAsLeftChildren(thisData, parentData);
-		precalcNextReference(thisData);
+	/**
+	 * precalculate left children
+	 * @param positionOfThisNode
+	 * @param positionOfParent
+	 */
+	private void precalcAsLeftChildren(PositionData positionOfThisNode,
+			PositionData positionOfParent) {
+		precalcBezierAsLeftChildren(positionOfThisNode, positionOfParent);
+		precalcNextReference(positionOfThisNode);
 	}
 
-	private void precalcAsRightChildren(PositionData thisData,
-			PositionData parentData) {
-		precalcBezierAsRightChildren(thisData, parentData);
-		precalcNextReference(thisData);
+	/**
+	 * precalculate right children
+	 * @param positionOfThisNode
+	 * @param positionOfParent
+	 */
+	private void precalcAsRightChildren(PositionData positionOfThisNode,
+			PositionData positionOfParent) {
+		precalcBezierAsRightChildren(positionOfThisNode, positionOfParent);
+		precalcNextReference(positionOfThisNode);
 	}
 
+	/**
+	 * precalculate bezier curve of left children
+	 * @param thisData
+	 * @param parentData
+	 */
 	private void precalcBezierAsLeftChildren(PositionData thisData,
 			PositionData parentData) {
 		thisData.arcAngle = parentData.arcAngle - angleOfChild2Left;
@@ -85,6 +112,11 @@ public class Precalculator {
 		thisData.bezr = partl1;		
 	}
 
+	/**
+	 * precalculate bezier curve of right children
+	 * @param thisData
+	 * @param parentData
+	 */
 	private void precalcBezierAsRightChildren(PositionData thisData,
 			PositionData parentData) {
 		thisData.arcAngle = parentData.arcAngle + angleOfChild1Right;
@@ -99,6 +131,10 @@ public class Precalculator {
 		thisData.bezr = partl1;
 	}
 
+	/**
+	 * precalculate root.
+	 * @param positionData
+	 */
 	private void precalcRoot(PositionData positionData) {
 		positionData.bezsx = 0;
 		positionData.bezsy = 0;
@@ -113,6 +149,10 @@ public class Precalculator {
 		precalcNextReference(positionData);
 	}
 
+	/**
+	 * precalculate reference to next node.
+	 * @param positionData
+	 */
 	private void precalcNextReference(PositionData positionData) {
 		positionData.nextr1 = ratioOfChild1;
 		positionData.nextr2 = ratioOfChild2;
@@ -126,6 +166,10 @@ public class Precalculator {
 				-(((positionData.bezr)-(partl1*ratioOfChild2))/2.0f)*getSin90Pre(positionData.arcAngle); // y reference point for both children	}
 	}
 	
+	/**
+	 * precalculate interior circle position
+	 * @param positionData
+	 */
 	private void precalcInteriorCircle(PositionData positionData) {
 		positionData.arcx = positionData.bezex;
 		positionData.arcy = positionData.bezey;
@@ -135,22 +179,13 @@ public class Precalculator {
 		positionData.arcr2 = leafmult * partc;
 	}
 	
+	/**
+	 * precalculate leaf position
+	 * @param positionData
+	 */
 	private void precalcLeafShape(PositionData positionData) {
 		positionData.arcx = positionData.bezex  + posmult * getCos(positionData.arcAngle);
 		positionData.arcy = positionData.bezey + posmult * getSin(positionData.arcAngle);
 		positionData.arcr = leafmult * partc;
-	}
-	
-	private float getCos(Float angle) { return (float) Math.cos(angle); }
-	private float getSin(Float angle) { return (float) Math.sin(angle); }	
-	private float getSin90Pre(Float angle) { return (float) Math.sin(angle + Math.PI / 2.0); }
-	private float getCos90Pre(Float angle) { return (float) Math.cos(angle + Math.PI / 2.0); }
-
-	public static float getAngleofchild1right() {
-		return angleOfChild1Right;
-	}
-
-	public static float getAngleofchild2left() {
-		return angleOfChild2Left;
 	}
 }

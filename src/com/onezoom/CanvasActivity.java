@@ -2,11 +2,12 @@ package com.onezoom;
 
 
 
+import com.onezoom.midnode.Initializer;
+import com.onezoom.midnode.LinkHandler;
 import com.onezoom.midnode.Search;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 
-import android.util.Log;
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.SearchManager;
@@ -156,19 +157,19 @@ public class CanvasActivity extends Activity{
 	 * It loads the tree into memory.
 	 */
 	public void initialization() {
-		MidNode.setContext(this);
+		Initializer.setContext(this);
 		//140 is the height left for action bar.
-		MidNode.setScreenSize(0, 0, screenWidth, screenHeight - 140);
+		PositionData.setScreenSize(0, 0, screenWidth, screenHeight - 140);
 
 		//set the tree position to fit in the screen.
 		resetTreeRootPosition();
 		
 		//Initialize from file index '0'. 
 		//For example, if user select mammals, then initialize from 'mammalsinterior0'
-		fulltree = MidNode.createNode("0");
+		fulltree = MidNode.startLoadingTree();
 		
-		fulltree.recalculate();
-		
+//		fulltree.recalculate();
+		fulltree.recalculateDynamic();
 		//set tree as being initialized so that tree view draws the tree instead of drawing 'loading'
 		treeView.setTreeBeingInitialized(true);	
 	}
@@ -482,11 +483,11 @@ public class CanvasActivity extends Activity{
 	 * @return
 	 */
 	public boolean hasHitLink(float mouseX, float mouseY) {
-		return this.fulltree.testLink(mouseX, mouseY);
+		return LinkHandler.testLink(fulltree, mouseX, mouseY);
 	}
 
 	public void loadLinkURL() {
-		webView.loadUrl(fulltree.getLink());
+		webView.loadUrl(LinkHandler.getLink());
 	}
 	
 	/**
@@ -495,7 +496,7 @@ public class CanvasActivity extends Activity{
 	 * Otherwise, reset the searchEngine.
 	 */
 	public void resetSearch() {
-		this.searchEngine.resetSearch(fulltree.getLink(), fulltree.getLinkNode().traitsCalculator.getCname());
+		this.searchEngine.resetSearch(LinkHandler.getLink(), LinkHandler.getLinkNode().traitsCalculator.getCname());
 	}
 	
 	private void reloadPage() {

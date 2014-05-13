@@ -1,13 +1,11 @@
 package com.onezoom;
 
-import com.onezoom.midnode.Initializer;
 import com.onezoom.midnode.Search;
 import com.onezoom.midnode.MidNode;
 
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
-import android.util.Log;
 
 public class MemoryThread extends Thread {
 	public static final int MSG_RECALCULATE = 0;
@@ -53,6 +51,7 @@ public class MemoryThread extends Thread {
 			@Override
 			public void run() {
 				Looper.myLooper().quit();
+				MidNode.destory();
 			}
 		});
 	}
@@ -114,6 +113,7 @@ class MemoryHandler extends Handler {
 	public void handleMessage(Message msg) {
 		switch (msg.what) {
 		case MemoryThread.MSG_INITIALIZATION:
+			MidNode.createStaticObjects();
 			client.initialization();
 			client.treeView.postInvalidate();
 			if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
@@ -132,7 +132,8 @@ class MemoryHandler extends Handler {
 		case MemoryThread.MSG_RESET:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				client.treeView.setDuringRecalculation(true);
-				client.getTreeRoot().recalculate();	
+				client.getTreeRoot().recalculate();
+//				client.getTreeRoot().recalculateDynamic();
 				client.treeView.setDuringRecalculation(false);
 				client.treeView.postInvalidate();
 				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
