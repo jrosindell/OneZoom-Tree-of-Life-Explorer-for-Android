@@ -303,7 +303,7 @@ public class TreeView extends View {
 		
 		Paint textPaint = new Paint();
 		textPaint.setTextAlign(Align.CENTER);
-		textPaint.setTextSize(35 * CanvasActivity.getScaleFactor());
+		textPaint.setTextSize(30 * CanvasActivity.getScaleFactor());
 		textPaint.setColor(Color.argb(150, 0, 0, 0));
 		canvas.drawRect(
 				Math.max(10, getWidth()/2 - text.length() * textPaint.getTextSize() / 3.3f),   //left

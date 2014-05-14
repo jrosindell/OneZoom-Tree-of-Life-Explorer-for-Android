@@ -1,35 +1,35 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"erythrogaster","Cercopithecus","White-throated Monkey",VU,D,-11184866
-12,10,"sclateri","Cercopithecus","Sclater's Monkey",VU,D,-11184866
-13,9,"ascanius","Cercopithecus","Red-tailed Monkey",LC,U,-16731116
-14,8,"cephus","Cercopithecus","Moustached Monkey",LC,U,-16731116
-16,15,"petaurista","Cercopithecus","Lesser Spot-nosed Monkey",LC,U,-16731116
-17,15,"erythrotis","Cercopithecus","Red-eared Monkey",VU,D,-11184866
-21,20,"mitis","Cercopithecus","Blue Monkey",LC,D,-16731116
-22,20,"albogularis","Cercopithecus","",NE,U,-16777216
-24,23,"doggetti","Cercopithecus","",NE,U,-16777216
-25,23,"kandti","Cercopithecus","",NE,U,-16777216
-26,18,"nictitans","Cercopithecus","Putty-nosed Monkey",LC,D,-16731116
-29,28,"diana","Cercopithecus","Diana/roloway Monkey",VU,D,-11184866
-30,28,"roloway","Cercopithecus","",NE,U,-16777216
-31,27,"dryas","Cercopithecus","Dryad Monkey",CR,U,-3014646
-36,35,"campbelli","Cercopithecus","Campbell's Monkey",LC,U,-16731116
-37,35,"lowei","Cercopithecus","",NE,U,-16777216
-38,34,"mona","Cercopithecus","Mona Monkey",LC,U,-16731116
-41,40,"wolfi","Cercopithecus","",NE,U,-16777216
-42,40,"denti","Cercopithecus","",NE,U,-16777216
-43,39,"pogonias","Cercopithecus","Crowned Monkey",LC,U,-16731116
-44,32,"neglectus","Cercopithecus","De Brazza's Monkey",LC,U,-16731116
-45,3,"hamlyni","Cercopithecus","Owl-faced Monkey",VU,D,-11184866
-53,52,"sabaeus","Chlorocebus","Green Monkey",LC,S,-16731116
-54,52,"pygerythrus","Chlorocebus","Vervet",LC,S,-16731116
-55,51,"aethiops","Chlorocebus","Grivet Monkey",LC,S,-16731116
-56,50,"djamdjamensis","Chlorocebus","Bale Monkey",VU,D,-11184866
-57,49,"cynosuros","Chlorocebus","Malbrouck Monkey",LC,S,-16731116
-58,48,"tantalus","Chlorocebus","Tantalus Monkey",LC,S,-16731116
-61,60,"lhoesti","Cercopithecus","L'hoest's Monkey",VU,D,-11184866
-62,60,"preussi","Cercopithecus","Preuss's Monkey",EN,D,-8572416
-63,59,"solatus","Cercopithecus","Sun-tailed Monkey",VU,U,-11184866
-64,46,"patas","Erythrocebus","Patas Monkey",LC,D,-16731116
-65,1,"talapoin","Miopithecus","Southern Talapoin Monkey",LC,U,-16731116
-66,0,"nigroviridis","Allenopithecus","Allen's Swamp Monkey",LC,U,-16731116
+11,-268435446,"erythrogaster","Cercopithecus","White-throated Monkey",VU,D,-11184866
+12,-268435446,"sclateri","Cercopithecus","Sclater's Monkey",VU,D,-11184866
+13,-268435447,"ascanius","Cercopithecus","Red-tailed Monkey",LC,U,-16731116
+14,-268435448,"cephus","Cercopithecus","Moustached Monkey",LC,U,-16731116
+16,-268435441,"petaurista","Cercopithecus","Lesser Spot-nosed Monkey",LC,U,-16731116
+17,-268435441,"erythrotis","Cercopithecus","Red-eared Monkey",VU,D,-11184866
+21,-268435436,"mitis","Cercopithecus","Blue Monkey",LC,D,-16731116
+22,-268435436,"albogularis","Cercopithecus","",NE,U,-16777216
+24,-268435433,"doggetti","Cercopithecus","",NE,U,-16777216
+25,-268435433,"kandti","Cercopithecus","",NE,U,-16777216
+26,-268435438,"nictitans","Cercopithecus","Putty-nosed Monkey",LC,D,-16731116
+29,-268435428,"diana","Cercopithecus","Diana/roloway Monkey",VU,D,-11184866
+30,-268435428,"roloway","Cercopithecus","",NE,U,-16777216
+31,-268435429,"dryas","Cercopithecus","Dryad Monkey",CR,U,-3014646
+36,-268435421,"campbelli","Cercopithecus","Campbell's Monkey",LC,U,-16731116
+37,-268435421,"lowei","Cercopithecus","",NE,U,-16777216
+38,-268435422,"mona","Cercopithecus","Mona Monkey",LC,U,-16731116
+41,-268435416,"wolfi","Cercopithecus","",NE,U,-16777216
+42,-268435416,"denti","Cercopithecus","",NE,U,-16777216
+43,-268435417,"pogonias","Cercopithecus","Crowned Monkey",LC,U,-16731116
+44,-268435424,"neglectus","Cercopithecus","De Brazza's Monkey",LC,U,-16731116
+45,-268435453,"hamlyni","Cercopithecus","Owl-faced Monkey",VU,D,-11184866
+53,-268435404,"sabaeus","Chlorocebus","Green Monkey",LC,S,-16731116
+54,-268435404,"pygerythrus","Chlorocebus","Vervet",LC,S,-16731116
+55,-268435405,"aethiops","Chlorocebus","Grivet Monkey",LC,S,-16731116
+56,-268435406,"djamdjamensis","Chlorocebus","Bale Monkey",VU,D,-11184866
+57,-268435407,"cynosuros","Chlorocebus","Malbrouck Monkey",LC,S,-16731116
+58,-268435408,"tantalus","Chlorocebus","Tantalus Monkey",LC,S,-16731116
+61,-268435396,"lhoesti","Cercopithecus","L'hoest's Monkey",VU,D,-11184866
+62,-268435396,"preussi","Cercopithecus","Preuss's Monkey",EN,D,-8572416
+63,-268435397,"solatus","Cercopithecus","Sun-tailed Monkey",VU,U,-11184866
+64,-268435410,"patas","Erythrocebus","Patas Monkey",LC,D,-16731116
+65,-268435455,"talapoin","Miopithecus","Southern Talapoin Monkey",LC,U,-16731116
+66,-268435456,"nigroviridis","Allenopithecus","Allen's Swamp Monkey",LC,U,-16731116

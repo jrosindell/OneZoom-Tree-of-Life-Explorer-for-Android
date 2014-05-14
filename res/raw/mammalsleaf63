@@ -1,104 +1,104 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,8,"saltiana","Madoqua","Salt's Dik-dik",LC,S,-16731116
-14,13,"przewalskii","Procapra","Przewalski's Gazelle",EN,D,-8572416
-15,13,"gutturosa","Procapra","Mongolian Gazelle",LC,U,-16731116
-16,12,"picticaudata","Procapra","Goa",NT,D,-12486656
-17,11,"melampus","Aepyceros","Impala",LC,S,-16731116
-23,22,"leche","Kobus","Southern Lechwe",LC,S,-16731116
-24,22,"megaceros","Kobus","Nile Lechwe",EN,D,-8572416
-25,21,"ellipsiprymnus","Kobus","Waterbuck",LC,D,-16731116
-27,26,"vardonii","Kobus","Puku",NT,D,-12486656
-28,26,"kob","Kobus","Kob",LC,D,-16731116
-31,30,"arundinum","Redunca","Southern Reedbuck",LC,S,-16731116
-32,30,"redunca","Redunca","Bohor Reedbuck",LC,D,-16731116
-33,29,"fulvorufula","Redunca","Mountain Reedbuck",LC,S,-16731116
-34,18,"capreolus","Pelea","Grey Rhebok",LC,S,-16731116
-37,36,"guentheri","Madoqua","Guenther's Dik-dik",LC,S,-16731116
-38,36,"piacentinii","Madoqua","Silver Dik-dik",DD,D,-11513776
-39,35,"pygmaeus","Neotragus","Royal Antelope",LC,D,-16731116
-48,47,"spekii","Tragelaphus","Sitatunga",LC,D,-16731116
-49,47,"eurycerus","Tragelaphus","Bongo",NT,D,-12486656
-50,46,"scriptus","Tragelaphus","Bushbuck",LC,S,-16731116
-51,45,"imberbis","Tragelaphus","Lesser Kudu",NT,D,-12486656
-54,53,"derbianus","Taurotragus","",NE,U,-16777216
-55,53,"oryx","Taurotragus","",NE,U,-16777216
-56,52,"strepsiceros","Tragelaphus","Greater Kudu",LC,S,-16731116
-57,43,"angasii","Tragelaphus","Nyala",LC,S,-16731116
-58,42,"buxtoni","Tragelaphus","Mountain Nyala",EN,D,-8572416
-60,59,"quadricornis","Tetracerus","Four-horned Antelope",VU,D,-11184866
-61,59,"tragocamelus","Boselaphus","Nilgai",LC,S,-16731116
-67,66,"bonasus","Bison","European Bison",VU,I,-11184866
-68,66,"bison","Bison","American Bison",NT,S,-12486656
-69,65,"grunniens","Bos","",NE,U,-16777216
-71,70,"sauveli","Bos","Grey Ox",CR,U,-3014646
-72,70,"taurus","Bos","Cows",NE,U,-16777216
-74,73,"javanicus","Bos","Banteng",EN,D,-8572416
-75,73,"frontalis","Bos","Gaur",NE,U,-16777216
-79,78,"quarlesi","Bubalus","Mountain Anoa",EN,D,-8572416
-80,78,"depressicornis","Bubalus","Anoa",EN,D,-8572416
-82,81,"mindorensis","Bubalus","Mindoro Dwarf Buffalo",CR,D,-3014646
-83,81,"bubalis","Bubalus","",NE,U,-16777216
-84,76,"caffer","Syncerus","African Buffalo",LC,D,-16731116
-96,95,"alfredi","Rusa","Phillipine Spotted Deer",EN,D,-8572416
-97,95,"elaphus","Cervus","Red Deer",LC,I,-16731116
-98,94,"duvaucelii","Rucervus","Barasingha",VU,D,-11184866
-100,99,"timorensis","Rusa","Javan Rusa",VU,D,-11184866
-101,99,"nippon","Cervus","Sika Deer",LC,I,-16731116
-103,102,"davidianus","Elaphurus","Pere David's Deer",EW,I,-12832121
-104,102,"eldii","Rucervus","Eld's Deer",EN,D,-8572416
-106,105,"albirostris","Przewalskium","White-lipped Deer",VU,U,-11184866
-107,105,"unicolor","Rusa","Sambar",VU,D,-11184866
-108,90,"marianna","Rusa","Philippine Deer",VU,D,-11184866
-109,89,"dama","Dama","Fallow Deer",LC,U,-16731116
-112,111,"calamianensis","Axis","Calamanian Deer",EN,D,-8572416
-113,111,"axis","Axis","Chital",LC,U,-16731116
-115,114,"kuhlii","Axis","Bawean Deer",CR,S,-3014646
-116,114,"porcinus","Axis","Hog Deer",EN,D,-8572416
-123,122,"rooseveltorum","Muntiacus","Roosevelts' Muntjac",DD,D,-11513776
-124,122,"feae","Muntiacus","Fea's Muntjac",DD,U,-11513776
-125,121,"gongshanensis","Muntiacus","Gongshan Muntjac",DD,D,-11513776
-126,120,"muntjak","Muntiacus","Southern Red Muntjac",LC,D,-16731116
-128,127,"crinifrons","Muntiacus","Black Muntjac",VU,D,-11184866
-129,127,"reevesi","Muntiacus","Reeves' Muntjac",LC,D,-16731116
-130,118,"atherodes","Muntiacus","Bornean Yellow Muntjac",LC,D,-16731116
-131,117,"cephalophus","Elaphodus","Tufted Deer",NT,D,-12486656
-142,141,"temama","Mazama","Central American Red Brocket",DD,D,-11513776
-143,141,"americana","Mazama","Red Brocket",DD,U,-11513776
-144,140,"pandora","Mazama","Yucatan Brown Brocket",VU,D,-11184866
-146,145,"gouazoubira","Mazama","Gray Brocket",LC,D,-16731116
-147,145,"chunyi","Mazama","Chunyi",VU,D,-11184866
-149,148,"nana","Mazama","Brazilian Dwarf Brocket",DD,U,-11513776
-150,148,"bricenii","Mazama","Merida Brocket",VU,D,-11184866
-151,137,"rufina","Mazama","Dwarf Red Brocket",VU,D,-11184866
-153,152,"virginianus","Odocoileus","White-tailed Deer",LC,S,-16731116
-154,152,"hemionus","Odocoileus","Mule Deer",LC,S,-16731116
-158,157,"bisulcus","Hippocamelus","Patagonian Huemul",EN,D,-8572416
-159,157,"antisensis","Hippocamelus","Taruca",VU,D,-11184866
-160,156,"bezoarticus","Ozotoceros","Pampas Deer",NT,D,-12486656
-161,155,"dichotomus","Blastocerus","Marsh Deer",VU,D,-11184866
-163,162,"mephistophiles","Pudu","Northern Pudu",VU,D,-11184866
-164,162,"puda","Pudu","Southern Pudu",VU,D,-11184866
-165,133,"tarandus","Rangifer","Reindeer",LC,S,-16731116
-169,168,"capreolus","Capreolus","European Roe Deer",LC,I,-16731116
-170,168,"pygargus","Capreolus","SIBERIAN ROE DEER",LC,D,-16731116
-171,167,"inermis","Hydropotes","Chinese Water Deer",VU,D,-11184866
-173,172,"alces","Alces","Eurasian Elk",LC,I,-16731116
-174,172,"americanus","Alces","Moose",LC,S,-16731116
-180,179,"leucogaster","Moschus","Himalayan Muskdeer",EN,D,-8572416
-181,179,"chrysogaster","Moschus","Alpine Musk Deer",EN,D,-8572416
-182,178,"cupreus","Moschus","Kashmir Muskdeer",EN,D,-8572416
-183,177,"fuscus","Moschus","Black Musk Deer",EN,D,-8572416
-185,184,"berezovskii","Moschus","Forest Musk Deer",EN,D,-8572416
-186,184,"anhuiensis","Moschus","Anhui Musk Deer",EN,D,-8572416
-187,175,"moschiferus","Moschus","Siberian Musk Deer",VU,D,-11184866
-190,189,"camelopardalis","Giraffa","Giraffe",LC,D,-16731116
-191,189,"johnstoni","Okapia","Okapi",NT,S,-12486656
-192,188,"americana","Antilocapra","Pronghorn",LC,S,-16731116
-198,197,"kanchil","Tragulus","Lesser Oriental Chevrotain",LC,U,-16731116
-199,197,"javanicus","Tragulus","Javan Chevrotain",DD,U,-11513776
-200,196,"williamsoni","Tragulus","Williamson's Chevrotain",DD,D,-11513776
-203,202,"versicolor","Tragulus","Silver-backed Chevrotain",DD,D,-11513776
-204,202,"napu","Tragulus","Greater Oriental Chevrotain",LC,D,-16731116
-205,201,"nigricans","Tragulus","Balabac Mouse Deer",EN,D,-8572416
-206,194,"aquaticus","Hyemoschus","Water Chevrotain",LC,D,-16731116
-207,193,"meminna","Moschiola","White-spotted Chevrotain",LC,U,-16731116
+10,-268435448,"saltiana","Madoqua","Salt's Dik-dik",LC,S,-16731116
+14,-268435443,"przewalskii","Procapra","Przewalski's Gazelle",EN,D,-8572416
+15,-268435443,"gutturosa","Procapra","Mongolian Gazelle",LC,U,-16731116
+16,-268435444,"picticaudata","Procapra","Goa",NT,D,-12486656
+17,-268435445,"melampus","Aepyceros","Impala",LC,S,-16731116
+23,-268435434,"leche","Kobus","Southern Lechwe",LC,S,-16731116
+24,-268435434,"megaceros","Kobus","Nile Lechwe",EN,D,-8572416
+25,-268435435,"ellipsiprymnus","Kobus","Waterbuck",LC,D,-16731116
+27,-268435430,"vardonii","Kobus","Puku",NT,D,-12486656
+28,-268435430,"kob","Kobus","Kob",LC,D,-16731116
+31,-268435426,"arundinum","Redunca","Southern Reedbuck",LC,S,-16731116
+32,-268435426,"redunca","Redunca","Bohor Reedbuck",LC,D,-16731116
+33,-268435427,"fulvorufula","Redunca","Mountain Reedbuck",LC,S,-16731116
+34,-268435438,"capreolus","Pelea","Grey Rhebok",LC,S,-16731116
+37,-268435420,"guentheri","Madoqua","Guenther's Dik-dik",LC,S,-16731116
+38,-268435420,"piacentinii","Madoqua","Silver Dik-dik",DD,D,-11513776
+39,-268435421,"pygmaeus","Neotragus","Royal Antelope",LC,D,-16731116
+48,-268435409,"spekii","Tragelaphus","Sitatunga",LC,D,-16731116
+49,-268435409,"eurycerus","Tragelaphus","Bongo",NT,D,-12486656
+50,-268435410,"scriptus","Tragelaphus","Bushbuck",LC,S,-16731116
+51,-268435411,"imberbis","Tragelaphus","Lesser Kudu",NT,D,-12486656
+54,-268435403,"derbianus","Taurotragus","",NE,U,-16777216
+55,-268435403,"oryx","Taurotragus","",NE,U,-16777216
+56,-268435404,"strepsiceros","Tragelaphus","Greater Kudu",LC,S,-16731116
+57,-268435413,"angasii","Tragelaphus","Nyala",LC,S,-16731116
+58,-268435414,"buxtoni","Tragelaphus","Mountain Nyala",EN,D,-8572416
+60,-268435397,"quadricornis","Tetracerus","Four-horned Antelope",VU,D,-11184866
+61,-268435397,"tragocamelus","Boselaphus","Nilgai",LC,S,-16731116
+67,-268435390,"bonasus","Bison","European Bison",VU,I,-11184866
+68,-268435390,"bison","Bison","American Bison",NT,S,-12486656
+69,-268435391,"grunniens","Bos","",NE,U,-16777216
+71,-268435386,"sauveli","Bos","Grey Ox",CR,U,-3014646
+72,-268435386,"taurus","Bos","Cows",NE,U,-16777216
+74,-268435383,"javanicus","Bos","Banteng",EN,D,-8572416
+75,-268435383,"frontalis","Bos","Gaur",NE,U,-16777216
+79,-268435378,"quarlesi","Bubalus","Mountain Anoa",EN,D,-8572416
+80,-268435378,"depressicornis","Bubalus","Anoa",EN,D,-8572416
+82,-268435375,"mindorensis","Bubalus","Mindoro Dwarf Buffalo",CR,D,-3014646
+83,-268435375,"bubalis","Bubalus","",NE,U,-16777216
+84,-268435380,"caffer","Syncerus","African Buffalo",LC,D,-16731116
+96,-268435361,"alfredi","Rusa","Phillipine Spotted Deer",EN,D,-8572416
+97,-268435361,"elaphus","Cervus","Red Deer",LC,I,-16731116
+98,-268435362,"duvaucelii","Rucervus","Barasingha",VU,D,-11184866
+100,-268435357,"timorensis","Rusa","Javan Rusa",VU,D,-11184866
+101,-268435357,"nippon","Cervus","Sika Deer",LC,I,-16731116
+103,-268435354,"davidianus","Elaphurus","Pere David's Deer",EW,I,-12832121
+104,-268435354,"eldii","Rucervus","Eld's Deer",EN,D,-8572416
+106,-268435351,"albirostris","Przewalskium","White-lipped Deer",VU,U,-11184866
+107,-268435351,"unicolor","Rusa","Sambar",VU,D,-11184866
+108,-268435366,"marianna","Rusa","Philippine Deer",VU,D,-11184866
+109,-268435367,"dama","Dama","Fallow Deer",LC,U,-16731116
+112,-268435345,"calamianensis","Axis","Calamanian Deer",EN,D,-8572416
+113,-268435345,"axis","Axis","Chital",LC,U,-16731116
+115,-268435342,"kuhlii","Axis","Bawean Deer",CR,S,-3014646
+116,-268435342,"porcinus","Axis","Hog Deer",EN,D,-8572416
+123,-268435334,"rooseveltorum","Muntiacus","Roosevelts' Muntjac",DD,D,-11513776
+124,-268435334,"feae","Muntiacus","Fea's Muntjac",DD,U,-11513776
+125,-268435335,"gongshanensis","Muntiacus","Gongshan Muntjac",DD,D,-11513776
+126,-268435336,"muntjak","Muntiacus","Southern Red Muntjac",LC,D,-16731116
+128,-268435329,"crinifrons","Muntiacus","Black Muntjac",VU,D,-11184866
+129,-268435329,"reevesi","Muntiacus","Reeves' Muntjac",LC,D,-16731116
+130,-268435338,"atherodes","Muntiacus","Bornean Yellow Muntjac",LC,D,-16731116
+131,-268435339,"cephalophus","Elaphodus","Tufted Deer",NT,D,-12486656
+142,-268435315,"temama","Mazama","Central American Red Brocket",DD,D,-11513776
+143,-268435315,"americana","Mazama","Red Brocket",DD,U,-11513776
+144,-268435316,"pandora","Mazama","Yucatan Brown Brocket",VU,D,-11184866
+146,-268435311,"gouazoubira","Mazama","Gray Brocket",LC,D,-16731116
+147,-268435311,"chunyi","Mazama","Chunyi",VU,D,-11184866
+149,-268435308,"nana","Mazama","Brazilian Dwarf Brocket",DD,U,-11513776
+150,-268435308,"bricenii","Mazama","Merida Brocket",VU,D,-11184866
+151,-268435319,"rufina","Mazama","Dwarf Red Brocket",VU,D,-11184866
+153,-268435304,"virginianus","Odocoileus","White-tailed Deer",LC,S,-16731116
+154,-268435304,"hemionus","Odocoileus","Mule Deer",LC,S,-16731116
+158,-268435299,"bisulcus","Hippocamelus","Patagonian Huemul",EN,D,-8572416
+159,-268435299,"antisensis","Hippocamelus","Taruca",VU,D,-11184866
+160,-268435300,"bezoarticus","Ozotoceros","Pampas Deer",NT,D,-12486656
+161,-268435301,"dichotomus","Blastocerus","Marsh Deer",VU,D,-11184866
+163,-268435294,"mephistophiles","Pudu","Northern Pudu",VU,D,-11184866
+164,-268435294,"puda","Pudu","Southern Pudu",VU,D,-11184866
+165,-268435323,"tarandus","Rangifer","Reindeer",LC,S,-16731116
+169,-268435288,"capreolus","Capreolus","European Roe Deer",LC,I,-16731116
+170,-268435288,"pygargus","Capreolus","SIBERIAN ROE DEER",LC,D,-16731116
+171,-268435289,"inermis","Hydropotes","Chinese Water Deer",VU,D,-11184866
+173,-268435284,"alces","Alces","Eurasian Elk",LC,I,-16731116
+174,-268435284,"americanus","Alces","Moose",LC,S,-16731116
+180,-268435277,"leucogaster","Moschus","Himalayan Muskdeer",EN,D,-8572416
+181,-268435277,"chrysogaster","Moschus","Alpine Musk Deer",EN,D,-8572416
+182,-268435278,"cupreus","Moschus","Kashmir Muskdeer",EN,D,-8572416
+183,-268435279,"fuscus","Moschus","Black Musk Deer",EN,D,-8572416
+185,-268435272,"berezovskii","Moschus","Forest Musk Deer",EN,D,-8572416
+186,-268435272,"anhuiensis","Moschus","Anhui Musk Deer",EN,D,-8572416
+187,-268435281,"moschiferus","Moschus","Siberian Musk Deer",VU,D,-11184866
+190,-268435267,"camelopardalis","Giraffa","Giraffe",LC,D,-16731116
+191,-268435267,"johnstoni","Okapia","Okapi",NT,S,-12486656
+192,-268435268,"americana","Antilocapra","Pronghorn",LC,S,-16731116
+198,-268435259,"kanchil","Tragulus","Lesser Oriental Chevrotain",LC,U,-16731116
+199,-268435259,"javanicus","Tragulus","Javan Chevrotain",DD,U,-11513776
+200,-268435260,"williamsoni","Tragulus","Williamson's Chevrotain",DD,D,-11513776
+203,-268435254,"versicolor","Tragulus","Silver-backed Chevrotain",DD,D,-11513776
+204,-268435254,"napu","Tragulus","Greater Oriental Chevrotain",LC,D,-16731116
+205,-268435255,"nigricans","Tragulus","Balabac Mouse Deer",EN,D,-8572416
+206,-268435262,"aquaticus","Hyemoschus","Water Chevrotain",LC,D,-16731116
+207,-268435263,"meminna","Moschiola","White-spotted Chevrotain",LC,U,-16731116

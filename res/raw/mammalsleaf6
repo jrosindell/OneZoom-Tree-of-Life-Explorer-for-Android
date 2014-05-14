@@ -1,26 +1,26 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"talpinus","Ellobius","Northern Mole Vole",LC,D,-16731116
-10,8,"tancrei","Ellobius","Zaisan Mole Vole",LC,U,-16731116
-11,7,"fuscocapillus","Ellobius","Afghan Mole-vole",LC,U,-16731116
-12,6,"lutescens","Ellobius","Mountain Mole Vole",LC,U,-16731116
-13,5,"alaicus","Ellobius","Alai Mole Vole",DD,U,-11513776
-14,4,"schaposchnikowi","Prometheomys","Long-clawed Mole Vole",NT,D,-12486656
-18,17,"longicaudus","Arborimus","Red Tree Vole",NT,D,-12486656
-19,17,"albipes","Arborimus","White-footed Vole",LC,U,-16731116
-20,16,"pomo","Arborimus","California Red Tree Mouse",NT,D,-12486656
-22,21,"intermedius","Phenacomys","Western Heather Vole",LC,S,-16731116
-23,21,"ungava","Phenacomys","Eastern Heather Vole",LC,S,-16731116
-26,25,"mandarinus","Lasiopodomys","Mandarin Vole",LC,U,-16731116
-27,25,"fuscus","Lasiopodomys","Smokey Vole",LC,U,-16731116
-28,24,"brandtii","Lasiopodomys","Brandt's Vole",LC,S,-16731116
-31,30,"bucharensis","Blanfordimys","Bucharian Vole",LC,U,-16731116
-32,30,"afghanus","Blanfordimys","Afghan Vole",LC,U,-16731116
-33,29,"zibethicus","Ondatra","Muskrat",LC,S,-16731116
-40,39,"sibiricus","Lemmus","Brown Lemming",LC,S,-16731116
-41,39,"portenkoi","Lemmus","",DD,U,-11513776
-42,38,"trimucronatus","Lemmus","Brown Lemming",LC,S,-16731116
-43,37,"amurensis","Lemmus","Amur Lemming",LC,U,-16731116
-44,36,"lemmus","Lemmus","Norway Lemming",LC,S,-16731116
-45,35,"schisticolor","Myopus","Wood Lemming",LC,U,-16731116
-47,46,"borealis","Synaptomys","Northern Bog Lemming",LC,U,-16731116
-48,46,"cooperi","Synaptomys","Kansas Bog Lemming",LC,U,-16731116
+9,-268435448,"talpinus","Ellobius","Northern Mole Vole",LC,D,-16731116
+10,-268435448,"tancrei","Ellobius","Zaisan Mole Vole",LC,U,-16731116
+11,-268435449,"fuscocapillus","Ellobius","Afghan Mole-vole",LC,U,-16731116
+12,-268435450,"lutescens","Ellobius","Mountain Mole Vole",LC,U,-16731116
+13,-268435451,"alaicus","Ellobius","Alai Mole Vole",DD,U,-11513776
+14,-268435452,"schaposchnikowi","Prometheomys","Long-clawed Mole Vole",NT,D,-12486656
+18,-268435439,"longicaudus","Arborimus","Red Tree Vole",NT,D,-12486656
+19,-268435439,"albipes","Arborimus","White-footed Vole",LC,U,-16731116
+20,-268435440,"pomo","Arborimus","California Red Tree Mouse",NT,D,-12486656
+22,-268435435,"intermedius","Phenacomys","Western Heather Vole",LC,S,-16731116
+23,-268435435,"ungava","Phenacomys","Eastern Heather Vole",LC,S,-16731116
+26,-268435431,"mandarinus","Lasiopodomys","Mandarin Vole",LC,U,-16731116
+27,-268435431,"fuscus","Lasiopodomys","Smokey Vole",LC,U,-16731116
+28,-268435432,"brandtii","Lasiopodomys","Brandt's Vole",LC,S,-16731116
+31,-268435426,"bucharensis","Blanfordimys","Bucharian Vole",LC,U,-16731116
+32,-268435426,"afghanus","Blanfordimys","Afghan Vole",LC,U,-16731116
+33,-268435427,"zibethicus","Ondatra","Muskrat",LC,S,-16731116
+40,-268435417,"sibiricus","Lemmus","Brown Lemming",LC,S,-16731116
+41,-268435417,"portenkoi","Lemmus","",DD,U,-11513776
+42,-268435418,"trimucronatus","Lemmus","Brown Lemming",LC,S,-16731116
+43,-268435419,"amurensis","Lemmus","Amur Lemming",LC,U,-16731116
+44,-268435420,"lemmus","Lemmus","Norway Lemming",LC,S,-16731116
+45,-268435421,"schisticolor","Myopus","Wood Lemming",LC,U,-16731116
+47,-268435410,"borealis","Synaptomys","Northern Bog Lemming",LC,U,-16731116
+48,-268435410,"cooperi","Synaptomys","Kansas Bog Lemming",LC,U,-16731116

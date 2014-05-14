@@ -1,25 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"typus","Otomys","Typical Vlei Rat",LC,D,-16731116
-11,9,"orestes","Otomys","",NE,U,-16777216
-13,12,"dartmouthi","Otomys","",NE,U,-16777216
-14,12,"jacksoni","Otomys","",NE,U,-16777216
-15,7,"uzungwensis","Otomys","",NE,U,-16777216
-16,6,"sloggetti","Myotomys","",NE,U,-16777216
-18,17,"irroratus","Otomys","Southern African Vlei Rat",LC,S,-16731116
-19,17,"angoniensis","Otomys","Angoni Vlei Rat",LC,S,-16731116
-20,4,"laminatus","Otomys","Laminate Vlei Rat",LC,S,-16731116
-25,24,"cuanzensis","Otomys","Cuanza Vlei Rat",LC,S,-16731116
-26,24,"maximus","Otomys","",NE,U,-16777216
-27,23,"occidentalis","Otomys","Western Vlei Rat",VU,D,-11184866
-28,22,"denti","Otomys","Dent's Vlei Rat",LC,D,-16731116
-31,30,"burtoni","Otomys","Burton's Vlei Rat",EN,D,-8572416
-32,30,"dollmani","Otomys","",NE,U,-16777216
-33,29,"tropicalis","Otomys","Tropical Vlei Rat",LC,S,-16731116
-38,37,"barbouri","Otomys","Barbour's Vlei Rat",EN,D,-8572416
-39,37,"anchietae","Otomys","Angolan Vlei Rat",LC,U,-16731116
-40,36,"lacustris","Otomys","Tanzanian Vlei Rat",VU,D,-11184866
-41,35,"unisulcatus","Myotomys","",NE,U,-16777216
-42,34,"saundersiae","Otomys","Saunder's Vlei Rat",LC,U,-16731116
-44,43,"littledalei","Parotomys","Littledale's Whistling Rat",LC,S,-16731116
-45,43,"brantsii","Parotomys","Brants's Whistling Rat",LC,S,-16731116
-46,0,"legata","Diplothrix","Ryukyus Islands Tree Rat",EN,D,-8572416
+10,-268435447,"typus","Otomys","Typical Vlei Rat",LC,D,-16731116
+11,-268435447,"orestes","Otomys","",NE,U,-16777216
+13,-268435444,"dartmouthi","Otomys","",NE,U,-16777216
+14,-268435444,"jacksoni","Otomys","",NE,U,-16777216
+15,-268435449,"uzungwensis","Otomys","",NE,U,-16777216
+16,-268435450,"sloggetti","Myotomys","",NE,U,-16777216
+18,-268435439,"irroratus","Otomys","Southern African Vlei Rat",LC,S,-16731116
+19,-268435439,"angoniensis","Otomys","Angoni Vlei Rat",LC,S,-16731116
+20,-268435452,"laminatus","Otomys","Laminate Vlei Rat",LC,S,-16731116
+25,-268435432,"cuanzensis","Otomys","Cuanza Vlei Rat",LC,S,-16731116
+26,-268435432,"maximus","Otomys","",NE,U,-16777216
+27,-268435433,"occidentalis","Otomys","Western Vlei Rat",VU,D,-11184866
+28,-268435434,"denti","Otomys","Dent's Vlei Rat",LC,D,-16731116
+31,-268435426,"burtoni","Otomys","Burton's Vlei Rat",EN,D,-8572416
+32,-268435426,"dollmani","Otomys","",NE,U,-16777216
+33,-268435427,"tropicalis","Otomys","Tropical Vlei Rat",LC,S,-16731116
+38,-268435419,"barbouri","Otomys","Barbour's Vlei Rat",EN,D,-8572416
+39,-268435419,"anchietae","Otomys","Angolan Vlei Rat",LC,U,-16731116
+40,-268435420,"lacustris","Otomys","Tanzanian Vlei Rat",VU,D,-11184866
+41,-268435421,"unisulcatus","Myotomys","",NE,U,-16777216
+42,-268435422,"saundersiae","Otomys","Saunder's Vlei Rat",LC,U,-16731116
+44,-268435413,"littledalei","Parotomys","Littledale's Whistling Rat",LC,S,-16731116
+45,-268435413,"brantsii","Parotomys","Brants's Whistling Rat",LC,S,-16731116
+46,-268435456,"legata","Diplothrix","Ryukyus Islands Tree Rat",EN,D,-8572416

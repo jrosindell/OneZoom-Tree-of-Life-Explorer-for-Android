@@ -33,8 +33,6 @@ public class CustomizeSearchView extends SearchView{
 	final SearchView.OnQueryTextListener queryTreeListener = new SearchView.OnQueryTextListener() {	
 		@Override
 		public boolean onQueryTextSubmit(String userInput) {
-			self.setQueryHint("Enter Species Name");
-			self.setQuery(userInput, false);
 			self.clearFocus();
 			client.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 			client.search(userInput);
@@ -54,8 +52,6 @@ public class CustomizeSearchView extends SearchView{
 	final SearchView.OnQueryTextListener queryWebListener = new SearchView.OnQueryTextListener() {	
 		@Override
 		public boolean onQueryTextSubmit(String userInput) {
-			self.setQueryHint("Enter Species Name");
-			self.setQuery(userInput, false);
 			self.clearFocus();
 			client.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 			client.searchAndLoad(userInput);

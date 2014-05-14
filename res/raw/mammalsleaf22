@@ -1,25 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"martinensis","Neotoma","San Martin Island Woodrat",EX,U,-16777036
-10,8,"devia","Neotoma","Arizona Woodrat",LC,S,-16731116
-11,7,"palatina","Neotoma","Bolano's Woodrat",VU,D,-11184866
-12,6,"lepida","Neotoma","Desert Woodrat",LC,S,-16731116
-13,5,"micropus","Neotoma","Southern Plains Woodrat",LC,S,-16731116
-15,14,"nelsoni","Neotoma","Nelson's Woodrat",CR,D,-3014646
-16,14,"mexicana","Neotoma","Mexican Woodrat",LC,S,-16731116
-22,21,"magister","Neotoma","Allegheny Woodrat",NT,D,-12486656
-23,21,"floridana","Neotoma","Eastern Woodrat",LC,D,-16731116
-24,20,"goldmani","Neotoma","Goldman's Woodrat",LC,D,-16731116
-25,19,"angustapalata","Neotoma","Tamaulipan Woodrat",EN,D,-8572416
-26,18,"chrysomelas","Neotoma","Nicaraguan Woodrat",LC,S,-16731116
-27,17,"stephensi","Neotoma","Stephen's Woodrat",LC,S,-16731116
-32,31,"albigula","Neotoma","White-throated Woodrat",LC,S,-16731116
-33,31,"leucodon","Neotoma","White-toothed Woodrat",LC,S,-16731116
-34,30,"bryanti","Neotoma","Bryant's Woodrat",EN,D,-8572416
-35,29,"anthonyi","Neotoma","Anthony's Woodrat",EX,U,-16777036
-36,28,"bunkeri","Neotoma","Bunkers Woodrat",EX,U,-16777036
-40,39,"fuscipes","Neotoma","Dusky-footed Woodrat",LC,S,-16731116
-41,39,"macrotis","Neotoma","Big-eared Woodrat",LC,U,-16731116
-42,38,"cinerea","Neotoma","Bushy-tailed Woodrat",LC,S,-16731116
-43,37,"phenax","Neotoma","Sonoran Woodrat",NT,D,-12486656
-45,44,"alleni","Hodomys","Allen's Woodrat",LC,S,-16731116
-46,44,"nelsoni","Xenomys","Magdalena Rat",EN,D,-8572416
+9,-268435448,"martinensis","Neotoma","San Martin Island Woodrat",EX,U,-16777036
+10,-268435448,"devia","Neotoma","Arizona Woodrat",LC,S,-16731116
+11,-268435449,"palatina","Neotoma","Bolano's Woodrat",VU,D,-11184866
+12,-268435450,"lepida","Neotoma","Desert Woodrat",LC,S,-16731116
+13,-268435451,"micropus","Neotoma","Southern Plains Woodrat",LC,S,-16731116
+15,-268435442,"nelsoni","Neotoma","Nelson's Woodrat",CR,D,-3014646
+16,-268435442,"mexicana","Neotoma","Mexican Woodrat",LC,S,-16731116
+22,-268435435,"magister","Neotoma","Allegheny Woodrat",NT,D,-12486656
+23,-268435435,"floridana","Neotoma","Eastern Woodrat",LC,D,-16731116
+24,-268435436,"goldmani","Neotoma","Goldman's Woodrat",LC,D,-16731116
+25,-268435437,"angustapalata","Neotoma","Tamaulipan Woodrat",EN,D,-8572416
+26,-268435438,"chrysomelas","Neotoma","Nicaraguan Woodrat",LC,S,-16731116
+27,-268435439,"stephensi","Neotoma","Stephen's Woodrat",LC,S,-16731116
+32,-268435425,"albigula","Neotoma","White-throated Woodrat",LC,S,-16731116
+33,-268435425,"leucodon","Neotoma","White-toothed Woodrat",LC,S,-16731116
+34,-268435426,"bryanti","Neotoma","Bryant's Woodrat",EN,D,-8572416
+35,-268435427,"anthonyi","Neotoma","Anthony's Woodrat",EX,U,-16777036
+36,-268435428,"bunkeri","Neotoma","Bunkers Woodrat",EX,U,-16777036
+40,-268435417,"fuscipes","Neotoma","Dusky-footed Woodrat",LC,S,-16731116
+41,-268435417,"macrotis","Neotoma","Big-eared Woodrat",LC,U,-16731116
+42,-268435418,"cinerea","Neotoma","Bushy-tailed Woodrat",LC,S,-16731116
+43,-268435419,"phenax","Neotoma","Sonoran Woodrat",NT,D,-12486656
+45,-268435412,"alleni","Hodomys","Allen's Woodrat",LC,S,-16731116
+46,-268435412,"nelsoni","Xenomys","Magdalena Rat",EN,D,-8572416

@@ -53,6 +53,7 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 		treeView.client.hideKeyBoard(treeView);
 		if (treeView.client.hasHitLink(e.getX(), e.getY())) {
 			treeView.client.resetSearch();
+			treeView.client.setQueryOfCurrentSearchView();
 			treeView.client.hideTreeView();
 			treeView.client.loadLinkURL();
 			treeView.client.displayWebView();	

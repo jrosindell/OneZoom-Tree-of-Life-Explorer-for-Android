@@ -1,23 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,9,"intercastellanus","Phalanger","Eastern Common Cuscus",LC,D,-16731116
-11,9,"orientalis","Phalanger","Northern Common Cuscus",LC,S,-16731116
-12,8,"mimicus","Phalanger","Southern Common Cuscus",LC,D,-16731116
-14,13,"carmelitae","Phalanger","Mountain Cuscus",LC,S,-16731116
-15,13,"vestitus","Phalanger","Stein's Cuscus",LC,D,-16731116
-16,6,"sericeus","Phalanger","Silky Cuscus",LC,U,-16731116
-17,5,"lullulae","Phalanger","Woodlark Cuscus",EN,S,-8572416
-18,4,"pelengensis","Strigocuscus","Peleng Cuscus",LC,S,-16731116
-20,19,"celebensis","Strigocuscus","Small Sulawesi Cuscus",VU,D,-11184866
-21,19,"gymnotis","Phalanger","Ground Cuscus",LC,D,-16731116
-24,23,"maculatus","Spilocuscus","Common Spotted Cuscus",LC,S,-16731116
-25,23,"kraemeri","Spilocuscus","Admiralty Cuscus",NT,D,-12486656
-26,22,"rufoniger","Spilocuscus","Black-spotted Cuscus",CR,D,-3014646
-28,27,"melanotis","Ailurops","Talaud Bear Cuscus",CR,D,-3014646
-29,27,"ursinus","Ailurops","Bear Cuscus",VU,D,-11184866
-35,34,"vulpecula","Trichosurus","Common Brushtail Possum",LC,D,-16731116
-36,34,"johnstonii","Trichosurus","",NE,U,-16777216
-37,33,"arnhemensis","Trichosurus","",NE,U,-16777216
-38,32,"caninus","Trichosurus","Short-eared Brushtail Possum",LC,S,-16731116
-39,31,"squamicaudata","Wyulda","Scaly-tailed Possum",DD,D,-11513776
-41,40,"matanim","Phalanger","Telefomin Cuscus",CR,U,-3014646
-42,40,"ornatus","Phalanger","Ornate Cuscus",LC,S,-16731116
+10,-268435447,"intercastellanus","Phalanger","Eastern Common Cuscus",LC,D,-16731116
+11,-268435447,"orientalis","Phalanger","Northern Common Cuscus",LC,S,-16731116
+12,-268435448,"mimicus","Phalanger","Southern Common Cuscus",LC,D,-16731116
+14,-268435443,"carmelitae","Phalanger","Mountain Cuscus",LC,S,-16731116
+15,-268435443,"vestitus","Phalanger","Stein's Cuscus",LC,D,-16731116
+16,-268435450,"sericeus","Phalanger","Silky Cuscus",LC,U,-16731116
+17,-268435451,"lullulae","Phalanger","Woodlark Cuscus",EN,S,-8572416
+18,-268435452,"pelengensis","Strigocuscus","Peleng Cuscus",LC,S,-16731116
+20,-268435437,"celebensis","Strigocuscus","Small Sulawesi Cuscus",VU,D,-11184866
+21,-268435437,"gymnotis","Phalanger","Ground Cuscus",LC,D,-16731116
+24,-268435433,"maculatus","Spilocuscus","Common Spotted Cuscus",LC,S,-16731116
+25,-268435433,"kraemeri","Spilocuscus","Admiralty Cuscus",NT,D,-12486656
+26,-268435434,"rufoniger","Spilocuscus","Black-spotted Cuscus",CR,D,-3014646
+28,-268435429,"melanotis","Ailurops","Talaud Bear Cuscus",CR,D,-3014646
+29,-268435429,"ursinus","Ailurops","Bear Cuscus",VU,D,-11184866
+35,-268435422,"vulpecula","Trichosurus","Common Brushtail Possum",LC,D,-16731116
+36,-268435422,"johnstonii","Trichosurus","",NE,U,-16777216
+37,-268435423,"arnhemensis","Trichosurus","",NE,U,-16777216
+38,-268435424,"caninus","Trichosurus","Short-eared Brushtail Possum",LC,S,-16731116
+39,-268435425,"squamicaudata","Wyulda","Scaly-tailed Possum",DD,D,-11513776
+41,-268435416,"matanim","Phalanger","Telefomin Cuscus",CR,U,-3014646
+42,-268435416,"ornatus","Phalanger","Ornate Cuscus",LC,S,-16731116

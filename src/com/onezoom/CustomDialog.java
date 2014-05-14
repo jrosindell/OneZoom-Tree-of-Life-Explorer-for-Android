@@ -75,19 +75,19 @@ public class CustomDialog extends Dialog
         // create tab 1
         TabHost.TabSpec tab1 = tabs.newTabSpec("tab1");
         tab1.setContent(R.id.textView01);
-        tab1.setIndicator("Instructions");
+        tab1.setIndicator(Information.tabTitle[0]);
         tabs.addTab(tab1);
 
         // create tab 2
         TabHost.TabSpec tab2 = tabs.newTabSpec("tab2");
         tab2.setContent(R.id.listView02);
-        tab2.setIndicator("Colour Key");
+        tab2.setIndicator(Information.tabTitle[1]);
         tabs.addTab(tab2);
         
         // create tab 3
         TabHost.TabSpec tab3 = tabs.newTabSpec("tab3");
         tab3.setContent(R.id.textView03);
-        tab3.setIndicator("Credit");
+        tab3.setIndicator(Information.tabTitle[2]);
         tabs.addTab(tab3);
     }
 

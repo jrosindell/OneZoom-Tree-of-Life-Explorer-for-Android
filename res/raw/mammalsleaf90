@@ -1,23 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"rapax","Crocidura","Chinese White-toothed Shrew",DD,U,-11513776
-10,8,"vorax","Crocidura","Voracious Shrew",LC,U,-16731116
-11,7,"pullata","Crocidura","Kashmir White-toothed Shrew",DD,U,-11513776
-13,12,"muricauda","Crocidura","Mouse-tailed Shrew",LC,U,-16731116
-14,12,"planiceps","Crocidura","Flat-headed Shrew",DD,U,-11513776
-15,5,"levicula","Crocidura","Sulawesi Tiny Shrew",LC,U,-16731116
-18,17,"lusitania","Crocidura","Mauritanian Shrew",LC,U,-16731116
-19,17,"niobe","Crocidura","Niobe's Shrew",NT,U,-12486656
-20,16,"usambarae","Crocidura","Usambara Shrew",EN,D,-8572416
-22,21,"montis","Crocidura","Montane White-toothed Shrew",LC,U,-16731116
-23,21,"tenuis","Crocidura","Timor Shrew",DD,U,-11513776
-30,29,"lepidura","Crocidura","Sumatran Giant Shrew",LC,S,-16731116
-31,29,"orientalis","Crocidura","Oriental Shrew",VU,U,-11184866
-32,28,"foetida","Crocidura","Bornean Shrew",LC,U,-16731116
-33,27,"brunnea","Crocidura","Thick-tailed Shrew",LC,U,-16731116
-34,26,"fuliginosa","Crocidura","Southeast Asian Shrew",LC,U,-16731116
-36,35,"baluensis","Crocidura","Kinabalu Shrew",VU,S,-11184866
-37,35,"vosmaeri","Crocidura","Banka Shrew",DD,U,-11513776
-38,24,"telfordi","Crocidura","Telford's Shrew",EN,D,-8572416
-40,39,"tarella","Crocidura","Tarella Shrew",EN,D,-8572416
-41,39,"ichnusae","Crocidura","",NE,U,-16777216
-42,0,"macarthuri","Crocidura","Macarthur's Shrew",LC,U,-16731116
+9,-268435448,"rapax","Crocidura","Chinese White-toothed Shrew",DD,U,-11513776
+10,-268435448,"vorax","Crocidura","Voracious Shrew",LC,U,-16731116
+11,-268435449,"pullata","Crocidura","Kashmir White-toothed Shrew",DD,U,-11513776
+13,-268435444,"muricauda","Crocidura","Mouse-tailed Shrew",LC,U,-16731116
+14,-268435444,"planiceps","Crocidura","Flat-headed Shrew",DD,U,-11513776
+15,-268435451,"levicula","Crocidura","Sulawesi Tiny Shrew",LC,U,-16731116
+18,-268435439,"lusitania","Crocidura","Mauritanian Shrew",LC,U,-16731116
+19,-268435439,"niobe","Crocidura","Niobe's Shrew",NT,U,-12486656
+20,-268435440,"usambarae","Crocidura","Usambara Shrew",EN,D,-8572416
+22,-268435435,"montis","Crocidura","Montane White-toothed Shrew",LC,U,-16731116
+23,-268435435,"tenuis","Crocidura","Timor Shrew",DD,U,-11513776
+30,-268435427,"lepidura","Crocidura","Sumatran Giant Shrew",LC,S,-16731116
+31,-268435427,"orientalis","Crocidura","Oriental Shrew",VU,U,-11184866
+32,-268435428,"foetida","Crocidura","Bornean Shrew",LC,U,-16731116
+33,-268435429,"brunnea","Crocidura","Thick-tailed Shrew",LC,U,-16731116
+34,-268435430,"fuliginosa","Crocidura","Southeast Asian Shrew",LC,U,-16731116
+36,-268435421,"baluensis","Crocidura","Kinabalu Shrew",VU,S,-11184866
+37,-268435421,"vosmaeri","Crocidura","Banka Shrew",DD,U,-11513776
+38,-268435432,"telfordi","Crocidura","Telford's Shrew",EN,D,-8572416
+40,-268435417,"tarella","Crocidura","Tarella Shrew",EN,D,-8572416
+41,-268435417,"ichnusae","Crocidura","",NE,U,-16777216
+42,-268435456,"macarthuri","Crocidura","Macarthur's Shrew",LC,U,-16731116

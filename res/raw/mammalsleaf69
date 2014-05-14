@@ -1,23 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-6,5,"periosus","Choeroniscus","Greater Long-tailed Bat",VU,U,-11184866
-7,5,"minor","Choeroniscus","Lesser Long-tailed Bat",LC,U,-16731116
-8,4,"godmani","Choeroniscus","Godman's Long-tailed Bat",LC,U,-16731116
-10,9,"mexicana","Choeronycteris","Mexican Long-tongued Bat",NT,U,-12486656
-11,9,"harrisoni","Musonycteris","Banana Bat",VU,D,-11184866
-14,13,"underwoodi","Hylonycteris","Underwood's Long-tongued Bat",LC,S,-16731116
-15,13,"obscura","Lichonycteris","Dark Long-tongued Bat",LC,U,-16731116
-16,12,"ega","Scleronycteris","Ega Long-tongued Bat",LC,D,-16731116
-20,19,"latidens","Anoura","Broad-toothed Tailless Bat",LC,S,-16731116
-21,19,"cultrata","Anoura","Handley's Tailless Bat",NT,D,-12486656
-22,18,"caudifer","Anoura","Tailed Tailless Bat",LC,U,-16731116
-23,17,"geoffroyi","Anoura","Geoffroy's Tailless Bat",LC,S,-16731116
-30,29,"morenoi","Glossophaga","Western Long-tongued Bat",LC,S,-16731116
-31,29,"leachii","Glossophaga","Gray Long-tongued Bat",LC,S,-16731116
-32,28,"longirostris","Glossophaga","Miller's Long-tongued Bat",DD,U,-11513776
-33,27,"soricina","Glossophaga","Pallas's Long-tongued Bat",LC,S,-16731116
-34,26,"commissarisi","Glossophaga","Commissaris's Long-tongued Bat",LC,S,-16731116
-36,35,"plethodon","Monophyllus","Insular Single-leaf Bat",LC,U,-16731116
-37,35,"redmani","Monophyllus","Leach's Single-leaf Bat",LC,S,-16731116
-40,39,"curasoae","Leptonycteris","Curacaoan Long-nosed Bat",VU,D,-11184866
-41,39,"yerbabuenae","Leptonycteris","Lesser Long-nosed Bat",VU,D,-11184866
-42,38,"nivalis","Leptonycteris","Greater Long-nosed Bat",EN,D,-8572416
+6,-268435451,"periosus","Choeroniscus","Greater Long-tailed Bat",VU,U,-11184866
+7,-268435451,"minor","Choeroniscus","Lesser Long-tailed Bat",LC,U,-16731116
+8,-268435452,"godmani","Choeroniscus","Godman's Long-tailed Bat",LC,U,-16731116
+10,-268435447,"mexicana","Choeronycteris","Mexican Long-tongued Bat",NT,U,-12486656
+11,-268435447,"harrisoni","Musonycteris","Banana Bat",VU,D,-11184866
+14,-268435443,"underwoodi","Hylonycteris","Underwood's Long-tongued Bat",LC,S,-16731116
+15,-268435443,"obscura","Lichonycteris","Dark Long-tongued Bat",LC,U,-16731116
+16,-268435444,"ega","Scleronycteris","Ega Long-tongued Bat",LC,D,-16731116
+20,-268435437,"latidens","Anoura","Broad-toothed Tailless Bat",LC,S,-16731116
+21,-268435437,"cultrata","Anoura","Handley's Tailless Bat",NT,D,-12486656
+22,-268435438,"caudifer","Anoura","Tailed Tailless Bat",LC,U,-16731116
+23,-268435439,"geoffroyi","Anoura","Geoffroy's Tailless Bat",LC,S,-16731116
+30,-268435427,"morenoi","Glossophaga","Western Long-tongued Bat",LC,S,-16731116
+31,-268435427,"leachii","Glossophaga","Gray Long-tongued Bat",LC,S,-16731116
+32,-268435428,"longirostris","Glossophaga","Miller's Long-tongued Bat",DD,U,-11513776
+33,-268435429,"soricina","Glossophaga","Pallas's Long-tongued Bat",LC,S,-16731116
+34,-268435430,"commissarisi","Glossophaga","Commissaris's Long-tongued Bat",LC,S,-16731116
+36,-268435421,"plethodon","Monophyllus","Insular Single-leaf Bat",LC,U,-16731116
+37,-268435421,"redmani","Monophyllus","Leach's Single-leaf Bat",LC,S,-16731116
+40,-268435417,"curasoae","Leptonycteris","Curacaoan Long-nosed Bat",VU,D,-11184866
+41,-268435417,"yerbabuenae","Leptonycteris","Lesser Long-nosed Bat",VU,D,-11184866
+42,-268435418,"nivalis","Leptonycteris","Greater Long-nosed Bat",EN,D,-8572416

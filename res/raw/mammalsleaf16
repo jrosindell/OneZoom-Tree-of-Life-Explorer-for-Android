@@ -1,49 +1,49 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"watersi","Gerbillus","Waters's Gerbil",LC,U,-16731116
-12,10,"nancillus","Gerbillus","Sudan Gerbil",DD,U,-11513776
-13,9,"perpallidus","Gerbillus","Pale Gerbil",LC,S,-16731116
-16,15,"gleadowi","Gerbillus","Little Hairy-footed Gerbil",NT,D,-12486656
-17,15,"rosalinda","Gerbillus","Rosalinda Gerbil",LC,U,-16731116
-18,14,"lowei","Dipodillus","",NE,U,-16777216
-21,20,"grobbeni","Gerbillus","Grobben's Gerbil",DD,U,-11513776
-22,20,"bottai","Dipodillus","",NE,U,-16777216
-23,19,"jamesi","Dipodillus","",NE,U,-16777216
-27,26,"cheesmani","Gerbillus","Cheesman's Gerbil",LC,S,-16731116
-28,26,"hesperinus","Gerbillus","Western Gerbil",EN,U,-8572416
-29,25,"aquilus","Gerbillus","Swarthy Gerbil",LC,U,-16731116
-30,24,"tarabuli","Gerbillus","Tarabul's Gerbil",LC,S,-16731116
-33,32,"floweri","Gerbillus","Flower's Gerbil",LC,S,-16731116
-34,32,"somalicus","Dipodillus","",NE,U,-16777216
-35,31,"garamantis","Gerbillus","",NE,U,-16777216
-38,37,"hoogstraali","Gerbillus","Hoogstraal's Gerbil",VU,U,-11184866
-39,37,"occiduus","Gerbillus","Occidental Gerbil",DD,U,-11513776
-41,40,"brockmani","Gerbillus","Brockman's Gerbil",DD,U,-11513776
-42,40,"amoenus","Gerbillus","Pleasant Gerbil",LC,U,-16731116
-46,45,"burtoni","Gerbillus","Burton's Gerbil",DD,U,-11513776
-47,45,"mauritaniae","Gerbillus","",NE,U,-16777216
-48,44,"principulus","Gerbillus","Principal Gerbil",DD,U,-11513776
-49,43,"henleyi","Gerbillus","Pygmy Gerbil",LC,U,-16731116
-55,54,"campestris","Dipodillus","",NE,U,-16777216
-56,54,"syrticus","Gerbillus","",NE,U,-16777216
-57,53,"stigmonyx","Dipodillus","",NE,U,-16777216
-58,52,"harwoodi","Dipodillus","",NE,U,-16777216
-59,51,"famulus","Gerbillus","Black-tufted Gerbil",LC,U,-16731116
-61,60,"muriculus","Gerbillus","Barfur Gerbil",DD,U,-11513776
-62,60,"agag","Gerbillus","Agag Gerbil",DD,U,-11513776
-67,66,"pyramidum","Gerbillus","Greater Egyptian Gerbil",LC,S,-16731116
-68,66,"latastei","Gerbillus","Lataste's Gerbil",LC,U,-16731116
-69,65,"mesopotamiae","Gerbillus","Mesopotamian Gerbil",LC,D,-16731116
-70,64,"pulvinatus","Gerbillus","Cushioned Gerbil",LC,U,-16731116
-71,63,"gerbillus","Gerbillus","Lesser Egyptian Gerbil",LC,S,-16731116
-77,76,"andersoni","Gerbillus","Anderson's Gerbil",LC,U,-16731116
-78,76,"nigeriae","Gerbillus","Nigerian Gerbil",LC,S,-16731116
-79,75,"mackilligini","Dipodillus","",NE,U,-16777216
-81,80,"zakariai","Dipodillus","",NE,U,-16777216
-82,80,"simoni","Dipodillus","",NE,U,-16777216
-85,84,"maghrebi","Dipodillus","",NE,U,-16777216
-86,84,"dasyurus","Dipodillus","",NE,U,-16777216
-87,83,"poecilops","Gerbillus","Large Aden Gerbil",LC,U,-16731116
-91,90,"dunni","Gerbillus","Somalia Gerbil",LC,U,-16731116
-92,90,"vivax","Gerbillus","",NE,U,-16777216
-93,89,"pusillus","Gerbillus","Least Gerbil",LC,U,-16731116
-94,88,"acticola","Gerbillus","Berbera Gerbil",DD,U,-11513776
+11,-268435446,"watersi","Gerbillus","Waters's Gerbil",LC,U,-16731116
+12,-268435446,"nancillus","Gerbillus","Sudan Gerbil",DD,U,-11513776
+13,-268435447,"perpallidus","Gerbillus","Pale Gerbil",LC,S,-16731116
+16,-268435441,"gleadowi","Gerbillus","Little Hairy-footed Gerbil",NT,D,-12486656
+17,-268435441,"rosalinda","Gerbillus","Rosalinda Gerbil",LC,U,-16731116
+18,-268435442,"lowei","Dipodillus","",NE,U,-16777216
+21,-268435436,"grobbeni","Gerbillus","Grobben's Gerbil",DD,U,-11513776
+22,-268435436,"bottai","Dipodillus","",NE,U,-16777216
+23,-268435437,"jamesi","Dipodillus","",NE,U,-16777216
+27,-268435430,"cheesmani","Gerbillus","Cheesman's Gerbil",LC,S,-16731116
+28,-268435430,"hesperinus","Gerbillus","Western Gerbil",EN,U,-8572416
+29,-268435431,"aquilus","Gerbillus","Swarthy Gerbil",LC,U,-16731116
+30,-268435432,"tarabuli","Gerbillus","Tarabul's Gerbil",LC,S,-16731116
+33,-268435424,"floweri","Gerbillus","Flower's Gerbil",LC,S,-16731116
+34,-268435424,"somalicus","Dipodillus","",NE,U,-16777216
+35,-268435425,"garamantis","Gerbillus","",NE,U,-16777216
+38,-268435419,"hoogstraali","Gerbillus","Hoogstraal's Gerbil",VU,U,-11184866
+39,-268435419,"occiduus","Gerbillus","Occidental Gerbil",DD,U,-11513776
+41,-268435416,"brockmani","Gerbillus","Brockman's Gerbil",DD,U,-11513776
+42,-268435416,"amoenus","Gerbillus","Pleasant Gerbil",LC,U,-16731116
+46,-268435411,"burtoni","Gerbillus","Burton's Gerbil",DD,U,-11513776
+47,-268435411,"mauritaniae","Gerbillus","",NE,U,-16777216
+48,-268435412,"principulus","Gerbillus","Principal Gerbil",DD,U,-11513776
+49,-268435413,"henleyi","Gerbillus","Pygmy Gerbil",LC,U,-16731116
+55,-268435402,"campestris","Dipodillus","",NE,U,-16777216
+56,-268435402,"syrticus","Gerbillus","",NE,U,-16777216
+57,-268435403,"stigmonyx","Dipodillus","",NE,U,-16777216
+58,-268435404,"harwoodi","Dipodillus","",NE,U,-16777216
+59,-268435405,"famulus","Gerbillus","Black-tufted Gerbil",LC,U,-16731116
+61,-268435396,"muriculus","Gerbillus","Barfur Gerbil",DD,U,-11513776
+62,-268435396,"agag","Gerbillus","Agag Gerbil",DD,U,-11513776
+67,-268435390,"pyramidum","Gerbillus","Greater Egyptian Gerbil",LC,S,-16731116
+68,-268435390,"latastei","Gerbillus","Lataste's Gerbil",LC,U,-16731116
+69,-268435391,"mesopotamiae","Gerbillus","Mesopotamian Gerbil",LC,D,-16731116
+70,-268435392,"pulvinatus","Gerbillus","Cushioned Gerbil",LC,U,-16731116
+71,-268435393,"gerbillus","Gerbillus","Lesser Egyptian Gerbil",LC,S,-16731116
+77,-268435380,"andersoni","Gerbillus","Anderson's Gerbil",LC,U,-16731116
+78,-268435380,"nigeriae","Gerbillus","Nigerian Gerbil",LC,S,-16731116
+79,-268435381,"mackilligini","Dipodillus","",NE,U,-16777216
+81,-268435376,"zakariai","Dipodillus","",NE,U,-16777216
+82,-268435376,"simoni","Dipodillus","",NE,U,-16777216
+85,-268435372,"maghrebi","Dipodillus","",NE,U,-16777216
+86,-268435372,"dasyurus","Dipodillus","",NE,U,-16777216
+87,-268435373,"poecilops","Gerbillus","Large Aden Gerbil",LC,U,-16731116
+91,-268435366,"dunni","Gerbillus","Somalia Gerbil",LC,U,-16731116
+92,-268435366,"vivax","Gerbillus","",NE,U,-16777216
+93,-268435367,"pusillus","Gerbillus","Least Gerbil",LC,U,-16731116
+94,-268435368,"acticola","Gerbillus","Berbera Gerbil",DD,U,-11513776

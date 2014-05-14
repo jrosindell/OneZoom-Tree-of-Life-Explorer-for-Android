@@ -1,22 +1,22 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"ahoenobarbus","Sus","Palawan Bearded Pig",VU,D,-11184866
-10,8,"barbatus","Sus","Bearded Pig",VU,D,-11184866
-11,7,"philippensis","Sus","Philippine Warty Pig",VU,D,-11184866
-13,12,"bucculentus","Sus","Indo-chinese Warty Pig",DD,U,-11513776
-14,12,"verrucosus","Sus","Javan Warty Pig",EN,D,-8572416
-17,16,"celebensis","Sus","Sulawesi Warty Pig",NT,D,-12486656
-18,16,"cebifrons","Sus","Visayan Warty Pig",CR,D,-3014646
-20,19,"scrofa","Sus","Eurasian Wild Pig",LC,U,-16731116
-21,19,"salvanius","Sus","",NE,U,-16777216
-22,4,"meinertzhageni","Hylochoerus","Forest Hog",LC,D,-16731116
-24,23,"porcus","Potamochoerus","Red River Hog",LC,D,-16731116
-25,23,"larvatus","Potamochoerus","Bushpig",LC,S,-16731116
-27,26,"aethiopicus","Phacochoerus","Desert Warthog",LC,D,-16731116
-28,26,"africanus","Phacochoerus","Common Warthog",LC,S,-16731116
-31,30,"togeanensis","Babyrousa","Togian Islands Babirusa",EN,D,-8572416
-32,30,"celebensis","Babyrousa","Sulawesi Babirusa",VU,D,-11184866
-34,33,"babyrussa","Babyrousa","Hairy Babirusa",VU,D,-11184866
-35,33,"bolabatuensis","Babyrousa","",NE,U,-16777216
-38,37,"pecari","Tayassu","White-lipped Peccary",NT,D,-12486656
-39,37,"wagneri","Catagonus","Chacoan Peccary",EN,D,-8572416
-40,36,"tajacu","Pecari","Collared Peccary",LC,S,-16731116
+9,-268435448,"ahoenobarbus","Sus","Palawan Bearded Pig",VU,D,-11184866
+10,-268435448,"barbatus","Sus","Bearded Pig",VU,D,-11184866
+11,-268435449,"philippensis","Sus","Philippine Warty Pig",VU,D,-11184866
+13,-268435444,"bucculentus","Sus","Indo-chinese Warty Pig",DD,U,-11513776
+14,-268435444,"verrucosus","Sus","Javan Warty Pig",EN,D,-8572416
+17,-268435440,"celebensis","Sus","Sulawesi Warty Pig",NT,D,-12486656
+18,-268435440,"cebifrons","Sus","Visayan Warty Pig",CR,D,-3014646
+20,-268435437,"scrofa","Sus","Eurasian Wild Pig",LC,U,-16731116
+21,-268435437,"salvanius","Sus","",NE,U,-16777216
+22,-268435452,"meinertzhageni","Hylochoerus","Forest Hog",LC,D,-16731116
+24,-268435433,"porcus","Potamochoerus","Red River Hog",LC,D,-16731116
+25,-268435433,"larvatus","Potamochoerus","Bushpig",LC,S,-16731116
+27,-268435430,"aethiopicus","Phacochoerus","Desert Warthog",LC,D,-16731116
+28,-268435430,"africanus","Phacochoerus","Common Warthog",LC,S,-16731116
+31,-268435426,"togeanensis","Babyrousa","Togian Islands Babirusa",EN,D,-8572416
+32,-268435426,"celebensis","Babyrousa","Sulawesi Babirusa",VU,D,-11184866
+34,-268435423,"babyrussa","Babyrousa","Hairy Babirusa",VU,D,-11184866
+35,-268435423,"bolabatuensis","Babyrousa","",NE,U,-16777216
+38,-268435419,"pecari","Tayassu","White-lipped Peccary",NT,D,-12486656
+39,-268435419,"wagneri","Catagonus","Chacoan Peccary",EN,D,-8572416
+40,-268435420,"tajacu","Pecari","Collared Peccary",LC,S,-16731116

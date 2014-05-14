@@ -1,27 +1,27 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"crassicaudatus","Otolemur","Thick-tailed Greater Galago",LC,S,-16731116
-10,8,"monteiri","Otolemur","",NE,U,-16777216
-11,7,"garnettii","Otolemur","Small-eared Greater Galago",LC,S,-16731116
-12,6,"gallarum","Galago","Somali Lesser Galago",LC,S,-16731116
-14,13,"elegantulus","Euoticus","Southern Needle-clawed Galago",LC,S,-16731116
-15,13,"pallidus","Euoticus","Northern Needle-clawed Galago",LC,U,-16731116
-19,18,"moholi","Galago","Southern Lesser Galago",LC,S,-16731116
-20,18,"nyasae","Galago","",NE,U,-16777216
-21,17,"senegalensis","Galago","Northern Lesser Galago",LC,S,-16731116
-22,16,"matschiei","Galago","Spectacled Lesser Galago",LC,D,-16731116
-25,24,"cameronensis","Galago","",NE,U,-16777216
-26,24,"alleni","Galago","",NE,U,-16777216
-27,23,"gabonensis","Galago","",NE,U,-16777216
-30,29,"demidoff","Galago","",NE,U,-16777216
-31,29,"orinus","Galago","",NE,U,-16777216
-32,28,"thomasi","Galago","",NE,U,-16777216
-34,33,"zanzibaricus","Galago","",NE,U,-16777216
-35,33,"granti","Galago","",NE,U,-16777216
-40,39,"bengalensis","Nycticebus","Bengal Slow Loris",VU,D,-11184866
-41,39,"coucang","Nycticebus","Greater Slow Loris",VU,D,-11184866
-42,38,"pygmaeus","Nycticebus","Pygmy Slow Loris",VU,D,-11184866
-44,43,"lydekkerianus","Loris","Gray Slender Loris",LC,D,-16731116
-45,43,"tardigradus","Loris","Red Slender Loris",EN,D,-8572416
-48,47,"calabarensis","Arctocebus","Calabar Angwantibo",LC,U,-16731116
-49,47,"aureus","Arctocebus","Golden Angwantibo",LC,U,-16731116
-50,46,"potto","Perodicticus","Potto",LC,S,-16731116
+9,-268435448,"crassicaudatus","Otolemur","Thick-tailed Greater Galago",LC,S,-16731116
+10,-268435448,"monteiri","Otolemur","",NE,U,-16777216
+11,-268435449,"garnettii","Otolemur","Small-eared Greater Galago",LC,S,-16731116
+12,-268435450,"gallarum","Galago","Somali Lesser Galago",LC,S,-16731116
+14,-268435443,"elegantulus","Euoticus","Southern Needle-clawed Galago",LC,S,-16731116
+15,-268435443,"pallidus","Euoticus","Northern Needle-clawed Galago",LC,U,-16731116
+19,-268435438,"moholi","Galago","Southern Lesser Galago",LC,S,-16731116
+20,-268435438,"nyasae","Galago","",NE,U,-16777216
+21,-268435439,"senegalensis","Galago","Northern Lesser Galago",LC,S,-16731116
+22,-268435440,"matschiei","Galago","Spectacled Lesser Galago",LC,D,-16731116
+25,-268435432,"cameronensis","Galago","",NE,U,-16777216
+26,-268435432,"alleni","Galago","",NE,U,-16777216
+27,-268435433,"gabonensis","Galago","",NE,U,-16777216
+30,-268435427,"demidoff","Galago","",NE,U,-16777216
+31,-268435427,"orinus","Galago","",NE,U,-16777216
+32,-268435428,"thomasi","Galago","",NE,U,-16777216
+34,-268435423,"zanzibaricus","Galago","",NE,U,-16777216
+35,-268435423,"granti","Galago","",NE,U,-16777216
+40,-268435417,"bengalensis","Nycticebus","Bengal Slow Loris",VU,D,-11184866
+41,-268435417,"coucang","Nycticebus","Greater Slow Loris",VU,D,-11184866
+42,-268435418,"pygmaeus","Nycticebus","Pygmy Slow Loris",VU,D,-11184866
+44,-268435413,"lydekkerianus","Loris","Gray Slender Loris",LC,D,-16731116
+45,-268435413,"tardigradus","Loris","Red Slender Loris",EN,D,-8572416
+48,-268435409,"calabarensis","Arctocebus","Calabar Angwantibo",LC,U,-16731116
+49,-268435409,"aureus","Arctocebus","Golden Angwantibo",LC,U,-16731116
+50,-268435410,"potto","Perodicticus","Potto",LC,S,-16731116

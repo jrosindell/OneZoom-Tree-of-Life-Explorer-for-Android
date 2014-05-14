@@ -1,97 +1,97 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"korinchi","Rattus","Sumatran Mountain Rat",DD,U,-11513776
-12,10,"exulans","Rattus","Polynesian Rat",LC,S,-16731116
-13,9,"hoogerwerfi","Rattus","Hoogerwerf's Sumatran Rat",VU,D,-11184866
-14,8,"annandalei","Rattus","Annandale's Sundaic Rat",LC,D,-16731116
-16,15,"ranjiniae","Rattus","Ranjini's Field Rat",EN,D,-8572416
-17,15,"enganus","Rattus","Enggano Island Rat",DD,D,-11513776
-18,5,"furvus","Palawanomys","Palawan Mountain Rat",DD,U,-11513776
-21,20,"oleracea","Vandeleuria","Asiatic Long-tailed Climbing Mouse",LC,S,-16731116
-22,20,"nilagirica","Vandeleuria","",EN,D,-8572416
-23,19,"nolthenii","Vandeleuria","Sri Lankan Highland Tree Mouse",EN,D,-8572416
-29,28,"incomtus","Dasymys","African Marsh Rat",LC,U,-16731116
-30,28,"alleni","Dasymys","",NE,U,-16777216
-31,27,"nudipes","Dasymys","Angolan Marsh Rat",DD,U,-11513776
-32,26,"montanus","Dasymys","Montane Shaggy Rat",EN,D,-8572416
-34,33,"rufulus","Dasymys","West African Shaggy Rat",LC,U,-16731116
-35,33,"foxi","Dasymys","Fox's Shaggy Rat",DD,U,-11513776
-37,36,"yunnanensis","Hadromys","Yunnan Hadromys",DD,U,-11513776
-38,36,"humei","Hadromys","Hume's Rat",EN,D,-8572416
-49,48,"baeodon","Maxomys","Small Bornean Maxomys",DD,U,-11513776
-50,48,"panglima","Maxomys","Palawan Maxomys",LC,S,-16731116
-51,47,"rajah","Maxomys","Rajah Sundaic Maxomys",VU,D,-11184866
-53,52,"musschenbroekii","Maxomys","Musschenbroek's Sulawesi Maxomys",LC,S,-16731116
-54,52,"alticola","Maxomys","Bornean Mountain Maxomys",LC,S,-16731116
-57,56,"wattsi","Maxomys","Watts's Sulawesi Maxomys",EN,D,-8572416
-58,56,"inas","Maxomys","Malayan Mountain Maxomys",LC,S,-16731116
-59,55,"pagensis","Maxomys","Mentawai Archipelago Maxomys",EN,D,-8572416
-60,44,"inflatus","Maxomys","Broad-nosed Sumatran Maxomys",VU,D,-11184866
-62,61,"hylomyoides","Maxomys","Sumatran Mountain Maxomys",DD,U,-11513776
-63,61,"dollmani","Maxomys","Dollman's Sulawesi Maxomys",DD,U,-11513776
-64,42,"ochraceiventer","Maxomys","Ochraceous-bellied Bornean Maxomys",DD,U,-11513776
-68,67,"whiteheadi","Maxomys","Whitehead's Sundaic Maxomys",VU,D,-11184866
-69,67,"surifer","Maxomys","Indomalayan Maxomys",LC,D,-16731116
-70,66,"moi","Maxomys","Indochinese Mountain Maxomys",LC,D,-16731116
-72,71,"hellwaldii","Maxomys","Hellwald's Sulawesi Maxomys",LC,D,-16731116
-73,71,"bartelsii","Maxomys","Bartels's Javan Maxomys",LC,S,-16731116
-80,79,"karlkoopmani","Chiropodomys","Koopman's Pencil-tailed Tree Mouse",EN,D,-8572416
-81,79,"major","Chiropodomys","Greater Pencil-tailed Tree Mouse",DD,U,-11513776
-82,78,"gliroides","Chiropodomys","Pencil-tailed Tree Mouse",LC,S,-16731116
-83,77,"muroides","Chiropodomys","Gray-bellied Pencil-tailed Tree Mouse",DD,U,-11513776
-85,84,"calamianensis","Chiropodomys","Palawan Pencil-tailed Tree Mouse",DD,U,-11513776
-86,84,"pusillus","Chiropodomys","Lesser Pencil-tailed Tree Mouse",DD,U,-11513776
-88,87,"longicaudatus","Hapalomys","Greater Marmoset Rat",EN,D,-8572416
-89,87,"delacouri","Hapalomys","Lesser Marmoset Rat",VU,D,-11184866
-92,91,"minahassae","Haeromys","Lowland Sulawesi Haeromys",VU,D,-11184866
-93,91,"pusillus","Haeromys","Sundaic Haeromys",VU,D,-11184866
-94,90,"margarettae","Haeromys","Margaret's Haeromys",DD,U,-11513776
-95,39,"fumosus","Heimyscus","African Smoky Mouse",LC,S,-16731116
-103,102,"meltada","Millardia","Soft-furred Metad",LC,S,-16731116
-104,102,"kathleenae","Millardia","Burmese Metad",LC,S,-16731116
-105,101,"kondana","Millardia","Kondana Rat",CR,D,-3014646
-106,100,"gleadowi","Millardia","Sand-coloured Metad",LC,U,-16731116
-109,108,"blanfordi","Madromys","White-tailed Wood Rat",LC,U,-16731116
-110,108,"elvira","Cremnomys","Large Rock-rat",CR,D,-3014646
-111,107,"cutchicus","Cremnomys","Cutch Rock-rat",LC,S,-16731116
-115,114,"fergussoniensis","Pogonomys","D'entrecasteaux Archipelago Pogonomys",EN,D,-8572416
-116,114,"loriae","Pogonomys","Loria's Pogonomys",LC,U,-16731116
-117,113,"macrourus","Pogonomys","Chestnut Tree Mouse",LC,U,-16731116
-119,118,"sylvestris","Pogonomys","Gray-bellied Tree Mouse",LC,U,-16731116
-120,118,"championi","Pogonomys","Champion's Tree Mouse",DD,S,-11513776
-121,97,"minutus","Micromys","Eurasian Harvest Mouse",LC,S,-16731116
-123,122,"bunnii","Nesokia","Bunn's Short-tailed Bandicoot Rat",EN,D,-8572416
-124,122,"indica","Nesokia","Short-tailed Bandicoot Rat",LC,U,-16731116
-135,134,"barbarus","Lemniscomys","Barbary Lemniscomys",LC,S,-16731116
-136,134,"zebra","Lemniscomys","Heuglin's Lemniscomys",LC,S,-16731116
-137,133,"bellieri","Lemniscomys","Bellier's Lemniscomys",LC,S,-16731116
-139,138,"roseveari","Lemniscomys","Rosevear's Lemniscomys",DD,U,-11513776
-140,138,"macculus","Lemniscomys","Buffoon Lemniscomys",LC,S,-16731116
-142,141,"mittendorfi","Lemniscomys","Mittendorf's Lemniscomys",VU,S,-11184866
-143,141,"rosalia","Lemniscomys","Single-striped Grass Mouse",LC,S,-16731116
-144,130,"linulus","Lemniscomys","Senegal Lemniscomys",LC,U,-16731116
-147,146,"hoogstraali","Lemniscomys","Hoogstraal's Lemniscomys",DD,U,-11513776
-148,146,"striatus","Lemniscomys","Typical Lemniscomys",LC,I,-16731116
-149,145,"griselda","Lemniscomys","Griselda's Lemniscomys",LC,S,-16731116
-152,151,"parvus","Pithecheir","Malay Peninsula Pithecheir",DD,U,-11513776
-153,151,"melanurus","Pithecheir","Javan Pithecheir",VU,D,-11184866
-154,150,"ohiensis","Srilankamys","Ohiya Rat",VU,D,-11184866
-160,159,"arrogans","Rattus","Western New Guinea Mountain Rat",LC,S,-16731116
-161,159,"pococki","Rattus","Pocock's Highland Rat",LC,U,-16731116
-163,162,"niobe","Rattus","Moss-forest Rat",LC,S,-16731116
-164,162,"arfakiensis","Rattus","",NE,U,-16777216
-166,165,"omichlodes","Rattus","Arianus's Rat",DD,U,-11513776
-167,165,"richardsoni","Rattus","Glacier Rat",VU,D,-11184866
-170,169,"vandeuseni","Rattus","Van Deusen's Rat",EN,D,-8572416
-171,169,"verecundus","Rattus","Slender Rat",LC,S,-16731116
-172,168,"ceramicus","Nesoromys","Seram Island Mountain Rat",EN,D,-8572416
-174,173,"imberbis","Muriculus","Ethiopian Striped Mouse",LC,D,-16731116
-175,173,"millardi","Dacnomys","Millard's Rat",DD,U,-11513776
-177,176,"canus","Eropeplus","Sulawesi Soft-furred Rat",VU,D,-11184866
-178,176,"meyeri","Lenomys","Meyer's Lenomys",LC,D,-16731116
-184,183,"fratrorum","Bunomys","Northeastern Peninsula Bunomys",VU,D,-11184866
-185,183,"prolatus","Bunomys","Tambusisi Bunomys",EN,D,-8572416
-187,186,"chrysocomus","Bunomys","Common Bunomys",LC,S,-16731116
-188,186,"andrewsi","Bunomys","Andrew's Bunomys",LC,U,-16731116
-189,181,"coelestis","Bunomys","Lampobatang Bunomys",CR,D,-3014646
-190,180,"penitus","Bunomys","Montane Bunomys",NT,D,-12486656
-191,179,"fulva","Vernaya","Vernay's Climbing Mouse",LC,U,-16731116
+11,-268435446,"korinchi","Rattus","Sumatran Mountain Rat",DD,U,-11513776
+12,-268435446,"exulans","Rattus","Polynesian Rat",LC,S,-16731116
+13,-268435447,"hoogerwerfi","Rattus","Hoogerwerf's Sumatran Rat",VU,D,-11184866
+14,-268435448,"annandalei","Rattus","Annandale's Sundaic Rat",LC,D,-16731116
+16,-268435441,"ranjiniae","Rattus","Ranjini's Field Rat",EN,D,-8572416
+17,-268435441,"enganus","Rattus","Enggano Island Rat",DD,D,-11513776
+18,-268435451,"furvus","Palawanomys","Palawan Mountain Rat",DD,U,-11513776
+21,-268435436,"oleracea","Vandeleuria","Asiatic Long-tailed Climbing Mouse",LC,S,-16731116
+22,-268435436,"nilagirica","Vandeleuria","",EN,D,-8572416
+23,-268435437,"nolthenii","Vandeleuria","Sri Lankan Highland Tree Mouse",EN,D,-8572416
+29,-268435428,"incomtus","Dasymys","African Marsh Rat",LC,U,-16731116
+30,-268435428,"alleni","Dasymys","",NE,U,-16777216
+31,-268435429,"nudipes","Dasymys","Angolan Marsh Rat",DD,U,-11513776
+32,-268435430,"montanus","Dasymys","Montane Shaggy Rat",EN,D,-8572416
+34,-268435423,"rufulus","Dasymys","West African Shaggy Rat",LC,U,-16731116
+35,-268435423,"foxi","Dasymys","Fox's Shaggy Rat",DD,U,-11513776
+37,-268435420,"yunnanensis","Hadromys","Yunnan Hadromys",DD,U,-11513776
+38,-268435420,"humei","Hadromys","Hume's Rat",EN,D,-8572416
+49,-268435408,"baeodon","Maxomys","Small Bornean Maxomys",DD,U,-11513776
+50,-268435408,"panglima","Maxomys","Palawan Maxomys",LC,S,-16731116
+51,-268435409,"rajah","Maxomys","Rajah Sundaic Maxomys",VU,D,-11184866
+53,-268435404,"musschenbroekii","Maxomys","Musschenbroek's Sulawesi Maxomys",LC,S,-16731116
+54,-268435404,"alticola","Maxomys","Bornean Mountain Maxomys",LC,S,-16731116
+57,-268435400,"wattsi","Maxomys","Watts's Sulawesi Maxomys",EN,D,-8572416
+58,-268435400,"inas","Maxomys","Malayan Mountain Maxomys",LC,S,-16731116
+59,-268435401,"pagensis","Maxomys","Mentawai Archipelago Maxomys",EN,D,-8572416
+60,-268435412,"inflatus","Maxomys","Broad-nosed Sumatran Maxomys",VU,D,-11184866
+62,-268435395,"hylomyoides","Maxomys","Sumatran Mountain Maxomys",DD,U,-11513776
+63,-268435395,"dollmani","Maxomys","Dollman's Sulawesi Maxomys",DD,U,-11513776
+64,-268435414,"ochraceiventer","Maxomys","Ochraceous-bellied Bornean Maxomys",DD,U,-11513776
+68,-268435389,"whiteheadi","Maxomys","Whitehead's Sundaic Maxomys",VU,D,-11184866
+69,-268435389,"surifer","Maxomys","Indomalayan Maxomys",LC,D,-16731116
+70,-268435390,"moi","Maxomys","Indochinese Mountain Maxomys",LC,D,-16731116
+72,-268435385,"hellwaldii","Maxomys","Hellwald's Sulawesi Maxomys",LC,D,-16731116
+73,-268435385,"bartelsii","Maxomys","Bartels's Javan Maxomys",LC,S,-16731116
+80,-268435377,"karlkoopmani","Chiropodomys","Koopman's Pencil-tailed Tree Mouse",EN,D,-8572416
+81,-268435377,"major","Chiropodomys","Greater Pencil-tailed Tree Mouse",DD,U,-11513776
+82,-268435378,"gliroides","Chiropodomys","Pencil-tailed Tree Mouse",LC,S,-16731116
+83,-268435379,"muroides","Chiropodomys","Gray-bellied Pencil-tailed Tree Mouse",DD,U,-11513776
+85,-268435372,"calamianensis","Chiropodomys","Palawan Pencil-tailed Tree Mouse",DD,U,-11513776
+86,-268435372,"pusillus","Chiropodomys","Lesser Pencil-tailed Tree Mouse",DD,U,-11513776
+88,-268435369,"longicaudatus","Hapalomys","Greater Marmoset Rat",EN,D,-8572416
+89,-268435369,"delacouri","Hapalomys","Lesser Marmoset Rat",VU,D,-11184866
+92,-268435365,"minahassae","Haeromys","Lowland Sulawesi Haeromys",VU,D,-11184866
+93,-268435365,"pusillus","Haeromys","Sundaic Haeromys",VU,D,-11184866
+94,-268435366,"margarettae","Haeromys","Margaret's Haeromys",DD,U,-11513776
+95,-268435417,"fumosus","Heimyscus","African Smoky Mouse",LC,S,-16731116
+103,-268435354,"meltada","Millardia","Soft-furred Metad",LC,S,-16731116
+104,-268435354,"kathleenae","Millardia","Burmese Metad",LC,S,-16731116
+105,-268435355,"kondana","Millardia","Kondana Rat",CR,D,-3014646
+106,-268435356,"gleadowi","Millardia","Sand-coloured Metad",LC,U,-16731116
+109,-268435348,"blanfordi","Madromys","White-tailed Wood Rat",LC,U,-16731116
+110,-268435348,"elvira","Cremnomys","Large Rock-rat",CR,D,-3014646
+111,-268435349,"cutchicus","Cremnomys","Cutch Rock-rat",LC,S,-16731116
+115,-268435342,"fergussoniensis","Pogonomys","D'entrecasteaux Archipelago Pogonomys",EN,D,-8572416
+116,-268435342,"loriae","Pogonomys","Loria's Pogonomys",LC,U,-16731116
+117,-268435343,"macrourus","Pogonomys","Chestnut Tree Mouse",LC,U,-16731116
+119,-268435338,"sylvestris","Pogonomys","Gray-bellied Tree Mouse",LC,U,-16731116
+120,-268435338,"championi","Pogonomys","Champion's Tree Mouse",DD,S,-11513776
+121,-268435359,"minutus","Micromys","Eurasian Harvest Mouse",LC,S,-16731116
+123,-268435334,"bunnii","Nesokia","Bunn's Short-tailed Bandicoot Rat",EN,D,-8572416
+124,-268435334,"indica","Nesokia","Short-tailed Bandicoot Rat",LC,U,-16731116
+135,-268435322,"barbarus","Lemniscomys","Barbary Lemniscomys",LC,S,-16731116
+136,-268435322,"zebra","Lemniscomys","Heuglin's Lemniscomys",LC,S,-16731116
+137,-268435323,"bellieri","Lemniscomys","Bellier's Lemniscomys",LC,S,-16731116
+139,-268435318,"roseveari","Lemniscomys","Rosevear's Lemniscomys",DD,U,-11513776
+140,-268435318,"macculus","Lemniscomys","Buffoon Lemniscomys",LC,S,-16731116
+142,-268435315,"mittendorfi","Lemniscomys","Mittendorf's Lemniscomys",VU,S,-11184866
+143,-268435315,"rosalia","Lemniscomys","Single-striped Grass Mouse",LC,S,-16731116
+144,-268435326,"linulus","Lemniscomys","Senegal Lemniscomys",LC,U,-16731116
+147,-268435310,"hoogstraali","Lemniscomys","Hoogstraal's Lemniscomys",DD,U,-11513776
+148,-268435310,"striatus","Lemniscomys","Typical Lemniscomys",LC,I,-16731116
+149,-268435311,"griselda","Lemniscomys","Griselda's Lemniscomys",LC,S,-16731116
+152,-268435305,"parvus","Pithecheir","Malay Peninsula Pithecheir",DD,U,-11513776
+153,-268435305,"melanurus","Pithecheir","Javan Pithecheir",VU,D,-11184866
+154,-268435306,"ohiensis","Srilankamys","Ohiya Rat",VU,D,-11184866
+160,-268435297,"arrogans","Rattus","Western New Guinea Mountain Rat",LC,S,-16731116
+161,-268435297,"pococki","Rattus","Pocock's Highland Rat",LC,U,-16731116
+163,-268435294,"niobe","Rattus","Moss-forest Rat",LC,S,-16731116
+164,-268435294,"arfakiensis","Rattus","",NE,U,-16777216
+166,-268435291,"omichlodes","Rattus","Arianus's Rat",DD,U,-11513776
+167,-268435291,"richardsoni","Rattus","Glacier Rat",VU,D,-11184866
+170,-268435287,"vandeuseni","Rattus","Van Deusen's Rat",EN,D,-8572416
+171,-268435287,"verecundus","Rattus","Slender Rat",LC,S,-16731116
+172,-268435288,"ceramicus","Nesoromys","Seram Island Mountain Rat",EN,D,-8572416
+174,-268435283,"imberbis","Muriculus","Ethiopian Striped Mouse",LC,D,-16731116
+175,-268435283,"millardi","Dacnomys","Millard's Rat",DD,U,-11513776
+177,-268435280,"canus","Eropeplus","Sulawesi Soft-furred Rat",VU,D,-11184866
+178,-268435280,"meyeri","Lenomys","Meyer's Lenomys",LC,D,-16731116
+184,-268435273,"fratrorum","Bunomys","Northeastern Peninsula Bunomys",VU,D,-11184866
+185,-268435273,"prolatus","Bunomys","Tambusisi Bunomys",EN,D,-8572416
+187,-268435270,"chrysocomus","Bunomys","Common Bunomys",LC,S,-16731116
+188,-268435270,"andrewsi","Bunomys","Andrew's Bunomys",LC,U,-16731116
+189,-268435275,"coelestis","Bunomys","Lampobatang Bunomys",CR,D,-3014646
+190,-268435276,"penitus","Bunomys","Montane Bunomys",NT,D,-12486656
+191,-268435277,"fulva","Vernaya","Vernay's Climbing Mouse",LC,U,-16731116

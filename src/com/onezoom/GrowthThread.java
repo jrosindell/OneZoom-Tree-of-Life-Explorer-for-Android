@@ -4,12 +4,10 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import com.onezoom.midnode.TraitsData;
-import com.onezoom.midnode.Utility;
 
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
-import android.widget.Toast;
 
 class GrowthThread extends Thread {
 	Handler handler;

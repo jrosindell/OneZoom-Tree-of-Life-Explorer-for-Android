@@ -3,6 +3,12 @@ package com.onezoom;
 import android.graphics.Color;
 
 public class Information {
+	public static final String [] tabTitle = {
+		"HOW TO USE", 
+		"COLOUR KEY",
+		"AUTHOR"
+	};
+	
 	public static final String guide = "Each leaf of the tree represents a species, the branches of the tree show how these species are connected to common ancestors over millions of years of evolution.  Use two fingers to pan and zoom around the tree, there is much more to it than meets the eye: zooming into your areas of interest will reveal over 22,000 species and their evolutionary connections.  Use the white circular signposts to help you navigate to the areas that interest you.  \n" + 
 			"\n" + 
 			"If you zoom into any leaf of the tree, you will see the common name, scientific name and conservation status of that species.  There are also buttons on the leaves, which are links to external resources.  If you press these buttons you will be redirected to further information about the relevant species, but note you need live Internet access to use this feature.  You can return to the tree view from a page of further information by pressing the tree button.  \n" + 

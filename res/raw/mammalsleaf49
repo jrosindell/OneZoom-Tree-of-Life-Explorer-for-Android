@@ -1,45 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,10,"strigidorsa","Mustela","Stripe-backed Weasel",LC,U,-16731116
-12,10,"lutreola","Mustela","European Mink",EN,D,-8572416
-13,9,"lutreolina","Mustela","Indonesian Mountain Weasel",DD,U,-11513776
-16,15,"sibirica","Mustela","SIBERIAN WEASEL",LC,S,-16731116
-17,15,"itatsi","Mustela","Japanese Weasel",LC,D,-16731116
-18,14,"nudipes","Mustela","Malay Weasel",LC,D,-16731116
-21,20,"nigripes","Mustela","Black-footed Ferret",EN,I,-8572416
-22,20,"eversmanii","Mustela","Steppe Polecat",LC,S,-16731116
-23,19,"putorius","Mustela","European Polecat",LC,D,-16731116
-29,28,"subpalmata","Mustela","Egyptian Weasel",LC,S,-16731116
-30,28,"nivalis","Mustela","Least Weasel",LC,S,-16731116
-31,27,"frenata","Mustela","Long-tailed Weasel",LC,S,-16731116
-33,32,"altaica","Mustela","Altai Weasel",NT,D,-12486656
-34,32,"erminea","Mustela","Stoat",LC,S,-16731116
-36,35,"felipei","Mustela","Colombian Weasel",VU,D,-11184866
-37,35,"africana","Mustela","Amazon Weasel",LC,U,-16731116
-38,24,"kathiah","Mustela","Yellow-bellied Weasel",LC,U,-16731116
-40,39,"vison","Neovison","American Mink",LC,S,-16731116
-41,39,"macrodon","Neovison","Sea Mink",EX,U,-16777036
-52,51,"americana","Martes","American Marten",LC,D,-16731116
-53,51,"melampus","Martes","Japanese Marten",LC,S,-16731116
-54,50,"zibellina","Martes","SABLE",LC,U,-16731116
-55,49,"martes","Martes","European Pine Marten",LC,S,-16731116
-56,48,"foina","Martes","Stone Marten",LC,S,-16731116
-57,47,"pennanti","Martes","Fisher",LC,U,-16731116
-59,58,"flavigula","Martes","Yellow-throated Marten",LC,S,-16731116
-60,58,"gwatkinsii","Martes","Nilgiri Marten",VU,D,-11184866
-61,45,"gulo","Gulo","Wolverine",LC,D,-16731116
-62,44,"barbara","Eira","Tayra",LC,D,-16731116
-64,63,"vittata","Galictis","Greater Grison",LC,S,-16731116
-65,63,"cuja","Galictis","Lesser Grison",LC,U,-16731116
-66,42,"patagonicus","Lyncodon","Patagonian Weasel",DD,U,-11513776
-69,68,"libyca","Ictonyx","Libyan Striped Weasel",LC,U,-16731116
-70,68,"striatus","Ictonyx","Zorilla",LC,S,-16731116
-71,67,"peregusna","Vormela","European Marbled Polecat",VU,D,-11184866
-72,2,"albinucha","Poecilogale","African Striped Weasel",LC,U,-16731116
-73,1,"capensis","Mellivora","Honey Badger",LC,D,-16731116
-79,78,"anakuma","Meles","Japanese Badger",LC,D,-16731116
-80,78,"meles","Meles","Eurasian Badger",LC,S,-16731116
-81,77,"leucurus","Meles","Asian Badger",LC,U,-16731116
-82,76,"collaris","Arctonyx","Hog Badger",NT,D,-12486656
-84,83,"javanensis","Mydaus","Sunda Stink-badger",LC,U,-16731116
-85,83,"marchei","Mydaus","Palawan Stink-badger",LC,U,-16731116
-86,74,"taxus","Taxidea","American Badger",LC,D,-16731116
+11,-268435446,"strigidorsa","Mustela","Stripe-backed Weasel",LC,U,-16731116
+12,-268435446,"lutreola","Mustela","European Mink",EN,D,-8572416
+13,-268435447,"lutreolina","Mustela","Indonesian Mountain Weasel",DD,U,-11513776
+16,-268435441,"sibirica","Mustela","SIBERIAN WEASEL",LC,S,-16731116
+17,-268435441,"itatsi","Mustela","Japanese Weasel",LC,D,-16731116
+18,-268435442,"nudipes","Mustela","Malay Weasel",LC,D,-16731116
+21,-268435436,"nigripes","Mustela","Black-footed Ferret",EN,I,-8572416
+22,-268435436,"eversmanii","Mustela","Steppe Polecat",LC,S,-16731116
+23,-268435437,"putorius","Mustela","European Polecat",LC,D,-16731116
+29,-268435428,"subpalmata","Mustela","Egyptian Weasel",LC,S,-16731116
+30,-268435428,"nivalis","Mustela","Least Weasel",LC,S,-16731116
+31,-268435429,"frenata","Mustela","Long-tailed Weasel",LC,S,-16731116
+33,-268435424,"altaica","Mustela","Altai Weasel",NT,D,-12486656
+34,-268435424,"erminea","Mustela","Stoat",LC,S,-16731116
+36,-268435421,"felipei","Mustela","Colombian Weasel",VU,D,-11184866
+37,-268435421,"africana","Mustela","Amazon Weasel",LC,U,-16731116
+38,-268435432,"kathiah","Mustela","Yellow-bellied Weasel",LC,U,-16731116
+40,-268435417,"vison","Neovison","American Mink",LC,S,-16731116
+41,-268435417,"macrodon","Neovison","Sea Mink",EX,U,-16777036
+52,-268435405,"americana","Martes","American Marten",LC,D,-16731116
+53,-268435405,"melampus","Martes","Japanese Marten",LC,S,-16731116
+54,-268435406,"zibellina","Martes","SABLE",LC,U,-16731116
+55,-268435407,"martes","Martes","European Pine Marten",LC,S,-16731116
+56,-268435408,"foina","Martes","Stone Marten",LC,S,-16731116
+57,-268435409,"pennanti","Martes","Fisher",LC,U,-16731116
+59,-268435398,"flavigula","Martes","Yellow-throated Marten",LC,S,-16731116
+60,-268435398,"gwatkinsii","Martes","Nilgiri Marten",VU,D,-11184866
+61,-268435411,"gulo","Gulo","Wolverine",LC,D,-16731116
+62,-268435412,"barbara","Eira","Tayra",LC,D,-16731116
+64,-268435393,"vittata","Galictis","Greater Grison",LC,S,-16731116
+65,-268435393,"cuja","Galictis","Lesser Grison",LC,U,-16731116
+66,-268435414,"patagonicus","Lyncodon","Patagonian Weasel",DD,U,-11513776
+69,-268435388,"libyca","Ictonyx","Libyan Striped Weasel",LC,U,-16731116
+70,-268435388,"striatus","Ictonyx","Zorilla",LC,S,-16731116
+71,-268435389,"peregusna","Vormela","European Marbled Polecat",VU,D,-11184866
+72,-268435454,"albinucha","Poecilogale","African Striped Weasel",LC,U,-16731116
+73,-268435455,"capensis","Mellivora","Honey Badger",LC,D,-16731116
+79,-268435378,"anakuma","Meles","Japanese Badger",LC,D,-16731116
+80,-268435378,"meles","Meles","Eurasian Badger",LC,S,-16731116
+81,-268435379,"leucurus","Meles","Asian Badger",LC,U,-16731116
+82,-268435380,"collaris","Arctonyx","Hog Badger",NT,D,-12486656
+84,-268435373,"javanensis","Mydaus","Sunda Stink-badger",LC,U,-16731116
+85,-268435373,"marchei","Mydaus","Palawan Stink-badger",LC,U,-16731116
+86,-268435382,"taxus","Taxidea","American Badger",LC,D,-16731116

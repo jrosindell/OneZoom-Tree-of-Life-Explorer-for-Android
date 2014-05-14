@@ -1,87 +1,87 @@
 index,parent,name1,name2,common,redlist,popstab,color
-18,17,"timidus","Lepus","Mountain Hare",LC,U,-16731116
-19,17,"othus","Lepus","Alaskan Hare",LC,U,-16731116
-20,16,"arcticus","Lepus","Arctic Hare",LC,U,-16731116
-21,15,"townsendii","Lepus","White-tailed Jackrabbit",LC,D,-16731116
-24,23,"mandshuricus","Lepus","Manchurian Hare",LC,U,-16731116
-25,23,"brachyurus","Lepus","Japanese Hare",LC,S,-16731116
-27,26,"sinensis","Lepus","Chinese Hare",LC,U,-16731116
-28,26,"coreanus","Lepus","Korean Hare",LC,U,-16731116
-32,31,"corsicanus","Lepus","Corsican Hare",VU,D,-11184866
-33,31,"castroviejoi","Lepus","Broom Hare",VU,D,-11184866
-34,30,"europaeus","Lepus","European Hare",LC,D,-16731116
-35,29,"granatensis","Lepus","Granada Hare",LC,S,-16731116
-40,39,"flavigularis","Lepus","Tehuantepec Jackrabbit",EN,D,-8572416
-41,39,"callotis","Lepus","White-sided Jackrabbit",NT,D,-12486656
-42,38,"alleni","Lepus","Antelope Jackrabbit",LC,S,-16731116
-44,43,"californicus","Lepus","Black-tailed Jackrabbit",LC,S,-16731116
-45,43,"insularis","Lepus","Black Jackrabbit",NT,U,-12486656
-46,36,"americanus","Lepus","Snowshoe Hare",LC,S,-16731116
-48,47,"oiostolus","Lepus","Woolly Hare",LC,U,-16731116
-49,47,"comus","Lepus","Yunnan Hare",LC,U,-16731116
-53,52,"habessinicus","Lepus","Abyssinian Hare",LC,U,-16731116
-54,52,"capensis","Lepus","Cape Hare",LC,D,-16731116
-56,55,"tibetanus","Lepus","Desert Hare",LC,U,-16731116
-57,55,"tolai","Lepus","Tolai Hare",LC,U,-16731116
-58,50,"starcki","Lepus","Ethiopian Highland Hare",LC,U,-16731116
-59,9,"yarkandensis","Lepus","Yarkand Hare",NT,D,-12486656
-62,61,"microtis","Lepus","African Savanna Hare",LC,U,-16731116
-63,61,"saxatilis","Lepus","Scrub Hare",LC,D,-16731116
-64,60,"fagani","Lepus","Ethiopian Hare",DD,U,-11513776
-67,66,"nigricollis","Lepus","Indian Hare",LC,U,-16731116
-68,66,"peguensis","Lepus","Burmese Hare",LC,S,-16731116
-69,65,"hainanus","Lepus","Hainan Hare",VU,D,-11184866
-70,6,"cuniculus","Oryctolagus","European Rabbit",NT,D,-12486656
-72,71,"marjorita","Poelagus","Bunyoro Rabbit",LC,S,-16731116
-73,71,"hispidus","Caprolagus","Hispid Hare",EN,D,-8572416
-82,81,"floridanus","Sylvilagus","Eastern Cottontail",LC,I,-16731116
-83,81,"robustus","Sylvilagus","Robust Cottontail",EN,U,-8572416
-84,80,"cognatus","Sylvilagus","Manzano Mountain Cottontail",DD,U,-11513776
-86,85,"cunicularius","Sylvilagus","Mexican Cottontail",LC,U,-16731116
-87,85,"graysoni","Sylvilagus","Tres Marias Cottontail",EN,D,-8572416
-91,90,"dicei","Sylvilagus","Dice's Cottontail",DD,U,-11513776
-92,90,"brasiliensis","Sylvilagus","Tapeti",LC,U,-16731116
-93,89,"insonus","Sylvilagus","Omilteme Cottontail",EN,U,-8572416
-95,94,"palustris","Sylvilagus","Marsh Rabbit",LC,U,-16731116
-96,94,"aquaticus","Sylvilagus","Swamp Rabbit",LC,D,-16731116
-97,77,"transitionalis","Sylvilagus","New England Cottontail",VU,D,-11184866
-99,98,"nuttallii","Sylvilagus","Mountain Cottontail",LC,U,-16731116
-100,98,"audubonii","Sylvilagus","Desert Cottontail",LC,S,-16731116
-102,101,"mansuetus","Sylvilagus","San Jose Brush Rabbit",NT,U,-12486656
-103,101,"bachmani","Sylvilagus","Brush Rabbit",LC,S,-16731116
-105,104,"netscheri","Nesolagus","Sumatran Striped Rabbit",VU,U,-11184866
-106,104,"idahoensis","Brachylagus","Pygmy Rabbit",LC,U,-16731116
-107,3,"monticularis","Bunolagus","Riverine Rabbit",CR,D,-3014646
-108,2,"diazi","Romerolagus","Volcano Rabbit",EN,I,-8572416
-112,111,"crassicaudatus","Pronolagus","Natal Red Rock Hare",LC,D,-16731116
-113,111,"rupestris","Pronolagus","Smith's Red Rock Hare",LC,U,-16731116
-114,110,"randensis","Pronolagus","Jameson's Red Rock Hare",LC,U,-16731116
-115,109,"furnessi","Pentalagus","Amami Rabbit",EN,D,-8572416
-125,124,"turuchanensis","Ochotona","Turuchan Pika",LC,U,-16731116
-126,124,"hyperborea","Ochotona","Northern Pika",LC,U,-16731116
-128,127,"argentata","Ochotona","Silver Pika",CR,D,-3014646
-129,127,"alpina","Ochotona","Alpine Pika",LC,U,-16731116
-131,130,"collaris","Ochotona","Collared Pika",LC,U,-16731116
-132,130,"princeps","Ochotona","American Pika",LC,D,-16731116
-133,121,"pallasi","Ochotona","Pallas's Pika",LC,D,-16731116
-134,120,"erythrotis","Ochotona","Chinese Red Pika",LC,U,-16731116
-139,138,"rutila","Ochotona","Turkestan Red Pika",LC,S,-16731116
-140,138,"ladacensis","Ochotona","Ladak Pika",LC,U,-16731116
-142,141,"gloveri","Ochotona","Glover's Pika",LC,U,-16731116
-143,141,"muliensis","Ochotona","Muli Pika",DD,U,-11513776
-144,136,"koslowi","Ochotona","Kozlov's Pika",EN,D,-8572416
-145,135,"rufescens","Ochotona","Afghan Pika",LC,S,-16731116
-149,148,"macrotis","Ochotona","Large-eared Pika",LC,U,-16731116
-150,148,"roylei","Ochotona","Royle's Pika",LC,S,-16731116
-151,147,"iliensis","Ochotona","Ili Pika",EN,D,-8572416
-152,146,"himalayana","Ochotona","Himalayan Pika",LC,U,-16731116
-159,158,"gaoligongensis","Ochotona","Gaoligong Pika",DD,D,-11513776
-160,158,"forresti","Ochotona","Forrest's Pika",LC,D,-16731116
-161,157,"thomasi","Ochotona","Thomas's Pika",LC,U,-16731116
-163,162,"huangensis","Ochotona","Tsing-ling Pika",LC,U,-16731116
-164,162,"thibetana","Ochotona","Moupin Pika",LC,U,-16731116
-165,155,"cansus","Ochotona","Gansu Pika",LC,U,-16731116
-166,154,"nubrica","Ochotona","Nubra Pika",LC,U,-16731116
-168,167,"curzoniae","Ochotona","Plateau Pika",LC,D,-16731116
-169,167,"dauurica","Ochotona","Daurian Pika",LC,U,-16731116
-170,116,"pusilla","Ochotona","Steppe Pika",LC,D,-16731116
+18,-268435439,"timidus","Lepus","Mountain Hare",LC,U,-16731116
+19,-268435439,"othus","Lepus","Alaskan Hare",LC,U,-16731116
+20,-268435440,"arcticus","Lepus","Arctic Hare",LC,U,-16731116
+21,-268435441,"townsendii","Lepus","White-tailed Jackrabbit",LC,D,-16731116
+24,-268435433,"mandshuricus","Lepus","Manchurian Hare",LC,U,-16731116
+25,-268435433,"brachyurus","Lepus","Japanese Hare",LC,S,-16731116
+27,-268435430,"sinensis","Lepus","Chinese Hare",LC,U,-16731116
+28,-268435430,"coreanus","Lepus","Korean Hare",LC,U,-16731116
+32,-268435425,"corsicanus","Lepus","Corsican Hare",VU,D,-11184866
+33,-268435425,"castroviejoi","Lepus","Broom Hare",VU,D,-11184866
+34,-268435426,"europaeus","Lepus","European Hare",LC,D,-16731116
+35,-268435427,"granatensis","Lepus","Granada Hare",LC,S,-16731116
+40,-268435417,"flavigularis","Lepus","Tehuantepec Jackrabbit",EN,D,-8572416
+41,-268435417,"callotis","Lepus","White-sided Jackrabbit",NT,D,-12486656
+42,-268435418,"alleni","Lepus","Antelope Jackrabbit",LC,S,-16731116
+44,-268435413,"californicus","Lepus","Black-tailed Jackrabbit",LC,S,-16731116
+45,-268435413,"insularis","Lepus","Black Jackrabbit",NT,U,-12486656
+46,-268435420,"americanus","Lepus","Snowshoe Hare",LC,S,-16731116
+48,-268435409,"oiostolus","Lepus","Woolly Hare",LC,U,-16731116
+49,-268435409,"comus","Lepus","Yunnan Hare",LC,U,-16731116
+53,-268435404,"habessinicus","Lepus","Abyssinian Hare",LC,U,-16731116
+54,-268435404,"capensis","Lepus","Cape Hare",LC,D,-16731116
+56,-268435401,"tibetanus","Lepus","Desert Hare",LC,U,-16731116
+57,-268435401,"tolai","Lepus","Tolai Hare",LC,U,-16731116
+58,-268435406,"starcki","Lepus","Ethiopian Highland Hare",LC,U,-16731116
+59,-268435447,"yarkandensis","Lepus","Yarkand Hare",NT,D,-12486656
+62,-268435395,"microtis","Lepus","African Savanna Hare",LC,U,-16731116
+63,-268435395,"saxatilis","Lepus","Scrub Hare",LC,D,-16731116
+64,-268435396,"fagani","Lepus","Ethiopian Hare",DD,U,-11513776
+67,-268435390,"nigricollis","Lepus","Indian Hare",LC,U,-16731116
+68,-268435390,"peguensis","Lepus","Burmese Hare",LC,S,-16731116
+69,-268435391,"hainanus","Lepus","Hainan Hare",VU,D,-11184866
+70,-268435450,"cuniculus","Oryctolagus","European Rabbit",NT,D,-12486656
+72,-268435385,"marjorita","Poelagus","Bunyoro Rabbit",LC,S,-16731116
+73,-268435385,"hispidus","Caprolagus","Hispid Hare",EN,D,-8572416
+82,-268435375,"floridanus","Sylvilagus","Eastern Cottontail",LC,I,-16731116
+83,-268435375,"robustus","Sylvilagus","Robust Cottontail",EN,U,-8572416
+84,-268435376,"cognatus","Sylvilagus","Manzano Mountain Cottontail",DD,U,-11513776
+86,-268435371,"cunicularius","Sylvilagus","Mexican Cottontail",LC,U,-16731116
+87,-268435371,"graysoni","Sylvilagus","Tres Marias Cottontail",EN,D,-8572416
+91,-268435366,"dicei","Sylvilagus","Dice's Cottontail",DD,U,-11513776
+92,-268435366,"brasiliensis","Sylvilagus","Tapeti",LC,U,-16731116
+93,-268435367,"insonus","Sylvilagus","Omilteme Cottontail",EN,U,-8572416
+95,-268435362,"palustris","Sylvilagus","Marsh Rabbit",LC,U,-16731116
+96,-268435362,"aquaticus","Sylvilagus","Swamp Rabbit",LC,D,-16731116
+97,-268435379,"transitionalis","Sylvilagus","New England Cottontail",VU,D,-11184866
+99,-268435358,"nuttallii","Sylvilagus","Mountain Cottontail",LC,U,-16731116
+100,-268435358,"audubonii","Sylvilagus","Desert Cottontail",LC,S,-16731116
+102,-268435355,"mansuetus","Sylvilagus","San Jose Brush Rabbit",NT,U,-12486656
+103,-268435355,"bachmani","Sylvilagus","Brush Rabbit",LC,S,-16731116
+105,-268435352,"netscheri","Nesolagus","Sumatran Striped Rabbit",VU,U,-11184866
+106,-268435352,"idahoensis","Brachylagus","Pygmy Rabbit",LC,U,-16731116
+107,-268435453,"monticularis","Bunolagus","Riverine Rabbit",CR,D,-3014646
+108,-268435454,"diazi","Romerolagus","Volcano Rabbit",EN,I,-8572416
+112,-268435345,"crassicaudatus","Pronolagus","Natal Red Rock Hare",LC,D,-16731116
+113,-268435345,"rupestris","Pronolagus","Smith's Red Rock Hare",LC,U,-16731116
+114,-268435346,"randensis","Pronolagus","Jameson's Red Rock Hare",LC,U,-16731116
+115,-268435347,"furnessi","Pentalagus","Amami Rabbit",EN,D,-8572416
+125,-268435332,"turuchanensis","Ochotona","Turuchan Pika",LC,U,-16731116
+126,-268435332,"hyperborea","Ochotona","Northern Pika",LC,U,-16731116
+128,-268435329,"argentata","Ochotona","Silver Pika",CR,D,-3014646
+129,-268435329,"alpina","Ochotona","Alpine Pika",LC,U,-16731116
+131,-268435326,"collaris","Ochotona","Collared Pika",LC,U,-16731116
+132,-268435326,"princeps","Ochotona","American Pika",LC,D,-16731116
+133,-268435335,"pallasi","Ochotona","Pallas's Pika",LC,D,-16731116
+134,-268435336,"erythrotis","Ochotona","Chinese Red Pika",LC,U,-16731116
+139,-268435318,"rutila","Ochotona","Turkestan Red Pika",LC,S,-16731116
+140,-268435318,"ladacensis","Ochotona","Ladak Pika",LC,U,-16731116
+142,-268435315,"gloveri","Ochotona","Glover's Pika",LC,U,-16731116
+143,-268435315,"muliensis","Ochotona","Muli Pika",DD,U,-11513776
+144,-268435320,"koslowi","Ochotona","Kozlov's Pika",EN,D,-8572416
+145,-268435321,"rufescens","Ochotona","Afghan Pika",LC,S,-16731116
+149,-268435308,"macrotis","Ochotona","Large-eared Pika",LC,U,-16731116
+150,-268435308,"roylei","Ochotona","Royle's Pika",LC,S,-16731116
+151,-268435309,"iliensis","Ochotona","Ili Pika",EN,D,-8572416
+152,-268435310,"himalayana","Ochotona","Himalayan Pika",LC,U,-16731116
+159,-268435298,"gaoligongensis","Ochotona","Gaoligong Pika",DD,D,-11513776
+160,-268435298,"forresti","Ochotona","Forrest's Pika",LC,D,-16731116
+161,-268435299,"thomasi","Ochotona","Thomas's Pika",LC,U,-16731116
+163,-268435294,"huangensis","Ochotona","Tsing-ling Pika",LC,U,-16731116
+164,-268435294,"thibetana","Ochotona","Moupin Pika",LC,U,-16731116
+165,-268435301,"cansus","Ochotona","Gansu Pika",LC,U,-16731116
+166,-268435302,"nubrica","Ochotona","Nubra Pika",LC,U,-16731116
+168,-268435289,"curzoniae","Ochotona","Plateau Pika",LC,D,-16731116
+169,-268435289,"dauurica","Ochotona","Daurian Pika",LC,U,-16731116
+170,-268435340,"pusilla","Ochotona","Steppe Pika",LC,D,-16731116

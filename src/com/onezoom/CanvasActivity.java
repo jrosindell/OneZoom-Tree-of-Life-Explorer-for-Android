@@ -41,6 +41,7 @@ public class CanvasActivity extends Activity{
 	private static float scaleFactor;
 	private Search searchEngine;
 	private Toast previousToast;
+	private CustomizeSearchView currentSearchView;
 
 	public MidNode getTreeRoot() {
 		return fulltree;
@@ -125,7 +126,6 @@ public class CanvasActivity extends Activity{
 	public boolean onCreateOptionsMenu(Menu menu) {
 		getActionBar().setDisplayShowHomeEnabled(false);
 	    getActionBar().setDisplayShowTitleEnabled(false);
-		getActionBar().setDisplayHomeAsUpEnabled(false);
 		getActionBar().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
 		getActionBar().setIcon(android.R.color.transparent);
 		if (viewingWeb) inflateWebMenu(menu);
@@ -361,7 +361,7 @@ public class CanvasActivity extends Activity{
 		int id = searchView.getContext().getResources().getIdentifier("android:id/search_src_text", null, null);
 		TextView textView = (TextView) searchView.findViewById(id);
 		textView.setTextColor(Color.BLACK);
-		
+		this.currentSearchView = searchView;
 		return searchView;
 	}
 
@@ -370,10 +370,9 @@ public class CanvasActivity extends Activity{
 	 * @param searchView
 	 */
 	private void setQueryInSearchView(final CustomizeSearchView searchView) {
+		searchView.setQueryHint("Enter Species Name.");
 		if (!this.searchEngine.getPreviousSearch().equals("")) {
 			searchView.setQuery(this.searchEngine.getPreviousSearch(), false);
-		} else {
-			searchView.setQueryHint("Enter Species Name");			
 		}
 	}
 
@@ -507,5 +506,15 @@ public class CanvasActivity extends Activity{
 		InputMethodManager imm = (InputMethodManager)this.getSystemService(
 			      Context.INPUT_METHOD_SERVICE);
 		imm.hideSoftInputFromWindow(view.getWindowToken(), 0);		
+	}
+
+	/**
+	 * This method sets the query text of current search view.
+	 * The reason for creating this method to be called after wiki link is that there is some problem
+	 * with setting query content after creating web view. It seems that you need to change the query
+	 * content in tree view first.
+	 */
+	public void setQueryOfCurrentSearchView() {
+		this.currentSearchView.setQuery(this.searchEngine.getPreviousSearch(), false);
 	}
 }

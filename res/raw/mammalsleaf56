@@ -1,46 +1,46 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,11,"pfeifferi","Lasiurus","Pfeiffer's Red Bat",NT,U,-12486656
-13,11,"blossevillii","Lasiurus","Red Bat",LC,U,-16731116
-14,10,"salinae","Lasiurus","",NE,U,-16777216
-15,9,"degelidus","Lasiurus","Jamaican Red Bat",VU,U,-11184866
-18,17,"borealis","Lasiurus","Eastern Red Bat",LC,S,-16731116
-19,17,"varius","Lasiurus","Cinnamon Red Bat",LC,U,-16731116
-20,16,"minor","Lasiurus","Minor Red Bat",VU,D,-11184866
-21,7,"seminolus","Lasiurus","Seminole Bat",LC,U,-16731116
-23,22,"cinereus","Lasiurus","Hawaiian Hoary Bat",LC,U,-16731116
-24,22,"castaneus","Lasiurus","Tacarcuna Bat",DD,U,-11513776
-27,26,"intermedius","Lasiurus","Northern Yellow Bat",LC,U,-16731116
-28,26,"insularis","Lasiurus","Cuban Yellow Bat",VU,U,-11184866
-30,29,"xanthinus","Lasiurus","Western Yellow Bat",LC,S,-16731116
-31,29,"ega","Lasiurus","Southern Yellow Bat",LC,U,-16731116
-32,4,"egregius","Lasiurus","Big Red Bat",DD,U,-11513776
-40,39,"gouldi","Nyctophilus","Gould's Long-eared Bat",LC,D,-16731116
-41,39,"bifax","Nyctophilus","Eastern Long-eared Bat",LC,S,-16731116
-42,38,"walkeri","Nyctophilus","Pygmy Long-eared Bat",LC,S,-16731116
-44,43,"microtis","Nyctophilus","Papuan Long-eared Bat",LC,S,-16731116
-45,43,"heran","Nyctophilus","Sundan Long-eared Bat",DD,D,-11513776
-47,46,"arnhemensis","Nyctophilus","Northern Long-eared Bat",LC,S,-16731116
-48,46,"geoffroyi","Nyctophilus","Lesser Long-eared Bat",LC,S,-16731116
-50,49,"microdon","Nyctophilus","Small-toothed Long-eared Bat",DD,U,-11513776
-51,49,"timoriensis","Nyctophilus","Greater Long-eared Bat",DD,D,-11513776
-52,34,"imogene","Pharotis","Thomas's Big-eared Bat",CR,U,-3014646
-53,33,"subflavus","Pipistrellus","Eastern Pipistrelle",LC,S,-16731116
-56,55,"circumdatus","Arielulus","Bronze Sprite",LC,U,-16731116
-57,55,"cuprosus","Arielulus","Coppery Sprite",DD,U,-11513776
-58,54,"societatis","Arielulus","Social Sprite",VU,D,-11184866
-61,60,"stenopterus","Pipistrellus","Narrow-winged Pipistrelle",LC,U,-16731116
-62,60,"joffrei","Hypsugo","",NE,U,-16777216
-63,59,"anthonyi","Hypsugo","",NE,U,-16777216
-69,68,"matroka","Eptesicus","Malagasy Serotine",LC,U,-16731116
-70,68,"capensis","Neoromicia","",NE,U,-16777216
-72,71,"somalicus","Neoromicia","",NE,U,-16777216
-73,71,"zuluensis","Neoromicia","",NE,U,-16777216
-76,75,"guineensis","Neoromicia","",NE,U,-16777216
-77,75,"brunneus","Neoromicia","",NE,U,-16777216
-78,74,"melckorum","Neoromicia","",NE,U,-16777216
-81,80,"tenuipinnis","Neoromicia","",NE,U,-16777216
-82,80,"rendalli","Neoromicia","",NE,U,-16777216
-83,79,"flavescens","Neoromicia","",NE,U,-16777216
-86,85,"kitcheneri","Hypsugo","",NE,U,-16777216
-87,85,"lophurus","Hypsugo","",NE,U,-16777216
-88,84,"pulveratus","Hypsugo","",NE,U,-16777216
+12,-268435445,"pfeifferi","Lasiurus","Pfeiffer's Red Bat",NT,U,-12486656
+13,-268435445,"blossevillii","Lasiurus","Red Bat",LC,U,-16731116
+14,-268435446,"salinae","Lasiurus","",NE,U,-16777216
+15,-268435447,"degelidus","Lasiurus","Jamaican Red Bat",VU,U,-11184866
+18,-268435439,"borealis","Lasiurus","Eastern Red Bat",LC,S,-16731116
+19,-268435439,"varius","Lasiurus","Cinnamon Red Bat",LC,U,-16731116
+20,-268435440,"minor","Lasiurus","Minor Red Bat",VU,D,-11184866
+21,-268435449,"seminolus","Lasiurus","Seminole Bat",LC,U,-16731116
+23,-268435434,"cinereus","Lasiurus","Hawaiian Hoary Bat",LC,U,-16731116
+24,-268435434,"castaneus","Lasiurus","Tacarcuna Bat",DD,U,-11513776
+27,-268435430,"intermedius","Lasiurus","Northern Yellow Bat",LC,U,-16731116
+28,-268435430,"insularis","Lasiurus","Cuban Yellow Bat",VU,U,-11184866
+30,-268435427,"xanthinus","Lasiurus","Western Yellow Bat",LC,S,-16731116
+31,-268435427,"ega","Lasiurus","Southern Yellow Bat",LC,U,-16731116
+32,-268435452,"egregius","Lasiurus","Big Red Bat",DD,U,-11513776
+40,-268435417,"gouldi","Nyctophilus","Gould's Long-eared Bat",LC,D,-16731116
+41,-268435417,"bifax","Nyctophilus","Eastern Long-eared Bat",LC,S,-16731116
+42,-268435418,"walkeri","Nyctophilus","Pygmy Long-eared Bat",LC,S,-16731116
+44,-268435413,"microtis","Nyctophilus","Papuan Long-eared Bat",LC,S,-16731116
+45,-268435413,"heran","Nyctophilus","Sundan Long-eared Bat",DD,D,-11513776
+47,-268435410,"arnhemensis","Nyctophilus","Northern Long-eared Bat",LC,S,-16731116
+48,-268435410,"geoffroyi","Nyctophilus","Lesser Long-eared Bat",LC,S,-16731116
+50,-268435407,"microdon","Nyctophilus","Small-toothed Long-eared Bat",DD,U,-11513776
+51,-268435407,"timoriensis","Nyctophilus","Greater Long-eared Bat",DD,D,-11513776
+52,-268435422,"imogene","Pharotis","Thomas's Big-eared Bat",CR,U,-3014646
+53,-268435423,"subflavus","Pipistrellus","Eastern Pipistrelle",LC,S,-16731116
+56,-268435401,"circumdatus","Arielulus","Bronze Sprite",LC,U,-16731116
+57,-268435401,"cuprosus","Arielulus","Coppery Sprite",DD,U,-11513776
+58,-268435402,"societatis","Arielulus","Social Sprite",VU,D,-11184866
+61,-268435396,"stenopterus","Pipistrellus","Narrow-winged Pipistrelle",LC,U,-16731116
+62,-268435396,"joffrei","Hypsugo","",NE,U,-16777216
+63,-268435397,"anthonyi","Hypsugo","",NE,U,-16777216
+69,-268435388,"matroka","Eptesicus","Malagasy Serotine",LC,U,-16731116
+70,-268435388,"capensis","Neoromicia","",NE,U,-16777216
+72,-268435385,"somalicus","Neoromicia","",NE,U,-16777216
+73,-268435385,"zuluensis","Neoromicia","",NE,U,-16777216
+76,-268435381,"guineensis","Neoromicia","",NE,U,-16777216
+77,-268435381,"brunneus","Neoromicia","",NE,U,-16777216
+78,-268435382,"melckorum","Neoromicia","",NE,U,-16777216
+81,-268435376,"tenuipinnis","Neoromicia","",NE,U,-16777216
+82,-268435376,"rendalli","Neoromicia","",NE,U,-16777216
+83,-268435377,"flavescens","Neoromicia","",NE,U,-16777216
+86,-268435371,"kitcheneri","Hypsugo","",NE,U,-16777216
+87,-268435371,"lophurus","Hypsugo","",NE,U,-16777216
+88,-268435372,"pulveratus","Hypsugo","",NE,U,-16777216

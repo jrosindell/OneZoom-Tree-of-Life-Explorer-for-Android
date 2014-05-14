@@ -1,84 +1,84 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"centralis","Cabassous","Northern Naked-tailed Armadillo",DD,U,-11513776
-18,16,"tatouay","Cabassous","Greater Naked-tailed Armadillo",LC,U,-16731116
-20,19,"chacoensis","Cabassous","Chacoan Naked-tailed Armadillo",NT,U,-12486656
-21,19,"unicinctus","Cabassous","Cabasu",LC,U,-16731116
-23,22,"tricinctus","Tolypeutes","Brazilian Three-banded Armadillo",VU,D,-11184866
-24,22,"matacus","Tolypeutes","Southern Three-banded Armadillo",NT,D,-12486656
-25,13,"maximus","Priodontes","Giant Armadillo",VU,D,-11184866
-29,28,"vellerosus","Chaetophractus","Screaming Hairy Armadillo",LC,U,-16731116
-30,28,"nationi","Chaetophractus","Andean Hairy Armadillo",VU,D,-11184866
-31,27,"villosus","Chaetophractus","Large Hairy Armadillo",LC,U,-16731116
-33,32,"sexcinctus","Euphractus","Six-banded Armadillo",LC,U,-16731116
-34,32,"pichiy","Zaedyus","Pichi",NT,D,-12486656
-39,38,"novemcinctus","Dasypus","Common Long-nosed Armadillo",LC,I,-16731116
-40,38,"pilosus","Dasypus","Hairy Long-nosed Armadillo",VU,D,-11184866
-41,37,"septemcinctus","Dasypus","Brazilian Lesser Long-nosed Armadillo",LC,U,-16731116
-43,42,"sabanicola","Dasypus","Llanos Long-nosed Armadillo",LC,U,-16731116
-44,42,"kappleri","Dasypus","Greater Long-nosed Armadillo",LC,U,-16731116
-45,35,"hybridus","Dasypus","Southern Long-nosed Armadillo",NT,D,-12486656
-47,46,"retusus","Calyptophractus","Greater Fairy Armadillo",NE,U,-16777216
-48,46,"truncatus","Chlamyphorus","Lesser Fairy Armadillo",DD,D,-11513776
-53,52,"variegatus","Bradypus","Bolivian Three-toed Sloth",LC,U,-16731116
-54,52,"tridactylus","Bradypus","Pale-throated Sloth",LC,U,-16731116
-55,51,"torquatus","Bradypus","Maned Sloth",EN,D,-8572416
-57,56,"hoffmanni","Choloepus","Hoffmann's Two-toed Sloth",LC,U,-16731116
-58,56,"didactylus","Choloepus","Linne's Two-toed Sloth",LC,U,-16731116
-62,61,"tetradactyla","Tamandua","Collared Anteater",LC,U,-16731116
-63,61,"mexicana","Tamandua","Northern Tamandua",LC,U,-16731116
-64,60,"tridactyla","Myrmecophaga","Giant Anteater",NT,D,-12486656
-65,59,"didactylus","Cyclopes","Pygmy Anteater",LC,U,-16731116
-78,77,"fuscipes","Elephantulus","Dusky-footed Elephant Shrew",DD,U,-11513776
-79,77,"fuscus","Elephantulus","Dusky Elephant Shrew",DD,U,-11513776
-80,76,"brachyrhynchus","Elephantulus","Short-snouted Elephant Shrew",LC,U,-16731116
-82,81,"rupestris","Elephantulus","Western Rock Elephant Shrew",LC,U,-16731116
-83,81,"intufi","Elephantulus","Bushveld Elephant Shrew",LC,S,-16731116
-85,84,"rufescens","Elephantulus","Rufous Elephant-shrew",LC,S,-16731116
-86,84,"revoili","Elephantulus","Somali Elephant Shrew",DD,U,-11513776
-88,87,"myurus","Elephantulus","Eastern Rock Elephant Shrew",LC,S,-16731116
-89,87,"edwardii","Elephantulus","Cape Elephant Shrew",LC,U,-16731116
-90,72,"rozeti","Elephantulus","North African Elephant Shrew",LC,U,-16731116
-91,71,"proboscideus","Macroscelides","Round-eared Elephant Shrew",LC,U,-16731116
-92,70,"tetradactylus","Petrodromus","Four-toed Sengi",LC,S,-16731116
-95,94,"chrysopygus","Rhynchocyon","Golden-rumped Elephant Shrew",EN,D,-8572416
-96,94,"petersi","Rhynchocyon","Black And Rufous Elephant Shrew",VU,U,-11184866
-97,93,"cirnei","Rhynchocyon","Checkered Sengi",NT,U,-12486656
-98,67,"afer","Orycteropus","Aardvark",LC,U,-16731116
-104,103,"arboreus","Dendrohyrax","Southern Tree Hyrax",LC,U,-16731116
-105,103,"dorsalis","Dendrohyrax","Western Tree Hyrax",LC,U,-16731116
-106,102,"brucei","Heterohyrax","Bush Hyrax",LC,U,-16731116
-107,101,"capensis","Procavia","Rock Hyrax",LC,U,-16731116
-111,110,"senegalensis","Trichechus","African Manatee",VU,U,-11184866
-112,110,"manatus","Trichechus","American Manatee",VU,D,-11184866
-113,109,"inunguis","Trichechus","Amazonian Manatee",VU,D,-11184866
-114,108,"dugon","Dugong","Dugong",VU,U,-11184866
-117,116,"africana","Loxodonta","African Elephant",NT,I,-12486656
-118,116,"cyclotis","Loxodonta","",NE,U,-16777216
-119,115,"maximus","Elephas","Asian Elephant",EN,D,-8572416
-131,130,"echinista","Echymipera","Menzies' Echymipera",DD,U,-11513776
-132,130,"davidi","Echymipera","David's Echymipera",EN,U,-8572416
-133,129,"clara","Echymipera","Clara's Echymipera",LC,U,-16731116
-135,134,"rufescens","Echymipera","Long-nosed Echymipera",LC,D,-16731116
-136,134,"kalubu","Echymipera","Common Echymipera",LC,S,-16731116
-140,139,"raffrayana","Peroryctes","Raffray's Bandicoot",LC,U,-16731116
-141,139,"broadbenti","Peroryctes","Giant Bandicoot",EN,D,-8572416
-142,138,"papuensis","Microperoryctes","Papuan Bandicoot",LC,U,-16731116
-143,137,"prattorum","Rhynchomeles","Seram Bandicoot",EN,U,-8572416
-145,144,"longicauda","Microperoryctes","Striped Bandicoot",LC,U,-16731116
-146,144,"murina","Microperoryctes","Mouse Bandicoot",DD,U,-11513776
-151,150,"obesulus","Isoodon","Southern Brown Bandicoot",LC,D,-16731116
-152,150,"auratus","Isoodon","Golden Bandicoot",VU,D,-11184866
-153,149,"macrourus","Isoodon","Northern Brown Bandicoot",LC,S,-16731116
-154,148,"bougainville","Perameles","Western Barred Bandicoot",EN,S,-8572416
-156,155,"gunnii","Perameles","Eastern Barred Bandicoot",NT,D,-12486656
-157,155,"nasuta","Perameles","Long-nosed Bandicoot",LC,U,-16731116
-158,124,"lagotis","Macrotis","Bilby",VU,D,-11184866
-163,162,"caniventer","Caenolestes","Gray-bellied Shrew Opossum",NT,D,-12486656
-164,162,"fuliginosus","Caenolestes","Silky Shrew Opossum",LC,U,-16731116
-165,161,"convelatus","Caenolestes","Blackish Shrew Opossum",VU,D,-11184866
-166,160,"raphanurus","Rhyncholestes","Chilean Caenolestid",NT,D,-12486656
-167,159,"inca","Lestoros","Incan Shrew Opossum",LC,U,-16731116
-171,170,"bartoni","Zaglossus","Eastern Long-beaked Echidna",CR,D,-3014646
-172,170,"bruijni","Zaglossus","",NE,U,-16777216
-173,169,"aculeatus","Tachyglossus","Short-beaked Echidna",LC,S,-16731116
-174,168,"anatinus","Ornithorhynchus","Platypus",LC,U,-16731116
+17,-268435440,"centralis","Cabassous","Northern Naked-tailed Armadillo",DD,U,-11513776
+18,-268435440,"tatouay","Cabassous","Greater Naked-tailed Armadillo",LC,U,-16731116
+20,-268435437,"chacoensis","Cabassous","Chacoan Naked-tailed Armadillo",NT,U,-12486656
+21,-268435437,"unicinctus","Cabassous","Cabasu",LC,U,-16731116
+23,-268435434,"tricinctus","Tolypeutes","Brazilian Three-banded Armadillo",VU,D,-11184866
+24,-268435434,"matacus","Tolypeutes","Southern Three-banded Armadillo",NT,D,-12486656
+25,-268435443,"maximus","Priodontes","Giant Armadillo",VU,D,-11184866
+29,-268435428,"vellerosus","Chaetophractus","Screaming Hairy Armadillo",LC,U,-16731116
+30,-268435428,"nationi","Chaetophractus","Andean Hairy Armadillo",VU,D,-11184866
+31,-268435429,"villosus","Chaetophractus","Large Hairy Armadillo",LC,U,-16731116
+33,-268435424,"sexcinctus","Euphractus","Six-banded Armadillo",LC,U,-16731116
+34,-268435424,"pichiy","Zaedyus","Pichi",NT,D,-12486656
+39,-268435418,"novemcinctus","Dasypus","Common Long-nosed Armadillo",LC,I,-16731116
+40,-268435418,"pilosus","Dasypus","Hairy Long-nosed Armadillo",VU,D,-11184866
+41,-268435419,"septemcinctus","Dasypus","Brazilian Lesser Long-nosed Armadillo",LC,U,-16731116
+43,-268435414,"sabanicola","Dasypus","Llanos Long-nosed Armadillo",LC,U,-16731116
+44,-268435414,"kappleri","Dasypus","Greater Long-nosed Armadillo",LC,U,-16731116
+45,-268435421,"hybridus","Dasypus","Southern Long-nosed Armadillo",NT,D,-12486656
+47,-268435410,"retusus","Calyptophractus","Greater Fairy Armadillo",NE,U,-16777216
+48,-268435410,"truncatus","Chlamyphorus","Lesser Fairy Armadillo",DD,D,-11513776
+53,-268435404,"variegatus","Bradypus","Bolivian Three-toed Sloth",LC,U,-16731116
+54,-268435404,"tridactylus","Bradypus","Pale-throated Sloth",LC,U,-16731116
+55,-268435405,"torquatus","Bradypus","Maned Sloth",EN,D,-8572416
+57,-268435400,"hoffmanni","Choloepus","Hoffmann's Two-toed Sloth",LC,U,-16731116
+58,-268435400,"didactylus","Choloepus","Linne's Two-toed Sloth",LC,U,-16731116
+62,-268435395,"tetradactyla","Tamandua","Collared Anteater",LC,U,-16731116
+63,-268435395,"mexicana","Tamandua","Northern Tamandua",LC,U,-16731116
+64,-268435396,"tridactyla","Myrmecophaga","Giant Anteater",NT,D,-12486656
+65,-268435397,"didactylus","Cyclopes","Pygmy Anteater",LC,U,-16731116
+78,-268435379,"fuscipes","Elephantulus","Dusky-footed Elephant Shrew",DD,U,-11513776
+79,-268435379,"fuscus","Elephantulus","Dusky Elephant Shrew",DD,U,-11513776
+80,-268435380,"brachyrhynchus","Elephantulus","Short-snouted Elephant Shrew",LC,U,-16731116
+82,-268435375,"rupestris","Elephantulus","Western Rock Elephant Shrew",LC,U,-16731116
+83,-268435375,"intufi","Elephantulus","Bushveld Elephant Shrew",LC,S,-16731116
+85,-268435372,"rufescens","Elephantulus","Rufous Elephant-shrew",LC,S,-16731116
+86,-268435372,"revoili","Elephantulus","Somali Elephant Shrew",DD,U,-11513776
+88,-268435369,"myurus","Elephantulus","Eastern Rock Elephant Shrew",LC,S,-16731116
+89,-268435369,"edwardii","Elephantulus","Cape Elephant Shrew",LC,U,-16731116
+90,-268435384,"rozeti","Elephantulus","North African Elephant Shrew",LC,U,-16731116
+91,-268435385,"proboscideus","Macroscelides","Round-eared Elephant Shrew",LC,U,-16731116
+92,-268435386,"tetradactylus","Petrodromus","Four-toed Sengi",LC,S,-16731116
+95,-268435362,"chrysopygus","Rhynchocyon","Golden-rumped Elephant Shrew",EN,D,-8572416
+96,-268435362,"petersi","Rhynchocyon","Black And Rufous Elephant Shrew",VU,U,-11184866
+97,-268435363,"cirnei","Rhynchocyon","Checkered Sengi",NT,U,-12486656
+98,-268435389,"afer","Orycteropus","Aardvark",LC,U,-16731116
+104,-268435353,"arboreus","Dendrohyrax","Southern Tree Hyrax",LC,U,-16731116
+105,-268435353,"dorsalis","Dendrohyrax","Western Tree Hyrax",LC,U,-16731116
+106,-268435354,"brucei","Heterohyrax","Bush Hyrax",LC,U,-16731116
+107,-268435355,"capensis","Procavia","Rock Hyrax",LC,U,-16731116
+111,-268435346,"senegalensis","Trichechus","African Manatee",VU,U,-11184866
+112,-268435346,"manatus","Trichechus","American Manatee",VU,D,-11184866
+113,-268435347,"inunguis","Trichechus","Amazonian Manatee",VU,D,-11184866
+114,-268435348,"dugon","Dugong","Dugong",VU,U,-11184866
+117,-268435340,"africana","Loxodonta","African Elephant",NT,I,-12486656
+118,-268435340,"cyclotis","Loxodonta","",NE,U,-16777216
+119,-268435341,"maximus","Elephas","Asian Elephant",EN,D,-8572416
+131,-268435326,"echinista","Echymipera","Menzies' Echymipera",DD,U,-11513776
+132,-268435326,"davidi","Echymipera","David's Echymipera",EN,U,-8572416
+133,-268435327,"clara","Echymipera","Clara's Echymipera",LC,U,-16731116
+135,-268435322,"rufescens","Echymipera","Long-nosed Echymipera",LC,D,-16731116
+136,-268435322,"kalubu","Echymipera","Common Echymipera",LC,S,-16731116
+140,-268435317,"raffrayana","Peroryctes","Raffray's Bandicoot",LC,U,-16731116
+141,-268435317,"broadbenti","Peroryctes","Giant Bandicoot",EN,D,-8572416
+142,-268435318,"papuensis","Microperoryctes","Papuan Bandicoot",LC,U,-16731116
+143,-268435319,"prattorum","Rhynchomeles","Seram Bandicoot",EN,U,-8572416
+145,-268435312,"longicauda","Microperoryctes","Striped Bandicoot",LC,U,-16731116
+146,-268435312,"murina","Microperoryctes","Mouse Bandicoot",DD,U,-11513776
+151,-268435306,"obesulus","Isoodon","Southern Brown Bandicoot",LC,D,-16731116
+152,-268435306,"auratus","Isoodon","Golden Bandicoot",VU,D,-11184866
+153,-268435307,"macrourus","Isoodon","Northern Brown Bandicoot",LC,S,-16731116
+154,-268435308,"bougainville","Perameles","Western Barred Bandicoot",EN,S,-8572416
+156,-268435301,"gunnii","Perameles","Eastern Barred Bandicoot",NT,D,-12486656
+157,-268435301,"nasuta","Perameles","Long-nosed Bandicoot",LC,U,-16731116
+158,-268435332,"lagotis","Macrotis","Bilby",VU,D,-11184866
+163,-268435294,"caniventer","Caenolestes","Gray-bellied Shrew Opossum",NT,D,-12486656
+164,-268435294,"fuliginosus","Caenolestes","Silky Shrew Opossum",LC,U,-16731116
+165,-268435295,"convelatus","Caenolestes","Blackish Shrew Opossum",VU,D,-11184866
+166,-268435296,"raphanurus","Rhyncholestes","Chilean Caenolestid",NT,D,-12486656
+167,-268435297,"inca","Lestoros","Incan Shrew Opossum",LC,U,-16731116
+171,-268435286,"bartoni","Zaglossus","Eastern Long-beaked Echidna",CR,D,-3014646
+172,-268435286,"bruijni","Zaglossus","",NE,U,-16777216
+173,-268435287,"aculeatus","Tachyglossus","Short-beaked Echidna",LC,S,-16731116
+174,-268435288,"anatinus","Ornithorhynchus","Platypus",LC,U,-16731116

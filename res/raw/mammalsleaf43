@@ -1,106 +1,106 @@
 index,parent,name1,name2,common,redlist,popstab,color
-17,16,"penicillata","Petrogale","Brush-tailed Rock Wallaby",NT,D,-12486656
-18,16,"herberti","Petrogale","Herbert's Rock Wallaby",LC,U,-16731116
-19,15,"inornata","Petrogale","Unadorned Rock Wallaby",LC,U,-16731116
-21,20,"assimilis","Petrogale","Allied Rock Wallaby",LC,S,-16731116
-22,20,"godmani","Petrogale","Godman's Rock Wallaby",LC,S,-16731116
-23,13,"xanthopus","Petrogale","Yellow-footed Rock Wallaby",NT,U,-12486656
-26,25,"purpureicollis","Petrogale","Purple-necked Rock Wallaby",LC,U,-16731116
-27,25,"lateralis","Petrogale","Black-footed Rock Wallaby",NT,D,-12486656
-29,28,"rothschildi","Petrogale","Rothschild's Rock Wallaby",LC,U,-16731116
-30,28,"persephone","Petrogale","Proserpine Rock Wallaby",EN,D,-8572416
-33,32,"concinna","Petrogale","Nabarlek",DD,U,-11513776
-34,32,"burbidgei","Petrogale","Monjon",NT,U,-12486656
-35,31,"brachyotis","Petrogale","Short-eared Rock Wallaby",LC,U,-16731116
-40,39,"browni","Thylogale","New Guinea Pademelon",VU,D,-11184866
-41,39,"brunii","Thylogale","Dusky Pademelon",VU,D,-11184866
-42,38,"lanatus","Thylogale","Mountain Pademelon",EN,D,-8572416
-44,43,"stigmatica","Thylogale","Red-legged Pademelon",LC,D,-16731116
-45,43,"thetis","Thylogale","Red-necked Pademelon",LC,S,-16731116
-46,36,"billardierii","Thylogale","Tasmanian Pademelon",LC,S,-16731116
-56,55,"dorsalis","Macropus","Black-striped Wallaby",LC,D,-16731116
-57,55,"parma","Macropus","Parma Wallaby",NT,U,-12486656
-58,54,"irma","Macropus","Western Brush Wallaby",LC,S,-16731116
-60,59,"rufogriseus","Macropus","Red-necked Wallaby",LC,S,-16731116
-61,59,"parryi","Macropus","Whiptail Wallaby",LC,S,-16731116
-63,62,"eugenii","Macropus","Tammar Wallaby",LC,U,-16731116
-64,62,"agilis","Macropus","Agile Wallaby",LC,D,-16731116
-69,68,"antilopinus","Macropus","Antilopine Wallaroo",LC,D,-16731116
-70,68,"rufus","Macropus","Red Kangaroo",LC,S,-16731116
-71,67,"robustus","Macropus","Common Wallaroo",LC,S,-16731116
-72,66,"bernardus","Macropus","Black Wallaroo",NT,U,-12486656
-74,73,"fuliginosus","Macropus","Western Gray Kangaroo",LC,I,-16731116
-75,73,"giganteus","Macropus","Eastern Grey Kangaroo",LC,S,-16731116
-76,50,"bicolor","Wallabia","Swamp Wallaby",LC,I,-16731116
-78,77,"unguifera","Onychogalea","Northern Nailtail Wallaby",LC,U,-16731116
-79,77,"fraenata","Onychogalea","Bridled Nailtail Wallaby",EN,S,-8572416
-80,48,"brachyurus","Setonix","Quokka",VU,D,-11184866
-82,81,"conspicillatus","Lagorchestes","Spectacled Hare Wallaby",LC,D,-16731116
-83,81,"hirsutus","Lagorchestes","Rufous Hare Wallaby",VU,D,-11184866
-91,90,"pulcherrimus","Dendrolagus","Golden-mantled Tree Kangaroo",CR,D,-3014646
-92,90,"goodfellowi","Dendrolagus","Goodfellow's Tree Kangaroo",EN,D,-8572416
-94,93,"spadix","Dendrolagus","Lowlands Tree Kangaroo",LC,D,-16731116
-95,93,"matschiei","Dendrolagus","Huon Tree Kangaroo",EN,D,-8572416
-98,97,"dorianus","Dendrolagus","Doria's Tree Kangaroo",VU,D,-11184866
-99,97,"stellarum","Dendrolagus","Seri's Tree Kangaroo",VU,D,-11184866
-100,96,"scottae","Dendrolagus","Tenkile",CR,D,-3014646
-101,87,"ursinus","Dendrolagus","Vogelkop Tree Kangaroo",VU,D,-11184866
-102,86,"inustus","Dendrolagus","Grizzled Tree Kangaroo",VU,D,-11184866
-103,85,"lumholtzi","Dendrolagus","Lumholtz's Tree Kangaroo",LC,S,-16731116
-104,84,"bennettianus","Dendrolagus","Bennett's Tree Kangaroo",NT,S,-12486656
-109,108,"luctuosa","Dorcopsis","Grey Dorcopsis",VU,D,-11184866
-110,108,"atrata","Dorcopsis","Black Dorcopsis",CR,D,-3014646
-111,107,"muelleri","Dorcopsis","Brown Dorcopsis",LC,S,-16731116
-112,106,"hageni","Dorcopsis","White-striped Dorcopsis",LC,S,-16731116
-114,113,"macleayi","Dorcopsulus","Macleay's Dorcopsis",LC,S,-16731116
-115,113,"vanheurni","Dorcopsulus","Small Dorcopsis",NT,D,-12486656
-116,6,"fasciatus","Lagostrophus","Banded Hare Wallaby",EN,U,-8572416
-119,118,"tridactylus","Potorous","Long-nosed Potoroo",LC,D,-16731116
-120,118,"gilbertii","Potorous","Gilbert's Potoroo",CR,S,-3014646
-121,117,"longipes","Potorous","Long-footed Potoroo",EN,U,-8572416
-125,124,"gaimardi","Bettongia","Tasmanian Bettong",NT,S,-12486656
-126,124,"lesueur","Bettongia","Burrowing Bettong",NT,I,-12486656
-128,127,"tropica","Bettongia","Northern Bettong",EN,D,-8572416
-129,127,"penicillata","Bettongia","Woylie",CR,D,-3014646
-130,122,"rufescens","Aepyprymnus","Rufous Bettong",LC,U,-16731116
-131,3,"moschatus","Hypsiprymnodon","Musky Rat Kangaroo",LC,S,-16731116
-140,139,"herbertensis","Pseudochirulus","Herbert River Ringtail Possum",LC,S,-16731116
-141,139,"cinereus","Pseudochirulus","Daintree River Ringtail Possum",LC,S,-16731116
-142,138,"caroli","Pseudochirulus","Weyland Ringtail",LC,U,-16731116
-144,143,"forbesi","Pseudochirulus","Painted Ringtail",LC,U,-16731116
-145,143,"larvatus","Pseudochirulus","Masked Ringtail",LC,D,-16731116
-147,146,"canescens","Pseudochirulus","Lowland Ringtail",LC,D,-16731116
-148,146,"mayeri","Pseudochirulus","Pygmy Ringtail",LC,D,-16731116
-149,135,"peregrinus","Pseudocheirus","Common Ringtail Possum",LC,S,-16731116
-155,154,"albertisii","Pseudochirops","D'Albertis's Ringtail",NT,D,-12486656
-156,154,"coronatus","Pseudochirops","Reclusive Ringtail",VU,D,-11184866
-158,157,"archeri","Pseudochirops","Green Ringtail Possum",LC,S,-16731116
-159,157,"cupreus","Pseudochirops","Coppery Ringtail",LC,S,-16731116
-160,152,"corinnae","Pseudochirops","Plush-coated Ringtail",NT,D,-12486656
-161,151,"dahli","Petropseudes","Rock Ringtail Possum",LC,U,-16731116
-163,162,"lemuroides","Hemibelideus","Lemuroid Ringtail Possum",NT,S,-12486656
-164,162,"volans","Petauroides","Greater Glider",LC,D,-16731116
-171,170,"breviceps","Petaurus","Sugar Glider",LC,S,-16731116
-172,170,"biacensis","Petaurus","Biak Glider",LC,U,-16731116
-173,169,"abidi","Petaurus","Northern Glider",CR,D,-3014646
-174,168,"gracilis","Petaurus","Mahogany Glider",EN,D,-8572416
-176,175,"australis","Petaurus","Yellow-bellied Glider",LC,D,-16731116
-177,175,"norfolcensis","Petaurus","Squirrel Glider",LC,D,-16731116
-181,180,"megalura","Dactylopsila","Great-tailed Triok",LC,U,-16731116
-182,180,"trivirgata","Dactylopsila","Striped Possum",LC,D,-16731116
-184,183,"tatei","Dactylopsila","Tate's Triok",EN,U,-8572416
-185,183,"palpator","Dactylopsila","",NE,U,-16777216
-186,178,"leadbeateri","Gymnobelideus","Leadbeater's Possum",EN,D,-8572416
-189,188,"pennatus","Distoechurus","Feather-tailed Possum",LC,S,-16731116
-190,188,"pygmaeus","Acrobates","Feathertail Glider",LC,S,-16731116
-191,187,"rostratus","Tarsipes","Honey Possum",LC,S,-16731116
-197,196,"concinnus","Cercartetus","Western Pygmy Possum",LC,S,-16731116
-198,196,"lepidus","Cercartetus","Little Pygmy Possum",LC,S,-16731116
-199,195,"nanus","Cercartetus","Eastern Pygmy Possum",LC,D,-16731116
-200,194,"caudatus","Cercartetus","Long-tailed Pygmy Possum",LC,S,-16731116
-201,193,"parvus","Burramys","Mountain Pygmy Possum",CR,D,-3014646
-205,204,"latifrons","Lasiorhinus","Southern Hairy-nosed Wombat",LC,U,-16731116
-206,204,"krefftii","Lasiorhinus","Northern Hairy-nosed Wombat",CR,S,-3014646
-207,203,"ursinus","Vombatus","Common Wombat",LC,S,-16731116
-208,202,"cinereus","Phascolarctos","Koala",LC,U,-16731116
-209,0,"gliroides","Dromiciops","Monito Del Monte",NT,D,-12486656
+17,-268435440,"penicillata","Petrogale","Brush-tailed Rock Wallaby",NT,D,-12486656
+18,-268435440,"herberti","Petrogale","Herbert's Rock Wallaby",LC,U,-16731116
+19,-268435441,"inornata","Petrogale","Unadorned Rock Wallaby",LC,U,-16731116
+21,-268435436,"assimilis","Petrogale","Allied Rock Wallaby",LC,S,-16731116
+22,-268435436,"godmani","Petrogale","Godman's Rock Wallaby",LC,S,-16731116
+23,-268435443,"xanthopus","Petrogale","Yellow-footed Rock Wallaby",NT,U,-12486656
+26,-268435431,"purpureicollis","Petrogale","Purple-necked Rock Wallaby",LC,U,-16731116
+27,-268435431,"lateralis","Petrogale","Black-footed Rock Wallaby",NT,D,-12486656
+29,-268435428,"rothschildi","Petrogale","Rothschild's Rock Wallaby",LC,U,-16731116
+30,-268435428,"persephone","Petrogale","Proserpine Rock Wallaby",EN,D,-8572416
+33,-268435424,"concinna","Petrogale","Nabarlek",DD,U,-11513776
+34,-268435424,"burbidgei","Petrogale","Monjon",NT,U,-12486656
+35,-268435425,"brachyotis","Petrogale","Short-eared Rock Wallaby",LC,U,-16731116
+40,-268435417,"browni","Thylogale","New Guinea Pademelon",VU,D,-11184866
+41,-268435417,"brunii","Thylogale","Dusky Pademelon",VU,D,-11184866
+42,-268435418,"lanatus","Thylogale","Mountain Pademelon",EN,D,-8572416
+44,-268435413,"stigmatica","Thylogale","Red-legged Pademelon",LC,D,-16731116
+45,-268435413,"thetis","Thylogale","Red-necked Pademelon",LC,S,-16731116
+46,-268435420,"billardierii","Thylogale","Tasmanian Pademelon",LC,S,-16731116
+56,-268435401,"dorsalis","Macropus","Black-striped Wallaby",LC,D,-16731116
+57,-268435401,"parma","Macropus","Parma Wallaby",NT,U,-12486656
+58,-268435402,"irma","Macropus","Western Brush Wallaby",LC,S,-16731116
+60,-268435397,"rufogriseus","Macropus","Red-necked Wallaby",LC,S,-16731116
+61,-268435397,"parryi","Macropus","Whiptail Wallaby",LC,S,-16731116
+63,-268435394,"eugenii","Macropus","Tammar Wallaby",LC,U,-16731116
+64,-268435394,"agilis","Macropus","Agile Wallaby",LC,D,-16731116
+69,-268435388,"antilopinus","Macropus","Antilopine Wallaroo",LC,D,-16731116
+70,-268435388,"rufus","Macropus","Red Kangaroo",LC,S,-16731116
+71,-268435389,"robustus","Macropus","Common Wallaroo",LC,S,-16731116
+72,-268435390,"bernardus","Macropus","Black Wallaroo",NT,U,-12486656
+74,-268435383,"fuliginosus","Macropus","Western Gray Kangaroo",LC,I,-16731116
+75,-268435383,"giganteus","Macropus","Eastern Grey Kangaroo",LC,S,-16731116
+76,-268435406,"bicolor","Wallabia","Swamp Wallaby",LC,I,-16731116
+78,-268435379,"unguifera","Onychogalea","Northern Nailtail Wallaby",LC,U,-16731116
+79,-268435379,"fraenata","Onychogalea","Bridled Nailtail Wallaby",EN,S,-8572416
+80,-268435408,"brachyurus","Setonix","Quokka",VU,D,-11184866
+82,-268435375,"conspicillatus","Lagorchestes","Spectacled Hare Wallaby",LC,D,-16731116
+83,-268435375,"hirsutus","Lagorchestes","Rufous Hare Wallaby",VU,D,-11184866
+91,-268435366,"pulcherrimus","Dendrolagus","Golden-mantled Tree Kangaroo",CR,D,-3014646
+92,-268435366,"goodfellowi","Dendrolagus","Goodfellow's Tree Kangaroo",EN,D,-8572416
+94,-268435363,"spadix","Dendrolagus","Lowlands Tree Kangaroo",LC,D,-16731116
+95,-268435363,"matschiei","Dendrolagus","Huon Tree Kangaroo",EN,D,-8572416
+98,-268435359,"dorianus","Dendrolagus","Doria's Tree Kangaroo",VU,D,-11184866
+99,-268435359,"stellarum","Dendrolagus","Seri's Tree Kangaroo",VU,D,-11184866
+100,-268435360,"scottae","Dendrolagus","Tenkile",CR,D,-3014646
+101,-268435369,"ursinus","Dendrolagus","Vogelkop Tree Kangaroo",VU,D,-11184866
+102,-268435370,"inustus","Dendrolagus","Grizzled Tree Kangaroo",VU,D,-11184866
+103,-268435371,"lumholtzi","Dendrolagus","Lumholtz's Tree Kangaroo",LC,S,-16731116
+104,-268435372,"bennettianus","Dendrolagus","Bennett's Tree Kangaroo",NT,S,-12486656
+109,-268435348,"luctuosa","Dorcopsis","Grey Dorcopsis",VU,D,-11184866
+110,-268435348,"atrata","Dorcopsis","Black Dorcopsis",CR,D,-3014646
+111,-268435349,"muelleri","Dorcopsis","Brown Dorcopsis",LC,S,-16731116
+112,-268435350,"hageni","Dorcopsis","White-striped Dorcopsis",LC,S,-16731116
+114,-268435343,"macleayi","Dorcopsulus","Macleay's Dorcopsis",LC,S,-16731116
+115,-268435343,"vanheurni","Dorcopsulus","Small Dorcopsis",NT,D,-12486656
+116,-268435450,"fasciatus","Lagostrophus","Banded Hare Wallaby",EN,U,-8572416
+119,-268435338,"tridactylus","Potorous","Long-nosed Potoroo",LC,D,-16731116
+120,-268435338,"gilbertii","Potorous","Gilbert's Potoroo",CR,S,-3014646
+121,-268435339,"longipes","Potorous","Long-footed Potoroo",EN,U,-8572416
+125,-268435332,"gaimardi","Bettongia","Tasmanian Bettong",NT,S,-12486656
+126,-268435332,"lesueur","Bettongia","Burrowing Bettong",NT,I,-12486656
+128,-268435329,"tropica","Bettongia","Northern Bettong",EN,D,-8572416
+129,-268435329,"penicillata","Bettongia","Woylie",CR,D,-3014646
+130,-268435334,"rufescens","Aepyprymnus","Rufous Bettong",LC,U,-16731116
+131,-268435453,"moschatus","Hypsiprymnodon","Musky Rat Kangaroo",LC,S,-16731116
+140,-268435317,"herbertensis","Pseudochirulus","Herbert River Ringtail Possum",LC,S,-16731116
+141,-268435317,"cinereus","Pseudochirulus","Daintree River Ringtail Possum",LC,S,-16731116
+142,-268435318,"caroli","Pseudochirulus","Weyland Ringtail",LC,U,-16731116
+144,-268435313,"forbesi","Pseudochirulus","Painted Ringtail",LC,U,-16731116
+145,-268435313,"larvatus","Pseudochirulus","Masked Ringtail",LC,D,-16731116
+147,-268435310,"canescens","Pseudochirulus","Lowland Ringtail",LC,D,-16731116
+148,-268435310,"mayeri","Pseudochirulus","Pygmy Ringtail",LC,D,-16731116
+149,-268435321,"peregrinus","Pseudocheirus","Common Ringtail Possum",LC,S,-16731116
+155,-268435302,"albertisii","Pseudochirops","D'Albertis's Ringtail",NT,D,-12486656
+156,-268435302,"coronatus","Pseudochirops","Reclusive Ringtail",VU,D,-11184866
+158,-268435299,"archeri","Pseudochirops","Green Ringtail Possum",LC,S,-16731116
+159,-268435299,"cupreus","Pseudochirops","Coppery Ringtail",LC,S,-16731116
+160,-268435304,"corinnae","Pseudochirops","Plush-coated Ringtail",NT,D,-12486656
+161,-268435305,"dahli","Petropseudes","Rock Ringtail Possum",LC,U,-16731116
+163,-268435294,"lemuroides","Hemibelideus","Lemuroid Ringtail Possum",NT,S,-12486656
+164,-268435294,"volans","Petauroides","Greater Glider",LC,D,-16731116
+171,-268435286,"breviceps","Petaurus","Sugar Glider",LC,S,-16731116
+172,-268435286,"biacensis","Petaurus","Biak Glider",LC,U,-16731116
+173,-268435287,"abidi","Petaurus","Northern Glider",CR,D,-3014646
+174,-268435288,"gracilis","Petaurus","Mahogany Glider",EN,D,-8572416
+176,-268435281,"australis","Petaurus","Yellow-bellied Glider",LC,D,-16731116
+177,-268435281,"norfolcensis","Petaurus","Squirrel Glider",LC,D,-16731116
+181,-268435276,"megalura","Dactylopsila","Great-tailed Triok",LC,U,-16731116
+182,-268435276,"trivirgata","Dactylopsila","Striped Possum",LC,D,-16731116
+184,-268435273,"tatei","Dactylopsila","Tate's Triok",EN,U,-8572416
+185,-268435273,"palpator","Dactylopsila","",NE,U,-16777216
+186,-268435278,"leadbeateri","Gymnobelideus","Leadbeater's Possum",EN,D,-8572416
+189,-268435268,"pennatus","Distoechurus","Feather-tailed Possum",LC,S,-16731116
+190,-268435268,"pygmaeus","Acrobates","Feathertail Glider",LC,S,-16731116
+191,-268435269,"rostratus","Tarsipes","Honey Possum",LC,S,-16731116
+197,-268435260,"concinnus","Cercartetus","Western Pygmy Possum",LC,S,-16731116
+198,-268435260,"lepidus","Cercartetus","Little Pygmy Possum",LC,S,-16731116
+199,-268435261,"nanus","Cercartetus","Eastern Pygmy Possum",LC,D,-16731116
+200,-268435262,"caudatus","Cercartetus","Long-tailed Pygmy Possum",LC,S,-16731116
+201,-268435263,"parvus","Burramys","Mountain Pygmy Possum",CR,D,-3014646
+205,-268435252,"latifrons","Lasiorhinus","Southern Hairy-nosed Wombat",LC,U,-16731116
+206,-268435252,"krefftii","Lasiorhinus","Northern Hairy-nosed Wombat",CR,S,-3014646
+207,-268435253,"ursinus","Vombatus","Common Wombat",LC,S,-16731116
+208,-268435254,"cinereus","Phascolarctos","Koala",LC,U,-16731116
+209,-268435456,"gliroides","Dromiciops","Monito Del Monte",NT,D,-12486656

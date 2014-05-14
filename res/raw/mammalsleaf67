@@ -1,114 +1,114 @@
 index,parent,name1,name2,common,redlist,popstab,color
-18,17,"inopinatus","Artibeus","Honduran Fruit-eating Bat",DD,U,-11513776
-19,17,"hirsutus","Artibeus","Hairy Fruit-eating Bat",LC,S,-16731116
-20,16,"fraterculus","Artibeus","Fraternal Fruit-eating Bat",LC,D,-16731116
-23,22,"jamaicensis","Artibeus","Jamaican Fruit-eating Bat",LC,S,-16731116
-24,22,"lituratus","Artibeus","Great Fruit-eating Bat",LC,S,-16731116
-25,21,"obscurus","Artibeus","Dark Fruit-eating Bat",LC,U,-16731116
-26,14,"amplus","Artibeus","Large Fruit-eating Bat",LC,U,-16731116
-27,13,"fimbriatus","Artibeus","Fringed Fruit-eating Bat",LC,S,-16731116
-28,12,"concolor","Artibeus","Brown Fruit-eating Bat",LC,S,-16731116
-35,34,"watsoni","Artibeus","Thomas's Fruit-eating Bat",LC,S,-16731116
-36,34,"glaucus","Artibeus","Silver Fruit-eating Bat",LC,U,-16731116
-37,33,"gnomus","Artibeus","Dwarf Fruit-eating Bat",LC,U,-16731116
-38,32,"anderseni","Artibeus","Andersen's Fruit-eating Bat",LC,U,-16731116
-39,31,"cinereus","Artibeus","Gervais's Fruit-eating Bat",LC,U,-16731116
-40,30,"toltecus","Artibeus","Toltec Fruit-eating Bat",LC,U,-16731116
-42,41,"phaeotis","Artibeus","Pygmy Fruit-eating Bat",LC,S,-16731116
-43,41,"aztecus","Artibeus","Aztec Fruit-eating Bat",LC,U,-16731116
-44,10,"hartii","Enchisthenes","Velvety Fruit-eating Bat",LC,U,-16731116
-49,48,"falcatus","Phyllops","Cuban Fig-eating Bat",LC,S,-16731116
-50,48,"rufum","Stenoderma","Red Fruit Bat",VU,U,-11184866
-52,51,"flavescens","Ariteus","Jamaican Fig-eating Bat",LC,U,-16731116
-53,51,"nichollsi","Ardops","Tree Bat",LC,U,-16731116
-55,54,"centurio","Ametrida","Little White-shouldered Bat",LC,U,-16731116
-56,54,"toxophyllum","Sphaeronycteris","Visored Bat",DD,U,-11513776
-58,57,"bilabiatum","Pygoderma","Ipanema Bat",LC,U,-16731116
-59,57,"senex","Centurio","Wrinkle-faced Bat",LC,S,-16731116
-66,65,"oporaphilum","Sturnira","Tschudi's Yellow-shouldered Bat",NT,U,-12486656
-67,65,"bogotensis","Sturnira","Bogota Yellow-shouldered Bat",LC,U,-16731116
-68,64,"magna","Sturnira","Greater Yellow-shouldered Bat",LC,S,-16731116
-71,70,"thomasi","Sturnira","Thomas's Yellow-shouldered Bat",VU,D,-11184866
-72,70,"tildae","Sturnira","Tilda Yellow-shouldered Bat",LC,S,-16731116
-73,69,"mordax","Sturnira","Talamancan Yellow-shouldered Bat",NT,S,-12486656
-76,75,"ludovici","Sturnira","Highland Yellow-shouldered Bat",LC,U,-16731116
-77,75,"erythromos","Sturnira","Hairy Yellow-shouldered Bat",LC,S,-16731116
-78,74,"luisi","Sturnira","Louis's Yellow-shouldered Bat",LC,U,-16731116
-80,79,"aratathomasi","Sturnira","Aratathomas's Yellow shouldered Bat",NT,U,-12486656
-81,79,"lilium","Sturnira","Little Yellow-shouldered Bat",LC,S,-16731116
-83,82,"bidens","Sturnira","Bidentate Yellow-shouldered Bat",LC,U,-16731116
-84,82,"nana","Sturnira","Lesser Yellow-shouldered Bat",EN,U,-8572416
-88,87,"perspicillata","Carollia","Seba's Short-tailed Bat",LC,S,-16731116
-89,87,"brevicauda","Carollia","Silky Short-tailed Bat",LC,S,-16731116
-91,90,"castanea","Carollia","Chestnut Short-tailed Bat",LC,S,-16731116
-92,90,"subrufa","Carollia","Gray Short-tailed Bat",LC,S,-16731116
-95,94,"fischerae","Rhinophylla","Fischer's Little Fruit Bat",LC,S,-16731116
-96,94,"alethina","Rhinophylla","Hairy Little Fruit Bat",NT,U,-12486656
-97,93,"pumilio","Rhinophylla","Dwarf Little Fruit Bat",LC,U,-16731116
-106,105,"handleyi","Lonchophylla","Handley's Nectar Bat",LC,U,-16731116
-107,105,"robusta","Lonchophylla","Orange Nectar Bat",LC,U,-16731116
-108,104,"hesperia","Lonchophylla","Western Nectar Bat",VU,D,-11184866
-110,109,"bokermanni","Lonchophylla","Bokermann's Nectar Bat",DD,U,-11513776
-111,109,"mordax","Lonchophylla","Goldman' Nectar Bat",LC,U,-16731116
-113,112,"dekeyseri","Lonchophylla","Dekeyser's Nectar Bat",NT,U,-12486656
-114,112,"thomasi","Lonchophylla","Thomas's Nectar Bat",LC,U,-16731116
-115,101,"spurrelli","Lionycteris","Chestnut Long-tongued Bat",LC,U,-16731116
-116,100,"genovensium","Platalina","Long-snouted Bat",NT,U,-12486656
-120,119,"aphylla","Phyllonycteris","Jamaican Flower Bat",LC,S,-16731116
-121,119,"poeyi","Phyllonycteris","Cuban Flower Bat",LC,U,-16731116
-123,122,"bombifrons","Erophylla","Brown Flower Bat",LC,S,-16731116
-124,122,"sezekorni","Erophylla","Buffy Flower Bat",LC,U,-16731116
-126,125,"cavernarum","Brachyphylla","Antillean Fruit-eating Bat",LC,U,-16731116
-127,125,"nana","Brachyphylla","Cuban Fruit-eating Bat",LC,S,-16731116
-139,138,"elongatus","Phyllostomus","Lesser Spear-nosed Bat",LC,U,-16731116
-140,138,"hastatus","Phyllostomus","Greater Spear-nosed Bat",LC,S,-16731116
-141,137,"latifolius","Phyllostomus","Guianan Spear-nosed Bat",LC,U,-16731116
-142,136,"discolor","Phyllostomus","Pale Spear-nosed Bat",LC,S,-16731116
-143,135,"stenops","Phylloderma","Pale-faced Bat",LC,S,-16731116
-146,145,"cozumelae","Mimon","Cozumelan Golden Bat",LC,S,-16731116
-147,145,"bennettii","Mimon","Golden Bat",LC,S,-16731116
-149,148,"crenulatum","Mimon","Striped Hairy-nosed Bat",LC,S,-16731116
-150,148,"koepckeae","Mimon","",DD,U,-11513776
-156,155,"carrikeri","Lophostoma","Carriker's Round-eared Bat",LC,D,-16731116
-157,155,"evotis","Lophostoma","Davis's Round-eared Bat",LC,S,-16731116
-158,154,"silvicolum","Lophostoma","White-throated Round-eared Bat",LC,U,-16731116
-160,159,"saurophila","Tonatia","Stripe-headed Round-eared Bat",LC,S,-16731116
-161,159,"bidens","Tonatia","Greater Round-eared Bat",DD,U,-11513776
-162,152,"brasiliense","Lophostoma","Pygmy Round-eared Bat",LC,S,-16731116
-163,151,"schulzi","Lophostoma","Schultz's Round-eared Bat",LC,U,-16731116
-165,164,"auritus","Chrotopterus","Big-eared Wooly Bat",LC,S,-16731116
-166,164,"spectrum","Vampyrum","Spectral Bat",NT,D,-12486656
-167,131,"cirrhosus","Trachops","Fringe-lipped Bat",LC,S,-16731116
-173,172,"megalotis","Micronycteris","Little Big-eared Bat",LC,U,-16731116
-174,172,"microtis","Micronycteris","Common Big-eared Bat",LC,S,-16731116
-175,171,"homezi","Micronycteris","",NE,U,-16777216
-177,176,"schmidtorum","Micronycteris","Schmidts's Big-eared Bat",LC,S,-16731116
-178,176,"minuta","Micronycteris","Tiny Big-eared Bat",LC,U,-16731116
-179,169,"hirsuta","Micronycteris","Hairy Big-eared Bat",LC,U,-16731116
-185,184,"behnii","Glyphonycteris","Behni's Big-eared Bat",DD,U,-11513776
-186,184,"sylvestris","Glyphonycteris","Tricolored Bat",LC,U,-16731116
-187,183,"daviesi","Glyphonycteris","Davies's Big-eared Bat",LC,U,-16731116
-188,182,"pusilla","Neonycteris","Least Big-eared Bat",VU,D,-11184866
-189,181,"nicefori","Trinycteris","Niceforo's Big-eared Bat",LC,U,-16731116
-190,180,"brachyotis","Lampronycteris","Orange-throated Bat",LC,S,-16731116
-192,191,"waterhousii","Macrotus","Waterhouse's Leaf-nosed Bat",LC,S,-16731116
-193,191,"californicus","Macrotus","California Leaf-nosed Bat",LC,S,-16731116
-198,197,"marinkellei","Lonchorhina","Marinkelle's Sword-nosed Bat",EN,D,-8572416
-199,197,"aurita","Lonchorhina","Common Sword-nosed Bat",LC,S,-16731116
-200,196,"fernandezi","Lonchorhina","Fernandez's Sword-nosed Bat",EN,D,-8572416
-201,195,"orinocensis","Lonchorhina","Orinoco Sword-nosed Bat",VU,D,-11184866
-202,194,"macrophyllum","Macrophyllum","Long-legged Bat",LC,U,-16731116
-205,204,"youngi","Diaemus","White-winged Vampire Bat",LC,U,-16731116
-206,204,"rotundus","Desmodus","Common Vampire Bat",LC,S,-16731116
-207,203,"ecaudata","Diphylla","Hairy-legged Vampire Bat",LC,S,-16731116
-213,212,"macleayii","Pteronotus","Macleay's Mustached Bat",LC,S,-16731116
-214,212,"quadridens","Pteronotus","Sooty Mustached Bat",LC,S,-16731116
-215,211,"personatus","Pteronotus","Wagner's Mustached Bat",LC,S,-16731116
-216,210,"parnellii","Pteronotus","Common Mustached Bat",LC,S,-16731116
-218,217,"gymnonotus","Pteronotus","Big Naked-backed Bat",LC,S,-16731116
-219,217,"davyi","Pteronotus","Davy's Naked-backed Bat",LC,S,-16731116
-221,220,"blainvillei","Mormoops","Antillean Ghost-faced Bat",LC,U,-16731116
-222,220,"megalophylla","Mormoops","Ghost-faced Bat",LC,D,-16731116
-224,223,"albiventris","Noctilio","Lesser Bulldog Bat",LC,S,-16731116
-225,223,"leporinus","Noctilio","Greater Bulldog Bat",LC,U,-16731116
-226,0,"tuberculata","Mystacina","New Zealand Lesser Short-tailed Bat",VU,D,-11184866
+18,-268435439,"inopinatus","Artibeus","Honduran Fruit-eating Bat",DD,U,-11513776
+19,-268435439,"hirsutus","Artibeus","Hairy Fruit-eating Bat",LC,S,-16731116
+20,-268435440,"fraterculus","Artibeus","Fraternal Fruit-eating Bat",LC,D,-16731116
+23,-268435434,"jamaicensis","Artibeus","Jamaican Fruit-eating Bat",LC,S,-16731116
+24,-268435434,"lituratus","Artibeus","Great Fruit-eating Bat",LC,S,-16731116
+25,-268435435,"obscurus","Artibeus","Dark Fruit-eating Bat",LC,U,-16731116
+26,-268435442,"amplus","Artibeus","Large Fruit-eating Bat",LC,U,-16731116
+27,-268435443,"fimbriatus","Artibeus","Fringed Fruit-eating Bat",LC,S,-16731116
+28,-268435444,"concolor","Artibeus","Brown Fruit-eating Bat",LC,S,-16731116
+35,-268435422,"watsoni","Artibeus","Thomas's Fruit-eating Bat",LC,S,-16731116
+36,-268435422,"glaucus","Artibeus","Silver Fruit-eating Bat",LC,U,-16731116
+37,-268435423,"gnomus","Artibeus","Dwarf Fruit-eating Bat",LC,U,-16731116
+38,-268435424,"anderseni","Artibeus","Andersen's Fruit-eating Bat",LC,U,-16731116
+39,-268435425,"cinereus","Artibeus","Gervais's Fruit-eating Bat",LC,U,-16731116
+40,-268435426,"toltecus","Artibeus","Toltec Fruit-eating Bat",LC,U,-16731116
+42,-268435415,"phaeotis","Artibeus","Pygmy Fruit-eating Bat",LC,S,-16731116
+43,-268435415,"aztecus","Artibeus","Aztec Fruit-eating Bat",LC,U,-16731116
+44,-268435446,"hartii","Enchisthenes","Velvety Fruit-eating Bat",LC,U,-16731116
+49,-268435408,"falcatus","Phyllops","Cuban Fig-eating Bat",LC,S,-16731116
+50,-268435408,"rufum","Stenoderma","Red Fruit Bat",VU,U,-11184866
+52,-268435405,"flavescens","Ariteus","Jamaican Fig-eating Bat",LC,U,-16731116
+53,-268435405,"nichollsi","Ardops","Tree Bat",LC,U,-16731116
+55,-268435402,"centurio","Ametrida","Little White-shouldered Bat",LC,U,-16731116
+56,-268435402,"toxophyllum","Sphaeronycteris","Visored Bat",DD,U,-11513776
+58,-268435399,"bilabiatum","Pygoderma","Ipanema Bat",LC,U,-16731116
+59,-268435399,"senex","Centurio","Wrinkle-faced Bat",LC,S,-16731116
+66,-268435391,"oporaphilum","Sturnira","Tschudi's Yellow-shouldered Bat",NT,U,-12486656
+67,-268435391,"bogotensis","Sturnira","Bogota Yellow-shouldered Bat",LC,U,-16731116
+68,-268435392,"magna","Sturnira","Greater Yellow-shouldered Bat",LC,S,-16731116
+71,-268435386,"thomasi","Sturnira","Thomas's Yellow-shouldered Bat",VU,D,-11184866
+72,-268435386,"tildae","Sturnira","Tilda Yellow-shouldered Bat",LC,S,-16731116
+73,-268435387,"mordax","Sturnira","Talamancan Yellow-shouldered Bat",NT,S,-12486656
+76,-268435381,"ludovici","Sturnira","Highland Yellow-shouldered Bat",LC,U,-16731116
+77,-268435381,"erythromos","Sturnira","Hairy Yellow-shouldered Bat",LC,S,-16731116
+78,-268435382,"luisi","Sturnira","Louis's Yellow-shouldered Bat",LC,U,-16731116
+80,-268435377,"aratathomasi","Sturnira","Aratathomas's Yellow shouldered Bat",NT,U,-12486656
+81,-268435377,"lilium","Sturnira","Little Yellow-shouldered Bat",LC,S,-16731116
+83,-268435374,"bidens","Sturnira","Bidentate Yellow-shouldered Bat",LC,U,-16731116
+84,-268435374,"nana","Sturnira","Lesser Yellow-shouldered Bat",EN,U,-8572416
+88,-268435369,"perspicillata","Carollia","Seba's Short-tailed Bat",LC,S,-16731116
+89,-268435369,"brevicauda","Carollia","Silky Short-tailed Bat",LC,S,-16731116
+91,-268435366,"castanea","Carollia","Chestnut Short-tailed Bat",LC,S,-16731116
+92,-268435366,"subrufa","Carollia","Gray Short-tailed Bat",LC,S,-16731116
+95,-268435362,"fischerae","Rhinophylla","Fischer's Little Fruit Bat",LC,S,-16731116
+96,-268435362,"alethina","Rhinophylla","Hairy Little Fruit Bat",NT,U,-12486656
+97,-268435363,"pumilio","Rhinophylla","Dwarf Little Fruit Bat",LC,U,-16731116
+106,-268435351,"handleyi","Lonchophylla","Handley's Nectar Bat",LC,U,-16731116
+107,-268435351,"robusta","Lonchophylla","Orange Nectar Bat",LC,U,-16731116
+108,-268435352,"hesperia","Lonchophylla","Western Nectar Bat",VU,D,-11184866
+110,-268435347,"bokermanni","Lonchophylla","Bokermann's Nectar Bat",DD,U,-11513776
+111,-268435347,"mordax","Lonchophylla","Goldman' Nectar Bat",LC,U,-16731116
+113,-268435344,"dekeyseri","Lonchophylla","Dekeyser's Nectar Bat",NT,U,-12486656
+114,-268435344,"thomasi","Lonchophylla","Thomas's Nectar Bat",LC,U,-16731116
+115,-268435355,"spurrelli","Lionycteris","Chestnut Long-tongued Bat",LC,U,-16731116
+116,-268435356,"genovensium","Platalina","Long-snouted Bat",NT,U,-12486656
+120,-268435337,"aphylla","Phyllonycteris","Jamaican Flower Bat",LC,S,-16731116
+121,-268435337,"poeyi","Phyllonycteris","Cuban Flower Bat",LC,U,-16731116
+123,-268435334,"bombifrons","Erophylla","Brown Flower Bat",LC,S,-16731116
+124,-268435334,"sezekorni","Erophylla","Buffy Flower Bat",LC,U,-16731116
+126,-268435331,"cavernarum","Brachyphylla","Antillean Fruit-eating Bat",LC,U,-16731116
+127,-268435331,"nana","Brachyphylla","Cuban Fruit-eating Bat",LC,S,-16731116
+139,-268435318,"elongatus","Phyllostomus","Lesser Spear-nosed Bat",LC,U,-16731116
+140,-268435318,"hastatus","Phyllostomus","Greater Spear-nosed Bat",LC,S,-16731116
+141,-268435319,"latifolius","Phyllostomus","Guianan Spear-nosed Bat",LC,U,-16731116
+142,-268435320,"discolor","Phyllostomus","Pale Spear-nosed Bat",LC,S,-16731116
+143,-268435321,"stenops","Phylloderma","Pale-faced Bat",LC,S,-16731116
+146,-268435311,"cozumelae","Mimon","Cozumelan Golden Bat",LC,S,-16731116
+147,-268435311,"bennettii","Mimon","Golden Bat",LC,S,-16731116
+149,-268435308,"crenulatum","Mimon","Striped Hairy-nosed Bat",LC,S,-16731116
+150,-268435308,"koepckeae","Mimon","",DD,U,-11513776
+156,-268435301,"carrikeri","Lophostoma","Carriker's Round-eared Bat",LC,D,-16731116
+157,-268435301,"evotis","Lophostoma","Davis's Round-eared Bat",LC,S,-16731116
+158,-268435302,"silvicolum","Lophostoma","White-throated Round-eared Bat",LC,U,-16731116
+160,-268435297,"saurophila","Tonatia","Stripe-headed Round-eared Bat",LC,S,-16731116
+161,-268435297,"bidens","Tonatia","Greater Round-eared Bat",DD,U,-11513776
+162,-268435304,"brasiliense","Lophostoma","Pygmy Round-eared Bat",LC,S,-16731116
+163,-268435305,"schulzi","Lophostoma","Schultz's Round-eared Bat",LC,U,-16731116
+165,-268435292,"auritus","Chrotopterus","Big-eared Wooly Bat",LC,S,-16731116
+166,-268435292,"spectrum","Vampyrum","Spectral Bat",NT,D,-12486656
+167,-268435325,"cirrhosus","Trachops","Fringe-lipped Bat",LC,S,-16731116
+173,-268435284,"megalotis","Micronycteris","Little Big-eared Bat",LC,U,-16731116
+174,-268435284,"microtis","Micronycteris","Common Big-eared Bat",LC,S,-16731116
+175,-268435285,"homezi","Micronycteris","",NE,U,-16777216
+177,-268435280,"schmidtorum","Micronycteris","Schmidts's Big-eared Bat",LC,S,-16731116
+178,-268435280,"minuta","Micronycteris","Tiny Big-eared Bat",LC,U,-16731116
+179,-268435287,"hirsuta","Micronycteris","Hairy Big-eared Bat",LC,U,-16731116
+185,-268435272,"behnii","Glyphonycteris","Behni's Big-eared Bat",DD,U,-11513776
+186,-268435272,"sylvestris","Glyphonycteris","Tricolored Bat",LC,U,-16731116
+187,-268435273,"daviesi","Glyphonycteris","Davies's Big-eared Bat",LC,U,-16731116
+188,-268435274,"pusilla","Neonycteris","Least Big-eared Bat",VU,D,-11184866
+189,-268435275,"nicefori","Trinycteris","Niceforo's Big-eared Bat",LC,U,-16731116
+190,-268435276,"brachyotis","Lampronycteris","Orange-throated Bat",LC,S,-16731116
+192,-268435265,"waterhousii","Macrotus","Waterhouse's Leaf-nosed Bat",LC,S,-16731116
+193,-268435265,"californicus","Macrotus","California Leaf-nosed Bat",LC,S,-16731116
+198,-268435259,"marinkellei","Lonchorhina","Marinkelle's Sword-nosed Bat",EN,D,-8572416
+199,-268435259,"aurita","Lonchorhina","Common Sword-nosed Bat",LC,S,-16731116
+200,-268435260,"fernandezi","Lonchorhina","Fernandez's Sword-nosed Bat",EN,D,-8572416
+201,-268435261,"orinocensis","Lonchorhina","Orinoco Sword-nosed Bat",VU,D,-11184866
+202,-268435262,"macrophyllum","Macrophyllum","Long-legged Bat",LC,U,-16731116
+205,-268435252,"youngi","Diaemus","White-winged Vampire Bat",LC,U,-16731116
+206,-268435252,"rotundus","Desmodus","Common Vampire Bat",LC,S,-16731116
+207,-268435253,"ecaudata","Diphylla","Hairy-legged Vampire Bat",LC,S,-16731116
+213,-268435244,"macleayii","Pteronotus","Macleay's Mustached Bat",LC,S,-16731116
+214,-268435244,"quadridens","Pteronotus","Sooty Mustached Bat",LC,S,-16731116
+215,-268435245,"personatus","Pteronotus","Wagner's Mustached Bat",LC,S,-16731116
+216,-268435246,"parnellii","Pteronotus","Common Mustached Bat",LC,S,-16731116
+218,-268435239,"gymnonotus","Pteronotus","Big Naked-backed Bat",LC,S,-16731116
+219,-268435239,"davyi","Pteronotus","Davy's Naked-backed Bat",LC,S,-16731116
+221,-268435236,"blainvillei","Mormoops","Antillean Ghost-faced Bat",LC,U,-16731116
+222,-268435236,"megalophylla","Mormoops","Ghost-faced Bat",LC,D,-16731116
+224,-268435233,"albiventris","Noctilio","Lesser Bulldog Bat",LC,S,-16731116
+225,-268435233,"leporinus","Noctilio","Greater Bulldog Bat",LC,U,-16731116
+226,-268435456,"tuberculata","Mystacina","New Zealand Lesser Short-tailed Bat",VU,D,-11184866

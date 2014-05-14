@@ -1,31 +1,31 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,8,"vincenti","Paraxerus","Vincent's Bush Squirrel",EN,D,-8572416
-10,8,"palliatus","Paraxerus","Red Bush Squirrel",LC,U,-16731116
-11,7,"cooperi","Paraxerus","Cooper's Mountain Squirrel",DD,U,-11513776
-13,12,"alexandri","Paraxerus","Alexander's Bush Squirrel",LC,U,-16731116
-14,12,"poensis","Paraxerus","Green Bush Squirrel",LC,U,-16731116
-17,16,"lucifer","Paraxerus","Black And Red Bush Squirrel",DD,U,-11513776
-18,16,"boehmi","Paraxerus","Boehm's Bush Squirrel",LC,U,-16731116
-19,15,"cepapi","Paraxerus","Smith's Bush Squirrel",LC,S,-16731116
-22,21,"flavovittis","Paraxerus","Striped Bush Squirrel",LC,U,-16731116
-23,21,"ochraceus","Paraxerus","Ochre Bush Squirrel",LC,S,-16731116
-24,20,"vexillarius","Paraxerus","Svynnerton's Bush Squirrel",NT,U,-12486656
-29,28,"leucogenys","Funisciurus","Orange Headed Tree Squirrel",LC,U,-16731116
-30,28,"isabella","Funisciurus","Lady Burton's Rope Squirrel",LC,U,-16731116
-31,27,"substriatus","Funisciurus","Kintampo Rope Squirrel",DD,U,-11513776
-34,33,"carruthersi","Funisciurus","Carruther's Mountain Squirrel",LC,U,-16731116
-35,33,"congicus","Funisciurus","Congo Rope Squirrel",LC,S,-16731116
-36,32,"bayonii","Funisciurus","Lunda Rope Squirrel",DD,U,-11513776
-39,38,"lemniscatus","Funisciurus","Ribboned Rope Squirrel",LC,U,-16731116
-40,38,"pyrropus","Funisciurus","Fire-footed Rope Squirrel",LC,S,-16731116
-41,37,"anerythrus","Funisciurus","Redness Tree Squirrel",LC,U,-16731116
-44,43,"aubinnii","Protoxerus","Slender-tailed Squirrel",DD,U,-11513776
-45,43,"stangeri","Protoxerus","African Giant Squirrel",LC,U,-16731116
-46,42,"ebii","Epixerus","Western Palm Squirrel",LC,U,-16731116
-51,50,"rufobrachium","Heliosciurus","Red-legged Sun Squirrel",LC,U,-16731116
-52,50,"punctatus","Heliosciurus","Small Sun Squirrel",DD,U,-11513776
-53,49,"gambianus","Heliosciurus","Gambian Sun Squirrel",LC,U,-16731116
-54,48,"mutabilis","Heliosciurus","Mutable Sun Squirrel",LC,U,-16731116
-56,55,"ruwenzorii","Heliosciurus","Ruwenzori Sun Squirrel",LC,U,-16731116
-57,55,"undulatus","Heliosciurus","Zanj Sun Squirrel",DD,U,-11513776
-58,0,"pumilio","Myosciurus","African Pygmy Squirrel",LC,U,-16731116
+9,-268435448,"vincenti","Paraxerus","Vincent's Bush Squirrel",EN,D,-8572416
+10,-268435448,"palliatus","Paraxerus","Red Bush Squirrel",LC,U,-16731116
+11,-268435449,"cooperi","Paraxerus","Cooper's Mountain Squirrel",DD,U,-11513776
+13,-268435444,"alexandri","Paraxerus","Alexander's Bush Squirrel",LC,U,-16731116
+14,-268435444,"poensis","Paraxerus","Green Bush Squirrel",LC,U,-16731116
+17,-268435440,"lucifer","Paraxerus","Black And Red Bush Squirrel",DD,U,-11513776
+18,-268435440,"boehmi","Paraxerus","Boehm's Bush Squirrel",LC,U,-16731116
+19,-268435441,"cepapi","Paraxerus","Smith's Bush Squirrel",LC,S,-16731116
+22,-268435435,"flavovittis","Paraxerus","Striped Bush Squirrel",LC,U,-16731116
+23,-268435435,"ochraceus","Paraxerus","Ochre Bush Squirrel",LC,S,-16731116
+24,-268435436,"vexillarius","Paraxerus","Svynnerton's Bush Squirrel",NT,U,-12486656
+29,-268435428,"leucogenys","Funisciurus","Orange Headed Tree Squirrel",LC,U,-16731116
+30,-268435428,"isabella","Funisciurus","Lady Burton's Rope Squirrel",LC,U,-16731116
+31,-268435429,"substriatus","Funisciurus","Kintampo Rope Squirrel",DD,U,-11513776
+34,-268435423,"carruthersi","Funisciurus","Carruther's Mountain Squirrel",LC,U,-16731116
+35,-268435423,"congicus","Funisciurus","Congo Rope Squirrel",LC,S,-16731116
+36,-268435424,"bayonii","Funisciurus","Lunda Rope Squirrel",DD,U,-11513776
+39,-268435418,"lemniscatus","Funisciurus","Ribboned Rope Squirrel",LC,U,-16731116
+40,-268435418,"pyrropus","Funisciurus","Fire-footed Rope Squirrel",LC,S,-16731116
+41,-268435419,"anerythrus","Funisciurus","Redness Tree Squirrel",LC,U,-16731116
+44,-268435413,"aubinnii","Protoxerus","Slender-tailed Squirrel",DD,U,-11513776
+45,-268435413,"stangeri","Protoxerus","African Giant Squirrel",LC,U,-16731116
+46,-268435414,"ebii","Epixerus","Western Palm Squirrel",LC,U,-16731116
+51,-268435406,"rufobrachium","Heliosciurus","Red-legged Sun Squirrel",LC,U,-16731116
+52,-268435406,"punctatus","Heliosciurus","Small Sun Squirrel",DD,U,-11513776
+53,-268435407,"gambianus","Heliosciurus","Gambian Sun Squirrel",LC,U,-16731116
+54,-268435408,"mutabilis","Heliosciurus","Mutable Sun Squirrel",LC,U,-16731116
+56,-268435401,"ruwenzorii","Heliosciurus","Ruwenzori Sun Squirrel",LC,U,-16731116
+57,-268435401,"undulatus","Heliosciurus","Zanj Sun Squirrel",DD,U,-11513776
+58,-268435456,"pumilio","Myosciurus","African Pygmy Squirrel",LC,U,-16731116

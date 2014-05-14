@@ -1,22 +1,22 @@
 index,parent,name1,name2,common,redlist,popstab,color
-6,5,"susiana","Crocidura","Iranian Shrew",DD,U,-11513776
-7,5,"lea","Crocidura","Sulawesi Shrew",LC,U,-16731116
-8,4,"olivieri","Crocidura","African Giant Shrew",LC,U,-16731116
-10,9,"stenocephala","Crocidura","Kahuzi Swamp Shrew",EN,D,-8572416
-11,9,"hispida","Crocidura","Andaman Spiny Shrew",VU,U,-11184866
-15,14,"thomensis","Crocidura","Sao Tome Shrew",EN,D,-8572416
-16,14,"beatus","Crocidura","Mindanao Shrew",LC,D,-16731116
-17,13,"silacea","Crocidura","Lesser Gray-brown Musk Shrew",LC,S,-16731116
-18,12,"kivuana","Crocidura","Kivu Shrew",VU,U,-11184866
-22,21,"monticola","Crocidura","Sunda Shrew",LC,U,-16731116
-23,21,"glassi","Crocidura","Glass's Shrew",VU,D,-11184866
-24,20,"sibirica","Crocidura","Siberian Shrew",LC,U,-16731116
-26,25,"ultima","Crocidura","Ultimate Shrew",DD,U,-11513776
-27,25,"ludia","Crocidura","Dramatic Shrew",LC,U,-16731116
-32,31,"rhoditis","Crocidura","Sulawesi White-handed Shrew",LC,U,-16731116
-33,31,"latona","Crocidura","Latona Shrew",LC,U,-16731116
-34,30,"lucina","Crocidura","Lucina's Shrew",VU,S,-11184866
-35,29,"floweri","Crocidura","Flower's Shrew",DD,U,-11513776
-38,37,"luna","Crocidura","Greater Gray-brown Musk Shrew",LC,U,-16731116
-39,37,"mariquensis","Crocidura","Swamp Musk Shrew",LC,U,-16731116
-40,36,"paradoxura","Crocidura","Sumatran Long-tailed Shrew",LC,D,-16731116
+6,-268435451,"susiana","Crocidura","Iranian Shrew",DD,U,-11513776
+7,-268435451,"lea","Crocidura","Sulawesi Shrew",LC,U,-16731116
+8,-268435452,"olivieri","Crocidura","African Giant Shrew",LC,U,-16731116
+10,-268435447,"stenocephala","Crocidura","Kahuzi Swamp Shrew",EN,D,-8572416
+11,-268435447,"hispida","Crocidura","Andaman Spiny Shrew",VU,U,-11184866
+15,-268435442,"thomensis","Crocidura","Sao Tome Shrew",EN,D,-8572416
+16,-268435442,"beatus","Crocidura","Mindanao Shrew",LC,D,-16731116
+17,-268435443,"silacea","Crocidura","Lesser Gray-brown Musk Shrew",LC,S,-16731116
+18,-268435444,"kivuana","Crocidura","Kivu Shrew",VU,U,-11184866
+22,-268435435,"monticola","Crocidura","Sunda Shrew",LC,U,-16731116
+23,-268435435,"glassi","Crocidura","Glass's Shrew",VU,D,-11184866
+24,-268435436,"sibirica","Crocidura","Siberian Shrew",LC,U,-16731116
+26,-268435431,"ultima","Crocidura","Ultimate Shrew",DD,U,-11513776
+27,-268435431,"ludia","Crocidura","Dramatic Shrew",LC,U,-16731116
+32,-268435425,"rhoditis","Crocidura","Sulawesi White-handed Shrew",LC,U,-16731116
+33,-268435425,"latona","Crocidura","Latona Shrew",LC,U,-16731116
+34,-268435426,"lucina","Crocidura","Lucina's Shrew",VU,S,-11184866
+35,-268435427,"floweri","Crocidura","Flower's Shrew",DD,U,-11513776
+38,-268435419,"luna","Crocidura","Greater Gray-brown Musk Shrew",LC,U,-16731116
+39,-268435419,"mariquensis","Crocidura","Swamp Musk Shrew",LC,U,-16731116
+40,-268435420,"paradoxura","Crocidura","Sumatran Long-tailed Shrew",LC,D,-16731116
