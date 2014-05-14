@@ -3,6 +3,7 @@ package com.onezoom.midnode;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Locale;
@@ -69,7 +70,7 @@ public class Initializer {
 	 * it will push nodes which have further children in other files into listOfHeadNodeInNextFile.
 	 * 
 	 * Poll the head node in next file out and if its horizon is visible, then initialize it, otherwise
-	 * push the node into the stack of non-initialized nodes.
+	 * push the node into the stack of non-initialized nodes waiting for idle time initialization
 	 * 
 	 * @param fileIndex
 	 * @param childIndex
@@ -248,6 +249,9 @@ public class Initializer {
 	/**
 	 * Load a file starting from midnode, which is a tail node from a initialized file.
 	 * 
+	 * The nodes which has children in other files will be added to stackOfNodeNonInitChildren queue,
+	 * waiting for idle time initialization.
+	 * 
 	 * infos[0] is not used... Maybe I should delete it....
 	 * @param childIndex
 	 * @param midnode
@@ -255,6 +259,7 @@ public class Initializer {
 	 */
 	public MidNode createTreeStartFromTailNode(int childIndex, MidNode midnode) {
 		int[] infos;
+		this.listOfHeadNodeInNextFile.clear();
 		if (childIndex == 1) {
 			infos = findFileAndIndexInfo(midnode.child1Index);
 		} else {
@@ -262,7 +267,19 @@ public class Initializer {
 		}
 		int fileIndex = infos[1];
 		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
-		return createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(fileIndex), childIndex, midnode);
+		MidNode root = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(fileIndex), childIndex, midnode);
+		copyFromListToStack(this.listOfHeadNodeInNextFile, this.stackOfNodeHasNonInitChildren);
+		this.listOfHeadNodeInNextFile.clear();
+		return root;
+	}
+	
+	/**
+	 * Copy midnode in listheadqueue into noninitialized stack
+	 */
+	private void copyFromListToStack(LinkedList<Pair<Integer, MidNode>> list, PriorityQueue<MidNode> queue) {
+		for (int i = 0; i < list.size(); i++) {
+			queue.add(list.get(i).second);
+		}
 	}
 
 	/**
@@ -286,6 +303,7 @@ public class Initializer {
 	 * 
 	 */
 	public void idleTimeInitialization() {
+		Arrays.sort(this.stackOfNodeHasNonInitChildren.toArray());
 		if (!stackOfNodeHasNonInitChildren.isEmpty()) {
 			MidNode interNode = stackOfNodeHasNonInitChildren.poll();
 			if (interNode == null) return;
@@ -294,7 +312,6 @@ public class Initializer {
 			} else if (interNode.child2 == null){
 				interNode.child2 = createTreeStartFromTailNode(2, interNode);
 			}
-			listOfHeadNodeInNextFile.clear();
 		}
 	}
 	

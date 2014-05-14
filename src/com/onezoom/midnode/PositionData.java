@@ -107,6 +107,10 @@ public class PositionData implements Comparable<PositionData>{
 		else if (thisDistanceToCenter < thatDistanceToCenter) return -1;
 		return 0;
 	}
+	
+	public float getDistanceToCenter() {
+		return Math.abs(xvar * 2 - screenXmax - screenXmin) + Math.abs(yvar * 2 - screenYmax - screenYmin);
+	}
 
 	/**
 	 * Move the interior circle or the leaf of the node into screen center. 
