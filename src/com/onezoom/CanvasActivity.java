@@ -515,6 +515,7 @@ public class CanvasActivity extends Activity{
 	 * content in tree view first.
 	 */
 	public void setQueryOfCurrentSearchView() {
-		this.currentSearchView.setQuery(this.searchEngine.getPreviousSearch(), false);
+		if (this.currentSearchView != null)
+			this.currentSearchView.setQuery(this.searchEngine.getPreviousSearch(), false);
 	}
 }
