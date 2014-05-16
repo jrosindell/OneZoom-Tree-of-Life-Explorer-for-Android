@@ -1,6 +1,6 @@
 name,fileindex,index,whichChild
 "Jackson's Praomys",8,20,1
-"jacksoni",8,20,1
+"Praomys jacksoni",8,20,1
 "Montane Javan Niviventer",11,99,2
 "Javan Shrew-like Mouse",11,179,2
 "Bartels's Javan Maxomys",9,73,2
@@ -9,27 +9,27 @@ name,fileindex,index,whichChild
 "Small Japanese Field Mouse",19,16,1
 "Javan Bamboo Rat",19,75,2
 "Javan Sundamys",8,84,2
-"jacksoni",14,14,2
-"jamesi",16,23,2
+"Otomys jacksoni",14,14,2
+"Dipodillus jamesi",16,23,2
 "Rio De Janeiro Arboreal Rat",23,203,2
 "Jaliscan Cotton Rat",21,125,1
 "Japanese Grass Vole",5,85,1
 "Jalapan Pine Vole",5,115,1
 "Jackson's Fat Mouse",4,206,2
-"jacksoni",4,206,2
-"Jaculus",3,67,1
-"Jaculus",3,68,2
-"jaculus",3,69,2
-"Jaculus",3,69,2
+"Steatomys jacksoni",4,206,2
+"Jaculus orientalis",3,67,1
+"Jaculus blanfordi",3,68,2
+"Jaculus jaculus",3,69,2
+"Jaculus jaculus",3,69,2
 "Jaliscan Spiny Pocket Mouse",20,12,1
-"janetta",29,148,1
-"javanica",29,193,2
+"Bathyergus janetta",29,148,1
+"Hystrix javanica",29,193,2
 "Javanese Flying Squirrel",80,49,1
 "Japanese Giant Flying Squirrel",77,27,2
 "Japanese Flying Squirrel",77,44,1
 "Japanese Squirrel",82,32,2
 "Japanese Dormouse",77,170,1
-"japonicus",77,170,1
+"Glirulus japonicus",77,170,1
 "White-tailed Jackrabbit",76,21,2
 "Japanese Hare",76,25,2
 "Tehuantepec Jackrabbit",76,40,1
@@ -42,61 +42,61 @@ name,fileindex,index,whichChild
 "Javan Lutung",40,32,2
 "Javan Surili",40,39,2
 "Silvery Javan Gibbon",37,12,2
-"jacchus",38,14,2
-"javanica",35,177,1
-"jagorii",53,47,1
+"Callithrix jacchus",38,14,2
+"Tupaia javanica",35,177,1
+"Phoniscus jagorii",53,47,1
 "Japanese Noctule",53,183,2
 "Japanese Pipistrelle",54,23,1
 "Javan Pipistrelle",54,24,2
-"javanicus",54,24,2
+"Pipistrellus javanicus",54,24,2
 "Jamaican Red Bat",56,15,2
 "Javan Thick-thumbed Bat",53,210,2
-"javanus",53,210,2
+"Glischropus javanus",53,210,2
 "Japanese Short-tailed Bat",73,160,2
-"japonensis",73,160,2
+"Eptesicus japonensis",73,160,2
 "Java Giant Mastiff Bat",62,55,2
 "Jamaican Fruit-eating Bat",67,23,1
-"jamaicensis",67,23,1
+"Artibeus jamaicensis",67,23,1
 "Jamaican Fig-eating Bat",67,52,1
 "Jamaican Flower Bat",67,120,1
 "Jamaican Greater Funnel-eared Bat",45,55,2
-"jamaicensis",45,55,2
+"Natalus jamaicensis",45,55,2
 "Javan Slit-faced Bat",58,159,2
-"javanica",58,159,2
+"Nycteris javanica",58,159,2
 "Ontong Java Flying Fox",57,89,2
 "Javan Tailless Fruit Bat",46,24,2
-"jagori",46,28,1
-"jayakari",64,20,2
+"Ptenochirus jagori",46,28,1
+"Hemitragus jayakari",64,20,2
 "Japanese Serow",64,68,2
-"javanicus",63,74,1
+"Bos javanicus",63,74,1
 "Javan Rusa",63,100,1
 "Javan Chevrotain",63,199,2
-"javanicus",63,199,2
-"japonica",75,162,2
+"Tragulus javanicus",63,199,2
+"Eubalaena japonica",75,162,2
 "Javan Warty Pig",72,14,2
 "Javan Rhinoceros",45,137,2
 "Japanese Weasel",49,17,2
 "Japanese Marten",49,53,2
 "Japanese Badger",49,79,1
-"javanensis",49,84,1
+"Mydaus javanensis",49,84,1
 "Javan Ferret Badger",52,50,2
 "Japanese Sea Lion",47,66,2
-"japonicus",47,66,2
+"Zalophus japonicus",47,66,2
 "Side-striped Jackal",47,127,1
 "Golden Jackal",47,128,2
 "Black-backed Jackal",47,129,2
 "Jackson's Mongoose",50,28,2
-"jacksoni",50,28,2
-"javanicus",50,40,1
+"Bdeogale jacksoni",50,28,2
+"Herpestes javanicus",50,40,1
 "Jaguar",48,16,2
-"jacobitus",48,41,2
+"Leopardus jacobitus",48,41,2
 "Jaguarundi",48,77,1
-"javanica",45,170,2
+"Manis javanica",45,170,2
 "Jackson's Shrew",88,61,2
-"jacksoni",88,61,2
+"Crocidura jacksoni",88,61,2
 "Javanese Shrew",88,119,2
 "Jackass Shrew",88,141,2
-"jacksoni",86,79,1
+"Sorex jacksoni",86,79,1
 "Japanese Water Shrew",91,32,1
 "Japanese Mountain Mole",85,112,2
 "Japanese Mole",85,116,1

@@ -1,54 +1,54 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,-268435442,"antinorii","Sorex","Valais Shrew",DD,U,-11513776
-16,-268435442,"araneus","Sorex","Common Shrew",LC,S,-16731116
-17,-268435443,"granarius","Sorex","Iberian Shrew",LC,U,-16731116
-18,-268435444,"coronatus","Sorex","Crowned Shrew",LC,S,-16731116
-20,-268435437,"daphaenodon","Sorex","Large-toothed Siberian Shrew",LC,S,-16731116
-21,-268435437,"satunini","Sorex","Caucasian Shrew",LC,U,-16731116
-23,-268435434,"tundrensis","Sorex","Tundra Shrew",LC,S,-16731116
-24,-268435434,"asper","Sorex","Tien Shan Shrew",LC,U,-16731116
-26,-268435431,"maritimensis","Sorex","Maritime Shrew",LC,D,-16731116
-27,-268435431,"arcticus","Sorex","Arctic Shrew",LC,S,-16731116
-28,-268435448,"samniticus","Sorex","Appenine Shrew",LC,U,-16731116
-29,-268435449,"excelsus","Sorex","Highland Shrew",LC,U,-16731116
-34,-268435423,"caecutiens","Sorex","Laxmann's Shrew",LC,S,-16731116
-35,-268435423,"shinto","Sorex","Shinto Shrew",LC,S,-16731116
-36,-268435424,"roboratus","Sorex","Flat-skulled Shrew",LC,U,-16731116
-38,-268435419,"unguiculatus","Sorex","Long-clawed Shrew",LC,S,-16731116
-39,-268435419,"isodon","Sorex","Even-toothed Shrew",LC,U,-16731116
-40,-268435426,"raddei","Sorex","Radde's Shrew",LC,U,-16731116
-41,-268435451,"mirabilis","Sorex","Ussuri Shrew",DD,U,-11513776
-47,-268435410,"volnuchini","Sorex","Caucasian Pygmy Shrew",LC,U,-16731116
-48,-268435410,"buchariensis","Sorex","Pamir Shrew",LC,U,-16731116
-49,-268435411,"minutus","Sorex","Eurasian Pygmy Shrew",LC,S,-16731116
-50,-268435412,"gracillimus","Sorex","Slender Shrew",LC,S,-16731116
-51,-268435413,"hosonoi","Sorex","Azumi Shrew",LC,U,-16731116
-52,-268435414,"minutissimus","Sorex","Eurasian Least Shrew",LC,U,-16731116
-53,-268435453,"alpinus","Sorex","Alpine Shrew",NT,D,-12486656
-63,-268435394,"neomexicanus","Sorex","New Mexico Shrew",DD,U,-11513776
-64,-268435394,"monticolus","Sorex","Dusky Shrew",LC,S,-16731116
-66,-268435391,"pacificus","Sorex","Pacific Shrew",LC,S,-16731116
-67,-268435391,"vagrans","Sorex","Vagrant Shrew",LC,S,-16731116
-70,-268435387,"palustris","Sorex","American Water Shrew",LC,S,-16731116
-71,-268435387,"bendirii","Sorex","Marsh Shrew",LC,U,-16731116
-72,-268435388,"leucogaster","Sorex","Paramushir Shrew",DD,U,-11513776
-73,-268435397,"haydeni","Sorex","Prairie Shrew",LC,S,-16731116
-75,-268435382,"hoyi","Sorex","American Pygmy Shrew",LC,S,-16731116
-76,-268435382,"nanus","Sorex","Dwarf Shrew",LC,U,-16731116
-79,-268435378,"jacksoni","Sorex","Saint Lawrence Island Shrew",LC,U,-16731116
-80,-268435378,"dispar","Sorex","Long-tailed Shrew",LC,U,-16731116
-82,-268435375,"bairdi","Sorex","Baird's Shrew",LC,U,-16731116
-83,-268435375,"tenellus","Sorex","Inyo Shrew",LC,S,-16731116
-85,-268435372,"ugyunak","Sorex","Barren Ground Shrew",LC,S,-16731116
-86,-268435372,"preblei","Sorex","Preble's Shrew",LC,U,-16731116
-90,-268435367,"longirostris","Sorex","Southeastern Shrew",LC,S,-16731116
-91,-268435367,"cinereus","Sorex","Cinereus Shrew",LC,S,-16731116
-92,-268435368,"portenkoi","Sorex","Portenko's Shrew",DD,U,-11513776
-93,-268435369,"ornatus","Sorex","Ornate Shrew",LC,S,-16731116
-94,-268435402,"fumeus","Sorex","Smoky Shrew",LC,S,-16731116
-97,-268435360,"trowbridgii","Sorex","Trowbridge's Shrew",LC,S,-16731116
-98,-268435360,"merriami","Sorex","Merriam's Shrew",LC,U,-16731116
-99,-268435361,"arizonae","Sorex","Arizona Shrew",LC,U,-16731116
-102,-268435355,"quadraticauda","Blarinella","Asiatic Short-tailed Shrew",NT,D,-12486656
-103,-268435355,"griselda","Blarinella","Indochinese Short-tailed Shrew",LC,U,-16731116
-104,-268435356,"wardi","Blarinella","Burmese Short-tailed Shrew",LC,U,-16731116
+15,14,"antinorii","Sorex","Valais Shrew",DD,U,-11513776
+16,14,"araneus","Sorex","Common Shrew",LC,S,-16731116
+17,13,"granarius","Sorex","Iberian Shrew",LC,U,-16731116
+18,12,"coronatus","Sorex","Crowned Shrew",LC,S,-16731116
+20,19,"daphaenodon","Sorex","Large-toothed Siberian Shrew",LC,S,-16731116
+21,19,"satunini","Sorex","Caucasian Shrew",LC,U,-16731116
+23,22,"tundrensis","Sorex","Tundra Shrew",LC,S,-16731116
+24,22,"asper","Sorex","Tien Shan Shrew",LC,U,-16731116
+26,25,"maritimensis","Sorex","Maritime Shrew",LC,D,-16731116
+27,25,"arcticus","Sorex","Arctic Shrew",LC,S,-16731116
+28,8,"samniticus","Sorex","Appenine Shrew",LC,U,-16731116
+29,7,"excelsus","Sorex","Highland Shrew",LC,U,-16731116
+34,33,"caecutiens","Sorex","Laxmann's Shrew",LC,S,-16731116
+35,33,"shinto","Sorex","Shinto Shrew",LC,S,-16731116
+36,32,"roboratus","Sorex","Flat-skulled Shrew",LC,U,-16731116
+38,37,"unguiculatus","Sorex","Long-clawed Shrew",LC,S,-16731116
+39,37,"isodon","Sorex","Even-toothed Shrew",LC,U,-16731116
+40,30,"raddei","Sorex","Radde's Shrew",LC,U,-16731116
+41,5,"mirabilis","Sorex","Ussuri Shrew",DD,U,-11513776
+47,46,"volnuchini","Sorex","Caucasian Pygmy Shrew",LC,U,-16731116
+48,46,"buchariensis","Sorex","Pamir Shrew",LC,U,-16731116
+49,45,"minutus","Sorex","Eurasian Pygmy Shrew",LC,S,-16731116
+50,44,"gracillimus","Sorex","Slender Shrew",LC,S,-16731116
+51,43,"hosonoi","Sorex","Azumi Shrew",LC,U,-16731116
+52,42,"minutissimus","Sorex","Eurasian Least Shrew",LC,U,-16731116
+53,3,"alpinus","Sorex","Alpine Shrew",NT,D,-12486656
+63,62,"neomexicanus","Sorex","New Mexico Shrew",DD,U,-11513776
+64,62,"monticolus","Sorex","Dusky Shrew",LC,S,-16731116
+66,65,"pacificus","Sorex","Pacific Shrew",LC,S,-16731116
+67,65,"vagrans","Sorex","Vagrant Shrew",LC,S,-16731116
+70,69,"palustris","Sorex","American Water Shrew",LC,S,-16731116
+71,69,"bendirii","Sorex","Marsh Shrew",LC,U,-16731116
+72,68,"leucogaster","Sorex","Paramushir Shrew",DD,U,-11513776
+73,59,"haydeni","Sorex","Prairie Shrew",LC,S,-16731116
+75,74,"hoyi","Sorex","American Pygmy Shrew",LC,S,-16731116
+76,74,"nanus","Sorex","Dwarf Shrew",LC,U,-16731116
+79,78,"jacksoni","Sorex","Saint Lawrence Island Shrew",LC,U,-16731116
+80,78,"dispar","Sorex","Long-tailed Shrew",LC,U,-16731116
+82,81,"bairdi","Sorex","Baird's Shrew",LC,U,-16731116
+83,81,"tenellus","Sorex","Inyo Shrew",LC,S,-16731116
+85,84,"ugyunak","Sorex","Barren Ground Shrew",LC,S,-16731116
+86,84,"preblei","Sorex","Preble's Shrew",LC,U,-16731116
+90,89,"longirostris","Sorex","Southeastern Shrew",LC,S,-16731116
+91,89,"cinereus","Sorex","Cinereus Shrew",LC,S,-16731116
+92,88,"portenkoi","Sorex","Portenko's Shrew",DD,U,-11513776
+93,87,"ornatus","Sorex","Ornate Shrew",LC,S,-16731116
+94,54,"fumeus","Sorex","Smoky Shrew",LC,S,-16731116
+97,96,"trowbridgii","Sorex","Trowbridge's Shrew",LC,S,-16731116
+98,96,"merriami","Sorex","Merriam's Shrew",LC,U,-16731116
+99,95,"arizonae","Sorex","Arizona Shrew",LC,U,-16731116
+102,101,"quadraticauda","Blarinella","Asiatic Short-tailed Shrew",NT,D,-12486656
+103,101,"griselda","Blarinella","Indochinese Short-tailed Shrew",LC,U,-16731116
+104,100,"wardi","Blarinella","Burmese Short-tailed Shrew",LC,U,-16731116

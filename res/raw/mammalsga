@@ -1,83 +1,83 @@
 name,fileindex,index,whichChild
 "Gairdner's Shrewmouse",11,175,1
-"garamantis",16,35,2
+"Gerbillus garamantis",16,35,2
 "Gambian Rat",8,168,1
-"gambianus",8,168,1
-"galapagoensis",27,55,1
+"Cricetomys gambianus",8,168,1
+"Oryzomys galapagoensis",27,55,1
 "Fernandina Galapagos Mouse",26,74,1
 "Santiago Galapagos Mouse",26,75,2
 "Indefatigable Galapagos Mouse",26,76,2
-"garleppi",28,50,1
-"Galenomys",28,50,1
-"gapperi",7,41,1
+"Galenomys garleppi",28,50,1
+"Galenomys garleppi",28,50,1
+"Myodes gapperi",7,41,1
 "Gansu Hamster",4,136,2
 "Gaumer's Spiny Pocket Mouse",20,25,2
-"gaumeri",20,25,2
+"Heteromys gaumeri",20,25,2
 "Garrido's Hutia",29,105,2
-"garridoi",29,105,2
-"Galea",29,170,1
-"Galea",29,171,2
-"Galea",29,172,2
+"Mysateles garridoi",29,105,2
+"Galea spixii",29,170,1
+"Galea flavidens",29,171,2
+"Galea musteloides",29,172,2
 "Gambian Sun Squirrel",81,53,2
-"gambianus",81,53,2
+"Heliosciurus gambianus",81,53,2
 "Asian Garden Dormouse",77,182,1
 "Garden Dormouse",77,184,2
 "Gaoligong Pika",76,159,1
-"gaoligongensis",76,159,1
+"Ochotona gaoligongensis",76,159,1
 "Gansu Pika",76,165,2
-"galeritus",35,78,2
-"gabriellae",37,27,2
+"Cercocebus galeritus",35,78,2
+"Nomascus gabriellae",37,27,2
 "Thick-tailed Greater Galago",39,9,1
 "Small-eared Greater Galago",39,11,2
-"garnettii",39,11,2
+"Otolemur garnettii",39,11,2
 "Somali Lesser Galago",39,12,2
-"gallarum",39,12,2
-"Galago",39,12,2
+"Galago gallarum",39,12,2
+"Galago gallarum",39,12,2
 "Southern Needle-clawed Galago",39,14,1
 "Northern Needle-clawed Galago",39,15,2
 "Southern Lesser Galago",39,19,1
-"Galago",39,19,1
-"Galago",39,20,2
+"Galago moholi",39,19,1
+"Galago nyasae",39,20,2
 "Northern Lesser Galago",39,21,2
-"Galago",39,21,2
+"Galago senegalensis",39,21,2
 "Spectacled Lesser Galago",39,22,2
-"Galago",39,22,2
-"Galago",39,25,1
-"Galago",39,26,2
-"gabonensis",39,27,2
-"Galago",39,27,2
-"Galago",39,30,1
-"Galago",39,31,2
-"Galago",39,32,2
-"Galago",39,34,1
-"Galago",39,35,2
-"Galeopterus",35,148,2
+"Galago matschiei",39,22,2
+"Galago cameronensis",39,25,1
+"Galago alleni",39,26,2
+"Galago gabonensis",39,27,2
+"Galago gabonensis",39,27,2
+"Galago demidoff",39,30,1
+"Galago orinus",39,31,2
+"Galago thomasi",39,32,2
+"Galago zanzibaricus",39,34,1
+"Galago granti",39,35,2
+"Galeopterus variegates",35,148,2
 "Mount Gargues Pipistrelle",54,44,1
 "Gaskell's False Serotine",54,76,1
-"gaskelli",54,76,1
-"gallagheri",62,78,2
-"galeritus",58,39,1
+"Hesperoptenus gaskelli",54,76,1
+"Chaerephon gallagheri",62,78,2
+"Hipposideros galeritus",58,39,1
 "Gambian Slit-faced Bat",58,148,1
-"gambiensis",58,148,1
+"Nycteris gambiensis",58,148,1
 "Gambian Epauletted Fruit Bat",70,14,2
-"gambianus",70,14,2
-"gazella",64,95,2
+"Epomophorus gambianus",70,14,2
+"Oryx gazella",64,95,2
 "Cuvier's Gazelle",66,10,1
-"Gazella",66,10,1
-"Gazella",66,11,2
+"Gazella cuvieri",66,10,1
+"Gazella leptoceros",66,11,2
 "Goitered Gazelle",66,12,2
-"Gazella",66,12,2
+"Gazella subgutturosa",66,12,2
 "Saudi Gazelle",66,14,1
-"Gazella",66,14,1
-"Gazella",66,15,2
+"Gazella saudiya",66,14,1
+"Gazella bennettii",66,15,2
 "Mountain Gazelle",66,19,1
-"gazella",66,19,1
-"Gazella",66,19,1
-"Gazella",66,20,2
+"Gazella gazella",66,19,1
+"Gazella gazella",66,19,1
+"Gazella erlangeri",66,20,2
 "Dorcas Gazelle",66,21,2
-"Gazella",66,21,2
+"Gazella dorcas",66,21,2
 "Speke's Gazelle",66,22,2
-"Gazella",66,22,2
+"Gazella spekei",66,22,2
 "Soemmerring's Gazelle",66,26,1
 "Dama Gazelle",66,27,2
 "Grant's Gazelle",66,28,2
@@ -87,24 +87,24 @@ name,fileindex,index,whichChild
 "Przewalski's Gazelle",63,14,1
 "Mongolian Gazelle",63,15,2
 "Gaur",63,75,2
-"gangetica",75,134,1
-"Galictis",49,64,1
-"Galictis",49,65,2
-"gabbii",47,29,2
+"Platanista gangetica",75,134,1
+"Galictis vittata",49,64,1
+"Galictis cuja",49,65,2
+"Bassaricyon gabbii",47,29,2
 "Galapagos Fur Seal",47,47,1
-"galapagoensis",47,47,1
-"gazella",47,50,2
+"Arctocephalus galapagoensis",47,47,1
+"Arctocephalus gazella",47,50,2
 "Galapagos Sea Lion",47,65,2
 "Gambian Mongoose",50,20,1
-"gambianus",50,20,1
-"Galerella",50,55,1
-"Galerella",50,56,2
-"Galerella",50,58,1
-"Galerella",50,59,2
-"Galidictis",47,197,1
-"Galidictis",47,198,2
-"Galidia",47,199,2
+"Mungos gambianus",50,20,1
+"Galerella pulverulenta",50,55,1
+"Galerella flavescens",50,56,2
+"Galerella sanguinea",50,58,1
+"Galerella ochracea",50,59,2
+"Galidictis grandidieri",47,197,1
+"Galidictis fasciata",47,198,2
+"Galidia elegans",47,199,2
 "Gabon Dwarf Shrew",87,31,2
 "Gansu Mole",85,151,2
-"Galemys",85,159,1
-"gaimardi",43,125,1
+"Galemys pyrenaicus",85,159,1
+"Bettongia gaimardi",43,125,1

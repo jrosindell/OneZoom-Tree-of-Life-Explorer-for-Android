@@ -1,51 +1,51 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,-268435447,"mindorensis","Rattus","Mindoro Mountain Rat",DD,D,-11513776
-11,-268435447,"lugens","Rattus","Mentawai Archipelago Rat",EN,D,-8572416
-12,-268435448,"hoffmanni","Rattus","Hoffmann's Sulawesi Rat",LC,S,-16731116
-14,-268435443,"mollicomulus","Rattus","Lampobatang Sulawesi Rat",VU,S,-11184866
-15,-268435443,"palmarum","Rattus","Zelebor's Nicobar Rat",VU,U,-11184866
-16,-268435450,"adustus","Rattus","Burnished Enggano Rat",DD,D,-11513776
-20,-268435437,"osgoodi","Rattus","Osgood's Vietnamese Rat",LC,S,-16731116
-21,-268435437,"burrus","Rattus","Miller's Nicobar Rat",EN,D,-8572416
-23,-268435434,"tiomanicus","Rattus","Malaysian Field Rat",LC,I,-16731116
-24,-268435434,"blangorum","Rattus","Aceh Rat",DD,U,-11513776
-26,-268435431,"simalurensis","Rattus","Simalur Archipelago Rat",EN,D,-8572416
-27,-268435431,"argentiventer","Rattus","Ricefield Rat",LC,S,-16731116
-31,-268435426,"koopmani","Rattus","Koopman's Peleng Island Rat",DD,U,-11513776
-32,-268435426,"tawitawiensis","Rattus","Tawitawi Forest Rat",DD,U,-11513776
-33,-268435427,"andamanensis","Rattus","Indochinese Forest Rat",LC,S,-16731116
-34,-268435428,"nitidus","Rattus","Himalayan Field Rat",LC,S,-16731116
-37,-268435420,"everetti","Rattus","Philippine Forest Rat",LC,S,-16731116
-38,-268435420,"pyctoris","Rattus","Himalayan Rat",LC,U,-16731116
-39,-268435421,"baluensis","Rattus","Kinabalu Rat",LC,S,-16731116
-43,-268435414,"rattus","Rattus","Black Rat",LC,S,-16731116
-44,-268435414,"satarae","Rattus","",VU,D,-11184866
-45,-268435415,"tanezumi","Rattus","Oriental House Rat",LC,I,-16731116
-46,-268435416,"losea","Rattus","Losea Rat",LC,I,-16731116
-48,-268435409,"norvegicus","Rattus","Brown Rat",LC,S,-16731116
-49,-268435409,"stoicus","Rattus","Andaman Rat",VU,S,-11184866
-57,-268435400,"hainaldi","Rattus","Hainald's Flores Island Rat",EN,D,-8572416
-58,-268435400,"tunneyi","Rattus","Pale Field Rat",LC,U,-16731116
-60,-268435397,"lutreolus","Rattus","Australian Swamp Rat",LC,D,-16731116
-61,-268435397,"sordidus","Rattus","Canefield Rat",LC,S,-16731116
-62,-268435402,"villosissimus","Rattus","Long-haired Rat",LC,U,-16731116
-65,-268435392,"timorensis","Rattus","Timor Forest Rat",DD,U,-11513776
-66,-268435392,"colletti","Rattus","Dusky Rat",LC,U,-16731116
-67,-268435393,"fuscipes","Rattus","Bush Rat",LC,S,-16731116
-68,-268435404,"montanus","Rattus","Sri Lankan Mountain Rat",EN,U,-8572416
-72,-268435385,"xanthurus","Rattus","Northeastern Xanthurus Rat",VU,D,-11184866
-73,-268435385,"salocco","Rattus","Southeastern Xanthurus Rat",DD,U,-11513776
-74,-268435386,"pelurus","Rattus","Peleng Island Xanthurus Rat",DD,U,-11513776
-76,-268435381,"bontanus","Rattus","Southwestern Xanthurus Rat",DD,U,-11513776
-77,-268435381,"marmosurus","Rattus","Marmoset Xanthurus Rat",LC,D,-16731116
-85,-268435372,"novaeguineae","Rattus","New Guinea Rat",LC,U,-16731116
-86,-268435372,"mordax","Rattus","Eastern Rat",LC,S,-16731116
-87,-268435373,"elaphinus","Rattus","Sula Archipelago Rat",NT,D,-12486656
-88,-268435374,"sanila","Rattus","",NE,U,-16777216
-91,-268435366,"feliceus","Rattus","Spiny Seram Island Rat",NT,D,-12486656
-92,-268435366,"jobiensis","Rattus","Yapen Rat",NT,U,-12486656
-93,-268435367,"giluwensis","Rattus","Giluwe Rat",DD,U,-11513776
-94,-268435376,"praetor","Rattus","Large Spiny Rat",LC,S,-16731116
-96,-268435361,"morotaiensis","Rattus","Halmahara Rat",LC,U,-16731116
-97,-268435361,"steini","Rattus","Small Spiny Rat",LC,S,-16731116
-98,-268435378,"leucopus","Rattus","Cape York Rat",LC,S,-16731116
+10,9,"mindorensis","Rattus","Mindoro Mountain Rat",DD,D,-11513776
+11,9,"lugens","Rattus","Mentawai Archipelago Rat",EN,D,-8572416
+12,8,"hoffmanni","Rattus","Hoffmann's Sulawesi Rat",LC,S,-16731116
+14,13,"mollicomulus","Rattus","Lampobatang Sulawesi Rat",VU,S,-11184866
+15,13,"palmarum","Rattus","Zelebor's Nicobar Rat",VU,U,-11184866
+16,6,"adustus","Rattus","Burnished Enggano Rat",DD,D,-11513776
+20,19,"osgoodi","Rattus","Osgood's Vietnamese Rat",LC,S,-16731116
+21,19,"burrus","Rattus","Miller's Nicobar Rat",EN,D,-8572416
+23,22,"tiomanicus","Rattus","Malaysian Field Rat",LC,I,-16731116
+24,22,"blangorum","Rattus","Aceh Rat",DD,U,-11513776
+26,25,"simalurensis","Rattus","Simalur Archipelago Rat",EN,D,-8572416
+27,25,"argentiventer","Rattus","Ricefield Rat",LC,S,-16731116
+31,30,"koopmani","Rattus","Koopman's Peleng Island Rat",DD,U,-11513776
+32,30,"tawitawiensis","Rattus","Tawitawi Forest Rat",DD,U,-11513776
+33,29,"andamanensis","Rattus","Indochinese Forest Rat",LC,S,-16731116
+34,28,"nitidus","Rattus","Himalayan Field Rat",LC,S,-16731116
+37,36,"everetti","Rattus","Philippine Forest Rat",LC,S,-16731116
+38,36,"pyctoris","Rattus","Himalayan Rat",LC,U,-16731116
+39,35,"baluensis","Rattus","Kinabalu Rat",LC,S,-16731116
+43,42,"rattus","Rattus","Black Rat",LC,S,-16731116
+44,42,"satarae","Rattus","",VU,D,-11184866
+45,41,"tanezumi","Rattus","Oriental House Rat",LC,I,-16731116
+46,40,"losea","Rattus","Losea Rat",LC,I,-16731116
+48,47,"norvegicus","Rattus","Brown Rat",LC,S,-16731116
+49,47,"stoicus","Rattus","Andaman Rat",VU,S,-11184866
+57,56,"hainaldi","Rattus","Hainald's Flores Island Rat",EN,D,-8572416
+58,56,"tunneyi","Rattus","Pale Field Rat",LC,U,-16731116
+60,59,"lutreolus","Rattus","Australian Swamp Rat",LC,D,-16731116
+61,59,"sordidus","Rattus","Canefield Rat",LC,S,-16731116
+62,54,"villosissimus","Rattus","Long-haired Rat",LC,U,-16731116
+65,64,"timorensis","Rattus","Timor Forest Rat",DD,U,-11513776
+66,64,"colletti","Rattus","Dusky Rat",LC,U,-16731116
+67,63,"fuscipes","Rattus","Bush Rat",LC,S,-16731116
+68,52,"montanus","Rattus","Sri Lankan Mountain Rat",EN,U,-8572416
+72,71,"xanthurus","Rattus","Northeastern Xanthurus Rat",VU,D,-11184866
+73,71,"salocco","Rattus","Southeastern Xanthurus Rat",DD,U,-11513776
+74,70,"pelurus","Rattus","Peleng Island Xanthurus Rat",DD,U,-11513776
+76,75,"bontanus","Rattus","Southwestern Xanthurus Rat",DD,U,-11513776
+77,75,"marmosurus","Rattus","Marmoset Xanthurus Rat",LC,D,-16731116
+85,84,"novaeguineae","Rattus","New Guinea Rat",LC,U,-16731116
+86,84,"mordax","Rattus","Eastern Rat",LC,S,-16731116
+87,83,"elaphinus","Rattus","Sula Archipelago Rat",NT,D,-12486656
+88,82,"sanila","Rattus","",NE,U,-16777216
+91,90,"feliceus","Rattus","Spiny Seram Island Rat",NT,D,-12486656
+92,90,"jobiensis","Rattus","Yapen Rat",NT,U,-12486656
+93,89,"giluwensis","Rattus","Giluwe Rat",DD,U,-11513776
+94,80,"praetor","Rattus","Large Spiny Rat",LC,S,-16731116
+96,95,"morotaiensis","Rattus","Halmahara Rat",LC,U,-16731116
+97,95,"steini","Rattus","Small Spiny Rat",LC,S,-16731116
+98,78,"leucopus","Rattus","Cape York Rat",LC,S,-16731116

@@ -1,15 +1,15 @@
 name,fileindex,index,whichChild
-"forresti",13,148,2
+"Leggadina forresti",13,148,2
 "Forest Soft-furred Mouse",8,17,2
 "Forbes's Tree Mouse",15,66,2
-"forbesi",15,66,2
+"Chiruromys forbesi",15,66,2
 "Ethiopian Forest Brush-furred Rat",11,56,2
 "Tawitawi Forest Rat",10,32,2
 "Indochinese Forest Rat",10,33,2
 "Philippine Forest Rat",10,37,1
 "Timor Forest Rat",10,65,1
 "Fox's Shaggy Rat",9,35,2
-"foxi",9,35,2
+"Dasymys foxi",9,35,2
 "Mindoro Forest Anonymomys",19,79,2
 "Four-striped Grass Mouse",19,113,1
 "Liberian Forest Hybomys",17,13,1
@@ -22,40 +22,40 @@ name,fileindex,index,whichChild
 "Cloud Forest Grass Mouse",23,55,2
 "Forest Oldfield Mouse",24,17,2
 "Forest Small Rice Rat",23,202,2
-"fossor",27,81,2
+"Euneomys fossor",27,81,2
 "Foothill Arboreal Rice Rat",27,108,2
 "Fornes' Colilargo",21,40,2
-"fornesi",21,40,2
+"Oligoryzomys fornesi",21,40,2
 "Colombian Forest Mouse",21,50,2
 "Fossorial Giant Rat",26,63,2
 "Striped Atlantic Forest Rat",28,46,1
 "Pallid Atlantic Forest Rat",28,48,2
-"fortis",5,50,2
+"Microtus fortis",5,50,2
 "Forrest's Mountain Vole",5,54,1
-"forresti",5,54,1
-"fontanierii",4,54,1
+"Neodon forresti",5,54,1
+"Eospalax fontanierii",4,54,1
 "Lowland Red Forest Rat",4,92,1
 "Lowland Red Forest Rat",4,93,2
 "Eastern Red Forest Rat",4,94,2
 "Groove-toothed Forest Mouse",4,211,2
 "Four-toed Jerboa",2,70,1
-"formosus",31,34,2
+"Chaetodipus formosus",31,34,2
 "Bishop's Fossorial Spiny Rat",29,90,1
-"foxi",29,145,2
-"fodax",32,30,2
-"fochi",32,36,1
+"Cryptomys foxi",29,145,2
+"Ctenomys fodax",32,30,2
+"Ctenomys fochi",32,36,1
 "Forest Tuco-tuco",32,72,1
 "Bryant's Fox Squirrel",82,44,2
 "Mexican Fox Squirrel",82,54,2
 "Four-striped Ground Squirrel",77,98,1
 "Hidden Forest Chipmunk",83,15,1
 "Forrest's Rock Squirrel",77,126,2
-"forresti",77,126,2
+"Sciurotamias forresti",77,126,2
 "Forest Dormouse",77,179,2
 "Forrest's Pika",76,160,2
-"forresti",76,160,2
+"Ochotona forresti",76,160,2
 "Formosan Rock Macaque",35,44,1
-"foai",40,93,2
+"Piliocolobus foai",40,93,2
 "Montagne D' Ambre Fork-marked Lemur",35,141,1
 "Pale Fork-marked Lemur",35,142,2
 "Sambirano Fork-marked Lemur",35,144,1
@@ -66,13 +66,13 @@ name,fileindex,index,whichChild
 "Little Forest Bat",55,48,2
 "Inland Forest Bat",55,49,2
 "Forest Pipistrelle",54,11,2
-"fortidens",74,81,2
-"formosus",73,87,2
-"formosus",62,55,2
+"Myotis fortidens",74,81,2
+"Myotis formosus",73,87,2
+"Otomops formosus",62,55,2
 "Philippine Forest Leaf-nosed Bat",58,76,1
 "Forest Horseshoe Bat",59,64,2
 "Formosan Woolly Horseshoe Bat",60,36,1
-"formosae",60,36,1
+"Rhinolophus formosae",60,36,1
 "Philippine Forest Horseshoe Bat",60,41,1
 "Kei Flying Fox",57,13,1
 "Aru Flying Fox",57,14,2
@@ -135,8 +135,8 @@ name,fileindex,index,whichChild
 "Four-horned Antelope",63,60,1
 "Forest Musk Deer",63,185,1
 "Forest Hog",72,22,2
-"foina",49,56,2
-"forsteri",47,48,2
+"Martes foina",49,56,2
+"Arctocephalus forsteri",47,48,2
 "Crab-eating Fox",47,153,1
 "Tibetan Fox",47,164,1
 "Corsac Fox",47,165,2
@@ -152,13 +152,13 @@ name,fileindex,index,whichChild
 "Grey Fox",47,183,1
 "Island Fox",47,184,2
 "Bat-eared Fox",47,185,2
-"fossana",51,73,2
-"Fossa",51,73,2
+"Fossa fossana",51,73,2
+"Fossa fossana",51,73,2
 "Fossa",51,74,2
-"foetida",90,32,2
+"Crocidura foetida",90,32,2
 "Large-headed Forest Shrew",88,111,2
 "Fox's Shrew",93,42,2
-"foxi",93,42,2
+"Crocidura foxi",93,42,2
 "Johnston's Forest Shrew",87,44,1
 "Forest Musk Shrew",87,48,2
 "Howell's Forest Shrew",87,51,1
@@ -169,12 +169,12 @@ name,fileindex,index,whichChild
 "Long-tailed Forest Shrew",85,23,1
 "Dark-footed Forest Shrew",85,34,1
 "Forest Shrew",85,36,2
-"fodiens",91,43,2
+"Neomys fodiens",91,43,2
 "Four-toed Hedgehog",85,61,1
 "Four-toed Mole Tenrec",34,31,1
 "Four-toed Sengi",0,92,2
-"forbesi",43,144,1
-"formosus",1,38,2
+"Pseudochirulus forbesi",43,144,1
+"Gracilinanus formosus",1,38,2
 "Mcilhenny's Four-eyed Opossum",1,83,1
 "Anderson's Four-eyed Opossum",1,84,2
 "Southeastern Four-eyed Opossum",1,86,1

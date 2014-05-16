@@ -2,14 +2,14 @@ name,fileindex,index,whichChild
 "Bramble Cay Melomys",13,28,1
 "Brush-tailed Rabbit Rat",13,79,2
 "Broad-toothed Mouse",13,136,2
-"bruijni",15,32,2
+"Pogonomelomys bruijni",15,32,2
 "Broad-headed Tree Mouse",15,65,1
 "Rudd's Bristle-furred Rat",11,44,2
-"brunneus",11,53,1
+"Lophuromys brunneus",11,53,1
 "Yellow-spotted Brush-furred Rat",11,55,2
 "Ethiopian Forest Brush-furred Rat",11,56,2
 "Short-tailed Brush-furred Rat",11,57,2
-"brevicaudus",11,57,2
+"Lophuromys brevicaudus",11,57,2
 "Black-clawed Brush-furred Rat",11,58,2
 "Fire-bellied Brush-furred Rat",11,59,2
 "Rusty-bellied Brush-furred Rat",11,63,1
@@ -18,7 +18,7 @@ name,fileindex,index,whichChild
 "Rahm's Brush-furred Rat",11,72,2
 "Woosnam's Brush-furred Rat",11,73,2
 "Brahma White-bellied Rat",11,88,2
-"brahma",11,88,2
+"Niviventer brahma",11,88,2
 "Brown Spiny Mouse",11,166,2
 "Brown Spiny Mouse",11,170,2
 "Brown Rat",10,48,1
@@ -30,101 +30,101 @@ name,fileindex,index,whichChild
 "Hildegarde's Broad-headed Mouse",8,65,1
 "Woosnam's Broad-headed Mouse",8,66,2
 "Brants's Whistling Rat",14,45,2
-"brantsii",14,45,2
+"Parotomys brantsii",14,45,2
 "Brockman's Myomyscus",18,13,1
-"brockmani",18,13,1
+"Myomyscus brockmani",18,13,1
 "Brockman's Gerbil",16,41,1
-"brockmani",16,41,1
+"Gerbillus brockmani",16,41,1
 "Namib Brush-tailed Gerbil",8,157,2
-"Brachiones",12,41,1
-"brantsii",12,60,2
-"braueri",12,88,2
+"Brachiones przewalskii",12,41,1
+"Gerbilliscus brantsii",12,60,2
+"Desmodilliscus braueri",12,88,2
 "Brukkaros Pygmy Rock Mouse",8,182,1
-"brooksi",8,184,2
+"Delanymys brooksi",8,184,2
 "Goodwin's Brush-tailed Mouse",2,33,1
 "Baluchi Brush-tailed Mouse",2,35,2
 "Hotson's Brush-tailed Mouse",2,42,1
-"Brucepattersonius",23,176,2
+"Brucepattersonius iheringi",23,176,2
 "Narrow-footed Bristly Mouse",23,180,1
 "Guiana Bristly Mouse",23,181,2
 "Painted Bristly Mouse",23,183,1
 "Bristly Mouse",23,184,2
 "Brazilian Shrew Mouse",23,185,2
-"breviceps",23,185,2
+"Blarinomys breviceps",23,185,2
 "Brazilian Arboreal Rice Rat",27,94,1
-"brevicauda",27,113,1
+"Zygodontomys brevicauda",27,113,1
 "Brown Cane Mouse",27,114,2
-"brunneus",27,114,2
-"brasiliensis",27,123,2
+"Zygodontomys brunneus",27,114,2
+"Holochilus brasiliensis",27,123,2
 "Brazilian False Rice Rat",27,124,2
 "Brazilian Pygmy Rice Rat",21,32,2
 "Brazilian Arboreal Mouse",26,50,2
 "Broad-footed Climbing Mouse",28,30,1
 "Broad-faced Deer Mouse",25,87,2
 "Brush Mouse",25,96,2
-"brevirostris",21,168,1
+"Reithrodontomys brevirostris",21,168,1
 "Chiriqui Brown Mouse",21,205,1
 "Alston's Brown Mouse",21,206,2
 "Bryant's Woodrat",22,34,2
-"bryanti",22,34,2
-"brachycercus",5,27,1
-"breweri",5,101,2
+"Neotoma bryanti",22,34,2
+"Microtus brachycercus",5,27,1
+"Microtus breweri",5,101,2
 "Brandt's Vole",6,28,2
-"brandtii",6,28,2
+"Lasiopodomys brandtii",6,28,2
 "Brown Lemming",6,40,1
 "Brown Lemming",6,42,2
-"Brachytarsomys",4,83,1
-"Brachytarsomys",4,84,2
-"Brachyuromys",4,96,1
-"Brachyuromys",4,97,2
+"Brachytarsomys albicauda",4,83,1
+"Brachytarsomys villosa",4,84,2
+"Brachyuromys betsileoensis",4,96,1
+"Brachyuromys ramirohitra",4,97,2
 "Brandt's Hamster",4,128,1
-"brandti",4,128,1
+"Mesocricetus brandti",4,128,1
 "Brant's Climbing Mouse",4,176,2
-"breviceps",2,104,2
-"brasiliensis",30,29,1
+"Geomys breviceps",2,104,2
+"Phyllomys brasiliensis",30,29,1
 "Brazilian Spiny Tree Rat",30,39,1
 "Yellow-crowned Brush-tailed Rat",30,43,1
 "Plain Brush-tailed Rat",30,45,2
 "Bristle-spined Rat",29,26,2
-"brevicauda",29,85,2
+"Proechimys brevicauda",29,85,2
 "Broad-headed Spiny Rat",29,91,2
 "Brown's Hutia",29,112,2
-"brownii",29,112,2
+"Geocapromys brownii",29,112,2
 "Brazilian Guinea Pig",29,166,2
-"brachyura",29,188,2
+"Hystrix brachyura",29,188,2
 "Asiatic Brush-tailed Porcupine",29,195,1
 "African Brush-tailed Porcupine",29,196,2
-"branickii",29,198,2
+"Dinomys branickii",29,198,2
 "Brown Hairy Dwarf Porcupine",33,44,1
 "Brazilian Porcupine",33,53,1
 "Brazilian Tuco-tuco",32,31,2
-"brasiliensis",32,31,2
+"Ctenomys brasiliensis",32,31,2
 "Bridges's Degu",2,173,2
-"bridgesi",2,173,2
+"Octodon bridgesi",2,173,2
 "Large Brown Flying Squirrel",77,24,1
 "Bryant's Fox Squirrel",82,44,2
-"brochus",82,65,2
+"Syntheosciurus brochus",82,65,2
 "Brooke's Squirrel",78,15,2
-"brookei",78,15,2
+"Sundasciurus brookei",78,15,2
 "Brandt's Ground Squirrel",79,24,2
-"brevicauda",79,24,2
-"brunneus",79,53,2
-"broweri",79,101,1
-"brachyurus",76,25,2
+"Spermophilus brevicauda",79,24,2
+"Spermophilus brunneus",79,53,2
+"Marmota broweri",79,101,1
+"Lepus brachyurus",76,25,2
 "Broom Hare",76,33,2
-"brasiliensis",76,92,2
+"Sylvilagus brasiliensis",76,92,2
 "San Jose Brush Rabbit",76,102,1
 "Brush Rabbit",76,103,2
-"Brachylagus",76,106,2
+"Brachylagus idahoensis",76,106,2
 "De Brazza's Monkey",41,44,2
-"brelichi",40,74,1
+"Rhinopithecus brelichi",40,74,1
 "Brazilian Bare-faced Tamarin",38,60,2
 "Guianan/margarita Island Brown Capuchin",38,93,2
 "Olalla Brothers' Titi",42,22,1
 "Brown Titi Monkey",42,39,2
-"brunneus",42,39,2
-"Brachyteles",42,79,1
-"Brachyteles",42,80,2
+"Callicebus brunneus",42,39,2
+"Brachyteles hypoxanthus",42,79,1
+"Brachyteles arachnoides",42,80,2
 "Variegated Or Brown Spider Monkey",42,85,1
 "Brown-headed Spider Monkey",42,91,1
 "Brown Howler Monkey",42,101,2
@@ -148,24 +148,24 @@ name,fileindex,index,whichChild
 "Big-eared Brown Bat",54,71,2
 "Strange Big-eared Brown Bat",54,72,2
 "Bronze Sprite",56,56,1
-"brunneus",56,77,2
+"Neoromicia brunneus",56,77,2
 "Brandt's Myotis",74,35,2
-"brandtii",74,35,2
+"Myotis brandtii",74,35,2
 "Little Brown Bat",74,77,1
 "Guadeloupean Big Brown Bat",73,138,1
 "Brazilian Brown Bat",73,145,2
 "Brazilian Brown Bat",73,145,2
-"brasiliensis",73,145,2
+"Eptesicus brasiliensis",73,145,2
 "Big Brown Bat",73,151,2
 "Argentine Brown Bat",73,154,2
 "Gobi Big Brown Bat",73,158,1
-"brachypterus",73,164,2
+"Philetor brachypterus",73,164,2
 "Brown Mastiff Bat",62,26,2
-"bregullae",62,68,2
-"brachypterus",62,114,1
+"Chaerephon bregullae",62,68,2
+"Mops brachypterus",62,114,1
 "Broad-eared Bat",62,124,2
 "Brazilian Free-tailed Bat",62,145,2
-"brasiliensis",62,145,2
+"Tadarida brasiliensis",62,145,2
 "Brown Dog-faced Bat",62,157,2
 "Recife Broad-nosed Bat",68,8,1
 "Buffy Broad-nosed Bat",68,9,2
@@ -176,27 +176,27 @@ name,fileindex,index,whichChild
 "Choco Broad-nosed Bat",68,17,2
 "Eldorado Broad-nosed Bat",68,18,2
 "Short-headed Broad-nosed Bat",68,20,1
-"brachycephalus",68,20,1
+"Platyrrhinus brachycephalus",68,20,1
 "Brown Tent-making Bat",68,24,1
 "Brock's Yellow-eared Bat",68,38,2
-"brocki",68,38,2
+"Vampyressa brocki",68,38,2
 "Brazilian Big-eyed Bat",68,49,2
 "Brown Fruit-eating Bat",67,28,2
-"brevicauda",67,89,2
+"Carollia brevicauda",67,89,2
 "Broad-toothed Tailless Bat",69,20,1
 "Brown Flower Bat",67,123,1
-"Brachyphylla",67,126,1
-"Brachyphylla",67,127,2
-"brasiliense",67,162,2
-"brachyotis",67,190,2
-"breviceps",58,16,1
+"Brachyphylla cavernarum",67,126,1
+"Brachyphylla nana",67,127,2
+"Lophostoma brasiliense",67,162,2
+"Lampronycteris brachyotis",67,190,2
+"Hipposideros breviceps",58,16,1
 "Lesser Brown Horseshoe Bat",60,29,2
-"brevirostris",71,22,2
-"brachycephala",70,67,2
-"brachyotis",46,12,2
+"Cormura brevirostris",71,22,2
+"Myonycteris brachycephala",70,67,2
+"Cynopterus brachyotis",46,12,2
 "Brooks's Dyak Fruit Bat",46,31,1
-"brooksi",46,31,1
-"brookei",65,26,2
+"Dyacopterus brooksi",46,31,1
+"Cephalophus brookei",65,26,2
 "Central American Red Brocket",63,142,1
 "Red Brocket",63,143,2
 "Yucatan Brown Brocket",63,144,2
@@ -205,30 +205,30 @@ name,fileindex,index,whichChild
 "Brazilian Dwarf Brocket",63,149,1
 "Brazilian Dwarf Brocket",63,149,1
 "Merida Brocket",63,150,2
-"bricenii",63,150,2
+"Mazama bricenii",63,150,2
 "Dwarf Red Brocket",63,151,2
-"brevirostris",75,38,1
-"bredanensis",75,74,2
-"breviceps",75,138,1
+"Orcaella brevirostris",75,38,1
+"Steno bredanensis",75,74,2
+"Kogia breviceps",75,138,1
 "Bryde's Whale",75,152,1
-"brasiliensis",52,22,2
+"Pteronura brasiliensis",52,22,2
 "Brown Bear",47,115,2
-"brachyurus",47,150,2
-"brachyurus",50,44,1
+"Chrysocyon brachyurus",47,150,2
+"Herpestes brachyurus",50,44,1
 "Indian Brown Mongoose",50,45,2
 "Broad-striped Mongoose",47,198,2
 "Brown-tailed Mongoose",47,201,2
 "Brown Palm Civet",51,55,2
 "Brown Palm Civet",51,60,2
-"braccatus",48,38,1
+"Leopardus braccatus",48,38,1
 "Brown Hyaena",48,84,2
-"brunnea",48,84,2
-"brunnea",90,33,2
+"Hyaena brunnea",48,84,2
+"Crocidura brunnea",90,33,2
 "Goodwin's Broad-clawed Shrew",92,23,2
 "Oaxacan Broad-clawed Shrew",92,39,2
 "Goldman's Broad-clawed Shrew",92,47,2
 "Central Mexican Broad-clawed Shrew",92,48,2
-"brevicauda",92,57,2
+"Blarina brevicauda",92,57,2
 "Taiwan Brown-toothed Shrew",91,9,1
 "Long-tailed Brown-toothed Shrew",91,11,2
 "Hodgson's Brown-toothed Shrew",91,13,1
@@ -236,35 +236,35 @@ name,fileindex,index,whichChild
 "Pygmy Brown-toothed Shrew",91,21,1
 "Brandt's Hedgehog",85,71,2
 "Broad-footed Mole",85,148,2
-"breweri",85,150,2
+"Parascalops breweri",85,150,2
 "Brazilian Three-banded Armadillo",0,23,1
 "Brazilian Lesser Long-nosed Armadillo",0,41,2
-"Bradypus",0,53,1
-"Bradypus",0,54,2
-"Bradypus",0,55,2
-"brevicaudata",34,20,2
-"brachyrhynchus",0,80,2
-"brucei",0,106,2
+"Bradypus variegatus",0,53,1
+"Bradypus tridactylus",0,54,2
+"Bradypus torquatus",0,55,2
+"Microgale brevicaudata",34,20,2
+"Elephantulus brachyrhynchus",0,80,2
+"Heterohyrax brucei",0,106,2
 "Brush-tailed Rock Wallaby",43,17,1
-"brachyotis",43,35,2
-"browni",43,40,1
-"brunii",43,41,2
+"Petrogale brachyotis",43,35,2
+"Thylogale browni",43,40,1
+"Thylogale brunii",43,41,2
 "Western Brush Wallaby",43,58,2
 "Bridled Nailtail Wallaby",43,79,2
-"brachyurus",43,80,2
+"Setonix brachyurus",43,80,2
 "Brown Dorcopsis",43,111,2
-"breviceps",43,171,1
+"Petaurus breviceps",43,171,1
 "Common Brushtail Possum",44,35,1
 "Short-eared Brushtail Possum",44,38,2
 "Bronze Quoll",84,17,2
 "Brown Antechinus",84,56,1
 "Brush-tailed Phascogale",84,72,1
-"broadbenti",0,141,2
+"Peroryctes broadbenti",0,141,2
 "Southern Brown Bandicoot",0,151,1
 "Northern Brown Bandicoot",0,153,2
 "Brazilian Slender Opossum",1,12,1
 "Brazilian Gracile Mouse Opossum",1,39,2
 "Brown Four-eyed Opossum",1,90,2
-"brevicaudata",1,101,2
+"Monodelphis brevicaudata",1,101,2
 "Brown-eared Wooly Opossum",1,164,2
-"bruijni",0,172,2
+"Zaglossus bruijni",0,172,2

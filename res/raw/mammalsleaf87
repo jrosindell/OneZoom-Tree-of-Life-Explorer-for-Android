@@ -1,33 +1,33 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,-268435446,"lixus","Suncus","Greater Dwarf Shrew",LC,U,-16731116
-12,-268435446,"aequatorius","Suncus","",CR,D,-3014646
-13,-268435447,"malayanus","Suncus","Malayan Pgymy Shrew",DD,U,-11513776
-14,-268435448,"dayi","Suncus","Day's Shrew",EN,D,-8572416
-15,-268435449,"mertensi","Suncus","Flores Shrew",EN,D,-8572416
-17,-268435440,"infinitesimus","Suncus","Least Dwarf Shrew",LC,U,-16731116
-18,-268435440,"etruscus","Suncus","Etruscan Shrew",LC,U,-16731116
-21,-268435436,"hosei","Suncus","Bornean Pgymy Shrew",DD,U,-11513776
-22,-268435436,"ater","Suncus","Black Shrew",DD,U,-11513776
-23,-268435437,"fellowesgordoni","Suncus","Ceylon Pygmy Shrew",EN,D,-8572416
-29,-268435428,"varilla","Suncus","Lesser Dwarf Shrew",LC,U,-16731116
-30,-268435428,"montanus","Suncus","Hill Shrew",VU,D,-11184866
-31,-268435429,"remyi","Suncus","Gabon Dwarf Shrew",LC,U,-16731116
-32,-268435430,"stoliczkanus","Suncus","Anderson's Shrew",LC,U,-16731116
-34,-268435423,"madagascariensis","Suncus","Madagascan Shrew",LC,U,-16731116
-35,-268435423,"murinus","Suncus","House Shrew",LC,S,-16731116
-36,-268435432,"zeylanicus","Suncus","Ceylon Jungle Shrew",EN,D,-8572416
-37,-268435453,"polli","Congosorex","Greater Congo Shrew",DD,U,-11513776
-38,-268435454,"somereni","Scutisorex","Armored Shrew",LC,U,-16731116
-44,-268435413,"johnstoni","Sylvisorex","Johnston's Forest Shrew",LC,U,-16731116
-45,-268435413,"morio","Sylvisorex","Arrogant Shrew",EN,D,-8572416
-47,-268435410,"vulcanorum","Sylvisorex","Volcano Shrew",NT,D,-12486656
-48,-268435410,"ollula","Sylvisorex","Forest Musk Shrew",LC,U,-16731116
-51,-268435406,"howelli","Sylvisorex","Howell's Forest Shrew",EN,D,-8572416
-52,-268435406,"isabellae","Sylvisorex","Bioko Forest Shrew",EN,D,-8572416
-53,-268435407,"lunaris","Sylvisorex","Moon Forest Shrew",VU,D,-11184866
-56,-268435401,"oriundus","Sylvisorex","Lesser Forest Shrew",DD,U,-11513776
-57,-268435401,"megalura","Suncus","Climbing Shrew",LC,U,-16731116
-59,-268435398,"granti","Sylvisorex","Grant's Forest Shrew",LC,U,-16731116
-60,-268435398,"camerunensis","Sylvisorex","",VU,D,-11184866
-61,-268435417,"pulchellum","Diplomesodon","Piebald Shrew",LC,S,-16731116
-62,-268435456,"feroculus","Feroculus","Kelaart's Long-clawed Shrew",EN,D,-8572416
+11,10,"lixus","Suncus","Greater Dwarf Shrew",LC,U,-16731116
+12,10,"aequatorius","Suncus","",CR,D,-3014646
+13,9,"malayanus","Suncus","Malayan Pgymy Shrew",DD,U,-11513776
+14,8,"dayi","Suncus","Day's Shrew",EN,D,-8572416
+15,7,"mertensi","Suncus","Flores Shrew",EN,D,-8572416
+17,16,"infinitesimus","Suncus","Least Dwarf Shrew",LC,U,-16731116
+18,16,"etruscus","Suncus","Etruscan Shrew",LC,U,-16731116
+21,20,"hosei","Suncus","Bornean Pgymy Shrew",DD,U,-11513776
+22,20,"ater","Suncus","Black Shrew",DD,U,-11513776
+23,19,"fellowesgordoni","Suncus","Ceylon Pygmy Shrew",EN,D,-8572416
+29,28,"varilla","Suncus","Lesser Dwarf Shrew",LC,U,-16731116
+30,28,"montanus","Suncus","Hill Shrew",VU,D,-11184866
+31,27,"remyi","Suncus","Gabon Dwarf Shrew",LC,U,-16731116
+32,26,"stoliczkanus","Suncus","Anderson's Shrew",LC,U,-16731116
+34,33,"madagascariensis","Suncus","Madagascan Shrew",LC,U,-16731116
+35,33,"murinus","Suncus","House Shrew",LC,S,-16731116
+36,24,"zeylanicus","Suncus","Ceylon Jungle Shrew",EN,D,-8572416
+37,3,"polli","Congosorex","Greater Congo Shrew",DD,U,-11513776
+38,2,"somereni","Scutisorex","Armored Shrew",LC,U,-16731116
+44,43,"johnstoni","Sylvisorex","Johnston's Forest Shrew",LC,U,-16731116
+45,43,"morio","Sylvisorex","Arrogant Shrew",EN,D,-8572416
+47,46,"vulcanorum","Sylvisorex","Volcano Shrew",NT,D,-12486656
+48,46,"ollula","Sylvisorex","Forest Musk Shrew",LC,U,-16731116
+51,50,"howelli","Sylvisorex","Howell's Forest Shrew",EN,D,-8572416
+52,50,"isabellae","Sylvisorex","Bioko Forest Shrew",EN,D,-8572416
+53,49,"lunaris","Sylvisorex","Moon Forest Shrew",VU,D,-11184866
+56,55,"oriundus","Sylvisorex","Lesser Forest Shrew",DD,U,-11513776
+57,55,"megalura","Suncus","Climbing Shrew",LC,U,-16731116
+59,58,"granti","Sylvisorex","Grant's Forest Shrew",LC,U,-16731116
+60,58,"camerunensis","Sylvisorex","",VU,D,-11184866
+61,39,"pulchellum","Diplomesodon","Piebald Shrew",LC,S,-16731116
+62,0,"feroculus","Feroculus","Kelaart's Long-clawed Shrew",EN,D,-8572416

@@ -1,23 +1,23 @@
 index,parent,name1,name2,common,redlist,popstab,color
-10,-268435447,"blasii","Rhinolophus","BLASIUS' HORSESHOE BAT",LC,D,-16731116
-11,-268435447,"alcyone","Rhinolophus","Halcyon Horseshoe Bat",LC,U,-16731116
-12,-268435448,"adami","Rhinolophus","Adam's Horseshoe Bat",DD,U,-11513776
-14,-268435443,"creaghi","Rhinolophus","Creagh's Horseshoe Bat",LC,D,-16731116
-15,-268435443,"canuti","Rhinolophus","Canut's Horseshoe Bat",VU,D,-11184866
-17,-268435440,"sinicus","Rhinolophus","Chinese Horseshoe Bat",LC,U,-16731116
-18,-268435440,"rouxii","Rhinolophus","Rufous Horseshoe Bat",LC,U,-16731116
-19,-268435451,"thomasi","Rhinolophus","Thomas's Horseshoe Bat",LC,U,-16731116
-20,-268435452,"eloquens","Rhinolophus","Eloquent Horseshoe Bat",LC,U,-16731116
-21,-268435453,"euryotis","Rhinolophus","New Guinea Horseshoe Bat",LC,U,-16731116
-26,-268435431,"borneensis","Rhinolophus","Bornean Horseshoe Bat",LC,U,-16731116
-27,-268435431,"nereis","Rhinolophus","Anamban Horseshoe Bat",DD,U,-11513776
-28,-268435432,"rufus","Rhinolophus","Large Rufous Horseshoe Bat",NT,D,-12486656
-29,-268435433,"stheno","Rhinolophus","Lesser Brown Horseshoe Bat",LC,S,-16731116
-30,-268435434,"marshalli","Rhinolophus","Marshall's Horseshoe Bat",LC,U,-16731116
-31,-268435455,"yunanensis","Rhinolophus","Dobson's Horseshoe Bat",LC,U,-16731116
-36,-268435421,"formosae","Rhinolophus","Formosan Woolly Horseshoe Bat",NT,D,-12486656
-37,-268435421,"beddomei","Rhinolophus","Beddome's Horseshoe Bat",LC,S,-16731116
-38,-268435422,"luctus","Rhinolophus","Great Woolly Horsehoe Bat",LC,U,-16731116
-39,-268435423,"arcuatus","Rhinolophus","Arcuate Horseshoe Bat",LC,S,-16731116
-41,-268435416,"inops","Rhinolophus","Philippine Forest Horseshoe Bat",LC,S,-16731116
-42,-268435416,"swinnyi","Rhinolophus","Swinny's Horseshoe Bat",LC,U,-16731116
+10,9,"blasii","Rhinolophus","BLASIUS' HORSESHOE BAT",LC,D,-16731116
+11,9,"alcyone","Rhinolophus","Halcyon Horseshoe Bat",LC,U,-16731116
+12,8,"adami","Rhinolophus","Adam's Horseshoe Bat",DD,U,-11513776
+14,13,"creaghi","Rhinolophus","Creagh's Horseshoe Bat",LC,D,-16731116
+15,13,"canuti","Rhinolophus","Canut's Horseshoe Bat",VU,D,-11184866
+17,16,"sinicus","Rhinolophus","Chinese Horseshoe Bat",LC,U,-16731116
+18,16,"rouxii","Rhinolophus","Rufous Horseshoe Bat",LC,U,-16731116
+19,5,"thomasi","Rhinolophus","Thomas's Horseshoe Bat",LC,U,-16731116
+20,4,"eloquens","Rhinolophus","Eloquent Horseshoe Bat",LC,U,-16731116
+21,3,"euryotis","Rhinolophus","New Guinea Horseshoe Bat",LC,U,-16731116
+26,25,"borneensis","Rhinolophus","Bornean Horseshoe Bat",LC,U,-16731116
+27,25,"nereis","Rhinolophus","Anamban Horseshoe Bat",DD,U,-11513776
+28,24,"rufus","Rhinolophus","Large Rufous Horseshoe Bat",NT,D,-12486656
+29,23,"stheno","Rhinolophus","Lesser Brown Horseshoe Bat",LC,S,-16731116
+30,22,"marshalli","Rhinolophus","Marshall's Horseshoe Bat",LC,U,-16731116
+31,1,"yunanensis","Rhinolophus","Dobson's Horseshoe Bat",LC,U,-16731116
+36,35,"formosae","Rhinolophus","Formosan Woolly Horseshoe Bat",NT,D,-12486656
+37,35,"beddomei","Rhinolophus","Beddome's Horseshoe Bat",LC,S,-16731116
+38,34,"luctus","Rhinolophus","Great Woolly Horsehoe Bat",LC,U,-16731116
+39,33,"arcuatus","Rhinolophus","Arcuate Horseshoe Bat",LC,S,-16731116
+41,40,"inops","Rhinolophus","Philippine Forest Horseshoe Bat",LC,S,-16731116
+42,40,"swinnyi","Rhinolophus","Swinny's Horseshoe Bat",LC,U,-16731116

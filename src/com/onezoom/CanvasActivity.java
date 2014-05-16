@@ -24,6 +24,20 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * This class implements another activity.
+ * 
+ * It contains two views, one is tree view and the other is web view and only one of them will be displayed 
+ * at one time.
+ * 
+ * When the activity starts, it will call OnCreate function to initialize and OnCreateOptionsMenu to inflate 
+ * action bar.
+ * 
+ * When the activity ends, it will call onDestroy to handle some garbage collection.
+ * 
+ * @author kaizhong
+ *
+ */
 public class CanvasActivity extends Activity{
 	public TreeView treeView;
 	public CustomizeWebView webView;
@@ -33,7 +47,6 @@ public class CanvasActivity extends Activity{
 	private GrowthThread growthThread;
 	private boolean growing = false;
 	private boolean searching = false;
-	private boolean submitSearching = false;
 	private boolean viewingWeb = false;
 	private int orientation;
 	private int screenHeight;
@@ -67,10 +80,6 @@ public class CanvasActivity extends Activity{
 		return searching;
 	}
 
-	public boolean isSubmitSearching() {
-		return submitSearching;
-	}
-
 	public boolean isViewingWeb() {
 		return viewingWeb;
 	}
@@ -83,6 +92,12 @@ public class CanvasActivity extends Activity{
 		this.orientation = orientation;
 	}
 	
+	/**
+	 * The app is initially developed on Samsung Galaxy S III, which has a resolution of 720*1280.
+	 * 
+	 * To make the app displayed correctly, use a scaleFactor variable to scale the tree based on 
+	 * the ratio of user device and Samsung Galaxy S III.
+	 */
 	private void getDeviceScreenSize() {
 		DisplayMetrics displaymetrics = new DisplayMetrics();
 		getWindowManager().getDefaultDisplay().getMetrics(displaymetrics);
@@ -91,27 +106,36 @@ public class CanvasActivity extends Activity{
 		scaleFactor = Math.min(screenHeight, screenWidth) / 720f;
 	}
 	
+	/**
+	 * Activity starts here.
+	 */
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-		//get tree that is selected by the user
+		/**
+		 * Get the tree which was selected by the user.
+		 */
 		selectedItem = getIntent().getExtras().getString(
 				"com.onezoom.selectedTree");
 		
-		
+		/**
+		 * Create two views.
+		 */
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
 		webView = (CustomizeWebView) findViewById(R.id.webview);
 		
-		//only display tree view when the activity start
+		/**
+		 * Web view should be activated after user hits on links.
+		 */
 		hideWebView();
 		
 		searchEngine =  Search.getInstance(this);
 		orientation = getResources().getConfiguration().orientation;
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
-		memoryThread.start();
+		memoryThread.start();  //memory thread will load the tree into memory when it starts.
 		growthThread.start();
 		getDeviceScreenSize();
 	}
@@ -119,7 +143,7 @@ public class CanvasActivity extends Activity{
 	/**
 	 * This method calls routines to inflate action bar.
 	 * When tree view is displayed, it has grow menu, search menu and main menu.
-	 * When web view is displayed, it has only one menu.
+	 * When web view is displayed, it has only one menu, which is inflated by inflateWebMenu.
 	 * App title and icon are removed.
 	 */
 	@Override
@@ -139,7 +163,7 @@ public class CanvasActivity extends Activity{
 	 * Destroy any running thread.
 	 * Hide toast if it is showing or gonna to show.
 	 * BinarySearch class in a singleton class. Destroy it otherwise when user re-select a tree,
-	 * the searchEngine will still be linked to previous activity.
+	 * the searchEngine will still be linked to the previous activity.
 	 */
 	@Override
 	protected void onDestroy() {
@@ -168,7 +192,6 @@ public class CanvasActivity extends Activity{
 		//For example, if user select mammals, then initialize from 'mammalsinterior0'
 		fulltree = MidNode.startLoadingTree();
 		
-//		fulltree.recalculate();
 		fulltree.recalculateDynamic();
 		//set tree as being initialized so that tree view draws the tree instead of drawing 'loading'
 		treeView.setTreeBeingInitialized(true);	
@@ -177,7 +200,7 @@ public class CanvasActivity extends Activity{
 	
 	/**
 	 * The following methods are delegated to memoryThread 
-	 * to make sure they are being executed sequentially as opposed to concurrently.
+	 * to make sure all calculations are being executed sequentially as opposed to concurrently.
 	 */	
 	
 	public void recalculate() {
@@ -189,39 +212,44 @@ public class CanvasActivity extends Activity{
 	}
 	
 	/**
-	 * search is called in tree view.
+	 * Search match for user input and jump the view to the search result.
 	 * @param userInput
 	 */
 	public void search(String userInput) {
-		this.submitSearching = true;
 		memoryThread.search(userInput);
 	}
 	
 	/**
-	 * backSearch is called in tree view.
+	 * Jump to previous search hit. If current search is the first hit, it will jump to the last hit.
 	 */
 	public void backSearch() {
 		memoryThread.backSearch();
 	}
 	
 	/**
-	 * forwardSearch is called in tree view.
+	 * Jump to the next search hit. If current hit is the last hit, it will jump to the first hit.
 	 */
 	public void forwardSearch() {
 		memoryThread.forwardSearch();
 	}
 	
 	/**
-	 * searchAndLoad is called in web view. A new webpage will be loaded after search.
+	 * searchAndLoad is called in web view. 
+	 * 
+	 * It's similar to search. But it will load a new web page 
+	 * of the hit rather than jump to the search result in the tree.
 	 * @param userInput
 	 */
 	public void searchAndLoad(String userInput) {
-		this.submitSearching = true;
 		memoryThread.searchAndLoad(userInput);
 	}
 
 	/**
-	 * backSearchAndLoad is called in web view. A new webpage will be loaded after search.
+	 * backSearchAndLoad is called in web view.
+	 * 
+	 * 
+	 * It's similar to backSearch. But it will load a new web page 
+	 * of the hit rather than jump to the search result in the tree.
 	 */
 	public void backSearchAndLoad() {
 		memoryThread.backSearchAndLoad();
@@ -229,7 +257,10 @@ public class CanvasActivity extends Activity{
 	}
 
 	/**
-	 * forwardSearchAndLoad is called in web view. A new webpage will be loaded after search.
+	 * forwardSearchAndLoad is called in web view. 
+	 * 
+	 * It's similar to forwardSearch. But it will load a new web page 
+	 * of the hit rather than jump to the search result in the tree.
 	 */
 	public void forwardSearchAndLoad() {
 		memoryThread.forwardSearchAndLoad();		
@@ -321,6 +352,10 @@ public class CanvasActivity extends Activity{
 		getMenuInflater().inflate(R.menu.viewmenu, menu);
 	}
 	
+	/**
+	 * Inflate search menu on tree view.
+	 * @param menu
+	 */
 	private void inflateTreeSearchMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.searhmenu, menu);
 		CustomizeSearchView searchView = inflateSearchView(menu, R.id.search_tree);
@@ -328,6 +363,10 @@ public class CanvasActivity extends Activity{
 		searchView.setWebView(false);
 	}
 	
+	/**
+	 * Inflate web menu.
+	 * @param menu
+	 */
 	private void inflateWebMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.webmenu, menu);		
 		CustomizeSearchView searchView = inflateSearchView(menu, R.id.search_web);
@@ -338,7 +377,11 @@ public class CanvasActivity extends Activity{
 	
 	/**
 	 * Inflate searchView. 
+	 * 
+	 * It is called both in tree view and web view.
 	 * Tree view will use R.id.search_tree as ID, while web view will use R.id.search_web as ID.
+	 * 
+	 * 
 	 * @param menu
 	 * @param resourceID
 	 * @return
@@ -357,16 +400,18 @@ public class CanvasActivity extends Activity{
 		setQueryInSearchView(searchView);
 		
 		searchView.addClient(this);
+		
 		//set text color as black
 		int id = searchView.getContext().getResources().getIdentifier("android:id/search_src_text", null, null);
 		TextView textView = (TextView) searchView.findViewById(id);
 		textView.setTextColor(Color.BLACK);
+		
 		this.currentSearchView = searchView;
 		return searchView;
 	}
 
 	/**
-	 * Set search view the same as previous user input. If it does not exist, set it as using hint.
+	 * Set search view the same as previous user input. If it does not exist, set is as hint.
 	 * @param searchView
 	 */
 	private void setQueryInSearchView(final CustomizeSearchView searchView) {
@@ -377,7 +422,8 @@ public class CanvasActivity extends Activity{
 	}
 
 	/**
-	 * Show a dialog which tells users how to understand the tree
+	 * Pop up a dialog which contains information of how to use the app, the color meanings of the app
+	 * and the authors of the app.
 	 */
 	private void popupInformationDialog() {
 		Dialog dialog = new CustomDialog(this);
@@ -388,7 +434,8 @@ public class CanvasActivity extends Activity{
 	 * When user press back in search or grow menu, call this function to return to main
 	 * menu in tree view.
 	 * 
-	 * It is also called when user press tree button in web view.
+	 * It is also called when user press tree button in web view to force the action bar inflate
+	 * the main menu instead of growth menu or search menu.
 	 */
 	public void returnToMainMenu() {
 		growthThread.Close();
@@ -399,7 +446,9 @@ public class CanvasActivity extends Activity{
 		invalidateOptionsMenu();
 	}
 
-	
+	/**
+	 * Reset the tree to the initial position.
+	 */
 	public void resetTree() {
 		treeView.setDuringInteraction(false);
 		resetTreeRootPosition();
@@ -430,10 +479,6 @@ public class CanvasActivity extends Activity{
 	 * Use this function to bring the searched node into the center of the screen.
 	 */
 	public void moveRootToCenter() {
-		//move root to center.
-		//However, if root has been reanchored, the reanchored node will be moved to center.
-		//Notice that the leaf or interior circle will not be moved to center but the start position of 
-		//their branch will be moved to center.
 		PositionData.setScreenPosition(treeView.getWidth()/2, treeView.getHeight()/2, 1f * scaleFactor);
 	}
 
@@ -502,6 +547,10 @@ public class CanvasActivity extends Activity{
 		loadLinkURL();
 	}
 
+	/**
+	 * Hide keyboard.
+	 * @param view
+	 */
 	public void hideKeyBoard(View view) {
 		InputMethodManager imm = (InputMethodManager)this.getSystemService(
 			      Context.INPUT_METHOD_SERVICE);

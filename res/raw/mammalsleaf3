@@ -1,40 +1,40 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,-268435446,"betulina","Sicista","Northern Birch Mouse",LC,U,-16731116
-12,-268435446,"armenica","Sicista","Armenian Birch Mouse",EN,D,-8572416
-13,-268435447,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U,-16731116
-15,-268435442,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U,-12486656
-16,-268435442,"napaea","Sicista","Altai Birch Mouse",LC,U,-16731116
-18,-268435439,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U,-11513776
-19,-268435439,"concolor","Sicista","Chinese Birch Mouse",LC,U,-16731116
-23,-268435434,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S,-16731116
-24,-268435434,"subtilis","Sicista","Southern Birch Mouse",LC,D,-16731116
-25,-268435435,"caudata","Sicista","Long-tailed Birch Mouse",DD,U,-11513776
-28,-268435429,"strandi","Sicista","Strand's Birch Mouse",LC,S,-16731116
-29,-268435429,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U,-8572416
-30,-268435430,"caucasica","Sicista","Caucasian Birch Mouse",VU,U,-11184866
-34,-268435423,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U,-16731116
-35,-268435423,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S,-16731116
-36,-268435424,"princeps","Zapus","Pacific Jumping Mouse",LC,S,-16731116
-38,-268435419,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S,-16731116
-39,-268435419,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U,-16731116
-46,-268435411,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U,-11513776
-47,-268435411,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U,-11513776
-48,-268435412,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U,-11513776
-49,-268435413,"thomasi","Salpingotus","",NE,U,-16777216
-51,-268435406,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U,-11513776
-52,-268435406,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U,-16731116
-53,-268435415,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U,-11513776
-54,-268435416,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U,-16731116
-55,-268435453,"naso","Euchoreutes","Long-eared Jerboa",LC,U,-16731116
-60,-268435397,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D,-16731116
-61,-268435397,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D,-16731116
-62,-268435398,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U,-16731116
-63,-268435399,"sagitta","Dipus","Hairy-footed Jerboa",LC,S,-16731116
-67,-268435390,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S,-16731116
-68,-268435390,"blanfordi","Jaculus","Blanford's Jerboa",LC,D,-16731116
-69,-268435391,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U,-16731116
-70,-268435392,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U,-16731116
-73,-268435384,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U,-16731116
-74,-268435384,"shitkovi","Pygeretmus","",NE,U,-16777216
-75,-268435385,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U,-16731116
-76,-268435456,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U,-16731116
+11,10,"betulina","Sicista","Northern Birch Mouse",LC,U,-16731116
+12,10,"armenica","Sicista","Armenian Birch Mouse",EN,D,-8572416
+13,9,"tianshanica","Sicista","Tien Shan Birch Mouse",LC,U,-16731116
+15,14,"kluchorica","Sicista","Kluchor Birch Mouse",NT,U,-12486656
+16,14,"napaea","Sicista","Altai Birch Mouse",LC,U,-16731116
+18,17,"pseudonapaea","Sicista","Gray Birch Mouse",DD,U,-11513776
+19,17,"concolor","Sicista","Chinese Birch Mouse",LC,U,-16731116
+23,22,"severtzovi","Sicista","Severtzov's Birch Mouse",LC,S,-16731116
+24,22,"subtilis","Sicista","Southern Birch Mouse",LC,D,-16731116
+25,21,"caudata","Sicista","Long-tailed Birch Mouse",DD,U,-11513776
+28,27,"strandi","Sicista","Strand's Birch Mouse",LC,S,-16731116
+29,27,"kazbegica","Sicista","Kazbeg Birch Mouse",EN,U,-8572416
+30,26,"caucasica","Sicista","Caucasian Birch Mouse",VU,U,-11184866
+34,33,"trinotatus","Zapus","Pacific Jumping Mouse",LC,U,-16731116
+35,33,"hudsonius","Zapus","Meadow Jumping Mouse",LC,S,-16731116
+36,32,"princeps","Zapus","Pacific Jumping Mouse",LC,S,-16731116
+38,37,"insignis","Napaeozapus","Woodland Jumping Mouse",LC,S,-16731116
+39,37,"setchuanus","Eozapus","Chinese Jumping Mouse",LC,U,-16731116
+46,45,"crassicauda","Salpingotus","Thick-tailed Pygmy Jerboa",DD,U,-11513776
+47,45,"pallidus","Salpingotus","Pale Pygmy Jerboa",DD,U,-11513776
+48,44,"heptneri","Salpingotus","Heptner's Pygmy Jerboa",DD,U,-11513776
+49,43,"thomasi","Salpingotus","",NE,U,-16777216
+51,50,"michaelis","Salpingotulus","Baluchistan Pygmy Jerboa",DD,U,-11513776
+52,50,"kozlovi","Salpingotus","Kozlov's Pygmy Jerboa",LC,U,-16731116
+53,41,"paradoxus","Cardiocranius","Five-toed Pygmy Jerboa",DD,U,-11513776
+54,40,"ctenodactylus","Paradipus","Comb-toed Jerboa",LC,U,-16731116
+55,3,"naso","Euchoreutes","Long-eared Jerboa",LC,U,-16731116
+60,59,"sungorus","Stylodipus","Mongolian Three-toed Jerboa",LC,D,-16731116
+61,59,"telum","Stylodipus","Thick-tailed Three-toed Jerboa",LC,D,-16731116
+62,58,"andrewsi","Stylodipus","Andrews's Three-toed Jerboa",LC,U,-16731116
+63,57,"sagitta","Dipus","Hairy-footed Jerboa",LC,S,-16731116
+67,66,"orientalis","Jaculus","Greater Egyptian Jerboa",LC,S,-16731116
+68,66,"blanfordi","Jaculus","Blanford's Jerboa",LC,D,-16731116
+69,65,"jaculus","Jaculus","Lesser Egyptian Jerboa",LC,U,-16731116
+70,64,"lichtensteini","Eremodipus","Lichtenstein's Jerboa",LC,U,-16731116
+73,72,"platyurus","Pygeretmus","Lesser Fat-tailed Jerboa",LC,U,-16731116
+74,72,"shitkovi","Pygeretmus","",NE,U,-16777216
+75,71,"pumilio","Pygeretmus","Dwarf Fat-tailed Jerboa",LC,U,-16731116
+76,0,"bobrinskii","Allactodipus","Bobrinski's Jerboa",LC,U,-16731116

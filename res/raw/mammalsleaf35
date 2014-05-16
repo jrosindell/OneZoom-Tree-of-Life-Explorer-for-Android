@@ -1,92 +1,92 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,-268435441,"nigra","Macaca","Celebes Crested Macaque",CR,D,-3014646
-17,-268435441,"nigrescens","Macaca","Gorontalo Macaque",VU,D,-11184866
-18,-268435442,"ochreata","Macaca","Booted Macaque",VU,D,-11184866
-19,-268435443,"maura","Macaca","Moor Macaque",EN,D,-8572416
-21,-268435436,"tonkeana","Macaca","Tonkean Macaque",VU,D,-11184866
-22,-268435436,"hecki","Macaca","Heck's Macaque",VU,D,-11184866
-26,-268435431,"nemestrina","Macaca","Southern Pig-tailed Macaque",VU,D,-11184866
-27,-268435431,"pagensis","Macaca","Pagai Island Macaque",CR,D,-3014646
-28,-268435432,"leonina","Macaca","Northern Pig-tailed Macaque",VU,D,-11184866
-29,-268435433,"silenus","Macaca","Lion-tailed Macaque",EN,D,-8572416
-30,-268435446,"sylvanus","Macaca","Barbary Macaque",EN,D,-8572416
-35,-268435422,"thibetana","Macaca","Milne-edwards' Macaque",NT,D,-12486656
-36,-268435422,"assamensis","Macaca","Assam Macaque",NT,D,-12486656
-38,-268435419,"radiata","Macaca","Bonnet Macaque",LC,D,-16731116
-39,-268435419,"sinica","Macaca","Toque Macaque",EN,D,-8572416
-40,-268435424,"arctoides","Macaca","Stump-tailed Macaque",VU,D,-11184866
-44,-268435413,"cyclopis","Macaca","Formosan Rock Macaque",LC,S,-16731116
-45,-268435413,"mulatta","Macaca","Rhesus Monkey",LC,U,-16731116
-46,-268435414,"fuscata","Macaca","Japanese Macaque",LC,S,-16731116
-47,-268435415,"fascicularis","Macaca","Crab-eating Macaque",LC,D,-16731116
-55,-268435402,"hamadryas","Papio","Hamadryas Baboon",LC,I,-16731116
-56,-268435402,"anubis","Papio","Olive Baboon",LC,I,-16731116
-57,-268435403,"ursinus","Papio","Chacma Baboon",LC,S,-16731116
-58,-268435404,"cynocephalus","Papio","Yellow Baboon",LC,S,-16731116
-59,-268435405,"papio","Papio","Guinea Baboon",NT,U,-12486656
-60,-268435406,"gelada","Theropithecus","Gelada Baboon",LC,D,-16731116
-63,-268435394,"albigena","Lophocebus","Grey-cheeked Mangabey",LC,D,-16731116
-64,-268435394,"opdenboschi","Lophocebus","",NE,U,-16777216
-65,-268435395,"aterrimus","Lophocebus","Black Mangabey",NT,D,-12486656
-69,-268435388,"torquatus","Cercocebus","White-collared Mangabey",VU,D,-11184866
-70,-268435388,"atys","Cercocebus","Sooty/white-naped Mangabey",VU,D,-11184866
-72,-268435385,"leucophaeus","Mandrillus","Drill",EN,U,-8572416
-73,-268435385,"sphinx","Mandrillus","Mandrill",VU,U,-11184866
-76,-268435381,"chrysogaster","Cercocebus","Golden-bellied Mangabey",DD,D,-11513776
-77,-268435381,"agilis","Cercocebus","Agile Mangabey",LC,S,-16731116
-78,-268435382,"galeritus","Cercocebus","Tana River Crested Mangabey",EN,D,-8572416
-84,-268435373,"sangirensis","Tarsius","Sangihe Tarsier",EN,D,-8572416
-85,-268435373,"tarsier","Tarsius","Spectral Tarsier",VU,D,-11184866
-86,-268435374,"pelengensis","Tarsius","Peleng Tarsier",EN,D,-8572416
-88,-268435369,"dentatus","Tarsius","Dian's Tarsier",VU,D,-11184866
-89,-268435369,"pumilus","Tarsius","Pygmy Tarsier",DD,D,-11513776
-91,-268435366,"bancanus","Tarsius","Horsfield's Tarsier",VU,D,-11184866
-92,-268435366,"syrichta","Tarsius","Philippine Tarsier",NT,D,-12486656
-103,-268435354,"deckenii","Propithecus","Van Der Decken's Sifaka",VU,D,-11184866
-104,-268435354,"verreauxi","Propithecus","Verreaux's Sifaka",VU,D,-11184866
-105,-268435355,"coquereli","Propithecus","Coquerel's Sifaka",EN,D,-8572416
-108,-268435349,"perrieri","Propithecus","Perrier's Sifaka",CR,D,-3014646
-109,-268435349,"diadema","Propithecus","Diademed Sifaka",EN,D,-8572416
-110,-268435350,"edwardsi","Propithecus","Milne-edward's Sifaka",EN,D,-8572416
-111,-268435357,"tattersalli","Propithecus","Golden-crowned Sifaka",EN,U,-8572416
-113,-268435344,"occidentalis","Avahi","Lorenz Von Liburnau's Woolly Lemur",EN,D,-8572416
-114,-268435344,"laniger","Avahi","Gmelin's Woolly Lemur",LC,D,-16731116
-115,-268435359,"indri","Indri","Indri",EN,D,-8572416
-116,-268435360,"madagascariensis","Daubentonia","Aye-aye",NT,D,-12486656
-124,-268435333,"griseorufus","Microcebus","Grey-brown Mouse Lemur",LC,D,-16731116
-125,-268435333,"myoxinus","Microcebus","Peters' Mouse Lemur",DD,U,-11513776
-126,-268435334,"murinus","Microcebus","Grey Mouse-lemur",LC,D,-16731116
-127,-268435335,"rufus","Microcebus","Rufous Mouse Lemur",LC,D,-16731116
-128,-268435336,"coquereli","Mirza","Coquerel's Giant Mouse Lemur",NT,D,-12486656
-129,-268435337,"trichotis","Allocebus","Hairy-eared Dwarf Lemur",DD,U,-11513776
-134,-268435323,"adipicaudatus","Cheirogaleus","Southern Fat-tailed Dwarf Lemur",DD,U,-11513776
-135,-268435323,"crossleyi","Cheirogaleus","Furry-eared Dwarf Lemur",DD,U,-11513776
-136,-268435324,"major","Cheirogaleus","Geoffroy's Dwarf Lemur",LC,U,-16731116
-137,-268435325,"sibreei","Cheirogaleus","Sibree's Dwarf Lemur",DD,U,-11513776
-138,-268435326,"medius","Cheirogaleus","Western Fat-tailed Dwarf Lemur",LC,U,-16731116
-141,-268435316,"electromontis","Phaner","Montagne D' Ambre Fork-marked Lemur",VU,D,-11184866
-142,-268435316,"pallescens","Phaner","Pale Fork-marked Lemur",LC,D,-16731116
-144,-268435313,"parienti","Phaner","Sambirano Fork-marked Lemur",VU,D,-11184866
-145,-268435313,"furcifer","Phaner","Masoala Fork-marked Lemur",LC,D,-16731116
-147,-268435310,"volans","Cynocephalus","Philippine Flying Lemur",LC,S,-16731116
-148,-268435310,"variegates","Galeopterus","",NE,U,-16777216
-159,-268435298,"splendidula","Tupaia","Ruddy Treeshrew",LC,D,-16731116
-160,-268435298,"tana","Tupaia","Large Treeshrew",LC,D,-16731116
-161,-268435299,"gracilis","Tupaia","Slender Treeshrew",LC,D,-16731116
-163,-268435294,"nicobarica","Tupaia","Nicobar Treeshrew",EN,D,-8572416
-164,-268435294,"belangeri","Tupaia","Northern Treeshrew",LC,S,-16731116
-167,-268435290,"chrysogaster","Tupaia","Golden-bellied Treeshrew",EN,D,-8572416
-168,-268435290,"dorsalis","Tupaia","Striped Treeshrew",DD,D,-11513776
-169,-268435291,"glis","Tupaia","Common Treeshrew",LC,D,-16731116
-170,-268435302,"minor","Tupaia","Lesser Treeshrew",LC,D,-16731116
-174,-268435283,"moellendorffi","Tupaia","Calamian Treeshrew",DD,U,-11513776
-175,-268435283,"palawanensis","Tupaia","Palawan Treeshrew",LC,S,-16731116
-177,-268435280,"javanica","Tupaia","Horsfield's Treeshrew",LC,D,-16731116
-178,-268435280,"picta","Tupaia","Painted Treeshrew",LC,D,-16731116
-179,-268435285,"longipes","Tupaia","Long-footed Treeshrew",LC,D,-16731116
-180,-268435304,"montana","Tupaia","Mountain Treeshrew",LC,U,-16731116
-182,-268435275,"melanura","Dendrogale","Bornean Smooth-tailed Treeshrew",DD,D,-11513776
-183,-268435275,"murina","Dendrogale","Northern Smooth-tailed Treeshrew",LC,D,-16731116
-185,-268435272,"everetti","Urogale","Mindanao Treeshrew",LC,S,-16731116
-186,-268435272,"ellioti","Anathana","Madras Treeshrew",LC,D,-16731116
-187,-268435307,"lowii","Ptilocercus","Pen-tailed Treeshrew",LC,D,-16731116
+16,15,"nigra","Macaca","Celebes Crested Macaque",CR,D,-3014646
+17,15,"nigrescens","Macaca","Gorontalo Macaque",VU,D,-11184866
+18,14,"ochreata","Macaca","Booted Macaque",VU,D,-11184866
+19,13,"maura","Macaca","Moor Macaque",EN,D,-8572416
+21,20,"tonkeana","Macaca","Tonkean Macaque",VU,D,-11184866
+22,20,"hecki","Macaca","Heck's Macaque",VU,D,-11184866
+26,25,"nemestrina","Macaca","Southern Pig-tailed Macaque",VU,D,-11184866
+27,25,"pagensis","Macaca","Pagai Island Macaque",CR,D,-3014646
+28,24,"leonina","Macaca","Northern Pig-tailed Macaque",VU,D,-11184866
+29,23,"silenus","Macaca","Lion-tailed Macaque",EN,D,-8572416
+30,10,"sylvanus","Macaca","Barbary Macaque",EN,D,-8572416
+35,34,"thibetana","Macaca","Milne-edwards' Macaque",NT,D,-12486656
+36,34,"assamensis","Macaca","Assam Macaque",NT,D,-12486656
+38,37,"radiata","Macaca","Bonnet Macaque",LC,D,-16731116
+39,37,"sinica","Macaca","Toque Macaque",EN,D,-8572416
+40,32,"arctoides","Macaca","Stump-tailed Macaque",VU,D,-11184866
+44,43,"cyclopis","Macaca","Formosan Rock Macaque",LC,S,-16731116
+45,43,"mulatta","Macaca","Rhesus Monkey",LC,U,-16731116
+46,42,"fuscata","Macaca","Japanese Macaque",LC,S,-16731116
+47,41,"fascicularis","Macaca","Crab-eating Macaque",LC,D,-16731116
+55,54,"hamadryas","Papio","Hamadryas Baboon",LC,I,-16731116
+56,54,"anubis","Papio","Olive Baboon",LC,I,-16731116
+57,53,"ursinus","Papio","Chacma Baboon",LC,S,-16731116
+58,52,"cynocephalus","Papio","Yellow Baboon",LC,S,-16731116
+59,51,"papio","Papio","Guinea Baboon",NT,U,-12486656
+60,50,"gelada","Theropithecus","Gelada Baboon",LC,D,-16731116
+63,62,"albigena","Lophocebus","Grey-cheeked Mangabey",LC,D,-16731116
+64,62,"opdenboschi","Lophocebus","",NE,U,-16777216
+65,61,"aterrimus","Lophocebus","Black Mangabey",NT,D,-12486656
+69,68,"torquatus","Cercocebus","White-collared Mangabey",VU,D,-11184866
+70,68,"atys","Cercocebus","Sooty/white-naped Mangabey",VU,D,-11184866
+72,71,"leucophaeus","Mandrillus","Drill",EN,U,-8572416
+73,71,"sphinx","Mandrillus","Mandrill",VU,U,-11184866
+76,75,"chrysogaster","Cercocebus","Golden-bellied Mangabey",DD,D,-11513776
+77,75,"agilis","Cercocebus","Agile Mangabey",LC,S,-16731116
+78,74,"galeritus","Cercocebus","Tana River Crested Mangabey",EN,D,-8572416
+84,83,"sangirensis","Tarsius","Sangihe Tarsier",EN,D,-8572416
+85,83,"tarsier","Tarsius","Spectral Tarsier",VU,D,-11184866
+86,82,"pelengensis","Tarsius","Peleng Tarsier",EN,D,-8572416
+88,87,"dentatus","Tarsius","Dian's Tarsier",VU,D,-11184866
+89,87,"pumilus","Tarsius","Pygmy Tarsier",DD,D,-11513776
+91,90,"bancanus","Tarsius","Horsfield's Tarsier",VU,D,-11184866
+92,90,"syrichta","Tarsius","Philippine Tarsier",NT,D,-12486656
+103,102,"deckenii","Propithecus","Van Der Decken's Sifaka",VU,D,-11184866
+104,102,"verreauxi","Propithecus","Verreaux's Sifaka",VU,D,-11184866
+105,101,"coquereli","Propithecus","Coquerel's Sifaka",EN,D,-8572416
+108,107,"perrieri","Propithecus","Perrier's Sifaka",CR,D,-3014646
+109,107,"diadema","Propithecus","Diademed Sifaka",EN,D,-8572416
+110,106,"edwardsi","Propithecus","Milne-edward's Sifaka",EN,D,-8572416
+111,99,"tattersalli","Propithecus","Golden-crowned Sifaka",EN,U,-8572416
+113,112,"occidentalis","Avahi","Lorenz Von Liburnau's Woolly Lemur",EN,D,-8572416
+114,112,"laniger","Avahi","Gmelin's Woolly Lemur",LC,D,-16731116
+115,97,"indri","Indri","Indri",EN,D,-8572416
+116,96,"madagascariensis","Daubentonia","Aye-aye",NT,D,-12486656
+124,123,"griseorufus","Microcebus","Grey-brown Mouse Lemur",LC,D,-16731116
+125,123,"myoxinus","Microcebus","Peters' Mouse Lemur",DD,U,-11513776
+126,122,"murinus","Microcebus","Grey Mouse-lemur",LC,D,-16731116
+127,121,"rufus","Microcebus","Rufous Mouse Lemur",LC,D,-16731116
+128,120,"coquereli","Mirza","Coquerel's Giant Mouse Lemur",NT,D,-12486656
+129,119,"trichotis","Allocebus","Hairy-eared Dwarf Lemur",DD,U,-11513776
+134,133,"adipicaudatus","Cheirogaleus","Southern Fat-tailed Dwarf Lemur",DD,U,-11513776
+135,133,"crossleyi","Cheirogaleus","Furry-eared Dwarf Lemur",DD,U,-11513776
+136,132,"major","Cheirogaleus","Geoffroy's Dwarf Lemur",LC,U,-16731116
+137,131,"sibreei","Cheirogaleus","Sibree's Dwarf Lemur",DD,U,-11513776
+138,130,"medius","Cheirogaleus","Western Fat-tailed Dwarf Lemur",LC,U,-16731116
+141,140,"electromontis","Phaner","Montagne D' Ambre Fork-marked Lemur",VU,D,-11184866
+142,140,"pallescens","Phaner","Pale Fork-marked Lemur",LC,D,-16731116
+144,143,"parienti","Phaner","Sambirano Fork-marked Lemur",VU,D,-11184866
+145,143,"furcifer","Phaner","Masoala Fork-marked Lemur",LC,D,-16731116
+147,146,"volans","Cynocephalus","Philippine Flying Lemur",LC,S,-16731116
+148,146,"variegates","Galeopterus","",NE,U,-16777216
+159,158,"splendidula","Tupaia","Ruddy Treeshrew",LC,D,-16731116
+160,158,"tana","Tupaia","Large Treeshrew",LC,D,-16731116
+161,157,"gracilis","Tupaia","Slender Treeshrew",LC,D,-16731116
+163,162,"nicobarica","Tupaia","Nicobar Treeshrew",EN,D,-8572416
+164,162,"belangeri","Tupaia","Northern Treeshrew",LC,S,-16731116
+167,166,"chrysogaster","Tupaia","Golden-bellied Treeshrew",EN,D,-8572416
+168,166,"dorsalis","Tupaia","Striped Treeshrew",DD,D,-11513776
+169,165,"glis","Tupaia","Common Treeshrew",LC,D,-16731116
+170,154,"minor","Tupaia","Lesser Treeshrew",LC,D,-16731116
+174,173,"moellendorffi","Tupaia","Calamian Treeshrew",DD,U,-11513776
+175,173,"palawanensis","Tupaia","Palawan Treeshrew",LC,S,-16731116
+177,176,"javanica","Tupaia","Horsfield's Treeshrew",LC,D,-16731116
+178,176,"picta","Tupaia","Painted Treeshrew",LC,D,-16731116
+179,171,"longipes","Tupaia","Long-footed Treeshrew",LC,D,-16731116
+180,152,"montana","Tupaia","Mountain Treeshrew",LC,U,-16731116
+182,181,"melanura","Dendrogale","Bornean Smooth-tailed Treeshrew",DD,D,-11513776
+183,181,"murina","Dendrogale","Northern Smooth-tailed Treeshrew",LC,D,-16731116
+185,184,"everetti","Urogale","Mindanao Treeshrew",LC,S,-16731116
+186,184,"ellioti","Anathana","Madras Treeshrew",LC,D,-16731116
+187,149,"lowii","Ptilocercus","Pen-tailed Treeshrew",LC,D,-16731116

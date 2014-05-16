@@ -1,85 +1,85 @@
 name,fileindex,index,whichChild
 "Waters's Gerbil",16,11,1
-"Gerbillus",16,11,1
+"Gerbillus watersi",16,11,1
 "Sudan Gerbil",16,12,2
-"Gerbillus",16,12,2
+"Gerbillus nancillus",16,12,2
 "Pale Gerbil",16,13,2
-"Gerbillus",16,13,2
+"Gerbillus perpallidus",16,13,2
 "Little Hairy-footed Gerbil",16,16,1
-"Gerbillus",16,16,1
+"Gerbillus gleadowi",16,16,1
 "Rosalinda Gerbil",16,17,2
-"Gerbillus",16,17,2
+"Gerbillus rosalinda",16,17,2
 "Grobben's Gerbil",16,21,1
-"Gerbillus",16,21,1
+"Gerbillus grobbeni",16,21,1
 "Cheesman's Gerbil",16,27,1
-"Gerbillus",16,27,1
+"Gerbillus cheesmani",16,27,1
 "Western Gerbil",16,28,2
-"Gerbillus",16,28,2
+"Gerbillus hesperinus",16,28,2
 "Swarthy Gerbil",16,29,2
-"Gerbillus",16,29,2
+"Gerbillus aquilus",16,29,2
 "Tarabul's Gerbil",16,30,2
-"Gerbillus",16,30,2
+"Gerbillus tarabuli",16,30,2
 "Flower's Gerbil",16,33,1
-"Gerbillus",16,33,1
-"Gerbillus",16,35,2
+"Gerbillus floweri",16,33,1
+"Gerbillus garamantis",16,35,2
 "Hoogstraal's Gerbil",16,38,1
-"Gerbillus",16,38,1
+"Gerbillus hoogstraali",16,38,1
 "Occidental Gerbil",16,39,2
-"Gerbillus",16,39,2
+"Gerbillus occiduus",16,39,2
 "Brockman's Gerbil",16,41,1
-"Gerbillus",16,41,1
+"Gerbillus brockmani",16,41,1
 "Pleasant Gerbil",16,42,2
-"Gerbillus",16,42,2
+"Gerbillus amoenus",16,42,2
 "Burton's Gerbil",16,46,1
-"Gerbillus",16,46,1
-"Gerbillus",16,47,2
+"Gerbillus burtoni",16,46,1
+"Gerbillus mauritaniae",16,47,2
 "Principal Gerbil",16,48,2
-"Gerbillus",16,48,2
+"Gerbillus principulus",16,48,2
 "Pygmy Gerbil",16,49,2
-"Gerbillus",16,49,2
-"Gerbillus",16,56,2
+"Gerbillus henleyi",16,49,2
+"Gerbillus syrticus",16,56,2
 "Black-tufted Gerbil",16,59,2
-"Gerbillus",16,59,2
+"Gerbillus famulus",16,59,2
 "Barfur Gerbil",16,61,1
-"Gerbillus",16,61,1
+"Gerbillus muriculus",16,61,1
 "Agag Gerbil",16,62,2
-"Gerbillus",16,62,2
+"Gerbillus agag",16,62,2
 "Greater Egyptian Gerbil",16,67,1
-"Gerbillus",16,67,1
+"Gerbillus pyramidum",16,67,1
 "Lataste's Gerbil",16,68,2
-"Gerbillus",16,68,2
+"Gerbillus latastei",16,68,2
 "Mesopotamian Gerbil",16,69,2
-"Gerbillus",16,69,2
+"Gerbillus mesopotamiae",16,69,2
 "Cushioned Gerbil",16,70,2
-"Gerbillus",16,70,2
+"Gerbillus pulvinatus",16,70,2
 "Lesser Egyptian Gerbil",16,71,2
-"gerbillus",16,71,2
-"Gerbillus",16,71,2
+"Gerbillus gerbillus",16,71,2
+"Gerbillus gerbillus",16,71,2
 "Anderson's Gerbil",16,77,1
-"Gerbillus",16,77,1
+"Gerbillus andersoni",16,77,1
 "Nigerian Gerbil",16,78,2
-"Gerbillus",16,78,2
+"Gerbillus nigeriae",16,78,2
 "Large Aden Gerbil",16,87,2
-"Gerbillus",16,87,2
+"Gerbillus poecilops",16,87,2
 "Somalia Gerbil",16,91,1
-"Gerbillus",16,91,1
-"Gerbillus",16,92,2
+"Gerbillus dunni",16,91,1
+"Gerbillus vivax",16,92,2
 "Least Gerbil",16,93,2
-"Gerbillus",16,93,2
+"Gerbillus pusillus",16,93,2
 "Berbera Gerbil",16,94,2
-"Gerbillus",16,94,2
+"Gerbillus acticola",16,94,2
 "Dwarf Gerbil",8,148,1
-"Gerbillus",8,148,1
-"Gerbillus",8,149,2
+"Gerbillus nanus",8,148,1
+"Gerbillus dongolanus",8,149,2
 "Somali Pygmy Gerbil",8,150,2
 "Bushy-tailed Hairy-footed Gerbil",8,155,1
-"Gerbillurus",8,155,1
+"Gerbillurus vallinus",8,155,1
 "Hairy-footed Gerbil",8,156,2
-"Gerbillurus",8,156,2
+"Gerbillurus paeba",8,156,2
 "Namib Brush-tailed Gerbil",8,157,2
-"Gerbillurus",8,157,2
+"Gerbillurus setzeri",8,157,2
 "Dune Hairy-footed Gerbil",8,158,2
-"Gerbillurus",8,158,2
+"Gerbillurus tytonis",8,158,2
 "Cape Short-eared Gerbil",8,159,2
 "Mongolian Gerbil",12,15,1
 "Mid-day Gerbil",12,29,1
@@ -88,124 +88,124 @@ name,fileindex,index,whichChild
 "Great Gerbil",12,46,2
 "Fat-tailed Gerbil",12,48,2
 "Black-tailed Gerbil",12,58,1
-"Gerbilliscus",12,58,1
+"Gerbilliscus nigricaudus",12,58,1
 "Fringe-tailed Gerbil",12,59,2
-"Gerbilliscus",12,59,2
+"Gerbilliscus robustus",12,59,2
 "Highveld Gerbil",12,60,2
-"Gerbilliscus",12,60,2
+"Gerbilliscus brantsii",12,60,2
 "Savanna Gerbil",12,61,2
-"Gerbilliscus",12,61,2
+"Gerbilliscus validus",12,61,2
 "Gorongoza Gerbil",12,63,1
-"Gerbilliscus",12,63,1
+"Gerbilliscus inclusus",12,63,1
 "Guinea Gerbil",12,64,2
-"Gerbilliscus",12,64,2
+"Gerbilliscus guineae",12,64,2
 "Phillip's Gerbil",12,65,2
-"Gerbilliscus",12,65,2
+"Gerbilliscus phillipsi",12,65,2
 "Kemp's Gerbil",12,68,1
-"Gerbilliscus",12,68,1
+"Gerbilliscus kempi",12,68,1
 "Cape Gerbil",12,69,2
-"Gerbilliscus",12,69,2
+"Gerbilliscus afra",12,69,2
 "Bushveld Gerbil",12,70,2
-"Gerbilliscus",12,70,2
+"Gerbilliscus leucogaster",12,70,2
 "Indian Gerbil",12,71,2
 "Boehm's Gerbil",12,72,2
-"Gerbilliscus",12,72,2
+"Gerbilliscus boehmi",12,72,2
 "Senegal Gerbil",12,77,1
 "Congo Gerbil",12,78,2
 "Emin's Gerbil",12,81,2
 "Lake Chad Gerbil",12,84,2
 "Petter's Gerbil",12,86,1
 "Pouched Gerbil",12,88,2
-"Geoxus",23,123,2
+"Geoxus valdivianus",23,123,2
 "Morgan's Gerbil Mouse",23,195,1
 "Monte Gerbil Mouse",23,196,2
 "Andean Gerbil Mouse",23,197,2
 "Highland Gerbil Mouse",23,198,2
 "Gerbil Leaf-eared Mouse",26,15,1
-"gerbillus",26,15,1
+"Paralomys gerbillus",26,15,1
 "Gerlepp's Mouse",28,50,1
 "Gerbe's Vole",5,30,2
-"gerbei",5,30,2
+"Microtus gerbei",5,30,2
 "Gerbil Mouse",4,213,2
-"Geomys",2,99,1
-"Geomys",2,100,2
-"Geomys",2,101,2
-"Geomys",2,103,1
-"Geomys",2,104,2
-"Geomys",2,105,2
-"Geomys",2,107,1
-"Geomys",2,108,2
-"Geomys",2,109,2
-"Geocapromys",29,111,1
-"Geocapromys",29,112,2
-"Georychus",29,150,2
-"genibarbis",80,19,2
+"Geomys texensis",2,99,1
+"Geomys bursarius",2,100,2
+"Geomys attwateri",2,101,2
+"Geomys knoxjonesi",2,103,1
+"Geomys breviceps",2,104,2
+"Geomys arenarius",2,105,2
+"Geomys tropicalis",2,107,1
+"Geomys personatus",2,108,2
+"Geomys pinetis",2,109,2
+"Geocapromys ingrahami",29,111,1
+"Geocapromys brownii",29,112,2
+"Georychus capensis",29,150,2
+"Petinomys genibarbis",80,19,2
 "Geoffroy's Ground Squirrel",77,134,2
-"getulus",77,136,2
+"Atlantoxerus getulus",77,136,2
 "Gelada Baboon",35,60,2
-"gelada",35,60,2
+"Theropithecus gelada",35,60,2
 "Gee's Golden Langur",40,24,2
-"geei",40,24,2
-"germaini",40,28,1
+"Trachypithecus geei",40,24,2
+"Trachypithecus germaini",40,28,1
 "Geoffroy's Tufted-ear Marmoset",38,10,1
-"geoffroyi",38,10,1
+"Callithrix geoffroyi",38,10,1
 "Geoffroy's Tamarin",38,55,2
-"geoffroyi",38,55,2
+"Saguinus geoffroyi",38,55,2
 "Geoffroy's Monk Saki",42,61,2
 "Geoffroy'S/peruvian Woolly Monkey",42,72,1
 "Geoffroy's Spider Monkey",42,92,2
-"geoffroyi",42,92,2
+"Ateles geoffroyi",42,92,2
 "Alaotran Gentle Lemur",36,30,2
 "Geoffroy's Dwarf Lemur",35,136,2
 "Genoways's Yellow Bat",53,163,1
-"genowaysi",53,163,1
-"geoffroyi",56,48,2
+"Rhogeessa genowaysi",53,163,1
+"Nyctophilus geoffroyi",56,48,2
 "Van Gelder's Bat",53,212,1
 "Geoffroy's Bat",73,73,2
 "Gervais's Fruit-eating Bat",67,39,2
 "Geoffroy's Tailless Bat",69,23,2
-"geoffroyi",69,23,2
-"genovensium",67,116,2
+"Anoura geoffroyi",69,23,2
+"Platalina genovensium",67,116,2
 "Gervais's Funnel-eared Bat",45,60,2
 "Geoffroy's Trident Leaf-nosed Bat",61,43,2
 "Geoffroy's Horseshoe Bat",59,60,1
-"georgianus",71,82,2
+"Taphozous georgianus",71,82,2
 "Geelvink Bay Flying Fox",57,21,2
 "Geoffroy's Rousette",70,57,1
 "Gemsbok",64,95,2
 "Gerenuk",66,36,2
-"geoffrensis",75,92,2
+"Inia geoffrensis",75,92,2
 "Gervais' Beaked Whale",75,100,1
 "Central African Large-spotted Genet",51,11,1
-"Genetta",51,11,1
+"Genetta maculata",51,11,1
 "West African Large-spotted Genet",51,12,2
-"Genetta",51,12,2
+"Genetta pardina",51,12,2
 "King Genet",51,13,2
-"Genetta",51,13,2
+"Genetta poensis",51,13,2
 "Miombo Genet",51,14,2
-"Genetta",51,14,2
+"Genetta angolensis",51,14,2
 "Ethiopian Genet",51,17,1
-"Genetta",51,17,1
+"Genetta abyssinica",51,17,1
 "Hausa Genet",51,18,2
-"Genetta",51,18,2
+"Genetta thierryi",51,18,2
 "Johnston's Genet",51,19,2
-"Genetta",51,19,2
+"Genetta johnstoni",51,19,2
 "South African Large-spotted Genet",51,21,1
-"Genetta",51,21,1
+"Genetta tigrina",51,21,1
 "Common Genet",51,22,2
-"genetta",51,22,2
-"Genetta",51,22,2
+"Genetta genetta",51,22,2
+"Genetta genetta",51,22,2
 "Servaline Genet",51,25,1
-"Genetta",51,25,1
+"Genetta servalina",51,25,1
 "Crested Genet",51,26,2
-"Genetta",51,26,2
+"Genetta cristata",51,26,2
 "Giant Genet",51,27,2
-"Genetta",51,27,2
+"Genetta victoriae",51,27,2
 "Aquatic Genet",51,35,2
-"Genetta",51,35,2
+"Genetta piscivora",51,35,2
 "Geoffroy's Cat",48,46,2
-"geoffroyi",48,46,2
+"Leopardus geoffroyi",48,46,2
 "Geata Mouse Shrew",85,39,2
-"geata",85,39,2
-"Geogale",34,33,2
-"geoffroii",84,16,1
+"Myosorex geata",85,39,2
+"Geogale aurita",34,33,2
+"Dasyurus geoffroii",84,16,1

@@ -1,59 +1,59 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,-268435445,"speciosus","Apodemus","Large Japanese Field Mouse",LC,S,-16731116
-13,-268435445,"latronum","Apodemus","Large-eared Field Mouse",LC,U,-16731116
-14,-268435446,"draco","Apodemus","South China Field Mouse",LC,S,-16731116
-16,-268435441,"argenteus","Apodemus","Small Japanese Field Mouse",LC,S,-16731116
-17,-268435441,"gurkha","Apodemus","Himalayan Wood Mouse",EN,D,-8572416
-19,-268435438,"peninsulae","Apodemus","Korean Field Mouse",LC,S,-16731116
-20,-268435438,"semotus","Apodemus","Taiwan Field Mouse",LC,U,-16731116
-22,-268435435,"chevrieri","Apodemus","Chevrier's Field Mouse",LC,U,-16731116
-23,-268435435,"agrarius","Apodemus","Striped Field Mouse",LC,S,-16731116
-29,-268435428,"sylvaticus","Apodemus","Long-tailed Field Mouse",LC,S,-16731116
-30,-268435428,"alpicola","Apodemus","Alpine Field Mouse",LC,U,-16731116
-31,-268435429,"rusiges","Apodemus","Kashmir Field Mouse",LC,U,-16731116
-32,-268435430,"flavicollis","Apodemus","Yellow-necked Field Mouse",LC,S,-16731116
-33,-268435431,"hyrcanicus","Apodemus","Hyrcanian Field Mouse",NT,D,-12486656
-37,-268435420,"pallipes","Apodemus","Himalayan Field Mouse",LC,U,-16731116
-38,-268435420,"witherbyi","Apodemus","Steppe Field Mouse",LC,U,-16731116
-39,-268435421,"uralensis","Apodemus","Herb Field Mouse",LC,S,-16731116
-40,-268435422,"ponticus","Apodemus","Black Sea Field Mouse",LC,U,-16731116
-42,-268435415,"epimelas","Apodemus","Western Broad-toothed Field Mouse",LC,S,-16731116
-43,-268435415,"mystacinus","Apodemus","Broad-toothed Field Mouse",LC,S,-16731116
-45,-268435412,"muenninki","Tokudaia","Okinawa Spiny Rat",CR,D,-3014646
-46,-268435412,"osimensis","Tokudaia","Amami Spiny Rat",EN,D,-8572416
-52,-268435405,"niloticus","Arvicanthis","African Grass Rat",LC,U,-16731116
-53,-268435405,"rufinus","Arvicanthis","Guinean Arvicanthis",LC,U,-16731116
-54,-268435406,"ansorgei","Arvicanthis","Sudanian Arvicanthis",LC,U,-16731116
-55,-268435407,"neumanni","Arvicanthis","Somali Grass Rat",LC,U,-16731116
-57,-268435400,"nairobae","Arvicanthis","Nairobi Grass Rat",LC,S,-16731116
-58,-268435400,"blicki","Arvicanthis","Blick's Grass Rat",NT,U,-12486656
-59,-268435409,"abyssinicus","Arvicanthis","Abyssinian Grass Rat",LC,S,-16731116
-63,-268435394,"mackenziei","Berylmys","Kenneth's White-toothed Rat",DD,U,-11513776
-64,-268435394,"manipulus","Berylmys","Manipur White-toothed Rat",DD,U,-11513776
-65,-268435395,"berdmorei","Berylmys","Berdmore's Berylmy",LC,S,-16731116
-66,-268435396,"bowersi","Berylmys","Bower's White-toothed Rat",LC,D,-16731116
-72,-268435385,"bengalensis","Bandicota","Lesser Bandicoot Rat",LC,I,-16731116
-73,-268435385,"indica","Bandicota","Greater Bandicoot Rat",LC,I,-16731116
-74,-268435386,"savilei","Bandicota","Savile's Bandicoot Rat",LC,S,-16731116
-75,-268435387,"sodyi","Kadarsanomys","Javan Bamboo Rat",VU,D,-11184866
-77,-268435380,"pallidus","Phloeomys","Northern Luzon Phloeomys",LC,S,-16731116
-78,-268435380,"cumingi","Phloeomys","Southern Luzon Phloeomys",VU,D,-11184866
-79,-268435389,"mindorensis","Anonymomys","Mindoro Forest Anonymomys",DD,U,-11513776
-87,-268435370,"erythroleucus","Mastomys","Guinea Multimammate Mouse",LC,S,-16731116
-88,-268435370,"shortridgei","Mastomys","Shortridge's Mastomys",LC,S,-16731116
-89,-268435371,"kollmannspergeri","Mastomys","Kollmannsperger's Mastomys",LC,S,-16731116
-90,-268435372,"angolensis","Myomyscus","Angolan Multimammate Mouse",LC,S,-16731116
-93,-268435364,"huberti","Mastomys","Hubert's Mastomys",LC,I,-16731116
-94,-268435364,"pernanus","Mastomys","Dwarf Mastomys",DD,U,-11513776
-95,-268435365,"coucha","Mastomys","Southern African Mastomys",LC,S,-16731116
-96,-268435374,"natalensis","Mastomys","Natal Mastomys",LC,S,-16731116
-101,-268435356,"carillus","Hylomyscus","Angolan Hylomyscus",LC,U,-16731116
-102,-268435356,"stella","Hylomyscus","Stella Hylomyscus",LC,S,-16731116
-104,-268435353,"grandis","Hylomyscus","Mt Oku Hylomyscus",CR,D,-3014646
-105,-268435353,"aeta","Hylomyscus","Beaded Hylomyscus",LC,S,-16731116
-108,-268435349,"alleni","Hylomyscus","Allen's Hylomyscus",LC,S,-16731116
-109,-268435349,"baeri","Hylomyscus","Baer's Hylomyscus",EN,D,-8572416
-110,-268435350,"denniae","Hylomyscus","Montane Hylomyscus",LC,S,-16731116
-111,-268435359,"parvus","Hylomyscus","Lesser Hylomyscus",LC,S,-16731116
-113,-268435344,"pumilio","Rhabdomys","Four-striped Grass Mouse",LC,S,-16731116
-114,-268435344,"dilectus","Rhabdomys","",NE,U,-16777216
+12,11,"speciosus","Apodemus","Large Japanese Field Mouse",LC,S,-16731116
+13,11,"latronum","Apodemus","Large-eared Field Mouse",LC,U,-16731116
+14,10,"draco","Apodemus","South China Field Mouse",LC,S,-16731116
+16,15,"argenteus","Apodemus","Small Japanese Field Mouse",LC,S,-16731116
+17,15,"gurkha","Apodemus","Himalayan Wood Mouse",EN,D,-8572416
+19,18,"peninsulae","Apodemus","Korean Field Mouse",LC,S,-16731116
+20,18,"semotus","Apodemus","Taiwan Field Mouse",LC,U,-16731116
+22,21,"chevrieri","Apodemus","Chevrier's Field Mouse",LC,U,-16731116
+23,21,"agrarius","Apodemus","Striped Field Mouse",LC,S,-16731116
+29,28,"sylvaticus","Apodemus","Long-tailed Field Mouse",LC,S,-16731116
+30,28,"alpicola","Apodemus","Alpine Field Mouse",LC,U,-16731116
+31,27,"rusiges","Apodemus","Kashmir Field Mouse",LC,U,-16731116
+32,26,"flavicollis","Apodemus","Yellow-necked Field Mouse",LC,S,-16731116
+33,25,"hyrcanicus","Apodemus","Hyrcanian Field Mouse",NT,D,-12486656
+37,36,"pallipes","Apodemus","Himalayan Field Mouse",LC,U,-16731116
+38,36,"witherbyi","Apodemus","Steppe Field Mouse",LC,U,-16731116
+39,35,"uralensis","Apodemus","Herb Field Mouse",LC,S,-16731116
+40,34,"ponticus","Apodemus","Black Sea Field Mouse",LC,U,-16731116
+42,41,"epimelas","Apodemus","Western Broad-toothed Field Mouse",LC,S,-16731116
+43,41,"mystacinus","Apodemus","Broad-toothed Field Mouse",LC,S,-16731116
+45,44,"muenninki","Tokudaia","Okinawa Spiny Rat",CR,D,-3014646
+46,44,"osimensis","Tokudaia","Amami Spiny Rat",EN,D,-8572416
+52,51,"niloticus","Arvicanthis","African Grass Rat",LC,U,-16731116
+53,51,"rufinus","Arvicanthis","Guinean Arvicanthis",LC,U,-16731116
+54,50,"ansorgei","Arvicanthis","Sudanian Arvicanthis",LC,U,-16731116
+55,49,"neumanni","Arvicanthis","Somali Grass Rat",LC,U,-16731116
+57,56,"nairobae","Arvicanthis","Nairobi Grass Rat",LC,S,-16731116
+58,56,"blicki","Arvicanthis","Blick's Grass Rat",NT,U,-12486656
+59,47,"abyssinicus","Arvicanthis","Abyssinian Grass Rat",LC,S,-16731116
+63,62,"mackenziei","Berylmys","Kenneth's White-toothed Rat",DD,U,-11513776
+64,62,"manipulus","Berylmys","Manipur White-toothed Rat",DD,U,-11513776
+65,61,"berdmorei","Berylmys","Berdmore's Berylmy",LC,S,-16731116
+66,60,"bowersi","Berylmys","Bower's White-toothed Rat",LC,D,-16731116
+72,71,"bengalensis","Bandicota","Lesser Bandicoot Rat",LC,I,-16731116
+73,71,"indica","Bandicota","Greater Bandicoot Rat",LC,I,-16731116
+74,70,"savilei","Bandicota","Savile's Bandicoot Rat",LC,S,-16731116
+75,69,"sodyi","Kadarsanomys","Javan Bamboo Rat",VU,D,-11184866
+77,76,"pallidus","Phloeomys","Northern Luzon Phloeomys",LC,S,-16731116
+78,76,"cumingi","Phloeomys","Southern Luzon Phloeomys",VU,D,-11184866
+79,67,"mindorensis","Anonymomys","Mindoro Forest Anonymomys",DD,U,-11513776
+87,86,"erythroleucus","Mastomys","Guinea Multimammate Mouse",LC,S,-16731116
+88,86,"shortridgei","Mastomys","Shortridge's Mastomys",LC,S,-16731116
+89,85,"kollmannspergeri","Mastomys","Kollmannsperger's Mastomys",LC,S,-16731116
+90,84,"angolensis","Myomyscus","Angolan Multimammate Mouse",LC,S,-16731116
+93,92,"huberti","Mastomys","Hubert's Mastomys",LC,I,-16731116
+94,92,"pernanus","Mastomys","Dwarf Mastomys",DD,U,-11513776
+95,91,"coucha","Mastomys","Southern African Mastomys",LC,S,-16731116
+96,82,"natalensis","Mastomys","Natal Mastomys",LC,S,-16731116
+101,100,"carillus","Hylomyscus","Angolan Hylomyscus",LC,U,-16731116
+102,100,"stella","Hylomyscus","Stella Hylomyscus",LC,S,-16731116
+104,103,"grandis","Hylomyscus","Mt Oku Hylomyscus",CR,D,-3014646
+105,103,"aeta","Hylomyscus","Beaded Hylomyscus",LC,S,-16731116
+108,107,"alleni","Hylomyscus","Allen's Hylomyscus",LC,S,-16731116
+109,107,"baeri","Hylomyscus","Baer's Hylomyscus",EN,D,-8572416
+110,106,"denniae","Hylomyscus","Montane Hylomyscus",LC,S,-16731116
+111,97,"parvus","Hylomyscus","Lesser Hylomyscus",LC,S,-16731116
+113,112,"pumilio","Rhabdomys","Four-striped Grass Mouse",LC,S,-16731116
+114,112,"dilectus","Rhabdomys","",NE,U,-16777216

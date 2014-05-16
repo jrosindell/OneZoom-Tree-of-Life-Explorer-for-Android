@@ -1,58 +1,58 @@
 name,fileindex,index,whichChild
 "Seram Long-tailed Melomys",13,47,2
 "Dusky Seram Melomys",13,52,2
-"sevia",15,33,2
+"Abeomelomys sevia",15,33,2
 "Seurat's Spiny Mouse",11,17,2
-"seurati",11,17,2
+"Acomys seurati",11,17,2
 "Setzer's Mouse",11,119,1
-"setzeri",11,119,1
-"setulosus",11,135,2
+"Mus setzeri",11,119,1
+"Mus setulosus",11,135,2
 "Selinda Veld Rat",11,201,2
 "Spiny Seram Island Rat",10,91,1
 "Senegal Lemniscomys",9,144,2
 "Seram Island Mountain Rat",9,172,2
-"semotus",19,20,2
+"Apodemus semotus",19,20,2
 "Black Sea Field Mouse",19,40,2
-"setzeri",8,157,2
-"Sekeetamys",12,42,2
+"Gerbillurus setzeri",8,157,2
+"Sekeetamys calurus",12,42,2
 "Senegal Gerbil",12,77,1
 "Serrado Do Mar Grass Mouse",23,49,1
-"serrensis",23,49,1
-"sejugis",25,50,2
-"semicanus",7,65,1
+"Akodon serrensis",23,49,1
+"Peromyscus sejugis",25,50,2
+"Alticola semicanus",7,65,1
 "Severtzov's Birch Mouse",3,23,1
-"severtzovi",3,23,1
-"setchuanus",3,39,2
-"severtzovi",2,61,1
-"semivillosus",30,27,2
-"setosus",29,25,2
-"semispinosus",29,71,1
-"sericeus",32,42,2
-"setosus",80,9,2
+"Sicista severtzovi",3,23,1
+"Eozapus setchuanus",3,39,2
+"Allactaga severtzovi",2,61,1
+"Echimys semivillosus",30,27,2
+"Trinomys setosus",29,25,2
+"Proechimys semispinosus",29,71,1
+"Ctenomys sericeus",32,42,2
+"Petinomys setosus",80,9,2
 "Selangor Pygmy Flying Squirrel",80,32,1
 "Secretive Dwarf Squirrel",77,58,1
-"senex",83,30,2
+"Tamias senex",83,30,2
 "Setzer's Mouse-tailed Dormouse",77,189,2
-"setzeri",77,189,2
-"Selevinia",77,191,2
-"Semnopithecus",40,59,1
-"Semnopithecus",40,60,2
-"Semnopithecus",40,61,2
-"Semnopithecus",40,63,1
-"Semnopithecus",40,64,2
-"Semnopithecus",40,66,1
-"Semnopithecus",40,67,2
-"seniculus",42,107,1
-"septentrionalis",36,42,1
-"senegalensis",39,21,2
+"Myomimus setzeri",77,189,2
+"Selevinia betpakdalaensis",77,191,2
+"Semnopithecus schistaceus",40,59,1
+"Semnopithecus hector",40,60,2
+"Semnopithecus entellus",40,61,2
+"Semnopithecus dussumieri",40,63,1
+"Semnopithecus hypoleucos",40,64,2
+"Semnopithecus priam",40,66,1
+"Semnopithecus ajax",40,67,2
+"Alouatta seniculus",42,107,1
+"Lepilemur septentrionalis",36,42,1
+"Galago senegalensis",39,21,2
 "False Serotine Bat",53,186,1
 "Gaskell's False Serotine",54,76,1
 "Large False Serotine",54,77,2
 "Seminole Bat",56,21,2
-"seminolus",56,21,2
+"Lasiurus seminolus",56,21,2
 "Malagasy Serotine",56,69,1
-"seabrae",73,28,2
-"septentrionalis",73,79,1
+"Cistugo seabrae",73,28,2
+"Myotis septentrionalis",73,79,1
 "Diminutive Serotine",73,132,1
 "Harmles Serotine",73,133,2
 "Botta's Serotine",73,134,2
@@ -62,24 +62,24 @@ name,fileindex,index,whichChild
 "Little Black Serotinelittle Black Serotine",73,143,1
 "Chiriquinan Serotine",73,144,2
 "Serotine",73,152,2
-"serotinus",73,152,2
+"Eptesicus serotinus",73,152,2
 "Surat Serotine",73,153,2
 "Bobrinski's Serotine",73,161,2
 "Sind Serotine Bat",73,162,2
-"secundus",62,51,2
-"setiger",62,193,2
-"senex",67,59,2
+"Otomops secundus",62,51,2
+"Platymops setiger",62,193,2
+"Centurio senex",67,59,2
 "Seba's Short-tailed Bat",67,88,1
-"sezekorni",67,124,2
+"Erophylla sezekorni",67,124,2
 "Semon's Leaf-nosed Bat",61,33,2
-"semoni",61,33,2
-"sedulus",59,19,2
+"Hipposideros semoni",61,33,2
+"Rhinolophus sedulus",59,19,2
 "Seychelles Sheath-tailed Bat",71,47,1
-"seychellensis",71,47,1
-"semicaudata",71,52,1
+"Coleura seychellensis",71,47,1
+"Emballonura semicaudata",71,52,1
 "Seram Flying Fox",57,32,2
 "Seychelles Flying Fox",57,38,2
-"seychellensis",57,38,2
+"Pteropus seychellensis",57,38,2
 "Chinese Serow",64,54,1
 "Serow",64,55,2
 "Himalayan Serow",64,56,2
@@ -89,7 +89,7 @@ name,fileindex,index,whichChild
 "Sei Whale",75,153,2
 "Sea Mink",49,41,2
 "Sea Otter",52,23,2
-"semistriatus",52,42,2
+"Conepatus semistriatus",52,42,2
 "Juan Fernandez Fur Seal",47,44,1
 "South American Fur Seal",47,45,2
 "Galapagos Fur Seal",47,47,1
@@ -124,29 +124,29 @@ name,fileindex,index,whichChild
 "Southern Elephant Seal",47,100,2
 "Hawaiian Monk Seal",47,102,1
 "Mediterranean Monk Seal",47,103,2
-"sechurae",47,144,2
+"Lycalopex sechurae",47,144,2
 "Selous' Mongoose",50,31,1
-"selousi",50,31,1
-"semitorquatus",50,51,1
+"Paracynictis selousi",50,31,1
+"Herpestes semitorquatus",50,51,1
 "Servaline Genet",51,25,1
-"servalina",51,25,1
+"Genetta servalina",51,25,1
 "Serval",48,66,2
-"serval",48,66,2
+"Leptailurus serval",48,66,2
 "Serezkaya Shrew",88,140,1
-"serezkyensis",88,140,1
-"selina",88,162,2
+"Crocidura serezkyensis",88,140,1
+"Crocidura selina",88,162,2
 "Senkaku Mole",85,137,2
-"sexcinctus",0,33,1
-"septemcinctus",0,41,2
-"semispinosus",34,44,1
-"setosus",34,49,2
-"Setifer",34,49,2
-"septentrionalis",34,57,1
+"Euphractus sexcinctus",0,33,1
+"Dasypus septemcinctus",0,41,2
+"Hemicentetes semispinosus",34,44,1
+"Setifer setosus",34,49,2
+"Setifer setosus",34,49,2
+"Amblysomus septentrionalis",34,57,1
 "Four-toed Sengi",0,92,2
 "Checkered Sengi",0,97,2
-"senegalensis",0,111,1
-"Setonix",43,80,2
+"Trichechus senegalensis",0,111,1
+"Setonix brachyurus",43,80,2
 "Seri's Tree Kangaroo",43,99,2
-"sericeus",44,16,2
+"Phalanger sericeus",44,16,2
 "Seram Bandicoot",0,143,2
 "Sepia Short-tailed Opossum",1,112,2

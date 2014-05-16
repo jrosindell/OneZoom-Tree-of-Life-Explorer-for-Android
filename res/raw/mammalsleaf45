@@ -1,84 +1,84 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,-268435443,"shortridgei","Miniopterus","Shortridge's Long-fingered Bat",DD,U,-11513776
-15,-268435443,"paululus","Miniopterus","Philippine Long-fingered Bat",DD,U,-11513776
-16,-268435444,"australis","Miniopterus","Little Long-fingered Bat",LC,S,-16731116
-18,-268435439,"manavi","Miniopterus","Manavil Long-fingered Bat",LC,U,-16731116
-19,-268435439,"minor","Miniopterus","Least Long-fingered Bat",DD,U,-11513776
-21,-268435436,"macrocneme","Miniopterus","Small Melanesian Bent-winged Bat",DD,U,-11513776
-22,-268435436,"pusillus","Miniopterus","Small Long-fingered Bat",LC,U,-16731116
-25,-268435432,"fuscus","Miniopterus","Southeast Asian Long-fingered Bat",EN,D,-8572416
-26,-268435432,"medius","Miniopterus","Medium Bent-winged Bat",LC,U,-16731116
-27,-268435433,"fraterculus","Miniopterus","Lesser Long-fingered Bat",LC,U,-16731116
-32,-268435425,"natalensis","Miniopterus","Natal Long-fingered Bat",LC,U,-16731116
-33,-268435425,"majori","Miniopterus","Major's Long-fingered Bat",LC,U,-16731116
-34,-268435426,"schreibersii","Miniopterus","Common Bentwing Bat",NT,D,-12486656
-36,-268435421,"robustior","Miniopterus","Loyalty Bent-winged Bat",EN,U,-8572416
-37,-268435421,"tristis","Miniopterus","Great Long-fingered Bat",LC,U,-16731116
-40,-268435417,"inflatus","Miniopterus","Greater Long-fingered Bat",LC,U,-16731116
-41,-268435417,"africanus","Miniopterus","",NE,U,-16777216
-42,-268435418,"magnater","Miniopterus","Large Bent-winged Bat",LC,U,-16731116
-52,-268435405,"major","Natalus","Hispaniolan Greater Funnel-eared Bat",NT,D,-12486656
-53,-268435405,"primus","Natalus","Cuban Greater Funnel-eared Bat",CR,D,-3014646
-54,-268435406,"stramineus","Natalus","Mexican Funnel-eared Bat",LC,U,-16731116
-55,-268435407,"jamaicensis","Natalus","Jamaican Greater Funnel-eared Bat",CR,D,-3014646
-56,-268435408,"tumidirostris","Natalus","Trinidadian Funnel-eared Bat",LC,U,-16731116
-58,-268435399,"tumidifrons","Chilonatalus","Bahaman Funnel-eared Bat",NT,D,-12486656
-59,-268435399,"micropus","Chilonatalus","Cuban Funnel-eared Bat",NT,D,-12486656
-60,-268435410,"lepidus","Nyctiellus","Gervais's Funnel-eared Bat",LC,U,-16731116
-62,-268435395,"schnablii","Amorphochilus","Smokey Bat",EN,D,-8572416
-63,-268435395,"horrens","Furipterus","Thumbless Bat",LC,U,-16731116
-65,-268435392,"discifera","Thyroptera","Peter's Disk-winged Bat",LC,U,-16731116
-66,-268435392,"tricolor","Thyroptera","Spix's Disk-winged Bat",LC,U,-16731116
-67,-268435453,"aurita","Myzopoda","Eastern Sucker-footed Bat",LC,U,-16731116
-74,-268435383,"spasma","Megaderma","Lesser False Vampire",LC,U,-16731116
-75,-268435383,"lyra","Megaderma","Greater False Vampire",LC,U,-16731116
-76,-268435384,"gigas","Macroderma","Ghost Bat",VU,D,-11184866
-78,-268435379,"cor","Cardioderma","Heart-nosed Bat",LC,U,-16731116
-79,-268435379,"frons","Lavia","Yellow-winged Bat",LC,S,-16731116
-84,-268435373,"macinnesi","Rhinopoma","Macinnes's Mouse-tailed Bat",DD,U,-11513776
-85,-268435373,"hardwickii","Rhinopoma","Lesser Mouse-tailed Bat",LC,S,-16731116
-86,-268435374,"microphyllum","Rhinopoma","Greater Mouse-tailed Bat",LC,S,-16731116
-87,-268435375,"muscatellum","Rhinopoma","Small Mouse-tailed Bat",LC,U,-16731116
-88,-268435376,"thonglongyai","Craseonycteris","Hog-nosed Bat",VU,D,-11184866
-94,-268435363,"celebensis","Harpyionycteris","Sulawesi Harpy Fruit Bat",VU,D,-11184866
-95,-268435363,"whiteheadi","Harpyionycteris","Harpy Fruit Bat",LC,S,-16731116
-101,-268435356,"melanops","Melonycteris","Black-bellied Blossom Bat",LC,S,-16731116
-102,-268435356,"woodfordi","Melonycteris","Woodford's Blossom Bat",LC,S,-16731116
-104,-268435353,"neocaledonica","Notopteris","New Caledonia Blossom Bat",VU,U,-11184866
-105,-268435353,"macdonaldi","Notopteris","Fijian Blossom Bat",VU,D,-11184866
-108,-268435349,"carolinae","Syconycteris","Halmaheran Blossom Bat",VU,D,-11184866
-109,-268435349,"hobbit","Syconycteris","Moss-forest Blossom Bat",VU,D,-11184866
-110,-268435350,"australis","Syconycteris","Common Blossom Bat",LC,S,-16731116
-112,-268435345,"minimus","Macroglossus","Dagger-toothed Long-nosed Fruit Bat",LC,S,-16731116
-113,-268435345,"sobrinus","Macroglossus","Hill Long-tongued Fruit Bat",LC,S,-16731116
-116,-268435341,"robusta","Eonycteris","Philippine Dawn Bat",NT,D,-12486656
-117,-268435341,"major","Eonycteris","Greater Dawn Bat",DD,U,-11513776
-118,-268435342,"spelaea","Eonycteris","Dawn Bat",LC,U,-16731116
-126,-268435331,"bactrianus","Camelus","Bactrian Camel",NE,U,-16777216
-127,-268435331,"dromedarius","Camelus","Dromedary",NE,U,-16777216
-129,-268435328,"vicugna","Vicugna","Vicuna",LC,I,-16731116
-130,-268435328,"glama","Lama","Llama",NE,U,-16777216
-136,-268435321,"unicornis","Rhinoceros","Indian Rhinoceros",VU,I,-11184866
-137,-268435321,"sondaicus","Rhinoceros","Javan Rhinoceros",CR,U,-3014646
-139,-268435318,"simum","Ceratotherium","White Rhinoceros",NT,I,-12486656
-140,-268435318,"bicornis","Diceros","Black Rhinoceros",CR,I,-3014646
-141,-268435323,"sumatrensis","Dicerorhinus","Sumatran Rhinoceros",CR,D,-3014646
-145,-268435312,"pinchaque","Tapirus","Mountain Tapir",EN,D,-8572416
-146,-268435312,"terrestris","Tapirus","Lowland Tapir",VU,D,-11184866
-147,-268435313,"bairdii","Tapirus","Baird's Tapir",EN,D,-8572416
-148,-268435314,"indicus","Tapirus","Asian Tapir",EN,D,-8572416
-154,-268435303,"burchellii","Equus","Burchell's Zebra",NE,U,-16777216
-155,-268435303,"zebra","Equus","Mountain Zebra",VU,U,-11184866
-156,-268435304,"grevyi","Equus","Grevy's Zebra",EN,S,-8572416
-158,-268435299,"asinus","Equus","Donkey",NE,U,-16777216
-159,-268435299,"kiang","Equus","Kiang",LC,S,-16731116
-160,-268435306,"hemionus","Equus","Asiatic Wild Ass",EN,D,-8572416
-161,-268435307,"caballus","Equus","Horse",NE,U,-16777216
-166,-268435291,"crassicaudata","Manis","Indian Pangolin",NT,D,-12486656
-167,-268435291,"pentadactyla","Manis","Chinese Pangolin",EN,D,-8572416
-169,-268435288,"culionensis","Manis","Philippine Pangolin",NT,D,-12486656
-170,-268435288,"javanica","Manis","Sunda Pangolin",EN,D,-8572416
-173,-268435284,"tetradactyla","Manis","",NE,U,-16777216
-174,-268435284,"gigantea","Manis","",NE,U,-16777216
-176,-268435281,"temminckii","Manis","",NE,U,-16777216
-177,-268435281,"tricuspis","Manis","",NE,U,-16777216
+14,13,"shortridgei","Miniopterus","Shortridge's Long-fingered Bat",DD,U,-11513776
+15,13,"paululus","Miniopterus","Philippine Long-fingered Bat",DD,U,-11513776
+16,12,"australis","Miniopterus","Little Long-fingered Bat",LC,S,-16731116
+18,17,"manavi","Miniopterus","Manavil Long-fingered Bat",LC,U,-16731116
+19,17,"minor","Miniopterus","Least Long-fingered Bat",DD,U,-11513776
+21,20,"macrocneme","Miniopterus","Small Melanesian Bent-winged Bat",DD,U,-11513776
+22,20,"pusillus","Miniopterus","Small Long-fingered Bat",LC,U,-16731116
+25,24,"fuscus","Miniopterus","Southeast Asian Long-fingered Bat",EN,D,-8572416
+26,24,"medius","Miniopterus","Medium Bent-winged Bat",LC,U,-16731116
+27,23,"fraterculus","Miniopterus","Lesser Long-fingered Bat",LC,U,-16731116
+32,31,"natalensis","Miniopterus","Natal Long-fingered Bat",LC,U,-16731116
+33,31,"majori","Miniopterus","Major's Long-fingered Bat",LC,U,-16731116
+34,30,"schreibersii","Miniopterus","Common Bentwing Bat",NT,D,-12486656
+36,35,"robustior","Miniopterus","Loyalty Bent-winged Bat",EN,U,-8572416
+37,35,"tristis","Miniopterus","Great Long-fingered Bat",LC,U,-16731116
+40,39,"inflatus","Miniopterus","Greater Long-fingered Bat",LC,U,-16731116
+41,39,"africanus","Miniopterus","",NE,U,-16777216
+42,38,"magnater","Miniopterus","Large Bent-winged Bat",LC,U,-16731116
+52,51,"major","Natalus","Hispaniolan Greater Funnel-eared Bat",NT,D,-12486656
+53,51,"primus","Natalus","Cuban Greater Funnel-eared Bat",CR,D,-3014646
+54,50,"stramineus","Natalus","Mexican Funnel-eared Bat",LC,U,-16731116
+55,49,"jamaicensis","Natalus","Jamaican Greater Funnel-eared Bat",CR,D,-3014646
+56,48,"tumidirostris","Natalus","Trinidadian Funnel-eared Bat",LC,U,-16731116
+58,57,"tumidifrons","Chilonatalus","Bahaman Funnel-eared Bat",NT,D,-12486656
+59,57,"micropus","Chilonatalus","Cuban Funnel-eared Bat",NT,D,-12486656
+60,46,"lepidus","Nyctiellus","Gervais's Funnel-eared Bat",LC,U,-16731116
+62,61,"schnablii","Amorphochilus","Smokey Bat",EN,D,-8572416
+63,61,"horrens","Furipterus","Thumbless Bat",LC,U,-16731116
+65,64,"discifera","Thyroptera","Peter's Disk-winged Bat",LC,U,-16731116
+66,64,"tricolor","Thyroptera","Spix's Disk-winged Bat",LC,U,-16731116
+67,3,"aurita","Myzopoda","Eastern Sucker-footed Bat",LC,U,-16731116
+74,73,"spasma","Megaderma","Lesser False Vampire",LC,U,-16731116
+75,73,"lyra","Megaderma","Greater False Vampire",LC,U,-16731116
+76,72,"gigas","Macroderma","Ghost Bat",VU,D,-11184866
+78,77,"cor","Cardioderma","Heart-nosed Bat",LC,U,-16731116
+79,77,"frons","Lavia","Yellow-winged Bat",LC,S,-16731116
+84,83,"macinnesi","Rhinopoma","Macinnes's Mouse-tailed Bat",DD,U,-11513776
+85,83,"hardwickii","Rhinopoma","Lesser Mouse-tailed Bat",LC,S,-16731116
+86,82,"microphyllum","Rhinopoma","Greater Mouse-tailed Bat",LC,S,-16731116
+87,81,"muscatellum","Rhinopoma","Small Mouse-tailed Bat",LC,U,-16731116
+88,80,"thonglongyai","Craseonycteris","Hog-nosed Bat",VU,D,-11184866
+94,93,"celebensis","Harpyionycteris","Sulawesi Harpy Fruit Bat",VU,D,-11184866
+95,93,"whiteheadi","Harpyionycteris","Harpy Fruit Bat",LC,S,-16731116
+101,100,"melanops","Melonycteris","Black-bellied Blossom Bat",LC,S,-16731116
+102,100,"woodfordi","Melonycteris","Woodford's Blossom Bat",LC,S,-16731116
+104,103,"neocaledonica","Notopteris","New Caledonia Blossom Bat",VU,U,-11184866
+105,103,"macdonaldi","Notopteris","Fijian Blossom Bat",VU,D,-11184866
+108,107,"carolinae","Syconycteris","Halmaheran Blossom Bat",VU,D,-11184866
+109,107,"hobbit","Syconycteris","Moss-forest Blossom Bat",VU,D,-11184866
+110,106,"australis","Syconycteris","Common Blossom Bat",LC,S,-16731116
+112,111,"minimus","Macroglossus","Dagger-toothed Long-nosed Fruit Bat",LC,S,-16731116
+113,111,"sobrinus","Macroglossus","Hill Long-tongued Fruit Bat",LC,S,-16731116
+116,115,"robusta","Eonycteris","Philippine Dawn Bat",NT,D,-12486656
+117,115,"major","Eonycteris","Greater Dawn Bat",DD,U,-11513776
+118,114,"spelaea","Eonycteris","Dawn Bat",LC,U,-16731116
+126,125,"bactrianus","Camelus","Bactrian Camel",NE,U,-16777216
+127,125,"dromedarius","Camelus","Dromedary",NE,U,-16777216
+129,128,"vicugna","Vicugna","Vicuna",LC,I,-16731116
+130,128,"glama","Lama","Llama",NE,U,-16777216
+136,135,"unicornis","Rhinoceros","Indian Rhinoceros",VU,I,-11184866
+137,135,"sondaicus","Rhinoceros","Javan Rhinoceros",CR,U,-3014646
+139,138,"simum","Ceratotherium","White Rhinoceros",NT,I,-12486656
+140,138,"bicornis","Diceros","Black Rhinoceros",CR,I,-3014646
+141,133,"sumatrensis","Dicerorhinus","Sumatran Rhinoceros",CR,D,-3014646
+145,144,"pinchaque","Tapirus","Mountain Tapir",EN,D,-8572416
+146,144,"terrestris","Tapirus","Lowland Tapir",VU,D,-11184866
+147,143,"bairdii","Tapirus","Baird's Tapir",EN,D,-8572416
+148,142,"indicus","Tapirus","Asian Tapir",EN,D,-8572416
+154,153,"burchellii","Equus","Burchell's Zebra",NE,U,-16777216
+155,153,"zebra","Equus","Mountain Zebra",VU,U,-11184866
+156,152,"grevyi","Equus","Grevy's Zebra",EN,S,-8572416
+158,157,"asinus","Equus","Donkey",NE,U,-16777216
+159,157,"kiang","Equus","Kiang",LC,S,-16731116
+160,150,"hemionus","Equus","Asiatic Wild Ass",EN,D,-8572416
+161,149,"caballus","Equus","Horse",NE,U,-16777216
+166,165,"crassicaudata","Manis","Indian Pangolin",NT,D,-12486656
+167,165,"pentadactyla","Manis","Chinese Pangolin",EN,D,-8572416
+169,168,"culionensis","Manis","Philippine Pangolin",NT,D,-12486656
+170,168,"javanica","Manis","Sunda Pangolin",EN,D,-8572416
+173,172,"tetradactyla","Manis","",NE,U,-16777216
+174,172,"gigantea","Manis","",NE,U,-16777216
+176,175,"temminckii","Manis","",NE,U,-16777216
+177,175,"tricuspis","Manis","",NE,U,-16777216

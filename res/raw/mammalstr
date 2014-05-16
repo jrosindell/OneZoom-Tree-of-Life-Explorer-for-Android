@@ -5,7 +5,7 @@ name,fileindex,index,whichChild
 "Broad-headed Tree Mouse",15,65,1
 "Forbes's Tree Mouse",15,66,2
 "Lesser Tree Mouse",15,67,2
-"triton",11,122,1
+"Mus triton",11,122,1
 "Sri Lankan Highland Tree Mouse",9,23,2
 "Koopman's Pencil-tailed Tree Mouse",9,80,1
 "Greater Pencil-tailed Tree Mouse",9,81,2
@@ -16,35 +16,35 @@ name,fileindex,index,whichChild
 "Chestnut Tree Mouse",9,117,2
 "Gray-bellied Tree Mouse",9,119,1
 "Champion's Tree Mouse",9,120,2
-"trivirgatus",17,10,2
+"Hybomys trivirgatus",17,10,2
 "Luzon Tryphomys",17,38,2
-"Tryphomys",17,38,2
+"Tryphomys adustus",17,38,2
 "Black-tailed Tree Rat",8,60,1
 "Tropical Vlei Rat",14,33,2
-"tropicalis",14,33,2
+"Otomys tropicalis",14,33,2
 "Ryukyus Islands Tree Rat",14,46,2
 "Tristram's Jird",12,16,2
-"tristrami",12,16,2
+"Meriones tristrami",12,16,2
 "Dollman's Tree Mouse",2,47,2
-"trinitatis",27,99,1
+"Oecomys trinitatis",27,99,1
 "Trinidad Water Rat",28,42,2
-"trichotis",21,103,2
+"Chibchanomys trichotis",21,103,2
 "Transvolcanic Deermouse",25,62,1
 "Tres Marias Deer Mouse",25,97,2
-"truei",25,109,2
-"transcaspicus",5,80,2
+"Peromyscus truei",25,109,2
+"Microtus transcaspicus",5,80,2
 "Red Tree Vole",6,18,1
 "California Red Tree Mouse",6,20,2
-"trimucronatus",6,42,2
+"Lemmus trimucronatus",6,42,2
 "Transbaikal Zokor",4,59,1
 "White-tailed Tree Rat",4,83,1
 "Hairy-tailed Tree Rat",4,84,2
 "Sort-furred Tree Mouse",4,101,2
-"triton",4,135,2
-"trinotatus",3,34,1
-"trichopus",20,64,2
+"Tscherskia triton",4,135,2
+"Zapus trinotatus",3,34,1
+"Zygogeomys trichopus",20,64,2
 "Tropical Pocket Gopher",2,107,1
-"tropicalis",2,107,1
+"Geomys tropicalis",2,107,1
 "Golden Atlantic Tree Rat",30,9,1
 "Pallid Atlantic Tree Rat",30,11,2
 "Drab Atlantic Tree Rat",30,13,1
@@ -63,51 +63,51 @@ name,fileindex,index,whichChild
 "Spiny Tree Rat",29,19,2
 "Dark Armored Tree-rat",29,21,1
 "Para Spiny Tree Rat",29,22,2
-"Trinomys",29,25,2
-"Trinomys",29,32,1
-"Trinomys",29,33,2
-"Trinomys",29,34,2
-"Trinomys",29,50,2
+"Trinomys setosus",29,25,2
+"Trinomys gratiosus",29,32,1
+"Trinomys paratus",29,33,2
+"Trinomys iheringi",29,34,2
+"Trinomys dimidiatus",29,50,2
 "Tuft-tailed Spiny Tree Rat",29,62,1
-"Trinomys",29,63,2
-"Trinomys",29,67,1
+"Trinomys albispinus",29,63,2
+"Trinomys myosuros",29,67,1
 "Trinidad Spiny Rat",29,68,2
-"trinitatus",29,68,2
+"Proechimys trinitatus",29,68,2
 "Isla De La Juventud Tree Hutia",29,107,1
-"Trichys",29,197,2
+"Trichys fasciculata",29,197,2
 "Travancore Flying Squirrel",80,8,1
-"Trogopterus",77,35,2
+"Trogopterus xanthipes",77,35,2
 "Philippine Tree Squirrel",78,23,2
 "Southern Palawan Tree Squirrel",78,25,1
 "Northern Palawan Tree Squirrel",78,27,2
 "Culion Tree Squirrel",78,28,2
-"tristriatus",77,109,2
+"Funambulus tristriatus",77,109,2
 "Tropical Ground Squirrel",79,32,2
-"tridecemlineatus",79,70,1
+"Spermophilus tridecemlineatus",79,70,1
 "Orange Headed Tree Squirrel",81,29,1
 "Redness Tree Squirrel",81,41,2
 "Tres Marias Cottontail",76,87,2
-"transitionalis",76,97,2
-"Trachypithecus",40,14,1
-"Trachypithecus",40,15,2
-"Trachypithecus",40,16,2
-"Trachypithecus",40,17,2
-"Trachypithecus",40,18,2
-"Trachypithecus",40,19,2
-"Trachypithecus",40,22,1
-"Trachypithecus",40,23,2
-"Trachypithecus",40,24,2
-"Trachypithecus",40,28,1
-"Trachypithecus",40,29,2
-"Trachypithecus",40,30,2
-"Trachypithecus",40,31,2
-"Trachypithecus",40,32,2
-"Trachypithecus",40,68,2
-"Trachypithecus",40,69,2
-"troglodytes",37,32,1
-"tripartitus",38,70,2
-"trivirgatus",38,116,1
-"trichotis",35,129,2
+"Sylvilagus transitionalis",76,97,2
+"Trachypithecus francoisi",40,14,1
+"Trachypithecus hatinhensis",40,15,2
+"Trachypithecus laotum",40,16,2
+"Trachypithecus delacouri",40,17,2
+"Trachypithecus poliocephalus",40,18,2
+"Trachypithecus obscurus",40,19,2
+"Trachypithecus shortridgei",40,22,1
+"Trachypithecus pileatus",40,23,2
+"Trachypithecus geei",40,24,2
+"Trachypithecus germaini",40,28,1
+"Trachypithecus cristatus",40,29,2
+"Trachypithecus barbei",40,30,2
+"Trachypithecus phayrei",40,31,2
+"Trachypithecus auratus",40,32,2
+"Trachypithecus johnii",40,68,2
+"Trachypithecus vetulus",40,69,2
+"Pan troglodytes",37,32,1
+"Saguinus tripartitus",38,70,2
+"Aotus trivirgatus",38,116,1
+"Allocebus trichotis",35,129,2
 "Ruddy Treeshrew",35,159,1
 "Large Treeshrew",35,160,2
 "Slender Treeshrew",35,161,2
@@ -131,82 +131,82 @@ name,fileindex,index,whichChild
 "Groove-toothed Trumpet-eared Bat",53,44,1
 "Dubious Trumpet-eared Bat",53,45,2
 "Peters's Trumpet-eared Bat",53,47,1
-"troughtoni",55,39,2
+"Vespadelus troughtoni",55,39,2
 "Tropical Big-eared Brown Bat",54,68,2
-"tricolor",73,72,2
-"tristis",45,37,2
-"trumbulli",62,44,2
-"trevori",62,108,2
-"trinitatum",68,48,1
+"Myotis tricolor",73,72,2
+"Miniopterus tristis",45,37,2
+"Eumops trumbulli",62,44,2
+"Mops trevori",62,108,2
+"Chiroderma trinitatum",68,48,1
 "Tree Bat",67,53,2
-"Trachops",67,167,2
+"Trachops cirrhosus",67,167,2
 "Tricolored Bat",67,186,2
-"Trinycteris",67,189,2
+"Trinycteris nicefori",67,189,2
 "Trinidadian Funnel-eared Bat",45,56,2
-"tricolor",45,66,2
+"Thyroptera tricolor",45,66,2
 "Patrizi's Trident Leaf-nosed Bat",61,42,1
 "Geoffroy's Trident Leaf-nosed Bat",61,43,2
-"tridens",61,43,2
+"Asellia tridens",61,43,2
 "Stoliczka's Asian Trident Bat",58,24,1
 "Percival's Trident Bat",58,25,2
 "Trident Leaf-nosed Bat",58,79,2
-"tricuspidatus",58,79,2
+"Aselliscus tricuspidatus",58,79,2
 "Trouessart's Trident Bat",58,83,1
 "Trouessart's Trident Bat",58,83,1
-"Triaenops",58,83,1
+"Triaenops furculus",58,83,1
 "Grandidier's Trident Bat",58,84,2
-"Triaenops",58,84,2
+"Triaenops auritus",58,84,2
 "Persian Trident Bat",58,86,1
-"Triaenops",58,86,1
+"Triaenops persicus",58,86,1
 "Rufous Trident Bat",58,87,2
-"Triaenops",58,87,2
+"Triaenops rufus",58,87,2
 "Trefoil Horseshoe Bat",59,39,2
-"trifoliatus",59,39,2
-"tragata",58,158,1
+"Rhinolophus trifoliatus",59,39,2
+"Nycteris tragata",58,158,1
 "Trinidad Dog-like Bat",71,9,1
-"trinitatis",71,9,1
+"Peropteryx trinitatis",71,9,1
 "Troughton's Sheath-tailed Bat",71,81,1
-"troughtoni",71,81,1
-"Tragelaphus",63,48,1
-"Tragelaphus",63,49,2
-"Tragelaphus",63,50,2
-"Tragelaphus",63,51,2
-"Tragelaphus",63,56,2
-"Tragelaphus",63,57,2
-"Tragelaphus",63,58,2
-"tragocamelus",63,61,2
-"Tragulus",63,198,1
-"Tragulus",63,199,2
-"Tragulus",63,200,2
-"Tragulus",63,203,1
-"Tragulus",63,204,2
-"Tragulus",63,205,2
-"truncatus",75,17,2
-"traversii",75,110,1
+"Taphozous troughtoni",71,81,1
+"Tragelaphus spekii",63,48,1
+"Tragelaphus eurycerus",63,49,2
+"Tragelaphus scriptus",63,50,2
+"Tragelaphus imberbis",63,51,2
+"Tragelaphus strepsiceros",63,56,2
+"Tragelaphus angasii",63,57,2
+"Tragelaphus buxtoni",63,58,2
+"Boselaphus tragocamelus",63,61,2
+"Tragulus kanchil",63,198,1
+"Tragulus javanicus",63,199,2
+"Tragulus williamsoni",63,200,2
+"Tragulus versicolor",63,203,1
+"Tragulus napu",63,204,2
+"Tragulus nigricans",63,205,2
+"Tursiops truncatus",75,17,2
+"Mesoplodon traversii",75,110,1
 "True's Beaked Whale",75,114,2
-"tropicalis",47,51,2
-"Tremarctos",47,117,2
-"trivirgata",51,61,2
-"tricuspis",45,177,2
-"trichura",88,69,1
+"Arctocephalus tropicalis",47,51,2
+"Tremarctos ornatus",47,117,2
+"Arctogalidia trivirgata",51,61,2
+"Manis tricuspis",45,177,2
+"Crocidura trichura",88,69,1
 "Trowbridge's Shrew",86,97,1
-"trowbridgii",86,97,1
+"Sorex trowbridgii",86,97,1
 "Tropical Small-eared Shrew",92,18,2
-"tropicalis",92,18,2
+"Cryptotis tropicalis",92,18,2
 "Transcaucasian Water Shrew",91,42,2
-"truei",85,89,2
+"Podogymnura truei",85,89,2
 "True's Shrew Mole",85,155,2
-"tricinctus",0,23,1
-"truncatus",0,48,2
-"tridactylus",0,54,2
-"tridactyla",0,64,2
+"Tolypeutes tricinctus",0,23,1
+"Chlamyphorus truncatus",0,48,2
+"Bradypus tridactylus",0,54,2
+"Myrmecophaga tridactyla",0,64,2
 "Tree Shrew Tenrec",34,18,2
-"trevelyani",34,82,2
+"Chrysospalax trevelyani",34,82,2
 "Southern Tree Hyrax",0,104,1
 "Western Tree Hyrax",0,105,2
-"Trichechus",0,111,1
-"Trichechus",0,112,2
-"Trichechus",0,113,2
+"Trichechus senegalensis",0,111,1
+"Trichechus manatus",0,112,2
+"Trichechus inunguis",0,113,2
 "Golden-mantled Tree Kangaroo",43,91,1
 "Goodfellow's Tree Kangaroo",43,92,2
 "Lowlands Tree Kangaroo",43,94,1
@@ -217,12 +217,12 @@ name,fileindex,index,whichChild
 "Grizzled Tree Kangaroo",43,102,2
 "Lumholtz's Tree Kangaroo",43,103,2
 "Bennett's Tree Kangaroo",43,104,2
-"tridactylus",43,119,1
-"tropica",43,128,1
+"Potorous tridactylus",43,119,1
+"Bettongia tropica",43,128,1
 "Great-tailed Triok",43,181,1
-"trivirgata",43,182,2
+"Dactylopsila trivirgata",43,182,2
 "Tate's Triok",43,184,1
-"Trichosurus",44,35,1
-"Trichosurus",44,36,2
-"Trichosurus",44,37,2
-"Trichosurus",44,38,2
+"Trichosurus vulpecula",44,35,1
+"Trichosurus johnstonii",44,36,2
+"Trichosurus arnhemensis",44,37,2
+"Trichosurus caninus",44,38,2

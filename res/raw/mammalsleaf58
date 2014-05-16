@@ -1,80 +1,80 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,-268435444,"ater","Hipposideros","Dusky Leaf-nosed Bat",LC,U,-16731116
-16,-268435441,"breviceps","Hipposideros","Short-headed Leaf-nosed Bat",DD,U,-11513776
-17,-268435441,"ridleyi","Hipposideros","Ridley's Leaf-nosed Bat",VU,D,-11184866
-18,-268435442,"curtus","Hipposideros","Short-tailed Roundleaf Bat",VU,D,-11184866
-24,-268435433,"stoliczkanus","Aselliscus","Stoliczka's Asian Trident Bat",LC,U,-16731116
-25,-268435433,"percivali","Cloeotis","Percival's Trident Bat",LC,U,-16731116
-26,-268435434,"bicolor","Hipposideros","Bicolored Leaf-nosed Bat",LC,S,-16731116
-28,-268435429,"macrobullatus","Hipposideros","Big-eared Leaf-nosed Bat",DD,U,-11513776
-29,-268435429,"beatus","Hipposideros","Benito Roundleaf Bat",LC,D,-16731116
-30,-268435436,"speoris","Hipposideros","Schneider's Leaf-nosed Bat",LC,S,-16731116
-32,-268435425,"fuliginosus","Hipposideros","Sooty Roundleaf Bat",LC,D,-16731116
-33,-268435425,"dyacorum","Hipposideros","Dayak Leaf-nosed Bat",LC,U,-16731116
-36,-268435421,"cervinus","Hipposideros","Fawn-colored Leaf-nosed Bat",LC,U,-16731116
-37,-268435421,"crumeniferus","Hipposideros","Timor Leaf-nosed Bat",DD,U,-11513776
-39,-268435418,"galeritus","Hipposideros","Cantor's Leaf-nosed Bat",LC,U,-16731116
-40,-268435418,"fulvus","Hipposideros","Fulvus Leaf-nosed Bat",LC,S,-16731116
-43,-268435414,"caffer","Hipposideros","Sundevall's Roundleaf Bat",LC,D,-16731116
-44,-268435414,"marisae","Hipposideros","Aellen's Roundleaf Bat",VU,D,-11184866
-45,-268435415,"pomona","Hipposideros","Andersen's Leaf-nosed Bat",LC,U,-16731116
-48,-268435409,"doriae","Hipposideros","Bornean Leaf-nosed Bat",NT,D,-12486656
-49,-268435409,"coxi","Hipposideros","Cox's Leaf-nosed Bat",DD,U,-11513776
-50,-268435410,"papua","Hipposideros","Biak Leaf-nosed Bat",LC,S,-16731116
-59,-268435398,"lamottei","Hipposideros","Lamotte's Roundleaf Bat",CR,D,-3014646
-60,-268435398,"ruber","Hipposideros","Noack's Roundleaf Bat",LC,U,-16731116
-61,-268435399,"halophyllus","Hipposideros","Thailand Leaf-nosed Bat",EN,D,-8572416
-63,-268435394,"coronatus","Hipposideros","Large Mindanao Leaf-nosed Bat",DD,U,-11513776
-64,-268435394,"calcaratus","Hipposideros","Spurred Leaf-nosed Bat",LC,U,-16731116
-65,-268435401,"maggietaylorae","Hipposideros","Maggie Taylor's Leaf-nosed Bat",LC,S,-16731116
-66,-268435402,"jonesi","Hipposideros","Jones' Roundleaf Bat",NT,D,-12486656
-67,-268435403,"pygmaeus","Hipposideros","Philippine Pygmy Leaf-nosed Bat",LC,U,-16731116
-70,-268435387,"megalotis","Hipposideros","Ethiopian Large-eard Roundleaf Bat",LC,U,-16731116
-71,-268435387,"nequam","Hipposideros","Malayan Leaf-nosed Bat",DD,U,-11513776
-73,-268435384,"durgadasi","Hipposideros","Durga Das's Leaf-nosed Bat",EN,D,-8572416
-74,-268435384,"cineraceus","Hipposideros","Least Leaf-nosed Bat",LC,U,-16731116
-76,-268435381,"obscurus","Hipposideros","Philippine Forest Leaf-nosed Bat",LC,U,-16731116
-77,-268435381,"abae","Hipposideros","Aba Roundleaf Bat",LC,U,-16731116
-78,-268435451,"ornatus","Anthops","Solomons Leaf-nosed Bat",DD,U,-11513776
-79,-268435452,"tricuspidatus","Aselliscus","Trident Leaf-nosed Bat",LC,S,-16731116
-83,-268435374,"furculus","Triaenops","Trouessart's Trident Bat",LC,U,-16731116
-84,-268435374,"auritus","Triaenops","Grandidier's Trident Bat",VU,U,-11184866
-86,-268435371,"persicus","Triaenops","Persian Trident Bat",LC,U,-16731116
-87,-268435371,"rufus","Triaenops","Rufous Trident Bat",LC,U,-16731116
-88,-268435376,"aurantia","Rhinonicteris","Orange Leaf-nosed Bat",LC,U,-16731116
-91,-268435366,"robinsoni","Coelops","Malayan Tailless Leaf-nosed Bat",VU,D,-11184866
-92,-268435366,"frithii","Coelops","Tail-less Leaf-nosed Bat",LC,U,-16731116
-93,-268435367,"megalotis","Paracoelops","Vietnamese Leaf-nosed Bat",DD,U,-11513776
-102,-268435355,"shameli","Rhinolophus","Shamel's Horseshoe Bat",LC,U,-16731116
-106,-268435351,"euryale","Rhinolophus","Mediterranean Horseshoe Bat",NT,D,-12486656
-107,-268435351,"mehelyi","Rhinolophus","Mehely's Horseshoe Bat",VU,D,-11184866
-109,-268435348,"guineensis","Rhinolophus","Guinean Horseshoe Bat",VU,U,-11184866
-110,-268435348,"landeri","Rhinolophus","Lander's Horseshoe Bat",LC,U,-16731116
-113,-268435344,"celebensis","Rhinolophus","Sulawesi Horseshoe Bat",LC,U,-16731116
-114,-268435344,"madurensis","Rhinolophus","Madura Horseshoe Bat",EN,D,-8572416
-115,-268435345,"fumigatus","Rhinolophus","Ruppell's Horseshoe Bat",LC,U,-16731116
-117,-268435340,"subbadius","Rhinolophus","Little Nepalese Horseshoe Bat",LC,D,-16731116
-118,-268435340,"cognatus","Rhinolophus","Andaman Horseshoe Bat",EN,D,-8572416
-119,-268435359,"imaizumii","Rhinolophus","",NE,U,-16777216
-121,-268435336,"shortridgei","Rhinolophus","Shortridge's Horseshoe Bat",LC,U,-16731116
-122,-268435336,"lepidus","Rhinolophus","Blyth's Horseshoe Bat",LC,U,-16731116
-124,-268435333,"osgoodi","Rhinolophus","Osgood's Horseshoe Bat",DD,U,-11513776
-125,-268435333,"cornutus","Rhinolophus","",NE,U,-16777216
-127,-268435330,"pusillus","Rhinolophus","Least Horseshoe Bat",LC,U,-16731116
-128,-268435330,"monoceros","Rhinolophus","",NE,U,-16777216
-135,-268435322,"madagascariensis","Nycteris","Madagascar Slit-faced Bat",DD,U,-11513776
-136,-268435322,"macrotis","Nycteris","Large-eared Slit-faced Bat",LC,U,-16731116
-137,-268435323,"vinsoni","Nycteris","Vinson's Slit-faced Bat",DD,U,-11513776
-139,-268435318,"parisii","Nycteris","Parisi's Slit-faced Bat",DD,U,-11513776
-140,-268435318,"woodi","Nycteris","Wood's Slit-faced Bat",LC,D,-16731116
-144,-268435313,"aurita","Nycteris","Andersen's Slit-faced Bat",LC,U,-16731116
-145,-268435313,"hispida","Nycteris","Hairy Slit-faced Bat",LC,S,-16731116
-146,-268435314,"grandis","Nycteris","Large Slit-faced Bat",LC,D,-16731116
-148,-268435309,"gambiensis","Nycteris","Gambian Slit-faced Bat",LC,U,-16731116
-149,-268435309,"thebaica","Nycteris","Egyptian Slit-faced Bat",LC,U,-16731116
-153,-268435304,"nana","Nycteris","Dwarf Slit-faced Bat",LC,U,-16731116
-154,-268435304,"major","Nycteris","Dja Slit-faced Bat",DD,U,-11513776
-155,-268435305,"intermedia","Nycteris","Intermediate Slit-faced Bat",LC,D,-16731116
-156,-268435306,"arge","Nycteris","Bate's Slit-faced Bat",LC,S,-16731116
-158,-268435299,"tragata","Nycteris","Malayan Slit-faced Bat",NT,D,-12486656
-159,-268435299,"javanica","Nycteris","Javan Slit-faced Bat",VU,D,-11184866
+13,12,"ater","Hipposideros","Dusky Leaf-nosed Bat",LC,U,-16731116
+16,15,"breviceps","Hipposideros","Short-headed Leaf-nosed Bat",DD,U,-11513776
+17,15,"ridleyi","Hipposideros","Ridley's Leaf-nosed Bat",VU,D,-11184866
+18,14,"curtus","Hipposideros","Short-tailed Roundleaf Bat",VU,D,-11184866
+24,23,"stoliczkanus","Aselliscus","Stoliczka's Asian Trident Bat",LC,U,-16731116
+25,23,"percivali","Cloeotis","Percival's Trident Bat",LC,U,-16731116
+26,22,"bicolor","Hipposideros","Bicolored Leaf-nosed Bat",LC,S,-16731116
+28,27,"macrobullatus","Hipposideros","Big-eared Leaf-nosed Bat",DD,U,-11513776
+29,27,"beatus","Hipposideros","Benito Roundleaf Bat",LC,D,-16731116
+30,20,"speoris","Hipposideros","Schneider's Leaf-nosed Bat",LC,S,-16731116
+32,31,"fuliginosus","Hipposideros","Sooty Roundleaf Bat",LC,D,-16731116
+33,31,"dyacorum","Hipposideros","Dayak Leaf-nosed Bat",LC,U,-16731116
+36,35,"cervinus","Hipposideros","Fawn-colored Leaf-nosed Bat",LC,U,-16731116
+37,35,"crumeniferus","Hipposideros","Timor Leaf-nosed Bat",DD,U,-11513776
+39,38,"galeritus","Hipposideros","Cantor's Leaf-nosed Bat",LC,U,-16731116
+40,38,"fulvus","Hipposideros","Fulvus Leaf-nosed Bat",LC,S,-16731116
+43,42,"caffer","Hipposideros","Sundevall's Roundleaf Bat",LC,D,-16731116
+44,42,"marisae","Hipposideros","Aellen's Roundleaf Bat",VU,D,-11184866
+45,41,"pomona","Hipposideros","Andersen's Leaf-nosed Bat",LC,U,-16731116
+48,47,"doriae","Hipposideros","Bornean Leaf-nosed Bat",NT,D,-12486656
+49,47,"coxi","Hipposideros","Cox's Leaf-nosed Bat",DD,U,-11513776
+50,46,"papua","Hipposideros","Biak Leaf-nosed Bat",LC,S,-16731116
+59,58,"lamottei","Hipposideros","Lamotte's Roundleaf Bat",CR,D,-3014646
+60,58,"ruber","Hipposideros","Noack's Roundleaf Bat",LC,U,-16731116
+61,57,"halophyllus","Hipposideros","Thailand Leaf-nosed Bat",EN,D,-8572416
+63,62,"coronatus","Hipposideros","Large Mindanao Leaf-nosed Bat",DD,U,-11513776
+64,62,"calcaratus","Hipposideros","Spurred Leaf-nosed Bat",LC,U,-16731116
+65,55,"maggietaylorae","Hipposideros","Maggie Taylor's Leaf-nosed Bat",LC,S,-16731116
+66,54,"jonesi","Hipposideros","Jones' Roundleaf Bat",NT,D,-12486656
+67,53,"pygmaeus","Hipposideros","Philippine Pygmy Leaf-nosed Bat",LC,U,-16731116
+70,69,"megalotis","Hipposideros","Ethiopian Large-eard Roundleaf Bat",LC,U,-16731116
+71,69,"nequam","Hipposideros","Malayan Leaf-nosed Bat",DD,U,-11513776
+73,72,"durgadasi","Hipposideros","Durga Das's Leaf-nosed Bat",EN,D,-8572416
+74,72,"cineraceus","Hipposideros","Least Leaf-nosed Bat",LC,U,-16731116
+76,75,"obscurus","Hipposideros","Philippine Forest Leaf-nosed Bat",LC,U,-16731116
+77,75,"abae","Hipposideros","Aba Roundleaf Bat",LC,U,-16731116
+78,5,"ornatus","Anthops","Solomons Leaf-nosed Bat",DD,U,-11513776
+79,4,"tricuspidatus","Aselliscus","Trident Leaf-nosed Bat",LC,S,-16731116
+83,82,"furculus","Triaenops","Trouessart's Trident Bat",LC,U,-16731116
+84,82,"auritus","Triaenops","Grandidier's Trident Bat",VU,U,-11184866
+86,85,"persicus","Triaenops","Persian Trident Bat",LC,U,-16731116
+87,85,"rufus","Triaenops","Rufous Trident Bat",LC,U,-16731116
+88,80,"aurantia","Rhinonicteris","Orange Leaf-nosed Bat",LC,U,-16731116
+91,90,"robinsoni","Coelops","Malayan Tailless Leaf-nosed Bat",VU,D,-11184866
+92,90,"frithii","Coelops","Tail-less Leaf-nosed Bat",LC,U,-16731116
+93,89,"megalotis","Paracoelops","Vietnamese Leaf-nosed Bat",DD,U,-11513776
+102,101,"shameli","Rhinolophus","Shamel's Horseshoe Bat",LC,U,-16731116
+106,105,"euryale","Rhinolophus","Mediterranean Horseshoe Bat",NT,D,-12486656
+107,105,"mehelyi","Rhinolophus","Mehely's Horseshoe Bat",VU,D,-11184866
+109,108,"guineensis","Rhinolophus","Guinean Horseshoe Bat",VU,U,-11184866
+110,108,"landeri","Rhinolophus","Lander's Horseshoe Bat",LC,U,-16731116
+113,112,"celebensis","Rhinolophus","Sulawesi Horseshoe Bat",LC,U,-16731116
+114,112,"madurensis","Rhinolophus","Madura Horseshoe Bat",EN,D,-8572416
+115,111,"fumigatus","Rhinolophus","Ruppell's Horseshoe Bat",LC,U,-16731116
+117,116,"subbadius","Rhinolophus","Little Nepalese Horseshoe Bat",LC,D,-16731116
+118,116,"cognatus","Rhinolophus","Andaman Horseshoe Bat",EN,D,-8572416
+119,97,"imaizumii","Rhinolophus","",NE,U,-16777216
+121,120,"shortridgei","Rhinolophus","Shortridge's Horseshoe Bat",LC,U,-16731116
+122,120,"lepidus","Rhinolophus","Blyth's Horseshoe Bat",LC,U,-16731116
+124,123,"osgoodi","Rhinolophus","Osgood's Horseshoe Bat",DD,U,-11513776
+125,123,"cornutus","Rhinolophus","",NE,U,-16777216
+127,126,"pusillus","Rhinolophus","Least Horseshoe Bat",LC,U,-16731116
+128,126,"monoceros","Rhinolophus","",NE,U,-16777216
+135,134,"madagascariensis","Nycteris","Madagascar Slit-faced Bat",DD,U,-11513776
+136,134,"macrotis","Nycteris","Large-eared Slit-faced Bat",LC,U,-16731116
+137,133,"vinsoni","Nycteris","Vinson's Slit-faced Bat",DD,U,-11513776
+139,138,"parisii","Nycteris","Parisi's Slit-faced Bat",DD,U,-11513776
+140,138,"woodi","Nycteris","Wood's Slit-faced Bat",LC,D,-16731116
+144,143,"aurita","Nycteris","Andersen's Slit-faced Bat",LC,U,-16731116
+145,143,"hispida","Nycteris","Hairy Slit-faced Bat",LC,S,-16731116
+146,142,"grandis","Nycteris","Large Slit-faced Bat",LC,D,-16731116
+148,147,"gambiensis","Nycteris","Gambian Slit-faced Bat",LC,U,-16731116
+149,147,"thebaica","Nycteris","Egyptian Slit-faced Bat",LC,U,-16731116
+153,152,"nana","Nycteris","Dwarf Slit-faced Bat",LC,U,-16731116
+154,152,"major","Nycteris","Dja Slit-faced Bat",DD,U,-11513776
+155,151,"intermedia","Nycteris","Intermediate Slit-faced Bat",LC,D,-16731116
+156,150,"arge","Nycteris","Bate's Slit-faced Bat",LC,S,-16731116
+158,157,"tragata","Nycteris","Malayan Slit-faced Bat",NT,D,-12486656
+159,157,"javanica","Nycteris","Javan Slit-faced Bat",VU,D,-11184866

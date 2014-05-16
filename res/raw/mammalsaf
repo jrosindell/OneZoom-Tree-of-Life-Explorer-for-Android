@@ -7,13 +7,13 @@ name,fileindex,index,whichChild
 "African Grass Rat",19,52,1
 "Southern African Mastomys",19,95,2
 "Southern African Vlei Rat",14,18,1
-"afra",12,69,2
+"Gerbilliscus afra",12,69,2
 "East African Pouched Mouse",8,174,1
 "Afghan Mouse-like Hamster",2,34,2
-"affinis",23,61,2
+"Akodon affinis",23,61,2
 "Afghan Mole-vole",6,11,2
 "Afghan Vole",6,32,2
-"afghanus",6,32,2
+"Blanfordimys afghanus",6,32,2
 "Velvet African Climbing Mouse",4,62,2
 "East African Mole Rat",4,145,1
 "Montane African Climbing Mouse",4,174,1
@@ -22,28 +22,28 @@ name,fileindex,index,whichChild
 "Lovat's African Climbing Mouse",4,191,1
 "East African Spring-hare",2,87,1
 "African Mole Rat",29,140,2
-"africaeaustralis",29,191,1
+"Hystrix africaeaustralis",29,191,1
 "African Brush-tailed Porcupine",29,196,2
-"africanus",29,196,2
+"Atherurus africanus",29,196,2
 "African Linsang",80,28,2
-"affinis",77,50,2
+"Ratufa affinis",77,50,2
 "African Giant Squirrel",81,45,2
 "African Pygmy Squirrel",81,58,2
 "South African Ground Squirrel",77,135,2
 "African Savanna Hare",76,62,1
 "Afghan Pika",76,145,2
-"affinis",53,104,1
+"Falsistrellus affinis",53,104,1
 "African Yellow Bat",73,173,1
-"africanus",45,41,2
+"Miniopterus africanus",45,41,2
 "African Giant Free-tailed Bat",62,140,2
-"affinis",59,51,1
+"Rhinolophus affinis",59,51,1
 "African Sheath-tailed Bat",71,48,2
-"afra",71,48,2
+"Coleura afra",71,48,2
 "East African Epauletted Fruit Bat",70,20,1
 "East African Little Collared Fruit Bat",70,65,1
 "African Buffalo",63,84,2
-"africanus",72,28,2
-"africana",49,37,2
+"Phacochoerus africanus",72,28,2
+"Mustela africana",49,37,2
 "African Striped Weasel",49,72,2
 "African Clawless Otter",52,26,2
 "Afro-Australian Fur Seal",47,52,2
@@ -61,7 +61,7 @@ name,fileindex,index,whichChild
 "African Black Shrew",88,150,2
 "Southern African Hedgehog",85,64,2
 "North African Elephant Shrew",0,90,2
-"afer",0,98,2
+"Orycteropus afer",0,98,2
 "African Manatee",0,111,1
 "African Elephant",0,117,1
-"africana",0,117,1
+"Loxodonta africana",0,117,1

@@ -4,12 +4,12 @@ name,fileindex,index,whichChild
 "Black-footed Tree Rat",13,77,2
 "Blue-grey Mouse",13,126,2
 "Black-clawed Brush-furred Rat",11,58,2
-"blangorum",10,24,2
+"Rattus blangorum",10,24,2
 "Black Rat",10,43,1
-"blanfordi",9,109,1
+"Madromys blanfordi",9,109,1
 "Black Sea Field Mouse",19,40,2
 "Blick's Grass Rat",19,58,2
-"blicki",19,58,2
+"Arvicanthis blicki",19,58,2
 "Black-tailed Tree Rat",8,60,1
 "Blazed Luzon Chrotomys",8,107,2
 "Black-tufted Gerbil",16,59,2
@@ -21,20 +21,20 @@ name,fileindex,index,whichChild
 "Middle East Blind Mole Rat",2,25,1
 "Lesser Blind Mole Rat",2,27,2
 "Blackish Grass Mouse",23,81,2
-"Blarinomys",23,185,2
+"Blarinomys breviceps",23,185,2
 "Black-footed Pygmy Rice Rat",21,24,1
 "Black-tailed Deer Mouse",25,40,1
 "Black-eared Mouse",25,44,1
 "Blackish Deer Mouse",25,74,2
 "Black-wristed Deer Mouse",25,102,1
 "Blyth's Vole",5,58,1
-"Blanfordimys",6,31,1
-"Blanfordimys",6,32,2
+"Blanfordimys bucharensis",6,31,1
+"Blanfordimys afghanus",6,32,2
 "Black-eared Red-backed Vole",7,27,2
 "Black-bellied Hamster",4,119,2
 "Blanford's Jerboa",3,68,2
-"blanfordi",3,68,2
-"blainvillii",30,9,1
+"Jaculus blanfordi",3,68,2
+"Phyllomys blainvillii",30,9,1
 "Black-spined Atlantic Tree Rat",30,22,2
 "Black-rumped Agouti",33,18,1
 "Black Agouti",33,19,2
@@ -81,18 +81,18 @@ name,fileindex,index,whichChild
 "Black-and-white Ruffed Lemur",36,36,1
 "Black-winged Little Yellow Bat",53,158,1
 "Blanford's Bat",54,78,2
-"blanfordi",54,78,2
-"blossevillii",56,13,2
+"Hesperoptenus blanfordi",54,78,2
+"Lasiurus blossevillii",56,13,2
 "Black Myotis",74,17,2
-"blythii",73,50,1
+"Myotis blythii",73,50,1
 "Little Black Serotinelittle Black Serotine",73,143,1
 "Little Black Serotinelittle Black Serotine",73,143,1
 "Black Mastiff Bat",62,21,2
 "Black Bonneted Bat",62,34,2
 "Blunt-eared Bat",62,194,2
-"blainvillei",67,221,1
+"Mormoops blainvillei",67,221,1
 "BLASIUS' HORSESHOE BAT",60,10,1
-"blasii",60,10,1
+"Rhinolophus blasii",60,10,1
 "Blyth's Horseshoe Bat",58,122,2
 "Black-bearded Tomb Bat",71,74,1
 "Black-bearded Flying Fox",57,15,2
@@ -109,7 +109,7 @@ name,fileindex,index,whichChild
 "Common Blossom Bat",45,110,2
 "Black-capped Fruit Bat",46,36,2
 "Blandford's Fruit Bat",46,51,2
-"blanfordi",46,51,2
+"Sphaerias blanfordi",46,51,2
 "Blesbok",64,79,2
 "Black Wildebeest",64,83,2
 "Blackbuck",66,32,2
@@ -117,9 +117,9 @@ name,fileindex,index,whichChild
 "Black Duiker",65,30,1
 "Blue Duiker",65,37,2
 "Black Muntjac",63,128,1
-"Blastocerus",63,161,2
+"Blastocerus dichotomus",63,161,2
 "Black Musk Deer",63,183,2
-"blainvillei",75,91,1
+"Pontoporia blainvillei",75,91,1
 "Blainville's Beaked Whale",75,112,2
 "Blue Whale",75,149,2
 "Black Rhinoceros",45,140,2
@@ -134,15 +134,15 @@ name,fileindex,index,whichChild
 "African Black Shrew",88,150,2
 "Blackish White-toothed Shrew",88,152,1
 "Black Shrew",87,22,2
-"blarina",85,24,2
-"Blarinella",86,102,1
-"Blarinella",86,103,2
-"Blarinella",86,104,2
+"Myosorex blarina",85,24,2
+"Blarinella quadraticauda",86,102,1
+"Blarinella griselda",86,103,2
+"Blarinella wardi",86,104,2
 "Blackish Small-eared Shrew",92,12,1
-"Blarina",92,55,1
-"Blarina",92,56,2
-"Blarina",92,57,2
-"Blarina",92,58,2
+"Blarina carolinensis",92,55,1
+"Blarina peninsulae",92,56,2
+"Blarina brevicauda",92,57,2
+"Blarina hylophaga",92,58,2
 "Blind Mole",85,129,2
 "Black And Rufous Elephant Shrew",0,96,2
 "Black-footed Rock Wallaby",43,27,2

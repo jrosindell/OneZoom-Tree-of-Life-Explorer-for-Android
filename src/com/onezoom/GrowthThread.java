@@ -109,18 +109,26 @@ class growthHandler extends Handler {
 	@Override
 	public void handleMessage(Message msg) {
 		switch (msg.what) {	
+		
+		/**
+		 * When user press revert button, the handler first handle MSG_START_REVERT, which will then
+		 * call MSG_REVERT until the age exceeds the age of the tree.
+		 */
 		case GrowthThread.MSG_START_REVERT:
 			client.resetTree();
+			client.treeView.setDuringGrowthAnimation(true);
 			this.sendEmptyMessage(GrowthThread.MSG_REVERT);
 			break;			
 		case GrowthThread.MSG_REVERT:
 			TraitsData.timelim += 0.65;
+			//after tree view draw tree, it will set during interaction as true.
+			//reset this variable so that the tree view will draw tree
 			client.treeView.setDuringInteraction(false);
-			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
 			if (TraitsData.timelim < GrowthThread.treeAge)
 				sendEmptyMessageDelayed(GrowthThread.MSG_REVERT, 40);
 			break;
+			
 			
 		case GrowthThread.MSG_PAUSE:
 			this.removeMessages(GrowthThread.MSG_PLAY);
@@ -129,19 +137,27 @@ class growthHandler extends Handler {
 			this.removeMessages(GrowthThread.MSG_START_REVERT);
 			break;
 		
+		/**
+		 * When user press start button, the handler first handle MSG_START_PLAY, which will then
+		 * call MSG_PLAY until the age become negative which means the tree has been grown fully.
+		 */
 		case GrowthThread.MSG_START_PLAY:
 			client.resetTree();
+			client.treeView.setDuringGrowthAnimation(true);
 			this.sendEmptyMessage(GrowthThread.MSG_PLAY);
 			break;
 		case GrowthThread.MSG_PLAY:
 			TraitsData.timelim -= 0.65;
+			//after tree view draw tree, it will set during interaction as true.
+			//reset this variable so that the tree view will draw tree
 			client.treeView.setDuringInteraction(false);
-			client.treeView.setDuringGrowthAnimation(true);
 			client.treeView.postInvalidate();
+			System.out.println("Time -> " + TraitsData.timelim);
 			if (TraitsData.timelim > 0)
 				sendEmptyMessageDelayed(GrowthThread.MSG_PLAY, 40);
 			break;
 	
+			
 		case GrowthThread.MSG_STOP:
 			TraitsData.timelim = -1;
 			this.removeMessages(GrowthThread.MSG_PLAY);

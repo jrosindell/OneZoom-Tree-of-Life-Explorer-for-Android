@@ -10,14 +10,14 @@ name,fileindex,index,whichChild
 "Eastern White-eared Giant Rat",15,71,2
 "Rock-dwelling Giant Rat",15,72,2
 "Giluwe Rat",10,93,2
-"giluwensis",10,93,2
+"Rattus giluwensis",10,93,2
 "Giant Thicket Rat",8,41,2
-"gigas",8,41,2
+"Grammomys gigas",8,41,2
 "Long-tailed Giant Rat",18,50,2
 "Giant Sulawesi Rat",18,56,2
 "Forest Giant Pouched Rat",8,165,1
 "Giant Blind Mole Rat",2,18,2
-"giganteus",2,18,2
+"Spalax giganteus",2,18,2
 "Woolly Giant Rat",26,62,1
 "Fossorial Giant Rat",26,63,2
 "Oaxaca Giant Deer Mouse",25,128,1
@@ -34,7 +34,7 @@ name,fileindex,index,whichChild
 "Common Giant Flying Squirrel",77,25,2
 "Chinese Giant Flying Squirrel",77,26,2
 "Japanese Giant Flying Squirrel",77,27,2
-"gilvigularis",82,52,2
+"Sciurus gilvigularis",82,52,2
 "Black Giant Squirrel",77,49,1
 "Pale Giant Squirrel",77,50,2
 "Indian Giant Squirrel",77,51,2
@@ -60,34 +60,34 @@ name,fileindex,index,whichChild
 "Java Giant Mastiff Bat",62,55,2
 "African Giant Free-tailed Bat",62,140,2
 "Giant Leaf-nosed Bat",61,13,2
-"gigas",61,13,2
-"gigas",45,76,2
-"giganteus",57,28,1
+"Hipposideros gigas",61,13,2
+"Macroderma gigas",45,76,2
+"Pteropus giganteus",57,28,1
 "Gilliard's Flying Fox",57,88,2
-"gilliardorum",57,88,2
+"Pteropus gilliardorum",57,88,2
 "Giraffe",63,190,1
-"Giraffa",63,190,1
+"Giraffa camelopardalis",63,190,1
 "Ginkgo-toothed Beaked Whale",75,102,2
-"ginkgodens",75,102,2
+"Mesoplodon ginkgodens",75,102,2
 "Giant Otter",52,22,2
 "Giant Panda",47,118,2
 "Giant-striped Mongoose",47,197,1
 "Giant Genet",51,27,2
-"gigantea",45,174,2
+"Manis gigantea",45,174,2
 "Sumatran Giant Shrew",90,30,1
 "African Giant Shrew",89,8,2
 "Giant Mole Shrew",91,51,2
-"gigas",91,56,2
-"gibbsii",85,156,2
+"Megasorex gigas",91,56,2
+"Neurotrichus gibbsii",85,156,2
 "Giant Armadillo",0,25,2
 "Giant Anteater",0,64,2
 "Giant Otter-shrew",34,39,2
 "Giant Golden Mole",34,82,2
-"giganteus",43,75,2
+"Macropus giganteus",43,75,2
 "Gilbert's Potoroo",43,120,2
-"gilbertii",43,120,2
+"Potorous gilbertii",43,120,2
 "Gilbert's Dunnart",84,88,2
-"gilberti",84,88,2
+"Sminthopsis gilberti",84,88,2
 "Giles' Planigale",84,123,2
-"gilesi",84,123,2
+"Planigale gilesi",84,123,2
 "Giant Bandicoot",0,141,2

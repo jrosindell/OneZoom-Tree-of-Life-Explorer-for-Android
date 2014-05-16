@@ -1,34 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,-268435445,"spectabilis","Liomys","Jaliscan Spiny Pocket Mouse",EN,D,-8572416
-13,-268435445,"pictus","Liomys","Painted Spiny Pocket Mouse",LC,D,-16731116
-14,-268435446,"irroratus","Liomys","Mexican Spiny Pocket Mouse",LC,S,-16731116
-16,-268435441,"adspersus","Liomys","Panamanian Spiny Pocket Mouse",LC,S,-16731116
-17,-268435441,"salvini","Liomys","Salvin's Spiny Pocket Mouse",LC,D,-16731116
-18,-268435448,"australis","Heteromys","Southern Spiny Pocket Mouse",LC,S,-16731116
-19,-268435449,"anomalus","Heteromys","Caribbean Spiny Pocket Mouse",LC,U,-16731116
-22,-268435435,"desmarestianus","Heteromys","Demarest's Spiny Pocket Mouse",LC,S,-16731116
-23,-268435435,"oresterus","Heteromys","Mountain Spiny Pocket Mouse",LC,S,-16731116
-24,-268435436,"nelsoni","Heteromys","Nelson's Spiny Pocket Mouse",EN,D,-8572416
-25,-268435451,"gaumeri","Heteromys","Gaumer's Spiny Pocket Mouse",LC,S,-16731116
-26,-268435452,"zinseri","Cratogeomys","",NE,U,-16777216
-27,-268435453,"alcorni","Pappogeomys","Alcorn's Pocket Gopher",CR,D,-3014646
-31,-268435426,"castanops","Cratogeomys","Yellow-faced Pocket Gopher",LC,S,-16731116
-32,-268435426,"goldmani","Cratogeomys","",LC,S,-16731116
-34,-268435423,"tylorhinus","Cratogeomys","",NE,U,-16777216
-35,-268435423,"neglectus","Cratogeomys","",NE,U,-16777216
-38,-268435419,"merriami","Cratogeomys","Merriam's Pocket Gopher",LC,S,-16731116
-39,-268435419,"fumosus","Cratogeomys","Smoky Pocket Gopher",LC,S,-16731116
-40,-268435420,"gymnurus","Cratogeomys","",NE,U,-16777216
-41,-268435455,"bulleri","Pappogeomys","Buller's Pocket Gopher",LC,S,-16731116
-50,-268435407,"underwoodi","Orthogeomys","Underwood's Pocket Gopher",LC,I,-16731116
-51,-268435407,"heterodus","Orthogeomys","Variable Pocket Gopher",LC,I,-16731116
-52,-268435408,"thaeleri","Orthogeomys","Thaeler's Pocket Gopher",LC,S,-16731116
-53,-268435409,"matagalpae","Orthogeomys","Nicaraguan Pocket Gopher",LC,I,-16731116
-54,-268435410,"dariensis","Orthogeomys","Darien Pocket Gopher",LC,S,-16731116
-55,-268435411,"grandis","Orthogeomys","Giant Pocket Gopher",LC,S,-16731116
-58,-268435399,"hispidus","Orthogeomys","Hispid Pocket Gopher",LC,S,-16731116
-59,-268435399,"lanius","Orthogeomys","Big Pocket Gopher",CR,D,-3014646
-60,-268435400,"cavator","Orthogeomys","Chiriqui Pocket Gopher",LC,I,-16731116
-62,-268435395,"cherriei","Orthogeomys","Cherrie's Pocket Gopher",LC,S,-16731116
-63,-268435395,"cuniculus","Orthogeomys","Oaxacan Pocket Gopher",DD,D,-11513776
-64,-268435414,"trichopus","Zygogeomys","Michoacan Pocket Gopher",EN,D,-8572416
+12,11,"spectabilis","Liomys","Jaliscan Spiny Pocket Mouse",EN,D,-8572416
+13,11,"pictus","Liomys","Painted Spiny Pocket Mouse",LC,D,-16731116
+14,10,"irroratus","Liomys","Mexican Spiny Pocket Mouse",LC,S,-16731116
+16,15,"adspersus","Liomys","Panamanian Spiny Pocket Mouse",LC,S,-16731116
+17,15,"salvini","Liomys","Salvin's Spiny Pocket Mouse",LC,D,-16731116
+18,8,"australis","Heteromys","Southern Spiny Pocket Mouse",LC,S,-16731116
+19,7,"anomalus","Heteromys","Caribbean Spiny Pocket Mouse",LC,U,-16731116
+22,21,"desmarestianus","Heteromys","Demarest's Spiny Pocket Mouse",LC,S,-16731116
+23,21,"oresterus","Heteromys","Mountain Spiny Pocket Mouse",LC,S,-16731116
+24,20,"nelsoni","Heteromys","Nelson's Spiny Pocket Mouse",EN,D,-8572416
+25,5,"gaumeri","Heteromys","Gaumer's Spiny Pocket Mouse",LC,S,-16731116
+26,4,"zinseri","Cratogeomys","",NE,U,-16777216
+27,3,"alcorni","Pappogeomys","Alcorn's Pocket Gopher",CR,D,-3014646
+31,30,"castanops","Cratogeomys","Yellow-faced Pocket Gopher",LC,S,-16731116
+32,30,"goldmani","Cratogeomys","",LC,S,-16731116
+34,33,"tylorhinus","Cratogeomys","",NE,U,-16777216
+35,33,"neglectus","Cratogeomys","",NE,U,-16777216
+38,37,"merriami","Cratogeomys","Merriam's Pocket Gopher",LC,S,-16731116
+39,37,"fumosus","Cratogeomys","Smoky Pocket Gopher",LC,S,-16731116
+40,36,"gymnurus","Cratogeomys","",NE,U,-16777216
+41,1,"bulleri","Pappogeomys","Buller's Pocket Gopher",LC,S,-16731116
+50,49,"underwoodi","Orthogeomys","Underwood's Pocket Gopher",LC,I,-16731116
+51,49,"heterodus","Orthogeomys","Variable Pocket Gopher",LC,I,-16731116
+52,48,"thaeleri","Orthogeomys","Thaeler's Pocket Gopher",LC,S,-16731116
+53,47,"matagalpae","Orthogeomys","Nicaraguan Pocket Gopher",LC,I,-16731116
+54,46,"dariensis","Orthogeomys","Darien Pocket Gopher",LC,S,-16731116
+55,45,"grandis","Orthogeomys","Giant Pocket Gopher",LC,S,-16731116
+58,57,"hispidus","Orthogeomys","Hispid Pocket Gopher",LC,S,-16731116
+59,57,"lanius","Orthogeomys","Big Pocket Gopher",CR,D,-3014646
+60,56,"cavator","Orthogeomys","Chiriqui Pocket Gopher",LC,I,-16731116
+62,61,"cherriei","Orthogeomys","Cherrie's Pocket Gopher",LC,S,-16731116
+63,61,"cuniculus","Orthogeomys","Oaxacan Pocket Gopher",DD,D,-11513776
+64,42,"trichopus","Zygogeomys","Michoacan Pocket Gopher",EN,D,-8572416

@@ -1,29 +1,29 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,-268435449,"macrurus","Rhipidomys","",LC,U,-16731116
-9,-268435449,"emiliae","Rhipidomys","",LC,U,-16731116
-10,-268435450,"mastacalis","Rhipidomys","Long-tailed Climbing Mouse",LC,U,-16731116
-11,-268435451,"caucensis","Rhipidomys","Cauca Climbing Mouse",DD,U,-11513776
-14,-268435443,"venustus","Rhipidomys","Charming Climbing Mouse",LC,U,-16731116
-15,-268435443,"wetzeli","Rhipidomys","Wetzel's Climbing Mouse",LC,S,-16731116
-16,-268435444,"austrinus","Rhipidomys","Southern Climbing Mouse",LC,S,-16731116
-18,-268435439,"ochrogaster","Rhipidomys","Yellow-bellied Climbing Mouse",DD,U,-11513776
-19,-268435439,"leucodactylus","Rhipidomys","White-footed Climbing Mouse",LC,U,-16731116
-20,-268435454,"venezuelae","Rhipidomys","Venezuelan Climbing Mouse",LC,S,-16731116
-25,-268435432,"couesi","Rhipidomys","Coues's Climbing Mouse",LC,S,-16731116
-26,-268435432,"modicus","Rhipidomys","",NT,D,-12486656
-27,-268435433,"macconnelli","Rhipidomys","Macconnell's Climbing Mouse",LC,S,-16731116
-28,-268435434,"fulviventer","Rhipidomys","Buff-bellied Climbing Mouse",LC,U,-16731116
-30,-268435427,"latimanus","Rhipidomys","Broad-footed Climbing Mouse",LC,D,-16731116
-31,-268435427,"nitela","Rhipidomys","Splendid Climbing Mouse",LC,S,-16731116
-39,-268435418,"squamipes","Nectomys","South American Water Rat",LC,U,-16731116
-40,-268435418,"magdalenae","Nectomys","",DD,U,-11513776
-41,-268435419,"apicalis","Nectomys","",LC,S,-16731116
-42,-268435420,"palmipes","Nectomys","Trinidad Water Rat",LC,U,-16731116
-43,-268435421,"rattus","Nectomys","Amazonian Mouse",LC,S,-16731116
-46,-268435411,"dorsalis","Delomys","Striped Atlantic Forest Rat",LC,D,-16731116
-47,-268435411,"collinus","Delomys","Montane Delomys",LC,D,-16731116
-48,-268435412,"sublineatus","Delomys","Pallid Atlantic Forest Rat",LC,U,-16731116
-50,-268435407,"garleppi","Galenomys","Gerlepp's Mouse",DD,U,-11513776
-51,-268435407,"lemminus","Punomys","Puna Mouse",VU,U,-11184866
-53,-268435404,"lasiotis","Thalpomys","Hairy-eared Cerrado Mouse",LC,U,-16731116
-54,-268435404,"cerradensis","Thalpomys","Cerrado Mouse",LC,U,-16731116
+8,7,"macrurus","Rhipidomys","",LC,U,-16731116
+9,7,"emiliae","Rhipidomys","",LC,U,-16731116
+10,6,"mastacalis","Rhipidomys","Long-tailed Climbing Mouse",LC,U,-16731116
+11,5,"caucensis","Rhipidomys","Cauca Climbing Mouse",DD,U,-11513776
+14,13,"venustus","Rhipidomys","Charming Climbing Mouse",LC,U,-16731116
+15,13,"wetzeli","Rhipidomys","Wetzel's Climbing Mouse",LC,S,-16731116
+16,12,"austrinus","Rhipidomys","Southern Climbing Mouse",LC,S,-16731116
+18,17,"ochrogaster","Rhipidomys","Yellow-bellied Climbing Mouse",DD,U,-11513776
+19,17,"leucodactylus","Rhipidomys","White-footed Climbing Mouse",LC,U,-16731116
+20,2,"venezuelae","Rhipidomys","Venezuelan Climbing Mouse",LC,S,-16731116
+25,24,"couesi","Rhipidomys","Coues's Climbing Mouse",LC,S,-16731116
+26,24,"modicus","Rhipidomys","",NT,D,-12486656
+27,23,"macconnelli","Rhipidomys","Macconnell's Climbing Mouse",LC,S,-16731116
+28,22,"fulviventer","Rhipidomys","Buff-bellied Climbing Mouse",LC,U,-16731116
+30,29,"latimanus","Rhipidomys","Broad-footed Climbing Mouse",LC,D,-16731116
+31,29,"nitela","Rhipidomys","Splendid Climbing Mouse",LC,S,-16731116
+39,38,"squamipes","Nectomys","South American Water Rat",LC,U,-16731116
+40,38,"magdalenae","Nectomys","",DD,U,-11513776
+41,37,"apicalis","Nectomys","",LC,S,-16731116
+42,36,"palmipes","Nectomys","Trinidad Water Rat",LC,U,-16731116
+43,35,"rattus","Nectomys","Amazonian Mouse",LC,S,-16731116
+46,45,"dorsalis","Delomys","Striped Atlantic Forest Rat",LC,D,-16731116
+47,45,"collinus","Delomys","Montane Delomys",LC,D,-16731116
+48,44,"sublineatus","Delomys","Pallid Atlantic Forest Rat",LC,U,-16731116
+50,49,"garleppi","Galenomys","Gerlepp's Mouse",DD,U,-11513776
+51,49,"lemminus","Punomys","Puna Mouse",VU,U,-11184866
+53,52,"lasiotis","Thalpomys","Hairy-eared Cerrado Mouse",LC,U,-16731116
+54,52,"cerradensis","Thalpomys","Cerrado Mouse",LC,U,-16731116

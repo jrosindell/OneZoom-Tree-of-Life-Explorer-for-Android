@@ -1,24 +1,24 @@
 name,fileindex,index,whichChild
 "Kakadu Pebble Mouse",13,109,1
 "Kaiser's Rock Rat",11,193,1
-"kaiseri",11,193,1
-"karlkoopmani",9,80,1
-"kathleenae",9,104,2
+"Aethomys kaiseri",11,193,1
+"Chiropodomys karlkoopmani",9,80,1
+"Millardia kathleenae",9,104,2
 "Kashmir Field Mouse",19,31,2
-"Kadarsanomys",19,75,2
+"Kadarsanomys sodyi",19,75,2
 "Kazakhstan Blind Mole Rat",2,17,1
 "Kalinowski's Oldfield Mouse",24,10,2
-"kalinowskii",24,10,2
+"Thomasomys kalinowskii",24,10,2
 "Kazakhstan Vole",5,78,1
 "Kansas Bog Lemming",6,48,2
 "Kachin Red-backed Vole",7,12,1
 "Central Kashmir Vole",7,61,2
 "Kam Dwarf Hamster",4,111,2
-"kamensis",4,111,2
+"Cricetulus kamensis",4,111,2
 "Mount Kahuzi African Climbing Mouse",4,181,2
-"kahuziensis",4,181,2
+"Dendromus kahuziensis",4,181,2
 "Kazbeg Birch Mouse",3,29,2
-"kazbegica",3,29,2
+"Sicista kazbegica",3,29,2
 "Dulzura Kangaroo Rat",31,61,1
 "Agile Kangaroo Rat",31,62,2
 "Narrow-faced Kangaroo Rat",31,63,2
@@ -40,24 +40,24 @@ name,fileindex,index,whichChild
 "Desert Kangaroo Rat",31,89,2
 "Dark Kangaroo Mouse",31,91,1
 "Pale Kangaroo Mouse",31,92,2
-"Kannabateomys",29,84,2
+"Kannabateomys amblyonyx",29,84,2
 "Kalinowski Agouti",33,25,1
-"kalinowskii",33,25,1
+"Dasyprocta kalinowskii",33,25,1
 "Small Kashmir Flying Squirrel",80,42,2
-"kandti",41,25,2
+"Cercopithecus kandti",41,25,2
 "Kashmir Gray Langur",40,67,2
 "Kashmir Cave Bat",73,16,2
 "Kalinowski's Mastiff Bat",62,181,1
-"kalinowskii",62,181,1
+"Mormopterus kalinowskii",62,181,1
 "Kai Horseshoe Bat",59,13,2
-"kappleri",71,11,2
-"kapalgensis",71,84,2
+"Peropteryx kappleri",71,11,2
+"Taphozous kapalgensis",71,84,2
 "Kashmir Muskdeer",63,182,2
-"kanchil",63,198,1
-"kathiah",49,38,2
+"Tragulus kanchil",63,198,1
+"Mustela kathiah",49,38,2
 "Kashmir White-toothed Shrew",90,11,2
 "Kahuzi Swamp Shrew",89,10,1
-"kappleri",0,44,2
+"Dasypus kappleri",0,44,2
 "Red Kangaroo",43,70,2
 "Western Gray Kangaroo",43,74,1
 "Eastern Grey Kangaroo",43,75,2
@@ -74,6 +74,6 @@ name,fileindex,index,whichChild
 "Musky Rat Kangaroo",43,131,2
 "Kaluta",84,39,2
 "Kangaroo Island Dunnart",84,102,2
-"kalubu",0,136,2
+"Echymipera kalubu",0,136,2
 "Karimi's Fat-tailed Mouse Opossum",1,62,1
-"karimii",1,62,1
+"Thylamys karimii",1,62,1

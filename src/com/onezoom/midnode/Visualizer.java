@@ -38,6 +38,10 @@ public class Visualizer{
 		path = new Path();
 	}
 	
+	public static float getThresholddrawtextdetailleaf() {
+		return thresholdDrawTextDetailLeaf;
+	}
+	
 	
 	public void drawTree(Canvas canvas, MidNode midNode) {
 		this.canvas = canvas;
@@ -48,14 +52,7 @@ public class Visualizer{
 	/**
 	 * Call this method to draw a node and its descendants.
 	 * 
-	 * dvar tests whether the horizon of a node(including its descendants) is within the screen.
-	 * 
 	 * lengthbr is used in growth animation to select only parts of the tree which is older the time line.
-	 * 
-	 * Draw node which is inside screen but has small ratio in order add fake leafs to prevent simply
-	 * drawing a branch in the end.
-	 * 
-	 * Draw node whose lengthbr is smaller than time line to add fake leafs
 	 * @param midNode
 	 */
 	private void drawElement(MidNode midNode) {
@@ -65,12 +62,18 @@ public class Visualizer{
 				> TraitsData.timelim) drawElement(midNode.child2);
 		
 		if (midNode.positionData.insideScreen && !midNode.positionData.gvar) {
+			/**
+			 * Add fake leafs when gvar is small.
+			 */
 			this.drawBranch(midNode);
 			this.drawLeaf(midNode);
 		} else if (!midNode.positionData.gvar) {
 			return;
 		} else if (midNode.positionData.insideScreen &&
 			midNode.traitsCalculator.getLengthbr() <= TraitsData.timelim) {
+			/**
+			 * Add fake leafs during growth animation.
+			 */
 			this.drawBranch(midNode);
 			this.drawLeaf(midNode);
 		} else if (midNode.getClass() == InteriorNode.class) {
@@ -262,21 +265,32 @@ public class Visualizer{
 				float radius = midNode.positionData.hxmax - midNode.positionData.hxmin;
 				if (r * radius > 1f * rangeBaseForDrawSignPost
 						&& r * radius < 4f * rangeBaseForDrawSignPost) {
-					//if the ratio of the node is appropriate for drawing signpost
-					//and it has a common name, then draw sign post on this node
+					/**
+					 * if the ratio of the node is appropriate for drawing signpost
+					 *  and it has a common name, then draw sign post on this node
+					 */
+				
 					if (!midNode.traitsCalculator.getCname().equals("null")) {
 						drawSignPostCircle(r, x, y, midNode);
 						drawSignPostText(r, x, y, midNode);
-						signdrawn = true;  //prevent signpost passing down to its descendants
+						
+						/**
+						 * prevent signpost passing down to its descendants
+						 */
+						signdrawn = true;  
 					}
 
 				} else if (r * radius < 1f * rangeBaseForDrawSignPost) {
-					//ratio too samll, prevent signpost passing down.
+					/**
+					 * ratio too samll, prevent signpost passing down.
+					 */
 					signdrawn = true;
 				}
 
 				if (!signdrawn) {
-					//pass sign post drawing to children
+					/**
+					 * pass sign post drawing to children
+					 */
 					drawSignPost(midNode.child1);
 					drawSignPost(midNode.child2);
 				}
@@ -355,31 +369,56 @@ public class Visualizer{
 		float startX = x + midNode.positionData.arcr / 2f + r * midNode.positionData.arcx;
 		float startY = y + midNode.positionData.arcr / 2f + r * midNode.positionData.arcy - radius * 0.6f;
 		float lineHeight = radius;
-
+		String commonName = midNode.traitsCalculator.getCname();
 	
-		if (!midNode.traitsCalculator.getCname().equals("null") &&
-				!midNode.traitsCalculator.getCname().equals("")) {
-			String name = midNode.traitsCalculator.getCname();
+		if (!commonName.equals("null") && !commonName.equals("")) {
+			
+			/**
+			 * First draw geological age.
+			 */
 			this.drawTextOneLine(Utility.geologicAge(midNode), 
 					startX, startY, lineHeight, textPaint);
 			startY += lineHeight / 4.5f;
+			
+			/**
+			 * Draw age 
+			 */
 			this.drawTextOneLine(String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
 					startX, startY, lineHeight * 1.7f, textPaint);
 			startY += lineHeight / 2.5f;
-			this.drawTextOnTwoLines(name, 
+			
+			/**
+			 * Draw common name
+			 */
+			this.drawTextOnTwoLines(commonName, 
 					startX, startY,lineHeight / 3f, lineHeight * 1.5f, textPaint);	
 			startY += lineHeight / 1.5f;
+			
+			/**
+			 * Draw richness 
+			 */
 			this.drawTextOneLine((midNode.traitsCalculator.getRichness() + " species"),
 					startX, startY, lineHeight, textPaint);
 		} else {
-			String speciesInfo = Integer
-					.toString(midNode.traitsCalculator.getRichness()) + " species";
+			/**
+			 * Draw geological age
+			 */
 			this.drawTextOneLine(Utility.geologicAge(midNode), 
 					startX, startY, lineHeight, textPaint);
 			startY += lineHeight / 3f;
+			
+			/**
+			 * Draw age
+			 */
 			this.drawTextOneLine(String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
 					startX, startY, lineHeight * 1.7f, textPaint);
 			startY += lineHeight / 1.7f;
+			
+			/**
+			 * Draw richness value
+			 */
+			String speciesInfo = Integer
+					.toString(midNode.traitsCalculator.getRichness()) + " species";
 			this.drawTextOneLine(speciesInfo, startX, startY, lineHeight * 1.7f, textPaint);
 		}
 	}
@@ -440,8 +479,15 @@ public class Visualizer{
 		String conservationString = Utility.conservationStatus(midNode);
 
 		if( !commonName.equals("null") && !commonName.equals("")){
+			/**
+			 * Draw wiki link and arkive link
+			 */
 			drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
 			drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
+			
+			/**
+			 * Draw latin name, common name and conservation status.
+			 */
 			startY += lineWidth / 6f;
 			drawTextOneLine(latinName, startX, startY, lineWidth / 1.5f, textPaint);
 			startY += lineHeight / 5f;
@@ -450,9 +496,17 @@ public class Visualizer{
 			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
 		}
 		else {
+			
+			/**
+			 * Draw wiki link and arkive link
+			 */
 			drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
 			drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
 			startY += lineHeight / 6f;
+			
+			/**
+			 * Draw common name, latin name and conservation status.
+			 */
 			drawTextOneLine("no common name", startX, startY, lineWidth / 1.5f, textPaint);
 			startY += lineHeight / 5f;
 			drawTextOnTwoLines(latinName,

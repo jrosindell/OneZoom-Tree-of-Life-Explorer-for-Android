@@ -1,71 +1,71 @@
 name,fileindex,index,whichChild
 "Nyika Rock Rat",11,191,2
-"nyikae",11,191,2
-"Nyctomys",21,149,2
-"nyasae",4,180,2
+"Aethomys nyikae",11,191,2
+"Nyctomys sumichrasti",21,149,2
+"Dendromus nyasae",4,180,2
 "Nyika Climbing Mouse",4,192,2
-"nyikae",4,192,2
-"nycthemera",33,54,2
-"nyasae",39,20,2
-"Nycticebus",39,40,1
-"Nycticebus",39,41,2
-"Nycticebus",39,42,2
-"Nyctalus",53,175,1
-"Nyctalus",53,176,2
-"Nyctalus",53,177,2
-"Nyctalus",53,178,2
-"Nyctalus",53,179,2
-"Nyctalus",53,182,1
-"Nyctalus",53,183,2
-"Nyctalus",53,184,2
-"Nycticeinops",54,59,2
-"Nycticeius",54,81,1
-"Nycticeius",54,82,2
-"Nyctophilus",56,40,1
-"Nyctophilus",56,41,2
-"Nyctophilus",56,42,2
-"Nyctophilus",56,44,1
-"Nyctophilus",56,45,2
-"Nyctophilus",56,47,1
-"Nyctophilus",56,48,2
-"Nyctophilus",56,50,1
-"Nyctophilus",56,51,2
-"Nycticeius",73,38,1
-"Nyctinomops",62,123,1
-"Nyctinomops",62,124,2
-"Nyctinomops",62,125,2
-"Nyctinomops",62,126,2
-"nymphaea",68,37,1
-"Nyctiellus",45,60,2
-"Nycteris",58,135,1
-"Nycteris",58,136,2
-"Nycteris",58,137,2
-"Nycteris",58,139,1
-"Nycteris",58,140,2
-"Nycteris",58,144,1
-"Nycteris",58,145,2
-"Nycteris",58,146,2
-"Nycteris",58,148,1
-"Nycteris",58,149,2
-"Nycteris",58,153,1
-"Nycteris",58,154,2
-"Nycteris",58,155,2
-"Nycteris",58,156,2
-"Nycteris",58,158,1
-"Nycteris",58,159,2
-"Nyctimene",46,59,1
-"Nyctimene",46,60,2
-"Nyctimene",46,61,2
-"Nyctimene",46,62,2
-"Nyctimene",46,63,2
-"Nyctimene",46,67,1
-"Nyctimene",46,68,2
-"Nyctimene",46,69,2
-"Nyctimene",46,71,1
-"Nyctimene",46,72,2
-"Nyctimene",46,75,1
-"Nyctimene",46,76,2
-"Nyctimene",46,77,2
+"Dendromus nyikae",4,192,2
+"Coendou nycthemera",33,54,2
+"Galago nyasae",39,20,2
+"Nycticebus bengalensis",39,40,1
+"Nycticebus coucang",39,41,2
+"Nycticebus pygmaeus",39,42,2
+"Nyctalus lasiopterus",53,175,1
+"Nyctalus leisleri",53,176,2
+"Nyctalus aviator",53,177,2
+"Nyctalus montanus",53,178,2
+"Nyctalus azoreum",53,179,2
+"Nyctalus plancyi",53,182,1
+"Nyctalus furvus",53,183,2
+"Nyctalus noctula",53,184,2
+"Nycticeinops schlieffeni",54,59,2
+"Nycticeius cubanus",54,81,1
+"Nycticeius humeralis",54,82,2
+"Nyctophilus gouldi",56,40,1
+"Nyctophilus bifax",56,41,2
+"Nyctophilus walkeri",56,42,2
+"Nyctophilus microtis",56,44,1
+"Nyctophilus heran",56,45,2
+"Nyctophilus arnhemensis",56,47,1
+"Nyctophilus geoffroyi",56,48,2
+"Nyctophilus microdon",56,50,1
+"Nyctophilus timoriensis",56,51,2
+"Nycticeius aenobarbus",73,38,1
+"Nyctinomops femorosaccus",62,123,1
+"Nyctinomops laticaudatus",62,124,2
+"Nyctinomops macrotis",62,125,2
+"Nyctinomops aurispinosus",62,126,2
+"Vampyressa nymphaea",68,37,1
+"Nyctiellus lepidus",45,60,2
+"Nycteris madagascariensis",58,135,1
+"Nycteris macrotis",58,136,2
+"Nycteris vinsoni",58,137,2
+"Nycteris parisii",58,139,1
+"Nycteris woodi",58,140,2
+"Nycteris aurita",58,144,1
+"Nycteris hispida",58,145,2
+"Nycteris grandis",58,146,2
+"Nycteris gambiensis",58,148,1
+"Nycteris thebaica",58,149,2
+"Nycteris nana",58,153,1
+"Nycteris major",58,154,2
+"Nycteris intermedia",58,155,2
+"Nycteris arge",58,156,2
+"Nycteris tragata",58,158,1
+"Nycteris javanica",58,159,2
+"Nyctimene cephalotes",46,59,1
+"Nyctimene masalai",46,60,2
+"Nyctimene rabori",46,61,2
+"Nyctimene malaitensis",46,62,2
+"Nyctimene vizcaccia",46,63,2
+"Nyctimene minutus",46,67,1
+"Nyctimene albiventer",46,68,2
+"Nyctimene draconilla",46,69,2
+"Nyctimene cyclotis",46,71,1
+"Nyctimene certans",46,72,2
+"Nyctimene robinsoni",46,75,1
+"Nyctimene major",46,76,2
+"Nyctimene aello",46,77,2
 "Nyala",63,57,2
 "Mountain Nyala",63,58,2
-"Nyctereutes",47,156,2
+"Nyctereutes procyonoides",47,156,2

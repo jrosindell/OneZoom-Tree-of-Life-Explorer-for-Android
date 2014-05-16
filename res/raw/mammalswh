@@ -10,7 +10,7 @@ name,fileindex,index,whichChild
 "Lang Bian White-bellied Rat",11,91,2
 "Chestnut White-bellied Rat",11,98,2
 "Whitehead's Sundaic Maxomys",9,68,1
-"whiteheadi",9,68,1
+"Maxomys whiteheadi",9,68,1
 "White-tailed Wood Rat",9,109,1
 "Kenneth's White-toothed Rat",19,63,1
 "Manipur White-toothed Rat",19,64,2
@@ -18,7 +18,7 @@ name,fileindex,index,whichChild
 "White-bellied Limnomys",17,41,2
 "Littledale's Whistling Rat",14,44,1
 "Brants's Whistling Rat",14,45,2
-"whiteheadi",8,105,2
+"Chrotomys whiteheadi",8,105,2
 "Ethiopian White-footed Mouse",18,10,2
 "White-tailed Mouse",2,28,2
 "White-bellied Grass Mouse",23,59,1
@@ -40,7 +40,7 @@ name,fileindex,index,whichChild
 "Whiskered Flying Squirrel",80,19,2
 "Red And White Giant Flying Squirrel",77,19,1
 "Whitish Dwarf Squirrel",77,61,1
-"whiteheadi",78,52,1
+"Exilisciurus whiteheadi",78,52,1
 "White-tailed Prairie Dog",79,114,1
 "White-tailed Antelope Sqirrel",79,123,1
 "White-tailed Jackrabbit",76,21,2
@@ -63,7 +63,7 @@ name,fileindex,index,whichChild
 "White-collared Lemur",36,19,2
 "White-footed Sportive Lemur",36,50,1
 "Whitehead's Woolly Bat",53,29,2
-"whiteheadi",53,29,2
+"Kerivoula whiteheadi",53,29,2
 "Singaporese Whiskered Myotis",74,22,1
 "Whiskered Myotis",74,32,2
 "Bokhara Whiskered Bat",74,38,1
@@ -72,14 +72,14 @@ name,fileindex,index,whichChild
 "Burmese Whiskered Myotis",73,118,2
 "White-bellied Yellow Bat",73,177,1
 "White-striped Free-tailed Bat",62,142,1
-"whitleyi",62,167,2
+"Myopterus whitleyi",62,167,2
 "White-lined Bat",68,21,2
 "Honduran White Bat",68,41,2
 "Little White-shouldered Bat",67,55,1
 "White-throated Round-eared Bat",67,158,2
 "White-winged Vampire Bat",67,205,1
 "White-winged Dog-like Bat",71,12,2
-"whiteheadi",45,95,2
+"Harpyionycteris whiteheadi",45,95,2
 "White-collared Fruit Bat",46,26,2
 "White-bellied Duiker",65,32,2
 "White-lipped Deer",63,106,1
@@ -142,7 +142,7 @@ name,fileindex,index,whichChild
 "Dwarf White-toothed Shrew",88,72,2
 "Sulawesi White-handed Shrew",89,32,1
 "Whitaker's Shrew",88,80,2
-"whitakeri",88,80,2
+"Crocidura whitakeri",88,80,2
 "Blackish White-toothed Shrew",88,152,1
 "Greater White-toothed Shrew",88,153,2
 "Andaman White-toothed Shrew",88,189,1

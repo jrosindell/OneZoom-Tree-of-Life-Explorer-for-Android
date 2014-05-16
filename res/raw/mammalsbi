@@ -6,13 +6,13 @@ name,fileindex,index,whichChild
 "Nehring's Bilind Mole Rat",2,26,2
 "Biting Chincilla Mouse",27,79,2
 "Bicolored Arboreal Rice Rat",27,110,2
-"bicolor",27,110,2
+"Oecomys bicolor",27,110,2
 "Bolivian Big-eared Mouse",26,35,1
 "Painted Big-eared Mouse",26,36,2
 "Andean Big-eared Mouse",26,38,1
-"Bibimys",26,58,1
-"Bibimys",26,59,2
-"Bibimys",26,60,2
+"Bibimys torresi",26,58,1
+"Bibimys chacoensis",26,59,2
+"Bibimys labiosus",26,60,2
 "Big-eared Climbing Rat",21,146,2
 "Big Deer Mouse",25,41,2
 "Big-eared Woodrat",22,41,2
@@ -33,17 +33,17 @@ name,fileindex,index,whichChild
 "Kazbeg Birch Mouse",3,29,2
 "Caucasian Birch Mouse",3,30,2
 "Big Pocket Gopher",20,59,2
-"bistriata",30,43,1
+"Isothrix bistriata",30,43,1
 "Bishop's Fossorial Spiny Rat",29,90,1
-"bishopi",29,90,1
+"Clyomys bishopi",29,90,1
 "Bicolor-spined Porcupine",33,55,2
-"bicolor",33,55,2
-"biswasi",77,33,1
-"Biswamoyopterus",77,33,1
-"bicolor",77,49,1
+"Coendou bicolor",33,55,2
+"Biswamoyopterus biswasi",77,33,1
+"Biswamoyopterus biswasi",77,33,1
+"Ratufa bicolor",77,49,1
 "Big Horn Thirteen-lined Ground Squirrel",79,70,1
-"bieti",40,75,2
-"bicolor",38,60,2
+"Rhinopithecus bieti",40,75,2
+"Saguinus bicolor",38,60,2
 "Bibundi Bat",55,13,2
 "Gray Big-eared Bat",53,130,2
 "Canary Big-eared Bat",53,131,2
@@ -60,7 +60,7 @@ name,fileindex,index,whichChild
 "Big-eared Brown Bat",54,71,2
 "Strange Big-eared Brown Bat",54,72,2
 "Big Red Bat",56,32,2
-"bifax",56,41,2
+"Nyctophilus bifax",56,41,2
 "Thomas's Big-eared Bat",56,52,2
 "Big-footed Myotis",73,15,2
 "Guadeloupean Big Brown Bat",73,138,1
@@ -68,21 +68,21 @@ name,fileindex,index,whichChild
 "Gobi Big Brown Bat",73,158,1
 "Big Crested Mastiff Bat",62,25,1
 "Big Bonneted Bat",62,40,2
-"bivittatus",62,90,2
+"Chaerephon bivittatus",62,90,2
 "Big Free-tailed Bat",62,125,2
 "Kenyan Big-eared Free-tailed Bat",62,138,2
 "Bini Free-tailed Bat",62,167,2
-"bilobatum",68,25,2
-"bidens",68,39,2
+"Uroderma bilobatum",68,25,2
+"Vampyressa bidens",68,39,2
 "Guadeloupean Big-eyed Bat",68,45,1
 "Hairy Big-eyed Bat",68,46,2
 "Little Big-eyed Bat",68,48,1
 "Brazilian Big-eyed Bat",68,49,2
 "Salvin's Big-eyed Bat",68,50,2
-"bilabiatum",67,58,1
+"Pygoderma bilabiatum",67,58,1
 "Bidentate Yellow-shouldered Bat",67,83,1
-"bidens",67,83,1
-"bidens",67,161,2
+"Sturnira bidens",67,83,1
+"Tonatia bidens",67,161,2
 "Big-eared Wooly Bat",67,165,1
 "Little Big-eared Bat",67,173,1
 "Common Big-eared Bat",67,174,2
@@ -95,37 +95,37 @@ name,fileindex,index,whichChild
 "Niceforo's Big-eared Bat",67,189,2
 "Big Naked-backed Bat",67,218,1
 "Bicolored Leaf-nosed Bat",58,26,2
-"bicolor",58,26,2
+"Hipposideros bicolor",58,26,2
 "Big-eared Leaf-nosed Bat",58,28,1
 "Biak Leaf-nosed Bat",58,50,2
 "Big-eared Horseshoe Bat",59,45,1
-"bilineata",71,28,1
+"Saccopteryx bilineata",71,28,1
 "Bismarck Flying Fox",57,116,2
 "Bismarck Bare-backed Fruit Bat",57,154,2
 "Biak Bare-backed Fruit Bat",57,167,2
-"bidens",70,41,2
+"Rousettus bidens",70,41,2
 "Bighorn Sheep",64,37,2
 "European Bison",63,67,1
-"Bison",63,67,1
+"Bison bonasus",63,67,1
 "American Bison",63,68,2
-"bison",63,68,2
-"Bison",63,68,2
-"bisulcus",63,158,1
-"bidens",75,117,1
-"bicornis",45,140,2
+"Bison bison",63,68,2
+"Bison bison",63,68,2
+"Hippocamelus bisulcus",63,158,1
+"Mesoplodon bidens",75,117,1
+"Diceros bicornis",45,140,2
 "Binturong",51,59,2
-"binturong",51,59,2
-"binotata",51,62,2
-"bieti",48,63,2
+"Arctictis binturong",51,59,2
+"Nandinia binotata",51,62,2
+"Felis bieti",48,63,2
 "Bicolored Shrew",88,17,1
 "Bicolored Musk Shrew",88,58,1
 "Bioko Forest Shrew",87,52,2
 "Big Mexican Small-eared Shrew",92,14,2
-"billardierii",43,46,2
-"bicolor",43,76,2
+"Thylogale billardierii",43,46,2
+"Wallabia bicolor",43,76,2
 "Biak Glider",43,172,2
-"biacensis",43,172,2
-"bilarni",84,28,2
+"Petaurus biacensis",43,172,2
+"Pseudantechinus bilarni",84,28,2
 "Bilby",0,158,2
-"bishopi",1,25,2
+"Marmosops bishopi",1,25,2
 "Big-eared Opossum",1,79,2

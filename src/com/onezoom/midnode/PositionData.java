@@ -98,22 +98,30 @@ public class PositionData implements Comparable<PositionData>{
 	
 	/**
 	 * Compare the closeness of two node to the center of the screen.
+	 * 
+	 * It is used to decide which chunk of file should be initialized first.
+	 * 
+	 * The node which is closer to the center of the screen will be initialized earlier.
 	 */
 	@Override
 	public int compareTo(PositionData another) {
-		float thisDistanceToCenter = Math.abs(xvar * 2 - screenXmax - screenXmin) + Math.abs(yvar * 2 - screenYmax - screenYmin);
-		float thatDistanceToCenter = Math.abs(another.xvar * 2 - screenXmax - screenXmin) + Math.abs(another.yvar * 2 - screenYmax - screenYmin);
+		float thisDistanceToCenter = getDistanceToCenter(this);
+		float thatDistanceToCenter = getDistanceToCenter(another);
 		if (thisDistanceToCenter > thatDistanceToCenter) return 1;
 		else if (thisDistanceToCenter < thatDistanceToCenter) return -1;
 		return 0;
 	}
 	
-	public float getDistanceToCenter() {
-		return Math.abs(xvar * 2 - screenXmax - screenXmin) + Math.abs(yvar * 2 - screenYmax - screenYmin);
+	private float getDistanceToCenter(PositionData pd) {
+		return Math.abs(pd.xvar * 2 - screenXmax - screenXmin) + Math.abs(pd.yvar * 2 - screenYmax - screenYmin);
 	}
 
 	/**
-	 * Move the interior circle or the leaf of the node into screen center. 
+	 * Before this function being called, t
+	 * he searched node should have already be moved into the center of the screen.
+	 * But only the start position of its branch is in the center.
+	 * 
+	 * This function moves the center of the leaf of interior circle of the node into screen center.
 	 * @param searchedNode
 	 */
 	public static void moveNodeToCenter(MidNode searchedNode) {

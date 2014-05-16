@@ -1,28 +1,28 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,-268435449,"provocax","Lontra","Southern River Otter",EN,D,-8572416
-9,-268435449,"felina","Lontra","Marine Otter",EN,D,-8572416
-10,-268435450,"longicaudis","Lontra","Neotropical Otter",DD,D,-11513776
-11,-268435451,"canadensis","Lontra","North American Otter",LC,S,-16731116
-14,-268435443,"lutra","Lutra","Eurasian Otter",NT,D,-12486656
-15,-268435443,"nippon","Lutra","",NE,U,-16777216
-16,-268435444,"sumatrana","Lutra","Hairy-nosed Otter",EN,D,-8572416
-20,-268435437,"perspicillata","Lutrogale","Smooth-coated Otter",VU,U,-11184866
-21,-268435437,"maculicollis","Hydrictis","",NE,U,-16777216
-22,-268435438,"brasiliensis","Pteronura","Giant Otter",EN,D,-8572416
-23,-268435439,"lutris","Enhydra","Sea Otter",EN,S,-8572416
-25,-268435432,"cinerea","Aonyx","Asian Small-clawed Otter",VU,D,-11184866
-26,-268435432,"capensis","Aonyx","African Clawless Otter",LC,S,-16731116
-32,-268435425,"putorius","Spilogale","Eastern Spotted Skunk",LC,D,-16731116
-33,-268435425,"gracilis","Spilogale","Western Spotted Skunk",LC,D,-16731116
-34,-268435426,"angustifrons","Spilogale","Southern Spotted Skunk",LC,S,-16731116
-35,-268435427,"pygmaea","Spilogale","Pygmy Spotted Skunk",VU,D,-11184866
-37,-268435420,"mephitis","Mephitis","Striped Skunk",LC,S,-16731116
-38,-268435420,"macroura","Mephitis","Hooded Skunk",LC,I,-16731116
-41,-268435416,"humboldtii","Conepatus","Humboldt's Hog-nosed Skunk",LC,S,-16731116
-42,-268435416,"semistriatus","Conepatus","Striped Hog-nosed Skunk",LC,U,-16731116
-44,-268435413,"leuconotus","Conepatus","American Hog-nosed Skunk",LC,D,-16731116
-45,-268435413,"chinga","Conepatus","Molina's Hog-nosed Skunk",LC,D,-16731116
-49,-268435408,"personata","Melogale","Large-toothed Ferret Badger",DD,U,-11513776
-50,-268435408,"orientalis","Melogale","Javan Ferret Badger",DD,U,-11513776
-51,-268435409,"everetti","Melogale","Bornean Ferret Badger",DD,U,-11513776
-52,-268435410,"moschata","Melogale","Small-toothed Ferret-badger",LC,U,-16731116
+8,7,"provocax","Lontra","Southern River Otter",EN,D,-8572416
+9,7,"felina","Lontra","Marine Otter",EN,D,-8572416
+10,6,"longicaudis","Lontra","Neotropical Otter",DD,D,-11513776
+11,5,"canadensis","Lontra","North American Otter",LC,S,-16731116
+14,13,"lutra","Lutra","Eurasian Otter",NT,D,-12486656
+15,13,"nippon","Lutra","",NE,U,-16777216
+16,12,"sumatrana","Lutra","Hairy-nosed Otter",EN,D,-8572416
+20,19,"perspicillata","Lutrogale","Smooth-coated Otter",VU,U,-11184866
+21,19,"maculicollis","Hydrictis","",NE,U,-16777216
+22,18,"brasiliensis","Pteronura","Giant Otter",EN,D,-8572416
+23,17,"lutris","Enhydra","Sea Otter",EN,S,-8572416
+25,24,"cinerea","Aonyx","Asian Small-clawed Otter",VU,D,-11184866
+26,24,"capensis","Aonyx","African Clawless Otter",LC,S,-16731116
+32,31,"putorius","Spilogale","Eastern Spotted Skunk",LC,D,-16731116
+33,31,"gracilis","Spilogale","Western Spotted Skunk",LC,D,-16731116
+34,30,"angustifrons","Spilogale","Southern Spotted Skunk",LC,S,-16731116
+35,29,"pygmaea","Spilogale","Pygmy Spotted Skunk",VU,D,-11184866
+37,36,"mephitis","Mephitis","Striped Skunk",LC,S,-16731116
+38,36,"macroura","Mephitis","Hooded Skunk",LC,I,-16731116
+41,40,"humboldtii","Conepatus","Humboldt's Hog-nosed Skunk",LC,S,-16731116
+42,40,"semistriatus","Conepatus","Striped Hog-nosed Skunk",LC,U,-16731116
+44,43,"leuconotus","Conepatus","American Hog-nosed Skunk",LC,D,-16731116
+45,43,"chinga","Conepatus","Molina's Hog-nosed Skunk",LC,D,-16731116
+49,48,"personata","Melogale","Large-toothed Ferret Badger",DD,U,-11513776
+50,48,"orientalis","Melogale","Javan Ferret Badger",DD,U,-11513776
+51,47,"everetti","Melogale","Bornean Ferret Badger",DD,U,-11513776
+52,46,"moschata","Melogale","Small-toothed Ferret-badger",LC,U,-16731116

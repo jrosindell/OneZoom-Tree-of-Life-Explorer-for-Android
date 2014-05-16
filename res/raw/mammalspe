@@ -1,21 +1,21 @@
 name,fileindex,index,whichChild
-"penicillatus",13,79,2
-"pedunculatus",13,85,2
+"Conilurus penicillatus",13,79,2
+"Zyzomys pedunculatus",13,85,2
 "Kakadu Pebble Mouse",13,109,1
 "Western Pebble Mouse",13,112,2
 "Central Pebble Mouse",13,125,1
 "Eastern Pebble Mouse",13,139,1
 "Percival's Spiny Mouse",11,33,2
-"percivali",11,33,2
+"Acomys percivali",11,33,2
 "Peter's Mouse",11,135,2
-"Pelomys",11,207,1
-"Pelomys",11,208,2
-"Pelomys",11,209,2
-"Pelomys",11,210,2
-"Pelomys",11,211,2
+"Pelomys campanae",11,207,1
+"Pelomys minor",11,208,2
+"Pelomys hopkinsi",11,209,2
+"Pelomys fallax",11,210,2
+"Pelomys isseli",11,211,2
 "Koopman's Peleng Island Rat",10,31,1
 "Peleng Island Xanthurus Rat",10,74,2
-"pelurus",10,74,2
+"Rattus pelurus",10,74,2
 "Koopman's Pencil-tailed Tree Mouse",9,80,1
 "Greater Pencil-tailed Tree Mouse",9,81,2
 "Pencil-tailed Tree Mouse",9,82,2
@@ -24,272 +24,272 @@ name,fileindex,index,whichChild
 "Lesser Pencil-tailed Tree Mouse",9,86,2
 "Malay Peninsula Pithecheir",9,152,1
 "Northeastern Peninsula Bunomys",9,184,1
-"penitus",9,190,2
-"peninsulae",19,19,1
-"pernanus",19,94,2
+"Bunomys penitus",9,190,2
+"Apodemus peninsulae",19,19,1
+"Mastomys pernanus",19,94,2
 "Peters' Hybomys",17,14,2
-"perpallidus",16,13,2
-"peeli",8,150,2
+"Gerbillus perpallidus",16,13,2
+"Microdillus peeli",8,150,2
 "Persian Jird",12,37,1
-"persicus",12,37,1
+"Meriones persicus",12,37,1
 "Petter's Gerbil",12,86,1
-"petteri",12,86,1
-"Petromyscus",8,179,1
-"Petromyscus",8,180,2
-"Petromyscus",8,182,1
-"Petromyscus",8,183,2
-"pervalens",23,29,2
+"Taterillus petteri",12,86,1
+"Petromyscus shortridgei",8,179,1
+"Petromyscus barbouri",8,180,2
+"Petromyscus monticularis",8,182,1
+"Petromyscus collinus",8,183,2
+"Akodon pervalens",23,29,2
 "Peruvian Oldfield Mouse",24,43,2
 "Peruvian Vesper Mouse",23,135,1
-"perenensis",27,69,2
+"Oryzomys perenensis",27,69,2
 "Peterson's Chincilla Mouse",27,80,2
-"petersoni",27,80,2
+"Euneomys petersoni",27,80,2
 "Southern Pericote",26,39,2
 "Pearson's Chaco Mouse",26,41,1
-"pearsoni",26,41,1
+"Andalgalomys pearsoni",26,41,1
 "Peruvian Fish-eating Rat",21,80,1
-"peruviensis",21,80,1
+"Neusticomys peruviensis",21,80,1
 "Peruvian Cotton Rat",21,126,2
-"peruanus",21,126,2
+"Sigmodon peruanus",21,126,2
 "Peter's Climbing Rat",21,144,1
-"Peromyscus",25,10,1
-"Peromyscus",25,11,2
-"Peromyscus",25,13,1
-"perfulvus",25,14,2
-"Peromyscus",25,14,2
-"Peromyscus",25,17,1
-"Peromyscus",25,18,2
-"Peromyscus",25,19,2
-"Peromyscus",25,23,1
-"Peromyscus",25,24,2
-"Peromyscus",25,26,1
-"Peromyscus",25,27,2
-"Peromyscus",25,28,2
-"Peromyscus",25,29,2
-"Peromyscus",25,35,1
-"Peromyscus",25,36,2
-"Peromyscus",25,37,2
-"Peromyscus",25,40,1
-"Peromyscus",25,41,2
-"pectoralis",25,42,2
-"Peromyscus",25,42,2
-"Peromyscus",25,44,1
-"Peromyscus",25,45,2
-"Peromyscus",25,48,1
-"Peromyscus",25,49,2
-"Peromyscus",25,50,2
-"Peromyscus",25,58,1
-"Peromyscus",25,59,2
-"Peromyscus",25,60,2
-"Peromyscus",25,62,1
-"Peromyscus",25,63,2
-"Peromyscus",25,65,1
-"Peromyscus",25,66,2
-"Peromyscus",25,67,2
-"Peromyscus",25,70,1
-"Peromyscus",25,71,2
-"Peromyscus",25,73,1
-"Peromyscus",25,74,2
-"Peromyscus",25,79,1
-"Peromyscus",25,80,2
-"Peromyscus",25,81,2
-"Peromyscus",25,83,1
-"Peromyscus",25,84,2
-"Peromyscus",25,86,1
-"Peromyscus",25,87,2
-"Peromyscus",25,92,1
-"Peromyscus",25,93,2
-"Peromyscus",25,95,1
-"Peromyscus",25,96,2
-"Peromyscus",25,97,2
-"Peromyscus",25,102,1
-"Peromyscus",25,103,2
+"Peromyscus mekisturus",25,10,1
+"Peromyscus gossypinus",25,11,2
+"Peromyscus melanophrys",25,13,1
+"Peromyscus perfulvus",25,14,2
+"Peromyscus perfulvus",25,14,2
+"Peromyscus stirtoni",25,17,1
+"Peromyscus keeni",25,18,2
+"Peromyscus dickeyi",25,19,2
+"Peromyscus leucopus",25,23,1
+"Peromyscus attwateri",25,24,2
+"Peromyscus yucatanicus",25,26,1
+"Peromyscus eva",25,27,2
+"Peromyscus polius",25,28,2
+"Peromyscus ochraventer",25,29,2
+"Peromyscus interparietalis",25,35,1
+"Peromyscus simulus",25,36,2
+"Peromyscus californicus",25,37,2
+"Peromyscus melanurus",25,40,1
+"Peromyscus grandis",25,41,2
+"Peromyscus pectoralis",25,42,2
+"Peromyscus pectoralis",25,42,2
+"Peromyscus melanotis",25,44,1
+"Peromyscus polionotus",25,45,2
+"Peromyscus fraterculus",25,48,1
+"Peromyscus eremicus",25,49,2
+"Peromyscus sejugis",25,50,2
+"Peromyscus levipes",25,58,1
+"Peromyscus sagax",25,59,2
+"Peromyscus beatae",25,60,2
+"Peromyscus hylocetes",25,62,1
+"Peromyscus aztecus",25,63,2
+"Peromyscus caniceps",25,65,1
+"Peromyscus crinitus",25,66,2
+"Peromyscus merriami",25,67,2
+"Peromyscus maniculatus",25,70,1
+"Peromyscus mexicanus",25,71,2
+"Peromyscus guatemalensis",25,73,1
+"Peromyscus furvus",25,74,2
+"Peromyscus winkelmanni",25,79,1
+"Peromyscus nasutus",25,80,2
+"Peromyscus stephani",25,81,2
+"Peromyscus zarhynchus",25,83,1
+"Peromyscus slevini",25,84,2
+"Peromyscus pseudocrinitus",25,86,1
+"Peromyscus megalops",25,87,2
+"Peromyscus gymnotis",25,92,1
+"Peromyscus spicilegus",25,93,2
+"Peromyscus hooperi",25,95,1
+"Peromyscus boylii",25,96,2
+"Peromyscus madrensis",25,97,2
+"Peromyscus melanocarpus",25,102,1
+"Peromyscus mayensis",25,103,2
 "Perote Deer Mouse",25,104,2
-"Peromyscus",25,104,2
-"Peromyscus",25,105,2
-"Peromyscus",25,106,2
-"Peromyscus",25,108,1
-"Peromyscus",25,109,2
+"Peromyscus bullatus",25,104,2
+"Peromyscus gratus",25,105,2
+"Peromyscus guardia",25,106,2
+"Peromyscus difficilis",25,108,1
+"Peromyscus truei",25,109,2
 "Persian Vole",5,70,2
-"pennsylvanicus",5,99,1
+"Microtus pennsylvanicus",5,99,1
 "Pere David's Vole",7,13,2
-"penicillatus",4,73,1
+"Eliurus penicillatus",4,73,1
 "Pel's Flying Squirrel",2,80,2
-"pelii",2,80,2
-"Pedetes",2,87,1
-"Pedetes",2,88,2
-"personatus",2,108,2
-"penicillatus",31,16,2
-"pernix",31,20,2
-"Perognathus",31,39,1
-"Perognathus",31,40,2
-"Perognathus",31,42,1
-"Perognathus",31,43,2
-"Perognathus",31,44,2
-"Perognathus",31,48,1
-"Perognathus",31,49,2
-"Perognathus",31,50,2
-"Perognathus",31,51,2
+"Anomalurus pelii",2,80,2
+"Pedetes surdaster",2,87,1
+"Pedetes capensis",2,88,2
+"Geomys personatus",2,108,2
+"Chaetodipus penicillatus",31,16,2
+"Chaetodipus pernix",31,20,2
+"Perognathus merriami",31,39,1
+"Perognathus amplus",31,40,2
+"Perognathus parvus",31,42,1
+"Perognathus flavus",31,43,2
+"Perognathus longimembris",31,44,2
+"Perognathus fasciatus",31,48,1
+"Perognathus inornatus",31,49,2
+"Perognathus alticolus",31,50,2
+"Perognathus flavescens",31,51,2
 "Peruvian Tree Rat",30,30,2
 "Peruvian Bamboo Rat",29,80,2
-"peruanus",29,80,2
-"peruanum",29,206,2
-"Petromus",33,58,2
+"Dactylomys peruanus",29,80,2
+"Lagidium peruanum",29,206,2
+"Petromus typicus",33,58,2
 "Peruvian Tuco-tuco",32,46,1
-"peruanus",32,46,1
+"Ctenomys peruanus",32,46,1
 "Pearson's Tuco-tuco",32,60,2
-"pearsoni",32,60,2
-"perrensi",32,68,2
+"Ctenomys pearsoni",32,60,2
+"Ctenomys perrensi",32,68,2
 "Speke's Pectinator",2,166,2
-"Pectinator",2,166,2
-"Petinomys",80,8,1
-"Petinomys",80,9,2
-"Petinomys",80,10,2
-"Petinomys",80,11,2
-"Petinomys",80,12,2
-"Petinomys",80,16,1
-"Petinomys",80,17,2
-"Petinomys",80,18,2
-"Petinomys",80,19,2
-"Petaurillus",80,32,1
-"Petaurillus",80,33,2
-"Petaurillus",80,34,2
-"Petaurista",77,19,1
-"Petaurista",77,20,2
-"Petaurista",77,21,2
-"Petaurista",77,22,2
-"Petaurista",77,24,1
-"petaurista",77,25,2
-"Petaurista",77,25,2
-"Petaurista",77,26,2
-"Petaurista",77,27,2
-"pearsonii",77,34,2
+"Pectinator spekei",2,166,2
+"Petinomys fuscocapillus",80,8,1
+"Petinomys setosus",80,9,2
+"Petinomys lugens",80,10,2
+"Petinomys hageni",80,11,2
+"Petinomys vordermanni",80,12,2
+"Petinomys mindanensis",80,16,1
+"Petinomys crinitus",80,17,2
+"Petinomys sagitta",80,18,2
+"Petinomys genibarbis",80,19,2
+"Petaurillus kinlochii",80,32,1
+"Petaurillus hosei",80,33,2
+"Petaurillus emiliae",80,34,2
+"Petaurista alborufus",77,19,1
+"Petaurista nobilis",77,20,2
+"Petaurista magnificus",77,21,2
+"Petaurista elegans",77,22,2
+"Petaurista philippensis",77,24,1
+"Petaurista petaurista",77,25,2
+"Petaurista petaurista",77,25,2
+"Petaurista xanthotis",77,26,2
+"Petaurista leucogenys",77,27,2
+"Belomys pearsonii",77,34,2
 "Peters's Squirrel",82,26,2
 "Perny's Long-nosed Squirrel",78,39,2
-"pernyi",78,39,2
-"pennantii",77,108,2
+"Dremomys pernyi",78,39,2
+"Funambulus pennantii",77,108,2
 "Perote Ground Squirrel",79,71,2
-"perotensis",79,71,2
+"Spermophilus perotensis",79,71,2
 "Pere David's Rock Squirrel",77,125,1
-"personatus",77,188,1
-"peguensis",76,68,2
-"Pentalagus",76,115,2
-"petaurista",41,16,1
-"pennantii",40,98,2
-"penicillata",38,13,1
-"personatus",38,81,2
+"Myomimus personatus",77,188,1
+"Lepus peguensis",76,68,2
+"Pentalagus furnessi",76,115,2
+"Cercopithecus petaurista",41,16,1
+"Piliocolobus pennantii",40,98,2
+"Callithrix penicillata",38,13,1
+"Callicebus personatus",38,81,2
 "Peruvian Yellow-tailed Woolly Monkey",42,77,2
 "Peleng Tarsier",35,86,2
-"pelengensis",35,86,2
+"Tarsius pelengensis",35,86,2
 "Perrier's Sifaka",35,108,1
-"perrieri",35,108,1
+"Propithecus perrieri",35,108,1
 "Peters' Mouse Lemur",35,125,2
-"Perodicticus",39,50,2
+"Perodicticus potto",39,50,2
 "Pen-tailed Treeshrew",35,187,2
-"pellucida",53,16,2
+"Kerivoula pellucida",53,16,2
 "Peters's Trumpet-eared Bat",53,47,1
 "Peters's Pipistrelle",53,105,2
-"petersi",53,105,2
-"permixtus",54,29,1
+"Falsistrellus petersi",53,105,2
+"Pipistrellus permixtus",54,29,1
 "Peters's Myotis",74,49,2
 "Peninsular Myotis",73,24,2
-"peninsularis",73,24,2
+"Myotis peninsularis",73,24,2
 "Peking Myotis",73,64,2
-"pequinius",73,64,2
-"perotis",62,43,1
-"petersoni",62,119,2
+"Myotis pequinius",73,64,2
+"Eumops perotis",62,43,1
+"Mops petersoni",62,119,2
 "Peale's Free-tailed Bat",62,126,2
 "Peters' Wrinkle-lipped Bat",62,176,1
-"petrophilus",62,184,2
+"Sauromys petrophilus",62,184,2
 "Peters's Flat-headed Bat",62,193,2
-"perspicillata",67,88,1
-"periosus",69,6,1
-"personatus",67,215,2
+"Carollia perspicillata",67,88,1
+"Choeroniscus periosus",69,6,1
+"Pteronotus personatus",67,215,2
 "Peter's Disk-winged Bat",45,65,1
 "Peleng Leaf-nosed Bat",61,52,1
-"pelingensis",61,52,1
+"Hipposideros pelingensis",61,52,1
 "Percival's Trident Bat",58,25,2
-"percivali",58,25,2
+"Cloeotis percivali",58,25,2
 "Persian Trident Bat",58,86,1
-"persicus",58,86,1
+"Triaenops persicus",58,86,1
 "Pearson's Horseshoe Bat",59,25,2
-"pearsonii",59,25,2
+"Rhinolophus pearsonii",59,25,2
 "Peninsular Horseshoe Bat",59,36,2
-"Peropteryx",71,9,1
-"Peropteryx",71,10,2
-"Peropteryx",71,11,2
-"Peropteryx",71,12,2
+"Peropteryx trinitatis",71,9,1
+"Peropteryx macrotis",71,10,2
+"Peropteryx kappleri",71,11,2
+"Peropteryx leucoptera",71,12,2
 "Peter's Sheath-tailed Bat",71,49,2
-"perforatus",71,76,2
+"Taphozous perforatus",71,76,2
 "Pel's Pouched Bat",71,96,2
-"peli",71,96,2
+"Saccolaimus peli",71,96,2
 "Pemba Flying Fox",57,37,2
-"pelewensis",57,77,1
-"personatus",57,117,2
-"peronii",57,159,1
+"Pteropus pelewensis",57,77,1
+"Pteropus personatus",57,117,2
+"Dobsonia peronii",57,159,1
 "Peters's Epauletted Fruit Bat",70,13,1
 "Peter's Dwarf Epauletted Fruit Bat",70,26,2
 "Peters's Fruit Bat",46,10,1
-"Penthetor",46,48,1
+"Penthetor lucasi",46,48,1
 "Peters' Duiker",65,27,2
-"Pelea",63,34,2
+"Pelea capreolus",63,34,2
 "Pere David's Deer",63,103,1
 "Peale's Dolphin",75,61,2
-"peronii",75,64,2
-"Peponocephala",75,73,2
-"peruvianus",75,105,2
+"Lissodelphis peronii",75,64,2
+"Peponocephala electra",75,73,2
+"Mesoplodon peruvianus",75,105,2
 "White-lipped Peccary",72,38,1
-"pecari",72,38,1
+"Tayassu pecari",72,38,1
 "Chacoan Peccary",72,39,2
 "Collared Peccary",72,40,2
-"Pecari",72,40,2
-"pennanti",49,57,2
-"peregusna",49,71,2
-"perspicillata",52,20,1
-"personata",52,49,1
-"penicillata",50,32,2
-"pentadactyla",45,167,2
+"Pecari tajacu",72,40,2
+"Martes pennanti",49,57,2
+"Vormela peregusna",49,71,2
+"Lutrogale perspicillata",52,20,1
+"Melogale personata",52,49,1
+"Cynictis penicillata",50,32,2
+"Manis pentadactyla",45,167,2
 "Peter's Musk Shrew",88,106,2
-"pergrisea",88,169,1
+"Crocidura pergrisea",88,169,1
 "Peninsular Shrew",93,13,1
 "Pearson's Long-clawed Shrew",85,15,2
-"pearsoni",85,15,2
-"peregrina",92,39,2
-"peninsulae",92,56,2
+"Solisorex pearsoni",85,15,2
+"Cryptotis peregrina",92,39,2
+"Blarina peninsulae",92,56,2
 "Pere David's Mole",85,130,2
-"Petrodromus",0,92,2
-"petersi",0,96,2
-"penicillata",43,17,1
-"Petrogale",43,17,1
-"Petrogale",43,18,2
-"Petrogale",43,19,2
-"Petrogale",43,21,1
-"Petrogale",43,22,2
-"Petrogale",43,23,2
-"Petrogale",43,26,1
-"Petrogale",43,27,2
-"Petrogale",43,29,1
-"persephone",43,30,2
-"Petrogale",43,30,2
-"Petrogale",43,33,1
-"Petrogale",43,34,2
-"Petrogale",43,35,2
-"penicillata",43,129,2
-"peregrinus",43,149,2
-"Petropseudes",43,161,2
-"Petauroides",43,164,2
-"Petaurus",43,171,1
-"Petaurus",43,172,2
-"Petaurus",43,173,2
-"Petaurus",43,174,2
-"Petaurus",43,176,1
-"Petaurus",43,177,2
-"pennatus",43,189,1
+"Petrodromus tetradactylus",0,92,2
+"Rhynchocyon petersi",0,96,2
+"Petrogale penicillata",43,17,1
+"Petrogale penicillata",43,17,1
+"Petrogale herberti",43,18,2
+"Petrogale inornata",43,19,2
+"Petrogale assimilis",43,21,1
+"Petrogale godmani",43,22,2
+"Petrogale xanthopus",43,23,2
+"Petrogale purpureicollis",43,26,1
+"Petrogale lateralis",43,27,2
+"Petrogale rothschildi",43,29,1
+"Petrogale persephone",43,30,2
+"Petrogale persephone",43,30,2
+"Petrogale concinna",43,33,1
+"Petrogale burbidgei",43,34,2
+"Petrogale brachyotis",43,35,2
+"Bettongia penicillata",43,129,2
+"Pseudocheirus peregrinus",43,149,2
+"Petropseudes dahli",43,161,2
+"Petauroides volans",43,164,2
+"Petaurus breviceps",43,171,1
+"Petaurus biacensis",43,172,2
+"Petaurus abidi",43,173,2
+"Petaurus gracilis",43,174,2
+"Petaurus australis",43,176,1
+"Petaurus norfolcensis",43,177,2
+"Distoechurus pennatus",43,189,1
 "Peleng Cuscus",44,18,2
-"pelengensis",44,18,2
-"Peroryctes",0,140,1
-"Peroryctes",0,141,2
-"Perameles",0,154,2
-"Perameles",0,156,1
-"Perameles",0,157,2
-"pernigra",1,75,2
+"Strigocuscus pelengensis",44,18,2
+"Peroryctes raffrayana",0,140,1
+"Peroryctes broadbenti",0,141,2
+"Perameles bougainville",0,154,2
+"Perameles gunnii",0,156,1
+"Perameles nasuta",0,157,2
+"Didelphis pernigra",1,75,2

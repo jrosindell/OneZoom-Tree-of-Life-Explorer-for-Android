@@ -1,45 +1,45 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,-268435443,"pardus","Panthera","Leopard",NT,D,-12486656
-15,-268435443,"leo","Panthera","Lion",VU,D,-11184866
-16,-268435444,"onca","Panthera","Jaguar",NT,D,-12486656
-17,-268435445,"tigris","Panthera","Tiger",EN,D,-8572416
-18,-268435446,"uncia","Uncia","Snow Leopard",NE,U,-16777216
-19,-268435447,"nebulosa","Neofelis","Clouded Leopard",VU,D,-11184866
-20,-268435448,"marmorata","Pardofelis","Marbled Cat",VU,D,-11184866
-24,-268435433,"canadensis","Lynx","Canada Lynx",LC,S,-16731116
-25,-268435433,"lynx","Lynx","Eurasian Lynx",LC,S,-16731116
-26,-268435434,"pardinus","Lynx","Iberian Lynx",CR,D,-3014646
-27,-268435435,"rufus","Lynx","Bobcat",LC,S,-16731116
-30,-268435427,"temminckii","Catopuma","Asiatic golden cat",NE,U,-16777216
-31,-268435427,"badia","Catopuma","Bornean cat",NE,U,-16777216
-32,-268435428,"aurata","Profelis","African golden cat",NE,U,-16777216
-38,-268435419,"braccatus","Leopardus","Pantanal cat",NE,U,-16777216
-39,-268435419,"pajeros","Leopardus","Pampas cat",NE,U,-16777216
-40,-268435420,"colocolo","Leopardus","Colocolo",NT,D,-12486656
-41,-268435421,"jacobitus","Leopardus","Andean mountain cat",NE,U,-16777216
-44,-268435413,"guigna","Leopardus","Chilean Cat",VU,D,-11184866
-45,-268435413,"tigrinus","Leopardus","Oncilla",VU,D,-11184866
-46,-268435414,"geoffroyi","Leopardus","Geoffroy's Cat",NT,D,-12486656
-48,-268435409,"pardalis","Leopardus","Ocelot",LC,D,-16731116
-49,-268435409,"wiedii","Leopardus","Margay",NT,D,-12486656
-56,-268435401,"nigripes","Felis","Black-footed Cat",VU,D,-11184866
-57,-268435401,"margarita","Felis","Sand Cat",NT,U,-12486656
-59,-268435398,"silvestris","Felis","Wild Cat",LC,D,-16731116
-60,-268435398,"catus","Felis","",NE,U,-16777216
-62,-268435395,"chaus","Felis","Jungle Cat",LC,D,-16731116
-63,-268435395,"bieti","Felis","",NE,U,-16777216
-64,-268435404,"manul","Felis","",NE,U,-16777216
-65,-268435405,"caracal","Caracal","Caracal",LC,U,-16731116
-66,-268435406,"serval","Leptailurus","Serval",LC,S,-16731116
-71,-268435386,"bengalensis","Prionailurus","Leopard Cat",LC,S,-16731116
-72,-268435386,"iriomotensis","Prionailurus","",NE,U,-16777216
-73,-268435387,"viverrinus","Prionailurus","Fishing Cat",EN,D,-8572416
-74,-268435388,"rubiginosus","Prionailurus","Rusty-spotted Cat",VU,D,-11184866
-75,-268435389,"planiceps","Prionailurus","Flat-headed Cat",EN,D,-8572416
-77,-268435380,"yagouaroundi","Puma","Jaguarundi",LC,D,-16731116
-78,-268435380,"concolor","Puma","Puma",LC,D,-16731116
-79,-268435455,"jubatus","Acinonyx","Cheetah",VU,D,-11184866
-83,-268435374,"hyaena","Hyaena","Striped Hyaena",NT,D,-12486656
-84,-268435374,"brunnea","Hyaena","Brown Hyaena",NT,D,-12486656
-85,-268435375,"crocuta","Crocuta","Spotted Hyaena",LC,D,-16731116
-86,-268435376,"cristata","Proteles","Aardwolf",LC,S,-16731116
+14,13,"pardus","Panthera","Leopard",NT,D,-12486656
+15,13,"leo","Panthera","Lion",VU,D,-11184866
+16,12,"onca","Panthera","Jaguar",NT,D,-12486656
+17,11,"tigris","Panthera","Tiger",EN,D,-8572416
+18,10,"uncia","Uncia","Snow Leopard",NE,U,-16777216
+19,9,"nebulosa","Neofelis","Clouded Leopard",VU,D,-11184866
+20,8,"marmorata","Pardofelis","Marbled Cat",VU,D,-11184866
+24,23,"canadensis","Lynx","Canada Lynx",LC,S,-16731116
+25,23,"lynx","Lynx","Eurasian Lynx",LC,S,-16731116
+26,22,"pardinus","Lynx","Iberian Lynx",CR,D,-3014646
+27,21,"rufus","Lynx","Bobcat",LC,S,-16731116
+30,29,"temminckii","Catopuma","Asiatic golden cat",NE,U,-16777216
+31,29,"badia","Catopuma","Bornean cat",NE,U,-16777216
+32,28,"aurata","Profelis","African golden cat",NE,U,-16777216
+38,37,"braccatus","Leopardus","Pantanal cat",NE,U,-16777216
+39,37,"pajeros","Leopardus","Pampas cat",NE,U,-16777216
+40,36,"colocolo","Leopardus","Colocolo",NT,D,-12486656
+41,35,"jacobitus","Leopardus","Andean mountain cat",NE,U,-16777216
+44,43,"guigna","Leopardus","Chilean Cat",VU,D,-11184866
+45,43,"tigrinus","Leopardus","Oncilla",VU,D,-11184866
+46,42,"geoffroyi","Leopardus","Geoffroy's Cat",NT,D,-12486656
+48,47,"pardalis","Leopardus","Ocelot",LC,D,-16731116
+49,47,"wiedii","Leopardus","Margay",NT,D,-12486656
+56,55,"nigripes","Felis","Black-footed Cat",VU,D,-11184866
+57,55,"margarita","Felis","Sand Cat",NT,U,-12486656
+59,58,"silvestris","Felis","Wild Cat",LC,D,-16731116
+60,58,"catus","Felis","",NE,U,-16777216
+62,61,"chaus","Felis","Jungle Cat",LC,D,-16731116
+63,61,"bieti","Felis","",NE,U,-16777216
+64,52,"manul","Felis","",NE,U,-16777216
+65,51,"caracal","Caracal","Caracal",LC,U,-16731116
+66,50,"serval","Leptailurus","Serval",LC,S,-16731116
+71,70,"bengalensis","Prionailurus","Leopard Cat",LC,S,-16731116
+72,70,"iriomotensis","Prionailurus","",NE,U,-16777216
+73,69,"viverrinus","Prionailurus","Fishing Cat",EN,D,-8572416
+74,68,"rubiginosus","Prionailurus","Rusty-spotted Cat",VU,D,-11184866
+75,67,"planiceps","Prionailurus","Flat-headed Cat",EN,D,-8572416
+77,76,"yagouaroundi","Puma","Jaguarundi",LC,D,-16731116
+78,76,"concolor","Puma","Puma",LC,D,-16731116
+79,1,"jubatus","Acinonyx","Cheetah",VU,D,-11184866
+83,82,"hyaena","Hyaena","Striped Hyaena",NT,D,-12486656
+84,82,"brunnea","Hyaena","Brown Hyaena",NT,D,-12486656
+85,81,"crocuta","Crocuta","Spotted Hyaena",LC,D,-16731116
+86,80,"cristata","Proteles","Aardwolf",LC,S,-16731116

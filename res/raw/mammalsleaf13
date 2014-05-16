@@ -1,76 +1,76 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,-268435445,"lutillus","Melomys","Grassland Melomys",LC,U,-16731116
-13,-268435445,"burtoni","Melomys","Grassland Melomys",LC,S,-16731116
-14,-268435446,"frigicola","Melomys","Snow Mountains Grassland Melomys",LC,U,-16731116
-17,-268435440,"rattoides","Mammelomys","Lowland Mammelomys",LC,U,-16731116
-18,-268435440,"rufescens","Melomys","Black-tailed Melomys",LC,S,-16731116
-19,-268435441,"moncktoni","Paramelomys","Moncton's Paramelomys",LC,U,-16731116
-21,-268435436,"mollis","Paramelomys","Montane Soft-furred Paramelomys",LC,S,-16731116
-22,-268435436,"capensis","Melomys","Cape York Melomys",LC,S,-16731116
-23,-268435449,"platyops","Paramelomys","Common Lowland Paramelomys",LC,S,-16731116
-28,-268435429,"rubicola","Melomys","Bramble Cay Melomys",CR,U,-3014646
-29,-268435429,"spechti","Melomys","",NE,U,-16777216
-30,-268435430,"bougainville","Melomys","Bougainville Melomys",DD,U,-11513776
-32,-268435425,"rubex","Paramelomys","Mountain Paramelomys",LC,S,-16731116
-33,-268435425,"steini","Paramelomys","Stein's Paramelomys",DD,U,-11513776
-35,-268435422,"fellowsi","Protochromys","Red-bellied Protochromys",LC,U,-16731116
-36,-268435422,"fraterculus","Melomys","Manusela Melomys",CR,D,-3014646
-43,-268435414,"talaudium","Melomys","Long-tailed Talaud Melomys",EN,D,-8572416
-44,-268435414,"caurinus","Melomys","Short-tailed Talaud Melomys",EN,D,-8572416
-46,-268435411,"leucogaster","Melomys","White-bellied Melomys",LC,S,-16731116
-47,-268435411,"fulgens","Melomys","Seram Long-tailed Melomys",DD,U,-11513776
-48,-268435416,"arcium","Melomys","Rossel Island Melomys",DD,U,-11513776
-50,-268435407,"lorentzii","Paramelomys","Lorentz's Paramelomys",LC,U,-16731116
-51,-268435407,"naso","Paramelomys","Long-nosed Paramelomys",LC,U,-16731116
-52,-268435418,"aerosus","Melomys","Dusky Seram Melomys",EN,D,-8572416
-56,-268435401,"cervinipes","Melomys","Fawn-footed Melomys",LC,S,-16731116
-57,-268435401,"dollmani","Melomys","Dollman's Melomys",LC,S,-16731116
-58,-268435402,"lanosus","Mammelomys","Highland Mammelomys",LC,U,-16731116
-60,-268435397,"levipes","Paramelomys","Papuan Lowland Paramelomys",DD,U,-11513776
-61,-268435397,"obiensis","Melomys","Obi Island Melomys",LC,U,-16731116
-65,-268435392,"caudimaculatus","Uromys","White-tailed Giant Rat",LC,S,-16731116
-66,-268435392,"siebersi","Uromys","Great Key Island Uromys",DD,U,-11513776
-68,-268435389,"neobritannicus","Uromys","Bismarck Giant Rat",EN,D,-8572416
-69,-268435389,"rex","Uromys","King Rat",EN,D,-8572416
-71,-268435386,"hadrourus","Uromys","Pygmy White-tailed Rat",VU,S,-11184866
-72,-268435386,"anak","Uromys","Black-tailed Giant Rat",LC,U,-16731116
-76,-268435381,"macrurus","Mesembriomys","Golden-backed Tree Rat",LC,U,-16731116
-77,-268435381,"gouldii","Mesembriomys","Black-footed Tree Rat",NT,D,-12486656
-78,-268435382,"conditor","Leporillus","Greater Stick-nest Rat",VU,S,-11184866
-79,-268435383,"penicillatus","Conilurus","Brush-tailed Rabbit Rat",NT,D,-12486656
-83,-268435374,"woodwardi","Zyzomys","Kimberley Rock Rat",LC,S,-16731116
-84,-268435374,"argurus","Zyzomys","Common Rock Rat",LC,S,-16731116
-85,-268435375,"pedunculatus","Zyzomys","Central Rock Rat",CR,U,-3014646
-87,-268435370,"maini","Zyzomys","Arnhem Land Rock Rat",NT,D,-12486656
-88,-268435370,"palatilis","Zyzomys","",NE,U,-16777216
-92,-268435365,"aquilo","Notomys","Northern Hopping Mouse",EN,D,-8572416
-93,-268435365,"alexis","Notomys","Spinifex Hopping Mouse",LC,S,-16731116
-94,-268435366,"fuscus","Notomys","Dusky Hopping Mouse",VU,U,-11184866
-96,-268435361,"mitchellii","Notomys","Mitchell's Hopping Mouse",LC,S,-16731116
-97,-268435361,"cervinus","Notomys","Fawn Hopping Mouse",VU,D,-11184866
-109,-268435348,"calabyi","Pseudomys","Kakadu Pebble Mouse",VU,D,-11184866
-110,-268435348,"laborifex","Pseudomys","",NE,U,-16777216
-111,-268435349,"albocinereus","Pseudomys","Ash-grey Mouse",LC,S,-16731116
-112,-268435350,"chapmani","Pseudomys","Western Pebble Mouse",LC,S,-16731116
-114,-268435343,"nanus","Pseudomys","Western Chestnut Mouse",LC,D,-16731116
-115,-268435343,"desertor","Pseudomys","Desert Mouse",LC,D,-16731116
-117,-268435340,"oralis","Pseudomys","Hastings River Mouse",VU,D,-11184866
-118,-268435340,"pilligaensis","Pseudomys","Pilliga Mouse",DD,D,-11513776
-120,-268435337,"novaehollandiae","Pseudomys","New Holland Mouse",VU,D,-11184866
-121,-268435337,"delicatulus","Pseudomys","Delicate Mouse",LC,U,-16731116
-125,-268435332,"johnsoni","Pseudomys","Central Pebble Mouse",LC,S,-16731116
-126,-268435332,"glaucus","Pseudomys","Blue-grey Mouse",EX,U,-16777036
-127,-268435333,"apodemoides","Pseudomys","Silky Mouse",LC,S,-16731116
-128,-268435334,"gracilicaudatus","Pseudomys","Eastern Chestnut Mouse",LC,D,-16731116
-133,-268435324,"occidentalis","Pseudomys","Western Mouse",LC,U,-16731116
-134,-268435324,"bolami","Pseudomys","Bolam's Mouse",LC,S,-16731116
-135,-268435325,"higginsi","Pseudomys","Long-tailed Mouse",LC,S,-16731116
-136,-268435326,"fuscus","Mastacomys","Broad-toothed Mouse",NT,D,-12486656
-139,-268435318,"patrius","Pseudomys","Eastern Pebble Mouse",LC,U,-16731116
-140,-268435318,"fieldi","Pseudomys","Shark Bay Mouse",VU,I,-11184866
-141,-268435319,"hermannsburgensis","Pseudomys","Sandy Inland Mouse",LC,S,-16731116
-142,-268435356,"fumeus","Pseudomys","Smoky Mouse",EN,D,-8572416
-144,-268435313,"shortridgei","Pseudomys","Heath Mouse",NT,D,-12486656
-145,-268435313,"australis","Pseudomys","Plains Mouse",VU,D,-11184866
-147,-268435310,"lakedownensis","Leggadina","Northern Short-tailed Mouse",LC,U,-16731116
-148,-268435310,"forresti","Leggadina","Central Short-tailed Mouse",LC,U,-16731116
+12,11,"lutillus","Melomys","Grassland Melomys",LC,U,-16731116
+13,11,"burtoni","Melomys","Grassland Melomys",LC,S,-16731116
+14,10,"frigicola","Melomys","Snow Mountains Grassland Melomys",LC,U,-16731116
+17,16,"rattoides","Mammelomys","Lowland Mammelomys",LC,U,-16731116
+18,16,"rufescens","Melomys","Black-tailed Melomys",LC,S,-16731116
+19,15,"moncktoni","Paramelomys","Moncton's Paramelomys",LC,U,-16731116
+21,20,"mollis","Paramelomys","Montane Soft-furred Paramelomys",LC,S,-16731116
+22,20,"capensis","Melomys","Cape York Melomys",LC,S,-16731116
+23,7,"platyops","Paramelomys","Common Lowland Paramelomys",LC,S,-16731116
+28,27,"rubicola","Melomys","Bramble Cay Melomys",CR,U,-3014646
+29,27,"spechti","Melomys","",NE,U,-16777216
+30,26,"bougainville","Melomys","Bougainville Melomys",DD,U,-11513776
+32,31,"rubex","Paramelomys","Mountain Paramelomys",LC,S,-16731116
+33,31,"steini","Paramelomys","Stein's Paramelomys",DD,U,-11513776
+35,34,"fellowsi","Protochromys","Red-bellied Protochromys",LC,U,-16731116
+36,34,"fraterculus","Melomys","Manusela Melomys",CR,D,-3014646
+43,42,"talaudium","Melomys","Long-tailed Talaud Melomys",EN,D,-8572416
+44,42,"caurinus","Melomys","Short-tailed Talaud Melomys",EN,D,-8572416
+46,45,"leucogaster","Melomys","White-bellied Melomys",LC,S,-16731116
+47,45,"fulgens","Melomys","Seram Long-tailed Melomys",DD,U,-11513776
+48,40,"arcium","Melomys","Rossel Island Melomys",DD,U,-11513776
+50,49,"lorentzii","Paramelomys","Lorentz's Paramelomys",LC,U,-16731116
+51,49,"naso","Paramelomys","Long-nosed Paramelomys",LC,U,-16731116
+52,38,"aerosus","Melomys","Dusky Seram Melomys",EN,D,-8572416
+56,55,"cervinipes","Melomys","Fawn-footed Melomys",LC,S,-16731116
+57,55,"dollmani","Melomys","Dollman's Melomys",LC,S,-16731116
+58,54,"lanosus","Mammelomys","Highland Mammelomys",LC,U,-16731116
+60,59,"levipes","Paramelomys","Papuan Lowland Paramelomys",DD,U,-11513776
+61,59,"obiensis","Melomys","Obi Island Melomys",LC,U,-16731116
+65,64,"caudimaculatus","Uromys","White-tailed Giant Rat",LC,S,-16731116
+66,64,"siebersi","Uromys","Great Key Island Uromys",DD,U,-11513776
+68,67,"neobritannicus","Uromys","Bismarck Giant Rat",EN,D,-8572416
+69,67,"rex","Uromys","King Rat",EN,D,-8572416
+71,70,"hadrourus","Uromys","Pygmy White-tailed Rat",VU,S,-11184866
+72,70,"anak","Uromys","Black-tailed Giant Rat",LC,U,-16731116
+76,75,"macrurus","Mesembriomys","Golden-backed Tree Rat",LC,U,-16731116
+77,75,"gouldii","Mesembriomys","Black-footed Tree Rat",NT,D,-12486656
+78,74,"conditor","Leporillus","Greater Stick-nest Rat",VU,S,-11184866
+79,73,"penicillatus","Conilurus","Brush-tailed Rabbit Rat",NT,D,-12486656
+83,82,"woodwardi","Zyzomys","Kimberley Rock Rat",LC,S,-16731116
+84,82,"argurus","Zyzomys","Common Rock Rat",LC,S,-16731116
+85,81,"pedunculatus","Zyzomys","Central Rock Rat",CR,U,-3014646
+87,86,"maini","Zyzomys","Arnhem Land Rock Rat",NT,D,-12486656
+88,86,"palatilis","Zyzomys","",NE,U,-16777216
+92,91,"aquilo","Notomys","Northern Hopping Mouse",EN,D,-8572416
+93,91,"alexis","Notomys","Spinifex Hopping Mouse",LC,S,-16731116
+94,90,"fuscus","Notomys","Dusky Hopping Mouse",VU,U,-11184866
+96,95,"mitchellii","Notomys","Mitchell's Hopping Mouse",LC,S,-16731116
+97,95,"cervinus","Notomys","Fawn Hopping Mouse",VU,D,-11184866
+109,108,"calabyi","Pseudomys","Kakadu Pebble Mouse",VU,D,-11184866
+110,108,"laborifex","Pseudomys","",NE,U,-16777216
+111,107,"albocinereus","Pseudomys","Ash-grey Mouse",LC,S,-16731116
+112,106,"chapmani","Pseudomys","Western Pebble Mouse",LC,S,-16731116
+114,113,"nanus","Pseudomys","Western Chestnut Mouse",LC,D,-16731116
+115,113,"desertor","Pseudomys","Desert Mouse",LC,D,-16731116
+117,116,"oralis","Pseudomys","Hastings River Mouse",VU,D,-11184866
+118,116,"pilligaensis","Pseudomys","Pilliga Mouse",DD,D,-11513776
+120,119,"novaehollandiae","Pseudomys","New Holland Mouse",VU,D,-11184866
+121,119,"delicatulus","Pseudomys","Delicate Mouse",LC,U,-16731116
+125,124,"johnsoni","Pseudomys","Central Pebble Mouse",LC,S,-16731116
+126,124,"glaucus","Pseudomys","Blue-grey Mouse",EX,U,-16777036
+127,123,"apodemoides","Pseudomys","Silky Mouse",LC,S,-16731116
+128,122,"gracilicaudatus","Pseudomys","Eastern Chestnut Mouse",LC,D,-16731116
+133,132,"occidentalis","Pseudomys","Western Mouse",LC,U,-16731116
+134,132,"bolami","Pseudomys","Bolam's Mouse",LC,S,-16731116
+135,131,"higginsi","Pseudomys","Long-tailed Mouse",LC,S,-16731116
+136,130,"fuscus","Mastacomys","Broad-toothed Mouse",NT,D,-12486656
+139,138,"patrius","Pseudomys","Eastern Pebble Mouse",LC,U,-16731116
+140,138,"fieldi","Pseudomys","Shark Bay Mouse",VU,I,-11184866
+141,137,"hermannsburgensis","Pseudomys","Sandy Inland Mouse",LC,S,-16731116
+142,100,"fumeus","Pseudomys","Smoky Mouse",EN,D,-8572416
+144,143,"shortridgei","Pseudomys","Heath Mouse",NT,D,-12486656
+145,143,"australis","Pseudomys","Plains Mouse",VU,D,-11184866
+147,146,"lakedownensis","Leggadina","Northern Short-tailed Mouse",LC,U,-16731116
+148,146,"forresti","Leggadina","Central Short-tailed Mouse",LC,U,-16731116

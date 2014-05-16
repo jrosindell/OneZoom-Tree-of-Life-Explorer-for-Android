@@ -1,64 +1,64 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,-268435445,"duodecimcostatus","Microtus","Mediterranean Pine Vole",LC,S,-16731116
-13,-268435445,"lusitanicus","Microtus","Lusitanian Pine Vole",LC,U,-16731116
-14,-268435446,"thomasi","Microtus","Thomas's Pine Vole",LC,S,-16731116
-15,-268435447,"schelkovnikovi","Microtus","Schelkovnikov's Pine Vole",NT,D,-12486656
-19,-268435438,"bavaricus","Microtus","Bavarian Pine Vole",CR,D,-3014646
-20,-268435438,"tatricus","Microtus","Tatra Vole",LC,S,-16731116
-21,-268435439,"subterraneus","Microtus","Common Pine Vole",LC,S,-16731116
-22,-268435440,"daghestanicus","Microtus","Caucasus Pine Vole",LC,U,-16731116
-27,-268435430,"brachycercus","Microtus","Calabria Pine Vole",LC,S,-16731116
-28,-268435430,"savii","Microtus","Savi's Pine Vole",LC,S,-16731116
-29,-268435431,"felteni","Microtus","Balkan Pine Vole",DD,U,-11513776
-30,-268435432,"gerbei","Microtus","Gerbe's Vole",LC,S,-16731116
-32,-268435425,"liechtensteini","Microtus","Liechtenstein's Pine Vole",LC,U,-16731116
-33,-268435425,"multiplex","Microtus","Alpine Pine Vole",LC,S,-16731116
-34,-268435450,"majori","Microtus","",LC,S,-16731116
-35,-268435451,"umbrosus","Microtus","Zempoaltepec Vole",EN,D,-8572416
-42,-268435415,"sachalinensis","Microtus","Sakhalin Vole",NT,U,-12486656
-43,-268435415,"mongolicus","Microtus","Mongolian Vole",LC,S,-16731116
-44,-268435416,"middendorffii","Microtus","Middendorff's Vole",LC,U,-16731116
-47,-268435410,"maximowiczii","Microtus","Maximowicz's Vole",LC,U,-16731116
-48,-268435410,"mujanensis","Microtus","Muisk Vole",DD,U,-11513776
-49,-268435411,"evoronensis","Microtus","Evoron Vole",DD,U,-11513776
-50,-268435418,"fortis","Microtus","Reed Vole",LC,U,-16731116
-54,-268435403,"forresti","Neodon","Forrest's Mountain Vole",DD,U,-11513776
-55,-268435403,"irene","Neodon","Irene's Mountain Vole",LC,U,-16731116
-56,-268435404,"sikimensis","Neodon","Sikkim Vole",LC,U,-16731116
-58,-268435399,"leucurus","Phaiomys","Blyth's Vole",LC,U,-16731116
-59,-268435399,"juldaschi","Neodon","Juniper Vole",LC,U,-16731116
-62,-268435395,"gregalis","Microtus","Narrow-headed Vole",LC,S,-16731116
-63,-268435395,"miurus","Microtus","Singing Vole",LC,S,-16731116
-64,-268435396,"abbreviatus","Microtus","Insular Vole",LC,S,-16731116
-69,-268435388,"paradoxus","Microtus","Kopetdag Pine Vole",LC,U,-16731116
-70,-268435388,"irani","Microtus","Persian Vole",DD,U,-11513776
-71,-268435389,"guentheri","Microtus","Gunther's Vole",LC,S,-16731116
-73,-268435384,"schidlovskii","Microtus","Schidlovsky Pine Vole",LC,U,-16731116
-74,-268435384,"socialis","Microtus","Social Vole",LC,S,-16731116
-78,-268435379,"ilaeus","Microtus","Kazakhstan Vole",LC,U,-16731116
-79,-268435379,"arvalis","Microtus","Common Vole",LC,S,-16731116
-80,-268435380,"transcaspicus","Microtus","Baluchistan Vole",LC,U,-16731116
-81,-268435381,"levis","Microtus","East European Vole",LC,S,-16731116
-85,-268435372,"montebelli","Microtus","Japanese Grass Vole",LC,S,-16731116
-86,-268435372,"limnophilus","Microtus","Lacustrine Vole",LC,U,-16731116
-87,-268435373,"oeconomus","Microtus","Root Vole",LC,S,-16731116
-89,-268435368,"cabrerae","Microtus","Cabrera's Vole",NT,D,-12486656
-90,-268435368,"agrestis","Microtus","Field Vole",LC,S,-16731116
-99,-268435358,"pennsylvanicus","Microtus","Chihuahua Vole",LC,S,-16731116
-100,-268435358,"townsendii","Microtus","Townsend's Vole",LC,S,-16731116
-101,-268435359,"breweri","Microtus","Beach Vole",VU,S,-11184866
-102,-268435360,"californicus","Microtus","Amargosa Vole",LC,S,-16731116
-105,-268435352,"canicaudus","Microtus","Gray-tailed Vole",LC,S,-16731116
-106,-268435352,"montanus","Microtus","Montane Vole",LC,S,-16731116
-107,-268435353,"oregoni","Microtus","Creeping Vole",LC,S,-16731116
-111,-268435346,"xanthognathus","Microtus","Taiga Vole",LC,S,-16731116
-112,-268435346,"richardsoni","Microtus","Water Vole",LC,S,-16731116
-113,-268435347,"chrotorrhinus","Microtus","Rock Vole",LC,D,-16731116
-115,-268435342,"quasiater","Microtus","Jalapan Pine Vole",NT,D,-12486656
-116,-268435342,"pinetorum","Microtus","Woodland Vole",LC,S,-16731116
-117,-268435363,"guatemalensis","Microtus","Guatemalan Vole",NT,D,-12486656
-120,-268435337,"longicaudus","Microtus","Long-tailed Vole",LC,S,-16731116
-121,-268435337,"mexicanus","Microtus","Mexican Vole",LC,U,-16731116
-122,-268435338,"oaxacensis","Microtus","Tarabundi Vole",EN,D,-8572416
-123,-268435365,"ochrogaster","Microtus","Prairie Vole",LC,S,-16731116
-124,-268435456,"alleni","Neofiber","Round-tailed Muskrat",LC,D,-16731116
+12,11,"duodecimcostatus","Microtus","Mediterranean Pine Vole",LC,S,-16731116
+13,11,"lusitanicus","Microtus","Lusitanian Pine Vole",LC,U,-16731116
+14,10,"thomasi","Microtus","Thomas's Pine Vole",LC,S,-16731116
+15,9,"schelkovnikovi","Microtus","Schelkovnikov's Pine Vole",NT,D,-12486656
+19,18,"bavaricus","Microtus","Bavarian Pine Vole",CR,D,-3014646
+20,18,"tatricus","Microtus","Tatra Vole",LC,S,-16731116
+21,17,"subterraneus","Microtus","Common Pine Vole",LC,S,-16731116
+22,16,"daghestanicus","Microtus","Caucasus Pine Vole",LC,U,-16731116
+27,26,"brachycercus","Microtus","Calabria Pine Vole",LC,S,-16731116
+28,26,"savii","Microtus","Savi's Pine Vole",LC,S,-16731116
+29,25,"felteni","Microtus","Balkan Pine Vole",DD,U,-11513776
+30,24,"gerbei","Microtus","Gerbe's Vole",LC,S,-16731116
+32,31,"liechtensteini","Microtus","Liechtenstein's Pine Vole",LC,U,-16731116
+33,31,"multiplex","Microtus","Alpine Pine Vole",LC,S,-16731116
+34,6,"majori","Microtus","",LC,S,-16731116
+35,5,"umbrosus","Microtus","Zempoaltepec Vole",EN,D,-8572416
+42,41,"sachalinensis","Microtus","Sakhalin Vole",NT,U,-12486656
+43,41,"mongolicus","Microtus","Mongolian Vole",LC,S,-16731116
+44,40,"middendorffii","Microtus","Middendorff's Vole",LC,U,-16731116
+47,46,"maximowiczii","Microtus","Maximowicz's Vole",LC,U,-16731116
+48,46,"mujanensis","Microtus","Muisk Vole",DD,U,-11513776
+49,45,"evoronensis","Microtus","Evoron Vole",DD,U,-11513776
+50,38,"fortis","Microtus","Reed Vole",LC,U,-16731116
+54,53,"forresti","Neodon","Forrest's Mountain Vole",DD,U,-11513776
+55,53,"irene","Neodon","Irene's Mountain Vole",LC,U,-16731116
+56,52,"sikimensis","Neodon","Sikkim Vole",LC,U,-16731116
+58,57,"leucurus","Phaiomys","Blyth's Vole",LC,U,-16731116
+59,57,"juldaschi","Neodon","Juniper Vole",LC,U,-16731116
+62,61,"gregalis","Microtus","Narrow-headed Vole",LC,S,-16731116
+63,61,"miurus","Microtus","Singing Vole",LC,S,-16731116
+64,60,"abbreviatus","Microtus","Insular Vole",LC,S,-16731116
+69,68,"paradoxus","Microtus","Kopetdag Pine Vole",LC,U,-16731116
+70,68,"irani","Microtus","Persian Vole",DD,U,-11513776
+71,67,"guentheri","Microtus","Gunther's Vole",LC,S,-16731116
+73,72,"schidlovskii","Microtus","Schidlovsky Pine Vole",LC,U,-16731116
+74,72,"socialis","Microtus","Social Vole",LC,S,-16731116
+78,77,"ilaeus","Microtus","Kazakhstan Vole",LC,U,-16731116
+79,77,"arvalis","Microtus","Common Vole",LC,S,-16731116
+80,76,"transcaspicus","Microtus","Baluchistan Vole",LC,U,-16731116
+81,75,"levis","Microtus","East European Vole",LC,S,-16731116
+85,84,"montebelli","Microtus","Japanese Grass Vole",LC,S,-16731116
+86,84,"limnophilus","Microtus","Lacustrine Vole",LC,U,-16731116
+87,83,"oeconomus","Microtus","Root Vole",LC,S,-16731116
+89,88,"cabrerae","Microtus","Cabrera's Vole",NT,D,-12486656
+90,88,"agrestis","Microtus","Field Vole",LC,S,-16731116
+99,98,"pennsylvanicus","Microtus","Chihuahua Vole",LC,S,-16731116
+100,98,"townsendii","Microtus","Townsend's Vole",LC,S,-16731116
+101,97,"breweri","Microtus","Beach Vole",VU,S,-11184866
+102,96,"californicus","Microtus","Amargosa Vole",LC,S,-16731116
+105,104,"canicaudus","Microtus","Gray-tailed Vole",LC,S,-16731116
+106,104,"montanus","Microtus","Montane Vole",LC,S,-16731116
+107,103,"oregoni","Microtus","Creeping Vole",LC,S,-16731116
+111,110,"xanthognathus","Microtus","Taiga Vole",LC,S,-16731116
+112,110,"richardsoni","Microtus","Water Vole",LC,S,-16731116
+113,109,"chrotorrhinus","Microtus","Rock Vole",LC,D,-16731116
+115,114,"quasiater","Microtus","Jalapan Pine Vole",NT,D,-12486656
+116,114,"pinetorum","Microtus","Woodland Vole",LC,S,-16731116
+117,93,"guatemalensis","Microtus","Guatemalan Vole",NT,D,-12486656
+120,119,"longicaudus","Microtus","Long-tailed Vole",LC,S,-16731116
+121,119,"mexicanus","Microtus","Mexican Vole",LC,U,-16731116
+122,118,"oaxacensis","Microtus","Tarabundi Vole",EN,D,-8572416
+123,91,"ochrogaster","Microtus","Prairie Vole",LC,S,-16731116
+124,0,"alleni","Neofiber","Round-tailed Muskrat",LC,D,-16731116

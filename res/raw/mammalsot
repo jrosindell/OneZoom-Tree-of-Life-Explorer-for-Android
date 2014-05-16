@@ -1,37 +1,37 @@
 name,fileindex,index,whichChild
-"Otomys",14,10,1
-"Otomys",14,11,2
-"Otomys",14,13,1
-"Otomys",14,14,2
-"Otomys",14,15,2
-"Otomys",14,18,1
-"Otomys",14,19,2
-"Otomys",14,20,2
-"Otomys",14,25,1
-"Otomys",14,26,2
-"Otomys",14,27,2
-"Otomys",14,28,2
-"Otomys",14,31,1
-"Otomys",14,32,2
-"Otomys",14,33,2
-"Otomys",14,38,1
-"Otomys",14,39,2
-"Otomys",14,40,2
-"Otomys",14,42,2
-"Ototylomys",21,146,2
-"Otonyctomys",21,148,1
-"othus",76,19,2
-"Otolemur",39,9,1
-"Otolemur",39,10,2
-"Otolemur",39,11,2
-"Otonycteris",55,31,2
-"Otomops",62,49,1
-"Otomops",62,50,2
-"Otomops",62,51,2
-"Otomops",62,54,1
-"Otomops",62,55,2
-"Otomops",62,56,2
-"Otopteropus",46,43,2
+"Otomys typus",14,10,1
+"Otomys orestes",14,11,2
+"Otomys dartmouthi",14,13,1
+"Otomys jacksoni",14,14,2
+"Otomys uzungwensis",14,15,2
+"Otomys irroratus",14,18,1
+"Otomys angoniensis",14,19,2
+"Otomys laminatus",14,20,2
+"Otomys cuanzensis",14,25,1
+"Otomys maximus",14,26,2
+"Otomys occidentalis",14,27,2
+"Otomys denti",14,28,2
+"Otomys burtoni",14,31,1
+"Otomys dollmani",14,32,2
+"Otomys tropicalis",14,33,2
+"Otomys barbouri",14,38,1
+"Otomys anchietae",14,39,2
+"Otomys lacustris",14,40,2
+"Otomys saundersiae",14,42,2
+"Ototylomys phyllotis",21,146,2
+"Otonyctomys hatti",21,148,1
+"Lepus othus",76,19,2
+"Otolemur crassicaudatus",39,9,1
+"Otolemur monteiri",39,10,2
+"Otolemur garnettii",39,11,2
+"Otonycteris hemprichii",55,31,2
+"Otomops madagascariensis",62,49,1
+"Otomops martiensseni",62,50,2
+"Otomops secundus",62,51,2
+"Otomops papuensis",62,54,1
+"Otomops formosus",62,55,2
+"Otomops wroughtoni",62,56,2
+"Otopteropus cartilagonodus",46,43,2
 "Southern River Otter",52,8,1
 "Marine Otter",52,9,2
 "Neotropical Otter",52,10,2
@@ -43,8 +43,8 @@ name,fileindex,index,whichChild
 "Sea Otter",52,23,2
 "Asian Small-clawed Otter",52,25,1
 "African Clawless Otter",52,26,2
-"Otaria",47,60,2
-"Otocyon",47,185,2
+"Otaria flavescens",47,60,2
+"Otocyon megalotis",47,185,2
 "Otter-civet",51,69,2
 "Rwenzori Otter Shrew",34,37,1
 "Nimba Otter Shrew",34,38,2

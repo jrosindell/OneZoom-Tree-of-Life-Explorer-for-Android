@@ -53,16 +53,33 @@ public class Search {
 	 */
 	public void performSearch(String userInput) {
 		if (userInput.length() < 3) {
+			/**
+			 * User input invalid, set previous search as user input and show result.
+			 */
+			previousSearch = userInput;
 			showResult(0);
 		} else if (userInput.equals(previousSearch)) {
+			/**
+			 * User input equals previousSearch, show next result.
+			 */
 			showResult(1);
 		} else {
 			searchResults.clear();
 			previousSearch = userInput;
+			
+			/**
+			 * Load the file that ends with the first two letters of user input.
+			 * 
+			 * Suppose user input 'homo', reader should load 'mammalsho'
+			 */
 			String filename = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH) + userInput.substring(0, 2).toLowerCase();
 			int resourceID = client.getResources().getIdentifier(filename, "raw", client.getPackageName());
 			InputStream is = client.getResources().openRawResource(resourceID);
 			CSVReader reader = new CSVReader(new InputStreamReader(is));
+			
+			/**
+			 * search node in that file
+			 */
 			searchReader(reader, userInput.toLowerCase(Locale.ENGLISH));
 			processAndShowSearchResult();
 		}
@@ -130,25 +147,38 @@ public class Search {
 		int key = Utility.combine(record.fileIndex, record.index);
 		MidNode searchedNode = null;
 		if (MidNode.initializer.fulltreeHash.containsKey(key)) {
+			/**
+			 * The node has already been initialized.
+			 */
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		} else {
+			/**
+			 * The node has not been initialized. Initialize it and then get it.
+			 */
 			MidNode.initializer.initialiseSearchedFile(record.fileIndex);
 			searchedNode = MidNode.initializer.fulltreeHash.get(key);
 		}
 		
 		LinkHandler.setLink(searchedNode);
+		
+		/**
+		 * Move the node to screen center.
+		 */
 		PositionCalculator.reanchorNode(searchedNode);
 		client.moveRootToCenter();
 		PositionData.moveNodeToCenter(searchedNode);
+		
 		client.treeView.setDuringInteraction(false);
 		client.recalculate();
 	}
 
 	/**
 	 * Search userInput through reader.
-	 * If new line has complete match of userInput, 
+	 * 
+	 * If new line has complete match of userInput and it has not been recorded yet,
 	 * then insert the new record in the beginning of the result array. 
-	 * If this node has already been recorded and it contains complete match of userInput,
+	 * 
+	 * If it contains complete match of userInput and it has already been recorded,
 	 * then delete previous record and insert new one in front of the array.
 	 * @param reader
 	 * @param userInput
@@ -160,19 +190,37 @@ public class Search {
 			String[] line;
 			reader.readNext();
 			while ((line = reader.readNext()) != null) {
+				/**
+				 * line[0] is the name of the node in the file.
+				 */
 				if (line[0].toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase())) {
 					Record newRecord = new Record(line);
 					if (!searchResults.contains(newRecord)) {
-						if (newRecord.contains(userInput)) {
-							//exact match appears first
+						
+						//this line has not been recorded yet.
+						if (newRecord.matchWord(userInput)) {
+							/**
+							 * Exact match record being pushed into the head of the array
+							 */
 							searchResults.add(0, newRecord);
 						} else {
+							/**
+							 * If userInput does not match this line, push it in the tail 
+							 * of the array.
+							 */
 							searchResults.add(newRecord);					
 						}
 						searchHit++;
-					} else if (newRecord.contains(userInput)){
-						//If node has already been added to list but not has the exact match name, then delete it and append 
-						//the exact match at the initial position of the list.
+						
+					} else if (newRecord.matchWord(userInput)){
+						
+						/**
+						 * If the node represented by this line has already been added to list and 
+						 * the new line has exact match of userInput,
+						 * then delete the node which was added via a previous line and 
+						 * push the new record into the head of the array.
+						 */
+					
 						deletePreviousResult(searchResults, newRecord);
 						searchResults.add(0, new Record(line));
 					}
@@ -208,6 +256,10 @@ public class Search {
 	/**
 	 * If both link name, which contains latin name of a node and cname does not contains the previous
 	 * search key word, then reset previousSearch to empty.
+	 * 
+	 * This function is called when a wiki link or arkive link is clicked. 
+	 * 
+	 * If the node being clicked is not the one being searched, then reset search result.
 	 * @param link
 	 * @param cname
 	 */
@@ -238,7 +290,7 @@ class Record {
 	 * @param userInput
 	 * @return
 	 */
-	public boolean contains(String userInput) {
+	public boolean matchWord(String userInput) {
 		String[] names = name.split(" ");
 		for (int i = 0; i < names.length; i++) {
 			if (names[i].toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase(Locale.ENGLISH)))

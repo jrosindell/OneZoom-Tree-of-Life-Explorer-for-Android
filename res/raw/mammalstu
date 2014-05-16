@@ -1,12 +1,12 @@
 name,fileindex,index,whichChild
 "Tullberg's Praomys",8,15,1
-"tullbergi",8,15,1
-"tunneyi",10,58,2
-"tumidus",26,65,1
+"Praomys tullbergi",8,15,1
+"Rattus tunneyi",10,58,2
+"Scapteromys tumidus",26,65,1
 "Tumbala Climbing Rat",21,138,2
-"tumbalensis",21,138,2
+"Tylomys tumbalensis",21,138,2
 "Tuva Silver Vole",7,58,2
-"tuvinicus",7,58,2
+"Alticola tuvinicus",7,58,2
 "White-tipped Tuft-tailed Rat",4,73,1
 "Tanala Tuft-tailed Rat",4,74,2
 "Western Tuft-tailed Rat",4,76,1
@@ -15,9 +15,9 @@ name,fileindex,index,whichChild
 "Webb's Tuft-tailed Rat",4,80,2
 "Tuft-tailed Spiny Tree Rat",29,62,1
 "Tawny Tuco-tuco",32,14,1
-"tulduco",32,16,2
+"Ctenomys tulduco",32,16,2
 "Robust Tuco-tuco",32,20,2
-"tuconax",32,20,2
+"Ctenomys tuconax",32,20,2
 "Chacoan Tuco-tuco",32,22,1
 "Highland Tuco-tuco",32,23,2
 "Furtive Tuco-tuco",32,25,1
@@ -30,7 +30,7 @@ name,fileindex,index,whichChild
 "Peruvian Tuco-tuco",32,46,1
 "Tucuman Tuco-tuco",32,47,2
 "Tucuman Tuco-tuco",32,47,2
-"tucumanus",32,47,2
+"Ctenomys tucumanus",32,47,2
 "Emily's Tuco-tuco",32,48,2
 "Collared Tuco-tuco",32,50,1
 "Maule Tuco-tuco",32,51,2
@@ -59,25 +59,25 @@ name,fileindex,index,whichChild
 "Tufted Ground Squirrel",82,56,2
 "Tufted Pygmy Squirrel",78,52,1
 "Turuchan Pika",76,125,1
-"turuchanensis",76,125,1
+"Ochotona turuchanensis",76,125,1
 "Turkestan Red Pika",76,139,1
 "Tufted Gray Langur",40,66,1
 "Geoffroy's Tufted-ear Marmoset",38,10,1
-"Tupaia",35,159,1
-"Tupaia",35,160,2
-"Tupaia",35,161,2
-"Tupaia",35,163,1
-"Tupaia",35,164,2
-"Tupaia",35,167,1
-"Tupaia",35,168,2
-"Tupaia",35,169,2
-"Tupaia",35,170,2
-"Tupaia",35,174,1
-"Tupaia",35,175,2
-"Tupaia",35,177,1
-"Tupaia",35,178,2
-"Tupaia",35,179,2
-"Tupaia",35,180,2
+"Tupaia splendidula",35,159,1
+"Tupaia tana",35,160,2
+"Tupaia gracilis",35,161,2
+"Tupaia nicobarica",35,163,1
+"Tupaia belangeri",35,164,2
+"Tupaia chrysogaster",35,167,1
+"Tupaia dorsalis",35,168,2
+"Tupaia glis",35,169,2
+"Tupaia minor",35,170,2
+"Tupaia moellendorffi",35,174,1
+"Tupaia palawanensis",35,175,2
+"Tupaia javanica",35,177,1
+"Tupaia picta",35,178,2
+"Tupaia longipes",35,179,2
+"Tupaia montana",35,180,2
 "Greater Tube-nosed Bat",53,59,1
 "Rufous Tube-nosed Bat",53,60,2
 "Dusky Tube-nosed Bat",53,61,2
@@ -86,19 +86,19 @@ name,fileindex,index,whichChild
 "Little Tube-nosed Bat",53,64,2
 "Ussuri Tube-nosed Bat",53,65,2
 "Scully's Tube-nosed Bat",53,70,2
-"tubinaris",53,70,2
+"Murina tubinaris",53,70,2
 "Hutton's Tube-nosed Bat",53,74,1
 "Bronze Tube-nosed Bat",53,75,2
 "Round-eared Tube-nosed Bat",53,76,2
 "Gilded Tube-nosed Bat",53,78,1
 "Taiwanese Tube-nosed Bat",53,79,2
-"tuberculatus",53,100,2
-"tumida",53,158,1
-"tuberculata",67,226,2
-"tumidirostris",45,56,2
-"tumidifrons",45,58,1
-"turpis",61,26,2
-"tuberculatus",57,54,2
+"Chalinolobus tuberculatus",53,100,2
+"Rhogeessa tumida",53,158,1
+"Mystacina tuberculata",67,226,2
+"Natalus tumidirostris",45,56,2
+"Chilonatalus tumidifrons",45,58,1
+"Hipposideros turpis",61,26,2
+"Pteropus tuberculatus",57,54,2
 "Pallas's Tube-nosed Bat",46,59,1
 "Demonic Tube-nosed Bat",46,60,2
 "Philippine Tube-nosed Fruit Bat",46,61,2
@@ -115,9 +115,9 @@ name,fileindex,index,whichChild
 "Unstriped Tube-nosed Bat",46,78,2
 "Western Tur",64,27,2
 "Tufted Deer",63,131,2
-"Tursiops",75,16,1
-"Tursiops",75,17,2
+"Tursiops aduncus",75,16,1
+"Tursiops truncatus",75,17,2
 "Tumultuous Shrew",88,165,2
-"turba",88,165,2
+"Crocidura turba",88,165,2
 "Tundra Shrew",86,23,1
-"tundrensis",86,23,1
+"Sorex tundrensis",86,23,1

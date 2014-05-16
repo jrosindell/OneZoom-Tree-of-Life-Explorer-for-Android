@@ -1,30 +1,30 @@
 name,fileindex,index,whichChild
 "Golden-backed Tree Rat",13,76,1
-"gouldii",13,77,2
-"goliath",15,71,2
+"Mesembriomys gouldii",13,77,2
+"Hyomys goliath",15,71,2
 "Golden Spiny Mouse",11,39,2
 "Gounda Mouse",11,137,2
-"goundae",11,137,2
-"goslingi",11,218,2
-"Golunda",11,219,2
-"gonzalesi",8,106,2
+"Mus goundae",11,137,2
+"Colomys goslingi",11,218,2
+"Golunda ellioti",11,219,2
+"Chrotomys gonzalesi",8,106,2
 "Gorongoza Gerbil",12,63,1
 "Goodwin's Brush-tailed Mouse",2,33,1
 "Golden Oldfield Mouse",23,113,1
 "Gorgas's Rice Rat",27,27,1
-"gorgasi",27,27,1
+"Oryzomys gorgasi",27,27,1
 "Goldman's Water Mouse",21,92,2
-"gossypinus",25,11,2
+"Peromyscus gossypinus",25,11,2
 "Golden Mouse",21,210,2
 "Goldman's Woodrat",22,24,2
-"goldmani",22,24,2
-"goldmani",21,213,1
+"Neotoma goldmani",22,24,2
+"Nelsonia goldmani",21,213,1
 "Gobi Altai Mountain Vole",7,60,1
 "Golden Hamster",4,126,2
 "Gobi Jerboa",2,63,2
 "Alcorn's Pocket Gopher",20,27,2
 "Yellow-faced Pocket Gopher",20,31,1
-"goldmani",20,32,2
+"Cratogeomys goldmani",20,32,2
 "Merriam's Pocket Gopher",20,38,1
 "Smoky Pocket Gopher",20,39,2
 "Buller's Pocket Gopher",20,41,2
@@ -58,27 +58,27 @@ name,fileindex,index,whichChild
 "Northern Pocket Gopher",2,122,2
 "Lined Pocket Gopher",31,12,2
 "Goldman's Pocket Mouse",31,19,2
-"goldmani",31,19,2
+"Chaetodipus goldmani",31,19,2
 "Sinaloan Pocket Gopher",31,20,2
 "Golden Atlantic Tree Rat",30,9,1
 "Goeldi's Spiny Rat",29,10,2
-"goeldii",29,10,2
+"Proechimys goeldii",29,10,2
 "Goya Tuco-tuco",32,68,2
-"goodfellowi",32,87,2
+"Ctenomys goodfellowi",32,87,2
 "Cascade Golden-mantled Ground Squirrel",79,77,2
 "Golden Mantled Ground Squirrel",79,81,1
 "Gorontalo Macaque",35,17,2
 "Golden-bellied Mangabey",35,76,1
 "Gee's Golden Langur",40,24,2
 "Golden Snub-nosed Monkey",40,76,2
-"gordonorum",40,94,2
+"Piliocolobus gordonorum",40,94,2
 "Eastern Gorilla",37,36,1
-"Gorilla",37,36,1
+"Gorilla beringei",37,36,1
 "Lowland Gorilla",37,37,2
-"gorilla",37,37,2
-"Gorilla",37,37,2
+"Gorilla gorilla",37,37,2
+"Gorilla gorilla",37,37,2
 "Goeldi's Monkey",38,33,2
-"goeldii",38,33,2
+"Callimico goeldii",38,33,2
 "Golden Lion Tamarin",38,39,2
 "Golden-headed Lion Tamarin",38,40,2
 "Golden-handed Tamarin",38,62,1
@@ -92,15 +92,15 @@ name,fileindex,index,whichChild
 "Golden-bellied Treeshrew",35,167,1
 "Golden-tipped Bat",53,48,2
 "Gould's Wattled Bat",53,93,2
-"gouldii",53,93,2
+"Chalinolobus gouldii",53,93,2
 "Gould's Long-eared Bat",56,40,1
-"gouldi",56,40,1
-"goudoti",73,69,1
+"Nyctophilus gouldi",56,40,1
+"Myotis goudoti",73,69,1
 "Gobi Big Brown Bat",73,158,1
-"gobiensis",73,158,1
+"Eptesicus gobiensis",73,158,1
 "Little Goblin Bat",62,183,2
 "Godman's Long-tailed Bat",69,8,2
-"godmani",69,8,2
+"Choeroniscus godmani",69,8,2
 "Goldman' Nectar Bat",67,111,2
 "Cozumelan Golden Bat",67,146,1
 "Golden Bat",67,147,2
@@ -108,7 +108,7 @@ name,fileindex,index,whichChild
 "Golden-capped Fruit Bat",57,126,1
 "IBERIAN WILD GOAT",64,12,1
 "Himalayan Goral",64,58,2
-"goral",64,58,2
+"Naemorhedus goral",64,58,2
 "Red Goral",64,60,1
 "Long-tailed Goral",64,65,1
 "Chinese Goral",64,66,2
@@ -116,19 +116,19 @@ name,fileindex,index,whichChild
 "Goitered Gazelle",66,12,2
 "Goa",63,16,2
 "Gongshan Muntjac",63,125,2
-"gongshanensis",63,125,2
-"gouazoubira",63,146,1
+"Muntiacus gongshanensis",63,125,2
+"Mazama gouazoubira",63,146,1
 "Golden Jackal",47,128,2
 "Golden Palm Civet",51,54,1
-"goudotii",51,72,1
+"Eupleres goudotii",51,72,1
 "Asiatic golden cat",48,30,1
 "African golden cat",48,32,2
 "Goliath Shrew",85,9,2
-"goliath",85,9,2
+"Crocidura goliath",85,9,2
 "Goodwin's Broad-clawed Shrew",92,23,2
-"goodwini",92,23,2
+"Cryptotis goodwini",92,23,2
 "Goldman's Broad-clawed Shrew",92,47,2
-"goldmani",92,47,2
+"Cryptotis goldmani",92,47,2
 "Highveld Golden Mole",34,57,1
 "Hottentot Golden Mole",34,58,2
 "Fynbos Golden Mole",34,59,2
@@ -148,9 +148,9 @@ name,fileindex,index,whichChild
 "Giant Golden Mole",34,82,2
 "Golden-rumped Elephant Shrew",0,95,1
 "Godman's Rock Wallaby",43,22,2
-"godmani",43,22,2
+"Petrogale godmani",43,22,2
 "Golden-mantled Tree Kangaroo",43,91,1
 "Goodfellow's Tree Kangaroo",43,92,2
-"goodfellowi",43,92,2
-"godmani",84,58,2
+"Dendrolagus goodfellowi",43,92,2
+"Antechinus godmani",84,58,2
 "Golden Bandicoot",0,152,2

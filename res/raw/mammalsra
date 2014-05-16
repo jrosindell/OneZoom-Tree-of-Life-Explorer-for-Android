@@ -1,5 +1,5 @@
 name,fileindex,index,whichChild
-"rattoides",13,17,1
+"Mammelomys rattoides",13,17,1
 "White-tailed Giant Rat",13,65,1
 "Bismarck Giant Rat",13,68,1
 "King Rat",13,69,2
@@ -42,13 +42,13 @@ name,fileindex,index,whichChild
 "Medium-tailed Brush-furred Rat",11,71,1
 "Rahm's Brush-furred Rat",11,72,2
 "Rahm's Brush-furred Rat",11,72,2
-"rahmi",11,72,2
+"Lophuromys rahmi",11,72,2
 "Woosnam's Brush-furred Rat",11,73,2
 "Himalayan White-bellied Rat",11,87,2
 "Brahma White-bellied Rat",11,88,2
 "Lang Bian White-bellied Rat",11,91,2
 "Chestnut White-bellied Rat",11,98,2
-"rapit",11,104,2
+"Niviventer rapit",11,104,2
 "Little Himalayan Rat",11,106,2
 "Tinfields Rock Rat",11,186,1
 "Bocage's Rock Rat",11,188,2
@@ -67,118 +67,118 @@ name,fileindex,index,whichChild
 "Ethiopian Amphibious Rat",11,217,1
 "African Wading Rat",11,218,2
 "Mindoro Mountain Rat",10,10,1
-"Rattus",10,10,1
+"Rattus mindorensis",10,10,1
 "Mentawai Archipelago Rat",10,11,2
-"Rattus",10,11,2
+"Rattus lugens",10,11,2
 "Hoffmann's Sulawesi Rat",10,12,2
-"Rattus",10,12,2
+"Rattus hoffmanni",10,12,2
 "Lampobatang Sulawesi Rat",10,14,1
-"Rattus",10,14,1
+"Rattus mollicomulus",10,14,1
 "Zelebor's Nicobar Rat",10,15,2
-"Rattus",10,15,2
+"Rattus palmarum",10,15,2
 "Burnished Enggano Rat",10,16,2
-"Rattus",10,16,2
+"Rattus adustus",10,16,2
 "Osgood's Vietnamese Rat",10,20,1
-"Rattus",10,20,1
+"Rattus osgoodi",10,20,1
 "Miller's Nicobar Rat",10,21,2
-"Rattus",10,21,2
+"Rattus burrus",10,21,2
 "Malaysian Field Rat",10,23,1
-"Rattus",10,23,1
+"Rattus tiomanicus",10,23,1
 "Aceh Rat",10,24,2
-"Rattus",10,24,2
+"Rattus blangorum",10,24,2
 "Simalur Archipelago Rat",10,26,1
-"Rattus",10,26,1
+"Rattus simalurensis",10,26,1
 "Ricefield Rat",10,27,2
-"Rattus",10,27,2
+"Rattus argentiventer",10,27,2
 "Koopman's Peleng Island Rat",10,31,1
-"Rattus",10,31,1
+"Rattus koopmani",10,31,1
 "Tawitawi Forest Rat",10,32,2
-"Rattus",10,32,2
+"Rattus tawitawiensis",10,32,2
 "Indochinese Forest Rat",10,33,2
-"Rattus",10,33,2
+"Rattus andamanensis",10,33,2
 "Himalayan Field Rat",10,34,2
-"Rattus",10,34,2
+"Rattus nitidus",10,34,2
 "Philippine Forest Rat",10,37,1
-"Rattus",10,37,1
+"Rattus everetti",10,37,1
 "Himalayan Rat",10,38,2
-"Rattus",10,38,2
+"Rattus pyctoris",10,38,2
 "Kinabalu Rat",10,39,2
-"Rattus",10,39,2
+"Rattus baluensis",10,39,2
 "Black Rat",10,43,1
-"rattus",10,43,1
-"Rattus",10,43,1
-"Rattus",10,44,2
+"Rattus rattus",10,43,1
+"Rattus rattus",10,43,1
+"Rattus satarae",10,44,2
 "Oriental House Rat",10,45,2
-"Rattus",10,45,2
+"Rattus tanezumi",10,45,2
 "Losea Rat",10,46,2
-"Rattus",10,46,2
+"Rattus losea",10,46,2
 "Brown Rat",10,48,1
-"Rattus",10,48,1
+"Rattus norvegicus",10,48,1
 "Andaman Rat",10,49,2
-"Rattus",10,49,2
+"Rattus stoicus",10,49,2
 "Hainald's Flores Island Rat",10,57,1
-"Rattus",10,57,1
+"Rattus hainaldi",10,57,1
 "Pale Field Rat",10,58,2
-"Rattus",10,58,2
+"Rattus tunneyi",10,58,2
 "Australian Swamp Rat",10,60,1
-"Rattus",10,60,1
+"Rattus lutreolus",10,60,1
 "Canefield Rat",10,61,2
-"Rattus",10,61,2
+"Rattus sordidus",10,61,2
 "Long-haired Rat",10,62,2
-"Rattus",10,62,2
+"Rattus villosissimus",10,62,2
 "Timor Forest Rat",10,65,1
-"Rattus",10,65,1
+"Rattus timorensis",10,65,1
 "Dusky Rat",10,66,2
-"Rattus",10,66,2
+"Rattus colletti",10,66,2
 "Bush Rat",10,67,2
-"Rattus",10,67,2
+"Rattus fuscipes",10,67,2
 "Sri Lankan Mountain Rat",10,68,2
-"Rattus",10,68,2
+"Rattus montanus",10,68,2
 "Northeastern Xanthurus Rat",10,72,1
-"Rattus",10,72,1
+"Rattus xanthurus",10,72,1
 "Southeastern Xanthurus Rat",10,73,2
-"Rattus",10,73,2
+"Rattus salocco",10,73,2
 "Peleng Island Xanthurus Rat",10,74,2
-"Rattus",10,74,2
+"Rattus pelurus",10,74,2
 "Southwestern Xanthurus Rat",10,76,1
-"Rattus",10,76,1
+"Rattus bontanus",10,76,1
 "Marmoset Xanthurus Rat",10,77,2
-"Rattus",10,77,2
+"Rattus marmosurus",10,77,2
 "New Guinea Rat",10,85,1
-"Rattus",10,85,1
+"Rattus novaeguineae",10,85,1
 "Eastern Rat",10,86,2
-"Rattus",10,86,2
+"Rattus mordax",10,86,2
 "Sula Archipelago Rat",10,87,2
-"Rattus",10,87,2
-"Rattus",10,88,2
+"Rattus elaphinus",10,87,2
+"Rattus sanila",10,88,2
 "Spiny Seram Island Rat",10,91,1
-"Rattus",10,91,1
+"Rattus feliceus",10,91,1
 "Yapen Rat",10,92,2
-"Rattus",10,92,2
+"Rattus jobiensis",10,92,2
 "Giluwe Rat",10,93,2
-"Rattus",10,93,2
+"Rattus giluwensis",10,93,2
 "Large Spiny Rat",10,94,2
-"Rattus",10,94,2
+"Rattus praetor",10,94,2
 "Halmahara Rat",10,96,1
-"Rattus",10,96,1
+"Rattus morotaiensis",10,96,1
 "Small Spiny Rat",10,97,2
-"Rattus",10,97,2
+"Rattus steini",10,97,2
 "Cape York Rat",10,98,2
-"Rattus",10,98,2
+"Rattus leucopus",10,98,2
 "Sumatran Mountain Rat",9,11,1
-"Rattus",9,11,1
+"Rattus korinchi",9,11,1
 "Polynesian Rat",9,12,2
-"Rattus",9,12,2
+"Rattus exulans",9,12,2
 "Hoogerwerf's Sumatran Rat",9,13,2
-"Rattus",9,13,2
+"Rattus hoogerwerfi",9,13,2
 "Annandale's Sundaic Rat",9,14,2
-"Rattus",9,14,2
+"Rattus annandalei",9,14,2
 "Ranjini's Field Rat",9,16,1
 "Ranjini's Field Rat",9,16,1
-"ranjiniae",9,16,1
-"Rattus",9,16,1
+"Rattus ranjiniae",9,16,1
+"Rattus ranjiniae",9,16,1
 "Enggano Island Rat",9,17,2
-"Rattus",9,17,2
+"Rattus enganus",9,17,2
 "Palawan Mountain Rat",9,18,2
 "African Marsh Rat",9,29,1
 "Angolan Marsh Rat",9,31,2
@@ -187,7 +187,7 @@ name,fileindex,index,whichChild
 "Fox's Shaggy Rat",9,35,2
 "Hume's Rat",9,38,2
 "Rajah Sundaic Maxomys",9,51,2
-"rajah",9,51,2
+"Maxomys rajah",9,51,2
 "Greater Marmoset Rat",9,88,1
 "Lesser Marmoset Rat",9,89,2
 "Kondana Rat",9,105,2
@@ -196,20 +196,20 @@ name,fileindex,index,whichChild
 "Short-tailed Bandicoot Rat",9,124,2
 "Ohiya Rat",9,154,2
 "Western New Guinea Mountain Rat",9,160,1
-"Rattus",9,160,1
+"Rattus arrogans",9,160,1
 "Pocock's Highland Rat",9,161,2
-"Rattus",9,161,2
+"Rattus pococki",9,161,2
 "Moss-forest Rat",9,163,1
-"Rattus",9,163,1
-"Rattus",9,164,2
+"Rattus niobe",9,163,1
+"Rattus arfakiensis",9,164,2
 "Arianus's Rat",9,166,1
-"Rattus",9,166,1
+"Rattus omichlodes",9,166,1
 "Glacier Rat",9,167,2
-"Rattus",9,167,2
+"Rattus richardsoni",9,167,2
 "Van Deusen's Rat",9,170,1
-"Rattus",9,170,1
+"Rattus vandeuseni",9,170,1
 "Slender Rat",9,171,2
-"Rattus",9,171,2
+"Rattus verecundus",9,171,2
 "Seram Island Mountain Rat",9,172,2
 "Millard's Rat",9,175,2
 "Sulawesi Soft-furred Rat",9,177,1
@@ -354,7 +354,7 @@ name,fileindex,index,whichChild
 "Alfaro's Rice Water Rat",26,79,2
 "South American Water Rat",28,39,1
 "Trinidad Water Rat",28,42,2
-"rattus",28,43,2
+"Nectomys rattus",28,43,2
 "Striped Atlantic Forest Rat",28,46,1
 "Pallid Atlantic Forest Rat",28,48,2
 "Peruvian Fish-eating Rat",21,80,1
@@ -362,7 +362,7 @@ name,fileindex,index,whichChild
 "Musso's Fish-eating Rat",21,82,2
 "Venezuelan Fish-eating Rat",21,84,1
 "Montane Fish-eating Rat",21,85,2
-"raptor",21,92,2
+"Rheomys raptor",21,92,2
 "Pittier's Crab-eating Rat",21,98,1
 "Crab-eating Rat",21,99,2
 "Tweedy's Crab-eating Rat",21,100,2
@@ -392,7 +392,7 @@ name,fileindex,index,whichChild
 "Vesper Rat",21,149,2
 "Mt. Pirri Isthmus Rat",21,161,1
 "Yellow Isthmus Rat",21,162,2
-"raviventris",21,191,2
+"Reithrodontomys raviventris",21,191,2
 "Magdalena Rat",22,46,2
 "White-tipped Tuft-tailed Rat",4,73,1
 "Tanala Tuft-tailed Rat",4,74,2
@@ -407,9 +407,9 @@ name,fileindex,index,whichChild
 "Eastern Red Forest Rat",4,94,2
 "Betsileo Short-tailed Rat",4,96,1
 "Gregarious Short-tailed Rat",4,97,2
-"ramirohitra",4,97,2
+"Brachyuromys ramirohitra",4,97,2
 "Malagasy Giant Jumping Rat",4,98,2
-"raddei",4,125,1
+"Mesocricetus raddei",4,125,1
 "East African Mole Rat",4,145,1
 "Big-headed Mole Rat",4,147,2
 "Indomalayan Bamboo Rat",4,166,1
@@ -517,12 +517,12 @@ name,fileindex,index,whichChild
 "Sage's Rock Rat",2,152,2
 "Plains Viscacha Rat",2,154,1
 "Viscacha Rat",2,155,2
-"Ratufa",77,49,1
-"Ratufa",77,50,2
-"Ratufa",77,51,2
-"Ratufa",77,52,2
-"rabori",78,11,2
-"ralli",79,28,2
+"Ratufa bicolor",77,49,1
+"Ratufa affinis",77,50,2
+"Ratufa indica",77,51,2
+"Ratufa macroura",77,52,2
+"Sundasciurus rabori",78,11,2
+"Spermophilus ralli",79,28,2
 "European Rabbit",76,70,2
 "Bunyoro Rabbit",76,72,1
 "Marsh Rabbit",76,95,1
@@ -533,32 +533,32 @@ name,fileindex,index,whichChild
 "Pygmy Rabbit",76,106,2
 "Riverine Rabbit",76,107,2
 "Volcano Rabbit",76,108,2
-"randensis",76,114,2
+"Pronolagus randensis",76,114,2
 "Amami Rabbit",76,115,2
-"radiata",35,38,1
+"Macaca radiata",35,38,1
 "Rafinesque's Big-eared Bat",53,139,2
-"rafinesquii",53,139,2
-"ravus",62,194,2
+"Corynorhinus rafinesquii",53,139,2
+"Tomopeas ravus",62,194,2
 "Raffray's Sheath-tailed Bat",71,56,1
-"raffrayana",71,56,1
-"rayneri",57,107,2
+"Emballonura raffrayana",71,56,1
+"Pteropus rayneri",57,107,2
 "Ratanaworabhan's Fruit Bat",46,23,1
-"rabori",46,61,2
-"raptor",46,78,2
-"Raphicerus",65,42,1
-"Raphicerus",65,43,2
-"Raphicerus",65,44,2
-"Rangifer",63,165,2
+"Nyctimene rabori",46,61,2
+"Paranyctimene raptor",46,78,2
+"Raphicerus sharpei",65,42,1
+"Raphicerus campestris",65,43,2
+"Raphicerus melanotis",65,44,2
+"Rangifer tarandus",63,165,2
 "Crab-eating Raccoon",47,12,1
 "Pygmy Raccoon",47,13,2
 "Northern Raccoon",47,14,2
 "Racoon Dog",47,156,2
-"rapax",90,9,1
+"Crocidura rapax",90,9,1
 "Rainey Shrew",88,42,2
-"raineyi",88,42,2
+"Crocidura raineyi",88,42,2
 "Radde's Shrew",86,40,2
-"raddei",86,40,2
+"Sorex raddei",86,40,2
 "Musky Rat Kangaroo",43,131,2
 "Raffray's Bandicoot",0,140,1
-"raffrayana",0,140,1
-"raphanurus",0,166,2
+"Peroryctes raffrayana",0,140,1
+"Rhyncholestes raphanurus",0,166,2

@@ -1,29 +1,29 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,-268435449,"hippurus","Sundasciurus","Horse-tailed Squirrel",NT,D,-12486656
-9,-268435449,"davensis","Sundasciurus","Davao Squirrel",DD,U,-11513776
-10,-268435450,"hoogstraali","Sundasciurus","Busuanga Squirrel",LC,U,-16731116
-11,-268435451,"rabori","Sundasciurus","Palawan Montane Squirrel",DD,U,-11513776
-14,-268435443,"mindanensis","Sundasciurus","Mindanao Squirrel",LC,U,-16731116
-15,-268435443,"brookei","Sundasciurus","Brooke's Squirrel",LC,U,-16731116
-16,-268435444,"fraterculus","Sundasciurus","Fraternal Squirrel",EN,D,-8572416
-21,-268435436,"jentinki","Sundasciurus","Jentink's Squirrel",LC,U,-16731116
-22,-268435436,"tenuis","Sundasciurus","Slender Squirrel",LC,D,-16731116
-23,-268435437,"philippinensis","Sundasciurus","Philippine Tree Squirrel",LC,S,-16731116
-25,-268435432,"steerii","Sundasciurus","Southern Palawan Tree Squirrel",LC,S,-16731116
-26,-268435432,"lowii","Sundasciurus","Low's Squirrel",LC,S,-16731116
-27,-268435439,"juvencus","Sundasciurus","Northern Palawan Tree Squirrel",LC,S,-16731116
-28,-268435454,"moellendorffi","Sundasciurus","Culion Tree Squirrel",NT,D,-12486656
-29,-268435455,"samarensis","Sundasciurus","Samar Squirrel",LC,U,-16731116
-35,-268435422,"everetti","Dremomys","Bornean Mountain Ground Squirrel",LC,S,-16731116
-36,-268435422,"lokriah","Dremomys","Orange-bellied Himalayan Squirrel",LC,D,-16731116
-38,-268435419,"rufigenis","Dremomys","Asian Red-cheeked Squirrel",LC,S,-16731116
-39,-268435419,"pernyi","Dremomys","Perny's Long-nosed Squirrel",LC,S,-16731116
-41,-268435416,"pyrrhomerus","Dremomys","Red-hipped Squirrel",LC,U,-16731116
-42,-268435416,"gularis","Dremomys","Red-throated Squirrel",LC,S,-16731116
-46,-268435411,"rodolphii","Tamiops","Cambodian Striped Squirrel",LC,S,-16731116
-47,-268435411,"maritimus","Tamiops","Maritime Striped Squirrel",LC,S,-16731116
-48,-268435412,"mcclellandii","Tamiops","",NE,U,-16777216
-49,-268435413,"swinhoei","Tamiops","Swinhoe's Striped Squirrel",LC,S,-16731116
-52,-268435405,"whiteheadi","Exilisciurus","Tufted Pygmy Squirrel",LC,S,-16731116
-53,-268435405,"exilis","Exilisciurus","Least Pygmy Squirrel",DD,U,-11513776
-54,-268435406,"concinnus","Exilisciurus","Philippine Pygmy Squirrel",LC,S,-16731116
+8,7,"hippurus","Sundasciurus","Horse-tailed Squirrel",NT,D,-12486656
+9,7,"davensis","Sundasciurus","Davao Squirrel",DD,U,-11513776
+10,6,"hoogstraali","Sundasciurus","Busuanga Squirrel",LC,U,-16731116
+11,5,"rabori","Sundasciurus","Palawan Montane Squirrel",DD,U,-11513776
+14,13,"mindanensis","Sundasciurus","Mindanao Squirrel",LC,U,-16731116
+15,13,"brookei","Sundasciurus","Brooke's Squirrel",LC,U,-16731116
+16,12,"fraterculus","Sundasciurus","Fraternal Squirrel",EN,D,-8572416
+21,20,"jentinki","Sundasciurus","Jentink's Squirrel",LC,U,-16731116
+22,20,"tenuis","Sundasciurus","Slender Squirrel",LC,D,-16731116
+23,19,"philippinensis","Sundasciurus","Philippine Tree Squirrel",LC,S,-16731116
+25,24,"steerii","Sundasciurus","Southern Palawan Tree Squirrel",LC,S,-16731116
+26,24,"lowii","Sundasciurus","Low's Squirrel",LC,S,-16731116
+27,17,"juvencus","Sundasciurus","Northern Palawan Tree Squirrel",LC,S,-16731116
+28,2,"moellendorffi","Sundasciurus","Culion Tree Squirrel",NT,D,-12486656
+29,1,"samarensis","Sundasciurus","Samar Squirrel",LC,U,-16731116
+35,34,"everetti","Dremomys","Bornean Mountain Ground Squirrel",LC,S,-16731116
+36,34,"lokriah","Dremomys","Orange-bellied Himalayan Squirrel",LC,D,-16731116
+38,37,"rufigenis","Dremomys","Asian Red-cheeked Squirrel",LC,S,-16731116
+39,37,"pernyi","Dremomys","Perny's Long-nosed Squirrel",LC,S,-16731116
+41,40,"pyrrhomerus","Dremomys","Red-hipped Squirrel",LC,U,-16731116
+42,40,"gularis","Dremomys","Red-throated Squirrel",LC,S,-16731116
+46,45,"rodolphii","Tamiops","Cambodian Striped Squirrel",LC,S,-16731116
+47,45,"maritimus","Tamiops","Maritime Striped Squirrel",LC,S,-16731116
+48,44,"mcclellandii","Tamiops","",NE,U,-16777216
+49,43,"swinhoei","Tamiops","Swinhoe's Striped Squirrel",LC,S,-16731116
+52,51,"whiteheadi","Exilisciurus","Tufted Pygmy Squirrel",LC,S,-16731116
+53,51,"exilis","Exilisciurus","Least Pygmy Squirrel",DD,U,-11513776
+54,50,"concinnus","Exilisciurus","Philippine Pygmy Squirrel",LC,S,-16731116

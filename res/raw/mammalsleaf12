@@ -1,46 +1,46 @@
 index,parent,name1,name2,common,redlist,popstab,color
-15,-268435442,"unguiculatus","Meriones","Mongolian Gerbil",LC,U,-16731116
-16,-268435442,"tristrami","Meriones","Tristram's Jird",LC,S,-16731116
-18,-268435439,"crassus","Meriones","Sundevall's Jird",LC,U,-16731116
-19,-268435439,"dahli","Meriones","Dahl's Jird",EN,D,-8572416
-23,-268435434,"chengi","Meriones","Cheng's Jird",LC,U,-16731116
-24,-268435434,"libycus","Meriones","Libyan Jird",LC,S,-16731116
-25,-268435435,"vinogradovi","Meriones","Vinogradov's Jird",LC,U,-16731116
-26,-268435436,"zarudnyi","Meriones","Zarundny's Jird",DD,U,-11513776
-29,-268435428,"meridianus","Meriones","Mid-day Gerbil",LC,U,-16731116
-30,-268435428,"arimalius","Meriones","Arabian Jird",LC,U,-16731116
-31,-268435429,"sacramenti","Meriones","Buxton's Jird",VU,D,-11184866
-33,-268435424,"shawi","Meriones","Shaw's Jird",LC,S,-16731116
-34,-268435424,"grandis","Meriones","",LC,S,-16731116
-35,-268435447,"hurrianae","Meriones","Indian Desert Gerbil",LC,U,-16731116
-37,-268435420,"persicus","Meriones","Persian Jird",LC,U,-16731116
-38,-268435420,"rex","Meriones","King Jird",LC,U,-16731116
-39,-268435449,"tamariscinus","Meriones","Tamarisk Gerbil",LC,U,-16731116
-41,-268435416,"przewalskii","Brachiones","Przewalski's Jird",LC,U,-16731116
-42,-268435416,"calurus","Sekeetamys","Bushy-tailed Jird",LC,S,-16731116
-44,-268435413,"vexillaris","Psammomys","Thin Sand Rat",DD,U,-11513776
-45,-268435413,"obesus","Psammomys","Fat Sand Rat",LC,S,-16731116
-46,-268435452,"opimus","Rhombomys","Great Gerbil",LC,S,-16731116
-47,-268435453,"imbellis","Ammodillus","Ammodile",DD,S,-11513776
-48,-268435454,"duprasi","Pachyuromys","Fat-tailed Gerbil",LC,S,-16731116
-58,-268435399,"nigricaudus","Gerbilliscus","Black-tailed Gerbil",LC,S,-16731116
-59,-268435399,"robustus","Gerbilliscus","Fringe-tailed Gerbil",LC,S,-16731116
-60,-268435400,"brantsii","Gerbilliscus","Highveld Gerbil",LC,U,-16731116
-61,-268435401,"validus","Gerbilliscus","Savanna Gerbil",LC,S,-16731116
-63,-268435394,"inclusus","Gerbilliscus","Gorongoza Gerbil",LC,U,-16731116
-64,-268435394,"guineae","Gerbilliscus","Guinea Gerbil",LC,S,-16731116
-65,-268435403,"phillipsi","Gerbilliscus","Phillip's Gerbil",LC,U,-16731116
-68,-268435389,"kempi","Gerbilliscus","Kemp's Gerbil",LC,U,-16731116
-69,-268435389,"afra","Gerbilliscus","Cape Gerbil",LC,U,-16731116
-70,-268435390,"leucogaster","Gerbilliscus","Bushveld Gerbil",LC,S,-16731116
-71,-268435405,"indica","Tatera","Indian Gerbil",LC,U,-16731116
-72,-268435406,"boehmi","Gerbilliscus","Boehm's Gerbil",LC,S,-16731116
-77,-268435380,"pygargus","Taterillus","Senegal Gerbil",LC,S,-16731116
-78,-268435380,"congicus","Taterillus","Congo Gerbil",LC,U,-16731116
-80,-268435377,"gracilis","Taterillus","Gracile Tateril",LC,S,-16731116
-81,-268435377,"emini","Taterillus","Emin's Gerbil",LC,U,-16731116
-83,-268435374,"arenarius","Taterillus","Robbins's Tateril",LC,U,-16731116
-84,-268435374,"lacustris","Taterillus","Lake Chad Gerbil",LC,U,-16731116
-86,-268435371,"petteri","Taterillus","Petter's Gerbil",LC,S,-16731116
-87,-268435371,"harringtoni","Taterillus","",NE,U,-16777216
-88,-268435456,"braueri","Desmodilliscus","Pouched Gerbil",LC,S,-16731116
+15,14,"unguiculatus","Meriones","Mongolian Gerbil",LC,U,-16731116
+16,14,"tristrami","Meriones","Tristram's Jird",LC,S,-16731116
+18,17,"crassus","Meriones","Sundevall's Jird",LC,U,-16731116
+19,17,"dahli","Meriones","Dahl's Jird",EN,D,-8572416
+23,22,"chengi","Meriones","Cheng's Jird",LC,U,-16731116
+24,22,"libycus","Meriones","Libyan Jird",LC,S,-16731116
+25,21,"vinogradovi","Meriones","Vinogradov's Jird",LC,U,-16731116
+26,20,"zarudnyi","Meriones","Zarundny's Jird",DD,U,-11513776
+29,28,"meridianus","Meriones","Mid-day Gerbil",LC,U,-16731116
+30,28,"arimalius","Meriones","Arabian Jird",LC,U,-16731116
+31,27,"sacramenti","Meriones","Buxton's Jird",VU,D,-11184866
+33,32,"shawi","Meriones","Shaw's Jird",LC,S,-16731116
+34,32,"grandis","Meriones","",LC,S,-16731116
+35,9,"hurrianae","Meriones","Indian Desert Gerbil",LC,U,-16731116
+37,36,"persicus","Meriones","Persian Jird",LC,U,-16731116
+38,36,"rex","Meriones","King Jird",LC,U,-16731116
+39,7,"tamariscinus","Meriones","Tamarisk Gerbil",LC,U,-16731116
+41,40,"przewalskii","Brachiones","Przewalski's Jird",LC,U,-16731116
+42,40,"calurus","Sekeetamys","Bushy-tailed Jird",LC,S,-16731116
+44,43,"vexillaris","Psammomys","Thin Sand Rat",DD,U,-11513776
+45,43,"obesus","Psammomys","Fat Sand Rat",LC,S,-16731116
+46,4,"opimus","Rhombomys","Great Gerbil",LC,S,-16731116
+47,3,"imbellis","Ammodillus","Ammodile",DD,S,-11513776
+48,2,"duprasi","Pachyuromys","Fat-tailed Gerbil",LC,S,-16731116
+58,57,"nigricaudus","Gerbilliscus","Black-tailed Gerbil",LC,S,-16731116
+59,57,"robustus","Gerbilliscus","Fringe-tailed Gerbil",LC,S,-16731116
+60,56,"brantsii","Gerbilliscus","Highveld Gerbil",LC,U,-16731116
+61,55,"validus","Gerbilliscus","Savanna Gerbil",LC,S,-16731116
+63,62,"inclusus","Gerbilliscus","Gorongoza Gerbil",LC,U,-16731116
+64,62,"guineae","Gerbilliscus","Guinea Gerbil",LC,S,-16731116
+65,53,"phillipsi","Gerbilliscus","Phillip's Gerbil",LC,U,-16731116
+68,67,"kempi","Gerbilliscus","Kemp's Gerbil",LC,U,-16731116
+69,67,"afra","Gerbilliscus","Cape Gerbil",LC,U,-16731116
+70,66,"leucogaster","Gerbilliscus","Bushveld Gerbil",LC,S,-16731116
+71,51,"indica","Tatera","Indian Gerbil",LC,U,-16731116
+72,50,"boehmi","Gerbilliscus","Boehm's Gerbil",LC,S,-16731116
+77,76,"pygargus","Taterillus","Senegal Gerbil",LC,S,-16731116
+78,76,"congicus","Taterillus","Congo Gerbil",LC,U,-16731116
+80,79,"gracilis","Taterillus","Gracile Tateril",LC,S,-16731116
+81,79,"emini","Taterillus","Emin's Gerbil",LC,U,-16731116
+83,82,"arenarius","Taterillus","Robbins's Tateril",LC,U,-16731116
+84,82,"lacustris","Taterillus","Lake Chad Gerbil",LC,U,-16731116
+86,85,"petteri","Taterillus","Petter's Gerbil",LC,S,-16731116
+87,85,"harringtoni","Taterillus","",NE,U,-16777216
+88,0,"braueri","Desmodilliscus","Pouched Gerbil",LC,S,-16731116

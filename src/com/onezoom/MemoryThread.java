@@ -45,6 +45,7 @@ public class MemoryThread extends Thread {
 	
 	/**
 	 * Destroy this thread.
+	 * Destroy midnode in order to delete the static object within it. 
 	 */
 	public synchronized void requestStop() {
 		handler.post(new Runnable() {		
@@ -112,6 +113,10 @@ class MemoryHandler extends Handler {
 	@Override
 	public void handleMessage(Message msg) {
 		switch (msg.what) {
+		/**
+		 * First time of loading the tree from file to RAM.
+		 * Before initialization needs to create the static objects in MidNode class.
+		 */
 		case MemoryThread.MSG_INITIALIZATION:
 			MidNode.createStaticObjects();
 			client.initialization();
@@ -119,6 +124,12 @@ class MemoryHandler extends Handler {
 			if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
 				this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			break;
+			
+		/**
+		 * Recalculation.
+		 * 
+		 * If there is more than one recalculation message in the queue, escape all but the last one.
+		 */
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				client.treeView.setDuringRecalculation(true);
@@ -129,6 +140,17 @@ class MemoryHandler extends Handler {
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
+			
+		/**
+		 * I think the if statement might be redundant code.
+		 * 
+		 * This branch does not use recalculateDynamic 
+		 * because it will set the tree will to the re-anchored node. 
+		 * 
+		 * The recalculate method will do recalculation assuming that the root is re-anchored.
+		 * 
+		 * Maybe I should re-anchor the view to root and delete recalculate method...
+		 */
 		case MemoryThread.MSG_RESET:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				client.treeView.setDuringRecalculation(true);
@@ -140,6 +162,13 @@ class MemoryHandler extends Handler {
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
+			
+		/**
+		 * stack of node has non init children contains the nodes whose children has not been initialized yet.
+		 * 
+		 * When the stack is not empty and the thread is in idle, call idleTimeInitialization to init one
+		 * or two file each time.
+		 */
 		case MemoryThread.MSG_IDLECALCULATION:
 			if (!this.HasMessages()) {
 				MidNode.initializer.idleTimeInitialization();
@@ -177,6 +206,10 @@ class MemoryHandler extends Handler {
 		}
 	}
 
+	/**
+	 * Check if the handler has messages other than MSG_IDLECALCULATION(==2)
+	 * @return
+	 */
 	private boolean HasMessages() {
 		for (int i = 0; i < 10; i++) {
 			if (this.hasMessages(i) && i != 2)

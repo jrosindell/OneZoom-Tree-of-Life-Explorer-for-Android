@@ -1,34 +1,34 @@
 index,parent,name1,name2,common,redlist,popstab,color
-12,-268435445,"leporina","Dasyprocta","Red-rumped Agouti",LC,S,-16731116
-13,-268435445,"cristata","Dasyprocta","Crested Agouti",DD,U,-11513776
-14,-268435446,"punctata","Dasyprocta","Central American Agouti",LC,S,-16731116
-15,-268435447,"ruatanica","Dasyprocta","Roatan Island Agouti",EN,D,-8572416
-18,-268435439,"prymnolopha","Dasyprocta","Black-rumped Agouti",LC,U,-16731116
-19,-268435439,"fuliginosa","Dasyprocta","Black Agouti",LC,S,-16731116
-20,-268435440,"mexicana","Dasyprocta","Mexican Agouti",CR,D,-3014646
-22,-268435435,"guamara","Dasyprocta","Orinoco Agouti",NT,D,-12486656
-23,-268435435,"coibae","Dasyprocta","Coiban Agouti",VU,U,-11184866
-25,-268435432,"kalinowskii","Dasyprocta","Kalinowski Agouti",DD,U,-11513776
-26,-268435432,"azarae","Dasyprocta","Azara's Agouti",DD,D,-11513776
-28,-268435429,"pratti","Myoprocta","Green Acouchi",LC,S,-16731116
-29,-268435429,"acouchy","Myoprocta","Red Acouchi",LC,U,-16731116
-31,-268435426,"swinderianus","Thryonomys","Greater Cane Rat",LC,U,-16731116
-32,-268435426,"gregorianus","Thryonomys","Lesser Cane Rat",LC,U,-16731116
-39,-268435418,"insidiosus","Sphiggurus","Bahia Hairy Dwarf Porcupine",LC,U,-16731116
-40,-268435418,"melanurus","Sphiggurus","",LC,U,-16731116
-41,-268435419,"mexicanus","Sphiggurus","Mexican Hairy Dwarf Porcupine",LC,D,-16731116
-44,-268435413,"vestitus","Sphiggurus","Brown Hairy Dwarf Porcupine",DD,D,-11513776
-45,-268435413,"pruinosus","Sphiggurus","",LC,U,-16731116
-46,-268435414,"spinosus","Sphiggurus","Paraguay Hairy Dwarf Porcupine",LC,U,-16731116
-47,-268435421,"villosus","Sphiggurus","Orange-spined Hairy Dwarf Porcupine",LC,U,-16731116
-48,-268435422,"rufescens","Echinoprocta","Stump-tailed Porcupine",LC,U,-16731116
-53,-268435404,"prehensilis","Coendou","Brazilian Porcupine",LC,S,-16731116
-54,-268435404,"nycthemera","Coendou","Koopman's Porcupine",DD,U,-11513776
-55,-268435405,"bicolor","Coendou","Bicolor-spined Porcupine",LC,U,-16731116
-56,-268435406,"rothschildi","Coendou","Rothchild's Porcupine",LC,S,-16731116
-57,-268435407,"dorsatum","Erethizon","North American Porcupine",LC,S,-16731116
-58,-268435454,"typicus","Petromus","Dassie Rat",LC,S,-16731116
-60,-268435397,"taczanowskii","Cuniculus","Mountain Paca",NT,D,-12486656
-61,-268435397,"paca","Cuniculus","Spotted Paca",LC,S,-16731116
-63,-268435394,"patagonum","Dolichotis","Patagonian Cavy",NT,D,-12486656
-64,-268435394,"salinicola","Dolichotis","Chacoan Mara",LC,S,-16731116
+12,11,"leporina","Dasyprocta","Red-rumped Agouti",LC,S,-16731116
+13,11,"cristata","Dasyprocta","Crested Agouti",DD,U,-11513776
+14,10,"punctata","Dasyprocta","Central American Agouti",LC,S,-16731116
+15,9,"ruatanica","Dasyprocta","Roatan Island Agouti",EN,D,-8572416
+18,17,"prymnolopha","Dasyprocta","Black-rumped Agouti",LC,U,-16731116
+19,17,"fuliginosa","Dasyprocta","Black Agouti",LC,S,-16731116
+20,16,"mexicana","Dasyprocta","Mexican Agouti",CR,D,-3014646
+22,21,"guamara","Dasyprocta","Orinoco Agouti",NT,D,-12486656
+23,21,"coibae","Dasyprocta","Coiban Agouti",VU,U,-11184866
+25,24,"kalinowskii","Dasyprocta","Kalinowski Agouti",DD,U,-11513776
+26,24,"azarae","Dasyprocta","Azara's Agouti",DD,D,-11513776
+28,27,"pratti","Myoprocta","Green Acouchi",LC,S,-16731116
+29,27,"acouchy","Myoprocta","Red Acouchi",LC,U,-16731116
+31,30,"swinderianus","Thryonomys","Greater Cane Rat",LC,U,-16731116
+32,30,"gregorianus","Thryonomys","Lesser Cane Rat",LC,U,-16731116
+39,38,"insidiosus","Sphiggurus","Bahia Hairy Dwarf Porcupine",LC,U,-16731116
+40,38,"melanurus","Sphiggurus","",LC,U,-16731116
+41,37,"mexicanus","Sphiggurus","Mexican Hairy Dwarf Porcupine",LC,D,-16731116
+44,43,"vestitus","Sphiggurus","Brown Hairy Dwarf Porcupine",DD,D,-11513776
+45,43,"pruinosus","Sphiggurus","",LC,U,-16731116
+46,42,"spinosus","Sphiggurus","Paraguay Hairy Dwarf Porcupine",LC,U,-16731116
+47,35,"villosus","Sphiggurus","Orange-spined Hairy Dwarf Porcupine",LC,U,-16731116
+48,34,"rufescens","Echinoprocta","Stump-tailed Porcupine",LC,U,-16731116
+53,52,"prehensilis","Coendou","Brazilian Porcupine",LC,S,-16731116
+54,52,"nycthemera","Coendou","Koopman's Porcupine",DD,U,-11513776
+55,51,"bicolor","Coendou","Bicolor-spined Porcupine",LC,U,-16731116
+56,50,"rothschildi","Coendou","Rothchild's Porcupine",LC,S,-16731116
+57,49,"dorsatum","Erethizon","North American Porcupine",LC,S,-16731116
+58,2,"typicus","Petromus","Dassie Rat",LC,S,-16731116
+60,59,"taczanowskii","Cuniculus","Mountain Paca",NT,D,-12486656
+61,59,"paca","Cuniculus","Spotted Paca",LC,S,-16731116
+63,62,"patagonum","Dolichotis","Patagonian Cavy",NT,D,-12486656
+64,62,"salinicola","Dolichotis","Chacoan Mara",LC,S,-16731116

@@ -1,58 +1,58 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,-268435448,"torquatus","Callicebus","Collared Titi Monkey",LC,U,-16731116
-10,-268435448,"purinus","Callicebus","Widow Monkey",LC,U,-16731116
-12,-268435445,"lugens","Callicebus","Collared Titi",LC,U,-16731116
-13,-268435445,"lucifer","Callicebus","Widow Monkey",LC,U,-16731116
-14,-268435450,"medemi","Callicebus","Colombian Black-handed Titi",VU,D,-11184866
-15,-268435451,"regulus","Callicebus","Widow Monkey",LC,U,-16731116
-19,-268435438,"donacophilus","Callicebus","Bolivian Gray Titi",LC,D,-16731116
-20,-268435438,"pallescens","Callicebus","Chacoan Titi Monkey",LC,S,-16731116
-22,-268435435,"olallae","Callicebus","Olalla Brothers' Titi",EN,D,-8572416
-23,-268435435,"modestus","Callicebus","Beni Titi Monkey",EN,D,-8572416
-24,-268435440,"oenanthe","Callicebus","Andean Titi Monkey",EN,D,-8572416
-29,-268435428,"cupreus","Callicebus","Coppery Titi Monkey",LC,U,-16731116
-30,-268435428,"ornatus","Callicebus","Ornate Titi Monkey",VU,D,-11184866
-31,-268435429,"discolor","Callicebus","Red Titi Monkey",LC,U,-16731116
-32,-268435430,"caligatus","Callicebus","Titi Monkey",LC,U,-16731116
-33,-268435431,"dubius","Callicebus","Doubtful Titi Monkey",LC,U,-16731116
-37,-268435420,"baptista","Callicebus","Baptista Lake Titi Monkey",LC,U,-16731116
-38,-268435420,"hoffmannsi","Callicebus","Hoffmann's Titi Monkey",LC,U,-16731116
-39,-268435421,"brunneus","Callicebus","Brown Titi Monkey",LC,U,-16731116
-41,-268435416,"cinerascens","Callicebus","Ashy Black Titi Monkey",LC,U,-16731116
-42,-268435416,"moloch","Callicebus","Red-bellied Titi Monkey",LC,U,-16731116
-48,-268435409,"utahickae","Chiropotes","Uta Hick's Bearded Saki",EN,D,-8572416
-49,-268435409,"chiropotes","Chiropotes","Bearded Saki",LC,S,-16731116
-51,-268435406,"satanas","Chiropotes","Black Bearded Saki",CR,D,-3014646
-52,-268435406,"israelita","Chiropotes","",NE,U,-16777216
-53,-268435411,"albinasus","Chiropotes","Red-nosed Bearded Saki",EN,D,-8572416
-55,-268435402,"melanocephalus","Cacajao","Golden-backed Black Uakari",LC,S,-16731116
-56,-268435402,"calvus","Cacajao","Bald-headed Uacari",VU,D,-11184866
-60,-268435397,"irrorata","Pithecia","Gray's Bald-faced Saki",LC,U,-16731116
-61,-268435397,"monachus","Pithecia","Geoffroy's Monk Saki",LC,U,-16731116
-62,-268435398,"albicans","Pithecia","White Saki",VU,D,-11184866
-64,-268435393,"aequatorialis","Pithecia","Equatorial Saki",LC,D,-16731116
-65,-268435393,"pithecia","Pithecia","Golden-faced Saki",LC,S,-16731116
-72,-268435385,"cana","Lagothrix","Geoffroy'S/peruvian Woolly Monkey",EN,D,-8572416
-73,-268435385,"poeppigii","Lagothrix","Poeppig's Woolly Monkey",VU,D,-11184866
-75,-268435382,"lagotricha","Lagothrix","Common Woolly Monkey",VU,D,-11184866
-76,-268435382,"lugens","Lagothrix","Colombian Woolly Monkey",CR,D,-3014646
-77,-268435387,"flavicauda","Oreonax","Peruvian Yellow-tailed Woolly Monkey",CR,D,-3014646
-79,-268435378,"hypoxanthus","Brachyteles","Northern Muriqui",CR,D,-3014646
-80,-268435378,"arachnoides","Brachyteles","Muriqui",EN,D,-8572416
-85,-268435372,"hybridus","Ateles","Variegated Or Brown Spider Monkey",CR,D,-3014646
-86,-268435372,"belzebuth","Ateles","Long-haired Spider Monkey",EN,D,-8572416
-88,-268435369,"chamek","Ateles","Black-faced Black Spider Monkey",EN,D,-8572416
-89,-268435369,"marginatus","Ateles","White-cheeked Spider Monkey",EN,D,-8572416
-91,-268435366,"fusciceps","Ateles","Brown-headed Spider Monkey",CR,D,-3014646
-92,-268435366,"geoffroyi","Ateles","Geoffroy's Spider Monkey",EN,D,-8572416
-93,-268435375,"paniscus","Ateles","Guiana Spider Monkey",VU,D,-11184866
-99,-268435358,"belzebul","Alouatta","Red-handed Howler Monkey",VU,D,-11184866
-100,-268435358,"nigerrima","Alouatta","Black Howler Monkey",LC,U,-16731116
-101,-268435359,"guariba","Alouatta","Brown Howler Monkey",LC,D,-16731116
-103,-268435354,"palliata","Alouatta","Mantled Howler Monkey",LC,U,-16731116
-104,-268435354,"coibensis","Alouatta","",NE,U,-16777216
-107,-268435350,"seniculus","Alouatta","Colombian Red Howler Monkey",LC,D,-16731116
-108,-268435350,"macconnelli","Alouatta","Guianan Red Howler Monkey",LC,U,-16731116
-109,-268435351,"sara","Alouatta","Bolivian Red Howler Monkey",LC,D,-16731116
-111,-268435346,"caraya","Alouatta","Black-and-gold Howler Monkey",LC,D,-16731116
-112,-268435346,"pigra","Alouatta","Yucatan Black Howler Monkey",EN,D,-8572416
+9,8,"torquatus","Callicebus","Collared Titi Monkey",LC,U,-16731116
+10,8,"purinus","Callicebus","Widow Monkey",LC,U,-16731116
+12,11,"lugens","Callicebus","Collared Titi",LC,U,-16731116
+13,11,"lucifer","Callicebus","Widow Monkey",LC,U,-16731116
+14,6,"medemi","Callicebus","Colombian Black-handed Titi",VU,D,-11184866
+15,5,"regulus","Callicebus","Widow Monkey",LC,U,-16731116
+19,18,"donacophilus","Callicebus","Bolivian Gray Titi",LC,D,-16731116
+20,18,"pallescens","Callicebus","Chacoan Titi Monkey",LC,S,-16731116
+22,21,"olallae","Callicebus","Olalla Brothers' Titi",EN,D,-8572416
+23,21,"modestus","Callicebus","Beni Titi Monkey",EN,D,-8572416
+24,16,"oenanthe","Callicebus","Andean Titi Monkey",EN,D,-8572416
+29,28,"cupreus","Callicebus","Coppery Titi Monkey",LC,U,-16731116
+30,28,"ornatus","Callicebus","Ornate Titi Monkey",VU,D,-11184866
+31,27,"discolor","Callicebus","Red Titi Monkey",LC,U,-16731116
+32,26,"caligatus","Callicebus","Titi Monkey",LC,U,-16731116
+33,25,"dubius","Callicebus","Doubtful Titi Monkey",LC,U,-16731116
+37,36,"baptista","Callicebus","Baptista Lake Titi Monkey",LC,U,-16731116
+38,36,"hoffmannsi","Callicebus","Hoffmann's Titi Monkey",LC,U,-16731116
+39,35,"brunneus","Callicebus","Brown Titi Monkey",LC,U,-16731116
+41,40,"cinerascens","Callicebus","Ashy Black Titi Monkey",LC,U,-16731116
+42,40,"moloch","Callicebus","Red-bellied Titi Monkey",LC,U,-16731116
+48,47,"utahickae","Chiropotes","Uta Hick's Bearded Saki",EN,D,-8572416
+49,47,"chiropotes","Chiropotes","Bearded Saki",LC,S,-16731116
+51,50,"satanas","Chiropotes","Black Bearded Saki",CR,D,-3014646
+52,50,"israelita","Chiropotes","",NE,U,-16777216
+53,45,"albinasus","Chiropotes","Red-nosed Bearded Saki",EN,D,-8572416
+55,54,"melanocephalus","Cacajao","Golden-backed Black Uakari",LC,S,-16731116
+56,54,"calvus","Cacajao","Bald-headed Uacari",VU,D,-11184866
+60,59,"irrorata","Pithecia","Gray's Bald-faced Saki",LC,U,-16731116
+61,59,"monachus","Pithecia","Geoffroy's Monk Saki",LC,U,-16731116
+62,58,"albicans","Pithecia","White Saki",VU,D,-11184866
+64,63,"aequatorialis","Pithecia","Equatorial Saki",LC,D,-16731116
+65,63,"pithecia","Pithecia","Golden-faced Saki",LC,S,-16731116
+72,71,"cana","Lagothrix","Geoffroy'S/peruvian Woolly Monkey",EN,D,-8572416
+73,71,"poeppigii","Lagothrix","Poeppig's Woolly Monkey",VU,D,-11184866
+75,74,"lagotricha","Lagothrix","Common Woolly Monkey",VU,D,-11184866
+76,74,"lugens","Lagothrix","Colombian Woolly Monkey",CR,D,-3014646
+77,69,"flavicauda","Oreonax","Peruvian Yellow-tailed Woolly Monkey",CR,D,-3014646
+79,78,"hypoxanthus","Brachyteles","Northern Muriqui",CR,D,-3014646
+80,78,"arachnoides","Brachyteles","Muriqui",EN,D,-8572416
+85,84,"hybridus","Ateles","Variegated Or Brown Spider Monkey",CR,D,-3014646
+86,84,"belzebuth","Ateles","Long-haired Spider Monkey",EN,D,-8572416
+88,87,"chamek","Ateles","Black-faced Black Spider Monkey",EN,D,-8572416
+89,87,"marginatus","Ateles","White-cheeked Spider Monkey",EN,D,-8572416
+91,90,"fusciceps","Ateles","Brown-headed Spider Monkey",CR,D,-3014646
+92,90,"geoffroyi","Ateles","Geoffroy's Spider Monkey",EN,D,-8572416
+93,81,"paniscus","Ateles","Guiana Spider Monkey",VU,D,-11184866
+99,98,"belzebul","Alouatta","Red-handed Howler Monkey",VU,D,-11184866
+100,98,"nigerrima","Alouatta","Black Howler Monkey",LC,U,-16731116
+101,97,"guariba","Alouatta","Brown Howler Monkey",LC,D,-16731116
+103,102,"palliata","Alouatta","Mantled Howler Monkey",LC,U,-16731116
+104,102,"coibensis","Alouatta","",NE,U,-16777216
+107,106,"seniculus","Alouatta","Colombian Red Howler Monkey",LC,D,-16731116
+108,106,"macconnelli","Alouatta","Guianan Red Howler Monkey",LC,U,-16731116
+109,105,"sara","Alouatta","Bolivian Red Howler Monkey",LC,D,-16731116
+111,110,"caraya","Alouatta","Black-and-gold Howler Monkey",LC,D,-16731116
+112,110,"pigra","Alouatta","Yucatan Black Howler Monkey",EN,D,-8572416

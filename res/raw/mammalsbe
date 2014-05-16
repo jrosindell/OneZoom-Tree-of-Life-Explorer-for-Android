@@ -1,91 +1,91 @@
 name,fileindex,index,whichChild
 "Bell Groove-toothed Swamp Rat",11,207,1
 "Bellier's Lemniscomys",9,137,2
-"bellieri",9,137,2
-"Berylmys",19,63,1
-"Berylmys",19,64,2
+"Lemniscomys bellieri",9,137,2
+"Berylmys mackenziei",19,63,1
+"Berylmys manipulus",19,64,2
 "Berdmore's Berylmy",19,65,2
 "Berdmore's Berylmy",19,65,2
-"berdmorei",19,65,2
-"Berylmys",19,65,2
-"Berylmys",19,66,2
-"bengalensis",19,72,1
+"Berylmys berdmorei",19,65,2
+"Berylmys berdmorei",19,65,2
+"Berylmys bowersi",19,66,2
+"Bandicota bengalensis",19,72,1
 "Beaded Hylomyscus",19,105,2
-"beccarii",17,51,1
+"Margaretamys beccarii",17,51,1
 "Berbera Gerbil",16,94,2
-"Beamys",8,171,1
-"Beamys",8,172,2
+"Beamys hindei",8,171,1
+"Beamys major",8,172,2
 "Beady-eyed Mouse",24,16,2
-"benefactus",21,68,2
+"Necromys benefactus",21,68,2
 "Beach Mouse",25,45,2
-"beatae",25,60,2
+"Peromyscus beatae",25,60,2
 "Beach Vole",5,101,2
 "Duke Of Bedford's Vole",4,37,2
-"bedfordi",4,37,2
+"Proedromys bedfordi",4,37,2
 "Betsileo Short-tailed Rat",4,96,1
-"betsileoensis",4,96,1
-"betulina",3,11,1
+"Brachyuromys betsileoensis",4,96,1
+"Sicista betulina",3,11,1
 "Beecroft's Flying Squirrel",2,79,1
-"beecrofti",2,79,1
+"Anomalurus beecrofti",2,79,1
 "American Beaver",2,124,1
 "Eurasian Beaver",2,125,2
 "Bennett's Chinchilla Rat",2,142,2
-"bennettii",2,142,2
-"bergi",32,37,2
-"Belomys",77,34,2
-"berdmorei",77,113,2
+"Abrocoma bennettii",2,142,2
+"Ctenomys bergi",32,37,2
+"Belomys pearsonii",77,34,2
+"Menetes berdmorei",77,113,2
 "Belding's Ground Squirell",79,31,2
-"beldingi",79,31,2
-"beecheyi",79,43,2
+"Spermophilus beldingi",79,31,2
+"Spermophilus beecheyi",79,43,2
 "Mountain Beaver",77,139,2
-"betpakdalaensis",77,191,2
-"beringei",37,36,1
+"Selevinia betpakdalaensis",77,191,2
+"Gorilla beringei",37,36,1
 "Bearded Capuchin",38,94,2
 "Beni Titi Monkey",42,23,2
 "Uta Hick's Bearded Saki",42,48,1
 "Bearded Saki",42,49,2
 "Black Bearded Saki",42,51,1
 "Red-nosed Bearded Saki",42,53,2
-"belzebuth",42,86,2
-"belzebul",42,99,1
+"Ateles belzebuth",42,86,2
+"Alouatta belzebul",42,99,1
 "Bengal Slow Loris",39,40,1
-"bengalensis",39,40,1
-"belangeri",35,164,2
+"Nycticebus bengalensis",39,40,1
+"Tupaia belangeri",35,164,2
 "Beatrix's Bat",55,16,2
-"beatrix",55,16,2
+"Glauconycteris beatrix",55,16,2
 "BECHSTEIN'S MYOTIS",73,83,2
-"bechsteinii",73,83,2
+"Myotis bechsteinii",73,83,2
 "Small Melanesian Bent-winged Bat",45,21,1
 "Medium Bent-winged Bat",45,26,2
 "Common Bentwing Bat",45,34,2
 "Loyalty Bent-winged Bat",45,36,1
 "Large Bent-winged Bat",45,42,2
-"bemmeleni",62,88,1
+"Chaerephon bemmeleni",62,88,1
 "Beccari's Free-tailed Bat",62,191,2
-"beccarii",62,191,2
+"Mormopterus beccarii",62,191,2
 "Bedentate Yellow-eared Bat",68,39,2
-"bennettii",67,147,2
+"Mimon bennettii",67,147,2
 "Behni's Big-eared Bat",67,185,1
-"behnii",67,185,1
+"Glyphonycteris behnii",67,185,1
 "Benito Roundleaf Bat",58,29,2
-"beatus",58,29,2
+"Hipposideros beatus",58,29,2
 "Beddome's Horseshoe Bat",60,37,2
-"beddomei",60,37,2
+"Rhinolophus beddomei",60,37,2
 "Beccari's Sheath-tailed Bat",71,50,2
-"beccarii",71,50,2
+"Emballonura beccarii",71,50,2
 "Beaufort's Bare-backed Fruit Bat",57,155,2
-"beauforti",57,155,2
-"Beatragus",64,80,2
+"Dobsonia beauforti",57,155,2
+"Beatragus hunteri",64,80,2
 "Beisa/fringe-eared Oryx",64,94,1
-"beisa",64,94,1
-"bennettii",66,15,2
+"Oryx beisa",64,94,1
+"Gazella bennettii",66,15,2
 "Beira",65,45,2
-"bezoarticus",63,160,2
-"berezovskii",63,185,1
+"Ozotoceros bezoarticus",63,160,2
+"Moschus berezovskii",63,185,1
 "Beluga",75,87,1
 "Gervais' Beaked Whale",75,100,1
 "Baird's Beaked Whale",75,101,2
-"Berardius",75,101,2
+"Berardius bairdii",75,101,2
 "Ginkgo-toothed Beaked Whale",75,102,2
 "Andrew's Beaked Whale",75,104,1
 "Pygmy Beaked Whale",75,105,2
@@ -94,7 +94,7 @@ name,fileindex,index,whichChild
 "True's Beaked Whale",75,114,2
 "Sowerby's Beaked Whale",75,117,1
 "Arnoux's Beaked Whale",75,118,2
-"Berardius",75,118,2
+"Berardius arnuxii",75,118,2
 "Shepherd's Beaked Whale",75,119,2
 "Indo-pacific Beaked Whale",75,124,1
 "Gray's Beaked Whale",75,126,2
@@ -104,7 +104,7 @@ name,fileindex,index,whichChild
 "Palawan Bearded Pig",72,9,1
 "Bearded Pig",72,10,2
 "Beddard's Olingo",47,31,2
-"beddardi",47,31,2
+"Bassaricyon beddardi",47,31,2
 "Bearded Seal",47,88,2
 "Malayan Sun Bear",47,109,1
 "Sloth Bear",47,110,2
@@ -114,24 +114,24 @@ name,fileindex,index,whichChild
 "Asiatic Black Bear",47,116,2
 "Andean Bear",47,117,2
 "Bengal Fox",47,179,1
-"bengalensis",47,179,1
-"bennettii",51,69,2
-"bengalensis",48,71,1
+"Vulpes bengalensis",47,179,1
+"Cynogale bennettii",51,69,2
+"Prionailurus bengalensis",48,71,1
 "Beccari's Shrew",88,24,1
-"beccarii",88,24,1
-"beatus",89,16,2
-"bendirii",86,71,2
-"bernardus",43,72,2
+"Crocidura beccarii",88,24,1
+"Crocidura beatus",89,16,2
+"Sorex bendirii",86,71,2
+"Macropus bernardus",43,72,2
 "Bennett's Tree Kangaroo",43,104,2
-"bennettianus",43,104,2
+"Dendrolagus bennettianus",43,104,2
 "Tasmanian Bettong",43,125,1
-"Bettongia",43,125,1
+"Bettongia gaimardi",43,125,1
 "Burrowing Bettong",43,126,2
-"Bettongia",43,126,2
+"Bettongia lesueur",43,126,2
 "Northern Bettong",43,128,1
-"Bettongia",43,128,1
-"Bettongia",43,129,2
+"Bettongia tropica",43,128,1
+"Bettongia penicillata",43,129,2
 "Rufous Bettong",43,130,2
 "Talaud Bear Cuscus",44,28,1
 "Bear Cuscus",44,29,2
-"bellus",84,53,2
+"Antechinus bellus",84,53,2

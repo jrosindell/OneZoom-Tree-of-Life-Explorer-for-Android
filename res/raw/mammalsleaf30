@@ -1,25 +1,25 @@
 index,parent,name1,name2,common,redlist,popstab,color
-9,-268435448,"blainvillii","Phyllomys","Golden Atlantic Tree Rat",LC,U,-16731116
-10,-268435448,"medius","Phyllomys","",LC,U,-16731116
-11,-268435449,"lamarum","Phyllomys","Pallid Atlantic Tree Rat",DD,U,-11513776
-13,-268435444,"dasythrix","Phyllomys","Drab Atlantic Tree Rat",LC,U,-16731116
-14,-268435444,"chrysurus","Echimys","White-faced Tree Rat",LC,S,-16731116
-16,-268435441,"macrura","Makalata","Long-tailed Tree Rat",LC,U,-16731116
-17,-268435441,"grandis","Makalata","",NE,U,-16777216
-20,-268435437,"unicolor","Phyllomys","Unicolored Tree Rat",CR,D,-3014646
-21,-268435437,"pictus","Callistomys","Painted Tree-rat",EN,D,-8572416
-22,-268435438,"nigrispinus","Phyllomys","Black-spined Atlantic Tree Rat",LC,U,-16731116
-25,-268435432,"thomasi","Phyllomys","Giant Atlantic Tree Rat",EN,D,-8572416
-26,-268435432,"saturnus","Echimys","Dark Spiny Tree-rat",DD,U,-11513776
-27,-268435433,"semivillosus","Echimys","",NE,U,-16777216
-29,-268435428,"brasiliensis","Phyllomys","Red-nosed Tree Rat",EN,D,-8572416
-30,-268435428,"rhipidura","Makalata","Peruvian Tree Rat",DD,U,-11513776
-35,-268435422,"caniceps","Diplomys","Arboreal Soft-furred Spiny Rat",DD,U,-11513776
-36,-268435422,"rufodorsalis","Diplomys","",NE,U,-16777216
-37,-268435423,"labilis","Diplomys","Rufous Tree Rat",LC,S,-16731116
-39,-268435418,"didelphoides","Makalata","Brazilian Spiny Tree Rat",LC,U,-16731116
-40,-268435418,"occasius","Makalata","",NE,U,-16777216
-43,-268435414,"bistriata","Isothrix","Yellow-crowned Brush-tailed Rat",LC,U,-16731116
-44,-268435414,"negrensis","Isothrix","",LC,U,-16731116
-45,-268435415,"pagurus","Isothrix","Plain Brush-tailed Rat",LC,U,-16731116
-46,-268435456,"urichi","Proechimys","Sucre Spiny Rat",LC,U,-16731116
+9,8,"blainvillii","Phyllomys","Golden Atlantic Tree Rat",LC,U,-16731116
+10,8,"medius","Phyllomys","",LC,U,-16731116
+11,7,"lamarum","Phyllomys","Pallid Atlantic Tree Rat",DD,U,-11513776
+13,12,"dasythrix","Phyllomys","Drab Atlantic Tree Rat",LC,U,-16731116
+14,12,"chrysurus","Echimys","White-faced Tree Rat",LC,S,-16731116
+16,15,"macrura","Makalata","Long-tailed Tree Rat",LC,U,-16731116
+17,15,"grandis","Makalata","",NE,U,-16777216
+20,19,"unicolor","Phyllomys","Unicolored Tree Rat",CR,D,-3014646
+21,19,"pictus","Callistomys","Painted Tree-rat",EN,D,-8572416
+22,18,"nigrispinus","Phyllomys","Black-spined Atlantic Tree Rat",LC,U,-16731116
+25,24,"thomasi","Phyllomys","Giant Atlantic Tree Rat",EN,D,-8572416
+26,24,"saturnus","Echimys","Dark Spiny Tree-rat",DD,U,-11513776
+27,23,"semivillosus","Echimys","",NE,U,-16777216
+29,28,"brasiliensis","Phyllomys","Red-nosed Tree Rat",EN,D,-8572416
+30,28,"rhipidura","Makalata","Peruvian Tree Rat",DD,U,-11513776
+35,34,"caniceps","Diplomys","Arboreal Soft-furred Spiny Rat",DD,U,-11513776
+36,34,"rufodorsalis","Diplomys","",NE,U,-16777216
+37,33,"labilis","Diplomys","Rufous Tree Rat",LC,S,-16731116
+39,38,"didelphoides","Makalata","Brazilian Spiny Tree Rat",LC,U,-16731116
+40,38,"occasius","Makalata","",NE,U,-16777216
+43,42,"bistriata","Isothrix","Yellow-crowned Brush-tailed Rat",LC,U,-16731116
+44,42,"negrensis","Isothrix","",LC,U,-16731116
+45,41,"pagurus","Isothrix","Plain Brush-tailed Rat",LC,U,-16731116
+46,0,"urichi","Proechimys","Sucre Spiny Rat",LC,U,-16731116

@@ -1,86 +1,86 @@
 index,parent,name1,name2,common,redlist,popstab,color
-16,-268435441,"aduncus","Tursiops","Indo-pacific Bottlenose Dolphin",DD,U,-11513776
-17,-268435441,"truncatus","Tursiops","Common Bottlenose Dolphin",LC,U,-16731116
-19,-268435438,"coeruleoalba","Stenella","Striped Dolphin",LC,U,-16731116
-20,-268435438,"clymene","Stenella","Clymene Dolphin",DD,U,-11513776
-23,-268435434,"delphis","Delphinus","Short-beaked Common Dolphin",LC,U,-16731116
-24,-268435434,"capensis","Delphinus","Long-beaked Common Dolphin",DD,U,-11513776
-25,-268435435,"attenuata","Stenella","Pantropical Spotted Dolphin",LC,U,-16731116
-26,-268435444,"frontalis","Stenella","Atlantic Spotted Dolphin",DD,U,-11513776
-28,-268435429,"chinensis","Sousa","Indo-pacific Hump-backed Dolphin",NT,D,-12486656
-29,-268435429,"teuszii","Sousa","Atlantic Humpbacked Dolphin",VU,D,-11184866
-30,-268435446,"orca","Orcinus","Killer Whale",DD,U,-11513776
-35,-268435422,"acutus","Lagenorhynchus","Atlantic White-sided Dolphin",LC,U,-16731116
-36,-268435422,"griseus","Grampus","Risso's Dolphin",LC,U,-16731116
-38,-268435419,"brevirostris","Orcaella","Irrawaddy Dolphin",VU,D,-11184866
-39,-268435419,"longirostris","Stenella","Spinner Dolphin",DD,U,-11513776
-40,-268435424,"hosei","Lagenodelphis","Fraser's Dolphin",LC,U,-16731116
-42,-268435415,"albirostris","Lagenorhynchus","White-beaked Dolphin",LC,U,-16731116
-43,-268435415,"fluviatilis","Sotalia","Estuarine Dolphin",DD,U,-11513776
-51,-268435406,"commersonii","Cephalorhynchus","Commerson's Dolphin",DD,U,-11513776
-52,-268435406,"eutropia","Cephalorhynchus","Chilean Dolphin",NT,D,-12486656
-53,-268435407,"hectori","Cephalorhynchus","Hector's Dolphin",EN,D,-8572416
-54,-268435408,"heavisidii","Cephalorhynchus","Heaviside's Dolphin",DD,U,-11513776
-57,-268435400,"obliquidens","Lagenorhynchus","Pacific White-sided Dolphin",LC,U,-16731116
-58,-268435400,"obscurus","Lagenorhynchus","Dusky Dolphin",DD,U,-11513776
-60,-268435397,"cruciger","Lagenorhynchus","Hourglass Dolphin",LC,U,-16731116
-61,-268435397,"australis","Lagenorhynchus","Peale's Dolphin",DD,U,-11513776
-63,-268435394,"borealis","Lissodelphis","Northern Right Whale Dolphin",LC,U,-16731116
-64,-268435394,"peronii","Lissodelphis","Southern Right Whale Dolphin",DD,U,-11513776
-68,-268435389,"macrorhynchus","Globicephala","Short-finned Pilot Whale",DD,U,-11513776
-69,-268435389,"melas","Globicephala","Long-finned Pilot Whale",DD,U,-11513776
-71,-268435386,"crassidens","Pseudorca","False Killer Whale",DD,U,-11513776
-72,-268435386,"attenuata","Feresa","Pygmy Killer Whale",DD,U,-11513776
-73,-268435391,"electra","Peponocephala","Melon-headed Whale",LC,U,-16731116
-74,-268435412,"bredanensis","Steno","Rough-toothed Dolphin",LC,U,-16731116
-79,-268435378,"dioptrica","Phocoena","Spectacled Porpoise",DD,U,-11513776
-80,-268435378,"phocoena","Phocoena","Harbour Porpoise",LC,U,-16731116
-81,-268435379,"phocaenoides","Neophocaena","Finless Porpoise",VU,D,-11184866
-82,-268435380,"dalli","Phocoenoides","Dall's Porpoise",LC,U,-16731116
-84,-268435373,"spinipinnis","Phocoena","Burmeister's Porpoise",DD,U,-11513776
-85,-268435373,"sinus","Phocoena","Vaquita",CR,D,-3014646
-87,-268435370,"leucas","Delphinapterus","Beluga",NT,U,-12486656
-88,-268435370,"monoceros","Monodon","Narwhal",NT,U,-12486656
-91,-268435366,"blainvillei","Pontoporia","Franciscana",VU,D,-11184866
-92,-268435366,"geoffrensis","Inia","Boto",DD,U,-11513776
-93,-268435367,"vexillifer","Lipotes","Changjiang Dolphin",CR,U,-3014646
-100,-268435357,"europaeus","Mesoplodon","Gervais' Beaked Whale",DD,U,-11513776
-101,-268435357,"bairdii","Berardius","Baird's Beaked Whale",DD,U,-11513776
-102,-268435358,"ginkgodens","Mesoplodon","Ginkgo-toothed Beaked Whale",DD,U,-11513776
-104,-268435353,"bowdoini","Mesoplodon","Andrew's Beaked Whale",DD,U,-11513776
-105,-268435353,"peruvianus","Mesoplodon","Pygmy Beaked Whale",DD,U,-11513776
-110,-268435347,"traversii","Mesoplodon","Spade-toothed Whale",DD,U,-11513776
-111,-268435347,"layardii","Mesoplodon","Strap-toothed Whale",DD,U,-11513776
-112,-268435348,"densirostris","Mesoplodon","Blainville's Beaked Whale",DD,U,-11513776
-113,-268435349,"hectori","Mesoplodon","Hector's Beaked Whale",DD,U,-11513776
-114,-268435350,"mirus","Mesoplodon","True's Beaked Whale",DD,U,-11513776
-117,-268435340,"bidens","Mesoplodon","Sowerby's Beaked Whale",DD,U,-11513776
-118,-268435340,"arnuxii","Berardius","Arnoux's Beaked Whale",DD,U,-11513776
-119,-268435341,"shepherdi","Tasmacetus","Shepherd's Beaked Whale",DD,U,-11513776
-124,-268435333,"pacificus","Indopacetus","Indo-pacific Beaked Whale",DD,U,-11513776
-125,-268435333,"planifrons","Hyperoodon","Southern Bottlenose Whale",LC,U,-16731116
-126,-268435334,"grayi","Mesoplodon","Gray's Beaked Whale",DD,U,-11513776
-128,-268435329,"ampullatus","Hyperoodon","North Atlantic Bottlenose Whale",DD,U,-11513776
-129,-268435329,"stejnegeri","Mesoplodon","Stejneger's Beaked Whale",DD,U,-11513776
-131,-268435326,"cavirostris","Ziphius","Cuvier's Beaked Whale",LC,U,-16731116
-132,-268435326,"carlhubbsi","Mesoplodon","Hubbs' Beaked Whale",DD,U,-11513776
-134,-268435323,"gangetica","Platanista","South Asian River Dolphin",EN,D,-8572416
-135,-268435323,"minor","Platanista","",NE,U,-16777216
-138,-268435319,"breviceps","Kogia","Pygmy Sperm Whale",DD,U,-11513776
-139,-268435319,"sima","Kogia","Dwarf Sperm Whale",DD,U,-11513776
-140,-268435320,"catodon","Physeter","",NE,U,-16777216
-147,-268435310,"novaeangliae","Megaptera","Humpback Whale",LC,I,-16731116
-148,-268435310,"physalus","Balaenoptera","Fin Whale",EN,U,-8572416
-149,-268435311,"musculus","Balaenoptera","Blue Whale",EN,I,-8572416
-150,-268435312,"robustus","Eschrichtius","Gray Whale",LC,S,-16731116
-152,-268435305,"edeni","Balaenoptera","Bryde's Whale",DD,U,-11513776
-153,-268435305,"borealis","Balaenoptera","Sei Whale",EN,U,-8572416
-155,-268435302,"bonaerensis","Balaenoptera","Antarctic Minke Whale",DD,U,-11513776
-156,-268435302,"acutorostrata","Balaenoptera","Common Minke Whale",LC,S,-16731116
-161,-268435296,"glacialis","Eubalaena","North Atlantic Right Whale",EN,U,-8572416
-162,-268435296,"japonica","Eubalaena","North Pacific Right Whale",EN,U,-8572416
-163,-268435297,"australis","Eubalaena","Southern Right Whale",LC,I,-16731116
-164,-268435298,"mysticetus","Balaena","Bowhead Whale",LC,I,-16731116
-165,-268435299,"marginata","Caperea","Pygmy Right Whale",DD,U,-11513776
-167,-268435290,"amphibius","Hippopotamus","Common Hippopotamus",VU,D,-11184866
-168,-268435290,"liberiensis","Hexaprotodon","",NE,U,-16777216
+16,15,"aduncus","Tursiops","Indo-pacific Bottlenose Dolphin",DD,U,-11513776
+17,15,"truncatus","Tursiops","Common Bottlenose Dolphin",LC,U,-16731116
+19,18,"coeruleoalba","Stenella","Striped Dolphin",LC,U,-16731116
+20,18,"clymene","Stenella","Clymene Dolphin",DD,U,-11513776
+23,22,"delphis","Delphinus","Short-beaked Common Dolphin",LC,U,-16731116
+24,22,"capensis","Delphinus","Long-beaked Common Dolphin",DD,U,-11513776
+25,21,"attenuata","Stenella","Pantropical Spotted Dolphin",LC,U,-16731116
+26,12,"frontalis","Stenella","Atlantic Spotted Dolphin",DD,U,-11513776
+28,27,"chinensis","Sousa","Indo-pacific Hump-backed Dolphin",NT,D,-12486656
+29,27,"teuszii","Sousa","Atlantic Humpbacked Dolphin",VU,D,-11184866
+30,10,"orca","Orcinus","Killer Whale",DD,U,-11513776
+35,34,"acutus","Lagenorhynchus","Atlantic White-sided Dolphin",LC,U,-16731116
+36,34,"griseus","Grampus","Risso's Dolphin",LC,U,-16731116
+38,37,"brevirostris","Orcaella","Irrawaddy Dolphin",VU,D,-11184866
+39,37,"longirostris","Stenella","Spinner Dolphin",DD,U,-11513776
+40,32,"hosei","Lagenodelphis","Fraser's Dolphin",LC,U,-16731116
+42,41,"albirostris","Lagenorhynchus","White-beaked Dolphin",LC,U,-16731116
+43,41,"fluviatilis","Sotalia","Estuarine Dolphin",DD,U,-11513776
+51,50,"commersonii","Cephalorhynchus","Commerson's Dolphin",DD,U,-11513776
+52,50,"eutropia","Cephalorhynchus","Chilean Dolphin",NT,D,-12486656
+53,49,"hectori","Cephalorhynchus","Hector's Dolphin",EN,D,-8572416
+54,48,"heavisidii","Cephalorhynchus","Heaviside's Dolphin",DD,U,-11513776
+57,56,"obliquidens","Lagenorhynchus","Pacific White-sided Dolphin",LC,U,-16731116
+58,56,"obscurus","Lagenorhynchus","Dusky Dolphin",DD,U,-11513776
+60,59,"cruciger","Lagenorhynchus","Hourglass Dolphin",LC,U,-16731116
+61,59,"australis","Lagenorhynchus","Peale's Dolphin",DD,U,-11513776
+63,62,"borealis","Lissodelphis","Northern Right Whale Dolphin",LC,U,-16731116
+64,62,"peronii","Lissodelphis","Southern Right Whale Dolphin",DD,U,-11513776
+68,67,"macrorhynchus","Globicephala","Short-finned Pilot Whale",DD,U,-11513776
+69,67,"melas","Globicephala","Long-finned Pilot Whale",DD,U,-11513776
+71,70,"crassidens","Pseudorca","False Killer Whale",DD,U,-11513776
+72,70,"attenuata","Feresa","Pygmy Killer Whale",DD,U,-11513776
+73,65,"electra","Peponocephala","Melon-headed Whale",LC,U,-16731116
+74,44,"bredanensis","Steno","Rough-toothed Dolphin",LC,U,-16731116
+79,78,"dioptrica","Phocoena","Spectacled Porpoise",DD,U,-11513776
+80,78,"phocoena","Phocoena","Harbour Porpoise",LC,U,-16731116
+81,77,"phocaenoides","Neophocaena","Finless Porpoise",VU,D,-11184866
+82,76,"dalli","Phocoenoides","Dall's Porpoise",LC,U,-16731116
+84,83,"spinipinnis","Phocoena","Burmeister's Porpoise",DD,U,-11513776
+85,83,"sinus","Phocoena","Vaquita",CR,D,-3014646
+87,86,"leucas","Delphinapterus","Beluga",NT,U,-12486656
+88,86,"monoceros","Monodon","Narwhal",NT,U,-12486656
+91,90,"blainvillei","Pontoporia","Franciscana",VU,D,-11184866
+92,90,"geoffrensis","Inia","Boto",DD,U,-11513776
+93,89,"vexillifer","Lipotes","Changjiang Dolphin",CR,U,-3014646
+100,99,"europaeus","Mesoplodon","Gervais' Beaked Whale",DD,U,-11513776
+101,99,"bairdii","Berardius","Baird's Beaked Whale",DD,U,-11513776
+102,98,"ginkgodens","Mesoplodon","Ginkgo-toothed Beaked Whale",DD,U,-11513776
+104,103,"bowdoini","Mesoplodon","Andrew's Beaked Whale",DD,U,-11513776
+105,103,"peruvianus","Mesoplodon","Pygmy Beaked Whale",DD,U,-11513776
+110,109,"traversii","Mesoplodon","Spade-toothed Whale",DD,U,-11513776
+111,109,"layardii","Mesoplodon","Strap-toothed Whale",DD,U,-11513776
+112,108,"densirostris","Mesoplodon","Blainville's Beaked Whale",DD,U,-11513776
+113,107,"hectori","Mesoplodon","Hector's Beaked Whale",DD,U,-11513776
+114,106,"mirus","Mesoplodon","True's Beaked Whale",DD,U,-11513776
+117,116,"bidens","Mesoplodon","Sowerby's Beaked Whale",DD,U,-11513776
+118,116,"arnuxii","Berardius","Arnoux's Beaked Whale",DD,U,-11513776
+119,115,"shepherdi","Tasmacetus","Shepherd's Beaked Whale",DD,U,-11513776
+124,123,"pacificus","Indopacetus","Indo-pacific Beaked Whale",DD,U,-11513776
+125,123,"planifrons","Hyperoodon","Southern Bottlenose Whale",LC,U,-16731116
+126,122,"grayi","Mesoplodon","Gray's Beaked Whale",DD,U,-11513776
+128,127,"ampullatus","Hyperoodon","North Atlantic Bottlenose Whale",DD,U,-11513776
+129,127,"stejnegeri","Mesoplodon","Stejneger's Beaked Whale",DD,U,-11513776
+131,130,"cavirostris","Ziphius","Cuvier's Beaked Whale",LC,U,-16731116
+132,130,"carlhubbsi","Mesoplodon","Hubbs' Beaked Whale",DD,U,-11513776
+134,133,"gangetica","Platanista","South Asian River Dolphin",EN,D,-8572416
+135,133,"minor","Platanista","",NE,U,-16777216
+138,137,"breviceps","Kogia","Pygmy Sperm Whale",DD,U,-11513776
+139,137,"sima","Kogia","Dwarf Sperm Whale",DD,U,-11513776
+140,136,"catodon","Physeter","",NE,U,-16777216
+147,146,"novaeangliae","Megaptera","Humpback Whale",LC,I,-16731116
+148,146,"physalus","Balaenoptera","Fin Whale",EN,U,-8572416
+149,145,"musculus","Balaenoptera","Blue Whale",EN,I,-8572416
+150,144,"robustus","Eschrichtius","Gray Whale",LC,S,-16731116
+152,151,"edeni","Balaenoptera","Bryde's Whale",DD,U,-11513776
+153,151,"borealis","Balaenoptera","Sei Whale",EN,U,-8572416
+155,154,"bonaerensis","Balaenoptera","Antarctic Minke Whale",DD,U,-11513776
+156,154,"acutorostrata","Balaenoptera","Common Minke Whale",LC,S,-16731116
+161,160,"glacialis","Eubalaena","North Atlantic Right Whale",EN,U,-8572416
+162,160,"japonica","Eubalaena","North Pacific Right Whale",EN,U,-8572416
+163,159,"australis","Eubalaena","Southern Right Whale",LC,I,-16731116
+164,158,"mysticetus","Balaena","Bowhead Whale",LC,I,-16731116
+165,157,"marginata","Caperea","Pygmy Right Whale",DD,U,-11513776
+167,166,"amphibius","Hippopotamus","Common Hippopotamus",VU,D,-11184866
+168,166,"liberiensis","Hexaprotodon","",NE,U,-16777216

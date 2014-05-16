@@ -1,27 +1,27 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,-268435449,"fuscocapillus","Petinomys","Travancore Flying Squirrel",NT,D,-12486656
-9,-268435449,"setosus","Petinomys","Temminck's Flying Squirrel",VU,D,-11184866
-10,-268435450,"lugens","Petinomys","Siberut Flying Squirrel",EN,D,-8572416
-11,-268435451,"hageni","Petinomys","Hagen's Flying Squirrel",DD,U,-11513776
-12,-268435452,"vordermanni","Petinomys","Vordermann's Flying Squirrel",VU,D,-11184866
-16,-268435441,"mindanensis","Petinomys","Mindanao Flying Squirrel",LC,U,-16731116
-17,-268435441,"crinitus","Petinomys","Mindanao Flying Squirrel",LC,S,-16731116
-18,-268435442,"sagitta","Petinomys","Arrow Flying Squirrel",DD,U,-11513776
-19,-268435443,"genibarbis","Petinomys","Whiskered Flying Squirrel",VU,D,-11184866
-24,-268435433,"winstoni","Hylopetes","Sumatran Flying Squirrel",DD,U,-11513776
-25,-268435433,"nigripes","Hylopetes","Palawan Flying Squirrel",NT,D,-12486656
-27,-268435430,"phayrei","Hylopetes","Indochinese Flying Squirrel",LC,S,-16731116
-28,-268435430,"alboniger","Hylopetes","African Linsang",LC,D,-16731116
-29,-268435435,"spadiceus","Hylopetes","Red-cheeked Flying Squirrel",LC,U,-16731116
-32,-268435425,"kinlochii","Petaurillus","Selangor Pygmy Flying Squirrel",DD,U,-11513776
-33,-268435425,"hosei","Petaurillus","Hose's Pygmy Flying Squirrel",DD,U,-11513776
-34,-268435426,"emiliae","Petaurillus","Lesser Pygmy Flying Squirrel",DD,U,-11513776
-40,-268435417,"lepidus","Hylopetes","Gray-cheeked Flying Squirrel",DD,U,-11513776
-41,-268435417,"platyurus","Hylopetes","Jentink's Flying Squirrel",DD,U,-11513776
-42,-268435418,"fimbriatus","Eoglaucomys","Small Kashmir Flying Squirrel",LC,U,-16731116
-43,-268435419,"bartelsi","Hylopetes","Bartels's Flying Squirrel",DD,U,-11513776
-44,-268435420,"sipora","Hylopetes","Sipora Flying Squirrel",EN,D,-8572416
-46,-268435411,"sabrinus","Glaucomys","Carolina Flying Squirrel",LC,S,-16731116
-47,-268435411,"volans","Glaucomys","Mexican Flying Squirrel",LC,S,-16731116
-49,-268435408,"horsfieldii","Iomys","Javanese Flying Squirrel",LC,S,-16731116
-50,-268435408,"sipora","Iomys","Mentawi Flying Squirrel",EN,D,-8572416
+8,7,"fuscocapillus","Petinomys","Travancore Flying Squirrel",NT,D,-12486656
+9,7,"setosus","Petinomys","Temminck's Flying Squirrel",VU,D,-11184866
+10,6,"lugens","Petinomys","Siberut Flying Squirrel",EN,D,-8572416
+11,5,"hageni","Petinomys","Hagen's Flying Squirrel",DD,U,-11513776
+12,4,"vordermanni","Petinomys","Vordermann's Flying Squirrel",VU,D,-11184866
+16,15,"mindanensis","Petinomys","Mindanao Flying Squirrel",LC,U,-16731116
+17,15,"crinitus","Petinomys","Mindanao Flying Squirrel",LC,S,-16731116
+18,14,"sagitta","Petinomys","Arrow Flying Squirrel",DD,U,-11513776
+19,13,"genibarbis","Petinomys","Whiskered Flying Squirrel",VU,D,-11184866
+24,23,"winstoni","Hylopetes","Sumatran Flying Squirrel",DD,U,-11513776
+25,23,"nigripes","Hylopetes","Palawan Flying Squirrel",NT,D,-12486656
+27,26,"phayrei","Hylopetes","Indochinese Flying Squirrel",LC,S,-16731116
+28,26,"alboniger","Hylopetes","African Linsang",LC,D,-16731116
+29,21,"spadiceus","Hylopetes","Red-cheeked Flying Squirrel",LC,U,-16731116
+32,31,"kinlochii","Petaurillus","Selangor Pygmy Flying Squirrel",DD,U,-11513776
+33,31,"hosei","Petaurillus","Hose's Pygmy Flying Squirrel",DD,U,-11513776
+34,30,"emiliae","Petaurillus","Lesser Pygmy Flying Squirrel",DD,U,-11513776
+40,39,"lepidus","Hylopetes","Gray-cheeked Flying Squirrel",DD,U,-11513776
+41,39,"platyurus","Hylopetes","Jentink's Flying Squirrel",DD,U,-11513776
+42,38,"fimbriatus","Eoglaucomys","Small Kashmir Flying Squirrel",LC,U,-16731116
+43,37,"bartelsi","Hylopetes","Bartels's Flying Squirrel",DD,U,-11513776
+44,36,"sipora","Hylopetes","Sipora Flying Squirrel",EN,D,-8572416
+46,45,"sabrinus","Glaucomys","Carolina Flying Squirrel",LC,S,-16731116
+47,45,"volans","Glaucomys","Mexican Flying Squirrel",LC,S,-16731116
+49,48,"horsfieldii","Iomys","Javanese Flying Squirrel",LC,S,-16731116
+50,48,"sipora","Iomys","Mentawi Flying Squirrel",EN,D,-8572416

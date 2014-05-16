@@ -7,18 +7,18 @@ name,fileindex,index,whichChild
 "New Holland Mouse",13,120,1
 "House Mouse",11,153,2
 "Hopkins's Groove-toothed Swamp Rat",11,209,2
-"hopkinsi",11,209,2
+"Pelomys hopkinsi",11,209,2
 "Hoffmann's Sulawesi Rat",10,12,2
-"hoffmanni",10,12,2
+"Rattus hoffmanni",10,12,2
 "Oriental House Rat",10,45,2
 "Hoogerwerf's Sumatran Rat",9,13,2
-"hoogerwerfi",9,13,2
+"Rattus hoogerwerfi",9,13,2
 "Hoogstraal's Lemniscomys",9,147,1
-"hoogstraali",9,147,1
+"Lemniscomys hoogstraali",9,147,1
 "Hoogstraal's Gerbil",16,38,1
-"hoogstraali",16,38,1
+"Gerbillus hoogstraali",16,38,1
 "Hotson's Brush-tailed Mouse",2,42,1
-"hotsoni",2,42,1
+"Calomyscus hotsoni",2,42,1
 "Small Hocicudo",23,157,1
 "Incan Hocicudo",23,158,2
 "Paramo Hocicudo",23,159,2
@@ -31,36 +31,36 @@ name,fileindex,index,whichChild
 "Argentine Hocicudo",23,175,2
 "Ihering's Hocicudo",23,176,2
 "Quechuan Hocicudo",23,177,2
-"Holochilus",27,121,2
-"Holochilus",27,122,2
-"Holochilus",27,123,2
+"Holochilus chacarius",27,121,2
+"Holochilus sciureus",27,122,2
+"Holochilus brasiliensis",27,123,2
 "Hooper's Deer Mouse",25,95,1
-"hooperi",25,95,1
-"Hodomys",22,45,1
+"Peromyscus hooperi",25,95,1
+"Hodomys alleni",22,45,1
 "Hokkaido Red-backed Vole",7,38,2
 "Hoary Bamboo Rat",4,167,2
 "Hotson's Five-toed Jerboa",2,55,1
-"hotsoni",2,55,1
-"hoplomyoides",29,48,1
-"Hoplomys",29,49,2
-"hottentotus",29,140,2
+"Allactaga hotsoni",2,55,1
+"Proechimys hoplomyoides",29,48,1
+"Hoplomys gymnurus",29,49,2
+"Cryptomys hottentotus",29,140,2
 "Hose's Pygmy Flying Squirrel",80,33,2
-"hosei",80,33,2
-"horsfieldii",80,49,1
+"Petaurillus hosei",80,33,2
+"Iomys horsfieldii",80,49,1
 "Hodgson's Giant Flying Squirrel",77,21,2
 "Horse-tailed Squirrel",78,8,1
-"hoogstraali",78,10,2
-"hosei",77,98,1
+"Sundasciurus hoogstraali",78,10,2
+"Lariscus hosei",77,98,1
 "Hoary-bellied Squirrel",77,118,2
 "Big Horn Thirteen-lined Ground Squirrel",79,70,1
 "Hoary Marmot",79,108,2
 "Hopi Chipmunk",83,17,2
 "Hose's Langur",40,40,2
-"hosei",40,40,2
-"hoolock",37,17,2
-"Homo",37,34,2
+"Presbytis hosei",40,40,2
+"Bunopithecus hoolock",37,17,2
+"Homo sapiens",37,34,2
 "Hoffmann's Titi Monkey",42,38,2
-"hoffmannsi",42,38,2
+"Callicebus hoffmannsi",42,38,2
 "Red-handed Howler Monkey",42,99,1
 "Black Howler Monkey",42,100,2
 "Brown Howler Monkey",42,101,2
@@ -74,12 +74,12 @@ name,fileindex,index,whichChild
 "Horsfield's Treeshrew",35,177,1
 "Hoary Wattled Bat",53,94,2
 "Hawaiian Hoary Bat",56,23,1
-"hosonoi",74,61,2
+"Myotis hosonoi",74,61,2
 "Hodgson's Bat",73,87,2
 "Horsfield's Myotis",73,107,2
-"horsfieldii",73,107,2
+"Myotis horsfieldii",73,107,2
 "Long-tailed House Bat",73,150,1
-"hottentotus",73,150,1
+"Eptesicus hottentotus",73,150,1
 "Horn-skinned Bat",73,163,2
 "Robbin's House Bat",73,178,2
 "Giant House Bat",73,179,2
@@ -92,8 +92,8 @@ name,fileindex,index,whichChild
 "Desert Yellow Lesser House Bat.",73,201,2
 "Honduran White Bat",68,41,2
 "Honduran Fruit-eating Bat",67,18,1
-"homezi",67,175,2
-"horrens",45,63,2
+"Micronycteris homezi",67,175,2
+"Furipterus horrens",45,63,2
 "Horsfield's Leaf-nosed Bat",61,23,2
 "Mitred Horseshow Bat",59,12,1
 "Kai Horseshoe Bat",59,13,2
@@ -165,13 +165,13 @@ name,fileindex,index,whichChild
 "Osgood's Horseshoe Bat",58,124,1
 "Least Horseshoe Bat",58,127,1
 "Hog-nosed Bat",45,88,2
-"howensis",57,89,2
-"hobbit",45,109,2
+"Pteropus howensis",57,89,2
+"Syconycteris hobbit",45,109,2
 "Horsfield's Fruit Bat",46,17,2
-"horsfieldii",46,17,2
-"hodgsonii",64,70,2
+"Cynopterus horsfieldii",46,17,2
+"Pantholops hodgsonii",64,70,2
 "Hog Deer",63,116,2
-"hosei",75,40,2
+"Lagenodelphis hosei",75,40,2
 "Hourglass Dolphin",75,60,1
 "Forest Hog",72,22,2
 "Red River Hog",72,24,1
@@ -183,26 +183,26 @@ name,fileindex,index,whichChild
 "Striped Hog-nosed Skunk",52,42,2
 "American Hog-nosed Skunk",52,44,1
 "Molina's Hog-nosed Skunk",52,45,2
-"hookeri",47,58,1
+"Phocarctos hookeri",47,58,1
 "Hooded Seal",47,87,2
 "Hose's Civet",51,67,2
-"hosei",51,67,2
+"Diplogale hosei",51,67,2
 "Horsefield's Shrew",88,136,2
-"horsfieldii",88,136,2
-"hosei",87,21,1
+"Crocidura horsfieldii",88,136,2
+"Suncus hosei",87,21,1
 "House Shrew",87,35,2
 "Howell's Forest Shrew",87,51,1
-"howelli",87,51,1
-"hosonoi",86,51,2
-"hoyi",86,75,1
+"Sylvisorex howelli",87,51,1
+"Sorex hosonoi",86,51,2
+"Sorex hoyi",86,75,1
 "Honduran Small-eared Shrew",92,22,1
-"hondurensis",92,22,1
+"Cryptotis hondurensis",92,22,1
 "Hodgson's Brown-toothed Shrew",91,13,1
 "Hoffmann's Two-toed Sloth",0,57,1
-"hoffmanni",0,57,1
+"Choloepus hoffmanni",0,57,1
 "Hova Mole Tenrec",34,32,2
-"hova",34,32,2
+"Oryzorictes hova",34,32,2
 "Hottentot Golden Mole",34,58,2
-"hottentotus",34,58,2
+"Amblysomus hottentotus",34,58,2
 "Honey Possum",43,191,2
 "Hooded Red-sided Opossum",1,100,2

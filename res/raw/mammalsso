@@ -3,31 +3,31 @@ name,fileindex,index,whichChild
 "Forest Soft-furred Mouse",8,17,2
 "Muton's Soft-furred Mouse",8,18,2
 "Delectable Soft-furred Mouse",8,26,2
-"Solomys",15,41,1
-"Solomys",15,42,2
-"Solomys",15,43,2
-"Solomys",15,45,1
-"Solomys",15,46,2
+"Solomys salebrosus",15,41,1
+"Solomys sapientis",15,42,2
+"Solomys salamonis",15,43,2
+"Solomys ponceleti",15,45,1
+"Solomys spriggsarum",15,46,2
 "Soft-furred Taiwan Niviventer",11,90,1
-"sorella",11,136,2
-"sordidus",10,61,2
+"Mus sorella",11,136,2
+"Rattus sordidus",10,61,2
 "Southeastern Xanthurus Rat",10,73,2
 "Southwestern Xanthurus Rat",10,76,1
 "Soft-furred Metad",9,103,1
 "Sulawesi Soft-furred Rat",9,177,1
 "South China Field Mouse",19,14,2
 "Somali Grass Rat",19,55,2
-"sodyi",19,75,2
+"Kadarsanomys sodyi",19,75,2
 "Southern Luzon Phloeomys",19,78,2
 "Southern African Mastomys",19,95,2
 "Southern African Vlei Rat",14,18,1
-"soricoides",8,109,1
+"Rhynchomys soricoides",8,109,1
 "Southeastern Mountain Taeromys",18,39,2
-"somalicus",16,34,2
+"Dipodillus somalicus",16,34,2
 "Somalia Gerbil",16,91,1
 "Somali Pygmy Gerbil",8,150,2
 "Soft Grass Mouse",23,39,2
-"sorellus",23,135,1
+"Calomys sorellus",23,135,1
 "Southern Pericote",26,39,2
 "South American Spiny Mouse",26,81,1
 "Southern Climbing Mouse",28,16,2
@@ -40,13 +40,13 @@ name,fileindex,index,whichChild
 "Southern Plains Woodrat",22,13,2
 "Sonoran Woodrat",22,43,2
 "Social Vole",5,74,2
-"socialis",5,74,2
+"Microtus socialis",5,74,2
 "Southern Red-backed Vole",7,18,2
 "Southwest China Red-backed Vole",7,22,2
 "Southern Water Vole",4,49,2
 "Sort-furred Tree Mouse",4,101,2
 "Sokolov's Dwarf Hamster",4,113,1
-"sokolovi",4,113,1
+"Cricetulus sokolovi",4,113,1
 "Southern Birch Mouse",3,24,2
 "Southern Spiny Pocket Mouse",20,18,2
 "Arboreal Soft-furred Spiny Rat",30,35,1
@@ -54,15 +54,15 @@ name,fileindex,index,whichChild
 "Southern Mountain Viscacha",29,204,1
 "Southern Tuco-tuco",32,62,1
 "Social Tuco-tuco",32,63,2
-"sociabilis",32,63,2
+"Ctenomys sociabilis",32,63,2
 "Southern Amazon Red Squirrel",82,24,2
 "Southern Palawan Tree Squirrel",78,25,1
 "Sonoma Chipmunk",83,29,1
-"sonomae",83,29,1
+"Tamias sonomae",83,29,1
 "South African Ground Squirrel",77,135,2
 "Southern Pig-tailed Macaque",35,26,1
 "Sooty/white-naped Mangabey",35,70,2
-"solatus",41,63,2
+"Cercopithecus solatus",41,63,2
 "Southern Talapoin Monkey",41,65,2
 "Southern Plains Gray Langur",40,63,1
 "Southern White-cheeked Gibbon",37,26,1
@@ -74,40 +74,40 @@ name,fileindex,index,whichChild
 "Southern Big-eared Brown Bat",54,66,1
 "Southern Yellow Bat",56,31,2
 "Social Sprite",56,58,2
-"societatis",56,58,2
-"somalicus",56,72,1
-"sodalis",74,20,2
+"Arielulus societatis",56,58,2
+"Neoromicia somalicus",56,72,1
+"Myotis sodalis",74,20,2
 "Southern Myotis",74,80,2
 "Southwestern Myotis",73,82,2
 "Southeastern Myotis",73,93,2
 "Sombre Bat",73,136,2
 "Sody's Yellow House Bat",73,182,2
 "Southeast Asian Long-fingered Bat",45,25,1
-"solomonis",62,66,1
+"Chaerephon solomonis",62,66,1
 "Southern Dog-faced Bat",62,156,1
 "Southern Free-tailed Bat",62,190,2
-"soricina",69,33,2
+"Glossophaga soricina",69,33,2
 "Sooty Mustached Bat",67,214,2
 "Sooty Roundleaf Bat",58,32,1
 "Solomons Leaf-nosed Bat",58,78,2
 "Solomons Flying Fox",57,107,2
 "Solomons Bare-backed Fruit Bat",57,156,2
-"sobrinus",45,113,2
+"Macroglossus sobrinus",45,113,2
 "Soemmerring's Gazelle",66,26,1
-"soemmerringii",66,26,1
+"Nanger soemmerringii",66,26,1
 "Southern Lechwe",63,23,1
 "Southern Reedbuck",63,31,1
 "Southern Red Muntjac",63,126,2
 "Southern Pudu",63,164,2
-"Sousa",75,28,1
-"Sousa",75,29,2
-"Sotalia",75,43,2
+"Sousa chinensis",75,28,1
+"Sousa teuszii",75,29,2
+"Sotalia fluviatilis",75,43,2
 "Southern Right Whale Dolphin",75,64,2
 "Sowerby's Beaked Whale",75,117,1
 "Southern Bottlenose Whale",75,125,2
 "South Asian River Dolphin",75,134,1
 "Southern Right Whale",75,163,2
-"sondaicus",45,137,2
+"Rhinoceros sondaicus",45,137,2
 "Southern River Otter",52,8,1
 "Southern Spotted Skunk",52,34,2
 "South American Coati",47,17,1
@@ -118,70 +118,70 @@ name,fileindex,index,whichChild
 "South African Large-spotted Genet",51,21,1
 "Southeast Asian Shrew",90,34,2
 "Somali Shrew",93,19,2
-"somalica",93,19,2
-"Solisorex",85,15,2
-"somereni",87,38,2
-"Sorex",86,15,1
-"Sorex",86,16,2
-"Sorex",86,17,2
-"Sorex",86,18,2
-"Sorex",86,20,1
-"Sorex",86,21,2
-"Sorex",86,23,1
-"Sorex",86,24,2
-"Sorex",86,26,1
-"Sorex",86,27,2
-"Sorex",86,28,2
-"Sorex",86,29,2
-"Sorex",86,34,1
-"Sorex",86,35,2
-"Sorex",86,36,2
-"Sorex",86,38,1
-"Sorex",86,39,2
-"Sorex",86,40,2
-"Sorex",86,41,2
-"Sorex",86,47,1
-"Sorex",86,48,2
-"Sorex",86,49,2
-"Sorex",86,50,2
-"Sorex",86,51,2
-"Sorex",86,52,2
-"Sorex",86,53,2
-"Sorex",86,63,1
-"Sorex",86,64,2
-"Sorex",86,66,1
-"Sorex",86,67,2
-"Sorex",86,70,1
-"Sorex",86,71,2
-"Sorex",86,72,2
-"Sorex",86,73,2
-"Sorex",86,75,1
-"Sorex",86,76,2
-"Sorex",86,79,1
-"Sorex",86,80,2
-"Sorex",86,82,1
-"Sorex",86,83,2
-"Sorex",86,85,1
-"Sorex",86,86,2
+"Crocidura somalica",93,19,2
+"Solisorex pearsoni",85,15,2
+"Scutisorex somereni",87,38,2
+"Sorex antinorii",86,15,1
+"Sorex araneus",86,16,2
+"Sorex granarius",86,17,2
+"Sorex coronatus",86,18,2
+"Sorex daphaenodon",86,20,1
+"Sorex satunini",86,21,2
+"Sorex tundrensis",86,23,1
+"Sorex asper",86,24,2
+"Sorex maritimensis",86,26,1
+"Sorex arcticus",86,27,2
+"Sorex samniticus",86,28,2
+"Sorex excelsus",86,29,2
+"Sorex caecutiens",86,34,1
+"Sorex shinto",86,35,2
+"Sorex roboratus",86,36,2
+"Sorex unguiculatus",86,38,1
+"Sorex isodon",86,39,2
+"Sorex raddei",86,40,2
+"Sorex mirabilis",86,41,2
+"Sorex volnuchini",86,47,1
+"Sorex buchariensis",86,48,2
+"Sorex minutus",86,49,2
+"Sorex gracillimus",86,50,2
+"Sorex hosonoi",86,51,2
+"Sorex minutissimus",86,52,2
+"Sorex alpinus",86,53,2
+"Sorex neomexicanus",86,63,1
+"Sorex monticolus",86,64,2
+"Sorex pacificus",86,66,1
+"Sorex vagrans",86,67,2
+"Sorex palustris",86,70,1
+"Sorex bendirii",86,71,2
+"Sorex leucogaster",86,72,2
+"Sorex haydeni",86,73,2
+"Sorex hoyi",86,75,1
+"Sorex nanus",86,76,2
+"Sorex jacksoni",86,79,1
+"Sorex dispar",86,80,2
+"Sorex bairdi",86,82,1
+"Sorex tenellus",86,83,2
+"Sorex ugyunak",86,85,1
+"Sorex preblei",86,86,2
 "Southeastern Shrew",86,90,1
-"Sorex",86,90,1
-"Sorex",86,91,2
-"Sorex",86,92,2
-"Sorex",86,93,2
-"Sorex",86,94,2
-"Sorex",86,97,1
-"Sorex",86,98,2
-"Sorex",86,99,2
+"Sorex longirostris",86,90,1
+"Sorex cinereus",86,91,2
+"Sorex portenkoi",86,92,2
+"Sorex ornatus",86,93,2
+"Sorex fumeus",86,94,2
+"Sorex trowbridgii",86,97,1
+"Sorex merriami",86,98,2
+"Sorex arizonae",86,99,2
 "Southern Short-tailed Shrew",92,55,1
-"sodalis",91,10,2
-"Soriculus",91,16,1
+"Chodsigoa sodalis",91,10,2
+"Soriculus nigrescens",91,16,1
 "Southern White-breasted Hedgehog",85,54,2
 "Somali Hedgehog",85,62,2
 "Southern African Hedgehog",85,64,2
-"soricipes",85,164,2
+"Uropsilus soricipes",85,164,2
 "Haitian Solenodon",85,169,1
-"Solenodon",85,169,1
-"Solenodon",85,170,2
+"Solenodon paradoxus",85,169,1
+"Solenodon cubanus",85,170,2
 "Southern Three-banded Armadillo",0,24,2
 "Southern Long-nosed Armadillo",0,45,2
 "Somali Golden Mole",34,75,1
@@ -192,4 +192,4 @@ name,fileindex,index,whichChild
 "Southern Brown Bandicoot",0,151,1
 "Southeastern Four-eyed Opossum",1,86,1
 "Southern Three-striped Opossum",1,111,1
-"sorex",1,113,2
+"Monodelphis sorex",1,113,2

@@ -1,106 +1,106 @@
 index,parent,name1,name2,common,redlist,popstab,color
-14,-268435443,"fimbriatus","Myotis","Fringed Long-footed Myotis",LC,U,-16731116
-15,-268435443,"macrodactylus","Myotis","Big-footed Myotis",LC,U,-16731116
-16,-268435444,"longipes","Myotis","Kashmir Cave Bat",DD,U,-11513776
-19,-268435438,"daubentonii","Myotis","Daubenton's Myotis",LC,I,-16731116
-20,-268435438,"laniger","Myotis","Chinese Water Myotis",LC,U,-16731116
-21,-268435439,"pruinosus","Myotis","Frosted Myotis",EN,D,-8572416
-22,-268435446,"capaccinii","Myotis","Long-fingered Bat",VU,D,-11184866
-23,-268435447,"oxyotus","Myotis","Montane Myotis",LC,U,-16731116
-24,-268435449,"peninsularis","Myotis","Peninsular Myotis",EN,D,-8572416
-27,-268435430,"lesueuri","Cistugo","Lesueur's Hairy Bat",LC,D,-16731116
-28,-268435430,"seabrae","Cistugo","Angolan Hairy Bat",LC,U,-16731116
-29,-268435431,"levis","Myotis","Yellowish Myotis",LC,U,-16731116
-33,-268435424,"macrotarsus","Myotis","Pallid Large-footed Myotis",NT,D,-12486656
-34,-268435424,"stalkeri","Myotis","Stalker's Myotis",DD,U,-11513776
-35,-268435425,"vivesi","Myotis","Fish-eating Bat",VU,D,-11184866
-36,-268435426,"abei","Myotis","",NE,U,-16777216
-38,-268435419,"aenobarbus","Nycticeius","Temminck's Mysterious Bat",DD,U,-11513776
-39,-268435419,"albescens","Myotis","Silver-tipped Myotis",LC,S,-16731116
-50,-268435407,"blythii","Myotis","LESSER MOUSE-EARED MYOTIS",LC,D,-16731116
-51,-268435407,"punicus","Myotis","Felten's Myotis",NT,D,-12486656
-52,-268435408,"oxygnathus","Myotis","",NE,U,-16777216
-53,-268435409,"sicarius","Myotis","Mandelli's Mouse-eared Myotis",VU,U,-11184866
-54,-268435410,"chinensis","Myotis","Large Myotis",LC,U,-16731116
-55,-268435411,"myotis","Myotis","Greater Mouse-eared Bat",LC,S,-16731116
-59,-268435398,"bombinus","Myotis","Far Eastern Myotis",NT,D,-12486656
-60,-268435398,"nattereri","Myotis","Natterer's Bat",LC,S,-16731116
-62,-268435395,"thysanodes","Myotis","Fringed Myotis",LC,S,-16731116
-63,-268435395,"schaubi","Myotis","Schaub's Myotis",DD,U,-11513776
-64,-268435400,"pequinius","Myotis","Peking Myotis",LC,U,-16731116
-69,-268435388,"goudoti","Myotis","Malagasy Mouse-eared Bat",LC,U,-16731116
-70,-268435388,"anjouanensis","Myotis","Anjouan Myotis",DD,U,-11513776
-71,-268435389,"morrisi","Myotis","Morris's Bat",DD,U,-11513776
-72,-268435390,"tricolor","Myotis","Cape Hairy Bat",LC,U,-16731116
-73,-268435391,"emarginatus","Myotis","Geoffroy's Bat",LC,S,-16731116
-79,-268435378,"septentrionalis","Myotis","Northern Myotis",LC,S,-16731116
-80,-268435378,"keenii","Myotis","Keen's Myotis",LC,S,-16731116
-81,-268435379,"evotis","Myotis","Long-eared Myotis",LC,S,-16731116
-82,-268435380,"auriculus","Myotis","Southwestern Myotis",LC,U,-16731116
-83,-268435381,"bechsteinii","Myotis","BECHSTEIN'S MYOTIS",NT,D,-12486656
-86,-268435371,"hermani","Myotis","Herman's Myotis",DD,U,-11513776
-87,-268435371,"formosus","Myotis","Hodgson's Bat",LC,U,-16731116
-88,-268435372,"welwitschii","Myotis","Welwitch's Bat",LC,U,-16731116
-91,-268435366,"cobanensis","Myotis","Guatemalan Myotis",DD,U,-11513776
-92,-268435366,"yumanensis","Myotis","Yuma Myotis",LC,S,-16731116
-93,-268435367,"austroriparius","Myotis","Southeastern Myotis",LC,S,-16731116
-101,-268435356,"adversus","Myotis","Large-footed Myotis",LC,U,-16731116
-102,-268435356,"moluccarum","Myotis","Maluku Myotis",LC,U,-16731116
-103,-268435357,"macropus","Myotis","Large-footed Myotis",LC,U,-16731116
-104,-268435358,"bocagii","Myotis","Rufous Mouse-eared Bat",LC,U,-16731116
-106,-268435351,"hasseltii","Myotis","Lesser Large-footed Myotis",LC,U,-16731116
-107,-268435351,"horsfieldii","Myotis","Horsfield's Myotis",LC,S,-16731116
-110,-268435347,"simus","Myotis","Velvety Myotis",DD,U,-11513776
-111,-268435347,"ruber","Myotis","Red Myotis",NT,U,-12486656
-112,-268435348,"riparius","Myotis","Riparian Myotis",LC,S,-16731116
-115,-268435342,"grisescens","Myotis","Gray Myotis",NT,I,-12486656
-116,-268435342,"ricketti","Myotis","",NE,U,-16777216
-117,-268435343,"dasycneme","Myotis","POND MYOTIS",NT,D,-12486656
-118,-268435362,"montivagus","Myotis","Burmese Whiskered Myotis",LC,U,-16731116
-132,-268435325,"diminutus","Eptesicus","Diminutive Serotine",DD,U,-11513776
-133,-268435325,"innoxius","Eptesicus","Harmles Serotine",NT,U,-12486656
-134,-268435326,"bottae","Eptesicus","Botta's Serotine",LC,U,-16731116
-135,-268435327,"platyops","Eptesicus","Lagos Serotine",DD,U,-11513776
-136,-268435328,"tatei","Eptesicus","Sombre Bat",DD,U,-11513776
-138,-268435319,"guadeloupensis","Eptesicus","Guadeloupean Big Brown Bat",VU,U,-11184866
-139,-268435319,"pachyotis","Eptesicus","Thick-eared Bat",LC,U,-16731116
-140,-268435330,"kobayashii","Eptesicus","Kobayashi's Serotine",DD,U,-11513776
-143,-268435314,"andinus","Eptesicus","Little Black Serotinelittle Black Serotine",LC,U,-16731116
-144,-268435314,"chiriquinus","Eptesicus","Chiriquinan Serotine",LC,U,-16731116
-145,-268435315,"brasiliensis","Eptesicus","Brazilian Brown Bat",LC,U,-16731116
-150,-268435307,"hottentotus","Eptesicus","Long-tailed House Bat",LC,U,-16731116
-151,-268435307,"fuscus","Eptesicus","Big Brown Bat",LC,I,-16731116
-152,-268435308,"serotinus","Eptesicus","Serotine",LC,U,-16731116
-153,-268435309,"dimissus","Eptesicus","Surat Serotine",DD,U,-11513776
-154,-268435310,"furinalis","Eptesicus","Argentine Brown Bat",LC,U,-16731116
-158,-268435299,"gobiensis","Eptesicus","Gobi Big Brown Bat",LC,U,-16731116
-159,-268435299,"nilssonii","Eptesicus","Northern Bat",LC,S,-16731116
-160,-268435300,"japonensis","Eptesicus","Japanese Short-tailed Bat",EN,D,-8572416
-161,-268435301,"bobrinskoi","Eptesicus","Bobrinski's Serotine",LC,U,-16731116
-162,-268435334,"nasutus","Eptesicus","Sind Serotine Bat",LC,U,-16731116
-163,-268435335,"floweri","Eptesicus","Horn-skinned Bat",LC,S,-16731116
-164,-268435336,"brachypterus","Philetor","Rohu's Bat",LC,U,-16731116
-173,-268435284,"dinganii","Scotophilus","African Yellow Bat",LC,U,-16731116
-174,-268435284,"robustus","Scotophilus","Robust Yellow Bat",LC,U,-16731116
-175,-268435285,"nux","Scotophilus","Nut-colored Yellow Bat",LC,U,-16731116
-177,-268435280,"leucogaster","Scotophilus","White-bellied Yellow Bat",LC,U,-16731116
-178,-268435280,"nucella","Scotophilus","Robbin's House Bat",DD,U,-11513776
-179,-268435287,"nigrita","Scotophilus","Giant House Bat",LC,D,-16731116
-181,-268435276,"kuhlii","Scotophilus","Lesser Asiatic Yellow House Bat",LC,S,-16731116
-182,-268435276,"collinus","Scotophilus","Sody's Yellow House Bat",LC,U,-16731116
-185,-268435272,"heathii","Scotophilus","Greater Asiatic Yellow House Bat",LC,S,-16731116
-186,-268435272,"celebensis","Scotophilus","Sulawesi Yellow House Bat",DD,U,-11513776
-188,-268435269,"borbonicus","Scotophilus","Lesser Yellow Bat",DD,U,-11513776
-189,-268435269,"viridis","Scotophilus","Greenish Yellow Bat",LC,U,-16731116
-190,-268435290,"ornatus","Scotomanes","Harlequin Bat",LC,U,-16731116
-191,-268435291,"io","Ia","Great Evening Bat",LC,U,-16731116
-197,-268435260,"albigula","Scotoecus","",NE,U,-16777216
-198,-268435260,"hindei","Scotoecus","",NE,U,-16777216
-199,-268435261,"hirundo","Scotoecus","Dark-winged Lesser House Bat",LC,U,-16731116
-200,-268435262,"albofuscus","Scotoecus","Light-winged Lesser House Bat",DD,U,-11513776
-201,-268435263,"pallidus","Scotoecus","Desert Yellow Lesser House Bat.",LC,U,-16731116
-203,-268435254,"sinensis","Vespertilio","Asian Particolored Bat",LC,U,-16731116
-204,-268435254,"murinus","Vespertilio","Particoloured Bat",LC,S,-16731116
-207,-268435250,"eisentrauti","Hypsugo","",NE,U,-16777216
-208,-268435250,"anchietae","Hypsugo","",NE,U,-16777216
-209,-268435251,"noctivagans","Lasionycteris","Silver-haired Bat",LC,S,-16731116
+14,13,"fimbriatus","Myotis","Fringed Long-footed Myotis",LC,U,-16731116
+15,13,"macrodactylus","Myotis","Big-footed Myotis",LC,U,-16731116
+16,12,"longipes","Myotis","Kashmir Cave Bat",DD,U,-11513776
+19,18,"daubentonii","Myotis","Daubenton's Myotis",LC,I,-16731116
+20,18,"laniger","Myotis","Chinese Water Myotis",LC,U,-16731116
+21,17,"pruinosus","Myotis","Frosted Myotis",EN,D,-8572416
+22,10,"capaccinii","Myotis","Long-fingered Bat",VU,D,-11184866
+23,9,"oxyotus","Myotis","Montane Myotis",LC,U,-16731116
+24,7,"peninsularis","Myotis","Peninsular Myotis",EN,D,-8572416
+27,26,"lesueuri","Cistugo","Lesueur's Hairy Bat",LC,D,-16731116
+28,26,"seabrae","Cistugo","Angolan Hairy Bat",LC,U,-16731116
+29,25,"levis","Myotis","Yellowish Myotis",LC,U,-16731116
+33,32,"macrotarsus","Myotis","Pallid Large-footed Myotis",NT,D,-12486656
+34,32,"stalkeri","Myotis","Stalker's Myotis",DD,U,-11513776
+35,31,"vivesi","Myotis","Fish-eating Bat",VU,D,-11184866
+36,30,"abei","Myotis","",NE,U,-16777216
+38,37,"aenobarbus","Nycticeius","Temminck's Mysterious Bat",DD,U,-11513776
+39,37,"albescens","Myotis","Silver-tipped Myotis",LC,S,-16731116
+50,49,"blythii","Myotis","LESSER MOUSE-EARED MYOTIS",LC,D,-16731116
+51,49,"punicus","Myotis","Felten's Myotis",NT,D,-12486656
+52,48,"oxygnathus","Myotis","",NE,U,-16777216
+53,47,"sicarius","Myotis","Mandelli's Mouse-eared Myotis",VU,U,-11184866
+54,46,"chinensis","Myotis","Large Myotis",LC,U,-16731116
+55,45,"myotis","Myotis","Greater Mouse-eared Bat",LC,S,-16731116
+59,58,"bombinus","Myotis","Far Eastern Myotis",NT,D,-12486656
+60,58,"nattereri","Myotis","Natterer's Bat",LC,S,-16731116
+62,61,"thysanodes","Myotis","Fringed Myotis",LC,S,-16731116
+63,61,"schaubi","Myotis","Schaub's Myotis",DD,U,-11513776
+64,56,"pequinius","Myotis","Peking Myotis",LC,U,-16731116
+69,68,"goudoti","Myotis","Malagasy Mouse-eared Bat",LC,U,-16731116
+70,68,"anjouanensis","Myotis","Anjouan Myotis",DD,U,-11513776
+71,67,"morrisi","Myotis","Morris's Bat",DD,U,-11513776
+72,66,"tricolor","Myotis","Cape Hairy Bat",LC,U,-16731116
+73,65,"emarginatus","Myotis","Geoffroy's Bat",LC,S,-16731116
+79,78,"septentrionalis","Myotis","Northern Myotis",LC,S,-16731116
+80,78,"keenii","Myotis","Keen's Myotis",LC,S,-16731116
+81,77,"evotis","Myotis","Long-eared Myotis",LC,S,-16731116
+82,76,"auriculus","Myotis","Southwestern Myotis",LC,U,-16731116
+83,75,"bechsteinii","Myotis","BECHSTEIN'S MYOTIS",NT,D,-12486656
+86,85,"hermani","Myotis","Herman's Myotis",DD,U,-11513776
+87,85,"formosus","Myotis","Hodgson's Bat",LC,U,-16731116
+88,84,"welwitschii","Myotis","Welwitch's Bat",LC,U,-16731116
+91,90,"cobanensis","Myotis","Guatemalan Myotis",DD,U,-11513776
+92,90,"yumanensis","Myotis","Yuma Myotis",LC,S,-16731116
+93,89,"austroriparius","Myotis","Southeastern Myotis",LC,S,-16731116
+101,100,"adversus","Myotis","Large-footed Myotis",LC,U,-16731116
+102,100,"moluccarum","Myotis","Maluku Myotis",LC,U,-16731116
+103,99,"macropus","Myotis","Large-footed Myotis",LC,U,-16731116
+104,98,"bocagii","Myotis","Rufous Mouse-eared Bat",LC,U,-16731116
+106,105,"hasseltii","Myotis","Lesser Large-footed Myotis",LC,U,-16731116
+107,105,"horsfieldii","Myotis","Horsfield's Myotis",LC,S,-16731116
+110,109,"simus","Myotis","Velvety Myotis",DD,U,-11513776
+111,109,"ruber","Myotis","Red Myotis",NT,U,-12486656
+112,108,"riparius","Myotis","Riparian Myotis",LC,S,-16731116
+115,114,"grisescens","Myotis","Gray Myotis",NT,I,-12486656
+116,114,"ricketti","Myotis","",NE,U,-16777216
+117,113,"dasycneme","Myotis","POND MYOTIS",NT,D,-12486656
+118,94,"montivagus","Myotis","Burmese Whiskered Myotis",LC,U,-16731116
+132,131,"diminutus","Eptesicus","Diminutive Serotine",DD,U,-11513776
+133,131,"innoxius","Eptesicus","Harmles Serotine",NT,U,-12486656
+134,130,"bottae","Eptesicus","Botta's Serotine",LC,U,-16731116
+135,129,"platyops","Eptesicus","Lagos Serotine",DD,U,-11513776
+136,128,"tatei","Eptesicus","Sombre Bat",DD,U,-11513776
+138,137,"guadeloupensis","Eptesicus","Guadeloupean Big Brown Bat",VU,U,-11184866
+139,137,"pachyotis","Eptesicus","Thick-eared Bat",LC,U,-16731116
+140,126,"kobayashii","Eptesicus","Kobayashi's Serotine",DD,U,-11513776
+143,142,"andinus","Eptesicus","Little Black Serotinelittle Black Serotine",LC,U,-16731116
+144,142,"chiriquinus","Eptesicus","Chiriquinan Serotine",LC,U,-16731116
+145,141,"brasiliensis","Eptesicus","Brazilian Brown Bat",LC,U,-16731116
+150,149,"hottentotus","Eptesicus","Long-tailed House Bat",LC,U,-16731116
+151,149,"fuscus","Eptesicus","Big Brown Bat",LC,I,-16731116
+152,148,"serotinus","Eptesicus","Serotine",LC,U,-16731116
+153,147,"dimissus","Eptesicus","Surat Serotine",DD,U,-11513776
+154,146,"furinalis","Eptesicus","Argentine Brown Bat",LC,U,-16731116
+158,157,"gobiensis","Eptesicus","Gobi Big Brown Bat",LC,U,-16731116
+159,157,"nilssonii","Eptesicus","Northern Bat",LC,S,-16731116
+160,156,"japonensis","Eptesicus","Japanese Short-tailed Bat",EN,D,-8572416
+161,155,"bobrinskoi","Eptesicus","Bobrinski's Serotine",LC,U,-16731116
+162,122,"nasutus","Eptesicus","Sind Serotine Bat",LC,U,-16731116
+163,121,"floweri","Eptesicus","Horn-skinned Bat",LC,S,-16731116
+164,120,"brachypterus","Philetor","Rohu's Bat",LC,U,-16731116
+173,172,"dinganii","Scotophilus","African Yellow Bat",LC,U,-16731116
+174,172,"robustus","Scotophilus","Robust Yellow Bat",LC,U,-16731116
+175,171,"nux","Scotophilus","Nut-colored Yellow Bat",LC,U,-16731116
+177,176,"leucogaster","Scotophilus","White-bellied Yellow Bat",LC,U,-16731116
+178,176,"nucella","Scotophilus","Robbin's House Bat",DD,U,-11513776
+179,169,"nigrita","Scotophilus","Giant House Bat",LC,D,-16731116
+181,180,"kuhlii","Scotophilus","Lesser Asiatic Yellow House Bat",LC,S,-16731116
+182,180,"collinus","Scotophilus","Sody's Yellow House Bat",LC,U,-16731116
+185,184,"heathii","Scotophilus","Greater Asiatic Yellow House Bat",LC,S,-16731116
+186,184,"celebensis","Scotophilus","Sulawesi Yellow House Bat",DD,U,-11513776
+188,187,"borbonicus","Scotophilus","Lesser Yellow Bat",DD,U,-11513776
+189,187,"viridis","Scotophilus","Greenish Yellow Bat",LC,U,-16731116
+190,166,"ornatus","Scotomanes","Harlequin Bat",LC,U,-16731116
+191,165,"io","Ia","Great Evening Bat",LC,U,-16731116
+197,196,"albigula","Scotoecus","",NE,U,-16777216
+198,196,"hindei","Scotoecus","",NE,U,-16777216
+199,195,"hirundo","Scotoecus","Dark-winged Lesser House Bat",LC,U,-16731116
+200,194,"albofuscus","Scotoecus","Light-winged Lesser House Bat",DD,U,-11513776
+201,193,"pallidus","Scotoecus","Desert Yellow Lesser House Bat.",LC,U,-16731116
+203,202,"sinensis","Vespertilio","Asian Particolored Bat",LC,U,-16731116
+204,202,"murinus","Vespertilio","Particoloured Bat",LC,S,-16731116
+207,206,"eisentrauti","Hypsugo","",NE,U,-16777216
+208,206,"anchietae","Hypsugo","",NE,U,-16777216
+209,205,"noctivagans","Lasionycteris","Silver-haired Bat",LC,S,-16731116

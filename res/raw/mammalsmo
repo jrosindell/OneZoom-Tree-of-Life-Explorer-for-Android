@@ -1,9 +1,9 @@
 name,fileindex,index,whichChild
 "Snow Mountains Grassland Melomys",13,14,2
 "Moncton's Paramelomys",13,19,2
-"moncktoni",13,19,2
+"Paramelomys moncktoni",13,19,2
 "Montane Soft-furred Paramelomys",13,21,1
-"mollis",13,21,1
+"Paramelomys mollis",13,21,1
 "Mountain Paramelomys",13,32,1
 "Northern Hopping Mouse",13,92,1
 "Spinifex Hopping Mouse",13,93,2
@@ -35,7 +35,7 @@ name,fileindex,index,whichChild
 "Plains Mouse",13,145,2
 "Northern Short-tailed Mouse",13,147,1
 "Central Short-tailed Mouse",13,148,2
-"morio",8,16,2
+"Praomys morio",8,16,2
 "Forest Soft-furred Mouse",8,17,2
 "Muton's Soft-furred Mouse",8,18,2
 "Delectable Soft-furred Mouse",8,26,2
@@ -50,7 +50,7 @@ name,fileindex,index,whichChild
 "Menzies' Mouse",15,33,2
 "Groove-toothed Shrew Mouse",15,36,1
 "Musser's Shrew Mouse",15,37,2
-"moncktoni",15,47,2
+"Crossomys moncktoni",15,47,2
 "Broad-headed Tree Mouse",15,65,1
 "Forbes's Tree Mouse",15,66,2
 "Lesser Tree Mouse",15,67,2
@@ -113,22 +113,22 @@ name,fileindex,index,whichChild
 "Mayor's Mouse",11,178,2
 "Javan Shrew-like Mouse",11,179,2
 "Mindoro Mountain Rat",10,10,1
-"mollicomulus",10,14,1
+"Rattus mollicomulus",10,14,1
 "Sri Lankan Mountain Rat",10,68,2
-"montanus",10,68,2
-"mordax",10,86,2
-"morotaiensis",10,96,1
+"Rattus montanus",10,68,2
+"Rattus mordax",10,86,2
+"Rattus morotaiensis",10,96,1
 "Sumatran Mountain Rat",9,11,1
 "Palawan Mountain Rat",9,18,2
 "Asiatic Long-tailed Climbing Mouse",9,21,1
 "Sri Lankan Highland Tree Mouse",9,23,2
 "Montane Shaggy Rat",9,32,2
-"montanus",9,32,2
+"Dasymys montanus",9,32,2
 "Bornean Mountain Maxomys",9,54,2
 "Malayan Mountain Maxomys",9,58,2
 "Sumatran Mountain Maxomys",9,62,1
 "Indochinese Mountain Maxomys",9,70,2
-"moi",9,70,2
+"Maxomys moi",9,70,2
 "Koopman's Pencil-tailed Tree Mouse",9,80,1
 "Greater Pencil-tailed Tree Mouse",9,81,2
 "Pencil-tailed Tree Mouse",9,82,2
@@ -203,7 +203,7 @@ name,fileindex,index,whichChild
 "Shortridge's Rock Mouse",8,179,1
 "Barbour's Rock Mouse",8,180,2
 "Brukkaros Pygmy Rock Mouse",8,182,1
-"monticularis",8,182,1
+"Petromyscus monticularis",8,182,1
 "Pygmy Rock Mouse",8,183,2
 "Delany's Mouse",8,184,2
 "Kazakhstan Blind Mole Rat",2,17,1
@@ -229,7 +229,7 @@ name,fileindex,index,whichChild
 "Day's Grass Mouse",23,20,2
 "Molina's Grass Mouse",23,24,1
 "Molina's Grass Mouse",23,24,1
-"molinae",23,24,1
+"Akodon molinae",23,24,1
 "Variable Grass Mouse",23,26,2
 "Forest Grass Mouse",23,28,1
 "Intelligent Grass Mouse",23,30,2
@@ -238,14 +238,14 @@ name,fileindex,index,whichChild
 "Bolivian Grass Mouse",23,37,1
 "Junin Grass Mouse",23,38,2
 "Soft Grass Mouse",23,39,2
-"mollis",23,39,2
+"Akodon mollis",23,39,2
 "Koford's Grass Mouse",23,41,1
 "Azara's Grass Mouse",23,42,2
 "Serrado Do Mar Grass Mouse",23,49,1
 "Spegazzini's Grass Mouse",23,50,2
 "Cursor Grass Mouse",23,52,1
 "Montane Akodont",23,53,2
-"montensis",23,53,2
+"Akodon montensis",23,53,2
 "Smoky Grass Mouse",23,54,2
 "Cloud Forest Grass Mouse",23,55,2
 "White-bellied Grass Mouse",23,59,1
@@ -292,7 +292,7 @@ name,fileindex,index,whichChild
 "Thomas's Oldfield Mouse",23,108,2
 "Strong-tailed Oldfield Mouse",23,109,2
 "Unicolored Oldfield Mouse",23,110,2
-"monochromos",23,110,2
+"Thomasomys monochromos",23,110,2
 "Golden Oldfield Mouse",23,113,1
 "Paramo Oldfield Mouse",23,116,2
 "Dusky Montane Mouse",23,118,1
@@ -319,19 +319,19 @@ name,fileindex,index,whichChild
 "Brazilian Shrew Mouse",23,185,2
 "Morgan's Gerbil Mouse",23,195,1
 "Morgan's Gerbil Mouse",23,195,1
-"morgani",23,195,1
+"Eligmodontia morgani",23,195,1
 "Monte Gerbil Mouse",23,196,2
 "Monte Gerbil Mouse",23,196,2
-"moreni",23,196,2
+"Eligmodontia moreni",23,196,2
 "Andean Gerbil Mouse",23,197,2
 "Highland Gerbil Mouse",23,198,2
 "Patagonian Chincilla Mouse",27,78,1
 "Biting Chincilla Mouse",27,79,2
-"mordax",27,79,2
+"Euneomys mordax",27,79,2
 "Peterson's Chincilla Mouse",27,80,2
 "Short-tailed Cane Mouse",27,113,1
 "Brown Cane Mouse",27,114,2
-"molitor",27,120,1
+"Lundomys molitor",27,120,1
 "Roraima Mouse",21,8,2
 "Chilean Climbing Mouse",21,9,2
 "Candango Mouse",21,43,2
@@ -378,7 +378,7 @@ name,fileindex,index,whichChild
 "White-footed Climbing Mouse",28,19,2
 "Venezuelan Climbing Mouse",28,20,2
 "Coues's Climbing Mouse",28,25,1
-"modicus",28,26,2
+"Rhipidomys modicus",28,26,2
 "Macconnell's Climbing Mouse",28,27,2
 "Buff-bellied Climbing Mouse",28,28,2
 "Broad-footed Climbing Mouse",28,30,1
@@ -396,7 +396,7 @@ name,fileindex,index,whichChild
 "Pleasant Bolo Mouse",21,72,2
 "Rufous-bellied Bolo Mouse",21,73,2
 "Montane Fish-eating Rat",21,85,2
-"monticolus",21,85,2
+"Neusticomys monticolus",21,85,2
 "Underwood's Water Mouse",21,89,1
 "Thomas's Water Mouse",21,90,2
 "Mexican Water Mouse",21,91,2
@@ -473,7 +473,7 @@ name,fileindex,index,whichChild
 "Narrow-nosed Harvest Mouse",21,182,2
 "Sumachrasti's Harvest Mouse",21,189,1
 "Plains Harvest Mouse",21,190,2
-"montanus",21,190,2
+"Reithrodontomys montanus",21,190,2
 "Saltmarsh Harvest Mouse",21,191,2
 "Zacatecas Harvest Mouse",21,192,2
 "Eastern Harvest Mouse",21,193,2
@@ -488,12 +488,12 @@ name,fileindex,index,whichChild
 "Northern Pygmy Mouse",21,209,2
 "Golden Mouse",21,210,2
 "Mongolian Vole",5,43,2
-"mongolicus",5,43,2
+"Microtus mongolicus",5,43,2
 "Forrest's Mountain Vole",5,54,1
 "Irene's Mountain Vole",5,55,2
-"montebelli",5,85,1
+"Microtus montebelli",5,85,1
 "Montane Vole",5,106,2
-"montanus",5,106,2
+"Microtus montanus",5,106,2
 "Ogilvie Mountains Collared Lemming",4,18,2
 "Northern Mole Vole",6,9,1
 "Zaisan Mole Vole",6,10,2
@@ -507,7 +507,7 @@ name,fileindex,index,whichChild
 "White-tailed Mountain Vole",7,55,2
 "Olkhon Mountain Vole",7,57,1
 "Gobi Altai Mountain Vole",7,60,1
-"montosa",7,61,2
+"Alticola montosa",7,61,2
 "Silver Mountain Vole",7,62,2
 "Royle's Mountain Vole",7,63,2
 "Mongolian Silver Vole",7,65,1
@@ -571,7 +571,7 @@ name,fileindex,index,whichChild
 "Gaumer's Spiny Pocket Mouse",20,25,2
 "Animas Mountains Pocket Gopher",2,116,2
 "Mountain Pocket Gopher",2,120,1
-"monticola",2,120,1
+"Thomomys monticola",2,120,1
 "Nelson's Pocket Mouse",31,11,1
 "Rock Pocket Mouse",31,13,2
 "Chihuahuan Desert Pocket Mouse",31,15,1
@@ -622,30 +622,30 @@ name,fileindex,index,whichChild
 "Mottled Tuco-tuco",32,84,2
 "Mountain Degu",2,157,1
 "Moon-toothed Degu",2,171,1
-"momonga",77,44,1
+"Pteromys momonga",77,44,1
 "Bangs's Mountain Squirrel",82,65,2
 "Montane Long-nosed Squirrel",77,66,1
 "Palawan Montane Squirrel",78,11,2
-"moellendorffi",78,28,2
+"Sundasciurus moellendorffi",78,28,2
 "Bornean Mountain Ground Squirrel",78,35,1
-"mollis",79,30,2
+"Spermophilus mollis",79,30,2
 "Caucasian Mountain Ground Squirrel",79,34,1
 "Mohave Ground Squirrel",79,75,2
-"mohavensis",79,75,2
+"Spermophilus mohavensis",79,75,2
 "Mongolian Marmot",79,93,2
-"monax",79,103,2
+"Marmota monax",79,103,2
 "Cooper's Mountain Squirrel",81,11,2
 "Carruther's Mountain Squirrel",81,34,1
 "Mountain Beaver",77,139,2
 "Monard's Dormouse",77,157,2
-"monardi",77,157,2
+"Graphiurus monardi",77,157,2
 "Masked Mouse-tailed Dormouse",77,188,1
 "Setzer's Mouse-tailed Dormouse",77,189,2
 "Mouse-tailed Dormouse",77,190,2
 "Mountain Hare",76,18,1
 "Manzano Mountain Cottontail",76,84,2
 "Mountain Cottontail",76,99,1
-"monticularis",76,107,2
+"Bunolagus monticularis",76,107,2
 "Moupin Pika",76,164,2
 "Moor Macaque",35,19,2
 "Rhesus Monkey",35,45,2
@@ -663,7 +663,7 @@ name,fileindex,index,whichChild
 "Campbell's Monkey",41,36,1
 "Mona Monkey",41,38,2
 "Mona Monkey",41,38,2
-"mona",41,38,2
+"Cercopithecus mona",41,38,2
 "Crowned Monkey",41,43,2
 "De Brazza's Monkey",41,44,2
 "Owl-faced Monkey",41,45,2
@@ -683,7 +683,7 @@ name,fileindex,index,whichChild
 "Golden Snub-nosed Monkey",40,76,2
 "Tonkin Snub-nosed Monkey",40,77,2
 "Proboscis Monkey",40,83,2
-"moloch",37,12,2
+"Hylobates moloch",37,12,2
 "Goeldi's Monkey",38,33,2
 "Moustached Tamarin",38,48,1
 "Mottled-face Tamarin",38,64,2
@@ -706,7 +706,7 @@ name,fileindex,index,whichChild
 "Widow Monkey",42,15,2
 "Chacoan Titi Monkey",42,20,2
 "Beni Titi Monkey",42,23,2
-"modestus",42,23,2
+"Callicebus modestus",42,23,2
 "Andean Titi Monkey",42,24,2
 "Coppery Titi Monkey",42,29,1
 "Ornate Titi Monkey",42,30,2
@@ -718,9 +718,9 @@ name,fileindex,index,whichChild
 "Brown Titi Monkey",42,39,2
 "Ashy Black Titi Monkey",42,41,1
 "Red-bellied Titi Monkey",42,42,2
-"moloch",42,42,2
+"Callicebus moloch",42,42,2
 "Geoffroy's Monk Saki",42,61,2
-"monachus",42,61,2
+"Pithecia monachus",42,61,2
 "Geoffroy'S/peruvian Woolly Monkey",42,72,1
 "Poeppig's Woolly Monkey",42,73,2
 "Common Woolly Monkey",42,75,1
@@ -743,29 +743,29 @@ name,fileindex,index,whichChild
 "Black-and-gold Howler Monkey",42,111,1
 "Yucatan Black Howler Monkey",42,112,2
 "Mongoose Lemur",36,23,2
-"mongoz",36,23,2
+"Eulemur mongoz",36,23,2
 "Grey-brown Mouse Lemur",35,124,1
 "Peters' Mouse Lemur",35,125,2
 "Grey Mouse-lemur",35,126,2
 "Rufous Mouse Lemur",35,127,2
 "Coquerel's Giant Mouse Lemur",35,128,2
 "Montagne D' Ambre Fork-marked Lemur",35,141,1
-"monteiri",39,10,2
-"moholi",39,19,1
-"moellendorffi",35,174,1
+"Otolemur monteiri",39,10,2
+"Galago moholi",39,19,1
+"Tupaia moellendorffi",35,174,1
 "Mountain Treeshrew",35,180,2
-"montana",35,180,2
-"mordax",53,82,1
-"morio",53,97,1
-"mordax",53,106,2
+"Tupaia montana",35,180,2
+"Harpiocephalus mordax",53,82,1
+"Chalinolobus morio",53,97,1
+"Falsistrellus mordax",53,106,2
 "Mountain Noctule",53,178,2
-"montanus",53,178,2
+"Nyctalus montanus",53,178,2
 "Mountain Pipistrelle",54,15,2
 "Mount Popa Pipistrelle",54,25,2
 "Mount Gargues Pipistrelle",54,44,1
-"montanus",54,67,2
+"Histiotus montanus",54,67,2
 "Moloney's Flat-headed Bat",53,205,1
-"moloneyi",53,205,1
+"Mimetillus moloneyi",53,205,1
 "Scott's Mouse-eared Bat",74,62,2
 "Montane Myotis",73,23,2
 "LESSER MOUSE-EARED MYOTIS",73,50,1
@@ -773,66 +773,66 @@ name,fileindex,index,whichChild
 "Greater Mouse-eared Bat",73,55,2
 "Malagasy Mouse-eared Bat",73,69,1
 "Morris's Bat",73,71,2
-"morrisi",73,71,2
-"moluccarum",73,102,2
+"Myotis morrisi",73,71,2
+"Myotis moluccarum",73,102,2
 "Rufous Mouse-eared Bat",73,104,2
-"montivagus",73,118,2
-"Molossus",62,15,1
-"Molossus",62,16,2
-"Molossus",62,17,2
-"molossus",62,18,2
-"Molossus",62,18,2
-"Molossus",62,20,1
-"Molossus",62,21,2
-"Molossus",62,22,2
-"Molossus",62,23,2
-"Mops",62,99,1
-"Mops",62,100,2
-"Mops",62,101,2
-"mops",62,102,2
-"Mops",62,102,2
-"Mops",62,104,1
-"Mops",62,105,2
-"Mops",62,107,1
-"Mops",62,108,2
-"Mops",62,109,2
-"Mops",62,110,2
-"Mops",62,114,1
-"Mops",62,115,2
-"Mops",62,117,1
-"Mops",62,118,2
-"Mops",62,119,2
-"Molossops",62,159,2
-"Molossops",62,160,2
-"Molossops",62,162,1
-"Molossops",62,163,2
-"Mormopterus",62,176,1
-"Mormopterus",62,177,2
-"Mormopterus",62,178,2
-"Mormopterus",62,181,1
-"Mormopterus",62,182,2
-"Mormopterus",62,183,2
-"Mormopterus",62,189,1
-"Mormopterus",62,190,2
-"Mormopterus",62,191,2
-"Mormopterus",62,192,2
-"mordax",67,73,2
-"morenoi",69,30,1
-"Monophyllus",69,36,1
-"Monophyllus",69,37,2
-"mordax",67,111,2
-"Mormoops",67,221,1
-"Mormoops",67,222,2
-"montanus",59,18,2
-"monoceros",58,128,2
+"Myotis montivagus",73,118,2
+"Molossus aztecus",62,15,1
+"Molossus barnesi",62,16,2
+"Molossus coibensis",62,17,2
+"Molossus molossus",62,18,2
+"Molossus molossus",62,18,2
+"Molossus pretiosus",62,20,1
+"Molossus rufus",62,21,2
+"Molossus currentium",62,22,2
+"Molossus sinaloae",62,23,2
+"Mops leucostigma",62,99,1
+"Mops condylurus",62,100,2
+"Mops congicus",62,101,2
+"Mops mops",62,102,2
+"Mops mops",62,102,2
+"Mops demonstrator",62,104,1
+"Mops niveiventer",62,105,2
+"Mops sarasinorum",62,107,1
+"Mops trevori",62,108,2
+"Mops niangarae",62,109,2
+"Mops midas",62,110,2
+"Mops brachypterus",62,114,1
+"Mops nanulus",62,115,2
+"Mops thersites",62,117,1
+"Mops spurrelli",62,118,2
+"Mops petersoni",62,119,2
+"Molossops aequatorianus",62,159,2
+"Molossops mattogrossensis",62,160,2
+"Molossops neglectus",62,162,1
+"Molossops temminckii",62,163,2
+"Mormopterus jugularis",62,176,1
+"Mormopterus doriae",62,177,2
+"Mormopterus acetabulosus",62,178,2
+"Mormopterus kalinowskii",62,181,1
+"Mormopterus phrudus",62,182,2
+"Mormopterus minutus",62,183,2
+"Mormopterus loriae",62,189,1
+"Mormopterus planiceps",62,190,2
+"Mormopterus beccarii",62,191,2
+"Mormopterus norfolkensis",62,192,2
+"Sturnira mordax",67,73,2
+"Glossophaga morenoi",69,30,1
+"Monophyllus plethodon",69,36,1
+"Monophyllus redmani",69,37,2
+"Lonchophylla mordax",67,111,2
+"Mormoops blainvillei",67,221,1
+"Mormoops megalophylla",67,222,2
+"Rhinolophus montanus",59,18,2
+"Rhinolophus monoceros",58,128,2
 "Macinnes's Mouse-tailed Bat",45,84,1
 "Lesser Mouse-tailed Bat",45,85,2
 "Greater Mouse-tailed Bat",45,86,2
 "Small Mouse-tailed Bat",45,87,2
-"monticola",71,60,2
-"Mosia",71,61,2
+"Emballonura monticola",71,60,2
+"Mosia nigrescens",71,61,2
 "Mottle-winged Flying Fox",57,53,1
-"molossinus",57,57,1
+"Pteropus molossinus",57,57,1
 "North Moluccan Flying Fox",57,63,1
 "Moluccan Flying Fox",57,110,1
 "Moluccan Masked Flying Fox",57,117,2
@@ -841,43 +841,43 @@ name,fileindex,index,whichChild
 "Montane Monkey-faced Bat",57,136,2
 "Bougainville Monkey-faced Bat",57,138,2
 "Moluccan Naked-backed Fruit Bat",57,163,1
-"moluccensis",57,163,1
+"Dobsonia moluccensis",57,163,1
 "Moss-forest Blossom Bat",45,109,2
-"monstrosus",70,33,2
+"Hypsignathus monstrosus",70,33,2
 "Mountain Tube-nosed Bat",46,72,2
-"moschatus",64,61,2
+"Ovibos moschatus",64,61,2
 "Mountain Goat",64,69,2
 "Mountain Gazelle",66,19,1
-"moschatus",66,40,2
-"monticola",65,37,2
+"Neotragus moschatus",66,40,2
+"Philantomba monticola",65,37,2
 "Mongolian Gazelle",63,15,2
 "Mountain Reedbuck",63,33,2
 "Mountain Nyala",63,58,2
 "Mountain Anoa",63,79,1
 "Moose",63,174,2
-"Moschus",63,180,1
-"Moschus",63,181,2
-"Moschus",63,182,2
-"Moschus",63,183,2
-"Moschus",63,185,1
-"Moschus",63,186,2
-"moschiferus",63,187,2
-"Moschus",63,187,2
+"Moschus leucogaster",63,180,1
+"Moschus chrysogaster",63,181,2
+"Moschus cupreus",63,182,2
+"Moschus fuscus",63,183,2
+"Moschus berezovskii",63,185,1
+"Moschus anhuiensis",63,186,2
+"Moschus moschiferus",63,187,2
+"Moschus moschiferus",63,187,2
 "Balabac Mouse Deer",63,205,2
-"Moschiola",63,207,2
-"monoceros",75,88,2
-"Monodon",75,88,2
+"Moschiola meminna",63,207,2
+"Monodon monoceros",75,88,2
+"Monodon monoceros",75,88,2
 "Mountain Tapir",45,145,1
 "Mountain Zebra",45,155,2
 "Indonesian Mountain Weasel",49,13,2
 "Molina's Hog-nosed Skunk",52,45,2
-"moschata",52,52,2
+"Melogale moschata",52,52,2
 "Mountain Coati",47,19,2
 "Hawaiian Monk Seal",47,102,1
-"Monachus",47,102,1
+"Monachus schauinslandi",47,102,1
 "Mediterranean Monk Seal",47,103,2
-"monachus",47,103,2
-"Monachus",47,103,2
+"Monachus monachus",47,103,2
+"Monachus monachus",47,103,2
 "Somali Dwarf Mongoose",50,17,1
 "Common Dwarf Mongoose",50,18,2
 "Gambian Mongoose",50,20,1
@@ -909,12 +909,12 @@ name,fileindex,index,whichChild
 "Andean mountain cat",48,41,2
 "Mouse-tailed Shrew",90,13,1
 "Montane White-toothed Shrew",90,22,1
-"montis",90,22,1
-"monticola",89,22,1
+"Crocidura montis",90,22,1
+"Crocidura monticola",89,22,1
 "Moon Shrew",88,162,2
-"monax",88,198,2
-"montanus",87,30,2
-"morio",87,45,2
+"Crocidura monax",88,198,2
+"Suncus montanus",87,30,2
+"Sylvisorex morio",87,45,2
 "Moon Forest Shrew",87,53,2
 "Montane Mouse Shrew",85,24,2
 "Montane Mouse Shrew",85,24,2
@@ -928,8 +928,8 @@ name,fileindex,index,whichChild
 "Sclater's Mouse Shrew",85,40,2
 "Mt. Kenya Mole Shrew",85,43,1
 "Aberdare Mole Shrew",85,44,2
-"monticolus",86,64,2
-"montivaga",92,32,2
+"Sorex monticolus",86,64,2
+"Cryptotis montivaga",92,32,2
 "Taiwanese Mole Shrew",91,48,1
 "Mole-shrew",91,49,2
 "Assam Mole Shrew",91,50,2
@@ -943,13 +943,13 @@ name,fileindex,index,whichChild
 "Japanese Mountain Mole",85,112,2
 "Japanese Mountain Mole",85,112,2
 "Japanese Mole",85,116,1
-"Mogera",85,116,1
+"Mogera wogura",85,116,1
 "Sado Mole",85,117,2
-"Mogera",85,117,2
+"Mogera tokudae",85,117,2
 "Small Japanese Mole",85,118,2
-"Mogera",85,118,2
+"Mogera imaizumii",85,118,2
 "Insular Mole",85,119,2
-"Mogera",85,119,2
+"Mogera insularis",85,119,2
 "Iberian Mole",85,121,1
 "Siberian Mole",85,122,2
 "Levant Mole",85,123,2
@@ -961,9 +961,9 @@ name,fileindex,index,whichChild
 "Balkan Mole",85,133,2
 "White-tailed Mole",85,134,2
 "Short-faced Mole",85,136,1
-"moschatus",85,136,1
+"Scaptochirus moschatus",85,136,1
 "Senkaku Mole",85,137,2
-"Mogera",85,137,2
+"Mogera uchidai",85,137,2
 "Long-tailed Mole",85,138,2
 "Townsend's Mole",85,146,1
 "Coast Mole",85,147,2
@@ -974,7 +974,7 @@ name,fileindex,index,whichChild
 "Japanese Shrew Mole",85,154,1
 "True's Shrew Mole",85,155,2
 "Star-nosed Mole",85,157,2
-"moschata",85,160,2
+"Desmana moschata",85,160,2
 "Inquisitive Shrew Mole",85,163,1
 "Chinese Shrew Mole",85,164,2
 "Anderson's Shrew Mole",85,166,1
@@ -1000,7 +1000,7 @@ name,fileindex,index,whichChild
 "Giant Golden Mole",34,82,2
 "Monjon",43,34,2
 "Mountain Pademelon",43,42,2
-"moschatus",43,131,2
+"Hypsiprymnodon moschatus",43,131,2
 "Mountain Cuscus",44,14,1
 "Mountain Pygmy Possum",43,201,2
 "Monito Del Monte",43,209,2
@@ -1027,24 +1027,24 @@ name,fileindex,index,whichChild
 "Buff-bellied Fat-tailed Mouse Opossum",1,57,1
 "Karimi's Fat-tailed Mouse Opossum",1,62,1
 "Common Fat-tailed Mouse Opossum",1,63,2
-"Monodelphis",1,99,1
-"Monodelphis",1,100,2
-"Monodelphis",1,101,2
-"Monodelphis",1,104,1
-"Monodelphis",1,105,2
-"Monodelphis",1,106,2
-"Monodelphis",1,107,2
-"Monodelphis",1,111,1
-"Monodelphis",1,112,2
-"Monodelphis",1,113,2
-"Monodelphis",1,114,2
-"Monodelphis",1,118,1
-"Monodelphis",1,119,2
-"Monodelphis",1,120,2
-"Monodelphis",1,122,1
-"Monodelphis",1,123,2
-"Monodelphis",1,125,1
-"Monodelphis",1,126,2
+"Monodelphis glirina",1,99,1
+"Monodelphis palliolata",1,100,2
+"Monodelphis brevicaudata",1,101,2
+"Monodelphis umbristriata",1,104,1
+"Monodelphis rubida",1,105,2
+"Monodelphis osgoodi",1,106,2
+"Monodelphis iheringi",1,107,2
+"Monodelphis theresa",1,111,1
+"Monodelphis adusta",1,112,2
+"Monodelphis sorex",1,113,2
+"Monodelphis domestica",1,114,2
+"Monodelphis scalops",1,118,1
+"Monodelphis unistriata",1,119,2
+"Monodelphis americana",1,120,2
+"Monodelphis dimidiata",1,122,1
+"Monodelphis emiliae",1,123,2
+"Monodelphis maraxina",1,125,1
+"Monodelphis kunsi",1,126,2
 "Long-furred Woolly Mouse Opossum",1,135,1
 "Tate's Woolly Mouse Opossum",1,136,2
 "Bay-colored Mouse Opossum",1,137,2

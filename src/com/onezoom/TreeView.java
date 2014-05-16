@@ -17,6 +17,13 @@ import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
 
+/**
+ * The tree is drawn on this view.
+ * 
+ * When the view is invalidated, it will call onDraw to refresh itself.
+ * @author kaizhong
+ *
+ */
 public class TreeView extends View {
 	public CanvasActivity client;
 	private GestureDetector gestureDetector;
@@ -141,7 +148,8 @@ public class TreeView extends View {
 	 * When user finger is on the screen, set duringInteraction as true. 
 	 * When it's off the screen, set duringInteraction as false.
 	 * 
-	 * Then test scale and other actions including drag, double taps and single tap using gestureDetector.
+	 * Test scale using scaleDetector.
+	 * Test other actions including drag, double taps and single tap using gestureDetector.
 	 */
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
@@ -195,7 +203,7 @@ public class TreeView extends View {
 	 * view will use the cached bitmap to refresh itself.
 	 * 
 	 * 
-	 * The reason for write this function in such a complex why is that cache bitmap actually calls onDraw 
+	 * The reason for write this function in such a complex way is that cache bitmap actually calls onDraw 
 	 * in this view. 
 	 * 
 	 * If the method is written plainly as drawElement followed with loadBitmapFromView then this method will
@@ -211,6 +219,12 @@ public class TreeView extends View {
 		if (toggle) {
 			toggle = !toggle;
 			drawUsingCachedBitmap(canvas);
+			
+			/**
+			 * The tree is going to be redrawn using real data
+			 * and a new bitmap will be cached, therefore, the scale variables should be reset.
+			 * 
+			 */
 			this.scaleX = 1;
 			this.scaleY = 1;
 			this.distanceX = 0;
@@ -250,6 +264,10 @@ public class TreeView extends View {
 		Bitmap bitmap = Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
 		Canvas c = new Canvas(bitmap);
 		c.translate(-v.getScrollX(), -v.getScrollY());
+		
+		/**
+		 * This function calls onDraw().
+		 */
 		v.draw(c);
 		return bitmap;
 	}
@@ -298,6 +316,14 @@ public class TreeView extends View {
 		String text = Utility.growthInfo();
 		int x = getWidth()/2;
 		
+		/**
+		 * Text should be near the bottom of the device. 
+		 * 
+		 * Adjust the distance between the text and the bottom of the screen based on the size of the screen.
+		 * 
+		 * Multiply height width ratio so that the text is a bit more closer to the bottom of the screen
+		 * in landscape view than in portrait view.
+		 */
 		int y = (int) (getHeight() -
 				80 * client.getScreenHeight() / client.getScreenWidth() * CanvasActivity.getScaleFactor());
 		
@@ -305,6 +331,16 @@ public class TreeView extends View {
 		textPaint.setTextAlign(Align.CENTER);
 		textPaint.setTextSize(30 * CanvasActivity.getScaleFactor());
 		textPaint.setColor(Color.argb(150, 0, 0, 0));
+		
+		/**
+		 * Left should be at least 10 units. If text length is small, then the left boarder will be more close
+		 * to the center. 
+		 * 
+		 * Set the right border is similar but in an opposite way.
+		 * 
+		 * the text is on position y. Therefore add and minus some distance which is linear to the ratio of
+		 * the text size as the top border and bottom border.
+		 */
 		canvas.drawRect(
 				Math.max(10, getWidth()/2 - text.length() * textPaint.getTextSize() / 3.3f),   //left
 				y - textPaint.getTextSize() * 1.3f,      //top

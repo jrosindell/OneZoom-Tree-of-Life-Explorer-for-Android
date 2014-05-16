@@ -36,7 +36,9 @@ public abstract class MidNode implements Comparable<MidNode>{
 	 * re-calculate the tree. 
 	 * 
 	 * This function recalculate from the root the tree rather than re-anchored node.
-	 * After re-calculation, re-anchor the tree to a new node.
+	 * 
+	 * After re-calculation, re-anchor the tree to a new node. (most possibly the root of the tree
+	 * as this function is always called using the root node).
 	 */
 	public void recalculate() {
 		positionCalculator.recalculate(this, PositionData.xp, PositionData.yp, PositionData.ws);
@@ -49,8 +51,8 @@ public abstract class MidNode implements Comparable<MidNode>{
 	 * This function recalculate the tree from a re-anchored node.
 	 * More detail can be seen in positionCalculator.java.
 	 * 
-	 * Set dynamic first to prevent dynamically loading chunks from file.
-	 * Then re-anchor the tree and set dynamic to true to 
+	 * Set dynamic false to prevent dynamically loading chunks from file.
+	 * Then re-anchor the tree and set dynamic true to 
 	 * calculate new position and load new file at the same time.
 	 */
 	public void recalculateDynamic() {
@@ -64,6 +66,13 @@ public abstract class MidNode implements Comparable<MidNode>{
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 	}
 
+	/**
+	 * re-calculate the tree. The global variable PositionData.xp, PositionData.yp and PositionData.ws
+	 * should be the position of re-anchored node.
+	 * @param xp
+	 * @param yp
+	 * @param ws
+	 */
 	public void recalculateDynamic(float xp, float yp, float ws) {		
 		initializer.setDuringInitialization(false);
 		positionCalculator.recalculateDynamic(xp, yp, ws, this);

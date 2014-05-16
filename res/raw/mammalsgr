@@ -4,12 +4,12 @@ name,fileindex,index,whichChild
 "Snow Mountains Grassland Melomys",13,14,2
 "Great Key Island Uromys",13,66,2
 "Greater Stick-nest Rat",13,78,2
-"gracilicaudatus",13,128,2
+"Pseudomys gracilicaudatus",13,128,2
 "Groove-toothed Shrew Mouse",15,36,1
 "Greater Small-toothed Rat",15,62,2
 "Gray Spiny Mouse",11,28,2
 "Gray-bellied Mouse",11,122,1
-"granti",11,194,2
+"Micaelamys granti",11,194,2
 "Bell Groove-toothed Swamp Rat",11,207,1
 "Least Groove-toothed Swamp Rat",11,208,2
 "Hopkins's Groove-toothed Swamp Rat",11,209,2
@@ -22,44 +22,44 @@ name,fileindex,index,whichChild
 "Gray-bellied Tree Mouse",9,119,1
 "Single-striped Grass Mouse",9,143,2
 "Griselda's Lemniscomys",9,149,2
-"griselda",9,149,2
+"Lemniscomys griselda",9,149,2
 "African Grass Rat",19,52,1
 "Somali Grass Rat",19,55,2
 "Nairobi Grass Rat",19,57,1
 "Blick's Grass Rat",19,58,2
 "Abyssinian Grass Rat",19,59,2
 "Greater Bandicoot Rat",19,73,2
-"grandis",19,104,1
+"Hylomyscus grandis",19,104,1
 "Four-striped Grass Mouse",19,113,1
-"Grammomys",8,39,1
-"Grammomys",8,40,2
-"Grammomys",8,41,2
+"Grammomys macmillani",8,39,1
+"Grammomys cometes",8,40,2
+"Grammomys gigas",8,41,2
 "Gray-headed Thicket Rat",8,43,1
-"Grammomys",8,43,1
-"Grammomys",8,44,2
-"Grammomys",8,48,1
-"Grammomys",8,49,2
+"Grammomys caniceps",8,43,1
+"Grammomys minnae",8,44,2
+"Grammomys aridulus",8,48,1
+"Grammomys dryas",8,49,2
 "Bunting's Grammomys",8,50,2
-"Grammomys",8,50,2
-"Grammomys",8,52,1
-"Grammomys",8,53,2
+"Grammomys buntingi",8,50,2
+"Grammomys dolichurus",8,52,1
+"Grammomys ibeanus",8,53,2
 "Eastern Rainforest Grammomys",8,55,1
-"Grammomys",8,55,1
-"Grammomys",8,56,2
-"granti",8,140,2
+"Grammomys kuru",8,55,1
+"Grammomys poensis",8,56,2
+"Batomys granti",8,140,2
 "Gray-tailed Narrow-headed Rat",18,17,1
-"griseicauda",18,17,1
+"Stenocephalemys griseicauda",18,17,1
 "Greater Taeromys",18,43,2
 "Grobben's Gerbil",16,21,1
-"grobbeni",16,21,1
+"Gerbillus grobbeni",16,21,1
 "Greater Egyptian Gerbil",16,67,1
-"grandis",12,34,2
+"Meriones grandis",12,34,2
 "Great Gerbil",12,46,2
 "Gracile Tateril",12,80,1
-"gracilis",12,80,1
-"graecus",2,21,2
+"Taterillus gracilis",12,80,1
+"Spalax graecus",2,21,2
 "Greater Blind Mole Rat",2,22,2
-"grandis",2,39,2
+"Calomyscus grandis",2,39,2
 "Gray-bellied Grass Mouse",23,18,1
 "Gray-bellied Grass Mouse",23,18,1
 "Chaco Grass Mouse",23,19,2
@@ -100,26 +100,26 @@ name,fileindex,index,whichChild
 "Bogota Grass Mouse",23,91,2
 "Thespian Grass Mouse",23,92,2
 "Highland Grass Mouse",23,93,2
-"gracilis",24,31,1
+"Thomasomys gracilis",24,31,1
 "Grayish Pygmy Rice Rat",21,35,2
-"griseolus",21,35,2
+"Oligoryzomys griseolus",21,35,2
 "Greater Wilfred's Mouse",21,48,1
 "Gray Leaf-eared Mouse",26,46,1
-"griseoflavus",26,46,1
-"Graomys",26,46,1
-"Graomys",26,47,2
-"Graomys",26,48,2
-"Graomys",26,49,2
-"grandis",25,41,2
-"gratus",25,105,2
+"Graomys griseoflavus",26,46,1
+"Graomys griseoflavus",26,46,1
+"Graomys centralis",26,47,2
+"Graomys edithae",26,48,2
+"Graomys domorum",26,49,2
+"Peromyscus grandis",25,41,2
+"Peromyscus gratus",25,105,2
 "Northern Grasshopper Mouse",21,157,1
 "Southern Grasshopper Mouse",21,158,2
 "Mearns's Grasshopper Mouse",21,159,2
-"gracilis",21,170,2
-"gregalis",5,62,1
+"Reithrodontomys gracilis",21,170,2
+"Microtus gregalis",5,62,1
 "Japanese Grass Vole",5,85,1
 "Gray-tailed Vole",5,105,1
-"groenlandicus",4,17,2
+"Dicrostonyx groenlandicus",4,17,2
 "Grey Red-backed Vole",7,37,1
 "Gregarious Short-tailed Rat",4,97,2
 "Gray Dwarf Hamster",4,110,1
@@ -129,24 +129,24 @@ name,fileindex,index,whichChild
 "Gray Birch Mouse",3,18,1
 "Greater Egyptian Jerboa",3,67,1
 "Great Jerboa",2,71,2
-"grandis",20,55,2
+"Orthogeomys grandis",20,55,2
 "Great Basin Pocket Mouse",31,39,1
 "Great Basin Pocket Mouse",31,42,1
-"gravipes",31,81,1
-"grandis",30,17,2
-"gratiosus",29,32,1
+"Dipodomys gravipes",31,81,1
+"Makalata grandis",30,17,2
+"Trinomys gratiosus",29,32,1
 "Gray-footed Spiny Rat",29,58,1
 "Greedy Olalla Rat",29,83,2
 "Greater Guinea Pig",29,174,2
 "Green Acouchi",33,28,1
 "Greater Cane Rat",33,31,1
-"gregorianus",33,32,2
+"Thryonomys gregorianus",33,32,2
 "Gray-cheeked Flying Squirrel",80,40,1
 "Arizona Gray Squirrel",82,25,2
 "Western Gray Squirrel",82,27,2
-"griseus",82,27,2
+"Sciurus griseus",82,27,2
 "Eastern Gray Squirrel",82,43,1
-"granatensis",82,45,2
+"Sciurus granatensis",82,45,2
 "Tufted Ground Squirrel",82,56,2
 "Grizzled Giant Squirrel",77,52,2
 "Bornean Mountain Ground Squirrel",78,35,1
@@ -203,23 +203,23 @@ name,fileindex,index,whichChild
 "South African Ground Squirrel",77,135,2
 "Barbary Ground Squirrel",77,136,2
 "Long-clawed Ground Squirrel",77,137,2
-"Graphiurus",77,150,1
-"Graphiurus",77,151,2
-"Graphiurus",77,152,2
-"Graphiurus",77,153,2
-"Graphiurus",77,154,2
-"Graphiurus",77,156,1
-"Graphiurus",77,157,2
-"Graphiurus",77,161,1
-"Graphiurus",77,162,2
-"Graphiurus",77,163,2
-"Graphiurus",77,165,1
-"Graphiurus",77,166,2
-"Graphiurus",77,167,2
-"Graphiurus",77,168,2
+"Graphiurus platyops",77,150,1
+"Graphiurus angolensis",77,151,2
+"Graphiurus ocularis",77,152,2
+"Graphiurus surdus",77,153,2
+"Graphiurus christyi",77,154,2
+"Graphiurus lorraineus",77,156,1
+"Graphiurus monardi",77,157,2
+"Graphiurus microtis",77,161,1
+"Graphiurus murinus",77,162,2
+"Graphiurus rupicola",77,163,2
+"Graphiurus kelleni",77,165,1
+"Graphiurus johnstoni",77,166,2
+"Graphiurus crassicaudatus",77,167,2
+"Graphiurus nagtglasii",77,168,2
 "Granada Hare",76,35,2
-"granatensis",76,35,2
-"graysoni",76,87,2
+"Lepus granatensis",76,35,2
+"Sylvilagus graysoni",76,87,2
 "Grey-cheeked Mangabey",35,63,1
 "Green Monkey",41,53,1
 "Grivet Monkey",41,55,2
@@ -231,34 +231,34 @@ name,fileindex,index,whichChild
 "Tufted Gray Langur",40,66,1
 "Kashmir Gray Langur",40,67,2
 "Grey Snub-nosed Monkey",40,74,1
-"graellsi",38,73,2
+"Saguinus graellsi",38,73,2
 "Bolivian Gray Titi",42,19,1
 "Gray's Bald-faced Saki",42,60,1
-"griseus",36,29,1
+"Hapalemur griseus",36,29,1
 "Greater Bamboo Lemur",36,34,2
 "Gray's Sportive Lemur",36,51,2
 "Grey-brown Mouse Lemur",35,124,1
-"griseorufus",35,124,1
+"Microcebus griseorufus",35,124,1
 "Grey Mouse-lemur",35,126,2
 "Thick-tailed Greater Galago",39,9,1
 "Small-eared Greater Galago",39,11,2
-"granti",39,35,2
+"Galago granti",39,35,2
 "Greater Slow Loris",39,41,2
 "Gray Slender Loris",39,44,1
-"gracilis",35,161,2
+"Tupaia gracilis",35,161,2
 "Groove-toothed Trumpet-eared Bat",53,44,1
 "Greater Tube-nosed Bat",53,59,1
-"grisea",53,80,2
+"Murina grisea",53,80,2
 "Greater Hairy-winged Bat",53,82,1
 "Greater Broad-nosed Bat",53,84,2
 "Greater Bamboo Bat",55,51,1
 "Gray Big-eared Bat",53,130,2
-"gracilis",53,165,2
-"greyii",54,55,2
+"Rhogeessa gracilis",53,165,2
+"Scotorepens greyii",54,55,2
 "Greater Long-eared Bat",56,51,2
 "Greater Mouse-eared Bat",73,55,2
 "Gray Myotis",73,115,1
-"grisescens",73,115,1
+"Myotis grisescens",73,115,1
 "Greater Asiatic Yellow House Bat",73,185,1
 "Greenish Yellow Bat",73,189,2
 "Great Evening Bat",73,191,2
@@ -266,7 +266,7 @@ name,fileindex,index,whichChild
 "Greater Long-fingered Bat",45,40,1
 "Greater Bonneted Bat",62,43,1
 "Greenhall's Dog-faced Bat",62,153,1
-"greenhalli",62,153,1
+"Cynomops greenhalli",62,153,1
 "Mato Grosso Dog-faced Bat",62,160,2
 "Greater Naked Bat",62,169,1
 "Greater Broad-nosed Bat",68,13,2
@@ -284,13 +284,13 @@ name,fileindex,index,whichChild
 "Cuban Greater Funnel-eared Bat",45,53,2
 "Jamaican Greater Funnel-eared Bat",45,55,2
 "Grand Leaf-nosed Bat",61,22,2
-"grandis",61,22,2
+"Hipposideros grandis",61,22,2
 "Great Himalayan Leaf-nosed Bat",61,25,1
 "Greater Roundleaf Bat",61,39,1
 "Grandidier's Trident Bat",58,84,2
 "Greater Horseshoe Bat",59,34,1
 "Great Woolly Horsehoe Bat",60,38,2
-"grandis",58,146,2
+"Nycteris grandis",58,146,2
 "Greater False Vampire",45,75,2
 "Greater Mouse-tailed Bat",45,86,2
 "Greater Dog-like Bat",71,11,2
@@ -300,86 +300,86 @@ name,fileindex,index,whichChild
 "Grey-headed Flying Fox",57,19,1
 "Greater Mascarene Flying Fox",57,40,1
 "Gray Flying Fox",57,90,2
-"griseus",57,90,2
+"Pteropus griseus",57,90,2
 "Philippine Gray Flying Fox",57,93,1
 "Great Flying Fox",57,94,2
 "Greenish Naked-backed Fruit Bat",57,153,2
 "Greater Dawn Bat",45,117,2
-"grandis",70,22,2
+"Epomophorus grandis",70,22,2
 "Greater Shortnosed Fruit Bat",46,13,2
 "Greater Musky Fruit Bat",46,28,1
 "Greater Tube-nosed Bat",46,77,2
-"griseus",64,66,2
+"Naemorhedus griseus",64,66,2
 "Grant's Gazelle",66,28,2
-"granti",66,28,2
-"grimmia",65,34,2
+"Nanger granti",66,28,2
+"Sylvicapra grimmia",65,34,2
 "Sharpe's Grysbok",65,42,1
 "Cape Grysbok",65,44,2
 "Grey Rhebok",63,34,2
 "Greater Kudu",63,56,2
-"grunniens",63,69,2
+"Bos grunniens",63,69,2
 "Grey Ox",63,71,1
 "Gray Brocket",63,146,1
 "Greater Oriental Chevrotain",63,204,2
-"griseus",75,36,2
-"Grampus",75,36,2
+"Grampus griseus",75,36,2
+"Grampus griseus",75,36,2
 "Gray's Beaked Whale",75,126,2
-"grayi",75,126,2
+"Mesoplodon grayi",75,126,2
 "Gray Whale",75,150,2
 "Grevy's Zebra",45,156,2
-"grevyi",45,156,2
+"Equus grevyi",45,156,2
 "Greater Grison",49,64,1
 "Greater Grison",49,64,1
 "Lesser Grison",49,65,2
-"gracilis",52,33,2
+"Spilogale gracilis",52,33,2
 "Grey Seal",47,83,2
-"grypus",47,83,2
-"groenlandicus",47,85,1
+"Halichoerus grypus",47,83,2
+"Pagophilus groenlandicus",47,85,1
 "Grey Wolf",47,134,2
-"griseus",47,143,2
+"Lycalopex griseus",47,143,2
 "Grey Fox",47,183,1
-"grandidieri",47,197,1
+"Galidictis grandidieri",47,197,1
 "Taiwanese Gray Shrew",88,70,2
 "Grey Shrew",88,71,2
 "Lesser Gray-brown Musk Shrew",89,17,2
 "Greater Gray-brown Musk Shrew",89,38,1
 "Greater Gray-brown Musk Shrew",89,38,1
 "Grasse's Shrew",88,79,2
-"grassei",88,79,2
+"Crocidura grassei",88,79,2
 "Greater Red Musk Shrew",88,104,2
-"gracilipes",88,106,2
-"grandiceps",88,111,2
+"Crocidura gracilipes",88,106,2
+"Crocidura grandiceps",88,111,2
 "Greenwood's Shrew",88,117,1
-"greenwoodi",88,117,1
-"grayi",88,148,2
+"Crocidura greenwoodi",88,117,1
+"Crocidura grayi",88,148,2
 "Greater White-toothed Shrew",88,153,2
 "Pale Grey Shrew",88,169,1
 "Greater Mindanao Shrew",93,26,2
-"grandis",93,26,2
+"Crocidura grandis",93,26,2
 "Greater Large-headed Shrew",85,13,2
 "Grauer's Large-headed Shrew",85,14,2
-"graueri",85,14,2
+"Paracrocidura graueri",85,14,2
 "Greater Dwarf Shrew",87,11,1
 "Greater Congo Shrew",87,37,2
 "Grant's Forest Shrew",87,59,1
-"granti",87,59,1
-"granarius",86,17,2
-"gracillimus",86,50,2
+"Sylvisorex granti",87,59,1
+"Sorex granarius",86,17,2
+"Sorex gracillimus",86,50,2
 "Barren Ground Shrew",86,85,1
-"griselda",86,103,2
+"Blarinella griselda",86,103,2
 "Grizzled Mexican Small-eared Shrew",92,38,1
-"griseoventris",92,46,1
-"gracilis",92,50,1
+"Cryptotis griseoventris",92,46,1
+"Cryptotis gracilis",92,50,1
 "Large-eared Grey Shrew",91,54,1
 "Greater Chinese Mole",85,110,1
-"grandis",85,110,1
+"Euroscaptor grandis",85,110,1
 "Gracile Shrew Mole",85,167,2
-"gracilis",85,167,2
+"Uropsilus gracilis",85,167,2
 "Greater Naked-tailed Armadillo",0,18,2
 "Greater Long-nosed Armadillo",0,44,2
 "Greater Fairy Armadillo",0,47,1
 "Gracile Shrew Tenrec",34,17,2
-"gracilis",34,17,2
+"Microgale gracilis",34,17,2
 "Greater Long-tailed Shrew Tenrec",34,24,1
 "Greater Hedgehog Tenrec",34,49,2
 "Western Gray Kangaroo",43,74,1
@@ -388,29 +388,29 @@ name,fileindex,index,whichChild
 "Grey Dorcopsis",43,109,1
 "Green Ringtail Possum",43,158,1
 "Greater Glider",43,164,2
-"gracilis",43,174,2
+"Petaurus gracilis",43,174,2
 "Great-tailed Triok",43,181,1
 "Ground Cuscus",44,21,2
-"granulipes",84,99,2
+"Sminthopsis granulipes",84,99,2
 "Grey-bellied Dunnart",84,101,1
-"griseoventer",84,101,1
+"Sminthopsis griseoventer",84,101,1
 "Gray-bellied Shrew Opossum",0,163,1
 "Gray Slender Mouse Opossum",1,13,2
 "Gray-bellied Slender Mouse Opossum",1,28,2
 "Agile Gracile Mouse Opossum",1,37,1
-"Gracilinanus",1,37,1
-"Gracilinanus",1,38,2
+"Gracilinanus agilis",1,37,1
+"Gracilinanus formosus",1,38,2
 "Brazilian Gracile Mouse Opossum",1,39,2
-"Gracilinanus",1,39,2
+"Gracilinanus microtarsus",1,39,2
 "Aceramarca Gracile Mouse Opossum",1,40,2
-"Gracilinanus",1,40,2
+"Gracilinanus aceramarcae",1,40,2
 "Emilia's Gracile Mouse Opossum",1,43,1
-"Gracilinanus",1,43,1
-"Gracilinanus",1,44,2
+"Gracilinanus emiliae",1,43,1
+"Gracilinanus agricolai",1,44,2
 "Northern Gracile Mouse Opossum",1,45,2
-"Gracilinanus",1,45,2
+"Gracilinanus marica",1,45,2
 "Wood Sprite Gracile Mouse Opossum",1,46,2
-"Gracilinanus",1,46,2
+"Gracilinanus dryas",1,46,2
 "Gray Four-eyed Opossum",1,87,2
 "Gray Short-tailed Opossum",1,114,2
 "Grayish Mouse Opossum",1,156,2

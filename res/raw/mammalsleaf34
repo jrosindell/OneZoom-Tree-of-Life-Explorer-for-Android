@@ -1,43 +1,43 @@
 index,parent,name1,name2,common,redlist,popstab,color
-13,-268435444,"drouhardi","Microgale","Striped Shrew Tenrec",LC,D,-16731116
-14,-268435444,"taiva","Microgale","Taiva Shrew Tenrec",LC,D,-16731116
-15,-268435445,"cowani","Microgale","Cowan's Shrew Tenrec",LC,D,-16731116
-16,-268435446,"talazaci","Microgale","Talzac's Shrew Tenrec",LC,D,-16731116
-17,-268435447,"gracilis","Microgale","Gracile Shrew Tenrec",LC,D,-16731116
-18,-268435448,"dryas","Microgale","Tree Shrew Tenrec",VU,D,-11184866
-19,-268435449,"longicaudata","Microgale","Lesser Long-tailed Shrew Tenrec",LC,D,-16731116
-20,-268435450,"brevicaudata","Microgale","Short-tailed Shrew Tenrec",LC,D,-16731116
-24,-268435433,"principula","Microgale","Greater Long-tailed Shrew Tenrec",LC,D,-16731116
-25,-268435433,"pusilla","Microgale","Lesser Shrew Tenrec",LC,S,-16731116
-27,-268435430,"dobsoni","Microgale","Dobson's Shrew Tenrec",LC,D,-16731116
-28,-268435430,"thomasi","Microgale","Thomas' Shrew Tenrec",LC,D,-16731116
-29,-268435435,"parvula","Microgale","Pygmy Shrew Tenrec",LC,D,-16731116
-31,-268435426,"tetradactylus","Oryzorictes","Four-toed Mole Tenrec",DD,U,-11513776
-32,-268435426,"hova","Oryzorictes","Hova Mole Tenrec",LC,D,-16731116
-33,-268435453,"aurita","Geogale","Large-eared Tenrec",LC,U,-16731116
-37,-268435420,"ruwenzorii","Micropotamogale","Rwenzori Otter Shrew",NT,U,-12486656
-38,-268435420,"lamottei","Micropotamogale","Nimba Otter Shrew",EN,D,-8572416
-39,-268435421,"velox","Potamogale","Giant Otter-shrew",LC,D,-16731116
-40,-268435422,"mergulus","Limnogale","Aquatic Tenrec",VU,U,-11184866
-44,-268435413,"semispinosus","Hemicentetes","Lowland Streaked Tenrec",LC,U,-16731116
-45,-268435413,"nigriceps","Hemicentetes","Highland Streaked Tenrec",LC,U,-16731116
-46,-268435414,"ecaudatus","Tenrec","Common Tenrec",LC,S,-16731116
-48,-268435409,"telfairi","Echinops","Lesser Hedgehog Tenrec",LC,S,-16731116
-49,-268435409,"setosus","Setifer","Greater Hedgehog Tenrec",LC,S,-16731116
-57,-268435400,"septentrionalis","Amblysomus","Highveld Golden Mole",NT,U,-12486656
-58,-268435400,"hottentotus","Amblysomus","Hottentot Golden Mole",LC,U,-16731116
-59,-268435401,"corriae","Amblysomus","Fynbos Golden Mole",NT,U,-12486656
-60,-268435402,"marleyi","Amblysomus","Marley's Golden Mole",EN,U,-8572416
-62,-268435395,"gunningi","Neamblysomus","Gunning's Golden Mole",EN,U,-8572416
-63,-268435395,"julianae","Neamblysomus","Juliana's Golden Mole",VU,U,-11184866
-64,-268435404,"obtusirostris","Calcochloris","Yellow Golden Mole",LC,U,-16731116
-67,-268435390,"stuhlmanni","Chrysochloris","Stuhlmann's Golden Mole",LC,U,-16731116
-68,-268435390,"visagiei","Chrysochloris","Visagie's Golden Mole",DD,U,-11513776
-69,-268435391,"asiatica","Chrysochloris","Cape Golden Mole",LC,U,-16731116
-75,-268435382,"tytonis","Calcochloris","Somali Golden Mole",DD,U,-11513776
-76,-268435382,"arendsi","Carpitalpa","Arend's Golden Mole",VU,U,-11184866
-77,-268435383,"leucorhinus","Calcochloris","Congo Golden Mole",DD,U,-11513776
-78,-268435384,"duthieae","Chlorotalpa","Duthie's Golden Mole",VU,U,-11184866
-79,-268435385,"sclateri","Chlorotalpa","Sclater's Golden Mole",LC,U,-16731116
-81,-268435376,"villosus","Chrysospalax","Rough-haired Golden Mole",VU,U,-11184866
-82,-268435376,"trevelyani","Chrysospalax","Giant Golden Mole",EN,U,-8572416
+13,12,"drouhardi","Microgale","Striped Shrew Tenrec",LC,D,-16731116
+14,12,"taiva","Microgale","Taiva Shrew Tenrec",LC,D,-16731116
+15,11,"cowani","Microgale","Cowan's Shrew Tenrec",LC,D,-16731116
+16,10,"talazaci","Microgale","Talzac's Shrew Tenrec",LC,D,-16731116
+17,9,"gracilis","Microgale","Gracile Shrew Tenrec",LC,D,-16731116
+18,8,"dryas","Microgale","Tree Shrew Tenrec",VU,D,-11184866
+19,7,"longicaudata","Microgale","Lesser Long-tailed Shrew Tenrec",LC,D,-16731116
+20,6,"brevicaudata","Microgale","Short-tailed Shrew Tenrec",LC,D,-16731116
+24,23,"principula","Microgale","Greater Long-tailed Shrew Tenrec",LC,D,-16731116
+25,23,"pusilla","Microgale","Lesser Shrew Tenrec",LC,S,-16731116
+27,26,"dobsoni","Microgale","Dobson's Shrew Tenrec",LC,D,-16731116
+28,26,"thomasi","Microgale","Thomas' Shrew Tenrec",LC,D,-16731116
+29,21,"parvula","Microgale","Pygmy Shrew Tenrec",LC,D,-16731116
+31,30,"tetradactylus","Oryzorictes","Four-toed Mole Tenrec",DD,U,-11513776
+32,30,"hova","Oryzorictes","Hova Mole Tenrec",LC,D,-16731116
+33,3,"aurita","Geogale","Large-eared Tenrec",LC,U,-16731116
+37,36,"ruwenzorii","Micropotamogale","Rwenzori Otter Shrew",NT,U,-12486656
+38,36,"lamottei","Micropotamogale","Nimba Otter Shrew",EN,D,-8572416
+39,35,"velox","Potamogale","Giant Otter-shrew",LC,D,-16731116
+40,34,"mergulus","Limnogale","Aquatic Tenrec",VU,U,-11184866
+44,43,"semispinosus","Hemicentetes","Lowland Streaked Tenrec",LC,U,-16731116
+45,43,"nigriceps","Hemicentetes","Highland Streaked Tenrec",LC,U,-16731116
+46,42,"ecaudatus","Tenrec","Common Tenrec",LC,S,-16731116
+48,47,"telfairi","Echinops","Lesser Hedgehog Tenrec",LC,S,-16731116
+49,47,"setosus","Setifer","Greater Hedgehog Tenrec",LC,S,-16731116
+57,56,"septentrionalis","Amblysomus","Highveld Golden Mole",NT,U,-12486656
+58,56,"hottentotus","Amblysomus","Hottentot Golden Mole",LC,U,-16731116
+59,55,"corriae","Amblysomus","Fynbos Golden Mole",NT,U,-12486656
+60,54,"marleyi","Amblysomus","Marley's Golden Mole",EN,U,-8572416
+62,61,"gunningi","Neamblysomus","Gunning's Golden Mole",EN,U,-8572416
+63,61,"julianae","Neamblysomus","Juliana's Golden Mole",VU,U,-11184866
+64,52,"obtusirostris","Calcochloris","Yellow Golden Mole",LC,U,-16731116
+67,66,"stuhlmanni","Chrysochloris","Stuhlmann's Golden Mole",LC,U,-16731116
+68,66,"visagiei","Chrysochloris","Visagie's Golden Mole",DD,U,-11513776
+69,65,"asiatica","Chrysochloris","Cape Golden Mole",LC,U,-16731116
+75,74,"tytonis","Calcochloris","Somali Golden Mole",DD,U,-11513776
+76,74,"arendsi","Carpitalpa","Arend's Golden Mole",VU,U,-11184866
+77,73,"leucorhinus","Calcochloris","Congo Golden Mole",DD,U,-11513776
+78,72,"duthieae","Chlorotalpa","Duthie's Golden Mole",VU,U,-11184866
+79,71,"sclateri","Chlorotalpa","Sclater's Golden Mole",LC,U,-16731116
+81,80,"villosus","Chrysospalax","Rough-haired Golden Mole",VU,U,-11184866
+82,80,"trevelyani","Chrysospalax","Giant Golden Mole",EN,U,-8572416

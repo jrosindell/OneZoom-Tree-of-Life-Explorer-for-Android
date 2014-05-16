@@ -1,32 +1,32 @@
 index,parent,name1,name2,common,redlist,popstab,color
-11,-268435446,"platycephalus","Crossarchus","Cameroon Cusimanse",LC,U,-16731116
-12,-268435446,"obscurus","Crossarchus","Common Cusimanse",LC,U,-16731116
-13,-268435447,"alexandri","Crossarchus","Alexander's Cusimanse",LC,D,-16731116
-14,-268435448,"ansorgei","Crossarchus","Ansorge's Cusimanse",DD,U,-11513776
-17,-268435440,"hirtula","Helogale","Somali Dwarf Mongoose",LC,S,-16731116
-18,-268435440,"parvula","Helogale","Common Dwarf Mongoose",LC,S,-16731116
-20,-268435437,"gambianus","Mungos","Gambian Mongoose",LC,S,-16731116
-21,-268435437,"mungo","Mungos","Banded Mongoose",LC,S,-16731116
-22,-268435450,"albicauda","Ichneumia","White-tailed Mongoose",LC,S,-16731116
-23,-268435451,"suricatta","Suricata","Meerkat",LC,U,-16731116
-26,-268435431,"crassicauda","Bdeogale","Bushy-tailed Mongoose",LC,U,-16731116
-27,-268435431,"nigripes","Bdeogale","Black-footed Mogoose",LC,D,-16731116
-28,-268435432,"jacksoni","Bdeogale","Jackson's Mongoose",NT,D,-12486656
-29,-268435453,"kuhni","Liberiictis","Liberian Mongoose",VU,D,-11184866
-31,-268435426,"selousi","Paracynictis","Selous' Mongoose",LC,U,-16731116
-32,-268435426,"penicillata","Cynictis","Yellow Mongoose",LC,S,-16731116
-40,-268435417,"javanicus","Herpestes","Small Asian Mongoose",LC,U,-16731116
-41,-268435417,"edwardsi","Herpestes","",NE,U,-16777216
-42,-268435418,"urva","Herpestes","Crab-eating Mongoose",LC,S,-16731116
-44,-268435413,"brachyurus","Herpestes","Short-tailed Mongoose",LC,U,-16731116
-45,-268435413,"fuscus","Herpestes","Indian Brown Mongoose",VU,D,-11184866
-46,-268435420,"naso","Herpestes","Long-nosed Mongoose",LC,D,-16731116
-48,-268435409,"vitticollis","Herpestes","Stripe-necked Mongoose",LC,S,-16731116
-49,-268435409,"smithii","Herpestes","Ruddy Mongoose",LC,D,-16731116
-51,-268435406,"semitorquatus","Herpestes","Collared Mongoose",DD,D,-11513776
-52,-268435406,"ichneumon","Herpestes","Egyptian Mongoose",LC,S,-16731116
-55,-268435402,"pulverulenta","Galerella","",NE,U,-16777216
-56,-268435402,"flavescens","Galerella","",NE,U,-16777216
-58,-268435399,"sanguinea","Galerella","",NE,U,-16777216
-59,-268435399,"ochracea","Galerella","",NE,U,-16777216
-60,-268435456,"dybowskii","Dologale","Pousargues' Mongoose",DD,U,-11513776
+11,10,"platycephalus","Crossarchus","Cameroon Cusimanse",LC,U,-16731116
+12,10,"obscurus","Crossarchus","Common Cusimanse",LC,U,-16731116
+13,9,"alexandri","Crossarchus","Alexander's Cusimanse",LC,D,-16731116
+14,8,"ansorgei","Crossarchus","Ansorge's Cusimanse",DD,U,-11513776
+17,16,"hirtula","Helogale","Somali Dwarf Mongoose",LC,S,-16731116
+18,16,"parvula","Helogale","Common Dwarf Mongoose",LC,S,-16731116
+20,19,"gambianus","Mungos","Gambian Mongoose",LC,S,-16731116
+21,19,"mungo","Mungos","Banded Mongoose",LC,S,-16731116
+22,6,"albicauda","Ichneumia","White-tailed Mongoose",LC,S,-16731116
+23,5,"suricatta","Suricata","Meerkat",LC,U,-16731116
+26,25,"crassicauda","Bdeogale","Bushy-tailed Mongoose",LC,U,-16731116
+27,25,"nigripes","Bdeogale","Black-footed Mogoose",LC,D,-16731116
+28,24,"jacksoni","Bdeogale","Jackson's Mongoose",NT,D,-12486656
+29,3,"kuhni","Liberiictis","Liberian Mongoose",VU,D,-11184866
+31,30,"selousi","Paracynictis","Selous' Mongoose",LC,U,-16731116
+32,30,"penicillata","Cynictis","Yellow Mongoose",LC,S,-16731116
+40,39,"javanicus","Herpestes","Small Asian Mongoose",LC,U,-16731116
+41,39,"edwardsi","Herpestes","",NE,U,-16777216
+42,38,"urva","Herpestes","Crab-eating Mongoose",LC,S,-16731116
+44,43,"brachyurus","Herpestes","Short-tailed Mongoose",LC,U,-16731116
+45,43,"fuscus","Herpestes","Indian Brown Mongoose",VU,D,-11184866
+46,36,"naso","Herpestes","Long-nosed Mongoose",LC,D,-16731116
+48,47,"vitticollis","Herpestes","Stripe-necked Mongoose",LC,S,-16731116
+49,47,"smithii","Herpestes","Ruddy Mongoose",LC,D,-16731116
+51,50,"semitorquatus","Herpestes","Collared Mongoose",DD,D,-11513776
+52,50,"ichneumon","Herpestes","Egyptian Mongoose",LC,S,-16731116
+55,54,"pulverulenta","Galerella","",NE,U,-16777216
+56,54,"flavescens","Galerella","",NE,U,-16777216
+58,57,"sanguinea","Galerella","",NE,U,-16777216
+59,57,"ochracea","Galerella","",NE,U,-16777216
+60,0,"dybowskii","Dologale","Pousargues' Mongoose",DD,U,-11513776

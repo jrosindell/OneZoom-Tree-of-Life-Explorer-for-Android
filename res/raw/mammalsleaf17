@@ -1,30 +1,30 @@
 index,parent,name1,name2,common,redlist,popstab,color
-8,-268435449,"lunaris","Hybomys","Moon Striped Mouse",VU,S,-11184866
-9,-268435449,"basilii","Hybomys","Bioko Hybomys",EN,U,-8572416
-10,-268435450,"trivirgatus","Hybomys","Temminck's Striped Mouse",LC,S,-16731116
-11,-268435451,"badius","Hybomys","Cameroon Highland Hybomys",EN,D,-8572416
-13,-268435444,"planifrons","Hybomys","Liberian Forest Hybomys",LC,S,-16731116
-14,-268435444,"univittatus","Hybomys","Peters' Hybomys",LC,S,-16731116
-16,-268435441,"defua","Dephomys","Defua Rat",LC,U,-16731116
-17,-268435441,"eburneae","Dephomys","",NE,U,-16777216
-22,-268435435,"neobritannicus","Hydromys","New Britain Water Rat",DD,U,-11513776
-23,-268435435,"habbema","Hydromys","",NE,U,-16777216
-24,-268435436,"chrysogaster","Hydromys","Common Water Rat",LC,U,-16731116
-26,-268435431,"hussoni","Hydromys","Western Water Rat",DD,U,-11513776
-27,-268435431,"shawmayeri","Hydromys","",NE,U,-16777216
-28,-268435438,"myoides","Xeromys","False Water Rat",VU,D,-11184866
-33,-268435424,"bagobus","Bullimus","Mindanao Bullimus",LC,S,-16731116
-34,-268435424,"luzonicus","Bullimus","Luzon Bullimus",LC,U,-16731116
-36,-268435421,"echinatus","Tarsomys","Spiny Tarsomys",VU,D,-11184866
-37,-268435421,"apoensis","Tarsomys","Dusky Tarsomys",LC,S,-16731116
-38,-268435426,"adustus","Tryphomys","Luzon Tryphomys",DD,U,-11513776
-40,-268435417,"latidens","Abditomys","Luzon Broad-toothed Rat",DD,U,-11513776
-41,-268435417,"sibuanus","Limnomys","White-bellied Limnomys",LC,S,-16731116
-46,-268435411,"macrocercus","Tateomys","Long-tailed Sulawesian Shrew Rat",DD,U,-11513776
-47,-268435411,"rhinogradoides","Tateomys","Tate's Sulawesian Shrew Rat",DD,S,-11513776
-48,-268435412,"naso","Melasmothrix","Diurnal Sulawesian Shrew Rat",DD,U,-11513776
-51,-268435406,"beccarii","Margaretamys","Spiny Lowland Margaretamys",VU,D,-11184866
-52,-268435406,"elegans","Margaretamys","Elegant Margaretamys",NT,D,-12486656
-53,-268435407,"parvus","Margaretamys","Lesser Margaretamys",DD,U,-11513776
-55,-268435402,"leucura","Echiothrix","Northern Sulawesi Echiothrix",EN,D,-8572416
-56,-268435402,"centrosa","Echiothrix","Central Sulawesi Echiothrix",VU,D,-11184866
+8,7,"lunaris","Hybomys","Moon Striped Mouse",VU,S,-11184866
+9,7,"basilii","Hybomys","Bioko Hybomys",EN,U,-8572416
+10,6,"trivirgatus","Hybomys","Temminck's Striped Mouse",LC,S,-16731116
+11,5,"badius","Hybomys","Cameroon Highland Hybomys",EN,D,-8572416
+13,12,"planifrons","Hybomys","Liberian Forest Hybomys",LC,S,-16731116
+14,12,"univittatus","Hybomys","Peters' Hybomys",LC,S,-16731116
+16,15,"defua","Dephomys","Defua Rat",LC,U,-16731116
+17,15,"eburneae","Dephomys","",NE,U,-16777216
+22,21,"neobritannicus","Hydromys","New Britain Water Rat",DD,U,-11513776
+23,21,"habbema","Hydromys","",NE,U,-16777216
+24,20,"chrysogaster","Hydromys","Common Water Rat",LC,U,-16731116
+26,25,"hussoni","Hydromys","Western Water Rat",DD,U,-11513776
+27,25,"shawmayeri","Hydromys","",NE,U,-16777216
+28,18,"myoides","Xeromys","False Water Rat",VU,D,-11184866
+33,32,"bagobus","Bullimus","Mindanao Bullimus",LC,S,-16731116
+34,32,"luzonicus","Bullimus","Luzon Bullimus",LC,U,-16731116
+36,35,"echinatus","Tarsomys","Spiny Tarsomys",VU,D,-11184866
+37,35,"apoensis","Tarsomys","Dusky Tarsomys",LC,S,-16731116
+38,30,"adustus","Tryphomys","Luzon Tryphomys",DD,U,-11513776
+40,39,"latidens","Abditomys","Luzon Broad-toothed Rat",DD,U,-11513776
+41,39,"sibuanus","Limnomys","White-bellied Limnomys",LC,S,-16731116
+46,45,"macrocercus","Tateomys","Long-tailed Sulawesian Shrew Rat",DD,U,-11513776
+47,45,"rhinogradoides","Tateomys","Tate's Sulawesian Shrew Rat",DD,S,-11513776
+48,44,"naso","Melasmothrix","Diurnal Sulawesian Shrew Rat",DD,U,-11513776
+51,50,"beccarii","Margaretamys","Spiny Lowland Margaretamys",VU,D,-11184866
+52,50,"elegans","Margaretamys","Elegant Margaretamys",NT,D,-12486656
+53,49,"parvus","Margaretamys","Lesser Margaretamys",DD,U,-11513776
+55,54,"leucura","Echiothrix","Northern Sulawesi Echiothrix",EN,D,-8572416
+56,54,"centrosa","Echiothrix","Central Sulawesi Echiothrix",VU,D,-11184866

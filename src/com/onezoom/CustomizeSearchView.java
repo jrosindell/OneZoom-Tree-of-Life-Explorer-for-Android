@@ -47,7 +47,7 @@ public class CustomizeSearchView extends SearchView{
 	
 	/**
 	 * Search listener in web view.
-	 * Load new wiki pages in web view.
+	 * Load new web pages in web view when search has been submitted.
 	 */
 	final SearchView.OnQueryTextListener queryWebListener = new SearchView.OnQueryTextListener() {	
 		@Override

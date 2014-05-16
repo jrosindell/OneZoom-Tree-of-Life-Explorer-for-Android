@@ -1,27 +1,27 @@
 name,fileindex,index,whichChild
 "Common Lowland Paramelomys",13,23,2
-"conditor",13,78,2
-"Conilurus",13,79,2
+"Leporillus conditor",13,78,2
+"Conilurus penicillatus",13,79,2
 "Common Rock Rat",13,84,2
-"Coccymys",15,25,1
-"Coccymys",15,26,2
-"coninga",11,86,2
+"Coccymys albidens",15,25,1
+"Coccymys ruemmleri",15,26,2
+"Niviventer coninga",11,86,2
 "Confucian Niviventer",11,93,1
-"confucianus",11,93,1
+"Niviventer confucianus",11,93,1
 "Cook's Mouse",11,152,2
-"cookii",11,152,2
+"Mus cookii",11,152,2
 "Common Indian Field Mouse",11,157,1
-"Colomys",11,218,2
-"colletti",10,66,2
+"Colomys goslingi",11,218,2
+"Rattus colletti",10,66,2
 "Common Bunomys",9,187,1
-"coelestis",9,189,2
-"coucha",19,95,2
+"Bunomys coelestis",9,189,2
+"Mastomys coucha",19,95,2
 "Common Water Rat",17,24,2
-"cometes",8,40,2
+"Grammomys cometes",8,40,2
 "Luzon Cordillera Apomys",8,117,1
 "Congo Gerbil",12,78,2
-"congicus",12,78,2
-"collinus",8,183,2
+"Taterillus congicus",12,78,2
+"Petromyscus collinus",8,183,2
 "Congo Forest Mouse",2,44,2
 "Cordoba Akodont",23,21,2
 "Colombian Grass Mouse",23,61,2
@@ -29,13 +29,13 @@ name,fileindex,index,whichChild
 "Cordoba Laucha",23,143,1
 "Colombian Rice Rat",27,14,1
 "Coues's Rice Rat",27,71,2
-"couesi",27,71,2
-"concolor",27,91,2
+"Oryzomys couesi",27,71,2
+"Oecomys concolor",27,91,2
 "Fornes' Colilargo",21,40,2
 "Colombian Forest Mouse",21,50,2
 "Coues's Climbing Mouse",28,25,1
-"couesi",28,25,1
-"collinus",28,47,2
+"Rhipidomys couesi",28,25,1
+"Delomys collinus",28,47,2
 "Southern Cotton Rat",21,111,1
 "Hispid Cotton Rat",21,112,2
 "Toltec Cotton Rat",21,114,1
@@ -63,49 +63,49 @@ name,fileindex,index,whichChild
 "Ogilvie Mountains Collared Lemming",4,18,2
 "Richardson's Collared Lemming",4,21,1
 "Wrangel Island Collared Lemming",4,23,2
-"cooperi",6,48,2
-"concolor",3,19,2
+"Synaptomys cooperi",6,48,2
+"Sicista concolor",3,19,2
 "Comb-toed Jerboa",3,54,2
 "Gulf Coast Kangaroo Rat",31,84,2
-"compactus",31,84,2
+"Dipodomys compactus",31,84,2
 "Colombian Spiny Rat",29,54,2
 "Coypu",29,97,2
-"coypus",29,97,2
+"Myocastor coypus",29,97,2
 "Common Yellow-toothed Cavy",29,172,2
 "Coiban Agouti",33,23,2
-"coibae",33,23,2
-"Coendou",33,53,1
-"Coendou",33,54,2
-"Coendou",33,55,2
-"Coendou",33,56,2
-"coludo",32,19,2
+"Dasyprocta coibae",33,23,2
+"Coendou prehensilis",33,53,1
+"Coendou nycthemera",33,54,2
+"Coendou bicolor",33,55,2
+"Coendou rothschildi",33,56,2
+"Ctenomys coludo",32,19,2
 "Conover's Tuco-tuco",32,43,2
-"conoveri",32,43,2
+"Ctenomys conoveri",32,43,2
 "Collared Tuco-tuco",32,50,1
-"colburni",32,93,2
+"Ctenomys colburni",32,93,2
 "Coruro",2,158,2
 "Common Giant Flying Squirrel",77,25,2
 "Complex-toothed Flying Squirrel",77,35,2
 "Collie's Squirrel",82,30,2
-"colliaei",82,30,2
-"concinnus",78,54,2
+"Sciurus colliaei",82,30,2
+"Exilisciurus concinnus",78,54,2
 "Common Palm Squirrel",77,107,2
 "Columbian Ground Squirrel",79,66,2
-"columbianus",79,66,2
+"Spermophilus columbianus",79,66,2
 "Colorado Chipmunk",83,11,1
 "Cooper's Mountain Squirrel",81,11,2
-"cooperi",81,11,2
+"Paraxerus cooperi",81,11,2
 "Congo Rope Squirrel",81,35,2
-"congicus",81,35,2
+"Funisciurus congicus",81,35,2
 "Common Dormouse",77,192,2
-"coreanus",76,28,2
+"Lepus coreanus",76,28,2
 "Corsican Hare",76,32,1
-"corsicanus",76,32,1
-"comus",76,49,2
+"Lepus corsicanus",76,32,1
+"Lepus comus",76,49,2
 "Eastern Cottontail",76,82,1
 "Robust Cottontail",76,83,2
 "Manzano Mountain Cottontail",76,84,2
-"cognatus",76,84,2
+"Sylvilagus cognatus",76,84,2
 "Mexican Cottontail",76,86,1
 "Tres Marias Cottontail",76,87,2
 "Dice's Cottontail",76,91,1
@@ -114,20 +114,20 @@ name,fileindex,index,whichChild
 "Mountain Cottontail",76,99,1
 "Desert Cottontail",76,100,2
 "Collared Pika",76,131,1
-"collaris",76,131,1
-"comata",40,39,2
-"concolor",40,82,1
+"Ochotona collaris",76,131,1
+"Presbytis comata",40,39,2
+"Simias concolor",40,82,1
 "Olive Colobus",40,103,2
 "White-thighed Colobus",40,108,1
-"Colobus",40,108,1
+"Colobus vellerosus",40,108,1
 "King Colobus",40,109,2
-"Colobus",40,109,2
-"Colobus",40,110,2
+"Colobus polykomos",40,109,2
+"Colobus guereza",40,110,2
 "Angola Colobus",40,111,2
-"Colobus",40,111,2
+"Colobus angolensis",40,111,2
 "Black Colobus",40,112,2
-"Colobus",40,112,2
-"concolor",37,22,1
+"Colobus satanas",40,112,2
+"Nomascus concolor",37,22,1
 "Common Marmoset",38,14,2
 "Cotton-headed Tamarin",38,54,1
 "Coastal Black-handed Titi",38,80,2
@@ -139,64 +139,64 @@ name,fileindex,index,whichChild
 "Coppery Titi Monkey",42,29,1
 "Common Woolly Monkey",42,75,1
 "Colombian Woolly Monkey",42,76,2
-"coibensis",42,104,2
+"Alouatta coibensis",42,104,2
 "Colombian Red Howler Monkey",42,107,1
 "Collared Brown Lemur",36,18,2
-"collaris",36,18,2
-"coronatus",36,24,2
+"Eulemur collaris",36,18,2
+"Eulemur coronatus",36,24,2
 "Coquerel's Sifaka",35,105,2
-"coquereli",35,105,2
+"Propithecus coquereli",35,105,2
 "Coquerel's Giant Mouse Lemur",35,128,2
-"coquereli",35,128,2
-"coucang",39,41,2
+"Mirza coquereli",35,128,2
+"Nycticebus coucang",39,41,2
 "Common Treeshrew",35,169,2
 "Common Woolly Bat",53,36,1
 "Copper Woolly Bat",53,37,2
-"Corynorhinus",53,137,1
-"Corynorhinus",53,138,2
-"Corynorhinus",53,139,2
-"collinus",54,15,2
+"Corynorhinus townsendii",53,137,1
+"Corynorhinus mexicanus",53,138,2
+"Corynorhinus rafinesquii",53,139,2
+"Pipistrellus collinus",54,15,2
 "Coromandel Pipistrelle",54,19,2
-"coromandra",54,19,2
+"Pipistrellus coromandra",54,19,2
 "Common Pipistrelle",54,32,1
 "Coppery Sprite",56,57,2
 "Common Thick-thumbed Bat",53,209,1
-"cobanensis",73,91,1
-"collinus",73,182,2
+"Myotis cobanensis",73,91,1
+"Scotophilus collinus",73,182,2
 "Common Bentwing Bat",45,34,2
 "Coiban Mastiff Bat",62,17,2
-"coibensis",62,17,2
-"condylurus",62,100,2
-"congicus",62,101,2
-"concolor",67,28,2
+"Molossus coibensis",62,17,2
+"Mops condylurus",62,100,2
+"Mops congicus",62,101,2
+"Artibeus concolor",67,28,2
 "Commissaris's Long-tongued Bat",69,34,2
-"commissarisi",69,34,2
+"Glossophaga commissarisi",69,34,2
 "Cozumelan Golden Bat",67,146,1
-"cozumelae",67,146,1
+"Mimon cozumelae",67,146,1
 "Common Big-eared Bat",67,174,2
 "Common Sword-nosed Bat",67,199,2
 "Common Vampire Bat",67,206,2
 "Common Mustached Bat",67,216,2
 "Commerson's Leaf-nosed Bat",61,10,1
-"commersoni",61,10,1
-"corynophyllus",61,34,2
+"Hipposideros commersoni",61,10,1
+"Hipposideros corynophyllus",61,34,2
 "Cox's Leaf-nosed Bat",58,49,2
-"coxi",58,49,2
-"coronatus",58,63,1
-"Coelops",58,91,1
-"Coelops",58,92,2
-"coelophyllus",59,63,2
-"cognatus",58,118,2
-"cornutus",58,125,2
-"cor",45,78,1
-"Cormura",71,22,2
-"Coleura",71,47,1
-"Coleura",71,48,2
+"Hipposideros coxi",58,49,2
+"Hipposideros coronatus",58,63,1
+"Coelops robinsoni",58,91,1
+"Coelops frithii",58,92,2
+"Rhinolophus coelophyllus",59,63,2
+"Rhinolophus cognatus",58,118,2
+"Rhinolophus cornutus",58,125,2
+"Cardioderma cor",45,78,1
+"Cormura brevirostris",71,22,2
+"Coleura seychellensis",71,47,1
+"Coleura afra",71,48,2
 "Common Sheath-tailed Bat",71,82,2
 "Coastal Sheath-tailed Bat",71,83,2
 "Comoro Black Flying Fox",57,16,2
-"conspicillatus",57,31,1
-"cognatus",57,108,2
+"Pteropus conspicillatus",57,31,1
+"Pteropus cognatus",57,108,2
 "Common Blossom Bat",45,110,2
 "Comoro Rousette",70,61,2
 "East African Little Collared Fruit Bat",70,65,1
@@ -204,77 +204,77 @@ name,fileindex,index,whichChild
 "Sao Tome Collared Fruit Bat",70,67,2
 "Common Tube-nosed Bat",46,68,2
 "Common Wildebeest",64,82,1
-"Connochaetes",64,82,1
-"Connochaetes",64,83,2
+"Connochaetes taurinus",64,82,1
+"Connochaetes gnou",64,83,2
 "Common Duiker",65,34,2
 "Cows",63,72,2
 "Common Bottlenose Dolphin",75,17,2
-"coeruleoalba",75,19,1
+"Stenella coeruleoalba",75,19,1
 "Short-beaked Common Dolphin",75,23,1
 "Long-beaked Common Dolphin",75,24,2
 "Commerson's Dolphin",75,51,1
-"commersonii",75,51,1
+"Cephalorhynchus commersonii",75,51,1
 "Common Minke Whale",75,156,2
 "Common Hippopotamus",75,167,1
 "Common Warthog",72,28,2
 "Collared Peccary",72,40,2
 "Colombian Weasel",49,36,1
-"collaris",49,82,2
-"Conepatus",52,41,1
-"Conepatus",52,42,2
-"Conepatus",52,44,1
-"Conepatus",52,45,2
+"Arctonyx collaris",49,82,2
+"Conepatus humboldtii",52,41,1
+"Conepatus semistriatus",52,42,2
+"Conepatus leuconotus",52,44,1
+"Conepatus chinga",52,45,2
 "South American Coati",47,17,1
 "White-nosed Coati",47,18,2
 "Mountain Coati",47,19,2
 "Coyote",47,133,2
 "Corsac Fox",47,165,2
-"corsac",47,165,2
+"Vulpes corsac",47,165,2
 "Common Cusimanse",50,12,2
 "Common Dwarf Mongoose",50,18,2
 "Collared Mongoose",50,51,1
-"concolor",47,201,2
+"Salanoia concolor",47,201,2
 "Common Genet",51,22,2
 "Common Palm Civet",51,56,2
 "Colocolo",48,40,2
-"colocolo",48,40,2
-"concolor",48,78,2
+"Leopardus colocolo",48,40,2
+"Puma concolor",48,78,2
 "Congo Shrew",88,84,2
-"congobelgica",88,84,2
+"Crocidura congobelgica",88,84,2
 "Greater Congo Shrew",87,37,2
-"Congosorex",87,37,2
+"Congosorex polli",87,37,2
 "Common Shrew",86,16,2
-"coronatus",86,18,2
-"concolor",85,54,2
+"Sorex coronatus",86,18,2
+"Erinaceus concolor",85,54,2
 "Collared Hedgehog",85,74,2
-"collaris",85,74,2
+"Hemiechinus collaris",85,74,2
 "Common Mole",85,127,1
 "Coast Mole",85,147,2
-"Condylura",85,157,2
+"Condylura cristata",85,157,2
 "Common Long-nosed Armadillo",0,39,1
 "Collared Anteater",0,62,1
 "Cowan's Shrew Tenrec",34,15,2
-"cowani",34,15,2
+"Microgale cowani",34,15,2
 "Common Tenrec",34,46,2
-"corriae",34,59,2
+"Amblysomus corriae",34,59,2
 "Congo Golden Mole",34,77,2
-"concinna",43,33,1
+"Petrogale concinna",43,33,1
 "Common Wallaroo",43,71,2
-"conspicillatus",43,82,1
+"Lagorchestes conspicillatus",43,82,1
 "Common Ringtail Possum",43,149,2
-"coronatus",43,156,2
+"Pseudochirops coronatus",43,156,2
 "Coppery Ringtail",43,159,2
-"corinnae",43,160,2
+"Pseudochirops corinnae",43,160,2
 "Eastern Common Cuscus",44,10,1
 "Northern Common Cuscus",44,11,2
 "Southern Common Cuscus",44,12,2
 "Common Spotted Cuscus",44,24,1
 "Common Brushtail Possum",44,35,1
-"concinnus",43,197,1
+"Cercartetus concinnus",43,197,1
 "Common Wombat",43,207,2
 "Common Dunnart",84,87,2
 "Common Planigale",84,126,2
 "Common Echymipera",0,136,2
-"convelatus",0,165,2
+"Caenolestes convelatus",0,165,2
 "Common Fat-tailed Mouse Opossum",1,63,2
-"constantiae",1,137,2
+"Micoureus constantiae",1,137,2
