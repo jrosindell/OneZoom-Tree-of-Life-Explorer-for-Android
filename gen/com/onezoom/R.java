@@ -37,6 +37,9 @@ public final class R {
         public static final int reload=0x7f02000d;
         public static final int reset=0x7f02000e;
         public static final int searchcolor=0x7f02000f;
+        public static final int tree_common_switch=0x7f020010;
+        public static final int zoomin=0x7f020011;
+        public static final int zoomout=0x7f020012;
     }
     public static final class id {
         public static final int TabHost01=0x7f090003;
@@ -47,27 +50,30 @@ public final class R {
         public static final int grow_play=0x7f09000c;
         public static final int grow_reverse=0x7f09000a;
         public static final int grow_stop=0x7f09000d;
-        public static final int information=0x7f090016;
+        public static final int information=0x7f09001a;
         public static final int listView02=0x7f090005;
         public static final int list_view_02_row_table_layout=0x7f090007;
         public static final int list_view_02_row_table_row=0x7f090008;
         public static final int list_view_02_row_text_view=0x7f090009;
         public static final int listview=0x7f090000;
-        public static final int reload_page=0x7f090019;
-        public static final int reset=0x7f090017;
+        public static final int reload_page=0x7f09001c;
+        public static final int reset=0x7f090019;
         public static final int search_backward_tree=0x7f090011;
-        public static final int search_backward_web=0x7f09001a;
+        public static final int search_backward_web=0x7f09001d;
         public static final int search_close=0x7f090013;
         public static final int search_forward_tree=0x7f090012;
-        public static final int search_forward_web=0x7f09001b;
+        public static final int search_forward_web=0x7f09001e;
         public static final int search_main_tree=0x7f090014;
         public static final int search_tree=0x7f090010;
-        public static final int search_web=0x7f090018;
+        public static final int search_web=0x7f09001b;
         public static final int textView01=0x7f090004;
         public static final int textView03=0x7f090006;
+        public static final int tree_common_switch=0x7f090016;
         public static final int tree_view=0x7f090001;
-        public static final int web_back_to_tree=0x7f09001c;
+        public static final int web_back_to_tree=0x7f09001f;
         public static final int webview=0x7f090002;
+        public static final int zoomin=0x7f090017;
+        public static final int zoomout=0x7f090018;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;

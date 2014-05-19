@@ -7,6 +7,7 @@ import com.onezoom.midnode.LinkHandler;
 import com.onezoom.midnode.Search;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
+import com.onezoom.midnode.Visualizer;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -187,7 +188,7 @@ public class CanvasActivity extends Activity{
 
 		//set the tree position to fit in the screen.
 		resetTreeRootPosition();
-		
+		System.out.println("Init tree here");
 		//Initialize from file index '0'. 
 		//For example, if user select mammals, then initialize from 'mammalsinterior0'
 		fulltree = MidNode.startLoadingTree();
@@ -282,11 +283,27 @@ public class CanvasActivity extends Activity{
 			growing = true;
 			invalidateOptionsMenu();
 			break;
-		case R.id.information:
-			popupInformationDialog();
+		case R.id.tree_common_switch:
+			Visualizer.setUsingCommon(!Visualizer.isUsingCommon());
+			treeView.setDuringInteraction(false);
+			treeView.invalidate();
+			break;
+		case R.id.zoomin:
+			//set during interaction as false, otherwise won't be refreshed.
+			//it is poorly designed.
+			//TODO: may use other variables later.
+			treeView.setDuringInteraction(false);
+			treeView.zoomin(TreeView.FACTOR);
+			break;
+		case R.id.zoomout:
+			treeView.setDuringInteraction(false);
+			treeView.zoomin(1f/TreeView.FACTOR);
 			break;
 		case R.id.reset:
 			resetTree();
+			break;
+		case R.id.information:
+			popupInformationDialog();
 			break;
 			
 		

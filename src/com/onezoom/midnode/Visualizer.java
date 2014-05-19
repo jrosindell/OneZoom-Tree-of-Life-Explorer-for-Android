@@ -25,6 +25,7 @@ public class Visualizer{
 	private static final float thresholdDrawTextDetailLeaf = 140f;
 	private static final float rangeBaseForDrawSignPost = 120f;
 	private static final boolean drawSignPost = true;
+	private static boolean usingCommon = true;
 		
 	public Visualizer() {
 		paint = new Paint();
@@ -36,6 +37,14 @@ public class Visualizer{
 		signTextPaint = new Paint();
 		signTextPaint.setColor(Color.BLACK);
 		path = new Path();
+	}
+	
+	public static boolean isUsingCommon() {
+		return usingCommon;
+	}
+
+	public static void setUsingCommon(boolean usingCommon) {
+		Visualizer.usingCommon = usingCommon;
 	}
 	
 	public static float getThresholddrawtextdetailleaf() {
@@ -114,6 +123,7 @@ public class Visualizer{
 	 */
 	private void drawCircle(InteriorNode midNode) {
 		float r = midNode.positionData.rvar;
+		if (r < Visualizer.thresholdDrawTextRoughCircle) return;
 		float R = r * midNode.positionData.arcr;
 		float centerX = midNode.positionData.xvar + r * midNode.positionData.arcx;
 		float centerY = midNode.positionData.yvar + r * midNode.positionData.arcy;
@@ -270,7 +280,7 @@ public class Visualizer{
 					 *  and it has a common name, then draw sign post on this node
 					 */
 				
-					if (!midNode.traitsCalculator.getCname().equals("null")) {
+					if (!Utility.equalsNull(midNode.traitsCalculator.getCname()) && isUsingCommon()) {
 						drawSignPostCircle(r, x, y, midNode);
 						drawSignPostText(r, x, y, midNode);
 						
@@ -278,6 +288,16 @@ public class Visualizer{
 						 * prevent signpost passing down to its descendants
 						 */
 						signdrawn = true;  
+					} else if (
+							(!Utility.equalsNull(midNode.traitsCalculator.getName1()))
+									&& !isUsingCommon()) {
+						drawSignPostCircle(r, x, y, midNode);
+						drawSignPostText(r, x, y, midNode);
+						
+						/**
+						 * prevent signpost passing down to its descendants
+						 */
+						signdrawn = true; 
 					}
 
 				} else if (r * radius < 1f * rangeBaseForDrawSignPost) {
@@ -324,9 +344,11 @@ public class Visualizer{
 		float centerY = y + r * (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
 		float radius = r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
 
-		if (midNode.traitsCalculator.getSignName() == null)
+		if (isUsingCommon())
 			midNode.traitsCalculator.setSignName(splitStringToAtMostThreeParts(midNode.traitsCalculator.getCname()));
-		drawTextMultipleLines(midNode.traitsCalculator.getSignName(), centerX, centerY, 2f * radius, signTextPaint);
+		else 
+			midNode.traitsCalculator.setSignName(splitStringToAtMostThreeParts(midNode.traitsCalculator.getName1()));
+		drawTextMultipleLines(midNode.traitsCalculator.getSignName(), centerX, centerY, 1.85f * radius, signTextPaint);
 	}
 	
 	/**
@@ -346,10 +368,17 @@ public class Visualizer{
 		drawTextOneLine(outputInfo, startX + radius, startY + 0.5f * radius,
 				radius, textPaint);
 
-		if (!midNode.traitsCalculator.getCname().equals("null")) {
+		/**
+		 * Branch 1 and 2 corresponding to common and latin name
+		 */
+		if (isUsingCommon() && !Utility.equalsNull(midNode.traitsCalculator.getCname())) {
 			outputInfo = midNode.traitsCalculator.getCname();
 			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 0.9f * radius,
 					0.4f * radius, 1.65f * radius, textPaint);		
+		} else if (!isUsingCommon() && !Utility.equalsNull(midNode.traitsCalculator.getName1())) {
+			outputInfo = midNode.traitsCalculator.getName1();
+			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 0.9f * radius,
+					0.4f * radius, 1.65f * radius, textPaint);	
 		} else {
 			outputInfo = String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " Mya";
 			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 1.1f * radius,
@@ -370,8 +399,25 @@ public class Visualizer{
 		float startY = y + midNode.positionData.arcr / 2f + r * midNode.positionData.arcy - radius * 0.6f;
 		float lineHeight = radius;
 		String commonName = midNode.traitsCalculator.getCname();
-	
-		if (!commonName.equals("null") && !commonName.equals("")) {
+		String latinName = midNode.traitsCalculator.getName1();
+		boolean hasName = !Utility.equalsNull(commonName) || !Utility.equalsNull(latinName);
+		boolean hasBothName = !Utility.equalsNull(commonName) && !Utility.equalsNull(latinName);
+		String[] name = new String[2];
+		if (hasName) {
+			if (hasBothName && isUsingCommon()) {
+				name[0] = commonName;
+				name[1] = latinName;
+			} else if (hasBothName && !isUsingCommon()) {
+				name[0] = latinName;
+				name[1] = commonName;
+			} else if (!Utility.equalsNull(commonName)) {
+				name[0] = commonName;
+			} else {
+				name[0] = latinName;
+			}
+		}
+		
+		if (hasName) {
 			
 			/**
 			 * First draw geological age.
@@ -385,13 +431,18 @@ public class Visualizer{
 			 */
 			this.drawTextOneLine(String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
 					startX, startY, lineHeight * 1.7f, textPaint);
-			startY += lineHeight / 2.5f;
+			startY += lineHeight / 3.1f;
 			
 			/**
 			 * Draw common name
 			 */
-			this.drawTextOnTwoLines(commonName, 
-					startX, startY,lineHeight / 3f, lineHeight * 1.5f, textPaint);	
+			if (hasBothName) 
+				this.drawTextOnTwoLines(name, 
+						startX, startY,lineHeight / 3f, lineHeight * 1.55f, textPaint);
+			else
+				this.drawTextOnTwoLines(name[0], 
+						startX, startY,lineHeight / 3f, lineHeight * 1.7f, textPaint);
+			
 			startY += lineHeight / 1.5f;
 			
 			/**
@@ -442,12 +493,25 @@ public class Visualizer{
 		String latinName = midNode.traitsCalculator.getLatinName();
 		String commonName = midNode.traitsCalculator.getCname();
 		
-		if (!commonName.equals("null") && !commonName.equals("")) {
+		
+		if (isUsingCommon() && !Utility.equalsNull(commonName)) {
+			//switch to common name and common name is not null
 			drawTextMultipleLines(commonName.split(" "), startX, startY, lineHeight,
 					lineWidth, textPaint);
 			return;
-		} else if (!latinName.equals("null") && !latinName.equals("")) {
+		} else if (isUsingCommon() && !Utility.equalsNull(latinName)) {
+			//switch to common but no common name and latin name is available.
 			drawTextMultipleLines(latinName.split(" "), startX, startY, lineHeight,
+					lineWidth, textPaint);
+			return;
+		} else if (!isUsingCommon() && !Utility.equalsNull(latinName)) {
+			//switch to latin name and latin name is available
+			drawTextMultipleLines(latinName.split(" "), startX, startY, lineHeight,
+					lineWidth, textPaint);
+			return;
+		} else if (!isUsingCommon() && !Utility.equalsNull(commonName)) {
+			//switch to latin name and no latin name and common name is available.
+			drawTextMultipleLines(commonName.split(" "), startX, startY, lineHeight,
 					lineWidth, textPaint);
 			return;
 		} else {
@@ -477,44 +541,40 @@ public class Visualizer{
 		String latinName = midNode.traitsCalculator.getLatinName();
 		String commonName = midNode.traitsCalculator.getCname();
 		String conservationString = Utility.conservationStatus(midNode);
-
-		if( !commonName.equals("null") && !commonName.equals("")){
-			/**
-			 * Draw wiki link and arkive link
-			 */
-			drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
-			drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
-			
-			/**
-			 * Draw latin name, common name and conservation status.
-			 */
-			startY += lineWidth / 6f;
-			drawTextOneLine(latinName, startX, startY, lineWidth / 1.5f, textPaint);
-			startY += lineHeight / 5f;
-			drawTextOnTwoLines(commonName, startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
-			startY += lineHeight / 3f;
-			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
-		}
-		else {
-			
-			/**
-			 * Draw wiki link and arkive link
-			 */
-			drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
-			drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
-			startY += lineHeight / 6f;
-			
-			/**
-			 * Draw common name, latin name and conservation status.
-			 */
-			drawTextOneLine("no common name", startX, startY, lineWidth / 1.5f, textPaint);
-			startY += lineHeight / 5f;
-			drawTextOnTwoLines(latinName,
-					startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
-			startY += lineHeight / 3f;
-			drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
-		}
+		String smallName, bigName;
 		
+		if (isUsingCommon()) {
+			if (!Utility.equalsNull(commonName)) {
+				bigName = commonName;
+				smallName = latinName;
+			} else {
+				bigName = latinName;
+				smallName = "No Common Name";
+			}
+		} else {
+			bigName = latinName;
+			if (!Utility.equalsNull(commonName)) {
+				smallName = commonName;
+			} else {
+				smallName = "No Common Name";
+			}
+		}
+
+		/**
+		 * Draw wiki link and arkive link
+		 */
+		drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
+		drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
+		
+		/**
+		 * Draw latin name, common name and conservation status.
+		 */
+		startY += lineWidth / 6f;
+		drawTextOneLine(smallName, startX, startY, lineWidth / 1.70f, textPaint);
+		startY += lineHeight / 5f;
+		drawTextOnTwoLines(bigName, startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
+		startY += lineHeight / 3f;
+		drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
 	}
 
 	/**
@@ -581,14 +641,14 @@ public class Visualizer{
 		} else if (pieces.length == 2) {
 			drawTextOnTwoLines(pieces, startX, startY, lineHeight, lineWidth, textPaint);
 		} else if (pieces.length == 1) {
-			drawTextOneLine(pieces[0], startX, startY + lineHeight / 2f, lineWidth, textPaint, 7);
+			drawTextOneLine(pieces[0], startX, startY + lineHeight / 2f, lineWidth, textPaint, 10);
 		}
 	}
 	
 	private void drawTextOnTwoLines(String[] text, float startX, float startY, float lineHeight,
 			float lineWidth, Paint textPaint) {
-		drawTextOneLine(text[0], startX, startY, lineWidth, textPaint, 7);
-		drawTextOneLine(text[1], startX, startY + lineHeight, lineWidth, textPaint, 7);
+		drawTextOneLine(text[0], startX, startY, lineWidth, textPaint, 10);
+		drawTextOneLine(text[1], startX, startY + lineHeight, lineWidth, textPaint, 10);
 	}
 
 	private void drawTextOneLine(String text, float startX, float startY,

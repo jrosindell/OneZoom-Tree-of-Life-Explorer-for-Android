@@ -7,31 +7,11 @@ import android.view.MotionEvent;
 
 public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureListener{
 	private TreeView treeView;
-	private static final float FACTOR = 1.4f;
 	public TreeViewGestureListener(TreeView v) {
 		super();
 		treeView = v;
 	}
 
-	/**
-	 * Zoom in the tree.
-	 */
-	@Override
-	public boolean onDoubleTap(MotionEvent e) {
-		float currentXp = e.getX();
-		float currentYp = e.getY();
-		
-		float shiftXp = currentXp + (PositionData.getXp() - currentXp) * FACTOR - PositionData.getXp();
-		float shiftYp = currentYp + (PositionData.getYp() - currentYp) * FACTOR - PositionData.getYp();
-		
-		treeView.setScaleX(treeView.getScaleX() * FACTOR);
-		treeView.setScaleY(treeView.getScaleY() * FACTOR);	
-		treeView.setScaleCenterX(currentXp);
-		treeView.setScaleCenterY(currentYp);
-		
-		treeView.zoomin(FACTOR, shiftXp, shiftYp);
-		return true;
-	}
 
 	/**
 	 * Drag the tree
@@ -66,6 +46,19 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 			treeView.client.hideTreeView();
 			treeView.client.loadLinkURL();
 			treeView.client.displayWebView();	
+		} else {
+			float currentXp = e.getX();
+			float currentYp = e.getY();
+			
+			float shiftXp = currentXp + (PositionData.getXp() - currentXp) * TreeView.FACTOR - PositionData.getXp();
+			float shiftYp = currentYp + (PositionData.getYp() - currentYp) * TreeView.FACTOR - PositionData.getYp();
+			
+			treeView.setScaleX(treeView.getScaleX() * TreeView.FACTOR);
+			treeView.setScaleY(treeView.getScaleY() * TreeView.FACTOR);	
+			treeView.setScaleCenterX(currentXp);
+			treeView.setScaleCenterY(currentYp);
+			
+			treeView.zoomin(TreeView.FACTOR, shiftXp, shiftYp);
 		}
 		
 		return super.onSingleTapConfirmed(e);

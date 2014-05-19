@@ -153,6 +153,14 @@ public class Utility {
         fileIndex = fileIndex << 10;
         result = result | fileIndex;
         return result;
-}
+	}
+	
+	public static boolean equalsNull(String text) {
+		if (text == null || text.equals("null") || text.equals("")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
 
 }

@@ -11,17 +11,35 @@
         android:title = "@string/search_hint"
         android:icon = "@drawable/growcolor"
         android:showAsAction="always" /> 
+          
+     <item
+        android:id = "@+id/tree_common_switch"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/tree_common_switch"
+        android:showAsAction="always"/> 
         
      <item 
-        android:id = "@+id/information"
+        android:id = "@+id/zoomin"
         android:title = "@string/search_hint"
-        android:icon = "@drawable/main_information"
+        android:icon = "@drawable/zoomin"
         android:showAsAction="always" /> 
-          
+        
+     <item
+        android:id = "@+id/zoomout"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/zoomout"
+        android:showAsAction="always" /> 
+    
      <item 
          android:id = "@+id/reset"
          android:title = "@string/search_hint"
          android:icon = "@drawable/reset"
          android:showAsAction="always" />
+     
+     <item 
+        android:id = "@+id/information"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/main_information"
+        android:showAsAction="always" /> 
 
 </menu>

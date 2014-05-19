@@ -118,6 +118,7 @@ class MemoryHandler extends Handler {
 		 * Before initialization needs to create the static objects in MidNode class.
 		 */
 		case MemoryThread.MSG_INITIALIZATION:
+			System.out.println("init -> create static initializer");
 			MidNode.createStaticObjects();
 			client.initialization();
 			client.treeView.postInvalidate();

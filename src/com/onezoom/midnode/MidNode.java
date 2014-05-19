@@ -90,6 +90,7 @@ public abstract class MidNode implements Comparable<MidNode>{
 	 * Unlink current initializer. Called when the activity is being destroyed.
 	 */
 	public static void destory() {
+		System.out.println("init -> destroy static initializer");
 		initializer = null;
 	}
 

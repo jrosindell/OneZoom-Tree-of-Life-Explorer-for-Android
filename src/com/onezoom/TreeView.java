@@ -36,6 +36,7 @@ public class TreeView extends View {
 	private Paint paint;
 	private boolean toggle = true;
 	private float distanceX, distanceY, scaleX, scaleY, scaleCenterX, scaleCenterY;
+	public static final float FACTOR = 1.4f;
 	public static boolean onScale;
 	
 	
@@ -231,7 +232,7 @@ public class TreeView extends View {
 			this.distanceY = 0;
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
-			canvas.drawColor(Color.WHITE);
+			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 			MidNode.visualizer.drawTree(canvas, client.getTreeRoot());
 			if (this.isDuringGrowthAnimation()) {
 				drawGrowthPeriodInfo(canvas, paint);
