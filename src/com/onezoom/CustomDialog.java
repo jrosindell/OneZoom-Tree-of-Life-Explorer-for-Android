@@ -1,5 +1,7 @@
 package com.onezoom;
 
+import com.fscz.util.TextViewEx;
+
 import android.app.Dialog;
 import android.content.Context;
 import android.text.method.ScrollingMovementMethod;
@@ -48,15 +50,15 @@ public class CustomDialog extends Dialog
         setContentView(R.layout.custom_dialog_layout);
 
         // instantiate our list views for each tab
-        TextView textView01 = (TextView)findViewById(R.id.textView01);
+        TextViewEx textView01 = (TextViewEx)findViewById(R.id.textView01);
         ListView listView02 = (ListView)findViewById(R.id.listView02);
-        TextView textView03 = (TextView)findViewById(R.id.textView03);
+        TextViewEx textView03 = (TextViewEx)findViewById(R.id.textView03);
         
         // register a context menu for all our listView02 items
         registerForContextMenu(listView02);
 
         //set text for tab1 and enable scrolling
-        textView01.setText(Information.guide);
+        textView01.setText(Information.guide, true);
         textView01.setMovementMethod(new ScrollingMovementMethod());
         
      
@@ -65,7 +67,7 @@ public class CustomDialog extends Dialog
 
         
         //set text for tab3 and enable scrolling
-        textView03.setText(Information.authorAndCredit);
+        textView03.setText(Information.authorAndCredit, true);
         textView03.setMovementMethod(new ScrollingMovementMethod());
         
         // get our tabHost from the xml

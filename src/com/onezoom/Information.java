@@ -23,7 +23,8 @@ public class Information {
 			"\n" + 
 			"Pressing the search button will reveal further options for searching for a species of particular interest.  You can type in any scientific or common name to the search field using your on screen keyboard.  The left and right arrow buttons then enable you to move through the list of search hits in the tree.  The back button again returns you to the main menu, hiding the search control buttons.\n" + 
 			"\n" + 
-			"To explore OneZoom using the mouse on your desktop or laptop, please use the website www.onezoom.org";
+			"To explore OneZoom using the mouse on your desktop or laptop, please use the website www.onezoom.org.\n"
+			+"\n";
 	
 	public static final int [] Colors = {
 		Color.argb(255, 0, 180, 20),  //LC
@@ -79,5 +80,6 @@ public class Information {
 			"\n" + 
 			"Conservation status data: IUCN (2012) The IUCN Red List of Threatened Species. Version 2012.1. Available: http://www.iucnredlist.org. Downloaded on 25 May 2012\n" + 
 			"\n" + 
-			"Tree viewing software: Rosindell, J and Harmon, LJ (2012) OneZoom: A Fractal Explorer for the Tree of Life PLoS Biology";
+			"Tree viewing software: Rosindell, J and Harmon, LJ (2012) OneZoom: A Fractal Explorer for the Tree of Life PLoS Biology.\n"
+			+"\n";
 }
