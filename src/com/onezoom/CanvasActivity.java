@@ -2,6 +2,12 @@ package com.onezoom;
 
 
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
 import com.onezoom.midnode.Initializer;
 import com.onezoom.midnode.LinkHandler;
 import com.onezoom.midnode.Search;
@@ -14,6 +20,8 @@ import android.app.Dialog;
 import android.app.SearchManager;
 import android.content.Context;
 import android.content.res.Configuration;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -175,6 +183,10 @@ public class CanvasActivity extends Activity{
 	 */
 	@Override
 	protected void onDestroy() {
+		storeBitmapToFile();
+		if (treeView.getInitBitmap() != null) {
+			treeView.getInitBitmap().recycle();
+		}
 		if (previousToast != null)
 			previousToast.cancel();
 		super.onDestroy();
@@ -590,5 +602,84 @@ public class CanvasActivity extends Activity{
 	public void setQueryOfCurrentSearchView() {
 		if (this.currentSearchView != null)
 			this.currentSearchView.setQuery(this.searchEngine.getPreviousSearch(), false);
+	}
+	
+	/**
+	 * Read bitmap from file. 
+	 * This is a initial image of each tree. 
+	 * Reading it to display the initial tree in order to reduce loading time.
+	 */
+	void readBitmapFromFile() {
+		FileInputStream inputStream = null;
+		try {
+			File file1;
+			if (orientation == Configuration.ORIENTATION_PORTRAIT) {
+				file1 = new File(getExternalFilesDir(null), selectedItem
+						+ "portrait" + ".jpg");
+			} else {
+				file1 = new File(getExternalFilesDir(null), selectedItem
+						+ "landscape" + ".jpg");
+			}
+			System.out.println("file name -> " + file1.getName());
+			//If the bitmap does not exist, then return and bitmap would be null
+			if (file1 != null && !file1.exists())
+				return;
+			inputStream = new FileInputStream(file1);
+			// Read object using ObjectInputStream
+			treeView.setInitBitmap(BitmapFactory.decodeStream(inputStream));
+			treeView.setCachedBitmap(treeView.getInitBitmap());
+		} catch (FileNotFoundException e) {
+		} finally {
+			if (inputStream != null) {
+				try {
+					inputStream.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+				inputStream = null;
+			}
+		}
+	}
+	
+	/**
+	 * Store bitmap into file.
+	 */
+	void storeBitmapToFile() {
+		try {
+			File file1;
+			if (orientation == Configuration.ORIENTATION_PORTRAIT) {
+				file1 = new File(getExternalFilesDir(null), selectedItem
+						+ "portrait" + ".jpg");
+			} else {
+				file1 = new File(getExternalFilesDir(null), selectedItem
+						+ "landscape" + ".jpg");
+			}
+
+			if (file1 != null && file1.exists() && !treeView.isTreeBeingInitialized())
+				return;
+			FileOutputStream outputStream;
+			outputStream = new FileOutputStream(file1);
+
+			resetTreeRootPosition();
+			this.getTreeRoot().recalculate();
+			treeView.setRefreshNeeded(true);
+			treeView.setToggle(false);
+			
+			if (treeView.getInitBitmap() != null)
+				treeView.getInitBitmap().recycle();
+
+			treeView.setInitBitmap(treeView.loadBitmapFromView(treeView));
+			if (treeView.getInitBitmap() != null && !treeView.getInitBitmap().isRecycled()) {
+				treeView.getInitBitmap().compress(Bitmap.CompressFormat.PNG, 100,
+						outputStream);
+				treeView.getInitBitmap().recycle();
+			}
+			outputStream.close();
+			outputStream = null;
+		} catch (FileNotFoundException e) {
+		} catch (IOException e) {
+		} catch (NullPointerException e) {
+			System.out.println("null pointer");
+		}
 	}
 }

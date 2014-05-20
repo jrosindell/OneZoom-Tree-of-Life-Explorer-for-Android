@@ -37,6 +37,15 @@ public class MemoryThread extends Thread {
 	public void run() {
 		Looper.prepare();
 		handler = new MemoryHandler(client);
+		
+		handler.post(new Runnable() {
+			@Override
+			public void run() {
+				client.readBitmapFromFile();
+				client.treeView.postInvalidate();
+			}
+		});
+		
 		handler.sendEmptyMessage(MSG_INITIALIZATION);
 		Looper.loop();
 		super.run();
@@ -117,7 +126,9 @@ class MemoryHandler extends Handler {
 		 */
 		case MemoryThread.MSG_INITIALIZATION:
 			client.initialization();
-			client.treeView.postInvalidate();
+			if (client.treeView.getInitBitmap() == null) {
+				client.treeView.postInvalidate();
+			}
 			if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
 				this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,1000);
 			break;
@@ -157,7 +168,6 @@ class MemoryHandler extends Handler {
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				client.treeView.setDuringRecalculation(true);
 				client.getTreeRoot().recalculate();
-//				client.getTreeRoot().recalculateDynamic();
 				client.treeView.setDuringRecalculation(false);
 				client.treeView.postInvalidate();
 				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)

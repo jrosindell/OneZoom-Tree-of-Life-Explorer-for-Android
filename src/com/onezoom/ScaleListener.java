@@ -42,8 +42,6 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 		treeView.setScaleCenterX(currentXp);
 		treeView.setScaleCenterY(currentYp);
 		
-		System.out.println("scale xp -> " + currentXp);
-		System.out.println("scale yp -> " + currentYp);
 		treeView.zoomin(scaleFactor, shiftXp, shiftYp);
 		return true;
 	}

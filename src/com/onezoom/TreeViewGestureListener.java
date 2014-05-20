@@ -19,7 +19,7 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 	@Override
 	public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
 			float distanceY) {
-		if (Math.abs(distanceY) + Math.abs(distanceX) < 7) {
+		if (Math.abs(distanceY) + Math.abs(distanceX) < 15) {
 			//disturbance ignore.
 			return true;
 		}

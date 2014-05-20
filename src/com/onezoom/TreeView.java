@@ -35,6 +35,7 @@ public class TreeView extends View {
 	private boolean duringGrowthAnimation = false;
 	private boolean refreshNeeded = true;
 	private Bitmap cachedBitmap;
+	private Bitmap initBitmap;
 	private Paint paint;
 	private boolean toggle = true;
 	private float distanceX, distanceY, scaleX, scaleY, scaleCenterX, scaleCenterY;
@@ -43,6 +44,14 @@ public class TreeView extends View {
 	public boolean onDrag;
 	private boolean lastActionAsScale;
 	
+	public boolean isToggle() {
+		return toggle;
+	}
+
+	public void setToggle(boolean toggle) {
+		this.toggle = toggle;
+	}
+
 	
 	public TreeView(Context context) {
 		super(context);
@@ -64,9 +73,23 @@ public class TreeView extends View {
 		gestureDetector = new GestureDetector(context, new TreeViewGestureListener(this));
 		scaleDetector = new ScaleGestureDetector(context, new ScaleListener(this));
 		//this will not be used. set to 1,1 to speed up the app
-		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); 
+		cachedBitmap = Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888); 
+		this.resetDragScaleParameter();
 		paint = new Paint();
 	}
+	
+	public void setCachedBitmap(Bitmap cachedBitmap) {
+		this.cachedBitmap = cachedBitmap;
+	}
+	
+	public Bitmap getInitBitmap() {
+		return initBitmap;
+	}
+
+	public void setInitBitmap(Bitmap initBitmap) {
+		this.initBitmap = initBitmap;
+	}
+
 	
 	public boolean isRefreshNeeded() {
 		return refreshNeeded;
@@ -155,6 +178,13 @@ public class TreeView extends View {
 	public void setDuringRecalculation(boolean duringRecalculation) {
 		this.duringRecalculation = duringRecalculation;
 	}
+	
+	private void resetDragScaleParameter() {
+		this.scaleX = 1;
+		this.scaleY = 1;
+		this.distanceX = 0;
+		this.distanceY = 0;
+	}
 
 	/**
 	 * When user finger is on the screen, set duringInteraction as true. 
@@ -201,13 +231,15 @@ public class TreeView extends View {
 	@Override
 	protected void onDraw(Canvas canvas) {
 		super.onDraw(canvas);
-		if (!treeBeingInitialized) {
+		if (!treeBeingInitialized && this.getInitBitmap() == null) {
 			drawLoading(canvas);
+		} else if (!treeBeingInitialized && !this.getInitBitmap().isRecycled()) {
+			drawUsingCachedBitmap(canvas, this.getInitBitmap());
 		} else {
 			if (!duringRecalculation && !duringInteraction && refreshNeeded){
 				drawElementAndCache(canvas);
 			} else {
-				drawUsingCachedBitmap(canvas);
+				drawUsingCachedBitmap(canvas, this.cachedBitmap);
 			}
 		}
 	}
@@ -237,17 +269,14 @@ public class TreeView extends View {
 	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
-			drawUsingCachedBitmap(canvas);
+			drawUsingCachedBitmap(canvas, cachedBitmap);
 			
 			/**
 			 * The tree is going to be redrawn using real data
 			 * and a new bitmap will be cached, therefore, the scale variables should be reset.
 			 * 
 			 */
-			this.scaleX = 1;
-			this.scaleY = 1;
-			this.distanceX = 0;
-			this.distanceY = 0;
+			this.resetDragScaleParameter();
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
@@ -266,13 +295,13 @@ public class TreeView extends View {
 	 * Scale and translate the bitmap to give a user preview of the tree.
 	 * @param canvas
 	 */
-	private void drawUsingCachedBitmap(Canvas canvas) {
+	private void drawUsingCachedBitmap(Canvas canvas, Bitmap cached) {
 		if (this.lastActionAsScale)
 			canvas.translate(distanceX*scaleX, distanceY*scaleY);
 		else
 			canvas.translate(distanceX*1, distanceY*1);
 		canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
-		canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+		canvas.drawBitmap(cached, null, new Rect(0, 0, getWidth(),getHeight()), paint);
 	}
 
 	/**
@@ -280,7 +309,7 @@ public class TreeView extends View {
 	 * @param v
 	 * @return
 	 */
-	private Bitmap loadBitmapFromView(TreeView v) {
+	Bitmap loadBitmapFromView(TreeView v) {
 		if (v == null) {
 			return null;
 		}
