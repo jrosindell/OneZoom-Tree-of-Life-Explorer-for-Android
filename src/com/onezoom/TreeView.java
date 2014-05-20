@@ -39,8 +39,9 @@ public class TreeView extends View {
 	private boolean toggle = true;
 	private float distanceX, distanceY, scaleX, scaleY, scaleCenterX, scaleCenterY;
 	public static final float FACTOR = 1.4f;
-	public static boolean onScale;
-	
+	public boolean onScale;
+	public boolean onDrag;
+	private boolean lastActionAsScale;
 	
 	
 	public TreeView(Context context) {
@@ -170,16 +171,22 @@ public class TreeView extends View {
 			refreshNeeded = true;
 			break;
 		case MotionEvent.ACTION_UP:
-			onScale = false;
 			duringInteraction = false;
 			break;
 		default:
 				break;
 		}
-
+		onScale = false;
+		onDrag = false;
 		scaleDetector.onTouchEvent(event);
-		if (!onScale)
+		if (!onScale) {
 			gestureDetector.onTouchEvent(event);
+			if (onDrag) {
+				this.lastActionAsScale = false;
+			}
+		} else {
+			this.lastActionAsScale = true;
+		}
 	
 		invalidate();
 		return true;
@@ -246,8 +253,6 @@ public class TreeView extends View {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 			Visualizer.count = 0;
 			MidNode.visualizer.drawTree(canvas, client.getTreeRoot());
-			System.out.println("calculate -> draw element");
-			System.out.println("nodes being drawn -> " + Visualizer.count);
 			if (this.isDuringGrowthAnimation()) {
 				drawGrowthPeriodInfo(canvas, paint);
 			}
@@ -262,7 +267,10 @@ public class TreeView extends View {
 	 * @param canvas
 	 */
 	private void drawUsingCachedBitmap(Canvas canvas) {
-		canvas.translate(distanceX, distanceY);
+		if (this.lastActionAsScale)
+			canvas.translate(distanceX*scaleX, distanceY*scaleY);
+		else
+			canvas.translate(distanceX*1, distanceY*1);
 		canvas.scale(scaleX, scaleY, scaleCenterX, scaleCenterY);
 		canvas.drawBitmap(cachedBitmap, null, new Rect(0, 0, getWidth(),getHeight()), paint);
 	}
@@ -300,8 +308,8 @@ public class TreeView extends View {
 		client.recalculate();
 	}
 	
-	public void zoomin(float scaleFactor, float focusX, float focusY) {	
-		PositionData.shiftScreenPosition(focusX, focusY, scaleFactor);
+	public void zoomin(float scaleFactor, float shiftX, float shiftY) {	
+		PositionData.shiftScreenPosition(shiftX, shiftY, scaleFactor);
 		duringRecalculation = true;
 		client.recalculate();
 	}

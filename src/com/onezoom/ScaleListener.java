@@ -21,14 +21,14 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 	 */
 	@Override
 	public boolean onScale(ScaleGestureDetector detector) {
-		TreeView.onScale = true;
+		treeView.onScale = true;
 		if (PositionCalculator.isReanchored()) {
 			startXp = PositionData.getXp();
 			startYp = PositionData.getYp();
 			startscaleFactor = PositionData.getWs();
 			PositionCalculator.setReanchored(false);
 		}
-		
+				
 		float shiftXp, shiftYp;
 		float scaleFactor = detector.getScaleFactor();
 		float scaleTotal = scaleFactor * PositionData.getWs() / startscaleFactor;
@@ -41,6 +41,9 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 		treeView.setScaleY(treeView.getScaleY() * scaleFactor);	
 		treeView.setScaleCenterX(currentXp);
 		treeView.setScaleCenterY(currentYp);
+		
+		System.out.println("scale xp -> " + currentXp);
+		System.out.println("scale yp -> " + currentYp);
 		treeView.zoomin(scaleFactor, shiftXp, shiftYp);
 		return true;
 	}
