@@ -36,7 +36,7 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 		float currentYp = detector.getFocusY();
 		shiftXp = currentXp + (startXp - currentXp) * scaleTotal - PositionData.getXp();
 		shiftYp = currentYp + (startYp - currentYp) * scaleTotal - PositionData.getYp();
-
+		
 		treeView.setScaleX(treeView.getScaleX() * scaleFactor);
 		treeView.setScaleY(treeView.getScaleY() * scaleFactor);	
 		treeView.setScaleCenterX(currentXp);

@@ -146,17 +146,17 @@ public class Search {
 	private void process(Record record) {
 		int key = Utility.combine(record.fileIndex, record.index);
 		MidNode searchedNode = null;
-		if (MidNode.initializer.fulltreeHash.containsKey(key)) {
+		if (MidNode.getClient().getInitializer().fulltreeHash.containsKey(key)) {
 			/**
 			 * The node has already been initialized.
 			 */
-			searchedNode = MidNode.initializer.fulltreeHash.get(key);
+			searchedNode = MidNode.getClient().getInitializer().fulltreeHash.get(key);
 		} else {
 			/**
 			 * The node has not been initialized. Initialize it and then get it.
 			 */
-			MidNode.initializer.initialiseSearchedFile(record.fileIndex);
-			searchedNode = MidNode.initializer.fulltreeHash.get(key);
+			MidNode.getClient().getInitializer().initialiseSearchedFile(record.fileIndex);
+			searchedNode = MidNode.getClient().getInitializer().fulltreeHash.get(key);
 		}
 		
 		LinkHandler.setLink(searchedNode);

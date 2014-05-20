@@ -154,7 +154,7 @@ public class PositionCalculator {
 					dynamic &&
 					midNode.child2 == null) {
 				//dynamically add child2
-				midNode.child2 = MidNode.initializer.createTreeStartFromTailNode(2, midNode);
+				midNode.child2 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(2, midNode);
 			}
 			
 		} else if (midNode.child2 != null && midNode.child2.positionData.graphref) {
@@ -214,7 +214,7 @@ public class PositionCalculator {
 					midNode.getClass() == InteriorNode.class &&
 					dynamic &&
 					midNode.child1 == null)
-				midNode.child1 = MidNode.initializer.createTreeStartFromTailNode(1, midNode);
+				midNode.child1 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(1, midNode);
 			
 		} else {
 			//midNode is the re-anchored node. 
@@ -247,7 +247,7 @@ public class PositionCalculator {
 				midnode.child1 == null && 
 				midnode.getClass() == InteriorNode.class && 
 				dynamic) {
-				midnode.child1 = MidNode.initializer.createTreeStartFromTailNode(1, midnode);
+				midnode.child1 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(1, midnode);
 		}
 		
 		if (midnode.child2 != null && midnode.positionData.dvar) {
@@ -260,7 +260,7 @@ public class PositionCalculator {
 				midnode.positionData.dvar && 
 				midnode.getClass() == InteriorNode.class &&
 				dynamic) {
-				midnode.child2 = MidNode.initializer.createTreeStartFromTailNode(2, midnode);
+				midnode.child2 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(2, midnode);
 		}
 	}
 

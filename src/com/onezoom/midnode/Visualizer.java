@@ -26,6 +26,7 @@ public class Visualizer{
 	private static final float rangeBaseForDrawSignPost = 120f;
 	private static final boolean drawSignPost = true;
 	private static boolean usingCommon = true;
+	public static int count;
 		
 	public Visualizer() {
 		paint = new Paint();
@@ -70,6 +71,7 @@ public class Visualizer{
 		if (midNode.child2 != null && midNode.positionData.dvar && midNode.traitsCalculator.getLengthbr() 
 				> TraitsData.timelim) drawElement(midNode.child2);
 		
+		count++;
 		if (midNode.positionData.insideScreen && !midNode.positionData.gvar) {
 			/**
 			 * Add fake leafs when gvar is small.

@@ -1,7 +1,6 @@
 package com.onezoom;
 
 import com.onezoom.midnode.Search;
-import com.onezoom.midnode.MidNode;
 
 import android.os.Handler;
 import android.os.Looper;
@@ -52,7 +51,6 @@ public class MemoryThread extends Thread {
 			@Override
 			public void run() {
 				Looper.myLooper().quit();
-				MidNode.destory();
 			}
 		});
 	}
@@ -118,12 +116,10 @@ class MemoryHandler extends Handler {
 		 * Before initialization needs to create the static objects in MidNode class.
 		 */
 		case MemoryThread.MSG_INITIALIZATION:
-			System.out.println("init -> create static initializer");
-			MidNode.createStaticObjects();
 			client.initialization();
 			client.treeView.postInvalidate();
-			if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
-				this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
+			if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
+				this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,1000);
 			break;
 			
 		/**
@@ -133,12 +129,17 @@ class MemoryHandler extends Handler {
 		 */
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
-				client.treeView.setDuringRecalculation(true);
-				client.getTreeRoot().recalculateDynamic();	
-				client.treeView.setDuringRecalculation(false);
-				client.treeView.postInvalidate();
-				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
-					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
+				if (!client.treeView.isDuringInteraction()) {
+					System.out.println("calculate -> recalculation");
+					client.treeView.setDuringRecalculation(true);
+					client.getTreeRoot().recalculateDynamic();	
+					client.treeView.setDuringRecalculation(false);
+					client.treeView.postInvalidate();
+					if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
+						this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,1000);
+				} else {
+					this.sendEmptyMessageDelayed(MemoryThread.MSG_RECALCULATE,10);
+				}
 			}
 			break;
 			
@@ -159,8 +160,8 @@ class MemoryHandler extends Handler {
 //				client.getTreeRoot().recalculateDynamic();
 				client.treeView.setDuringRecalculation(false);
 				client.treeView.postInvalidate();
-				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
-					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
+				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
+					this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,1000);
 			}
 			break;
 			
@@ -172,9 +173,9 @@ class MemoryHandler extends Handler {
 		 */
 		case MemoryThread.MSG_IDLECALCULATION:
 			if (!this.HasMessages()) {
-				MidNode.initializer.idleTimeInitialization();
-				if (MidNode.initializer.stackOfNodeHasNonInitChildren.size() > 0)
-					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
+				client.getInitializer().idleTimeInitialization();
+				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
+					this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,300);
 			}
 			break;
 		case MemoryThread.MSG_SEARCH:

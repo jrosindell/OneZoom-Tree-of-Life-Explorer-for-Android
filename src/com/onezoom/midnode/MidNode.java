@@ -1,9 +1,10 @@
 package com.onezoom.midnode;
 
+import com.onezoom.CanvasActivity;
+
 public abstract class MidNode implements Comparable<MidNode>{
 	//initializer contains different file information for different species.
 	//Therefore, it needs to be destroy and create after quit and start the corresponding activity.
-	public static Initializer initializer;
 	public static Precalculator precalculator = new Precalculator();
 	public static Visualizer visualizer = new Visualizer();
 	public static PositionCalculator positionCalculator = new PositionCalculator();
@@ -20,16 +21,24 @@ public abstract class MidNode implements Comparable<MidNode>{
 	public int fileIndex;
 	public int index;
 	public MidNode parent = null;
+	private static CanvasActivity client;
 	
 	public MidNode getParent() { return parent; }
 	
+	public static CanvasActivity getClient() {
+		return client;
+	}
+	
+	public static void setClient(CanvasActivity _client) {
+		client = _client;
+	}
 	/**
 	 * Loading tree from file to memory starting from *interior0
 	 * @return
 	 */
 	public static MidNode startLoadingTree() {
-		initializer.setDuringInitialization(true);
-		return initializer.createMidNode("0");
+		client.getInitializer().setDuringInitialization(true);
+		return client.getInitializer().createMidNode("0");
 	}
 	
 	/**
@@ -74,7 +83,7 @@ public abstract class MidNode implements Comparable<MidNode>{
 	 * @param ws
 	 */
 	public void recalculateDynamic(float xp, float yp, float ws) {		
-		initializer.setDuringInitialization(false);
+		client.getInitializer().setDuringInitialization(false);
 		positionCalculator.recalculateDynamic(xp, yp, ws, this);
 	}
 	
@@ -84,23 +93,5 @@ public abstract class MidNode implements Comparable<MidNode>{
 	@Override
 	public int compareTo(MidNode another) {
 		return this.positionData.compareTo(another.positionData);
-	}
-
-	/**
-	 * Unlink current initializer. Called when the activity is being destroyed.
-	 */
-	public static void destory() {
-		System.out.println("init -> destroy static initializer");
-		initializer = null;
-	}
-
-	/**
-	 * Create new initializer. 
-	 * 
-	 * Called when the activity starts. 
-	 * Called within memoryThread to assure it is being created before initialization.
-	 */
-	public static void createStaticObjects() {
-		initializer = new Initializer();
 	}
 }

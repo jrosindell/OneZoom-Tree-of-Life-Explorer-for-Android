@@ -56,7 +56,12 @@ public class CanvasActivity extends Activity{
 	private Search searchEngine;
 	private Toast previousToast;
 	private CustomizeSearchView currentSearchView;
+	private Initializer initializer;
 
+	public Initializer getInitializer() {
+		return initializer;
+	}
+	
 	public MidNode getTreeRoot() {
 		return fulltree;
 	}
@@ -134,6 +139,8 @@ public class CanvasActivity extends Activity{
 		
 		searchEngine =  Search.getInstance(this);
 		orientation = getResources().getConfiguration().orientation;
+		MidNode.setClient(this);
+		initializer = new Initializer();
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
 		memoryThread.start();  //memory thread will load the tree into memory when it starts.
@@ -205,6 +212,7 @@ public class CanvasActivity extends Activity{
 	 */	
 	
 	public void recalculate() {
+		treeView.setRefreshNeeded(true);
 		memoryThread.recalculate();
 	}
 	
@@ -285,18 +293,17 @@ public class CanvasActivity extends Activity{
 			break;
 		case R.id.tree_common_switch:
 			Visualizer.setUsingCommon(!Visualizer.isUsingCommon());
-			treeView.setDuringInteraction(false);
+			treeView.setRefreshNeeded(true);
 			treeView.invalidate();
 			break;
 		case R.id.zoomin:
 			//set during interaction as false, otherwise won't be refreshed.
 			//it is poorly designed.
-			//TODO: may use other variables later.
-			treeView.setDuringInteraction(false);
+			treeView.setRefreshNeeded(true);;
 			treeView.zoomin(TreeView.FACTOR);
 			break;
 		case R.id.zoomout:
-			treeView.setDuringInteraction(false);
+			treeView.setRefreshNeeded(true);
 			treeView.zoomin(1f/TreeView.FACTOR);
 			break;
 		case R.id.reset:
@@ -467,7 +474,7 @@ public class CanvasActivity extends Activity{
 	 * Reset the tree to the initial position.
 	 */
 	public void resetTree() {
-		treeView.setDuringInteraction(false);
+		treeView.setRefreshNeeded(true);
 		resetTreeRootPosition();
 		this.reset();
 	}

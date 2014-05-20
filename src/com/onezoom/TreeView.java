@@ -3,6 +3,7 @@ package com.onezoom;
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
+import com.onezoom.midnode.Visualizer;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -32,6 +33,7 @@ public class TreeView extends View {
 	private boolean duringRecalculation = false;
 	private boolean duringInteraction = false;
 	private boolean duringGrowthAnimation = false;
+	private boolean refreshNeeded = true;
 	private Bitmap cachedBitmap;
 	private Paint paint;
 	private boolean toggle = true;
@@ -63,6 +65,14 @@ public class TreeView extends View {
 		//this will not be used. set to 1,1 to speed up the app
 		cachedBitmap = Bitmap.createBitmap(1,1, Bitmap.Config.ARGB_8888); 
 		paint = new Paint();
+	}
+	
+	public boolean isRefreshNeeded() {
+		return refreshNeeded;
+	}
+
+	public void setRefreshNeeded(boolean refreshNeeded) {
+		this.refreshNeeded = refreshNeeded;
 	}
 	
 	public float getDistanceX() {
@@ -157,6 +167,7 @@ public class TreeView extends View {
 		switch (event.getAction()) {
 		case MotionEvent.ACTION_DOWN:
 			duringInteraction = true;
+			refreshNeeded = true;
 			break;
 		case MotionEvent.ACTION_UP:
 			onScale = false;
@@ -186,7 +197,7 @@ public class TreeView extends View {
 		if (!treeBeingInitialized) {
 			drawLoading(canvas);
 		} else {
-			if (!duringRecalculation && !duringInteraction){
+			if (!duringRecalculation && !duringInteraction && refreshNeeded){
 				drawElementAndCache(canvas);
 			} else {
 				drawUsingCachedBitmap(canvas);
@@ -233,13 +244,16 @@ public class TreeView extends View {
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
+			Visualizer.count = 0;
 			MidNode.visualizer.drawTree(canvas, client.getTreeRoot());
+			System.out.println("calculate -> draw element");
+			System.out.println("nodes being drawn -> " + Visualizer.count);
 			if (this.isDuringGrowthAnimation()) {
 				drawGrowthPeriodInfo(canvas, paint);
 			}
 			toggle = !toggle;
 		}
-		duringInteraction = true;
+		refreshNeeded = false;
 		invalidate();		
 	}
 
