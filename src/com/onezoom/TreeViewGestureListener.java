@@ -19,11 +19,13 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 	@Override
 	public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
 			float distanceY) {
+		if (Math.abs(distanceY) + Math.abs(distanceX) < 7) {
+			//disturbance ignore.
+			return true;
+		}
 		treeView.onDrag = true;
 		treeView.setDistanceX(treeView.getDistanceX() - distanceX);
 		treeView.setDistanceY(treeView.getDistanceY() - distanceY);
-//		treeView.setDistanceX( - distanceX);
-//		treeView.setDistanceY( - distanceY);
 		treeView.drag(-distanceX, -distanceY);
 		return true;
 	}
