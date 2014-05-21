@@ -24,30 +24,32 @@ public final class R {
         public static final int back_arrow=0x7f020000;
         public static final int backnavigation=0x7f020001;
         public static final int backward=0x7f020002;
-        public static final int forward=0x7f020003;
-        public static final int forwardnavigation=0x7f020004;
-        public static final int grow_pause=0x7f020005;
-        public static final int grow_play=0x7f020006;
-        public static final int grow_revert=0x7f020007;
-        public static final int grow_stop=0x7f020008;
-        public static final int growcolor=0x7f020009;
-        public static final int ic_launcher=0x7f02000a;
-        public static final int main_information=0x7f02000b;
-        public static final int onezoom=0x7f02000c;
-        public static final int reload=0x7f02000d;
-        public static final int reset=0x7f02000e;
-        public static final int searchcolor=0x7f02000f;
-        public static final int tree_common_switch=0x7f020010;
-        public static final int tutorial1=0x7f020011;
-        public static final int tutorial2=0x7f020012;
-        public static final int tutorial3=0x7f020013;
-        public static final int zoomin=0x7f020014;
-        public static final int zoomout=0x7f020015;
+        public static final int cog=0x7f020003;
+        public static final int forward=0x7f020004;
+        public static final int forwardnavigation=0x7f020005;
+        public static final int grow_pause=0x7f020006;
+        public static final int grow_play=0x7f020007;
+        public static final int grow_revert=0x7f020008;
+        public static final int grow_stop=0x7f020009;
+        public static final int growcolor=0x7f02000a;
+        public static final int ic_launcher=0x7f02000b;
+        public static final int main_information=0x7f02000c;
+        public static final int onezoom=0x7f02000d;
+        public static final int reload=0x7f02000e;
+        public static final int reset=0x7f02000f;
+        public static final int searchcolor=0x7f020010;
+        public static final int tree_common_switch=0x7f020011;
+        public static final int tutorial1=0x7f020012;
+        public static final int tutorial2=0x7f020013;
+        public static final int tutorial3=0x7f020014;
+        public static final int zoomin=0x7f020015;
+        public static final int zoomout=0x7f020016;
     }
     public static final class id {
         public static final int TabHost01=0x7f090004;
         public static final int action_settings=0x7f090010;
-        public static final int grow=0x7f090016;
+        public static final int common_latin_switch=0x7f090015;
+        public static final int grow=0x7f090018;
         public static final int grow_close=0x7f09000f;
         public static final int grow_pause=0x7f09000c;
         public static final int grow_play=0x7f09000d;
@@ -67,17 +69,16 @@ public final class R {
         public static final int search_close=0x7f090014;
         public static final int search_forward_tree=0x7f090013;
         public static final int search_forward_web=0x7f09001f;
-        public static final int search_main_tree=0x7f090015;
+        public static final int search_main_tree=0x7f090017;
         public static final int search_tree=0x7f090011;
         public static final int search_web=0x7f09001c;
+        public static final int setting_close=0x7f090016;
         public static final int textView01=0x7f090005;
         public static final int textView03=0x7f090007;
-        public static final int tree_common_switch=0x7f090017;
+        public static final int tree_setting=0x7f090019;
         public static final int tree_view=0x7f090001;
         public static final int web_back_to_tree=0x7f090020;
         public static final int webview=0x7f090002;
-        public static final int zoomin=0x7f090018;
-        public static final int zoomout=0x7f090019;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -89,8 +90,9 @@ public final class R {
         public static final int grow=0x7f080000;
         public static final int main=0x7f080001;
         public static final int searhmenu=0x7f080002;
-        public static final int viewmenu=0x7f080003;
-        public static final int webmenu=0x7f080004;
+        public static final int setting=0x7f080003;
+        public static final int viewmenu=0x7f080004;
+        public static final int webmenu=0x7f080005;
     }
     public static final class raw {
         public static final int amphibianaa=0x7f040000;

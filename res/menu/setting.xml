@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+      <item
+        android:id = "@+id/common_latin_switch"
+        android:title = "@string/search_hint"
+        android:icon = "@drawable/tree_common_switch"
+        android:showAsAction="always" /> 
+
+     <item 
+         android:id = "@+id/setting_close"
+         android:title = "@string/search_hint"
+         android:icon = "@drawable/back_arrow"
+         android:showAsAction = "always"/>
+
+</menu>

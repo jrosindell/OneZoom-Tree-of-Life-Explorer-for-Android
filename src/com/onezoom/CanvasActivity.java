@@ -58,6 +58,7 @@ public class CanvasActivity extends Activity{
 	private boolean growing = false;
 	private boolean searching = false;
 	private boolean viewingWeb = false;
+	private boolean setting = false;
 	private int orientation;
 	private int screenHeight;
 	private int screenWidth;
@@ -173,6 +174,7 @@ public class CanvasActivity extends Activity{
 		if (viewingWeb) inflateWebMenu(menu);
 		else if (growing) inflateTreeGrowMenu(menu);
 		else if (searching) inflateTreeSearchMenu(menu);
+		else if (setting) inflateTreeSettingMenu(menu);
 		else inflateTreeMainMenu(menu);  
 		return true;
 	}
@@ -305,20 +307,9 @@ public class CanvasActivity extends Activity{
 			growing = true;
 			invalidateOptionsMenu();
 			break;
-		case R.id.tree_common_switch:
-			Visualizer.setUsingCommon(!Visualizer.isUsingCommon());
-			treeView.setRefreshNeeded(true);
-			treeView.invalidate();
-			break;
-		case R.id.zoomin:
-			//set during interaction as false, otherwise won't be refreshed.
-			//it is poorly designed.
-			treeView.setRefreshNeeded(true);;
-			treeView.zoomin(TreeView.FACTOR);
-			break;
-		case R.id.zoomout:
-			treeView.setRefreshNeeded(true);
-			treeView.zoomin(1f/TreeView.FACTOR);
+		case R.id.tree_setting:
+			setting = true;
+			invalidateOptionsMenu();
 			break;
 		case R.id.reset:
 			resetTree();
@@ -328,6 +319,16 @@ public class CanvasActivity extends Activity{
 			break;
 			
 		
+		//tree setting
+		case R.id.common_latin_switch:
+			Visualizer.setUsingCommon(!Visualizer.isUsingCommon());
+			treeView.setRefreshNeeded(true);
+			treeView.invalidate();
+			break;
+		case R.id.setting_close:
+			this.returnToMainMenu();
+			break;
+			
 		//Icons on search menu of tree view.
 		case R.id.search_backward_tree:
 			backSearch();
@@ -388,6 +389,10 @@ public class CanvasActivity extends Activity{
 	
 	private void inflateTreeMainMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.viewmenu, menu);
+	}
+	
+	private void inflateTreeSettingMenu(Menu menu) {
+		getMenuInflater().inflate(R.menu.setting, menu);
 	}
 	
 	/**
@@ -480,6 +485,7 @@ public class CanvasActivity extends Activity{
 		if (this.viewingWeb == false) {
 			growing = false;
 			searching = false;	
+			setting = false;
 		}
 		invalidateOptionsMenu();
 	}

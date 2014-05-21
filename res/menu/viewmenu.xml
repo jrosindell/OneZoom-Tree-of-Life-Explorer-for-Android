@@ -13,22 +13,11 @@
         android:showAsAction="always" /> 
           
      <item
-        android:id = "@+id/tree_common_switch"
+        android:id = "@+id/tree_setting"
         android:title = "@string/search_hint"
-        android:icon = "@drawable/tree_common_switch"
+        android:icon = "@drawable/cog"
         android:showAsAction="always"/> 
         
-     <item 
-        android:id = "@+id/zoomin"
-        android:title = "@string/search_hint"
-        android:icon = "@drawable/zoomin"
-        android:showAsAction="ifRoom" /> 
-        
-     <item
-        android:id = "@+id/zoomout"
-        android:title = "@string/search_hint"
-        android:icon = "@drawable/zoomout"
-        android:showAsAction="ifRoom" /> 
     
      <item 
          android:id = "@+id/reset"
