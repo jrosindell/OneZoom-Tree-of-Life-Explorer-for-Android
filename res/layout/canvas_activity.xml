@@ -1,4 +1,4 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -14,5 +14,10 @@
         android:id="@+id/webview"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />
+    
+     <com.onezoom.IntroductionView
+        android:id="@+id/introductio_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
 
-</RelativeLayout>
+</FrameLayout>

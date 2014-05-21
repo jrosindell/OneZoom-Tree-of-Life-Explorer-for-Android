@@ -50,6 +50,7 @@ import android.widget.Toast;
 public class CanvasActivity extends Activity{
 	public TreeView treeView;
 	public CustomizeWebView webView;
+	public IntroductionView introductionView;
 	public static String selectedItem;
 	private MidNode fulltree;
 	private MemoryThread memoryThread;
@@ -139,11 +140,12 @@ public class CanvasActivity extends Activity{
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
 		webView = (CustomizeWebView) findViewById(R.id.webview);
-		
+		introductionView = (IntroductionView) findViewById(R.id.introductio_view);
 		/**
 		 * Web view should be activated after user hits on links.
 		 */
 		hideWebView();
+		hideIntroductionView();
 		
 		searchEngine =  Search.getInstance(this);
 		orientation = getResources().getConfiguration().orientation;
@@ -553,6 +555,10 @@ public class CanvasActivity extends Activity{
 	public void displayTreeView() {
 		treeView.setVisibility(View.VISIBLE);
 	}
+	
+	private void hideIntroductionView() {
+		this.introductionView.setVisibility(View.GONE);
+	}
 
 	/**
 	 * Test whether user click is on link.
@@ -680,5 +686,16 @@ public class CanvasActivity extends Activity{
 		} catch (NullPointerException e) {
 			System.out.println("null pointer");
 		}
+	}
+
+	public void showIntroductionSlide() {
+		treeView.setVisibility(View.GONE);
+		this.introductionView.setVisibility(View.VISIBLE);
+		this.introductionView.startTutorial();
+	}
+
+	public void endTutorial() {
+		this.introductionView.setVisibility(View.GONE);
+		treeView.setVisibility(View.VISIBLE);
 	}
 }

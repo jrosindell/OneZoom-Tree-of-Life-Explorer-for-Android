@@ -401,15 +401,16 @@ public class PositionCalculator {
 	 * This function acts the same as in website version
 	 * @param midNode
 	 */
-	public void reanchor(MidNode midNode) {
+	public boolean reanchor(MidNode midNode) {
+		boolean reanchorTest = false;
 		if (midNode.positionData.dvar) {
-			System.out.println("reanchor -> " + midNode.traitsCalculator.getLengthbr());
+			System.out.println("reanchor search node lengthbr -> " + midNode.traitsCalculator.getLengthbr());
 
 			midNode.positionData.graphref = true;
 			if (
 					((midNode.positionData.gvar) || (midNode.child1 == null))
-					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 30))
-				) {
+					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 100))
+				) {	
 				// reanchor here
 				reanchored = true;
 				PositionData.xp = midNode.positionData.xvar;
@@ -420,17 +421,20 @@ public class PositionCalculator {
 					deanchor(midNode.child2);
 					deanchor(midNode.child1);
 				}
+				return true;
 			} else {
 				// reanchor somewhere down the line
 				if (midNode.child1.positionData.dvar) {
-					reanchor(midNode.child1);
 					deanchor(midNode.child2);
-
-				} else {
-					reanchor(midNode.child2);
+					reanchorTest = reanchor(midNode.child1);
+				} else if (!reanchorTest) {
 					deanchor(midNode.child1);
+					reanchorTest = reanchor(midNode.child2);
 				}
+				return reanchorTest;
 			}
+		} else {
+			return false;
 		}
 		// else not possible to reanchor
 	}

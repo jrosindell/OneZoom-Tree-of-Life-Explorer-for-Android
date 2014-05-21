@@ -4,9 +4,9 @@ import android.graphics.Color;
 
 public class Information {
 	public static final String [] tabTitle = {
-		"HOW TO USE", 
 		"COLOUR KEY",
-		"AUTHOR"
+		"AUTHOR",
+		"HOW TO USE"
 	};
 	
 	public static final String guide = "Each leaf of the tree represents a species, the branches of the tree show how these species are connected to common ancestors over millions of years of evolution.  Use two fingers to pan and zoom around the tree, there is much more to it than meets the eye: zooming into your areas of interest will reveal over 22,000 species and their evolutionary connections.  Use the white circular signposts to help you navigate to the areas that interest you.  \n" + 

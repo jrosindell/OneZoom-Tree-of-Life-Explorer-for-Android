@@ -13,7 +13,9 @@ import android.view.WindowManager;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TabHost;
+import android.widget.TabHost.OnTabChangeListener;
 import android.widget.TextView;
+import android.widget.Toast;
 
 /**
  * This is a custom dialog class that will hold a tab view with 2 tabs.
@@ -22,6 +24,7 @@ import android.widget.TextView;
  */
 public class CustomDialog extends Dialog
 {
+	private CustomDialog self;
     /**
      * Our custom list view adapter for tab2 listView (listView02).
      */
@@ -32,10 +35,10 @@ public class CustomDialog extends Dialog
      * 
      * @param context
      */
-    public CustomDialog(CanvasActivity context)
+    public CustomDialog(final CanvasActivity context)
     {
         super(context);
-
+        self = this;
         // get this window's layout parameters so we can change the position
         WindowManager.LayoutParams params = getWindow().getAttributes(); 
 
@@ -58,7 +61,7 @@ public class CustomDialog extends Dialog
         registerForContextMenu(listView02);
 
         //set text for tab1 and enable scrolling
-        textView01.setText(Information.guide, true);
+        textView01.setText(Information.authorAndCredit, true);
         textView01.setMovementMethod(new ScrollingMovementMethod());
         
      
@@ -67,7 +70,7 @@ public class CustomDialog extends Dialog
 
         
         //set text for tab3 and enable scrolling
-        textView03.setText(Information.authorAndCredit, true);
+        textView03.setText(Information.guide, true);
         textView03.setMovementMethod(new ScrollingMovementMethod());
         
         // get our tabHost from the xml
@@ -76,13 +79,13 @@ public class CustomDialog extends Dialog
 
         // create tab 1
         TabHost.TabSpec tab1 = tabs.newTabSpec("tab1");
-        tab1.setContent(R.id.textView01);
+        tab1.setContent(R.id.listView02);
         tab1.setIndicator(Information.tabTitle[0]);
         tabs.addTab(tab1);
 
         // create tab 2
         TabHost.TabSpec tab2 = tabs.newTabSpec("tab2");
-        tab2.setContent(R.id.listView02);
+        tab2.setContent(R.id.textView01);
         tab2.setIndicator(Information.tabTitle[1]);
         tabs.addTab(tab2);
         
@@ -91,6 +94,17 @@ public class CustomDialog extends Dialog
         tab3.setContent(R.id.textView03);
         tab3.setIndicator(Information.tabTitle[2]);
         tabs.addTab(tab3);
+        
+        tabs.setOnTabChangedListener(new OnTabChangeListener() {
+			@Override
+			public void onTabChanged(String tabId) {
+				if (tabId.equals("tab3")) {
+					context.showIntroductionSlide();
+					self.cancel();
+				}
+			}
+        	
+        });
     }
 
     
