@@ -40,9 +40,16 @@ public class TreeView extends View {
 	private boolean toggle = true;
 	private float distanceX, distanceY, scaleX, scaleY, scaleCenterX, scaleCenterY;
 	public static final float FACTOR = 1.4f;
-	public boolean onScale;
-	public boolean onDrag;
+	public boolean testDragAfterScale;
 	private boolean lastActionAsScale;
+	
+	public boolean isLastActionAsScale() {
+		return lastActionAsScale;
+	}
+
+	public void setLastActionAsScale(boolean lastActionAsScale) {
+		this.lastActionAsScale = lastActionAsScale;
+	}
 	
 	public boolean isToggle() {
 		return toggle;
@@ -206,19 +213,12 @@ public class TreeView extends View {
 		default:
 				break;
 		}
-		onScale = false;
-		onDrag = false;
+
+		testDragAfterScale = true;
 		scaleDetector.onTouchEvent(event);
-		if (!onScale) {
+		if (testDragAfterScale) {
 			gestureDetector.onTouchEvent(event);
-			if (onDrag) {
-				this.lastActionAsScale = false;
-			}
-		} else {
-			this.lastActionAsScale = true;
-		}
-	
-		invalidate();
+		}		
 		return true;
 	}
 
@@ -231,12 +231,16 @@ public class TreeView extends View {
 	@Override
 	protected void onDraw(Canvas canvas) {
 		super.onDraw(canvas);
+		System.out.println("draw xp -> " + PositionData.xp);
+		System.out.println("draw yp -> " + PositionData.yp);
+		System.out.println("draw ws -> " + PositionData.ws);
 		if (!treeBeingInitialized && this.getInitBitmap() == null) {
 			drawLoading(canvas);
 		} else if (!treeBeingInitialized && !this.getInitBitmap().isRecycled()) {
 			drawUsingCachedBitmap(canvas, this.getInitBitmap());
 		} else {
 			if (!duringRecalculation && !duringInteraction && refreshNeeded){
+				System.out.println("draw element");
 				drawElementAndCache(canvas);
 			} else {
 				drawUsingCachedBitmap(canvas, this.cachedBitmap);

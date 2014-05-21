@@ -403,6 +403,8 @@ public class PositionCalculator {
 	 */
 	public void reanchor(MidNode midNode) {
 		if (midNode.positionData.dvar) {
+			System.out.println("reanchor -> " + midNode.traitsCalculator.getLengthbr());
+
 			midNode.positionData.graphref = true;
 			if (
 					((midNode.positionData.gvar) || (midNode.child1 == null))

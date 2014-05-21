@@ -30,6 +30,7 @@
             android:id="@+id/listView02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:divider="@null"
             android:scrollbars="vertical"
             android:scrollbarFadeDuration="1000000"/>
         

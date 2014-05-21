@@ -137,7 +137,7 @@ public class Visualizer{
 		
 		paint.setStrokeWidth(R * partl2);
 
-		paint.setColor(Utility.barccolor(midNode));
+		paint.setColor(Color.argb(90, 70, 70, 70));
 
 		canvas.drawArc(rect, 0, 360, true, paint);
 	}
