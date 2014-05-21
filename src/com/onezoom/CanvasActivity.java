@@ -201,7 +201,7 @@ public class CanvasActivity extends Activity{
 	 * It loads the tree into memory.
 	 */
 	public void initialization() {
-		Initializer.setContext(this);
+		initializer.setContext(this);
 		//140 is the height left for action bar.
 		PositionData.setScreenSize(0, 0, screenWidth, screenHeight - 140);
 
@@ -620,7 +620,6 @@ public class CanvasActivity extends Activity{
 				file1 = new File(getExternalFilesDir(null), selectedItem
 						+ "landscape" + ".jpg");
 			}
-			System.out.println("file name -> " + file1.getName());
 			//If the bitmap does not exist, then return and bitmap would be null
 			if (file1 != null && !file1.exists())
 				return;

@@ -23,21 +23,25 @@ public class LinkHandler {
 	 * @return
 	 */
 	public static boolean testLink(MidNode node, float fingerX, float fingerY) {
-		if (node.positionData.dvar) {
-			if (node.child1 == null && node.child2 == null) {
-				/**
-				 * Leaf node.
-				 * If finger is on the link of the node, return true;
-				 */
-				if( testLinkClick(node, fingerX, fingerY)) return true;
-			} else {
-				/**
-				 * Interior node. Test its forward children. Test should not be executed on interior node.
-				 */
-				return forwardTesting(node, fingerX, fingerY);
+		try {
+			if (node.positionData.dvar) {
+				if (node.child1 == null && node.child2 == null) {
+					/**
+					 * Leaf node.
+					 * If finger is on the link of the node, return true;
+					 */
+					if( testLinkClick(node, fingerX, fingerY)) return true;
+				} else {
+					/**
+					 * Interior node. Test its forward children. Test should not be executed on interior node.
+					 */
+					return forwardTesting(node, fingerX, fingerY);
+				}
 			}
+			return false;
+		} catch (NullPointerException e) {
+			return false;
 		}
-		return false;
 	}
 	
 	/**

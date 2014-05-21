@@ -21,7 +21,7 @@ public class Initializer {
 	public Hashtable<Integer, MidNode> fulltreeHash;
 	Hashtable<Integer, InteriorNode> interiorHash;
 	Hashtable<Integer, LeafNode> leafHash;
-	static Hashtable<Integer, Integer> fileConnection;
+	Hashtable<Integer, Integer> fileConnection;
 	LinkedList<Pair<Integer, MidNode>> listOfHeadNodeInNextFile;
 	public PriorityQueue<MidNode> stackOfNodeHasNonInitChildren;
 	public static CanvasActivity canvasActivity;
@@ -49,7 +49,7 @@ public class Initializer {
 	 * Set context and build file connection.
 	 * @param context
 	 */
-	public static void setContext(CanvasActivity context) {
+	public void setContext(CanvasActivity context) {
 		canvasActivity = context;
 		fillFileConnection();
 	}
@@ -79,7 +79,6 @@ public class Initializer {
 	private MidNode createTreeStartFromFileIndex(String fileIndex, int childIndex) {
 		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
 		MidNode fulltree = createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, null);
-		
 		while (!listOfHeadNodeInNextFile.isEmpty()) {
 			Pair<Integer, MidNode> pair = listOfHeadNodeInNextFile.poll();
 			if (pair.first.equals(1)) {	
@@ -186,45 +185,47 @@ public class Initializer {
 	 * @param interiorNode
 	 */
 	private void buildConnection(MidNode interiorNode) {
-		Assert.assertEquals(interiorNode.getClass(), InteriorNode.class);
-		
-		int child1Id = interiorNode.child1Index;
-		int child2Id = interiorNode.child2Index;
-
-		if (child1Id < 0) {
-			//child1 is in another file
-			listOfHeadNodeInNextFile.add(new Pair<Integer, MidNode>(1, interiorNode));
-		} else if (interiorHash.containsKey(child1Id)) {
-			//child1 is an interior node.
-			MidNode child1 = interiorHash.get(child1Id);
-			interiorNode.child1 = child1;
-			child1.parent = interiorNode;
-			child1.childIndex = 1;
-			buildConnection(interiorNode.child1);
-		} else {
-			//child1 is a leaf node.
-			MidNode child1 = leafHash.get(child1Id);
-			interiorNode.child1 = child1;
-			child1.parent = interiorNode;
-			child1.childIndex = 1;
-		}
-		
-		if (child2Id < 0) {
-			//child2 is in another file
-			listOfHeadNodeInNextFile.add(new Pair<Integer, MidNode>(2, interiorNode));
-		} else if (interiorHash.containsKey(child2Id)) {
-			//child2 is an interior node.
-			MidNode child2 = interiorHash.get(child2Id);
-			interiorNode.child2 = child2;
-			child2.parent = interiorNode;
-			child2.childIndex = 2;
-			buildConnection(interiorNode.child2);
-		} else {
-			//child2 is a leaf node.
-			MidNode child2 = leafHash.get(child2Id);
-			interiorNode.child2 = child2;
-			child2.parent = interiorNode;
-			child2.childIndex = 2;
+		try {
+			int child1Id = interiorNode.child1Index;
+			int child2Id = interiorNode.child2Index;
+	
+			if (child1Id < 0) {
+				//child1 is in another file
+				listOfHeadNodeInNextFile.add(new Pair<Integer, MidNode>(1, interiorNode));
+			} else if (interiorHash.containsKey(child1Id)) {
+				//child1 is an interior node.
+				MidNode child1 = interiorHash.get(child1Id);
+				interiorNode.child1 = child1;
+				child1.parent = interiorNode;
+				child1.childIndex = 1;
+				buildConnection(interiorNode.child1);
+			} else {
+				//child1 is a leaf node.
+				MidNode child1 = leafHash.get(child1Id);
+				interiorNode.child1 = child1;
+				child1.parent = interiorNode;
+				child1.childIndex = 1;
+			}
+			
+			if (child2Id < 0) {
+				//child2 is in another file
+				listOfHeadNodeInNextFile.add(new Pair<Integer, MidNode>(2, interiorNode));
+			} else if (interiorHash.containsKey(child2Id)) {
+				//child2 is an interior node.
+				MidNode child2 = interiorHash.get(child2Id);
+				interiorNode.child2 = child2;
+				child2.parent = interiorNode;
+				child2.childIndex = 2;
+				buildConnection(interiorNode.child2);
+			} else {
+				//child2 is a leaf node.
+				MidNode child2 = leafHash.get(child2Id);
+				interiorNode.child2 = child2;
+				child2.parent = interiorNode;
+				child2.childIndex = 2;
+			}
+		} catch (NullPointerException e) {
+			return;
 		}
 	}
 	
@@ -425,7 +426,7 @@ public class Initializer {
 	 * For example, if a node 'A' is in file 30, and it has a child 'B' in file 40, then fileConnection
 	 * will add a hash pair <30,40> to fileConnection object.
 	 */
-	private static void fillFileConnection() {
+	private void fillFileConnection() {
 		fileConnection.clear();
 		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
 		int resourceID = canvasActivity.getResources().getIdentifier(selectedGroup + "search", "raw", canvasActivity.getPackageName());

@@ -22,13 +22,13 @@
         android:id = "@+id/zoomin"
         android:title = "@string/search_hint"
         android:icon = "@drawable/zoomin"
-        android:showAsAction="always" /> 
+        android:showAsAction="ifRoom" /> 
         
      <item
         android:id = "@+id/zoomout"
         android:title = "@string/search_hint"
         android:icon = "@drawable/zoomout"
-        android:showAsAction="always" /> 
+        android:showAsAction="ifRoom" /> 
     
      <item 
          android:id = "@+id/reset"

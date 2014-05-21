@@ -5,7 +5,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.Locale;
+
 import au.com.bytecode.opencsv.CSVReader;
 
 import com.onezoom.CanvasActivity;
@@ -193,40 +197,43 @@ public class Search {
 				/**
 				 * line[0] is the name of the node in the file.
 				 */
-				if (line[0].toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase())) {
+				if (line[0].toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase(Locale.ENGLISH))) {
 					Record newRecord = new Record(line);
+					System.out.println("line[0] -> " + line[0] + "*****");
 					if (!searchResults.contains(newRecord)) {
-						
 						//this line has not been recorded yet.
-						if (newRecord.matchWord(userInput)) {
+						if (newRecord.equalUserInput(userInput)) {
 							/**
-							 * Exact match record being pushed into the head of the array
+							 * record line equals user input
 							 */
-							searchResults.add(0, newRecord);
-						} else {
+							newRecord.setPriority(1);
+						} else if (newRecord.containsWord(userInput)) {
 							/**
-							 * If userInput does not match this line, push it in the tail 
-							 * of the array.
+							 * record line contains user input
 							 */
-							searchResults.add(newRecord);					
-						}
+							newRecord.setPriority(2);
+						} 
+						searchResults.add(newRecord);
 						searchHit++;
 						
-					} else if (newRecord.matchWord(userInput)){
-						
+					} else if (newRecord.equalUserInput(userInput)) {
+						deletePreviousResult(searchResults, newRecord);
+						newRecord.setPriority(1);
+						searchResults.add(newRecord);
+					} else if (newRecord.containsWord(userInput)){	
 						/**
 						 * If the node represented by this line has already been added to list and 
 						 * the new line has exact match of userInput,
 						 * then delete the node which was added via a previous line and 
 						 * push the new record into the head of the array.
-						 */
-					
+						 */			
 						deletePreviousResult(searchResults, newRecord);
-						searchResults.add(0, new Record(line));
+						newRecord.setPriority(2);
+						searchResults.add(newRecord);
 					}
 				}
 			}
-			
+			Collections.sort(searchResults, new SearchResultComparator());
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -276,6 +283,7 @@ class Record {
 	int fileIndex;
 	int index;
 	int childIndex;
+	int priority;
 	
 	public Record(String[] line) {
 		assert line.length == 4;
@@ -283,6 +291,22 @@ class Record {
 		fileIndex = Integer.parseInt(line[1]);
 		index = Integer.parseInt(line[2]);
 		childIndex = Integer.parseInt(line[3]);
+		priority = 3;
+	}
+	
+	public int getPriority() {
+		return priority;
+	}
+	
+	public void setPriority(int i) {
+		priority = i;
+	}
+
+	public boolean equalUserInput(String userInput) {
+		if (name.toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase(Locale.ENGLISH)))
+			return true;
+		else
+			return false;
 	}
 	
 	/**
@@ -290,7 +314,7 @@ class Record {
 	 * @param userInput
 	 * @return
 	 */
-	public boolean matchWord(String userInput) {
+	public boolean containsWord(String userInput) {
 		String[] names = name.split(" ");
 		for (int i = 0; i < names.length; i++) {
 			if (names[i].toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase(Locale.ENGLISH)))
@@ -314,5 +338,14 @@ class Record {
 				&& this.index == that.index)
 			return true;
 		return false;
+	}
+}
+
+class SearchResultComparator implements Comparator<Record> {
+	@Override
+	public int compare(Record left, Record right) {
+		if (left.getPriority() < right.getPriority()) return -1;
+		else if (left.getPriority() > right.getPriority()) return 1;
+		else return 0;
 	}
 }
