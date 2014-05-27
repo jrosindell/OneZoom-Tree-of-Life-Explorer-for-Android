@@ -24,9 +24,9 @@ public class Initializer {
 	Hashtable<Integer, Integer> fileConnection;
 	LinkedList<Pair<Integer, MidNode>> listOfHeadNodeInNextFile;
 	public PriorityQueue<MidNode> stackOfNodeHasNonInitChildren;
-	public static CanvasActivity canvasActivity;
+	public CanvasActivity client;
 	boolean duringInitalization = false;
-	public static int fileIndex;
+	public int fileIndex;
 
 	public Initializer() {
 		fileConnection = new Hashtable<Integer, Integer>(1000);
@@ -50,7 +50,7 @@ public class Initializer {
 	 * @param context
 	 */
 	public void setContext(CanvasActivity context) {
-		canvasActivity = context;
+		client = context;
 		fillFileConnection();
 	}
 	
@@ -77,21 +77,21 @@ public class Initializer {
 	 * @return
 	 */
 	private MidNode createTreeStartFromFileIndex(String fileIndex, int childIndex) {
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
-		MidNode fulltree = createNodesInOneFile(canvasActivity, selectedGroup, fileIndex, childIndex, null);
+		String selectedGroup = client.selectedItem.toLowerCase(Locale.ENGLISH);
+		MidNode fulltree = createNodesInOneFile(client, selectedGroup, fileIndex, childIndex, null);
 		while (!listOfHeadNodeInNextFile.isEmpty()) {
 			Pair<Integer, MidNode> pair = listOfHeadNodeInNextFile.poll();
 			if (pair.first.equals(1)) {	
 				int[] infos = findFileAndIndexInfo(pair.second.child1Index);
 				if (pair.second.positionData.dvar)
-					pair.second.child1 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 1, pair.second);
+					pair.second.child1 = createNodesInOneFile(client, selectedGroup, Integer.toString(infos[1]), 1, pair.second);
 				else {
 					stackOfNodeHasNonInitChildren.add(pair.second);
 				}
 			} else {
 				int[] infos = findFileAndIndexInfo(pair.second.child2Index);
 				if (pair.second.positionData.dvar)
-					pair.second.child2 = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(infos[1]), 2, pair.second);
+					pair.second.child2 = createNodesInOneFile(client, selectedGroup, Integer.toString(infos[1]), 2, pair.second);
 				else {
 					stackOfNodeHasNonInitChildren.add(pair.second);
 				}
@@ -113,7 +113,7 @@ public class Initializer {
 	 */
 	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
-		Initializer.fileIndex = Integer.parseInt(fileIndex);
+		this.fileIndex = Integer.parseInt(fileIndex);
 		
 		/**
 		 * Get file like 'mammalsinterior0'
@@ -144,7 +144,7 @@ public class Initializer {
 			//create all interior node in interior file and put them into interior hash table as well as fulltree hash.
 			while ((nextline = readerInterior.readNext()) != null) {
 				interiorNode = new InteriorNode(nextline);
-				interiorNode.fileIndex = Initializer.fileIndex;
+				interiorNode.fileIndex = this.fileIndex;
 				interiorHash.put(interiorNode.index, interiorNode);
 				fulltreeHash.put(Utility.combine(interiorNode.fileIndex, interiorNode.index), interiorNode);
 			}
@@ -152,7 +152,7 @@ public class Initializer {
 			//create all leaf node in leaf file and put them into leaf hash table as well as fulltree hash
 			while ((nextline = readerLeaf.readNext()) != null) {
 				leafNode = new LeafNode(nextline);
-				leafNode.fileIndex = Initializer.fileIndex;
+				leafNode.fileIndex = this.fileIndex;
 				leafHash.put(leafNode.index, leafNode);
 				fulltreeHash.put(Utility.combine(leafNode.fileIndex, leafNode.index), leafNode);
 			}						
@@ -290,8 +290,8 @@ public class Initializer {
 			infos = findFileAndIndexInfo(midnode.child2Index);
 		}
 		int fileIndex = infos[1];
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
-		MidNode root = createNodesInOneFile(canvasActivity, selectedGroup, Integer.toString(fileIndex), childIndex, midnode);
+		String selectedGroup = client.selectedItem.toLowerCase(Locale.ENGLISH);
+		MidNode root = createNodesInOneFile(client, selectedGroup, Integer.toString(fileIndex), childIndex, midnode);
 		copyFromListToStack(this.listOfHeadNodeInNextFile, this.stackOfNodeHasNonInitChildren);
 		this.listOfHeadNodeInNextFile.clear();
 		return root;
@@ -428,9 +428,9 @@ public class Initializer {
 	 */
 	private void fillFileConnection() {
 		fileConnection.clear();
-		String selectedGroup = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH);
-		int resourceID = canvasActivity.getResources().getIdentifier(selectedGroup + "search", "raw", canvasActivity.getPackageName());
-		InputStream is = canvasActivity.getResources().openRawResource(resourceID);
+		String selectedGroup = client.selectedItem.toLowerCase(Locale.ENGLISH);
+		int resourceID = client.getResources().getIdentifier(selectedGroup + "search", "raw", client.getPackageName());
+		InputStream is = client.getResources().openRawResource(resourceID);
 		CSVReader reader = new CSVReader(new InputStreamReader(is));
 		try {
 			reader.readNext();

@@ -66,7 +66,7 @@ class GrowthThread extends Thread {
 	}
 	
 	public void Revert() {
-		treeAge = map.get(CanvasActivity.selectedItem);
+		treeAge = map.get(client.selectedItem);
 		handler.removeMessages(MSG_PLAY);
 		handler.sendEmptyMessage(MSG_START_REVERT);
 	}
@@ -82,7 +82,7 @@ class GrowthThread extends Thread {
 	 */
 	public void Play() {
 		if (pause == false) {
-			treeAge = map.get(CanvasActivity.selectedItem);
+			treeAge = map.get(client.selectedItem);
 			TraitsData.timelim = treeAge;
 		}
 		else 
@@ -152,7 +152,6 @@ class growthHandler extends Handler {
 			//reset this variable so that the tree view will draw tree
 			client.treeView.setDuringInteraction(false);
 			client.treeView.postInvalidate();
-			System.out.println("Time -> " + TraitsData.timelim);
 			if (TraitsData.timelim > 0)
 				sendEmptyMessageDelayed(GrowthThread.MSG_PLAY, 40);
 			break;

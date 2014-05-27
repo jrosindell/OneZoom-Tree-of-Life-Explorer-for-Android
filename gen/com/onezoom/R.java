@@ -8,6 +8,10 @@
 package com.onezoom;
 
 public final class R {
+    public static final class array {
+        public static final int latin_common_switch=0x7f060000;
+        public static final int trees=0x7f060001;
+    }
     public static final class attr {
     }
     public static final class dimen {
@@ -38,47 +42,49 @@ public final class R {
         public static final int reload=0x7f02000e;
         public static final int reset=0x7f02000f;
         public static final int searchcolor=0x7f020010;
-        public static final int tree_common_switch=0x7f020011;
-        public static final int tutorial1=0x7f020012;
-        public static final int tutorial2=0x7f020013;
-        public static final int tutorial3=0x7f020014;
-        public static final int zoomin=0x7f020015;
-        public static final int zoomout=0x7f020016;
+        public static final int setting_select=0x7f020011;
+        public static final int tree_common_switch=0x7f020012;
+        public static final int tutorial1=0x7f020013;
+        public static final int tutorial2=0x7f020014;
+        public static final int tutorial3=0x7f020015;
+        public static final int zoomin=0x7f020016;
+        public static final int zoomout=0x7f020017;
     }
     public static final class id {
-        public static final int TabHost01=0x7f090004;
-        public static final int action_settings=0x7f090010;
-        public static final int common_latin_switch=0x7f090015;
-        public static final int grow=0x7f090018;
-        public static final int grow_close=0x7f09000f;
-        public static final int grow_pause=0x7f09000c;
-        public static final int grow_play=0x7f09000d;
-        public static final int grow_reverse=0x7f09000b;
-        public static final int grow_stop=0x7f09000e;
-        public static final int information=0x7f09001b;
-        public static final int introductio_view=0x7f090003;
-        public static final int listView02=0x7f090006;
-        public static final int list_view_02_row_table_layout=0x7f090008;
-        public static final int list_view_02_row_table_row=0x7f090009;
-        public static final int list_view_02_row_text_view=0x7f09000a;
-        public static final int listview=0x7f090000;
-        public static final int reload_page=0x7f09001d;
-        public static final int reset=0x7f09001a;
-        public static final int search_backward_tree=0x7f090012;
-        public static final int search_backward_web=0x7f09001e;
-        public static final int search_close=0x7f090014;
-        public static final int search_forward_tree=0x7f090013;
-        public static final int search_forward_web=0x7f09001f;
-        public static final int search_main_tree=0x7f090017;
-        public static final int search_tree=0x7f090011;
-        public static final int search_web=0x7f09001c;
-        public static final int setting_close=0x7f090016;
-        public static final int textView01=0x7f090005;
-        public static final int textView03=0x7f090007;
-        public static final int tree_setting=0x7f090019;
-        public static final int tree_view=0x7f090001;
-        public static final int web_back_to_tree=0x7f090020;
-        public static final int webview=0x7f090002;
+        public static final int TabHost01=0x7f0a0004;
+        public static final int action_settings=0x7f0a0010;
+        public static final int common_latin_switch=0x7f0a0016;
+        public static final int grow=0x7f0a0019;
+        public static final int grow_close=0x7f0a000f;
+        public static final int grow_pause=0x7f0a000c;
+        public static final int grow_play=0x7f0a000d;
+        public static final int grow_reverse=0x7f0a000b;
+        public static final int grow_stop=0x7f0a000e;
+        public static final int information=0x7f0a001c;
+        public static final int introductio_view=0x7f0a0003;
+        public static final int listView02=0x7f0a0006;
+        public static final int list_view_02_row_table_layout=0x7f0a0008;
+        public static final int list_view_02_row_table_row=0x7f0a0009;
+        public static final int list_view_02_row_text_view=0x7f0a000a;
+        public static final int listview=0x7f0a0000;
+        public static final int reload_page=0x7f0a001e;
+        public static final int reset=0x7f0a001b;
+        public static final int search_backward_tree=0x7f0a0012;
+        public static final int search_backward_web=0x7f0a001f;
+        public static final int search_close=0x7f0a0014;
+        public static final int search_forward_tree=0x7f0a0013;
+        public static final int search_forward_web=0x7f0a0020;
+        public static final int search_main_tree=0x7f0a0018;
+        public static final int search_tree=0x7f0a0011;
+        public static final int search_web=0x7f0a001d;
+        public static final int setting_close=0x7f0a0017;
+        public static final int textView01=0x7f0a0005;
+        public static final int textView03=0x7f0a0007;
+        public static final int tree_setting=0x7f0a001a;
+        public static final int tree_switch=0x7f0a0015;
+        public static final int tree_view=0x7f0a0001;
+        public static final int web_back_to_tree=0x7f0a0021;
+        public static final int webview=0x7f0a0002;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -87,12 +93,12 @@ public final class R {
         public static final int list_view_02_row=0x7f030003;
     }
     public static final class menu {
-        public static final int grow=0x7f080000;
-        public static final int main=0x7f080001;
-        public static final int searhmenu=0x7f080002;
-        public static final int setting=0x7f080003;
-        public static final int viewmenu=0x7f080004;
-        public static final int webmenu=0x7f080005;
+        public static final int grow=0x7f090000;
+        public static final int main=0x7f090001;
+        public static final int searhmenu=0x7f090002;
+        public static final int setting=0x7f090003;
+        public static final int viewmenu=0x7f090004;
+        public static final int webmenu=0x7f090005;
     }
     public static final class raw {
         public static final int amphibianaa=0x7f040000;
@@ -4413,12 +4419,12 @@ public final class R {
         public static final int tetrapodszz=0x7f0410db;
     }
     public static final class string {
-        public static final int action_settings=0x7f060001;
-        public static final int app_name=0x7f060000;
-        public static final int back_navigation=0x7f060004;
-        public static final int hello_world=0x7f060002;
-        public static final int reload_page=0x7f060005;
-        public static final int search_hint=0x7f060003;
+        public static final int action_settings=0x7f070001;
+        public static final int app_name=0x7f070000;
+        public static final int back_navigation=0x7f070004;
+        public static final int hello_world=0x7f070002;
+        public static final int reload_page=0x7f070005;
+        public static final int search_hint=0x7f070003;
     }
     public static final class style {
         /** 
@@ -4442,10 +4448,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f070000;
+        public static final int AppBaseTheme=0x7f080000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f070001;
+        public static final int AppTheme=0x7f080001;
     }
 }

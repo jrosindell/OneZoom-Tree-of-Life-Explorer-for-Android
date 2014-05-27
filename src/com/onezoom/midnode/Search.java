@@ -76,7 +76,7 @@ public class Search {
 			 * 
 			 * Suppose user input 'homo', reader should load 'mammalsho'
 			 */
-			String filename = CanvasActivity.selectedItem.toLowerCase(Locale.ENGLISH) + userInput.substring(0, 2).toLowerCase();
+			String filename = client.selectedItem.toLowerCase(Locale.ENGLISH) + userInput.substring(0, 2).toLowerCase();
 			int resourceID = client.getResources().getIdentifier(filename, "raw", client.getPackageName());
 			InputStream is = client.getResources().openRawResource(resourceID);
 			CSVReader reader = new CSVReader(new InputStreamReader(is));

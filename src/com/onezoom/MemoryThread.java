@@ -141,7 +141,6 @@ class MemoryHandler extends Handler {
 		case MemoryThread.MSG_RECALCULATE:
 			if (!this.hasMessages(MemoryThread.MSG_RECALCULATE)) {
 				if (!client.treeView.isDuringInteraction()) {
-					System.out.println("calculate -> recalculation");
 					client.treeView.setDuringRecalculation(true);
 					client.getTreeRoot().recalculateDynamic();	
 					client.treeView.setDuringRecalculation(false);

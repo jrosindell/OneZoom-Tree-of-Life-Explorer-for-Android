@@ -19,6 +19,7 @@ import android.app.Activity;
 import android.app.Dialog;
 import android.app.SearchManager;
 import android.content.Context;
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -30,6 +31,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemSelectedListener;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -51,7 +56,7 @@ public class CanvasActivity extends Activity{
 	public TreeView treeView;
 	public CustomizeWebView webView;
 	public IntroductionView introductionView;
-	public static String selectedItem;
+	public String selectedItem;
 	private MidNode fulltree;
 	private MemoryThread memoryThread;
 	private GrowthThread growthThread;
@@ -67,6 +72,8 @@ public class CanvasActivity extends Activity{
 	private Toast previousToast;
 	private CustomizeSearchView currentSearchView;
 	private Initializer initializer;
+	private CanvasActivity self;
+	private boolean firstTimeOpenTreeSelect = true;
 
 	public Initializer getInitializer() {
 		return initializer;
@@ -128,13 +135,16 @@ public class CanvasActivity extends Activity{
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
+		self = this;
 		/**
 		 * Get the tree which was selected by the user.
 		 */
+		try {
 		selectedItem = getIntent().getExtras().getString(
 				"com.onezoom.selectedTree");
-		
+		} catch (NullPointerException e) {
+			selectedItem = "mammals";
+		}
 		/**
 		 * Create two views.
 		 */
@@ -211,7 +221,6 @@ public class CanvasActivity extends Activity{
 
 		//set the tree position to fit in the screen.
 		resetTreeRootPosition();
-		System.out.println("Init tree here");
 		//Initialize from file index '0'. 
 		//For example, if user select mammals, then initialize from 'mammalsinterior0'
 		fulltree = MidNode.startLoadingTree();
@@ -393,7 +402,90 @@ public class CanvasActivity extends Activity{
 	
 	private void inflateTreeSettingMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.setting, menu);
+		Spinner spinner = createSpinnerFromResources(R.id.tree_switch, menu, R.array.trees);
+		createSpinnerForTreeSelect(spinner);
+		spinner = createSpinnerFromResources(R.id.common_latin_switch, menu, R.array.latin_common_switch);
+		createSpinnerForLatinCommonSwitch(spinner);
 	}
+	
+	private Spinner createSpinnerFromResources(int id, Menu menu, int arrayID) {
+		MenuItem menuItem = menu.findItem(id);
+		View menuView = menuItem.getActionView();
+		Spinner spinner = (Spinner) menuView;
+		ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
+		        arrayID, android.R.layout.simple_list_item_1);
+		spinner.setAdapter(adapter);
+		spinner.setPopupBackgroundDrawable(new ColorDrawable(Color.WHITE));
+		return spinner;
+	}
+	
+	/**
+	 * set spinner listenner
+	 */
+	private void createSpinnerForLatinCommonSwitch(Spinner spinner) {
+		
+		spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
+
+			@Override
+			public void onItemSelected(AdapterView<?> parent, View view,
+					int position, long id) {
+				if (position == 0) {
+					Visualizer.setUsingCommon(true);
+				} else {
+					Visualizer.setUsingCommon(false);
+				}
+				self.treeView.setRefreshNeeded(true);
+				self.treeView.postInvalidate();
+			}
+
+			@Override
+			public void onNothingSelected(AdapterView<?> parent) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+		});
+	}
+	
+	/**
+	 * Create spinner
+	 */
+	private void createSpinnerForTreeSelect(final Spinner spinner) {
+		spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
+			@Override
+			public void onItemSelected(AdapterView<?> parent, View view,
+					int position, long id) {
+				if (self.firstTimeOpenTreeSelect == true) {
+					self.firstTimeOpenTreeSelect = false;
+				} else if (!spinner.getSelectedItem().toString().equals(self.selectedItem)) {
+					Search.destory();
+					Intent intent = new Intent(self, CanvasActivity.class);
+		    		String selectedItem = spinner.getSelectedItem().toString();
+		    		intent.putExtra("com.onezoom.selectedTree", selectedItem);
+		    		startActivity(intent);
+		    		self.finish();
+				}
+			}
+
+			@Override
+			public void onNothingSelected(AdapterView<?> parent) {				
+			}
+			
+		});
+		String [] array = getResources().getStringArray(R.array.trees);
+		spinner.setSelection(getPositionInArray(array, self.selectedItem));
+	}
+	
+	/**
+	 * 
+	 */
+	private int getPositionInArray(String[] array, String item) {
+		for (int i = 0; i < array.length; i++) {
+			if (array[i].equals(item)) return i;
+		}
+		return 0;
+	}
+	
 	
 	/**
 	 * Inflate search menu on tree view.
@@ -690,7 +782,6 @@ public class CanvasActivity extends Activity{
 		} catch (FileNotFoundException e) {
 		} catch (IOException e) {
 		} catch (NullPointerException e) {
-			System.out.println("null pointer");
 		}
 	}
 

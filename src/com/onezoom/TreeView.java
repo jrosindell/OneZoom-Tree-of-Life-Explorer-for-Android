@@ -231,16 +231,12 @@ public class TreeView extends View {
 	@Override
 	protected void onDraw(Canvas canvas) {
 		super.onDraw(canvas);
-		System.out.println("draw xp -> " + PositionData.xp);
-		System.out.println("draw yp -> " + PositionData.yp);
-		System.out.println("draw ws -> " + PositionData.ws);
 		if (!treeBeingInitialized && this.getInitBitmap() == null) {
 			drawLoading(canvas);
 		} else if (!treeBeingInitialized && !this.getInitBitmap().isRecycled()) {
 			drawUsingCachedBitmap(canvas, this.getInitBitmap());
 		} else {
 			if (!duringRecalculation && !duringInteraction && refreshNeeded){
-				System.out.println("draw element");
 				drawElementAndCache(canvas);
 			} else {
 				drawUsingCachedBitmap(canvas, this.cachedBitmap);
