@@ -46,19 +46,32 @@ public class PositionCalculator {
 		midnode.positionData.xvar = x;
 		midnode.positionData.yvar = y;
 		midnode.positionData.rvar = r;		
-		midnode.positionData.dvar = midnode.positionData.horizonInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
+		boolean tempDvar = midnode.positionData.horizonInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
 		midnode.positionData.gvar = midnode.positionData.nodeInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
 		
-		if (midnode.child1 != null && midnode.positionData.dvar) {
+		if (midnode.child1 != null && tempDvar) {
 			drawreg2(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
-		}
+		} else if (midnode.child1 != null) {
+			midnode.child1.positionData.dvar = false;
+		} 
 		
-		if (midnode.child2 != null && midnode.positionData.dvar) {
+		if (midnode.child2 != null && tempDvar) {
 			drawreg2(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
+		} else if (midnode.child2 != null) {
+			midnode.child2.positionData.dvar = false;
+		} 
+		
+		midnode.positionData.dvar = false;
+		if (midnode.child1 != null && midnode.child1.positionData.dvar == true) {
+			midnode.positionData.dvar = true;
+		} else if (midnode.child2 != null && midnode.child2.positionData.dvar == true) {
+			midnode.positionData.dvar = true;
+		} else if (midnode.positionData.gvar) {
+			midnode.positionData.dvar = true;
 		}
 	}
 
@@ -233,34 +246,47 @@ public class PositionCalculator {
 		midnode.positionData.xvar = x;
 		midnode.positionData.yvar = y;
 		midnode.positionData.rvar = r;		
-		midnode.positionData.dvar = midnode.positionData.horizonInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
+		boolean tempDvar = midnode.positionData.horizonInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
 		midnode.positionData.gvar = midnode.positionData.nodeInsideScreen() && midnode.positionData.nodeBigEnoughToDisplay();
 		
 		
-		if (midnode.child1 != null && midnode.positionData.dvar) {
+		if (midnode.child1 != null && tempDvar) {
 
 			drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr1, midnode.child1);
-		} else if (
-				midnode.positionData.dvar && 
+		} else if (midnode.child1 != null) {
+			midnode.child1.positionData.dvar = false;
+		} else if(
+				tempDvar && 
 				midnode.child1 == null && 
 				midnode.getClass() == InteriorNode.class && 
 				dynamic) {
 				midnode.child1 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(1, midnode);
 		}
 		
-		if (midnode.child2 != null && midnode.positionData.dvar) {
+		if (midnode.child2 != null && tempDvar) {
 			
 			drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
 					y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 					r * midnode.positionData.nextr2, midnode.child2);
+		} else if (midnode.child2 != null) {
+			midnode.child2.positionData.dvar = false;
 		} else if (
 				midnode.child2 == null && 
-				midnode.positionData.dvar && 
+						tempDvar && 
 				midnode.getClass() == InteriorNode.class &&
 				dynamic) {
 				midnode.child2 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(2, midnode);
+		}
+		
+		midnode.positionData.dvar = false;
+		if (midnode.child1 != null && midnode.child1.positionData.dvar == true) {
+			midnode.positionData.dvar = true;
+		} else if (midnode.child2 != null && midnode.child2.positionData.dvar == true) {
+			midnode.positionData.dvar = true;
+		} else if (midnode.positionData.gvar) {
+			midnode.positionData.dvar = true;
 		}
 	}
 
@@ -401,16 +427,19 @@ public class PositionCalculator {
 	 * This function acts the same as in website version
 	 * @param midNode
 	 */
-	public boolean reanchor(MidNode midNode) {
-		boolean reanchorTest = false;
+	public void reanchor(MidNode midNode) {
 		if (midNode.positionData.dvar) {
 			System.out.println("reanchor search node lengthbr -> " + midNode.traitsCalculator.getLengthbr());
+			System.out.println("reanchor node rvar -> " + (midNode.positionData.rvar/220));
+			System.out.println("reanchor node gvar -> " + midNode.positionData.gvar);
+			System.out.println("reanchor --------");
 
 			midNode.positionData.graphref = true;
 			if (
 					((midNode.positionData.gvar) || (midNode.child1 == null))
 					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 100))
 				) {	
+				System.out.println("reanchor node ******* " + midNode.traitsCalculator.getLengthbr());
 				// reanchor here
 				reanchored = true;
 				PositionData.xp = midNode.positionData.xvar;
@@ -421,21 +450,18 @@ public class PositionCalculator {
 					deanchor(midNode.child2);
 					deanchor(midNode.child1);
 				}
-				return true;
 			} else {
+				System.out.println("reanchor node child1 -> ");
 				// reanchor somewhere down the line
 				if (midNode.child1.positionData.dvar) {
 					deanchor(midNode.child2);
-					reanchorTest = reanchor(midNode.child1);
-				} else if (!reanchorTest) {
+					reanchor(midNode.child1);
+				} else {
 					deanchor(midNode.child1);
-					reanchorTest = reanchor(midNode.child2);
+					reanchor(midNode.child2);
 				}
-				return reanchorTest;
 			}
-		} else {
-			return false;
-		}
+		} 
 		// else not possible to reanchor
 	}
 

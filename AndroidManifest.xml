@@ -19,17 +19,11 @@
         android:label="@string/app_name"
         android:largeHeap="true"
         android:theme="@style/AppTheme" >
-        <activity
-            android:name="com.onezoom.MainActivity"
-            android:label="@string/app_name" >
-            
-        </activity>
        
         <activity
             android:name="com.onezoom.CanvasActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
