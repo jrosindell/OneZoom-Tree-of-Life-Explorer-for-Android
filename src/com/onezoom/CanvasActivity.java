@@ -237,7 +237,6 @@ public class CanvasActivity extends Activity{
 	 */	
 	
 	public void recalculate() {
-		treeView.setRefreshNeeded(true);
 		memoryThread.recalculate();
 	}
 	
@@ -729,8 +728,10 @@ public class CanvasActivity extends Activity{
 				return;
 			inputStream = new FileInputStream(file1);
 			// Read object using ObjectInputStream
-			treeView.setInitBitmap(BitmapFactory.decodeStream(inputStream));
-			treeView.setCachedBitmap(treeView.getInitBitmap());
+			treeView.setInitBitmap(BitmapFactory.decodeStream(inputStream)); 
+			if (treeView.getInitBitmap() != null) {
+				treeView.setCachedBitmap(treeView.getInitBitmap());
+			}
 		} catch (FileNotFoundException e) {
 		} finally {
 			if (inputStream != null) {
@@ -758,7 +759,7 @@ public class CanvasActivity extends Activity{
 						+ "landscape" + ".jpg");
 			}
 
-			if (file1 != null && file1.exists() && !treeView.isTreeBeingInitialized())
+			if (treeView.getInitBitmap() != null || !treeView.isTreeBeingInitialized())
 				return;
 			FileOutputStream outputStream;
 			outputStream = new FileOutputStream(file1);

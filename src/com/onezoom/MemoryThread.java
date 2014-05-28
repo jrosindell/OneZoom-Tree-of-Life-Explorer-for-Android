@@ -144,6 +144,7 @@ class MemoryHandler extends Handler {
 					client.treeView.setDuringRecalculation(true);
 					client.getTreeRoot().recalculateDynamic();	
 					client.treeView.setDuringRecalculation(false);
+					client.treeView.setRefreshNeeded(true);
 					client.treeView.postInvalidate();
 					if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
 						this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,1000);
@@ -181,7 +182,7 @@ class MemoryHandler extends Handler {
 		 * or two file each time.
 		 */
 		case MemoryThread.MSG_IDLECALCULATION:
-			if (!this.HasMessages()) {
+			if (!this.HasMessages() && !client.treeView.isDuringInteraction()) {
 				client.getInitializer().idleTimeInitialization();
 				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,300);
