@@ -22,11 +22,15 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 			//disturbance ignore.
 			return true;
 		}
-		treeView.setLastActionAsScale(false);
+		
+		if (treeView.isFirstAction() || treeView.isLastActionAsScale()) {
+			treeView.createNewMotion();
+			treeView.setFirstAction(false);
+			treeView.setLastActionAsScale(false);
+		}
+		
 		treeView.setDistanceX(treeView.getDistanceX() - distanceX);
 		treeView.setDistanceY(treeView.getDistanceY() - distanceY);
-		treeView.drag(-distanceX, -distanceY);
-		
 		treeView.invalidate();
 		return true;
 	}
@@ -52,20 +56,12 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 			treeView.client.loadLinkURL();
 			treeView.client.displayWebView();	
 		} else {
-			float currentXp = e.getX();
-			float currentYp = e.getY();
-			
-			float shiftXp = currentXp + (PositionData.getXp() - currentXp) * TreeView.FACTOR - PositionData.getXp();
-			float shiftYp = currentYp + (PositionData.getYp() - currentYp) * TreeView.FACTOR - PositionData.getYp();
-			
-			treeView.setLastActionAsScale(true);
-
+			treeView.createNewMotion();
 			treeView.setScaleX(treeView.getScaleX() * TreeView.FACTOR);
 			treeView.setScaleY(treeView.getScaleY() * TreeView.FACTOR);	
-			treeView.setScaleCenterX(currentXp);
-			treeView.setScaleCenterY(currentYp);
-			
-			treeView.zoomin(TreeView.FACTOR, shiftXp, shiftYp);
+			treeView.setScaleCenterX(e.getX());
+			treeView.setScaleCenterY(e.getY());
+			treeView.setLastActionAsScale(true);
 		}
 		
 		treeView.invalidate();

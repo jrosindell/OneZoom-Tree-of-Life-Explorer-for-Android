@@ -72,7 +72,6 @@ public abstract class MidNode implements Comparable<MidNode>{
 //			positionCalculator.reanchor(this);
 //		}
 		if (PositionData.ws > 100 || PositionData.ws < 0.01) {
-			System.out.println("draw -> reanchor");
 			positionCalculator.reanchor(this);
 		}
 		PositionCalculator.setDynamic(true);

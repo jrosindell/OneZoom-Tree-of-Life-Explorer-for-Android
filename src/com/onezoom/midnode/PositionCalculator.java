@@ -429,17 +429,12 @@ public class PositionCalculator {
 	 */
 	public void reanchor(MidNode midNode) {
 		if (midNode.positionData.dvar) {
-			System.out.println("reanchor search node lengthbr -> " + midNode.traitsCalculator.getLengthbr());
-			System.out.println("reanchor node rvar -> " + (midNode.positionData.rvar/220));
-			System.out.println("reanchor node gvar -> " + midNode.positionData.gvar);
-			System.out.println("reanchor --------");
 
 			midNode.positionData.graphref = true;
 			if (
 					((midNode.positionData.gvar) || (midNode.child1 == null))
 					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 100))
 				) {	
-				System.out.println("reanchor node ******* " + midNode.traitsCalculator.getLengthbr());
 				// reanchor here
 				reanchored = true;
 				PositionData.xp = midNode.positionData.xvar;
@@ -451,7 +446,6 @@ public class PositionCalculator {
 					deanchor(midNode.child1);
 				}
 			} else {
-				System.out.println("reanchor node child1 -> ");
 				// reanchor somewhere down the line
 				if (midNode.child1.positionData.dvar) {
 					deanchor(midNode.child2);
