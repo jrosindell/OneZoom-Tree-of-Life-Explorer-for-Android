@@ -93,7 +93,6 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 			treeView.setScaleTotalX(treeView.getScaleTotalX() * TreeView.FACTOR);
 			treeView.setScaleTotalY(treeView.getScaleTotalY() * TreeView.FACTOR);
 			treeView.setLastActionAsScale(true);
-						
 			treeView.invalidate();
 		} catch (NullPointerException exception) {
 			

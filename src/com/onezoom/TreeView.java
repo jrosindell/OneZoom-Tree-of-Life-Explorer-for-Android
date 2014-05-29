@@ -1,6 +1,7 @@
 package com.onezoom;
 
 import com.onezoom.midnode.MidNode;
+import com.onezoom.midnode.PositionCalculator;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
 import com.onezoom.midnode.Visualizer;
@@ -48,6 +49,7 @@ public class TreeView extends View {
 	private float distanceTotalX = 0f;
 	private float distanceTotalY = 0f;
 	private float xp, yp, ws;
+	private float reanchorJusticeXp, reanchorJusticeYp, reanchorJusticeWs;
 	
 	public boolean isFirstAction() {
 		return isFirstAction;
@@ -90,6 +92,36 @@ public class TreeView extends View {
 		this.distanceTotalY = distanceTotalY;
 	}
 
+	public float getReanchorJusticeXp() {
+		return reanchorJusticeXp;
+	}
+
+
+	public void setReanchorJusticeXp(float reanchorJusticeXp) {
+		this.reanchorJusticeXp = reanchorJusticeXp;
+	}
+
+
+	public float getReanchorJusticeYp() {
+		return reanchorJusticeYp;
+	}
+
+
+	public void setReanchorJusticeYp(float reanchorJusticeYp) {
+		this.reanchorJusticeYp = reanchorJusticeYp;
+	}
+
+
+	public float getReanchorJusticeWs() {
+		return reanchorJusticeWs;
+	}
+
+
+	public void setReanchorJusticeWs(float reanchorJusticeWs) {
+		this.reanchorJusticeWs = reanchorJusticeWs;
+	}
+
+
 	public boolean isLastActionAsScale() {
 		return lastActionAsScale;
 	}
@@ -130,7 +162,6 @@ public class TreeView extends View {
 		//this will not be used. set to 1,1 to speed up the app
 		cachedBitmap = Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888); 
 		paint = new Paint();
-		this.resetDragScaleParameter();
 	}
 	
 	public void setCachedBitmap(Bitmap cachedBitmap) {
@@ -192,8 +223,7 @@ public class TreeView extends View {
 		this.duringRecalculation = duringRecalculation;
 	}
 	
-	private void resetDragScaleParameter() {
-//		this.motions.clear();
+	void resetDragScaleParameter() {
 		xp = PositionData.xp;
 		yp = PositionData.yp;
 		ws = PositionData.ws;
@@ -201,6 +231,10 @@ public class TreeView extends View {
 		scaleTotalY = 1f;
 		distanceTotalX = 0f;
 		distanceTotalY = 0f;
+		this.reanchorJusticeWs = 1f;
+		this.reanchorJusticeXp = 0f;
+		this.reanchorJusticeYp = 0f;
+		PositionCalculator.setReanchored(false);
 	}
 
 	/**
@@ -221,18 +255,22 @@ public class TreeView extends View {
 			duringInteraction = false;
 			isFirstAction = true;
 			lastActionAsScale = false;
-//			calculateMoveParameter();
-			PositionData.xp = xp;
-			PositionData.yp = yp;
-			PositionData.ws = ws;
-			this.zoomin(scaleTotalX, 
-					distanceTotalX + PositionData.getXp() * (scaleTotalX - 1),
-					distanceTotalY + PositionData.getYp() * (scaleTotalY - 1));
+			PositionData.xp = this.xp;
+			PositionData.yp = this.yp;
+			PositionData.ws = this.ws;
+			
+			this.zoomin(scaleTotalX * this.reanchorJusticeWs, 
+					distanceTotalX + PositionData.getXp() * (scaleTotalX - 1) + this.reanchorJusticeXp,
+					distanceTotalY + PositionData.getYp() * (scaleTotalY - 1) + this.reanchorJusticeYp);
 			break;
 		default:
 				break;
 		}
-
+		
+		if (PositionCalculator.isReanchored()) {
+			return true;
+		}
+		
 		testDragAfterScale = true;
 		scaleDetector.onTouchEvent(event);
 		if (testDragAfterScale) {
@@ -255,7 +293,7 @@ public class TreeView extends View {
 		} else if (!treeBeingInitialized && !this.getInitBitmap().isRecycled()) {
 			drawUsingCachedBitmap(canvas, this.getInitBitmap());
 		} else {
-			if (!duringRecalculation && !duringInteraction && refreshNeeded){
+			if ((!duringRecalculation && !duringInteraction && refreshNeeded)){
 				drawElementAndCache(canvas);
 			} else {
 				drawUsingCachedBitmap(canvas, this.cachedBitmap);

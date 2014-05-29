@@ -68,12 +68,11 @@ public abstract class MidNode implements Comparable<MidNode>{
 		PositionCalculator.setDynamic(true);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 
-		if (PositionData.ws > 100 || PositionData.ws < 0.01) {
-			System.out.println("reanchor called");
+		if ((PositionData.ws > 100 || PositionData.ws < 0.01) && !PositionCalculator.isReanchored()) {
 			positionCalculator.reanchor(this);
+			PositionCalculator.setDynamic(false);
+			recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 		}
-		PositionCalculator.setDynamic(false);
-		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 	}
 
 	/**

@@ -167,8 +167,7 @@ class MemoryHandler extends Handler {
 				client.treeView.setDuringRecalculation(true);
 				client.getTreeRoot().recalculate();
 				client.treeView.setDuringRecalculation(false);
-//				client.treeView.postInvalidate();
-				client.treeView.postInvalidateDelayed(200);
+				client.treeView.postInvalidate();
 				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,3000);
 			}

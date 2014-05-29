@@ -123,7 +123,6 @@ public class PositionCalculator {
 
 			if (midNode.positionData.horizonInsideScreen()) {
 				if (
-						midNode.positionData.nodeBigEnoughToDisplay() &&
 						midNode.getClass() == InteriorNode.class &&
 						dynamic &&
 						midNode.child2 == null) {
@@ -184,7 +183,6 @@ public class PositionCalculator {
 			}
 			if (midNode.positionData.horizonInsideScreen()) {
 				if (
-						midNode.positionData.dvar &&
 						midNode.getClass() == InteriorNode.class &&
 						dynamic &&
 						midNode.child1 == null) {
@@ -242,6 +240,7 @@ public class PositionCalculator {
 	 * @param midnode
 	 */
 	private void drawreg2Dynamic(float x, float y, float r, MidNode midnode) {
+		
 		midnode.positionData.xvar = x;
 		midnode.positionData.yvar = y;
 		midnode.positionData.rvar = r;		
@@ -434,19 +433,23 @@ public class PositionCalculator {
 	 */
 	public void reanchor(MidNode midNode) {
 		if (midNode.positionData.dvar) {
-			System.out.println("reanchor in------");
 			midNode.positionData.graphref = true;
 			if (
 					((midNode.positionData.gvar) || (midNode.child1 == null))
 					|| ((midNode.positionData.rvar / 220 > 0.01) && (midNode.positionData.rvar / 220 < 100))
 				) {	
-				System.out.println("reanchor child null -> " + (midNode.child1 == null));
 				// reanchor here
 				reanchored = true;
+				MidNode.getClient().treeView.setReanchorJusticeXp(
+						MidNode.getClient().treeView.getReanchorJusticeXp() - PositionData.xp + midNode.positionData.xvar);
+				MidNode.getClient().treeView.setReanchorJusticeYp(
+						MidNode.getClient().treeView.getReanchorJusticeYp() - PositionData.yp + midNode.positionData.yvar);
+				MidNode.getClient().treeView.setReanchorJusticeWs(
+						MidNode.getClient().treeView.getReanchorJusticeWs() * midNode.positionData.rvar /220 / PositionData.ws);
 				PositionData.xp = midNode.positionData.xvar;
 				PositionData.yp = midNode.positionData.yvar;
 				PositionData.ws = midNode.positionData.rvar / 220;
-
+				
 				if (midNode.child1 != null) {
 					deanchor(midNode.child2);
 					deanchor(midNode.child1);
@@ -462,11 +465,6 @@ public class PositionCalculator {
 				}
 			}
 		} else {
-			System.out.println("reanchor happy end graph ->" + midNode.positionData.graphref);
-			System.out.println("reanchor happy end");
-			System.out.println("reanchor happy common -> " + midNode.traitsCalculator.getCname());
-			System.out.println("reanchor happy latin -> " + midNode.traitsCalculator.getLatinName());
-			System.out.println("reanchor happy lengthbr -> " + midNode.traitsCalculator.getLengthbr());
 			midNode.positionData.graphref = true;
 			// reanchor here
 			reanchored = true;

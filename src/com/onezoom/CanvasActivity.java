@@ -221,6 +221,8 @@ public class CanvasActivity extends Activity{
 
 		//set the tree position to fit in the screen.
 		resetTreeRootPosition();
+		treeView.resetDragScaleParameter();
+
 		//Initialize from file index '0'. 
 		//For example, if user select mammals, then initialize from 'mammalsinterior0'
 		fulltree = MidNode.startLoadingTree();
