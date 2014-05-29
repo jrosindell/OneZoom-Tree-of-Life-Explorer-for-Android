@@ -143,7 +143,7 @@ public class CanvasActivity extends Activity{
 		selectedItem = getIntent().getExtras().getString(
 				"com.onezoom.selectedTree");
 		} catch (NullPointerException e) {
-			selectedItem = "mammals";
+			selectedItem = "Mammals";
 		}
 		/**
 		 * Create two views.

@@ -13,7 +13,7 @@ class GrowthThread extends Thread {
 	Handler handler;
 	CanvasActivity client;
 	boolean started = false;
-	boolean pause = false;
+	int state;
 	static final int MSG_PLAY = 0;
 	static final int MSG_PAUSE = 1;
 	static final int MSG_STOP = 2;
@@ -21,6 +21,12 @@ class GrowthThread extends Thread {
 	static final int MSG_CLOSE = 4;
 	static final int MSG_START_PLAY = 5;
 	static final int MSG_START_REVERT = 6;
+	static final int STATE_PAUSE = 20;
+	static final int STATE_INIT = 21;
+	static final int STATE_PLAY = 22;
+	static final int STATE_REVERT = 23;
+	static final int STATE_STOP= 24;
+
 	final int GROWTH_RATE = 10;
 	Map<String, Integer> map;
 	static int treeAge = 0;
@@ -31,6 +37,7 @@ class GrowthThread extends Thread {
 	 */
 	public GrowthThread(CanvasActivity activity) {
 		client = activity;
+		state = STATE_INIT;
 		map = new TreeMap<String, Integer>();
 		map.put("Mammals", 166);
 		map.put("Birds", 113);
@@ -66,13 +73,14 @@ class GrowthThread extends Thread {
 	}
 	
 	public void Revert() {
+		state = STATE_REVERT;
 		treeAge = map.get(client.selectedItem);
 		handler.removeMessages(MSG_PLAY);
 		handler.sendEmptyMessage(MSG_START_REVERT);
 	}
 	
 	public void Pause() {
-		pause = true;
+		state = STATE_PAUSE;
 		handler.sendEmptyMessage(MSG_PAUSE);
 	}
 	
@@ -81,21 +89,22 @@ class GrowthThread extends Thread {
 	 * Otherwise set time line to the start of selected group.
 	 */
 	public void Play() {
-		if (pause == false) {
+		if (state == STATE_INIT || state == STATE_STOP) {
 			treeAge = map.get(client.selectedItem);
 			TraitsData.timelim = treeAge;
 		}
-		else 
-			pause = !pause;
+		state = STATE_PLAY;
 		handler.removeMessages(MSG_REVERT);
 		handler.sendEmptyMessage(MSG_START_PLAY);
 	}
 	
 	public void Close() {
+		state = STATE_INIT;
 		handler.sendEmptyMessage(MSG_CLOSE);
 	}
 	
 	public void Stop() {
+		state = STATE_STOP;
 		handler.sendEmptyMessage(MSG_STOP);
 	}
 }
@@ -123,7 +132,7 @@ class growthHandler extends Handler {
 			TraitsData.timelim += 0.65;
 			//after tree view draw tree, it will set during interaction as true.
 			//reset this variable so that the tree view will draw tree
-			client.treeView.setDuringInteraction(false);
+			client.treeView.setRefreshNeeded(true);
 			client.treeView.postInvalidate();
 			if (TraitsData.timelim < GrowthThread.treeAge)
 				sendEmptyMessageDelayed(GrowthThread.MSG_REVERT, 40);
@@ -150,7 +159,7 @@ class growthHandler extends Handler {
 			TraitsData.timelim -= 0.65;
 			//after tree view draw tree, it will set during interaction as true.
 			//reset this variable so that the tree view will draw tree
-			client.treeView.setDuringInteraction(false);
+			client.treeView.setRefreshNeeded(true);
 			client.treeView.postInvalidate();
 			if (TraitsData.timelim > 0)
 				sendEmptyMessageDelayed(GrowthThread.MSG_PLAY, 40);
@@ -163,7 +172,7 @@ class growthHandler extends Handler {
 			this.removeMessages(GrowthThread.MSG_REVERT);
 			this.removeMessages(GrowthThread.MSG_START_PLAY);
 			this.removeMessages(GrowthThread.MSG_START_REVERT);
-			client.treeView.setDuringInteraction(false);
+			client.treeView.setRefreshNeeded(true);
 			client.treeView.postInvalidate();
 			break;
 		
@@ -173,7 +182,7 @@ class growthHandler extends Handler {
 			this.removeMessages(GrowthThread.MSG_REVERT);
 			this.removeMessages(GrowthThread.MSG_START_PLAY);
 			this.removeMessages(GrowthThread.MSG_START_REVERT);
-			client.treeView.setDuringInteraction(false);
+			client.treeView.setRefreshNeeded(true);
 			client.treeView.setDuringGrowthAnimation(false);
 			client.treeView.postInvalidate();
 			break;
