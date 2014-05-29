@@ -20,6 +20,7 @@ import android.app.Dialog;
 import android.app.SearchManager;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -140,10 +141,17 @@ public class CanvasActivity extends Activity{
 		 * Get the tree which was selected by the user.
 		 */
 		try {
-		selectedItem = getIntent().getExtras().getString(
-				"com.onezoom.selectedTree");
+			selectedItem = getIntent().getExtras().getString(
+					"com.onezoom.selectedTree");	
+			SharedPreferences settings = getSharedPreferences("tree_name", 0);
+		    SharedPreferences.Editor editor = settings.edit();
+		    editor.putString("tree_name", selectedItem);
+		    editor.commit();
 		} catch (NullPointerException e) {
-			selectedItem = "Mammals";
+			SharedPreferences settings = getSharedPreferences("tree_name", 0);
+			selectedItem = settings.getString("tree_name", null);	
+			if (selectedItem == null) 
+				selectedItem = "Mammals";
 		}
 		/**
 		 * Create two views.
