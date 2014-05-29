@@ -1,7 +1,5 @@
 package com.onezoom;
 
-import java.util.ArrayList;
-
 import com.onezoom.midnode.MidNode;
 import com.onezoom.midnode.PositionData;
 import com.onezoom.midnode.Utility;
@@ -41,8 +39,6 @@ public class TreeView extends View {
 	private Bitmap initBitmap;
 	private Paint paint;
 	private boolean toggle = true;
-	private ArrayList<OneMotion> motions;
-	private OneMotion lastMotion;
 	public static final float FACTOR = 1.4f;
 	public boolean testDragAfterScale;
 	private boolean lastActionAsScale = false;
@@ -53,11 +49,6 @@ public class TreeView extends View {
 	private float distanceTotalY = 0f;
 	private float xp, yp, ws;
 	
-	public void createNewMotion() {
-		lastMotion = new OneMotion();
-		motions.add(lastMotion);
-	}
-	
 	public boolean isFirstAction() {
 		return isFirstAction;
 	}
@@ -67,52 +58,36 @@ public class TreeView extends View {
 		this.isFirstAction = isFirstAction;
 	}
 	
-	public float getScaleX() {
-		return lastMotion.scaleX;
+	public float getScaleTotalX() {
+		return scaleTotalX;
 	}
-	
-	public void setScaleX(float scaleX) {
-		lastMotion.scaleX = scaleX;
+
+	public void setScaleTotalX(float scaleTotalX) {
+		this.scaleTotalX = scaleTotalX;
 	}
-	
-	public float getScaleY() {
-		return lastMotion.scaleY;
+
+	public float getScaleTotalY() {
+		return scaleTotalY;
 	}
-	
-	public void setScaleY(float scaleY) {
-		lastMotion.scaleY = scaleY;
+
+	public void setScaleTotalY(float scaleTotalY) {
+		this.scaleTotalY = scaleTotalY;
 	}
-	
-	public float getScaleCenterX() {
-		return lastMotion.scaleCenterX;
+
+	public float getDistanceTotalX() {
+		return distanceTotalX;
 	}
-	
-	public void setScaleCenterX(float scaleCenterX) {
-		lastMotion.scaleCenterX = scaleCenterX;
+
+	public void setDistanceTotalX(float distanceTotalX) {
+		this.distanceTotalX = distanceTotalX;
 	}
-	
-	public float getScaleCenterY() {
-		return lastMotion.scaleCenterY;
+
+	public float getDistanceTotalY() {
+		return distanceTotalY;
 	}
-	
-	public void setScaleCenterY(float scaleCenterY) {
-		lastMotion.scaleCenterY = scaleCenterY;
-	}
-	
-	public float getDistanceX() {
-		return lastMotion.distanceX;
-	}
-	
-	public void setDistanceX(float distanceX) {
-		lastMotion.distanceX = distanceX;
-	}
-	
-	public float getDistanceY() {
-		return lastMotion.distanceY;
-	}
-	
-	public void setDistanceY(float distanceY) {
-		lastMotion.distanceY = distanceY;
+
+	public void setDistanceTotalY(float distanceTotalY) {
+		this.distanceTotalY = distanceTotalY;
 	}
 
 	public boolean isLastActionAsScale() {
@@ -152,7 +127,6 @@ public class TreeView extends View {
 		gestureDetector = new GestureDetector(context, new TreeViewGestureListener(this));
 		scaleListener = new ScaleListener(this);
 		scaleDetector = new ScaleGestureDetector(context, scaleListener);
-		motions = new ArrayList<OneMotion>();
 		//this will not be used. set to 1,1 to speed up the app
 		cachedBitmap = Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888); 
 		paint = new Paint();
@@ -219,10 +193,14 @@ public class TreeView extends View {
 	}
 	
 	private void resetDragScaleParameter() {
-		this.motions.clear();
+//		this.motions.clear();
 		xp = PositionData.xp;
 		yp = PositionData.yp;
 		ws = PositionData.ws;
+		scaleTotalX = 1f;
+		scaleTotalY = 1f;
+		distanceTotalX = 0f;
+		distanceTotalY = 0f;
 	}
 
 	/**
@@ -243,7 +221,7 @@ public class TreeView extends View {
 			duringInteraction = false;
 			isFirstAction = true;
 			lastActionAsScale = false;
-			calculateMoveParameter();
+//			calculateMoveParameter();
 			PositionData.xp = xp;
 			PositionData.yp = yp;
 			PositionData.ws = ws;
@@ -337,35 +315,11 @@ public class TreeView extends View {
 	 * @param canvas
 	 */
 	private void drawUsingCachedBitmap(Canvas canvas, Bitmap cached) {
-		calculateMoveParameter();
+//		calculateMoveParameter();
 		canvas.translate(distanceTotalX, distanceTotalY);
 		canvas.scale(scaleTotalX, scaleTotalY);
 		canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 		canvas.drawBitmap(cached, null, new Rect(0, 0, getWidth(),getHeight()), paint);
-	}
-	
-
-	/**
-	 * 
-	 */
-	private void calculateMoveParameter() {
-		scaleTotalX = 1f;
-		scaleTotalY = 1f;
-		distanceTotalX = 0f;
-		distanceTotalY = 0f;
-		for (int i = 0; i < motions.size(); i++) {
-			OneMotion motion = motions.get(i);
-			if (motion.distanceX != 0) {
-				//drag
-				distanceTotalX += motion.distanceX;
-				distanceTotalY += motion.distanceY;
-			} else {
-				distanceTotalX = (1 - motion.scaleX) * motion.scaleCenterX + motion.scaleX * distanceTotalX;
-				distanceTotalY = (1 - motion.scaleY) * motion.scaleCenterY + motion.scaleY * distanceTotalY;
-				scaleTotalX *= motion.scaleX;
-				scaleTotalY *= motion.scaleY;
-			}
-		}
 	}
 
 	/**
@@ -467,20 +421,5 @@ public class TreeView extends View {
 		
 		textPaint.setColor(Color.WHITE);
 		canvas.drawText(text, x, y, textPaint);	                     
-	}
-}
-
-class OneMotion {
-	float distanceX, distanceY, scaleX, scaleY, scaleCenterX, scaleCenterY;
-	boolean isScale;
-	
-	public OneMotion() {
-		distanceX = 0;
-		distanceY = 0;
-		scaleX = 1;
-		scaleY = 1;
-		scaleCenterX = 0;
-		scaleCenterY = 0;
-		isScale = false;
 	}
 }

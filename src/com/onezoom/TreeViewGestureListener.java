@@ -25,13 +25,12 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 			}
 			
 			if (treeView.isFirstAction() || treeView.isLastActionAsScale()) {
-				treeView.createNewMotion();
 				treeView.setFirstAction(false);
 				treeView.setLastActionAsScale(false);
 			}
 			
-			treeView.setDistanceX(treeView.getDistanceX() - distanceX);
-			treeView.setDistanceY(treeView.getDistanceY() - distanceY);
+			treeView.setDistanceTotalX(treeView.getDistanceTotalX() - distanceX);
+			treeView.setDistanceTotalY(treeView.getDistanceTotalY() - distanceY);
 			treeView.invalidate();
 			return true;
 		} catch (NullPointerException exception) {
@@ -61,11 +60,14 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 				treeView.client.loadLinkURL();
 				treeView.client.displayWebView();	
 			} else {
-				treeView.createNewMotion();
-				treeView.setScaleX(treeView.getScaleX() * TreeView.FACTOR);
-				treeView.setScaleY(treeView.getScaleY() * TreeView.FACTOR);	
-				treeView.setScaleCenterX(e.getX());
-				treeView.setScaleCenterY(e.getY());
+				float dx = (1 - TreeView.FACTOR) * e.getX()
+						+ TreeView.FACTOR * treeView.getDistanceTotalX();
+				float dy = (1 - TreeView.FACTOR) * e.getY()
+						+ TreeView.FACTOR * treeView.getDistanceTotalY();
+				treeView.setDistanceTotalX(dx);
+				treeView.setDistanceTotalY(dy);
+				treeView.setScaleTotalX(treeView.getScaleTotalX() * TreeView.FACTOR);
+				treeView.setScaleTotalY(treeView.getScaleTotalY() * TreeView.FACTOR);
 				treeView.setLastActionAsScale(true);
 			}
 			
@@ -82,21 +84,16 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 	@Override
 	public boolean onDoubleTap(MotionEvent e) {
 		try {
-			float currentXp = e.getX();
-			float currentYp = e.getY();
-			
-			float shiftXp = currentXp + (PositionData.getXp() - currentXp) * TreeView.FACTOR - PositionData.getXp();
-			float shiftYp = currentYp + (PositionData.getYp() - currentYp) * TreeView.FACTOR - PositionData.getYp();
-			
+			float dx = (1 - TreeView.FACTOR) * e.getX()
+					+ TreeView.FACTOR * treeView.getDistanceTotalX();
+			float dy = (1 - TreeView.FACTOR) * e.getY()
+					+ TreeView.FACTOR * treeView.getDistanceTotalY();
+			treeView.setDistanceTotalX(dx);
+			treeView.setDistanceTotalY(dy);
+			treeView.setScaleTotalX(treeView.getScaleTotalX() * TreeView.FACTOR);
+			treeView.setScaleTotalY(treeView.getScaleTotalY() * TreeView.FACTOR);
 			treeView.setLastActionAsScale(true);
-	
-			treeView.setScaleX(treeView.getScaleX() * TreeView.FACTOR);
-			treeView.setScaleY(treeView.getScaleY() * TreeView.FACTOR);	
-			treeView.setScaleCenterX(currentXp);
-			treeView.setScaleCenterY(currentYp);
-			
-			treeView.zoomin(TreeView.FACTOR, shiftXp, shiftYp);
-			
+						
 			treeView.invalidate();
 		} catch (NullPointerException exception) {
 			

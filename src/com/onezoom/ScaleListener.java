@@ -37,21 +37,20 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 			
 			
 			treeView.testDragAfterScale = false;
-							
 			
-			if (treeView.isLastActionAsScale()) {
-				treeView.setScaleX(treeView.getScaleX() * detector.getScaleFactor());
-				treeView.setScaleY(treeView.getScaleY() * detector.getScaleFactor());
-			} else {
+			if (!treeView.isLastActionAsScale()) {
 				treeView.setFirstAction(false);
 				treeView.setLastActionAsScale(true);
-				treeView.createNewMotion();
-				treeView.setScaleX(detector.getScaleFactor());
-				treeView.setScaleY(detector.getScaleFactor());
 			}
 			
-			treeView.setScaleCenterX(detector.getFocusX());
-			treeView.setScaleCenterY(detector.getFocusY());
+			float dx = (1 - detector.getScaleFactor()) * detector.getFocusX()
+					+ detector.getScaleFactor() * treeView.getDistanceTotalX();
+			float dy = (1 - detector.getScaleFactor()) * detector.getFocusY()
+					+ detector.getScaleFactor() * treeView.getDistanceTotalY();
+			treeView.setDistanceTotalX(dx);
+			treeView.setDistanceTotalY(dy);
+			treeView.setScaleTotalX(treeView.getScaleTotalX() * detector.getScaleFactor());
+			treeView.setScaleTotalY(treeView.getScaleTotalY() * detector.getScaleFactor());
 			
 			lastXp = detector.getFocusX();
 			lastYp = detector.getFocusY();
