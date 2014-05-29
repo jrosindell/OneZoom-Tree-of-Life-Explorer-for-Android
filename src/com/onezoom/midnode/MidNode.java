@@ -65,16 +65,14 @@ public abstract class MidNode implements Comparable<MidNode>{
 	 * calculate new position and load new file at the same time.
 	 */
 	public void recalculateDynamic() {
-		PositionCalculator.setDynamic(false);
+		PositionCalculator.setDynamic(true);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
-//		if ((PositionData.ws > 100 || PositionData.ws < 0.01)
-//				&& !Initializer.canvasActivity.getTreeView().isDuringInteraction()) {
-//			positionCalculator.reanchor(this);
-//		}
+
 		if (PositionData.ws > 100 || PositionData.ws < 0.01) {
+			System.out.println("reanchor called");
 			positionCalculator.reanchor(this);
 		}
-		PositionCalculator.setDynamic(true);
+		PositionCalculator.setDynamic(false);
 		recalculateDynamic(PositionData.xp, PositionData.yp, PositionData.ws);
 	}
 

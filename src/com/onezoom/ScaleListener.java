@@ -19,43 +19,47 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 	 */
 	@Override
 	public boolean onScale(ScaleGestureDetector detector) {
-		float spanDiff = Math.abs(detector.getCurrentSpanX() - detector.getPreviousSpanX())
-				+ Math.abs(detector.getCurrentSpanY() - detector.getPreviousSpanY());
-		float focusDiff = Math.abs(lastXp - detector.getFocusX()) + Math.abs(lastYp - detector.getFocusY());
-		
-		if (thisOnDrag(spanDiff, focusDiff)) {
-			lastXp = detector.getFocusX();
-			lastYp = detector.getFocusY();
-			return true;
-		} else if (!thisOnScale(spanDiff, focusDiff)) {
+		try {
+			float spanDiff = Math.abs(detector.getCurrentSpanX() - detector.getPreviousSpanX())
+					+ Math.abs(detector.getCurrentSpanY() - detector.getPreviousSpanY());
+			float focusDiff = Math.abs(lastXp - detector.getFocusX()) + Math.abs(lastYp - detector.getFocusY());
+			
+			if (thisOnDrag(spanDiff, focusDiff)) {
+				lastXp = detector.getFocusX();
+				lastYp = detector.getFocusY();
+				return true;
+			} else if (!thisOnScale(spanDiff, focusDiff)) {
+				treeView.testDragAfterScale = false;
+				lastXp = detector.getFocusX();
+				lastYp = detector.getFocusY();
+				return true;
+			}
+			
+			
 			treeView.testDragAfterScale = false;
+							
+			
+			if (treeView.isLastActionAsScale()) {
+				treeView.setScaleX(treeView.getScaleX() * detector.getScaleFactor());
+				treeView.setScaleY(treeView.getScaleY() * detector.getScaleFactor());
+			} else {
+				treeView.setFirstAction(false);
+				treeView.setLastActionAsScale(true);
+				treeView.createNewMotion();
+				treeView.setScaleX(detector.getScaleFactor());
+				treeView.setScaleY(detector.getScaleFactor());
+			}
+			
+			treeView.setScaleCenterX(detector.getFocusX());
+			treeView.setScaleCenterY(detector.getFocusY());
+			
 			lastXp = detector.getFocusX();
 			lastYp = detector.getFocusY();
-			return true;
+			
+			treeView.invalidate();
+		} catch (NullPointerException exception) {
+			
 		}
-		
-		
-		treeView.testDragAfterScale = false;
-						
-		
-		if (treeView.isLastActionAsScale()) {
-			treeView.setScaleX(treeView.getScaleX() * detector.getScaleFactor());
-			treeView.setScaleY(treeView.getScaleY() * detector.getScaleFactor());
-		} else {
-			treeView.setFirstAction(false);
-			treeView.setLastActionAsScale(true);
-			treeView.createNewMotion();
-			treeView.setScaleX(detector.getScaleFactor());
-			treeView.setScaleY(detector.getScaleFactor());
-		}
-		
-		treeView.setScaleCenterX(detector.getFocusX());
-		treeView.setScaleCenterY(detector.getFocusY());
-		
-		lastXp = detector.getFocusX();
-		lastYp = detector.getFocusY();
-		
-		treeView.invalidate();
 		return true;
 	}
 

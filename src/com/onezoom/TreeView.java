@@ -51,6 +51,7 @@ public class TreeView extends View {
 	private float scaleTotalY = 1f;
 	private float distanceTotalX = 0f;
 	private float distanceTotalY = 0f;
+	private float xp, yp, ws;
 	
 	public void createNewMotion() {
 		lastMotion = new OneMotion();
@@ -155,6 +156,7 @@ public class TreeView extends View {
 		//this will not be used. set to 1,1 to speed up the app
 		cachedBitmap = Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888); 
 		paint = new Paint();
+		this.resetDragScaleParameter();
 	}
 	
 	public void setCachedBitmap(Bitmap cachedBitmap) {
@@ -218,6 +220,9 @@ public class TreeView extends View {
 	
 	private void resetDragScaleParameter() {
 		this.motions.clear();
+		xp = PositionData.xp;
+		yp = PositionData.yp;
+		ws = PositionData.ws;
 	}
 
 	/**
@@ -239,6 +244,9 @@ public class TreeView extends View {
 			isFirstAction = true;
 			lastActionAsScale = false;
 			calculateMoveParameter();
+			PositionData.xp = xp;
+			PositionData.yp = yp;
+			PositionData.ws = ws;
 			this.zoomin(scaleTotalX, 
 					distanceTotalX + PositionData.getXp() * (scaleTotalX - 1),
 					distanceTotalY + PositionData.getYp() * (scaleTotalY - 1));
@@ -309,7 +317,6 @@ public class TreeView extends View {
 			 * and a new bitmap will be cached, therefore, the scale variables should be reset.
 			 * 
 			 */
-			this.resetDragScaleParameter();
 			cachedBitmap = loadBitmapFromView(this);
 		} else {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
@@ -318,6 +325,7 @@ public class TreeView extends View {
 			if (this.isDuringGrowthAnimation()) {
 				drawGrowthPeriodInfo(canvas, paint);
 			}
+			this.resetDragScaleParameter();
 			toggle = !toggle;
 		}
 		refreshNeeded = false;
@@ -405,9 +413,10 @@ public class TreeView extends View {
 	 * @param canvas
 	 */
 	private void drawLoading(Canvas canvas) {
+		canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 		String text = "loading...";
 		Paint textPaint = new Paint();
-		textPaint.setColor(Color.GREEN);
+		textPaint.setColor(Color.BLACK);
 		textPaint.setTextAlign(Align.CENTER);
 		textPaint.setTextSize(100 * CanvasActivity.getScaleFactor());
 		int x = getWidth()/2;

@@ -199,7 +199,6 @@ public class Search {
 				 */
 				if (line[0].toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase(Locale.ENGLISH))) {
 					Record newRecord = new Record(line);
-					System.out.println("line[0] -> " + line[0] + "*****");
 					if (!searchResults.contains(newRecord)) {
 						//this line has not been recorded yet.
 						if (newRecord.equalUserInput(userInput)) {
