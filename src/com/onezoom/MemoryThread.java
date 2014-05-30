@@ -126,9 +126,9 @@ class MemoryHandler extends Handler {
 		 */
 		case MemoryThread.MSG_INITIALIZATION:
 			client.initialization();
-			if (client.treeView.getInitBitmap() == null) {
+//			if (client.treeView.getInitBitmap() == null) {
 				client.treeView.postInvalidate();
-			}
+//			}
 			if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
 				this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,3000);
 			break;

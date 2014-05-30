@@ -599,7 +599,7 @@ public class Visualizer{
 	
 	private void drawTextOneLine(String outputInfo, float startX, float startY, float lineWidth, Paint paint) {
 		paint.setTextAlign(Align.CENTER);
-		paint.setTextSize(1.7f * lineWidth / outputInfo.length());
+		paint.setTextSize(1.7f * lineWidth / Math.max(4,outputInfo.length()));
 		canvas.drawText(outputInfo, startX, startY, paint);
 	}
 	

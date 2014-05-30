@@ -143,15 +143,14 @@ public class CanvasActivity extends Activity{
 		try {
 			selectedItem = getIntent().getExtras().getString(
 					"com.onezoom.selectedTree");	
-			SharedPreferences settings = getSharedPreferences("tree_name", 0);
-		    SharedPreferences.Editor editor = settings.edit();
-		    editor.putString("tree_name", selectedItem);
-		    editor.commit();
+			storeCurrentTreeIntoPreference();
 		} catch (NullPointerException e) {
 			SharedPreferences settings = getSharedPreferences("tree_name", 0);
 			selectedItem = settings.getString("tree_name", null);	
-			if (selectedItem == null) 
+			if (selectedItem == null) {
 				selectedItem = "Mammals";
+				storeCurrentTreeIntoPreference();
+			}
 		}
 		/**
 		 * Create two views.
@@ -449,7 +448,6 @@ public class CanvasActivity extends Activity{
 
 			@Override
 			public void onNothingSelected(AdapterView<?> parent) {
-				// TODO Auto-generated method stub
 				
 			}
 			
@@ -754,6 +752,17 @@ public class CanvasActivity extends Activity{
 			}
 		}
 	}
+	
+	/**
+	 * Store current tree into preference. 
+	 */
+	private void storeCurrentTreeIntoPreference() {
+		SharedPreferences settings = getSharedPreferences("tree_name", 0);
+		SharedPreferences.Editor editor = settings.edit();
+		editor.putString("tree_name", selectedItem);
+		editor.commit();
+	}
+	
 	
 	/**
 	 * Store bitmap into file.

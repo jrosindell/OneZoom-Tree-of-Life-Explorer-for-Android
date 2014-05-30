@@ -8,6 +8,7 @@ import com.onezoom.midnode.Visualizer;
 
 import android.content.Context;
 import android.graphics.Bitmap;
+import android.graphics.Bitmap.Config;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
@@ -38,6 +39,7 @@ public class TreeView extends View {
 	private boolean refreshNeeded = true;
 	private Bitmap cachedBitmap;
 	private Bitmap initBitmap;
+	private Bitmap bitmapForGenerateCache;
 	private Paint paint;
 	private boolean toggle = true;
 	public static final float FACTOR = 1.4f;
@@ -50,6 +52,7 @@ public class TreeView extends View {
 	private float distanceTotalY = 0f;
 	private float xp, yp, ws;
 	private float reanchorJusticeXp, reanchorJusticeYp, reanchorJusticeWs;
+	private boolean firstTimeDrawAndCache = true;
 	
 	public boolean isFirstAction() {
 		return isFirstAction;
@@ -137,32 +140,6 @@ public class TreeView extends View {
 	public void setToggle(boolean toggle) {
 		this.toggle = toggle;
 	}
-
-	
-	public TreeView(Context context) {
-		super(context);
-		init(context);
-	}
-	
-	public TreeView(Context context, AttributeSet attrs) {
-		super(context, attrs);
-		init(context);
-	}
-	
-	public TreeView(Context context, AttributeSet attrs, int defStyle) {
-		super(context, attrs, defStyle);
-		init(context);
-	}
-	
-	private void init(Context context) {
-		client = (CanvasActivity) context;
-		gestureDetector = new GestureDetector(context, new TreeViewGestureListener(this));
-		scaleListener = new ScaleListener(this);
-		scaleDetector = new ScaleGestureDetector(context, scaleListener);
-		//this will not be used. set to 1,1 to speed up the app
-		cachedBitmap = Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888); 
-		paint = new Paint();
-	}
 	
 	public void setCachedBitmap(Bitmap cachedBitmap) {
 		this.cachedBitmap = cachedBitmap;
@@ -223,6 +200,37 @@ public class TreeView extends View {
 		this.duringRecalculation = duringRecalculation;
 	}
 	
+	public TreeView(Context context) {
+		super(context);
+		init(context);
+	}
+	
+	public TreeView(Context context, AttributeSet attrs) {
+		super(context, attrs);
+		init(context);
+	}
+	
+	public TreeView(Context context, AttributeSet attrs, int defStyle) {
+		super(context, attrs, defStyle);
+		init(context);
+	}
+	
+	private void init(Context context) {
+		client = (CanvasActivity) context;
+		gestureDetector = new GestureDetector(context, new TreeViewGestureListener(this));
+		scaleListener = new ScaleListener(this);
+		scaleDetector = new ScaleGestureDetector(context, scaleListener);
+		//this will not be used. set to 1,1 to speed up the app
+		cachedBitmap = Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888); 
+		paint = new Paint();
+	}
+	
+	@Override
+	public void onWindowFocusChanged(boolean hasWindowFocus) {
+		super.onWindowFocusChanged(hasWindowFocus);
+		this.bitmapForGenerateCache = Bitmap.createBitmap(getWidth(), getHeight(), Bitmap.Config.ARGB_8888);
+	}
+	
 	void resetDragScaleParameter() {
 		xp = PositionData.xp;
 		yp = PositionData.yp;
@@ -246,7 +254,11 @@ public class TreeView extends View {
 	 */
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
+		if (!this.treeBeingInitialized) {
+			return true;
+		}
 		switch (event.getAction()) {
+		case MotionEvent.ACTION_MOVE:
 		case MotionEvent.ACTION_DOWN:
 			duringInteraction = true;
 			refreshNeeded = true;
@@ -292,6 +304,7 @@ public class TreeView extends View {
 			drawLoading(canvas);
 		} else if (!treeBeingInitialized && !this.getInitBitmap().isRecycled()) {
 			drawUsingCachedBitmap(canvas, this.getInitBitmap());
+			drawLoadingAtBottomOfScreen(canvas);
 		} else {
 			if ((!duringRecalculation && !duringInteraction && refreshNeeded)){
 				drawElementAndCache(canvas);
@@ -326,14 +339,20 @@ public class TreeView extends View {
 	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
-			drawUsingCachedBitmap(canvas, cachedBitmap);
-			
+			if (this.firstTimeDrawAndCache) {
+				this.drawUsingCachedBitmap(canvas, cachedBitmap);
+				this.firstTimeDrawAndCache = false;
+			} else {
+				drawUsingCachedBitmapWithoutScale(canvas, cachedBitmap);
+			}
 			/**
 			 * The tree is going to be redrawn using real data
 			 * and a new bitmap will be cached, therefore, the scale variables should be reset.
 			 * 
 			 */
 			cachedBitmap = loadBitmapFromView(this);
+			refreshNeeded = false;
+			invalidate();		
 		} else {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 			Visualizer.count = 0;
@@ -344,8 +363,10 @@ public class TreeView extends View {
 			this.resetDragScaleParameter();
 			toggle = !toggle;
 		}
-		refreshNeeded = false;
-		invalidate();		
+	}
+	
+	private void drawUsingCachedBitmapWithoutScale(Canvas canvas, Bitmap cached) {
+		canvas.drawBitmap(cached, null, new Rect(0, 0, getWidth(),getHeight()), paint);
 	}
 
 	/**
@@ -353,7 +374,6 @@ public class TreeView extends View {
 	 * @param canvas
 	 */
 	private void drawUsingCachedBitmap(Canvas canvas, Bitmap cached) {
-//		calculateMoveParameter();
 		canvas.translate(distanceTotalX, distanceTotalY);
 		canvas.scale(scaleTotalX, scaleTotalY);
 		canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
@@ -369,15 +389,12 @@ public class TreeView extends View {
 		if (v == null) {
 			return null;
 		}
-		Bitmap bitmap = Bitmap.createBitmap(getWidth(),getHeight(), Bitmap.Config.ARGB_8888);
-		Canvas c = new Canvas(bitmap);
-		c.translate(-v.getScrollX(), -v.getScrollY());
-		
+		Canvas c = new Canvas(this.bitmapForGenerateCache);		
 		/**
 		 * This function calls onDraw().
 		 */
 		v.draw(c);
-		return bitmap;
+		return this.bitmapForGenerateCache;
 	}
 
 	
@@ -399,6 +416,53 @@ public class TreeView extends View {
 		client.recalculate();
 	}
 	
+	/**
+	 * 
+	 */
+	private void drawLoadingAtBottomOfScreen(Canvas canvas) {
+		String text = "Loading...";
+		drawTextAtBottomOfScreen(canvas, text, 1.3f);	  
+	}
+
+
+	private void drawTextAtBottomOfScreen(Canvas canvas, String text, float scale) {
+		int x = getWidth()/2;
+		
+		/**
+		 * Text should be near the bottom of the device. 
+		 * 
+		 * Adjust the distance between the text and the bottom of the screen based on the size of the screen.
+		 * 
+		 * Multiply height width ratio so that the text is a bit more closer to the bottom of the screen
+		 * in landscape view than in portrait view.
+		 */
+		int y = (int) (getHeight() -
+				80 * client.getScreenHeight() / client.getScreenWidth() * CanvasActivity.getScaleFactor());
+		
+		Paint textPaint = new Paint();
+		textPaint.setTextAlign(Align.CENTER);
+		textPaint.setTextSize(30 * CanvasActivity.getScaleFactor() * scale);
+		textPaint.setColor(Color.argb(150, 0, 0, 0));
+		
+		/**
+		 * Left should be at least 10 units. If text length is small, then the left boarder will be more close
+		 * to the center. 
+		 * 
+		 * Set the right border is similar but in an opposite way.
+		 * 
+		 * the text is on position y. Therefore add and minus some distance which is linear to the ratio of
+		 * the text size as the top border and bottom border.
+		 */
+		canvas.drawRect(
+				Math.max(10, getWidth()/2 - text.length() * textPaint.getTextSize() / 3.3f),   //left
+				y - textPaint.getTextSize() * 1.3f,      //top
+				Math.min(client.getScreenWidth() - 10, 
+						getWidth()/2 + text.length() * textPaint.getTextSize() / 3.3f),   //right
+				y + textPaint.getTextSize() * 0.7f, textPaint);  //bottom
+		
+		textPaint.setColor(Color.WHITE);
+		canvas.drawText(text, x, y, textPaint);
+	}
 
 	/**
 	 * Draw 'loading' when the tree is not initialized yet.
@@ -423,41 +487,6 @@ public class TreeView extends View {
 	 */
 	private void drawGrowthPeriodInfo(Canvas canvas, Paint paint) {
 		String text = Utility.growthInfo();
-		int x = getWidth()/2;
-		
-		/**
-		 * Text should be near the bottom of the device. 
-		 * 
-		 * Adjust the distance between the text and the bottom of the screen based on the size of the screen.
-		 * 
-		 * Multiply height width ratio so that the text is a bit more closer to the bottom of the screen
-		 * in landscape view than in portrait view.
-		 */
-		int y = (int) (getHeight() -
-				80 * client.getScreenHeight() / client.getScreenWidth() * CanvasActivity.getScaleFactor());
-		
-		Paint textPaint = new Paint();
-		textPaint.setTextAlign(Align.CENTER);
-		textPaint.setTextSize(30 * CanvasActivity.getScaleFactor());
-		textPaint.setColor(Color.argb(150, 0, 0, 0));
-		
-		/**
-		 * Left should be at least 10 units. If text length is small, then the left boarder will be more close
-		 * to the center. 
-		 * 
-		 * Set the right border is similar but in an opposite way.
-		 * 
-		 * the text is on position y. Therefore add and minus some distance which is linear to the ratio of
-		 * the text size as the top border and bottom border.
-		 */
-		canvas.drawRect(
-				Math.max(10, getWidth()/2 - text.length() * textPaint.getTextSize() / 3.3f),   //left
-				y - textPaint.getTextSize() * 1.3f,      //top
-				Math.min(client.getScreenWidth() - 10, 
-						getWidth()/2 + text.length() * textPaint.getTextSize() / 3.3f),   //right
-				y + textPaint.getTextSize() * 0.7f, textPaint);  //bottom
-		
-		textPaint.setColor(Color.WHITE);
-		canvas.drawText(text, x, y, textPaint);	                     
+		drawTextAtBottomOfScreen(canvas, text, 1);	                     
 	}
 }
