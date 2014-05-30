@@ -236,7 +236,6 @@ public class CanvasActivity extends Activity{
 		
 		fulltree.recalculateDynamic();
 		//set tree as being initialized so that tree view draws the tree instead of drawing 'loading'
-		treeView.setTreeBeingInitialized(true);	
 	}
 
 	
@@ -814,5 +813,7 @@ public class CanvasActivity extends Activity{
 	public void endTutorial() {
 		this.introductionView.setVisibility(View.GONE);
 		treeView.setVisibility(View.VISIBLE);
+		treeView.setRefreshNeeded(true);
+		treeView.invalidate();
 	}
 }

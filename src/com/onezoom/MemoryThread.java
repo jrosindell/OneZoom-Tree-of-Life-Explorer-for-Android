@@ -126,11 +126,11 @@ class MemoryHandler extends Handler {
 		 */
 		case MemoryThread.MSG_INITIALIZATION:
 			client.initialization();
-//			if (client.treeView.getInitBitmap() == null) {
-				client.treeView.postInvalidate();
-//			}
+			client.treeView.setTreeBeingInitialized(true);	
+			client.treeView.postInvalidate();
+
 			if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
-				this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,3000);
+				this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			break;
 			
 		/**
@@ -147,7 +147,7 @@ class MemoryHandler extends Handler {
 					client.treeView.setRefreshNeeded(true);
 					client.treeView.postInvalidate();
 					if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
-						this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,3000);
+						this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 				} 
 			}
 			break;
@@ -169,7 +169,7 @@ class MemoryHandler extends Handler {
 				client.treeView.setDuringRecalculation(false);
 				client.treeView.postInvalidate();
 				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
-					this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,3000);
+					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
 			
@@ -181,9 +181,11 @@ class MemoryHandler extends Handler {
 		 */
 		case MemoryThread.MSG_IDLECALCULATION:
 			if (!this.HasMessages() && !client.treeView.isDuringInteraction()) {
+				long start = System.nanoTime();
 				client.getInitializer().idleTimeInitialization();
+				System.out.println("idle calculate once -> " + ((System.nanoTime() - start)/1000000));
 				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
-					this.sendEmptyMessageDelayed(MemoryThread.MSG_IDLECALCULATION,30);
+					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
 			}
 			break;
 		case MemoryThread.MSG_SEARCH:

@@ -301,7 +301,8 @@ public class TreeView extends View {
 	protected void onDraw(Canvas canvas) {
 		super.onDraw(canvas);
 		if (!treeBeingInitialized && this.getInitBitmap() == null) {
-			drawLoading(canvas);
+			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
+			drawLoadingAtBottomOfScreen(canvas);
 		} else if (!treeBeingInitialized && !this.getInitBitmap().isRecycled()) {
 			drawUsingCachedBitmap(canvas, this.getInitBitmap());
 			drawLoadingAtBottomOfScreen(canvas);
@@ -339,6 +340,7 @@ public class TreeView extends View {
 	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
+			System.out.println("draw first time -> " + this.firstTimeDrawAndCache);
 			if (this.firstTimeDrawAndCache) {
 				this.drawUsingCachedBitmap(canvas, cachedBitmap);
 				this.firstTimeDrawAndCache = false;
