@@ -340,7 +340,6 @@ public class TreeView extends View {
 	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
-			System.out.println("draw first time -> " + this.firstTimeDrawAndCache);
 			if (this.firstTimeDrawAndCache) {
 				this.drawUsingCachedBitmap(canvas, cachedBitmap);
 				this.firstTimeDrawAndCache = false;

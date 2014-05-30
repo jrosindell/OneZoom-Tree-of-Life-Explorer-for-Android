@@ -102,18 +102,25 @@ public class PositionData implements Comparable<PositionData>{
 	 * It is used to decide which chunk of file should be initialized first.
 	 * 
 	 * The node which is closer to the center of the screen will be initialized earlier.
+	 * 
+	 * If this node is more likely to be initialized, return -1;
 	 */
 	@Override
 	public int compareTo(PositionData another) {
-		float thisDistanceToCenter = getDistanceToCenter(this);
-		float thatDistanceToCenter = getDistanceToCenter(another);
-		if (thisDistanceToCenter > thatDistanceToCenter) return 1;
-		else if (thisDistanceToCenter < thatDistanceToCenter) return -1;
-		return 0;
+		float distanceToCenter = this.getDistanceToCenter(this);
+		float thatDistanceToCenter = this.getDistanceToCenter(another);
+		if (distanceToCenter > thatDistanceToCenter) return 1;
+		else if (distanceToCenter < thatDistanceToCenter) return -1;
+		else return 0;
 	}
 	
 	private float getDistanceToCenter(PositionData pd) {
-		return Math.abs(pd.xvar * 2 - screenXmax - screenXmin) + Math.abs(pd.yvar * 2 - screenYmax - screenYmin);
+		float distanceToCenter =  Math.abs(pd.xvar * 2 - screenXmax - screenXmin) + Math.abs(pd.yvar * 2 - screenYmax - screenYmin);
+		if (pd.rvar < 220)
+			distanceToCenter = distanceToCenter / pd.rvar;
+		else 
+			distanceToCenter = distanceToCenter * pd.rvar / 220 / 220;
+		return distanceToCenter;
 	}
 
 	/**
@@ -129,5 +136,10 @@ public class PositionData implements Comparable<PositionData>{
 				-220 * searchedNode.positionData.arcx * CanvasActivity.getScaleFactor(), 
 				-220 * searchedNode.positionData.arcy * CanvasActivity.getScaleFactor(),
 				1f);	
+	}
+	
+	public String toString() {
+		float distanceToCenter = this.getDistanceToCenter(this);
+		return Float.toString(distanceToCenter);
 	}
 }
