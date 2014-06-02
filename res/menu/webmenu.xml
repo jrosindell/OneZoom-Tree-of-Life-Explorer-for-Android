@@ -28,6 +28,6 @@
      <item
         android:id = "@+id/web_back_to_tree"
         android:title = "@string/search_hint"
-        android:icon = "@drawable/onezoom"
+        android:icon = "@drawable/back_arrow"
         android:showAsAction = "always"/>
 </menu>

@@ -23,7 +23,8 @@ public class Visualizer{
 	private static final float thresholdDrawTextDetailCircle = 300f;
 	private static final float thresholdDrawTextRoughLeaf = 35f;
 	private static final float thresholdDrawTextDetailLeaf = 140f;
-	private static final float rangeBaseForDrawSignPost = 120f;
+	private static final float rangeBaseForDrawSignPost = 80f;
+	private static final float rangeUpperBoundForDrawSignPost = 500f;
 	private static final boolean drawSignPost = true;
 	private static boolean usingCommon = true;
 	public static int count;
@@ -276,7 +277,7 @@ public class Visualizer{
 				float y = midNode.positionData.yvar;
 				float radius = midNode.positionData.hxmax - midNode.positionData.hxmin;
 				if (r * radius > 1f * rangeBaseForDrawSignPost
-						&& r * radius < 4f * rangeBaseForDrawSignPost) {
+						&& r * radius < rangeUpperBoundForDrawSignPost) {
 					/**
 					 * if the ratio of the node is appropriate for drawing signpost
 					 *  and it has a common name, then draw sign post on this node

@@ -42,7 +42,7 @@ class GrowthThread extends Thread {
 		map.put("Mammals", 166);
 		map.put("Birds", 113);
 		map.put("Tetrapods", 390);
-		map.put("Amphibian", 370);
+		map.put("Amphibians", 370);
 		map.put("Turtles", 210);
 	}
 	
@@ -53,7 +53,7 @@ class GrowthThread extends Thread {
 	public void run() {
 		try {
 			Looper.prepare();
-			handler = new growthHandler(client);
+			handler = new growthHandler(client, this);
 			Looper.loop();
 		} catch (Throwable t) {
 		}
@@ -73,9 +73,13 @@ class GrowthThread extends Thread {
 	}
 	
 	public void Revert() {
+		if (state == STATE_STOP || state == STATE_REVERT) {
+			TraitsData.timelim = -1;
+		}
 		state = STATE_REVERT;
 		treeAge = map.get(client.selectedItem);
 		handler.removeMessages(MSG_PLAY);
+		handler.removeMessages(MSG_REVERT);
 		handler.sendEmptyMessage(MSG_START_REVERT);
 	}
 	
@@ -89,12 +93,13 @@ class GrowthThread extends Thread {
 	 * Otherwise set time line to the start of selected group.
 	 */
 	public void Play() {
-		if (state == STATE_INIT || state == STATE_STOP) {
+		if (state == STATE_INIT || state == STATE_STOP || state == STATE_PLAY) {
 			treeAge = map.get(client.selectedItem);
 			TraitsData.timelim = treeAge;
 		}
 		state = STATE_PLAY;
 		handler.removeMessages(MSG_REVERT);
+		handler.removeMessages(MSG_PLAY);
 		handler.sendEmptyMessage(MSG_START_PLAY);
 	}
 	
@@ -111,7 +116,9 @@ class GrowthThread extends Thread {
 
 class growthHandler extends Handler {
 	CanvasActivity client;
-	public growthHandler(CanvasActivity activity) {
+	GrowthThread thread;
+	public growthHandler(CanvasActivity activity, GrowthThread thread) {
+		this.thread = thread;
 		client = activity;
 	}
 
@@ -136,6 +143,8 @@ class growthHandler extends Handler {
 			client.treeView.postInvalidate();
 			if (TraitsData.timelim < GrowthThread.treeAge)
 				sendEmptyMessageDelayed(GrowthThread.MSG_REVERT, 40);
+			else
+				thread.state = GrowthThread.STATE_STOP;
 			break;
 			
 			
@@ -163,6 +172,8 @@ class growthHandler extends Handler {
 			client.treeView.postInvalidate();
 			if (TraitsData.timelim > 0)
 				sendEmptyMessageDelayed(GrowthThread.MSG_PLAY, 40);
+			else
+				thread.state = GrowthThread.STATE_STOP;
 			break;
 	
 			
