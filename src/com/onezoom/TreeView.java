@@ -8,7 +8,6 @@ import com.onezoom.midnode.Visualizer;
 
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.Bitmap.Config;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
@@ -44,8 +43,6 @@ public class TreeView extends View {
 	private boolean toggle = true;
 	public static final float FACTOR = 1.4f;
 	public boolean testDragAfterScale;
-	private boolean lastActionAsScale = false;
-	private boolean isFirstAction = true;
 	private float scaleTotalX = 1f;
 	private float scaleTotalY = 1f;
 	private float distanceTotalX = 0f;
@@ -53,15 +50,6 @@ public class TreeView extends View {
 	private float xp, yp, ws;
 	private float reanchorJusticeXp, reanchorJusticeYp, reanchorJusticeWs;
 	private boolean firstTimeDrawAndCache = true;
-	
-	public boolean isFirstAction() {
-		return isFirstAction;
-	}
-
-
-	public void setFirstAction(boolean isFirstAction) {
-		this.isFirstAction = isFirstAction;
-	}
 	
 	public float getScaleTotalX() {
 		return scaleTotalX;
@@ -124,15 +112,6 @@ public class TreeView extends View {
 		this.reanchorJusticeWs = reanchorJusticeWs;
 	}
 
-
-	public boolean isLastActionAsScale() {
-		return lastActionAsScale;
-	}
-
-	public void setLastActionAsScale(boolean lastActionAsScale) {
-		this.lastActionAsScale = lastActionAsScale;
-	}
-	
 	public boolean isToggle() {
 		return toggle;
 	}
@@ -265,8 +244,6 @@ public class TreeView extends View {
 			break;
 		case MotionEvent.ACTION_UP:
 			duringInteraction = false;
-			isFirstAction = true;
-			lastActionAsScale = false;
 			PositionData.xp = this.xp;
 			PositionData.yp = this.yp;
 			PositionData.ws = this.ws;
@@ -358,9 +335,6 @@ public class TreeView extends View {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 			Visualizer.count = 0;
 			MidNode.visualizer.drawTree(canvas, client.getTreeRoot());
-			if (this.isDuringGrowthAnimation()) {
-				drawGrowthPeriodInfo(canvas, paint);
-			}
 			this.resetDragScaleParameter();
 			toggle = !toggle;
 		}
@@ -368,6 +342,10 @@ public class TreeView extends View {
 	
 	private void drawUsingCachedBitmapWithoutScale(Canvas canvas, Bitmap cached) {
 		canvas.drawBitmap(cached, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+		if (this.isDuringGrowthAnimation()) {
+			drawGrowthPeriodInfo(canvas, paint);
+		}
+		drawOneZoomLogo(canvas);
 	}
 
 	/**
@@ -375,10 +353,16 @@ public class TreeView extends View {
 	 * @param canvas
 	 */
 	private void drawUsingCachedBitmap(Canvas canvas, Bitmap cached) {
+		canvas.save();
 		canvas.translate(distanceTotalX, distanceTotalY);
 		canvas.scale(scaleTotalX, scaleTotalY);
 		canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 		canvas.drawBitmap(cached, null, new Rect(0, 0, getWidth(),getHeight()), paint);
+		canvas.restore();
+		if (this.isDuringGrowthAnimation()) {
+			drawGrowthPeriodInfo(canvas, paint);
+		}
+		drawOneZoomLogo(canvas);
 	}
 
 	/**
@@ -422,11 +406,11 @@ public class TreeView extends View {
 	 */
 	private void drawLoadingAtBottomOfScreen(Canvas canvas) {
 		String text = "Loading...";
-		drawTextAtBottomOfScreen(canvas, text, 1.3f);	  
+		drawTextAtBottomOfScreen(canvas, text, 80f, 1.3f);	  
 	}
 
 
-	private void drawTextAtBottomOfScreen(Canvas canvas, String text, float scale) {
+	private void drawTextAtBottomOfScreen(Canvas canvas, String text,float distanceToBottom, float scale) {
 		int x = getWidth()/2;
 		
 		/**
@@ -438,7 +422,7 @@ public class TreeView extends View {
 		 * in landscape view than in portrait view.
 		 */
 		int y = (int) (getHeight() -
-				80 * client.getScreenHeight() / client.getScreenWidth() * CanvasActivity.getScaleFactor());
+				distanceToBottom * client.getScreenHeight() / client.getScreenWidth() * CanvasActivity.getScaleFactor());
 		
 		Paint textPaint = new Paint();
 		textPaint.setTextAlign(Align.CENTER);
@@ -488,6 +472,17 @@ public class TreeView extends View {
 	 */
 	private void drawGrowthPeriodInfo(Canvas canvas, Paint paint) {
 		String text = Utility.growthInfo();
-		drawTextAtBottomOfScreen(canvas, text, 1);	                     
+		drawTextAtBottomOfScreen(canvas, text, 80f, 1);	                     
+	}
+	
+	private void drawOneZoomLogo(Canvas canvas) {
+		int x = (int) (147 * CanvasActivity.getScaleFactor());
+		int y = (int) (getHeight() -
+				18f * client.getScreenHeight() / client.getScreenWidth() * CanvasActivity.getScaleFactor());
+		Paint textPaint = new Paint();
+		textPaint.setTextAlign(Align.CENTER);
+		textPaint.setTextSize(43 * CanvasActivity.getScaleFactor() * 1);		
+		textPaint.setColor(Color.argb(130, 170, 170, 170));
+		canvas.drawText("onezoom.org", x, y, textPaint);
 	}
 }

@@ -4,7 +4,6 @@ import android.view.ScaleGestureDetector;
 
 public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureListener {
 	private TreeView treeView;
-	private float lastXp, lastYp;
 
 	public ScaleListener(TreeView v) {
 		super();
@@ -19,30 +18,7 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 	 */
 	@Override
 	public boolean onScale(ScaleGestureDetector detector) {
-		try {
-			float spanDiff = Math.abs(detector.getCurrentSpanX() - detector.getPreviousSpanX())
-					+ Math.abs(detector.getCurrentSpanY() - detector.getPreviousSpanY());
-			float focusDiff = Math.abs(lastXp - detector.getFocusX()) + Math.abs(lastYp - detector.getFocusY());
-			
-			if (thisOnDrag(spanDiff, focusDiff)) {
-				lastXp = detector.getFocusX();
-				lastYp = detector.getFocusY();
-				return true;
-			} else if (!thisOnScale(spanDiff, focusDiff)) {
-				treeView.testDragAfterScale = false;
-				lastXp = detector.getFocusX();
-				lastYp = detector.getFocusY();
-				return true;
-			}
-			
-			
-			treeView.testDragAfterScale = false;
-			
-			if (!treeView.isLastActionAsScale()) {
-				treeView.setFirstAction(false);
-				treeView.setLastActionAsScale(true);
-			}
-			
+		try {			
 			float dx = (1 - detector.getScaleFactor()) * detector.getFocusX()
 					+ detector.getScaleFactor() * treeView.getDistanceTotalX();
 			float dy = (1 - detector.getScaleFactor()) * detector.getFocusY()
@@ -51,44 +27,10 @@ public class ScaleListener extends ScaleGestureDetector.SimpleOnScaleGestureList
 			treeView.setDistanceTotalY(dy);
 			treeView.setScaleTotalX(treeView.getScaleTotalX() * detector.getScaleFactor());
 			treeView.setScaleTotalY(treeView.getScaleTotalY() * detector.getScaleFactor());
-			
-			lastXp = detector.getFocusX();
-			lastYp = detector.getFocusY();
-			
 			treeView.invalidate();
 		} catch (NullPointerException exception) {
 			
 		}
-		return true;
-	}
-
-	private boolean thisOnScale(float spanDiff, float focusDiff) {
-		if (spanDiff < 4f)
-			return false;
-		else if (spanDiff < 1.5f * focusDiff)
-			return false;
-		else if (spanDiff < 4f * focusDiff && !treeView.isLastActionAsScale())
-			return false;
-		else
-			return true;
-	}
-
-	private boolean thisOnDrag(float spanDiff, float focusDiff) {
-		if (focusDiff > 4 * spanDiff && focusDiff > 2f)
-			return true;
-		else if (!treeView.isLastActionAsScale() && focusDiff > 1.5f * spanDiff && focusDiff > 2f) {
-			return true;
-		} else
-			return false;
-	}
-
-	/**
-	 * record start finger position when scale starts.
-	 */
-	@Override
-	public boolean onScaleBegin(ScaleGestureDetector detector) {
-		lastXp = detector.getFocusX();
-		lastYp = detector.getFocusY();
 		return true;
 	}
 }

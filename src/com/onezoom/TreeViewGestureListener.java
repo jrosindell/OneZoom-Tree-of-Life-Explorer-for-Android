@@ -1,6 +1,5 @@
 package com.onezoom;
 
-import com.onezoom.midnode.PositionData;
 
 import android.view.GestureDetector;
 import android.view.MotionEvent;
@@ -18,17 +17,10 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 	@Override
 	public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
 			float distanceY) {
-		try {
-			if (Math.abs(distanceY) + Math.abs(distanceX) < 5) {
-				//disturbance ignore.
+		try {			
+			if (Math.abs(e1.getX() - e2.getX()) + Math.abs(e1.getY() - e2.getY()) < 5) {
 				return true;
 			}
-			
-			if (treeView.isFirstAction() || treeView.isLastActionAsScale()) {
-				treeView.setFirstAction(false);
-				treeView.setLastActionAsScale(false);
-			}
-			
 			treeView.setDistanceTotalX(treeView.getDistanceTotalX() - distanceX);
 			treeView.setDistanceTotalY(treeView.getDistanceTotalY() - distanceY);
 			treeView.invalidate();
@@ -68,7 +60,6 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 				treeView.setDistanceTotalY(dy);
 				treeView.setScaleTotalX(treeView.getScaleTotalX() * TreeView.FACTOR);
 				treeView.setScaleTotalY(treeView.getScaleTotalY() * TreeView.FACTOR);
-				treeView.setLastActionAsScale(true);
 			}
 			
 			treeView.invalidate();
@@ -92,7 +83,6 @@ public class TreeViewGestureListener extends GestureDetector.SimpleOnGestureList
 			treeView.setDistanceTotalY(dy);
 			treeView.setScaleTotalX(treeView.getScaleTotalX() * TreeView.FACTOR);
 			treeView.setScaleTotalY(treeView.getScaleTotalY() * TreeView.FACTOR);
-			treeView.setLastActionAsScale(true);
 			treeView.invalidate();
 		} catch (NullPointerException exception) {
 			
