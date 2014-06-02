@@ -260,7 +260,7 @@ public class PositionCalculator {
 				midnode.child1 == null && 
 				midnode.getClass() == InteriorNode.class && 
 				dynamic) {
-				midnode.child1 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(1, midnode);
+			midnode.child1 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(1, midnode);
 				drawreg2Dynamic(x + midnode.positionData.nextx1 * midnode.positionData.rvar, 
 						y + midnode.positionData.nexty1 * midnode.positionData.rvar,
 						r * midnode.positionData.nextr1, midnode.child1);
@@ -278,7 +278,7 @@ public class PositionCalculator {
 						tempDvar && 
 				midnode.getClass() == InteriorNode.class &&
 				dynamic) {
-				midnode.child2 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(2, midnode);
+			midnode.child2 = MidNode.getClient().getInitializer().createTreeStartFromTailNode(2, midnode);
 				drawreg2Dynamic(x + midnode.positionData.nextx2 * midnode.positionData.rvar, 
 						y + midnode.positionData.nexty2 * midnode.positionData.rvar,
 						r * midnode.positionData.nextr2, midnode.child2);
