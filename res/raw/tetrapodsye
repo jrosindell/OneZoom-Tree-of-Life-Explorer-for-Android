@@ -41,7 +41,7 @@ name,fileindex,index,whichChild
 "Yellow-breasted Bunting",142,127,1
 "Yellow Bunting",142,130,2
 "Yellow-browed Bunting",142,138,2
-"yessoensis",142,144,2
+"Emberiza yessoensis",142,144,2
 "Yellow-throated Bunting",142,149,2
 "Yellow-rumped Marshbird",143,12,2
 "Yellow-hooded Blackbird",143,15,1
@@ -85,7 +85,7 @@ name,fileindex,index,whichChild
 "Yellow-faced Siskin",138,23,1
 "Yellow-bellied Siskin",138,27,2
 "Yemen Linnet",138,40,2
-"yemenensis",138,40,2
+"Carduelis yemenensis",138,40,2
 "Yellow-breasted Greenfinch",135,68,1
 "Yellow-billed Grosbeak",135,147,1
 "Yellow-throated Euphonia",135,170,1
@@ -125,7 +125,7 @@ name,fileindex,index,whichChild
 "Yellow-billed Nuthatch",182,39,2
 "Yellow-throated Laughingthrush",164,55,1
 "Yellow-billed Babbler",164,123,2
-"yersini",164,158,2
+"Garrulax yersini",164,158,2
 "Yellow-fronted White-eye",166,21,2
 "Ambon Yellow White-eye",166,28,2
 "Buru Yellow White-eye",166,63,2
@@ -170,7 +170,7 @@ name,fileindex,index,whichChild
 "Yellow-bellied Warbler",162,177,1
 "Yellow Flycatcher",162,226,2
 "Yellow Longbill",161,51,1
-"yeltoniensis",173,44,1
+"Melanocorypha yeltoniensis",173,44,1
 "Yellow-spotted Nicator",161,115,1
 "Yellow-throated Nicator",161,116,2
 "Yellow-bellied Tit",169,39,1
@@ -230,7 +230,7 @@ name,fileindex,index,whichChild
 "Yellow-bellied Flycatcher",243,32,2
 "Yellow-throated Flycatcher",243,92,2
 "Yellow-bellied Chat-tyrant",241,15,1
-"yetapa",241,43,2
+"Gubernetes yetapa",241,43,2
 "Yellow-billed Tit-tyrant",240,29,1
 "Yellow Tyrannulet",235,47,2
 "Yellow-bellied Elaenia",244,22,1
@@ -315,7 +315,7 @@ name,fileindex,index,whichChild
 "Yellow-billed Spoonbill",354,149,1
 "Yellow-billed Stork",346,35,2
 "Yelkouan Shearwater",359,18,2
-"yelkouan",359,18,2
+"Puffinus yelkouan",359,18,2
 "Atlantic Yellow-nosed Albatross",357,77,1
 "Indian Yellow-nosed Albatross",357,78,2
 "Yellow-eyed Penguin",357,169,2
@@ -345,14 +345,14 @@ name,fileindex,index,whichChild
 "Yellow-headed Temple Turtle",94,40,2
 "Yellow-blotched Map Turtle",95,14,1
 "Yellow-headed Sideneck",0,87,2
-"yemenensis",406,141,2
+"Acanthocercus yemenensis",406,141,2
 "Yellow-bellied Sea Snake",341,19,2
 "Yellow-lined Smooth-scaled Gecko",321,18,1
 "Yellow-spotted Brush-furred Rat",269,54,2
 "Yellow-bellied Brush-furred Rat",269,66,1
 "Yellow-necked Field Mouse",273,32,2
 "Yemeni Mouse",272,8,2
-"yemeni",272,8,2
+"Myomyscus yemeni",272,8,2
 "Yellow Arboreal Rice Rat",293,88,1
 "Yellow Pygmy Rice Rat",287,21,2
 "Yellow-rumped Leaf-eared Mouse",292,19,1
@@ -386,7 +386,7 @@ name,fileindex,index,whichChild
 "Cuban Yellow Bat",392,28,2
 "Western Yellow Bat",392,30,1
 "Southern Yellow Bat",392,31,2
-"yesoensis",404,60,1
+"Myotis yesoensis",404,60,1
 "Yellowish Myotis",403,29,2
 "African Yellow Bat",403,173,1
 "Robust Yellow Bat",403,174,2
@@ -418,7 +418,7 @@ name,fileindex,index,whichChild
 "Little Yellow-shouldered Bat",393,81,2
 "Bidentate Yellow-shouldered Bat",393,83,1
 "Lesser Yellow-shouldered Bat",393,84,2
-"yerbabuenae",395,41,2
+"Leptonycteris yerbabuenae",395,41,2
 "Yellow-faced Horseshoe Bat",377,15,2
 "Yellow-winged Bat",376,165,2
 "Yellow-bellied Sheath-tailed Bat",400,93,1
@@ -441,10 +441,10 @@ name,fileindex,index,whichChild
 "Yellow-spotted Treefrog",53,55,2
 "Yellow Mantella",3,194,2
 "Southern Mountain Yellow-legged Frog",13,71,1
-"yei",2,94,2
-"yelaensis",28,158,2
+"Quasipaa yei",2,94,2
+"Austrochaperina yelaensis",28,158,2
 "Yellow??????????????????bellied Toad",342,27,1
 "Appenine Yellow-bellied Toad",342,28,2
 "Yenyuan Stream Salamander",344,65,1
-"yenyuanensis",344,65,1
+"Batrachuperus yenyuanensis",344,65,1
 "Yellow-spotted Salamander",344,78,2

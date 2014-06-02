@@ -50,7 +50,7 @@ name,fileindex,index,whichChild
 "Mongolian Finch",135,135,1
 "Trumpeter Finch",135,136,2
 "Finsch's Euphonia",135,200,2
-"finschi",135,200,2
+"Euphonia finschi",135,200,2
 "Five-coloured Munia",132,47,2
 "Plum-headed Finch",132,90,1
 "Crimson Finch",132,91,2
@@ -81,64 +81,64 @@ name,fileindex,index,whichChild
 "Brown Firefinch",133,43,2
 "Red-billed Firefinch",133,44,2
 "Red-headed Finch",132,166,1
-"fischeri",121,59,2
+"Vidua fischeri",121,59,2
 "Cuckoo Finch",121,62,2
 "Fire-fronted Bishop",140,124,2
 "Fire-tailed Sunbird",121,136,2
 "Fire-breasted Flowerpecker",139,28,1
 "Finsch's Wheatear",184,18,1
-"finschii",184,18,1
-"Ficedula",187,10,1
-"Ficedula",187,11,2
-"Ficedula",187,12,2
-"Ficedula",187,13,2
-"Ficedula",187,16,1
-"Ficedula",187,17,2
-"Ficedula",187,23,2
-"Ficedula",187,24,2
-"Ficedula",187,29,2
-"Ficedula",187,30,2
-"Ficedula",187,37,2
-"Ficedula",187,39,1
-"Ficedula",187,41,2
-"Ficedula",187,46,1
-"Ficedula",187,47,2
-"Ficedula",187,48,2
-"Ficedula",187,56,1
-"Ficedula",187,57,2
-"Ficedula",187,59,1
-"Ficedula",187,60,2
-"Ficedula",187,65,2
-"Ficedula",187,67,1
-"Ficedula",187,68,2
-"Ficedula",187,70,1
-"Ficedula",187,71,2
+"Oenanthe finschii",184,18,1
+"Ficedula rufigula",187,10,1
+"Ficedula westermanni",187,11,2
+"Ficedula superciliaris",187,12,2
+"Ficedula sapphira",187,13,2
+"Ficedula strophiata",187,16,1
+"Ficedula basilanica",187,17,2
+"Ficedula hodgsonii",187,23,2
+"Ficedula mugimaki",187,24,2
+"Ficedula tricolor",187,29,2
+"Ficedula hyperythra",187,30,2
+"Ficedula albicollis",187,37,2
+"Ficedula hypoleuca",187,39,1
+"Ficedula semitorquata",187,41,2
+"Ficedula parva",187,46,1
+"Ficedula albicilla",187,47,2
+"Ficedula subrubra",187,48,2
+"Ficedula dumetoria",187,56,1
+"Ficedula platenae",187,57,2
+"Ficedula timorensis",187,59,1
+"Ficedula harterti",187,60,2
+"Ficedula crypta",187,65,2
+"Ficedula buruensis",187,67,1
+"Ficedula bonthaina",187,68,2
+"Ficedula zanthopygia",187,70,1
+"Ficedula narcissina",187,71,2
 "Firethroat",183,95,2
-"Ficedula",183,140,2
+"Ficedula monileger",183,140,2
 "Fiscal Flycatcher",183,188,1
-"fischeri",186,27,2
-"Ficedula",183,206,2
-"Ficedula",193,46,2
-"Ficedula",181,20,1
-"Ficedula",181,21,2
+"Dioptrornis fischeri",186,27,2
+"Ficedula nigrorufa",183,206,2
+"Ficedula henrici",193,46,2
+"Ficedula solitaris",181,20,1
+"Ficedula disposita",181,21,2
 "Fieldfare",188,20,2
 "Finsch's Rufous Thrush",181,51,2
-"finschi",181,51,2
+"Stizorhina finschi",181,51,2
 "Fischer's Starling",191,12,2
-"fischeri",191,12,2
+"Spreo fischeri",191,12,2
 "Finch-billed Myna",194,45,1
 "Fiery-browed Myna",194,46,2
 "Firecrest",181,171,2
-"ficedulinus",166,20,2
-"finschii",166,154,2
+"Zosterops ficedulinus",166,20,2
+"Zosterops finschii",166,154,2
 "Fire-tailed Myzornis",163,172,2
-"finlaysoni",174,32,1
+"Pycnonotus finlaysoni",174,32,1
 "Collared Finchbill",174,46,1
 "Crested Finchbill",174,47,2
 "Finsch's Bulbul",174,88,1
-"finschii",174,88,1
+"Alophoixus finschii",174,88,1
 "Fischer's Greenbul",174,114,1
-"fischeri",174,114,1
+"Phyllastrephus fischeri",174,114,1
 "Fiji Bush-warbler",162,155,1
 "Fischer's Sparrow-lark",161,103,2
 "Fire-capped Tit",161,173,2
@@ -156,13 +156,13 @@ name,fileindex,index,whichChild
 "Wetar Figbird",152,102,2
 "Fiery-breasted Bush-shrike",198,84,1
 "Fiji Woodswallow",199,21,2
-"fimbriata",197,50,2
+"Coracina fimbriata",197,50,2
 "Fiery Minivet",195,143,2
 "Striated Fieldwren",180,41,1
 "Rufous Fieldwren",180,42,2
 "Fire-maned Bowerbird",120,153,1
 "Firewood-gatherer",233,176,2
-"figulus",231,63,2
+"Furnarius figulus",231,63,2
 "White-shouldered Fire-eye",247,19,1
 "Fringe-backed Fire-eye",247,20,2
 "White-backed Fire-eye",247,21,2
@@ -170,28 +170,28 @@ name,fileindex,index,whichChild
 "Short-tailed Field-tyrant",235,38,2
 "Fiery-throated Fruiteater",249,87,2
 "Fiery-capped Manakin",249,109,1
-"filicauda",249,115,2
+"Pipra filicauda",249,115,2
 "Edwards's Fig-parrot",215,12,1
 "Large Fig-parrot",215,13,2
 "Salvadori's Fig-parrot",215,14,2
 "Orange-breasted Fig-parrot",215,16,1
 "Double-eyed Fig-parrot",215,17,2
 "Fischer's Lovebird",219,35,2
-"fischeri",219,35,2
-"finschii",220,27,2
+"Agapornis fischeri",219,35,2
+"Psittacula finschii",220,27,2
 "Finsch's Pygmy-parrot",215,56,2
-"finschii",215,56,2
-"finschi",217,37,1
+"Micropsitta finschii",215,56,2
+"Aratinga finschi",217,37,1
 "Fiery-shouldered Parakeet",217,118,1
-"finschi",221,33,2
-"fimbriatum",215,167,2
+"Amazona finschi",221,33,2
+"Callocephalon fimbriatum",215,167,2
 "Fire-bellied Woodpecker",206,99,2
 "Fine-spotted Woodpecker",208,119,2
 "Fine-barred Piculet",211,31,2
 "Fiery-billed Aracari",204,42,1
 "Five-coloured Barbet",204,95,2
 "Fire-tufted Barbet",204,173,2
-"fistulator",203,58,2
+"Bycanistes fistulator",203,58,2
 "Vermiculated Fishing-owl",225,7,1
 "Rufous Fishing-owl",225,8,2
 "Pel's Fishing-owl",225,9,2
@@ -205,18 +205,18 @@ name,fileindex,index,whichChild
 "Grey-headed Fish-eagle",115,29,1
 "Lesser Fish-eagle",115,30,2
 "Fiji Goshawk",117,114,2
-"finschi",119,142,1
+"Haematopus finschi",119,142,1
 "Fiji Petrel",357,16,2
 "De Filippi's Petrel",358,17,2
 "Fiordland Penguin",357,160,1
 "Fischer's Turaco",346,62,2
-"fischeri",346,62,2
+"Tauraco fischeri",346,62,2
 "African Finfoot",360,115,2
 "Masked Finfoot",360,126,2
-"fischeri",350,89,2
+"Ptilinopus fischeri",350,89,2
 "Finsch's Imperial-pigeon",352,72,2
-"finschii",352,72,2
-"fimbriata",327,22,1
+"Ducula finschii",352,72,2
+"Amazilia fimbriata",327,22,1
 "Fiery-throated Hummingbird",326,178,2
 "Fire-throated Metaltail",332,14,1
 "Juan Fernandez Firecrown",332,116,1
@@ -228,25 +228,25 @@ name,fileindex,index,whichChild
 "Siamese Fireback",312,28,2
 "Crestless Fireback",312,31,2
 "Finsch's Francolin",312,142,2
-"finschi",312,142,2
-"fischeri",313,37,2
+"Francolinus finschi",312,142,2
+"Somateria fischeri",313,37,2
 "Fish-eating Crocodile",0,59,1
-"fimbriatus",0,111,2
-"fierinensis",303,88,1
+"Chelus fimbriatus",0,111,2
+"Voeltzkowia fierinensis",303,88,1
 "Fitzinger's Algyroides",308,29,1
-"fitzingeri",308,29,1
+"Algyroides fitzingeri",308,29,1
 "Filfola Lizard",298,174,2
-"filfolensis",298,174,2
+"Podarcis filfolensis",298,174,2
 "Fiji Crested Iguana",415,43,2
-"fitzingerii",412,18,1
-"fimbriatus",406,72,1
-"fionni",413,62,2
-"fischeri",410,39,2
-"Ficimia",337,28,1
-"fissidens",336,137,2
+"Liolaemus fitzingerii",412,18,1
+"Draco fimbriatus",406,72,1
+"Ctenophorus fionni",413,62,2
+"Bradypodion fischeri",410,39,2
+"Ficimia streckeri",337,28,1
+"Coniophanes fissidens",336,137,2
 "Five-toed Worm Lizard",334,175,2
-"fimbriatus",318,13,2
-"fieldi",266,140,2
+"Uroplatus fimbriatus",318,13,2
+"Pseudomys fieldi",266,140,2
 "Fiery Spiny Mouse",269,37,2
 "Fire-bellied Brush-furred Rat",269,58,2
 "Common Indian Field Mouse",269,156,1
@@ -282,54 +282,54 @@ name,fileindex,index,whichChild
 "Five-toed Pygmy Jerboa",280,54,2
 "Hotson's Five-toed Jerboa",280,84,1
 "Small Five-toed Jerboa",280,86,2
-"firouzi",280,91,2
-"fiber",254,29,2
-"fimbriatus",278,49,2
+"Allactaga firouzi",280,91,2
+"Castor fiber",254,29,2
+"Eoglaucomys fimbriatus",278,49,2
 "Fiery Squirrel",279,46,2
 "Finlayson's Squirrel",278,183,1
-"finlaysonii",278,183,1
+"Callosciurus finlaysonii",278,183,1
 "Five-striped Palm Squirrel",278,210,2
 "Fire-footed Rope Squirrel",296,149,2
 "Finlayson's Cave Bat",391,38,1
-"finlaysoni",391,38,1
+"Vespadelus finlaysoni",391,38,1
 "Findley's Myotis",404,10,2
-"findleyi",404,10,2
-"fimbriatus",403,14,1
+"Myotis findleyi",404,10,2
+"Myotis fimbriatus",403,14,1
 "Fish-eating Bat",403,35,2
-"fimbriatus",393,27,2
+"Artibeus fimbriatus",393,27,2
 "Cuban Fig-eating Bat",393,49,1
 "Jamaican Fig-eating Bat",393,52,1
 "Fischer's Little Fruit Bat",393,95,1
-"fischerae",393,95,1
+"Rhinophylla fischerae",393,95,1
 "Fierce Leaf-nosed Bat",378,54,2
 "Fijian Blossom Bat",365,92,2
 "Fischer's Pygmy Fruit Bat",387,42,1
-"fischeri",387,42,1
+"Haplonycteris fischeri",387,42,1
 "Finless Porpoise",373,76,2
 "Fin Whale",371,176,2
 "Fisher",383,57,2
 "Fishing Cat",382,73,2
 "Fischer's Shrew",367,97,2
-"fischeri",367,97,2
-"fissipes",56,15,1
-"fitzroya",52,48,2
-"fischeri",51,31,1
-"fimbrimembra",67,59,2
-"fimbriata",66,61,2
-"fissipes",93,51,2
-"fitzgeraldi",93,107,1
-"fissilis",93,112,2
-"fitzingeri",78,38,2
-"fimbriatus",3,134,2
-"fisheri",12,71,1
-"finchi",19,73,2
+"Crocidura fischeri",367,97,2
+"Chaunus fissipes",56,15,1
+"Batrachyla fitzroya",52,48,2
+"Physalaemus fischeri",51,31,1
+"Ecnomiohyla fimbrimembra",67,59,2
+"Phrynomedusa fimbriata",66,61,2
+"Gastrotheca fissipes",93,51,2
+"Flectonotus fitzgeraldi",93,107,1
+"Flectonotus fissilis",93,112,2
+"Craugastor fitzingeri",78,38,2
+"Spinomantis fimbriatus",3,134,2
+"Lithobates fisheri",12,71,1
+"Limnonectes finchi",19,73,2
 "Fiji Treefrog",92,23,2
-"filwoha",90,71,2
-"fistulans",28,206,1
-"fiziensis",36,88,2
-"fichus",25,166,2
+"Ptychadena filwoha",90,71,2
+"Copiula fistulans",28,206,1
+"Leptopelis fiziensis",36,88,2
+"Breviceps fichus",25,166,2
 "Fire-bellied Toad",342,31,2
-"firscheini",100,115,2
+"Pseudoeurycea firscheini",100,115,2
 "Oriental Fire-bellied Newt",103,63,1
 "Chuxiong Fire-bellied Newt",103,67,2
 "Japanese Fire-bellied Newt",103,69,1
@@ -337,5 +337,5 @@ name,fileindex,index,whichChild
 "Corsican Fire Salamander",98,173,2
 "North African Fire Salamander",98,175,2
 "Fischer's Clawed Salamander",344,89,1
-"fischeri",344,89,1
-"fischeri",113,182,2
+"Onychodactylus fischeri",344,89,1
+"Boulengerula fischeri",113,182,2

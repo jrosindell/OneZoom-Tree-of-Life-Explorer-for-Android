@@ -205,13 +205,14 @@ public class CanvasActivity extends Activity{
 	 */
 	@Override
 	protected void onDestroy() {
+		super.onDestroy();
+		System.out.println("on destroy again");
 		storeBitmapToFile();
 		if (treeView.getInitBitmap() != null) {
 			treeView.getInitBitmap().recycle();
 		}
 		if (previousToast != null)
 			previousToast.cancel();
-		super.onDestroy();
 		memoryThread.requestStop();
 		growthThread.requestStop();
 		Search.destory();
@@ -814,7 +815,5 @@ public class CanvasActivity extends Activity{
 	public void endTutorial() {
 		this.introductionView.setVisibility(View.GONE);
 		treeView.setVisibility(View.VISIBLE);
-		treeView.setRefreshNeeded(true);
-		treeView.invalidate();
 	}
 }

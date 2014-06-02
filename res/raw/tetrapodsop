@@ -1,52 +1,52 @@
 name,fileindex,index,whichChild
 "Opal-crowned Tanager",128,29,1
 "Opal-rumped Tanager",128,30,2
-"ophthalmicus",146,44,2
-"Oporornis",144,188,1
-"Oporornis",144,189,2
-"Oporornis",144,190,2
-"Oporornis",144,191,2
-"opaca",194,25,2
-"opaca",176,159,2
-"opistherythra",153,13,1
-"ophthalmicus",237,26,1
+"Chlorospingus ophthalmicus",146,44,2
+"Oporornis tolmiei",144,188,1
+"Oporornis philadelphia",144,189,2
+"Oporornis agilis",144,190,2
+"Oporornis formosus",144,191,2
+"Aplonis opaca",194,25,2
+"Hippolais opaca",176,159,2
+"Rhipidura opistherythra",153,13,1
+"Phylloscartes ophthalmicus",237,26,1
 "Opal-crowned Manakin",249,134,2
-"ophthalmica",215,152,2
+"Cacatua ophthalmica",215,152,2
 "African Openbill",346,43,1
 "Asian Openbill",346,44,2
-"opisthomelas",359,10,2
-"optatus",355,35,2
-"Opisthocomus",346,171,2
-"Opisthoprora",332,50,2
-"Ophioscincus",301,28,1
-"ophioscincus",301,29,2
-"Ophioscincus",301,29,2
-"Ophioscincus",301,30,2
-"Oplurus",405,71,1
-"Oplurus",405,72,2
-"Oplurus",405,74,1
-"Oplurus",405,75,2
-"opalinus",409,22,1
-"Ophisaurus",411,9,1
-"Ophisaurus",411,10,2
-"Ophisaurus",411,11,2
-"Ophisaurus",411,13,1
-"Ophisaurus",411,14,2
-"Ophisaurus",411,15,2
-"Ophiodes",411,18,1
-"Ophiodes",411,19,2
-"Ophiodes",411,20,2
-"Opheodrys",337,40,2
-"Opisthotropis",335,135,1
-"Ophiophagus",340,49,2
-"Ophryacus",339,22,1
-"Ophidiocephalus",318,202,2
-"opimus",265,46,2
-"opimus",281,202,2
-"opimus",257,19,2
-"opdenboschi",275,58,2
-"oporaphilum",393,66,1
-"ophiodon",399,37,1
+"Puffinus opisthomelas",359,10,2
+"Cuculus optatus",355,35,2
+"Opisthocomus hoazin",346,171,2
+"Opisthoprora euryptera",332,50,2
+"Ophioscincus cooloolensis",301,28,1
+"Ophioscincus ophioscincus",301,29,2
+"Ophioscincus ophioscincus",301,29,2
+"Ophioscincus truncatus",301,30,2
+"Oplurus quadrimaculatus",405,71,1
+"Oplurus grandidieri",405,72,2
+"Oplurus cyclurus",405,74,1
+"Oplurus cuvieri",405,75,2
+"Anolis opalinus",409,22,1
+"Ophisaurus attenuatus",411,9,1
+"Ophisaurus ventralis",411,10,2
+"Ophisaurus compressus",411,11,2
+"Ophisaurus sokolovi",411,13,1
+"Ophisaurus gracilis",411,14,2
+"Ophisaurus harti",411,15,2
+"Ophiodes intermedius",411,18,1
+"Ophiodes vertebralis",411,19,2
+"Ophiodes striatus",411,20,2
+"Opheodrys vernalis",337,40,2
+"Opisthotropis lateralis",335,135,1
+"Ophiophagus hannah",340,49,2
+"Ophryacus undulatus",339,22,1
+"Ophidiocephalus taeniatus",318,202,2
+"Rhombomys opimus",265,46,2
+"Steatomys opimus",281,202,2
+"Ctenomys opimus",257,19,2
+"Lophocebus opdenboschi",275,58,2
+"Sturnira oporaphilum",393,66,1
+"Scotonycteris ophiodon",399,37,1
 "Gray-bellied Shrew Opossum",109,62,1
 "Silky Shrew Opossum",109,63,2
 "Blackish Shrew Opossum",109,64,2
@@ -84,7 +84,7 @@ name,fileindex,index,whichChild
 "Anderson's Four-eyed Opossum",109,151,2
 "Southeastern Four-eyed Opossum",109,153,1
 "Gray Four-eyed Opossum",109,154,2
-"opossum",109,154,2
+"Philander opossum",109,154,2
 "Little Water Opossum",109,155,2
 "Water Opossum",109,156,2
 "Brown Four-eyed Opossum",109,157,2
@@ -126,17 +126,17 @@ name,fileindex,index,whichChild
 "Brown-eared Wooly Opossum",109,231,2
 "Black-shouldered Opossum",109,232,2
 "Bushy-tailed Opossum",109,233,2
-"opisthomelas",44,17,1
-"opimus",72,125,1
-"Opisthodon",23,144,1
-"Opisthodon",23,145,2
-"opiparis",3,101,2
-"opisthodon",20,103,2
-"opisthodon",92,131,1
-"ophiodon",33,112,2
-"Opisthothylax",25,134,2
-"Ophryophryne",1,144,1
-"Ophryophryne",1,145,2
-"Ophryophryne",1,147,1
-"Ophryophryne",1,148,2
-"opacum",99,27,2
+"Ranitomeya opisthomelas",44,17,1
+"Craugastor opimus",72,125,1
+"Opisthodon spenceri",23,144,1
+"Opisthodon ornatus",23,145,2
+"Mantidactylus opiparis",3,101,2
+"Boophis opisthodon",20,103,2
+"Discodeles opisthodon",92,131,1
+"Xenorhina ophiodon",33,112,2
+"Opisthothylax immaculatus",25,134,2
+"Ophryophryne pachyproctus",1,144,1
+"Ophryophryne microstoma",1,145,2
+"Ophryophryne gerti",1,147,1
+"Ophryophryne hansi",1,148,2
+"Ambystoma opacum",99,27,2

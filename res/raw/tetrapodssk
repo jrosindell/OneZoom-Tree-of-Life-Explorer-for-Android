@@ -2,7 +2,7 @@ name,fileindex,index,whichChild
 "Eurasian Skylark",173,22,1
 "Japanese Skylark",173,24,2
 "Oriental Skylark",173,25,2
-"Skutchia",245,85,2
+"Skutchia borbae",245,85,2
 "African Skimmer",212,65,1
 "Indian Skimmer",212,66,2
 "Black Skimmer",212,67,2
@@ -10,7 +10,7 @@ name,fileindex,index,whichChild
 "Chilean Skua",212,157,2
 "South Polar Skua",212,158,2
 "Great Skua",212,162,2
-"skua",212,162,2
+"Catharacta skua",212,162,2
 "Brown Skua",212,163,2
 "Bridled Skink",305,35,1
 "Levant Skink",305,81,2
@@ -25,7 +25,7 @@ name,fileindex,index,whichChild
 "Two-digit Worm Skink",300,97,2
 "Boulenger's Short-legged Skink",300,101,2
 "Negros Three-digit Worm Skink",300,102,2
-"skiltonianus",300,165,1
+"Plestiodon skiltonianus",300,165,1
 "Marbled Skink",300,180,1
 "Many-scaled Cylindrical Skink",303,15,1
 "Mionecton Skink",303,16,2
@@ -46,7 +46,7 @@ name,fileindex,index,whichChild
 "Two-streaked Snake-eyed Skink",298,70,1
 "European Copper Skink",298,72,2
 "Gyldenstolpe's Worm Skink",298,75,1
-"skoogi",298,129,2
+"Gerrhosaurus skoogi",298,129,2
 "Eastern Spotted Skunk",386,32,1
 "Western Spotted Skunk",386,33,2
 "Southern Spotted Skunk",386,34,2
@@ -58,5 +58,5 @@ name,fileindex,index,whichChild
 "American Hog-nosed Skunk",386,44,1
 "Molina's Hog-nosed Skunk",386,45,2
 "Skunk Frog",68,158,1
-"skydmainos",73,125,1
-"skotogaster",35,80,2
+"Eleutherodactylus skydmainos",73,125,1
+"Elachistocleis skotogaster",35,80,2

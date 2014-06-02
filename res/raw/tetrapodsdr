@@ -2,13 +2,13 @@ name,fileindex,index,whichChild
 "Drab Seedeater",127,41,2
 "Drab Hemispingus",126,61,1
 "Drakensberg Siskin",136,37,2
-"dryas",188,195,2
-"Dromaeocercus",177,10,2
-"Drymocichla",170,30,2
-"Drymodes",151,73,1
-"Drymodes",151,74,2
+"Catharus dryas",188,195,2
+"Dromaeocercus brunneus",177,10,2
+"Drymocichla incana",170,30,2
+"Drymodes superciliaris",151,73,1
+"Drymodes brunneopygia",151,74,2
 "Drakensberg Rockjumper",120,12,1
-"drownei",153,63,2
+"Rhipidura drownei",153,63,2
 "Pygmy Drongo",153,84,1
 "White-bellied Drongo",152,58,1
 "Mayotte Drongo",152,59,2
@@ -33,97 +33,97 @@ name,fileindex,index,whichChild
 "Lesser Racket-tailed Drongo",152,92,2
 "Bronzed Drongo",152,93,2
 "Drab Whistler",156,32,1
-"Dryoscopus",198,64,1
-"Dryoscopus",198,65,2
-"Dryoscopus",198,66,2
-"Dryoscopus",198,68,1
-"Dryoscopus",198,69,2
-"Dryoscopus",198,70,2
+"Dryoscopus sabini",198,64,1
+"Dryoscopus pringlii",198,65,2
+"Dryoscopus angolensis",198,66,2
+"Dryoscopus gambensis",198,68,1
+"Dryoscopus cubla",198,69,2
+"Dryoscopus senegalensis",198,70,2
 "Drab Myzomela",149,44,2
-"Drymornis",230,104,1
-"Drymophila",245,11,1
-"Drymophila",245,12,2
-"Drymophila",245,14,1
-"Drymophila",245,15,2
-"Drymophila",245,19,1
-"Drymophila",245,20,2
-"Drymophila",245,21,2
-"Drymophila",245,22,2
+"Drymornis bridgesii",230,104,1
+"Drymophila rubricollis",245,11,1
+"Drymophila caudata",245,12,2
+"Drymophila ferruginea",245,14,1
+"Drymophila devillei",245,15,2
+"Drymophila ochropyga",245,19,1
+"Drymophila malura",245,20,2
+"Drymophila genei",245,21,2
+"Drymophila squamata",245,22,2
 "Drab Water Tyrant",243,85,2
 "Drab-breasted Bamboo-tyrant",239,25,2
-"Dryocopus",208,28,1
-"Dryocopus",208,29,2
-"Dryocopus",208,30,2
-"Dryocopus",208,32,1
-"Dryocopus",208,33,2
-"Dryocopus",208,35,1
-"Dryocopus",208,36,2
-"Dryotriorchis",115,72,1
-"Dromas",114,51,2
+"Dryocopus galeatus",208,28,1
+"Dryocopus lineatus",208,29,2
+"Dryocopus javensis",208,30,2
+"Dryocopus pileatus",208,32,1
+"Dryocopus hodgei",208,33,2
+"Dryocopus schulzi",208,35,1
+"Dryocopus martius",208,36,2
+"Dryotriorchis spectabilis",115,72,1
+"Dromas ardeola",114,51,2
 "Philippine Drongo-Cuckoo",355,44,1
 "Drongo Cuckoo",355,45,2
-"Dromococcyx",346,121,1
-"Dromococcyx",346,122,2
-"Dryolimnas",360,118,1
-"Drepanoptila",350,46,2
-"Dromaius",0,19,2
-"draconoides",414,34,2
+"Dromococcyx phasianellus",346,121,1
+"Dromococcyx pavoninus",346,122,2
+"Dryolimnas cuvieri",360,118,1
+"Drepanoptila holosericea",350,46,2
+"Dromaius novaehollandiae",0,19,2
+"Callisaurus draconoides",414,34,2
 "Mindoro Forest Dragon",406,12,2
-"Draco",406,64,1
-"Draco",406,65,2
-"Draco",406,67,1
-"Draco",406,68,2
-"Draco",406,69,2
-"Draco",406,70,2
-"Draco",406,72,1
-"Draco",406,73,2
-"Draco",406,78,1
-"Draco",406,79,2
-"Draco",406,80,2
-"Draco",406,81,2
-"Draco",406,82,2
-"Draco",406,83,2
-"Draco",406,84,2
+"Draco haematopogon",406,64,1
+"Draco melanopogon",406,65,2
+"Draco blanfordii",406,67,1
+"Draco obscurus",406,68,2
+"Draco quinquefasciatus",406,69,2
+"Draco maximus",406,70,2
+"Draco fimbriatus",406,72,1
+"Draco maculatus",406,73,2
+"Draco spilopterus",406,78,1
+"Draco guentheri",406,79,2
+"Draco ornatus",406,80,2
+"Draco volans",406,81,2
+"Draco bimaculatus",406,82,2
+"Draco sumatranus",406,83,2
+"Draco jareckii",406,84,2
 "Komodo Dragon",407,36,1
-"Drymarchon",337,19,2
-"Drymoluber",337,22,2
-"Drymobius",337,49,2
-"Dryocalamus",338,52,2
-"drummondhayi",335,142,2
-"Drepanoides",336,16,2
-"Drysdalia",341,40,2
-"Dromicodryas",340,94,2
-"drummondhayi",334,44,2
-"draco",273,14,2
-"dryas",263,56,2
+"Drymarchon corais",337,19,2
+"Drymoluber dichrous",337,22,2
+"Drymobius rhombifer",337,49,2
+"Dryocalamus nympha",338,52,2
+"Aspidura drummondhayi",335,142,2
+"Drepanoides anomalus",336,16,2
+"Drysdalia coronoides",341,40,2
+"Dromicodryas bernieri",340,94,2
+"Rhinophis drummondhayi",334,44,2
+"Apodemus draco",273,14,2
+"Grammomys dryas",263,56,2
 "Dressy Oldfield Mouse",290,23,2
 "Drylands Vesper Mouse",289,130,1
 "Drab Atlantic Tree Rat",258,18,1
-"Dremomys",278,151,1
-"Dremomys",278,152,2
-"Dremomys",278,154,1
-"Dremomys",278,155,2
-"Dremomys",278,157,1
-"Dremomys",278,158,2
-"Dryomys",262,38,2
-"Dryomys",262,39,2
+"Dremomys everetti",278,151,1
+"Dremomys lokriah",278,152,2
+"Dremomys rufigenis",278,154,1
+"Dremomys pernyi",278,155,2
+"Dremomys pyrrhomerus",278,157,1
+"Dremomys gularis",278,158,2
+"Dryomys laniger",262,38,2
+"Dryomys nitedula",262,39,2
 "Drill",275,66,1
 "Dryad Monkey",275,104,2
-"dryas",275,104,2
-"draconilla",387,69,2
+"Cercopithecus dryas",275,104,2
+"Nyctimene draconilla",387,69,2
 "Dromedary",365,113,2
-"dromedarius",365,113,2
+"Camelus dromedarius",365,113,2
 "Dramatic Shrew",369,27,2
-"drouhardi",323,16,1
-"dryas",323,21,2
-"Dromiciops",109,16,2
-"dryas",109,113,2
+"Microgale drouhardi",323,16,1
+"Microgale dryas",323,21,2
+"Dromiciops gliroides",109,16,2
+"Gracilinanus dryas",109,113,2
 "Dryland Mouse Opossum",109,218,2
 "Drakensberg Stream Frog",10,12,2
 "Drakensberg River Frog",10,52,1
-"dracomontana",10,52,1
+"Amietia dracomontana",10,52,1
 "Drewes' Moss Frog",2,111,2
-"drewesii",2,111,2
+"Arthroleptella drewesii",2,111,2
 "Dring's Horned Frog",71,59,1
-"dringi",71,59,1
-"dringi",37,25,2
+"Xenophrys dringi",71,59,1
+"Leptolalax dringi",37,25,2

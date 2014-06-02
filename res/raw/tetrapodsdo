@@ -1,24 +1,24 @@
 name,fileindex,index,whichChild
-"dorsalis",125,51,2
+"Phrygilus dorsalis",125,51,2
 "Double-collared Seedeater",127,58,1
-"Dolospingus",125,134,2
-"Donacospiza",126,22,1
-"dowii",128,57,1
+"Dolospingus fringilloides",125,134,2
+"Donacospiza albifrons",126,22,1
+"Tangara dowii",128,57,1
 "Dotted Tanager",128,82,2
-"dominicana",128,166,2
-"dominicensis",147,15,1
-"Dolichonyx",142,183,2
-"dominica",144,119,2
-"dominicensis",142,201,2
-"dorsostriatus",136,40,1
-"donaldsoni",136,51,1
-"dominicensis",138,48,1
-"dolei",135,102,2
-"domesticus",122,22,2
+"Paroaria dominicana",128,166,2
+"Icterus dominicensis",147,15,1
+"Dolichonyx oryzivorus",142,183,2
+"Dendroica dominica",144,119,2
+"Spindalis dominicensis",142,201,2
+"Serinus dorsostriatus",136,40,1
+"Serinus donaldsoni",136,51,1
+"Carduelis dominicensis",138,48,1
+"Palmeria dolei",135,102,2
+"Passer domesticus",122,22,2
 "Double-barred Finch",132,100,1
-"dorsomaculatus",140,25,1
+"Ploceus dorsomaculatus",140,25,1
 "Donaldson-Smith's Sparrow-weaver",140,166,2
-"donaldsoni",140,166,2
+"Plocepasser donaldsoni",140,166,2
 "Olive-bellied Double-collared Sunbird",131,14,1
 "Ruwenzori Double-collared Sunbird",131,34,1
 "Miombo Double-collared Sunbird",131,56,1
@@ -27,56 +27,56 @@ name,fileindex,index,whichChild
 "Ludwig's Double-collared Sunbird",131,141,1
 "Southern Double-collared Sunbird",131,147,1
 "Eastern Double-collared Sunbird",131,156,1
-"dohertyi",188,108,2
-"dorsalis",192,24,1
-"dominicus",181,161,2
-"dohertyi",166,183,2
-"dohrni",179,114,2
+"Zoothera dohertyi",188,108,2
+"Mimus dorsalis",192,24,1
+"Dulus dominicus",181,161,2
+"Lophozosterops dohertyi",166,183,2
+"Horizorhinus dohrni",179,114,2
 "Black-capped Donacobius",176,79,2
-"Donacobius",176,79,2
+"Donacobius atricapilla",176,79,2
 "Dorst's Cisticola",172,24,1
-"domicola",178,43,2
-"dominicensis",178,110,1
-"dorsalis",157,201,2
+"Hirundo domicola",178,43,2
+"Progne dominicensis",178,110,1
+"Lanius dorsalis",157,201,2
 "Doherty's Bush-shrike",198,53,2
-"dohertyi",198,53,2
-"dohertyi",197,23,1
-"dorsalis",180,104,1
-"dorotheae",120,133,2
+"Telophorus dohertyi",198,53,2
+"Coracina dohertyi",197,23,1
+"Gerygone dorsalis",180,104,1
+"Amytornis dorotheae",120,133,2
 "Double-banded Greytail",233,101,1
-"dorbignyi",233,171,1
-"dorsalis",230,19,2
-"dorsalis",232,27,1
+"Asthenes dorbignyi",233,171,1
+"Phacellodomus dorsalis",230,19,2
+"Anabazenops dorsalis",232,27,1
 "Dot-backed Antbird",247,42,2
-"doliatus",246,62,2
-"dorsimaculatus",246,84,1
+"Thamnophilus doliatus",246,62,2
+"Herpsilochmus dorsimaculatus",246,84,1
 "Dot-winged Antwren",245,226,2
-"dominicanus",238,34,1
-"dominicensis",236,89,2
+"Xolmis dominicanus",238,34,1
+"Tyrannus dominicensis",236,89,2
 "Warbling Doradito",240,8,1
 "Dinelli's Doradito",240,9,2
 "Subtropical Doradito",240,10,2
 "Crested Doradito",240,11,2
 "Double-banded Pygmy-tyrant",239,11,2
-"Doliornis",249,58,1
-"Doliornis",249,59,2
-"dohertyi",229,171,2
-"domicella",216,58,2
+"Doliornis remseni",249,58,1
+"Doliornis sclateri",249,59,2
+"Pitta dohertyi",229,171,2
+"Lorius domicella",216,58,2
 "Double-eyed Fig-parrot",215,17,2
 "Dot-fronted Woodpecker",206,21,1
 "Downy Woodpecker",206,53,2
-"dorae",206,68,2
-"dorsalis",206,132,2
-"dorbignyanus",211,53,2
+"Dendrocopos dorae",206,68,2
+"Picoides dorsalis",206,132,2
+"Picumnus dorbignyanus",211,53,2
 "Double-toothed Barbet",205,9,2
 "Asian Dollarbird",201,128,2
 "Purple Dollarbird",201,129,2
 "Double-toothed Kite",115,39,1
 "Doria's Goshawk",117,121,1
-"doriae",117,121,1
-"dominicanus",214,20,2
+"Megatriorchis doriae",117,121,1
+"Larus dominicanus",214,20,2
 "Dolphin Gull",212,28,1
-"dougallii",213,16,2
+"Sterna dougallii",213,16,2
 "Double-banded Courser",114,80,1
 "Long-billed Dowitcher",223,58,1
 "Asian Dowitcher",223,59,2
@@ -88,14 +88,14 @@ name,fileindex,index,whichChild
 "Black-fronted Dotterel",119,100,2
 "Eurasian Dotterel",119,115,1
 "Tawny-throated Dotterel",119,123,2
-"dominica",119,170,2
+"Pluvialis dominica",119,170,2
 "Double-striped Thick-knee",114,162,1
 "Double-crested Cormorant",364,38,1
 "Dot-winged Crake",360,75,2
 "Cloven-feathered Dove",350,46,2
 "Orange Dove",350,52,2
 "Golden Dove",350,55,2
-"dohertyi",350,95,1
+"Ptilinopus dohertyi",350,95,1
 "Whistling Dove",350,104,2
 "Tambourine Dove",347,14,2
 "Namaqua Dove",347,19,2
@@ -134,60 +134,60 @@ name,fileindex,index,whichChild
 "Scaled Dove",347,189,1
 "Inca Dove",347,190,2
 "Double-banded Sandgrouse",346,159,1
-"dominicus",353,36,2
-"Doricha",326,151,1
-"Doricha",326,152,2
-"dorsale",332,55,2
+"Tachybaptus dominicus",353,36,2
+"Doricha enicura",326,151,1
+"Doricha eliza",326,152,2
+"Ramphomicron dorsale",332,55,2
 "Dot-eared Coquette",332,105,2
-"dominicus",330,21,2
-"Doryfera",330,55,1
-"Doryfera",330,56,2
-"dohrnii",325,57,2
+"Anthracothorax dominicus",330,21,2
+"Doryfera ludovicae",330,55,1
+"Doryfera johannae",330,56,2
+"Glaucis dohrnii",325,57,2
 "Donaldson-Smith's Nightjar",331,42,2
-"donaldsoni",331,42,2
+"Caprimulgus donaldsoni",331,42,2
 "Double-spurred Francolin",317,21,1
-"douglasii",315,52,1
-"dominicus",310,148,2
-"Dogania",343,19,2
-"dorsalis",302,21,2
-"douglasi",300,67,2
+"Callipepla douglasii",315,52,1
+"Nomonyx dominicus",310,148,2
+"Dogania subplana",343,19,2
+"Lerista dorsalis",302,21,2
+"Glaphyromorphus douglasi",300,67,2
 "Doumergue's Fringe-fingered Lizard",299,19,1
-"dorbignyi",304,82,2
-"dorsalis",309,58,1
-"dorsalis",415,44,2
-"douglassii",414,19,1
-"doriae",406,134,2
-"Dolichophis",337,57,2
-"dorsatus",336,46,2
-"dorsalis",336,71,2
-"donaldi",341,17,1
-"dorsimaculatus",334,36,2
+"Bachia dorbignyi",304,82,2
+"Ameiva dorsalis",309,58,1
+"Dipsosaurus dorsalis",415,44,2
+"Phrynosoma douglassii",414,19,1
+"Agama doriae",406,134,2
+"Dolichophis caspius",337,57,2
+"Tomodon dorsatus",336,46,2
+"Ialtris dorsalis",336,71,2
+"Hydrophis donaldi",341,17,1
+"Rhinophis dorsimaculatus",334,36,2
 "Dollman's Melomys",266,57,2
-"dollmani",266,57,2
+"Melomys dollmani",266,57,2
 "Dollman's Sulawesi Maxomys",267,161,2
-"dollmani",267,161,2
-"dolichurus",263,59,1
-"dollmani",264,33,2
-"dominator",272,56,2
-"dongolanus",263,120,2
+"Maxomys dollmani",267,161,2
+"Grammomys dolichurus",263,59,1
+"Otomys dollmani",264,33,2
+"Paruromys dominator",272,56,2
+"Gerbillus dongolanus",263,120,2
 "Dollman's Tree Mouse",263,195,2
-"dolores",289,21,2
+"Akodon dolores",289,21,2
 "El Dorado Grass Mouse",289,64,2
-"domorum",292,49,2
-"dorsalis",294,46,1
+"Graomys domorum",292,49,2
+"Delomys dorsalis",294,46,1
 "Malabar Spiny Dormouse",281,100,1
-"dorsatum",256,144,2
-"Dolichotis",256,150,1
-"Dolichotis",256,151,2
-"dorsalis",257,18,1
+"Erethizon dorsatum",256,144,2
+"Dolichotis patagonum",256,150,1
+"Dolichotis salinicola",256,151,2
+"Ctenomys dorsalis",257,18,1
 "Douglas's Squirrel",279,68,1
-"douglasii",279,68,1
+"Tamiasciurus douglasii",279,68,1
 "White-tailed Prairie Dog",296,45,1
 "Utah Prairie Dog",296,46,2
 "Gunnison's Prairie Dog",296,47,2
 "Arizona Black-tailed Prairie Dog",296,49,1
 "Mexican Prairie Dog",296,50,2
-"dorsalis",296,72,2
+"Tamias dorsalis",296,72,2
 "Rock Dormouse",262,10,1
 "Silent Dormouse",262,13,2
 "Christy's Dormouse",262,14,2
@@ -210,20 +210,20 @@ name,fileindex,index,whichChild
 "Mouse-tailed Dormouse",262,50,2
 "Desert Dormouse",262,51,2
 "Common Dormouse",262,52,2
-"doggetti",275,97,1
+"Cercopithecus doggetti",275,97,1
 "Black-shanked Douc Langur",275,170,1
 "Red-shanked Douc Langur",275,171,2
 "Douroucouli",285,117,1
-"donacophilus",285,139,1
+"Callicebus donacophilus",285,139,1
 "Doubtful Titi Monkey",285,153,2
-"dorsalis",260,54,2
-"dorsalis",254,156,2
-"douglasorum",391,44,2
-"doriae",389,186,1
+"Lepilemur dorsalis",260,54,2
+"Tupaia dorsalis",254,156,2
+"Vespadelus douglasorum",391,44,2
+"Hesperoptenus doriae",389,186,1
 "Dormer's Bat",389,206,2
-"dormeri",389,206,2
+"Scotozous dormeri",389,206,2
 "Dominican Myotis",404,8,1
-"dominicensis",404,8,1
+"Myotis dominicensis",404,8,1
 "Greenhall's Dog-faced Bat",396,153,1
 "Mexican Dog-faced Bat",396,154,2
 "Southern Dog-faced Bat",396,156,1
@@ -233,35 +233,35 @@ name,fileindex,index,whichChild
 "Mato Grosso Dog-faced Bat",396,160,2
 "Rufous Dog-faced Bat",396,162,1
 "Dwarf Dog-faced Bat",396,163,2
-"doriae",396,177,2
-"dorsalis",394,10,2
-"doriae",394,49,2
-"doriae",376,47,1
+"Mormopterus doriae",396,177,2
+"Platyrrhinus dorsalis",394,10,2
+"Chiroderma doriae",394,49,2
+"Hipposideros doriae",376,47,1
 "Dobson's Horseshoe Bat",379,31,2
 "Trinidad Dog-like Bat",400,9,1
 "Lesser Dog-like Bat",400,10,2
 "Greater Dog-like Bat",400,11,2
 "White-winged Dog-like Bat",400,12,2
-"Dobsonia",366,153,1
-"Dobsonia",366,154,2
-"Dobsonia",366,155,2
-"Dobsonia",366,156,2
-"Dobsonia",366,157,2
-"Dobsonia",366,158,2
-"Dobsonia",366,160,1
-"Dobsonia",366,161,2
-"Dobsonia",366,164,1
-"Dobsonia",366,165,2
-"Dobsonia",366,166,2
-"Dobsonia",366,167,2
-"Dobsonia",366,168,2
+"Dobsonia crenulata",366,153,1
+"Dobsonia viridis",366,154,2
+"Dobsonia praedatrix",366,155,2
+"Dobsonia beauforti",366,156,2
+"Dobsonia inermis",366,157,2
+"Dobsonia exoleta",366,158,2
+"Dobsonia peronii",366,160,1
+"Dobsonia minor",366,161,2
+"Dobsonia moluccensis",366,164,1
+"Dobsonia magna",366,165,2
+"Dobsonia anderseni",366,166,2
+"Dobsonia pannietensis",366,167,2
+"Dobsonia emersa",366,168,2
 "Dobson's Fruit Bat",399,31,2
-"dobsonii",399,31,2
+"Epomops dobsonii",399,31,2
 "Lesser Dog-faced Fruit Bat",387,12,2
 "Dorcas Gazelle",372,129,2
-"dorcas",372,129,2
-"dorsalis",372,164,2
-"Dorcatragus",372,195,2
+"Gazella dorcas",372,129,2
+"Cephalophus dorsalis",372,164,2
+"Dorcatragus megalotis",372,195,2
 "Indo-pacific Bottlenose Dolphin",373,11,1
 "Common Bottlenose Dolphin",373,12,2
 "Striped Dolphin",373,14,1
@@ -297,59 +297,59 @@ name,fileindex,index,whichChild
 "Bush Dog",381,149,2
 "Short-eared Dog",381,155,2
 "Racoon Dog",381,156,2
-"Dologale",384,60,2
-"dolichura",367,68,1
+"Dologale dybowskii",384,60,2
+"Crocidura dolichura",367,68,1
 "Doucet's Musk Shrew",367,101,1
-"douceti",367,101,1
+"Crocidura douceti",367,101,1
 "Dobson's Shrew Tenrec",323,30,1
-"dobsoni",323,30,1
-"dorsalis",323,122,2
-"dorsalis",110,52,1
+"Microgale dobsoni",323,30,1
+"Dendrohyrax dorsalis",323,122,2
+"Macropus dorsalis",110,52,1
 "Doria's Tree Kangaroo",110,94,1
-"dorianus",110,94,1
+"Dendrolagus dorianus",110,94,1
 "Grey Dorcopsis",110,105,1
-"Dorcopsis",110,105,1
+"Dorcopsis luctuosa",110,105,1
 "Black Dorcopsis",110,106,2
-"Dorcopsis",110,106,2
+"Dorcopsis atrata",110,106,2
 "Brown Dorcopsis",110,107,2
-"Dorcopsis",110,107,2
+"Dorcopsis muelleri",110,107,2
 "White-striped Dorcopsis",110,108,2
-"Dorcopsis",110,108,2
+"Dorcopsis hageni",110,108,2
 "Macleay's Dorcopsis",110,110,1
-"Dorcopsulus",110,110,1
+"Dorcopsulus macleayi",110,110,1
 "Small Dorcopsis",110,111,2
-"Dorcopsulus",110,111,2
-"dorsalis",111,23,1
-"doriae",111,24,2
-"dolichura",111,84,1
-"douglasi",111,105,1
-"dorothea",109,98,2
-"domestica",109,181,2
-"dorbignyi",60,21,2
-"dorsalis",38,58,1
-"dominicensis",64,57,1
-"dorisae",70,190,2
-"dorsivena",53,63,1
-"dorsalis",53,195,2
-"dorsopictus",84,35,2
-"douglasi",89,68,1
-"dolops",86,53,2
-"dolomedes",87,88,2
+"Dorcopsulus vanheurni",110,111,2
+"Phascolosorex dorsalis",111,23,1
+"Phascolosorex doriae",111,24,2
+"Sminthopsis dolichura",111,84,1
+"Sminthopsis douglasi",111,105,1
+"Marmosops dorothea",109,98,2
+"Monodelphis domestica",109,181,2
+"Chaunus dorbignyi",60,21,2
+"Melanophryniscus dorsalis",38,58,1
+"Osteopilus dominicensis",64,57,1
+"Sphaenorhynchus dorisae",70,190,2
+"Litoria dorsivena",53,63,1
+"Litoria dorsalis",53,195,2
+"Eleutherodactylus dorsopictus",84,35,2
+"Eleutherodactylus douglasi",89,68,1
+"Eleutherodactylus dolops",86,53,2
+"Euhyas dolomedes",87,88,2
 "Douglas' Toad",23,72,2
-"douglasi",23,72,2
-"dorsalis",23,173,2
-"dorsoviridis",21,19,1
+"Pseudophryne douglasi",23,72,2
+"Limnodynastes dorsalis",23,173,2
+"Rhacophorus dorsoviridis",21,19,1
 "Doria's Asian Treefrog",21,193,2
-"doriae",21,193,2
-"domerguei",3,163,2
-"doulioti",20,95,2
-"dobsoni",11,48,2
-"doriae",19,46,2
-"dorsalis",92,81,2
-"doriae",28,107,2
+"Chiromantis doriae",21,193,2
+"Blommersia domerguei",3,163,2
+"Boophis doulioti",20,95,2
+"Sphaerotheca dobsoni",11,48,2
+"Limnonectes doriae",19,46,2
+"Platymantis dorsalis",92,81,2
+"Callulops doriae",28,107,2
 "Dotted Reed Frog",30,141,2
-"dorsalis",34,54,1
-"dorsalis",322,60,2
-"dofleini",102,30,1
-"dorsalis",98,57,1
-"dobrogicus",103,29,2
+"Afrixalus dorsalis",34,54,1
+"Rhinophrynus dorsalis",322,60,2
+"Bolitoglossa dofleini",102,30,1
+"Plethodon dorsalis",98,57,1
+"Triturus dobrogicus",103,29,2

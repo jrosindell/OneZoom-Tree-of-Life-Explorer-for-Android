@@ -49,7 +49,6 @@ public class TreeView extends View {
 	private float distanceTotalY = 0f;
 	private float xp, yp, ws;
 	private float reanchorJusticeXp, reanchorJusticeYp, reanchorJusticeWs;
-	private boolean firstTimeDrawAndCache = true;
 	
 	public float getScaleTotalX() {
 		return scaleTotalX;
@@ -317,9 +316,8 @@ public class TreeView extends View {
 	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
-			if (this.firstTimeDrawAndCache) {
+			if (this.cachedBitmap != this.bitmapForGenerateCache) {
 				this.drawUsingCachedBitmap(canvas, cachedBitmap);
-				this.firstTimeDrawAndCache = false;
 			} else {
 				drawUsingCachedBitmapWithoutScale(canvas, cachedBitmap);
 			}

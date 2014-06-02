@@ -1,33 +1,33 @@
 name,fileindex,index,whichChild
 "Long-tailed Reed-finch",126,22,1
-"longicauda",125,156,1
-"Loxipasser",129,43,1
-"loricata",129,44,2
-"Loxigilla",129,50,1
-"Loxigilla",129,53,1
-"Loxigilla",129,55,2
-"Loxigilla",129,56,2
-"Lophospingus",128,175,1
-"Lophospingus",128,176,2
+"Embernagra longicauda",125,156,1
+"Loxipasser anoxanthus",129,43,1
+"Compsothraupis loricata",129,44,2
+"Loxigilla barbadensis",129,50,1
+"Loxigilla violacea",129,53,1
+"Loxigilla portoricensis",129,55,2
+"Loxigilla noctis",129,56,2
+"Lophospingus griseocristatus",128,175,1
+"Lophospingus pusillus",128,176,2
 "Long-tailed Meadowlark",142,174,2
-"loyca",142,174,2
+"Sturnella loyca",142,174,2
 "Louisiana Waterthrush",144,199,2
 "Chestnut-collared Longspur",121,12,1
 "Smith's Longspur",121,13,2
 "McCown's Longspur",121,14,2
 "Lapland Longspur",121,15,2
-"louisae",138,44,2
-"Loxia",135,46,1
-"Loxia",135,47,2
-"Loxia",135,48,2
-"Loxia",135,50,1
-"Loxia",135,51,2
+"Rhynchostruthus louisae",138,44,2
+"Loxia pytyopsittacus",135,46,1
+"Loxia scotica",135,47,2
+"Loxia curvirostra",135,48,2
+"Loxia leucoptera",135,50,1
+"Loxia megaplaga",135,51,2
 "Long-tailed Rosefinch",137,64,2
-"Loxops",135,95,1
-"Loxops",135,96,2
-"Loxioides",135,107,2
+"Loxops caeruleirostris",135,95,1
+"Loxops coccineus",135,96,2
+"Loxioides bailleui",135,107,2
 "Long-tailed Pipit",123,39,1
-"longicaudatus",123,39,1
+"Anthus longicaudatus",123,39,1
 "Long-billed Pipit",123,69,2
 "Long-legged Pipit",123,76,1
 "Abyssinian Longclaw",123,87,1
@@ -38,63 +38,63 @@ name,fileindex,index,whichChild
 "Sharpe's Longclaw",123,93,2
 "Fuelleborn's Longclaw",123,95,1
 "Yellow-throated Longclaw",123,96,2
-"Lonchura",132,13,1
-"Lonchura",132,14,2
-"Lonchura",132,16,1
-"Lonchura",132,17,2
-"Lonchura",132,18,2
-"Lonchura",132,19,2
-"Lonchura",132,23,1
-"Lonchura",132,24,2
-"Lonchura",132,26,1
-"Lonchura",132,27,2
-"Lonchura",132,29,1
-"Lonchura",132,30,2
-"Lonchura",132,34,1
-"Lonchura",132,35,2
-"Lonchura",132,36,2
-"Lonchura",132,38,1
-"Lonchura",132,39,2
-"Lonchura",132,46,1
-"Lonchura",132,47,2
-"Lonchura",132,48,2
-"Lonchura",132,51,1
-"Lonchura",132,52,2
-"Lonchura",132,53,2
-"Lonchura",132,55,1
-"Lonchura",132,56,2
-"Lonchura",132,60,1
-"Lonchura",132,61,2
-"Lonchura",132,62,2
-"Lonchura",132,63,2
-"Lonchura",132,65,1
-"Lonchura",132,66,2
-"Lonchura",132,71,1
-"Lonchura",132,72,2
-"Lonchura",132,73,2
-"Lonchura",132,75,1
-"Lonchura",132,76,2
-"Lonchura",132,78,1
-"Lonchura",132,79,2
+"Lonchura teerinki",132,13,1
+"Lonchura stygia",132,14,2
+"Lonchura spectabilis",132,16,1
+"Lonchura nana",132,17,2
+"Lonchura flaviprymna",132,18,2
+"Lonchura leucosticta",132,19,2
+"Lonchura leucogastra",132,23,1
+"Lonchura hunsteini",132,24,2
+"Lonchura melaena",132,26,1
+"Lonchura fuscans",132,27,2
+"Lonchura caniceps",132,29,1
+"Lonchura monticola",132,30,2
+"Lonchura malabarica",132,34,1
+"Lonchura cantans",132,35,2
+"Lonchura forbesi",132,36,2
+"Lonchura atricapilla",132,38,1
+"Lonchura vana",132,39,2
+"Lonchura castaneothorax",132,46,1
+"Lonchura quinticolor",132,47,2
+"Lonchura tristissima",132,48,2
+"Lonchura pallida",132,51,1
+"Lonchura maja",132,52,2
+"Lonchura malacca",132,53,2
+"Lonchura nevermanni",132,55,1
+"Lonchura nigerrima",132,56,2
+"Lonchura kelaarti",132,60,1
+"Lonchura striata",132,61,2
+"Lonchura leucogastroides",132,62,2
+"Lonchura punctulata",132,63,2
+"Lonchura ferruginosa",132,65,1
+"Lonchura grandis",132,66,2
+"Lonchura bicolor",132,71,1
+"Lonchura nigriceps",132,72,2
+"Lonchura fringilloides",132,73,2
+"Lonchura montana",132,75,1
+"Lonchura cucullata",132,76,2
+"Lonchura griseicapilla",132,78,1
+"Lonchura molucca",132,79,2
 "Long-tailed Finch",132,96,1
 "Locust Finch",132,142,1
-"locustella",132,142,1
+"Ortygospiza locustella",132,142,1
 "Long-tailed Paradise-whydah",121,34,1
 "Loango Weaver",140,12,2
 "Long-tailed Widowbird",140,111,2
 "Long-billed Green Sunbird",131,61,1
 "Loveridge's Sunbird",131,132,1
-"loveridgei",131,132,1
+"Nectarinia loveridgei",131,132,1
 "Long-billed Sunbird",131,150,1
-"lotenia",131,150,1
-"longuemarei",121,117,1
+"Nectarinia lotenia",131,150,1
+"Anthreptes longuemarei",121,117,1
 "Lovely Sunbird",121,146,2
 "Louisiade Flowerpecker",139,39,2
-"longirostra",139,109,2
+"Arachnothera longirostra",139,109,2
 "Long-billed Spiderhunter",139,110,2
 "Lompobatang Flycatcher",187,68,2
 "Lowland Akalat",193,19,2
-"lowei",193,23,2
+"Sheppardia lowei",193,23,2
 "Long-billed Thrush",188,150,1
 "Long-tailed Thrush",188,157,2
 "Long-tailed Glossy-starling",191,39,2
@@ -102,47 +102,47 @@ name,fileindex,index,whichChild
 "Long-crested Myna",194,59,2
 "Long-billed Rhabdornis",194,73,2
 "Long-tailed Mockingbird",192,12,2
-"longicaudatus",192,12,2
+"Mimus longicaudatus",192,12,2
 "Long-billed Thrasher",192,36,1
-"longirostre",192,36,1
+"Toxostoma longirostre",192,36,1
 "Long-billed Wren",190,43,2
-"longirostris",190,43,2
+"Thryothorus longirostris",190,43,2
 "Long-billed Gnatwren",181,121,2
 "Long-tailed Silky-flycatcher",181,157,1
-"longirostris",164,104,1
+"Turdoides longirostris",164,104,1
 "Long-tailed Sibia",168,16,2
 "Long-billed Wren-babbler",165,10,1
 "Long-tailed Wren-babbler",163,62,2
-"longicaudatus",163,63,2
+"Spelaeornis longicaudatus",163,63,2
 "Louisiade White-eye",166,52,1
 "Lowland White-eye",166,147,2
-"Lophozosterops",166,182,1
-"Lophozosterops",166,183,2
-"Lophozosterops",166,185,1
-"Lophozosterops",166,186,2
-"Lophozosterops",166,187,2
-"Lophozosterops",166,188,2
+"Lophozosterops javanicus",166,182,1
+"Lophozosterops dohertyi",166,183,2
+"Lophozosterops squamiceps",166,185,1
+"Lophozosterops pinaiae",166,186,2
+"Lophozosterops goodfellowi",166,187,2
+"Lophozosterops superciliaris",166,188,2
 "Long-billed White-eye",163,119,1
-"longirostra",163,119,1
-"Locustella",176,22,2
-"Locustella",176,28,1
+"Rukia longirostra",163,119,1
+"Locustella naevia",176,22,2
+"Locustella fluviatilis",176,28,1
 "Long-legged Thicketbird",176,29,2
-"Locustella",176,33,1
-"Locustella",176,38,2
-"Locustella",176,43,1
-"Locustella",176,44,2
-"Locustella",176,45,2
-"Locustella",176,52,1
+"Locustella luscinioides",176,33,1
+"Locustella lanceolata",176,38,2
+"Locustella ochotensis",176,43,1
+"Locustella pleskei",176,44,2
+"Locustella certhiola",176,45,2
+"Locustella fasciolata",176,52,1
 "Long-tailed Bush-warbler",176,54,2
-"lopezi",177,22,2
+"Bradypterus lopezi",177,22,2
 "Long-billed Bush-warbler",177,27,1
-"Locustella",176,58,2
-"longicaudata",176,181,2
+"Locustella pryeri",176,58,2
+"Nesillas longicaudata",176,181,2
 "Long-billed Tailorbird",170,77,1
 "Green Longtail",170,84,2
 "Cricket Longtail",171,49,2
-"lopezi",171,62,2
-"lorenzi",174,131,2
+"Poliolais lopezi",171,62,2
+"Phyllastrephus lorenzi",174,131,2
 "Long-tailed Tit",162,212,2
 "Pulitzer's Longbill",161,48,1
 "Kemp's Longbill",161,49,2
@@ -152,67 +152,67 @@ name,fileindex,index,whichChild
 "Eastern Long-billed Lark",161,66,1
 "Cape Long-billed Lark",161,67,2
 "Karoo Long-billed Lark",161,71,2
-"longicauda",161,166,2
+"Elminia longicauda",161,166,2
 "Loetoe Monarch",159,26,2
-"loricatus",159,65,2
+"Monarcha loricatus",159,65,2
 "Long-tailed Paradigalla",160,37,1
-"Lophorina",160,52,2
+"Lophorina superba",160,52,2
 "Long-tailed Fantail",153,13,1
 "Long-billed Crow",158,20,1
 "Long-tailed Shrike",157,165,2
 "Loggerhead Shrike",157,193,2
 "Long-tailed Fiscal",157,207,2
 "Lorentz's Whistler",156,21,2
-"lorentzi",156,21,2
+"Pachycephala lorentzi",156,21,2
 "Lowland Peltops",199,24,1
-"louisiadensis",199,31,1
+"Cracticus louisiadensis",199,31,1
 "Long-tailed Triller",197,70,2
-"lobata",195,113,2
-"longicauda",200,33,2
+"Campephaga lobata",195,113,2
+"Coracina longicauda",200,33,2
 "Long-tailed Minivet",195,138,1
-"longicauda",120,25,1
+"Melanocharis longicauda",120,25,1
 "Green-crowned Longbill",120,36,1
 "Grey-winged Longbill",120,37,2
 "Plumed Longbill",120,38,2
 "Pygmy Longbill",120,39,2
-"Loboparadisea",120,43,1
+"Loboparadisea sericea",120,43,1
 "Loria's Bird-of-paradise",120,44,2
-"loriae",120,44,2
+"Cnemophilus loriae",120,44,2
 "Australian Logrunner",120,63,1
 "New Guinea Logrunner",120,65,2
-"lombokia",148,46,1
+"Lichmera lombokia",148,46,1
 "Long-bearded Melidectes",150,20,2
-"lovensis",148,168,2
+"Ashbyia lovensis",148,168,2
 "Long-billed Honeyeater",148,180,2
-"longirostris",120,81,2
+"Dasyornis longirostris",120,81,2
 "Lovely Fairywren",120,103,2
-"lophotes",233,111,2
+"Pseudoseisura lophotes",233,111,2
 "Long-tailed Cinclodes",231,32,2
-"Lochmias",231,48,2
-"longirostris",231,62,2
+"Lochmias nematura",231,48,2
+"Furnarius longirostris",231,62,2
 "Long-billed Woodcreeper",230,167,2
-"longirostris",230,167,2
+"Nasica longirostris",230,167,2
 "Long-tailed Woodcreeper",230,183,2
-"longicauda",230,183,2
+"Deconychura longicauda",230,183,2
 "Long-tailed Tapaculo",248,15,2
-"loricata",248,193,2
+"Grallaricula loricata",248,193,2
 "Long-tailed Antbird",245,12,2
-"lophotes",247,24,1
-"longipes",247,34,2
-"loricata",247,48,1
-"longirostris",246,97,1
+"Percnostola lophotes",247,24,1
+"Myrmeciza longipes",247,34,2
+"Myrmeciza loricata",247,48,1
+"Herpsilochmus longirostris",246,97,1
 "Long-winged Antwren",245,151,2
-"longipennis",245,151,2
-"longicauda",245,180,1
-"lophotes",235,29,2
+"Myrmotherula longipennis",245,151,2
+"Myrmotherula longicauda",245,180,1
+"Knipolegus lophotes",235,29,2
 "Long-tailed Tyrant",241,56,2
 "Loggerhead Kingbird",236,97,2
 "Loja Tyrannulet",242,44,2
 "Long-crested Pygmy-tyrant",239,10,1
-"Lophotriccus",239,10,1
-"Lophotriccus",239,11,2
-"Lophotriccus",239,13,1
-"Lophotriccus",239,14,2
+"Lophotriccus eulophotes",239,10,1
+"Lophotriccus vitiosus",239,11,2
+"Lophotriccus pileatus",239,13,1
+"Lophotriccus galeatus",239,14,2
 "Lovely Cotinga",249,20,2
 "Long-wattled Umbrellabird",249,28,1
 "Long-tailed Manakin",249,155,2
@@ -242,18 +242,18 @@ name,fileindex,index,whichChild
 "Iris Lorikeet",216,49,2
 "Varied Lorikeet",216,50,2
 "White-naped Lory",216,56,1
-"Lorius",216,56,1
+"Lorius albidinucha",216,56,1
 "Chattering Lory",216,57,2
-"Lorius",216,57,2
+"Lorius garrulus",216,57,2
 "Purple-naped Lory",216,58,2
-"Lorius",216,58,2
+"Lorius domicella",216,58,2
 "Black-capped Lory",216,59,2
-"lory",216,59,2
-"Lorius",216,59,2
+"Lorius lory",216,59,2
+"Lorius lory",216,59,2
 "Purple-bellied Lory",216,60,2
-"Lorius",216,60,2
+"Lorius hypoinochrous",216,60,2
 "Yellow-bibbed Lory",216,61,2
-"Lorius",216,61,2
+"Lorius chlorocercus",216,61,2
 "Yellow-billed Lorikeet",216,63,1
 "Orange-billed Lorikeet",216,64,2
 "Plum-faced Lorikeet",216,65,2
@@ -277,19 +277,19 @@ name,fileindex,index,whichChild
 "Ultramarine Lorikeet",216,102,2
 "Henderson Lorikeet",216,103,2
 "Collared Lory",216,104,2
-"Loriculus",219,7,1
-"Loriculus",219,8,2
-"Loriculus",219,9,2
-"Loriculus",219,12,1
-"Loriculus",219,13,2
-"Loriculus",219,14,2
-"Loriculus",219,18,1
-"Loriculus",219,19,2
-"Loriculus",219,20,2
-"Loriculus",219,21,2
-"Loriculus",219,22,2
-"Loriculus",219,24,1
-"Loriculus",219,25,2
+"Loriculus aurantiifrons",219,7,1
+"Loriculus pusillus",219,8,2
+"Loriculus catamene",219,9,2
+"Loriculus beryllinus",219,12,1
+"Loriculus stigmatus",219,13,2
+"Loriculus exilis",219,14,2
+"Loriculus philippensis",219,18,1
+"Loriculus galgulus",219,19,2
+"Loriculus flosculus",219,20,2
+"Loriculus amabilis",219,21,2
+"Loriculus vernalis",219,22,2
+"Loriculus tener",219,24,1
+"Loriculus sclateri",219,25,2
 "Black-cheeked Lovebird",219,32,1
 "Lilian's Lovebird",219,33,2
 "Yellow-collared Lovebird",219,34,2
@@ -300,43 +300,43 @@ name,fileindex,index,whichChild
 "Black-winged Lovebird",219,42,2
 "Grey-headed Lovebird",219,43,2
 "Long-tailed Parakeet",220,11,2
-"longicauda",220,11,2
+"Psittacula longicauda",220,11,2
 "Long-billed Corella",215,153,2
-"longipennis",222,41,2
-"loricatus",208,21,2
+"Falco longipennis",222,41,2
+"Celeus loricatus",208,21,2
 "Long-tailed Ground-roller",201,137,2
-"Lophostrix",228,45,1
+"Lophostrix cristata",228,45,1
 "Long-tufted Screech-owl",227,16,1
 "Long-eared Owl",224,28,2
-"longicornis",224,55,1
+"Otus longicornis",224,55,1
 "Long-whiskered Owlet",224,168,1
-"loweryi",224,168,1
-"longimembris",224,177,1
+"Xenoglaux loweryi",224,168,1
+"Tyto longimembris",224,177,1
 "Long-legged Buzzard",118,23,2
 "Long-tailed Hawk",115,50,2
 "Long-winged Harrier",117,14,1
 "Long-crested Eagle",116,44,2
-"Lophaetus",116,44,2
-"Lophotriorchis",116,46,2
+"Lophaetus occipitalis",116,44,2
+"Lophotriorchis kienerii",116,46,2
 "Long-tailed Honey-buzzard",115,132,1
-"longicauda",115,132,1
-"Lophoictinia",115,134,2
-"lorata",213,43,2
-"lomvia",212,125,1
+"Henicopernis longicauda",115,132,1
+"Lophoictinia isura",115,134,2
+"Sterna lorata",213,43,2
+"Uria lomvia",212,125,1
 "Long-billed Murrelet",212,134,2
-"lonnbergi",212,163,2
+"Catharacta lonnbergi",212,163,2
 "Long-tailed Jaeger",212,165,1
-"longicaudus",212,165,1
+"Stercorarius longicaudus",212,165,1
 "Long-billed Dowitcher",223,58,1
-"lobatus",223,94,1
+"Phalaropus lobatus",223,94,1
 "Long-toed Stint",223,134,2
 "Long-billed Curlew",223,170,2
-"longicauda",223,176,2
+"Bartramia longicauda",223,176,2
 "Long-toed Lapwing",119,47,1
 "Long-billed Plover",119,117,2
-"longirostris",119,146,2
-"Lophotibis",354,152,1
-"longirostris",358,41,1
+"Haematopus longirostris",119,146,2
+"Lophotibis cristata",354,152,1
+"Pterodroma longirostris",358,41,1
 "Yellow-billed Loon",346,49,1
 "Common Loon",346,50,2
 "Pacific Loon",346,51,2
@@ -347,180 +347,180 @@ name,fileindex,index,whichChild
 "Dusky Long-tailed Cuckoo",355,42,2
 "Long-billed Cuckoo",355,93,2
 "Long-tailed Koel",355,102,1
-"longirostris",356,10,1
+"Coccyzus longirostris",356,10,1
 "Lord Howe Woodhen",362,9,1
-"longirostris",362,40,1
+"Rallus longirostris",362,40,1
 "Long-tailed Mountain-pigeon",352,80,2
-"Lopholaimus",352,81,2
-"lophotes",347,74,2
+"Lopholaimus antarcticus",352,81,2
+"Ocyphaps lophotes",347,74,2
 "Long-tailed Ground-dove",347,204,2
 "Long-tailed Woodnymph",326,31,2
 "Long-tailed Sabrewing",326,67,2
 "Long-billed Starthroat",326,173,1
-"longirostris",326,173,1
+"Heliomaster longirostris",326,173,1
 "Long-tailed Sylph",332,65,2
-"Lophornis",332,92,1
-"Lophornis",332,93,2
-"Lophornis",332,94,2
-"Lophornis",332,95,2
-"Lophornis",332,99,1
-"Lophornis",332,100,2
-"Lophornis",332,101,2
-"Lophornis",332,102,2
-"Lophornis",332,104,1
-"Lophornis",332,105,2
-"longicaudus",332,114,2
-"Loddigesia",332,140,1
-"longuemareus",325,38,2
+"Lophornis brachylophus",332,92,1
+"Lophornis adorabilis",332,93,2
+"Lophornis delattrei",332,94,2
+"Lophornis chalybeus",332,95,2
+"Lophornis stictolophus",332,99,1
+"Lophornis ornatus",332,100,2
+"Lophornis magnificus",332,101,2
+"Lophornis pavoninus",332,102,2
+"Lophornis helenae",332,104,1
+"Lophornis gouldii",332,105,2
+"Discosura longicaudus",332,114,2
+"Loddigesia mirabilis",332,140,1
+"Phaethornis longuemareus",325,38,2
 "Long-tailed Hermit",325,44,1
 "Long-billed Hermit",325,49,2
-"longirostris",325,49,2
+"Phaethornis longirostris",325,49,2
 "Loanda Swift",329,88,1
-"longipennis",324,48,1
+"Hemiprocne longipennis",324,48,1
 "Long-whiskered Owlet-nightjar",324,58,2
 "Long-trained Nightjar",324,138,2
-"longirostris",324,160,1
+"Caprimulgus longirostris",324,160,1
 "Long-tailed Nightjar",331,10,1
-"longipennis",331,19,1
+"Macrodipteryx longipennis",331,19,1
 "Long-tailed Potoo",324,220,1
-"Lophura",312,16,1
-"Lophura",312,17,2
-"Lophura",312,18,2
-"Lophura",312,20,1
-"Lophura",312,21,2
-"Lophura",312,22,2
-"Lophura",312,27,1
-"Lophura",312,28,2
-"Lophura",312,29,2
-"Lophura",312,30,2
-"Lophura",312,31,2
+"Lophura hatinhensis",312,16,1
+"Lophura edwardsi",312,17,2
+"Lophura swinhoii",312,18,2
+"Lophura leucomelanos",312,20,1
+"Lophura nycthemera",312,21,2
+"Lophura bulweri",312,22,2
+"Lophura ignita",312,27,1
+"Lophura diardi",312,28,2
+"Lophura inornata",312,29,2
+"Lophura hoogerwerfi",312,30,2
+"Lophura erythrophthalma",312,31,2
 "Long-billed Partridge",312,61,1
-"longirostris",312,61,1
-"Lophophorus",312,110,1
-"Lophophorus",312,111,2
-"Lophophorus",312,112,2
+"Rhizothera longirostris",312,61,1
+"Lophophorus impejanus",312,110,1
+"Lophophorus sclateri",312,111,2
+"Lophophorus lhuysii",312,112,2
 "Long-tailed Wood-partridge",310,18,1
-"Lophodytes",313,19,2
+"Lophodytes cucullatus",313,19,2
 "Long-tailed Duck",313,40,2
-"Lophonetta",313,218,2
-"lobata",310,137,2
+"Lophonetta specularioides",313,218,2
+"Biziura lobata",310,137,2
 "Loggerhead",94,173,2
 "Eastern Long-necked Turtle",0,113,1
-"longicollis",0,113,1
-"longicauda",305,135,2
-"longicauda",306,72,2
-"longipes",300,122,2
-"longirostris",300,160,2
+"Chelodina longicollis",0,113,1
+"Eutropis longicauda",305,135,2
+"Emoia longicauda",306,72,2
+"Carlia longipes",300,122,2
+"Plestiodon longirostris",300,160,2
 "Long-legged Worm-skink",298,61,2
-"longipes",299,14,2
-"longicaudata",299,59,2
-"loxogrammus",405,55,1
-"longipes",415,10,1
-"longitibialis",409,99,2
+"Acanthodactylus longipes",299,14,2
+"Latastia longicaudata",299,59,2
+"Leiocephalus loxogrammus",405,55,1
+"Laemanctus longipes",415,10,1
+"Anolis longitibialis",409,99,2
 "Long-nosed Leopard Lizard",405,127,1
-"Lophognathus",413,44,1
-"Lophognathus",413,45,2
-"longirostris",413,46,2
-"Lophognathus",413,46,2
-"loricata",405,153,1
+"Lophognathus temporalis",413,44,1
+"Lophognathus gilberti",413,45,2
+"Lophognathus longirostris",413,46,2
+"Lophognathus longirostris",413,46,2
+"Uromastyx loricata",405,153,1
 "Long-nosed Snake",335,24,1
-"longissimus",335,34,1
-"loriae",340,17,1
-"Loxocemus",334,76,2
-"louisiadensis",318,58,2
+"Zamenis longissimus",335,34,1
+"Toxicocalamus loriae",340,17,1
+"Loxocemus bicolor",334,76,2
+"Cyrtodactylus louisiadensis",318,58,2
 "Lowland Mammelomys",266,17,1
 "Common Lowland Paramelomys",266,23,2
 "Long-tailed Talaud Melomys",266,43,1
 "Seram Long-tailed Melomys",266,47,2
 "Lorentz's Paramelomys",266,50,1
-"lorentzii",266,50,1
+"Paramelomys lorentzii",266,50,1
 "Long-nosed Paramelomys",266,51,2
 "Papuan Lowland Paramelomys",266,60,1
 "Long-tailed Mouse",266,135,2
 "Long-footed Tree Mouse",270,18,2
-"Lorentzimys",270,18,2
+"Lorentzimys nouhuysi",270,18,2
 "Louise's Spiny Mouse",269,42,2
-"louisae",269,42,2
-"Lophuromys",269,52,1
-"Lophuromys",269,53,2
-"Lophuromys",269,54,2
-"Lophuromys",269,55,2
-"Lophuromys",269,56,2
-"Lophuromys",269,57,2
-"Lophuromys",269,58,2
-"Lophuromys",269,62,1
-"Lophuromys",269,63,2
-"Lophuromys",269,64,2
-"Lophuromys",269,66,1
-"Lophuromys",269,67,2
-"Lophuromys",269,70,1
-"Lophuromys",269,71,2
-"Lophuromys",269,72,2
+"Acomys louisae",269,42,2
+"Lophuromys brunneus",269,52,1
+"Lophuromys zena",269,53,2
+"Lophuromys flavopunctatus",269,54,2
+"Lophuromys chrysopus",269,55,2
+"Lophuromys brevicaudus",269,56,2
+"Lophuromys melanonyx",269,57,2
+"Lophuromys nudicaudus",269,58,2
+"Lophuromys sikapusi",269,62,1
+"Lophuromys ansorgei",269,63,2
+"Lophuromys eisentrauti",269,64,2
+"Lophuromys luteogaster",269,66,1
+"Lophuromys aquilus",269,67,2
+"Lophuromys medicaudatus",269,70,1
+"Lophuromys rahmi",269,71,2
+"Lophuromys woosnami",269,72,2
 "Losea Rat",267,52,2
-"losea",267,52,2
+"Rattus losea",267,52,2
 "Long-haired Rat",267,68,2
 "Asiatic Long-tailed Climbing Mouse",267,119,1
-"longicaudatus",267,186,1
+"Hapalomys longicaudatus",267,186,1
 "Lowland Sulawesi Haeromys",267,190,1
 "Loria's Pogonomys",267,214,2
-"loriae",267,214,2
+"Pogonomys loriae",267,214,2
 "Long-tailed Field Mouse",273,29,1
 "Long-tailed Sulawesian Shrew Rat",271,46,1
 "Spiny Lowland Margaretamys",271,51,1
 "Loring's Rat",263,70,2
-"loringi",263,70,2
-"longicaudatus",263,86,2
+"Thallomys loringi",263,70,2
+"Stochomys longicaudatus",263,86,2
 "Lowland Chrotomys",264,61,1
 "Long-nosed Luzon Apomys",264,77,2
 "Mindanao Lowland Apomys",264,82,2
-"longipes",272,26,2
+"Malacomys longipes",272,26,2
 "Long-tailed Taeromys",272,38,2
 "Long-tailed Giant Rat",272,50,2
-"lowei",268,18,2
+"Dipodillus lowei",268,18,2
 "Long-tailed Pouched Rat",263,142,1
 "Long-haired Akodont",289,77,1
-"longipilis",289,77,1
+"Abrothrix longipilis",289,77,1
 "Long-clawed Mole Mouse",289,123,2
 "Long-nosed Hocicudo",289,174,2
 "Long-furred Rice Rat",293,99,1
 "Long-tailed Pygmy Rice Rat",287,28,1
-"longicaudatus",287,28,1
+"Oligoryzomys longicaudatus",287,28,1
 "Edwards's Long-clawed Mouse",287,55,2
-"Loxodontomys",292,39,2
+"Loxodontomys micropus",292,39,2
 "Large Long-clawed Mouse",292,69,1
 "Andean Long-clawed Mouse",292,71,2
 "Long-tailed Climbing Mouse",294,10,2
 "San Lorenzo Deermouse",291,35,1
-"lophurus",291,117,1
+"Habromys lophurus",291,117,1
 "Long-tailed Vole",282,120,1
-"longicaudus",282,120,1
+"Microtus longicaudus",282,120,1
 "Long-clawed Mole Vole",283,14,2
-"longicaudus",283,18,1
+"Arborimus longicaudus",283,18,1
 "Long-tailed Big-footed Mouse",281,86,1
 "Lowland Red Forest Rat",281,92,1
 "Lowland Red Forest Rat",281,93,2
 "Long-tailed Dwarf Hamster",281,107,1
-"longicaudatus",281,107,1
+"Cricetulus longicaudatus",281,107,1
 "Greater Long-tailed Hamster",281,135,2
 "Lovat's African Climbing Mouse",281,191,1
-"lovati",281,191,1
-"Lophiomys",281,212,2
+"Dendromus lovati",281,191,1
+"Lophiomys imhausi",281,212,2
 "Long-tailed Birch Mouse",280,26,2
 "Long-eared Jerboa",280,56,2
 "Long-eared Flying Squirrel",254,21,2
 "Long-tailed Pocket Mouse",255,132,2
-"longimembris",255,142,2
+"Perognathus longimembris",255,142,2
 "Long-tailed Tree Rat",258,21,1
-"Lonchothrix",258,104,1
+"Lonchothrix emiliae",258,104,1
 "Long-tailed Spiny Rat",258,137,1
-"longicaudatus",258,137,1
+"Proechimys longicaudatus",258,137,1
 "Long-tailed Porcupine",256,57,2
 "Montane Long-nosed Squirrel",278,113,1
 "Lowland Long-nosed Squirrel",278,114,2
 "Lowland Long-nosed Squirrel",278,114,2
 "Low's Squirrel",278,142,2
-"lowii",278,142,2
-"lokriah",278,152,2
+"Sundasciurus lowii",278,142,2
+"Dremomys lokriah",278,152,2
 "Perny's Long-nosed Squirrel",278,155,2
 "Long-tailed Ground Squirrel",297,60,1
 "Long-tailed marmot",296,30,2
@@ -528,11 +528,11 @@ name,fileindex,index,whichChild
 "Lodgepole Chipmunk",296,102,2
 "Long-clawed Ground Squirrel",296,181,2
 "Lorrain Dormouse",262,16,1
-"lorraineus",262,16,1
-"Lophocebus",275,57,1
-"Lophocebus",275,58,2
-"Lophocebus",275,59,2
-"lowei",275,110,2
+"Graphiurus lorraineus",262,16,1
+"Lophocebus albigena",275,57,1
+"Lophocebus opdenboschi",275,58,2
+"Lophocebus aterrimus",275,59,2
+"Cercopithecus lowei",275,110,2
 "Lowland Gorilla",295,37,2
 "Long-haired Spider Monkey",286,20,2
 "Lorenz Von Liburnau's Woolly Lemur",260,73,1
@@ -540,12 +540,12 @@ name,fileindex,index,whichChild
 "Greater Slow Loris",260,147,2
 "Pygmy Slow Loris",260,148,2
 "Gray Slender Loris",260,150,1
-"Loris",260,150,1
+"Loris lydekkerianus",260,150,1
 "Red Slender Loris",260,151,2
-"Loris",260,151,2
+"Loris tardigradus",260,151,2
 "Long-footed Treeshrew",254,167,2
-"longipes",254,167,2
-"lowii",254,175,2
+"Tupaia longipes",254,167,2
+"Ptilocercus lowii",254,175,2
 "Louisiade Woolly Bat",389,41,2
 "De Winton's Long-eared Bat",391,26,1
 "Botswanan Long-eared Bat",391,27,2
@@ -564,10 +564,10 @@ name,fileindex,index,whichChild
 "Lesser Long-eared Bat",392,48,2
 "Small-toothed Long-eared Bat",392,50,1
 "Greater Long-eared Bat",392,51,2
-"lophurus",392,87,2
+"Hypsugo lophurus",392,87,2
 "Long-legged Myotis",404,83,1
 "Fringed Long-footed Myotis",403,14,1
-"longipes",403,16,2
+"Myotis longipes",403,16,2
 "Long-fingered Bat",403,22,2
 "Long-eared Myotis",403,81,2
 "Long-tailed House Bat",403,150,1
@@ -584,8 +584,8 @@ name,fileindex,index,whichChild
 "Loyalty Bent-winged Bat",365,37,1
 "Great Long-fingered Bat",365,38,2
 "Greater Long-fingered Bat",365,41,1
-"lobata",396,138,2
-"loriae",396,189,1
+"Tadarida lobata",396,138,2
+"Mormopterus loriae",396,189,1
 "Louis's Yellow-shouldered Bat",393,78,2
 "Greater Long-tailed Bat",395,6,1
 "Lesser Long-tailed Bat",395,7,2
@@ -597,71 +597,71 @@ name,fileindex,index,whichChild
 "Western Long-tongued Bat",395,30,1
 "Gray Long-tongued Bat",395,31,2
 "Miller's Long-tongued Bat",395,32,2
-"longirostris",395,32,2
+"Glossophaga longirostris",395,32,2
 "Pallas's Long-tongued Bat",395,33,2
 "Commissaris's Long-tongued Bat",395,34,2
 "Curacaoan Long-nosed Bat",395,40,1
 "Lesser Long-nosed Bat",395,41,2
 "Greater Long-nosed Bat",395,42,2
-"Lonchophylla",393,106,1
-"Lonchophylla",393,107,2
-"Lonchophylla",393,108,2
-"Lonchophylla",393,110,1
-"Lonchophylla",393,111,2
-"Lonchophylla",393,113,1
-"Lonchophylla",393,114,2
+"Lonchophylla handleyi",393,106,1
+"Lonchophylla robusta",393,107,2
+"Lonchophylla hesperia",393,108,2
+"Lonchophylla bokermanni",393,110,1
+"Lonchophylla mordax",393,111,2
+"Lonchophylla dekeyseri",393,113,1
+"Lonchophylla thomasi",393,114,2
 "Chestnut Long-tongued Bat",393,115,2
 "Long-snouted Bat",393,116,2
-"Lophostoma",393,156,1
-"Lophostoma",393,157,2
-"Lophostoma",393,158,2
-"Lophostoma",393,162,2
-"Lophostoma",393,163,2
-"Lonchorhina",393,198,1
-"Lonchorhina",393,199,2
-"Lonchorhina",393,200,2
-"Lonchorhina",393,201,2
+"Lophostoma carrikeri",393,156,1
+"Lophostoma evotis",393,157,2
+"Lophostoma silvicolum",393,158,2
+"Lophostoma brasiliense",393,162,2
+"Lophostoma schulzi",393,163,2
+"Lonchorhina marinkellei",393,198,1
+"Lonchorhina aurita",393,199,2
+"Lonchorhina fernandezi",393,200,2
+"Lonchorhina orinocensis",393,201,2
 "Long-legged Bat",393,202,2
 "Longed-winged Tomb Bat",400,69,1
-"longimanus",400,69,1
+"Taphozous longimanus",400,69,1
 "Lombok Flying Fox",366,59,2
-"lombocensis",366,59,2
-"loochoensis",366,80,2
+"Pteropus lombocensis",366,59,2
+"Pteropus loochoensis",366,80,2
 "Dagger-toothed Long-nosed Fruit Bat",365,99,1
 "Hill Long-tongued Fruit Bat",365,100,2
 "Long-haired Rousette",399,62,2
 "Long-tailed Goral",372,68,1
 "Long-beaked Common Dolphin",373,19,2
-"longirostris",373,34,2
+"Stenella longirostris",373,34,2
 "Long-finned Pilot Whale",373,64,2
 "Lowland Tapir",365,132,2
 "Long-tailed Weasel",383,31,2
-"Lontra",386,8,1
-"Lontra",386,9,2
-"longicaudis",386,10,2
-"Lontra",386,10,2
-"Lontra",386,11,2
-"lotor",381,14,2
-"Lobodon",381,93,1
+"Lontra provocax",386,8,1
+"Lontra felina",386,9,2
+"Lontra longicaudis",386,10,2
+"Lontra longicaudis",386,10,2
+"Lontra canadensis",386,11,2
+"Procyon lotor",381,14,2
+"Lobodon carcinophaga",381,93,1
 "Long-nosed Mongoose",384,46,2
 "Kivu Long-haired Shrew",367,27,2
 "Sumatran Long-tailed Shrew",369,40,2
 "Long-tailed Musk Shrew",367,68,1
 "Long-footed Shrew",370,16,2
 "Sri Lankan Long-tailed Shrew",370,60,2
-"longipes",367,144,2
+"Crocidura longipes",367,144,2
 "Pearson's Long-clawed Shrew",367,175,2
 "Kelaart's Long-clawed Shrew",402,63,2
 "Long-tailed Forest Shrew",402,70,1
-"longicaudatus",402,70,1
+"Myosorex longicaudatus",402,70,1
 "Long-clawed Shrew",397,40,1
 "Long-tailed Shrew",398,26,2
-"longirostris",398,36,1
+"Sorex longirostris",398,36,1
 "Long-tailed Brown-toothed Shrew",397,136,2
 "Lowe's Shrew",397,142,2
 "Long-eared Hedgehog",388,25,1
 "Long-nosed Mole",380,19,2
-"longirostris",380,19,2
+"Euroscaptor longirostris",380,19,2
 "Long-tailed Mole",380,46,2
 "Common Long-nosed Armadillo",333,30,1
 "Hairy Long-nosed Armadillo",333,31,2
@@ -670,84 +670,84 @@ name,fileindex,index,whichChild
 "Greater Long-nosed Armadillo",333,35,2
 "Southern Long-nosed Armadillo",333,36,2
 "Lesser Long-tailed Shrew Tenrec",323,22,2
-"longicaudata",323,22,2
+"Microgale longicaudata",323,22,2
 "Greater Long-tailed Shrew Tenrec",323,27,1
 "Lowland Streaked Tenrec",323,47,1
-"Loxodonta",323,134,1
-"Loxodonta",323,135,2
+"Loxodonta africana",323,134,1
+"Loxodonta cyclotis",323,135,2
 "Lowlands Tree Kangaroo",110,90,1
 "Long-nosed Potoroo",110,115,1
 "Long-footed Potoroo",110,117,2
-"longipes",110,117,2
+"Potorous longipes",110,117,2
 "Lowland Ringtail",112,15,1
 "Long-tailed Pygmy Possum",112,111,2
-"lorentzi",111,25,2
-"longicaudata",111,66,2
+"Neophascogale lorentzi",111,25,2
+"Murexia longicaudata",111,66,2
 "Little Long-tailed Dunnart",111,84,1
 "Long-tailed Dunnart",111,96,2
-"longicaudata",111,96,2
+"Sminthopsis longicaudata",111,96,2
 "Long-tailed Planigale",111,120,1
 "Long-nosed Echymipera",109,34,1
-"longicauda",109,44,1
+"Microperoryctes longicauda",109,44,1
 "Long-nosed Bandicoot",109,56,2
 "Long-tailed Fat-tailed Opossum",109,131,2
 "Long-nosed Short-tailed Opossum",109,185,1
 "Long-furred Woolly Mouse Opossum",109,202,1
 "Eastern Long-beaked Echidna",0,128,1
-"lonnbergi",57,96,2
-"loveridgei",57,99,1
+"Mertensophryne lonnbergi",57,96,2
+"Mertensophryne loveridgei",57,99,1
 "Cuban Long-nosed Toad",56,77,2
-"longinasus",56,77,2
-"longidigita",59,34,1
-"lozanoi",63,14,1
-"longibrachius",63,24,1
-"longirostris",63,118,2
+"Peltophryne longinasus",56,77,2
+"Ansonia longidigita",59,34,1
+"Atelopus lozanoi",63,14,1
+"Atelopus longibrachius",63,24,1
+"Atelopus longirostris",63,118,2
 "Lovely Poison Frog",43,218,2
-"longirostris",39,16,1
-"loquax",40,174,2
-"loveridgei",46,183,2
-"longilineus",70,130,2
-"lorica",53,98,2
-"louisiadensis",53,106,2
-"longicrus",53,167,2
+"Leptodactylus longirostris",39,16,1
+"Tlalocohyla loquax",40,174,2
+"Myersiohyla loveridgei",46,183,2
+"Scinax longilineus",70,130,2
+"Litoria lorica",53,98,2
+"Litoria louisiadensis",53,106,2
+"Litoria longicrus",53,167,2
 "Long-snouted Frog",53,194,1
-"longirostris",53,194,1
+"Litoria longirostris",53,194,1
 "Long-footed Frog",38,162,2
-"longipes",38,162,2
-"longipes",93,24,2
+"Litoria longipes",38,162,2
+"Gastrotheca longipes",93,24,2
 "Locust Coqui",75,14,2
-"locustus",75,14,2
-"loustes",73,18,1
-"loki",85,46,2
-"longirostris",72,82,1
-"lochites",77,29,1
-"longipes",80,41,2
+"Eleutherodactylus locustus",75,14,2
+"Eleutherodactylus loustes",73,18,1
+"Craugastor loki",85,46,2
+"Craugastor longirostris",72,82,1
+"Phyllonastes lochites",77,29,1
+"Syrrhophus longipes",80,41,2
 "Loveridge's Frog",23,197,2
-"loveridgei",23,197,2
-"longicrus",7,24,1
-"longchuanensis",9,9,1
-"longinasus",21,164,2
+"Philoria loveridgei",23,197,2
+"Philautus longicrus",7,24,1
+"Philautus longchuanensis",9,9,1
+"Polypedates longinasus",21,164,2
 "Long-legged Wood Frog",13,10,1
-"longicrus",13,60,2
-"loloensis",15,12,2
-"longimanus",15,55,2
-"longipes",17,34,2
-"longicrus",6,31,2
-"longirostris",90,66,2
-"loriae",28,27,2
-"louisiadensis",28,123,2
-"longirostris",33,167,1
+"Rana longicrus",13,60,2
+"Amolops loloensis",15,12,2
+"Amolops longimanus",15,55,2
+"Hydrophylax longipes",17,34,2
+"Indirana longicrus",6,31,2
+"Ptychadena longirostris",90,66,2
+"Oreophryne loriae",28,27,2
+"Mantophryne louisiadensis",28,123,2
+"Choerophryne longirostris",33,167,1
 "Long-nosed Reed Frog",30,144,1
-"loveridgei",26,62,1
-"longipes",71,53,2
-"longipes",322,18,1
-"longissima",100,78,1
-"lozanoi",100,79,2
-"longicauda",100,178,2
+"Arthroleptis loveridgei",26,62,1
+"Xenophrys longipes",71,53,2
+"Xenopus longipes",322,18,1
+"Bolitoglossa longissima",100,78,1
+"Bolitoglossa lozanoi",100,79,2
+"Pseudoeurycea longicauda",100,178,2
 "Longtail Salamander",104,38,2
-"longicauda",104,38,2
+"Eurycea longicauda",104,38,2
 "Louisiana Slimy Salamander",107,41,2
 "Long-toed Salamander",99,25,1
 "Longdong Stream Salamander",344,67,2
-"londongensis",344,67,2
-"longicephalus",345,48,1
+"Batrachuperus londongensis",344,67,2
+"Ichthyophis longicephalus",345,48,1

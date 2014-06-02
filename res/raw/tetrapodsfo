@@ -1,32 +1,32 @@
 name,fileindex,index,whichChild
-"fortis",129,31,2
-"forbesi",145,21,2
+"Geospiza fortis",129,31,2
+"Atlapetes forbesi",145,21,2
 "Fox Sparrow",145,101,2
 "Forbes's Blackbird",143,29,1
-"forbesi",143,29,1
-"formosus",144,191,2
-"fornsi",142,191,2
+"Curaeus forbesi",143,29,1
+"Oporornis formosus",144,191,2
+"Teretistris fornsi",142,191,2
 "Forest Canary",136,52,2
 "Forest Wagtail",123,119,1
-"forbesi",132,36,2
-"formosa",132,186,2
+"Lonchura forbesi",132,36,2
+"Amandava formosa",132,186,2
 "Forest Weaver",141,50,2
 "Fox's Weaver",140,26,2
 "Seychelles Fody",140,140,1
-"Foudia",140,140,1
+"Foudia sechellarum",140,140,1
 "Mauritius Fody",140,141,2
-"Foudia",140,141,2
+"Foudia rubra",140,141,2
 "Red-headed Fody",140,142,2
-"Foudia",140,142,2
+"Foudia eminentissima",140,142,2
 "Madagascar Red Fody",140,144,1
-"Foudia",140,144,1
+"Foudia madagascariensis",140,144,1
 "Rodrigues Fody",140,145,2
-"Foudia",140,145,2
+"Foudia flavicans",140,145,2
 "Forest Fody",140,146,2
 "Forest Fody",140,146,2
-"Foudia",140,146,2
+"Foudia omissa",140,146,2
 "Fork-tailed Sunbird",121,145,1
-"formicivora",184,68,1
+"Myrmecocichla formicivora",184,68,1
 "Forest Rock-thrush",184,107,2
 "White-crowned Forktail",183,59,1
 "Spotted Forktail",183,60,2
@@ -41,30 +41,30 @@ name,fileindex,index,whichChild
 "Forest Robin",193,55,2
 "Forest Thrush",188,82,1
 "Forest Ground-thrush",188,120,2
-"formosa",182,19,2
-"formosus",163,36,2
-"formosus",163,70,2
-"formosana",163,167,1
-"formosana",179,52,2
+"Sitta formosa",182,19,2
+"Garrulax formosus",163,36,2
+"Spelaeornis formosus",163,70,2
+"Pnoepyga formosana",163,167,1
+"Alcippe formosana",179,52,2
 "Bangwa Forest Warbler",177,24,2
 "Foxy Cisticola",172,12,2
-"forresti",162,126,2
-"fortipes",162,170,1
+"Phylloscopus forresti",162,126,2
+"Cettia fortipes",162,170,1
 "Forest Swallow",178,34,2
 "Forest Penduline-tit",161,142,2
 "Forest Raven",158,85,1
-"formosa",157,72,1
-"formosae",157,140,2
-"forficatus",152,62,2
+"Calocitta formosa",157,72,1
+"Dendrocitta formosae",157,140,2
+"Dicrurus forficatus",152,62,2
 "Fork-tailed Drongo",152,66,1
-"forsteni",155,48,1
+"Oriolus forsteni",155,48,1
 "Four-coloured Bush-shrike",198,51,1
-"fortis",197,28,2
-"Foulehaio",148,31,2
-"foersteri",150,24,2
+"Coracina fortis",197,28,2
+"Foulehaio carunculatus",148,31,2
+"Melidectes foersteri",150,24,2
 "Forest Honeyeater",150,76,2
 "Forty-spotted Pardalote",120,73,1
-"fonsecai",233,104,2
+"Acrobatornis fonsecai",233,104,2
 "Patagonian Forest Earthcreeper",231,42,1
 "Rufous-necked Foliage-gleaner",232,11,1
 "Guttulate Foliage-gleaner",232,12,2
@@ -94,37 +94,37 @@ name,fileindex,index,whichChild
 "Henna-hooded Foliage-gleaner",232,83,1
 "Chestnut-capped Foliage-gleaner",232,84,2
 "Ruddy Foliage-gleaner",232,85,2
-"Formicarius",229,45,1
-"Formicarius",229,46,2
-"Formicarius",229,47,2
-"Formicarius",229,49,1
-"Formicarius",229,50,2
-"Formicarius",229,51,2
-"fortis",247,13,2
-"Formicivora",245,137,1
-"Formicivora",245,138,2
-"Formicivora",245,140,1
-"Formicivora",245,141,2
-"Formicivora",245,142,2
-"Formicivora",245,145,1
-"Formicivora",245,146,2
-"Formicivora",245,147,2
+"Formicarius nigricapillus",229,45,1
+"Formicarius analis",229,46,2
+"Formicarius rufifrons",229,47,2
+"Formicarius colma",229,49,1
+"Formicarius moniliger",229,50,2
+"Formicarius rufipectus",229,51,2
+"Myrmeciza fortis",247,13,2
+"Formicivora melanogaster",245,137,1
+"Formicivora erythronotos",245,138,2
+"Formicivora grisea",245,140,1
+"Formicivora rufa",245,141,2
+"Formicivora intermedia",245,142,2
+"Formicivora iheringi",245,145,1
+"Formicivora serrana",245,146,2
+"Formicivora littoralis",245,147,2
 "Foothill Antwren",245,202,2
 "Fork-tailed Flycatcher",236,88,2
-"forficatus",236,103,2
+"Tyrannus forficatus",236,103,2
 "Forest Elaenia",244,47,2
 "Foothill Elaenia",244,49,1
 "Fork-tailed Pygmy-tyrant",239,31,2
-"foetidus",250,17,2
-"formosa",249,85,2
-"forbesi",218,15,2
-"Forpus",215,73,1
-"Forpus",215,74,2
-"Forpus",215,76,1
-"Forpus",215,77,2
-"Forpus",215,80,1
-"Forpus",215,81,2
-"Forpus",215,82,2
+"Gymnoderus foetidus",250,17,2
+"Pipreola formosa",249,85,2
+"Cyanoramphus forbesi",218,15,2
+"Forpus passerinus",215,73,1
+"Forpus modestus",215,74,2
+"Forpus xanthopterygius",215,76,1
+"Forpus coelestis",215,77,2
+"Forpus conspicillatus",215,80,1
+"Forpus xanthops",215,81,2
+"Forpus cyanopygius",215,82,2
 "Fox Kestrel",222,53,2
 "Lined Forest-falcon",114,17,1
 "Cryptic Forest-falcon",114,18,2
@@ -133,74 +133,74 @@ name,fileindex,index,whichChild
 "Buckley's Forest-falcon",114,23,2
 "Barred Forest-falcon",114,24,2
 "Plumbeous Forest-falcon",114,25,2
-"formicivorus",207,8,2
+"Melanerpes formicivorus",207,8,2
 "Forest Kingfisher",202,23,2
-"forsteni",210,47,2
+"Meropogon forsteni",210,47,2
 "Forest Woodhoopoe",201,188,2
 "Montane Forest Screech-owl",227,25,2
 "Forest Owlet",224,114,2
-"forficatus",115,142,2
-"forbesi",115,150,2
+"Elanoides forficatus",115,142,2
+"Leptodon forbesi",115,150,2
 "Forster's Tern",213,20,2
-"forsteri",213,20,2
+"Sterna forsteri",213,20,2
 "Forbes's Plover",119,116,2
-"forbesi",119,116,2
+"Charadrius forbesi",119,116,2
 "Forest Bittern",354,118,2
 "Fork-tailed Storm-petrel",357,140,2
-"forsteri",357,181,2
+"Aptenodytes forsteri",357,181,2
 "Forbes's Forest-rail",361,37,1
 "Forbes's Forest-rail",361,37,1
-"forbesi",361,37,1
+"Rallina forbesi",361,37,1
 "Mayr's Forest-rail",361,38,2
 "White-striped Forest-rail",361,41,1
 "Chestnut Forest-rail",361,47,2
-"forsteni",352,70,1
-"formosae",351,22,2
-"foersteri",347,90,1
+"Ducula forsteni",352,70,1
+"Treron formosae",351,22,2
+"Henicophaps foersteri",347,90,1
 "Four-banded Sandgrouse",346,163,1
 "Fork-tailed Woodnymph",326,28,2
-"forficatus",326,101,2
+"Chlorostilbon forficatus",326,101,2
 "Fork-tailed Emerald",326,111,2
 "Forbes-Watson's Swift",329,90,2
 "Fork-tailed Swift",329,99,1
 "Fork-tailed Palm-swift",329,123,2
-"forcipata",324,138,2
-"fossii",331,11,2
+"Macropsalis forcipata",324,138,2
+"Caprimulgus fossii",331,11,2
 "Forest Francolin",312,169,2
 "Udzungwa Forest-partridge",314,46,2
-"formosa",313,204,2
-"formosa",253,87,1
+"Anas formosa",313,204,2
+"Eudromia formosa",253,87,1
 "Arakan Forest Turtle",94,39,2
 "Sulawesi Forest Turtle",94,44,2
 "Four-eyed Turtle",94,46,1
-"forstenii",94,125,2
-"formosa",343,15,2
-"foliorum",306,95,2
-"formosa",307,90,2
-"fogoensis",300,139,2
-"formosus",405,47,2
-"fowleri",409,79,2
-"formosus",408,34,2
+"Indotestudo forstenii",94,125,2
+"Nilssonia formosa",343,15,2
+"Lygisaurus foliorum",306,95,2
+"Egernia formosa",307,90,2
+"Chioninia fogoensis",300,139,2
+"Stenocercus formosus",405,47,2
+"Anolis fowleri",409,79,2
+"Sceloporus formosus",408,34,2
 "Mindoro Forest Dragon",406,12,2
-"forsythii",406,99,2
-"fowleri",411,53,2
-"forstenii",338,20,1
-"formosanus",335,63,2
-"foxi",335,132,2
-"Fordonia",340,161,1
-"formosensis",334,11,1
+"Phrynocephalus forsythii",406,99,2
+"Celestus fowleri",411,53,2
+"Boiga forstenii",338,20,1
+"Oligodon formosanus",335,63,2
+"Adelophis foxi",335,132,2
+"Fordonia leucobalia",340,161,1
+"Pareas formosensis",334,11,1
 "Four-toed Worm Lizard",334,174,1
-"forresti",266,148,2
+"Leggadina forresti",266,148,2
 "Forest Soft-furred Mouse",263,19,2
 "Forbes's Tree Mouse",270,66,2
-"forbesi",270,66,2
+"Chiruromys forbesi",270,66,2
 "Ethiopian Forest Brush-furred Rat",269,55,2
 "Tawitawi Forest Rat",267,38,2
 "Indochinese Forest Rat",267,39,2
 "Philippine Forest Rat",267,43,1
 "Timor Forest Rat",267,71,1
 "Fox's Shaggy Rat",267,133,2
-"foxi",267,133,2
+"Dasymys foxi",267,133,2
 "Mindoro Forest Anonymomys",273,79,2
 "Four-striped Grass Mouse",273,113,1
 "Liberian Forest Hybomys",271,13,1
@@ -213,40 +213,40 @@ name,fileindex,index,whichChild
 "Cloud Forest Grass Mouse",289,55,2
 "Forest Oldfield Mouse",290,17,2
 "Forest Small Rice Rat",289,202,2
-"fossor",293,81,2
+"Euneomys fossor",293,81,2
 "Foothill Arboreal Rice Rat",293,108,2
 "Fornes' Colilargo",287,40,2
-"fornesi",287,40,2
+"Oligoryzomys fornesi",287,40,2
 "Colombian Forest Mouse",287,50,2
 "Fossorial Giant Rat",292,63,2
 "Striped Atlantic Forest Rat",294,46,1
 "Pallid Atlantic Forest Rat",294,48,2
-"fortis",282,50,2
+"Microtus fortis",282,50,2
 "Forrest's Mountain Vole",282,54,1
-"forresti",282,54,1
-"fontanierii",281,54,1
+"Neodon forresti",282,54,1
+"Eospalax fontanierii",281,54,1
 "Lowland Red Forest Rat",281,92,1
 "Lowland Red Forest Rat",281,93,2
 "Eastern Red Forest Rat",281,94,2
 "Groove-toothed Forest Mouse",281,211,2
 "Four-toed Jerboa",280,99,1
-"formosus",255,132,2
+"Chaetodipus formosus",255,132,2
 "Bishop's Fossorial Spiny Rat",258,132,1
-"foxi",259,20,2
-"fodax",257,26,2
-"fochi",257,32,1
+"Cryptomys foxi",259,20,2
+"Ctenomys fodax",257,26,2
+"Ctenomys fochi",257,32,1
 "Forest Tuco-tuco",256,179,1
 "Bryant's Fox Squirrel",279,44,2
 "Mexican Fox Squirrel",279,54,2
 "Four-striped Ground Squirrel",278,200,1
 "Hidden Forest Chipmunk",296,75,1
 "Forrest's Rock Squirrel",296,170,2
-"forresti",296,170,2
+"Sciurotamias forresti",296,170,2
 "Forest Dormouse",262,39,2
 "Forrest's Pika",261,43,2
-"forresti",261,43,2
+"Ochotona forresti",261,43,2
 "Formosan Rock Macaque",275,38,1
-"foai",275,184,2
+"Piliocolobus foai",275,184,2
 "Montagne D' Ambre Fork-marked Lemur",260,101,1
 "Pale Fork-marked Lemur",260,102,2
 "Sambirano Fork-marked Lemur",260,104,1
@@ -257,13 +257,13 @@ name,fileindex,index,whichChild
 "Little Forest Bat",391,48,2
 "Inland Forest Bat",391,49,2
 "Forest Pipistrelle",390,11,2
-"fortidens",404,81,2
-"formosus",403,87,2
-"formosus",396,55,2
+"Myotis fortidens",404,81,2
+"Myotis formosus",403,87,2
+"Otomops formosus",396,55,2
 "Philippine Forest Leaf-nosed Bat",376,75,1
 "Forest Horseshoe Bat",377,65,2
 "Formosan Woolly Horseshoe Bat",379,36,1
-"formosae",379,36,1
+"Rhinolophus formosae",379,36,1
 "Philippine Forest Horseshoe Bat",379,41,1
 "Kei Flying Fox",366,14,1
 "Aru Flying Fox",366,15,2
@@ -326,8 +326,8 @@ name,fileindex,index,whichChild
 "Four-horned Antelope",371,57,1
 "Forest Musk Deer",371,94,1
 "Forest Hog",401,22,2
-"foina",383,56,2
-"forsteri",381,48,2
+"Martes foina",383,56,2
+"Arctocephalus forsteri",381,48,2
 "Crab-eating Fox",381,153,1
 "Tibetan Fox",381,164,1
 "Corsac Fox",381,165,2
@@ -343,13 +343,13 @@ name,fileindex,index,whichChild
 "Grey Fox",381,183,1
 "Island Fox",381,184,2
 "Bat-eared Fox",381,185,2
-"fossana",385,73,2
-"Fossa",385,73,2
+"Fossa fossana",385,73,2
+"Fossa fossana",385,73,2
 "Fossa",385,74,2
-"foetida",368,33,2
+"Crocidura foetida",368,33,2
 "Large-headed Forest Shrew",370,22,2
 "Fox's Shrew",367,166,2
-"foxi",367,166,2
+"Crocidura foxi",367,166,2
 "Johnston's Forest Shrew",402,45,1
 "Forest Musk Shrew",402,49,2
 "Howell's Forest Shrew",402,52,1
@@ -360,37 +360,37 @@ name,fileindex,index,whichChild
 "Long-tailed Forest Shrew",402,70,1
 "Dark-footed Forest Shrew",402,81,1
 "Forest Shrew",402,83,2
-"fodiens",397,168,2
+"Neomys fodiens",397,168,2
 "Four-toed Hedgehog",388,13,1
 "Four-toed Mole Tenrec",323,34,1
 "Four-toed Sengi",323,109,2
-"forbesi",112,12,1
-"formosus",109,105,2
+"Pseudochirulus forbesi",112,12,1
+"Gracilinanus formosus",109,105,2
 "Mcilhenny's Four-eyed Opossum",109,150,1
 "Anderson's Four-eyed Opossum",109,151,2
 "Southeastern Four-eyed Opossum",109,153,1
 "Gray Four-eyed Opossum",109,154,2
 "Brown Four-eyed Opossum",109,157,2
 "Fowler's Toad",61,16,2
-"fowleri",61,16,2
+"Anaxyrus fowleri",61,16,2
 "Peters' Four-eyed Frog",51,104,2
 "Colombian Four-eyed Frog",51,106,1
 "Four-eyed Frog",51,107,2
 "Large Four-eyed Frog",51,115,1
-"fodiens",40,185,2
-"foricula",54,33,2
-"fowleri",75,11,2
-"folicola",7,122,1
+"Smilisca fodiens",40,185,2
+"Litoria foricula",54,33,2
+"Eleutherodactylus fowleri",75,11,2
+"Philautus folicola",7,122,1
 "African Foam-nest Treefrog",21,172,1
 "Grey Foam-nest Treefrog",21,176,1
-"forreri",12,81,2
-"formosus",15,41,2
-"fonensis",17,8,2
-"fornasini",34,16,1
+"Lithobates forreri",12,81,2
+"Amolops formosus",15,41,2
+"Hydrophylax fonensis",17,8,2
+"Afrixalus fornasini",34,16,1
 "Forest Rain Frog",25,165,2
-"fortinuptialis",342,36,2
+"Bombina fortinuptialis",342,36,2
 "Four-toed Salamander",98,9,2
 "Fourche Mountain Salamander",107,39,1
-"fourchensis",107,39,1
-"folkertsi",105,25,1
-"formosanus",344,55,2
+"Plethodon fourchensis",107,39,1
+"Desmognathus folkertsi",105,25,1
+"Hynobius formosanus",344,55,2

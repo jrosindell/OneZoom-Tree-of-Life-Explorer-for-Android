@@ -11,17 +11,17 @@ name,fileindex,index,whichChild
 "Short-billed Pipit",123,40,2
 "Short-tailed Pipit",123,77,2
 "Sharpe's Longclaw",123,93,2
-"sharpei",123,93,2
+"Macronyx sharpei",123,93,2
 "Shelley's Rufous-sparrow",122,11,2
-"shelleyi",122,11,2
-"shelleyi",134,38,2
+"Passer shelleyi",122,11,2
+"Nesocharis shelleyi",134,38,2
 "Shelley's Crimson-wing",134,48,1
-"shelleyi",134,48,1
+"Cryptospiza shelleyi",134,48,1
 "Shelley's Sunbird",131,11,2
-"shelleyi",131,11,2
+"Nectarinia shelleyi",131,11,2
 "Shining Sunbird",131,32,2
-"shelleyi",121,146,2
-"sharpei",184,107,2
+"Aethopyga shelleyi",121,146,2
+"Monticola sharpei",184,107,2
 "Short-toed Rock-thrush",184,110,2
 "Ala Shan Redstart",183,32,2
 "Shiny Whistling-thrush",183,50,2
@@ -36,34 +36,34 @@ name,fileindex,index,whichChild
 "Black Shama",186,11,2
 "White-browed Shama",186,12,2
 "Rufous-tailed Shama",186,13,2
-"Sheppardia",193,11,2
+"Sheppardia gunningi",193,11,2
 "Sharpe's Akalat",193,13,2
-"sharpei",193,13,2
-"Sheppardia",193,13,2
-"Sheppardia",193,14,2
-"Sheppardia",193,17,1
-"Sheppardia",193,18,2
-"Sheppardia",193,19,2
-"Sheppardia",193,22,1
-"Sheppardia",193,23,2
-"Sheppardia",193,24,2
+"Sheppardia sharpei",193,13,2
+"Sheppardia sharpei",193,13,2
+"Sheppardia bocagei",193,14,2
+"Sheppardia aequatorialis",193,17,1
+"Sheppardia gabela",193,18,2
+"Sheppardia cyornithopsis",193,19,2
+"Sheppardia aurantiithorax",193,22,1
+"Sheppardia lowei",193,23,2
+"Sheppardia montana",193,24,2
 "Sharp-tailed Glossy-starling",191,33,2
 "Shelley's Starling",191,46,2
-"shelleyi",191,46,2
+"Lamprotornis shelleyi",191,46,2
 "Sharpe's Starling",191,65,2
-"sharpii",191,65,2
+"Cinnyricinclus sharpii",191,65,2
 "Short-tailed Starling",194,31,1
 "Sharpe's Wren",190,111,2
 "Short-toed Treecreeper",181,127,1
 "Sharpe's Pied-babbler",164,139,2
-"sharpei",164,139,2
+"Turdoides sharpei",164,139,2
 "Omei Shan Liocichla",168,23,2
 "Short-tailed Scimitar-babbler",165,13,2
 "Short-tailed Babbler",165,24,1
 "Short-tailed Parrotbill",179,10,1
 "Sao Tome Short-tail",176,193,2
 "Sharpe's Apalis",171,23,2
-"sharpii",171,23,2
+"Apalis sharpii",171,23,2
 "Shelley's Greenbul",174,183,2
 "Shade Warbler",162,156,2
 "Short-billed Crombec",161,35,1
@@ -126,7 +126,7 @@ name,fileindex,index,whichChild
 "African Shrike-flycatcher",195,79,1
 "Black-and-white Shrike-flycatcher",195,80,2
 "Short-tailed Batis",196,7,1
-"sharpei",197,71,2
+"Lalage sharpei",197,71,2
 "Short-billed Minivet",195,135,1
 "Crested Shrike-tit",195,179,2
 "Short-bearded Melidectes",150,14,1
@@ -138,7 +138,7 @@ name,fileindex,index,whichChild
 "Short-billed Miner",229,15,2
 "Short-billed Leaftosser",229,36,2
 "Short-tailed Antthrush",229,55,1
-"sharpei",229,106,2
+"Terenura sharpei",229,106,2
 "Shear-tailed Grey-tyrant",238,15,2
 "Grey-bellied Shrike-tyrant",238,19,1
 "Black-billed Shrike-tyrant",238,20,2
@@ -151,17 +151,17 @@ name,fileindex,index,whichChild
 "Short-tailed Pygmy-tyrant",235,90,2
 "Sharpbill",235,173,2
 "Shrike-like Cotinga",251,54,1
-"sharpei",229,201,2
+"Smithornis sharpei",229,201,2
 "Masked Shining-parrot",218,30,1
 "Red Shining-parrot",218,31,2
 "Crimson Shining-parrot",218,32,2
 "Short-tailed Parrot",221,65,1
-"shorii",208,85,2
+"Dinopium shorii",208,85,2
 "Shovel-billed Kookaburra",202,93,2
 "Shining Blue Kingfisher",202,168,2
 "Short-legged Ground-roller",201,139,2
 "Shelley's Eagle-owl",225,18,1
-"shelleyi",225,18,1
+"Bubo shelleyi",225,18,1
 "Short-eared Owl",224,19,2
 "Short-tailed Hawk",118,38,2
 "Sharp-shinned Hawk",117,83,2
@@ -228,7 +228,7 @@ name,fileindex,index,whichChild
 "Short-tailed Nighthawk",324,177,1
 "Sharp-tailed Grouse",312,72,1
 "Shelley's Francolin",312,139,2
-"shelleyi",312,139,2
+"Francolinus shelleyi",312,139,2
 "South African Shelduck",313,49,1
 "Ruddy Shelduck",313,50,2
 "Australian Shelduck",313,51,2
@@ -239,11 +239,11 @@ name,fileindex,index,whichChild
 "Northern Shoveler",313,187,2
 "Cape Shoveler",313,188,2
 "Red Shoveler",313,192,2
-"shanensis",94,28,2
+"Cyclemys shanensis",94,28,2
 "Dumeril's Short-legged Skink",300,93,1
 "Boulenger's Short-legged Skink",300,101,2
-"shrevei",304,112,2
-"Shinisaurus",405,208,2
+"Riama shrevei",304,112,2
+"Shinisaurus crocodilurus",405,208,2
 "Western Shovel-nosed Snake",337,36,1
 "Barred Short-headed Snake",335,53,2
 "Spotted-bellied Short-headed Snake",335,72,1
@@ -253,7 +253,7 @@ name,fileindex,index,whichChild
 "Beddome's Black Shieldtail",334,52,2
 "Short-tailed Talaud Melomys",266,44,2
 "Shark Bay Mouse",266,140,2
-"shortridgei",266,144,1
+"Pseudomys shortridgei",266,144,1
 "Northern Short-tailed Mouse",266,147,1
 "Central Short-tailed Mouse",266,148,2
 "Short-haired Hydromyine",270,10,1
@@ -267,7 +267,7 @@ name,fileindex,index,whichChild
 "Short-tailed Brush-furred Rat",269,56,2
 "Balkan Short-tailed Mouse",269,158,2
 "Shortridge's Mouse",269,168,1
-"shortridgei",269,168,1
+"Mus shortridgei",269,168,1
 "Gairdner's Shrewmouse",269,174,1
 "Sumatran Shrewlike Mouse",269,176,2
 "Javan Shrew-like Mouse",269,178,2
@@ -277,46 +277,46 @@ name,fileindex,index,whichChild
 "Bunn's Short-tailed Bandicoot Rat",267,221,1
 "Short-tailed Bandicoot Rat",267,222,2
 "Shortridge's Mastomys",273,88,2
-"shortridgei",273,88,2
-"shawmayeri",271,27,2
+"Mastomys shortridgei",273,88,2
+"Hydromys shawmayeri",271,27,2
 "Long-tailed Sulawesian Shrew Rat",271,46,1
 "Tate's Sulawesian Shrew Rat",271,47,2
 "Diurnal Sulawesian Shrew Rat",271,48,2
 "Shortridge's Rat",263,68,2
-"shortridgei",263,68,2
+"Thallomys shortridgei",263,68,2
 "Sulawesi Shrew Mouse",264,54,1
 "Mindanao Shrew Mouse",264,55,2
 "Luzon Shrew Mouse",264,56,2
 "Isarog Shrew Mouse",264,57,2
 "Cape Short-eared Gerbil",263,130,2
 "Shaw's Jird",265,33,1
-"shawi",265,33,1
+"Meriones shawi",265,33,1
 "Shortridge's Rock Mouse",263,150,1
-"shortridgei",263,150,1
+"Petromyscus shortridgei",263,150,1
 "Brazilian Shrew Mouse",289,185,2
 "Short-tailed Cane Mouse",293,113,1
 "Short-nosed Harvest Mouse",287,168,1
 "Shanxi Red-backed Vole",284,25,1
-"shanseius",284,25,1
+"Myodes shanseius",284,25,1
 "Tien Shan Red-backed Vole",284,44,1
 "Betsileo Short-tailed Rat",281,96,1
 "Gregarious Short-tailed Rat",281,97,2
 "Tien Shan Birch Mouse",280,14,2
-"shitkovi",280,75,2
+"Pygeretmus shitkovi",280,75,2
 "Shipton's Mountain Cavy",259,34,1
-"shiptoni",259,34,1
+"Microcavia shiptoni",259,34,1
 "Shiny Guinea Pig",259,48,2
 "Short-tailed Chinchilla",256,68,1
-"shistacea",256,77,1
+"Abrocoma shistacea",256,77,1
 "Shrew-faced Squirrel",278,214,1
 "Tien Shan Ground Squirrel",297,22,1
 "Tien Shan Ground Squirrel",297,23,2
 "Shortridge's Langur",276,17,1
-"shortridgei",276,17,1
+"Trachypithecus shortridgei",276,17,1
 "Japanese Short-tailed Bat",403,160,2
 "Shortridge's Long-fingered Bat",365,15,1
-"shortridgei",365,15,1
-"shortridgei",396,82,1
+"Miniopterus shortridgei",365,15,1
+"Chaerephon shortridgei",396,82,1
 "Shadowy Broad-nosed Bat",394,12,1
 "Short-headed Broad-nosed Bat",394,20,1
 "Aratathomas's Yellow shouldered Bat",393,80,1
@@ -329,9 +329,9 @@ name,fileindex,index,whichChild
 "Short-headed Leaf-nosed Bat",376,15,1
 "Short-tailed Roundleaf Bat",376,17,2
 "Shamel's Horseshoe Bat",377,68,2
-"shameli",377,68,2
+"Rhinolophus shameli",377,68,2
 "Shortridge's Horseshoe Bat",376,118,1
-"shortridgei",376,118,1
+"Rhinolophus shortridgei",376,118,1
 "Thomas's Shaggy Bat",400,20,1
 "Shaggy Bat",400,21,2
 "Short-eared Bat",400,39,2
@@ -363,11 +363,11 @@ name,fileindex,index,whichChild
 "Snow Sheep",372,39,2
 "Bighorn Sheep",372,40,2
 "Sharpe's Grysbok",372,192,1
-"sharpei",372,192,1
+"Raphicerus sharpei",372,192,1
 "Short-beaked Common Dolphin",373,18,1
 "Short-finned Pilot Whale",373,63,1
 "Shepherd's Beaked Whale",371,147,2
-"shepherdi",371,147,2
+"Tasmacetus shepherdi",371,147,2
 "Short-eared Dog",381,155,2
 "Short-tailed Mongoose",384,44,1
 "Chinese White-toothed Shrew",368,10,1
@@ -519,7 +519,7 @@ name,fileindex,index,whichChild
 "Savanna Swamp Shrew",367,144,2
 "Egyptian Pygmy Shrew",367,145,2
 "Asian Lesser White-toothed Shrew",367,148,1
-"shantungensis",367,148,1
+"Crocidura shantungensis",367,148,1
 "Lesser Shrew",367,149,2
 "Greater Mindanao Shrew",367,150,2
 "Guramba Shrew",367,151,2
@@ -599,7 +599,7 @@ name,fileindex,index,whichChild
 "Laxmann's Shrew",397,36,1
 "Shinto Shrew",397,37,2
 "Shinto Shrew",397,37,2
-"shinto",397,37,2
+"Sorex shinto",397,37,2
 "Flat-skulled Shrew",397,38,2
 "Long-clawed Shrew",397,40,1
 "Even-toothed Shrew",397,41,2
@@ -760,38 +760,38 @@ name,fileindex,index,whichChild
 "Pygmy Short-tailed Opossum",109,193,2
 "Short-furred Woolly Mouse Opossum",109,206,1
 "Short-beaked Echidna",0,130,2
-"shuar",43,158,2
-"shrevei",68,113,2
-"shrevei",75,28,2
+"Hyloxalus shuar",43,158,2
+"Anomaloglossus shrevei",68,113,2
+"Eleutherodactylus shrevei",75,28,2
 "Guiana Shield Frog",72,26,2
 "Sharp Snouted Day Frog",23,93,1
 "Shoemaker Frog",23,129,2
-"shillongensis",9,24,2
-"shyamrupus",21,180,1
-"shqipericus",18,32,2
-"shuchinae",18,36,2
+"Philautus shillongensis",9,24,2
+"Chiromantis shyamrupus",21,180,1
+"Pelophylax shqipericus",18,32,2
+"Pelophylax shuchinae",18,36,2
 "Short-webbed Frog",11,60,2
-"shini",2,90,2
-"shompenorum",19,14,2
-"shellyi",33,31,2
-"sholigari",29,29,2
-"shudikarensis",35,19,2
+"Quasipaa shini",2,90,2
+"Limnonectes shompenorum",19,14,2
+"Cophixalus shellyi",33,31,2
+"Microhyla sholigari",29,29,2
+"Chiasmocleis shudikarensis",35,19,2
 "Sheep Frog",35,65,1
-"sheldricki",30,95,1
+"Hyperolius sheldricki",30,95,1
 "Short-legged Horned Toad",71,18,1
-"shuichengensis",71,27,1
-"shapingensis",1,140,1
+"Xenophrys shuichengensis",71,27,1
+"Atympanophrys shapingensis",1,140,1
 "Shadowy Web-footed Salamander",100,81,1
 "Shenandoah Salamander",98,84,2
-"shenandoah",98,84,2
+"Plethodon shenandoah",98,84,2
 "Shenandoah Mountain Salamander",98,91,1
-"sherando",98,92,2
-"shermani",107,13,2
+"Plethodon sherando",98,92,2
+"Plethodon shermani",107,13,2
 "Shovelnose Salamander",105,12,1
 "Shasta Salamander",105,56,2
-"shastae",105,56,2
-"shanjing",98,141,2
+"Hydromantes shastae",105,56,2
+"Tylototriton shanjing",98,141,2
 "Sharp-ribbed Salamander",98,148,2
-"shihi",344,77,2
+"Liua shihi",344,77,2
 "Shancheng Stout Salamander",344,80,2
-"shangchengensis",344,80,2
+"Pachyhynobius shangchengensis",344,80,2

@@ -2,18 +2,18 @@ name,fileindex,index,whichChild
 "Swallow Tanager",125,181,2
 "Swamp Sparrow",145,61,2
 "Swainson's Warbler",144,194,1
-"swainsonii",144,194,1
+"Limnothlypis swainsonii",144,194,1
 "Swahili Sparrow",122,30,2
 "Swainson's Sparrow",122,35,1
-"swainsonii",122,35,1
+"Passer swainsonii",122,35,1
 "Swee Waxbill",134,37,2
 "Swamp Flycatcher",185,10,2
 "Swynnerton's Robin",193,57,1
-"swynnertoni",193,57,1
-"Swynnertonia",193,57,1
-"swalesi",188,63,2
+"Swynnertonia swynnertoni",193,57,1
+"Swynnertonia swynnertoni",193,57,1
+"Turdus swalesi",188,63,2
 "Swainson's Thrush",188,188,2
-"swinhoei",167,22,1
+"Pomatorhinus swinhoei",167,22,1
 "Grauer's Swamp-warbler",177,12,2
 "Lesser Swamp-warbler",176,114,1
 "Greater Swamp-warbler",176,117,1
@@ -70,30 +70,30 @@ name,fileindex,index,whichChild
 "Violet-green Swallow",178,150,2
 "Tree Swallow",178,151,2
 "Swainson's Flycatcher",236,35,2
-"swainsoni",236,35,2
-"swainsoni",229,128,2
+"Myiarchus swainsoni",236,35,2
+"Onychorhynchus swainsoni",229,128,2
 "Swallow-tailed Cotinga",249,34,2
 "Swallow-tailed Manakin",249,153,1
-"swindernianus",219,37,1
+"Agapornis swindernianus",219,37,1
 "Swift Parrot",218,33,2
-"swainsonii",215,45,2
-"swainsonii",204,63,1
-"swainsoni",209,13,2
+"Polytelis swainsonii",215,45,2
+"Ramphastos swainsonii",204,63,1
+"Notharchus swainsoni",209,13,2
 "Swallow-wing",201,59,2
 "Swallow-tailed Bee-eater",210,38,2
 "Swainson's Hawk",118,37,2
-"swainsoni",118,37,2
+"Buteo swainsoni",118,37,2
 "Swamp Harrier",117,32,2
 "American Swallow-tailed Kite",115,142,2
 "African Swallow-tailed Kite",115,169,1
-"swainsonii",115,170,2
+"Gampsonyx swainsonii",115,170,2
 "Swallow-tailed Gull",212,61,1
 "Swinhoe's Snipe",223,13,1
 "Swinhoe's Storm-petrel",357,147,2
 "Swinhoe's Rail",361,25,1
 "Purple Swamphen",361,51,1
 "Swallow-tailed Hummingbird",326,13,1
-"swainsonii",326,99,1
+"Chlorostilbon swainsonii",326,99,1
 "Sword-billed Hummingbird",332,155,1
 "Edible-nest Swiftlet",329,11,1
 "Mossy-nest Swiftlet",329,12,2
@@ -184,12 +184,12 @@ name,fileindex,index,whichChild
 "Swallow-tailed Nightjar",324,164,1
 "Swamp Nightjar",331,12,2
 "Swinhoe's Pheasant",312,18,2
-"swinhoii",312,18,2
+"Lophura swinhoii",312,18,2
 "Swamp Francolin",312,163,2
 "Swainson's Spurfowl",317,28,2
-"swainsonii",317,28,2
+"Francolinus swainsonii",317,28,2
 "Swierstra's Francolin",317,41,2
-"swierstrai",317,41,2
+"Francolinus swierstrai",317,41,2
 "Swan Goose",316,10,1
 "Tundra Swan",316,38,1
 "Whooper Swan",316,39,2
@@ -201,9 +201,9 @@ name,fileindex,index,whichChild
 "Black Spine-necked Swamp Turtle",0,106,2
 "Big-headed Pantanal Swamp Turtle",0,107,2
 "Brazilian Radiolated Swamp Turtle",0,108,2
-"swansoni",298,60,2
-"swinhonis",406,45,2
-"swazicus",340,118,2
+"Anomalopus swansoni",298,60,2
+"Japalura swinhonis",406,45,2
+"Inyoka swazicus",340,118,2
 "Bell Groove-toothed Swamp Rat",269,206,1
 "Least Groove-toothed Swamp Rat",269,207,2
 "Hopkins's Groove-toothed Swamp Rat",269,208,2
@@ -218,10 +218,10 @@ name,fileindex,index,whichChild
 "Swarthy Gerbil",268,29,2
 "Andean Swamp Rat",289,97,2
 "Swamp Rat",292,65,1
-"swarthi",292,75,2
-"swinderianus",256,118,1
+"Nesoryzomys swarthi",292,75,2
+"Thryonomys swinderianus",256,118,1
 "Swinhoe's Striped Squirrel",278,165,2
-"swinhoei",278,165,2
+"Tamiops swinhoei",278,165,2
 "Swamp Rabbit",254,93,2
 "Allen's Swamp Monkey",275,139,2
 "Marinkelle's Sword-nosed Bat",393,198,1
@@ -229,18 +229,18 @@ name,fileindex,index,whichChild
 "Fernandez's Sword-nosed Bat",393,200,2
 "Orinoco Sword-nosed Bat",393,201,2
 "Swinny's Horseshoe Bat",379,42,2
-"swinnyi",379,42,2
+"Rhinolophus swinnyi",379,42,2
 "Swift Fruit Bat",387,49,2
-"swinhoei",372,70,2
+"Capricornis swinhoei",372,70,2
 "Swift Fox",381,172,2
 "Kahuzi Swamp Shrew",369,10,1
 "Swamp Musk Shrew",369,39,2
 "Savanna Swamp Shrew",367,144,2
 "Swamp Wallaby",110,72,2
-"swainsonii",111,58,1
+"Antechinus swainsonii",111,58,1
 "Swamp Antechinus",111,59,2
-"swinhoana",16,27,2
-"swamianus",2,165,1
-"swanhildae",33,163,2
-"swynnertoni",30,54,1
+"Huia swinhoana",16,27,2
+"Micrixalus swamianus",2,165,1
+"Albericus swanhildae",33,163,2
+"Hyperolius swynnertoni",30,54,1
 "Sword-tailed Newt",103,66,2

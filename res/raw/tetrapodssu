@@ -1,27 +1,27 @@
 name,fileindex,index,whichChild
 "Sulphur-throated Finch",125,85,1
 "Superciliaried Hemispingus",126,44,2
-"superciliaris",126,44,2
-"surinamus",130,25,2
+"Hemispingus superciliaris",126,44,2
+"Tachyphonus surinamus",130,25,2
 "Sulphur-rumped Tanager",124,17,2
 "Summer Tanager",124,128,2
-"superciliosus",145,80,2
-"sumichrasti",146,29,1
-"sulphurata",142,130,2
-"subalaris",143,40,2
-"superciliaris",142,172,1
-"subita",144,150,2
-"superciliosa",144,215,1
-"sulphuratus",136,12,1
-"subhimachala",135,132,1
-"suahelicus",122,30,2
+"Oriturus superciliosus",145,80,2
+"Aimophila sumichrasti",146,29,1
+"Emberiza sulphurata",142,130,2
+"Macroagelaius subalaris",143,40,2
+"Sturnella superciliaris",142,172,1
+"Dendroica subita",144,150,2
+"Parula superciliosa",144,215,1
+"Serinus sulphuratus",136,12,1
+"Pinicola subhimachala",135,132,1
+"Passer suahelicus",122,30,2
 "Sudan Golden Sparrow",122,36,2
-"superciliaris",122,74,2
-"subflava",132,184,1
-"subaureus",141,43,2
-"subpersonatus",140,12,2
-"superciliosus",140,69,1
-"superciliosus",140,168,1
+"Petronia superciliaris",122,74,2
+"Amandava subflava",132,184,1
+"Ploceus subaureus",141,43,2
+"Ploceus subpersonatus",140,12,2
+"Ploceus superciliosus",140,69,1
+"Plocepasser superciliosus",140,168,1
 "Reichenbach's Sunbird",131,10,1
 "Shelley's Sunbird",131,11,2
 "Malachite Sunbird",131,12,2
@@ -40,7 +40,7 @@ name,fileindex,index,whichChild
 "Ruwenzori Double-collared Sunbird",131,34,1
 "Superb Sunbird",131,35,2
 "Superb Sunbird",131,35,2
-"superba",131,35,2
+"Nectarinia superba",131,35,2
 "Socotra Sunbird",131,42,1
 "Pemba Sunbird",131,43,2
 "Scarlet-chested Sunbird",131,44,2
@@ -144,231 +144,231 @@ name,fileindex,index,whichChild
 "Sumatran Leafbird",121,178,2
 "Gurney's Sugarbird",121,191,1
 "Cape Sugarbird",121,192,2
-"superciliaris",187,12,2
-"subrubra",187,48,2
+"Ficedula superciliaris",187,12,2
+"Ficedula subrubra",187,48,2
 "Sumba Flycatcher",187,60,2
 "Sunda Forktail",183,61,2
 "Sunda Robin",183,70,2
-"superbus",183,134,2
-"sumatrana",183,146,1
-"sundara",183,148,2
+"Cyornis superbus",183,134,2
+"Niltava sumatrana",183,146,1
+"Niltava sundara",183,148,2
 "Sumba Brown Flycatcher",185,34,1
 "Sulawesi Blue-flycatcher",186,29,2
-"subalaris",188,46,2
+"Turdus subalaris",188,46,2
 "Sunda Thrush",188,147,1
 "Sumatran Cochoa",188,165,2
 "Sulawesi Thrush",188,211,2
 "Superb Starling",191,16,2
-"superbus",191,16,2
+"Lamprotornis superbus",191,16,2
 "Sulawesi Myna",194,60,2
 "Superciliated Wren",190,44,2
-"superciliaris",190,44,2
+"Thryothorus superciliaris",190,44,2
 "Sumichrast's Wren",181,89,1
-"sumichrasti",181,89,1
+"Hylorchilus sumichrasti",181,89,1
 "Sulphur-billed Nuthatch",182,33,1
 "Sumatran Laughingthrush",164,59,2
 "Sunda Laughingthrush",164,81,2
-"sukatschewi",164,88,2
-"subrufa",164,128,2
-"subunicolor",163,45,2
+"Garrulax sukatschewi",164,88,2
+"Turdoides subrufa",164,128,2
+"Garrulax subunicolor",163,45,2
 "Sumatran Wren-babbler",165,12,2
 "Sumatran Babbler",165,55,2
 "Sulawesi Babbler",165,57,2
-"superciliaris",167,18,2
-"superciliosa",166,18,1
-"superciliaris",166,188,2
-"subcaerulea",179,82,1
+"Xiphirhynchus superciliaris",167,18,2
+"Woodfordia superciliosa",166,18,1
+"Lophozosterops superciliaris",166,188,2
+"Sylvia subcaerulea",179,82,1
 "Subalpine Warbler",179,96,2
-"subflava",170,27,1
-"sutorius",170,71,2
-"substriata",170,83,1
-"superciliaris",171,56,1
-"subruficapilla",170,139,2
-"subcinnamomea",170,175,2
+"Prinia subflava",170,27,1
+"Orthotomus sutorius",170,71,2
+"Phragmacia substriata",170,83,1
+"Camaroptera superciliaris",171,56,1
+"Cisticola subruficapilla",170,139,2
+"Euryptila subcinnamomea",170,175,2
 "Sulphur-bellied Bulbul",175,44,2
 "Sulawesi Leaf-warbler",162,24,2
 "Sulphur-breasted Warbler",162,34,1
 "Sunda Warbler",162,69,2
-"subaffinis",162,97,2
-"subviridis",162,102,2
+"Phylloscopus subaffinis",162,97,2
+"Phylloscopus subviridis",162,102,2
 "Sulphur-bellied Warbler",162,107,1
 "Sunda Bush-warbler",162,162,2
-"superciliaris",162,177,1
-"superciliaris",162,190,2
-"subulata",162,198,2
-"subis",178,112,2
+"Abroscopus superciliaris",162,177,1
+"Tesia superciliaris",162,190,2
+"Urosphena subulata",162,198,2
+"Progne subis",178,112,2
 "Sun Lark",173,18,2
-"subcoronata",161,71,2
-"superciliosus",169,26,1
+"Certhilauda subcoronata",161,71,2
+"Parus superciliosus",169,26,1
 "Sultan Tit",161,130,2
-"sultanea",161,130,2
-"superciliaris",151,73,1
-"superciliosa",151,82,2
+"Melanochlora sultanea",161,130,2
+"Drymodes superciliaris",151,73,1
+"Poecilodryas superciliosa",151,82,2
 "Superb Bird-of-paradise",160,52,2
-"superba",160,52,2
-"superflua",153,46,2
-"superciliaris",153,57,2
+"Lophorina superba",160,52,2
+"Rhipidura superflua",153,46,2
+"Rhipidura superciliaris",153,57,2
 "Sunda Treepie",157,135,1
 "Sumatran Drongo",152,69,1
-"sumatranus",152,69,1
+"Dicrurus sumatranus",152,69,1
 "Sulawesi Drongo",152,75,2
 "Sulphur-bellied Whistler",156,14,2
-"sulfuriventer",156,14,2
+"Pachycephala sulfuriventer",156,14,2
 "Sulphur-breasted Bush-shrike",198,40,1
-"sulfureopectus",198,40,1
-"superciliosus",199,19,1
+"Telophorus sulfureopectus",198,40,1
+"Artamus superciliosus",199,19,1
 "Sulawesi Cicadabird",197,13,2
 "Sula Cicadabird",197,16,2
-"sula",197,16,2
+"Coracina sula",197,16,2
 "Sumba Cicadabird",197,23,1
-"sueurii",197,68,1
+"Lalage sueurii",197,68,1
 "Sunda Cuckooshrike",200,12,2
 "Sunda Minivet",195,136,2
-"superciliosus",120,55,1
-"subfrenatus",148,23,2
-"subcorniculatus",148,85,2
+"Pomatostomus superciliosus",120,55,1
+"Lichenostomus subfrenatus",148,23,2
+"Philemon subcorniculatus",148,85,2
 "Sumba Myzomela",149,22,2
 "Sulawesi Myzomela",149,27,2
-"superciliosus",148,152,1
-"sulphurea",180,92,1
+"Acanthorhynchus superciliosus",148,152,1
+"Gerygone sulphurea",180,92,1
 "Superb Fairywren",120,95,2
-"subalaris",120,172,2
+"Amblyornis subalaris",120,172,2
 "Superb Lyrebird",120,193,1
-"subpudica",233,16,1
-"subcristata",234,25,1
+"Synallaxis subpudica",233,16,1
+"Cranioleuca subcristata",234,25,1
 "Sulphur-throated Spinetail",234,38,1
-"sulphurifera",234,38,1
+"Cranioleuca sulphurifera",234,38,1
 "Surf Cinclodes",231,26,2
-"subalaris",232,16,2
-"subulatus",232,75,1
-"susurrans",230,125,2
+"Syndactyla subalaris",232,16,2
+"Hyloctistes subulatus",232,75,1
+"Xiphorhynchus susurrans",230,125,2
 "Such's Antthrush",229,60,1
-"superciliaris",248,30,1
-"subflava",245,33,2
+"Scytalopus superciliaris",248,30,1
+"Hypocnemis subflava",245,33,2
 "Rio Suno Antwren",245,156,2
-"sunensis",245,156,2
-"surinamensis",245,186,1
-"Sublegatus",241,51,1
-"Sublegatus",241,52,2
-"Sublegatus",241,53,2
+"Myrmotherula sunensis",245,156,2
+"Myrmotherula surinamensis",245,186,1
+"Sublegatus arenarum",241,51,1
+"Sublegatus obscurior",241,52,2
+"Sublegatus modestus",241,53,2
 "Sulphury Flycatcher",236,109,1
-"sulphurea",236,109,1
+"Tyrannopsis sulphurea",236,109,1
 "Sulphur-bellied Flycatcher",236,116,1
-"sulphuratus",236,130,1
+"Pitangus sulphuratus",236,130,1
 "Subtropical Doradito",240,10,2
-"subcristata",240,18,1
-"superciliaris",240,22,1
-"subplacens",244,46,1
-"Suiriri",244,53,1
+"Serpophaga subcristata",240,18,1
+"Polystictus superciliaris",240,22,1
+"Myiopagis subplacens",244,46,1
+"Suiriri islerorum",244,53,1
 "Suiriri Flycatcher",244,54,2
-"suiriri",244,54,2
-"Suiriri",244,54,2
+"Suiriri suiriri",244,54,2
+"Suiriri suiriri",244,54,2
 "Sulphur-bellied Tyrannulet",242,13,2
-"subflava",242,66,1
-"subbrunneus",235,133,1
-"superrufus",235,134,2
-"sulphurescens",235,146,1
-"superciliaris",237,8,1
-"superciliaris",237,61,2
-"surinamus",251,36,2
+"Inezia subflava",242,66,1
+"Cnipodectes subbrunneus",235,133,1
+"Cnipodectes superrufus",235,134,2
+"Tolmomyias sulphurescens",235,146,1
+"Phylloscartes superciliaris",237,8,1
+"Leptopogon superciliaris",237,61,2
+"Pachyramphus surinamus",251,36,2
 "Sulphur-rumped Flycatcher",229,121,2
-"sulphureipygius",229,121,2
-"subalaris",249,39,2
-"suavissima",249,140,1
+"Myiobius sulphureipygius",229,121,2
+"Snowornis subalaris",249,39,2
+"Lepidothrix suavissima",249,140,1
 "Sulphur-bellied Tyrant-manakin",249,182,1
-"sulphureiventer",249,182,1
+"Neopelma sulphureiventer",249,182,1
 "Superb Pitta",229,148,1
-"superba",229,148,1
+"Pitta superba",229,148,1
 "Sula Pitta",229,171,2
-"sumatranus",229,223,2
+"Corydon sumatranus",229,223,2
 "Sunbird Asity",229,228,2
 "Sulawesi Hanging-parrot",219,13,2
 "Sula Hanging-parrot",219,25,2
-"sumatranus",220,35,2
+"Tanygnathus sumatranus",220,35,2
 "Superb Parrot",215,45,2
 "Sun Parakeet",217,17,1
 "Sulphur-winged Parakeet",217,93,1
-"surdus",215,97,2
+"Touit surdus",215,97,2
 "Sulphur-crested Cockatoo",215,146,1
-"sulphurea",215,147,2
-"subniger",222,15,1
-"subbuteo",222,37,1
+"Cacatua sulphurea",215,147,2
+"Falco subniger",222,15,1
+"Falco subbuteo",222,37,1
 "Sunda Woodpecker",206,122,2
 "Sulawesi Woodpecker",206,125,2
 "Sulu Woodpecker",206,128,2
-"superciliaris",207,41,2
-"subtilis",211,31,2
-"sulcatus",204,31,2
-"sulfuratus",204,71,2
-"subsulphureus",205,52,1
+"Melanerpes superciliaris",207,41,2
+"Picumnus subtilis",211,31,2
+"Aulacorhynchus sulcatus",204,31,2
+"Ramphastos sulfuratus",204,71,2
+"Pogoniulus subsulphureus",205,52,1
 "Sulawesi Kingfisher",202,162,2
-"superciliosa",202,204,1
-"subulatus",202,214,2
-"superciliosus",210,14,1
+"Eumomota superciliosa",202,204,1
+"Todus subulatus",202,214,2
+"Merops superciliosus",210,14,1
 "Sulawesi Hornbill",203,16,1
 "Sumba Hornbill",203,28,2
-"subruficollis",203,30,1
+"Aceros subruficollis",203,30,1
 "Sulu Hornbill",203,40,2
-"subcylindricus",203,57,1
+"Bycanistes subcylindricus",203,57,1
 "Surucua Trogon",252,18,2
-"surrucura",252,18,2
+"Trogon surrucura",252,18,2
 "Sumatran Trogon",252,83,1
-"sumatranus",225,12,1
+"Bubo sumatranus",225,12,1
 "Sulawesi Scops-owl",227,49,2
-"sunia",224,53,2
+"Otus sunia",224,53,2
 "Sunda Scops Owl",224,89,2
 "Subtropical Pygmy-owl",226,18,1
-"Surnia",224,107,2
+"Surnia ulula",224,107,2
 "Sumba Boobook",224,137,2
 "Little Sumba Hawk-owl",224,147,1
-"sumbaensis",224,147,1
-"superciliaris",224,150,1
+"Ninox sumbaensis",224,147,1
+"Ninox superciliaris",224,150,1
 "Sulawesi Golden Owl",224,182,1
 "Sulawesi Owl",224,192,2
 "Sulawesi Goshawk",117,68,2
-"superciliosus",117,96,2
+"Accipiter superciliosus",117,96,2
 "Sulawesi Hawk-eagle",116,69,2
 "Sulawesi Serpent-eagle",115,84,2
-"subcristata",115,128,2
-"sumatrana",213,17,2
-"superciliaris",212,77,1
+"Aviceda subcristata",115,128,2
+"Sterna sumatrana",213,17,2
+"Sterna superciliaris",212,77,1
 "Sumba Buttonquail",114,98,2
-"suscitator",114,113,2
+"Turnix suscitator",114,113,2
 "Sulawesi Woodcock",223,49,2
-"subruficollis",223,128,1
-"subminuta",223,134,2
+"Tryngites subruficollis",223,128,1
+"Calidris subminuta",223,134,2
 "Surfbird",223,141,2
-"superciliosus",119,37,1
-"superciliaris",114,163,2
-"sumatrana",354,51,1
-"sulcirostris",364,13,1
-"Sula",364,80,1
-"Sula",364,81,2
-"Sula",364,83,1
-"Sula",364,84,2
-"Sula",364,85,2
-"sula",364,86,2
-"Sula",364,86,2
+"Vanellus superciliosus",119,37,1
+"Burhinus superciliaris",114,163,2
+"Ardea sumatrana",354,51,1
+"Phalacrocorax sulcirostris",364,13,1
+"Sula nebouxii",364,80,1
+"Sula variegata",364,81,2
+"Sula dactylatra",364,83,1
+"Sula granti",364,84,2
+"Sula leucogaster",364,85,2
+"Sula sula",364,86,2
+"Sula sula",364,86,2
 "Sulawesi Hawk-cuckoo",355,25,2
-"Surniculus",355,44,1
-"Surniculus",355,45,2
+"Surniculus velutinus",355,44,1
+"Surniculus lugubris",355,45,2
 "Sunda Cuckoo",355,64,2
-"sumatranus",356,45,2
-"superciliosus",356,55,1
+"Phaenicophaeus sumatranus",356,45,2
+"Phaenicophaeus superciliosus",356,55,1
 "Sunda Coucal",355,134,2
-"superciliosus",355,142,2
+"Centropus superciliosus",355,142,2
 "Sumatran Ground-cuckoo",355,185,1
-"sulcirostris",346,127,1
+"Crotophaga sulcirostris",346,127,1
 "Sungrebe",360,134,2
 "Superb Fruit-dove",350,38,2
-"superbus",350,38,2
-"subgularis",350,87,2
-"subflavescens",352,36,2
+"Ptilinopus superbus",350,38,2
+"Ptilinopus subgularis",350,87,2
+"Ducula subflavescens",352,36,2
 "Sumba Green-pigeon",351,26,1
 "Sumatran Green-pigeon",351,41,2
 "Sulawesi Ground-dove",347,99,1
 "Sulu Bleeding-heart",347,101,2
-"subvinacea",347,157,2
+"Patagioenas subvinacea",347,157,2
 "Subdesert Mesite",346,138,2
 "Tourmaline Sunangel",332,75,1
 "Little Sunangel",332,76,2
@@ -382,45 +382,45 @@ name,fileindex,index,whichChild
 "Purple-backed Sunbeam",332,215,2
 "Shining Sunbeam",332,216,2
 "Horned Sungem",330,39,2
-"subochraceus",325,14,1
-"superciliosus",325,44,1
+"Phaethornis subochraceus",325,14,1
+"Phaethornis superciliosus",325,44,1
 "Sunda Frogmouth",324,78,2
 "Sunda Nightjar",324,131,2
 "Sulawesi Nightjar",324,203,2
 "Sulawesi Eared-nightjar",324,204,2
 "Sunbittern",324,225,1
-"sumatrana",314,37,2
-"superciliaris",310,84,2
-"superciliaris",311,15,1
+"Arborophila sumatrana",314,37,2
+"Ortalis superciliaris",310,84,2
+"Penelope superciliaris",311,15,1
 "Sula Megapode",310,102,2
 "Surf Scoter",313,29,2
-"superciliosa",313,168,2
+"Anas superciliosa",313,168,2
 "Sunda Teal",313,205,2
 "Sulawesi Forest Turtle",94,44,2
-"subtrijuga",94,78,2
-"sulcata",97,32,2
-"suwanniensis",95,43,2
-"subplana",343,19,2
-"subrufa",0,96,1
-"sulcata",305,18,2
-"surda",306,42,2
-"submetallica",306,71,2
-"subtesselatus",298,144,2
-"suborbitalis",299,55,1
-"superciliosus",405,27,2
-"sumatranus",406,83,2
-"superciliaris",405,164,1
-"suspectum",405,177,2
-"subocularis",335,18,1
-"sublineatus",335,77,1
-"subpunctatus",335,185,1
-"superbus",341,39,2
-"Suta",341,56,2
-"superciliaris",339,69,2
+"Malayemys subtrijuga",94,78,2
+"Geochelone sulcata",97,32,2
+"Pseudemys suwanniensis",95,43,2
+"Dogania subplana",343,19,2
+"Pelomedusa subrufa",0,96,1
+"Trachylepis sulcata",305,18,2
+"Menetia surda",306,42,2
+"Emoia submetallica",306,71,2
+"Cordylosaurus subtesselatus",298,144,2
+"Meroles suborbitalis",299,55,1
+"Uranoscodon superciliosus",405,27,2
+"Draco sumatranus",406,83,2
+"Brookesia superciliaris",405,164,1
+"Heloderma suspectum",405,177,2
+"Bogertophis subocularis",335,18,1
+"Oligodon sublineatus",335,77,1
+"Sibynophis subpunctatus",335,185,1
+"Austrelaps superbus",341,39,2
+"Suta fasciata",341,56,2
+"Proatheris superciliaris",339,69,2
 "Sunbeam Snake",334,77,2
-"subocularis",334,145,1
+"Acutotyphlops subocularis",334,145,1
 "Subalpine Woolly Rat",270,55,1
-"subspinosus",269,40,1
+"Acomys subspinosus",269,40,1
 "Sundaic Arboreal Niviventer",269,82,1
 "Montane Sumatran Niviventer",269,102,1
 "Sumatran Shrewlike Mouse",269,176,2
@@ -437,7 +437,7 @@ name,fileindex,index,whichChild
 "Sumatran Mountain Maxomys",267,160,1
 "Dollman's Sulawesi Maxomys",267,161,2
 "Whitehead's Sundaic Maxomys",267,166,1
-"surifer",267,167,2
+"Maxomys surifer",267,167,2
 "Hellwald's Sulawesi Maxomys",267,170,1
 "Lowland Sulawesi Haeromys",267,190,1
 "Sundaic Haeromys",267,191,2
@@ -449,66 +449,66 @@ name,fileindex,index,whichChild
 "Northern Sulawesi Echiothrix",271,55,1
 "Central Sulawesi Echiothrix",271,56,2
 "Mountain Sundamys",263,90,1
-"Sundamys",263,90,1
+"Sundamys infraluteus",263,90,1
 "Javan Sundamys",263,91,2
-"Sundamys",263,91,2
+"Sundamys maxi",263,91,2
 "Muller's Sundamys",263,92,2
-"Sundamys",263,92,2
+"Sundamys muelleri",263,92,2
 "Sundaic Lenothrix",263,93,2
 "Sulawesi Shrew Mouse",264,54,1
 "Sundaic Mountain Leopoldamys",272,53,1
 "Giant Sulawesi Rat",272,56,2
 "Sudan Gerbil",268,12,2
 "Sundevall's Jird",265,18,1
-"surdus",289,68,2
-"subfuscus",289,71,2
-"subflavus",293,16,2
-"superans",293,108,2
-"sublimis",292,38,1
-"sublineatus",294,48,2
-"sumichrasti",287,149,2
+"Akodon surdus",289,68,2
+"Akodon subfuscus",289,71,2
+"Oryzomys subflavus",293,16,2
+"Oecomys superans",293,108,2
+"Auliscomys sublimis",292,38,1
+"Delomys sublineatus",294,48,2
+"Nyctomys sumichrasti",287,149,2
 "Sumachrasti's Harvest Mouse",287,189,1
-"sumichrasti",287,189,1
-"subterraneus",282,21,2
-"sungorus",281,134,2
-"sumatrensis",281,166,1
-"subtilis",280,25,2
-"sungorus",280,61,1
-"surdaster",254,24,1
+"Reithrodontomys sumichrasti",287,189,1
+"Microtus subterraneus",282,21,2
+"Phodopus sungorus",281,134,2
+"Rhizomys sumatrensis",281,166,1
+"Sicista subtilis",280,25,2
+"Stylodipus sungorus",280,61,1
+"Pedetes surdaster",254,24,1
 "Sucre Spiny Rat",258,51,2
-"subspinosus",258,68,2
-"sulcidens",258,101,2
-"suillus",259,24,2
+"Chaetomys subspinosus",258,68,2
+"Carterodon sulcidens",258,101,2
+"Bathyergus suillus",259,24,2
 "Sumatran Porcupine",256,46,2
-"sumatrae",256,46,2
+"Hystrix sumatrae",256,46,2
 "Sunda Porcupine",256,53,2
 "Sumatran Flying Squirrel",278,31,1
 "Sulawesi Giant Squirrel",278,111,2
-"Sundasciurus",278,124,1
-"Sundasciurus",278,125,2
-"Sundasciurus",278,126,2
-"Sundasciurus",278,127,2
-"Sundasciurus",278,130,1
-"Sundasciurus",278,131,2
-"Sundasciurus",278,132,2
-"Sundasciurus",278,137,1
-"Sundasciurus",278,138,2
-"Sundasciurus",278,139,2
-"Sundasciurus",278,141,1
-"Sundasciurus",278,142,2
-"Sundasciurus",278,143,2
-"Sundasciurus",278,144,2
-"Sundasciurus",278,145,2
-"sublineatus",278,207,1
-"suslicus",297,30,2
-"substriatus",296,140,2
+"Sundasciurus hippurus",278,124,1
+"Sundasciurus davensis",278,125,2
+"Sundasciurus hoogstraali",278,126,2
+"Sundasciurus rabori",278,127,2
+"Sundasciurus mindanensis",278,130,1
+"Sundasciurus brookei",278,131,2
+"Sundasciurus fraterculus",278,132,2
+"Sundasciurus jentinki",278,137,1
+"Sundasciurus tenuis",278,138,2
+"Sundasciurus philippinensis",278,139,2
+"Sundasciurus steerii",278,141,1
+"Sundasciurus lowii",278,142,2
+"Sundasciurus juvencus",278,143,2
+"Sundasciurus moellendorffi",278,144,2
+"Sundasciurus samarensis",278,145,2
+"Funambulus sublineatus",278,207,1
+"Spermophilus suslicus",297,30,2
+"Funisciurus substriatus",296,140,2
 "Red-legged Sun Squirrel",296,160,1
 "Small Sun Squirrel",296,161,2
 "Gambian Sun Squirrel",296,162,2
 "Mutable Sun Squirrel",296,163,2
 "Ruwenzori Sun Squirrel",296,165,1
 "Zanj Sun Squirrel",296,166,2
-"surdus",262,13,2
+"Graphiurus surdus",262,13,2
 "Sumatran Striped Rabbit",254,102,1
 "Sun-tailed Monkey",275,136,2
 "Javan Surili",276,34,2
@@ -519,151 +519,151 @@ name,fileindex,index,whichChild
 "Sumatran Surili",276,48,2
 "Sumatran Surili",276,48,2
 "Sumatran Orangutan",295,40,2
-"suilla",389,63,2
-"superba",391,23,2
+"Murina suilla",389,63,2
+"Glauconycteris superba",391,23,2
 "Sundan Long-eared Bat",392,45,2
-"subflavus",392,53,2
+"Pipistrellus subflavus",392,53,2
 "Surat Serotine",403,153,2
 "Sulawesi Yellow House Bat",403,186,2
 "Sumatran Mastiff Bat",396,177,2
-"subrufa",393,92,2
+"Carollia subrufa",393,92,2
 "Eastern Sucker-footed Bat",365,68,2
 "Sumban Leaf-nosed Bat",378,22,1
-"sumbae",378,22,1
+"Hipposideros sumbae",378,22,1
 "Sundevall's Roundleaf Bat",376,42,1
-"subrufus",377,36,2
+"Rhinolophus subrufus",377,36,2
 "Sulawesi Horseshoe Bat",376,110,1
-"subbadius",376,114,1
+"Rhinolophus subbadius",376,114,1
 "Sulawesi Fruit Bat",366,130,1
 "Sunda Fruit Bat",366,132,2
 "Sulawesi Naked-backed Fruit Bat",366,158,2
 "Sulawesi Harpy Fruit Bat",366,171,1
 "Sulawesi Rousette",399,58,2
-"sumatraensis",372,58,2
-"subgutturosa",372,120,2
-"Sus",401,9,1
-"Sus",401,10,2
-"Sus",401,11,2
-"Sus",401,13,1
-"Sus",401,14,2
+"Capricornis sumatraensis",372,58,2
+"Gazella subgutturosa",372,120,2
+"Sus ahoenobarbus",401,9,1
+"Sus barbatus",401,10,2
+"Sus philippensis",401,11,2
+"Sus bucculentus",401,13,1
+"Sus verrucosus",401,14,2
 "Sulawesi Warty Pig",401,17,1
-"Sus",401,17,1
-"Sus",401,18,2
-"Sus",401,20,1
-"Sus",401,21,2
+"Sus celebensis",401,17,1
+"Sus cebifrons",401,18,2
+"Sus scrofa",401,20,1
+"Sus salvanius",401,21,2
 "Sulawesi Babirusa",401,32,2
 "Sumatran Rhinoceros",365,127,2
-"sumatrensis",365,127,2
-"subpalmata",383,29,1
+"Dicerorhinus sumatrensis",365,127,2
+"Mustela subpalmata",383,29,1
 "Sunda Stink-badger",383,84,1
-"sumatrana",386,16,2
-"sumichrasti",381,21,1
+"Lutra sumatrana",386,16,2
+"Bassariscus sumichrasti",381,21,1
 "Subantarctic Fur Seal",381,51,2
 "Malayan Sun Bear",381,109,1
-"suricatta",384,23,2
-"Suricata",384,23,2
+"Suricata suricatta",384,23,2
+"Suricata suricatta",384,23,2
 "Sunda Pangolin",365,156,2
 "Sulawesi Tiny Shrew",368,16,2
 "Sumatran Giant Shrew",368,31,1
-"susiana",369,6,1
+"Crocidura susiana",369,6,1
 "Sulawesi Shrew",369,7,2
 "Sunda Shrew",369,22,1
 "Sulawesi White-handed Shrew",369,32,1
 "Sumatran Long-tailed Shrew",369,40,2
-"suaveolens",367,149,2
-"Suncus",402,12,1
-"Suncus",402,13,2
-"Suncus",402,14,2
-"Suncus",402,15,2
-"Suncus",402,16,2
-"Suncus",402,18,1
-"Suncus",402,19,2
-"Suncus",402,22,1
-"Suncus",402,23,2
-"Suncus",402,24,2
-"Suncus",402,30,1
-"Suncus",402,31,2
-"Suncus",402,32,2
-"Suncus",402,33,2
-"Suncus",402,35,1
-"Suncus",402,36,2
-"Suncus",402,37,2
-"Suncus",402,58,2
-"Surdisorex",402,90,1
-"Surdisorex",402,91,2
-"suncoides",402,92,2
+"Crocidura suaveolens",367,149,2
+"Suncus lixus",402,12,1
+"Suncus aequatorius",402,13,2
+"Suncus malayanus",402,14,2
+"Suncus dayi",402,15,2
+"Suncus mertensi",402,16,2
+"Suncus infinitesimus",402,18,1
+"Suncus etruscus",402,19,2
+"Suncus hosei",402,22,1
+"Suncus ater",402,23,2
+"Suncus fellowesgordoni",402,24,2
+"Suncus varilla",402,30,1
+"Suncus montanus",402,31,2
+"Suncus remyi",402,32,2
+"Suncus stoliczkanus",402,33,2
+"Suncus madagascariensis",402,35,1
+"Suncus murinus",402,36,2
+"Suncus zeylanicus",402,37,2
+"Suncus megalura",402,58,2
+"Surdisorex polulus",402,90,1
+"Surdisorex norae",402,91,2
+"Ruwenzorisorex suncoides",402,92,2
 "Sumatran Water Shrew",397,158,2
-"sumatrana",397,158,2
-"suillus",388,36,1
+"Chimarrogale sumatrana",397,158,2
+"Hylomys suillus",388,36,1
 "Sugar Glider",112,39,1
 "Small Sulawesi Cuscus",112,81,1
 "Subdesert Toad",57,65,1
-"superciliaris",57,73,2
-"surda",56,107,2
+"Amietophrynus superciliaris",57,73,2
+"Pseudepidalea surda",56,107,2
 "Sulawesian Toad",56,148,2
-"submontana",56,182,1
-"subornatus",63,117,2
-"sumacoensis",63,162,2
-"subpunctatus",43,144,2
-"sumtuosus",68,36,2
-"subguttata",45,26,2
-"susatamai",49,81,1
-"sumichrasti",40,91,1
-"suweonensis",40,159,2
-"subtilis",64,35,2
-"subocularis",48,107,1
-"sugillatus",70,51,2
-"surdus",70,195,2
-"subglandulosa",53,39,2
-"supernatis",81,36,2
-"subsigillatus",81,79,1
-"susaguae",89,11,2
-"sulculus",89,14,2
-"surdus",86,38,2
-"sulcatus",74,34,1
-"suetus",74,58,2
+"Werneria submontana",56,182,1
+"Atelopus subornatus",63,117,2
+"Osornophryne sumacoensis",63,162,2
+"Hyloxalus subpunctatus",43,144,2
+"Allobates sumtuosus",68,36,2
+"Proceratophrys subguttata",45,26,2
+"Cochranella susatamai",49,81,1
+"Exerodonta sumichrasti",40,91,1
+"Hyla suweonensis",40,159,2
+"Osteocephalus subtilis",64,35,2
+"Dendropsophus subocularis",48,107,1
+"Scinax sugillatus",70,51,2
+"Sphaenorhynchus surdus",70,195,2
+"Litoria subglandulosa",53,39,2
+"Eleutherodactylus supernatis",81,36,2
+"Eleutherodactylus subsigillatus",81,79,1
+"Eleutherodactylus susaguae",89,11,2
+"Eleutherodactylus sulculus",89,14,2
+"Eleutherodactylus surdus",86,38,2
+"Eleutherodactylus sulcatus",74,34,1
+"Eleutherodactylus suetus",74,58,2
 "Sunset Frog",23,53,2
-"subinsignifera",24,29,2
-"sudelli",23,120,2
-"sutor",23,129,2
-"surrufus",7,86,1
-"surdus",7,87,2
-"supercornutus",2,27,1
+"Crinia subinsignifera",24,29,2
+"Neobatrachus sudelli",23,120,2
+"Neobatrachus sutor",23,129,2
+"Philautus surrufus",7,86,1
+"Philautus surdus",7,87,2
+"Aquixalus supercornutus",2,27,1
 "Sumatran Torrent Frog",16,10,1
-"sumatrana",16,10,1
-"supranarina",16,84,2
-"subaspera",12,115,1
-"supragrisea",14,48,2
+"Huia sumatrana",16,10,1
+"Huia supranarina",16,84,2
+"Babina subaspera",12,115,1
+"Sylvirana supragrisea",14,48,2
 "Sumatran Puddle Frog",5,10,1
-"sumatrana",5,10,1
+"Occidozyga sumatrana",5,10,1
 "Sulawesian Puddle Frog",5,15,1
-"subvoce",2,115,2
-"subsigillata",2,144,1
-"sulfureogularis",4,28,1
-"subterrestris",92,88,1
-"superciliaris",90,21,2
-"submascareniensis",90,39,1
-"subpunctata",90,53,2
-"subcroceus",33,121,2
-"superciliaris",29,26,1
-"sundana",25,72,2
-"surinamensis",35,78,1
-"subterrestris",25,123,2
-"susanae",36,63,2
-"sungi",37,16,1
+"Arthroleptella subvoce",2,115,2
+"Aubria subsigillata",2,144,1
+"Phrynobatrachus sulfureogularis",4,28,1
+"Platymantis subterrestris",92,88,1
+"Ptychadena superciliaris",90,21,2
+"Ptychadena submascareniensis",90,39,1
+"Ptychadena subpunctata",90,53,2
+"Xenorhina subcroceus",33,121,2
+"Microhyla superciliaris",29,26,1
+"Metaphrynella sundana",25,72,2
+"Elachistocleis surinamensis",35,78,1
+"Kalophrynus subterrestris",25,123,2
+"Leptopelis susanae",36,63,2
+"Leptolalax sungi",37,16,1
 "Suriname Toad",322,43,1
 "Arrabal's Suriname Toad",322,45,2
 "Albina Surinam Toad",322,46,2
 "Carvalho's Surinam Toad",322,47,2
 "Myers' Surinam Toad",322,49,1
-"subpalmata",100,82,2
-"sulcata",100,107,2
-"subterraneus",104,60,2
-"supramontis",105,50,1
-"subnigricans",113,36,2
-"subterminalis",113,49,1
-"subdermalis",113,50,2
-"supernumeraria",113,115,1
-"subterrestris",345,37,2
-"supachaii",345,63,2
-"sumatranus",345,67,2
+"Bolitoglossa subpalmata",100,82,2
+"Pseudoeurycea sulcata",100,107,2
+"Gyrinophilus subterraneus",104,60,2
+"Hydromantes supramontis",105,50,1
+"Caecilia subnigricans",113,36,2
+"Caecilia subterminalis",113,49,1
+"Caecilia subdermalis",113,50,2
+"Microcaecilia supernumeraria",113,115,1
+"Ichthyophis subterrestris",345,37,2
+"Ichthyophis supachaii",345,63,2
+"Ichthyophis sumatranus",345,67,2

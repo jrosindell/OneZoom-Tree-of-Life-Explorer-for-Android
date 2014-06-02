@@ -7,51 +7,51 @@ name,fileindex,index,whichChild
 "Small Lifu White-eye",166,164,2
 "Small Whitethroat",179,86,2
 "Smoky Warbler",162,100,1
-"smithii",178,21,2
+"Hirundo smithii",178,21,2
 "Smoky Robin",151,52,2
-"smithii",152,18,2
+"Terpsiphone smithii",152,18,2
 "Small Minivet",195,142,1
 "Smoky Honeyeater",148,174,2
-"Smicrornis",180,51,2
+"Smicrornis brevirostris",180,51,2
 "Smoky Bush-tyrant",238,31,2
 "Smoke-coloured Pewee",243,55,2
 "Small-billed Elaenia",244,23,2
 "Smoky-fronted Tody-flycatcher",235,114,2
-"Smithornis",229,199,1
-"Smithornis",229,200,2
-"Smithornis",229,201,2
+"Smithornis rufolateralis",229,199,1
+"Smithornis capensis",229,200,2
+"Smithornis sharpei",229,201,2
 "Smoky-brown Woodpecker",206,46,2
-"smyrnensis",202,109,1
+"Halcyon smyrnensis",202,109,1
 "Small Blue Kingfisher",202,170,1
 "Small Sparrowhawk",117,51,2
 "Small Pratincole",114,66,2
 "Small Buttonquail",114,106,2
 "Smooth-billed Ani",346,128,2
-"smithii",347,63,2
+"Geophaps smithii",347,63,2
 "Smew",313,20,2
-"smithii",313,188,2
+"Anas smithii",313,188,2
 "Small-billed Tinamou",253,15,1
 "Cuvier's Smooth-fronted Caiman",0,71,1
 "Smooth-fronted Caiman",0,72,2
-"smithii",94,70,2
+"Kachuga smithii",94,70,2
 "Smooth Softshell Turtle",343,28,2
-"smaragdina",305,152,2
+"Lamprolepis smaragdina",305,152,2
 "Small Three-toed Skink",303,41,1
-"smithi",298,64,1
-"smithii",298,157,2
-"smaragdinus",308,15,2
-"smaragdinus",409,76,1
+"Oligosoma smithi",298,64,1
+"Lepidophyma smithii",298,157,2
+"Takydromus smaragdinus",308,15,2
+"Anolis smaragdinus",409,76,1
 "False Smooth Snake",337,65,2
-"smaragdina",338,66,2
+"Hapsidophrys smaragdina",338,66,2
 "Small-eyed Snake",340,14,1
 "Little Small Snake",334,18,2
 "Small Bent-toed Gecko",318,57,1
 "Cylindrical-bodied Smooth-scaled Gecko",321,7,1
 "Green Smooth-scaled Gecko",321,8,2
-"smaragdinus",321,8,2
+"Pseudogekko smaragdinus",321,8,2
 "Orange-spotted Smooth-scaled Gecko",321,9,2
 "Yellow-lined Smooth-scaled Gecko",321,18,1
-"smithi",318,197,2
+"Aprasia smithi",318,197,2
 "Smoky Mouse",266,142,2
 "Lesser Small-toothed Rat",270,61,1
 "Greater Small-toothed Rat",270,62,2
@@ -72,9 +72,9 @@ name,fileindex,index,whichChild
 "Small-toothed Harvest Mouse",287,179,1
 "Smokey Vole",283,27,2
 "Smith's Red-backed Vole",284,32,2
-"smithii",284,32,2
+"Myodes smithii",284,32,2
 "Smith's Zokor",281,55,2
-"smithii",281,55,2
+"Eospalax smithii",281,55,2
 "Small Five-toed Jerboa",280,86,2
 "Smoky Pocket Gopher",255,42,2
 "Small Kashmir Flying Squirrel",278,49,2
@@ -89,7 +89,7 @@ name,fileindex,index,whichChild
 "Northern Smooth-tailed Treeshrew",254,171,2
 "Small Woolly Bat",389,24,1
 "Smith's Woolly Bat",389,27,1
-"smithii",389,27,1
+"Kerivoula smithii",389,27,1
 "Small Big-eared Brown Bat",390,67,2
 "Small-toothed Long-eared Bat",392,50,1
 "Dark-nosed Small-footed Myotis",404,67,1
@@ -106,10 +106,10 @@ name,fileindex,index,whichChild
 "Asian Small-clawed Otter",386,25,1
 "Small-toothed Ferret-badger",386,52,2
 "Small Asian Mongoose",384,40,1
-"smithii",384,49,2
+"Herpestes smithii",384,49,2
 "Small Indian Civet",385,45,2
 "Small-toothed Palm Civet",385,61,2
-"smithii",367,19,2
+"Crocidura smithii",367,19,2
 "Small-footed Shrew",367,73,1
 "Smoky White-toothed Shrew",367,142,1
 "Smoky Shrew",398,40,2
@@ -134,42 +134,42 @@ name,fileindex,index,whichChild
 "Talamancan Small-eared Shrew",397,116,1
 "Ender's Small-eared Shrew",397,117,2
 "Smith's Shrew",397,148,2
-"smithii",397,148,2
+"Chodsigoa smithii",397,148,2
 "Small-toothed Mole",380,16,2
 "Small Japanese Mole",380,26,2
 "Small Dorcopsis",110,111,2
 "Small Sulawesi Cuscus",112,81,1
-"Sminthopsis",111,84,1
-"Sminthopsis",111,85,2
-"Sminthopsis",111,86,2
-"Sminthopsis",111,87,2
-"Sminthopsis",111,88,2
-"Sminthopsis",111,92,1
-"Sminthopsis",111,93,2
-"Sminthopsis",111,94,2
-"Sminthopsis",111,95,2
-"Sminthopsis",111,96,2
-"Sminthopsis",111,97,2
-"Sminthopsis",111,99,1
-"Sminthopsis",111,100,2
-"Sminthopsis",111,105,1
-"Sminthopsis",111,106,2
-"Sminthopsis",111,107,2
-"Sminthopsis",111,108,2
-"Sminthopsis",111,109,2
+"Sminthopsis dolichura",111,84,1
+"Sminthopsis murina",111,85,2
+"Sminthopsis gilberti",111,86,2
+"Sminthopsis leucopus",111,87,2
+"Sminthopsis archeri",111,88,2
+"Sminthopsis youngsoni",111,92,1
+"Sminthopsis ooldea",111,93,2
+"Sminthopsis psammophila",111,94,2
+"Sminthopsis hirtipes",111,95,2
+"Sminthopsis longicaudata",111,96,2
+"Sminthopsis granulipes",111,97,2
+"Sminthopsis griseoventer",111,99,1
+"Sminthopsis aitkeni",111,100,2
+"Sminthopsis douglasi",111,105,1
+"Sminthopsis butleri",111,106,2
+"Sminthopsis virginiae",111,107,2
+"Sminthopsis macroura",111,108,2
+"Sminthopsis crassicaudata",111,109,2
 "Cuban Small-eared Toad",56,76,2
-"smaragdina",43,13,1
+"Ameerega smaragdina",43,13,1
 "Smooth-skinned ditch frog",39,109,1
-"smaragdina",40,104,1
-"smithii",40,173,1
-"Smilisca",40,183,1
-"Smilisca",40,184,2
-"Smilisca",40,185,2
-"Smilisca",40,186,2
-"Smilisca",40,188,1
-"Smilisca",40,189,2
-"Smilisca",40,191,1
-"Smilisca",40,192,2
+"Exerodonta smaragdina",40,104,1
+"Tlalocohyla smithii",40,173,1
+"Smilisca baudinii",40,183,1
+"Smilisca phaeota",40,184,2
+"Smilisca fodiens",40,185,2
+"Smilisca cyanosticta",40,186,2
+"Smilisca dentata",40,188,1
+"Smilisca sordida",40,189,2
+"Smilisca puma",40,191,1
+"Smilisca sila",40,192,2
 "Small Frog",38,155,2
 "Small-headed Toadlet",23,20,1
 "Smooth Toadlet",23,26,1
@@ -179,10 +179,10 @@ name,fileindex,index,whichChild
 "Eastern Smooth Frog",24,41,2
 "Small Disked Frog",19,49,1
 "Small-headed Frog",5,21,1
-"smithi",29,66,1
+"Calluella smithi",29,66,1
 "Smith's Litter Frog",37,58,1
-"smithi",37,58,1
-"smithi",100,184,2
-"smithi",108,44,2
+"Leptobrachium smithi",37,58,1
+"Pseudoeurycea smithi",100,184,2
+"Thorius smithi",108,44,2
 "Smooth Newt",103,11,1
 "Smallmouth Salamander",99,21,2

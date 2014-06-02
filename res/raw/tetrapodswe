@@ -1,8 +1,8 @@
 name,fileindex,index,whichChild
 "Western Hemispingus",126,53,2
 "Wedge-tailed Grass-finch",125,153,2
-"wetmorei",128,115,1
-"Wetmorethraupis",128,211,2
+"Buthraupis wetmorei",128,115,1
+"Wetmorethraupis sterrhopteron",128,211,2
 "Western Chat-Tanager",124,95,1
 "Western Tanager",124,124,1
 "Western Meadowlark",142,176,1
@@ -53,7 +53,7 @@ name,fileindex,index,whichChild
 "Sakalava Weaver",140,54,1
 "Weyns's Weaver",140,55,2
 "Weyns's Weaver",140,55,2
-"weynsi",140,55,2
+"Ploceus weynsi",140,55,2
 "Baglafecht Weaver",140,56,2
 "Baya Weaver",140,60,1
 "Streaked Weaver",140,61,2
@@ -76,10 +76,10 @@ name,fileindex,index,whichChild
 "Bob-tailed Weaver",140,178,2
 "Grosbeak Weaver",140,179,2
 "Western Violet-backed Sunbird",121,117,1
-"westermanni",187,11,2
+"Ficedula westermanni",187,11,2
 "Western Bluebird",181,57,2
 "Western Rock-nuthatch",182,45,2
-"webbianus",179,30,1
+"Paradoxornis webbianus",179,30,1
 "Wedge-tailed Jery",176,74,2
 "Western Olivaceous Warbler",176,159,2
 "Western Mountain Greenbul",174,182,1
@@ -108,36 +108,36 @@ name,fileindex,index,whichChild
 "Western Wood-pewee",243,42,2
 "Western Sirystes",236,59,1
 "Western Kingbird",236,102,2
-"weedeni",242,9,2
-"weberi",250,35,2
+"Phyllomyias weedeni",242,9,2
+"Lipaugus weberi",250,35,2
 "Western Rosella",218,47,2
-"weddellii",217,11,2
+"Aratinga weddellii",217,11,2
 "Western Corella",215,151,2
 "West Indian Woodpecker",207,41,2
 "Western Green-tinkerbird",205,54,2
-"websteri",202,159,1
+"Alcedo websteri",202,159,1
 "West Peruvian Screech-owl",227,14,2
 "Western Screech-owl",227,21,2
 "Western Marsh-harrier",117,11,1
 "Wedge-tailed Eagle",116,16,1
-"weiskei",116,31,1
+"Hieraaetus weiskei",116,31,1
 "Western Gull",214,32,2
 "Western Sandpiper",223,110,2
 "Western Reef-egret",354,74,2
 "Wedge-tailed Shearwater",359,36,1
 "Westland Petrel",357,25,2
-"westlandica",357,25,2
+"Procellaria westlandica",357,25,2
 "Wedge-rumped Storm-petrel",357,131,1
 "Western Grey Plantain-eater",346,96,1
 "Weka",362,16,2
-"wetmorei",362,35,1
+"Rallus wetmorei",362,35,1
 "Wedge-tailed Green-pigeon",351,18,1
 "Western Crowned-pigeon",347,36,2
 "Wetar Ground-dove",347,94,2
 "Western Bronze-naped Pigeon",348,34,1
 "Key West Quail-dove",349,9,2
 "West Peruvian Dove",349,31,2
-"wellsi",349,58,2
+"Leptotila wellsi",349,58,2
 "Western Grebe",353,25,1
 "Wedge-tailed Sabrewing",326,58,2
 "Western Emerald",326,100,2
@@ -147,18 +147,18 @@ name,fileindex,index,whichChild
 "Western Tragopan",312,119,1
 "West Mexican Chachalaca",310,79,2
 "West Indian Whistling-duck",310,164,2
-"weissingeri",94,112,1
+"Testudo weissingeri",94,112,1
 "West Canary Skink",303,29,2
 "Western Three-toed Skink",303,36,1
 "Wedge-snouted Skink",303,48,1
 "Western Fence Lizard",408,79,1
-"weberi",406,144,2
-"Wetmorena",411,39,2
+"Hydrosaurus weberi",406,144,2
+"Wetmorena haetiana",411,39,2
 "Western Shovel-nosed Snake",337,36,1
-"werneri",340,128,1
+"Aparallactus werneri",340,128,1
 "Western Australian Carpet Python",334,72,1
 "Western Thread Snake",334,128,1
-"weileri",318,11,2
+"Urocotyledon weileri",318,11,2
 "Western Banded Gecko",318,106,1
 "Western Pebble Mouse",266,112,2
 "Western Chestnut Mouse",266,114,1
@@ -174,18 +174,18 @@ name,fileindex,index,whichChild
 "Western Gerbil",268,28,2
 "Web-footed Marsh Rat",293,123,2
 "Wetzel's Climbing Mouse",294,15,2
-"wetzeli",294,15,2
+"Rhipidomys wetzeli",294,15,2
 "Western Heather Vole",283,22,1
 "Western Red-backed Vole",284,39,2
 "Western Tuft-tailed Rat",281,76,1
 "Webb's Tuft-tailed Rat",281,80,2
-"webbi",281,80,2
+"Eliurus webbi",281,80,2
 "Western Big-footed Mouse",281,87,2
 "Western Pocket Gopher",255,96,2
 "Western Gray Squirrel",279,27,2
 "Western Dwarf Squirrel",279,62,2
 "Weber's Dwarf Squirrel",278,106,2
-"weberi",278,106,2
+"Prosciurillus weberi",278,106,2
 "Western Ghats Striped Squirrel",278,211,2
 "Western Palm Squirrel",296,155,2
 "Weeper Capuchin",285,100,2
@@ -193,18 +193,18 @@ name,fileindex,index,whichChild
 "Western Fat-tailed Dwarf Lemur",260,98,2
 "Western False Pipistrelle",389,109,2
 "Western Pipistrelle",389,118,1
-"westralis",390,14,1
+"Pipistrellus westralis",390,14,1
 "Western Yellow Bat",392,30,1
 "Western Small-footed Myotis",404,68,2
 "Welwitch's Bat",403,88,2
-"welwitschii",403,88,2
+"Myotis welwitschii",403,88,2
 "Western Long-tongued Bat",395,30,1
 "Western Nectar Bat",393,108,2
 "Western Naked-backed Fruit Bat",366,160,1
-"wetmorei",387,26,2
+"Megaerops wetmorei",387,26,2
 "Western Tur",372,30,2
 "Weyns' Duiker",372,178,2
-"weynsi",372,178,2
+"Cephalophus weynsi",372,178,2
 "Stripe-backed Weasel",383,11,1
 "Indonesian Mountain Weasel",383,13,2
 "SIBERIAN WEASEL",383,16,1
@@ -222,7 +222,7 @@ name,fileindex,index,whichChild
 "African Striped Weasel",383,72,2
 "Western Spotted Skunk",386,33,2
 "Weddell Seal",381,96,1
-"weddellii",381,96,1
+"Leptonychotes weddellii",381,96,1
 "West African Large-spotted Genet",385,12,2
 "Western Rock Elephant Shrew",323,99,1
 "Western Tree Hyrax",323,122,2
@@ -234,53 +234,53 @@ name,fileindex,index,whichChild
 "Western Barred Bandicoot",109,53,2
 "Western Leopard Toad",57,11,1
 "Western Giant Toad",56,79,1
-"wendyae",59,59,2
-"Werneria",56,178,1
-"Werneria",56,179,2
-"Werneria",56,180,2
-"Werneria",56,182,1
-"Werneria",56,183,2
-"Werneria",56,184,2
+"Nectophrynoides wendyae",59,59,2
+"Werneria mertensiana",56,178,1
+"Werneria preussi",56,179,2
+"Werneria bambutensis",56,180,2
+"Werneria submontana",56,182,1
+"Werneria iboundji",56,183,2
+"Werneria tandyi",56,184,2
 "Western Chorus Frog",40,119,2
-"werneri",48,69,2
-"weygoldti",46,53,1
-"weinlandii",93,88,2
-"wetmorei",75,50,2
-"wettsteini",72,161,1
-"weinlandi",79,65,1
+"Dendropsophus werneri",48,69,2
+"Aplastodiscus weygoldti",46,53,1
+"Gastrotheca weinlandii",93,88,2
+"Eleutherodactylus wetmorei",75,50,2
+"Phrynopus wettsteini",72,161,1
+"Euhyas weinlandi",79,65,1
 "False Western Froglet",24,8,1
 "Small Western Froglet",24,29,2
 "Weigel's Toad",23,152,2
-"weigeli",23,152,2
+"Notaden weigeli",23,152,2
 "Western Spotted Frog",23,184,1
 "Western Marsh Frog",23,185,2
-"webbi",3,59,2
-"weiningensis",13,49,2
-"werneri",4,24,2
-"weberi",92,55,2
+"Gephyromantis webbi",3,59,2
+"Rana weiningensis",13,49,2
+"Phrynobatrachus werneri",4,24,2
+"Platymantis weberi",92,55,2
 "West African Rubber Frog",25,85,1
-"wermuthi",30,32,2
+"Hyperolius wermuthi",30,32,2
 "Weidholz's Banana Frog",34,9,1
-"weidholzi",34,9,1
+"Afrixalus weidholzi",34,9,1
 "Weale's Running Frog",27,33,2
-"wealii",27,33,2
-"weigoldi",1,120,2
+"Semnodactylus wealii",27,33,2
+"Oreolalax weigoldi",1,120,2
 "Western Spadefoot",1,162,2
 "Western Spadefoot",1,171,2
 "Western Dwarf Clawed Frog",322,58,2
 "Magnificent Web-footed Salamander",100,41,1
 "Shadowy Web-footed Salamander",100,81,1
-"werleri",100,106,2
+"Pseudoeurycea werleri",100,106,2
 "West Virginia Spring Salamander",104,60,2
 "Weller's Salamander",98,58,2
-"welleri",98,58,2
+"Plethodon welleri",98,58,2
 "Webster's Salamander",98,61,2
-"websteri",98,61,2
+"Plethodon websteri",98,61,2
 "Wehrle's Salamander",98,97,2
-"wehrlei",98,97,2
+"Plethodon wehrlei",98,97,2
 "Western Slimy Salamander",107,16,1
 "Western Redback Salamander",107,43,1
-"welteri",105,33,1
+"Desmognathus welteri",105,33,1
 "Wenxian Knobby Newt",98,135,2
-"wenxianensis",98,135,2
-"weberi",345,74,2
+"Tylototriton wenxianensis",98,135,2
+"Caudacaecilia weberi",345,74,2

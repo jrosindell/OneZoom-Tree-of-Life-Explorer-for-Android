@@ -1,15 +1,15 @@
 name,fileindex,index,whichChild
-"typica",176,182,2
-"tympanistrigus",174,52,1
+"Nesillas typica",176,182,2
+"Pycnonotus tympanistrigus",174,52,1
 "Tytler's Leaf-warbler",162,112,2
-"tytleri",162,112,2
-"typicus",158,72,2
+"Phylloscopus tytleri",162,112,2
+"Corvus typicus",158,72,2
 "Tylas Vanga",195,50,2
-"Tylas",195,50,2
-"typica",197,54,1
+"Tylas eduardi",195,50,2
+"Coracina typica",197,54,1
 "Tyrannine Woodcreeper",230,178,1
-"tyrannina",230,178,1
-"tyrannina",245,54,1
+"Dendrocincla tyrannina",230,178,1
+"Cercomacra tyrannina",245,54,1
 "Chocolate-vented Tyrant",238,8,1
 "Yellow-browed Tyrant",238,65,2
 "Cinereous Tyrant",235,24,2
@@ -24,22 +24,22 @@ name,fileindex,index,whichChild
 "Streamer-tailed Tyrant",241,43,2
 "Patagonian Tyrant",241,55,2
 "Long-tailed Tyrant",241,56,2
-"tyrannulus",236,48,2
-"Tyrannus",236,87,1
-"Tyrannus",236,88,2
-"Tyrannus",236,89,2
-"Tyrannus",236,90,2
-"Tyrannus",236,92,1
-"Tyrannus",236,93,2
-"Tyrannus",236,95,1
-"Tyrannus",236,96,2
-"Tyrannus",236,97,2
-"tyrannus",236,98,2
-"Tyrannus",236,98,2
-"Tyrannus",236,101,1
-"Tyrannus",236,102,2
-"Tyrannus",236,103,2
-"Tyrannopsis",236,109,1
+"Myiarchus tyrannulus",236,48,2
+"Tyrannus melancholicus",236,87,1
+"Tyrannus savana",236,88,2
+"Tyrannus dominicensis",236,89,2
+"Tyrannus couchii",236,90,2
+"Tyrannus albogularis",236,92,1
+"Tyrannus crassirostris",236,93,2
+"Tyrannus vociferans",236,95,1
+"Tyrannus cubensis",236,96,2
+"Tyrannus caudifasciatus",236,97,2
+"Tyrannus tyrannus",236,98,2
+"Tyrannus tyrannus",236,98,2
+"Tyrannus niveigularis",236,101,1
+"Tyrannus verticalis",236,102,2
+"Tyrannus forficatus",236,103,2
+"Tyrannopsis sulphurea",236,109,1
 "Cattle Tyrant",236,132,2
 "Sooty Tyrannulet",240,13,1
 "Torrent Tyrannulet",240,14,2
@@ -55,7 +55,7 @@ name,fileindex,index,whichChild
 "Mouse-coloured Tyrannulet",235,49,1
 "Tumbesian Tyrannulet",235,50,2
 "Yellow-crowned Tyrannulet",244,51,2
-"Tyrannulus",244,51,2
+"Tyrannulus elatus",244,51,2
 "Rufous-winged Tyrannulet",242,8,1
 "Yungas Tyrannulet",242,9,2
 "Grey-capped Tyrannulet",242,10,2
@@ -115,86 +115,86 @@ name,fileindex,index,whichChild
 "Saffron-crested Tyrant-manakin",249,185,2
 "Wied's Tyrant-manakin",249,186,2
 "Dwarf Tyrant-manakin",249,188,1
-"Tyranneutes",249,188,1
+"Tyranneutes stolzmanni",249,188,1
 "Tiny Tyrant-manakin",249,189,2
-"Tyranneutes",249,189,2
-"tyro",202,92,2
-"Tyto",224,177,1
-"Tyto",224,178,2
-"Tyto",224,179,2
-"Tyto",224,180,2
-"Tyto",224,182,1
-"Tyto",224,183,2
-"Tyto",224,187,1
-"Tyto",224,188,2
-"Tyto",224,189,2
-"Tyto",224,191,1
-"Tyto",224,192,2
-"Tyto",224,194,1
-"Tyto",224,195,2
-"tyrannus",116,53,2
-"typus",115,155,2
-"tympanistria",347,14,2
+"Tyranneutes virescens",249,189,2
+"Dacelo tyro",202,92,2
+"Tyto longimembris",224,177,1
+"Tyto capensis",224,178,2
+"Tyto novaehollandiae",224,179,2
+"Tyto tenebricosa",224,180,2
+"Tyto inexspectata",224,182,1
+"Tyto aurantia",224,183,2
+"Tyto glaucops",224,187,1
+"Tyto alba",224,188,2
+"Tyto manusi",224,189,2
+"Tyto nigrobrunnea",224,191,1
+"Tyto rosenbergii",224,192,2
+"Tyto soumagnei",224,194,1
+"Tyto sororcula",224,195,2
+"Spizaetus tyrannus",116,53,2
+"Polyboroides typus",115,155,2
+"Turtur tympanistria",347,14,2
 "Tyrian Metaltail",332,24,2
-"tyrianthina",332,24,2
-"Tympanuchus",312,72,1
-"Tympanuchus",312,73,2
-"Tympanuchus",312,74,2
-"tytleri",305,111,2
-"tympanum",301,18,2
-"Typhlacontias",303,117,1
-"Typhlacontias",303,118,2
-"Typhlosaurus",298,67,2
-"typica",298,159,2
+"Metallura tyrianthina",332,24,2
+"Tympanuchus phasianellus",312,72,1
+"Tympanuchus cupido",312,73,2
+"Tympanuchus pallidicinctus",312,74,2
+"Mabuya tytleri",305,111,2
+"Eulamprus tympanum",301,18,2
+"Typhlacontias punctatissimus",303,117,1
+"Typhlacontias brevipes",303,118,2
+"Typhlosaurus caecus",298,67,2
+"Cricosaura typica",298,159,2
 "Tyrrhenian Wall Lizard",298,173,1
-"Tympanocryptis",413,21,1
-"Tympanocryptis",413,22,2
-"Tympanocryptis",413,23,2
-"Tympanocryptis",413,24,2
-"typus",338,62,2
-"Typhlops",334,142,2
-"Typhlops",334,149,2
-"Typhlophis",334,154,2
+"Tympanocryptis parviceps",413,21,1
+"Tympanocryptis intima",413,22,2
+"Tympanocryptis lineata",413,23,2
+"Tympanocryptis cephalus",413,24,2
+"Dispholidus typus",338,62,2
+"Typhlops jamaicensis",334,142,2
+"Typhlops pushpakumara",334,149,2
+"Typhlophis squamosus",334,154,2
 "Typical Lemniscomys",274,23,2
 "Typical Vlei Rat",264,11,1
-"typus",264,11,1
-"tytonis",263,129,2
-"typus",289,198,2
-"typicus",287,54,2
-"Tylomys",287,137,1
-"Tylomys",287,138,2
-"Tylomys",287,139,2
-"Tylomys",287,141,1
-"Tylomys",287,142,2
-"Tylomys",287,144,1
-"Tylomys",287,145,2
-"Typhlomys",281,101,2
-"typica",281,213,2
-"tylorhinus",255,37,1
-"typicus",256,145,2
-"Tympanoctomys",254,40,1
-"Tylonycteris",391,51,1
-"Tylonycteris",391,52,2
-"tylopus",389,209,1
-"tytonis",323,78,1
-"typhlops",109,22,2
+"Otomys typus",264,11,1
+"Gerbillurus tytonis",263,129,2
+"Eligmodontia typus",289,198,2
+"Reithrodon typicus",287,54,2
+"Tylomys fulviventer",287,137,1
+"Tylomys tumbalensis",287,138,2
+"Tylomys watsoni",287,139,2
+"Tylomys bullaris",287,141,1
+"Tylomys mirae",287,142,2
+"Tylomys nudicaudus",287,144,1
+"Tylomys panamensis",287,145,2
+"Typhlomys cinereus",281,101,2
+"Malacothrix typica",281,213,2
+"Cratogeomys tylorhinus",255,37,1
+"Petromus typicus",256,145,2
+"Tympanoctomys barrerae",254,40,1
+"Tylonycteris robustula",391,51,1
+"Tylonycteris pachypus",391,52,2
+"Glischropus tylopus",389,209,1
+"Calcochloris tytonis",323,78,1
+"Notoryctes typhlops",109,22,2
 "Tyler's Mouse Opossum",109,209,2
-"tyleriana",109,209,2
-"tyleri",55,25,2
+"Marmosa tyleriana",109,209,2
+"Litoria tyleri",55,25,2
 "Tyler's Toadlet",23,50,1
-"tyleri",23,50,1
-"tytthus",7,65,2
-"tytleri",2,44,2
-"tyleri",28,211,1
+"Uperoleia tyleri",23,50,1
+"Philautus tytthus",7,65,2
+"Hylarana tytleri",2,44,2
+"Copiula tyleri",28,211,1
 "Tyrrhenian Painted Frog",342,6,1
-"tynerensis",104,39,2
-"Tylototriton",98,133,1
-"Tylototriton",98,134,2
-"Tylototriton",98,135,2
-"Tylototriton",98,138,1
-"Tylototriton",98,139,2
-"Tylototriton",98,140,2
-"Tylototriton",98,141,2
-"Typhlonectes",113,88,1
-"Typhlonectes",113,89,2
-"Typhlonectes",113,90,2
+"Eurycea tynerensis",104,39,2
+"Tylototriton taliangensis",98,133,1
+"Tylototriton hainanensis",98,134,2
+"Tylototriton wenxianensis",98,135,2
+"Tylototriton kweichowensis",98,138,1
+"Tylototriton asperrimus",98,139,2
+"Tylototriton verrucosus",98,140,2
+"Tylototriton shanjing",98,141,2
+"Typhlonectes natans",113,88,1
+"Typhlonectes cunhai",113,89,2
+"Typhlonectes compressicauda",113,90,2
