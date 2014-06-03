@@ -115,7 +115,10 @@ public class PositionData implements Comparable<PositionData>{
 	}
 	
 	private float getDistanceToCenter(PositionData pd) {
-		float distanceToCenter =  Math.abs(pd.xvar * 2 - screenXmax - screenXmin) + Math.abs(pd.yvar * 2 - screenYmax - screenYmin);
+		float centerX = pd.xvar + (pd.hxmax + pd.hxmin) * pd.rvar / 2;
+		float centerY = pd.yvar + (pd.hymax + pd.hymin) * pd.rvar / 2;
+		float distanceToCenter =  Math.abs(centerX * 2 - screenXmax - screenXmin) 
+				+ Math.abs(centerY * 2 - screenYmax - screenYmin);
 		if (pd.rvar < 220)
 			distanceToCenter = distanceToCenter / pd.rvar;
 		else 

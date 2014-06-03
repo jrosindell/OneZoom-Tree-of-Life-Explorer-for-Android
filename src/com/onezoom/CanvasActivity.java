@@ -35,21 +35,22 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
 import android.widget.ArrayAdapter;
-import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * This class implements another activity.
+ * This class is the only activity class in the app.
  * 
- * It contains two views, one is tree view and the other is web view and only one of them will be displayed 
- * at one time.
+ * When the activity starts, it implicitly calls onCreate to start two thread, 
+ * which will do initialization of selected tree. 
  * 
- * When the activity starts, it will call OnCreate function to initialize and OnCreateOptionsMenu to inflate 
- * action bar.
+ * It also implicitly calls onCreateOptionsMenu to inflate action bar.
  * 
- * When the activity ends, it will call onDestroy to handle some garbage collection.
+ * The activity contains three views, main tree view for displaying the tree, web view for showing wikipedia
+ * page, arkive pages and other websites in future development and tutorial view for leading users through
+ * tutorial slides.
+ * 
  * 
  * @author kaizhong
  *
@@ -138,8 +139,18 @@ public class CanvasActivity extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		self = this;
+	
 		/**
 		 * Get the tree which was selected by the user.
+		 * 
+		 * First try to get the tree from intent, which is set if the activity is started
+		 * by selecting from the drop down list in action bar.
+		 * 
+		 * If the activity is initially launched, then a null pointer exception will be catched.
+		 * The activity will look to preference to get what tree the user opens last time.
+		 * 
+		 * If the activity is first opened, get preference will return null. Hence, set mammals as
+		 * the tree selected in the first time.
 		 */
 		try {
 			selectedItem = getIntent().getExtras().getString(
@@ -153,15 +164,16 @@ public class CanvasActivity extends Activity{
 				storeCurrentTreeIntoPreference();
 			}
 		}
+		
 		/**
-		 * Create two views.
+		 * Create tree views.
 		 */
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
 		webView = (CustomizeWebView) findViewById(R.id.webview);
 		introductionView = (IntroductionView) findViewById(R.id.introductio_view);
 		/**
-		 * Web view should be activated after user hits on links.
+		 * Only show tree view.
 		 */
 		hideWebView();
 		hideIntroductionView();
@@ -179,7 +191,7 @@ public class CanvasActivity extends Activity{
 
 	/**
 	 * This method calls routines to inflate action bar.
-	 * When tree view is displayed, it has grow menu, search menu and main menu.
+	 * When tree view is displayed, it has grow menu, search menu, setting menu and main menu.
 	 * When web view is displayed, it has only one menu, which is inflated by inflateWebMenu.
 	 * App title and icon are removed.
 	 */
@@ -199,14 +211,15 @@ public class CanvasActivity extends Activity{
 	
 	/**
 	 * Destroy any running thread.
+	 * 
 	 * Hide toast if it is showing or gonna to show.
+	 * 
 	 * BinarySearch class in a singleton class. Destroy it otherwise when user re-select a tree,
 	 * the searchEngine will still be linked to the previous activity.
 	 */
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
-		System.out.println("on destroy again");
 		storeBitmapToFile();
 		if (treeView.getInitBitmap() != null) {
 			treeView.getInitBitmap().recycle();
@@ -225,6 +238,7 @@ public class CanvasActivity extends Activity{
 	 */
 	public void initialization() {
 		initializer.setContext(this);
+		
 		//140 is the height left for action bar.
 		PositionData.setScreenSize(0, 0, screenWidth, screenHeight - 140);
 
@@ -232,12 +246,10 @@ public class CanvasActivity extends Activity{
 		resetTreeRootPosition();
 		treeView.resetDragScaleParameter();
 
-		//Initialize from file index '0'. 
-		//For example, if user select mammals, then initialize from 'mammalsinterior0'
+		//load tree into memory
 		fulltree = MidNode.startLoadingTree();
 		
 		fulltree.recalculateDynamic();
-		//set tree as being initialized so that tree view draws the tree instead of drawing 'loading'
 	}
 
 	
@@ -317,6 +329,7 @@ public class CanvasActivity extends Activity{
 	public boolean onOptionsItemSelected(MenuItem item) {
 		switch (item.getItemId()) {	
 		//Icons on main menu of tree view.
+		//call invalidateOptionsMenu will call onCreateOptionsMenu to redraw action bar.
 		case R.id.search_main_tree:
 			searching = true;
 			invalidateOptionsMenu();
@@ -338,11 +351,6 @@ public class CanvasActivity extends Activity{
 			
 		
 		//tree setting
-		case R.id.common_latin_switch:
-			Visualizer.setUsingCommon(!Visualizer.isUsingCommon());
-			treeView.setRefreshNeeded(true);
-			treeView.invalidate();
-			break;
 		case R.id.setting_close:
 			this.returnToMainMenu();
 			break;
@@ -355,7 +363,7 @@ public class CanvasActivity extends Activity{
 			forwardSearch();
 			break;
 		case R.id.search_close:
-			this.returnToMainMenu();
+			returnToMainMenu();
 			break;
 			
 			
@@ -409,29 +417,45 @@ public class CanvasActivity extends Activity{
 		getMenuInflater().inflate(R.menu.viewmenu, menu);
 	}
 	
+	/**
+	 * Inflate setting menu bar.
+	 * It contains two spinner. One for tree selection and one for Latin, common selection.
+	 * @param menu
+	 */
 	private void inflateTreeSettingMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.setting, menu);
 		Spinner spinner = createSpinnerFromResources(R.id.tree_switch, menu, R.array.trees);
-		createSpinnerForTreeSelect(spinner);
+		setSpinnerListenerForSelectTree(spinner);
 		spinner = createSpinnerFromResources(R.id.common_latin_switch, menu, R.array.latin_common_switch);
-		createSpinnerForLatinCommonSwitch(spinner);
+		setSpinnerListenerForSelectCommonLatin(spinner);
 	}
 	
-	private Spinner createSpinnerFromResources(int id, Menu menu, int arrayID) {
+	/**
+	 * Get spinner view from resources. 
+	 * 
+	 * Set spinner value according to arrayOfString in string resource.
+	 * @param id
+	 * @param menu
+	 * @param arrayOfString
+	 * @return
+	 */
+	private Spinner createSpinnerFromResources(int id, Menu menu, int arrayOfString) {
 		MenuItem menuItem = menu.findItem(id);
 		View menuView = menuItem.getActionView();
 		Spinner spinner = (Spinner) menuView;
 		ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-		        arrayID, android.R.layout.simple_list_item_1);
+		        arrayOfString, android.R.layout.simple_list_item_1);
 		spinner.setAdapter(adapter);
 		spinner.setPopupBackgroundDrawable(new ColorDrawable(Color.WHITE));
 		return spinner;
 	}
 	
 	/**
-	 * set spinner listenner
+	 * set spinner listenner.
+	 * 
+	 * Refresh tree view using Latin or common name according to user selection
 	 */
-	private void createSpinnerForLatinCommonSwitch(Spinner spinner) {
+	private void setSpinnerListenerForSelectCommonLatin(Spinner spinner) {
 		
 		spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
 
@@ -456,9 +480,12 @@ public class CanvasActivity extends Activity{
 	}
 	
 	/**
-	 * Create spinner
+	 * Create spinner listener for tree selection.
+	 * 
+	 * When user select a new tree, destroy current activity and launch a new activity with
+	 * the selected tree stored in intent extra.
 	 */
-	private void createSpinnerForTreeSelect(final Spinner spinner) {
+	private void setSpinnerListenerForSelectTree(final Spinner spinner) {
 		spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
 			@Override
 			public void onItemSelected(AdapterView<?> parent, View view,
@@ -485,7 +512,9 @@ public class CanvasActivity extends Activity{
 	}
 	
 	/**
+	 * Get item position in array. 
 	 * 
+	 * If not found, return 0.
 	 */
 	private int getPositionInArray(String[] array, String item) {
 		for (int i = 0; i < array.length; i++) {

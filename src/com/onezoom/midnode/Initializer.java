@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Locale;
 import java.util.PriorityQueue;
 import java.util.Stack;
@@ -114,6 +115,8 @@ public class Initializer {
 	 */
 	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
+		long start = System.nanoTime();
+
 		this.fileIndex = Integer.parseInt(fileIndex);
 		
 		/**
@@ -134,6 +137,7 @@ public class Initializer {
 		leafHash.clear();
 		
 		try {
+			start = System.nanoTime();
 			//skip the first line.
 			readerInterior.readNext();
 			readerLeaf.readNext();
@@ -141,7 +145,6 @@ public class Initializer {
 			InteriorNode interiorNode;
 			LeafNode leafNode;
 			String[] nextline;
-			
 			//create all interior node in interior file and put them into interior hash table as well as fulltree hash.
 			while ((nextline = readerInterior.readNext()) != null) {
 				interiorNode = new InteriorNode(nextline);
@@ -156,12 +159,14 @@ public class Initializer {
 				leafNode.fileIndex = this.fileIndex;
 				leafHash.put(leafNode.index, leafNode);
 				fulltreeHash.put(Utility.combine(leafNode.fileIndex, leafNode.index), leafNode);
-			}						
+			}				
+			System.out.println("read node in one file -> " + ((System.nanoTime() - start)/1000000));
 			readerInterior.close();
 			readerLeaf.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		
 		
 		//Get the root node in this file and build connection between this node and its parent.
 		MidNode interNode = interiorHash.get(0);
