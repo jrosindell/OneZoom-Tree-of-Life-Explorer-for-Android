@@ -115,7 +115,6 @@ public class Initializer {
 	 */
 	private MidNode createNodesInOneFile(Context canvasActivity,
 			String selectedGroup, String fileIndex, int childIndex, MidNode parentNode) {
-		long start = System.nanoTime();
 
 		this.fileIndex = Integer.parseInt(fileIndex);
 		
@@ -137,7 +136,6 @@ public class Initializer {
 		leafHash.clear();
 		
 		try {
-			start = System.nanoTime();
 			//skip the first line.
 			readerInterior.readNext();
 			readerLeaf.readNext();
@@ -160,7 +158,6 @@ public class Initializer {
 				leafHash.put(leafNode.index, leafNode);
 				fulltreeHash.put(Utility.combine(leafNode.fileIndex, leafNode.index), leafNode);
 			}				
-			System.out.println("read node in one file -> " + ((System.nanoTime() - start)/1000000));
 			readerInterior.close();
 			readerLeaf.close();
 		} catch (IOException e) {

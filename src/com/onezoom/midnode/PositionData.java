@@ -17,6 +17,7 @@ public class PositionData implements Comparable<PositionData>{
 	public static float ws = 1f;
 	public boolean graphref = false;
 	public static int screenXmin, screenXmax, screenYmin, screenYmax;
+	public boolean signpost;
 	
 	public static float getXp() {
 		return xp;

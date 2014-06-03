@@ -56,10 +56,35 @@ public class Visualizer{
 	
 	public void drawTree(Canvas canvas, MidNode midNode) {
 		this.canvas = canvas;
+		attachSignpost(midNode, false);
 		drawElement(midNode);
 		if (drawSignPost) drawSignPost(midNode);
 	}
-	
+
+	private void attachSignpost(MidNode midNode, boolean signpost) {
+		float r = midNode.positionData.rvar;
+		float radius = midNode.positionData.hxmax - midNode.positionData.hxmin;
+		boolean hasName = 
+				(!Utility.equalsNull(midNode.traitsCalculator.getCname()) && isUsingCommon())
+				|| 
+				(!Utility.equalsNull(midNode.traitsCalculator.getName1()) && !isUsingCommon());
+		
+		if (!signpost && hasName
+				&& midNode.getClass() == InteriorNode.class 
+				&& r * radius > 1f * rangeBaseForDrawSignPost
+				&& r * radius < rangeUpperBoundForDrawSignPost) {
+			signpost = true;
+		}
+		midNode.positionData.signpost = signpost;
+		if (!midNode.positionData.dvar) return;
+		if (midNode.child1 != null) {
+			attachSignpost(midNode.child1, signpost);
+		}
+		if (midNode.child2 != null) {
+			attachSignpost(midNode.child2, signpost);
+		}
+	}
+
 	/**
 	 * Call this method to draw a node and its descendants.
 	 * 
@@ -101,7 +126,10 @@ public class Visualizer{
 	private void drawElement(InteriorNode midNode) {
 		drawBranch(midNode);
 		drawCircle(midNode);
-		if (midNode.positionData.rvar >= thresholdDrawTextRoughCircle && midNode.positionData.rvar < thresholdDrawTextDetailCircle)
+		if (midNode.positionData.signpost) return;
+		if (
+				midNode.positionData.rvar >= thresholdDrawTextRoughCircle 
+				&& midNode.positionData.rvar < thresholdDrawTextDetailCircle)
 			drawTextRough(midNode);
 		else if (midNode.positionData.rvar > thresholdDrawTextDetailCircle)
 			drawTextDetail(midNode);
@@ -114,6 +142,7 @@ public class Visualizer{
 	private void drawElement(LeafNode midNode) {
 		drawBranch(midNode);
 		drawLeaf(midNode);
+		if (midNode.positionData.signpost) return;
 		if (midNode.positionData.rvar >= thresholdDrawTextRoughLeaf && midNode.positionData.rvar < thresholdDrawTextDetailLeaf)
 			drawTextRough(midNode);
 		else if (midNode.positionData.rvar > thresholdDrawTextDetailLeaf)
@@ -266,57 +295,22 @@ public class Visualizer{
 	 * @param midNode
 	 */
 	private void drawSignPost(MidNode midNode) {
-		if (midNode.traitsCalculator.getLengthbr() < TraitsData.timelim || midNode.positionData.dvar == false)
-			return;
-		// draw sign posts
-		boolean signdrawn = false;
-		if (midNode.traitsCalculator.getRichness() > 1) {
-			if (midNode.child1 != null && midNode.child2 != null) {
-				float r = midNode.positionData.rvar;
-				float x = midNode.positionData.xvar;
-				float y = midNode.positionData.yvar;
-				float radius = midNode.positionData.hxmax - midNode.positionData.hxmin;
-				if (r * radius > 1f * rangeBaseForDrawSignPost
-						&& r * radius < rangeUpperBoundForDrawSignPost) {
-					/**
-					 * if the ratio of the node is appropriate for drawing signpost
-					 *  and it has a common name, then draw sign post on this node
-					 */
-				
-					if (!Utility.equalsNull(midNode.traitsCalculator.getCname()) && isUsingCommon()) {
-						drawSignPostCircle(r, x, y, midNode);
-						drawSignPostText(r, x, y, midNode);
-						
-						/**
-						 * prevent signpost passing down to its descendants
-						 */
-						signdrawn = true;  
-					} else if (
-							(!Utility.equalsNull(midNode.traitsCalculator.getName1()))
-									&& !isUsingCommon()) {
-						drawSignPostCircle(r, x, y, midNode);
-						drawSignPostText(r, x, y, midNode);
-						
-						/**
-						 * prevent signpost passing down to its descendants
-						 */
-						signdrawn = true; 
-					}
-
-				} else if (r * radius < 1f * rangeBaseForDrawSignPost) {
-					/**
-					 * ratio too samll, prevent signpost passing down.
-					 */
-					signdrawn = true;
-				}
-
-				if (!signdrawn) {
-					/**
-					 * pass sign post drawing to children
-					 */
-					drawSignPost(midNode.child1);
-					drawSignPost(midNode.child2);
-				}
+		if (!midNode.positionData.dvar) return;
+		
+		if (midNode.positionData.signpost) {
+			float r = midNode.positionData.rvar;
+			float x = midNode.positionData.xvar;
+			float y = midNode.positionData.yvar;
+			
+			drawSignPostCircle(r, x, y, midNode);
+			drawSignPostText(r, x, y, midNode); 
+			
+		} else {
+			if (midNode.child1 != null) {
+				drawSignPost(midNode.child1);
+			}
+			if (midNode.child2 != null) {
+				drawSignPost(midNode.child2);
 			}
 		}
 	}
