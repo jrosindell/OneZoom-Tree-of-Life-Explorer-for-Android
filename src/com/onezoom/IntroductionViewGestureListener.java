@@ -19,7 +19,6 @@ public class IntroductionViewGestureListener extends GestureDetector.SimpleOnGes
 		} else if (e1.getX() < e2.getX() && velocityX > 200) {
 			introductionView.tutorialBackward();
 		}
-		introductionView.invalidate();
 		return true;
 	}
 }

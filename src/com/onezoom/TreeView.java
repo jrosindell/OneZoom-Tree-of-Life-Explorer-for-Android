@@ -203,12 +203,6 @@ public class TreeView extends View {
 		paint = new Paint();
 	}
 	
-	@Override
-	public void onWindowFocusChanged(boolean hasWindowFocus) {
-		super.onWindowFocusChanged(hasWindowFocus);
-		this.bitmapForGenerateCache = Bitmap.createBitmap(getWidth(), getHeight(), Bitmap.Config.ARGB_8888);
-	}
-	
 	void resetDragScaleParameter() {
 		xp = PositionData.xp;
 		yp = PositionData.yp;
@@ -372,6 +366,11 @@ public class TreeView extends View {
 		if (v == null) {
 			return null;
 		}
+		
+		if (bitmapForGenerateCache == null) {
+			bitmapForGenerateCache = Bitmap.createBitmap(getWidth(), getHeight(), Bitmap.Config.ARGB_8888);
+		}
+		
 		Canvas c = new Canvas(this.bitmapForGenerateCache);		
 		/**
 		 * This function calls onDraw().

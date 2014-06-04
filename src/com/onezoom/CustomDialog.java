@@ -19,8 +19,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * This is a custom dialog class that will hold a tab view with 2 tabs.
- * Tab 1 will be a list view. Tab 2 will be a list view.
+ * This is a custom dialog class that will hold a tab view with 3 tabs.
+ * The first tab tells user different meanings of colors in the tree.
+ * The second tab tells the authors of the app
+ * The third tab lead user to a tutorial of how to use the app.
  * 
  */
 public class CustomDialog extends Dialog
@@ -79,18 +81,21 @@ public class CustomDialog extends Dialog
         tabs.setup();
 
         // create tab 1
+        // use listview 02
         TabHost.TabSpec tab1 = tabs.newTabSpec("tab1");
         tab1.setContent(R.id.listView02);
         tab1.setIndicator(Information.tabTitle[0]);
         tabs.addTab(tab1);
 
         // create tab 2
+        // use textview01
         TabHost.TabSpec tab2 = tabs.newTabSpec("tab2");
         tab2.setContent(R.id.textView01);
         tab2.setIndicator(Information.tabTitle[1]);
         tabs.addTab(tab2);
         
         // create tab 3
+        // use textview03
         TabHost.TabSpec tab3 = tabs.newTabSpec("tab3");
         tab3.setContent(R.id.textView03);
         tab3.setIndicator(Information.tabTitle[2]);

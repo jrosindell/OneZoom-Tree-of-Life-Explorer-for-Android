@@ -175,8 +175,21 @@ public class CanvasActivity extends Activity{
 		/**
 		 * Only show tree view.
 		 */
+		
+		/**
+		 * If first time open the app, lead user to introduction page.
+		 */
+		boolean firstOpenApp;
+		SharedPreferences prefer = getSharedPreferences("first_time", 0);
+		firstOpenApp = prefer.getBoolean("first_time", true);
+		if (firstOpenApp) {
+			showFirstTimePage();
+			setFirstOpenPreferenceToFalse();
+		} else {
+			hideIntroductionView();
+		}
+
 		hideWebView();
-		hideIntroductionView();
 		
 		searchEngine =  Search.getInstance(this);
 		orientation = getResources().getConfiguration().orientation;
@@ -419,7 +432,7 @@ public class CanvasActivity extends Activity{
 	
 	/**
 	 * Inflate setting menu bar.
-	 * It contains two spinner. One for tree selection and one for Latin, common selection.
+	 * It contains two spinner, one for tree selection and one for Latin, common selection.
 	 * @param menu
 	 */
 	private void inflateTreeSettingMenu(Menu menu) {
@@ -583,7 +596,8 @@ public class CanvasActivity extends Activity{
 	}
 
 	/**
-	 * Set search view the same as previous user input. If it does not exist, set is as hint.
+	 * Set search view the same as previous user input.
+	 * If it does not exist, set "Enter Species Name" as hint.
 	 * @param searchView
 	 */
 	private void setQueryInSearchView(final CustomizeSearchView searchView) {
@@ -783,17 +797,7 @@ public class CanvasActivity extends Activity{
 		}
 	}
 	
-	/**
-	 * Store current tree into preference. 
-	 */
-	private void storeCurrentTreeIntoPreference() {
-		SharedPreferences settings = getSharedPreferences("tree_name", 0);
-		SharedPreferences.Editor editor = settings.edit();
-		editor.putString("tree_name", selectedItem);
-		editor.commit();
-	}
-	
-	
+
 	/**
 	 * Store bitmap into file.
 	 */
@@ -807,12 +811,15 @@ public class CanvasActivity extends Activity{
 				file1 = new File(getExternalFilesDir(null), selectedItem
 						+ "landscape" + ".jpg");
 			}
-
+			
+			//If get init map exists, then there is no need to cache a new bitmap
+			//If tree has not been initialized, then it's not able to cache it.
 			if (treeView.getInitBitmap() != null || !treeView.isTreeBeingInitialized())
 				return;
 			FileOutputStream outputStream;
 			outputStream = new FileOutputStream(file1);
 
+			//set tree to initial position
 			resetTreeRootPosition();
 			this.getTreeRoot().recalculate();
 			treeView.setRefreshNeeded(true);
@@ -833,6 +840,31 @@ public class CanvasActivity extends Activity{
 		} catch (IOException e) {
 		} catch (NullPointerException e) {
 		}
+	}
+	
+	
+	/**
+	 * Store current tree name into preference so it can be used to open the same tree when user
+	 * opens the app next time.
+	 */
+	private void storeCurrentTreeIntoPreference() {
+		SharedPreferences settings = getSharedPreferences("tree_name", 0);
+		SharedPreferences.Editor editor = settings.edit();
+		editor.putString("tree_name", selectedItem);
+		editor.commit();
+	}
+	
+	private void setFirstOpenPreferenceToFalse() {
+		SharedPreferences settings = getSharedPreferences("first_time", 0);
+		SharedPreferences.Editor editor = settings.edit();
+		editor.putBoolean("first_time", false);
+		editor.commit();
+	}
+	
+	private void showFirstTimePage() {
+		treeView.setVisibility(View.GONE);
+		this.introductionView.setVisibility(View.VISIBLE);
+		this.introductionView.showFirstPage();
 	}
 
 	public void showIntroductionSlide() {

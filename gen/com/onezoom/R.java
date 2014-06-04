@@ -26,29 +26,27 @@ public final class R {
     }
     public static final class drawable {
         public static final int back_arrow=0x7f020000;
-        public static final int backnavigation=0x7f020001;
-        public static final int backward=0x7f020002;
-        public static final int cog=0x7f020003;
-        public static final int forward=0x7f020004;
-        public static final int forwardnavigation=0x7f020005;
-        public static final int grow_pause=0x7f020006;
-        public static final int grow_play=0x7f020007;
-        public static final int grow_revert=0x7f020008;
-        public static final int grow_stop=0x7f020009;
-        public static final int growcolor=0x7f02000a;
-        public static final int ic_launcher=0x7f02000b;
-        public static final int main_information=0x7f02000c;
-        public static final int onezoom=0x7f02000d;
-        public static final int reload=0x7f02000e;
-        public static final int reset=0x7f02000f;
-        public static final int searchcolor=0x7f020010;
-        public static final int setting_select=0x7f020011;
-        public static final int tree_common_switch=0x7f020012;
-        public static final int tutorial1=0x7f020013;
-        public static final int tutorial2=0x7f020014;
-        public static final int tutorial3=0x7f020015;
-        public static final int zoomin=0x7f020016;
-        public static final int zoomout=0x7f020017;
+        public static final int backward=0x7f020001;
+        public static final int cog=0x7f020002;
+        public static final int forward=0x7f020003;
+        public static final int grow_pause=0x7f020004;
+        public static final int grow_play=0x7f020005;
+        public static final int grow_revert=0x7f020006;
+        public static final int grow_stop=0x7f020007;
+        public static final int growcolor=0x7f020008;
+        public static final int ic_launcher=0x7f020009;
+        public static final int main_information=0x7f02000a;
+        public static final int onezoom=0x7f02000b;
+        public static final int reset=0x7f02000c;
+        public static final int searchcolor=0x7f02000d;
+        public static final int tutorial1=0x7f02000e;
+        public static final int tutorial100=0x7f02000f;
+        public static final int tutorial2=0x7f020010;
+        public static final int tutorial3=0x7f020011;
+        public static final int tutorial4=0x7f020012;
+        public static final int tutorial5=0x7f020013;
+        public static final int tutorial6=0x7f020014;
+        public static final int tutorial7=0x7f020015;
     }
     public static final class id {
         public static final int TabHost01=0x7f0a0004;

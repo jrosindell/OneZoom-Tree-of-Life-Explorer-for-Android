@@ -1,10 +1,10 @@
 package com.onezoom;
 
 import android.content.Context;
+import android.content.res.Resources;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Paint;
-import android.graphics.Paint.Align;
 import android.util.AttributeSet;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
@@ -12,9 +12,12 @@ import android.widget.ImageView;
 
 public class IntroductionView extends ImageView {
 	private int status = 1;
-	private int total = 3;
+	private int total = 7;
 	public CanvasActivity client;
 	private GestureDetector gestureDetector;
+	private Bitmap nextBitmap;
+	private Bitmap previousBitmap;
+	private Bitmap currentBitmap;
 
 	public IntroductionView(Context context) {
 		super(context);
@@ -43,7 +46,13 @@ public class IntroductionView extends ImageView {
 	}
 	
 	public void startTutorial() {
-		status = 1;
+		status = 0;
+		tutorialForward();
+	}
+	
+
+	public void showFirstPage() {
+		status = 100;
 		invalidate();
 	}
 	
@@ -54,25 +63,85 @@ public class IntroductionView extends ImageView {
 	}
 
 	private void drawStep(Canvas canvas) {
-//		Paint textPaint = new Paint();
-//		textPaint.setColor(Color.BLACK);
-//		textPaint.setTextSize(100);
-//		textPaint.setTextAlign(Align.CENTER);
-//		canvas.drawText(status2 + " out of " + total, this.getWidth()/2, this.getHeight()/2, textPaint);
-		this.setImageDrawable(getResources().getDrawable(
-				getResources().getIdentifier("tutorial" + status, "drawable", client.getPackageName())));
+		if (this.currentBitmap == null) {
+			currentBitmap = decodeSampledBitmapFromResource(getResources(),
+					getResources().getIdentifier("tutorial" + status, "drawable", client.getPackageName()),
+					this.getWidth()/2, this.getHeight()/2);
+		} 
+		this.setImageBitmap(this.currentBitmap);
 	}
 
 	public void tutorialForward() {
-		if (status < total)
+		if (status < total) {
 			this.status++;
-		else 
+			this.previousBitmap = this.currentBitmap;
+			this.currentBitmap = this.nextBitmap;
+			invalidate();
+			if (status < total && this.getHeight() != 0) {
+				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
+						getResources().getIdentifier("tutorial" + (status+1), "drawable", client.getPackageName()),
+						this.getWidth()/2, this.getHeight()/2);
+			} else if (status == total) {
+				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
+						getResources().getIdentifier("tutorial1", "drawable", client.getPackageName()),
+						this.getWidth()/2, this.getHeight()/2);
+			}
+		}
+		else {
 			client.endTutorial();
+		}
 	}
 
 	public void tutorialBackward() {
-		if (status > 1)
+		if (status > 1 && status <= total) {
 			this.status--;
+			this.nextBitmap = this.currentBitmap;
+			this.currentBitmap = this.previousBitmap;
+			invalidate();
+			if (status > 1) {
+				this.previousBitmap = decodeSampledBitmapFromResource(getResources(),
+						getResources().getIdentifier("tutorial" + (status-1), "drawable", client.getPackageName()),
+						this.getWidth()/2, this.getHeight()/2);
+			}
+		}
 	}
+	
+	public static Bitmap decodeSampledBitmapFromResource(Resources res, int resId,
+	        int reqWidth, int reqHeight) {
 
+	    // First decode with inJustDecodeBounds=true to check dimensions
+	    final BitmapFactory.Options options = new BitmapFactory.Options();
+	    options.inJustDecodeBounds = true;
+	    BitmapFactory.decodeResource(res, resId, options);
+
+	    // Calculate inSampleSize
+	    options.inSampleSize = calculateInSampleSize(options, reqWidth, reqHeight);
+
+	    // Decode bitmap with inSampleSize set
+	    options.inJustDecodeBounds = false;
+	    return BitmapFactory.decodeResource(res, resId, options);
+	}
+	
+	public static int calculateInSampleSize(
+			BitmapFactory.Options options, int reqWidth, int reqHeight) {
+	    // Raw height and width of image
+	    final int height = options.outHeight;
+	    final int width = options.outWidth;
+	    int inSampleSize = 1;
+	
+	    if (height > reqHeight || width > reqWidth) {
+	
+	        final int halfHeight = height / 2;
+	        final int halfWidth = width / 2;
+	
+	        // Calculate the largest inSampleSize value that is a power of 2 and keeps both
+	        // height and width larger than the requested height and width.
+	        while ((halfHeight / inSampleSize) > reqHeight
+	                && (halfWidth / inSampleSize) > reqWidth) {
+	            inSampleSize *= 2;
+	        }
+	    }
+	
+	    return inSampleSize;
+	}
 }

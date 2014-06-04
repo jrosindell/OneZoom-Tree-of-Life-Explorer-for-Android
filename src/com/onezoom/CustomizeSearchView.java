@@ -28,7 +28,6 @@ public class CustomizeSearchView extends SearchView{
 	
 	/**
 	 * Search listener in tree view.
-	 * Only changes node in tree view not in web view.
 	 */
 	final SearchView.OnQueryTextListener queryTreeListener = new SearchView.OnQueryTextListener() {	
 		@Override
