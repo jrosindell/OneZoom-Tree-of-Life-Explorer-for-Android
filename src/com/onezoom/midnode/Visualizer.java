@@ -23,7 +23,7 @@ public class Visualizer{
 	private static final float thresholdDrawTextDetailCircle = 300f;
 	private static final float thresholdDrawTextRoughLeaf = 35f;
 	private static final float thresholdDrawTextDetailLeaf = 140f;
-	private static final float rangeBaseForDrawSignPost = 80f;
+	private static final float rangeBaseForDrawSignPost = 65f;
 	private static final float rangeUpperBoundForDrawSignPost = 500f;
 	private static final boolean drawSignPost = true;
 	private static boolean usingCommon = true;
@@ -295,7 +295,8 @@ public class Visualizer{
 	 * @param midNode
 	 */
 	private void drawSignPost(MidNode midNode) {
-		if (!midNode.positionData.dvar) return;
+		if (!midNode.positionData.dvar || midNode.traitsCalculator.getLengthbr() 
+				< TraitsData.timelim) return;
 		
 		if (midNode.positionData.signpost) {
 			float r = midNode.positionData.rvar;
