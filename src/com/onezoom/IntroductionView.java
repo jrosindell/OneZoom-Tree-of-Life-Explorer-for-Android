@@ -19,6 +19,7 @@ public class IntroductionView extends ImageView {
 //	private Bitmap previousBitmap;
 //	private Bitmap currentBitmap;
 	private Bitmap[] bitmapArray;
+	private Bitmap introBitmap;
 
 	public IntroductionView(Context context) {
 		super(context);
@@ -74,41 +75,27 @@ public class IntroductionView extends ImageView {
 		status = 100;
 		invalidate();
 	}
-	
-	@Override
-	protected void onDraw(Canvas canvas) {
-		super.onDraw(canvas);
-		drawStep(canvas);
-	}
 
-	private void drawStep(Canvas canvas) {
-		if (this.bitmapArray[status-1] == null) {
+	private void drawStep() {
+		Bitmap bitmap = null;
+		if (status == 100 && this.introBitmap == null) {
+			this.introBitmap = loadBitmap(status);
+			bitmap = this.introBitmap;
+		} else if (status == 100) {
+			bitmap = this.introBitmap;
+		} else if (this.bitmapArray[status-1] == null) {
 			this.bitmapArray[status-1] = loadBitmap(status);
+			bitmap = this.bitmapArray[status-1];
+		} else {
+			bitmap = this.bitmapArray[status-1];
 		}
-		this.setImageBitmap(this.bitmapArray[status-1]);
-//		if (this.currentBitmap == null) {
-//			currentBitmap = decodeSampledBitmapFromResource(getResources(),
-//					getResources().getIdentifier("tutorial" + status, "drawable", client.getPackageName()),
-//					this.getWidth()/2, this.getHeight()/2);
-//		} 
-//		this.setImageBitmap(this.currentBitmap);
+		this.setImageBitmap(bitmap);
 	}
 
 	public void tutorialForward() {
 		if (status < total) {
 			this.status++;
-//			this.previousBitmap = this.currentBitmap;
-//			this.currentBitmap = this.nextBitmap;
-			invalidate();
-//			if (status < total && this.getHeight() != 0) {
-//				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
-//						getResources().getIdentifier("tutorial" + (status+1), "drawable", client.getPackageName()),
-//						this.getWidth()/2, this.getHeight()/2);
-//			} else if (status == total) {
-//				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
-//						getResources().getIdentifier("tutorial1", "drawable", client.getPackageName()),
-//						this.getWidth()/2, this.getHeight()/2);
-//			}
+			drawStep();
 		}
 		else {
 			client.endTutorial();
@@ -118,18 +105,12 @@ public class IntroductionView extends ImageView {
 	public void tutorialBackward() {
 		if (status > 1 && status <= total) {
 			this.status--;
-//			this.nextBitmap = this.currentBitmap;
-//			this.currentBitmap = this.previousBitmap;
-			invalidate();
-//			if (status > 1) {
-//				this.previousBitmap = decodeSampledBitmapFromResource(getResources(),
-//						getResources().getIdentifier("tutorial" + (status-1), "drawable", client.getPackageName()),
-//						this.getWidth()/2, this.getHeight()/2);
-//			}
+			drawStep();
 		}
 	}
 	
 	private Bitmap loadBitmap(int index) {
+		System.out.println("index -> " + index);
 		if (this.getWidth() == 0) {
 			return DecodeBitmapHelper.decodeSampledBitmapFromResource(getResources(),
 					getResources().getIdentifier("tutorial" + index, "drawable", client.getPackageName()),
