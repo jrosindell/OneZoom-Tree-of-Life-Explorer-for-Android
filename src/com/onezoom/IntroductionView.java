@@ -15,9 +15,10 @@ public class IntroductionView extends ImageView {
 	private int total = 7;
 	public CanvasActivity client;
 	private GestureDetector gestureDetector;
-	private Bitmap nextBitmap;
-	private Bitmap previousBitmap;
-	private Bitmap currentBitmap;
+//	private Bitmap nextBitmap;
+//	private Bitmap previousBitmap;
+//	private Bitmap currentBitmap;
+	private Bitmap[] bitmapArray;
 
 	public IntroductionView(Context context) {
 		super(context);
@@ -37,6 +38,24 @@ public class IntroductionView extends ImageView {
 	private void init(Context context) {
 		client = (CanvasActivity) context;
 		gestureDetector = new GestureDetector(context, new IntroductionViewGestureListener(this));
+		this.bitmapArray = new Bitmap[total];
+		Thread thread = new Thread()
+		{
+		    @Override
+		    public void run() {
+		        loadAllImage();
+		    }
+		};
+
+		thread.start();
+	}
+	
+	private void loadAllImage() {
+		for (int i = 0; i < total; i++) {
+			if (this.bitmapArray[i] == null) {
+				this.bitmapArray[i] = loadBitmap(i+1);
+			}
+		}
 	}
 	
 	@Override
@@ -63,29 +82,33 @@ public class IntroductionView extends ImageView {
 	}
 
 	private void drawStep(Canvas canvas) {
-		if (this.currentBitmap == null) {
-			currentBitmap = decodeSampledBitmapFromResource(getResources(),
-					getResources().getIdentifier("tutorial" + status, "drawable", client.getPackageName()),
-					this.getWidth()/2, this.getHeight()/2);
-		} 
-		this.setImageBitmap(this.currentBitmap);
+		if (this.bitmapArray[status-1] == null) {
+			this.bitmapArray[status-1] = loadBitmap(status);
+		}
+		this.setImageBitmap(this.bitmapArray[status-1]);
+//		if (this.currentBitmap == null) {
+//			currentBitmap = decodeSampledBitmapFromResource(getResources(),
+//					getResources().getIdentifier("tutorial" + status, "drawable", client.getPackageName()),
+//					this.getWidth()/2, this.getHeight()/2);
+//		} 
+//		this.setImageBitmap(this.currentBitmap);
 	}
 
 	public void tutorialForward() {
 		if (status < total) {
 			this.status++;
-			this.previousBitmap = this.currentBitmap;
-			this.currentBitmap = this.nextBitmap;
+//			this.previousBitmap = this.currentBitmap;
+//			this.currentBitmap = this.nextBitmap;
 			invalidate();
-			if (status < total && this.getHeight() != 0) {
-				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
-						getResources().getIdentifier("tutorial" + (status+1), "drawable", client.getPackageName()),
-						this.getWidth()/2, this.getHeight()/2);
-			} else if (status == total) {
-				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
-						getResources().getIdentifier("tutorial1", "drawable", client.getPackageName()),
-						this.getWidth()/2, this.getHeight()/2);
-			}
+//			if (status < total && this.getHeight() != 0) {
+//				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
+//						getResources().getIdentifier("tutorial" + (status+1), "drawable", client.getPackageName()),
+//						this.getWidth()/2, this.getHeight()/2);
+//			} else if (status == total) {
+//				this.nextBitmap = decodeSampledBitmapFromResource(getResources(),
+//						getResources().getIdentifier("tutorial1", "drawable", client.getPackageName()),
+//						this.getWidth()/2, this.getHeight()/2);
+//			}
 		}
 		else {
 			client.endTutorial();
@@ -95,28 +118,42 @@ public class IntroductionView extends ImageView {
 	public void tutorialBackward() {
 		if (status > 1 && status <= total) {
 			this.status--;
-			this.nextBitmap = this.currentBitmap;
-			this.currentBitmap = this.previousBitmap;
+//			this.nextBitmap = this.currentBitmap;
+//			this.currentBitmap = this.previousBitmap;
 			invalidate();
-			if (status > 1) {
-				this.previousBitmap = decodeSampledBitmapFromResource(getResources(),
-						getResources().getIdentifier("tutorial" + (status-1), "drawable", client.getPackageName()),
-						this.getWidth()/2, this.getHeight()/2);
-			}
+//			if (status > 1) {
+//				this.previousBitmap = decodeSampledBitmapFromResource(getResources(),
+//						getResources().getIdentifier("tutorial" + (status-1), "drawable", client.getPackageName()),
+//						this.getWidth()/2, this.getHeight()/2);
+//			}
 		}
 	}
 	
+	private Bitmap loadBitmap(int index) {
+		if (this.getWidth() == 0) {
+			return DecodeBitmapHelper.decodeSampledBitmapFromResource(getResources(),
+					getResources().getIdentifier("tutorial" + index, "drawable", client.getPackageName()),
+					this.client.getScreenWidth()/2, this.client.getScreenHeight()/2);
+		} else {
+			return DecodeBitmapHelper.decodeSampledBitmapFromResource(getResources(),
+					getResources().getIdentifier("tutorial" + index, "drawable", client.getPackageName()),
+					this.getWidth()/2, this.getHeight()/2);
+		}
+	}
+}
+
+class DecodeBitmapHelper {
 	public static Bitmap decodeSampledBitmapFromResource(Resources res, int resId,
 	        int reqWidth, int reqHeight) {
-
+	
 	    // First decode with inJustDecodeBounds=true to check dimensions
 	    final BitmapFactory.Options options = new BitmapFactory.Options();
 	    options.inJustDecodeBounds = true;
 	    BitmapFactory.decodeResource(res, resId, options);
-
+	
 	    // Calculate inSampleSize
 	    options.inSampleSize = calculateInSampleSize(options, reqWidth, reqHeight);
-
+	
 	    // Decode bitmap with inSampleSize set
 	    options.inJustDecodeBounds = false;
 	    return BitmapFactory.decodeResource(res, resId, options);

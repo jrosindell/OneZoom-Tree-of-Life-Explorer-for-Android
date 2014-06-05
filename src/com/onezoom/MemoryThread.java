@@ -185,6 +185,8 @@ class MemoryHandler extends Handler {
 				client.getInitializer().idleTimeInitialization();
 				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
+				else
+					System.out.println("idle finish -> " + ((System.nanoTime() - client.start)/1000000));
 			}
 			break;
 		case MemoryThread.MSG_SEARCH:

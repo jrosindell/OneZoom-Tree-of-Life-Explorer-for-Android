@@ -77,7 +77,8 @@ public class CanvasActivity extends Activity{
 	private Initializer initializer;
 	private CanvasActivity self;
 	private boolean firstTimeOpenTreeSelect = true;
-
+	public long start;
+	
 	public Initializer getInitializer() {
 		return initializer;
 	}
@@ -139,7 +140,7 @@ public class CanvasActivity extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		self = this;
-	
+		start = System.nanoTime();
 		/**
 		 * Get the tree which was selected by the user.
 		 * 
@@ -165,6 +166,8 @@ public class CanvasActivity extends Activity{
 			}
 		}
 		
+		getDeviceScreenSize();
+
 		/**
 		 * Create tree views.
 		 */
@@ -199,7 +202,6 @@ public class CanvasActivity extends Activity{
 		growthThread = new GrowthThread(this);
 		memoryThread.start();  //memory thread will load the tree into memory when it starts.
 		growthThread.start();
-		getDeviceScreenSize();
 	}
 
 	/**
