@@ -77,7 +77,6 @@ public class CanvasActivity extends Activity{
 	private Initializer initializer;
 	private CanvasActivity self;
 	private boolean firstTimeOpenTreeSelect = true;
-	public long start;
 	
 	public Initializer getInitializer() {
 		return initializer;
@@ -140,7 +139,6 @@ public class CanvasActivity extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		self = this;
-		start = System.nanoTime();
 		/**
 		 * Get the tree which was selected by the user.
 		 * 

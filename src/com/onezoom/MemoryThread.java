@@ -181,12 +181,9 @@ class MemoryHandler extends Handler {
 		 */
 		case MemoryThread.MSG_IDLECALCULATION:
 			if (!this.HasMessages() && !client.treeView.isDuringInteraction()) {
-				long start = System.nanoTime();
 				client.getInitializer().idleTimeInitialization();
 				if (client.getInitializer().stackOfNodeHasNonInitChildren.size() > 0)
 					this.sendEmptyMessage(MemoryThread.MSG_IDLECALCULATION);
-				else
-					System.out.println("idle finish -> " + ((System.nanoTime() - client.start)/1000000));
 			}
 			break;
 		case MemoryThread.MSG_SEARCH:

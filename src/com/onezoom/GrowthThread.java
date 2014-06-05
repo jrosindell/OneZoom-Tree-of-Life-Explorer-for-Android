@@ -43,7 +43,6 @@ class GrowthThread extends Thread {
 		map.put("Birds", 113);
 		map.put("Tetrapods", 390);
 		map.put("Amphibians", 370);
-		map.put("Turtles", 210);
 	}
 	
 	/**

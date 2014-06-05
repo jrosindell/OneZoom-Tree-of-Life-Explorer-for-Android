@@ -44,6 +44,11 @@ public class IntroductionView extends ImageView {
 		return true;
 	}
 	
+	/**
+	 * Tutorial start.
+	 * Create a work thread to load all images into memory
+	 * status set to 0 and then call tutorialForward to display tutorial1 in drawable folder.
+	 */
 	public void startTutorial() {
 		status = 0;
 		Thread thread = new Thread() {
@@ -55,19 +60,41 @@ public class IntroductionView extends ImageView {
 		tutorialForward();
 	}
 	
-
+	/**
+	 * Load bitmap into memory
+	 */
 	protected void LoadAllTutorial() {
 		for (int i = 0; i < total; i++) {
 			if (this.bitmapArray[i] == null) 
 				this.bitmapArray[i] = loadBitmap(i+1);
 		}
 	}
-
-	public void showFirstPage() {
-		status = 100;
-		invalidate();
+	
+	/**
+	 * Recycle bitmaps to free space.
+	 */
+	private void destroyBitmap() {
+		for (int i = 0; i < total; i++) {
+			this.bitmapArray[i].recycle();
+			this.bitmapArray[i] = null;
+		}
 	}
 
+	/**
+	 * Introduction page of the app has filename tutorial100, so set status as 100.
+	 */
+	public void showFirstPage() {
+		status = 100;
+		drawStep();
+	}
+
+	/**
+	 * Draw tutorial according to status.
+	 * If the bitmap has not been loaded yet, it load into memory first.
+	 *
+	 * tutorial1-tutorial7 will be cached into bitmap array.
+	 * tutorial100 will be store by introBitmap variable.
+	 */
 	private void drawStep() {
 		Bitmap bitmap = null;
 		if (status == 100 && this.introBitmap == null) {
@@ -84,24 +111,27 @@ public class IntroductionView extends ImageView {
 		this.setImageBitmap(bitmap);
 	}
 
+	/**
+	 * Load next tutorial page.
+	 * If status equals total, then quit tutorial slide show.
+	 */
 	public void tutorialForward() {
 		if (status < total) {
 			this.status++;
 			drawStep();
 		}
-		else {
+		else if (status == total) {
 			this.destroyBitmap();
+			client.endTutorial();
+		} else {
 			client.endTutorial();
 		}
 	}
 
-	private void destroyBitmap() {
-		for (int i = 0; i < total; i++) {
-			this.bitmapArray[i].recycle();
-			this.bitmapArray[i] = null;
-		}
-	}
-
+	/**
+	 * Load previous tutorial page.
+	 * If status equals the first page, then do nothing.
+	 */
 	public void tutorialBackward() {
 		if (status > 1 && status <= total) {
 			this.status--;
@@ -109,6 +139,12 @@ public class IntroductionView extends ImageView {
 		}
 	}
 	
+	/**
+	 * Load bitmap from drawable folder.
+	 * If can't get view width, then use the width passed from client.
+	 * @param index
+	 * @return
+	 */
 	private Bitmap loadBitmap(int index) {
 		System.out.println("index -> " + index);
 		if (this.getWidth() == 0) {
@@ -140,7 +176,7 @@ class DecodeBitmapHelper {
 	    return BitmapFactory.decodeResource(res, resId, options);
 	}
 	
-	public static int calculateInSampleSize(
+	private static int calculateInSampleSize(
 			BitmapFactory.Options options, int reqWidth, int reqHeight) {
 	    // Raw height and width of image
 	    final int height = options.outHeight;
