@@ -25,17 +25,9 @@
             android:id="@+id/textView01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
-
-        <ListView
-            android:id="@+id/listView02"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:divider="@null"
-            android:scrollbars="vertical"
-            android:scrollbarFadeDuration="1000000"/>
         
         <com.fscz.util.TextViewEx
-            android:id="@+id/textView03"
+            android:id="@+id/textView02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
         

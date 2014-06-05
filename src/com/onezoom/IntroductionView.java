@@ -4,7 +4,6 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Canvas;
 import android.util.AttributeSet;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
@@ -15,9 +14,6 @@ public class IntroductionView extends ImageView {
 	private int total = 7;
 	public CanvasActivity client;
 	private GestureDetector gestureDetector;
-//	private Bitmap nextBitmap;
-//	private Bitmap previousBitmap;
-//	private Bitmap currentBitmap;
 	private Bitmap[] bitmapArray;
 	private Bitmap introBitmap;
 
@@ -40,23 +36,6 @@ public class IntroductionView extends ImageView {
 		client = (CanvasActivity) context;
 		gestureDetector = new GestureDetector(context, new IntroductionViewGestureListener(this));
 		this.bitmapArray = new Bitmap[total];
-		Thread thread = new Thread()
-		{
-		    @Override
-		    public void run() {
-		        loadAllImage();
-		    }
-		};
-
-		thread.start();
-	}
-	
-	private void loadAllImage() {
-		for (int i = 0; i < total; i++) {
-			if (this.bitmapArray[i] == null) {
-				this.bitmapArray[i] = loadBitmap(i+1);
-			}
-		}
 	}
 	
 	@Override
@@ -67,9 +46,22 @@ public class IntroductionView extends ImageView {
 	
 	public void startTutorial() {
 		status = 0;
+		Thread thread = new Thread() {
+			public void run() {
+				LoadAllTutorial();
+			}
+		};
+		thread.start();
 		tutorialForward();
 	}
 	
+
+	protected void LoadAllTutorial() {
+		for (int i = 0; i < total; i++) {
+			if (this.bitmapArray[i] == null) 
+				this.bitmapArray[i] = loadBitmap(i+1);
+		}
+	}
 
 	public void showFirstPage() {
 		status = 100;
@@ -98,7 +90,15 @@ public class IntroductionView extends ImageView {
 			drawStep();
 		}
 		else {
+			this.destroyBitmap();
 			client.endTutorial();
+		}
+	}
+
+	private void destroyBitmap() {
+		for (int i = 0; i < total; i++) {
+			this.bitmapArray[i].recycle();
+			this.bitmapArray[i] = null;
 		}
 	}
 

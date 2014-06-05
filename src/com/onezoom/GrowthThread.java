@@ -72,14 +72,17 @@ class GrowthThread extends Thread {
 		});
 	}
 	
+	/**
+	 * Only reset the time line when state is in STATE_STOP or STATE_REVERT.
+	 * When state is STATE_PLAY, revert play with the current time line instead of reset it.
+	 * When state is STATE_STOP, the time line is already -1, so it doesn't need to be reset.
+	 */
 	public void Revert() {
 		if (state == STATE_STOP || state == STATE_REVERT) {
 			TraitsData.timelim = -1;
 		}
 		state = STATE_REVERT;
 		treeAge = map.get(client.selectedItem);
-		handler.removeMessages(MSG_PLAY);
-		handler.removeMessages(MSG_REVERT);
 		handler.sendEmptyMessage(MSG_START_REVERT);
 	}
 	
@@ -89,8 +92,8 @@ class GrowthThread extends Thread {
 	}
 	
 	/**
-	 * If growth animation is paused, then restart without changing time line. 
-	 * Otherwise set time line to the start of selected group.
+	 * Reset time line to the origin of the tree selected. 
+	 * If state is STATE_REVERT, start play directly from the current time line.
 	 */
 	public void Play() {
 		if (state == STATE_INIT || state == STATE_STOP || state == STATE_PLAY) {
@@ -98,8 +101,6 @@ class GrowthThread extends Thread {
 			TraitsData.timelim = treeAge;
 		}
 		state = STATE_PLAY;
-		handler.removeMessages(MSG_REVERT);
-		handler.removeMessages(MSG_PLAY);
 		handler.sendEmptyMessage(MSG_START_PLAY);
 	}
 	
@@ -131,14 +132,15 @@ class growthHandler extends Handler {
 		 * call MSG_REVERT until the age exceeds the age of the tree.
 		 */
 		case GrowthThread.MSG_START_REVERT:
+			removeMessages(GrowthThread.MSG_PLAY);
+			removeMessages(GrowthThread.MSG_REVERT);
 			client.resetTree();
 			client.treeView.setDuringGrowthAnimation(true);
 			this.sendEmptyMessage(GrowthThread.MSG_REVERT);
 			break;			
 		case GrowthThread.MSG_REVERT:
 			TraitsData.timelim += 0.65;
-			//after tree view draw tree, it will set during interaction as true.
-			//reset this variable so that the tree view will draw tree
+			//set refresh needed to refresh view by drawing the tree instead of using previous cached bitmap
 			client.treeView.setRefreshNeeded(true);
 			client.treeView.postInvalidate();
 			if (TraitsData.timelim < GrowthThread.treeAge)
@@ -160,14 +162,15 @@ class growthHandler extends Handler {
 		 * call MSG_PLAY until the age become negative which means the tree has been grown fully.
 		 */
 		case GrowthThread.MSG_START_PLAY:
+			removeMessages(GrowthThread.MSG_REVERT);
+			removeMessages(GrowthThread.MSG_PLAY);
 			client.resetTree();
 			client.treeView.setDuringGrowthAnimation(true);
 			this.sendEmptyMessage(GrowthThread.MSG_PLAY);
 			break;
 		case GrowthThread.MSG_PLAY:
 			TraitsData.timelim -= 0.65;
-			//after tree view draw tree, it will set during interaction as true.
-			//reset this variable so that the tree view will draw tree
+			//set refresh needed to refresh view by drawing the tree instead of using previous cached bitmap
 			client.treeView.setRefreshNeeded(true);
 			client.treeView.postInvalidate();
 			if (TraitsData.timelim > 0)

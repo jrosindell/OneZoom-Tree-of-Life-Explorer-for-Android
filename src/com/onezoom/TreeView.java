@@ -310,17 +310,21 @@ public class TreeView extends View {
 	private void drawElementAndCache(Canvas canvas) {	
 		if (toggle) {
 			toggle = !toggle;
-			if (this.cachedBitmap != this.bitmapForGenerateCache) {
-				this.drawUsingCachedBitmap(canvas, cachedBitmap);
-			} else {
-				drawUsingCachedBitmapWithoutScale(canvas, cachedBitmap);
-			}
 			/**
 			 * The tree is going to be redrawn using real data
 			 * and a new bitmap will be cached, therefore, the scale variables should be reset.
 			 * 
 			 */
 			cachedBitmap = loadBitmapFromView(this);
+			
+			if (this.cachedBitmap != this.bitmapForGenerateCache) {
+				System.out.println("draw with scale");
+				this.drawUsingCachedBitmap(canvas, cachedBitmap);
+			} else {
+				System.out.println("draw without scale");
+				drawUsingCachedBitmapWithoutScale(canvas, cachedBitmap);
+			}
+			
 			refreshNeeded = false;
 			invalidate();		
 		} else {

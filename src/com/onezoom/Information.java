@@ -1,10 +1,8 @@
 package com.onezoom;
 
-import android.graphics.Color;
 
 public class Information {
 	public static final String [] tabTitle = {
-		"COLOUR KEY",
 		"AUTHOR",
 		"HOW TO USE"
 	};
@@ -25,46 +23,7 @@ public class Information {
 			+ "                                                                    " 
 			+ "                                                                     " ;
 	
-//	public static final String guide = "Each leaf of the tree represents a species, the branches of the tree show how these species are connected to common ancestors over millions of years of evolution.  Use two fingers to pan and zoom around the tree, there is much more to it than meets the eye: zooming into your areas of interest will reveal over 22,000 species and their evolutionary connections.  Use the white circular signposts to help you navigate to the areas that interest you.  \n" + 
-//			"\n" + 
-//			"If you zoom into any leaf of the tree, you will see the common name, scientific name and conservation status of that species.  There are also buttons on the leaves, which are links to external resources.  If you press these buttons you will be redirected to further information about the relevant species, but note you need live Internet access to use this feature.  You can return to the tree view from a page of further information by pressing the tree button.  \n" + 
-//			"\n" + 
-//			"The colours of the tree correspond to IUCN Red List conservation statuses for each species – see the colour key tab for further details.  Interior nodes of the tree show dates of common ancestry between different groups, each of these nodes reports the number of descendent species, the date of the most recent common ancestor between them and (if applicable) the name that applies to that group of species.\n" + 
-//			"\n" + 
-//			"Pressing the back button will return you to the list of trees available for visualisation.\n" + 
-//			"\n" + 
-//			"Pressing the reload page button will reset your view of the tree of life back to the default with the complete tree filling the centre of the screen.\n" + 
-//			"\n" + 
-//			"Pressing the animation button will reveal further options for watching an animation of the tree growing with hundreds of millions of years of evolution being reduced to 1 minute.  You can use the play, pause, stop and reverse buttons to control the animation.  During the animation you can continue to explore the tree in the usual way by zooming and panning as before.  The back button returns you to the main menu, hiding all the animation control buttons.\n" + 
-//			"\n" + 
-//			"Pressing the search button will reveal further options for searching for a species of particular interest.  You can type in any scientific or common name to the search field using your on screen keyboard.  The left and right arrow buttons then enable you to move through the list of search hits in the tree.  The back button again returns you to the main menu, hiding the search control buttons.\n" + 
-//			"\n" + 
-//			"To explore OneZoom using the mouse on your desktop or laptop, please use the website www.onezoom.org.\n"
-//			+"\n";
 	
-	public static final int [] Colors = {
-		Color.argb(255, 0, 180, 20),  //LC
-		Color.argb(255, 65, 120, 0),  //NT
-		Color.argb(255, 85, 85, 30),  //VU  
-		Color.argb(255, 125, 50, 0),  //EN
-		Color.argb(255, 210, 0, 10),  //CR
-		Color.argb(255, 60, 50, 135), //EW
-		Color.argb(255, 0, 0, 180),   //EX
-		Color.argb(255, 80, 80, 80),  //DD
-		Color.argb(255, 0, 0, 0)      //NE
-		};
-	
-	public static final String [] meanning = {
-		"Least Concern",
-		"Near Threatened",
-		"Vulnerable",
-		"Endangered",
-		"Critically Endangered",
-		"Extinct in the Wild",
-		"Extinct",
-		"Data Deficient",
-		"Not Evaluated"
-	};
 	
 	public static final String authorAndCredit = "Kai Zhong developed this app from earlier OneZoom Software under the supervision of James Rosindell and Duncan Gillies.\n" + 
 			"\n" + 

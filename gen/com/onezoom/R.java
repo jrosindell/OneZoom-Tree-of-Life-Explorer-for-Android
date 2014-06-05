@@ -50,45 +50,40 @@ public final class R {
     }
     public static final class id {
         public static final int TabHost01=0x7f0a0004;
-        public static final int action_settings=0x7f0a0010;
-        public static final int common_latin_switch=0x7f0a0016;
-        public static final int grow=0x7f0a0019;
-        public static final int grow_close=0x7f0a000f;
-        public static final int grow_pause=0x7f0a000c;
-        public static final int grow_play=0x7f0a000d;
-        public static final int grow_reverse=0x7f0a000b;
-        public static final int grow_stop=0x7f0a000e;
-        public static final int information=0x7f0a001c;
+        public static final int action_settings=0x7f0a000c;
+        public static final int common_latin_switch=0x7f0a0012;
+        public static final int grow=0x7f0a0015;
+        public static final int grow_close=0x7f0a000b;
+        public static final int grow_pause=0x7f0a0008;
+        public static final int grow_play=0x7f0a0009;
+        public static final int grow_reverse=0x7f0a0007;
+        public static final int grow_stop=0x7f0a000a;
+        public static final int information=0x7f0a0018;
         public static final int introductio_view=0x7f0a0003;
-        public static final int listView02=0x7f0a0006;
-        public static final int list_view_02_row_table_layout=0x7f0a0008;
-        public static final int list_view_02_row_table_row=0x7f0a0009;
-        public static final int list_view_02_row_text_view=0x7f0a000a;
         public static final int listview=0x7f0a0000;
-        public static final int reload_page=0x7f0a001e;
-        public static final int reset=0x7f0a001b;
-        public static final int search_backward_tree=0x7f0a0012;
-        public static final int search_backward_web=0x7f0a001f;
-        public static final int search_close=0x7f0a0014;
-        public static final int search_forward_tree=0x7f0a0013;
-        public static final int search_forward_web=0x7f0a0020;
-        public static final int search_main_tree=0x7f0a0018;
-        public static final int search_tree=0x7f0a0011;
-        public static final int search_web=0x7f0a001d;
-        public static final int setting_close=0x7f0a0017;
+        public static final int reload_page=0x7f0a001a;
+        public static final int reset=0x7f0a0017;
+        public static final int search_backward_tree=0x7f0a000e;
+        public static final int search_backward_web=0x7f0a001b;
+        public static final int search_close=0x7f0a0010;
+        public static final int search_forward_tree=0x7f0a000f;
+        public static final int search_forward_web=0x7f0a001c;
+        public static final int search_main_tree=0x7f0a0014;
+        public static final int search_tree=0x7f0a000d;
+        public static final int search_web=0x7f0a0019;
+        public static final int setting_close=0x7f0a0013;
         public static final int textView01=0x7f0a0005;
-        public static final int textView03=0x7f0a0007;
-        public static final int tree_setting=0x7f0a001a;
-        public static final int tree_switch=0x7f0a0015;
+        public static final int textView02=0x7f0a0006;
+        public static final int tree_setting=0x7f0a0016;
+        public static final int tree_switch=0x7f0a0011;
         public static final int tree_view=0x7f0a0001;
-        public static final int web_back_to_tree=0x7f0a0021;
+        public static final int web_back_to_tree=0x7f0a001d;
         public static final int webview=0x7f0a0002;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int canvas_activity=0x7f030001;
         public static final int custom_dialog_layout=0x7f030002;
-        public static final int list_view_02_row=0x7f030003;
     }
     public static final class menu {
         public static final int grow=0x7f090000;
