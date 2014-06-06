@@ -872,6 +872,12 @@ public class CanvasActivity extends Activity{
 		this.introductionView.setVisibility(View.VISIBLE);
 		this.introductionView.startTutorial();
 	}
+	
+	public void showColorMeaningSlide() {
+		treeView.setVisibility(View.GONE);
+		this.introductionView.setVisibility(View.VISIBLE);
+		this.introductionView.showColorMeaning();
+	}
 
 	public void endTutorial() {
 		this.introductionView.setVisibility(View.GONE);

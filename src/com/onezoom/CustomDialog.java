@@ -48,15 +48,19 @@ public class CustomDialog extends Dialog
         // instantiate our list views for each tab
         TextViewEx textView01 = (TextViewEx)findViewById(R.id.textView01);
         TextViewEx textView02 = (TextViewEx)findViewById(R.id.textView02);
+        TextViewEx textView03 = (TextViewEx)findViewById(R.id.textView03);
 
         //set text for tab1 and enable scrolling
         textView01.setText(Information.authorAndCredit, true);
         textView01.setMovementMethod(new ScrollingMovementMethod());
 
+        //set text for tab2 and enable scrolling
+        textView02.setText(Information.colorMeaning, true);
+        textView02.setMovementMethod(new ScrollingMovementMethod());
         
         //set text for tab2 and enable scrolling
-        textView02.setText(Information.guide, true);
-        textView02.setMovementMethod(new ScrollingMovementMethod());
+        textView03.setText(Information.guide, true);
+        textView03.setMovementMethod(new ScrollingMovementMethod());
         
         // get our tabHost from the xml
         TabHost tabs = (TabHost)findViewById(R.id.TabHost01);
@@ -70,22 +74,32 @@ public class CustomDialog extends Dialog
         tab1.setIndicator(Information.tabTitle[0]);
         tabs.addTab(tab1);
         
-        // create tab 2
+        // create tab 2, color key meaning
         // use textview03
         TabHost.TabSpec tab2 = tabs.newTabSpec("tab2");
         tab2.setContent(R.id.textView02);
         tab2.setIndicator(Information.tabTitle[1]);
         tabs.addTab(tab2);
+  
+        
+     // create tab 2, how to use tab
+        // use textview03
+        TabHost.TabSpec tab3 = tabs.newTabSpec("tab3");
+        tab3.setContent(R.id.textView03);
+        tab3.setIndicator(Information.tabTitle[2]);
+        tabs.addTab(tab3);
         
         tabs.setOnTabChangedListener(new OnTabChangeListener() {
 			@Override
 			public void onTabChanged(String tabId) {
-				if (tabId.equals("tab2")) {
+				if (tabId.equals("tab3")) {
 					context.showIntroductionSlide();
+					self.cancel();
+				} else if (tabId.equals("tab2")) {
+					context.showColorMeaningSlide();
 					self.cancel();
 				}
 			}
-        	
         });
     }
 }

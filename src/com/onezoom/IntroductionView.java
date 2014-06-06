@@ -4,6 +4,8 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Color;
 import android.util.AttributeSet;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
@@ -11,11 +13,10 @@ import android.widget.ImageView;
 
 public class IntroductionView extends ImageView {
 	private int status = 1;
-	private int total = 7;
+	private int total = 6;
 	public CanvasActivity client;
 	private GestureDetector gestureDetector;
 	private Bitmap[] bitmapArray;
-	private Bitmap introBitmap;
 
 	public IntroductionView(Context context) {
 		super(context);
@@ -61,10 +62,32 @@ public class IntroductionView extends ImageView {
 	}
 	
 	/**
+	 * Introduction page of the app has filename tutorial100, so set status as 100.
+	 */
+	public void showFirstPage() {
+		status = 100;
+		drawStep();
+	}
+	
+	/**
+	 * show color meaning slide has filename tutorial 99, so set status as 99.
+	 */
+	public void showColorMeaning() {
+		status = 99;
+		drawStep();
+	}
+	
+	@Override
+	protected void onDraw(Canvas canvas) {
+		canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
+		super.onDraw(canvas);
+	}
+
+	/**
 	 * Load bitmap into memory
 	 */
 	protected void LoadAllTutorial() {
-		for (int i = 0; i < total; i++) {
+		for (int i = 1; i < total; i++) {
 			if (this.bitmapArray[i] == null) 
 				this.bitmapArray[i] = loadBitmap(i+1);
 		}
@@ -81,27 +104,16 @@ public class IntroductionView extends ImageView {
 	}
 
 	/**
-	 * Introduction page of the app has filename tutorial100, so set status as 100.
-	 */
-	public void showFirstPage() {
-		status = 100;
-		drawStep();
-	}
-
-	/**
 	 * Draw tutorial according to status.
 	 * If the bitmap has not been loaded yet, it load into memory first.
 	 *
 	 * tutorial1-tutorial7 will be cached into bitmap array.
-	 * tutorial100 will be store by introBitmap variable.
+	 * tutorial of open page and color meaning will be store by introBitmap variable.
 	 */
 	private void drawStep() {
 		Bitmap bitmap = null;
-		if (status == 100 && this.introBitmap == null) {
-			this.introBitmap = loadBitmap(status);
-			bitmap = this.introBitmap;
-		} else if (status == 100) {
-			bitmap = this.introBitmap;
+		if (status > total) {
+			bitmap = loadBitmap(status);
 		} else if (this.bitmapArray[status-1] == null) {
 			this.bitmapArray[status-1] = loadBitmap(status);
 			bitmap = this.bitmapArray[status-1];
@@ -109,6 +121,7 @@ public class IntroductionView extends ImageView {
 			bitmap = this.bitmapArray[status-1];
 		}
 		this.setImageBitmap(bitmap);
+		this.invalidate();
 	}
 
 	/**
@@ -146,7 +159,6 @@ public class IntroductionView extends ImageView {
 	 * @return
 	 */
 	private Bitmap loadBitmap(int index) {
-		System.out.println("index -> " + index);
 		if (this.getWidth() == 0) {
 			return DecodeBitmapHelper.decodeSampledBitmapFromResource(getResources(),
 					getResources().getIdentifier("tutorial" + index, "drawable", client.getPackageName()),

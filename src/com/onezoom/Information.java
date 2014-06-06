@@ -4,8 +4,25 @@ package com.onezoom;
 public class Information {
 	public static final String [] tabTitle = {
 		"AUTHOR",
+		"Color Meaning",
 		"HOW TO USE"
 	};
+	
+	public static final String colorMeaning = "                                            "
+			+ "                                   " 
+			+ "                                   " 
+			+ "                                                                     " 
+			+ "                                                                    " 
+			+ "                                                                     "
+			+ "                                                                     " 
+			+ "                                                                    " 
+			+ "                                                                     " 
+			+ "                                                                     " 
+			+ "                                                                    " 
+			+ "                                                                     " 
+			+ "                                                                     " 
+			+ "                                                                    " 
+			+ "                                                                     " ;
 	
 	public static final String guide = "                                            "
 			+ "                                   " 
@@ -25,13 +42,9 @@ public class Information {
 	
 	
 	
-	public static final String authorAndCredit = "Kai Zhong developed this app from earlier OneZoom Software under the supervision of James Rosindell and Duncan Gillies.\n" + 
+	public static final String authorAndCredit ="James Rosindell created the OneZoom concept, website and algorithms.  Kai Zhong and James Rosindell developed this android app from the original OneZoom software.  We would especially like to thank Duncan Gillies and Luke Harmon for their help and advice.\n" + 
 			"\n" + 
-			"James Rosindell devised the original OneZoom concept, software and algorithms.\n" + 
-			"\n" + 
-			"We would like to thank Luke Harmon for his advice, Laura Nunes for her assistance with annotating the bird data and NERC for funding.\n" + 
-			"\n" + 
-			"This work is a contribution to Imperial College's Grand Challenges in Ecosystems and the Environment initiative.\n" + 
+			"This work is a contribution to Imperial College's Grand Challenges in Ecosystems and the Environment initiative and was partly funded by NERC with an impact acceleration grant and personal research fellowship to James Rosindell.\n" + 
 			"\n" + 
 			"The data for this version of OneZoom came from the following sources:\n" + 
 			"\n" + 
@@ -45,16 +58,24 @@ public class Information {
 			"\n" + 
 			"Snake data: Pyron RA, Kandambi HKD, Hendry CR, Pushpamal V, Burbrink FT and Somaweera R. 2013. Genus-level molecular phylogeny of snakes reveals the origins of species richness in Sri Lanka. Molecular Phylogenetics and Evolution 66(2013): 969-978\n" + 
 			"\n" + 
-			"\n" + 
-			"\n" + 
 			"Turtle data: Jaffe AL, Slater GJ and Alfaro ME. The evolution of island gigantism and body size variation in tortoises and turtles. Biology Letters 2011 (7) doi: 10.1098/rsbl.2010.1084\n" + 
 			"\n" + 
 			"Crocodilian data: Oaks JR. A time-calibrated species tree of crocodylia reveals a recent radiation of the true crocodiles Evolution 2011 doi:10.1111/j.1558-5646.2011.01373.x\n" + 
 			"\n" + 
 			"Dates of common ancestry between larger clades: Timetree.org Hedges SB, Dudley J and Kumar S (2006). TimeTree: A public knowledge-base of divergence times among organisms. Bioinformatics 22: 2971-2972.\n" + 
 			"\n" + 
+			"Sign post annotations of the tree: James Rosindell and Laura Nunes.\n" + 
+			"\n" + 
 			"Conservation status data: IUCN (2012) The IUCN Red List of Threatened Species. Version 2012.1. Available: http://www.iucnredlist.org. Downloaded on 25 May 2012\n" + 
 			"\n" + 
-			"Tree viewing software: Rosindell, J and Harmon, LJ (2012) OneZoom: A Fractal Explorer for the Tree of Life PLoS Biology.\n"
-			+"\n";
+			"Tree viewing software: Rosindell, J and Harmon, LJ (2012) OneZoom: A Fractal Explorer for the Tree of Life PLoS Biology\n" + 
+			"\n" + 
+			"Software Libraries uses:\n" + 
+			"\n" + 
+			"This software is developed with a assistance library named au.com.bytecode.opencsv which is under Apache License, Version 2.0.\n" + 
+			"\n" + 
+			"\n" + 
+			"Software licence:\n" + 
+			"\n" + 
+			"(James to research a licence for this app)";
 }
