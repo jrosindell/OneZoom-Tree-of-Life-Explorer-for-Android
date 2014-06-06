@@ -46,7 +46,8 @@ public final class R {
         public static final int tutorial4=0x7f020012;
         public static final int tutorial5=0x7f020013;
         public static final int tutorial6=0x7f020014;
-        public static final int tutorial99=0x7f020015;
+        public static final int tutorial7=0x7f020015;
+        public static final int tutorial99=0x7f020016;
     }
     public static final class id {
         public static final int TabHost01=0x7f0a0004;

@@ -13,7 +13,7 @@ import android.widget.ImageView;
 
 public class IntroductionView extends ImageView {
 	private int status = 1;
-	private int total = 6;
+	private int total = 7;
 	public CanvasActivity client;
 	private GestureDetector gestureDetector;
 	private Bitmap[] bitmapArray;

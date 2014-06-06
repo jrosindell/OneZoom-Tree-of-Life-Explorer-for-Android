@@ -3,6 +3,7 @@ package com.onezoom.midnode;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
+import android.graphics.Typeface;
 import android.graphics.Paint.Align;
 import android.graphics.Paint.Style;
 import android.graphics.Path;
@@ -326,7 +327,7 @@ public class Visualizer{
 	private void drawSignPostCircle(float r, float x, float y, MidNode midNode) {
 		float centerX = x + r * (midNode.positionData.hxmax + midNode.positionData.hxmin) / 2;
 		float centerY = y + r * (midNode.positionData.hymax + midNode.positionData.hymin) / 2;
-		float radius = r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
+		float radius =  r * (midNode.positionData.hxmax - midNode.positionData.hxmin) * midNode.positionData.arcr;
 		canvas.drawCircle(centerX, centerY, radius, signPostPaint);
 	}
 	
@@ -686,18 +687,19 @@ public class Visualizer{
 		
 		if (split.length == 2) {
 			startY = startY - radius/7f;
-			minTextSize = Math.min(1.55f * radius / split[0].length(), 1.55f * radius / split[1].length());
+			minTextSize = Math.min(1.75f * radius / split[0].length(), 1.75f * radius / split[1].length());
 		} else if (split.length == 3) {
 			startY = startY - radius/5f;
-			minTextSize = Math.min(Math.min(1.35f * radius / split[0].length(), 1.55f * radius / split[0].length()), 
+			minTextSize = Math.min(Math.min(1.35f * radius / split[0].length(), 1.75f * radius / split[0].length()), 
 					1.35f * radius / split[2].length());
 		} else if (split.length == 1) {
-			minTextSize = 1.55f * radius / split[0].length();
+			minTextSize = 1.75f * radius / split[0].length();
 		}
-		
+		int i = 0;
 		for (String string : split) {
 			drawTextOneLine(string, startX, startY, minTextSize, true, textPaint);
 			startY += lineSpace;
+			i++;
 		}	
 	}
 
@@ -705,6 +707,7 @@ public class Visualizer{
 			float minTextSize, boolean b, Paint paint) {
 		paint.setTextAlign(Align.CENTER);
 		paint.setTextSize(minTextSize);
+		startY += paint.descent();
 		canvas.drawText(string, startX, startY, paint);		
 	}
 
