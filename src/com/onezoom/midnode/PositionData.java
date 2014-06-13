@@ -42,11 +42,11 @@ public class PositionData implements Comparable<PositionData>{
 		return yvar + rvar * arcy - temp_theight * 2.25f;
 	}
 	
-	public float getArkiveX() {
+	public float getEOLX() {
 		return xvar + rvar * arcx  + 0.12f * rvar * arcr;
 	}
 
-	public float getArkiveY() {
+	public float getEOLY() {
 		return getWikiY();
 	}
 	

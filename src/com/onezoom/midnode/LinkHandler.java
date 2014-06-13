@@ -6,7 +6,6 @@ public class LinkHandler {
 	private static String currentLink = "";
 	private static MidNode linkNode;
 	
-	
 	public static String getLink() {
 		return currentLink;
 	}
@@ -73,8 +72,8 @@ public class LinkHandler {
 		float wikiX = node.positionData.getWikiX();
 		float wikiY = node.positionData.getWikiY();
 		
-		float arkiveX = node.positionData.getArkiveX();
-		float arkiveY = node.positionData.getArkiveY();
+		float eolX = node.positionData.getEOLX();
+		float eolY = node.positionData.getEOLY();
 		
 		float radius =node.positionData.getLinkRadius();
 
@@ -88,15 +87,15 @@ public class LinkHandler {
 			 */
 			setWikiLink(node);
 			return true;
-		} else if (fingerX > arkiveX - radius && fingerX < arkiveX + radius
-				&& fingerY > arkiveY - radius && fingerY < arkiveY + radius
+		} else if (fingerX > eolX - radius && fingerX < eolX + radius
+				&& fingerY > eolY - radius && fingerY < eolY + radius
 				&& node.positionData.rvar > Visualizer.getThresholddrawtextdetailleaf()) {
 			/**
-			 * User hit arkive link. Set arkive link url and record which node has been hit.
+			 * User hit eol link. Set eol link url and record which node has been hit.
 			 * 
 			 * Only when leaf is big enough to see the link can user hit it.
 			 */
-			setArkiveLink(node);
+			setEOLLink(node);
 			return true;
 		} else {
 			return false;
@@ -104,14 +103,13 @@ public class LinkHandler {
 	}
 
 	/**
-	 * Record the arkive link and link node.
+	 * Record the eol link and link node.
 	 * @param node
 	 */
-	private static void setArkiveLink(MidNode node) {	
-		currentLink = "http://www.arkive.org/explore/species?q=" 
-				+ node.traitsCalculator.getName2().toLowerCase(Locale.ENGLISH) + " " 
-				+ node.traitsCalculator.getName1().toLowerCase(Locale.ENGLISH);
-		
+	private static void setEOLLink(MidNode node) {	
+		String linknumber = EOLMap.getInstance().map.get(node.traitsCalculator.getName2().toLowerCase(Locale.ENGLISH) + " "
+				+ node.traitsCalculator.getName1().toLowerCase(Locale.ENGLISH));
+		currentLink = "http://eol.org/pages/" + linknumber + "/overview";
 		linkNode = node;
 	}
 
@@ -138,8 +136,8 @@ public class LinkHandler {
 	public static void setLink(MidNode searchedNode) {
 		if (currentLink.contains("wikipedia")) {
 			setWikiLink(searchedNode);
-		} else if (currentLink.contains("arkive")) {
-			setArkiveLink(searchedNode);
+		} else if (currentLink.contains("eol")) {
+			setEOLLink(searchedNode);
 		} else {
 			setWikiLink(searchedNode); //set as default. it'll be used by search to match key word.
 		}

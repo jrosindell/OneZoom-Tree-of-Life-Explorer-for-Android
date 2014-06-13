@@ -263,7 +263,7 @@ public class Search {
 	 * If both link name, which contains latin name of a node and cname does not contains the previous
 	 * search key word, then reset previousSearch to empty.
 	 * 
-	 * This function is called when a wiki link or arkive link is clicked. 
+	 * This function is called when a wiki link or eol link is clicked. 
 	 * 
 	 * If the node being clicked is not the one being searched, then reset search result.
 	 * @param link

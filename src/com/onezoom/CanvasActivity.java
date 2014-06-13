@@ -8,6 +8,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+import com.onezoom.midnode.EOLMap;
 import com.onezoom.midnode.Initializer;
 import com.onezoom.midnode.LinkHandler;
 import com.onezoom.midnode.Search;
@@ -35,6 +36,7 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
 import android.widget.ArrayAdapter;
+import android.widget.ImageSwitcher;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -48,7 +50,7 @@ import android.widget.Toast;
  * It also implicitly calls onCreateOptionsMenu to inflate action bar.
  * 
  * The activity contains three views, main tree view for displaying the tree, web view for showing wikipedia
- * page, arkive pages and other websites in future development and tutorial view for leading users through
+ * page, eol pages and other websites in future development and tutorial view for leading users through
  * tutorial slides.
  * 
  * 
@@ -195,6 +197,7 @@ public class CanvasActivity extends Activity{
 		searchEngine =  Search.getInstance(this);
 		orientation = getResources().getConfiguration().orientation;
 		MidNode.setClient(this);
+		EOLMap.setClient(this);
 		initializer = new Initializer();
 		memoryThread = new MemoryThread(this);
 		growthThread = new GrowthThread(this);
@@ -263,6 +266,8 @@ public class CanvasActivity extends Activity{
 		fulltree = MidNode.startLoadingTree();
 		
 		fulltree.recalculateDynamic();
+		
+//		EOLMap.getInstance();
 	}
 
 	

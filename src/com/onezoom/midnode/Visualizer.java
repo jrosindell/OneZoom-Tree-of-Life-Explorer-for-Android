@@ -527,12 +527,12 @@ public class Visualizer{
 	 */
 	private void drawTextDetail(LeafNode midNode) {
 		float startX, startY, lineWidth, lineHeight;
-		float startWikiX, startWikiY, startArkiveX, startArkiveY;
+		float startWikiX, startWikiY, startEolX, startEolY;
 		startWikiX = midNode.positionData.getWikiX();
 		startWikiY = midNode.positionData.getWikiY();
-		startArkiveX = midNode.positionData.getArkiveX();
-		startArkiveY = midNode.positionData.getArkiveY();
-		startX = (startWikiX + startArkiveX)/2;
+		startEolX = midNode.positionData.getEOLX();
+		startEolY = midNode.positionData.getEOLY();
+		startX = (startWikiX + startEolX)/2;
 		startY = startWikiY;
 		lineHeight = 1.3f * midNode.positionData.rvar * midNode.positionData.arcr;
 		lineWidth = 1.5f * midNode.positionData.rvar * midNode.positionData.arcr;
@@ -560,10 +560,10 @@ public class Visualizer{
 		}
 
 		/**
-		 * Draw wiki link and arkive link
+		 * Draw wiki link and eol link
 		 */
 		drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
-		drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "ARKive");
+		drawLink(startEolX, startEolY, midNode.positionData.getLinkRadius(), "EOL");
 		
 		/**
 		 * Draw latin name, common name and conservation status.
@@ -589,7 +589,7 @@ public class Visualizer{
 		wikiPaint.setStyle(Paint.Style.STROKE);
 		wikiPaint.setStrokeWidth(radius / 10);
 		canvas.drawCircle(x, y, radius, wikiPaint);
-		textPaint.setTextSize(radius / linkName.length() * 3f);
+		textPaint.setTextSize(radius / Math.max(4, linkName.length()) * 3f);
 		canvas.drawText(linkName, x, y + radius * 0.15f, textPaint);
 	}
 
