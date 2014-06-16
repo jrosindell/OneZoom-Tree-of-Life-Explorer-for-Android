@@ -1,2 +1,12 @@
 bin/
+gen/
 res/raw/
+
+*.ap
+*.class
+
+build/
+
+.gradle
+
+*.log

@@ -32,11 +32,13 @@ import android.util.DisplayMetrics;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.Window;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
 import android.widget.ArrayAdapter;
 import android.widget.ImageSwitcher;
+import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -171,9 +173,11 @@ public class CanvasActivity extends Activity{
 		/**
 		 * Create tree views.
 		 */
+		getWindow().requestFeature(Window.FEATURE_PROGRESS);
 		setContentView(R.layout.canvas_activity);
 		treeView = (TreeView) findViewById(R.id.tree_view);	
 		webView = (CustomizeWebView) findViewById(R.id.webview);
+		webView.setClient(this);
 		introductionView = (IntroductionView) findViewById(R.id.introductio_view);
 		/**
 		 * Only show tree view.
@@ -267,7 +271,7 @@ public class CanvasActivity extends Activity{
 		
 		fulltree.recalculateDynamic();
 		
-//		EOLMap.getInstance();
+		EOLMap.getInstance();
 	}
 
 	
@@ -727,6 +731,7 @@ public class CanvasActivity extends Activity{
 	}
 
 	public void loadLinkURL() {
+		webView.clearView();
 		webView.loadUrl(LinkHandler.getLink());
 	}
 	
