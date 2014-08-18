@@ -32,7 +32,7 @@ public class PositionData implements Comparable<PositionData>{
 	}
 	
 	public float getWikiX() {
-		return xvar + rvar * arcx - 0.12f * rvar * arcr;
+		return xvar + rvar * arcx - 0.20f * rvar * arcr;
 	}
 	
 	public float getWikiY() {
@@ -43,15 +43,23 @@ public class PositionData implements Comparable<PositionData>{
 	}
 	
 	public float getEOLX() {
-		return xvar + rvar * arcx  + 0.12f * rvar * arcr;
+		return xvar + rvar * arcx;
 	}
 
 	public float getEOLY() {
 		return getWikiY();
 	}
 	
+	public float getArkiveX() {
+		return xvar + rvar * arcx + 0.20f * rvar * arcr;
+	}
+
+	public float getArkiveY() {
+		return getWikiY();
+	}
+	
 	public float getLinkRadius() {
-		return 0.105f * rvar * arcr;
+		return 0.085f * rvar * arcr;
 	}
 	
 	public static void setScreenSize(int left, int bottom, int width, int height) {

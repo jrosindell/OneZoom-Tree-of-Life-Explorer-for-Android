@@ -3,6 +3,7 @@ package com.onezoom.midnode;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
+import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.graphics.Paint.Align;
 import android.graphics.Paint.Style;
@@ -347,7 +348,7 @@ public class Visualizer{
 			midNode.traitsCalculator.setSignName(splitStringToAtMostThreeParts(midNode.traitsCalculator.getCname()));
 		else 
 			midNode.traitsCalculator.setSignName(splitStringToAtMostThreeParts(midNode.traitsCalculator.getName1()));
-		drawTextMultipleLines(midNode.traitsCalculator.getSignName(), centerX, centerY, 1.85f * radius, signTextPaint);
+		drawTextMultipleLines(midNode.traitsCalculator.getSignName(), centerX, centerY, radius, signTextPaint);
 	}
 	
 	/**
@@ -365,23 +366,24 @@ public class Visualizer{
 		String outputInfo = Float.toString(midNode.traitsCalculator.getRichness());
 
 		drawTextOneLine(outputInfo, startX + radius, startY + 0.5f * radius,
-				radius, textPaint);
+				0.4f * radius, radius, textPaint);
 
-		/**
-		 * Branch 1 and 2 corresponding to common and latin name
-		 */
+		
 		if (isUsingCommon() && !Utility.equalsNull(midNode.traitsCalculator.getCname())) {
+			//If has common name
 			outputInfo = midNode.traitsCalculator.getCname();
 			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 0.9f * radius,
-					0.4f * radius, 1.65f * radius, textPaint);		
+					0.4f * radius, 1.5f * radius, textPaint);		
 		} else if (!isUsingCommon() && !Utility.equalsNull(midNode.traitsCalculator.getName1())) {
+			//If don't have common name and has latin name
 			outputInfo = midNode.traitsCalculator.getName1();
 			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 0.9f * radius,
-					0.4f * radius, 1.65f * radius, textPaint);	
+					0.4f * radius, 1.5f * radius, textPaint);	
 		} else {
+			//no common name and no latin name
 			outputInfo = String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " Mya";
-			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 1.1f * radius,
-					0.4f * radius, 2.0f * radius, textPaint);		
+			this.drawTextOnTwoLines(outputInfo, startX + radius, startY + 1.05f * radius,
+					0.6f * radius, 1.2f * radius, textPaint);		
 		}
 	}
 	
@@ -397,6 +399,7 @@ public class Visualizer{
 		float startX = x + midNode.positionData.arcr / 2f + r * midNode.positionData.arcx;
 		float startY = y + midNode.positionData.arcr / 2f + r * midNode.positionData.arcy - radius * 0.6f;
 		float lineHeight = radius;
+		float lineWidth = radius * 2;
 		String commonName = midNode.traitsCalculator.getCname();
 		String latinName = midNode.traitsCalculator.getName1();
 		boolean hasName = !Utility.equalsNull(commonName) || !Utility.equalsNull(latinName);
@@ -422,14 +425,14 @@ public class Visualizer{
 			 * First draw geological age.
 			 */
 			this.drawTextOneLine(Utility.geologicAge(midNode), 
-					startX, startY, lineHeight, textPaint);
+					startX, startY, lineHeight / 4f, lineWidth * 0.5f, textPaint);
 			startY += lineHeight / 4.5f;
 			
 			/**
 			 * Draw age 
 			 */
 			this.drawTextOneLine(String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
-					startX, startY, lineHeight * 1.7f, textPaint);
+					startX, startY, lineHeight / 3f, lineWidth * 0.8f, textPaint);
 			startY += lineHeight / 3.1f;
 			
 			/**
@@ -437,10 +440,10 @@ public class Visualizer{
 			 */
 			if (hasBothName) 
 				this.drawTextOnTwoLines(name, 
-						startX, startY,lineHeight / 3f, lineHeight * 1.55f, textPaint);
+						startX, startY,lineHeight / 3f, lineWidth* 0.8f, textPaint);
 			else
 				this.drawTextOnTwoLines(name[0], 
-						startX, startY,lineHeight / 3f, lineHeight * 1.7f, textPaint);
+						startX, startY,lineHeight / 3f, lineWidth* 0.85f, textPaint);
 			
 			startY += lineHeight / 1.5f;
 			
@@ -448,20 +451,20 @@ public class Visualizer{
 			 * Draw richness 
 			 */
 			this.drawTextOneLine((midNode.traitsCalculator.getRichness() + " species"),
-					startX, startY, lineHeight, textPaint);
+					startX, startY, lineHeight / 4f, lineWidth * 0.5f, textPaint);
 		} else {
 			/**
 			 * Draw geological age
 			 */
 			this.drawTextOneLine(Utility.geologicAge(midNode), 
-					startX, startY, lineHeight, textPaint);
+					startX, startY, lineHeight/3f, lineWidth * 0.5f, textPaint);
 			startY += lineHeight / 3f;
 			
 			/**
 			 * Draw age
 			 */
 			this.drawTextOneLine(String.format("%.1f", midNode.traitsCalculator.getLengthbr()) + " million years ago",
-					startX, startY, lineHeight * 1.7f, textPaint);
+					startX, startY, lineHeight/1.7f, lineWidth * 0.85f, textPaint);
 			startY += lineHeight / 1.7f;
 			
 			/**
@@ -469,7 +472,7 @@ public class Visualizer{
 			 */
 			String speciesInfo = Integer
 					.toString(midNode.traitsCalculator.getRichness()) + " species";
-			this.drawTextOneLine(speciesInfo, startX, startY, lineHeight * 1.7f, textPaint);
+			this.drawTextOneLine(speciesInfo, startX, startY, lineHeight/4f, lineWidth * 0.85f, textPaint);
 		}
 	}
 	
@@ -527,12 +530,14 @@ public class Visualizer{
 	 */
 	private void drawTextDetail(LeafNode midNode) {
 		float startX, startY, lineWidth, lineHeight;
-		float startWikiX, startWikiY, startEolX, startEolY;
+		float startWikiX, startWikiY, startEolX, startEolY, startArkiveX, startArkiveY;
 		startWikiX = midNode.positionData.getWikiX();
 		startWikiY = midNode.positionData.getWikiY();
 		startEolX = midNode.positionData.getEOLX();
 		startEolY = midNode.positionData.getEOLY();
-		startX = (startWikiX + startEolX)/2;
+		startArkiveX = midNode.positionData.getArkiveX();
+		startArkiveY = midNode.positionData.getArkiveY();
+		startX = (startWikiX + startEolX + startArkiveX)/3;
 		startY = startWikiY;
 		lineHeight = 1.3f * midNode.positionData.rvar * midNode.positionData.arcr;
 		lineWidth = 1.5f * midNode.positionData.rvar * midNode.positionData.arcr;
@@ -560,20 +565,21 @@ public class Visualizer{
 		}
 
 		/**
-		 * Draw wiki link and eol link
+		 * Draw wiki link, arkive link and eol link
 		 */
 		drawLink(startWikiX, startWikiY, midNode.positionData.getLinkRadius(), "Wiki");
 		drawLink(startEolX, startEolY, midNode.positionData.getLinkRadius(), "EOL");
+		drawLink(startArkiveX, startArkiveY, midNode.positionData.getLinkRadius(), "Arkive");
 		
 		/**
 		 * Draw latin name, common name and conservation status.
 		 */
 		startY += lineWidth / 6f;
-		drawTextOneLine(smallName, startX, startY, lineWidth / 1.70f, textPaint);
+		drawTextOneLine(smallName, startX, startY, lineHeight/6f, lineWidth / 1.70f, textPaint);
 		startY += lineHeight / 5f;
 		drawTextOnTwoLines(bigName, startX, startY, lineHeight / 6f, lineWidth * 0.7f, textPaint);
 		startY += lineHeight / 3f;
-		drawTextOneLine(conservationString,startX, startY, lineWidth / 1.5f, textPaint);
+		drawTextOneLine(conservationString,startX, startY, lineHeight/3f, lineWidth * 0.55f, textPaint);
 	}
 
 	/**
@@ -584,21 +590,15 @@ public class Visualizer{
 	 * @param linkName
 	 */
 	private void drawLink(float x, float y, float radius, String linkName) {
-		Paint wikiPaint = new Paint();
-		wikiPaint.setColor(Color.WHITE);
-		wikiPaint.setStyle(Paint.Style.STROKE);
-		wikiPaint.setStrokeWidth(radius / 10);
-		canvas.drawCircle(x, y, radius, wikiPaint);
+		Paint linkPaint = new Paint();
+		linkPaint.setColor(Color.WHITE);
+		linkPaint.setStyle(Paint.Style.STROKE);
+		linkPaint.setStrokeWidth(radius / 10);
+		canvas.drawCircle(x, y, radius, linkPaint);
 		textPaint.setTextSize(radius / Math.max(4, linkName.length()) * 3f);
 		canvas.drawText(linkName, x, y + radius * 0.15f, textPaint);
 	}
 
-	
-	private void drawTextOneLine(String outputInfo, float startX, float startY, float lineWidth, Paint paint) {
-		paint.setTextAlign(Align.CENTER);
-		paint.setTextSize(1.7f * lineWidth / Math.max(4,outputInfo.length()));
-		canvas.drawText(outputInfo, startX, startY, paint);
-	}
 	
 	private void drawTextOnTwoLines(String text, float startX, float startY, float lineHeight,
 			float lineWidth, Paint textPaint) {
@@ -640,20 +640,20 @@ public class Visualizer{
 		} else if (pieces.length == 2) {
 			drawTextOnTwoLines(pieces, startX, startY, lineHeight, lineWidth, textPaint);
 		} else if (pieces.length == 1) {
-			drawTextOneLine(pieces[0], startX, startY + lineHeight / 2f, lineWidth, textPaint, 10);
+			drawTextOneLine(pieces[0], startX, startY + lineHeight / 2f, lineHeight, lineWidth, textPaint);
 		}
 	}
 	
 	private void drawTextOnTwoLines(String[] text, float startX, float startY, float lineHeight,
 			float lineWidth, Paint textPaint) {
-		drawTextOneLine(text[0], startX, startY, lineWidth, textPaint, 10);
-		drawTextOneLine(text[1], startX, startY + lineHeight, lineWidth, textPaint, 10);
+		drawTextOneLine(text[0], startX, startY, lineHeight, lineWidth, textPaint);
+		drawTextOneLine(text[1], startX, startY + lineHeight, lineHeight, lineWidth, textPaint);
 	}
 
-	private void drawTextOneLine(String text, float startX, float startY,
-			float lineWidth, Paint textPaint, int minTextLength) {
+	private void drawTextOneLine(String text, float startX, float startY, float lineHeight,
+			float lineWidth, Paint textPaint) {
 		textPaint.setTextAlign(Align.CENTER);
-		textPaint.setTextSize(1.7f * lineWidth / Math.max(text.length(), minTextLength));
+		setTextSizeForWidth(textPaint, lineHeight * 0.9f, lineWidth, text);
 		canvas.drawText(text, startX, startY, textPaint);		
 	}
 
@@ -682,24 +682,31 @@ public class Visualizer{
 	
 	private void drawTextMultipleLines(String[] split, float startX,
 			float startY, float radius, Paint textPaint) {
-		float lineSpace = radius / (split.length + 1);
+		float lineSpace = 1.8f * radius / (split.length + 1);
 		float minTextSize = 9999f;
 		
 		if (split.length == 2) {
-			startY = startY - radius/7f;
-			minTextSize = Math.min(1.75f * radius / split[0].length(), 1.75f * radius / split[1].length());
+			startY = startY - 1.8f * radius/7f;
+			minTextSize = Math.min(
+					getTextSizeForWidth(1.75f * radius, split[0]),
+					getTextSizeForWidth(1.75f * radius, split[1]));
+//			minTextSize = Math.min(1.75f * radius / split[0].length(), 1.75f * radius / split[1].length());
 		} else if (split.length == 3) {
-			startY = startY - radius/5f;
-			minTextSize = Math.min(Math.min(1.35f * radius / split[0].length(), 1.75f * radius / split[0].length()), 
-					1.35f * radius / split[2].length());
+			startY = startY - 1.8f * radius/5f;
+//			minTextSize = Math.min(Math.min(1.35f * radius / split[0].length(), 1.75f * radius / split[0].length()), 
+//					1.35f * radius / split[2].length());
+			minTextSize = Math.min(
+							Math.min(
+							getTextSizeForWidth(1.55f * radius, split[0]),
+							getTextSizeForWidth(1.85f * radius, split[1])),
+							getTextSizeForWidth(1.55f * radius, split[2]));
 		} else if (split.length == 1) {
-			minTextSize = 1.75f * radius / split[0].length();
+//			minTextSize = 1.75f * radius / split[0].length();
+			minTextSize = getTextSizeForWidth(1.85f * radius, split[0]);
 		}
-		int i = 0;
 		for (String string : split) {
 			drawTextOneLine(string, startX, startY, minTextSize, true, textPaint);
 			startY += lineSpace;
-			i++;
 		}	
 	}
 
@@ -773,5 +780,103 @@ public class Visualizer{
 		result[0] = print1;
 		result[1] = print2;
 		return result;
+	}
+	
+	/**
+	 * Sets the text size for a Paint object so a given string of text will be a
+	 * given width.
+	 * 
+	 * @param paint
+	 *            the Paint to set the text size for
+	 * @param desiredWidth
+	 *            the desired width
+	 * @param text
+	 *            the text that should be that width
+	 */
+	private static void setTextSizeForWidth(Paint paint, float desiredWidth,
+	        String text) {
+
+	    // Pick a reasonably large value for the test. Larger values produce
+	    // more accurate results, but may cause problems with hardware
+	    // acceleration. But there are workarounds for that, too; refer to
+	    // http://stackoverflow.com/questions/6253528/font-size-too-large-to-fit-in-cache
+	    final float testTextSize = 48f;
+
+	    // Get the bounds of the text, using our testTextSize.
+	    paint.setTextSize(testTextSize);
+	    Rect bounds = new Rect();
+	    paint.getTextBounds(text, 0, text.length(), bounds);
+
+	    // Calculate the desired size as a proportion of our testTextSize.
+	    float desiredTextSize = testTextSize * desiredWidth / bounds.width();
+
+	    // Set the paint for that size.
+	    paint.setTextSize(desiredTextSize);
+	}
+	
+	/**
+	 * Returns the text size for a Paint object so a given string of text will be a
+	 * given width.
+	 * 
+	 * @param paint
+	 *            the Paint to set the text size for
+	 * @param desiredWidth
+	 *            the desired width
+	 * @param text
+	 *            the text that should be that width
+	 */
+	private static float getTextSizeForWidth(float desiredWidth,
+	        String text) {
+		Paint paint = new Paint();
+	    // Pick a reasonably large value for the test. Larger values produce
+	    // more accurate results, but may cause problems with hardware
+	    // acceleration. But there are workarounds for that, too; refer to
+	    // http://stackoverflow.com/questions/6253528/font-size-too-large-to-fit-in-cache
+	    final float testTextSize = 48f;
+
+	    // Get the bounds of the text, using our testTextSize.
+	    paint.setTextSize(testTextSize);
+	    Rect bounds = new Rect();
+	    paint.getTextBounds(text, 0, text.length(), bounds);
+
+	    // Calculate the desired size as a proportion of our testTextSize.
+	    float desiredTextSize = testTextSize * desiredWidth / bounds.width();
+	    
+	    return desiredTextSize;   
+	}
+	
+	/**
+	 * Set the text size for a Paint object so a given string of text will be a
+	 * given width. The text size will be adjusted if it is higher than the max height.
+	 * 
+	 * @param paint
+	 *            the Paint to set the text size for
+	 * @param desiredWidth
+	 *            the desired width
+	 * @param text
+	 *            the text that should be that width
+	 */
+	private static void setTextSizeForWidth(Paint paint, float maxHeight, float desiredWidth,
+	        String text) {
+	    // Pick a reasonably large value for the test. Larger values produce
+	    // more accurate results, but may cause problems with hardware
+	    // acceleration. But there are workarounds for that, too; refer to
+	    // http://stackoverflow.com/questions/6253528/font-size-too-large-to-fit-in-cache
+	    final float testTextSize = 48f;
+
+	    // Get the bounds of the text, using our testTextSize.
+	    paint.setTextSize(testTextSize);
+	    Rect bounds = new Rect();
+	    paint.getTextBounds(text, 0, text.length(), bounds);
+
+	    // Calculate the desired size as a proportion of our testTextSize.
+	    float desiredTextSize = testTextSize * desiredWidth / bounds.width();
+	    paint.setTextSize(desiredTextSize);	    
+	    
+	    paint.getTextBounds(text, 0, text.length(), bounds);
+	    if (bounds.height() > maxHeight) {
+	    	desiredTextSize = desiredTextSize * maxHeight / bounds.height();
+	    	paint.setTextSize(desiredTextSize);
+	    }
 	}
 }

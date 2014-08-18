@@ -4,7 +4,7 @@ package com.onezoom;
 public class Information {
 	public static final String [] tabTitle = {
 		"AUTHOR",
-		"Color Meaning",
+		"Color Key",
 		"HOW TO USE"
 	};
 	

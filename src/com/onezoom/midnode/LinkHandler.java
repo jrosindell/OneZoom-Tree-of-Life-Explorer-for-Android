@@ -75,6 +75,9 @@ public class LinkHandler {
 		float eolX = node.positionData.getEOLX();
 		float eolY = node.positionData.getEOLY();
 		
+		float arkiveX = node.positionData.getArkiveX();
+		float arkiveY = node.positionData.getArkiveY();
+		
 		float radius =node.positionData.getLinkRadius();
 
 		if (fingerX > wikiX - radius && fingerX < wikiX + radius
@@ -97,6 +100,16 @@ public class LinkHandler {
 			 */
 			setEOLLink(node);
 			return true;
+		} else if (fingerX > arkiveX - radius && fingerX < arkiveX + radius
+				&& fingerY > arkiveY - radius && fingerY < arkiveY + radius
+				&& node.positionData.rvar > Visualizer.getThresholddrawtextdetailleaf()) {
+			/**
+			 * User hit arkive link. Set arkive link url and record which node has been hit.
+			 * 
+			 * Only when leaf is big enough to see the link can user hit it.
+			 */
+			setArkiveLink(node);
+			return true;
 		} else {
 			return false;
 		}
@@ -110,6 +123,17 @@ public class LinkHandler {
 		String linknumber = EOLMap.getInstance().map.get(node.traitsCalculator.getName2().toLowerCase(Locale.ENGLISH) + " "
 				+ node.traitsCalculator.getName1().toLowerCase(Locale.ENGLISH));
 		currentLink = "http://eol.org/pages/" + linknumber + "/overview";
+		linkNode = node;
+	}
+	
+	/**
+	 * Record the arkive link and link node.
+	 * @param node
+	 */
+	private static void setArkiveLink(MidNode node) {
+		currentLink = "http://www.arkive.org/explore/species?q=" 
+				+ node.traitsCalculator.getName2().toLowerCase(Locale.ENGLISH) + " " 
+				+ node.traitsCalculator.getName1().toLowerCase(Locale.ENGLISH);
 		linkNode = node;
 	}
 
@@ -138,6 +162,8 @@ public class LinkHandler {
 			setWikiLink(searchedNode);
 		} else if (currentLink.contains("eol")) {
 			setEOLLink(searchedNode);
+		} else if (currentLink.contains("arkive")) {
+			setArkiveLink(searchedNode);
 		} else {
 			setWikiLink(searchedNode); //set as default. it'll be used by search to match key word.
 		}
