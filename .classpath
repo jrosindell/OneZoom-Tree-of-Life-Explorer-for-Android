@@ -6,6 +6,6 @@
 	<classpathentry kind="lib" path="libs/commons-lang3-3.1.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
-	<classpathentry kind="lib" path="/Users/kaizhong/study/libs/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="libs/guava-17.0.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
