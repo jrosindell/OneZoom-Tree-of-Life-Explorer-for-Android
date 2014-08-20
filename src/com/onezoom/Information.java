@@ -3,8 +3,8 @@ package com.onezoom;
 
 public class Information {
 	public static final String [] tabTitle = {
-		"AUTHoRS",
-		"ColoUr Key",
+		"AUTHORS",
+		"Color Key",
 		"HOW TO USE"
 	};
 	
