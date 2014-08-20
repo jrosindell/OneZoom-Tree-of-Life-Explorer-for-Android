@@ -1,12 +1,14 @@
 package com.onezoom;
 
 import android.content.Context;
+import android.content.res.Configuration;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.widget.ImageView;
@@ -34,6 +36,7 @@ public class IntroductionView extends ImageView {
 	}
 
 	private void init(Context context) {
+		this.setBackgroundResource(R.drawable.bg_col);
 		client = (CanvasActivity) context;
 		gestureDetector = new GestureDetector(context, new IntroductionViewGestureListener(this));
 		this.bitmapArray = new Bitmap[total];
@@ -79,7 +82,6 @@ public class IntroductionView extends ImageView {
 	
 	@Override
 	protected void onDraw(Canvas canvas) {
-		canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 		super.onDraw(canvas);
 	}
 
@@ -89,7 +91,7 @@ public class IntroductionView extends ImageView {
 	protected void LoadAllTutorial() {
 		for (int i = 1; i < total; i++) {
 			if (this.bitmapArray[i] == null) 
-				this.bitmapArray[i] = loadBitmap(i+1);
+				this.bitmapArray[i] = loadBitmap("tutorial" + (i+1));
 		}
 	}
 	
@@ -113,13 +115,14 @@ public class IntroductionView extends ImageView {
 	private void drawStep() {
 		Bitmap bitmap = null;
 		if (status > total) {
-			bitmap = loadBitmap(status);
+			bitmap = loadBitmap("tutorial" + status);
 		} else if (this.bitmapArray[status-1] == null) {
-			this.bitmapArray[status-1] = loadBitmap(status);
+			this.bitmapArray[status-1] = loadBitmap("tutorial" + status);
 			bitmap = this.bitmapArray[status-1];
 		} else {
 			bitmap = this.bitmapArray[status-1];
 		}
+		
 		this.setImageBitmap(bitmap);
 		this.invalidate();
 	}
@@ -158,14 +161,14 @@ public class IntroductionView extends ImageView {
 	 * @param index
 	 * @return
 	 */
-	private Bitmap loadBitmap(int index) {
+	private Bitmap loadBitmap(String filename) {
 		if (this.getWidth() == 0) {
 			return DecodeBitmapHelper.decodeSampledBitmapFromResource(getResources(),
-					getResources().getIdentifier("tutorial" + index, "drawable", client.getPackageName()),
+					getResources().getIdentifier(filename, "drawable", client.getPackageName()),
 					this.client.getScreenWidth()/2, this.client.getScreenHeight()/2);
 		} else {
 			return DecodeBitmapHelper.decodeSampledBitmapFromResource(getResources(),
-					getResources().getIdentifier("tutorial" + index, "drawable", client.getPackageName()),
+					getResources().getIdentifier(filename, "drawable", client.getPackageName()),
 					this.getWidth()/2, this.getHeight()/2);
 		}
 	}

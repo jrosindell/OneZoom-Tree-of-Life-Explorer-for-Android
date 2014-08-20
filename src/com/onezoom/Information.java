@@ -3,7 +3,7 @@ package com.onezoom;
 
 public class Information {
 	public static final String [] tabTitle = {
-		"AUTHOR",
+		"AUTHORS",
 		"Color Key",
 		"HOW TO USE"
 	};
@@ -70,12 +70,10 @@ public class Information {
 			"\n" + 
 			"Tree viewing software: Rosindell, J and Harmon, LJ (2012) OneZoom: A Fractal Explorer for the Tree of Life PLoS Biology\n" + 
 			"\n" + 
-			"Software Libraries uses:\n" + 
+			"Software Libraries used:\n" + 
 			"\n" + 
-			"This software is developed with a assistance library named au.com.bytecode.opencsv which is under Apache License, Version 2.0.\n" + 
-			"\n" + 
-			"\n" + 
-			"Software licence:\n" + 
-			"\n" + 
-			"(James to research a licence for this app)";
+			"This software is developed with a assistance library named OpenCSV http://opencsv.sourceforge.net which was released under an Apache 2.0 license agreement.\n" + 
+			"\n" +
+			"For further details refer to http://www.apache.org/licenses/LICENSE-2.0\n" +
+			"\n";
 }

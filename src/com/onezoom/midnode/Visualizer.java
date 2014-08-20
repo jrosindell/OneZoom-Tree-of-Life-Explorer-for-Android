@@ -653,7 +653,7 @@ public class Visualizer{
 	private void drawTextOneLine(String text, float startX, float startY, float lineHeight,
 			float lineWidth, Paint textPaint) {
 		textPaint.setTextAlign(Align.CENTER);
-		setTextSizeForWidth(textPaint, lineHeight * 0.9f, lineWidth, text);
+		setTextSizeForWidth(textPaint, lineHeight * 0.8f, lineWidth, text);
 		canvas.drawText(text, startX, startY, textPaint);		
 	}
 
@@ -688,8 +688,8 @@ public class Visualizer{
 		if (split.length == 2) {
 			startY = startY - 1.8f * radius/7f;
 			minTextSize = Math.min(
-					getTextSizeForWidth(1.75f * radius, split[0]),
-					getTextSizeForWidth(1.75f * radius, split[1]));
+					getTextSizeForWidth(radius * 0.5f, 1.75f * radius, split[0]),
+					getTextSizeForWidth(radius * 0.5f, 1.75f * radius, split[1]));
 //			minTextSize = Math.min(1.75f * radius / split[0].length(), 1.75f * radius / split[1].length());
 		} else if (split.length == 3) {
 			startY = startY - 1.8f * radius/5f;
@@ -697,9 +697,9 @@ public class Visualizer{
 //					1.35f * radius / split[2].length());
 			minTextSize = Math.min(
 							Math.min(
-							getTextSizeForWidth(1.55f * radius, split[0]),
-							getTextSizeForWidth(1.85f * radius, split[1])),
-							getTextSizeForWidth(1.55f * radius, split[2]));
+							getTextSizeForWidth(radius * 0.4f, 1.55f * radius, split[0]),
+							getTextSizeForWidth(radius * 0.4f, 1.85f * radius, split[1])),
+							getTextSizeForWidth(radius * 0.4f, 1.55f * radius, split[2]));
 		} else if (split.length == 1) {
 //			minTextSize = 1.75f * radius / split[0].length();
 			minTextSize = getTextSizeForWidth(1.85f * radius, split[0]);
@@ -722,9 +722,9 @@ public class Visualizer{
 	private String[] splitStringToAtMostThreeParts(String cname) {
 		int centerpoint = cname.length() / 4;
 		String[] splitstr = cname.split(" ");
-		String print1 = "";
-		String print2 = "";
-		String print3 = "";
+		String print1 = " ";
+		String print2 = " ";
+		String print3 = " ";
 		String[] result = new String[3];
 		if (splitstr.length == 1) {
 			return splitstr;
@@ -815,37 +815,6 @@ public class Visualizer{
 	}
 	
 	/**
-	 * Returns the text size for a Paint object so a given string of text will be a
-	 * given width.
-	 * 
-	 * @param paint
-	 *            the Paint to set the text size for
-	 * @param desiredWidth
-	 *            the desired width
-	 * @param text
-	 *            the text that should be that width
-	 */
-	private static float getTextSizeForWidth(float desiredWidth,
-	        String text) {
-		Paint paint = new Paint();
-	    // Pick a reasonably large value for the test. Larger values produce
-	    // more accurate results, but may cause problems with hardware
-	    // acceleration. But there are workarounds for that, too; refer to
-	    // http://stackoverflow.com/questions/6253528/font-size-too-large-to-fit-in-cache
-	    final float testTextSize = 48f;
-
-	    // Get the bounds of the text, using our testTextSize.
-	    paint.setTextSize(testTextSize);
-	    Rect bounds = new Rect();
-	    paint.getTextBounds(text, 0, text.length(), bounds);
-
-	    // Calculate the desired size as a proportion of our testTextSize.
-	    float desiredTextSize = testTextSize * desiredWidth / bounds.width();
-	    
-	    return desiredTextSize;   
-	}
-	
-	/**
 	 * Set the text size for a Paint object so a given string of text will be a
 	 * given width. The text size will be adjusted if it is higher than the max height.
 	 * 
@@ -879,4 +848,74 @@ public class Visualizer{
 	    	paint.setTextSize(desiredTextSize);
 	    }
 	}
+	
+	/**
+	 * Returns the text size for a Paint object so a given string of text will be a
+	 * given width.
+	 * 
+	 * @param paint
+	 *            the Paint to set the text size for
+	 * @param desiredWidth
+	 *            the desired width
+	 * @param text
+	 *            the text that should be that width
+	 */
+	private static float getTextSizeForWidth(float desiredWidth,
+	        String text) {
+		Paint paint = new Paint();
+	    // Pick a reasonably large value for the test. Larger values produce
+	    // more accurate results, but may cause problems with hardware
+	    // acceleration. But there are workarounds for that, too; refer to
+	    // http://stackoverflow.com/questions/6253528/font-size-too-large-to-fit-in-cache
+	    final float testTextSize = 48f;
+
+	    // Get the bounds of the text, using our testTextSize.
+	    paint.setTextSize(testTextSize);
+	    Rect bounds = new Rect();
+	    paint.getTextBounds(text, 0, text.length(), bounds);
+
+	    // Calculate the desired size as a proportion of our testTextSize.
+	    float desiredTextSize = testTextSize * desiredWidth / bounds.width();
+	    
+	    return desiredTextSize;   
+	}
+	
+	/**
+	 * Returns the text size for a Paint object so a given string of text will be a
+	 * given width.
+	 * 
+	 * @param paint
+	 *            the Paint to set the text size for
+	 * @param desiredWidth
+	 *            the desired width
+	 * @param text
+	 *            the text that should be that width
+	 */
+	private static float getTextSizeForWidth(float maxHeight, float desiredWidth,
+	        String text) {
+		Paint paint = new Paint();
+	    // Pick a reasonably large value for the test. Larger values produce
+	    // more accurate results, but may cause problems with hardware
+	    // acceleration. But there are workarounds for that, too; refer to
+	    // http://stackoverflow.com/questions/6253528/font-size-too-large-to-fit-in-cache
+	    final float testTextSize = 48f;
+
+	    // Get the bounds of the text, using our testTextSize.
+	    paint.setTextSize(testTextSize);
+	    Rect bounds = new Rect();
+	    paint.getTextBounds(text, 0, text.length(), bounds);
+
+	    // Calculate the desired size as a proportion of our testTextSize.
+	    float desiredTextSize = testTextSize * desiredWidth / bounds.width();
+	    
+	    paint.setTextSize(desiredTextSize);	    
+	    
+	    paint.getTextBounds(text, 0, text.length(), bounds);
+	    if (bounds.height() > maxHeight) {
+	    	desiredTextSize = desiredTextSize * maxHeight / bounds.height();
+	    }
+	    
+	    return desiredTextSize;
+	}
+	
 }

@@ -318,10 +318,8 @@ public class TreeView extends View {
 			cachedBitmap = loadBitmapFromView(this);
 			
 			if (this.cachedBitmap != this.bitmapForGenerateCache) {
-				System.out.println("draw with scale");
 				this.drawUsingCachedBitmap(canvas, cachedBitmap);
 			} else {
-				System.out.println("draw without scale");
 				drawUsingCachedBitmapWithoutScale(canvas, cachedBitmap);
 			}
 			

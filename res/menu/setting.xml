@@ -5,14 +5,16 @@
         android:id = "@+id/tree_switch"
         android:orderInCategory="1"
         android:actionViewClass="android.widget.Spinner"
-        android:layout_height = "fill_parent" 
+        android:layout_height = "fill_parent"
+        android:title="@string/action_settings" 
         android:showAsAction="always" /> 
         
       <item
         android:id = "@+id/common_latin_switch"
         android:orderInCategory="1"
         android:actionViewClass="android.widget.Spinner" 
-                android:layout_height = "fill_parent"      
+        android:layout_height = "fill_parent"
+        android:title="@string/action_settings"      
         android:showAsAction="always" /> 
         
     
