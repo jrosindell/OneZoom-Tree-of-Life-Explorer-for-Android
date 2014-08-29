@@ -72,8 +72,14 @@ public class Information {
 			"\n" + 
 			"Software Libraries used:\n" + 
 			"\n" + 
-			"This software is developed with a assistance library named OpenCSV http://opencsv.sourceforge.net which was released under an Apache 2.0 license agreement.\n" + 
+			"TextJustify-Android ( https :// github. com/ blue james bond/ Text Justify- Android ), " +
+			"OpenCSV ( http :// opencsv. sourceforge. net ), " +
+			"Guava 17.0 ( http :// code. google. com/ p/ guava- libraries ), " +
+			"Commons IO 2.4 ( http :// commons. apache. org/ proper/ commons- io ), "+
+			"Commons Lang 3.3.1 ( http :// commons. apache. org/ proper/ commons- lang ).\n" +
 			"\n" +
-			"For further details refer to http://www.apache.org/licenses/LICENSE-2.0\n" +
+			"All these libraries are released under an Apache license version 2.0. For further details refer to www. apache. org/ licenses/ LICENSE- 2.0\n" +
+			"\n"+
+			"This app is licensed to you under the agreement found at http :// www. onezoom. org/ OneZoom_ Tree_ of_ life_ explorer_ android_ license. pdf\n"+
 			"\n";
 }

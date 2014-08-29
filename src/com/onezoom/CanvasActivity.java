@@ -166,7 +166,7 @@ public class CanvasActivity extends Activity{
 			SharedPreferences settings = getSharedPreferences("tree_name", 0);
 			selectedItem = settings.getString("tree_name", null);	
 			if (selectedItem == null) {
-				selectedItem = "Mammals";
+				selectedItem = "Tetrapods";
 				storeCurrentTreeIntoPreference();
 			}
 		}
