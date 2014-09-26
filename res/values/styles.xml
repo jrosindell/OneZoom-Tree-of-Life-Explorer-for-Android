@@ -18,4 +18,6 @@
         <item name="android:soundEffectsEnabled">false</item>
         <item name="android:hapticFeedbackEnabled">false</item>
     </style>
+    
+    
 </resources>

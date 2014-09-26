@@ -2,32 +2,32 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
      <item
         android:id = "@+id/grow_reverse"
-        android:title = "@string/search_hint"
+        android:title = "@string/grow_revert"
         android:icon = "@drawable/grow_revert"
         android:showAsAction="always" /> 
        
      <item
         android:id = "@+id/grow_pause"
-        android:title = "@string/search_hint"
+        android:title = "@string/grow_pause"
         android:icon = "@drawable/grow_pause"
         android:showAsAction="always" /> 
         
      <item
         android:id = "@+id/grow_play"
-        android:title = "@string/search_hint"
+        android:title = "@string/grow_play"
         android:icon = "@drawable/grow_play"
         android:showAsAction="always" /> 
         
      
      <item
         android:id = "@+id/grow_stop"
-        android:title = "@string/search_hint"
+        android:title = "@string/grow_stop"
         android:icon = "@drawable/grow_stop"
         android:showAsAction="always" /> 
      
      <item
         android:id = "@+id/grow_close"
-        android:title = "@string/search_hint"
+        android:title = "@string/back"
         android:icon = "@drawable/back_arrow"
         android:showAsAction="always" /> 
         

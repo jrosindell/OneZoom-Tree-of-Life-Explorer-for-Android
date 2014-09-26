@@ -3,31 +3,31 @@
     
     <item
         android:id = "@+id/search_web"
-        android:title = "@string/search_hint"
+        android:title = "@string/web_search"
         android:icon = "@drawable/searchcolor"
         android:showAsAction="ifRoom|collapseActionView"
         android:actionViewClass="com.onezoom.CustomizeSearchView" />
     
     <item
         android:id = "@+id/reload_page"
-        android:title = "@string/reload_page"
+        android:title = "@string/web_reload"
         android:icon = "@drawable/reset"
         android:showAsAction="always"/> 
      <item
         android:id = "@+id/search_backward_web"
-        android:title = "@string/back_navigation"
+        android:title = "@string/search_previous"
         android:icon = "@drawable/backward"
         android:showAsAction="always"/> 
         
      <item
         android:id = "@+id/search_forward_web"
-        android:title = "@string/back_navigation"
+        android:title = "@string/search_next"
         android:icon = "@drawable/forward"
         android:showAsAction="always"/> 
         
      <item
         android:id = "@+id/web_back_to_tree"
-        android:title = "@string/search_hint"
+        android:title = "@string/back"
         android:icon = "@drawable/back_arrow"
         android:showAsAction = "always"/>
 </menu>

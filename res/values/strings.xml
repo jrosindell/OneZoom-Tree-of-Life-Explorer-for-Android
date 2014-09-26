@@ -15,8 +15,28 @@
     <string name="app_name">OneZoom</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="search_hint">Hello world!</string>
+    <string name="search_hint">Search</string>
     <string name="back_navigation">back navigation</string>
-    <string name="reload_page">reload</string>
+    
+    <string name="grow_revert">Revert</string>
+    <string name="grow_pause">Pause</string>
+    <string name="grow_play">Play</string>
+    <string name="grow_stop">Stop</string>
+    <string name="back">Back</string>
+    
+    <string name="search_previous">Previous</string>
+    <string name="search_next">Next</string>
+    
+    <string name="setting_tree_select">Select Tree</string>
+    <string name="setting_common_latin_switch">Switch Text</string>
+    
+    <string name="main_search">Search</string>
+    <string name="main_growth">Growth Animation</string>
+    <string name="main_setting">Setting</string>
+    <string name="main_reset">Reset</string>
+    <string name="main_info">Information</string>
+    
+    <string name="web_search">Search</string>
+	<string name="web_reload">reload</string>
     
 </resources>

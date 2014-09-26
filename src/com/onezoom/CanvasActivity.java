@@ -1,6 +1,7 @@
 package com.onezoom;
 
 
+import android.support.v4.view.MenuItemCompat;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -27,7 +28,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
-import android.media.AudioManager;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.Menu;
@@ -38,8 +38,6 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
 import android.widget.ArrayAdapter;
-import android.widget.ImageSwitcher;
-import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -223,7 +221,6 @@ public class CanvasActivity extends Activity{
 		getActionBar().setDisplayShowHomeEnabled(false);
 	    getActionBar().setDisplayShowTitleEnabled(false);
 		getActionBar().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
-		getActionBar().setIcon(android.R.color.transparent);
 		if (viewingWeb) inflateWebMenu(menu);
 		else if (growing) inflateTreeGrowMenu(menu);
 		else if (searching) inflateTreeSearchMenu(menu);
@@ -469,9 +466,10 @@ public class CanvasActivity extends Activity{
 		View menuView = menuItem.getActionView();
 		Spinner spinner = (Spinner) menuView;
 		ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-		        arrayOfString, android.R.layout.simple_list_item_1);
+		        arrayOfString, R.layout.spinner_dropdown_list);
 		spinner.setAdapter(adapter);
-		spinner.setPopupBackgroundDrawable(new ColorDrawable(Color.WHITE));
+//		spinner.setPopupBackgroundDrawable(new ColorDrawable(Color.WHITE));
+		spinner.setBackgroundColor(Color.WHITE);
 		return spinner;
 	}
 	
@@ -585,14 +583,15 @@ public class CanvasActivity extends Activity{
 	 */
 	private CustomizeSearchView inflateSearchView(Menu menu, int resourceID) {
 		SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
-		final CustomizeSearchView searchView = (CustomizeSearchView) menu.findItem(resourceID)
-				.getActionView();
+		
+		MenuItem searchMenuItem = (MenuItem) menu.findItem(resourceID);
+		MenuItemCompat.expandActionView(searchMenuItem);
+		
+		final CustomizeSearchView searchView = (CustomizeSearchView) MenuItemCompat.getActionView(searchMenuItem);
+
 		searchView.setSearchableInfo(searchManager
 				.getSearchableInfo(getComponentName()));
 		searchView.setIconifiedByDefault(true);
-		
-		MenuItem searchMenuItem = (MenuItem) menu.findItem(resourceID);
-		searchMenuItem.expandActionView();
 		
 		setQueryInSearchView(searchView);
 		

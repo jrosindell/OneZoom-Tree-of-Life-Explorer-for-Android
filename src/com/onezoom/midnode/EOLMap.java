@@ -12,7 +12,7 @@ import au.com.bytecode.opencsv.CSVReader;
 
 
 public class EOLMap {
-	Map<String, String> map;	
+	Map<String, String> map;
 	private static EOLMap instance;
 	private static CanvasActivity client;
 	

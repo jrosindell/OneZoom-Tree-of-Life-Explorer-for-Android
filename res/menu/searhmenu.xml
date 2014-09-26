@@ -9,19 +9,19 @@
         
      <item
         android:id = "@+id/search_backward_tree"
-        android:title = "@string/search_hint"
+        android:title = "@string/search_previous"
         android:icon = "@drawable/backward"
         android:showAsAction="always" /> 
         
      <item 
          android:id = "@+id/search_forward_tree"
-         android:title = "@string/search_hint"
+         android:title = "@string/search_next"
          android:icon = "@drawable/forward"
          android:showAsAction="always" />
      
      <item 
          android:id = "@+id/search_close"
-         android:title = "@string/search_hint"
+         android:title = "@string/back"
          android:icon = "@drawable/back_arrow"
          android:showAsAction = "always"/>
 

@@ -6,7 +6,9 @@
         android:orderInCategory="1"
         android:actionViewClass="android.widget.Spinner"
         android:layout_height = "fill_parent"
-        android:title="@string/action_settings" 
+        android:title="@string/setting_tree_select" 
+        android:popupBackground="#ffffff"
+        android:spinnerMode="dropdown"
         android:showAsAction="always" /> 
         
       <item
@@ -14,13 +16,13 @@
         android:orderInCategory="1"
         android:actionViewClass="android.widget.Spinner" 
         android:layout_height = "fill_parent"
-        android:title="@string/action_settings"      
+        android:title="@string/setting_common_latin_switch"      
         android:showAsAction="always" /> 
         
     
      <item 
          android:id = "@+id/setting_close"
-         android:title = "@string/search_hint"
+         android:title = "@string/back"
          android:icon = "@drawable/back_arrow"
          android:showAsAction = "always"/>
 
