@@ -259,7 +259,7 @@ public class CanvasActivity extends Activity{
 			treeView.setRefreshNeeded(true);
 		}
 		
-	    memoryThread.readBitmap();	    
+	    memoryThread.readBitmap();    
 	}
 	
 
