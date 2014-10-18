@@ -7,7 +7,7 @@
         android:showAsAction="ifRoom|collapseActionView"
         android:actionViewClass="com.onezoom.CustomizeSearchView" /> 
         
-     <item
+     <!-- <item
         android:id = "@+id/search_backward_tree"
         android:title = "@string/search_previous"
         android:icon = "@drawable/backward"
@@ -17,7 +17,7 @@
          android:id = "@+id/search_forward_tree"
          android:title = "@string/search_next"
          android:icon = "@drawable/forward"
-         android:showAsAction="always" />
+         android:showAsAction="always" /> -->
      
      <item 
          android:id = "@+id/search_close"

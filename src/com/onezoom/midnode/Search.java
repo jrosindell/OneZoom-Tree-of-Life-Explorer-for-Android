@@ -115,7 +115,7 @@ public class Search {
 	private void processAndShowSearchResult() {
 		if (searchHit > 0) {
 			process(searchResults.get(currentHit));
-			client.showToast(searchResult(currentHit, searchHit));
+//			client.showToast(searchResult(currentHit, searchHit));
 		} else {
 			client.showToast("Sorry, no result has been found");
 		}

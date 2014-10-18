@@ -13,7 +13,7 @@
         android:title = "@string/web_reload"
         android:icon = "@drawable/reset"
         android:showAsAction="always"/> 
-     <item
+    <!--  <item
         android:id = "@+id/search_backward_web"
         android:title = "@string/search_previous"
         android:icon = "@drawable/backward"
@@ -23,7 +23,7 @@
         android:id = "@+id/search_forward_web"
         android:title = "@string/search_next"
         android:icon = "@drawable/forward"
-        android:showAsAction="always"/> 
+        android:showAsAction="always"/>  -->
         
      <item
         android:id = "@+id/web_back_to_tree"

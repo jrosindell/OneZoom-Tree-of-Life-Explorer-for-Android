@@ -214,12 +214,19 @@ public class CanvasActivity extends Activity{
 	@Override
 	protected void onNewIntent(Intent intent) {
 		super.onNewIntent(intent);
+		String userInput = null;
 		if (Intent.ACTION_SEARCH.equals(intent.getAction())) {
 		    // Handle the normal search query case
 		    String query = intent.getStringExtra(SearchManager.QUERY);
-		    this.search(query);
+		    userInput = query;
 		} else if (Intent.ACTION_VIEW.equals(intent.getAction())) {
-			this.search(intent.getDataString());
+			userInput = intent.getDataString();
+		}
+		
+		if (userInput != null && this.treeView.isShown()) {
+			this.search(userInput);
+		} else if (userInput != null && this.webView.isShown()) {
+			this.searchAndLoad(userInput);
 		}
 	}
 
@@ -443,12 +450,12 @@ public class CanvasActivity extends Activity{
 			break;
 			
 		//Icons on search menu of tree view.
-		case R.id.search_backward_tree:
-			backSearch();
-			break;		
-		case R.id.search_forward_tree:
-			forwardSearch();
-			break;
+//		case R.id.search_backward_tree:
+//			backSearch();
+//			break;		
+//		case R.id.search_forward_tree:
+//			forwardSearch();
+//			break;
 		case R.id.search_close:
 			returnToMainMenu();
 			break;
@@ -478,12 +485,12 @@ public class CanvasActivity extends Activity{
 		case R.id.reload_page:
 			this.reloadPage();
 			break;
-		case R.id.search_backward_web:
-			this.backSearchAndLoad();
-			break;
-		case R.id.search_forward_web:
-			this.forwardSearchAndLoad();
-			break;
+//		case R.id.search_backward_web:
+//			this.backSearchAndLoad();
+//			break;
+//		case R.id.search_forward_web:
+//			this.forwardSearchAndLoad();
+//			break;
 		case R.id.web_back_to_tree:
 			this.hideWebView();
 			this.displayTreeView();
