@@ -164,7 +164,7 @@ public class CanvasActivity extends Activity{
 			SharedPreferences settings = getSharedPreferences("tree_name", 0);
 			selectedItem = settings.getString("tree_name", null);	
 			if (selectedItem == null) {
-				selectedItem = "Tetrapods";
+				selectedItem = "Mammals";
 				storeCurrentTreeIntoPreference();
 			}
 		}
@@ -209,6 +209,59 @@ public class CanvasActivity extends Activity{
 		memoryThread.start();  //memory thread will load the tree into memory when it starts.
 		growthThread.start();
 	}
+	
+	
+	@Override
+	public void onConfigurationChanged(Configuration newConfig) {
+	    super.onConfigurationChanged(newConfig);
+	    
+	    boolean treeBeingInitialized = treeView.isTreeBeingInitialized();
+	    int introduction_status = this.introductionView.getStatus();
+	    String url = webView.getUrl();
+	    boolean introduction_show = this.introductionView.isShown();
+	    boolean webview_show = this.webView.isShown();
+	    //reset position parameter and view
+	    orientation = getResources().getConfiguration().orientation;
+	    getDeviceScreenSize();
+		PositionData.setScreenSize(0, 0, screenWidth, screenHeight - 140);
+		
+		setContentView(R.layout.canvas_activity);
+		treeView = (TreeView) findViewById(R.id.tree_view);	
+		webView = (CustomizeWebView) findViewById(R.id.webview);
+		introductionView = (IntroductionView) findViewById(R.id.introductio_view);
+
+		treeView.resetDragScaleParameter();
+		webView.setClient(this);
+
+		if (introduction_show) {
+			introductionView.setStatus(introduction_status);
+			introductionView.drawStep();
+			this.hideWebView();
+			this.hideTreeView();
+		} else if (webview_show) {
+			webView.loadUrl(url);
+			this.hideIntroductionView();
+			this.hideTreeView();
+		} else {
+			this.hideIntroductionView();
+			this.hideWebView();
+		}
+		
+		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
+			//change from landscape to portrait
+			PositionData.shiftScreenPosition(-235, 255, 1);
+		} else {
+			PositionData.shiftScreenPosition(235, -255, 1);
+		}
+		this.recalculate();
+		if (treeBeingInitialized) {
+			treeView.setTreeBeingInitialized(treeBeingInitialized);
+			treeView.setRefreshNeeded(true);
+		}
+		
+	    memoryThread.readBitmap();	    
+	}
+	
 
 	/**
 	 * This method calls routines to inflate action bar.
@@ -657,6 +710,7 @@ public class CanvasActivity extends Activity{
 	 * reset tree position to its initial position. 
 	 * The factors are set to assure that the tree will be fitted within the screen.
 	 */
+	
 	private void resetTreeRootPosition() {
 		//user scale factor to adjust the size of the tree according to the size of device width
 		//set the root to (265,800) or (500,545) to ensure that all nodes are drawn on the screen

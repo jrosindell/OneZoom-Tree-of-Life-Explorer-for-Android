@@ -20,7 +20,8 @@
         android:theme="@style/AppTheme" >
        
         <activity
-            android:name="com.onezoom.CanvasActivity">
+            android:name="com.onezoom.CanvasActivity"
+            android:configChanges="orientation|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

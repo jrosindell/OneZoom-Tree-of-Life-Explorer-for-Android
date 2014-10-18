@@ -17,6 +17,7 @@ public class MemoryThread extends Thread {
 	public static final int MSG_SEARCH_LOAD = 7;
 	public static final int MSG_BACK_SEARCH_LOAD = 8;
 	public static final int MSG_FORWARD_SEARCH_LOAD = 9;
+	public static final int MSG_READ_BITMAP = 10;
 
 	
 	private MemoryHandler handler;
@@ -37,14 +38,14 @@ public class MemoryThread extends Thread {
 	public void run() {
 		Looper.prepare();
 		handler = new MemoryHandler(client);
-		
-		handler.post(new Runnable() {
-			@Override
-			public void run() {
-				client.readBitmapFromFile();
-				client.treeView.postInvalidate();
-			}
-		});
+		handler.sendEmptyMessage(MSG_READ_BITMAP);
+//		handler.post(new Runnable() {
+//			@Override
+//			public void run() {
+//				client.readBitmapFromFile();
+//				client.treeView.postInvalidate();
+//			}
+//		});
 		
 		handler.sendEmptyMessage(MSG_INITIALIZATION);
 		Looper.loop();
@@ -101,6 +102,10 @@ public class MemoryThread extends Thread {
 	public void forwardSearchAndLoad() {
 		handler.sendEmptyMessage(MSG_FORWARD_SEARCH_LOAD);		
 	}
+
+	public void readBitmap() {
+		handler.sendEmptyMessage(MSG_READ_BITMAP);
+	}
 }
 
 
@@ -120,6 +125,10 @@ class MemoryHandler extends Handler {
 	@Override
 	public void handleMessage(Message msg) {
 		switch (msg.what) {
+		case MemoryThread.MSG_READ_BITMAP:
+			client.readBitmapFromFile();
+			client.treeView.postInvalidate();
+			break;
 		/**
 		 * First time of loading the tree from file to RAM.
 		 * Before initialization needs to create the static objects in MidNode class.

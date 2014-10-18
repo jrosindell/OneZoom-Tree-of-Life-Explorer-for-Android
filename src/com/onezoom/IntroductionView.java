@@ -42,6 +42,15 @@ public class IntroductionView extends ImageView {
 		this.bitmapArray = new Bitmap[total];
 	}
 	
+	public int getStatus() {
+		return status;
+	}
+
+	public void setStatus(int status) {
+		this.status = status;
+	}
+
+	
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
 		this.gestureDetector.onTouchEvent(event);
@@ -100,8 +109,10 @@ public class IntroductionView extends ImageView {
 	 */
 	private void destroyBitmap() {
 		for (int i = 0; i < total; i++) {
-			this.bitmapArray[i].recycle();
-			this.bitmapArray[i] = null;
+			if (this.bitmapArray[i] != null) {
+				this.bitmapArray[i].recycle();
+				this.bitmapArray[i] = null;
+			}
 		}
 	}
 
@@ -112,7 +123,7 @@ public class IntroductionView extends ImageView {
 	 * tutorial1-tutorial7 will be cached into bitmap array.
 	 * tutorial of open page and color meaning will be store by introBitmap variable.
 	 */
-	private void drawStep() {
+	public void drawStep() {
 		Bitmap bitmap = null;
 		if (status > total) {
 			bitmap = loadBitmap("tutorial" + status);

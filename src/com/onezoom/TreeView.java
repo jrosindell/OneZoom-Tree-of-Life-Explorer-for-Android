@@ -270,6 +270,7 @@ public class TreeView extends View {
 	@Override
 	protected void onDraw(Canvas canvas) {
 		super.onDraw(canvas);
+		
 		if (!treeBeingInitialized && this.getInitBitmap() == null) {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 			drawLoadingAtBottomOfScreen(canvas);
@@ -277,9 +278,15 @@ public class TreeView extends View {
 			drawUsingCachedBitmap(canvas, this.getInitBitmap());
 			drawLoadingAtBottomOfScreen(canvas);
 		} else {
+			
 			if ((!duringRecalculation && !duringInteraction && refreshNeeded)){
+				System.out.println("refresh needed -> " + this.refreshNeeded);
+				System.out.println("xp1 -> " + PositionData.xp);
+				System.out.println("toggle -> " + toggle);
 				drawElementAndCache(canvas);
 			} else {
+				System.out.println("refresh needed -> " + this.refreshNeeded);
+				System.out.println("xp2 -> " + PositionData.xp);
 				drawUsingCachedBitmap(canvas, this.cachedBitmap);
 			}
 		}
