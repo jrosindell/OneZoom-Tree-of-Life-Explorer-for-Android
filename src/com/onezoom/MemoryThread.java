@@ -38,15 +38,7 @@ public class MemoryThread extends Thread {
 	public void run() {
 		Looper.prepare();
 		handler = new MemoryHandler(client);
-		handler.sendEmptyMessage(MSG_READ_BITMAP);
-//		handler.post(new Runnable() {
-//			@Override
-//			public void run() {
-//				client.readBitmapFromFile();
-//				client.treeView.postInvalidate();
-//			}
-//		});
-		
+		handler.sendEmptyMessage(MSG_READ_BITMAP);		
 		handler.sendEmptyMessage(MSG_INITIALIZATION);
 		Looper.loop();
 		super.run();

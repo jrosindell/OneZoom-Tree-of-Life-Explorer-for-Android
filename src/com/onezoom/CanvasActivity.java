@@ -140,9 +140,9 @@ public class CanvasActivity extends Activity{
 	 */
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+		super.onCreate(savedInstanceState);		
 		self = this;
-		
+		MyAppContext.context = this;
 			
 		/**
 		 * Get the tree which was selected by the user.
@@ -211,6 +211,18 @@ public class CanvasActivity extends Activity{
 	}
 	
 	
+	@Override
+	protected void onNewIntent(Intent intent) {
+		super.onNewIntent(intent);
+		if (Intent.ACTION_SEARCH.equals(intent.getAction())) {
+		    // Handle the normal search query case
+		    String query = intent.getStringExtra(SearchManager.QUERY);
+		    this.search(query);
+		} else if (Intent.ACTION_VIEW.equals(intent.getAction())) {
+			this.search(intent.getDataString());
+		}
+	}
+
 	@Override
 	public void onConfigurationChanged(Configuration newConfig) {
 	    super.onConfigurationChanged(newConfig);

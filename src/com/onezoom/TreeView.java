@@ -280,13 +280,8 @@ public class TreeView extends View {
 		} else {
 			
 			if ((!duringRecalculation && !duringInteraction && refreshNeeded)){
-				System.out.println("refresh needed -> " + this.refreshNeeded);
-				System.out.println("xp1 -> " + PositionData.xp);
-				System.out.println("toggle -> " + toggle);
 				drawElementAndCache(canvas);
 			} else {
-				System.out.println("refresh needed -> " + this.refreshNeeded);
-				System.out.println("xp2 -> " + PositionData.xp);
 				drawUsingCachedBitmap(canvas, this.cachedBitmap);
 			}
 		}
