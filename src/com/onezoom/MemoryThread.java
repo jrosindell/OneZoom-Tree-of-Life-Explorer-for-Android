@@ -98,6 +98,10 @@ public class MemoryThread extends Thread {
 	public void readBitmap() {
 		handler.sendEmptyMessage(MSG_READ_BITMAP);
 	}
+	
+	public void initialize() {
+		handler.sendEmptyMessage(MSG_INITIALIZATION);
+	}
 }
 
 

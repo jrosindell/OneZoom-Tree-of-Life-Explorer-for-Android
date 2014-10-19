@@ -215,12 +215,22 @@ public class CanvasActivity extends Activity{
 	protected void onNewIntent(Intent intent) {
 		super.onNewIntent(intent);
 		String userInput = null;
+
 		if (Intent.ACTION_SEARCH.equals(intent.getAction())) {
 		    // Handle the normal search query case
 		    String query = intent.getStringExtra(SearchManager.QUERY);
 		    userInput = query;
 		} else if (Intent.ACTION_VIEW.equals(intent.getAction())) {
 			userInput = intent.getDataString();
+		} else if (Intent.ACTION_MAIN.equals(intent.getAction())) {
+			selectedItem = intent.getExtras().getString(
+					"com.onezoom.selectedTree");
+			fulltree = null;
+			treeView.setTreeBeingInitialized(false);
+			treeView.setRefreshNeeded(true);
+			initializer = new Initializer();
+			memoryThread.readBitmap();
+			memoryThread.initialize();
 		}
 		
 		if (userInput != null && this.treeView.isShown()) {
@@ -235,6 +245,7 @@ public class CanvasActivity extends Activity{
 	    super.onConfigurationChanged(newConfig);
 	    
 	    boolean treeBeingInitialized = treeView.isTreeBeingInitialized();
+	    boolean treeIsInGrowthAnimation = treeView.isDuringGrowthAnimation();
 	    int introduction_status = this.introductionView.getStatus();
 	    String url = webView.getUrl();
 	    boolean introduction_show = this.introductionView.isShown();
@@ -273,6 +284,7 @@ public class CanvasActivity extends Activity{
 			PositionData.shiftScreenPosition(235, -255, 1);
 		}
 		this.recalculate();
+		treeView.setDuringGrowthAnimation(treeIsInGrowthAnimation);
 		if (treeBeingInitialized) {
 			treeView.setTreeBeingInitialized(treeBeingInitialized);
 			treeView.setRefreshNeeded(true);
@@ -356,7 +368,7 @@ public class CanvasActivity extends Activity{
 		memoryThread.recalculate();
 	}
 	
-	public void reset() {
+	public void reset() {	
 		memoryThread.reset();
 	}
 	
@@ -590,10 +602,11 @@ public class CanvasActivity extends Activity{
 				} else if (!spinner.getSelectedItem().toString().equals(self.selectedItem)) {
 					Search.destory();
 					Intent intent = new Intent(self, CanvasActivity.class);
+					intent.setAction(Intent.ACTION_MAIN);
 		    		String selectedItem = spinner.getSelectedItem().toString();
 		    		intent.putExtra("com.onezoom.selectedTree", selectedItem);
 		    		startActivity(intent);
-		    		self.finish();
+//		    		self.finish();
 				}
 			}
 

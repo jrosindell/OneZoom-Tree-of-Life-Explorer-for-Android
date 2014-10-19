@@ -4,7 +4,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Locale;
+
+import com.onezoom.midnode.SearchRecord;
 
 
 import android.app.SearchManager;
@@ -89,6 +92,7 @@ public class SpeciesSuggestionProvider extends ContentProvider {
     }
 
     private ArrayList<String> getSearchHints(String query) {
+    	ArrayList<SearchRecord> searchResults = new ArrayList<SearchRecord>();
     	CanvasActivity client = MyAppContext.context;
     	 String filename = client.selectedItem.toLowerCase(Locale.ENGLISH) + query.substring(0, 2).toLowerCase();
  		int resourceID = client.getResources().getIdentifier(filename, "raw", client.getPackageName());
@@ -101,7 +105,9 @@ public class SpeciesSuggestionProvider extends ContentProvider {
 			int total = 0;
 			while ((line = reader.readNext()) != null && total < 30) {
 				if (line[0].toLowerCase(Locale.ENGLISH).contains(query.toLowerCase(Locale.ENGLISH))) {
-					hints.add(line[0]);
+					SearchRecord record = new SearchRecord(line[0]);
+					record.setPriorityByQuery(query);
+					searchResults.add(record);
 					total++;
 				}				
 			}
@@ -114,6 +120,10 @@ public class SpeciesSuggestionProvider extends ContentProvider {
 				e.printStackTrace();
 			}
 		}
+ 		Collections.sort(searchResults, SearchRecord.comparator);
+ 		for (int i = 0; i < searchResults.size(); i++) {
+ 			hints.add(searchResults.get(i).getName());
+ 		}
 		return hints;
 	}
 

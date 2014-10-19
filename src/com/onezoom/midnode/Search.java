@@ -19,7 +19,7 @@ public class Search {
 	String previousSearch = "";
 	int searchHit;
 	int currentHit;
-	ArrayList<Record> searchResults;
+	ArrayList<SearchRecord> searchResults;
 	
 	/**
 	 * The class is a singleton class.
@@ -28,7 +28,7 @@ public class Search {
 	 */
 	private Search(CanvasActivity canvasActivity) {
 		client = canvasActivity;
-		searchResults = new ArrayList<Record>();
+		searchResults = new ArrayList<SearchRecord>();
 	}
 	
 	public static Search getInstance(CanvasActivity canvasActivity) {
@@ -146,7 +146,7 @@ public class Search {
 	 * Then reanchor search node and move it to the center of the screen.
 	 * @param record
 	 */
-	private void process(Record record) {
+	private void process(SearchRecord record) {
 		int key = Utility.combine(record.fileIndex, record.index);
 		MidNode searchedNode = null;
 		if (MidNode.getClient().getInitializer().fulltreeHash.containsKey(key)) {
@@ -197,7 +197,7 @@ public class Search {
 				 * line[0] is the name of the node in the file.
 				 */
 				if (line[0].toLowerCase(Locale.ENGLISH).contains(userInput.toLowerCase(Locale.ENGLISH))) {
-					Record newRecord = new Record(line);
+					SearchRecord newRecord = new SearchRecord(line);
 					if (!searchResults.contains(newRecord)) {
 						//this line has not been recorded yet.
 						if (newRecord.equalUserInput(userInput)) {
@@ -231,7 +231,7 @@ public class Search {
 					}
 				}
 			}
-			Collections.sort(searchResults, new SearchResultComparator());
+			Collections.sort(searchResults, SearchRecord.comparator);
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -249,8 +249,8 @@ public class Search {
 	 * @param searchResults
 	 * @param repetiveRecord
 	 */
-	private void deletePreviousResult(ArrayList<Record> searchResults,
-			Record repetiveRecord) {
+	private void deletePreviousResult(ArrayList<SearchRecord> searchResults,
+			SearchRecord repetiveRecord) {
 		for (int i = 0; i < searchResults.size(); i++) {
 			if (searchResults.get(i).equals(repetiveRecord)) {
 				searchResults.remove(i);
@@ -276,74 +276,4 @@ public class Search {
 	}
 }
 
-class Record {
-	String name;
-	int fileIndex;
-	int index;
-	int childIndex;
-	int priority;
-	
-	public Record(String[] line) {
-		assert line.length == 4;
-		name = line[0];
-		fileIndex = Integer.parseInt(line[1]);
-		index = Integer.parseInt(line[2]);
-		childIndex = Integer.parseInt(line[3]);
-		priority = 3;
-	}
-	
-	public int getPriority() {
-		return priority;
-	}
-	
-	public void setPriority(int i) {
-		priority = i;
-	}
 
-	public boolean equalUserInput(String userInput) {
-		if (name.toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase(Locale.ENGLISH)))
-			return true;
-		else
-			return false;
-	}
-	
-	/**
-	 * Test if name has complete match of user input.
-	 * @param userInput
-	 * @return
-	 */
-	public boolean containsWord(String userInput) {
-		String[] names = name.split(" ");
-		for (int i = 0; i < names.length; i++) {
-			if (names[i].toLowerCase(Locale.ENGLISH).equals(userInput.toLowerCase(Locale.ENGLISH)))
-				return true;
-		}
-		return false;
-	}
-
-	/**
-	 * Test if two records equals. 
-	 * A same node maybe recorded in different files since it has different latin name and common name.
-	 * For example, "South China Field Mouse" appears in file 'mammalsch' 
-	 * and it also appears in file 'mammalsap' because it has latin name 'apodemus drawco'.
-	 */
-	@Override
-	public boolean equals(Object another) {
-		if (this == another) return true;
-		if (another == null) return false;
-		Record that = (Record)another;
-		if (this.fileIndex == that.fileIndex
-				&& this.index == that.index)
-			return true;
-		return false;
-	}
-}
-
-class SearchResultComparator implements Comparator<Record> {
-	@Override
-	public int compare(Record left, Record right) {
-		if (left.getPriority() < right.getPriority()) return -1;
-		else if (left.getPriority() > right.getPriority()) return 1;
-		else return 0;
-	}
-}
