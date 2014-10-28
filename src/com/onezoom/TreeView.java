@@ -193,6 +193,14 @@ public class TreeView extends View {
 		init(context);
 	}
 	
+
+	@Override
+	protected void onSizeChanged(int w, int h, int oldw, int oldh) {
+		super.onSizeChanged(w, h, oldw, oldh);
+		this.setRefreshNeeded(true);
+		this.invalidate();
+	}
+
 	private void init(Context context) {
 		client = (CanvasActivity) context;
 		gestureDetector = new GestureDetector(context, new TreeViewGestureListener(this));
@@ -269,8 +277,12 @@ public class TreeView extends View {
 	 */
 	@Override
 	protected void onDraw(Canvas canvas) {
+		if (canvas.getWidth() != this.getWidth()) {
+			float widthScale = (float)canvas.getWidth()/(float)this.getWidth();
+			float heightScale = (float)canvas.getHeight()/(float)this.getHeight();
+			canvas.scale(widthScale, heightScale);
+		}
 		super.onDraw(canvas);
-		
 		if (!treeBeingInitialized && this.getInitBitmap() == null) {
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 			drawLoadingAtBottomOfScreen(canvas);
@@ -328,6 +340,7 @@ public class TreeView extends View {
 			refreshNeeded = false;
 			invalidate();		
 		} else {
+			System.out.println("draw....");
 			canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');
 			Visualizer.count = 0;
 			MidNode.visualizer.drawTree(canvas, client.getTreeRoot());
@@ -349,7 +362,7 @@ public class TreeView extends View {
 	 * @param canvas
 	 */
 	private void drawUsingCachedBitmap(Canvas canvas, Bitmap cached) {
-		canvas.save();
+		canvas.save();		
 		canvas.translate(distanceTotalX, distanceTotalY);
 		canvas.scale(scaleTotalX, scaleTotalY);
 		canvas.drawColor(Color.rgb(220, 235, 255));//rgb(255,255,200)');

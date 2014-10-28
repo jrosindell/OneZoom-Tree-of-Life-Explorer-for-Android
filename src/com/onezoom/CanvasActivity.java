@@ -244,51 +244,19 @@ public class CanvasActivity extends Activity{
 	public void onConfigurationChanged(Configuration newConfig) {
 	    super.onConfigurationChanged(newConfig);
 	    
-	    boolean treeBeingInitialized = treeView.isTreeBeingInitialized();
-	    boolean treeIsInGrowthAnimation = treeView.isDuringGrowthAnimation();
-	    int introduction_status = this.introductionView.getStatus();
-	    String url = webView.getUrl();
-	    boolean introduction_show = this.introductionView.isShown();
-	    boolean webview_show = this.webView.isShown();
-	    //reset position parameter and view
+	  //reset position parameter and view
 	    orientation = getResources().getConfiguration().orientation;
 	    getDeviceScreenSize();
-		PositionData.setScreenSize(0, 0, screenWidth, screenHeight - 140);
+		PositionData.setScreenSize(0, 0, screenWidth, screenHeight);
 		
-		setContentView(R.layout.canvas_activity);
-		treeView = (TreeView) findViewById(R.id.tree_view);	
-		webView = (CustomizeWebView) findViewById(R.id.webview);
-		introductionView = (IntroductionView) findViewById(R.id.introductio_view);
-
 		treeView.resetDragScaleParameter();
-		webView.setClient(this);
-
-		if (introduction_show) {
-			introductionView.setStatus(introduction_status);
-			introductionView.drawStep();
-			this.hideWebView();
-			this.hideTreeView();
-		} else if (webview_show) {
-			webView.loadUrl(url);
-			this.hideIntroductionView();
-			this.hideTreeView();
-		} else {
-			this.hideIntroductionView();
-			this.hideWebView();
-		}
-		
 		if (orientation == Configuration.ORIENTATION_PORTRAIT) {
 			//change from landscape to portrait
-			PositionData.shiftScreenPosition(-235, 255, 1);
+			PositionData.shiftScreenPosition(-235f*scaleFactor, 255f*scaleFactor, 1);
 		} else {
-			PositionData.shiftScreenPosition(235, -255, 1);
+			PositionData.shiftScreenPosition(235f*scaleFactor, -255*scaleFactor, 1);
 		}
 		this.recalculate();
-		treeView.setDuringGrowthAnimation(treeIsInGrowthAnimation);
-		if (treeBeingInitialized) {
-			treeView.setTreeBeingInitialized(treeBeingInitialized);
-			treeView.setRefreshNeeded(true);
-		}
 		
 	    memoryThread.readBitmap();    
 	}
@@ -344,7 +312,7 @@ public class CanvasActivity extends Activity{
 		initializer.setContext(this);
 		
 		//140 is the height left for action bar.
-		PositionData.setScreenSize(0, 0, screenWidth, screenHeight - 140);
+		PositionData.setScreenSize(0, 0, screenWidth, screenHeight);
 
 		//set the tree position to fit in the screen.
 		resetTreeRootPosition();
